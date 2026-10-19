@@ -1,0 +1,74 @@
+{
+  "slug": "phu-quoc",
+  "name": "Phu Quoc",
+  "nameVi": "Phú Quốc",
+  "kind": "area",
+  "corridor": "mekong-delta",
+  "province": "An Giang",
+  "provinceNote": "Phu Quoc was part of Kien Giang, which merged into An Giang in 2025. Book the island, not the new province name.",
+  "lat": 10.29,
+  "lng": 103.984,
+  "dots": 4,
+  "dotReason": "Worth a special trip in this corridor",
+  "summary": "Phu Quoc is a large island in the Gulf of Thailand. The west coast is sunset beaches and resorts. The north has quieter sand. It is a flight from Ho Chi Minh City, not a Mekong day tour.",
+  "timeNeeded": "3–4 days",
+  "fee": "Beaches are free; national park and cable cars are ticketed",
+  "getThere": "About 1 hour by air from Ho Chi Minh City",
+  "bestMonths": "November to April",
+  "verified": "19 Oct 2026",
+  "interests": {
+    "beaches": 5,
+    "islands": 5,
+    "food": 3,
+    "family": 4
+  },
+  "cover": "coast",
+  "nearby": [
+    "ho-chi-minh-city",
+    "can-tho"
+  ],
+  "routeSlugs": [
+    "ho-chi-minh-city-to-phu-quoc"
+  ],
+  "itinerarySlugs": [
+    "south-5-days"
+  ],
+  "seoTitle": "Phu Quoc travel guide — beaches and the flight from Ho Chi Minh City",
+  "seoDescription": "Which Phu Quoc coast to stay on, how long to remain, and how to fly there from Ho Chi Minh City.",
+  "intro": [
+    "Phu Quoc’s main airport sits in the center of the island. Long Beach, on the west, is the resort strip with sunset. Sao Beach and the north are quieter and a longer ride. The island is big enough that “ten minutes from the beach” in a listing can mean a highway.",
+    "Fish sauce, pepper, and seafood are the local products. Snorkeling trips leave for the southern islands in the calmer months. The rainy months are still warm, with heavier surf and more closed boats."
+  ],
+  "gettingAround": [
+    "Flights from Tan Son Nhat are frequent and short. A prebooked car should meet you; the airport taxi queue is workable if the price is agreed. Scooters are widely rented. Ride only with a valid motorcycle license. Taxis and Grab cover the west coast more reliably than the far north."
+  ],
+  "stayAreas": [
+    {
+      "name": "Long Beach",
+      "summary": "Sunset, restaurants, and the easiest logistics.",
+      "band": "Resorts and hotels"
+    },
+    {
+      "name": "North island",
+      "summary": "Quieter beaches and a longer transfer.",
+      "band": "Resorts"
+    }
+  ],
+  "eat": [
+    "Seafood and Vietnamese resort cooking. For a local meal, leave the hotel strip for Duong Dong town’s night market and ask the price of prawns before they hit the grill."
+  ],
+  "dishSlugs": [],
+  "interestsBody": [
+    "Beaches and a slow end to a Vietnam trip. It does not replace the Mekong. Do not schedule both on the same day."
+  ],
+  "faqs": [
+    {
+      "q": "How many days on Phu Quoc?",
+      "a": "Three nights is enough for one beach and one boat day. Less than that is mostly the airport."
+    }
+  ],
+  "season": {
+    "label": "Drier Nov–Apr",
+    "note": "November to April is the usual dry window. Boats to the small islands cancel more often in the wet months."
+  }
+}

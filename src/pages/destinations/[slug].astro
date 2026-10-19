@@ -1,0 +1,100 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import Partner from '../../components/Partner.astro';
+import PlaceCard from '../../components/PlaceCard.astro';
+import VietnamMap from '../../components/VietnamMap.astro';
+import { attractionPath, attractionsInCorridor, cardLine, getCorridors, getPlace, groupPlaces, pageDescription, placePath, placesInCorridor } from '../../lib/content';
+import { photoPath } from '../../lib/photos';
+import { stayLink } from '../../lib/partners';
+import { breadcrumbList, itemList } from '../../lib/schema';
+
+export function getStaticPaths() {
+  return getCorridors().map((corridor) => ({ params: { slug: corridor.slug }, props: { corridor } }));
+}
+const { corridor } = Astro.props;
+const places = placesInCorridor(corridor.slug);
+const groups = groupPlaces(places);
+const sights = attractionsInCorridor(corridor.slug);
+const image = photoPath(places[0]?.slug || '');
+const description = pageDescription(corridor.seoDescription, corridor.summary, corridor.climate);
+const path = `/destinations/${corridor.slug}`;
+let rank = 0;
+const crumbSchema = [
+  { name: 'Destinations', path: '/destinations' },
+  { name: corridor.name, path },
+];
+---
+<Base title={corridor.seoTitle} description={description} path={path} ogImage={image} ogType="website" jsonLd={[itemList(`${corridor.name} destinations`, places.map((place) => ({ name: place.name, path: placePath(place) }))), itemList(`${corridor.name} attractions`, sights.map((item) => ({ name: item.name, path: attractionPath(item) }))), breadcrumbList(crumbSchema)]}>
+  <article class="wrap section">
+    <header class="hero">
+      <div>
+        <Crumbs items={[{ name: 'Destinations', href: '/destinations' }, { name: corridor.name }]} />
+        <h1>{corridor.name}</h1>
+        <p class="lede">{corridor.summary}</p>
+        <p class="meta">{corridor.climate}</p>
+        <p class="meta">{corridor.days}</p>
+      </div>
+      <div class="panel"><VietnamMap /></div>
+    </header>
+    <div class="reading">
+      {corridor.body.map((paragraph) => <p>{paragraph}</p>)}
+    </div>
+    <div data-sort-root>
+      <div class="dest-head">
+        <h2>Top destinations in {corridor.name}</h2>
+        <div class="dest-toolbar">
+          <label>Sort by
+            <select data-sort-select aria-label="Sort destinations">
+              <option value="recommended">Recommended</option>
+              <option value="az">A to Z</option>
+              <option value="visited">Most visited</option>
+            </select>
+          </label>
+          <label>
+            <select data-group-select aria-label="Group destinations">
+              <option value="all">Group by type</option>
+              <option value="city">Cities</option>
+              <option value="town">Towns</option>
+              <option value="area">Landscapes and islands</option>
+            </select>
+          </label>
+        </div>
+      </div>
+      <p class="note" data-sort-note></p>
+      {groups.map((group) => (
+        <section class="group-block" data-kind-block={group.kind}>
+          <h2>{group.label}</h2>
+          <div class="jg-grid" data-sort-list>
+            {group.places.map((place) => {
+              rank += 1;
+              return <PlaceCard place={place} rank={rank} />;
+            })}
+          </div>
+        </section>
+      ))}
+    </div>
+    {sights.length > 0 && (
+      <section class="place-section">
+        <h2>Attractions in {corridor.name}</h2>
+        <ul class="guide-list">
+          {sights.map((item) => {
+            const home = getPlace(item.placeSlug);
+            return (
+              <li>
+                <a class="guide-row" href={attractionPath(item)}>
+                  <strong>{item.name}</strong>
+                  {home && <p class="meta">{home.name}</p>}
+                  <p>{cardLine(item.summary)}</p>
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+      </section>
+    )}
+    <div class="partner-band">
+      <Partner kind="stay" href={stayLink(corridor.name)} label={`Search stays in ${corridor.name}`} />
+    </div>
+  </article>
+</Base>

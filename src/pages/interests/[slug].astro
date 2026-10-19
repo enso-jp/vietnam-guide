@@ -1,0 +1,96 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import PlaceCard from '../../components/PlaceCard.astro';
+import Redirect from '../../components/Redirect.astro';
+import { interestHref, interestKeyFromSlug, interestLabels } from '../../config/site';
+import { attractionsForInterest, attractionPath, festivalsForInterest, getPlace, interestDescription, placesForInterest } from '../../lib/content';
+import { breadcrumbList, itemList } from '../../lib/schema';
+
+export function getStaticPaths() {
+  return Object.entries(interestLabels).map(([key, label]) => ({
+    params: { slug: key === 'food' ? 'food' : interestHref(key).replace('/interests/', '') },
+    props: { key, label },
+  }));
+}
+const { slug } = Astro.params;
+const key = interestKeyFromSlug(slug ?? '') ?? Astro.props.key;
+const label = interestLabels[key] ?? Astro.props.label;
+const places = placesForInterest(key);
+const sights = attractionsForInterest(key);
+const festivals = festivalsForInterest(key);
+const isFood = key === 'food';
+const path = interestHref(key);
+const description = interestDescription(key);
+const crumbSchema = [
+  { name: 'Interests', path: '/interests' },
+  { name: label, path },
+];
+const jsonLd = [
+  itemList(label, [
+    ...sights.map((item) => ({ name: item.name, path: attractionPath(item) })),
+    ...places.map((place) => ({ name: place.name, path: `/${place.slug}` })),
+  ]),
+  breadcrumbList(crumbSchema),
+];
+---
+{isFood ? <Redirect to="/food" /> : (
+<Base title={`${label} in Vietnam`} description={description} path={path} ogType="website" jsonLd={jsonLd}>
+  <article class="wrap section" data-sort-root>
+    <Crumbs items={[{ name: 'Interests', href: '/interests' }, { name: label }]} />
+    <div class="dest-head">
+      <h1>{label}</h1>
+      <div class="dest-toolbar">
+        <label>Sort by
+          <select data-sort-select aria-label="Sort places">
+            <option value="recommended">Recommended</option>
+            <option value="az">A to Z</option>
+            <option value="visited">Most visited</option>
+          </select>
+        </label>
+      </div>
+    </div>
+    <p class="lede">{description}</p>
+    <p class="note" data-sort-note></p>
+    {sights.length > 0 && (
+      <section class="place-section">
+        <h2>Attractions</h2>
+        <ul class="guide-list">
+          {sights.map((attraction) => {
+            const home = getPlace(attraction.placeSlug);
+            return (
+              <li>
+                <a class="guide-row" href={attractionPath(attraction)}>
+                  <strong>{attraction.name}</strong>
+                  {home && <p class="meta">{home.name}</p>}
+                  <p>{attraction.summary}</p>
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+      </section>
+    )}
+    {festivals.length > 0 && (
+      <section class="place-section">
+        <h2>Festivals</h2>
+        <ul class="guide-list">
+          {festivals.map((festival) => (
+            <li><a class="guide-row" href={`/festivals/${festival.slug}`}><strong>{festival.name}</strong><p>{festival.summary}</p></a></li>
+          ))}
+        </ul>
+      </section>
+    )}
+    <section class="place-section">
+      <h2>Places</h2>
+      {places.length === 0 ? (
+        <p>No places are tagged for this interest yet.</p>
+      ) : (
+        <div class="jg-grid" data-sort-list>
+          {places.map((place, index) => <PlaceCard place={place} rank={index + 1} />)}
+        </div>
+      )}
+    </section>
+  </article>
+</Base>
+)}

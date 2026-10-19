@@ -1,0 +1,43 @@
+{
+  "slug": "da-nang-day",
+  "title": "Da Nang in a day",
+  "kind": "trip",
+  "duration": "1 day",
+  "budget": "Check on arrival",
+  "pace": "Relaxed",
+  "photo": "da-nang-my-khe",
+  "summary": "The Cham Museum in the morning, lunch on mi Quang, then My Khe. Son Tra or the Marble Mountains only if the day still has room.",
+  "stops": [
+    {
+      "name": "Museum of Cham Sculpture",
+      "minutes": 60,
+      "placeSlug": "da-nang",
+      "attractionSlug": "cham-museum",
+      "note": "Start on the river, before the beach."
+    },
+    {
+      "name": "Mi Quang",
+      "minutes": 45,
+      "placeSlug": "da-nang",
+      "dishSlug": "mi-quang",
+      "note": "Lunch. Toss the noodles. Do not expect a deep soup."
+    },
+    {
+      "name": "My Khe Beach",
+      "minutes": 120,
+      "walkMinutes": 0,
+      "placeSlug": "da-nang",
+      "attractionSlug": "my-khe",
+      "note": "Ride from the river. Swim only if the flags allow it."
+    },
+    {
+      "name": "Marble Mountains",
+      "minutes": 90,
+      "placeSlug": "da-nang",
+      "attractionSlug": "marble-mountains",
+      "note": "Optional, on the way toward Hoi An. Skip it if the beach used the afternoon."
+    }
+  ],
+  "seoTitle": "Da Nang in a day",
+  "seoDescription": "A one-day Da Nang plan: the Cham Museum, mi Quang, and My Khe, with the Marble Mountains only if time remains."
+}

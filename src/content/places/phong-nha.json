@@ -1,0 +1,63 @@
+{
+  "slug": "phong-nha",
+  "name": "Phong Nha",
+  "nameVi": "Phong Nha",
+  "kind": "town",
+  "corridor": "central-coast",
+  "province": "Quang Tri",
+  "provinceNote": "Phong Nha was in Quang Binh, which merged into Quang Tri in 2025.",
+  "lat": 17.583,
+  "lng": 106.283,
+  "dots": 5,
+  "dotReason": "Worth building a day around",
+  "summary": "Phong Nha-Ke Bang is a national park of river caves. The park boat into Phong Nha Cave is the easy visit. Deeper caves such as Paradise Cave and the trekking caves are separate tickets and separate days.",
+  "timeNeeded": "2 days",
+  "fee": "Each cave has its own ticket",
+  "getThere": "Dong Hoi airport, or a train to Dong Hoi, then about 45–60 minutes by road",
+  "bestMonths": "February to August",
+  "verified": "19 Oct 2026",
+  "interests": {
+    "caves": 5,
+    "family": 3,
+    "photography": 4
+  },
+  "cover": "karst",
+  "nearby": [
+    "hue"
+  ],
+  "routeSlugs": [
+    "hue-to-hoi-an"
+  ],
+  "itinerarySlugs": [
+    "central-5-days"
+  ],
+  "seoTitle": "Phong Nha caves travel guide",
+  "seoDescription": "Which Phong Nha cave to book, how to get there from Dong Hoi or Hue, and how many days to stay.",
+  "intro": [
+    "Phong Nha town is a string of hotels along the Son River, built for people going into the caves. The national park sits in limestone hills that run to the Lao border.",
+    "The classic Phong Nha Cave is a boat ride into a lit cavern. Paradise Cave is a dry walk on a long boardwalk. Son Doong and the darker trekking caves are guided expeditions and must be booked ahead. Do not assume every cave is included in a day tour from Hue."
+  ],
+  "gettingAround": [
+    "Dong Hoi is the rail and air gateway. A prebooked car covers the park road. Bicycles work for the town and the nearest cave entrance. Tours from Hue exist and make for a long day."
+  ],
+  "stayAreas": [
+    {
+      "name": "Phong Nha town",
+      "summary": "Sleep here, not in Dong Hoi, if a cave morning starts early.",
+      "band": "Guesthouses and small hotels"
+    }
+  ],
+  "eat": [
+    "Town restaurants serve Vietnamese set meals and Western traveler food. Eat in town; there is little inside the park except what you carry."
+  ],
+  "dishSlugs": [],
+  "interestsBody": [
+    "Caves are the reason. Two days lets you do the boat cave and Paradise Cave without a 14-hour Hue return."
+  ],
+  "faqs": [
+    {
+      "q": "Can you visit Son Doong on your own?",
+      "a": "No. It is a multi-day guided expedition with a long booking lead. The boat cave and Paradise Cave are the visits most travelers mean."
+    }
+  ]
+}

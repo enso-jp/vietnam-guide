@@ -1,0 +1,50 @@
+{
+  "slug": "da-nang",
+  "name": "Da Nang food guide",
+  "placeSlug": "da-nang",
+  "summary": "Da Nang cooks like the center of the country: turmeric, peanuts, herbs, and a light hand with broth. Lunch is mi Quang. Breakfast is bun cha ca. Dinner, if you slept by the sea, is seafood.",
+  "body": [
+    "Eat in Da Nang the way the city does, not as a shorter Hoi An. The old-town dishes are a ride away. Here the bowl that tells you where you are is mi Quang, and it shows up at lunch, not at a beach club.",
+    "Markets are the reliable map. Han Market is the easy first stop by the river. Con Market is the one to choose when eating is the whole errand. Neither page names a stall, because the busy sign is a better guide than a list that goes stale."
+  ],
+  "sections": [
+    {
+      "id": "where",
+      "heading": "Where to eat",
+      "paragraphs": [
+        "Han Market (Cho Han) sits by the river in Hai Chau. Use it on a morning when you are already at the Cham Museum. Look for mi Quang, banh xeo, and bun cha ca on the ground floor. Hours move, so check on arrival.",
+        "Con Market (Cho Con) is the louder food market, west of the river. Come hungry and walk until a stall is busy. Mi Quang, banh xeo, rice-paper rolls, and sweet che soups all turn up here. Again, check the hour on arrival.",
+        "My Khe is dinner, not the place to judge a noodle shop. Grilled seafood and cold drinks line the sand and the streets just inland. This guide does not pick a bar or a grill."
+      ]
+    },
+    {
+      "id": "breakfast",
+      "heading": "Breakfast",
+      "paragraphs": [
+        "Start with bun cha ca if you are in the city. It is fish cakes and a light broth, and the good shops are a morning thing.",
+        "A banh mi works if you are leaving for the beach or for Hoi An and do not want to sit down. Coffee is everywhere. A beach breakfast is fine. It just will not teach you the city."
+      ]
+    },
+    {
+      "id": "how",
+      "heading": "How a Da Nang meal goes",
+      "paragraphs": [
+        "Mi Quang is tossed, not drunk. Break in the rice cracker, add herbs, and leave the broth shallow.",
+        "Banh xeo here is a smaller, crisper crepe than the southern one. Tear it, wrap the piece with herbs, and dip. Do not attack it with a fork.",
+        "Seafood is the meal you share. Point at what is fresh, ask for it grilled, and expect the price to be said at the table. If a number is not written up, ask before it is cooked."
+      ]
+    },
+    {
+      "id": "neighbors",
+      "heading": "A ride away",
+      "paragraphs": [
+        "Hoi An is under an hour. Go there for cao lau, white rose dumplings, and the old-town dinner you cannot get on My Khe.",
+        "Hue is the other direction, over Hai Van or by the tunnel. Bun bo Hue belongs to that city. Eat it there if the bowl is the reason for the trip."
+      ],
+      "dishSlugs": ["cao-lau", "bun-bo-hue"]
+    }
+  ],
+  "dishSlugs": ["mi-quang", "bun-cha-ca", "banh-xeo", "banh-mi", "ca-phe"],
+  "seoTitle": "Da Nang food guide — mi Quang, markets, seafood",
+  "seoDescription": "What to eat in Da Nang: mi Quang at lunch, bun cha ca in the morning, seafood on My Khe, and when to ride to Hoi An."
+}

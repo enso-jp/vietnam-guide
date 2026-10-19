@@ -1,0 +1,90 @@
+{
+  "slug": "hoi-an",
+  "name": "Hoi An",
+  "nameVi": "Hội An",
+  "kind": "town",
+  "corridor": "central-coast",
+  "province": "Da Nang",
+  "provinceNote": "Hoi An was in Quang Nam, which merged into Da Nang in 2025. Search and book it as Hoi An.",
+  "lat": 15.88,
+  "lng": 108.338,
+  "dots": 5,
+  "dotReason": "Worth building a day around",
+  "summary": "Hoi An is a preserved trading port of wooden shophouses, a Japanese covered bridge, and a river that floods in the late-year rains. Two nights lets you walk the old town in the day and again after the shops thin out. The ancient-town ticket covers a set of old houses, museums, and a performance.",
+  "timeNeeded": "2 days",
+  "fee": "Ancient-town ticket for the old houses; streets are free to walk",
+  "getThere": "30–45 minutes by car from Da Nang airport",
+  "bestMonths": "February to August",
+  "verified": "19 Oct 2026",
+  "interests": {
+    "oldTowns": 5,
+    "food": 5,
+    "photography": 5,
+    "markets": 4,
+    "family": 4,
+    "beaches": 3
+  },
+  "cover": "town",
+  "nearby": [
+    "da-nang",
+    "my-son",
+    "hue"
+  ],
+  "foodSlug": "hoi-an",
+  "routeSlugs": [
+    "da-nang-to-hoi-an",
+    "hue-to-hoi-an"
+  ],
+  "itinerarySlugs": [
+    "hoi-an-old-town-walk",
+    "central-5-days",
+    "best-14-days"
+  ],
+  "seoTitle": "Hoi An travel guide — what to do, how to get there, where to eat",
+  "seoDescription": "How to spend two days in Hoi An, what the ancient-town ticket covers, and why October floods change the plan.",
+  "intro": [
+    "Hoi An was a trading port where Japanese, Chinese, and later French merchants left shops and assembly halls. The old town is small. You can walk it in a morning and still spend the next day on a bicycle to the beach, a cooking class, or the ruins at My Son.",
+    "Tailors will find you. Use one with time for a fitting if you actually want clothes. The monthly lantern nights are crowded and pretty. In October and November the river can rise into the streets; check the season desk and do not plan museum time during a flood peak."
+  ],
+  "gettingAround": [
+    "A taxi or prebooked car from Da Nang airport takes under an hour outside rush traffic. Grab works once you have a local SIM. Bicycles are the right tool for An Bang beach and the rice-field edge of town. The old-town core is walking only in the evening pedestrian hours."
+  ],
+  "stayAreas": [
+    {
+      "name": "Old town edge",
+      "summary": "Walk to dinner. Book early in the dry months. Some lanes are noisy.",
+      "band": "Hotels and homestays"
+    },
+    {
+      "name": "An Bang",
+      "summary": "A beach base, 10–15 minutes by bicycle from the old town.",
+      "band": "Beach hotels"
+    }
+  ],
+  "eat": [
+    "Cao lau, banh mi, white rose dumplings, and com ga are the local set. Eat cao lau in Hoi An; it does not travel well.",
+    "The river restaurants sell the view. The better bowls are often a street back from the water."
+  ],
+  "dishSlugs": [
+    "cao-lau",
+    "banh-mi",
+    "ca-phe"
+  ],
+  "interestsBody": [
+    "Old streets, food, and photographs. The beach is a bonus, not the reason. My Son is the history add-on, a morning trip."
+  ],
+  "faqs": [
+    {
+      "q": "Is Hoi An worth visiting in October?",
+      "a": "October and November are the flood months. The town can be beautiful and knee-deep on the same week. If your dates are fixed, keep a Da Nang beach hotel as a backup."
+    },
+    {
+      "q": "Do you need the ancient-town ticket?",
+      "a": "You need it for the old houses and assembly halls on the ticket. You can walk the streets, eat, and cross the bridge area without buying every museum."
+    }
+  ],
+  "season": {
+    "label": "Flood risk Sep–Nov",
+    "note": "The old town floods most years in the late rainy season. A field report on this page will say if the streets are open."
+  }
+}

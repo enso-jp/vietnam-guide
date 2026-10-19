@@ -1,0 +1,41 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import SectionNav from '../../components/SectionNav.astro';
+import VietnamMap from '../../components/VietnamMap.astro';
+import { article, breadcrumbList } from '../../lib/schema';
+const description = 'Typical seasonal windows for rice, flowers, and central-coast floods. Live field reports will override these dates.';
+---
+<Base title="Season desk" description={description} path="/seasons" ogType="website" jsonLd={[article('Season desk', description, '/seasons'), breadcrumbList([{ name: 'Plan a trip', path: '/plan' }, { name: 'Seasons', path: '/seasons' }])]}>
+  <div class="wrap section">
+    <Crumbs items={[{ name: 'Plan a trip', href: '/plan' }, { name: 'Seasons' }]} />
+    <h1>Season desk</h1>
+    <p class="lede">These are the usual windows. A dated field report, when one exists, replaces the guess on that place.</p>
+    <SectionNav
+      label="Season desk sections"
+      items={[
+        { id: 'rice', label: 'Rice and flowers' },
+        { id: 'floods', label: 'Floods and storms' },
+        { id: 'tet', label: 'Tet' },
+      ]}
+    />
+    <div class="place-grid">
+      <div class="reading">
+        <section id="rice" class="place-section">
+        <h2>Rice and flowers</h2>
+        <p>Northern mountain gold is often September to October. Tam Coc, near Ninh Binh, is often late May to early June. Ha Giang buckwheat is often October to November.</p>
+        <p><a href="/seasons/rice-terraces">Open the place-by-place calendar</a></p>
+        </section>
+        <section id="floods" class="place-section">
+        <h2>Floods and storms</h2>
+        <p>The central coast, especially Hoi An, is most exposed from September to November. If a named storm is heading for Hue or Da Nang, treat boat trips and old-town nights as cancellable.</p>
+        </section>
+        <section id="tet" class="place-section">
+        <h2>Tet</h2>
+        <p>Lunar New Year moves. The week of Tet is the hardest week to travel. Flower markets in Hanoi and Ho Chi Minh City are the sight; closed shops are the cost.</p>
+        </section>
+      </div>
+      <div class="panel"><VietnamMap /></div>
+    </div>
+  </div>
+</Base>

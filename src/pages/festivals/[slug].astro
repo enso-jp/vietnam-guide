@@ -1,0 +1,34 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import { getFestivals, getPlace, pageDescription, placePath } from '../../lib/content';
+import { article, breadcrumbList } from '../../lib/schema';
+
+export function getStaticPaths() {
+  return getFestivals().map((festival) => ({ params: { slug: festival.slug }, props: { festival } }));
+}
+const { festival } = Astro.props;
+const path = `/festivals/${festival.slug}`;
+const description = pageDescription(festival.summary, festival.when);
+const crumbSchema = [
+  { name: 'Festivals', path: '/festivals' },
+  { name: festival.name, path },
+];
+---
+<Base title={festival.name} description={description} path={path} jsonLd={[article(festival.name, description, path), breadcrumbList(crumbSchema)]}>
+  <article class="wrap reading section">
+    <Crumbs items={[{ name: 'Festivals', href: '/festivals' }, { name: festival.name }]} />
+    <h1>{festival.name} {festival.nameVi && <span class="vi" lang="vi">{festival.nameVi}</span>}</h1>
+    <p class="lede">{festival.summary}</p>
+    <div class="facts">
+      <div><span>When</span><strong>{festival.when}</strong></div>
+    </div>
+    <h2>Places</h2>
+    <ul>
+      {festival.placeSlugs.map((slug) => {
+        const place = getPlace(slug);
+        return place ? <li><a href={placePath(place)}>{place.name}</a></li> : null;
+      })}
+    </ul>
+  </article>
+</Base>

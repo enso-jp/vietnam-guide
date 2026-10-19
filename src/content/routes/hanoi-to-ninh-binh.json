@@ -1,0 +1,16 @@
+{
+  "slug": "hanoi-to-ninh-binh",
+  "name": "Hanoi to Ninh Binh",
+  "from": "Hanoi",
+  "to": "Ninh Binh",
+  "summary": "Ninh Binh is the easy overnight south of Hanoi. Train and road both take about two hours to the city; Tam Coc is a little farther.",
+  "modes": [
+    { "mode": "Train", "duration": "About 2 hours", "note": "Regular trains stop at Ninh Binh. Then a taxi to Tam Coc.", "partner": "train" },
+    { "mode": "Limousine or car", "duration": "About 2 hours", "note": "Door to door if the car continues to your homestay.", "partner": "bus", "partnerPath": "hanoi/ninh-binh" }
+  ],
+  "seoTitle": "Hanoi to Ninh Binh — train, bus, and car",
+  "seoDescription": "How to get from Hanoi to Ninh Binh and on to Tam Coc.",
+  "faqs": [
+    { "q": "Can you go and return the same day?", "a": "Yes. Leave early, pick two sites, and expect a long day." }
+  ]
+}

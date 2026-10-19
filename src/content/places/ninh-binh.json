@@ -1,0 +1,79 @@
+{
+  "slug": "ninh-binh",
+  "name": "Ninh Binh",
+  "nameVi": "Ninh Bình",
+  "kind": "city",
+  "corridor": "northern-vietnam",
+  "province": "Ninh Binh",
+  "provinceNote": "Ninh Binh province now also includes the former Ha Nam and Nam Dinh provinces.",
+  "lat": 20.25,
+  "lng": 105.975,
+  "dots": 4,
+  "dotReason": "Worth a special trip in this corridor",
+  "summary": "Ninh Binh is the karst-and-rice country south of Hanoi. Tam Coc’s boat caves, the viewpoints at Mua Cave, and the temples around Hoa Lu are the usual stops. It is an overnight from Hanoi, or a very long day.",
+  "timeNeeded": "1–2 days",
+  "fee": "Each site charges its own ticket",
+  "getThere": "About 2 hours by road or train from Hanoi",
+  "bestMonths": "April to May and September to November for fields; drier days are easier year-round outside summer rain",
+  "verified": "19 Oct 2026",
+  "interests": {
+    "rice": 5,
+    "caves": 4,
+    "photography": 5,
+    "pagodas": 3,
+    "family": 4
+  },
+  "cover": "karst",
+  "nearby": [
+    "hanoi",
+    "tam-coc",
+    "mai-chau"
+  ],
+  "routeSlugs": [
+    "hanoi-to-ninh-binh"
+  ],
+  "itinerarySlugs": [
+    "north-7-days",
+    "best-14-days"
+  ],
+  "seoTitle": "Ninh Binh travel guide — Tam Coc, boats, and day trips from Hanoi",
+  "seoDescription": "How to visit Ninh Binh from Hanoi, which sights need a boat, and when the rice fields are at their best.",
+  "intro": [
+    "Ninh Binh’s landscape is inland Ha Long: limestone ridges standing in rice paddies, with rivers that pass through low caves. The city itself is a junction. Stay near Tam Coc or in the countryside if the fields are the point.",
+    "A day trip from Hanoi works if you leave early and pick two sites. Two nights lets you take a bicycle between them."
+  ],
+  "gettingAround": [
+    "Trains and buses from Hanoi take about two hours. From Ninh Binh station or the bus drop, use a taxi or a pre-booked car to Tam Coc. Bicycles are the pleasant way to move between Tam Coc, Mua Cave, and the nearby temples once you are based there."
+  ],
+  "stayAreas": [
+    {
+      "name": "Tam Coc hamlets",
+      "summary": "Wake up next to the fields. Quiet at night.",
+      "band": "Homestays and small hotels"
+    },
+    {
+      "name": "Ninh Binh city",
+      "summary": "Practical if you arrive late by train. You will ride out to the sights.",
+      "band": "City hotels"
+    }
+  ],
+  "eat": [
+    "Countryside restaurants serve goat, rice, and simple vegetable plates. Lunch beside the boat landing is convenient and ordinary."
+  ],
+  "dishSlugs": [
+    "com-tam"
+  ],
+  "interestsBody": [
+    "Rice scenery, river caves, and photography lead. It is one of the best family stops in the north because the boat ride is short and the roads between sites are flat."
+  ],
+  "faqs": [
+    {
+      "q": "Can you do Ninh Binh in a day from Hanoi?",
+      "a": "Yes, with an early start and two sites. Stay the night if you want a bicycle and the late light on the paddies."
+    }
+  ],
+  "season": {
+    "label": "Rice window varies",
+    "note": "Tam Coc’s most photographed rice is often late May to early June. Confirm on the season desk before you promise someone golden fields."
+  }
+}

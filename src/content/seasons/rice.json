@@ -1,0 +1,49 @@
+{
+  "sites": [
+    {
+      "slug": "tam-coc",
+      "name": "Tam Coc",
+      "placeSlug": "tam-coc",
+      "water": "April",
+      "green": "April to May",
+      "gold": "Late May to early June",
+      "note": "Earlier than the northern mountains."
+    },
+    {
+      "slug": "sapa",
+      "name": "Sapa valleys",
+      "placeSlug": "sapa",
+      "water": "Late April to May",
+      "green": "July to August",
+      "gold": "Late August to October",
+      "note": "Mist can hide a peak week."
+    },
+    {
+      "slug": "mu-cang-chai",
+      "name": "Mu Cang Chai",
+      "placeSlug": "sapa",
+      "water": "May to early June",
+      "green": "June to August",
+      "gold": "September to October",
+      "note": "In Lao Cai after the Yen Bai merger. Often the latest gold."
+    },
+    {
+      "slug": "mai-chau",
+      "name": "Mai Chau",
+      "placeSlug": "mai-chau",
+      "water": "March to May",
+      "green": "June to August",
+      "gold": "September to October",
+      "note": "A lower valley, easier to reach from Hanoi."
+    },
+    {
+      "slug": "ha-giang",
+      "name": "Ha Giang buckwheat",
+      "placeSlug": "ha-giang",
+      "water": "Not rice",
+      "green": "Not rice",
+      "gold": "Flowers often October to November",
+      "note": "This row is tam giác mạch, not a rice terrace. It shares the autumn trip."
+    }
+  ]
+}

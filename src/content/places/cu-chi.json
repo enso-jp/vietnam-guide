@@ -1,0 +1,61 @@
+{
+  "slug": "cu-chi",
+  "name": "Cu Chi",
+  "nameVi": "Củ Chi",
+  "kind": "area",
+  "corridor": "southeast",
+  "province": "Ho Chi Minh City",
+  "lat": 11.144,
+  "lng": 106.462,
+  "dots": 3,
+  "dotReason": "Worth it if you are already nearby",
+  "summary": "Cu Chi is a district of tunnel complexes used by guerrilla fighters during the wars. The visitor site is a half-day from the city center, with a short stretch of widened tunnel you can crawl. It is a war-history stop, not a light outing.",
+  "timeNeeded": "Half a day",
+  "fee": "Site ticket",
+  "getThere": "1.5–2 hours by road from District 1, depending on traffic",
+  "bestMonths": "December to April",
+  "verified": "19 Oct 2026",
+  "interests": {
+    "warHistory": 5,
+    "family": 2
+  },
+  "cover": "highlands",
+  "nearby": [
+    "ho-chi-minh-city"
+  ],
+  "routeSlugs": [
+    "ho-chi-minh-city-to-mekong"
+  ],
+  "itinerarySlugs": [
+    "south-5-days"
+  ],
+  "seoTitle": "Cu Chi Tunnels — how to visit from Ho Chi Minh City",
+  "seoDescription": "What the Cu Chi Tunnels site includes, how long the ride takes, and who should skip it.",
+  "intro": [
+    "The tunnels at Cu Chi are a maintained visitor site over a much larger wartime network. You walk a shaded path, see reconstructed traps and living spaces, and can crawl a short, enlarged tunnel section.",
+    "Go with a guide who will explain the history, or read before you arrive. Shooting ranges on site use live ammunition and are optional. The heat under the trees is real; morning is kinder."
+  ],
+  "gettingAround": [
+    "A private car or a group tour from District 1 is the practical way. Combine it with a delta stop only if you accept a very long day."
+  ],
+  "stayAreas": [
+    {
+      "name": "Ho Chi Minh City",
+      "summary": "Return to the city the same day.",
+      "band": "See Ho Chi Minh City"
+    }
+  ],
+  "eat": [
+    "Eat in the city. Site canteens are for a drink."
+  ],
+  "dishSlugs": [],
+  "interestsBody": [
+    "War history only. Skip it for children who will not have the context, and skip it if you have already spent the morning at the War Remnants Museum and need a different kind of afternoon."
+  ],
+  "faqs": [
+    {
+      "q": "How long do you spend underground?",
+      "a": "Most people crawl for a few minutes. The visit is mostly above ground."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+---
+import AttractionView from '../../components/AttractionView.astro';
+import PlaceView from '../../components/PlaceView.astro';
+import Redirect from '../../components/Redirect.astro';
+import { getAttractions, getFestivals, getPlaces, placePath } from '../../lib/content';
+import { tabs } from '../../config/site';
+
+export function getStaticPaths() {
+  const places = getPlaces();
+  const tabIds = tabs.filter((tab) => tab.id !== 'intro').map((tab) => tab.id);
+  const paths = [];
+  for (const place of places) {
+    if (!place.parent) {
+      for (const tab of tabIds) {
+        paths.push({ params: { place: place.slug, segment: tab }, props: { kind: 'redirect', place, tab } });
+      }
+      if (getFestivals().some((festival) => festival.placeSlugs.includes(place.slug))) {
+        paths.push({ params: { place: place.slug, segment: 'festivals' }, props: { kind: 'redirect', place, tab: 'festivals' } });
+      }
+      for (const attraction of getAttractions().filter((item) => item.placeSlug === place.slug)) {
+        paths.push({ params: { place: place.slug, segment: attraction.slug }, props: { kind: 'attraction', attraction } });
+      }
+    } else {
+      paths.push({
+        params: { place: place.parent, segment: place.slug },
+        props: { kind: 'place', place },
+      });
+    }
+  }
+  return paths;
+}
+
+const props = Astro.props;
+---
+{props.kind === 'redirect' && <Redirect to={`${placePath(props.place)}#${props.tab}`} />}
+{props.kind === 'place' && <PlaceView place={props.place} />}
+{props.kind === 'attraction' && <AttractionView attraction={props.attraction} />}

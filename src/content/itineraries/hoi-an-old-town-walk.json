@@ -1,0 +1,44 @@
+{
+  "slug": "hoi-an-old-town-walk",
+  "title": "Hoi An old town walk",
+  "kind": "walk",
+  "duration": "3 hours",
+  "budget": "Ticket plus a bowl of cao lau",
+  "pace": "Relaxed",
+  "summary": "Morning streets, one old house, the covered bridge, and lunch before the town gets hot.",
+  "stops": [
+    {
+      "name": "Japanese Covered Bridge",
+      "minutes": 20,
+      "walkMinutes": 8,
+      "placeSlug": "hoi-an",
+      "note": "Start at the west end.",
+      "attractionSlug": "japanese-bridge"
+    },
+    {
+      "name": "Tran Phu shophouses",
+      "minutes": 30,
+      "walkMinutes": 5,
+      "note": "Pick one ticketed house, not five."
+    },
+    {
+      "name": "Assembly hall",
+      "minutes": 25,
+      "walkMinutes": 8,
+      "note": "The Chinese assembly halls are cool and detailed."
+    },
+    {
+      "name": "River edge",
+      "minutes": 15,
+      "walkMinutes": 5,
+      "note": "Note the flood marks if you are visiting late in the year."
+    },
+    {
+      "name": "Cao lau",
+      "minutes": 40,
+      "note": "Eat before you leave the old streets."
+    }
+  ],
+  "seoTitle": "Hoi An old town walk",
+  "seoDescription": "A morning walking route through Hoi An’s old town."
+}

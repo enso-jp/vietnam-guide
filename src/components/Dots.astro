@@ -1,0 +1,12 @@
+---
+interface Props {
+  dots: number;
+  reason?: string;
+}
+const { dots, reason } = Astro.props;
+const filled = Math.max(0, Math.min(5, dots));
+---
+<span class="dots" aria-label={`${filled} of 5`}>
+  {Array.from({ length: 5 }, (_, i) => (i < filled ? '●' : '○')).join('')}
+</span>
+{reason && <span class="dot-reason">{reason}</span>}

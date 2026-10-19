@@ -1,0 +1,65 @@
+{
+  "slug": "cat-ba",
+  "name": "Cat Ba",
+  "nameVi": "Cát Bà",
+  "kind": "town",
+  "corridor": "northern-vietnam",
+  "province": "Hai Phong",
+  "provinceNote": "Cat Ba is administered with Hai Phong, which merged with Hai Duong in 2025.",
+  "lat": 20.727,
+  "lng": 107.048,
+  "dots": 4,
+  "dotReason": "Worth a special trip in this corridor",
+  "summary": "Cat Ba is the large island at the western edge of the Ha Long and Lan Ha bay karst. It suits people who want a night on an island, a hike, and a smaller boat, rather than a cruise from the main Ha Long pier.",
+  "timeNeeded": "2 days",
+  "fee": "National park and boat fees vary; confirm locally",
+  "getThere": "Bus and ferry from Hanoi, typically half a day",
+  "bestMonths": "October to April",
+  "verified": "19 Oct 2026",
+  "interests": {
+    "islands": 5,
+    "caves": 3,
+    "photography": 4,
+    "motorbike": 2
+  },
+  "cover": "coast",
+  "nearby": [
+    "ha-long",
+    "hanoi"
+  ],
+  "routeSlugs": [
+    "hanoi-to-ha-long"
+  ],
+  "itinerarySlugs": [
+    "north-7-days"
+  ],
+  "seoTitle": "Cat Ba travel guide",
+  "seoDescription": "How Cat Ba differs from a Ha Long cruise, and how long to stay on the island.",
+  "intro": [
+    "Cat Ba town is a harbor strip with hotels and seafood restaurants. The reason to come is Lan Ha Bay and Cat Ba National Park, not the town beach.",
+    "Allow two nights if you want a boat day and a walk. A single night mostly covers the transfer."
+  ],
+  "gettingAround": [
+    "Ferries and combined bus tickets from Hanoi change piers from year to year. Book a through ticket and recheck the pier the day before. On the island, rent a scooter only if you are licensed to ride; otherwise use a taxi or a tour for the park."
+  ],
+  "stayAreas": [
+    {
+      "name": "Cat Ba town harbor",
+      "summary": "The practical base. Boats leave from here.",
+      "band": "Hotels and hostels"
+    }
+  ],
+  "eat": [
+    "Seafood is the local meal. Ask for the price by weight before it is cooked."
+  ],
+  "dishSlugs": [],
+  "interestsBody": [
+    "Come for islands and a quieter bay. Skip it if you already have an overnight Ha Long cruise and only one spare day."
+  ],
+  "faqs": [
+    {
+      "q": "Can you see Ha Long from Cat Ba?",
+      "a": "Lan Ha Bay is the neighboring karst water. A standard Ha Long harbor cruise does not drop you on Cat Ba."
+    }
+  ]
+}

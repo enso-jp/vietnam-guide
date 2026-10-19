@@ -1,0 +1,114 @@
+---
+import { getPlaces } from '../lib/content';
+import { stayLink } from '../lib/partners';
+
+const places = getPlaces()
+  .filter((place) => !place.parent && place.kind !== 'district')
+  .sort((a, b) => a.name.localeCompare(b.name));
+const stayPlace = places.find((place) => place.slug === 'hanoi') || places[0];
+const stayDefault = stayPlace?.slug;
+const stayName = stayPlace?.name || 'Vietnam';
+const tripDefault = places.find((place) => place.slug === 'da-nang')?.slug || places[1]?.slug;
+const nights = [1, 2, 3, 4, 5, 6, 7, 10, 14];
+const adults = [1, 2, 3, 4, 5, 6];
+---
+<aside class="panel book-stay" data-book>
+  <h2>Book your stay</h2>
+  <p class="note" data-book-note>Partner link. We may earn a commission if you book.</p>
+  <div class="book-tabs" role="tablist" aria-label="Booking type">
+    <button type="button" role="tab" data-book-tab="stay" data-note="Partner link. We may earn a commission if you book." data-submit="Search stays" data-kind="partner" aria-selected="true">Stays</button>
+    <button type="button" role="tab" data-book-tab="flight" data-note="Search link. Opens Google Flights." data-submit="Search flights" data-kind="official" aria-selected="false">Flights</button>
+    <button type="button" role="tab" data-book-tab="bus" data-note="Partner link. We may earn a commission if you book." data-submit="Search buses" data-kind="partner" aria-selected="false">Buses</button>
+    <button type="button" role="tab" data-book-tab="train" data-note="Official Vietnam Railways timetable." data-submit="Open the timetable" data-kind="official" aria-selected="false">Trains</button>
+    <button type="button" role="tab" data-book-tab="activities" data-note="Itineraries on this site." data-submit="See activities" data-kind="site" aria-selected="false">Activities</button>
+    <button type="button" role="tab" data-book-tab="food" data-note="Food guides on this site." data-submit="Find food" data-kind="site" aria-selected="false">Food</button>
+  </div>
+  <form data-book-form>
+    <div data-book-fields="stay">
+      <label class="full">
+        City
+        <select data-stay-city>
+          {places.map((place) => (
+            <option value={place.slug} selected={place.slug === stayDefault}>{place.name}</option>
+          ))}
+        </select>
+      </label>
+      <label>
+        Check-in
+        <input type="date" data-stay-in />
+      </label>
+      <label>
+        Nights
+        <select data-stay-nights>
+          {nights.map((count) => (
+            <option value={count} selected={count === 1}>{count}</option>
+          ))}
+        </select>
+      </label>
+      <label class="full">
+        With
+        <select data-stay-adults>
+          {adults.map((count) => (
+            <option value={count} selected={count === 2}>{count === 1 ? '1 adult' : `${count} adults`}</option>
+          ))}
+        </select>
+      </label>
+    </div>
+    <div data-book-fields="flight" hidden>
+      <label class="full">
+        From
+        <select data-trip-from>
+          {places.map((place) => (
+            <option value={place.slug} selected={place.slug === stayDefault}>{place.name}</option>
+          ))}
+        </select>
+      </label>
+      <label class="full">
+        To
+        <select data-trip-to>
+          {places.map((place) => (
+            <option value={place.slug} selected={place.slug === tripDefault}>{place.name}</option>
+          ))}
+        </select>
+      </label>
+    </div>
+    <div data-book-fields="bus" hidden>
+      <label class="full">
+        From
+        <select data-trip-from>
+          {places.map((place) => (
+            <option value={place.slug} selected={place.slug === stayDefault}>{place.name}</option>
+          ))}
+        </select>
+      </label>
+      <label class="full">
+        To
+        <select data-trip-to>
+          {places.map((place) => (
+            <option value={place.slug} selected={place.slug === tripDefault}>{place.name}</option>
+          ))}
+        </select>
+      </label>
+    </div>
+    <div data-book-fields="train" hidden>
+      <p>Sleeper trains use the official Vietnam Railways timetable.</p>
+      <p><a href="/plan/trains">Train guide</a></p>
+    </div>
+    <div data-book-fields="activities" hidden>
+      <p>Walks and longer routes already written for these places.</p>
+      <p><a href="/itineraries">All itineraries</a></p>
+    </div>
+    <div data-book-fields="food" hidden>
+      <p>Dish guides and city food pages.</p>
+      <p><a href="/food">Food and drink</a></p>
+    </div>
+    <p class="book-error" data-book-error hidden></p>
+    <button class="book-submit" type="submit" data-book-submit>Search stays</button>
+    <p class="note book-fallback"><a href={stayLink(stayName)} rel="sponsored noopener" target="_blank">Search stays for {stayName} on Agoda</a></p>
+  </form>
+</aside>
+<aside class="ad-slot" aria-label="Advertising">
+  <small>Advertising</small>
+  <p>This space is reserved. Display ads are not switched on.</p>
+  <p><a href="/about/partners">How partner links work</a></p>
+</aside>

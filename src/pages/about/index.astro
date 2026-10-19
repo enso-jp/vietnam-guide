@@ -1,0 +1,14 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+---
+<Base title="About" description="Vietnam Guide is a reference for planning a trip. Each place uses the same facts: what it is, how worthwhile the visit is, how to get there, and what it costs to enter when a fee exists." path="/about" ogType="website">
+  <article class="wrap reading section">
+    <Crumbs items={[{ name: 'About' }]} />
+    <h1>About</h1>
+    <p>Vietnam Guide is a reference for planning a trip. Each place uses the same facts: what it is, how worthwhile the visit is, how to get there, and what it costs to enter when a fee exists.</p>
+    <p>Editorial dots are a judgment set by the editors. Visit rank is separate and stays hidden until a place has enough measured traffic. Sponsored links cannot change either one.</p>
+    <p>Pages are JSON records in this site’s repository. The schema is checked before a build. See <a href="/about/editing">how to update a page</a>.</p>
+    <p><a href="/about/ratings">How ratings work</a> · <a href="/about/partners">Partners</a> · <a href="/about/corrections">Corrections</a></p>
+  </article>
+</Base>

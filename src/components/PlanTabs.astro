@@ -1,0 +1,19 @@
+---
+interface Props {
+  current: 'before' | 'learn' | 'itineraries' | 'stay' | 'travel' | 'living';
+}
+const { current } = Astro.props;
+const items = [
+  { id: 'before', href: '/plan#before', label: 'Before you go' },
+  { id: 'learn', href: '/plan#learn', label: 'Learn' },
+  { id: 'itineraries', href: '/itineraries', label: 'Itinerary ideas' },
+  { id: 'stay', href: '/plan/where-to-stay', label: 'Accommodation' },
+  { id: 'travel', href: '/plan#travel', label: 'Transportation' },
+  { id: 'living', href: '/plan/living', label: 'Living' },
+];
+---
+<nav class="tabs" aria-label="Plan a trip">
+  {items.map((item) => (
+    <a href={item.href} aria-current={item.id === current ? 'page' : undefined}>{item.label}</a>
+  ))}
+</nav>

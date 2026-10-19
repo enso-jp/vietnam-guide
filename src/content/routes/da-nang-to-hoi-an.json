@@ -1,0 +1,16 @@
+{
+  "slug": "da-nang-to-hoi-an",
+  "name": "Da Nang to Hoi An",
+  "from": "Da Nang",
+  "to": "Hoi An",
+  "summary": "This is a short airport transfer, not a journey. Book the car with your flight, or use a taxi desk with a written price.",
+  "modes": [
+    { "mode": "Private car or taxi", "duration": "30–45 minutes", "note": "Longer in Da Nang rush hour. The Marble Mountains can be a stop.", "partner": "bus", "partnerPath": "da-nang/hoi-an" },
+    { "mode": "Public bus", "duration": "About 1 hour", "note": "Cheaper, slower with luggage, and less direct to an old-town hotel." }
+  ],
+  "seoTitle": "Da Nang to Hoi An — taxi, car, and bus",
+  "seoDescription": "How long the airport ride from Da Nang to Hoi An takes, and what it should cost you in time.",
+  "faqs": [
+    { "q": "Is Grab available at the airport?", "a": "Often, once you are in the arrivals area with a working SIM. A prepaid desk is simpler if your phone is still offline." }
+  ]
+}

@@ -1,0 +1,96 @@
+---
+import { corridorsNorthToSouth, placePath, placesInCorridor } from '../lib/content';
+
+interface Props {
+  variant?: 'compact' | 'home';
+}
+const { variant = 'compact' } = Astro.props;
+const corridors = corridorsNorthToSouth();
+const shapes: Record<string, { land: string; fill: string; island?: string }> = {
+  'northern-vietnam': {
+    fill: '#d5e4d4',
+    land: 'M78 40 L124 18 L168 30 L186 58 L176 96 L158 120 L148 128 L100 136 L76 114 L60 76 Z',
+  },
+  'central-coast': {
+    fill: '#e7d7b8',
+    land: 'M100 136 L148 128 L158 120 L166 158 L156 198 L142 236 L124 252 L106 242 L100 196 Z',
+  },
+  'highlands-coast': {
+    fill: '#d5e0cf',
+    land: 'M106 242 L124 252 L142 236 L154 268 L162 308 L154 342 L130 354 L110 342 L102 300 Z',
+  },
+  southeast: {
+    fill: '#e4dcd2',
+    land: 'M110 342 L130 354 L154 342 L162 372 L148 404 L118 412 L98 394 L104 362 Z',
+  },
+  'mekong-delta': {
+    fill: '#d3e3dc',
+    land: 'M98 394 L118 412 L148 404 L140 436 L114 456 L82 446 L64 420 L78 396 Z',
+    island: 'M46 414 L58 404 L68 418 L60 434 L46 426 Z',
+  },
+};
+const tabLabel: Record<string, string> = {
+  'northern-vietnam': 'Northern Vietnam',
+  'central-coast': 'Central Coast',
+  'highlands-coast': 'Highlands',
+  southeast: 'Southeast',
+  'mekong-delta': 'Mekong Delta',
+};
+const first = corridors[0]?.slug;
+---
+{variant === 'home' ? (
+  <div class="region-stage" data-region-stage>
+    <nav class="region-map" aria-label="Regions of Vietnam">
+      <svg class="map-svg" viewBox="36 8 160 460">
+        <rect x="36" y="8" width="160" height="460" fill="#e7eef2"></rect>
+        {corridors.map((corridor) => {
+          const shape = shapes[corridor.slug];
+          return (
+            <a href={`/destinations/${corridor.slug}`} data-region={corridor.slug} class:list={[{ 'is-active': corridor.slug === first }]}>
+              <title>{corridor.name}</title>
+              <path d={shape?.land} fill={shape?.fill || '#e4ede4'} stroke="#1c1915" stroke-width="1.4"></path>
+              {shape?.island && <path d={shape.island} fill={shape.fill} stroke="#1c1915" stroke-width="1.4"></path>}
+            </a>
+          );
+        })}
+      </svg>
+    </nav>
+    <div class="region-detail" aria-live="polite">
+      {corridors.map((corridor) => {
+        const places = placesInCorridor(corridor.slug);
+        return (
+          <div class="region-card" data-region-card={corridor.slug} hidden={corridor.slug !== first}>
+            <p class="eyebrow">Region</p>
+            <h3><a href={`/destinations/${corridor.slug}`}>{corridor.name}</a></h3>
+            <p>{corridor.summary}</p>
+            <p class="meta">{corridor.climate}</p>
+            <ul class="region-places">
+              {places.map((place) => (
+                <li><a href={placePath(place)} data-region={corridor.slug}>{place.name}</a></li>
+              ))}
+            </ul>
+          </div>
+        );
+      })}
+    </div>
+    <nav class="region-tabs" aria-label="Region list">
+      {corridors.map((corridor) => (
+        <a class:list={['region-tab', { 'is-active': corridor.slug === first }]} href={`/destinations/${corridor.slug}`} data-region={corridor.slug} title={corridor.name}>{tabLabel[corridor.slug] || corridor.name}</a>
+      ))}
+    </nav>
+  </div>
+) : (
+  <svg class="map-svg" viewBox="36 8 160 460" role="img" aria-label="Map of Vietnam by travel corridor">
+    <rect x="36" y="8" width="160" height="460" fill="#e7eef2"></rect>
+    {corridors.map((corridor) => {
+      const shape = shapes[corridor.slug];
+      return (
+        <a href={`/destinations/${corridor.slug}`}>
+          <title>{corridor.name}</title>
+          <path d={shape?.land} fill={shape?.fill || '#e4ede4'} stroke="#1c1915" stroke-width="1.4"></path>
+          {shape?.island && <path d={shape.island} fill={shape.fill} stroke="#1c1915" stroke-width="1.4"></path>}
+        </a>
+      );
+    })}
+  </svg>
+)}

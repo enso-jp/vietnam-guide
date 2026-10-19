@@ -1,0 +1,78 @@
+{
+  "slug": "sapa",
+  "name": "Sapa",
+  "nameVi": "Sa Pa",
+  "kind": "town",
+  "corridor": "northern-vietnam",
+  "province": "Lao Cai",
+  "provinceNote": "Lao Cai province now includes the former Yen Bai province. Sapa is still the name to search.",
+  "lat": 22.336,
+  "lng": 103.844,
+  "dots": 4,
+  "dotReason": "Worth a special trip in this corridor",
+  "summary": "Sapa is a highland town near the Chinese border, used as a base for rice terraces, market days, and Fansipan. Mist is part of the place. Go for two nights at least, and treat village walks as visits to people’s fields, not a backdrop.",
+  "timeNeeded": "2–3 days",
+  "fee": "Town walking is free; Fansipan and some villages charge",
+  "getThere": "Overnight train or a 5–7 hour bus or limousine from Hanoi to Lao Cai, then 45 minutes up to Sapa",
+  "bestMonths": "March to May and September to November",
+  "verified": "19 Oct 2026",
+  "interests": {
+    "rice": 5,
+    "mountains": 5,
+    "photography": 5,
+    "markets": 4,
+    "family": 3
+  },
+  "cover": "highlands",
+  "nearby": [
+    "ha-giang",
+    "hanoi",
+    "mai-chau"
+  ],
+  "routeSlugs": [
+    "hanoi-to-sapa"
+  ],
+  "itinerarySlugs": [
+    "north-7-days",
+    "best-14-days"
+  ],
+  "seoTitle": "Sapa travel guide — rice terraces, markets, and the train from Hanoi",
+  "seoDescription": "How to get from Hanoi to Sapa, how many nights to stay, and when the terraces change color.",
+  "intro": [
+    "Sapa sits high above the Muong Hoa valley. The town is a resort strip with hotels and restaurants. The valleys below, including Cat Cat, Lao Chai, and Ta Van, are where the terraces and the Hmong and Giay villages are.",
+    "Ask before you photograph people. A guided walk that pays the village properly is better than a free wander that treats a home as a viewpoint. Fansipan, the country’s highest peak, is a cable car from the edge of town, not a casual add-on if the weather has shut."
+  ],
+  "gettingAround": [
+    "The sleeper train from Hanoi runs to Lao Cai, not to Sapa itself. A bus or taxi climbs the last hour. Limousine vans from Hanoi go through to Sapa and save the transfer.",
+    "In the valleys, walk with a guide or hire a taxi for the trailheads. A motorbike without the right license is a common rental and a legal risk if you crash."
+  ],
+  "stayAreas": [
+    {
+      "name": "Sapa town",
+      "summary": "Easiest restaurants and the cable-car road. Can be foggy and loud on weekend nights.",
+      "band": "Hotels from simple to resort"
+    },
+    {
+      "name": "Ta Van or Lao Chai",
+      "summary": "Wake up in the valley. You will want a booking that can pick you up.",
+      "band": "Homestays"
+    }
+  ],
+  "eat": [
+    "Town restaurants serve hotpot, grilled meat, and visitor-friendly versions of highland dishes. Homestay dinners are the more local meal."
+  ],
+  "dishSlugs": [],
+  "interestsBody": [
+    "Rice, mountains, and market days are the reasons to come. Bac Ha’s Sunday market is a separate trip down toward the former Yen Bai and Lao Cai lowlands."
+  ],
+  "faqs": [
+    {
+      "q": "Is the overnight train worth it?",
+      "a": "It saves a hotel night and arrives in Lao Cai in the morning. A daytime limousine is better if you sleep badly on trains."
+    }
+  ],
+  "season": {
+    "label": "Typical terrace calendar",
+    "note": "Water in the fields is often late April to May. Green follows in summer. Gold is often late August to October. Mist can hide all three."
+  }
+}

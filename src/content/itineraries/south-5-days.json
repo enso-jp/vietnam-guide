@@ -1,0 +1,28 @@
+{
+  "slug": "south-5-days",
+  "title": "The south in 5 days",
+  "kind": "trip",
+  "duration": "5 days",
+  "budget": "Midrange",
+  "pace": "City plus one trip",
+  "summary": "Ho Chi Minh City plus either Can Tho, Phu Quoc, or Da Lat. Not all three.",
+  "days": [
+    {
+      "title": "Days 1–2 — Ho Chi Minh City",
+      "body": "District 1 and one museum.",
+      "placeSlug": "ho-chi-minh-city"
+    },
+    {
+      "title": "Days 3–4 — One add-on",
+      "body": "A night in Can Tho, a flight to Phu Quoc, or a night bus to Da Lat.",
+      "placeSlug": "can-tho"
+    },
+    {
+      "title": "Day 5 — Back to the airport",
+      "body": "Tan Son Nhat, unless you fly out of the add-on city.",
+      "placeSlug": "ho-chi-minh-city"
+    }
+  ],
+  "seoTitle": "5 days in southern Vietnam",
+  "seoDescription": "Ho Chi Minh City and one of Can Tho, Phu Quoc, or Da Lat."
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "old-quarter",
+  "name": "Old Quarter",
+  "nameVi": "Phố Cổ",
+  "kind": "district",
+  "parent": "hanoi",
+  "corridor": "northern-vietnam",
+  "province": "Hanoi",
+  "lat": 21.035,
+  "lng": 105.85,
+  "dots": 4,
+  "dotReason": "Worth a special trip in this corridor",
+  "summary": "The Old Quarter is the tight grid of lanes north of Hoan Kiem Lake. Streets still carry traces of the old guild trades. It is the easiest place to stay on a first night and the easiest place to overpay for a meal.",
+  "timeNeeded": "Half a day to a full day",
+  "fee": "Free to walk",
+  "getThere": "Walk north from Hoan Kiem Lake",
+  "bestMonths": "October to April",
+  "verified": "19 Oct 2026",
+  "interests": {
+    "food": 5,
+    "oldTowns": 5,
+    "markets": 4,
+    "coffee": 4
+  },
+  "cover": "town",
+  "nearby": [
+    "hanoi"
+  ],
+  "foodSlug": "hanoi",
+  "routeSlugs": [
+    "hanoi-to-ninh-binh"
+  ],
+  "itinerarySlugs": [
+    "hanoi-old-quarter-walk"
+  ],
+  "seoTitle": "Hanoi Old Quarter — a walking guide",
+  "seoDescription": "What the Hanoi Old Quarter is, how to walk it, and where to sleep if you want to be in the middle of it.",
+  "intro": [
+    "The Old Quarter sits on land that was once a cluster of artisan streets outside the citadel. Shop signs still hint at silver, silk, and herbal medicine, even where the ground floors now sell luggage and cafe seats.",
+    "Walk it in the morning, before the pavements are fully claimed by motorbikes and stools. Use the timed walk if you want a route instead of a wander."
+  ],
+  "gettingAround": [
+    "Arrive on foot from the lake. The lanes are short and the map looks simpler than the traffic. A bicycle is possible and often slower than walking."
+  ],
+  "stayAreas": [
+    {
+      "name": "Near the lake end",
+      "summary": "Shorter walks to Hoan Kiem and an easier exit by car.",
+      "band": "Small hotels"
+    },
+    {
+      "name": "Deeper lanes",
+      "summary": "More local street life and more night noise.",
+      "band": "Hostels and homestays"
+    }
+  ],
+  "eat": [
+    "Bun cha, pho, and egg coffee are all within a few blocks. Choose a place with a written price and a crowd of residents, not only visitors."
+  ],
+  "dishSlugs": [
+    "bun-cha",
+    "pho",
+    "ca-phe"
+  ],
+  "interestsBody": [
+    "The quarter is the food and walking district of Hanoi. It is not the place for quiet temples; those sit a short ride away."
+  ],
+  "faqs": [
+    {
+      "q": "Is the Old Quarter safe at night?",
+      "a": "The lanes stay busy into the evening. Watch your bag in crowds and cross as the locals do, at a steady pace."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "best-14-days",
+  "title": "Best of Vietnam in 14 days",
+  "kind": "trip",
+  "duration": "14 days",
+  "budget": "Midrange, with one domestic flight",
+  "pace": "Steady",
+  "summary": "Hanoi, one northern landscape, Hue, Hoi An, and Ho Chi Minh City. Fly at least once. Add the Mekong only if you drop a northern night.",
+  "days": [
+    {
+      "title": "Days 1–3 — Hanoi",
+      "body": "Land and walk the Old Quarter, the lake, and one museum or the Temple of Literature. Eat bun cha.",
+      "placeSlug": "hanoi"
+    },
+    {
+      "title": "Day 4 — Ninh Binh or Ha Long",
+      "body": "Pick one. Ninh Binh for rice and a boat cave. Ha Long for open water. Do not do both unless you add days.",
+      "placeSlug": "ninh-binh"
+    },
+    {
+      "title": "Day 5 — Back to Hanoi, overnight south",
+      "body": "Return to Hanoi. Fly to Hue the next morning, or board the sleeper train.",
+      "placeSlug": "hanoi"
+    },
+    {
+      "title": "Days 6–7 — Hue",
+      "body": "Citadel, then one tomb. Eat bun bo Hue.",
+      "placeSlug": "hue"
+    },
+    {
+      "title": "Day 8 — Hue to Hoi An",
+      "body": "Travel in the morning. The Hai Van pass is optional and weather-dependent.",
+      "placeSlug": "hoi-an"
+    },
+    {
+      "title": "Days 9–10 — Hoi An",
+      "body": "Old town, a food morning, and either the beach or My Son.",
+      "placeSlug": "hoi-an"
+    },
+    {
+      "title": "Day 11 — Fly to Ho Chi Minh City",
+      "body": "From Da Nang. Use the afternoon to walk District 1.",
+      "placeSlug": "ho-chi-minh-city"
+    },
+    {
+      "title": "Days 12–13 — Ho Chi Minh City",
+      "body": "A museum morning and either Cu Chi or a decision to leave for Can Tho.",
+      "placeSlug": "ho-chi-minh-city"
+    },
+    {
+      "title": "Day 14 — Leave, or a dawn market",
+      "body": "Fly home, or be on a boat in Can Tho if you moved south the day before.",
+      "placeSlug": "can-tho"
+    }
+  ],
+  "seoTitle": "Vietnam in 14 days",
+  "seoDescription": "A practical 14-day route from Hanoi to Ho Chi Minh City, with one northern side trip and the central coast."
+}

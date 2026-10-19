@@ -1,0 +1,63 @@
+{
+  "slug": "nha-trang",
+  "name": "Nha Trang",
+  "nameVi": "Nha Trang",
+  "kind": "city",
+  "corridor": "highlands-coast",
+  "province": "Khanh Hoa",
+  "provinceNote": "Khanh Hoa now includes the former Ninh Thuan province.",
+  "lat": 12.238,
+  "lng": 109.197,
+  "dots": 3,
+  "dotReason": "Worth it if you are already nearby",
+  "summary": "Nha Trang is a beach city with a long municipal sand strip, island boat trips, and a mud-bath industry. Stay if you want the sea between Da Lat and the south. The city beach is busier and less wild than Phu Quoc.",
+  "timeNeeded": "2 days",
+  "fee": "Beach is free; island tours are paid",
+  "getThere": "Flights from Hanoi and Ho Chi Minh City, or a sleeper train and bus",
+  "bestMonths": "February to September",
+  "verified": "19 Oct 2026",
+  "interests": {
+    "beaches": 5,
+    "islands": 3,
+    "family": 3,
+    "food": 3
+  },
+  "cover": "coast",
+  "nearby": [
+    "da-lat",
+    "mui-ne"
+  ],
+  "routeSlugs": [],
+  "itinerarySlugs": [
+    "south-5-days"
+  ],
+  "seoTitle": "Nha Trang travel guide",
+  "seoDescription": "When Nha Trang’s sea is calm, and what a two-day beach stop actually includes.",
+  "intro": [
+    "The city beach runs along Tran Phu. Hotels face the sand, and the evenings belong to seafood rooms and the promenade. Islands in the bay are a boat day.",
+    "The Po Nagar Cham towers, just north of the center, are the historical stop and take under an hour."
+  ],
+  "gettingAround": [
+    "The airport is a short ride from the beach. Grab works. Island boats leave from the tourist port; book the afternoon you want, not a harbor scramble."
+  ],
+  "stayAreas": [
+    {
+      "name": "Tran Phu beach",
+      "summary": "The straightforward base, on the sand.",
+      "band": "Hotels and resorts"
+    }
+  ],
+  "eat": [
+    "Seafood by weight is the local risk and the local pleasure. Agree the price before it is grilled. Nem nuong is the snack to look for."
+  ],
+  "dishSlugs": [],
+  "interestsBody": [
+    "Beach first. Add an island or the Cham towers, then move on if you are collecting cities."
+  ],
+  "faqs": [
+    {
+      "q": "Is the sea swimmable year-round?",
+      "a": "The calmer months are roughly February to September. Winter surf and rain make the beach a walk more than a swim."
+    }
+  ]
+}

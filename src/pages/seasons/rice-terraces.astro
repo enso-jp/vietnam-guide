@@ -1,0 +1,34 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import { getRiceSites, getPlace, placePath } from '../../lib/content';
+import { article, breadcrumbList } from '../../lib/schema';
+const sites = getRiceSites();
+const description = 'Typical water, green, and gold windows for Vietnam’s rice terraces. Not a live report.';
+---
+<Base title="Rice terrace calendar" description={description} path="/seasons/rice-terraces" jsonLd={[article('Rice terrace calendar', description, '/seasons/rice-terraces'), breadcrumbList([{ name: 'Seasons', path: '/seasons' }, { name: 'Rice terraces', path: '/seasons/rice-terraces' }])]}>
+  <article class="wrap section">
+    <Crumbs items={[{ name: 'Seasons', href: '/seasons' }, { name: 'Rice terraces' }]} />
+    <h1>Rice terraces</h1>
+    <p class="lede">No field report is published yet. The table is the usual calendar. When a report is filed, the place page shows that status instead.</p>
+    <table>
+      <thead>
+        <tr><th>Place</th><th>Water</th><th>Green</th><th>Gold or peak</th><th>Note</th></tr>
+      </thead>
+      <tbody>
+        {sites.map((site) => {
+          const place = getPlace(site.placeSlug);
+          return (
+            <tr>
+              <td>{place ? <a href={placePath(place)}>{site.name}</a> : site.name}</td>
+              <td>{site.water}</td>
+              <td>{site.green}</td>
+              <td>{site.gold}</td>
+              <td>{site.note}</td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </article>
+</Base>

@@ -1,0 +1,45 @@
+{
+  "slug": "hanoi-old-quarter-walk",
+  "title": "Hanoi Old Quarter walk",
+  "kind": "walk",
+  "duration": "3 hours",
+  "budget": "Low, plus a meal",
+  "pace": "Relaxed",
+  "summary": "A morning loop north of Hoan Kiem Lake through the guild streets, a market, and a lunch bowl.",
+  "stops": [
+    {
+      "name": "Hoan Kiem lakeshore",
+      "minutes": 20,
+      "walkMinutes": 10,
+      "placeSlug": "hanoi",
+      "note": "Start at the northern edge of the lake."
+    },
+    {
+      "name": "Hang Bac and the silver street",
+      "minutes": 20,
+      "walkMinutes": 8,
+      "note": "Walk north. The trade names survive on the signs."
+    },
+    {
+      "name": "Bach Ma Temple",
+      "minutes": 15,
+      "walkMinutes": 10,
+      "note": "A small neighborhood temple on Hang Buom.",
+      "attractionSlug": "bach-ma"
+    },
+    {
+      "name": "Dong Xuan Market",
+      "minutes": 25,
+      "walkMinutes": 10,
+      "note": "One floor is enough.",
+      "attractionSlug": "dong-xuan"
+    },
+    {
+      "name": "Lunch",
+      "minutes": 50,
+      "note": "Bun cha or pho, then walk back to the lake on a different lane."
+    }
+  ],
+  "seoTitle": "Hanoi Old Quarter walking itinerary",
+  "seoDescription": "A three-hour morning walk through Hanoi’s Old Quarter."
+}

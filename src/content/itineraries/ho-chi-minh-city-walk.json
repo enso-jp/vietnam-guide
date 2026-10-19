@@ -1,0 +1,40 @@
+{
+  "slug": "ho-chi-minh-city-walk",
+  "title": "Ho Chi Minh City walk",
+  "kind": "walk",
+  "duration": "4 hours",
+  "budget": "Museum ticket and lunch",
+  "pace": "Steady",
+  "summary": "District 1 from the cathedral square to Ben Thanh, with the palace if the heat allows.",
+  "stops": [
+    {
+      "name": "Notre-Dame square and the Post Office",
+      "minutes": 25,
+      "walkMinutes": 8,
+      "placeSlug": "ho-chi-minh-city",
+      "note": "The cathedral may be closed for works. The post office interior is the sure stop."
+    },
+    {
+      "name": "Dong Khoi",
+      "minutes": 20,
+      "walkMinutes": 10,
+      "note": "Walk toward the river, then turn inland."
+    },
+    {
+      "name": "Reunification Palace",
+      "minutes": 60,
+      "walkMinutes": 12,
+      "note": "Allow a full hour inside.",
+      "attractionSlug": "reunification-palace"
+    },
+    {
+      "name": "Ben Thanh Market",
+      "minutes": 30,
+      "walkMinutes": 10,
+      "note": "Look, then eat lunch nearby rather than in the tourist stalls.",
+      "attractionSlug": "ben-thanh"
+    }
+  ],
+  "seoTitle": "Ho Chi Minh City walking itinerary",
+  "seoDescription": "A half-day walk through District 1 in Ho Chi Minh City."
+}

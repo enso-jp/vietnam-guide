@@ -1,0 +1,13 @@
+{
+  "slug": "hanoi",
+  "name": "Hanoi food guide",
+  "placeSlug": "hanoi",
+  "summary": "Hanoi cooks a lighter, less sweet street food than the south. Eat bun cha at lunch, pho in the morning, and egg coffee when you want to sit down.",
+  "body": [
+    "The Old Quarter will feed you, and it will also sell you a worse bowl at a higher price if you never leave the first corner. Walk until you see a single-dish shop.",
+    "Dishes to plan: pho, bun cha, bun dau with fried tofu and shrimp paste, cha ca if you want a sit-down grilled-fish meal, and ca phe trung."
+  ],
+  "dishSlugs": ["pho", "bun-cha", "banh-mi", "ca-phe"],
+  "seoTitle": "Hanoi food guide",
+  "seoDescription": "What to eat in Hanoi, from pho and bun cha to egg coffee."
+}

@@ -1,0 +1,86 @@
+---
+import { getCorridors, getItineraries, placesInCorridor, topPlaces, placePath } from '../lib/content';
+import { interestHref, interestLabels } from '../config/site';
+
+const corridors = getCorridors();
+const trips = getItineraries().filter((trip) => trip.kind === 'trip').slice(0, 4);
+const menuInterests = ['pagodas', 'caves', 'beaches', 'islands', 'rice', 'markets', 'coffee', 'warHistory', 'mountains'];
+---
+<a class="skip" href="#content">Skip to content</a>
+<header class="topbar wrap">
+  <a class="wordmark" href="/">Vietnam Guide</a>
+  <button class="icon-btn menu-btn" type="button" data-menu>Menu</button>
+  <nav class="nav" aria-label="Primary">
+    <div class="mega">
+      <a href="/destinations">Destinations</a>
+      <div class="mega-panel">
+        {corridors.map((corridor) => (
+          <div>
+            <strong><a href={`/destinations/${corridor.slug}`}>{corridor.name}</a></strong>
+            {topPlaces(placesInCorridor(corridor.slug)).map((place) => (
+              <a href={placePath(place)}>{place.name}</a>
+            ))}
+          </div>
+        ))}
+      </div>
+    </div>
+    <div class="mega">
+      <a href="/interests">Interests</a>
+      <div class="mega-panel">
+        <a href="/food"><strong>Food and drink</strong></a>
+        <a href="/festivals">Festivals</a>
+        {menuInterests.map((key) => (
+          <a href={interestHref(key)}>{interestLabels[key]}</a>
+        ))}
+        <a href="/interests"><strong>See all</strong></a>
+      </div>
+    </div>
+    <div class="mega">
+      <a href="/plan">Plan a trip</a>
+      <div class="mega-panel">
+        <div>
+          <strong>Before you go</strong>
+          <a href="/plan/when-to-go">When to travel</a>
+          <a href="/plan/e-visa">E-visa</a>
+          <a href="/plan/money">Money</a>
+          <a href="/plan/sim-and-wifi">SIM and Wi-Fi</a>
+          <a href="/plan/luggage">Luggage</a>
+          <a href="/seasons">Seasons</a>
+          <a href="/festivals">Festivals</a>
+        </div>
+        <div>
+          <strong>Learn</strong>
+          <a href="/plan/street-manners">Street manners</a>
+          <a href="/plan/eating-manners">Eating manners</a>
+        </div>
+        <div>
+          <strong>Itinerary ideas</strong>
+          <a href="/itineraries">All itineraries</a>
+          {trips.map((trip) => (
+            <a href={`/itineraries/${trip.slug}`}>{trip.title}</a>
+          ))}
+        </div>
+        <div>
+          <strong>Accommodation</strong>
+          <a href="/plan/where-to-stay">Where to stay</a>
+          <strong>Transportation</strong>
+          <a href="/get-there">Routes</a>
+          <a href="/plan/flights">Flights</a>
+          <a href="/plan/trains">Trains</a>
+          <a href="/plan/buses">Buses</a>
+          <a href="/plan/grab-and-taxis">Grab and taxis</a>
+          <a href="/plan/motorbikes">Motorbikes</a>
+          <strong>Living</strong>
+          <a href="/plan/living">Living</a>
+          <a href="/plan/taxes">Taxes and fees</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <form class="search-form" action="/search" role="search">
+    <label class="skip" for="q">Search</label>
+    <input id="q" name="q" type="search" placeholder="Search places and routes" autocomplete="off" />
+    <div id="search-panel" class="search-panel" hidden></div>
+  </form>
+  <a class="icon-btn" href="/saved">Saved</a>
+</header>

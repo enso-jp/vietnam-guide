@@ -1,0 +1,28 @@
+{
+  "slug": "central-5-days",
+  "title": "Central coast in 5 days",
+  "kind": "trip",
+  "duration": "5 days",
+  "budget": "Midrange",
+  "pace": "Relaxed",
+  "summary": "Hue and Hoi An, with Da Nang as the airport. Add Phong Nha only by dropping a day in one of the cities.",
+  "days": [
+    {
+      "title": "Days 1–2 — Hue",
+      "body": "Citadel and a tomb.",
+      "placeSlug": "hue"
+    },
+    {
+      "title": "Day 3 — To Hoi An",
+      "body": "Morning transfer. Afternoon in the old town.",
+      "placeSlug": "hoi-an"
+    },
+    {
+      "title": "Days 4–5 — Hoi An",
+      "body": "Food, a bicycle, and the flight out of Da Nang.",
+      "placeSlug": "da-nang"
+    }
+  ],
+  "seoTitle": "5 days on the central coast",
+  "seoDescription": "Hue, Hoi An, and the Da Nang airport in five days."
+}

@@ -1,0 +1,106 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import Photo from '../../components/Photo.astro';
+import PlanTabs from '../../components/PlanTabs.astro';
+import SectionNav from '../../components/SectionNav.astro';
+import { attractionPath, getAttractions, getItineraries, getPlace, pageDescription, placePath } from '../../lib/content';
+import { abs, breadcrumbList } from '../../lib/schema';
+
+export function getStaticPaths() {
+  return getItineraries().map((trip) => ({ params: { slug: trip.slug }, props: { trip } }));
+}
+const { trip } = Astro.props;
+const days = (trip.days || []).map((day, index) => ({ ...day, id: `day-${index + 1}` }));
+const path = `/itineraries/${trip.slug}`;
+const description = pageDescription(trip.seoDescription, trip.summary);
+const crumbSchema = [
+  { name: 'Plan a trip', path: '/plan' },
+  { name: 'Itinerary ideas', path: '/itineraries' },
+  { name: trip.title, path },
+];
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'TouristTrip',
+  name: trip.title,
+  description,
+  url: abs(path),
+  ...(days.length
+    ? {
+        itinerary: {
+          '@type': 'ItemList',
+          itemListElement: days.map((day, index) => ({
+            '@type': 'ListItem',
+            position: index + 1,
+            name: day.title,
+            description: day.body,
+          })),
+        },
+      }
+    : {}),
+};
+---
+<Base title={trip.seoTitle} description={description} path={path} jsonLd={[jsonLd, breadcrumbList(crumbSchema)]}>
+  <article class="wrap section">
+    <Crumbs items={[{ name: 'Plan a trip', href: '/plan' }, { name: 'Itinerary ideas', href: '/itineraries' }, { name: trip.title }]} />
+    <h1>{trip.title}</h1>
+    <PlanTabs current="itineraries" />
+    <p class="lede">{trip.summary}</p>
+    <div class="facts">
+      <div><span>Duration</span><strong>{trip.duration}</strong></div>
+      <div><span>Budget</span><strong>{trip.budget}</strong></div>
+      <div><span>Pace</span><strong>{trip.pace}</strong></div>
+    </div>
+    {days.length > 0 && <SectionNav label={`${trip.title} days`} items={days.map((day) => ({ id: day.id, label: day.title }))} />}
+    {days.map((day) => {
+      const place = day.placeSlug ? getPlace(day.placeSlug) : undefined;
+      return (
+        <section id={day.id} class="day place-section">
+          <h2>{day.title}</h2>
+          <p>{day.body}</p>
+          {place && <p><a href={placePath(place)}>{place.name} guide</a></p>}
+        </section>
+      );
+    })}
+    {trip.stops && (
+      <section id="stops" class="place-section">
+        <h2>Stops</h2>
+        <ol class="rank-list">
+          {trip.stops.map((stop) => {
+            const attraction = stop.attractionSlug && stop.placeSlug
+              ? getAttractions().find((item) => item.slug === stop.attractionSlug && item.placeSlug === stop.placeSlug)
+              : undefined;
+            const place = stop.placeSlug ? getPlace(stop.placeSlug) : undefined;
+            const href = attraction
+              ? attractionPath(attraction)
+              : stop.dishSlug
+                ? `/food/${stop.dishSlug}`
+                : place
+                  ? placePath(place)
+                  : '';
+            const photo = attraction
+              ? `${attraction.placeSlug}-${attraction.slug}`
+              : stop.dishSlug || stop.placeSlug || '';
+            const body = (
+              <>
+                <span class="thumb">
+                  <Photo id={photo} fallbackId={stop.placeSlug} alt="" cover={place?.cover} />
+                </span>
+                <span class="rank-copy">
+                  <h3>{stop.name}</h3>
+                  <p>{stop.note}</p>
+                  <p class="meta">{stop.minutes} min{stop.walkMinutes ? ` · walk ${stop.walkMinutes} min` : ''}</p>
+                </span>
+              </>
+            );
+            return (
+              <li>
+                {href ? <a class="rank-row stop-row" href={href}>{body}</a> : <div class="rank-row stop-row">{body}</div>}
+              </li>
+            );
+          })}
+        </ol>
+      </section>
+    )}
+  </article>
+</Base>

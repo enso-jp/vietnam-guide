@@ -1,0 +1,18 @@
+---
+interface Item {
+  id: string;
+  label: string;
+}
+interface Props {
+  label: string;
+  items: Item[];
+}
+const { label, items } = Astro.props;
+---
+{items.length > 1 && (
+  <nav class="tabs" aria-label={label}>
+    {items.map((item, index) => (
+      <a href={`#${item.id}`} aria-current={index === 0 ? 'location' : undefined}>{item.label}</a>
+    ))}
+  </nav>
+)}

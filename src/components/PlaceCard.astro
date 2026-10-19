@@ -1,0 +1,29 @@
+---
+import Photo from './Photo.astro';
+import { cardLine, placePath } from '../lib/content';
+import type { Place } from '../lib/types';
+
+interface Props {
+  place: Place;
+  rank: number;
+}
+const { place, rank } = Astro.props;
+const filled = Math.max(0, Math.min(5, place.dots));
+---
+<a class="jg-card" href={placePath(place)} data-dots={place.dots} data-name={place.name} data-kind={place.kind} data-rank={rank}>
+  <div class="media">
+    <Photo id={place.slug} alt={place.name} cover={place.cover} />
+    <span class="rank-badge">{rank}</span>
+  </div>
+  <div class="jg-body">
+    <h3>{place.name}<span class="mark" aria-hidden="true"></span></h3>
+    <p>{cardLine(place.summary)}</p>
+    <p class="rating">
+      <span class="score">{filled.toFixed(1)}</span>
+      <span class="stars" aria-label={`${filled} of 5, editor rating`}>
+        {Array.from({ length: 5 }, (_, index) => (index < filled ? '★' : '☆')).join('')}
+      </span>
+      <span class="note">Editor</span>
+    </p>
+  </div>
+</a>

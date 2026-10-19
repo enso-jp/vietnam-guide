@@ -1,0 +1,54 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import FoodTabs from '../../components/FoodTabs.astro';
+import { cardLine, getDishes, getFoodGuides, placesForCityFood } from '../../lib/content';
+import { breadcrumbList, itemList } from '../../lib/schema';
+const dishes = getDishes();
+const guides = getFoodGuides();
+const cities = placesForCityFood();
+const description = 'Dish guides and city food guides. These pages explain what to eat. They are not a ranking of destinations.';
+const listed = [
+  ...guides.map((guide) => ({ name: guide.name, path: `/food/${guide.slug}` })),
+  ...cities.map((place) => ({ name: `${place.name} food`, path: `/food/${place.slug}` })),
+  ...dishes.map((dish) => ({ name: dish.name, path: `/food/${dish.slug}` })),
+];
+---
+<Base title="Vietnamese food" description={description} path="/food" ogType="website" jsonLd={[itemList('Vietnamese food', listed), breadcrumbList([{ name: 'Food', path: '/food' }])]}>
+  <div class="wrap section">
+    <Crumbs items={[{ name: 'Food' }]} />
+    <h1>Food</h1>
+    <p class="lede">What a dish is, where it comes from, and how to eat it. City guides sit with the dishes.</p>
+    <FoodTabs current="food" />
+    <h2 id="cities">City guides</h2>
+    <ul class="guide-list">
+      {guides.map((guide) => (
+        <li>
+          <a class="guide-row" href={`/food/${guide.slug}`}>
+            <strong>{guide.name}</strong>
+            <p>{cardLine(guide.summary)}</p>
+          </a>
+        </li>
+      ))}
+      {cities.map((place) => (
+        <li>
+          <a class="guide-row" href={`/food/${place.slug}`}>
+            <strong>{place.name} food</strong>
+            <p>{cardLine(place.eat[0] || place.summary)}</p>
+          </a>
+        </li>
+      ))}
+    </ul>
+    <h2 id="dishes">Dishes</h2>
+    <ul class="guide-list">
+      {dishes.map((dish) => (
+        <li>
+          <a class="guide-row" href={`/food/${dish.slug}`}>
+            <strong>{dish.name} <span class="vi" lang="vi">{dish.nameVi}</span></strong>
+            <p>{cardLine(dish.summary)}</p>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</Base>

@@ -1,0 +1,81 @@
+{
+  "slug": "ha-long",
+  "name": "Ha Long Bay",
+  "nameVi": "Vịnh Hạ Long",
+  "kind": "area",
+  "corridor": "northern-vietnam",
+  "province": "Quang Ninh",
+  "provinceNote": "The bay is the place name to use. Quang Ninh’s administrative status was updated in 2025–2026.",
+  "lat": 20.91,
+  "lng": 107.183,
+  "dots": 5,
+  "dotReason": "Worth building a day around",
+  "summary": "Ha Long Bay is a drowned karst landscape east of Hanoi. Most visitors see it from a day boat or an overnight cruise. The town of Ha Long is the harbor, not the scenery.",
+  "timeNeeded": "1 day, or 2 with an overnight boat",
+  "fee": "Boat tours include the bay fee; confirm the current total",
+  "getThere": "About 2.5–4 hours by road from Hanoi",
+  "bestMonths": "October to April",
+  "verified": "19 Oct 2026",
+  "interests": {
+    "caves": 4,
+    "photography": 5,
+    "islands": 4,
+    "family": 3
+  },
+  "cover": "karst",
+  "nearby": [
+    "hanoi",
+    "cat-ba",
+    "ninh-binh"
+  ],
+  "routeSlugs": [
+    "hanoi-to-ha-long"
+  ],
+  "itinerarySlugs": [
+    "best-14-days",
+    "north-7-days"
+  ],
+  "seoTitle": "Ha Long Bay travel guide — boats, timing, and how to get there",
+  "seoDescription": "How to visit Ha Long Bay from Hanoi, what a day boat includes, and when an overnight cruise is worth it.",
+  "intro": [
+    "Ha Long’s limestone towers rise out of the Gulf of Tonkin. A road trip from Hanoi reaches the harbor in a morning. The bay itself is a boat trip: a loop among islands, usually with a cave or a lookout, and lunch on board.",
+    "An overnight boat costs more and shows the bay after the day boats leave. Read what the cabin and meals include. The cheapest day buses that promise “the bay” sometimes spend more time in traffic and a lunch hall than on the water."
+  ],
+  "gettingAround": [
+    "You do not need a car once you are at the harbor. The tour sets the route. Independent travelers can hire a boat; most people book a shared cruise because the logistics are simpler.",
+    "Cat Ba island is the other way onto this coast, with more hiking and fewer large cruise ships. It is a different overnight, not a free add-on to a standard Ha Long day tour."
+  ],
+  "stayAreas": [
+    {
+      "name": "Overnight on the bay",
+      "summary": "The reason to spend a second day. Cabins vary from simple to hotel-like.",
+      "band": "Midrange to high per cabin"
+    },
+    {
+      "name": "Ha Long city",
+      "summary": "Useful only if your boat leaves early and you do not want a 4 a.m. start from Hanoi.",
+      "band": "City hotels"
+    }
+  ],
+  "eat": [
+    "Meals on day boats are part of the ticket and are ordinary. Eat a proper meal in Hanoi the night before or after."
+  ],
+  "dishSlugs": [],
+  "interestsBody": [
+    "Visit for the karst seascape and photography. It is not a food town and not a swimming holiday in the cooler months."
+  ],
+  "faqs": [
+    {
+      "q": "Is a day trip from Hanoi enough?",
+      "a": "Yes, if you accept a long day. Stay overnight on a boat if the scenery is the point of the northern leg."
+    },
+    {
+      "q": "Ha Long or Ninh Binh?",
+      "a": "Choose Ha Long for open water and a boat. Choose Ninh Binh for quiet rivers, rice, and a lower budget. Doing both in 48 hours is tiring."
+    }
+  ],
+  "season": {
+    "label": "Sea conditions vary",
+    "note": "Winter can be misty, which some people prefer. Summer storms can cancel boats. Check the operator the day before."
+  }
+}

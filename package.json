@@ -1,0 +1,20 @@
+{
+  "name": "vietnam-guide",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "prebuild": "node scripts/validate-content.mjs",
+    "build": "astro build && node scripts/check-budget.mjs",
+    "preview": "astro preview",
+    "check:content": "node scripts/validate-content.mjs"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.6.0",
+    "@fontsource/source-sans-3": "^5.2.6",
+    "@fontsource/source-serif-4": "^5.2.6",
+    "astro": "^5.14.4"
+  }
+}

@@ -1,0 +1,16 @@
+---
+import Base from '../layouts/Base.astro';
+import { getPlaces, placePath } from '../lib/content';
+const places = getPlaces();
+---
+<Base title="Search" description="Search Vietnam Guide." path="/search" noindex={true}>
+  <div class="wrap section">
+    <h1>Search</h1>
+    <p>Use the search field in the header. It loads the index when the field is focused. Without that script, the places are listed here.</p>
+    <ul>
+      {places.map((place) => (
+        <li><a href={placePath(place)}>{place.name}</a> <span class="vi" lang="vi">{place.nameVi}</span></li>
+      ))}
+    </ul>
+  </div>
+</Base>

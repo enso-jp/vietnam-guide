@@ -1,0 +1,17 @@
+{
+  "slug": "hanoi-to-hue",
+  "name": "Hanoi to Hue",
+  "from": "Hanoi",
+  "to": "Hue",
+  "summary": "Fly if the date matters. Take the sleeper train if the journey is part of the trip. The bus is the budget overnight and the least comfortable of the three.",
+  "modes": [
+    { "mode": "Flight", "duration": "About 1 hour 20 minutes in the air", "note": "Plus airport rides at both ends. The practical choice on a 14-day trip.", "partner": "flight" },
+    { "mode": "Train", "duration": "About 13–15 hours", "note": "Reunification Express sleepers. Book a berth, not a hard seat.", "partner": "train" },
+    { "mode": "Sleeper bus", "duration": "About 12–14 hours", "note": "Cheaper than the train berth and more tiring.", "partner": "bus", "partnerPath": "hanoi/hue" }
+  ],
+  "seoTitle": "Hanoi to Hue — flight, train, or sleeper bus",
+  "seoDescription": "How long Hanoi to Hue takes by air, rail, and bus, and which one to book on a short trip.",
+  "faqs": [
+    { "q": "Which should you book?", "a": "Fly if you have two weeks for the whole country. Take the train if you want the coast overnight and can spare the next morning." }
+  ]
+}

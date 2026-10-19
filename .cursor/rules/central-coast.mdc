@@ -1,0 +1,37 @@
+---
+description: Central Coast content drafts for Hue, Da Nang, Hoi An, My Son, and Phong Nha. Use when editing that corridor or researching a weekly update.
+globs:
+  - src/content/corridors/central-coast.json
+  - src/content/places/hue.json
+  - src/content/places/da-nang.json
+  - src/content/places/hoi-an.json
+  - src/content/places/my-son.json
+  - src/content/places/phong-nha.json
+  - src/content/attractions/hue--*.json
+  - src/content/attractions/da-nang--*.json
+  - src/content/attractions/hoi-an--*.json
+  - src/content/attractions/my-son--*.json
+  - src/content/attractions/phong-nha--*.json
+  - src/content/food/hue.json
+  - src/content/food/hoi-an.json
+  - src/content/dishes/cao-lau.json
+  - src/content/dishes/bun-bo-hue.json
+  - src/content/festivals/hoi-an-lantern-night.json
+  - src/content/routes/da-nang-to-hoi-an.json
+  - src/content/routes/hue-to-hoi-an.json
+  - src/content/routes/hanoi-to-hue.json
+  - src/content/itineraries/central-5-days.json
+  - src/content/itineraries/hoi-an-old-town-walk.json
+alwaysApply: false
+---
+
+# Central Coast
+
+Read `.cursor/skills/central-coast/SKILL.md` and its coverage file before drafting.
+
+- Stay inside the `central-coast` corridor.
+- Research a fact before writing it. Unknown fees and hours stay “Check on arrival”.
+- Put season news in `season`, not in `intro`.
+- Write `seoTitle` and `seoDescription` only on types that already have those fields.
+- Do not change existing dots.
+- Run `npm run check:content` and show the diff. The owner publishes.

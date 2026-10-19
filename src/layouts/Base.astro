@@ -1,0 +1,61 @@
+---
+import '../styles/global.css';
+import '@fontsource/source-sans-3/latin-400.css';
+import '@fontsource/source-sans-3/vietnamese-400.css';
+import '@fontsource/source-sans-3/latin-600.css';
+import '@fontsource/source-sans-3/vietnamese-600.css';
+import '@fontsource/source-serif-4/latin-600.css';
+import '@fontsource/source-serif-4/vietnamese-600.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { site } from '../config/site';
+
+interface Props {
+  title: string;
+  description: string;
+  path: string;
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[] | null;
+  noindex?: boolean;
+  placeId?: string;
+  ogImage?: string;
+  ogType?: 'website' | 'article';
+}
+const { title, description, path, jsonLd, noindex, placeId, ogImage, ogType = 'article' } = Astro.props;
+const canonical = new URL(path, site.url).toString();
+const fullTitle = title.includes('Vietnam Guide') ? title : `${title} | Vietnam Guide`;
+const schemas = (jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : []).filter(Boolean);
+const image = ogImage ? new URL(ogImage, site.url).toString() : '';
+---
+<html lang="en" data-beacon={site.analyticsBeacon}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <meta name="theme-color" content="#ffffff" />
+    {noindex && <meta name="robots" content="noindex" />}
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:site_name" content={site.name} />
+    {image && <meta property="og:image" content={image} />}
+    <meta name="twitter:card" content={image ? 'summary_large_image' : 'summary'} />
+    {image && <meta name="twitter:image" content={image} />}
+    <link rel="icon" href="/favicon.svg" />
+    {schemas.map((schema) => (
+      <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    ))}
+  </head>
+  <body data-place={placeId}>
+    <Header />
+    <main id="content">
+      <slot />
+    </main>
+    <Footer />
+    <script>
+      import '../scripts/site.ts';
+    </script>
+  </body>
+</html>

@@ -1,0 +1,15 @@
+---
+interface Props {
+  kind: 'stay' | 'bus' | 'flight' | 'train' | 'ferry';
+  href: string;
+  label: string;
+}
+const { kind, href, label } = Astro.props;
+const heading =
+  kind === 'stay' ? 'Check stays' : kind === 'train' ? 'Train tickets' : kind === 'flight' ? 'Check flights' : kind === 'ferry' ? 'Check boats' : 'Check buses';
+---
+<aside class="panel partner">
+  <small>Partner link. We may earn a commission if you book.</small>
+  <h2>{heading}</h2>
+  <a href={href} rel="sponsored noopener" target="_blank" data-partner={kind}>{label}</a>
+</aside>

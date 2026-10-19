@@ -1,0 +1,147 @@
+---
+import Base from '../layouts/Base.astro';
+import BookStay from '../components/BookStay.astro';
+import Photo from '../components/Photo.astro';
+import VietnamMap from '../components/VietnamMap.astro';
+import { interestHref, interestLabels, site } from '../config/site';
+import { attractionsForInterest, getStories, placesForInterest } from '../lib/content';
+import { photoPath } from '../lib/photos';
+
+const stories = getStories();
+const lead = stories[0];
+const topNews = stories.slice(1, 4);
+const moreStories = stories.slice(4, 10);
+const interestOrder = ['food', 'beaches', 'caves', 'pagodas', 'rice', 'oldTowns', 'markets', 'warHistory', 'mountains', 'coffee', 'islands', 'nightlife', 'family', 'photography', 'motorbike'];
+const interests = interestOrder
+  .filter((key) => key === 'food' || placesForInterest(key).length > 0 || attractionsForInterest(key).length > 0)
+  .slice(0, 8)
+  .map((key) => {
+    const place = placesForInterest(key)[0];
+    return {
+      key,
+      href: interestHref(key),
+      label: key === 'food' ? 'Food and drink' : interestLabels[key],
+      photo: place?.slug || 'hanoi',
+      cover: place?.cover || 'town',
+    };
+  });
+const tools = [
+  { href: '/plan/when-to-go', title: 'Before you go', text: 'Things to know before you depart' },
+  { href: '/get-there', title: 'Transportation', text: 'Routes, trains, flights, and buses' },
+  { href: '/plan/where-to-stay', title: 'Accommodation', text: 'Choose where to stay overnight' },
+  { href: '/itineraries', title: 'Itinerary ideas', text: 'Inspiration for your own trip plan' },
+  { href: '/plan/street-manners', title: 'Etiquette', text: 'How to avoid cultural mistakes' },
+  { href: '/seasons', title: 'Seasons', text: 'Rice, floods, and Tet' },
+];
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: site.name,
+  url: site.url,
+  description: site.description,
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: `${site.url}/search?q={query}`,
+    'query-input': 'required name=query',
+  },
+};
+---
+<Base title="Vietnam Guide" description={site.description} path="/" jsonLd={jsonLd} ogType="website" ogImage={photoPath(lead?.photo || 'hanoi')}>
+  <div class="wrap home-layout">
+    <div class="home-lead">
+      <h1 class="home-kicker">Vietnam travel guide</h1>
+      {lead && (
+        <a class="home-cover" href={lead.href}>
+          <Photo id={lead.photo} alt="" cover={lead.cover} priority />
+          <span class="cover-caption">
+            <small>{lead.kicker}</small>
+            <strong>{lead.title}</strong>
+            <em>{lead.when}</em>
+          </span>
+        </a>
+      )}
+      {topNews.length > 0 && (
+        <div class="news-row">
+          {topNews.map((story) => (
+            <a class="story-card" href={story.href}>
+              <span class="media"><Photo id={story.photo} alt="" cover={story.cover} /></span>
+              <span class="story-copy">
+                <small>{story.kicker}</small>
+                <strong>{story.title}</strong>
+                <em>{story.when}</em>
+              </span>
+            </a>
+          ))}
+        </div>
+      )}
+      <div class="news-jump">
+        <a href="/seasons">Season alerts</a>
+        <a href="#stories">See more stories</a>
+      </div>
+    </div>
+
+    <aside class="home-rail">
+      <BookStay />
+    </aside>
+
+    <div class="home-rest">
+      <section class="home-section">
+        <div class="dest-head">
+          <h2>Regions of Vietnam</h2>
+          <a href="/destinations">See all destinations</a>
+        </div>
+        <VietnamMap variant="home" />
+      </section>
+
+      <section class="home-section">
+        <div class="dest-head">
+          <h2>Plan your trip</h2>
+          <a href="/plan">See all planning tools</a>
+        </div>
+        <div class="plan-row">
+          {tools.map((tool) => (
+            <a href={tool.href}>
+              <strong>{tool.title}</strong>
+              <span>{tool.text}</span>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section class="home-section">
+        <div class="dest-head">
+          <h2>Find your interest</h2>
+          <a href="/interests">See all interests</a>
+        </div>
+        <div class="home-grid interest-grid">
+          {interests.map((item) => (
+            <a class="home-tile" href={item.href}>
+              <Photo id={item.photo} alt="" cover={item.cover} />
+              <span>{item.label}</span>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section class="home-section" id="stories">
+        <div class="dest-head">
+          <h2>Stories</h2>
+        </div>
+        <div class="story-list">
+          {moreStories.map((story) => (
+            <a class="story-card" href={story.href}>
+              <span class="media"><Photo id={story.photo} alt="" cover={story.cover} /></span>
+              <span class="story-copy">
+                <small>{story.kicker}</small>
+                <strong>{story.title}</strong>
+                <em>{story.when}</em>
+                <p>{story.summary}</p>
+              </span>
+            </a>
+          ))}
+        </div>
+        <p class="more-stories"><a href="/news">More stories</a></p>
+      </section>
+    </div>
+  </div>
+</Base>

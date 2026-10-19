@@ -1,0 +1,17 @@
+{
+  "slug": "ho-chi-minh-city-to-mekong",
+  "name": "Ho Chi Minh City to the Mekong",
+  "from": "Ho Chi Minh City",
+  "to": "Can Tho",
+  "summary": "A day tour reaches the near delta. Can Tho and the dawn floating market need a night there. Budget about four hours on the road.",
+  "modes": [
+    { "mode": "Sleeper or daytime bus", "duration": "3.5–4.5 hours", "note": "The ordinary way to Can Tho.", "partner": "bus", "partnerPath": "ho-chi-minh-city/can-tho" },
+    { "mode": "Private car", "duration": "About 3.5 hours", "note": "Worth it for a group or a dawn boat the next morning.", "partner": "bus", "partnerPath": "ho-chi-minh-city/can-tho" },
+    { "mode": "Day tour", "duration": "10–12 hours", "note": "My Tho or Ben Tre style trips. They are not the Cai Rang market." }
+  ],
+  "seoTitle": "Ho Chi Minh City to the Mekong Delta",
+  "seoDescription": "Day tour versus a night in Can Tho, and how long the road south takes.",
+  "faqs": [
+    { "q": "Which delta town should you sleep in?", "a": "Can Tho, if the floating market is the goal." }
+  ]
+}

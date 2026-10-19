@@ -1,0 +1,77 @@
+{
+  "slug": "ha-giang",
+  "name": "Ha Giang",
+  "nameVi": "Hà Giang",
+  "kind": "area",
+  "corridor": "northern-vietnam",
+  "province": "Tuyen Quang",
+  "provinceNote": "Ha Giang province was merged into Tuyen Quang in 2025. The loop and the town are still called Ha Giang.",
+  "lat": 22.823,
+  "lng": 104.983,
+  "dots": 5,
+  "dotReason": "Worth building a day around",
+  "summary": "The Ha Giang Loop is a mountain road through Vietnam’s far north: passes, minority markets, and buckwheat flowers in autumn. It is a motorbike journey for licensed riders, or a car with a driver. The town of Ha Giang is only the starting point.",
+  "timeNeeded": "4 days for the loop",
+  "fee": "A permit is required for the northern districts; your driver or hotel usually arranges it",
+  "getThere": "Sleeper bus from Hanoi, about 6–8 hours, or a longer ride via Sapa",
+  "bestMonths": "October to November for flowers; March to May and September are the kinder road months",
+  "verified": "19 Oct 2026",
+  "interests": {
+    "motorbike": 5,
+    "mountains": 5,
+    "photography": 5,
+    "markets": 4,
+    "rice": 3
+  },
+  "cover": "highlands",
+  "nearby": [
+    "sapa",
+    "hanoi"
+  ],
+  "routeSlugs": [
+    "hanoi-to-sapa"
+  ],
+  "itinerarySlugs": [
+    "north-7-days"
+  ],
+  "seoTitle": "Ha Giang Loop travel guide",
+  "seoDescription": "What the Ha Giang Loop is, how many days it takes, and how the 2025 province merger changes the name on the map.",
+  "intro": [
+    "Ha Giang town is a provincial stop on the Lo River. The journey people come for leaves town toward Quan Ba, Yen Minh, Dong Van, and Meo Vac, then back on a different road. The Ma Pi Leng pass is the famous stretch.",
+    "This is not a casual scooter day. Roads are steep, weather changes fast, and a Vietnamese motorcycle license is what makes the ride legal. EasyRider-style trips with a driver are the usual choice for visitors who do not hold one. Book a driver who includes the border-district permit."
+  ],
+  "gettingAround": [
+    "Sleeper buses from Hanoi arrive in Ha Giang town overnight. Start the loop the next morning, not the hour you arrive. Fuel and meals are in the small towns. Do not plan to ride after dark."
+  ],
+  "stayAreas": [
+    {
+      "name": "Dong Van or Meo Vac",
+      "summary": "The logical overnight on a three- to four-day loop, closer to the pass.",
+      "band": "Simple hotels and homestays"
+    },
+    {
+      "name": "Ha Giang town",
+      "summary": "Only for the night you arrive and the night you leave.",
+      "band": "Town hotels"
+    }
+  ],
+  "eat": [
+    "Meals are breakfast pho, rice plates, and whatever the homestay cooks. Choice is limited in the smaller communes and that is fine."
+  ],
+  "dishSlugs": [
+    "pho"
+  ],
+  "interestsBody": [
+    "Mountains, motorbikes, and photography define the loop. Buckwheat flowers, tam giác mạch, are the seasonal reason to time the trip for autumn."
+  ],
+  "faqs": [
+    {
+      "q": "Can you do the loop without riding?",
+      "a": "Yes. Hire a car and driver, or ride as a passenger with a licensed EasyRider. Do not rent a motorbike you are not licensed to ride."
+    }
+  ],
+  "season": {
+    "label": "Buckwheat often Oct–Nov",
+    "note": "Tam giác mạch on the high plateau is usually an October to November sight. A field report overrides this window."
+  }
+}

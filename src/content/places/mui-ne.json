@@ -1,0 +1,62 @@
+{
+  "slug": "mui-ne",
+  "name": "Mui Ne",
+  "nameVi": "Mũi Né",
+  "kind": "town",
+  "corridor": "highlands-coast",
+  "province": "Lam Dong",
+  "provinceNote": "Mui Ne was in Binh Thuan, which merged into Lam Dong in 2025. It is still a beach town, not a Da Lat day trip.",
+  "lat": 10.957,
+  "lng": 108.289,
+  "dots": 3,
+  "dotReason": "Worth it if you are already nearby",
+  "summary": "Mui Ne is a beach strip northeast of the fishing town, known for kitesurfing, red dunes, and a white sand dune. It is a resort coast, spread along one road, and a long ride from Ho Chi Minh City.",
+  "timeNeeded": "2 days",
+  "fee": "Beach is free; dunes charge small fees or jeep rides",
+  "getThere": "About 4–5 hours by road from Ho Chi Minh City, or via Phan Thiet",
+  "bestMonths": "November to April",
+  "verified": "19 Oct 2026",
+  "interests": {
+    "beaches": 5,
+    "photography": 3,
+    "family": 3
+  },
+  "cover": "coast",
+  "nearby": [
+    "da-lat",
+    "ho-chi-minh-city"
+  ],
+  "routeSlugs": [],
+  "itinerarySlugs": [
+    "south-5-days"
+  ],
+  "seoTitle": "Mui Ne travel guide — dunes, wind, and the ride from Ho Chi Minh City",
+  "seoDescription": "How to get to Mui Ne, what the dunes are like, and which months suit the beach.",
+  "intro": [
+    "The resort strip faces a long beach with a steady wind, which is why kitesurfers stay for a week and sightseers stay for two nights. The red dunes and the white dunes are outside the hotel row and are best at dawn or late afternoon.",
+    "Fairy Stream is a shallow walk inland. It is a small pleasure, not a national park."
+  ],
+  "gettingAround": [
+    "Open-tour buses and private cars run from Ho Chi Minh City. Once there, the strip is a long road: rent a bicycle, use a taxi, or ride only if you are licensed. Walking between resorts is hotter and farther than the map suggests."
+  ],
+  "stayAreas": [
+    {
+      "name": "Resort strip",
+      "summary": "Pick a hotel on the sand. Restaurants are attached or next door.",
+      "band": "Resorts"
+    }
+  ],
+  "eat": [
+    "Seafood and Russian-influenced visitor menus share the strip. For a local meal, ride toward the fishing harbor at Ham Tien or Phan Thiet."
+  ],
+  "dishSlugs": [],
+  "interestsBody": [
+    "Beach and dunes. Skip the dunes at noon. They are hot and the light is flat."
+  ],
+  "faqs": [
+    {
+      "q": "Is Mui Ne close to Da Lat?",
+      "a": "No. They are in the same new province and several hours apart by road."
+    }
+  ]
+}

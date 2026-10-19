@@ -1,0 +1,16 @@
+{
+  "slug": "hanoi-to-ha-long",
+  "name": "Hanoi to Ha Long",
+  "from": "Hanoi",
+  "to": "Ha Long",
+  "summary": "The bay is a half-day transfer from Hanoi. A through ticket to a boat is smoother than arriving in the city and negotiating at the harbor.",
+  "modes": [
+    { "mode": "Limousine or car", "duration": "2.5–4 hours", "note": "The usual choice. Traffic on the way out of Hanoi decides the hour.", "partner": "bus", "partnerPath": "hanoi/halong" },
+    { "mode": "Day tour", "duration": "12–14 hours", "note": "Leaves before dawn and returns at night. Check how many hours are actually on the water." }
+  ],
+  "seoTitle": "Hanoi to Ha Long — car, bus, and day boats",
+  "seoDescription": "How long Hanoi to Ha Long takes by road, and how to judge a day-tour boat.",
+  "faqs": [
+    { "q": "Is there a train to Ha Long?", "a": "Not as a visitor service to the harbor. The road is the way." }
+  ]
+}

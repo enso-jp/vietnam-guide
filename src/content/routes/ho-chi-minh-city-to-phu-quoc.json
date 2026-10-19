@@ -1,0 +1,16 @@
+{
+  "slug": "ho-chi-minh-city-to-phu-quoc",
+  "name": "Ho Chi Minh City to Phu Quoc",
+  "from": "Ho Chi Minh City",
+  "to": "Phu Quoc",
+  "summary": "Fly. The ferry from the mainland exists and takes most of a day. On a short southern leg, the one-hour flight is the trip.",
+  "modes": [
+    { "mode": "Flight", "duration": "About 1 hour", "note": "Frequent from Tan Son Nhat. Add the resort transfer on the island.", "partner": "flight" },
+    { "mode": "Bus and ferry", "duration": "A full day", "note": "Only if you want the slow route via Rach Gia or Ha Tien. Not a connection to Can Tho the same morning." }
+  ],
+  "seoTitle": "Ho Chi Minh City to Phu Quoc — flight or ferry",
+  "seoDescription": "Why the short flight is the way to Phu Quoc, and when the ferry is a different kind of day.",
+  "faqs": [
+    { "q": "Can you see the Mekong and Phu Quoc in one day?", "a": "No. They are different directions out of the city." }
+  ]
+}

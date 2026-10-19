@@ -1,0 +1,67 @@
+{
+  "slug": "da-lat",
+  "name": "Da Lat",
+  "nameVi": "Đà Lạt",
+  "kind": "city",
+  "corridor": "highlands-coast",
+  "province": "Lam Dong",
+  "provinceNote": "Lam Dong now also includes the former Dak Nong and Binh Thuan provinces, so Mui Ne shares the province on paper.",
+  "lat": 11.94,
+  "lng": 108.438,
+  "dots": 4,
+  "dotReason": "Worth a special trip in this corridor",
+  "summary": "Da Lat is a cool highland city of pines, lakes, and French-era villas. It is a short flight or a long sleeper from Ho Chi Minh City. Come for the temperature, the market, and the countryside, not for a checklist of themed parks.",
+  "timeNeeded": "2 days",
+  "fee": "The lake and market are free; palaces and parks are ticketed",
+  "getThere": "Flight to Lien Khuong, then 45 minutes by road, or an overnight bus from Ho Chi Minh City",
+  "bestMonths": "December to March",
+  "verified": "19 Oct 2026",
+  "interests": {
+    "coffee": 4,
+    "markets": 4,
+    "photography": 4,
+    "family": 4,
+    "food": 3
+  },
+  "cover": "highlands",
+  "nearby": [
+    "mui-ne",
+    "nha-trang",
+    "ho-chi-minh-city"
+  ],
+  "routeSlugs": [],
+  "itinerarySlugs": [
+    "south-5-days"
+  ],
+  "seoTitle": "Da Lat travel guide",
+  "seoDescription": "How to get to Da Lat, what is worth doing in two days, and how the weather differs from the beaches.",
+  "intro": [
+    "Da Lat was built as a hill station and still feels like one: a central lake, a market on a slope, and villas on ridges. Evenings are cool enough for a jacket when the coast is hot.",
+    "The countryside of flowers, coffee, and vegetable greenhouses is the better half-day. The amusement-park versions of “Crazy House” are optional."
+  ],
+  "gettingAround": [
+    "Lien Khuong Airport is a downhill ride from the city. In town, walk the market and the lake, and use Grab or a taxi for the valleys. EasyRider motorbike tours are common; ride yourself only with the proper license."
+  ],
+  "stayAreas": [
+    {
+      "name": "Around Xuan Huong Lake",
+      "summary": "Walk to the market and the evening stalls.",
+      "band": "Hotels"
+    }
+  ],
+  "eat": [
+    "Avocado ice cream, hot soy milk, grilled rice paper, and strawberry snacks are the visitor trail. The market is the place to start."
+  ],
+  "dishSlugs": [
+    "ca-phe"
+  ],
+  "interestsBody": [
+    "Cool weather, coffee country, and a family stop. It is a poor choice if you wanted a beach and booked the highlands by mistake."
+  ],
+  "faqs": [
+    {
+      "q": "Can you combine Da Lat and Mui Ne?",
+      "a": "They share a province after the merger and they are still a long ride apart. Fly or bus each one from Ho Chi Minh City rather than linking them in a day."
+    }
+  ]
+}

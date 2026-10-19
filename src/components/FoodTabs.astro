@@ -1,0 +1,17 @@
+---
+interface Props {
+  current: 'food' | 'dishes' | 'cities' | 'manners';
+}
+const { current } = Astro.props;
+const items = [
+  { id: 'food', href: '/food', label: 'Food and drink' },
+  { id: 'dishes', href: '/food#dishes', label: 'Dishes' },
+  { id: 'cities', href: '/food#cities', label: 'City guides' },
+  { id: 'manners', href: '/plan/eating-manners', label: 'Table manners' },
+];
+---
+<nav class="tabs" aria-label="Food">
+  {items.map((item) => (
+    <a href={item.href} aria-current={item.id === current ? 'page' : undefined}>{item.label}</a>
+  ))}
+</nav>

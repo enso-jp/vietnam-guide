@@ -1,0 +1,68 @@
+{
+  "slug": "tam-coc",
+  "name": "Tam Coc",
+  "nameVi": "Tam Cốc",
+  "kind": "town",
+  "corridor": "northern-vietnam",
+  "province": "Ninh Binh",
+  "lat": 20.216,
+  "lng": 105.933,
+  "dots": 4,
+  "dotReason": "Worth a special trip in this corridor",
+  "summary": "Tam Coc is the boat village of Ninh Binh. A rower takes you along the Ngo Dong River through low caves, with rice and karst on both sides. It is the sight people mean when they say they are going to Ninh Binh for the river.",
+  "timeNeeded": "2–3 hours",
+  "fee": "Boat ticket; confirm the official fare and ignore unofficial add-ons",
+  "getThere": "About 2 hours from Hanoi, then a short ride to the landing",
+  "bestMonths": "Late May to early June for rice; the boat runs year-round",
+  "verified": "19 Oct 2026",
+  "interests": {
+    "rice": 5,
+    "caves": 4,
+    "photography": 5,
+    "family": 4
+  },
+  "cover": "river",
+  "nearby": [
+    "ninh-binh",
+    "hanoi"
+  ],
+  "routeSlugs": [
+    "hanoi-to-ninh-binh"
+  ],
+  "itinerarySlugs": [
+    "north-7-days"
+  ],
+  "seoTitle": "Tam Coc boat trip — hours, tickets, and how to get there",
+  "seoDescription": "What the Tam Coc boat ride includes, how to get there from Hanoi, and when the rice is worth the photo.",
+  "intro": [
+    "The Tam Coc landing sits among limestone hills south of Ninh Binh city. The standard ride is a small boat rowed through three caves. The trip is timed and returns to the same dock.",
+    "Buy the ticket at the official booth. Extra requests from the boat are optional. The view is the river and the fields, which change color through the growing season."
+  ],
+  "gettingAround": [
+    "The landing is a short taxi or bicycle ride from guesthouses in Tam Coc. There is no reason to bring a car onto the dock road if you are staying nearby."
+  ],
+  "stayAreas": [
+    {
+      "name": "Along the rice roads",
+      "summary": "Homestays with bicycles. Best if you stay the night.",
+      "band": "Homestays"
+    }
+  ],
+  "eat": [
+    "Eat at your homestay or back toward the village. The dock restaurants are for convenience."
+  ],
+  "dishSlugs": [],
+  "interestsBody": [
+    "Tam Coc is the rice-and-cave stop. Pair it with the Mua Cave steps if you want a viewpoint the boat cannot give you."
+  ],
+  "faqs": [
+    {
+      "q": "How long is the Tam Coc boat?",
+      "a": "About one and a half to two hours on the water, plus time at the ticket gate."
+    }
+  ],
+  "season": {
+    "label": "Typical rice window",
+    "note": "Late May to early June is the usual peak for Tam Coc paddies. A live report replaces this note when one is filed."
+  }
+}

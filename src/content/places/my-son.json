@@ -1,0 +1,64 @@
+{
+  "slug": "my-son",
+  "name": "My Son",
+  "nameVi": "Mỹ Sơn",
+  "kind": "area",
+  "corridor": "central-coast",
+  "province": "Da Nang",
+  "provinceNote": "My Son is now inside Da Nang city after the Quang Nam merger.",
+  "lat": 15.763,
+  "lng": 108.124,
+  "dots": 3,
+  "dotReason": "Worth it if you are already nearby",
+  "summary": "My Son is a valley of Cham temple towers west of Hoi An, built between the 4th and 13th centuries. War damage is obvious. Go in the morning, with a guide or the site notes, if you want the ruins to mean more than a photograph.",
+  "timeNeeded": "Half a day from Hoi An",
+  "fee": "Site ticket; confirm at the entrance",
+  "getThere": "About 45–60 minutes by road from Hoi An",
+  "bestMonths": "February to August",
+  "verified": "19 Oct 2026",
+  "interests": {
+    "oldTowns": 2,
+    "photography": 3,
+    "family": 2
+  },
+  "cover": "highlands",
+  "nearby": [
+    "hoi-an",
+    "da-nang"
+  ],
+  "routeSlugs": [
+    "da-nang-to-hoi-an"
+  ],
+  "itinerarySlugs": [
+    "central-5-days"
+  ],
+  "seoTitle": "My Son sanctuary — hours, tickets, and how to get there",
+  "seoDescription": "How to visit the Cham towers at My Son from Hoi An, and whether the half-day is worth it.",
+  "intro": [
+    "The temples are brick towers in a forested valley, sacred to the Cham kings. Many were damaged in the twentieth century. What remains is still the most important Cham site you can reach from Hoi An.",
+    "Tours leave Hoi An early because the valley gets hot. A private car lets you leave when the ticket gate opens. There is a small museum at the entrance; read it before the walk."
+  ],
+  "gettingAround": [
+    "You cannot walk here from Hoi An. Car, taxi, or tour bus are the options. Electric carts or a walk cover the last stretch from the visitor center to the towers."
+  ],
+  "stayAreas": [
+    {
+      "name": "Hoi An",
+      "summary": "Sleep in Hoi An and come out for the morning.",
+      "band": "See Hoi An"
+    }
+  ],
+  "eat": [
+    "Eat in Hoi An. The site has basic drinks, not a meal worth planning around."
+  ],
+  "dishSlugs": [],
+  "interestsBody": [
+    "History and brick architecture. Skip it if you have no interest in ruins and would rather have a second day in the old town."
+  ],
+  "faqs": [
+    {
+      "q": "Is My Son worth it?",
+      "a": "Yes if you want the Cham context for central Vietnam. No if you are collecting viewpoints. The valley is quiet and damaged, not monumental in the way Angkor is."
+    }
+  ]
+}

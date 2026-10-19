@@ -1,0 +1,34 @@
+---
+import { existsSync } from 'node:fs';
+import { join } from 'node:path';
+import Cover from './Cover.astro';
+
+interface Props {
+  id: string;
+  alt: string;
+  fallbackId?: string;
+  cover?: string;
+  priority?: boolean;
+}
+const { id, alt, fallbackId, cover = 'city', priority = false } = Astro.props;
+
+function srcFor(key: string) {
+  const file = join(process.cwd(), 'public', 'photos', `${key}.jpg`);
+  return existsSync(file) ? `/photos/${key}.jpg` : null;
+}
+
+const src = srcFor(id) ?? (fallbackId ? srcFor(fallbackId) : null);
+---
+{src ? (
+  <img
+    src={src}
+    alt={alt}
+    width="960"
+    height="600"
+    loading={priority ? 'eager' : 'lazy'}
+    decoding="async"
+    fetchpriority={priority ? 'high' : 'auto'}
+  />
+) : (
+  <Cover variant={cover} />
+)}

@@ -1,0 +1,28 @@
+{
+  "slug": "north-7-days",
+  "title": "Northern Vietnam in 7 days",
+  "kind": "trip",
+  "duration": "7 days",
+  "budget": "Midrange",
+  "pace": "One landscape, not three",
+  "summary": "Hanoi plus either the mountains or the bay and Ninh Binh. Seven days is not Hanoi, Ha Long, Sapa, and Ha Giang.",
+  "days": [
+    {
+      "title": "Days 1–2 — Hanoi",
+      "body": "Arrive and walk. Do not transfer onward the hour you land.",
+      "placeSlug": "hanoi"
+    },
+    {
+      "title": "Days 3–5 — One region",
+      "body": "Sapa, the Ha Giang Loop with a driver, or Ha Long plus Ninh Binh. Choose before you book the trains.",
+      "placeSlug": "sapa"
+    },
+    {
+      "title": "Days 6–7 — Hanoi",
+      "body": "Return with a spare night so a delay does not become a missed flight.",
+      "placeSlug": "hanoi"
+    }
+  ],
+  "seoTitle": "7 days in northern Vietnam",
+  "seoDescription": "A one-week northern itinerary that picks a single landscape beyond Hanoi."
+}

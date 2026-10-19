@@ -1,0 +1,73 @@
+{
+  "slug": "can-tho",
+  "name": "Can Tho",
+  "nameVi": "Cần Thơ",
+  "kind": "city",
+  "corridor": "mekong-delta",
+  "province": "Can Tho",
+  "provinceNote": "Can Tho now includes the former Soc Trang and Hau Giang provinces.",
+  "lat": 10.045,
+  "lng": 105.747,
+  "dots": 4,
+  "dotReason": "Worth a special trip in this corridor",
+  "summary": "Can Tho is the main city of the Mekong Delta and the base for the Cai Rang floating market. Stay a night. The market is a dawn boat trip, and a day tour from Ho Chi Minh City arrives after the best of it.",
+  "timeNeeded": "2 days",
+  "fee": "Boat hire for the market",
+  "getThere": "3.5–4.5 hours by road from Ho Chi Minh City",
+  "bestMonths": "December to April",
+  "verified": "19 Oct 2026",
+  "interests": {
+    "markets": 5,
+    "food": 4,
+    "photography": 4,
+    "family": 3
+  },
+  "cover": "delta",
+  "nearby": [
+    "ho-chi-minh-city",
+    "phu-quoc"
+  ],
+  "foodSlug": "ho-chi-minh-city",
+  "routeSlugs": [
+    "ho-chi-minh-city-to-mekong"
+  ],
+  "itinerarySlugs": [
+    "south-5-days",
+    "best-14-days"
+  ],
+  "seoTitle": "Can Tho and the floating market",
+  "seoDescription": "Why Can Tho needs a night, how the Cai Rang market works, and how to get there from Ho Chi Minh City.",
+  "intro": [
+    "Can Tho sits on the Hau River, a Mekong branch. The riverside promenade is the evening walk. The reason to come is the water: orchards, narrow canals, and the wholesale floating market at Cai Rang.",
+    "Boats leave before sunrise. A hotel that can book the boat and a breakfast box is worth more than a fancier room in the wrong part of town."
+  ],
+  "gettingAround": [
+    "Sleeper buses and private cars from Ho Chi Minh City take about four hours. In the city, walk the river and take a boat for the market. Grab is less universal here than in Hanoi; ask the hotel for a trusted car."
+  ],
+  "stayAreas": [
+    {
+      "name": "Ninh Kieu riverside",
+      "summary": "The practical base, near boats and restaurants.",
+      "band": "Hotels"
+    }
+  ],
+  "eat": [
+    "Hu tieu soup, grilled river fish, and tropical fruit are the delta meal. The floating market sells wholesale produce; eat the noodles on a nearby boat or back in town."
+  ],
+  "dishSlugs": [
+    "banh-xeo"
+  ],
+  "interestsBody": [
+    "Markets and river life. One night is the minimum that makes the dawn boat honest."
+  ],
+  "faqs": [
+    {
+      "q": "Is a day trip from Ho Chi Minh City enough?",
+      "a": "It reaches the delta. It does not reach the floating market at the right hour. Sleep in Can Tho."
+    }
+  ],
+  "season": {
+    "label": "Market runs year-round",
+    "note": "High water and holidays change how busy the boats are. The useful advice is still the clock: be on the water at dawn."
+  }
+}

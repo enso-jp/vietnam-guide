@@ -1,0 +1,34 @@
+{
+  "slug": "e-visa",
+  "title": "E-visa and entry",
+  "group": "before",
+  "summary": "Most visitors apply online before they fly. Use the official portals, not a lookalike site, and treat approval as something you wait for rather than something you receive at the airport desk.",
+  "verified": "19 Oct 2026",
+  "sourceUrl": "https://evisa.gov.vn/",
+  "sourceLabel": "Vietnam National Electronic Visa system",
+  "sections": [
+    {
+      "heading": "Where to apply",
+      "paragraphs": [
+        "The official e-visa sites are https://evisa.gov.vn/ and https://thithucdientu.gov.vn/. The immigration service has told applicants to use these domains. A travel agency may submit for you; you can also apply yourself.",
+        "Rules, eligible passport lists, length of stay, and fees change. Read the current form. This page is a planning note, not a legal determination."
+      ]
+    },
+    {
+      "heading": "Before you fly",
+      "paragraphs": [
+        "Apply with the passport you will carry. The name and number must match. Keep the approval file offline on your phone. Airlines often check it at departure.",
+        "Single and multiple entry, and stays up to 90 days, have been part of the system. Confirm the option you need on the official form the week you apply."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can you get a visa on arrival instead?",
+      "a": "Do not plan on it unless an official instruction for your passport says so. The e-visa is the path to arrange before travel."
+    }
+  ],
+  "seoTitle": "Vietnam e-visa — how to apply",
+  "seoDescription": "Use the official Vietnam e-visa portals and check the current rules before you book flights.",
+  "block": "tip"
+}

@@ -1,0 +1,83 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import Partner from '../../components/Partner.astro';
+import PlanTabs from '../../components/PlanTabs.astro';
+import SectionNav from '../../components/SectionNav.astro';
+import { getRoutes, pageDescription } from '../../lib/content';
+import { busLink, flightLink, trainLink } from '../../lib/partners';
+import { breadcrumbList, faqPage } from '../../lib/schema';
+
+export function getStaticPaths() {
+  return getRoutes().map((route) => ({ params: { slug: route.slug }, props: { route } }));
+}
+const { route } = Astro.props;
+const path = `/get-there/${route.slug}`;
+const description = pageDescription(route.seoDescription, route.summary);
+const crumbSchema = [
+  { name: 'Plan a trip', path: '/plan' },
+  { name: 'Routes', path: '/get-there' },
+  { name: route.name, path },
+];
+const jsonLd = route.faqs.length ? [faqPage(route.faqs), breadcrumbList(crumbSchema)] : [breadcrumbList(crumbSchema)];
+---
+<Base title={route.seoTitle} description={description} path={path} jsonLd={jsonLd}>
+  <article class="wrap section">
+    <Crumbs items={[{ name: 'Plan a trip', href: '/plan' }, { name: 'Routes', href: '/get-there' }, { name: route.name }]} />
+    <h1>{route.name}</h1>
+    <PlanTabs current="travel" />
+    <p class="lede">{route.summary}</p>
+    <SectionNav
+      label={`${route.name} sections`}
+      items={[
+        { id: 'ways', label: 'Ways to go' },
+        ...(route.faqs.length ? [{ id: 'questions', label: 'Questions' }] : []),
+      ]}
+    />
+    <section id="ways" class="place-section">
+    <h2>Ways to go</h2>
+    <table>
+      <thead>
+        <tr><th>Mode</th><th>Time</th><th>Notes</th></tr>
+      </thead>
+      <tbody>
+        {route.modes.map((mode) => (
+          <tr>
+            <td>{mode.mode}</td>
+            <td>{mode.duration}</td>
+            <td>{mode.note}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+    </section>
+    <div class="place-grid">
+      <div>
+        {route.faqs.length > 0 && (
+        <section id="questions" class="place-section">
+        <h2>Questions</h2>
+        <dl class="faq">
+          {route.faqs.map((faq) => (
+            <>
+              <dt>{faq.q}</dt>
+              <dd>{faq.a}</dd>
+            </>
+          ))}
+        </dl>
+        </section>
+        )}
+      </div>
+      <div class="rail">
+        {route.modes.some((mode) => mode.partner === 'bus') && (
+          <Partner kind="bus" href={busLink(route.modes.find((mode) => mode.partnerPath)?.partnerPath || '')} label={`Search buses from ${route.from} to ${route.to}`} />
+        )}
+        {route.modes.some((mode) => mode.partner === 'flight') && (
+          <Partner kind="flight" href={flightLink(route.from, route.to)} label={`Search flights from ${route.from} to ${route.to}`} />
+        )}
+        {route.modes.some((mode) => mode.partner === 'train') && (
+          <Partner kind="train" href={trainLink} label="Vietnam Railways timetable" />
+        )}
+      </div>
+    </div>
+  </article>
+</Base>

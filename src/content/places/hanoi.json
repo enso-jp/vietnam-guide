@@ -1,0 +1,95 @@
+{
+  "slug": "hanoi",
+  "name": "Hanoi",
+  "nameVi": "Hà Nội",
+  "kind": "city",
+  "corridor": "northern-vietnam",
+  "province": "Hanoi",
+  "provinceNote": "Hanoi was not merged in 2025.",
+  "lat": 21.028,
+  "lng": 105.854,
+  "dots": 5,
+  "dotReason": "Worth building a day around",
+  "summary": "Hanoi is Vietnam’s capital and the usual start of a northern trip. The Old Quarter, Hoan Kiem Lake, and the French-built streets south of the lake are the parts most visitors walk. It is also the base for Ninh Binh, Ha Long Bay, and the mountain towns.",
+  "timeNeeded": "3 days",
+  "fee": "Walking the city is free",
+  "getThere": "Noi Bai airport, then 45–75 minutes by taxi or bus",
+  "bestMonths": "October to April",
+  "verified": "19 Oct 2026",
+  "interests": {
+    "food": 5,
+    "oldTowns": 4,
+    "pagodas": 3,
+    "markets": 4,
+    "coffee": 5,
+    "photography": 4,
+    "family": 3
+  },
+  "cover": "lake",
+  "nearby": [
+    "ninh-binh",
+    "ha-long",
+    "sapa"
+  ],
+  "foodSlug": "hanoi",
+  "routeSlugs": [
+    "hanoi-to-ha-long",
+    "hanoi-to-ninh-binh",
+    "hanoi-to-sapa",
+    "hanoi-to-hue"
+  ],
+  "itinerarySlugs": [
+    "best-14-days",
+    "north-7-days",
+    "hanoi-old-quarter-walk"
+  ],
+  "seoTitle": "Hanoi travel guide — what to do, how to get there, where to eat",
+  "seoDescription": "How long to stay in Hanoi, how to arrive from Noi Bai, and which day trips are worth leaving the city for.",
+  "intro": [
+    "Hanoi sits on the Red River in northern Vietnam. The walkable center is smaller than the city. Hoan Kiem Lake is the landmark. The Old Quarter spreads north of the lake in a tight grid of commercial lanes. The wider streets around the Opera House, built during French colonial rule, sit to the south.",
+    "Three days is enough to walk the center, eat well, and add one museum or pagoda without turning the city into a checklist. Use Hanoi as a base rather than a place to cross in a single afternoon on the way to the bay."
+  ],
+  "gettingAround": [
+    "Noi Bai Airport is north of the city. A metered taxi, a ride-hailing car, or the airport bus takes about 45 to 75 minutes depending on traffic. The urban metro is useful on a few corridors and does not replace walking or a car for most visitor routes.",
+    "Inside the center, walk. For the Temple of Literature, the French Quarter, or West Lake, use GrabCar or GrabBike. Agree the trip in the app. Street taxis exist; use a marked meter and watch the route."
+  ],
+  "stayAreas": [
+    {
+      "name": "Old Quarter",
+      "summary": "The densest choice. You can walk to the lake and to most first-night restaurants. Streets are noisy late.",
+      "band": "Hostels through small hotels"
+    },
+    {
+      "name": "South of Hoan Kiem",
+      "summary": "Quieter streets around the Opera House and the French-built blocks. Still walkable to the lake.",
+      "band": "Midrange and luxury hotels"
+    }
+  ],
+  "eat": [
+    "Hanoi’s everyday cooking is lighter than the south: bun cha, pho, bun dau, egg coffee, and grilled pork with herbs. Eat where the stools are busy and the prices are on a board.",
+    "The Old Quarter is convenient and uneven. A short walk away from the main backpacker corners usually improves the meal."
+  ],
+  "dishSlugs": [
+    "pho",
+    "bun-cha",
+    "banh-mi",
+    "ca-phe"
+  ],
+  "interestsBody": [
+    "Come to Hanoi for street food, a walkable old commercial district, and coffee. Pagodas and the Temple of Literature reward a focused morning. The city is also the rail and bus hub for Sapa, Ninh Binh, and Ha Long."
+  ],
+  "faqs": [
+    {
+      "q": "How many days do you need in Hanoi?",
+      "a": "Three days covers the center and one museum or pagoda. Add nights if you are using the city only as a base for Ninh Binh or the bay."
+    },
+    {
+      "q": "Is Hanoi walkable?",
+      "a": "The Old Quarter and the lake are walkable. Cross streets slowly and steadily. Motorbikes do not stop the way city traffic does in some other countries."
+    }
+  ],
+  "season": {
+    "label": "Typical calendar",
+    "note": "No field report is filed for the city itself. Lotus on West Lake is usually a summer sight. Tet flower markets fill the streets in the weeks before Lunar New Year."
+  }
+}

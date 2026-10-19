@@ -1,0 +1,74 @@
+{
+  "slug": "hue",
+  "name": "Hue",
+  "nameVi": "Huế",
+  "kind": "city",
+  "corridor": "central-coast",
+  "province": "Hue",
+  "provinceNote": "Hue is a centrally governed city.",
+  "lat": 16.463,
+  "lng": 107.59,
+  "dots": 4,
+  "dotReason": "Worth a special trip in this corridor",
+  "summary": "Hue was the imperial capital. The citadel, the royal tombs along the Perfume River, and a distinct court cuisine are the reasons to stop between Hanoi and Hoi An. Two nights is the useful minimum.",
+  "timeNeeded": "2 days",
+  "fee": "Citadel and tombs are ticketed",
+  "getThere": "Train or flight from Hanoi; about 2.5–3 hours by road to Hoi An",
+  "bestMonths": "February to August",
+  "verified": "19 Oct 2026",
+  "interests": {
+    "oldTowns": 4,
+    "pagodas": 4,
+    "food": 5,
+    "warHistory": 3,
+    "family": 3
+  },
+  "cover": "river",
+  "nearby": [
+    "phong-nha",
+    "hoi-an",
+    "da-nang"
+  ],
+  "foodSlug": "hue",
+  "routeSlugs": [
+    "hanoi-to-hue",
+    "hue-to-hoi-an"
+  ],
+  "itinerarySlugs": [
+    "best-14-days",
+    "central-5-days"
+  ],
+  "seoTitle": "Hue travel guide — citadel, tombs, and what to eat",
+  "seoDescription": "How long to stay in Hue, how to see the citadel and tombs, and how to continue to Hoi An.",
+  "intro": [
+    "Hue stretches along the Perfume River. The citadel and the imperial enclosure occupy the north bank. Most hotels and restaurants are on the south bank. The royal tombs are scattered downstream and upstream and need a bicycle, a taxi, or a dragon boat plus a vehicle.",
+    "The city is quieter than Hanoi or Ho Chi Minh City. Eat bun bo Hue, com hen, and the small banh cakes. Give the citadel a morning, not twenty minutes between buses."
+  ],
+  "gettingAround": [
+    "Hue station is on the south side, a short ride from the hotel streets. A bicycle is the classic way to the nearer tombs. Further tombs are a taxi or a shared car. The airport is a short ride from town if you fly."
+  ],
+  "stayAreas": [
+    {
+      "name": "South bank near the river",
+      "summary": "Walk to restaurants and the bridge toward the citadel.",
+      "band": "Hotels and guesthouses"
+    }
+  ],
+  "eat": [
+    "Hue food is spicier and more herbal than Hanoi’s, with a court tradition of many small bites. Bun bo Hue is the dish to eat in the city that named it.",
+    "Imperial-style set meals exist for visitors. A morning bowl of bun bo from a shop with a queue tells you more."
+  ],
+  "dishSlugs": [
+    "bun-bo-hue",
+    "banh-mi"
+  ],
+  "interestsBody": [
+    "Citadel, tombs, pagodas, and food. The war history of the 1968 fighting is part of the citadel’s story; read it on site rather than rushing the walls for a photo."
+  ],
+  "faqs": [
+    {
+      "q": "Is one day enough in Hue?",
+      "a": "You can see the citadel. The tombs make the second day. If you must choose, keep the citadel and one tomb."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+---
+import Base from '../../layouts/Base.astro';
+import SectionNav from '../../components/SectionNav.astro';
+---
+<Base title="Update a page" description="Each public page is a JSON file. The template decides the layout. You fill named fields. You do not invent a new design per city." path="/about/editing">
+  <article class="wrap section">
+    <h1>Update a page</h1>
+    <p>Each public page is a JSON file in <code>src/content</code>. The template decides the layout. You fill named fields. You do not invent a new design per city.</p>
+    <SectionNav
+      label="Editing sections"
+      items={[
+        { id: 'direct', label: 'Direct edit' },
+        { id: 'agent', label: 'With an agent' },
+      ]}
+    />
+    <div class="reading">
+    <section id="direct" class="place-section">
+    <h2>Direct edit</h2>
+    <p>Open the place file, change the fact, and set <code>verified</code> to the day you checked it. Leave a fee blank of invented numbers. If you do not have a source, write “Check on arrival.”</p>
+    </section>
+    <section id="agent" class="place-section">
+    <h2>With an agent</h2>
+    <p>Ask for a draft against the schema in <code>AGENTS.md</code>. The agent shows a diff. You publish by building. Season notes can be added on a place as the <code>season</code> field. Do not rewrite the evergreen intro to sound like today’s weather.</p>
+    <p>Run <code>npm run check:content</code> before a build. The build refuses a broken link or a duplicate slug.</p>
+    </section>
+    </div>
+  </article>
+</Base>

@@ -1,0 +1,62 @@
+{
+  "slug": "mai-chau",
+  "name": "Mai Chau",
+  "nameVi": "Mai Châu",
+  "kind": "town",
+  "corridor": "northern-vietnam",
+  "province": "Phu Tho",
+  "provinceNote": "Mai Chau was in Hoa Binh, which merged into Phu Tho in 2025.",
+  "lat": 20.667,
+  "lng": 105.083,
+  "dots": 3,
+  "dotReason": "Worth it if you are already nearby",
+  "summary": "Mai Chau is a valley of rice and stilt houses west of Hanoi, closer and gentler than Sapa. It works as a one-night escape when you want fields without a border-run.",
+  "timeNeeded": "1–2 days",
+  "fee": "Valley walking is free; some looms and shows are paid",
+  "getThere": "About 3.5–4.5 hours by road from Hanoi",
+  "bestMonths": "September to April",
+  "verified": "19 Oct 2026",
+  "interests": {
+    "rice": 4,
+    "family": 4,
+    "photography": 3
+  },
+  "cover": "river",
+  "nearby": [
+    "hanoi",
+    "ninh-binh"
+  ],
+  "routeSlugs": [],
+  "itinerarySlugs": [
+    "north-7-days"
+  ],
+  "seoTitle": "Mai Chau travel guide",
+  "seoDescription": "A closer rice-valley overnight from Hanoi, and how it differs from Sapa.",
+  "intro": [
+    "Mai Chau’s floor is a wide rice valley with Thai stilt houses. The ride from Hanoi crosses a pass and drops into the valley. It is an easier landscape than Ha Giang and a shorter transfer than Sapa.",
+    "Stay in a stilt house if you want the point of the trip. The valley is walkable and bicycle-friendly."
+  ],
+  "gettingAround": [
+    "A private car or a tourist bus from Hanoi is the usual way in. Bicycles from the homestay cover the valley lanes."
+  ],
+  "stayAreas": [
+    {
+      "name": "Lac village",
+      "summary": "The main cluster of stilt-house stays.",
+      "band": "Homestays, often with dinner"
+    }
+  ],
+  "eat": [
+    "Dinner is usually at the homestay: grilled meat, forest vegetables, and rice. Eat there rather than hunting for a restaurant."
+  ],
+  "dishSlugs": [],
+  "interestsBody": [
+    "Rice and a quiet family overnight. Skip it if you are already committed to Sapa or Ha Giang on a short northern leg."
+  ],
+  "faqs": [
+    {
+      "q": "Mai Chau or Sapa?",
+      "a": "Mai Chau is closer, lower, and calmer. Sapa is higher, mistier, and a bigger journey."
+    }
+  ]
+}

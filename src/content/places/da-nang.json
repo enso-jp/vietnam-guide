@@ -1,0 +1,127 @@
+{
+  "slug": "da-nang",
+  "name": "Da Nang",
+  "nameVi": "Đà Nẵng",
+  "kind": "city",
+  "corridor": "central-coast",
+  "province": "Da Nang",
+  "provinceNote": "Da Nang city now includes the former Quang Nam province, so Hoi An and My Son sit inside it.",
+  "lat": 16.054,
+  "lng": 108.202,
+  "dots": 4,
+  "dotReason": "Worth a special trip in this corridor",
+  "summary": "Stay in Da Nang when you want the airport, a long beach, and a city that still feels like a city. Stay in Hoi An when the night in the old town is the point. The two are under an hour apart, so sleep in one and ride to the other.",
+  "timeNeeded": "1–2 days, plus nights if you prefer a beach hotel to Hoi An",
+  "fee": "The beach is free. The Marble Mountains are ticketed. The Cham Museum fee is check on arrival.",
+  "getThere": "Direct flights from Hanoi and Ho Chi Minh City. Hoi An is 30–45 minutes by road.",
+  "bestMonths": "February to August",
+  "verified": "19 Oct 2026",
+  "interests": {
+    "beaches": 5,
+    "food": 3,
+    "family": 4,
+    "photography": 3,
+    "nightlife": 3
+  },
+  "cover": "coast",
+  "foodSlug": "da-nang",
+  "nearby": [
+    "hoi-an",
+    "hue",
+    "my-son"
+  ],
+  "routeSlugs": [
+    "da-nang-to-hoi-an",
+    "hue-to-hoi-an"
+  ],
+  "itinerarySlugs": [
+    "da-nang-day",
+    "da-nang-two-days",
+    "central-5-days",
+    "best-14-days"
+  ],
+  "seoTitle": "Da Nang travel guide — beach, airport, and the ride to Hoi An",
+  "seoDescription": "Stay in Da Nang for the beach and the airport, or in Hoi An for the old town. Here is how to split the days, eat, and get between them.",
+  "intro": [
+    "If you only have one night and you came for lanterns, sleep in Hoi An. If you have two nights and you want to swim, sleep on My Khe and ride over for an evening. Trying to do both cities properly from a single afternoon is how people see neither.",
+    "Give the first morning to the Cham Museum, on the river, before the sand. It takes about an hour, and it is not a substitute for the ruins at My Son. When you want a view instead, ride to Son Tra. The 67-meter Quan The Am looks out over the sea, and the ride is half the visit.",
+    "The Marble Mountains sit on the road you will already take toward Hoi An, so they belong to a transfer day. Climb one hill. Dragon Bridge is the evening picture of the city, from the river path. Hai Van, north toward Hue, is a clear-weather detour by car or with a licensed rider, not a box to tick."
+  ],
+  "gettingAround": [
+    "Grab is the easy way across town. The beach and the river are far enough that you will not walk from dinner to your hotel, so pick a base and stay with it. A car to Hoi An takes about 30–45 minutes. Buses run, and they take longer once the luggage is in play."
+  ],
+  "stayAreas": [
+    {
+      "name": "My Khe beach",
+      "summary": "Sleep here if the sea is why you picked the city. The streets just inland from My Khe and My An are where the restaurants and beach bars sit. The museum and Hoi An are a ride.",
+      "band": "Resorts and hotels",
+      "photo": "da-nang-my-khe"
+    },
+    {
+      "name": "Han River",
+      "summary": "Sleep here if you want the museum, Dragon Bridge, and dinner on foot. The beach becomes a ride, which is a fair trade if you like a city morning.",
+      "band": "City hotels",
+      "photo": "da-nang"
+    }
+  ],
+  "eat": [
+    "Start with mi Quang at lunch and bun cha ca if you are up early in the city. Seafood is the My Khe dinner. The full menu, and where to find it, is on the food guide."
+  ],
+  "dishSlugs": [
+    "mi-quang",
+    "bun-cha-ca",
+    "banh-xeo",
+    "banh-mi",
+    "ca-phe"
+  ],
+  "interestsBody": [
+    "My Khe is the swim, in the drier months, and the bars sit on the streets just inland. This guide does not name one.",
+    "The Cham Museum is the cultural hour, on the river, before you commit the day to the beach. It is not a stand-in for My Son.",
+    "Dragon Bridge is the evening walk. For lanterns and cao lau, ride to Hoi An."
+  ],
+  "interestCards": [
+    {
+      "title": "Beach",
+      "summary": "Swim at My Khe in the drier months.",
+      "attractionSlug": "my-khe",
+      "icon": "beach"
+    },
+    {
+      "title": "Beach bars",
+      "summary": "Umbrellas, palms, and the streets just inland. No single bar is the recommendation.",
+      "attractionSlug": "my-khe",
+      "photo": "da-nang-beach-bars",
+      "icon": "drink"
+    },
+    {
+      "title": "Cham Museum",
+      "summary": "Cham sculpture on the Han River.",
+      "attractionSlug": "cham-museum",
+      "icon": "museum"
+    },
+    {
+      "title": "Golden Bridge",
+      "summary": "A full day in the hills, for the bridge in the stone hands.",
+      "attractionSlug": "ba-na",
+      "photo": "da-nang-ba-na",
+      "icon": "view"
+    },
+    {
+      "title": "Da Nang Food Guide",
+      "summary": "Mi Quang at lunch, bun cha ca in the morning, seafood on My Khe.",
+      "photo": "mi-quang",
+      "icon": "food",
+      "to": "food"
+    }
+  ],
+  "season": {
+    "label": "Drier beach months",
+    "note": "February to August is the drier window for the beach. Rain and flood risk on this coast rise from September, including the road toward Hoi An."
+  },
+  "faqs": [
+    {
+      "q": "Should you stay in Da Nang or Hoi An?",
+      "a": "Sleep in Hoi An if the old town at night is the reason you came. Sleep in Da Nang if you want a beach morning and a shorter airport ride. See the other city as a ride, not as a second hotel move in the same day."
+    }
+  ]
+}

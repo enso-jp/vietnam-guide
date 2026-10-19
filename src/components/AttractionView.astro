@@ -1,0 +1,95 @@
+---
+import Base from '../layouts/Base.astro';
+import Crumbs from './Crumbs.astro';
+import Dots from './Dots.astro';
+import FactBar from './FactBar.astro';
+import Photo from './Photo.astro';
+import { interestHref } from '../config/site';
+import { attractionPath, attractionsForPlace, cardLine, getCorridor, getPlace, interestList, pageDescription, placePath } from '../lib/content';
+import { photoPath } from '../lib/photos';
+import { abs, breadcrumbList } from '../lib/schema';
+import type { Attraction } from '../lib/types';
+
+interface Props {
+  attraction: Attraction;
+}
+const { attraction } = Astro.props;
+const place = getPlace(attraction.placeSlug);
+const corridor = place ? getCorridor(place.corridor) : undefined;
+const parent = place?.parent ? getPlace(place.parent) : undefined;
+const path = attractionPath(attraction);
+const description = pageDescription(
+  attraction.summary,
+  place ? `${attraction.name} is in ${place.name}.` : '',
+  attraction.timeNeeded,
+  attraction.fee,
+);
+const image = photoPath(`${attraction.placeSlug}-${attraction.slug}`, attraction.placeSlug);
+const others = place ? attractionsForPlace(place).filter((item) => item.slug !== attraction.slug || item.placeSlug !== attraction.placeSlug).slice(0, 6) : [];
+const tags = place ? interestList(place).filter((tag) => attraction.interests.includes(tag.key)) : [];
+const crumbSchema = [
+  { name: 'Destinations', path: '/destinations' },
+  ...(corridor ? [{ name: corridor.name, path: `/destinations/${corridor.slug}` }] : []),
+  ...(parent ? [{ name: parent.name, path: placePath(parent) }] : []),
+  ...(place ? [{ name: place.name, path: placePath(place) }] : []),
+  { name: attraction.name, path },
+];
+const crumbs = crumbSchema.map((item, index) => ({
+  name: item.name,
+  href: index < crumbSchema.length - 1 ? item.path : undefined,
+}));
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'TouristAttraction',
+  name: attraction.name,
+  ...(attraction.nameVi ? { alternateName: attraction.nameVi } : {}),
+  description: attraction.summary,
+  url: abs(path),
+  ...(image ? { image: abs(image) } : {}),
+  ...(place
+    ? {
+        containedInPlace: {
+          '@type': place.kind === 'city' ? 'City' : 'TouristDestination',
+          name: place.name,
+          url: abs(placePath(place)),
+        },
+      }
+    : {}),
+};
+---
+<Base title={`${attraction.name}${place ? ` — ${place.name}` : ''}`} description={description} path={path} jsonLd={[jsonLd, breadcrumbList(crumbSchema)]} ogImage={image}>
+  <article class="wrap section">
+    <Crumbs items={crumbs} />
+    <h1>{attraction.name} {attraction.nameVi && <span class="vi" lang="vi">{attraction.nameVi}</span>}</h1>
+    <p class="lede">{attraction.summary}</p>
+    <p><Dots dots={attraction.dots} reason="Editor rating for this attraction" /></p>
+    <div class="place-photo">
+      <Photo id={`${attraction.placeSlug}-${attraction.slug}`} fallbackId={attraction.placeSlug} alt={attraction.name} cover={place?.cover || 'town'} priority={true} />
+    </div>
+    <FactBar time={attraction.timeNeeded} fee={attraction.fee} getThere={attraction.getThere} bestMonths={place?.bestMonths || 'Check on arrival'} verified={place?.verified || ''} />
+    {attraction.district && <p class="meta">{attraction.district}</p>}
+    {tags.length > 0 && (
+      <p>
+        {tags.map((tag) => (
+          <a class="tag" href={interestHref(tag.key)}>{tag.label}</a>
+        ))}
+      </p>
+    )}
+    {others.length > 0 && place && (
+      <section class="place-section">
+        <h2>Also in {place.name}</h2>
+        <ul class="guide-list">
+          {others.map((item) => (
+            <li>
+              <a class="guide-row" href={attractionPath(item)}>
+                <strong>{item.name}</strong>
+                <p>{cardLine(item.summary)}</p>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+    {place && <p><a href={`${placePath(place)}#attractions`}>All attractions in {place.name}</a></p>}
+  </article>
+</Base>

@@ -1,0 +1,164 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import FoodTabs from '../../components/FoodTabs.astro';
+import Photo from '../../components/Photo.astro';
+import SectionNav from '../../components/SectionNav.astro';
+import { getDishes, getFoodGuides, getPlace, cardLine, pageDescription, placePath, placesForCityFood } from '../../lib/content';
+import { photoPath } from '../../lib/photos';
+import { article, breadcrumbList } from '../../lib/schema';
+
+export function getStaticPaths() {
+  const dishes = getDishes().map((dish) => ({ params: { slug: dish.slug }, props: { kind: 'dish' as const, dish, guide: null, place: null } }));
+  const guides = getFoodGuides().map((guide) => ({ params: { slug: guide.slug }, props: { kind: 'guide' as const, dish: null, guide, place: null } }));
+  const places = placesForCityFood().map((place) => ({ params: { slug: place.slug }, props: { kind: 'place' as const, dish: null, guide: null, place } }));
+  const slugs = new Set<string>();
+  for (const entry of [...dishes, ...guides, ...places]) {
+    if (slugs.has(entry.params.slug)) throw new Error(`Duplicate food slug ${entry.params.slug}`);
+    slugs.add(entry.params.slug);
+  }
+  return [...dishes, ...guides, ...places];
+}
+const { kind, dish, guide, place } = Astro.props;
+const city = kind === 'guide' ? getPlace(guide.placeSlug) : place;
+const title = kind === 'dish' ? dish.seoTitle : kind === 'guide' ? guide.seoTitle : `${place.name} food`;
+const description = kind === 'dish'
+  ? pageDescription(dish.seoDescription, dish.summary, dish.origin)
+  : kind === 'guide'
+    ? pageDescription(guide.seoDescription, guide.summary, guide.body[0] || '')
+    : pageDescription(place.eat[0] || place.summary, place.summary);
+const path = `/food/${kind === 'dish' ? dish.slug : kind === 'guide' ? guide.slug : place.slug}`;
+const image = photoPath(city?.slug || '');
+const crumbSchema = [
+  { name: 'Food', path: '/food' },
+  { name: kind === 'dish' ? dish.name : kind === 'guide' ? guide.name : `${place.name} food`, path },
+];
+---
+<Base title={title} description={description} path={path} jsonLd={[article(title, description, path, image), breadcrumbList(crumbSchema)]} ogImage={image}>
+  <article class="wrap section">
+    <Crumbs items={[{ name: 'Food', href: '/food' }, { name: crumbSchema[1].name }]} />
+    {kind === 'dish' && dish && (
+      <>
+        <h1>{dish.name} <span class="vi" lang="vi">{dish.nameVi}</span></h1>
+        <p class="lede">{dish.summary}</p>
+        <FoodTabs current="dishes" />
+        <div class="facts">
+          <div><span>From</span><strong>{dish.origin.split('.')[0]}</strong></div>
+          <div><span>Price</span><strong>{dish.priceBand}</strong></div>
+        </div>
+        <SectionNav
+          label={`${dish.name} sections`}
+          items={[
+            { id: 'origin', label: 'Where it comes from' },
+            { id: 'how-to-eat', label: 'How to eat it' },
+            { id: 'where', label: 'Where to try it' },
+          ]}
+        />
+        <div class="reading">
+          <section id="origin" class="place-section">
+            <h2>Where it comes from</h2>
+            <p>{dish.origin}</p>
+          </section>
+          <section id="how-to-eat" class="place-section">
+            <h2>How to eat it</h2>
+            {dish.howToEat.map((paragraph) => <p>{paragraph}</p>)}
+          </section>
+          <section id="where" class="place-section">
+            <h2>Where to try it</h2>
+            <p>Cities where this dish is eaten.</p>
+            <ul class="guide-list">
+              {dish.placeSlugs.map((slug) => {
+                const home = getPlace(slug);
+                const hasFood = getFoodGuides().some((guide) => guide.slug === slug) || placesForCityFood().some((item) => item.slug === slug);
+                return home ? (
+                  <li>
+                    <a class="guide-row" href={placePath(home)}><strong>{home.name}</strong></a>
+                    {hasFood && <p><a href={`/food/${slug}`}>{home.name} food</a></p>}
+                  </li>
+                ) : null;
+              })}
+            </ul>
+          </section>
+        </div>
+      </>
+    )}
+    {kind === 'guide' && guide && (
+      <>
+        <h1>{guide.name}</h1>
+        <p class="lede">{guide.summary}</p>
+        <FoodTabs current="cities" />
+        <SectionNav
+          label={`${guide.name} sections`}
+          items={[
+            { id: 'overview', label: 'Overview' },
+            { id: 'dishes', label: 'Specialties' },
+            ...(guide.sections || []).map((section) => ({ id: section.id, label: section.heading })),
+          ]}
+        />
+        <div class="reading">
+          <section id="overview" class="place-section">
+            {guide.body.map((paragraph) => <p>{paragraph}</p>)}
+            {city && <p><a href={placePath(city)}>{city.name} travel guide</a></p>}
+          </section>
+          <section id="dishes" class="place-section">
+            <h2>Specialties</h2>
+            {guide.dishSlugs.map((slug) => {
+              const item = getDishes().find((dish) => dish.slug === slug);
+              if (!item) return null;
+              return (
+                <a class="dish-feature" href={`/food/${item.slug}`}>
+                  <Photo id={item.slug} fallbackId={city?.slug} alt={item.name} cover={city?.cover} />
+                  <span>
+                    <strong>{item.name} <span class="vi" lang="vi">{item.nameVi}</span></strong>
+                    <em>{item.summary}</em>
+                    <small>{item.howToEat[0]}</small>
+                  </span>
+                </a>
+              );
+            })}
+          </section>
+          {(guide.sections || []).map((section) => (
+            <section id={section.id} class="place-section">
+              <h2>{section.heading}</h2>
+              {section.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
+              {section.dishSlugs && section.dishSlugs.length > 0 && (
+                <ul class="guide-list">
+                  {section.dishSlugs.map((slug) => {
+                    const item = getDishes().find((dish) => dish.slug === slug);
+                    return item ? (
+                      <li><a class="guide-row" href={`/food/${item.slug}`}><strong>{item.name}</strong><p>{cardLine(item.summary)}</p></a></li>
+                    ) : null;
+                  })}
+                </ul>
+              )}
+            </section>
+          ))}
+        </div>
+      </>
+    )}
+    {kind === 'place' && place && (
+      <>
+        <h1>{place.name} food</h1>
+        <p class="lede">{place.eat[0] || place.summary}</p>
+        <FoodTabs current="cities" />
+        <div class="reading">
+          <section id="overview" class="place-section">
+            {place.eat.map((paragraph) => <p>{paragraph}</p>)}
+            <p><a href={`${placePath(place)}#eat`}>{place.name} travel guide</a></p>
+          </section>
+          {place.dishSlugs.length > 0 && (
+            <section id="dishes" class="place-section">
+              <h2>Dishes</h2>
+              <ul class="guide-list">
+                {place.dishSlugs.map((slug) => {
+                  const item = getDishes().find((dish) => dish.slug === slug);
+                  return item ? <li><a class="guide-row" href={`/food/${item.slug}`}><strong>{item.name}</strong><p>{item.summary}</p></a></li> : null;
+                })}
+              </ul>
+            </section>
+          )}
+        </div>
+      </>
+    )}
+  </article>
+</Base>

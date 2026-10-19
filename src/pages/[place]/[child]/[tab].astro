@@ -1,0 +1,30 @@
+---
+import AttractionView from '../../../components/AttractionView.astro';
+import Redirect from '../../../components/Redirect.astro';
+import { getAttractions, getPlaces, placePath } from '../../../lib/content';
+import { tabs } from '../../../config/site';
+
+export function getStaticPaths() {
+  const tabIds = tabs.filter((tab) => tab.id !== 'intro').map((tab) => tab.id);
+  const paths = [];
+  for (const place of getPlaces().filter((item) => item.parent)) {
+    for (const tab of tabIds) {
+      paths.push({
+        params: { place: place.parent as string, child: place.slug, tab },
+        props: { kind: 'redirect' as const, place, tab },
+      });
+    }
+    for (const attraction of getAttractions().filter((item) => item.placeSlug === place.slug)) {
+      paths.push({
+        params: { place: place.parent as string, child: place.slug, tab: attraction.slug },
+        props: { kind: 'attraction' as const, attraction },
+      });
+    }
+  }
+  return paths;
+}
+
+const props = Astro.props;
+---
+{props.kind === 'redirect' && <Redirect to={`${placePath(props.place)}#${props.tab}`} />}
+{props.kind === 'attraction' && <AttractionView attraction={props.attraction} />}

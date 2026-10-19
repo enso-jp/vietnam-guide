@@ -1,0 +1,38 @@
+---
+import Icon from './Icon.astro';
+import Photo from './Photo.astro';
+
+interface Item {
+  href: string;
+  title: string;
+  photo: string;
+  fallback?: string;
+  alt: string;
+  cover?: string;
+  icon?: string;
+}
+
+interface Props {
+  label: string;
+  items: Item[];
+}
+
+const { label, items } = Astro.props;
+---
+{items.length > 0 && (
+  <div class="portrait-rail" data-carousel>
+    <div class="portrait-row" data-carousel-row tabindex="0" aria-label={label}>
+      {items.map((item) => (
+        <a class="portrait" href={item.href}>
+          <Photo id={item.photo} fallbackId={item.fallback} alt={item.alt} cover={item.cover} />
+          <span class="portrait-label">
+            {item.icon && <Icon name={item.icon} />}
+            <strong>{item.title}</strong>
+          </span>
+        </a>
+      ))}
+    </div>
+    <button class="rail-arrow rail-prev" type="button" data-carousel-prev aria-label="Previous">‹</button>
+    <button class="rail-arrow rail-next" type="button" data-carousel-next aria-label="Next">›</button>
+  </div>
+)}

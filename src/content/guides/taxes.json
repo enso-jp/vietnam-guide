@@ -1,0 +1,25 @@
+{
+  "slug": "taxes",
+  "title": "Taxes and fees",
+  "block": "tax",
+  "group": "before",
+  "summary": "Entrance fees are recorded on each attraction only when a source exists. This page does not quote a tax rate. Where a fee is missing, the attraction says check on arrival.",
+  "verified": "19 Oct 2026",
+  "sections": [
+    {
+      "heading": "What is listed",
+      "paragraphs": [
+        "An attraction page states a fee when that fee is already in the record. Otherwise it says check on arrival. Do not treat a blank as zero.",
+        "Shop prices and hotel bills can include tax. This guide does not state a percentage. Read the bill, or ask before you pay."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is the visitor tax rate?",
+      "a": "It is not quoted here. Confirm the charge on the bill or at the gate."
+    }
+  ],
+  "seoTitle": "Taxes and fees in Vietnam",
+  "seoDescription": "How Vietnam Guide records entrance fees. No tax rate is quoted."
+}

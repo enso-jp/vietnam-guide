@@ -1,0 +1,13 @@
+---
+import PlaceView from '../components/PlaceView.astro';
+import { getPlaces } from '../lib/content';
+
+export function getStaticPaths() {
+  return getPlaces()
+    .filter((place) => !place.parent)
+    .map((place) => ({ params: { place: place.slug }, props: { place } }));
+}
+
+const { place } = Astro.props;
+---
+<PlaceView place={place} />

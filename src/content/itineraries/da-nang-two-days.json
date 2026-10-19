@@ -1,0 +1,61 @@
+{
+  "slug": "da-nang-two-days",
+  "title": "Two days in Da Nang",
+  "kind": "trip",
+  "duration": "2 days",
+  "budget": "Check on arrival",
+  "pace": "Relaxed",
+  "photo": "da-nang-son-tra",
+  "summary": "The river and My Khe on the first day. Son Tra and the Marble Mountains on the second, with Hoi An still an easy ride if the hills are enough.",
+  "days": [
+    {
+      "title": "Day 1 — River and beach",
+      "body": "Cham Museum in the morning, mi Quang for lunch, then My Khe. Stay on the sand if the swim is the point.",
+      "placeSlug": "da-nang"
+    },
+    {
+      "title": "Day 2 — Peninsula and the hills",
+      "body": "Linh Ung Pagoda on Son Tra, then the Marble Mountains on the road toward Hoi An.",
+      "placeSlug": "da-nang"
+    }
+  ],
+  "stops": [
+    {
+      "name": "Museum of Cham Sculpture",
+      "minutes": 60,
+      "placeSlug": "da-nang",
+      "attractionSlug": "cham-museum",
+      "note": "Morning, on the river."
+    },
+    {
+      "name": "Mi Quang",
+      "minutes": 45,
+      "placeSlug": "da-nang",
+      "dishSlug": "mi-quang",
+      "note": "Lunch between the museum and the beach."
+    },
+    {
+      "name": "My Khe Beach",
+      "minutes": 120,
+      "placeSlug": "da-nang",
+      "attractionSlug": "my-khe",
+      "note": "The rest of day one."
+    },
+    {
+      "name": "Linh Ung Pagoda, Son Tra",
+      "minutes": 180,
+      "placeSlug": "da-nang",
+      "attractionSlug": "son-tra",
+      "note": "Day two. The ride is part of the visit."
+    },
+    {
+      "name": "Marble Mountains",
+      "minutes": 90,
+      "placeSlug": "da-nang",
+      "attractionSlug": "marble-mountains",
+      "note": "On the way toward Hoi An. Skip it if Son Tra used the day."
+    }
+  ],
+  "seoTitle": "Two days in Da Nang",
+  "seoDescription": "A two-day Da Nang plan: the Cham Museum, My Khe, Son Tra, and the Marble Mountains on the way toward Hoi An."
+}

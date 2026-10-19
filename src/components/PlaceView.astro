@@ -1,0 +1,406 @@
+---
+import { existsSync, readFileSync } from 'node:fs';
+import { join } from 'node:path';
+import Base from '../layouts/Base.astro';
+import Crumbs from './Crumbs.astro';
+import Dots from './Dots.astro';
+import FactBar from './FactBar.astro';
+import Icon from './Icon.astro';
+import Photo from './Photo.astro';
+import PortraitRail from './PortraitRail.astro';
+import VietnamMap from './VietnamMap.astro';
+import {
+  attractionsForPlace,
+  attractionPath,
+  childPlaces,
+  festivalsForPlace,
+  getCorridor,
+  getPlace,
+  getFoodGuides,
+  getItineraries,
+  getRoutes,
+  interestList,
+  cardLine,
+  itineraryPhoto,
+  pageDescription,
+  placePath,
+  placeTabs,
+  relatedPlaces,
+} from '../lib/content';
+import { photoPath } from '../lib/photos';
+import { breadcrumbList, faqPage } from '../lib/schema';
+import { stayLink } from '../lib/partners';
+import type { Place } from '../lib/types';
+import { site } from '../config/site';
+
+interface Props {
+  place: Place;
+}
+const { place } = Astro.props;
+const corridor = getCorridor(place.corridor);
+const attractions = attractionsForPlace(place);
+const festivals = festivalsForPlace(place);
+const tabs = placeTabs(place, festivals.length > 0);
+const parent = place.parent ? getPlace(place.parent) : undefined;
+const nearby = relatedPlaces(place);
+const routes = getRoutes().filter((route) => place.routeSlugs.includes(route.slug));
+const trips = getItineraries().filter((trip) => place.itinerarySlugs.includes(trip.slug));
+const foodGuide = getFoodGuides().find((guide) => guide.slug === place.foodSlug);
+const rankedAttractions = [...attractions].sort((a, b) => b.dots - a.dots);
+const attractionGroups = (() => {
+  const order: string[] = [];
+  const grouped = new Map<string, typeof attractions>();
+  for (const item of rankedAttractions) {
+    const key = item.district || '';
+    if (!grouped.has(key)) {
+      grouped.set(key, []);
+      order.push(key);
+    }
+    grouped.get(key)!.push(item);
+  }
+  return order.map((key) => ({ label: key, items: grouped.get(key) ?? [] }));
+})();
+const children = childPlaces(place.slug);
+const interestRail = (place.interestCards?.length
+  ? place.interestCards
+  : interestList(place).map((tag) => {
+      const sight = attractions.find((item) => item.interests.includes(tag.key));
+      return {
+        title: tag.label,
+        summary: sight ? cardLine(sight.summary) : tag.label,
+        attractionSlug: sight?.slug,
+        dishSlug: tag.key === 'food' ? place.dishSlugs[0] : undefined,
+      };
+    })
+).map((card) => {
+  const sight = card.attractionSlug
+    ? attractions.find((item) => item.slug === card.attractionSlug)
+    : undefined;
+  const linkedPlace = card.placeSlug ? getPlace(card.placeSlug) : undefined;
+  const href = card.to === 'food'
+    ? `/food/${place.foodSlug || place.slug}`
+    : sight
+      ? attractionPath(sight)
+      : card.dishSlug
+        ? `/food/${card.dishSlug}`
+        : linkedPlace
+          ? placePath(linkedPlace)
+          : '#interests';
+  const photo = card.photo || (sight ? `${sight.placeSlug}-${sight.slug}` : '') || card.dishSlug || card.placeSlug || place.slug;
+  return { href, title: card.title, photo, fallback: place.slug, alt: card.title, cover: place.cover, icon: card.icon || (card.to === 'food' ? 'food' : undefined) };
+});
+const tripRail = trips.map((trip) => ({
+  href: `/itineraries/${trip.slug}`,
+  title: trip.title,
+  photo: itineraryPhoto(trip) || place.slug,
+  fallback: place.slug,
+  alt: trip.title,
+  cover: place.cover,
+  icon: 'trip',
+}));
+const path = placePath(place);
+const title = place.seoTitle;
+const description = pageDescription(place.seoDescription, place.summary);
+const image = photoPath(place.slug);
+const crumbSchema = [
+  { name: 'Destinations', path: '/destinations' },
+  ...(corridor ? [{ name: corridor.name, path: `/destinations/${corridor.slug}` }] : []),
+  ...(parent ? [{ name: parent.name, path: placePath(parent) }] : []),
+  { name: place.name, path },
+];
+const crumbs = crumbSchema.map((item, index) => ({
+  name: item.name,
+  href: index < crumbSchema.length - 1 ? item.path : undefined,
+}));
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': place.kind === 'city' ? 'City' : 'TouristDestination',
+  name: place.name,
+  alternateName: place.nameVi,
+  description: place.summary,
+  url: new URL(path, site.url).toString(),
+  ...(image ? { image: new URL(image, site.url).toString() } : {}),
+  geo: { '@type': 'GeoCoordinates', latitude: place.lat, longitude: place.lng },
+  containedInPlace: corridor?.name,
+};
+const breadcrumb = breadcrumbList(crumbSchema);
+const questions = place.faqs.length ? faqPage(place.faqs) : null;
+const creditsPath = join(process.cwd(), 'public', 'photos', 'credits.json');
+const credits = existsSync(creditsPath) ? JSON.parse(readFileSync(creditsPath, 'utf8')) : {};
+const heroCredit = credits[place.slug];
+---
+<Base title={title} description={description} path={path} jsonLd={[jsonLd, breadcrumb, questions].filter((item) => item !== null)} ogImage={image} placeId={place.slug}>
+  <article class="wrap">
+    <header class="place-top" id="intro">
+      <Crumbs items={crumbs} />
+      <p class="meta">{place.provinceNote || place.province}</p>
+      <h1>{place.name} <span class="vi" lang="vi">{place.nameVi}</span></h1>
+      <p class="lede">{place.summary}</p>
+      <p>
+        <Dots dots={place.dots} reason={place.dotReason} />
+        <button class="icon-btn" type="button" data-save={place.slug} aria-pressed="false">Save</button>
+      </p>
+      <div class="chips">
+        {place.season && <span class="chip peak">{place.season.label}</span>}
+        {(place.interestCards?.length
+          ? place.interestCards.slice(0, 4).map((card) => ({ label: card.title, href: '#interests' }))
+          : interestList(place).slice(0, 4).map((tag) => ({ label: tag.label, href: tag.key === 'food' ? '#eat' : '#interests' }))
+        ).map((chip) => (
+          <a class="tag" href={chip.href}>{chip.label}</a>
+        ))}
+      </div>
+      <div class="place-photo">
+        <Photo id={place.slug} alt={`${place.name}, ${place.nameVi}`} cover={place.cover} priority={true} />
+      </div>
+      {heroCredit && <p class="note photo-credit">Photo: {heroCredit.author} · {heroCredit.license}</p>}
+    </header>
+    <FactBar time={place.timeNeeded} fee={place.fee} getThere={place.getThere} bestMonths={place.bestMonths} verified={place.verified} />
+    {parent && (
+      <nav class="tabs" aria-label={`${parent.name} sections`}>
+        <a href={placePath(parent)}>{parent.name}</a>
+        <a href={`${placePath(parent)}#attractions`}>Attractions</a>
+        <a href={`${placePath(parent)}#interests`}>By interest</a>
+        <a href={`${placePath(parent)}#get-there`}>Get there</a>
+        <a href={`${placePath(parent)}#stay`}>Hotels</a>
+        <a href={`${placePath(parent)}#itineraries`}>Itineraries</a>
+      </nav>
+    )}
+    <nav class="tabs" aria-label={`${place.name} sections`}>
+      {tabs.map((item, index) => (
+        <a href={item.href} aria-current={index === 0 ? 'location' : undefined}>{item.label}</a>
+      ))}
+    </nav>
+    <div class="place-grid">
+      <div class="reading">
+        <section class="place-section">
+          {place.intro.map((paragraph) => <p>{paragraph}</p>)}
+          {children.length > 0 && (
+            <>
+              <h2>Districts</h2>
+              <ul>
+                {children.map((child) => (
+                  <li><a href={placePath(child)}>{child.name}</a> — {child.summary}</li>
+                ))}
+              </ul>
+            </>
+          )}
+          {place.faqs.length > 0 && (
+            <>
+              <h2>Common questions</h2>
+              <dl class="faq">
+                {place.faqs.map((faq) => (
+                  <>
+                    <dt>{faq.q}</dt>
+                    <dd>{faq.a}</dd>
+                  </>
+                ))}
+              </dl>
+            </>
+          )}
+        </section>
+        <section id="attractions" class="place-section">
+          <h2>{place.kind === 'district' ? 'Experiences' : `Top attractions in ${place.name}`}</h2>
+          {attractions.length === 0 && <p>Attraction entries for this place are still being added.</p>}
+          {attractionGroups.map((group) => (
+            <div>
+              {group.label && <h3>{group.label}</h3>}
+              <div class="card-list">
+                {group.items.map((attraction, index) => {
+                  const filled = Math.max(0, Math.min(5, attraction.dots));
+                  return (
+                    <a class="jg-card" id={attraction.slug} href={attractionPath(attraction)}>
+                      <div class="media">
+                        <Photo id={`${attraction.placeSlug}-${attraction.slug}`} fallbackId={place.slug} alt={attraction.name} cover={place.cover} />
+                        <span class="rank-badge">{index + 1}</span>
+                      </div>
+                      <div class="jg-body">
+                        <h3>
+                          {attraction.name}
+                          {attraction.nameVi && <span class="vi" lang="vi"> {attraction.nameVi}</span>}
+                          {filled >= 4 && <span class="mark" aria-hidden="true"></span>}
+                        </h3>
+                        <p>{cardLine(attraction.summary)}</p>
+                        <p class="rating">
+                          <span class="score">{filled.toFixed(1)}</span>
+                          <span class="stars" aria-label={`${filled} of 5, editor rating`}>
+                            {Array.from({ length: 5 }, (_, star) => (star < filled ? '★' : '☆')).join('')}
+                          </span>
+                          <span class="note">Editor</span>
+                        </p>
+                        <p class="meta">{attraction.timeNeeded} · {attraction.fee}</p>
+                      </div>
+                    </a>
+                  );
+                })}
+              </div>
+            </div>
+          ))}
+        </section>
+        {festivals.length > 0 && (
+          <section id="festivals" class="place-section">
+            <h2>Events</h2>
+            <div class="card-list">
+              {festivals.map((festival) => (
+                <a class="jg-card" href={`/festivals/${festival.slug}`}>
+                  <div class="media">
+                    <Photo id={place.slug} alt={festival.name} cover={place.cover} />
+                  </div>
+                  <div class="jg-body">
+                    <h3>{festival.name}{festival.nameVi && <span class="vi" lang="vi"> {festival.nameVi}</span>}</h3>
+                    <p class="meta">{festival.when}</p>
+                    <p>{cardLine(festival.summary)}</p>
+                  </div>
+                </a>
+              ))}
+            </div>
+          </section>
+        )}
+        {nearby.length > 0 && (
+          <section id="side-trips" class="place-section">
+            <h2>Side trips from {place.name}</h2>
+            <div class="card-list">
+              {nearby.map((item) => (
+                <a class="jg-card" href={placePath(item)}>
+                  <div class="media">
+                    <Photo id={item.slug} alt="" cover={item.cover} />
+                  </div>
+                  <div class="jg-body">
+                    <h3>{item.name}</h3>
+                    <p>{cardLine(item.summary)}</p>
+                  </div>
+                </a>
+              ))}
+            </div>
+          </section>
+        )}
+        {place.kind !== 'district' && (
+        <section id="interests" class="place-section">
+          <h2>{place.name} by interest</h2>
+          {place.interestsBody.map((paragraph) => <p>{paragraph}</p>)}
+          <PortraitRail label={`Interests in ${place.name}`} items={interestRail} />
+        </section>
+        )}
+        <section id="get-there" class="place-section">
+          <h2>Getting there and around</h2>
+          {place.gettingAround.map((paragraph) => <p>{paragraph}</p>)}
+          {routes.length > 0 && (
+            <ul class="guide-list">
+              {routes.map((route) => (
+                <li><a class="guide-row" href={`/get-there/${route.slug}`} data-route><strong>{route.name}</strong><p>{cardLine(route.summary)}</p></a></li>
+              ))}
+            </ul>
+          )}
+        </section>
+        {place.kind !== 'district' && (
+        <section id="itineraries" class="place-section">
+          <h2>{place.name} itineraries</h2>
+          {trips.length === 0 && <p>Use the corridor itineraries while a dedicated walk for this place is still in progress.</p>}
+          <PortraitRail label={`Itineraries for ${place.name}`} items={tripRail} />
+        </section>
+        )}
+        <section id="stay" class="place-section">
+          <h2>Hotels</h2>
+          <p class="note">Placeholder. Individual hotels are not listed until a stay partner is connected. Searching still opens the labeled partner results.</p>
+          <ul class="aff-list">
+            {place.stayAreas.map((area) => (
+              <li>
+                <a class="aff-row" href={stayLink(place.name)} rel="sponsored noopener" target="_blank" data-partner="stay">
+                  <span class="aff-photo">
+                    <Photo id={area.photo || place.slug} alt="" cover={place.cover} />
+                  </span>
+                  <span class="aff-copy">
+                    <strong>{area.name}</strong>
+                    <em>{area.band}</em>
+                    <p>{area.summary}</p>
+                    <span class="aff-btn">Search stays</span>
+                  </span>
+                </a>
+              </li>
+            ))}
+          </ul>
+          <p class="note">Partner link. We may earn a commission if you book.</p>
+        </section>
+        <section id="eat" class="place-section">
+          <h2>Restaurants</h2>
+          <p class="note">Placeholder. Restaurant partners are not connected. What to order is on the food guide.</p>
+          <ul class="aff-list">
+            <li>
+              <a class="aff-row" href={`/food/${foodGuide?.slug ?? place.slug}`}>
+                <span class="aff-photo">
+                  <Photo id={place.dishSlugs[0] || place.slug} fallbackId={place.slug} alt="" cover={place.cover} />
+                </span>
+                <span class="aff-copy">
+                  <strong>{foodGuide?.name ?? `${place.name} food`}</strong>
+                  <em>Food guide</em>
+                  <p>{foodGuide?.summary ?? place.eat[0]}</p>
+                  <span class="aff-btn aff-btn-quiet">Open the food guide</span>
+                </span>
+              </a>
+            </li>
+          </ul>
+        </section>
+      </div>
+      <aside class="rail">
+        <div class="panel stay-box">
+          <small>Partner link. We may earn a commission if you book.</small>
+          <h2>Book your <em>stay</em></h2>
+          <ul class="stay-tabs">
+            <li class="is-on"><span class="stay-tile"><Icon name="bed" /></span>Stays</li>
+            <li><span class="stay-tile"><Icon name="plane" /></span>Flights</li>
+            <li><span class="stay-tile"><Icon name="car" /></span>Car</li>
+            <li><span class="stay-tile"><Icon name="bus" /></span>Buses</li>
+            <li><span class="stay-tile"><Icon name="flag" /></span>Activities</li>
+            <li><span class="stay-tile"><Icon name="food" /></span>Food</li>
+          </ul>
+          <p class="stay-field"><span>City</span><strong>{place.name}</strong></p>
+          <p class="note">Dates open on the partner site. This is a placeholder until hotel listings are connected.</p>
+          <a class="stay-btn" href={stayLink(place.name)} rel="sponsored noopener" target="_blank" data-partner="stay">Search stays</a>
+        </div>
+        <div class="panel">
+          <p class="explore-kicker">Explore</p>
+          <h2>{place.name}</h2>
+          <ul class="explore-list">
+            {children.map((child) => (
+              <li><a href={placePath(child)}><Icon name="pin" />{child.name}</a></li>
+            ))}
+            <li><a href="#attractions"><Icon name="view" />{place.kind === 'district' ? 'Experiences' : 'Attractions'}</a></li>
+            {festivals.length > 0 && <li><a href="#festivals"><Icon name="event" />Events</a></li>}
+            {nearby.length > 0 && <li><a href="#side-trips"><Icon name="pin" />Side trips</a></li>}
+            {place.kind !== 'district' && interestRail.length > 0 && <li class="explore-label">By interest</li>}
+            {place.kind !== 'district' && interestRail.map((item) => (
+              <li><a href={item.href}><Icon name={item.icon || 'view'} />{item.title}</a></li>
+            ))}
+            {place.kind !== 'district' && <li class="explore-label">Plan your trip</li>}
+            <li><a href="#stay"><Icon name="bed" />Hotels</a></li>
+            <li><a href="#eat"><Icon name="food" />Restaurants</a></li>
+            {place.kind !== 'district' && <li><a href="#itineraries"><Icon name="trip" />Itineraries</a></li>}
+          </ul>
+        </div>
+        {(place.season || festivals.length > 0) && (
+          <div class="panel">
+            <h2>Articles</h2>
+            {place.season && (
+              <>
+                <p class="chip peak">{place.season.label}</p>
+                <p>{place.season.note}</p>
+              </>
+            )}
+            {festivals.map((festival) => (
+              <p><a href={`/festivals/${festival.slug}`}>{festival.name}</a></p>
+            ))}
+            <p><a href="/seasons">Season desk</a></p>
+          </div>
+        )}
+        <div class="panel rail-map">
+          <h2>Map</h2>
+          <a href={`/destinations/${place.corridor}`} data-map-open><VietnamMap /></a>
+          <p class="note">{place.name} · {place.lat.toFixed(2)}, {place.lng.toFixed(2)}</p>
+        </div>
+        <details class="panel">
+          <summary>Map</summary>
+          <VietnamMap />
+        </details>
+      </aside>
+    </div>
+  </article>
+</Base>

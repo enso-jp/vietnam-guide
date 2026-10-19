@@ -1,0 +1,17 @@
+---
+interface Props {
+  time: string;
+  fee: string;
+  getThere: string;
+  bestMonths: string;
+  verified?: string;
+}
+const { time, fee, getThere, bestMonths, verified } = Astro.props;
+---
+<div class="facts">
+  <div><span>Time</span><strong>{time}</strong></div>
+  <div><span>Fee</span><strong>{fee}</strong></div>
+  <div><span>Get there</span><strong>{getThere}</strong></div>
+  <div><span>Best months</span><strong>{bestMonths}</strong></div>
+</div>
+{verified && <p class="note">Facts verified {verified}. Fees and hours change; confirm before you go.</p>}

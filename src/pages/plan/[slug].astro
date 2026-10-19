@@ -1,0 +1,74 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import FoodTabs from '../../components/FoodTabs.astro';
+import PlanTabs from '../../components/PlanTabs.astro';
+import SectionNav from '../../components/SectionNav.astro';
+import { getGuides, pageDescription } from '../../lib/content';
+import { article, breadcrumbList, faqPage } from '../../lib/schema';
+
+export function getStaticPaths() {
+  return getGuides().map((guide) => ({ params: { slug: guide.slug }, props: { guide } }));
+}
+const { guide } = Astro.props;
+const sections = guide.sections.map((section, index) => ({
+  ...section,
+  id: `${section.heading.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') || 'section'}-${index}`,
+}));
+const planCurrent =
+  guide.slug === 'taxes' || guide.slug === 'living'
+    ? 'living'
+    : guide.slug === 'where-to-stay'
+      ? 'stay'
+      : guide.group === 'learn'
+        ? 'learn'
+        : guide.block === 'travel'
+          ? 'travel'
+          : 'before';
+const navItems = [
+  ...sections.map((section) => ({ id: section.id, label: section.heading })),
+  ...(guide.faqs.length ? [{ id: 'questions', label: 'Questions' }] : []),
+];
+const path = `/plan/${guide.slug}`;
+const description = pageDescription(guide.seoDescription, guide.summary, guide.sections[0]?.paragraphs[0] || '');
+const crumbSchema = [
+  { name: 'Plan a trip', path: '/plan' },
+  { name: guide.title, path },
+];
+const jsonLd = [
+  guide.faqs.length ? faqPage(guide.faqs) : article(guide.title, description, path),
+  breadcrumbList(crumbSchema),
+];
+---
+<Base title={guide.seoTitle} description={description} path={path} jsonLd={jsonLd}>
+  <article class="wrap section">
+    <Crumbs items={[{ name: 'Plan a trip', href: '/plan' }, { name: guide.title }]} />
+    <h1>{guide.title}</h1>
+    <PlanTabs current={planCurrent} />
+    {guide.slug === 'eating-manners' && <FoodTabs current="manners" />}
+    <p class="lede">{guide.summary}</p>
+    {guide.verified && <p class="note">Verified {guide.verified}.{guide.sourceUrl && <> Source: <a href={guide.sourceUrl}>{guide.sourceLabel}</a>.</>}</p>}
+    <SectionNav label={`${guide.title} sections`} items={navItems} />
+    <div class="reading">
+      {sections.map((section) => (
+        <section id={section.id} class="place-section">
+          <h2>{section.heading}</h2>
+          {section.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
+        </section>
+      ))}
+      {guide.faqs.length > 0 && (
+        <section id="questions" class="place-section">
+          <h2>Questions</h2>
+          <dl class="faq">
+            {guide.faqs.map((faq) => (
+              <>
+                <dt>{faq.q}</dt>
+                <dd>{faq.a}</dd>
+              </>
+            ))}
+          </dl>
+        </section>
+      )}
+    </div>
+  </article>
+</Base>

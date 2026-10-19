@@ -1,0 +1,26 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import { getFestivals } from '../../lib/content';
+import { breadcrumbList, itemList } from '../../lib/schema';
+const festivals = getFestivals();
+const description = 'Festival notes already recorded on Vietnam Guide. Dates move. Check on arrival.';
+---
+<Base title="Festivals" description={description} path="/festivals" ogType="website" jsonLd={[itemList('Festivals', festivals.map((festival) => ({ name: festival.name, path: `/festivals/${festival.slug}` }))), breadcrumbList([{ name: 'Festivals', path: '/festivals' }])]}>
+  <div class="wrap section">
+    <Crumbs items={[{ name: 'Festivals' }]} />
+    <h1>Festivals</h1>
+    <p class="lede">These are the festival blocks on the site. A date that moves is not given as a fixed day. Check on arrival.</p>
+    <ul class="guide-list">
+      {festivals.map((festival) => (
+        <li>
+          <a class="guide-row" href={`/festivals/${festival.slug}`}>
+            <strong>{festival.name}{festival.nameVi && <span class="vi" lang="vi"> {festival.nameVi}</span>}</strong>
+            <p class="meta">{festival.when}</p>
+            <p>{festival.summary}</p>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</Base>

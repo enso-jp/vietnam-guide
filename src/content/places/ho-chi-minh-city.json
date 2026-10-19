@@ -1,0 +1,89 @@
+{
+  "slug": "ho-chi-minh-city",
+  "name": "Ho Chi Minh City",
+  "nameVi": "Thành phố Hồ Chí Minh",
+  "kind": "city",
+  "corridor": "southeast",
+  "province": "Ho Chi Minh City",
+  "provinceNote": "The city now includes the former Ba Ria–Vung Tau and Binh Duong provinces. The center visitors walk is still District 1.",
+  "lat": 10.776,
+  "lng": 106.701,
+  "dots": 5,
+  "dotReason": "Worth building a day around",
+  "summary": "Ho Chi Minh City is Vietnam’s largest city and the usual end of a north-to-south trip. District 1 holds the Opera House, Dong Khoi, and Ben Thanh Market. Three days covers the center, a museum, and either Cu Chi or a delta day.",
+  "timeNeeded": "3 days",
+  "fee": "Walking is free; museums and Cu Chi are ticketed",
+  "getThere": "Tan Son Nhat Airport is inside the city, often 30–60 minutes to District 1",
+  "bestMonths": "December to April",
+  "verified": "19 Oct 2026",
+  "interests": {
+    "food": 5,
+    "markets": 4,
+    "warHistory": 4,
+    "coffee": 4,
+    "nightlife": 4,
+    "family": 3
+  },
+  "cover": "city",
+  "nearby": [
+    "cu-chi",
+    "can-tho",
+    "phu-quoc"
+  ],
+  "foodSlug": "ho-chi-minh-city",
+  "routeSlugs": [
+    "ho-chi-minh-city-to-mekong",
+    "ho-chi-minh-city-to-phu-quoc"
+  ],
+  "itinerarySlugs": [
+    "best-14-days",
+    "south-5-days",
+    "ho-chi-minh-city-walk"
+  ],
+  "seoTitle": "Ho Chi Minh City travel guide — what to do, how to get there, where to eat",
+  "seoDescription": "How to spend three days in Ho Chi Minh City, where to stay in District 1, and which day trips are worth leaving town for.",
+  "intro": [
+    "The city is still called Saigon by many residents, and that name fits the center: a tight commercial downtown that grew under French rule and then kept growing. The walkable visitor core is District 1. Cholon, the Chinese commercial district, is a separate half-day.",
+    "Eat com tam, broken rice, and a bowl of pho in the south’s sweeter style. Use the War Remnants Museum if you want the documentary record, and allow time; it is not a light hour. The Reunification Palace is the other standard stop, a preserved 1960s government building."
+  ],
+  "gettingAround": [
+    "Tan Son Nhat is close by Asian-capital standards and still slow at rush hour. GrabCar is the default. Walking works inside District 1 if you treat motorbike traffic as the rule of the road: cross with a steady pace, not a dash.",
+    "The first metro line is useful on its own corridor and does not link every sight. For Cu Chi and the delta, book a car or a tour rather than improvising at the bus station with luggage."
+  ],
+  "stayAreas": [
+    {
+      "name": "District 1",
+      "summary": "The practical base. Walk to dinner. Book a street set back from the night clubs if you want sleep.",
+      "band": "Hostels through luxury hotels"
+    },
+    {
+      "name": "District 3",
+      "summary": "Quieter streets, a short ride from the center, better if you want local cafes.",
+      "band": "Apartments and small hotels"
+    }
+  ],
+  "eat": [
+    "Southern food is sweeter and more herb-heavy. Com tam, banh xeo, hu tieu, and a late bowl of pho are the city set.",
+    "Ben Thanh’s stalls are convenient and priced for visitors. Walk a few blocks to a com tam room with a lunch queue."
+  ],
+  "dishSlugs": [
+    "com-tam",
+    "banh-xeo",
+    "pho",
+    "banh-mi",
+    "ca-phe"
+  ],
+  "interestsBody": [
+    "Food, markets, and the city’s war-history museums. The beach is not here; Vung Tau and Phu Quoc are separate rides or flights."
+  ],
+  "faqs": [
+    {
+      "q": "Is Ho Chi Minh City the same as Saigon?",
+      "a": "Saigon is the older name and still the everyday name for the center. Ho Chi Minh City is the official name, and after 2025 it covers a wider area than the downtown you will walk."
+    },
+    {
+      "q": "How many days do you need?",
+      "a": "Three days for the center and one excursion. Add a night in Can Tho if the delta is more than a checkbox."
+    }
+  ]
+}

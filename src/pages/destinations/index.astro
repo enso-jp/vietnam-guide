@@ -1,0 +1,31 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import Photo from '../../components/Photo.astro';
+import { getCorridors, pageDescription, placesInCorridor, topPlaces } from '../../lib/content';
+import { breadcrumbList, itemList } from '../../lib/schema';
+const corridors = getCorridors();
+const description = pageDescription(
+  'Five travel corridors from northern Vietnam to the Mekong Delta.',
+  'These corridors follow how trips are built. Province borders changed in 2025. The place names did not.',
+);
+---
+<Base title="Destinations" description={description} path="/destinations" ogType="website" jsonLd={[itemList('Destinations', corridors.map((corridor) => ({ name: corridor.name, path: `/destinations/${corridor.slug}` }))), breadcrumbList([{ name: 'Destinations', path: '/destinations' }])]}>
+  <div class="wrap section">
+    <Crumbs items={[{ name: 'Destinations' }]} />
+    <h1>Destinations</h1>
+    <p class="lede">These corridors follow how trips are built. Province borders changed in 2025. The place names did not.</p>
+    <div class="card-list">
+      {corridors.map((corridor) => (
+        <a class="card" href={`/destinations/${corridor.slug}`}>
+          <Photo id={topPlaces(placesInCorridor(corridor.slug), 1)[0]?.slug || corridor.slug} alt={corridor.name} cover={corridor.cover} />
+          <div class="pad">
+            <h2>{corridor.name}</h2>
+            <p>{corridor.summary}</p>
+            <p class="meta">{corridor.climate}</p>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</Base>
