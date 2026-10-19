@@ -5,7 +5,7 @@ const hubPaths = new Set(['/interests', '/itineraries', '/festivals', '/get-ther
 const tabTail = /\/(attractions|interests|get-there|itineraries|stay|eat|festivals)$/;
 
 export default defineConfig({
-  site: 'https://vietnam.guide',
+  site: 'https://enso-jp.github.io',
   output: 'static',
   trailingSlash: 'never',
   redirects: {

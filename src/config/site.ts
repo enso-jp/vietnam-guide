@@ -1,6 +1,6 @@
 export const site = {
   name: 'Vietnam Guide',
-  url: 'https://vietnam.guide',
+  url: 'https://enso-jp.github.io',
   description:
     'An objective travel reference for Vietnam: places, routes, food, seasons, and the practical facts needed to plan a trip.',
   correctionsEmail: '',
