@@ -1,4 +1,6 @@
 ---
+import Icon from './Icon.astro';
+
 interface Props {
   time: string;
   fee: string;
@@ -9,9 +11,9 @@ interface Props {
 const { time, fee, getThere, bestMonths, verified } = Astro.props;
 ---
 <div class="facts">
-  <div><span>Time</span><strong>{time}</strong></div>
-  <div><span>Fee</span><strong>{fee}</strong></div>
-  <div><span>Get there</span><strong>{getThere}</strong></div>
-  <div><span>Best months</span><strong>{bestMonths}</strong></div>
+  <div><Icon name="clock" /><span>Time</span><strong>{time}</strong></div>
+  <div><Icon name="ticket" /><span>Fee</span><strong>{fee}</strong></div>
+  <div><Icon name="pin" /><span>Get there</span><strong>{getThere}</strong></div>
+  <div><Icon name="event" /><span>Best months</span><strong>{bestMonths}</strong></div>
 </div>
 {verified && <p class="note">Facts verified {verified}. Fees and hours change; confirm before you go.</p>}

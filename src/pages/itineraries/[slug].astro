@@ -1,10 +1,11 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
+import Icon from '../../components/Icon.astro';
 import Photo from '../../components/Photo.astro';
 import PlanTabs from '../../components/PlanTabs.astro';
-import SectionNav from '../../components/SectionNav.astro';
 import { attractionPath, getAttractions, getItineraries, getPlace, pageDescription, placePath } from '../../lib/content';
+import { stayLink } from '../../lib/partners';
 import { abs, breadcrumbList } from '../../lib/schema';
 
 export function getStaticPaths() {
@@ -12,6 +13,11 @@ export function getStaticPaths() {
 }
 const { trip } = Astro.props;
 const days = (trip.days || []).map((day, index) => ({ ...day, id: `day-${index + 1}` }));
+const placeFrom = (slug?: string) => (slug ? getPlace(slug) : undefined);
+const firstPlace =
+  days.map((day) => placeFrom(day.placeSlug)).find(Boolean)
+  || (trip.stops || []).map((stop) => placeFrom(stop.placeSlug)).find(Boolean);
+const otherTrips = getItineraries().filter((item) => item.slug !== trip.slug);
 const path = `/itineraries/${trip.slug}`;
 const description = pageDescription(trip.seoDescription, trip.summary);
 const crumbSchema = [
@@ -51,17 +57,28 @@ const jsonLd = {
       <div><span>Budget</span><strong>{trip.budget}</strong></div>
       <div><span>Pace</span><strong>{trip.pace}</strong></div>
     </div>
-    {days.length > 0 && <SectionNav label={`${trip.title} days`} items={days.map((day) => ({ id: day.id, label: day.title }))} />}
-    {days.map((day) => {
-      const place = day.placeSlug ? getPlace(day.placeSlug) : undefined;
-      return (
-        <section id={day.id} class="day place-section">
-          <h2>{day.title}</h2>
-          <p>{day.body}</p>
-          {place && <p><a href={placePath(place)}>{place.name} guide</a></p>}
-        </section>
-      );
-    })}
+    <div class="place-grid itinerary-grid">
+      <div class="day-list">
+        {days.map((day, index) => {
+          const place = day.placeSlug ? getPlace(day.placeSlug) : undefined;
+          const photo = day.photo || place?.slug || '';
+          const inner = (
+            <>
+              <span class="day-photo">
+                <Photo id={photo} alt="" cover={place?.cover || 'city'} priority={index === 0} />
+              </span>
+              <span>
+                <h2>{day.title}</h2>
+                <p>{day.body}</p>
+              </span>
+            </>
+          );
+          return (
+            <section id={day.id}>
+              {place ? <a class="day-card" href={placePath(place)}>{inner}</a> : <div class="day-card">{inner}</div>}
+            </section>
+          );
+        })}
     {trip.stops && (
       <section id="stops" class="place-section">
         <h2>Stops</h2>
@@ -102,5 +119,37 @@ const jsonLd = {
         </ol>
       </section>
     )}
+      </div>
+      <aside class="rail">
+        {firstPlace && (
+          <div class="panel stay-box">
+            <small>Partner link. We may earn a commission if you book.</small>
+            <h2>Book your <em>stay</em></h2>
+            <ul class="stay-tabs">
+              <li class="is-on"><span class="stay-tile"><Icon name="bed" /></span>Stays</li>
+              <li><span class="stay-tile"><Icon name="plane" /></span>Flights</li>
+              <li><span class="stay-tile"><Icon name="car" /></span>Car</li>
+              <li><span class="stay-tile"><Icon name="bus" /></span>Buses</li>
+              <li><span class="stay-tile"><Icon name="flag" /></span>Activities</li>
+              <li><span class="stay-tile"><Icon name="food" /></span>Food</li>
+            </ul>
+            <p class="stay-field"><span>City</span><strong>{firstPlace.name}</strong></p>
+            <p class="note">Dates open on the partner site. This is a placeholder until hotel listings are connected.</p>
+            <a class="stay-btn" href={stayLink(firstPlace.name)} rel="sponsored noopener" target="_blank" data-partner="stay">Search stays</a>
+          </div>
+        )}
+        {otherTrips.length > 0 && (
+          <div class="panel">
+            <p class="explore-kicker">Plan your trip</p>
+            <h2>Itinerary ideas</h2>
+            <ul class="explore-list">
+              {otherTrips.map((item) => (
+                <li><a href={`/itineraries/${item.slug}`}><Icon name="trip" />{item.title}</a></li>
+              ))}
+            </ul>
+          </div>
+        )}
+      </aside>
+    </div>
   </article>
 </Base>

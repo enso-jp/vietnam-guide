@@ -184,6 +184,7 @@ export interface ItineraryDay {
   title: string;
   body: string;
   placeSlug?: string;
+  photo?: string;
 }
 
 export interface Itinerary {

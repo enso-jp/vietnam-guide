@@ -128,6 +128,7 @@ const questions = place.faqs.length ? faqPage(place.faqs) : null;
 const creditsPath = join(process.cwd(), 'public', 'photos', 'credits.json');
 const credits = existsSync(creditsPath) ? JSON.parse(readFileSync(creditsPath, 'utf8')) : {};
 const heroCredit = credits[place.slug];
+const leadSight = rankedAttractions[0];
 ---
 <Base title={title} description={description} path={path} jsonLd={[jsonLd, breadcrumb, questions].filter((item) => item !== null)} ogImage={image} placeId={place.slug}>
   <article class="wrap">
@@ -173,7 +174,19 @@ const heroCredit = credits[place.slug];
     <div class="place-grid">
       <div class="reading">
         <section class="place-section">
-          {place.intro.map((paragraph) => <p>{paragraph}</p>)}
+          {place.intro.map((paragraph, index) => (
+            <>
+              <p>{paragraph}</p>
+              {index === 0 && leadSight && (
+                <figure class="prose-figure">
+                  <a href={attractionPath(leadSight)}>
+                    <Photo id={`${leadSight.placeSlug}-${leadSight.slug}`} fallbackId={place.slug} alt={leadSight.name} cover={place.cover} />
+                  </a>
+                  <figcaption><a href={attractionPath(leadSight)}>{leadSight.name}</a></figcaption>
+                </figure>
+              )}
+            </>
+          ))}
           {children.length > 0 && (
             <>
               <h2>Districts</h2>
