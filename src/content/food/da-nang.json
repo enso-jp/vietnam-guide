@@ -2,51 +2,339 @@
   "slug": "da-nang",
   "name": "Da Nang food guide",
   "placeSlug": "da-nang",
-  "summary": "Da Nang cooks like the center of the country: turmeric, peanuts, herbs, and a light hand with broth. Lunch is mi Quang. Breakfast is bun cha ca. Dinner, if you slept by the sea, is seafood.",
+  "summary": "Da Nang cooks the middle of the country: turmeric noodles at lunch, fish-cake soup in the morning, seafood on the beach road after dark, and a river cafe when you want several plates at one table.",
+  "heroSlug": "mi-quang",
   "body": [
-    "Eat in Da Nang the way the city does, not as a shorter Hoi An. The old-town dishes are a ride away. Here the bowl that tells you where you are is mi Quang, and it shows up at lunch, not at a beach club.",
-    "Markets are the reliable map. Han Market is the easy first stop by the river. Con Market is the one to choose when eating is the whole errand. Neither page names a stall, because the busy sign is a better guide than a list that goes stale."
+    "Eat Da Nang as its own city. Hoi An’s cao lau is a short ride south, and bun bo Hue is a ride north. The bowl that tells you where you are is mi Quang: wide turmeric noodles, a shallow broth, peanuts, herbs, and a rice cracker you break into the bowl.",
+    "The shops below are ones people in the city write down for a friend. A market still works when you are already inside it. Hours move, and a branch can shift. Confirm them when you arrive. On the beach road, ask the price of seafood before it is cooked."
+  ],
+  "specialtiesLead": "These are the dishes to know by name. The shops that cook them are in the sections under this list.",
+  "dishSlugs": [
+    "mi-quang",
+    "bun-cha-ca",
+    "banh-xeo",
+    "banh-trang-cuon",
+    "banh-canh",
+    "bun-mam",
+    "com-ga",
+    "banh-beo",
+    "goi-ca",
+    "vit-lon",
+    "che",
+    "banh-mi",
+    "ca-phe"
   ],
   "sections": [
     {
       "id": "where",
       "heading": "Where to eat",
+      "nav": "Where to eat",
       "paragraphs": [
-        "Han Market (Cho Han) sits by the river in Hai Chau. Use it on a morning when you are already at the Cham Museum. Look for mi Quang, banh xeo, and bun cha ca on the ground floor. Hours move, so check on arrival.",
-        "Con Market (Cho Con) is the louder food market, west of the river. Come hungry and walk until a stall is busy. Mi Quang, banh xeo, rice-paper rolls, and sweet che soups all turn up here. Again, check the hour on arrival.",
-        "My Khe is dinner, not the place to judge a noodle shop. Grilled seafood and cold drinks line the sand and the streets just inland. This guide does not pick a bar or a grill.",
-        "Nam O fish salad is a north-shore plate, toward Hai Van. Order it only when that ride is already the plan."
+        "Hai Chau, on the river, is the morning and the lunch. Han Market (Cho Han) sits by the water, useful when you are already at the Cham Museum. Con Market (Cho Con) is the louder food market west of the river. Walk until a stall is busy. Both markets move their hours, so check on arrival.",
+        "Nguyễn Chí Thanh is the noodle street: bun cha ca, cao lau, and chicken rice within a few blocks. Bạch Đằng is the river path for breakfast, coffee, and a coconut with the water in front of you.",
+        "Võ Nguyên Giáp is the beach road. Dinner here is seafood, beer, and the clubs. Nguyễn Phan Vinh, on the Son Tra shore, is the other seafood street. An Thuong, in the lanes just inland of My Khe, is where Korean barbecue and Japanese counters cluster. The page names districts there, and the shops only when a friend would write the door down."
+      ]
+    },
+    {
+      "id": "noodles",
+      "heading": "Noodles",
+      "nav": "Noodles",
+      "paragraphs": [
+        "Start with the Da Nang bowls, then the two neighbor noodles if you are not riding that day. Lunch is mi Quang. Morning is bun cha ca."
+      ],
+      "spots": [
+        {
+          "name": "Ba Ngan 3",
+          "nameVi": "Bà Ngân 3",
+          "address": "37 Phan Thành Tài",
+          "note": "The mi Quang bowl people name when they send a friend. Break the cracker into the bowl and toss. Come at lunch.",
+          "dishSlug": "mi-quang"
+        },
+        {
+          "name": "Ong Ta",
+          "nameVi": "Ông Tạ",
+          "address": "113A Nguyễn Chí Thanh",
+          "note": "Bun cha ca in the morning. Fish cakes, a light broth, herbs and chili on the side. Go before the beach.",
+          "dishSlug": "bun-cha-ca"
+        },
+        {
+          "name": "Ba Phien",
+          "nameVi": "Bà Phiến",
+          "address": "63 Lê Hồng Phong",
+          "note": "The other morning bowl of bun cha ca. Same order: cakes, broth, herbs. If one room is closed, walk to the other.",
+          "dishSlug": "bun-cha-ca"
+        },
+        {
+          "name": "Hue Thu",
+          "nameVi": "Huế Thu",
+          "address": "Châu Thị Vĩnh Tế",
+          "note": "Banh canh cá lóc, snakehead fish in a thick noodle broth. The page has the street and not a house number. Ask for Huế Thu when you are on it.",
+          "dishSlug": "banh-canh"
+        },
+        {
+          "name": "Ba Van",
+          "nameVi": "Bà Vân",
+          "address": "Trần Kế Xương",
+          "note": "Bun mam with boiled pork. The broth is fermented fish, which is the point. Skip it if that smell is not yours. House number: check on arrival.",
+          "dishSlug": "bun-mam"
+        },
+        {
+          "name": "Hoai Pho",
+          "nameVi": "Hoài Phố",
+          "address": "255 Nguyễn Chí Thanh",
+          "note": "Cao lau, the chewy Hoi An noodle with little broth. Eat it here when the old town is not today’s ride. Judge the dish in Hoi An if the bowl is why you go.",
+          "dishSlug": "cao-lau"
+        },
+        {
+          "name": "Ba Huong",
+          "nameVi": "Bà Hương",
+          "address": "229 Đống Đa",
+          "note": "Bun bo Hue, the spicy beef and pork soup. A Da Nang room for the bowl. The city to judge it in is still Hue.",
+          "dishSlug": "bun-bo-hue"
+        }
+      ]
+    },
+    {
+      "id": "rice",
+      "heading": "Rice",
+      "hideNav": true,
+      "paragraphs": [
+        "Chicken rice is a lunch plate, and the two shops cook it in different traditions. Ask which chicken you are getting."
+      ],
+      "spots": [
+        {
+          "name": "Hong Ngoc",
+          "nameVi": "Hồng Ngọc",
+          "address": "193 Nguyễn Chí Thanh",
+          "note": "Com ga in the Hong Kong style: chicken and seasoned rice. Eat it at lunch, with the dip.",
+          "dishSlug": "com-ga"
+        },
+        {
+          "name": "Tu Tai",
+          "nameVi": "Tú Tài",
+          "address": "62 Hải Phòng",
+          "note": "Com ga in the Hoi An style. Turmeric rice, chicken, and the sharper central-coast dip. A different plate from Hồng Ngọc, on purpose.",
+          "dishSlug": "com-ga"
+        }
+      ]
+    },
+    {
+      "id": "plates",
+      "heading": "Rolls, cakes, and the stadium plate",
+      "hideNav": true,
+      "paragraphs": [
+        "These are sitting-down lunches. The rice-paper pork is a shared tray. The stadium plate is the one to cross town for."
+      ],
+      "spots": [
+        {
+          "name": "Ba Huong",
+          "nameVi": "Bà Hường",
+          "address": "364 đường 3/2, and a Duy Tân branch near the airport",
+          "note": "Boiled pork rolled in rice paper, plus steamed scad, cá nục hấp, rolled the same way. This is a different shop from the bun bo room named Bà Hương. Sit down and share the tray.",
+          "dishSlug": "banh-trang-cuon"
+        },
+        {
+          "name": "Tran",
+          "nameVi": "Trần",
+          "address": "4 Lê Duẩn",
+          "note": "Banh trang cuon thit heo, pork and herbs in rice paper, with the local dip. Ask what is in the bowl if you skip fermented fish.",
+          "dishSlug": "banh-trang-cuon"
+        },
+        {
+          "name": "Ba Be",
+          "nameVi": "Bà Bé",
+          "address": "100 Hoàng Văn Thụ",
+          "note": "Banh beo, nam, and loc: the set of small steamed cakes. Spoon the dip into the cup. Afternoon is the easy hour.",
+          "dishSlug": "banh-beo"
+        },
+        {
+          "name": "Vit lon um bau",
+          "nameVi": "Vịt lộn um bầu",
+          "address": "Ngô Gia Tự, near Chi Lăng stadium",
+          "note": "The plate to cross town for. Balut stewed with gourd, and mít trộn, a green jackfruit salad, beside it. Go hungry. There is no house number here. Take the busy stall on that street.",
+          "dishSlug": "vit-lon"
+        },
+        {
+          "name": "Goi ca trich",
+          "nameVi": "Gỏi cá trích",
+          "address": "Trần Cao Vân",
+          "note": "Herring salad with herbs. A shared lunch in the city. The north-shore cousin is gỏi cá Nam Ô, only when you are already riding toward Hai Van.",
+          "dishSlug": "goi-ca"
+        }
+      ]
+    },
+    {
+      "id": "seafood",
+      "heading": "Seafood",
+      "nav": "Seafood",
+      "paragraphs": [
+        "Point at what is fresh, ask for it grilled or steamed, and ask the price before it is cooked. If a number is not agreed, it is not a known price. My Khe is dinner. It is the wrong place to judge a noodle shop."
+      ],
+      "spots": [
+        {
+          "name": "Lao Dai",
+          "nameVi": "Hải sản Lão Đại",
+          "address": "Lô 1 Võ Văn Kiệt, and tables near the Dragon Bridge on Võ Nguyên Giáp",
+          "note": "The seafood room people put first. Use the Võ Văn Kiệt address, and the beach-road tables by the Dragon Bridge if that is the door you were sent to. Order from the tank, after the price."
+        },
+        {
+          "name": "Ong Minh",
+          "nameVi": "Ông Minh",
+          "address": "92 Võ Nguyên Giáp",
+          "note": "Seafood on the beach road itself. Same rule: see it, price it, then cook it."
+        },
+        {
+          "name": "Nam Danh",
+          "nameVi": "Hải sản Năm Đảnh",
+          "address": "Nguyễn Phan Vinh",
+          "note": "The Son Tra shore street. Search Nguyễn Phan Vinh and take the busy room. House number: check on arrival."
+        }
       ]
     },
     {
       "id": "breakfast",
       "heading": "Breakfast",
+      "nav": "Breakfast",
       "paragraphs": [
-        "Start with bun cha ca if you are in the city. It is fish cakes and a light broth, and the good shops are a morning thing.",
-        "A banh mi works if you are leaving for the beach or for Hoi An and do not want to sit down. Coffee is everywhere. A beach breakfast is fine. It just will not teach you the city."
+        "The city breakfast is bun cha ca, at Ông Tạ or Bà Phiến, while you are still inland. A banh mi is the one you eat standing up, on the way to the beach or the Hoi An road. Coffee is everywhere. The beach will feed you. It will not teach you the city."
+      ],
+      "spots": [
+        {
+          "name": "Madame Lan",
+          "nameVi": "Madame Lân",
+          "address": "4 Bạch Đằng",
+          "note": "The one table for a Da Nang breakfast. Several local plates, decent cooking, and a real chair, with the river across the road. Come here when you want more than one dish without hunting stalls."
+        }
       ]
     },
     {
-      "id": "how",
-      "heading": "How a Da Nang meal goes",
+      "id": "sweets",
+      "heading": "Sweets",
+      "nav": "Sweets",
       "paragraphs": [
-        "Mi Quang is tossed, not drunk. Break in the rice cracker, add herbs, and leave the broth shallow.",
-        "Banh xeo here is a smaller, crisper crepe than the southern one. Tear it, wrap the piece with herbs, and dip. Do not attack it with a fork.",
-        "Pork in rice paper is a lunch plate, rolled with herbs. Ask what is in the dip if you do not eat fermented fish.",
-        "Seafood is the meal you share. Point at what is fresh, ask for it grilled, and ask the price before it is cooked."
+        "Afternoon is chè. The two rooms below are old city shops, the kind parents took their children to, and they are still the ones to name."
+      ],
+      "spots": [
+        {
+          "name": "Che Xuan Trang",
+          "nameVi": "Chè Xuân Trang",
+          "address": "31 Lê Duẩn",
+          "note": "Bean desserts, chè đậu. An old room on Lê Duẩn, open for decades. Order a bowl and sit.",
+          "dishSlug": "che"
+        },
+        {
+          "name": "Che Lien",
+          "nameVi": "Chè Liên",
+          "address": "16 đường 2/9",
+          "note": "Durian dessert, chè sầu riêng. Another long-running shop. Take it only if you want durian. The smell is the dessert.",
+          "dishSlug": "che"
+        }
+      ]
+    },
+    {
+      "id": "drinks",
+      "heading": "Coffee and drinks",
+      "nav": "Drinks",
+      "paragraphs": [
+        "The phin and condensed milk are still the everyday cup. Matcha is now a normal order beside it, on Bạch Đằng and in the beach cafes. There is no single matcha shop to cross town for. Sit where you already are.",
+        "Bạch Đằng is the street for a drink with the river. The beach road is the street for a drink with the sea."
+      ],
+      "spots": [
+        {
+          "name": "Cong",
+          "nameVi": "Cộng",
+          "address": "96–98 Bạch Đằng",
+          "note": "The military-green coffee chain, on the river. Iced coffee with condensed milk is the order. You are paying for the chair and the view as much as the cup.",
+          "dishSlug": "ca-phe"
+        },
+        {
+          "name": "Dua Ben Tre",
+          "nameVi": "Dừa Bến Tre",
+          "address": "198 Bạch Đằng",
+          "note": "Young coconut on the river path. Come for the water in front of you, then walk."
+        }
+      ]
+    },
+    {
+      "id": "dining",
+      "heading": "Fine dining and other kitchens",
+      "nav": "Dining",
+      "paragraphs": [
+        "Book the three rooms below. They are dinners, not walk-in noodle shops. Hours change, so confirm the day.",
+        "Korean barbecue and Japanese counters cluster in the lanes inland of My Khe, around An Thuong. Walk until a room is busy. This page does not pick one shop there."
+      ],
+      "spots": [
+        {
+          "name": "Nen",
+          "nameVi": "Nén",
+          "address": "16 Mỹ Đà Tây 2, Ngũ Hành Sơn",
+          "note": "A contemporary Vietnamese tasting menu, and a Michelin Green Star kitchen. Book. Lunch is not served every day. Dinner is the sitting to count on."
+        },
+        {
+          "name": "Le Comptoir",
+          "nameVi": "Le Comptoir",
+          "address": "16 Chế Lan Viên, Ngũ Hành Sơn",
+          "note": "French bistro cooking, with a short menu and a wine list. Dinner, booked. The two Ngũ Hành Sơn rooms are a ride from the river, so go for the meal."
+        },
+        {
+          "name": "The Temptation",
+          "nameVi": "The Temptation",
+          "address": "125 Hồ Nghinh",
+          "note": "French, toward the Son Tra shore on Hồ Nghinh. Dinner is the reliable service. Monday is dinner only. Confirm the lunch hour on other days."
+        }
+      ]
+    },
+    {
+      "id": "night",
+      "heading": "After dark",
+      "nav": "Night",
+      "paragraphs": [
+        "The beach road is the night. Cocktails sit a lane inland, where the address is a side street and not the sand. Go after dinner. These rooms are drinks, with food if you are already there."
+      ],
+      "spots": [
+        {
+          "name": "East West Brewing",
+          "nameVi": "East West",
+          "address": "1A Võ Nguyên Giáp",
+          "note": "House beer with the sea in front of you, at the north end of the beach road. Order a pale ale or the IPA and stay for the view."
+        },
+        {
+          "name": "Esco Beach",
+          "nameVi": "Esco Beach",
+          "address": "Lô 12 Võ Nguyên Giáp",
+          "note": "A beachfront room for a meal and a late drink, with the sand as the view. It runs long. Confirm the night’s music when you arrive."
+        },
+        {
+          "name": "Kala Kala",
+          "nameVi": "Kalà Kalà",
+          "address": "51 Võ Nguyên Giáp",
+          "note": "A beach club: pool, music, and a late close. Go for the afternoon into the night. It is the wrong room for a quiet noodle."
+        },
+        {
+          "name": "Firebirds Tropical",
+          "nameVi": "Firebirds Tropical",
+          "address": "2D Mỹ Khê 7",
+          "note": "Cocktails in a garden lane, one turn inland from the beach road. It is easy to walk past. Ask the bartender if you want a drink off the printed list."
+        },
+        {
+          "name": "Firebirds Vietnamese Craft",
+          "nameVi": "Firebirds Vietnamese Craft",
+          "address": "City center. Confirm the street on arrival.",
+          "note": "The second Firebirds room, newer, and dressed with Vietnamese furniture. The street is not fixed on this page. Confirm it before you go."
+        }
       ]
     },
     {
       "id": "neighbors",
       "heading": "A ride away",
+      "nav": "Nearby",
       "paragraphs": [
-        "Hoi An is under an hour. Go there for cao lau, white rose dumplings, and the old-town dinner you cannot get on My Khe.",
-        "Hue is the other direction, over Hai Van or by the tunnel. Bun bo Hue belongs to that city. Eat it there if the bowl is the reason for the trip."
+        "Hoi An is under an hour by the coast road. Go there for cao lau, white rose dumplings, and the old-town dinner you will not get on My Khe.",
+        "Hue is the other direction, over Hai Van or by the tunnel. Bun bo Hue belongs to that city. Eat it there if the bowl is the reason for the trip. The Da Nang shops for both noodles are in the noodle list above, for the day you stay in town."
       ],
       "dishSlugs": ["cao-lau", "bun-bo-hue"]
     }
   ],
-  "dishSlugs": ["mi-quang", "bun-cha-ca", "banh-xeo", "banh-mi", "ca-phe"],
-  "seoTitle": "Da Nang food guide — mi Quang, markets, seafood",
-  "seoDescription": "What to eat in Da Nang: mi Quang at lunch, bun cha ca in the morning, seafood on My Khe, and when to ride to Hoi An."
+  "seoTitle": "Da Nang food guide — noodles, seafood, cafes, bars",
+  "seoDescription": "What to eat in Da Nang: mi Quang at lunch, bun cha ca at breakfast, seafood on Vo Nguyen Giap, river cafes, and the shops locals send friends to."
 }

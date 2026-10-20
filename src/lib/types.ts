@@ -125,17 +125,32 @@ export interface Dish {
   summary: string;
   origin: string;
   howToEat: string[];
+  /** Streets and shops. Shown before the city list. */
+  where?: string[];
   priceBand: string;
   placeSlugs: string[];
   seoTitle: string;
   seoDescription: string;
 }
 
+export interface FoodSpot {
+  name: string;
+  nameVi?: string;
+  address?: string;
+  note: string;
+  dishSlug?: string;
+}
+
 export interface FoodSection {
   id: string;
   heading: string;
+  /** Short label for the tab row. Falls back to the heading. */
+  nav?: string;
+  /** Keep the heading on the page and out of the tab row. */
+  hideNav?: boolean;
   paragraphs: string[];
   dishSlugs?: string[];
+  spots?: FoodSpot[];
 }
 
 export interface FoodGuide {
@@ -144,6 +159,9 @@ export interface FoodGuide {
   placeSlug: string;
   summary: string;
   body: string[];
+  /** Dish photo under the title. Omit it and the page stays text until the specialty rows. */
+  heroSlug?: string;
+  specialtiesLead?: string;
   sections?: FoodSection[];
   dishSlugs: string[];
   seoTitle: string;

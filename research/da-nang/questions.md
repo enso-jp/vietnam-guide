@@ -14,3 +14,4 @@ Checked 20 Oct 2026. Public fields that stay “Check on arrival” or that name
 - DIFF grandstand prices were not copied. The 2026 nights are recorded. Next year’s dates are still open.
 - Son Tra and Linh Ung publish no entry fee. A gate fee, if one exists, is still unknown.
 - Non Nuoc village has no ticket on the city list. It is not a public page yet.
+- Firebirds Vietnamese Craft: a 2026 second room in central Da Nang. The street address is not on the Tropical page (2D Mỹ Khê 7). The food guide says to confirm the street.

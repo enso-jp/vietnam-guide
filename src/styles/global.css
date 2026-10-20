@@ -267,7 +267,7 @@ p { margin: 0.55rem 0; }
 .reading .jg-card .media svg { height: 11.5rem; }
 .dish-feature {
   display: grid;
-  grid-template-columns: 11.5rem minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1fr);
   gap: 1rem;
   align-items: center;
   padding: 1rem 0;
@@ -275,11 +275,38 @@ p { margin: 0.55rem 0; }
   color: inherit;
   text-decoration: none;
 }
-.dish-feature img, .dish-feature svg { width: 100%; height: 8.5rem; object-fit: cover; display: block; }
-.dish-feature .cover { min-height: 0; height: 8.5rem; border: 0; }
+.dish-feature.has-photo { grid-template-columns: 11.5rem minmax(0, 1fr); }
+.dish-feature img, .dish-feature svg { width: 100%; height: 8.5rem; object-fit: cover; object-position: center; display: block; border-radius: 12px; }
+.dish-feature .cover { min-height: 0; height: 8.5rem; border: 0; border-radius: 12px; }
 .dish-feature strong { display: block; color: var(--link); font-size: 1.08rem; }
 .dish-feature em, .dish-feature small { display: block; margin-top: 0.25rem; font-style: normal; color: var(--ink); }
 .dish-feature small { color: var(--muted); }
+.food-hero { margin: 1rem 0 0.2rem; }
+.food-hero a { display: block; color: inherit; text-decoration: none; }
+.food-hero img, .food-hero svg, .food-hero .cover {
+  width: 100%;
+  height: 18rem;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  border-radius: 16px;
+}
+.food-hero figcaption {
+  margin: 0.45rem 0 0;
+  padding-bottom: 0.45rem;
+  border-bottom: 3px solid var(--lacquer);
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+.food-hero figcaption a { display: inline; color: var(--ink); }
+.food-hero figcaption a:hover { color: var(--lacquer); }
+.spot-list { list-style: none; margin: 0.4rem 0 0; padding: 0; }
+.spot { padding: 0.95rem 0; border-top: 1px solid var(--line); max-width: 40rem; }
+.spot strong { display: block; font-size: 1.05rem; color: var(--ink); }
+.spot a { text-decoration: none; }
+.spot a strong { color: var(--link); }
+.spot p { margin: 0.3rem 0 0; }
+.spot .spot-address { color: var(--muted); font-size: 0.92rem; }
 .rail { display: flex; flex-direction: column; gap: 1rem; padding-top: 1rem; }
 .panel { background: var(--card); border: 1px solid var(--line); padding: 0.8rem; }
 .panel h2 { margin-top: 0; font-size: 1.05rem; }
@@ -898,7 +925,10 @@ h1.home-kicker {
   .plan-row { grid-template-columns: 1fr; }
   .story-list .story-card { align-items: flex-start; }
   .ad-slot { min-height: 8rem; }
-  .reading .card-list, .dish-feature { grid-template-columns: 1fr; }
+  .reading .card-list { grid-template-columns: 1fr; }
+  .dish-feature.has-photo { grid-template-columns: 7.4rem minmax(0, 1fr); gap: 0.75rem; align-items: start; }
+  .dish-feature img, .dish-feature svg, .dish-feature .cover { height: 6.2rem; }
+  .food-hero img, .food-hero svg, .food-hero .cover { height: 13rem; }
   .prose-figure img, .prose-figure svg, .prose-figure .cover { height: 12rem; }
   .place-photo img, .place-photo .cover svg { height: 16rem; }
   .aff-row, .day-card { grid-template-columns: 6.2rem minmax(0, 1fr); }
