@@ -19,7 +19,7 @@ Do not invent a layout, a fee, an hour, a visa rule, a hotel, a restaurant, a sc
 - Photos in `public/photos/` and the matching credit in `public/photos/credits.json`.
 - The place `season` only when the dossier has a sourced season note.
 
-Leave the template components alone. Hotels and Restaurants stay affiliate placeholders. The food guide page stays the menu. Do not paste a booking widget.
+Leave the template components alone. A visual pass is `.cursor/skills/ui-ux/SKILL.md`. Hotels and Restaurants stay affiliate placeholders. The food guide page stays the menu. Do not paste a booking widget.
 
 ## Copy
 
