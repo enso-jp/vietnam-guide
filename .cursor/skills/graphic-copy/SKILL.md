@@ -23,19 +23,27 @@ Leave the template components alone. A visual pass is `.cursor/skills/ui-ux/SKIL
 
 ## Copy
 
-Write the way the city-setup voice rule says: second person, the decision first, a time of day, how to arrive, the mistake to avoid, one concrete detail. Use the dossier for the detail. Do not copy another site’s sentences.
+Write the way the city-setup voice rule says, and make the reader want the place. Second person. The first two sentences put them in the scene they came for: the light, the street, the thing in front of the hotel. Then the decision, stay here if this is the trip, go to the neighbor if that is the trip. Then a time of day, how to arrive, and the mistake to avoid.
+
+A paragraph that could describe any coastal city fails. So does a paragraph that is only logistics. Specifics are the excitement. Do not inflate with empty praise: stunning, vibrant, hidden gem, must-see, nestled. Do not copy another site’s sentences.
+
+Use a scene landmark from the dossier when it orients the evening. Do not turn it into a ranked list, and do not add a price or a score the dossier does not have.
 
 Keep the search-name slug. Do not change an existing editorial dot. A dot suggested in the dossier applies only on a record that does not have one yet.
 
 ## Photos
 
-Open the file and look at it.
+Open the file and look at it. Then picture it in the slot, because the page crops with a center cover:
 
-Keep it when the subject fills the frame, the crop still shows that subject on a card, and the file is a normal JPEG under 320 KB. A hero that is mostly sky, a collage, a poster with a title burned in, a document, a logo, or a soldier does not stay.
+- The city hero is 16:9. It is the brightest true picture of why people come. For a beach city that is the sand, the water, and the resort front together, not a documentary slice of river.
+- An attraction card and the intro photo are 3:2. The landmark stays whole and recognizable. A portrait of a statue loses its head in that slot. Crop to the face and the gesture, from the real file. Do not invent sky or blur beside it.
+- An interest card is tall, about 3:4. The subject has to sit in the center. The sides are cut.
 
-Replace a bad frame with another file whose title names the subject. Record the author, license, and source from the file page. Do not invent a credit. Do not demand a 1920px-wide hero. The page budget is the limit in `AGENTS.md`.
+Do not ship a panorama and hope the browser finds the subject. Crop the file so a center cover still shows the place at its best. Reject a frame that is mostly empty sky, empty sand, fog with no landmark, a collage, a poster with a title burned in, a document, a logo, or a soldier. Reject a side-trip photo that is not that place, and do not reuse the city hero for an event.
 
-The image id stays `{placeSlug}-{slug}` for an attraction and the place slug for the city banner.
+Keep a normal JPEG under 320 KB. Record the author, license, and source from the file page. Do not invent a credit. Do not demand a 1920px-wide hero. The page budget is the limit in `AGENTS.md`.
+
+The image id stays `{placeSlug}-{slug}` for an attraction and the place slug for the city banner. A scene that is not the attraction, such as a beach night beside the swim, gets its own id.
 
 ## When a fact is missing
 

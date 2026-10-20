@@ -1,16 +1,21 @@
 ---
 import Base from '../layouts/Base.astro';
 import BookStay from '../components/BookStay.astro';
+import Icon from '../components/Icon.astro';
 import Photo from '../components/Photo.astro';
 import VietnamMap from '../components/VietnamMap.astro';
 import { interestHref, interestLabels, site } from '../config/site';
-import { attractionsForInterest, getStories, placesForInterest } from '../lib/content';
+import { attractionsForInterest, corridorsNorthToSouth, getStories, placePath, placesForInterest, placesInCorridor } from '../lib/content';
 import { photoPath } from '../lib/photos';
 
 const stories = getStories();
 const lead = stories[0];
-const topNews = stories.slice(1, 4);
-const moreStories = stories.slice(4, 10);
+const sheet = stories.slice(1, 4);
+const feature = stories[4];
+const rows = stories.slice(5, 9);
+const later = stories.slice(9);
+const corridors = corridorsNorthToSouth();
+const activeRegion = corridors[0]?.slug;
 const interestOrder = ['food', 'beaches', 'caves', 'pagodas', 'rice', 'oldTowns', 'markets', 'warHistory', 'mountains', 'coffee', 'islands', 'nightlife', 'family', 'photography', 'motorbike'];
 const interests = interestOrder
   .filter((key) => key === 'food' || placesForInterest(key).length > 0 || attractionsForInterest(key).length > 0)
@@ -26,12 +31,12 @@ const interests = interestOrder
     };
   });
 const tools = [
-  { href: '/plan/when-to-go', title: 'Before you go', text: 'Things to know before you depart' },
-  { href: '/get-there', title: 'Transportation', text: 'Routes, trains, flights, and buses' },
-  { href: '/plan/where-to-stay', title: 'Accommodation', text: 'Choose where to stay overnight' },
-  { href: '/itineraries', title: 'Itinerary ideas', text: 'Inspiration for your own trip plan' },
-  { href: '/plan/street-manners', title: 'Etiquette', text: 'How to avoid cultural mistakes' },
-  { href: '/seasons', title: 'Seasons', text: 'Rice, floods, and Tet' },
+  { href: '/plan/when-to-go', title: 'Before you go', text: 'Things to know before you depart', icon: 'ticket' },
+  { href: '/get-there', title: 'Transportation', text: 'Routes, trains, flights, and buses', icon: 'bus' },
+  { href: '/plan/where-to-stay', title: 'Accommodation', text: 'Choose where to stay overnight', icon: 'bed' },
+  { href: '/itineraries', title: 'Itinerary ideas', text: 'Inspiration for your own trip plan', icon: 'trip' },
+  { href: '/plan/street-manners', title: 'Etiquette', text: 'How to avoid cultural mistakes', icon: 'flag' },
+  { href: '/seasons', title: 'Seasons', text: 'Rice, floods, and Tet', icon: 'event' },
 ];
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -47,101 +52,148 @@ const jsonLd = {
 };
 ---
 <Base title="Vietnam Guide" description={site.description} path="/" jsonLd={jsonLd} ogType="website" ogImage={photoPath(lead?.photo || 'hanoi')}>
-  <div class="wrap home-layout">
-    <div class="home-lead">
-      <h1 class="home-kicker">Vietnam travel guide</h1>
-      {lead && (
-        <a class="home-cover" href={lead.href}>
-          <Photo id={lead.photo} alt="" cover={lead.cover} priority />
-          <span class="cover-caption">
-            <small>{lead.kicker}</small>
-            <strong>{lead.title}</strong>
-            <em>{lead.when}</em>
-          </span>
-        </a>
-      )}
-      {topNews.length > 0 && (
-        <div class="news-row">
-          {topNews.map((story) => (
-            <a class="story-card" href={story.href}>
-              <span class="media"><Photo id={story.photo} alt="" cover={story.cover} /></span>
-              <span class="story-copy">
-                <small>{story.kicker}</small>
-                <strong>{story.title}</strong>
-                <em>{story.when}</em>
-              </span>
-            </a>
-          ))}
+  <div class="home">
+    {lead && (
+      <a class="home-hero" href={lead.href}>
+        <Photo id={lead.photo} alt="" cover={lead.cover} priority />
+        <span class="home-hero-copy">
+          <small><i class="hero-mark" aria-hidden="true"></i>{lead.kicker}</small>
+          <h1>{lead.title}</h1>
+          <em><Icon name="clock" />{lead.when}</em>
+          <span class="pill pill-light">See the guide</span>
+        </span>
+      </a>
+    )}
+
+    {sheet.length > 0 && (
+      <section class="home-sheet" aria-label="More guides">
+        <div class="sheet-rail" data-carousel>
+          <div class="sheet-row" data-carousel-row tabindex="0">
+            {sheet.map((story) => (
+              <a class="mini-card" href={story.href}>
+                <span class="media"><Photo id={story.photo} alt="" cover={story.cover} /></span>
+                <span class="story-copy">
+                  <small class:list={{ 'kicker-season': story.kicker === 'Season' }}>{story.kicker}</small>
+                  <strong>{story.title}</strong>
+                  <em>{story.when}</em>
+                </span>
+              </a>
+            ))}
+          </div>
         </div>
-      )}
-      <div class="news-jump">
-        <a href="/seasons">Season alerts</a>
-        <a href="#stories">See more stories</a>
+      </section>
+    )}
+
+    {feature && (
+      <a class="home-hero home-hero-next" href={feature.href}>
+        <Photo id={feature.photo} alt="" cover={feature.cover} />
+        <span class="home-hero-copy">
+          <small><i class="hero-mark" aria-hidden="true"></i>{feature.kicker}</small>
+          <strong>{feature.title}</strong>
+          <em>{feature.when}</em>
+        </span>
+      </a>
+    )}
+
+    {rows.length > 0 && (
+      <div class="story-list">
+        {rows.map((story) => (
+          <a class="story-row" href={story.href}>
+            <span class="story-copy">
+              <small class:list={{ 'kicker-season': story.kicker === 'Season' }}>{story.kicker}</small>
+              <strong>{story.title}</strong>
+              <em>{story.when}</em>
+            </span>
+            <span class="media"><Photo id={story.photo} alt="" cover={story.cover} /></span>
+          </a>
+        ))}
       </div>
+    )}
+
+    <div class="home-actions">
+      <a class="pill" href="/seasons">Season alerts</a>
+      <a class="pill" href="#stories">See more stories</a>
     </div>
 
-    <aside class="home-rail">
-      <BookStay />
-    </aside>
+    <section class="home-section" data-region-stage>
+      <h2>Regions of Vietnam</h2>
+      <VietnamMap variant="home" active={activeRegion} />
+      <div class="region-explore">
+        {corridors.map((corridor) => {
+          const places = placesInCorridor(corridor.slug).slice(0, 6);
+          return (
+            <div class="region-card" data-region-card={corridor.slug} hidden={corridor.slug !== activeRegion}>
+              {places.length > 0 && (
+                <div class="region-rail" data-carousel>
+                  <div class="region-row" data-carousel-row tabindex="0" aria-label={`${corridor.name} places`}>
+                    {places.map((place) => (
+                      <a class="region-shot" href={placePath(place)}>
+                        <Photo id={place.slug} alt="" cover={place.cover} />
+                        <span>{place.name}</span>
+                      </a>
+                    ))}
+                  </div>
+                  <button class="rail-arrow rail-prev" type="button" data-carousel-prev aria-label="Previous">‹</button>
+                  <button class="rail-arrow rail-next" type="button" data-carousel-next aria-label="Next">›</button>
+                </div>
+              )}
+              <p class="explore-kicker">Explore</p>
+              <h3><a href={`/destinations/${corridor.slug}`} data-region={corridor.slug}>{corridor.name}</a></h3>
+              <p>{corridor.summary}</p>
+            </div>
+          );
+        })}
+      </div>
+      <p class="home-actions"><a class="pill" href="/destinations">See all destinations</a></p>
+    </section>
 
-    <div class="home-rest">
-      <section class="home-section">
-        <div class="dest-head">
-          <h2>Regions of Vietnam</h2>
-          <a href="/destinations">See all destinations</a>
-        </div>
-        <VietnamMap variant="home" />
-      </section>
+    <section class="home-section">
+      <h2>Plan your trip</h2>
+      <div class="plan-row">
+        {tools.map((tool) => (
+          <a href={tool.href}>
+            <span class="plan-icon"><Icon name={tool.icon} /></span>
+            <strong>{tool.title}</strong>
+            <span>{tool.text}</span>
+          </a>
+        ))}
+      </div>
+      <p class="home-actions"><a class="pill" href="/plan">See all planning tools</a></p>
+    </section>
 
-      <section class="home-section">
-        <div class="dest-head">
-          <h2>Plan your trip</h2>
-          <a href="/plan">See all planning tools</a>
-        </div>
-        <div class="plan-row">
-          {tools.map((tool) => (
-            <a href={tool.href}>
-              <strong>{tool.title}</strong>
-              <span>{tool.text}</span>
-            </a>
-          ))}
-        </div>
-      </section>
+    <section class="home-section">
+      <h2>Find your interest</h2>
+      <div class="interest-grid">
+        {interests.map((item) => (
+          <a class="home-tile" href={item.href}>
+            <Photo id={item.photo} alt="" cover={item.cover} />
+            <span>{item.label}</span>
+          </a>
+        ))}
+      </div>
+      <p class="home-actions"><a class="pill" href="/interests">See all interests</a></p>
+    </section>
 
-      <section class="home-section">
-        <div class="dest-head">
-          <h2>Find your interest</h2>
-          <a href="/interests">See all interests</a>
-        </div>
-        <div class="home-grid interest-grid">
-          {interests.map((item) => (
-            <a class="home-tile" href={item.href}>
-              <Photo id={item.photo} alt="" cover={item.cover} />
-              <span>{item.label}</span>
-            </a>
-          ))}
-        </div>
-      </section>
-
+    {later.length > 0 && (
       <section class="home-section" id="stories">
-        <div class="dest-head">
-          <h2>Stories</h2>
-        </div>
+        <h2>Stories</h2>
         <div class="story-list">
-          {moreStories.map((story) => (
-            <a class="story-card" href={story.href}>
-              <span class="media"><Photo id={story.photo} alt="" cover={story.cover} /></span>
+          {later.map((story) => (
+            <a class="story-row" href={story.href}>
               <span class="story-copy">
-                <small>{story.kicker}</small>
+                <small class:list={{ 'kicker-season': story.kicker === 'Season' }}>{story.kicker}</small>
                 <strong>{story.title}</strong>
                 <em>{story.when}</em>
                 <p>{story.summary}</p>
               </span>
+              <span class="media"><Photo id={story.photo} alt="" cover={story.cover} /></span>
             </a>
           ))}
         </div>
-        <p class="more-stories"><a href="/news">More stories</a></p>
+        <p class="home-actions"><a class="pill" href="/news">More stories</a></p>
       </section>
-    </div>
+    )}
+
+    <BookStay />
   </div>
 </Base>

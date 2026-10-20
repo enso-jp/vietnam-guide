@@ -40,9 +40,9 @@ The page should be findable in search and citable by an answer engine. Use the f
 
 ## Voice
 
-Write a clear first version from the dossier. Second person. The first sentences make the decision: stay here if this is the trip, go to the neighbor if that is the trip. Graphic and copy owns the final tone.
+Write a clear first version from the dossier. Second person. Open in the scene the dossier’s “Why a night here” names, then the decision: stay here if this is the trip, go to the neighbor if that is the trip. A lede that only mentions the airport is not finished. Graphic and copy owns the final tone.
 
-Useful means a time of day, how long it takes, how to arrive, and the mistake to avoid. Interesting means one concrete thing the reader could see or taste. Flat lines such as “the city’s own sight” do not earn a place on the page.
+Useful means a time of day, how long it takes, how to arrive, and the mistake to avoid. Interesting means one concrete thing the reader could see, taste, or walk into, including the evening area and any scene landmark the dossier recorded. Flat lines such as “the city’s own sight” do not earn a place on the page. Empty praise does not either.
 
 Do not copy sentences from other travel blogs. Use them only for shape: a decision up front, neighborhoods by who they suit, food as dishes you can order, and a day that fits together. Do not import their prices, hotel picks, or shop lists.
 
@@ -54,7 +54,7 @@ Keep a picture when it shows the subject, in color, in one frame, and a traveler
 
 Reject soldiers, weapons, documents, maps, logos, collages, posters with titles burned into the image, book covers, and any frame that is not the sight. The Da Nang banner is the river, the bridge, or the beach. It is never a military photograph.
 
-The city image is the scene people come for. An attraction image shows that attraction. If the first Commons hit fails, take the next file whose title names the subject. Record the author, license, and source from the file page. Do not invent a credit. `scripts/fetch-photos.mjs` skips military and document titles. That filter does not replace looking at the picture.
+The city image is the scene people come for, the one named in the dossier’s hero line. An attraction image shows that attraction, composed for a 3:2 card so a center crop still shows it. A tall statue is cropped to the face and the gesture, not to a headless torso, and not padded with invented sky. If the first Commons hit fails, take the next file whose title names the subject. Record the author, license, and source from the file page. Do not invent a credit. `scripts/fetch-photos.mjs` skips military and document titles. That filter does not replace looking at the picture.
 
 ## Chrome
 

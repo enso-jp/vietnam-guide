@@ -1,86 +1,106 @@
 ---
-import { getCorridors, getItineraries, placesInCorridor, topPlaces, placePath } from '../lib/content';
+import { corridorsNorthToSouth, getItineraries, placesInCorridor, topPlaces, placePath } from '../lib/content';
 import { interestHref, interestLabels } from '../config/site';
 
-const corridors = getCorridors();
+const corridors = corridorsNorthToSouth();
 const trips = getItineraries().filter((trip) => trip.kind === 'trip').slice(0, 4);
 const menuInterests = ['pagodas', 'caves', 'beaches', 'islands', 'rice', 'markets', 'coffee', 'warHistory', 'mountains'];
 ---
 <a class="skip" href="#content">Skip to content</a>
-<header class="topbar wrap">
-  <a class="wordmark" href="/">Vietnam Guide</a>
-  <button class="icon-btn menu-btn" type="button" data-menu>Menu</button>
-  <nav class="nav" aria-label="Primary">
-    <div class="mega">
-      <a href="/destinations">Destinations</a>
-      <div class="mega-panel">
-        {corridors.map((corridor) => (
-          <div>
-            <strong><a href={`/destinations/${corridor.slug}`}>{corridor.name}</a></strong>
-            {topPlaces(placesInCorridor(corridor.slug)).map((place) => (
-              <a href={placePath(place)}>{place.name}</a>
+<header class="topbar">
+  <div class="wrap bar">
+    <button class="bar-icon" type="button" data-search-toggle aria-label="Search" aria-expanded="false" aria-controls="site-search">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6"></circle><path d="M16 16l4 4"></path></svg>
+    </button>
+    <a class="wordmark" href="/">Vietnam <span>Guide</span></a>
+    <button class="bar-icon" type="button" data-menu aria-label="Menu" aria-expanded="false" aria-controls="site-menu">
+      <svg class="icon-menu" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 7h14M5 12h14M5 17h14"></path></svg>
+      <svg class="icon-close" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"></path></svg>
+    </button>
+  </div>
+  <div id="site-search" class="search-pop" hidden>
+    <form class="search-form wrap" action="/search" role="search">
+      <label class="skip" for="q">Search</label>
+      <input id="q" name="q" type="search" placeholder="Search places and routes" autocomplete="off" />
+      <div id="search-panel" class="search-panel" hidden></div>
+    </form>
+  </div>
+  <nav id="site-menu" class="site-menu" aria-label="Primary" hidden>
+    <div class="wrap site-menu-inner">
+      <div class="menu-quick">
+        <a href="/saved">Saved</a>
+        <a href="/news">Travel news</a>
+        <a href="/seasons">Seasons</a>
+        <a href="/about">About</a>
+      </div>
+      <div class="site-menu-grid">
+        <details class="menu-col">
+          <summary>Destinations</summary>
+          <div class="menu-links">
+            {corridors.map((corridor) => (
+              <div class="menu-group">
+                <a class="menu-strong" href={`/destinations/${corridor.slug}`}>{corridor.name}</a>
+                {topPlaces(placesInCorridor(corridor.slug)).map((place) => (
+                  <a href={placePath(place)}>{place.name}</a>
+                ))}
+              </div>
             ))}
+            <a class="menu-strong" href="/destinations">See all destinations</a>
           </div>
-        ))}
-      </div>
-    </div>
-    <div class="mega">
-      <a href="/interests">Interests</a>
-      <div class="mega-panel">
-        <a href="/food"><strong>Food and drink</strong></a>
-        <a href="/festivals">Festivals</a>
-        {menuInterests.map((key) => (
-          <a href={interestHref(key)}>{interestLabels[key]}</a>
-        ))}
-        <a href="/interests"><strong>See all</strong></a>
-      </div>
-    </div>
-    <div class="mega">
-      <a href="/plan">Plan a trip</a>
-      <div class="mega-panel">
-        <div>
-          <strong>Before you go</strong>
-          <a href="/plan/when-to-go">When to travel</a>
-          <a href="/plan/e-visa">E-visa</a>
-          <a href="/plan/money">Money</a>
-          <a href="/plan/sim-and-wifi">SIM and Wi-Fi</a>
-          <a href="/plan/luggage">Luggage</a>
-          <a href="/seasons">Seasons</a>
-          <a href="/festivals">Festivals</a>
-        </div>
-        <div>
-          <strong>Learn</strong>
-          <a href="/plan/street-manners">Street manners</a>
-          <a href="/plan/eating-manners">Eating manners</a>
-        </div>
-        <div>
-          <strong>Itinerary ideas</strong>
-          <a href="/itineraries">All itineraries</a>
-          {trips.map((trip) => (
-            <a href={`/itineraries/${trip.slug}`}>{trip.title}</a>
-          ))}
-        </div>
-        <div>
-          <strong>Accommodation</strong>
-          <a href="/plan/where-to-stay">Where to stay</a>
-          <strong>Transportation</strong>
-          <a href="/get-there">Routes</a>
-          <a href="/plan/flights">Flights</a>
-          <a href="/plan/trains">Trains</a>
-          <a href="/plan/buses">Buses</a>
-          <a href="/plan/grab-and-taxis">Grab and taxis</a>
-          <a href="/plan/motorbikes">Motorbikes</a>
-          <strong>Living</strong>
-          <a href="/plan/living">Living</a>
-          <a href="/plan/taxes">Taxes and fees</a>
-        </div>
+        </details>
+        <details class="menu-col">
+          <summary>Interests</summary>
+          <div class="menu-links">
+            <a class="menu-strong" href="/food">Food and drink</a>
+            <a href="/festivals">Festivals</a>
+            {menuInterests.map((key) => (
+              <a href={interestHref(key)}>{interestLabels[key]}</a>
+            ))}
+            <a class="menu-strong" href="/interests">See all interests</a>
+          </div>
+        </details>
+        <details class="menu-col">
+          <summary>Plan a trip</summary>
+          <div class="menu-links">
+            <div class="menu-group">
+              <strong>Before you go</strong>
+              <a href="/plan/when-to-go">When to travel</a>
+              <a href="/plan/e-visa">E-visa</a>
+              <a href="/plan/money">Money</a>
+              <a href="/plan/sim-and-wifi">SIM and Wi-Fi</a>
+              <a href="/plan/luggage">Luggage</a>
+              <a href="/seasons">Seasons</a>
+              <a href="/festivals">Festivals</a>
+            </div>
+            <div class="menu-group">
+              <strong>Learn</strong>
+              <a href="/plan/street-manners">Street manners</a>
+              <a href="/plan/eating-manners">Eating manners</a>
+            </div>
+            <div class="menu-group">
+              <strong>Itinerary ideas</strong>
+              <a href="/itineraries">All itineraries</a>
+              {trips.map((trip) => (
+                <a href={`/itineraries/${trip.slug}`}>{trip.title}</a>
+              ))}
+            </div>
+            <div class="menu-group">
+              <strong>Accommodation</strong>
+              <a href="/plan/where-to-stay">Where to stay</a>
+              <strong>Transportation</strong>
+              <a href="/get-there">Routes</a>
+              <a href="/plan/flights">Flights</a>
+              <a href="/plan/trains">Trains</a>
+              <a href="/plan/buses">Buses</a>
+              <a href="/plan/grab-and-taxis">Grab and taxis</a>
+              <a href="/plan/motorbikes">Motorbikes</a>
+              <strong>Living</strong>
+              <a href="/plan/living">Living</a>
+              <a href="/plan/taxes">Taxes and fees</a>
+            </div>
+          </div>
+        </details>
       </div>
     </div>
   </nav>
-  <form class="search-form" action="/search" role="search">
-    <label class="skip" for="q">Search</label>
-    <input id="q" name="q" type="search" placeholder="Search places and routes" autocomplete="off" />
-    <div id="search-panel" class="search-panel" hidden></div>
-  </form>
-  <a class="icon-btn" href="/saved">Saved</a>
 </header>

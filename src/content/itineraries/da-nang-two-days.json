@@ -6,11 +6,11 @@
   "budget": "Check on arrival",
   "pace": "Relaxed",
   "photo": "da-nang-son-tra",
-  "summary": "The river and My Khe on the first day. Son Tra and the Marble Mountains on the second, with Hoi An still an easy ride if the hills are enough.",
+  "summary": "My Khe and An Thuong on the first day. Son Tra and the Marble Mountains on the second, with Hoi An still an easy ride if the hills are enough.",
   "days": [
     {
-      "title": "Day 1 — River and beach",
-      "body": "Cham Museum in the morning, mi Quang for lunch, then My Khe. Stay on the sand if the swim is the point.",
+      "title": "Day 1 — Beach and An Thuong",
+      "body": "My Khe in the morning, mi Quang for lunch, and An Thuong after dark. The Cham Museum if you want the hour on the river first.",
       "placeSlug": "da-nang"
     },
     {
@@ -39,7 +39,14 @@
       "minutes": 120,
       "placeSlug": "da-nang",
       "attractionSlug": "my-khe",
-      "note": "The rest of day one."
+      "note": "The morning and the swim. An Thuong is the walk inland after dark."
+    },
+    {
+      "name": "An Thuong",
+      "minutes": 120,
+      "placeSlug": "da-nang",
+      "attractionSlug": "an-thuong",
+      "note": "Day one, after dark. Kalà Kalà is on the sand. East West faces the water."
     },
     {
       "name": "Linh Ung Pagoda, Son Tra",
@@ -57,5 +64,5 @@
     }
   ],
   "seoTitle": "Two days in Da Nang",
-  "seoDescription": "A two-day Da Nang plan: the Cham Museum, My Khe, Son Tra, and the Marble Mountains on the way toward Hoi An."
+  "seoDescription": "Two days in Da Nang: My Khe and An Thuong, then Son Tra and the Marble Mountains on the way toward Hoi An."
 }

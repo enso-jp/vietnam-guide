@@ -54,7 +54,9 @@ Space between sections is larger than the space between paragraphs. On the city 
 
 The hero has curved corners. The credit is a note under the photo: “Photo: {author} · {license}”.
 
-After the first intro paragraph, one photo breaks the text. It is the highest-dotted attraction on that place. The caption is the sight’s name, with a short lacquer rule under it. The photo and the caption both link to that sight. If the attraction photo is missing, use the place photo.
+After the first intro paragraph, one photo breaks the text. It is the highest-dotted attraction on that place. When several sights share that dot, use the one whose interest matches the place’s strongest interest, so a beach city leads with the beach. The caption is the sight’s name, with a short lacquer rule under it. The photo and the caption both link to that sight. If the attraction photo is missing, use the place photo.
+
+Photos are cropped with a center cover, so the file has to be composed for the slot. The hero is 16:9 (`.place-photo`). An attraction card and the intro photo are 3:2 (`.jg-card .media`, `.prose-figure`). An interest card is a tall 3:4 (`.portrait`). Do not set a fixed rem height that slices a 3:2 file into a strip. Graphic and copy crops the file. This skill keeps the slot.
 
 A sight, event, or side-trip card is `.jg-card`: photo on top, a round rank number on the photo, the name, one useful line, editor dots, and a light shadow. The whole card is the link. The image id is `{placeSlug}-{slug}`. A missing file falls back to the place photo.
 
@@ -90,7 +92,7 @@ Work top to bottom. One family, then stop. Mark it here when the template matche
 - [ ] **Itinerary** — `src/pages/itineraries/[slug].astro`. Days are done. The fact strip is three cells in a four-column bar and has no icons. Set the column count and use icons only where the cell matches one.
 - [ ] **Festival** — `src/pages/festivals/[slug].astro`. Keep `nameVi`. The “When” cell is already in the rounded strip, but it sits in a four-column bar and has no icon. Set the column count, use the calendar icon, and turn the place list into rows. Add a photo only when a real festival photo exists. Do not use the city banner and call it the event.
 - [ ] **Interest** — `src/pages/interests/[slug].astro` and `src/pages/interests/index.astro`. Use the same cards as the city page. A nationwide interest links to the place guide. Do not title a block “Related interests”.
-- [ ] **Home and destinations** — `src/pages/index.astro`, `src/pages/destinations/index.astro`, `src/pages/destinations/[slug].astro`. Adopt the type, pills, cards, and lacquer. Do not copy the city sidebar or the city fact bar onto the homepage.
+- [x] **Home and destinations** — `src/pages/index.astro`, `src/pages/destinations/index.astro`, `src/pages/destinations/[slug].astro`. Adopt the type, pills, cards, and lacquer. Do not copy the city sidebar or the city fact bar onto the homepage.
 - [ ] **Reading pages** — plan guides, routes, seasons, about, search. Use the heading rule, the section gap, and tabs where the page already has sections. Do not add a hero, a fee, or a fact bar the record does not have.
 
 ## Pass checklist

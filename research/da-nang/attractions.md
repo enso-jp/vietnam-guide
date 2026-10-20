@@ -7,6 +7,15 @@ Corridor: central-coast
 Base a traveler sleeps in: Da Nang, either the Han River side or My Khe
 Checked: 20 Oct 2026
 
+## Why a night here
+
+- The picture they expect: My Khe in the morning, surf in front of the resort towers, Son Tra on the horizon.
+- Where they sleep, as an area: a beachfront resort on My Khe, or a river hotel if the museum and Dragon Bridge matter more than the night.
+- Where the evening is: An Thuong, the grid a few streets inland (west) of the sand, bars and kitchens close enough to walk. The beach night itself is on the sand.
+- Scene landmarks: Kalà Kalà Beach Club, 51 Vo Nguyen Giap, on My Khe. Entry free. The same official page lists both 08:00–midnight and 08:00–02:00, so the closing hour is confirm-that-night (S23). East West Brewing, beachfront taproom on My Khe, 08:00–01:00 every day (S24). No street on that page, so the address is Check on arrival. These two orient the evening. They are not a ranked list and they have no published drink price in this dossier.
+- Hero must include: sand, surf, and the resort towers in one frame, subject through the center. Not the river, not a military frame, not a field of empty sand.
+- A crop that would fail: a panorama whose center is only water, a statue cropped through the chest, a foggy road with no pass, the same bridge reused for the fireworks.
+
 ## Attractions (Sight, area of interests, zone, hub, etc.)
 
 ### Museum of Cham Sculpture
@@ -61,7 +70,7 @@ Checked: 20 Oct 2026
 - Vietnamese name: Biển Mỹ Khê
 - Kind: area
 - Area: East of the Han, the city beach
-- What the visitor does: Swim when the sea is open, and walk the sand. Bars and restaurants sit on the streets just inland, not in a named venue this guide should pick.
+- What the visitor does: Swim when the sea is open, and walk the sand in front of the beachfront resorts. The night is not on the towel. It is a few streets inland in An Thuong, plus Kalà Kalà and East West on the sand (see Why a night here).
 - Time: Half a day
 - Fee: The beach itself is not on the city’s paid-ticket list (S6). Chair or umbrella hire — Check on arrival, UNSOURCED
 - From the base: A ride from the river or the airport. The Dragon Bridge page describes the bridge as a direct road toward My Khe and Non Nuoc (S9).
@@ -70,8 +79,24 @@ Checked: 20 Oct 2026
 - Local interest: Beach
 - Suggested slug: my-khe
 - Suggested dot: already published — do not change
-- Photo must show: the beach, sand and water, in color. Not a logo and not a poster.
-- Sources: S2, S3, S6, S9
+- Photo must show: surf, sand, and the resort towers in one frame, with that meeting line through the center so a 3:2 card and a tall interest card both keep the beach. Not empty foreground sand. Not a logo.
+- Sources: S2, S3, S6, S9, S23, S24, S25
+
+### An Thuong
+- Vietnamese name: An Thượng
+- Kind: area
+- Area: A few streets inland, west of My Khe
+- What the visitor does: Walk a small grid of bars and kitchens after the beach. On the sand, Kalà Kalà Beach Club at 51 Vo Nguyen Giap is the club (entry free; closing listed as both midnight and 02:00). East West Brewing is the beachfront taproom, 08:00–01:00, street not published. These two are pins, not a catalog.
+- Time: An evening
+- Fee: Check on arrival for a drink. Kalà Kalà publishes free entry (S23). No city ticket.
+- From the base: Walk from a My Khe hotel. A short ride from the river.
+- When to go: After dark. The quarter is livelier toward the weekend; that last point is from travel write-ups, not a city rule (S25).
+- Mistake to avoid: Booking a river hotel and expecting to walk here after dinner.
+- Local interest: Beach night
+- Suggested slug: an-thuong
+- Suggested dot: 4 — the night that belongs with My Khe, not a separate day
+- Photo must show: the beachfront the streets open onto, umbrellas and the resort towers, subject centered. A night photo of the An Thuong streets themselves is still missing. Do not pretend a beach frame is the alley.
+- Sources: S23, S24, S25
 
 ### Marble Mountains
 - Vietnamese name: Ngũ Hành Sơn
@@ -118,7 +143,7 @@ Checked: 20 Oct 2026
 - Local interest: View over the bay
 - Suggested slug: son-tra
 - Suggested dot: already published — do not change
-- Photo must show: the white statue against the sea, or the pagoda terrace with the view. Not a military post on the peninsula.
+- Photo must show: the face and the hands of the Quan The Am, because a 3:2 card cannot hold the full 67 m figure without cutting the head. Do not pad the sides with invented sky. Not a military post on the peninsula.
 - Sources: S11, S12, S22
 
 ### Son Tra peninsula

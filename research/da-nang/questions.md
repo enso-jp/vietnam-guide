@@ -13,5 +13,8 @@ Checked 20 Oct 2026. Public fields that stay “Check on arrival” or that name
 - My Khe chair and umbrella hire has no published price.
 - DIFF grandstand prices were not copied. The 2026 nights are recorded. Next year’s dates are still open.
 - Son Tra and Linh Ung publish no entry fee. A gate fee, if one exists, is still unknown.
+- Kalà Kalà’s own site lists both 08:00–midnight and 08:00–02:00. The page tells the reader to confirm.
+- East West Brewing’s taproom page gives hours and “beachfront,” and no street. The address stays check on arrival.
+- An Thuong still needs a photo of the streets at night. The published frame is the beachfront those streets open onto, and the caption should not call it the alley.
 - Non Nuoc village has no ticket on the city list. It is not a public page yet.
 - Firebirds Vietnamese Craft: a 2026 second room in central Da Nang. The street address is not on the Tropical page (2D Mỹ Khê 7). The food guide says to confirm the street.

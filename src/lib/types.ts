@@ -27,6 +27,8 @@ export interface Festival {
   summary: string;
   when: string;
   interests: string[];
+  /** Photo id when the city hero is the wrong picture for this event. */
+  photo?: string;
 }
 
 export interface StayArea {
