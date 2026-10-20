@@ -36,10 +36,50 @@ document.addEventListener('click', (event) => {
   if (mapPin && placeId()) track('map', { place: placeId() });
   const route = target?.closest('a[data-route]');
   if (route && placeId()) track('get-there', { place: placeId() });
-  const menu = target?.closest('[data-menu]');
-  if (menu) document.querySelector('.nav')?.classList.toggle('open');
-  const searchToggle = target?.closest('[data-search-toggle]');
-  if (searchToggle) document.querySelector('.topbar')?.classList.toggle('search-open');
+  const menuButton = target?.closest<HTMLButtonElement>('[data-menu]');
+  const searchToggle = target?.closest<HTMLButtonElement>('[data-search-toggle]');
+  const menu = document.querySelector<HTMLElement>('#site-menu');
+  const search = document.querySelector<HTMLElement>('#site-search');
+  const setOpen = (el: HTMLElement | null, button: HTMLButtonElement | null, open: boolean) => {
+    if (!el || !button) return;
+    el.hidden = !open;
+    button.setAttribute('aria-expanded', String(open));
+  };
+  if (menuButton && menu) {
+    const open = menu.hidden;
+    setOpen(menu, menuButton, open);
+    if (open) setOpen(search, document.querySelector('[data-search-toggle]'), false);
+    document.body.classList.toggle('nav-open', open);
+  } else if (menu && !menu.hidden && !target?.closest('#site-menu')) {
+    setOpen(menu, document.querySelector('[data-menu]'), false);
+    document.body.classList.remove('nav-open');
+  }
+  if (searchToggle && search) {
+    const open = search.hidden;
+    setOpen(search, searchToggle, open);
+    if (open) {
+      setOpen(menu, document.querySelector('[data-menu]'), false);
+      document.body.classList.remove('nav-open');
+      search.querySelector<HTMLInputElement>('#q')?.focus();
+    }
+  } else if (search && !search.hidden && !target?.closest('#site-search')) {
+    setOpen(search, document.querySelector('[data-search-toggle]'), false);
+  }
+});
+
+document.addEventListener('keydown', (event) => {
+  if (event.key !== 'Escape') return;
+  const menu = document.querySelector<HTMLElement>('#site-menu');
+  const search = document.querySelector<HTMLElement>('#site-search');
+  if (menu && !menu.hidden) {
+    menu.hidden = true;
+    document.querySelector('[data-menu]')?.setAttribute('aria-expanded', 'false');
+    document.body.classList.remove('nav-open');
+  }
+  if (search && !search.hidden) {
+    search.hidden = true;
+    document.querySelector('[data-search-toggle]')?.setAttribute('aria-expanded', 'false');
+  }
 });
 
 const saved = JSON.parse(localStorage.getItem('vg-saved') || '[]') as string[];
@@ -247,13 +287,33 @@ document.querySelectorAll<HTMLElement>('[data-region-stage]').forEach((stage) =>
     });
   };
   const read = (target: EventTarget | null) => (target as HTMLElement | null)?.closest<HTMLElement>('[data-region]')?.dataset.region;
+  const paintRails = (slug: string) => {
+    const card = stage.querySelector<HTMLElement>(`[data-region-card="${slug}"]`);
+    card?.querySelectorAll<HTMLElement>('[data-carousel-row]').forEach((row) => {
+      row.dispatchEvent(new Event('scroll'));
+    });
+  };
+  const reveal = (slug: string) => {
+    if (!slug || stage.querySelector<HTMLElement>('.map-hit.is-active')?.dataset.region === slug) return;
+    show(slug);
+    requestAnimationFrame(() => paintRails(slug));
+  };
   stage.addEventListener('pointerover', (event) => {
     const slug = read(event.target);
-    if (slug) show(slug);
+    if (slug) reveal(slug);
   });
   stage.addEventListener('focusin', (event) => {
     const slug = read(event.target);
-    if (slug) show(slug);
+    if (slug) reveal(slug);
+  });
+  stage.addEventListener('click', (event) => {
+    const hit = (event.target as HTMLElement | null)?.closest<HTMLElement>('svg .map-hit');
+    if (!hit || !stage.contains(hit)) return;
+    const slug = hit.dataset.region;
+    if (!slug) return;
+    event.preventDefault();
+    show(slug);
+    requestAnimationFrame(() => paintRails(slug));
   });
 });
 

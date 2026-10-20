@@ -409,12 +409,12 @@ const leadSight = tiedForLead.find((item) => topInterest && item.interests.inclu
         )}
         <div class="panel rail-map">
           <h2>Map</h2>
-          <a href={`/destinations/${place.corridor}`} data-map-open><VietnamMap /></a>
+          <a href={`/destinations/${place.corridor}`} data-map-open><VietnamMap active={place.corridor} linked={false} /></a>
           <p class="note">{place.name} · {place.lat.toFixed(2)}, {place.lng.toFixed(2)}</p>
         </div>
         <details class="panel">
           <summary>Map</summary>
-          <VietnamMap />
+          <VietnamMap active={place.corridor} />
         </details>
       </aside>
     </div>

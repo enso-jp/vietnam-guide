@@ -1,46 +1,52 @@
 ---
 import { interestHref } from '../config/site';
-import { compareRecommended, getCorridors, getPlaces, placePath } from '../lib/content';
+import { compareRecommended, corridorsNorthToSouth, getPlaces, placePath } from '../lib/content';
 
-const corridors = getCorridors();
+const corridors = corridorsNorthToSouth();
 const places = getPlaces().filter((place) => !place.parent).sort(compareRecommended).slice(0, 8);
 ---
 <footer class="footer">
   <div class="wrap footer-grid">
-    <div>
-      <strong>Vietnam Guide</strong>
+    <div class="footer-brand">
+      <a class="wordmark" href="/">Vietnam <span>Guide</span></a>
       <p>Objective pages for planning a trip. Partner links are labeled. Rankings are not for sale.</p>
       <p><a href="/about">About</a> · <a href="/about/ratings">Ratings</a> · <a href="/about/partners">Partners</a> · <a href="/about/corrections">Corrections</a></p>
     </div>
-    <div>
-      <strong>Destinations</strong>
-      {places.map((place) => (
-        <div><a href={placePath(place)}>{place.name}</a></div>
-      ))}
-      {corridors.map((corridor) => (
-        <div><a href={`/destinations/${corridor.slug}`}>{corridor.name}</a></div>
-      ))}
-    </div>
-    <div>
-      <strong>Interests</strong>
-      <div><a href="/food">Food and drink</a></div>
-      <div><a href={interestHref('beaches')}>Beaches</a></div>
-      <div><a href={interestHref('caves')}>Caves</a></div>
-      <div><a href={interestHref('pagodas')}>Pagodas</a></div>
-      <div><a href={interestHref('rice')}>Rice scenery</a></div>
-      <div><a href={interestHref('oldTowns')}>Old towns</a></div>
-      <div><a href="/interests">See all interests</a></div>
-    </div>
-    <div>
-      <strong>Plan a trip</strong>
-      <div><a href="/plan/when-to-go">Before you go</a></div>
-      <div><a href="/itineraries">Itinerary ideas</a></div>
-      <div><a href="/plan/street-manners">Etiquette</a></div>
-      <div><a href="/get-there">Transportation</a></div>
-      <div><a href="/plan/where-to-stay">Accommodation</a></div>
-      <div><a href="/plan/living">Living</a></div>
-      <div><a href="/seasons">Seasons</a></div>
-      <div><a href="/news">Travel news</a></div>
-    </div>
+    <details class="footer-col">
+      <summary>Destinations</summary>
+      <div>
+        {places.map((place) => (
+          <div><a href={placePath(place)}>{place.name}</a></div>
+        ))}
+        {corridors.map((corridor) => (
+          <div><a href={`/destinations/${corridor.slug}`}>{corridor.name}</a></div>
+        ))}
+      </div>
+    </details>
+    <details class="footer-col">
+      <summary>Interests</summary>
+      <div>
+        <div><a href="/food">Food and drink</a></div>
+        <div><a href={interestHref('beaches')}>Beaches</a></div>
+        <div><a href={interestHref('caves')}>Caves</a></div>
+        <div><a href={interestHref('pagodas')}>Pagodas</a></div>
+        <div><a href={interestHref('rice')}>Rice scenery</a></div>
+        <div><a href={interestHref('oldTowns')}>Old towns</a></div>
+        <div><a href="/interests">See all interests</a></div>
+      </div>
+    </details>
+    <details class="footer-col">
+      <summary>Plan a trip</summary>
+      <div>
+        <div><a href="/plan/when-to-go">Before you go</a></div>
+        <div><a href="/itineraries">Itinerary ideas</a></div>
+        <div><a href="/plan/street-manners">Etiquette</a></div>
+        <div><a href="/get-there">Transportation</a></div>
+        <div><a href="/plan/where-to-stay">Accommodation</a></div>
+        <div><a href="/plan/living">Living</a></div>
+        <div><a href="/seasons">Seasons</a></div>
+        <div><a href="/news">Travel news</a></div>
+      </div>
+    </details>
   </div>
 </footer>
