@@ -59,7 +59,7 @@ Match the existing voice: a specific title, a description that states the decisi
 
 ## Quality bar
 
-Write for someone choosing how to spend the day. Follow the voice, photo, and food-guide rules in `.cursor/skills/city-setup/SKILL.md`. The city page’s Hotels, Restaurants, and Book your stay sidebar are affiliate placeholders from that skill. Name the sight, when to go, how to arrive, and the mistake to avoid. Use a concrete detail. Do not copy another site’s sentences, prices, or shop list.
+Write for someone choosing how to spend the day. Follow the voice, photo, and food-guide rules in `.cursor/skills/city-setup/SKILL.md`. An attraction page follows `.cursor/skills/attraction-page/SKILL.md`. The reference record is Ba Na Hills. The city page’s Hotels, Restaurants, and Book your stay sidebar are affiliate placeholders from that skill. Name the sight, when to go, how to arrive, and the mistake to avoid. Use a concrete detail. Do not copy another site’s sentences, prices, or shop list.
 
 Propose a dot from 1 to 5 on a **new** record, with a one-line reason in the draft summary. Do not change an existing dot.
 

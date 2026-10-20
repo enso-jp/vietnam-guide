@@ -102,3 +102,5 @@ Then tell the user the folder path and that the Page Setup Agent can polish it w
 - Photo must show: the covered bridge from the street, in color, one frame
 - Sources: S1
 ```
+
+That entry is the index for the city dossier. It is not the attraction page. A finished sight follows `.cursor/skills/attraction-page/SKILL.md` and is stored first at `research/<place>/attractions/<slug>.md`.

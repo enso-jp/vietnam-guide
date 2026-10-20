@@ -262,6 +262,53 @@ p { margin: 0.55rem 0; }
 }
 .prose-figure figcaption a { display: inline; color: var(--ink); }
 .prose-figure figcaption a:hover { color: var(--lacquer); }
+.kicker { margin: 0.15rem 0 0.7rem; color: var(--muted); font-size: 1.08rem; max-width: var(--measure); }
+.hero-caption {
+  margin: 0.45rem 0 0;
+  padding-bottom: 0.45rem;
+  border-bottom: 3px solid var(--lacquer);
+  max-width: 40rem;
+}
+.notice {
+  margin: 0 0 1.5rem;
+  padding: 0.9rem 1rem 0.35rem;
+  border-left: 3px solid var(--lacquer);
+  background: var(--card);
+  max-width: 40rem;
+}
+.notice strong { display: block; margin-bottom: 0.35rem; }
+.notice p { margin-top: 0; }
+.hour-list { list-style: none; margin: 0.4rem 0 0; padding: 0; max-width: 40rem; }
+.hour-list li {
+  display: grid;
+  grid-template-columns: 1.35rem 6.5rem minmax(0, 1fr);
+  gap: 0.65rem;
+  align-items: start;
+  padding: 0.85rem 0;
+  border-top: 1px solid var(--line);
+}
+.hour-list .icon {
+  width: 1.15rem;
+  height: 1.15rem;
+  margin-top: 0.15rem;
+  fill: none;
+  stroke: var(--lacquer);
+  stroke-width: 1.6;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.hour-list span {
+  color: var(--muted);
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding-top: 0.2rem;
+}
+.hour-list p { margin: 0; line-height: 1.45; }
+.resource-list { list-style: none; margin: 0.4rem 0 0; padding: 0; max-width: 40rem; }
+.resource-list li { padding: 0.7rem 0; border-top: 1px solid var(--line); }
+.resource-list a { font-weight: 650; }
+.resource-list p { margin: 0.15rem 0 0; }
 .reading .card-list { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.15rem; }
 .reading .jg-card .media img,
 .reading .jg-card .media svg { height: 11.5rem; }

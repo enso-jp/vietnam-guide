@@ -1,14 +1,19 @@
 ---
+import { existsSync, readFileSync } from 'node:fs';
+import { join } from 'node:path';
 import Base from '../layouts/Base.astro';
 import Crumbs from './Crumbs.astro';
 import Dots from './Dots.astro';
 import FactBar from './FactBar.astro';
+import Icon from './Icon.astro';
 import Photo from './Photo.astro';
+import SectionNav from './SectionNav.astro';
 import { interestHref } from '../config/site';
 import { attractionPath, attractionsForPlace, cardLine, getCorridor, getPlace, interestList, pageDescription, placePath } from '../lib/content';
 import { photoPath } from '../lib/photos';
+import { stayLink } from '../lib/partners';
 import { abs, breadcrumbList } from '../lib/schema';
-import type { Attraction } from '../lib/types';
+import type { Attraction, AttractionFigure } from '../lib/types';
 
 interface Props {
   attraction: Attraction;
@@ -24,9 +29,24 @@ const description = pageDescription(
   attraction.timeNeeded,
   attraction.fee,
 );
-const image = photoPath(`${attraction.placeSlug}-${attraction.slug}`, attraction.placeSlug);
-const others = place ? attractionsForPlace(place).filter((item) => item.slug !== attraction.slug || item.placeSlug !== attraction.placeSlug).slice(0, 6) : [];
+const heroId = `${attraction.placeSlug}-${attraction.slug}`;
+const image = photoPath(heroId, attraction.placeSlug);
+const others = place
+  ? attractionsForPlace(place)
+      .filter((item) => item.slug !== attraction.slug || item.placeSlug !== attraction.placeSlug)
+      .sort((a, b) => b.dots - a.dots || a.name.localeCompare(b.name))
+      .slice(0, 6)
+  : [];
 const tags = place ? interestList(place).filter((tag) => attraction.interests.includes(tag.key)) : [];
+const body = attraction.body ?? [];
+const figures = attraction.figures ?? [];
+const gettingThere = attraction.gettingThere ?? [];
+const legs = attraction.legs ?? [];
+const links = attraction.links ?? [];
+const full = body.length > 0;
+const admission = attraction.admissionNote || attraction.fee;
+const showHours = Boolean(attraction.hours || attraction.closed || (full && admission));
+const showThere = gettingThere.length > 0 || legs.length > 0;
 const crumbSchema = [
   { name: 'Destinations', path: '/destinations' },
   ...(corridor ? [{ name: corridor.name, path: `/destinations/${corridor.slug}` }] : []),
@@ -38,6 +58,21 @@ const crumbs = crumbSchema.map((item, index) => ({
   name: item.name,
   href: index < crumbSchema.length - 1 ? item.path : undefined,
 }));
+const sectionTabs = [
+  { id: 'intro', label: 'Intro' },
+  ...(showThere ? [{ id: 'get-there', label: 'Get there' }] : []),
+  ...(showHours ? [{ id: 'hours', label: 'Hours & fees' }] : []),
+  ...(others.length > 0 ? [{ id: 'also', label: 'Also in' }] : []),
+  ...(full && place ? [{ id: 'stay', label: 'Stay' }] : []),
+];
+const creditsPath = join(process.cwd(), 'public', 'photos', 'credits.json');
+const credits: Record<string, { author?: string; license?: string }> = existsSync(creditsPath)
+  ? JSON.parse(readFileSync(creditsPath, 'utf8'))
+  : {};
+const heroCredit = credits[heroId];
+const mapHref = attraction.lat != null && attraction.lng != null
+  ? `https://www.openstreetmap.org/?mlat=${attraction.lat}&mlon=${attraction.lng}#map=14/${attraction.lat}/${attraction.lng}`
+  : '';
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'TouristAttraction',
@@ -46,6 +81,7 @@ const jsonLd = {
   description: attraction.summary,
   url: abs(path),
   ...(image ? { image: abs(image) } : {}),
+  ...(links.length ? { sameAs: links.map((item) => item.url) } : {}),
   ...(place
     ? {
         containedInPlace: {
@@ -56,17 +92,32 @@ const jsonLd = {
       }
     : {}),
 };
+
+function figureCredit(figure: AttractionFigure) {
+  return credits[figure.id];
+}
 ---
 <Base title={`${attraction.name}${place ? ` — ${place.name}` : ''}`} description={description} path={path} jsonLd={[jsonLd, breadcrumbList(crumbSchema)]} ogImage={image}>
-  <article class="wrap section">
-    <Crumbs items={crumbs} />
-    <h1>{attraction.name} {attraction.nameVi && <span class="vi" lang="vi">{attraction.nameVi}</span>}</h1>
-    <p class="lede">{attraction.summary}</p>
-    <p><Dots dots={attraction.dots} reason="Editor rating for this attraction" /></p>
-    <div class="place-photo">
-      <Photo id={`${attraction.placeSlug}-${attraction.slug}`} fallbackId={attraction.placeSlug} alt={attraction.name} cover={place?.cover || 'town'} priority={true} />
-    </div>
-    <FactBar time={attraction.timeNeeded} fee={attraction.fee} getThere={attraction.getThere} bestMonths={place?.bestMonths || 'Check on arrival'} verified={place?.verified || ''} />
+  <article class="wrap">
+    <header class="place-top" id="intro">
+      <Crumbs items={crumbs} />
+      <h1>{attraction.name} {attraction.nameVi && <span class="vi" lang="vi">{attraction.nameVi}</span>}</h1>
+      {attraction.kicker && <p class="kicker">{attraction.kicker}</p>}
+      <p class="lede">{attraction.summary}</p>
+      <p><Dots dots={attraction.dots} reason="Editor rating for this attraction" /></p>
+      <div class="place-photo">
+        <Photo id={heroId} fallbackId={attraction.placeSlug} alt={attraction.heroCaption || attraction.name} cover={place?.cover || 'town'} priority={true} />
+      </div>
+      {attraction.heroCaption && <p class="hero-caption">{attraction.heroCaption}</p>}
+      {heroCredit && <p class="note photo-credit">Photo: {heroCredit.author} · {heroCredit.license}</p>}
+    </header>
+    <FactBar
+      time={attraction.timeNeeded}
+      fee={attraction.fee}
+      getThere={attraction.getThere}
+      bestMonths={attraction.bestMonths || place?.bestMonths || 'Check on arrival'}
+      verified={attraction.verified || place?.verified || ''}
+    />
     {attraction.district && <p class="meta">{attraction.district}</p>}
     {tags.length > 0 && (
       <p>
@@ -75,21 +126,142 @@ const jsonLd = {
         ))}
       </p>
     )}
-    {others.length > 0 && place && (
-      <section class="place-section">
-        <h2>Also in {place.name}</h2>
-        <ul class="guide-list">
-          {others.map((item) => (
+    <SectionNav label={`${attraction.name} sections`} items={sectionTabs} />
+    <div class="place-body reading">
+      {full && (
+        <section class="place-section">
+          {attraction.notice && (
+            <aside class="notice">
+              <strong>{attraction.notice.title}</strong>
+              <p>{attraction.notice.body}</p>
+            </aside>
+          )}
+          {body.map((paragraph, index) => {
+            const figure = figures[index];
+            const credit = figure ? figureCredit(figure) : undefined;
+            return (
+              <>
+                <p>{paragraph}</p>
+                {figure && (
+                  <figure class="prose-figure">
+                    <Photo id={figure.id} alt={figure.alt || figure.caption} cover={place?.cover || 'town'} />
+                    <figcaption>{figure.caption}</figcaption>
+                    {credit && <p class="note photo-credit">Photo: {credit.author} · {credit.license}</p>}
+                  </figure>
+                )}
+              </>
+            );
+          })}
+          {figures.slice(body.length).map((figure) => {
+            const credit = figureCredit(figure);
+            return (
+              <figure class="prose-figure">
+                <Photo id={figure.id} alt={figure.alt || figure.caption} cover={place?.cover || 'town'} />
+                <figcaption>{figure.caption}</figcaption>
+                {credit && <p class="note photo-credit">Photo: {credit.author} · {credit.license}</p>}
+              </figure>
+            );
+          })}
+        </section>
+      )}
+      {showThere && (
+        <section id="get-there" class="place-section">
+          <h2>Getting there and around</h2>
+          {gettingThere.map((paragraph) => <p>{paragraph}</p>)}
+          {legs.map((leg) => (
+            <>
+              <h3>{leg.heading}</h3>
+              <p>{leg.body}</p>
+            </>
+          ))}
+          {mapHref && <p><a href={mapHref}>Show on a map</a></p>}
+        </section>
+      )}
+      {showHours && (
+        <section id="hours" class="place-section">
+          <h2>Hours and fees</h2>
+          <ul class="hour-list">
+            {attraction.hours && (
+              <li>
+                <Icon name="clock" />
+                <span>Hours</span>
+                <p>{attraction.hours}</p>
+              </li>
+            )}
+            {attraction.closed && (
+              <li>
+                <Icon name="event" />
+                <span>Closed</span>
+                <p>{attraction.closed}</p>
+              </li>
+            )}
+            {admission && (
+              <li>
+                <Icon name="ticket" />
+                <span>Admission</span>
+                <p>{admission}</p>
+              </li>
+            )}
+          </ul>
+          {links.length > 0 && (
+            <>
+              <h3>Links</h3>
+              <ul class="resource-list">
+                {links.map((link) => (
+                  <li>
+                    <a href={link.url} rel="noopener noreferrer" target="_blank">{link.label}</a>
+                    {link.note && <p class="note">{link.note}</p>}
+                  </li>
+                ))}
+              </ul>
+            </>
+          )}
+        </section>
+      )}
+      {others.length > 0 && place && (
+        <section id="also" class="place-section">
+          <h2>Also in {place.name}</h2>
+          <div class="card-list">
+            {others.map((item) => (
+              <a class="jg-card" href={attractionPath(item)}>
+                <div class="media">
+                  <Photo id={`${item.placeSlug}-${item.slug}`} fallbackId={item.placeSlug} alt={item.name} cover={place.cover} />
+                </div>
+                <div class="jg-body">
+                  <h3>
+                    {item.name}
+                    {item.nameVi && <span class="vi" lang="vi"> {item.nameVi}</span>}
+                  </h3>
+                  <p>{cardLine(item.summary)}</p>
+                  <p class="rating"><Dots dots={item.dots} /></p>
+                </div>
+              </a>
+            ))}
+          </div>
+          <p><a href={`${placePath(place)}#attractions`}>All attractions in {place.name}</a></p>
+        </section>
+      )}
+      {full && place && (
+        <section id="stay" class="place-section">
+          <h2>Stay in {place.name}</h2>
+          <ul class="aff-list">
             <li>
-              <a class="guide-row" href={attractionPath(item)}>
-                <strong>{item.name}</strong>
-                <p>{cardLine(item.summary)}</p>
+              <a class="aff-row" href={stayLink(place.name)} rel="sponsored noopener" target="_blank" data-partner="stay">
+                <span class="aff-photo">
+                  <Photo id={place.slug} alt="" cover={place.cover} />
+                </span>
+                <span class="aff-copy">
+                  <strong>Stay in {place.name}</strong>
+                  <em>Partner link</em>
+                  <p>Search stays. This page does not name a hotel.</p>
+                  <span class="aff-btn">Search stays</span>
+                </span>
               </a>
             </li>
-          ))}
-        </ul>
-      </section>
-    )}
-    {place && <p><a href={`${placePath(place)}#attractions`}>All attractions in {place.name}</a></p>}
+          </ul>
+          <p class="note">Partner link. We may earn a commission if you book.</p>
+        </section>
+      )}
+    </div>
   </article>
 </Base>

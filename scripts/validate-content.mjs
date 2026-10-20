@@ -1,5 +1,9 @@
-import { readdirSync, readFileSync } from 'node:fs';
+import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
+
+function words(value) {
+  return String(value || '').trim().split(/\s+/).filter(Boolean).length;
+}
 
 function readDir(dir) {
   return readdirSync(dir)
@@ -67,6 +71,33 @@ for (const attraction of attractions) {
   if (!places.some((place) => place.slug === attraction.placeSlug)) errors.push(`${key} place missing`);
   if (!attraction.summary) errors.push(`${key} summary missing`);
   if (attraction.dots < 1 || attraction.dots > 5) errors.push(`${key} dots out of range`);
+  const finished = Array.isArray(attraction.body) && attraction.body.length > 0;
+  if (!finished) continue;
+  if (words(attraction.summary) < 25 || words(attraction.summary) > 80) errors.push(`${key} summary should stay a lede of 25–80 words`);
+  if (!attraction.kicker || words(attraction.kicker) > 14) errors.push(`${key} kicker missing or longer than one line`);
+  if (!attraction.heroCaption) errors.push(`${key} hero caption missing`);
+  if (!attraction.verified) errors.push(`${key} verified date missing`);
+  if (attraction.body.length < 2) errors.push(`${key} body needs at least two paragraphs`);
+  if (!attraction.gettingThere?.length) errors.push(`${key} getting there missing`);
+  if (!attraction.hours && !attraction.closed) errors.push(`${key} hours or closed missing`);
+  const heroFile = join('public', 'photos', `${attraction.placeSlug}-${attraction.slug}.jpg`);
+  if (!existsSync(heroFile)) errors.push(`${key} hero photo missing`);
+  if (!attraction.figures?.length) errors.push(`${key} second photo missing`);
+  for (const figure of attraction.figures || []) {
+    if (!figure.id || !figure.caption) errors.push(`${key} figure needs an id and a caption`);
+    if (figure.id === `${attraction.placeSlug}-${attraction.slug}`) errors.push(`${key} figure repeats the hero`);
+    if (figure.id && !existsSync(join('public', 'photos', `${figure.id}.jpg`))) errors.push(`${key} figure ${figure.id} file missing`);
+  }
+  for (const leg of attraction.legs || []) {
+    if (!leg.heading || !leg.body) errors.push(`${key} leg is incomplete`);
+  }
+  if (attraction.notice && (!attraction.notice.title || !attraction.notice.body)) errors.push(`${key} notice is incomplete`);
+  for (const link of attraction.links || []) {
+    if (!link.label || !/^https:\/\//.test(link.url || '')) errors.push(`${key} link needs a label and an https URL`);
+  }
+  const hasLat = attraction.lat != null;
+  const hasLng = attraction.lng != null;
+  if (hasLat !== hasLng) errors.push(`${key} map needs both lat and lng`);
 }
 for (const festival of festivals) {
   for (const slug of festival.placeSlugs || []) {

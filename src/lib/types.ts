@@ -5,17 +5,60 @@ export interface Faq {
   a: string;
 }
 
+export interface AttractionFigure {
+  id: string;
+  caption: string;
+  alt?: string;
+}
+
+export interface AttractionLeg {
+  heading: string;
+  body: string;
+}
+
+export interface AttractionLink {
+  label: string;
+  url: string;
+  note?: string;
+}
+
+export interface AttractionNotice {
+  title: string;
+  body: string;
+}
+
 export interface Attraction {
   slug: string;
   placeSlug: string;
   name: string;
   nameVi?: string;
+  /** Decision lede. A finished page keeps this short and puts the visit in `body`. */
   summary: string;
+  /** One line under the title: what the sight is. */
+  kicker?: string;
   dots: number;
   district?: string;
   timeNeeded: string;
+  /** Fact-bar price. Bands and inclusions belong in `admissionNote`. */
   fee: string;
+  /** Fact-bar line. The longer version belongs in `gettingThere`. */
   getThere: string;
+  /** Sight-specific months. Leave unset to use the place. */
+  bestMonths?: string;
+  verified?: string;
+  /** What the hero frame shows. */
+  heroCaption?: string;
+  notice?: AttractionNotice;
+  body?: string[];
+  figures?: AttractionFigure[];
+  gettingThere?: string[];
+  legs?: AttractionLeg[];
+  hours?: string;
+  closed?: string;
+  admissionNote?: string;
+  links?: AttractionLink[];
+  lat?: number;
+  lng?: number;
   interests: string[];
 }
 

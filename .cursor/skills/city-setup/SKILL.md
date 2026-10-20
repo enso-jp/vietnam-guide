@@ -114,16 +114,9 @@ A scene with no single venue, such as beach bars, still gets a card. Link the ne
 
 ## Attraction page
 
-Match the Tsukiji page. A title, one lede, and a fact bar are not the page.
+Follow `.cursor/skills/attraction-page/SKILL.md`. A title, one lede, and a fact bar are not the page. The reference record is `src/content/attractions/da-nang--ba-na.json`.
 
-- The photo shows the sight. A caption under it says what the frame is.
-- Body paragraphs say what the visitor does, how long it takes, and the mistake to avoid. The words come from the dossier.
-- **Getting there and around** is its own section, longer than the fact-bar line. Name the start point a traveler already knows, the mode, and the time. A second start point gets its own short block when the dossier has it.
-- **Hours and fees** is its own section. Open, closed, and the fee. An unknown stays “Check on arrival”.
-- **Also in {Place}** lists the other sights, each linked.
-- The sidebar is the same as the city page: Book your stay placeholder, then Explore with icons.
-
-The fact bar stays. It does not replace the two sections.
+The attraction page does not use the city sidebar. It ends with one labeled stay row. Do not write the sight’s body in the city-setup pass. Store `research/<place>/attractions/<slug>.md` first, then fill the record in an attraction pass.
 
 ## Food guide
 
@@ -189,7 +182,7 @@ Copy and complete:
 - [ ] Festivals, or an explicit note that none are recorded
 - [ ] Side trips: real slugs, plus placeholders in the draft summary
 - [ ] `{Place} by interest` grouped, including `{Place} Food Guide` linking to `/food/{slug}`
-- [ ] Each attraction page has body, getting there and around, and hours and fees
+- [ ] Attraction records exist for the sights. A finished sight page is a later pass under `.cursor/skills/attraction-page/SKILL.md`, not this one
 - [ ] Each dish page has its own photo, how to eat it, and where to try it by area
 - [ ] Itinerary page: each day is a photo row, with the stay sidebar. Walks keep stop photos.
 - [ ] Food guide with specialty blocks, where to eat, breakfast, and the neighbor
