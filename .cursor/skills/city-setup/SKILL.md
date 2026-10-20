@@ -56,6 +56,10 @@ Reject soldiers, weapons, documents, maps, logos, collages, posters with titles 
 
 The city image is the scene people come for. An attraction image shows that attraction. If the first Commons hit fails, take the next file whose title names the subject. Record the author, license, and source from the file page. Do not invent a credit. `scripts/fetch-photos.mjs` skips military and document titles. That filter does not replace looking at the picture.
 
+## Chrome
+
+How the page looks is `.cursor/skills/ui-ux/SKILL.md`. Place pages already follow it. Do not print `nameVi` beside the place h1. Do not show a fee on the place fact bar.
+
 ## Page shape
 
 The city page, top to bottom:
@@ -71,7 +75,7 @@ The city page, top to bottom:
 
 City tabs stay Intro, Attractions, By interest, Get there, Itineraries, Hotels, Restaurants. A district uses Intro, Get there, Hotels, Restaurants, Experiences, and keeps the parent city’s row above it.
 
-The page is not a wall of text. The hero photo has curved corners. The fact bar is a rounded strip, and each cell has a small line icon. After the first intro paragraph, one photo of the top sight breaks the text. The caption is that sight’s name, with a short lacquer rule under it, and the photo links to the sight. Section headings sit on a lacquer rule. Attraction, event, and side-trip cards use a curved photo, a number on the photo, the name, one line, and the editor dots. Chips are pills. Leave space between sections. Do not add visitor counts, a green brand line, an ad, or a booking form.
+The page is not a wall of text. After the first intro paragraph, one photo of the top sight breaks the text. Cards, the fact bar, the tabs, and the spacing follow `.cursor/skills/ui-ux/SKILL.md`. Do not add visitor counts, a green brand line, an ad, or a booking form.
 
 ## Where each layer goes
 

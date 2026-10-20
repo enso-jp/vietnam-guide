@@ -135,7 +135,7 @@ const leadSight = rankedAttractions[0];
     <header class="place-top" id="intro">
       <Crumbs items={crumbs} />
       <p class="meta">{place.provinceNote || place.province}</p>
-      <h1>{place.name} <span class="vi" lang="vi">{place.nameVi}</span></h1>
+      <h1>{place.name}</h1>
       <p class="lede">{place.summary}</p>
       <p>
         <Dots dots={place.dots} reason={place.dotReason} />
@@ -151,11 +151,11 @@ const leadSight = rankedAttractions[0];
         ))}
       </div>
       <div class="place-photo">
-        <Photo id={place.slug} alt={`${place.name}, ${place.nameVi}`} cover={place.cover} priority={true} />
+        <Photo id={place.slug} alt={place.name} cover={place.cover} priority={true} />
       </div>
       {heroCredit && <p class="note photo-credit">Photo: {heroCredit.author} · {heroCredit.license}</p>}
     </header>
-    <FactBar time={place.timeNeeded} fee={place.fee} getThere={place.getThere} bestMonths={place.bestMonths} verified={place.verified} />
+    <FactBar time={place.timeNeeded} getThere={place.getThere} bestMonths={place.bestMonths} verified={place.verified} />
     {parent && (
       <nav class="tabs" aria-label={`${parent.name} sections`}>
         <a href={placePath(parent)}>{parent.name}</a>
@@ -171,7 +171,7 @@ const leadSight = rankedAttractions[0];
         <a href={item.href} aria-current={index === 0 ? 'location' : undefined}>{item.label}</a>
       ))}
     </nav>
-    <div class="place-grid">
+    <div class="place-grid place-body">
       <div class="reading">
         <section class="place-section">
           {place.intro.map((paragraph, index) => (

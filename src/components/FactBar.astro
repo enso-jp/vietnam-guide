@@ -3,16 +3,16 @@ import Icon from './Icon.astro';
 
 interface Props {
   time: string;
-  fee: string;
+  fee?: string;
   getThere: string;
   bestMonths: string;
   verified?: string;
 }
 const { time, fee, getThere, bestMonths, verified } = Astro.props;
 ---
-<div class="facts">
+<div class="facts" style={`--fact-cols:${fee ? 4 : 3}`}>
   <div><Icon name="clock" /><span>Time</span><strong>{time}</strong></div>
-  <div><Icon name="ticket" /><span>Fee</span><strong>{fee}</strong></div>
+  {fee && <div><Icon name="ticket" /><span>Fee</span><strong>{fee}</strong></div>}
   <div><Icon name="pin" /><span>Get there</span><strong>{getThere}</strong></div>
   <div><Icon name="event" /><span>Best months</span><strong>{bestMonths}</strong></div>
 </div>

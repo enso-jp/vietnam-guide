@@ -1,6 +1,6 @@
 # Updating Vietnam Guide
 
-Public pages are JSON records. Templates render them. Do not invent a layout, a fee, an hour, or a visa rule.
+Public pages are JSON records. Templates render them. Do not invent a layout, a fee, an hour, or a visa rule. Visual treatment follows `.cursor/skills/ui-ux/SKILL.md`.
 
 ## Files
 
