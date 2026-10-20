@@ -1,0 +1,21 @@
+---
+import DestinationInterest from '../../../components/DestinationInterest.astro';
+import { interestKeyFromSlug } from '../../../config/site';
+import { destinationInterestPages } from '../../../lib/content';
+
+export function getStaticPaths() {
+  return destinationInterestPages()
+    .filter((page) => !page.place.parent)
+    .map((page) => ({
+      params: {
+        place: page.place.slug,
+        interest: page.hrefInterest,
+      },
+      props: { place: page.place, interestKey: page.key },
+    }));
+}
+
+const { place, interestKey } = Astro.props;
+const key = interestKeyFromSlug(Astro.params.interest ?? '') ?? interestKey;
+---
+<DestinationInterest place={place} interestKey={key} />

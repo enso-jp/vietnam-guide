@@ -1,0 +1,80 @@
+---
+import Base from '../layouts/Base.astro';
+import Crumbs from './Crumbs.astro';
+import { interestHref, interestLabels } from '../config/site';
+import {
+  attractionPath,
+  destinationInterestPath,
+  getCorridor,
+  getPlace,
+  localAttractionsForInterest,
+  pageDescription,
+  placePath,
+} from '../lib/content';
+import { breadcrumbList, itemList } from '../lib/schema';
+import type { Place } from '../lib/types';
+
+interface Props {
+  place: Place;
+  interestKey: string;
+}
+
+const { place, interestKey } = Astro.props;
+const label = interestLabels[interestKey] ?? interestKey;
+const sights = localAttractionsForInterest(place, interestKey);
+const path = destinationInterestPath(place, interestKey) || placePath(place);
+const national = interestHref(interestKey);
+const corridor = getCorridor(place.corridor);
+const parent = place.parent ? getPlace(place.parent) : undefined;
+const sightNames = sights.slice(0, 3).map((item) => item.name);
+const description = pageDescription(
+  `${label} in ${place.name}.`,
+  sightNames.length ? `Sights here include ${sightNames.join(', ')}.` : place.summary,
+);
+const crumbSchema = [
+  { name: 'Destinations', path: '/destinations' },
+  ...(corridor ? [{ name: corridor.name, path: `/destinations/${corridor.slug}` }] : []),
+  ...(parent ? [{ name: parent.name, path: placePath(parent) }] : []),
+  { name: place.name, path: placePath(place) },
+  { name: label, path },
+];
+---
+<Base
+  title={`${label} in ${place.name}`}
+  description={description}
+  path={path}
+  ogType="website"
+  jsonLd={[itemList(`${label} in ${place.name}`, sights.map((item) => ({ name: item.name, path: attractionPath(item) }))), breadcrumbList(crumbSchema)]}
+>
+  <article class="wrap section">
+    <Crumbs
+      items={[
+        { name: 'Destinations', href: '/destinations' },
+        ...(corridor ? [{ name: corridor.name, href: `/destinations/${corridor.slug}` }] : []),
+        ...(parent ? [{ name: parent.name, href: placePath(parent) }] : []),
+        { name: place.name, href: placePath(place) },
+        { name: label },
+      ]}
+    />
+    <h1>{label} in {place.name}</h1>
+    <p class="lede">{description}</p>
+    <p>
+      <a href={national}>{label} across Vietnam</a>
+      {' · '}
+      <a href={placePath(place)}>{place.name} guide</a>
+    </p>
+    <section class="place-section">
+      <h2>Sights</h2>
+      <ul class="guide-list">
+        {sights.map((attraction) => (
+          <li>
+            <a class="guide-row" href={attractionPath(attraction)}>
+              <strong>{attraction.name}</strong>
+              <p>{attraction.summary}</p>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  </article>
+</Base>

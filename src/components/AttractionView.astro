@@ -5,7 +5,7 @@ import Dots from './Dots.astro';
 import FactBar from './FactBar.astro';
 import Photo from './Photo.astro';
 import { interestHref } from '../config/site';
-import { attractionPath, attractionsForPlace, cardLine, getCorridor, getPlace, interestList, pageDescription, placePath } from '../lib/content';
+import { attractionPath, attractionsForPlace, cardLine, destinationInterestPath, getCorridor, getPlace, interestList, pageDescription, placePath } from '../lib/content';
 import { photoPath } from '../lib/photos';
 import { abs, breadcrumbList } from '../lib/schema';
 import type { Attraction } from '../lib/types';
@@ -71,7 +71,7 @@ const jsonLd = {
     {tags.length > 0 && (
       <p>
         {tags.map((tag) => (
-          <a class="tag" href={interestHref(tag.key)}>{tag.label}</a>
+          <a class="tag" href={place ? destinationInterestPath(place, tag.key) || interestHref(tag.key) : interestHref(tag.key)}>{tag.label}</a>
         ))}
       </p>
     )}

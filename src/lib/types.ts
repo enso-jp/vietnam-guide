@@ -46,6 +46,8 @@ export interface InterestCard {
   icon?: string;
   /** `food` links this card to the city food guide page. */
   to?: 'food';
+  /** Set when the card stands for one of the place's interest keys. */
+  interestKey?: string;
 }
 
 export interface Place {

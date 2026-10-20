@@ -20,6 +20,7 @@ import {
   getItineraries,
   getRoutes,
   interestList,
+  destinationInterestPath,
   cardLine,
   itineraryPhoto,
   pageDescription,
@@ -68,6 +69,7 @@ const interestRail = (place.interestCards?.length
       return {
         title: tag.label,
         summary: sight ? cardLine(sight.summary) : tag.label,
+        interestKey: tag.key,
         attractionSlug: sight?.slug,
         dishSlug: tag.key === 'food' ? place.dishSlugs[0] : undefined,
       };
@@ -77,9 +79,12 @@ const interestRail = (place.interestCards?.length
     ? attractions.find((item) => item.slug === card.attractionSlug)
     : undefined;
   const linkedPlace = card.placeSlug ? getPlace(card.placeSlug) : undefined;
+  const localInterest = card.interestKey ? destinationInterestPath(place, card.interestKey) : undefined;
   const href = card.to === 'food'
     ? `/food/${place.foodSlug || place.slug}`
-    : sight
+    : localInterest
+      ? localInterest
+      : sight
       ? attractionPath(sight)
       : card.dishSlug
         ? `/food/${card.dishSlug}`

@@ -11,7 +11,7 @@ import type {
   Route,
   SearchItem,
 } from './types';
-import { dotLabel, interestHref, interestLabels, tabs } from '../config/site';
+import { dotLabel, interestHref, interestLabels, interestPublicSlug, tabs } from '../config/site';
 
 function load<T>(modules: Record<string, { default: T }>): T[] {
   return Object.values(modules).map((mod) => mod.default);
@@ -322,6 +322,57 @@ export function placeTabs(place: Place, hasFestivals = false) {
   return items;
 }
 
+export function foodGuidePath(place: Place): string | undefined {
+  const ownGuide = getFoodGuides().find((guide) => guide.placeSlug === place.slug);
+  if (ownGuide) return `/food/${ownGuide.slug}`;
+  if (placesForCityFood().some((item) => item.slug === place.slug)) return `/food/${place.slug}`;
+  if (
+    place.foodSlug &&
+    (getFoodGuides().some((guide) => guide.slug === place.foodSlug) ||
+      placesForCityFood().some((item) => item.slug === place.foodSlug))
+  ) {
+    return `/food/${place.foodSlug}`;
+  }
+  return undefined;
+}
+
+export function localAttractionsForInterest(place: Place, key: string): Attraction[] {
+  return getAttractions()
+    .filter((item) => item.placeSlug === place.slug && item.interests.includes(key))
+    .sort((a, b) => b.dots - a.dots || a.name.localeCompare(b.name));
+}
+
+/** A place's own interest page. Food uses the city food guide. Other interests need at least one local sight. */
+export function destinationInterestPath(place: Place, key: string): string | undefined {
+  if ((place.interests[key] ?? 0) < 3) return undefined;
+  if (key === 'food') return foodGuidePath(place);
+  if (localAttractionsForInterest(place, key).length === 0) return undefined;
+  return `${placePath(place)}/interests/${interestPublicSlug[key] ?? key}`;
+}
+
+export function nationwideInterestPlaces(key: string): { place: Place; href: string; local: boolean }[] {
+  return getPlaces()
+    .filter((place) => (place.interests[key] ?? 0) >= 3)
+    .sort(compareRecommended)
+    .map((place) => {
+      const href = destinationInterestPath(place, key);
+      return { place, href: href ?? placePath(place), local: Boolean(href) };
+    });
+}
+
+export function destinationInterestPages(): { place: Place; key: string; hrefInterest: string }[] {
+  const pages: { place: Place; key: string; hrefInterest: string }[] = [];
+  for (const place of getPlaces()) {
+    for (const key of Object.keys(interestLabels)) {
+      if (key === 'food') continue;
+      const href = destinationInterestPath(place, key);
+      if (!href?.includes('/interests/')) continue;
+      pages.push({ place, key, hrefInterest: interestPublicSlug[key] ?? key });
+    }
+  }
+  return pages;
+}
+
 export function interestList(place: Place): { key: string; label: string; weight: number }[] {
   return Object.entries(place.interests)
     .filter(([, weight]) => weight >= 3)
@@ -413,6 +464,15 @@ export function searchIndex(): SearchItem[] {
       href: interestHref(key),
       group: 'Interests',
       text: interestDescription(key),
+    });
+  }
+  for (const page of destinationInterestPages()) {
+    const label = interestLabels[page.key] ?? page.key;
+    items.push({
+      title: `${label} in ${page.place.name}`,
+      href: destinationInterestPath(page.place, page.key) || placePath(page.place),
+      group: 'Interests',
+      text: `${label} ${page.place.name} ${page.place.summary}`,
     });
   }
   for (const guide of getGuides()) {

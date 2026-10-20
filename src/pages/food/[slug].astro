@@ -4,7 +4,7 @@ import Crumbs from '../../components/Crumbs.astro';
 import FoodTabs from '../../components/FoodTabs.astro';
 import Photo from '../../components/Photo.astro';
 import SectionNav from '../../components/SectionNav.astro';
-import { getDishes, getFoodGuides, getPlace, cardLine, pageDescription, placePath, placesForCityFood } from '../../lib/content';
+import { foodGuidePath, getDishes, getFoodGuides, getPlace, cardLine, pageDescription, placePath, placesForCityFood } from '../../lib/content';
 import { photoPath } from '../../lib/photos';
 import { article, breadcrumbList } from '../../lib/schema';
 
@@ -65,17 +65,25 @@ const crumbSchema = [
           </section>
           <section id="where" class="place-section">
             <h2>Where to try it</h2>
-            <p>Cities where this dish is eaten.</p>
+            <p>
+              {dish.placeSlugs.length > 1
+                ? 'This dish is eaten in more than one city. The local page is that city’s food guide.'
+                : 'The local page is that city’s food guide.'}
+            </p>
             <ul class="guide-list">
               {dish.placeSlugs.map((slug) => {
                 const home = getPlace(slug);
-                const hasFood = getFoodGuides().some((guide) => guide.slug === slug) || placesForCityFood().some((item) => item.slug === slug);
-                return home ? (
+                if (!home) return null;
+                const foodHref = foodGuidePath(home);
+                return (
                   <li>
-                    <a class="guide-row" href={placePath(home)}><strong>{home.name}</strong></a>
-                    {hasFood && <p><a href={`/food/${slug}`}>{home.name} food</a></p>}
+                    <a class="guide-row" href={foodHref || placePath(home)}>
+                      <strong>{foodHref ? `${home.name} food` : home.name}</strong>
+                      <p class="meta">{foodHref ? 'Local food guide' : 'Place guide'}</p>
+                    </a>
+                    {foodHref && <p><a href={placePath(home)}>{home.name} guide</a></p>}
                   </li>
-                ) : null;
+                );
               })}
             </ul>
           </section>

@@ -1,10 +1,9 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
-import PlaceCard from '../../components/PlaceCard.astro';
 import Redirect from '../../components/Redirect.astro';
 import { interestHref, interestKeyFromSlug, interestLabels } from '../../config/site';
-import { attractionsForInterest, attractionPath, festivalsForInterest, getPlace, interestDescription, placesForInterest } from '../../lib/content';
+import { attractionsForInterest, attractionPath, festivalsForInterest, getPlace, interestDescription, nationwideInterestPlaces } from '../../lib/content';
 import { breadcrumbList, itemList } from '../../lib/schema';
 
 export function getStaticPaths() {
@@ -16,7 +15,7 @@ export function getStaticPaths() {
 const { slug } = Astro.params;
 const key = interestKeyFromSlug(slug ?? '') ?? Astro.props.key;
 const label = interestLabels[key] ?? Astro.props.label;
-const places = placesForInterest(key);
+const localPlaces = nationwideInterestPlaces(key);
 const sights = attractionsForInterest(key);
 const festivals = festivalsForInterest(key);
 const isFood = key === 'food';
@@ -28,30 +27,34 @@ const crumbSchema = [
 ];
 const jsonLd = [
   itemList(label, [
+    ...localPlaces.map(({ place, href }) => ({ name: `${label} in ${place.name}`, path: href })),
     ...sights.map((item) => ({ name: item.name, path: attractionPath(item) })),
-    ...places.map((place) => ({ name: place.name, path: `/${place.slug}` })),
   ]),
   breadcrumbList(crumbSchema),
 ];
 ---
 {isFood ? <Redirect to="/food" /> : (
 <Base title={`${label} in Vietnam`} description={description} path={path} ogType="website" jsonLd={jsonLd}>
-  <article class="wrap section" data-sort-root>
+  <article class="wrap section">
     <Crumbs items={[{ name: 'Interests', href: '/interests' }, { name: label }]} />
-    <div class="dest-head">
-      <h1>{label}</h1>
-      <div class="dest-toolbar">
-        <label>Sort by
-          <select data-sort-select aria-label="Sort places">
-            <option value="recommended">Recommended</option>
-            <option value="az">A to Z</option>
-            <option value="visited">Most visited</option>
-          </select>
-        </label>
-      </div>
-    </div>
+    <h1>{label}</h1>
     <p class="lede">{description}</p>
-    <p class="note" data-sort-note></p>
+    {localPlaces.length > 0 && (
+      <section class="place-section">
+        <h2>In each place</h2>
+        <ul class="guide-list">
+          {localPlaces.map(({ place, href }) => (
+            <li>
+              <a class="guide-row" href={href}>
+                <strong>{label} in {place.name}</strong>
+                <p class="meta">{href.includes('/food/') ? 'Food guide' : href.includes('/interests/') ? 'Local sights' : 'Place guide'}</p>
+                <p>{place.summary}</p>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
     {sights.length > 0 && (
       <section class="place-section">
         <h2>Attractions</h2>
@@ -81,16 +84,6 @@ const jsonLd = [
         </ul>
       </section>
     )}
-    <section class="place-section">
-      <h2>Places</h2>
-      {places.length === 0 ? (
-        <p>No places are tagged for this interest yet.</p>
-      ) : (
-        <div class="jg-grid" data-sort-list>
-          {places.map((place, index) => <PlaceCard place={place} rank={index + 1} />)}
-        </div>
-      )}
-    </section>
   </article>
 </Base>
 )}
