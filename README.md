@@ -8,7 +8,7 @@ npm run dev
 npm run build
 ```
 
-Change the public domain in `astro.config.mjs` (`site`) and `public/robots.txt` before you deploy.
+The public domain is `https://vietnam-travelguide.com`. It is set in `astro.config.mjs` (`site`), `src/config/site.ts`, `public/robots.txt`, `public/llms.txt`, and `public/CNAME`.
 
 ## Edit a page
 
