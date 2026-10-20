@@ -202,8 +202,10 @@ p { margin: 0.55rem 0; }
 }
 .place-photo img, .place-photo .cover svg {
   width: 100%;
-  height: 26rem;
+  height: auto;
+  aspect-ratio: 16 / 9;
   object-fit: cover;
+  object-position: center;
   display: block;
 }
 .photo-credit { margin: 0.25rem 0 0; }
@@ -247,8 +249,10 @@ p { margin: 0.55rem 0; }
 .prose-figure a { display: block; color: inherit; text-decoration: none; }
 .prose-figure img, .prose-figure svg, .prose-figure .cover {
   width: 100%;
-  height: 16.5rem;
+  height: auto;
+  aspect-ratio: 3 / 2;
   object-fit: cover;
+  object-position: center;
   display: block;
   border-radius: 14px;
 }
@@ -264,7 +268,7 @@ p { margin: 0.55rem 0; }
 .prose-figure figcaption a:hover { color: var(--lacquer); }
 .reading .card-list { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.15rem; }
 .reading .jg-card .media img,
-.reading .jg-card .media svg { height: 11.5rem; }
+.reading .jg-card .media svg { height: auto; aspect-ratio: 3 / 2; }
 .dish-feature {
   display: grid;
   grid-template-columns: 11.5rem minmax(0, 1fr);
@@ -318,7 +322,7 @@ p { margin: 0.55rem 0; }
 .jg-card:hover { border-color: #ddd4c8; }
 .jg-card .media { position: relative; border-radius: 12px; overflow: hidden; }
 .jg-card .cover { min-height: 0; border: 0; border-radius: 12px; }
-.jg-card .cover svg, .jg-card .media img { height: 10.5rem; width: 100%; object-fit: cover; display: block; border-radius: 12px; }
+.jg-card .cover svg, .jg-card .media img { height: auto; aspect-ratio: 3 / 2; width: 100%; object-fit: cover; object-position: center; display: block; border-radius: 12px; }
 .rank-badge {
   position: absolute;
   left: 0.6rem;
@@ -899,8 +903,8 @@ h1.home-kicker {
   .story-list .story-card { align-items: flex-start; }
   .ad-slot { min-height: 8rem; }
   .reading .card-list, .dish-feature { grid-template-columns: 1fr; }
-  .prose-figure img, .prose-figure svg, .prose-figure .cover { height: 12rem; }
-  .place-photo img, .place-photo .cover svg { height: 16rem; }
+  .prose-figure img, .prose-figure svg, .prose-figure .cover { height: auto; aspect-ratio: 3 / 2; }
+  .place-photo img, .place-photo .cover svg { height: auto; aspect-ratio: 16 / 9; }
   .aff-row, .day-card { grid-template-columns: 6.2rem minmax(0, 1fr); }
   .day-photo img, .day-photo svg, .day-photo .cover { height: 5.2rem; }
   .itinerary-grid > .rail { position: static; }
