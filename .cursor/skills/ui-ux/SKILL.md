@@ -54,7 +54,9 @@ Space between sections is larger than the space between paragraphs. On the city 
 
 The hero has curved corners. The credit is a note under the photo: “Photo: {author} · {license}”.
 
-After the first intro paragraph, one photo breaks the text. It is the highest-dotted attraction on that place. The caption is the sight’s name, with a short lacquer rule under it. The photo and the caption both link to that sight. If the attraction photo is missing, use the place photo.
+After the first intro paragraph, one photo breaks the text. It is the highest-dotted attraction on that place. When several sights share that dot, use the one whose interest matches the place’s strongest interest, so a beach city leads with the beach. The caption is the sight’s name, with a short lacquer rule under it. The photo and the caption both link to that sight. If the attraction photo is missing, use the place photo.
+
+Photos are cropped with a center cover, so the file has to be composed for the slot. The hero is 16:9 (`.place-photo`). An attraction card and the intro photo are 3:2 (`.jg-card .media`, `.prose-figure`). An interest card is a tall 3:4 (`.portrait`). Do not set a fixed rem height that slices a 3:2 file into a strip. Graphic and copy crops the file. This skill keeps the slot.
 
 A sight, event, or side-trip card is `.jg-card`: photo on top, a round rank number on the photo, the name, one useful line, editor dots, and a light shadow. The whole card is the link. The image id is `{placeSlug}-{slug}`. A missing file falls back to the place photo.
 

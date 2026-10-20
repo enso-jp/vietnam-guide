@@ -7,6 +7,15 @@ Corridor:
 Base a traveler sleeps in: 
 Checked: 
 
+## Why a night here
+
+- The picture they expect:
+- Where they sleep, as an area:
+- Where the evening is:
+- Scene landmarks (few, sourced, no prices):
+- Hero must include:
+- A crop that would fail:
+
 ## Attractions (Sight, area of interests, zone, hub, etc.)
 
 ### {Name}

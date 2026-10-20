@@ -128,7 +128,10 @@ const questions = place.faqs.length ? faqPage(place.faqs) : null;
 const creditsPath = join(process.cwd(), 'public', 'photos', 'credits.json');
 const credits = existsSync(creditsPath) ? JSON.parse(readFileSync(creditsPath, 'utf8')) : {};
 const heroCredit = credits[place.slug];
-const leadSight = rankedAttractions[0];
+const topInterest = Object.entries(place.interests).sort((a, b) => b[1] - a[1])[0]?.[0];
+const topDots = rankedAttractions[0]?.dots ?? 0;
+const tiedForLead = rankedAttractions.filter((item) => item.dots === topDots);
+const leadSight = tiedForLead.find((item) => topInterest && item.interests.includes(topInterest)) ?? tiedForLead[0];
 ---
 <Base title={title} description={description} path={path} jsonLd={[jsonLd, breadcrumb, questions].filter((item) => item !== null)} ogImage={image} placeId={place.slug}>
   <article class="wrap">
@@ -256,7 +259,7 @@ const leadSight = rankedAttractions[0];
               {festivals.map((festival) => (
                 <a class="jg-card" href={`/festivals/${festival.slug}`}>
                   <div class="media">
-                    <Photo id={place.slug} alt={festival.name} cover={place.cover} />
+                    <Photo id={festival.photo || place.slug} alt={festival.name} cover={place.cover} />
                   </div>
                   <div class="jg-body">
                     <h3>{festival.name}{festival.nameVi && <span class="vi" lang="vi"> {festival.nameVi}</span>}</h3>
