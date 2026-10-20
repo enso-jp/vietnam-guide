@@ -35,7 +35,7 @@ const crumbSchema = [
         <p class="meta">{corridor.climate}</p>
         <p class="meta">{corridor.days}</p>
       </div>
-      <div class="panel"><VietnamMap /></div>
+      <div class="panel map-panel"><VietnamMap active={corridor.slug} /></div>
     </header>
     <div class="reading">
       {corridor.body.map((paragraph) => <p>{paragraph}</p>)}

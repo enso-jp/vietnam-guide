@@ -90,7 +90,7 @@ Work top to bottom. One family, then stop. Mark it here when the template matche
 - [ ] **Itinerary** — `src/pages/itineraries/[slug].astro`. Days are done. The fact strip is three cells in a four-column bar and has no icons. Set the column count and use icons only where the cell matches one.
 - [ ] **Festival** — `src/pages/festivals/[slug].astro`. Keep `nameVi`. The “When” cell is already in the rounded strip, but it sits in a four-column bar and has no icon. Set the column count, use the calendar icon, and turn the place list into rows. Add a photo only when a real festival photo exists. Do not use the city banner and call it the event.
 - [ ] **Interest** — `src/pages/interests/[slug].astro` and `src/pages/interests/index.astro`. Use the same cards as the city page. A nationwide interest links to the place guide. Do not title a block “Related interests”.
-- [ ] **Home and destinations** — `src/pages/index.astro`, `src/pages/destinations/index.astro`, `src/pages/destinations/[slug].astro`. Adopt the type, pills, cards, and lacquer. Do not copy the city sidebar or the city fact bar onto the homepage.
+- [x] **Home and destinations** — `src/pages/index.astro`, `src/pages/destinations/index.astro`, `src/pages/destinations/[slug].astro`. Adopt the type, pills, cards, and lacquer. Do not copy the city sidebar or the city fact bar onto the homepage.
 - [ ] **Reading pages** — plan guides, routes, seasons, about, search. Use the heading rule, the section gap, and tabs where the page already has sections. Do not add a hero, a fee, or a fact bar the record does not have.
 
 ## Pass checklist
