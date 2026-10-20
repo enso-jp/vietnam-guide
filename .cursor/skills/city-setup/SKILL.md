@@ -56,6 +56,14 @@ Reject soldiers, weapons, documents, maps, logos, collages, posters with titles 
 
 The city image is the scene people come for. An attraction image shows that attraction. If the first Commons hit fails, take the next file whose title names the subject. Record the author, license, and source from the file page. Do not invent a credit. `scripts/fetch-photos.mjs` skips military and document titles. That filter does not replace looking at the picture.
 
+## Chrome
+
+The title is the English search name. Do not print `nameVi` beside the h1. Keep `nameVi` on the record for search and schema.
+
+The place fact bar is three cells: time, get there, and best months. Do not show a fee. A city has no single ticket. The attraction page keeps the fee cell.
+
+Leave a clear gap under the section tabs before the intro paragraph, and a clear gap under that paragraph before the lead photo.
+
 ## Page shape
 
 The city page, top to bottom:
