@@ -1,0 +1,135 @@
+# Sources
+
+Accessed 20 Oct 2026 unless a page states its own date.
+
+### S1
+- URL: https://english.luatvietnam.vn/co-cau-to-chuc/resolution-202-2025-qh15-reorganization-of-provincial-level-administrative-divisions-402728-d1.html
+- Publisher: National Assembly, Resolution 202/2025/QH15, via LuatVietnam
+- Accessed: 20 Oct 2026
+- Supports: Quang Nam and the former Da Nang city merged into one centrally run Da Nang city. The resolution was adopted 12 Jun 2025 and took effect that day. New local governments were to operate from 1 Jul 2025.
+
+### S2
+- URL: https://danang.gov.vn/vi/w/dac-diem-khi-hau
+- Publisher: Da Nang city portal, climate page
+- Accessed: 20 Oct 2026
+- Supports: Tropical monsoon. This Vietnamese page says a dry season from January to September and a rainy season from October to December. Rain is concentrated in September–December (over 70 percent of the year). Floods are usual in September–November with the northeast monsoon. Storms are mainly September–December.
+
+### S3
+- URL: https://www.danang.gov.vn/vi/web/eng-dng/w/location-and-natural-conditions
+- Publisher: Da Nang city portal, English natural-conditions page
+- Accessed: 20 Oct 2026
+- Supports: A second official wording. Dry season January–July, wet season August–December. Highest rain in October and November (about 550–1,000 mm a month). Average temperature about 26°C. Ba Na is cooler, given as about 20°C on that page.
+
+### S4
+- URL: https://visitdanang.travel/en/da-nang-museum-of-cham-sculpture-2036
+- Publisher: Visit Da Nang
+- Accessed: 20 Oct 2026
+- Supports: Museum of Cham Sculpture. More than 400 works, 5th–15th centuries, grouped by find-site including My Son, Tra Kieu, Dong Duong, and Thap Mam. Address given as No. 2, 2 Thang 9 Street, Hai Chau. Hours given as 07:00–17:00. Building opened 1919.
+
+### S5
+- URL: https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Nghi-quyet-47-2026-NQ-HDND-muc-thu-phi-tham-quan-cong-trinh-van-hoa-Bao-tang-Dieu-khac-Cham-Da-Nang-711974.aspx
+- Publisher: Da Nang People’s Council, Resolution 47/2026/NQ-HĐND, 29 May 2026, in force 10 Jun 2026
+- Accessed: 20 Oct 2026
+- Supports: Cham Museum fee. General visitor 60,000 VND. Da Nang permanent residents, and university, college, and vocational students, 20,000 VND. Children under 16, school pupils, Vietnamese citizens 60 and over, and some other listed cases, free. Address in the resolution: 01 Trung Nu Vuong, Hai Chau ward. Free-entry days include the first day of Tet, 29 March, Hung Kings’ day, 2 September, and 24 November.
+
+### S6
+- URL: https://danangfantasticity.com/en/news/plan-your-da-nang-journey-2026-updated-admission-prices-for-attractions-and-tourist-sites
+- Publisher: Danang Fantasticity, the city tourism portal
+- Accessed: 20 Oct 2026
+- Supports: 2026 reference prices and hours. Cham Museum 07:30–17:00, general 60,000 VND, residents and students 20,000 VND. Marble Mountains Thuy Son 07:00–17:00, adults 40,000 VND, students 10,000 VND, under 6 free. Am Phu cave adults 20,000 VND, students 7,000 VND, under 6 free. Ba Na Hills 08:00–22:00, non-residents 1,000,000 VND adult and 800,000 VND seniors and children, residents 650,000 VND adult and 550,000 VND seniors and children. My Son 06:00–18:00, Vietnamese 100,000 VND, international 150,000 VND. Cu Lao Cham sightseeing 70,000 VND plus a 20,000 VND sanitation fee.
+
+### S7
+- URL: https://danangfantasticity.com/en/culture-en/the-marble-mountains
+- Publisher: Danang Fantasticity, 2 Aug 2025
+- Accessed: 20 Oct 2026
+- Supports: Marble Mountains at 81 Huyen Tran Cong Chua, Ngu Hanh Son ward, about 8 km from the center. Thuy Son adult 40,000 VND; children under 6 free; elevator 15,000 VND one way, 30,000 VND return. Am Phu adult 20,000 VND, students 7,000 VND. Tickets at Gate 01 or Gate 02. Six peaks; visitors are pointed at Thuy Son. About 15 minutes from the center. About 30 minutes on to Hoi An by the coastal road. The portal suggests 3–4 hours for a fuller morning. Avalokitesvara festival on the 17th–19th of the second lunar month. Non Nuoc stone-carving village at the foot of the hills, national intangible heritage in 2014.
+
+### S8
+- URL: https://sunworld.vn/en/banahills/travel-guide/price-list-tickets-services-sun-world-ba-na-hills-year-2026-19796
+- Publisher: Sun World Ba Na Hills
+- Accessed: 20 Oct 2026
+- Supports: Basic 2026 ticket for non-residents, adult 1,000,000 VND, includes the round-trip cable car and the Golden Bridge, French Village, and Fantasy Park. Children from 1 m to under 1.4 m, 800,000 VND. Under 1 m free. Da Nang residents, adult 650,000 VND. A 2026 ticket can be upgraded at the ticket office to three consecutive days. Some rides and the wine cellar are extra.
+
+### S9
+- URL: https://danangfantasticity.com/en/events/the-dragon-show
+- Publisher: Danang Fantasticity, 14 Mar 2025
+- Accessed: 20 Oct 2026
+- Supports: Dragon show at 21:00 on Friday, Saturday, Sunday, and major holidays. The portal describes about 2 minutes of fire and 3 minutes of water. Bridge length 666 m, opened 29 Mar 2013. Watching from the bank is not listed as a ticket.
+
+### S10
+- URL: https://visitdanang.travel/en/what-time-does-the-dragon-bridge-breathe-fire-show-schedule-and-useful-tips-10823
+- Publisher: Visit Da Nang
+- Accessed: 20 Oct 2026
+- Supports: Same nights, 21:00 Friday–Sunday and major holidays. This page describes the whole show as about 10–15 minutes, which does not match S9. During DIFF the schedule can change. It tells readers to check the Department of Tourism.
+
+### S11
+- URL: https://danang.gov.vn/vi/w/chua-linh-ung-son-tra-i
+- Publisher: Da Nang city portal
+- Accessed: 20 Oct 2026
+- Supports: Linh Ung at Bai But, Son Tra peninsula. Quan The Am statue 67 m, lotus pedestal 35 m across, facing the sea. The city portal calls it the tallest in Vietnam. No entry fee is stated.
+
+### S12
+- URL: https://danang.gov.vn/vi/w/chua-linh-ung-ban-dao-son-tra-duoc-cong-nhan-la-diem-du-lich-dia-phuong-tren-dia-ban-thanh-pho-da-nang-i
+- Publisher: Da Nang city portal, 6 Jun 2017
+- Accessed: 20 Oct 2026
+- Supports: Linh Ung – Son Tra recognized as a local tourist site from 6 Jun 2017. No fee in the decision.
+
+### S13
+- URL: https://aim.vatm.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/Related%20Links/2023-01-AMDT/html/eAIP/AD-2.VVDN-en-GB.html
+- Publisher: Civil Aviation Authority of Vietnam, AIP, Da Nang International (VVDN)
+- Accessed: 20 Oct 2026
+- Supports: Aerodrome name Da Nang International. Identifier VVDN. The AIP places it 3.2 km southwest of the city. IATA designator DAD appears on the instrument landing system.
+
+### S14
+- URL: https://danang.gov.vn/vi/w/he-thong-duong-hang-khong-thanh-pho-da-nang-i
+- Publisher: Da Nang city portal, aviation page
+- Accessed: 20 Oct 2026
+- Supports: Da Nang International Airport, a branch of Airports Corporation of Vietnam. This page says the airport is in Hai Chau, 1 km east of the center, which does not match S13. It is the main central-coast airport and a stop between Hanoi and Ho Chi Minh City.
+
+### S15
+- URL: https://www.vietnamairlines.com/vn/en/plan-book/travel/travel-guide/da-nang-airport-to-city
+- Publisher: Vietnam Airlines
+- Accessed: 20 Oct 2026
+- Supports: About 3 km from the center, about 10–15 minutes by car. Domestic terminal and international terminal.
+
+### S16
+- URL: https://giotaugiave.dsvn.vn/Default.aspx
+- Publisher: Vietnam Railways, timetable
+- Accessed: 20 Oct 2026
+- Supports: North–south trains stop at Ga Đà Nẵng. On the published SE board, Hue to Da Nang is on the order of three hours (for example SE3 leaves Hue 07:55 and reaches Da Nang 10:43). The exact train and the clock time change. Do not treat one pair of times as the only service.
+
+### S17
+- URL: https://diff.vn/en/
+- Publisher: DIFF, the festival site
+- Accessed: 20 Oct 2026
+- Supports: 2026 nights on the Han River: 30 May, 6 Jun, 13 Jun, 20 Jun, 27 Jun, and the finale 11 Jul. Theme “United Horizons.” Ten teams.
+
+### S18
+- URL: https://vietnam.travel/things-to-do/festival-event/da-nang-international-fireworks-festival-diff-2026
+- Publisher: Vietnam National Administration of Tourism
+- Accessed: 20 Oct 2026
+- Supports: Same 2026 span, 30 May–11 Jul, six competition nights, Han River.
+
+### S19
+- URL: https://vietnam.travel/things-to-do/foodie-guide-da-nang
+- Publisher: Vietnam National Administration of Tourism
+- Accessed: 20 Oct 2026
+- Supports: What the dishes are: bun cha ca (fish cake, light broth), mi Quang (rice noodles, a shallow peanut broth, herbs, rice cracker), central banh xeo, seafood, che, coffee. Shop names on that page are source clues only. Do not publish them as picks.
+
+### S20
+- URL: https://www.tourismdanang.vn/cam-nang/an-gi-khi-den-da-nang/
+- Publisher: Da Nang tourism handbook page
+- Accessed: 20 Oct 2026
+- Supports: Mi Quang is the dish visitors are pointed to, eaten at more than one meal. Also pork rolled in rice paper, and seafood plates from the coast, including fish salad associated with Nam O. No stall price.
+
+### S21
+- URL: https://www.vietnam.travel/vi/things-to-do/da-nang-eat-play-relax-your-ultimate-coastal-escape
+- Publisher: Vietnam Tourism
+- Accessed: 20 Oct 2026
+- Supports: Cho Con on Ong Ich Khiem and Cho Han by the Han River swing bridge as the market areas. Seafood along Vo Nguyen Giap and the Son Tra shore. Mi Quang comes with peanuts and a toasted rice cracker. Pork in rice paper with herbs. Nam O fish salad.
+
+### S22
+- URL: https://chualinhung.vn/gioi-thieu-tieng-anh.html
+- Publisher: Linh Ung Pagoda
+- Accessed: 20 Oct 2026
+- Supports: The pagoda places itself at Bai But, about 10 km northeast of the center. Construction from 2004, opened 30 Jul 2010. Statue height 67 m. No fee stated. Ignore the pagoda’s UNESCO-tallest claim; S11 is the city wording.

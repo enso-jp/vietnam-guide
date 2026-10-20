@@ -6,7 +6,7 @@ Corridor copy lives in `src/content/corridors/central-coast.json`. Places: Hue, 
 
 ## Setup research
 
-Store a dossier in `research/<slug>/` before any Graphic and Copy pass. None are stored yet.
+Store a dossier in `research/<slug>/` before any Graphic and Copy pass. `da-nang` is stored. The others are not.
 
 1. `hue`
 2. `da-nang`
@@ -36,3 +36,4 @@ Store a dossier in `research/<slug>/` before any Graphic and Copy pass. None are
 - 19 Oct 2026 — Queue opened from the current JSON. No new public facts.
 - 19 Oct 2026 — Da Nang city setup. Cham Museum and Son Tra fees left as check on arrival. Fireworks dates not fixed. Side trip placeholders: Lang Co, Cham Islands.
 - 19 Oct 2026 — Da Nang rewrite. Banner replaced (the old file was a marine photograph). Added Dragon Bridge and Ba Na Hills. Ba Na fee and the bridge’s fire show are check on arrival. Food guide expanded around markets, not named stalls.
+- 20 Oct 2026 — Da Nang dossier stored in `research/da-nang/`. Copy pass used it. Cham Museum 60,000 VND (Resolution 47/2026). Marble Mountains Thuy Son 40,000 VND. Ba Na basic adult ticket 1,000,000 VND. DIFF 2026 nights recorded. Next year’s fireworks dates, the Cham door time, and the dragon-show length stay open.
