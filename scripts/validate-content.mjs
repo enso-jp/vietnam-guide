@@ -54,6 +54,18 @@ for (const place of places) {
 if (!guides.has('e-visa') || !guides.has('when-to-go')) errors.push('Core practical guides missing');
 for (const guide of foodGuides) {
   if (dishes.has(guide.slug)) errors.push(`food guide slug collides with a dish: ${guide.slug}`);
+  for (const slug of guide.dishSlugs || []) {
+    if (!dishes.has(slug)) errors.push(`${guide.slug} dish ${slug} missing`);
+  }
+  for (const section of guide.sections || []) {
+    for (const slug of section.dishSlugs || []) {
+      if (!dishes.has(slug)) errors.push(`${guide.slug} section ${section.id} dish ${slug} missing`);
+    }
+    for (const spot of section.spots || []) {
+      if (!spot.name || !spot.note) errors.push(`${guide.slug} spot is missing a name or note`);
+      if (spot.dishSlug && !dishes.has(spot.dishSlug)) errors.push(`${guide.slug} spot ${spot.name} dish ${spot.dishSlug} missing`);
+    }
+  }
 }
 for (const place of places) {
   if (dishes.has(place.slug)) errors.push(`place slug collides with a dish: ${place.slug}`);

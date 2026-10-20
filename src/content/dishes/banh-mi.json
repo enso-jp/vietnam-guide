@@ -3,13 +3,13 @@
   "name": "Banh mi",
   "nameVi": "Bánh mì",
   "summary": "Banh mi is a light baguette with pâté, mayonnaise, pickles, herbs, and usually a protein. The bread should crackle. The filling should not be only meat.",
-  "origin": "A colonial-era loaf adapted across the country. Hoi An’s versions are famous; every city has a morning stall.",
+  "origin": "A colonial-era loaf adapted across the country. Hoi An’s versions are famous; every city has a morning stall. In Da Nang it is the breakfast you eat standing up, on the way to the beach or the Hoi An road.",
   "howToEat": [
     "Eat it the morning it is baked. Point at the fillings if the stall has several.",
     "A stall with a queue of office workers is a better sign than a picture menu in five languages."
   ],
   "priceBand": "One of the cheapest full meals in the country.",
-  "placeSlugs": ["hanoi", "hoi-an", "ho-chi-minh-city"],
+  "placeSlugs": ["hanoi", "hoi-an", "ho-chi-minh-city", "da-nang"],
   "seoTitle": "Banh mi — what to order",
   "seoDescription": "What goes in a banh mi, and how to pick a stall."
 }
