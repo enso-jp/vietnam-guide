@@ -1,0 +1,124 @@
+{
+  "slug": "dak-nong",
+  "name": "Dak Nong",
+  "nameVi": "Đắk Nông",
+  "kind": "area",
+  "corridor": "highlands-coast",
+  "province": "Dak Nong",
+  "provinceNote": "National Assembly Resolution 202/2025/QH15 merged Dak Nong, Binh Thuan, and former Lam Dong into a new Lam Dong province from 12 Jun 2025, with the administrative center at Da Lat. Visitor sites still print Dak Nong on their pages.",
+  "lat": 12.011,
+  "lng": 107.679,
+  "dots": 4,
+  "dotReason": "Worth a geopark loop from the highlands",
+  "summary": "Dak Nong is a UNESCO Global Geopark province of reservoirs, basalt waterfalls, and Krong No lava tubes. Sleep in Gia Nghia and give Ta Dung a day for the island lake, then decide whether Krong No’s Dray Sap and lawful cave visits are worth the long drives. There is no airport here; Buon Ma Thuot is the usual flight, then a bus toward Gia Nghia. Gate prices and minutes stay check on arrival except where a provincial page prints them.",
+  "timeNeeded": "2 to 3 days",
+  "fee": "Park listings vary; many boat and cave fees are separate",
+  "getThere": "Fly to Buon Ma Thuot, bus to Gia Nghia, or road from Ho Chi Minh City on QL14",
+  "bestMonths": "January to April for drier roads; May to October for fuller falls",
+  "verified": "21 Oct 2026",
+  "interests": {
+    "mountains": 5,
+    "caves": 4,
+    "photography": 4,
+    "coffee": 3,
+    "markets": 3
+  },
+  "cover": "highlands",
+  "nearby": [
+    "da-lat"
+  ],
+  "routeSlugs": [],
+  "itinerarySlugs": [
+    "dak-nong-two-days"
+  ],
+  "seoTitle": "Dak Nong travel guide — geopark lakes and lava caves",
+  "seoDescription": "Ta Dung’s island lake, Krong No waterfalls, and UNESCO geopark caves from Gia Nghia. Fly to Buon Ma Thuot, bus onward, and check gate fees on arrival.",
+  "intro": [
+    "You come for red basalt and water. Ta Dung reservoir spreads below Dak Glong with dozens of wooded islands, and provincial pages call it the plateau’s answer to Ha Long Bay. That is the photograph worth a night in Dak Som or a dawn drive from Gia Nghia. Krong No is the other half of the trip: Dray Sap’s wide white sheet on the Serepok and lava tubes such as C9 that authorities now open only with guides after self-entry bans.",
+    "Gia Nghia is the crossroads on highways 14 and 28, not a resort strip. Lieng Nung waterfall sits in a basalt cave vault a few kilometres out of town, and EXPLORASOUND on Dak Nur hill is the odd modern stop UNESCO names as Vietnam’s first sound museum. Buon Buor, far toward Cu Jut, is the Ede longhouse village the handbook treats as the cultural counterweight to the geology.",
+    "Stay if you will rent a car or a motorbike and accept long minutes between sights. Pair with Da Lat if Lien Khuong is your flight and Ta Dung is on the plan. Use Buon Ma Thuot if you are flying BMV and combining Serepok waterfalls on both sides of the provincial line. Do not book expecting a beach or a walking city; the geopark is the itinerary."
+  ],
+  "gettingAround": [
+    "Dak Nong has no commercial airport. The provincial handbook puts Gia Nghia about 125 km from Buon Ma Thuot and about 250 km from Ho Chi Minh City, and names Buon Ma Thuot as the air gateway. A bus-aggregator route lists about 120 km and about two hours between Buon Ma Thuot airport and Gia Nghia on one limousine service — check the day you travel. Ta Dung is about 45 km southeast of Gia Nghia on QL28. Dray Sap is about 110 km away in Krong No. Lien Khuong near Da Lat is an alternate flight if you are linking the lake with the hills; road minutes to Ta Dung from Da Lat are check on arrival. Grab in Gia Nghia and cave permits are check on arrival."
+  ],
+  "stayAreas": [
+    {
+      "name": "Gia Nghia",
+      "summary": "Town hotels on the highway crossroads for Lieng Nung, museums, and long drives to Krong No.",
+      "band": "Hotels and guesthouses",
+      "photo": "dak-nong"
+    },
+    {
+      "name": "Ta Dung lakeshore",
+      "summary": "Eco lodges and homestays in Dak Som when the boat morning matters more than town convenience.",
+      "band": "Lodges and homestays"
+    }
+  ],
+  "eat": [
+    "Com lam with grilled river fish is the festival meal provincial pages repeat. Catfish from the Serepok is the named specialty along Krong No and Cu Jut. Ruou can appears at ceremonies, not as a pub crawl. Coffee is everywhere on basalt farms — link the shared coffee dish page rather than inventing a roast profile."
+  ],
+  "dishSlugs": [
+    "ca-phe"
+  ],
+  "interestsBody": [
+    "Ta Dung is the island lake and the cool air. Plan a boat when the pier schedule allows; gate and boat fees are check on arrival even when a park page prints free entry.",
+    "Krong No is waterfalls and lawful cave visits only. Do not enter volcanic tubes without an authorized guide; district authorities banned self-guided entry after cave accidents.",
+    "Sound and stone — EXPLORASOUND and the Dak Kar lithophone hall — are short Gia Nghia stops between long drives.",
+    "No nightlife card. Evenings are town dinner or lodge quiet after the road."
+  ],
+  "interestCards": [
+    {
+      "title": "Ta Dung islands",
+      "summary": "The reservoir boat day in Dak Glong.",
+      "attractionSlug": "ta-dung-lake",
+      "photo": "dak-nong",
+      "icon": "view"
+    },
+    {
+      "title": "Serepok waterfalls",
+      "summary": "Dray Sap’s wide cascade in Krong No.",
+      "attractionSlug": "dray-sap",
+      "photo": "dak-nong-dray-sap",
+      "icon": "view"
+    },
+    {
+      "title": "Lawful lava caves",
+      "summary": "Permitted tubes such as C9 — not self-guided C7.",
+      "attractionSlug": "volcanic-cave-c9",
+      "photo": "dak-nong",
+      "icon": "view"
+    },
+    {
+      "title": "Sound and stone",
+      "summary": "EXPLORASOUND and the Dak Kar lithophones in Gia Nghia.",
+      "attractionSlug": "explorasound",
+      "photo": "dak-nong",
+      "icon": "museum"
+    },
+    {
+      "title": "Cool hills pairing",
+      "summary": "Da Lat for temperature and flights at Lien Khuong.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat",
+      "icon": "view"
+    }
+  ],
+  "season": {
+    "label": "Dry start, wet falls",
+    "note": "The provincial handbook favors January through early April after the rains, with coffee blossom in March and golden shower trees in May–June. UNESCO notes May–October as wet season when waterfalls run fuller. Storm road closures are check on arrival."
+  },
+  "faqs": [
+    {
+      "q": "Should you fly into Dak Nong?",
+      "a": "No airport serves the province. Fly to Buon Ma Thuot in Dak Lak and take a bus or car toward Gia Nghia, or fly to Lien Khuong near Da Lat if Ta Dung and the hills are one trip. Handbook distance to Buon Ma Thuot is about 125 km; minutes and fares are check on arrival."
+    },
+    {
+      "q": "Can you walk into the volcanic caves on your own?",
+      "a": "No. Krong No authorities banned self-guided entry to the lava-tube system after fatalities. Visit only with licensed operators at permitted caves such as C9. C7 and other tubes are not open for casual tourism."
+    },
+    {
+      "q": "How many days does the geopark need?",
+      "a": "Two days cover Gia Nghia with Lieng Nung and a Ta Dung boat day. Add a third if Dray Sap and Krong No caves are non-negotiable, because those legs are long from town."
+    }
+  ]
+}

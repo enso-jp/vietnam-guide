@@ -1,0 +1,45 @@
+{
+  "slug": "dak-nong-two-days",
+  "title": "Dak Nong geopark in two days",
+  "kind": "trip",
+  "level": "day",
+  "duration": "2 days",
+  "spanDays": 2,
+  "placeSlug": "dak-nong",
+  "budget": "Check on arrival",
+  "pace": "Road-based",
+  "photo": "dak-nong-ta-dung-lake",
+  "summary": "Day one: Lieng Nung and Gia Nghia museums. Day two: Ta Dung boat and islands. Krong No waterfalls need a third day.",
+  "stops": [
+    {
+      "name": "Lieng Nung Waterfall",
+      "minutes": 60,
+      "placeSlug": "dak-nong",
+      "attractionSlug": "lieng-nung-waterfall",
+      "note": "Morning from Gia Nghia. Basalt cave vault."
+    },
+    {
+      "name": "Dak Kar lithophones",
+      "minutes": 45,
+      "placeSlug": "dak-nong",
+      "attractionSlug": "dak-kar-lithophone",
+      "note": "Same QL28 corridor as Lieng Nung."
+    },
+    {
+      "name": "EXPLORASOUND",
+      "minutes": 60,
+      "placeSlug": "dak-nong",
+      "attractionSlug": "explorasound",
+      "note": "Afternoon on Dak Nur hill."
+    },
+    {
+      "name": "Ta Dung Lake",
+      "minutes": 240,
+      "placeSlug": "dak-nong",
+      "attractionSlug": "ta-dung-lake",
+      "note": "Day two. Drive about 45 km from Gia Nghia. Boat fee check on arrival."
+    }
+  ],
+  "seoTitle": "Dak Nong in two days",
+  "seoDescription": "A two-day Gia Nghia and Ta Dung plan: Lieng Nung, lithophones, EXPLORASOUND, then the island lake boat day."
+}
