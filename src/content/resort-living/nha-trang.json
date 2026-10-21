@@ -1,0 +1,36 @@
+{
+  "slug": "nha-trang",
+  "placeSlug": "nha-trang",
+  "name": "Nha Trang resort living",
+  "summary": "Tran Phu city sand, Hon Tre island resorts, and Ninh Van Bay villas across the water.",
+  "body": [
+    "The municipal beach is hotel row on Tran Phu. Hon Tre is a cable-car island with Vinpearl’s resort cluster. Ninh Van Bay is a boat transfer from town.",
+    "Names come from operator sites. Island resorts budget extra time for the boat or car from Cam Ranh airport."
+  ],
+  "properties": [
+    {
+      "name": "Vinpearl Resort Nha Trang",
+      "summary": "Hon Tre island resort with private beaches and the VinWonders park.",
+      "photo": "resort-nha-trang-vinpearl",
+      "sources": [
+        {
+          "label": "Vinpearl hotel page",
+          "url": "https://vinpearl.com/en/hotels/vinpearl-resort-nha-trang"
+        }
+      ]
+    },
+    {
+      "name": "Six Senses Ninh Van Bay",
+      "summary": "Water-access villas in Ninh Van Bay, reached by boat from Nha Trang.",
+      "photo": "resort-nha-trang-six-senses",
+      "sources": [
+        {
+          "label": "Six Senses resort site",
+          "url": "https://www.sixsenses.com/en/hotels-resorts/asia-the-pacific/vietnam/ninh-van-bay/destination/"
+        }
+      ]
+    }
+  ],
+  "seoTitle": "Nha Trang luxury resorts — Vinpearl Hon Tre and Six Senses",
+  "seoDescription": "Sourced premium stays in Nha Trang: Vinpearl Resort on Hon Tre and Six Senses Ninh Van Bay."
+}

@@ -90,7 +90,30 @@ export interface InterestCard {
   photo?: string;
   icon?: string;
   /** `food` links this card to the city food guide page. */
-  to?: 'food';
+  to?: 'food' | 'resortLiving';
+}
+
+export interface ResortSource {
+  label: string;
+  url: string;
+}
+
+export interface ResortProperty {
+  name: string;
+  summary: string;
+  photo: string;
+  sources: ResortSource[];
+}
+
+export interface ResortShowcase {
+  slug: string;
+  placeSlug: string;
+  name: string;
+  summary: string;
+  body: string[];
+  properties: ResortProperty[];
+  seoTitle: string;
+  seoDescription: string;
 }
 
 export interface InterestGroup {

@@ -19,7 +19,8 @@
   "interests": {
     "beaches": 5,
     "photography": 3,
-    "family": 3
+    "family": 3,
+    "resortLiving": 4
   },
   "cover": "coast",
   "nearby": [
@@ -51,7 +52,24 @@
   ],
   "dishSlugs": [],
   "interestsBody": [
-    "Beach and dunes. Skip the dunes at noon. They are hot and the light is flat."
+    "Beach and dunes. Skip the dunes at noon. They are hot and the light is flat.",
+    "Resort living is the long Nguyen Dinh Chieu strip of wind, pools, and kitesurf schools."
+  ],
+  "interestCards": [
+    {
+      "title": "Resort Living",
+      "summary": "Pandanus and Asteria on the resort strip.",
+      "photo": "mui-ne-resort-living",
+      "icon": "bed",
+      "to": "resortLiving"
+    },
+    {
+      "title": "Beaches",
+      "summary": "The resort-facing sand and the windy afternoon.",
+      "attractionSlug": "red-dunes",
+      "photo": "mui-ne-red-dunes",
+      "icon": "beach"
+    }
   ],
   "faqs": [
     {

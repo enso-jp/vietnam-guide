@@ -20,7 +20,8 @@
     "beaches": 5,
     "islands": 3,
     "family": 3,
-    "food": 3
+    "food": 3,
+    "resortLiving": 4
   },
   "cover": "coast",
   "nearby": [
@@ -52,7 +53,24 @@
   ],
   "dishSlugs": [],
   "interestsBody": [
-    "Beach first. Add an island or the Cham towers, then move on if you are collecting cities."
+    "Beach first. Add an island or the Cham towers, then move on if you are collecting cities.",
+    "Resort living is Hon Tre island hotels and the boat-transfer villas in Ninh Van Bay."
+  ],
+  "interestCards": [
+    {
+      "title": "Resort Living",
+      "summary": "Vinpearl on Hon Tre and Six Senses Ninh Van Bay.",
+      "photo": "nha-trang-resort-living",
+      "icon": "bed",
+      "to": "resortLiving"
+    },
+    {
+      "title": "Beaches",
+      "summary": "Tran Phu sand in front of the hotel row.",
+      "attractionSlug": "beach",
+      "photo": "nha-trang-beach",
+      "icon": "beach"
+    }
   ],
   "faqs": [
     {

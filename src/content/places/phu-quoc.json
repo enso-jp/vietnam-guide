@@ -20,7 +20,8 @@
     "beaches": 5,
     "islands": 5,
     "food": 3,
-    "family": 4
+    "family": 4,
+    "resortLiving": 5
   },
   "cover": "coast",
   "nearby": [
@@ -59,7 +60,24 @@
   ],
   "dishSlugs": [],
   "interestsBody": [
-    "Beaches and a slow end to a Vietnam trip. It does not replace the Mekong. Do not schedule both on the same day."
+    "Beaches and a slow end to a Vietnam trip. It does not replace the Mekong. Do not schedule both on the same day.",
+    "Resort living is the west-coast sunset strip and the southern cape villas. The showcase names properties from their operator sites only."
+  ],
+  "interestCards": [
+    {
+      "title": "Resort Living",
+      "summary": "JW Marriott on Bai Khem and Premier Village on Ong Doi Cape.",
+      "photo": "phu-quoc-resort-living",
+      "icon": "bed",
+      "to": "resortLiving"
+    },
+    {
+      "title": "Beaches",
+      "summary": "Long Beach resorts and quieter sand toward Sao.",
+      "attractionSlug": "long-beach",
+      "photo": "phu-quoc-long-beach",
+      "icon": "beach"
+    }
   ],
   "faqs": [
     {

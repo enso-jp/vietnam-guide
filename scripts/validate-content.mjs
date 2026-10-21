@@ -15,6 +15,9 @@ const places = readDir('src/content/places');
 const attractions = readDir('src/content/attractions');
 const festivals = readDir('src/content/festivals');
 const guideRecords = readDir('src/content/guides');
+const resortDir = 'src/content/resort-living';
+const resortRecords = existsSync(resortDir) ? readDir(resortDir) : [];
+const resortSlugs = new Set(resortRecords.map((item) => item.slug));
 const corridors = new Set(readDir('src/content/corridors').map((item) => item.slug));
 const routes = new Set(readDir('src/content/routes').map((item) => item.slug));
 const dishes = new Set(readDir('src/content/dishes').map((item) => item.slug));
@@ -47,7 +50,9 @@ for (const place of places) {
   if (!place.intro?.length) errors.push(`${place.slug} intro missing`);
   const checkInterestCard = (card) => {
     if (!card.title || !card.summary) errors.push(`${place.slug} interest card is missing a title or summary`);
-    if (!card.attractionSlug && !card.dishSlug && !card.placeSlug && card.to !== 'food') errors.push(`${place.slug} interest card ${card.title || ''} has no link`);
+    if (!card.attractionSlug && !card.dishSlug && !card.placeSlug && card.to !== 'food' && card.to !== 'resortLiving') {
+      errors.push(`${place.slug} interest card ${card.title || ''} has no link`);
+    }
     if (card.attractionSlug && !attractions.some((item) => item.slug === card.attractionSlug && item.placeSlug === place.slug)) {
       errors.push(`${place.slug} interest card attraction ${card.attractionSlug} missing`);
     }
@@ -127,6 +132,27 @@ for (const festival of festivals) {
 }
 for (const guide of guideRecords) {
   if (!['tip', 'travel', 'tax', 'living'].includes(guide.block)) errors.push(`${guide.slug} block missing`);
+}
+const resortPlaces = new Set(['phu-quoc', 'nha-trang', 'mui-ne', 'da-nang', 'hoi-an', 'ha-long']);
+for (const showcase of resortRecords) {
+  if (!resortPlaces.has(showcase.slug)) errors.push(`resort-living ${showcase.slug} is not an allowed leisure place`);
+  if (showcase.slug !== showcase.placeSlug) errors.push(`resort-living ${showcase.slug} placeSlug mismatch`);
+  if (!showcase.summary || !showcase.seoTitle || !showcase.seoDescription) errors.push(`resort-living ${showcase.slug} summary or SEO missing`);
+  if (!Array.isArray(showcase.body) || showcase.body.length < 1) errors.push(`resort-living ${showcase.slug} body missing`);
+  if (!Array.isArray(showcase.properties) || showcase.properties.length < 1) errors.push(`resort-living ${showcase.slug} has no properties`);
+  for (const property of showcase.properties || []) {
+    if (!property.name || !property.summary || !property.photo) errors.push(`resort-living ${showcase.slug} property incomplete`);
+    if (!existsSync(join('public', 'photos', `${property.photo}.jpg`))) errors.push(`resort-living ${showcase.slug} photo ${property.photo} missing`);
+    if (!Array.isArray(property.sources) || property.sources.length < 1) errors.push(`resort-living ${showcase.slug} property ${property.name || ''} needs a source`);
+    for (const source of property.sources || []) {
+      if (!source.label || !/^https:\/\//.test(source.url || '')) errors.push(`resort-living ${showcase.slug} source needs label and https URL`);
+    }
+  }
+}
+for (const slug of resortPlaces) {
+  if (!resortSlugs.has(slug)) errors.push(`resort-living ${slug} showcase missing`);
+  const place = places.find((item) => item.slug === slug);
+  if (place && (place.interests?.resortLiving ?? 0) < 3) errors.push(`${slug} resortLiving weight missing`);
 }
 
 const placeSlugs = new Set(places.map((place) => place.slug));

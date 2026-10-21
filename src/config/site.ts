@@ -23,6 +23,7 @@ export type TabId = (typeof tabs)[number]['id'];
 export const interestPublicSlug: Record<string, string> = {
   oldTowns: 'old-towns',
   warHistory: 'war-history',
+  resortLiving: 'resort-living',
 };
 
 export function interestHref(key: string): string {
@@ -52,6 +53,7 @@ export const interestLabels: Record<string, string> = {
   family: 'Family',
   photography: 'Photography',
   motorbike: 'Motorbike',
+  resortLiving: 'Resort Living',
 };
 
 export const dotLabel: Record<number, string> = {
@@ -75,4 +77,5 @@ export const reservedSlugs = new Set([
   'about',
   'search',
   'admin',
+  'resort-living',
 ]);

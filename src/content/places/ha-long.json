@@ -20,7 +20,8 @@
     "caves": 4,
     "photography": 5,
     "islands": 4,
-    "family": 3
+    "family": 3,
+    "resortLiving": 4
   },
   "cover": "karst",
   "nearby": [
@@ -62,7 +63,24 @@
   ],
   "dishSlugs": [],
   "interestsBody": [
-    "Visit for the karst seascape and photography. It is not a food town and not a swimming holiday in the cooler months."
+    "Visit for the karst seascape and photography. It is not a food town and not a swimming holiday in the cooler months.",
+    "Resort living is the overnight boat cabin and Bai Chay harbor hotels before an early sailing."
+  ],
+  "interestCards": [
+    {
+      "title": "Resort Living",
+      "summary": "Paradise Elegance overnight cruise from Tuan Chau Marina.",
+      "photo": "ha-long-resort-living",
+      "icon": "bed",
+      "to": "resortLiving"
+    },
+    {
+      "title": "Caves",
+      "summary": "Sung Sot and the day-boat stops in the bay.",
+      "attractionSlug": "sung-sot",
+      "photo": "ha-long-sung-sot",
+      "icon": "view"
+    }
   ],
   "faqs": [
     {
