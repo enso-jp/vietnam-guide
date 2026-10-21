@@ -233,4 +233,56 @@ Still open: a clock for Tạ Hiện; any named venue with its own primary URL; L
 
 ## Lifestyle
 
-The ordinary day is the researchLifestyle lane. No lifestyle entries in this pass.
+There is no swim. The morning is a lake path, not a beach. Sources checked for a quiet hour do not name one.
+
+### Morning at the lake
+- Vietnamese name: Hồ Hoàn Kiếm, buổi sáng
+- Kind: lifestyle
+- What a day here actually is: The first move is the lake, not a lane. Vietnam Tourism says every morning the lake is walkers, aerobics, and a laughing-yoga group, and that it fills again at sunset (S8). The quarter’s hero is still the tube-house street. This frame is the lake.
+- When: Morning, and again at sunset (S8). No clock.
+- Area: The lake, south of the grid
+- Suggested slug: lake-morning
+- Photo must show: the path and the water with people walking, one frame. Not an empty sky and not a tube-house lane.
+- Sources: S8
+
+### Breakfast in the lanes
+- Vietnamese name: Phở, sáng
+- Kind: lifestyle
+- What a day here actually is: After the lake, or instead of it, a bowl of phở at a sidewalk kitchen. The pho story calls it Hanoi’s breakfast and puts shoulder-pole kitchens in the Old Quarter by the 1930s; the stalls are up from the early hours (S24). The place page puts those pots on Old Quarter corners (S8). The shop names stay in food.md.
+- When: Breakfast (S24)
+- Area: Sidewalks in the grid
+- Suggested slug: lane-breakfast
+- Photo must show: a sidewalk breakfast with the lane still readable, steam and a shopfront, subject through the center
+- Sources: S24, S8
+
+### The daytime walk
+- Vietnamese name: Dạo phố cổ
+- Kind: lifestyle
+- What a day here actually is: Walk the guild streets. Vietnam Tourism calls it a stroll through incense, shopfronts, and street kitchens, and offers a cyclo as one way through (S8). Bạch Mã, 87 Mã Mây, and 22 Hàng Buồm are the indoor stops on that walk. No page opened here names an hour when the motorbikes thin out.
+- When: Daytime. A “before the traffic” hour is Check on arrival — UNSOURCED
+- Area: The grid
+- Suggested slug: daytime-walk
+- Photo must show: the same hero as Why a night here, in daylight
+- Sources: S8
+
+### The coffee sit
+- Vietnamese name: Cà phê
+- Kind: lifestyle
+- What a day here actually is: A slow cup, not a second sightseeing block. Vietnam Tourism says Hanoi’s pace shows up in leisurely coffee hours, in old coffee houses and in newer rooms (S8). The Hanoi cup on the dishes page is cà phê trứng (S23). That page’s example alley is off Nguyễn Hữu Huân, which this pass did not prove is inside the quarter. No cafe street inside the grid is named on S8.
+- When: The dishes page puts egg coffee at the end of a meal (S23). S8 does not name an hour.
+- Area: Check on arrival for which lane. The habit is Hanoi’s; the door is not pinned.
+- Suggested slug: coffee-sit
+- Photo must show: a small metal phin or an egg-foam cup on a low table, with a street or a room still in the frame. A cup filling the frame, with no place, fails.
+- Sources: S8, S23
+
+### The quiet hour
+- Vietnamese name: 
+- Kind: lifestyle
+- What a day here actually is: Not found. Tạ Hiện’s page says the street is crowded every evening, especially at the weekend, and does not say when it empties (S27). The lake walking space on its own page runs until 24:00 Sunday and does not describe the hour after (S28). S8 puts people on the lake at sunset and does not say when they leave.
+- When: Check on arrival — UNSOURCED
+- Area: The grid
+- Suggested slug: quiet-hour
+- Photo must show: do not invent a frame. No source names the hour.
+- Sources: S27, S28, S8
+
+A swim: None recorded. The pages that describe a day here describe the lake path and the lanes, not a beach (S8).
