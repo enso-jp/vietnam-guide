@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T05:12:35.522Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T05:12:35.522Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,19 +45,19 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T05:12:35.522Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T05:12:35.522Z",
       "reworkCount": 0
     },
     "researchBase": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "First pass. Scene and getting there are in the dossier. Still open: car minutes from the airport and from Ga Da Nang, bus 02 fare and ride time, An Bang's 2025 ward, whether the 2024 Phan Chau Trinh afternoon hours started, the 2004 pedestrian street list, bridge date disagreement, no current bar pin. Sights, food streets, nightlife, lifestyle, events, and side trips remain other lanes.",
+      "updated": "2026-10-21T05:12:35.522Z",
       "reworkCount": 0
     },
     "researchAttractions": {
@@ -104,8 +104,8 @@
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "note": "Published shell. researchBase 21 Oct 2026 records An Bang as a beach sleep area: villa and homestay lodging, Cam An ward in June 2024, Cua Dai erosion is serious. Ride time Check on arrival. Sight entry still belongs to researchAttractions.",
+      "updated": "2026-10-21T05:12:35.522Z",
       "reworkCount": 0
     },
     {
@@ -121,7 +121,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "updated": "2026-10-21T05:12:35.522Z",
       "reworkCount": 0
     },
     {
@@ -137,7 +137,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "updated": "2026-10-21T05:12:35.522Z",
       "reworkCount": 0
     },
     {
@@ -235,16 +235,50 @@
       "note": "Named in Central Coast coverage on 19 Oct 2026. No dish file yet. Source it in the Hoi An dossier before the food stage publishes it.",
       "updated": null,
       "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--ancient-town-evening",
+      "kind": "nightlife",
+      "track": "unit",
+      "name": "Ancient town evening streets",
+      "slug": "ancient-town-evening",
+      "file": null,
+      "source": "dossier",
+      "research": "not_started",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "researchBase 21 Oct 2026. Bach Dang, Tran Phu, and Nguyen Thai Hoc are the crowded evening streets; Phan Chau Trinh is the 2023 pedestrian extension. Nightlife lane still owes the entry. No bar pin.",
+      "updated": "2026-10-21T05:12:35.523Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--tan-thanh-market",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Tan Thanh fishing-village market",
+      "slug": "tan-thanh-market",
+      "file": null,
+      "source": "dossier",
+      "research": "not_started",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Named 19 Jun 2024 as a Saturday-Sunday market at Tan Thanh, then Cam An. researchFood still owes the entry. Do not publish a stall list.",
+      "updated": "2026-10-21T05:12:35.523Z",
+      "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "hoi-an",
-    "stage": "researchBase",
-    "item": null,
-    "at": "2026-10-21T05:06:19.469Z",
-    "by": "hourly",
-    "branch": ""
-  },
-  "log": []
+  "claim": null,
+  "log": [
+    {
+      "at": "2026-10-21T05:12:35.523Z",
+      "place": "hoi-an",
+      "stage": "researchBase",
+      "item": null,
+      "status": "needs_depth",
+      "note": "First pass. Scene and getting there are in the dossier. Still open: car minutes from the airport and from Ga Da Nang, bus 02 fare and ride time, An Bang's 2025 ward, whether the 2024 Phan Chau Trinh afternoon hours started, the 2004 pedestrian street list, bridge date disagreement, no current bar pin. Sights, food streets, nightlife, lifestyle, events, and side trips remain other lanes."
+    }
+  ]
 }
