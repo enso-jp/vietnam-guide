@@ -25,5 +25,24 @@ for (const file of files) {
   }
 }
 
+const sitemapFile = 'dist/sitemap.xml';
+if (!existsSync(sitemapFile)) {
+  console.error(`Missing ${sitemapFile}`);
+  failed = true;
+} else {
+  const xml = readFileSync(sitemapFile, 'utf8');
+  const head = xml.trimStart().slice(0, 80).toLowerCase();
+  const urls = xml.match(/<loc>/g)?.length ?? 0;
+  console.log(`${sitemapFile}: ${urls} URLs`);
+  if (!head.startsWith('<?xml') || !xml.includes('<urlset') || head.startsWith('<!doctype') || head.startsWith('<html')) {
+    console.error(`${sitemapFile} is not an XML urlset`);
+    failed = true;
+  }
+  if (xml.includes('http://vietnam-travelguide.com')) {
+    console.error(`${sitemapFile} uses the http host`);
+    failed = true;
+  }
+}
+
 if (failed) process.exit(1);
 console.log('Budget ok.');
