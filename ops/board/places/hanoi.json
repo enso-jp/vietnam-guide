@@ -14,8 +14,8 @@
     "foodStreets": "partial",
     "nightlife": "partial",
     "lifestyle": "partial",
-    "events": "missing",
-    "sideTrips": "missing"
+    "events": "partial",
+    "sideTrips": "partial"
   },
   "stages": {
     "destination": {
@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:32:49.052Z",
+      "updated": "2026-10-21T08:33:54.221Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:32:49.052Z",
+      "updated": "2026-10-21T08:33:54.221Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,13 +45,13 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:32:49.052Z",
+      "updated": "2026-10-21T08:33:54.221Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:32:49.052Z",
+      "updated": "2026-10-21T08:33:54.221Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -85,9 +85,9 @@
       "reworkCount": 0
     },
     "researchContext": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "First pass has Tet only as the mausoleum exception and the bun thang leftover line, plus Ninh Binh, Ha Long, Perfume Pagoda, Mai Chau, and Ba Vi. Still open: a Tet flower street, a dated calendar, a Sapa duration, and Cat Ba’s minute. Left the neighbor dossiers unread.",
+      "updated": "2026-10-21T08:33:54.221Z",
       "reworkCount": 0
     }
   },
@@ -105,7 +105,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Lake walk sourced 21 Oct 2026. Temple door fee and the standing walking-zone clock are still Check on arrival. Dot stays 4.",
-      "updated": "2026-10-21T08:32:49.052Z",
+      "updated": "2026-10-21T08:33:54.221Z",
       "reworkCount": 0
     },
     {
@@ -121,7 +121,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Site hours and 70,000 VND ticket sourced 21 Oct 2026. Night price was not on the site. Dot stays 4.",
-      "updated": "2026-10-21T08:32:49.052Z",
+      "updated": "2026-10-21T08:33:54.221Z",
       "reworkCount": 0
     },
     {
@@ -137,7 +137,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Only the Giai Phong–Kham Thien stretch was sourced, from VTV 14 Apr 2026. The Phung Hung–Tran Phu stretch’s order did not load. No cafe is a pick. Dot stays 2.",
-      "updated": "2026-10-21T08:32:49.052Z",
+      "updated": "2026-10-21T08:33:54.221Z",
       "reworkCount": 0
     },
     {
@@ -153,7 +153,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": "2026-10-21T08:32:49.052Z",
+      "updated": "2026-10-21T08:33:54.221Z",
       "reworkCount": 0
     },
     {
@@ -228,12 +228,12 @@
       "slug": "tet",
       "file": "src/content/festivals/tet.json",
       "source": "published",
-      "research": "not_started",
+      "research": "needs_depth",
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Bundled into the destination stage.",
-      "updated": null,
+      "note": "Date moves. The mausoleum’s Tet-morning exception is sourced. A flower street and a 2026 calendar were not opened.",
+      "updated": "2026-10-21T08:33:54.139Z",
       "reworkCount": 0
     },
     {
@@ -249,7 +249,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Conservation centre fee from 1 Jan 2025 is 100,000 VND. Hours 08:00–17:00, last entry 16:45. UNESCO list page did not load.",
-      "updated": "2026-10-21T08:32:49.052Z",
+      "updated": "2026-10-21T08:33:54.221Z",
       "reworkCount": 0
     },
     {
@@ -265,7 +265,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Command visiting rule posted 14 Apr 2018. Ticket not on that page. 2026 closure notice did not load.",
-      "updated": "2026-10-21T08:32:49.052Z",
+      "updated": "2026-10-21T08:33:54.221Z",
       "reworkCount": 0
     },
     {
@@ -281,7 +281,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Tourism board only. The 25,000 VND line is not a second source. Fee stays Check on arrival.",
-      "updated": "2026-10-21T08:32:49.052Z",
+      "updated": "2026-10-21T08:33:54.221Z",
       "reworkCount": 0
     },
     {
@@ -297,7 +297,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the place page carries the Old Quarter. No separate attraction file.",
-      "updated": "2026-10-21T08:32:49.052Z",
+      "updated": "2026-10-21T08:33:54.221Z",
       "reworkCount": 0
     },
     {
@@ -313,7 +313,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the place page carries the French Quarter walk. Opera House hours were not confirmed.",
-      "updated": "2026-10-21T08:32:49.052Z",
+      "updated": "2026-10-21T08:33:54.221Z",
       "reworkCount": 0
     },
     {
@@ -425,7 +425,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the food guide carries Dong Xuan. Hours did not load. No separate page.",
-      "updated": "2026-10-21T08:32:49.052Z",
+      "updated": "2026-10-21T08:33:54.221Z",
       "reworkCount": 0
     },
     {
@@ -441,7 +441,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the food guide carries the weekend market. No stall is a pick.",
-      "updated": "2026-10-21T08:32:49.052Z",
+      "updated": "2026-10-21T08:33:54.221Z",
       "reworkCount": 0
     },
     {
@@ -457,7 +457,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the food guide carries Cha Ca street. No restaurant page.",
-      "updated": "2026-10-21T08:32:49.052Z",
+      "updated": "2026-10-21T08:33:54.221Z",
       "reworkCount": 0
     },
     {
@@ -473,7 +473,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the lake page carries this evening. No separate nightlife page.",
-      "updated": "2026-10-21T08:32:49.052Z",
+      "updated": "2026-10-21T08:33:54.221Z",
       "reworkCount": 0
     },
     {
@@ -489,7 +489,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: a corner inside the Old Quarter. Named bars are not picks.",
-      "updated": "2026-10-21T08:32:49.052Z",
+      "updated": "2026-10-21T08:33:54.221Z",
       "reworkCount": 0
     },
     {
@@ -505,7 +505,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the lake page carries the morning walk. No separate page.",
-      "updated": "2026-10-21T08:32:49.052Z",
+      "updated": "2026-10-21T08:33:54.221Z",
       "reworkCount": 0
     },
     {
@@ -521,20 +521,21 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the food guide carries breakfast. The quiet hour is still Check on arrival.",
-      "updated": "2026-10-21T08:32:49.052Z",
+      "updated": "2026-10-21T08:33:54.221Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "hanoi",
-    "stage": "researchContext",
-    "item": null,
-    "at": "2026-10-21T08:33:26.939Z",
-    "by": "hourly",
-    "branch": "cursor/content-hanoi-researchBase"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T08:33:54.222Z",
+      "place": "hanoi",
+      "stage": "researchContext",
+      "item": null,
+      "status": "needs_depth",
+      "note": "First pass has Tet only as the mausoleum exception and the bun thang leftover line, plus Ninh Binh, Ha Long, Perfume Pagoda, Mai Chau, and Ba Vi. Still open: a Tet flower street, a dated calendar, a Sapa duration, and Cat Ba’s minute. Left the neighbor dossiers unread."
+    },
     {
       "at": "2026-10-21T08:32:49.052Z",
       "place": "hanoi",

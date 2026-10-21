@@ -151,3 +151,15 @@ Accessed 21 Oct 2026 unless a line says the page has its own date.
 - Publisher: Vietnam National Authority of Tourism, vietnam.travel
 - Accessed: 21 Oct 2026
 - Supports: Egg coffee as a Hanoi morning drink, and the board’s account that whipped egg replaced fresh milk. The cafe name is not a pick. The page also prints a mausoleum closure “September 4 to November 4” and a last entry at 10:15. That closure was not on the mausoleum command page. Do not treat it as the 2026 notice.
+
+### S26
+- URL: https://vietnam.travel/things-to-do/5-hanoi-day-trips
+- Publisher: Vietnam National Authority of Tourism, vietnam.travel
+- Accessed: 21 Oct 2026
+- Supports: Mai Châu three and a half hours. Hạ Long “just two hours,” leave at dawn. Ba Vì an hour and a half. Ninh Bình two and a half hours southwest, with Tràng An, Hang Múa, Hoa Lư, and Tam Cốc. Perfume Pagoda two hours, by boat and steps. Tour operators named on the page are not picks. Sapa is not on this list.
+
+### S27
+- URL: https://vietnam.travel/things-to-do/7-great-ways-see-gulf-tonkin
+- Publisher: Vietnam National Authority of Tourism, vietnam.travel
+- Accessed: 21 Oct 2026
+- Supports: Hạ Long from Hanoi “under just two hours,” and a five-hour day cruise. Also an overnight of about 24 hours. Cát Bà is called a short drive, with no minute. These road lines disagree with the rounder “just two hours” on S26. Both stand. Cruise brands on the page are not picks.
