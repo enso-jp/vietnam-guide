@@ -9,7 +9,7 @@ description: >-
 
 # Graphic and copy
 
-One claimed stage per pass. Start only when every research lane is `stored` or `blocked`, `research/<slug>/STATUS.md` says `stored`, and the board stage is `destinationCopy`, `foodCopy`, or an item `copy`. Read `.cursor/skills/content-board/SKILL.md`. If any research lane is `needs_depth` or `not_started`, stop. If the stage is `stale` or `rework`, enrich again from the dossier. The new food streets, nightlife, and lifestyle belong in the prose.
+One claimed stage at a time. Start a copy stage only when every research lane is `stored` or `blocked`, `research/<slug>/STATUS.md` says `stored`, and the board stage is `destinationCopy`, `foodCopy`, or an item `copy`. Read `.cursor/skills/content-board/SKILL.md`. If any research lane is `needs_depth` or `not_started`, stop. If the stage is `stale` or `rework`, enrich again from the dossier. The new food streets, nightlife, and lifestyle belong in the prose. When the stage is complete, claim the next copy or quality stage for this same place.
 
 `destinationCopy` is the place prose and the place hero. `foodCopy` is the food guide and its dishes. An item `copy` is that attraction only. Follow `AGENTS.md` and `.cursor/skills/city-setup/SKILL.md` for the page shape.
 

@@ -17,13 +17,15 @@ The owner’s lane is separate. Do not edit `src/pages`, `src/layouts`, `src/com
 
 The hourly automation only dispatches. `node scripts/board.mjs next` prints up to `control.parallelUnits` places, one unit each. Skip slugs that already have an open `content:` pull request, and cap the limit at the free slots under `control.maxOpenContentPrs`.
 
-Start one cloud agent per printed unit. Do not research in the dispatcher chat, and do not walk the units one after another there. If cloud agents cannot be started, stop and leave the units unclaimed.
+Start one cloud agent per printed place. Do not research in the dispatcher chat, and do not walk the places one after another there. If cloud agents cannot be started, stop and leave the units unclaimed.
 
-A claim locks that place only. Another place can be claimed in the same hour. Two lanes of one place stay in order.
+A claim locks that place only. Another place can be claimed in the same hour. The worker for a place keeps claiming the next stage of that place until `next --place <slug> --skip-stage ...` says stop. Lanes stay in order.
 
-## One unit
+After the workers finish, open any missing draft. The title stays `content: <slug> <first stage>`. Later stages are more commits on that same pull request.
 
-One worker, one place, one stage. Do the unit you were assigned. The stage decides the skill and the files. Do not call `next` and switch to a different place.
+## One place
+
+One worker, one place, every stage that place still has open. Do one stage, complete it, then run `node scripts/board.mjs next --place <slug> --skip-stage <stages already done this run>`. Claim that next stage. Do not call a global `next` and switch places. The stage decides the skill and the files.
 
 | Stage | Skill | What this run may change |
 |---|---|---|
@@ -43,7 +45,7 @@ One worker, one place, one stage. Do the unit you were assigned. The stage decid
 | `copy` | graphic-copy | That attraction’s prose and photo. |
 | `quality` | this skill | Read that attraction. Do not rewrite it. |
 
-A city-setup checklist that mentions later stages is the end state of the place, not permission to do those stages now. Leave them on the board.
+A city-setup checklist that mentions later stages is the end state of the place, not permission to do those stages inside the current one. Finish the claimed stage, then claim the next stage for this same place.
 
 `publish: candidate` may be researched. It may not get a file under `src/content` until the owner sets `publish` to `accepted`.
 
@@ -51,11 +53,10 @@ A city-setup checklist that mentions later stages is the end state of the place,
 
 1. Update from `main`. If `ops/board/places/<slug>.json` conflicts, stop.
 2. `node scripts/board.mjs reconcile --place <slug>`
-3. `node scripts/board.mjs claim --place <slug> --stage <stage>` and, when the assignment has an item, `--item <id>`. Claim checks this place only. If it refuses, stop without a pull request. Do not run `next` and take a different place.
-4. Commit only `ops/board/places/<slug>.json`, push, and open a draft pull request titled `content: <slug> <stage>` before the long work. The open request is the lock the next hour can see.
-5. Do the stage.
-6. Update that place file with `complete` or `block`. `node scripts/board.mjs guard` must pass. Run `npm run check:content` when public JSON changed.
-7. Commit and push onto the same pull request.
+3. `node scripts/board.mjs next --place <slug>`, then `claim` that stage. Claim checks this place only. If it refuses, stop. Do not take a different place.
+4. Commit only `ops/board/places/<slug>.json`, push, and open a draft pull request titled `content: <slug> <stage>` before the long work. If you cannot open the pull request, push anyway and give the dispatcher the branch name.
+5. Do the stage. Update that place file with `complete` or `block`. `node scripts/board.mjs guard` must pass. Run `npm run check:content` when public JSON changed. Commit and push onto the same branch.
+6. Run `node scripts/board.mjs next --place <slug> --skip-stage <stages already completed this run>`. If it prints work, claim that stage and repeat. If it prints `place-clear`, stop. One pass per stage.
 
 If you cannot finish, `block` with the question, or `release --place <slug>` and close the draft so the next hour can retry. A merged place file must have `claim` set to `null`.
 
@@ -63,7 +64,8 @@ Do not write automation memories. The board is the only status.
 
 ## Commands
 
-- `next --limit 4 --skip hue,da-nang` — the places a dispatcher may start. Read-only. One unit per place.
+- `next --limit 4 --skip hue,da-nang` — the places a dispatcher may start. Read-only. One starting unit per place.
+- `next --place hue --skip-stage researchBase,researchFood` — the next stage for that place, ignoring stages this run already finished.
 - `claim --place <slug> --stage <stage>` — takes that place's next unit. Refuses a different one, and does not lock any other place.
 - `release --place <slug>` — drops that place's claim.
 - `complete --place <slug> --stage <stage> --status <status> --note "..."` — finishes it and clears that place's claim.

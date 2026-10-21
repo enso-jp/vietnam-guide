@@ -13,6 +13,6 @@ alwaysApply: false
 Read `.cursor/skills/content-board/SKILL.md` before a content pass.
 
 - `ops/board/` is the status. One file per place. Claim that place before editing, and update it before you finish.
-- One worker takes one place and one stage. Other places may run at the same time.
+- One worker takes one place and keeps going through that place's stages. Other places may run at the same time.
 - Do not edit page templates, layout, styles, or `src/lib/partners.ts` in a content run.
 - Do not set pause or `holdPlaces`. The owner does that.
