@@ -139,6 +139,30 @@
       ]
     },
     {
+      "title": "Shopping",
+      "summary": "Flowers and produce at the central market, and the strawberries the sight page names. This frame is the morning produce street.",
+      "blocks": [
+        {
+          "id": "market",
+          "heading": "Da Lat Market",
+          "nav": "The market",
+          "paragraphs": [
+            "The Vietnam Tourism Da Lat page says the stalls of the central market are packed with fresh flowers and colourful produce. The sight page adds strawberries in the sloping halls, and it says the door is free. Walk uphill from Xuan Huong Lake.",
+            "The address and the hours were not on the provincial market page when it was opened. Both are check on arrival. Stall prices are check on arrival. The night stalls the sight page puts after 18:00 are the food walk, not a second card here."
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "title": "Da Lat Market",
+          "summary": "Fresh flowers and colourful produce on the Vietnam Tourism page, and strawberries on the sight page. The door is free. The address and the hours are check on arrival.",
+          "attractionSlug": "market",
+          "photo": "da-lat-market-morning",
+          "block": "market"
+        }
+      ]
+    },
+    {
       "title": "Coffee hills",
       "summary": "Arabica on the Cau Dat hills, and a slow cup after the lake. The food guide names areas, not a shop to cross town for.",
       "body": [

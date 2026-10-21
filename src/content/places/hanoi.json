@@ -15,7 +15,7 @@
   "fee": "Walking the city is free",
   "getThere": "Noi Bai airport, then 45–75 minutes by taxi or bus",
   "bestMonths": "October to April",
-  "verified": "19 Oct 2026",
+  "verified": "21 Oct 2026",
   "interests": {
     "food": 5,
     "oldTowns": 4,
@@ -89,6 +89,45 @@
           "photo": "ca-phe",
           "icon": "food",
           "to": "food"
+        }
+      ]
+    },
+    {
+      "title": "Shopping",
+      "summary": "Silk and silver in the Old Quarter lanes, wholesale goods at Dong Xuan, and a shopping center on Hai Bà Trưng.",
+      "blocks": [
+        {
+          "id": "quarter",
+          "heading": "The lanes and Dong Xuan",
+          "nav": "Old Quarter",
+          "paragraphs": [
+            "The Old Quarter sits on land that was once a cluster of artisan streets outside the citadel. Shop signs still hint at silver, silk, and herbal medicine, even where the ground floors now sell luggage and cafe seats. Walk it in the morning, before the pavements fill.",
+            "Dong Xuan is the quarter’s main covered market. The district page calls it useful for a look at wholesale goods more than for souvenirs, and it says entry is free. No hour is printed there. The hours are check on arrival. Stall prices are check on arrival."
+          ]
+        },
+        {
+          "id": "trang-tien",
+          "heading": "Tràng Tiền Plaza",
+          "nav": "Tràng Tiền",
+          "paragraphs": [
+            "Tràng Tiền Plaza’s own site calls the building a shopping center. A page on that site dated 16 May 2026 prints the address 24 Hai Bà Trưng, Cửa Nam ward, and the hours Monday to Thursday 09:30 to 21:30, Friday to Sunday 09:30 to 22:00. No door fee is printed. Entry is check on arrival."
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "title": "Dong Xuan Market",
+          "summary": "The covered market in the Old Quarter. Wholesale goods more than souvenirs, and entry is free, on the district page. The hours are check on arrival.",
+          "placeSlug": "old-quarter",
+          "photo": "hanoi-dong-xuan",
+          "block": "quarter"
+        },
+        {
+          "title": "Tràng Tiền Plaza",
+          "summary": "The shopping center at 24 Hai Bà Trưng. The mall’s 16 May 2026 page prints 09:30 to 21:30 Monday to Thursday, and 09:30 to 22:00 Friday to Sunday. No door fee is printed.",
+          "placeSlug": "hanoi",
+          "photo": "hanoi-trang-tien-plaza",
+          "block": "trang-tien"
         }
       ]
     },
