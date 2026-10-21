@@ -30,7 +30,7 @@ import {
 } from '../lib/content';
 import { photoPath } from '../lib/photos';
 import { breadcrumbList, faqPage } from '../lib/schema';
-import { leadWithDining, partitionAttractions } from '../lib/place-lists';
+import { isAuthoredDiningCard, leadWithDining, partitionAttractions, realFoodGuideSlug, shouldLeadWithDining } from '../lib/place-lists';
 import { stayLink } from '../lib/partners';
 import type { InterestCard, Place } from '../lib/types';
 import { site } from '../config/site';
@@ -47,7 +47,9 @@ const parent = place.parent ? getPlace(place.parent) : undefined;
 const nearby = relatedPlaces(place);
 const routes = getRoutes().filter((route) => place.routeSlugs.includes(route.slug));
 const trips = getItineraries().filter((trip) => place.itinerarySlugs.includes(trip.slug));
-const foodGuide = getFoodGuides().find((guide) => guide.slug === place.foodSlug);
+const foodGuides = getFoodGuides();
+const foodGuide = foodGuides.find((guide) => guide.slug === place.foodSlug);
+const diningSlug = realFoodGuideSlug(place, foodGuides);
 const rankedAttractions = [...attractions].sort((a, b) => b.dots - a.dots);
 const attractionGroups = (() => {
   const order: string[] = [];
@@ -63,9 +65,6 @@ const attractionGroups = (() => {
   return order.map((key) => ({ label: key, items: grouped.get(key) ?? [] }));
 })();
 const children = childPlaces(place.slug);
-function isFoodGuideCard(card: InterestCard) {
-  return card.title === 'Dining and F&B' || (card.to === 'food' && /food guide/i.test(card.title));
-}
 function toInterestRail(card: InterestCard) {
   const sight = card.attractionSlug
     ? attractions.find((item) => item.slug === card.attractionSlug)
@@ -105,22 +104,29 @@ const sourceSections = place.interestGroups?.length
               };
             }),
     }];
-const guideCard = sourceSections.flatMap((section) => section.cards).find((card) => isFoodGuideCard(card));
+const sourceCards = sourceSections.flatMap((section) => section.cards);
+const guideCard = sourceCards.find((card) => isAuthoredDiningCard(card));
+const showDining = shouldLeadWithDining(place, foodGuides, sourceCards);
+const diningHref = diningSlug ? `/food/${diningSlug}` : guideCard ? toInterestRail(guideCard).href : '';
 const interestSections = leadWithDining(
   sourceSections.map((section) => ({
     title: section.title,
     summary: section.summary,
-    items: section.cards.filter((card) => !isFoodGuideCard(card)).map((card) => toInterestRail(card)),
+    items: section.cards
+      .filter((card) => !showDining || !isAuthoredDiningCard(card))
+      .map((card) => toInterestRail(card)),
   })),
-  {
-    href: `/food/${place.foodSlug || place.slug}`,
-    title: 'Dining and F&B',
-    photo: guideCard?.photo || place.dishSlugs[0] || place.slug,
-    fallback: place.slug,
-    alt: `${place.name} food`,
-    cover: place.cover,
-    icon: 'food',
-  },
+  showDining && diningHref
+    ? {
+        href: diningHref,
+        title: 'Dining and F&B',
+        photo: guideCard?.photo || place.dishSlugs[0] || place.slug,
+        fallback: place.slug,
+        alt: `${place.name} food`,
+        cover: place.cover,
+        icon: 'food',
+      }
+    : undefined,
 );
 const interestRail = interestSections.flatMap((section) => section.items);
 const attractionLists = partitionAttractions(attractionGroups);
