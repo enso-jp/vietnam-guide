@@ -1,96 +1,121 @@
 ---
+import { existsSync, readFileSync } from 'node:fs';
+import { join } from 'node:path';
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
-import PlaceCard from '../../components/PlaceCard.astro';
-import Redirect from '../../components/Redirect.astro';
-import { interestHref, interestKeyFromSlug, interestLabels } from '../../config/site';
-import { attractionsForInterest, attractionPath, festivalsForInterest, getPlace, interestDescription, placesForInterest } from '../../lib/content';
+import Photo from '../../components/Photo.astro';
+import SectionNav from '../../components/SectionNav.astro';
+import { interestHref, interestKeyFromSlug, interestLabels, interestPublicSlug } from '../../config/site';
+import interestPhotos from '../../content/interest-photos.json';
+import { getInterestCopy, pageDescription } from '../../lib/content';
+import { interestSections } from '../../lib/interest-page';
+import { photoPath } from '../../lib/photos';
 import { breadcrumbList, itemList } from '../../lib/schema';
 
 export function getStaticPaths() {
   return Object.entries(interestLabels).map(([key, label]) => ({
-    params: { slug: key === 'food' ? 'food' : interestHref(key).replace('/interests/', '') },
+    params: { slug: interestPublicSlug[key] ?? key },
     props: { key, label },
   }));
 }
+
 const { slug } = Astro.params;
 const key = interestKeyFromSlug(slug ?? '') ?? Astro.props.key;
-const label = interestLabels[key] ?? Astro.props.label;
-const places = placesForInterest(key);
-const sights = attractionsForInterest(key);
-const festivals = festivalsForInterest(key);
-const isFood = key === 'food';
+const label = key === 'food' ? 'Food and drink' : (interestLabels[key] ?? Astro.props.label);
+const copy = getInterestCopy(key);
+const description = pageDescription(copy?.summary || `${label} in Vietnam.`, ...(copy?.body || []));
 const path = interestHref(key);
-const description = interestDescription(key);
-const crumbSchema = [
-  { name: 'Interests', path: '/interests' },
-  { name: label, path },
-];
+const photos = interestPhotos as Record<string, string>;
+const heroId = photos[key] && photoPath(photos[key]) ? photos[key] : '';
+const sections = interestSections(key);
+const creditsPath = join(process.cwd(), 'public', 'photos', 'credits.json');
+const credits: Record<string, { author?: string; license?: string }> = existsSync(creditsPath)
+  ? JSON.parse(readFileSync(creditsPath, 'utf8'))
+  : {};
+const heroCredit = heroId ? credits[heroId] : undefined;
+const listed = sections.flatMap((section) => [
+  ...section.cards.map((card) => ({ name: card.title, path: card.href })),
+  ...section.text.map((item) => ({ name: item.title, path: item.href })),
+]);
 const jsonLd = [
-  itemList(label, [
-    ...sights.map((item) => ({ name: item.name, path: attractionPath(item) })),
-    ...places.map((place) => ({ name: place.name, path: `/${place.slug}` })),
+  itemList(label, listed),
+  breadcrumbList([
+    { name: 'Interests', path: '/interests' },
+    { name: label, path },
   ]),
-  breadcrumbList(crumbSchema),
 ];
+
+function stars(dots: number): string {
+  const filled = Math.max(0, Math.min(5, dots));
+  return Array.from({ length: 5 }, (_, index) => (index < filled ? '★' : '☆')).join('');
+}
 ---
-{isFood ? <Redirect to="/food" /> : (
-<Base title={`${label} in Vietnam`} description={description} path={path} ogType="website" jsonLd={jsonLd}>
-  <article class="wrap section" data-sort-root>
+<Base title={`${label} in Vietnam`} description={description} path={path} ogType="website" jsonLd={jsonLd} ogImage={heroId ? photoPath(heroId) : undefined}>
+  <article class="wrap section">
     <Crumbs items={[{ name: 'Interests', href: '/interests' }, { name: label }]} />
-    <div class="dest-head">
-      <h1>{label}</h1>
-      <div class="dest-toolbar">
-        <label>Sort by
-          <select data-sort-select aria-label="Sort places">
-            <option value="recommended">Recommended</option>
-            <option value="az">A to Z</option>
-            <option value="visited">Most visited</option>
-          </select>
-        </label>
-      </div>
-    </div>
-    <p class="lede">{description}</p>
-    <p class="note" data-sort-note></p>
-    {sights.length > 0 && (
-      <section class="place-section">
-        <h2>Attractions</h2>
-        <ul class="guide-list">
-          {sights.map((attraction) => {
-            const home = getPlace(attraction.placeSlug);
-            return (
-              <li>
-                <a class="guide-row" href={attractionPath(attraction)}>
-                  <strong>{attraction.name}</strong>
-                  {home && <p class="meta">{home.name}</p>}
-                  <p>{attraction.summary}</p>
+    <h1>{label}</h1>
+    {copy?.summary && <p class="lede">{copy.summary}</p>}
+    {heroId && (
+      <figure class="prose-figure">
+        <Photo id={heroId} alt={label} priority={true} />
+        {heroCredit?.author && <figcaption>Photo: {heroCredit.author} · {heroCredit.license}</figcaption>}
+      </figure>
+    )}
+    {copy?.verified && <p class="note">Facts verified {copy.verified}. Fees and hours change; confirm before you go.</p>}
+    <SectionNav label={`${label} sections`} items={sections.map((section) => ({ id: section.id, label: section.heading }))} />
+    <div class="reading place-body">
+      {copy?.body.map((paragraph) => <p>{paragraph}</p>)}
+      {sections.map((section) => (
+        <section id={section.id} class="place-section">
+          <h2>{section.heading}</h2>
+          {section.cards.length > 0 && (
+            <div class={section.food ? 'food-grid' : 'jg-grid'}>
+              {section.cards.map((card, index) => section.food ? (
+                <a class="food-card" href={card.href}>
+                  <span class="media"><Photo id={card.photo} alt={card.alt} /></span>
+                  <strong>{card.title}{card.nameVi && <> <span class="vi" lang="vi">{card.nameVi}</span></>}</strong>
+                  <em>{card.line}</em>
                 </a>
-              </li>
-            );
-          })}
-        </ul>
-      </section>
-    )}
-    {festivals.length > 0 && (
-      <section class="place-section">
-        <h2>Festivals</h2>
-        <ul class="guide-list">
-          {festivals.map((festival) => (
-            <li><a class="guide-row" href={`/festivals/${festival.slug}`}><strong>{festival.name}</strong><p>{festival.summary}</p></a></li>
-          ))}
-        </ul>
-      </section>
-    )}
-    <section class="place-section">
-      <h2>Places</h2>
-      {places.length === 0 ? (
-        <p>No places are tagged for this interest yet.</p>
-      ) : (
-        <div class="jg-grid" data-sort-list>
-          {places.map((place, index) => <PlaceCard place={place} rank={index + 1} />)}
-        </div>
-      )}
-    </section>
+              ) : (
+                <a class="jg-card" href={card.href}>
+                  <div class="media">
+                    <Photo id={card.photo} alt={card.alt} />
+                    <span class="rank-badge">{index + 1}</span>
+                  </div>
+                  <div class="jg-body">
+                    <h3>
+                      {card.title}
+                      {card.nameVi && <span class="vi" lang="vi"> {card.nameVi}</span>}
+                      {(card.dots ?? 0) >= 4 && <span class="mark" aria-hidden="true"></span>}
+                    </h3>
+                    <p>{card.line}</p>
+                    {card.dots != null && (
+                      <p class="rating">
+                        <span class="score">{card.dots.toFixed(1)}</span>
+                        <span class="stars" aria-label={`${card.dots} of 5, editor rating`}>{stars(card.dots)}</span>
+                        <span class="note">Editor</span>
+                      </p>
+                    )}
+                    {card.meta && <p class="meta">{card.meta}</p>}
+                  </div>
+                </a>
+              ))}
+            </div>
+          )}
+          {section.text.length > 0 && (
+            <ul class="guide-list">
+              {section.text.map((item) => (
+                <li>
+                  <a class="guide-row" href={item.href}>
+                    <strong>{item.title}{item.nameVi && <> <span class="vi" lang="vi">{item.nameVi}</span></>}</strong>
+                    <p>{item.line}</p>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          )}
+        </section>
+      ))}
+    </div>
   </article>
 </Base>
-)}

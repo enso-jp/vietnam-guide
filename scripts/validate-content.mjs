@@ -316,6 +316,25 @@ for (const slug of front.slugs || []) {
   seenFront.add(slug);
   if (!postSlugs.has(slug)) errors.push(`front page slug ${slug} missing`);
 }
+const interestCopyDir = 'src/content/interests';
+const interestCopy = existsSync(interestCopyDir) ? readDir(interestCopyDir) : [];
+const interestKeys = new Set([
+  'food', 'oldTowns', 'pagodas', 'caves', 'beaches', 'islands', 'mountains', 'rice', 'markets',
+  'warHistory', 'coffee', 'nightlife', 'family', 'photography', 'motorbike', 'resortLiving',
+]);
+const seenInterestKeys = new Set();
+for (const page of interestCopy) {
+  if (!page.key || seenInterestKeys.has(page.key)) errors.push(`interest page ${page.key || '(missing)'} is missing or duplicated`);
+  seenInterestKeys.add(page.key);
+  if (!interestKeys.has(page.key)) errors.push(`interest page ${page.key} is not a public interest`);
+  if (!page.summary || !String(page.summary).trim()) errors.push(`interest page ${page.key} summary missing`);
+  if (!Array.isArray(page.body) || page.body.length < 1 || page.body.some((line) => !String(line).trim())) {
+    errors.push(`interest page ${page.key} body missing`);
+  }
+}
+for (const key of interestKeys) {
+  if (!seenInterestKeys.has(key)) errors.push(`interest page ${key} missing`);
+}
 const seenInterestPhotos = new Set();
 for (const [key, id] of Object.entries(interestPhotos)) {
   if (!id || seenInterestPhotos.has(id)) errors.push(`interest photo ${key} is missing or reused`);

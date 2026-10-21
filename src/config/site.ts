@@ -27,7 +27,6 @@ export const interestPublicSlug: Record<string, string> = {
 };
 
 export function interestHref(key: string): string {
-  if (key === 'food') return '/food';
   return `/interests/${interestPublicSlug[key] ?? key}`;
 }
 

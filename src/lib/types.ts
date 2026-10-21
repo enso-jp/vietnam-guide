@@ -62,6 +62,13 @@ export interface Attraction {
   interests: string[];
 }
 
+export interface InterestPageCopy {
+  key: string;
+  summary: string;
+  body: string[];
+  verified?: string;
+}
+
 export interface Festival {
   slug: string;
   name: string;
