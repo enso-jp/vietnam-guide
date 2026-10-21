@@ -210,8 +210,136 @@ Checked: 20 Oct 2026
 - Photo must show: a market aisle or a bowl, not a shop sign as the subject
 - Sources: S19, S20, S21
 
+### Ngu Hanh Son
+- Vietnamese name: Ngũ Hành Sơn
+- Kind: zone
+- Area: South of Mỹ Khê, on the road toward Hội An
+- What the visitor does: Treat the ward as one morning, not five tickets. Thủy Sơn is the hill you climb. Non Nước is the carving village at the foot. Mỹ Khê and An Thượng are the beach and the night, north of the hills along the same shore. The tourism portal puts the hills at 81 Huyền Trân Công Chúa, about 8 km and about 15 minutes from the center, and about 30 minutes on to Hội An by the coastal road (S7).
+- Time: A morning for the hill. The beach is the rest of the day if you slept here.
+- Fee: The hill tickets are on the Marble Mountains entry. The ward itself has no gate.
+- From the base: The coast road south. From a river hotel, cross the Han first.
+- When to go: Morning for the climb, before the heat. The beach swim follows the duty board (S35, S36).
+- Mistake to avoid: Buying the hill ticket, the elevator, and Am Phu, then trying to do Hội An the same morning.
+- Local interest: The south shore
+- Suggested slug: no district page in this pass. The hill, the village note, the beach, and An Thượng already split the ward.
+- Suggested dot: do not add a record
+- Photo must show: the marble hills with the coast, or the village workshops with a finished stone in the frame. A resort pool is the wrong subject.
+- Sources: S7, S35
+
+### An Hai east bank
+- Vietnamese name: Bờ đông cầu Rồng, phường An Hải
+- Kind: area
+- Area: East end of the Dragon Bridge
+- What the visitor does: Cross to the beach side of the bridge. On Friday, Saturday, and Sunday the dragon show is watched from this bank as well as from Bạch Đằng (S9, S10). VietnamPlus, 22 Aug 2025, says the Sơn Trà night market has been on this bank since 1 Aug 2025, and that after 17:30 the road in front is closed to vehicles and used as a walking stretch (S33). The 2023 tourism page still pins the market at Mai Hắc Đế. Confirm the site that night.
+- Time: An evening on a show night
+- Fee: No ticket to stand on the bank (S9). Market fee is Check on arrival — UNSOURCED.
+- From the base: Walk from a riverside hotel. The bridge is the crossing.
+- When to go: After 17:30 if the walking stretch is the point. 21:00 if the show is the point.
+- Mistake to avoid: Following the old Mai Hắc Đế pin and missing the bridge.
+- Local interest: Dragon Bridge evening
+- Suggested slug: no separate page. Dragon Bridge and the food guide carry it.
+- Suggested dot: do not add a record
+- Photo must show: the east bank with the dragon’s head and the stall row, stalls through the center. A crop of only the bridge is the bridge.
+- Sources: S9, S10, S33
+
 Districts that deserve their own page:
 
 - Son Tra, if the peninsula is written as a zone with more than the pagoda. Not in this copy pass.
 - The Marble Mountains / Non Nuoc ward, only if the hill and the carving village are split. Not in this copy pass.
 - My Khe is an area, not a district page, until the beach has more than one sight.
+
+## Nightlife and evening
+
+Checked: 21 Oct 2026. Streets a traveler walks after dark. Pins are not a ranked bar list. No prices and no scores.
+
+### An Thuong tourist quarter
+- Vietnamese name: Khu phố du lịch An Thượng
+- Kind: nightlife
+- Area: Mỹ An, Ngũ Hành Sơn, just inland of Mỹ Khê
+- What the visitor does: After the swim, walk the small streets inside the signed quarter. The 2 May 2018 tourism report of the 23 Apr 2018 naming says the quarter is bounded by Võ Nguyên Giáp, Hoàng Kế Viêm, Châu Thị Vĩnh Tế, and Ngô Thì Sĩ, including the beach, about 0.15 km², under Decision 489/QĐ-UBND of 31 Jan 2018. The same report says the night is the lanes of counters, bars, and kitchens, and that the scheme talks about activity past midnight. It does not print a closing hour. The corner of Võ Nguyên Giáp and Hoàng Kế Viêm is where the name stone was set. A hotel on that corner is named in the 2018 report as a wayfinding mark. Do not publish as a pick.
+- Time: An evening
+- Fee: No city ticket. A drink is Check on arrival — UNSOURCED.
+- From the base: Walk from a Mỹ Khê hotel. A ride from the river. Minutes from the river are Check on arrival — UNSOURCED.
+- When to go: After dark.
+- Mistake to avoid: Treating the night market at An Thượng 4 as this walk. The market is a separate food-street entry. Also, booking a river hotel and expecting to walk here.
+- Scene landmarks, if any, with a primary URL: Kalà Kalà Beach Club, 51 Võ Nguyên Giáp, on the sand, free entry, closing listed as both midnight and 02:00 (S23, https://kalakala.vn is the site already in S23). East West Brewing beachfront taproom, 08:00–01:00, no street on the page (S24, https://eastwestbrewing.vn/taproom/da-nang). These two orient the sand. They are not the lanes.
+- Suggested slug: an-thuong
+- Suggested dot: already published — do not change
+- Photo must show: the lanes after dark, more than one lit front in the frame. A daylight beach frame is Mỹ Khê, not this walk. That night frame is still missing.
+- Sources: S23, S24, S25, S38
+
+### Han River evening
+- Vietnamese name: Đêm sông Hàn
+- Kind: nightlife
+- Area: Bạch Đằng and the Dragon Bridge
+- What the visitor does: Walk the promenade. On Friday, Saturday, Sunday, and major holidays, stop for the dragon at 21:00 (S9, S10). The 14 Sep 2016 tourism page says the Bạch Đằng sidewalk fills on those weekends (S37). On a weeknight the walk is the bridges and the cafés, and there is no fire. Show length disagrees: about 2 minutes of fire and 3 minutes of water (S9), or about 10–15 minutes all together (S10).
+- Time: Dusk to a little after 21:00 on a show night
+- Fee: Free from the bank (S9)
+- From the base: Walk if you slept on the river.
+- When to go: A weekend if the fire is the reason. Any clear dusk for the picture.
+- Mistake to avoid: Waiting on a Monday.
+- Scene landmarks, if any, with a primary URL: The dragon itself, city page https://danangfantasticity.com/en/events/the-dragon-show (S9). No bar pin on this bank in this dossier.
+- Suggested slug: no separate page. Dragon Bridge carries it.
+- Suggested dot: do not add a record
+- Photo must show: the lit dragon over the river, from the promenade, one frame
+- Sources: S9, S10, S37
+
+### Da Nang Downtown
+- Vietnamese name: Da Nang Downtown
+- Kind: nightlife
+- Area: On the Han. The tourism page does not print a street number.
+- What the visitor does: An entertainment district the 16 Aug 2024 tourism-portal page says was rebranded from Asia Park and launched in June 2024. The page puts a river show, Symphony of River, at 20:30 every day, and says the show runs 45 minutes with a seven-minute firework section. It also names Awaken River at 17:45 and puppet shows at 18:30 and 20:00. Those clocks are one page. A second source was not found, so a public line should say confirm that night. A ticket price is not on the page. Check on arrival — UNSOURCED. Inside the district the same page describes Vui Fest as a night-market hall of more than 50 stalls on about 1,200 m². That is the shape of the food hall. It is not a stall list. Restaurant names on the page stay unpublished.
+- Time: An evening, if the show is the plan. The page’s own clocks are unconfirmed by a second source.
+- Fee: Check on arrival — UNSOURCED
+- From the base: On the river. A walk minute from Bạch Đằng is Check on arrival — UNSOURCED.
+- When to go: When you want a ticketed river show rather than the free dragon. Do not assume it replaces the Friday-to-Sunday dragon.
+- Mistake to avoid: Reading the portal’s “must visit” lines as a rank. This dossier keeps the clocks and the rebrand, and drops the slogans.
+- Scene landmarks, if any, with a primary URL: The district itself, https://danangfantasticity.com/en/discovery/da-nang-downtown-a-must-visit-spot-to-experience-da-nangs-nightlife (S39). No separate venue pin.
+- Suggested slug: no page in this pass. The ticket and the street are still open.
+- Suggested dot: do not add a record until a ticket and a street exist
+- Photo must show: the river show or the wheel with the district in front, subject through the center. A poster with a title burned in fails.
+- Sources: S39
+
+## Lifestyle
+
+Checked: 21 Oct 2026. An ordinary day if you slept in Da Nang. Areas, not a hotel brand. Clocks that disagree are both kept.
+
+### Huynh Thuc Khang breakfast
+- Vietnamese name: Phố điểm tâm Huỳnh Thúc Kháng
+- Kind: lifestyle
+- What a day here actually is: The morning bowl, before the beach. Walk the breakfast street and pick a counter. The city portal’s 18 May 2020 page says the street is crowded from 06:00 to 08:00 and names bánh canh, bánh bèo, xôi, bò kho, bánh mì ốp la, cháo trắng with cá kho, and cơm gà. The 19 Jun 2019 roundup prints 06:00–12:00 and says the street was recognized in late 2014. The decision number is not on that page. This is the same street as the food-street entry. It is the breakfast of the day, not a second sight.
+- When: Morning. Busy 06:00–08:00 (S30). The 2019 page prints 06:00–12:00 (S26).
+- Area: Đường Huỳnh Thúc Kháng. The ward is not printed on those pages. Walk if you slept on the river. From Mỹ Khê the ride is Check on arrival — UNSOURCED.
+- Suggested slug: no separate page. The food guide and the breakfast-street record carry it.
+- Photo must show: the morning street, several low counters and bowls in one frame
+- Sources: S26, S30
+
+### My Khe swim
+- Vietnamese name: Tắm biển Mỹ Khê
+- Kind: lifestyle
+- What a day here actually is: The swim, in front of the resort towers, only while a rescue team is on duty and only inside the buoyed water. The city tourism beaches page, dated 15 Jan 2016, says local beaches are good for swimming all year and especially from May to August, when the waves are gentle. The same page says lifeguard teams on some beaches work from 5am to 8pm, and its travel tip says swim only from 05:00 to 19:00, when rescue teams are available. Both clocks are on that page. A 12 Apr 2023 city-portal report of beach-board document 217/BQL-QLB, 29 Mar, says rescue teams are posted on Hoàng Sa – Võ Nguyên Giáp – Trường Sa and on Nguyễn Tất Thành. It says swim where the safety buoys are set and a rescuer is on duty, follow the warning boards, do not swim in bad weather or where a danger board forbids it, and stop when the end-of-duty signal is given. That report does not print the duty clock. It points at a link. The hour on the sand wins. Chair and umbrella hire stay Check on arrival — UNSOURCED.
+- When: Morning in the drier months (S2, S3). Go in only inside the buoy line, and only during the duty the board is posting that day.
+- Area: Mỹ Khê, on the Hoàng Sa – Võ Nguyên Giáp – Trường Sa shore
+- Suggested slug: no separate page. The My Khe attraction carries the swim.
+- Photo must show: the surf, the sand, and the resort towers, with the buoy line in the frame if it is there. Empty sand fails.
+- Sources: S2, S3, S35, S36
+
+### Bach Dang walk
+- Vietnamese name: Đường Bạch Đằng
+- Kind: lifestyle
+- What a day here actually is: The river walk and the cafe hour, if you slept on the Han. The 14 Sep 2016 tourism-portal page, citing the deputy director of the Department of Tourism, calls Bạch Đằng one of the city’s eight main tourist streets, with cafés along the promenade. It says local people exercise and stroll there in the early morning and the late afternoon. On weekends the same page says the sidewalk fills when the dragon breathes fire at the east end of the bridge. Shop names on that page are wayfinding from 2016. Do not publish as a pick. No cafe hour is printed. A single door’s opening time is Check on arrival — UNSOURCED.
+- When: Early morning or late afternoon for the walk. Weekend evening if the dragon show is the reason (S9, S37).
+- Area: Bạch Đằng, along the Han, Hải Châu. Hàn Market sits on this side of the river (S28).
+- Suggested slug: no separate page. The place and the Dragon Bridge page carry the walk.
+- Photo must show: the promenade, the river, and people or cafe tables in one frame. A crop that is only the bridge is the bridge.
+- Sources: S9, S28, S37
+
+### After the show
+- Vietnamese name: Giờ yên trên sông
+- Kind: lifestyle
+- What a day here actually is: The river is the early night. The dragon show is 21:00 on Friday, Saturday, Sunday, and major holidays, and the two official write-ups do not agree how long it lasts (S9, S10). On a weeknight there is no show. Night markets on the city pages wind down in the 22:30–23:00 range where a clock is printed: Helio 17:30–22:30 on the 2023 page, An Thuong night market 17:00–23:00, the old Son Tra pin 18:00–23:00 (S27). Phạm Hồng Thái’s 2019 page runs to about 23:00 and has not been restated (S26). The beach pins are later: East West to 01:00 (S24), Kalà Kalà listed as both midnight and 02:00 (S23). No city page prints one hour when Da Nang goes quiet. The practical reading is that the river walk is over after the show, or after dark on a night with no show, and the beach streets are the part that stays up. A citywide closing time is Check on arrival — UNSOURCED.
+- When: After 21:00 on a show night for the river. The beach grid after that, if you slept at Mỹ Khê.
+- Area: Bạch Đằng and the Dragon Bridge for the early night. An Thượng and the sand for the late night.
+- Suggested slug: no separate page
+- Photo must show: the river path after dark with the bridge lit, or the beach street with its lights. A black frame fails.
+- Sources: S9, S10, S23, S24, S26, S27

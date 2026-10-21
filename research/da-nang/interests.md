@@ -56,6 +56,24 @@ Checked: 20 Oct 2026. These are Da Nang’s cards, not another city’s list.
 - Photo must show: a bowl of mi Quang, not the beach
 - Sources: S19, S20
 
+### Breakfast street
+- Why it is this place, not a generic label: Huỳnh Thúc Kháng is the morning the city portal names, before anyone reaches the sand. It is not a Hanoi breakfast list.
+- Fits interest key, if any: food
+- Icon: food
+- Links to attraction, dish, or place slug: food guide `da-nang` until the owner street has its own page
+- Food guide card: no
+- Photo must show: the morning street and the bowls. Not the beach.
+- Sources: S26, S30
+
+### River walk
+- Why it is this place, not a generic label: Bạch Đằng is the Han promenade, the morning stroll and the weekend dragon, not a generic waterfront.
+- Fits interest key, if any: photography
+- Icon: view
+- Links to attraction, dish, or place slug: dragon-bridge
+- Food guide card: no
+- Photo must show: the promenade and the river, the bridge in the frame
+- Sources: S9, S37
+
 ### Son Tra view
 - Why it is this place, not a generic label: The 67 m Quan The Am and the peninsula road are the view that is not the Golden Bridge.
 - Fits interest key, if any: photography

@@ -151,3 +151,87 @@ Accessed 20 Oct 2026 unless a page states its own date.
 - Publisher: Vinpearl
 - Accessed: 20 Oct 2026
 - Supports: An Thuong described as a night area beside My Khe, spanning streets the page names as Vo Nguyen Giap, Hoang Ke Viem, Chau Thi Vinh Te, and Ngo Thi Si, with food stalls and eateries after dark. A second travel page, https://go-danang.com/posts/beach-bars-in-da-nang-drink-party-near-my-khe-2026 (accessed the same day), describes An Thuong as the walkable quarter a few blocks inland from the beach clubs. Use both for the area. Do not copy their other venue lists or their prices.
+
+### S26
+- URL: https://danangfantasticity.com/cho-dem/tong-hop-cac-cho-am-thuc-noi-tieng-tai-da-nang
+- Publisher: Danang Fantasticity, the city tourism portal, 19 Jun 2019
+- Accessed: 21 Oct 2026
+- Supports: Helio on đường 2/9, prose 17:30–22:30 and bullet 17:00–22:30, free entry. Cồn at 269 Ông Ích Khiêm, bullet 09:00–18:00, indoor food 07:00–15:00, outdoor after 15:00. Bắc Mỹ An at 25 Nguyễn Bá Lân, 08:00–19:00. Huỳnh Thúc Kháng as the breakfast street, 06:00–12:00, recognized late 2014 with 45 shops, no decision number. Phạm Hồng Thái under 800 m, prose from about 17:00 until after 23:00, bullet 17:00–23:00, recognized early April 2015, no decision number. Phan Tứ in Ngũ Hành Sơn, a bit over 1 km, 17:00–24:00. Stall price ranges on this page were not copied. Stall names at Bắc Mỹ An are notes only.
+
+### S27
+- URL: https://danangfantasticity.com/en/famous-local-markets-in-danang
+- Publisher: Danang Fantasticity, 9 Oct 2023
+- Accessed: 21 Oct 2026
+- Supports: Hàn at 119 Trần Phú, sides Trần Phú, Hùng Vương, Bạch Đằng, and Nguyễn Văn Linh, 06:00–19:00. Cồn at 290 Hùng Vương, about 14,000 m², 07:00–19:30. Helio at No. 01, đường 2/9, corner of Phan Đăng Lưu, 17:30–22:30, about 150 booths, a show at 20:00. An Thượng night market at No. 4 An Thượng 4, Bắc Mỹ Phú, Ngũ Hành Sơn, about 40 stalls, 17:00–23:00, free entry. Sơn Trà night market, on this page, at Mai Hắc Đế, An Hải Trung, more than 200 booths, 18:00–23:00. That Sơn Trà pin is the old one. See S33.
+
+### S28
+- URL: https://danangfantasticity.com/en/local-markets/han-market-2
+- Publisher: Danang Fantasticity, 28 Sep 2024
+- Accessed: 21 Oct 2026
+- Supports: Hàn near the swing bridge. Sides Trần Phú, Bạch Đằng, Hùng Vương, and Nguyễn Thái Học. Rebuilt 1990, two floors, about 3,000 m². Fresh seafood, fruit, fish sauce, dried food, clothes, áo dài. No hours on this page. The fourth street disagrees with S27.
+
+### S29
+- URL: https://danangfantasticity.com/local-markets/con-market-in-da-nang
+- Publisher: Danang Fantasticity, 4 Oct 2024
+- Accessed: 21 Oct 2026
+- Supports: Cồn at the crossroads of Quang Trung and Ông Ích Khiêm, Hải Châu 1. Indoor and outdoor food. Indoor names bánh bèo, bánh xèo, bánh căn, ốc hút, mì Quảng, sweet soups. Outdoor names bánh canh as a thick noodle soup, mì Quảng, chè chuối, bánh bột lọc, ram cuốn cải as a fried spring roll in cabbage, grilled dried squid. No hours. The “best times” line is an empty placeholder.
+
+### S30
+- URL: https://danangfantasticity.com/en/net-doc-dao-cua-am-thuc-da-thanh
+- Publisher: Danang Fantasticity, 18 May 2020
+- Accessed: 21 Oct 2026
+- Supports: Huỳnh Thúc Kháng busy 06:00–08:00, with bánh canh, bánh bèo, xôi, bò kho, bánh mì ốp la, cháo trắng with cá kho, cơm gà. Phạm Hồng Thái named as the night street, no clock. Other eating streets named with no block and no hour: Nguyễn Văn Linh, Nguyễn Văn Thoại, Trần Kế Xương, Phan Tứ, Lê Thanh Nghị. Shore roads Hoàng Sa, Võ Nguyên Giáp, Trường Sa. Gỏi cá Nam Ô as herring, tied to the fish-sauce village. One unnamed mì Quảng counter on Lê Hồng Phong with about ten toppings. Nem lụi named, not described. Bánh bèo grouped with bánh nậm and bánh lọc.
+
+### S31
+- URL: https://danangfantasticity.com/kham-pha/da-nang-phat-trien-am-thuc-thanh-san-pham-du-lich-dac-sac
+- Publisher: Danang Fantasticity, 28 Nov 2023
+- Accessed: 21 Oct 2026
+- Supports: Huỳnh Thúc Kháng and Phạm Hồng Thái as the breakfast street and the night street. Shared dish list for the pair: bún chả cá, mì Quảng, bún mắm, bánh xèo, nem lụi, bò kho, chè. Eat-with-locals markets: Chợ Hàn, Chợ Cồn, Chợ Bắc Mỹ An. The same shore roads. Food as a main tourism product under Decision 2726/QĐ-UBND of 19 Oct 2022 and plan 114/KH-UBND of 24 May 2023. No street clocks.
+
+### S32
+- URL: https://bvhttdl.gov.vn/da-nang-hinh-thanh-he-thong-cho-diem-phuc-vu-du-lich-20250314152825765.htm
+- Publisher: Ministry of Culture, Sports and Tourism site, reprint of Báo Đà Nẵng, 14 Mar 2025
+- Accessed: 21 Oct 2026
+- Supports: From 2022 the city picked Chợ Hàn and Chợ Cồn as the first tourist-point markets. Hàn’s food zone is entered from Bạch Đằng. In season and on holidays Hàn sees about 4,000–6,000 visits a day. Cồn’s vendor rows on the internal stretches of Hùng Vương and Ông Ích Khiêm were tidied; food is at đình 15A. By 2030 the scheme names eleven tourist markets, including Bắc Mỹ An and the Thọ Quang wholesale fish market. Thọ Quang: about 100,000–130,000 tonnes a year, more than 3,000 workers a day, busy day and night. A December 2024 city scheme points that landing toward tourism. No visitor hour and no gate fee.
+
+### S33
+- URL: https://www.vietnamplus.vn/da-nang-hang-rong-bao-vay-cho-dem-du-lich-khien-du-khach-ngao-ngan-post1057258.vnp
+- Publisher: VietnamPlus / Vietnam News Agency, Quốc Dũng, 22 Aug 2025
+- Accessed: 21 Oct 2026
+- Supports: Chợ đêm Sơn Trà moved on 1 Aug 2025 to the east bank of the Dragon Bridge, phường An Hải, on the bridge approach. One side is the Võ Văn Kiệt sidewalk. Another gate is toward Trần Hưng Đạo. After 17:30 the road in front is closed to vehicles. The report describes unposted parking slips and stalls outside the gates. Those amounts are not an official fee and are not copied. Closing time is not stated. Official letter 520/UBND-SVHTTDL of 25 Jul 2025 asks wards to deal with touts. It is not a market hour.
+
+### S34
+- URL: https://danangfantasticity.com/kham-pha/20-quan-an-ngon-nuc-tieng-cua-du-lich-da-nang
+- Publisher: Danang Fantasticity, 14 Oct 2015, credited to ivivu
+- Accessed: 21 Oct 2026
+- Supports: One clue only. Bò kho at 144 Huỳnh Thúc Kháng, morning, with bánh canh beside it in the afternoon, and a bún mắm nearby in the morning. Do not publish as a pick. The rest of that list, and every price on it, was not used. The door number is from 2015.
+
+### S35
+- URL: https://danangfantasticity.com/en/danang-beaches
+- Publisher: Danang Fantasticity, 15 Jan 2016
+- Accessed: 21 Oct 2026
+- Supports: Beaches named include Phạm Văn Đồng, Mỹ Khê, Nam Ô, Xuân Thiều, Thanh Bình, Tiên Sa, Sơn Trà, Bắc Mỹ An, and Non Nước. Swimming all year, especially May–August when the waves are gentle. The same page says lifeguard teams on some beaches work from 5am to 8pm, and the travel tip says swim only from 05:00 to 19:00 while rescue teams are available. Both clocks are kept. Address line: Hoàng Sa – Trường Sa. Forbes wording on the page is not used. Chair hire is not priced. Airport “10km” and Hoi An “30km” are on this 2016 page and are not used as the current ride times. Those stay with the later transport notes.
+
+### S36
+- URL: https://danang.gov.vn/vi/w/dam-bao-an-toan-cho-nguoi-dan-va-du-khach-khi-tam-bien-tai-cac-bai-bien-cua-thanh-pho-i
+- Publisher: Da Nang city portal, 12 Apr 2023, reporting beach-board document 217/BQL-QLB of 29 Mar
+- Accessed: 21 Oct 2026
+- Supports: Rescue teams posted along Hoàng Sa – Võ Nguyên Giáp – Trường Sa and Nguyễn Tất Thành. Swim where safety buoys are set and a rescuer is on duty. Follow warning boards. Do not swim in bad weather or where a danger board forbids it. Stop when the end-of-duty signal is given. The article does not print the duty clock. It points at a link that this pass could not read as a timetable. The hour on the sand is Check on arrival.
+
+### S37
+- URL: https://danangfantasticity.com/en/discovery/bach-dang-attractive-locals-visitors
+- Publisher: Danang Fantasticity, 14 Sep 2016, citing Trần Chí Cường, then deputy director of the Department of Tourism, and ĐTĐN
+- Accessed: 21 Oct 2026
+- Supports: Bạch Đằng called one of eight main tourist streets, with cafés along the Han promenade. Early-morning and late-afternoon exercise and strolls. Weekend crowds when the dragon breathes fire at the east end. Shop and hotel names on the page are 2016 wayfinding. Do not publish as a pick. No cafe opening hour is printed.
+
+### S38
+- URL: https://danangfantasticity.com/tin-tuc/khu-pho-du-lich-an-thuong-bat-dau-di-vao-hoat-dong-tu-23042018
+- Publisher: Danang Fantasticity, 2 May 2018
+- Accessed: 21 Oct 2026
+- Supports: An Thượng tourist quarter named 23 Apr 2018 at the corner of Võ Nguyên Giáp and Hoàng Kế Viêm. Decision 489/QĐ-UBND of 31 Jan 2018. Bounded by Võ Nguyên Giáp, Hoàng Kế Viêm, Châu Thị Vĩnh Tế, and Ngô Thì Sĩ. About 0.15 km² including the beach. The report says the scheme discusses activity past midnight and does not print a closing hour. A hotel on the corner is named as a wayfinding mark. Do not publish as a pick.
+
+### S39
+- URL: https://danangfantasticity.com/en/discovery/da-nang-downtown-a-must-visit-spot-to-experience-da-nangs-nightlife
+- Publisher: Danang Fantasticity, 16 Aug 2024
+- Accessed: 21 Oct 2026
+- Supports: Da Nang Downtown described as a rebrand of Asia Park, launched June 2024. Symphony of River at 20:30 daily. The same page says the show runs 45 minutes and that a firework section runs seven minutes. Awaken River at 17:45. Puppet shows at 18:30 and 20:00. Vui Fest described as more than 50 stalls on about 1,200 m². No street number and no ticket price. Those clocks are one page. Slogans, a restaurant name, and drink brands on the page were not copied.

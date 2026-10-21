@@ -3,10 +3,57 @@
   "placeSlug": "da-nang",
   "name": "Dragon Bridge",
   "nameVi": "Cầu Rồng",
-  "summary": "The yellow dragon over the Han, and fire at 21:00 on Friday, Saturday, and Sunday. Walk the river path at dusk. Do not wait for the show on a weeknight.",
+  "kicker": "The dragon bridge over the Han",
+  "summary": "Walk the river path and look at the yellow dragon over the Han. The show is at 21:00 on Friday, Saturday, and Sunday, and it is free from the bank. One page says about two minutes of fire and three of water. Another says the program runs about 10 to 15 minutes. Do not wait on a weeknight.",
   "dots": 3,
   "timeNeeded": "An evening look",
-  "fee": "Free to view from the bank",
-  "getThere": "On the Han River, between the center and the beach. Walk the river path or take a short Grab.",
+  "fee": "Free from the bank",
+  "getThere": "Walk the Bach Dang promenade. The bridge links the center to the beach side.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The yellow dragon over the Han, in daylight",
+  "notice": {
+    "title": "The show length is published twice",
+    "body": "The city tourism portal says about 2 minutes of fire and 3 minutes of water. Visit Da Nang says the program runs about 10 to 15 minutes. Both are official. Check that week."
+  },
+  "body": [
+    "Come at dusk and walk the promenade. The bridge is 666 meters and opened on 29 March 2013. On Friday, Saturday, Sunday, and major holidays the dragon breathes fire at 21:00, then water. Watching from the bank is not listed as a ticket.",
+    "Bach Dang is the walk that gets you there. On a show weekend the sidewalk fills. On a Monday, Tuesday, Wednesday, or Thursday there is no show, so do not plan the evening around one. During the fireworks festival the night can move.",
+    "The east bank is the other place to stand. Since 1 August 2025 the Son Tra night market has been reported on that bank, and the road in front is closed to vehicles after 17:30. The 2023 tourism page still pins the market at Mai Hac De. Confirm the gate that night. The market’s closing hour at the new site is check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "da-nang-dragon-bridge-2",
+      "caption": "The bridge lit at night, from the river path",
+      "alt": "Dragon Bridge at night, the head and arches lit and reflected in the Han River"
+    }
+  ],
+  "gettingThere": [
+    "The bridge crosses the Han between the center and the beach side. From a river hotel, walk Bach Dang. From My Khe the bridge is the crossing you already use. No official page in this guide prints those minutes."
+  ],
+  "legs": [
+    {
+      "heading": "From Bach Dang",
+      "body": "Walk the promenade. On a Friday, Saturday, or Sunday, be there before 21:00 if the fire is the reason."
+    },
+    {
+      "heading": "From My Khe",
+      "body": "The bridge is the road back toward the center. The minutes are check on arrival."
+    }
+  ],
+  "hours": "The show is at 21:00 on Friday, Saturday, Sunday, and major holidays. The bridge itself is a road.",
+  "closed": "No show on an ordinary weeknight. During the fireworks festival the night can move. Check that week.",
+  "admissionNote": "Watching from the bank is not listed as a ticket. No grandstand price for the weekend show was copied.",
+  "links": [
+    {
+      "label": "The dragon show",
+      "url": "https://danangfantasticity.com/en/events/the-dragon-show",
+      "note": "City tourism portal. About 2 minutes of fire and 3 minutes of water."
+    },
+    {
+      "label": "Show schedule",
+      "url": "https://visitdanang.travel/en/what-time-does-the-dragon-bridge-breathe-fire-show-schedule-and-useful-tips-10823",
+      "note": "Visit Da Nang. The program described as about 10–15 minutes."
+    }
+  ],
   "interests": ["photography"]
 }

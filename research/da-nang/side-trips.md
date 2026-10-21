@@ -43,3 +43,5 @@ Checked: 20 Oct 2026
 - Why go: Caves, on another visit.
 - Overnight or day: Overnight, another base.
 - Sources: S16 for the fact that north–south trains run through Da Nang toward Dong Hoi. No cave fee in this dossier.
+
+Left out, 21 Oct 2026: a door-to-door minute for every hotel to Hội An, the Hai Van road time, the Mỹ Sơn drive, the Cù Lao Chàm boat time, a Lăng Cô duration, and a Phong Nha duration. Each stays approximate or UNSOURCED above. No neighbor dossier was opened. No new place slug.
