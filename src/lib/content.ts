@@ -64,7 +64,7 @@ export function getPlaces(): Place[] {
   return load(placeModules);
 }
 
-const corridorOrder = ['northern-vietnam', 'central-coast', 'highlands-coast', 'southeast', 'mekong-delta'];
+const corridorOrder = ['northern-midlands', 'red-river-delta', 'north-central', 'south-central-highlands', 'southeast', 'mekong-delta'];
 
 export function getCorridors(): Corridor[] {
   return load(corridorModules);

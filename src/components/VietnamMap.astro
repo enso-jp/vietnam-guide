@@ -1,5 +1,5 @@
 ---
-import { vietnamRegions, vietnamViewBox } from '../lib/vietnam-map';
+import { mapPins } from '../lib/map-pins';
 import { vietnamIslandGroups, vietnamProvinceViewBox, vietnamProvinces, vietnamSeaLabels } from '../lib/vietnam-provinces';
 
 interface Props {
@@ -7,45 +7,71 @@ interface Props {
   active?: string;
   /** When false, regions are shapes only. Use this inside an existing anchor. */
   linked?: boolean;
-  /** When false, the corridor name is not painted on the shape. */
+  /** When false, province names are not painted. Compact maps stay shapes only. */
   names?: boolean;
 }
 const { variant = 'compact', active, linked = true, names = true } = Astro.props;
 const home = variant === 'home';
-const viewBox = home ? vietnamProvinceViewBox : vietnamViewBox;
+const mainlandViewBox = '68 8 276 530';
+const pins = home && names ? mapPins(vietnamProvinces) : [];
+const southCentral = 'south-central-highlands';
+const islandsOn = active === southCentral;
 ---
 <svg
   class:list={['map-svg', 'map-vietnam', { 'map-home': home, 'map-compact': variant === 'compact', 'map-picked': Boolean(active) }]}
-  viewBox={viewBox}
-  preserveAspectRatio={home ? 'xMidYMin meet' : undefined}
-  aria-label="Map of Vietnam by travel corridor"
+  viewBox={home ? vietnamProvinceViewBox : mainlandViewBox}
+  preserveAspectRatio={home ? 'xMidYMin meet' : 'xMidYMid meet'}
+  role="img"
+  aria-label="Map of Vietnam by region"
 >
-  {home ? (
-    <>
-      {vietnamProvinces.map((province) => {
-        const on = province.region === active;
-        return linked ? (
-          <a
-            class:list={['map-hit', 'map-province', { 'is-active': on }]}
-            href={`/destinations/${province.region}`}
-            data-region={province.region}
-            data-province={province.name}
-            data-corridor-name={province.regionName}
-          >
-            <path d={province.d}></path>
-          </a>
-        ) : (
-          <g
-            class:list={['map-province', { 'is-active': on }]}
-            data-region={province.region}
-            data-province={province.name}
-            data-corridor-name={province.regionName}
-          >
-            <path d={province.d}></path>
-          </g>
-        );
-      })}
-      <g class="map-islands" aria-label="Hoang Sa (Vietnam) and Truong Sa (Vietnam)">
+  {vietnamProvinces.map((province) => {
+    const on = province.region === active;
+    const path = <path d={province.d}></path>;
+    return linked ? (
+      <a
+        class:list={['map-hit', 'map-province', { 'is-active': on }]}
+        href={`/destinations/${province.region}`}
+        data-region={province.region}
+        data-province={province.name}
+        data-corridor-name={province.regionName}
+      >
+        <title>{province.name}</title>
+        {path}
+      </a>
+    ) : (
+      <g
+        class:list={['map-province', { 'is-active': on }]}
+        data-region={province.region}
+        data-province={province.name}
+        data-corridor-name={province.regionName}
+      >
+        <title>{province.name}</title>
+        {path}
+      </g>
+    );
+  })}
+  {home && (
+    linked ? (
+      <a
+        class:list={['map-hit', 'map-islands', { 'is-active': islandsOn }]}
+        href={`/destinations/${southCentral}`}
+        data-region={southCentral}
+        data-province="Hoang Sa and Truong Sa"
+        data-corridor-name="South Central Coast & Central Highlands"
+        aria-label="Hoang Sa (Vietnam) and Truong Sa (Vietnam)"
+      >
+        {vietnamIslandGroups.map((isle) => (
+          <path class="map-isle" d={isle.d}></path>
+        ))}
+        {vietnamSeaLabels.map((label) => (
+          <text class="map-sea-label" text-anchor="start">
+            <tspan x={label.x} y={label.y}>{label.name}</tspan>
+            <tspan x={label.x} dy="14">{label.note}</tspan>
+          </text>
+        ))}
+      </a>
+    ) : (
+      <g class:list={['map-islands', { 'is-active': islandsOn }]} data-region={southCentral} aria-label="Hoang Sa (Vietnam) and Truong Sa (Vietnam)">
         {vietnamIslandGroups.map((isle) => (
           <path class="map-isle" d={isle.d}></path>
         ))}
@@ -56,22 +82,20 @@ const viewBox = home ? vietnamProvinceViewBox : vietnamViewBox;
           </text>
         ))}
       </g>
-    </>
-  ) : (
-    vietnamRegions.map((region) => {
-      const on = region.slug === active;
-      return linked ? (
-        <a class:list={['map-hit', { 'is-active': on }]} href={`/destinations/${region.slug}`} data-region={region.slug}>
-          <title>{region.name}</title>
-          <path d={region.d} fill={region.fill}></path>
-          {names && <text class="map-region-name" x={region.label.x} y={region.label.y} text-anchor="middle">{region.name}</text>}
-        </a>
-      ) : (
-        <g class:list={[{ 'is-active': on }]} data-region={region.slug}>
-          <title>{region.name}</title>
-          <path d={region.d} fill={region.fill}></path>
+    )
+  )}
+  {pins.length > 0 && (
+    <g class="map-pins" aria-hidden="true">
+      {pins.map((pin) => (
+        <g
+          class:list={['map-pin', { 'is-active': pin.listed && pin.region === active }]}
+          data-region={pin.listed ? pin.region : undefined}
+          data-province={pin.name}
+        >
+          <circle cx={pin.x} cy={pin.y} r="4.4"></circle>
+          <text x={pin.lx} y={pin.ly} text-anchor={pin.anchor}>{pin.label}</text>
         </g>
-      );
-    })
+      ))}
+    </g>
   )}
 </svg>
