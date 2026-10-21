@@ -61,3 +61,123 @@ Accessed 21 Oct 2026 unless a line says the page has its own date.
 - Publisher: National Assembly, Resolution 202/2025/QH15, English text via LuatVietnam. Dated and adopted 12 Jun 2025. The resolution says it takes effect on the day it was adopted. Local governments in the rearranged provinces start on 1 Jul 2025.
 - Accessed: 21 Oct 2026
 - Supports: After the rearrangement the country has 34 provincial-level units, 28 provinces and 6 cities. Hue city is named among the 11 provinces and cities not subject to the reorganization, with Hanoi. The new Quang Tri and the enlarged Da Nang are both described as bordered by Hue city.
+
+### S11
+- URL: https://hue.gov.vn/Portals/0/Uploads/VBPL/Nam2026/Thang1/000.00.00.K57-55-2025-NQ-HDND-2025-PL1.pdf
+- Publisher: Hue City People’s Council, Resolution 55/2025/NQ-HĐND, 25 Dec 2025. In force 4 Jan 2026. Replaces resolutions 22/2022, 03/2024, and 27/2024.
+- Accessed: 21 Oct 2026
+- Supports: The fee table in attractions.md. Same adult price for international and Vietnamese visitors. Child means 7–12. Under 7 free. Half price for the groups named in the resolution, including Hue residents. Four-site ticket (Đại Nội, Minh Mạng, Tự Đức, Khải Định) 530,000 adult / 100,000 child, up to two days. All-site ticket 600,000 / 120,000, up to five days. The centre collects the fee. Thien Mu is not on the table.
+
+### S12
+- URL: https://hueworldheritage.org.vn/Thong-tin-tham-quan/Thoi-gian-tham-quan/pid/1775/cid/59?tid=Thoi-gian-dongmo-cua-tai-cac-diem-tham-quan.html
+- Publisher: Hue Monuments Conservation Centre. Article date on the page 12 Mar 2024, 15:24.
+- Accessed: 21 Oct 2026
+- Supports: Visiting-point hours. 16 Mar–15 Oct open 06:30–18:00, tickets 06:30–17:30. 16 Oct–15 Mar open 07:00–17:30, tickets 07:00–17:00. A direct reload of this URL timed out on 21 Oct 2026. The text used here is the centre’s page as retrieved that day. The notice does not name Thien Mu and does not name a weekly closing day. Confirm the board on arrival.
+
+### S13
+- URL: https://eticket.hueworldheritage.org.vn/diem-den/dai-noi
+- Publisher: Hue Monuments Conservation Centre, official ticket site, Đại Nội page. The site footer gives the office at Tam Toà, 33 Tống Duy Tân.
+- Accessed: 21 Oct 2026
+- Supports: Outer citadel about 10 km around, walls about 6.6 m high. Imperial City about 600 m a side. Ngọ Môn for the king. Forbidden Purple City from 1804. Duyệt Thị Đường theatre. Index lines used for Gia Long, Thiệu Trị, Hon Chen (Ngọc Trản, Ngọc Hồ, Hương Hồ), An Dinh (An Cựu river), and Nam Giao. The homepage on the same site names an audio guide and an electric cart with phone numbers and no prices.
+
+### S14
+- URL: https://eticket.hueworldheritage.org.vn/diem-den/lang-tu-duc
+- Publisher: Hue Monuments Conservation Centre, ticket site
+- Accessed: 21 Oct 2026
+- Supports: Tu Duc tomb at thôn Thượng Ba, xã Thủy Xuân. Garden layout, Lưu Khiêm lake, Khiêm in the building names, renamed after the Chày Vôi revolt.
+
+### S15
+- URL: https://eticket.hueworldheritage.org.vn/diem-den/lang-minh-mang
+- Publisher: Hue Monuments Conservation Centre, ticket site
+- Accessed: 21 Oct 2026
+- Supports: Minh Mang tomb at the old ấp An Bằng, Hương Trà, where the two tributaries meet. Spirit way about 700 m. Rampart about 1,750 m. Đại Hồng Môn.
+
+### S16
+- URL: https://eticket.hueworldheritage.org.vn/diem-den/lang-khai-dinh
+- Publisher: Hue Monuments Conservation Centre, ticket site
+- Accessed: 21 Oct 2026
+- Supports: Khai Dinh tomb on Châu Chữ / Châu Ê, renamed Ứng Sơn. About 117 m by 48.5 m. Started 4 Sep 1920, finished 11 years later.
+
+### S17
+- URL: https://vietnam.travel/places-to-go/central-vietnam/hue
+- Publisher: Vietnam National Administration of Tourism, vietnam.travel
+- Accessed: 21 Oct 2026
+- Supports: About 15 km to Phu Bai, which disagrees with the AIP’s 13 km. Best months named as February to April. Heavy rain and typhoons September to November. Wet season September to December. Seven-tiered Thien Mu tower. Dong Ba before bánh khoái and bánh bèo. Cycle to the Thanh Toan tile bridge. Tu Hieu named, no address. Lê Lợi named for colonial buildings, not as a cafe street.
+
+### S18
+- URL: https://vietnam.travel/things-to-do/hue-best-to-eat-palace-street
+- Publisher: Vietnam National Administration of Tourism
+- Accessed: 21 Oct 2026
+- Supports: Dish descriptions for bún bò Huế, bánh nậm, bánh khoái, bún thịt nướng, cơm hến, nem lụi, and chè. No stall prices. “Pauper prices” is not a price.
+
+### S19
+- URL: https://vietnam.travel/things-to-do/how-eat-local-hue
+- Publisher: Vietnam National Administration of Tourism
+- Accessed: 21 Oct 2026
+- Supports: How to eat bánh bèo, bánh nậm, bánh khoái, and bún thịt nướng. Shop names and the printed O Lé address. Those names are notes, not picks. Kim Long as the street for two of them.
+
+### S20
+- URL: https://vietnam.travel/things-to-do/hue-itinerary
+- Publisher: Vietnam National Administration of Tourism
+- Accessed: 21 Oct 2026
+- Supports: Thuận An morning swim, two bridges, Tam Giang lagoon. Hen Island via Ưng Bình bridge, under half an hour, floods, cơm hến and bún hến stalls. Chi Lăng and Bạch Đằng for the afternoon. Shop names there are notes, not picks.
+
+### S21
+- URL: https://svhttdl.hue.gov.vn/tin-quoc-te/dau-bep-noi-tieng-my-khen-bun-bo-hue-la-mon-soup-ngon-nhat-the-gioi.html
+- Publisher: Hue Department of Culture, Sports and Tourism, 24 Oct 2014
+- Accessed: 21 Oct 2026
+- Supports: Bún bò Huế at Dong Ba market, and a mention of cơm hến and bánh bèo in the same 2014 film note. Not a price and not a market address.
+
+### S22
+- URL: https://tuongtac.hue.gov.vn/phan-anh/hoi-ve-lich-xuat-ben-cua-cac-chuyen-xe-tuyen-hue---da-nang-o-ben-xe-phia-nam-a194732.html
+- Publisher: Hue city field desk. Reply from Công ty Cổ phần Bến xe Huế
+- Accessed: 21 Oct 2026
+- Supports: Hue–Da Nang buses at the south station, 05:00–19:00, about every 15 minutes, about 2 hours to 2 hours 15 minutes. One source. No second timetable.
+
+### S23
+- URL: https://tuongtac.hue.gov.vn/phan-anh/thac-mac-ve-tuyen-xe-bus-van-chuyen-hanh-khach-hai-chieu-tu-san-bay-phu-bai-%E2%86%94%EF%B8%8F-tp.-hue-a161839.html
+- Publisher: Phu Bai International Airport, reply on the city desk, 29 Sep 2024. A later reply of 15 Jan 2025 says the same gap: https://tuongtac.hue.gov.vn/phan-anh/hoi-ve-ho-tro-tram-xe-bus-trong-san-bay-phu-bai-a176397.html
+- Accessed: 21 Oct 2026
+- Supports: No city bus was serving the airport terminal. The pilot service ended 1 Apr 2024. Fares in the complaints are not a tariff.
+
+### S24
+- URL: https://tuongtac.hue.gov.vn/phan-anh/gop-y-ve-bien-cam-do-xe-tai-pho-di-bo-a59406.html
+- Publisher: Hue urban management, reply 7 Jan 2022, on the city field desk. Related desk pages: phố tây at 28 Phạm Ngũ Lão (2019), https://tuongtac.hue.gov.vn/phan-anh/do-xe-noi-co-vach-ke-duong-cho-nguoi-di-bo-khu-pho-tay-a14963.html ; Phú Hội ward, Feb 2024, Võ Thị Sáu and no walking street on lunar-new-year days, https://tuongtac.hue.gov.vn/phan-anh/dau-xe-may-lan-chiem-long-duong-chu-van-an-a129480.html ; one 22:00 noise case at 11 Phạm Ngũ Lão, https://tuongtac.hue.gov.vn/phan-anh/kinh-doanh-gay-on-tai-duong-pham-ngu-lao-a110782.html
+- Accessed: 21 Oct 2026
+- Supports: The three streets the desk treats as the walking street and as phố Tây: Chu Văn An, Phạm Ngũ Lão, Võ Thị Sáu. No closing hour for the street. The 22:00 line is one business. Do not publish that business.
+
+### S25
+- URL: https://hue.gov.vn/Portals/0/Uploads/VBPL/Nam2026/Thang1/00.00.H57-500-KH-UBND-2025-PL2_signed.pdf
+- Publisher: Hue People’s Committee, Plan 500/KH-UBND, 31 Dec 2025, Festival Huế 2026
+- Accessed: 21 Oct 2026
+- Supports: Year-long festival from 1 Jan 2026 to the 31 Dec 2026 countdown. Arts week 13–18 Jun 2026. Four seasons. Theme. The conservation centre is the standing office. No visitor ticket price.
+
+### S26
+- URL: https://hue.gov.vn/Portals/0/Uploads/VBPL/Nam2026/Thang1/00.00.H57-500-KH-UBND-2025-PL4.pdf
+- Publisher: Appendix to Plan 500/KH-UBND
+- Accessed: 21 Oct 2026
+- Supports: 1 Jan 2026 announcement and Ban Sóc rite at Ngọ Môn square, organized by the conservation centre.
+
+### S27
+- URL: https://svhttdl.hue.gov.vn/tin-trong-tinh/cong-bo-festival-hue-2026-va-tai-hien-le-ban-soc-trieu-nguyen.html
+- Publisher: Hue Department of Culture, Sports and Tourism, 5 Jan 2026
+- Accessed: 21 Oct 2026
+- Supports: The 1 Jan 2026 opening happened at Ngọ Môn. Four-season model confirmed after the event.
+
+### S28
+- URL: https://svhttdl.hue.gov.vn/review/?fileName=DANH+M&id=MTY1MTI2fFRUVERU0
+- Publisher: Hue Department of Culture, Sports and Tourism, ranked-monument list
+- Accessed: 21 Oct 2026
+- Supports: Thien Mu in Kim Long ward, managed with the Buddhist association. Đại Nội in Phú Xuân ward. Nam Giao in Thuận Hóa ward. Hon Chen in the Kim Long / Hương area line of the same table.
+
+### S29
+- URL: https://hueworldheritage.org.vn/Di-san/Chi-tiet/pid/1215/cid/87?tid=LANG-HOANG-DE-TU-DUC-Khiem-Lang.html
+- Publisher: Hue Monuments Conservation Centre, heritage page for Khiêm Lăng
+- Accessed: 21 Oct 2026
+- Supports: Tu Duc tomb described as phường Thủy Xuân. The ticket page says thôn Thượng Ba, xã Thủy Xuân (S14). Both names stay.
+
+### S30
+- URL: https://svhttdl.hue.gov.vn/tin-chuyen-trang-phong-trao/tren-dong-huong.html
+- Publisher: Hue Department of Culture, Sports and Tourism
+- Accessed: 21 Oct 2026
+- Supports: Phước Duyên tower of Thien Mu seen from the river over Hà Khê hill. The pagoda dated to Nguyễn Hoàng in the early 17th century. Not a fee and not an hour.

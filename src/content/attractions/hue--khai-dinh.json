@@ -1,0 +1,60 @@
+{
+  "slug": "khai-dinh",
+  "placeSlug": "hue",
+  "name": "Tomb of Khai Dinh",
+  "nameVi": "Lăng Khải Định",
+  "kicker": "Compact ornate tomb on a renamed hill",
+  "summary": "Climb Khai Dinh’s compact tomb, about 117 metres by 48.5 metres, begun on 4 September 1920. An adult ticket is 150,000 VND and it is on the four-site ticket with the Imperial City. The photograph here is the gilded statue inside. Minutes on site are check on arrival.",
+  "dots": 4,
+  "timeNeeded": "Check on arrival",
+  "fee": "150,000 VND",
+  "getThere": "Upstream with the other tombs. Minutes are check on arrival.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The gilded statue of Khai Dinh inside the tomb",
+  "notice": {
+    "title": "The hero frame is the statue inside",
+    "body": "A facade-and-stair photograph was not found. The second frame is the terrace and a roof, with a lot of sky. The building itself is the compact tomb, about 117 m by 48.5 m, started on 4 September 1920 and finished 11 years later."
+  },
+  "body": [
+    "The centre places the tomb on the slope of Châu Chữ, also called Châu Ê, which the king renamed Ứng Sơn. The plan is about 117 m by 48.5 m. Work started on 4 September 1920 and took 11 years. The centre contrasts that footprint with the larger garden tombs.",
+    "An adult ticket is 150,000 VND, and a child from 7 to 12 pays 30,000 VND. Under 7 is free. It sits on the four-site ticket with the Imperial City, Minh Mang, and Tu Duc: 530,000 VND for an adult and 100,000 VND for a child from 7 to 12, for up to two days from the first visit.",
+    "Do not give this tomb a citadel morning of its own. Do not skip it after you have paid the four-site price. Pair it with Minh Mang or Tu Duc. The winter ticket desk on the centre’s notice stops at 17:00. Confirm that board. How long the climb takes is check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "hue-khai-dinh-2",
+      "caption": "The terrace and a roof, with open sky. A full facade was not found.",
+      "alt": "Ornate stone terrace and a small roof at Khai Dinh’s tomb, with hills and a wide sky behind"
+    }
+  ],
+  "gettingThere": [
+    "The tomb is upstream with the other royal tombs, on the hill the king called Ứng Sơn. Go by bicycle or taxi from the south bank. The minutes are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the south bank",
+      "body": "Bicycle or taxi, upstream. No published minute count. Check on arrival."
+    }
+  ],
+  "hours": "16 Mar–15 Oct: 06:30–18:00, tickets until 17:30. 16 Oct–15 Mar: 07:00–17:30, tickets until 17:00. Confirm on arrival. The source is the centre’s 12 Mar 2024 notice, and a direct reload timed out on 21 Oct 2026.",
+  "closed": "No weekly closing day is on that notice. Confirm the board on arrival.",
+  "admissionNote": "Adult 150,000 VND. A child from 7 to 12 pays 30,000 VND. Under 7 is free. Hue residents and the other groups named in Resolution 55 pay half. The four-site ticket, Imperial City plus Minh Mang, Tu Duc, and Khai Dinh, is 530,000 VND for an adult and 100,000 VND for a child from 7 to 12, for up to two days from the first visit.",
+  "links": [
+    {
+      "label": "Khai Dinh ticket page",
+      "url": "https://eticket.hueworldheritage.org.vn/diem-den/lang-khai-dinh",
+      "note": "Hue Monuments Conservation Centre"
+    },
+    {
+      "label": "Resolution 55 fee table",
+      "url": "https://hue.gov.vn/Portals/0/Uploads/VBPL/Nam2026/Thang1/000.00.00.K57-55-2025-NQ-HDND-2025-PL1.pdf",
+      "note": "In force 4 Jan 2026"
+    },
+    {
+      "label": "Visiting hours notice",
+      "url": "https://hueworldheritage.org.vn/Thong-tin-tham-quan/Thoi-gian-tham-quan/pid/1775/cid/59?tid=Thoi-gian-dongmo-cua-tai-cac-diem-tham-quan.html",
+      "note": "12 Mar 2024. A direct reload timed out on 21 Oct 2026."
+    }
+  ],
+  "interests": ["oldTowns"]
+}

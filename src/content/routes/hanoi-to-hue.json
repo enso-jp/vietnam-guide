@@ -3,15 +3,15 @@
   "name": "Hanoi to Hue",
   "from": "Hanoi",
   "to": "Hue",
-  "summary": "Fly if the date matters. Take the sleeper train if the journey is part of the trip. The bus is the budget overnight and the least comfortable of the three.",
+  "summary": "The five SE trains take 12 hours 35 minutes to 14 hours 12 minutes. A flight time and a Hanoi sleeper-bus time are check on arrival.",
   "modes": [
-    { "mode": "Flight", "duration": "About 1 hour 20 minutes in the air", "note": "Plus airport rides at both ends. The practical choice on a 14-day trip.", "partner": "flight" },
-    { "mode": "Train", "duration": "About 13–15 hours", "note": "Reunification Express sleepers. Book a berth, not a hard seat.", "partner": "train" },
-    { "mode": "Sleeper bus", "duration": "About 12–14 hours", "note": "Cheaper than the train berth and more tiring.", "partner": "bus", "partnerPath": "hanoi/hue" }
+    { "mode": "Flight", "duration": "Check on arrival", "note": "No block time is published. Airport rides at both ends are extra.", "partner": "flight" },
+    { "mode": "Train", "duration": "12 hours 35 minutes to 14 hours 12 minutes", "note": "The five SE trains on the Vietnam Railways board. SE3 is the short end and SE9 is the long end. Book a berth, not a hard seat.", "partner": "train" },
+    { "mode": "Sleeper bus", "duration": "Check on arrival", "note": "A Hanoi sleeper-bus duration was not on the railway board or the Hue station reply.", "partner": "bus", "partnerPath": "hanoi/hue" }
   ],
-  "seoTitle": "Hanoi to Hue — flight, train, or sleeper bus",
-  "seoDescription": "How long Hanoi to Hue takes by air, rail, and bus, and which one to book on a short trip.",
+  "seoTitle": "Hanoi to Hue travel — SE trains, flights, and buses",
+  "seoDescription": "The five SE trains from Hanoi to Hue take 12 hours 35 minutes to 14 hours 12 minutes. Flight times and the sleeper bus are check on arrival.",
   "faqs": [
-    { "q": "Which should you book?", "a": "Fly if you have two weeks for the whole country. Take the train if you want the coast overnight and can spare the next morning." }
+    { "q": "Which should you book?", "a": "Take an SE train if the overnight coast is part of the trip. A flight time is check on arrival, so compare the ticket you are offered with the train’s 12 hours 35 minutes to 14 hours 12 minutes." }
   ]
 }

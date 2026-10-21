@@ -1,0 +1,32 @@
+# Open questions
+
+Checked: 21 Oct 2026. Public fields that depend on these stay “Check on arrival.”
+
+- Which south-bank block faces the river. No official hotel street.
+- Phu Bai ride in minutes. Distance is 13 km on the AIP and about 15 km on Vietnam Tourism.
+- Flight block times, including Hanoi–Hue.
+- Street door of Ga Huế.
+- Which of the two heritage-train clocks is the one on the ticket.
+- Door-to-door road minutes Hue–Da Nang and Hue–Hoi An.
+- Hanoi sleeper-bus duration.
+- Onward ride from Dong Hoi to Phong Nha.
+- Ca Huế wharf, boat, and hour.
+- Closing hour of the night streets. The 22:00 line is one business on Phạm Ngũ Lão.
+- A published walking-street timetable for Chu Văn An, Phạm Ngũ Lão, and Võ Thị Sáu, other than “not on lunar-new-year days.”
+- Hai Bà Trưng night street beyond the name in Plan 66.
+- Thien Mu fee. Resolution 55 does not list it. That is not proof it is free.
+- Thien Mu hours. The 12 Mar 2024 notice does not name the pagoda, and the page timed out on reload.
+- On-site minutes at the citadel and the tombs, and the ride from the south bank.
+- Dong Ba market’s street number and door hour.
+- A street for bánh bèo that is not a shop name.
+- An alley name for chè.
+- The hour the city goes quiet.
+- A cafe street. Lê Lợi, on the national page, is a colonial walk.
+- Festival visitor ticket, and any date after the 2026 plan.
+- Bach Ma as a visit. Only the rainfall figure was found.
+- Audio-guide and electric-cart prices. The ticket site gives phone numbers only.
+- Coordinates. None recorded.
+- A city hero that shows the river, the north-bank wall, and the south-bank front together. The frame in use is Kỳ Đài.
+- A com hen plate that is the Hue dish. The clam photos found were a different plate or a different town.
+- A festival photograph that is not a document or a logo.
+- A facade-and-stair frame of Khai Dinh’s tomb. The hero is the gilded statue inside. The second frame is the terrace, and it is mostly sky.
