@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T05:12:10.579Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T05:12:10.579Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,19 +45,19 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T05:12:10.579Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T05:12:10.579Z",
       "reworkCount": 0
     },
     "researchBase": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "First pass of the scene and the journey. Still open: drive minutes from Hoi An, Da Nang, the airport, and Ga Tra Kieu; whether any bus is running after 01DL paused on 15 Sep 2026; a single close time (17:00 and 18:00 both in print); homepage coordinates that do not match UNESCO; lodging in the hamlet; a fixed date for Dem My Son huyen thoai. Sights, food streets, nightlife, the ordinary day, events, and side trips are other lanes.",
+      "updated": "2026-10-21T05:12:10.579Z",
       "reworkCount": 0
     },
     "researchAttractions": {
@@ -104,19 +104,21 @@
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "note": "Scene dossier started 21 Oct 2026. This towers row was not researched in researchBase.",
+      "updated": "2026-10-21T05:12:26.989Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "my-son",
-    "stage": "researchBase",
-    "item": null,
-    "at": "2026-10-21T05:05:43.542Z",
-    "by": "content-worker",
-    "branch": "content/my-son-research-base"
-  },
-  "log": []
+  "claim": null,
+  "log": [
+    {
+      "at": "2026-10-21T05:12:10.579Z",
+      "place": "my-son",
+      "stage": "researchBase",
+      "item": null,
+      "status": "needs_depth",
+      "note": "First pass of the scene and the journey. Still open: drive minutes from Hoi An, Da Nang, the airport, and Ga Tra Kieu; whether any bus is running after 01DL paused on 15 Sep 2026; a single close time (17:00 and 18:00 both in print); homepage coordinates that do not match UNESCO; lodging in the hamlet; a fixed date for Dem My Son huyen thoai. Sights, food streets, nightlife, the ordinary day, events, and side trips are other lanes."
+    }
+  ]
 }
