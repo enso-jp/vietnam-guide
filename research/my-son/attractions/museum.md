@@ -16,7 +16,7 @@ The city dossier entry is the index. This file is the sight. The 2020 museum clo
 
 ## What the visitor does
 
-- The scene, in order: Cars stop at this building beside the Khe Thẻ stream, about 2 km northwest of the towers. The room was built from June 2004 to March 2005 with a Japanese government grant, and the board has used it as the gateway since 2005 (S2, S8, S23). The labeled pieces on the museum page are a linga-yoni from B1 (8th century), a guardian from E (10th to 11th), a Shiva from A4 (10th), a dancing Shiva from H1 (13th), an elephant-lion from C1 (11th), and a Brahma from tower K (11th). A wooden model of a Shiva sanctuary stands in the same room (S23). The cart leaves from here.
+- The scene, in order: Cars stop at this building beside the Khe Thẻ stream, about 2 km northwest of the towers. The room was built from June 2004 to March 2005 with a Japanese government grant, and the board has used it as the gateway since 2005 (S2, S8, S23). On 21 Oct 2026 the museum page labeled a linga-yoni from B1 (8th century), an undated stone pillar, a guardian from E (10th to 11th), a Shiva from A4 (10th), a corner flame ornament from H1 (13th), a praying-figure relief (about the 12th to the 13th), a dancing Shiva from H1 (13th), a dancing Shiva relief from C1 (18th), an elephant-lion from C1 (11th), an altar component from group A (9th), Indra from group A (10th), and a Brahma from tower K (11th). A 24 Feb 2025 conservation note counts 93 objects in this gallery and 708 displayed on site (S28). The Dalbéra photograph shows a wooden sanctuary roof over a linga. The museum page does not label that model. Do not give it a date. The cart leaves from here.
 - How long on site: Check on arrival — UNSOURCED.
 - How long including the ride from the base: Hoi An is 45 km with no drive minutes (S2). Check on arrival — UNSOURCED.
 - Mistake that wastes the visit: Treating the gallery as the ruins, or arriving after 17:00 and assuming the 18:00 valley close applies to this door.
@@ -63,7 +63,7 @@ The city dossier entry is the index. This file is the sight. The 2020 museum clo
 ## Photos
 
 - Hero must show: a carved pedestal in the gallery, subject through the center.
-- Second frame must show (a different moment): the wooden Shiva model. The only licensed interior that is not a relief map is one Dalbéra exposure. The second frame is a different crop of that same file. Credit the same file and say so. Reject the relief-map exposure.
+- Second frame must show (a different moment): the wooden sanctuary roof in the same room. The only licensed interior that is not a relief map is one Dalbéra exposure. A Guimet Museum Shiva titled “My Son” is not this gallery and was rejected. The second frame stays a different crop of the Dalbéra file. Credit the same file and say so. Reject the relief-map exposure.
 - Reject: entrance signs, a map, the outdoor linga, and the Cham Museum in Da Nang.
 
 ## Links
@@ -71,6 +71,7 @@ The city dossier entry is the index. This file is the sight. The 2020 museum clo
 - Museum page: https://mysonsanctuary.com.vn/bao-tang/bao-tang-my-son
 - Tickets: https://mysonticketonline.vn/information
 - 2020 visitor guide: https://mysonsanctuary.com.vn/tin-tuc/thong-tin-huong-dan-tham-quan-my-son.html
+- Conservation inventory, 24 Feb 2025: https://mysonsanctuary.com.vn/tin-tuc/nhung-ket-qua-buoc-dau-trong-cong-tac-bao-quan-vat-lieu-o-di-san-van-hoa-the-gioi-my-son.html (S28)
 
 ## Open questions
 

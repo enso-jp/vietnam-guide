@@ -16,7 +16,7 @@ The city dossier entry is the index. This file is the sight. Fees and hours that
 
 ## What the visitor does
 
-- The scene, in order: Stop at the museum by the Khe Thẻ stream. Take the electric cart about 2 km. Walk the brick groups the board has open. The 25 Feb 2025 history essay says the towers that remain stand mostly in B, C, and D, and that A1, once 24 m, came down in 1969 (S15). A group, on the architecture page, is a kalan with its door usually to the east, a gopura, a mandapa, and smaller shrines inside a wall (S16). Catch a daytime performance if the hour matches: hall slots through 16:00, group G at 09:00 and 14:45, folk singing at the group H slope on Monday, Wednesday, and Friday (S3, S5). Leave before the close. Eat elsewhere. The ticket rules forbid food in the monument area (S5).
+- The scene, in order: Stop at the museum by the Khe Thẻ stream. Take the electric cart about 2 km. Walk the brick groups the board has open. The 25 Feb 2025 history essay says French surveys exposed 72 structures in 13 groups, and that about 20 towers remain, mostly in B, C, and D, and that A1, once 24 m, came down in 1969 (S15). A conservation note the day before, 24 Feb 2025, counts more than 40 temple structures still relatively intact, plus enclosure walls (S28). Those totals are not one number, and neither matches UNESCO’s eight groups and 71 monuments (S1). A group, on the architecture page of 17 May 2019, is a kalan with its door usually to the east, sometimes a west door on a large tower, a gopura, a long tiled mandapa for offerings and dances, and smaller shrines inside a thick brick wall (S16). Styles named there: Mỹ Sơn E1, Hòa Lai, Đồng Dương, Mỹ Sơn A1, Ponaga, Bình Định, in fired brick and sandstone. Only B1 has a stone base (S28). B4 is 9th century, Đồng Dương style (S28). Group G was restored with Italian funding and UNESCO’s backing after a survey from 1997 to 2000, and it also uses laterite (S15, S28). E7 is a boat-roofed kosagrha restored 2011–2015, called one of the most intact of that roof (S15). A 16 Aug 2021 essay says bomb fragments from the clearance of A1 are displayed in D2, and that reliefs are kept in D1 and D2 (S27). Catch a daytime performance if the hour matches. Leave before the close. Eat elsewhere. The ticket rules forbid food in the monument area (S5).
 - How long on site: Check on arrival — UNSOURCED. No page prints the walking time.
 - How long including the ride from the base: Hoi An is 45 km and Da Nang is 68 km, with no drive minutes (S2). The sum is Check on arrival — UNSOURCED.
 - Mistake that wastes the visit: Arriving on the later close and finding the earlier one in force. Climbing the brick. Leaving the paths. Waiting for bus 01DL, which is paused (S10).
@@ -24,8 +24,8 @@ The city dossier entry is the index. This file is the sight. Fees and hours that
 
 ## Fee
 
-- Basic price, and who pays it: 150,000 VND international adult and 100,000 VND Vietnamese adult. S4, S5, S6, and S9 all print those two adult bands. S5 says the price includes VAT.
-- Child, height, or senior rule: S4 says 30,000 VND for children 5 to 15. S5 says children 5 to 15 buy the 30,000 VND shuttle service ticket and children under 5 are free. S6 and S9 do not print a child band. No height rule and no senior rule on these pages. Check on arrival for the child line.
+- Basic price, and who pays it: The information page, the 2020 guide, the 2019 notice, and the 2026 city list print 150,000 VND international adult and 100,000 VND Vietnamese adult. S5 says the price includes VAT and that the purchase page is the figure that can change. On 21 Oct 2026 the purchase page showed 148,000 VND and 99,000 VND (S26). Both pairs are printed. They are not averaged.
+- Child, height, or senior rule: S4 says 30,000 VND for children 5 to 15. S5 says children 5 to 15 buy the 30,000 VND shuttle service ticket and children under 5 are free. S26 showed a child ticket at 30,000 VND on the service type and did not print ages. S6 and S9 do not print a child band. No height rule and no senior rule on these pages. Tour-operator 50,000 VND and height bands were not used. Check on arrival for the child line. The child fare stays unstated as one rule.
 - What the basic ticket includes: S4 says the museum, the electric shuttle, a Cham folk performance, and the monuments. S9 says the visit and the services. S11 says the cart is inside the entrance ticket. S5 describes the 30,000 VND line as the shuttle ticket for children and does not restate the adult inclusion in those words.
 - What costs extra: An on-site explanation of 100,000 VND a ticket, one ticket for 1–5 guests, is only on S4. S5 does not list it. Green bicycle, audio guide, pottery, hat-weaving, and virtual reality have no price on the services index (S17). Check on arrival.
 - Source, or UNSOURCED: S4, S5, S6, S9, S11, S17
@@ -145,3 +145,21 @@ The city dossier entry is the index. This file is the sight. Fees and hours that
 - Publisher: DanangBus, 14 Sep 2026
 - Accessed: 21 Oct 2026
 - Supports: 01DL paused six months from 15 Sep 2026. Dossier S10.
+
+### A11
+- URL: https://mysonticketonline.vn/ticket
+- Publisher: Management board purchase page
+- Accessed: 21 Oct 2026
+- Supports: Checkout showed 148,000 / 99,000 VND and a child ticket at 30,000 VND on the service type, with no ages. Dossier S26.
+
+### A12
+- URL: https://mysonsanctuary.com.vn/bao-ton-va-phat-huy/kien-truc-su-kazimierz-kwiatkowski-chuyen-gia-ba-lan-voi-my-son.html
+- Publisher: Management site, Lê Văn Minh, 16 Aug 2021
+- Accessed: 21 Oct 2026
+- Supports: Bomb fragments displayed in D2. Reliefs kept in D1 and D2. Dossier S27.
+
+### A13
+- URL: https://mysonsanctuary.com.vn/tin-tuc/nhung-ket-qua-buoc-dau-trong-cong-tac-bao-quan-vat-lieu-o-di-san-van-hoa-the-gioi-my-son.html
+- Publisher: Management site, Lê Văn Cường, 24 Feb 2025
+- Accessed: 21 Oct 2026
+- Supports: More than 40 structures, B1’s stone base, laterite at group G, B4’s 9th-century Đồng Dương wall, E7’s faded roof coat. Dossier S28.
