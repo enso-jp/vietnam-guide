@@ -12,7 +12,7 @@
     "sights": "partial",
     "areas": "partial",
     "foodStreets": "partial",
-    "nightlife": "missing",
+    "nightlife": "partial",
     "lifestyle": "missing",
     "events": "missing",
     "sideTrips": "missing"
@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:29:56.645Z",
+      "updated": "2026-10-21T08:30:59.687Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:29:56.645Z",
+      "updated": "2026-10-21T08:30:59.687Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,13 +45,13 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:29:56.645Z",
+      "updated": "2026-10-21T08:30:59.687Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:29:56.645Z",
+      "updated": "2026-10-21T08:30:59.687Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -73,9 +73,9 @@
       "reworkCount": 0
     },
     "researchNightlife": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "Evening areas in: Ta Hien, the Hang Dao weekend line, and the lake edge. Still open: a clock for Ta Hien, any venue with its own URL, and Luong Ngoc Quyen as its own row. No bar was made a pick.",
+      "updated": "2026-10-21T08:30:59.687Z",
       "reworkCount": 0
     },
     "researchLifestyle": {
@@ -105,7 +105,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026 from the Hoan Kiem management board. Hours and a current fee are Check on arrival. Published dot unchanged.",
-      "updated": "2026-10-21T08:29:56.645Z",
+      "updated": "2026-10-21T08:30:59.687Z",
       "reworkCount": 0
     },
     {
@@ -121,7 +121,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026. The management-board page prints no entrance fee and no door hours.",
-      "updated": "2026-10-21T08:29:56.645Z",
+      "updated": "2026-10-21T08:30:59.687Z",
       "reworkCount": 0
     },
     {
@@ -185,7 +185,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "87 Ma May. 20,000 VND in Resolution 44/2024. Hours Check on arrival.",
-      "updated": "2026-10-21T08:29:56.645Z",
+      "updated": "2026-10-21T08:30:59.687Z",
       "reworkCount": 0
     },
     {
@@ -201,7 +201,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "22 Hang Buom. 20,000 VND in Resolution 44/2024. Hours Check on arrival.",
-      "updated": "2026-10-21T08:29:56.645Z",
+      "updated": "2026-10-21T08:30:59.687Z",
       "reworkCount": 0
     },
     {
@@ -217,7 +217,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "44 Hang Bac. Fee Check on arrival. Not in Resolution 44/2024.",
-      "updated": "2026-10-21T08:29:56.645Z",
+      "updated": "2026-10-21T08:30:59.687Z",
       "reworkCount": 0
     },
     {
@@ -233,7 +233,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "East-gate landmark from the 2020 walking-space note. Architecture, fee, and hours still open.",
-      "updated": "2026-10-21T08:29:56.645Z",
+      "updated": "2026-10-21T08:30:59.687Z",
       "reworkCount": 0
     },
     {
@@ -249,7 +249,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Guild street. No separate page. Covered by the place walk and by Kim Ngan.",
-      "updated": "2026-10-21T08:29:56.645Z",
+      "updated": "2026-10-21T08:30:59.687Z",
       "reworkCount": 0
     },
     {
@@ -265,7 +265,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "The 2014 level-I streets are the place itself. Sights inside them have their own rows.",
-      "updated": "2026-10-21T08:29:56.645Z",
+      "updated": "2026-10-21T08:30:59.687Z",
       "reworkCount": 0
     },
     {
@@ -345,7 +345,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Food street behind Dong Xuan. The food guide carries it. No separate sight page. Hours Check on arrival.",
-      "updated": "2026-10-21T08:29:56.645Z",
+      "updated": "2026-10-21T08:30:59.687Z",
       "reworkCount": 0
     },
     {
@@ -361,20 +361,69 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Weekend walking market. Already the scene pin. The food guide can mention it. No separate page.",
-      "updated": "2026-10-21T08:29:56.645Z",
+      "updated": "2026-10-21T08:30:59.687Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--ta-hien",
+      "kind": "nightlife",
+      "track": "unit",
+      "name": "Ta Hien",
+      "slug": "ta-hien",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sourced 21 Oct 2026. Street pin only. Clock and drink prices Check on arrival.",
+      "updated": "2026-10-21T08:30:59.687Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--hang-dao-evening",
+      "kind": "nightlife",
+      "track": "unit",
+      "name": "Hang Dao weekend evening",
+      "slug": "hang-dao-evening",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Same weekend line as the scene pin and the food-street row. No second page.",
+      "updated": "2026-10-21T08:30:59.687Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--hoan-kiem-evening",
+      "kind": "nightlife",
+      "track": "unit",
+      "name": "Hoan Kiem lake edge",
+      "slug": "hoan-kiem-evening",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Lake walking space. Adjacent to the quarter. Not an Old Quarter page.",
+      "updated": "2026-10-21T08:30:59.687Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "old-quarter",
-    "stage": "researchNightlife",
-    "item": null,
-    "at": "2026-10-21T08:30:21.440Z",
-    "by": "hourly",
-    "branch": "cursor/old-quarter-research-base"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T08:30:59.687Z",
+      "place": "old-quarter",
+      "stage": "researchNightlife",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Evening areas in: Ta Hien, the Hang Dao weekend line, and the lake edge. Still open: a clock for Ta Hien, any venue with its own URL, and Luong Ngoc Quyen as its own row. No bar was made a pick."
+    },
     {
       "at": "2026-10-21T08:29:56.645Z",
       "place": "old-quarter",

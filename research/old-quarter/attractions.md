@@ -179,7 +179,57 @@ Still open on this pass: door hours for every sight; a current fee for Bạch M�
 
 ## Nightlife and evening
 
-Evening areas beyond the scene note above are the researchNightlife lane. No nightlife entries in this pass.
+No bar is a pick. The management board’s Tạ Hiện page names the street and the snacks, not a venue. Drink prices are not printed. A “0h–24h” widget under the lake page is not a clock.
+
+### Ta Hien
+- Vietnamese name: Phố Tạ Hiện
+- Kind: nightlife
+- Area: Between Hàng Buồm and Hàng Bạc, crossing Lương Ngọc Quyến
+- What the visitor does: Walk a street of about 270 m that has been a walking street since 3 Oct 2014. The management board says the evening is sidewalk tables, beer, loud music, and snacks: nem chua rán, fried potato, nem thính, grilled squid. It says those tables sell at local prices and does not print a number. Colonial shopfronts are the daytime architecture; the crowd is the evening (S27).
+- Time: The page says the street draws a crowd every evening, especially the weekend. A start and end clock are not on S27. Check on arrival — UNSOURCED
+- Fee: No cover charge is printed. A drink price is Check on arrival — UNSOURCED
+- From the base: Walk. You are inside the level-I streets (S20, S27)
+- When to go: Evening, especially Friday and Saturday if the page’s “especially weekends” line is the guide (S27)
+- Mistake to avoid: Turning the street into a ranked bar list. No venue on S27 has a door number.
+- Scene landmarks, if any, with a primary URL: the street itself, https://hoankiem360.tourism.vn/chi_tiet_pho_co/tuyen-pho-di-bo-ta-hien.html (S27). Not a bar.
+- Suggested slug: ta-hien
+- Suggested dot: 4 — the evening street inside the grid, not a separate night out from the quarter
+- Photo must show: the street after dark, both colonial shopfronts and the tables, subject through the center. A single glass with no street fails. A crop that cuts a person at the chest fails.
+- Sources: S27, S20
+
+### Hang Dao weekend evening
+- Vietnamese name: Tuyến phố đi bộ Hàng Đào – Đồng Xuân
+- Kind: nightlife
+- Area: The spine, from Đông Kinh Nghĩa Thục to the market gate
+- What the visitor does: Walk the weekend night market already pinned in Why a night here. This row is the evening use of that line, not a new place (S1).
+- Time: S1 says 19:00–23:00 Friday, Saturday, and Sunday. S2 does not print a clock for this line. S3 was one weekend only. Check on arrival.
+- Fee: No ticket is printed on S1
+- From the base: Walk
+- When to go: Weekend evening
+- Mistake to avoid: Listing the stalls as restaurants
+- Scene landmarks, if any, with a primary URL: the night-market page, https://hoankiem360.tourism.vn/chi_tiet_pho_co/cho-dem-pho-co-khu-vuc-hang-dao.html (S1)
+- Suggested slug: hang-dao-evening
+- Suggested dot: do not add a separate record. The scene pin and the food-street row carry it.
+- Photo must show: the walking crowd and both shopfronts at night
+- Sources: S1, S2, S3
+
+### Hoan Kiem lake edge
+- Vietnamese name: Không gian đi bộ hồ Hoàn Kiếm và vùng phụ cận
+- Kind: nightlife
+- Area: The lake, immediately south of the quarter
+- What the visitor does: Cross to the lake walk after the lanes. From 1 Sep 2016 the city has run a walking space from 19:00 Friday to 24:00 Sunday, on Đinh Tiên Hoàng, Lê Lai, Lê Thạch, Đinh Lễ, Nguyễn Xí, part of Tràng Tiền, Hàng Khay, half of Lê Thái Tổ, Lò Sũ, part of Hàng Dầu, Đông Kinh Nghĩa Thục square, part of Trần Nguyên Hãn, part of Lương Văn Can, part of Bảo Khánh, and part of Hàng Bài. The activity spots named are the Lý Thái Tổ monument, the Bà Kiệu garden, the square, 16 Lê Thái Tổ, and Thê Húc bridge. Folk games and performances share the path with the walk (S28). This is the lake, not a street of the grid.
+- Time: 19:00 Friday through 24:00 Sunday on S28. S2 says the same window. Holiday weekends change it (S3).
+- Fee: No ticket is printed on S28
+- From the base: Walk south to the square at the end of Hàng Đào (S1, S28)
+- When to go: Weekend, inside that window
+- Mistake to avoid: Calling the lake the Old Quarter. It is the next walk.
+- Scene landmarks, if any, with a primary URL: the lake walking-space page, https://hoankiem360.tourism.vn/chi_tiet_ho_hoan_kiem/khong-gian-di-bo-khu-vuc-xung-quanh-ho-hoan-kiem-va-vung-phu-can.html (S28). No bar.
+- Suggested slug: hoan-kiem-evening
+- Suggested dot: do not add an Old Quarter record. The lake belongs to Hanoi.
+- Photo must show: the lake path at night with the bridge or the square, not a lane of tube houses. That frame is the lake’s, so it is not the quarter’s hero.
+- Sources: S28, S2, S3
+
+Still open: a clock for Tạ Hiện; any named venue with its own primary URL; Lương Ngọc Quyến and the south walking space as their own evening rows; whether a weekday night on Tạ Hiện is the same street the weekend page describes.
 
 ## Lifestyle
 

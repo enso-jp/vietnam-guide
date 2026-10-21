@@ -74,6 +74,18 @@ Accessed 21 Oct 2026 unless a line says otherwise. A fee or a clock with one pag
 - Accessed: 21 Oct 2026
 - Supports: Indexed text only. Direct fetches timed out with no bytes. Do not treat S12 as confirmed until the page opens. The index text says about 100 ha, 76 streets, north Hàng Đậu, west Phùng Hưng, south Hàng Bông / Hàng Gai / Cầu Gỗ / Hàng Thùng, east Trần Quang Khải and Trần Nhật Duật, a commercial quarter from the 11th century, the “36 phố phường” guild name, and a weekend walking line Hàng Đào – Đồng Xuân of nearly 3 km. The 11th-century line disagrees with the 14th-century line on S8.
 
+### S27
+- URL: https://hoankiem360.tourism.vn/chi_tiet_pho_co/tuyen-pho-di-bo-ta-hien.html
+- Publisher: Hoàn Kiếm 360
+- Accessed: 21 Oct 2026
+- Supports: Tạ Hiện, nearly 270 m, from Hàng Buồm to Hàng Bạc, crossing Lương Ngọc Quyến. Walking street from 3 Oct 2014. Evening sidewalk beer and the snacks the page names. No venue door, no price, no clock. Comments under the article are not a source.
+
+### S28
+- URL: https://hoankiem360.tourism.vn/chi_tiet_ho_hoan_kiem/khong-gian-di-bo-khu-vuc-xung-quanh-ho-hoan-kiem-va-vung-phu-can.html
+- Publisher: Hoàn Kiếm 360
+- Accessed: 21 Oct 2026
+- Supports: Lake walking space from 1 Sep 2016, 19:00 Friday to 24:00 Sunday, and the street list. A “0h–24h” widget is not a clock.
+
 ### S23
 - URL: https://vietnam.travel/things-to-do/10-must-try-hanoi-dishes
 - Publisher: Vietnam Tourism (vietnam.travel)
