@@ -93,6 +93,13 @@
   },
   "items": [],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "lang-co",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-21T15:19:07.442Z",
+    "by": "lang-co-research",
+    "branch": "cursor/lang-co-research-69e8"
+  },
   "log": []
 }
