@@ -1,0 +1,420 @@
+{
+  "slug": "dak-nong",
+  "name": "Dak Nong",
+  "nameVi": "Đắk Nông",
+  "corridor": "highlands-coast",
+  "kind": "area",
+  "parent": null,
+  "publish": "accepted",
+  "priority": 33,
+  "note": "Owner assignment 21 Oct 2026 asked for a public draft. Corridor stays highlands-coast. Do not add a corridor.",
+  "coverage": {
+    "sights": "filled",
+    "areas": "none",
+    "foodStreets": "none",
+    "nightlife": "none",
+    "lifestyle": "filled",
+    "events": "none",
+    "sideTrips": "filled"
+  },
+  "stages": {
+    "researchBase": {
+      "status": "stored",
+      "note": "Left out: taxi fares and rail station names.",
+      "updated": "2026-10-21T11:19:25.511Z",
+      "reworkCount": 0
+    },
+    "researchAttractions": {
+      "status": "stored",
+      "note": "Left out: Truc Lam, wind farms, and Chu Bluk trek pages.",
+      "updated": "2026-10-21T11:19:25.635Z",
+      "reworkCount": 0
+    },
+    "researchFood": {
+      "status": "stored",
+      "note": "Left out: stall prices and public food guide.",
+      "updated": "2026-10-21T11:19:34.593Z",
+      "reworkCount": 0
+    },
+    "researchNightlife": {
+      "status": "stored",
+      "note": "Left out: bar names; none recorded.",
+      "updated": "2026-10-21T11:19:34.652Z",
+      "reworkCount": 0
+    },
+    "researchLifestyle": {
+      "status": "stored",
+      "note": "Left out: breakfast street names.",
+      "updated": "2026-10-21T11:19:34.740Z",
+      "reworkCount": 0
+    },
+    "researchContext": {
+      "status": "stored",
+      "note": "Left out: Yok Don fees and festival pages.",
+      "updated": "2026-10-21T11:19:40.329Z",
+      "reworkCount": 0
+    },
+    "destination": {
+      "status": "paged",
+      "note": "One public attraction (Dray Sap). Other sights dossier-only until licensed photos. Two-day itinerary resolves.",
+      "updated": "2026-10-21T11:19:44.309Z",
+      "reworkCount": 0
+    },
+    "destinationCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:19:40.330Z",
+      "reworkCount": 0
+    },
+    "destinationQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:19:40.330Z",
+      "reworkCount": 0
+    },
+    "food": {
+      "status": "skipped",
+      "note": "No licensed dish photos or food guide.",
+      "updated": "2026-10-21T11:19:48.738Z",
+      "reworkCount": 0
+    },
+    "foodCopy": {
+      "status": "skipped",
+      "note": "No food guide.",
+      "updated": "2026-10-21T11:19:48.780Z",
+      "reworkCount": 0
+    },
+    "foodQuality": {
+      "status": "skipped",
+      "note": "No food guide.",
+      "updated": "2026-10-21T11:19:48.809Z",
+      "reworkCount": 0
+    }
+  },
+  "items": [
+    {
+      "id": "dak-nong--buon-buor",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Buon Buor Village",
+      "slug": "buon-buor",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Dossier only. No licensed sight photo.",
+      "updated": "2026-10-21T11:19:40.330Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "dak-nong--dak-kar-lithophone",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Dak Kar Lithophone Hall",
+      "slug": "dak-kar-lithophone",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Dossier only. No licensed sight photo.",
+      "updated": "2026-10-21T11:19:40.330Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "dak-nong--dray-sap",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Dray Sap Waterfall",
+      "slug": "dray-sap",
+      "file": "src/content/attractions/dak-nong--dray-sap.json",
+      "source": "published",
+      "research": "stored",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Published shell. No dossier yet.",
+      "updated": "2026-10-21T11:19:40.330Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "dak-nong--explorasound",
+      "kind": "sight",
+      "track": "unit",
+      "name": "EXPLORASOUND",
+      "slug": "explorasound",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Dossier only. No licensed sight photo.",
+      "updated": "2026-10-21T11:19:40.330Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "dak-nong--lieng-nung-waterfall",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Lieng Nung Waterfall",
+      "slug": "lieng-nung-waterfall",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Dossier only. No licensed sight photo.",
+      "updated": "2026-10-21T11:19:40.330Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "dak-nong--nam-kar-volcano",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Nam Kar Volcano",
+      "slug": "nam-kar-volcano",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Dossier only. No licensed sight photo.",
+      "updated": "2026-10-21T11:19:40.330Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "dak-nong--ta-dung-lake",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Ta Dung Lake",
+      "slug": "ta-dung-lake",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Dossier only. No licensed sight photo.",
+      "updated": "2026-10-21T11:19:40.330Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "dak-nong--volcanic-cave-c9",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Volcanic Cave C9",
+      "slug": "volcanic-cave-c9",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Dossier only. No licensed sight photo.",
+      "updated": "2026-10-21T11:19:40.330Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "dak-nong--dish--ca-phe",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Vietnamese coffee",
+      "slug": "ca-phe",
+      "file": "src/content/dishes/ca-phe.json",
+      "source": "published",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Shared ca-phe dish; no Dak Nong copy pass.",
+      "updated": "2026-10-21T11:19:34.563Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "dak-nong--dish--com-lam",
+      "kind": "dish",
+      "track": "unit",
+      "name": "Com lam",
+      "slug": "com-lam-dak-nong",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No dish file or photo.",
+      "updated": "2026-10-21T11:19:40.330Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "dak-nong--dish--ca-lang-serepok",
+      "kind": "dish",
+      "track": "unit",
+      "name": "Grilled Serepok catfish",
+      "slug": "ca-lang-serepok",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No dish file or photo.",
+      "updated": "2026-10-21T11:19:40.330Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "dak-nong--dak-rmang-market",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Dak R'Mang Sunday market",
+      "slug": "dak-rmang-market",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Market only; no food-street page.",
+      "updated": "2026-10-21T11:19:40.330Z",
+      "reworkCount": 0
+    }
+  ],
+  "questions": [],
+  "claim": null,
+  "log": [
+    {
+      "at": "2026-10-21T11:19:48.809Z",
+      "place": "dak-nong",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "skipped",
+      "note": "No food guide."
+    },
+    {
+      "at": "2026-10-21T11:19:48.780Z",
+      "place": "dak-nong",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "skipped",
+      "note": "No food guide."
+    },
+    {
+      "at": "2026-10-21T11:19:48.738Z",
+      "place": "dak-nong",
+      "stage": "food",
+      "item": null,
+      "status": "skipped",
+      "note": "No licensed dish photos or food guide."
+    },
+    {
+      "at": "2026-10-21T11:19:44.310Z",
+      "place": "dak-nong",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Eight attraction shells, two-day itinerary, no food guide or festival JSON. Interest photos mostly fall back to place hero except Dray Sap."
+    },
+    {
+      "at": "2026-10-21T11:19:40.330Z",
+      "place": "dak-nong",
+      "stage": "researchContext",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: Yok Don fees and festival pages."
+    },
+    {
+      "at": "2026-10-21T11:19:34.740Z",
+      "place": "dak-nong",
+      "stage": "researchLifestyle",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: breakfast street names."
+    },
+    {
+      "at": "2026-10-21T11:19:34.652Z",
+      "place": "dak-nong",
+      "stage": "researchNightlife",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: bar names; none recorded."
+    },
+    {
+      "at": "2026-10-21T11:19:34.593Z",
+      "place": "dak-nong",
+      "stage": "researchFood",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: stall prices and public food guide."
+    },
+    {
+      "at": "2026-10-21T11:19:25.635Z",
+      "place": "dak-nong",
+      "stage": "researchAttractions",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: Truc Lam, wind farms, and Chu Bluk trek pages."
+    },
+    {
+      "at": "2026-10-21T11:19:25.511Z",
+      "place": "dak-nong",
+      "stage": "researchBase",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: taxi fares and rail station names."
+    },
+    {
+      "at": "2026-10-21T11:19:11.150Z",
+      "place": "dak-nong",
+      "stage": "researchLifestyle",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Left out: named breakfast streets and pier minutes."
+    },
+    {
+      "at": "2026-10-21T11:18:59.202Z",
+      "place": "dak-nong",
+      "stage": "researchContext",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Left out: Yok Don fees and festival JSON."
+    },
+    {
+      "at": "2026-10-21T11:18:59.016Z",
+      "place": "dak-nong",
+      "stage": "researchNightlife",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Left out: bar names; None recorded in dossier."
+    },
+    {
+      "at": "2026-10-21T11:18:45.121Z",
+      "place": "dak-nong",
+      "stage": "researchFood",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Left out: stall prices and a public food guide."
+    },
+    {
+      "at": "2026-10-21T11:18:44.815Z",
+      "place": "dak-nong",
+      "stage": "researchAttractions",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Left out: Truc Lam, wind farms, Chu Bluk trek, and separate Gia Long pages."
+    },
+    {
+      "at": "2026-10-21T11:18:33.810Z",
+      "place": "dak-nong",
+      "stage": "researchBase",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Left out: exact taxi fares and night-bus timetables from BMV."
+    }
+  ]
+}

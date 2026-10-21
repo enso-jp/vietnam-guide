@@ -1,0 +1,55 @@
+{
+  "slug": "dak-nong-two-days",
+  "title": "Dak Nong geopark in two days",
+  "kind": "trip",
+  "level": "day",
+  "duration": "2 days",
+  "spanDays": 2,
+  "placeSlug": "dak-nong",
+  "budget": "Check on arrival",
+  "pace": "Road-based",
+  "photo": "dak-nong-dray-sap",
+  "summary": "Day one: Gia Nghia and basalt coffee. Day two: Dray Sap on the Serepok. Ta Dung, Lieng Nung, and the lava tubes are dossier sights until licensed photos land.",
+  "days": [
+    {
+      "title": "Day 1 — Gia Nghia",
+      "body": "Town crossroads, a coffee stop on basalt farms, and time for Lieng Nung or EXPLORASOUND when you are driving yourself.",
+      "placeSlug": "dak-nong"
+    },
+    {
+      "title": "Day 2 — Krong No",
+      "body": "Long drive to Dray Sap on the Serepok. Lawful cave visits such as C9 need a guide and are not a casual add-on.",
+      "placeSlug": "dak-nong"
+    }
+  ],
+  "stops": [
+    {
+      "name": "Gia Nghia crossroads",
+      "minutes": 120,
+      "placeSlug": "dak-nong",
+      "note": "QL14 and QL28 base. Lieng Nung, the lithophone hall, and EXPLORASOUND sit on short drives east of town."
+    },
+    {
+      "name": "Vietnamese coffee",
+      "minutes": 45,
+      "placeSlug": "dak-nong",
+      "dishSlug": "ca-phe",
+      "note": "Afternoon on a farm road; no roast profile invented here."
+    },
+    {
+      "name": "Dray Sap Waterfall",
+      "minutes": 180,
+      "placeSlug": "dak-nong",
+      "attractionSlug": "dray-sap",
+      "note": "Day two. Handbook distance is about 110 km from Gia Nghia. Gate and hours check on arrival."
+    },
+    {
+      "name": "Da Lat pairing",
+      "minutes": 60,
+      "placeSlug": "da-lat",
+      "note": "Optional if Lien Khuong is your flight and you are linking cool hills with the geopark."
+    }
+  ],
+  "seoTitle": "Dak Nong in two days",
+  "seoDescription": "A two-day Gia Nghia plan with basalt coffee and a Krong No day for Dray Sap. Ta Dung and the caves stay research-only until sight photos publish."
+}
