@@ -5,9 +5,9 @@
   "corridor": "southeast",
   "kind": "city",
   "parent": null,
-  "publish": "candidate",
+  "publish": "accepted",
   "priority": 103,
-  "note": "Southeastern Vietnam. Research may be stored. Do not create a public place file until publish is accepted.",
+  "note": "Owner accepted publish on 21 Oct 2026. Southeastern Vietnam.",
   "coverage": {
     "sights": "filled",
     "areas": "filled",
@@ -750,7 +750,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "vung-tau",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-21T16:27:27.454Z",
+    "by": "hourly",
+    "branch": ""
+  },
   "log": [
     {
       "at": "2026-10-21T15:33:39.464Z",
