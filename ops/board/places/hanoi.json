@@ -318,7 +318,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "hanoi",
+    "stage": "researchFood",
+    "item": null,
+    "at": "2026-10-21T08:29:34.193Z",
+    "by": "hourly",
+    "branch": "cursor/content-hanoi-researchBase"
+  },
   "log": [
     {
       "at": "2026-10-21T08:29:24.380Z",
