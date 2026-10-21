@@ -65,6 +65,59 @@
   "interestsBody": [
     "Rice, mountains, and market days are the reasons to come. Bac Ha’s Sunday market is a separate trip down toward the former Yen Bai and Lao Cai lowlands."
   ],
+  "interestGroups": [
+    {
+      "title": "Valley walks",
+      "summary": "The valleys below town are where the terraces and the villages are.",
+      "cards": [
+        {
+          "title": "Cat Cat",
+          "summary": "The closest village walk, pretty and busy. Go early.",
+          "attractionSlug": "cat-cat",
+          "photo": "sapa-cat-cat",
+          "icon": "view",
+          "block": "valleys"
+        },
+        {
+          "title": "Ta Van valley",
+          "summary": "Rice terraces and a Giay village further down the valley. Better with a guide and a full morning.",
+          "attractionSlug": "ta-van",
+          "photo": "sapa-ta-van",
+          "icon": "view",
+          "block": "valleys"
+        }
+      ],
+      "blocks": [
+        {
+          "id": "valleys",
+          "heading": "Cat Cat, then Ta Van",
+          "nav": "Valleys",
+          "paragraphs": [
+            "Sapa sits high above the Muong Hoa valley. The town is a resort strip with hotels and restaurants. The valleys below, including Cat Cat, Lao Chai, and Ta Van, are where the terraces and the Hmong and Giay villages are.",
+            "Ask before you photograph people. A guided walk that pays the village properly is better than a free wander that treats a home as a viewpoint.",
+            "Rice, mountains, and market days are the reasons to come. Bac Ha’s Sunday market is a separate trip down toward the former Yen Bai and Lao Cai lowlands. Bac Ha has no licensed photograph here, so it is not a card."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fansipan",
+      "summary": "The highest summit in Vietnam, reached by cable car in clear weather. Clouds cancel the view more often than the ride.",
+      "cards": [
+        {
+          "title": "Fansipan",
+          "summary": "The highest summit in Vietnam, reached by cable car in clear weather. Clouds cancel the view more often than the ride.",
+          "attractionSlug": "fansipan",
+          "photo": "sapa-fansipan",
+          "icon": "view"
+        }
+      ],
+      "body": [
+        "Fansipan, the country’s highest peak, is a cable car from the edge of town, not a casual add-on if the weather has shut.",
+        "Town restaurants serve hotpot, grilled meat, and visitor-friendly versions of highland dishes. Homestay dinners are the more local meal."
+      ]
+    }
+  ],
   "faqs": [
     {
       "q": "Is the overnight train worth it?",

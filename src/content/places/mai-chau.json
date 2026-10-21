@@ -53,6 +53,27 @@
   "interestsBody": [
     "Rice and a quiet family overnight. Skip it if you are already committed to Sapa or Ha Giang on a short northern leg."
   ],
+  "interestGroups": [
+    {
+      "title": "Lac village",
+      "summary": "Stilt houses and a flat walk through the paddies.",
+      "cards": [
+        {
+          "title": "Lac village",
+          "summary": "Stilt houses and a flat walk through the paddies.",
+          "attractionSlug": "lac",
+          "photo": "mai-chau-lac",
+          "icon": "view"
+        }
+      ],
+      "body": [
+        "Mai Chau’s floor is a wide rice valley with Thai stilt houses. The ride from Hanoi crosses a pass and drops into the valley. It is an easier landscape than Ha Giang and a shorter transfer than Sapa.",
+        "Stay in a stilt house if you want the point of the trip. The valley is walkable and bicycle-friendly.",
+        "Rice and a quiet family overnight. Skip it if you are already committed to Sapa or Ha Giang on a short northern leg.",
+        "Dinner is usually at the homestay: grilled meat, forest vegetables, and rice. Eat there rather than hunting for a restaurant."
+      ]
+    }
+  ],
   "faqs": [
     {
       "q": "Mai Chau or Sapa?",

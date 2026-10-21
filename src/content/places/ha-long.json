@@ -82,6 +82,55 @@
       "icon": "view"
     }
   ],
+  "interestGroups": [
+    {
+      "title": "Resort Living",
+      "summary": "Paradise Elegance overnight cruise from Tuan Chau Marina.",
+      "cards": [
+        {
+          "title": "Resort Living",
+          "summary": "Paradise Elegance overnight cruise from Tuan Chau Marina.",
+          "photo": "ha-long-resort-living",
+          "icon": "bed",
+          "to": "resortLiving"
+        }
+      ]
+    },
+    {
+      "title": "Caves",
+      "summary": "Sung Sot and the day-boat stops in the bay.",
+      "cards": [
+        {
+          "title": "Sung Sot Cave",
+          "summary": "A large cave included on many boat loops. Paths are paved and can be crowded at midday.",
+          "attractionSlug": "sung-sot",
+          "photo": "ha-long-sung-sot",
+          "icon": "view"
+        }
+      ],
+      "body": [
+        "The bay itself is a boat trip: a loop among islands, usually with a cave or a lookout, and lunch on board.",
+        "Visit for the karst seascape and photography. It is not a food town and not a swimming holiday in the cooler months.",
+        "Meals on day boats are part of the ticket and are ordinary. Eat a proper meal in Hanoi the night before or after."
+      ]
+    },
+    {
+      "title": "Ti Top",
+      "summary": "A short climb to a viewpoint over the karsts. The beach below is small.",
+      "cards": [
+        {
+          "title": "Ti Top Island",
+          "summary": "A short climb to a viewpoint over the karsts. The beach below is small.",
+          "attractionSlug": "titop",
+          "photo": "ha-long-titop",
+          "icon": "view"
+        }
+      ],
+      "body": [
+        "An overnight boat costs more and shows the bay after the day boats leave. Read what the cabin and meals include."
+      ]
+    }
+  ],
   "faqs": [
     {
       "q": "Is a day trip from Hanoi enough?",

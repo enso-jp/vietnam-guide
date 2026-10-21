@@ -216,7 +216,7 @@ export function interestSliderItems(place: Place, sections: PlaceInterestSection
 
 export function interestGroupPages(): { place: Place; section: PlaceInterestSection }[] {
   return getPlaces()
-    .filter((place) => !place.parent && place.kind !== 'district')
+    .filter((place) => (!place.parent && place.kind !== 'district') || (place.interestGroups?.length ?? 0) > 0)
     .flatMap((place) => placeInterestSections(place)
       .filter((section) => section.slug && section.items.length > 0 && !directGuideHref(section))
       .map((section) => ({ place, section })));

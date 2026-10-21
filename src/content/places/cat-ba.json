@@ -56,6 +56,50 @@
   "interestsBody": [
     "Come for islands and a quieter bay. Skip it if you already have an overnight Ha Long cruise and only one spare day."
   ],
+  "interestGroups": [
+    {
+      "title": "The bay and the park",
+      "summary": "Come for islands and a quieter bay.",
+      "cards": [
+        {
+          "title": "Lan Ha Bay",
+          "summary": "The island-dotted bay beside Cat Ba, usually quieter than the main Ha Long loops.",
+          "attractionSlug": "lan-ha",
+          "photo": "cat-ba-lan-ha",
+          "icon": "view",
+          "block": "bay"
+        },
+        {
+          "title": "Cat Ba National Park",
+          "summary": "Forest trails and a peak viewpoint. Go early and carry water.",
+          "attractionSlug": "national-park",
+          "photo": "cat-ba-national-park",
+          "icon": "view",
+          "block": "park"
+        }
+      ],
+      "blocks": [
+        {
+          "id": "bay",
+          "heading": "Lan Ha Bay",
+          "nav": "The bay",
+          "paragraphs": [
+            "Cat Ba town is a harbor strip with hotels and seafood restaurants. The reason to come is Lan Ha Bay and Cat Ba National Park, not the town beach.",
+            "Come for islands and a quieter bay. Skip it if you already have an overnight Ha Long cruise and only one spare day."
+          ]
+        },
+        {
+          "id": "park",
+          "heading": "Cat Ba National Park",
+          "nav": "The park",
+          "paragraphs": [
+            "Allow two nights if you want a boat day and a walk. A single night mostly covers the transfer.",
+            "Seafood is the local meal. Ask for the price by weight before it is cooked."
+          ]
+        }
+      ]
+    }
+  ],
   "faqs": [
     {
       "q": "Can you see Ha Long from Cat Ba?",

@@ -52,6 +52,27 @@
   "interestsBody": [
     "War history only. Skip it for children who will not have the context, and skip it if you have already spent the morning at the War Remnants Museum and need a different kind of afternoon."
   ],
+  "interestGroups": [
+    {
+      "title": "The tunnels",
+      "summary": "A short section widened for visitors. It is still narrow, dark, and hot.",
+      "cards": [
+        {
+          "title": "Tunnel crawl",
+          "summary": "A short section widened for visitors. It is still narrow, dark, and hot.",
+          "attractionSlug": "tunnels",
+          "photo": "cu-chi-tunnels",
+          "icon": "view"
+        }
+      ],
+      "body": [
+        "The tunnels at Cu Chi are a maintained visitor site over a much larger wartime network. You walk a shaded path, see reconstructed traps and living spaces, and can crawl a short, enlarged tunnel section.",
+        "Go with a guide who will explain the history, or read before you arrive. Shooting ranges on site use live ammunition and are optional. The heat under the trees is real; morning is kinder.",
+        "War history only. Skip it for children who will not have the context, and skip it if you have already spent the morning at the War Remnants Museum and need a different kind of afternoon.",
+        "Eat in the city. Site canteens are for a drink."
+      ]
+    }
+  ],
   "faqs": [
     {
       "q": "How long do you spend underground?",

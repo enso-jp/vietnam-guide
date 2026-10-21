@@ -71,6 +71,55 @@
       "icon": "beach"
     }
   ],
+  "interestGroups": [
+    {
+      "title": "Resort Living",
+      "summary": "Pandanus and Asteria on the resort strip.",
+      "cards": [
+        {
+          "title": "Resort Living",
+          "summary": "Pandanus and Asteria on the resort strip.",
+          "photo": "mui-ne-resort-living",
+          "icon": "bed",
+          "to": "resortLiving"
+        }
+      ]
+    },
+    {
+      "title": "Beach and dunes",
+      "summary": "The resort-facing sand and the windy afternoon.",
+      "cards": [
+        {
+          "title": "Red dunes",
+          "summary": "A sand slope above a fishing village. Go late in the day.",
+          "attractionSlug": "red-dunes",
+          "photo": "mui-ne-red-dunes",
+          "icon": "beach",
+          "block": "dunes"
+        },
+        {
+          "title": "White dunes",
+          "summary": "A larger dune field farther east. Combine with a lake if the tour is honest about the driving time.",
+          "attractionSlug": "white-dunes",
+          "photo": "mui-ne-white-dunes",
+          "icon": "beach",
+          "block": "dunes"
+        }
+      ],
+      "blocks": [
+        {
+          "id": "dunes",
+          "heading": "Red dunes, then the white field",
+          "nav": "Dunes",
+          "paragraphs": [
+            "The resort strip faces a long beach with a steady wind, which is why kitesurfers stay for a week and sightseers stay for two nights. The red dunes and the white dunes are outside the hotel row and are best at dawn or late afternoon.",
+            "Beach and dunes. Skip the dunes at noon. They are hot and the light is flat.",
+            "Fairy Stream is a shallow walk inland. It is a small pleasure, not a national park. It has no licensed photograph here, so it is not a card."
+          ]
+        }
+      ]
+    }
+  ],
   "faqs": [
     {
       "q": "Is Mui Ne close to Da Lat?",

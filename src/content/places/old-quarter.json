@@ -65,6 +65,50 @@
   "interestsBody": [
     "The quarter is the food and walking district of Hanoi. It is not the place for quiet temples; those sit a short ride away."
   ],
+  "interestGroups": [
+    {
+      "title": "Walking the lanes",
+      "summary": "Walk it in the morning, before the pavements are fully claimed.",
+      "cards": [
+        {
+          "title": "Bach Ma Temple",
+          "summary": "A small neighborhood temple on Hang Buom, easy to include in a walk.",
+          "attractionSlug": "bach-ma",
+          "photo": "old-quarter-bach-ma",
+          "icon": "view",
+          "block": "lanes"
+        },
+        {
+          "title": "Dong Xuan Market",
+          "summary": "The quarter’s main covered market, useful for a look at wholesale goods more than for souvenirs.",
+          "attractionSlug": "dong-xuan",
+          "photo": "old-quarter-dong-xuan",
+          "icon": "view",
+          "block": "market"
+        }
+      ],
+      "blocks": [
+        {
+          "id": "lanes",
+          "heading": "A neighborhood temple on the walk",
+          "nav": "The walk",
+          "paragraphs": [
+            "The Old Quarter sits on land that was once a cluster of artisan streets outside the citadel. Shop signs still hint at silver, silk, and herbal medicine, even where the ground floors now sell luggage and cafe seats.",
+            "Walk it in the morning, before the pavements are fully claimed by motorbikes and stools. Use the timed walk if you want a route instead of a wander.",
+            "The quarter is the food and walking district of Hanoi. It is not the place for quiet temples; those sit a short ride away. Bach Ma is the small temple on this walk, not those."
+          ]
+        },
+        {
+          "id": "market",
+          "heading": "Dong Xuan Market",
+          "nav": "The market",
+          "paragraphs": [
+            "Bun cha, pho, and egg coffee are all within a few blocks. Choose a place with a written price and a crowd of residents, not only visitors."
+          ]
+        }
+      ]
+    }
+  ],
   "faqs": [
     {
       "q": "Is the Old Quarter safe at night?",
