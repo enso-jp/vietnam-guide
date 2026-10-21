@@ -2,13 +2,57 @@
   "slug": "paradise-cave",
   "placeSlug": "phong-nha",
   "name": "Paradise Cave",
-  "summary": "A long dry cave with a boardwalk. Allow half a day including the drive.",
+  "nameVi": "Động Thiên Đường",
+  "kicker": "Dry cave on a wooden walkway",
+  "summary": "Come here for the dry cave, not a second boat. The ordinary ticket is the wooden walk: a buggy or a forest path, then about a kilometre inside. The park charges an adult 270,000 VND, buggy included. Vietjet still prints 250,000 VND, so confirm the price. The park does not print the gate hours. Skip the 2,000,000 VND trek unless you booked that longer tour.",
   "dots": 5,
-  "timeNeeded": "Half a day",
-  "fee": "Separate ticket",
-  "getThere": "Car from Phong Nha town",
-  "interests": [
-    "caves"
+  "timeNeeded": "Check on arrival",
+  "fee": "270,000 VND, buggy included",
+  "getThere": "Km 16, west Ho Chi Minh road. Minutes are check on arrival.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "Visitors on the wooden walkway inside Paradise Cave",
+  "notice": {
+    "title": "Two prices, and no park clock for the short walk",
+    "body": "The park page says 270,000 VND for an adult, buggy included, and it does not state the one-kilometre gate hours. Vietjet still prints 250,000 VND and 06:30–17:00. Confirm both before you go."
+  },
+  "body": [
+    "This is the dry cave. On the ordinary ticket you cross about 1.6 kilometres of forest by electric buggy or on foot, walk about 500 metres to the entrance, and then follow a wooden path for about a kilometre. The park’s adult price is 270,000 VND and it includes the buggy. A child from 1.1 metres to 1.3 metres pays 145,000 VND. Under 1.1 metres is free.",
+    "Do not use the seven-kilometre timetable as your clock. That tour starts at 08:00, costs 2,000,000 VND, needs at least two people, and is a different day. The overnight version is 4,000,000 VND, needs at least five people, and is not for children under 16. The park page does not say when the one-kilometre gate opens.",
+    "Keep this off the boat morning. The address is kilometre 16 on the west branch of the Ho Chi Minh road. The minutes from Phong Nha village are check on arrival. The 20 minutes the park prints for Mooc Spring is the drive from Phong Nha Cave to the spring, not to this gate."
   ],
-  "nameVi": "Động Thiên Đường"
+  "figures": [
+    {
+      "id": "phong-nha-paradise-cave-2",
+      "caption": "Another chamber: the lit walkway and a column of stalactites",
+      "alt": "A wooden walkway and stalactites inside Paradise Cave"
+    }
+  ],
+  "gettingThere": [
+    "Paradise Cave’s operator address is Km 16 on the west branch of the Ho Chi Minh road. Go by road from the village. No minute count was printed on the park page or on the Vietjet listing. The minutes are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Phong Nha village",
+      "body": "By road to Km 16, west Ho Chi Minh road. The park does not publish the minutes. Check them on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day is published for the 1 km walk. Confirm the gate on arrival.",
+  "admissionNote": "Park page, adult 270,000 VND, including the entrance and the electric buggy. Child from 1.1 m to 1.3 m, 145,000 VND with the buggy. Under 1.1 m free. Vietjet’s destination page prints 250,000 VND and daily hours of 06:30–17:00. The two pages disagree, so both figures stay. The 7 km one-day tour is 2,000,000 VND, minimum two people, and is not the boardwalk ticket. The overnight tour is 4,000,000 VND, minimum five people, and is closed to children under 16.",
+  "links": [
+    {
+      "label": "Paradise Cave",
+      "url": "https://phongnhakebang.vn/travel/dong-thien-duong13-en",
+      "note": "Phong Nha–Ke Bang National Park"
+    },
+    {
+      "label": "Vietjet listing",
+      "url": "https://www.vietjetair.com/vi/diem-den/quang-binh/dong-thien-duong-paradise-cave",
+      "note": "Prints a different price and different hours"
+    }
+  ],
+  "interests": [
+    "caves",
+    "photography"
+  ]
 }
