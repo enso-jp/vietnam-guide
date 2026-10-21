@@ -2142,6 +2142,7 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   .home-stories { order: 4; }
   .region-picks,
   .region-stack { display: none; }
+  .region-map-frame { margin-inline: 1rem; }
   .region-swipe {
     display: block;
     position: relative;
