@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T08:23:36.195Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T08:23:36.195Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,19 +45,19 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T08:23:36.195Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T08:23:36.195Z",
       "reworkCount": 0
     },
     "researchBase": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "Scene and getting there are in. Still open: the national tourism page timed out, so the 100 ha boundary is indexed text only; relic decision 184 versus 14; pedestrian clocks disagree (19:00-23:00, three weekend evenings with no clock, and a March 2025 one-off to 24:00); airport distance 28 km, about 27 km, and about 45 km; bus 86 fare 50,000 versus 30,000; taxi and the Quang Trung minibus are single-source; walk time from Ga Ha Noi is unsourced. Sights, food streets, nightlife, the ordinary day, events, and side trips are later lanes.",
+      "updated": "2026-10-21T08:23:36.194Z",
       "reworkCount": 0
     },
     "researchAttractions": {
@@ -105,7 +105,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "updated": "2026-10-21T08:23:36.195Z",
       "reworkCount": 0
     },
     {
@@ -121,7 +121,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "updated": "2026-10-21T08:23:36.195Z",
       "reworkCount": 0
     },
     {
@@ -174,13 +174,15 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "old-quarter",
-    "stage": "researchBase",
-    "item": null,
-    "at": "2026-10-21T08:18:14.272Z",
-    "by": "hourly",
-    "branch": "cursor/old-quarter-research-base"
-  },
-  "log": []
+  "claim": null,
+  "log": [
+    {
+      "at": "2026-10-21T08:23:36.195Z",
+      "place": "old-quarter",
+      "stage": "researchBase",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Scene and getting there are in. Still open: the national tourism page timed out, so the 100 ha boundary is indexed text only; relic decision 184 versus 14; pedestrian clocks disagree (19:00-23:00, three weekend evenings with no clock, and a March 2025 one-off to 24:00); airport distance 28 km, about 27 km, and about 45 km; bus 86 fare 50,000 versus 30,000; taxi and the Quang Trung minibus are single-source; walk time from Ga Ha Noi is unsourced. Sights, food streets, nightlife, the ordinary day, events, and side trips are later lanes."
+    }
+  ]
 }
