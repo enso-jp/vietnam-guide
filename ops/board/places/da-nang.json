@@ -11,7 +11,7 @@
   "coverage": {
     "sights": "partial",
     "areas": "partial",
-    "foodStreets": "missing",
+    "foodStreets": "partial",
     "nightlife": "partial",
     "lifestyle": "missing",
     "events": "partial",
@@ -25,15 +25,15 @@
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "enriched",
+      "status": "stale",
       "note": "Copy pass 20 Oct 2026. Goes stale when the depth pass changes the dossier.",
-      "updated": "2026-10-21T03:24:23.689Z",
+      "updated": "2026-10-21T06:09:59.847Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T06:09:59.847Z",
       "reworkCount": 0
     },
     "food": {
@@ -43,15 +43,15 @@
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "enriched",
+      "status": "stale",
       "note": "Food copy pass 20 Oct 2026.",
-      "updated": "2026-10-21T03:24:23.689Z",
+      "updated": "2026-10-21T06:09:59.847Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T06:09:59.847Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -67,9 +67,9 @@
       "reworkCount": 0
     },
     "researchFood": {
-      "status": "not_started",
-      "note": "Dishes exist. Food streets do not. Huynh Thuc Khang has no source.",
-      "updated": "2026-10-21T03:39:17.628Z",
+      "status": "needs_depth",
+      "note": "First pass. Sourced Huynh Thuc Khang, Pham Hong Thai, Phan Tu, Han, Con, Helio, Son Tra night market, An Thuong night market, Bac My An, the shore strip, and Tho Quang. Still open: blocks and hours for Nguyen Van Linh, Nguyen Van Thoai, Tran Ke Xuong, and Le Thanh Nghi; Son Tra closing hour at the east-bank site; Helio operator page did not load; Han’s fourth street and Con’s street number disagree; nem lui, ram cuon cai, and bo kho have no how-to. Banh nam, banh loc, be thui, and lau bo are named and have no entry. Other lanes are open, so STATUS stays needs depth.",
+      "updated": "2026-10-21T06:09:59.847Z",
       "reworkCount": 0
     },
     "researchNightlife": {
@@ -102,10 +102,10 @@
       "source": "published",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
+      "copy": "stale",
       "quality": "not_started",
       "note": "Published. Copy passed once on 20 Oct 2026. Quality has not been run.",
-      "updated": null,
+      "updated": "2026-10-21T06:09:59.847Z",
       "reworkCount": 0
     },
     {
@@ -118,10 +118,10 @@
       "source": "published",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
+      "copy": "stale",
       "quality": "not_started",
       "note": "Published. Copy passed once on 20 Oct 2026. Quality has not been run.",
-      "updated": null,
+      "updated": "2026-10-21T06:09:59.847Z",
       "reworkCount": 0
     },
     {
@@ -134,10 +134,10 @@
       "source": "published",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
+      "copy": "stale",
       "quality": "not_started",
       "note": "Published. Copy passed once on 20 Oct 2026. Quality has not been run.",
-      "updated": null,
+      "updated": "2026-10-21T06:09:59.847Z",
       "reworkCount": 0
     },
     {
@@ -150,10 +150,10 @@
       "source": "published",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
+      "copy": "stale",
       "quality": "not_started",
       "note": "Published. Copy passed once on 20 Oct 2026. Quality has not been run.",
-      "updated": null,
+      "updated": "2026-10-21T06:09:59.847Z",
       "reworkCount": 0
     },
     {
@@ -166,10 +166,10 @@
       "source": "published",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
+      "copy": "stale",
       "quality": "not_started",
       "note": "Published. Copy passed once on 20 Oct 2026. Quality has not been run.",
-      "updated": null,
+      "updated": "2026-10-21T06:09:59.847Z",
       "reworkCount": 0
     },
     {
@@ -182,10 +182,10 @@
       "source": "published",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
+      "copy": "stale",
       "quality": "not_started",
       "note": "Published. Copy passed once on 20 Oct 2026. Quality has not been run.",
-      "updated": null,
+      "updated": "2026-10-21T06:09:59.847Z",
       "reworkCount": 0
     },
     {
@@ -198,10 +198,10 @@
       "source": "published",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
+      "copy": "stale",
       "quality": "not_started",
       "note": "Published. Copy passed once on 20 Oct 2026. Quality has not been run.",
-      "updated": null,
+      "updated": "2026-10-21T06:09:59.847Z",
       "reworkCount": 0
     },
     {
@@ -214,10 +214,10 @@
       "source": "published",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
+      "copy": "stale",
       "quality": "not_started",
       "note": "Published. Copy passed once on 20 Oct 2026. Quality has not been run.",
-      "updated": null,
+      "updated": "2026-10-21T06:09:59.847Z",
       "reworkCount": 0
     },
     {
@@ -457,7 +457,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: no separate page yet. Covered by the place and by Dragon Bridge.",
-      "updated": null,
+      "updated": "2026-10-21T06:09:59.847Z",
       "reworkCount": 0
     },
     {
@@ -473,7 +473,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: a side note on the Marble Mountains page is enough until a later setup pass.",
-      "updated": null,
+      "updated": "2026-10-21T06:09:59.847Z",
       "reworkCount": 0
     },
     {
@@ -489,7 +489,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: covered by the son-tra page, including Linh Ung.",
-      "updated": null,
+      "updated": "2026-10-21T06:09:59.847Z",
       "reworkCount": 0
     },
     {
@@ -504,8 +504,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier: no market page. The food guide carries them. A depth pass may reopen this.",
-      "updated": null,
+      "note": "Depth pass 21 Oct 2026. Cho Han and Cho Con are separate dossier entries under this row. Clocks and street numbers disagree. No market page. The food guide carries them.",
+      "updated": "2026-10-21T06:09:59.847Z",
       "reworkCount": 0
     },
     {
@@ -516,23 +516,265 @@
       "slug": "huynh-thuc-khang",
       "file": null,
       "source": "owner",
-      "research": "not_started",
+      "research": "stored",
       "page": "not_started",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Owner named this alley on 21 Oct 2026. It is not in the Da Nang dossier. Do not publish it until a primary source is stored. Record the area, not a restaurant list.",
-      "updated": null,
+      "note": "City tourism portal, 19 Jun 2019 and 18 May 2020, names the breakfast street. Hours disagree: 06:00–12:00 versus busy 06:00–08:00. No decision number. Page stays not_started because the owner named it.",
+      "updated": "2026-10-21T06:09:59.847Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "da-nang--pham-hong-thai",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Pham Hong Thai night food street",
+      "slug": "pham-hong-thai",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Night eating street under 800 m. 2019 clock 17:00–23:00 is not restated later. No separate page. The food guide carries it.",
+      "updated": "2026-10-21T06:09:59.847Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "da-nang--phan-tu",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Phan Tu snack street",
+      "slug": "phan-tu",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "One 2019 clock, 17:00–24:00, not restated. No separate page.",
+      "updated": "2026-10-21T06:09:59.847Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "da-nang--helio",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Helio night market",
+      "slug": "helio",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "City pages put it on đường 2/9. Clocks disagree between 17:00 and 17:30. Operator page did not load. No separate page.",
+      "updated": "2026-10-21T06:09:59.847Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "da-nang--son-tra-night-market",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Son Tra night market",
+      "slug": "son-tra-night-market",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "2023 portal still says Mai Hac De. VietnamPlus 22 Aug 2025 says it moved 1 Aug 2025 to the east bank of Dragon Bridge. Closing hour at the new site is open. No separate page.",
+      "updated": "2026-10-21T06:09:59.847Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "da-nang--an-thuong-night-market",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "An Thuong night market",
+      "slug": "an-thuong-night-market",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "One city page: No. 4 An Thuong 4, 17:00–23:00, free entry. Not the bar lanes. No separate page.",
+      "updated": "2026-10-21T06:09:59.847Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "da-nang--bac-my-an",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Bac My An market",
+      "slug": "bac-my-an",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "25 Nguyen Ba Lan on the 2019 page only. 08:00–19:00 not restated. No separate page.",
+      "updated": "2026-10-21T06:09:59.847Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "da-nang--shore-seafood",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Shore seafood strip",
+      "slug": "shore-seafood",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Hoang Sa, Vo Nguyen Giap, and Truong Sa. No restaurant names. No separate page.",
+      "updated": "2026-10-21T06:09:59.847Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "da-nang--nguyen-van-linh",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Nguyen Van Linh",
+      "slug": "nguyen-van-linh",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Named only. Block and hour are still open. No page until those are sourced.",
+      "updated": "2026-10-21T06:09:59.847Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "da-nang--nguyen-van-thoai",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Nguyen Van Thoai",
+      "slug": "nguyen-van-thoai",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Named only. Block and hour are still open. No page until those are sourced.",
+      "updated": "2026-10-21T06:09:59.847Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "da-nang--tran-ke-xuong",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Tran Ke Xuong",
+      "slug": "tran-ke-xuong",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Named only. Block and hour are still open. Owner list has an unsourced bun mam door. No page until the block is sourced.",
+      "updated": "2026-10-21T06:09:59.847Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "da-nang--le-thanh-nghi",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Le Thanh Nghi",
+      "slug": "le-thanh-nghi",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Named only. Block and hour are still open. No page until those are sourced.",
+      "updated": "2026-10-21T06:09:59.847Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "da-nang--tho-quang",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Tho Quang wholesale fish market",
+      "slug": "tho-quang",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Wholesale landing, not a dining street. No visitor hour. No page.",
+      "updated": "2026-10-21T06:09:59.847Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "da-nang--nem-lui",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Nem lui",
+      "slug": "nem-lui",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Named on city pages. The skewer and the wrap are not described. How to eat it stays check on arrival.",
+      "updated": "2026-10-21T06:09:59.681Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "da-nang--ram-cuon-cai",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Ram cuon cai",
+      "slug": "ram-cuon-cai",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Con Market page calls it a fried spring roll in cabbage. Sauce is not described.",
+      "updated": "2026-10-21T06:09:59.710Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "da-nang--bo-kho",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Bo kho",
+      "slug": "bo-kho",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Morning dish on Huynh Thuc Khang. Bread versus noodles is not described.",
+      "updated": "2026-10-21T06:09:59.736Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "da-nang",
-    "stage": "researchFood",
-    "item": null,
-    "at": "2026-10-21T06:02:53.250Z",
-    "by": "hourly",
-    "branch": "cursor/da-nang-research-food"
-  },
-  "log": []
+  "claim": null,
+  "log": [
+    {
+      "at": "2026-10-21T06:09:59.847Z",
+      "place": "da-nang",
+      "stage": "researchFood",
+      "item": null,
+      "status": "needs_depth",
+      "note": "First pass. Sourced Huynh Thuc Khang, Pham Hong Thai, Phan Tu, Han, Con, Helio, Son Tra night market, An Thuong night market, Bac My An, the shore strip, and Tho Quang. Still open: blocks and hours for Nguyen Van Linh, Nguyen Van Thoai, Tran Ke Xuong, and Le Thanh Nghi; Son Tra closing hour at the east-bank site; Helio operator page did not load; Han’s fourth street and Con’s street number disagree; nem lui, ram cuon cai, and bo kho have no how-to. Banh nam, banh loc, be thui, and lau bo are named and have no entry. Other lanes are open, so STATUS stays needs depth."
+    }
+  ]
 }
