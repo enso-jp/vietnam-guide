@@ -2,13 +2,15 @@
   "slug": "market",
   "placeSlug": "da-lat",
   "name": "Da Lat Market",
-  "summary": "A sloping market of fruit, flowers, and snacks. Go hungry.",
+  "nameVi": "Chợ Đà Lạt",
+  "summary": "Sloping halls of flowers, strawberries, and snacks. Go hungry in the morning; the night stalls spill nearby after 18:00.",
   "dots": 4,
   "timeNeeded": "1 hour",
-  "fee": "Free",
-  "getThere": "Walk from the lake",
+  "fee": "Free to enter",
+  "getThere": "Walk uphill from Xuan Huong Lake",
+  "district": "City centre",
   "interests": [
-    "markets"
-  ],
-  "nameVi": "Chợ Đà Lạt"
+    "markets",
+    "food"
+  ]
 }
