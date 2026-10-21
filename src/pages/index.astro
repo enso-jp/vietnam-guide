@@ -160,9 +160,7 @@ const jsonLd = {
         </div>
       </div>
       <p class="home-actions">
-        {corridors.map((corridor) => (
-          <a class="pill pill-go" href={`/destinations/${corridor.slug}`} data-region-card={corridor.slug} hidden={corridor.slug !== activeRegion}>See all destinations</a>
-        ))}
+        <a class="pill pill-go" href={`/destinations/${activeRegion}`} data-region-link>See all destinations</a>
       </p>
     </section>
 
