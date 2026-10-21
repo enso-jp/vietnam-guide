@@ -12,7 +12,7 @@ const places = getPlaces().filter((place) => !place.parent).sort(compareRecommen
       <p>Objective pages for planning a trip. Partner links are labeled. Rankings are not for sale.</p>
       <p><a href="/about">About</a> · <a href="/about/ratings">Ratings</a> · <a href="/about/partners">Partners</a> · <a href="/about/corrections">Corrections</a></p>
     </div>
-    <details class="footer-col">
+    <details class="footer-col" open>
       <summary>Destinations</summary>
       <div>
         {places.map((place) => (
@@ -23,7 +23,7 @@ const places = getPlaces().filter((place) => !place.parent).sort(compareRecommen
         ))}
       </div>
     </details>
-    <details class="footer-col">
+    <details class="footer-col" open>
       <summary>Interests</summary>
       <div>
         <div><a href="/food">Food and drink</a></div>
@@ -35,7 +35,7 @@ const places = getPlaces().filter((place) => !place.parent).sort(compareRecommen
         <div><a href="/interests">See all interests</a></div>
       </div>
     </details>
-    <details class="footer-col">
+    <details class="footer-col" open>
       <summary>Plan a trip</summary>
       <div>
         <div><a href="/plan/when-to-go">Before you go</a></div>
@@ -49,4 +49,9 @@ const places = getPlaces().filter((place) => !place.parent).sort(compareRecommen
       </div>
     </details>
   </div>
+  <script is:inline>
+    if (matchMedia('(max-width: 860px)').matches) {
+      document.querySelectorAll('.footer-col').forEach((col) => { col.open = false; });
+    }
+  </script>
 </footer>
