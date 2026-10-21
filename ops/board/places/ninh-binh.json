@@ -574,7 +574,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "ninh-binh",
+    "stage": "researchContext",
+    "item": null,
+    "at": "2026-10-21T08:30:37.905Z",
+    "by": "hourly",
+    "branch": "cursor/ninh-binh-research-base"
+  },
   "log": [
     {
       "at": "2026-10-21T08:29:17.972Z",
