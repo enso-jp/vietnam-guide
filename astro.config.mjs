@@ -19,7 +19,7 @@ export default defineConfig({
     sitemap({
       filter: (page) => {
         const path = new URL(page).pathname.replace(/\/$/, '') || '/';
-        if (path === '/search' || path === '/saved' || path === '/interests/food') return false;
+        if (path === '/search' || path === '/interests/food') return false;
         if (path === '/interests/oldTowns' || path === '/interests/warHistory') return false;
         if (hubPaths.has(path)) return true;
         if (tabTail.test(path)) return false;
