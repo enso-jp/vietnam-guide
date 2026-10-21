@@ -14,8 +14,8 @@
     "foodStreets": "partial",
     "nightlife": "partial",
     "lifestyle": "partial",
-    "events": "missing",
-    "sideTrips": "missing"
+    "events": "partial",
+    "sideTrips": "partial"
   },
   "stages": {
     "destination": {
@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,13 +45,13 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -85,9 +85,9 @@
       "reworkCount": 0
     },
     "researchContext": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "Still open: the 2026 week’s days, the 2027 dates, Cuc Phuong’s fee disagreement, and the minutes to Phat Diem, Tam Chuc, and Hai Thinh. Hanoi is the only side trip with a place slug and a sourced clock.",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     }
   },
@@ -105,7 +105,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Electric car 60,000 VND in 2020 and 30,000 VND on the 2017 English page. 2025 adult figure not recovered. Hours check on arrival. Dot stays 3.",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     {
@@ -121,7 +121,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Adult 20,000 VND on the 2020 and 2025 lists. Hours check on arrival. Dot stays 3.",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     {
@@ -137,7 +137,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Department lists 100,000 VND. Vietnam Tourism prints 200,000 VND and 500 steps. Hours check on arrival. Dot stays 4.",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     {
@@ -169,7 +169,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Sleep area for the Ninh Binh night. Place slug tam-coc already exists, so no second town page. Sourced 21 Oct 2026 from the department Tam Coc page and Vietnam Tourism.",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     {
@@ -185,7 +185,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Named on the 1 Aug 2025 guide as a gift market. No street number and no hour. The food guide carries it. No market page.",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     {
@@ -201,7 +201,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Named with Cho Rong on the 1 Aug 2025 guide. No street number and no hour. The food guide carries it. No market page.",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     {
@@ -217,7 +217,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026. Hours check on arrival. Child price differs on the 2017 English page.",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     {
@@ -233,7 +233,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Place slug tam-coc already covers the boat. 2020 and 2025 fees disagree. Do not open a second file.",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     {
@@ -249,7 +249,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Cover on the Tam Coc place. Standalone fee unsourced. No separate page yet.",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     {
@@ -265,7 +265,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026. Fees disagree across 2017, 2020, and 2025. Hours check on arrival.",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     {
@@ -281,7 +281,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "The place page is this hub. No separate attraction file.",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     {
@@ -297,7 +297,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "On the department lists. Not written up this pass.",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     {
@@ -313,7 +313,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "On the department lists. Left for a later pass. Reads as a day trip.",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     {
@@ -329,7 +329,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "On the department lists. Left for the context lane as a day trip. No place slug.",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     {
@@ -505,7 +505,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "No separate page. The Tam Coc place covers the quiet night. 2026 show dates are not sourced.",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     {
@@ -521,7 +521,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "No bar street to publish. Two newspapers report the Dao Duy Tu pilot ended. The city notice was not opened. No separate page.",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     {
@@ -537,7 +537,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Ordinary-day note for the place page. No breakfast street was named. No separate attraction.",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     {
@@ -553,7 +553,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "The day between sights. Covered by the place and by Tam Coc. No separate page.",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
       "reworkCount": 0
     },
     {
@@ -569,20 +569,69 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "No curfew was published. No separate page.",
-      "updated": "2026-10-21T08:29:17.972Z",
+      "updated": "2026-10-21T08:30:50.385Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--ninh-binh-tourism-week",
+      "kind": "event",
+      "track": "bundled",
+      "name": "Ninh Binh Tourism Week",
+      "slug": "ninh-binh-tourism-week",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sourced 21 Oct 2026 from the April department pages. Opening day and 2027 dates check on arrival. Festival file waits for destination setup.",
+      "updated": "2026-10-21T08:30:50.171Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--sac-vang-tam-coc",
+      "kind": "event",
+      "track": "bundled",
+      "name": "Sac Vang Tam Coc",
+      "slug": "sac-vang-tam-coc",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Late May on the department pages. Exact days check on arrival.",
+      "updated": "2026-10-21T08:30:50.231Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--spring-temple-visits",
+      "kind": "event",
+      "track": "bundled",
+      "name": "Spring temple visits",
+      "slug": "spring-temple-visits",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Named on the 1 Aug 2025 visitor guide. Dates check on arrival.",
+      "updated": "2026-10-21T08:30:50.295Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "ninh-binh",
-    "stage": "researchContext",
-    "item": null,
-    "at": "2026-10-21T08:30:37.905Z",
-    "by": "hourly",
-    "branch": "cursor/ninh-binh-research-base"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T08:30:50.385Z",
+      "place": "ninh-binh",
+      "stage": "researchContext",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Still open: the 2026 week’s days, the 2027 dates, Cuc Phuong’s fee disagreement, and the minutes to Phat Diem, Tam Chuc, and Hai Thinh. Hanoi is the only side trip with a place slug and a sourced clock."
+    },
     {
       "at": "2026-10-21T08:29:17.972Z",
       "place": "ninh-binh",

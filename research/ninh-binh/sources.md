@@ -133,3 +133,15 @@ Accessed 21 Oct 2026 unless a line says otherwise.
 - Publisher: Kinh doanh & Phát triển
 - Accessed: 21 Oct 2026
 - Supports: The same ending, from 1 Jan 2024, citing notice 1235/TB-UBND of 29 Dec 2023. Second newspaper. The notice file was not opened.
+
+### S23
+- URL: https://sodulich.ninhbinh.gov.vn/vi/tin-tuc-su-kien/tuan-du-lich-ninh-binh-2026-hanh-trinh-di-san-qua-cac-thoi-dai-2648.html
+- Publisher: Ninh Binh Department of Tourism
+- Accessed: 21 Oct 2026
+- Supports: Page dated 21 Apr 2026. Tourism week at the end of May 2026, theme “Ninh Bình – Hành trình Di sản qua các thời đại”, opening at Dinh Tien Hoang Emperor Square, Hoa Lu ward. Sắc vàng Tam Cốc, Forestival, Yosakoi, a beach season, a photo tour, chèo, xẩm, water puppetry. Called annual. No day numbers.
+
+### S24
+- URL: https://sodulich.ninhbinh.gov.vn/vi/tin-tuc-su-kien/hoi-nghi-thong-tin-cac-hoat-dong-tuan-du-lich-ninh-binh-nam-2026-2642.html
+- Publisher: Ninh Binh Department of Tourism
+- Accessed: 21 Oct 2026
+- Supports: Conference dated 17 Apr 2026. The week was expected (dự kiến) to last about 10 days at the end of May 2026. Venues named: Tam Coc–Bich Dong, Trang An, Tam Chuc, Hoa Lu ward, Hai Thinh commune. Opening square, Sắc vàng, Forestival, beach opening, photo tour.
