@@ -16,5 +16,10 @@ Checked: 21 Oct 2026
 - The map pin already on the place file was not re-checked.
 - Photographs of Dark Cave, Mooc Spring, the botanical garden, OZO Park, Hang En, Hang Va, Eight Ladies Cave, Sinh Ton Valley, and the 4,500-metre route that show those sites. Commons and Openverse, checked 21 Oct 2026, had no CC BY, CC BY-SA, or public-domain frame of those subjects. Son Doong did. Those other pages stay off until a photograph of the site exists. Do not borrow the boat-cave mouth.
 - The night tour named on the Phong Nha Cave page. Still no price (S1, S21).
+- Whether the 150,000 VND Phong Nha entrance and the 80,000 VND Tien Son entrance are both charged when the boat is the 750,000 VND trip. The English boat page does not print 80,000. The Vietnamese Tien Son page does. Re-read 21 Oct 2026.
+- Vietjet’s Paradise Cave page did not render on the depth pass. The 250,000 VND and 06:30–17:00 reading from earlier on 21 Oct 2026 stays. It was not re-confirmed.
+- Which night of Son Doong is Hang En. The park page camps there. The operator camps near the Son Doong entrance after walking through it. Both are printed.
+- Road minutes from Dong Hoi to the Son Doong briefing, and from the village to kilometre 35. The departure is 08:00, not “before 07:00”. Before 07:00 is the porter-bag deadline.
+- Whether Son Doong’s 2027 and 2028 departures stay full after 21 Oct 2026. The operator said they were full on that date.
 - Hang Va prices disagree: park English page about 346 USD (S27), Oxalis 9,400,000 VND (S28), and the season line on the Oxalis page disagrees with itself (December to August, and January to August).
 - Botanical garden gate hours (S22). OZO Park day-ticket gate hours (S23). Eight Ladies Cave hours (S29). Sinh Ton hours (S30).
