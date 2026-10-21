@@ -115,3 +115,21 @@ Accessed 21 Oct 2026 unless a line says otherwise.
 - Publisher: Ninh Binh Department of Tourism (ninhbinhtourism.com.vn)
 - Accessed: 21 Oct 2026
 - Supports: Page updated 22 May 2024. Xôi trứng kiến from Nho Quan, dê núi with cơm cháy, gỏi cá nhệch in Kim Son, bún mọc Tố Như served as three separate plates.
+
+### S20
+- URL: http://ninhbinhtourism.com.vn/index.php?code=4753&options=items
+- Publisher: Ninh Binh Department of Tourism
+- Accessed: 21 Oct 2026
+- Supports: Tourism week page updated 31 May 2024. Opening at 20:00 on 1 June 2024 at Dong Gung bus station, Tam Coc–Bich Dong, free entry. Annual framing. Not a nightly street. 2026 dates are not on this page.
+
+### S21
+- URL: https://laodong.vn/ban-doc/pho-di-bo-duy-nhat-giua-trung-tam-thanh-pho-ninh-binh-chinh-thuc-bi-khai-tu-1320892.ldo
+- Publisher: Lao Động
+- Accessed: 21 Oct 2026
+- Supports: Report dated 29 Mar 2024 that the city ended the Dao Duy Tu walking-and-food street. The city notice was not opened.
+
+### S22
+- URL: https://kinhdoanhvaphattrien.vn/ninh-binh-cham-dut-mo-hinh-pho-di-bo-ket-hop-mua-sam-am-thuc-34974.html
+- Publisher: Kinh doanh & Phát triển
+- Accessed: 21 Oct 2026
+- Supports: The same ending, from 1 Jan 2024, citing notice 1235/TB-UBND of 29 Dec 2023. Second newspaper. The notice file was not opened.

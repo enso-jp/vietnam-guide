@@ -163,7 +163,41 @@ Left for a later pass, named on the department lists but not written up here: Th
 
 ## Nightlife and evening
 
-Not this lane.
+No nightly bar street was on the department pages. Vietnam Tourism says the city is the place for beer corners and local restaurants, and that the fields at Tam Coc and Trang An are the quiet night (S16). It names three stays and a bike service. Those names are not copied. They are not picks.
+
+### Tam Coc hamlets after dark
+- Vietnamese name: Tam Cốc
+- Kind: nightlife
+- Area: Nam Hoa Lu ward
+- What the visitor does: Comes back from the boats and stays in. The department’s 2024 tourism-week page puts one free opening show at 20:00 on 1 June 2024 at the Dong Gung bus station inside Tam Coc–Bich Dong (S20). That is a dated program, not a bar street. The 2026 dates are not on that page.
+- Time: The ordinary evening hour is Check on arrival — UNSOURCED. Boat closing time is still unsourced.
+- Fee: The 1 June 2024 opening was free (S20). A nightly cover charge was not published.
+- From the base: The hamlets are the base.
+- When to go: After the boat, whenever that is. Check on arrival — UNSOURCED.
+- Mistake to avoid: Treating the tourism-week show as something that happens every night.
+- Scene landmarks, if any, with a primary URL: Dong Gung bus station, only as the 2024 opening site (S20). No bar pin.
+- Suggested slug: tam-coc-evening
+- Suggested dot: 3 — the quiet night the stay is for, not a going-out district
+- Photo must show: The hamlet lane at dusk with a karst still in the frame. A dark empty road fails. A bar sign fails.
+- Sources: S16, S20
+- Page: no separate page. The Tam Coc place and the sleep-area row cover it.
+
+### Ninh Binh city after dark
+- Vietnamese name: Ninh Bình
+- Kind: nightlife
+- Area: The provincial center
+- What the visitor does: Vietnam Tourism points at beer corners and restaurants in the city, and does not name the street (S16). A 4 Dec 2016 department page says restaurants often run until 22:00 and tells visitors not to stay out late in empty places (S11).
+- Time: Check on arrival — UNSOURCED as a street hour. The 22:00 line is the old restaurant note, not a district clock.
+- Fee: None recorded.
+- From the base: The ride in from Nam Hoa Lu. Minutes: Check on arrival — UNSOURCED.
+- When to go: A late train night, SE3 at 21:36 or SE1 at 00:03 (S8), not as the reason to choose the city.
+- Mistake to avoid: Walking Dao Duy Tu as if it were still a night market. Lao Dong, 29 Mar 2024, and Kinh doanh & Phát triển report that the city ended the pilot “phố đi bộ kết hợp mua sắm, ẩm thực” on Dao Duy Tu, Dong Thanh ward, from 1 Jan 2024, citing notice 1235/TB-UBND of 29 Dec 2023 (S21, S22). The notice itself was not opened in this pass. Do not print the street as the evening.
+- Scene landmarks, if any, with a primary URL: None. No bar is a pin.
+- Suggested slug: ninh-binh-city-evening
+- Suggested dot: 2 — a beer corner without a mapped street
+- Photo must show: Not a hero. If a frame is required, a lit city street with people, not a single sign.
+- Sources: S8, S11, S16, S21, S22
+- Page: no separate page. The place file covers the city.
 
 ## Lifestyle
 
