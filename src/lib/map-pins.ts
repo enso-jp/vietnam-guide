@@ -1,5 +1,4 @@
 import type { vietnamProvinces } from './vietnam-provinces';
-import { vietnamIslandGroups, vietnamSeaLabels } from './vietnam-provinces';
 
 type Province = (typeof vietnamProvinces)[number];
 
@@ -8,6 +7,8 @@ export interface MapPin {
   name: string;
   label: string;
   region: string;
+  /** Shown while its region is selected. Other provinces keep a pin for hover only. */
+  listed: boolean;
   x: number;
   y: number;
   lx: number;
@@ -16,23 +17,86 @@ export interface MapPin {
 }
 
 const LABEL: Record<string, string> = {
+  hanoi: 'Ha Noi',
   'thua-thien-hue': 'Hue',
-  'ba-ria-vung-tau': 'Vung Tau',
   'ho-chi-minh-city': 'Ho Chi Minh City',
 };
 
-/** Matches the map label font. Width is generous so the halo never eats the next name. */
-const FONT = 10.5;
-const CHAR = 0.62;
-const DOT = 8;
-const GAP = 11;
+/** The short set from the region samples. `end` draws the name to the left of the dot. */
+const LISTED: Record<string, 'start' | 'end'> = {
+  'cao-bang': 'start',
+  'lai-chau': 'end',
+  'tuyen-quang': 'start',
+  'thai-nguyen': 'start',
+  'lao-cai': 'start',
+  'lang-son': 'start',
+  'dien-bien': 'end',
+  'son-la': 'end',
+  'phu-tho': 'start',
+  'bac-ninh': 'end',
+  'quang-ninh': 'start',
+  hanoi: 'end',
+  'hai-phong': 'start',
+  'ninh-binh': 'end',
+  'hung-yen': 'start',
+  'thanh-hoa': 'start',
+  'nghe-an': 'start',
+  'ha-tinh': 'start',
+  'quang-tri': 'start',
+  'thua-thien-hue': 'start',
+  'da-nang': 'start',
+  'quang-ngai': 'start',
+  'gia-lai': 'start',
+  'dak-lak': 'start',
+  'lam-dong': 'end',
+  'khanh-hoa': 'start',
+  'tay-ninh': 'end',
+  'dong-nai': 'start',
+  'ho-chi-minh-city': 'start',
+  'an-giang': 'end',
+  'dong-thap': 'start',
+  'vinh-long': 'start',
+  'can-tho': 'end',
+  'ca-mau': 'end',
+};
 
-interface Box {
-  l: number;
-  r: number;
-  t: number;
-  b: number;
-}
+/** Name offset from its dot. Positive dx draws to the right. Tuned so the measured boxes stay apart. */
+const PLACE: Record<string, { dx: number; dy: number; anchor: 'start' | 'end' }> = {
+  'cao-bang': { dx: 9.5, dy: -19.3, anchor: 'start' },
+  'tuyen-quang': { dx: -65.9, dy: -32.6, anchor: 'start' },
+  'lai-chau': { dx: -8.1, dy: -28.2, anchor: 'end' },
+  'lao-cai': { dx: -23.4, dy: 24.7, anchor: 'start' },
+  'lang-son': { dx: 8.5, dy: -20.3, anchor: 'start' },
+  'dien-bien': { dx: -50.4, dy: 26.8, anchor: 'start' },
+  'thai-nguyen': { dx: 8.6, dy: 19.5, anchor: 'start' },
+  'phu-tho': { dx: 8.1, dy: 36.6, anchor: 'start' },
+  'son-la': { dx: -8.1, dy: 37.3, anchor: 'end' },
+  'quang-ninh': { dx: 8.5, dy: -16.8, anchor: 'start' },
+  'bac-ninh': { dx: -8.2, dy: -20, anchor: 'end' },
+  hanoi: { dx: -7.8, dy: 6.6, anchor: 'end' },
+  'hai-phong': { dx: 8.2, dy: 6.8, anchor: 'start' },
+  'hung-yen': { dx: 8.1, dy: 38.6, anchor: 'start' },
+  'ninh-binh': { dx: -7.7, dy: 14.2, anchor: 'end' },
+  'thanh-hoa': { dx: 8, dy: 4, anchor: 'start' },
+  'nghe-an': { dx: 8, dy: 8.3, anchor: 'start' },
+  'ha-tinh': { dx: 8, dy: 5, anchor: 'start' },
+  'quang-tri': { dx: 8, dy: -4.4, anchor: 'start' },
+  'thua-thien-hue': { dx: 8, dy: 21.2, anchor: 'start' },
+  'da-nang': { dx: 8, dy: 4, anchor: 'start' },
+  'quang-ngai': { dx: 8, dy: 4, anchor: 'start' },
+  'gia-lai': { dx: 8, dy: -3.6, anchor: 'start' },
+  'dak-lak': { dx: 8, dy: -10.5, anchor: 'start' },
+  'khanh-hoa': { dx: 8, dy: 23.2, anchor: 'start' },
+  'lam-dong': { dx: -8, dy: 4, anchor: 'end' },
+  'tay-ninh': { dx: -8, dy: 4, anchor: 'end' },
+  'dong-nai': { dx: 8, dy: 4, anchor: 'start' },
+  'ho-chi-minh-city': { dx: 8, dy: 25.7, anchor: 'start' },
+  'an-giang': { dx: -8, dy: 4, anchor: 'end' },
+  'dong-thap': { dx: 8, dy: -0.8, anchor: 'start' },
+  'can-tho': { dx: -8, dy: 18.9, anchor: 'end' },
+  'vinh-long': { dx: 8, dy: 20.6, anchor: 'start' },
+  'ca-mau': { dx: -8, dy: 13.7, anchor: 'end' },
+};
 
 function round(n: number): number {
   return Math.round(n * 10) / 10;
@@ -43,21 +107,6 @@ function pointsOf(d: string): [number, number][] {
   const points: [number, number][] = [];
   for (let i = 0; i + 1 < nums.length; i += 2) points.push([nums[i], nums[i + 1]]);
   return points;
-}
-
-function boundsOf(d: string): Box {
-  const points = pointsOf(d);
-  let l = Infinity;
-  let r = -Infinity;
-  let t = Infinity;
-  let b = -Infinity;
-  for (const [x, y] of points) {
-    if (x < l) l = x;
-    if (x > r) r = x;
-    if (y < t) t = y;
-    if (y > b) b = y;
-  }
-  return { l, r, t, b };
 }
 
 function centroid(d: string): { x: number; y: number } {
@@ -75,131 +124,26 @@ function centroid(d: string): { x: number; y: number } {
   return { x: x / n, y: y / n };
 }
 
-function widthOf(label: string): number {
-  return label.length * FONT * CHAR + 2.4;
-}
-
-function textBox(lx: number, ly: number, anchor: 'start' | 'end', label: string): Box {
-  const w = widthOf(label);
-  const l = anchor === 'start' ? lx : lx - w;
-  return { l, r: l + w, t: ly - FONT - 1.2, b: ly + 3.2 };
-}
-
-function hits(a: Box, b: Box): boolean {
-  return a.l < b.r && a.r > b.l && a.t < b.b && a.b > b.t;
-}
-
-function inside(box: Box): boolean {
-  return box.l >= 58 && box.r <= 575 && box.t >= 8 && box.b <= 626;
-}
-
-function obstacles(): Box[] {
-  const boxes = vietnamIslandGroups.map((isle) => {
-    const box = boundsOf(isle.d);
-    return { l: box.l - 3, r: box.r + 3, t: box.t - 3, b: box.b + 3 };
-  });
-  for (const label of vietnamSeaLabels) {
-    const w = Math.max(widthOf(label.name), widthOf(label.note));
-    boxes.push({ l: label.x - 4, r: label.x + w + 4, t: label.y - 16, b: label.y + 18 });
-  }
-  return boxes;
-}
-
-interface Draft {
-  slug: string;
-  name: string;
-  label: string;
-  region: string;
-  x: number;
-  y: number;
-  lx: number;
-  ly: number;
-  anchor: 'start' | 'end';
-}
-
-function separate(list: Draft[]) {
-  const ordered = [...list].sort((a, b) => a.ly - b.ly || a.lx - b.lx);
-  for (let i = 0; i < ordered.length; i++) {
-    const pin = ordered[i];
-    let guard = 0;
-    while (guard < 24) {
-      const box = padded(textBox(pin.lx, pin.ly, pin.anchor, pin.label));
-      const clash = ordered.slice(0, i).some((other) => hits(box, textBox(other.lx, other.ly, other.anchor, other.label)));
-      if (!clash) break;
-      pin.ly = round(pin.ly + 6);
-      guard += 1;
-    }
-  }
-}
-
-function padded(box: Box): Box {
-  return { l: box.l - GAP, r: box.r + GAP, t: box.t - GAP, b: box.b + GAP };
-}
-
-function placeSide(side: Draft[], anchor: 'start' | 'end', blocked: Box[]) {
-  side.sort((a, b) => a.y - b.y || a.x - b.x);
-  const xs = side.map((pin) => pin.x);
-  const span = Math.max(...xs) - Math.min(...xs);
-  const align = span < 46;
-  const gutter = anchor === 'start' ? Math.max(...xs) + DOT : Math.min(...xs) - DOT;
-  const taken: Box[] = [];
-  for (const pin of side) {
-    const lx = round(align ? gutter : anchor === 'start' ? pin.x + DOT : pin.x - DOT);
-    let ly = pin.y + 3.4;
-    let guard = 0;
-    while (guard < 28) {
-      const box = textBox(lx, ly, anchor, pin.label);
-      const clear = inside(box) && !blocked.some((block) => hits(box, block)) && !taken.some((block) => hits(padded(box), block));
-      if (clear) break;
-      ly += 6;
-      guard += 1;
-    }
-    pin.lx = lx;
-    pin.ly = round(ly);
-    pin.anchor = anchor;
-    taken.push(textBox(pin.lx, pin.ly, pin.anchor, pin.label));
-  }
-}
-
-/**
- * One dot on the province. The name sits just to the open side of that dot.
- * Names in the same column keep a full line of space so they never cover each other.
- */
+/** One large name beside the dot for the sample provinces. Every province still has a hover pin. */
 export function mapPins(provinces: Province[]): MapPin[] {
-  const blocked = obstacles();
-  const pins: Draft[] = provinces.map((province) => {
+  return provinces.map((province) => {
     const point = centroid(province.d);
     const label = LABEL[province.slug] || province.name;
+    const x = round(point.x);
+    const y = round(point.y);
+    const spot = PLACE[province.slug];
+    const anchor = spot?.anchor || LISTED[province.slug] || 'start';
     return {
       slug: province.slug,
       name: province.name,
       label,
       region: province.region,
-      x: round(point.x),
-      y: round(point.y),
-      lx: 0,
-      ly: 0,
-      anchor: 'start' as const,
+      listed: province.slug in LISTED,
+      x,
+      y,
+      lx: round(x + (spot ? spot.dx : anchor === 'start' ? 8 : -8)),
+      ly: round(y + (spot ? spot.dy : 4)),
+      anchor,
     };
   });
-  const groups = new Map<string, Draft[]>();
-  for (const pin of pins) {
-    const list = groups.get(pin.region) || [];
-    list.push(pin);
-    groups.set(pin.region, list);
-  }
-  for (const list of groups.values()) {
-    const xs = list.map((pin) => pin.x).sort((a, b) => a - b);
-    const mid = xs[Math.floor((xs.length - 1) / 2)] ?? 0;
-    const left = list.filter((pin) => pin.x <= mid);
-    const right = list.filter((pin) => pin.x > mid);
-    if (right.length === 0 && left.length > 1) {
-      const moved = left.pop();
-      if (moved) right.push(moved);
-    }
-    placeSide(left, 'end', blocked);
-    placeSide(right, 'start', blocked);
-    separate(list);
-  }
-  return pins;
 }

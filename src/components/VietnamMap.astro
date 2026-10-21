@@ -88,11 +88,11 @@ const islandsOn = active === southCentral;
     <g class="map-pins" aria-hidden="true">
       {pins.map((pin) => (
         <g
-          class:list={['map-pin', { 'is-active': pin.region === active }]}
-          data-region={pin.region}
+          class:list={['map-pin', { 'is-active': pin.listed && pin.region === active }]}
+          data-region={pin.listed ? pin.region : undefined}
           data-province={pin.name}
         >
-          <circle cx={pin.x} cy={pin.y} r="3.6"></circle>
+          <circle cx={pin.x} cy={pin.y} r="4.4"></circle>
           <text x={pin.lx} y={pin.ly} text-anchor={pin.anchor}>{pin.label}</text>
         </g>
       ))}
