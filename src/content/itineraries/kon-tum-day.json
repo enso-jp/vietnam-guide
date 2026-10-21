@@ -1,0 +1,59 @@
+{
+  "slug": "kon-tum-day",
+  "title": "Kon Tum in a day",
+  "kind": "trip",
+  "level": "day",
+  "duration": "1 day",
+  "spanDays": 1,
+  "placeSlug": "kon-tum",
+  "budget": "Check on arrival",
+  "pace": "Moderate",
+  "photo": "kon-tum-wooden-church",
+  "summary": "Phở khô at the market, the wooden church and prison, then Kon Klor bridge and Kon K’Tu village. Coffee on the river after.",
+  "stops": [
+    {
+      "name": "Kon Tum market",
+      "minutes": 45,
+      "placeSlug": "kon-tum",
+      "attractionSlug": "kon-tum-market",
+      "note": "Two-bowl dry phở before the stalls thin out."
+    },
+    {
+      "name": "Wooden church",
+      "minutes": 60,
+      "placeSlug": "kon-tum",
+      "attractionSlug": "wooden-church",
+      "note": "Nguyen Hue timber and stained glass."
+    },
+    {
+      "name": "Kon Tum Prison",
+      "minutes": 90,
+      "placeSlug": "kon-tum",
+      "attractionSlug": "kon-tum-prison",
+      "note": "Confirm the ticket at the gate."
+    },
+    {
+      "name": "Kon Klor bridge and communal house",
+      "minutes": 90,
+      "placeSlug": "kon-tum",
+      "attractionSlug": "kon-klor-bridge",
+      "note": "Walk the bridge, then the nhà rông beside the river."
+    },
+    {
+      "name": "Kon K’Tu village",
+      "minutes": 120,
+      "placeSlug": "kon-tum",
+      "attractionSlug": "kon-ktu-village",
+      "note": "Stilt houses across the bridge. Ask before entering homes."
+    },
+    {
+      "name": "Đăk Bla riverfront",
+      "minutes": 60,
+      "placeSlug": "kon-tum",
+      "attractionSlug": "dak-bla-riverfront",
+      "note": "Coffee facing the river at dusk."
+    }
+  ],
+  "seoTitle": "Kon Tum in a day",
+  "seoDescription": "A one-day Kon Tum plan: market phở khô, the wooden church, Kon Klor bridge, Kon K’Tu village, and river coffee."
+}

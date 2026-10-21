@@ -1,0 +1,516 @@
+{
+  "slug": "kon-tum",
+  "name": "Kon Tum",
+  "nameVi": "Kon Tum",
+  "corridor": "highlands-coast",
+  "kind": "city",
+  "parent": null,
+  "publish": "accepted",
+  "priority": 33,
+  "note": "Next highlands-coast cycle. Public page only after dossier stored.",
+  "coverage": {
+    "sights": "filled",
+    "areas": "filled",
+    "foodStreets": "filled",
+    "nightlife": "filled",
+    "lifestyle": "filled",
+    "events": "filled",
+    "sideTrips": "filled"
+  },
+  "stages": {
+    "destination": {
+      "status": "paged",
+      "note": "Nine attraction shells. No food guide. Mang Den and Chu Mom Ray stay placeholders.",
+      "updated": "2026-10-21T11:18:20.817Z",
+      "reworkCount": 0
+    },
+    "destinationCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:16:38.946Z",
+      "reworkCount": 0
+    },
+    "destinationQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:16:38.946Z",
+      "reworkCount": 0
+    },
+    "food": {
+      "status": "skipped",
+      "note": "No dish photos or food guide.",
+      "updated": "2026-10-21T11:18:20.843Z",
+      "reworkCount": 0
+    },
+    "foodCopy": {
+      "status": "skipped",
+      "note": "No food guide.",
+      "updated": "2026-10-21T11:18:20.868Z",
+      "reworkCount": 0
+    },
+    "foodQuality": {
+      "status": "skipped",
+      "note": "No food guide.",
+      "updated": "2026-10-21T11:18:20.894Z",
+      "reworkCount": 0
+    },
+    "researchBase": {
+      "status": "stored",
+      "note": "Left out: Pleiku taxi fares, exact PXU transfer minutes, and Da Lat road time.",
+      "updated": "2026-10-21T11:16:38.492Z",
+      "reworkCount": 0
+    },
+    "researchAttractions": {
+      "status": "stored",
+      "note": "Left out: Ngok Linh, Dak To battlefields, and Kon Bring until sourced photos exist.",
+      "updated": "2026-10-21T11:16:38.599Z",
+      "reworkCount": 0
+    },
+    "researchFood": {
+      "status": "stored",
+      "note": "Left out: stall prices, restaurant picks, and dish pages without photos.",
+      "updated": "2026-10-21T11:16:38.683Z",
+      "reworkCount": 0
+    },
+    "researchNightlife": {
+      "status": "stored",
+      "note": "Left out: bar names and a night photograph.",
+      "updated": "2026-10-21T11:16:38.762Z",
+      "reworkCount": 0
+    },
+    "researchLifestyle": {
+      "status": "stored",
+      "note": "Left out: named breakfast stall and hotel-to-church minutes.",
+      "updated": "2026-10-21T11:16:38.840Z",
+      "reworkCount": 0
+    },
+    "researchContext": {
+      "status": "stored",
+      "note": "Left out: 2026 festival dates, Pleiku page, Mang Den and Chu Mom Ray public slugs.",
+      "updated": "2026-10-21T11:16:38.946Z",
+      "reworkCount": 0
+    }
+  },
+  "items": [
+    {
+      "id": "kon-tum--wooden-church",
+      "kind": "sight",
+      "track": "unit",
+      "name": "wooden church",
+      "slug": "wooden-church",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:16:38.947Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "kon-tum--kon-klor-bridge",
+      "kind": "sight",
+      "track": "unit",
+      "name": "kon klor bridge",
+      "slug": "kon-klor-bridge",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:16:38.947Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "kon-tum--kon-klor-rong-house",
+      "kind": "sight",
+      "track": "unit",
+      "name": "kon klor rong house",
+      "slug": "kon-klor-rong-house",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:16:38.947Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "kon-tum--kon-tum-prison",
+      "kind": "sight",
+      "track": "unit",
+      "name": "kon tum prison",
+      "slug": "kon-tum-prison",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:16:38.947Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "kon-tum--kon-ktu-village",
+      "kind": "area",
+      "track": "unit",
+      "name": "kon ktu village",
+      "slug": "kon-ktu-village",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:16:38.947Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "kon-tum--kon-tum-museum",
+      "kind": "sight",
+      "track": "unit",
+      "name": "kon tum museum",
+      "slug": "kon-tum-museum",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:16:38.947Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "kon-tum--bac-ai-pagoda",
+      "kind": "sight",
+      "track": "unit",
+      "name": "bac ai pagoda",
+      "slug": "bac-ai-pagoda",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:16:38.947Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "kon-tum--kon-tum-market",
+      "kind": "hub",
+      "track": "unit",
+      "name": "kon tum market",
+      "slug": "kon-tum-market",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:16:38.947Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "kon-tum--dak-bla-riverfront",
+      "kind": "area",
+      "track": "unit",
+      "name": "dak bla riverfront",
+      "slug": "dak-bla-riverfront",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:16:38.947Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "kon-tum--kon-tum-market-food",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Kon Tum market morning",
+      "slug": "kon-tum-market-food",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:16:38.947Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "kon-tum--tran-cao-van",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Tran Cao Van",
+      "slug": "tran-cao-van",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:16:38.947Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "kon-tum--pho-kho-kon-tum",
+      "kind": "dish",
+      "track": "unit",
+      "name": "Dry pho two bowls",
+      "slug": "pho-kho-kon-tum",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:16:38.947Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "kon-tum--goi-la-kon-tum",
+      "kind": "dish",
+      "track": "unit",
+      "name": "Leaf salad",
+      "slug": "goi-la-kon-tum",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:16:38.947Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "kon-tum--riverfront-evening",
+      "kind": "nightlife",
+      "track": "unit",
+      "name": "Tran Phu riverside cafés",
+      "slug": "riverfront-evening",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:16:38.947Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "kon-tum--morning-pho",
+      "kind": "lifestyle",
+      "track": "unit",
+      "name": "Dry-pho breakfast",
+      "slug": "morning-pho",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:16:38.947Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "kon-tum--culture-week",
+      "kind": "event",
+      "track": "unit",
+      "name": "Culture Sports Tourism Week",
+      "slug": "culture-week",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:16:38.947Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "kon-tum--po-thi",
+      "kind": "event",
+      "track": "unit",
+      "name": "Po Thi festival",
+      "slug": "po-thi",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:16:38.947Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "kon-tum--event--kon-tum-culture-week",
+      "kind": "event",
+      "track": "bundled",
+      "name": "Culture, Sports and Tourism Week",
+      "slug": "kon-tum-culture-week",
+      "file": "src/content/festivals/kon-tum-culture-week.json",
+      "source": "published",
+      "research": "stored",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Bundled into the destination stage.",
+      "updated": "2026-10-21T11:18:20.738Z",
+      "reworkCount": 0
+    }
+  ],
+  "questions": [],
+  "claim": null,
+  "log": [
+    {
+      "at": "2026-10-21T11:18:20.894Z",
+      "place": "kon-tum",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "skipped",
+      "note": "No food guide."
+    },
+    {
+      "at": "2026-10-21T11:18:20.868Z",
+      "place": "kon-tum",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "skipped",
+      "note": "No food guide."
+    },
+    {
+      "at": "2026-10-21T11:18:20.843Z",
+      "place": "kon-tum",
+      "stage": "food",
+      "item": null,
+      "status": "skipped",
+      "note": "No dish photos or food guide."
+    },
+    {
+      "at": "2026-10-21T11:18:20.817Z",
+      "place": "kon-tum",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Nine attraction shells. No food guide. Mang Den and Chu Mom Ray stay placeholders."
+    },
+    {
+      "at": "2026-10-21T11:16:38.947Z",
+      "place": "kon-tum",
+      "stage": "researchContext",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: 2026 festival dates, Pleiku page, Mang Den and Chu Mom Ray public slugs."
+    },
+    {
+      "at": "2026-10-21T11:16:38.840Z",
+      "place": "kon-tum",
+      "stage": "researchLifestyle",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: named breakfast stall and hotel-to-church minutes."
+    },
+    {
+      "at": "2026-10-21T11:16:38.762Z",
+      "place": "kon-tum",
+      "stage": "researchNightlife",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: bar names and a night photograph."
+    },
+    {
+      "at": "2026-10-21T11:16:38.683Z",
+      "place": "kon-tum",
+      "stage": "researchFood",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: stall prices, restaurant picks, and dish pages without photos."
+    },
+    {
+      "at": "2026-10-21T11:16:38.600Z",
+      "place": "kon-tum",
+      "stage": "researchAttractions",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: Ngok Linh, Dak To battlefields, and Kon Bring until sourced photos exist."
+    },
+    {
+      "at": "2026-10-21T11:16:38.492Z",
+      "place": "kon-tum",
+      "stage": "researchBase",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: Pleiku taxi fares, exact PXU transfer minutes, and Da Lat road time."
+    },
+    {
+      "at": "2026-10-21T11:16:27.139Z",
+      "place": "kon-tum",
+      "stage": "researchContext",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Events and side trips listed; Mang Den and Chu Mom Ray are placeholders."
+    },
+    {
+      "at": "2026-10-21T11:16:26.922Z",
+      "place": "kon-tum",
+      "stage": "researchLifestyle",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Ordinary day is market breakfast and river coffee."
+    },
+    {
+      "at": "2026-10-21T11:16:22.428Z",
+      "place": "kon-tum",
+      "stage": "researchNightlife",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Evening is café riverfront, not a bar list."
+    },
+    {
+      "at": "2026-10-21T11:16:16.661Z",
+      "place": "kon-tum",
+      "stage": "researchFood",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Dishes named; no public food guide in this pass."
+    },
+    {
+      "at": "2026-10-21T11:16:03.292Z",
+      "place": "kon-tum",
+      "stage": "researchAttractions",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Sights stored; Chu Mom Ray and Mang Den stay side trips only."
+    },
+    {
+      "at": "2026-10-21T11:15:50.351Z",
+      "place": "kon-tum",
+      "stage": "researchBase",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Left out: Pleiku taxi fares and exact PXU transfer minutes."
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "slug": "kon-tum",
+  "name": "Kon Tum",
+  "nameVi": "Kon Tum",
+  "kind": "city",
+  "corridor": "highlands-coast",
+  "province": "Quang Ngai",
+  "provinceNote": "Kon Tum city and the former Kon Tum province merged into Quảng Ngãi on 1 July 2025. The provincial capital is Quảng Ngãi city. Kon Tum remains the highland city travelers mean on the map.",
+  "lat": 14.354,
+  "lng": 108.007,
+  "dots": 3,
+  "dotReason": "Worth it for Central Highlands culture",
+  "summary": "Sleep in Kon Tum when the wooden church, the Kon Klor bridge, and Ba Na villages are the trip. Fly to Pleiku, then the road to town. The cathedral on Nguyen Hue is free on the national portal page. The prison museum prints 30,000 VND on the same page only. Mang Den and Chu Mom Ray are side trips, not an evening in the city.",
+  "timeNeeded": "1–2 days for the city cluster",
+  "fee": "Sights bill separately",
+  "getThere": "Pleiku Airport (PXU), then about 45 km by road. Minutes and fares are check on arrival.",
+  "bestMonths": "November to April",
+  "verified": "21 Oct 2026",
+  "interests": {
+    "pagodas": 4,
+    "coffee": 4,
+    "food": 3,
+    "markets": 3,
+    "warHistory": 3,
+    "photography": 4,
+    "mountains": 3
+  },
+  "cover": "highlands",
+  "nearby": [
+    "da-lat"
+  ],
+  "routeSlugs": [],
+  "itinerarySlugs": [
+    "kon-tum-day"
+  ],
+  "seoTitle": "Kon Tum travel guide — wooden church and Kon Klor",
+  "seoDescription": "Kon Tum pairs a 1913 timber cathedral with the Kon Klor bridge and Ba Na villages. Fly to Pleiku, about 45 km away. Prison fee and museum hours are check on arrival.",
+  "intro": [
+    "You wake to phở khô in two bowls, then walk Nguyen Hue to the wooden church. The provincial portal puts the cathedral on Nguyen Hue in Thống Nhất ward, built from 1913 to 1918 in cà chít timber with Roman lines and Ba Na roof forms. The national cluster page lists free entry at the church. Kon Tum is not a beach town. It is timber, stained glass, and the wide Đăk Bla River.",
+    "Give the afternoon to Kon Klor. The cable bridge opened 1 May 1994, 292 metres over the river toward Kon K’Tu village about five kilometres from the centre. The communal house beside the river is the large Ba Na nhà rông rebuilt after the 2010 fire. Cross on foot when the deck is steady. The motorbike toll is check on arrival. One English page prints 5,000 VND; the provincial pages in this pass do not.",
+    "The prison museum sits in the same city cluster. Go Vietnam prints 30,000 VND and about ninety minutes for the French-era cells. Confirm that fee at the gate. The provincial museum holds gong heritage displays linked to the UNESCO Central Highlands gong space, but this pass found no published ticket or hours for the museum.",
+    "Stay if highland culture is the reason. Head for Da Lat if you wanted cool-colonial lakes instead. Mang Den, about fifty-four kilometres northeast on National Highway 24 on Vietnam Tourism’s page, is a pine plateau side trip. Chu Mom Ray is named on the national province list without a timed drive from the city. Pleiku is the air gateway, not a published neighbour page yet."
+  ],
+  "gettingAround": [
+    "Pleiku Airport (PXU) is the usual flight. A provincial tourism blog prints nearly forty-five kilometres and about one hour by bus or taxi to Kon Tum city. Treat fares as check on arrival. Within town, the church, prison, and museum walk together. Kon Klor and Kon K’Tu need a motorbike or taxi. Coffee is on the riverfront in the evening, not a named club quarter."
+  ],
+  "stayAreas": [
+    {
+      "name": "Central Kon Tum",
+      "summary": "Sleep near Nguyen Hue and the river if the church-and-bridge day is the point. Guesthouses and small hotels, not a resort strip.",
+      "band": "City hotels and guesthouses",
+      "photo": "kon-tum"
+    }
+  ],
+  "eat": [
+    "Breakfast is phở khô, noodles in one bowl and broth in another. Go Vietnam prints morning shop hours roughly six to ten. Gỏi lá is the Ba Na leaf salad; press names Tran Cao Van for restaurants, not a stall list. Coffee is the evening drink on the river. No public food guide or dish pages were added in this pass."
+  ],
+  "dishSlugs": [],
+  "interestsBody": [
+    "The wooden church and the nhà rông halls are why the city is on a highland loop. Kon K’Tu is the village across Kon Klor, not a theme park.",
+    "The prison and museum are the history morning. Gong culture shows up in the museum and in village festivals with dates check on arrival.",
+    "Mang Den and Chu Mom Ray belong on a second day. The evening here is river coffee, not nightlife as a product."
+  ],
+  "interestGroups": [
+    {
+      "title": "Timber church and highland halls",
+      "summary": "The 1913 cathedral and Ba Na communal houses at Kon Klor and Kon K’Tu.",
+      "cards": [
+        {
+          "title": "Wooden church",
+          "summary": "Cà chít timber and stained glass on Nguyen Hue.",
+          "attractionSlug": "wooden-church",
+          "photo": "kon-tum-wooden-church",
+          "icon": "museum"
+        },
+        {
+          "title": "Kon Klor communal house",
+          "summary": "The large nhà rông beside the Đăk Bla.",
+          "attractionSlug": "kon-klor-rong-house",
+          "photo": "kon-tum-kon-klor-rong-house",
+          "icon": "view"
+        },
+        {
+          "title": "Kon K’Tu village",
+          "summary": "Stilt houses across the suspension bridge.",
+          "attractionSlug": "kon-ktu-village",
+          "photo": "kon-tum-kon-ktu-village",
+          "icon": "view"
+        }
+      ]
+    },
+    {
+      "title": "River bridge and evening coffee",
+      "summary": "Kon Klor bridge and the Đăk Bla riverfront cafés.",
+      "cards": [
+        {
+          "title": "Kon Klor bridge",
+          "summary": "292 metres over the Đăk Bla toward the village.",
+          "attractionSlug": "kon-klor-bridge",
+          "photo": "kon-tum-kon-klor-bridge",
+          "icon": "view"
+        },
+        {
+          "title": "Đăk Bla riverfront",
+          "summary": "Wide river and café tables at dusk.",
+          "attractionSlug": "dak-bla-riverfront",
+          "photo": "kon-tum-dak-bla-riverfront",
+          "icon": "drink"
+        }
+      ]
+    },
+    {
+      "title": "Prison, museum, and morning market",
+      "summary": "Colonial prison relic, provincial museum, and phở khô breakfast.",
+      "cards": [
+        {
+          "title": "Kon Tum Prison",
+          "summary": "French-era museum in the city centre.",
+          "attractionSlug": "kon-tum-prison",
+          "photo": "kon-tum-kon-tum-prison",
+          "icon": "museum"
+        },
+        {
+          "title": "Provincial museum",
+          "summary": "Gong heritage and ethnology displays.",
+          "attractionSlug": "kon-tum-museum",
+          "photo": "kon-tum-kon-tum-museum",
+          "icon": "museum"
+        },
+        {
+          "title": "Market morning",
+          "summary": "Two-bowl phở near the market hall.",
+          "attractionSlug": "kon-tum-market",
+          "photo": "kon-tum-kon-tum-market",
+          "icon": "food"
+        }
+      ]
+    }
+  ],
+  "season": {
+    "label": "Rain May–October",
+    "note": "Go Vietnam’s cluster climate note calls November–April drier and warns that June–September rain can make forest side-trip roads slippery. That is guidance, not a closure list. Pơ Thi and provincial culture weeks move on lunar calendars. Check on arrival."
+  },
+  "faqs": [
+    {
+      "q": "Which airport serves Kon Tum?",
+      "a": "Fly to Pleiku (PXU). Kon Tum has no passenger airport in the sources used here. A tourism blog prints nearly forty-five kilometres and about one hour by road from Pleiku to Kon Tum city. Fares are check on arrival."
+    },
+    {
+      "q": "Is the wooden church the same visit as Kon K’Tu?",
+      "a": "No. The church is on Nguyen Hue in the centre. Kon K’Tu village is about five kilometres away across the Kon Klor bridge. Plan a full day for both."
+    },
+    {
+      "q": "What does the prison museum cost?",
+      "a": "Go Vietnam’s Kon Tum cluster page prints 30,000 VND. No matching fee appeared on kontum.gov.vn in this pass. Check on arrival at the gate."
+    }
+  ]
+}
