@@ -2,7 +2,9 @@
   "slug": "ho-chi-minh-city-walk",
   "title": "Ho Chi Minh City walk",
   "kind": "walk",
+  "level": "half-day",
   "duration": "4 hours",
+  "placeSlug": "ho-chi-minh-city",
   "budget": "Museum ticket and lunch",
   "pace": "Steady",
   "summary": "District 1 from the cathedral square to Ben Thanh, with the palace if the heat allows.",
@@ -24,6 +26,7 @@
       "name": "Reunification Palace",
       "minutes": 60,
       "walkMinutes": 12,
+      "placeSlug": "ho-chi-minh-city",
       "note": "Allow a full hour inside.",
       "attractionSlug": "reunification-palace"
     },
@@ -31,6 +34,7 @@
       "name": "Ben Thanh Market",
       "minutes": 30,
       "walkMinutes": 10,
+      "placeSlug": "ho-chi-minh-city",
       "note": "Look, then eat lunch nearby rather than in the tourist stalls.",
       "attractionSlug": "ben-thanh"
     }

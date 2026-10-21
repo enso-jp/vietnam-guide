@@ -20,7 +20,8 @@ const routes = new Set(readDir('src/content/routes').map((item) => item.slug));
 const dishes = new Set(readDir('src/content/dishes').map((item) => item.slug));
 const foodGuides = readDir('src/content/food');
 const guides = new Set(readDir('src/content/guides').map((item) => item.slug));
-const trips = new Set(readDir('src/content/itineraries').map((item) => item.slug));
+const itineraries = readDir('src/content/itineraries');
+const trips = new Set(itineraries.map((item) => item.slug));
 const slugs = new Set();
 const errors = [];
 
@@ -120,8 +121,110 @@ for (const guide of guideRecords) {
   if (!['tip', 'travel', 'tax', 'living'].includes(guide.block)) errors.push(`${guide.slug} block missing`);
 }
 
+const placeSlugs = new Set(places.map((place) => place.slug));
+const attractionPairs = new Set(attractions.map((item) => `${item.placeSlug}/${item.slug}`));
+const itineraryBySlug = new Map(itineraries.map((item) => [item.slug, item]));
+const LEVELS = new Set(['nationwide', 'region', 'day', 'half-day']);
+const GATEWAYS = new Set(['hanoi', 'ho-chi-minh-city', 'da-nang', 'open-jaw']);
+const DIRECTIONS = new Set(['north-to-south', 'south-to-north', 'out-of-da-nang']);
+const APPROACH_MODES = new Set(['walk', 'bicycle', 'grab', 'taxi', 'boat', 'bus']);
+const NATIONWIDE_DAYS = new Set([10, 14, 18, 21]);
+const REGION_DAYS = {
+  'northern-vietnam': new Set([5, 7, 9]),
+  'central-coast': new Set([4, 5, 7]),
+  southeast: new Set([4]),
+  'mekong-delta': new Set([4, 5]),
+  'highlands-coast': new Set([4]),
+};
+// south-5-days spans three corridors until the split records exist.
+const REGION_CHOOSER = 'south-5-days';
+const seenNationwide = new Map();
+const seenRegion = new Map();
+
+for (const trip of itineraries) {
+  const slug = trip.slug;
+  if (!LEVELS.has(trip.level)) errors.push(`${slug} level missing`);
+  if (trip.gateway != null && !GATEWAYS.has(trip.gateway)) errors.push(`${slug} gateway ${trip.gateway} missing`);
+  if (trip.direction != null && !DIRECTIONS.has(trip.direction)) errors.push(`${slug} direction ${trip.direction} missing`);
+
+  if (trip.level === 'nationwide') {
+    if (!GATEWAYS.has(trip.gateway)) errors.push(`${slug} gateway missing`);
+    if (!DIRECTIONS.has(trip.direction)) errors.push(`${slug} direction missing`);
+    if (!NATIONWIDE_DAYS.has(trip.daysCount)) errors.push(`${slug} daysCount ${trip.daysCount} does not fit nationwide`);
+    else if (GATEWAYS.has(trip.gateway) && DIRECTIONS.has(trip.direction)) {
+      const key = `${trip.gateway}|${trip.direction}|${trip.daysCount}`;
+      if (seenNationwide.has(key)) errors.push(`${slug} nationwide key already used by ${seenNationwide.get(key)}`);
+      else seenNationwide.set(key, slug);
+    }
+  }
+
+  if (trip.level === 'region') {
+    if (slug === REGION_CHOOSER) {
+      if (trip.corridor) errors.push(`${slug} chooser does not use one corridor`);
+      if (trip.daysCount !== 5) errors.push(`${slug} daysCount ${trip.daysCount} does not fit the south chooser`);
+    } else if (!corridors.has(trip.corridor)) {
+      errors.push(`${slug} corridor ${trip.corridor || ''} missing`);
+    } else if (!REGION_DAYS[trip.corridor]?.has(trip.daysCount)) {
+      errors.push(`${slug} daysCount ${trip.daysCount} does not fit ${trip.corridor}`);
+    } else {
+      const key = `${trip.corridor}|${trip.daysCount}|${trip.variant || ''}`;
+      if (seenRegion.has(key)) errors.push(`${slug} region key already used by ${seenRegion.get(key)}`);
+      else seenRegion.set(key, slug);
+    }
+  }
+
+  if (trip.level === 'day') {
+    if (trip.spanDays !== 1 && trip.spanDays !== 2) errors.push(`${slug} spanDays must be 1 or 2`);
+    if (trip.daysCount != null && trip.daysCount !== trip.spanDays) errors.push(`${slug} daysCount ${trip.daysCount} does not fit a day`);
+  }
+
+  if (trip.level === 'half-day' && trip.daysCount != null) errors.push(`${slug} half-day omits daysCount`);
+
+  if (trip.level === 'day' || trip.level === 'half-day') {
+    if (!placeSlugs.has(trip.placeSlug)) errors.push(`${slug} place ${trip.placeSlug || ''} missing`);
+  } else if (trip.placeSlug && !placeSlugs.has(trip.placeSlug)) {
+    errors.push(`${slug} place ${trip.placeSlug} missing`);
+  }
+
+  if (trip.level !== 'region' && trip.corridor && !corridors.has(trip.corridor)) {
+    errors.push(`${slug} corridor ${trip.corridor} missing`);
+  }
+
+  for (const routeSlug of trip.routeSlugs || []) {
+    if (!routes.has(routeSlug)) errors.push(`${slug} route ${routeSlug} missing`);
+  }
+
+  for (const day of trip.days || []) {
+    if (day.placeSlug && !placeSlugs.has(day.placeSlug)) errors.push(`${slug} day place ${day.placeSlug} missing`);
+    if (day.routeSlug && !routes.has(day.routeSlug)) errors.push(`${slug} day route ${day.routeSlug} missing`);
+    if (day.itinerarySlug) {
+      const linked = itineraryBySlug.get(day.itinerarySlug);
+      if (!linked) errors.push(`${slug} day itinerary ${day.itinerarySlug} missing`);
+      else if (linked.level !== 'day' && linked.level !== 'half-day') {
+        errors.push(`${slug} day itinerary ${day.itinerarySlug} is not a day or half-day`);
+      }
+    }
+  }
+
+  for (const stop of trip.stops || []) {
+    if (stop.placeSlug && !placeSlugs.has(stop.placeSlug)) errors.push(`${slug} stop ${stop.name} place ${stop.placeSlug} missing`);
+    if (stop.attractionSlug) {
+      if (!stop.placeSlug) errors.push(`${slug} stop ${stop.name} attraction needs a place`);
+      else if (!attractionPairs.has(`${stop.placeSlug}/${stop.attractionSlug}`)) {
+        errors.push(`${slug} stop ${stop.name} attraction ${stop.placeSlug}/${stop.attractionSlug} missing`);
+      }
+    }
+    if (stop.dishSlug && !dishes.has(stop.dishSlug)) errors.push(`${slug} stop ${stop.name} dish ${stop.dishSlug} missing`);
+    if (stop.approach) {
+      if (!APPROACH_MODES.has(stop.approach.mode)) errors.push(`${slug} stop ${stop.name} approach missing`);
+      if (!stop.approach.note) errors.push(`${slug} stop ${stop.name} approach note missing`);
+      if (stop.approach.fee != null || stop.approach.price != null) errors.push(`${slug} stop ${stop.name} approach has a fee`);
+    }
+  }
+}
+
 if (errors.length) {
   console.error(errors.join('\n'));
   process.exit(1);
 }
-console.log(`Content ok: ${places.length} places, ${attractions.length} attractions, ${festivals.length} festivals, ${routes.size} routes, ${dishes.size} dishes, ${guides.size} guides.`);
+console.log(`Content ok: ${places.length} places, ${attractions.length} attractions, ${festivals.length} festivals, ${routes.size} routes, ${dishes.size} dishes, ${guides.size} guides, ${itineraries.length} itineraries.`);

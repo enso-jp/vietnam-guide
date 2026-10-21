@@ -6,7 +6,7 @@ import { getGuides, getItineraries } from '../../lib/content';
 import { stayLink } from '../../lib/partners';
 
 const guides = getGuides();
-const trips = getItineraries().filter((trip) => trip.kind === 'trip');
+const trips = getItineraries().filter((trip) => trip.level === 'nationwide' || trip.level === 'region');
 const before = guides.filter((guide) => guide.group === 'before' && guide.slug !== 'taxes');
 const learn = guides.filter((guide) => guide.group === 'learn');
 const stay = guides.filter((guide) => guide.slug === 'where-to-stay');
@@ -54,7 +54,7 @@ const living = guides.filter((guide) => guide.slug === 'living' || guide.slug ==
           </a>
         ))}
       </div>
-      <p><a href="/itineraries">Nationwide, regional, and walks</a></p>
+      <p><a href="/itineraries">All itineraries</a></p>
     </section>
     <section id="stay" class="place-section">
       <h2>Accommodation</h2>
