@@ -9,15 +9,8 @@
   "budget": "Check on arrival",
   "pace": "Moderate",
   "photo": "kon-tum-wooden-church",
-  "summary": "Phở khô at the market, the wooden church and prison, then Kon Klor bridge and Kon K’Tu village. Coffee on the river after.",
+  "summary": "The wooden church on Nguyen Hue, then the prison museum. Kon Klor, the market, and the museum stay named on the place page until each has a licensed photo.",
   "stops": [
-    {
-      "name": "Kon Tum market",
-      "minutes": 45,
-      "placeSlug": "kon-tum",
-      "attractionSlug": "kon-tum-market",
-      "note": "Two-bowl dry phở before the stalls thin out."
-    },
     {
       "name": "Wooden church",
       "minutes": 60,
@@ -31,29 +24,8 @@
       "placeSlug": "kon-tum",
       "attractionSlug": "kon-tum-prison",
       "note": "Confirm the ticket at the gate."
-    },
-    {
-      "name": "Kon Klor bridge and communal house",
-      "minutes": 90,
-      "placeSlug": "kon-tum",
-      "attractionSlug": "kon-klor-bridge",
-      "note": "Walk the bridge, then the nhà rông beside the river."
-    },
-    {
-      "name": "Kon K’Tu village",
-      "minutes": 120,
-      "placeSlug": "kon-tum",
-      "attractionSlug": "kon-ktu-village",
-      "note": "Stilt houses across the bridge. Ask before entering homes."
-    },
-    {
-      "name": "Đăk Bla riverfront",
-      "minutes": 60,
-      "placeSlug": "kon-tum",
-      "attractionSlug": "dak-bla-riverfront",
-      "note": "Coffee facing the river at dusk."
     }
   ],
   "seoTitle": "Kon Tum in a day",
-  "seoDescription": "A one-day Kon Tum plan: market phở khô, the wooden church, Kon Klor bridge, Kon K’Tu village, and river coffee."
+  "seoDescription": "A one-day Kon Tum plan with the wooden church and the prison museum, the two sights that have licensed photos in this pass."
 }

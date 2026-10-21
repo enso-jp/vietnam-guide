@@ -63,8 +63,8 @@
   ],
   "interestGroups": [
     {
-      "title": "Timber church and highland halls",
-      "summary": "The 1913 cathedral and Ba Na communal houses at Kon Klor and Kon K’Tu.",
+      "title": "Timber cathedral",
+      "summary": "The 1913 wooden church on Nguyen Hue. Kon Klor and Kon K’Tu stay in the dossier until a licensed photo exists.",
       "cards": [
         {
           "title": "Wooden church",
@@ -72,46 +72,12 @@
           "attractionSlug": "wooden-church",
           "photo": "kon-tum-wooden-church",
           "icon": "museum"
-        },
-        {
-          "title": "Kon Klor communal house",
-          "summary": "The large nhà rông beside the Đăk Bla.",
-          "attractionSlug": "kon-klor-rong-house",
-          "photo": "kon-tum-kon-klor-rong-house",
-          "icon": "view"
-        },
-        {
-          "title": "Kon K’Tu village",
-          "summary": "Stilt houses across the suspension bridge.",
-          "attractionSlug": "kon-ktu-village",
-          "photo": "kon-tum-kon-ktu-village",
-          "icon": "view"
         }
       ]
     },
     {
-      "title": "River bridge and evening coffee",
-      "summary": "Kon Klor bridge and the Đăk Bla riverfront cafés.",
-      "cards": [
-        {
-          "title": "Kon Klor bridge",
-          "summary": "292 metres over the Đăk Bla toward the village.",
-          "attractionSlug": "kon-klor-bridge",
-          "photo": "kon-tum-kon-klor-bridge",
-          "icon": "view"
-        },
-        {
-          "title": "Đăk Bla riverfront",
-          "summary": "Wide river and café tables at dusk.",
-          "attractionSlug": "dak-bla-riverfront",
-          "photo": "kon-tum-dak-bla-riverfront",
-          "icon": "drink"
-        }
-      ]
-    },
-    {
-      "title": "Prison, museum, and morning market",
-      "summary": "Colonial prison relic, provincial museum, and phở khô breakfast.",
+      "title": "Prison museum",
+      "summary": "French-era cells in the city centre. The provincial museum stays in the dossier without a photo.",
       "cards": [
         {
           "title": "Kon Tum Prison",
@@ -119,20 +85,6 @@
           "attractionSlug": "kon-tum-prison",
           "photo": "kon-tum-kon-tum-prison",
           "icon": "museum"
-        },
-        {
-          "title": "Provincial museum",
-          "summary": "Gong heritage and ethnology displays.",
-          "attractionSlug": "kon-tum-museum",
-          "photo": "kon-tum-kon-tum-museum",
-          "icon": "museum"
-        },
-        {
-          "title": "Market morning",
-          "summary": "Two-bowl phở near the market hall.",
-          "attractionSlug": "kon-tum-market",
-          "photo": "kon-tum-kon-tum-market",
-          "icon": "food"
         }
       ]
     }
