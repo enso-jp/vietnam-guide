@@ -242,17 +242,19 @@ const leadSight = tiedForLead.find((item) => topInterest && item.interests.inclu
         {place.kind !== 'district' && (
         <section id="interests" class="place-section">
           <h2>{place.name} by interest</h2>
-          {place.interestsBody.map((paragraph) => <p>{paragraph}</p>)}
           {interestSlider ? (
             <PortraitRail label={`Interests in ${place.name}`} items={interestSlider} />
           ) : (
-            interestSections.map((section) => (
-              <div class="interest-group">
-                {section.title && <h3>{section.title}</h3>}
-                {section.summary && <p>{section.summary}</p>}
-                <PortraitRail label={section.title ? `${section.title} in ${place.name}` : `Interests in ${place.name}`} items={section.items} />
-              </div>
-            ))
+            <>
+              {place.interestsBody.map((paragraph) => <p>{paragraph}</p>)}
+              {interestSections.map((section) => (
+                <div class="interest-group">
+                  {section.title && <h3>{section.title}</h3>}
+                  {section.summary && <p>{section.summary}</p>}
+                  <PortraitRail label={section.title ? `${section.title} in ${place.name}` : `Interests in ${place.name}`} items={section.items} />
+                </div>
+              ))}
+            </>
           )}
         </section>
         )}
