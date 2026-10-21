@@ -1,5 +1,5 @@
 ---
-import { vietnamCities, vietnamRegions, vietnamViewBox } from '../lib/vietnam-map';
+import { vietnamCities, vietnamIslandLabels, vietnamIslands, vietnamRegions, vietnamHomeViewBox, vietnamViewBox } from '../lib/vietnam-map';
 
 interface Props {
   variant?: 'compact' | 'home';
@@ -12,30 +12,13 @@ interface Props {
 const { variant = 'compact', active, linked = true, names = true } = Astro.props;
 const showCities = variant === 'home';
 const home = variant === 'home';
-const cityRegion: Record<string, string> = {
-  sapa: 'northern-vietnam',
-  'ha-giang': 'northern-vietnam',
-  hanoi: 'northern-vietnam',
-  'ha-long': 'northern-vietnam',
-  'ninh-binh': 'northern-vietnam',
-  'phong-nha': 'central-coast',
-  hue: 'central-coast',
-  'da-nang': 'central-coast',
-  'hoi-an': 'central-coast',
-  'nha-trang': 'highlands-coast',
-  'da-lat': 'highlands-coast',
-  'mui-ne': 'highlands-coast',
-  'ho-chi-minh-city': 'southeast',
-  'can-tho': 'mekong-delta',
-  'phu-quoc': 'mekong-delta',
-};
+const viewBox = home ? vietnamHomeViewBox : vietnamViewBox;
 ---
 <svg
-  class:list={['map-svg', 'map-vietnam', { 'map-home': home, 'map-compact': variant === 'compact' }]}
-  viewBox={vietnamViewBox}
+  class:list={['map-svg', 'map-vietnam', { 'map-home': home, 'map-compact': variant === 'compact', 'map-picked': Boolean(active) }]}
+  viewBox={viewBox}
   aria-label="Map of Vietnam by travel corridor"
 >
-  {home && <image href="/map/vietnam-relief.png" x="0" y="0" width="448.8" height="557.6"></image>}
   {vietnamRegions.map((region) => {
     const on = region.slug === active;
     return linked ? (
@@ -51,10 +34,23 @@ const cityRegion: Record<string, string> = {
       </g>
     );
   })}
+  {home && (
+    <g class="map-islands" aria-label="Hoang Sa (Vietnam) and Truong Sa (Vietnam)">
+      {vietnamIslands.map((isle) => (
+        <circle class="map-isle" cx={isle.x} cy={isle.y} r={isle.r}></circle>
+      ))}
+      {vietnamIslandLabels.map((label) => (
+        <text class="map-sea-label" text-anchor="start">
+          <tspan x={label.x} y={label.y}>{label.name}</tspan>
+          <tspan x={label.x} dy="14">{label.note}</tspan>
+        </text>
+      ))}
+    </g>
+  )}
   {showCities && (
     <g class="map-cities">
       {vietnamCities.map((city) => (
-        <a class="map-city" href={`/${city.slug}`} data-region={cityRegion[city.slug]}>
+        <a class:list={['map-city', { 'is-active': city.region === active }]} href={`/${city.slug}`} data-region={city.region}>
           <title>{city.name}</title>
           <circle cx={city.x} cy={city.y} r="3.4"></circle>
           <text x={city.lx} y={city.ly} text-anchor={city.anchor}>{city.name}</text>
