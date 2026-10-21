@@ -1,0 +1,28 @@
+{
+  "slug": "hue-to-dong-hoi",
+  "name": "Hue to Dong Hoi",
+  "from": "Hue",
+  "to": "Dong Hoi",
+  "summary": "Rail only for a timed example. The posts are 166 km apart. Two northbound clocks on the 21 Oct 2026 board run 3 hours 14 minutes and 3 hours 36 minutes. Road minutes and the bus station are check on arrival. Fares were not copied.",
+  "modes": [
+    {
+      "mode": "Train",
+      "duration": "3 hours 14 minutes to 3 hours 36 minutes",
+      "note": "Example clocks from the Vietnam Railways board on 21 Oct 2026, not a promise. Northbound, SE2 leaves Huế at 15:54 and Đồng Hới at 19:08. SE6 leaves Huế at 04:49 the next day and Đồng Hới at 08:25. SE4, SE8, and SE10 are on the same board with rows that need that day’s timetable. Huế is km 1038 and Đồng Hới is km 1204, 166 km by the post. The station street is check on arrival. Fares were not copied.",
+      "partner": "train"
+    },
+    {
+      "mode": "Car or bus",
+      "duration": "Check on arrival",
+      "note": "No page in this pass gave a door-to-door minute count. The 166 km figure is the rail post, not the highway. The bus station name and the fare are check on arrival."
+    }
+  ],
+  "seoTitle": "Hue to Dong Hoi by train — three hours on the board",
+  "seoDescription": "Rail posts are 166 km apart. On the 21 Oct 2026 board, SE2 is 3 hours 14 minutes and SE6 is 3 hours 36 minutes. Road minutes are check on arrival.",
+  "faqs": [
+    {
+      "q": "How long is the train back to Hue?",
+      "a": "Southbound examples from the same 21 Oct 2026 board: SE7 leaves Đồng Hới at 16:27 and Huế at 19:43 (3 hours 16 minutes), SE5 at 18:11 to 21:40 (3 hours 29 minutes), SE9 at 23:57 to 03:12 the next day (3 hours 15 minutes), SE3 at 04:57 to 07:55 (2 hours 58 minutes), and SE1 at 07:33 to 10:30 (2 hours 57 minutes). These are examples, not a promise. Fares were not copied."
+    }
+  ]
+}

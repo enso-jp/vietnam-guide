@@ -1,0 +1,60 @@
+{
+  "slug": "mother-suot",
+  "placeSlug": "dong-hoi",
+  "name": "Mother Suot",
+  "nameVi": "Bến đò và tượng đài Mẹ Suốt",
+  "kicker": "Memorial of the wartime ferry",
+  "summary": "Stand at the Mother Suốt landing, where Nguyễn Thị Suốt rowed soldiers, ammunition, and messages across the Nhật Lệ and was killed on a crossing. She was named Hero of Labor on 1 January 1967. The statue is the pin. It is not a boat you board today. A visitor note puts the statue about 1 km from the older bridge, on Quách Xuân Kỳ. The fee is check on arrival.",
+  "dots": 4,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Walk along the river from the market or from the older Nhật Lệ bridge. Minutes are check on arrival.",
+  "district": "Nhật Lệ banks",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The Mother Suốt statue beside the Nhật Lệ, with the river behind her",
+  "notice": {
+    "title": "Not a working ferry",
+    "body": "The pages describe a memorial of the wartime crossing. Do not look for a boat that still runs as the visit."
+  },
+  "body": [
+    "The ministry page calls Bến đò Mẹ Suốt a national historic site at thôn Trung Bính, Bảo Ninh, and says Nguyễn Thị Suốt, a hero of Bảo Ninh, was killed on a crossing while carrying soldiers. The biography page says she was named Hero of Labor on 1 January 1967, quotes Tố Hữu, and says the town built the stele in 1980. It places the landing at Trung Bính on the right bank and near the Đồng Hới fish market on the left bank.",
+    "The statue is the pin you can see. A visitor note puts it about 1 km from the older Nhật Lệ bridge, on Quách Xuân Kỳ. The ward page puts it beside the river and the market on Mẹ Suốt. The two banks are both part of the site. See it in daylight, with the market on the same walk.",
+    "A tour card prints a free label on the statue. The ministry page does not print a fee. The fee and the hours are check on arrival. The photographs keep the full figure and the river in one frame."
+  ],
+  "figures": [
+    {
+      "id": "dong-hoi-mother-suot-2",
+      "caption": "The statue framed by palms, with the river still in view",
+      "alt": "The Mother Suốt statue among palms, with the Nhật Lệ behind"
+    }
+  ],
+  "gettingThere": [
+    "Walk the river from Chợ Đồng Hới on Mẹ Suốt, or from the older Nhật Lệ bridge. A visitor note puts the statue about 1 km from that bridge, on Quách Xuân Kỳ. Minutes were not printed. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the market",
+      "body": "Walk along Mẹ Suốt. The ward page puts the statue beside the river and the market. Minutes are check on arrival."
+    },
+    {
+      "heading": "From the older Nhật Lệ bridge",
+      "body": "A visitor note says about 1 km, on Quách Xuân Kỳ. The minutes on foot were not printed. Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day is published. Check on arrival.",
+  "admissionNote": "A tour card prints a free label. The ministry page does not print a fee. Check on arrival.",
+  "links": [
+    {
+      "label": "Ministry page",
+      "url": "https://bvhttdl.gov.vn/quang-binh-so-hoa-thong-tin-di-tich-lich-su-quoc-gia-ben-do-me-suot-2023081609203782.htm",
+      "note": "National historic site at thôn Trung Bính, Bảo Ninh"
+    },
+    {
+      "label": "Ward tourism page",
+      "url": "https://donghoi.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/1404469293898/1616085529215",
+      "note": "The statue beside the river and the market"
+    }
+  ],
+  "interests": ["warHistory"]
+}

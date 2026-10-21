@@ -1,0 +1,39 @@
+{
+  "slug": "dong-hoi",
+  "name": "Dong Hoi food guide",
+  "placeSlug": "dong-hoi",
+  "summary": "Khoai deo is the dish with a photograph: red sweet potato boiled, sliced, and sun-dried until it is chestnut brown. Cháo canh, bánh khoái, bánh bột lọc, bánh bèo, bánh xèo, and kẹo cu đơ are named in Đồng Hới and are not pictured here. Stall prices and market hours are check on arrival.",
+  "heroSlug": "khoai-deo",
+  "body": [],
+  "dishSlugs": ["khoai-deo"],
+  "sections": [
+    {
+      "id": "market",
+      "heading": "Dong Hoi Market",
+      "nav": "The market",
+      "paragraphs": [],
+      "spots": [
+        {
+          "name": "Dong Hoi Market",
+          "nameVi": "Chợ Đồng Hới",
+          "address": "Đường Mẹ Suốt",
+          "photo": "dong-hoi-market",
+          "caption": "The hall on Mẹ Suốt, beside the river. Stalls sell mostly early morning and afternoon. Hours are check on arrival.",
+          "note": "The provincial portal calls the hall ordinary and worth the walk for bánh xèo, cháo canh, bánh canh, and kẹo cu đơ. Most counters sell in the early morning and the afternoon. A clock and a placeholder email on the same card were not used. Hours and any entrance fee are check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "neighbors",
+      "heading": "Neighbor pages, not Dong Hoi dishes",
+      "nav": "Not these",
+      "paragraphs": [
+        "These published pages are Hue or Da Nang. They are here so the Đồng Hới cakes are not pasted onto them. Bánh khoái in this city is a palm-sized rice-batter cake with a pork, tomato, pineapple, and peanut sauce, not the Hue crepe. Bánh bèo is named and not described. The red-rice bánh xèo is a 2015 roll with snakehead, not the southern crepe. Cháo canh is a different bowl from the Da Nang snakehead page."
+      ],
+      "dishSlugs": ["banh-khoai", "banh-beo", "banh-xeo", "banh-canh"]
+    }
+  ],
+  "verified": "21 Oct 2026",
+  "seoTitle": "Dong Hoi food guide — khoai deo, and what is not pictured",
+  "seoDescription": "Khoai deo is the photographed sweet. Chao canh and the small cakes are named, not pictured. Market hours and stall prices are check on arrival."
+}
