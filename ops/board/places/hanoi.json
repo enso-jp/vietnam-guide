@@ -462,7 +462,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "hanoi",
+    "stage": "researchNightlife",
+    "item": null,
+    "at": "2026-10-21T08:31:30.358Z",
+    "by": "hourly",
+    "branch": "cursor/content-hanoi-researchBase"
+  },
   "log": [
     {
       "at": "2026-10-21T08:31:13.489Z",
