@@ -98,7 +98,7 @@ If the owner named a street and you cannot find a primary source, do not invent 
 
 ## Lanes
 
-One run does the lane it claimed. It does not finish the other lanes, and it does not take a second place.
+One run stays on one place. Finish the claimed lane, then claim the next lane for that same place. Do that for every lane still open. Do not take a second place.
 
 | Lane | Fill this | Then set |
 |---|---|---|
