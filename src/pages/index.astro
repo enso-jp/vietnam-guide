@@ -6,7 +6,7 @@ import Photo from '../components/Photo.astro';
 import VietnamMap from '../components/VietnamMap.astro';
 import { interestHref, interestLabels, site } from '../config/site';
 import interestPhotos from '../content/interest-photos.json';
-import { attractionsForInterest, corridorsNorthToSouth, getHighlights, getOtherPosts, placePath, placesForInterest, placesInCorridor } from '../lib/content';
+import { attractionsForInterest, cardLine, corridorsNorthToSouth, getHighlights, getOtherPosts, placePath, placesForInterest, placesInCorridor } from '../lib/content';
 import { photoPath } from '../lib/photos';
 import type { Place } from '../lib/types';
 
@@ -189,6 +189,32 @@ const jsonLd = {
             ))}
           </div>
         </div>
+      </div>
+      <div class="region-swipe">
+        <button class="region-swipe-arrow prev" type="button" data-region-prev aria-label="Previous region">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 6l-6 6 6 6"></path></svg>
+        </button>
+        <div class="region-swipe-row" data-region-swipe-row tabindex="0">
+          {corridors.map((corridor) => {
+            const lead = stackFor(corridor.slug)[0];
+            return (
+              <article class:list={['region-slide', { 'is-active': corridor.slug === activeRegion }]} data-region-slide={corridor.slug}>
+                <a class="region-slide-photo" href={`/destinations/${corridor.slug}`}>
+                  <Photo id={lead?.slug || corridor.slug} alt="" cover={lead?.cover || corridor.cover} />
+                </a>
+                <a class="region-slide-copy" href={`/destinations/${corridor.slug}`}>
+                  <small>Explore</small>
+                  <strong>{corridor.name}</strong>
+                  <em>{cardLine(corridor.summary)}</em>
+                  <span class="go" aria-hidden="true">›</span>
+                </a>
+              </article>
+            );
+          })}
+        </div>
+        <button class="region-swipe-arrow next" type="button" data-region-next aria-label="Next region">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 6l6 6-6 6"></path></svg>
+        </button>
       </div>
       <p class="region-more"><a class="pill" href="/destinations">See regions</a></p>
     </section>
