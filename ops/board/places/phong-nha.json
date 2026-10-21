@@ -102,10 +102,10 @@
       "source": "published",
       "research": "stored",
       "page": "paged",
-      "copy": "rework",
+      "copy": "enriched",
       "quality": "checked",
-      "note": "Copy is thin on what the one-kilometre walk shows. Chamber sizes and the Heaven's Well day are sourced and not yet on the page.",
-      "updated": "2026-10-21T09:53:21.195Z",
+      "note": "One-kilometre chambers and the Heaven's Well day are on the page. Gate hours stay check on arrival. Both prices stay.",
+      "updated": "2026-10-21T09:54:48.381Z",
       "reworkCount": 0
     },
     {
@@ -120,8 +120,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Boat fare is separate from the entrance. Tien Son stays on this page.",
-      "updated": "2026-10-21T07:26:50.603Z",
+      "note": "Formations are named. Tien Cave and Tien Son are separate. The 80,000 VND entrance is printed beside the English page that omits it. Hours months stay check on arrival.",
+      "updated": "2026-10-21T09:57:24.756Z",
       "reworkCount": 0
     },
     {
@@ -184,8 +184,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Finished page. Not a walk-up ticket. Pack prints 3,000 USD and 80,000,000 VND. January to August.",
-      "updated": "2026-10-21T08:51:52.717Z",
+      "note": "Park and operator both print 3,000 USD. Departure is 08:00. 2027 and 2028 are full on the operator page. Hang En night is printed both ways. No new cave page.",
+      "updated": "2026-10-21T09:57:24.867Z",
       "reworkCount": 0
     },
     {
@@ -430,15 +430,32 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "phong-nha",
-    "stage": "copy",
-    "item": "phong-nha--paradise-cave",
-    "at": "2026-10-21T09:53:21.251Z",
-    "by": "phong-nha-copy",
-    "branch": "cursor/phong-nha-cave-pages-ea04"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T09:57:24.867Z",
+      "place": "phong-nha",
+      "stage": "copy",
+      "item": "phong-nha--son-doong",
+      "status": "enriched",
+      "note": "Park and operator both print 3,000 USD. Departure is 08:00. 2027 and 2028 are full on the operator page. Hang En night is printed both ways. No new cave page."
+    },
+    {
+      "at": "2026-10-21T09:57:24.757Z",
+      "place": "phong-nha",
+      "stage": "copy",
+      "item": "phong-nha--phong-nha-cave",
+      "status": "enriched",
+      "note": "Formations are named. Tien Cave and Tien Son are separate. The 80,000 VND entrance is printed beside the English page that omits it. Hours months stay check on arrival."
+    },
+    {
+      "at": "2026-10-21T09:54:48.381Z",
+      "place": "phong-nha",
+      "stage": "copy",
+      "item": "phong-nha--paradise-cave",
+      "status": "enriched",
+      "note": "One-kilometre chambers and the Heaven's Well day are on the page. Gate hours stay check on arrival. Both prices stay."
+    },
     {
       "at": "2026-10-21T08:51:52.834Z",
       "place": "phong-nha",
@@ -574,30 +591,6 @@
       "item": null,
       "status": "stored",
       "note": "Left out: a named breakfast street and the minutes from a village bed to the pier."
-    },
-    {
-      "at": "2026-10-21T07:22:14.615Z",
-      "place": "phong-nha",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The sourced morning is the 2.5 hour boat. Breakfast street is still open."
-    },
-    {
-      "at": "2026-10-21T07:22:14.528Z",
-      "place": "phong-nha",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: bar names, a street address, and a night photograph."
-    },
-    {
-      "at": "2026-10-21T07:22:14.416Z",
-      "place": "phong-nha",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The evening is the village after the gates. No bar street."
     }
   ]
 }
