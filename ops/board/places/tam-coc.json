@@ -350,7 +350,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "tam-coc",
+    "stage": "researchContext",
+    "item": null,
+    "at": "2026-10-21T08:33:13.066Z",
+    "by": "hourly",
+    "branch": "content/tam-coc-research-base"
+  },
   "log": [
     {
       "at": "2026-10-21T08:32:41.310Z",
