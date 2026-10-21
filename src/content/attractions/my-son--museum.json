@@ -18,13 +18,13 @@
   },
   "body": [
     "Stop at this building before you take the cart. It stands beside the Khe Thẻ stream, about 2 km northwest of the towers. Work ran from June 2004 to March 2005 with a Japanese government grant, and the board has used it as the gateway since 2005. The management site says the room is there so you can see the site in outline before you go in. Cars end here. The electric cart leaves from here toward the towers.",
-    "The hall labels pieces by the group they came from. The museum page names a linga-yoni from B1, dated to the 8th century, a guardian from group E dated to the 10th to the 11th, a Shiva from A4 dated to the 10th century, a dancing Shiva from H1 dated to the 13th, an elephant-lion from C1 dated to the 11th, and a Brahma from tower K dated to the 11th. A wooden model of a Shiva sanctuary stands in the same room, with a linga under the roof.",
+    "The labels follow the group the piece came from. On 21 Oct 2026 the museum page named a linga-yoni from B1, 8th century, an undated stone pillar, a guardian from group E, 10th to 11th century, a Shiva from A4, 10th century, a corner flame ornament from H1, 13th century, a praying-figure relief dated about the 12th to the 13th century, a dancing Shiva from H1, 13th century, a dancing Shiva relief from C1, 18th century, an elephant-lion from C1, 11th century, an altar piece from group A, 9th century, an Indra from group A, 10th century, and a Brahma from tower K, 11th century. A conservation note from 24 Feb 2025 counts 93 objects in this room and 708 displayed out among the towers. The photograph also shows a wooden sanctuary roof over a linga. The museum page does not label that model, so it has no date here.",
     "Give it the start of the morning, not the day. The towers are the valley. Do not eat in the monument area, and do not climb the brick once you leave this room. The 2020 guide includes the museum, the cart, a Cham folk performance, and the monuments in the entrance ticket. The live ticket site prints the adult prices and does not repeat that sentence. If the window splits the gallery from the towers, check it on arrival."
   ],
   "figures": [
     {
       "id": "my-son-museum-2",
-      "caption": "A wooden model of a Shiva sanctuary, with a linga under the roof",
+      "caption": "A wooden sanctuary roof over a linga, in the same gallery. The museum page does not label this model.",
       "alt": "A wooden model of a Cham sanctuary roof over a stone linga in the My Son gallery"
     }
   ],
@@ -43,7 +43,7 @@
   ],
   "hours": "The 2020 visitor guide prints 06:00–17:00 for the museum. No later page restates that clock. Check on arrival.",
   "closed": "No weekly closing day is published for the gallery. The 2019 notice says the sanctuary is open every day, including holidays.",
-  "admissionNote": "The museum has no separate adult price on the pages checked. The 2020 guide says the entrance ticket includes the museum, the electric cart, a Cham folk performance, and the monuments. Non-resident adult 150,000 VND. Vietnamese adult 100,000 VND. Those two adult bands are also on the live ticket site, the 2019 price notice, and the 2026 city list. The live ticket site says the price includes VAT and does not restate the museum in those words. Children are not one rule. The 2020 guide says 30,000 VND from age 5 to 15. The live ticket site says children 5 to 15 buy a 30,000 VND shuttle ticket and children under 5 are free. Check the child fare on arrival.",
+  "admissionNote": "The museum has no separate adult price on the pages checked. The 2020 guide says the entrance ticket includes the museum, the electric cart, a Cham folk performance, and the monuments. The information page, the 2019 price notice, and the 2026 city list print non-resident adult 150,000 VND and Vietnamese adult 100,000 VND. The information page says that price includes VAT and does not restate the museum in those words. On 21 Oct 2026 the purchase page showed 148,000 VND and 99,000 VND. Read the amount before you pay. Children are not one rule. The 2020 guide says 30,000 VND from age 5 to 15. The information page says children 5 to 15 buy a 30,000 VND shuttle ticket and children under 5 are free. On 21 Oct 2026 the purchase page showed a child ticket at 30,000 VND on that service type and did not print ages. The 2026 city list does not print a child band. Check the child fare on arrival.",
   "links": [
     {
       "label": "My Son Museum",
@@ -59,6 +59,11 @@
       "label": "Visitor guide, 29 Jun 2020",
       "url": "https://mysonsanctuary.com.vn/tin-tuc/thong-tin-huong-dan-tham-quan-my-son.html",
       "note": "Museum hours and what the ticket includes"
+    },
+    {
+      "label": "Conservation inventory, 24 Feb 2025",
+      "url": "https://mysonsanctuary.com.vn/tin-tuc/nhung-ket-qua-buoc-dau-trong-cong-tac-bao-quan-vat-lieu-o-di-san-van-hoa-the-gioi-my-son.html",
+      "note": "93 objects in the gallery, 708 on site"
     }
   ],
   "interests": ["photography"]

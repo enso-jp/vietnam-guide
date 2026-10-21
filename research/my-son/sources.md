@@ -138,13 +138,36 @@ Accessed 21 Oct 2026 unless a page states its own date.
 - URL: https://mysonsanctuary.com.vn/tin-tuc/chuong-trinh-nghe-thuat-am-vang-my-son-giu-gin-va-lan-toa-gia-tri-van-hoa-cham-tu-nhung-trai-tim-yeu-di-san.html
 - Publisher: My Son Sanctuary management site, note by Đức Nhân, 13 Jul 2026
 - Accessed: 21 Oct 2026
-- Supports: Echoes of My Son as staged by Phòng Văn hóa và Nghệ thuật. Instruments and dances named: ginang, paranung, saranai, múa quạt, múa đội nước, and Cham folk song. This is the monthly program, not a New Year chapter list. The note does not restate the 15th or the ticket inclusion. Those stay on S3, S4, and S5.
+- Supports: Echoes of My Son as staged by Phòng Văn hóa và Nghệ thuật. The note’s own text puts the program on the 15th of the solar month. Instruments and dances named: ginang, paranung, saranai, múa quạt, múa đội nước, and Cham folk song. It does not print 09:00 or 14:45, and it does not say the show is inside the entrance ticket. Those stay on S3 and S5.
 
 ### S25
 - URL: https://mysonsanctuary.com.vn/tin-tuc/hoi-thao-cong-bo-duong-dan-khu-thap-k.html
 - Publisher: My Son Sanctuary management site, workshop note dated 16 Dec 2025
 - Accessed: 21 Oct 2026
 - Supports: The sacred path (đường dẫn khu tháp K) was excavated and announced. The note does not open it as a visitor trail. Visitors are to be guided later. Do not publish it as an attraction.
+
+### S26
+- URL: https://mysonticketonline.vn/ticket
+- Publisher: My Son management board, ticket purchase page. Content manager named on the page: Nguyễn Công Khiết
+- Accessed: 21 Oct 2026
+- Supports: The order form showed Khách nước ngoài 148,000 VND, Khách Việt Nam 99,000 VND, Dịch vụ 30,000 VND, and Vé trẻ em 30,000 VND on the same service type id as Dịch vụ. Paid tickets are not refundable. This is the checkout. S5 is the information page, which lists 150,000 / 100,000 / 30,000 and says the price can change and the purchase page is the figure to read. Do not average 148,000 and 150,000. Do not treat the child line as settled: the purchase page does not print ages, and S6 still prints no child band.
+
+### S27
+- URL: https://mysonsanctuary.com.vn/bao-ton-va-phat-huy/kien-truc-su-kazimierz-kwiatkowski-chuyen-gia-ba-lan-voi-my-son.html
+- Publisher: My Son Sanctuary management site, essay by Lê Văn Minh, 16 Aug 2021
+- Accessed: 21 Oct 2026
+- Supports: During clearance, large bomb fragments and one unexploded bomb were found at A1, and the essay says they are displayed in tower D2. Reliefs, statues, inscription fragments, and architectural pieces are kept in D1 and D2. A1 is called higher than 24 m. B5 and C1 had lost most of the tower top. D1 and D2 had long rocket holes. B3 had lost its west wall. The other towers in group A had collapsed. This is a 2021 essay. It is not a 2026 inventory.
+
+### S28
+- URL: https://mysonsanctuary.com.vn/tin-tuc/nhung-ket-qua-buoc-dau-trong-cong-tac-bao-quan-vat-lieu-o-di-san-van-hoa-the-gioi-my-son.html
+- Publisher: My Son Sanctuary management site, conservation note by Lê Văn Cường, 24 Feb 2025
+- Accessed: 21 Oct 2026
+- Supports: More than 40 temple structures still relatively intact, which is not the same sentence as the “about 20 towers” in S15. Inventory: more than 40 temples, enclosure walls, and 1,803 objects, mostly sandstone, terracotta, and ceramic. 708 objects displayed on site, 93 in the My Son Museum, the rest in store. Towers are brick. Sandstone is used for door pillars, lintels, decoration, and altars. Only B1 has a stone base. Brick was fired before it was laid. Stone was finished, then set into the wall. Laterite appears at group G. BCD was reinforced in the 1980s with old brick and cement mortar. Groups A, H, K, E7, and G were restored from 2003 to 2022 with reproduced brick and oil-resin or lime mortar. B4 is dated to the 9th century, Đồng Dương style. E7’s restored roof was given a thin oil-resin coat in 2015, and that coat had faded by the date of the note. Floodwater has reached 1.3 m in the court of group D. Do not print a single monument total.
+
+### S23, reread
+- URL: https://mysonsanctuary.com.vn/bao-tang/bao-tang-my-son
+- Accessed: 21 Oct 2026
+- Supports, in addition to the earlier labels: an undated stone pillar; a corner flame ornament from H1, 13th century; a praying-figure relief dated about the 12th to the 13th century; a dancing Shiva relief from C1, 18th century; an altar component from group A, 9th century; Indra from group A, 10th century. The page still does not name a wooden model. The Dalbéra photograph shows a wooden sanctuary roof over a linga. Do not invent a label or a date for that model.
 
 ### Not used
 - URL: https://cadn.com.vn/to-chuc-chuong-trinh-am-vang-my-son-dinh-ky-hang-thang-post336735.html

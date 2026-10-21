@@ -26,15 +26,15 @@
     },
     "destinationCopy": {
       "status": "enriched",
-      "note": "Place prose names the unfixed night show. Each interest card has its own photo. No food street.",
-      "updated": "2026-10-21T08:55:02.470Z",
+      "note": "Both adult prices are printed: 150,000 and 100,000 on the information page, 148,000 and 99,000 on the purchase page on 21 Oct 2026. Close, child fare, and the night-show date stay unresolved. No dining street.",
+      "updated": "2026-10-21T10:00:22.629Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "stale",
-      "note": "Dossier changed. Check again after the copy pass.",
-      "updated": "2026-10-21T08:54:58.141Z",
-      "reworkCount": 0
+      "status": "checked",
+      "note": "Both adult prices are on the summary and the ticket FAQ. Close stays two published times. Child fare and the night-show date stay unresolved. Three sights, no dining card, each interest photo is its own file.",
+      "updated": "2026-10-21T10:00:48.491Z",
+      "reworkCount": 1
     },
     "food": {
       "status": "skipped",
@@ -103,10 +103,10 @@
       "research": "stored",
       "page": "paged",
       "copy": "enriched",
-      "quality": "not_started",
-      "note": "Linga figure added. Dots, fee, and both close times unchanged. Quality not checked again in this pass.",
-      "updated": "2026-10-21T08:55:02.346Z",
-      "reworkCount": 0
+      "quality": "checked",
+      "note": "Photos show the valley, a group C doorway, and the outdoor linga. Both adult prices are printed. Close and the child fare stay unresolved. E7, D2, group G, B1, and B4 match the management essays.",
+      "updated": "2026-10-21T10:02:16.031Z",
+      "reworkCount": 1
     },
     {
       "id": "my-son--museum",
@@ -119,10 +119,10 @@
       "research": "stored",
       "page": "paged",
       "copy": "enriched",
-      "quality": "not_started",
-      "note": "Gateway gallery. Museum hours only on the 2020 guide. Second frame is a crop of the hero source. Quality not checked in this pass.",
-      "updated": "2026-10-21T08:55:02.247Z",
-      "reworkCount": 0
+      "quality": "checked",
+      "note": "Gallery photo is the Dalbéra interior. The second frame is a crop of that same file because no other licensed interior was found. Labels match the museum page. Museum hours stay the 2020 guide. Child fare stays unresolved.",
+      "updated": "2026-10-21T10:03:27.541Z",
+      "reworkCount": 1
     },
     {
       "id": "my-son--morning",
@@ -167,22 +167,111 @@
       "research": "stored",
       "page": "paged",
       "copy": "enriched",
-      "quality": "not_started",
-      "note": "Daytime clock and the unfixed night show. No night photograph. Quality not checked in this pass.",
-      "updated": "2026-10-21T08:55:02.292Z",
-      "reworkCount": 0
+      "quality": "checked",
+      "note": "Hero is Cham dancers. Second frame is group G. Clock, the 15th, and the instruments match the management pages. Night-show date stays unstated. No night photograph was added.",
+      "updated": "2026-10-21T10:04:54.576Z",
+      "reworkCount": 1
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "my-son",
-    "stage": "destinationQuality",
-    "item": null,
-    "at": "2026-10-21T09:57:14.854Z",
-    "by": "my-son-page-gaps",
-    "branch": "cursor/my-son-page-gaps-d9a7"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T10:04:54.577Z",
+      "place": "my-son",
+      "stage": "quality",
+      "item": "my-son--performances",
+      "status": "checked",
+      "note": "Hero is Cham dancers. Second frame is group G. Clock, the 15th, and the instruments match the management pages. Night-show date stays unstated. No night photograph was added."
+    },
+    {
+      "at": "2026-10-21T10:04:47.716Z",
+      "place": "my-son",
+      "stage": "copy",
+      "item": "my-son--performances",
+      "status": "enriched",
+      "note": "Group G is named as the Italian restoration, with laterite. The 13 Jul 2026 note is quoted for the 15th and the instruments, not for the hours. Both adult prices are printed. No night-show date and no night photograph."
+    },
+    {
+      "at": "2026-10-21T10:03:39.856Z",
+      "place": "my-son",
+      "stage": "quality",
+      "item": "my-son--performances",
+      "status": "rework",
+      "note": "The group G show does not say you are at the Italian restoration, or that the group uses laterite. The 13 Jul 2026 note itself puts Echoes on the 15th and does not print the hours. Checkout prices are missing. Do not add a night-show date or a night photograph."
+    },
+    {
+      "at": "2026-10-21T10:03:27.542Z",
+      "place": "my-son",
+      "stage": "quality",
+      "item": "my-son--museum",
+      "status": "checked",
+      "note": "Gallery photo is the Dalbéra interior. The second frame is a crop of that same file because no other licensed interior was found. Labels match the museum page. Museum hours stay the 2020 guide. Child fare stays unresolved."
+    },
+    {
+      "at": "2026-10-21T10:03:21.902Z",
+      "place": "my-son",
+      "stage": "copy",
+      "item": "my-son--museum",
+      "status": "enriched",
+      "note": "Labels now match the museum page on 21 Oct 2026, including Indra, the altar piece, and the undated pillar. The wooden roof is captioned as unlabeled. Hours stay the 2020 guide. Second frame remains a crop of the only licensed interior."
+    },
+    {
+      "at": "2026-10-21T10:02:23.563Z",
+      "place": "my-son",
+      "stage": "quality",
+      "item": "my-son--museum",
+      "status": "rework",
+      "note": "The museum page now labels an undated pillar, an H1 corner flame, a praying-figure relief, a C1 dancing Shiva of the 18th century, an altar piece from A, and Indra from A. The public paragraph omits them and treats the wooden roof as a labeled model. The photograph shows the roof. The page does not name it. Hours stay the 2020 guide only."
+    },
+    {
+      "at": "2026-10-21T10:02:16.031Z",
+      "place": "my-son",
+      "stage": "quality",
+      "item": "my-son--towers",
+      "status": "checked",
+      "note": "Photos show the valley, a group C doorway, and the outdoor linga. Both adult prices are printed. Close and the child fare stay unresolved. E7, D2, group G, B1, and B4 match the management essays."
+    },
+    {
+      "at": "2026-10-21T10:02:08.469Z",
+      "place": "my-son",
+      "stage": "copy",
+      "item": "my-son--towers",
+      "status": "enriched",
+      "note": "Walk now names E7, D2, group G, B1, and B4 from the management essays. Both adult prices are printed. Close and the child fare stay unresolved. Photos unchanged."
+    },
+    {
+      "at": "2026-10-21T10:00:55.445Z",
+      "place": "my-son",
+      "stage": "quality",
+      "item": "my-son--towers",
+      "status": "rework",
+      "note": "The walk does not yet use the sourced towers: boat-roofed E7, bomb fragments kept in D2, group G as the Italian restoration, B1 as the stone base, and B4 as 9th-century Đồng Dương. Adult checkout price from 21 Oct 2026 is missing. Do not collapse the close or the child fare."
+    },
+    {
+      "at": "2026-10-21T10:00:48.491Z",
+      "place": "my-son",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Both adult prices are on the summary and the ticket FAQ. Close stays two published times. Child fare and the night-show date stay unresolved. Three sights, no dining card, each interest photo is its own file."
+    },
+    {
+      "at": "2026-10-21T10:00:22.629Z",
+      "place": "my-son",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Both adult prices are printed: 150,000 and 100,000 on the information page, 148,000 and 99,000 on the purchase page on 21 Oct 2026. Close, child fare, and the night-show date stay unresolved. No dining street."
+    },
+    {
+      "at": "2026-10-21T09:58:55.647Z",
+      "place": "my-son",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "rework",
+      "note": "The place prints one live-ticket adult price. On 21 Oct 2026 the information page lists 150,000 and 100,000 VND and the purchase page showed 148,000 and 99,000. Print both. Do not collapse the close, the child fare, or the night-show date. No dining street and no padded list."
+    },
     {
       "at": "2026-10-21T08:55:02.470Z",
       "place": "my-son",
@@ -246,102 +335,6 @@
       "item": null,
       "status": "skipped",
       "note": "Left out. There is no food guide to copy."
-    },
-    {
-      "at": "2026-10-21T07:25:48.648Z",
-      "place": "my-son",
-      "stage": "food",
-      "item": null,
-      "status": "skipped",
-      "note": "Left out a food guide. No sourced food street. The ticket rules forbid eating in the monument area."
-    },
-    {
-      "at": "2026-10-21T07:25:48.596Z",
-      "place": "my-son",
-      "stage": "destinationQuality",
-      "item": null,
-      "status": "checked",
-      "note": "Hero is a standing tower with forest and hills. Fees match the ticket site. Close times are both printed. No food street was invented. The towers page is the next unit."
-    },
-    {
-      "at": "2026-10-21T07:25:48.542Z",
-      "place": "my-son",
-      "stage": "destinationCopy",
-      "item": null,
-      "status": "enriched",
-      "note": "Place prose and hero are the valley in daylight. The old hero was an A1 pedestal. The old towers file was a magazine cover and was replaced because the place intro shows it. Drive minutes and one close time stay check on arrival."
-    },
-    {
-      "at": "2026-10-21T07:25:48.489Z",
-      "place": "my-son",
-      "stage": "destination",
-      "item": null,
-      "status": "paged",
-      "note": "Place shell, Echoes of My Son, and interest cards. The morning stays in the place prose. Itinerary records were left for a separate pass. Left out a food guide, a night-show date, Tra Kieu, and Cong Troi."
-    },
-    {
-      "at": "2026-10-21T07:17:59.455Z",
-      "place": "my-son",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "Left out drive minutes, one close time, a public bus running during the 01DL pause, the homepage coordinate strings, lodging in the hamlet, and a fixed date for Đêm Mỹ Sơn huyền thoại."
-    },
-    {
-      "at": "2026-10-21T07:17:59.402Z",
-      "place": "my-son",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "Left out a Tra Kieu page, Cong Troi while 01DL is paused, Cham Islands, service prices, and a festival for the unfixed night show."
-    },
-    {
-      "at": "2026-10-21T07:17:59.238Z",
-      "place": "my-son",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Echoes of My Son is the 15th. Side trips are Hoi An, Da Nang, Hue, and placeholders for Tra Kieu and Cong Troi. Service prices are unsourced."
-    },
-    {
-      "at": "2026-10-21T07:17:59.187Z",
-      "place": "my-son",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "Left out a separate lifestyle page, a breakfast street, and a cafe street. Extras on the services index have no price."
-    },
-    {
-      "at": "2026-10-21T07:17:59.058Z",
-      "place": "my-son",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The ordinary day is a morning from Hoi An: museum, cart, towers, and out before close. No breakfast street and no cafe street."
-    },
-    {
-      "at": "2026-10-21T07:17:59.009Z",
-      "place": "my-son",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "Left out a night street and a fixed date for Đêm Mỹ Sơn huyền thoại. The 2022 lunar date was not reused."
-    },
-    {
-      "at": "2026-10-21T07:17:58.931Z",
-      "place": "my-son",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The gate is daytime. The night show has no fixed 2026 date. No night street on the services index."
-    },
-    {
-      "at": "2026-10-21T07:17:58.880Z",
-      "place": "my-son",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "Left out a food guide and any dish page. No food street is published. Brand names in the surrounding essay were not picks."
     }
   ]
 }
