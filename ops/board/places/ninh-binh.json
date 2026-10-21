@@ -334,7 +334,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "ninh-binh",
+    "stage": "researchFood",
+    "item": null,
+    "at": "2026-10-21T08:26:21.184Z",
+    "by": "hourly",
+    "branch": "cursor/ninh-binh-research-base"
+  },
   "log": [
     {
       "at": "2026-10-21T08:26:01.807Z",
