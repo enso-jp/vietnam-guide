@@ -29,7 +29,7 @@ Checked: 20 Oct 2026
 - Where: Quan The Am pagoda and the Marble Mountains
 - What happens: A Buddhist festival the city tourism portal describes as ceremonial rites plus three days of festive activity. It dates the modern annual form to 1991 and a national-festival listing to the end of 1999.
 - Fee: The hill’s usual tickets still apply unless a notice says otherwise — Check on arrival, UNSOURCED for a festival-week exception
-- Not the same as attraction slug: marble-mountains. Do not create a festival record in the copy pass. There is no separate public festival file yet, and this pass does not add one.
+- Not the same as attraction slug: marble-mountains. Public festival file added 21 Oct 2026: `da-nang-quan-the-am`. The photograph is the seated Buddha at the cliff, the place of the festival, not the rite.
 - Sources: S7
 
 Left out of this list, 21 Oct 2026: next year’s DIFF dates, grandstand prices, the civil date of the Avalokitesvara festival, and any beach-season opening ceremony. No second recurring festival with a fixed public calendar was added. Da Nang Downtown’s nightly show is an entertainment-district clock in Nightlife, not a festival, because the 16 Aug 2024 page gives one set of times and no ticket (S39).

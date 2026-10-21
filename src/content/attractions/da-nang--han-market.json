@@ -1,0 +1,62 @@
+{
+  "slug": "han-market",
+  "placeSlug": "da-nang",
+  "name": "Han Market",
+  "nameVi": "Chợ Hàn",
+  "district": "The river",
+  "kicker": "The market hall beside the swing bridge",
+  "summary": "Walk the hall beside the swing bridge for fruit, dried food, and a meal you eat in the building. The 2023 city page puts the door at 119 Tran Phu and the hours at 06:00 to 19:00. The 2024 page names the streets and prints no clock. No gate fee is published.",
+  "dots": 3,
+  "timeNeeded": "An hour",
+  "fee": "No gate fee is published",
+  "getThere": "119 Tran Phu, beside the swing bridge. Walk from Bach Dang.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The Cho Han entrance on Tran Phu",
+  "notice": {
+    "title": "The fourth street does not match",
+    "body": "The 9 October 2023 page names Tran Phu, Hung Vuong, Bach Dang, and Nguyen Van Linh. The 28 September 2024 page names Tran Phu, Bach Dang, Hung Vuong, and Nguyen Thai Hoc. Hours are only on the 2023 page."
+  },
+  "body": [
+    "Use Han Market when you are already on the river. The 2023 page puts it at 119 Tran Phu, open 06:00 to 19:00, with sides on Tran Phu, Hung Vuong, Bach Dang, and Nguyen Van Linh. The 2024 page puts the same hall near the swing bridge, rebuilt in 1990, two floors, about 3,000 square meters, and names Nguyen Thai Hoc instead of Nguyen Van Linh. It does not print hours.",
+    "Inside, that later page names fresh seafood, fruit, fish sauce, dried food, clothes, and áo dài. The food zone is the reason to stop, not a ranked stall list. A stall price is check on arrival. No gate fee is published on either page.",
+    "Con Market is the other hall, and its door number also disagrees across city pages. It stays on the food guide. This page is Han Market only."
+  ],
+  "figures": [
+    {
+      "id": "da-nang-han-market-2",
+      "caption": "The produce hall inside Cho Han",
+      "alt": "Fruit and vegetable stalls in the Han Market produce hall"
+    }
+  ],
+  "gettingThere": [
+    "The 2023 address is 119 Tran Phu, beside the swing bridge and the Bach Dang side of the hall. Walk from a river hotel. From My Khe, come by Grab. The minutes are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Bach Dang",
+      "body": "Walk to 119 Tran Phu. The hall’s Bach Dang side is the food way in."
+    },
+    {
+      "heading": "From My Khe",
+      "body": "By Grab. The minutes are check on arrival."
+    }
+  ],
+  "hours": "06:00 to 19:00 on the 9 October 2023 page. The 28 September 2024 page does not print hours.",
+  "closed": "No weekly closing day is published.",
+  "admissionNote": "No gate fee is published. What a stall charges is check on arrival.",
+  "links": [
+    {
+      "label": "Han Market hours",
+      "url": "https://danangfantasticity.com/en/famous-local-markets-in-danang",
+      "note": "Da Nang tourism portal, 9 Oct 2023"
+    },
+    {
+      "label": "Han Market streets",
+      "url": "https://danangfantasticity.com/en/local-markets/han-market-2",
+      "note": "Same portal, 28 Sep 2024, no hours"
+    }
+  ],
+  "interests": [
+    "food"
+  ]
+}

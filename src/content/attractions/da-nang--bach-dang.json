@@ -1,0 +1,56 @@
+{
+  "slug": "bach-dang",
+  "placeSlug": "da-nang",
+  "name": "Bach Dang promenade",
+  "nameVi": "Đường Bạch Đằng",
+  "district": "The river",
+  "kicker": "The promenade for a coffee and a walk",
+  "summary": "Walk Bach Dang when you want the river, a coffee, and a young coconut in the same hour. The city page calls it a promenade of cafes, busy in the early morning and late afternoon, and crowded on a weekend when the dragon breathes fire. No cafe door hour is published. The walk itself is free.",
+  "dots": 3,
+  "timeNeeded": "An hour",
+  "fee": "Free to walk",
+  "getThere": "On foot if you slept on the river. A Grab from My Khe. The minutes are check on arrival.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The promenade along the Han, under the hotel towers",
+  "notice": {
+    "title": "No cafe prints a door hour",
+    "body": "The 14 September 2016 city page describes morning and late-afternoon walks, and weekend crowds for the dragon. It does not print an opening hour for a cafe. Shop names on that page are not a list to follow."
+  },
+  "body": [
+    "This is the river walk. Start with a coffee and a young coconut, then keep going. Cong and Dừa Bến Tre are already on the food guide for this path. The 2016 city page calls Bach Dang one of the city’s walking streets, with cafes along the Han, used in the early morning and late afternoon.",
+    "On a Friday, Saturday, or Sunday the same walk ends at the dragon, which breathes fire at 21:00. The swing bridge is the other night, later, and Han Market is the hall at 119 Tran Phu when you want the market instead of a cafe. Neither the promenade page nor the market pages print a cafe’s closing time.",
+    "The photograph looks down on the path, the trees, and the hotel line. The walk is the strip at the water. It is not a shop list, and it is not a ticket."
+  ],
+  "figures": [
+    {
+      "id": "da-nang-bach-dang-2",
+      "caption": "Fishing boats on the Han, from the east bank",
+      "alt": "Fishing boats on the Han River with the far bank and a bridge in the haze"
+    }
+  ],
+  "gettingThere": [
+    "Stay on the river and the promenade is the sidewalk. From My Khe, take a Grab to Bach Dang. The city page does not print that ride’s minutes, so they stay check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From a river hotel",
+      "body": "Walk out to Bach Dang. Cong and the coconut stall are on the food guide, not a new list."
+    },
+    {
+      "heading": "From My Khe",
+      "body": "By Grab. The minutes are check on arrival."
+    }
+  ],
+  "hours": "No cafe door hour is published. The city page describes early morning and late afternoon.",
+  "closed": "No closing hour for the walk is published.",
+  "links": [
+    {
+      "label": "Bach Dang walking street",
+      "url": "https://danangfantasticity.com/en/discovery/bach-dang-attractive-locals-visitors",
+      "note": "Da Nang tourism portal, 14 Sep 2016"
+    }
+  ],
+  "interests": [
+    "food"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "beachfront",
+  "placeSlug": "da-nang",
+  "name": "My Khe beachfront",
+  "nameVi": "Mặt tiền Mỹ Khê",
+  "district": "The beach",
+  "kicker": "Clubs and coffee on the My Khe sand",
+  "summary": "Spend the evening on the sand, not in the lanes. Kalà Kalà at 51 Vo Nguyen Giap is free to enter, and its own site lists both midnight and 02:00 as closing. East West faces the water from 08:00 to 01:00, and that page does not print a street. A drink price is check on arrival.",
+  "dots": 4,
+  "timeNeeded": "An evening",
+  "fee": "Kalà Kalà entry is free. A drink is check on arrival.",
+  "getThere": "Walk from a My Khe hotel to 51 Vo Nguyen Giap for Kalà Kalà. East West’s street number is check on arrival.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "People on the sand, with the headland in the haze",
+  "notice": {
+    "title": "Kalà Kalà prints two closing times",
+    "body": "The guest guide says 08:00 to 02:00. The same site’s footer says 08:00 to midnight. Entry is free either way. Confirm the night you go. East West is a separate door, 08:00 to 01:00, and its street is not on that page."
+  },
+  "body": [
+    "This is the beach evening: a club and a brewery on the sand, and a coffee when you want a chair facing the water. Kalà Kalà Beach Club is at 51 Vo Nguyen Giap. Its own site says entry is free, and it lists both 08:00 to midnight and 08:00 to 02:00. East West Brewing’s beachfront taproom, on My Khe, pours from 08:00 to 01:00 every day. That page says “by the shores of My Khe” and does not give a street number.",
+    "Neither page prints a drink price. Ask before you order. The lanes a few streets inland are An Thuong, which is the other night. The swim, the buoys, and the rescue clock are on the My Khe page.",
+    "The photograph is the beach with people in the water and no close tower line. It is not a picture of Kalà Kalà or of East West. No licensed photograph of either room was found."
+  ],
+  "figures": [
+    {
+      "id": "da-nang-beachfront-2",
+      "caption": "The My Khe sand, with the resort line further along the beach",
+      "alt": "Surf and sand at My Khe, with resort towers along the left of the frame"
+    }
+  ],
+  "gettingThere": [
+    "From a hotel on My Khe, walk to Vo Nguyen Giap. Kalà Kalà is number 51. East West’s number is not published, so ask on the sand. From the river, take a Grab. The minutes are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From a My Khe hotel",
+      "body": "Walk to 51 Vo Nguyen Giap for Kalà Kalà. East West is on the same beachfront, street number check on arrival."
+    },
+    {
+      "heading": "From the river",
+      "body": "By Grab to Vo Nguyen Giap. The minutes are check on arrival."
+    }
+  ],
+  "hours": "Kalà Kalà lists both 08:00 to midnight and 08:00 to 02:00. East West is 08:00 to 01:00 every day.",
+  "closed": "No weekly closing day is published for either room.",
+  "links": [
+    {
+      "label": "Kalà Kalà",
+      "url": "https://kalakalabeachclub.com/",
+      "note": "The club’s own site. Confirm which closing line is current."
+    },
+    {
+      "label": "East West taproom",
+      "url": "https://eastwestbrewing.vn/taproom/da-nang",
+      "note": "Hours and beachfront. No street number."
+    }
+  ],
+  "interests": [
+    "beaches",
+    "nightlife"
+  ]
+}

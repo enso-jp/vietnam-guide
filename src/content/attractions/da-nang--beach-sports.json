@@ -1,0 +1,67 @@
+{
+  "slug": "beach-sports",
+  "placeSlug": "da-nang",
+  "name": "Beach sports on My Khe",
+  "nameVi": "Thể thao biển Mỹ Khê",
+  "district": "The beach",
+  "kicker": "Surf, paddle, and basket boats on the sand",
+  "summary": "Use My Khe for more than a swim. A 2016 city page lists surfboards, skurfing, jet skis, sailing, parasailing, snorkeling, diving, basket-boat racing, and kayaks. A surf school on that beach prints two addresses and no usable price. The lesson price stays check on arrival.",
+  "dots": 3,
+  "timeNeeded": "A couple of hours",
+  "fee": "Check on arrival",
+  "getThere": "My Khe, on Vo Nguyen Giap, if you use the 2017 surf-school address. The 2016 English page also prints 119 Tran Phu. Confirm the meeting point.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The sports huts on the sand",
+  "notice": {
+    "title": "The surf school prints two addresses",
+    "body": "The 30 May 2017 page says Vo Nguyen Giap, inside Temple Danang, 08:00 to 17:00. The 25 October 2016 English page says 119 Tran Phu, and also sends you to Vo Nguyen Giap in front of that resort. Confirm where to meet. Do not use the one-dollar figure on the English page."
+  },
+  "body": [
+    "The swim is on the My Khe page. This one is what else the sand is for. The 19 January 2016 water-sports page names surfboards, skurfing, jet skis, sailing, parasailing, snorkeling and diving, basket-boat racing, and kayaks. The company phones on that page are a decade old and are not a list to call.",
+    "For a lesson, the 2017 Vietnamese page puts Da Nang Surf School on Vo Nguyen Giap, inside Temple Danang, open 08:00 to 17:00, with a lesson of about two hours and stand-up paddle as well. The 2016 English page prints 119 Tran Phu, says open every day, prints both a one-hour visit and a lesson of about two hours, and still directs you to Vo Nguyen Giap. The price line on that English page is a stub. The price is check on arrival.",
+    "The second photograph is the basket boats on the sand, which is the racing the 2016 page names. Hire for a boat, a board, or a jet ski has no price on these pages."
+  ],
+  "figures": [
+    {
+      "id": "da-nang-beach-sports-2",
+      "caption": "Basket boats pulled up on the sand",
+      "alt": "Round basket boats lined up on a Da Nang beach"
+    }
+  ],
+  "gettingThere": [
+    "Go to My Khe. The 2017 page says the surf school is on Vo Nguyen Giap, inside Temple Danang. The 2016 English page also prints 119 Tran Phu, which is the Han Market address, and then tells you to look for the resort on Vo Nguyen Giap. Confirm the meeting point that morning. A ride from the river has no published minute count."
+  ],
+  "legs": [
+    {
+      "heading": "From a My Khe hotel",
+      "body": "Walk to Vo Nguyen Giap and confirm the meeting point. The two pages do not agree."
+    },
+    {
+      "heading": "From the river",
+      "body": "By Grab to My Khe. The minutes are check on arrival."
+    }
+  ],
+  "hours": "The 2017 surf-school page prints 08:00 to 17:00. The 2016 English page says every day, and prints both a one-hour visit and a lesson of about two hours.",
+  "closed": "No weekly closing day is published.",
+  "admissionNote": "Check on arrival. The one-dollar line on the 2016 English page is not a price to budget.",
+  "links": [
+    {
+      "label": "Water sports list",
+      "url": "https://danangfantasticity.com/en/water-sports",
+      "note": "Da Nang tourism portal, 19 Jan 2016"
+    },
+    {
+      "label": "Surf school, Vietnamese",
+      "url": "https://danangfantasticity.com/giai-tri-bien/truong-day-luot-song-da-nang",
+      "note": "Same portal, 30 May 2017"
+    },
+    {
+      "label": "Surf school, English",
+      "url": "https://danangfantasticity.com/en/sport-activities/da-nang-surf-school",
+      "note": "Same portal, 25 Oct 2016, address disagrees"
+    }
+  ],
+  "interests": [
+    "beaches"
+  ]
+}
