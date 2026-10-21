@@ -201,3 +201,25 @@ Not decided this pass. Ba Đình is the cluster of the citadel, the mausoleum, a
 - Suggested dot: do not add a record. It is a corner inside the Old Quarter, not a sight page.
 - Photo must show: the intersection and the stools, subject through the center. A single glass, cropped tight, fails.
 - Sources: S1, S2
+
+## Lifestyle
+
+### Hoan Kiem morning
+- Vietnamese name: Đi một vòng hồ
+- Kind: lifestyle
+- What a day here actually is: The tourism board’s invitation is a turn around Hoan Kiem. Before sunrise the bank is joggers, tai chi, and games. The same scene returns in the evening, with people on the benches (S1). This is the walk. A swim was not on the pages read.
+- When: Before sunrise, and again at the end of the day (S1).
+- Area: The lake bank
+- Suggested slug: hoan-kiem-morning
+- Photo must show: people exercising under the trees, with the water in the same frame, subject through the center. Empty water, or a cropped torso, fails.
+- Sources: S1
+
+### Old Quarter breakfast
+- Vietnamese name: Phở và bánh cuốn
+- Kind: lifestyle
+- What a day here actually is: Breakfast is a bowl of phở, which the board says runs from morning into a cold-weather supper, or bánh cuốn, which it calls a breakfast across the city (S24). Coffee is the sit-down that follows. The Old Quarter page says people spend hours in coffee shops watching the street (S1). Egg coffee is the Hanoi cup (S23). No page names one cafe street. A named cafe is not a pick.
+- When: Morning for the bowl. The coffee has no sourced quiet hour. When the lanes go quiet is Check on arrival — UNSOURCED
+- Area: The Old Quarter, not a single address
+- Suggested slug: old-quarter-breakfast
+- Photo must show: a breakfast bowl on a low table with the lane behind it, subject through the center. A menu board with no bowl fails.
+- Sources: S1, S23, S24

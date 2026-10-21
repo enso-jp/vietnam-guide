@@ -13,7 +13,7 @@
     "areas": "partial",
     "foodStreets": "partial",
     "nightlife": "partial",
-    "lifestyle": "missing",
+    "lifestyle": "partial",
     "events": "missing",
     "sideTrips": "missing"
   },
@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:31:45.629Z",
+      "updated": "2026-10-21T08:32:49.052Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:31:45.629Z",
+      "updated": "2026-10-21T08:32:49.052Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,13 +45,13 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:31:45.629Z",
+      "updated": "2026-10-21T08:32:49.052Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:31:45.629Z",
+      "updated": "2026-10-21T08:32:49.052Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -79,9 +79,9 @@
       "reworkCount": 0
     },
     "researchLifestyle": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "First pass has the dawn lake walk and the Old Quarter breakfast. Still open: a swim, one cafe street, and the hour the lanes go quiet.",
+      "updated": "2026-10-21T08:32:49.052Z",
       "reworkCount": 0
     },
     "researchContext": {
@@ -105,7 +105,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Lake walk sourced 21 Oct 2026. Temple door fee and the standing walking-zone clock are still Check on arrival. Dot stays 4.",
-      "updated": "2026-10-21T08:31:45.629Z",
+      "updated": "2026-10-21T08:32:49.052Z",
       "reworkCount": 0
     },
     {
@@ -121,7 +121,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Site hours and 70,000 VND ticket sourced 21 Oct 2026. Night price was not on the site. Dot stays 4.",
-      "updated": "2026-10-21T08:31:45.629Z",
+      "updated": "2026-10-21T08:32:49.052Z",
       "reworkCount": 0
     },
     {
@@ -137,7 +137,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Only the Giai Phong–Kham Thien stretch was sourced, from VTV 14 Apr 2026. The Phung Hung–Tran Phu stretch’s order did not load. No cafe is a pick. Dot stays 2.",
-      "updated": "2026-10-21T08:31:45.629Z",
+      "updated": "2026-10-21T08:32:49.052Z",
       "reworkCount": 0
     },
     {
@@ -153,7 +153,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": "2026-10-21T08:31:45.629Z",
+      "updated": "2026-10-21T08:32:49.052Z",
       "reworkCount": 0
     },
     {
@@ -249,7 +249,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Conservation centre fee from 1 Jan 2025 is 100,000 VND. Hours 08:00–17:00, last entry 16:45. UNESCO list page did not load.",
-      "updated": "2026-10-21T08:31:45.629Z",
+      "updated": "2026-10-21T08:32:49.052Z",
       "reworkCount": 0
     },
     {
@@ -265,7 +265,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Command visiting rule posted 14 Apr 2018. Ticket not on that page. 2026 closure notice did not load.",
-      "updated": "2026-10-21T08:31:45.629Z",
+      "updated": "2026-10-21T08:32:49.052Z",
       "reworkCount": 0
     },
     {
@@ -281,7 +281,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Tourism board only. The 25,000 VND line is not a second source. Fee stays Check on arrival.",
-      "updated": "2026-10-21T08:31:45.629Z",
+      "updated": "2026-10-21T08:32:49.052Z",
       "reworkCount": 0
     },
     {
@@ -297,7 +297,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the place page carries the Old Quarter. No separate attraction file.",
-      "updated": "2026-10-21T08:31:45.629Z",
+      "updated": "2026-10-21T08:32:49.052Z",
       "reworkCount": 0
     },
     {
@@ -313,7 +313,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the place page carries the French Quarter walk. Opera House hours were not confirmed.",
-      "updated": "2026-10-21T08:31:45.629Z",
+      "updated": "2026-10-21T08:32:49.052Z",
       "reworkCount": 0
     },
     {
@@ -425,7 +425,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the food guide carries Dong Xuan. Hours did not load. No separate page.",
-      "updated": "2026-10-21T08:31:45.629Z",
+      "updated": "2026-10-21T08:32:49.052Z",
       "reworkCount": 0
     },
     {
@@ -441,7 +441,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the food guide carries the weekend market. No stall is a pick.",
-      "updated": "2026-10-21T08:31:45.629Z",
+      "updated": "2026-10-21T08:32:49.052Z",
       "reworkCount": 0
     },
     {
@@ -457,7 +457,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the food guide carries Cha Ca street. No restaurant page.",
-      "updated": "2026-10-21T08:31:45.629Z",
+      "updated": "2026-10-21T08:32:49.052Z",
       "reworkCount": 0
     },
     {
@@ -473,7 +473,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the lake page carries this evening. No separate nightlife page.",
-      "updated": "2026-10-21T08:31:45.629Z",
+      "updated": "2026-10-21T08:32:49.052Z",
       "reworkCount": 0
     },
     {
@@ -489,20 +489,53 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: a corner inside the Old Quarter. Named bars are not picks.",
-      "updated": "2026-10-21T08:31:45.629Z",
+      "updated": "2026-10-21T08:32:49.052Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--hoan-kiem-morning",
+      "kind": "lifestyle",
+      "track": "unit",
+      "name": "Hoan Kiem morning",
+      "slug": "hoan-kiem-morning",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Dossier: the lake page carries the morning walk. No separate page.",
+      "updated": "2026-10-21T08:32:49.052Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--old-quarter-breakfast",
+      "kind": "lifestyle",
+      "track": "unit",
+      "name": "Old Quarter breakfast",
+      "slug": "old-quarter-breakfast",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Dossier: the food guide carries breakfast. The quiet hour is still Check on arrival.",
+      "updated": "2026-10-21T08:32:49.052Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "hanoi",
-    "stage": "researchLifestyle",
-    "item": null,
-    "at": "2026-10-21T08:31:53.165Z",
-    "by": "hourly",
-    "branch": "cursor/content-hanoi-researchBase"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T08:32:49.052Z",
+      "place": "hanoi",
+      "stage": "researchLifestyle",
+      "item": null,
+      "status": "needs_depth",
+      "note": "First pass has the dawn lake walk and the Old Quarter breakfast. Still open: a swim, one cafe street, and the hour the lanes go quiet."
+    },
     {
       "at": "2026-10-21T08:31:45.629Z",
       "place": "hanoi",
