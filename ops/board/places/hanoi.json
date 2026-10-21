@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T08:25:26.536Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T08:25:26.536Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,19 +45,19 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T08:25:26.536Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T08:25:26.536Z",
       "reworkCount": 0
     },
     "researchBase": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "First pass stored the lake evening and getting there. Still open: a lodging street, the standing walking-zone clock (Decision 72 has streets and no hour), the station door, an airport ride minute both pages agree on, flight block times, Lao Cai and Ha Long, and a flood-closure rule. Sights, food streets, nightlife, the ordinary day, events, and side trips are later lanes.",
+      "updated": "2026-10-21T08:25:26.536Z",
       "reworkCount": 0
     },
     "researchAttractions": {
@@ -105,7 +105,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "updated": "2026-10-21T08:25:26.536Z",
       "reworkCount": 0
     },
     {
@@ -121,7 +121,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "updated": "2026-10-21T08:25:26.536Z",
       "reworkCount": 0
     },
     {
@@ -137,7 +137,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "updated": "2026-10-21T08:25:26.536Z",
       "reworkCount": 0
     },
     {
@@ -153,7 +153,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "updated": "2026-10-21T08:25:26.536Z",
       "reworkCount": 0
     },
     {
@@ -238,13 +238,15 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "hanoi",
-    "stage": "researchBase",
-    "item": null,
-    "at": "2026-10-21T08:18:12.553Z",
-    "by": "hourly",
-    "branch": "cursor/content-hanoi-researchBase"
-  },
-  "log": []
+  "claim": null,
+  "log": [
+    {
+      "at": "2026-10-21T08:25:26.536Z",
+      "place": "hanoi",
+      "stage": "researchBase",
+      "item": null,
+      "status": "needs_depth",
+      "note": "First pass stored the lake evening and getting there. Still open: a lodging street, the standing walking-zone clock (Decision 72 has streets and no hour), the station door, an airport ride minute both pages agree on, flight block times, Lao Cai and Ha Long, and a flood-closure rule. Sights, food streets, nightlife, the ordinary day, events, and side trips are later lanes."
+    }
+  ]
 }
