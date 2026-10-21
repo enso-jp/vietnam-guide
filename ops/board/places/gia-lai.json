@@ -1,0 +1,460 @@
+{
+  "slug": "gia-lai",
+  "name": "Gia Lai",
+  "nameVi": "Gia Lai",
+  "corridor": "highlands-coast",
+  "kind": "area",
+  "parent": null,
+  "publish": "accepted",
+  "priority": 33,
+  "note": "Highland base is Pleiku. Provincial capital after the 2025 merger is Quy Nhon on the coast.",
+  "coverage": {
+    "sights": "filled",
+    "areas": "filled",
+    "foodStreets": "filled",
+    "nightlife": "filled",
+    "lifestyle": "filled",
+    "events": "filled",
+    "sideTrips": "filled"
+  },
+  "stages": {
+    "researchBase": {
+      "status": "stored",
+      "note": "Left out: PXU block times, bus hours from HCMC, and rail station name.",
+      "updated": "2026-10-21T11:17:48.721Z",
+      "reworkCount": 0
+    },
+    "researchAttractions": {
+      "status": "stored",
+      "note": "Left out: Kon Ka Kinh, Phu Cuong waterfall, and Buu Minh pagoda pages.",
+      "updated": "2026-10-21T11:17:48.800Z",
+      "reworkCount": 0
+    },
+    "researchFood": {
+      "status": "stored",
+      "note": "Left out: Nguyen Van Troi food-street page, stall prices, and a public food guide JSON.",
+      "updated": "2026-10-21T11:20:54.845Z",
+      "reworkCount": 0
+    },
+    "researchNightlife": {
+      "status": "stored",
+      "note": "Left out: bar names, Saturday start times, and a night photograph.",
+      "updated": "2026-10-21T11:17:48.960Z",
+      "reworkCount": 0
+    },
+    "researchLifestyle": {
+      "status": "stored",
+      "note": "Left out: named breakfast street and plantation tour fees.",
+      "updated": "2026-10-21T11:17:49.039Z",
+      "reworkCount": 0
+    },
+    "researchContext": {
+      "status": "stored",
+      "note": "Left out: Kon Tum and Quy Nhon place pages and 2027 festival dates.",
+      "updated": "2026-10-21T11:17:49.117Z",
+      "reworkCount": 0
+    },
+    "destination": {
+      "status": "paged",
+      "note": "Seven attraction shells, one festival, one day itinerary. No food guide JSON.",
+      "updated": "2026-10-21T11:20:55.168Z",
+      "reworkCount": 0
+    },
+    "destinationCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:20:54.845Z",
+      "reworkCount": 0
+    },
+    "destinationQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:20:54.845Z",
+      "reworkCount": 0
+    },
+    "food": {
+      "status": "skipped",
+      "note": "No photo-led food guide. Place eat line only.",
+      "updated": "2026-10-21T11:21:03.313Z",
+      "reworkCount": 0
+    },
+    "foodCopy": {
+      "status": "skipped",
+      "note": "No food guide.",
+      "updated": "2026-10-21T11:21:03.343Z",
+      "reworkCount": 0
+    },
+    "foodQuality": {
+      "status": "skipped",
+      "note": "No food guide.",
+      "updated": "2026-10-21T11:21:03.371Z",
+      "reworkCount": 0
+    }
+  },
+  "items": [
+    {
+      "id": "gia-lai--bien-ho",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Biển Hồ",
+      "slug": "bien-ho",
+      "file": "src/content/attractions/gia-lai--bien-ho.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Dossier stored 21 Oct 2026.",
+      "updated": "2026-10-21T11:20:54.953Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "gia-lai--bien-ho-tea",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Biển Hồ tea hills",
+      "slug": "bien-ho-tea",
+      "file": "src/content/attractions/gia-lai--bien-ho-tea.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Dossier stored 21 Oct 2026.",
+      "updated": "2026-10-21T11:20:54.978Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "gia-lai--chu-dang-ya",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Chu Đăng Ya volcano",
+      "slug": "chu-dang-ya",
+      "file": "src/content/attractions/gia-lai--chu-dang-ya.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "No licensed Chu Đăng Ya photograph. Left in dossier prose only.",
+      "updated": "2026-10-21T11:23:24.333Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "gia-lai--minh-thanh",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Minh Thanh Pagoda",
+      "slug": "minh-thanh",
+      "file": "src/content/attractions/gia-lai--minh-thanh.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Dossier stored 21 Oct 2026.",
+      "updated": "2026-10-21T11:20:55.033Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "gia-lai--pleiku-museum",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Pleiku Museum",
+      "slug": "pleiku-museum",
+      "file": "src/content/attractions/gia-lai--pleiku-museum.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "No museum photograph. Street frame rejected.",
+      "updated": "2026-10-21T11:23:24.361Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "gia-lai--ia-gri",
+      "kind": "area",
+      "track": "unit",
+      "name": "Ia Gri village",
+      "slug": "ia-gri",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Village hosting only; no separate attraction page.",
+      "updated": "2026-10-21T11:20:54.926Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "gia-lai--dai-doan-ket",
+      "kind": "hub",
+      "track": "unit",
+      "name": "Dai Doan Ket Square",
+      "slug": "dai-doan-ket",
+      "file": "src/content/attractions/gia-lai--dai-doan-ket.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Dossier stored 21 Oct 2026.",
+      "updated": "2026-10-21T11:20:55.084Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "gia-lai--dien-hong",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Dien Hong food street",
+      "slug": "dien-hong",
+      "file": "src/content/attractions/gia-lai--dien-hong.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "No licensed night-market photograph.",
+      "updated": "2026-10-21T11:23:24.385Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "gia-lai--pho",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Two-bowl pho",
+      "slug": "pho",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Shared dish page.",
+      "updated": "2026-10-21T11:20:39.985Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "gia-lai--ca-phe",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Coffee",
+      "slug": "ca-phe",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Shared dish page.",
+      "updated": "2026-10-21T11:20:40.012Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "gia-lai--gia-lai-gong-festival",
+      "kind": "event",
+      "track": "bundled",
+      "name": "Gia Lai Gong Festival",
+      "slug": "gia-lai-gong-festival",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "2026 dates announced.",
+      "updated": "2026-10-21T11:20:40.037Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "gia-lai--dish--ca-phe",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Vietnamese coffee",
+      "slug": "ca-phe",
+      "file": "src/content/dishes/ca-phe.json",
+      "source": "published",
+      "research": "stored",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+      "updated": "2026-10-21T11:20:54.815Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "gia-lai--dish--pho",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Pho",
+      "slug": "pho",
+      "file": "src/content/dishes/pho.json",
+      "source": "published",
+      "research": "stored",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+      "updated": "2026-10-21T11:20:54.788Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "gia-lai--event--gia-lai-gong-festival",
+      "kind": "event",
+      "track": "bundled",
+      "name": "Gia Lai Gong Festival",
+      "slug": "gia-lai-gong-festival",
+      "file": "src/content/festivals/gia-lai-gong-festival.json",
+      "source": "published",
+      "research": "stored",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Bundled into the destination stage.",
+      "updated": "2026-10-21T11:20:55.138Z",
+      "reworkCount": 0
+    }
+  ],
+  "questions": [],
+  "claim": null,
+  "log": [
+    {
+      "at": "2026-10-21T11:21:03.371Z",
+      "place": "gia-lai",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "skipped",
+      "note": "No food guide."
+    },
+    {
+      "at": "2026-10-21T11:21:03.343Z",
+      "place": "gia-lai",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "skipped",
+      "note": "No food guide."
+    },
+    {
+      "at": "2026-10-21T11:21:03.314Z",
+      "place": "gia-lai",
+      "stage": "food",
+      "item": null,
+      "status": "skipped",
+      "note": "No photo-led food guide. Place eat line only."
+    },
+    {
+      "at": "2026-10-21T11:20:55.168Z",
+      "place": "gia-lai",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Seven attraction shells, one festival, one day itinerary. No food guide JSON."
+    },
+    {
+      "at": "2026-10-21T11:20:54.845Z",
+      "place": "gia-lai",
+      "stage": "researchFood",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: Nguyen Van Troi food-street page, stall prices, and a public food guide JSON."
+    },
+    {
+      "at": "2026-10-21T11:17:49.118Z",
+      "place": "gia-lai",
+      "stage": "researchContext",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: Kon Tum and Quy Nhon place pages and 2027 festival dates."
+    },
+    {
+      "at": "2026-10-21T11:17:49.039Z",
+      "place": "gia-lai",
+      "stage": "researchLifestyle",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: named breakfast street and plantation tour fees."
+    },
+    {
+      "at": "2026-10-21T11:17:48.960Z",
+      "place": "gia-lai",
+      "stage": "researchNightlife",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: bar names, Saturday start times, and a night photograph."
+    },
+    {
+      "at": "2026-10-21T11:17:48.879Z",
+      "place": "gia-lai",
+      "stage": "researchFood",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: Nguyen Van Troi food-street page, stall prices, and a public food guide JSON."
+    },
+    {
+      "at": "2026-10-21T11:17:48.801Z",
+      "place": "gia-lai",
+      "stage": "researchAttractions",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: Kon Ka Kinh, Phu Cuong waterfall, and Buu Minh pagoda pages."
+    },
+    {
+      "at": "2026-10-21T11:17:48.721Z",
+      "place": "gia-lai",
+      "stage": "researchBase",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: PXU block times, bus hours from HCMC, and rail station name."
+    },
+    {
+      "at": "2026-10-21T11:17:19.475Z",
+      "place": "gia-lai",
+      "stage": "researchContext",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Left out: Kon Tum and Quy Nhon public pages and 2027 festival dates."
+    },
+    {
+      "at": "2026-10-21T11:17:19.291Z",
+      "place": "gia-lai",
+      "stage": "researchLifestyle",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Left out: named breakfast street and plantation tour fees."
+    },
+    {
+      "at": "2026-10-21T11:17:19.187Z",
+      "place": "gia-lai",
+      "stage": "researchNightlife",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Left out: bar names and Saturday start times."
+    },
+    {
+      "at": "2026-10-21T11:17:13.392Z",
+      "place": "gia-lai",
+      "stage": "researchFood",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Left out: Nguyen Van Troi as its own food-street page and stall prices."
+    },
+    {
+      "at": "2026-10-21T11:17:02.565Z",
+      "place": "gia-lai",
+      "stage": "researchAttractions",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Left out: Kon Ka Kinh, Phu Cuong waterfall, and Buu Minh as separate pages."
+    },
+    {
+      "at": "2026-10-21T11:16:58.063Z",
+      "place": "gia-lai",
+      "stage": "researchBase",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Getting there stored. PXU block times and bus hours still open."
+    }
+  ]
+}

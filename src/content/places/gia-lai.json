@@ -1,0 +1,164 @@
+{
+  "slug": "gia-lai",
+  "name": "Gia Lai",
+  "nameVi": "Gia Lai",
+  "kind": "area",
+  "corridor": "highlands-coast",
+  "province": "Gia Lai",
+  "provinceNote": "The 2025 merger joined former Bình Định and former Gia Lai into one province still called Gia Lai. The provincial seat is Quy Nhơn on the coast. Travelers use Pleiku for the lake, the volcano, and PXU airport.",
+  "lat": 13.983,
+  "lng": 108.002,
+  "dots": 4,
+  "dotReason": "Worth a special trip in this corridor",
+  "summary": "Gia Lai is the Central Highlands province of volcanic lakes, tea rows, and gong culture. Sleep in Pleiku, not Quy Nhơn, if Biển Hồ and Chu Đăng Ya are the trip. PXU has domestic flights from Hanoi, Ho Chi Minh City, and Da Nang. Gate fees, road minutes, and 2027 festival dates stay check on arrival.",
+  "timeNeeded": "2 days",
+  "fee": "Lake and volcano fees are ticketed where posted; many views are free from the road",
+  "getThere": "Fly to Pleiku (PXU), about 5 km from the city, or come by road on Quốc lộ 14 and 19",
+  "bestMonths": "November to April",
+  "verified": "21 Oct 2026",
+  "interests": {
+    "mountains": 5,
+    "coffee": 4,
+    "photography": 4,
+    "markets": 4,
+    "food": 4,
+    "pagodas": 3
+  },
+  "cover": "highlands",
+  "nearby": [
+    "da-lat",
+    "da-nang",
+    "ho-chi-minh-city"
+  ],
+  "routeSlugs": [],
+  "itinerarySlugs": [
+    "gia-lai-day"
+  ],
+  "seoTitle": "Gia Lai travel guide — Pleiku, Biển Hồ, Chu Đăng Ya",
+  "seoDescription": "How to use Pleiku as a highland base for Biển Hồ lake, Chu Đăng Ya volcano, gong culture, and Dien Hong food street after the 2025 province merger.",
+  "intro": [
+    "Pleiku is the city inside Gia Lai that travelers actually sleep in. Biển Hồ, also called Hồ T’Nưng, sits about 7 km north on the provincial scenic list, a lake left by extinct volcanoes. Chu Đăng Ya is about 30 km northeast, a crater bowl farmed and gold with wild sunflowers in late autumn when the national tourism pages name the season. The provincial portal puts Pleiku airport about 5 km away on routes to Hanoi, Ho Chi Minh City, and Da Nang.",
+    "After the June 2025 merger the province on the map is still Gia Lai, but the administrative capital moved to Quy Nhơn on the coast. That is a beach-and-port trip, not a substitute for a misty lake morning. Come here for highland scenery, Jarai and Bahnar gong heritage, two-bowl pho, and grilled chicken with bamboo-tube rice. Vietnam Tourism calls November to April the kinder months, with coffee flowers around February to April.",
+    "Evenings collect on Dien Hong food street in Pleiku, formalized in April 2026 on the old night-market ground, and on festival or weekend nights at Dai Doan Ket Square when gong ensembles play. The 2026 International Gong Festival is announced for 30 October through 8 November, with Gong Festival Night at 20:00 on 7 November. Copy those dates only for that year. Minh Thanh Pagoda’s golden tower is the hill landmark above town. Fees, boat tickets, and Saturday gong start times are check on arrival."
+  ],
+  "gettingAround": [
+    "Pleiku airport is a short taxi from the center. Biển Hồ and the tea dam road are a northern half-day loop. Chu Đăng Ya needs a dry road and shoes for steep rim paths. There is no useful train into Pleiku on the pages this pass read. Quy Nhơn, the provincial capital, is about 180 km away by road on enterprise pages, with minutes check on arrival. Kon Tum to the north is a side trip placeholder until that place has a page."
+  ],
+  "stayAreas": [
+    {
+      "name": "Pleiku center",
+      "summary": "Walk to cafes and an easy taxi to Dien Hong food street after dark.",
+      "band": "City hotels"
+    },
+    {
+      "name": "Near Biển Hồ",
+      "summary": "Sleep closer to the lake if you want the first light on the water without a cross-town ride.",
+      "band": "Guesthouses",
+      "photo": "gia-lai-bien-ho"
+    }
+  ],
+  "eat": [
+    "Two-bowl pho, phở hai tô, is Pleiku’s breakfast: dry noodles in one bowl and hot broth in another, often on Nguyen Van Troi and again at Dien Hong at night. Grilled chicken with cơm lam bamboo-tube rice is the highland lunch or dinner. Coffee from the surrounding plantations belongs in every slow morning."
+  ],
+  "dishSlugs": [
+    "ca-phe",
+    "pho"
+  ],
+  "interestsBody": [
+    "Biển Hồ and the tea dam road are the photographed lake loop north of Pleiku. Chu Đăng Ya stays in the dossier and the prose until a licensed volcano frame exists.",
+    "Gong culture is UNESCO-listed for the Central Highlands. Dai Doan Ket Square and the October–November festival carry the sound outdoors when dates are announced.",
+    "Dien Hong food street is named in the intro and eat line. It has no interest card without a night-market photograph."
+  ],
+  "interestGroups": [
+    {
+      "title": "Dining and F&B",
+      "summary": "Two-bowl pho, grilled chicken with bamboo-tube rice, and the night food street.",
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "Phở hai tô, gà nướng, and Dien Hong after dark.",
+          "photo": "ca-phe",
+          "icon": "food",
+          "to": "food"
+        }
+      ]
+    },
+    {
+      "title": "Coffee hills",
+      "summary": "Plantations and tea rows above Biển Hồ.",
+      "cards": [
+        {
+          "title": "Tea above the lake",
+          "summary": "Green rows on the dam road north of Pleiku.",
+          "attractionSlug": "bien-ho-tea",
+          "photo": "gia-lai-bien-ho-tea",
+          "icon": "drink"
+        },
+        {
+          "title": "Highland coffee",
+          "summary": "The shared coffee dish page for Central Highlands cups.",
+          "dishSlug": "ca-phe",
+          "photo": "ca-phe",
+          "icon": "drink"
+        }
+      ]
+    },
+    {
+      "title": "Lakes and craters",
+      "summary": "Biển Hồ morning mist on Hồ T’Nưng.",
+      "cards": [
+        {
+          "title": "Biển Hồ",
+          "summary": "Hồ T’Nưng, about 7 km north of Pleiku.",
+          "attractionSlug": "bien-ho",
+          "photo": "gia-lai-bien-ho",
+          "icon": "view"
+        }
+      ]
+    },
+    {
+      "title": "Gong culture",
+      "summary": "Outdoor performances at festival and weekend nights.",
+      "cards": [
+        {
+          "title": "Dai Doan Ket Square",
+          "summary": "Festival nights and weekend gong programmes.",
+          "attractionSlug": "dai-doan-ket",
+          "photo": "gia-lai-dai-doan-ket",
+          "icon": "view"
+        }
+      ]
+    },
+    {
+      "title": "Pagodas",
+      "summary": "Minh Thanh’s golden tower above Pleiku.",
+      "cards": [
+        {
+          "title": "Minh Thanh Pagoda",
+          "summary": "Hill pagoda with a 72 m gold-painted tower.",
+          "attractionSlug": "minh-thanh",
+          "photo": "gia-lai-minh-thanh",
+          "icon": "museum"
+        }
+      ]
+    }
+  ],
+  "season": {
+    "label": "Dry highlands Nov–Apr",
+    "note": "Vietnam Tourism names November to April as drier months for Gia Lai and ties late October to December to wild sunflowers on Chu Đăng Ya. Heavy rain on highland roads is a real constraint. Festival dates move year to year; confirm before you fly."
+  },
+  "faqs": [
+    {
+      "q": "Should you stay in Pleiku or Quy Nhơn?",
+      "a": "Stay in Pleiku for Biển Hồ, Chu Đăng Ya, and PXU airport. Quy Nhơn is the merged province’s coastal capital, about 180 km away on an enterprise page, with its own beach climate. They are not interchangeable nights."
+    },
+    {
+      "q": "When is the gong festival?",
+      "a": "The 2026 series is announced for 30 October through 8 November, with Gong Festival Night at 20:00 on 7 November at Dai Doan Ket Square. Later years are check on arrival. Weekend gong performances are also promoted for Saturday evenings, with start times check on arrival."
+    },
+    {
+      "q": "Do you need a separate slug for Pleiku?",
+      "a": "No. Pleiku is the city inside Gia Lai. This page is the highland base; the search slug stays gia-lai."
+    }
+  ]
+}
