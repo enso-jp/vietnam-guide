@@ -1,0 +1,65 @@
+{
+  "slug": "museum",
+  "placeSlug": "my-son",
+  "name": "My Son Museum",
+  "nameVi": "Bảo tàng Mỹ Sơn",
+  "kicker": "Gallery beside the stream, before the towers",
+  "summary": "Stop here before the cart. The gallery sits beside the Khe Thẻ stream, about 2 km from the towers, and it gives you the site before you walk it. The 2020 guide includes it in the entrance ticket and closes it at 17:00. A later ticket page does not restate that clock. The towers are the valley. This room is the start.",
+  "dots": 2,
+  "dotReason": "A short stop on the way in, not a trip of its own",
+  "timeNeeded": "A stop before the cart. Minutes inside are check on arrival.",
+  "fee": "Included in the 150,000 VND ticket",
+  "getThere": "Cars stop here. 45 km by road from Hoi An. The minutes are check on arrival.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "A carved pedestal in the gallery, with the hall behind it",
+  "notice": {
+    "title": "The museum clock is only on one page",
+    "body": "The 2020 visitor guide closes the museum at 17:00. The live ticket site ends visiting in the valley at 18:00 and does not restate a museum hour. If you arrive late, check the gallery door before you count on it."
+  },
+  "body": [
+    "Stop at this building before you take the cart. It stands beside the Khe Thẻ stream, about 2 km northwest of the towers. Work ran from June 2004 to March 2005 with a Japanese government grant, and the board has used it as the gateway since 2005. The management site says the room is there so you can see the site in outline before you go in. Cars end here. The electric cart leaves from here toward the towers.",
+    "The hall labels pieces by the group they came from. The museum page names a linga-yoni from B1, dated to the 8th century, a guardian from group E dated to the 10th to the 11th, a Shiva from A4 dated to the 10th century, a dancing Shiva from H1 dated to the 13th, an elephant-lion from C1 dated to the 11th, and a Brahma from tower K dated to the 11th. A wooden model of a Shiva sanctuary stands in the same room, with a linga under the roof.",
+    "Give it the start of the morning, not the day. The towers are the valley. Do not eat in the monument area, and do not climb the brick once you leave this room. The 2020 guide includes the museum, the cart, a Cham folk performance, and the monuments in the entrance ticket. The live ticket site prints the adult prices and does not repeat that sentence. If the window splits the gallery from the towers, check it on arrival."
+  ],
+  "figures": [
+    {
+      "id": "my-son-museum-2",
+      "caption": "A wooden model of a Shiva sanctuary, with a linga under the roof",
+      "alt": "A wooden model of a Cham sanctuary roof over a stone linga in the My Son gallery"
+    }
+  ],
+  "gettingThere": [
+    "Cars stop at this building. An electric cart covers about 2 km along the Khe Thẻ stream from here to the towers, and that ride is inside the entrance ticket on the 2019 service note and the 2020 guide. There is no train into the valley. Tourism bus 01DL, from Hoi An, is paused for six months from 15 Sep 2026, and the notice names no replacement."
+  ],
+  "legs": [
+    {
+      "heading": "From Hoi An",
+      "body": "By road. The sanctuary prints 45 km and no drive time. The minutes are check on arrival. You cannot walk it. Bus 01DL is paused from 15 Sep 2026 for six months."
+    },
+    {
+      "heading": "From the towers",
+      "body": "The electric cart runs back to the museum, about 2 km along the Khe Thẻ stream. The 10 Mar 2025 board note still has those carts as the daily vehicle, from the museum toward the Nhà Đôi area."
+    }
+  ],
+  "hours": "The 2020 visitor guide prints 06:00–17:00 for the museum. No later page restates that clock. Check on arrival.",
+  "closed": "No weekly closing day is published for the gallery. The 2019 notice says the sanctuary is open every day, including holidays.",
+  "admissionNote": "The museum has no separate adult price on the pages checked. The 2020 guide says the entrance ticket includes the museum, the electric cart, a Cham folk performance, and the monuments. Non-resident adult 150,000 VND. Vietnamese adult 100,000 VND. Those two adult bands are also on the live ticket site, the 2019 price notice, and the 2026 city list. The live ticket site says the price includes VAT and does not restate the museum in those words. Children are not one rule. The 2020 guide says 30,000 VND from age 5 to 15. The live ticket site says children 5 to 15 buy a 30,000 VND shuttle ticket and children under 5 are free. Check the child fare on arrival.",
+  "links": [
+    {
+      "label": "My Son Museum",
+      "url": "https://mysonsanctuary.com.vn/bao-tang/bao-tang-my-son",
+      "note": "Management board"
+    },
+    {
+      "label": "Tickets and hours",
+      "url": "https://mysonticketonline.vn/information",
+      "note": "Live ticket site"
+    },
+    {
+      "label": "Visitor guide, 29 Jun 2020",
+      "url": "https://mysonsanctuary.com.vn/tin-tuc/thong-tin-huong-dan-tham-quan-my-son.html",
+      "note": "Museum hours and what the ticket includes"
+    }
+  ],
+  "interests": ["photography"]
+}

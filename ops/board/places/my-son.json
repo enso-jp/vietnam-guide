@@ -20,20 +20,20 @@
   "stages": {
     "destination": {
       "status": "paged",
-      "note": "Place shell, Echoes of My Son, and interest cards. The morning stays in the place prose. Itinerary records were left for a separate pass. Left out a food guide, a night-show date, Tra Kieu, and Cong Troi.",
-      "updated": "2026-10-21T07:25:48.489Z",
+      "note": "Interest cards are the brick, the museum, the performances, and the night in Hoi An. Left out a food guide and a night-show date. No dining card.",
+      "updated": "2026-10-21T08:55:02.432Z",
       "reworkCount": 0
     },
     "destinationCopy": {
       "status": "enriched",
-      "note": "Place prose and hero are the valley in daylight. The old hero was an A1 pedestal. The old towers file was a magazine cover and was replaced because the place intro shows it. Drive minutes and one close time stay check on arrival.",
-      "updated": "2026-10-21T07:25:48.542Z",
+      "note": "Place prose names the unfixed night show. Each interest card has its own photo. No food street.",
+      "updated": "2026-10-21T08:55:02.470Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "checked",
-      "note": "Hero is a standing tower with forest and hills. Fees match the ticket site. Close times are both printed. No food street was invented. The towers page is the next unit.",
-      "updated": "2026-10-21T07:25:48.596Z",
+      "status": "stale",
+      "note": "Dossier changed. Check again after the copy pass.",
+      "updated": "2026-10-21T08:54:58.141Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,13 +45,13 @@
     "foodCopy": {
       "status": "skipped",
       "note": "Left out. There is no food guide to copy.",
-      "updated": "2026-10-21T07:25:48.704Z",
+      "updated": "2026-10-21T08:54:58.141Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "skipped",
       "note": "Left out. There is no food guide to check.",
-      "updated": "2026-10-21T07:25:48.754Z",
+      "updated": "2026-10-21T08:54:58.141Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -62,8 +62,8 @@
     },
     "researchAttractions": {
       "status": "stored",
-      "note": "Left out a separate page for each lettered group, a separate museum page, and an on-site minute count. Monument totals still disagree and were not collapsed.",
-      "updated": "2026-10-21T07:17:58.743Z",
+      "note": "Left out a separate page for each lettered group, the sacred path (not an open trail), an on-site minute count, and a night-show date. Museum and performances are now sights. Monument totals still disagree.",
+      "updated": "2026-10-21T08:54:58.141Z",
       "reworkCount": 0
     },
     "researchFood": {
@@ -103,25 +103,25 @@
       "research": "stored",
       "page": "paged",
       "copy": "enriched",
-      "quality": "checked",
-      "note": "Photos show the towers. Adult fee matches the ticket site. Hours stay as two published closes. No drive minutes were invented.",
-      "updated": "2026-10-21T07:27:00.300Z",
+      "quality": "not_started",
+      "note": "Linga figure added. Dots, fee, and both close times unchanged. Quality not checked again in this pass.",
+      "updated": "2026-10-21T08:55:02.346Z",
       "reworkCount": 0
     },
     {
       "id": "my-son--museum",
-      "kind": "area",
+      "kind": "sight",
       "track": "unit",
       "name": "My Son Museum",
       "slug": "museum",
-      "file": null,
+      "file": "src/content/attractions/my-son--museum.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "Same ticket as the towers. Left out a separate museum page. The place and the towers page carry the gateway.",
-      "updated": "2026-10-21T07:17:59.455Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "not_started",
+      "note": "Gateway gallery. Museum hours only on the 2020 guide. Second frame is a crop of the hero source. Quality not checked in this pass.",
+      "updated": "2026-10-21T08:55:02.247Z",
       "reworkCount": 0
     },
     {
@@ -137,7 +137,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "No lifestyle page type. Left out a separate page. The place intro carries the day.",
-      "updated": "2026-10-21T07:17:59.455Z",
+      "updated": "2026-10-21T08:54:58.141Z",
       "reworkCount": 0
     },
     {
@@ -150,16 +150,56 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "not_started",
+      "copy": "enriched",
       "quality": "not_started",
-      "note": "The 15th, 09:00 and 14:45, groups B, C, and D. Whether the show is inside the ticket is left out.",
-      "updated": "2026-10-21T07:25:48.461Z",
+      "note": "Summary names the 13 Jul 2026 instruments and dances. Photo is its own file. Ticket inclusion left out.",
+      "updated": "2026-10-21T08:55:02.393Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "my-son--performances",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Cham performances",
+      "slug": "performances",
+      "file": "src/content/attractions/my-son--performances.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "not_started",
+      "note": "Daytime clock and the unfixed night show. No night photograph. Quality not checked in this pass.",
+      "updated": "2026-10-21T08:55:02.292Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T08:55:02.470Z",
+      "place": "my-son",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Place prose names the unfixed night show. Each interest card has its own photo. No food street."
+    },
+    {
+      "at": "2026-10-21T08:55:02.432Z",
+      "place": "my-son",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Interest cards are the brick, the museum, the performances, and the night in Hoi An. Left out a food guide and a night-show date. No dining card."
+    },
+    {
+      "at": "2026-10-21T08:54:58.142Z",
+      "place": "my-son",
+      "stage": "researchAttractions",
+      "item": null,
+      "status": "stored",
+      "note": "Left out a separate page for each lettered group, the sacred path (not an open trail), an on-site minute count, and a night-show date. Museum and performances are now sights. Monument totals still disagree."
+    },
     {
       "at": "2026-10-21T07:27:00.300Z",
       "place": "my-son",
@@ -295,30 +335,6 @@
       "item": null,
       "status": "stored",
       "note": "Left out a food guide and any dish page. No food street is published. Brand names in the surrounding essay were not picks."
-    },
-    {
-      "at": "2026-10-21T07:17:58.797Z",
-      "place": "my-son",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Ticket rules forbid eating in the monument area. The services index has no market. A store pass can mark the bucket none."
-    },
-    {
-      "at": "2026-10-21T07:17:58.743Z",
-      "place": "my-son",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "Left out a separate page for each lettered group, a separate museum page, and an on-site minute count. Monument totals still disagree and were not collapsed."
-    },
-    {
-      "at": "2026-10-21T07:17:58.545Z",
-      "place": "my-son",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Groups B through N, the gateway museum, and the published towers walk are in the dossier. On-site minutes are unsourced. Monument totals disagree. Separate pages are still open."
     }
   ]
 }
