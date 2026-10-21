@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T06:11:49.378Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T06:11:49.378Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,19 +45,19 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T06:11:49.378Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T06:11:49.378Z",
       "reworkCount": 0
     },
     "researchBase": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "First pass 21 Oct 2026 of the scene and getting there. Still open: pho Tay has no street on the city plan; no hotel street; Phu Bai ride minutes and the station door; the heritage train prints two timetables; whole-trip road minutes to Da Nang and to Hoi An; intercity bus; Ca Hue wharf and hour; night-street hours; flight block times. Other lanes are open, so the dossier stays needs depth.",
+      "updated": "2026-10-21T06:11:49.378Z",
       "reworkCount": 0
     },
     "researchAttractions": {
@@ -105,7 +105,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "updated": "2026-10-21T06:11:49.378Z",
       "reworkCount": 0
     },
     {
@@ -121,7 +121,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "updated": "2026-10-21T06:11:49.378Z",
       "reworkCount": 0
     },
     {
@@ -137,7 +137,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "updated": "2026-10-21T06:11:49.378Z",
       "reworkCount": 0
     },
     {
@@ -203,16 +203,146 @@
       "note": "Named in Central Coast coverage on 19 Oct 2026. No dish file yet. Source it in the Hue dossier before the food stage publishes it.",
       "updated": null,
       "reworkCount": 0
+    },
+    {
+      "id": "hue--perfume-river",
+      "kind": "area",
+      "track": "unit",
+      "name": "Perfume River",
+      "slug": "perfume-river",
+      "file": null,
+      "source": "dossier",
+      "research": "not_started",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Scene from researchBase, 21 Oct 2026. Covered by the place page, not a separate sight. Research stays not_started until the attractions lane confirms the banks.",
+      "updated": "2026-10-21T06:11:49.378Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hue--south-bank",
+      "kind": "area",
+      "track": "unit",
+      "name": "South bank",
+      "slug": "south-bank",
+      "file": null,
+      "source": "dossier",
+      "research": "not_started",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sleeping area from researchBase. No official hotel street. Check on arrival. Attractions lane still has to confirm.",
+      "updated": "2026-10-21T06:11:49.378Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hue--ky-dai",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Flag Tower",
+      "slug": "ky-dai",
+      "file": null,
+      "source": "dossier",
+      "research": "not_started",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Scene pin from researchBase. Culture department, 9 Apr 2026: built 1807, called the city zero marker. Fee and hours not sourced. Attractions lane still open.",
+      "updated": "2026-10-21T06:11:49.378Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hue--nghinh-luong-dinh",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Nghinh Luong Dinh",
+      "slug": "nghinh-luong-dinh",
+      "file": null,
+      "source": "dossier",
+      "research": "not_started",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Scene pin from researchBase. Royal landing on the river bank, and the far end of the Truong Tien walk. Fee and hours not sourced. Attractions lane still open.",
+      "updated": "2026-10-21T06:11:49.378Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hue--truong-tien-walk",
+      "kind": "nightlife",
+      "track": "unit",
+      "name": "Truong Tien river walk",
+      "slug": "truong-tien-walk",
+      "file": null,
+      "source": "dossier",
+      "research": "not_started",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "From Truong Tien Bridge to Nghinh Luong Dinh. Parks center, 19 Mar 2026. No hour and no fee. Nightlife lane still has to map it.",
+      "updated": "2026-10-21T06:11:49.378Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hue--imperial-city-night",
+      "kind": "nightlife",
+      "track": "unit",
+      "name": "Imperial City night street",
+      "slug": "imperial-city-night",
+      "file": null,
+      "source": "dossier",
+      "research": "not_started",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Plan 66/KH-UBND, 3 Feb 2026, names Hoang Thanh as a night street to keep completing. No hour. Nightlife lane still open.",
+      "updated": "2026-10-21T06:11:49.378Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hue--pho-tay",
+      "kind": "nightlife",
+      "track": "unit",
+      "name": "Pho Tay",
+      "slug": "pho-tay",
+      "file": null,
+      "source": "dossier",
+      "research": "not_started",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Plan 66/KH-UBND uses pho Tay in quotes and does not name the street. Address is Check on arrival. Nightlife lane still open.",
+      "updated": "2026-10-21T06:11:49.378Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hue--hai-ba-trung",
+      "kind": "nightlife",
+      "track": "unit",
+      "name": "Hai Ba Trung night street",
+      "slug": "hai-ba-trung",
+      "file": null,
+      "source": "dossier",
+      "research": "not_started",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Plan 66/KH-UBND names Hai Ba Trung as a night street to keep completing. No hour. Nightlife lane still open.",
+      "updated": "2026-10-21T06:11:49.378Z",
+      "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "hue",
-    "stage": "researchBase",
-    "item": null,
-    "at": "2026-10-21T06:03:51.443Z",
-    "by": "hourly",
-    "branch": ""
-  },
-  "log": []
+  "claim": null,
+  "log": [
+    {
+      "at": "2026-10-21T06:11:49.378Z",
+      "place": "hue",
+      "stage": "researchBase",
+      "item": null,
+      "status": "needs_depth",
+      "note": "First pass 21 Oct 2026 of the scene and getting there. Still open: pho Tay has no street on the city plan; no hotel street; Phu Bai ride minutes and the station door; the heritage train prints two timetables; whole-trip road minutes to Da Nang and to Hoi An; intercity bus; Ca Hue wharf and hour; night-street hours; flight block times. Other lanes are open, so the dossier stays needs depth."
+    }
+  ]
 }
