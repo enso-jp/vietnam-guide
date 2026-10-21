@@ -30,10 +30,10 @@ Checked: 21 Oct 2026. Public fields that depend on these stay “Check on arriva
 - A com hen plate that is the Hue dish. The clam photos found were a different plate or a different town.
 - A festival photograph that is not a document or a logo.
 - A facade-and-stair frame of Khai Dinh’s tomb. The hero is the gilded statue inside. The second frame is the terrace, and it is mostly sky.
-- Duc Duc. The ticket record’s coordinates are 1234, 4321, the intro field is placeholder text, and the address lines disagree. Not published.
-- Hon Chen. One close frame of the hall exists. River views show the temple as a speck. A second honest photo is still missing. Not published.
-- Museum of Royal Antiquities. Cannon-yard frames were rejected. No exterior without weapons was found. Not published.
-- A night photograph of Chu Văn An, Phạm Ngũ Lão, or Võ Thị Sáu. No card until that frame and a page exist.
+- Duc Duc. The ticket record’s coordinates are 1234, 4321, the intro field is placeholder text, and the address lines disagree. Rechecked 21 Oct 2026: An lang.jpg (Lưu Ly, CC BY-SA 3.0) shows the worship hall. The gate frame is behind trees and a wire fence. Colonial postcards have captions burned in. Still unpublished. No second clean frame.
+- Hon Chen. Rechecked 21 Oct 2026. Điện Hòn Chén1.jpg and TempleHonChen.jpeg are the same hall (Lưu Ly, public domain). River and 2012 festival frames show the temple as a speck. Still unpublished. No second distinct frame.
+- Museum of Royal Antiquities. Rechecked 21 Oct 2026. The cannon-yard frame stays rejected. The ceremony photo and the gift photo are people, not the building. Still unpublished.
+- A night photograph of Chu Văn An, Phạm Ngũ Lão, Võ Thị Sáu, Hai Bà Trưng, or the Imperial City night street. Rechecked 21 Oct 2026. No licensed still. Still unpublished.
 - Phu Cam’s door. The city page prints both 01 Đoàn Hữu Trưng and 06 Nguyễn Trường Tộ, and two ward spellings.
 - Bao Quoc hours. 07:00–17:00 is one directory. No second source. The fee is still check on arrival.
 - Com hen now has a plate photograph. The stall price and the clock hour are still check on arrival.

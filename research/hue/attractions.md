@@ -360,6 +360,63 @@ On-site minutes and the ride from the south bank are Check on arrival — UNSOUR
 - Photo must show: the pagoda hall
 - Sources: S17
 
+### Bao Quoc Pagoda
+- Vietnamese name: Chùa Báo Quốc
+- Kind: sight
+- Area: 17 đường Bảo Quốc, phường Thuận Hóa, on Hàm Long hill. The directory’s old name is Hàm Long Thiên Thọ Tự.
+- What the visitor does: Enters the triple gate. The directory names Zen master Giác Phong and says the history does not give an exact year in the late 17th century. In 1747, under Nguyễn Phúc Khoát, the temple received the sắc tứ and the name Báo Quốc.
+- Time: Check on arrival — UNSOURCED. The directory’s 30–90 minute line is a suggestion, not a measured visit.
+- Fee: Check on arrival — UNSOURCED. Do not treat the directory’s free flag as a ticket rule.
+- From the base: South bank to 17 Bảo Quốc street. Minutes: Check on arrival — UNSOURCED. A blog address in phường Đúc is not used.
+- When to go: Inside the 07:00–17:00 window the directory prints. One source only. Confirm the board.
+- Mistake to avoid: Treating the suggested stay as a timed visit, or copying the free flag as a fee.
+- Local interest: Pagodas
+- Suggested slug: bao-quoc
+- Suggested dot: 3 already on the record. Do not change it.
+- Photo must show: the triple gate, whole, in the court. A second frame is the same gate closer, inscription readable.
+- Sources: research/hue/attractions/bao-quoc.md, https://chuahue.vn/vi/chua/bao-quoc checked 21 Oct 2026
+
+### Dieu De Pagoda
+- Vietnamese name: Chùa Diệu Đế
+- Kind: sight
+- Area: 100B Bạch Đằng, phường Phú Cát, near Gia Hội bridge, on the Hộ Thành river (also called Gia Hội or Đông Ba).
+- What the visitor does: Visits one of three Nguyễn national pagodas still in Hue. The Vietnamese city page dates the work to the third month of Thiệu Trị 4, 1844, on the garden of the future emperor.
+- Time: Check on arrival — UNSOURCED
+- Fee: Check on arrival — UNSOURCED
+- From the base: South bank toward Gia Hội bridge. Minutes: Check on arrival — UNSOURCED
+- When to go: Not instead of the citadel morning
+- Mistake to avoid: The English page’s 1807 date and 5,000 m² line. They conflict with the Vietnamese city page. Follow the 1844 account.
+- Local interest: Pagodas
+- Suggested slug: dieu-de
+- Suggested dot: 3 already on the record. Do not change it.
+- Photo must show: the gate from the river, gate whole. A second frame is the hall and the censer.
+- Sources: research/hue/attractions/dieu-de.md, https://khamphahue.com.vn/Van-hoa/Chi-tiet/tid/Chua-Dieu-De.html/pid/2830/cid/165 checked 21 Oct 2026
+
+### Phu Cam Cathedral
+- Vietnamese name: Nhà thờ Phủ Cam
+- Kind: sight
+- Area: Phước Quả hill. The same English city page prints both 01 Đoàn Hữu Trưng, Phước Vĩnh ward, and 06 Nguyễn Trường Tộ, Phúc Vĩnh ward. The ward spelling differs on that page. Print both.
+- What the visitor does: Sits in the nave of the cathedral of the Archdiocese of Hue. The city page credits the design to Ngô Viết Thụ and prints the grounds as 10,804 m².
+- Time: Check on arrival — UNSOURCED as a visit length
+- Fee: Check on arrival — UNSOURCED
+- From the base: The city route is Đống Đa, right on Hai Bà Trưng, Phan Đình Phùng, left on Nguyễn Trường Tộ, then Hàm Nghi–Đoàn Hữu Trưng. Minutes: Check on arrival — UNSOURCED
+- When to go: The same page prints grounds at all hours for a visit outside, weekday mass 05:00–18:00, and Sunday mass at 05:30, 08:00, 15:00, and 18:30. One source only. Confirm those clocks.
+- Mistake to avoid: Picking one street number and dropping the other.
+- Local interest: The south-bank city, not a pagoda card
+- Suggested slug: phu-cam
+- Suggested dot: 2 already on the record. Do not change it.
+- Photo must show: the nave and the parabolic arches. A second frame is the window wall, not the same view of the altar.
+- Sources: research/hue/attractions/phu-cam.md, https://khamphahue.com.vn/en-us/Discover-Hue/Detail/tid/Phu-Cam-Cathedral.html/pid/16002/cid/483 checked 21 Oct 2026
+
+### Photo check, 21 Oct 2026, for sights still off the page
+
+Hon Chen, the Museum of Royal Antiquities, Duc Duc, and the night streets stay unpublished. A page needs a licensed photo of the sight and a sourced fact, and a finished page needs a second frame that is not the same file.
+
+- Hon Chen. Fee 50,000 VND for an adult and free for a child from 7 to 12 is on Resolution 55 (S11). The centre places it at Ngọc Trản, Ngọc Hồ, Hương Hồ (S13). Điện Hòn Chén1.jpg and TempleHonChen.jpeg, both Lưu Ly, public domain, are the same hall with the blue-and-white pots. That is one frame. Điện Hòn Chén.jpg and the 2012 festival frames show the hall as a speck on the hill. No second distinct frame. Left out.
+- Museum of Royal Antiquities. Adult 50,000 VND, child 7–12 free (S11). A street door is still Check on arrival — UNSOURCED (S13). Bảo tàng Cổ vật Cung đình Huế (15245479432).jpg, Gin The Wanderer, CC BY 2.0, is the cannon yard. Weapons stay off the page. Bao tang co vat hue.jpg is a ceremony with banners, not the building. Tặng hiện vật cho bảo tàng cung đình Huế.jpg is three people holding a tray. No exterior without weapons. Left out.
+- Duc Duc. Adult 50,000 VND, child 7–12 free (S11). An lang.jpg, Lưu Ly, CC BY-SA 3.0, shows Điện Long Ân, the worship hall. Cong An lang.jpg is the gate behind trees and a wire fence. The colonial postcards have captions burned into the print. The ticket record’s coordinates are 1234, 4321, the intro is placeholder text, and the address lines disagree. One usable frame is not a finished page. Left out.
+- Night streets. Plan 66 names Hoàng Thành, phố “Tây”, and Hai Bà Trưng and gives no closing hour (S4). The desk names Chu Văn An, Phạm Ngũ Lão, and Võ Thị Sáu (S24). Commons has no licensed night frame of those streets. The street category holds two driving videos, not a still of the walk. Left out.
+
 Districts that deserve their own page: none. The south bank is a stay area. Kim Long is the road to Thien Mu. The upstream tombs are three sights, not a district page.
 
 ## Nightlife and evening
