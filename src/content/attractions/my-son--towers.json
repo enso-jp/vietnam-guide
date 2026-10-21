@@ -2,10 +2,65 @@
   "slug": "towers",
   "placeSlug": "my-son",
   "name": "Main tower groups",
-  "summary": "Several clusters of brick kalan towers linked by paths.",
+  "nameVi": "Các nhóm tháp",
+  "kicker": "Cham brick towers in a forested valley",
+  "summary": "Walk the brick groups that remain, mostly B, C, and D, on one morning from Hoi An. A foreign adult ticket is 150,000 VND. The site publishes both 17:00 and 18:00 as closing, so go early. Skip it if ruins are not your day. Time on the paths is check on arrival.",
   "dots": 3,
-  "timeNeeded": "1.5 hours on site",
-  "fee": "Included in the site ticket",
-  "getThere": "From the My Son visitor center",
-  "interests": []
+  "timeNeeded": "A morning. Time on the paths is check on arrival.",
+  "fee": "150,000 VND for a non-resident adult",
+  "getThere": "45 km by road from Hoi An. The minutes are check on arrival.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "Brick towers in the valley, with the mountain behind",
+  "notice": {
+    "title": "The close is not one time",
+    "body": "A 2019 notice closes the site at 17:00. The live ticket site sells tickets until 17:30 and ends visiting at 18:00. Come in the morning. Do not treat 18:00 as a promise."
+  },
+  "body": [
+    "Stop at the museum by the Khe Thẻ stream, then take the electric cart. The ride is about 2 km, and the 2020 guide includes it in the entrance ticket. You then walk the brick groups the board has open. A management essay from 25 Feb 2025 says the towers that still stand are mostly in B, C, and D, and that tower A1, once 24 meters, came down in 1969. A group is a main tower, usually with its door to the east, a gate tower in front, and a long hall inside a brick wall.",
+    "The daytime shows sit on that same walk. The hall runs at 09:45, 10:30, 11:15, 14:00, and 16:00. Group G is at 09:00 and 14:45, and bad weather can stop that one. Cham singing at the group H slope is Monday, Wednesday, and Friday, at the same two hours. On the 15th, Echoes of My Son is in groups B, C, and D at 09:00 and 14:45. The 2020 guide says the ticket includes a folk performance. The live ticket page prints the clock and does not repeat that sentence, so ask before you count on the monthly show.",
+    "Give it a morning from Hoi An, 45 km by road, and leave the same day. Do not climb the brick, do not eat in the monument area, and do not use flash on the stone. Stay on the paths the board keeps open. UNESCO still records unidentified unexploded ordnance in the buffer zone. The tourism bus from Hoi An is paused. The drive minutes are check on arrival. Skip the valley if you would rather keep the day in the old town."
+  ],
+  "figures": [
+    {
+      "id": "my-son-towers-2",
+      "caption": "Carved brick and a doorway in group C",
+      "alt": "A brick Cham tower doorway with carved figures at My Son"
+    }
+  ],
+  "gettingThere": [
+    "Cars stop at the museum. An electric cart covers about 2 km along the Khe Thẻ stream, and that ride is inside the entrance ticket on the 2019 service note and the 2020 guide. There is no train into the valley. Tourism bus 01DL, from Hoi An, is paused for six months from 15 Sep 2026, and the notice names no replacement."
+  ],
+  "legs": [
+    {
+      "heading": "From Hoi An",
+      "body": "By road. The sanctuary prints 45 km and no drive time. The minutes are check on arrival. You cannot walk it. Bus 01DL is paused from 15 Sep 2026 for six months."
+    },
+    {
+      "heading": "From Da Nang",
+      "body": "By road. The sanctuary prints 68 km from the city and no drive time. The airport door is a separate unsourced leg. Check the minutes on arrival."
+    }
+  ],
+  "hours": "Opens at 06:00. A 2019 notice closes at 17:00. The 2020 guide, the live ticket site, and the 2026 city list end visiting at 18:00. Ticket sales end at 17:00 on the 2020 guide and at 17:30 on the live ticket site.",
+  "closed": "No weekly closing day is published. The 2019 notice says every day, including holidays. Bad weather can stop the show at group G.",
+  "admissionNote": "Non-resident adult 150,000 VND. Vietnamese adult 100,000 VND. The live ticket site, the 2020 guide, the 2019 price notice, and the 2026 city list all print those two adult bands. The live ticket site says the price includes VAT. Children are not one rule. The 2020 guide says 30,000 VND from age 5 to 15. The live ticket site says children 5 to 15 buy a 30,000 VND shuttle ticket and children under 5 are free. The 2026 city list does not print a child band. Check the child fare on arrival. The 2020 guide says the adult ticket includes the museum, the electric cart, a Cham folk performance, and the monuments. An on-site explanation of 100,000 VND for one to five guests is only on that 2020 guide. The green bicycle, the audio guide, pottery, and hat-weaving have no published price.",
+  "links": [
+    {
+      "label": "My Son Sanctuary",
+      "url": "https://mysonsanctuary.com.vn/",
+      "note": "Management board"
+    },
+    {
+      "label": "Tickets and hours",
+      "url": "https://mysonticketonline.vn/information",
+      "note": "Live ticket site"
+    },
+    {
+      "label": "UNESCO inscription",
+      "url": "https://whc.unesco.org/en/list/949/",
+      "note": "World Heritage Centre"
+    }
+  ],
+  "lat": 15.773843,
+  "lng": 108.109169,
+  "interests": ["photography"]
 }

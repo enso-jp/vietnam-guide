@@ -9,85 +9,85 @@
   "priority": 4,
   "note": "",
   "coverage": {
-    "sights": "missing",
-    "areas": "missing",
-    "foodStreets": "missing",
-    "nightlife": "missing",
-    "lifestyle": "missing",
-    "events": "missing",
-    "sideTrips": "missing"
+    "sights": "filled",
+    "areas": "filled",
+    "foodStreets": "none",
+    "nightlife": "none",
+    "lifestyle": "filled",
+    "events": "filled",
+    "sideTrips": "filled"
   },
   "stages": {
     "destination": {
-      "status": "shell",
-      "note": "A place file exists. It has not been set up from a stored dossier.",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, Echoes of My Son, and interest cards. The morning stays in the place prose. Itinerary records were left for a separate pass. Left out a food guide, a night-show date, Tra Kieu, and Cong Troi.",
+      "updated": "2026-10-21T07:25:48.489Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "enriched",
+      "note": "Place prose and hero are the valley in daylight. The old hero was an A1 pedestal. The old towers file was a magazine cover and was replaced because the place intro shows it. Drive minutes and one close time stay check on arrival.",
+      "updated": "2026-10-21T07:25:48.542Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "checked",
+      "note": "Hero is a standing tower with forest and hills. Fees match the ticket site. Close times are both printed. No food street was invented. The towers page is the next unit.",
+      "updated": "2026-10-21T07:25:48.596Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "skipped",
+      "note": "Left out a food guide. No sourced food street. The ticket rules forbid eating in the monument area.",
+      "updated": "2026-10-21T07:25:48.648Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "skipped",
+      "note": "Left out. There is no food guide to copy.",
+      "updated": "2026-10-21T07:25:48.704Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "skipped",
+      "note": "Left out. There is no food guide to check.",
+      "updated": "2026-10-21T07:25:48.754Z",
       "reworkCount": 0
     },
     "researchBase": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "stored",
+      "note": "Left out drive minutes, one close time, a public bus running during the 01DL pause, the homepage coordinate strings, lodging in the hamlet, and a fixed date for Đêm Mỹ Sơn huyền thoại.",
+      "updated": "2026-10-21T07:17:59.455Z",
       "reworkCount": 0
     },
     "researchAttractions": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "stored",
+      "note": "Left out a separate page for each lettered group, a separate museum page, and an on-site minute count. Monument totals still disagree and were not collapsed.",
+      "updated": "2026-10-21T07:17:58.743Z",
       "reworkCount": 0
     },
     "researchFood": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "stored",
+      "note": "Left out a food guide and any dish page. No food street is published. Brand names in the surrounding essay were not picks.",
+      "updated": "2026-10-21T07:17:58.880Z",
       "reworkCount": 0
     },
     "researchNightlife": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "stored",
+      "note": "Left out a night street and a fixed date for Đêm Mỹ Sơn huyền thoại. The 2022 lunar date was not reused.",
+      "updated": "2026-10-21T07:17:59.008Z",
       "reworkCount": 0
     },
     "researchLifestyle": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "stored",
+      "note": "Left out a separate lifestyle page, a breakfast street, and a cafe street. Extras on the services index have no price.",
+      "updated": "2026-10-21T07:17:59.187Z",
       "reworkCount": 0
     },
     "researchContext": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "stored",
+      "note": "Left out a Tra Kieu page, Cong Troi while 01DL is paused, Cham Islands, service prices, and a festival for the unfixed night show.",
+      "updated": "2026-10-21T07:17:59.402Z",
       "reworkCount": 0
     }
   },
@@ -100,16 +100,225 @@
       "slug": "towers",
       "file": "src/content/attractions/my-son--towers.json",
       "source": "published",
-      "research": "not_started",
-      "page": "shell",
+      "research": "stored",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Photos show the towers. Adult fee matches the ticket site. Hours stay as two published closes. No drive minutes were invented.",
+      "updated": "2026-10-21T07:27:00.300Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "my-son--museum",
+      "kind": "area",
+      "track": "unit",
+      "name": "My Son Museum",
+      "slug": "museum",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Same ticket as the towers. Left out a separate museum page. The place and the towers page carry the gateway.",
+      "updated": "2026-10-21T07:17:59.455Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "my-son--morning",
+      "kind": "lifestyle",
+      "track": "unit",
+      "name": "A morning in the valley",
+      "slug": "morning",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No lifestyle page type. Left out a separate page. The place intro carries the day.",
+      "updated": "2026-10-21T07:17:59.455Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "my-son--echoes-of-my-son",
+      "kind": "event",
+      "track": "bundled",
+      "name": "Echoes of My Son",
+      "slug": "echoes-of-my-son",
+      "file": "src/content/festivals/echoes-of-my-son.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "paged",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "note": "The 15th, 09:00 and 14:45, groups B, C, and D. Whether the show is inside the ticket is left out.",
+      "updated": "2026-10-21T07:25:48.461Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
   "claim": null,
-  "log": []
+  "log": [
+    {
+      "at": "2026-10-21T07:27:00.300Z",
+      "place": "my-son",
+      "stage": "quality",
+      "item": "my-son--towers",
+      "status": "checked",
+      "note": "Photos show the towers. Adult fee matches the ticket site. Hours stay as two published closes. No drive minutes were invented."
+    },
+    {
+      "at": "2026-10-21T07:27:00.248Z",
+      "place": "my-son",
+      "stage": "copy",
+      "item": "my-son--towers",
+      "status": "enriched",
+      "note": "Prose names the groups, the cart, and both close times. Hero is the valley walk. Second frame is a group C doorway. The magazine cover is gone."
+    },
+    {
+      "at": "2026-10-21T07:27:00.192Z",
+      "place": "my-son",
+      "stage": "page",
+      "item": "my-son--towers",
+      "status": "paged",
+      "note": "Finished the towers page from the dossier. Close times and the child fare are both printed. On-site minutes left out."
+    },
+    {
+      "at": "2026-10-21T07:25:48.754Z",
+      "place": "my-son",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "skipped",
+      "note": "Left out. There is no food guide to check."
+    },
+    {
+      "at": "2026-10-21T07:25:48.704Z",
+      "place": "my-son",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "skipped",
+      "note": "Left out. There is no food guide to copy."
+    },
+    {
+      "at": "2026-10-21T07:25:48.648Z",
+      "place": "my-son",
+      "stage": "food",
+      "item": null,
+      "status": "skipped",
+      "note": "Left out a food guide. No sourced food street. The ticket rules forbid eating in the monument area."
+    },
+    {
+      "at": "2026-10-21T07:25:48.596Z",
+      "place": "my-son",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Hero is a standing tower with forest and hills. Fees match the ticket site. Close times are both printed. No food street was invented. The towers page is the next unit."
+    },
+    {
+      "at": "2026-10-21T07:25:48.542Z",
+      "place": "my-son",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Place prose and hero are the valley in daylight. The old hero was an A1 pedestal. The old towers file was a magazine cover and was replaced because the place intro shows it. Drive minutes and one close time stay check on arrival."
+    },
+    {
+      "at": "2026-10-21T07:25:48.489Z",
+      "place": "my-son",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place shell, Echoes of My Son, and interest cards. The morning stays in the place prose. Itinerary records were left for a separate pass. Left out a food guide, a night-show date, Tra Kieu, and Cong Troi."
+    },
+    {
+      "at": "2026-10-21T07:17:59.455Z",
+      "place": "my-son",
+      "stage": "researchBase",
+      "item": null,
+      "status": "stored",
+      "note": "Left out drive minutes, one close time, a public bus running during the 01DL pause, the homepage coordinate strings, lodging in the hamlet, and a fixed date for Đêm Mỹ Sơn huyền thoại."
+    },
+    {
+      "at": "2026-10-21T07:17:59.402Z",
+      "place": "my-son",
+      "stage": "researchContext",
+      "item": null,
+      "status": "stored",
+      "note": "Left out a Tra Kieu page, Cong Troi while 01DL is paused, Cham Islands, service prices, and a festival for the unfixed night show."
+    },
+    {
+      "at": "2026-10-21T07:17:59.238Z",
+      "place": "my-son",
+      "stage": "researchContext",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Echoes of My Son is the 15th. Side trips are Hoi An, Da Nang, Hue, and placeholders for Tra Kieu and Cong Troi. Service prices are unsourced."
+    },
+    {
+      "at": "2026-10-21T07:17:59.187Z",
+      "place": "my-son",
+      "stage": "researchLifestyle",
+      "item": null,
+      "status": "stored",
+      "note": "Left out a separate lifestyle page, a breakfast street, and a cafe street. Extras on the services index have no price."
+    },
+    {
+      "at": "2026-10-21T07:17:59.058Z",
+      "place": "my-son",
+      "stage": "researchLifestyle",
+      "item": null,
+      "status": "needs_depth",
+      "note": "The ordinary day is a morning from Hoi An: museum, cart, towers, and out before close. No breakfast street and no cafe street."
+    },
+    {
+      "at": "2026-10-21T07:17:59.009Z",
+      "place": "my-son",
+      "stage": "researchNightlife",
+      "item": null,
+      "status": "stored",
+      "note": "Left out a night street and a fixed date for Đêm Mỹ Sơn huyền thoại. The 2022 lunar date was not reused."
+    },
+    {
+      "at": "2026-10-21T07:17:58.931Z",
+      "place": "my-son",
+      "stage": "researchNightlife",
+      "item": null,
+      "status": "needs_depth",
+      "note": "The gate is daytime. The night show has no fixed 2026 date. No night street on the services index."
+    },
+    {
+      "at": "2026-10-21T07:17:58.880Z",
+      "place": "my-son",
+      "stage": "researchFood",
+      "item": null,
+      "status": "stored",
+      "note": "Left out a food guide and any dish page. No food street is published. Brand names in the surrounding essay were not picks."
+    },
+    {
+      "at": "2026-10-21T07:17:58.797Z",
+      "place": "my-son",
+      "stage": "researchFood",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Ticket rules forbid eating in the monument area. The services index has no market. A store pass can mark the bucket none."
+    },
+    {
+      "at": "2026-10-21T07:17:58.743Z",
+      "place": "my-son",
+      "stage": "researchAttractions",
+      "item": null,
+      "status": "stored",
+      "note": "Left out a separate page for each lettered group, a separate museum page, and an on-site minute count. Monument totals still disagree and were not collapsed."
+    },
+    {
+      "at": "2026-10-21T07:17:58.545Z",
+      "place": "my-son",
+      "stage": "researchAttractions",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Groups B through N, the gateway museum, and the published towers walk are in the dossier. On-site minutes are unsourced. Monument totals disagree. Separate pages are still open."
+    }
+  ]
 }
