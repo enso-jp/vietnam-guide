@@ -1,0 +1,23 @@
+# Getting there — Quy Nhon
+
+Slug: `quy-nhon`
+Checked: 21 Oct 2026. A fact with a source id was opened and is stamped verified. A line marked UNSOURCED is not.
+
+The city stays the search slug `quy-nhon`. It is not filed under `gia-lai`.
+
+Province on the pages: the tourism portal still describes tỉnh Bình Định, with Quy Nhơn as its center, and still prints the old provincial area and population (S1). On 22 Apr 2025 the government site reported a draft scheme that would merge Bình Định and Gia Lai under the name Gia Lai and put the political-administrative center at present-day TP. Quy Nhơn (S35). Nghị quyết 202/2025/QH15 is dated 12 June 2025 and concerns provincial rearrangement (S36). The clause text did not load in that page’s HTML, so a capital, an area, and a population are not taken from the resolution. The draft’s “about 21,576 km²” and “more than 3.1 million people” (S35) are not the same figures as the portal’s Bình Định sketch of 6,039.56 km² and 1,500,000 people (S1). Both are printed. Neither is rewritten into the other.
+
+- Nearest airport: Phù Cát. The portal says flights between here and Hồ Chí Minh City take 1 hour, and between here and Hà Nội take 2 hours (S1). It does not print the airport code, the kilometre from the terminal to the beach, or a bus fare. The Airports Corporation of Vietnam page did not finish loading on 21 Oct 2026. Kilometres and a city transfer: Check on arrival — UNSOURCED. A Đà Nẵng flight is not named on the portal page (S1).
+- Nearest rail station: Ga Diêu Trì is the stop on the unified north–south table (S27). Ga Quy Nhơn is not a row on that table. Extra trains SE30 and SE29 in February and March 2025 did stop at both Diêu Trì and Quy Nhơn (S26). Those dates are past. A standing Quy Nhơn-station timetable was not opened. Check on arrival.
+- From the usual previous stop: Đà Nẵng by the coast road, or Hồ Chí Minh City by air or by the reunification railway. The portal prints 300 km to Đà Nẵng and 686 km to Hồ Chí Minh City (S1). Road minutes are not printed. Check on arrival — UNSOURCED.
+
+- Mode | Duration | Note | Source
+- Air, Hồ Chí Minh City–Phù Cát | 1 hour, as the portal prints it | Block time only. Transfer from the terminal to the beach: Check on arrival — UNSOURCED. | S1
+- Air, Hà Nội–Phù Cát | 2 hours, as the portal prints it | Same gap on the city transfer. | S1
+- Rail, southbound, Đà Nẵng to Diêu Trì | The table’s SE7 cells are Đà Nẵng 22:30 and Diêu Trì 04:12 the next day. SE1 cells are Đà Nẵng 13:29 the next day and Diêu Trì 18:50 the next day, counting from Hà Nội. | Columns on the southbound table are SE7, SE5, SE9, SE3, SE1. Đà Nẵng is km 791. Diêu Trì is km 1096. The HTML keywords still say “gio tau 2014”, and the header has no revision date, so these clocks are the cells on the page and not a confirmed 2026 reprint. Fares: Check on arrival — UNSOURCED. | S27
+- Rail, northbound, Sài Gòn to Diêu Trì | SE8 cells are Sài Gòn 06:00 and Diêu Trì 18:07. SE2 cells are Sài Gòn 20:35 and Diêu Trì 08:02 the next day. | Northbound columns are SE8, SE6, SE10, SE4, SE2. Diêu Trì is km 630 on this direction’s table. Same caveat on the missing revision date. | S27
+- Rail, extra SE30 / SE29, February–March 2025 only | SE30: Sài Gòn 17:50 Friday, Diêu Trì 07:40, Quy Nhơn 08:05 Saturday. SE29: Quy Nhơn 15:30 Sunday, Diêu Trì 16:10, Sài Gòn 06:20 Monday. | Listed dates in 2025 only. The article sends fares to dsvn.vn and does not print one. Not a standing timetable. | S26
+- Road, Đà Nẵng or Hồ Chí Minh City | Kilometres: 300 km and 686 km (S1). Minutes: Check on arrival — UNSOURCED. | The portal also prints 1,065 km from Hà Nội. | S1
+
+- Getting around on site: The city beach is a walk from the center (S3). The night piece sends horse carts out from Xuân Diệu near Nguyễn Tất Thành square, along Xuân Diệu or An Dương Vương (S24). The fare is not printed. Check on arrival — UNSOURCED. Hải Minh is about 15 minutes by boat from bến Hàm Tử (S21). The boat fare is not printed. Kỳ Co is nearly 25 km in the Nhơn Lý prose, and the page does not split road time from boat time (S17). A motorbike fare and a taxi fare from Diêu Trì or Phù Cát: Check on arrival — UNSOURCED.
+- Season limit on the journey: The portal’s climate line is an average of 27.4°C and 1,935 mm of rain, not a month-by-month visitor calendar (S1). Eo Gió’s own page says the calm window is lunar month 3 through the end of lunar month 9, and to stay away when the sea is rough (S16). A solar “best month” table for the city beach was not on these pages. Check on arrival — UNSOURCED. Do not copy a season off the corridor page.
