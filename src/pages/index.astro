@@ -125,37 +125,45 @@ const jsonLd = {
 
     <section class="home-section region-stage" data-region-stage>
       <h2>Regions of Vietnam</h2>
-      <VietnamMap variant="home" active={activeRegion} />
-      <div class="region-rails">
-        {corridors.map((corridor) => {
-          const places = placesInCorridor(corridor.slug).slice(0, 6);
-          if (!places.length) return null;
-          return (
-            <div class="region-rail" data-carousel data-region-card={corridor.slug} hidden={corridor.slug !== activeRegion}>
-              <div class="region-row" data-carousel-row tabindex="0" aria-label={`${corridor.name} places`}>
-                {places.map((place) => (
-                  <a class="region-shot" href={placePath(place)}>
-                    <Photo id={place.slug} alt="" cover={place.cover} />
-                    <span>{place.name}</span>
+      <div class="region-frame">
+        <VietnamMap variant="home" active={activeRegion} />
+        <div class="region-explore">
+          {corridors.map((corridor) => {
+            const places = placesInCorridor(corridor.slug).slice(0, 6);
+            return (
+              <div class="region-card" data-region-card={corridor.slug} hidden={corridor.slug !== activeRegion}>
+                {places.length > 0 && (
+                  <div class="region-rail" data-carousel>
+                    <div class="region-row" data-carousel-row tabindex="0" aria-label={`${corridor.name} photos`}>
+                      {places.map((place) => (
+                        <a class="region-shot" href={placePath(place)}>
+                          <Photo id={place.slug} alt="" cover={place.cover} />
+                          <span>{place.name}</span>
+                        </a>
+                      ))}
+                    </div>
+                    <button class="rail-arrow rail-prev" type="button" data-carousel-prev aria-label="Previous">‹</button>
+                    <button class="rail-arrow rail-next" type="button" data-carousel-next aria-label="Next">›</button>
+                  </div>
+                )}
+                <p class="explore-kicker">Explore</p>
+                <h3>
+                  <a href={`/destinations/${corridor.slug}`} data-region={corridor.slug}>
+                    <span>{corridor.name}</span>
+                    <span class="region-arrow" aria-hidden="true"></span>
                   </a>
-                ))}
+                </h3>
+                <p>{corridor.summary}</p>
               </div>
-              <button class="rail-arrow rail-prev" type="button" data-carousel-prev aria-label="Previous">‹</button>
-              <button class="rail-arrow rail-next" type="button" data-carousel-next aria-label="Next">›</button>
-            </div>
-          );
-        })}
+            );
+          })}
+        </div>
       </div>
-      <div class="region-explore">
+      <p class="home-actions">
         {corridors.map((corridor) => (
-          <div class="region-card" data-region-card={corridor.slug} hidden={corridor.slug !== activeRegion}>
-            <p class="explore-kicker">Explore</p>
-            <h3><a href={`/destinations/${corridor.slug}`} data-region={corridor.slug}>{corridor.name}</a></h3>
-            <p>{corridor.summary}</p>
-          </div>
+          <a class="pill pill-go" href={`/destinations/${corridor.slug}`} data-region-card={corridor.slug} hidden={corridor.slug !== activeRegion}>See all destinations</a>
         ))}
-      </div>
-      <p class="home-actions"><a class="pill" href="/destinations">See all destinations</a></p>
+      </p>
     </section>
 
     <section class="home-section">

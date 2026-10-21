@@ -454,7 +454,8 @@ p { margin: 0.55rem 0; }
 .panel h2 { margin-top: 0; font-size: 1.05rem; }
 .partner small, .ad-slot small { color: var(--muted); display: block; margin-bottom: 0.35rem; }
 .map-svg { width: 100%; height: auto; background: transparent; display: block; overflow: visible; }
-.map-svg path { stroke: #314034; stroke-width: 1.15; stroke-linejoin: round; }
+.map-svg path { fill: #c9d8b6; stroke: #fff; stroke-width: 1.6; stroke-linejoin: round; }
+.map-home path { fill: transparent; stroke-width: 2.5; }
 .map-svg a path, .map-svg g path { transition: fill 0.15s ease; }
 .map-svg a:hover path,
 .map-svg a:focus-visible path,
@@ -837,9 +838,58 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   overflow: hidden;
 }
 .region-explore h3 { margin: 0.15rem 0 0.35rem; font-size: 1.45rem; }
-.region-explore h3 a { color: var(--ink); text-decoration: none; }
+.region-explore h3 a {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  color: var(--ink);
+  text-decoration: none;
+}
+.region-explore h3 a::before {
+  content: "";
+  width: 0;
+  height: 0;
+  border-top: 0.34rem solid transparent;
+  border-bottom: 0.34rem solid transparent;
+  border-left: 0.5rem solid var(--lacquer);
+  flex: 0 0 auto;
+}
 .region-explore h3 a:hover { color: var(--lacquer); }
+.region-explore h3 a > span:first-of-type { flex: 1; min-width: 0; }
+.region-arrow {
+  width: 0.48rem;
+  height: 0.48rem;
+  margin-left: auto;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(-45deg);
+  flex: 0 0 auto;
+}
+.pill-go::after {
+  content: "";
+  width: 0.42rem;
+  height: 0.42rem;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(-45deg);
+}
 .region-explore p { max-width: 40rem; }
+.region-card {
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 12px 32px rgba(22, 22, 22, 0.12);
+  padding: 0.7rem 0.7rem 0.95rem;
+}
+.region-card p { max-width: none; }
+.region-card .region-rail { margin: 0 0 0.8rem; }
+.region-card .region-row { gap: 0; }
+.region-card .region-shot { flex-basis: 100%; }
+.region-card .region-shot,
+.region-card .region-shot img,
+.region-card .region-shot .cover,
+.region-card .region-shot .cover svg { height: 12rem; }
+.region-card .rail-prev { left: 0.45rem; }
+.region-card .rail-next { right: 0.45rem; }
 .region-rail { position: relative; margin: 0.4rem 0 0.9rem; }
 .region-row {
   display: flex;
@@ -1188,21 +1238,20 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
 .plan-icon {
   display: grid;
   place-items: center;
-  width: 2.2rem;
-  height: 2.2rem;
+  width: 2.4rem;
+  height: 2.4rem;
   margin-bottom: 0.55rem;
-  border-radius: 10px;
-  background: #fff5f5;
 }
 .plan-icon .icon {
-  width: 1.2rem;
-  height: 1.2rem;
+  width: 2.15rem;
+  height: 2.15rem;
   fill: none;
   stroke: var(--lacquer);
-  stroke-width: 1.6;
+  stroke-width: 1.65;
   stroke-linecap: round;
   stroke-linejoin: round;
 }
+.plan-icon .icon circle { fill: var(--lacquer); stroke: none; }
 .plan-row strong { display: block; color: var(--ink); }
 .plan-row span { display: block; margin-top: 0.2rem; color: var(--muted); font-size: 0.9rem; }
 .section { padding: 0.5rem 0 1.5rem; }
@@ -1343,36 +1392,28 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   #stories .story-row .media .cover,
   #stories .story-row .media .cover svg,
   #stories .story-row .media .cover { height: 9.5rem; }
-  .region-stage {
-    display: grid;
-    grid-template-columns: minmax(16rem, 22rem) minmax(0, 1fr);
-    column-gap: 1.25rem;
-    align-items: start;
+  .region-frame {
+    position: relative;
+    background: #d5e6ee;
+    border-radius: 18px;
   }
-  .region-stage > h2,
-  .region-stage > .region-rails,
-  .region-stage > .home-actions { grid-column: 1 / -1; }
-  .region-stage > .map-svg {
-    grid-column: 2;
-    grid-row: 2;
-    width: min(100%, 34rem);
-    justify-self: end;
+  .region-frame .map-svg {
+    width: min(52rem, 82%);
+    margin-left: auto;
+    display: block;
   }
   .region-explore {
-    grid-column: 1;
-    grid-row: 2;
-    z-index: 1;
-    align-self: start;
-    margin-top: 1.25rem;
+    position: absolute;
+    z-index: 2;
+    left: 1.15rem;
+    top: 34%;
+    width: min(30rem, 42%);
+    margin: 0;
   }
-  .region-card {
-    background: #fff;
-    border-radius: 16px;
-    box-shadow: 0 12px 32px rgba(22, 22, 22, 0.1);
-    padding: 1rem 1.05rem 1.1rem;
-  }
-  .region-card p { max-width: none; }
-  .region-rails { margin-top: 0.35rem; }
+  .region-card .region-shot,
+  .region-card .region-shot img,
+  .region-card .region-shot .cover,
+  .region-card .region-shot .cover svg { height: 15.5rem; }
   .home-tile,
   .home-tile img,
   .home-tile svg,
