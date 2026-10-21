@@ -302,7 +302,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "tam-coc",
+    "stage": "researchLifestyle",
+    "item": null,
+    "at": "2026-10-21T08:32:23.146Z",
+    "by": "hourly",
+    "branch": "content/tam-coc-research-base"
+  },
   "log": [
     {
       "at": "2026-10-21T08:32:11.673Z",
