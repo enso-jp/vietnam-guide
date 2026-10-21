@@ -1,29 +1,31 @@
 /**
- * Published 2024 visitor arrivals, used only to order destinations.
- * A later pass can replace this module with the site's own traffic.
- * Places absent from `trafficVisits` have no figure and sort after the ones that do.
+ * Published 2025 visitor arrivals, used only to order destinations.
+ * The year is not printed on the page.
+ * Places absent from `trafficVisits` have no matching 2025 figure and sort after the ones that do.
  *
  * Counts are total arrivals where the published place is the same place as the page.
  * A "more than" report is stored as that floor, not a guessed total.
- * A different measure, or a province total that does not match the page, is left out.
+ * A "nearly" report is stored as the published estimate.
+ * A different measure, a partial year, or a province total that does not match the page, is left out.
+ *
+ * Left out on purpose:
+ * - Da Nang: 2025 reports are lodging guests served (more than 17.3 million), not total arrivals.
+ * - Phu Quoc: VnExpress, 30 Dec 2025, is about 7.6 million through November only.
+ * - Nha Trang: Khanh Hoa’s 16.4 million (National Authority of Tourism statistics, 31 Dec 2025) is the province, not the city page.
+ * - An Giang’s 24.1 million is the merged province, not Phu Quoc or Chau Doc.
  */
 
-export const trafficYear = 2024;
-export const trafficByline = 'By 2024 visitor arrivals';
-
 export const trafficVisits: Record<string, number> = {
-  // VietnamPlus, 3 Jan 2025: 6.1 million foreign and 38 million domestic in 2024.
-  'ho-chi-minh-city': 44_100_000,
-  // VietnamPlus, 3 Jan 2025: 6.35 million foreign and 21.51 million domestic, "nearly 28 million".
-  hanoi: 27_860_000,
-  // VnExpress, 1 Jan 2025: Ninh Binh, more than 8.7 million in 2024.
-  'ninh-binh': 8_700_000,
-  // Cần Thơ party site: 6,366,000 visitor arrivals in 2024.
-  'can-tho': 6_366_000,
-  // Tuổi Trẻ, 29 Nov 2024, citing the Kiên Giang tourism department: Phú Quốc, 5,969,528.
-  'phu-quoc': 5_969_528,
-  // chinhphu.vn, 29 Dec 2024: visitors to Huế, more than 4 million in 2024.
-  hue: 4_000_000,
+  // VnExpress, 30 Dec 2025, citing the Vietnam National Authority of Tourism: Ho Chi Minh City, more than 53.5 million.
+  'ho-chi-minh-city': 53_500_000,
+  // Same article: Hanoi, 33.7 million.
+  hanoi: 33_700_000,
+  // Ninh Binh Department of Tourism, 13 Jan 2026: nearly 19.42 million in 2025.
+  'ninh-binh': 19_420_000,
+  // Tuổi Trẻ, 15 Jan 2026, from the Can Tho Department of Culture, Sports and Tourism year-end conference: nearly 11.2 million.
+  'can-tho': 11_200_000,
+  // Nhân Dân, 19 Dec 2025, from the city’s National Tourism Year wrap-up: more than 6.3 million.
+  hue: 6_300_000,
 };
 
 export function visitsFor(slug: string): number | null {

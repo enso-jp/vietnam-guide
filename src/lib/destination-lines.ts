@@ -1,0 +1,37 @@
+/**
+ * One plain reason to go, shown only in the destinations index region lists.
+ * Each line restates a fact already on that place. It is not stored in place JSON.
+ */
+export const destinationLines: Record<string, string> = {
+  'buon-ma-thuot': 'The robusta coffee capital of the central highlands.',
+  'can-tho': 'The Mekong city, and dawn boats at Cai Rang.',
+  'cao-bang': 'Ban Gioc Falls, with the city as the base for the geopark.',
+  'cat-ba': 'An island night on the edge of Ha Long and Lan Ha.',
+  'cham-islands': 'A morning boat to the forested island off Hoi An.',
+  'chau-doc': 'The Hậu river and the temples at Núi Sam.',
+  'cu-chi': 'Wartime tunnels, a half-day from the city.',
+  'da-lat': 'Cool air, pine ridges, and Xuan Huong Lake.',
+  'da-nang': 'My Khe beach, with the sea at the end of the bed.',
+  'dak-nong': 'A geopark of reservoirs, waterfalls, and lava tubes.',
+  'dong-hoi': 'Sand at the Nhật Lệ mouth, with the caves a separate day.',
+  'gia-lai': 'Volcanic lakes, tea rows, and gong culture around Pleiku.',
+  'ha-giang': 'A mountain road of passes, markets, and autumn buckwheat.',
+  'ha-long': 'A day boat or an overnight cruise through the karst.',
+  hanoi: 'The capital, with the Old Quarter and Hoan Kiem Lake.',
+  'ho-chi-minh-city': 'The largest city, with the Opera House and Ben Thanh Market.',
+  'hoi-an': 'Timber streets and the covered bridge after dark.',
+  hue: 'The Imperial City on the Perfume River.',
+  'kon-tum': 'A wooden church, the Kon Klor bridge, and Ba Na villages.',
+  'lang-co': 'A long curve of sand under the Hai Van ridge.',
+  'mai-chau': 'Rice fields and stilt houses, a short trip west of Hanoi.',
+  'mang-den': 'A pine plateau, with Pa Sy waterfall and Dak Ke lake.',
+  'mui-ne': 'A beach strip known for kites and red dunes.',
+  'my-son': 'Cham brick towers in a valley, a morning from Hoi An.',
+  'nha-trang': 'A long city beach and boat trips to the islands.',
+  'ninh-binh': 'Karst and rice fields south of Hanoi.',
+  'phong-nha': 'A boat down the Son River and into the cave.',
+  'phu-quoc': 'Sunset beaches on an island in the Gulf of Thailand.',
+  sapa: 'Rice terraces, market days, and Fansipan.',
+  'tam-coc': 'A boat through low caves on the Ngo Dong River.',
+  'vung-tau': 'Back Beach and the Christ figure on the peninsula.',
+};
