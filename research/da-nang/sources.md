@@ -235,3 +235,21 @@ Accessed 20 Oct 2026 unless a page states its own date.
 - Publisher: Danang Fantasticity, 16 Aug 2024
 - Accessed: 21 Oct 2026
 - Supports: Da Nang Downtown described as a rebrand of Asia Park, launched June 2024. Symphony of River at 20:30 daily. The same page says the show runs 45 minutes and that a firework section runs seven minutes. Awaken River at 17:45. Puppet shows at 18:30 and 20:00. Vui Fest described as more than 50 stalls on about 1,200 m². No street number and no ticket price. Those clocks are one page. Slogans, a restaurant name, and drink brands on the page were not copied.
+
+### S40
+- URL: https://danang.gov.vn/vi/w/cau-song-han-niem-tu-hao-cua-nguoi-dan-da-nang-i
+- Publisher: Da Nang city portal
+- Accessed: 21 Oct 2026
+- Supports: Han swing bridge started 2 Sep 1998, opened 29 Mar 2000, 487.7 m by 12.9 m, 11 spans plus two cable-stayed spans totaling 122.7 m. The same page says the middle turns about 01:00 and is back about 04:00, and that large boats rarely pass now so turns are mostly maintenance. This disagrees with the tourism portal’s 23:00 clocks. Thuận Phước on the same page: opened 19 Jul 2009, 1,856 m, suspension span 655 m, connecting Nguyễn Tất Thành with Hoàng Sa – Trường Sa. Slogans on the page were not copied.
+
+### S41
+- URL: https://giaoxuchinhtoadanang.org/tu-ngay-01-01-2023-thay-doi-gio-tham-quan-tai-nha-tho-chinh-toa-da-nang/
+- Publisher: Giáo xứ Chính Tòa Đà Nẵng, notice dated 28 Dec 2022
+- Accessed: 21 Oct 2026
+- Supports: From 1 Jan 2023, cathedral visitors Monday to Saturday, 08:00–11:30 and 13:30–16:30. Modest dress. No fee and no street on this notice. Sunday is not in the window.
+
+### S42
+- URL: https://giaoxuchinhtoadanang.org/giao-xu-chinh-toa/
+- Publisher: Giáo xứ Chính Tòa Đà Nẵng, about page dated 8 Mar 2014
+- Accessed: 21 Oct 2026
+- Supports: Church built 1923. Address printed as 156 Trần Phú. The phone prefix on that page is old and is not published.

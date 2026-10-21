@@ -12,12 +12,13 @@ Checked: 21 Oct 2026
 
 ## Fee
 
-- UNSOURCED. Check on arrival. The parish page prints no fee.
+- UNSOURCED. Check on arrival. The 28 Dec 2022 parish notice prints no fee (S41). The 2015 tourism page prints none either.
 
 ## Hours
 
-- UNSOURCED. The parish page prints no timetable. A paid tour window is not the parish clock and was not copied.
-- Street number: UNSOURCED
+- Parish notice, 28 Dec 2022, in force from 1 Jan 2023: Monday to Saturday, 08:00–11:30 and 13:30–16:30. Modest, formal dress. Sunday is not in that visitor window (S41).
+- The 15 Sep 2015 tourism parish page prints no timetable. Keep that disagreement. Do not copy a tour window.
+- Street: the parish about page, 8 Mar 2014, prints 156 Trần Phú (S42). The 2015 tourism page prints no number. Use 156 Trần Phú and confirm the door. The 2014 phone prefix is old. Do not publish the phone.
 
 ## Photos
 

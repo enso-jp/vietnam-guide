@@ -1,6 +1,6 @@
 # Side trips
 
-Checked: 20 Oct 2026
+Checked: 21 Oct 2026. Cham Islands and Lang Co stay placeholders. No new place file.
 
 ### Hoi An
 - Slug if it exists: `hoi-an`

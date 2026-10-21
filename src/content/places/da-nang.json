@@ -86,11 +86,11 @@
   ],
   "interestsBody": [
     "Dining starts with mi Quang, the breakfast street, and seafood on the beach road. The food guide is the menu.",
-    "Beach lifestyle is the evening on the sand: Kalà Kalà, East West, and a coffee facing the water.",
+    "Beach lifestyle is the evening on the sand. Kalà Kalà is at 51 Vo Nguyen Giap, and East West faces the water. A coffee is that same sand. There is no separate photograph of either room, or of a beachfront coffee.",
     "Beach sports are the boards, the paddle, the basket boats, and the other hire on My Khe. The price is check on arrival.",
-    "Nightlife is An Thuong, the lanes just inland. The photograph is one doorway on An Thuong 4, not the whole grid.",
-    "Culture is the Cham Museum on the river, and the cathedral when you want the pink church on the same morning.",
-    "The river walk is Bach Dang: coffee, a young coconut, the swing bridge late, and Han Market when you want the hall."
+    "Nightlife is An Thuong, the lanes just inland of those four streets. The photograph is one doorway on An Thuong 4, not the whole grid.",
+    "Culture is the Cham Museum, the rooster church, the Marble Mountains, and Linh Ung on Son Tra. Each opens on its own photograph.",
+    "The river walk is Bach Dang for coffee, a young coconut, and the promenade, then the swing bridge and Han Market. Coconut is that walk, not a separate venue."
   ],
   "interestCards": [
     {
@@ -134,6 +134,128 @@
       "attractionSlug": "bach-dang",
       "photo": "da-nang-bach-dang",
       "icon": "view"
+    }
+  ],
+  "interestGroups": [
+    {
+      "title": "Dining and F&B",
+      "summary": "The food guide: mi Quang, the breakfast street, and seafood on the beach road.",
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "Mi Quang, the breakfast street, and seafood on the beach road.",
+          "photo": "mi-quang",
+          "icon": "food",
+          "to": "food"
+        }
+      ]
+    },
+    {
+      "title": "Beach lifestyle",
+      "summary": "Kalà Kalà, East West, and a coffee on the sand. The rooms have no licensed photograph.",
+      "cards": [
+        {
+          "title": "Kalà Kalà and East West",
+          "summary": "Free entry at 51 Vo Nguyen Giap. East West is 08:00 to 01:00, and its street is check on arrival.",
+          "attractionSlug": "beachfront",
+          "photo": "da-nang-beachfront",
+          "icon": "beach"
+        },
+        {
+          "title": "The My Khe sand",
+          "summary": "The shore those doors face. The swim, the buoys, and the rescue clock are on this page.",
+          "attractionSlug": "my-khe",
+          "photo": "da-nang-my-khe",
+          "icon": "beach"
+        }
+      ]
+    },
+    {
+      "title": "Beach sports",
+      "summary": "Boards, paddle craft, and basket boats. Hire prices are check on arrival.",
+      "cards": [
+        {
+          "title": "Sports on My Khe",
+          "summary": "The 2016 list: surf, skurfing, jet ski, sailing, parasailing, snorkeling, basket boats, and kayaks.",
+          "attractionSlug": "beach-sports",
+          "photo": "da-nang-beach-sports",
+          "icon": "beach"
+        }
+      ]
+    },
+    {
+      "title": "Nightlife",
+      "summary": "The An Thuong lanes. The clubs on the sand stay under Beach lifestyle.",
+      "cards": [
+        {
+          "title": "An Thuong",
+          "summary": "The four-street quarter inland from My Khe. The frame is one doorway on An Thuong 4.",
+          "attractionSlug": "an-thuong",
+          "photo": "da-nang-an-thuong",
+          "icon": "drink"
+        }
+      ]
+    },
+    {
+      "title": "Culture",
+      "summary": "The museum, the rooster church, the hills, and Linh Ung.",
+      "cards": [
+        {
+          "title": "Cham Museum",
+          "summary": "Sandstone from My Son and the other Cham sites, on the river.",
+          "attractionSlug": "cham-museum",
+          "photo": "da-nang-cham-museum",
+          "icon": "museum"
+        },
+        {
+          "title": "Rooster church",
+          "summary": "The pink cathedral. Visitors Monday to Saturday, 08:00 to 11:30 and 13:30 to 16:30.",
+          "attractionSlug": "cathedral",
+          "photo": "da-nang-cathedral",
+          "icon": "museum"
+        },
+        {
+          "title": "Marble Mountains",
+          "summary": "Climb Thuy Son. The hill ticket is separate from the elevator and from Am Phu.",
+          "attractionSlug": "marble-mountains",
+          "photo": "da-nang-marble-mountains",
+          "icon": "view"
+        },
+        {
+          "title": "Linh Ung, Son Tra",
+          "summary": "The 67 meter Quan The Am on the peninsula. No published fee or gate hour.",
+          "attractionSlug": "son-tra",
+          "photo": "da-nang-son-tra",
+          "icon": "view"
+        }
+      ]
+    },
+    {
+      "title": "River walk",
+      "summary": "Coffee and coconut on the promenade, the bridge that turns, and Han Market.",
+      "cards": [
+        {
+          "title": "Bach Dang",
+          "summary": "The promenade for a coffee and a young coconut. Cafe hours are check on arrival.",
+          "attractionSlug": "bach-dang",
+          "photo": "da-nang-bach-dang",
+          "icon": "view"
+        },
+        {
+          "title": "Swing bridge",
+          "summary": "The Han bridge that turns. The tourism page says 23:00. The city portal says about 01:00.",
+          "attractionSlug": "han-swing-bridge",
+          "photo": "da-nang-han-swing-bridge",
+          "icon": "view"
+        },
+        {
+          "title": "Han Market",
+          "summary": "The hall by the river. One page prints 06:00 to 19:00. A later page prints no clock.",
+          "attractionSlug": "han-market",
+          "photo": "da-nang-han-market",
+          "icon": "food"
+        }
+      ]
     }
   ],
   "season": {

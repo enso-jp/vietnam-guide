@@ -95,7 +95,7 @@ Checked: 20 Oct 2026
 - Local interest: Beach night
 - Suggested slug: an-thuong
 - Suggested dot: 4 — the night that belongs with My Khe, not a separate day
-- Photo must show: the beachfront the streets open onto, umbrellas and the resort towers, subject centered. A night photo of the An Thuong streets themselves is still missing. Do not pretend a beach frame is the alley.
+- Photo must show: the lanes after dark, more than one lit front. The only licensed frame is one doorway on An Thuong 4 (Saga Da Nang venue exterior, CC0). It is a single front, not the grid. A second lane frame is still missing. Do not use the My Khe beach, and do not use the welcome-sign stele.
 - Sources: S23, S24, S25
 
 ### Marble Mountains
@@ -205,8 +205,8 @@ Checked: 20 Oct 2026
 - When to go: Morning to lunch. Hours of individual counters — Check on arrival, UNSOURCED
 - Mistake to avoid: Collecting a list of stall names. The busy counter is the guide.
 - Local interest: Food guide
-- Suggested slug: no market page. The food guide carries them.
-- Suggested dot: do not add a record in the copy pass
+- Suggested slug: `han-market` is the sight page. Con Market stays on the food guide. No second Con page.
+- Suggested dot: already published — do not change
 - Photo must show: a market aisle or a bowl, not a shop sign as the subject
 - Sources: S19, S20, S21
 
@@ -248,6 +248,102 @@ Districts that deserve their own page:
 - The Marble Mountains / Non Nuoc ward, only if the hill and the carving village are split. Not in this copy pass.
 - My Khe is an area, not a district page, until the beach has more than one sight.
 
+### Da Nang Cathedral
+- Vietnamese name: Nhà thờ Chính tòa Đà Nẵng (Nhà thờ Con Gà)
+- Kind: sight
+- Area: Center, near the river
+- What the visitor does: Look at the pink Gothic front and the rooster on the roof. Built 1923, nearly 70 m, under Father Louis Vallet. The parish’s Vietnamese page says the bird is Peter, not a French emblem. The official parish name dates from 1963.
+- Time: A short look
+- Fee: Check on arrival — UNSOURCED. The parish notice prints no fee.
+- From the base: The parish’s own about page, 8 Mar 2014, prints 156 Trần Phú (S42). The 15 Sep 2015 tourism parish page prints no street number. Use the parish address and confirm the door.
+- When to go: The parish notice of 28 Dec 2022, in force from 1 Jan 2023, sets visitor hours Monday to Saturday, 08:00–11:30 and 13:30–16:30, and asks for modest dress (S41). Sunday is not in that visitor window. The 2015 tourism page prints no timetable. Do not copy a tour company’s window.
+- Mistake to avoid: Treating the 2015 tourism page’s silence as “no hours exist.” The parish later printed a window. A fee is still unpublished.
+- Local interest: Culture
+- Suggested slug: cathedral
+- Suggested dot: already published — do not change
+- Photo must show: the pink facade, rose window, and rooster, whole in the frame
+- Sources: S41, S42, and the 15 Sep 2015 tourism parish page already on the attraction file
+
+### Han Swing Bridge
+- Vietnamese name: Cầu quay Sông Hàn
+- Kind: sight
+- Area: Han River, Le Duan–Tran Phu to Pham Van Dong
+- What the visitor does: Stand on the bank and watch the middle span turn for ships. Opened 29 Mar 2000. Length 487.7 m, width 12.9 m, 11 spans, plus two cable-stayed spans totaling 122.7 m (S40).
+- Time: A late look. A timed visit length is UNSOURCED.
+- Fee: No ticket from the bank on the tourism bridge page.
+- From the base: Walk from a river hotel to the Le Duan–Tran Phu junction. Minutes from My Khe are Check on arrival — UNSOURCED.
+- When to go: The tourism bridge page prints Saturday and Sunday 23:00–midnight for visitors, and also says the span turns about 23:00 every night for ships. A later key-times page names only the weekend. The city portal says about 01:00, back about 04:00, and that large boats rarely pass now so turns are mostly maintenance (S40). Print all three. Do not replace 23:00 with 01:00.
+- Mistake to avoid: Promising a weeknight turn, or copying the portal’s slogan about having to see the turn.
+- Local interest: River walk
+- Suggested slug: han-swing-bridge
+- Suggested dot: already published — do not change
+- Photo must show: the lit bridge from the bank. The frame does not show the span mid-turn.
+- Sources: S40, and the tourism bridge page already on the attraction file
+
+### Beach sports on My Khe
+- Vietnamese name: Thể thao biển Mỹ Khê
+- Kind: sight
+- Area: My Khe sand
+- What the visitor does: Hire a board or a boat on the sand. The 19 Jan 2016 tourism page names surfboards, skurfing, jet skis, sailing, parasailing, snorkeling and diving, basket-boat racing, and kayaks.
+- Time: A session. Lesson length on the surf-school pages is about 2 hours.
+- Fee: Check on arrival — UNSOURCED. The English page’s “Price: 01 USD” is a stub and is not published.
+- From the base: On the sand if you slept at My Khe. The 30 May 2017 Vietnamese surf-school page says Võ Nguyên Giáp, inside Temple Danang, 08:00–17:00. The 25 Oct 2016 English page says 119 Trần Phú and also points to Võ Nguyên Giáp. The addresses disagree.
+- When to go: Inside the hours the operator posts that day. The two school pages do not agree on the door.
+- Mistake to avoid: Publishing the old company phone list as picks.
+- Local interest: Beach sports
+- Suggested slug: beach-sports
+- Suggested dot: already published — do not change
+- Photo must show: the sports shade on the sand, or basket boats. Not the resort-tower swim used for My Khe.
+- Sources: the three pages on `research/da-nang/attractions/beach-sports.md`
+
+### My Khe beachfront
+- Vietnamese name: Mặt tiền Mỹ Khê
+- Kind: sight
+- Area: The sand in front of the resorts
+- What the visitor does: Spend the evening at the club and the taproom on the sand, or take a coffee facing the water. Kalà Kalà is at 51 Võ Nguyên Giáp, entry free, closing listed as both midnight and 02:00 (S23). East West is 08:00–01:00, and that page prints no street (S24).
+- Time: An evening
+- Fee: Kalà Kalà entry is free. A drink is Check on arrival — UNSOURCED.
+- From the base: Walk from a My Khe hotel to 51 Võ Nguyên Giáp. East West’s number is Check on arrival.
+- When to go: After the swim, before An Thuong. Confirm Kalà Kalà’s closing hour that night.
+- Mistake to avoid: Using this page as a ranked bar list, or pretending the beach photograph is the inside of either room.
+- Local interest: Beach lifestyle
+- Suggested slug: beachfront
+- Suggested dot: already published — do not change
+- Photo must show: the sand those doors face. No licensed photograph of either room was found.
+- Sources: S23, S24
+
+### Thuan Phuoc Bridge
+- Vietnamese name: Cầu Thuận Phước
+- Kind: sight
+- Area: Where the Han meets the bay
+- What the visitor does: Cross or look at the suspension bridge. Opened to traffic 19 Jul 2009. Length 1,856 m, suspension span 655 m (S40). It is a road, not a show.
+- Time: A crossing. A viewing duration is UNSOURCED.
+- Fee: No ticket published. Check on arrival only if a viewpoint later charges — none is printed.
+- From the base: The Vietnamese pages connect Nguyễn Tất Thành with Hoàng Sa – Trường Sa (S40 and the tourism page). The English tourism page says Võ Nguyên Giáp. Keep both.
+- When to go: Daylight, so the span reads. No viewing hour is published.
+- Mistake to avoid: Calling it the longest of anything. That line was dropped.
+- Local interest: A road bridge on the way to Son Tra. Not a night.
+- Suggested slug: thuan-phuoc
+- Suggested dot: already published — do not change
+- Photo must show: the span, close enough to read as a bridge
+- Sources: S40, and the two tourism pages on `research/da-nang/attractions/thuan-phuoc.md`
+
+### Bach Dang promenade
+- Vietnamese name: Đường Bạch Đằng
+- Kind: sight
+- Area: West bank of the Han, Hai Chau
+- What the visitor does: Walk the promenade. Coffee and a young coconut are the stop. The 14 Sep 2016 tourism page calls it one of eight tourist streets, busy early morning and late afternoon, and crowded on dragon weekends (S37). No cafe door hour is printed.
+- Time: A walk
+- Fee: No ticket for the path.
+- From the base: Walk if you slept on the river. A ride from My Khe. Minutes Check on arrival — UNSOURCED.
+- When to go: Early morning, late afternoon, or a weekend evening if the dragon is the reason.
+- Mistake to avoid: Publishing 2016 shop names as picks.
+- Local interest: River walk
+- Suggested slug: bach-dang
+- Suggested dot: already published — do not change
+- Photo must show: the promenade and the river. A crop that is only towers fails the walk. The best frame still shows more tower than path.
+- Sources: S37
+
 ## Nightlife and evening
 
 Checked: 21 Oct 2026. Streets a traveler walks after dark. Pins are not a ranked bar list. No prices and no scores.
@@ -265,7 +361,7 @@ Checked: 21 Oct 2026. Streets a traveler walks after dark. Pins are not a ranked
 - Scene landmarks, if any, with a primary URL: Kalà Kalà Beach Club, 51 Võ Nguyên Giáp, on the sand, free entry, closing listed as both midnight and 02:00 (S23, https://kalakala.vn is the site already in S23). East West Brewing beachfront taproom, 08:00–01:00, no street on the page (S24, https://eastwestbrewing.vn/taproom/da-nang). These two orient the sand. They are not the lanes.
 - Suggested slug: an-thuong
 - Suggested dot: already published — do not change
-- Photo must show: the lanes after dark, more than one lit front in the frame. A daylight beach frame is Mỹ Khê, not this walk. That night frame is still missing.
+- Photo must show: the lanes after dark, more than one lit front. The only licensed frame is one doorway on An Thuong 4. A second frame of the grid is still missing. Do not reuse the beach.
 - Sources: S23, S24, S25, S38
 
 ### Han River evening
@@ -330,7 +426,7 @@ Checked: 21 Oct 2026. An ordinary day if you slept in Da Nang. Areas, not a hote
 - What a day here actually is: The river walk and the cafe hour, if you slept on the Han. The 14 Sep 2016 tourism-portal page, citing the deputy director of the Department of Tourism, calls Bạch Đằng one of the city’s eight main tourist streets, with cafés along the promenade. It says local people exercise and stroll there in the early morning and the late afternoon. On weekends the same page says the sidewalk fills when the dragon breathes fire at the east end of the bridge. Shop names on that page are wayfinding from 2016. Do not publish as a pick. No cafe hour is printed. A single door’s opening time is Check on arrival — UNSOURCED.
 - When: Early morning or late afternoon for the walk. Weekend evening if the dragon show is the reason (S9, S37).
 - Area: Bạch Đằng, along the Han, Hải Châu. Hàn Market sits on this side of the river (S28).
-- Suggested slug: no separate page. The place and the Dragon Bridge page carry the walk.
+- Suggested slug: `bach-dang`. The walk is its own page. Cafe door hours stay check on arrival.
 - Photo must show: the promenade, the river, and people or cafe tables in one frame. A crop that is only the bridge is the bridge.
 - Sources: S9, S28, S37
 
