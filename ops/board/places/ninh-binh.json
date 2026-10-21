@@ -158,6 +158,13 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "ninh-binh",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-21T08:18:32.576Z",
+    "by": "hourly",
+    "branch": "cursor/ninh-binh-research-base"
+  },
   "log": []
 }
