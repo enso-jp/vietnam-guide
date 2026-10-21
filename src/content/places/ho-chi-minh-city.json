@@ -92,7 +92,7 @@
     },
     {
       "title": "Shopping",
-      "summary": "Conical hats, lacquer, and weasel coffee inside Ben Thanh. The two published clocks do not match.",
+      "summary": "Conical hats and lacquer in Ben Thanh, and a downtown mall on Lê Thánh Tôn. The published clocks do not match.",
       "blocks": [
         {
           "id": "ben-thanh",
@@ -101,6 +101,15 @@
           "paragraphs": [
             "The city tourism plan puts the main door on Quách Thị Trang Square, the north gate on Lê Thánh Tôn, the east gate on Phan Bội Châu, and the west gate on Phan Chu Trinh. It says the market was established in 1914, on 13,056 m², and it prints 07:00 to 19:00 every day, with a night market from 19:00 to 24:00. Vietnam Tourism’s attractions page prints a different clock, 07:30 to 12:00 and 13:30 to 17:00, and the address 32-30 Phan Bội Châu. Admission on that page is free. The hours are check on arrival until the two pages agree.",
             "That Vietnam Tourism page says the aisles sell fresh produce, conical hats, weasel coffee, and lacquerware. The food stalls at the end of the hall are a meal, and they stay on the food guide. No stall price is printed. Agree a figure before you pay. The price is check on arrival."
+          ]
+        },
+        {
+          "id": "vincom-dong-khoi",
+          "heading": "Vincom Center Đồng Khởi",
+          "nav": "Vincom Center",
+          "paragraphs": [
+            "Vincom’s mall directory lists Vincom Center Đồng Khởi at 72 Lê Thánh Tôn, Bến Nghé ward, District 1, and prints one clock, 09:30 to 22:00. The center’s introduction page, updated 11 September 2026, gives 72 Lê Thánh Tôn and 45A Lý Tự Trọng, phường Sài Gòn. That page prints 10:00 to 22:00 every day in the short facts, and a different split in the hour table: 10:00 to 22:00 Monday to Wednesday, and 09:30 to 22:00 on the other days. The hours are check on arrival.",
+            "The introduction calls it a shopping center on the Đồng Khởi and Lê Thánh Tôn corner, with fashion and cosmetics on the upper floors. The food hall is a meal, and it stays on the food guide. No door fee is printed. Entry is check on arrival."
           ]
         }
       ],
@@ -111,6 +120,13 @@
           "attractionSlug": "ben-thanh",
           "photo": "ho-chi-minh-city-ben-thanh-aisle",
           "block": "ben-thanh"
+        },
+        {
+          "title": "Vincom Center Đồng Khởi",
+          "summary": "A shopping center at 72 Lê Thánh Tôn, on the Đồng Khởi corner. The directory prints 09:30 to 22:00. The introduction page, updated 11 September 2026, does not use that same clock. Check the board.",
+          "placeSlug": "ho-chi-minh-city",
+          "photo": "ho-chi-minh-city-vincom-dong-khoi",
+          "block": "vincom-dong-khoi"
         }
       ]
     },
