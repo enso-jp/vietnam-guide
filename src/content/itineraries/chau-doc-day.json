@@ -1,0 +1,72 @@
+{
+  "slug": "chau-doc-day",
+  "title": "Chau Doc river and mountain day",
+  "kind": "trip",
+  "level": "day",
+  "duration": "1 day",
+  "spanDays": 1,
+  "placeSlug": "chau-doc",
+  "budget": "Check on arrival",
+  "pace": "Active",
+  "photo": "chau-doc-ba-chua-xu",
+  "summary": "Breakfast at Chợ Châu Đốc, a boat among the fish rafts, the halls at Núi Sam, and the riverbank when the heat drops. Trà Sư is the other half day.",
+  "stops": [
+    {
+      "name": "Chau Doc Market",
+      "minutes": 45,
+      "placeSlug": "chau-doc",
+      "attractionSlug": "chau-doc-market",
+      "note": "Bún cá at the edge of the hall. A closing hour was not printed.",
+      "approach": {
+        "mode": "walk",
+        "note": "From a river room in phường Châu Đốc. Minutes are check on arrival."
+      }
+    },
+    {
+      "name": "Fish-raft village",
+      "minutes": 60,
+      "placeSlug": "chau-doc",
+      "attractionSlug": "fish-rafts",
+      "note": "A boat among the raft houses. The fare is check on arrival. Châu Phong is the other bank if you want the mosques instead of a second loop.",
+      "approach": {
+        "mode": "boat",
+        "note": "From the town bank. No posted minute count."
+      }
+    },
+    {
+      "name": "Ba Chua Xu Temple",
+      "minutes": 45,
+      "placeSlug": "chau-doc",
+      "attractionSlug": "ba-chua-xu",
+      "note": "The hall at the foot of Núi Sam. Come before midday outside festival season.",
+      "approach": {
+        "mode": "taxi",
+        "note": "The road is printed as both about 5 km and about 7 km. Minutes are check on arrival."
+      }
+    },
+    {
+      "name": "Tay An Pagoda",
+      "minutes": 30,
+      "placeSlug": "chau-doc",
+      "attractionSlug": "tay-an-pagoda",
+      "note": "The same foot-of-the-hill walk. The tomb is beside it if you have time.",
+      "approach": {
+        "mode": "walk",
+        "note": "From the shrine. A published walking minute was not found."
+      }
+    },
+    {
+      "name": "Hau riverfront",
+      "minutes": 40,
+      "placeSlug": "chau-doc",
+      "attractionSlug": "hau-riverfront",
+      "note": "The bank after the heat drops. There is no bar street.",
+      "approach": {
+        "mode": "taxi",
+        "note": "Back from Núi Sam. Minutes are check on arrival."
+      }
+    }
+  ],
+  "seoTitle": "Chau Doc in a day — market, rafts, Sam Mountain",
+  "seoDescription": "A Châu Đốc day: bún cá at the market, a boat among the fish rafts, the temples at Núi Sam, and the Hậu bank at dusk."
+}
