@@ -1,0 +1,147 @@
+{
+  "slug": "sapa",
+  "name": "Sapa",
+  "nameVi": "Sa Pa",
+  "corridor": "northern-vietnam",
+  "kind": "town",
+  "parent": null,
+  "publish": "live",
+  "priority": 16,
+  "note": "",
+  "coverage": {
+    "sights": "missing",
+    "areas": "missing",
+    "foodStreets": "missing",
+    "nightlife": "missing",
+    "lifestyle": "missing",
+    "events": "missing",
+    "sideTrips": "missing"
+  },
+  "stages": {
+    "destination": {
+      "status": "shell",
+      "note": "A place file exists. It has not been set up from a stored dossier.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "food": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchBase": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchAttractions": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchFood": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchNightlife": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchLifestyle": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchContext": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    }
+  },
+  "items": [
+    {
+      "id": "sapa--cat-cat",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Cat Cat",
+      "slug": "cat-cat",
+      "file": "src/content/attractions/sapa--cat-cat.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Published shell. No dossier yet.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "sapa--fansipan",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Fansipan",
+      "slug": "fansipan",
+      "file": "src/content/attractions/sapa--fansipan.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Published shell. No dossier yet.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "sapa--ta-van",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Ta Van valley",
+      "slug": "ta-van",
+      "file": "src/content/attractions/sapa--ta-van.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Published shell. No dossier yet.",
+      "updated": null,
+      "reworkCount": 0
+    }
+  ],
+  "questions": [],
+  "claim": null,
+  "log": []
+}

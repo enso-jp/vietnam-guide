@@ -1,0 +1,211 @@
+{
+  "slug": "hue",
+  "name": "Hue",
+  "nameVi": "Huế",
+  "corridor": "central-coast",
+  "kind": "city",
+  "parent": null,
+  "publish": "live",
+  "priority": 2,
+  "note": "",
+  "coverage": {
+    "sights": "missing",
+    "areas": "missing",
+    "foodStreets": "missing",
+    "nightlife": "missing",
+    "lifestyle": "missing",
+    "events": "missing",
+    "sideTrips": "missing"
+  },
+  "stages": {
+    "destination": {
+      "status": "shell",
+      "note": "A place file exists. It has not been set up from a stored dossier.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "food": {
+      "status": "shell",
+      "note": "A food file exists. It has not been set up from a stored dossier.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchBase": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchAttractions": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchFood": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchNightlife": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchLifestyle": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchContext": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    }
+  },
+  "items": [
+    {
+      "id": "hue--citadel",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Hue Citadel",
+      "slug": "citadel",
+      "file": "src/content/attractions/hue--citadel.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Published shell. No dossier yet.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hue--khiem",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Tu Duc Tomb",
+      "slug": "khiem",
+      "file": "src/content/attractions/hue--khiem.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Published shell. No dossier yet.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hue--thien-mu",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Thien Mu Pagoda",
+      "slug": "thien-mu",
+      "file": "src/content/attractions/hue--thien-mu.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Published shell. No dossier yet.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hue--dish--bun-bo-hue",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Bun bo Hue",
+      "slug": "bun-bo-hue",
+      "file": "src/content/dishes/bun-bo-hue.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hue--dish--banh-beo",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Banh beo",
+      "slug": "banh-beo",
+      "file": "src/content/dishes/banh-beo.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hue--dish--banh-mi",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Banh mi",
+      "slug": "banh-mi",
+      "file": "src/content/dishes/banh-mi.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hue--dish--com-hen",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Com hen",
+      "slug": "com-hen",
+      "file": null,
+      "source": "owner",
+      "research": "not_started",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Named in Central Coast coverage on 19 Oct 2026. No dish file yet. Source it in the Hue dossier before the food stage publishes it.",
+      "updated": null,
+      "reworkCount": 0
+    }
+  ],
+  "questions": [],
+  "claim": null,
+  "log": []
+}

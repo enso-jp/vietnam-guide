@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "updated": "2026-10-21T04:32:27.903Z",
+  "pause": false,
+  "pauseReason": "",
+  "claimStaleHours": 3,
+  "maxOpenContentPrs": 4,
+  "parallelUnits": 4,
+  "holdPlaces": [],
+  "log": [
+    {
+      "at": "2026-10-21T03:39:17.628Z",
+      "place": "",
+      "stage": "upgrade",
+      "item": null,
+      "status": "stored",
+      "note": "Split research into base, attractions, food, nightlife, lifestyle, and context. A missing lane is done before a partial one."
+    },
+    {
+      "at": "2026-10-21T03:24:23.694Z",
+      "place": "",
+      "stage": "init",
+      "item": null,
+      "status": "stored",
+      "note": "Board opened from the published JSON, the Da Nang dossier, and the Central Coast candidate list."
+    }
+  ]
+}

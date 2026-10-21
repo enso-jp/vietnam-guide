@@ -98,7 +98,7 @@ If the owner named a street and you cannot find a primary source, do not invent 
 
 ## Lanes
 
-One run does the lane `node scripts/board.mjs next` prints. It does not finish the other lanes.
+One run does the lane it claimed. It does not finish the other lanes, and it does not take a second place.
 
 | Lane | Fill this | Then set |
 |---|---|---|
@@ -113,9 +113,9 @@ Restaurant and bar names that helped you find a street go in `food.md` under `##
 
 ## Board
 
-Read `.cursor/skills/content-board/SKILL.md`. Add every entry with `node scripts/board.mjs add-item`, or `set-item` when the row exists. Set that lane’s buckets with `node scripts/board.mjs cover`. `filled` means a planning trip could use the list. `partial` does not pass. An entry that should not have its own page is still an item: set page, copy, and quality to `skipped` and put the reason in the note.
+Read `.cursor/skills/content-board/SKILL.md`. Add every entry with `node scripts/board.mjs add-item`, or `set-item` when the row exists. Set that lane’s buckets with `node scripts/board.mjs cover`. `filled` means a planning trip could use the list. The first pass must not set `filled`. Leave the bucket `partial` or `missing` and finish with `--status needs_depth`. A later pass may set `filled`. An entry that should not have its own page is still an item: set page, copy, and quality to `skipped` and put the reason in the note. An item whose source is `owner` stays page `not_started`. Research does not mark that page skipped.
 
-Store the lane with `node scripts/board.mjs complete --place <slug> --stage <lane> --status stored`. If the hour ends first, use `--status needs_depth` and name the gap. While any lane is open, `STATUS.md` says `needs depth`. It says `stored` only when the last lane is stored.
+The first pass ends with `node scripts/board.mjs complete --place <slug> --stage <lane> --status needs_depth --note` naming what is still open. A later pass may use `--status stored`, and that note must say what was left out. While any lane is open, `STATUS.md` says `needs depth`. It says `stored` only when the last lane is stored.
 
 ## Gate
 

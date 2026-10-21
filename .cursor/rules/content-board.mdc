@@ -2,6 +2,7 @@
 description: Shared content status. Use when editing a place, an attraction, a dossier, or the content board.
 globs:
   - ops/board.json
+  - ops/board/**/*.json
   - src/content/**/*
   - research/**/*
 alwaysApply: false
@@ -11,7 +12,7 @@ alwaysApply: false
 
 Read `.cursor/skills/content-board/SKILL.md` before a content pass.
 
-- `ops/board.json` is the status. Claim the unit before editing, and update it before you finish.
-- One place and one stage per run.
+- `ops/board/` is the status. One file per place. Claim that place before editing, and update it before you finish.
+- One worker takes one place and one stage. Other places may run at the same time.
 - Do not edit page templates, layout, styles, or `src/lib/partners.ts` in a content run.
 - Do not set pause or `holdPlaces`. The owner does that.
