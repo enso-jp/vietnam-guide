@@ -1,19 +1,214 @@
 ---
+import Photo from './Photo.astro';
+import { interestHref, interestLabels } from '../config/site';
+import interestPhotos from '../content/interest-photos.json';
+import {
+  attractionsForInterest,
+  corridorsNorthToSouth,
+  getGuides,
+  getItineraries,
+  itineraryPhoto,
+  placePath,
+  placesForInterest,
+  placesInCorridor,
+} from '../lib/content';
+import { photoPath } from '../lib/photos';
+import type { Itinerary } from '../lib/types';
+
 const path = Astro.url.pathname;
 const current = (href: string) => (path === href || path.startsWith(`${href}/`) ? 'page' : undefined);
 const planOn = current('/plan') || current('/get-there') || current('/itineraries') || current('/seasons');
 const interestOn = current('/interests') || current('/food');
+
+const corridors = corridorsNorthToSouth().map((corridor) => {
+  const places = placesInCorridor(corridor.slug);
+  const lead = places.find((place) => photoPath(place.slug)) ?? places[0];
+  return {
+    slug: corridor.slug,
+    name: corridor.name,
+    href: `/destinations/${corridor.slug}`,
+    places,
+    photo: lead?.slug || corridor.slug,
+    cover: lead?.cover || corridor.cover,
+  };
+});
+
+const photos = interestPhotos as Record<string, string>;
+const interestGroups: { title: string; keys: string[] }[] = [
+  { title: 'Food and the street', keys: ['food', 'markets', 'coffee', 'nightlife'] },
+  { title: 'Coast and islands', keys: ['beaches', 'islands'] },
+  { title: 'Towns and temples', keys: ['oldTowns', 'pagodas'] },
+  { title: 'Land and caves', keys: ['caves', 'rice', 'mountains'] },
+  { title: 'History and the road', keys: ['warHistory', 'photography', 'motorbike', 'family'] },
+];
+const interestColumns = interestGroups
+  .map((group) => ({
+    title: group.title,
+    items: group.keys
+      .filter((key) => key === 'food' || placesForInterest(key).length > 0 || attractionsForInterest(key).length > 0)
+      .map((key) => ({
+        href: interestHref(key),
+        label: key === 'food' ? 'Food and drink' : interestLabels[key],
+        photo: photos[key] || '',
+      })),
+  }))
+  .filter((group) => group.items.length > 0);
+const featuredInterests = interestColumns
+  .slice(0, 3)
+  .map((group) => group.items[0])
+  .filter((item) => Boolean(item));
+
+const guides = getGuides();
+const bySlug = new Map(guides.map((guide) => [guide.slug, guide]));
+const guideLink = (slug: string) => {
+  const guide = bySlug.get(slug);
+  return guide ? { href: `/plan/${guide.slug}`, label: guide.title } : null;
+};
+const before = ['when-to-go', 'e-visa', 'money', 'sim-and-wifi', 'luggage', 'street-manners', 'eating-manners']
+  .map(guideLink)
+  .filter((item): item is { href: string; label: string } => Boolean(item));
+const stay = ['where-to-stay'].map(guideLink).filter((item): item is { href: string; label: string } => Boolean(item));
+const travel = ['flights', 'trains', 'buses', 'grab-and-taxis', 'motorbikes']
+  .map(guideLink)
+  .filter((item): item is { href: string; label: string } => Boolean(item));
+const tripRank = ['best-14-days', 'north-7-days', 'central-5-days', 'south-5-days'];
+const trips = getItineraries()
+  .filter((trip) => trip.level === 'nationwide' || trip.level === 'region')
+  .sort((a, b) => {
+    const ai = tripRank.indexOf(a.slug);
+    const bi = tripRank.indexOf(b.slug);
+    return (ai < 0 ? 99 : ai) - (bi < 0 ? 99 : bi) || a.title.localeCompare(b.title);
+  });
+const usedTripPhotos = new Set<string>();
+function tripPhoto(trip: Itinerary): string {
+  const listed = [
+    ...(trip.photo ? [trip.photo] : []),
+    ...(trip.days?.flatMap((day) => (day.photo ? [day.photo] : [])) ?? []),
+  ];
+  const id = listed.find((photo) => !usedTripPhotos.has(photo)) || listed[0] || itineraryPhoto(trip);
+  if (id) usedTripPhotos.add(id);
+  return id;
+}
+const featuredTrips = trips.map((trip) => ({
+  href: `/itineraries/${trip.slug}`,
+  label: trip.title,
+  photo: tripPhoto(trip),
+}));
+const living = ['living', 'taxes'].map(guideLink).filter((item): item is { href: string; label: string } => Boolean(item));
+const planColumns = [
+  {
+    title: 'Before you go',
+    links: [...before, { href: '/seasons', label: 'Seasons' }, { href: '/festivals', label: 'Festivals' }],
+  },
+  { title: 'Accommodation', links: stay },
+  { title: 'Transportation', links: [...travel, { href: '/get-there', label: 'Routes between places' }] },
+  {
+    title: 'Itineraries',
+    links: [
+      ...trips.map((trip) => ({ href: `/itineraries/${trip.slug}`, label: trip.title })),
+      { href: '/itineraries', label: 'All itineraries' },
+    ],
+  },
+  { title: 'Living', links: living },
+];
 ---
 <a class="skip" href="#content">Skip to content</a>
 <header class="topbar">
   <div class="wrap bar">
     <a class="wordmark" href="/">Vietnam <span>Guide</span></a>
     <nav class="desk-nav" aria-label="Sections">
-      <a href="/destinations" aria-current={current('/destinations')}>Destinations</a>
-      <a href="/interests" aria-current={interestOn || undefined}>Interests</a>
-      <a href="/plan" aria-current={planOn || undefined}>Plan a trip</a>
+      <div class="nav-slot">
+        <a href="/destinations" aria-current={current('/destinations')}>Destinations</a>
+        <div class="nav-panel" aria-label="Destinations">
+          <div class="nav-panel-inner">
+            <div class="nav-panel-head">
+              <a class="nav-see" href="/destinations">See all destinations</a>
+            </div>
+            <div class:list={['nav-cards', `cards-${corridors.length}`]}>
+              {corridors.map((corridor) => (
+                <a class="nav-card" href={corridor.href}>
+                  <Photo id={corridor.photo} alt="" cover={corridor.cover} />
+                  <span>{corridor.name}</span>
+                </a>
+              ))}
+            </div>
+            <p class="nav-kicker">Places</p>
+            <div class="nav-cols">
+              {corridors.map((corridor) => (
+                <div>
+                  <p class="nav-col-title"><a href={corridor.href}>{corridor.name}</a></p>
+                  <ul>
+                    {corridor.places.map((place) => (
+                      <li><a href={placePath(place)}>{place.name}</a></li>
+                    ))}
+                  </ul>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="nav-slot">
+        <a href="/interests" aria-current={interestOn || undefined}>Interests</a>
+        <div class="nav-panel" aria-label="Interests">
+          <div class="nav-panel-inner">
+            <div class="nav-panel-head">
+              <a class="nav-see" href="/interests">See all interests</a>
+            </div>
+            <div class:list={['nav-cards', `cards-${featuredInterests.length}`]}>
+              {featuredInterests.map((item) => (
+                <a class="nav-card" href={item.href}>
+                  <Photo id={item.photo} alt="" cover="city" />
+                  <span>{item.label}</span>
+                </a>
+              ))}
+            </div>
+            <div class="nav-cols">
+              {interestColumns.map((column) => (
+                <div>
+                  <p class="nav-col-title">{column.title}</p>
+                  <ul>
+                    {column.items.map((item) => (
+                      <li><a href={item.href}>{item.label}</a></li>
+                    ))}
+                  </ul>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="nav-slot">
+        <a href="/plan" aria-current={planOn || undefined}>Plan a trip</a>
+        <div class="nav-panel" aria-label="Plan a trip">
+          <div class="nav-panel-inner">
+            <div class="nav-panel-head">
+              <a class="nav-see" href="/plan">See all guides</a>
+            </div>
+            <div class:list={['nav-cards', `cards-${featuredTrips.length}`]}>
+              {featuredTrips.map((trip) => (
+                <a class="nav-card" href={trip.href}>
+                  <Photo id={trip.photo} alt="" cover="town" />
+                  <span>{trip.label}</span>
+                </a>
+              ))}
+            </div>
+            <div class="nav-cols">
+              {planColumns.map((column) => (
+                <div>
+                  <p class="nav-col-title">{column.title}</p>
+                  <ul>
+                    {column.links.map((item) => (
+                      <li><a href={item.href}>{item.label}</a></li>
+                    ))}
+                  </ul>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
     </nav>
-    <a class="desk-saved" href="/saved">Saved</a>
     <button class="bar-icon search-toggle" type="button" data-search-toggle aria-label="Search" aria-expanded="false" aria-controls="site-search">
       <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6"></circle><path d="M16 16l4 4"></path></svg>
     </button>

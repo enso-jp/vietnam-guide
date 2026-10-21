@@ -185,7 +185,6 @@ const leadSight = tiedForLead.find((item) => topInterest && item.interests.inclu
       <p class="lede">{place.summary}</p>
       <p>
         <Dots dots={place.dots} reason={place.dotReason} />
-        <button class="icon-btn" type="button" data-save={place.slug} aria-pressed="false">Save</button>
       </p>
       <div class="chips">
         {place.season && <span class="chip peak">{place.season.label}</span>}

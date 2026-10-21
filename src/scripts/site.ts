@@ -39,17 +39,6 @@ function closeMenu() {
 
 document.addEventListener('click', (event) => {
   const target = event.target as HTMLElement | null;
-  const save = target?.closest<HTMLButtonElement>('[data-save]');
-  if (save) {
-    const id = save.dataset.save || '';
-    const key = 'vg-saved';
-    const list = JSON.parse(localStorage.getItem(key) || '[]') as string[];
-    const next = list.includes(id) ? list.filter((item) => item !== id) : [...list, id];
-    localStorage.setItem(key, JSON.stringify(next));
-    save.setAttribute('aria-pressed', String(next.includes(id)));
-    save.textContent = next.includes(id) ? 'Saved' : 'Save';
-    track('save', { place: id });
-  }
   const mapPin = target?.closest('[data-map-open]');
   if (mapPin && placeId()) track('map', { place: placeId() });
   const route = target?.closest('a[data-route]');
@@ -129,14 +118,6 @@ desktopQuery.addEventListener('change', () => {
   if (!desktopQuery.matches) closeMenu();
 });
 
-const saved = JSON.parse(localStorage.getItem('vg-saved') || '[]') as string[];
-document.querySelectorAll<HTMLButtonElement>('[data-save]').forEach((button) => {
-  if (saved.includes(button.dataset.save || '')) {
-    button.setAttribute('aria-pressed', 'true');
-    button.textContent = 'Saved';
-  }
-});
-
 let index: Item[] | null = null;
 async function loadIndex() {
   if (!index) index = await fetch('/search.json').then((response) => response.json());
@@ -185,26 +166,6 @@ if (input && panel) {
   };
   input.addEventListener('focus', run);
   input.addEventListener('input', run);
-}
-
-const savedList = document.querySelector<HTMLElement>('#saved-list');
-const catalogNode = document.querySelector<HTMLScriptElement>('#saved-catalog');
-if (savedList && catalogNode) {
-  const catalog = JSON.parse(catalogNode.textContent || '[]') as { id: string; name: string; href: string }[];
-  const ids = JSON.parse(localStorage.getItem('vg-saved') || '[]') as string[];
-  const chosen = catalog.filter((item) => ids.includes(item.id));
-  if (!chosen.length) {
-    savedList.textContent = 'Nothing saved yet. Use Save on a place page. The list stays in this browser.';
-  } else {
-    for (const item of chosen) {
-      const li = document.createElement('li');
-      const link = document.createElement('a');
-      link.href = item.href;
-      link.textContent = item.name;
-      li.append(link);
-      savedList.append(li);
-    }
-  }
 }
 
 const sectionNav = [...document.querySelectorAll<HTMLElement>('nav.tabs')].find((nav) => nav.querySelector('a[href^="#"]'));
