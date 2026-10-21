@@ -212,6 +212,26 @@ const planColumns = [
     <button class="bar-icon search-toggle" type="button" data-search-toggle aria-label="Search" aria-expanded="false" aria-controls="site-search">
       <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6"></circle><path d="M16 16l4 4"></path></svg>
     </button>
+    <button class="bar-icon menu-toggle" type="button" data-menu aria-label="Open menu" aria-expanded="false" aria-controls="site-menu">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"></path></svg>
+    </button>
+  </div>
+  <button class="phone-backdrop" type="button" data-menu tabindex="-1" aria-label="Close menu"></button>
+  <div id="site-menu" class="phone-menu" hidden>
+    <div class="phone-menu-home">
+      <a href="/">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 11.5 12 5l8 6.5"></path><path d="M7 10.5V19h10v-8.5"></path></svg>
+        Home
+      </a>
+      <button type="button" data-menu aria-label="Close menu">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"></path></svg>
+      </button>
+    </div>
+    <nav aria-label="Menu">
+      <a href="/destinations">Destinations <span aria-hidden="true">›</span></a>
+      <a href="/interests">Interests <span aria-hidden="true">›</span></a>
+      <a href="/plan">Plan a trip <span aria-hidden="true">›</span></a>
+    </nav>
   </div>
   <div id="site-search" class="search-pop" hidden>
     <form class="search-form wrap" action="/search" role="search">

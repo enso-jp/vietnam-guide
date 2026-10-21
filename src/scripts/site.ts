@@ -27,12 +27,18 @@ function closeNavButtons() {
   });
 }
 
+function setMenuExpanded(open: boolean) {
+  document.querySelectorAll<HTMLButtonElement>('[data-menu]').forEach((button) => {
+    button.setAttribute('aria-expanded', String(open));
+  });
+}
+
 function closeMenu() {
   const menu = document.querySelector<HTMLElement>('#site-menu');
   if (!menu) return;
   menu.hidden = true;
   delete menu.dataset.section;
-  document.querySelector('[data-menu]')?.setAttribute('aria-expanded', 'false');
+  setMenuExpanded(false);
   closeNavButtons();
   document.body.classList.remove('nav-open');
 }
@@ -58,6 +64,7 @@ document.addEventListener('click', (event) => {
     delete menu.dataset.section;
     closeNavButtons();
     setOpen(menu, menuButton, open);
+    setMenuExpanded(open);
     if (open && search && !desktopNav()) setOpen(search, document.querySelector('[data-search-toggle]'), false);
     document.body.classList.toggle('nav-open', open && !desktopNav());
   } else if (navButton && menu) {
@@ -286,7 +293,37 @@ document.querySelectorAll<HTMLElement>('[data-carousel]').forEach((root) => {
 });
 
 document.querySelectorAll<HTMLElement>('[data-region-stage]').forEach((stage) => {
-  const show = (slug: string) => {
+  const swipeRow = stage.querySelector<HTMLElement>('[data-region-swipe-row]');
+  const slides = () => [...stage.querySelectorAll<HTMLElement>('[data-region-slide]')];
+  let swipeLock = false;
+  const nearestSlide = () => {
+    if (!swipeRow) return '';
+    const rowRect = swipeRow.getBoundingClientRect();
+    const mid = rowRect.left + rowRect.width / 2;
+    let best = '';
+    let bestDist = Infinity;
+    for (const slide of slides()) {
+      const rect = slide.getBoundingClientRect();
+      const dist = Math.abs(rect.left + rect.width / 2 - mid);
+      if (dist < bestDist) {
+        bestDist = dist;
+        best = slide.dataset.regionSlide || '';
+      }
+    }
+    return best;
+  };
+  const scrollToSlide = (slug: string, behavior: ScrollBehavior = 'smooth') => {
+    if (!swipeRow || swipeRow.offsetParent === null) return;
+    const slide = stage.querySelector<HTMLElement>(`[data-region-slide="${slug}"]`);
+    if (!slide) return;
+    const left = slide.offsetLeft - (swipeRow.clientWidth - slide.offsetWidth) / 2;
+    swipeLock = true;
+    swipeRow.scrollTo({ left, behavior });
+    window.setTimeout(() => {
+      swipeLock = false;
+    }, behavior === 'smooth' ? 700 : 40);
+  };
+  const show = (slug: string, fromSwipe = false) => {
     stage.querySelectorAll<HTMLElement>('[data-region-card]').forEach((card) => {
       card.hidden = card.dataset.regionCard !== slug;
     });
@@ -295,6 +332,10 @@ document.querySelectorAll<HTMLElement>('[data-region-stage]').forEach((stage) =>
       el.classList.toggle('is-active', on);
       if (el.getAttribute('role') === 'tab') el.setAttribute('aria-selected', on ? 'true' : 'false');
     });
+    stage.querySelectorAll<HTMLElement>('[data-region-slide]').forEach((slide) => {
+      slide.classList.toggle('is-active', slide.dataset.regionSlide === slug);
+    });
+    if (!fromSwipe) scrollToSlide(slug);
   };
   const paintRails = (slug: string) => {
     stage.querySelectorAll<HTMLElement>(`[data-region-card="${slug}"]`).forEach((card) => {
@@ -342,6 +383,25 @@ document.querySelectorAll<HTMLElement>('[data-region-stage]').forEach((stage) =>
     show(slug);
     requestAnimationFrame(() => paintRails(slug));
   });
+  swipeRow?.addEventListener('scroll', () => {
+    if (swipeLock) return;
+    const slug = nearestSlide();
+    const current = stage.querySelector<HTMLElement>('[data-region-slide].is-active')?.dataset.regionSlide;
+    if (!slug || slug === current) return;
+    show(slug, true);
+  }, { passive: true });
+  const stepSlide = (dir: number) => {
+    const list = slides();
+    const current = stage.querySelector<HTMLElement>('[data-region-slide].is-active')?.dataset.regionSlide;
+    const index = list.findIndex((slide) => slide.dataset.regionSlide === current);
+    const next = list[Math.min(list.length - 1, Math.max(0, (index < 0 ? 0 : index) + dir))];
+    const slug = next?.dataset.regionSlide;
+    if (slug) show(slug);
+  };
+  stage.querySelector('[data-region-prev]')?.addEventListener('click', () => stepSlide(-1));
+  stage.querySelector('[data-region-next]')?.addEventListener('click', () => stepSlide(1));
+  const initial = stage.querySelector<HTMLElement>('[data-region-slide].is-active')?.dataset.regionSlide;
+  if (initial) scrollToSlide(initial, 'auto');
 });
 
 function localIso(date: Date) {
