@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T08:23:01.674Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T08:23:01.674Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,19 +45,19 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T08:23:01.674Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T08:23:01.674Z",
       "reworkCount": 0
     },
     "researchBase": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "Still open: the station street, the minutes from Noi Bai, a car time beyond the bus range and the two-hour road line, train fares, which trains besides the listed SE services stop, the hour the boats stop, and a night street. Cho Rong and Cho Bau are named only.",
+      "updated": "2026-10-21T08:23:01.674Z",
       "reworkCount": 0
     },
     "researchAttractions": {
@@ -105,7 +105,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "updated": "2026-10-21T08:23:01.674Z",
       "reworkCount": 0
     },
     {
@@ -121,7 +121,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "updated": "2026-10-21T08:23:01.674Z",
       "reworkCount": 0
     },
     {
@@ -137,7 +137,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "updated": "2026-10-21T08:23:01.674Z",
       "reworkCount": 0
     },
     {
@@ -155,16 +155,66 @@
       "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
       "updated": null,
       "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--tam-coc-hamlets",
+      "kind": "area",
+      "track": "unit",
+      "name": "Tam Coc hamlets",
+      "slug": "tam-coc-hamlets",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Sleep area for the Ninh Binh night. Place slug tam-coc already exists, so no second town page. Sourced 21 Oct 2026 from the department Tam Coc page and Vietnam Tourism.",
+      "updated": "2026-10-21T08:23:01.674Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--cho-rong",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Cho Rong",
+      "slug": "cho-rong",
+      "file": null,
+      "source": "dossier",
+      "research": "not_started",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Department visitor guide, 1 Aug 2025, names Cho Rong as a place to buy specialties. Food lane has not opened it.",
+      "updated": "2026-10-21T08:23:01.674Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--cho-bau",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Cho Bau",
+      "slug": "cho-bau",
+      "file": null,
+      "source": "dossier",
+      "research": "not_started",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Department visitor guide, 1 Aug 2025, names Cho Bau as a place to buy specialties. Food lane has not opened it.",
+      "updated": "2026-10-21T08:23:01.674Z",
+      "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "ninh-binh",
-    "stage": "researchBase",
-    "item": null,
-    "at": "2026-10-21T08:18:32.576Z",
-    "by": "hourly",
-    "branch": "cursor/ninh-binh-research-base"
-  },
-  "log": []
+  "claim": null,
+  "log": [
+    {
+      "at": "2026-10-21T08:23:01.674Z",
+      "place": "ninh-binh",
+      "stage": "researchBase",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Still open: the station street, the minutes from Noi Bai, a car time beyond the bus range and the two-hour road line, train fares, which trains besides the listed SE services stop, the hour the boats stop, and a night street. Cho Rong and Cho Bau are named only."
+    }
+  ]
 }
