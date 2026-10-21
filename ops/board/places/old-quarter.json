@@ -13,7 +13,7 @@
     "areas": "partial",
     "foodStreets": "partial",
     "nightlife": "partial",
-    "lifestyle": "missing",
+    "lifestyle": "partial",
     "events": "missing",
     "sideTrips": "missing"
   },
@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:30:59.687Z",
+      "updated": "2026-10-21T08:31:45.670Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:30:59.687Z",
+      "updated": "2026-10-21T08:31:45.670Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,13 +45,13 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:30:59.687Z",
+      "updated": "2026-10-21T08:31:45.670Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:30:59.687Z",
+      "updated": "2026-10-21T08:31:45.670Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -79,9 +79,9 @@
       "reworkCount": 0
     },
     "researchLifestyle": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "Ordinary day in: the lake morning, pho breakfast, the daytime walk, and the coffee sit. No swim. Still open: a clock for the morning, a cafe street inside the grid, the before-traffic hour, and the quiet hour, which no opened page names.",
+      "updated": "2026-10-21T08:31:45.669Z",
       "reworkCount": 0
     },
     "researchContext": {
@@ -105,7 +105,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026 from the Hoan Kiem management board. Hours and a current fee are Check on arrival. Published dot unchanged.",
-      "updated": "2026-10-21T08:30:59.687Z",
+      "updated": "2026-10-21T08:31:45.670Z",
       "reworkCount": 0
     },
     {
@@ -121,7 +121,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026. The management-board page prints no entrance fee and no door hours.",
-      "updated": "2026-10-21T08:30:59.687Z",
+      "updated": "2026-10-21T08:31:45.670Z",
       "reworkCount": 0
     },
     {
@@ -185,7 +185,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "87 Ma May. 20,000 VND in Resolution 44/2024. Hours Check on arrival.",
-      "updated": "2026-10-21T08:30:59.687Z",
+      "updated": "2026-10-21T08:31:45.670Z",
       "reworkCount": 0
     },
     {
@@ -201,7 +201,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "22 Hang Buom. 20,000 VND in Resolution 44/2024. Hours Check on arrival.",
-      "updated": "2026-10-21T08:30:59.687Z",
+      "updated": "2026-10-21T08:31:45.670Z",
       "reworkCount": 0
     },
     {
@@ -217,7 +217,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "44 Hang Bac. Fee Check on arrival. Not in Resolution 44/2024.",
-      "updated": "2026-10-21T08:30:59.687Z",
+      "updated": "2026-10-21T08:31:45.670Z",
       "reworkCount": 0
     },
     {
@@ -233,7 +233,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "East-gate landmark from the 2020 walking-space note. Architecture, fee, and hours still open.",
-      "updated": "2026-10-21T08:30:59.687Z",
+      "updated": "2026-10-21T08:31:45.670Z",
       "reworkCount": 0
     },
     {
@@ -249,7 +249,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Guild street. No separate page. Covered by the place walk and by Kim Ngan.",
-      "updated": "2026-10-21T08:30:59.687Z",
+      "updated": "2026-10-21T08:31:45.670Z",
       "reworkCount": 0
     },
     {
@@ -265,7 +265,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "The 2014 level-I streets are the place itself. Sights inside them have their own rows.",
-      "updated": "2026-10-21T08:30:59.687Z",
+      "updated": "2026-10-21T08:31:45.670Z",
       "reworkCount": 0
     },
     {
@@ -345,7 +345,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Food street behind Dong Xuan. The food guide carries it. No separate sight page. Hours Check on arrival.",
-      "updated": "2026-10-21T08:30:59.687Z",
+      "updated": "2026-10-21T08:31:45.670Z",
       "reworkCount": 0
     },
     {
@@ -361,7 +361,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Weekend walking market. Already the scene pin. The food guide can mention it. No separate page.",
-      "updated": "2026-10-21T08:30:59.687Z",
+      "updated": "2026-10-21T08:31:45.670Z",
       "reworkCount": 0
     },
     {
@@ -377,7 +377,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026. Street pin only. Clock and drink prices Check on arrival.",
-      "updated": "2026-10-21T08:30:59.687Z",
+      "updated": "2026-10-21T08:31:45.670Z",
       "reworkCount": 0
     },
     {
@@ -393,7 +393,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Same weekend line as the scene pin and the food-street row. No second page.",
-      "updated": "2026-10-21T08:30:59.687Z",
+      "updated": "2026-10-21T08:31:45.670Z",
       "reworkCount": 0
     },
     {
@@ -409,20 +409,108 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Lake walking space. Adjacent to the quarter. Not an Old Quarter page.",
-      "updated": "2026-10-21T08:30:59.687Z",
+      "updated": "2026-10-21T08:31:45.670Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--lake-morning",
+      "kind": "lifestyle",
+      "track": "unit",
+      "name": "Morning at the lake",
+      "slug": "lake-morning",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Morning lake path from Vietnam Tourism. Not an Old Quarter page. No clock.",
+      "updated": "2026-10-21T08:31:45.670Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--lane-breakfast",
+      "kind": "lifestyle",
+      "track": "unit",
+      "name": "Breakfast in the lanes",
+      "slug": "lane-breakfast",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Pho breakfast. The food guide carries the bowl. No separate page.",
+      "updated": "2026-10-21T08:31:45.670Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--daytime-walk",
+      "kind": "lifestyle",
+      "track": "unit",
+      "name": "Daytime walk",
+      "slug": "daytime-walk",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "The guild-street stroll is the place. No separate page. A before-traffic hour was not sourced.",
+      "updated": "2026-10-21T08:31:45.670Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--coffee-sit",
+      "kind": "lifestyle",
+      "track": "unit",
+      "name": "Coffee sit",
+      "slug": "coffee-sit",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Coffee hour is sourced. The street inside the grid is not. No separate page.",
+      "updated": "2026-10-21T08:31:45.670Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--quiet-hour",
+      "kind": "lifestyle",
+      "track": "unit",
+      "name": "Quiet hour",
+      "slug": "quiet-hour",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No source names the hour the quarter goes quiet. Check on arrival. No page.",
+      "updated": "2026-10-21T08:31:45.670Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
   "claim": {
     "place": "old-quarter",
-    "stage": "researchLifestyle",
+    "stage": "researchContext",
     "item": null,
-    "at": "2026-10-21T08:31:19.771Z",
+    "at": "2026-10-21T08:32:09.687Z",
     "by": "hourly",
     "branch": "cursor/old-quarter-research-base"
   },
   "log": [
+    {
+      "at": "2026-10-21T08:31:45.670Z",
+      "place": "old-quarter",
+      "stage": "researchLifestyle",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Ordinary day in: the lake morning, pho breakfast, the daytime walk, and the coffee sit. No swim. Still open: a clock for the morning, a cafe street inside the grid, the before-traffic hour, and the quiet hour, which no opened page names."
+    },
     {
       "at": "2026-10-21T08:30:59.687Z",
       "place": "old-quarter",
