@@ -1,0 +1,59 @@
+{
+  "slug": "thich-ca",
+  "placeSlug": "vung-tau",
+  "name": "Thich Ca Phat Dai",
+  "nameVi": "Thích Ca Phật Đài",
+  "kicker": "Pagoda complex on Big Mountain",
+  "summary": "Walk the complex on Trần Phú for the seated Buddha, the 12 metre reclining figure, and the sculptures of Siddhartha’s life. It is a Big Mountain visit, separate from Christ the King on Small Mountain. The museum article and the tourism catalogue do not agree on the ranking date. A fee and a gate hour are check on arrival.",
+  "dots": 4,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Trần Phú, on the Big Mountain side.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The reclining figure at Thich Ca Phat Dai, full length",
+  "notice": {
+    "title": "The ranking dates do not match",
+    "body": "The museum article dates decision 1987/VHQĐ to 14 February 1981. The tourism catalogue dates 1987/VH.QĐ to 14 December 1989. The relic list says a national ranking in 1989. All three are printed. None is dropped."
+  },
+  "body": [
+    "The complex is Thích Ca Phật Đài, with Thiền Lâm Tự, on Trần Phú. The museum article places it in ward 5 on Big Mountain, Núi Tương Kỳ. The relic list prints 610 Trần Phú. Built from July 1961 to March 1963, on the museum article.",
+    "The seated Buddha is 10 metres overall, a 4 metre base and a 6 metre body. A 12 metre reclining figure is at the top, which is the figure in the photograph. The museum article says 16 relic beads and a bodhi branch are kept here, and the grounds hold sculptures of Siddhartha’s life. The gate carries the name of the complex.",
+    "A best hour and a ticket are not printed. Come in the daytime. Do not budget the Christ stair count for this hill. Those steps are on Small Mountain."
+  ],
+  "figures": [
+    {
+      "id": "vung-tau-thich-ca-2",
+      "caption": "The gate on the way in, with the name Thích Ca Phật Đài",
+      "alt": "Stone gate of Thich Ca Phat Dai in Vung Tau"
+    }
+  ],
+  "gettingThere": [
+    "The complex is on Trần Phú, on the Big Mountain side of the peninsula. The relic list prints 610 Trần Phú. Minutes from Back Beach or from the cable-car station at 1A Trần Phú are not printed."
+  ],
+  "legs": [
+    {
+      "heading": "From the Ho May station",
+      "body": "Both are on Trần Phú. The station is 1A. The relic list prints the pagoda at 610. Walk minutes between them are check on arrival."
+    },
+    {
+      "heading": "From Front Beach",
+      "body": "Up onto the Big Mountain side and Trần Phú. Minutes are check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly close is printed. Check on arrival.",
+  "admissionNote": "No ticket is printed on the museum article or the catalogue entry used here. Check on arrival.",
+  "links": [
+    {
+      "label": "Museum article",
+      "url": "https://www.baotangbrvt.org.vn/thang-tich-thich-ca-phat-dai/",
+      "note": "Dates, heights, and the 1981 decision line"
+    },
+    {
+      "label": "Ranked relics",
+      "url": "https://www.baotangbrvt.org.vn/danh-muc-di-tich-da-xep-hang/",
+      "note": "610 Trần Phú, national rank 1989"
+    }
+  ],
+  "interests": ["pagodas"]
+}

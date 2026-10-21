@@ -1,0 +1,54 @@
+{
+  "slug": "back-beach",
+  "placeSlug": "vung-tau",
+  "name": "Back Beach",
+  "nameVi": "Bãi Sau",
+  "kicker": "The swim on the sunrise side",
+  "summary": "This is the beach you sleep beside. Vietnam Tourism describes the waves as fairly flat and suitable for children, and puts hotels and umbrella hire along the sand. Give it the morning, or the whole day. Swim here, and keep Front Beach for the evening walk.",
+  "dots": 5,
+  "timeNeeded": "A morning to a full day",
+  "fee": "No ticket is printed. Hire is check on arrival.",
+  "getThere": "On the sand if you sleep on the beachfront.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "Back Beach: surf, umbrellas, and the headland at the end of the bay",
+  "notice": {
+    "title": "The length is not one number",
+    "body": "Vietnam Tourism prints 3 km. A longer figure was not taken from a page that did not load. Do not plan the walk from a single agreed length."
+  },
+  "body": [
+    "Walk the sand at the start of the day, then swim, then take an umbrella when the sun is high. Vietnam Tourism calls the waves fairly flat and suitable for children. The same pages put high-end rooms, restaurants, and beach clubs along this strand, and name surf, stand-up paddle, and kite surf as things to try from the sand.",
+    "The sand is the southeast side of the peninsula, the sunrise side. Small Mountain closes the bay. Pineapple Beach is the cove where this strand meets the Christ statue. A province extract also lists Thủy Vân and Chí Linh beside Back Beach, without saying they are the same sand.",
+    "Umbrella hire and water-sport hire have no printed price. Check on arrival. After the swim, the night seafood market is on this beach: you choose the fish, crab, or shellfish and the cooking. A market price was not copied."
+  ],
+  "figures": [
+    {
+      "id": "vung-tau-back-beach-2",
+      "caption": "The hotel line and the umbrellas, from the sand",
+      "alt": "Hotels and beach umbrellas along Back Beach in Vung Tau"
+    }
+  ],
+  "gettingThere": [
+    "Back Beach is the base if you sleep on the beachfront. Vietnam Tourism puts the hotels on this sand. A ride from Front Beach is the other start. Minutes for that ride are not printed."
+  ],
+  "legs": [
+    {
+      "heading": "From the beachfront hotels",
+      "body": "You are already on the sand. The morning walk starts at the water. A clock time for the walk was not printed."
+    },
+    {
+      "heading": "From Front Beach",
+      "body": "A ride across the peninsula. Minutes and the fare are check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly close is printed. Check on arrival.",
+  "admissionNote": "The sand is not given a ticket on the Vietnam Tourism pages. Umbrella hire and water-sport hire are check on arrival.",
+  "links": [
+    {
+      "label": "Vietnam Tourism, Vung Tau",
+      "url": "https://www.vietnam.travel/things-to-do/essential-vung-tau-guide",
+      "note": "Back Beach, the waves, and the hotels"
+    }
+  ],
+  "interests": ["beaches", "family"]
+}

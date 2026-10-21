@@ -1,0 +1,59 @@
+{
+  "slug": "ho-may",
+  "placeSlug": "vung-tau",
+  "name": "Ho May Park",
+  "nameVi": "Hồ Mây",
+  "kicker": "Cable car onto Big Mountain",
+  "summary": "Ride the cable car from 1A Trần Phú to the park on Big Mountain when the hill is the plan, not the reason you stayed the night. The scenic ticket is adults 100,000 VND. The full visit is adults 475,000 VND and adds the rides. Buy the ticket that matches the visit. Skip it if Back Beach and the statue already have the day.",
+  "dots": 3,
+  "timeNeeded": "Half a day if the rides are the point",
+  "fee": "100,000 VND scenic, or 475,000 VND full visit",
+  "getThere": "Lower station at 1A Trần Phú.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "A Ho May cabin on the line toward Big Mountain",
+  "notice": {
+    "title": "Two tickets, two prices",
+    "body": "The scenic cable car is the round trip and the Royal Garden viewpoint. The full visit adds the rides. Paying the amusement ticket for a view, or the view ticket for the rides, is the mistake."
+  },
+  "body": [
+    "The operator’s lower station is 1A Trần Phú, Phường Vũng Tàu, Thành phố Hồ Chí Minh. The ride goes over the hills to the park on Big Mountain. The provincial catalogue calls it the place that pairs a beach visit with a mountain visit. The operator prints a stated height of 250 metres.",
+    "Both operator pages, loaded on 21 October 2026, put the park at 8:00–22:00. The full-ticket page puts the rides at 8:00–18:00, lists a show at 10:30–11:00, and a Saturday-or-holiday water show at 18:00. A visit length is not printed. A provincial card that has printed “free” was not used against these prices.",
+    "The cabin in the photograph is the line and the mountain. The sea is not in that frame. Ride minutes from Back Beach are check on arrival. Come in the daytime if the view is the point."
+  ],
+  "figures": [
+    {
+      "id": "vung-tau-ho-may-2",
+      "caption": "The lower station on Trần Phú, with the cable leaving the building",
+      "alt": "Ho May cable-car station in Vung Tau, cables running up the hill"
+    }
+  ],
+  "gettingThere": [
+    "The lower station is 1A Trần Phú. That is the operator’s address. From a hotel on Back Beach the ride to the station is not given a minute count."
+  ],
+  "legs": [
+    {
+      "heading": "From Front Beach",
+      "body": "The station is on Trần Phú, on the Big Mountain side, north of the arc. Minutes are check on arrival."
+    },
+    {
+      "heading": "From Back Beach",
+      "body": "A ride to 1A Trần Phú, then the cable car. Minutes from the beach are check on arrival."
+    }
+  ],
+  "hours": "Park 8:00–22:00 on both operator pages. Rides 8:00–18:00 on the full-ticket page.",
+  "closed": "No weekly close is printed. Check on arrival.",
+  "admissionNote": "Full visit: adults 475,000 VND, children 237,500 VND, under 1 m free, child band 1 m to 1.3 m. Scenic cable car: adults 100,000 VND, children 50,000 VND, round trip plus the Royal Garden viewpoint. The two pages are the operator’s. Buy the ticket that matches the visit.",
+  "links": [
+    {
+      "label": "Full visit ticket",
+      "url": "https://homaypark.com/san-pham/ve-tham-quan-vui-choi-tron-goi-ho-may-park/",
+      "note": "Ho May Park operator"
+    },
+    {
+      "label": "Scenic cable car",
+      "url": "https://homaypark.com/san-pham/goi-cap-treo-ngam-canh-an-sang-cafe/",
+      "note": "Round trip and Royal Garden viewpoint"
+    }
+  ],
+  "interests": ["family", "photography"]
+}

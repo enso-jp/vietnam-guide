@@ -1,0 +1,54 @@
+{
+  "slug": "front-beach",
+  "placeSlug": "vung-tau",
+  "name": "Front Beach",
+  "nameVi": "Bãi Trước",
+  "kicker": "The arc between the two mountains",
+  "summary": "Walk the seafront on the southwest arc, between Big Mountain and Small Mountain. The provincial page keeps sunrise for this water, and Vietnam Tourism keeps the evening for a drink. Do not treat it as the swimming beach. That swim is on Back Beach.",
+  "dots": 4,
+  "timeNeeded": "A walk",
+  "fee": "No ticket is printed. A beach chair is check on arrival.",
+  "getThere": "A ride from Back Beach. Minutes are check on arrival.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The Front Beach arc, the water, and the headland",
+  "notice": {
+    "title": "This is not the swim",
+    "body": "The waves Vietnam Tourism calls fairly flat, and suitable for children, are on Back Beach. Front Beach is the walk and the evening."
+  },
+  "body": [
+    "The provincial page names this shore Bãi Trước and Bãi Tầm Dương, and ties Tam Duong to looking for the sun. It says sunrise is the moment, while sunset is still bright on this water. Buildings follow the arc between Big Mountain and Small Mountain.",
+    "Vietnam Tourism adds daytime time on the sand and a drink after dark, and calls the evening lively. No bar is named on that page. Drink prices and a closing hour are check on arrival. The 2026 whale procession opened in the park here and the boats left at 5:30. That is the festival morning, not a reason to expect boats on an ordinary afternoon.",
+    "A walk length in minutes was not printed. Come at sunrise for the name’s own claim, or after dark for the drink. Then go back to Back Beach if you still want to swim."
+  ],
+  "figures": [
+    {
+      "id": "vung-tau-front-beach-2",
+      "caption": "Fishing boats on the Front Beach water, with the hill behind",
+      "alt": "Fishing boats anchored off Front Beach in Vung Tau"
+    }
+  ],
+  "gettingThere": [
+    "Front Beach is the southwest arc. From a hotel on Back Beach it is a ride. Minutes and the fare are not printed. The seafront pavement is the walk once you are there."
+  ],
+  "legs": [
+    {
+      "heading": "From Back Beach",
+      "body": "A ride to the arc between the two mountains. Minutes are check on arrival."
+    },
+    {
+      "heading": "From Ho Chi Minh City",
+      "body": "Vietnam Tourism’s older hydrofoil line lands at Front Beach. The 2026 GreenlinesDP notices do not name the Vung Tau pier. Sailing minutes are check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly close is printed. Check on arrival.",
+  "admissionNote": "No ticket is printed for the seafront. A beach chair, if someone offers one, is check on arrival.",
+  "links": [
+    {
+      "label": "Vietnam Tourism, the getaway",
+      "url": "https://www.vietnam.travel/things-to-do/vung-tau-mediterranean-getaway-east-sea",
+      "note": "Front Beach in the evening"
+    }
+  ],
+  "interests": ["nightlife", "photography"]
+}
