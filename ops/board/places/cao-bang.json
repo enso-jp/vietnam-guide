@@ -5,9 +5,9 @@
   "corridor": "northern-midlands",
   "kind": "area",
   "parent": null,
-  "publish": "candidate",
+  "publish": "accepted",
   "priority": 105,
-  "note": "Next-cycle Northern Midlands and Mountains province. Research may be stored. Do not create a public place file until publish is accepted.",
+  "note": "Owner accepted publish on 21 Oct 2026. Public page from the stored dossier.",
   "coverage": {
     "sights": "filled",
     "areas": "filled",
@@ -862,7 +862,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "cao-bang",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-21T16:27:10.278Z",
+    "by": "cao-bang-destination",
+    "branch": "cursor/cao-bang-destination-fb93"
+  },
   "log": [
     {
       "at": "2026-10-21T15:30:38.610Z",
