@@ -270,7 +270,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "old-quarter",
+    "stage": "researchFood",
+    "item": null,
+    "at": "2026-10-21T08:27:54.587Z",
+    "by": "hourly",
+    "branch": "cursor/old-quarter-research-base"
+  },
   "log": [
     {
       "at": "2026-10-21T08:27:35.462Z",
