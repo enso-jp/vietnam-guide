@@ -2,15 +2,16 @@
   "slug": "da-nang",
   "placeSlug": "da-nang",
   "name": "Da Nang resort living",
-  "summary": "My Khe beach towers, Non Nuoc sand, and Son Tra peninsula resorts when the sea is the trip.",
+  "summary": "Son Tra, Non Nuoc, and the My Khe and Vo Nguyen Giap beach resorts when the sea is the trip.",
   "body": [
-    "Sleep on the sand when morning swims matter. Son Tra and Non Nuoc carry the peninsula and Marble Mountain views. My Khe is the city beach row.",
-    "These properties are named only from their operator sites. A beach day in Hoi An is still a ride away."
+    "Sleep on the sand when the morning swim matters. Son Tra is the peninsula bay. Non Nuoc sits by the Marble Mountains. My Khe and Vo Nguyen Giap are the city beach row.",
+    "Hoi An is still a ride when the old town is the evening."
   ],
   "properties": [
     {
       "name": "InterContinental Danang Sun Peninsula Resort",
       "summary": "Private bay on Son Tra Peninsula, reached from the city by car.",
+      "area": "Son Tra",
       "photo": "resort-da-nang-intercontinental",
       "sources": [
         {
@@ -22,6 +23,7 @@
     {
       "name": "Hyatt Regency Danang Resort and Spa",
       "summary": "Non Nuoc beach between the Marble Mountains and the East Sea.",
+      "area": "Non Nuoc",
       "photo": "resort-da-nang-hyatt",
       "sources": [
         {
@@ -33,6 +35,7 @@
     {
       "name": "Pullman Danang Beach Resort",
       "summary": "Vo Nguyen Giap beachfront facing My Khe and the resort line.",
+      "area": "My Khe",
       "photo": "resort-da-nang-pullman",
       "sources": [
         {
@@ -40,8 +43,20 @@
           "url": "https://www.pullman-danang.com/the-resort/location/"
         }
       ]
+    },
+    {
+      "name": "Furama Resort Danang",
+      "summary": "Beach resort at 103–105 Vo Nguyen Giap, with rooms and pool villas beside the lagoon pool.",
+      "area": "My Khe",
+      "photo": "resort-da-nang-furama",
+      "sources": [
+        {
+          "label": "Furama resort site",
+          "url": "https://furamavietnam.com/"
+        }
+      ]
     }
   ],
-  "seoTitle": "Da Nang luxury resorts — Son Tra, Non Nuoc, and My Khe",
-  "seoDescription": "Sourced premium resorts in Da Nang: InterContinental Sun Peninsula, Hyatt Regency Non Nuoc, and Pullman on My Khe."
+  "seoTitle": "Da Nang beach resorts — Son Tra, Non Nuoc, and My Khe",
+  "seoDescription": "Sourced beach resorts in Da Nang: InterContinental Sun Peninsula, Hyatt Regency Non Nuoc, Pullman on My Khe, and Furama on Vo Nguyen Giap."
 }

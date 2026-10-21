@@ -92,7 +92,7 @@
     "Nightlife is An Thuong, the lanes just inland of those four streets. The photograph is one doorway on An Thuong 4, not the whole grid.",
     "Culture is the Cham Museum, the rooster church, the Marble Mountains, and Linh Ung on Son Tra. Each opens on its own photograph.",
     "The river walk is Bach Dang for coffee, a young coconut, and the promenade, then the swing bridge and Han Market. Coconut is that walk, not a separate venue.",
-    "Resort living is Son Tra, Non Nuoc, and the My Khe towers when the bed should be on the sand."
+    "Resort living is Son Tra, Non Nuoc, and the My Khe and Vo Nguyen Giap beach resorts when the bed should be on the sand."
   ],
   "interestCards": [
     {
@@ -104,7 +104,7 @@
     },
     {
       "title": "Resort Living",
-      "summary": "InterContinental Sun Peninsula, Hyatt Regency Non Nuoc, and Pullman on My Khe.",
+      "summary": "InterContinental on Son Tra, Hyatt Regency at Non Nuoc, Pullman on My Khe, and Furama on Vo Nguyen Giap.",
       "photo": "da-nang-resort-living",
       "icon": "bed",
       "to": "resortLiving"
@@ -156,6 +156,19 @@
           "photo": "mi-quang",
           "icon": "food",
           "to": "food"
+        }
+      ]
+    },
+    {
+      "title": "Resort Living",
+      "summary": "InterContinental on Son Tra, Hyatt Regency at Non Nuoc, Pullman on My Khe, and Furama on Vo Nguyen Giap.",
+      "cards": [
+        {
+          "title": "Resort Living",
+          "summary": "Beach resorts named from their own sites, on Son Tra, Non Nuoc, and the My Khe sand.",
+          "photo": "da-nang-resort-living",
+          "icon": "bed",
+          "to": "resortLiving"
         }
       ]
     },

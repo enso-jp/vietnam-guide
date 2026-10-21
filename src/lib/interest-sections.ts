@@ -158,6 +158,27 @@ export function interestGroupPath(place: Place, slug: string): string {
   return `${placePath(place)}/by-interest/${slug}`;
 }
 
+function isDiningTitle(title: string): boolean {
+  return /\b(dining|food|f\s*&\s*b)\b/i.test(title);
+}
+
+/**
+ * Dining opens the food guide. Resort Living opens the resort page.
+ * A one-card wrapper is not generated for either.
+ */
+function directGuideHref(section: PlaceInterestSection): string | undefined {
+  const hrefs = [...new Set(section.items.map((item) => item.href))];
+  if (hrefs.length !== 1) return undefined;
+  const href = hrefs[0];
+  if (href.startsWith('/resort-living/')) return href;
+  if (href.startsWith('/food/') && isDiningTitle(section.title)) return href;
+  return undefined;
+}
+
+function sliderHref(place: Place, section: PlaceInterestSection): string {
+  return directGuideHref(section) ?? interestGroupPath(place, section.slug);
+}
+
 /** One slider card per headed section. Untitled rails stay as they are. */
 export function interestSliderItems(place: Place, sections: PlaceInterestSection[]): InterestRailItem[] | null {
   const headed = sections.filter((section) => section.slug && section.items.length > 0);
@@ -165,7 +186,7 @@ export function interestSliderItems(place: Place, sections: PlaceInterestSection
   return headed.map((section) => {
     const photo = section.items[0];
     return {
-      href: interestGroupPath(place, section.slug),
+      href: sliderHref(place, section),
       title: section.title,
       photo: photo.photo,
       fallback: place.slug,
@@ -180,6 +201,6 @@ export function interestGroupPages(): { place: Place; section: PlaceInterestSect
   return getPlaces()
     .filter((place) => !place.parent && place.kind !== 'district')
     .flatMap((place) => placeInterestSections(place)
-      .filter((section) => section.slug && section.items.length > 0)
+      .filter((section) => section.slug && section.items.length > 0 && !directGuideHref(section))
       .map((section) => ({ place, section })));
 }

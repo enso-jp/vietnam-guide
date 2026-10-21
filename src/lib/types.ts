@@ -102,6 +102,8 @@ export interface ResortProperty {
   name: string;
   summary: string;
   photo: string;
+  /** Coast or neighborhood heading on the resort page. */
+  area?: string;
   sources: ResortSource[];
 }
 
