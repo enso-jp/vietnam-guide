@@ -206,7 +206,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "tam-coc",
+    "stage": "researchFood",
+    "item": null,
+    "at": "2026-10-21T08:27:45.579Z",
+    "by": "hourly",
+    "branch": "content/tam-coc-research-base"
+  },
   "log": [
     {
       "at": "2026-10-21T08:27:26.802Z",
