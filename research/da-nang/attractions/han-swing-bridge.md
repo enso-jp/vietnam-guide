@@ -23,6 +23,7 @@ Checked: 21 Oct 2026
 - The same page also says the middle span turns about 90 degrees at about 23:00 every night for ships and is back by about midnight
 - A later key-times page names only Saturday and Sunday at about 23:00: https://danangfantasticity.com/en/travel-information/key-times-to-save-for-your-da-nang-travel-itinerary
 - Both are printed. Do not collapse them.
+- City portal, accessed 21 Oct 2026 (S40): started 2 Sep 1998, opened 29 Mar 2000, 487.7 m by 12.9 m, 11 spans plus two cable-stayed spans totaling 122.7 m. It also says the middle turns about 01:00 and is back about 04:00, and that large boats rarely pass now so turns are mostly maintenance. This is a third clock. Print it beside the tourism clocks. Do not replace them. Do not copy the portal’s slogan.
 - Opened 2000. Length 487.7 m, width 12.9 m, 11 spans. Address: Ngã tư Lê Duẩn – Trần Phú. Connects Lê Duẩn and Phạm Văn Đồng.
 - Visit duration on the bank: UNSOURCED
 

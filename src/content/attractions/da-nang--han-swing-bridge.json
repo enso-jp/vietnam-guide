@@ -5,7 +5,7 @@
   "nameVi": "Cầu quay Sông Hàn",
   "district": "The river",
   "kicker": "The Han bridge that turns for ships",
-  "summary": "Stand on the bank and watch the Han swing bridge turn for ships. It opened in 2000, runs 487.7 meters from Le Duan to Pham Van Dong, and the middle span turns about 90 degrees. The city page sets a visitor window from 23:00 to midnight on Saturday and Sunday, and the same page also says the span turns about 23:00 every night. Watching from the bank is free.",
+  "summary": "Stand on the bank and watch the Han swing bridge turn for ships. It opened on 29 March 2000, runs 487.7 meters from Le Duan to Pham Van Dong, and the middle span turns about 90 degrees. The tourism page sets visitors from 23:00 to midnight on Saturday and Sunday, and also says about 23:00 every night. The city portal says about 01:00, back about 04:00. Watching from the bank is free.",
   "dots": 4,
   "timeNeeded": "An evening",
   "fee": "Free from the bank",
@@ -13,12 +13,12 @@
   "verified": "21 Oct 2026",
   "heroCaption": "The swing bridge lit at night, seen from the bank",
   "notice": {
-    "title": "The turn is published two ways",
-    "body": "The bridge page gives Saturday and Sunday, 23:00 to midnight, for visitors, and also says the span turns about 23:00 every night for ships. A later itinerary page names only the weekend. Check that night."
+    "title": "The turn is published three ways",
+    "body": "The tourism page gives Saturday and Sunday, 23:00 to midnight, for visitors, and also says the span turns about 23:00 every night for ships. A later itinerary page names only the weekend. The city portal says about 01:00, back about 04:00, and that large boats rarely pass now so a turn is often maintenance. Check that night."
   },
   "body": [
-    "Come late and stand on the bank. The bridge joins Le Duan in Hai Chau to Pham Van Dong in Son Tra, at the Le Duan–Tran Phu junction. The city tourism page says it opened in 2000, and gives the length as 487.7 meters, the width as 12.9 meters, and the count as 11 spans.",
-    "That page prints two clocks. Visitors are told the bridge turns from 23:00 to midnight on Saturday and Sunday. The same page says that every night, at about 23:00, the middle span turns 90 degrees so ships can pass, and that it is back by about midnight. A later key-times page names only the Saturday and Sunday turn, at about 23:00. Do not treat a weeknight as guaranteed.",
+    "Come late and stand on the bank. The bridge joins Le Duan in Hai Chau to Pham Van Dong in Son Tra, at the Le Duan–Tran Phu junction. The city portal says work started on 2 September 1998 and the bridge opened on 29 March 2000. It gives the length as 487.7 meters, the width as 12.9 meters, 11 spans, and two cable-stayed spans totaling 122.7 meters. The tourism page had already given the length, the width, and the 11 spans.",
+    "The clocks do not agree. The tourism page tells visitors the bridge turns from 23:00 to midnight on Saturday and Sunday, and also says that every night, at about 23:00, the middle span turns 90 degrees so ships can pass and is back by about midnight. A later key-times page names only the Saturday and Sunday turn, at about 23:00. The city portal says the middle turns about 01:00 and is back about 04:00, and that large boats rarely pass now, so a turn is often maintenance. Do not treat a weeknight as guaranteed, and do not drop the 23:00 lines.",
     "The photograph is the bridge lit at night. It does not show the span in the middle of a turn. There is no ticket for watching from the bank."
   ],
   "figures": [
@@ -41,7 +41,7 @@
       "body": "By Grab across the river. The minutes are check on arrival."
     }
   ],
-  "hours": "Visitor turn 23:00 to midnight on Saturday and Sunday. The bridge page also says the span turns about 23:00 every night for ships and is back by about midnight.",
+  "hours": "Tourism page: 23:00 to midnight on Saturday and Sunday for visitors, and about 23:00 every night for ships, back by about midnight. City portal: about 01:00, back about 04:00, often for maintenance. Check that night.",
   "closed": "No weekly closing day is published. The disagreement is which nights it turns.",
   "links": [
     {
@@ -53,6 +53,11 @@
       "label": "Weekend key time",
       "url": "https://danangfantasticity.com/en/travel-information/key-times-to-save-for-your-da-nang-travel-itinerary",
       "note": "Same portal, Saturday and Sunday only"
+    },
+    {
+      "label": "City portal on the swing bridge",
+      "url": "https://danang.gov.vn/vi/w/cau-song-han-niem-tu-hao-cua-nguoi-dan-da-nang-i",
+      "note": "Da Nang city portal, accessed 21 Oct 2026. About 01:00, back about 04:00."
     }
   ],
   "interests": [

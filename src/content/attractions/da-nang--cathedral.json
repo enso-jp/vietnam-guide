@@ -5,11 +5,11 @@
   "nameVi": "Nhà thờ Con Gà",
   "district": "The river",
   "kicker": "The pink church called the rooster church",
-  "summary": "Look up at the pink church the city calls Con Ga, the rooster church, a short walk from the river. It was built in 1923, nearly 70 meters, in a Gothic form, under Father Louis Vallet. The parish page prints no street number, no Mass clock, and no fee. All three stay check on arrival.",
+  "summary": "Look up at the pink church the city calls Con Ga, the rooster church, at 156 Tran Phu. It was built in 1923, nearly 70 meters, in a Gothic form, under Father Louis Vallet. From 1 January 2023 the parish sets visitors Monday to Saturday, 08:00 to 11:30 and 13:30 to 16:30. Sunday is not in that window. A fee is check on arrival.",
   "dots": 3,
   "timeNeeded": "A short look",
   "fee": "Check on arrival",
-  "getThere": "In the center. The parish page does not print a street number. Ask for Nhà thờ Con Gà.",
+  "getThere": "156 Tran Phu, on the parish about page. The 2015 tourism page prints no number. From the river, walk. From My Khe, take a Grab.",
   "verified": "21 Oct 2026",
   "heroCaption": "The pink facade and the rose window",
   "notice": {
@@ -18,7 +18,7 @@
   },
   "body": [
     "Give it the few minutes a church front takes, on a river morning. The city parish page says the church was built in 1923, nearly 70 meters high, under Father Louis Vallet, in a Gothic form with a rose window. Behind it is a grotto of Our Lady arranged after Lourdes. People in the city call it Con Gà, the rooster church, for the bird on the roof.",
-    "That page says the bird is Peter, not a symbol of France, and that from 1963 the parish’s official name is Nhà thờ giáo xứ Chánh tòa Đà Nẵng. It does not print a street number, a Mass time, or a fee. Do not copy a tour company’s visiting window onto this page. Hours, a closing day, and any fee are check on arrival."
+    "That page says the bird is Peter, not a symbol of France, and that from 1963 the parish’s official name is Nhà thờ giáo xứ Chánh tòa Đà Nẵng. The parish’s own notice of 28 December 2022, in force from 1 January 2023, sets visitors Monday to Saturday, 08:00 to 11:30 and 13:30 to 16:30, and asks for modest dress. Sunday is not in that window. The 2015 tourism page prints no timetable. The parish about page of 8 March 2014 prints 156 Trần Phú. A fee is still check on arrival. Do not copy a tour company’s window, and do not publish the old phone number on that about page."
   ],
   "figures": [
     {
@@ -28,25 +28,35 @@
     }
   ],
   "gettingThere": [
-    "The parish page does not print a street number. From a river hotel, ask for Nhà thờ Con Gà. From My Khe, take a Grab. Neither ride has a published minute count, so both stay check on arrival."
+    "The parish about page prints 156 Trần Phú. The 2015 tourism page does not. From a river hotel, walk to that street and ask for Nhà thờ Con Gà if the number has moved. From My Khe, take a Grab. Neither ride has a published minute count, so both stay check on arrival."
   ],
   "legs": [
     {
       "heading": "From the river",
-      "body": "Ask for Nhà thờ Con Gà. The street number is check on arrival."
+      "body": "Walk to 156 Trần Phú, the number on the 2014 parish page. Confirm the door."
     },
     {
       "heading": "From My Khe",
       "body": "By Grab. The minutes are check on arrival."
     }
   ],
-  "hours": "Check on arrival. The parish page does not print a timetable.",
-  "closed": "No weekly closing day is published.",
+  "hours": "Monday to Saturday, 08:00–11:30 and 13:30–16:30, from the parish notice of 28 Dec 2022. Sunday is not in that visitor window. The 2015 tourism page prints no timetable.",
+  "closed": "Sunday is not listed for visitors. No other closing day is published.",
   "links": [
     {
       "label": "Da Nang cathedral parish",
       "url": "https://danangfantasticity.com/co-so-ton-giao-vi/nha-tho-giao-xu-chanh-toa-da-nang-vn",
-      "note": "Da Nang tourism portal, 15 Sep 2015"
+      "note": "Da Nang tourism portal, 15 Sep 2015. No timetable and no street number."
+    },
+    {
+      "label": "Visitor hours from 2023",
+      "url": "https://giaoxuchinhtoadanang.org/tu-ngay-01-01-2023-thay-doi-gio-tham-quan-tai-nha-tho-chinh-toa-da-nang/",
+      "note": "Parish notice, 28 Dec 2022. Monday to Saturday."
+    },
+    {
+      "label": "Parish address",
+      "url": "https://giaoxuchinhtoadanang.org/giao-xu-chinh-toa/",
+      "note": "Parish about page, 8 Mar 2014. 156 Trần Phú. The phone on that page is not current."
     }
   ],
   "interests": [

@@ -26,14 +26,14 @@
     },
     "destinationCopy": {
       "status": "enriched",
-      "note": "21 Oct 2026. Added the breakfast street, the buoy-and-board swim, Bach Dang, the four-street An Thuong bound, and Son Tra, breakfast, and river-walk cards. Hero kept: sand, surf, and the resort towers. Left out of the page: Downtown ticket and street, the four name-only eating streets, and a single lifeguard clock.",
-      "updated": "2026-10-21T07:13:44.996Z",
+      "note": "21 Oct 2026. Interest groups now open to the real pages: beachfront and My Khe, beach sports, An Thuong, Cham Museum, cathedral, Marble Mountains, Son Tra, Bach Dang, the swing bridge, and Han Market. Dining and F&B stays first and opens the food guide. Each card keeps its own photo. Left out: a beachfront coffee card, room photos, a second An Thuong frame, and the food-guide photo rewrite.",
+      "updated": "2026-10-21T10:09:58.315Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "checked",
-      "note": "Read the place against the 21 Oct dossier. Hero shows sand, surf, and the towers. Swim clocks are both printed, not averaged. Breakfast street and Bach Dang match the dossier. Son Tra card uses the existing statue frame; the sea is missing from that file and stays an attraction-photo gap. No fee was invented.",
-      "updated": "2026-10-21T07:13:53.681Z",
+      "note": "Read the place against the 21 Oct dossier. Dining and F&B is first and opens the food guide. Beach lifestyle, beach sports, nightlife, culture, and the river walk each open to their own pages and their own photos. No fee was invented. An Thuong is still one doorway. The fireworks frame is the river show. The Avalokitesvara frame is the seated figure at the cliff, not the rite.",
+      "updated": "2026-10-21T10:11:06.146Z",
       "reworkCount": 0
     },
     "food": {
@@ -44,14 +44,14 @@
     },
     "foodCopy": {
       "status": "enriched",
-      "note": "21 Oct 2026. Added the sourced food streets and markets. East West street set to check on arrival because the taproom page prints none. Left out: Nguyen Van Linh, Nguyen Van Thoai, Tran Ke Xuong, Le Thanh Nghi, nem lui, ram cuon cai, and bo kho pages, and any new stall price.",
-      "updated": "2026-10-21T07:15:01.431Z",
+      "note": "21 Oct 2026. Re-read the food guide. No sentence was changed. Left out the photo-led rewrite: this pass was told not to edit food files, dish files, or those templates.",
+      "updated": "2026-10-21T10:13:02.503Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "checked",
-      "note": "Read the food guide against the 21 Oct streets. Clocks that disagree are both printed. East West has no invented street. The four name-only streets stay off the page. No stall price was added.",
-      "updated": "2026-10-21T07:15:10.222Z",
+      "note": "Read the guide. Clocks that disagree are still both printed. East West still has no invented street. The four name-only streets stay off. The photo-led layout is still unpublished because this pass did not edit the food file.",
+      "updated": "2026-10-21T10:13:02.567Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -61,9 +61,9 @@
       "reworkCount": 0
     },
     "researchAttractions": {
-      "status": "needs_depth",
-      "note": "A new item was added after this lane was stored.",
-      "updated": "2026-10-21T09:09:40.316Z",
+      "status": "stored",
+      "note": "Second pass. Indexed the cathedral, swing bridge, beach sports, beachfront, Thuan Phuoc, Bach Dang, and Han Market against the files already stored. Parish visitor hours and 156 Tran Phu are recorded. The city portal’s 01:00 swing-bridge clock is recorded beside the tourism clocks. Left out: a second An Thuong lane frame, room photos for Kala Kala and East West, a beachfront coffee frame, Da Nang Museum, fine arts, Non Nuoc as its own page, Love Bridge, Downtown’s street and ticket, and a Con Market sight page.",
+      "updated": "2026-10-21T10:08:38.643Z",
       "reworkCount": 0
     },
     "researchFood": {
@@ -85,9 +85,9 @@
       "reworkCount": 0
     },
     "researchContext": {
-      "status": "needs_depth",
-      "note": "A new item was added after this lane was stored.",
-      "updated": "2026-10-21T09:09:40.697Z",
+      "status": "stored",
+      "note": "Second pass. Fireworks and the Avalokitesvara festival are already in events.md, with what, when, and where. Side trips stay Hoi An, Hue, My Son, and placeholders for Cham Islands and Lang Co. Left out: next year’s DIFF dates, the grandstand price, the festival’s civil date, and any new place file.",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     }
   },
@@ -105,7 +105,7 @@
       "copy": "blocked",
       "quality": "not_started",
       "note": "Hero is one doorway on An Thuong 4. Still a stub: no second frame of the lanes, so the page is not finished. Kala Kala and East West have no licensed photo. The beach-and-tower file is no longer this hero.",
-      "updated": "2026-10-21T09:09:40.669Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -120,8 +120,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Hero is the Golden Bridge held by the stone hands. Second frame is the same bridge. Fee, hours, and extras match the stored research. Drive minutes stay check on arrival.",
-      "updated": "2026-10-21T07:30:49.870Z",
+      "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added.",
+      "updated": "2026-10-21T10:13:12.981Z",
       "reworkCount": 0
     },
     {
@@ -136,8 +136,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Looked at both frames. The yellow building reads from the garden path. The stele is centered. Fee and the two clocks match the dossier.",
-      "updated": "2026-10-21T07:30:49.998Z",
+      "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added.",
+      "updated": "2026-10-21T10:13:13.147Z",
       "reworkCount": 0
     },
     {
@@ -152,8 +152,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Day frame shows the yellow dragon over the river. Night frame shows the lit head and arches, not a pool. Both show lengths stay in the notice.",
-      "updated": "2026-10-21T07:30:50.119Z",
+      "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added.",
+      "updated": "2026-10-21T10:13:13.332Z",
       "reworkCount": 0
     },
     {
@@ -168,8 +168,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Hero has the road and the bay in one frame. Power lines cross the sky. The second frame is cloud with the sea gone, and the caption says to skip that day. Road minutes stay check on arrival.",
-      "updated": "2026-10-21T07:30:50.243Z",
+      "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added.",
+      "updated": "2026-10-21T10:13:13.502Z",
       "reworkCount": 0
     },
     {
@@ -184,8 +184,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Hero shows the marble cliff above the town. Second frame is the cave stair with the guardians. Hill, elevator, and Am Phu prices match the dossier.",
-      "updated": "2026-10-21T07:30:50.380Z",
+      "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added.",
+      "updated": "2026-10-21T10:13:13.669Z",
       "reworkCount": 0
     },
     {
@@ -200,8 +200,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Hero is sand, chairs, the rescue hut, and the resort towers. It does not claim surf. Second frame is the shore, the palms, and the road. Chair hire stays check on arrival.",
-      "updated": "2026-10-21T07:30:50.500Z",
+      "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added.",
+      "updated": "2026-10-21T10:13:13.843Z",
       "reworkCount": 0
     },
     {
@@ -216,8 +216,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Face and hand stay whole in the hero. The gate and stair are the second frame. No fee was invented. The sea is still missing from both photos.",
-      "updated": "2026-10-21T07:30:50.618Z",
+      "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added.",
+      "updated": "2026-10-21T10:13:14.014Z",
       "reworkCount": 0
     },
     {
@@ -457,7 +457,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: no separate page yet. Covered by the place and by Dragon Bridge.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -473,7 +473,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: a side note on the Marble Mountains page is enough until a later setup pass.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -489,7 +489,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: covered by the son-tra page, including Linh Ung.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -504,8 +504,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Sight page added 21 Oct 2026. 2023 hours 06:00–19:00. 2024 page prints no clock. Fourth street disagrees. No gate fee.",
-      "updated": "2026-10-21T09:09:40.644Z",
+      "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added.",
+      "updated": "2026-10-21T10:13:14.175Z",
       "reworkCount": 0
     },
     {
@@ -521,7 +521,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "No photograph of Huynh Thuc Khang. A page would fall back to the beach. The food guide already carries the street and both breakfast clocks.",
-      "updated": "2026-10-21T07:30:50.681Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -537,7 +537,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Night eating street under 800 m. 2019 clock 17:00–23:00 is not restated later. No separate page. The food guide carries it.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -553,7 +553,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "One 2019 clock, 17:00–24:00, not restated. No separate page.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -569,7 +569,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "City pages put it on đường 2/9. Clocks disagree between 17:00 and 17:30. Operator page did not load. No separate page.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -585,7 +585,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "2023 portal still says Mai Hac De. VietnamPlus 22 Aug 2025 says it moved 1 Aug 2025 to the east bank of Dragon Bridge. Closing hour at the new site is open. No separate page.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -601,7 +601,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "One city page: No. 4 An Thuong 4, 17:00–23:00, free entry. Not the bar lanes. No separate page.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -617,7 +617,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "25 Nguyen Ba Lan on the 2019 page only. 08:00–19:00 not restated. No separate page.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -633,7 +633,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Hoang Sa, Vo Nguyen Giap, and Truong Sa. No restaurant names. No separate page.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -649,7 +649,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Named only. Block and hour are still open. No page until those are sourced.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -665,7 +665,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Named only. Block and hour are still open. No page until those are sourced.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -681,7 +681,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Named only. Block and hour are still open. Owner list has an unsourced bun mam door. No page until the block is sourced.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -697,7 +697,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Named only. Block and hour are still open. No page until those are sourced.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -713,7 +713,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Wholesale landing, not a dining street. No visitor hour. No page.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -777,7 +777,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Ordinary-day breakfast. Same street as the food-street record. No separate page.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -793,7 +793,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "The swim on the existing My Khe page. Duty clocks disagree. No separate page.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -808,8 +808,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Finished page. Walk is free. Cafe hours stay check on arrival.",
-      "updated": "2026-10-21T09:09:40.458Z",
+      "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added.",
+      "updated": "2026-10-21T10:13:14.344Z",
       "reworkCount": 0
     },
     {
@@ -825,7 +825,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "River quiets after the dragon show. Beach streets stay later. No citywide close is published.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -841,7 +841,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "South-shore zone: the hill, Non Nuoc, My Khe, and An Thuong. No district page. The existing sights carry it.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -857,7 +857,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "East end of Dragon Bridge. Night market moved here 1 Aug 2025. No separate page.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -873,7 +873,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "The night walk is the existing An Thuong page. Bounded by four streets under Decision 489/2018. No second page.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -889,7 +889,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Bach Dang and the dragon show. Covered by Dragon Bridge. No separate page.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -905,7 +905,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Asia Park rebrand, June 2024. Show clocks are one page and the ticket is unpublished. No page until a street and a price exist.",
-      "updated": "2026-10-21T07:11:19.804Z",
+      "updated": "2026-10-21T10:09:00.388Z",
       "reworkCount": 0
     },
     {
@@ -920,8 +920,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Finished page. Visitor window Sat–Sun 23:00–midnight, and the same page’s nightly ship line. No ticket from the bank.",
-      "updated": "2026-10-21T09:09:40.345Z",
+      "note": "Night frame is the lit bridge from the bank and does not show the turn. All three clocks are on the page. No ticket was added.",
+      "updated": "2026-10-21T10:13:45.610Z",
       "reworkCount": 0
     },
     {
@@ -936,8 +936,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Finished page. Parish page has no timetable, fee, or street number.",
-      "updated": "2026-10-21T09:09:40.403Z",
+      "note": "Pink facade and the second spire frame are unchanged. Hours and 156 Tran Phu now match the parish pages. Fee is still check on arrival.",
+      "updated": "2026-10-21T10:14:22.659Z",
       "reworkCount": 0
     },
     {
@@ -952,8 +952,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Finished page. 2016 sports list. Price check on arrival. Addresses disagree.",
-      "updated": "2026-10-21T09:09:40.512Z",
+      "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added.",
+      "updated": "2026-10-21T10:14:22.837Z",
       "reworkCount": 0
     },
     {
@@ -968,8 +968,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Finished page. Entry free at Kala Kala. Drink price and East West street are check on arrival. No room photo.",
-      "updated": "2026-10-21T09:09:40.566Z",
+      "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added.",
+      "updated": "2026-10-21T10:14:23.016Z",
       "reworkCount": 0
     },
     {
@@ -984,8 +984,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Finished page. Road bridge. No ticket and no viewing hour.",
-      "updated": "2026-10-21T09:09:40.619Z",
+      "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added.",
+      "updated": "2026-10-21T10:14:23.191Z",
       "reworkCount": 0
     },
     {
@@ -1024,164 +1024,164 @@
   "claim": null,
   "log": [
     {
-      "at": "2026-10-21T07:30:50.681Z",
+      "at": "2026-10-21T10:14:23.191Z",
       "place": "da-nang",
-      "stage": "page",
-      "item": "da-nang--huynh-thuc-khang",
-      "status": "blocked",
-      "note": "No photograph of Huynh Thuc Khang. A page would fall back to the beach. The food guide already carries the street and both breakfast clocks."
+      "stage": "quality",
+      "item": "da-nang--thuan-phuoc",
+      "status": "checked",
+      "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added."
     },
     {
-      "at": "2026-10-21T07:30:50.618Z",
+      "at": "2026-10-21T10:14:23.105Z",
+      "place": "da-nang",
+      "stage": "copy",
+      "item": "da-nang--thuan-phuoc",
+      "status": "enriched",
+      "note": "Re-read against the stored dossier on 21 Oct 2026. The page already matched. No sentence changed. Left out any fee or hour that is still check on arrival."
+    },
+    {
+      "at": "2026-10-21T10:14:23.016Z",
+      "place": "da-nang",
+      "stage": "quality",
+      "item": "da-nang--beachfront",
+      "status": "checked",
+      "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added."
+    },
+    {
+      "at": "2026-10-21T10:14:22.931Z",
+      "place": "da-nang",
+      "stage": "copy",
+      "item": "da-nang--beachfront",
+      "status": "enriched",
+      "note": "Re-read against the stored dossier on 21 Oct 2026. The page already matched. No sentence changed. Left out any fee or hour that is still check on arrival."
+    },
+    {
+      "at": "2026-10-21T10:14:22.838Z",
+      "place": "da-nang",
+      "stage": "quality",
+      "item": "da-nang--beach-sports",
+      "status": "checked",
+      "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added."
+    },
+    {
+      "at": "2026-10-21T10:14:22.751Z",
+      "place": "da-nang",
+      "stage": "copy",
+      "item": "da-nang--beach-sports",
+      "status": "enriched",
+      "note": "Re-read against the stored dossier on 21 Oct 2026. The page already matched. No sentence changed. Left out any fee or hour that is still check on arrival."
+    },
+    {
+      "at": "2026-10-21T10:14:22.660Z",
+      "place": "da-nang",
+      "stage": "quality",
+      "item": "da-nang--cathedral",
+      "status": "checked",
+      "note": "Pink facade and the second spire frame are unchanged. Hours and 156 Tran Phu now match the parish pages. Fee is still check on arrival."
+    },
+    {
+      "at": "2026-10-21T10:14:22.599Z",
+      "place": "da-nang",
+      "stage": "copy",
+      "item": "da-nang--cathedral",
+      "status": "enriched",
+      "note": "Parish notice of 28 Dec 2022: visitors Monday to Saturday, 08:00–11:30 and 13:30–16:30. Sunday is not in that window. Address 156 Tran Phu is the 8 Mar 2014 parish page. Fee stays check on arrival. The 2015 tourism page still prints neither hour nor street."
+    },
+    {
+      "at": "2026-10-21T10:13:45.610Z",
+      "place": "da-nang",
+      "stage": "quality",
+      "item": "da-nang--han-swing-bridge",
+      "status": "checked",
+      "note": "Night frame is the lit bridge from the bank and does not show the turn. All three clocks are on the page. No ticket was added."
+    },
+    {
+      "at": "2026-10-21T10:13:45.553Z",
+      "place": "da-nang",
+      "stage": "copy",
+      "item": "da-nang--han-swing-bridge",
+      "status": "enriched",
+      "note": "Added the city portal clock, about 01:00 back about 04:00, beside the tourism 23:00 lines. Opened 29 Mar 2000. Length stays 487.7 m. Left out a promise that it turns on a given night."
+    },
+    {
+      "at": "2026-10-21T10:13:14.345Z",
+      "place": "da-nang",
+      "stage": "quality",
+      "item": "da-nang--bach-dang",
+      "status": "checked",
+      "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added."
+    },
+    {
+      "at": "2026-10-21T10:13:14.260Z",
+      "place": "da-nang",
+      "stage": "copy",
+      "item": "da-nang--bach-dang",
+      "status": "enriched",
+      "note": "Re-read against the stored dossier on 21 Oct 2026. The page already matched. No sentence changed. Left out any fee or hour that is still check on arrival."
+    },
+    {
+      "at": "2026-10-21T10:13:14.175Z",
+      "place": "da-nang",
+      "stage": "quality",
+      "item": "da-nang--han-market",
+      "status": "checked",
+      "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added."
+    },
+    {
+      "at": "2026-10-21T10:13:14.093Z",
+      "place": "da-nang",
+      "stage": "copy",
+      "item": "da-nang--han-market",
+      "status": "enriched",
+      "note": "Re-read against the stored dossier on 21 Oct 2026. The page already matched. No sentence changed. Left out any fee or hour that is still check on arrival."
+    },
+    {
+      "at": "2026-10-21T10:13:14.015Z",
       "place": "da-nang",
       "stage": "quality",
       "item": "da-nang--son-tra",
       "status": "checked",
-      "note": "Face and hand stay whole in the hero. The gate and stair are the second frame. No fee was invented. The sea is still missing from both photos."
+      "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added."
     },
     {
-      "at": "2026-10-21T07:30:50.557Z",
+      "at": "2026-10-21T10:13:13.928Z",
       "place": "da-nang",
       "stage": "copy",
       "item": "da-nang--son-tra",
       "status": "enriched",
-      "note": "Rewrote the stub. The statue is 67 meters, about 10 km from the center, with no published fee or gate hour. Hero is the face and the hand. Second photo is the gate. The sea is not in either frame."
+      "note": "Re-read against the stored dossier on 21 Oct 2026. The page already matched. No sentence changed. Left out any fee or hour that is still check on arrival."
     },
     {
-      "at": "2026-10-21T07:30:50.500Z",
+      "at": "2026-10-21T10:13:13.843Z",
       "place": "da-nang",
       "stage": "quality",
       "item": "da-nang--my-khe",
       "status": "checked",
-      "note": "Hero is sand, chairs, the rescue hut, and the resort towers. It does not claim surf. Second frame is the shore, the palms, and the road. Chair hire stays check on arrival."
+      "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added."
     },
     {
-      "at": "2026-10-21T07:30:50.438Z",
+      "at": "2026-10-21T10:13:13.759Z",
       "place": "da-nang",
       "stage": "copy",
       "item": "da-nang--my-khe",
       "status": "enriched",
-      "note": "Rewrote the stub. The beach is free. Both 2016 duty clocks and the 2023 notice with no clock are printed. Hero is the chairs, the rescue hut, and the towers. Second photo is the long shore."
+      "note": "Re-read against the stored dossier on 21 Oct 2026. The page already matched. No sentence changed. Left out any fee or hour that is still check on arrival."
     },
     {
-      "at": "2026-10-21T07:30:50.380Z",
+      "at": "2026-10-21T10:13:13.669Z",
       "place": "da-nang",
       "stage": "quality",
       "item": "da-nang--marble-mountains",
       "status": "checked",
-      "note": "Hero shows the marble cliff above the town. Second frame is the cave stair with the guardians. Hill, elevator, and Am Phu prices match the dossier."
+      "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added."
     },
     {
-      "at": "2026-10-21T07:30:50.316Z",
+      "at": "2026-10-21T10:13:13.586Z",
       "place": "da-nang",
       "stage": "copy",
       "item": "da-nang--marble-mountains",
       "status": "enriched",
-      "note": "Rewrote the stub. Thuy Son is 40,000 VND. The elevator and Am Phu are separate tickets. Second photo is the stair in Huyen Khong cave."
-    },
-    {
-      "at": "2026-10-21T07:30:50.244Z",
-      "place": "da-nang",
-      "stage": "quality",
-      "item": "da-nang--hai-van",
-      "status": "checked",
-      "note": "Hero has the road and the bay in one frame. Power lines cross the sky. The second frame is cloud with the sea gone, and the caption says to skip that day. Road minutes stay check on arrival."
-    },
-    {
-      "at": "2026-10-21T07:30:50.184Z",
-      "place": "da-nang",
-      "stage": "copy",
-      "item": "da-nang--hai-van",
-      "status": "enriched",
-      "note": "Rewrote the stub. No road ticket found. Train SE3 is the sourced alternative. Hero shows the road and the sea. Second photo is the cloud day to skip."
-    },
-    {
-      "at": "2026-10-21T07:30:50.119Z",
-      "place": "da-nang",
-      "stage": "quality",
-      "item": "da-nang--dragon-bridge",
-      "status": "checked",
-      "note": "Day frame shows the yellow dragon over the river. Night frame shows the lit head and arches, not a pool. Both show lengths stay in the notice."
-    },
-    {
-      "at": "2026-10-21T07:30:50.060Z",
-      "place": "da-nang",
-      "stage": "copy",
-      "item": "da-nang--dragon-bridge",
-      "status": "enriched",
-      "note": "Rewrote the stub. Show at 21:00 Friday through Sunday, free from the bank. Both published lengths are in the notice. Second photo is the bridge lit at night."
-    },
-    {
-      "at": "2026-10-21T07:30:49.998Z",
-      "place": "da-nang",
-      "stage": "quality",
-      "item": "da-nang--cham-museum",
-      "status": "checked",
-      "note": "Looked at both frames. The yellow building reads from the garden path. The stele is centered. Fee and the two clocks match the dossier."
-    },
-    {
-      "at": "2026-10-21T07:30:49.937Z",
-      "place": "da-nang",
-      "stage": "copy",
-      "item": "da-nang--cham-museum",
-      "status": "enriched",
-      "note": "Rewrote the stub from the dossier. General ticket 60,000 VND. Both door times and both addresses are printed. Second photo is a Cham sandstone stele."
-    },
-    {
-      "at": "2026-10-21T07:30:49.870Z",
-      "place": "da-nang",
-      "stage": "quality",
-      "item": "da-nang--ba-na",
-      "status": "checked",
-      "note": "Hero is the Golden Bridge held by the stone hands. Second frame is the same bridge. Fee, hours, and extras match the stored research. Drive minutes stay check on arrival."
-    },
-    {
-      "at": "2026-10-21T07:30:49.804Z",
-      "place": "da-nang",
-      "stage": "copy",
-      "item": "da-nang--ba-na",
-      "status": "enriched",
-      "note": "Left the published page as it stands. The basic ticket, extras, hours, and shuttle times were already sourced. No sentence was rewritten on this pass."
-    },
-    {
-      "at": "2026-10-21T07:30:49.740Z",
-      "place": "da-nang",
-      "stage": "copy",
-      "item": "da-nang--an-thuong",
-      "status": "blocked",
-      "note": "No photograph of the An Thuong lanes. The published frame is the My Khe beachfront, so a finished page would show the sand. Leave the stub until a night-lane photo exists."
-    },
-    {
-      "at": "2026-10-21T07:15:10.222Z",
-      "place": "da-nang",
-      "stage": "foodQuality",
-      "item": null,
-      "status": "checked",
-      "note": "Read the food guide against the 21 Oct streets. Clocks that disagree are both printed. East West has no invented street. The four name-only streets stay off the page. No stall price was added."
-    },
-    {
-      "at": "2026-10-21T07:15:01.431Z",
-      "place": "da-nang",
-      "stage": "foodCopy",
-      "item": null,
-      "status": "enriched",
-      "note": "21 Oct 2026. Added the sourced food streets and markets. East West street set to check on arrival because the taproom page prints none. Left out: Nguyen Van Linh, Nguyen Van Thoai, Tran Ke Xuong, Le Thanh Nghi, nem lui, ram cuon cai, and bo kho pages, and any new stall price."
-    },
-    {
-      "at": "2026-10-21T07:13:53.682Z",
-      "place": "da-nang",
-      "stage": "destinationQuality",
-      "item": null,
-      "status": "checked",
-      "note": "Read the place against the 21 Oct dossier. Hero shows sand, surf, and the towers. Swim clocks are both printed, not averaged. Breakfast street and Bach Dang match the dossier. Son Tra card uses the existing statue frame; the sea is missing from that file and stays an attraction-photo gap. No fee was invented."
-    },
-    {
-      "at": "2026-10-21T07:13:44.996Z",
-      "place": "da-nang",
-      "stage": "destinationCopy",
-      "item": null,
-      "status": "enriched",
-      "note": "21 Oct 2026. Added the breakfast street, the buoy-and-board swim, Bach Dang, the four-street An Thuong bound, and Son Tra, breakfast, and river-walk cards. Hero kept: sand, surf, and the resort towers. Left out of the page: Downtown ticket and street, the four name-only eating streets, and a single lifeguard clock."
+      "note": "Re-read against the stored dossier on 21 Oct 2026. The page already matched. No sentence changed. Left out any fee or hour that is still check on arrival."
     }
   ]
 }

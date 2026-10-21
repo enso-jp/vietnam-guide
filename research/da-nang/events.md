@@ -1,6 +1,6 @@
 # Events and to-do
 
-Checked: 20 Oct 2026
+Checked: 21 Oct 2026. The Avalokitesvara festival is already a public record. No new date was added.
 
 ### Da Nang International Fireworks Festival
 - Vietnamese name: Lễ hội pháo hoa quốc tế Đà Nẵng (DIFF)

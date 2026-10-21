@@ -15,7 +15,9 @@ Checked 20 Oct 2026. Public fields that stay “Check on arrival” or that name
 - Son Tra and Linh Ung publish no entry fee. A gate fee, if one exists, is still unknown.
 - Kalà Kalà’s own site lists both 08:00–midnight and 08:00–02:00. The page tells the reader to confirm.
 - East West Brewing’s taproom page gives hours and “beachfront,” and no street. The address stays check on arrival.
-- An Thuong still needs a photo of the streets at night. The published frame is the beachfront those streets open onto, and the caption should not call it the alley.
+- An Thuong still needs a second photograph of the lanes. The hero is one doorway on An Thuong 4. It is not the grid, and it is not the beach.
+- Cathedral visitors: the parish notice of 28 Dec 2022 prints Monday–Saturday 08:00–11:30 and 13:30–16:30 (S41). The 2015 tourism page prints no timetable. Sunday and any fee stay check on arrival. The 2014 parish about page prints 156 Trần Phú (S42). The 2015 tourism page prints no street.
+- Han swing bridge: the city portal says about 01:00 to about 04:00, and that turns are now mostly maintenance (S40). The tourism page still prints 23:00. All three clocks stay. A weeknight turn is not guaranteed.
 - Non Nuoc village has no ticket on the city list. It is not a public page yet.
 - Firebirds Vietnamese Craft: a 2026 second room in central Da Nang. The street address is not on the Tropical page (2D Mỹ Khê 7). The food guide says to confirm the street.
 - Huỳnh Thúc Kháng: the 19 Jun 2019 city roundup says the breakfast street was recognized in late 2014, with 45 shops. The decision number is not on that page. Hours disagree with the 18 May 2020 page (06:00–12:00 versus busy 06:00–08:00). There is no photograph of the alley, so it stays in the food guide and does not get its own page.
