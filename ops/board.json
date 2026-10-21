@@ -1,0 +1,3197 @@
+{
+  "version": 1,
+  "updated": "2026-10-21T03:24:23.779Z",
+  "control": {
+    "pause": false,
+    "pauseReason": "",
+    "claimStaleHours": 3,
+    "maxOpenContentPrs": 4,
+    "holdPlaces": []
+  },
+  "claim": null,
+  "log": [
+    {
+      "at": "2026-10-21T03:24:23.694Z",
+      "place": "",
+      "stage": "init",
+      "item": null,
+      "status": "stored",
+      "note": "Board opened from the published JSON, the Da Nang dossier, and the Central Coast candidate list."
+    }
+  ],
+  "places": [
+    {
+      "slug": "can-tho",
+      "name": "Can Tho",
+      "nameVi": "Cần Thơ",
+      "corridor": "mekong-delta",
+      "kind": "city",
+      "parent": null,
+      "publish": "live",
+      "priority": 40,
+      "note": "",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "shell",
+          "note": "A place file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [
+        {
+          "id": "can-tho--cai-rang",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Cai Rang floating market",
+          "slug": "cai-rang",
+          "file": "src/content/attractions/can-tho--cai-rang.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "can-tho--dish--banh-xeo",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Banh xeo",
+          "slug": "banh-xeo",
+          "file": "src/content/dishes/banh-xeo.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        }
+      ],
+      "questions": []
+    },
+    {
+      "slug": "cat-ba",
+      "name": "Cat Ba",
+      "nameVi": "Cát Bà",
+      "corridor": "northern-vietnam",
+      "kind": "town",
+      "parent": null,
+      "publish": "live",
+      "priority": 15,
+      "note": "",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "shell",
+          "note": "A place file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [
+        {
+          "id": "cat-ba--lan-ha",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Lan Ha Bay",
+          "slug": "lan-ha",
+          "file": "src/content/attractions/cat-ba--lan-ha.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "cat-ba--national-park",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Cat Ba National Park",
+          "slug": "national-park",
+          "file": "src/content/attractions/cat-ba--national-park.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        }
+      ],
+      "questions": []
+    },
+    {
+      "slug": "cu-chi",
+      "name": "Cu Chi",
+      "nameVi": "Củ Chi",
+      "corridor": "southeast",
+      "kind": "area",
+      "parent": null,
+      "publish": "live",
+      "priority": 21,
+      "note": "",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "shell",
+          "note": "A place file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [
+        {
+          "id": "cu-chi--tunnels",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Tunnel crawl",
+          "slug": "tunnels",
+          "file": "src/content/attractions/cu-chi--tunnels.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        }
+      ],
+      "questions": []
+    },
+    {
+      "slug": "da-lat",
+      "name": "Da Lat",
+      "nameVi": "Đà Lạt",
+      "corridor": "highlands-coast",
+      "kind": "city",
+      "parent": null,
+      "publish": "live",
+      "priority": 30,
+      "note": "",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "shell",
+          "note": "A place file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [
+        {
+          "id": "da-lat--market",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Da Lat Market",
+          "slug": "market",
+          "file": "src/content/attractions/da-lat--market.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-lat--xuan-huong",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Xuan Huong Lake",
+          "slug": "xuan-huong",
+          "file": "src/content/attractions/da-lat--xuan-huong.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-lat--dish--ca-phe",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Vietnamese coffee",
+          "slug": "ca-phe",
+          "file": "src/content/dishes/ca-phe.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        }
+      ],
+      "questions": []
+    },
+    {
+      "slug": "da-nang",
+      "name": "Da Nang",
+      "nameVi": "Đà Nẵng",
+      "corridor": "central-coast",
+      "kind": "city",
+      "parent": null,
+      "publish": "live",
+      "priority": 1,
+      "note": "",
+      "coverage": {
+        "sights": "partial",
+        "areas": "partial",
+        "foodStreets": "missing",
+        "nightlife": "partial",
+        "lifestyle": "missing",
+        "events": "partial",
+        "sideTrips": "partial"
+      },
+      "stages": {
+        "research": {
+          "status": "needs_depth",
+          "note": "Dossier is stored, but food streets, nightlife, and lifestyle are thin. Huynh Thuc Khang was named by the owner and is not in the dossier.",
+          "updated": "2026-10-21T03:24:23.689Z",
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "paged",
+          "note": "City setup ran 19–20 Oct 2026.",
+          "updated": "2026-10-21T03:24:23.689Z",
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "enriched",
+          "note": "Copy pass 20 Oct 2026. Goes stale when the depth pass changes the dossier.",
+          "updated": "2026-10-21T03:24:23.689Z",
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "paged",
+          "note": "Food guide exists. Depth research may add streets.",
+          "updated": "2026-10-21T03:24:23.689Z",
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "enriched",
+          "note": "Food copy pass 20 Oct 2026.",
+          "updated": "2026-10-21T03:24:23.689Z",
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [
+        {
+          "id": "da-nang--an-thuong",
+          "kind": "sight",
+          "track": "unit",
+          "name": "An Thuong",
+          "slug": "an-thuong",
+          "file": "src/content/attractions/da-nang--an-thuong.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Published. Copy passed once on 20 Oct 2026. Quality has not been run.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--ba-na",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Ba Na Hills and the Golden Bridge",
+          "slug": "ba-na",
+          "file": "src/content/attractions/da-nang--ba-na.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Published. Copy passed once on 20 Oct 2026. Quality has not been run.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--cham-museum",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Museum of Cham Sculpture",
+          "slug": "cham-museum",
+          "file": "src/content/attractions/da-nang--cham-museum.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Published. Copy passed once on 20 Oct 2026. Quality has not been run.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--dragon-bridge",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Dragon Bridge",
+          "slug": "dragon-bridge",
+          "file": "src/content/attractions/da-nang--dragon-bridge.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Published. Copy passed once on 20 Oct 2026. Quality has not been run.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--hai-van",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Hai Van Pass",
+          "slug": "hai-van",
+          "file": "src/content/attractions/da-nang--hai-van.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Published. Copy passed once on 20 Oct 2026. Quality has not been run.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--marble-mountains",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Marble Mountains",
+          "slug": "marble-mountains",
+          "file": "src/content/attractions/da-nang--marble-mountains.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Published. Copy passed once on 20 Oct 2026. Quality has not been run.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--my-khe",
+          "kind": "sight",
+          "track": "unit",
+          "name": "My Khe Beach",
+          "slug": "my-khe",
+          "file": "src/content/attractions/da-nang--my-khe.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Published. Copy passed once on 20 Oct 2026. Quality has not been run.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--son-tra",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Linh Ung Pagoda, Son Tra",
+          "slug": "son-tra",
+          "file": "src/content/attractions/da-nang--son-tra.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Published. Copy passed once on 20 Oct 2026. Quality has not been run.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--dish--mi-quang",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Mi Quang",
+          "slug": "mi-quang",
+          "file": "src/content/dishes/mi-quang.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--dish--bun-cha-ca",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Bun cha ca",
+          "slug": "bun-cha-ca",
+          "file": "src/content/dishes/bun-cha-ca.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--dish--banh-xeo",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Banh xeo",
+          "slug": "banh-xeo",
+          "file": "src/content/dishes/banh-xeo.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--dish--banh-trang-cuon",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Banh trang cuon",
+          "slug": "banh-trang-cuon",
+          "file": "src/content/dishes/banh-trang-cuon.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--dish--banh-canh",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Banh canh",
+          "slug": "banh-canh",
+          "file": "src/content/dishes/banh-canh.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--dish--bun-mam",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Bun mam",
+          "slug": "bun-mam",
+          "file": "src/content/dishes/bun-mam.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--dish--com-ga",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Com ga",
+          "slug": "com-ga",
+          "file": "src/content/dishes/com-ga.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--dish--banh-beo",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Banh beo",
+          "slug": "banh-beo",
+          "file": "src/content/dishes/banh-beo.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--dish--goi-ca",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Goi ca",
+          "slug": "goi-ca",
+          "file": "src/content/dishes/goi-ca.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--dish--vit-lon",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Vit lon um bau",
+          "slug": "vit-lon",
+          "file": "src/content/dishes/vit-lon.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--dish--che",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Che",
+          "slug": "che",
+          "file": "src/content/dishes/che.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--dish--banh-mi",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Banh mi",
+          "slug": "banh-mi",
+          "file": "src/content/dishes/banh-mi.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--dish--ca-phe",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Vietnamese coffee",
+          "slug": "ca-phe",
+          "file": "src/content/dishes/ca-phe.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--event--da-nang-fireworks",
+          "kind": "event",
+          "track": "bundled",
+          "name": "Da Nang International Fireworks Festival",
+          "slug": "da-nang-fireworks",
+          "file": "src/content/festivals/da-nang-fireworks.json",
+          "source": "published",
+          "research": "stored",
+          "page": "paged",
+          "copy": "enriched",
+          "quality": "not_started",
+          "note": "Bundled into the destination stage.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--han-river",
+          "kind": "area",
+          "track": "unit",
+          "name": "Han River",
+          "slug": "han-river",
+          "file": null,
+          "source": "dossier",
+          "research": "stored",
+          "page": "skipped",
+          "copy": "skipped",
+          "quality": "skipped",
+          "note": "Dossier: no separate page yet. Covered by the place and by Dragon Bridge.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--non-nuoc",
+          "kind": "area",
+          "track": "unit",
+          "name": "Non Nuoc stone-carving village",
+          "slug": "non-nuoc",
+          "file": null,
+          "source": "dossier",
+          "research": "stored",
+          "page": "skipped",
+          "copy": "skipped",
+          "quality": "skipped",
+          "note": "Dossier: a side note on the Marble Mountains page is enough until a later setup pass.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--son-tra-peninsula",
+          "kind": "area",
+          "track": "unit",
+          "name": "Son Tra peninsula",
+          "slug": "son-tra-peninsula",
+          "file": null,
+          "source": "dossier",
+          "research": "stored",
+          "page": "skipped",
+          "copy": "skipped",
+          "quality": "skipped",
+          "note": "Dossier: covered by the son-tra page, including Linh Ung.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--han-market",
+          "kind": "food-street",
+          "track": "unit",
+          "name": "Han Market and Con Market",
+          "slug": "han-market",
+          "file": null,
+          "source": "dossier",
+          "research": "stored",
+          "page": "skipped",
+          "copy": "skipped",
+          "quality": "skipped",
+          "note": "Dossier: no market page. The food guide carries them. A depth pass may reopen this.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "da-nang--huynh-thuc-khang",
+          "kind": "food-street",
+          "track": "unit",
+          "name": "Huynh Thuc Khang local food alley",
+          "slug": "huynh-thuc-khang",
+          "file": null,
+          "source": "owner",
+          "research": "not_started",
+          "page": "not_started",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Owner named this alley on 21 Oct 2026. It is not in the Da Nang dossier. Do not publish it until a primary source is stored. Record the area, not a restaurant list.",
+          "updated": null,
+          "reworkCount": 0
+        }
+      ],
+      "questions": []
+    },
+    {
+      "slug": "ha-giang",
+      "name": "Ha Giang",
+      "nameVi": "Hà Giang",
+      "corridor": "northern-vietnam",
+      "kind": "area",
+      "parent": null,
+      "publish": "live",
+      "priority": 17,
+      "note": "",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "shell",
+          "note": "A place file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [
+        {
+          "id": "ha-giang--dong-van",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Dong Van",
+          "slug": "dong-van",
+          "file": "src/content/attractions/ha-giang--dong-van.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "ha-giang--ma-pi-leng",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Ma Pi Leng Pass",
+          "slug": "ma-pi-leng",
+          "file": "src/content/attractions/ha-giang--ma-pi-leng.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "ha-giang--dish--pho",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Pho",
+          "slug": "pho",
+          "file": "src/content/dishes/pho.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        }
+      ],
+      "questions": []
+    },
+    {
+      "slug": "ha-long",
+      "name": "Ha Long Bay",
+      "nameVi": "Vịnh Hạ Long",
+      "corridor": "northern-vietnam",
+      "kind": "area",
+      "parent": null,
+      "publish": "live",
+      "priority": 14,
+      "note": "",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "shell",
+          "note": "A place file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [
+        {
+          "id": "ha-long--sung-sot",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Sung Sot Cave",
+          "slug": "sung-sot",
+          "file": "src/content/attractions/ha-long--sung-sot.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "ha-long--titop",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Ti Top Island",
+          "slug": "titop",
+          "file": "src/content/attractions/ha-long--titop.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        }
+      ],
+      "questions": []
+    },
+    {
+      "slug": "hanoi",
+      "name": "Hanoi",
+      "nameVi": "Hà Nội",
+      "corridor": "northern-vietnam",
+      "kind": "city",
+      "parent": null,
+      "publish": "live",
+      "priority": 10,
+      "note": "",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "shell",
+          "note": "A place file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "shell",
+          "note": "A food file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [
+        {
+          "id": "hanoi--hoan-kiem",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Hoan Kiem Lake",
+          "slug": "hoan-kiem",
+          "file": "src/content/attractions/hanoi--hoan-kiem.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hanoi--temple-of-literature",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Temple of Literature",
+          "slug": "temple-of-literature",
+          "file": "src/content/attractions/hanoi--temple-of-literature.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hanoi--train-street",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Train Street",
+          "slug": "train-street",
+          "file": "src/content/attractions/hanoi--train-street.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hanoi--west-lake",
+          "kind": "sight",
+          "track": "unit",
+          "name": "West Lake",
+          "slug": "west-lake",
+          "file": "src/content/attractions/hanoi--west-lake.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hanoi--dish--pho",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Pho",
+          "slug": "pho",
+          "file": "src/content/dishes/pho.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hanoi--dish--bun-cha",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Bun cha",
+          "slug": "bun-cha",
+          "file": "src/content/dishes/bun-cha.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hanoi--dish--banh-mi",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Banh mi",
+          "slug": "banh-mi",
+          "file": "src/content/dishes/banh-mi.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hanoi--dish--ca-phe",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Vietnamese coffee",
+          "slug": "ca-phe",
+          "file": "src/content/dishes/ca-phe.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hanoi--event--tet",
+          "kind": "event",
+          "track": "bundled",
+          "name": "Tet",
+          "slug": "tet",
+          "file": "src/content/festivals/tet.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the destination stage.",
+          "updated": null,
+          "reworkCount": 0
+        }
+      ],
+      "questions": []
+    },
+    {
+      "slug": "ho-chi-minh-city",
+      "name": "Ho Chi Minh City",
+      "nameVi": "Thành phố Hồ Chí Minh",
+      "corridor": "southeast",
+      "kind": "city",
+      "parent": null,
+      "publish": "live",
+      "priority": 20,
+      "note": "",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "shell",
+          "note": "A place file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "shell",
+          "note": "A food file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [
+        {
+          "id": "ho-chi-minh-city--ben-thanh",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Ben Thanh Market",
+          "slug": "ben-thanh",
+          "file": "src/content/attractions/ho-chi-minh-city--ben-thanh.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "ho-chi-minh-city--notre-dame",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Notre-Dame Cathedral and the Post Office",
+          "slug": "notre-dame",
+          "file": "src/content/attractions/ho-chi-minh-city--notre-dame.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "ho-chi-minh-city--reunification-palace",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Reunification Palace",
+          "slug": "reunification-palace",
+          "file": "src/content/attractions/ho-chi-minh-city--reunification-palace.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "ho-chi-minh-city--war-remnants",
+          "kind": "sight",
+          "track": "unit",
+          "name": "War Remnants Museum",
+          "slug": "war-remnants",
+          "file": "src/content/attractions/ho-chi-minh-city--war-remnants.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "ho-chi-minh-city--dish--com-tam",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Com tam",
+          "slug": "com-tam",
+          "file": "src/content/dishes/com-tam.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "ho-chi-minh-city--dish--banh-xeo",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Banh xeo",
+          "slug": "banh-xeo",
+          "file": "src/content/dishes/banh-xeo.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "ho-chi-minh-city--dish--pho",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Pho",
+          "slug": "pho",
+          "file": "src/content/dishes/pho.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "ho-chi-minh-city--dish--banh-mi",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Banh mi",
+          "slug": "banh-mi",
+          "file": "src/content/dishes/banh-mi.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "ho-chi-minh-city--dish--ca-phe",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Vietnamese coffee",
+          "slug": "ca-phe",
+          "file": "src/content/dishes/ca-phe.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "ho-chi-minh-city--event--tet",
+          "kind": "event",
+          "track": "bundled",
+          "name": "Tet",
+          "slug": "tet",
+          "file": "src/content/festivals/tet.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the destination stage.",
+          "updated": null,
+          "reworkCount": 0
+        }
+      ],
+      "questions": []
+    },
+    {
+      "slug": "hoi-an",
+      "name": "Hoi An",
+      "nameVi": "Hội An",
+      "corridor": "central-coast",
+      "kind": "town",
+      "parent": null,
+      "publish": "live",
+      "priority": 3,
+      "note": "",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "shell",
+          "note": "A place file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "shell",
+          "note": "A food file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [
+        {
+          "id": "hoi-an--an-bang",
+          "kind": "sight",
+          "track": "unit",
+          "name": "An Bang Beach",
+          "slug": "an-bang",
+          "file": "src/content/attractions/hoi-an--an-bang.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hoi-an--japanese-bridge",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Japanese Covered Bridge",
+          "slug": "japanese-bridge",
+          "file": "src/content/attractions/hoi-an--japanese-bridge.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hoi-an--tan-ky",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Tan Ky House",
+          "slug": "tan-ky",
+          "file": "src/content/attractions/hoi-an--tan-ky.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hoi-an--dish--cao-lau",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Cao lau",
+          "slug": "cao-lau",
+          "file": "src/content/dishes/cao-lau.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hoi-an--dish--banh-mi",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Banh mi",
+          "slug": "banh-mi",
+          "file": "src/content/dishes/banh-mi.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hoi-an--dish--com-ga",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Com ga",
+          "slug": "com-ga",
+          "file": "src/content/dishes/com-ga.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hoi-an--dish--ca-phe",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Vietnamese coffee",
+          "slug": "ca-phe",
+          "file": "src/content/dishes/ca-phe.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hoi-an--event--hoi-an-lantern-night",
+          "kind": "event",
+          "track": "bundled",
+          "name": "Hoi An lantern night",
+          "slug": "hoi-an-lantern-night",
+          "file": "src/content/festivals/hoi-an-lantern-night.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the destination stage.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hoi-an--dish--white-rose",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "White rose dumpling",
+          "slug": "white-rose",
+          "file": null,
+          "source": "owner",
+          "research": "not_started",
+          "page": "not_started",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Named in Central Coast coverage on 19 Oct 2026. No dish file yet. Source it in the Hoi An dossier before the food stage publishes it.",
+          "updated": null,
+          "reworkCount": 0
+        }
+      ],
+      "questions": []
+    },
+    {
+      "slug": "hue",
+      "name": "Hue",
+      "nameVi": "Huế",
+      "corridor": "central-coast",
+      "kind": "city",
+      "parent": null,
+      "publish": "live",
+      "priority": 2,
+      "note": "",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "shell",
+          "note": "A place file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "shell",
+          "note": "A food file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [
+        {
+          "id": "hue--citadel",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Hue Citadel",
+          "slug": "citadel",
+          "file": "src/content/attractions/hue--citadel.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hue--khiem",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Tu Duc Tomb",
+          "slug": "khiem",
+          "file": "src/content/attractions/hue--khiem.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hue--thien-mu",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Thien Mu Pagoda",
+          "slug": "thien-mu",
+          "file": "src/content/attractions/hue--thien-mu.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hue--dish--bun-bo-hue",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Bun bo Hue",
+          "slug": "bun-bo-hue",
+          "file": "src/content/dishes/bun-bo-hue.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hue--dish--banh-beo",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Banh beo",
+          "slug": "banh-beo",
+          "file": "src/content/dishes/banh-beo.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hue--dish--banh-mi",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Banh mi",
+          "slug": "banh-mi",
+          "file": "src/content/dishes/banh-mi.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "hue--dish--com-hen",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Com hen",
+          "slug": "com-hen",
+          "file": null,
+          "source": "owner",
+          "research": "not_started",
+          "page": "not_started",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Named in Central Coast coverage on 19 Oct 2026. No dish file yet. Source it in the Hue dossier before the food stage publishes it.",
+          "updated": null,
+          "reworkCount": 0
+        }
+      ],
+      "questions": []
+    },
+    {
+      "slug": "mai-chau",
+      "name": "Mai Chau",
+      "nameVi": "Mai Châu",
+      "corridor": "northern-vietnam",
+      "kind": "town",
+      "parent": null,
+      "publish": "live",
+      "priority": 18,
+      "note": "",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "shell",
+          "note": "A place file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [
+        {
+          "id": "mai-chau--lac",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Lac village",
+          "slug": "lac",
+          "file": "src/content/attractions/mai-chau--lac.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        }
+      ],
+      "questions": []
+    },
+    {
+      "slug": "mui-ne",
+      "name": "Mui Ne",
+      "nameVi": "Mũi Né",
+      "corridor": "highlands-coast",
+      "kind": "town",
+      "parent": null,
+      "publish": "live",
+      "priority": 32,
+      "note": "",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "shell",
+          "note": "A place file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [
+        {
+          "id": "mui-ne--red-dunes",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Red dunes",
+          "slug": "red-dunes",
+          "file": "src/content/attractions/mui-ne--red-dunes.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "mui-ne--white-dunes",
+          "kind": "sight",
+          "track": "unit",
+          "name": "White dunes",
+          "slug": "white-dunes",
+          "file": "src/content/attractions/mui-ne--white-dunes.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        }
+      ],
+      "questions": []
+    },
+    {
+      "slug": "my-son",
+      "name": "My Son",
+      "nameVi": "Mỹ Sơn",
+      "corridor": "central-coast",
+      "kind": "area",
+      "parent": null,
+      "publish": "live",
+      "priority": 4,
+      "note": "",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "shell",
+          "note": "A place file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [
+        {
+          "id": "my-son--towers",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Main tower groups",
+          "slug": "towers",
+          "file": "src/content/attractions/my-son--towers.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        }
+      ],
+      "questions": []
+    },
+    {
+      "slug": "nha-trang",
+      "name": "Nha Trang",
+      "nameVi": "Nha Trang",
+      "corridor": "highlands-coast",
+      "kind": "city",
+      "parent": null,
+      "publish": "live",
+      "priority": 31,
+      "note": "",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "shell",
+          "note": "A place file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [
+        {
+          "id": "nha-trang--beach",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Nha Trang Beach",
+          "slug": "beach",
+          "file": "src/content/attractions/nha-trang--beach.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "nha-trang--po-nagar",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Po Nagar Towers",
+          "slug": "po-nagar",
+          "file": "src/content/attractions/nha-trang--po-nagar.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        }
+      ],
+      "questions": []
+    },
+    {
+      "slug": "ninh-binh",
+      "name": "Ninh Binh",
+      "nameVi": "Ninh Bình",
+      "corridor": "northern-vietnam",
+      "kind": "city",
+      "parent": null,
+      "publish": "live",
+      "priority": 12,
+      "note": "",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "shell",
+          "note": "A place file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [
+        {
+          "id": "ninh-binh--bai-dinh",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Bai Dinh Pagoda",
+          "slug": "bai-dinh",
+          "file": "src/content/attractions/ninh-binh--bai-dinh.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "ninh-binh--hoa-lu",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Hoa Lu",
+          "slug": "hoa-lu",
+          "file": "src/content/attractions/ninh-binh--hoa-lu.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "ninh-binh--mua-cave",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Mua Cave viewpoint",
+          "slug": "mua-cave",
+          "file": "src/content/attractions/ninh-binh--mua-cave.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "ninh-binh--dish--com-tam",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Com tam",
+          "slug": "com-tam",
+          "file": "src/content/dishes/com-tam.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        }
+      ],
+      "questions": []
+    },
+    {
+      "slug": "old-quarter",
+      "name": "Old Quarter",
+      "nameVi": "Phố Cổ",
+      "corridor": "northern-vietnam",
+      "kind": "district",
+      "parent": "hanoi",
+      "publish": "live",
+      "priority": 11,
+      "note": "",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "shell",
+          "note": "A place file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [
+        {
+          "id": "old-quarter--bach-ma",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Bach Ma Temple",
+          "slug": "bach-ma",
+          "file": "src/content/attractions/old-quarter--bach-ma.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "old-quarter--dong-xuan",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Dong Xuan Market",
+          "slug": "dong-xuan",
+          "file": "src/content/attractions/old-quarter--dong-xuan.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "old-quarter--dish--bun-cha",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Bun cha",
+          "slug": "bun-cha",
+          "file": "src/content/dishes/bun-cha.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "old-quarter--dish--pho",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Pho",
+          "slug": "pho",
+          "file": "src/content/dishes/pho.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "old-quarter--dish--ca-phe",
+          "kind": "dish",
+          "track": "bundled",
+          "name": "Vietnamese coffee",
+          "slug": "ca-phe",
+          "file": "src/content/dishes/ca-phe.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+          "updated": null,
+          "reworkCount": 0
+        }
+      ],
+      "questions": []
+    },
+    {
+      "slug": "phong-nha",
+      "name": "Phong Nha",
+      "nameVi": "Phong Nha",
+      "corridor": "central-coast",
+      "kind": "town",
+      "parent": null,
+      "publish": "live",
+      "priority": 5,
+      "note": "",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "shell",
+          "note": "A place file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [
+        {
+          "id": "phong-nha--paradise-cave",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Paradise Cave",
+          "slug": "paradise-cave",
+          "file": "src/content/attractions/phong-nha--paradise-cave.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "phong-nha--phong-nha-cave",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Phong Nha Cave",
+          "slug": "phong-nha-cave",
+          "file": "src/content/attractions/phong-nha--phong-nha-cave.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        }
+      ],
+      "questions": []
+    },
+    {
+      "slug": "phu-quoc",
+      "name": "Phu Quoc",
+      "nameVi": "Phú Quốc",
+      "corridor": "mekong-delta",
+      "kind": "area",
+      "parent": null,
+      "publish": "live",
+      "priority": 41,
+      "note": "",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "shell",
+          "note": "A place file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [
+        {
+          "id": "phu-quoc--long-beach",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Long Beach",
+          "slug": "long-beach",
+          "file": "src/content/attractions/phu-quoc--long-beach.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "phu-quoc--sao",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Sao Beach",
+          "slug": "sao",
+          "file": "src/content/attractions/phu-quoc--sao.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        }
+      ],
+      "questions": []
+    },
+    {
+      "slug": "sapa",
+      "name": "Sapa",
+      "nameVi": "Sa Pa",
+      "corridor": "northern-vietnam",
+      "kind": "town",
+      "parent": null,
+      "publish": "live",
+      "priority": 16,
+      "note": "",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "shell",
+          "note": "A place file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [
+        {
+          "id": "sapa--cat-cat",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Cat Cat",
+          "slug": "cat-cat",
+          "file": "src/content/attractions/sapa--cat-cat.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "sapa--fansipan",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Fansipan",
+          "slug": "fansipan",
+          "file": "src/content/attractions/sapa--fansipan.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        {
+          "id": "sapa--ta-van",
+          "kind": "sight",
+          "track": "unit",
+          "name": "Ta Van valley",
+          "slug": "ta-van",
+          "file": "src/content/attractions/sapa--ta-van.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        }
+      ],
+      "questions": []
+    },
+    {
+      "slug": "tam-coc",
+      "name": "Tam Coc",
+      "nameVi": "Tam Cốc",
+      "corridor": "northern-vietnam",
+      "kind": "town",
+      "parent": null,
+      "publish": "live",
+      "priority": 13,
+      "note": "",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "shell",
+          "note": "A place file exists. It has not been set up from a stored dossier.",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [
+        {
+          "id": "tam-coc--three-caves",
+          "kind": "sight",
+          "track": "unit",
+          "name": "The three caves",
+          "slug": "three-caves",
+          "file": "src/content/attractions/tam-coc--three-caves.json",
+          "source": "published",
+          "research": "not_started",
+          "page": "shell",
+          "copy": "not_started",
+          "quality": "not_started",
+          "note": "Published shell. No dossier yet.",
+          "updated": null,
+          "reworkCount": 0
+        }
+      ],
+      "questions": []
+    },
+    {
+      "slug": "dong-hoi",
+      "name": "Dong Hoi",
+      "nameVi": "Đồng Hới",
+      "corridor": "central-coast",
+      "kind": "city",
+      "parent": null,
+      "publish": "candidate",
+      "priority": 100,
+      "note": "Named in Central Coast coverage as the Phong Nha gateway. Research may be stored. Do not create a public place file until publish is accepted.",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [],
+      "questions": []
+    },
+    {
+      "slug": "lang-co",
+      "name": "Lang Co",
+      "nameVi": "Lăng Cô",
+      "corridor": "central-coast",
+      "kind": "town",
+      "parent": null,
+      "publish": "candidate",
+      "priority": 101,
+      "note": "Named in Central Coast coverage. Research may be stored. Do not create a public place file until publish is accepted.",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [],
+      "questions": []
+    },
+    {
+      "slug": "cham-islands",
+      "name": "Cham Islands",
+      "nameVi": "Cù Lao Chàm",
+      "corridor": "central-coast",
+      "kind": "area",
+      "parent": null,
+      "publish": "candidate",
+      "priority": 102,
+      "note": "Named in Central Coast coverage. Research may be stored. Do not create a public place file until publish is accepted.",
+      "coverage": {
+        "sights": "missing",
+        "areas": "missing",
+        "foodStreets": "missing",
+        "nightlife": "missing",
+        "lifestyle": "missing",
+        "events": "missing",
+        "sideTrips": "missing"
+      },
+      "stages": {
+        "research": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destination": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "destinationQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "food": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodCopy": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        }
+      },
+      "items": [],
+      "questions": []
+    }
+  ]
+}

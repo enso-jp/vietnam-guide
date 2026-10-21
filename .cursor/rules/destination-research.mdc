@@ -12,5 +12,6 @@ Read `.cursor/skills/destination-research/SKILL.md` before writing.
 - Store facts in `research/<slug>/`. Do not edit `src/content` or `public/photos` in a research pass.
 - One destination per pass. Keep the search-name slug.
 - Unknown fees, hours, and dates stay `Check on arrival` and `UNSOURCED`.
-- Set `STATUS.md` to `stored` only when all six sections have sources.
-- Stop when the dossier is stored. Page Setup Agent polishes after that, using `.cursor/skills/graphic-copy/SKILL.md`.
+- Set `STATUS.md` to `stored` only when all six sections have sources, including food streets, nightlife, and lifestyle.
+- Update `ops/board.json` before you finish. If the board says `needs_depth`, keep going.
+- Stop when the dossier is stored. The next claimed stage on the board sets the page up.

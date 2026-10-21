@@ -28,6 +28,12 @@ Destinations, interests, and itineraries are assemblies of those blocks. Do not 
 - Partner URLs live in `src/lib/partners.ts`. Do not paste a booking widget or iframe into a page.
 - Run `npm run check:content` before handing a draft back. `npm run build` also runs that check and the size budget.
 
+## Work board
+
+`ops/board.json` is the status for research, page setup, copy, and quality. Read `.cursor/skills/content-board/SKILL.md` before a content pass. One place and one stage at a time. Do not start a unit another run has claimed.
+
+Page templates, layout, styles, and `src/lib/partners.ts` stay with the owner. A content run does not edit them. Pause the hourly automation, or add a slug to `control.holdPlaces`, before you edit that destination’s content yourself.
+
 ## Setup research
 
 Before a Graphic and Copy pass, store a dossier with `.cursor/skills/destination-research/SKILL.md` at `research/<slug>/`. One province, city, or town per pass. Do not edit public content in that pass. The Graphic and Copy Writing Agent drafts only after `research/<slug>/STATUS.md` says `stored`.

@@ -9,7 +9,9 @@ description: >-
 
 # Graphic and copy
 
-One destination per pass. Start only when `research/<slug>/STATUS.md` says `stored`. Read that dossier before editing. Follow `AGENTS.md` and `.cursor/skills/city-setup/SKILL.md` for the page shape.
+One claimed stage per pass. Start only when `research/<slug>/STATUS.md` says `stored` and the board stage is `destinationCopy`, `foodCopy`, or an item `copy`. Read `.cursor/skills/content-board/SKILL.md`. If the board says `needs_depth`, stop. If the stage is `stale` or `rework`, enrich again from the dossier.
+
+`destinationCopy` is the place prose and the place hero. `foodCopy` is the food guide and its dishes. An item `copy` is that attraction only. Follow `AGENTS.md` and `.cursor/skills/city-setup/SKILL.md` for the page shape.
 
 Do not invent a layout, a fee, an hour, a visa rule, a hotel, a restaurant, a score, or a price. If the dossier says `UNSOURCED` or `Check on arrival`, keep that on the page.
 
@@ -51,4 +53,4 @@ Write the question in `research/<slug>/questions.md`. Leave the public field as 
 
 ## Finish
 
-Run `npm run check:content`. Show the diff. Do not commit unless the user asks. In the draft summary, list files touched, facts taken from the dossier, photos replaced, and questions left in `questions.md`.
+Run `npm run check:content`. Show the diff. A chat with a person does not commit unless they ask. A run that claimed the unit on the board commits that unit. In the draft summary, list files touched, facts taken from the dossier, photos replaced, and questions left in `questions.md`.

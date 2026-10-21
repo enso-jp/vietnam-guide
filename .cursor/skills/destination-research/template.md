@@ -20,7 +20,7 @@ Checked:
 
 ### {Name}
 - Vietnamese name:
-- Kind: sight | area | zone | hub | district
+- Kind: sight | area | zone | hub | district | food-street | nightlife | lifestyle
 - Area:
 - What the visitor does:
 - Time:
@@ -35,6 +35,36 @@ Checked:
 - Sources:
 
 Districts that deserve their own page:
+
+## Nightlife and evening
+
+### {Area}
+- Vietnamese name:
+- Kind: nightlife
+- Area:
+- What the visitor does:
+- Time:
+- Fee:
+- From the base:
+- When to go:
+- Mistake to avoid:
+- Scene landmarks, if any, with a primary URL:
+- Suggested slug:
+- Suggested dot:
+- Photo must show:
+- Sources:
+
+## Lifestyle
+
+### {Area}
+- Vietnamese name:
+- Kind: lifestyle
+- What a day here actually is:
+- When:
+- Area:
+- Suggested slug:
+- Photo must show:
+- Sources:
 
 ## Events and to-do
 
@@ -68,6 +98,18 @@ Districts that deserve their own page:
 - Area, not a shop:
 - Meal: breakfast | main | sweet | drink
 - Neighbor dish to link:
+- Sources:
+
+## Food streets and markets
+
+### {Street or market}
+- Vietnamese name:
+- Kind: food-street
+- What the visitor does:
+- When to go:
+- Area:
+- Suggested slug:
+- Photo must show:
 - Sources:
 
 ## Exploration by interest area (localized to the locations)

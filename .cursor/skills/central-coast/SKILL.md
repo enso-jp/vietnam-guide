@@ -9,11 +9,11 @@ description: >-
 
 # Central Coast
 
-Own the `central-coast` corridor only. Read [coverage.md](coverage.md) before a pass. Follow `AGENTS.md`. Do not invent a layout, a fee, an hour, or a visa rule.
+Own the `central-coast` corridor only. Read [coverage.md](coverage.md) for the corridor notes. The unit to do next is in `ops/board.json`. Follow `AGENTS.md`. Do not invent a layout, a fee, an hour, or a visa rule.
 
 ## Setup phase
 
-Research is not a public draft. For each destination, follow `.cursor/skills/destination-research/SKILL.md`, store the dossier in `research/<slug>/`, and stop. Do not edit `src/content` until that dossier’s `STATUS.md` says `stored` and the user has asked the Graphic and Copy Writing Agent to draft.
+Research is not a public draft. For each destination, follow `.cursor/skills/destination-research/SKILL.md`, store the dossier in `research/<slug>/`, and stop. Do not edit `src/content` until that dossier’s `STATUS.md` says `stored`. The next stage is whichever unit `ops/board.json` claims. A claimed stage is the request to draft. Read `.cursor/skills/content-board/SKILL.md` before taking it.
 
 ## Scope
 
@@ -21,7 +21,7 @@ In: places with `"corridor": "central-coast"`, their attractions (`<place>--<slu
 
 Out: northern and southern pages, rank dots on existing records, and partner URLs. Templates live in city-setup. A shared dish such as `banh-mi` may gain a coast sentence. Do not rewrite its other cities.
 
-New place slugs stay the search name (`hoi-an`, `da-nang`). Add a place only when the user has accepted it in coverage.md. Until then, list it as a candidate.
+New place slugs stay the search name (`hoi-an`, `da-nang`). Add a public place file only when `ops/board.json` has `publish` set to `live` or `accepted`. Until then it stays `candidate`. Coverage.md can name it. The board is the lock.
 
 ## What to publish where
 

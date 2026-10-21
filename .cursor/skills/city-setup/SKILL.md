@@ -12,7 +12,9 @@ description: >-
 
 Build one place until its page has the same layers as the Tokyo city guide. Follow `AGENTS.md`. A corridor skill such as `central-coast` still owns the facts for that beat. This skill owns the shape.
 
-This pass runs after research. Start only when `research/<slug>/STATUS.md` says `stored`. Read that dossier and build the public records from it. If the dossier is missing or still `researching`, stop.
+This pass runs after research. Start only when `research/<slug>/STATUS.md` says `stored` and `ops/board.json` has claimed this place and this stage. Read `.cursor/skills/content-board/SKILL.md`. If the dossier is missing, still `researching`, or the board says `needs_depth`, stop.
+
+The board stage is the scope. `destination` writes the place shell, interests, one itinerary, festivals, nearby, and stay areas. It does not add a new attraction file. `food` writes the food guide and bundled dishes the dossier already sourced. `page` writes the one attraction named by the claim. Later checklist rows belong to later runs.
 
 Do not research the web in this pass. Do not copy a blog sentence into a page. Graphic and copy, in `.cursor/skills/graphic-copy/SKILL.md`, rewrites the prose and reviews every photo after this pass. The lead signs off after that. Stop when the checklist is done and say the place is `paged`.
 
