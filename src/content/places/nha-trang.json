@@ -72,6 +72,55 @@
       "icon": "beach"
     }
   ],
+  "interestGroups": [
+    {
+      "title": "Resort Living",
+      "summary": "Vinpearl on Hon Tre and Six Senses Ninh Van Bay.",
+      "cards": [
+        {
+          "title": "Resort Living",
+          "summary": "Vinpearl on Hon Tre and Six Senses Ninh Van Bay.",
+          "photo": "nha-trang-resort-living",
+          "icon": "bed",
+          "to": "resortLiving"
+        }
+      ]
+    },
+    {
+      "title": "Beaches",
+      "summary": "Tran Phu sand in front of the hotel row.",
+      "cards": [
+        {
+          "title": "Nha Trang Beach",
+          "summary": "The city sand. Swim inside flagged areas.",
+          "attractionSlug": "beach",
+          "photo": "nha-trang-beach",
+          "icon": "beach"
+        }
+      ],
+      "body": [
+        "The city beach runs along Tran Phu. Hotels face the sand, and the evenings belong to seafood rooms and the promenade.",
+        "Islands in the bay are a boat day.",
+        "Seafood by weight is the local risk and the local pleasure. Agree the price before it is grilled. Nem nuong is the snack to look for."
+      ]
+    },
+    {
+      "title": "Po Nagar",
+      "summary": "The Po Nagar Cham towers, just north of the center, are the historical stop and take under an hour.",
+      "cards": [
+        {
+          "title": "Po Nagar Towers",
+          "summary": "Cham towers on a hill north of the beach, still an active place of worship.",
+          "attractionSlug": "po-nagar",
+          "photo": "nha-trang-po-nagar",
+          "icon": "view"
+        }
+      ],
+      "body": [
+        "The Po Nagar Cham towers, just north of the center, are the historical stop and take under an hour."
+      ]
+    }
+  ],
   "faqs": [
     {
       "q": "Is the sea swimmable year-round?",

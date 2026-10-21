@@ -339,13 +339,17 @@ const cityTabLabels: Record<string, string> = {
 
 export function placeTabs(place: Place, hasFestivals = false) {
   if (place.kind === 'district') {
-    return [
+    const items = [
       { id: 'intro', label: 'Intro', href: '#intro' },
       { id: 'get-there', label: 'Get there', href: '#get-there' },
       { id: 'stay', label: 'Hotels', href: '#stay' },
       { id: 'eat', label: 'Restaurants', href: '#eat' },
       { id: 'attractions', label: 'Experiences', href: '#attractions' },
     ];
+    if (place.interestGroups?.length) {
+      items.splice(1, 0, { id: 'interests', label: 'By interest', href: '#interests' });
+    }
+    return items;
   }
   const items = tabs.map((tab) => ({
     id: tab.id,

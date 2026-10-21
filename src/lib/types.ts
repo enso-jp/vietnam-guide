@@ -89,8 +89,17 @@ export interface InterestCard {
   placeSlug?: string;
   photo?: string;
   icon?: string;
+  /** Groups this card under an `InterestGroup` block on the interest page. */
+  block?: string;
   /** `food` links this card to the city food guide page. */
   to?: 'food' | 'resortLiving';
+}
+
+export interface InterestBlock {
+  id: string;
+  heading: string;
+  nav?: string;
+  paragraphs?: string[];
 }
 
 export interface ResortSource {
@@ -122,6 +131,9 @@ export interface InterestGroup {
   title: string;
   /** One sentence on who this group is for. */
   summary?: string;
+  /** Sourced orientation. Leave a line out when nothing supports it. */
+  body?: string[];
+  blocks?: InterestBlock[];
   cards: InterestCard[];
 }
 

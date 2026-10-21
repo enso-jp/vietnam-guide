@@ -80,6 +80,59 @@
       "icon": "view"
     }
   ],
+  "interestGroups": [
+    {
+      "title": "The boat cave",
+      "summary": "About two and a half hours from the Tourism Center. The boat is extra.",
+      "cards": [
+        {
+          "title": "Phong Nha Cave",
+          "summary": "Use the morning for this, and skip it if you wanted a dry walk. From the Tourism Center a boat runs down the Son River, then you row about 1,200 metres of a cave the park measures at 7,729 metres. The visit is about two and a half hours. The entrance is 150,000 VND. The boat is 700,000 VND for up to 12 people. Paradise Cave is not on this ticket.",
+          "attractionSlug": "phong-nha-cave",
+          "photo": "phong-nha-phong-nha-cave",
+          "icon": "view"
+        }
+      ],
+      "body": [
+        "The boat cave is the half-day. Paradise Cave is the dry walk, on its own ticket, and the minutes from the village are check on arrival.",
+        "You start at the Tourism Center on the Son River. The boat runs downstream for about 30 minutes, the engine goes off, and the crew rows you about 1,200 metres into Phong Nha Cave. The park puts that visit at about two and a half hours.",
+        "Chay River and Mooc Spring are the swim, on tickets that do not include the boat. The exploration package is the one that enters Dark Cave. Mooc’s 80,000 VND row is the walk, not the swim. None of those three has a licensed photograph here, so they are not cards."
+      ]
+    },
+    {
+      "title": "The dry boardwalk",
+      "summary": "Paradise Cave, at Km 16. Not included in the boat ticket.",
+      "cards": [
+        {
+          "title": "Paradise Cave",
+          "summary": "Come here for the dry cave, not a second boat. The ordinary ticket is about a kilometre on a wooden walk, inside a cave the park measures at 31.4 kilometres. A buggy or a forest path covers about 1.6 kilometres, then about 500 metres to the mouth. The park charges an adult 270,000 VND, buggy included. Vietjet still prints 250,000 VND. The park does not print the one-kilometre gate hours.",
+          "attractionSlug": "paradise-cave",
+          "photo": "phong-nha-paradise-cave",
+          "icon": "view"
+        }
+      ],
+      "body": [
+        "Paradise Cave is the dry walk, at Km 16 on the west Ho Chi Minh road, on its own ticket. The park’s adult price for the one-kilometre walk is 270,000 VND, buggy included. Vietjet still prints 250,000 VND, and the gate hours are check on arrival."
+      ]
+    },
+    {
+      "title": "The expedition",
+      "summary": "Six days with Oxalis. Not a ticket at the gate.",
+      "cards": [
+        {
+          "title": "Son Doong",
+          "summary": "Do not add this after the boat cave. Oxalis runs it as six days and five nights, from January to August, and there is no walk-up ticket. The park page and the operator both print 3,000 USD a person. The operator also prints 80,000,000 VND. Be in Dong Hoi by 15:00 for the briefing.",
+          "attractionSlug": "son-doong",
+          "photo": "phong-nha-son-doong",
+          "icon": "view"
+        }
+      ],
+      "body": [
+        "The expedition is Son Doong, six days with Oxalis, not a gate you walk up to. The evening is the village after the boards close. The summer boat board ends at 16:30, and the winter board ends at 15:45. The park does not say which months those are.",
+        "Son Doong is not a stop you add after lunch. Oxalis runs it as six days and five nights, from January to August. The park page and the operator both print 3,000 USD a person. The operator also prints 80,000,000 VND. Be in Dong Hoi by 15:00 for the briefing. The operator’s page, checked 21 Oct 2026, says the 2027 and 2028 departures are fully booked."
+      ]
+    }
+  ],
   "season": {
     "label": "Check the board",
     "note": "The park says the Son River runs jade-green in the dry season and reddish in the rainy season, and it does not name those months. Chay River–Dark Cave may close in heavy rain, flooding, or storms. Summer and winter opening hours are both printed. Which months use which clock is check on arrival."

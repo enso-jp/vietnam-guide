@@ -79,6 +79,55 @@
       "icon": "beach"
     }
   ],
+  "interestGroups": [
+    {
+      "title": "Resort Living",
+      "summary": "JW Marriott on Bai Khem and Premier Village on Ong Doi Cape.",
+      "cards": [
+        {
+          "title": "Resort Living",
+          "summary": "JW Marriott on Bai Khem and Premier Village on Ong Doi Cape.",
+          "photo": "phu-quoc-resort-living",
+          "icon": "bed",
+          "to": "resortLiving"
+        }
+      ]
+    },
+    {
+      "title": "Beaches",
+      "summary": "Long Beach resorts and quieter sand toward Sao.",
+      "cards": [
+        {
+          "title": "Long Beach",
+          "summary": "The west-coast sand in front of the main resort strip.",
+          "attractionSlug": "long-beach",
+          "photo": "phu-quoc-long-beach",
+          "icon": "beach",
+          "block": "sand"
+        },
+        {
+          "title": "Sao Beach",
+          "summary": "A paler, curved beach in the southeast. Day visit from Long Beach.",
+          "attractionSlug": "sao",
+          "photo": "phu-quoc-sao",
+          "icon": "beach",
+          "block": "sand"
+        }
+      ],
+      "blocks": [
+        {
+          "id": "sand",
+          "heading": "West coast, then the southeast",
+          "nav": "The sand",
+          "paragraphs": [
+            "Long Beach, on the west, is the resort strip with sunset. Sao Beach and the north are quieter and a longer ride.",
+            "Fish sauce, pepper, and seafood are the local products. Snorkeling trips leave for the southern islands in the calmer months. The rainy months are still warm, with heavier surf and more closed boats.",
+            "For a local meal, leave the hotel strip for Duong Dong town’s night market and ask the price of prawns before they hit the grill. The market has no licensed photograph here, so it is not a card."
+          ]
+        }
+      ]
+    }
+  ],
   "faqs": [
     {
       "q": "How many days on Phu Quoc?",

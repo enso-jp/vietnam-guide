@@ -140,11 +140,15 @@
     },
     {
       "title": "Coffee hills",
-      "summary": "For travelers who plan around a slow cup and a valley view.",
+      "summary": "Arabica on the Cau Dat hills, and a slow cup after the lake. The food guide names areas, not a shop to cross town for.",
+      "body": [
+        "Coffee belongs to the hills around Cau Dat. Vietnam Tourism names farm tours. Those names are tours, not picks, and no stall price is published.",
+        "The cup itself is the coffee page. Market strawberries and the night-market rice paper stay on the Da Lat food guide."
+      ],
       "cards": [
         {
           "title": "Coffee hills",
-          "summary": "Cau Dat slopes and farm tours. No stall price is published.",
+          "summary": "Cau Dat slopes and farm tours. No stall price is published. Drink it after the lake walk, not as a ranked cafe list.",
           "photo": "ca-phe",
           "icon": "drink",
           "dishSlug": "ca-phe"
@@ -153,37 +157,151 @@
     },
     {
       "title": "Lakes and waterfalls",
-      "summary": "Town lake plus half-day rides south and north.",
+      "summary": "Xuan Huong is the lake in town. Tuyen Lam, Truc Lam, and Datanla are the southbound half-day.",
+      "blocks": [
+        {
+          "id": "town",
+          "heading": "The lake in town",
+          "nav": "In town",
+          "paragraphs": [
+            "Wake to mist on Xuan Huong and walk the shore. The lake is free. Palaces, gardens, and waterfalls ticket separately."
+          ]
+        },
+        {
+          "id": "south",
+          "heading": "South of town",
+          "nav": "South",
+          "paragraphs": [
+            "Give a southbound half-day to the cable car from Robin Hill, Truc Lam monastery, and Tuyen Lam Lake, or to Datanla Falls on Prenn Pass. Lang Biang is the northbound half-day, and it has no licensed photograph here, so it is not a card."
+          ]
+        }
+      ],
       "cards": [
         {
-          "title": "Lakes and waterfalls",
-          "summary": "Xuan Huong in town; Tuyen Lam, Datanla, and Lang Biang on rides out.",
+          "title": "Xuan Huong Lake",
+          "summary": "The city lake for a walk, a pedal boat, or a cool evening loop. Bring a layer from November to January.",
+          "attractionSlug": "xuan-huong",
+          "photo": "da-lat-xuan-huong",
+          "icon": "view",
+          "block": "town"
+        },
+        {
+          "title": "Tuyen Lam Lake",
+          "summary": "The gate above the reservoir, with the water through the arch. Boating here is south of town, and it is not the same outing as Xuan Huong.",
           "attractionSlug": "tuyen-lam",
           "photo": "da-lat-tuyen-lam",
-          "icon": "view"
+          "icon": "view",
+          "block": "south"
+        },
+        {
+          "title": "Truc Lam",
+          "summary": "Zen monastery gardens above Tuyen Lam, usually reached by cable car.",
+          "attractionSlug": "truc-lam",
+          "photo": "da-lat-truc-lam",
+          "icon": "museum",
+          "block": "south"
+        },
+        {
+          "title": "Datanla Falls",
+          "summary": "Waterfall on Prenn Pass with optional coaster or guided canyoning.",
+          "attractionSlug": "datanla",
+          "photo": "da-lat-datanla",
+          "icon": "view",
+          "block": "south"
         }
       ]
     },
     {
       "title": "French hill station",
-      "summary": "Colonial roofs, villas, and one surreal guesthouse.",
+      "summary": "The 1930s station, the last emperor’s villa, the pink churches, and Crazy House between lake mornings.",
+      "blocks": [
+        {
+          "id": "station",
+          "heading": "Station, villa, and churches",
+          "nav": "The station",
+          "paragraphs": [
+            "The tourist railway is the art-deco run toward Trai Mat. Crazy House and Bao Dai Palace III fit between lake mornings. View the education college from the gate."
+          ]
+        },
+        {
+          "id": "trai-mat",
+          "heading": "The end of the line",
+          "nav": "Trai Mat",
+          "paragraphs": [
+            "Linh Phuoc is the mosaic pagoda at Trai Mat, often paired with the tourist train. It is not a French villa."
+          ]
+        }
+      ],
       "cards": [
         {
-          "title": "French hill station",
-          "summary": "Railway station, palaces, churches, and Crazy House.",
+          "title": "Da Lat Railway Station",
+          "summary": "The 1930s art-deco station and the short tourist line toward Trai Mat.",
           "attractionSlug": "railway-station",
-          "photo": "da-lat",
-          "icon": "museum"
+          "photo": "da-lat-railway-station",
+          "icon": "museum",
+          "block": "station"
+        },
+        {
+          "title": "Bao Dai Palace III",
+          "summary": "The last emperor’s hill villa rooms and gardens south of the centre.",
+          "attractionSlug": "bao-dai-palace",
+          "photo": "da-lat-bao-dai-palace",
+          "icon": "museum",
+          "block": "station"
+        },
+        {
+          "title": "Da Lat Cathedral",
+          "summary": "The pink cathedral and rooster-topped bell tower on Tran Phu.",
+          "attractionSlug": "cathedral",
+          "photo": "da-lat-cathedral",
+          "icon": "museum",
+          "block": "station"
+        },
+        {
+          "title": "Domaine de Marie",
+          "summary": "Pink church and convent gardens on the west ridge.",
+          "attractionSlug": "domaine-de-marie",
+          "photo": "da-lat-domaine-de-marie",
+          "icon": "museum",
+          "block": "station"
+        },
+        {
+          "title": "Education College",
+          "summary": "Curved colonnade and bell tower on Yersin. The view is from the gate.",
+          "attractionSlug": "education-college",
+          "photo": "da-lat-education-college",
+          "icon": "museum",
+          "block": "station"
+        },
+        {
+          "title": "Crazy House",
+          "summary": "Dang Viet Nga’s surreal guesthouse you can walk through. Skip it if you only wanted the lake.",
+          "attractionSlug": "crazy-house",
+          "photo": "da-lat-crazy-house",
+          "icon": "view",
+          "block": "station"
+        },
+        {
+          "title": "Linh Phuoc",
+          "summary": "Mosaic pagoda at Trai Mat, often paired with the tourist train.",
+          "attractionSlug": "linh-phuoc",
+          "photo": "da-lat-linh-phuoc",
+          "icon": "museum",
+          "block": "trai-mat"
         }
       ]
     },
     {
       "title": "Flowers and gardens",
-      "summary": "Ticketed garden beds and odd-year December festival routes.",
+      "summary": "Lam Vien Square is the lakeside stage for the December flower festival.",
+      "body": [
+        "The 11th Flower Festival in 2026 opens at Lam Vien Square on 19 December and closes on 31 December, with displays into early January. Odd-year December is the pattern. Confirm the next year on arrival.",
+        "Displays that year are planned around Xuan Huong Lake. Road closures those nights are check on arrival. The ticketed city flower garden has no licensed photograph, so it is not a card."
+      ],
       "cards": [
         {
-          "title": "Flowers and gardens",
-          "summary": "Lam Vien Square and December festival displays around the lake.",
+          "title": "Lam Vien Square",
+          "summary": "Lakeside square, and the flower-festival opening and closing stage in December 2026.",
           "attractionSlug": "lam-vien-square",
           "photo": "da-lat-lam-vien-square",
           "icon": "view"
@@ -192,14 +310,24 @@
     },
     {
       "title": "Cool-evening stroll",
-      "summary": "When the air cools after a sunny afternoon.",
+      "summary": "When the coast is still hot, the night market grills rice paper and the lake path stays lit.",
+      "body": [
+        "After dark the night market lanes grill rice paper and pour hot soy milk. The shore of Xuan Huong stays lit. Bring a layer from November to January."
+      ],
       "cards": [
         {
-          "title": "Cool-evening stroll",
-          "summary": "Night market snacks and the lit lake path.",
-          "attractionSlug": "lam-vien-square",
-          "photo": "da-lat-lam-vien-square",
-          "icon": "drink"
+          "title": "Da Lat Market",
+          "summary": "Night stalls after 18:00, with grilled rice paper and soy milk. The sloping halls of flowers and strawberries are the morning in the same market.",
+          "attractionSlug": "market",
+          "photo": "da-lat-market",
+          "icon": "food"
+        },
+        {
+          "title": "Xuan Huong at night",
+          "summary": "The lit lake path after the market. A walk or a pedal boat. Not the same outing as Tuyen Lam.",
+          "attractionSlug": "xuan-huong",
+          "photo": "da-lat-xuan-huong",
+          "icon": "view"
         }
       ]
     }

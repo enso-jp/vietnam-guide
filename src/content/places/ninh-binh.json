@@ -66,6 +66,58 @@
   "interestsBody": [
     "Rice scenery, river caves, and photography lead. It is one of the best family stops in the north because the boat ride is short and the roads between sites are flat."
   ],
+  "interestGroups": [
+    {
+      "title": "Rice and the river",
+      "summary": "Rice scenery, river caves, and photography lead.",
+      "cards": [
+        {
+          "title": "Tam Coc",
+          "summary": "The Tam Coc landing sits among limestone hills south of Ninh Binh city. The standard ride is a small boat rowed through three caves. The trip is timed and returns to the same dock.",
+          "placeSlug": "tam-coc",
+          "photo": "tam-coc",
+          "icon": "view"
+        }
+      ],
+      "body": [
+        "Ninh Binh’s landscape is inland Ha Long: limestone ridges standing in rice paddies, with rivers that pass through low caves. The city itself is a junction. Stay near Tam Coc or in the countryside if the fields are the point.",
+        "Rice scenery, river caves, and photography lead. It is one of the best family stops in the north because the boat ride is short and the roads between sites are flat.",
+        "A stair climb to a terrace with the classic view over rice and karst. The cave itself is secondary. It has no licensed photograph here, so it is not a card."
+      ]
+    },
+    {
+      "title": "Pagodas and Hoa Lu",
+      "summary": "Bai Dinh if you want scale. Hoa Lu if you want the old capital in the limestone.",
+      "cards": [
+        {
+          "title": "Bai Dinh Pagoda",
+          "summary": "A very large modern pagoda complex. Go if you want scale; skip it if you are short on time.",
+          "attractionSlug": "bai-dinh",
+          "photo": "ninh-binh-bai-dinh",
+          "icon": "view",
+          "block": "temples"
+        },
+        {
+          "title": "Hoa Lu",
+          "summary": "The temples of an early Vietnamese capital, in a valley of limestone.",
+          "attractionSlug": "hoa-lu",
+          "photo": "ninh-binh-hoa-lu",
+          "icon": "view",
+          "block": "temples"
+        }
+      ],
+      "blocks": [
+        {
+          "id": "temples",
+          "heading": "A large pagoda, and an old capital",
+          "nav": "Temples",
+          "paragraphs": [
+            "A day trip from Hanoi works if you leave early and pick two sites. Two nights lets you take a bicycle between them."
+          ]
+        }
+      ]
+    }
+  ],
   "faqs": [
     {
       "q": "Can you do Ninh Binh in a day from Hanoi?",

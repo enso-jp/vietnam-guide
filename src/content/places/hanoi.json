@@ -78,6 +78,103 @@
   "interestsBody": [
     "Come to Hanoi for street food, a walkable old commercial district, and coffee. Pagodas and the Temple of Literature reward a focused morning. The city is also the rail and bus hub for Sapa, Ninh Binh, and Ha Long."
   ],
+  "interestGroups": [
+    {
+      "title": "Dining and F&B",
+      "summary": "Hanoi cooks a lighter, less sweet street food than the south. Eat bun cha at lunch, pho in the morning, and egg coffee when you want to sit down.",
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "Hanoi cooks a lighter, less sweet street food than the south. Eat bun cha at lunch, pho in the morning, and egg coffee when you want to sit down.",
+          "photo": "ca-phe",
+          "icon": "food",
+          "to": "food"
+        }
+      ]
+    },
+    {
+      "title": "The lake and the lanes",
+      "summary": "Hoan Kiem Lake is the landmark. The Old Quarter spreads north of the lake in a tight grid of commercial lanes.",
+      "cards": [
+        {
+          "title": "Hoan Kiem Lake",
+          "summary": "The lake at the center of the visitor city, with Ngoc Son Temple on a small island.",
+          "attractionSlug": "hoan-kiem",
+          "photo": "hanoi-hoan-kiem",
+          "icon": "view",
+          "block": "lake"
+        },
+        {
+          "title": "Train Street",
+          "summary": "A narrow residential track where a train still passes. Standing on the tracks is unsafe and often blocked off.",
+          "attractionSlug": "train-street",
+          "photo": "hanoi-train-street",
+          "icon": "view",
+          "block": "lake"
+        },
+        {
+          "title": "Old Quarter",
+          "summary": "The Old Quarter sits on land that was once a cluster of artisan streets outside the citadel. Shop signs still hint at silver, silk, and herbal medicine, even where the ground floors now sell luggage and cafe seats.",
+          "placeSlug": "old-quarter",
+          "photo": "old-quarter",
+          "icon": "view",
+          "block": "quarter"
+        }
+      ],
+      "blocks": [
+        {
+          "id": "lake",
+          "heading": "Around the lake",
+          "nav": "The lake",
+          "paragraphs": [
+            "The walkable center is smaller than the city. Hoan Kiem Lake is the landmark. The wider streets around the Opera House, built during French colonial rule, sit to the south.",
+            "Three days is enough to walk the center, eat well, and add one museum or pagoda without turning the city into a checklist."
+          ]
+        },
+        {
+          "id": "quarter",
+          "heading": "North of the lake",
+          "nav": "Old Quarter",
+          "paragraphs": [
+            "The Old Quarter spreads north of the lake in a tight grid of commercial lanes. Come to Hanoi for street food, a walkable old commercial district, and coffee.",
+            "The Old Quarter is convenient and uneven. A short walk away from the main backpacker corners usually improves the meal."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Temple of Literature",
+      "summary": "Pagodas and the Temple of Literature reward a focused morning.",
+      "cards": [
+        {
+          "title": "Temple of Literature",
+          "summary": "A Confucian temple and Vietnam’s first national university, with quiet courtyards west of the old commercial streets.",
+          "attractionSlug": "temple-of-literature",
+          "photo": "hanoi-temple-of-literature",
+          "icon": "museum"
+        }
+      ],
+      "body": [
+        "Pagodas and the Temple of Literature reward a focused morning. The city is also the rail and bus hub for Sapa, Ninh Binh, and Ha Long."
+      ]
+    },
+    {
+      "title": "West Lake",
+      "summary": "A large lake north of the center, with pagodas, cafes, and lotus in season.",
+      "cards": [
+        {
+          "title": "West Lake",
+          "summary": "A large lake north of the center, with pagodas, cafes, and lotus in season.",
+          "attractionSlug": "west-lake",
+          "photo": "hanoi-west-lake",
+          "icon": "view"
+        }
+      ],
+      "body": [
+        "Lotus on West Lake is usually a summer sight."
+      ]
+    }
+  ],
   "faqs": [
     {
       "q": "How many days do you need in Hanoi?",

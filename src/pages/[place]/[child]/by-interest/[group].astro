@@ -1,0 +1,16 @@
+---
+import InterestGroupView from '../../../../components/InterestGroupView.astro';
+import { interestGroupPages } from '../../../../lib/interest-sections';
+
+export function getStaticPaths() {
+  return interestGroupPages()
+    .filter(({ place }) => place.parent)
+    .map(({ place, section }) => ({
+      params: { place: place.parent, child: place.slug, group: section.slug },
+      props: { place, section },
+    }));
+}
+
+const { place, section } = Astro.props;
+---
+<InterestGroupView place={place} section={section} />

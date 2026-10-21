@@ -55,6 +55,28 @@
   "interestsBody": [
     "Tam Coc is the rice-and-cave stop. Pair it with the Mua Cave steps if you want a viewpoint the boat cannot give you."
   ],
+  "interestGroups": [
+    {
+      "title": "The three caves",
+      "summary": "Low passages where you may need to duck. Water levels change the clearance.",
+      "cards": [
+        {
+          "title": "The three caves",
+          "summary": "Low passages where you may need to duck. Water levels change the clearance.",
+          "attractionSlug": "three-caves",
+          "photo": "tam-coc-three-caves",
+          "icon": "view"
+        }
+      ],
+      "body": [
+        "The Tam Coc landing sits among limestone hills south of Ninh Binh city. The standard ride is a small boat rowed through three caves. The trip is timed and returns to the same dock.",
+        "Buy the ticket at the official booth. Extra requests from the boat are optional. The view is the river and the fields, which change color through the growing season.",
+        "Tam Coc is the rice-and-cave stop. Pair it with the Mua Cave steps if you want a viewpoint the boat cannot give you.",
+        "A stair climb to a terrace with the classic view over rice and karst. The cave itself is secondary. It has no licensed photograph here, so it is not a card.",
+        "Eat at your homestay or back toward the village. The dock restaurants are for convenience."
+      ]
+    }
+  ],
   "faqs": [
     {
       "q": "How long is the Tam Coc boat?",

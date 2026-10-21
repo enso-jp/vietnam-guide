@@ -64,6 +64,43 @@
   "interestsBody": [
     "Mountains, motorbikes, and photography define the loop. Buckwheat flowers, tam giác mạch, are the seasonal reason to time the trip for autumn."
   ],
+  "interestGroups": [
+    {
+      "title": "The loop",
+      "summary": "Mountains, motorbikes, and photography define the loop.",
+      "cards": [
+        {
+          "title": "Dong Van",
+          "summary": "A stone town that makes a sensible overnight. The old quarter is small.",
+          "attractionSlug": "dong-van",
+          "photo": "ha-giang-dong-van",
+          "icon": "view",
+          "block": "road"
+        },
+        {
+          "title": "Ma Pi Leng Pass",
+          "summary": "The high road above the Nho Que River. Stop in designated places; the edge is real.",
+          "attractionSlug": "ma-pi-leng",
+          "photo": "ha-giang-ma-pi-leng",
+          "icon": "view",
+          "block": "road"
+        }
+      ],
+      "blocks": [
+        {
+          "id": "road",
+          "heading": "Dong Van, then the pass",
+          "nav": "The road",
+          "paragraphs": [
+            "Ha Giang town is a provincial stop on the Lo River. The journey people come for leaves town toward Quan Ba, Yen Minh, Dong Van, and Meo Vac, then back on a different road. The Ma Pi Leng pass is the famous stretch.",
+            "This is not a casual scooter day. Roads are steep, weather changes fast, and a Vietnamese motorcycle license is what makes the ride legal. EasyRider-style trips with a driver are the usual choice for visitors who do not hold one. Book a driver who includes the border-district permit.",
+            "Mountains, motorbikes, and photography define the loop. Buckwheat flowers, tam giác mạch, are the seasonal reason to time the trip for autumn.",
+            "Meals are breakfast pho, rice plates, and whatever the homestay cooks. Choice is limited in the smaller communes and that is fine."
+          ]
+        }
+      ]
+    }
+  ],
   "faqs": [
     {
       "q": "Can you do the loop without riding?",

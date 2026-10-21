@@ -76,6 +76,44 @@
       "icon": "museum"
     }
   ],
+  "interestGroups": [
+    {
+      "title": "Dak Ke lake",
+      "summary": "The famous lake of the set, with shore walks.",
+      "cards": [
+        {
+          "title": "Dak Ke Lake",
+          "summary": "The best-known of Mang Den’s lakes, with shore paths and still water under pine. Vietnam Tourism names canoeing, fishing, and a rong house beside the water. Gate fees and boat prices stay check on arrival.",
+          "attractionSlug": "dak-ke-lake",
+          "photo": "mang-den-dak-ke-lake",
+          "icon": "view"
+        }
+      ],
+      "body": [
+        "Pa Sy is the headline fall. Dak Ke lake and the smaller Dak Ke waterfall carry the seven-lakes folklore without inventing extra gates.",
+        "The day is water and forest: Pa Sy where three streams meet, Dak Ke lake with shore paths, and Kon Pring’s communal house a few kilometres along Highway 24.",
+        "Pa Sy is about 9 km from town on tourism pages. The provincial portal sets adult admission at 50,000 VND from 30 May 2026. Older 20,000 VND listings are outdated. Pa Sy, the smaller Dak Ke waterfall, and Khanh Lam pagoda have no licensed photograph here, so they are not cards. Khanh Lam is a forest climb of about 200 stone steps."
+      ]
+    },
+    {
+      "title": "Kon Pring village",
+      "summary": "Communal house, gongs, and crafts off Highway 24.",
+      "cards": [
+        {
+          "title": "Kon Pring village",
+          "summary": "A Mơ Nâm community tourism village three to five kilometres from Mang Den on Highway 24. See the nhà rông, stilt houses, and gong culture TITC describes. Mang Den Tourism prints 05:00–21:00 hours and leaves the fee updating.",
+          "attractionSlug": "kon-pring-village",
+          "photo": "mang-den-kon-pring-village",
+          "icon": "museum"
+        }
+      ],
+      "body": [
+        "Kon Pring is the culture half-day. Khanh Lam and the town church are shorter spiritual stops.",
+        "Kon Pring is one of four Kon Plông community tourism villages. Go Vietnam Travel and TITC describe gong culture, weaving, and rice wine without a fixed performance calendar. Mang Den Tourism prints village hours of 05:00–21:00 and leaves the fee as updating.",
+        "There is no nightlife card. The night is cool air and an early start for mist."
+      ]
+    }
+  ],
   "season": {
     "label": "Cool year-round",
     "note": "Vietnam Tourism describes mild air through the year and warns that blog posts disagree on which months are driest for Pa Sy roads. Treat storm closures as check on arrival."

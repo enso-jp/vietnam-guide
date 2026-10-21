@@ -239,7 +239,7 @@ const leadSight = tiedForLead.find((item) => topInterest && item.interests.inclu
             </div>
           </section>
         )}
-        {place.kind !== 'district' && (
+        {(place.kind !== 'district' || interestSlider) && (
         <section id="interests" class="place-section">
           <h2>{place.name} by interest</h2>
           {interestSlider ? (
@@ -344,8 +344,8 @@ const leadSight = tiedForLead.find((item) => topInterest && item.interests.inclu
             <li><a href="#attractions"><Icon name="view" />{place.kind === 'district' ? 'Experiences' : 'Attractions'}</a></li>
             {festivals.length > 0 && <li><a href="#festivals"><Icon name="event" />Events</a></li>}
             {nearby.length > 0 && <li><a href="#side-trips"><Icon name="pin" />Side trips</a></li>}
-            {place.kind !== 'district' && interestRail.length > 0 && <li class="explore-label">By interest</li>}
-            {place.kind !== 'district' && interestRail.map((item) => (
+            {(place.kind !== 'district' || interestSlider) && interestRail.length > 0 && <li class="explore-label">By interest</li>}
+            {(place.kind !== 'district' || interestSlider) && interestRail.map((item) => (
               <li><a href={item.href}><Icon name={item.icon || 'view'} />{item.title}</a></li>
             ))}
             {place.kind !== 'district' && <li class="explore-label">Plan your trip</li>}

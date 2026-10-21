@@ -76,6 +76,87 @@
   "interestsBody": [
     "Food, markets, and the city’s war-history museums. The beach is not here; Vung Tau and Phu Quoc are separate rides or flights."
   ],
+  "interestGroups": [
+    {
+      "title": "Dining and F&B",
+      "summary": "The southern table is sweeter, herbier, and built around rice plates as much as noodle soups. Com tam is the lunch. Banh xeo is the shared snack.",
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "Com tam is the lunch. Banh xeo is the shared snack.",
+          "photo": "banh-xeo",
+          "icon": "food",
+          "to": "food"
+        }
+      ]
+    },
+    {
+      "title": "Ben Thanh",
+      "summary": "The central market. Good for a look, mixed for shopping. Agree prices before you buy.",
+      "cards": [
+        {
+          "title": "Ben Thanh Market",
+          "summary": "The central market. Good for a look, mixed for shopping. Agree prices before you buy.",
+          "attractionSlug": "ben-thanh",
+          "photo": "ho-chi-minh-city-ben-thanh",
+          "icon": "view"
+        }
+      ],
+      "body": [
+        "Ben Thanh’s stalls are convenient and priced for visitors. Walk a few blocks to a com tam room with a lunch queue.",
+        "Food, markets, and the city’s war-history museums. The beach is not here; Vung Tau and Phu Quoc are separate rides or flights."
+      ]
+    },
+    {
+      "title": "Cathedral square",
+      "summary": "The French-era cathedral square and the painted post office next door. The cathedral has had long closures for repairs; check the day.",
+      "cards": [
+        {
+          "title": "Notre-Dame Cathedral and the Post Office",
+          "summary": "The French-era cathedral square and the painted post office next door. The cathedral has had long closures for repairs; check the day.",
+          "attractionSlug": "notre-dame",
+          "photo": "ho-chi-minh-city-notre-dame",
+          "icon": "view"
+        }
+      ],
+      "body": [
+        "The city is still called Saigon by many residents, and that name fits the center: a tight commercial downtown that grew under French rule and then kept growing. The walkable visitor core is District 1."
+      ]
+    },
+    {
+      "title": "War history",
+      "summary": "Use the War Remnants Museum if you want the documentary record, and allow time. The Reunification Palace is the other standard stop.",
+      "cards": [
+        {
+          "title": "War Remnants Museum",
+          "summary": "A direct, photographic museum of the wars in Vietnam. It is distressing and crowded. Read it slowly or not at all.",
+          "attractionSlug": "war-remnants",
+          "photo": "ho-chi-minh-city-war-remnants",
+          "icon": "museum",
+          "block": "record"
+        },
+        {
+          "title": "Reunification Palace",
+          "summary": "The former presidential palace, kept as it was in 1975, including the war rooms.",
+          "attractionSlug": "reunification-palace",
+          "photo": "ho-chi-minh-city-reunification-palace",
+          "icon": "museum",
+          "block": "record"
+        }
+      ],
+      "blocks": [
+        {
+          "id": "record",
+          "heading": "The museum and the palace",
+          "nav": "The record",
+          "paragraphs": [
+            "Use the War Remnants Museum if you want the documentary record, and allow time; it is not a light hour. The Reunification Palace is the other standard stop, a preserved 1960s government building.",
+            "Cholon, the Chinese commercial district, is a separate half-day. It has no licensed photograph here, so it is not a card."
+          ]
+        }
+      ]
+    }
+  ],
   "faqs": [
     {
       "q": "Is Ho Chi Minh City the same as Saigon?",
