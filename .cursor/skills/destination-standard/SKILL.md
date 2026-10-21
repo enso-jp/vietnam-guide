@@ -27,7 +27,7 @@ How the page looks is `.cursor/skills/ui-ux/SKILL.md`. What a city setup contain
 
 Interests are real groupings for that city, not a mixed set of tags that share one photo.
 
-Dining and F&B is always the first interest card. It opens that place’s food guide.
+Dining and F&B is the first interest card when this place has a food guide. It opens that guide. Do not invent the card for a monument or a cave. Shopping, Resort Living, the photo gate, and the six tourism regions are `.cursor/skills/city-setup/SKILL.md`. The interest row is one slider in `.cursor/skills/ui-ux/SKILL.md`.
 
 Da Nang’s groups, as the owner named them:
 

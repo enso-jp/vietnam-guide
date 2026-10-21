@@ -2,7 +2,7 @@
 
 Last reviewed: 21 Oct 2026. Status lives in `ops/board/`. This file is the Central Coast note, not the queue.
 
-Corridor copy lives in `src/content/corridors/central-coast.json`. Places: Hue, Da Nang, Hoi An, My Son, Phong Nha.
+The old `src/content/corridors/central-coast.json` file is gone. Hue and Phong Nha are North Central Coast (`north-central`). Da Nang, Hoi An, and My Son are South Central Coast & Central Highlands (`south-central-highlands`). Places: Hue, Da Nang, Hoi An, My Son, Phong Nha.
 
 ## Setup research
 

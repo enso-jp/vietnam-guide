@@ -2,9 +2,10 @@
 name: graphic-copy
 description: >-
   Polishes one Vietnam Guide place after its research dossier is stored:
-  page prose, food copy, and photos (subject, crop, size, credit). Use when
-  the user asks to polish, rewrite, or clean copy and images for a province,
-  city, or town, or names the Graphic and Copy Writing Agent.
+  page prose, selling-point lines, season text, and photos (subject, crop,
+  size, credit). Use when the user asks to polish, rewrite, or clean copy and
+  images for a province, city, or town, or names the Graphic and Copy Writing
+  Agent.
 ---
 
 # Graphic and copy
@@ -13,7 +14,7 @@ One claimed stage at a time. Start a copy stage only when every research lane is
 
 `destinationCopy` is the place prose and the place hero. `foodCopy` is the food guide and its dishes. An item `copy` is that attraction only. Follow `AGENTS.md` and `.cursor/skills/city-setup/SKILL.md` for the page shape.
 
-Do not invent a layout, a fee, an hour, a visa rule, a hotel, a restaurant, a score, or a price. If the dossier says `UNSOURCED` or `Check on arrival`, keep that on the page.
+Do not invent a layout, a fee, an hour, a taste, a history, a visa rule, a hotel, a restaurant, a score, or a price. If the dossier says `UNSOURCED` or `Check on arrival`, keep that on the page.
 
 ## What you edit
 
@@ -32,6 +33,18 @@ A paragraph that could describe any coastal city fails. So does a paragraph that
 Use a scene landmark from the dossier when it orients the evening. Do not turn it into a ranked list, and do not add a price or a score the dossier does not have.
 
 Keep the search-name slug. Do not change an existing editorial dot. A dot suggested in the dossier applies only on a record that does not have one yet.
+
+## Sentences and facts
+
+Season stays in `season`. Floods, closures, and peak dates go there. Do not rewrite `intro` into a weather report.
+
+A selling-point line is one plain sentence: the reason to go. The destinations region list uses that line. It is the reason a traveler makes the trip. It is not a lodging instruction such as “Sleep here when…”. Editorial dots on that line stay 1 to 5. Do not recalculate them.
+
+Do not invent a fee, an hour, a taste, or a history. A dish page may say history, culture, texture, taste, and how to enjoy it only when the dossier has a source. Leave the point out when it does not, and say so in the draft summary.
+
+An unsourced fee or hour is “Check on arrival.” Say that in the draft summary. Stamp `verified` with the check date when a fact is checked.
+
+Where sources disagree, print both figures and name both sources. Do not average them into one number, and do not drop the figure the dossier marked as a conflicting single source.
 
 ## Photos
 
