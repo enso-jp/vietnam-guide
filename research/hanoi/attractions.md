@@ -28,6 +28,142 @@ Checked: 21 Oct 2026
 - Mistake to avoid: Treating the metro map as a way onto the lake. The open lines do not reach this water. See getting-there.md.
 - Local interest: The lake evening
 - Suggested slug: hoan-kiem
-- Suggested dot: 5 already on the published lake record. Do not change it. Do not add a second record for the scene.
+- Suggested dot: 4 already on the published lake record. Do not change it. Do not add a second record for the scene.
 - Photo must show: the lake, the scarlet bridge, and the temple on the island in one frame, trees on the bank, subject through the center
 - Sources: S1, S2, S3, S4, S5, S6
+
+## Attractions (Sight, area of interests, zone, hub, etc.)
+
+The first pass is the center a planning trip actually walks. Fees and hours are copied only from a page opened on 21 Oct 2026. Where two pages disagree, both figures stay. A museum, a pagoda door, or a district that was not opened is named in the lane note and is not given an invented fee.
+
+### Hoan Kiem Lake
+- Vietnamese name: Hồ Hoàn Kiếm
+- Kind: sight
+- Area: The core, with the Old Quarter to the north and the French Quarter walk to the south
+- What the visitor does: Walks the bank. Morning is exercise under the trees. The red Húc Bridge leads to Ngọc Sơn on the island. The Turtle Tower stands in the water (S1, S2). The weekend walking streets are the list in Decision 72 (S4).
+- Time: A loop, morning or evening. Minutes: Check on arrival — UNSOURCED
+- Fee: The tourism board says the lake is free and open all day (S2). Ngọc Sơn’s door is not priced in this entry. The same board prints 50,000 VND and weekend hours to 22:00 for the temple (S2). No second page was opened, so that temple figure is not the line to publish. Check on arrival.
+- From the base: On foot from the Old Quarter or the south rim.
+- When to go: Before sunrise for the bank. Friday to Sunday evening only after checking that weekend’s walking-zone clock (S1, S5, S6).
+- Mistake to avoid: Budgeting the metro to the water. It does not reach the lake. See getting-there.md.
+- Local interest: The lake
+- Suggested slug: hoan-kiem
+- Suggested dot: 4 already on the record. Do not change it.
+- Photo must show: the lake, the scarlet bridge, and the temple on the island in one frame, trees on the bank, subject through the center. A second frame can be the Turtle Tower in the water, whole, not a crop of the spire.
+- Sources: S1, S2, S4
+
+### Temple of Literature
+- Vietnamese name: Văn Miếu – Quốc Tử Giám
+- Kind: sight
+- Area: Văn Miếu – Quốc Tử Giám ward. Entrance 58 Quốc Tử Giám. Exits at 19–21 Văn Miếu and the path to Giam Garden opposite 40 Tôn Đức Thắng (S17).
+- What the visitor does: Walks the old academy. King Lý Thánh Tông ordered Văn Miếu built in 1070. Quốc Tử Giám was established in 1076. The doctoral stelae were ordered in 1484. The site’s own history page says UNESCO recognized those stelae as documentary heritage in 2011, and the state named the complex a special national relic in 2012 (S18). This pass did not open the UNESCO document page, so the inscription is the site’s sentence.
+- Time: A morning. On-site minutes: Check on arrival — UNSOURCED
+- Fee: The site’s own pages: standard 70,000 VND for a general adult; priority 35,000 VND for students in the Vietnamese school system, people 60 and over with a citizen ID, and people with severe disabilities who qualify; free for children under 16 and people with especially severe disabilities. The night program has a separate ticket. The number was not on the pages read (S17). The tourism board prints 70,000 VND and a night tour at 199,000 VND, and it says the night runs 18:30–21:30, typically Wednesday, Saturday, and Sunday (S2). Use 70,000 VND from the site. Do not print 199,000 until the site does.
+- From the base: Not a lake-loop walk with a sourced minute. The site names bus 38 at the entrance and buses 02, 41, E08, and E09 opposite 40 Tôn Đức Thắng (S17). Minutes from Hoàn Kiếm: Check on arrival — UNSOURCED
+- When to go: The site says 08:00–17:00 every day, and an evening program 18:00–22:00 on Wednesday, Saturday, and Sunday (S17). The tourism board instead says 08:00–17:00 from November to March and 07:30–18:00 the rest of the year, Tuesday to Sunday, and does not match the site’s night clock (S2). Prefer the site, and confirm the board at the door.
+- Mistake to avoid: Treating the tourism board’s closed Monday, or its 199,000 VND night price, as the site’s rule.
+- Local interest: The old academy
+- Suggested slug: temple-of-literature
+- Suggested dot: 4 already on the record. Do not change it.
+- Photo must show: a courtyard and a gate or the stelae house, roofs whole, in color. A portrait crop through a statue’s chest fails. A second frame should be another court, not the same gate.
+- Sources: S2, S17, S18
+
+### Thang Long Imperial Citadel
+- Vietnamese name: Hoàng thành Thăng Long
+- Kind: sight
+- Area: 19C Hoàng Diệu, Ba Đình ward (S19, S20)
+- What the visitor does: Enters the central citadel. The conservation center’s exhibition page calls the Flag Tower, Cột cờ Hà Nội, the most intact grand work still standing in the complex, and Đoan Môn a main gate on the south, on axis with the Kinh Thiên hall and the Flag Tower (S20).
+- Time: Check on arrival — UNSOURCED. The grounds are a morning, not a gate photo.
+- Fee: From 1 Jan 2025, 100,000 VND a person a visit, the same for a Vietnamese and an international visitor. Half price, 50,000 VND, for the groups in the center’s notice, including a Vietnamese citizen 60 or over with an elderly card, and a student 16 or over in the national school system. Free for a child under 16 with papers, or under 1.3 m if there are no papers, and for a person with an especially severe disability (S19). The notice cites Hanoi Council Resolution 16/2023/NQ-HĐND of 6 Dec 2023. A night-tour dong figure was not on that notice.
+- From the base: Ba Đình, not the lake loop. Minutes: Check on arrival — UNSOURCED
+- When to go: The center’s exhibition page says open 08:00–17:00, last entry 16:45 (S20). It does not name a closing weekday. A commercial page that says the citadel closes Monday and splits the day at 11:30 was not used.
+- Mistake to avoid: Using an old 30,000 VND line. The center’s notice replaced the fee on 1 Jan 2025 (S19).
+- Local interest: The citadel
+- Suggested slug: thang-long-citadel
+- Suggested dot: 4 — a morning in Ba Đình. The picture a traveler wakes to is still the lake.
+- Photo must show: the Flag Tower whole, base to the top, in color. A second frame should be Đoan Môn or another gate, not the same tower cropped through the roof.
+- Sources: S19, S20
+
+### Ho Chi Minh Mausoleum
+- Vietnamese name: Lăng Chủ tịch Hồ Chí Minh
+- Kind: sight
+- Area: Ba Đình. The command’s rule sends visiting groups to 17 Ngọc Hà. The reception office in the same document is 1 Ông Ích Khiêm (S21). The tourism board prints 1 Hùng Vương (S2). Write both addresses. Do not collapse them.
+- What the visitor does: Joins the morning visit. The command page is a rule for the ceremony, the square, and the memorial, posted 14 Apr 2018 (S21). The tourism board describes the building, dated by that page to 1973–1975, and a glass sarcophagus (S2).
+- Time: The morning window only. On-site minutes: Check on arrival — UNSOURCED
+- Fee: The command page read does not print a ticket. The tourism board prints 40,000 VND (S2). One page is not enough. Check on arrival.
+- From the base: Ba Đình. Minutes from the lake: Check on arrival — UNSOURCED
+- When to go: The command rule, not the tourism board. Visits on Tuesday, Wednesday, Thursday, Saturday, and Sunday mornings. No visit on Monday or Friday, except 19 May, 2 September, and the first morning of Tết if one of those falls on a Monday or a Friday. Hot season 1 Apr–31 Oct: 07:30–10:30 Tuesday to Thursday; 07:30–11:00 Saturday, Sunday, and holidays. Cold season 1 Nov–31 Mar: 08:00–11:00 Tuesday to Thursday; 08:00–11:30 Saturday, Sunday, and holidays (S21). The tourism board’s hours are close and not the same: it prints a last entry at 10:15 and does not split Saturday the way the command page does (S2). Flag raising is 06:00 in the hot season and 06:30 in the cold season. The flag comes down at 21:00 (S21). The tourism board’s 21:00 is not what it printed; it printed 06:00 and 21:00 as 6:00 AM and 9:00 PM (S2). Prefer the command page. A 2026 closure notice was not opened, so whether the building is open on a given morning is Check on arrival.
+- Mistake to avoid: Going on Monday or Friday, or arriving at noon. The window is the morning (S21).
+- Local interest: Ba Đình
+- Suggested slug: ho-chi-minh-mausoleum
+- Suggested dot: 4 — a timed morning beside the citadel, not a day by itself
+- Photo must show: the mausoleum front and the square in one frame, the building whole. A crop through the roof, or a frame that is only empty paving, fails.
+- Sources: S2, S21
+
+### One Pillar Pagoda
+- Vietnamese name: Chùa Một Cột
+- Kind: sight
+- Area: Ba Đình. The tourism board prints the address as Chùa Một Cột, Đội Cấn (S2).
+- What the visitor does: Sees the wooden pagoda on a single stone pillar, in a lotus pond. The tourism board dates it to 1049, under Lý Thái Tổ, and says the form is a lotus (S2).
+- Time: A short stop on the Ba Đình morning. Minutes: Check on arrival — UNSOURCED
+- Fee: The tourism board prints 25,000 VND (S2). No second page was opened. Check on arrival.
+- From the base: With the mausoleum, not as a separate ride with a sourced minute.
+- When to go: The tourism board prints Tuesday to Thursday and Saturday to Sunday, summer 07:30–10:30 and winter 08:00–11:00 (S2). That matches the mausoleum’s shape and was not confirmed on the pagoda’s own page. Check on arrival.
+- Mistake to avoid: Treating the printed 25,000 VND as settled.
+- Local interest: Pagodas
+- Suggested slug: one-pillar-pagoda
+- Suggested dot: 3 — a stop beside the mausoleum, not a separate day
+- Photo must show: the pillar and the pagoda roof in one frame, roof whole, with the pond. A crop that cuts the roof off the pillar fails.
+- Sources: S2
+
+### Train Street
+- Vietnamese name: phố cà phê đường tàu
+- Kind: sight
+- Area: More than one stretch. This pass opened only the VTV report of 14 Apr 2026, which places about 60 cafe households from Giải Phóng to Khâm Thiên, in Văn Miếu – Quốc Tử Giám ward (S22). The Phùng Hưng – Trần Phú stretch that travelers mean was not on that page. Do not treat the two as one street.
+- What the visitor does: The article describes visitors standing and sitting by the rails to take photographs, and households serving drinks in the railway safety corridor. Police and the ward, on 13 Apr 2026, asked those households to sign a commitment not to encroach, and told them not to let customers gather on the rails when a train is coming (S22). This is not a cafe recommendation.
+- Time: Check on arrival — UNSOURCED
+- Fee: No ticket is printed (S22). Check on arrival
+- From the base: The Giải Phóng – Khâm Thiên stretch is south of the station, not the lake loop. Minutes: Check on arrival — UNSOURCED
+- When to go: Not a time to recommend. The article’s point is the danger when a train is due (S22).
+- Mistake to avoid: Sitting on the rails, or publishing a cafe on this street as a pick. A 2025 tourism-department order about tours to the Phùng Hưng stretch did not load. Do not invent its wording.
+- Local interest: A rail corridor, not a promenade
+- Suggested slug: train-street
+- Suggested dot: 2 already on the record. Do not change it.
+- Photo must show: the rails and the house fronts from a safe distance, no one on the track, no drink in the foreground. A frame that is mostly a torso, or a person on the rails, fails.
+- Sources: S22
+
+### Old Quarter
+- Vietnamese name: Phố cổ Hà Nội
+- Kind: area
+- Area: North of Hoan Kiem Lake. The tourism board calls it one square kilometre and 36 guild streets (S1, S2).
+- What the visitor does: Walks the commercial lanes. Hàng Bạc, Hàng Mã, Hàng Gai, and Lãn Ông are the trade streets the board still names (S1). Tube houses are the building type: a narrow front, a deep plan (S1).
+- Time: A day of walking can be spent here. A sourced minute for any one street: Check on arrival — UNSOURCED
+- Fee: The board says the quarter is free (S2). Its printed hours, 07:00 to midnight, were not on a second page.
+- From the base: This is the base, if the room is north of the lake.
+- When to go: Morning for the lanes. The weekend night market the board places on Hàng Đào is a food-lane question (S1).
+- Mistake to avoid: Opening a second public page for the whole quarter. The place page carries it.
+- Local interest: The old commercial streets
+- Suggested slug: old-quarter
+- Suggested dot: do not add a record. The place page carries the quarter.
+- Photo must show: a lane with tube-house fronts, people, and goods, subject through the center. Empty sky above the roofs fails.
+- Sources: S1, S2
+
+### French Quarter
+- Vietnamese name: Khu phố Pháp
+- Kind: area
+- Area: The streets just south of the Old Quarter, on the tourism board’s walking tour, ending at the Opera House (S3). The Opera House address on the attractions page is 1 Tràng Tiền (S2).
+- What the visitor does: Walks wider, tree-lined streets from the lake toward the Opera House, past Thien Quang Lake and Reunification Park on the board’s route (S3). A hotel terrace named at the end of that walk is not a pick.
+- Time: A walk. Minutes: Check on arrival — UNSOURCED
+- Fee: No fee is printed for the streets (S3). The Opera House ticket is Check on arrival. The attractions page says the house is under renovation and does not print a price (S2). No second page was opened.
+- From the base: On foot from the south rim of the lake.
+- When to go: Daytime for the buildings. The lake-edge streets in Decision 72 are the evening, and they are listed under Hoan Kiem (S4).
+- Mistake to avoid: Treating the quarter as a hotel brand, or as a second lake.
+- Local interest: The colonial streets south of the lake
+- Suggested slug: french-quarter
+- Suggested dot: do not add a record. The place page and the Opera House pin carry it.
+- Photo must show: a wide street, trees, and a colonial front, subject through the center. A crop of one window, or a hotel logo, fails.
+- Sources: S2, S3, S4
+
+Districts that deserve their own page:
+
+Not decided this pass. Ba Đình is the cluster of the citadel, the mausoleum, and One Pillar, not a separate district page yet. West Lake is already a published sight and was not re-sourced. Tây Hồ, the outer riverside, and the museum row are still open.

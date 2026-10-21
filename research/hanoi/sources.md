@@ -97,3 +97,39 @@ Accessed 21 Oct 2026 unless a line says the page has its own date.
 - Publisher: Ha Noi Statistics Office, Ha Noi Statistical Yearbook 2022. Official figures 2018–2021. 2022 figures are marked preliminary in the foreword.
 - Accessed: 21 Oct 2026
 - Supports: Lang station mean temperature and monthly rainfall for 2018–2022, as quoted in getting-there.md. Sơn Tây is a different station and is not the city figure used here. The yearbook does not name a best month to visit.
+
+### S17
+- URL: https://vanmieu.gov.vn/en/introduction/visitor-information
+- Publisher: Van Mieu – Quoc Tu Giam, the site’s visitor page. The homepage at https://vanmieu.gov.vn/ prints the same hours and the same 70,000 / 35,000 VND tickets.
+- Accessed: 21 Oct 2026
+- Supports: Open 08:00–17:00 every day. Evening program 18:00–22:00 Wednesday, Saturday, and Sunday. Standard ticket 70,000 VND. Priority 35,000 VND. Free under 16, and for people with especially severe disabilities. Night ticket price not printed. Entrance 58 Quốc Tử Giám. Exits at 19–21 Văn Miếu and opposite 40 Tôn Đức Thắng. Buses 02, 41, E08, E09, and 38.
+
+### S18
+- URL: https://vanmieu.gov.vn/en/introduction/site-history
+- Publisher: Van Mieu – Quoc Tu Giam
+- Accessed: 21 Oct 2026
+- Supports: 1070, 1076, doctoral stelae 1484, UNESCO documentary heritage for the stelae in 2011 as the site states it, special national relic 2012. The UNESCO document itself was not opened.
+
+### S19
+- URL: https://hoangthanhthanglong.vn/gia-ve-tham-quan-hoang-thanh-thang-long/
+- Publisher: Thang Long Heritage Conservation Centre. Notice dated on the page as January 2025, fee in force 1 Jan 2025, citing Hanoi Council Resolution 16/2023/NQ-HĐND of 6 Dec 2023.
+- Accessed: 21 Oct 2026
+- Supports: 100,000 VND, half price 50,000 VND, free under 16 or under 1.3 m without papers. Address 19C Hoàng Diệu, Ba Đình ward. Night-tour price not on this notice.
+
+### S20
+- URL: https://trungbayonline.hoangthanhthanglong.vn/Museum/Index
+- Publisher: Thang Long Imperial Citadel, online exhibition of the conservation centre
+- Accessed: 21 Oct 2026
+- Supports: Open 08:00–17:00, last entry 16:45. Address 19C Hoàng Diệu. The Flag Tower is described as the most intact grand work in the complex. Đoan Môn is a main south gate on axis with Kinh Thiên and the Flag Tower. No closing weekday on this page. The UNESCO list page did not load.
+
+### S21
+- URL: https://btllang.mod.gov.vn/thong-tin-them.html
+- Publisher: Ho Chi Minh Mausoleum Command. The visiting rule on the page is marked posted 14 Apr 2018.
+- Accessed: 21 Oct 2026
+- Supports: Visit mornings Tuesday, Wednesday, Thursday, Saturday, Sunday. No Monday or Friday except 19 May, 2 September, and Tết morning when those fall on a closed weekday. Hot-season and cold-season clocks as written in the citadel entry’s mausoleum section. Flag 06:00 or 06:30, lowered at 21:00. Assembly at 17 Ngọc Hà. Reception at 1 Ông Ích Khiêm. No ticket price on the page read. The 2026 closure notice did not load.
+
+### S22
+- URL: https://vtv.vn/ha-noi-tuyen-truyen-phap-luat-ky-cam-ket-voi-cac-ho-kinh-doanh-ca-phe-duong-tau-100260414045526756.htm
+- Publisher: VTV, 14 Apr 2026, reporting a 13 Apr 2026 police and ward session
+- Accessed: 21 Oct 2026
+- Supports: About 60 cafe households from Giải Phóng to Khâm Thiên, Văn Miếu – Quốc Tử Giám ward. The session asked them not to encroach on the railway safety corridor and not to let customers gather on the rails. This is not the Phùng Hưng – Trần Phú stretch. No cafe is a pick.

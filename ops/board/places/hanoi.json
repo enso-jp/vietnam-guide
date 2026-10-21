@@ -9,8 +9,8 @@
   "priority": 10,
   "note": "",
   "coverage": {
-    "sights": "missing",
-    "areas": "missing",
+    "sights": "partial",
+    "areas": "partial",
     "foodStreets": "missing",
     "nightlife": "missing",
     "lifestyle": "missing",
@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:25:26.536Z",
+      "updated": "2026-10-21T08:29:24.380Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:25:26.536Z",
+      "updated": "2026-10-21T08:29:24.380Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,13 +45,13 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:25:26.536Z",
+      "updated": "2026-10-21T08:29:24.380Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:25:26.536Z",
+      "updated": "2026-10-21T08:29:24.380Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -61,9 +61,9 @@
       "reworkCount": 0
     },
     "researchAttractions": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "First pass has the lake, the Temple of Literature, the citadel, the mausoleum, One Pillar as a single source, Train Street only on the Giai Phong stretch, and the Old Quarter and French Quarter as areas. Still open: West Lake, Ngoc Son’s fee, Hoa Lo, the ethnology museum, the cathedral, Opera House hours, Tran Quoc, and the outer districts.",
+      "updated": "2026-10-21T08:29:24.380Z",
       "reworkCount": 0
     },
     "researchFood": {
@@ -100,12 +100,12 @@
       "slug": "hoan-kiem",
       "file": "src/content/attractions/hanoi--hoan-kiem.json",
       "source": "published",
-      "research": "not_started",
+      "research": "stored",
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": "2026-10-21T08:25:26.536Z",
+      "note": "Lake walk sourced 21 Oct 2026. Temple door fee and the standing walking-zone clock are still Check on arrival. Dot stays 4.",
+      "updated": "2026-10-21T08:29:24.380Z",
       "reworkCount": 0
     },
     {
@@ -116,12 +116,12 @@
       "slug": "temple-of-literature",
       "file": "src/content/attractions/hanoi--temple-of-literature.json",
       "source": "published",
-      "research": "not_started",
+      "research": "stored",
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": "2026-10-21T08:25:26.536Z",
+      "note": "Site hours and 70,000 VND ticket sourced 21 Oct 2026. Night price was not on the site. Dot stays 4.",
+      "updated": "2026-10-21T08:29:24.380Z",
       "reworkCount": 0
     },
     {
@@ -132,12 +132,12 @@
       "slug": "train-street",
       "file": "src/content/attractions/hanoi--train-street.json",
       "source": "published",
-      "research": "not_started",
+      "research": "needs_depth",
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": "2026-10-21T08:25:26.536Z",
+      "note": "Only the Giai Phong–Kham Thien stretch was sourced, from VTV 14 Apr 2026. The Phung Hung–Tran Phu stretch’s order did not load. No cafe is a pick. Dot stays 2.",
+      "updated": "2026-10-21T08:29:24.380Z",
       "reworkCount": 0
     },
     {
@@ -153,7 +153,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": "2026-10-21T08:25:26.536Z",
+      "updated": "2026-10-21T08:29:24.380Z",
       "reworkCount": 0
     },
     {
@@ -235,18 +235,99 @@
       "note": "Bundled into the destination stage.",
       "updated": null,
       "reworkCount": 0
+    },
+    {
+      "id": "hanoi--thang-long-citadel",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Thang Long Imperial Citadel",
+      "slug": "thang-long-citadel",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Conservation centre fee from 1 Jan 2025 is 100,000 VND. Hours 08:00–17:00, last entry 16:45. UNESCO list page did not load.",
+      "updated": "2026-10-21T08:29:24.380Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--ho-chi-minh-mausoleum",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Ho Chi Minh Mausoleum",
+      "slug": "ho-chi-minh-mausoleum",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Command visiting rule posted 14 Apr 2018. Ticket not on that page. 2026 closure notice did not load.",
+      "updated": "2026-10-21T08:29:24.380Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--one-pillar-pagoda",
+      "kind": "sight",
+      "track": "unit",
+      "name": "One Pillar Pagoda",
+      "slug": "one-pillar-pagoda",
+      "file": null,
+      "source": "dossier",
+      "research": "needs_depth",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Tourism board only. The 25,000 VND line is not a second source. Fee stays Check on arrival.",
+      "updated": "2026-10-21T08:29:24.380Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--old-quarter",
+      "kind": "area",
+      "track": "unit",
+      "name": "Old Quarter",
+      "slug": "old-quarter",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Dossier: the place page carries the Old Quarter. No separate attraction file.",
+      "updated": "2026-10-21T08:29:24.380Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--french-quarter",
+      "kind": "area",
+      "track": "unit",
+      "name": "French Quarter",
+      "slug": "french-quarter",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Dossier: the place page carries the French Quarter walk. Opera House hours were not confirmed.",
+      "updated": "2026-10-21T08:29:24.380Z",
+      "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "hanoi",
-    "stage": "researchAttractions",
-    "item": null,
-    "at": "2026-10-21T08:25:52.871Z",
-    "by": "hourly",
-    "branch": "cursor/content-hanoi-researchBase"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T08:29:24.380Z",
+      "place": "hanoi",
+      "stage": "researchAttractions",
+      "item": null,
+      "status": "needs_depth",
+      "note": "First pass has the lake, the Temple of Literature, the citadel, the mausoleum, One Pillar as a single source, Train Street only on the Giai Phong stretch, and the Old Quarter and French Quarter as areas. Still open: West Lake, Ngoc Son’s fee, Hoa Lo, the ethnology museum, the cathedral, Opera House hours, Tran Quoc, and the outer districts."
+    },
     {
       "at": "2026-10-21T08:25:26.536Z",
       "place": "hanoi",
