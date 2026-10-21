@@ -7,6 +7,8 @@ import type {
   Guide,
   Itinerary,
   Place,
+  BlogPost,
+  FrontPage,
   RiceSite,
   Route,
   SearchItem,
@@ -47,6 +49,12 @@ const attractionModules = import.meta.glob('../content/attractions/*.json', {
 const festivalModules = import.meta.glob('../content/festivals/*.json', {
   eager: true,
 }) as Record<string, { default: Festival }>;
+const postModules = import.meta.glob('../content/blog/*.json', {
+  eager: true,
+}) as Record<string, { default: BlogPost }>;
+const frontModules = import.meta.glob('../content/front-page.json', {
+  eager: true,
+}) as Record<string, { default: FrontPage }>;
 
 export function getPlaces(): Place[] {
   return load(placeModules);
@@ -255,35 +263,46 @@ export interface StoryCard {
   cover: string;
 }
 
-export function getStories(): StoryCard[] {
-  const festivals = [...getFestivals()]
-    .sort((a, b) => a.name.localeCompare(b.name))
-    .map((festival) => {
-      const place = getPlace(festival.placeSlugs[0] || '');
-      return {
-        href: `/festivals/${festival.slug}`,
-        title: festival.name,
-        kicker: 'Festival',
-        summary: festival.summary,
-        when: festival.when,
-        photo: place?.slug || 'hanoi',
-        cover: place?.cover || 'town',
-      };
-    });
-  const seasons = corridorsNorthToSouth().flatMap((corridor) =>
-    placesInCorridor(corridor.slug)
-      .filter((place) => place.season)
-      .map((place) => ({
-        href: placePath(place),
-        title: `${place.name}: ${place.season?.label}`,
-        kicker: 'Season',
-        summary: place.season?.note || '',
-        when: place.season?.label || '',
-        photo: place.slug,
-        cover: place.cover,
-      })),
-  );
-  return [...festivals, ...seasons];
+export function getPosts(): BlogPost[] {
+  return load(postModules).sort((a, b) => b.published.localeCompare(a.published) || a.title.localeCompare(b.title));
+}
+
+export function getPost(slug: string): BlogPost | undefined {
+  return getPosts().find((post) => post.slug === slug);
+}
+
+export function getFrontPage(): FrontPage {
+  const file = Object.values(frontModules)[0];
+  return file?.default ?? { date: '', slugs: [] };
+}
+
+export function postCard(post: BlogPost): StoryCard {
+  return {
+    href: `/blog/${post.slug}`,
+    title: post.title,
+    kicker: post.kicker,
+    summary: post.summary,
+    when: post.when,
+    photo: post.photo,
+    cover: post.cover || 'town',
+  };
+}
+
+/** Posts chosen for the homepage highlight block, in front-page order. */
+export function getHighlights(): StoryCard[] {
+  const posts = new Map(getPosts().map((post) => [post.slug, post]));
+  return getFrontPage()
+    .slugs.map((slug) => posts.get(slug))
+    .filter((post): post is BlogPost => Boolean(post))
+    .map(postCard);
+}
+
+/** Current posts that are not on the highlight list. */
+export function getOtherPosts(): StoryCard[] {
+  const chosen = new Set(getFrontPage().slugs);
+  return getPosts()
+    .filter((post) => !chosen.has(post.slug))
+    .map(postCard);
 }
 
 export function placePath(place: Place, tab = ''): string {
@@ -431,11 +450,19 @@ export function searchIndex(): SearchItem[] {
       text: trip.summary,
     });
   }
+  for (const post of getPosts()) {
+    items.push({
+      title: post.title,
+      href: `/blog/${post.slug}`,
+      group: 'Stories',
+      text: `${post.title} ${post.summary}`,
+    });
+  }
   items.push({
-    title: 'Travel news',
-    href: '/news',
-    group: 'Practical',
-    text: 'Festival dates and season notes',
+    title: 'Stories',
+    href: '/blog',
+    group: 'Stories',
+    text: 'Homepage highlights and other current posts',
   });
   return items;
 }

@@ -1,35 +1,66 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
-import Photo from '../../components/Photo.astro';
+import Dots from '../../components/Dots.astro';
+import PlaceCard from '../../components/PlaceCard.astro';
 import VietnamMap from '../../components/VietnamMap.astro';
-import { getCorridors, pageDescription, placesInCorridor, topPlaces } from '../../lib/content';
+import { cardLine, compareRecommended, corridorsNorthToSouth, getPlaces, pageDescription, placePath, placesInCorridor } from '../../lib/content';
 import { breadcrumbList, itemList } from '../../lib/schema';
-const corridors = getCorridors();
+
+const corridors = corridorsNorthToSouth();
+const places = getPlaces().filter((place) => !place.parent).sort(compareRecommended);
+const mainPlaces = places.slice(0, 9);
 const description = pageDescription(
-  'Five travel corridors from northern Vietnam to the Mekong Delta.',
-  'These corridors follow how trips are built. Province borders changed in 2025. The place names did not.',
+  'Five travel corridors from northern Vietnam to the Mekong Delta, then the main places in each.',
+  'Province borders changed in 2025. The place names did not.',
 );
 ---
-<Base title="Destinations" description={description} path="/destinations" ogType="website" jsonLd={[itemList('Destinations', corridors.map((corridor) => ({ name: corridor.name, path: `/destinations/${corridor.slug}` }))), breadcrumbList([{ name: 'Destinations', path: '/destinations' }])]}>
+<Base title="Destinations" description={description} path="/destinations" ogType="website" jsonLd={[itemList('Destinations', places.map((place) => ({ name: place.name, path: placePath(place) }))), breadcrumbList([{ name: 'Destinations', path: '/destinations' }])]}>
   <div class="wrap section">
     <Crumbs items={[{ name: 'Destinations' }]} />
+    <p class="eyebrow">Find your destination</p>
     <h1>Destinations</h1>
-    <p class="lede">These corridors follow how trips are built. Province borders changed in 2025. The place names did not.</p>
-    <VietnamMap variant="home" />
-    <div class="jg-grid dest-corridor-grid">
-      {corridors.map((corridor) => (
-        <a class="jg-card" href={`/destinations/${corridor.slug}`}>
-          <div class="media">
-            <Photo id={topPlaces(placesInCorridor(corridor.slug), 1)[0]?.slug || corridor.slug} alt="" cover={corridor.cover} />
-          </div>
-          <div class="jg-body">
+    <p class="lede">Five corridors, from the northern mountains to the Mekong. Province borders changed in 2025. The place names did not.</p>
+
+    <section class="atlas" aria-label="Regions">
+      <div class="atlas-cards">
+        {corridors.map((corridor) => (
+          <a class="atlas-card" href={`/destinations/${corridor.slug}`}>
+            <p class="explore-kicker">Region</p>
             <h2>{corridor.name}</h2>
             <p>{corridor.summary}</p>
-            <p class="meta">{corridor.climate}</p>
-          </div>
-        </a>
-      ))}
-    </div>
+          </a>
+        ))}
+      </div>
+      <VietnamMap variant="home" />
+    </section>
+
+    <section class="place-section">
+      <h2>Places</h2>
+      <div class="jg-grid">
+        {mainPlaces.map((place, index) => (
+          <PlaceCard place={place} rank={index + 1} />
+        ))}
+      </div>
+    </section>
+
+    {corridors.map((corridor) => {
+      const list = placesInCorridor(corridor.slug);
+      if (!list.length) return null;
+      return (
+        <section class="place-section corridor-index">
+          <h2><a href={`/destinations/${corridor.slug}`}>{corridor.name}</a></h2>
+          <ul>
+            {list.map((place) => (
+              <li>
+                <a class="place-name" href={placePath(place)}>{place.name}</a>
+                <Dots dots={place.dots} />
+                <p>{cardLine(place.summary)}</p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      );
+    })}
   </div>
 </Base>

@@ -1,0 +1,54 @@
+---
+import { readFileSync } from 'node:fs';
+import { join } from 'node:path';
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import Photo from '../../components/Photo.astro';
+import { getPlace, getPost, getPosts, pageDescription, placePath } from '../../lib/content';
+import { photoPath } from '../../lib/photos';
+import { article, breadcrumbList } from '../../lib/schema';
+
+export function getStaticPaths() {
+  return getPosts().map((post) => ({ params: { slug: post.slug } }));
+}
+const post = getPost(Astro.params.slug ?? '');
+if (!post) throw new Error('Missing post');
+const path = `/blog/${post.slug}`;
+const description = pageDescription(post.seoDescription, post.summary);
+const credits = JSON.parse(readFileSync(join(process.cwd(), 'public', 'photos', 'credits.json'), 'utf8')) as Record<string, { author?: string; license?: string }>;
+const credit = credits[post.photo];
+const places = (post.placeSlugs ?? []).map((slug) => getPlace(slug)).filter((place) => Boolean(place));
+---
+<Base title={post.seoTitle} description={description} path={path} ogImage={photoPath(post.photo)} jsonLd={[article(post.title, description, path, photoPath(post.photo)), breadcrumbList([{ name: 'Stories', path: '/blog' }, { name: post.title, path }])]}>
+  <article class="wrap section reading">
+    <Crumbs items={[{ name: 'Stories', href: '/blog' }, { name: post.title }]} />
+    <p class="eyebrow">{post.kicker} · {post.published}</p>
+    <h1>{post.title}</h1>
+    <p class="lede">{post.summary}</p>
+    <p class="note">{post.when}</p>
+    <figure class="prose-figure">
+      <Photo id={post.photo} alt={post.photoAlt || post.title} priority />
+      {credit?.author && <figcaption>Photo: {credit.author} · {credit.license}</figcaption>}
+    </figure>
+    {post.body.map((paragraph) => <p>{paragraph}</p>)}
+    {post.festivalSlug && <p><a href={`/festivals/${post.festivalSlug}`}>Festival page</a></p>}
+    {places.length > 0 && (
+      <p>
+        {places.map((place, index) => (
+          <>
+            {index > 0 && ' · '}
+            <a href={placePath(place)}>{place.name}</a>
+          </>
+        ))}
+      </p>
+    )}
+    <section class="place-section">
+      <h2>Sources</h2>
+      <ul>
+        {post.sources.map((source) => (
+          <li><a href={source.url}>{source.label}</a></li>
+        ))}
+      </ul>
+    </section>
+  </article>
+</Base>

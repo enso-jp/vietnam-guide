@@ -5,17 +5,33 @@ import Icon from '../components/Icon.astro';
 import Photo from '../components/Photo.astro';
 import VietnamMap from '../components/VietnamMap.astro';
 import { interestHref, interestLabels, site } from '../config/site';
-import { attractionsForInterest, corridorsNorthToSouth, getStories, placePath, placesForInterest, placesInCorridor } from '../lib/content';
+import interestPhotos from '../content/interest-photos.json';
+import { attractionsForInterest, corridorsNorthToSouth, getHighlights, getOtherPosts, placePath, placesForInterest, placesInCorridor } from '../lib/content';
 import { photoPath } from '../lib/photos';
+import type { Place } from '../lib/types';
+import { vietnamRegions } from '../lib/vietnam-map';
 
-const stories = getStories();
-const lead = stories[0];
-const sheet = stories.slice(1, 4);
-const feature = stories[4];
-const rows = stories.slice(5, 9);
-const later = stories.slice(9);
+const photos = interestPhotos as Record<string, string>;
+const highlights = getHighlights();
+const stories = getOtherPosts();
+const lead = highlights[0];
+const sheet = highlights.slice(1, 4);
+const feature = highlights[4];
 const corridors = corridorsNorthToSouth();
 const activeRegion = corridors[0]?.slug;
+const regionLabel = new Map(vietnamRegions.map((region) => [region.slug, region.name]));
+const stackFor = (slug: string) => {
+  const used = new Set<string>();
+  const picks: Place[] = [];
+  for (const place of placesInCorridor(slug)) {
+    const src = photoPath(place.slug);
+    if (!src || used.has(src)) continue;
+    used.add(src);
+    picks.push(place);
+    if (picks.length === 5) break;
+  }
+  return picks;
+};
 const interestOrder = ['food', 'beaches', 'caves', 'pagodas', 'rice', 'oldTowns', 'markets', 'warHistory', 'mountains', 'coffee', 'islands', 'nightlife', 'family', 'photography', 'motorbike'];
 const interests = interestOrder
   .filter((key) => key === 'food' || placesForInterest(key).length > 0 || attractionsForInterest(key).length > 0)
@@ -26,8 +42,8 @@ const interests = interestOrder
       key,
       href: interestHref(key),
       label: key === 'food' ? 'Food and drink' : interestLabels[key],
-      photo: place?.slug || 'hanoi',
-      cover: place?.cover || 'town',
+      photo: photos[key] || place?.slug || 'hanoi',
+      cover: 'town',
     };
   });
 const tools = [
@@ -97,24 +113,28 @@ const jsonLd = {
           </a>
         )}
 
-        {rows.length > 0 && (
-          <div class="story-list lead-stories">
-            {rows.map((story) => (
-              <a class="story-row" href={story.href}>
-                <span class="story-copy">
-                  <small class:list={{ 'kicker-season': story.kicker === 'Season' }}>{story.kicker}</small>
-                  <strong>{story.title}</strong>
-                  <em>{story.when}</em>
-                </span>
-                <span class="media"><Photo id={story.photo} alt="" cover={story.cover} /></span>
-              </a>
-            ))}
-          </div>
+        {stories.length > 0 && (
+          <section class="home-stories" id="stories">
+            <h2>Stories</h2>
+            <div class="story-list">
+              {stories.map((story) => (
+                <a class="story-row" href={story.href}>
+                  <span class="story-copy">
+                    <small class:list={{ 'kicker-season': story.kicker === 'Season' }}>{story.kicker}</small>
+                    <strong>{story.title}</strong>
+                    <em>{story.when}</em>
+                    <p>{story.summary}</p>
+                  </span>
+                  <span class="media"><Photo id={story.photo} alt="" cover={story.cover} /></span>
+                </a>
+              ))}
+            </div>
+          </section>
         )}
 
         <div class="home-actions lead-actions">
           <a class="pill" href="/seasons">Season alerts</a>
-          <a class="pill" href="#stories">See more stories</a>
+          <a class="pill" href="/blog">See more stories</a>
         </div>
       </div>
 
@@ -125,43 +145,44 @@ const jsonLd = {
 
     <section class="home-section region-stage" data-region-stage>
       <h2>Regions of Vietnam</h2>
-      <div class="region-frame">
-        <VietnamMap variant="home" active={activeRegion} />
-        <div class="region-explore">
+      <div class="region-board">
+        <div class="region-map">
+          <VietnamMap variant="home" active={activeRegion} names={false} />
+          <div class="region-picks" role="tablist" aria-label="Regions">
+            {corridors.map((corridor) => (
+              <button
+                type="button"
+                role="tab"
+                data-region={corridor.slug}
+                aria-selected={corridor.slug === activeRegion ? 'true' : 'false'}
+                class:list={[{ 'is-active': corridor.slug === activeRegion }]}
+              >
+                {regionLabel.get(corridor.slug) || corridor.name}
+              </button>
+            ))}
+          </div>
+          <p class="region-more"><a class="pill" href="/destinations">See regions</a></p>
+        </div>
+        <div class="region-stack">
           {corridors.map((corridor) => {
-            const places = placesInCorridor(corridor.slug).slice(0, 6);
+            const places = stackFor(corridor.slug);
             return (
-              <div class="region-card" data-region-card={corridor.slug} hidden={corridor.slug !== activeRegion}>
-                {places.length > 0 && (
-                  <div class="region-rail" data-carousel>
-                    <div class="region-row" data-carousel-row tabindex="0" aria-label={`${corridor.name} photos`}>
-                      {places.map((place) => (
-                        <a class="region-shot" href={placePath(place)}>
-                          <Photo id={place.slug} alt="" cover={place.cover} />
-                          <span>{place.name}</span>
-                        </a>
-                      ))}
-                    </div>
-                    <button class="rail-arrow rail-prev" type="button" data-carousel-prev aria-label="Previous">‹</button>
-                    <button class="rail-arrow rail-next" type="button" data-carousel-next aria-label="Next">›</button>
-                  </div>
-                )}
-                <p class="explore-kicker">Explore</p>
-                <h3>
-                  <a href={`/destinations/${corridor.slug}`} data-region={corridor.slug}>
-                    <span>{corridor.name}</span>
-                    <span class="region-arrow" aria-hidden="true"></span>
-                  </a>
-                </h3>
+              <div class="region-panel" data-region-card={corridor.slug} hidden={corridor.slug !== activeRegion}>
+                <div class="region-photos">
+                  {places.map((place) => (
+                    <a href={placePath(place)}>
+                      <Photo id={place.slug} alt="" cover={place.cover} />
+                      <span>{place.name}</span>
+                    </a>
+                  ))}
+                </div>
+                <h3>{corridor.name}</h3>
                 <p>{corridor.summary}</p>
               </div>
             );
           })}
         </div>
       </div>
-      <p class="home-actions">
-        <a class="pill pill-go" href={`/destinations/${activeRegion}`} data-region-link>See all destinations</a>
-      </p>
     </section>
 
     <section class="home-section">
@@ -190,26 +211,6 @@ const jsonLd = {
       </div>
       <p class="home-actions"><a class="pill" href="/interests">See all interests</a></p>
     </section>
-
-    {later.length > 0 && (
-      <section class="home-section" id="stories">
-        <h2>Stories</h2>
-        <div class="story-list">
-          {later.map((story) => (
-            <a class="story-row" href={story.href}>
-              <span class="story-copy">
-                <small class:list={{ 'kicker-season': story.kicker === 'Season' }}>{story.kicker}</small>
-                <strong>{story.title}</strong>
-                <em>{story.when}</em>
-                <p>{story.summary}</p>
-              </span>
-              <span class="media"><Photo id={story.photo} alt="" cover={story.cover} /></span>
-            </a>
-          ))}
-        </div>
-        <p class="home-actions"><a class="pill" href="/news">More stories</a></p>
-      </section>
-    )}
 
   </div>
 </Base>

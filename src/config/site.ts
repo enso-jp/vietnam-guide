@@ -71,6 +71,7 @@ export const reservedSlugs = new Set([
   'interests',
   'seasons',
   'news',
+  'blog',
   'about',
   'search',
   'admin',

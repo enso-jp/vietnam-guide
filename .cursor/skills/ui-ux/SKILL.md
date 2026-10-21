@@ -12,7 +12,7 @@ description: >-
 
 The city page is the reference. `src/components/PlaceView.astro` already follows this skill. A later pass brings one other template family up to the same standard.
 
-This skill owns how a page looks. `.cursor/skills/city-setup/SKILL.md` owns what a destination contains. `.cursor/skills/graphic-copy/SKILL.md` owns prose and photo choice. Do not invent a fee, an hour, a sight, a photo, or a sentence in a visual pass. Do not add a blog, an ad, a visitor count, or a booking form.
+This skill owns how a page looks. `.cursor/skills/city-setup/SKILL.md` owns what a destination contains. `.cursor/skills/graphic-copy/SKILL.md` owns prose and photo choice. Do not invent a fee, an hour, a sight, a photo, or a sentence in a visual pass. The blog type already exists; do not add a second one. Do not add an ad, a visitor count, or a booking form.
 
 One family per pass. Change the shared template, not one city’s JSON. Stop when that family’s checklist is done.
 

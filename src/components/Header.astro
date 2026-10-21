@@ -1,27 +1,21 @@
 ---
-import { corridorsNorthToSouth, getItineraries, placesInCorridor, topPlaces, placePath } from '../lib/content';
-import { interestHref, interestLabels } from '../config/site';
-
-const corridors = corridorsNorthToSouth();
-const trips = getItineraries().filter((trip) => trip.kind === 'trip').slice(0, 4);
-const menuInterests = ['pagodas', 'caves', 'beaches', 'islands', 'rice', 'markets', 'coffee', 'warHistory', 'mountains'];
+const path = Astro.url.pathname;
+const current = (href: string) => (path === href || path.startsWith(`${href}/`) ? 'page' : undefined);
+const planOn = current('/plan') || current('/get-there') || current('/itineraries') || current('/seasons');
+const interestOn = current('/interests') || current('/food');
 ---
 <a class="skip" href="#content">Skip to content</a>
 <header class="topbar">
   <div class="wrap bar">
     <a class="wordmark" href="/">Vietnam <span>Guide</span></a>
     <nav class="desk-nav" aria-label="Sections">
-      <button type="button" data-nav="destinations" aria-expanded="false" aria-controls="site-menu">Destinations</button>
-      <button type="button" data-nav="interests" aria-expanded="false" aria-controls="site-menu">Interests</button>
-      <button type="button" data-nav="plan" aria-expanded="false" aria-controls="site-menu">Plan a trip</button>
+      <a href="/destinations" aria-current={current('/destinations')}>Destinations</a>
+      <a href="/interests" aria-current={interestOn || undefined}>Interests</a>
+      <a href="/plan" aria-current={planOn || undefined}>Plan a trip</a>
     </nav>
     <a class="desk-saved" href="/saved">Saved</a>
     <button class="bar-icon search-toggle" type="button" data-search-toggle aria-label="Search" aria-expanded="false" aria-controls="site-search">
       <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6"></circle><path d="M16 16l4 4"></path></svg>
-    </button>
-    <button class="bar-icon menu-toggle" type="button" data-menu aria-label="Menu" aria-expanded="false" aria-controls="site-menu">
-      <svg class="icon-menu" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 7h14M5 12h14M5 17h14"></path></svg>
-      <svg class="icon-close" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"></path></svg>
     </button>
   </div>
   <div id="site-search" class="search-pop" hidden>
@@ -31,82 +25,4 @@ const menuInterests = ['pagodas', 'caves', 'beaches', 'islands', 'rice', 'market
       <div id="search-panel" class="search-panel" hidden></div>
     </form>
   </div>
-  <nav id="site-menu" class="site-menu" aria-label="Primary" hidden>
-    <div class="wrap site-menu-inner">
-      <div class="menu-quick">
-        <a href="/saved">Saved</a>
-        <a href="/news">Travel news</a>
-        <a href="/seasons">Seasons</a>
-        <a href="/about">About</a>
-      </div>
-      <div class="site-menu-grid">
-        <details class="menu-col" data-col="destinations">
-          <summary>Destinations</summary>
-          <div class="menu-links">
-            {corridors.map((corridor) => (
-              <div class="menu-group">
-                <a class="menu-strong" href={`/destinations/${corridor.slug}`}>{corridor.name}</a>
-                {topPlaces(placesInCorridor(corridor.slug)).map((place) => (
-                  <a href={placePath(place)}>{place.name}</a>
-                ))}
-              </div>
-            ))}
-            <a class="menu-strong" href="/destinations">See all destinations</a>
-          </div>
-        </details>
-        <details class="menu-col" data-col="interests">
-          <summary>Interests</summary>
-          <div class="menu-links">
-            <a class="menu-strong" href="/food">Food and drink</a>
-            <a href="/festivals">Festivals</a>
-            {menuInterests.map((key) => (
-              <a href={interestHref(key)}>{interestLabels[key]}</a>
-            ))}
-            <a class="menu-strong" href="/interests">See all interests</a>
-          </div>
-        </details>
-        <details class="menu-col" data-col="plan">
-          <summary>Plan a trip</summary>
-          <div class="menu-links">
-            <div class="menu-group">
-              <strong>Before you go</strong>
-              <a href="/plan/when-to-go">When to travel</a>
-              <a href="/plan/e-visa">E-visa</a>
-              <a href="/plan/money">Money</a>
-              <a href="/plan/sim-and-wifi">SIM and Wi-Fi</a>
-              <a href="/plan/luggage">Luggage</a>
-              <a href="/seasons">Seasons</a>
-              <a href="/festivals">Festivals</a>
-            </div>
-            <div class="menu-group">
-              <strong>Learn</strong>
-              <a href="/plan/street-manners">Street manners</a>
-              <a href="/plan/eating-manners">Eating manners</a>
-            </div>
-            <div class="menu-group">
-              <strong>Itinerary ideas</strong>
-              <a href="/itineraries">All itineraries</a>
-              {trips.map((trip) => (
-                <a href={`/itineraries/${trip.slug}`}>{trip.title}</a>
-              ))}
-            </div>
-            <div class="menu-group">
-              <strong>Accommodation</strong>
-              <a href="/plan/where-to-stay">Where to stay</a>
-              <strong>Transportation</strong>
-              <a href="/get-there">Routes</a>
-              <a href="/plan/flights">Flights</a>
-              <a href="/plan/trains">Trains</a>
-              <a href="/plan/buses">Buses</a>
-              <a href="/plan/grab-and-taxis">Grab and taxis</a>
-              <a href="/plan/motorbikes">Motorbikes</a>
-              <strong>Living</strong>
-              <a href="/plan/living">Living</a>
-              <a href="/plan/taxes">Taxes and fees</a>
-            </div>
-          </div>
-        </details>
-      </div>
-    </div>
-  </nav>
 </header>

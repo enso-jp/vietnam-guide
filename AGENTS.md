@@ -46,7 +46,7 @@ A full city or province page follows `.cursor/skills/city-setup/SKILL.md`: attra
 
 The Central Coast beat is the `central-coast` corridor: Hue, Da Nang, Hoi An, My Son, and Phong Nha. Drafts for that beat follow `.cursor/skills/central-coast/SKILL.md`. The weekly queue is `.cursor/skills/central-coast/coverage.md`.
 
-There is no blog type. Floods, closures, and peak dates go in the place `season` field. Recurring events go in `src/content/festivals/`. New sights, dishes, and towns use the existing content folders. Do not add a blog layout unless the owner asks for a new content type.
+Blog posts live in `src/content/blog/`. The homepage highlight block and the stories under it are those posts. `src/content/front-page.json` is the day’s highlight list. Festivals stay in `src/content/festivals/`. Floods, closures, and peak dates still go in the place `season` field. Editorial rules are `.cursor/skills/blog/SKILL.md`. Do not add a second blog layout.
 
 ## Publish
 

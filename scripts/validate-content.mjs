@@ -231,8 +231,57 @@ for (const trip of itineraries) {
   }
 }
 
+const posts = existsSync('src/content/blog') ? readDir('src/content/blog') : [];
+const front = existsSync('src/content/front-page.json')
+  ? JSON.parse(readFileSync('src/content/front-page.json', 'utf8'))
+  : { date: '', slugs: [] };
+const interestPhotos = existsSync('src/content/interest-photos.json')
+  ? JSON.parse(readFileSync('src/content/interest-photos.json', 'utf8'))
+  : {};
+const credits = existsSync('public/photos/credits.json')
+  ? JSON.parse(readFileSync('public/photos/credits.json', 'utf8'))
+  : {};
+const postSlugs = new Set();
+const postPhotos = new Set();
+for (const post of posts) {
+  if (postSlugs.has(post.slug)) errors.push(`Duplicate post ${post.slug}`);
+  postSlugs.add(post.slug);
+  if (!post.title || !post.kicker || !post.summary || !post.when) errors.push(`${post.slug} is missing a title, kicker, summary, or when`);
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(post.published || '')) errors.push(`${post.slug} published date missing`);
+  if (!Array.isArray(post.body) || post.body.length < 2) errors.push(`${post.slug} body needs at least two paragraphs`);
+  if (!Array.isArray(post.sources) || post.sources.length < 1) errors.push(`${post.slug} needs a source`);
+  for (const source of post.sources || []) {
+    if (!source.label || !/^https:\/\//.test(source.url || '')) errors.push(`${post.slug} source needs a label and an https URL`);
+  }
+  if (!post.photo) errors.push(`${post.slug} photo missing`);
+  else if (postPhotos.has(post.photo)) errors.push(`${post.slug} reuses photo ${post.photo}`);
+  else postPhotos.add(post.photo);
+  if (post.photo && !existsSync(join('public', 'photos', `${post.photo}.jpg`))) errors.push(`${post.slug} photo file missing`);
+  if (post.photo && !credits[post.photo]?.author) errors.push(`${post.slug} photo credit missing`);
+  for (const slug of post.placeSlugs || []) {
+    if (!places.some((place) => place.slug === slug)) errors.push(`${post.slug} place ${slug} missing`);
+  }
+  if (post.festivalSlug && !festivals.some((festival) => festival.slug === post.festivalSlug)) {
+    errors.push(`${post.slug} festival ${post.festivalSlug} missing`);
+  }
+}
+if (!/^\d{4}-\d{2}-\d{2}$/.test(front.date || '')) errors.push('front page date missing');
+const seenFront = new Set();
+for (const slug of front.slugs || []) {
+  if (seenFront.has(slug)) errors.push(`front page repeats ${slug}`);
+  seenFront.add(slug);
+  if (!postSlugs.has(slug)) errors.push(`front page slug ${slug} missing`);
+}
+const seenInterestPhotos = new Set();
+for (const [key, id] of Object.entries(interestPhotos)) {
+  if (!id || seenInterestPhotos.has(id)) errors.push(`interest photo ${key} is missing or reused`);
+  seenInterestPhotos.add(id);
+  if (!existsSync(join('public', 'photos', `${id}.jpg`))) errors.push(`interest photo ${id} file missing`);
+  if (!credits[id]?.author) errors.push(`interest photo ${id} credit missing`);
+}
+
 if (errors.length) {
   console.error(errors.join('\n'));
   process.exit(1);
 }
-console.log(`Content ok: ${places.length} places, ${attractions.length} attractions, ${festivals.length} festivals, ${routes.size} routes, ${dishes.size} dishes, ${guides.size} guides, ${itineraries.length} itineraries.`);
+console.log(`Content ok: ${places.length} places, ${attractions.length} attractions, ${festivals.length} festivals, ${posts.length} posts, ${routes.size} routes, ${dishes.size} dishes, ${guides.size} guides, ${itineraries.length} itineraries.`);
