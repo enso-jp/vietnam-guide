@@ -37,9 +37,9 @@
       "reworkCount": 0
     },
     "food": {
-      "status": "rework",
-      "note": "Owner review: the food guide is a wall of text and the dish pages are thin. Photo cards and sourced dish depth are the miss.",
-      "updated": "2026-10-21T09:53:37.182Z",
+      "status": "paged",
+      "note": "Photo-led cards for bun bo, com hen, banh beo, banh khoai, banh nam, and nem lui, plus Dong Ba and the neighbor bowls. Sourced depth on those Hue dishes and on com ga. Hours and prices stay check on arrival. No card for Kim Long, che, or bun thit nuong. Banh beo page left for Da Nang.",
+      "updated": "2026-10-21T10:08:16.827Z",
       "reworkCount": 1
     },
     "foodCopy": {
@@ -610,14 +610,14 @@
       "track": "bundled",
       "name": "Banh nam",
       "slug": "banh-nam",
-      "file": null,
+      "file": "src/content/dishes/banh-nam.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
+      "page": "paged",
+      "copy": "enriched",
       "quality": "not_started",
-      "note": "Sourced in the Hue dossier 21 Oct 2026. Public page only if this pass can keep the fact honest.",
-      "updated": "2026-10-21T07:21:12.536Z",
+      "note": "Court dumpling page. Street and hour check on arrival. One banana-leaf photo.",
+      "updated": "2026-10-21T10:08:16.799Z",
       "reworkCount": 0
     },
     {
@@ -846,15 +846,16 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "hue",
-    "stage": "food",
-    "item": null,
-    "at": "2026-10-21T09:53:37.239Z",
-    "by": "graphic-copy",
-    "branch": "cursor/hue-food-cards-bfa4"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T10:08:16.828Z",
+      "place": "hue",
+      "stage": "food",
+      "item": null,
+      "status": "paged",
+      "note": "Photo-led cards for bun bo, com hen, banh beo, banh khoai, banh nam, and nem lui, plus Dong Ba and the neighbor bowls. Sourced depth on those Hue dishes and on com ga. Hours and prices stay check on arrival. No card for Kim Long, che, or bun thit nuong. Banh beo page left for Da Nang."
+    },
     {
       "at": "2026-10-21T10:00:05.835Z",
       "place": "hue",
@@ -1006,22 +1007,6 @@
       "item": "hue--thieu-tri",
       "status": "enriched",
       "note": "No new fact for this sight in the attractions lane. Photos opened and kept. Unsourced hours stay check on arrival."
-    },
-    {
-      "at": "2026-10-21T10:00:04.253Z",
-      "place": "hue",
-      "stage": "quality",
-      "item": "hue--dong-khanh",
-      "status": "checked",
-      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing."
-    },
-    {
-      "at": "2026-10-21T09:53:37.183Z",
-      "place": "hue",
-      "stage": "food",
-      "item": null,
-      "status": "rework",
-      "note": "Owner review: the food guide is a wall of text and the dish pages are thin. Photo cards and sourced dish depth are the miss."
     }
   ]
 }

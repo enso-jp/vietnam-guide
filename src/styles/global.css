@@ -452,6 +452,37 @@ p { margin: 0.55rem 0; }
 }
 .food-hero figcaption a { display: inline; color: var(--ink); }
 .food-hero figcaption a:hover { color: var(--lacquer); }
+.food-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 0.35rem;
+}
+.food-card {
+  background: #fff;
+  border: 1px solid #ece7df;
+  border-radius: 16px;
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  padding: 0.55rem 0.55rem 0.85rem;
+  box-shadow: 0 8px 22px rgba(28, 25, 21, 0.06);
+}
+.food-card .media { display: block; border-radius: 12px; overflow: hidden; }
+.food-card .media img,
+.food-card .media svg,
+.food-card .cover {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  border-radius: 12px;
+}
+.food-card strong { display: block; margin: 0.75rem 0.35rem 0; font-size: 1.05rem; color: var(--ink); }
+.food-card em { display: block; margin: 0.35rem 0.35rem 0; font-style: normal; color: var(--muted); line-height: 1.4; }
 .spot-list { list-style: none; margin: 0.4rem 0 0; padding: 0; }
 .spot { padding: 0.95rem 0; border-top: 1px solid var(--line); max-width: 40rem; }
 .spot strong { display: block; font-size: 1.05rem; color: var(--ink); }
@@ -1751,6 +1782,7 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   .dish-feature.has-photo { grid-template-columns: 7.4rem minmax(0, 1fr); gap: 0.75rem; align-items: start; }
   .dish-feature img, .dish-feature svg, .dish-feature .cover { height: 6.2rem; }
   .food-hero img, .food-hero svg, .food-hero .cover { height: 13rem; }
+  .food-grid { grid-template-columns: 1fr; }
   .prose-figure img, .prose-figure svg, .prose-figure .cover { height: auto; aspect-ratio: 3 / 2; }
   .place-photo img, .place-photo .cover svg { height: auto; aspect-ratio: 16 / 9; }
   .aff-row, .day-card { grid-template-columns: 6.2rem minmax(0, 1fr); }
