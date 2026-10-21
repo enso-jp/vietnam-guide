@@ -467,8 +467,8 @@ function laneSeverity(place, lane) {
   return 1;
 }
 
-function nextResearchLane(place) {
-  const ranked = RESEARCH_LANES.map((lane) => ({ lane, severity: laneSeverity(place, lane) })).filter((row) => row.severity !== "done" && row.severity !== "blocked");
+function nextResearchLane(place, skipStages = new Set()) {
+  const ranked = RESEARCH_LANES.map((lane) => ({ lane, severity: laneSeverity(place, lane) })).filter((row) => row.severity !== "done" && row.severity !== "blocked" && !skipStages.has(row.lane.stage));
   if (!ranked.length) return null;
   ranked.sort((a, b) => a.severity - b.severity || RESEARCH_LANES.indexOf(a.lane) - RESEARCH_LANES.indexOf(b.lane));
   const lane = ranked[0].lane;
@@ -480,11 +480,16 @@ function researchSettled(place) {
   return RESEARCH_LANES.every((lane) => laneSeverity(place, lane) === "done" || laneSeverity(place, lane) === "blocked");
 }
 
-function nextForPlace(place) {
-  const lane = nextResearchLane(place);
+function unitKey(stage, itemId) {
+  return itemId ? `${stage}:${itemId}` : stage;
+}
+
+function nextForPlace(place, skipStages = new Set()) {
+  const lane = nextResearchLane(place, skipStages);
   if (lane) return lane;
   if (!researchSettled(place) || place.publish === "candidate") return null;
   for (const name of PAGE_STAGES) {
+    if (skipStages.has(name)) continue;
     const row = place.stages[name];
     if (row.status === "blocked") return null;
     if (!isDone(row.status)) return workRow(place, name, null, row.note || place.note);
@@ -492,6 +497,7 @@ function nextForPlace(place) {
   for (const item of unitItems(place)) {
     if (["research", "page", "copy", "quality"].some((field) => item[field] === "blocked")) continue;
     for (const field of ITEM_FIELDS) {
+      if (skipStages.has(unitKey(field, item.id))) continue;
       if (!isDone(item[field])) return workRow(place, field, item, item.note);
     }
   }
@@ -858,8 +864,28 @@ function daNangExtras() {
   ];
 }
 
+function stageSkip(flag) {
+  if (!flag || flag === true) return new Set();
+  return new Set(String(flag).split(",").map((s) => s.trim()).filter(Boolean));
+}
+
 function cmdNext(flags) {
   const board = load();
+  if (flags.place) {
+    const place = findPlace(board, flags.place);
+    const unit = held(board, place.slug, skipSet(flags.skip)) ? null : nextForPlace(place, stageSkip(flags["skip-stage"]));
+    const work = unit
+      ? { action: "work", units: [unit] }
+      : {
+          action: "stop",
+          reason: "place-clear",
+          detail: `No remaining unit on ${place.slug} for this pass.`,
+          units: [],
+        };
+    if (flags.json) console.log(JSON.stringify(work, null, 2));
+    else printWork(work);
+    return;
+  }
   const work = nextWork(board, skipSet(flags.skip), flags.limit || board.control.parallelUnits || 4);
   if (flags.json) console.log(JSON.stringify(work, null, 2));
   else printWork(work);
@@ -1382,6 +1408,10 @@ function runSelfCheck() {
   if (!first.includes("stage: researchFood") || !first.includes("place: sample") || !first.includes("place: hoi-an")) {
     fail(`self-check next:\n${first}`);
   }
+  const owned = run("next --place sample");
+  if (!owned.includes("stage: researchFood") || owned.includes("place: hoi-an")) fail(`self-check place next:\n${owned}`);
+  const later = run("next --place sample --skip-stage researchFood");
+  if (!later.includes("stage: researchLifestyle")) fail(`self-check skip-stage:\n${later}`);
   run("claim --place sample --stage researchFood");
   const again = run("claim --place sample --stage researchFood");
   if (!again.includes("Already claimed")) fail(`self-check reclaim:\n${again}`);

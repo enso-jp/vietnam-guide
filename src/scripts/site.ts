@@ -19,6 +19,24 @@ if (placeId()) {
   setTimeout(() => track('engaged', { place: placeId() }), 30000);
 }
 
+const desktopNav = () => window.matchMedia('(min-width: 861px)').matches;
+
+function closeNavButtons() {
+  document.querySelectorAll<HTMLButtonElement>('[data-nav]').forEach((button) => {
+    button.setAttribute('aria-expanded', 'false');
+  });
+}
+
+function closeMenu() {
+  const menu = document.querySelector<HTMLElement>('#site-menu');
+  if (!menu) return;
+  menu.hidden = true;
+  delete menu.dataset.section;
+  document.querySelector('[data-menu]')?.setAttribute('aria-expanded', 'false');
+  closeNavButtons();
+  document.body.classList.remove('nav-open');
+}
+
 document.addEventListener('click', (event) => {
   const target = event.target as HTMLElement | null;
   const save = target?.closest<HTMLButtonElement>('[data-save]');
@@ -37,6 +55,7 @@ document.addEventListener('click', (event) => {
   const route = target?.closest('a[data-route]');
   if (route && placeId()) track('get-there', { place: placeId() });
   const menuButton = target?.closest<HTMLButtonElement>('[data-menu]');
+  const navButton = target?.closest<HTMLButtonElement>('[data-nav]');
   const searchToggle = target?.closest<HTMLButtonElement>('[data-search-toggle]');
   const menu = document.querySelector<HTMLElement>('#site-menu');
   const search = document.querySelector<HTMLElement>('#site-search');
@@ -47,22 +66,36 @@ document.addEventListener('click', (event) => {
   };
   if (menuButton && menu) {
     const open = menu.hidden;
+    delete menu.dataset.section;
+    closeNavButtons();
     setOpen(menu, menuButton, open);
-    if (open) setOpen(search, document.querySelector('[data-search-toggle]'), false);
-    document.body.classList.toggle('nav-open', open);
+    if (open && search && !desktopNav()) setOpen(search, document.querySelector('[data-search-toggle]'), false);
+    document.body.classList.toggle('nav-open', open && !desktopNav());
+  } else if (navButton && menu) {
+    const section = navButton.dataset.nav || '';
+    const same = !menu.hidden && menu.dataset.section === section;
+    if (same) {
+      closeMenu();
+    } else {
+      menu.hidden = false;
+      menu.dataset.section = section;
+      document.querySelector('[data-menu]')?.setAttribute('aria-expanded', 'false');
+      document.querySelectorAll<HTMLButtonElement>('[data-nav]').forEach((button) => {
+        button.setAttribute('aria-expanded', String(button === navButton));
+      });
+      document.body.classList.remove('nav-open');
+    }
   } else if (menu && !menu.hidden && !target?.closest('#site-menu')) {
-    setOpen(menu, document.querySelector('[data-menu]'), false);
-    document.body.classList.remove('nav-open');
+    closeMenu();
   }
-  if (searchToggle && search) {
+  if (searchToggle && search && !desktopNav()) {
     const open = search.hidden;
     setOpen(search, searchToggle, open);
     if (open) {
-      setOpen(menu, document.querySelector('[data-menu]'), false);
-      document.body.classList.remove('nav-open');
+      closeMenu();
       search.querySelector<HTMLInputElement>('#q')?.focus();
     }
-  } else if (search && !search.hidden && !target?.closest('#site-search')) {
+  } else if (search && !search.hidden && !desktopNav() && !target?.closest('#site-search')) {
     setOpen(search, document.querySelector('[data-search-toggle]'), false);
   }
 });
@@ -71,15 +104,29 @@ document.addEventListener('keydown', (event) => {
   if (event.key !== 'Escape') return;
   const menu = document.querySelector<HTMLElement>('#site-menu');
   const search = document.querySelector<HTMLElement>('#site-search');
-  if (menu && !menu.hidden) {
-    menu.hidden = true;
-    document.querySelector('[data-menu]')?.setAttribute('aria-expanded', 'false');
-    document.body.classList.remove('nav-open');
-  }
-  if (search && !search.hidden) {
+  if (menu && !menu.hidden) closeMenu();
+  if (search && !search.hidden && !desktopNav()) {
     search.hidden = true;
     document.querySelector('[data-search-toggle]')?.setAttribute('aria-expanded', 'false');
   }
+});
+
+const desktopQuery = window.matchMedia('(min-width: 861px)');
+const syncDesktopSearch = () => {
+  const search = document.querySelector<HTMLElement>('#site-search');
+  const desktop = desktopQuery.matches;
+  if (search) {
+    if (desktop) search.hidden = false;
+    else if (document.querySelector('[data-search-toggle]')?.getAttribute('aria-expanded') !== 'true') search.hidden = true;
+  }
+  document.querySelectorAll<HTMLDetailsElement>('.menu-col, .footer-col').forEach((details) => {
+    details.open = desktop;
+  });
+};
+syncDesktopSearch();
+desktopQuery.addEventListener('change', () => {
+  syncDesktopSearch();
+  if (!desktopQuery.matches) closeMenu();
 });
 
 const saved = JSON.parse(localStorage.getItem('vg-saved') || '[]') as string[];
@@ -288,9 +335,10 @@ document.querySelectorAll<HTMLElement>('[data-region-stage]').forEach((stage) =>
   };
   const read = (target: EventTarget | null) => (target as HTMLElement | null)?.closest<HTMLElement>('[data-region]')?.dataset.region;
   const paintRails = (slug: string) => {
-    const card = stage.querySelector<HTMLElement>(`[data-region-card="${slug}"]`);
-    card?.querySelectorAll<HTMLElement>('[data-carousel-row]').forEach((row) => {
-      row.dispatchEvent(new Event('scroll'));
+    stage.querySelectorAll<HTMLElement>(`[data-region-card="${slug}"]`).forEach((card) => {
+      card.querySelectorAll<HTMLElement>('[data-carousel-row]').forEach((row) => {
+        row.dispatchEvent(new Event('scroll'));
+      });
     });
   };
   const reveal = (slug: string) => {

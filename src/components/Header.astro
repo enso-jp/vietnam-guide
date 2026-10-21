@@ -9,11 +9,17 @@ const menuInterests = ['pagodas', 'caves', 'beaches', 'islands', 'rice', 'market
 <a class="skip" href="#content">Skip to content</a>
 <header class="topbar">
   <div class="wrap bar">
-    <button class="bar-icon" type="button" data-search-toggle aria-label="Search" aria-expanded="false" aria-controls="site-search">
+    <a class="wordmark" href="/">Vietnam <span>Guide</span></a>
+    <nav class="desk-nav" aria-label="Sections">
+      <button type="button" data-nav="destinations" aria-expanded="false" aria-controls="site-menu">Destinations</button>
+      <button type="button" data-nav="interests" aria-expanded="false" aria-controls="site-menu">Interests</button>
+      <button type="button" data-nav="plan" aria-expanded="false" aria-controls="site-menu">Plan a trip</button>
+    </nav>
+    <a class="desk-saved" href="/saved">Saved</a>
+    <button class="bar-icon search-toggle" type="button" data-search-toggle aria-label="Search" aria-expanded="false" aria-controls="site-search">
       <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6"></circle><path d="M16 16l4 4"></path></svg>
     </button>
-    <a class="wordmark" href="/">Vietnam <span>Guide</span></a>
-    <button class="bar-icon" type="button" data-menu aria-label="Menu" aria-expanded="false" aria-controls="site-menu">
+    <button class="bar-icon menu-toggle" type="button" data-menu aria-label="Menu" aria-expanded="false" aria-controls="site-menu">
       <svg class="icon-menu" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 7h14M5 12h14M5 17h14"></path></svg>
       <svg class="icon-close" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"></path></svg>
     </button>
@@ -34,7 +40,7 @@ const menuInterests = ['pagodas', 'caves', 'beaches', 'islands', 'rice', 'market
         <a href="/about">About</a>
       </div>
       <div class="site-menu-grid">
-        <details class="menu-col">
+        <details class="menu-col" data-col="destinations">
           <summary>Destinations</summary>
           <div class="menu-links">
             {corridors.map((corridor) => (
@@ -48,7 +54,7 @@ const menuInterests = ['pagodas', 'caves', 'beaches', 'islands', 'rice', 'market
             <a class="menu-strong" href="/destinations">See all destinations</a>
           </div>
         </details>
-        <details class="menu-col">
+        <details class="menu-col" data-col="interests">
           <summary>Interests</summary>
           <div class="menu-links">
             <a class="menu-strong" href="/food">Food and drink</a>
@@ -59,7 +65,7 @@ const menuInterests = ['pagodas', 'caves', 'beaches', 'islands', 'rice', 'market
             <a class="menu-strong" href="/interests">See all interests</a>
           </div>
         </details>
-        <details class="menu-col">
+        <details class="menu-col" data-col="plan">
           <summary>Plan a trip</summary>
           <div class="menu-links">
             <div class="menu-group">

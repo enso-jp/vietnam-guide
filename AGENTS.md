@@ -30,7 +30,7 @@ Destinations, interests, and itineraries are assemblies of those blocks. Do not 
 
 ## Work board
 
-`ops/board/` is the status for research, page setup, copy, and quality. Read `.cursor/skills/content-board/SKILL.md` before a content pass. One worker takes one place and one stage. Other places may run at the same time. Do not start a unit another run has claimed.
+`ops/board/` is the status for research, page setup, copy, and quality. Read `.cursor/skills/content-board/SKILL.md` before a content pass. One worker takes one place and keeps going through that place's stages. Other places may run at the same time. Do not start a place another run has claimed.
 
 Page templates, layout, styles, and `src/lib/partners.ts` stay with the owner. A content run does not edit them. Pause the hourly automation, or add a slug to `control.holdPlaces`, before you edit that destination’s content yourself.
 
