@@ -366,7 +366,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "old-quarter",
+    "stage": "researchNightlife",
+    "item": null,
+    "at": "2026-10-21T08:30:21.440Z",
+    "by": "hourly",
+    "branch": "cursor/old-quarter-research-base"
+  },
   "log": [
     {
       "at": "2026-10-21T08:29:56.645Z",
