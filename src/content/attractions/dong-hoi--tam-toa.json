@@ -1,0 +1,60 @@
+{
+  "slug": "tam-toa",
+  "placeSlug": "dong-hoi",
+  "name": "Tam Toa bell tower",
+  "nameVi": "Tháp chuông nhà thờ Tam Tòa",
+  "kicker": "Ruined bell tower in the park",
+  "summary": "Look at the ruined bell tower of Tam Toa in the central park. The ward page says the church was built in 1886 and reduced, in the American war years it dates 1964–1972, to the tower. It is a park stop, not a service and not a museum. No street number was printed. The fee and the hours are check on arrival.",
+  "dots": 4,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Walk from the river park. The ward page puts the tower in the central park. Minutes are check on arrival.",
+  "district": "Central park",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The ruined Tam Toa bell tower, dome and shaft, in the park",
+  "notice": {
+    "title": "A ruin, not a service",
+    "body": "The building is the bell tower left in a park. Do not budget a church service or a museum hour."
+  },
+  "body": [
+    "The ward page puts the tower in the central park and calls the park quiet. It says the church was built in 1886 and, in the American war years it dates 1964–1972, reduced to the tower. See it in daylight so the broken masonry reads. The frame needs the dome and the shaft together.",
+    "The heritage list of 12 Sep 2024 ranks the bell tower, together with a water tower and the banyan at Chùa Ông, as a provincial war-crimes relic, in the old wards Hải Đình and Đồng Mỹ. No street number is on either page. The address is check on arrival.",
+    "The same ward page says some documents put a baptism of the poet Hàn Mặc Tử here around 1912. That is the page’s hedge, not a second source. Do not treat the baptism as settled. No ticket page was opened. The fee and the hours are check on arrival. The tour-card free label used on other city stops is not a Tam Toa tariff."
+  ],
+  "figures": [
+    {
+      "id": "dong-hoi-tam-toa-2",
+      "caption": "The full tower from the park ground",
+      "alt": "The Tam Toa bell tower standing in the park, seen from the ground"
+    }
+  ],
+  "gettingThere": [
+    "Walk from the river park. The ward page places the tower in the central park and does not give a street number. Minutes were not printed. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the river",
+      "body": "Walk into the central park. Minutes are check on arrival."
+    },
+    {
+      "heading": "From Quảng Bình Quan",
+      "body": "Walk. Both are center stops on the ward page. Minutes are check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day is published. Check on arrival.",
+  "admissionNote": "No ticket page was opened. Check on arrival.",
+  "links": [
+    {
+      "label": "Ward tourism page",
+      "url": "https://donghoi.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/1404469293898/1616085529215",
+      "note": "Built 1886, tower left, central park"
+    },
+    {
+      "label": "Heritage list",
+      "url": "https://dukhach.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/13978710067377/1681184755950",
+      "note": "Bell tower ranked with the water tower and the Chùa Ông banyan"
+    }
+  ],
+  "interests": ["warHistory"]
+}

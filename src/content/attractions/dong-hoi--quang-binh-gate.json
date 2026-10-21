@@ -1,0 +1,60 @@
+{
+  "slug": "quang-binh-gate",
+  "placeSlug": "dong-hoi",
+  "name": "Quang Binh Gate",
+  "nameVi": "Quảng Bình Quan",
+  "kicker": "South gate of the Lũy Thầy line",
+  "summary": "Look at Quảng Bình Quan, the south gate of the Lũy Thầy line, in brick and stone. The ward page dates the rampart to 1631, the rebuild to 1825, and a repair to 1961. A visitor note says 1630. The portal says bombs nearly destroyed it in 1965 and it was restored again. It is a gate, not a Hue citadel. The fee, the hours, and the street number are check on arrival.",
+  "dots": 4,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Walk from the river and the market. The ward page treats the gate as the city’s emblem, in the center. Minutes are check on arrival.",
+  "district": "Center",
+  "verified": "21 Oct 2026",
+  "heroCaption": "Quảng Bình Quan from the street, with the wall beside the arch",
+  "notice": {
+    "title": "A gate, not a Hue citadel",
+    "body": "This is the south gate of the Lũy Thầy line. The citadel walls that remain are short restored sections, not a court you tour for a morning."
+  },
+  "body": [
+    "The provincial portal calls it Cổng Hạ, the south gate of the Lũy Thầy line on the old north–south road. The ward page says Đào Duy Từ had the rampart built in 1631, the gate rebuilt in brick and stone in 1825, and repaired in 1961. A shorter visitor note says the Nguyễn lords built it from 1630. Print both years. The portal says the 1961 repair was close to the original, that bombs nearly destroyed it in 1965, and that it has been restored again. The same page records the later name Định Bắc trường thành, given in the text when Thiệu Trị passed the rampart.",
+    "See it in daylight, when the brick reads. The ward page also uses it as a pin for the evening walk. The heritage list places it in Đồng Hải. No street number in the attraction text was clearly the gate’s door. A line on the portal that looked like a house number was not used. The address is check on arrival.",
+    "A tour card prints a free label. No separate gate tariff was opened. The fee and the hours are check on arrival. Do not budget a citadel circuit. The short walls are the next stop, and they are pieces, not an imperial city."
+  ],
+  "figures": [
+    {
+      "id": "dong-hoi-quang-binh-gate-2",
+      "caption": "The arch and the brick wall up close",
+      "alt": "A closer view of the Quảng Bình Quan arch and the wall"
+    }
+  ],
+  "gettingThere": [
+    "The gate is in the center, a walk from the river and from Chợ Đồng Hới. The ward page treats it as the city’s emblem. Minutes were not printed. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the river and the market",
+      "body": "Walk. Mẹ Suốt and the gate are both center pins on the ward page. Minutes are check on arrival."
+    },
+    {
+      "heading": "From a beachfront room",
+      "body": "Walk in from Nhật Lệ. The ward page puts the beach in the city. Minutes are check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day is published. Check on arrival.",
+  "admissionNote": "A tour card prints a free label. No separate gate tariff was opened. Check on arrival.",
+  "links": [
+    {
+      "label": "Quảng Bình Quan",
+      "url": "https://dulich.quangtri.gov.vn/en/quangbinhquan",
+      "note": "Provincial tourism portal"
+    },
+    {
+      "label": "Ward tourism page",
+      "url": "https://donghoi.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/1404469293898/1616085529215",
+      "note": "1631, the 1825 rebuild, and the 1961 repair"
+    }
+  ],
+  "interests": ["warHistory"]
+}

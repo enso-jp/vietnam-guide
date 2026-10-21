@@ -1,0 +1,59 @@
+{
+  "slug": "dong-hoi-day",
+  "title": "Dong Hoi in a day",
+  "kind": "trip",
+  "level": "day",
+  "duration": "Check on arrival",
+  "spanDays": 1,
+  "placeSlug": "dong-hoi",
+  "budget": "Check on arrival",
+  "pace": "Unhurried",
+  "photo": "dong-hoi-nhat-le-beach",
+  "summary": "The river, the gate, the short walls, Tam Toa, Mother Suốt, and the beach. No page prints a time on site. The minutes below are not a published duration. Fees and hours are check on arrival.",
+  "stops": [
+    {
+      "name": "Nhat Le riverbank",
+      "minutes": 45,
+      "placeSlug": "dong-hoi",
+      "attractionSlug": "nhat-le-river",
+      "note": "The morning walk. No page prints a duration. Check on arrival."
+    },
+    {
+      "name": "Quang Binh Gate",
+      "minutes": 30,
+      "placeSlug": "dong-hoi",
+      "attractionSlug": "quang-binh-gate",
+      "note": "The south gate. No page prints a duration. Check on arrival."
+    },
+    {
+      "name": "Dong Hoi Citadel",
+      "minutes": 30,
+      "placeSlug": "dong-hoi",
+      "attractionSlug": "dong-hoi-citadel",
+      "note": "The short walls. No page prints a duration. Check on arrival."
+    },
+    {
+      "name": "Tam Toa bell tower",
+      "minutes": 20,
+      "placeSlug": "dong-hoi",
+      "attractionSlug": "tam-toa",
+      "note": "The ruined tower in the park. No page prints a duration. Check on arrival."
+    },
+    {
+      "name": "Mother Suot",
+      "minutes": 20,
+      "placeSlug": "dong-hoi",
+      "attractionSlug": "mother-suot",
+      "note": "The statue by the river. No page prints a duration. Check on arrival."
+    },
+    {
+      "name": "Nhat Le Beach",
+      "minutes": 60,
+      "placeSlug": "dong-hoi",
+      "attractionSlug": "nhat-le-beach",
+      "note": "Sunset is the named hour. No page prints a duration. Check on arrival."
+    }
+  ],
+  "seoTitle": "Dong Hoi in a day — river, gate, walls, beach",
+  "seoDescription": "A one-day Dong Hoi walk: the river, Quang Binh Gate, the short walls, Tam Toa, Mother Suot, and Nhat Le. No page prints a time on site. Check on arrival."
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "dong-hoi-citadel",
+  "placeSlug": "dong-hoi",
+  "name": "Dong Hoi Citadel",
+  "nameVi": "Thành Đồng Hới",
+  "kicker": "Short restored walls and a gate",
+  "summary": "Walk the short restored sections of Thành Đồng Hới, with a moat, an east gate, and an arched bridge toward the Nhật Lệ. The ward page says more than 200 years of wall remain only in pieces. It is not a complete imperial city. Ho Chi Minh Square sits inside the same area and has no photograph here. The fee and the hours are check on arrival.",
+  "dots": 3,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Walk from Quảng Bình Quan. The ward page puts the square and the remaining walls in the same citadel area. Minutes are check on arrival.",
+  "district": "Center",
+  "verified": "21 Oct 2026",
+  "heroCaption": "Restored brick, a white gate tower, and an arched bridge",
+  "notice": {
+    "title": "Not a Hue citadel",
+    "body": "Only short sections remain. The east gate and the arched bridge are the part the ward page says visitors study. Do not expect a walled court."
+  },
+  "body": [
+    "This was a Nguyễn defensive work in the Trịnh–Nguyễn wars, on the ward page. More than 200 years of wall remain only in pieces. After restoration, that page says the east gate and the arched bridge toward the Nhật Lệ became the part visitors study. The photographs show restored brick, a white gate tower, and an arched bridge. They are not Quảng Bình Quan.",
+    "The 2024 heritage list places Thành Đồng Hới in Đồng Hải and ranks it history and architecture. The ward page places the remaining walls in the old Hải Định ward, with a moat. Ward names changed. Use both and do not draw a new map. The second frame is water and garden at one corner. Do not read a moat width into it.",
+    "Ho Chi Minh Square is inside the same citadel area, on Hùng Vương, and the ward page measures it at 6.8 ha. It has no licensed photograph, so it is not its own card. A separate ministry-ranked site for a June 1957 visit is not this square. The fee and the hours for the walls are check on arrival. A tour card’s free label is not a citadel tariff."
+  ],
+  "figures": [
+    {
+      "id": "dong-hoi-dong-hoi-citadel-2",
+      "caption": "Water and garden at a corner of the Đồng Hới walls",
+      "alt": "A corner of the old Đồng Hới walls with water and a garden"
+    }
+  ],
+  "gettingThere": [
+    "Walk from the gate. The ward page puts the remaining walls and Ho Chi Minh Square in the same citadel area, the square on Hùng Vương. Minutes were not printed. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Quảng Bình Quan",
+      "body": "Walk. Both are center pins. Minutes are check on arrival."
+    },
+    {
+      "heading": "From the river",
+      "body": "The east gate faces the Nhật Lệ, reached by the arched bridge on the ward page. Minutes are check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day is published. Check on arrival.",
+  "admissionNote": "No ticket page was opened. A tour card’s free label is not a citadel tariff. Check on arrival.",
+  "links": [
+    {
+      "label": "Ward tourism page",
+      "url": "https://donghoi.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/1404469293898/1616085529215",
+      "note": "The remaining walls, the moat, and the east gate"
+    },
+    {
+      "label": "Heritage list",
+      "url": "https://dukhach.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/13978710067377/1681184755950",
+      "note": "Thành Đồng Hới in Đồng Hải, 12 Sep 2024"
+    }
+  ],
+  "interests": ["warHistory"]
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "nhat-le-beach",
+  "placeSlug": "dong-hoi",
+  "name": "Nhat Le Beach",
+  "nameVi": "Biển Nhật Lệ",
+  "kicker": "City beach at the river mouth",
+  "summary": "Sit on the city beach at the Nhật Lệ mouth, pale sand under casuarina, with fishing boats using the channel. The ward page calls sunset the hour to be there. The old city coast is given as 12 km. A same-day cave and a same-day flight do not fit: the park puts Phong Nha Cave 50 km southeast. The fee and the hours are check on arrival.",
+  "dots": 5,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Walk from a Nhật Lệ or Bảo Ninh room. From the airport, 6 km south. Minutes from the terminal are check on arrival.",
+  "district": "Nhật Lệ mouth",
+  "verified": "21 Oct 2026",
+  "heroCaption": "Sand, small surf, and casuarina at the Nhật Lệ mouth, with the city behind",
+  "notice": {
+    "title": "Not a same-day cave stop",
+    "body": "The park puts Phong Nha Cave 50 km southeast of Đồng Hới and does not print the minutes. Do not pair this beach with a same-day flight."
+  },
+  "body": [
+    "The sand is in the city, at the mouth, not down a highway. Pale beach, a low line of casuarina, and fishing boats using the channel are the picture the ward page describes. It calls the water clear and names sunset as the hour to be there. The heritage list places Cửa Nhật Lệ in the old Hải Thành ward and Bảo Ninh commune.",
+    "The coast of the old city is given as 12 km on the ward page and on a provincial tour card. That card also prints a free label on the city stop. No beach-ticket page was opened, so the fee is check on arrival, not a copied “free.” Hours are check on arrival. A best month was not on a page that loaded.",
+    "Walk here if the night is on Nhật Lệ or on Bảo Ninh, the peninsula across the water and still this city. From the airport the center is 6 km south. Minutes from the terminal were not printed. Bàu Tró, the freshwater lake just inland, has no second licensed photograph, so it is not a card on this walk."
+  ],
+  "figures": [
+    {
+      "id": "dong-hoi-nhat-le-beach-2",
+      "caption": "The beach at ground level, with people and the surf",
+      "alt": "People on Nhật Lệ Beach with the surf in front of them"
+    }
+  ],
+  "gettingThere": [
+    "The beach is at the Nhật Lệ mouth, on the east side of the center. Walk from a beachfront room or from Bảo Ninh across the bridge. From Đồng Hới Airport, 6 km south into town. The minutes and a taxi fare are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From a Nhật Lệ or Bảo Ninh room",
+      "body": "Walk. The ward page puts the beach in the city. Minutes were not printed. Check on arrival."
+    },
+    {
+      "heading": "From the airport",
+      "body": "The civil AIP puts the airport 6 km north of the center. The ride south is check on arrival for minutes and fare."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No closing day is published. Check on arrival.",
+  "admissionNote": "A provincial tour card prints a free label on the city stop. No beach-ticket page was opened. Check on arrival.",
+  "links": [
+    {
+      "label": "Ward tourism page",
+      "url": "https://donghoi.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/1404469293898/1616085529215",
+      "note": "Phường Đồng Hới. Sunset, the 12 km coast, and Bảo Ninh."
+    }
+  ],
+  "interests": ["beaches"]
+}

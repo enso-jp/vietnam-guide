@@ -19,39 +19,39 @@
   },
   "stages": {
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, four interest groups, one day, two routes. No shopping card: the dossier names no boutique, souvenir shop, or mall.",
+      "updated": "2026-10-21T16:58:15.735Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "status": "enriched",
+      "note": "Place prose and the coast hero. Fees, hours, and road minutes stay check on arrival. No shopping card.",
+      "updated": "2026-10-21T16:58:15.823Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "status": "checked",
+      "note": "Read the place, the hero, and the credits. Shopping left off: no boutique, souvenir shop, or mall in the dossier.",
+      "updated": "2026-10-21T16:58:15.907Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Food guide and khoai deo. Other named dishes stay unpictured. Neighbor cakes are labeled apart.",
+      "updated": "2026-10-21T16:58:15.992Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "status": "enriched",
+      "note": "Khoai deo method from the 15 Mar 2023 article. No taste, no shop pick, and no price.",
+      "updated": "2026-10-21T16:58:16.074Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "status": "checked",
+      "note": "The dish photo is the dried slices. The market is one spot. Hours stay check on arrival.",
+      "updated": "2026-10-21T16:58:16.157Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -98,14 +98,14 @@
       "track": "unit",
       "name": "Nhat Le Beach",
       "slug": "nhat-le-beach",
-      "file": null,
+      "file": "src/content/attractions/dong-hoi--nhat-le-beach.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "City beach at the river mouth. Fee check on arrival.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Licensed photographs of this sight. Fee and hours are check on arrival.",
+      "updated": "2026-10-21T16:58:16.437Z",
       "reworkCount": 0
     },
     {
@@ -117,11 +117,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Freshwater lake and archaeology beside the beach.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "One lake photograph and no second frame. Stays in the dossier.",
+      "updated": "2026-10-21T16:58:16.680Z",
       "reworkCount": 0
     },
     {
@@ -133,11 +133,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "8 km from the beach on the ward page, about 10 km on the tour card.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph. Both distances stay in the dossier.",
+      "updated": "2026-10-21T16:58:16.931Z",
       "reworkCount": 0
     },
     {
@@ -149,11 +149,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Cable-stayed bridge. Do not merge with the 2002 girder bridge.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No photograph of the whole A-tower and a span.",
+      "updated": "2026-10-21T16:58:17.187Z",
       "reworkCount": 0
     },
     {
@@ -162,14 +162,14 @@
       "track": "unit",
       "name": "Tam Toa bell tower",
       "slug": "tam-toa",
-      "file": null,
+      "file": "src/content/attractions/dong-hoi--tam-toa.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Ruined tower in the central park. No street number.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Licensed photographs of this sight. Fee and hours are check on arrival.",
+      "updated": "2026-10-21T16:58:17.456Z",
       "reworkCount": 0
     },
     {
@@ -178,14 +178,14 @@
       "track": "unit",
       "name": "Quang Binh Gate",
       "slug": "quang-binh-gate",
-      "file": null,
+      "file": "src/content/attractions/dong-hoi--quang-binh-gate.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "South gate of the Luy Thay line.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Licensed photographs of this sight. Fee and hours are check on arrival.",
+      "updated": "2026-10-21T16:58:17.726Z",
       "reworkCount": 0
     },
     {
@@ -194,14 +194,14 @@
       "track": "unit",
       "name": "Dong Hoi Citadel",
       "slug": "dong-hoi-citadel",
-      "file": null,
+      "file": "src/content/attractions/dong-hoi--dong-hoi-citadel.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Short walls and an east gate. Not a Hue citadel.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Licensed photographs of this sight. Fee and hours are check on arrival.",
+      "updated": "2026-10-21T16:58:17.996Z",
       "reworkCount": 0
     },
     {
@@ -210,14 +210,14 @@
       "track": "unit",
       "name": "Mother Suot",
       "slug": "mother-suot",
-      "file": null,
+      "file": "src/content/attractions/dong-hoi--mother-suot.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "National historic ferry landing and statue.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Licensed photographs of this sight. Fee and hours are check on arrival.",
+      "updated": "2026-10-21T16:58:18.275Z",
       "reworkCount": 0
     },
     {
@@ -229,11 +229,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "6.8 ha square inside the citadel area. Museum page not opened.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph. The 6.8 ha figure stays in the dossier.",
+      "updated": "2026-10-21T16:58:18.521Z",
       "reworkCount": 0
     },
     {
@@ -245,11 +245,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Pagoda in old Duc Ninh Dong. One source for the statue size.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph. The size stays on the ward page only.",
+      "updated": "2026-10-21T16:58:18.774Z",
       "reworkCount": 0
     },
     {
@@ -261,11 +261,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Peninsula across the river. Not a new place slug.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "One beach photograph. Stay area of Dong Hoi, not a new place and not a finished sight.",
+      "updated": "2026-10-21T16:58:19.018Z",
       "reworkCount": 0
     },
     {
@@ -274,14 +274,14 @@
       "track": "unit",
       "name": "Nhat Le riverbank",
       "slug": "nhat-le-river",
-      "file": null,
+      "file": "src/content/attractions/dong-hoi--nhat-le-river.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Morning walk on both banks.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Licensed photographs of this sight. Fee and hours are check on arrival.",
+      "updated": "2026-10-21T16:58:19.287Z",
       "reworkCount": 0
     },
     {
@@ -293,11 +293,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Me Suot market and the fish landing. Hours are one CMS line.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "One hall photograph. A spot on the food guide, not a finished attraction.",
+      "updated": "2026-10-21T16:58:19.531Z",
       "reworkCount": 0
     },
     {
@@ -309,11 +309,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Eating street from the ward shop list. Shops are not picks.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No street photograph. Shop names stay off the page.",
+      "updated": "2026-10-21T16:58:19.774Z",
       "reworkCount": 0
     },
     {
@@ -325,11 +325,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Banh khoai and banh beo cluster. Shops are not picks.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No street photograph. Shop names stay off the page.",
+      "updated": "2026-10-21T16:58:20.020Z",
       "reworkCount": 0
     },
     {
@@ -341,11 +341,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Daytime bowls. The same street is the weekend walking street.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No street photograph. Shop names stay off the page.",
+      "updated": "2026-10-21T16:58:20.268Z",
       "reworkCount": 0
     },
     {
@@ -357,11 +357,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Quang Binh bowl. Do not reuse the Da Nang banh-canh page.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No photograph. The two recipes were not collapsed, and banh-canh was not reused.",
+      "updated": "2026-10-21T16:58:20.515Z",
       "reworkCount": 0
     },
     {
@@ -373,11 +373,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Palm-sized cake. Do not reuse the Hue banh-khoai page.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No photograph. Not the Hue crepe page.",
+      "updated": "2026-10-21T16:58:20.759Z",
       "reworkCount": 0
     },
     {
@@ -389,11 +389,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Cassava-flour cake. Leaf, plain, and fried forms disagree by source.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No photograph. Leaf, plain, and fried forms were not collapsed.",
+      "updated": "2026-10-21T16:58:20.998Z",
       "reworkCount": 0
     },
     {
@@ -405,11 +405,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Named, not described. Do not paste the Hue method.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Named and not described. No photograph.",
+      "updated": "2026-10-21T16:58:21.238Z",
       "reworkCount": 0
     },
     {
@@ -421,11 +421,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Red-rice roll in the 2015 article.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No photograph. The 2015 red-rice roll is not the published crepe.",
+      "updated": "2026-10-21T16:58:21.491Z",
       "reworkCount": 0
     },
     {
@@ -437,11 +437,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Named at the market. Recipe not on the page.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Named, recipe unknown, no photograph.",
+      "updated": "2026-10-21T16:58:21.739Z",
       "reworkCount": 0
     },
     {
@@ -450,14 +450,14 @@
       "track": "unit",
       "name": "Khoai deo",
       "slug": "khoai-deo",
-      "file": null,
+      "file": "src/content/dishes/khoai-deo.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dried sweet potato gift at Dong Hoi market and Nam Ly.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Photograph of the dried slices. Price is check on arrival. No shop pick.",
+      "updated": "2026-10-21T16:58:22.043Z",
       "reworkCount": 0
     },
     {
@@ -469,11 +469,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Named, not defined.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Named and not defined. No photograph.",
+      "updated": "2026-10-21T16:58:22.298Z",
       "reworkCount": 0
     },
     {
@@ -485,11 +485,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Da Nhay bowl in the 2015 article.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Da Nhay bowl, not the Dong Hoi market. No photograph.",
+      "updated": "2026-10-21T16:58:22.568Z",
       "reworkCount": 0
     },
     {
@@ -517,11 +517,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Phan Boi Chau and Dong Hai, Fri-Sun and holidays, 18:00-24:00 on the ward page. One source.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No night photograph. The printed hours stay in the place text.",
+      "updated": "2026-10-21T16:58:36.717Z",
       "reworkCount": 0
     },
     {
@@ -533,11 +533,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Lit bridge and the beach path. No bar street was named.",
-      "updated": "2026-10-21T15:33:51.704Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No photograph of the lit tower.",
+      "updated": "2026-10-21T16:58:36.987Z",
       "reworkCount": 0
     },
     {
@@ -590,110 +590,167 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "dong-hoi",
-    "stage": "destination",
-    "item": null,
-    "at": "2026-10-21T16:27:37.451Z",
-    "by": "dong-hoi-destination",
-    "branch": "cursor/dong-hoi-destination-8aa2"
-  },
+  "claim": null,
   "log": [
     {
-      "at": "2026-10-21T15:33:51.704Z",
+      "at": "2026-10-21T16:58:36.987Z",
       "place": "dong-hoi",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: 2026 festival dates, road minutes, Vinh Moc, and Bang's ticket page."
+      "stage": "quality",
+      "item": "dong-hoi--nhat-le-night",
+      "status": "skipped",
+      "note": "No photograph of the lit tower."
     },
     {
-      "at": "2026-10-21T15:33:51.520Z",
+      "at": "2026-10-21T16:58:36.903Z",
       "place": "dong-hoi",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a cafe street and a sourced closing hour for the river path."
+      "stage": "copy",
+      "item": "dong-hoi--nhat-le-night",
+      "status": "skipped",
+      "note": "No photograph of the lit tower."
     },
     {
-      "at": "2026-10-21T15:33:51.357Z",
+      "at": "2026-10-21T16:58:36.814Z",
       "place": "dong-hoi",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a 2026 confirmation of the Friday-Sunday hours, and any bar street. None was named."
+      "stage": "page",
+      "item": "dong-hoi--nhat-le-night",
+      "status": "skipped",
+      "note": "No photograph of the lit tower."
     },
     {
-      "at": "2026-10-21T15:33:42.447Z",
+      "at": "2026-10-21T16:58:36.717Z",
       "place": "dong-hoi",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: stall prices, the keo cu do recipe, a banh beo method, Nam Ly as its own market, and confirmed market hours."
+      "stage": "quality",
+      "item": "dong-hoi--walking-street",
+      "status": "skipped",
+      "note": "No night photograph. The printed hours stay in the place text."
     },
     {
-      "at": "2026-10-21T15:33:41.865Z",
+      "at": "2026-10-21T16:58:36.630Z",
       "place": "dong-hoi",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: the provincial museum, the prison, the artillery sites, gate hours, and beach fees."
+      "stage": "copy",
+      "item": "dong-hoi--walking-street",
+      "status": "skipped",
+      "note": "No night photograph. The printed hours stay in the place text."
     },
     {
-      "at": "2026-10-21T15:33:41.328Z",
+      "at": "2026-10-21T16:58:36.540Z",
       "place": "dong-hoi",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: flight routes, Hue road minutes, taxi fares, the bus station, and a storm calendar."
+      "stage": "page",
+      "item": "dong-hoi--walking-street",
+      "status": "skipped",
+      "note": "No night photograph. The printed hours stay in the place text."
     },
     {
-      "at": "2026-10-21T15:33:30.457Z",
+      "at": "2026-10-21T16:58:22.568Z",
       "place": "dong-hoi",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The April culture week and six side trips are in. Still open: 2026 dates and minutes to Vung Chua, Da Nhay, and Bang."
+      "stage": "quality",
+      "item": "dong-hoi--chao-ca-ngheo",
+      "status": "skipped",
+      "note": "Da Nhay bowl, not the Dong Hoi market. No photograph."
     },
     {
-      "at": "2026-10-21T15:33:30.293Z",
+      "at": "2026-10-21T16:58:22.474Z",
       "place": "dong-hoi",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "River morning and beach afternoon are in. Still open: a cafe street and a sourced quiet hour."
+      "stage": "copy",
+      "item": "dong-hoi--chao-ca-ngheo",
+      "status": "skipped",
+      "note": "Da Nhay bowl, not the Dong Hoi market. No photograph."
     },
     {
-      "at": "2026-10-21T15:33:30.127Z",
+      "at": "2026-10-21T16:58:22.389Z",
       "place": "dong-hoi",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Walking street and the river night are in. Still open: a 2026 weekend calendar and any bar street."
+      "stage": "page",
+      "item": "dong-hoi--chao-ca-ngheo",
+      "status": "skipped",
+      "note": "Da Nhay bowl, not the Dong Hoi market. No photograph."
     },
     {
-      "at": "2026-10-21T15:33:22.839Z",
+      "at": "2026-10-21T16:58:22.298Z",
       "place": "dong-hoi",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Market and three eating streets are listed. Still open: the keo cu do recipe, a banh beo method, and market hours."
+      "stage": "quality",
+      "item": "dong-hoi--chao-hau",
+      "status": "skipped",
+      "note": "Named and not defined. No photograph."
     },
     {
-      "at": "2026-10-21T15:33:22.326Z",
+      "at": "2026-10-21T16:58:22.215Z",
       "place": "dong-hoi",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Ward sights and two areas are listed. Still open: gate hours, beach fees, the museum, and the longer war-site list."
+      "stage": "copy",
+      "item": "dong-hoi--chao-hau",
+      "status": "skipped",
+      "note": "Named and not defined. No photograph."
     },
     {
-      "at": "2026-10-21T15:33:21.825Z",
+      "at": "2026-10-21T16:58:22.127Z",
       "place": "dong-hoi",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and rail clocks are in. Still open: road minutes from Hue, flight routes, taxi fares, and a storm calendar."
+      "stage": "page",
+      "item": "dong-hoi--chao-hau",
+      "status": "skipped",
+      "note": "Named and not defined. No photograph."
+    },
+    {
+      "at": "2026-10-21T16:58:22.043Z",
+      "place": "dong-hoi",
+      "stage": "quality",
+      "item": "dong-hoi--khoai-deo",
+      "status": "checked",
+      "note": "Photograph of the dried slices. Price is check on arrival. No shop pick."
+    },
+    {
+      "at": "2026-10-21T16:58:21.957Z",
+      "place": "dong-hoi",
+      "stage": "copy",
+      "item": "dong-hoi--khoai-deo",
+      "status": "enriched",
+      "note": "Photograph of the dried slices. Price is check on arrival. No shop pick."
+    },
+    {
+      "at": "2026-10-21T16:58:21.835Z",
+      "place": "dong-hoi",
+      "stage": "page",
+      "item": "dong-hoi--khoai-deo",
+      "status": "paged",
+      "note": "Photograph of the dried slices. Price is check on arrival. No shop pick."
+    },
+    {
+      "at": "2026-10-21T16:58:21.740Z",
+      "place": "dong-hoi",
+      "stage": "quality",
+      "item": "dong-hoi--keo-cu-do",
+      "status": "skipped",
+      "note": "Named, recipe unknown, no photograph."
+    },
+    {
+      "at": "2026-10-21T16:58:21.656Z",
+      "place": "dong-hoi",
+      "stage": "copy",
+      "item": "dong-hoi--keo-cu-do",
+      "status": "skipped",
+      "note": "Named, recipe unknown, no photograph."
+    },
+    {
+      "at": "2026-10-21T16:58:21.574Z",
+      "place": "dong-hoi",
+      "stage": "page",
+      "item": "dong-hoi--keo-cu-do",
+      "status": "skipped",
+      "note": "Named, recipe unknown, no photograph."
+    },
+    {
+      "at": "2026-10-21T16:58:21.492Z",
+      "place": "dong-hoi",
+      "stage": "quality",
+      "item": "dong-hoi--banh-xeo-dong-hoi",
+      "status": "skipped",
+      "note": "No photograph. The 2015 red-rice roll is not the published crepe."
+    },
+    {
+      "at": "2026-10-21T16:58:21.407Z",
+      "place": "dong-hoi",
+      "stage": "copy",
+      "item": "dong-hoi--banh-xeo-dong-hoi",
+      "status": "skipped",
+      "note": "No photograph. The 2015 red-rice roll is not the published crepe."
     }
   ]
 }
