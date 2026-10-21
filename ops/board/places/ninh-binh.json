@@ -9,8 +9,8 @@
   "priority": 12,
   "note": "",
   "coverage": {
-    "sights": "missing",
-    "areas": "missing",
+    "sights": "partial",
+    "areas": "partial",
     "foodStreets": "missing",
     "nightlife": "missing",
     "lifestyle": "missing",
@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:23:01.674Z",
+      "updated": "2026-10-21T08:26:01.807Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:23:01.674Z",
+      "updated": "2026-10-21T08:26:01.807Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,13 +45,13 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:23:01.674Z",
+      "updated": "2026-10-21T08:26:01.807Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:23:01.674Z",
+      "updated": "2026-10-21T08:26:01.807Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -61,9 +61,9 @@
       "reworkCount": 0
     },
     "researchAttractions": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "Still open: every gate hour, the Tam Coc and Bai Dinh and Van Long price disagreements, drive minutes between sites, and Thung Nham, Phat Diem, Cuc Phuong, Thien Ha, Am Tien, and Thung Nang. Kenh Ga is a resort note, not a pick.",
+      "updated": "2026-10-21T08:26:01.806Z",
       "reworkCount": 0
     },
     "researchFood": {
@@ -100,12 +100,12 @@
       "slug": "bai-dinh",
       "file": "src/content/attractions/ninh-binh--bai-dinh.json",
       "source": "published",
-      "research": "not_started",
+      "research": "stored",
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": "2026-10-21T08:23:01.674Z",
+      "note": "Electric car 60,000 VND in 2020 and 30,000 VND on the 2017 English page. 2025 adult figure not recovered. Hours check on arrival. Dot stays 3.",
+      "updated": "2026-10-21T08:26:01.807Z",
       "reworkCount": 0
     },
     {
@@ -116,12 +116,12 @@
       "slug": "hoa-lu",
       "file": "src/content/attractions/ninh-binh--hoa-lu.json",
       "source": "published",
-      "research": "not_started",
+      "research": "stored",
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": "2026-10-21T08:23:01.674Z",
+      "note": "Adult 20,000 VND on the 2020 and 2025 lists. Hours check on arrival. Dot stays 3.",
+      "updated": "2026-10-21T08:26:01.807Z",
       "reworkCount": 0
     },
     {
@@ -132,12 +132,12 @@
       "slug": "mua-cave",
       "file": "src/content/attractions/ninh-binh--mua-cave.json",
       "source": "published",
-      "research": "not_started",
+      "research": "stored",
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": "2026-10-21T08:23:01.674Z",
+      "note": "Department lists 100,000 VND. Vietnam Tourism prints 200,000 VND and 500 steps. Hours check on arrival. Dot stays 4.",
+      "updated": "2026-10-21T08:26:01.807Z",
       "reworkCount": 0
     },
     {
@@ -169,7 +169,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Sleep area for the Ninh Binh night. Place slug tam-coc already exists, so no second town page. Sourced 21 Oct 2026 from the department Tam Coc page and Vietnam Tourism.",
-      "updated": "2026-10-21T08:23:01.674Z",
+      "updated": "2026-10-21T08:26:01.807Z",
       "reworkCount": 0
     },
     {
@@ -185,7 +185,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Department visitor guide, 1 Aug 2025, names Cho Rong as a place to buy specialties. Food lane has not opened it.",
-      "updated": "2026-10-21T08:23:01.674Z",
+      "updated": "2026-10-21T08:26:01.807Z",
       "reworkCount": 0
     },
     {
@@ -201,20 +201,149 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Department visitor guide, 1 Aug 2025, names Cho Bau as a place to buy specialties. Food lane has not opened it.",
-      "updated": "2026-10-21T08:23:01.674Z",
+      "updated": "2026-10-21T08:26:01.807Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--trang-an",
+      "kind": "zone",
+      "track": "unit",
+      "name": "Trang An boat",
+      "slug": "trang-an",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sourced 21 Oct 2026. Hours check on arrival. Child price differs on the 2017 English page.",
+      "updated": "2026-10-21T08:26:01.807Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--tam-coc-boat",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Tam Coc boat",
+      "slug": "tam-coc-boat",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Place slug tam-coc already covers the boat. 2020 and 2025 fees disagree. Do not open a second file.",
+      "updated": "2026-10-21T08:26:01.807Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--bich-dong",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Bich Dong Pagoda",
+      "slug": "bich-dong",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Cover on the Tam Coc place. Standalone fee unsourced. No separate page yet.",
+      "updated": "2026-10-21T08:26:01.807Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--van-long",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Van Long",
+      "slug": "van-long",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sourced 21 Oct 2026. Fees disagree across 2017, 2020, and 2025. Hours check on arrival.",
+      "updated": "2026-10-21T08:26:01.807Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--ninh-binh-city",
+      "kind": "hub",
+      "track": "unit",
+      "name": "Ninh Binh city",
+      "slug": "ninh-binh-city",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "The place page is this hub. No separate attraction file.",
+      "updated": "2026-10-21T08:26:01.807Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--thung-nham",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Thung Nham",
+      "slug": "thung-nham",
+      "file": null,
+      "source": "dossier",
+      "research": "not_started",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "On the department lists. Not written up this pass.",
+      "updated": "2026-10-21T08:26:01.807Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--phat-diem",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Phat Diem Cathedral",
+      "slug": "phat-diem",
+      "file": null,
+      "source": "dossier",
+      "research": "not_started",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "On the department lists. Left for a later pass. Reads as a day trip.",
+      "updated": "2026-10-21T08:26:01.807Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--cuc-phuong",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Cuc Phuong National Park",
+      "slug": "cuc-phuong",
+      "file": null,
+      "source": "dossier",
+      "research": "not_started",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "On the department lists. Left for the context lane as a day trip. No place slug.",
+      "updated": "2026-10-21T08:26:01.807Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "ninh-binh",
-    "stage": "researchAttractions",
-    "item": null,
-    "at": "2026-10-21T08:23:30.385Z",
-    "by": "hourly",
-    "branch": "cursor/ninh-binh-research-base"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T08:26:01.807Z",
+      "place": "ninh-binh",
+      "stage": "researchAttractions",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Still open: every gate hour, the Tam Coc and Bai Dinh and Van Long price disagreements, drive minutes between sites, and Thung Nham, Phat Diem, Cuc Phuong, Thien Ha, Am Tien, and Thung Nang. Kenh Ga is a resort note, not a pick."
+    },
     {
       "at": "2026-10-21T08:23:01.674Z",
       "place": "ninh-binh",

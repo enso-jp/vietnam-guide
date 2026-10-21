@@ -73,3 +73,33 @@ Accessed 21 Oct 2026 unless a line says otherwise.
 - Publisher: Ninh Binh Department of Tourism
 - Accessed: 21 Oct 2026
 - Supports: English footer still prints the office as 06 Trang An street, Dong Thanh ward, Ninh Binh city. The Vietnamese 2025 pages print Hoa Lu ward (S3, S4). Both lines are recorded. The English footer looks unrevised.
+
+### S13
+- URL: https://sodulich.ninhbinh.gov.vn/vi/giai-tri-mua-sam/gia-ve-tham-quan-cac-khu-diem-du-lich-184.html
+- Publisher: Ninh Binh Department of Tourism
+- Accessed: 21 Oct 2026
+- Supports: Fee list dated 20 Aug 2020. Hoa Lu, Trang An, Bai Dinh, Tam Coc, Mua Cave, Van Long, and a note that Kenh Ga was closed for construction. Hours are not on this page.
+
+### S14
+- URL: https://dulichninhbinh.com.vn/en/item/1801
+- Publisher: Tourism Promotion Information Center, Ninh Binh Tourism Department
+- Accessed: 21 Oct 2026
+- Supports: Ticket list updated 4 Mar 2025. Hoa Lu 20,000 VND. Tam Coc 250,000 / 350,000 VND. Trang An 250,000 VND over 1.3 m. Mua Cave 100,000 VND. Van Long entrance 100,000 VND. Bai Dinh adult figures did not survive the fetch. Treat this as a second department-family page, not as a replacement that erases S13.
+
+### S15
+- URL: https://sodulich.ninhbinh.gov.vn/vi/thong-tin-ho-tro/thong-tin-ho-tro-cac-diem-du-lich-2303.html
+- Publisher: Ninh Binh Department of Tourism
+- Accessed: 21 Oct 2026
+- Supports: Support phones dated 1 Aug 2025 for Hoa Lu, Trang An, Tam Coc–Bich Dong, Bai Dinh, Cuc Phuong, Van Long, Phat Diem, Thien Ha, Thung Nham, Mua Cave, and Thach Bich–Thung Nang. Phones are not hours.
+
+### S16
+- URL: https://www.vietnam.travel/things-to-do/10-must-do-activities-ninh-binh
+- Publisher: Vietnam Tourism
+- Accessed: 21 Oct 2026
+- Supports: Bich Dong gate, bridge, and 18th-century temples. Hoa Lu about 20 minutes from Trang An, two structures, 10th and 11th centuries. Mua Cave 500 steps and a 200,000 VND ticket, which disagrees with S13 and S14. Bai Dinh called the largest in Southeast Asia, which disagrees with S7’s “in the country.” Boat rides two to three hours. Van Long as a wetland boat. Hotel and tour-operator names on this page are not picks and are not copied into the dossier.
+
+### S17
+- URL: https://sodulich.ninhbinh.gov.vn/en/ticket-prices/fares-to-visit-ninh-binh-tourist-attractions-248.html
+- Publisher: Ninh Binh Department of Tourism
+- Accessed: 21 Oct 2026
+- Supports: English fee page dated 16 Jan 2017. Bai Dinh electric car 30,000 VND against 60,000 VND on S13. Trang An child under 1.4 m at 100,000 VND. Van Long boat 60,000 VND. Kept only where a later page disagrees.
