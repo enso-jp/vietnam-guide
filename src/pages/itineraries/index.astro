@@ -2,9 +2,48 @@
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import PlanTabs from '../../components/PlanTabs.astro';
-import { getItineraries } from '../../lib/content';
+import { corridorsNorthToSouth, getItineraries } from '../../lib/content';
+import {
+  daysFor,
+  durationLabel,
+  firstWithDays,
+  GATEWAYS,
+  isNationwideLength,
+  type FilterTrip,
+} from '../../lib/itinerary-filters';
 import { breadcrumbList, itemList } from '../../lib/schema';
+
 const trips = getItineraries();
+const nationwideRecords: FilterTrip[] = trips.flatMap((trip) => {
+  if (trip.level !== 'nationwide' || trip.daysCount == null || !trip.gateway || !isNationwideLength(trip.daysCount)) return [];
+  return [{
+    slug: trip.slug,
+    title: trip.title,
+    summary: trip.summary,
+    duration: trip.duration,
+    pace: trip.pace,
+    daysCount: trip.daysCount,
+    gateway: trip.gateway,
+  }];
+});
+const regionRecords: FilterTrip[] = trips.flatMap((trip) => {
+  if (trip.level !== 'region' || trip.daysCount == null || !trip.corridor) return [];
+  return [{
+    slug: trip.slug,
+    title: trip.title,
+    summary: trip.summary,
+    duration: trip.duration,
+    pace: trip.pace,
+    daysCount: trip.daysCount,
+    corridor: trip.corridor,
+  }];
+});
+const corridors = corridorsNorthToSouth();
+const gatewayValue = firstWithDays(GATEWAYS.map((gateway) => gateway.value), (value) => daysFor(nationwideRecords, 'gateway', value).length > 0) || GATEWAYS[0].value;
+const gatewayDays = daysFor(nationwideRecords, 'gateway', gatewayValue);
+const corridorValue = firstWithDays(corridors.map((corridor) => corridor.slug), (value) => daysFor(regionRecords, 'corridor', value).length > 0) || corridors[0]?.slug || '';
+const corridorDays = daysFor(regionRecords, 'corridor', corridorValue);
+const filterData = JSON.stringify({ nationwide: nationwideRecords, region: regionRecords }).replace(/</g, '\\u003c');
 const sections = [
   { title: 'Nationwide', trips: trips.filter((trip) => trip.level === 'nationwide') },
   { title: 'Region', trips: trips.filter((trip) => trip.level === 'region') },
@@ -17,15 +56,137 @@ const sections = [
     <Crumbs items={[{ name: 'Plan a trip', href: '/plan' }, { name: 'Itinerary ideas' }]} />
     <h1>Itinerary ideas</h1>
     <PlanTabs current="itineraries" />
-    {sections.map((section) => (
-      <>
-        <h2>{section.title}</h2>
-        <ul class="guide-list">
-          {section.trips.map((trip) => (
-            <li><a class="guide-row" href={`/itineraries/${trip.slug}`}><strong>{trip.title}</strong><p class="meta">{trip.duration}</p><p>{trip.summary}</p></a></li>
-          ))}
-        </ul>
-      </>
-    ))}
+    <div class="itinerary-index place-body">
+      <section class="place-section">
+        <h2>Nationwide</h2>
+        <form class="itinerary-filter" data-itinerary-filter="nationwide">
+          <label>Gateway
+            <select data-filter-primary>
+              {GATEWAYS.map((gateway) => (
+                <option value={gateway.value} selected={gateway.value === gatewayValue}>{gateway.label}</option>
+              ))}
+            </select>
+          </label>
+          <label>Duration
+            <select data-filter-duration disabled={gatewayDays.length === 0}>
+              {gatewayDays.map((count) => (
+                <option value={count}>{durationLabel(nationwideRecords.filter((trip) => trip.gateway === gatewayValue), count)}</option>
+              ))}
+            </select>
+          </label>
+          <button type="submit" disabled={gatewayDays.length === 0}>Show this itinerary</button>
+          <div class="itinerary-matches" data-filter-matches hidden></div>
+        </form>
+      </section>
+      <section class="place-section">
+        <h2>Region</h2>
+        <form class="itinerary-filter" data-itinerary-filter="region">
+          <label>Region
+            <select data-filter-primary>
+              {corridors.map((corridor) => (
+                <option value={corridor.slug} selected={corridor.slug === corridorValue}>{corridor.name}</option>
+              ))}
+            </select>
+          </label>
+          <label>Duration
+            <select data-filter-duration disabled={corridorDays.length === 0}>
+              {corridorDays.map((count) => (
+                <option value={count}>{durationLabel(regionRecords.filter((trip) => trip.corridor === corridorValue), count)}</option>
+              ))}
+            </select>
+          </label>
+          <button type="submit" disabled={corridorDays.length === 0}>Show this itinerary</button>
+          <div class="itinerary-matches" data-filter-matches hidden></div>
+        </form>
+      </section>
+      {sections.map((section) => (
+        <section class="place-section">
+          <h2>{section.title}</h2>
+          <ul class="guide-list">
+            {section.trips.map((trip) => (
+              <li><a class="guide-row" href={`/itineraries/${trip.slug}`}><strong>{trip.title}</strong><p class="meta">{trip.duration}</p><p>{trip.summary}</p></a></li>
+            ))}
+          </ul>
+        </section>
+      ))}
+    </div>
+    <script type="application/json" id="itinerary-filter-data" set:html={filterData}></script>
   </div>
 </Base>
+<script>
+  import { daysFor, durationLabel, matchingTrips, type FilterTrip } from '../../lib/itinerary-filters';
+
+  type Payload = { nationwide: FilterTrip[]; region: FilterTrip[] };
+
+  const node = document.getElementById('itinerary-filter-data');
+  if (node?.textContent) {
+    const data = JSON.parse(node.textContent) as Payload;
+    document.querySelectorAll<HTMLFormElement>('form[data-itinerary-filter]').forEach((form) => {
+      const kind = form.dataset.itineraryFilter === 'region' ? 'region' : 'nationwide';
+      const key = kind === 'region' ? 'corridor' : 'gateway';
+      const records = data[kind];
+      const primary = form.querySelector<HTMLSelectElement>('[data-filter-primary]');
+      const duration = form.querySelector<HTMLSelectElement>('[data-filter-duration]');
+      const button = form.querySelector<HTMLButtonElement>('button[type="submit"]');
+      const matches = form.querySelector<HTMLElement>('[data-filter-matches]');
+      if (!primary || !duration || !button || !matches) return;
+
+      const clearMatches = () => {
+        matches.hidden = true;
+        matches.replaceChildren();
+      };
+
+      const fillDuration = () => {
+        const selected = duration.value;
+        const counts = daysFor(records, key, primary.value);
+        const scoped = records.filter((trip) => trip[key] === primary.value);
+        duration.replaceChildren();
+        for (const count of counts) {
+          const option = document.createElement('option');
+          option.value = String(count);
+          option.textContent = durationLabel(scoped, count);
+          duration.append(option);
+        }
+        if (counts.map(String).includes(selected)) duration.value = selected;
+        const empty = counts.length === 0;
+        duration.disabled = empty;
+        button.disabled = empty;
+        clearMatches();
+      };
+
+      primary.addEventListener('change', fillDuration);
+      duration.addEventListener('change', clearMatches);
+      form.addEventListener('submit', (event) => {
+        event.preventDefault();
+        if (button.disabled) return;
+        const found = matchingTrips(records, key, primary.value, Number(duration.value));
+        if (found.length === 1) {
+          window.location.assign(`/itineraries/${found[0].slug}`);
+          return;
+        }
+        matches.replaceChildren();
+        if (found.length < 2) {
+          matches.hidden = true;
+          return;
+        }
+        const grid = document.createElement('div');
+        grid.className = 'hub-grid';
+        for (const trip of found) {
+          const link = document.createElement('a');
+          link.href = `/itineraries/${trip.slug}`;
+          const title = document.createElement('h3');
+          title.textContent = trip.title;
+          const summary = document.createElement('p');
+          summary.textContent = trip.summary;
+          const meta = document.createElement('p');
+          meta.className = 'meta';
+          meta.textContent = `${trip.duration} · ${trip.pace}`;
+          link.append(title, summary, meta);
+          grid.append(link);
+        }
+        matches.append(grid);
+        matches.hidden = false;
+      });
+    });
+  }
+</script>
