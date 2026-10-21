@@ -43,7 +43,9 @@ Do not ship a panorama and hope the browser finds the subject. Crop the file so 
 
 Keep a normal JPEG under 320 KB. Record the author, license, and source from the file page. Do not invent a credit. Do not demand a 1920px-wide hero. The page budget is the limit in `AGENTS.md`.
 
-The image id stays `{placeSlug}-{slug}` for an attraction and the place slug for the city banner. A scene that is not the attraction, such as a beach night beside the swim, gets its own id.
+The image id stays `{placeSlug}-{slug}` for an attraction hero and the place slug for the city banner. A second attraction frame is `{placeSlug}-{slug}-2`. A scene that is not the attraction, such as a beach night beside the swim, gets its own id.
+
+When the page is an attraction, follow `.cursor/skills/attraction-page/SKILL.md` for the kicker, the body, the notice, getting there, hours, and the photo test. Do not lengthen a stub summary and call the page finished. The reference record is `src/content/attractions/da-nang--ba-na.json`.
 
 ## When a fact is missing
 

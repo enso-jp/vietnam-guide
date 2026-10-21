@@ -1,0 +1,17 @@
+---
+description: Attraction pages follow the Tokyo sight-page standard. Use when editing an attraction record, AttractionView, or an attraction research file.
+globs:
+  - src/content/attractions/**/*.json
+  - src/components/AttractionView.astro
+  - research/**/attractions/**/*.md
+---
+
+# Attraction page
+
+Read `.cursor/skills/attraction-page/SKILL.md` before drafting or restyling an attraction.
+
+- A lede, one photo, and a fact bar are a stub. A finished page has a kicker, body, a second photo, getting there, and hours and fees.
+- Do not invent a fee, an hour, a drive time, or a coordinate. Unknowns stay “Check on arrival”.
+- Do not add review counts, visitor ranks, ads, a map iframe, or a booking form.
+- Open the photo and look at it. Keep a frame where the sight reads in one glance. Reject a gray frame where the subject does not.
+- The reference record is `src/content/attractions/da-nang--ba-na.json`. Copy its shape, not its sentences.

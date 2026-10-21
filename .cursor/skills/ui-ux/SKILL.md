@@ -87,7 +87,7 @@ These shared rules already reach other templates, without a full pass:
 
 Work top to bottom. One family, then stop. Mark it here when the template matches.
 
-- [ ] **Attraction** — `src/components/AttractionView.astro`. The hero corners and the four-cell fact bar are already shared. Keep the Vietnamese name and the fee. Below the bar, “Also in” is still a text list. Bring that list up to `.jg-card` or the itinerary row. Do not add the city sidebar.
+- [x] **Attraction** — `src/components/AttractionView.astro`. The hero, the caption, the fact bar, the lacquer notice, the hour rows, and the Also in cards are in place. A record with no `body` still renders the short header. Words, the second photo, and the sections are `.cursor/skills/attraction-page/SKILL.md`. Do not add the city sidebar.
 - [x] **Food guide and dish** — `src/pages/food/[slug].astro`. Keep `nameVi` on a dish. The fact strip is two cells. A dish page leads with a photo of the bowl. City food guides use one section tab row, a food hero, and photo rows that keep the picture beside the text. Shop lists stay in the city food JSON.
 - [ ] **Itinerary** — `src/pages/itineraries/[slug].astro`. Days are done. The fact strip is three cells in a four-column bar and has no icons. Set the column count and use icons only where the cell matches one.
 - [ ] **Festival** — `src/pages/festivals/[slug].astro`. Keep `nameVi`. The “When” cell is already in the rounded strip, but it sits in a four-column bar and has no icon. Set the column count, use the calendar icon, and turn the place list into rows. Add a photo only when a real festival photo exists. Do not use the city banner and call it the event.
