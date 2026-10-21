@@ -2,12 +2,12 @@
   "slug": "dong-hoi",
   "name": "Dong Hoi",
   "nameVi": "Đồng Hới",
-  "corridor": "central-coast",
+  "corridor": "north-central",
   "kind": "city",
   "parent": null,
   "publish": "candidate",
   "priority": 100,
-  "note": "Named in Central Coast coverage as the Phong Nha gateway. Research may be stored. Do not create a public place file until publish is accepted.",
+  "note": "Named in Central Coast coverage as the Phong Nha gateway. Research may be stored. Do not create a public place file until publish is accepted. Corridor on the live site is north-central (North Central Coast), with Hue and Phong Nha. The old central-coast label is not a public corridor.",
   "coverage": {
     "sights": "missing",
     "areas": "missing",
@@ -93,6 +93,13 @@
   },
   "items": [],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "dong-hoi",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-21T15:19:31.129Z",
+    "by": "dong-hoi-research",
+    "branch": "cursor/dong-hoi-research-ce05"
+  },
   "log": []
 }
