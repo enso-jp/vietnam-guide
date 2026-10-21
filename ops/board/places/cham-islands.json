@@ -93,6 +93,13 @@
   },
   "items": [],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "cham-islands",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-21T15:19:34.135Z",
+    "by": "cham-islands-research",
+    "branch": "cursor/cham-islands-research-69e3"
+  },
   "log": []
 }
