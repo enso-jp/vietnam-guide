@@ -101,11 +101,11 @@
       "file": "src/content/attractions/hoi-an--an-bang.json",
       "source": "published",
       "research": "stored",
-      "page": "blocked",
+      "page": "not_started",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "District set to An Bang. Page stays blocked. The beach frame is mostly sky. A finished page needs sand, water, and the low beach front.",
-      "updated": "2026-10-21T08:54:08.874Z",
+      "note": "Reopened for a frame that shows sand, water, and the low beach front.",
+      "updated": "2026-10-21T09:58:02.892Z",
       "reworkCount": 0
     },
     {
@@ -706,7 +706,14 @@
       "open": true
     }
   ],
-  "claim": null,
+  "claim": {
+    "place": "hoi-an",
+    "stage": "page",
+    "item": "hoi-an--an-bang",
+    "at": "2026-10-21T09:58:09.924Z",
+    "by": "hoi-an-cam-thanh-an-bang",
+    "branch": "cursor/hoi-an-cam-thanh-an-bang-53b6"
+  },
   "log": [
     {
       "at": "2026-10-21T08:54:09.067Z",
