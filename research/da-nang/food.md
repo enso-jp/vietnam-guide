@@ -182,6 +182,8 @@ Korean and Japanese rooms are named only as the An Thuong lanes. Matcha is named
 
 ## Food streets and markets
 
+Left out of any public page, 21 Oct 2026: Nguyễn Văn Linh, Nguyễn Văn Thoại, Trần Kế Xương, and Lê Thanh Nghị stay names only. No block and no hour on the city page that lists them. Helio’s operator site did not load. Sơn Trà’s closing hour at the east-bank site is not printed. Hàn’s fourth street and Cồn’s door number disagree across city pages, and both figures are kept below. Nem lụi, ram cuốn cải, and bò kho still have no how-to. Bánh nậm, bánh lọc, bê thui, and lẩu bò are named and have no entry. Those dishes are not given pages.
+
 The city portal treats two streets as the pair: Huỳnh Thúc Kháng in the morning, Phạm Hồng Thái at night (S30, S31). Chợ Hàn and Chợ Cồn are the two traditional markets the city picked, from 2022, as tourist-point markets (S32). Clocks and street numbers disagree across portal pages. Both figures are kept. No stall price is copied. A gate fee is written only where a page states one.
 
 ### Huynh Thuc Khang breakfast street

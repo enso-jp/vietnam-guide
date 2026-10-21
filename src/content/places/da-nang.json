@@ -15,7 +15,7 @@
   "fee": "No single city ticket. The beach is free.",
   "getThere": "Da Nang International Airport (DAD) is a short ride from the river. Hoi An is about 30 minutes on from the Marble Mountains.",
   "bestMonths": "January to July",
-  "verified": "20 Oct 2026",
+  "verified": "21 Oct 2026",
   "interests": {
     "beaches": 5,
     "food": 3,
@@ -43,8 +43,9 @@
   "seoTitle": "Da Nang travel guide — My Khe beach and An Thuong",
   "seoDescription": "Sleep on My Khe for the beach and a beachfront resort. An Thuong, just inland, is the night. Hoi An is under an hour when the old town is the point.",
   "intro": [
-    "Start on the sand. My Khe is a long city beach with the resort towers on the water and the surf as the morning. The swim is free. The city’s English page calls January to July the dry season, so that is the window for a beach week. Go in only when the flags say the water is open. Chair hire is check on arrival.",
-    "The night is a short walk inland, on the streets just west of the sand. An Thuong is that grid: bars and kitchens close enough to wander between, which is why a beach hotel works after dark and a river hotel does not. On the sand itself, Kalà Kalà Beach Club at 51 Vo Nguyen Giap is open daily and entry is free. Its own site lists both midnight and 02:00 as closing, so confirm the night you go. East West Brewing’s beachfront taproom, on My Khe, pours from 08:00 to 01:00.",
+    "Start on the sand. My Khe is a long city beach with the resort towers on the water and the surf as the morning. The swim is free. The city’s English page calls January to July the dry season, so that is the window for a beach week. Swim inside the buoy line, and only while a rescuer is on duty. A 2016 tourism page prints both 05:00–19:00 and 5am–8pm, and a 2023 city notice does not print a clock, so read the board on the sand. Chair hire is check on arrival.",
+    "The night is a short walk inland, on the streets just west of the sand. An Thuong is that quarter, bounded by Vo Nguyen Giap, Hoang Ke Viem, Chau Thi Vinh Te, and Ngo Thi Si: bars and kitchens close enough to wander between, which is why a beach hotel works after dark and a river hotel does not. On the sand itself, Kalà Kalà Beach Club at 51 Vo Nguyen Giap is open daily and entry is free. Its own site lists both midnight and 02:00 as closing, so confirm the night you go. East West Brewing’s beachfront taproom, on My Khe, pours from 08:00 to 01:00. The street number is not on that page.",
+    "If you slept on the river, the morning bowl is Huynh Thuc Khang, the breakfast street the city portal names. One page says it is crowded from 06:00 to 08:00. An earlier page prints 06:00–12:00, so go early and walk the counters. The night street paired with it is Pham Hong Thai. Han Market, by the swing bridge, and Con Market, around Hung Vuong and Ong Ich Khiem, are the two halls. Their door numbers do not match across city pages. Bach Dang is the promenade for a coffee and, on a weekend, the dragon. It is not a shop list.",
     "Give a morning to the Cham Museum, on the Han River, when you want the stone before the swim. A general ticket is 60,000 VND and an hour is enough. The sculpture comes from My Son and the other Cham sites. The galleries are not the ruins. The door time is published as both 07:00 and 07:30, and both say it closes at 17:00, so confirm that morning. The Marble Mountains are about 15 minutes out, on the road you already take toward Hoi An. Climb Thuy Son. That hill is 40,000 VND.",
     "Son Tra is the view that is not a theme park. The Quan The Am at Linh Ung is 67 meters and faces the sea, and the peninsula ride is half a day. No entry fee is published. Dragon Bridge is the weekend picture from the river path: fire and water at 21:00 on Friday, Saturday, and Sunday, not on an ordinary weeknight. Hai Van, north toward Hue, is a clear-weather detour. The train to Hue is about three hours if you would rather not drive the pass."
   ],
@@ -66,7 +67,7 @@
     }
   ],
   "eat": [
-    "Lunch is mi Quang. Breakfast, if you are in the city, is bun cha ca. Dinner on My Khe is seafood, and the drinks are on the sand and in An Thuong. The full menu is on the food guide."
+    "Lunch is mi Quang. Breakfast on the river is the Huynh Thuc Khang counters, and bun cha ca if you want one bowl. Dinner on My Khe is seafood along Hoang Sa, Vo Nguyen Giap, and Truong Sa. Ask the price before it is cooked. The drinks are on the sand and in An Thuong. The full menu is on the food guide."
   ],
   "dishSlugs": [
     "mi-quang",
@@ -87,7 +88,8 @@
     "My Khe is the morning swim, in the drier months, with the resort front on the sand.",
     "An Thuong is the night, a few streets inland: bars and kitchens you can walk between. On the sand, Kalà Kalà is the beach club and East West is the brewery facing the water.",
     "The Cham Museum is the cultural hour on the river, before you give the day to the beach. It is not a stand-in for My Son.",
-    "Dragon Bridge breathes fire on weekend nights. For lanterns and cao lau, ride to Hoi An."
+    "Dragon Bridge breathes fire on weekend nights. Bach Dang is the walk that gets you there. For lanterns and cao lau, ride to Hoi An.",
+    "Huynh Thuc Khang is the breakfast street. Han Market and Con Market are the halls. Pham Hong Thai is the night eating street."
   ],
   "interestCards": [
     {
@@ -124,6 +126,27 @@
       "icon": "view"
     },
     {
+      "title": "Son Tra view",
+      "summary": "The 67-meter Quan The Am, facing the sea from the peninsula.",
+      "attractionSlug": "son-tra",
+      "photo": "da-nang-son-tra",
+      "icon": "view"
+    },
+    {
+      "title": "Breakfast street",
+      "summary": "Huynh Thuc Khang in the morning, before the beach.",
+      "photo": "bun-cha-ca",
+      "icon": "food",
+      "to": "food"
+    },
+    {
+      "title": "River walk",
+      "summary": "Bach Dang at dusk, and the dragon on a weekend night.",
+      "attractionSlug": "dragon-bridge",
+      "photo": "da-nang-dragon-bridge",
+      "icon": "view"
+    },
+    {
       "title": "Da Nang Food Guide",
       "summary": "Mi Quang at lunch, bun cha ca in the morning, seafood on My Khe.",
       "photo": "mi-quang",
@@ -139,6 +162,10 @@
     {
       "q": "Should you stay in Da Nang or Hoi An?",
       "a": "Sleep in Da Nang if you want a beach morning, a resort on the sand, and An Thuong after dark. Sleep in Hoi An if the old town at night is the reason you came. See the other city as a ride, not as a second hotel move in the same day."
+    },
+    {
+      "q": "Where is breakfast?",
+      "a": "Huynh Thuc Khang, if you slept on the river. The city portal treats it as the breakfast street. One page says the busy hour is 06:00 to 08:00. An earlier page prints 06:00 to 12:00. Walk the counters. Bun cha ca is the other morning bowl, at the shops on the food guide."
     },
     {
       "q": "Where is the nightlife?",

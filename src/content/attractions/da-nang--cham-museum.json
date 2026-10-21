@@ -3,10 +3,57 @@
   "placeSlug": "da-nang",
   "name": "Museum of Cham Sculpture",
   "nameVi": "Bảo tàng Điêu khắc Chăm",
-  "summary": "An hour of Cham stone on the river, before the day belongs to the beach. A general ticket is 60,000 VND. The sandstone is from My Son and the other Cham sites. It is a museum morning, not a ruins day.",
+  "kicker": "Cham sandstone on the Han River",
+  "summary": "Give the museum a morning on the river, before the beach takes the day. The galleries hold Cham sandstone and terracotta from My Son and the other find-sites. A general ticket is 60,000 VND. The door is published as both 07:00 and 07:30. The stone is not the ruins.",
   "dots": 4,
   "timeNeeded": "1 hour",
-  "fee": "60,000 VND. Da Nang residents and students 20,000 VND. Children under 16 are free.",
-  "getThere": "On the Han River in Hai Chau. Visit Da Nang lists 2 Thang 9 Street. The fee resolution lists 01 Trung Nu Vuong. Confirm the door.",
+  "fee": "60,000 VND for a general visitor",
+  "getThere": "On the Han River in Hai Chau. Two addresses are published. Confirm the door.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The museum building from the garden path",
+  "notice": {
+    "title": "The door time is published twice",
+    "body": "Visit Da Nang says 07:00–17:00. The city tourism price list says 07:30–17:00. Both close at 17:00. Confirm that morning."
+  },
+  "body": [
+    "Walk the galleries before you give the day to the beach. More than 400 works, from the 5th to the 15th century, are grouped by the places they were found, including My Son, Tra Kieu, Dong Duong, and Thap Mam. The building opened in 1919.",
+    "A general ticket is 60,000 VND. Da Nang residents and university, college, and vocational students pay 20,000 VND. Children under 16, school pupils, and Vietnamese citizens 60 and over are free, along with the other cases in the fee resolution. Free days include the first day of Tet, 29 March, Hung Kings’ day, 2 September, and 24 November.",
+    "Do not use the hour as a substitute for My Son. The museum holds sculpture from the sanctuary. It is not the sanctuary. If the beach already has the morning, skip it."
+  ],
+  "figures": [
+    {
+      "id": "da-nang-cham-museum-2",
+      "caption": "A Cham sandstone relief in the collection",
+      "alt": "A carved Cham sandstone stele of a seated deity at the Museum of Cham Sculpture in Da Nang"
+    }
+  ],
+  "gettingThere": [
+    "The museum is on the Han River in Hai Chau, a walk from a river hotel. Visit Da Nang gives No. 2, 2 Thang 9 Street. Resolution 47/2026 gives 01 Trung Nu Vuong, Hai Chau ward. Treat those as the two published addresses of the same museum, and confirm the door."
+  ],
+  "legs": [
+    {
+      "heading": "From the Han River",
+      "body": "Walk. The two published addresses are above. The minutes from a specific hotel are check on arrival."
+    },
+    {
+      "heading": "From My Khe",
+      "body": "By car. No official page in this guide prints the minutes. Check them on arrival."
+    }
+  ],
+  "hours": "07:00–17:00 on Visit Da Nang. 07:30–17:00 on the city tourism price list.",
+  "closed": "No weekly closing day is published. Confirm the board that morning.",
+  "admissionNote": "General visitor 60,000 VND. A Da Nang permanent resident, and a university, college, or vocational student, 20,000 VND. Children under 16, school pupils, and Vietnamese citizens 60 and over are free, plus other cases listed in Resolution 47/2026. Free on the first day of Tet, 29 March, Hung Kings’ day, 2 September, and 24 November. The resolution and the 2026 tourism price list give the same 60,000 and 20,000 figures.",
+  "links": [
+    {
+      "label": "Museum of Cham Sculpture",
+      "url": "https://visitdanang.travel/en/da-nang-museum-of-cham-sculpture-2036",
+      "note": "Visit Da Nang. Hours on this page: 07:00–17:00."
+    },
+    {
+      "label": "2026 admission list",
+      "url": "https://danangfantasticity.com/en/news/plan-your-da-nang-journey-2026-updated-admission-prices-for-attractions-and-tourist-sites",
+      "note": "City tourism portal. Hours on this page: 07:30–17:00."
+    }
+  ],
   "interests": []
 }

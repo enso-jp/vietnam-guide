@@ -31,3 +31,5 @@ Checked: 20 Oct 2026
 - Fee: The hill’s usual tickets still apply unless a notice says otherwise — Check on arrival, UNSOURCED for a festival-week exception
 - Not the same as attraction slug: marble-mountains. Do not create a festival record in the copy pass. There is no separate public festival file yet, and this pass does not add one.
 - Sources: S7
+
+Left out of this list, 21 Oct 2026: next year’s DIFF dates, grandstand prices, the civil date of the Avalokitesvara festival, and any beach-season opening ceremony. No second recurring festival with a fixed public calendar was added. Da Nang Downtown’s nightly show is an entertainment-district clock in Nightlife, not a festival, because the 16 Aug 2024 page gives one set of times and no ticket (S39).

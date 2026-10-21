@@ -2,12 +2,58 @@
   "slug": "my-khe",
   "placeSlug": "da-nang",
   "name": "My Khe Beach",
-  "summary": "A long beach with the resort towers on the sand and the surf at your feet. Swim in the drier months, and only when the flags say the water is open. The night continues a few streets inland, in An Thuong.",
+  "nameVi": "Biển Mỹ Khê",
+  "kicker": "The city beach in front of the resorts",
+  "summary": "Stand on the sand with the resort towers behind the chairs. Swim only inside the buoy line, and only while a rescuer is on duty. The published duty clocks do not match, so read the board on the sand. The beach is free. Chair hire is check on arrival. After dark, walk inland to An Thuong.",
   "dots": 4,
   "timeNeeded": "Half a day",
-  "fee": "Free to swim. Chair hire is check on arrival.",
-  "getThere": "Grab from the river or airport",
-  "interests": [
-    "beaches"
-  ]
+  "fee": "Free to swim",
+  "getThere": "A ride from the river or the airport. The minutes are check on arrival.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "Chairs, the rescue hut, and the resort towers on the sand",
+  "notice": {
+    "title": "Read the duty board before you swim",
+    "body": "A 2016 tourism page prints both 05:00–19:00 and 5am–8pm for rescue teams. A 2023 city notice does not print a clock. Swim inside the buoys, and stop when the end-of-duty signal is given."
+  },
+  "body": [
+    "This is the beach the city is for. The sand runs in front of the resort towers, and the morning is the water. Swim only where the safety buoys are set and a rescuer is on duty. Do not swim in bad weather, or where a danger board forbids it, or after the end-of-duty signal.",
+    "The 15 January 2016 beaches page says local beaches are swimmable all year, and especially from May to August, when the waves are gentle. The same page prints two duty clocks: 5am to 8pm, and 05:00 to 19:00. The 12 April 2023 city report of beach-board document 217 says rescue teams are posted on Hoang Sa, Vo Nguyen Giap, Truong Sa, and Nguyen Tat Thanh, and it does not print the hour. The board on the sand wins. Chair and umbrella hire have no published price.",
+    "The beach is not on the city’s paid-ticket list. Dinner along this shore is seafood. Ask the price before it is cooked. The night is not on the towel. It is a few streets inland, in An Thuong."
+  ],
+  "figures": [
+    {
+      "id": "da-nang-my-khe-2",
+      "caption": "The long shore from above, with the road and the palms between you and the water",
+      "alt": "An aerial view of My Khe, the sand and the sea beside a palm-lined road"
+    }
+  ],
+  "gettingThere": [
+    "My Khe is east of the Han, the city beach. From a river hotel, go by car or Grab. No official page used here prints the minutes for that ride. A 2016 line of about 10 minutes by motorbike is the way to Pham Van Dong beach, so it is not used as a My Khe time."
+  ],
+  "legs": [
+    {
+      "heading": "From the Han River",
+      "body": "By car or Grab. Check the minutes on arrival."
+    },
+    {
+      "heading": "From the airport",
+      "body": "A short ride. The city’s airport timing for the center is on the place page. A door-to-door minute for every beach hotel is check on arrival."
+    }
+  ],
+  "hours": "Swim only while rescuers are on duty. One 2016 page prints both 05:00–19:00 and 5am–8pm. The 2023 notice prints no clock.",
+  "closed": "Stop when the end-of-duty signal is given. Do not swim in bad weather or where a danger board forbids it.",
+  "admissionNote": "The beach is not on the paid-ticket list. Chair and umbrella hire are check on arrival. No number was copied.",
+  "links": [
+    {
+      "label": "Da Nang beaches",
+      "url": "https://danangfantasticity.com/en/danang-beaches",
+      "note": "City tourism portal, 15 Jan 2016. Both duty clocks are on this page."
+    },
+    {
+      "label": "Beach safety notice",
+      "url": "https://danang.gov.vn/vi/w/dam-bao-an-toan-cho-nguoi-dan-va-du-khach-khi-tam-bien-tai-cac-bai-bien-cua-thanh-pho-i",
+      "note": "City portal, 12 Apr 2023. Swim inside the buoys. The duty clock is not printed."
+    }
+  ],
+  "interests": ["beaches"]
 }

@@ -205,3 +205,33 @@ Accessed 20 Oct 2026 unless a page states its own date.
 - Publisher: Danang Fantasticity, 14 Oct 2015, credited to ivivu
 - Accessed: 21 Oct 2026
 - Supports: One clue only. Bò kho at 144 Huỳnh Thúc Kháng, morning, with bánh canh beside it in the afternoon, and a bún mắm nearby in the morning. Do not publish as a pick. The rest of that list, and every price on it, was not used. The door number is from 2015.
+
+### S35
+- URL: https://danangfantasticity.com/en/danang-beaches
+- Publisher: Danang Fantasticity, 15 Jan 2016
+- Accessed: 21 Oct 2026
+- Supports: Beaches named include Phạm Văn Đồng, Mỹ Khê, Nam Ô, Xuân Thiều, Thanh Bình, Tiên Sa, Sơn Trà, Bắc Mỹ An, and Non Nước. Swimming all year, especially May–August when the waves are gentle. The same page says lifeguard teams on some beaches work from 5am to 8pm, and the travel tip says swim only from 05:00 to 19:00 while rescue teams are available. Both clocks are kept. Address line: Hoàng Sa – Trường Sa. Forbes wording on the page is not used. Chair hire is not priced. Airport “10km” and Hoi An “30km” are on this 2016 page and are not used as the current ride times. Those stay with the later transport notes.
+
+### S36
+- URL: https://danang.gov.vn/vi/w/dam-bao-an-toan-cho-nguoi-dan-va-du-khach-khi-tam-bien-tai-cac-bai-bien-cua-thanh-pho-i
+- Publisher: Da Nang city portal, 12 Apr 2023, reporting beach-board document 217/BQL-QLB of 29 Mar
+- Accessed: 21 Oct 2026
+- Supports: Rescue teams posted along Hoàng Sa – Võ Nguyên Giáp – Trường Sa and Nguyễn Tất Thành. Swim where safety buoys are set and a rescuer is on duty. Follow warning boards. Do not swim in bad weather or where a danger board forbids it. Stop when the end-of-duty signal is given. The article does not print the duty clock. It points at a link that this pass could not read as a timetable. The hour on the sand is Check on arrival.
+
+### S37
+- URL: https://danangfantasticity.com/en/discovery/bach-dang-attractive-locals-visitors
+- Publisher: Danang Fantasticity, 14 Sep 2016, citing Trần Chí Cường, then deputy director of the Department of Tourism, and ĐTĐN
+- Accessed: 21 Oct 2026
+- Supports: Bạch Đằng called one of eight main tourist streets, with cafés along the Han promenade. Early-morning and late-afternoon exercise and strolls. Weekend crowds when the dragon breathes fire at the east end. Shop and hotel names on the page are 2016 wayfinding. Do not publish as a pick. No cafe opening hour is printed.
+
+### S38
+- URL: https://danangfantasticity.com/tin-tuc/khu-pho-du-lich-an-thuong-bat-dau-di-vao-hoat-dong-tu-23042018
+- Publisher: Danang Fantasticity, 2 May 2018
+- Accessed: 21 Oct 2026
+- Supports: An Thượng tourist quarter named 23 Apr 2018 at the corner of Võ Nguyên Giáp and Hoàng Kế Viêm. Decision 489/QĐ-UBND of 31 Jan 2018. Bounded by Võ Nguyên Giáp, Hoàng Kế Viêm, Châu Thị Vĩnh Tế, and Ngô Thì Sĩ. About 0.15 km² including the beach. The report says the scheme discusses activity past midnight and does not print a closing hour. A hotel on the corner is named as a wayfinding mark. Do not publish as a pick.
+
+### S39
+- URL: https://danangfantasticity.com/en/discovery/da-nang-downtown-a-must-visit-spot-to-experience-da-nangs-nightlife
+- Publisher: Danang Fantasticity, 16 Aug 2024
+- Accessed: 21 Oct 2026
+- Supports: Da Nang Downtown described as a rebrand of Asia Park, launched June 2024. Symphony of River at 20:30 daily. The same page says the show runs 45 minutes and that a firework section runs seven minutes. Awaken River at 17:45. Puppet shows at 18:30 and 20:00. Vui Fest described as more than 50 stalls on about 1,200 m². No street number and no ticket price. Those clocks are one page. Slogans, a restaurant name, and drink brands on the page were not copied.

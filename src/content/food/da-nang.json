@@ -30,9 +30,79 @@
       "heading": "Where to eat",
       "nav": "Where to eat",
       "paragraphs": [
-        "Hai Chau, on the river, is the morning and the lunch. Han Market (Cho Han) sits by the water, useful when you are already at the Cham Museum. Con Market (Cho Con) is the louder food market west of the river. Walk until a stall is busy. Both markets move their hours, so check on arrival.",
-        "Nguyễn Chí Thanh is the noodle street: bun cha ca, cao lau, and chicken rice within a few blocks. Bạch Đằng is the river path for breakfast, coffee, and a coconut with the water in front of you.",
-        "Võ Nguyên Giáp is the beach road. Dinner here is seafood, beer, and the clubs. Nguyễn Phan Vinh, on the Son Tra shore, is the other seafood street. An Thuong, in the lanes just inland of My Khe, is where Korean barbecue and Japanese counters cluster. The page names districts there, and the shops only when a friend would write the door down."
+        "Hai Chau, on the river, is the morning and the lunch. The streets and the two halls are in the next section, with the clocks the city pages actually print. Where two pages disagree, both figures are here.",
+        "Nguyễn Chí Thanh is the noodle street: bun cha ca, cao lau, and chicken rice within a few blocks. Bạch Đằng is the river path for coffee and a walk, not a ranked cafe list.",
+        "Võ Nguyên Giáp is the beach road. Dinner here is seafood along Hoàng Sa, Võ Nguyên Giáp, and Trường Sa. Ask the price before it is cooked. Nguyễn Phan Vinh, on the Son Tra shore, is the other seafood street. An Thuong, in the lanes just inland of My Khe, is where Korean barbecue and Japanese counters cluster. The page names the quarter, and a shop only when a door was already on this guide."
+      ]
+    },
+    {
+      "id": "streets",
+      "heading": "Food streets and markets",
+      "nav": "Streets",
+      "paragraphs": [
+        "These are areas, not a stall list. A gate fee is not published for the streets below. Check on arrival if someone asks for one. Four other street names appear on a 2020 city page with no block and no hour. They are not mapped here."
+      ],
+      "spots": [
+        {
+          "name": "Huynh Thuc Khang",
+          "nameVi": "Huỳnh Thúc Kháng",
+          "address": "Đường Huỳnh Thúc Kháng",
+          "note": "The breakfast street. Busy 06:00–08:00 on the 2020 page. The 2019 page prints 06:00–12:00. Walk the counters. Cao lau on the old list is still the Hoi An noodle."
+        },
+        {
+          "name": "Pham Hong Thai",
+          "nameVi": "Phạm Hồng Thái",
+          "address": "Đường Phạm Hồng Thái",
+          "note": "The night eating street, under 800 m on the 2019 page. That page prints 17:00–23:00. A later page names the street and does not restate the clock. Come after dark, not for breakfast."
+        },
+        {
+          "name": "Phan Tu",
+          "nameVi": "Phan Tứ",
+          "address": "Phan Tứ, Ngũ Hành Sơn",
+          "note": "An evening snack street a little over 1 km, near the sea. The 2019 page prints 17:00–24:00. That clock is not restated later."
+        },
+        {
+          "name": "Han Market",
+          "nameVi": "Chợ Hàn",
+          "address": "119 Trần Phú, by the swing bridge",
+          "note": "The river hall. The 2023 page prints 06:00–19:00. The 2024 page outlines Trần Phú, Bạch Đằng, Hùng Vương, and Nguyễn Thái Học, and does not restate the clock. The 2023 page names Nguyễn Văn Linh as the fourth side. Use the 2024 block and confirm the door."
+        },
+        {
+          "name": "Con Market",
+          "nameVi": "Chợ Cồn",
+          "address": "Hùng Vương and Ông Ích Khiêm",
+          "note": "The food hall. Indoor counters and an outdoor row. The 2023 page prints 07:00–19:30 and gives 290 Hùng Vương. The 2024 page puts the crossroads at Quang Trung and Ông Ích Khiêm and prints no clock. Aim for that crossing."
+        },
+        {
+          "name": "Helio",
+          "nameVi": "Chợ đêm Helio",
+          "address": "01 đường 2/9, corner of Phan Đăng Lưu",
+          "note": "A night market of food stalls. The 2023 page prints 17:30–22:30 and a show at 20:00. The 2019 page also prints 17:00–22:30 and says entry is free. The operator site did not load. Confirm the night."
+        },
+        {
+          "name": "Son Tra night market",
+          "nameVi": "Chợ đêm Sơn Trà",
+          "address": "East bank of the Dragon Bridge",
+          "note": "VietnamPlus, 22 Aug 2025, says the market moved on 1 Aug 2025 to the east bank, in An Hai, and that the road in front is closed to vehicles after 17:30. The 2023 tourism page still says Mai Hắc Đế, 18:00–23:00. The new site has no printed closing hour. Confirm which gate is open."
+        },
+        {
+          "name": "An Thuong night market",
+          "nameVi": "Chợ đêm An Thượng",
+          "address": "4 An Thượng 4",
+          "note": "About 40 stalls on the 2023 page, 17:00–23:00, free entry. This is not the bar lanes. Those are the quarter bounded by Võ Nguyên Giáp, Hoàng Kế Viêm, Châu Thị Vĩnh Tế, and Ngô Thì Sĩ."
+        },
+        {
+          "name": "Bac My An market",
+          "nameVi": "Chợ Bắc Mỹ An",
+          "address": "25 Nguyễn Bá Lân",
+          "note": "A neighborhood food hall. The 2019 page prints 08:00–19:00. Later pages name the market and do not restate the door or the clock."
+        },
+        {
+          "name": "Tho Quang",
+          "nameVi": "Chợ đầu mối Thọ Quang",
+          "address": "Thọ Quang, Sơn Trà",
+          "note": "The wholesale fish landing, not a mì Quảng stop. The ministry reprint says the yard is busy day and night and does not give a visitor hour. Do not come here for a sit-down lunch."
+        }
       ]
     },
     {
@@ -196,7 +266,7 @@
       "heading": "Breakfast",
       "nav": "Breakfast",
       "paragraphs": [
-        "The city breakfast is bun cha ca, at Ông Tạ or Bà Phiến, while you are still inland. A banh mi is the one you eat standing up, on the way to the beach or the Hoi An road. Coffee is everywhere. The beach will feed you. It will not teach you the city."
+        "On the river, start on Huỳnh Thúc Kháng and walk the counters. The city portal’s 2020 page says that street is crowded from 06:00 to 08:00. Its 2019 roundup prints 06:00–12:00. Go early. Bun cha ca, at Ông Tạ or Bà Phiến, is the single bowl if you want one shop. A banh mi is the one you eat standing up, on the way to the beach or the Hoi An road. The beach will feed you. It will not teach you the city."
       ],
       "spots": [
         {
@@ -295,8 +365,8 @@
         {
           "name": "East West Brewing",
           "nameVi": "East West",
-          "address": "1A Võ Nguyên Giáp",
-          "note": "House beer with the sea in front of you, at the north end of the beach road. Order a pale ale or the IPA and stay for the view."
+          "address": "My Khe beachfront. Street: check on arrival.",
+          "note": "House beer with the sea in front of you. The taproom page says beachfront and 08:00–01:00, and it does not print a street. Confirm the door."
         },
         {
           "name": "Esco Beach",
@@ -336,5 +406,5 @@
     }
   ],
   "seoTitle": "Da Nang food guide — noodles, seafood, cafes, bars",
-  "seoDescription": "What to eat in Da Nang: mi Quang at lunch, bun cha ca at breakfast, seafood on Vo Nguyen Giap, river cafes, and the shops locals send friends to."
+  "seoDescription": "What to eat in Da Nang: mi Quang at lunch, Huynh Thuc Khang at breakfast, and seafood on Vo Nguyen Giap. Market clocks disagree, so check the door."
 }
