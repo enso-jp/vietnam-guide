@@ -75,37 +75,63 @@
     "com-ga"
   ],
   "interestsBody": [
+    "Dining is cao lầu tossed while it is hot, white rose dumplings warm, and chicken rice when you want a plate. Mì Quảng is the neighbor’s bowl. The food guide is the first stop.",
     "The night is the timber streets inside the pedestrian hours, and the covered bridge at the west end. That is the reason to sleep here.",
     "Merchant houses such as Tấn Ký are the inside of the street: a shop at the front and the river at the back. The ground floor is the visit.",
-    "Hội quán Phúc Kiến is the long hall on Trần Phú. Chùa Ông, at 24 Trần Phú, is the other landmark on that street.",
-    "An Bang is the swim. Cửa Đại’s erosion is serious.",
-    "Cao lầu, white rose dumplings, and chicken rice are the local set. Mì Quảng is the neighbor’s bowl."
+    "The assembly halls are the Hoa merchant halls. Quảng Đông is the dragon court. Phúc Kiến is the long hall on Trần Phú. Chùa Ông is at 24 Trần Phú.",
+    "The museums are a morning hour: trade ceramics at 80 Trần Phú, Sa Huỳnh pottery at 149 Trần Phú, and the folk-culture house at 33 Nguyễn Thái Học.",
+    "Trà Quế is the herb beds about 2.5 km north on the heritage page, and about 2 km northeast on the national tourism page. The greens go into cao lầu.",
+    "Kim Bồng is the carpentry village across the river. Thanh Hà is the pottery west of town. Crossing minutes and the ride are check on arrival."
   ],
   "interestCards": [
+    {
+      "title": "Dining and F&B",
+      "summary": "Cao lầu tossed while it is hot, white rose dumplings warm, chicken rice when you want a plate.",
+      "photo": "cao-lau",
+      "icon": "food",
+      "to": "food"
+    },
     {
       "title": "Old town after dark",
       "summary": "Timber streets inside the pedestrian hours, and the covered bridge at the west end.",
       "attractionSlug": "japanese-bridge",
+      "photo": "hoi-an-old-town-night",
       "icon": "view"
     },
     {
       "title": "Merchant houses",
       "summary": "A tube house you can walk, with the shop at the front and the river at the back.",
       "attractionSlug": "tan-ky",
+      "photo": "hoi-an-tan-ky",
       "icon": "museum"
     },
     {
       "title": "Assembly halls",
-      "summary": "The long Fujian hall on Trần Phú, through three courts to the Thiên Hậu hall.",
-      "attractionSlug": "phuc-kien",
+      "summary": "The Cantonese hall’s dragon court, the long Fujian hall, and Chùa Ông on Trần Phú.",
+      "attractionSlug": "quang-dong",
+      "photo": "hoi-an-quang-dong",
       "icon": "museum"
     },
     {
-      "title": "Hoi An Food Guide",
-      "summary": "Cao lầu tossed while it is hot, white rose dumplings warm, chicken rice when you want a plate.",
-      "photo": "cao-lau",
-      "icon": "food",
-      "to": "food"
+      "title": "Museums",
+      "summary": "Trade ceramics, Sa Huỳnh pottery, and the folk-culture house. A morning hour, not the night.",
+      "attractionSlug": "trade-ceramics",
+      "photo": "hoi-an-trade-ceramics",
+      "icon": "museum"
+    },
+    {
+      "title": "Tra Que herbs",
+      "summary": "Herb beds about 2.5 km north, the greens that go into cao lầu. The ride minutes are check on arrival.",
+      "attractionSlug": "tra-que",
+      "photo": "hoi-an-tra-que",
+      "icon": "food"
+    },
+    {
+      "title": "Craft villages",
+      "summary": "Kim Bồng woodwork across the river, and Thanh Hà pottery west of town. The minutes are check on arrival.",
+      "attractionSlug": "kim-bong",
+      "photo": "hoi-an-kim-bong",
+      "icon": "view"
     }
   ],
   "faqs": [

@@ -32,8 +32,8 @@ Checked: 21 Oct 2026
 
 ## Photos
 
-- Hero: herb beds with a path, in colour.
-- Second frame: the work in the beds, not the same wide shot.
+- Hero: herb beds with a path, in colour. Stored as `hoi-an-tra-que` (Christophe95, CC BY-SA 4.0).
+- Second frame: the work in the beds, not the same wide shot. Stored as `hoi-an-tra-que-2` (Christophe95, CC BY-SA 4.0). Overcast, beds and path still read.
 
 ## Open questions
 

@@ -1,0 +1,63 @@
+{
+  "slug": "folk-culture",
+  "placeSlug": "hoi-an",
+  "name": "Museum of Folk Culture",
+  "nameVi": "Bảo tàng Văn hóa Dân gian",
+  "kicker": "Folk culture in a house through to the river",
+  "summary": "The old house at 33 Nguyễn Thái Học, 57 metres by 9, open as a museum since 24 March 2005. Upstairs are 490 objects on four themes. Downstairs the overview says there are demonstrations. The house runs through to Bạch Đằng. It closes on the 20th of each month. The clock and the fee are check on arrival.",
+  "dots": 3,
+  "district": "Old town",
+  "timeNeeded": "A museum hour. Exact minutes are check on arrival.",
+  "fee": "Check on arrival",
+  "getThere": "Walk to 33 Nguyễn Thái Học",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The wooden front of the Museum of Folk Culture",
+  "notice": {
+    "title": "Closed on the 20th of each month",
+    "body": "The overview says the museum is open every day except the 20th. It does not print a clock. The fee is check on arrival."
+  },
+  "body": [
+    "The museum is the old house at 33 Nguyễn Thái Học. The overview gives the plan as 57 metres long and 9 metres wide, two floors, a wooden upper floor, opening onto both Nguyễn Thái Học and Bạch Đằng. It was formed by Decision 06/QĐ-UBND of 3 January 2002 and opened to visitors on 24 March 2005.",
+    "Upstairs, the page says, 490 objects cover four themes: folk visual art, folk performance, traditional trades, and daily life. Downstairs it describes demonstrations of those same crafts. Oil lamps, tools, and the performances are the visit. The house is the container.",
+    "The overview says the doors are open every day except the 20th of the month, and it does not print a clock. The fee is the ancient-town ticket. Which price is on sale is check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "hoi-an-folk-culture-2",
+      "caption": "Oil lamps in a case",
+      "alt": "A row of metal and glass oil lamps in the Museum of Folk Culture in Hoi An"
+    }
+  ],
+  "gettingThere": [
+    "Walk to 33 Nguyễn Thái Học. The house also opens onto Bạch Đằng. The overview does not print a minute count."
+  ],
+  "legs": [
+    {
+      "heading": "From the old town",
+      "body": "Walk to 33 Nguyễn Thái Học, the street closer to the river than Trần Phú. The minutes depend on your lane."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Closed on the 20th of each month. No weekly closing day is printed.",
+  "admissionNote": "No separate price is printed for this building. From 10 August 2026, Da Nang Resolution 98/2026 sets 20,000 VND per person per building, the same for a Vietnamese and a foreign visitor. The heritage centre’s notices of 26 January 2026 and 16 March 2026 still describe an 80,000 VND ticket for the streetscape, Chùa Cầu or Miếu Quan Công, and two other works, and a 120,000 VND ticket when a museum and three other works are added. The March notice says one purchase can be used through the stay, up to three days. A May 2026 article says the town is an open neighbourhood and many people walk in without a ticket. Which desk is in force is check on arrival.",
+  "links": [
+    {
+      "label": "Museum overview",
+      "url": "https://hoianheritage.net/vi/baotang/Gioi-thieu/TONG-QUAN-VE-CAC-BAO-TANG-O-HOI-AN-29.html",
+      "note": "Hoi An heritage centre"
+    },
+    {
+      "label": "City fee from 10 August 2026",
+      "url": "https://danang.gov.vn/vi/w/tu-10-8-ap-dung-muc-phi-tham-quan-20000-40000-dong-tai-cac-cong-trinh-van-hoa-tren-dia-ban-da-nang",
+      "note": "Da Nang city portal, 6 Aug 2026"
+    },
+    {
+      "label": "January 2026 ticket notice",
+      "url": "https://hoianheritage.net/vi/news/Tin-tuc-su-kien/thong-bao-ve-hoat-dong-tham-quan-khu-pho-co-hoi-an-1711.html",
+      "note": "Heritage centre visitor notice"
+    }
+  ],
+  "interests": [
+    "oldTowns"
+  ]
+}
