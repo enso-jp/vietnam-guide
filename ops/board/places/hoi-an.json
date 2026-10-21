@@ -238,6 +238,13 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "hoi-an",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-21T06:02:41.809Z",
+    "by": "hourly",
+    "branch": "cursor/hoi-an-research-base"
+  },
   "log": []
 }
