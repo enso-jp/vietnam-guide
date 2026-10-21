@@ -526,7 +526,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "ninh-binh",
+    "stage": "researchLifestyle",
+    "item": null,
+    "at": "2026-10-21T08:29:09.598Z",
+    "by": "hourly",
+    "branch": "cursor/ninh-binh-research-base"
+  },
   "log": [
     {
       "at": "2026-10-21T08:28:39.191Z",
