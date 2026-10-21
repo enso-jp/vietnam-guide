@@ -141,31 +141,34 @@ const description = pageDescription(
       </div>
     </section>
 
-    {corridors.map((corridor) => {
-      const list = places.filter((place) => place.corridor === corridor.slug);
-      if (!list.length) return null;
-      return (
-        <section class="dest-region" id={corridor.slug}>
-          <div class="dest-mini">
-            <VietnamMap variant="home" active={corridor.slug} names={false} linked={false} />
-          </div>
-          <h2>{corridor.name}</h2>
-          <div class="dest-list">
-            {list.map((place) => {
-              const filled = Math.max(0, Math.min(5, place.dots));
-              return (
-                <a class="dest-row" href={placePath(place)}>
-                  <span class="dest-place">
-                    {filled > 0 && <span class="edots" aria-label={`${filled} of 5`}><span aria-hidden="true">{marks(filled)}</span></span>}
-                    <strong>{place.name}</strong>
-                  </span>
-                  <span class="dest-line">{listLine(place.slug, place.summary)}</span>
-                </a>
-              );
-            })}
-          </div>
-        </section>
-      );
-    })}
+    <section class="dest-catalog" aria-label="Destinations">
+      <h2 class="dest-catalog-title">Destinations</h2>
+      {corridors.map((corridor) => {
+        const list = places.filter((place) => place.corridor === corridor.slug);
+        if (!list.length) return null;
+        return (
+          <section class="dest-region" id={corridor.slug}>
+            <div class="dest-mini">
+              <VietnamMap variant="home" active={corridor.slug} names={false} linked={false} />
+            </div>
+            <h2>{corridor.name}</h2>
+            <div class="dest-list">
+              {list.map((place) => {
+                const filled = Math.max(0, Math.min(5, place.dots));
+                return (
+                  <a class="dest-row" href={placePath(place)}>
+                    <span class="dest-place">
+                      {filled > 0 && <span class="edots" aria-label={`${filled} of 5`}><span aria-hidden="true">{marks(filled)}</span></span>}
+                      <strong>{place.name}</strong>
+                    </span>
+                    <span class="dest-line">{listLine(place.slug, place.summary)}</span>
+                  </a>
+                );
+              })}
+            </div>
+          </section>
+        );
+      })}
+    </section>
   </div>
 </Base>
