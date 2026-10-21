@@ -594,15 +594,17 @@ p { margin: 0.55rem 0; }
 .partner small, .ad-slot small { color: var(--muted); display: block; margin-bottom: 0.35rem; }
 .map-svg { width: 100%; height: auto; background: transparent; display: block; overflow: visible; }
 .map-svg path { fill: #c9d8b6; stroke: #fff; stroke-width: 1.6; stroke-linejoin: round; }
-.map-home path { fill: transparent; stroke-width: 1.75; }
+.map-home { overflow: hidden; }
+.map-home path { fill: #e4e8e8; stroke: #9aa1a4; stroke-width: 1.45; }
 .map-svg a path, .map-svg g path { transition: fill 0.15s ease; }
 .map-svg a:hover path,
 .map-svg a:focus-visible path,
 .map-svg a.is-active path,
 .map-svg g.is-active path { fill: #f3c2b4; }
-.map-home a:hover path,
-.map-home a:focus-visible path,
-.map-home a.is-active path { fill: rgba(209, 36, 42, 0.34); }
+.map-home .map-hit:hover path,
+.map-home .map-hit:focus-visible path,
+.map-home .map-hit.is-active path,
+.map-home g.is-active path { fill: #883020; stroke: #6e2e22; }
 .map-svg a:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
 .map-region-name {
   font-family: var(--sans);
@@ -619,6 +621,20 @@ p { margin: 0.55rem 0; }
 .map-city { font-family: var(--sans); font-size: 11px; fill: #3a3a3a; }
 .map-city circle { fill: #fff; stroke: #314034; stroke-width: 1.2; }
 .map-city text { fill: #3a3a3a; stroke: #fff; stroke-width: 2.4px; paint-order: stroke fill; }
+.map-home.map-picked .map-city:not(.is-active) { display: none; }
+.map-home .map-city:hover circle,
+.map-home .map-city:focus-visible circle { fill: #5c140e; stroke: #5c140e; }
+.map-home .map-city:hover text,
+.map-home .map-city:focus-visible text { fill: #5c140e; }
+.map-islands { pointer-events: none; }
+.map-isle { fill: #b7c9d2; stroke: #7f949e; stroke-width: 0.7; }
+.map-sea-label {
+  font-family: var(--sans);
+  font-size: 13px;
+  font-weight: 650;
+  fill: #2a2a2a;
+  pointer-events: none;
+}
 .map-panel { border: 0; padding: 0.2rem 0 0; background: transparent; }
 .jg-body h2 { margin: 0; font-family: var(--sans); font-size: 1.15rem; font-weight: 700; }
 .dest-corridor-grid { margin-top: 1.25rem; }
@@ -1216,13 +1232,23 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   gap: 1.15rem 1.5rem;
   align-items: start;
 }
+.region-map,
+.region-stack,
+.region-panel,
+.region-photos {
+  min-width: 0;
+  max-width: 100%;
+}
 .region-picks {
   display: flex;
   flex-wrap: nowrap;
   gap: 0.1rem;
   margin-top: 0.35rem;
+  max-width: 100%;
   overflow-x: auto;
+  scrollbar-width: none;
 }
+.region-picks::-webkit-scrollbar { display: none; }
 .region-picks button {
   flex: 0 0 auto;
   border: 0;
@@ -1238,15 +1264,22 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
 }
 .region-picks button.is-active { color: var(--ink); box-shadow: inset 0 -2px 0 var(--lacquer); }
 .region-picks button:hover { color: var(--ink); }
-.region-more { margin: 0.65rem 0 0; }
+.region-stage > .region-more {
+  display: flex;
+  justify-content: center;
+  margin: 1.2rem 0 0;
+}
 .region-photos {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   gap: 0.5rem;
+  width: 100%;
 }
 .region-photos a {
   position: relative;
   display: block;
+  min-width: 0;
+  max-width: 100%;
   overflow: hidden;
   border-radius: 16px;
   color: #fff;
@@ -1259,6 +1292,8 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
 .region-photos .cover,
 .region-photos .cover svg {
   width: 100%;
+  max-width: 100%;
+  min-width: 0;
   height: auto;
   aspect-ratio: 3 / 2;
   object-fit: cover;
@@ -1278,9 +1313,10 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   color: #fff;
   font-weight: 650;
   text-align: left;
+  overflow-wrap: break-word;
 }
 .region-panel h3 { margin: 0.85rem 0 0.3rem; font-size: 1.45rem; color: var(--ink); }
-.region-panel p { margin: 0; max-width: 40rem; color: var(--ink); }
+.region-panel p { margin: 0; max-width: 100%; overflow-wrap: break-word; color: var(--ink); }
 .home .book-stay {
   max-width: 40rem;
   margin: 2.75rem auto 0;
@@ -1816,7 +1852,7 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   }
   .nav-panel { display: none; }
   .atlas, .plan-columns, .region-board { grid-template-columns: 1fr; }
-  .region-picks { gap: 0; justify-content: space-between; overflow: visible; }
+  .region-picks { gap: 0; justify-content: space-between; overflow-x: auto; }
   .region-picks button { font-size: 0.68rem; padding: 0.15rem 0.12rem 0.28rem; }
   .site-menu {
     position: fixed;
