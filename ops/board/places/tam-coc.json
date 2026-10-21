@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T08:24:11.087Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T08:24:11.087Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,19 +45,19 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T08:24:11.087Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T08:24:11.087Z",
       "reworkCount": 0
     },
     "researchBase": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "Scene and the way in are sourced. Still open: pier hours, a 2026 station-door check, drive minutes from Hanoi and from Ga Ninh Bình, a named lodging lane, and whether a night street exists. Sights, food, night, the ordinary day, events, and side trips are later lanes.",
+      "updated": "2026-10-21T08:24:11.087Z",
       "reworkCount": 0
     },
     "researchAttractions": {
@@ -105,18 +105,20 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "updated": "2026-10-21T08:24:11.087Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "tam-coc",
-    "stage": "researchBase",
-    "item": null,
-    "at": "2026-10-21T08:18:22.338Z",
-    "by": "hourly",
-    "branch": "content/tam-coc-research-base"
-  },
-  "log": []
+  "claim": null,
+  "log": [
+    {
+      "at": "2026-10-21T08:24:11.087Z",
+      "place": "tam-coc",
+      "stage": "researchBase",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Scene and the way in are sourced. Still open: pier hours, a 2026 station-door check, drive minutes from Hanoi and from Ga Ninh Bình, a named lodging lane, and whether a night street exists. Sights, food, night, the ordinary day, events, and side trips are later lanes."
+    }
+  ]
 }
