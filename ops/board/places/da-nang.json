@@ -526,6 +526,13 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "da-nang",
+    "stage": "researchFood",
+    "item": null,
+    "at": "2026-10-21T06:02:53.250Z",
+    "by": "hourly",
+    "branch": "cursor/da-nang-research-food"
+  },
   "log": []
 }
