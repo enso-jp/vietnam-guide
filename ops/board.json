@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-21T03:39:17.628Z",
+  "updated": "2026-10-21T04:15:10.017Z",
   "control": {
     "pause": false,
     "pauseReason": "",
@@ -8,7 +8,14 @@
     "maxOpenContentPrs": 4,
     "holdPlaces": []
   },
-  "claim": null,
+  "claim": {
+    "place": "da-nang",
+    "stage": "researchFood",
+    "item": null,
+    "at": "2026-10-21T04:15:10.017Z",
+    "by": "hourly",
+    "branch": ""
+  },
   "log": [
     {
       "at": "2026-10-21T03:39:17.628Z",
