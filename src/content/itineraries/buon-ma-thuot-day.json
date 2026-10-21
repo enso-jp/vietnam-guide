@@ -1,0 +1,38 @@
+{
+  "slug": "buon-ma-thuot-day",
+  "title": "Buon Ma Thuot in a day",
+  "kind": "trip",
+  "level": "day",
+  "duration": "1 day",
+  "spanDays": 1,
+  "placeSlug": "buon-ma-thuot",
+  "budget": "Check on arrival",
+  "pace": "Moderate",
+  "photo": "buon-ma-thuot-dray-nur",
+  "summary": "Khai Doan pagoda and the prison in town, then Dray Nur waterfall in the afternoon.",
+  "stops": [
+    {
+      "name": "Khai Doan Pagoda",
+      "minutes": 45,
+      "placeSlug": "buon-ma-thuot",
+      "attractionSlug": "khai-doan-pagoda",
+      "note": "Morning light on the roof tiles."
+    },
+    {
+      "name": "Buon Ma Thuot Prison",
+      "minutes": 45,
+      "placeSlug": "buon-ma-thuot",
+      "attractionSlug": "prison",
+      "note": "Heritage site on Tan Thuat. Fee check on arrival."
+    },
+    {
+      "name": "Dray Nur Waterfall",
+      "minutes": 120,
+      "placeSlug": "buon-ma-thuot",
+      "attractionSlug": "dray-nur",
+      "note": "Half day with the drive south. Read the gate price on arrival."
+    }
+  ],
+  "seoTitle": "Buon Ma Thuot in a day",
+  "seoDescription": "One day with the three published sights: Khai Doan pagoda, the prison, and Dray Nur waterfall."
+}
