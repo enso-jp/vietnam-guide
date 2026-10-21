@@ -1,0 +1,65 @@
+{
+  "slug": "an-dinh",
+  "placeSlug": "hue",
+  "name": "An Dinh Palace",
+  "nameVi": "Cung An Định",
+  "kicker": "Khai Dinh’s palace on the An Cuu",
+  "summary": "See Khải Định’s private palace on the An Cựu, later the crown prince’s house. The ticket record prints both 97 and 179 Phan Đình Phùng. An adult ticket is 50,000 VND, and a child from 7 to 12 is free. It is not the Imperial City ticket. Minutes inside are check on arrival.",
+  "dots": 3,
+  "district": "River and south bank",
+  "timeNeeded": "Check on arrival",
+  "fee": "50,000 VND",
+  "getThere": "On the An Cựu, Phan Đình Phùng. Minutes are check on arrival.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The yellow facade of Khải Tường tower at An Dinh",
+  "notice": {
+    "title": "Two street numbers, and a separate ticket",
+    "body": "The address field says 179 Phan Đình Phùng, Phú Nhuận. The description and the article say số 97 Phan Đình Phùng. Use both until the gate matches one of them. The 200,000 VND Imperial City ticket does not include this palace."
+  },
+  "body": [
+    "An Dinh faces south on the An Cựu. Khải Định, then still Phụng Hóa Công, made a residence here in 1902 and rebuilt it with his own money from 1917 to early 1919. From 28 February 1922 it was the house of Crown Prince Vĩnh Thụy, later Bảo Đại. The family lived here after 1945. The grounds are 23,463 square metres.",
+    "Three buildings remain. The main gate is two storeys and three arches, with ceramic relief. Trung Lập, inside the gate, is an octagonal pavilion that held a life-size bronze of Khải Định cast in 1920. Khải Tường tower, behind it, is three storeys and 745 square metres, in the form of a European castle, with murals on the first floor.",
+    "An adult ticket is 50,000 VND. A child from 7 to 12 is free. Under 7 is free. Hue residents and the other groups named in Resolution 55 pay half. How long the three buildings take is check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "hue-an-dinh-2",
+      "caption": "Stucco and columns on the palace front",
+      "alt": "Carved stucco and columns on the yellow front of An Dinh Palace"
+    }
+  ],
+  "gettingThere": [
+    "From the south bank, the palace is on the An Cựu along Phan Đình Phùng. The ticket record prints both 179, in Phú Nhuận, and số 97. Confirm the door you are standing at. The minutes are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the south bank",
+      "body": "Phan Đình Phùng, on the An Cựu. The record gives 97 and 179. No published minute count. Check on arrival."
+    }
+  ],
+  "hours": "16 Mar–15 Oct: 06:30–18:00, tickets until 17:30. 16 Oct–15 Mar: 07:00–17:30, tickets until 17:00. Confirm on arrival. The source is the centre’s 12 Mar 2024 notice, and a direct reload timed out on 21 Oct 2026.",
+  "closed": "No weekly closing day is on that notice. Confirm the board on arrival.",
+  "admissionNote": "Adult 50,000 VND. A child from 7 to 12 is free. Under 7 is free. Hue residents and the other groups named in Resolution 55 pay half. This is not the Imperial City ticket.",
+  "links": [
+    {
+      "label": "An Dinh ticket page",
+      "url": "https://eticket.hueworldheritage.org.vn/diem-den/cung-an-dinh",
+      "note": "Hue Monuments Conservation Centre. The page text used here is the centre’s place record, read 21 Oct 2026."
+    },
+    {
+      "label": "Resolution 55 fee table",
+      "url": "https://hue.gov.vn/Portals/0/Uploads/VBPL/Nam2026/Thang1/000.00.00.K57-55-2025-NQ-HDND-2025-PL1.pdf",
+      "note": "In force 4 Jan 2026"
+    },
+    {
+      "label": "Visiting hours notice",
+      "url": "https://hueworldheritage.org.vn/Thong-tin-tham-quan/Thoi-gian-tham-quan/pid/1775/cid/59?tid=Thoi-gian-dongmo-cua-tai-cac-diem-tham-quan.html",
+      "note": "12 Mar 2024. A direct reload timed out on 21 Oct 2026."
+    }
+  ],
+  "lat": 16.4571349,
+  "lng": 107.5965011,
+  "interests": [
+    "oldTowns"
+  ]
+}

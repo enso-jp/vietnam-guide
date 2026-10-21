@@ -1,0 +1,58 @@
+{
+  "slug": "thanh-toan",
+  "placeSlug": "hue",
+  "name": "Thanh Toan Bridge",
+  "nameVi": "Cầu ngói Thanh Toàn",
+  "kicker": "Tiled bridge in the vegetable plots",
+  "summary": "Cycle out to the tiled bridge in Thủy Thanh, about 8 km southeast of the centre. The national tourism page describes a roof about 17 metres long and about 4 metres wide, in seven compartments, with a shrine to Trần Thị Đào. The fee, the hours, and the ride in minutes are check on arrival.",
+  "dots": 3,
+  "district": "Countryside",
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "About 8 km southeast, through the plots. Minutes are check on arrival.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The tiled roof of Thanh Toan Bridge over the lilies",
+  "notice": {
+    "title": "No published fee, and no published hour",
+    "body": "Vietnam Tourism describes the bridge and the cycle. It does not print a ticket or a closing time. A missing line is not free entry. Confirm the gate when you arrive."
+  },
+  "body": [
+    "The national tourism page places Thanh Toan about 8 kilometres southeast of the centre, in Thủy Thanh commune, Hương Thủy. Vietnam Tourism’s Hue page sends a bicycle past vegetable plots and small footbridges. The kilometres are not a minute count.",
+    "The same national page describes a bridge about 17 metres long and about 4 metres wide, divided into seven compartments. The middle compartment is a shrine to Trần Thị Đào, who funded the bridge in the 18th century so the village could cross. A later national article gives a slightly different length. The visit is the roof and the shrine, not a rebuilt measurement.",
+    "No fee and no hour are on those pages. Check on arrival. How long the cycle from the south bank takes is check on arrival too."
+  ],
+  "figures": [
+    {
+      "id": "hue-thanh-toan-2",
+      "caption": "The decorated portal of the tiled bridge",
+      "alt": "A carved portal under the tiled roof of Thanh Toan Bridge"
+    }
+  ],
+  "gettingThere": [
+    "From the south bank, cycle southeast about 8 km to Thủy Thanh, Hương Thủy. Vietnam Tourism describes the way as vegetable plots and footbridges. The minutes are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the south bank",
+      "body": "Bicycle, about 8 km southeast. No published minute count. Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival.",
+  "closed": "No closing day is published. Confirm on arrival.",
+  "admissionNote": "Check on arrival. No fee is printed on the national tourism page.",
+  "links": [
+    {
+      "label": "Thanh Toan on the national tourism page",
+      "url": "https://vietnamtourism.vn/en/index.php/news/items/18375",
+      "note": "Vietnam National Authority of Tourism"
+    },
+    {
+      "label": "Hue places to go",
+      "url": "https://vietnam.travel/places-to-go/central-vietnam/hue",
+      "note": "The cycle past the plots"
+    }
+  ],
+  "interests": [
+    "oldTowns"
+  ]
+}

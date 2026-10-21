@@ -1,0 +1,53 @@
+{
+  "slug": "dieu-de",
+  "placeSlug": "hue",
+  "name": "Dieu De Pagoda",
+  "nameVi": "Chùa Diệu Đế",
+  "kicker": "National pagoda on the Gia Hoi river",
+  "summary": "Cross to the gate of Diệu Đế on the Hộ Thành river, at 100B Bạch Đằng in Phú Cát, near Gia Hội bridge. The city page dates the work to the third month of Thiệu Trị 4, 1844, on the future king’s garden. It is one of three Nguyễn national pagodas still in Hue. The fee and the hours are check on arrival.",
+  "dots": 3,
+  "district": "Pagodas",
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "100B Bạch Đằng, near Gia Hội bridge. Minutes are check on arrival.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The gate of Dieu De from the river",
+  "notice": {
+    "title": "No published fee, and no published hour",
+    "body": "The city page gives the address and the 1844 date. It does not give a ticket or a closing time. Confirm the gate when you arrive."
+  },
+  "body": [
+    "The city page places Diệu Đế on the Hộ Thành river, which Hue also calls the Gia Hội or Đông Ba river, at 100B Bạch Đằng, phường Phú Cát, near Gia Hội bridge. It is one of three Nguyễn national pagodas still standing in Hue.",
+    "The same page says the pagoda was built up in the third month of Thiệu Trị 4, 1844, on the garden of Phúc Quốc Công, later Emperor Thiệu Trị. An English page on the same site mixes in an 1807 date and a 5,000 square metre platform. Those lines disagree with the Vietnamese city page. This guide follows the 1844 account.",
+    "The fee and the hours are check on arrival. The walk from the south bank, across toward Gia Hội bridge, has no published minute count."
+  ],
+  "figures": [
+    {
+      "id": "hue-dieu-de-2",
+      "caption": "The hall and the censer at Dieu De",
+      "alt": "A bronze censer in front of the hall at Dieu De Pagoda"
+    }
+  ],
+  "gettingThere": [
+    "From the south bank, cross toward Gia Hội bridge and 100B Bạch Đằng, Phú Cát. The minutes are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the south bank",
+      "body": "Toward Gia Hội bridge and Bạch Đằng. No published minute count. Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival.",
+  "closed": "No closing day is published. Confirm on arrival.",
+  "admissionNote": "Check on arrival. No fee is printed on the city page.",
+  "links": [
+    {
+      "label": "Dieu De on the city page",
+      "url": "https://khamphahue.com.vn/Van-hoa/Chi-tiet/tid/Chua-Dieu-De.html/pid/2830/cid/165",
+      "note": "Hue Center of Information Technology. The Vietnamese page is the one used for the 1844 date."
+    }
+  ],
+  "interests": [
+    "pagodas"
+  ]
+}

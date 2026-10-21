@@ -1,0 +1,65 @@
+{
+  "slug": "dong-khanh",
+  "placeSlug": "hue",
+  "name": "Tomb of Dong Khanh",
+  "nameVi": "Lăng Đồng Khánh",
+  "kicker": "A short stop beside Tu Duc’s tomb",
+  "summary": "Stop at Ngưng Hy hall beside Tu Duc’s tomb, in Thượng Hai, Thủy Xuân. Đồng Khánh died at 25, and the hall began as his father’s temple. An adult ticket is 100,000 VND. A child from 7 to 12 is free. A paired price with Tu Duc is a different line, not this ticket.",
+  "dots": 2,
+  "district": "Royal tombs",
+  "timeNeeded": "Check on arrival",
+  "fee": "100,000 VND",
+  "getThere": "Beside Tu Duc’s tomb in Thủy Xuân. Minutes are check on arrival.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "Ngưng Hy hall across the court at Dong Khanh’s tomb",
+  "notice": {
+    "title": "The pair price is not this ticket",
+    "body": "The single adult ticket is 100,000 VND. A ticket that pairs this tomb with Tu Duc is 200,000 VND for an adult. Do not treat the pair as the price of Ngưng Hy alone. Neither line is the four-site ticket."
+  },
+  "body": [
+    "The tomb sits beside Tu Duc, his uncle and adoptive father. The address field says Đoàn Nhữ Hải, Thủy Xuân. The description says thôn Thượng Hai, phường Thủy Xuân. The article on the same record says thôn Thượng Hai, xã Thủy Xuân. All three stay.",
+    "Đồng Khánh died at 25. The hall began as Truy Tư, the temple he started for his father in the second month of 1888, and it was renamed Ngưng Hy after he died. The burial is on Hộ Thuận Sơn, 30 metres west of the hall. Khải Định rebuilt the tomb buildings from August 1916, and the hall with its side houses continued to 1923.",
+    "An adult ticket is 100,000 VND. A child from 7 to 12 is free. Under 7 is free. Hue residents and the other groups named in Resolution 55 pay half. It is a short stop if you are already at Tu Duc. How many minutes it adds is check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "hue-dong-khanh-2",
+      "caption": "A stair pavilion at Dong Khanh’s tomb",
+      "alt": "A tiled stair pavilion at the tomb of Dong Khanh in Hue"
+    }
+  ],
+  "gettingThere": [
+    "From the south bank, go upstream to Thủy Xuân, the same side of the river as Tu Duc’s tomb. The centre prints Đoàn Nhữ Hải and also thôn Thượng Hai. The minutes are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the south bank",
+      "body": "Upstream to Thủy Xuân, beside Tu Duc. No published minute count. Check on arrival."
+    }
+  ],
+  "hours": "16 Mar–15 Oct: 06:30–18:00, tickets until 17:30. 16 Oct–15 Mar: 07:00–17:30, tickets until 17:00. Confirm on arrival. The source is the centre’s 12 Mar 2024 notice, and a direct reload timed out on 21 Oct 2026.",
+  "closed": "No weekly closing day is on that notice. Confirm the board on arrival.",
+  "admissionNote": "Adult 100,000 VND. A child from 7 to 12 is free. Under 7 is free. Hue residents and the other groups named in Resolution 55 pay half. A pair with Tu Duc is 200,000 VND for an adult and 30,000 VND for a child from 7 to 12. That pair is not the single-tomb price, and it is not the four-site ticket.",
+  "links": [
+    {
+      "label": "Dong Khanh ticket page",
+      "url": "https://eticket.hueworldheritage.org.vn/diem-den/lang-dong-khanh",
+      "note": "Hue Monuments Conservation Centre. The page text used here is the centre’s place record, read 21 Oct 2026."
+    },
+    {
+      "label": "Resolution 55 fee table",
+      "url": "https://hue.gov.vn/Portals/0/Uploads/VBPL/Nam2026/Thang1/000.00.00.K57-55-2025-NQ-HDND-2025-PL1.pdf",
+      "note": "In force 4 Jan 2026"
+    },
+    {
+      "label": "Visiting hours notice",
+      "url": "https://hueworldheritage.org.vn/Thong-tin-tham-quan/Thoi-gian-tham-quan/pid/1775/cid/59?tid=Thoi-gian-dongmo-cua-tai-cac-diem-tham-quan.html",
+      "note": "12 Mar 2024. A direct reload timed out on 21 Oct 2026."
+    }
+  ],
+  "lat": 16.4299368,
+  "lng": 107.5678089,
+  "interests": [
+    "oldTowns"
+  ]
+}

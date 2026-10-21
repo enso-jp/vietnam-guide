@@ -8,8 +8,8 @@
     "Start with the bowl that belongs here. Bun bo Hue is rice noodles in a beef-and-pork broth, heavier and hotter than pho, with lemongrass, shrimp paste, chili, herbs, and lime. The culture department places a bowl at Dong Ba market. A clock hour for it is check on arrival.",
     "Com hen is the other plate: cold rice and tiny clams on Hen Island. The small cakes, bánh bèo among them, are a snack after the market, not a dinner. Nothing on the national pages sets a stall price. Treat every number you are quoted as check on arrival."
   ],
-  "specialtiesLead": "These are the dishes with their own pages. Bánh nậm, bánh khoái, bún thịt nướng, nem lụi, and chè are described in the sections below and do not have a Hue page this pass.",
-  "dishSlugs": ["bun-bo-hue", "banh-beo", "com-hen", "banh-mi"],
+  "specialtiesLead": "These are the dishes with their own pages. Bánh nậm, bún thịt nướng, and chè stay in the sections below and do not have a Hue page.",
+  "dishSlugs": ["bun-bo-hue", "banh-beo", "com-hen", "banh-khoai", "nem-lui", "banh-mi"],
   "sections": [
     {
       "id": "where",
@@ -27,7 +27,7 @@
       "nav": "Cakes",
       "paragraphs": [
         "Bánh bèo is a set of small steamed rice cakes in little saucers, topped with dried shrimp, pork crackling, shallots, and scallion oil. A few drops of slightly sweetened fish sauce, then the cake from the dish. It is a snack. A Hue street that is not a shop name is check on arrival.",
-        "Bánh nậm is a flat steamed rice dumpling in a banana leaf, with minced pork and shrimp, dipped in fish sauce. Bánh khoái is a turmeric rice-flour crepe with shrimp, a quail egg, bean sprouts, and pork belly, folded with a salad and a thick peanut-and-pork-liver sauce. Nem lụi is grilled pork on a skewer, wrapped in rice paper with herbs. Vietnam Tourism says the vendors are on the street and does not name the street. Chè is a sweet soup in alleys the same page does not name. A clock for each of these is check on arrival."
+        "Bánh nậm is a flat steamed rice dumpling in a banana leaf, with minced pork and shrimp, dipped in fish sauce. Bánh khoái and nem lụi have their own pages: the crepe along Kim Long, and the grilled pork skewer from a street the national page does not name. Chè is a sweet soup in alleys that page does not name. A clock for each of these is check on arrival."
       ],
       "dishSlugs": ["banh-beo"]
     },

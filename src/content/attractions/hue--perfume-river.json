@@ -1,0 +1,58 @@
+{
+  "slug": "perfume-river",
+  "placeSlug": "hue",
+  "name": "Perfume River walk",
+  "nameVi": "Sông Hương",
+  "kicker": "The dusk path between the two banks",
+  "summary": "Walk the Perfume River from Truong Tien Bridge to Nghinh Luong Dinh. Paths run on both banks. Kỳ Đài, built in 1807, is the pin on the north bank. No fee and no hour are published. The parks centre has asked the ward police to stop electric bikes on the path. How long the walk takes is check on arrival.",
+  "dots": 3,
+  "district": "River and south bank",
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "On foot from the south bank, at Truong Tien Bridge. Minutes are check on arrival.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "Truong Tien Bridge through the trees on the Perfume River",
+  "notice": {
+    "title": "No published hour, and no electric bikes",
+    "body": "The parks centre’s reply of 19 March 2026 treats the path as a walk and says it has asked Phú Xuân ward and the ward police to stop electric bikes. It does not print a fee or a closing time. A flood week can close the practical use of the path. Check the river that morning."
+  },
+  "body": [
+    "The walk the city desk describes runs from Truong Tien Bridge to Nghinh Lương Đình, with paths on both banks. The culture department calls the south bank the modern city and the north bank the old imperial city. Kỳ Đài, built in 1807 under Gia Long in three tiers, is the pin on the north bank. Nghinh Lương Đình is the old royal landing, where the king stopped in summer and the royal boats tied up.",
+    "No fee is on the parks-centre reply, and none is a separate line for this path in Resolution 55. That absence is not a published free rule, so the fee stays check on arrival. No hour is published. The minutes from a south-bank room are check on arrival.",
+    "This is the evening because you are already in Hue. It is not a special trip by itself. Kỳ Đài and Nghinh Lương Đình stay pins on this walk. They are not separate pages."
+  ],
+  "figures": [
+    {
+      "id": "hue-perfume-river-2",
+      "caption": "A painted boat beside Truong Tien Bridge",
+      "alt": "A painted boat on the Perfume River beside Truong Tien Bridge"
+    }
+  ],
+  "gettingThere": [
+    "From the south bank, start at Truong Tien Bridge and walk to Nghinh Luong Dinh. Which hotel block faces the water is check on arrival. The minutes are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the south bank",
+      "body": "On foot from Truong Tien Bridge. No published minute count. Check on arrival."
+    }
+  ],
+  "hours": "No hour is published for the path. Check on arrival.",
+  "closed": "No closing day is published. Do not count on the path in a flood week.",
+  "admissionNote": "Check on arrival. The parks-centre reply and Resolution 55 do not print a fee for this walk.",
+  "links": [
+    {
+      "label": "The river path in the culture department’s note",
+      "url": "https://svhttdl.hue.gov.vn/tin-trong-tinh/hue-duong-dua-di-san-giua-long-co-do.html",
+      "note": "Kỳ Đài and Nghinh Lương Đình"
+    },
+    {
+      "label": "Parks centre reply on the path",
+      "url": "https://tuongtac.hue.gov.vn/phan-anh/kinh-doanh-xe-dien-gay-nguy-hiem-tai-cau-trang-tien-den-nghenh-luong-dinh-a217908.html",
+      "note": "19 Mar 2026. Electric bikes."
+    }
+  ],
+  "interests": [
+    "oldTowns"
+  ]
+}
