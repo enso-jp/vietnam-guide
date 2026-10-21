@@ -174,7 +174,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "old-quarter",
+    "stage": "researchAttractions",
+    "item": null,
+    "at": "2026-10-21T08:24:07.329Z",
+    "by": "hourly",
+    "branch": "cursor/old-quarter-research-base"
+  },
   "log": [
     {
       "at": "2026-10-21T08:23:36.195Z",
