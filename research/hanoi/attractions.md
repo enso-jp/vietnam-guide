@@ -167,3 +167,37 @@ The first pass is the center a planning trip actually walks. Fees and hours are 
 Districts that deserve their own page:
 
 Not decided this pass. Ba Đình is the cluster of the citadel, the mausoleum, and One Pillar, not a separate district page yet. West Lake is already a published sight and was not re-sourced. Tây Hồ, the outer riverside, and the museum row are still open.
+
+## Nightlife and evening
+
+### Hoan Kiem walking zone
+- Vietnamese name: Không gian đi bộ hồ Hoàn Kiếm và phụ cận
+- Kind: nightlife
+- Area: The streets named in Decision 72, around the lake
+- What the visitor does: Walks the lake once the streets are given over to people. The tourism board says the lake is closed to vehicles on weekends (S1). The decision lists the streets and does not print a clock (S4). Adjusted weekends are in getting-there’s companion notes in the scene section: 19:00–24:00 appears on a 2025 government-portal weekend and in a 2026 newspaper account, and neither is a standing rule by itself (S5, S6).
+- Time: A Friday-to-Sunday evening if the zone is open. The standing hour is Check on arrival.
+- Fee: No fee is printed for walking the zone (S4).
+- From the base: On foot from the Old Quarter or the south rim.
+- When to go: Weekend evening. Confirm that week. The zone was paused 13–20 Mar 2026 for the election (S6).
+- Mistake to avoid: Assuming every Friday opens at 19:00. The decision does not say that.
+- Scene landmarks, if any, with a primary URL: The red Húc Bridge and Ngọc Sơn, https://vietnam.travel/things-to-do/explore-old-quarter-your-way (S1). The Opera House at 1 Tràng Tiền is the south-rim pin, https://vietnam.travel/things-to-do/11-must-see-attractions-ha-noi (S2). No drink price.
+- Suggested slug: hoan-kiem-walking-zone
+- Suggested dot: do not add a record. The lake page carries the evening.
+- Photo must show: the lake and the bridge after dark, with people on the bank, subject through the center. A frame of only black water fails.
+- Sources: S1, S2, S4, S5, S6
+
+### Ta Hien beer corner
+- Vietnamese name: Ngã tư Tạ Hiện – Lương Ngọc Quyến
+- Kind: nightlife
+- Area: Old Quarter, the intersection the tourism board calls bia hơi corner
+- What the visitor does: Sits on the street with a fresh beer. The attractions page names the intersection of Tạ Hiện and Lương Ngọc Quyến (S2). The Old Quarter page says the gathering spills onto Tạ Hiện and that people sit on low stools (S1). Named bars on that page are not picks. They are listed in food.md.
+- Time: After dark. A closing hour was not printed. Check on arrival — UNSOURCED
+- Fee: No price is copied.
+- From the base: A short walk inside the Old Quarter. Minutes: Check on arrival — UNSOURCED
+- When to go: Evening. The page does not name a night of the week.
+- Mistake to avoid: Turning the corner into a ranked bar list.
+- Scene landmarks, if any, with a primary URL: The corner itself, https://vietnam.travel/things-to-do/11-must-see-attractions-ha-noi (S2).
+- Suggested slug: ta-hien
+- Suggested dot: do not add a record. It is a corner inside the Old Quarter, not a sight page.
+- Photo must show: the intersection and the stools, subject through the center. A single glass, cropped tight, fails.
+- Sources: S1, S2

@@ -151,3 +151,9 @@ These names located a dish or a street. Each line is `do not publish as a pick`.
 - The family shop the other page ties to Chả Cá street since 1871 — do not publish as a pick (S24). The page does not print a door number for that family.
 
 A hotel restaurant named on the fine-dining page is not a pick and is not a street (S24).
+
+### Ta Hien, from the Old Quarter nightlife chapter
+- Diamond Sky Bar — do not publish as a pick (S1)
+- Polite Co. — do not publish as a pick (S1)
+- The Mad Botanist — do not publish as a pick (S1)
+- The page’s “Bia Hoi Junction” on Tạ Hiện — the corner is the landmark. The name is not a ranked bar (S1).
