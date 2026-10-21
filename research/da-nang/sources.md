@@ -151,3 +151,33 @@ Accessed 20 Oct 2026 unless a page states its own date.
 - Publisher: Vinpearl
 - Accessed: 20 Oct 2026
 - Supports: An Thuong described as a night area beside My Khe, spanning streets the page names as Vo Nguyen Giap, Hoang Ke Viem, Chau Thi Vinh Te, and Ngo Thi Si, with food stalls and eateries after dark. A second travel page, https://go-danang.com/posts/beach-bars-in-da-nang-drink-party-near-my-khe-2026 (accessed the same day), describes An Thuong as the walkable quarter a few blocks inland from the beach clubs. Use both for the area. Do not copy their other venue lists or their prices.
+
+### S26
+- URL: https://www.baodanang.vn/du-lich-da-nang/202010/thuong-thuc-am-thuc-tren-pho-huynh-thuc-khang-3871442/
+- Publisher: Báo Đà Nẵng (Da Nang city newspaper), 31 Oct 2020
+- Accessed: 21 Oct 2026
+- Supports: Huynh Thuc Khang food street (phố ẩm thực), Nam Duong ward, Hai Chau. Opened as a food street in December 2014. Junction with Nguyen Van Linh; near Phan Chau Trinh and Hoang Dieu. Street about 1 km with dense eateries. Busiest breakfast window about 06:30–09:00; open through the day. Dish types named include mi Quang, banh xeo, pork rice paper, banh canh, bun mam. Shop names on that page are source clues only. Do not publish as picks. No fee to walk the street. Stall prices on that page are not copied into this dossier.
+
+### S27
+- URL: https://danangfantasticity.com/local-markets/con-market-in-da-nang
+- Publisher: Danang Fantasticity (Da Nang city tourism portal), 4 Oct 2024
+- Accessed: 21 Oct 2026
+- Supports: Con Market (Chợ Cồn) at the crossroads of Quang Trung and Ong Ich Khiem, Hai Chau. Indoor food court and outdoor street-food area. Savory examples include banh beo, banh xeo, banh can, oc hut, mi Quang. Outdoor snacks include banh canh, mi Quang, che chuoi, banh bot loc. Dry goods and seafood for souvenirs. No stall price recorded here.
+
+### S28
+- URL: https://danangfantasticity.com/en/am-thuc-dia-phuong/kham-pha-am-thuc-da-nang-tai-6-khu-cho-dia-phuong-noi-tieng
+- Publisher: Danang Fantasticity, 12 Jun 2026
+- Accessed: 21 Oct 2026
+- Supports: Con Market at 290 Hung Vuong, Hai Chau ward; reference hours about 06:00–19:00; snack focus (mi Quang, bun mam nem, banh beo, banh xeo, che). Han Market at 119 Tran Phu, Hai Chau ward; same reference hours; specialties and local food beside the Han. Son Tra night market on Vo Van Kiet, An Hai ward, at the foot of Dragon Bridge; reference hours 17:00–23:00; busiest about 19:00–21:00. Hoi An market and Tam Tien fish market are neighbor or side-trip notes, not Da Nang city food streets.
+
+### S29
+- URL: https://danangfantasticity.com/shopping-2/han-market-2
+- Publisher: Danang Fantasticity, Han Market shopping page
+- Accessed: 21 Oct 2026
+- Supports: Han Market near the Han River swing bridge. Block outlined by Tran Phu, Bach Dang, Hung Vuong, and Nguyen Thai Hoc. Rebuilt 1990. Food products, fresh seafood, fish sauce, dried goods, and ao dai sewing. Supports the market as a planning stop, not a stall price list.
+
+### S30
+- URL: https://danangfantasticity.com/en/helio-center-temporarily-suspended
+- Publisher: Danang Fantasticity, 11 Sep 2025
+- Accessed: 21 Oct 2026
+- Supports: Helio Night Market, Helio Play, and Helio Kids closed from 5 Sep 2025 for renovation. Hoped return “end of this year” (2025 wording). Metiz Cinema stayed open. No newer reopening notice found on this portal on 21 Oct 2026. Helio remains Check on arrival. Vietnam Tourism (S21) still names Helio among night markets in its coastal-escape page.
