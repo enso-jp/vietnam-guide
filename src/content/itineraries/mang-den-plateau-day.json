@@ -8,16 +8,24 @@
   "placeSlug": "mang-den",
   "budget": "Check on arrival",
   "pace": "Cool morning, short drives",
-  "summary": "Pa Sy in the morning, Dak Ke lake after lunch, and Kon Pring before the lodge quiet.",
-  "photo": "mang-den-pa-sy-waterfall",
-  "days": [
+  "summary": "Dak Ke lake in the morning and Kon Pring in the afternoon. Pa Sy and the church stay dossier-only until a licensed photo exists.",
+  "photo": "mang-den-dak-ke-lake",
+  "stops": [
     {
-      "title": "Water, lake, and communal house",
-      "body": "Start at Pa Sy while the forest is cool. The provincial fee is 50,000 VND for adults from 30 May 2026. Drive to Dak Ke lake for a shore walk, then finish at Kon Pring for gong culture on Highway 24. Church and pagoda stops fit only if you still have daylight.",
+      "name": "Dak Ke Lake",
+      "minutes": 120,
       "placeSlug": "mang-den",
-      "photo": "mang-den-dak-ke-lake"
+      "attractionSlug": "dak-ke-lake",
+      "note": "Shore walk while the air is still cool. Gate fees stay check on arrival."
+    },
+    {
+      "name": "Kon Pring village",
+      "minutes": 90,
+      "placeSlug": "mang-den",
+      "attractionSlug": "kon-pring-village",
+      "note": "Communal house and gong culture on Highway 24. Ask before photos inside the rong house."
     }
   ],
   "seoTitle": "One day on the Mang Den plateau",
-  "seoDescription": "Pa Sy waterfall, Dak Ke lake, and Kon Pring village from a Mang Den base."
+  "seoDescription": "Dak Ke lake and Kon Pring village from a Mang Den base, on the only sights with licensed photos today."
 }

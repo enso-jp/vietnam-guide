@@ -20,8 +20,8 @@
   "stages": {
     "destination": {
       "status": "paged",
-      "note": "Eight attraction stubs, one day itinerary, no food guide. Dam Bri and farms named only on intro.",
-      "updated": "2026-10-21T11:17:09.918Z",
+      "note": "Two attraction pages with licensed photos: Dak Ke lake and Kon Pring. Other sights dossier-only.",
+      "updated": "2026-10-21T11:20:54.949Z",
       "reworkCount": 0
     },
     "destinationCopy": {
@@ -98,14 +98,14 @@
       "track": "unit",
       "name": "Pa Sy Waterfall",
       "slug": "pa-sy-waterfall",
-      "file": "src/content/attractions/mang-den--pa-sy-waterfall.json",
+      "file": "null",
       "source": "dossier",
       "research": "stored",
-      "page": "paged",
+      "page": "skipped",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "From dossier.",
-      "updated": "2026-10-21T11:17:09.689Z",
+      "note": "No licensed photograph of this sight. Dossier only.",
+      "updated": "2026-10-21T11:20:54.788Z",
       "reworkCount": 0
     },
     {
@@ -130,14 +130,14 @@
       "track": "unit",
       "name": "Dak Ke Waterfall",
       "slug": "dak-ke-waterfall",
-      "file": "src/content/attractions/mang-den--dak-ke-waterfall.json",
+      "file": "null",
       "source": "dossier",
       "research": "stored",
-      "page": "paged",
+      "page": "skipped",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "From dossier.",
-      "updated": "2026-10-21T11:17:09.745Z",
+      "note": "No licensed photograph of this sight. Dossier only.",
+      "updated": "2026-10-21T11:20:54.818Z",
       "reworkCount": 0
     },
     {
@@ -146,14 +146,14 @@
       "track": "unit",
       "name": "Khanh Lam Pagoda",
       "slug": "khanh-lam-pagoda",
-      "file": "src/content/attractions/mang-den--khanh-lam-pagoda.json",
+      "file": "null",
       "source": "dossier",
       "research": "stored",
-      "page": "paged",
+      "page": "skipped",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "From dossier.",
-      "updated": "2026-10-21T11:17:09.774Z",
+      "note": "No licensed photograph of this sight. Dossier only.",
+      "updated": "2026-10-21T11:20:54.847Z",
       "reworkCount": 0
     },
     {
@@ -178,14 +178,14 @@
       "track": "unit",
       "name": "Mang Den Pass",
       "slug": "mang-den-pass",
-      "file": "src/content/attractions/mang-den--mang-den-pass.json",
+      "file": "null",
       "source": "dossier",
       "research": "stored",
-      "page": "paged",
+      "page": "skipped",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "From dossier.",
-      "updated": "2026-10-21T11:17:09.830Z",
+      "note": "No licensed photograph of this sight. Dossier only.",
+      "updated": "2026-10-21T11:20:54.873Z",
       "reworkCount": 0
     },
     {
@@ -194,14 +194,14 @@
       "track": "unit",
       "name": "Mang Den church",
       "slug": "mang-den-church",
-      "file": "src/content/attractions/mang-den--mang-den-church.json",
+      "file": "null",
       "source": "dossier",
       "research": "stored",
-      "page": "paged",
+      "page": "skipped",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "From dossier.",
-      "updated": "2026-10-21T11:17:09.858Z",
+      "note": "No licensed photograph of this sight. Dossier only.",
+      "updated": "2026-10-21T11:20:54.898Z",
       "reworkCount": 0
     },
     {
@@ -210,14 +210,14 @@
       "track": "unit",
       "name": "Toong Dam Lake",
       "slug": "toong-dam-lake",
-      "file": "src/content/attractions/mang-den--toong-dam-lake.json",
+      "file": "null",
       "source": "dossier",
       "research": "stored",
-      "page": "paged",
+      "page": "skipped",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "From dossier.",
-      "updated": "2026-10-21T11:17:09.888Z",
+      "note": "No licensed photograph of this sight. Dossier only.",
+      "updated": "2026-10-21T11:20:54.924Z",
       "reworkCount": 0
     },
     {
@@ -240,6 +240,14 @@
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T11:20:54.949Z",
+      "place": "mang-den",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Two attraction pages with licensed photos: Dak Ke lake and Kon Pring. Other sights dossier-only."
+    },
     {
       "at": "2026-10-21T11:17:09.995Z",
       "place": "mang-den",
