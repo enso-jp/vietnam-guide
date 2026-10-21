@@ -3,12 +3,55 @@
   "placeSlug": "hoi-an",
   "name": "An Bang Beach",
   "nameVi": "Bãi biển An Bàng",
-  "summary": "The swim, and the villa and homestay stay, now in Hoi An Tây. Cửa Đại’s erosion is serious, and An Bang is also threatened. Chair hire and the ride from the old town are check on arrival.",
+  "kicker": "The beach stay on the Hoi An coast",
+  "summary": "Swim or walk the sand from the villa and homestay strip, now in Hoi An Tây. The June 2024 coast article calls that lodging the stay foreign visitors use, and it says erosion threatens this beach as well as Cửa Đại. No entry fee is printed. Chair hire and the ride from the old town are check on arrival.",
   "dots": 3,
   "district": "An Bang",
   "timeNeeded": "Half a day",
   "fee": "Check on arrival",
   "getThere": "A ride or a bicycle. The minutes are check on arrival.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "Sand, water, and the thatched front, with basket boats on the beach",
+  "notice": {
+    "title": "This is not a walk to the lantern streets",
+    "body": "No entry fee is printed, and chair hire is check on arrival. The ride from the old town has no published minute count. If you sleep here, the evening in the old town is a ride back."
+  },
+  "body": [
+    "The visit is the sand and the water, with the low thatched front behind the loungers. The June 2024 ministry article describes the villa and homestay lodging here as the stay foreign visitors use. Give the beach a morning when the old town has the afternoon, or a half day when the swim is the point.",
+    "That same article says Cửa Đại’s erosion is serious, and that An Bang and Tân Thành are also threatened. Do not move the swim to Cửa Đại. The May 2018 heritage note lists An Bang, then in Cẩm An, among the local tourism sites the province recognized. Recognition is not a promise that the sand stays where it is. Cẩm An is now inside Hoi An Tây.",
+    "Come in the morning, in the drier months on the city climate page. No beach-flag hours were printed. No chair price was printed. Do not call the beach free. The mistake is sleeping on this sand and expecting the lantern streets at the end of the lane."
+  ],
+  "figures": [
+    {
+      "id": "hoi-an-an-bang-2",
+      "caption": "People in the water off the sand",
+      "alt": "Swimmers in the sea at An Bang, with the sand in the foreground and islands on the horizon"
+    }
+  ],
+  "gettingThere": [
+    "An Bang is the coast stay, in what the June 2024 article still called Cẩm An and what is now Hoi An Tây. Go by bicycle or a ride from the old town. The article does not name the vehicle and does not print minutes or kilometres. Those are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the old town",
+      "body": "A bicycle or a ride. No published minute count and no published fare. Check both on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day is printed.",
+  "admissionNote": "No entry fee is printed on the June 2024 ministry article or the May 2018 recognition note. Do not treat the beach as free. Chair hire is check on arrival.",
+  "links": [
+    {
+      "label": "Hoi An coast, June 2024",
+      "url": "https://bvhttdl.gov.vn/quang-nam-hoi-an-khai-thac-khong-gian-du-lich-vung-ven-bien-20240619085052701.htm",
+      "note": "Ministry of Culture, Sports and Tourism"
+    },
+    {
+      "label": "Local tourism sites, May 2018",
+      "url": "https://hoianworldheritage.org.vn/vi/news/Hoi-An-24h/cong-nhan-them-7-diem-du-lich-dia-phuong-1676.hwh",
+      "note": "Hoi An heritage centre"
+    }
+  ],
   "interests": [
     "beaches"
   ]

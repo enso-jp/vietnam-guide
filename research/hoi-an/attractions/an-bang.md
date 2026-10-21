@@ -9,16 +9,16 @@ Checked: 21 Oct 2026
 
 - English name: An Bang Beach
 - Vietnamese name: Bãi biển An Bàng
-- Kicker (one line, what it is): The beach stay west of the old town
+- Kicker (one line, what it is): The beach stay on the Hoi An coast
 - Kind: sight
 
 ## What the visitor does
 
-- The scene, in order: The sand and the water, with villa and homestay lodging behind the beach. The June 2024 ministry article describes that lodging as the stay foreign visitors use (S6).
+- The scene, in order: The sand and the water, with the low thatched front and the villa and homestay lodging behind it. The June 2024 ministry article describes that lodging as the stay foreign visitors use (S6).
 - How long on site: Half a day, or a morning.
 - How long including the ride from the base: Check on arrival — UNSOURCED. No official minute count.
 - Mistake that wastes the visit: Expecting to walk to the lantern streets, or swimming at Cửa Đại. The same article says Cửa Đại’s erosion is serious and that An Bang and Tân Thành are also threatened (S6).
-- Notice, if one fact would waste the day: There is no published entry fee and no published ride time. Do not promise a free beach or a 15-minute bicycle.
+- Notice, if one fact would waste the day: There is no published entry fee and no published ride time. Do not promise a free beach or a walk to the old town.
 
 ## Fee
 
@@ -49,9 +49,9 @@ Checked: 21 Oct 2026
 
 ## Photos
 
-- Hero must show: sand, water, and the low beach buildings in one frame.
-- Second frame must show (a different moment): the swim, or the path off the sand. Not the old-town bridge.
-- Reject: empty sand, a logo, a resort brand shot.
+- Hero kept: sand, water, and the thatched front in one frame, basket boats on the sand. Tomasz Lewicki, CC BY-SA 2.0, File:Plaża An Bang w Hoi An (21634140843). Cropped from the left of the panorama so a 3:2 centre still shows the water, the boats, and the thatch. The earlier frame was mostly sky and was replaced.
+- Second frame kept: swimmers off the sand. Christophe95, CC BY-SA 4.0, File:Cam An Beach 4.jpg. The file title says Cam An Beach. Its camera coordinates sit with the photographs titled An Bang, about 140 m from the An Bang sign photograph. It is not a second crop of the hero.
+- Rejected: empty sand, a sign that fills the frame, a selfie, a gray beach with trash in the foreground, and a file titled only Hoi An beach.
 
 ## Links
 
@@ -61,7 +61,8 @@ Checked: 21 Oct 2026
 ## Open questions
 
 - Kilometres, minutes, chair hire, and flags. Left out.
+- A Commons file titled Temple at An Bang shows a small shoreline altar. No official page names it. Left unpublished.
 
 ## Sources
 
-See `research/hoi-an/sources.md` S6, S12, S35.
+See `research/hoi-an/sources.md` S6, S8, S12, S35.

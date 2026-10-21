@@ -101,11 +101,11 @@
       "file": "src/content/attractions/hoi-an--an-bang.json",
       "source": "published",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Reopened for a frame that shows sand, water, and the low beach front.",
-      "updated": "2026-10-21T09:58:02.892Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Read against the dossier. Sand, water, and the low front are in the hero. Chair hire, hours, and the ride stay check on arrival.",
+      "updated": "2026-10-21T10:04:36.380Z",
       "reworkCount": 0
     },
     {
@@ -322,14 +322,14 @@
       "track": "unit",
       "name": "Cam Thanh coconut water",
       "slug": "cam-thanh",
-      "file": null,
+      "file": "src/content/attractions/hoi-an--cam-thanh.json",
       "source": "dossier",
       "research": "stored",
-      "page": "blocked",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Page stays blocked. No photograph of a basket boat in the nipa water. The 2022 prices are not a current tariff.",
-      "updated": "2026-10-21T08:54:08.903Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Entry matches the city portal and the council note. Both hour lines stay in print. The 2022 boat prices stay off the page. An Bang and Cam Thanh interest cards use their own photos.",
+      "updated": "2026-10-21T10:04:36.661Z",
       "reworkCount": 0
     },
     {
@@ -470,10 +470,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Name only. Month, day, and fee are check on arrival.",
-      "updated": "2026-10-21T07:37:17.612Z",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "2024 ran 15 June to 21 July. Next dates and the fee stay check on arrival. The photograph is the An Bang sand, not the 2024 program.",
+      "updated": "2026-10-21T10:04:36.690Z",
       "reworkCount": 0
     },
     {
@@ -675,7 +675,7 @@
       "stage": "page",
       "item": "hoi-an--an-bang",
       "text": "An Bang photo is mostly sky and sand, and there is no second frame. Fee and the ride now say check on arrival. A finished page needs sand, water, and the low beach front in one frame.",
-      "open": true
+      "open": false
     },
     {
       "at": "2026-10-21T07:38:45.871Z",
@@ -703,18 +703,59 @@
       "stage": "page",
       "item": "hoi-an--cam-thanh",
       "text": "No looked-at photo. Public file not created. The 2022 prices stay in the dossier and are not a current tariff.",
-      "open": true
+      "open": false
     }
   ],
-  "claim": {
-    "place": "hoi-an",
-    "stage": "page",
-    "item": "hoi-an--an-bang",
-    "at": "2026-10-21T09:58:09.924Z",
-    "by": "hoi-an-cam-thanh-an-bang",
-    "branch": "cursor/hoi-an-cam-thanh-an-bang-53b6"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T10:04:36.661Z",
+      "place": "hoi-an",
+      "stage": "quality",
+      "item": "hoi-an--cam-thanh",
+      "status": "checked",
+      "note": "Entry matches the city portal and the council note. Both hour lines stay in print. The 2022 boat prices stay off the page. An Bang and Cam Thanh interest cards use their own photos."
+    },
+    {
+      "at": "2026-10-21T10:04:36.578Z",
+      "place": "hoi-an",
+      "stage": "copy",
+      "item": "hoi-an--cam-thanh",
+      "status": "enriched",
+      "note": "Hero is the basket boat, Chester Ho, CC0. Second frame is the nipa trunks, Justin. Both looked at. Boat price stays check on arrival."
+    },
+    {
+      "at": "2026-10-21T10:04:36.490Z",
+      "place": "hoi-an",
+      "stage": "page",
+      "item": "hoi-an--cam-thanh",
+      "status": "paged",
+      "note": "New record. Dot 3: a boat hour, not the old town. Entry 30,000 VND from 10 August 2026. Boat price and which hours stay check on arrival."
+    },
+    {
+      "at": "2026-10-21T10:04:36.380Z",
+      "place": "hoi-an",
+      "stage": "quality",
+      "item": "hoi-an--an-bang",
+      "status": "checked",
+      "note": "Read against the dossier. Sand, water, and the low front are in the hero. Chair hire, hours, and the ride stay check on arrival."
+    },
+    {
+      "at": "2026-10-21T10:04:36.299Z",
+      "place": "hoi-an",
+      "stage": "copy",
+      "item": "hoi-an--an-bang",
+      "status": "enriched",
+      "note": "Hero is the thatched front, Tomasz Lewicki, CC BY-SA 2.0. Second frame is the swim, Christophe95. Both looked at. Fee and the ride stay check on arrival."
+    },
+    {
+      "at": "2026-10-21T10:04:36.205Z",
+      "place": "hoi-an",
+      "stage": "page",
+      "item": "hoi-an--an-bang",
+      "status": "paged",
+      "note": "Finished page. Hero shows sand, water, and the thatched front. Chair hire, hours, and the ride stay check on arrival. Dot unchanged at 3."
+    },
     {
       "at": "2026-10-21T08:54:09.067Z",
       "place": "hoi-an",
@@ -826,54 +867,6 @@
       "item": null,
       "status": "checked",
       "note": "Read the guide and the dishes against the dossier. No shop picks and no stall prices. White rose has no photo. Cao lau, banh mi, and com ga match the sourced lines. Coffee page left unchanged."
-    },
-    {
-      "at": "2026-10-21T07:38:12.360Z",
-      "place": "hoi-an",
-      "stage": "foodCopy",
-      "item": null,
-      "status": "enriched",
-      "note": "Guide and dishes read against the food dossier. Cao lau where-line no longer names a shop. White rose has no photograph, so no hero was borrowed. Banh xoai stays in the sweets section."
-    },
-    {
-      "at": "2026-10-21T07:38:00.484Z",
-      "place": "hoi-an",
-      "stage": "food",
-      "item": null,
-      "status": "paged",
-      "note": "Food guide, white rose, and Hoi An lines on cao lau, banh mi, and com ga. No stall prices and no shop picks. Banh xoai stays a paragraph. White rose has no photo. Left out a coffee street."
-    },
-    {
-      "at": "2026-10-21T07:37:51.741Z",
-      "place": "hoi-an",
-      "stage": "destinationQuality",
-      "item": null,
-      "status": "checked",
-      "note": "Read the place against the dossier. Fee, distances, pedestrian hours, and flood months match. Itinerary file untouched. An Bang card is off until a beach frame shows the low front. Left out airport minutes and which ticket the desk sells."
-    },
-    {
-      "at": "2026-10-21T07:37:42.929Z",
-      "place": "hoi-an",
-      "stage": "destinationCopy",
-      "item": null,
-      "status": "enriched",
-      "note": "Hero replaced: yellow shophouse, Steffen Schmitz, CC BY-SA 4.0. An Bang interest card left off because the beach frame is mostly sky. Fee, airport minutes, and the 15:00 start stay check on arrival."
-    },
-    {
-      "at": "2026-10-21T07:37:10.269Z",
-      "place": "hoi-an",
-      "stage": "destination",
-      "item": null,
-      "status": "paged",
-      "note": "Place, interests, festivals, stay areas, and getting there are on the page. Itinerary files were left untouched. Existing itinerary slugs stay linked. Sightseeing fee, airport minutes, bus stop price, and Phan Chau Trinh 15:00 start are check on arrival. Side trip placeholder: Cu Lao Cham. Left out a second itinerary."
-    },
-    {
-      "at": "2026-10-21T07:18:08.391Z",
-      "place": "hoi-an",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "Left out airport and station clock times, Hue train clocks, the single bus fare inside the band, the 15:00 Phan Chau Trinh start, summer versus winter months, the 2004 street list, one bridge date, and which ticket the desk sells. No bar pin."
     }
   ]
 }

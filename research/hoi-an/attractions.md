@@ -135,8 +135,8 @@ Checked: 21 Oct 2026
 - Kind: sight
 - Area: Võng Nhi, Cẩm Thanh. Cẩm Thanh is now inside Hoi An Đông (S8). The heritage article of 14 Nov 2022 says about 3 km from the old-town centre and about 5 minutes by car (S27). One article. No second clock. The May 2018 heritage note says this water was already a recognized local tourism site before the seven sites added that month (S35).
 - What the visitor does: Ride a basket boat through the nipa water. The article says the palms were brought from the Mekong delta about 200 years ago and that the name still says seven mẫu though the water is larger now (S27).
-- Time: A boat hour. The wooden boat on that article is printed as 45 minutes (S27). One source.
-- Fee: The same 14 Nov 2022 article prints 30,000 VND entry and 150,000 VND for a basket boat for two adults, and says that price included the ride, a basket-boat dance, singing, and crab fishing. A wooden boat is printed at 450,000 VND for up to six people for 45 minutes (S27). No second source. Public copy says Check on arrival. Summer hours on that article: 07:30–18:30. Winter: 08:00–17:00. Which months those words mean is not on the page (S27).
+- Time: A boat hour. The wooden boat on that article is printed as 45 minutes (S27). One source. Confirm the minutes.
+- Fee: From 10 August 2026 the entry is 30,000 VND a person a visit, Resolution 94/2026 of 31 July 2026 (S38, S39). The boat is extra. The 14 Nov 2022 article printed 150,000 VND for a basket boat for two adults and 450,000 VND for a wooden boat (S27). No second source for the boat. The boat price stays Check on arrival. Hours disagree: February 2025 notice prints basket boats 07:00–18:00, and the commune can stop them in bad weather (S40). The 2022 article prints summer 07:30–18:30 and winter 08:00–17:00, months not defined (S27). Public hours print both.
 - From the base: About 3 km, about 5 minutes by car, on that one article (S27). Confirm the minutes on arrival.
 - When to go: The article suggests early morning or after 15:30 (S27).
 - Mistake to avoid: Quoting the 2022 prices as this week’s tariff.

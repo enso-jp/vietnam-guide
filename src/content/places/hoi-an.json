@@ -81,7 +81,9 @@
     "The assembly halls are the Hoa merchant halls. Quảng Đông is the dragon court. Phúc Kiến is the long hall on Trần Phú. Chùa Ông is at 24 Trần Phú.",
     "The museums are a morning hour: trade ceramics at 80 Trần Phú, Sa Huỳnh pottery at 149 Trần Phú, and the folk-culture house at 33 Nguyễn Thái Học.",
     "Trà Quế is the herb beds about 2.5 km north on the heritage page, and about 2 km northeast on the national tourism page. The greens go into cao lầu.",
-    "Kim Bồng is the carpentry village across the river. Thanh Hà is the pottery west of town. Crossing minutes and the ride are check on arrival."
+    "Kim Bồng is the carpentry village across the river. Thanh Hà is the pottery west of town. Crossing minutes and the ride are check on arrival.",
+    "An Bang is the swim and the villa stay, now in Hoi An Tây. Cửa Đại’s erosion is serious, and the same coast article says this beach is threatened too. The ride from the old town is check on arrival.",
+    "Cẩm Thanh is the basket-boat hour in the nipa water, about 3 km out on the 2022 article. From 10 August 2026 the entry is 30,000 VND. The boat price is check on arrival."
   ],
   "interestCards": [
     {
@@ -131,6 +133,20 @@
       "summary": "Kim Bồng woodwork across the river, and Thanh Hà pottery west of town. The minutes are check on arrival.",
       "attractionSlug": "kim-bong",
       "photo": "hoi-an-kim-bong",
+      "icon": "view"
+    },
+    {
+      "title": "An Bang",
+      "summary": "The swim and the villa stay. Cửa Đại’s erosion is serious. The ride from the old town is check on arrival.",
+      "attractionSlug": "an-bang",
+      "photo": "hoi-an-an-bang",
+      "icon": "beach"
+    },
+    {
+      "title": "Cam Thanh boats",
+      "summary": "Basket boats in the nipa water. Entry is 30,000 VND from 10 August 2026. The boat price is check on arrival.",
+      "attractionSlug": "cam-thanh",
+      "photo": "hoi-an-cam-thanh",
       "icon": "view"
     }
   ],

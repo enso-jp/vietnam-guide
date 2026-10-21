@@ -25,11 +25,12 @@ Checked: 21 Oct 2026
 ### Hoi An summer beach festival
 - Vietnamese name: Hội An - Cảm xúc mùa hè
 - Kind: festival
-- When: The June 2024 ministry article names it as a recurring beach event and does not give a month, a day, or a fee (S6). Check on arrival — UNSOURCED.
-- Where: The coast. The article is about An Bang, Tân Thành, and Cửa Đại and does not pin the festival to one beach (S6).
-- What happens: Not described beyond the name.
-- Fee: Check on arrival — UNSOURCED.
+- When: 2024 ran from 15 June to 21 July (S41). Opening days 14–16 June at Cửa Đại. The An Bàng program Mùa hè bất tận was at 16:00 on 12 July 2024 (S42). The next dates are Check on arrival. Do not treat 15 June as a standing annual date.
+- Where: Cửa Đại, Tân Thành, An Bàng, and Cù Lao Chàm (S41). The July program is at An Bàng (S41, S42).
+- What happens: At Cửa Đại, dance, music, food, a DJ, fire performance, beach games, kites, and OCOP stalls (S41). At An Bàng, sea-themed work in lanterns and recycled wood, coastal food, beach music, and sport (S41, S42).
+- Fee: Check on arrival — UNSOURCED. Neither page prints a ticket.
+- Photo: no licensed frame of the 2024 program. The card uses Cam An Beach 3, whose coordinates sit with the An Bang photographs. It is the sand, not the festival night.
 - Not the same as attraction slug: an-bang
-- Sources: S6
+- Sources: S6, S41, S42
 
 Activities that are already sights, and are not repeated here: the old-town walk, Trà Quế, the Cẩm Thanh boat, An Bang.
