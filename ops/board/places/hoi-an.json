@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T06:08:52.441Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T06:08:52.441Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,19 +45,19 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T06:08:52.441Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T06:08:52.441Z",
       "reworkCount": 0
     },
     "researchBase": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "First pass. Scene and getting there are in the dossier. Still open: airport and station clock times, Hue train times, the single-ride bus fare at the Hoi An stop, whether the 15:00 Phan Chau Trinh start is in force, summer versus winter months, the 2004 street list, bridge-date and ticket-count disagreements, no bar pin. Sights, food streets, nightlife, lifestyle, events, and side trips remain other lanes.",
+      "updated": "2026-10-21T06:08:52.441Z",
       "reworkCount": 0
     },
     "researchAttractions": {
@@ -104,8 +104,8 @@
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "note": "Published shell. researchBase 21 Oct 2026: beach sleep area, villa and homestay lodging, Cam An ward in June 2024, whole of Cam An is now Hoi An Tay. Cua Dai erosion is serious. Ride time Check on arrival. Sight entry still belongs to researchAttractions.",
+      "updated": "2026-10-21T06:08:52.441Z",
       "reworkCount": 0
     },
     {
@@ -120,8 +120,8 @@
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "note": "Published shell. researchBase 21 Oct 2026 records it as the evening pin: early 17th century on the Vietnamese monument page, 1593 and early 17th century on the French page, 18th century on the UNESCO English list. Sight entry still belongs to researchAttractions. Do not change the dot.",
+      "updated": "2026-10-21T06:08:52.441Z",
       "reworkCount": 0
     },
     {
@@ -137,7 +137,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "updated": "2026-10-21T06:08:52.441Z",
       "reworkCount": 0
     },
     {
@@ -216,8 +216,8 @@
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Bundled into the destination stage.",
-      "updated": null,
+      "note": "Bundled into the destination stage. researchBase 21 Oct 2026: the creative-city visitor page prints the 14th lunar night, 18:00-21:30, and has no page date. researchContext still owes the organizer date. Do not mark this page skipped.",
+      "updated": "2026-10-21T06:08:52.411Z",
       "reworkCount": 0
     },
     {
@@ -235,16 +235,50 @@
       "note": "Named in Central Coast coverage on 19 Oct 2026. No dish file yet. Source it in the Hoi An dossier before the food stage publishes it.",
       "updated": null,
       "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--ancient-town-evening",
+      "kind": "nightlife",
+      "track": "unit",
+      "name": "Ancient town evening streets",
+      "slug": "ancient-town-evening",
+      "file": null,
+      "source": "dossier",
+      "research": "not_started",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "researchBase 21 Oct 2026. Old-town pedestrian hours and Phan Chau Trinh are in the dossier. Pins: the Japanese bridge, 66 Bach Dang, 06 Nguyen Thi Minh Khai. No bar. Nightlife lane still owes the evening entry. Page skipped because this is the place, not a separate sight.",
+      "updated": "2026-10-21T06:08:52.441Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--tan-thanh-market",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Tan Thanh fishing-village market",
+      "slug": "tan-thanh-market",
+      "file": null,
+      "source": "dossier",
+      "research": "not_started",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Named 19 Jun 2024 as a Saturday-Sunday market at Tan Thanh, then Cam An, now inside Hoi An Tay. researchFood still owes the entry. Do not publish a stall list.",
+      "updated": "2026-10-21T06:08:52.441Z",
+      "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "hoi-an",
-    "stage": "researchBase",
-    "item": null,
-    "at": "2026-10-21T06:02:41.809Z",
-    "by": "hourly",
-    "branch": "cursor/hoi-an-research-base"
-  },
-  "log": []
+  "claim": null,
+  "log": [
+    {
+      "at": "2026-10-21T06:08:52.441Z",
+      "place": "hoi-an",
+      "stage": "researchBase",
+      "item": null,
+      "status": "needs_depth",
+      "note": "First pass. Scene and getting there are in the dossier. Still open: airport and station clock times, Hue train times, the single-ride bus fare at the Hoi An stop, whether the 15:00 Phan Chau Trinh start is in force, summer versus winter months, the 2004 street list, bridge-date and ticket-count disagreements, no bar pin. Sights, food streets, nightlife, lifestyle, events, and side trips remain other lanes."
+    }
+  ]
 }
