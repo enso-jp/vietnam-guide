@@ -65,7 +65,7 @@ The city dossier entry in `research/da-nang/attractions.md` is the index. This f
 
 ## Photos
 
-- Hero must show: the golden bridge in the stone hands, in color, one frame. Kept `public/photos/da-nang-ba-na.jpg` (Supanut Arunoprayote, CC BY 4.0). The hands and the gold curve fill the frame.
+- Hero must show: the golden bridge in the stone hands, in color, one frame. Kept `public/photos/da-nang-ba-na.jpg` (Vivu Vietnam, CC BY-SA 4.0), the bridge above the cloud sea. The hands and the gold curve fill the frame.
 - Second frame must show: the same bridge at a different hour, with the coast behind the hands. Kept `public/photos/da-nang-ba-na-2.jpg` (Vivu Vietnam, CC BY-SA 4.0).
 - Reject: a park logo, a ticket window, a gray ridge with no bridge.
 

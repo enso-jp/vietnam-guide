@@ -8,17 +8,26 @@ Checked: 20 Oct 2026. These are Da Nang’s cards, not another city’s list.
 - Icon: beach
 - Links to attraction, dish, or place slug: my-khe
 - Food guide card: no
-- Photo must show: My Khe, sand and water
+- Photo must show: surf, sand, and the resort towers, subject through the center
 - Sources: S3, S9
 
-### Beach bars
-- Why it is this place, not a generic label: The umbrellas and the drinks are on the streets just inland of My Khe. There is no single bar to name.
+### An Thuong
+- Why it is this place, not a generic label: The walkable grid of bars and kitchens just inland from My Khe. It is the night that makes a beach hotel make sense.
 - Fits interest key, if any: nightlife
 - Icon: drink
-- Links to attraction, dish, or place slug: my-khe
+- Links to attraction, dish, or place slug: an-thuong
 - Food guide card: no
-- Photo must show: the beachfront streets or the sand with umbrellas, not a logo
-- Sources: S21
+- Photo must show: the beachfront those streets open onto, until a real night-street frame exists
+- Sources: S23, S25
+
+### Beach night
+- Why it is this place, not a generic label: Kalà Kalà on the sand and East West facing the water. They orient the beach evening. They are not a best-of list.
+- Fits interest key, if any: nightlife
+- Icon: drink
+- Links to attraction, dish, or place slug: an-thuong
+- Food guide card: no
+- Photo must show: umbrellas, palms, and the towers on the sand, subject centered
+- Sources: S23, S24
 
 ### Cham Museum
 - Why it is this place, not a generic label: The Cham sculpture museum on the Han River is the city’s cultural hour. It is not My Son.

@@ -133,3 +133,21 @@ Accessed 20 Oct 2026 unless a page states its own date.
 - Publisher: Linh Ung Pagoda
 - Accessed: 20 Oct 2026
 - Supports: The pagoda places itself at Bai But, about 10 km northeast of the center. Construction from 2004, opened 30 Jul 2010. Statue height 67 m. No fee stated. Ignore the pagoda’s UNESCO-tallest claim; S11 is the city wording.
+
+### S23
+- URL: https://kalakalabeachclub.com/
+- Publisher: Kalà Kalà Beach Club
+- Accessed: 20 Oct 2026
+- Supports: Beach club at 51 Vo Nguyen Giap, Da Nang, on My Khe. Entry free. The guest guide says open daily 08:00–02:00. The same page’s footer says 08:00–midnight. Confirm the night. Day beds face the sea. No drink price recorded from this page.
+
+### S24
+- URL: https://eastwestbrewing.vn/taproom/da-nang
+- Publisher: East West Brewing
+- Accessed: 20 Oct 2026
+- Supports: Beachfront taproom in Da Nang, “by the shores of My Khe Beach,” open all week 08:00–01:00. The page does not give a street. Address stays Check on arrival. Signature seafood is their wording. No drink price recorded.
+
+### S25
+- URL: https://vinpearl.com/en/my-khe-beach-nightlife
+- Publisher: Vinpearl
+- Accessed: 20 Oct 2026
+- Supports: An Thuong described as a night area beside My Khe, spanning streets the page names as Vo Nguyen Giap, Hoang Ke Viem, Chau Thi Vinh Te, and Ngo Thi Si, with food stalls and eateries after dark. A second travel page, https://go-danang.com/posts/beach-bars-in-da-nang-drink-party-near-my-khe-2026 (accessed the same day), describes An Thuong as the walkable quarter a few blocks inland from the beach clubs. Use both for the area. Do not copy their other venue lists or their prices.

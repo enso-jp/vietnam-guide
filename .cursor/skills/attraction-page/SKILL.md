@@ -106,7 +106,7 @@ Reject these even when the title names the place:
 
 House examples, already on disk:
 
-- Keep `public/photos/da-nang-ba-na.jpg`. The stone hands and the gold curve fill the frame, and the valley sits behind them.
+- Keep `public/photos/da-nang-ba-na.jpg`. The stone hands and the gold curve fill the frame, above the cloud sea.
 - Keep `public/photos/da-nang-ba-na-2.jpg`. Same bridge, the end of the day, the coast behind the hands.
 - Replace `public/photos/da-nang-hai-van.jpg` when that sight is the pass. The road is a faint line in cloud and the sea is missing. Do not replace it in a pass about another sight.
 

@@ -45,7 +45,19 @@ Record the accessed date. Today’s check date is written as `19 Oct 2026`.
 
 If a fee, hour, or date has no source, write `Check on arrival` and `UNSOURCED` next to it. Do not invent a number. Do not state a visa rule.
 
-Name areas, not a restaurant or hotel catalog. A shop name is allowed only as a source clue, marked `do not publish as a pick`.
+Name areas, not a restaurant or hotel catalog. A hotel brand is never a pick. A shop name is a source clue, marked `do not publish as a pick`, unless it is one of the few scene landmarks in **Why a night here**.
+
+## The scene people book
+
+A dossier that only lists tickets produces a flat page. `attractions.md` opens with **Why a night here**, before the sight entries:
+
+- The picture a traveler expects to wake up to. For a beach city that is the sand, the water, and the buildings on the front, not the airport.
+- Where they sleep, as an area (beachfront resort, river hotel). Never a hotel brand.
+- Where the evening is, as streets they can walk.
+- Scene landmarks: at most a few venues that orient that evening, each with a primary URL. They are pins, not a ranked bar guide. No prices, no scores, no “best of” list. If the owner named a venue, record it and still attach a source. If that source has no street, write `Check on arrival` for the address.
+- What the hero must include, and which edge a tight crop would cut off.
+
+`Photo must show` names the frame. “Sand and water” is not enough. Write “the surf, the sand, and the resort towers in one frame, subject through the center.” Say when a portrait of a statue will lose its head on a landscape card. A frame that is mostly empty sky, empty sand, fog, or a slice of a torso does not pass.
 
 ## What each file must hold
 

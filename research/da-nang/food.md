@@ -82,6 +82,25 @@ Checked: 20 Oct 2026. No stall prices. Shop names on tourism pages are clues onl
 - Neighbor dish to link: none
 - Sources: S19
 
+### Owner shop list, published 20 Oct 2026
+
+The owner sent a friend’s list and asked the food guide to name doors. Hours stay “check on arrival” unless a venue page states them. No prices.
+
+Noodles and plates, from that list: Bà Ngân 3, 37 Phan Thành Tài (mi Quang). Ông Tạ, 113A Nguyễn Chí Thanh, and Bà Phiến, 63 Lê Hồng Phong (bun cha ca). Huế Thu, Châu Thị Vĩnh Tế, no number (bánh canh cá lóc). Bà Vân, Trần Kế Xương, no number (bún mắm). Hoài Phố, 255 Nguyễn Chí Thanh (cao lau). Bà Hương, 229 Đống Đa (bún bò). Hồng Ngọc, 193 Nguyễn Chí Thanh (com ga, Hong Kong style). Tú Tài, 62 Hải Phòng (com ga, Hoi An style). Bà Hường, 364 đường 3/2 and a Duy Tân branch near the airport (pork rice paper and cá nục hấp). Trần, 4 Lê Duẩn (pork rice paper). Bà Bé, 100 Hoàng Văn Thụ (bánh bèo nậm lọc). Vịt lộn um bầu and mít trộn, Ngô Gia Tự near Chi Lăng stadium, no shop name. Gỏi cá trích, Trần Cao Vân, no shop name. Hải sản Lão Đại, Lô 1 Võ Văn Kiệt, also described near the Dragon Bridge on Võ Nguyên Giáp. Ông Minh, 92 Võ Nguyên Giáp. Năm Đảnh, Nguyễn Phan Vinh, no number. Madame Lân, 4 Bạch Đằng. Chè Xuân Trang, 31 Lê Duẩn. Chè Liên, 16 đường 2/9. Cộng, 96–98 Bạch Đằng. Dừa Bến Tre, 198 Bạch Đằng.
+
+Checked on the venue’s own page or the Michelin guide, 20 Oct 2026:
+
+- Nén, 16 Mỹ Đà Tây 2, Ngũ Hành Sơn. Green Star. Lunch is not every day. Source: restaurantnen.com, guide.michelin.com.
+- Le Comptoir, 16 Chế Lan Viên, Ngũ Hành Sơn. Dinner. Source: guide.michelin.com.
+- The Temptation, 125 Hồ Nghinh. Monday dinner only. Source: thetemptation.com.vn.
+- East West Brewing, 1A Võ Nguyên Giáp. Source: the brewery’s listing on beerasia.net (secondary; street matches the beach road).
+- Esco Beach, Lô 12 Võ Nguyên Giáp. Source: escobeach.com.
+- Kalà Kalà, 51 Võ Nguyên Giáp. Source: the club’s contact page as quoted by lifeofdanang.com. Treat the street as usable; hours can move.
+- Firebirds Tropical, 2D Mỹ Khê 7. Source: firebirdscocktail.com.
+- Firebirds Vietnamese Craft: second room, city center, street UNSOURCED. See questions.md.
+
+Korean and Japanese rooms are named only as the An Thuong lanes. Matcha is named only as a drink on Bạch Đằng and in the beach cafes. No shop invented for either.
+
 ### Neighbor dishes to link, not to claim
 - Cao lau and white rose dumplings belong to Hoi An. Link `cao-lau` and the Hoi An food guide. Do not describe them as Da Nang bowls.
 - Bun bo Hue belongs to Hue. Link `bun-bo-hue`. Eat it there if the bowl is why you go.

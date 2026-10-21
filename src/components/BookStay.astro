@@ -1,4 +1,5 @@
 ---
+import Icon from './Icon.astro';
 import { getPlaces } from '../lib/content';
 import { stayLink } from '../lib/partners';
 
@@ -12,16 +13,16 @@ const tripDefault = places.find((place) => place.slug === 'da-nang')?.slug || pl
 const nights = [1, 2, 3, 4, 5, 6, 7, 10, 14];
 const adults = [1, 2, 3, 4, 5, 6];
 ---
-<aside class="panel book-stay" data-book>
-  <h2>Book your stay</h2>
+<aside class="book-stay" data-book>
+  <h2>Book your <em>stay</em></h2>
   <p class="note" data-book-note>Partner link. We may earn a commission if you book.</p>
   <div class="book-tabs" role="tablist" aria-label="Booking type">
-    <button type="button" role="tab" data-book-tab="stay" data-note="Partner link. We may earn a commission if you book." data-submit="Search stays" data-kind="partner" aria-selected="true">Stays</button>
-    <button type="button" role="tab" data-book-tab="flight" data-note="Search link. Opens Google Flights." data-submit="Search flights" data-kind="official" aria-selected="false">Flights</button>
-    <button type="button" role="tab" data-book-tab="bus" data-note="Partner link. We may earn a commission if you book." data-submit="Search buses" data-kind="partner" aria-selected="false">Buses</button>
-    <button type="button" role="tab" data-book-tab="train" data-note="Official Vietnam Railways timetable." data-submit="Open the timetable" data-kind="official" aria-selected="false">Trains</button>
-    <button type="button" role="tab" data-book-tab="activities" data-note="Itineraries on this site." data-submit="See activities" data-kind="site" aria-selected="false">Activities</button>
-    <button type="button" role="tab" data-book-tab="food" data-note="Food guides on this site." data-submit="Find food" data-kind="site" aria-selected="false">Food</button>
+    <button type="button" role="tab" data-book-tab="stay" data-note="Partner link. We may earn a commission if you book." data-submit="Search stays" data-kind="partner" aria-selected="true"><span class="stay-tile"><Icon name="bed" /></span><span>Stays</span></button>
+    <button type="button" role="tab" data-book-tab="flight" data-note="Search link. Opens Google Flights." data-submit="Search flights" data-kind="official" aria-selected="false"><span class="stay-tile"><Icon name="plane" /></span><span>Flights</span></button>
+    <button type="button" role="tab" data-book-tab="bus" data-note="Partner link. We may earn a commission if you book." data-submit="Search buses" data-kind="partner" aria-selected="false"><span class="stay-tile"><Icon name="bus" /></span><span>Buses</span></button>
+    <button type="button" role="tab" data-book-tab="train" data-note="Official Vietnam Railways timetable." data-submit="Open the timetable" data-kind="official" aria-selected="false"><span class="stay-tile"><Icon name="train" /></span><span>Trains</span></button>
+    <button type="button" role="tab" data-book-tab="activities" data-note="Itineraries on this site." data-submit="See activities" data-kind="site" aria-selected="false"><span class="stay-tile"><Icon name="flag" /></span><span>Activities</span></button>
+    <button type="button" role="tab" data-book-tab="food" data-note="Food guides on this site." data-submit="Find food" data-kind="site" aria-selected="false"><span class="stay-tile"><Icon name="food" /></span><span>Food</span></button>
   </div>
   <form data-book-form>
     <div data-book-fields="stay">
@@ -106,9 +107,4 @@ const adults = [1, 2, 3, 4, 5, 6];
     <button class="book-submit" type="submit" data-book-submit>Search stays</button>
     <p class="note book-fallback"><a href={stayLink(stayName)} rel="sponsored noopener" target="_blank">Search stays for {stayName} on Agoda</a></p>
   </form>
-</aside>
-<aside class="ad-slot" aria-label="Advertising">
-  <small>Advertising</small>
-  <p>This space is reserved. Display ads are not switched on.</p>
-  <p><a href="/about/partners">How partner links work</a></p>
 </aside>

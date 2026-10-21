@@ -16,7 +16,7 @@ Store a dossier in `research/<slug>/` before any Graphic and Copy pass. `da-nang
 
 ## Open, in order
 
-1. Dish records already named in copy but missing as pages: Hoi An white rose and com ga; Hue banh beo and com hen.
+1. Dish records already named in copy but missing as pages: Hoi An white rose; Hue com hen. Com ga and banh beo now have pages.
 3. Recurring events with no festival record: Hue Festival, Phong Nha cave-festival dates. Confirm this year’s dates before writing `when`.
 4. Thin attraction lists. Add one sourced sight at a time, only after a fee and a getting-there note exist or are marked “Check on arrival”. Candidates: a named royal tomb in Hue, Dark Cave. Son Tra and the Cham Museum are now on Da Nang.
 5. Candidate places. Do not add a slug until the owner accepts it: Dong Hoi (the Phong Nha gateway), Lang Co, Cham Islands.
@@ -38,3 +38,5 @@ Store a dossier in `research/<slug>/` before any Graphic and Copy pass. `da-nang
 - 19 Oct 2026 — Da Nang rewrite. Banner replaced (the old file was a marine photograph). Added Dragon Bridge and Ba Na Hills. Ba Na fee and the bridge’s fire show are check on arrival. Food guide expanded around markets, not named stalls.
 - 20 Oct 2026 — Da Nang dossier stored in `research/da-nang/`. Copy pass used it. Cham Museum 60,000 VND (Resolution 47/2026). Marble Mountains Thuy Son 40,000 VND. Ba Na basic adult ticket 1,000,000 VND. DIFF 2026 nights recorded. Next year’s fireworks dates, the Cham door time, and the dragon-show length stay open.
 - 20 Oct 2026 — Ba Na Hills rewritten to the attraction-page standard. Adult price unchanged. Child, senior, and resident bands, 08:00–22:00, and the night-combo shuttle added from the operator price page and the city list. Drive minutes stay check on arrival. Other sights stay stubs until their own pass.
+- 20 Oct 2026 — Da Nang scene pass. An Thuong, Kalà Kalà (51 Vo Nguyen Giap, free entry), and East West (beachfront, 08:00–01:00) added from their own pages. Hero replaced with My Khe surf and the resort front. East West’s street, Kalà Kalà’s closing hour, and an An Thuong night-street photo stay open.
+- 20 Oct 2026 — Da Nang food guide expanded from the owner’s shop list. Fine-dining and bar streets checked on the venues’ own pages and the Michelin guide. Firebirds Vietnamese Craft has no street yet. Com ga and banh beo added as dish pages. White rose and com hen stay open.
