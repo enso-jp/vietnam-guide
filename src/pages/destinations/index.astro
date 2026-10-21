@@ -11,7 +11,7 @@ const corridors = corridorsNorthToSouth();
 const places = getPlaces().filter((place) => !place.parent).sort(compareRecommended);
 const mainPlaces = places.slice(0, 9);
 const description = pageDescription(
-  'Five travel corridors from northern Vietnam to the Mekong Delta, then the main places in each.',
+  'Six tourism regions from the northern mountains to the Mekong Delta, then the main places in each.',
   'Province borders changed in 2025. The place names did not.',
 );
 ---
@@ -20,7 +20,7 @@ const description = pageDescription(
     <Crumbs items={[{ name: 'Destinations' }]} />
     <p class="eyebrow">Find your destination</p>
     <h1>Destinations</h1>
-    <p class="lede">Five corridors, from the northern mountains to the Mekong. Province borders changed in 2025. The place names did not.</p>
+    <p class="lede">Six regions, from the northern mountains to the Mekong. Province borders changed in 2025. The place names did not.</p>
 
     <section class="atlas" aria-label="Regions">
       <div class="atlas-cards">

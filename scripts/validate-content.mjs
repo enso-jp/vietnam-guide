@@ -164,11 +164,12 @@ const DIRECTIONS = new Set(['north-to-south', 'south-to-north', 'out-of-da-nang'
 const APPROACH_MODES = new Set(['walk', 'bicycle', 'grab', 'taxi', 'boat', 'bus']);
 const NATIONWIDE_DAYS = new Set([10, 14, 18, 21]);
 const REGION_DAYS = {
-  'northern-vietnam': new Set([5, 7, 9]),
-  'central-coast': new Set([4, 5, 7]),
+  'northern-midlands': new Set([5, 7, 9]),
+  'red-river-delta': new Set([5, 7, 9]),
+  'north-central': new Set([4, 5, 7]),
+  'south-central-highlands': new Set([4, 5, 7]),
   southeast: new Set([4]),
   'mekong-delta': new Set([4, 5]),
-  'highlands-coast': new Set([4]),
 };
 // south-5-days spans three corridors until the split records exist.
 const REGION_CHOOSER = 'south-5-days';

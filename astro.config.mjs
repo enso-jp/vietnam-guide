@@ -11,6 +11,9 @@ export default defineConfig({
   redirects: {
     '/interests/oldTowns': '/interests/old-towns',
     '/interests/warHistory': '/interests/war-history',
+    '/destinations/northern-vietnam': '/destinations',
+    '/destinations/central-coast': '/destinations',
+    '/destinations/highlands-coast': '/destinations/south-central-highlands',
   },
   build: {
     inlineStylesheets: 'auto',

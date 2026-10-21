@@ -1,3 +1,4 @@
+// Legacy silhouette paths. The live map uses province outlines in vietnam-provinces.ts.
 // Generated from Natural Earth 50m. Do not hand-edit the path strings.
 export const vietnamViewBox = '0 0 448.8 557.6';
 /** Homepage frame: same projection, extended east and south for Hoang Sa and Truong Sa. */
@@ -10,22 +11,22 @@ export const vietnamRegions: { slug: string; name: string; fill: string; d: stri
   { slug: 'mekong-delta', name: 'Mekong Delta', fill: '#cfe3d8', d: 'M236.5 463.4L236.6 464.2L226.6 464.2L235.6 467.7L237.5 470.3L231.1 479.1L215.4 466.8L228.1 480.4L230.3 486.5L227.3 489.3L223.7 489.4L205.1 474.3L216.2 488.1L217.8 491.2L216.5 494.8L193.8 505.1L187.8 515.1L180.7 520.9L169.0 522.0L173.3 516.9L170.6 515.0L171.5 487.7L173.5 480.5L179.9 477.7L179.7 474.4L170.1 467.4L165.4 468.5L160.3 463.4ZM231.8 519.1L230.1 518.5L233.2 516.2L233.0 518.5ZM145.0 461.0L145.4 466.7L143.4 473.3L141.2 466.0L137.7 461.7L139.3 461.8L142.3 459.8Z', label: { x: 196.0, y: 538.0 } },
 ];
 export const vietnamCities: { slug: string; name: string; region: string; x: number; y: number; lx: number; ly: number; anchor: 'start' | 'end' }[] = [
-  { slug: 'sapa', name: 'Sapa', region: 'northern-vietnam', x: 137.5, y: 54.9, lx: 144.5, ly: 51.9, anchor: 'start' },
-  { slug: 'ha-giang', name: 'Ha Giang', region: 'northern-vietnam', x: 176.2, y: 38.3, lx: 182.2, ly: 28.3, anchor: 'start' },
-  { slug: 'hanoi', name: 'Hanoi', region: 'northern-vietnam', x: 205.8, y: 99.3, lx: 198.0, ly: 86.0, anchor: 'end' },
-  { slug: 'ha-long', name: 'Ha Long Bay', region: 'northern-vietnam', x: 251.0, y: 103.4, lx: 260.0, ly: 84.0, anchor: 'start' },
-  { slug: 'cat-ba', name: 'Cat Ba', region: 'northern-vietnam', x: 246.6, y: 109.5, lx: 258.0, ly: 124.0, anchor: 'start' },
-  { slug: 'mai-chau', name: 'Mai Chau', region: 'northern-vietnam', x: 179.9, y: 111.5, lx: 170.0, ly: 118.0, anchor: 'end' },
-  { slug: 'ninh-binh', name: 'Ninh Binh', region: 'northern-vietnam', x: 209.9, y: 125.8, lx: 200.0, ly: 154.0, anchor: 'end' },
-  { slug: 'tam-coc', name: 'Tam Coc', region: 'northern-vietnam', x: 208.5, y: 126.9, lx: 220.0, ly: 170.0, anchor: 'start' },
-  { slug: 'phong-nha', name: 'Phong Nha', region: 'central-coast', x: 220.4, y: 216.5, lx: 211.4, ly: 220.5, anchor: 'end' },
-  { slug: 'hue', name: 'Hue', region: 'central-coast', x: 264.9, y: 254.6, lx: 273.9, ly: 242.0, anchor: 'start' },
-  { slug: 'da-nang', name: 'Da Nang', region: 'central-coast', x: 285.7, y: 268.5, lx: 294.7, ly: 265.5, anchor: 'start' },
-  { slug: 'hoi-an', name: 'Hoi An', region: 'central-coast', x: 290.3, y: 274.4, lx: 299.3, ly: 286.4, anchor: 'start' },
-  { slug: 'my-son', name: 'My Son', region: 'central-coast', x: 283.1, y: 278.5, lx: 274.0, ly: 300.0, anchor: 'end' },
-  { slug: 'nha-trang', name: 'Nha Trang', region: 'highlands-coast', x: 319.5, y: 398.2, lx: 327.5, ly: 402.2, anchor: 'start' },
-  { slug: 'da-lat', name: 'Da Lat', region: 'highlands-coast', x: 293.7, y: 408.3, lx: 276.0, ly: 418.0, anchor: 'end' },
-  { slug: 'mui-ne', name: 'Mui Ne', region: 'highlands-coast', x: 288.6, y: 441.8, lx: 304.0, ly: 468.0, anchor: 'start' },
+  { slug: 'sapa', name: 'Sapa', region: 'northern-midlands', x: 137.5, y: 54.9, lx: 144.5, ly: 51.9, anchor: 'start' },
+  { slug: 'ha-giang', name: 'Ha Giang', region: 'northern-midlands', x: 176.2, y: 38.3, lx: 182.2, ly: 28.3, anchor: 'start' },
+  { slug: 'hanoi', name: 'Hanoi', region: 'red-river-delta', x: 205.8, y: 99.3, lx: 198.0, ly: 86.0, anchor: 'end' },
+  { slug: 'ha-long', name: 'Ha Long Bay', region: 'red-river-delta', x: 251.0, y: 103.4, lx: 260.0, ly: 84.0, anchor: 'start' },
+  { slug: 'cat-ba', name: 'Cat Ba', region: 'red-river-delta', x: 246.6, y: 109.5, lx: 258.0, ly: 124.0, anchor: 'start' },
+  { slug: 'mai-chau', name: 'Mai Chau', region: 'northern-midlands', x: 179.9, y: 111.5, lx: 170.0, ly: 118.0, anchor: 'end' },
+  { slug: 'ninh-binh', name: 'Ninh Binh', region: 'red-river-delta', x: 209.9, y: 125.8, lx: 200.0, ly: 154.0, anchor: 'end' },
+  { slug: 'tam-coc', name: 'Tam Coc', region: 'red-river-delta', x: 208.5, y: 126.9, lx: 220.0, ly: 170.0, anchor: 'start' },
+  { slug: 'phong-nha', name: 'Phong Nha', region: 'north-central', x: 220.4, y: 216.5, lx: 211.4, ly: 220.5, anchor: 'end' },
+  { slug: 'hue', name: 'Hue', region: 'north-central', x: 264.9, y: 254.6, lx: 273.9, ly: 242.0, anchor: 'start' },
+  { slug: 'da-nang', name: 'Da Nang', region: 'south-central-highlands', x: 285.7, y: 268.5, lx: 294.7, ly: 265.5, anchor: 'start' },
+  { slug: 'hoi-an', name: 'Hoi An', region: 'south-central-highlands', x: 290.3, y: 274.4, lx: 299.3, ly: 286.4, anchor: 'start' },
+  { slug: 'my-son', name: 'My Son', region: 'south-central-highlands', x: 283.1, y: 278.5, lx: 274.0, ly: 300.0, anchor: 'end' },
+  { slug: 'nha-trang', name: 'Nha Trang', region: 'south-central-highlands', x: 319.5, y: 398.2, lx: 327.5, ly: 402.2, anchor: 'start' },
+  { slug: 'da-lat', name: 'Da Lat', region: 'south-central-highlands', x: 293.7, y: 408.3, lx: 276.0, ly: 418.0, anchor: 'end' },
+  { slug: 'mui-ne', name: 'Mui Ne', region: 'south-central-highlands', x: 288.6, y: 441.8, lx: 304.0, ly: 468.0, anchor: 'start' },
   { slug: 'cu-chi', name: 'Cu Chi', region: 'southeast', x: 226.7, y: 435.7, lx: 214.0, ly: 404.0, anchor: 'end' },
   { slug: 'ho-chi-minh-city', name: 'Ho Chi Minh City', region: 'southeast', x: 234.6, y: 447.9, lx: 258.0, ly: 438.0, anchor: 'start' },
   { slug: 'can-tho', name: 'Can Tho', region: 'mekong-delta', x: 202.2, y: 472.8, lx: 210.0, ly: 484.0, anchor: 'start' },

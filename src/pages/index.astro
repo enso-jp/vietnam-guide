@@ -9,7 +9,6 @@ import interestPhotos from '../content/interest-photos.json';
 import { attractionsForInterest, corridorsNorthToSouth, getHighlights, getOtherPosts, placePath, placesForInterest, placesInCorridor } from '../lib/content';
 import { photoPath } from '../lib/photos';
 import type { Place } from '../lib/types';
-import { vietnamRegions } from '../lib/vietnam-map';
 
 const photos = interestPhotos as Record<string, string>;
 const highlights = getHighlights();
@@ -19,7 +18,6 @@ const sheet = highlights.slice(1, 4);
 const feature = highlights[4];
 const corridors = corridorsNorthToSouth();
 const activeRegion = corridors[0]?.slug;
-const regionLabel = new Map(vietnamRegions.map((region) => [region.slug, region.name]));
 const stackFor = (slug: string) => {
   const used = new Set<string>();
   const picks: Place[] = [];
@@ -150,11 +148,7 @@ const jsonLd = {
       <div class="region-board">
         <div class="region-map">
           <div class="region-map-frame">
-            <VietnamMap variant="home" active={activeRegion} names={false} />
-            <div class="map-tooltip" data-map-tooltip hidden>
-              <span class="map-tooltip-region" data-map-tooltip-region></span>
-              <strong class="map-tooltip-place" data-map-tooltip-place></strong>
-            </div>
+            <VietnamMap variant="home" active={activeRegion} />
           </div>
           <div class="region-picks" role="tablist" aria-label="Regions">
             {corridors.map((corridor) => (
@@ -165,7 +159,7 @@ const jsonLd = {
                 aria-selected={corridor.slug === activeRegion ? 'true' : 'false'}
                 class:list={[{ 'is-active': corridor.slug === activeRegion }]}
               >
-                {regionLabel.get(corridor.slug) || corridor.name}
+                {corridor.name}
               </button>
             ))}
           </div>
