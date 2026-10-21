@@ -14,3 +14,5 @@ Left out, and not for the public page as a number: hotel street, Phu Bai minutes
 ## Destination standard pass
 
 21 Oct 2026. Public pages now exist for Gia Long, Thieu Tri, Dong Khanh, An Dinh, Nam Giao, Thanh Toan, Tu Hieu, Dieu De, Bao Quoc, Phu Cam, and the Perfume River walk. Bánh khoái and nem lụi have dish pages. Still unpublished: Hon Chen, the Museum of Royal Antiquities, Duc Duc, and the night streets. Unsourced fees and hours stay check on arrival.
+
+21 Oct 2026, attractions lane. Bao Quoc, Dieu De, and Phu Cam were already in `research/hue/attractions/` and are now in the attractions catalog. Commons was checked again for the four unpublished sights. Hon Chen has one hall frame and no second. The museum’s clean frames are a cannon yard or a group of people. Duc Duc has one hall frame; the gate sits behind a fence. The night streets have no licensed still. Left out of the public pages.

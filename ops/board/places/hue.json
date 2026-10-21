@@ -26,14 +26,14 @@
     },
     "destinationCopy": {
       "status": "enriched",
-      "note": "Prose and hero are from the dossier. Hero is Ky Dai, not the river front. Season is in the season field. Interest cards are Hue titles.",
-      "updated": "2026-10-21T07:41:27.521Z",
+      "note": "Phu Cam is named from the city page: two street numbers, fee check on arrival. Hero stays Ky Dai. Hon Chen, the museum, Duc Duc, and the night streets stay off the cards. Food files were not edited.",
+      "updated": "2026-10-21T09:59:10.636Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "checked",
-      "note": "Read against the dossier. Fees match Resolution 55. Hours say confirm on arrival because the notice timed out. Thien Mu is not marked free. 13 km and about 15 km both stay. No itinerary record was added.",
-      "updated": "2026-10-21T07:41:27.574Z",
+      "note": "Read against the dossier. Phu Cam sentence matches the city page and leaves the fee as check on arrival. Hero is Ky Dai, flag and wall, not a soldier. Fees still match Resolution 55. The four unpublished sights stay off the cards.",
+      "updated": "2026-10-21T09:59:18.499Z",
       "reworkCount": 0
     },
     "food": {
@@ -43,15 +43,15 @@
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "enriched",
+      "status": "stale",
       "note": "Dish lines follow Vietnam Tourism and the culture department. Banh mi unchanged. Neighbor bowls stay in Hoi An and Da Nang.",
-      "updated": "2026-10-21T07:41:27.690Z",
+      "updated": "2026-10-21T09:57:38.775Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "checked",
-      "note": "No invented stall price or shop pick. Com hen has no photo. Banh nam, banh khoai, nem lui, and che stay in the guide prose without new pages.",
-      "updated": "2026-10-21T07:41:27.746Z",
+      "status": "stale",
+      "note": "Dossier changed. Check again after the copy pass.",
+      "updated": "2026-10-21T09:57:38.775Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -62,8 +62,8 @@
     },
     "researchAttractions": {
       "status": "stored",
-      "note": "Left out of the base-layer pages: Gia Long, Dong Khanh, Thieu Tri, Duc Duc, the royal antiquities museum, An Dinh, Hon Chen, Nam Giao, Thanh Toan, Tu Hieu, the flag tower, and Nghinh Luong Dinh. On-site minutes, tomb ride minutes, and Thien Mu's fee stay check on arrival.",
-      "updated": "2026-10-21T07:21:25.471Z",
+      "note": "Left out: Hon Chen (one hall frame; river views are a speck), the royal antiquities museum (cannon yard and people photos rejected), Duc Duc (one hall frame; the gate is behind a fence; address lines disagree), and the night streets (no licensed night photo). Bao Quoc, Dieu De, and Phu Cam were already sourced.",
+      "updated": "2026-10-21T09:57:38.775Z",
       "reworkCount": 0
     },
     "researchFood": {
@@ -104,8 +104,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Fee and hours match the dossier. Existing dots unchanged. Open gaps stay on the page as check on arrival.",
-      "updated": "2026-10-21T07:41:27.933Z",
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing.",
+      "updated": "2026-10-21T10:00:03.029Z",
       "reworkCount": 0
     },
     {
@@ -120,8 +120,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Fee and hours match the dossier. Existing dots unchanged. Open gaps stay on the page as check on arrival.",
-      "updated": "2026-10-21T07:41:28.108Z",
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing.",
+      "updated": "2026-10-21T10:00:03.219Z",
       "reworkCount": 0
     },
     {
@@ -136,8 +136,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Fee and hours match the dossier. Existing dots unchanged. Open gaps stay on the page as check on arrival.",
-      "updated": "2026-10-21T07:41:28.286Z",
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing.",
+      "updated": "2026-10-21T10:00:03.417Z",
       "reworkCount": 0
     },
     {
@@ -216,8 +216,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Published 21 Oct 2026. Unsourced minutes stay check on arrival. Existing dots unchanged.",
-      "updated": "2026-10-21T09:03:09.694Z",
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing.",
+      "updated": "2026-10-21T10:00:03.593Z",
       "reworkCount": 0
     },
     {
@@ -233,7 +233,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Left out of the base-layer pages. The dossier has the source. The place, the citadel, or the food guide carries it.",
-      "updated": "2026-10-21T07:21:25.880Z",
+      "updated": "2026-10-21T09:57:38.775Z",
       "reworkCount": 0
     },
     {
@@ -249,7 +249,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Left out of the base-layer pages. The dossier has the source. The place, the citadel, or the food guide carries it.",
-      "updated": "2026-10-21T07:21:25.880Z",
+      "updated": "2026-10-21T09:57:38.775Z",
       "reworkCount": 0
     },
     {
@@ -265,7 +265,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Left out of the base-layer pages. The dossier has the source. The place, the citadel, or the food guide carries it.",
-      "updated": "2026-10-21T07:21:25.880Z",
+      "updated": "2026-10-21T09:57:38.775Z",
       "reworkCount": 0
     },
     {
@@ -281,7 +281,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Left out of the base-layer pages. The dossier has the source. The place, the citadel, or the food guide carries it.",
-      "updated": "2026-10-21T07:21:25.880Z",
+      "updated": "2026-10-21T09:57:38.775Z",
       "reworkCount": 0
     },
     {
@@ -297,7 +297,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Left out of the base-layer pages. The dossier has the source. The place, the citadel, or the food guide carries it.",
-      "updated": "2026-10-21T07:21:25.880Z",
+      "updated": "2026-10-21T09:57:38.775Z",
       "reworkCount": 0
     },
     {
@@ -313,7 +313,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Left out of the base-layer pages. The dossier has the source. The place, the citadel, or the food guide carries it.",
-      "updated": "2026-10-21T07:21:25.880Z",
+      "updated": "2026-10-21T09:57:38.775Z",
       "reworkCount": 0
     },
     {
@@ -329,7 +329,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Left out of the base-layer pages. The dossier has the source. The place, the citadel, or the food guide carries it.",
-      "updated": "2026-10-21T07:21:25.880Z",
+      "updated": "2026-10-21T09:57:38.775Z",
       "reworkCount": 0
     },
     {
@@ -344,8 +344,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Fee and hours match the dossier. Existing dots unchanged. Open gaps stay on the page as check on arrival.",
-      "updated": "2026-10-21T07:41:28.482Z",
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing.",
+      "updated": "2026-10-21T10:00:03.752Z",
       "reworkCount": 0
     },
     {
@@ -360,8 +360,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Fee and hours match the dossier. Existing dots unchanged. Open gaps stay on the page as check on arrival.",
-      "updated": "2026-10-21T07:41:28.663Z",
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing.",
+      "updated": "2026-10-21T10:00:03.923Z",
       "reworkCount": 0
     },
     {
@@ -376,8 +376,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Published 21 Oct 2026. Unsourced minutes stay check on arrival. Existing dots unchanged.",
-      "updated": "2026-10-21T09:03:09.494Z",
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing.",
+      "updated": "2026-10-21T10:00:04.085Z",
       "reworkCount": 0
     },
     {
@@ -392,8 +392,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Published 21 Oct 2026. Unsourced minutes stay check on arrival. Existing dots unchanged.",
-      "updated": "2026-10-21T09:03:09.550Z",
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing.",
+      "updated": "2026-10-21T10:00:04.253Z",
       "reworkCount": 0
     },
     {
@@ -408,8 +408,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Published 21 Oct 2026. Unsourced minutes stay check on arrival. Existing dots unchanged.",
-      "updated": "2026-10-21T09:03:09.522Z",
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing.",
+      "updated": "2026-10-21T10:00:04.415Z",
       "reworkCount": 0
     },
     {
@@ -425,7 +425,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Left out of the base-layer pages. The dossier has the source. The place, the citadel, or the food guide carries it.",
-      "updated": "2026-10-21T07:21:25.880Z",
+      "updated": "2026-10-21T09:57:38.775Z",
       "reworkCount": 0
     },
     {
@@ -441,7 +441,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Left out of the base-layer pages. The dossier has the source. The place, the citadel, or the food guide carries it.",
-      "updated": "2026-10-21T07:21:25.880Z",
+      "updated": "2026-10-21T09:57:38.775Z",
       "reworkCount": 0
     },
     {
@@ -456,8 +456,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Published 21 Oct 2026. Unsourced minutes stay check on arrival. Existing dots unchanged.",
-      "updated": "2026-10-21T09:03:09.579Z",
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing.",
+      "updated": "2026-10-21T10:00:04.576Z",
       "reworkCount": 0
     },
     {
@@ -473,7 +473,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Left out of the base-layer pages. The dossier has the source. The place, the citadel, or the food guide carries it.",
-      "updated": "2026-10-21T07:21:25.880Z",
+      "updated": "2026-10-21T09:57:38.775Z",
       "reworkCount": 0
     },
     {
@@ -488,8 +488,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Published 21 Oct 2026. Unsourced minutes stay check on arrival. Existing dots unchanged.",
-      "updated": "2026-10-21T09:03:09.609Z",
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing.",
+      "updated": "2026-10-21T10:00:04.748Z",
       "reworkCount": 0
     },
     {
@@ -504,8 +504,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Published 21 Oct 2026. Unsourced minutes stay check on arrival. Existing dots unchanged.",
-      "updated": "2026-10-21T09:03:09.634Z",
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing.",
+      "updated": "2026-10-21T10:00:04.917Z",
       "reworkCount": 0
     },
     {
@@ -520,8 +520,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Published 21 Oct 2026. Unsourced minutes stay check on arrival. Existing dots unchanged.",
-      "updated": "2026-10-21T09:03:09.665Z",
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing.",
+      "updated": "2026-10-21T10:00:05.086Z",
       "reworkCount": 0
     },
     {
@@ -537,7 +537,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Left out of the base-layer pages. The dossier has the source. The place, the citadel, or the food guide carries it.",
-      "updated": "2026-10-21T07:21:25.880Z",
+      "updated": "2026-10-21T09:57:38.775Z",
       "reworkCount": 0
     },
     {
@@ -553,7 +553,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Left out of the base-layer pages. The dossier has the source. The place, the citadel, or the food guide carries it.",
-      "updated": "2026-10-21T07:21:25.880Z",
+      "updated": "2026-10-21T09:57:38.775Z",
       "reworkCount": 0
     },
     {
@@ -569,7 +569,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Left out of the base-layer pages. The dossier has the source. The place, the citadel, or the food guide carries it.",
-      "updated": "2026-10-21T07:21:25.880Z",
+      "updated": "2026-10-21T09:57:38.775Z",
       "reworkCount": 0
     },
     {
@@ -585,7 +585,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Left out of the base-layer pages. The dossier has the source. The place, the citadel, or the food guide carries it.",
-      "updated": "2026-10-21T07:21:25.880Z",
+      "updated": "2026-10-21T09:57:38.775Z",
       "reworkCount": 0
     },
     {
@@ -601,7 +601,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Left out of the base-layer pages. The dossier has the source. The place, the citadel, or the food guide carries it.",
-      "updated": "2026-10-21T07:21:25.880Z",
+      "updated": "2026-10-21T09:57:38.775Z",
       "reworkCount": 0
     },
     {
@@ -697,7 +697,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Left out of the base-layer pages. The dossier has the source. The place, the citadel, or the food guide carries it.",
-      "updated": "2026-10-21T07:21:25.880Z",
+      "updated": "2026-10-21T09:57:38.775Z",
       "reworkCount": 0
     },
     {
@@ -713,7 +713,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Left out of the base-layer pages. The dossier has the source. The place, the citadel, or the food guide carries it.",
-      "updated": "2026-10-21T07:21:25.880Z",
+      "updated": "2026-10-21T09:57:38.775Z",
       "reworkCount": 0
     },
     {
@@ -729,7 +729,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Left out of the base-layer pages. The dossier has the source. The place, the citadel, or the food guide carries it.",
-      "updated": "2026-10-21T07:21:25.880Z",
+      "updated": "2026-10-21T09:57:38.775Z",
       "reworkCount": 0
     },
     {
@@ -756,12 +756,12 @@
       "slug": "bao-quoc",
       "file": "src/content/attractions/hue--bao-quoc.json",
       "source": "published",
-      "research": "not_started",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "research": "stored",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing.",
+      "updated": "2026-10-21T10:00:05.338Z",
       "reworkCount": 0
     },
     {
@@ -772,12 +772,12 @@
       "slug": "dieu-de",
       "file": "src/content/attractions/hue--dieu-de.json",
       "source": "published",
-      "research": "not_started",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "research": "stored",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing.",
+      "updated": "2026-10-21T10:00:05.595Z",
       "reworkCount": 0
     },
     {
@@ -788,12 +788,12 @@
       "slug": "phu-cam",
       "file": "src/content/attractions/hue--phu-cam.json",
       "source": "published",
-      "research": "not_started",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "research": "stored",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing.",
+      "updated": "2026-10-21T10:00:05.835Z",
       "reworkCount": 0
     },
     {
@@ -846,174 +846,167 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "hue",
-    "stage": "researchAttractions",
-    "item": null,
-    "at": "2026-10-21T09:53:15.987Z",
-    "by": "hue-finish",
-    "branch": "cursor/hue-finish-f1fb"
-  },
+  "claim": null,
   "log": [
     {
-      "at": "2026-10-21T07:41:28.663Z",
+      "at": "2026-10-21T10:00:05.835Z",
       "place": "hue",
       "stage": "quality",
-      "item": "hue--khai-dinh",
+      "item": "hue--phu-cam",
       "status": "checked",
-      "note": "Fee and hours match the dossier. Existing dots unchanged. Open gaps stay on the page as check on arrival."
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing."
     },
     {
-      "at": "2026-10-21T07:41:28.607Z",
+      "at": "2026-10-21T10:00:05.756Z",
       "place": "hue",
       "stage": "copy",
-      "item": "hue--khai-dinh",
+      "item": "hue--phu-cam",
       "status": "enriched",
-      "note": "Kicker, notice, body, second photo, and getting there are filled. Unsourced minutes stay check on arrival."
+      "note": "No new fact for this sight in the attractions lane. Photos opened and kept. Unsourced hours stay check on arrival."
     },
     {
-      "at": "2026-10-21T07:41:28.547Z",
+      "at": "2026-10-21T10:00:05.676Z",
       "place": "hue",
       "stage": "page",
-      "item": "hue--khai-dinh",
+      "item": "hue--phu-cam",
       "status": "paged",
-      "note": "Finished sight page from the stored attraction dossier."
+      "note": "Page already matches the stored attraction dossier. Unsourced fee or hours stay check on arrival. Dots unchanged."
     },
     {
-      "at": "2026-10-21T07:41:28.482Z",
+      "at": "2026-10-21T10:00:05.595Z",
       "place": "hue",
       "stage": "quality",
-      "item": "hue--minh-mang",
+      "item": "hue--dieu-de",
       "status": "checked",
-      "note": "Fee and hours match the dossier. Existing dots unchanged. Open gaps stay on the page as check on arrival."
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing."
     },
     {
-      "at": "2026-10-21T07:41:28.413Z",
+      "at": "2026-10-21T10:00:05.509Z",
       "place": "hue",
       "stage": "copy",
-      "item": "hue--minh-mang",
+      "item": "hue--dieu-de",
       "status": "enriched",
-      "note": "Kicker, notice, body, second photo, and getting there are filled. Unsourced minutes stay check on arrival."
+      "note": "No new fact for this sight in the attractions lane. Photos opened and kept. Unsourced hours stay check on arrival."
     },
     {
-      "at": "2026-10-21T07:41:28.348Z",
+      "at": "2026-10-21T10:00:05.424Z",
       "place": "hue",
       "stage": "page",
-      "item": "hue--minh-mang",
+      "item": "hue--dieu-de",
       "status": "paged",
-      "note": "Finished sight page from the stored attraction dossier."
+      "note": "Page already matches the stored attraction dossier. Unsourced fee or hours stay check on arrival. Dots unchanged."
     },
     {
-      "at": "2026-10-21T07:41:28.286Z",
+      "at": "2026-10-21T10:00:05.338Z",
       "place": "hue",
       "stage": "quality",
-      "item": "hue--thien-mu",
+      "item": "hue--bao-quoc",
       "status": "checked",
-      "note": "Fee and hours match the dossier. Existing dots unchanged. Open gaps stay on the page as check on arrival."
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing."
     },
     {
-      "at": "2026-10-21T07:41:28.222Z",
+      "at": "2026-10-21T10:00:05.253Z",
       "place": "hue",
       "stage": "copy",
-      "item": "hue--thien-mu",
+      "item": "hue--bao-quoc",
       "status": "enriched",
-      "note": "Kicker, notice, body, second photo, and getting there are filled. Unsourced minutes stay check on arrival."
+      "note": "No new fact for this sight in the attractions lane. Photos opened and kept. Unsourced hours stay check on arrival."
     },
     {
-      "at": "2026-10-21T07:41:28.161Z",
+      "at": "2026-10-21T10:00:05.169Z",
       "place": "hue",
       "stage": "page",
-      "item": "hue--thien-mu",
+      "item": "hue--bao-quoc",
       "status": "paged",
-      "note": "Finished sight page from the stored attraction dossier."
+      "note": "Page already matches the stored attraction dossier. Unsourced fee or hours stay check on arrival. Dots unchanged."
     },
     {
-      "at": "2026-10-21T07:41:28.108Z",
+      "at": "2026-10-21T10:00:05.086Z",
       "place": "hue",
       "stage": "quality",
-      "item": "hue--khiem",
+      "item": "hue--tu-hieu",
       "status": "checked",
-      "note": "Fee and hours match the dossier. Existing dots unchanged. Open gaps stay on the page as check on arrival."
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing."
     },
     {
-      "at": "2026-10-21T07:41:28.045Z",
+      "at": "2026-10-21T10:00:05.003Z",
       "place": "hue",
       "stage": "copy",
-      "item": "hue--khiem",
+      "item": "hue--tu-hieu",
       "status": "enriched",
-      "note": "Kicker, notice, body, second photo, and getting there are filled. Unsourced minutes stay check on arrival."
+      "note": "No new fact for this sight in the attractions lane. Photos opened and kept. Unsourced hours stay check on arrival."
     },
     {
-      "at": "2026-10-21T07:41:27.991Z",
-      "place": "hue",
-      "stage": "page",
-      "item": "hue--khiem",
-      "status": "paged",
-      "note": "Finished sight page from the stored attraction dossier."
-    },
-    {
-      "at": "2026-10-21T07:41:27.933Z",
+      "at": "2026-10-21T10:00:04.917Z",
       "place": "hue",
       "stage": "quality",
-      "item": "hue--citadel",
+      "item": "hue--thanh-toan",
       "status": "checked",
-      "note": "Fee and hours match the dossier. Existing dots unchanged. Open gaps stay on the page as check on arrival."
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing."
     },
     {
-      "at": "2026-10-21T07:41:27.866Z",
+      "at": "2026-10-21T10:00:04.831Z",
       "place": "hue",
       "stage": "copy",
-      "item": "hue--citadel",
+      "item": "hue--thanh-toan",
       "status": "enriched",
-      "note": "Kicker, notice, body, second photo, and getting there are filled. Unsourced minutes stay check on arrival."
+      "note": "No new fact for this sight in the attractions lane. Photos opened and kept. Unsourced hours stay check on arrival."
     },
     {
-      "at": "2026-10-21T07:41:27.805Z",
+      "at": "2026-10-21T10:00:04.748Z",
       "place": "hue",
-      "stage": "page",
-      "item": "hue--citadel",
-      "status": "paged",
-      "note": "Finished sight page from the stored attraction dossier."
-    },
-    {
-      "at": "2026-10-21T07:41:27.746Z",
-      "place": "hue",
-      "stage": "foodQuality",
-      "item": null,
+      "stage": "quality",
+      "item": "hue--nam-giao",
       "status": "checked",
-      "note": "No invented stall price or shop pick. Com hen has no photo. Banh nam, banh khoai, nem lui, and che stay in the guide prose without new pages."
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing."
     },
     {
-      "at": "2026-10-21T07:41:27.690Z",
+      "at": "2026-10-21T10:00:04.665Z",
       "place": "hue",
-      "stage": "foodCopy",
-      "item": null,
+      "stage": "copy",
+      "item": "hue--nam-giao",
       "status": "enriched",
-      "note": "Dish lines follow Vietnam Tourism and the culture department. Banh mi unchanged. Neighbor bowls stay in Hoi An and Da Nang."
+      "note": "No new fact for this sight in the attractions lane. Photos opened and kept. Unsourced hours stay check on arrival."
     },
     {
-      "at": "2026-10-21T07:41:27.630Z",
+      "at": "2026-10-21T10:00:04.576Z",
       "place": "hue",
-      "stage": "food",
-      "item": null,
-      "status": "paged",
-      "note": "Food guide names Dong Ba, Hen Island, and Kim Long. No shop picks and no stall prices. Com hen has a page and no photo."
-    },
-    {
-      "at": "2026-10-21T07:41:27.574Z",
-      "place": "hue",
-      "stage": "destinationQuality",
-      "item": null,
+      "stage": "quality",
+      "item": "hue--an-dinh",
       "status": "checked",
-      "note": "Read against the dossier. Fees match Resolution 55. Hours say confirm on arrival because the notice timed out. Thien Mu is not marked free. 13 km and about 15 km both stay. No itinerary record was added."
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing."
     },
     {
-      "at": "2026-10-21T07:41:27.521Z",
+      "at": "2026-10-21T10:00:04.496Z",
       "place": "hue",
-      "stage": "destinationCopy",
-      "item": null,
+      "stage": "copy",
+      "item": "hue--an-dinh",
       "status": "enriched",
-      "note": "Prose and hero are from the dossier. Hero is Ky Dai, not the river front. Season is in the season field. Interest cards are Hue titles."
+      "note": "No new fact for this sight in the attractions lane. Photos opened and kept. Unsourced hours stay check on arrival."
+    },
+    {
+      "at": "2026-10-21T10:00:04.415Z",
+      "place": "hue",
+      "stage": "quality",
+      "item": "hue--thieu-tri",
+      "status": "checked",
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing."
+    },
+    {
+      "at": "2026-10-21T10:00:04.334Z",
+      "place": "hue",
+      "stage": "copy",
+      "item": "hue--thieu-tri",
+      "status": "enriched",
+      "note": "No new fact for this sight in the attractions lane. Photos opened and kept. Unsourced hours stay check on arrival."
+    },
+    {
+      "at": "2026-10-21T10:00:04.253Z",
+      "place": "hue",
+      "stage": "quality",
+      "item": "hue--dong-khanh",
+      "status": "checked",
+      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing."
     }
   ]
 }
