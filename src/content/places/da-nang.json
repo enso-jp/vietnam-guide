@@ -160,6 +160,46 @@
       ]
     },
     {
+      "title": "Shopping",
+      "summary": "Fish sauce, dried food, clothes, and hand-sewn áo dài at Han Market. The frame is the produce wing.",
+      "blocks": [
+        {
+          "id": "han",
+          "heading": "Han Market",
+          "nav": "Han Market",
+          "paragraphs": [
+            "The 28 September 2024 city page puts the hall near the swing bridge, between Trần Phú, Bạch Đằng, Hùng Vương, and Nguyễn Thái Học. It says the market was rebuilt in 1990 on two floors and about 3,000 m². It names shoes, clothes, bags, fabrics, and souvenirs, and says a hand-sewn áo dài can be picked up within an hour. The same page names fresh seafood, fruit, fish sauce, and dried central-coast food. This frame is the produce wing, under the sign for khu rau quả.",
+            "The 9 October 2023 markets page prints 119 Trần Phú and 06:00 to 19:00, and it names Nguyễn Văn Linh as the fourth street instead of Nguyễn Thái Học. The 2024 page prints no clock. Treat 06:00 to 19:00 as that 2023 line, and read the board. No gate fee is printed. The áo dài price is check on arrival."
+          ]
+        },
+        {
+          "id": "stone",
+          "heading": "Stone at the foot of the hills",
+          "nav": "Non Nuoc",
+          "paragraphs": [
+            "Non Nước, the stone-carving village at the foot of the Marble Mountains, was listed as national intangible cultural heritage in 2014. The city portal traces the craft to at least the 17th century. No village ticket is printed on the hill pages. The fee is check on arrival. There is no separate page, and no licensed workshop photograph was added here, so it is not a card."
+          ]
+        },
+        {
+          "id": "night",
+          "heading": "Night stalls with goods",
+          "nav": "Night stalls",
+          "paragraphs": [
+            "The 9 October 2023 markets page describes souvenir stalls at the Sơn Trà night market and OCOP goods at An Thượng 4. On that page Sơn Trà is at Mai Hắc Đế, 18:00 to 23:00. VietnamPlus on 22 August 2025 says the market has been on the east bank of the Dragon Bridge since 1 August 2025 and does not print a close. Confirm the site that night. An Thượng 4 is printed as about 40 stalls, 17:00 to 23:00, free entry, on the 2023 page only. Neither has a licensed stall photograph here, so neither is a card. Eating at those stalls is the food guide."
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "title": "Han Market",
+          "summary": "Shoes, clothes, fabrics, souvenirs, and a hand-sewn áo dài on the 2024 page, plus fish sauce and dried food. This frame is the produce wing. The 2023 clock is 06:00 to 19:00. The 2024 page prints none. No gate fee is printed.",
+          "attractionSlug": "han-market",
+          "photo": "da-nang-han-market-2",
+          "block": "han"
+        }
+      ]
+    },
+    {
       "title": "Resort Living",
       "summary": "InterContinental on Son Tra, Hyatt Regency at Non Nuoc, Pullman on My Khe, and Furama on Vo Nguyen Giap.",
       "cards": [

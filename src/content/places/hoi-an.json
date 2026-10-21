@@ -174,6 +174,54 @@
       ]
     },
     {
+      "title": "Shopping",
+      "summary": "Clay from Thanh Hà and carved wood from Kim Bồng. The silk village on the 2018 list has no licensed photograph, so it stays in the text.",
+      "blocks": [
+        {
+          "id": "clay",
+          "heading": "Thanh Hà clay",
+          "nav": "Pottery",
+          "paragraphs": [
+            "The craft index places Thanh Hà in khối Nam Diêu, Thanh Hà ward, 3 kilometres west-southwest of the old town. A heritage article says about 3 kilometres west, on the Thu Bồn, and dates the trade to more than 500 years. It says the village made the yin-yang roof tiles on the old houses. The small red animals in the frame are clay from that village.",
+            "No fee and no door hours are printed. Both are check on arrival. This is not the Museum of Trade Ceramics on Trần Phú."
+          ]
+        },
+        {
+          "id": "wood",
+          "heading": "Kim Bồng wood",
+          "nav": "Wood",
+          "paragraphs": [
+            "Kim Bồng sits on the south bank of the Thu Bồn, opposite the old town. The heritage page dates the village to about the 16th century and names four trades: building wood, household wood, boats, and decorative carving. The carved heads are that last trade. On 21 November 2016 the ministry listed the village as national intangible heritage.",
+            "The page says to buy a visit ticket and does not print the price. The crossing from the old town is not printed either. Both are check on arrival."
+          ]
+        },
+        {
+          "id": "silk",
+          "heading": "The silk village",
+          "nav": "Silk",
+          "paragraphs": [
+            "A 2 May 2018 heritage note recognised Làng lụa Hội An, at 28 Nguyễn Tất Thành, as a local tourism site, on the same list as Kim Bồng and Thanh Hà. The note does not say what the house sells, and it prints no fee and no hour. All three are check on arrival. No licensed photograph of that address was found, so it is not a card."
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "title": "Thanh Hà pottery",
+          "summary": "Small clay animals from the village about 3 km west of the old town. The old-house tiles are the same trade. The fee and the hours are check on arrival.",
+          "attractionSlug": "thanh-ha",
+          "photo": "hoi-an-thanh-ha-2",
+          "block": "clay"
+        },
+        {
+          "title": "Kim Bồng carving",
+          "summary": "Decorative carving, one of the four trades the heritage page names. The visit ticket has no printed price. The river crossing is check on arrival.",
+          "attractionSlug": "kim-bong",
+          "photo": "hoi-an-kim-bong-2",
+          "block": "wood"
+        }
+      ]
+    },
+    {
       "title": "Resort Living",
       "summary": "Palm Garden and Victoria on Cua Dai beach.",
       "cards": [

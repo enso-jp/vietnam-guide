@@ -15,7 +15,7 @@
   "fee": "Free to walk",
   "getThere": "Walk north from Hoan Kiem Lake",
   "bestMonths": "October to April",
-  "verified": "19 Oct 2026",
+  "verified": "21 Oct 2026",
   "interests": {
     "food": 5,
     "oldTowns": 5,
@@ -66,6 +66,30 @@
     "The quarter is the food and walking district of Hanoi. It is not the place for quiet temples; those sit a short ride away."
   ],
   "interestGroups": [
+    {
+      "title": "Shopping",
+      "summary": "Bolts of cloth inside Dong Xuan. The lanes outside still carry silk, silver, and herbal medicine on the signs.",
+      "blocks": [
+        {
+          "id": "market",
+          "heading": "Dong Xuan Market",
+          "nav": "Dong Xuan",
+          "paragraphs": [
+            "Dong Xuan is the quarter’s main covered market. The frame is bolts of cloth inside the hall. The sight page says it is useful for a look at wholesale goods more than for souvenirs, and that entry is free. No hour is printed. The hours are check on arrival. Stall prices are check on arrival.",
+            "Outside, the quarter sits on land that was once a cluster of artisan streets. Shop signs still hint at silver, silk, and herbal medicine, even where the ground floors now sell luggage and cafe seats. No single boutique is named here."
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "title": "Dong Xuan Market",
+          "summary": "Bolts of cloth in the covered market. Wholesale goods more than souvenirs, and entry is free, on the sight page. The hours are check on arrival.",
+          "attractionSlug": "dong-xuan",
+          "photo": "old-quarter-dong-xuan-silk",
+          "block": "market"
+        }
+      ]
+    },
     {
       "title": "Walking the lanes",
       "summary": "Walk it in the morning, before the pavements are fully claimed.",
