@@ -9,6 +9,7 @@ import type {
   Place,
   BlogPost,
   FrontPage,
+  InterestPageCopy,
   RiceSite,
   ResortShowcase,
   Route,
@@ -56,6 +57,9 @@ const festivalModules = import.meta.glob('../content/festivals/*.json', {
 const postModules = import.meta.glob('../content/blog/*.json', {
   eager: true,
 }) as Record<string, { default: BlogPost }>;
+const interestCopyModules = import.meta.glob('../content/interests/*.json', {
+  eager: true,
+}) as Record<string, { default: InterestPageCopy }>;
 const frontModules = import.meta.glob('../content/front-page.json', {
   eager: true,
 }) as Record<string, { default: FrontPage }>;
@@ -252,18 +256,17 @@ export function pageDescription(preferred: string, ...more: string[]): string {
   return `${(space >= 70 ? cut.slice(0, space) : cut).trim()}…`;
 }
 
+export function getInterestCopy(key: string): InterestPageCopy | undefined {
+  return load(interestCopyModules).find((item) => item.key === key);
+}
+
 export function interestDescription(key: string): string {
-  if (key === 'resortLiving') {
-    const places = placesForInterest(key).slice(0, 3).map((place) => place.name);
-    const placeBit = places.length ? `Places where a resort stay is part of the trip include ${englishList(places)}.` : '';
-    return pageDescription('Resort Living in Vietnam.', 'Named luxury and premium resorts on leisure coasts.', placeBit);
-  }
+  const copy = getInterestCopy(key);
+  if (copy?.summary) return pageDescription(copy.summary, ...(copy.body || []));
   const label = interestLabels[key] ?? key;
   const places = placesForInterest(key).slice(0, 3).map((place) => place.name);
-  const sights = attractionsForInterest(key).slice(0, 3).map((item) => item.name);
-  const placeBit = places.length ? `Places tagged for it include ${englishList(places)}.` : '';
-  const sightBit = sights.length ? `Sights include ${englishList(sights)}.` : '';
-  return pageDescription(`${label} in Vietnam.`, placeBit, sightBit);
+  const placeBit = places.length ? `Places include ${englishList(places)}.` : '';
+  return pageDescription(`${label} in Vietnam.`, placeBit);
 }
 
 export function childPlaces(parentSlug: string): Place[] {
@@ -447,9 +450,8 @@ export function searchIndex(): SearchItem[] {
     });
   }
   for (const [key, label] of Object.entries(interestLabels)) {
-    if (key === 'food') continue;
     items.push({
-      title: label,
+      title: key === 'food' ? 'Food and drink' : label,
       href: interestHref(key),
       group: 'Interests',
       text: interestDescription(key),

@@ -11,7 +11,6 @@ const omittedPaths = new Set([
   '/search',
   '/search.json',
   '/news',
-  '/interests/food',
   '/interests/oldTowns',
   '/interests/warHistory',
   '/destinations/northern-vietnam',
