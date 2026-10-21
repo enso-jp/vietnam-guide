@@ -1,8 +1,8 @@
 ---
 name: destination-standard
 description: >-
-  Sets the shared rules for a Vietnam Guide destination page: nine attraction
-  cards then an expand control, Dining and F&B as the first interest card, and
+  Sets the shared rules for a Vietnam Guide destination page: six attraction
+  cards then a Show all control, Dining and F&B as the first interest card, and
   interest groups taken from that place. Use when setting up or revising a
   destination, its attraction list, or its interest groups.
 ---
@@ -17,7 +17,10 @@ How the page looks is `.cursor/skills/ui-ux/SKILL.md`. What a city setup contain
 
 - A city or town page lists at least 15 real attractions. High-demand places carry more: Hanoi, Ho Chi Minh City, Da Nang, Hoi An, Hue, Ha Long, Sapa, Ninh Binh, Phu Quoc, Nha Trang, Da Lat.
 - Scale the count with how much travelers actually do there. A single monument or park lists every sourced sight and does not pad the list with invented stops.
-- The page shows 9 attraction cards. The rest sit behind an expand control.
+- The page shows 6 attraction cards. The rest sit behind a control labeled “Show all”.
+- That control is a button under the cards, the full width of the list. It is not a card and it does not take a slot in the grid.
+- On a wide screen the list is three cards a row, so those six are two rows and then the button. Narrower widths use fewer columns. Cards fill each row. A short line of text does not open a gap. Do not use a masonry layout.
+- “Show all” reveals the rest in that same packed grid. The control stays under the full list and can collapse it. Area names stay on the attraction records. They do not start a new card grid.
 - Thin stubs are not done. A finished attraction has a kicker, a sourced notice, body copy, a second photo, getting there, and hours and fees. An unsourced fee or hour stays “Check on arrival”.
 
 ## Interests

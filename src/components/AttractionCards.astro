@@ -1,6 +1,5 @@
 ---
-import Photo from './Photo.astro';
-import { attractionPath, cardLine } from '../lib/content';
+import AttractionCard from './AttractionCard.astro';
 import type { Attraction } from '../lib/types';
 
 interface Item {
@@ -10,38 +9,32 @@ interface Item {
 
 interface Props {
   items: Item[];
+  more?: Item[];
   fallbackId: string;
   cover: string;
 }
 
-const { items, fallbackId, cover } = Astro.props;
+const { items, more = [], fallbackId, cover } = Astro.props;
 ---
-<div class="card-list">
-  {items.map(({ attraction, rank }) => {
-    const filled = Math.max(0, Math.min(5, attraction.dots));
-    return (
-      <a class="jg-card" id={attraction.slug} href={attractionPath(attraction)}>
-        <div class="media">
-          <Photo id={`${attraction.placeSlug}-${attraction.slug}`} fallbackId={fallbackId} alt={attraction.name} cover={cover} />
-          <span class="rank-badge">{rank}</span>
-        </div>
-        <div class="jg-body">
-          <h3>
-            {attraction.name}
-            {attraction.nameVi && <span class="vi" lang="vi"> {attraction.nameVi}</span>}
-            {filled >= 4 && <span class="mark" aria-hidden="true"></span>}
-          </h3>
-          <p>{cardLine(attraction.summary)}</p>
-          <p class="rating">
-            <span class="score">{filled.toFixed(1)}</span>
-            <span class="stars" aria-label={`${filled} of 5, editor rating`}>
-              {Array.from({ length: 5 }, (_, star) => (star < filled ? '★' : '☆')).join('')}
-            </span>
-            <span class="note">Editor</span>
-          </p>
-          <p class="meta">{attraction.timeNeeded} · {attraction.fee}</p>
-        </div>
-      </a>
-    );
-  })}
+<div class="attraction-stack">
+  <div class="card-list">
+    {items.map(({ attraction, rank }) => (
+      <AttractionCard attraction={attraction} rank={rank} fallbackId={fallbackId} cover={cover} />
+    ))}
+    {more.map(({ attraction, rank }) => (
+      <AttractionCard attraction={attraction} rank={rank} fallbackId={fallbackId} cover={cover} extra />
+    ))}
+  </div>
+  {more.length > 0 && (
+    <button class="list-more" type="button" aria-expanded="false">
+      <span class="list-more-closed">Show all</span>
+      <span class="list-more-open">Show fewer</span>
+    </button>
+  )}
 </div>
+<noscript>
+  <style>
+    #attractions .is-extra { display: flex !important; }
+    #attractions .list-more { display: none !important; }
+  </style>
+</noscript>

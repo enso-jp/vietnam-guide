@@ -12,7 +12,7 @@ description: >-
 
 Build one place until its page has the same layers as the Tokyo city guide. Follow `AGENTS.md`. A corridor skill such as `central-coast` still owns the facts for that beat. This skill owns the shape.
 
-Read `.cursor/skills/destination-standard/SKILL.md` before a city pass. The shared template shows nine attraction cards, then an expand control for the rest. The first interest card is Dining and F&B and opens this place’s food guide. Interest groups come from this place’s own data.
+Read `.cursor/skills/destination-standard/SKILL.md` before a city pass. The shared template shows six attraction cards, then a “Show all” control for the rest. The first interest card is Dining and F&B and opens this place’s food guide. Interest groups come from this place’s own data.
 
 This pass runs after research. Start only when every research lane on `ops/board/places/<slug>.json` is `stored` or `blocked`, `research/<slug>/STATUS.md` says `stored`, and the board has claimed this place and this stage. Read `.cursor/skills/content-board/SKILL.md`. If a research lane is still `not_started` or `needs_depth`, stop.
 

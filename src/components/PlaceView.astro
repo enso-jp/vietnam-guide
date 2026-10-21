@@ -124,6 +124,8 @@ const interestSections = leadWithDining(
 );
 const interestRail = interestSections.flatMap((section) => section.items);
 const attractionLists = partitionAttractions(attractionGroups);
+const shownAttractions = attractionLists.shown.flatMap((group) => group.items);
+const moreAttractions = attractionLists.rest.flatMap((group) => group.items);
 const tripRail = trips.map((trip) => ({
   href: `/itineraries/${trip.slug}`,
   title: trip.title,
@@ -252,25 +254,8 @@ const leadSight = tiedForLead.find((item) => topInterest && item.interests.inclu
         <section id="attractions" class="place-section">
           <h2>{place.kind === 'district' ? 'Experiences' : `Top attractions in ${place.name}`}</h2>
           {attractions.length === 0 && <p>Attraction entries for this place are still being added.</p>}
-          {attractionLists.shown.map((group) => (
-            <div>
-              {group.label && <h3>{group.label}</h3>}
-              <AttractionCards items={group.items} fallbackId={place.slug} cover={place.cover} />
-            </div>
-          ))}
-          {attractionLists.hidden > 0 && (
-            <details class="list-more">
-              <summary>
-                <span class="list-more-closed">Show the rest</span>
-                <span class="list-more-open">Show fewer</span>
-              </summary>
-              {attractionLists.rest.map((group) => (
-                <div>
-                  {group.label && <h3>{group.label}</h3>}
-                  <AttractionCards items={group.items} fallbackId={place.slug} cover={place.cover} />
-                </div>
-              ))}
-            </details>
+          {shownAttractions.length > 0 && (
+            <AttractionCards items={shownAttractions} more={moreAttractions} fallbackId={place.slug} cover={place.cover} />
           )}
         </section>
         {festivals.length > 0 && (
