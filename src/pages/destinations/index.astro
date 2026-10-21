@@ -1,64 +1,168 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
-import Dots from '../../components/Dots.astro';
-import PlaceCard from '../../components/PlaceCard.astro';
+import Photo from '../../components/Photo.astro';
 import VietnamMap from '../../components/VietnamMap.astro';
-import { cardLine, compareRecommended, corridorsNorthToSouth, getPlaces, pageDescription, placePath, placesInCorridor } from '../../lib/content';
+import { cardLine, corridorsNorthToSouth, getPlaces, pageDescription, placePath, placesInCorridor } from '../../lib/content';
+import { photoPath } from '../../lib/photos';
 import { breadcrumbList, itemList } from '../../lib/schema';
+import { compareTraffic, trafficByline, visitsFor } from '../../lib/traffic-rank';
+import type { Place } from '../../lib/types';
 
 const corridors = corridorsNorthToSouth();
-const places = getPlaces().filter((place) => !place.parent).sort(compareRecommended);
-const mainPlaces = places.slice(0, 9);
+const places = getPlaces().filter((place) => !place.parent).sort(compareTraffic);
+const ranked = places.filter((place) => visitsFor(place.slug) != null);
+const activeRegion = corridors[0]?.slug;
+const stackFor = (slug: string) => {
+  const used = new Set<string>();
+  const picks: Place[] = [];
+  for (const place of placesInCorridor(slug)) {
+    const src = photoPath(place.slug);
+    if (!src || used.has(src)) continue;
+    used.add(src);
+    picks.push(place);
+    if (picks.length === 5) break;
+  }
+  return picks;
+};
+const marks = (dots: number) => '●'.repeat(Math.max(0, Math.min(5, dots)));
 const description = pageDescription(
   'Six tourism regions from the northern mountains to the Mekong Delta, then the main places in each.',
   'Province borders changed in 2025. The place names did not.',
 );
 ---
 <Base title="Destinations" description={description} path="/destinations" ogType="website" jsonLd={[itemList('Destinations', places.map((place) => ({ name: place.name, path: placePath(place) }))), breadcrumbList([{ name: 'Destinations', path: '/destinations' }])]}>
-  <div class="wrap section">
+  <div class="wrap section dest-page">
     <Crumbs items={[{ name: 'Destinations' }]} />
-    <p class="eyebrow">Find your destination</p>
-    <h1>Destinations</h1>
-    <p class="lede">Six regions, from the northern mountains to the Mekong. Province borders changed in 2025. The place names did not.</p>
+    <header class="dest-hero">
+      <h1>Vietnam</h1>
+      <p class="dest-find">Find your destination</p>
+      <p class="lede dest-lede">Six regions, from the northern mountains to the Mekong. Province borders changed in 2025. The place names did not.</p>
+    </header>
 
-    <section class="atlas" aria-label="Regions">
-      <div class="atlas-cards">
-        {corridors.map((corridor) => (
-          <a class="atlas-card" href={`/destinations/${corridor.slug}`}>
-            <p class="explore-kicker">Region</p>
-            <h2>{corridor.name}</h2>
-            <p>{corridor.summary}</p>
-          </a>
-        ))}
+    <section class="region-stage dest-stage" data-region-stage>
+      <h2>Regions of Vietnam</h2>
+      <div class="region-board">
+        <div class="region-map">
+          <div class="region-map-frame">
+            <VietnamMap variant="home" active={activeRegion} />
+          </div>
+          <div class="region-picks" role="tablist" aria-label="Regions">
+            {corridors.map((corridor) => (
+              <button
+                type="button"
+                role="tab"
+                data-region={corridor.slug}
+                aria-selected={corridor.slug === activeRegion ? 'true' : 'false'}
+                class:list={[{ 'is-active': corridor.slug === activeRegion }]}
+              >
+                {corridor.name}
+              </button>
+            ))}
+          </div>
+        </div>
+        <div class="region-stack">
+          {corridors.map((corridor) => {
+            const photos = stackFor(corridor.slug);
+            return (
+              <div class="region-panel" data-region-card={corridor.slug} hidden={corridor.slug !== activeRegion}>
+                <div class="region-photos">
+                  {photos.map((place) => (
+                    <a href={placePath(place)}>
+                      <Photo id={place.slug} alt="" cover={place.cover} />
+                      <span>{place.name}</span>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            );
+          })}
+          <div class="region-caption">
+            {corridors.map((corridor) => (
+              <div class="region-caption-panel" data-region-card={corridor.slug} hidden={corridor.slug !== activeRegion}>
+                <h3>{corridor.name}</h3>
+                <p>{corridor.summary}</p>
+              </div>
+            ))}
+          </div>
+        </div>
       </div>
-      <VietnamMap variant="home" />
+      <div class="region-swipe">
+        <button class="region-swipe-arrow prev" type="button" data-region-prev aria-label="Previous region">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 6l-6 6 6 6"></path></svg>
+        </button>
+        <div class="region-swipe-row" data-region-swipe-row tabindex="0">
+          {corridors.map((corridor) => {
+            const lead = stackFor(corridor.slug)[0];
+            return (
+              <article class:list={['region-slide', { 'is-active': corridor.slug === activeRegion }]} data-region-slide={corridor.slug}>
+                <a class="region-slide-photo" href={`/destinations/${corridor.slug}`}>
+                  <Photo id={lead?.slug || corridor.slug} alt="" cover={lead?.cover || corridor.cover} />
+                </a>
+                <a class="region-slide-copy" href={`/destinations/${corridor.slug}`}>
+                  <small>Explore</small>
+                  <strong>{corridor.name}</strong>
+                  <em>{cardLine(corridor.summary)}</em>
+                  <span class="go" aria-hidden="true">›</span>
+                </a>
+              </article>
+            );
+          })}
+        </div>
+        <button class="region-swipe-arrow next" type="button" data-region-next aria-label="Next region">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 6l6 6-6 6"></path></svg>
+        </button>
+      </div>
     </section>
 
-    <section class="place-section">
-      <h2>Places</h2>
-      <div class="jg-grid">
-        {mainPlaces.map((place, index) => (
-          <PlaceCard place={place} rank={index + 1} />
-        ))}
+    <section class="dest-top" aria-label="Top destinations">
+      <h2>Top destinations in Vietnam</h2>
+      <p class="dest-by">{trafficByline}</p>
+      <div class="top-grid">
+        {ranked.map((place, index) => {
+          const filled = Math.max(0, Math.min(5, place.dots));
+          return (
+            <a class="top-card" href={placePath(place)}>
+              <span class="top-photo">
+                <Photo id={place.slug} alt="" cover={place.cover} />
+                <span class="rank-badge">{index + 1}</span>
+              </span>
+              <span class="top-copy">
+                <strong>
+                  {place.name}
+                  <span class="edots" aria-label={`${filled} of 5`}><span aria-hidden="true">{marks(filled)}</span></span>
+                </strong>
+                <em>{cardLine(place.summary)}</em>
+              </span>
+            </a>
+          );
+        })}
       </div>
     </section>
 
     {corridors.map((corridor) => {
-      const list = placesInCorridor(corridor.slug);
+      const list = places.filter((place) => place.corridor === corridor.slug);
       if (!list.length) return null;
       return (
-        <section class="place-section corridor-index">
-          <h2><a href={`/destinations/${corridor.slug}`}>{corridor.name}</a></h2>
-          <ul>
-            {list.map((place) => (
-              <li>
-                <a class="place-name" href={placePath(place)}>{place.name}</a>
-                <Dots dots={place.dots} />
-                <p>{cardLine(place.summary)}</p>
-              </li>
-            ))}
-          </ul>
+        <section class="dest-region" id={corridor.slug}>
+          <div class="dest-mini">
+            <VietnamMap variant="home" active={corridor.slug} names={false} linked={false} />
+          </div>
+          <h2>{corridor.name}</h2>
+          <div class="dest-list">
+            {list.map((place) => {
+              const filled = Math.max(0, Math.min(5, place.dots));
+              return (
+                <a class="dest-row" href={placePath(place)}>
+                  <span class="dest-place">
+                    {filled > 0 && <span class="edots" aria-label={`${filled} of 5`}><span aria-hidden="true">{marks(filled)}</span></span>}
+                    <strong>{place.name}</strong>
+                  </span>
+                  <span class="dest-line">{cardLine(place.summary)}</span>
+                </a>
+              );
+            })}
+          </div>
         </section>
       );
     })}
