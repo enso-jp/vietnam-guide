@@ -201,4 +201,34 @@ No nightly bar street was on the department pages. Vietnam Tourism says the city
 
 ## Lifestyle
 
-Not this lane.
+There is no sea swim on the department pages. The ordinary day is a bicycle between the fields, a boat, and an early night in the hamlets. A cafe street was not named. The 2016 page says internet is available in coffee bars and does not name one (S11).
+
+### Breakfast
+- Vietnamese name: Bánh cuốn, and miến lươn on a cold morning
+- Kind: lifestyle
+- What a day here actually is: Vietnam Tourism calls bánh cuốn the local breakfast, rice rolls with pork and mushrooms, mint, and fish sauce (S16). The department’s 20 Jan 2026 page calls a hot bowl of miến lươn a cold-morning choice (S18). Neither page names the street.
+- When: Morning. The stall hour is Check on arrival — UNSOURCED.
+- Area: Check on arrival — UNSOURCED. Not a hotel breakfast, and not a named cafe row.
+- Suggested slug: ninh-binh-breakfast
+- Photo must show: The bowl or the rolls on a low table, with herbs. A hotel buffet fails.
+- Sources: S16, S18
+
+### The bicycle between the fields
+- Vietnamese name: Tam Cốc
+- Kind: lifestyle
+- What a day here actually is: People staying in Tam Coc use a bicycle (S7). A 13 Aug 2020 department article says a homestay day can include biking, a boat, and time in the fields (S5). The sights themselves are the boat and the stair, already in the catalog. The day between them is flat roads and rice, not a tour bus.
+- When: Daylight. Late May to early June if the rice is the point (S3, S7).
+- Area: Nam Hoa Lu ward and the lanes toward Mua Cave and the pier. Minutes between them: Check on arrival — UNSOURCED.
+- Suggested slug: tam-coc-bicycle-day
+- Photo must show: A bicycle on a lane, with rice and a karst in the same frame. The rider can be small. An empty road with no field fails.
+- Sources: S3, S5, S7
+
+### The quiet hour
+- Vietnamese name: Tam Cốc
+- Kind: lifestyle
+- What a day here actually is: The night goes quiet in the hamlets. Vietnam Tourism puts the beer corners in the city, not here (S16). The 2016 page says restaurants often run until 22:00 and warns against empty places late (S11). That is not a hamlet curfew.
+- When: After the boats. The closing hour is Check on arrival — UNSOURCED.
+- Area: The Tam Coc hamlets, not Dao Duy Tu.
+- Suggested slug: tam-coc-quiet-hour
+- Photo must show: A lane with one or two lights and the rock still visible. A night-market crowd fails, because that crowd was not sourced as a nightly thing.
+- Sources: S11, S16
