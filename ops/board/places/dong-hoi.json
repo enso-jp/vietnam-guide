@@ -5,9 +5,9 @@
   "corridor": "north-central",
   "kind": "city",
   "parent": null,
-  "publish": "candidate",
+  "publish": "accepted",
   "priority": 100,
-  "note": "Named in Central Coast coverage as the Phong Nha gateway. Research may be stored. Do not create a public place file until publish is accepted. Corridor on the live site is north-central (North Central Coast), with Hue and Phong Nha. The old central-coast label is not a public corridor.",
+  "note": "Owner accepted publish for this place on 21 Oct 2026 and asked the page to be finished. Corridor is north-central (North Central Coast). Bao Ninh stays an area of this city, not a new place slug.",
   "coverage": {
     "sights": "filled",
     "areas": "filled",
@@ -590,7 +590,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "dong-hoi",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-21T16:27:37.451Z",
+    "by": "dong-hoi-destination",
+    "branch": "cursor/dong-hoi-destination-8aa2"
+  },
   "log": [
     {
       "at": "2026-10-21T15:33:51.704Z",
