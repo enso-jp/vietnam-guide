@@ -92,6 +92,24 @@ Checked: 21 Oct 2026
 - Accessed: 21 Oct 2026
 - Supports: page dated 5 Jan 2018. Coach station 207 Lê Đại Hành, phường Thanh Bình. Ga Ninh Bình at Đường 22/07, phố Ngọc Hà, phường Nam Bình, phone 0912.508.354. City bus routes listed do not name Tam Coc. Area code on the page is 0303. Taxi brand names on that page are not picks.
 
+### S16
+- URL: https://dulichninhbinh.com.vn/item/3019
+- Publisher: Trung tâm Xúc tiến du lịch Ninh Bình
+- Accessed: 21 Oct 2026
+- Supports: Đền Thái Vi, updated 27 Mar 2025. Thôn Văn Lâm, phường Nam Hoa Lư. Stone temple on the ground of Hành cung Vũ Lâm. Bell of Chính Hoà 19 (1689). Stele tower of 1926. Dragon courtyard about 40 m². Festival from the 14th to the 17th of the third lunar month. Ranked a national historic relic in 1994.
+
+### S17
+- URL: https://dulichninhbinh.com.vn/item/1470
+- Publisher: Trung tâm Xúc tiến du lịch Ninh Bình
+- Accessed: 21 Oct 2026
+- Supports: Thạch Bích – Thung Nắng, updated 26 Aug 2021. Then thôn Đam Khê, xã Ninh Hải. 8 km from the city center, 7 km southwest of Ga Ninh Bình, 2 km from the Tam Coc wharf. Boat of 2.6 km on sông Đền Vối from bến Thạch Bích. Chùa Thạch Bích, đền Thung Nắng, đền Vối.
+
+### S18
+- URL: https://sodulich.ninhbinh.gov.vn/vi/thong-tin-ho-tro/thong-tin-ho-tro-cac-diem-du-lich-2303.html
+- Publisher: Sở Du lịch tỉnh Ninh Bình
+- Accessed: 21 Oct 2026
+- Supports: support list dated 1 Aug 2025. Tam Coc – Bích Động printed as 02293.886.068, the same number as Tràng An and Bái Đính on that table. Thạch Bích Thung Nắng 02293.618.123. Hang Múa 02293.619.679. Vườn chim Thung Nham 0912900887. Those last two are separate lines, not inside the Tam Coc row.
+
 ## Notes, not pages
 
 Not used as sources: ticket resellers, coach-fare blogs, and the published Tam Coc JSON. A vietnamtourism.vn Tràng An page and the ACV Nội Bài article did not load as text on this pass, so no kilometer figure was taken from either.

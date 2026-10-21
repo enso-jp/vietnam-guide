@@ -50,9 +50,124 @@ The three caves are not given one length. The heritage department’s ranking es
 
 ## Attractions (Sight, area of interests, zone, hub, etc.)
 
-Not this lane. researchAttractions fills sights and areas. The published shell `three-caves` stays unsourced until that lane.
+The planning trip is the Tam Coc – Bích Động tourist area in phường Nam Hoa Lư: the three-cave boat, Bích Động, Thái Vi, and the second boat at Thung Nắng. The department’s 14 Aug 2025 page names those, plus động Tiên and chùa Linh Cốc (S2). Gate hours for every one of them are Check on arrival — UNSOURCED.
 
-Districts that deserve their own page: not decided in this pass. Nam Hoa Lư is the ward the department names for the whole Tam Coc – Bích Động area (S2). It is not, on these pages, a second destination with its own station.
+Hang Múa and Vườn chim Thung Nham are not given entries here. The 1 Aug 2025 support list prints them on their own lines, with their own phones, and the 14 Aug 2025 Tam Coc page does not name them (S18, S2). Hang Múa is already the published sight `mua-cave` under `ninh-binh`. Thung Nham waits for the side-trip lane.
+
+### The three caves
+- Vietnamese name: Hang Cả, Hang Hai, Hang Ba. Tam Cốc means “ba hang” (S5). The heritage essay also calls Hang Cả hang Ngoài or hang Lớn, Hang Hai hang Giữa or hang Trung, and Hang Ba hang Bé (S8).
+- Kind: sight
+- Area: the Ngô Đồng, from bến thuyền Tam Cốc. The 23 May 2023 page calls that landing bến đò Văn Lâm (S6). The 27 Mar 2025 Thái Vi page places thôn Văn Lâm in phường Nam Hoa Lư (S16).
+- What the visitor does: sits in a sampan rowed by a local person through the three water caves, with rice and karst on the banks (S5, S2). The 23 May 2023 page says you can step off at bến Kẽm Gió and walk from there (S6). That step is part of this ride, not a second sight. The boat has no roof (S6). Life jackets, and follow the rower in the caves (S12).
+- Lengths, which do not agree: heritage essay, Hang Cả about 180 m, about 30 m wide, ceiling above 5 m; Hang Hai about 90 m, ceiling about 3.5 m; Hang Ba more than 80 m, ceiling under 3 m, often flooded in heavy rain so the stalactites are worn smooth (S8). Promotion page of 7 Jul 2025: about 127 m, 60 m, and 50 m (S5). The 23 May 2023 page repeats 127 / 60 / 50, says Hang Hai is nearly 1 km from Hang Cả, and says the mouth of Hang Cả is over 20 m (S6). Do not print one set. Nothing opened here says a passenger must duck.
+- Time: about 2 hours on the water (S5, S6).
+- Fee: the 27 Feb 2026 list, route “Tam Cốc – Đền Thái Vi – Động Tiên – chùa Bích Động”, phone 19009157. Without the electric transfer: adults 250,000 VND, children 1–1.3 m 120,000 VND. With it: adults 350,000 VND, children 1–1.3 m 190,000 VND (S3). The 23 May 2023 split (120,000 VND a person, then 150,000 VND a boat) is older (S6). Do not use it. A child under 1 m is not on the Tam Coc rows. Check on arrival for anyone the list does not name.
+- From the base: walk or a short ride if you slept in Văn Lâm. From the provincial center the department says about 10 km, which is not a station-to-wharf time (S2). See `getting-there.md`.
+- When to go: early, with a hat (S6). Rice picture: months 5–6 (S5), or mid-May to early June (S6).
+- Mistake to avoid: paying the 2023 boat fare, and staying out when the route has been stopped for weather (S14). Also treating Kẽm Gió as a second ticket.
+- Local interest: the river and the rice
+- Suggested slug: `three-caves` (already published)
+- Suggested dot: already 4 on the published record — do not change
+- Photo must show: the sampan on the river with a cave mouth or the towers, and rice in the same daylight frame. A second frame, if the page gets one, should be the low cave from the boat, not the same file and not a resort.
+- Sources: S2, S3, S5, S6, S8, S12, S14, S16
+
+### Bich Dong pagoda
+- Vietnamese name: Chùa Bích Động. The heritage essay says the old name was Bích Sơn, and that in 1774 chúa Trịnh Sâm had the two words “Bích Động” cut into the rock, each character 1.5 m (S8).
+- Kind: sight
+- Area: about 2 km from the Tam Coc wharf (S5). Inside the same tourist area (S2).
+- What the visitor does: walks the stone steps through three pagodas built into the cliff — chùa Hạ, chùa Trung, chùa Thượng (S5, S8). The heritage essay says the buildings use the rock wall and the dark cave, with a Buddha in the cave and stupas against the stone (S8).
+- Time: Check on arrival — UNSOURCED. No page opened here says how long the steps take.
+- Fee: on the 2026 route ticket if the visitor bought that route (S3). A separate Bích Động gate price was not printed on the Tam Coc rows. Hours: Check on arrival — UNSOURCED.
+- From the base: about 2 km from the wharf (S5). The 2026 electric car is the transfer between the route’s points (S3). The 14 Jul 2023 page says points inside the area are 5–10 minutes apart (S7). Keep that date on the minutes.
+- When to go: after the boat, or before it if the wharf queue is the problem. No hour was published.
+- Mistake to avoid: calling the whole complex “Nam thiên đệ nhị động” as if the name belonged only to the three caves. The 7 Jul 2025 page puts that name on Bích Động, second after Hương Tích (S5). The department page uses it for the boat landscape (S2). Both uses are in print. Do not pretend they are one sentence.
+- Local interest: the pagoda in the rock
+- Suggested slug: `bich-dong`
+- Suggested dot: 4 — the other half of the name Tam Coc – Bích Động, still one morning with the boat, not a trip of its own from Hanoi
+- Photo must show: the pagoda against the limestone, steps included, in color, subject through the center. A crop that cuts the upper pagoda off the cliff fails. Not a statue through the chest.
+- Sources: S2, S3, S5, S7, S8
+
+### Thai Vi temple
+- Vietnamese name: Đền Thái Vi
+- Kind: sight
+- Area: thôn Văn Lâm, phường Nam Hoa Lư (S16). About 2 km from the Tam Coc wharf along the country roads (S6).
+- What the visitor does: walks a stone temple built on the ground of Hành cung Vũ Lâm. The page updated 27 Mar 2025 says local people built it about the 13th century for the Trần kings, Trần generals, and Hoàng hậu Thuận Thiên, on the base used in the second Mongol war (S16). What is on the path: Nghi Môn, a two-storey bell tower of lim wood with eight roofs and a bell cast in Chính Hoà 19 (1689), a four-sided stele tower put up in 1926, a dragon courtyard of about 40 square meters paved in green stone, then five doors up a 1.2 m step. The columns are single blocks of green stone. Inside, statues of Trần Thái Tông, Trần Thánh Tông, Trần Nhân Tông, Trần Anh Tông, Trần Hưng Đạo, Trần Quang Khải, and Hoàng hậu Thuận Thiên. A small am marks where the page says Trần Thái Tông practiced at the end of his life (S16).
+- Time: Check on arrival — UNSOURCED.
+- Fee: on the 2026 route ticket (S3). No separate Thái Vi price on that list. Hours: Check on arrival — UNSOURCED.
+- From the base: the country roads, about 2 km from the wharf (S6), or the electric transfer on the route ticket (S3).
+- When to go: with the boat, on the same ticket. The page says the festival runs from the 14th to the 17th of the third lunar month (S16). A lunar date moves. The event entry belongs to the context lane. Ranked a national historic relic in 1994 (S16).
+- Mistake to avoid: treating the stone courtyard as a second boat, or printing the lunar festival as a solar weekend.
+- Local interest: the Trần temple in the rice
+- Suggested slug: `thai-vi`
+- Suggested dot: 3 — the stop on the same ticket, not the picture the night is for
+- Photo must show: the green-stone gate or the carved columns, with enough of the courtyard that a center crop still shows stone, not a document and not a face. Rice or karst at the edge if the frame can hold it.
+- Sources: S3, S6, S16
+
+### Thung Nang boat
+- Vietnamese name: Tuyến Thạch Bích – Thung Nắng
+- Kind: sight
+- Area: the 26 Aug 2021 page places it in thôn Đam Khê, xã Ninh Hải, inside the Tràng An core, 8 km from the center of Ninh Bình city, 7 km southwest of Ga Ninh Bình, and 2 km from the Tam Coc wharf (S17). That commune name is the old one. The 14 Aug 2025 department page still lists thung Nắng inside Tam Coc – Bích Động (S2). The 7 km is to this landing, not a measured ride to bến thuyền Tam Cốc.
+- What the visitor does: boards at bến Thạch Bích, beside chùa Thạch Bích, and rows sông Đền Vối for 2.6 km with a local rower (S17). The page says the 13th-century pagoda is the first place Trần Nhân Tông entered monastic life, before Yên Tử. On the route it also names đền Thung Nắng, under old trees, for bà chúa Thượng Ngàn, and đền Vối, a small temple 6.40 m by 4.15 m on a 290 m² plot, for Hộ Quốc Đại Vương (S17). The mountain nicknames on that page (núi Con Lợn, Tam Sơn, Ngòi Rắn, eo Cá Măng) are local names for bends, not separate tickets.
+- Time: Check on arrival — UNSOURCED. The 2.6 km is a distance, not a duration.
+- Fee: the 27 Feb 2026 list, under Thạch Bích / Thung Nắng, contact printed as “Chị Phương 0392232363”. Scenic ticket: adults 20,000 VND, children 6–15 and people 60 and over 10,000 VND. Boat: 160,000 VND a trip, 4 domestic guests a boat, 2 foreign guests a boat (S3). The 1 Aug 2025 support list prints a different phone for Thạch Bích Thung Nắng, 02293.618.123 (S18). Both stay. Hours: Check on arrival — UNSOURCED.
+- From the base: 2 km from the Tam Coc wharf on the 2021 page (S17). Minutes: Check on arrival — UNSOURCED. Do not reuse the 5–10 minute line, which was about points inside the Tam Coc area on a different page (S7).
+- When to go: when the main boat is not the only ride you want. Same rice months as the Ngô Đồng, because the page describes the same karst and water. It does not print its own rice dates.
+- Mistake to avoid: buying this ticket thinking it is the three caves, and using the 7 km station figure as the ride to Tam Coc wharf.
+- Local interest: a second, quieter boat
+- Suggested slug: `thung-nang`
+- Suggested dot: 3 — worth it once the three caves are already the reason for the night
+- Photo must show: a sampan on sông Đền Vối with a limestone wall, subject through the center, in daylight. Not the three-caves file reused.
+- Sources: S2, S3, S17, S18
+
+### Tien cave and Linh Coc pagoda
+- Vietnamese name: Động Tiên; chùa Linh Cốc
+- Kind: sight
+- Area: named inside Tam Coc – Bích Động (S2). The 14 Jul 2023 page writes them as one point, “chùa Linh Cốc – Động Tiên” (S7). The 27 Feb 2026 route includes Động Tiên between Thái Vi and Bích Động (S3). No page opened here says whether the pagoda and the cave are one gate or two.
+- What the visitor does: Check on arrival — UNSOURCED. The department names them and does not describe the walk (S2).
+- Time: Check on arrival — UNSOURCED.
+- Fee: Động Tiên is on the 2026 route ticket (S3). A standalone price was not printed. Hours: Check on arrival — UNSOURCED.
+- From the base: the electric transfer on that route, if the ticket was bought with it (S3). Minutes: Check on arrival — UNSOURCED.
+- When to go: only if the route ticket is already in hand. Do not plan a separate hour until a page describes the cave.
+- Mistake to avoid: opening a page that invents a chamber, a stair count, or a fee.
+- Local interest: the same route as the boat
+- Suggested slug: `tien-cave`
+- Suggested dot: do not add a public record yet. The visit is not described.
+- Photo must show: nothing until a sourced frame exists. Do not reuse the three-caves photo.
+- Sources: S2, S3, S7
+
+### Nam Hoa Lu, the rice bowl
+- Vietnamese name: Phường Nam Hoa Lư
+- Kind: area
+- Area: the ward the 14 Aug 2025 department page gives to the whole Tam Coc – Bích Động tourist area, about 10 km from the provincial center (S2). UNESCO’s buffer around the property is mostly rice, villages, and fields (S1).
+- What the visitor does: sleeps here and moves between the boats and the pagoda. This is the place, not a second destination.
+- Time: a night, which is the point of the base layer.
+- Fee: none for the ward. Each gate has its own ticket.
+- From the base: this is the base.
+- When to go: the rice months in the scene pin.
+- Mistake to avoid: publishing the ward as its own guide, or using the 2023 name xã Ninh Hải, huyện Hoa Lư as if it were the only current line (S7). The 2025 page says phường Nam Hoa Lư (S2).
+- Local interest: staying in the rice
+- Suggested slug: do not publish a separate page. The place `tam-coc` is this area.
+- Suggested dot: do not add a record
+- Photo must show: the same hero as the place — sampan, towers, rice. Not a ward sign.
+- Sources: S1, S2, S7
+
+### Van Lam hamlet
+- Vietnamese name: Thôn Văn Lâm
+- Kind: area
+- Area: inside phường Nam Hoa Lư. Thái Vi stands here (S16). The 23 May 2023 page uses Văn Lâm for the boat landing (S6).
+- What the visitor does: starts the three-cave boat and walks to the stone temple. A named lodging street inside the hamlet is Check on arrival — UNSOURCED.
+- Time: the morning of the boat.
+- Fee: the route ticket at the landing (S3).
+- From the base: this is where the base is, if the night is in the hamlet. The fit is from the pages that put both the temple and the old landing name here. A 2026 sign that still says Văn Lâm on the wharf was not opened. Check on arrival.
+- When to go: morning.
+- Mistake to avoid: a hotel brand, and a second page for the dock.
+- Local interest: where the night sits
+- Suggested slug: do not publish a separate page. The place and the three-caves page carry the landing.
+- Suggested dot: do not add a record
+- Photo must show: the landing with boats, towers behind, not a ticket booth filling the frame.
+- Sources: S3, S6, S16
+
+Districts that deserve their own page: none. Nam Hoa Lư is the place. Hang Múa is already a Ninh Bình sight. Thung Nham is a separate support-list destination and waits as a side trip (S18).
 
 ## Nightlife and evening
 

@@ -9,8 +9,8 @@
   "priority": 13,
   "note": "",
   "coverage": {
-    "sights": "missing",
-    "areas": "missing",
+    "sights": "partial",
+    "areas": "partial",
     "foodStreets": "missing",
     "nightlife": "missing",
     "lifestyle": "missing",
@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:24:11.087Z",
+      "updated": "2026-10-21T08:27:26.802Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:24:11.087Z",
+      "updated": "2026-10-21T08:27:26.802Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,13 +45,13 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:24:11.087Z",
+      "updated": "2026-10-21T08:27:26.802Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:24:11.087Z",
+      "updated": "2026-10-21T08:27:26.802Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -61,9 +61,9 @@
       "reworkCount": 0
     },
     "researchAttractions": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "Main sights are in: the three caves, Bich Dong, Thai Vi, and Thung Nang. Still open: every gate hour, whether Linh Coc and Tien cave are one place, the cave-length disagreement, and a sourced lodging street in Van Lam. Hang Mua and Thung Nham are neighbors, not Tam Coc pages.",
+      "updated": "2026-10-21T08:27:26.802Z",
       "reworkCount": 0
     },
     "researchFood": {
@@ -100,25 +100,122 @@
       "slug": "three-caves",
       "file": "src/content/attractions/tam-coc--three-caves.json",
       "source": "published",
-      "research": "not_started",
+      "research": "stored",
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": "2026-10-21T08:24:11.087Z",
+      "note": "Sourced 21 Oct 2026. Cave lengths disagree across the heritage essay and the 2025 promotion page. Pier hours unsourced. Published dot stays 4.",
+      "updated": "2026-10-21T08:27:26.802Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "tam-coc--bich-dong",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Bich Dong pagoda",
+      "slug": "bich-dong",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sourced 21 Oct 2026. Hours and a standalone fee are unsourced. On the 2026 route ticket.",
+      "updated": "2026-10-21T08:27:26.802Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "tam-coc--thai-vi",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Thai Vi temple",
+      "slug": "thai-vi",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sourced 21 Oct 2026 from the 27 Mar 2025 page. Hours unsourced. Lunar festival belongs to the context lane.",
+      "updated": "2026-10-21T08:27:26.802Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "tam-coc--thung-nang",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Thung Nang boat",
+      "slug": "thung-nang",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sourced 21 Oct 2026. 2026 ticket is separate from the three-caves route. Hours unsourced. The 7 km figure is to this landing, not the Tam Coc wharf.",
+      "updated": "2026-10-21T08:27:26.802Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "tam-coc--tien-cave",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Tien cave and Linh Coc",
+      "slug": "tien-cave",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Named by the department and on the 2026 route. No page describes the walk. Do not open a page until a later pass can say what the visitor does. A depth pass may reopen this.",
+      "updated": "2026-10-21T08:27:26.802Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "tam-coc--nam-hoa-lu",
+      "kind": "area",
+      "track": "unit",
+      "name": "Nam Hoa Lu",
+      "slug": "nam-hoa-lu",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "The place page is this area. Do not open a second destination.",
+      "updated": "2026-10-21T08:27:26.802Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "tam-coc--van-lam",
+      "kind": "area",
+      "track": "unit",
+      "name": "Van Lam hamlet",
+      "slug": "van-lam",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "The landing and the temple page carry this hamlet. A named lodging street is still unsourced. Not a district page.",
+      "updated": "2026-10-21T08:27:26.802Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "tam-coc",
-    "stage": "researchAttractions",
-    "item": null,
-    "at": "2026-10-21T08:24:53.468Z",
-    "by": "hourly",
-    "branch": "content/tam-coc-research-base"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T08:27:26.802Z",
+      "place": "tam-coc",
+      "stage": "researchAttractions",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Main sights are in: the three caves, Bich Dong, Thai Vi, and Thung Nang. Still open: every gate hour, whether Linh Coc and Tien cave are one place, the cave-length disagreement, and a sourced lodging street in Van Lam. Hang Mua and Thung Nham are neighbors, not Tam Coc pages."
+    },
     {
       "at": "2026-10-21T08:24:11.087Z",
       "place": "tam-coc",
