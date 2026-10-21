@@ -102,10 +102,10 @@
       "source": "published",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
+      "copy": "rework",
       "quality": "checked",
-      "note": "Both prices are printed. Hours stay check on arrival. Photos show the walkway.",
-      "updated": "2026-10-21T07:26:50.437Z",
+      "note": "Copy is thin on what the one-kilometre walk shows. Chamber sizes and the Heaven's Well day are sourced and not yet on the page.",
+      "updated": "2026-10-21T09:53:21.195Z",
       "reworkCount": 0
     },
     {
@@ -430,7 +430,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "phong-nha",
+    "stage": "copy",
+    "item": "phong-nha--paradise-cave",
+    "at": "2026-10-21T09:53:21.251Z",
+    "by": "phong-nha-copy",
+    "branch": "cursor/phong-nha-cave-pages-ea04"
+  },
   "log": [
     {
       "at": "2026-10-21T08:51:52.834Z",
