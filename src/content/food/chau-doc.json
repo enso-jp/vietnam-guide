@@ -1,0 +1,54 @@
+{
+  "slug": "chau-doc",
+  "name": "Chau Doc food guide",
+  "placeSlug": "chau-doc",
+  "summary": "Châu Đốc eats fish. Breakfast is bún cá with điên điển at Chợ Châu Đốc, seasoned with chili and lime. Mắm, pickled with palm sugar, salt, chili, and garlic, is stacked in the hall. Dinner is lẩu mắm, the shared pot, and cá kho tộ, a Mekong claypot eaten with rice and greens. Afternoon sweets are bánh bò thốt nốt, bánh bò Chăm in the villages, and chè thốt nốt. Only the claypot has a licensed photograph of the bowl. No stall price was published.",
+  "heroSlug": "ca-kho-to",
+  "body": [
+    "The market is the morning. The pot is the evening. Can Tho’s bánh xèo is a different delta breakfast. Do not rename bún cá as that crepe."
+  ],
+  "specialtiesLead": "The card is the dish with a photograph. The other bowls are named above and have no licensed picture, so they are not cards.",
+  "dishSlugs": [
+    "ca-kho-to"
+  ],
+  "sections": [
+    {
+      "id": "market",
+      "heading": "Chau Doc Market",
+      "nav": "Market",
+      "paragraphs": [
+        "Come in the morning. A closing hour was not printed."
+      ],
+      "spots": [
+        {
+          "name": "Chau Doc Market",
+          "nameVi": "Chợ Châu Đốc",
+          "caption": "The hall for bún cá and mắm. A street number and a closing hour were not printed. Check on arrival.",
+          "note": "Morning bowls at the edge of the hall. No stall price is published.",
+          "photo": "chau-doc-chau-doc-market"
+        },
+        {
+          "name": "The blue hall",
+          "nameVi": "Chợ Châu Đốc",
+          "caption": "The same market from the street. Flowers, fruit, and the landing are the walk. Shop names are not picks.",
+          "note": "A second frame of Chợ Châu Đốc. Not a second market.",
+          "photo": "chau-doc-chau-doc-market-2"
+        }
+      ]
+    },
+    {
+      "id": "can-tho",
+      "heading": "Can Tho, if that breakfast is the point",
+      "nav": "Can Tho",
+      "paragraphs": [
+        "Bánh xèo is the neighbor’s crepe, not the Châu Đốc bowl."
+      ],
+      "dishSlugs": [
+        "banh-xeo"
+      ]
+    }
+  ],
+  "verified": "21 Oct 2026",
+  "seoTitle": "Chau Doc food guide: market fish, mam, claypot",
+  "seoDescription": "Châu Đốc food is bún cá and mắm at the market, then lẩu mắm and cá kho tộ. Only the claypot has a licensed photo. No stall price was published."
+}

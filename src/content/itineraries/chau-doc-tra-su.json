@@ -1,0 +1,27 @@
+{
+  "slug": "chau-doc-tra-su",
+  "title": "Tra Su half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "chau-doc",
+  "budget": "Check on arrival",
+  "pace": "Relaxed",
+  "photo": "chau-doc-tra-su",
+  "summary": "The flooded cajuput forest, 23 km from town. Pay the gate, then the boat if the sampan is the visit you wanted.",
+  "stops": [
+    {
+      "name": "Tra Su cajuput forest",
+      "minutes": 180,
+      "placeSlug": "chau-doc",
+      "attractionSlug": "tra-su",
+      "note": "Gate 120,000 VND. The boat is a separate 60,000 VND ticket on the 2024 table. Confirm it at the gate. The on-site guide is capped at 3 hours.",
+      "approach": {
+        "mode": "taxi",
+        "note": "23 km from Châu Đốc. Drive minutes are check on arrival."
+      }
+    }
+  ],
+  "seoTitle": "Tra Su half day from Chau Doc",
+  "seoDescription": "A half day at Rừng tràm Trà Sư, 23 km from Châu Đốc. The gate is 120,000 VND and the boat is a separate ticket."
+}

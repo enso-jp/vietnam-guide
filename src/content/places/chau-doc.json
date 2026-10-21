@@ -1,0 +1,218 @@
+{
+  "slug": "chau-doc",
+  "name": "Chau Doc",
+  "nameVi": "Châu Đốc",
+  "kind": "city",
+  "corridor": "mekong-delta",
+  "province": "An Giang",
+  "provinceNote": "Provincial pages in 2026 still use An Giang for the province after the merger with Kiên Giang. The portal contact line is in phường Rạch Giá. This page is the Châu Đốc base only.",
+  "lat": 10.7107,
+  "lng": 105.1211,
+  "dots": 4,
+  "dotReason": "Worth a night when the Hậu river and Sam Mountain are the trip.",
+  "summary": "Stay in Châu Đốc when the Hậu river and Núi Sam are the trip. Fish-raft houses sit on the water, and the temple roofs are a short road inland in phường Vĩnh Tế. Can Tho is the airport and the published neighbor, about three hours by car from Can Tho Airport. The road from Ho Chi Minh City is about five hours on the English Vietnam Tourism page and about six on the Vietnamese page, so do not plan a dawn boat on the day you leave the city.",
+  "timeNeeded": "2 days",
+  "fee": "Trà Sư gate 120,000 VND. Temple gates and boat fares: check on arrival.",
+  "getThere": "About 3 hours by car from Can Tho Airport. About 5 hours from Ho Chi Minh City on the English page, about 6 on the Vietnamese page.",
+  "bestMonths": "September to November for high water",
+  "verified": "21 Oct 2026",
+  "interests": {
+    "food": 5,
+    "pagodas": 5,
+    "markets": 4,
+    "photography": 4,
+    "mountains": 4
+  },
+  "cover": "delta",
+  "nearby": [
+    "can-tho"
+  ],
+  "foodSlug": "chau-doc",
+  "routeSlugs": [],
+  "itinerarySlugs": [
+    "chau-doc-day",
+    "chau-doc-tra-su"
+  ],
+  "seoTitle": "Chau Doc travel guide: river, Sam Mountain, Tra Su",
+  "seoDescription": "Stay for the Hậu river and Sam Mountain. Can Tho Airport is about three hours by car. Ho Chi Minh City is about five hours on one page and six on the other.",
+  "intro": [
+    "The picture is the Hậu at Châu Đốc: olive water, a boat, and fish-raft houses along a green bank. Núi Sam sits just inland in phường Vĩnh Tế, not at an airport. Sleep in a river room in phường Châu Đốc, or in a bungalow on the hill if you want the plain in the morning. The ward office is at 10 Lê Lợi. That ward was formed from Vĩnh Nguơn, Châu Phú A, Châu Phú B, Vĩnh Mỹ, and part of Vĩnh Châu.",
+    "Can Tho is the night you choose when Cái Răng at dawn is the point, and it is where you land if you fly. Châu Đốc is the night you choose for the border river, the fish farms, Châu Phong and Đa Phước, and the temple cluster at the foot of the hill. Vietnam Tourism prints both about five hours and about six hours from Ho Chi Minh City. Treat a same-day drive as the journey, not as the start of a dawn boat.",
+    "Use one day for the market, a boat among the rafts or across to the Cham bank, and the halls at Núi Sam. Keep Trà Sư, 23 km out, for its own half day. The evening is the riverbank, not a bar street. No page in the dossier names one."
+  ],
+  "gettingAround": [
+    "Boats are ordinary transport between the bank, the islets, and the fish rafts. A town-boat fare was not on an official tariff. Check on arrival. Sam Mountain is a short road from the river wards. One national-tourism article prints both about 5 km and about 7 km. Minutes are check on arrival. The mountain is in phường Vĩnh Tế, not inside the Châu Đốc town ward.",
+    "The bus station is on the Quốc lộ 91 bypass, Khóm Hòa Bình, phường Châu Đốc. Its own page prints office hours of 07:00–11:00 and 13:00–17:00. Those are office hours, not a departure board. Coach times are check on arrival. No rail station was recorded. Luxury cruises between Can Tho and Châu Đốc, and from Cambodia, are named without an operator, a pier, or a clock. Check on arrival. Minutes from the river hotels to the Tịnh Biên or Vĩnh Xương gates were not printed."
+  ],
+  "stayAreas": [
+    {
+      "name": "Phường Châu Đốc river",
+      "summary": "Small hotels along the Châu Đốc river, so the evening walk is the bank.",
+      "band": "River hotels",
+      "photo": "chau-doc-hau-riverfront"
+    },
+    {
+      "name": "Núi Sam, phường Vĩnh Tế",
+      "summary": "A bungalow on the hill if you want the plain in the morning. The 2026 festival opened here.",
+      "band": "Mountain bungalows",
+      "photo": "chau-doc-sam-mountain"
+    }
+  ],
+  "eat": [
+    "Breakfast is bún cá at the edge of Chợ Châu Đốc, a fish-noodle soup with turmeric and crunchy điên điển flowers. Season it with chili and lime. Mắm, fish pickled with palm sugar, salt, chili, and garlic, is stacked in the market. A closing hour for the hall was not printed. Check on arrival.",
+    "Dinner is lẩu mắm, the shared pot Vietnam Tourism says not to leave without, and cá kho tộ, a Mekong claypot fish eaten with rice and greens. Afternoon sweets are bánh bò thốt nốt, bánh bò Chăm when you are in the villages, and chè thốt nốt. No stall price was published. Shop names that only located a street are not picks."
+  ],
+  "dishSlugs": [
+    "ca-kho-to"
+  ],
+  "interestsBody": [
+    "Dining is the market breakfast and the claypot fish. Bún cá, mắm, lẩu mắm, and the palm sweets are in the food note. Only cá kho tộ has a licensed photograph of the bowl, so only that dish has a card.",
+    "Sam Mountain, Trà Sư, the fish rafts, and the Cham villages are the ways people use the town. Long Xuyen, Ba Chuc, Oc Eo – Ba The, and Tinh Bien and Nui Cam stay side-trip placeholders. They are not pages."
+  ],
+  "interestGroups": [
+    {
+      "title": "Dining and F&B",
+      "summary": "Market breakfast, mắm, and claypot fish. The food guide is the card.",
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "Bún cá at Chợ Châu Đốc, mắm in the aisles, and cá kho tộ with rice. Only the claypot has a licensed bowl photograph.",
+          "photo": "ca-kho-to",
+          "icon": "food",
+          "to": "food"
+        }
+      ]
+    },
+    {
+      "title": "Sam Mountain pilgrimage",
+      "summary": "One morning in phường Vĩnh Tế for the hill, the shrine, Tây An, the cave pagoda, and the tomb.",
+      "body": [
+        "Vietnam Tourism says about 200 large and small religious sites are scattered on the slopes. The foot of the hill is Miếu Bà Chúa Xứ, Chùa Tây An, Chùa Hang (Phước Điền), and Lăng Thoại Ngọc Hầu.",
+        "The climb, and any cable car, is a different effort from those halls. A cable-car fee was not on the pages opened. Check on arrival. From the first lunar month through the Via festival, the halls are crowded from early morning."
+      ],
+      "cards": [
+        {
+          "title": "Sam Mountain",
+          "summary": "The sacred hill in phường Vĩnh Tế. Walk the halls at the foot, then climb if you want the plain. The article that gives the distance prints both about 5 km and about 7 km.",
+          "attractionSlug": "sam-mountain",
+          "photo": "chau-doc-sam-mountain",
+          "icon": "view"
+        },
+        {
+          "title": "Ba Chua Xu Temple",
+          "summary": "Miếu Bà Chúa Xứ at the foot of the hill. Offerings on the steps, and the statue Vietnam Tourism says was found on the mountain about 200 years ago. Come early outside festival days.",
+          "attractionSlug": "ba-chua-xu",
+          "photo": "chau-doc-ba-chua-xu",
+          "icon": "museum"
+        },
+        {
+          "title": "Tay An Pagoda",
+          "summary": "Chùa Tây An, on the same foot-of-the-hill walk as the shrine and the tomb. A room-by-room guide was not published. The gate fee is check on arrival.",
+          "attractionSlug": "tay-an-pagoda",
+          "photo": "chau-doc-tay-an-pagoda",
+          "icon": "museum"
+        },
+        {
+          "title": "Cave Pagoda",
+          "summary": "Chùa Hang, also called Phước Điền, on the slope. It is a climb, and the view from it reaches toward the plain. Hours and the fee are check on arrival.",
+          "attractionSlug": "hang-pagoda",
+          "photo": "chau-doc-hang-pagoda",
+          "icon": "view"
+        },
+        {
+          "title": "Thoai Ngoc Hau Tomb",
+          "summary": "Lăng Thoại Ngọc Hầu at the mountain, not at the market. The 2026 festival moves his spirit tablet between this ground and the shrine.",
+          "attractionSlug": "thoai-ngoc-hau-tomb",
+          "photo": "chau-doc-thoai-ngoc-hau-tomb",
+          "icon": "museum"
+        }
+      ]
+    },
+    {
+      "title": "Tra Su by boat",
+      "summary": "The flooded cajuput forest 23 km out. The gate ticket does not include the boat.",
+      "body": [
+        "Rừng tràm Trà Sư is a wetland conservation forest west of the Hậu. One page says more than 845 ha. The charms chapter says 850 ha. The bamboo bridge is printed as 2.2 km on the operator page and as longer than 3,800 m on the rural-tourism page.",
+        "The standing price, applied from 1 November 2024, is 120,000 VND at the gate and 60,000 VND for a motorboat or a rowboat. A 30 June 2026 title about a new price notice was not opened. Confirm the boat at the gate."
+      ],
+      "cards": [
+        {
+          "title": "Tra Su cajuput forest",
+          "summary": "A half day, 23 km from town. Walk the bamboo bridge and take a sampan through duckweed. The gate is 120,000 VND. The boat is a separate ticket.",
+          "attractionSlug": "tra-su",
+          "photo": "chau-doc-tra-su",
+          "icon": "view"
+        }
+      ]
+    },
+    {
+      "title": "Fish rafts on the Hau",
+      "summary": "Raft houses that are freshwater fish farms, at the Châu Đốc river junction.",
+      "body": [
+        "Vietnam Tourism calls the community about 50 years old, raising catfish and snapper. The province says the early-2024 color project painted 165 rafts in six color blocks. VnExpress prints more than 160, and also 161, over more than 1 km, beside Cồn Tiên bridge.",
+        "This is not Cái Răng. A posted pier tariff was not opened. The boat fare is check on arrival. Lights after dark are described. A last-boat clock is not."
+      ],
+      "cards": [
+        {
+          "title": "Fish-raft village",
+          "summary": "Boat among the raft houses on the Hậu and the Châu Đốc river. Counts in the sources are 165, more than 160, and 161. The fare is check on arrival.",
+          "attractionSlug": "fish-rafts",
+          "photo": "chau-doc-fish-rafts",
+          "icon": "view"
+        }
+      ]
+    },
+    {
+      "title": "Cham weaving villages",
+      "summary": "Châu Phong and Đa Phước, on two banks of the Hậu. Mubarak is Châu Phong. It is not every mosque.",
+      "body": [
+        "The province places Mubarak, Jamiul Azhar, and Nia’mah in Châu Phong, and Ihsan and Sunnah in Đa Phước. Weaving in Châu Phong was listed as national intangible cultural heritage at the end of 2023, with lifecycle rituals.",
+        "The English guide also says Châu Giang and Châu Phong sit on two islets. This dossier did not find a 2026 commune page that still uses Châu Giang as the official name. Do not merge the names into one building."
+      ],
+      "cards": [
+        {
+          "title": "Chau Phong and Da Phuoc",
+          "summary": "Mosques, stilt houses, and weaving across the river. The photograph is the Jamiul Azhar gate in Châu Phong. Mosque gates are check on arrival.",
+          "attractionSlug": "cham-villages",
+          "photo": "chau-doc-cham-villages",
+          "icon": "museum"
+        }
+      ]
+    },
+    {
+      "title": "River evening",
+      "summary": "Walk the Hậu bank after the mountain. There is no bar street in the dossier.",
+      "body": [
+        "Vietnam Tourism’s evening chapter is this waterfront: barges, the far islets, and the rafts once the lights are on. The walk is not a ticket. A boat fare and a last-boat time are check on arrival.",
+        "Festival nights at Núi Sam are a separate calendar. They are not this walk."
+      ],
+      "cards": [
+        {
+          "title": "Hau riverfront",
+          "summary": "The town bank in phường Châu Đốc at dusk. Stay on the river if you want to walk here. Minutes from a bungalow on Núi Sam are check on arrival.",
+          "attractionSlug": "hau-riverfront",
+          "photo": "chau-doc-hau-riverfront",
+          "icon": "view"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a day trip from Ho Chi Minh City enough?",
+      "a": "No, if you wanted a boat. Vietnam Tourism prints about five hours on the English place page and about six hours on the Vietnamese page. Sleep in Châu Đốc, or in Can Tho if the dawn market there is the point."
+    },
+    {
+      "q": "When is the festival of Ba Chua Xu?",
+      "a": "UNESCO element 01999 and the 2026 culture-department article say the 22nd to the 27th of the fourth lunar month. TITC prints the 23rd to the 27th. In 2026 the ward mapped the rites to 6–12 June. Another year’s civil dates are check on arrival."
+    },
+    {
+      "q": "Should you stay in Can Tho or Chau Doc?",
+      "a": "Stay in Can Tho for Cái Răng at dawn and for the airport. Stay in Châu Đốc for the fish rafts, the Cham villages, and Núi Sam. The airport drive between them is about three hours."
+    }
+  ],
+  "season": {
+    "label": "High water Aug–Nov",
+    "note": "The English Vietnam Tourism card says the rainy season is May to November and the best visit is September to November, when floodwater fills Trà Sư. The Vietnamese page says rain from May through October, high water from August to November, and dry, sunny weather from November to April. No page checked says the road from Ho Chi Minh City or Can Tho closes in flood season. Flood is the reason to be on the water. Another year’s civil dates for Vía Bà are check on arrival."
+  }
+}
