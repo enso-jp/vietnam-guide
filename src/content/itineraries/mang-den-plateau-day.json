@@ -1,0 +1,31 @@
+{
+  "slug": "mang-den-plateau-day",
+  "title": "Mang Den plateau day",
+  "kind": "trip",
+  "level": "day",
+  "duration": "1 day",
+  "spanDays": 1,
+  "placeSlug": "mang-den",
+  "budget": "Check on arrival",
+  "pace": "Cool morning, short drives",
+  "summary": "Dak Ke lake in the morning and Kon Pring in the afternoon. Pa Sy and the church stay dossier-only until a licensed photo exists.",
+  "photo": "mang-den-dak-ke-lake",
+  "stops": [
+    {
+      "name": "Dak Ke Lake",
+      "minutes": 120,
+      "placeSlug": "mang-den",
+      "attractionSlug": "dak-ke-lake",
+      "note": "Shore walk while the air is still cool. Gate fees stay check on arrival."
+    },
+    {
+      "name": "Kon Pring village",
+      "minutes": 90,
+      "placeSlug": "mang-den",
+      "attractionSlug": "kon-pring-village",
+      "note": "Communal house and gong culture on Highway 24. Ask before photos inside the rong house."
+    }
+  ],
+  "seoTitle": "One day on the Mang Den plateau",
+  "seoDescription": "Dak Ke lake and Kon Pring village from a Mang Den base, on the only sights with licensed photos today."
+}
