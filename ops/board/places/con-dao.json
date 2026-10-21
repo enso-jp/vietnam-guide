@@ -1,0 +1,105 @@
+{
+  "slug": "con-dao",
+  "name": "Con Dao",
+  "nameVi": "Côn Đảo",
+  "corridor": "southeast",
+  "kind": "area",
+  "parent": null,
+  "publish": "candidate",
+  "priority": 121,
+  "note": "Southeastern Vietnam. The archipelago is its own place. It is not a second Vung Tau page. Research only until the owner accepts publish.",
+  "coverage": {
+    "sights": "missing",
+    "areas": "missing",
+    "foodStreets": "missing",
+    "nightlife": "missing",
+    "lifestyle": "missing",
+    "events": "missing",
+    "sideTrips": "missing"
+  },
+  "stages": {
+    "researchBase": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchAttractions": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchFood": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchNightlife": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchLifestyle": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchContext": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destination": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "food": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    }
+  },
+  "items": [],
+  "questions": [],
+  "claim": {
+    "place": "con-dao",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-21T18:31:10.540Z",
+    "by": "con-dao-research",
+    "branch": "cursor/con-dao-research-828e"
+  },
+  "log": []
+}
