@@ -110,6 +110,13 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "my-son",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-21T05:05:43.542Z",
+    "by": "content-worker",
+    "branch": "content/my-son-research-base"
+  },
   "log": []
 }
