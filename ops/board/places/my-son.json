@@ -1,0 +1,115 @@
+{
+  "slug": "my-son",
+  "name": "My Son",
+  "nameVi": "Mỹ Sơn",
+  "corridor": "central-coast",
+  "kind": "area",
+  "parent": null,
+  "publish": "live",
+  "priority": 4,
+  "note": "",
+  "coverage": {
+    "sights": "missing",
+    "areas": "missing",
+    "foodStreets": "missing",
+    "nightlife": "missing",
+    "lifestyle": "missing",
+    "events": "missing",
+    "sideTrips": "missing"
+  },
+  "stages": {
+    "destination": {
+      "status": "shell",
+      "note": "A place file exists. It has not been set up from a stored dossier.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "food": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchBase": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchAttractions": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchFood": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchNightlife": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchLifestyle": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchContext": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    }
+  },
+  "items": [
+    {
+      "id": "my-son--towers",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Main tower groups",
+      "slug": "towers",
+      "file": "src/content/attractions/my-son--towers.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Published shell. No dossier yet.",
+      "updated": null,
+      "reworkCount": 0
+    }
+  ],
+  "questions": [],
+  "claim": null,
+  "log": []
+}

@@ -1,8 +1,9 @@
 #!/usr/bin/env node
 /**
  * Shared status for Vietnam Guide content runs.
- * The file ops/board.json is the database. This script is the only writer
- * hourly runs should use. It does not edit public pages.
+ * ops/board/control.json and ops/board/places/<slug>.json are the database.
+ * This script is the only writer hourly runs should use. It does not edit public pages.
+ * A claim locks one place. Other places can be claimed at the same time.
  */
 import fs from "node:fs";
 import path from "node:path";
@@ -10,6 +11,7 @@ import { execSync } from "node:child_process";
 
 const root = path.resolve(path.dirname(new URL(import.meta.url).pathname), "..");
 const boardPath = process.env.BOARD_PATH || path.join(root, "ops", "board.json");
+const boardDir = process.env.BOARD_DIR || path.join(root, "ops", "board");
 const pausePath = process.env.PAUSE_PATH || path.join(root, "ops", "PAUSE");
 const researchRoot = process.env.RESEARCH_ROOT || path.join(root, "research");
 
@@ -113,6 +115,8 @@ const ALLOWED_PATH = [
   /^research\//,
   /^public\/photos\//,
   /^ops\/board\.json$/,
+  /^ops\/board\/control\.json$/,
+  /^ops\/board\/places\/[a-z0-9-]+\.json$/,
   /^ops\/reports\//,
 ];
 
@@ -185,16 +189,83 @@ function writeJson(file, data) {
   fs.writeFileSync(file, `${JSON.stringify(data, null, 2)}\n`);
 }
 
+function directoryMode() {
+  return !process.env.BOARD_PATH && fs.existsSync(path.join(boardDir, "control.json"));
+}
+
+function placeFile(slug) {
+  return path.join(boardDir, "places", `${slug}.json`);
+}
+
 function load() {
+  if (process.env.BOARD_PATH) {
+    if (!fs.existsSync(boardPath)) fail(`No board at ${boardPath}.`);
+    return normalize(readJson(boardPath));
+  }
+  if (directoryMode()) {
+    const control = readJson(path.join(boardDir, "control.json"));
+    const placeDir = path.join(boardDir, "places");
+    const places = fs.readdirSync(placeDir).filter((name) => name.endsWith(".json")).map((name) => readJson(path.join(placeDir, name)));
+    return normalize({
+      version: control.version || 2,
+      updated: control.updated,
+      control,
+      claim: null,
+      log: control.log || [],
+      places,
+    });
+  }
   if (!fs.existsSync(boardPath)) {
     fail(`No board at ${path.relative(root, boardPath)}. Run: node scripts/board.mjs init`);
   }
-  return readJson(boardPath);
+  return normalize(readJson(boardPath));
 }
 
-function save(board) {
+function normalize(board) {
+  board.control = board.control || {};
+  if (board.control.parallelUnits == null) board.control.parallelUnits = 4;
+  board.log = board.log || [];
+  for (const place of board.places || []) {
+    place.claim = place.claim || null;
+    place.log = place.log || [];
+    place.questions = place.questions || [];
+  }
+  if (board.claim?.place) {
+    const place = board.places.find((row) => row.slug === board.claim.place);
+    if (place && !place.claim) place.claim = board.claim;
+    board.claim = null;
+  }
+  return board;
+}
+
+function save(board, scope) {
   board.updated = nowIso();
-  writeJson(boardPath, board);
+  if (process.env.BOARD_PATH) {
+    writeJson(process.env.BOARD_PATH, board);
+    return;
+  }
+  if (!directoryMode() && !scope?.forceDirectory) {
+    writeJson(boardPath, board);
+    return;
+  }
+  const slugs = scope?.places;
+  if (!slugs) {
+    writeJson(path.join(boardDir, "control.json"), {
+      version: board.version || 2,
+      updated: board.updated,
+      pause: board.control.pause,
+      pauseReason: board.control.pauseReason || "",
+      claimStaleHours: board.control.claimStaleHours ?? 3,
+      maxOpenContentPrs: board.control.maxOpenContentPrs ?? 4,
+      parallelUnits: board.control.parallelUnits ?? 4,
+      holdPlaces: board.control.holdPlaces || [],
+      log: board.log || [],
+    });
+    for (const place of board.places) writeJson(placeFile(place.slug), place);
+    if (fs.existsSync(boardPath)) fs.rmSync(boardPath);
+    return;
+  }
+  for (const slug of slugs) writeJson(placeFile(slug), findPlace(board, slug));
 }
 
 function fail(message) {
@@ -263,6 +334,8 @@ function placeShell(fields) {
     stages: Object.fromEntries(PLACE_STAGES.map((name) => [name, stage()])),
     items: fields.items || [],
     questions: [],
+    claim: null,
+    log: [],
   };
 }
 
@@ -296,15 +369,19 @@ function paused(board) {
   return "";
 }
 
-function claimAgeHours(board) {
-  if (!board.claim?.at) return null;
-  return (Date.now() - Date.parse(board.claim.at)) / 36e5;
+function claimAgeHours(claim) {
+  if (!claim?.at) return null;
+  return (Date.now() - Date.parse(claim.at)) / 36e5;
 }
 
-function claimFresh(board) {
-  const age = claimAgeHours(board);
+function claimFresh(claim, board) {
+  const age = claimAgeHours(claim);
   if (age == null || Number.isNaN(age)) return false;
   return age < (board.control.claimStaleHours ?? 3);
+}
+
+function freshClaims(board) {
+  return board.places.filter((place) => claimFresh(place.claim, board)).map((place) => place.claim);
 }
 
 function skipSet(flag) {
@@ -317,38 +394,35 @@ function held(board, slug, skip) {
   return (board.control.holdPlaces || []).includes(slug);
 }
 
-function nextWork(board, skip) {
+function nextWork(board, skip, limit = 1) {
   const hold = paused(board);
-  if (hold) return { action: "stop", reason: "paused", detail: hold };
-  if (board.claim && claimFresh(board)) {
+  if (hold) return { action: "stop", reason: "paused", detail: hold, units: [] };
+  const cap = Math.max(1, Number(limit) || 1);
+  const ranked = [...board.places].sort((a, b) => a.priority - b.priority || a.slug.localeCompare(b.slug));
+  const units = [];
+  for (const publish of ["live", "accepted", "candidate"]) {
+    for (const place of ranked) {
+      if (units.length >= cap) break;
+      if (place.publish !== publish) continue;
+      if (held(board, place.slug, skip)) continue;
+      if (claimFresh(place.claim, board)) continue;
+      const unit = nextForPlace(place);
+      if (!unit) continue;
+      if (place.publish === "candidate" && !String(unit.stage).startsWith("research")) continue;
+      units.push(unit);
+    }
+  }
+  if (!units.length) {
     return {
       action: "stop",
-      reason: "claimed",
-      detail: "A fresh claim is on the board. Wait for that run to finish, or let it go stale.",
-      claim: board.claim,
+      reason: skip.size ? "nothing-unskipped" : "queue-clear",
+      detail: skip.size
+        ? "Every remaining unit is held, skipped, or already claimed in an open pull request."
+        : "No open live or candidate unit. The dispatcher should not open a pull request.",
+      units: [],
     };
   }
-  const stale = board.claim && !claimFresh(board);
-  const places = [...board.places].sort((a, b) => a.priority - b.priority || a.slug.localeCompare(b.slug));
-  for (const place of places) {
-    if (place.publish === "candidate") continue;
-    if (held(board, place.slug, skip)) continue;
-    const unit = nextForPlace(place);
-    if (unit) return { action: "work", releasedStaleClaim: Boolean(stale), ...unit };
-  }
-  for (const place of places) {
-    if (place.publish !== "candidate") continue;
-    if (held(board, place.slug, skip)) continue;
-    const unit = nextForPlace(place);
-    if (unit) return { action: "work", releasedStaleClaim: Boolean(stale), ...unit };
-  }
-  return {
-    action: "stop",
-    reason: skip.size ? "nothing-unskipped" : "queue-clear",
-    detail: skip.size
-      ? "Every remaining unit is held, skipped, or already claimed in an open pull request."
-      : "No open live or candidate unit. The hourly run should not open a pull request.",
-  };
+  return { action: "work", units };
 }
 
 function workRow(place, stage, item, note) {
@@ -372,6 +446,10 @@ function laneByStage(stage) {
 
 function laneForKind(kind) {
   return RESEARCH_LANES.find((lane) => lane.kinds.includes(kind)) || null;
+}
+
+function laneForBucket(bucket) {
+  return RESEARCH_LANES.find((lane) => lane.buckets.includes(bucket)) || null;
 }
 
 function bucketOpen(place, bucket) {
@@ -420,19 +498,7 @@ function nextForPlace(place) {
   return null;
 }
 
-function printWork(work) {
-  if (work.action === "stop") {
-    console.log(`action: stop`);
-    console.log(`reason: ${work.reason}`);
-    console.log(`detail: ${work.detail || ""}`);
-    if (work.claim) {
-      console.log(`claim.place: ${work.claim.place}`);
-      console.log(`claim.stage: ${work.claim.stage}`);
-      console.log(`claim.item: ${work.claim.item || ""}`);
-      console.log(`claim.at: ${work.claim.at}`);
-    }
-    return;
-  }
+function printUnit(work) {
   console.log(`action: work`);
   console.log(`place: ${work.place}`);
   console.log(`name: ${work.name}`);
@@ -443,7 +509,20 @@ function printWork(work) {
   console.log(`skill: ${work.skill}`);
   console.log(`focus: ${work.focus || ""}`);
   console.log(`note: ${work.note || ""}`);
-  console.log(`releasedStaleClaim: ${work.releasedStaleClaim ? "yes" : "no"}`);
+}
+
+function printWork(result) {
+  if (result.action === "stop") {
+    console.log(`action: stop`);
+    console.log(`reason: ${result.reason}`);
+    console.log(`detail: ${result.detail || ""}`);
+    return;
+  }
+  console.log(`count: ${result.units.length}`);
+  for (const unit of result.units) {
+    console.log("---");
+    printUnit(unit);
+  }
 }
 
 function sameUnit(claim, work) {
@@ -451,9 +530,15 @@ function sameUnit(claim, work) {
 }
 
 function logPush(board, entry) {
-  board.log = board.log || [];
-  board.log.unshift({ at: nowIso(), ...entry });
-  board.log = board.log.slice(0, 40);
+  const line = { at: nowIso(), ...entry };
+  if (entry.place) {
+    const place = board.places.find((row) => row.slug === entry.place);
+    if (place) {
+      place.log = [line, ...(place.log || [])].slice(0, 20);
+      return;
+    }
+  }
+  board.log = [line, ...(board.log || [])].slice(0, 40);
 }
 
 function touchDownstream(place) {
@@ -534,7 +619,7 @@ function lastOpenLane(place, stage) {
 }
 
 function cmdInit() {
-  if (fs.existsSync(boardPath) && !process.argv.includes("--force")) {
+  if ((directoryMode() || fs.existsSync(boardPath)) && !process.argv.includes("--force")) {
     fail("Board already exists. Refusing to overwrite it.");
   }
   const content = path.join(root, "src", "content");
@@ -590,13 +675,14 @@ function cmdInit() {
     places.push(placeShell({ ...candidate, publish: "candidate" }));
   }
   const board = {
-    version: 1,
+    version: 2,
     updated: nowIso(),
     control: {
       pause: false,
       pauseReason: "",
       claimStaleHours: 3,
       maxOpenContentPrs: 4,
+      parallelUnits: 4,
       holdPlaces: [],
     },
     claim: null,
@@ -612,8 +698,9 @@ function cmdInit() {
     ],
     places,
   };
-  save(board);
-  console.log(`Wrote ${places.length} places to ${path.relative(root, boardPath)}.`);
+  save(board, process.env.BOARD_PATH ? undefined : { forceDirectory: true });
+  const where = process.env.BOARD_PATH ? path.relative(root, boardPath) : "ops/board/";
+  console.log(`Wrote ${places.length} places to ${where}.`);
 }
 
 function dossierStored(slug) {
@@ -773,7 +860,7 @@ function daNangExtras() {
 
 function cmdNext(flags) {
   const board = load();
-  const work = nextWork(board, skipSet(flags.skip));
+  const work = nextWork(board, skipSet(flags.skip), flags.limit || board.control.parallelUnits || 4);
   if (flags.json) console.log(JSON.stringify(work, null, 2));
   else printWork(work);
 }
@@ -781,17 +868,21 @@ function cmdNext(flags) {
 function cmdClaim(flags) {
   if (!flags.place || !flags.stage) fail("claim needs --place and --stage.");
   const board = load();
+  const place = findPlace(board, flags.place);
   const requested = { place: flags.place, stage: flags.stage, item: flags.item || null };
-  if (board.claim && claimFresh(board) && sameUnit(board.claim, requested)) {
+  if (claimFresh(place.claim, board) && sameUnit(place.claim, requested)) {
     console.log(`Already claimed ${requested.place} ${requested.stage} ${requested.item || ""}.`.trim());
     return;
   }
-  const work = nextWork(board, skipSet(flags.skip));
-  if (work.action !== "work") fail(`Nothing to claim (${work.reason}). ${work.detail || ""}`);
-  if (requested.place !== work.place || requested.stage !== work.stage || (requested.item || null) !== (work.item || null)) {
-    fail(`Refusing the claim. Next unit is ${work.place} ${work.stage} ${work.item || ""}.`.trim());
+  if (claimFresh(place.claim, board)) {
+    fail(`Refusing the claim. ${place.slug} is already claimed for ${place.claim.stage}.`);
   }
-  board.claim = {
+  const work = nextForPlace(place);
+  if (!work) fail(`Nothing to claim on ${place.slug}.`);
+  if (requested.stage !== work.stage || (requested.item || null) !== (work.item || null)) {
+    fail(`Refusing the claim. Next unit for ${place.slug} is ${work.stage} ${work.item || ""}.`.trim());
+  }
+  place.claim = {
     place: work.place,
     stage: work.stage,
     item: work.item,
@@ -799,25 +890,27 @@ function cmdClaim(flags) {
     by: flags.by || "hourly",
     branch: flags.branch || "",
   };
-  save(board);
+  save(board, { places: [place.slug] });
   console.log(`Claimed ${work.place} ${work.stage} ${work.item || ""}.`.trim());
 }
 
-function cmdRelease() {
+function cmdRelease(flags) {
   const board = load();
-  if (!board.claim) {
+  if (!flags.place) fail("release needs --place.");
+  const place = findPlace(board, flags.place);
+  if (!place.claim) {
     console.log("No claim.");
     return;
   }
   logPush(board, {
-    place: board.claim.place,
-    stage: board.claim.stage,
-    item: board.claim.item,
+    place: place.slug,
+    stage: place.claim.stage,
+    item: place.claim.item,
     status: "released",
     note: "Claim released without finishing the unit.",
   });
-  board.claim = null;
-  save(board);
+  place.claim = null;
+  save(board, { places: [place.slug] });
   console.log("Released.");
 }
 
@@ -829,12 +922,18 @@ function cmdComplete(flags) {
   const board = load();
   const place = findPlace(board, flags.place);
   const itemId = flags.item || null;
-    if (flags.stage === "research") {
-      fail(`Research is split into lanes: ${RESEARCH_LANES.map((lane) => lane.stage).join(", ")}.`);
-    }
-    if (PLACE_STAGES.includes(flags.stage)) {
+  if (flags.stage === "research") {
+    fail(`Research is split into lanes: ${RESEARCH_LANES.map((lane) => lane.stage).join(", ")}.`);
+  }
+  if (PLACE_STAGES.includes(flags.stage)) {
     if (itemId) fail("Place stages do not take --item. Use page, copy, or quality for an item.");
     const lane = laneByStage(flags.stage);
+    if (lane && flags.status === "stored" && place.stages[flags.stage].status === "not_started") {
+      fail(`${flags.stage} is still not_started. The first pass must end --status needs_depth, with coverage left partial or missing. A later pass may store it.`);
+    }
+    if (lane && flags.status === "stored" && !/left out/i.test(flags.note || "")) {
+      fail(`${flags.stage} cannot be stored without --note saying what was left out.`);
+    }
     if (lane && flags.status === "stored") {
       assertLaneStored(place, lane);
       if (lastOpenLane(place, flags.stage)) {
@@ -867,6 +966,9 @@ function cmdComplete(flags) {
   } else if (ITEM_FIELDS.includes(flags.stage)) {
     if (!itemId) fail("Item stages need --item.");
     const item = findItem(place, itemId);
+    if (flags.stage === "page" && flags.status === "skipped" && item.source === "owner") {
+      fail(`${item.id} was named by the owner. Research must not set its page to skipped.`);
+    }
     if (flags.stage === "page" && !isDone(item.research)) {
       fail(`${item.id} is not sourced. Finish research before a page.`);
     }
@@ -884,9 +986,9 @@ function cmdComplete(flags) {
   } else {
     fail(`Unknown stage ${flags.stage}.`);
   }
-  if (board.claim && sameUnit(board.claim, { place: place.slug, stage: flags.stage, item: itemId })) board.claim = null;
+  if (place.claim && sameUnit(place.claim, { place: place.slug, stage: flags.stage, item: itemId })) place.claim = null;
   logPush(board, { place: place.slug, stage: flags.stage, item: itemId, status: flags.status, note: flags.note || "" });
-  save(board);
+  save(board, { places: [place.slug] });
   console.log(`Updated ${place.slug} ${flags.stage} ${itemId || ""} -> ${flags.status}.`.trim());
 }
 
@@ -895,11 +997,14 @@ function cmdSetItem(flags) {
   const board = load();
   const place = findPlace(board, flags.place);
   const item = findItem(place, flags.id);
+  if (flags.page === "skipped" && item.source === "owner") {
+    fail(`${item.id} was named by the owner. Research must not set its page to skipped.`);
+  }
   for (const key of ["research", "page", "copy", "quality", "note", "file", "kind", "track"]) {
     if (flags[key]) item[key] = flags[key];
   }
   item.updated = nowIso();
-  save(board);
+  save(board, { places: [place.slug] });
   console.log(`Updated item ${item.id}.`);
 }
 
@@ -926,7 +1031,7 @@ function cmdAddItem(flags) {
     place.stages[owner.stage].note = "A new item was added after this lane was stored.";
     place.stages[owner.stage].updated = nowIso();
   }
-  save(board);
+  save(board, { places: [place.slug] });
   console.log(`Added ${id}.`);
 }
 
@@ -940,9 +1045,13 @@ function cmdCover(flags) {
   if (!["missing", "partial", "filled", "none"].includes(flags.state)) fail("State must be missing, partial, filled, or none.");
   const board = load();
   const place = findPlace(board, flags.place);
+  const owner = laneForBucket(flags.bucket);
+  if (flags.state === "filled" && owner && place.stages[owner.stage]?.status === "not_started") {
+    fail(`${flags.bucket} cannot be filled while ${owner.stage} is not_started. The first pass leaves it partial or missing.`);
+  }
   place.coverage[flags.bucket] = flags.state;
   if (flags.note) place.note = flags.note;
-  save(board);
+  save(board, { places: [place.slug] });
   console.log(`${place.slug} ${flags.bucket} = ${flags.state}.`);
 }
 
@@ -962,17 +1071,21 @@ function cmdBlock(flags) {
     item.updated = nowIso();
   } else fail("Unknown stage. Item blocks need --item.");
   place.questions.push({ at: nowIso(), stage: flags.stage, item: flags.item || null, text: flags.question, open: true });
-  if (board.claim && board.claim.place === place.slug) board.claim = null;
+  place.claim = null;
   logPush(board, { place: place.slug, stage: flags.stage, item: flags.item || null, status: "blocked", note: flags.question });
-  save(board);
+  save(board, { places: [place.slug] });
   console.log("Blocked and recorded the question.");
 }
 
-function cmdReconcile() {
+function cmdReconcile(flags) {
   const board = load();
   const content = path.join(root, "src", "content");
   let added = 0;
-  for (const file of fs.readdirSync(path.join(content, "places")).filter((name) => name.endsWith(".json"))) {
+  const touched = new Set();
+  const files = fs.readdirSync(path.join(content, "places")).filter((name) => name.endsWith(".json"));
+  const selected = flags.place ? files.filter((name) => name === `${flags.place}.json`) : files;
+  if (flags.place && !selected.length) fail(`No published place file for ${flags.place}.`);
+  for (const file of selected) {
     const json = readJson(path.join(content, "places", file));
     let place = board.places.find((row) => row.slug === json.slug);
     if (!place) {
@@ -989,6 +1102,7 @@ function cmdReconcile() {
       });
       place.stages.destination.status = "shell";
       board.places.push(place);
+      touched.add(place.slug);
       added++;
     }
     const known = new Set(place.items.map((item) => item.id));
@@ -1001,10 +1115,11 @@ function cmdReconcile() {
         row.note = "File appeared after the board was opened. Confirm it against the dossier before treating the page as done.";
       }
       place.items.push(row);
+      touched.add(place.slug);
       added++;
     }
   }
-  save(board);
+  if (added) save(board, { places: [...touched] });
   console.log(added ? `Reconcile added ${added}.` : "Reconcile: board matches published files.");
 }
 
@@ -1069,16 +1184,19 @@ function cmdReport(flags) {
   const hold = paused(board);
   const reasons = [];
   if (hold) reasons.push(hold);
-  if (board.claim && !claimFresh(board)) {
-    reasons.push(`Claim for ${board.claim.place} ${board.claim.stage} is stale since ${board.claim.at}. The next hourly run may pick it up. Close a dead draft pull request for that place if one is still open.`);
-  }
-  if (board.claim && claimFresh(board)) {
-    const age = claimAgeHours(board);
-    if (age > 1.5) reasons.push(`Claim for ${board.claim.place} ${board.claim.stage} has been fresh for ${age.toFixed(1)} hours. If that run is dead, wait until it is stale or release it.`);
+  for (const place of board.places) {
+    if (!place.claim) continue;
+    const label = `${place.slug} ${place.claim.stage}`;
+    if (!claimFresh(place.claim, board)) {
+      reasons.push(`Claim for ${label} is stale since ${place.claim.at}. The next hourly run may pick that place up. Close a dead draft pull request for it if one is still open.`);
+      continue;
+    }
+    const age = claimAgeHours(place.claim);
+    if (age > 1.5) reasons.push(`Claim for ${label} has been fresh for ${age.toFixed(1)} hours. If that run is dead, wait until it is stale or release it.`);
   }
   const questions = board.places.flatMap((place) => place.questions.filter((q) => q.open).map((q) => ({ place: place.slug, ...q })));
   const blocked = blockedUnits(board);
-  const work = nextWork(board, new Set());
+  const work = nextWork(board, new Set(), board.control.parallelUnits || 4);
   lines.push("# Vietnam Guide daily board");
   lines.push("");
   lines.push(`Checked: ${nowIso()}`);
@@ -1089,13 +1207,21 @@ function cmdReport(flags) {
     lines.push("Pause reasons:");
     for (const reason of reasons) lines.push(`- ${reason}`);
   } else {
-    lines.push("The hourly run can take the next unit. Pause it first if you are about to edit src/content or research yourself.");
+    lines.push("The hourly run can start several places at once. Pause it first if you are about to edit src/content or research yourself.");
+  }
+  const active = freshClaims(board);
+  if (active.length) {
+    lines.push("");
+    lines.push("## In progress");
+    lines.push("");
+    for (const claim of active) lines.push(`- ${claim.place} — ${claim.stage}${claim.item ? ` — ${claim.item}` : ""} since ${claim.at}`);
   }
   lines.push("");
-  lines.push("## Next unit");
+  lines.push("## Places that can start");
   lines.push("");
-  if (work.action === "work") lines.push(`${work.place} — ${work.stage}${work.item ? ` — ${work.item}` : ""}. Skill: ${work.skill}.`);
-  else lines.push(`${work.reason}. ${work.detail || ""}`);
+  if (work.action === "work") {
+    for (const unit of work.units) lines.push(`- ${unit.place} — ${unit.stage}${unit.item ? ` — ${unit.item}` : ""}. Skill: ${unit.skill}.`);
+  } else lines.push(`${work.reason}. ${work.detail || ""}`);
   lines.push("");
   lines.push("## Attention");
   lines.push("");
@@ -1115,7 +1241,7 @@ function cmdReport(flags) {
   lines.push("");
   lines.push("## Recent log");
   lines.push("");
-  for (const entry of (board.log || []).slice(0, 8)) {
+  for (const entry of recentLog(board)) {
     lines.push(`- ${entry.at} ${entry.place} ${entry.stage} ${entry.status} ${entry.note || ""}`.trim());
   }
   lines.push("");
@@ -1126,8 +1252,9 @@ function cmdReport(flags) {
   lines.push("- To pause everything, create ops/PAUSE or set control.pause to true on main.");
   lines.push("- To keep one destination while you edit it, add its slug to control.holdPlaces.");
   lines.push("- A candidate place gets no public file until you set publish to accepted.");
-  lines.push("- Merge a content pull request only when its board claim is empty.");
-  lines.push("- Count open pull requests whose titles start with content:. Pause the hourly run if that count is at or above control.maxOpenContentPrs.");
+  lines.push("- Merge a content pull request only when that place's claim is null.");
+  lines.push("- One hourly trigger starts up to control.parallelUnits places, and never more open content: pulls than control.maxOpenContentPrs.");
+  lines.push("- A fresh claim locks that place only. Another place can run in the same hour.");
   const text = lines.join("\n");
   if (flags.write) {
     const dir = path.join(root, "ops", "reports");
@@ -1138,6 +1265,13 @@ function cmdReport(flags) {
   }
   if (flags.json) console.log(JSON.stringify({ recommendation: reasons.length ? "PAUSE" : "CONTINUE", reasons, work, questions, blocked }, null, 2));
   else console.log(text);
+}
+
+function recentLog(board) {
+  const rows = [...(board.log || [])];
+  for (const place of board.places) rows.push(...(place.log || []));
+  rows.sort((a, b) => String(b.at).localeCompare(String(a.at)));
+  return rows.slice(0, 8);
 }
 
 function blockedUnits(board) {
@@ -1191,6 +1325,19 @@ function cmdUpgrade() {
   console.log(`Upgraded ${changed} places to research lanes.`);
 }
 
+function cmdSplit() {
+  if (process.env.BOARD_PATH) fail("split refuses BOARD_PATH. Tests keep a single file.");
+  if (directoryMode()) {
+    console.log("Board is already one file per place.");
+    return;
+  }
+  if (!fs.existsSync(boardPath)) fail("No ops/board.json to split.");
+  const board = load();
+  board.version = 2;
+  save(board, { forceDirectory: true });
+  console.log(`Split ${board.places.length} places into ops/board/.`);
+}
+
 function runSelfCheck() {
   const dir = fs.mkdtempSync(path.join("/tmp", "board-"));
   const file = path.join(dir, "board.json");
@@ -1215,13 +1362,14 @@ function runSelfCheck() {
     slug: "huynh-thuc-khang",
     source: "owner",
   }));
+  const other = placeShell({ slug: "hoi-an", name: "Hoi An", publish: "live", priority: 3 });
   writeJson(file, {
-    version: 1,
+    version: 2,
     updated: nowIso(),
-    control: { pause: false, pauseReason: "", claimStaleHours: 3, maxOpenContentPrs: 4, holdPlaces: ["hue"] },
+    control: { pause: false, pauseReason: "", claimStaleHours: 3, maxOpenContentPrs: 4, parallelUnits: 4, holdPlaces: ["hue"] },
     claim: null,
     log: [],
-    places: [place, placeShell({ slug: "hue", name: "Hue", publish: "live", priority: 2 })],
+    places: [place, placeShell({ slug: "hue", name: "Hue", publish: "live", priority: 2 }), other],
   });
   const dossier = path.join(dir, "sample");
   fs.mkdirSync(dossier, { recursive: true });
@@ -1230,38 +1378,99 @@ function runSelfCheck() {
   fs.writeFileSync(path.join(dossier, "food.md"), "## Food streets and markets\n\n### Market\n- Note: test\n");
   const env = { ...process.env, BOARD_PATH: file, PAUSE_PATH: pause, RESEARCH_ROOT: dir };
   const run = (extra) => execSync(`node ${script} ${extra}`, { env, encoding: "utf8", stdio: ["ignore", "pipe", "pipe"] });
-  const first = run("next");
-  if (!first.includes("stage: researchFood") || !first.includes("place: sample")) fail(`self-check next:\n${first}`);
+  const first = run("next --limit 2");
+  if (!first.includes("stage: researchFood") || !first.includes("place: sample") || !first.includes("place: hoi-an")) {
+    fail(`self-check next:\n${first}`);
+  }
   run("claim --place sample --stage researchFood");
   const again = run("claim --place sample --stage researchFood");
   if (!again.includes("Already claimed")) fail(`self-check reclaim:\n${again}`);
-  const busy = run("next");
-  if (!busy.includes("reason: claimed")) fail(`self-check claim:\n${busy}`);
+  const busy = run("next --limit 2");
+  if (!busy.includes("place: hoi-an") || busy.includes("place: sample")) fail(`self-check claim hid the other place:\n${busy}`);
+  run("claim --place hoi-an --stage researchBase");
   let stored = "";
   try {
-    stored = run("complete --place sample --stage researchFood --status stored");
+    stored = run("complete --place sample --stage researchFood --status stored --note left out the night market");
   } catch (error) {
     stored = `${error.stdout || ""}\n${error.stderr || ""}`;
   }
-  if (!stored.includes("cannot be stored")) fail(`self-check stored gate:\n${stored}`);
+  if (!stored.includes("first pass")) fail(`self-check stored gate:\n${stored}`);
+  let filled = "";
+  try {
+    filled = run("cover --place sample --bucket foodStreets --state filled");
+  } catch (error) {
+    filled = `${error.stderr || ""}\n${error.stdout || ""}`;
+  }
+  if (!filled.includes("cannot be filled")) fail(`self-check filled gate:\n${filled}`);
+  let skippedPage = "";
+  try {
+    skippedPage = run("set-item --place sample --id sample--huynh-thuc-khang --page skipped");
+  } catch (error) {
+    skippedPage = `${error.stderr || ""}\n${error.stdout || ""}`;
+  }
+  if (!skippedPage.includes("must not set its page to skipped")) fail(`self-check owner page:\n${skippedPage}`);
+  run("complete --place sample --stage researchFood --status needs_depth --note streets are still thin");
   run("cover --place sample --bucket foodStreets --state filled");
   run("set-item --place sample --id sample--huynh-thuc-khang --research stored");
-  run("complete --place sample --stage researchFood --status stored --note sourced");
+  let bare = "";
+  try {
+    bare = run("complete --place sample --stage researchFood --status stored --note sourced");
+  } catch (error) {
+    bare = `${error.stderr || ""}\n${error.stdout || ""}`;
+  }
+  if (!bare.includes("left out")) fail(`self-check left-out gate:\n${bare}`);
+  run('complete --place sample --stage researchFood --status stored --note "left out shops that are not landmarks"');
   const after = readJson(file);
-  if (after.places[0].stages.destinationCopy.status !== "stale") fail("copy should go stale after research");
-  if (after.claim !== null) fail("complete should clear the claim");
-  const follow = run("next");
-  if (!follow.includes("stage: researchLifestyle")) fail(`self-check should stay in research:\n${follow}`);
+  const sample = after.places.find((row) => row.slug === "sample");
+  if (sample.stages.destinationCopy.status !== "stale") fail("copy should go stale after research");
+  if (sample.claim !== null) fail("complete should clear the place claim");
+  if (after.places.find((row) => row.slug === "hoi-an").claim?.stage !== "researchBase") fail("hoi-an claim should stay");
+  const follow = run("next --limit 2");
+  if (!follow.includes("stage: researchLifestyle") || follow.includes("place: hoi-an")) {
+    fail(`self-check should stay in research:\n${follow}`);
+  }
   fs.writeFileSync(pause, "pause\n");
   const stopped = run("next");
   if (!stopped.includes("reason: paused")) fail(`self-check pause:\n${stopped}`);
   fs.rmSync(pause);
-  const skipped = run("next --skip sample");
+  const skipped = run("next --skip sample,hoi-an");
   if (!skipped.includes("action: stop")) fail(`self-check skip:\n${skipped}`);
   if (ALLOWED_PATH.some((rule) => rule.test("src/lib/partners.ts"))) fail("partners.ts must be guarded");
   if (!ALLOWED_PATH.some((rule) => rule.test("src/content/places/hue.json"))) fail("place json must be allowed");
   if (ALLOWED_PATH.some((rule) => rule.test("src/components/PlaceView.astro"))) fail("components must be guarded");
+  if (!ALLOWED_PATH.some((rule) => rule.test("ops/board/places/da-nang.json"))) fail("place board files must be allowed");
+  checkDirectoryClaims(script);
   console.log("self-check ok");
+}
+
+function checkDirectoryClaims(script) {
+  const dir = fs.mkdtempSync(path.join("/tmp", "board-dir-"));
+  const places = path.join(dir, "places");
+  fs.mkdirSync(places);
+  writeJson(path.join(dir, "control.json"), {
+    version: 2,
+    pause: false,
+    pauseReason: "",
+    claimStaleHours: 3,
+    maxOpenContentPrs: 4,
+    parallelUnits: 4,
+    holdPlaces: [],
+    log: [],
+  });
+  writeJson(path.join(places, "sample.json"), placeShell({ slug: "sample", name: "Sample", publish: "live", priority: 1 }));
+  writeJson(path.join(places, "hue.json"), placeShell({ slug: "hue", name: "Hue", publish: "live", priority: 2 }));
+  const hueBefore = fs.readFileSync(path.join(places, "hue.json"), "utf8");
+  const env = { ...process.env, BOARD_DIR: dir, PAUSE_PATH: path.join(dir, "PAUSE"), RESEARCH_ROOT: dir };
+  delete env.BOARD_PATH;
+  const run = (extra) => execSync(`node ${script} ${extra}`, { env, encoding: "utf8", stdio: ["ignore", "pipe", "pipe"] });
+  const listed = run("next --limit 2");
+  if (!listed.includes("place: sample") || !listed.includes("place: hue")) fail(`directory next:\n${listed}`);
+  run("claim --place sample --stage researchBase");
+  if (fs.readFileSync(path.join(places, "hue.json"), "utf8") !== hueBefore) fail("claiming sample rewrote hue");
+  const sample = readJson(path.join(places, "sample.json"));
+  if (sample.claim?.stage !== "researchBase") fail("sample claim missing");
+  const still = run("next --limit 2");
+  if (!still.includes("place: hue") || still.includes("place: sample")) fail(`directory next after claim:\n${still}`);
 }
 
 const argv = args(process.argv.slice(2));
@@ -1270,18 +1479,19 @@ const command = argv._[0];
 if (command === "self-check") runSelfCheck();
 else if (command === "init") cmdInit();
 else if (command === "upgrade") cmdUpgrade();
+else if (command === "split") cmdSplit();
 else if (command === "next") cmdNext(argv);
 else if (command === "claim") cmdClaim(argv);
-else if (command === "release") cmdRelease();
+else if (command === "release") cmdRelease(argv);
 else if (command === "complete") cmdComplete(argv);
 else if (command === "set-item") cmdSetItem(argv);
 else if (command === "add-item") cmdAddItem(argv);
 else if (command === "cover") cmdCover(argv);
 else if (command === "block") cmdBlock(argv);
-else if (command === "reconcile") cmdReconcile();
+else if (command === "reconcile") cmdReconcile(argv);
 else if (command === "validate") cmdValidate();
 else if (command === "guard") cmdGuard();
 else if (command === "report") cmdReport(argv);
 else {
-  fail(`Usage: node scripts/board.mjs <init|next|claim|release|complete|set-item|add-item|cover|block|reconcile|validate|guard|report|self-check>`);
+  fail(`Usage: node scripts/board.mjs <init|upgrade|split|next|claim|release|complete|set-item|add-item|cover|block|reconcile|validate|guard|report|self-check>`);
 }

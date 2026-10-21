@@ -1,0 +1,243 @@
+{
+  "slug": "hoi-an",
+  "name": "Hoi An",
+  "nameVi": "Hội An",
+  "corridor": "central-coast",
+  "kind": "town",
+  "parent": null,
+  "publish": "live",
+  "priority": 3,
+  "note": "",
+  "coverage": {
+    "sights": "missing",
+    "areas": "missing",
+    "foodStreets": "missing",
+    "nightlife": "missing",
+    "lifestyle": "missing",
+    "events": "missing",
+    "sideTrips": "missing"
+  },
+  "stages": {
+    "destination": {
+      "status": "shell",
+      "note": "A place file exists. It has not been set up from a stored dossier.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "food": {
+      "status": "shell",
+      "note": "A food file exists. It has not been set up from a stored dossier.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchBase": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchAttractions": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchFood": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchNightlife": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchLifestyle": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchContext": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    }
+  },
+  "items": [
+    {
+      "id": "hoi-an--an-bang",
+      "kind": "sight",
+      "track": "unit",
+      "name": "An Bang Beach",
+      "slug": "an-bang",
+      "file": "src/content/attractions/hoi-an--an-bang.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Published shell. No dossier yet.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--japanese-bridge",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Japanese Covered Bridge",
+      "slug": "japanese-bridge",
+      "file": "src/content/attractions/hoi-an--japanese-bridge.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Published shell. No dossier yet.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--tan-ky",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Tan Ky House",
+      "slug": "tan-ky",
+      "file": "src/content/attractions/hoi-an--tan-ky.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Published shell. No dossier yet.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--dish--cao-lau",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Cao lau",
+      "slug": "cao-lau",
+      "file": "src/content/dishes/cao-lau.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--dish--banh-mi",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Banh mi",
+      "slug": "banh-mi",
+      "file": "src/content/dishes/banh-mi.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--dish--com-ga",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Com ga",
+      "slug": "com-ga",
+      "file": "src/content/dishes/com-ga.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--dish--ca-phe",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Vietnamese coffee",
+      "slug": "ca-phe",
+      "file": "src/content/dishes/ca-phe.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--event--hoi-an-lantern-night",
+      "kind": "event",
+      "track": "bundled",
+      "name": "Hoi An lantern night",
+      "slug": "hoi-an-lantern-night",
+      "file": "src/content/festivals/hoi-an-lantern-night.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Bundled into the destination stage.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--dish--white-rose",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "White rose dumpling",
+      "slug": "white-rose",
+      "file": null,
+      "source": "owner",
+      "research": "not_started",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Named in Central Coast coverage on 19 Oct 2026. No dish file yet. Source it in the Hoi An dossier before the food stage publishes it.",
+      "updated": null,
+      "reworkCount": 0
+    }
+  ],
+  "questions": [],
+  "claim": null,
+  "log": []
+}

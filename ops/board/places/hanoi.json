@@ -1,0 +1,243 @@
+{
+  "slug": "hanoi",
+  "name": "Hanoi",
+  "nameVi": "Hà Nội",
+  "corridor": "northern-vietnam",
+  "kind": "city",
+  "parent": null,
+  "publish": "live",
+  "priority": 10,
+  "note": "",
+  "coverage": {
+    "sights": "missing",
+    "areas": "missing",
+    "foodStreets": "missing",
+    "nightlife": "missing",
+    "lifestyle": "missing",
+    "events": "missing",
+    "sideTrips": "missing"
+  },
+  "stages": {
+    "destination": {
+      "status": "shell",
+      "note": "A place file exists. It has not been set up from a stored dossier.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "food": {
+      "status": "shell",
+      "note": "A food file exists. It has not been set up from a stored dossier.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchBase": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchAttractions": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchFood": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchNightlife": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchLifestyle": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchContext": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    }
+  },
+  "items": [
+    {
+      "id": "hanoi--hoan-kiem",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Hoan Kiem Lake",
+      "slug": "hoan-kiem",
+      "file": "src/content/attractions/hanoi--hoan-kiem.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Published shell. No dossier yet.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--temple-of-literature",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Temple of Literature",
+      "slug": "temple-of-literature",
+      "file": "src/content/attractions/hanoi--temple-of-literature.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Published shell. No dossier yet.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--train-street",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Train Street",
+      "slug": "train-street",
+      "file": "src/content/attractions/hanoi--train-street.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Published shell. No dossier yet.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--west-lake",
+      "kind": "sight",
+      "track": "unit",
+      "name": "West Lake",
+      "slug": "west-lake",
+      "file": "src/content/attractions/hanoi--west-lake.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Published shell. No dossier yet.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--dish--pho",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Pho",
+      "slug": "pho",
+      "file": "src/content/dishes/pho.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--dish--bun-cha",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Bun cha",
+      "slug": "bun-cha",
+      "file": "src/content/dishes/bun-cha.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--dish--banh-mi",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Banh mi",
+      "slug": "banh-mi",
+      "file": "src/content/dishes/banh-mi.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--dish--ca-phe",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Vietnamese coffee",
+      "slug": "ca-phe",
+      "file": "src/content/dishes/ca-phe.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
+      "updated": null,
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--event--tet",
+      "kind": "event",
+      "track": "bundled",
+      "name": "Tet",
+      "slug": "tet",
+      "file": "src/content/festivals/tet.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Bundled into the destination stage.",
+      "updated": null,
+      "reworkCount": 0
+    }
+  ],
+  "questions": [],
+  "claim": null,
+  "log": []
+}

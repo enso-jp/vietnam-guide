@@ -1,7 +1,7 @@
 ---
 name: content-board
 description: >-
-  Claims the next Vietnam Guide content unit on ops/board.json so research,
+  Claims the next Vietnam Guide content unit on ops/board so research,
   page setup, copy, and quality do not duplicate each other. Use when a run
   researches a place, sets up a page, polishes copy or photos, checks quality,
   or asks what content work is next.
@@ -9,13 +9,21 @@ description: >-
 
 # Content board
 
-`ops/board.json` is the shared database. Every content run reads it and updates it with `node scripts/board.mjs`. Do not keep a second list in chat, in automation memory, or in a canvas.
+`ops/board/` is the shared database. `control.json` is the pause switch and the cap. `places/<slug>.json` is one destination. Every content run reads them and updates them with `node scripts/board.mjs`. Do not keep a second list in chat, in automation memory, or in a canvas.
 
 The owner’s lane is separate. Do not edit `src/pages`, `src/layouts`, `src/components`, `src/styles`, `src/lib`, `src/config`, `src/scripts`, `package.json`, or `astro.config.mjs`. Affiliates stay in `src/lib/partners.ts`. Do not add a booking widget. Do not set `control.pause`, do not edit `control.holdPlaces`, and do not delete `ops/PAUSE`.
 
+## Dispatcher
+
+The hourly automation only dispatches. `node scripts/board.mjs next` prints up to `control.parallelUnits` places, one unit each. Skip slugs that already have an open `content:` pull request, and cap the limit at the free slots under `control.maxOpenContentPrs`.
+
+Start one cloud agent per printed unit. Do not research in the dispatcher chat, and do not walk the units one after another there. If cloud agents cannot be started, stop and leave the units unclaimed.
+
+A claim locks that place only. Another place can be claimed in the same hour. Two lanes of one place stay in order.
+
 ## One unit
 
-One run, one unit. `node scripts/board.mjs next` prints it. The stage decides the skill and the files.
+One worker, one place, one stage. Do the unit you were assigned. The stage decides the skill and the files. Do not call `next` and switch to a different place.
 
 | Stage | Skill | What this run may change |
 |---|---|---|
@@ -41,33 +49,31 @@ A city-setup checklist that mentions later stages is the end state of the place,
 
 ## Lock
 
-1. Update from `main`. If `ops/board.json` conflicts, stop.
-2. List open pull requests. Any title that starts with `content:` locks its place slug (the second word). Run `node scripts/board.mjs next --skip slug-one,slug-two`.
-3. If open `content:` pull requests are at or above `control.maxOpenContentPrs`, stop.
-4. `node scripts/board.mjs reconcile`
-5. If `next` prints `action: stop`, do not commit and do not open a pull request.
-6. `node scripts/board.mjs claim --place <slug> --stage <stage>` and, when `next` printed an item, `--item <id>`.
-7. Commit the board, push, and open a draft pull request titled `content: <slug> <stage>` before the long work. The open request is the lock the next hour can see.
-8. Do the stage.
-9. Update the board with `complete` or `block`. `node scripts/board.mjs guard` must pass. Run `npm run check:content` when public JSON changed.
-10. Commit and push onto the same pull request.
+1. Update from `main`. If `ops/board/places/<slug>.json` conflicts, stop.
+2. `node scripts/board.mjs reconcile --place <slug>`
+3. `node scripts/board.mjs claim --place <slug> --stage <stage>` and, when the assignment has an item, `--item <id>`. Claim checks this place only. If it refuses, stop without a pull request. Do not run `next` and take a different place.
+4. Commit only `ops/board/places/<slug>.json`, push, and open a draft pull request titled `content: <slug> <stage>` before the long work. The open request is the lock the next hour can see.
+5. Do the stage.
+6. Update that place file with `complete` or `block`. `node scripts/board.mjs guard` must pass. Run `npm run check:content` when public JSON changed.
+7. Commit and push onto the same pull request.
 
-If you cannot finish, `block` with the question, or `release` and close the draft so the next hour can retry. A merged request must have `claim` set to `null`.
+If you cannot finish, `block` with the question, or `release --place <slug>` and close the draft so the next hour can retry. A merged place file must have `claim` set to `null`.
 
 Do not write automation memories. The board is the only status.
 
 ## Commands
 
-- `next` — the unit to do. Read-only.
-- `claim` — takes that unit. Refuses a different one.
-- `complete --place <slug> --stage <stage> --status <status> --note "..."` — finishes it and clears the claim.
+- `next --limit 4 --skip hue,da-nang` — the places a dispatcher may start. Read-only. One unit per place.
+- `claim --place <slug> --stage <stage>` — takes that place's next unit. Refuses a different one, and does not lock any other place.
+- `release --place <slug>` — drops that place's claim.
+- `complete --place <slug> --stage <stage> --status <status> --note "..."` — finishes it and clears that place's claim.
 - `set-item --place <slug> --id <id> --research stored` — marks one row sourced.
 - `add-item --place <slug> --kind food-street --name "..." --slug ... --note "..."` — a row the dossier just found.
-- `cover --place <slug> --bucket foodStreets --state filled` — `missing`, `partial`, `filled`, or `none`.
+- `cover --place <slug> --bucket foodStreets --state partial` — `missing`, `partial`, `filled`, or `none`.
 - `block --place <slug> --stage researchFood --question "..."` — waiting on the owner.
-- `guard` — fails if the diff leaves `src/content`, `research`, `public/photos`, or `ops/board.json`.
+- `guard` — fails if the diff leaves `src/content`, `research`, `public/photos`, or `ops/board/`.
 
-A research lane is stored only for its own headings, its own coverage buckets, and the items of its own kinds. `needs_depth` is an honest stop when the hour ends. Say what is still open in `--note`. There is no single `research` stage. Page setup stays queued until every lane is stored or blocked. A missing bucket is taken before a partial one, so food streets are not stuck behind another pass over sights that already exist. Finishing a lane marks enriched copy stale so the second pass runs after the new research.
+A research lane is stored only for its own headings, its own coverage buckets, and the items of its own kinds. A lane that is still `not_started` cannot be stored, and its buckets cannot be set to `filled`. The first pass ends `needs_depth`. Say what is still open in `--note`. A later pass may store it, and that note must contain the words `left out`. An item whose source is `owner` cannot have its page set to `skipped` during research. There is no single `research` stage. Page setup stays queued until every lane is stored or blocked. A missing bucket is taken before a partial one, so food streets are not stuck behind another pass over sights that already exist. Finishing a lane marks enriched copy stale so the second pass runs after the new research.
 
 Item `page` is refused while that item’s research is not done.
 
