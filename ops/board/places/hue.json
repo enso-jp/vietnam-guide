@@ -206,6 +206,13 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "hue",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-21T05:06:09.898Z",
+    "by": "hourly",
+    "branch": "content/hue-research-base"
+  },
   "log": []
 }
