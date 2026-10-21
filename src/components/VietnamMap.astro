@@ -1,5 +1,6 @@
 ---
-import { vietnamCities, vietnamIslandLabels, vietnamIslands, vietnamRegions, vietnamHomeViewBox, vietnamViewBox } from '../lib/vietnam-map';
+import { vietnamRegions, vietnamViewBox } from '../lib/vietnam-map';
+import { vietnamIslandGroups, vietnamProvinceViewBox, vietnamProvinces, vietnamSeaLabels } from '../lib/vietnam-provinces';
 
 interface Props {
   variant?: 'compact' | 'home';
@@ -10,52 +11,67 @@ interface Props {
   names?: boolean;
 }
 const { variant = 'compact', active, linked = true, names = true } = Astro.props;
-const showCities = variant === 'home';
 const home = variant === 'home';
-const viewBox = home ? vietnamHomeViewBox : vietnamViewBox;
+const viewBox = home ? vietnamProvinceViewBox : vietnamViewBox;
 ---
 <svg
   class:list={['map-svg', 'map-vietnam', { 'map-home': home, 'map-compact': variant === 'compact', 'map-picked': Boolean(active) }]}
   viewBox={viewBox}
+  preserveAspectRatio={home ? 'xMidYMin meet' : undefined}
   aria-label="Map of Vietnam by travel corridor"
 >
-  {vietnamRegions.map((region) => {
-    const on = region.slug === active;
-    return linked ? (
-      <a class:list={['map-hit', { 'is-active': on }]} href={`/destinations/${region.slug}`} data-region={region.slug}>
-        <title>{region.name}</title>
-        <path d={region.d} fill={region.fill}></path>
-        {names && <text class="map-region-name" x={region.label.x} y={region.label.y} text-anchor="middle">{region.name}</text>}
-      </a>
-    ) : (
-      <g class:list={[{ 'is-active': on }]} data-region={region.slug}>
-        <title>{region.name}</title>
-        <path d={region.d} fill={region.fill}></path>
+  {home ? (
+    <>
+      {vietnamProvinces.map((province) => {
+        const on = province.region === active;
+        return linked ? (
+          <a
+            class:list={['map-hit', 'map-province', { 'is-active': on }]}
+            href={`/destinations/${province.region}`}
+            data-region={province.region}
+            data-province={province.name}
+            data-corridor-name={province.regionName}
+          >
+            <path d={province.d}></path>
+          </a>
+        ) : (
+          <g
+            class:list={['map-province', { 'is-active': on }]}
+            data-region={province.region}
+            data-province={province.name}
+            data-corridor-name={province.regionName}
+          >
+            <path d={province.d}></path>
+          </g>
+        );
+      })}
+      <g class="map-islands" aria-label="Hoang Sa (Vietnam) and Truong Sa (Vietnam)">
+        {vietnamIslandGroups.map((isle) => (
+          <path class="map-isle" d={isle.d}></path>
+        ))}
+        {vietnamSeaLabels.map((label) => (
+          <text class="map-sea-label" text-anchor="start">
+            <tspan x={label.x} y={label.y}>{label.name}</tspan>
+            <tspan x={label.x} dy="14">{label.note}</tspan>
+          </text>
+        ))}
       </g>
-    );
-  })}
-  {home && (
-    <g class="map-islands" aria-label="Hoang Sa (Vietnam) and Truong Sa (Vietnam)">
-      {vietnamIslands.map((isle) => (
-        <circle class="map-isle" cx={isle.x} cy={isle.y} r={isle.r}></circle>
-      ))}
-      {vietnamIslandLabels.map((label) => (
-        <text class="map-sea-label" text-anchor="start">
-          <tspan x={label.x} y={label.y}>{label.name}</tspan>
-          <tspan x={label.x} dy="14">{label.note}</tspan>
-        </text>
-      ))}
-    </g>
-  )}
-  {showCities && (
-    <g class="map-cities">
-      {vietnamCities.map((city) => (
-        <a class:list={['map-city', { 'is-active': city.region === active }]} href={`/${city.slug}`} data-region={city.region}>
-          <title>{city.name}</title>
-          <circle cx={city.x} cy={city.y} r="3.4"></circle>
-          <text x={city.lx} y={city.ly} text-anchor={city.anchor}>{city.name}</text>
+    </>
+  ) : (
+    vietnamRegions.map((region) => {
+      const on = region.slug === active;
+      return linked ? (
+        <a class:list={['map-hit', { 'is-active': on }]} href={`/destinations/${region.slug}`} data-region={region.slug}>
+          <title>{region.name}</title>
+          <path d={region.d} fill={region.fill}></path>
+          {names && <text class="map-region-name" x={region.label.x} y={region.label.y} text-anchor="middle">{region.name}</text>}
         </a>
-      ))}
-    </g>
+      ) : (
+        <g class:list={[{ 'is-active': on }]} data-region={region.slug}>
+          <title>{region.name}</title>
+          <path d={region.d} fill={region.fill}></path>
+        </g>
+      );
+    })
   )}
 </svg>

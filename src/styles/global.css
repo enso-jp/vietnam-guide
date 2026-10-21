@@ -594,17 +594,17 @@ p { margin: 0.55rem 0; }
 .partner small, .ad-slot small { color: var(--muted); display: block; margin-bottom: 0.35rem; }
 .map-svg { width: 100%; height: auto; background: transparent; display: block; overflow: visible; }
 .map-svg path { fill: #c9d8b6; stroke: #fff; stroke-width: 1.6; stroke-linejoin: round; }
-.map-home { overflow: hidden; }
-.map-home path { fill: #e4e8e8; stroke: #9aa1a4; stroke-width: 1.45; }
+.map-home { overflow: hidden; height: 100%; width: 100%; }
+.map-home path { fill: #e4e8e8; stroke: #9aa1a4; stroke-width: 0.85; stroke-linejoin: round; }
+.map-home.map-picked .map-hit:not(.is-active) path { fill: #e4e8e8; stroke: #9aa1a4; }
 .map-svg a path, .map-svg g path { transition: fill 0.15s ease; }
 .map-svg a:hover path,
 .map-svg a:focus-visible path,
 .map-svg a.is-active path,
 .map-svg g.is-active path { fill: #f3c2b4; }
-.map-home .map-hit:hover path,
-.map-home .map-hit:focus-visible path,
 .map-home .map-hit.is-active path,
-.map-home g.is-active path { fill: #883020; stroke: #6e2e22; }
+.map-home g.is-active path { fill: #883020; stroke: #6e2e22; stroke-width: 0.85; }
+.map-home .map-hit:focus-visible path { fill: #883020; stroke: #6e2e22; }
 .map-svg a:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
 .map-region-name {
   font-family: var(--sans);
@@ -621,13 +621,37 @@ p { margin: 0.55rem 0; }
 .map-city { font-family: var(--sans); font-size: 11px; fill: #3a3a3a; }
 .map-city circle { fill: #fff; stroke: #314034; stroke-width: 1.2; }
 .map-city text { fill: #3a3a3a; stroke: #fff; stroke-width: 2.4px; paint-order: stroke fill; }
-.map-home.map-picked .map-city:not(.is-active) { display: none; }
-.map-home .map-city:hover circle,
-.map-home .map-city:focus-visible circle { fill: #5c140e; stroke: #5c140e; }
-.map-home .map-city:hover text,
-.map-home .map-city:focus-visible text { fill: #5c140e; }
 .map-islands { pointer-events: none; }
-.map-isle { fill: #b7c9d2; stroke: #7f949e; stroke-width: 0.7; }
+.map-isle { fill: #d5dde0; stroke: #8a9aa4; stroke-width: 0.65; stroke-linejoin: round; }
+.map-tooltip {
+  position: absolute;
+  z-index: 3;
+  min-width: 8.5rem;
+  max-width: 14rem;
+  padding: 0.55rem 0.7rem 0.62rem;
+  border-radius: 10px;
+  background: #3d2418;
+  color: #fff;
+  pointer-events: none;
+  box-shadow: 0 8px 22px rgba(22, 22, 22, 0.22);
+}
+.map-tooltip-region {
+  display: block;
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  line-height: 1.25;
+  color: rgba(255, 255, 255, 0.82);
+}
+.map-tooltip-place {
+  display: block;
+  margin-top: 0.2rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #fff;
+}
 .map-sea-label {
   font-family: var(--sans);
   font-size: 13px;
@@ -1230,20 +1254,49 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   display: grid;
   grid-template-columns: minmax(0, 0.92fr) minmax(0, 1.08fr);
   gap: 1.15rem 1.5rem;
-  align-items: start;
+  align-items: stretch;
+}
+.region-map {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  height: 100%;
+}
+.region-map-frame {
+  position: relative;
+  flex: 1 1 auto;
+  min-height: 0;
+  display: flex;
+  align-items: flex-start;
+}
+.region-map-frame .map-svg {
+  height: 100%;
+  width: 100%;
 }
 .region-map,
 .region-stack,
 .region-panel,
-.region-photos {
+.region-photos,
+.region-caption,
+.region-caption-panel {
   min-width: 0;
   max-width: 100%;
 }
+.region-caption {
+  display: grid;
+  grid-template-columns: minmax(0, 0.92fr) minmax(0, 1.08fr);
+  gap: 0 1.5rem;
+  margin-top: 0.85rem;
+}
+.region-caption-panel { grid-column: 2; }
+.region-caption-panel h3 { margin: 0 0 0.3rem; font-size: 1.45rem; color: var(--ink); }
+.region-caption-panel p { margin: 0; max-width: 100%; overflow-wrap: break-word; color: var(--ink); }
 .region-picks {
   display: flex;
   flex-wrap: nowrap;
   gap: 0.1rem;
-  margin-top: 0.35rem;
+  margin-top: auto;
+  padding-top: 0.35rem;
   max-width: 100%;
   overflow-x: auto;
   scrollbar-width: none;
@@ -1315,8 +1368,6 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   text-align: left;
   overflow-wrap: break-word;
 }
-.region-panel h3 { margin: 0.85rem 0 0.3rem; font-size: 1.45rem; color: var(--ink); }
-.region-panel p { margin: 0; max-width: 100%; overflow-wrap: break-word; color: var(--ink); }
 .home .book-stay {
   max-width: 40rem;
   margin: 2.75rem auto 0;
@@ -1696,28 +1747,33 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
     display: grid;
     grid-template-columns: minmax(0, 1fr) 23.5rem;
     column-gap: 1.75rem;
+    row-gap: 0;
     align-items: start;
   }
   .home-hero,
   .home-sheet { grid-column: 1 / -1; }
+  .home-split {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 23.5rem;
+    column-gap: 1.75rem;
+    align-items: start;
+  }
   .home-feed {
     display: flex;
     flex-direction: column;
-    grid-column: 1;
-    grid-row: 3;
     min-width: 0;
   }
   .home-rail {
-    grid-column: 2;
-    grid-row: 3;
     position: sticky;
     top: 4.75rem;
     align-self: start;
+    min-width: 0;
   }
   .home .book-stay { max-width: none; margin: 0; }
   .sheet-row { overflow: visible; scroll-snap-type: none; }
   .mini-card { flex: 1 1 0; min-width: 0; }
-  .home-hero-next { margin-top: var(--home-gap); }
+  .home-hero-next { margin-top: 0; }
   .home-hero-next img,
   .home-hero-next .cover,
   .home-hero-next .cover svg { height: 22rem; }
@@ -1851,7 +1907,8 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
     padding-top: 0.15rem;
   }
   .nav-panel { display: none; }
-  .atlas, .plan-columns, .region-board { grid-template-columns: 1fr; }
+  .atlas, .plan-columns, .region-board, .region-caption { grid-template-columns: 1fr; }
+  .region-caption-panel { grid-column: 1; }
   .region-picks { gap: 0; justify-content: space-between; overflow-x: auto; }
   .region-picks button { font-size: 0.68rem; padding: 0.15rem 0.12rem 0.28rem; }
   .site-menu {
@@ -1891,6 +1948,7 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   body.nav-open { overflow: hidden; }
   .home { display: flex; flex-direction: column; }
   .home-top,
+  .home-split,
   .home-feed { display: contents; }
   .home-hero-lead { order: 1; }
   .home-sheet { order: 2; }
