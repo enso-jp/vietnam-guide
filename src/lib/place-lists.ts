@@ -42,9 +42,36 @@ export function partitionAttractions(
   return { shown, rest, total, hidden: total - visible };
 }
 
-/** The template replaces the place food-guide card with Dining and F&B. */
+/** The template replaces an authored food-guide card with Dining and F&B. */
 export function isReplacedInterestTitle(title: string): boolean {
   return title === 'Dining and F&B' || /food guide/i.test(title);
+}
+
+/** A Dining and F&B card, or a food-guide card, written on the place record. */
+export function isAuthoredDiningCard(card: { title: string }): boolean {
+  return isReplacedInterestTitle(card.title);
+}
+
+/**
+ * Slug of this place’s own food-guide record.
+ * A foodSlug that only points at another city’s guide does not count.
+ */
+export function realFoodGuideSlug(
+  place: { slug: string; foodSlug?: string },
+  guides: { slug: string; placeSlug: string }[],
+): string | undefined {
+  const own = guides.filter((guide) => guide.placeSlug === place.slug || guide.slug === place.slug);
+  const preferred = place.foodSlug ? own.find((guide) => guide.slug === place.foodSlug) : undefined;
+  return (preferred ?? own[0])?.slug;
+}
+
+/** Dining leads only when this place has a food guide or an authored Dining card. */
+export function shouldLeadWithDining(
+  place: { slug: string; foodSlug?: string },
+  guides: { slug: string; placeSlug: string }[],
+  cards: { title: string }[],
+): boolean {
+  return Boolean(realFoodGuideSlug(place, guides)) || cards.some((card) => isAuthoredDiningCard(card));
 }
 
 function isDiningGroup(title: string): boolean {
@@ -52,13 +79,15 @@ function isDiningGroup(title: string): boolean {
 }
 
 /**
- * Dining and F&B leads the interest cards. A dining group from the place
- * record stays first. Other group titles are left as the place wrote them.
+ * Dining and F&B leads the interest cards when `dining` is passed.
+ * Omit it for a place with no food guide and no authored Dining card.
+ * A dining group from the place record stays first. Other group titles are left as the place wrote them.
  */
 export function leadWithDining<T extends { title: string }>(
   sections: InterestSection<T>[],
-  dining: T,
+  dining?: T,
 ): InterestSection<T>[] {
+  if (!dining) return sections;
   const next = sections
     .map((section) => ({
       ...section,
