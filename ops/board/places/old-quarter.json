@@ -9,8 +9,8 @@
   "priority": 11,
   "note": "",
   "coverage": {
-    "sights": "missing",
-    "areas": "missing",
+    "sights": "partial",
+    "areas": "partial",
     "foodStreets": "missing",
     "nightlife": "missing",
     "lifestyle": "missing",
@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:23:36.195Z",
+      "updated": "2026-10-21T08:27:35.462Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:23:36.195Z",
+      "updated": "2026-10-21T08:27:35.462Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,13 +45,13 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:23:36.195Z",
+      "updated": "2026-10-21T08:27:35.462Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:23:36.195Z",
+      "updated": "2026-10-21T08:27:35.462Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -61,9 +61,9 @@
       "reworkCount": 0
     },
     "researchAttractions": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "Sights in: Bach Ma, Dong Xuan, Ma May, 22 Hang Buom, Kim Ngan, Quan Chuong. Areas in: Hang Bac and the level-I streets. Still open: door hours for every sight; a current fee for Bach Ma, Kim Ngan, Dong Xuan, and Quan Chuong; whether the Nov 2025 draft fee passed; a relic page for the gate; guild streets without entries; 28 Hang Buom and 50 Dao Duy Tu; the cathedral, the train-track street, and the Phung Hung mural, which were not placed inside the quarter.",
+      "updated": "2026-10-21T08:27:35.462Z",
       "reworkCount": 0
     },
     "researchFood": {
@@ -100,12 +100,12 @@
       "slug": "bach-ma",
       "file": "src/content/attractions/old-quarter--bach-ma.json",
       "source": "published",
-      "research": "not_started",
+      "research": "stored",
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": "2026-10-21T08:23:36.195Z",
+      "note": "Sourced 21 Oct 2026 from the Hoan Kiem management board. Hours and a current fee are Check on arrival. Published dot unchanged.",
+      "updated": "2026-10-21T08:27:35.462Z",
       "reworkCount": 0
     },
     {
@@ -116,12 +116,12 @@
       "slug": "dong-xuan",
       "file": "src/content/attractions/old-quarter--dong-xuan.json",
       "source": "published",
-      "research": "not_started",
+      "research": "stored",
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": "2026-10-21T08:23:36.195Z",
+      "note": "Sourced 21 Oct 2026. The management-board page prints no entrance fee and no door hours.",
+      "updated": "2026-10-21T08:27:35.462Z",
       "reworkCount": 0
     },
     {
@@ -171,18 +171,115 @@
       "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
       "updated": null,
       "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--ma-may",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Ma May Heritage House",
+      "slug": "ma-may",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "87 Ma May. 20,000 VND in Resolution 44/2024. Hours Check on arrival.",
+      "updated": "2026-10-21T08:27:35.462Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--hang-buom-22",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Guangdong Assembly Hall",
+      "slug": "hang-buom-22",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "22 Hang Buom. 20,000 VND in Resolution 44/2024. Hours Check on arrival.",
+      "updated": "2026-10-21T08:27:35.462Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--kim-ngan",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Kim Ngan Communal House",
+      "slug": "kim-ngan",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "44 Hang Bac. Fee Check on arrival. Not in Resolution 44/2024.",
+      "updated": "2026-10-21T08:27:35.462Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--quan-chuong",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Quan Chuong Gate",
+      "slug": "quan-chuong",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "East-gate landmark from the 2020 walking-space note. Architecture, fee, and hours still open.",
+      "updated": "2026-10-21T08:27:35.462Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--hang-bac",
+      "kind": "area",
+      "track": "unit",
+      "name": "Hang Bac",
+      "slug": "hang-bac",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Guild street. No separate page. Covered by the place walk and by Kim Ngan.",
+      "updated": "2026-10-21T08:27:35.462Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--conservation-core",
+      "kind": "zone",
+      "track": "unit",
+      "name": "Level-I conservation streets",
+      "slug": "conservation-core",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "The 2014 level-I streets are the place itself. Sights inside them have their own rows.",
+      "updated": "2026-10-21T08:27:35.462Z",
+      "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "old-quarter",
-    "stage": "researchAttractions",
-    "item": null,
-    "at": "2026-10-21T08:24:07.329Z",
-    "by": "hourly",
-    "branch": "cursor/old-quarter-research-base"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T08:27:35.462Z",
+      "place": "old-quarter",
+      "stage": "researchAttractions",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Sights in: Bach Ma, Dong Xuan, Ma May, 22 Hang Buom, Kim Ngan, Quan Chuong. Areas in: Hang Bac and the level-I streets. Still open: door hours for every sight; a current fee for Bach Ma, Kim Ngan, Dong Xuan, and Quan Chuong; whether the Nov 2025 draft fee passed; a relic page for the gate; guild streets without entries; 28 Hang Buom and 50 Dao Duy Tu; the cathedral, the train-track street, and the Phung Hung mural, which were not placed inside the quarter."
+    },
     {
       "at": "2026-10-21T08:23:36.195Z",
       "place": "old-quarter",

@@ -74,6 +74,60 @@ Accessed 21 Oct 2026 unless a line says otherwise. A fee or a clock with one pag
 - Accessed: 21 Oct 2026
 - Supports: Indexed text only. Direct fetches timed out with no bytes. Do not treat S12 as confirmed until the page opens. The index text says about 100 ha, 76 streets, north Hàng Đậu, west Phùng Hưng, south Hàng Bông / Hàng Gai / Cầu Gỗ / Hàng Thùng, east Trần Quang Khải and Trần Nhật Duật, a commercial quarter from the 11th century, the “36 phố phường” guild name, and a weekend walking line Hàng Đào – Đồng Xuân of nearly 3 km. The 11th-century line disagrees with the 14th-century line on S8.
 
+### S14
+- URL: https://nhansu.vn/van-ban-phap-luat/Nghi-quyet-44-2024-NQ-HDND-phi-tham-quan-di-tich-lich-su-cong-trinh-van-hoa-Ha-Noi-637681.html
+- Publisher: A legal-database copy of Hanoi People’s Council Resolution 44/2024/NQ-HĐND, 10 Dec 2024, in force 1 Jan 2025
+- Accessed: 21 Oct 2026
+- Supports: 20,000 VND per visitor per visit at 22 Hàng Buồm and at 87 Mã Mây. Free under 16 and for people with especially severe disabilities. Half price for the groups the resolution lists. Free at those two doors on 23 November. The collector named for the relics is the Hoàn Kiếm Lake and Old Quarter Management Board. Bạch Mã and Kim Ngân are not in this resolution. The official gazette PDF was not opened; this is a republished text, agreed on the 20,000 figure by S15.
+
+### S15
+- URL: https://kinhtedothi.vn/bat-dau-thu-phi-tham-quan-2-di-tich-tai-quan-hoan-kiem.494257.html
+- Publisher: Kinh tế & Đô thị, 2 Jan 2025, citing the Hoàn Kiếm Lake and Old Quarter Management Board
+- Accessed: 21 Oct 2026
+- Supports: Same 20,000 VND, same free and half-price cases, free on 23 November, from 2 Jan 2025, under Resolution 44/2024. 22 Hàng Buồm as Hội quán Quảng Đông, Decision 01/2007/QĐ-BVHTTDL of 27 Aug 2007, built 1803, worship of Quan Công and Thiên Hậu, 1,670 m². 87 Mã Mây: late 19th century, national heritage 16 Feb 2004, 157.6 m², restored end of 1998 to 27 Oct 1999 with Toulouse.
+
+### S16
+- URL: https://thanglong.chinhphu.vn/ngoi-nha-di-san-ma-may-ap-dung-thi-diem-he-thong-ve-dien-tu-103250106130323309.htm
+- Publisher: Chinhphu.vn, 6 Jan 2025, citing the National Authority of Tourism information center
+- Accessed: 21 Oct 2026
+- Supports: E-ticket pilot from 2 Jan 2025 and the official system from 19 Jan 2025 at 87 Mã Mây and 22 Hàng Buồm. National heritage date and 157.6 m² for the house. 22 Hàng Buồm as 1,670 m² with Western concrete and East Asian carving. No price and no clock on this page.
+
+### S17
+- URL: https://hoankiem360.tourism.vn/chi_tiet_di_tich_lich_su/den-bach-ma.html
+- Publisher: Hoàn Kiếm 360, Management Board of Hoàn Kiếm Lake and the Old Quarter
+- Accessed: 21 Oct 2026
+- Supports: Đền Bạch Mã at 76 Hàng Buồm, east guardian of Thăng Long, layout of the compound, national relic rank in 1986. No door hours and no fee. A “0h–24h” widget under the article is not a clock.
+
+### S18
+- URL: https://hoankiem360.tourism.vn/chi_tiet_di_tich_lich_su/cho-dong-xuan.html
+- Publisher: Hoàn Kiếm 360
+- Accessed: 21 Oct 2026
+- Supports: Chợ Đồng Xuân, its four edges, the 1890s iron hall, the three floors and what each sells, the 1994 fire, wholesale role, food at Bắc Qua and night kitchens to the north, the night-market link to Hàng Đào, and a Saturday folk show claimed by Đồng Xuân Joint Stock Company. No door hours and no entrance fee. The 2010 electric car is a launch line only.
+
+### S19
+- URL: https://hoankiem360.tourism.vn/chi_tiet_di_tich_lich_su/dinh-kim-ngan.html
+- Publisher: Hoàn Kiếm 360
+- Accessed: 21 Oct 2026
+- Supports: Đình Kim Ngân at 44 Hàng Bạc, the silver and money-changing street, 575 m², national relic rank 24 Oct 2012, 2004 move-out and Toulouse restoration. No fee and no door hours.
+
+### S20
+- URL: https://hoankiem360.tourism.vn/chi_tiet_su_kien/khai-truong-mo-rong-khong-gian-di-bo-phia-nam-khu-pho-co.html
+- Publisher: Hoàn Kiếm 360, note of the 31 Dec 2020 opening
+- Accessed: 21 Oct 2026
+- Supports: 2004 walking line Hàng Đào to Đồng Xuân. 2014 addition of six level-I streets: Hàng Buồm, Mã Mây, Đào Duy Từ, Hàng Giấy, Lương Ngọc Quyến, Tạ Hiện. South walking space streets, including Hàng Bạc and Ô Quan Chưởng. Weekend clocks for that south space: summer 19:00–24:00, winter 18:00–24:00, Friday to Sunday. Performances at the gate, Đinh Liệt – Gia Ngư, and 42–44 Hàng Bạc.
+
+### S21
+- URL: https://hoankiem360.tourism.vn/chi_tiet_le_hoi/le-hoi-den-bach-ma.html
+- Publisher: Hoàn Kiếm 360
+- Accessed: 21 Oct 2026
+- Supports: Bạch Mã festival on the 12th and 13th of the second lunar month, at 76 Hàng Buồm and nearby streets, with a larger festival every five years from 2010 and a smaller one in other years. The lunar date moves. A “0h–24h” widget is not a clock.
+
+### S22
+- URL: https://sovhtt.hanoi.gov.vn/wp-content/uploads/2025/11/20251114-du-thao-nq-phi-hoan-kiem-my-duc.pdf
+- Publisher: Hanoi Department of Culture and Sports, draft appendix dated 14 Nov 2025
+- Accessed: 21 Oct 2026
+- Supports: A proposal, not a passed fee. It names 20,000 VND for Bạch Mã at 76 Hàng Buồm, Kim Ngân at 42–44 Hàng Bạc, 28 Hàng Buồm, and 50 Đào Duy Từ, to apply only after a council resolution takes effect. Used only to show those doors are not yet priced by S14.
+
 ### S13
 - URL: https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Quyet-dinh-14-2004-QD-BVHTT-xep-hang-Di-tich-Quoc-gia-khu-pho-co-Ha-Noi-55149.aspx
 - Publisher: Thu Vien Phap Luat, a legal-database copy
