@@ -3,13 +3,13 @@
   "name": "Hue to Hoi An",
   "from": "Hue",
   "to": "Hoi An",
-  "summary": "The coast road takes about three hours by private car, longer by bus, and can include the Hai Van pass. Da Nang is the stop in the middle.",
+  "summary": "Da Nang is the stop in the middle. The door-to-door drive to Hoi An is check on arrival. The Hai Van pass itself is about 22 km and nearly an hour.",
   "modes": [
-    { "mode": "Private car", "duration": "About 3 hours", "note": "Ask for the Hai Van pass only in clear weather. The tunnel is faster and duller.", "partner": "bus", "partnerPath": "hue/hoi-an" },
-    { "mode": "Train to Da Nang, then car", "duration": "About 3 hours plus a transfer", "note": "A pretty coastal rail ride to Da Nang, then 45 minutes to Hoi An.", "partner": "train" }
+    { "mode": "Private car", "duration": "Check on arrival", "note": "The pass road is about 22 km and nearly an hour if nothing goes wrong. The tunnel is more than 12 km and takes 10–15 minutes. A Hue door to Hoi An door time is not published.", "partner": "bus", "partnerPath": "hue/hoi-an" },
+    { "mode": "Train to Da Nang, then car", "duration": "2 hours 30 minutes to 3 hours 20 minutes to Da Nang", "note": "Then Hoi An is check on arrival. The heritage train prints two clocks, so use that day’s ticket.", "partner": "train" }
   ],
-  "seoTitle": "Hue to Hoi An — car, train, and the Hai Van pass",
-  "seoDescription": "How to travel from Hue to Hoi An and when the pass road is worth the extra time.",
+  "seoTitle": "Hue to Hoi An route — Hai Van pass, then the train",
+  "seoDescription": "Hai Van pass is about 22 km and nearly an hour. The tunnel takes 10 to 15 minutes. The full drive to Hoi An, and the ride on from Da Nang, are check on arrival.",
   "faqs": [
     { "q": "Can you stop in Da Nang?", "a": "Yes. The Marble Mountains sit on the road between Da Nang and Hoi An." }
   ]

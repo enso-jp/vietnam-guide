@@ -2,12 +2,59 @@
   "slug": "thien-mu",
   "placeSlug": "hue",
   "name": "Thien Mu Pagoda",
-  "summary": "The riverside pagoda west of the citadel, recognizable by its octagonal tower.",
+  "nameVi": "Chùa Thiên Mụ",
+  "kicker": "Seven-tiered tower on the north bank",
+  "summary": "See the seven-tiered Phước Duyên tower above Hà Khê, in Kim Long, on the north bank upstream of the citadel. Resolution 55 does not list a fee, so the price is check on arrival, not free. Hours are check on arrival too. This is a stop, not a second citadel.",
   "dots": 3,
-  "timeNeeded": "30 minutes",
-  "fee": "Free",
-  "getThere": "Bicycle along the north bank",
-  "interests": [
-    "pagodas"
-  ]
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Along the north bank through Kim Long. Minutes are check on arrival.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The tower and the pagoda hall at Thien Mu",
+  "notice": {
+    "title": "No published fee, and no published hour",
+    "body": "Resolution 55 does not list Thien Mu. That absence is not a free entry. The 12 March 2024 visiting-point notice does not name the pagoda, and a reload of that page timed out on 21 October 2026. Confirm the gate when you arrive."
+  },
+  "body": [
+    "The tower is the reason to stop. Vietnam Tourism calls out the seven tiers. The culture department, writing a river trip, describes the Phước Duyên tower rising over Hà Khê hill and the pines, and dates the pagoda to Nguyễn Hoàng in the early 17th century. The ranked-monument list puts it in Kim Long and names the conservation centre and the city’s Buddhist association as the managers.",
+    "UNESCO lists Thien Mu among the monuments outside the Capital City. Treat it as a stop on the way upstream, not as a second palace. Late afternoon is the hour if the tower and the river are the picture. Morning is enough if you are already riding toward a tomb.",
+    "Do not budget a ticket price you have not seen. The fee resolution that prices the Imperial City and the tombs leaves this pagoda off the table. How long the grounds take is check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "hue-thien-mu-2",
+      "caption": "The Phước Duyên tower from below, with the spire in the frame",
+      "alt": "The octagonal brick tower of Thien Mu Pagoda rising against a blue sky, seen from below"
+    }
+  ],
+  "gettingThere": [
+    "Thien Mu is in Kim Long, on the north bank upstream of the citadel. The usual way is along that bank, by bicycle or by taxi. No published minute count from the south bank was found. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the south bank",
+      "body": "Cross to the north bank and follow the river upstream through Kim Long. The minutes are check on arrival."
+    }
+  ],
+  "hours": "Check on arrival.",
+  "closed": "The centre’s 12 Mar 2024 visiting-point notice does not name Thien Mu, and it does not name a weekly closing day. Confirm the gate on arrival.",
+  "admissionNote": "Check on arrival. Resolution 55/2025/NQ-HĐND, in force 4 January 2026, prices the Imperial City and the tombs and does not list Thien Mu. Do not read that gap as free entry.",
+  "links": [
+    {
+      "label": "Resolution 55 fee table",
+      "url": "https://hue.gov.vn/Portals/0/Uploads/VBPL/Nam2026/Thang1/000.00.00.K57-55-2025-NQ-HDND-2025-PL1.pdf",
+      "note": "Thien Mu is not on this table"
+    },
+    {
+      "label": "Vietnam Tourism, Hue",
+      "url": "https://vietnam.travel/places-to-go/central-vietnam/hue",
+      "note": "Names the seven-tiered tower"
+    },
+    {
+      "label": "Culture department river note",
+      "url": "https://svhttdl.hue.gov.vn/tin-chuyen-trang-phong-trao/tren-dong-huong.html",
+      "note": "Phước Duyên tower over Hà Khê"
+    }
+  ],
+  "interests": ["pagodas"]
 }
