@@ -14,8 +14,8 @@
     "foodStreets": "partial",
     "nightlife": "partial",
     "lifestyle": "partial",
-    "events": "missing",
-    "sideTrips": "missing"
+    "events": "partial",
+    "sideTrips": "partial"
   },
   "stages": {
     "destination": {
@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:32:41.310Z",
+      "updated": "2026-10-21T08:34:21.321Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:32:41.310Z",
+      "updated": "2026-10-21T08:34:21.321Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,13 +45,13 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:32:41.310Z",
+      "updated": "2026-10-21T08:34:21.321Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:32:41.310Z",
+      "updated": "2026-10-21T08:34:21.321Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -85,9 +85,9 @@
       "reworkCount": 0
     },
     "researchContext": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "In: Tourism Week, the Thai Vi lunar festival, and the Hoa Lu festival as a neighbor. Side trips: Mua Cave, Trang An, Hoa Lu, Bai Dinh, Thung Nham, and Ninh Binh city. Still open: the 2026 week’s exact days, the 2026 rice picture, rides to Phat Diem, Cuc Phuong, Van Long, and Tam Chuc, and every side-trip minute.",
+      "updated": "2026-10-21T08:34:21.321Z",
       "reworkCount": 0
     }
   },
@@ -105,7 +105,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026. Cave lengths disagree across the heritage essay and the 2025 promotion page. Pier hours unsourced. Published dot stays 4.",
-      "updated": "2026-10-21T08:32:41.310Z",
+      "updated": "2026-10-21T08:34:21.321Z",
       "reworkCount": 0
     },
     {
@@ -121,7 +121,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026. Hours and a standalone fee are unsourced. On the 2026 route ticket.",
-      "updated": "2026-10-21T08:32:41.310Z",
+      "updated": "2026-10-21T08:34:21.321Z",
       "reworkCount": 0
     },
     {
@@ -137,7 +137,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026 from the 27 Mar 2025 page. Hours unsourced. Lunar festival belongs to the context lane.",
-      "updated": "2026-10-21T08:32:41.310Z",
+      "updated": "2026-10-21T08:34:21.321Z",
       "reworkCount": 0
     },
     {
@@ -153,7 +153,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026. 2026 ticket is separate from the three-caves route. Hours unsourced. The 7 km figure is to this landing, not the Tam Coc wharf.",
-      "updated": "2026-10-21T08:32:41.310Z",
+      "updated": "2026-10-21T08:34:21.321Z",
       "reworkCount": 0
     },
     {
@@ -169,7 +169,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Named by the department and on the 2026 route. No page describes the walk. Do not open a page until a later pass can say what the visitor does. A depth pass may reopen this.",
-      "updated": "2026-10-21T08:32:41.310Z",
+      "updated": "2026-10-21T08:34:21.321Z",
       "reworkCount": 0
     },
     {
@@ -185,7 +185,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "The place page is this area. Do not open a second destination.",
-      "updated": "2026-10-21T08:32:41.310Z",
+      "updated": "2026-10-21T08:34:21.321Z",
       "reworkCount": 0
     },
     {
@@ -201,7 +201,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "The landing and the temple page carry this hamlet. A named lodging street is still unsourced. Not a district page.",
-      "updated": "2026-10-21T08:32:41.310Z",
+      "updated": "2026-10-21T08:34:21.321Z",
       "reworkCount": 0
     },
     {
@@ -281,7 +281,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "The 2025 plan publishes this road for Tourism Week, 07:00–22:00, not as a year-round market. The food guide can carry it. A depth pass may reopen it if a daily market is sourced. Nha hang Nam Hoa is not a pick.",
-      "updated": "2026-10-21T08:32:41.310Z",
+      "updated": "2026-10-21T08:34:21.321Z",
       "reworkCount": 0
     },
     {
@@ -297,7 +297,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "The week is an event and the road is already dong-gung. No ordinary bar street was found. Do not open a nightlife page.",
-      "updated": "2026-10-21T08:32:41.310Z",
+      "updated": "2026-10-21T08:34:21.321Z",
       "reworkCount": 0
     },
     {
@@ -313,7 +313,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "The place and the three-caves page carry this morning. Breakfast is still unsourced.",
-      "updated": "2026-10-21T08:32:41.310Z",
+      "updated": "2026-10-21T08:34:21.321Z",
       "reworkCount": 0
     },
     {
@@ -329,7 +329,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "No rental price and no cafe street. The place page carries the bicycle. Not a separate sight.",
-      "updated": "2026-10-21T08:32:41.310Z",
+      "updated": "2026-10-21T08:34:21.321Z",
       "reworkCount": 0
     },
     {
@@ -345,20 +345,69 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "The hour the lanes empty is unsourced. Not a separate page.",
-      "updated": "2026-10-21T08:32:41.310Z",
+      "updated": "2026-10-21T08:34:21.321Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "tam-coc--tourism-week",
+      "kind": "event",
+      "track": "bundled",
+      "name": "Ninh Binh Tourism Week",
+      "slug": "tourism-week",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sourced 21 Oct 2026. 2025 was 23–31 May. The 27 Mar 2026 page only says the last 10 days of May, expected. The rice picture changes by year.",
+      "updated": "2026-10-21T08:34:21.126Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "tam-coc--thai-vi-festival",
+      "kind": "event",
+      "track": "bundled",
+      "name": "Thai Vi festival",
+      "slug": "thai-vi-festival",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sourced 21 Oct 2026. Solar date moves. No program was printed.",
+      "updated": "2026-10-21T08:34:21.183Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "tam-coc--hoa-lu-festival",
+      "kind": "event",
+      "track": "bundled",
+      "name": "Hoa Lu festival",
+      "slug": "hoa-lu-festival",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Held at Hoa Lu and on the Sao Khe, which are not the Tam Coc wharf. Do not open a Tam Coc festival file. The published sight is ninh-binh hoa-lu.",
+      "updated": "2026-10-21T08:34:21.238Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "tam-coc",
-    "stage": "researchContext",
-    "item": null,
-    "at": "2026-10-21T08:33:13.066Z",
-    "by": "hourly",
-    "branch": "content/tam-coc-research-base"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T08:34:21.321Z",
+      "place": "tam-coc",
+      "stage": "researchContext",
+      "item": null,
+      "status": "needs_depth",
+      "note": "In: Tourism Week, the Thai Vi lunar festival, and the Hoa Lu festival as a neighbor. Side trips: Mua Cave, Trang An, Hoa Lu, Bai Dinh, Thung Nham, and Ninh Binh city. Still open: the 2026 week’s exact days, the 2026 rice picture, rides to Phat Diem, Cuc Phuong, Van Long, and Tam Chuc, and every side-trip minute."
+    },
     {
       "at": "2026-10-21T08:32:41.310Z",
       "place": "tam-coc",

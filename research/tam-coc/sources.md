@@ -140,6 +140,18 @@ Checked: 21 Oct 2026
 - Accessed: 21 Oct 2026
 - Supports: walking street 07:00–22:00 on the days of the week, from bến xe Đồng Gừng to nhà hàng Nam Hoa, thôn Văn Lâm, xã Ninh Hải, thành phố Hoa Lư. Food and souvenir stalls. Also names chợ xã Ninh Hải as a road to tidy, without saying what it sells.
 
+### S24
+- URL: https://sodulich.ninhbinh.gov.vn/vi/tin-tuc-su-kien/tuan-du-lich-ninh-binh-2026-hanh-trinh-di-san-qua-cac-thoi-dai-2644.html
+- Publisher: Sở Du lịch tỉnh Ninh Bình
+- Accessed: 21 Oct 2026
+- Supports: page dated 27 Mar 2026. The 2026 Tourism Week is expected in the last 10 days of May. Opening expected at Quảng trường Đinh Tiên Hoàng Đế. Lễ hội sắc vàng Tam Cốc and the “Mùa vàng Tam Cốc” photo tour are named. Forestival is named at Tràng An. Exact 2026 days are not printed.
+
+### S25
+- URL: https://vhtt.ninhbinh.gov.vn/vi/tuyen-truyen-phat-trien-du-lich/hang-mua-diem-du-lich-hap-dan-2346.html
+- Publisher: Sở Văn hóa và Thể thao tỉnh Ninh Bình
+- Accessed: 21 Oct 2026
+- Supports: Hang Múa page dated 3 Jul 2026. Thôn Khê Đầu, phường Hoa Lư. 486 steps. The view is Tam Coc and the rice at harvest. Lotus in June and July, best in the early morning. Not a Tam Coc page.
+
 ## Notes, not pages
 
 Not used as sources: ticket resellers, coach-fare blogs, and the published Tam Coc JSON. A vietnamtourism.vn Tràng An page and the ACV Nội Bài article did not load as text on this pass, so no kilometer figure was taken from either.
