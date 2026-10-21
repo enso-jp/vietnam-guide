@@ -1,0 +1,61 @@
+{
+  "slug": "han-swing-bridge",
+  "placeSlug": "da-nang",
+  "name": "Han Swing Bridge",
+  "nameVi": "Cầu quay Sông Hàn",
+  "district": "The river",
+  "kicker": "The Han bridge that turns for ships",
+  "summary": "Stand on the bank and watch the Han swing bridge turn for ships. It opened in 2000, runs 487.7 meters from Le Duan to Pham Van Dong, and the middle span turns about 90 degrees. The city page sets a visitor window from 23:00 to midnight on Saturday and Sunday, and the same page also says the span turns about 23:00 every night. Watching from the bank is free.",
+  "dots": 4,
+  "timeNeeded": "An evening",
+  "fee": "Free from the bank",
+  "getThere": "The west end is the Le Duan–Tran Phu junction. Walk from a river hotel. Minutes from My Khe are check on arrival.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The swing bridge lit at night, seen from the bank",
+  "notice": {
+    "title": "The turn is published two ways",
+    "body": "The bridge page gives Saturday and Sunday, 23:00 to midnight, for visitors, and also says the span turns about 23:00 every night for ships. A later itinerary page names only the weekend. Check that night."
+  },
+  "body": [
+    "Come late and stand on the bank. The bridge joins Le Duan in Hai Chau to Pham Van Dong in Son Tra, at the Le Duan–Tran Phu junction. The city tourism page says it opened in 2000, and gives the length as 487.7 meters, the width as 12.9 meters, and the count as 11 spans.",
+    "That page prints two clocks. Visitors are told the bridge turns from 23:00 to midnight on Saturday and Sunday. The same page says that every night, at about 23:00, the middle span turns 90 degrees so ships can pass, and that it is back by about midnight. A later key-times page names only the Saturday and Sunday turn, at about 23:00. Do not treat a weeknight as guaranteed.",
+    "The photograph is the bridge lit at night. It does not show the span in the middle of a turn. There is no ticket for watching from the bank."
+  ],
+  "figures": [
+    {
+      "id": "da-nang-han-swing-bridge-2",
+      "caption": "The deck and the sail-shaped pylon, in daylight",
+      "alt": "Motorbikes crossing the Han swing bridge, with the blue pylon over the river"
+    }
+  ],
+  "gettingThere": [
+    "The published address is the Le Duan–Tran Phu junction. From a hotel on Bach Dang, walk to that end. From My Khe, cross the river by Grab. The city page does not print those minutes, so they stay check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the river",
+      "body": "Walk to the Le Duan–Tran Phu junction. The page does not print a minute count."
+    },
+    {
+      "heading": "From My Khe",
+      "body": "By Grab across the river. The minutes are check on arrival."
+    }
+  ],
+  "hours": "Visitor turn 23:00 to midnight on Saturday and Sunday. The bridge page also says the span turns about 23:00 every night for ships and is back by about midnight.",
+  "closed": "No weekly closing day is published. The disagreement is which nights it turns.",
+  "links": [
+    {
+      "label": "Han swing bridge",
+      "url": "https://danangfantasticity.com/cac-cay-cau/cau-quay-song-han",
+      "note": "Da Nang tourism portal, 15 Sep 2015"
+    },
+    {
+      "label": "Weekend key time",
+      "url": "https://danangfantasticity.com/en/travel-information/key-times-to-save-for-your-da-nang-travel-itinerary",
+      "note": "Same portal, Saturday and Sunday only"
+    }
+  ],
+  "interests": [
+    "photography"
+  ]
+}

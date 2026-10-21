@@ -1,0 +1,60 @@
+{
+  "slug": "thuan-phuoc",
+  "placeSlug": "da-nang",
+  "name": "Thuan Phuoc Bridge",
+  "nameVi": "Cầu Thuận Phước",
+  "district": "The river",
+  "kicker": "Where the Han meets the sea",
+  "summary": "Cross the bridge where the Han meets the sea, on the way toward Son Tra. It opened to traffic on 19 July 2009 and the city page gives the length as 1,856 meters. One page joins Nguyen Tat Thanh to Hoang Sa and Truong Sa. The English page says Vo Nguyen Giap instead. No ticket and no viewing hour are published.",
+  "dots": 2,
+  "timeNeeded": "A look from the road",
+  "fee": "No ticket published",
+  "getThere": "The junction of Nguyen Tat Thanh and Nhu Nguyet, on the way to Son Tra. The minutes from the river are check on arrival.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The cable span over the mouth of the Han",
+  "notice": {
+    "title": "The far road is named twice",
+    "body": "The Vietnamese page connects Nguyen Tat Thanh with Hoang Sa–Truong Sa. The English page says Nguyen Tat Thanh and Vo Nguyen Giap. Both are on the tourism portal. No ticket is printed on either."
+  },
+  "body": [
+    "Stop only if you are already going that way. The bridge stands where the Han reaches the bay, and the road continues toward Son Tra. The 15 September 2015 city page says it opened to traffic on 19 July 2009, with a total length of 1,856 meters, a suspension span of 655 meters, and a width of 18 meters. The address on that page is the Nguyen Tat Thanh–Nhu Nguyet junction.",
+    "It is a road, not a gated sight. No ticket and no viewing hour are published. The second photograph is the same bridge from Son Tra, smaller in the frame, with trees in front. Use it to know the shape. Do not plan a separate half-day around it."
+  ],
+  "figures": [
+    {
+      "id": "da-nang-thuan-phuoc-2",
+      "caption": "The same bridge, smaller, from the Son Tra side",
+      "alt": "Thuan Phuoc Bridge seen from Son Tra, with trees in front of the span"
+    }
+  ],
+  "gettingThere": [
+    "Ride toward Son Tra along Nguyen Tat Thanh. The published pin is the junction with Nhu Nguyet. From the river or from My Khe the city page does not print the minutes, so they stay check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "Toward Son Tra",
+      "body": "The bridge is on the coastal road. Cross it on the way to Linh Ung. Do not add it as its own outing."
+    },
+    {
+      "heading": "From the river",
+      "body": "By Grab or car. The minutes are check on arrival."
+    }
+  ],
+  "hours": "No viewing hour is published.",
+  "closed": "It is a road bridge, not a gated sight.",
+  "links": [
+    {
+      "label": "Thuan Phuoc Bridge",
+      "url": "https://danangfantasticity.com/en/cau-thuan-phuoc",
+      "note": "Da Nang tourism portal, 15 Sep 2015"
+    },
+    {
+      "label": "English bridge page",
+      "url": "https://danangfantasticity.com/en/thuan-phuoc-bridge",
+      "note": "Same portal, 15 Jan 2016. The far road disagrees."
+    }
+  ],
+  "interests": [
+    "photography"
+  ]
+}

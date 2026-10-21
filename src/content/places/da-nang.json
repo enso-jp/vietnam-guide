@@ -85,73 +85,55 @@
     "ca-phe"
   ],
   "interestsBody": [
-    "My Khe is the morning swim, in the drier months, with the resort front on the sand.",
-    "An Thuong is the night, a few streets inland: bars and kitchens you can walk between. On the sand, Kalà Kalà is the beach club and East West is the brewery facing the water.",
-    "The Cham Museum is the cultural hour on the river, before you give the day to the beach. It is not a stand-in for My Son.",
-    "Dragon Bridge breathes fire on weekend nights. Bach Dang is the walk that gets you there. For lanterns and cao lau, ride to Hoi An.",
-    "Huynh Thuc Khang is the breakfast street. Han Market and Con Market are the halls. Pham Hong Thai is the night eating street."
+    "Dining starts with mi Quang, the breakfast street, and seafood on the beach road. The food guide is the menu.",
+    "Beach lifestyle is the evening on the sand: Kalà Kalà, East West, and a coffee facing the water.",
+    "Beach sports are the boards, the paddle, the basket boats, and the other hire on My Khe. The price is check on arrival.",
+    "Nightlife is An Thuong, the lanes just inland. The photograph is one doorway on An Thuong 4, not the whole grid.",
+    "Culture is the Cham Museum on the river, and the cathedral when you want the pink church on the same morning.",
+    "The river walk is Bach Dang: coffee, a young coconut, the swing bridge late, and Han Market when you want the hall."
   ],
   "interestCards": [
     {
-      "title": "Beach",
-      "summary": "The long swim, with the resort towers on the sand.",
-      "attractionSlug": "my-khe",
+      "title": "Dining and F&B",
+      "summary": "Mi Quang, the breakfast street, and seafood on the beach road.",
+      "photo": "mi-quang",
+      "icon": "food",
+      "to": "food"
+    },
+    {
+      "title": "Beach lifestyle",
+      "summary": "Kalà Kalà and East West on the sand, and a coffee facing the water.",
+      "attractionSlug": "beachfront",
+      "photo": "da-nang-beachfront",
       "icon": "beach"
     },
     {
-      "title": "An Thuong",
-      "summary": "Bars and kitchens a few streets inland from the beach.",
+      "title": "Beach sports",
+      "summary": "Surf, paddle, and basket boats. The price is check on arrival.",
+      "attractionSlug": "beach-sports",
+      "photo": "da-nang-beach-sports",
+      "icon": "beach"
+    },
+    {
+      "title": "Nightlife",
+      "summary": "The lanes inland from My Khe. One doorway on An Thuong 4 stands in for the grid.",
       "attractionSlug": "an-thuong",
       "photo": "da-nang-an-thuong",
       "icon": "drink"
     },
     {
-      "title": "Beach night",
-      "summary": "Kalà Kalà on the sand, and East West facing the water.",
-      "attractionSlug": "an-thuong",
-      "photo": "da-nang-beach-bars",
-      "icon": "drink"
-    },
-    {
-      "title": "Cham Museum",
-      "summary": "Cham sculpture on the Han River.",
+      "title": "Culture",
+      "summary": "Cham stone on the river, and the rooster church on a morning nearby.",
       "attractionSlug": "cham-museum",
+      "photo": "da-nang-cham-museum",
       "icon": "museum"
     },
     {
-      "title": "Golden Bridge",
-      "summary": "A full day in the hills, for the bridge in the stone hands.",
-      "attractionSlug": "ba-na",
-      "photo": "da-nang-ba-na",
-      "icon": "view"
-    },
-    {
-      "title": "Son Tra view",
-      "summary": "The 67-meter Quan The Am, facing the sea from the peninsula.",
-      "attractionSlug": "son-tra",
-      "photo": "da-nang-son-tra",
-      "icon": "view"
-    },
-    {
-      "title": "Breakfast street",
-      "summary": "Huynh Thuc Khang in the morning, before the beach.",
-      "photo": "bun-cha-ca",
-      "icon": "food",
-      "to": "food"
-    },
-    {
       "title": "River walk",
-      "summary": "Bach Dang at dusk, and the dragon on a weekend night.",
-      "attractionSlug": "dragon-bridge",
-      "photo": "da-nang-dragon-bridge",
+      "summary": "Coffee and coconut on Bach Dang, the swing bridge, and Han Market.",
+      "attractionSlug": "bach-dang",
+      "photo": "da-nang-bach-dang",
       "icon": "view"
-    },
-    {
-      "title": "Da Nang Food Guide",
-      "summary": "Mi Quang at lunch, bun cha ca in the morning, seafood on My Khe.",
-      "photo": "mi-quang",
-      "icon": "food",
-      "to": "food"
     }
   ],
   "season": {
