@@ -1309,13 +1309,7 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   min-width: 0;
   max-width: 100%;
 }
-.region-caption {
-  display: grid;
-  grid-template-columns: minmax(0, 0.92fr) minmax(0, 1.08fr);
-  gap: 0 1.5rem;
-  margin-top: 0.85rem;
-}
-.region-caption-panel { grid-column: 2; }
+.region-caption { margin-top: 0.85rem; }
 .region-caption-panel h3 { margin: 0 0 0.3rem; font-size: 1.45rem; color: var(--ink); }
 .region-caption-panel p { margin: 0; max-width: 100%; overflow-wrap: break-word; color: var(--ink); }
 .region-picks {
@@ -1945,8 +1939,7 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
     padding-top: 0.15rem;
   }
   .nav-panel { display: none; }
-  .atlas, .plan-columns, .region-board, .region-caption { grid-template-columns: 1fr; }
-  .region-caption-panel { grid-column: 1; }
+  .atlas, .plan-columns, .region-board { grid-template-columns: 1fr; }
   .region-picks { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .region-picks button { font-size: 0.72rem; padding: 0.15rem 0.12rem 0.28rem; }
   .site-menu {
