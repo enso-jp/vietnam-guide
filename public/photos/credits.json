@@ -984,16 +984,6 @@
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Kim_Ma_motorbike_traffic_HN.jpg"
   },
-  "blog-hoi-an-lanterns": {
-    "author": "Christophe95",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Hoi_An_Full_Moon_Festival.jpg"
-  },
-  "blog-da-nang-river": {
-    "author": "Lam Nguyen",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Standing_by_Han_River_Da_Nang.jpg"
-  },
   "interest-food": {
     "author": "No machine-readable author provided. J. Nguyen~commonswiki assumed (based on copyright claims).",
     "license": "CC BY-SA 3.0",
@@ -1024,25 +1014,10 @@
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Water_Puppet_Vietnam.jpg"
   },
-  "blog-hue-festival": {
-    "author": "Dung",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ng%E1%BB%8D_M%C3%B4n_%2B_river.jpg"
-  },
-  "blog-chua-ong": {
-    "author": "Khương Việt Hà",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Phuc_Kien_hoi_quan.JPG"
-  },
   "interest-old-towns": {
     "author": "Christophe95",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Street_in_Hoi_An.jpg"
-  },
-  "blog-my-son": {
-    "author": "Bernard Gagnon",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:My_Son,_Vietnam.jpg"
   },
   "bun-bo-hue-2": {
     "author": "Chainwit.",
@@ -1788,5 +1763,105 @@
     "author": "blue_quartz",
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Trang_Tien_Plaza.jpg"
+  },
+  "blog-hcmc-metro": {
+    "author": "Felix Běhavý",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Departing_train_at_Nh%C3%A0_Ga_V%C4%83n_Th%C3%A1nh_metro_station_in_HCMC_Metro,_line_1.jpg"
+  },
+  "blog-hcmc-minh-khai": {
+    "author": "Steffen Schmitz",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_City,_Nguyen_Thi_Minh_Khai_Street,_2020-01_CN-01.jpg"
+  },
+  "blog-hanoi-kim-ngan": {
+    "author": "Christophe95",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kim_Ng%C3%A2n_Temple_1.jpg"
+  },
+  "blog-hanoi-hoan-kiem": {
+    "author": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hanoi_Vietnam_Shrine-at-Ho%C3%A0n-Ki%E1%BA%BFm-Lake-01.jpg"
+  },
+  "blog-ninh-binh-trang-an": {
+    "author": "Jakub Hałun",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Trang_An_Landscape_Complex,_Ninh_Binh_Province,_Vietnam,_20240202_1456_5313.jpg"
+  },
+  "blog-ninh-binh-trang-an-valley": {
+    "author": "Jakub Hałun",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Trang_An_Landscape_Complex,_Ninh_Binh_Province,_Vietnam,_20240202_1447_5310.jpg"
+  },
+  "blog-can-tho-market": {
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Can_Tho,_Vietnam,_Floating_Market,_Sale.jpg"
+  },
+  "blog-can-tho-boats": {
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Can_Tho,_Vietnam,_Floating_Market,_Boats.jpg"
+  },
+  "blog-hue-co-mat": {
+    "author": "Lưu Ly",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vi%E1%BB%87n_c%C6%A1_m%E1%BA%ADt_-_Hu%E1%BA%BF_-_panoramio.jpg"
+  },
+  "blog-hue-citadel": {
+    "author": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hue_Vietnam_Citadel-of-Hu%E1%BA%BF-01.jpg"
+  },
+  "blog-danang-bridge": {
+    "author": "Tycho",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tr%E1%BA%A7n_Th%E1%BB%8B_L%C3%BD_Bridge.jpg"
+  },
+  "blog-son-tra": {
+    "author": "Alexkom000",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024-12-07_Linh_Ung_Pagoda_1.jpg"
+  },
+  "blog-hoi-an-street": {
+    "author": "Steffen Schmitz",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:H%E1%BB%99i_An,_Ancient_Town,_2020-01_CN-06.jpg"
+  },
+  "blog-hoi-an-river-lanterns": {
+    "author": "Christophe95",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hoi_An_Full_Moon_Festival.jpg"
+  },
+  "blog-halong-bay": {
+    "author": "Steven C. Price",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ha-Long-Bay5.jpg"
+  },
+  "blog-halong-harbour": {
+    "author": "Tango7174",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:HalongHarbour_tango7174.jpg"
+  },
+  "blog-phuquoc-beach": {
+    "author": "Prince Roy",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:B%C3%A3i_Sao_Beach.jpg"
+  },
+  "blog-phuquoc-stream": {
+    "author": "Sketyl none",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Su%E1%BB%91i_Tranh_Ph%C3%BA_Qu%E1%BB%91c_(37732306046).jpg"
+  },
+  "blog-sapa-terraces": {
+    "author": "Jakub Hałun",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Road_and_paddy_fields_in_Sa_Pa,_Vietnam,_20240126_1202_3586.jpg"
+  },
+  "blog-sapa-catcat": {
+    "author": "Jakub Hałun",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Water_wheel_in_Cat_Cat_village,_Sa_Pa,_Vietnam,_20240126_1142_3546.jpg"
   }
 }

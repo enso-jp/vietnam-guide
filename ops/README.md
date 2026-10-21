@@ -44,8 +44,8 @@ You can also press Run now more than once. Each run skips places that are alread
 Two more automations, separate from the board. They are not scheduled until you turn them on. Saving the prompt files does not start them.
 
 1. Open [Cursor Automations](https://cursor.com/automations).
-2. Create one scheduled automation for the morning. Repository: this repo. Branch: `main`. Memories off. Pull requests on. Paste `ops/prompts/blog-scout.md`.
+2. Create one scheduled automation for the morning. Repository: this repo. Branch: `main`. Memories off. Pull requests on. Paste `ops/prompts/blog-scout.md`. The scout writes about two posts a day.
 3. Create a second scheduled automation for later the same day. Same repository and branch. Memories off. Pull requests on. Paste `ops/prompts/blog-front.md`.
-4. The scout writes posts. The later run only updates `src/content/front-page.json`, which is the homepage highlight list. Stories on the homepage are the other current posts.
+4. The scout writes about two posts. The later run only updates `src/content/front-page.json`, which is the homepage highlight list. Stories on the homepage are the other current posts.
 
-Until those two automations are saved and enabled, nothing posts on a schedule.
+Until those two automations are saved and enabled, nothing posts on a schedule. Saving the prompt files does not create them. Only the owner can turn them on at Cursor Automations.
