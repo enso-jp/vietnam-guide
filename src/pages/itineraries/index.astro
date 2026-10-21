@@ -1,8 +1,9 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
+import ItineraryIndexCard from '../../components/ItineraryIndexCard.astro';
 import PlanTabs from '../../components/PlanTabs.astro';
-import { corridorsNorthToSouth, getItineraries } from '../../lib/content';
+import { corridorsNorthToSouth, getItineraries, getPlace, placePath } from '../../lib/content';
 import {
   daysFor,
   durationLabel,
@@ -11,9 +12,43 @@ import {
   isNationwideLength,
   type FilterTrip,
 } from '../../lib/itinerary-filters';
+import { photoPath } from '../../lib/photos';
 import { breadcrumbList, itemList } from '../../lib/schema';
+import type { Itinerary, ItineraryStop } from '../../lib/types';
 
 const trips = getItineraries();
+
+function stopPhoto(stop: ItineraryStop): string {
+  if (stop.attractionSlug && stop.placeSlug) return `${stop.placeSlug}-${stop.attractionSlug}`;
+  if (stop.dishSlug) return stop.dishSlug;
+  return stop.placeSlug || '';
+}
+
+function cardSrc(trip: Itinerary): string | undefined {
+  const ids = [
+    trip.photo || '',
+    trip.days?.find((day) => day.photo)?.photo || '',
+    ...(trip.stops ?? []).map(stopPhoto),
+    trip.placeSlug || '',
+    trip.days?.find((day) => day.placeSlug)?.placeSlug || '',
+  ].filter(Boolean);
+  for (const id of ids) {
+    const src = photoPath(id);
+    if (src) return src;
+  }
+  return undefined;
+}
+
+function cardFor(trip: Itinerary) {
+  return {
+    href: `/itineraries/${trip.slug}`,
+    slug: trip.slug,
+    title: trip.title,
+    duration: trip.duration,
+    src: cardSrc(trip),
+  };
+}
+
 const nationwideRecords: FilterTrip[] = trips.flatMap((trip) => {
   if (trip.level !== 'nationwide' || trip.daysCount == null || !trip.gateway || !isNationwideLength(trip.daysCount)) return [];
   return [{
@@ -44,12 +79,34 @@ const gatewayDays = daysFor(nationwideRecords, 'gateway', gatewayValue);
 const corridorValue = firstWithDays(corridors.map((corridor) => corridor.slug), (value) => daysFor(regionRecords, 'corridor', value).length > 0) || corridors[0]?.slug || '';
 const corridorDays = daysFor(regionRecords, 'corridor', corridorValue);
 const filterData = JSON.stringify({ nationwide: nationwideRecords, region: regionRecords }).replace(/</g, '\\u003c');
-const sections = [
-  { title: 'Nationwide', trips: trips.filter((trip) => trip.level === 'nationwide') },
-  { title: 'Region', trips: trips.filter((trip) => trip.level === 'region') },
-  { title: 'Day', trips: trips.filter((trip) => trip.level === 'day') },
-  { title: 'Half-day', trips: trips.filter((trip) => trip.level === 'half-day') },
-];
+const nationwide = trips.filter((trip) => trip.level === 'nationwide');
+const regional = trips.filter((trip) => trip.level === 'region');
+
+function placeGroups(level: Itinerary['level']) {
+  const groups: { slug: string; name: string; href?: string; trips: Itinerary[] }[] = [];
+  for (const trip of trips.filter((item) => item.level === level)) {
+    const slug = trip.placeSlug
+      || trip.stops?.find((stop) => stop.placeSlug)?.placeSlug
+      || trip.days?.find((day) => day.placeSlug)?.placeSlug
+      || '';
+    let group = groups.find((item) => item.slug === slug);
+    if (!group) {
+      const place = slug ? getPlace(slug) : undefined;
+      group = {
+        slug,
+        name: place?.name || '',
+        href: place ? `${placePath(place)}#itineraries` : undefined,
+        trips: [],
+      };
+      groups.push(group);
+    }
+    group.trips.push(trip);
+  }
+  return groups;
+}
+
+const dayGroups = placeGroups('day');
+const halfDayGroups = placeGroups('half-day');
 ---
 <Base title="Itineraries" description="Nationwide routes, corridor trips, and timed city walks for Vietnam." path="/itineraries" ogType="website" jsonLd={[itemList('Itineraries', trips.map((trip) => ({ name: trip.title, path: `/itineraries/${trip.slug}` }))), breadcrumbList([{ name: 'Plan a trip', path: '/plan' }, { name: 'Itinerary ideas', path: '/itineraries' }])]}>
   <div class="wrap section">
@@ -57,7 +114,7 @@ const sections = [
     <h1>Itinerary ideas</h1>
     <PlanTabs current="itineraries" />
     <div class="itinerary-index place-body">
-      <section class="place-section">
+      <section class="itinerary-block">
         <h2>Nationwide</h2>
         <form class="itinerary-filter" data-itinerary-filter="nationwide">
           <label>Gateway
@@ -77,8 +134,13 @@ const sections = [
           <button type="submit" disabled={gatewayDays.length === 0}>Show this itinerary</button>
           <div class="itinerary-matches" data-filter-matches hidden></div>
         </form>
+        {nationwide.length > 0 && (
+          <div class="itinerary-cards" data-itinerary-catalog>
+            {nationwide.map((trip) => <ItineraryIndexCard {...cardFor(trip)} />)}
+          </div>
+        )}
       </section>
-      <section class="place-section">
+      <section class="itinerary-block">
         <h2>Region</h2>
         <form class="itinerary-filter" data-itinerary-filter="region">
           <label>Region
@@ -98,17 +160,38 @@ const sections = [
           <button type="submit" disabled={corridorDays.length === 0}>Show this itinerary</button>
           <div class="itinerary-matches" data-filter-matches hidden></div>
         </form>
+        {regional.length > 0 && (
+          <div class="itinerary-cards" data-itinerary-catalog>
+            {regional.map((trip) => <ItineraryIndexCard {...cardFor(trip)} />)}
+          </div>
+        )}
       </section>
-      {sections.map((section) => (
-        <section class="place-section">
-          <h2>{section.title}</h2>
-          <ul class="guide-list">
-            {section.trips.map((trip) => (
-              <li><a class="guide-row" href={`/itineraries/${trip.slug}`}><strong>{trip.title}</strong><p class="meta">{trip.duration}</p><p>{trip.summary}</p></a></li>
-            ))}
-          </ul>
+      {dayGroups.length > 0 && (
+        <section class="itinerary-block">
+          <h2>Day</h2>
+          {dayGroups.map((group) => (
+            <div class="itinerary-place">
+              {group.name && (group.href ? <h3><a href={group.href}>{group.name}</a></h3> : <h3>{group.name}</h3>)}
+              <div class="itinerary-cards">
+                {group.trips.map((trip) => <ItineraryIndexCard {...cardFor(trip)} />)}
+              </div>
+            </div>
+          ))}
         </section>
-      ))}
+      )}
+      {halfDayGroups.length > 0 && (
+        <section class="itinerary-block">
+          <h2>Half-day</h2>
+          {halfDayGroups.map((group) => (
+            <div class="itinerary-place">
+              {group.name && (group.href ? <h3><a href={group.href}>{group.name}</a></h3> : <h3>{group.name}</h3>)}
+              <div class="itinerary-cards">
+                {group.trips.map((trip) => <ItineraryIndexCard {...cardFor(trip)} />)}
+              </div>
+            </div>
+          ))}
+        </section>
+      )}
     </div>
     <script type="application/json" id="itinerary-filter-data" set:html={filterData}></script>
   </div>
@@ -154,6 +237,22 @@ const sections = [
         clearMatches();
       };
 
+      const plainCard = (trip: FilterTrip) => {
+        const link = document.createElement('a');
+        link.className = 'itinerary-card is-plain';
+        link.href = `/itineraries/${trip.slug}`;
+        link.dataset.slug = trip.slug;
+        const label = document.createElement('span');
+        label.className = 'itinerary-card-label';
+        const title = document.createElement('strong');
+        title.textContent = trip.title;
+        const meta = document.createElement('small');
+        meta.textContent = trip.duration;
+        label.append(title, meta);
+        link.append(label);
+        return link;
+      };
+
       primary.addEventListener('change', fillDuration);
       duration.addEventListener('change', clearMatches);
       form.addEventListener('submit', (event) => {
@@ -169,20 +268,12 @@ const sections = [
           matches.hidden = true;
           return;
         }
+        const catalog = form.closest('.itinerary-block')?.querySelector('[data-itinerary-catalog]');
         const grid = document.createElement('div');
-        grid.className = 'hub-grid';
+        grid.className = 'itinerary-cards';
         for (const trip of found) {
-          const link = document.createElement('a');
-          link.href = `/itineraries/${trip.slug}`;
-          const title = document.createElement('h3');
-          title.textContent = trip.title;
-          const summary = document.createElement('p');
-          summary.textContent = trip.summary;
-          const meta = document.createElement('p');
-          meta.className = 'meta';
-          meta.textContent = `${trip.duration} · ${trip.pace}`;
-          link.append(title, summary, meta);
-          grid.append(link);
+          const existing = catalog?.querySelector<HTMLAnchorElement>(`[data-slug="${CSS.escape(trip.slug)}"]`);
+          grid.append(existing ? existing.cloneNode(true) : plainCard(trip));
         }
         matches.append(grid);
         matches.hidden = false;
