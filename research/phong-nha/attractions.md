@@ -114,7 +114,7 @@ Checked: 21 Oct 2026
 - Suggested dot: 5 — the famous cave, and still not the base-layer day
 - Photo must show: The doline or the passage at a scale that is not Paradise Cave’s boardwalk. None accepted.
 - Sources: S12, S13
-- Page: left out of the base layer. It is not a half-day outline.
+- Page: written 21 Oct 2026. A doline photograph was accepted. It is still not a half-day.
 
 ### Phong Nha village
 - Vietnamese name: Xã Phong Nha
@@ -169,7 +169,7 @@ Checked: 21 Oct 2026
 
 Districts that deserve their own page: none. The village is the place. Paradise Cave is one sight at Km 16, not a district.
 
-Left out of the sight list, on purpose: Eight Lady Cave, En Cave, the botanical garden, Ozo Park, Hang Va, the 4,500 m Phong Nha adventure, and the night tour. The park menu names some of them (S7 footer, S1) and this pass did not open a fee and hour page for each. Road 20 memorial is a Tourism Center product (S8) without a fee page in this pass.
+Opened on 21 Oct 2026 and still not given a public page, because no CC BY, CC BY-SA, or public-domain photograph showed the site: Dark Cave (S5), Mooc Spring (S7), the botanical garden (S22), OZO Park (S23), Hang En (S24, S25), Hang Va (S27, S28), Eight Ladies Cave (S29), Sinh Ton Valley (S30), and the 4,500-metre route (S21). The 4,500-metre price is on the Phong Nha Cave page. The night tour still has no price (S1). Fees that disagree are both kept in the dossier and not averaged. Tien Son stays on the Phong Nha Cave page.
 
 ## Nightlife and evening
 
