@@ -11,7 +11,7 @@
   "coverage": {
     "sights": "partial",
     "areas": "partial",
-    "foodStreets": "missing",
+    "foodStreets": "partial",
     "nightlife": "missing",
     "lifestyle": "missing",
     "events": "missing",
@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:27:35.462Z",
+      "updated": "2026-10-21T08:29:56.645Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:27:35.462Z",
+      "updated": "2026-10-21T08:29:56.645Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,13 +45,13 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:27:35.462Z",
+      "updated": "2026-10-21T08:29:56.645Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:27:35.462Z",
+      "updated": "2026-10-21T08:29:56.645Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -67,9 +67,9 @@
       "reworkCount": 0
     },
     "researchFood": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "Dishes in: pho, bun cha, coffee, bun dau, bun ca, bun thang, mien. Streets in: Bac Qua and the Hang Dao night market. Still open: kitchen hours, Bac Qua's own street names, banh cuon without a quarter street, whether Nguyen Huu Huan is inside the grid, and cha ca on Duong Thanh. No stall price was copied. Shop names stay notes, not picks.",
+      "updated": "2026-10-21T08:29:56.645Z",
       "reworkCount": 0
     },
     "researchNightlife": {
@@ -105,7 +105,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026 from the Hoan Kiem management board. Hours and a current fee are Check on arrival. Published dot unchanged.",
-      "updated": "2026-10-21T08:27:35.462Z",
+      "updated": "2026-10-21T08:29:56.645Z",
       "reworkCount": 0
     },
     {
@@ -121,7 +121,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026. The management-board page prints no entrance fee and no door hours.",
-      "updated": "2026-10-21T08:27:35.462Z",
+      "updated": "2026-10-21T08:29:56.645Z",
       "reworkCount": 0
     },
     {
@@ -132,12 +132,12 @@
       "slug": "bun-cha",
       "file": "src/content/dishes/bun-cha.json",
       "source": "published",
-      "research": "not_started",
+      "research": "stored",
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
-      "updated": null,
+      "note": "Sourced 21 Oct 2026. Lunch in the quarter. Example shop is a note, not a pick.",
+      "updated": "2026-10-21T08:29:56.205Z",
       "reworkCount": 0
     },
     {
@@ -148,12 +148,12 @@
       "slug": "pho",
       "file": "src/content/dishes/pho.json",
       "source": "published",
-      "research": "not_started",
+      "research": "stored",
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
-      "updated": null,
+      "note": "Sourced 21 Oct 2026. Hanoi breakfast. Garnish notes disagree between two Vietnam Tourism pages. No stall price.",
+      "updated": "2026-10-21T08:29:56.171Z",
       "reworkCount": 0
     },
     {
@@ -164,12 +164,12 @@
       "slug": "ca-phe",
       "file": "src/content/dishes/ca-phe.json",
       "source": "published",
-      "research": "not_started",
+      "research": "stored",
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
-      "updated": null,
+      "note": "Sourced 21 Oct 2026. Egg coffee is the Hanoi cup. The example cafe is not a pick.",
+      "updated": "2026-10-21T08:29:56.239Z",
       "reworkCount": 0
     },
     {
@@ -185,7 +185,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "87 Ma May. 20,000 VND in Resolution 44/2024. Hours Check on arrival.",
-      "updated": "2026-10-21T08:27:35.462Z",
+      "updated": "2026-10-21T08:29:56.645Z",
       "reworkCount": 0
     },
     {
@@ -201,7 +201,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "22 Hang Buom. 20,000 VND in Resolution 44/2024. Hours Check on arrival.",
-      "updated": "2026-10-21T08:27:35.462Z",
+      "updated": "2026-10-21T08:29:56.645Z",
       "reworkCount": 0
     },
     {
@@ -217,7 +217,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "44 Hang Bac. Fee Check on arrival. Not in Resolution 44/2024.",
-      "updated": "2026-10-21T08:27:35.462Z",
+      "updated": "2026-10-21T08:29:56.645Z",
       "reworkCount": 0
     },
     {
@@ -233,7 +233,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "East-gate landmark from the 2020 walking-space note. Architecture, fee, and hours still open.",
-      "updated": "2026-10-21T08:27:35.462Z",
+      "updated": "2026-10-21T08:29:56.645Z",
       "reworkCount": 0
     },
     {
@@ -249,7 +249,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Guild street. No separate page. Covered by the place walk and by Kim Ngan.",
-      "updated": "2026-10-21T08:27:35.462Z",
+      "updated": "2026-10-21T08:29:56.645Z",
       "reworkCount": 0
     },
     {
@@ -265,20 +265,117 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "The 2014 level-I streets are the place itself. Sights inside them have their own rows.",
-      "updated": "2026-10-21T08:27:35.462Z",
+      "updated": "2026-10-21T08:29:56.645Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--dish--bun-dau",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Bun dau",
+      "slug": "bun-dau",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Lunch. Ma May example is a note, not a pick.",
+      "updated": "2026-10-21T08:29:56.451Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--dish--bun-ca",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Bun ca",
+      "slug": "bun-ca",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Fish noodle soup. Hang Bac alley example is a note, not a pick.",
+      "updated": "2026-10-21T08:29:56.478Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--dish--bun-thang",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Bun thang",
+      "slug": "bun-thang",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Breakfast associated with Tet leftovers. Cau Go example is a note, not a pick.",
+      "updated": "2026-10-21T08:29:56.504Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--dish--mien",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Mien",
+      "slug": "mien",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Vermicelli. Phung Hung example is the west edge, not a pick.",
+      "updated": "2026-10-21T08:29:56.530Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--bac-qua",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Bac Qua and the north side of Dong Xuan",
+      "slug": "bac-qua",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Food street behind Dong Xuan. The food guide carries it. No separate sight page. Hours Check on arrival.",
+      "updated": "2026-10-21T08:29:56.645Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--hang-dao-night-market",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Hang Dao weekend night market",
+      "slug": "hang-dao-night-market",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Weekend walking market. Already the scene pin. The food guide can mention it. No separate page.",
+      "updated": "2026-10-21T08:29:56.645Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "old-quarter",
-    "stage": "researchFood",
-    "item": null,
-    "at": "2026-10-21T08:27:54.587Z",
-    "by": "hourly",
-    "branch": "cursor/old-quarter-research-base"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T08:29:56.645Z",
+      "place": "old-quarter",
+      "stage": "researchFood",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Dishes in: pho, bun cha, coffee, bun dau, bun ca, bun thang, mien. Streets in: Bac Qua and the Hang Dao night market. Still open: kitchen hours, Bac Qua's own street names, banh cuon without a quarter street, whether Nguyen Huu Huan is inside the grid, and cha ca on Duong Thanh. No stall price was copied. Shop names stay notes, not picks."
+    },
     {
       "at": "2026-10-21T08:27:35.462Z",
       "place": "old-quarter",

@@ -74,6 +74,24 @@ Accessed 21 Oct 2026 unless a line says otherwise. A fee or a clock with one pag
 - Accessed: 21 Oct 2026
 - Supports: Indexed text only. Direct fetches timed out with no bytes. Do not treat S12 as confirmed until the page opens. The index text says about 100 ha, 76 streets, north Hàng Đậu, west Phùng Hưng, south Hàng Bông / Hàng Gai / Cầu Gỗ / Hàng Thùng, east Trần Quang Khải and Trần Nhật Duật, a commercial quarter from the 11th century, the “36 phố phường” guild name, and a weekend walking line Hàng Đào – Đồng Xuân of nearly 3 km. The 11th-century line disagrees with the 14th-century line on S8.
 
+### S23
+- URL: https://vietnam.travel/things-to-do/10-must-try-hanoi-dishes
+- Publisher: Vietnam Tourism (vietnam.travel)
+- Accessed: 21 Oct 2026
+- Supports: Short descriptions of phở, bún chả, cà phê trứng, bún đậu, bún cá, bún thang, miến, and chả cá, plus one example address each. Those addresses are street clues. They are not picks.
+
+### S24
+- URL: https://vietnam.travel/things-to-do/story-vietnamese-pho
+- Publisher: Vietnam Tourism (vietnam.travel). The Vietnamese URL returned this English text.
+- Accessed: 21 Oct 2026
+- Supports: Phở as a Hanoi breakfast, Nam Định as the geographical cradle, shoulder-pole kitchens in the Old Quarter by the 1930s, and the north/south garnish split. The opening paragraph and the later northern-garnish sentence do not match. Both are kept.
+
+### S25
+- URL: http://sovhttdl.hanoi.gov.vn/nhung-mon-ngon-ha-noi-lam-say-long-du-khach/
+- Publisher: Hanoi Department of Culture and Sports, article dated 10 Aug 2016, updated 17 Jul 2018
+- Accessed: 21 Oct 2026
+- Supports: City descriptions of bún chả, phở, cà phê trứng, bánh cuốn, chả cá, bánh tôm (West Lake road), bún riêu, bánh mì, phở cuốn, and xôi xéo. No Old Quarter street except the West Lake line for bánh tôm, which is outside this place. No prices.
+
 ### S14
 - URL: https://nhansu.vn/van-ban-phap-luat/Nghi-quyet-44-2024-NQ-HDND-phi-tham-quan-di-tich-lich-su-cong-trinh-van-hoa-Ha-Noi-637681.html
 - Publisher: A legal-database copy of Hanoi People’s Council Resolution 44/2024/NQ-HĐND, 10 Dec 2024, in force 1 Jan 2025
