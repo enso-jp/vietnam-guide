@@ -68,13 +68,6 @@
   ],
   "interestCards": [
     {
-      "title": "Ta Dung islands",
-      "summary": "The reservoir boat day in Dak Glong.",
-      "attractionSlug": "ta-dung-lake",
-      "photo": "dak-nong",
-      "icon": "view"
-    },
-    {
       "title": "Serepok waterfalls",
       "summary": "Dray Sap’s wide cascade in Krong No.",
       "attractionSlug": "dray-sap",
@@ -82,18 +75,11 @@
       "icon": "view"
     },
     {
-      "title": "Lawful lava caves",
-      "summary": "Permitted tubes such as C9 — not self-guided C7.",
-      "attractionSlug": "volcanic-cave-c9",
-      "photo": "dak-nong",
+      "title": "Basalt coffee",
+      "summary": "Farm roads around Gia Nghia and Dak Glong.",
+      "dishSlug": "ca-phe",
+      "photo": "ca-phe",
       "icon": "view"
-    },
-    {
-      "title": "Sound and stone",
-      "summary": "EXPLORASOUND and the Dak Kar lithophones in Gia Nghia.",
-      "attractionSlug": "explorasound",
-      "photo": "dak-nong",
-      "icon": "museum"
     },
     {
       "title": "Cool hills pairing",
