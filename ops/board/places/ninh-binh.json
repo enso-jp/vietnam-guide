@@ -11,7 +11,7 @@
   "coverage": {
     "sights": "partial",
     "areas": "partial",
-    "foodStreets": "missing",
+    "foodStreets": "partial",
     "nightlife": "missing",
     "lifestyle": "missing",
     "events": "missing",
@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:26:01.807Z",
+      "updated": "2026-10-21T08:27:27.164Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:26:01.807Z",
+      "updated": "2026-10-21T08:27:27.164Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,13 +45,13 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:26:01.807Z",
+      "updated": "2026-10-21T08:27:27.164Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:26:01.807Z",
+      "updated": "2026-10-21T08:27:27.164Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -67,9 +67,9 @@
       "reworkCount": 0
     },
     "researchFood": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "Still open: market streets and hours, a named eating alley, how the gift-list dishes are eaten, whether bún lươn and miến lươn are one bowl, and com tam, which is on the place file and not on the department list.",
+      "updated": "2026-10-21T08:27:27.163Z",
       "reworkCount": 0
     },
     "researchNightlife": {
@@ -105,7 +105,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Electric car 60,000 VND in 2020 and 30,000 VND on the 2017 English page. 2025 adult figure not recovered. Hours check on arrival. Dot stays 3.",
-      "updated": "2026-10-21T08:26:01.807Z",
+      "updated": "2026-10-21T08:27:27.164Z",
       "reworkCount": 0
     },
     {
@@ -121,7 +121,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Adult 20,000 VND on the 2020 and 2025 lists. Hours check on arrival. Dot stays 3.",
-      "updated": "2026-10-21T08:26:01.807Z",
+      "updated": "2026-10-21T08:27:27.164Z",
       "reworkCount": 0
     },
     {
@@ -137,7 +137,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Department lists 100,000 VND. Vietnam Tourism prints 200,000 VND and 500 steps. Hours check on arrival. Dot stays 4.",
-      "updated": "2026-10-21T08:26:01.807Z",
+      "updated": "2026-10-21T08:27:27.164Z",
       "reworkCount": 0
     },
     {
@@ -152,8 +152,8 @@
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
-      "updated": null,
+      "note": "Published dish slug. Not on the department specialty pages read 21 Oct 2026. Do not write it as Ninh Binh food until a source says so.",
+      "updated": "2026-10-21T08:27:27.108Z",
       "reworkCount": 0
     },
     {
@@ -169,7 +169,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Sleep area for the Ninh Binh night. Place slug tam-coc already exists, so no second town page. Sourced 21 Oct 2026 from the department Tam Coc page and Vietnam Tourism.",
-      "updated": "2026-10-21T08:26:01.807Z",
+      "updated": "2026-10-21T08:27:27.164Z",
       "reworkCount": 0
     },
     {
@@ -180,12 +180,12 @@
       "slug": "cho-rong",
       "file": null,
       "source": "dossier",
-      "research": "not_started",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Department visitor guide, 1 Aug 2025, names Cho Rong as a place to buy specialties. Food lane has not opened it.",
-      "updated": "2026-10-21T08:26:01.807Z",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Named on the 1 Aug 2025 guide as a gift market. No street number and no hour. The food guide carries it. No market page.",
+      "updated": "2026-10-21T08:27:27.164Z",
       "reworkCount": 0
     },
     {
@@ -196,12 +196,12 @@
       "slug": "cho-bau",
       "file": null,
       "source": "dossier",
-      "research": "not_started",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Department visitor guide, 1 Aug 2025, names Cho Bau as a place to buy specialties. Food lane has not opened it.",
-      "updated": "2026-10-21T08:26:01.807Z",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Named with Cho Rong on the 1 Aug 2025 guide. No street number and no hour. The food guide carries it. No market page.",
+      "updated": "2026-10-21T08:27:27.164Z",
       "reworkCount": 0
     },
     {
@@ -217,7 +217,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026. Hours check on arrival. Child price differs on the 2017 English page.",
-      "updated": "2026-10-21T08:26:01.807Z",
+      "updated": "2026-10-21T08:27:27.164Z",
       "reworkCount": 0
     },
     {
@@ -233,7 +233,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Place slug tam-coc already covers the boat. 2020 and 2025 fees disagree. Do not open a second file.",
-      "updated": "2026-10-21T08:26:01.807Z",
+      "updated": "2026-10-21T08:27:27.164Z",
       "reworkCount": 0
     },
     {
@@ -249,7 +249,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Cover on the Tam Coc place. Standalone fee unsourced. No separate page yet.",
-      "updated": "2026-10-21T08:26:01.807Z",
+      "updated": "2026-10-21T08:27:27.164Z",
       "reworkCount": 0
     },
     {
@@ -265,7 +265,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026. Fees disagree across 2017, 2020, and 2025. Hours check on arrival.",
-      "updated": "2026-10-21T08:26:01.807Z",
+      "updated": "2026-10-21T08:27:27.164Z",
       "reworkCount": 0
     },
     {
@@ -281,7 +281,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "The place page is this hub. No separate attraction file.",
-      "updated": "2026-10-21T08:26:01.807Z",
+      "updated": "2026-10-21T08:27:27.164Z",
       "reworkCount": 0
     },
     {
@@ -297,7 +297,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "On the department lists. Not written up this pass.",
-      "updated": "2026-10-21T08:26:01.807Z",
+      "updated": "2026-10-21T08:27:27.164Z",
       "reworkCount": 0
     },
     {
@@ -313,7 +313,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "On the department lists. Left for a later pass. Reads as a day trip.",
-      "updated": "2026-10-21T08:26:01.807Z",
+      "updated": "2026-10-21T08:27:27.164Z",
       "reworkCount": 0
     },
     {
@@ -329,20 +329,181 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "On the department lists. Left for the context lane as a day trip. No place slug.",
-      "updated": "2026-10-21T08:26:01.807Z",
+      "updated": "2026-10-21T08:27:27.164Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--de-nui",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Mountain goat",
+      "slug": "de-nui",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sourced 21 Oct 2026. Bundled dish for the food guide. Research stored. Page waits for the food stage.",
+      "updated": "2026-10-21T08:27:44.508Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--com-chay",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Crispy rice",
+      "slug": "com-chay",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sourced 21 Oct 2026. Bundled dish for the food guide. Research stored. Page waits for the food stage.",
+      "updated": "2026-10-21T08:27:44.539Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--mien-luon",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Eel noodle soup",
+      "slug": "mien-luon",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sourced 21 Oct 2026. Bundled dish for the food guide. Research stored. Page waits for the food stage.",
+      "updated": "2026-10-21T08:27:44.571Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--oc-nui",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Mountain snail",
+      "slug": "oc-nui",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sourced 21 Oct 2026. Bundled dish for the food guide. Research stored. Page waits for the food stage.",
+      "updated": "2026-10-21T08:27:44.601Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--xoi-trung-kien",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Ant-egg sticky rice",
+      "slug": "xoi-trung-kien",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sourced 21 Oct 2026. Bundled dish for the food guide. Research stored. Page waits for the food stage.",
+      "updated": "2026-10-21T08:27:44.631Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--goi-ca-nhech",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Kim Son snakehead salad",
+      "slug": "goi-ca-nhech",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sourced 21 Oct 2026. Bundled dish for the food guide. Research stored. Page waits for the food stage.",
+      "updated": "2026-10-21T08:27:44.659Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--bun-moc-to-nhu",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "To Nhu pork-ball noodles",
+      "slug": "bun-moc-to-nhu",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sourced 21 Oct 2026. Bundled dish for the food guide. Research stored. Page waits for the food stage.",
+      "updated": "2026-10-21T08:27:44.689Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--ca-ro-tong-truong",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Tong Truong climbing perch",
+      "slug": "ca-ro-tong-truong",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sourced 21 Oct 2026. Bundled dish for the food guide. Research stored. Page waits for the food stage.",
+      "updated": "2026-10-21T08:27:44.718Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--ruou-kim-son",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Kim Son wine",
+      "slug": "ruou-kim-son",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sourced 21 Oct 2026. Bundled dish for the food guide. Research stored. Page waits for the food stage.",
+      "updated": "2026-10-21T08:27:44.749Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ninh-binh--banh-cuon",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Steamed rice rolls",
+      "slug": "banh-cuon",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sourced 21 Oct 2026. Bundled dish for the food guide. Research stored. Page waits for the food stage.",
+      "updated": "2026-10-21T08:27:44.775Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "ninh-binh",
-    "stage": "researchFood",
-    "item": null,
-    "at": "2026-10-21T08:26:21.184Z",
-    "by": "hourly",
-    "branch": "cursor/ninh-binh-research-base"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T08:27:27.164Z",
+      "place": "ninh-binh",
+      "stage": "researchFood",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Still open: market streets and hours, a named eating alley, how the gift-list dishes are eaten, whether bún lươn and miến lươn are one bowl, and com tam, which is on the place file and not on the department list."
+    },
     {
       "at": "2026-10-21T08:26:01.807Z",
       "place": "ninh-binh",

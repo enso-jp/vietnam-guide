@@ -103,3 +103,15 @@ Accessed 21 Oct 2026 unless a line says otherwise.
 - Publisher: Ninh Binh Department of Tourism
 - Accessed: 21 Oct 2026
 - Supports: English fee page dated 16 Jan 2017. Bai Dinh electric car 30,000 VND against 60,000 VND on S13. Trang An child under 1.4 m at 100,000 VND. Van Long boat 60,000 VND. Kept only where a later page disagrees.
+
+### S18
+- URL: http://www.ninhbinhtourism.com.vn/index.php?code=5053&options=items
+- Publisher: Ninh Binh Department of Tourism (ninhbinhtourism.com.vn)
+- Accessed: 21 Oct 2026
+- Supports: Page updated 20 Jan 2026. Mountain goat with crispy rice, grilled cá rô Tổng Trường, miến lươn (the intro also says bún lươn), and ốc núi.
+
+### S19
+- URL: http://ninhbinhtourism.com.vn/index.php?code=4746&options=items
+- Publisher: Ninh Binh Department of Tourism (ninhbinhtourism.com.vn)
+- Accessed: 21 Oct 2026
+- Supports: Page updated 22 May 2024. Xôi trứng kiến from Nho Quan, dê núi with cơm cháy, gỏi cá nhệch in Kim Son, bún mọc Tố Như served as three separate plates.
