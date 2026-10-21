@@ -12,7 +12,7 @@
     "sights": "partial",
     "areas": "partial",
     "foodStreets": "partial",
-    "nightlife": "missing",
+    "nightlife": "partial",
     "lifestyle": "missing",
     "events": "missing",
     "sideTrips": "missing"
@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:31:27.145Z",
+      "updated": "2026-10-21T08:32:11.673Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:31:27.145Z",
+      "updated": "2026-10-21T08:32:11.673Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,13 +45,13 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:31:27.145Z",
+      "updated": "2026-10-21T08:32:11.673Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:31:27.145Z",
+      "updated": "2026-10-21T08:32:11.673Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -73,9 +73,9 @@
       "reworkCount": 0
     },
     "researchNightlife": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "The Tourism Week boat yard is the only sourced walk after dark, until 22:00 on those days. Still open: whether any lane in Van Lam is busy on an ordinary night, and the 2026 week dates.",
+      "updated": "2026-10-21T08:32:11.672Z",
       "reworkCount": 0
     },
     "researchLifestyle": {
@@ -105,7 +105,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026. Cave lengths disagree across the heritage essay and the 2025 promotion page. Pier hours unsourced. Published dot stays 4.",
-      "updated": "2026-10-21T08:31:27.145Z",
+      "updated": "2026-10-21T08:32:11.673Z",
       "reworkCount": 0
     },
     {
@@ -121,7 +121,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026. Hours and a standalone fee are unsourced. On the 2026 route ticket.",
-      "updated": "2026-10-21T08:31:27.145Z",
+      "updated": "2026-10-21T08:32:11.673Z",
       "reworkCount": 0
     },
     {
@@ -137,7 +137,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026 from the 27 Mar 2025 page. Hours unsourced. Lunar festival belongs to the context lane.",
-      "updated": "2026-10-21T08:31:27.145Z",
+      "updated": "2026-10-21T08:32:11.673Z",
       "reworkCount": 0
     },
     {
@@ -153,7 +153,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026. 2026 ticket is separate from the three-caves route. Hours unsourced. The 7 km figure is to this landing, not the Tam Coc wharf.",
-      "updated": "2026-10-21T08:31:27.145Z",
+      "updated": "2026-10-21T08:32:11.673Z",
       "reworkCount": 0
     },
     {
@@ -169,7 +169,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Named by the department and on the 2026 route. No page describes the walk. Do not open a page until a later pass can say what the visitor does. A depth pass may reopen this.",
-      "updated": "2026-10-21T08:31:27.145Z",
+      "updated": "2026-10-21T08:32:11.673Z",
       "reworkCount": 0
     },
     {
@@ -185,7 +185,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "The place page is this area. Do not open a second destination.",
-      "updated": "2026-10-21T08:31:27.145Z",
+      "updated": "2026-10-21T08:32:11.673Z",
       "reworkCount": 0
     },
     {
@@ -201,7 +201,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "The landing and the temple page carry this hamlet. A named lodging street is still unsourced. Not a district page.",
-      "updated": "2026-10-21T08:31:27.145Z",
+      "updated": "2026-10-21T08:32:11.673Z",
       "reworkCount": 0
     },
     {
@@ -281,20 +281,37 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "The 2025 plan publishes this road for Tourism Week, 07:00–22:00, not as a year-round market. The food guide can carry it. A depth pass may reopen it if a daily market is sourced. Nha hang Nam Hoa is not a pick.",
-      "updated": "2026-10-21T08:31:27.145Z",
+      "updated": "2026-10-21T08:32:11.673Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "tam-coc--boat-yard-night",
+      "kind": "nightlife",
+      "track": "unit",
+      "name": "Boat yard in Tourism Week",
+      "slug": "boat-yard-night",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "The week is an event and the road is already dong-gung. No ordinary bar street was found. Do not open a nightlife page.",
+      "updated": "2026-10-21T08:32:11.673Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "tam-coc",
-    "stage": "researchNightlife",
-    "item": null,
-    "at": "2026-10-21T08:31:53.220Z",
-    "by": "hourly",
-    "branch": "content/tam-coc-research-base"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T08:32:11.673Z",
+      "place": "tam-coc",
+      "stage": "researchNightlife",
+      "item": null,
+      "status": "needs_depth",
+      "note": "The Tourism Week boat yard is the only sourced walk after dark, until 22:00 on those days. Still open: whether any lane in Van Lam is busy on an ordinary night, and the 2026 week dates."
+    },
     {
       "at": "2026-10-21T08:31:27.146Z",
       "place": "tam-coc",

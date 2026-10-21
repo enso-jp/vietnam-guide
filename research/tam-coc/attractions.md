@@ -171,7 +171,25 @@ Districts that deserve their own page: none. Nam Hoa Lư is the place. Hang Múa
 
 ## Nightlife and evening
 
-Not this lane. researchNightlife fills this heading. The base pass found no named night street. See Why a night here.
+An ordinary night has no published bar street. The pages checked for the base pass, the sight list, and the food lane name the river, the pagodas, and the village. They do not name a bar. The one sourced walk after dark is the Tourism Week road, and it is not a ranked bar guide.
+
+### The boat yard in Tourism Week
+- Vietnamese name: Sân bến thuyền Tam Cốc; phố đi bộ from bến xe Đồng Gừng
+- Kind: nightlife
+- Area: thôn Văn Lâm, the same road as the food-street entry `dong-gung`
+- What the visitor does: On the days of Tourism Week, walks the road from bến xe Đồng Gừng toward the wharf until 22:00. The 2025 plan puts folk singing (ca trù, chèo, xẩm) at the boat-yard court or inside hotels and restaurants in the tourist area, and food and souvenir stalls on the road (S23). The department page of 21 May 2025 adds an evening exchange of village clubs at Sân bến thuyền Tam Cốc during that week (S22). The 2025 week ran 23–31 May 2025 (S22). A 2026 calendar for this walk was not on that page.
+- Time: 07:00–22:00 on the days of the week, for the walking street (S23). The evening program is “các buổi tối” without a clock (S22).
+- Fee: Check on arrival — UNSOURCED. The plan does not print a ticket for the walk.
+- From the base: the road is in the hamlet, if the night is in Văn Lâm. Minutes from a guesthouse were not printed.
+- When to go: the evenings of Tourism Week. Not a promise for an ordinary Tuesday.
+- Mistake to avoid: treating this as a nightly market, or publishing nhà hàng Nam Hoa as a bar. That name is only the far end of the street in the plan (S23). do not publish as a pick.
+- Scene landmarks, if any, with a primary URL: the boat-yard court during the week, https://sodulich.ninhbinh.gov.vn/vi/tin-tuc-su-kien/tuan-du-lich-ninh-binh-nam-2025-chu-de-sac-vang-tam-coc-trang-an-2227.html (S22). No bar URL was opened.
+- Suggested slug: do not publish a separate page. The week belongs in events, and the road is already `dong-gung`.
+- Suggested dot: do not add a record
+- Photo must show: the boat-yard court with people and the karst, in the evening, subject through the center. Not a stage light with no landscape, and not a bar sign.
+- Sources: S12, S22, S23
+
+Outside that week, the 4 Dec 2016 provincial tip says not to go into empty places too late (S12). That is the caution. It is not a street.
 
 ## Lifestyle
 
