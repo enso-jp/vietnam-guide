@@ -1,0 +1,372 @@
+{
+  "slug": "mang-den",
+  "name": "Mang Den",
+  "nameVi": "Măng Đen",
+  "corridor": "highlands-coast",
+  "kind": "town",
+  "parent": null,
+  "publish": "accepted",
+  "priority": 33,
+  "note": "Next-cycle highlands town. Own destination, not a Kon Tum section.",
+  "coverage": {
+    "sights": "filled",
+    "areas": "filled",
+    "foodStreets": "none",
+    "nightlife": "none",
+    "lifestyle": "filled",
+    "events": "filled",
+    "sideTrips": "filled"
+  },
+  "stages": {
+    "destination": {
+      "status": "paged",
+      "note": "Eight attraction stubs, one day itinerary, no food guide. Dam Bri and farms named only on intro.",
+      "updated": "2026-10-21T11:17:09.918Z",
+      "reworkCount": 0
+    },
+    "destinationCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:16:26.656Z",
+      "reworkCount": 0
+    },
+    "destinationQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": "2026-10-21T11:16:26.656Z",
+      "reworkCount": 0
+    },
+    "food": {
+      "status": "skipped",
+      "note": "No food street and no dish photos for a guide.",
+      "updated": "2026-10-21T11:17:09.943Z",
+      "reworkCount": 0
+    },
+    "foodCopy": {
+      "status": "skipped",
+      "note": "No food guide.",
+      "updated": "2026-10-21T11:17:09.970Z",
+      "reworkCount": 0
+    },
+    "foodQuality": {
+      "status": "skipped",
+      "note": "No food guide.",
+      "updated": "2026-10-21T11:17:09.995Z",
+      "reworkCount": 0
+    },
+    "researchBase": {
+      "status": "stored",
+      "note": "Left out: rail times, taxi fares, and exact pass GPS.",
+      "updated": "2026-10-21T11:16:02.186Z",
+      "reworkCount": 0
+    },
+    "researchAttractions": {
+      "status": "stored",
+      "note": "Left out: Dam Bri, Eban Farm, and unnamed lakes without gate facts.",
+      "updated": "2026-10-21T11:16:26.256Z",
+      "reworkCount": 0
+    },
+    "researchFood": {
+      "status": "stored",
+      "note": "Left out: food street, stall prices, and public food guide until dish photos exist.",
+      "updated": "2026-10-21T11:16:26.365Z",
+      "reworkCount": 0
+    },
+    "researchNightlife": {
+      "status": "stored",
+      "note": "Left out: bar names and a night photograph.",
+      "updated": "2026-10-21T11:16:26.471Z",
+      "reworkCount": 0
+    },
+    "researchLifestyle": {
+      "status": "stored",
+      "note": "Left out: named breakfast street and cafe row.",
+      "updated": "2026-10-21T11:16:26.577Z",
+      "reworkCount": 0
+    },
+    "researchContext": {
+      "status": "stored",
+      "note": "Left out: 2026 festival calendar, Pleiku page, and Kon Tum page.",
+      "updated": "2026-10-21T11:16:26.656Z",
+      "reworkCount": 0
+    }
+  },
+  "items": [
+    {
+      "id": "mang-den--pa-sy-waterfall",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Pa Sy Waterfall",
+      "slug": "pa-sy-waterfall",
+      "file": "src/content/attractions/mang-den--pa-sy-waterfall.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "paged",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "From dossier.",
+      "updated": "2026-10-21T11:17:09.689Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "mang-den--dak-ke-lake",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Dak Ke Lake",
+      "slug": "dak-ke-lake",
+      "file": "src/content/attractions/mang-den--dak-ke-lake.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "paged",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "From dossier.",
+      "updated": "2026-10-21T11:17:09.715Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "mang-den--dak-ke-waterfall",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Dak Ke Waterfall",
+      "slug": "dak-ke-waterfall",
+      "file": "src/content/attractions/mang-den--dak-ke-waterfall.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "paged",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "From dossier.",
+      "updated": "2026-10-21T11:17:09.745Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "mang-den--khanh-lam-pagoda",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Khanh Lam Pagoda",
+      "slug": "khanh-lam-pagoda",
+      "file": "src/content/attractions/mang-den--khanh-lam-pagoda.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "paged",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "From dossier.",
+      "updated": "2026-10-21T11:17:09.774Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "mang-den--kon-pring-village",
+      "kind": "area",
+      "track": "unit",
+      "name": "Kon Pring village",
+      "slug": "kon-pring-village",
+      "file": "src/content/attractions/mang-den--kon-pring-village.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "paged",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "From dossier.",
+      "updated": "2026-10-21T11:17:09.803Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "mang-den--mang-den-pass",
+      "kind": "area",
+      "track": "unit",
+      "name": "Mang Den Pass",
+      "slug": "mang-den-pass",
+      "file": "src/content/attractions/mang-den--mang-den-pass.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "paged",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "From dossier.",
+      "updated": "2026-10-21T11:17:09.830Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "mang-den--mang-den-church",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Mang Den church",
+      "slug": "mang-den-church",
+      "file": "src/content/attractions/mang-den--mang-den-church.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "paged",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "From dossier.",
+      "updated": "2026-10-21T11:17:09.858Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "mang-den--toong-dam-lake",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Toong Dam Lake",
+      "slug": "toong-dam-lake",
+      "file": "src/content/attractions/mang-den--toong-dam-lake.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "paged",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "From dossier.",
+      "updated": "2026-10-21T11:17:09.888Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "mang-den--mang-den-town",
+      "kind": "hub",
+      "track": "unit",
+      "name": "Mang Den town",
+      "slug": "mang-den-town",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Town hub on place intro only.",
+      "updated": "2026-10-21T11:16:26.656Z",
+      "reworkCount": 0
+    }
+  ],
+  "questions": [],
+  "claim": null,
+  "log": [
+    {
+      "at": "2026-10-21T11:17:09.995Z",
+      "place": "mang-den",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "skipped",
+      "note": "No food guide."
+    },
+    {
+      "at": "2026-10-21T11:17:09.970Z",
+      "place": "mang-den",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "skipped",
+      "note": "No food guide."
+    },
+    {
+      "at": "2026-10-21T11:17:09.943Z",
+      "place": "mang-den",
+      "stage": "food",
+      "item": null,
+      "status": "skipped",
+      "note": "No food street and no dish photos for a guide."
+    },
+    {
+      "at": "2026-10-21T11:17:09.918Z",
+      "place": "mang-den",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Eight attraction stubs, one day itinerary, no food guide. Dam Bri and farms named only on intro."
+    },
+    {
+      "at": "2026-10-21T11:16:26.656Z",
+      "place": "mang-den",
+      "stage": "researchContext",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: 2026 festival calendar, Pleiku page, and Kon Tum page."
+    },
+    {
+      "at": "2026-10-21T11:16:26.577Z",
+      "place": "mang-den",
+      "stage": "researchLifestyle",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: named breakfast street and cafe row."
+    },
+    {
+      "at": "2026-10-21T11:16:26.527Z",
+      "place": "mang-den",
+      "stage": "researchLifestyle",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Ordinary day entries filed."
+    },
+    {
+      "at": "2026-10-21T11:16:26.471Z",
+      "place": "mang-den",
+      "stage": "researchNightlife",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: bar names and a night photograph."
+    },
+    {
+      "at": "2026-10-21T11:16:26.419Z",
+      "place": "mang-den",
+      "stage": "researchNightlife",
+      "item": null,
+      "status": "needs_depth",
+      "note": "None recorded section filed."
+    },
+    {
+      "at": "2026-10-21T11:16:26.365Z",
+      "place": "mang-den",
+      "stage": "researchFood",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: food street, stall prices, and public food guide until dish photos exist."
+    },
+    {
+      "at": "2026-10-21T11:16:26.312Z",
+      "place": "mang-den",
+      "stage": "researchFood",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Dishes listed; no food street."
+    },
+    {
+      "at": "2026-10-21T11:16:26.256Z",
+      "place": "mang-den",
+      "stage": "researchAttractions",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: Dam Bri, Eban Farm, and unnamed lakes without gate facts."
+    },
+    {
+      "at": "2026-10-21T11:16:19.952Z",
+      "place": "mang-den",
+      "stage": "researchContext",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Events and side trips filed."
+    },
+    {
+      "at": "2026-10-21T11:16:19.843Z",
+      "place": "mang-den",
+      "stage": "researchAttractions",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Sights indexed on board; farm lakes left out."
+    },
+    {
+      "at": "2026-10-21T11:16:02.186Z",
+      "place": "mang-den",
+      "stage": "researchBase",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: rail times, taxi fares, and exact pass GPS."
+    },
+    {
+      "at": "2026-10-21T11:15:54.982Z",
+      "place": "mang-den",
+      "stage": "researchBase",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Scene and getting there drafted. Drive minutes stay unsourced."
+    }
+  ]
+}

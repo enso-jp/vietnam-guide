@@ -1,0 +1,111 @@
+{
+  "slug": "mang-den",
+  "name": "Mang Den",
+  "nameVi": "Măng Đen",
+  "kind": "town",
+  "corridor": "highlands-coast",
+  "province": "Quang Ngai",
+  "provinceNote": "Kon Tum merged into Quảng Ngãi in the 2025 provincial rearrangement. Kon Plông district pages may still print the old Kon Tum address.",
+  "lat": 14.583,
+  "lng": 108.283,
+  "dots": 4,
+  "dotReason": "Worth a special trip in this corridor",
+  "summary": "Mang Den is a cool pine plateau near 1,200 m in Kon Plông, not a neighborhood of Kon Tum city. Sleep here for Pa Sy waterfall, Dak Ke lake, and Kon Pring’s communal house. Pleiku airport is the usual air gateway at roughly 100 km. Pa Sy admission is 50,000 VND for adults from 30 May 2026. Most lake and church hours stay check on arrival.",
+  "timeNeeded": "2 days",
+  "fee": "Pa Sy is ticketed; most lakes are check on arrival",
+  "getThere": "Pleiku airport (PXU), then road; or Highway 24 from the highlands",
+  "bestMonths": "Check on arrival",
+  "verified": "21 Oct 2026",
+  "interests": {
+    "mountains": 5,
+    "photography": 4,
+    "coffee": 3,
+    "food": 3
+  },
+  "cover": "highlands",
+  "nearby": [
+    "da-lat"
+  ],
+  "routeSlugs": [],
+  "itinerarySlugs": [
+    "mang-den-plateau-day"
+  ],
+  "seoTitle": "Mang Den travel guide — cool pine plateau",
+  "seoDescription": "Pa Sy waterfall, Dak Ke lake, and Kon Pring village on a Kon Plông plateau. Adults pay 50,000 VND at Pa Sy from May 2026. Drive times from Pleiku stay check on arrival.",
+  "intro": [
+    "You wake to pine air and mist on a plateau Vietnam Tourism compares to Da Lat before the crowds. Mang Den sits near 1,200 m in Kon Plông. It is its own town base, not a Kon Tum suburb. The day is water and forest: Pa Sy where three streams meet, Dak Ke lake with shore paths, and Kon Pring’s communal house a few kilometres along Highway 24.",
+    "Stay if cool weather and ethnic culture are the trip. Fly into Pleiku if that is the faster leg. Vietnam Tourism puts the airport roughly 100 km away and does not print the minutes, so do not treat it as a same-day connection without checking the road. Pa Sy is about 9 km from town on tourism pages. The provincial portal sets adult admission at 50,000 VND from 30 May 2026. Older 20,000 VND listings are outdated.",
+    "Kon Pring is one of four Kon Plông community tourism villages. Go Vietnam Travel and TITC describe gong culture, weaving, and rice wine without a fixed performance calendar. Mang Den Tourism prints village hours of 05:00–21:00 and leaves the fee as updating. Khanh Lam pagoda is a forest climb of about 200 stone steps. Dak Ke waterfall is smaller and harder to signpost than Pa Sy. Dam Bri lake and the flower farms named on older tourism pages were not given gate facts in this pass.",
+    "The evening is quiet lodge meals — grilled chicken with lam rice, not a bar street. Side trips to Kon Tum city or Pleiku stay placeholders until those destination pages exist. Da Lat is the linked cool plateau on the site today."
+  ],
+  "gettingAround": [
+    "Hire a car, use a lodge shuttle, or ride your own motorbike between town, Pa Sy, the lakes, and Kon Pring. Vietnam Tourism names buses and taxis for the plateau approach but not a town bus network. Minutes between sights are check on arrival. Kon Plông district news is published from Nguyen Hue Street in Mang Den town."
+  ],
+  "stayAreas": [
+    {
+      "name": "Mang Den town",
+      "summary": "Small hotels and homestays among pine. Use this strip to stage waterfall mornings and village afternoons.",
+      "band": "Guesthouses and lodges",
+      "photo": "mang-den"
+    }
+  ],
+  "eat": [
+    "Vietnam Tourism names grilled chicken with lam rice, forest banana salad, and highland vegetable trays. Eat at local restaurants or homestay tables. No sourced market street hours are on the dossier."
+  ],
+  "dishSlugs": [
+    "ca-phe"
+  ],
+  "interestsBody": [
+    "Pa Sy is the headline fall. Dak Ke lake and the smaller Dak Ke waterfall carry the seven-lakes folklore without inventing extra gates.",
+    "Kon Pring is the culture half-day. Khanh Lam and the town church are shorter spiritual stops.",
+    "There is no nightlife card. The night is cool air and an early start for mist."
+  ],
+  "interestCards": [
+    {
+      "title": "Pa Sy waterfall",
+      "summary": "Three streams in forest. Adults 50,000 VND from May 2026.",
+      "attractionSlug": "pa-sy-waterfall",
+      "photo": "mang-den-pa-sy-waterfall",
+      "icon": "view"
+    },
+    {
+      "title": "Dak Ke lake",
+      "summary": "The famous lake of the set, with shore walks.",
+      "attractionSlug": "dak-ke-lake",
+      "photo": "mang-den-dak-ke-lake",
+      "icon": "view"
+    },
+    {
+      "title": "Kon Pring village",
+      "summary": "Communal house, gongs, and crafts off Highway 24.",
+      "attractionSlug": "kon-pring-village",
+      "photo": "mang-den-kon-pring-village",
+      "icon": "museum"
+    },
+    {
+      "title": "Khanh Lam pagoda",
+      "summary": "About 200 stone steps to forested roofs.",
+      "attractionSlug": "khanh-lam-pagoda",
+      "photo": "mang-den-khanh-lam-pagoda",
+      "icon": "view"
+    }
+  ],
+  "season": {
+    "label": "Cool year-round",
+    "note": "Vietnam Tourism describes mild air through the year and warns that blog posts disagree on which months are driest for Pa Sy roads. Treat storm closures as check on arrival."
+  },
+  "faqs": [
+    {
+      "q": "Is Mang Den part of Kon Tum city?",
+      "a": "No. It is a plateau town in Kon Plông district. Vietnam Tourism puts it about 60 km northeast of Kon Tum city along Highway 24. Sleep in Mang Den when the pine night is the point."
+    },
+    {
+      "q": "What does Pa Sy waterfall cost?",
+      "a": "The Mang Den provincial portal prints 50,000 VND for adults and 25,000 VND for children from 30 May 2026 under Resolution 52/2026/NQ-HĐND. Confirm at the gate."
+    },
+    {
+      "q": "Can you fly straight to Mang Den?",
+      "a": "No commercial airport is in town. Vietnam Tourism names Pleiku as the closest airport at roughly 100 km. The drive minutes are check on arrival."
+    }
+  ]
+}
