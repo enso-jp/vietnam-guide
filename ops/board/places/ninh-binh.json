@@ -494,7 +494,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "ninh-binh",
+    "stage": "researchNightlife",
+    "item": null,
+    "at": "2026-10-21T08:27:59.066Z",
+    "by": "hourly",
+    "branch": "cursor/ninh-binh-research-base"
+  },
   "log": [
     {
       "at": "2026-10-21T08:27:27.164Z",
