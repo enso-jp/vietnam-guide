@@ -11,7 +11,7 @@
   "coverage": {
     "sights": "partial",
     "areas": "partial",
-    "foodStreets": "missing",
+    "foodStreets": "partial",
     "nightlife": "missing",
     "lifestyle": "missing",
     "events": "missing",
@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:29:24.380Z",
+      "updated": "2026-10-21T08:31:13.489Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:29:24.380Z",
+      "updated": "2026-10-21T08:31:13.489Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,13 +45,13 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:29:24.380Z",
+      "updated": "2026-10-21T08:31:13.489Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:29:24.380Z",
+      "updated": "2026-10-21T08:31:13.489Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -67,9 +67,9 @@
       "reworkCount": 0
     },
     "researchFood": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "First pass has pho, bun cha, bun dau, cha ca, banh cuon, banh tom, bun thang, nom bo kho, and egg coffee, plus Dong Xuan, Hang Dao at night, and Cha Ca street. Still open: banh mi has no Hanoi street, Dong Xuan’s hours, the market alley’s stalls, bun oc, com, and xoi. No stall price was copied.",
+      "updated": "2026-10-21T08:31:13.489Z",
       "reworkCount": 0
     },
     "researchNightlife": {
@@ -105,7 +105,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Lake walk sourced 21 Oct 2026. Temple door fee and the standing walking-zone clock are still Check on arrival. Dot stays 4.",
-      "updated": "2026-10-21T08:29:24.380Z",
+      "updated": "2026-10-21T08:31:13.489Z",
       "reworkCount": 0
     },
     {
@@ -121,7 +121,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Site hours and 70,000 VND ticket sourced 21 Oct 2026. Night price was not on the site. Dot stays 4.",
-      "updated": "2026-10-21T08:29:24.380Z",
+      "updated": "2026-10-21T08:31:13.489Z",
       "reworkCount": 0
     },
     {
@@ -137,7 +137,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Only the Giai Phong–Kham Thien stretch was sourced, from VTV 14 Apr 2026. The Phung Hung–Tran Phu stretch’s order did not load. No cafe is a pick. Dot stays 2.",
-      "updated": "2026-10-21T08:29:24.380Z",
+      "updated": "2026-10-21T08:31:13.489Z",
       "reworkCount": 0
     },
     {
@@ -153,7 +153,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": "2026-10-21T08:29:24.380Z",
+      "updated": "2026-10-21T08:31:13.489Z",
       "reworkCount": 0
     },
     {
@@ -164,12 +164,12 @@
       "slug": "pho",
       "file": "src/content/dishes/pho.json",
       "source": "published",
-      "research": "not_started",
+      "research": "stored",
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
-      "updated": null,
+      "note": "Hanoi bowl sourced from the tourism board 21 Oct 2026. A heritage listing was not opened. No stall price.",
+      "updated": "2026-10-21T08:31:12.889Z",
       "reworkCount": 0
     },
     {
@@ -180,12 +180,12 @@
       "slug": "bun-cha",
       "file": "src/content/dishes/bun-cha.json",
       "source": "published",
-      "research": "not_started",
+      "research": "stored",
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
-      "updated": null,
+      "note": "Lunch dish. Two tourism-board pages disagree on the broth. Both lines stay. No shop is a pick.",
+      "updated": "2026-10-21T08:31:12.916Z",
       "reworkCount": 0
     },
     {
@@ -212,12 +212,12 @@
       "slug": "ca-phe",
       "file": "src/content/dishes/ca-phe.json",
       "source": "published",
-      "research": "not_started",
+      "research": "stored",
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
-      "updated": null,
+      "note": "Egg coffee is the Hanoi variant on the shared coffee record. The named cafe is not a pick.",
+      "updated": "2026-10-21T08:31:12.945Z",
       "reworkCount": 0
     },
     {
@@ -249,7 +249,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Conservation centre fee from 1 Jan 2025 is 100,000 VND. Hours 08:00–17:00, last entry 16:45. UNESCO list page did not load.",
-      "updated": "2026-10-21T08:29:24.380Z",
+      "updated": "2026-10-21T08:31:13.489Z",
       "reworkCount": 0
     },
     {
@@ -265,7 +265,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Command visiting rule posted 14 Apr 2018. Ticket not on that page. 2026 closure notice did not load.",
-      "updated": "2026-10-21T08:29:24.380Z",
+      "updated": "2026-10-21T08:31:13.489Z",
       "reworkCount": 0
     },
     {
@@ -281,7 +281,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Tourism board only. The 25,000 VND line is not a second source. Fee stays Check on arrival.",
-      "updated": "2026-10-21T08:29:24.380Z",
+      "updated": "2026-10-21T08:31:13.489Z",
       "reworkCount": 0
     },
     {
@@ -297,7 +297,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the place page carries the Old Quarter. No separate attraction file.",
-      "updated": "2026-10-21T08:29:24.380Z",
+      "updated": "2026-10-21T08:31:13.489Z",
       "reworkCount": 0
     },
     {
@@ -313,20 +313,165 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the place page carries the French Quarter walk. Opera House hours were not confirmed.",
-      "updated": "2026-10-21T08:29:24.380Z",
+      "updated": "2026-10-21T08:31:13.489Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--bun-dau",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Bun dau",
+      "slug": "bun-dau",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Fried tofu, rice noodles, and shrimp paste. Tourism board only.",
+      "updated": "2026-10-21T08:31:13.002Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--cha-ca",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Cha ca",
+      "slug": "cha-ca",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Table-grilled fish with dill. Catfish and snakehead both appear on the tourism board.",
+      "updated": "2026-10-21T08:31:13.055Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--banh-cuon",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Banh cuon",
+      "slug": "banh-cuon",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Steamed rice rolls as a Hanoi breakfast. No street named.",
+      "updated": "2026-10-21T08:31:13.111Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--banh-tom",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Banh tom",
+      "slug": "banh-tom",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "West Lake shrimp cakes. The shrimp-from-the-lake line is the tourism board’s origin story.",
+      "updated": "2026-10-21T08:31:13.166Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--bun-thang",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Bun thang",
+      "slug": "bun-thang",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Breakfast broth the board ties to leftover Tet food.",
+      "updated": "2026-10-21T08:31:13.220Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--nom-bo-kho",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Nom bo kho",
+      "slug": "nom-bo-kho",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Afternoon papaya and beef-jerky salad on Hoan Kiem street.",
+      "updated": "2026-10-21T08:31:13.276Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--dong-xuan",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Dong Xuan Market",
+      "slug": "dong-xuan",
+      "file": null,
+      "source": "dossier",
+      "research": "needs_depth",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Dossier: the food guide carries Dong Xuan. Hours did not load. No separate page.",
+      "updated": "2026-10-21T08:31:13.489Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--hang-dao-night-market",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Hang Dao weekend night market",
+      "slug": "hang-dao-night-market",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Dossier: the food guide carries the weekend market. No stall is a pick.",
+      "updated": "2026-10-21T08:31:13.489Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hanoi--cha-ca-street",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Cha Ca street",
+      "slug": "cha-ca-street",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Dossier: the food guide carries Cha Ca street. No restaurant page.",
+      "updated": "2026-10-21T08:31:13.489Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "hanoi",
-    "stage": "researchFood",
-    "item": null,
-    "at": "2026-10-21T08:29:34.193Z",
-    "by": "hourly",
-    "branch": "cursor/content-hanoi-researchBase"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T08:31:13.489Z",
+      "place": "hanoi",
+      "stage": "researchFood",
+      "item": null,
+      "status": "needs_depth",
+      "note": "First pass has pho, bun cha, bun dau, cha ca, banh cuon, banh tom, bun thang, nom bo kho, and egg coffee, plus Dong Xuan, Hang Dao at night, and Cha Ca street. Still open: banh mi has no Hanoi street, Dong Xuan’s hours, the market alley’s stalls, bun oc, com, and xoi. No stall price was copied."
+    },
     {
       "at": "2026-10-21T08:29:24.380Z",
       "place": "hanoi",

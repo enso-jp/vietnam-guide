@@ -133,3 +133,21 @@ Accessed 21 Oct 2026 unless a line says the page has its own date.
 - Publisher: VTV, 14 Apr 2026, reporting a 13 Apr 2026 police and ward session
 - Accessed: 21 Oct 2026
 - Supports: About 60 cafe households from Giải Phóng to Khâm Thiên, Văn Miếu – Quốc Tử Giám ward. The session asked them not to encroach on the railway safety corridor and not to let customers gather on the rails. This is not the Phùng Hưng – Trần Phú stretch. No cafe is a pick.
+
+### S23
+- URL: https://vietnam.travel/things-to-do/10-must-try-hanoi-dishes
+- Publisher: Vietnam National Authority of Tourism, vietnam.travel
+- Accessed: 21 Oct 2026
+- Supports: The dish methods for miến, phở, nộm bò khô, bún đậu, mì vằn thắn, chả cá, bún chả, cà phê trứng, bún cá, and bún thang. Shop names on this page are notes, not picks. No price is copied.
+
+### S24
+- URL: https://vietnam.travel/things-to-do/famous-hanoi-food-and-international-fine-dining
+- Publisher: Vietnam National Authority of Tourism, vietnam.travel
+- Accessed: 21 Oct 2026
+- Supports: Hanoi food as light, with black pepper rather than chili. Phở broth and all-day service. Bánh tôm Hồ Tây. Bánh cuốn as breakfast. Chả Cá street and the 1871 family line. Bún chả as lunch. A hotel dining room is named and is not a pick. Where this page and S23 disagree on the fish or the bún chả broth, both lines stay.
+
+### S25
+- URL: https://vietnam.travel/things-to-do/perfect-weekend-ha-noi
+- Publisher: Vietnam National Authority of Tourism, vietnam.travel
+- Accessed: 21 Oct 2026
+- Supports: Egg coffee as a Hanoi morning drink, and the board’s account that whipped egg replaced fresh milk. The cafe name is not a pick. The page also prints a mausoleum closure “September 4 to November 4” and a last entry at 10:15. That closure was not on the mausoleum command page. Do not treat it as the 2026 notice.
