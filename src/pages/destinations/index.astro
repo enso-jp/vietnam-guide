@@ -4,9 +4,10 @@ import Crumbs from '../../components/Crumbs.astro';
 import Photo from '../../components/Photo.astro';
 import VietnamMap from '../../components/VietnamMap.astro';
 import { cardLine, corridorsNorthToSouth, getPlaces, pageDescription, placePath, placesInCorridor } from '../../lib/content';
+import { destinationLines } from '../../lib/destination-lines';
 import { photoPath } from '../../lib/photos';
 import { breadcrumbList, itemList } from '../../lib/schema';
-import { compareTraffic, trafficByline, visitsFor } from '../../lib/traffic-rank';
+import { compareTraffic, visitsFor } from '../../lib/traffic-rank';
 import type { Place } from '../../lib/types';
 
 const corridors = corridorsNorthToSouth();
@@ -26,6 +27,7 @@ const stackFor = (slug: string) => {
   return picks;
 };
 const marks = (dots: number) => '●'.repeat(Math.max(0, Math.min(5, dots)));
+const listLine = (slug: string, summary: string) => destinationLines[slug] ?? cardLine(summary);
 const description = pageDescription(
   'Six tourism regions from the northern mountains to the Mekong Delta, then the main places in each.',
   'Province borders changed in 2025. The place names did not.',
@@ -117,7 +119,6 @@ const description = pageDescription(
 
     <section class="dest-top" aria-label="Top destinations">
       <h2>Top destinations in Vietnam</h2>
-      <p class="dest-by">{trafficByline}</p>
       <div class="top-grid">
         {ranked.map((place, index) => {
           const filled = Math.max(0, Math.min(5, place.dots));
@@ -158,7 +159,7 @@ const description = pageDescription(
                     {filled > 0 && <span class="edots" aria-label={`${filled} of 5`}><span aria-hidden="true">{marks(filled)}</span></span>}
                     <strong>{place.name}</strong>
                   </span>
-                  <span class="dest-line">{cardLine(place.summary)}</span>
+                  <span class="dest-line">{listLine(place.slug, place.summary)}</span>
                 </a>
               );
             })}

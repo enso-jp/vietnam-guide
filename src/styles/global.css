@@ -2373,9 +2373,7 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
 }
 .dest-lede { margin-top: 0.75rem; }
 .dest-stage { margin-top: 0.4rem; }
-.dest-top h2,
-.dest-by { text-align: center; }
-.dest-by { margin: 0 0 1rem; color: var(--muted); font-size: 0.98rem; }
+.dest-top h2 { text-align: center; }
 .top-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -2470,19 +2468,14 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
 
 @media (max-width: 860px) {
   .dest-page .crumbs,
-  .dest-lede { display: none; }
-  .dest-hero { text-align: center; margin-top: 0.35rem; }
-  .dest-hero h1 {
-    display: inline-block;
-    font-size: 3.15rem;
-    font-weight: 750;
-    letter-spacing: -0.03em;
-    margin: 0;
-    padding-bottom: 0.15rem;
-    border-bottom: 1px solid var(--line);
+  .dest-page .dest-hero { display: none; }
+  .dest-page .dest-stage { margin-top: 0.15rem; }
+  .dest-page .dest-stage h2 {
+    font-size: 1.45rem;
+    margin: 0 0 0.2rem;
   }
-  .dest-find { font-size: 1.12rem; }
-  .dest-stage h2 { font-size: 1.55rem; margin-top: 1.15rem; }
+  .dest-page .region-swipe { margin-top: 0.15rem; }
+  .dest-page .dest-top h2 { margin-top: 1.35rem; }
   .top-grid { grid-template-columns: 1fr 1fr; gap: 0.75rem 0.6rem; }
   .top-copy strong { font-size: 1rem; }
   .dest-row { grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr); gap: 0.35rem 0.55rem; }
