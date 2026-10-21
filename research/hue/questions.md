@@ -30,3 +30,12 @@ Checked: 21 Oct 2026. Public fields that depend on these stay “Check on arriva
 - A com hen plate that is the Hue dish. The clam photos found were a different plate or a different town.
 - A festival photograph that is not a document or a logo.
 - A facade-and-stair frame of Khai Dinh’s tomb. The hero is the gilded statue inside. The second frame is the terrace, and it is mostly sky.
+- Duc Duc. The ticket record’s coordinates are 1234, 4321, the intro field is placeholder text, and the address lines disagree. Not published.
+- Hon Chen. One close frame of the hall exists. River views show the temple as a speck. A second honest photo is still missing. Not published.
+- Museum of Royal Antiquities. Cannon-yard frames were rejected. No exterior without weapons was found. Not published.
+- A night photograph of Chu Văn An, Phạm Ngũ Lão, or Võ Thị Sáu. No card until that frame and a page exist.
+- Phu Cam’s door. The city page prints both 01 Đoàn Hữu Trưng and 06 Nguyễn Trường Tộ, and two ward spellings.
+- Bao Quoc hours. 07:00–17:00 is one directory. No second source. The fee is still check on arrival.
+- Com hen now has a plate photograph. The stall price and the clock hour are still check on arrival.
+- Ticket-site coordinates now exist for Gia Long, Thieu Tri, Dong Khanh, An Dinh, and Nam Giao. The older “none recorded” line does not cover those five. Minutes on site, including Gia Long, are still check on arrival.
+- Thanh Toan’s exact rebuilt length. The English national page says about 17 m by about 4 m. A later national article differs. The public page uses the “about” figures.
