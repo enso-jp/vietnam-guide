@@ -65,7 +65,24 @@ for (const place of places) {
     if (!Array.isArray(group.cards) || group.cards.length === 0) {
       errors.push(`${place.slug} interest group ${group.title || ''} has no cards`);
     }
-    for (const card of group.cards || []) checkInterestCard(card);
+    if (group.body && (!Array.isArray(group.body) || group.body.some((line) => typeof line !== 'string' || !line.trim()))) {
+      errors.push(`${place.slug} interest group ${group.title || ''} has an empty paragraph`);
+    }
+    const blockIds = new Set();
+    for (const block of group.blocks || []) {
+      if (!block.id || !block.heading) errors.push(`${place.slug} interest block in ${group.title || ''} is missing an id or heading`);
+      else if (blockIds.has(block.id)) errors.push(`${place.slug} interest block ${block.id} is duplicated in ${group.title || ''}`);
+      else blockIds.add(block.id);
+      if (block.paragraphs && (!Array.isArray(block.paragraphs) || block.paragraphs.some((line) => typeof line !== 'string' || !line.trim()))) {
+        errors.push(`${place.slug} interest block ${block.id || ''} has an empty paragraph`);
+      }
+    }
+    for (const card of group.cards || []) {
+      checkInterestCard(card);
+      if (card.block && !blockIds.has(card.block)) {
+        errors.push(`${place.slug} interest card ${card.title || ''} block ${card.block} missing`);
+      }
+    }
   }
 }
 

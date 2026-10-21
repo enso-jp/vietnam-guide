@@ -64,11 +64,15 @@
   "interestGroups": [
     {
       "title": "Timber cathedral",
-      "summary": "The 1913 wooden church on Nguyen Hue. Kon Klor and Kon K’Tu stay in the dossier until a licensed photo exists.",
+      "summary": "Walk Nguyen Hue to the wooden church and give it about an hour. Kon Klor is the other half of the day, and it has no licensed photograph here.",
+      "body": [
+        "The provincial portal puts the cathedral on Nguyen Hue in Thống Nhất ward, built from 1913 to 1918 in cà chít timber with Roman lines and Ba Na roof forms. The national cluster page lists free entry. Confirm at the door.",
+        "Kon Klor is not this building. The cable bridge opened 1 May 1994, 292 metres over the Đăk Bla, toward Kon K’Tu about five kilometres from the centre. The communal house beside the river is the large Ba Na nhà rông rebuilt after the 2010 fire. Neither has a licensed photo on this page. The motorbike toll is check on arrival."
+      ],
       "cards": [
         {
           "title": "Wooden church",
-          "summary": "Cà chít timber and stained glass on Nguyen Hue.",
+          "summary": "Romanesque timber cathedral built 1913–1918 in cà chít wood on Nguyen Hue. About one hour. Free on the national cluster page; check on arrival. Walk from central hotels.",
           "attractionSlug": "wooden-church",
           "photo": "kon-tum-wooden-church",
           "icon": "museum"
@@ -77,11 +81,15 @@
     },
     {
       "title": "Prison museum",
-      "summary": "French-era cells in the city centre. The provincial museum stays in the dossier without a photo.",
+      "summary": "French-era cells in the same city cluster as the church. Confirm the fee at the gate.",
+      "body": [
+        "Go Vietnam prints 30,000 VND and about ninety minutes. No matching fee appeared on kontum.gov.vn in the pass that wrote the city page. Check on arrival.",
+        "The provincial museum holds gong heritage displays linked to the UNESCO Central Highlands gong space. No published ticket or hours were found for that museum, and it has no licensed photograph, so it is not a card."
+      ],
       "cards": [
         {
           "title": "Kon Tum Prison",
-          "summary": "French-era museum in the city centre.",
+          "summary": "A French colonial prison museum in the city centre. Allow about an hour and a half. The 30,000 VND figure is on a Go Vietnam cluster page only. Walk it with the church.",
           "attractionSlug": "kon-tum-prison",
           "photo": "kon-tum-kon-tum-prison",
           "icon": "museum"

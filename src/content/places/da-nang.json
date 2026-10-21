@@ -174,44 +174,83 @@
     },
     {
       "title": "Beach lifestyle",
-      "summary": "Kalà Kalà, East West, and a coffee on the sand. The rooms have no licensed photograph.",
+      "summary": "Spend the evening on the sand, not in the lanes. Kalà Kalà and East West face the water, and the swim is the buoy line in front of them.",
+      "blocks": [
+        {
+          "id": "clubs",
+          "heading": "Clubs and a coffee on the sand",
+          "nav": "On the sand",
+          "paragraphs": [
+            "Kalà Kalà Beach Club is at 51 Vo Nguyen Giap. Its own site says entry is free, and it lists both 08:00 to midnight and 08:00 to 02:00. Confirm which close is current the night you go.",
+            "East West Brewing’s beachfront taproom pours from 08:00 to 01:00 every day. That page says “by the shores of My Khe” and does not give a street number. Neither page prints a drink price. Ask before you order.",
+            "A coffee is a chair facing that water. No licensed photograph of either room, or of a beachfront coffee, was found, so the frames here are the sand those doors face. The lanes a few streets inland are An Thuong."
+          ]
+        },
+        {
+          "id": "swim",
+          "heading": "The swim in front of the chairs",
+          "nav": "The swim",
+          "paragraphs": [
+            "Swim only where the safety buoys are set and a rescuer is on duty. Do not swim in bad weather, where a danger board forbids it, or after the end-of-duty signal.",
+            "A 15 January 2016 beaches page says local beaches are swimmable all year, and especially from May to August, when the waves are gentle. That page prints two duty clocks: 5am to 8pm, and 05:00 to 19:00. A 12 April 2023 city notice names rescue teams on Hoang Sa, Vo Nguyen Giap, Truong Sa, and Nguyen Tat Thanh, and it does not print the hour. The board on the sand wins.",
+            "The beach is not on the city’s paid-ticket list. Chair and umbrella hire have no published price."
+          ]
+        }
+      ],
       "cards": [
         {
           "title": "Kalà Kalà and East West",
-          "summary": "Free entry at 51 Vo Nguyen Giap. East West is 08:00 to 01:00, and its street is check on arrival.",
+          "summary": "Free entry at 51 Vo Nguyen Giap. The club lists both midnight and 02:00 as closing. East West is 08:00 to 01:00, and its street is check on arrival.",
           "attractionSlug": "beachfront",
           "photo": "da-nang-beachfront",
-          "icon": "beach"
+          "icon": "beach",
+          "block": "clubs"
         },
         {
           "title": "The My Khe sand",
-          "summary": "The shore those doors face. The swim, the buoys, and the rescue clock are on this page.",
+          "summary": "Stand on the sand with the resort towers behind the chairs. Swim inside the buoy line, and only while a rescuer is on duty. The published duty clocks do not match, so read the board on the sand.",
           "attractionSlug": "my-khe",
           "photo": "da-nang-my-khe",
-          "icon": "beach"
+          "icon": "beach",
+          "block": "swim"
         }
       ]
     },
     {
       "title": "Beach sports",
-      "summary": "Boards, paddle craft, and basket boats. Hire prices are check on arrival.",
+      "summary": "Use My Khe for more than a swim. The 19 January 2016 city page names what you can hire. The prices on that list are not ones to budget.",
+      "body": [
+        "The 19 January 2016 water-sports page names surfboards, skurfing, jet skis, sailing, parasailing, snorkeling and diving, basket-boat racing, and kayaks. The company phones on that page are a decade old and are not a list to call. Hire for a board, a boat, or a jet ski has no price on these pages.",
+        "For a lesson, the 2017 Vietnamese page puts Da Nang Surf School on Vo Nguyen Giap, inside Temple Danang, open 08:00 to 17:00, with a lesson of about two hours and stand-up paddle as well. The 2016 English page prints 119 Tran Phu, says open every day, prints both a one-hour visit and a lesson of about two hours, and still directs you to Vo Nguyen Giap. Confirm the meeting point that morning. The price line on the English page is a stub. The price is check on arrival. Do not use the one-dollar figure."
+      ],
       "cards": [
         {
           "title": "Sports on My Khe",
-          "summary": "The 2016 list: surf, skurfing, jet ski, sailing, parasailing, snorkeling, basket boats, and kayaks.",
+          "summary": "Surfboards, skurfing, jet skis, sailing, parasailing, snorkeling, diving, basket-boat racing, and kayaks, from the 19 January 2016 city page. Hire prices are check on arrival.",
           "attractionSlug": "beach-sports",
           "photo": "da-nang-beach-sports",
+          "icon": "beach"
+        },
+        {
+          "title": "Basket boats",
+          "summary": "The round boats on the sand are the racing that 2016 page names. A hire price for a boat is not printed. Check on arrival.",
+          "attractionSlug": "beach-sports",
+          "photo": "da-nang-beach-sports-2",
           "icon": "beach"
         }
       ]
     },
     {
       "title": "Nightlife",
-      "summary": "The An Thuong lanes. The clubs on the sand stay under Beach lifestyle.",
+      "summary": "Walk the lanes just inland of My Khe. The clubs on the sand are the beachfront page, not this one.",
+      "body": [
+            "The quarter sits inside Vo Nguyen Giap, Hoang Ke Viem, Chau Thi Vinh Te, and Ngo Thi Si. Walk the lanes of bars and kitchens. This is not a bar list, and no door on these lanes has a published drink price here.",
+            "Kalà Kalà, at 51 Vo Nguyen Giap, and East West, open 08:00 to 01:00 on the sand, stay on the beach lifestyle page. The only licensed frame for these lanes is one doorway on An Thuong 4."
+      ],
       "cards": [
         {
           "title": "An Thuong",
-          "summary": "The four-street quarter inland from My Khe. The frame is one doorway on An Thuong 4.",
+          "summary": "The four-street quarter a few streets inland from a My Khe hotel. Go for the lanes after the swim. The photograph is one doorway on An Thuong 4, not the whole grid.",
           "attractionSlug": "an-thuong",
           "photo": "da-nang-an-thuong",
           "icon": "drink"
@@ -220,62 +259,121 @@
     },
     {
       "title": "Culture",
-      "summary": "The museum, the rooster church, the hills, and Linh Ung.",
+      "summary": "A morning on the river for Cham stone, the pink church on Tran Phu, then the marble hill on the Hoi An road and Linh Ung on Son Tra.",
+      "blocks": [
+        {
+          "id": "city",
+          "heading": "On the river and Tran Phu",
+          "nav": "In the city",
+          "paragraphs": [
+            "Give the museum a morning on the river, before the beach takes the day. The rooster church is a separate door at 156 Tran Phu. Sunday is not in the visitor window."
+          ]
+        },
+        {
+          "id": "hills",
+          "heading": "The hill and the peninsula",
+          "nav": "Out of town",
+          "paragraphs": [
+            "Climb Thuy Son if you are already on the Hoi An road. The elevator and Am Phu cave are separate tickets, and the other peaks are how a transfer morning falls apart. Linh Ung is a half-day on Son Tra, not a stop on the way to dinner."
+          ]
+        }
+      ],
       "cards": [
         {
           "title": "Cham Museum",
-          "summary": "Sandstone from My Son and the other Cham sites, on the river.",
+          "summary": "Cham sandstone and terracotta from My Son and the other find-sites, in galleries on the river. A general ticket is 60,000 VND. The door is published as both 07:00 and 07:30. The stone is not the ruins.",
           "attractionSlug": "cham-museum",
           "photo": "da-nang-cham-museum",
-          "icon": "museum"
+          "icon": "museum",
+          "block": "city"
         },
         {
           "title": "Rooster church",
-          "summary": "The pink cathedral. Visitors Monday to Saturday, 08:00 to 11:30 and 13:30 to 16:30.",
+          "summary": "The pink church the city calls Con Ga, at 156 Tran Phu. Built in 1923, nearly 70 meters, in a Gothic form. From 1 January 2023 the parish sets visitors Monday to Saturday, 08:00 to 11:30 and 13:30 to 16:30. A fee is check on arrival.",
           "attractionSlug": "cathedral",
           "photo": "da-nang-cathedral",
-          "icon": "museum"
+          "icon": "museum",
+          "block": "city"
         },
         {
           "title": "Marble Mountains",
-          "summary": "Climb Thuy Son. The hill ticket is separate from the elevator and from Am Phu.",
+          "summary": "Climb Thuy Son, the marble hill on the road toward Hoi An. Caves, pagodas, and a lookout are the morning. Adults pay 40,000 VND for the hill. The elevator and Am Phu cave are separate.",
           "attractionSlug": "marble-mountains",
           "photo": "da-nang-marble-mountains",
-          "icon": "view"
+          "icon": "view",
+          "block": "hills"
         },
         {
           "title": "Linh Ung, Son Tra",
-          "summary": "The 67 meter Quan The Am on the peninsula. No published fee or gate hour.",
+          "summary": "The Quan The Am is 67 meters and faces the sea from Bai But. No entry fee is published, so check on arrival if a gate asks. Allow half a day. The ride out the peninsula is the visit.",
           "attractionSlug": "son-tra",
           "photo": "da-nang-son-tra",
-          "icon": "view"
+          "icon": "view",
+          "block": "hills"
         }
       ]
     },
     {
       "title": "River walk",
-      "summary": "Coffee and coconut on the promenade, the bridge that turns, and Han Market.",
+      "summary": "Coffee and a young coconut on Bach Dang, the bridge that turns for ships, and the market hall beside it.",
+      "blocks": [
+        {
+          "id": "promenade",
+          "heading": "The promenade",
+          "nav": "Promenade",
+          "paragraphs": [
+            "Walk Bach Dang when you want the river, a coffee, and a young coconut in the same hour. The swing bridge and Han Market are that same walk. Watching from the bank is free. The two clocks for the turn do not match."
+          ]
+        },
+        {
+          "id": "crossings",
+          "heading": "The other bridges",
+          "nav": "Bridges",
+          "paragraphs": [
+            "Dragon Bridge is the weekend fire show, and it is not the swing bridge. Thuan Phuoc is where the Han meets the sea, on the way toward Son Tra."
+          ]
+        }
+      ],
       "cards": [
         {
           "title": "Bach Dang",
-          "summary": "The promenade for a coffee and a young coconut. Cafe hours are check on arrival.",
+          "summary": "The promenade of cafes, busy in the early morning and late afternoon, and crowded on a weekend when the dragon breathes fire. No cafe door hour is published. The walk itself is free.",
           "attractionSlug": "bach-dang",
           "photo": "da-nang-bach-dang",
-          "icon": "view"
+          "icon": "view",
+          "block": "promenade"
         },
         {
           "title": "Swing bridge",
-          "summary": "The Han bridge that turns. The tourism page says 23:00. The city portal says about 01:00.",
+          "summary": "It opened on 29 March 2000 and runs 487.7 meters from Le Duan to Pham Van Dong. The middle span turns about 90 degrees. The tourism page sets visitors from 23:00 to midnight on Saturday and Sunday, and also says about 23:00 every night. The city portal says about 01:00, back about 04:00. Watching from the bank is free.",
           "attractionSlug": "han-swing-bridge",
           "photo": "da-nang-han-swing-bridge",
-          "icon": "view"
+          "icon": "view",
+          "block": "promenade"
         },
         {
           "title": "Han Market",
-          "summary": "The hall by the river. One page prints 06:00 to 19:00. A later page prints no clock.",
+          "summary": "The hall beside the swing bridge, for fruit, dried food, and a meal you eat in the building. The 2023 city page puts the door at 119 Tran Phu and the hours at 06:00 to 19:00. The 2024 page names the streets and prints no clock. No gate fee is published.",
           "attractionSlug": "han-market",
           "photo": "da-nang-han-market",
-          "icon": "food"
+          "icon": "food",
+          "block": "promenade"
+        },
+        {
+          "title": "Dragon Bridge",
+          "summary": "The yellow dragon over the Han. The show is at 21:00 on Friday, Saturday, and Sunday, and it is free from the bank. One page says about two minutes of fire and three of water. Another says the program runs about 10 to 15 minutes. Do not wait on a weeknight.",
+          "attractionSlug": "dragon-bridge",
+          "photo": "da-nang-dragon-bridge",
+          "icon": "view",
+          "block": "crossings"
+        },
+        {
+          "title": "Thuan Phuoc Bridge",
+          "summary": "The bridge where the Han meets the sea, on the way toward Son Tra. It opened to traffic on 19 July 2009 and the city page gives the length as 1,856 meters. One page joins Nguyen Tat Thanh to Hoang Sa and Truong Sa. The English page says Vo Nguyen Giap instead. No ticket and no viewing hour are published.",
+          "attractionSlug": "thuan-phuoc",
+          "photo": "da-nang-thuan-phuoc",
+          "icon": "view",
+          "block": "crossings"
         }
       ]
     }

@@ -64,11 +64,15 @@
   "interestGroups": [
     {
       "title": "Waterfalls and lakes",
-      "summary": "Dray Nur is the published half-day escape.",
+      "summary": "Dray Nur is the published half-day. Lak Lake, Yok Don, and the coffee museums stay off this page until a licensed photograph exists.",
+      "body": [
+        "Dray Nur is a wide Serepok waterfall roughly 25 to 30 km south of the city. Allow a half day with the drive. Handbook and news pages disagree on the current gate price after a December 2024 notice, so read the board at the entrance.",
+        "Lak Lake, Yok Don’s forest walk, and the World Coffee Museum are named for planning and do not have attraction pages yet. Minutes for the drive are not printed on the sources used for the city guide."
+      ],
       "cards": [
         {
           "title": "Dray Nur",
-          "summary": "Gate price check on arrival after 2024 notice.",
+          "summary": "A wide waterfall on the Serepok, about 25 to 30 km south by road. The gate price is check on arrival after the December 2024 notice. Read the board. Allow a half day with the drive.",
           "attractionSlug": "dray-nur",
           "photo": "buon-ma-thuot-dray-nur",
           "icon": "view"
@@ -77,18 +81,21 @@
     },
     {
       "title": "Pagodas and heritage",
-      "summary": "Pagoda roofs and the prison campus.",
+      "summary": "The city’s pagoda complex and the French-built prison on Tan Thuat are the published pair in town.",
+      "body": [
+        "Both sit in the center, a short ride from hotels around Nguyen Tat Thanh and Le Duan. The coffee festival fills October 10 Square in March. The ninth edition ran 9–13 March 2025, and the next year is check on arrival. That square has no licensed photograph, so it is not a card."
+      ],
       "cards": [
         {
           "title": "Khai Doan Pagoda",
-          "summary": "Largest city pagoda complex.",
+          "summary": "The city’s best-known pagoda complex, with a large triple-roof hall. Visit late afternoon for softer light. Donations may apply; no fee was sourced.",
           "attractionSlug": "khai-doan-pagoda",
           "photo": "buon-ma-thuot-khai-doan-pagoda",
           "icon": "view"
         },
         {
           "title": "Buon Ma Thuot Prison",
-          "summary": "French-era prison preserved as heritage.",
+          "summary": "A preserved French-built prison and revolutionary heritage site at 18 Tan Thuat. Allow three quarters of an hour. The ticket price is check on arrival.",
           "attractionSlug": "prison",
           "photo": "buon-ma-thuot-prison",
           "icon": "museum"

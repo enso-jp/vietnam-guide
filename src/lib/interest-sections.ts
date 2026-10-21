@@ -1,4 +1,4 @@
-import type { InterestCard, Place } from './types';
+import type { InterestBlock, InterestCard, Place } from './types';
 import {
   attractionPath,
   attractionsForPlace,
@@ -14,16 +14,20 @@ import { isAuthoredDiningCard, isReplacedInterestTitle, leadWithDining, realFood
 export interface InterestRailItem {
   href: string;
   title: string;
+  summary: string;
   photo: string;
   fallback: string;
   alt: string;
   cover?: string;
   icon?: string;
+  block?: string;
 }
 
 export interface PlaceInterestSection {
   title: string;
   summary: string;
+  body: string[];
+  blocks: InterestBlock[];
   /** Set when this headed section opens its own page. */
   slug: string;
   items: InterestRailItem[];
@@ -72,11 +76,13 @@ function toInterestRail(place: Place, card: InterestCard, attractions: ReturnTyp
   return {
     href,
     title: card.title,
+    summary: card.summary,
     photo,
     fallback: place.slug,
     alt: card.title,
     cover: place.cover,
     icon: card.icon || (card.to === 'food' ? 'food' : card.to === 'resortLiving' ? 'bed' : undefined),
+    block: card.block,
   };
 }
 
@@ -119,6 +125,7 @@ export function placeInterestSections(place: Place): PlaceInterestSection[] {
     ? {
         href: diningHref,
         title: 'Dining and F&B',
+        summary: guideCard?.summary || '',
         photo: guideCard?.photo || place.dishSlugs[0] || place.slug,
         fallback: place.slug,
         alt: `${place.name} food`,
@@ -126,6 +133,12 @@ export function placeInterestSections(place: Place): PlaceInterestSection[] {
         icon: 'food',
       }
     : undefined;
+  const groupMeta = new Map(
+    (place.interestGroups || []).map((group) => [
+      group.title,
+      { body: group.body || [], blocks: group.blocks || [] },
+    ]),
+  );
   const sections = leadWithDining(
     sourceSections.map((section) => ({
       title: section.title,
@@ -145,9 +158,13 @@ export function placeInterestSections(place: Place): PlaceInterestSection[] {
       && section.items.every((item) => isReplacedInterestTitle(item.title));
     const title = section.title.trim() || (injectedDining ? section.items[0].title : '');
     const headed = Boolean(title) && section.items.length > 0 && (Boolean(section.title.trim()) || injectedDining);
+    const resolvedTitle = section.title.trim() ? section.title : title;
+    const extra = groupMeta.get(resolvedTitle) || { body: [], blocks: [] };
     return {
-      title: section.title.trim() ? section.title : title,
+      title: resolvedTitle,
       summary: section.summary,
+      body: extra.body,
+      blocks: extra.blocks,
       slug: headed ? takeSlug(title, used) : '',
       items: section.items,
     };

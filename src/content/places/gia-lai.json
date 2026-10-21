@@ -85,18 +85,22 @@
     },
     {
       "title": "Coffee hills",
-      "summary": "Plantations and tea rows above Biển Hồ.",
+      "summary": "Tea rows above Biển Hồ, and highland coffee in the morning. November to April is the kinder window, with coffee flowers around February to April.",
+      "body": [
+        "Vietnam Tourism calls November to April the kinder months, with coffee flowers around February to April. The photographed slopes are the tea rows on the dam road, not a named plantation you can book from this page.",
+        "The cup is the shared Central Highlands coffee page. No stall price is published."
+      ],
       "cards": [
         {
           "title": "Tea above the lake",
-          "summary": "Green rows on the dam road north of Pleiku.",
+          "summary": "Tea slopes about 12 km north of Pleiku, reached from Quốc lộ 14 via Lê Văn Sỹ and the irrigation dam road. Pair the rows with Biển Hồ on the same northern loop. Respect working farms on the paths.",
           "attractionSlug": "bien-ho-tea",
           "photo": "gia-lai-bien-ho-tea",
           "icon": "drink"
         },
         {
           "title": "Highland coffee",
-          "summary": "The shared coffee dish page for Central Highlands cups.",
+          "summary": "The Central Highlands cup. Drink it on a slow morning in Pleiku. This photograph is the drink, not a Gia Lai farm.",
           "dishSlug": "ca-phe",
           "photo": "ca-phe",
           "icon": "drink"
@@ -105,11 +109,15 @@
     },
     {
       "title": "Lakes and craters",
-      "summary": "Biển Hồ morning mist on Hồ T’Nưng.",
+      "summary": "Come at first light for mist on Biển Hồ. Chu Đăng Ya is the other crater, and it has no licensed photograph here.",
+      "body": [
+        "Biển Hồ, also called Hồ T’Nưng, sits about 7 km north of Pleiku. The province describes it as a trace of three extinct volcanoes. Boat rules and tickets are check on arrival.",
+        "Chu Đăng Ya is about 30 km northeast, a crater bowl farmed and gold with wild sunflowers in late autumn when the national tourism pages name the season. There is no licensed frame, so it is not a card. Fees and the road are check on arrival."
+      ],
       "cards": [
         {
           "title": "Biển Hồ",
-          "summary": "Hồ T’Nưng, about 7 km north of Pleiku.",
+          "summary": "A volcanic crater lake about 7 km north of Pleiku, also called Hồ T’Nưng. Come at first light for mist on the water. Boat rules and tickets are check on arrival.",
           "attractionSlug": "bien-ho",
           "photo": "gia-lai-bien-ho",
           "icon": "view"
@@ -118,11 +126,15 @@
     },
     {
       "title": "Gong culture",
-      "summary": "Outdoor performances at festival and weekend nights.",
+      "summary": "Dai Doan Ket Square is Pleiku’s outdoor stage. Copy the 2026 dates only for that year.",
+      "body": [
+        "The 2026 International Gong Festival is announced for 30 October through 8 November, with Gong Festival Night at 20:00 on 7 November at Dai Doan Ket Square. Later years are check on arrival.",
+        "The Ministry of Culture also promotes Saturday-evening gong enjoyment at this square and Nguyen Tat Thanh Square. Start times outside festival week are check on arrival."
+      ],
       "cards": [
         {
           "title": "Dai Doan Ket Square",
-          "summary": "Festival nights and weekend gong programmes.",
+          "summary": "Pleiku’s outdoor stage for gong culture. Gong Festival Night in 2026 is 20:00 on 7 November. Saturday evenings are also promoted here. Start times outside that festival week are check on arrival.",
           "attractionSlug": "dai-doan-ket",
           "photo": "gia-lai-dai-doan-ket",
           "icon": "view"
@@ -131,11 +143,14 @@
     },
     {
       "title": "Pagodas",
-      "summary": "Minh Thanh’s golden tower above Pleiku.",
+      "summary": "Minh Thanh’s golden tower is the hill landmark above Pleiku. It is not Buu Minh pagoda on the road toward Chu Đăng Ya.",
+      "body": [
+        "Vietnam Tourism notes Minh Thanh was built in 1964, with a 72 m gold-painted tower, a po mu wood ceiling, and carved wooden doors. It is a morning stop in town."
+      ],
       "cards": [
         {
           "title": "Minh Thanh Pagoda",
-          "summary": "Hill pagoda with a 72 m gold-painted tower.",
+          "summary": "A hill pagoda above Pleiku, built in 1964, with a 72 m gold-painted tower. A morning in town, not the same site as Buu Minh on the road toward Chu Đăng Ya.",
           "attractionSlug": "minh-thanh",
           "photo": "gia-lai-minh-thanh",
           "icon": "museum"

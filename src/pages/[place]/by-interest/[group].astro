@@ -1,9 +1,10 @@
 ---
 import Base from '../../../layouts/Base.astro';
 import Crumbs from '../../../components/Crumbs.astro';
-import PortraitRail from '../../../components/PortraitRail.astro';
+import Photo from '../../../components/Photo.astro';
+import SectionNav from '../../../components/SectionNav.astro';
 import { getCorridor, pageDescription, placePath } from '../../../lib/content';
-import { interestGroupPages } from '../../../lib/interest-sections';
+import { interestGroupPages, type InterestRailItem } from '../../../lib/interest-sections';
 import { photoPath } from '../../../lib/photos';
 import { breadcrumbList, itemList } from '../../../lib/schema';
 
@@ -19,6 +20,15 @@ const corridor = getCorridor(place.corridor);
 const path = `${placePath(place)}/by-interest/${section.slug}`;
 const description = pageDescription(section.summary || `${section.title} in ${place.name}.`);
 const image = photoPath(section.items[0]?.photo || '', place.slug);
+const blocks = (section.blocks || [])
+  .map((block) => ({
+    ...block,
+    paragraphs: block.paragraphs || [],
+    items: section.items.filter((item) => item.block === block.id),
+  }))
+  .filter((block) => block.paragraphs.length > 0 || block.items.length > 0);
+const loose = section.items.filter((item) => !item.block || !blocks.some((block) => block.id === item.block));
+const nav = blocks.map((block) => ({ id: block.id, label: block.nav || block.heading }));
 const crumbSchema = [
   { name: 'Destinations', path: '/destinations' },
   ...(corridor ? [{ name: corridor.name, path: `/destinations/${corridor.slug}` }] : []),
@@ -29,6 +39,10 @@ const crumbs = crumbSchema.map((item, index) => ({
   name: item.name,
   href: index < crumbSchema.length - 1 ? item.path : undefined,
 }));
+
+function cardAlt(item: InterestRailItem) {
+  return item.alt || item.title;
+}
 ---
 <Base
   title={`${section.title} in ${place.name}`}
@@ -45,9 +59,41 @@ const crumbs = crumbSchema.map((item, index) => ({
     <Crumbs items={crumbs} />
     <p class="meta"><a href={placePath(place)}>{place.name}</a></p>
     <h1>{section.title}</h1>
-    <div class="interest-group">
-      {section.summary && <p class="lede">{section.summary}</p>}
-      <PortraitRail label={`${section.title} in ${place.name}`} items={section.items} />
+    {section.summary && <p class="lede">{section.summary}</p>}
+    <SectionNav label={`${section.title} in ${place.name}`} items={nav} />
+    <div class="reading place-body">
+      {(section.body || []).map((paragraph) => <p>{paragraph}</p>)}
+      {loose.length > 0 && (
+        <section class="place-section" id={blocks.length ? undefined : 'stops'}>
+          <div class="food-grid">
+            {loose.map((item, index) => (
+              <a class="food-card" href={item.href}>
+                <span class="media"><Photo id={item.photo} fallbackId={item.fallback} alt={cardAlt(item)} cover={item.cover} priority={index === 0 && blocks.length === 0} /></span>
+                <strong>{item.title}</strong>
+                {item.summary && <em>{item.summary}</em>}
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
+      {blocks.map((block) => (
+        <section id={block.id} class="place-section">
+          <h2>{block.heading}</h2>
+          {block.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
+          {block.items.length > 0 && (
+            <div class="food-grid">
+              {block.items.map((item) => (
+                <a class="food-card" href={item.href}>
+                  <span class="media"><Photo id={item.photo} fallbackId={item.fallback} alt={cardAlt(item)} cover={item.cover} priority={item === section.items[0]} /></span>
+                  <strong>{item.title}</strong>
+                  {item.summary && <em>{item.summary}</em>}
+                </a>
+              ))}
+            </div>
+          )}
+        </section>
+      ))}
+      <p><a href={placePath(place)}>{place.name} travel guide</a></p>
     </div>
   </article>
 </Base>
