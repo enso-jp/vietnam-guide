@@ -5,9 +5,9 @@
   "corridor": "northern-midlands",
   "kind": "area",
   "parent": null,
-  "publish": "candidate",
+  "publish": "accepted",
   "priority": 105,
-  "note": "Next-cycle Northern Midlands and Mountains province. Research may be stored. Do not create a public place file until publish is accepted.",
+  "note": "Owner accepted publish on 21 Oct 2026. Public page from the stored dossier.",
   "coverage": {
     "sights": "filled",
     "areas": "filled",
@@ -19,39 +19,39 @@
   },
   "stages": {
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, four interest groups, two itineraries. Five sights have licensed photos. Fees and hours are check on arrival. Side trip placeholders: Ba Be, Lang Son.",
+      "updated": "2026-10-21T16:43:37.021Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "status": "enriched",
+      "note": "Prose and the Ban Gioc hero reviewed. Hero is the wide cascade. Low-water clock stays in season, not the intro.",
+      "updated": "2026-10-21T16:43:37.081Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "status": "checked",
+      "note": "Hero, interest photos, and check-on-arrival fees read against the dossier.",
+      "updated": "2026-10-21T16:43:37.139Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "skipped",
+      "note": "No licensed photo of pho chua or another Cao Bang dish. No dish card and no food guide.",
+      "updated": "2026-10-21T16:43:37.196Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "status": "skipped",
+      "note": "No food guide to copy.",
+      "updated": "2026-10-21T16:43:37.262Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "status": "skipped",
+      "note": "No food guide to check.",
+      "updated": "2026-10-21T16:43:37.323Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -98,14 +98,14 @@
       "track": "unit",
       "name": "Ban Gioc Waterfall",
       "slug": "ban-gioc",
-      "file": null,
+      "file": "src/content/attractions/cao-bang--ban-gioc.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Border falls. Fee and opening hours unsourced.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Finished from the dossier. Fee and hours are check on arrival.",
+      "updated": "2026-10-21T16:43:58.258Z",
       "reworkCount": 0
     },
     {
@@ -114,14 +114,14 @@
       "track": "unit",
       "name": "Nguom Ngao Cave",
       "slug": "nguom-ngao",
-      "file": null,
+      "file": "src/content/attractions/cao-bang--nguom-ngao.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Lit cave near the falls. Tariff unsourced.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Finished from the dossier. Fee and hours are check on arrival.",
+      "updated": "2026-10-21T16:43:58.545Z",
       "reworkCount": 0
     },
     {
@@ -133,11 +133,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Stone stilt houses on the cave road.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the stone stilt houses.",
+      "updated": "2026-10-21T16:43:58.805Z",
       "reworkCount": 0
     },
     {
@@ -146,14 +146,14 @@
       "track": "unit",
       "name": "Truc Lam Ban Gioc Pagoda",
       "slug": "truc-lam-ban-gioc",
-      "file": null,
+      "file": "src/content/attractions/cao-bang--truc-lam-ban-gioc.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Viewpoint over the falls.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Finished from the dossier. Fee and hours are check on arrival.",
+      "updated": "2026-10-21T16:43:59.098Z",
       "reworkCount": 0
     },
     {
@@ -162,14 +162,14 @@
       "track": "unit",
       "name": "Pac Bo",
       "slug": "pac-bo",
-      "file": null,
+      "file": "src/content/attractions/cao-bang--pac-bo.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Special national relic. Gate fee unsourced.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Finished from the dossier. Fee and hours are check on arrival.",
+      "updated": "2026-10-21T16:43:59.390Z",
       "reworkCount": 0
     },
     {
@@ -181,11 +181,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "UNESCO 36-lake system. Commune unsourced.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the lakes.",
+      "updated": "2026-10-21T16:45:05.474Z",
       "reworkCount": 0
     },
     {
@@ -197,11 +197,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Round cave through a tower in Tra Linh.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "One licensed frame only. A finished page needs a second photo of the hole.",
+      "updated": "2026-10-21T16:45:05.766Z",
       "reworkCount": 0
     },
     {
@@ -213,11 +213,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Eastern-route pass.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the pass.",
+      "updated": "2026-10-21T16:45:06.016Z",
       "reworkCount": 0
     },
     {
@@ -229,11 +229,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Nung An incense yards.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of incense being rolled in the yard.",
+      "updated": "2026-10-21T16:45:06.276Z",
       "reworkCount": 0
     },
     {
@@ -245,11 +245,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Nung An paper.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of paper being made.",
+      "updated": "2026-10-21T16:45:06.547Z",
       "reworkCount": 0
     },
     {
@@ -261,11 +261,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "2019 national intangible heritage for the forge.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the forge.",
+      "updated": "2026-10-21T16:45:06.814Z",
       "reworkCount": 0
     },
     {
@@ -274,14 +274,14 @@
       "track": "unit",
       "name": "Phia Oac-Phia Den National Park",
       "slug": "phia-oac",
-      "file": null,
+      "file": "src/content/attractions/cao-bang--phia-oac.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "1,935 m summit. Gate fee unsourced.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Finished from the dossier. Fee and hours are check on arrival.",
+      "updated": "2026-10-21T16:45:07.116Z",
       "reworkCount": 0
     },
     {
@@ -293,11 +293,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Western-route mining landscape.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the hanging valley or the yards.",
+      "updated": "2026-10-21T16:45:07.412Z",
       "reworkCount": 0
     },
     {
@@ -309,11 +309,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Mining-era house. Not a hotel pick.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the villa and the pines.",
+      "updated": "2026-10-21T16:45:07.698Z",
       "reworkCount": 0
     },
     {
@@ -325,11 +325,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Tea landscape. Resort brand is not a pick.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the tea rows.",
+      "updated": "2026-10-21T16:45:07.976Z",
       "reworkCount": 0
     },
     {
@@ -341,11 +341,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Special national relic on the western route.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the forest relic.",
+      "updated": "2026-10-21T16:45:08.298Z",
       "reworkCount": 0
     },
     {
@@ -357,11 +357,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "25 Dec 1944 battle site.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the post.",
+      "updated": "2026-10-21T16:45:08.631Z",
       "reworkCount": 0
     },
     {
@@ -373,11 +373,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Indigo and beeswax cloth.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the cloth and the maker.",
+      "updated": "2026-10-21T16:45:08.922Z",
       "reworkCount": 0
     },
     {
@@ -389,11 +389,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "UNESCO names it. Access unsourced.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Access is unsourced and there is no licensed photo.",
+      "updated": "2026-10-21T16:45:09.217Z",
       "reworkCount": 0
     },
     {
@@ -405,11 +405,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "2018 UNESCO geopark. Area figures disagree across sources.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "The place page is the geopark. No separate gate.",
+      "updated": "2026-10-21T16:45:09.526Z",
       "reworkCount": 0
     },
     {
@@ -421,11 +421,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Bang River hub.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the river and the water-wheel stage.",
+      "updated": "2026-10-21T16:45:09.843Z",
       "reworkCount": 0
     },
     {
@@ -437,11 +437,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Overnight base for the falls. Stays inside cao-bang.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Stays inside cao-bang as a stay area. No second place slug.",
+      "updated": "2026-10-21T16:45:10.155Z",
       "reworkCount": 0
     },
     {
@@ -453,11 +453,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Falls day.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Written as the falls-day itinerary, not a second sight.",
+      "updated": "2026-10-21T16:45:10.469Z",
       "reworkCount": 0
     },
     {
@@ -469,11 +469,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Phia Oac day.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Written as the second day, not a second sight.",
+      "updated": "2026-10-21T16:45:10.745Z",
       "reworkCount": 0
     },
     {
@@ -485,11 +485,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Pac Bo is the sourced stop. Other index names were not read as pages.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Pac Bo is the sourced stop. The route is not a separate page.",
+      "updated": "2026-10-21T16:45:11.046Z",
       "reworkCount": 0
     },
     {
@@ -501,11 +501,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Index title only. Stop list not read.",
-      "updated": "2026-10-21T15:30:38.610Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Stop list was not read. No page.",
+      "updated": "2026-10-21T16:45:11.318Z",
       "reworkCount": 0
     },
     {
@@ -865,100 +865,164 @@
   "claim": null,
   "log": [
     {
-      "at": "2026-10-21T15:30:38.610Z",
+      "at": "2026-10-21T16:45:11.318Z",
       "place": "cao-bang",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: 2026 festival dates and drive times to Ha Giang, Ba Be, and Lang Son."
+      "stage": "quality",
+      "item": "cao-bang--southern-route",
+      "status": "skipped",
+      "note": "Stop list was not read. No page."
     },
     {
-      "at": "2026-10-21T15:30:31.552Z",
+      "at": "2026-10-21T16:45:11.230Z",
       "place": "cao-bang",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: the hour the city goes quiet on a weeknight."
+      "stage": "copy",
+      "item": "cao-bang--southern-route",
+      "status": "skipped",
+      "note": "Stop list was not read. No page."
     },
     {
-      "at": "2026-10-21T15:30:31.320Z",
+      "at": "2026-10-21T16:45:11.139Z",
       "place": "cao-bang",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: weeknight hours and any Dam Thuy bar, which was not found."
+      "stage": "page",
+      "item": "cao-bang--southern-route",
+      "status": "skipped",
+      "note": "Stop list was not read. No page."
     },
     {
-      "at": "2026-10-21T15:30:31.084Z",
+      "at": "2026-10-21T16:45:11.046Z",
       "place": "cao-bang",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a named daily market, stall prices, and a reloaded pho chua page."
+      "stage": "quality",
+      "item": "cao-bang--northern-route",
+      "status": "skipped",
+      "note": "Pac Bo is the sourced stop. The route is not a separate page."
     },
     {
-      "at": "2026-10-21T15:30:30.513Z",
+      "at": "2026-10-21T16:45:10.953Z",
       "place": "cao-bang",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: current gate tariffs and opening hours, the southern route stop list, Hoang Tung, and a full northern-route page."
+      "stage": "copy",
+      "item": "cao-bang--northern-route",
+      "status": "skipped",
+      "note": "Pac Bo is the sourced stop. The route is not a separate page."
     },
     {
-      "at": "2026-10-21T15:30:29.643Z",
+      "at": "2026-10-21T16:45:10.846Z",
       "place": "cao-bang",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: drive minutes from the city to the falls and to Phia Oac, a transport-department bus-station notice, and a Vietnam Railways timetable."
+      "stage": "page",
+      "item": "cao-bang--northern-route",
+      "status": "skipped",
+      "note": "Pac Bo is the sourced stop. The route is not a separate page."
     },
     {
-      "at": "2026-10-21T15:30:14.887Z",
+      "at": "2026-10-21T16:45:10.745Z",
       "place": "cao-bang",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Long Tong, the 2023 falls festival, and three side trips are in. Still open: 2026 dates and drive times to Ha Giang, Ba Be, and Lang Son."
+      "stage": "quality",
+      "item": "cao-bang--western-route",
+      "status": "skipped",
+      "note": "Written as the second day, not a second sight."
     },
     {
-      "at": "2026-10-21T15:30:14.697Z",
+      "at": "2026-10-21T16:45:10.654Z",
       "place": "cao-bang",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "City day and falls day are sketched. Still open: the hour the city goes quiet on a weeknight."
+      "stage": "copy",
+      "item": "cao-bang--western-route",
+      "status": "skipped",
+      "note": "Written as the second day, not a second sight."
     },
     {
-      "at": "2026-10-21T15:30:14.553Z",
+      "at": "2026-10-21T16:45:10.564Z",
       "place": "cao-bang",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "City walking street is indexed; the live page did not reload. Still open: weeknight hours and any Dam Thuy bar, which was not found."
+      "stage": "page",
+      "item": "cao-bang--western-route",
+      "status": "skipped",
+      "note": "Written as the second day, not a second sight."
     },
     {
-      "at": "2026-10-21T15:30:14.414Z",
+      "at": "2026-10-21T16:45:10.469Z",
       "place": "cao-bang",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Dishes from Bao Cao Bang and one weekend food street are in. Still open: a daily market, stall prices, and a reloaded pho chua page."
+      "stage": "quality",
+      "item": "cao-bang--eastern-route",
+      "status": "skipped",
+      "note": "Written as the falls-day itinerary, not a second sight."
     },
     {
-      "at": "2026-10-21T15:30:13.890Z",
+      "at": "2026-10-21T16:45:10.355Z",
       "place": "cao-bang",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Main sights and the east and west routes are in. Still open: tariffs, hours, the southern route stop list, and a full northern-route page."
+      "stage": "copy",
+      "item": "cao-bang--eastern-route",
+      "status": "skipped",
+      "note": "Written as the falls-day itinerary, not a second sight."
     },
     {
-      "at": "2026-10-21T15:29:50.233Z",
+      "at": "2026-10-21T16:45:10.260Z",
       "place": "cao-bang",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and the Hanoi road are sourced. Still open: drive minutes to the falls, a transport-department station notice, and rail confirmation beyond a booking desk."
+      "stage": "page",
+      "item": "cao-bang--eastern-route",
+      "status": "skipped",
+      "note": "Written as the falls-day itinerary, not a second sight."
+    },
+    {
+      "at": "2026-10-21T16:45:10.156Z",
+      "place": "cao-bang",
+      "stage": "quality",
+      "item": "cao-bang--dam-thuy",
+      "status": "skipped",
+      "note": "Stays inside cao-bang as a stay area. No second place slug."
+    },
+    {
+      "at": "2026-10-21T16:45:10.049Z",
+      "place": "cao-bang",
+      "stage": "copy",
+      "item": "cao-bang--dam-thuy",
+      "status": "skipped",
+      "note": "Stays inside cao-bang as a stay area. No second place slug."
+    },
+    {
+      "at": "2026-10-21T16:45:09.947Z",
+      "place": "cao-bang",
+      "stage": "page",
+      "item": "cao-bang--dam-thuy",
+      "status": "skipped",
+      "note": "Stays inside cao-bang as a stay area. No second place slug."
+    },
+    {
+      "at": "2026-10-21T16:45:09.843Z",
+      "place": "cao-bang",
+      "stage": "quality",
+      "item": "cao-bang--cao-bang-city",
+      "status": "skipped",
+      "note": "No licensed photo of the river and the water-wheel stage."
+    },
+    {
+      "at": "2026-10-21T16:45:09.733Z",
+      "place": "cao-bang",
+      "stage": "copy",
+      "item": "cao-bang--cao-bang-city",
+      "status": "skipped",
+      "note": "No licensed photo of the river and the water-wheel stage."
+    },
+    {
+      "at": "2026-10-21T16:45:09.633Z",
+      "place": "cao-bang",
+      "stage": "page",
+      "item": "cao-bang--cao-bang-city",
+      "status": "skipped",
+      "note": "No licensed photo of the river and the water-wheel stage."
+    },
+    {
+      "at": "2026-10-21T16:45:09.527Z",
+      "place": "cao-bang",
+      "stage": "quality",
+      "item": "cao-bang--non-nuoc-geopark",
+      "status": "skipped",
+      "note": "The place page is the geopark. No separate gate."
+    },
+    {
+      "at": "2026-10-21T16:45:09.419Z",
+      "place": "cao-bang",
+      "stage": "copy",
+      "item": "cao-bang--non-nuoc-geopark",
+      "status": "skipped",
+      "note": "The place page is the geopark. No separate gate."
     }
   ]
 }

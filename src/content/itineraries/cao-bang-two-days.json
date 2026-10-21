@@ -1,0 +1,30 @@
+{
+  "slug": "cao-bang-two-days",
+  "title": "Cao Bang in two days",
+  "kind": "trip",
+  "level": "day",
+  "duration": "2 days",
+  "spanDays": 2,
+  "placeSlug": "cao-bang",
+  "budget": "Check on arrival",
+  "pace": "Moderate",
+  "photo": "cao-bang-ban-gioc",
+  "summary": "Night one for the falls, night two for a different road. The second day is Phia Oac, a full day west, or Pac Bo, a half day north. Do not put the falls on both.",
+  "days": [
+    {
+      "title": "Ban Gioc, the cave, and the pagoda",
+      "body": "Sleep in Dam Thuy, or leave Cao Bang city early. Be at the falls inside 10:30 to 15:30 when the water is low. Nguom Ngao is about an hour for the lit walk, about 4 km away. Truc Lam Ban Gioc is the short steep viewpoint on the same valley. Fees are check on arrival.",
+      "placeSlug": "cao-bang",
+      "photo": "cao-bang-ban-gioc",
+      "itinerarySlug": "cao-bang-falls-day"
+    },
+    {
+      "title": "Phia Oac or Pac Bo",
+      "body": "Choose one. Phia Oac is a full day west, moss forest up to a 1,935 m summit. Pac Bo is a half day north, about 55 km on provincial road 203, for Coc Bo and the stream. Drive minutes and gate fees are check on arrival. Ha Giang is a further overnight, not this day.",
+      "placeSlug": "cao-bang",
+      "photo": "cao-bang-phia-oac"
+    }
+  ],
+  "seoTitle": "Cao Bang in two days",
+  "seoDescription": "Two days in Cao Bang: Ban Gioc with the cave and the pagoda, then Phia Oac or Pac Bo. The roads leave town in different directions."
+}
