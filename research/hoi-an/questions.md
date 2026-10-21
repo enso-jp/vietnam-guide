@@ -21,3 +21,10 @@ Checked: 21 Oct 2026. These are left out of the public pages on purpose.
 - Beach-festival dates for Hội An - Cảm xúc mùa hè (S6).
 - No Hoi An coffee street. The shared coffee page stays unchanged.
 - No 2026 bar pin. Do not invent one.
+- An Bang photograph that shows sand, water, and the low beach front together. The published frame is mostly sky, so the page stays a stub.
+- Cam Thanh photograph of a basket boat in the nipa water. No public page. The 2022 prices are not a current tariff.
+- Street number of Hội quán Quảng Đông. Not on the monument page.
+- Street number of Nhà cổ Quân Thắng. Not on the monument page.
+- Door clocks for the Museum of Trade Ceramics, the Sa Huỳnh museum, and the Museum of Folk Culture. Closing dates are printed. The hour is not.
+- Kim Bồng crossing minutes and fare. Thanh Hà ride minutes. Both unsourced.
+- Quan Thang’s second frame is another hour of the street front. An interior was not used.

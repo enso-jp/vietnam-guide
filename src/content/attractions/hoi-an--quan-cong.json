@@ -1,0 +1,68 @@
+{
+  "slug": "quan-cong",
+  "placeSlug": "hoi-an",
+  "name": "Quan Cong Temple",
+  "nameVi": "Chùa Ông",
+  "kicker": "Temple to Quan Cong on Trần Phú",
+  "summary": "The hall at 24 Trần Phú, built for Quan Công by Minh Hương and Vietnamese residents in the mid-17th century. The main hall holds the statue, two attendants, and two life-size horses. It is a short stop on the Trần Phú walk, and the heavy day is the 16th of the first lunar month. Door hours and the fee are check on arrival.",
+  "dots": 4,
+  "district": "Old town",
+  "timeNeeded": "A short hall. Exact minutes are check on arrival.",
+  "fee": "Check on arrival",
+  "getThere": "Walk to 24 Trần Phú",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The temple front on Trần Phú, roof and doors in one frame",
+  "notice": {
+    "title": "It is a temple to Quan Cong, not a Buddhist pagoda",
+    "body": "The name says chùa. The city page describes a hall for Quan Công, built about 1653. Door hours are not printed. The fee is the ancient-town ticket, and which ticket is on sale is check on arrival."
+  },
+  "body": [
+    "Walk in from 24 Trần Phú. The monument page describes four buildings in a chữ khẩu plan: a front court, two side houses, and a main hall, with a tube-tile roof carved with dragons. The main hall holds Quan Vân Trường in a dragon robe, the attendant Châu Thương, the adopted son Quan Bình, and two horses the size of real horses, a white one and a red hare. The hall also keeps poems written in 1775 by Xuân Quận Công Nguyễn Nghiễm, the father of Nguyễn Du, and the replies by Uông Sĩ Cư and Nguyễn Lệnh Tân.",
+    "The city page dates the hall to the mid-17th century, about 1653, built by Hoa merchants who had settled in the port. The monument page says Minh Hương residents and Vietnamese neighbours built it. It was listed as a national historic relic on 29 November 1991. On the 2026 combination tickets it is the other landmark choice beside the Japanese bridge. During the 2026 Nguyên tiêu plan the centre said it would not sell a sightseeing ticket for this hall on those festival days. That waiver was the 2026 plan, not the ordinary week.",
+    "Come in the morning, unless your date is the 16th of the first lunar month, when the city page says the crowd comes. No ordinary door hours are printed. In a flood week the Trần Phú street can be under water. The temple page itself does not give a flood line."
+  ],
+  "figures": [
+    {
+      "id": "hoi-an-quan-cong-2",
+      "caption": "The statue in the main hall",
+      "alt": "A seated statue in a blue robe inside Quan Cong Temple in Hoi An, with an incense burner and red banners"
+    }
+  ],
+  "gettingThere": [
+    "The hall is at 24 Trần Phú, in the ancient town. Walk if you slept in the lanes just off that core. The monument page does not print a minute count. Those minutes are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the old town",
+      "body": "Walk along Trần Phú to number 24. The minutes depend on your lane."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day is printed on the city page or the monument page.",
+  "admissionNote": "No separate price is printed for this building. From 10 August 2026, Da Nang Resolution 98/2026 sets 20,000 VND per person per building, the same for a Vietnamese and a foreign visitor. The heritage centre’s notices of 26 January 2026 and 16 March 2026 still describe an 80,000 VND ticket for the streetscape, Chùa Cầu or Miếu Quan Công, and two other works, and a 120,000 VND ticket when a museum and three other works are added. The March notice says one purchase can be used through the stay, up to three days. A May 2026 article says the town is an open neighbourhood and many people walk in without a ticket. Which desk is in force is check on arrival.",
+  "links": [
+    {
+      "label": "Chùa Ông monument page",
+      "url": "https://www.hoianworldheritage.org.vn/vi/news/Diem-di-tich/Chua-Ong-Hoi-An-96.hwh",
+      "note": "Hoi An heritage centre"
+    },
+    {
+      "label": "Chùa Ông on the city portal",
+      "url": "https://danang.gov.vn/vi/w/chua-ong-quan-cong-mieu",
+      "note": "Da Nang city portal, 1 May 2026"
+    },
+    {
+      "label": "City fee from 10 August 2026",
+      "url": "https://danang.gov.vn/vi/w/tu-10-8-ap-dung-muc-phi-tham-quan-20000-40000-dong-tai-cac-cong-trinh-van-hoa-tren-dia-ban-da-nang",
+      "note": "Da Nang city portal, 6 Aug 2026"
+    },
+    {
+      "label": "January 2026 ticket notice",
+      "url": "https://hoianheritage.net/vi/news/Tin-tuc-su-kien/thong-bao-ve-hoat-dong-tham-quan-khu-pho-co-hoi-an-1711.html",
+      "note": "Heritage centre visitor notice"
+    }
+  ],
+  "interests": [
+    "oldTowns"
+  ]
+}

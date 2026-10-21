@@ -1,0 +1,63 @@
+{
+  "slug": "trieu-chau",
+  "placeSlug": "hoi-an",
+  "name": "Chaozhou Assembly Hall",
+  "nameVi": "Hội quán Triều Châu",
+  "kicker": "Chaozhou hall for the sea gods",
+  "summary": "The Chaozhou hall at 157 Nguyễn Duy Hiệu, also called chùa Âm Bổn, built in 1845 for the community and for the gods of wind and wave. The frame is carved wood, with porcelain reliefs of folk stories. It is a quieter hall than the dragon court. Hours and the fee are check on arrival.",
+  "dots": 3,
+  "district": "Old town",
+  "timeNeeded": "A short hall. Exact minutes are check on arrival.",
+  "fee": "Check on arrival",
+  "getThere": "Walk to 157 Nguyễn Duy Hiệu",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The hall front, with the incense burner in the court",
+  "notice": {
+    "title": "Hours and the fee are both check on arrival",
+    "body": "The monument page prints the address and the 1845 date, and it does not print door hours or a separate price. Assembly halls are optional works on the combination tickets."
+  },
+  "body": [
+    "The hall is at 157 Nguyễn Duy Hiệu. The monument page says Chaozhou merchants built it in 1845 as their meeting place and their own worship, and that people also call it chùa Âm Bổn. The gods here are the ones who govern wind and wave, so the voyages out of the port would go smoothly.",
+    "The building is a carved wooden frame. The page describes wooden motifs from folk stories and reliefs built up in porcelain. Come in the morning. If your ticket includes one assembly hall, the Fujian hall is the long one and the Cantonese hall is the dragon court. This is the sea-god hall, further along from the Trần Phú core.",
+    "No door hours and no separate price are printed. The ancient-town fee disagreement still applies. Which ticket the desk sells is check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "hoi-an-trieu-chau-2",
+      "caption": "The gate on Nguyễn Duy Hiệu",
+      "alt": "The red and green gate of the Chaozhou Assembly Hall in Hoi An, with lanterns"
+    }
+  ],
+  "gettingThere": [
+    "Walk to 157 Nguyễn Duy Hiệu. The monument page does not print a minute count from the bridge. Those minutes are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the old town",
+      "body": "Walk to 157 Nguyễn Duy Hiệu. The minutes depend on your lane."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day is printed on the monument page.",
+  "admissionNote": "No separate price is printed for this building. From 10 August 2026, Da Nang Resolution 98/2026 sets 20,000 VND per person per building, the same for a Vietnamese and a foreign visitor. The heritage centre’s notices of 26 January 2026 and 16 March 2026 still describe an 80,000 VND ticket for the streetscape, Chùa Cầu or Miếu Quan Công, and two other works, and a 120,000 VND ticket when a museum and three other works are added. The March notice says one purchase can be used through the stay, up to three days. A May 2026 article says the town is an open neighbourhood and many people walk in without a ticket. Which desk is in force is check on arrival.",
+  "links": [
+    {
+      "label": "Hội quán Triều Châu",
+      "url": "https://www.hoianworldheritage.org.vn/vi/news/Diem-di-tich/Hoi-quan-Trieu-Chau-16.hwh",
+      "note": "Hoi An heritage centre"
+    },
+    {
+      "label": "City fee from 10 August 2026",
+      "url": "https://danang.gov.vn/vi/w/tu-10-8-ap-dung-muc-phi-tham-quan-20000-40000-dong-tai-cac-cong-trinh-van-hoa-tren-dia-ban-da-nang",
+      "note": "Da Nang city portal, 6 Aug 2026"
+    },
+    {
+      "label": "January 2026 ticket notice",
+      "url": "https://hoianheritage.net/vi/news/Tin-tuc-su-kien/thong-bao-ve-hoat-dong-tham-quan-khu-pho-co-hoi-an-1711.html",
+      "note": "Heritage centre visitor notice"
+    }
+  ],
+  "interests": [
+    "oldTowns"
+  ]
+}

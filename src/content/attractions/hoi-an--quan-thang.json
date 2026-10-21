@@ -1,0 +1,63 @@
+{
+  "slug": "quan-thang",
+  "placeSlug": "hoi-an",
+  "name": "Quan Thang Old House",
+  "nameVi": "Nhà cổ Quân Thắng",
+  "kicker": "Old house open to two streets",
+  "summary": "A one-storey merchant house the monument page calls more than 150 years old, opening onto both Trần Phú and Nguyễn Thái Học. Kim Bồng carpenters cut the wood. The sky well is lined with Chinese ceramics. The page does not print the street number, the hours, or a separate fee. All three are check on arrival.",
+  "dots": 3,
+  "district": "Old town",
+  "timeNeeded": "A short house. Exact minutes are check on arrival.",
+  "fee": "Check on arrival",
+  "getThere": "The house opens onto Trần Phú and Nguyễn Thái Học. The number is check on arrival.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The tiled front of Quan Thang house, lanterns by the door",
+  "notice": {
+    "title": "The street number is not on the monument page",
+    "body": "The page says the house opens onto both Trần Phú and Nguyễn Thái Học and does not print the number. Hours and the fee are also check on arrival."
+  },
+  "body": [
+    "The monument page calls Quân Thắng one of the old houses that still shows how a merchant family lived, more than 150 years old, in the style of the Chinese coast. It says Kim Bồng carpenters made the woodwork. The plan is a one-storey house that runs through from Trần Phú to Nguyễn Thái Học, so you enter on one street and the back is the other.",
+    "Inside, the page names the Hội An details: a kẻ chuyền roof frame, a small covered space looking onto a sky well with a chồng rường truss, a crab-shell roof opposite the well, and walls of Chinese ceramics around that court, with a rockery. That court is the reason to go in, rather than only photographing the tiled front.",
+    "The page does not print a street number, a door hour, or a price. Old houses are optional works on the combination tickets, and from 10 August 2026 the city fee is 20,000 VND per building. Which one is sold is check on arrival. The front you photograph is not a source for the number. Ask on the street."
+  ],
+  "figures": [
+    {
+      "id": "hoi-an-quan-thang-2",
+      "caption": "The same front in the daytime, door open",
+      "alt": "The tiled entrance of Quan Thang Old House in Hoi An, with the door open and motorbikes in front"
+    }
+  ],
+  "gettingThere": [
+    "The monument page says the house opens onto both Trần Phú and Nguyễn Thái Học. It does not print the number. Walk either street and ask for nhà cổ Quân Thắng. The minutes are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the old town",
+      "body": "Walk Trần Phú or Nguyễn Thái Học. The centre does not print the door number. Ask for Quân Thắng."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day is printed on the monument page.",
+  "admissionNote": "No separate price is printed for this building. From 10 August 2026, Da Nang Resolution 98/2026 sets 20,000 VND per person per building, the same for a Vietnamese and a foreign visitor. The heritage centre’s notices of 26 January 2026 and 16 March 2026 still describe an 80,000 VND ticket for the streetscape, Chùa Cầu or Miếu Quan Công, and two other works, and a 120,000 VND ticket when a museum and three other works are added. The March notice says one purchase can be used through the stay, up to three days. A May 2026 article says the town is an open neighbourhood and many people walk in without a ticket. Which desk is in force is check on arrival.",
+  "links": [
+    {
+      "label": "Nhà cổ Quân Thắng",
+      "url": "https://www.hoianworldheritage.org.vn/vi/news/Diem-di-tich/Nha-co-Quan-Thang-651.hwh",
+      "note": "Hoi An heritage centre"
+    },
+    {
+      "label": "City fee from 10 August 2026",
+      "url": "https://danang.gov.vn/vi/w/tu-10-8-ap-dung-muc-phi-tham-quan-20000-40000-dong-tai-cac-cong-trinh-van-hoa-tren-dia-ban-da-nang",
+      "note": "Da Nang city portal, 6 Aug 2026"
+    },
+    {
+      "label": "January 2026 ticket notice",
+      "url": "https://hoianheritage.net/vi/news/Tin-tuc-su-kien/thong-bao-ve-hoat-dong-tham-quan-khu-pho-co-hoi-an-1711.html",
+      "note": "Heritage centre visitor notice"
+    }
+  ],
+  "interests": [
+    "oldTowns"
+  ]
+}

@@ -28,8 +28,8 @@ Checked: 21 Oct 2026
 
 ## Photos
 
-- Hero: the temple front on Trần Phú, roof on.
-- Second frame: the court or the carved roof, a different moment.
+- Hero: the temple front on Trần Phú, roof on. Stored as `hoi-an-quan-cong` (P. Hughes, CC BY 4.0).
+- Second frame: the statue in the hall. Stored as `hoi-an-quan-cong-2` (Franzfoto, CC BY-SA 3.0).
 
 ## Open questions
 

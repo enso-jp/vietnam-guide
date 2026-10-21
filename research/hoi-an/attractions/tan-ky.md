@@ -50,8 +50,8 @@ Checked: 21 Oct 2026
 
 ## Photos
 
-- Hero must show: the timber front and the sign on Nguyễn Thái Học, in colour.
-- Second frame must show (a different moment): the inner court or the carved wood. Not the same facade.
+- Hero must show: the timber front and the sign on Nguyễn Thái Học, in colour. Stored as `hoi-an-tan-ky` (ChieuTimViet, CC BY 3.0).
+- Second frame must show (a different moment): the inner court or the carved wood. Not the same facade. Stored as `hoi-an-tan-ky-2` (YukioSanjo, CC BY-SA 4.0), inlaid furniture on the ground floor.
 - Reject: a document, a collage, a frame that is only a souvenir counter.
 
 ## Links

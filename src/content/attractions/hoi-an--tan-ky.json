@@ -3,13 +3,61 @@
   "placeSlug": "hoi-an",
   "name": "Tan Ky House",
   "nameVi": "Nhà cổ Tấn Ký",
-  "summary": "A tube house at 101 Nguyễn Thái Học. The ground floor is the visit, and the family lives upstairs. The fee is the ancient-town ticket, which is check on arrival. A visitor page prints 08:00–11:30 and 13:30–17:45 every day. Confirm that split day.",
+  "kicker": "Lived-in merchant house on Nguyễn Thái Học",
+  "summary": "A tube house at 101 Nguyễn Thái Học, shop at the front and the river at the back. The ground floor is the visit, and the family lives upstairs. Come in the morning. The fee is the ancient-town ticket, which is check on arrival. A visitor page prints a midday close. Confirm that split before you cross town for it.",
   "dots": 4,
-  "timeNeeded": "A short visit. Exact minutes are check on arrival.",
+  "district": "Old town",
+  "timeNeeded": "A short house. Exact minutes are check on arrival.",
   "fee": "Check on arrival",
   "getThere": "Walk to 101 Nguyễn Thái Học",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The timber front of Tan Ky House on Nguyễn Thái Học",
+  "notice": {
+    "title": "Confirm the midday close",
+    "body": "A creative-city page with a Traveloka byline prints 08:00–11:30 and 13:30–17:45 every day. The January 2026 ticket notice does not repeat that split. The ground floor is the visit. The family lives upstairs."
+  },
+  "body": [
+    "Walk in at 101 Nguyễn Thái Học. The creative-city page says the house runs back toward the Thu Bồn at the Châu Thượng Văn junction, with no windows and light from the courts. Chinese characters sit on the columns, and a glass case holds the cup that page calls a Confucius cup. The ground floor is the visit. The family lives upstairs. Do not touch the objects.",
+    "The January 2026 ticket notice names old houses among the optional cultural works. No separate house price is printed. From 10 August 2026 the city fee is 20,000 VND per building. The heritage centre’s January and March 2026 notices still describe combination tickets of 80,000 VND and 120,000 VND. Which one the desk sells is check on arrival.",
+    "Come in the morning. That visitor page prints Monday to Sunday 08:00–11:30 and 13:30–17:45. Confirm the midday close before you cross town for it. The printed hours end in the afternoon, so this is not a night sight. Leave the 1741 date and the line that UNESCO listed the house in 1990 unused. The town’s inscription is a different document."
+  ],
+  "figures": [
+    {
+      "id": "hoi-an-tan-ky-2",
+      "caption": "Inlaid furniture on the ground floor",
+      "alt": "Inlaid wooden furniture and a carved screen inside Tan Ky House in Hoi An"
+    }
+  ],
+  "gettingThere": [
+    "The house is at 101 Nguyễn Thái Học, the street closer to the river than Trần Phú. Walk if you slept in the lanes just off the ancient town. Minutes from the bridge are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the old town",
+      "body": "Walk along Nguyễn Thái Học to number 101. The minutes depend on your lane."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "The visitor page prints a midday gap from 11:30 to 13:30, every day. Confirm that gap. No weekly closing day is printed on the ticket notice.",
+  "admissionNote": "No separate house price is printed. From 10 August 2026, Da Nang Resolution 98/2026 sets 20,000 VND per person per building, the same for a Vietnamese and a foreign visitor. The heritage centre’s notices of 26 January 2026 and 16 March 2026 still describe an 80,000 VND ticket for the streetscape, Chùa Cầu or Miếu Quan Công, and two other works, and a 120,000 VND ticket when a museum and three other works are added. Old houses are among the optional works on those notices. The March notice says one purchase can be used through the stay, up to three days. A May 2026 article says the town is an open neighbourhood and many people walk in without a ticket. Which desk is in force is check on arrival.",
+  "links": [
+    {
+      "label": "Tan Ky on the creative-city site",
+      "url": "https://hoiancreativecity.com/vi/nha-co-tan-ky-noi-luu-giu-ve-dep-xua-cu-cua-hoi-an",
+      "note": "Byline Traveloka.com. Address and the printed hours"
+    },
+    {
+      "label": "City fee from 10 August 2026",
+      "url": "https://danang.gov.vn/vi/w/tu-10-8-ap-dung-muc-phi-tham-quan-20000-40000-dong-tai-cac-cong-trinh-van-hoa-tren-dia-ban-da-nang",
+      "note": "Da Nang city portal, 6 Aug 2026"
+    },
+    {
+      "label": "January 2026 ticket notice",
+      "url": "https://hoianheritage.net/vi/news/Tin-tuc-su-kien/thong-bao-ve-hoat-dong-tham-quan-khu-pho-co-hoi-an-1711.html",
+      "note": "Heritage centre visitor notice"
+    }
+  ],
   "interests": [
     "oldTowns"
-  ],
-  "district": "Old town"
+  ]
 }
