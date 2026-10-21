@@ -201,4 +201,4 @@ Left out of the sight list, on purpose: Eight Lady Cave, En Cave, the botanical 
 - Photo must show: The pier or the mouth in daylight
 - Sources: S1, S5, S7
 
-The single public outline this supports is a half-day at Phong Nha Cave. Paradise Cave, Dark Cave, and Mooc Spring each have their own clock and ticket. Putting them on one invented day, or on a multi-day national route, is not sourced.
+The sourced visit is a half-day at Phong Nha Cave, about 2.5 hours from the Tourism Center. Paradise Cave, Dark Cave, and Mooc Spring each have their own clock and ticket. An itinerary record is a later pass. Do not invent a multi-day route.
