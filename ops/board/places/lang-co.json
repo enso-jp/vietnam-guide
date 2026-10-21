@@ -5,9 +5,9 @@
   "corridor": "central-coast",
   "kind": "town",
   "parent": null,
-  "publish": "candidate",
+  "publish": "accepted",
   "priority": 101,
-  "note": "Named in Central Coast coverage. Research may be stored. Do not create a public place file until publish is accepted.",
+  "note": "Owner accepted publish on 21 Oct 2026. North Central Coast town. Public files may be drafted.",
   "coverage": {
     "sights": "filled",
     "areas": "filled",
@@ -414,7 +414,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "lang-co",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-21T16:27:29.576Z",
+    "by": "lang-co-destination",
+    "branch": "cursor/lang-co-destination-1f02"
+  },
   "log": [
     {
       "at": "2026-10-21T15:30:31.460Z",
