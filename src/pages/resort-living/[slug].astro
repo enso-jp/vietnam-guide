@@ -1,0 +1,74 @@
+---
+import { existsSync, readFileSync } from 'node:fs';
+import { join } from 'node:path';
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import Photo from '../../components/Photo.astro';
+import { getPlace, getResortShowcases, pageDescription, placePath } from '../../lib/content';
+import { photoPath } from '../../lib/photos';
+import { article, breadcrumbList } from '../../lib/schema';
+
+export function getStaticPaths() {
+  return getResortShowcases().map((showcase) => ({
+    params: { slug: showcase.slug },
+    props: { showcase },
+  }));
+}
+
+const { showcase } = Astro.props;
+const place = getPlace(showcase.placeSlug);
+const title = showcase.seoTitle;
+const description = pageDescription(showcase.seoDescription, showcase.summary);
+const path = `/resort-living/${showcase.slug}`;
+const image = photoPath(showcase.properties[0]?.photo || place?.slug || '');
+const creditsPath = join(process.cwd(), 'public', 'photos', 'credits.json');
+const credits: Record<string, { author?: string; license?: string }> = existsSync(creditsPath)
+  ? JSON.parse(readFileSync(creditsPath, 'utf8'))
+  : {};
+const crumbSchema = [
+  { name: 'Interests', path: '/interests' },
+  { name: 'Resort Living', path: '/interests/resort-living' },
+  { name: showcase.name, path },
+];
+---
+<Base title={title} description={description} path={path} jsonLd={[article(title, description, path, image), breadcrumbList(crumbSchema)]} ogImage={image}>
+  <article class="wrap section">
+    <Crumbs items={[
+      { name: 'Interests', href: '/interests' },
+      { name: 'Resort Living', href: '/interests/resort-living' },
+      { name: showcase.name },
+    ]} />
+    <h1>{showcase.name}</h1>
+    <p class="lede">{showcase.summary}</p>
+    <div class="reading place-body">
+      <section class="place-section">
+        {showcase.body.map((paragraph) => <p>{paragraph}</p>)}
+        {place && <p><a href={placePath(place)}>{place.name} travel guide</a></p>}
+      </section>
+      <section class="place-section">
+        <h2>Resorts</h2>
+        <p class="note">Each name is on the operator’s public site. Rates are not listed here. Search stays on the partner link in the travel guide.</p>
+        {showcase.properties.map((property) => (
+          <article class="dish-feature has-photo">
+            <Photo id={property.photo} alt={property.name} />
+            <span>
+              <strong>{property.name}</strong>
+              <em>{property.summary}</em>
+              <small>
+                Source: {property.sources.map((source, index) => (
+                  <>
+                    {index > 0 && '; '}
+                    <a href={source.url} rel="noopener noreferrer">{source.label}</a>
+                  </>
+                ))}
+              </small>
+            </span>
+          </article>
+        ))}
+        {showcase.properties.map((property) => (
+          credits[property.photo] && <p class="note photo-credit">Photo ({property.name}): {credits[property.photo].author} · {credits[property.photo].license}</p>
+        ))}
+      </section>
+    </div>
+  </article>
+</Base>

@@ -22,7 +22,8 @@
     "photography": 5,
     "markets": 4,
     "family": 4,
-    "beaches": 3
+    "beaches": 3,
+    "resortLiving": 4
   },
   "cover": "town",
   "nearby": [
@@ -83,7 +84,8 @@
     "Trà Quế is the herb beds about 2.5 km north on the heritage page, and about 2 km northeast on the national tourism page. The greens go into cao lầu.",
     "Kim Bồng is the carpentry village across the river. Thanh Hà is the pottery west of town. Crossing minutes and the ride are check on arrival.",
     "An Bang is the swim and the villa stay, now in Hoi An Tây. Cửa Đại’s erosion is serious, and the same coast article says this beach is threatened too. The ride from the old town is check on arrival.",
-    "Cẩm Thanh is the basket-boat hour in the nipa water, about 3 km out on the 2022 article. From 10 August 2026 the entry is 30,000 VND. The boat price is check on arrival."
+    "Cẩm Thanh is the basket-boat hour in the nipa water, about 3 km out on the 2022 article. From 10 August 2026 the entry is 30,000 VND. The boat price is check on arrival.",
+    "Resort living is Ha My and Cua Dai when you want a pool morning and the old town at night."
   ],
   "interestCards": [
     {
@@ -92,6 +94,13 @@
       "photo": "cao-lau",
       "icon": "food",
       "to": "food"
+    },
+    {
+      "title": "Resort Living",
+      "summary": "Victoria on Cua Dai beach, with Ha My villas nearby.",
+      "photo": "hoi-an-resort-living",
+      "icon": "bed",
+      "to": "resortLiving"
     },
     {
       "title": "Old town after dark",

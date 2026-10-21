@@ -72,6 +72,8 @@ function toInterestRail(card: InterestCard) {
   const linkedPlace = card.placeSlug ? getPlace(card.placeSlug) : undefined;
   const href = card.to === 'food'
     ? `/food/${place.foodSlug || place.slug}`
+    : card.to === 'resortLiving'
+      ? `/resort-living/${place.slug}`
     : sight
       ? attractionPath(sight)
       : card.dishSlug
@@ -80,7 +82,15 @@ function toInterestRail(card: InterestCard) {
           ? placePath(linkedPlace)
           : '#interests';
   const photo = card.photo || (sight ? `${sight.placeSlug}-${sight.slug}` : '') || card.dishSlug || card.placeSlug || place.slug;
-  return { href, title: card.title, photo, fallback: place.slug, alt: card.title, cover: place.cover, icon: card.icon || (card.to === 'food' ? 'food' : undefined) };
+  return {
+    href,
+    title: card.title,
+    photo,
+    fallback: place.slug,
+    alt: card.title,
+    cover: place.cover,
+    icon: card.icon || (card.to === 'food' ? 'food' : card.to === 'resortLiving' ? 'bed' : undefined),
+  };
 }
 const sourceSections = place.interestGroups?.length
   ? place.interestGroups.map((group) => ({

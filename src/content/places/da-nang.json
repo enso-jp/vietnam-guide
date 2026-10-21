@@ -21,7 +21,8 @@
     "food": 3,
     "family": 4,
     "photography": 3,
-    "nightlife": 3
+    "nightlife": 3,
+    "resortLiving": 4
   },
   "cover": "coast",
   "foodSlug": "da-nang",
@@ -90,7 +91,8 @@
     "Beach sports are the boards, the paddle, the basket boats, and the other hire on My Khe. The price is check on arrival.",
     "Nightlife is An Thuong, the lanes just inland of those four streets. The photograph is one doorway on An Thuong 4, not the whole grid.",
     "Culture is the Cham Museum, the rooster church, the Marble Mountains, and Linh Ung on Son Tra. Each opens on its own photograph.",
-    "The river walk is Bach Dang for coffee, a young coconut, and the promenade, then the swing bridge and Han Market. Coconut is that walk, not a separate venue."
+    "The river walk is Bach Dang for coffee, a young coconut, and the promenade, then the swing bridge and Han Market. Coconut is that walk, not a separate venue.",
+    "Resort living is Son Tra, Non Nuoc, and the My Khe towers when the bed should be on the sand."
   ],
   "interestCards": [
     {
@@ -99,6 +101,13 @@
       "photo": "mi-quang",
       "icon": "food",
       "to": "food"
+    },
+    {
+      "title": "Resort Living",
+      "summary": "InterContinental Sun Peninsula, Hyatt Regency Non Nuoc, and Pullman on My Khe.",
+      "photo": "da-nang-resort-living",
+      "icon": "bed",
+      "to": "resortLiving"
     },
     {
       "title": "Beach lifestyle",

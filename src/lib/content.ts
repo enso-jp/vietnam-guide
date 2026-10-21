@@ -10,6 +10,7 @@ import type {
   BlogPost,
   FrontPage,
   RiceSite,
+  ResortShowcase,
   Route,
   SearchItem,
 } from './types';
@@ -34,6 +35,9 @@ const dishModules = import.meta.glob('../content/dishes/*.json', {
 const foodModules = import.meta.glob('../content/food/*.json', {
   eager: true,
 }) as Record<string, { default: FoodGuide }>;
+const resortModules = import.meta.glob('../content/resort-living/*.json', {
+  eager: true,
+}) as Record<string, { default: ResortShowcase }>;
 const guideModules = import.meta.glob('../content/guides/*.json', {
   eager: true,
 }) as Record<string, { default: Guide }>;
@@ -84,6 +88,14 @@ export function getDishes(): Dish[] {
 
 export function getFoodGuides(): FoodGuide[] {
   return load(foodModules);
+}
+
+export function getResortShowcases(): ResortShowcase[] {
+  return load(resortModules).sort((a, b) => a.name.localeCompare(b.name));
+}
+
+export function getResortShowcase(slug: string): ResortShowcase | undefined {
+  return getResortShowcases().find((item) => item.slug === slug);
 }
 
 export function getGuides(): Guide[] {
@@ -241,6 +253,11 @@ export function pageDescription(preferred: string, ...more: string[]): string {
 }
 
 export function interestDescription(key: string): string {
+  if (key === 'resortLiving') {
+    const places = placesForInterest(key).slice(0, 3).map((place) => place.name);
+    const placeBit = places.length ? `Places where a resort stay is part of the trip include ${englishList(places)}.` : '';
+    return pageDescription('Resort Living in Vietnam.', 'Named luxury and premium resorts on leisure coasts.', placeBit);
+  }
   const label = interestLabels[key] ?? key;
   const places = placesForInterest(key).slice(0, 3).map((place) => place.name);
   const sights = attractionsForInterest(key).slice(0, 3).map((item) => item.name);
