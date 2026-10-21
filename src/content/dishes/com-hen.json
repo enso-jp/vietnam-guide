@@ -2,18 +2,29 @@
   "slug": "com-hen",
   "name": "Com hen",
   "nameVi": "Cơm hến",
-  "summary": "Com hen is cold rice with tiny clams from the Perfume River, herbs, bean sprouts, shrimp paste, roasted peanuts, and pork rind. Eat it on Hen Island. A stall price is check on arrival.",
-  "origin": "Hue. Vietnam Tourism calls it a peasant plate of leftover rice and tiny clams from the Perfume River.",
+  "summary": "Rice with tiny Perfume River clams, herbs, bean sprouts, peanuts, and pork rind. The plate is on Hen Island.",
+  "origin": "Hue. Vietnam Tourism calls it a peasant plate built on leftover rice.",
+  "history": [
+    "Vietnam Tourism traces cơm hến to a peasant kitchen: leftover rice and baby clams from the Perfume River."
+  ],
+  "culture": [
+    "On that same page it sits opposite the court dishes. It is the plate of the river island, not a banquet course."
+  ],
+  "texture": [
+    "The plate is rice with baby clams, bean sprouts, and strips of pork rind."
+  ],
+  "taste": [
+    "Vietnam Tourism calls the dish spicy, with a pungent shrimp sauce and roasted peanuts."
+  ],
   "howToEat": [
-    "Mix the rice with the clam, the herbs, and the shrimp paste. The national page does not name a utensil.",
-    "Eat it on Hen Island, across Ưng Bình bridge. The walk is under half an hour, and the island floods out of sight in high water.",
-    "A clock hour is check on arrival. Nothing on these pages makes it a dinner."
+    "Cross Ưng Bình bridge to Hen Island. The walk is under half an hour. Vietnam Tourism says the island disappears when the city floods, so skip it in a flood week."
   ],
   "where": [
-    "Hen Island (Cồn Hến), across Ưng Bình bridge. Chi Lăng and Bạch Đằng are the afternoon streets on the far side. Shop names from the national itinerary are not picks on this page."
+    "Hen Island, Cồn Hến. Chi Lăng and Bạch Đằng are the afternoon streets on the far side. The hour is check on arrival."
   ],
   "priceBand": "Check on arrival.",
   "placeSlugs": ["hue"],
-  "seoTitle": "Com hen in Hue — cold rice and clams on Hen Island",
-  "seoDescription": "Cold rice with tiny river clams, herbs, and shrimp paste. Cross Ung Binh bridge to Hen Island. The island floods. A stall price is check on arrival."
+  "verified": "21 Oct 2026",
+  "seoTitle": "Com hen in Hue — rice and clams on Hen Island",
+  "seoDescription": "Rice with tiny river clams, herbs, peanuts, and pork rind. Cross Ung Binh bridge to Hen Island. The island floods. A stall price is check on arrival."
 }

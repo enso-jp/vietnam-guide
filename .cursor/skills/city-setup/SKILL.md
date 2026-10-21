@@ -124,28 +124,29 @@ The attraction page does not use the city sidebar. It ends with one labeled stay
 
 ## Food guide
 
-Match the Tokyo food guide’s structure. Do not add its booking widget, its Michelin list, or its shop names.
+The city food guide is photo-led. Do not add a booking widget, a Michelin list, or shop names.
 
-1. Opening: what this city is known for eating, and how that differs from the neighbor.
-2. Specialties: each dish is a row with a photo of that dish, the name, what it is, and the first how-to-eat line. The row links to the dish page. If the dish has no photo, do not borrow the city beach or the bridge. Say so in the draft summary and fetch the dish photo.
-3. Where to eat, by area: markets and streets. Name the area.
-4. Breakfast, sweets, and drinks when the city has them.
-5. Casual dining and fine dining only when this city really splits that way. Name the district, not a restaurant.
-6. A short section for the neighbor’s dishes, with links.
-7. The sidebar reserves a restaurant placeholder, the same shape as Book your stay, until a restaurant partner exists. The button points at the food guide. It does not search Booking.com.
+1. One lede: what this city is known for eating. Not an essay, and not a list of hours.
+2. Specialties: a grid of dish photo cards. Each card is the photo, the name, and a short caption, and it links to the dish page. If the dish has no photo, do not make a card and do not borrow another picture. Say so in the draft summary.
+3. A market or a street is a photo card with a short caption, or it stays off the page. Do not print hours as paragraphs.
+4. Breakfast, sweets, and drinks when the city has them and a real photo exists.
+5. A short set of cards for the neighbor’s dishes, with links. Do not rewrite those dishes in this city’s pass.
+6. The sidebar reserves a restaurant placeholder, the same shape as Book your stay, until a restaurant partner exists. The button points at the food guide. It does not search Booking.com.
 
 Do not list a stall price. Do not name a shop unless you are ready to maintain it.
 
 ## Dish page
 
-A dish page is the specialty, not a stub. Mi Quang with a paragraph and a city list is not done.
+A dish page is the specialty, not a stub. A paragraph and a city list are not done.
 
-- A photo of the bowl or the plate, at the top. No cityscape fallback.
-- What it is, in more than one sentence, from the dossier.
-- Varieties, when the dish has them. Each variety is a small photo and how it differs, the way nigiri and gunkan sit on the sushi page.
-- Where it comes from.
-- How to eat it: the gesture, the hour, the mistake.
+- A photo of the bowl or the plate, at the top. No cityscape fallback. A second licensed photo when one exists.
+- History of the dish, when a source gives it. Leave the section out when it does not.
+- Why it matters culturally.
+- Texture.
+- Taste.
+- How to best enjoy it: the gesture and the mistake. An unsourced hour is “Check on arrival,” not a paragraph of clocks.
 - Where to try it: the market or the street in this city. A list of city names is the last line, after the area.
+- Do not invent a flavor, a legend, or a date. If a point has no source, leave it out and say so in the draft.
 - The same restaurant placeholder sits in the sidebar.
 
 ## Itinerary
@@ -187,9 +188,9 @@ Copy and complete:
 - [ ] Side trips: real slugs, plus placeholders in the draft summary
 - [ ] `{Place} by interest` grouped from this place, with Dining and F&B first, linking to `/food/{slug}`
 - [ ] Attraction records exist for the sights. A finished sight page is a later pass under `.cursor/skills/attraction-page/SKILL.md`, not this one
-- [ ] Each dish page has its own photo, how to eat it, and where to try it by area
+- [ ] Each dish page has its own photo, history, culture, texture, taste, and how to enjoy it, with anything unsourced left out
 - [ ] Itinerary page: each day is a photo row, with the stay sidebar. Walks keep stop photos.
-- [ ] Food guide with specialty blocks, where to eat, breakfast, and the neighbor
+- [ ] Food guide is photo-led: dish cards, short captions, and no hour paragraphs
 - [ ] Photos looked at and kept only when they show the subject, with credits
 - [ ] Hotels and restaurants are affiliate placeholders, with no invented properties
 - [ ] Sidebar: Book your stay placeholder, Explore rows with icons

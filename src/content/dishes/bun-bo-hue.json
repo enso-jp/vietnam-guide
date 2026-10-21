@@ -2,19 +2,28 @@
   "slug": "bun-bo-hue",
   "name": "Bun bo Hue",
   "nameVi": "Bún bò Huế",
-  "summary": "Bun bo Hue is a spicy beef and pork noodle soup from Hue, stained with annatto and finished with lemongrass and shrimp paste. It is heavier and hotter than pho.",
-  "origin": "Hue. The city version is the one to judge the dish by.",
+  "summary": "Rice noodles in a beef-and-pork broth, heartier than pho, with lemongrass and shrimp paste.",
+  "origin": "Hue. The culture department places the bowl at Dong Ba market.",
+  "culture": [
+    "Vietnam Tourism treats bun bo Hue as the heartier bowl beside pho. The city’s culture department ties the bowl it describes to Dong Ba market: beef and pork bones, beef, pork loaf, hock, banana flower, and herbs."
+  ],
+  "texture": [
+    "The national page puts beef brisket in the bowl with pork hock, trotter, congealed blood, and loin, over rice noodles. The culture department also names banana flower."
+  ],
+  "taste": [
+    "Vietnam Tourism seasons the broth with garlic, shallots, paprika, shrimp paste, lemongrass, herbs, and lime. The culture department calls that broth rich from the beef and pork bones."
+  ],
   "howToEat": [
-    "Herbs and lime come with the bowl. The national page also names lemongrass, shrimp paste, and chili in the broth. It does not describe a spoon gesture.",
-    "The culture department’s 2014 note places a Dong Ba bowl with banana flower and herbs. A house number for the market is check on arrival.",
-    "Nothing on these pages sets the bowl at a clock hour. The price is check on arrival."
+    "Herbs and lime come with the bowl.",
+    "Eat it at Dong Ba. A house number and a clock hour are check on arrival."
   ],
   "where": [
-    "In Hue, eat it at Dong Ba market. The culture department’s 2014 note places the bowl there. The market’s street number is check on arrival.",
-    "In Da Nang, Bà Hương at 229 Đống Đa serves it. The Hue city bowl is the one to judge."
+    "Dong Ba market. The street number is check on arrival.",
+    "In Da Nang, Bà Hương at 229 Đống Đa serves it. The Hue bowl is the one to judge."
   ],
   "priceBand": "Check on arrival.",
   "placeSlugs": ["hue"],
-  "seoTitle": "Bun bo Hue — the spicy noodle soup",
-  "seoDescription": "How bun bo Hue differs from pho, and how to eat a bowl in Hue."
+  "verified": "21 Oct 2026",
+  "seoTitle": "Bun bo Hue — beef-and-pork noodles",
+  "seoDescription": "A beef-and-pork noodle bowl, heartier than pho, eaten at Dong Ba market in Hue. The price and the hour are check on arrival."
 }

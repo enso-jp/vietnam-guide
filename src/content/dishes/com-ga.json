@@ -2,19 +2,32 @@
   "slug": "com-ga",
   "name": "Com ga",
   "nameVi": "Cơm gà",
-  "summary": "Com ga is chicken with turmeric rice. Da Nang serves two habits side by side: a Hong Kong-style plate and the Hoi An plate, with shredded chicken and a sharper dip.",
-  "origin": "Hoi An made the central-coast version famous. Da Nang shops cook both that plate and a Hong Kong-style chicken rice on the same streets.",
+  "summary": "Chicken and yellow rice. In Hoi An the chicken is shredded and the rice takes turmeric and broth. Da Nang also serves a fried plate.",
+  "origin": "Hoi An. Vietnam Tourism says the plate is believed to come from Hainanese chicken rice.",
+  "history": [
+    "Vietnam Tourism says Hoi An’s cơm gà is believed to come from a Hainanese dish brought by Chinese immigrants, the same family of chicken rice eaten in Singapore, Thailand, and Malaysia."
+  ],
+  "culture": [
+    "Hoi An’s food page treats the plate as a dish of the old trading port: a Chinese technique, then Vietnamese sides. You order it when you want rice instead of the town’s noodles."
+  ],
+  "texture": [
+    "In Hoi An the chicken is poached and shredded. The rice is a yellow pilaf cooked with chicken broth and turmeric. Herbs, a bowl of chicken soup, and a sour papaya salad come with the plate."
+  ],
+  "taste": [
+    "The salad is sour. The rice is fragrant from the broth and the turmeric."
+  ],
   "howToEat": [
-    "Ask which chicken the shop is cooking before you sit. The rice looks similar. The chicken and the dip do not.",
-    "Eat the dip with the meat, not as a soup on the side.",
-    "Lunch is the hour. A cold plate from the morning is the one to skip."
+    "Eat the shredded chicken with the rice, the herbs, and the papaya salad. Leave the soup in its bowl.",
+    "The photograph is a fried chicken-rice plate. It is not the shredded Hoi An plate.",
+    "In Da Nang, ask which chicken the shop is cooking. Hồng Ngọc, 193 Nguyễn Chí Thanh, is the Hong Kong-style plate. Tú Tài, 62 Hải Phòng, is the Hoi An-style plate."
   ],
   "where": [
-    "In Hoi An the plate is shredded chicken, turmeric rice, herbs, a bowl of chicken soup, and a sour papaya salad. Eat that plate in Hoi An.",
+    "Eat the shredded plate in Hoi An.",
     "Hồng Ngọc, 193 Nguyễn Chí Thanh, is the Hong Kong-style plate. Tú Tài, 62 Hải Phòng, is the Hoi An-style plate."
   ],
-  "priceBand": "A shop plate is an everyday lunch.",
+  "priceBand": "Check on arrival.",
   "placeSlugs": ["da-nang", "hoi-an"],
-  "seoTitle": "Com ga — chicken rice in Da Nang",
-  "seoDescription": "Com ga is chicken with turmeric rice. In Da Nang, Hong Ngoc at 193 Nguyen Chi Thanh cooks a Hong Kong-style plate, and Tu Tai at 62 Hai Phong cooks the Hoi An style."
+  "verified": "21 Oct 2026",
+  "seoTitle": "Com ga — chicken rice in Hoi An and Da Nang",
+  "seoDescription": "Hoi An’s com ga is shredded poached chicken, turmeric rice, herbs, soup, and sour papaya. In Da Nang, Hong Ngoc and Tu Tai cook two different plates."
 }

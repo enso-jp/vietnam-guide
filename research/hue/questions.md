@@ -37,5 +37,13 @@ Checked: 21 Oct 2026. Public fields that depend on these stay “Check on arriva
 - Phu Cam’s door. The city page prints both 01 Đoàn Hữu Trưng and 06 Nguyễn Trường Tộ, and two ward spellings.
 - Bao Quoc hours. 07:00–17:00 is one directory. No second source. The fee is still check on arrival.
 - Com hen now has a plate photograph. The stall price and the clock hour are still check on arrival.
+- Bun bo Hue has no sourced founding date. The live Vietnam Tourism page lists paprika, not chili, and calls the bowl heartier than pho, not hotter. Dong Ba’s street number and door hour stay check on arrival.
+- Com hen is leftover rice on the national page, not a sourced “cold” plate. No utensil is named. A second photo without a burned-in logo was not found.
+- Banh khoai has no date of its own and no second photo. Kim Long has no licensed street photo, so the food guide has no Kim Long card.
+- Banh nam has no street that can be published. The shop on the national page stays off the page.
+- Nem lui has no street name and no court-origin source. The second photo is the dish, taken in Binh Tan, not a Hue stall.
+- Che has no Hue alley name and no photo that is Hue chè. No card.
+- Bun thit nuong has no licensed photo in this pass. No new page.
+- Com ga: no year for the Hainanese account, no sourced taste for the Hong Kong-style plate, and no second photo of the shredded Hoi An plate. The hero remains the fried chicken-rice plate from Dong Ha.
 - Ticket-site coordinates now exist for Gia Long, Thieu Tri, Dong Khanh, An Dinh, and Nam Giao. The older “none recorded” line does not cover those five. Minutes on site, including Gia Long, are still check on arrival.
 - Thanh Toan’s exact rebuilt length. The English national page says about 17 m by about 4 m. A later national article differs. The public page uses the “about” figures.

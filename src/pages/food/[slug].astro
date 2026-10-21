@@ -42,15 +42,40 @@ const crumbSchema = [
 ];
 const creditsPath = join(process.cwd(), 'public', 'photos', 'credits.json');
 const credits: Record<string, { author?: string; license?: string }> = existsSync(creditsPath) ? JSON.parse(readFileSync(creditsPath, 'utf8')) : {};
-const leadDish = leadSlug ? getDishes().find((item) => item.slug === leadSlug) : null;
+function dishWithPhoto(slug: string) {
+  const item = getDishes().find((entry) => entry.slug === slug);
+  return item && photoPath(item.slug) ? item : null;
+}
+const leadDishes = kind === 'guide' ? guide.dishSlugs.map(dishWithPhoto).filter((item) => item !== null) : [];
+const guideBlocks = kind === 'guide'
+  ? (guide.sections || []).map((section) => {
+      const dishes = (section.dishSlugs || [])
+        .filter((slug) => !guide.dishSlugs.includes(slug))
+        .map(dishWithPhoto)
+        .filter((item) => item !== null);
+      const spots = (section.spots || []).filter((spot) => spot.photo && photoPath(spot.photo) && spot.caption);
+      return { section, dishes, spots };
+    }).filter((block) => block.dishes.length || block.spots.length)
+  : [];
 const guideNav = kind === 'guide' ? [
-  { id: 'overview', label: 'Overview' },
   { id: 'dishes', label: 'Specialties' },
-  ...(guide.sections || []).filter((section) => !section.hideNav).map((section) => ({
-    id: section.id,
-    label: section.nav || section.heading,
+  ...guideBlocks.filter((block) => !block.section.hideNav).map((block) => ({
+    id: block.section.id,
+    label: block.section.nav || block.section.heading,
   })),
 ] : [];
+const dishSections = kind === 'dish' && dish ? [
+  ...(dish.history?.length ? [{ id: 'history', label: 'History', paragraphs: dish.history }] : []),
+  ...(dish.culture?.length ? [{ id: 'culture', label: 'Why it matters', paragraphs: dish.culture }] : []),
+  ...(dish.texture?.length ? [{ id: 'texture', label: 'Texture', paragraphs: dish.texture }] : []),
+  ...(dish.taste?.length ? [{ id: 'taste', label: 'Taste', paragraphs: dish.taste }] : []),
+  ...(!dish.history?.length && !dish.culture?.length && !dish.texture?.length && !dish.taste?.length && dish.origin
+    ? [{ id: 'origin', label: 'Where it comes from', paragraphs: [dish.origin] }]
+    : []),
+  ...(dish.howToEat.length ? [{ id: 'how-to-eat', label: 'How to enjoy it', paragraphs: dish.howToEat }] : []),
+  { id: 'where', label: 'Where to try it', paragraphs: dish.where || [] },
+] : [];
+const secondPhoto = kind === 'dish' && dish && photoPath(`${dish.slug}-2`) ? `${dish.slug}-2` : '';
 ---
 <Base title={title} description={description} path={path} jsonLd={[article(title, description, path, image), breadcrumbList(crumbSchema)]} ogImage={image}>
   <article class="wrap section">
@@ -69,27 +94,22 @@ const guideNav = kind === 'guide' ? [
           <div><span>From</span><strong>{dish.origin.split('.')[0]}</strong></div>
           <div><span>Price</span><strong>{dish.priceBand}</strong></div>
         </div>
-        <SectionNav
-          label={`${dish.name} sections`}
-          items={[
-            { id: 'origin', label: 'Where it comes from' },
-            { id: 'how-to-eat', label: 'How to eat it' },
-            { id: 'where', label: 'Where to try it' },
-          ]}
-        />
+        {dish.verified && <p class="note">Facts verified {dish.verified}. Fees and hours change; confirm before you go.</p>}
+        <SectionNav label={`${dish.name} sections`} items={dishSections.map((section) => ({ id: section.id, label: section.label }))} />
         <div class="reading place-body">
-          <section id="origin" class="place-section">
-            <h2>Where it comes from</h2>
-            <p>{dish.origin}</p>
-          </section>
-          <section id="how-to-eat" class="place-section">
-            <h2>How to eat it</h2>
-            {dish.howToEat.map((paragraph) => <p>{paragraph}</p>)}
-          </section>
-          <section id="where" class="place-section">
-            <h2>Where to try it</h2>
-            {(dish.where || []).map((paragraph) => <p>{paragraph}</p>)}
-            {!(dish.where || []).length && <p>Cities where this dish is eaten.</p>}
+          {dishSections.map((section) => (
+            <>
+              {secondPhoto && section.id === 'how-to-eat' && (
+                <figure class="food-hero">
+                  <Photo id={secondPhoto} alt={`${dish.name}, ${dish.nameVi}`} />
+                  {credits[secondPhoto] && <figcaption>Photo: {credits[secondPhoto].author} · {credits[secondPhoto].license}</figcaption>}
+                </figure>
+              )}
+              <section id={section.id} class="place-section">
+                <h2>{section.label}</h2>
+                {section.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
+                {section.id === 'where' && !(dish.where || []).length && <p>Cities where this dish is eaten.</p>}
+                {section.id === 'where' && (
             <ul class="guide-list">
               {dish.placeSlugs.map((slug) => {
                 const home = getPlace(slug);
@@ -102,7 +122,16 @@ const guideNav = kind === 'guide' ? [
                 ) : null;
               })}
             </ul>
-          </section>
+                )}
+              </section>
+            </>
+          ))}
+          {secondPhoto && !dishSections.some((section) => section.id === 'how-to-eat') && (
+            <figure class="food-hero">
+              <Photo id={secondPhoto} alt={`${dish.name}, ${dish.nameVi}`} />
+              {credits[secondPhoto] && <figcaption>Photo: {credits[secondPhoto].author} · {credits[secondPhoto].license}</figcaption>}
+            </figure>
+          )}
         </div>
       </>
     )}
@@ -110,81 +139,43 @@ const guideNav = kind === 'guide' ? [
       <>
         <h1>{guide.name}</h1>
         <p class="lede">{guide.summary}</p>
-        {leadDish && (
-          <figure class="food-hero">
-            <a href={`/food/${leadDish.slug}`}>
-              <Photo id={leadDish.slug} alt={`${leadDish.name}, ${leadDish.nameVi}`} priority={true} />
-            </a>
-            <figcaption>
-              <a href={`/food/${leadDish.slug}`}>{leadDish.name} <span class="vi" lang="vi">{leadDish.nameVi}</span></a>
-            </figcaption>
-          </figure>
-        )}
-        {leadDish && credits[leadDish.slug] && <p class="note photo-credit">Photo: {credits[leadDish.slug].author} · {credits[leadDish.slug].license}</p>}
+        {guide.verified && <p class="note">Facts verified {guide.verified}. Fees and hours change; confirm before you go.</p>}
         <SectionNav label={`${guide.name} sections`} items={guideNav} />
         <div class="reading place-body">
-          <section id="overview" class="place-section">
-            {guide.body.map((paragraph) => <p>{paragraph}</p>)}
-            {city && <p><a href={placePath(city)}>{city.name} travel guide</a></p>}
-          </section>
           <section id="dishes" class="place-section">
             <h2>Specialties</h2>
-            {guide.specialtiesLead && <p>{guide.specialtiesLead}</p>}
-            {guide.dishSlugs.map((slug) => {
-              const item = getDishes().find((entry) => entry.slug === slug);
-              if (!item) return null;
-              const photo = photoPath(item.slug);
-              return (
-                <a class:list={['dish-feature', { 'has-photo': Boolean(photo) }]} href={`/food/${item.slug}`}>
-                  {photo && <Photo id={item.slug} alt={`${item.name}, ${item.nameVi}`} />}
-                  <span>
-                    <strong>{item.name} <span class="vi" lang="vi">{item.nameVi}</span></strong>
-                    <em>{item.summary}</em>
-                    <small>{item.howToEat[0]}</small>
-                  </span>
+            <div class="food-grid">
+              {leadDishes.map((item) => (
+                <a class="food-card" href={`/food/${item.slug}`}>
+                  <span class="media"><Photo id={item.slug} alt={`${item.name}, ${item.nameVi}`} priority={item.slug === leadSlug} /></span>
+                  <strong>{item.name} <span class="vi" lang="vi">{item.nameVi}</span></strong>
+                  <em>{cardLine(item.summary)}</em>
                 </a>
-              );
-            })}
+              ))}
+            </div>
           </section>
-          {(guide.sections || []).map((section) => (
-            <section id={section.id} class="place-section">
-              <h2>{section.heading}</h2>
-              {section.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
-              {section.spots && section.spots.length > 0 && (
-                <ul class="spot-list">
-                  {section.spots.map((spot) => {
-                    const linked = spot.dishSlug ? getDishes().find((entry) => entry.slug === spot.dishSlug) : null;
-                    const name = <strong>{spot.name}{spot.nameVi && <> <span class="vi" lang="vi">{spot.nameVi}</span></>}</strong>;
-                    return (
-                      <li class="spot">
-                        {linked ? <a href={`/food/${linked.slug}`}>{name}</a> : name}
-                        <p>{spot.note}</p>
-                        {spot.address && <p class="spot-address">{spot.address}</p>}
-                      </li>
-                    );
-                  })}
-                </ul>
-              )}
-              {section.dishSlugs && section.dishSlugs.length > 0 && (
-                <div>
-                  {section.dishSlugs.map((slug) => {
-                    const item = getDishes().find((entry) => entry.slug === slug);
-                    if (!item) return null;
-                    const photo = photoPath(item.slug);
-                    return (
-                      <a class:list={['dish-feature', { 'has-photo': Boolean(photo) }]} href={`/food/${item.slug}`}>
-                        {photo && <Photo id={item.slug} alt={`${item.name}, ${item.nameVi}`} />}
-                        <span>
-                          <strong>{item.name} <span class="vi" lang="vi">{item.nameVi}</span></strong>
-                          <em>{cardLine(item.summary)}</em>
-                        </span>
-                      </a>
-                    );
-                  })}
-                </div>
-              )}
+          {guideBlocks.map((block) => (
+            <section id={block.section.id} class="place-section">
+              <h2>{block.section.heading}</h2>
+              <div class="food-grid">
+                {block.spots.map((spot) => (
+                  <article class="food-card">
+                    <span class="media"><Photo id={spot.photo || ''} alt={spot.name} /></span>
+                    <strong>{spot.name}{spot.nameVi && <> <span class="vi" lang="vi">{spot.nameVi}</span></>}</strong>
+                    <em>{spot.caption}</em>
+                  </article>
+                ))}
+                {block.dishes.map((item) => (
+                  <a class="food-card" href={`/food/${item.slug}`}>
+                    <span class="media"><Photo id={item.slug} alt={`${item.name}, ${item.nameVi}`} /></span>
+                    <strong>{item.name} <span class="vi" lang="vi">{item.nameVi}</span></strong>
+                    <em>{cardLine(item.summary)}</em>
+                  </a>
+                ))}
+              </div>
             </section>
           ))}
+          {city && <p><a href={placePath(city)}>{city.name} travel guide</a></p>}
         </div>
       </>
     )}

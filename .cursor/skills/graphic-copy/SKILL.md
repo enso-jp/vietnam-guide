@@ -21,7 +21,7 @@ Do not invent a layout, a fee, an hour, a visa rule, a hotel, a restaurant, a sc
 - Photos in `public/photos/` and the matching credit in `public/photos/credits.json`.
 - The place `season` only when the dossier has a sourced season note.
 
-Leave the template components alone. A visual pass is `.cursor/skills/ui-ux/SKILL.md`. Hotels and Restaurants stay affiliate placeholders. The food guide page stays the menu. Do not paste a booking widget.
+Leave the template components alone unless the owner has asked for the food page shape. A visual pass is `.cursor/skills/ui-ux/SKILL.md`. Hotels and Restaurants stay affiliate placeholders. The food guide is photo-led: dish cards and short captions, not an essay and not a list of hours. A dish page carries history, culture, texture, taste, and how to enjoy it, and leaves out any of those a source does not support. Do not paste a booking widget.
 
 ## Copy
 

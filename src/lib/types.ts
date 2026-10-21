@@ -178,11 +178,18 @@ export interface Dish {
   nameVi: string;
   summary: string;
   origin: string;
+  /** Sourced history. Leave it out when no source gives one. */
+  history?: string[];
+  /** Why the dish matters where it is eaten. */
+  culture?: string[];
+  texture?: string[];
+  taste?: string[];
   howToEat: string[];
   /** Streets and shops. Shown before the city list. */
   where?: string[];
   priceBand: string;
   placeSlugs: string[];
+  verified?: string;
   seoTitle: string;
   seoDescription: string;
 }
@@ -191,7 +198,11 @@ export interface FoodSpot {
   name: string;
   nameVi?: string;
   address?: string;
-  note: string;
+  /** Short caption. Hours stay out of this line. */
+  caption?: string;
+  /** Older guides. The food template does not print this as a paragraph. */
+  note?: string;
+  photo?: string;
   dishSlug?: string;
 }
 
@@ -218,6 +229,7 @@ export interface FoodGuide {
   specialtiesLead?: string;
   sections?: FoodSection[];
   dishSlugs: string[];
+  verified?: string;
   seoTitle: string;
   seoDescription: string;
 }

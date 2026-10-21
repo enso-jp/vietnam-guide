@@ -44,7 +44,9 @@ Each interest card has its own photograph. The same picture is not repeated acro
 
 ## Food
 
-The food-guide writing can stay comprehensive. It needs many more pictures. A section without a real photo stays without one. Do not duplicate another section’s photo to fill the gap.
+The city food guide is photo-led. Dish photo cards and short captions. Not an essay, and not a list of hours. A section without a real photo stays without one. Do not duplicate another section’s photo to fill the gap.
+
+Each dish page covers the history of the dish, why it matters culturally, texture, taste, and how to best enjoy it, plus a licensed photo and a second when one exists. Leave out any of those points you cannot source. Do not invent them.
 
 ## Events
 

@@ -2,45 +2,35 @@
   "slug": "hue",
   "name": "Hue food guide",
   "placeSlug": "hue",
-  "summary": "Hue eats bun bo at Dong Ba, com hen on Hen Island, and a plate of small steamed cakes. No stall price is published. The shops people name in passing stay off this page.",
+  "summary": "Start with bun bo Hue, then com hen on Hen Island, then the small cakes.",
   "heroSlug": "bun-bo-hue",
-  "body": [
-    "Start with the bowl that belongs here. Bun bo Hue is rice noodles in a beef-and-pork broth, heavier and hotter than pho, with lemongrass, shrimp paste, chili, herbs, and lime. The culture department places a bowl at Dong Ba market. A clock hour for it is check on arrival.",
-    "Com hen is the other plate: cold rice and tiny clams on Hen Island. The small cakes, bánh bèo among them, are a snack after the market, not a dinner. Nothing on the national pages sets a stall price. Treat every number you are quoted as check on arrival."
-  ],
-  "specialtiesLead": "These are the dishes with their own pages. Bánh nậm, bún thịt nướng, and chè stay in the sections below and do not have a Hue page.",
-  "dishSlugs": ["bun-bo-hue", "banh-beo", "com-hen", "banh-khoai", "nem-lui", "banh-mi"],
+  "body": [],
+  "dishSlugs": ["bun-bo-hue", "com-hen", "banh-beo", "banh-khoai", "banh-nam", "nem-lui"],
   "sections": [
     {
       "id": "where",
       "heading": "Where to eat",
       "nav": "Where to eat",
-      "paragraphs": [
-        "Dong Ba market is the daytime start. Vietnam Tourism sends you there before bánh khoái and bánh bèo, and the culture department places a bun bo Hue bowl inside the market. A street number and a door hour are check on arrival. The “16 Le Loi” line on a thin city page is the portal’s contact block, not a market door.",
-        "Hen Island, Cồn Hến, is the com hen stop. Cross Ưng Bình bridge. The walk is under half an hour. Vietnam Tourism says the island disappears when the city floods, so skip it in a flood week. Stalls there sell cơm hến and bún hến. Chi Lăng and Bạch Đằng, on the far side, are the afternoon streets the same page names. Shop names on that page are not picks here.",
-        "Kim Long is the north-bank road toward Thien Mu. The national “how to eat” page places bánh khoái and bún thịt nướng along it. The shop doors it prints are notes, not a list to publish. Eat on the way to the pagoda, in the daytime."
+      "paragraphs": [],
+      "spots": [
+        {
+          "name": "Dong Ba Market",
+          "nameVi": "Chợ Đông Ba",
+          "photo": "hue-dong-ba",
+          "caption": "The market for a bun bo Hue bowl.",
+          "note": "The market for a bun bo Hue bowl."
+        }
       ]
-    },
-    {
-      "id": "cakes",
-      "heading": "Cakes and snacks",
-      "nav": "Cakes",
-      "paragraphs": [
-        "Bánh bèo is a set of small steamed rice cakes in little saucers, topped with dried shrimp, pork crackling, shallots, and scallion oil. A few drops of slightly sweetened fish sauce, then the cake from the dish. It is a snack. A Hue street that is not a shop name is check on arrival.",
-        "Bánh nậm is a flat steamed rice dumpling in a banana leaf, with minced pork and shrimp, dipped in fish sauce. Bánh khoái and nem lụi have their own pages: the crepe along Kim Long, and the grilled pork skewer from a street the national page does not name. Chè is a sweet soup in alleys that page does not name. A clock for each of these is check on arrival."
-      ],
-      "dishSlugs": ["banh-beo"]
     },
     {
       "id": "neighbors",
       "heading": "The neighbor bowls",
       "nav": "Neighbors",
-      "paragraphs": [
-        "Cao lau belongs in Hoi An. Mi Quang belongs in Da Nang. Eat them there when that bowl is the reason for the ride. Banh mi is the shared sandwich. The Hue food pages do not single out a Hue filling, so this guide adds no Hue sentence to that page."
-      ],
+      "paragraphs": [],
       "dishSlugs": ["cao-lau", "mi-quang", "banh-mi"]
     }
   ],
+  "verified": "21 Oct 2026",
   "seoTitle": "Hue food guide — bun bo, com hen, and steamed cakes",
-  "seoDescription": "Start at Dong Ba for bun bo Hue and cross to Hen Island for com hen. The small cakes are a snack. No stall price is published, and hours are check on arrival."
+  "seoDescription": "Bun bo Hue at Dong Ba, com hen on Hen Island, and the small cakes. No stall price is published. Hours are check on arrival."
 }
