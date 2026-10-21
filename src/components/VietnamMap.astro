@@ -9,6 +9,7 @@ interface Props {
 }
 const { variant = 'compact', active, linked = true } = Astro.props;
 const showCities = variant === 'home';
+const home = variant === 'home';
 const cityRegion: Record<string, string> = {
   sapa: 'northern-vietnam',
   'ha-giang': 'northern-vietnam',
@@ -28,10 +29,12 @@ const cityRegion: Record<string, string> = {
 };
 ---
 <svg
-  class:list={['map-svg', 'map-vietnam', { 'map-compact': variant === 'compact' }]}
+  class:list={['map-svg', 'map-vietnam', { 'map-home': home, 'map-compact': variant === 'compact' }]}
   viewBox={vietnamViewBox}
   aria-label="Map of Vietnam by travel corridor"
 >
+  {home && <rect class="map-water" x="0" y="0" width="448.8" height="557.6" fill="#d5e6ee"></rect>}
+  {home && <image href="/map/vietnam-relief.png" x="0" y="0" width="448.8" height="557.6"></image>}
   {vietnamRegions.map((region) => {
     const on = region.slug === active;
     return linked ? (
