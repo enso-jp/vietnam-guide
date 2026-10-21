@@ -12,6 +12,8 @@ description: >-
 
 Build one place until its page has the same layers as the Tokyo city guide. Follow `AGENTS.md`. A corridor skill such as `central-coast` still owns the facts for that beat. This skill owns the shape.
 
+Read `.cursor/skills/destination-standard/SKILL.md` before a city pass. The shared template shows nine attraction cards, then an expand control for the rest. The first interest card is Dining and F&B and opens this place’s food guide. Interest groups come from this place’s own data.
+
 This pass runs after research. Start only when every research lane on `ops/board/places/<slug>.json` is `stored` or `blocked`, `research/<slug>/STATUS.md` says `stored`, and the board has claimed this place and this stage. Read `.cursor/skills/content-board/SKILL.md`. If a research lane is still `not_started` or `needs_depth`, stop.
 
 The claimed stage is the scope of this pass. `destination` writes the place shell, interests, one itinerary, festivals, nearby, and stay areas. It does not add a new attraction file. `food` writes the food guide and bundled dishes the dossier already sourced. `page` writes the one attraction named by the claim. When that stage is complete, claim the next stage for this same place. Do not fold the next stage into this stage's files.
@@ -25,7 +27,7 @@ Do not invent a fee, an hour, a visa rule, a tax rate, or a partner ID. If a fee
 Each city tab is one template. The template reads JSON. Do not hard-code a city’s sights into the component.
 
 - Attractions and events: photo cards in a grid. Image on top, a number on the photo, name, one useful line, editor dots, and the whole card is the link. The image id is `{placeSlug}-{slug}`. A missing file falls back to the place photo.
-- By interest: the heading is `{Place} by interest`. Never “Related interests”. Cards sit under a group heading. The card is a tall rounded photo. The guide name and a small line icon sit on the bottom of the image. A round white arrow sits on the right edge of the row and moves it. Hide the scrollbar. Do not put Previous and Next text buttons above the row. One card is `{Place} Food Guide` with `"to": "food"`. It links to `/food/{slug}`, which is its own page.
+- By interest: the heading is `{Place} by interest`. Never “Related interests”. Cards sit under a group heading from this place’s `interestGroups`. The card is a tall rounded photo. The guide name and a small line icon sit on the bottom of the image. A round white arrow sits on the right edge of the row and moves it. Hide the scrollbar. Do not put Previous and Next text buttons above the row. The first card is Dining and F&B. It links to `/food/{slug}`, which is its own page. See `.cursor/skills/destination-standard/SKILL.md`.
 - Itineraries: the same rounded row, headed `{Place} itineraries`. Set up at least one itinerary whose stops resolve, and a second when the city supports a longer stay. Card image is the itinerary `photo`, otherwise the first stop’s attraction image. The itinerary page lists stops as clickable photo rows.
 - Side trips use the same photo cards. Hotels and restaurants are the affiliate row: photo on the left, area name, one line, and a button. A hotel row is not a booking widget and not a named property.
 - Tabs stay anchors on one page. The sticky tab marks the section in view.
@@ -70,7 +72,7 @@ The city page, top to bottom:
 2. Area pages for a district that is itself a destination, on the Tsukiji model.
 3. Events and activities.
 4. Suggested side trips to nearby places or provinces. Placeholder until that neighbor is written.
-5. `{Place} by interest`, in groups. The food guide is one card inside the food group and opens `/food/{slug}`. Do not title the section “Related interests”.
+5. `{Place} by interest`, in groups from this place. The first card is Dining and F&B and opens `/food/{slug}`. Do not title the section “Related interests”. See `.cursor/skills/destination-standard/SKILL.md`.
 6. Itinerary ideas. At least one itinerary, and a second when a longer stay is a real choice. The carousel and the itinerary page both use the stop records.
 7. Hotels and restaurants are affiliate slots. Use the placeholder row until a partner catalog is connected.
 8. Sidebar: Book your stay placeholder, then Explore with icons, then articles. Ads stay off.
@@ -90,7 +92,7 @@ The page is not a wall of text. After the first intro paragraph, one photo of th
 | Activities that are sights | Attractions | Do not make a second list of the same sights. |
 | Side trips | `nearby` slugs that already exist | If the neighbor has no page, do not create it in this pass. |
 | Food | `src/content/food/<place>.json`, with `sections`, and `src/content/dishes/` | Opening, specialty blocks, where to eat, breakfast, and the neighbor. Areas, not a restaurant catalog. |
-| Other interests | `interestGroups`, each with a local title and its cards | Heading is `{Place} by interest`. Cards sit under the group. One card is the food guide. |
+| Other interests | `interestGroups`, each with a local title and its cards | Heading is `{Place} by interest`. Cards sit under the group. The first card is Dining and F&B. |
 | Itinerary | `src/content/itineraries/<slug>.json` | Stops point at `placeSlug`, `attractionSlug`, or `dishSlug`. Add the slug to `itinerarySlugs`. |
 | Stay and restaurants | `stayAreas` for the stay-row placeholder; `eat` and `dishSlugs` feed the food guide | The city-page Hotels and Restaurants sections are affiliate slots. Do not invent a property. |
 | Season | `season` | Do not rewrite `intro` into a weather report. |
@@ -110,7 +112,7 @@ Link `nearby` only when the slug exists. In the draft summary, list neighbors th
 
 The heading is `{Place} by interest`. Group the cards. A flat row of unrelated sights is not the section.
 
-Each group has a local name and one sentence on who it is for. Render the group heading, then that group’s rounded photo cards. Useful groups look like street food, markets, beaches, history, nightlife, shopping, and fine dining. Use a group only when this place has it. Do not copy Tokyo’s list. Beach and beach bars belong in one beaches group. A museum belongs in history. The food guide is one card, inside the food group, with `"to": "food"`.
+Each group has a local name and one sentence on who it is for. Render the group heading, then that group’s rounded photo cards. Useful groups look like street food, markets, beaches, history, nightlife, shopping, and fine dining. Use a group only when this place has it. Do not copy Tokyo’s list or another city’s groups. Beach and beach bars belong in one beaches group. A museum belongs in history. The first card is Dining and F&B and opens `/food/{slug}`. See `.cursor/skills/destination-standard/SKILL.md`.
 
 A scene with no single venue, such as beach bars, still gets a card. Link the nearest real attraction and say the guide does not name a venue. Use a distinct `photo` id when the shared attraction photo would repeat.
 
@@ -183,7 +185,7 @@ Copy and complete:
 - [ ] Area page, if a district is a destination of its own
 - [ ] Festivals, or an explicit note that none are recorded
 - [ ] Side trips: real slugs, plus placeholders in the draft summary
-- [ ] `{Place} by interest` grouped, including `{Place} Food Guide` linking to `/food/{slug}`
+- [ ] `{Place} by interest` grouped from this place, with Dining and F&B first, linking to `/food/{slug}`
 - [ ] Attraction records exist for the sights. A finished sight page is a later pass under `.cursor/skills/attraction-page/SKILL.md`, not this one
 - [ ] Each dish page has its own photo, how to eat it, and where to try it by area
 - [ ] Itinerary page: each day is a photo row, with the stay sidebar. Walks keep stop photos.

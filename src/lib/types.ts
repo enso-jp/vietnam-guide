@@ -93,6 +93,13 @@ export interface InterestCard {
   to?: 'food';
 }
 
+export interface InterestGroup {
+  title: string;
+  /** One sentence on who this group is for. */
+  summary?: string;
+  cards: InterestCard[];
+}
+
 export interface Place {
   slug: string;
   name: string;
@@ -127,6 +134,8 @@ export interface Place {
   dishSlugs: string[];
   interestsBody: string[];
   interestCards?: InterestCard[];
+  /** Local interest groupings. The template does not invent another city's groups. */
+  interestGroups?: InterestGroup[];
   faqs: Faq[];
   season?: { label: string; note: string };
 }

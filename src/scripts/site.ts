@@ -464,3 +464,19 @@ document.querySelectorAll<HTMLElement>('[data-book]').forEach((root) => {
     go(mode === 'food' ? '/food' : '/itineraries', kind);
   });
 });
+
+const attractionMore = document.querySelector('#attractions details.list-more');
+if (attractionMore) {
+  const revealHashedAttraction = () => {
+    const id = decodeURIComponent(location.hash.replace(/^#/, ''));
+    if (!id) return;
+    const card = attractionMore.querySelector<HTMLElement>(`#${CSS.escape(id)}`);
+    if (!card) return;
+    if (attractionMore instanceof HTMLDetailsElement && !attractionMore.open) {
+      attractionMore.open = true;
+      requestAnimationFrame(() => card.scrollIntoView());
+    }
+  };
+  revealHashedAttraction();
+  window.addEventListener('hashchange', revealHashedAttraction);
+}
