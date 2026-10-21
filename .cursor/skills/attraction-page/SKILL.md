@@ -14,7 +14,9 @@ One sight per pass. This skill is the basis for every attraction page. The refer
 
 Follow `AGENTS.md`. How the page looks is `.cursor/skills/ui-ux/SKILL.md`. A city dossier is the index, not the page. Deepen the sight in `research/<place>/attractions/<slug>.md` before editing public JSON. Copy [template.md](template.md). Set that file to `stored` only when every fee, hour, and duration has a source line or `UNSOURCED`.
 
-Do not invent a fee, an hour, a drive time, a coordinate, a visa rule, or a credit. If a number has no source, write “Check on arrival” and list it under Open questions. Do not add a blog, an ad, a review count, a visitor rank, a forum, a map iframe, or a booking form.
+Do not invent a fee, an hour, a drive time, a coordinate, a visa rule, or a credit. If a number has no source, write “Check on arrival” and list it under Open questions. Stamp `verified` with the check date when a fact is checked. Where sources disagree, print both figures and name both sources. Do not add a blog, an ad, a review count, a visitor rank, a forum, a map iframe, or a booking form.
+
+A later decision changed the photo gate. If no licensed photo of this sight exists, stop. Leave the page unpublished, and leave it off the city card. Do not borrow the city banner, a beach, or a neighboring sight. Record `unpublished: no licensed photo` in the attraction research file. The rest of this sight-page standard is unchanged.
 
 ## What was wrong
 
@@ -139,6 +141,7 @@ On `Attraction` in `src/lib/types.ts`. A stub may omit the optional fields. A fi
 ## Checklist
 
 ```
+- [ ] A licensed photo of this sight exists. If it does not, the page stays unpublished
 - [ ] `research/<place>/attractions/<slug>.md` says `stored` before the public edit
 - [ ] Every fee, hour, and duration has a source, or “Check on arrival”
 - [ ] Disagreements are both printed, not averaged

@@ -1,20 +1,61 @@
 ---
 name: ui-ux
 description: >-
-  Applies the Vietnam Guide visual system from the finished city page: English
-  place titles, fact bars, lacquer rules, photo cards, and spacing. Use when
-  the user asks for a UI or UX pass, to match the city page, to apply the
-  page guidelines, or to restyle attraction, food, dish, itinerary, festival,
-  interest, home, destination, or guide templates.
+  Applies the Vietnam Guide visual system and the decided page frames: the
+  phone header, the homepage bands and six-region map, the destinations index,
+  Plan a trip, and the one interest slider. Use when the user asks for a UI or
+  UX pass, to match the city page, to apply the page guidelines, or to restyle
+  attraction, food, dish, itinerary, festival, interest, home, destination, or
+  guide templates.
 ---
 
 # UI and UX
 
 The city page is the reference. `src/components/PlaceView.astro` already follows this skill. A later pass brings one other template family up to the same standard.
 
-This skill owns how a page looks. `.cursor/skills/city-setup/SKILL.md` owns what a destination contains. `.cursor/skills/graphic-copy/SKILL.md` owns prose and photo choice. Do not invent a fee, an hour, a sight, a photo, or a sentence in a visual pass. The blog type already exists; do not add a second one. Do not add an ad, a visitor count, or a booking form.
+This skill owns how a page looks, including the frames already decided below. `.cursor/skills/city-setup/SKILL.md` owns what a destination contains. `.cursor/skills/graphic-copy/SKILL.md` owns prose and photo choice, including the selling-point sentence on a region line. Do not invent a fee, an hour, a sight, a photo, or a sentence in a visual pass. The blog type already exists; do not add a second one. Do not add an ad, a visitor count, a flight ad, or a booking form. Do not copy a Japan region list or a Japan trip duration onto these frames.
+
+A template that still shows an older stack is not the standard. Bring that family up to the frame in this skill.
 
 One family per pass. Change the shared template, not one city’s JSON. Stop when that family’s checklist is done.
+
+## Decided page frames
+
+These frames are closed. A later pass uses them as they are written here.
+
+### Header
+
+On a desktop, Destinations, Interests, and Plan a trip sit centered in the bar. The logo stays on the left. Hover shows a photo panel of options. Clicking the name still opens the full page.
+
+On a phone, the logo is centered and the menu is a button at the top right. The homepage opens on a cover photo. The phone menu is Home, Destinations, Interests, and Plan a trip. Saved is removed. The menu has no Forum, Sign in, or Videos.
+
+### Homepage
+
+`src/pages/index.astro`. The top is three bands with space between them: the hero, the highlight cards, and the story plus booking panel. The highlight cards do not cover the hero. The story and the booking panel share one top edge. Highlights and stories are blog posts. Do not invent a story, and do not schedule the blog scout from a visual pass.
+
+The map is on the left and outlines every province. The regions are the six in `src/content/corridors/`: Northern Midlands & Mountains, Red River Delta, North Central Coast, South Central Coast & Central Highlands, Southeastern Vietnam, and Mekong Delta. A clicked region fills red and shows a dot and the name on each of its provinces. Hovering a province turns it light red and shows its dot and name. Unselected provinces are grey outlines with no labels. Hoang Sa and Truong Sa belong to South Central Coast & Central Highlands and are labeled as islands. The region controls sit with the map, not under a blank gap.
+
+The photo cards on the right scale down to the map so no blank sits under the map. Each photo keeps the place name at the bottom left. The paragraph under the stack changes with the region and is the width of that column. See regions is centered under the whole block.
+
+On a phone, the map keeps a margin on both sides so province names are not cut off. Each region is a swipe card under the map. The highlight, the photo, the name, and the one-line description change together.
+
+### Destinations index
+
+`src/pages/destinations/index.astro`. There is no “Vietnam / Find your destination” stack.
+
+On a phone, the region map and the swipe card are both visible on the first screen. Under that, a numbered grid. The grid has no visitor-year line. The order may follow the latest published arrivals, stored so a later pass can use this site’s own visits. Editorial dots stay 1 to 5 and are not recalculated.
+
+Under the grid, a region list. Each region has a small highlighted map. Each place has one plain selling-point line. Graphic and copy writes that sentence.
+
+### Plan a trip
+
+`src/pages/plan/index.astro`. On a phone, the page is a two-column card grid of the sections already on the site. A section that is longer has See all. Vietnam travel news sits at the bottom and links to the existing blog posts, the same posts as the homepage highlights. Each card links into that blog. No invented stories, and no flight ad.
+
+### Interest row
+
+On a place page, interests are one slider. Dining and F&B is the first card when this place has a food guide, and that card opens `/food/{slug}`. What else belongs on the row is `.cursor/skills/city-setup/SKILL.md`. Hide the scrollbar. Do not put Previous and Next text buttons above the row. Do not stack a second slider per group.
+
+The itinerary index is photo cards. A lacquer rule marks a section once. It does not sit under every heading.
 
 ## Visual system
 
@@ -54,13 +95,13 @@ Space between sections is larger than the space between paragraphs. On the city 
 
 The hero has curved corners. The credit is a note under the photo: “Photo: {author} · {license}”.
 
-After the first intro paragraph, one photo breaks the text. It is the highest-dotted attraction on that place. When several sights share that dot, use the one whose interest matches the place’s strongest interest, so a beach city leads with the beach. The caption is the sight’s name, with a short lacquer rule under it. The photo and the caption both link to that sight. If the attraction photo is missing, use the place photo.
+After the first intro paragraph, one photo breaks the text. It is the highest-dotted attraction on that place that has a licensed photo of that sight. When several sights share that dot, use the one whose interest matches the place’s strongest interest, so a beach city leads with the beach. The caption is the sight’s name, with a short lacquer rule under it. The photo and the caption both link to that sight. If that sight has no licensed photo, do not put another picture under its name. The place hero stays the place photo.
 
 Photos are cropped with a center cover, so the file has to be composed for the slot. The hero is 16:9 (`.place-photo`). An attraction card and the intro photo are 3:2 (`.jg-card .media`, `.prose-figure`). An interest card is a tall 3:4 (`.portrait`). Do not set a fixed rem height that slices a 3:2 file into a strip. Graphic and copy crops the file. This skill keeps the slot.
 
-A sight, event, or side-trip card is `.jg-card`: photo on top, a round rank number on the photo, the name, one useful line, editor dots, and a light shadow. The whole card is the link. The image id is `{placeSlug}-{slug}`. A missing file falls back to the place photo.
+A sight, event, or side-trip card is `.jg-card`: photo on top, a round rank number on the photo, the name, one useful line, editor dots, and a light shadow. The whole card is the link. The image id is `{placeSlug}-{slug}`. A sight card uses a licensed photo of that sight. If that file is missing, omit the card. Do not substitute the place photo. A dish card uses a photo of that dish. Whether the record is published is `.cursor/skills/city-setup/SKILL.md`.
 
-An interest or itinerary row is `.portrait`: a tall rounded photo, the name and a small line icon on the image, a round white arrow at the right of the row. Hide the scrollbar. Do not put Previous and Next text buttons above the row.
+An interest row is one `.portrait` slider, as in Decided page frames. The card is a tall rounded photo, the name and a small line icon on the image, and a round white arrow at the right of the row. An itinerary row uses the same card. Hide the scrollbar. Do not put Previous and Next text buttons above the row.
 
 An itinerary day is a photo on the left and the day title plus one paragraph on the right. The row links to that place. A walk keeps stop rows with the stop photo.
 
@@ -88,11 +129,13 @@ These shared rules already reach other templates, without a full pass:
 Work top to bottom. One family, then stop. Mark it here when the template matches.
 
 - [x] **Attraction** — `src/components/AttractionView.astro`. The hero, the caption, the fact bar, the lacquer notice, the hour rows, and the Also in cards are in place. A record with no `body` still renders the short header. Words, the second photo, and the sections are `.cursor/skills/attraction-page/SKILL.md`. Do not add the city sidebar.
-- [x] **Food guide and dish** — `src/pages/food/[slug].astro`. Keep `nameVi` on a dish. The fact strip is two cells. A dish page leads with a photo of the bowl, then history, culture, texture, taste, and how to enjoy it when the record has them, plus a second photo when the file exists. A city food guide is a grid of dish photo cards with short captions. It does not print essays or hours. A section without a real photo is omitted. Shop lists stay in the city food JSON.
+- [x] **Food guide and dish** — `src/pages/food/[slug].astro`. Keep `nameVi` on a dish. The fact strip is two cells. A dish page leads with a photo of the bowl, then history, culture, texture, taste, and how to enjoy it when the record has them, plus a second photo when the file exists. A city food guide is a grid of dish photo cards with short captions. It does not print essays or hours. A section without a real photo is omitted. A shop with no licensed photo stays in the Shopping text. That interest is `.cursor/skills/city-setup/SKILL.md`.
 - [ ] **Itinerary** — `src/pages/itineraries/[slug].astro`. Days are done. The fact strip is three cells in a four-column bar and has no icons. Set the column count and use icons only where the cell matches one.
 - [ ] **Festival** — `src/pages/festivals/[slug].astro`. Keep `nameVi`. The “When” cell is already in the rounded strip, but it sits in a four-column bar and has no icon. Set the column count, use the calendar icon, and turn the place list into rows. Add a photo only when a real festival photo exists. Do not use the city banner and call it the event.
 - [ ] **Interest** — `src/pages/interests/[slug].astro` and `src/pages/interests/index.astro`. Use the same cards as the city page. A nationwide interest links to the place guide. Do not title a block “Related interests”.
 - [x] **Home and destinations** — `src/pages/index.astro`, `src/pages/destinations/index.astro`, `src/pages/destinations/[slug].astro`. Adopt the type, pills, cards, and lacquer. Do not copy the city sidebar or the city fact bar onto the homepage.
+- [ ] **Destinations index frame** — `src/pages/destinations/index.astro`. No “Vietnam / Find your destination” stack. Map and swipe card both on the first phone screen. Numbered grid with no visitor-year line. Region list with a small highlighted map and one plain selling-point line. Editorial dots stay 1 to 5. See Decided page frames.
+- [x] **Plan a trip frame** — `src/pages/plan/index.astro`. Two-column cards of existing sections, See all where a section is longer, Vietnam travel news at the bottom linked to existing blog posts, no flight ad. See Decided page frames.
 - [ ] **Reading pages** — plan guides, routes, seasons, about, search. Use the heading rule, the section gap, and tabs where the page already has sections. Do not add a hero, a fee, or a fact bar the record does not have.
 
 ## Pass checklist
@@ -103,6 +146,7 @@ Work top to bottom. One family, then stop. Mark it here when the template matche
 - [ ] Fact cells match the record, with --fact-cols set
 - [ ] Gaps under tabs and before a lead photo
 - [ ] Photos and cards reuse the city classes
+- [ ] The family matches the decided frame in this skill, when it has one
 - [ ] No new fee, hour, sight, or sentence
 - [ ] Local preview of that template and one neighbor that shares a component
 ```

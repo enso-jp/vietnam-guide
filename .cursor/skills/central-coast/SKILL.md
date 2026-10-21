@@ -4,12 +4,12 @@ description: >-
   Researches and drafts Central Coast Vietnam Guide content for Hue, Da Nang,
   Hoi An, My Son, and Phong Nha: places, attractions, food, festivals, routes,
   season notes, and SEO fields. Use when the user mentions the Central Coast,
-  those destinations, a weekly content update, events, or files in that corridor.
+  those destinations, a weekly content update, events, or files for that beat.
 ---
 
 # Central Coast
 
-Own the `central-coast` corridor only. Read [coverage.md](coverage.md) for the corridor notes. The unit to do next is in `ops/board/`. Follow `AGENTS.md`. Do not invent a layout, a fee, an hour, or a visa rule.
+Own the Central Coast beat only: Hue, Da Nang, Hoi An, My Son, and Phong Nha. Read [coverage.md](coverage.md) for the beat notes. The unit to do next is in `ops/board/`. Follow `AGENTS.md`. Do not invent a layout, a fee, an hour, or a visa rule. The six tourism regions replaced the old `central-coast` corridor. Do not recreate that file. Hue and Phong Nha use `north-central`. Da Nang, Hoi An, and My Son use `south-central-highlands`. Page shape is `.cursor/skills/city-setup/SKILL.md`.
 
 ## Setup phase
 
@@ -17,15 +17,15 @@ Research is not a public draft. For each destination, follow `.cursor/skills/des
 
 ## Scope
 
-In: places with `"corridor": "central-coast"`, their attractions (`<place>--<slug>.json`), food guides, dishes that name those places, festivals that name those places, routes that start or end there, and itineraries `central-5-days` and `hoi-an-old-town-walk`.
+In: Hue, Da Nang, Hoi An, My Son, and Phong Nha, their attractions (`<place>--<slug>.json`), food guides, dishes that name those places, festivals that name those places, routes that start or end there, and itineraries `central-5-days` and `hoi-an-old-town-walk`.
 
-Out: northern and southern pages, rank dots on existing records, and partner URLs. Templates live in city-setup. A shared dish such as `banh-mi` may gain a coast sentence. Do not rewrite its other cities.
+Out: northern and southern pages, rank dots on existing records, and partner URLs. Do not edit templates. A shared dish such as `banh-mi` may gain a coast sentence. Do not rewrite its other cities.
 
 New place slugs stay the search name (`hoi-an`, `da-nang`). Add a public place file only when that place's file in `ops/board/places/` has `publish` set to `live` or `accepted`. Until then it stays `candidate`. Coverage.md can name it. The board is the lock.
 
 ## What to publish where
 
-There is no blog. Do not create one.
+Blog posts follow `.cursor/skills/blog/SKILL.md`. This beat does not write them and does not schedule the scout. Floods, closures, and peak dates still go in the place `season`.
 
 | Kind of news | Where it goes |
 |---|---|

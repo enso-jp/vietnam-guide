@@ -1,20 +1,29 @@
 ---
 name: destination-research
 description: >-
-  Researches one Vietnam province or city into a stored dossier covering
-  attractions, events and to-do, side trips, local food, exploration by
-  interest, and getting there. Use during the setup phase, before the Graphic
-  and Copy Writing Agent, when the user asks to research a destination,
-  province, city, or town.
+  Researches one Vietnam province, city, or town into a stored dossier before
+  any public JSON. Records attractions, events, side trips, food, interests,
+  and getting there, and keeps off the public page anything with no photo, a
+  conflicting single source, or a side trip with no page. Use during the setup
+  phase, before the Graphic and Copy Writing Agent, when the user asks to
+  research a destination, province, city, or town.
 ---
 
 # Destination research
 
-Setup phase only. Research one province, city, or town. Store the dossier. Stop.
+Setup phase only. Research one province, city, or town. Store the dossier. Stop. Public JSON waits until `research/<slug>/STATUS.md` says `stored`.
 
 Store your research before you can pass on to Graphic & Copy Writing Agent.
 
 Do not edit `src/content`, `public/photos`, or partner links in this pass. Do not write headlines, SEO titles, or page prose. The Graphic and Copy Writing Agent uses `.cursor/skills/city-setup/SKILL.md` after `research/<slug>/STATUS.md` says `stored`.
+
+## Off the public page
+
+Record the fact in the dossier. These do not go on the public page as a card or as one chosen number:
+
+- No licensed photo of that sight, dish, shop, or property. Write what the photo must show, and `unpublished: no licensed photo`. Do not plan a card. Do not borrow another picture. A shop with no photo can stay in Shopping text later. That choice is `.cursor/skills/city-setup/SKILL.md`.
+- A conflicting single source. If two sources disagree, write both figures and name both sources. Do not choose one number for the page. If the only new source conflicts with a figure already recorded, keep both and do not replace the recorded figure with that single source. Graphic and copy prints both figures.
+- A side trip with no page. Mark `Side trip placeholder: {name}`. Do not research that neighbor’s dossier in this pass, and do not create its place file.
 
 ## Unit
 
@@ -78,7 +87,7 @@ Side trips are day or overnight trips from this base. Give travel time, why some
 
 Food is the local list: Vietnamese name, what it is, how to eat it, when to order it, and the area. Include breakfast, sweets, and drinks when the place has them. Name the neighbor’s dishes only so copy can link them. No stall prices.
 
-Exploration by interest uses local titles, not another city’s list. One card is the food guide. Map a title to an existing interest key only when it fits: `food`, `oldTowns`, `pagodas`, `caves`, `beaches`, `islands`, `mountains`, `rice`, `markets`, `warHistory`, `coffee`, `nightlife`, `family`, `photography`, `motorbike`. Suggest an icon of `food`, `beach`, `drink`, `museum`, or `view`.
+Exploration by interest uses local titles, not another city’s list. One card is the food guide when this place has a food culture. Record Shopping only when a primary source names boutiques, souvenirs, specialty goods, or a large mall, and say when the photo is missing. Record Resort Living only when a resort stay is a reason to go, and only with a public source for that property. Map a title to an existing interest key only when it fits: `food`, `oldTowns`, `pagodas`, `caves`, `beaches`, `islands`, `mountains`, `rice`, `markets`, `warHistory`, `coffee`, `nightlife`, `family`, `photography`, `motorbike`. Suggest an icon of `food`, `beach`, `drink`, `museum`, or `view`. What the public page may show is `.cursor/skills/city-setup/SKILL.md`.
 
 Getting there covers air, rail, road, and bus from the usual previous stop, with station or airport names, durations, and how to move around on site. Mark an unsourced duration as approximate.
 
@@ -125,7 +134,8 @@ One lane is done when its own section, buckets, and items are stored. The dossie
 - `food.md` has `## Food streets and markets`, and `attractions.md` has `## Nightlife and evening` and `## Lifestyle`, each with entries or `None recorded`
 - Every fee, hour, date, and duration has a source line or `UNSOURCED`
 - `sources.md` lists each URL, publisher, and access date
-- Side trips name real slugs or a placeholder
+- Side trips name real slugs or a placeholder. A neighbor with no page stays a placeholder
+- A missing licensed photo is marked unpublished. A conflicting single source records both figures and does not pick one
 - Interest titles are local to this destination
 - No public content file was edited
 - This run stored its own lane. `STATUS.md` says `stored` only when no lane is left open.
