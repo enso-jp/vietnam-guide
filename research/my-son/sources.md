@@ -85,3 +85,51 @@ Accessed 21 Oct 2026 unless a page states its own date.
 - Publisher: Da Nang city portal, climate page dated 04 May 2026
 - Accessed: 21 Oct 2026
 - Supports: Dry season January–September, rainy season October–December. Rain concentrated in September–December, more in the mountains than on the plain. Floods usual in September–November with the northeast monsoon. Storms mainly September–December, with flash floods and landslides in the midlands and mountains. This is the city climate page, not a My Son closure notice.
+
+### S15
+- URL: https://mysonsanctuary.com.vn/tin-tuc/thanh-dia-my-son-tu-hanh-trinh-kham-pha-den-qua-trinh-bao-ton-va-phat-huy-gia-tri-di-san-cho-den-nay.html
+- Publisher: My Son Sanctuary management site, essay by Nguyễn Đắc Nghĩa, 25 Feb 2025
+- Accessed: 21 Oct 2026
+- Supports: Valley of about 4 km², Hon Den to the south, Thu Bon to the north. French surveys exposed 72 structures in 13 groups, A through N: B–C–D 27, A and A' 17, E and F 12, G 5, H 4, K one, L one, N one. A1, called 24 m, brought down in 1969. About 20 towers remain, mostly in B, C, and D. Italian work on group G. E7 restored 2011–2015. Indian work on H, K, and A in 2017–2022. The essay’s opening address is still Duy Phú, Duy Xuyên, Quảng Nam. The footer is Thu Bồn, Đà Nẵng. Hotels, restaurants, and local food are written as infrastructure still to be built. Rains from the 9th lunar month toward the end of the year. Visitor totals for 2023 are in the essay and are not used on the page.
+
+### S16
+- URL: https://mysonsanctuary.com.vn/gioi-thieu/kien-truc-nghe-thuat.html
+- Publisher: My Son Sanctuary management site, architecture page, 17 May 2019
+- Accessed: 21 Oct 2026
+- Supports: Groups of two or more towers inside a thick brick wall. The main kalan’s door usually faces east. Some large towers also have a west door. A gopura stands in front, then a long mandapa. Styles named: Mỹ Sơn E1, Hòa Lai, Đồng Dương, Mỹ Sơn A1, Ponaga, Bình Định, on fired brick and sandstone.
+
+### S17
+- URL: https://mysonsanctuary.com.vn/dich-vu.html
+- Publisher: My Son Sanctuary management site, services index
+- Accessed: 21 Oct 2026
+- Supports: Cards for Cham pottery and hat-weaving, Cham folk singing, a green bicycle, a virtual-reality visit, and a multilingual audio guide. Card dates on the index: 22 Aug 2025 for the crafts, the singing, and the bicycle; 15 Sep 2023 for virtual reality and the audio guide. No price, no market, no restaurant, no bar.
+
+### S18
+- URL: https://www.danangbus.vn/tin-tuc/tin-tuc/tuyen-buyt-phuc-vu-du-lich-hoi-an-my-son-cong-troi-dong-giang-5659.html
+- Publisher: DanangBus, article by Trịnh Thị Như Quỳnh, 14 May 2026
+- Accessed: 21 Oct 2026
+- Supports: The tourism bus that later paused. Running from 8 Apr 2025, operator Công ty Cổ phần Khu du lịch sinh thái Hang Gợp. Four trips a day: 08:00 and 14:00 from the Nam Hoi An City parking area, 11:00 and 14:00 from the Cong Troi parking area. 250,000 VND for the full route, 150,000 VND for a segment (Hoi An–My Son or My Son–Cong Troi). This is the service S10 paused. It is not a current timetable. The article prints no arrival minute at the sanctuary gate.
+
+### S19
+- URL: https://www.danangbus.vn/lo-trinh-tuyen.html
+- Publisher: DanangBus, route list
+- Accessed: 21 Oct 2026
+- Supports: Line 16 is Kim Liên – Đại học Việt Hàn, along the river and the coast, not a My Son route. The list page that was read does not contain a live My Son timetable. It does not replace S10.
+
+### S21
+- URL: https://disanvanhoamyson.vn/tin-tuc/thong-bao-mo-cua-tham-quan-trai-nghiem-chuong-trinh-nghe-thuat-dem-my-son-huyen-thoai.html
+- Publisher: My Son management board, notice dated 21 Apr 2022
+- Accessed: 21 Oct 2026
+- Supports: Đêm Mỹ Sơn huyền thoại as an evening show inside the towers, from 16:00, on the 16th of the lunar month, with one named night, 14 Jun 2022. Tickets were to be issued at the end of April 2022. This is not a 2026 calendar. S7, later, says the calendar is not fixed.
+
+### S22
+- URL: https://mysonsanctuary.com.vn/tin-tuc/giao-thoa-van-hoa-cham-viet-vung-phu-can-di-san-my-son.html
+- Publisher: My Son Sanctuary management site, essay dated 24 Feb 2025
+- Accessed: 21 Oct 2026
+- Supports: A cultural note on the communes around the sanctuary, not a food guide. It names “Mỳ Quảng Mỹ Sơn” and “khách sạn Mỹ Sơn” as brands in that wider district, with no street. Those names are not picks and not pages. The footer address is Thu Bồn, Đà Nẵng.
+
+### Not used
+- URL: https://cadn.com.vn/to-chuc-chuong-trinh-am-vang-my-son-dinh-ky-hang-thang-post336735.html
+- Publisher: Báo Đà Nẵng
+- Accessed: 21 Oct 2026
+- Supports: The page did not load. Echoes of My Son stays on S3 and S5 only. No 2026 sentence from this paper is in the dossier.

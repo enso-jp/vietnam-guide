@@ -1,10 +1,10 @@
 # My Son research status
 
 Slug: `my-son`
-Status: needs depth
+Status: stored
 Checked: 21 Oct 2026
-Ready for copy:
+Ready for copy: yes
 
-`researchBase` is a first pass. Why a night here and getting there are in this folder. Drive minutes, a bus that is actually running this month, one close time, the homepage coordinates, lodging in the hamlet, and a fixed night-show date are still open.
+Every lane is stored for the base layer. Left out: drive minutes from Hoi An, Da Nang, the airport, and Ga Trà Kiệu; one close time; a public bus running during the 01DL pause; the homepage coordinate strings; lodging in the hamlet; a fixed date for Đêm Mỹ Sơn huyền thoại; a food street; a night street; a separate page for each tower group; an on-site minute count.
 
-The other lanes are not started: attractions, food, nightlife, lifestyle, and context. This file stays `needs depth` until the last of those is stored. No public page was edited.
+No public page was edited in the research pass.
