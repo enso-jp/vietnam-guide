@@ -14,15 +14,16 @@ Checked: 21 Oct 2026. These are left out of the public pages on purpose.
 - Interior hours for Chùa Cầu, Chùa Ông, and Hội quán Phúc Kiến. Not on their official pages.
 - Tan Ky hours are on a creative-city page with a Traveloka byline (S23). Confirm the midday close.
 - An Bang kilometres, minutes, and any chair fee. No tariff.
-- Cam Thanh 2022 prices and the summer/winter hours (S27). One article. No second source.
+- Cam Thanh boat price. The 2022 article printed one (S27). It is not the current tariff. Entry is now 30,000 VND (S38, S39).
+- Which Cam Thanh clock is in force: basket boats 07:00–18:00 on the February 2025 notice (S40), or the 2022 summer and winter hours (S27). The 2022 page does not define the months.
 - My Son: 40,000 VND on the city portal (S19) against 100,000 / 150,000 VND on the sanctuary note (S37). Drive time from Hoi An unsourced. Do not edit the My Son page in this pass.
 - Cù Lao Chàm boat fare and minutes. The 70,000 VND is the reserve fee only (S22).
 - Lantern-night clock. The lunar date is sourced (S33). The 18:00–21:30 line is only on the undated visitor page (S5).
-- Beach-festival dates for Hội An - Cảm xúc mùa hè (S6).
+- The next beach-festival dates after the 2024 run, 15 June–21 July (S41, S42). Any fee. No licensed photograph of the 2024 program. The card uses a separate frame of the An Bang sand.
 - No Hoi An coffee street. The shared coffee page stays unchanged.
 - No 2026 bar pin. Do not invent one.
-- An Bang photograph that shows sand, water, and the low beach front together. The published frame is mostly sky, so the page stays a stub.
-- Cam Thanh photograph of a basket boat in the nipa water. No public page. The 2022 prices are not a current tariff.
+- A shoreline altar in the Commons file Temple at An Bang. No official page names it, so it is not a sight.
+- Tân Thành stays a food-street note. This pass does not edit the food guide.
 - Street number of Hội quán Quảng Đông. Not on the monument page.
 - Street number of Nhà cổ Quân Thắng. Not on the monument page.
 - Door clocks for the Museum of Trade Ceramics, the Sa Huỳnh museum, and the Museum of Folk Culture. Closing dates are printed. The hour is not.

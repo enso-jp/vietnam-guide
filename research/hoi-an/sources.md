@@ -229,3 +229,33 @@ Accessed 21 Oct 2026 unless a line says otherwise. A direct fetch of the UNESCO 
 - Publisher: My Son sanctuary visitor note
 - Accessed: 21 Oct 2026
 - Supports: A different price from S19: 100,000 VND domestic, 150,000 VND international, 30,000 VND for a child 5 to 15. Visit 06:00–18:00, tickets 06:00–17:00. The gate ticket includes the museum, the shuttle, a folk performance, and the monuments. Recorded only so the Hoi An side trip does not hide the disagreement. This pass does not edit My Son.
+
+### S38
+- URL: https://danang.gov.vn/vi/w/tu-ngay-10-8-phi-tham-quan-khu-di-tich-lich-su-van-hoa-rung-dua-bay-mau-30000-dong-nguoi-luot
+- Publisher: Da Nang city portal, 7 Aug 2026
+- Accessed: 21 Oct 2026
+- Supports: Resolution 94/2026/NQ-HĐND of 31 Jul 2026, in force 10 Aug 2026. Rừng dừa Bảy Mẫu entry 30,000 VND per person per visit. Free cases: Vietnamese disabled people with the certificate, Vietnamese people covered by Decision 170/2003, children under 16 and pupils, Vietnamese citizens 60 and over, diplomatic guests. The commune people’s committee collects the fee. Repeals Article 5 of Quang Nam Resolution 24/2023 of 22 Sep 2023. Does not print a boat price.
+
+### S39
+- URL: https://hdnd.danang.gov.vn/chi-tiet-tin/group/168/nid/23847/inphographic-muc-thu-nop-quan-ly-va-su-dung-phi-tham-quan-rung-dua-bay-mau
+- Publisher: Da Nang People’s Council, 14 Sep 2026
+- Accessed: 21 Oct 2026
+- Supports: Second official note of the same resolution and the same 30,000 VND per person per visit. Says some groups are free. The fetched text does not repeat the free-group list. The infographic image was not read as a second list.
+
+### S40
+- URL: https://www.hoianworldheritage.org.vn/vi/news/Du-lich-Hoi-An/hoi-an-co-17-tuyen-cho-du-khach-tham-quan-rung-dua-bay-mau-2847.hwh
+- Publisher: Hoi An World Heritage conservation centre, 25 Feb 2025
+- Accessed: 21 Oct 2026
+- Supports: 17 boat routes at Rừng dừa Bảy Mẫu, Cẩm Thanh. 13 with state-managed landing points. 4 oriented to landing points a person or a company would manage. Seven lively routes and six quiet routes in the centre. Two routes for the biosphere buffer and the bamboo-and-coconut craft village. Two quiet routes elsewhere. Basket-boat service 07:00–18:00. The commune can stop the boats in bad weather. No fee on this page.
+
+### S41
+- URL: https://bvhttdl.gov.vn/festival-bien-hoi-an-cam-xuc-mua-he-20240612142102549.htm
+- Publisher: Ministry of Culture, Sports and Tourism, 13 Jun 2024, source line Báo Văn hóa
+- Accessed: 21 Oct 2026
+- Supports: Festival biển Hội An - Cảm xúc mùa hè 2024 opens 15 Jun and runs to 21 Jul at Cửa Đại, Tân Thành, An Bàng, and Cù Lao Chàm. Opening program 14–16 Jun at Cửa Đại: dance, music, food, DJ, fire performance, beach games, kites, OCOP stalls. In July, An Bàng holds Mùa hè bất tận: sea-themed art in lanterns and recycled wood, coastal food, beach music, sport. No fee. No later year’s dates.
+
+### S42
+- URL: https://www.hoianworldheritage.org.vn/vi/news/Du-lich-Hoi-An/hoi-an-mua-he-bat-tan-2708.hwh
+- Publisher: Hoi An heritage centre, republishing the city’s culture and broadcast centre, 11 Jul 2024
+- Accessed: 21 Oct 2026
+- Supports: Mùa hè bất tận, inside the beach festival, at 16:00 on 12 Jul 2024 at An Bàng. Food and shopping stalls, live music and DJs, environment and craft activities, lantern and recycled-wood sea installations, traditional dance. No fee. This is the 2024 program, not a standing calendar.

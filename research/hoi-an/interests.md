@@ -30,7 +30,7 @@ Checked: 21 Oct 2026. These titles are Hoi An’s. They are not Da Nang’s beac
 - Sources: S24, S25
 
 ### An Bang
-- Why it is this place, not a generic label: The swim and the villa-homestay sleep, west of the old core, with Cửa Đại’s erosion left off the recommendation.
+- Why it is this place, not a generic label: The swim and the villa-homestay sleep, with Cửa Đại’s erosion left off the recommendation. The card uses its own beach frame.
 - Fits interest key, if any: beaches
 - Icon: beach
 - Links to attraction, dish, or place slug: an-bang
@@ -48,7 +48,7 @@ Checked: 21 Oct 2026. These titles are Hoi An’s. They are not Da Nang’s beac
 - Sources: S26, S28
 
 ### Cam Thanh boats
-- Why it is this place, not a generic label: Basket boats in the nipa water at Cẩm Thanh, about 3 km out on the 2022 article. Not a beach.
+- Why it is this place, not a generic label: Basket boats in the nipa water at Cẩm Thanh, about 3 km out on the 2022 article. Entry from 10 August 2026 is 30,000 VND (S38, S39). Not a beach. The card uses the basket-boat frame, not the An Bang sand.
 - Fits interest key, if any: family
 - Icon: view
 - Links to attraction, dish, or place slug: cam-thanh when that page exists
