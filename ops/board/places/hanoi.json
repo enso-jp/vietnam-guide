@@ -494,7 +494,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "hanoi",
+    "stage": "researchLifestyle",
+    "item": null,
+    "at": "2026-10-21T08:31:53.165Z",
+    "by": "hourly",
+    "branch": "cursor/content-hanoi-researchBase"
+  },
   "log": [
     {
       "at": "2026-10-21T08:31:45.629Z",
