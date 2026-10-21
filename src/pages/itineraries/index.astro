@@ -5,32 +5,27 @@ import PlanTabs from '../../components/PlanTabs.astro';
 import { getItineraries } from '../../lib/content';
 import { breadcrumbList, itemList } from '../../lib/schema';
 const trips = getItineraries();
-const nationwide = trips.filter((trip) => trip.slug === 'best-14-days');
-const regional = trips.filter((trip) => trip.kind === 'trip' && trip.slug !== 'best-14-days');
-const walks = trips.filter((trip) => trip.kind === 'walk');
+const sections = [
+  { title: 'Nationwide', trips: trips.filter((trip) => trip.level === 'nationwide') },
+  { title: 'Region', trips: trips.filter((trip) => trip.level === 'region') },
+  { title: 'Day', trips: trips.filter((trip) => trip.level === 'day') },
+  { title: 'Half-day', trips: trips.filter((trip) => trip.level === 'half-day') },
+];
 ---
 <Base title="Itineraries" description="Nationwide routes, corridor trips, and timed city walks for Vietnam." path="/itineraries" ogType="website" jsonLd={[itemList('Itineraries', trips.map((trip) => ({ name: trip.title, path: `/itineraries/${trip.slug}` }))), breadcrumbList([{ name: 'Plan a trip', path: '/plan' }, { name: 'Itinerary ideas', path: '/itineraries' }])]}>
   <div class="wrap section">
     <Crumbs items={[{ name: 'Plan a trip', href: '/plan' }, { name: 'Itinerary ideas' }]} />
     <h1>Itinerary ideas</h1>
     <PlanTabs current="itineraries" />
-    <h2>Nationwide</h2>
-    <ul class="guide-list">
-      {nationwide.map((trip) => (
-        <li><a class="guide-row" href={`/itineraries/${trip.slug}`}><strong>{trip.title}</strong><p class="meta">{trip.duration}</p><p>{trip.summary}</p></a></li>
-      ))}
-    </ul>
-    <h2>Regional</h2>
-    <ul class="guide-list">
-      {regional.map((trip) => (
-        <li><a class="guide-row" href={`/itineraries/${trip.slug}`}><strong>{trip.title}</strong><p class="meta">{trip.duration}</p><p>{trip.summary}</p></a></li>
-      ))}
-    </ul>
-    <h2>Walks</h2>
-    <ul class="guide-list">
-      {walks.map((trip) => (
-        <li><a class="guide-row" href={`/itineraries/${trip.slug}`}><strong>{trip.title}</strong><p class="meta">{trip.duration}</p><p>{trip.summary}</p></a></li>
-      ))}
-    </ul>
+    {sections.map((section) => (
+      <>
+        <h2>{section.title}</h2>
+        <ul class="guide-list">
+          {section.trips.map((trip) => (
+            <li><a class="guide-row" href={`/itineraries/${trip.slug}`}><strong>{trip.title}</strong><p class="meta">{trip.duration}</p><p>{trip.summary}</p></a></li>
+          ))}
+        </ul>
+      </>
+    ))}
   </div>
 </Base>

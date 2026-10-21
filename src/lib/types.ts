@@ -233,6 +233,12 @@ export interface Guide {
   seoDescription: string;
 }
 
+export interface ItineraryApproach {
+  mode: 'walk' | 'bicycle' | 'grab' | 'taxi' | 'boat' | 'bus';
+  minutes?: number;
+  note: string;
+}
+
 export interface ItineraryStop {
   name: string;
   minutes: number;
@@ -241,6 +247,7 @@ export interface ItineraryStop {
   attractionSlug?: string;
   dishSlug?: string;
   note: string;
+  approach?: ItineraryApproach;
 }
 
 export interface ItineraryDay {
@@ -248,15 +255,26 @@ export interface ItineraryDay {
   body: string;
   placeSlug?: string;
   photo?: string;
+  routeSlug?: string;
+  itinerarySlug?: string;
 }
 
 export interface Itinerary {
   slug: string;
   title: string;
   kind: 'trip' | 'walk';
+  level: 'nationwide' | 'region' | 'day' | 'half-day';
   duration: string;
   budget: string;
   pace: string;
+  daysCount?: number;
+  spanDays?: number;
+  gateway?: 'hanoi' | 'ho-chi-minh-city' | 'da-nang' | 'open-jaw';
+  direction?: 'north-to-south' | 'south-to-north' | 'out-of-da-nang';
+  corridor?: string;
+  placeSlug?: string;
+  routeSlugs?: string[];
+  variant?: string;
   summary: string;
   photo?: string;
   days?: ItineraryDay[];
