@@ -1,0 +1,38 @@
+---
+import Photo from './Photo.astro';
+import { attractionPath, cardLine } from '../lib/content';
+import type { Attraction } from '../lib/types';
+
+interface Props {
+  attraction: Attraction;
+  rank: number;
+  fallbackId: string;
+  cover: string;
+  extra?: boolean;
+}
+
+const { attraction, rank, fallbackId, cover, extra = false } = Astro.props;
+const filled = Math.max(0, Math.min(5, attraction.dots));
+---
+<a class:list={['jg-card', { 'is-extra': extra }]} id={attraction.slug} href={attractionPath(attraction)}>
+  <div class="media">
+    <Photo id={`${attraction.placeSlug}-${attraction.slug}`} fallbackId={fallbackId} alt={attraction.name} cover={cover} />
+    <span class="rank-badge">{rank}</span>
+  </div>
+  <div class="jg-body">
+    <h3>
+      {attraction.name}
+      {attraction.nameVi && <span class="vi" lang="vi"> {attraction.nameVi}</span>}
+      {filled >= 4 && <span class="mark" aria-hidden="true"></span>}
+    </h3>
+    <p>{cardLine(attraction.summary)}</p>
+    <p class="rating">
+      <span class="score">{filled.toFixed(1)}</span>
+      <span class="stars" aria-label={`${filled} of 5, editor rating`}>
+        {Array.from({ length: 5 }, (_, star) => (star < filled ? '★' : '☆')).join('')}
+      </span>
+      <span class="note">Editor</span>
+    </p>
+    <p class="meta">{attraction.timeNeeded} · {attraction.fee}</p>
+  </div>
+</a>

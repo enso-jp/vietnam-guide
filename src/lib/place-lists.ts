@@ -1,7 +1,7 @@
 import type { Attraction } from './types';
 
-/** Attraction cards shown before the expand control. */
-export const VISIBLE_ATTRACTIONS = 9;
+/** Attraction cards shown before the Show all control. */
+export const VISIBLE_ATTRACTIONS = 6;
 
 export interface RankedAttraction {
   attraction: Attraction;
@@ -29,12 +29,12 @@ export function partitionAttractions(
   for (const group of groups) {
     const shownItems: RankedAttraction[] = [];
     const restItems: RankedAttraction[] = [];
-    group.items.forEach((attraction, index) => {
-      const entry = { attraction, rank: index + 1 };
+    for (const attraction of group.items) {
+      const entry = { attraction, rank: total + 1 };
       if (total < limit) shownItems.push(entry);
       else restItems.push(entry);
       total += 1;
-    });
+    }
     if (shownItems.length) shown.push({ label: group.label, items: shownItems });
     if (restItems.length) rest.push({ label: shownItems.length ? '' : group.label, items: restItems });
   }

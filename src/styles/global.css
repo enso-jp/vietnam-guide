@@ -324,7 +324,7 @@ p { margin: 0.55rem 0; }
 
 .place-grid { display: grid; grid-template-columns: minmax(0, 1fr) 20rem; gap: 2rem; padding-bottom: 3rem; }
 .place-body { padding-top: 2.25rem; }
-.place-grid .reading { max-width: none; }
+.place-grid .reading { max-width: none; min-width: 0; }
 .place-section,
 .jg-card[id],
 .place-section li[id] { scroll-margin-top: 7.25rem; }
@@ -494,24 +494,47 @@ p { margin: 0.55rem 0; }
 .jg-body h2 { margin: 0; font-family: var(--sans); font-size: 1.15rem; font-weight: 700; }
 .dest-corridor-grid { margin-top: 1.25rem; }
 .card-list, .jg-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
-#attractions .list-more { margin-top: 1.15rem; }
-#attractions .list-more summary {
-  display: inline-flex;
+#attractions .attraction-stack {
+  container-type: inline-size;
+  container-name: attractions;
+  display: flex;
+  flex-direction: column;
+  gap: 1.15rem;
+  width: 100%;
+  min-width: 0;
+}
+#attractions .attraction-stack .card-list {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.15rem;
+  align-items: stretch;
+  grid-auto-flow: row;
+  width: 100%;
+  min-width: 0;
+}
+#attractions .attraction-stack .jg-card {
+  height: 100%;
+  min-width: 0;
+}
+#attractions .attraction-stack:not(.is-open) .is-extra { display: none; }
+#attractions .list-more {
+  display: flex;
+  width: 100%;
+  box-sizing: border-box;
+  justify-content: center;
   align-items: center;
   gap: 0.55rem;
   min-height: 2.75rem;
+  margin: 0;
   padding: 0.55rem 1.05rem;
   border: 1px solid var(--ink);
-  border-radius: 999px;
+  border-radius: 16px;
   background: #fff;
   color: var(--ink);
   font: inherit;
   font-weight: 650;
   cursor: pointer;
-  list-style: none;
 }
-#attractions .list-more summary::-webkit-details-marker { display: none; }
-#attractions .list-more summary::before {
+#attractions .list-more::before {
   content: "";
   width: 0.45rem;
   height: 0.45rem;
@@ -519,12 +542,17 @@ p { margin: 0.55rem 0; }
   border-bottom: 2px solid currentColor;
   transform: rotate(45deg) translateY(-0.1rem);
 }
-#attractions .list-more[open] summary::before { transform: rotate(-135deg) translateY(-0.05rem); }
-#attractions .list-more summary:hover { border-color: var(--lacquer); color: var(--lacquer); }
-#attractions .list-more summary:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
-#attractions .list-more[open] .list-more-closed,
-#attractions .list-more:not([open]) .list-more-open { display: none; }
-#attractions .list-more .card-list { margin-top: 1.15rem; }
+#attractions .attraction-stack.is-open .list-more::before { transform: rotate(-135deg) translateY(-0.05rem); }
+#attractions .list-more:hover { border-color: var(--lacquer); color: var(--lacquer); }
+#attractions .list-more:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
+#attractions .attraction-stack.is-open .list-more-closed,
+#attractions .attraction-stack:not(.is-open) .list-more-open { display: none; }
+@container attractions (max-width: 47rem) {
+  #attractions .attraction-stack .card-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@container attractions (max-width: 34rem) {
+  #attractions .attraction-stack .card-list { grid-template-columns: minmax(0, 1fr); }
+}
 #interests .interest-group + .interest-group { margin-top: 1.75rem; }
 #interests .interest-group h3 { margin: 0 0 0.35rem; }
 #interests .interest-group > p { margin-bottom: 0.35rem; }

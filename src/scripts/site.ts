@@ -473,17 +473,23 @@ document.querySelectorAll<HTMLElement>('[data-book]').forEach((root) => {
   });
 });
 
-const attractionMore = document.querySelector('#attractions details.list-more');
-if (attractionMore) {
+const attractionStack = document.querySelector<HTMLElement>('#attractions .attraction-stack');
+const attractionMore = attractionStack?.querySelector<HTMLButtonElement>('button.list-more');
+if (attractionStack && attractionMore) {
+  const setAttractionOpen = (open: boolean) => {
+    attractionStack.classList.toggle('is-open', open);
+    attractionMore.setAttribute('aria-expanded', open ? 'true' : 'false');
+  };
+  attractionMore.addEventListener('click', () => {
+    setAttractionOpen(!attractionStack.classList.contains('is-open'));
+  });
   const revealHashedAttraction = () => {
     const id = decodeURIComponent(location.hash.replace(/^#/, ''));
     if (!id) return;
-    const card = attractionMore.querySelector<HTMLElement>(`#${CSS.escape(id)}`);
-    if (!card) return;
-    if (attractionMore instanceof HTMLDetailsElement && !attractionMore.open) {
-      attractionMore.open = true;
-      requestAnimationFrame(() => card.scrollIntoView());
-    }
+    const card = attractionStack.querySelector<HTMLElement>(`#${CSS.escape(id)}`);
+    if (!card?.classList.contains('is-extra')) return;
+    setAttractionOpen(true);
+    requestAnimationFrame(() => card.scrollIntoView());
   };
   revealHashedAttraction();
   window.addEventListener('hashchange', revealHashedAttraction);
