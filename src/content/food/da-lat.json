@@ -1,0 +1,43 @@
+{
+  "slug": "da-lat",
+  "name": "Da Lat food guide",
+  "placeSlug": "da-lat",
+  "summary": "Market strawberries, night-market rice paper, and avocado ice cream on cool evenings.",
+  "heroSlug": "da-lat-market",
+  "body": [],
+  "dishSlugs": ["kem-bo", "banh-trang-nuong", "ca-phe", "banh-mi"],
+  "sections": [
+    {
+      "id": "where",
+      "heading": "Where to eat",
+      "nav": "Where to eat",
+      "paragraphs": [],
+      "spots": [
+        {
+          "name": "Da Lat Market",
+          "nameVi": "Chợ Đà Lạt",
+          "photo": "da-lat-market",
+          "caption": "Morning produce and strawberry cups on the slope above the lake.",
+          "note": "Morning produce and strawberry cups on the slope above the lake."
+        },
+        {
+          "name": "Da Lat Night Market",
+          "nameVi": "Chợ đêm",
+          "photo": "da-lat-market",
+          "caption": "Grilled rice paper and soy milk after 18:00.",
+          "note": "Grilled rice paper and soy milk after 18:00."
+        }
+      ]
+    },
+    {
+      "id": "neighbors",
+      "heading": "Neighbor bowls",
+      "nav": "Neighbors",
+      "paragraphs": [],
+      "dishSlugs": ["pho", "com-tam"]
+    }
+  ],
+  "verified": "21 Oct 2026",
+  "seoTitle": "Da Lat food guide — market, night stalls, and coffee hills",
+  "seoDescription": "Strawberries at the market, banh trang nuong at the night market, and coffee from the Lam Dong hills. Stall prices are check on arrival."
+}

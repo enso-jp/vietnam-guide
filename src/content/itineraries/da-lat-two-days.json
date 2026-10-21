@@ -1,0 +1,59 @@
+{
+  "slug": "da-lat-two-days",
+  "title": "Da Lat in two days",
+  "kind": "trip",
+  "level": "day",
+  "duration": "2 days",
+  "spanDays": 2,
+  "placeSlug": "da-lat",
+  "budget": "Check on arrival",
+  "pace": "Relaxed",
+  "photo": "da-lat-xuan-huong",
+  "summary": "Lake and market on day one; cable car, Truc Lam, and Datanla or Lang Biang on day two.",
+  "stops": [
+    {
+      "name": "Xuan Huong Lake",
+      "minutes": 60,
+      "placeSlug": "da-lat",
+      "attractionSlug": "xuan-huong",
+      "note": "Morning walk before the market crowds."
+    },
+    {
+      "name": "Da Lat Market",
+      "minutes": 60,
+      "placeSlug": "da-lat",
+      "attractionSlug": "market",
+      "note": "Strawberries and avocado ice cream on the slope."
+    },
+    {
+      "name": "Da Lat Railway Station",
+      "minutes": 45,
+      "placeSlug": "da-lat",
+      "attractionSlug": "railway-station",
+      "note": "Art-deco station; add the Trai Mat train if you want Linh Phuoc the same morning."
+    },
+    {
+      "name": "Truc Lam Zen Monastery",
+      "minutes": 120,
+      "placeSlug": "da-lat",
+      "attractionSlug": "truc-lam",
+      "note": "Cable car from Robin Hill when the sky is clear, then the monastery yards. Modest clothing."
+    },
+    {
+      "name": "Datanla Falls",
+      "minutes": 90,
+      "placeSlug": "da-lat",
+      "attractionSlug": "datanla",
+      "note": "Afternoon on Prenn Pass. Skip the coaster if you only wanted the falls."
+    },
+    {
+      "name": "Da Lat Night Market",
+      "minutes": 90,
+      "placeSlug": "da-lat",
+      "attractionSlug": "market",
+      "note": "Grilled rice paper after dark; the night stalls sit near the day market."
+    }
+  ],
+  "seoTitle": "Da Lat in two days",
+  "seoDescription": "A two-day Da Lat plan: lake and market, then cable car, Truc Lam, and Datanla Falls."
+}

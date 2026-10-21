@@ -10,20 +10,24 @@
   "lng": 108.438,
   "dots": 4,
   "dotReason": "Worth a special trip in this corridor",
-  "summary": "Da Lat is a cool highland city of pines, lakes, and French-era villas. It is a short flight or a long sleeper from Ho Chi Minh City. Come for the temperature, the market, and the countryside, not for a checklist of themed parks.",
+  "summary": "Sleep by Xuan Huong Lake when you want cool air, pine ridges, and a market slope of strawberries. Fly into Lien Khuong or bus up from Ho Chi Minh City. Go to Nha Trang or Mui Ne when the beach is the trip; they are still hours apart by road.",
   "timeNeeded": "2 days",
-  "fee": "The lake and market are free; palaces and parks are ticketed",
-  "getThere": "Flight to Lien Khuong, then 45 minutes by road, or an overnight bus from Ho Chi Minh City",
+  "fee": "The lake is free; palaces, gardens, and waterfalls ticket separately",
+  "getThere": "Lien Khuong Airport (DLI), about 30 km south of town, with flights from Ha Noi and Ho Chi Minh City",
   "bestMonths": "December to March",
-  "verified": "19 Oct 2026",
+  "verified": "21 Oct 2026",
   "interests": {
     "coffee": 4,
     "markets": 4,
     "photography": 4,
     "family": 4,
-    "food": 3
+    "food": 4,
+    "mountains": 4,
+    "pagodas": 3,
+    "nightlife": 3
   },
   "cover": "highlands",
+  "foodSlug": "da-lat",
   "nearby": [
     "mui-ne",
     "nha-trang",
@@ -31,37 +35,187 @@
   ],
   "routeSlugs": [],
   "itinerarySlugs": [
+    "da-lat-two-days",
     "south-5-days"
   ],
-  "seoTitle": "Da Lat travel guide",
-  "seoDescription": "How to get to Da Lat, what is worth doing in two days, and how the weather differs from the beaches.",
+  "seoTitle": "Da Lat travel guide — lake, market, and cool highlands",
+  "seoDescription": "Xuan Huong Lake, the market slope, and pine-country waterfalls. Lien Khuong is about 30 km south. December to March is the driest window.",
   "intro": [
-    "Da Lat was built as a hill station and still feels like one: a central lake, a market on a slope, and villas on ridges. Evenings are cool enough for a jacket when the coast is hot.",
-    "The countryside of flowers, coffee, and vegetable greenhouses is the better half-day. The amusement-park versions of “Crazy House” are optional."
+    "Wake to mist on Xuan Huong Lake and air cool enough for a jacket while the coast is hot. The shore walk and Lam Vien Square are the morning; the sloping market above the lake is strawberries, flowers, and avocado ice cream before lunch.",
+    "Stay if the highlands are the trip. Book Nha Trang or Mui Ne when you wanted sand. They share a province on paper after the merger and they are still a long ride apart, so link them from Ho Chi Minh City rather than in one afternoon.",
+    "Give a southbound half-day to the cable car from Robin Hill, Truc Lam monastery, and Tuyen Lam Lake, or to Datanla Falls on Prenn Pass. Lang Biang is the northbound half-day. Crazy House and Bao Dai Palace III fit between lake mornings. The tourist railway station is the art-deco run toward mosaic-covered Linh Phuoc at Trai Mat.",
+    "After dark the night market lanes grill rice paper and pour hot soy milk while the lake path stays lit. The 11th Flower Festival in 2026 opens at Lam Vien Square on 19 December and closes on 31 December, with displays into early January. Odd-year December is the pattern; confirm the next year on arrival."
   ],
   "gettingAround": [
-    "Lien Khuong Airport is a downhill ride from the city. In town, walk the market and the lake, and use Grab or a taxi for the valleys. EasyRider motorbike tours are common; ride yourself only with the proper license."
+    "Lien Khuong Airport is about 30 km south on National Highway 20. Vietnam Tourism names flights from Ha Noi and Ho Chi Minh City; the road minutes and taxi fare are check on arrival. In town, walk the lake and market, and use Grab or a taxi for Prenn Pass, Lang Biang, and Trai Mat. Easy-rider motorbike loops to waterfalls are common; ride yourself only with the proper license."
   ],
   "stayAreas": [
     {
       "name": "Around Xuan Huong Lake",
-      "summary": "Walk to the market and the evening stalls.",
-      "band": "Hotels"
+      "summary": "Walk to the market, Lam Vien Square, and the evening lake path.",
+      "band": "Hotels and guesthouses",
+      "photo": "da-lat-xuan-huong"
+    },
+    {
+      "name": "Pine ridges",
+      "summary": "Quieter beds above the basin with valley views. No hotel street is published as a pick.",
+      "band": "Resorts and villas",
+      "photo": "da-lat"
     }
   ],
   "eat": [
-    "Avocado ice cream, hot soy milk, grilled rice paper, and strawberry snacks are the visitor trail. The market is the place to start."
+    "Morning is the market slope: strawberries with condensed milk, artichoke tea souvenirs, and banh mi from a counter. Evening is the night market for banh trang nuong and soy milk. Coffee belongs to the hills around Cau Dat; the food guide names areas, not shops."
   ],
   "dishSlugs": [
-    "ca-phe"
+    "kem-bo",
+    "banh-trang-nuong",
+    "ca-phe",
+    "banh-mi"
   ],
   "interestsBody": [
-    "Cool weather, coffee country, and a family stop. It is a poor choice if you wanted a beach and booked the highlands by mistake."
+    "Dining is market strawberries, kem bo, and night-market rice paper. The food guide is photo-led.",
+    "Coffee is Arabica country on the Cau Dat hills and slow cups after the lake walk. Farm names on Vietnam Tourism are tours, not picks.",
+    "Lakes and waterfalls are Xuan Huong in town, then Tuyen Lam, Datanla, and Lang Biang on half-day rides.",
+    "French hill-station architecture is the railway station, Bao Dai Palace III, the Chicken Church, Domaine de Marie, and Crazy House.",
+    "Flowers are Lam Vien Square and the December festival displays around the lake in odd years. The ticketed city flower garden has no licensed card photo in this pass.",
+    "Cool evenings are the night market and the lakeside walk, not a beach-bar strip."
   ],
+  "interestCards": [
+    {
+      "title": "Dining and F&B",
+      "summary": "Market strawberries, kem bo, and night-market rice paper.",
+      "photo": "da-lat-market",
+      "icon": "food",
+      "to": "food"
+    },
+    {
+      "title": "Coffee hills",
+      "summary": "Cau Dat slopes and farm tours. No stall price is published.",
+      "photo": "ca-phe",
+      "icon": "drink",
+      "dishSlug": "ca-phe"
+    },
+    {
+      "title": "Lakes and waterfalls",
+      "summary": "Xuan Huong in town; Tuyen Lam, Datanla, and Lang Biang on rides out.",
+      "attractionSlug": "tuyen-lam",
+      "photo": "da-lat-tuyen-lam",
+      "icon": "view"
+    },
+    {
+      "title": "French hill station",
+      "summary": "Railway station, palaces, churches, and Crazy House.",
+      "attractionSlug": "railway-station",
+      "photo": "da-lat",
+      "icon": "museum"
+    },
+    {
+      "title": "Flowers and gardens",
+      "summary": "Lam Vien Square and December festival displays around the lake.",
+      "attractionSlug": "lam-vien-square",
+      "photo": "da-lat-lam-vien-square",
+      "icon": "view"
+    },
+    {
+      "title": "Cool-evening stroll",
+      "summary": "Night market snacks and the lit lake path.",
+      "attractionSlug": "lam-vien-square",
+      "photo": "da-lat-lam-vien-square",
+      "icon": "drink"
+    }
+  ],
+  "interestGroups": [
+    {
+      "title": "Dining and F&B",
+      "summary": "Market mornings and night-market grills.",
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "Market strawberries, kem bo, and night-market rice paper.",
+          "photo": "da-lat-market",
+          "icon": "food",
+          "to": "food"
+        }
+      ]
+    },
+    {
+      "title": "Coffee hills",
+      "summary": "For travelers who plan around a slow cup and a valley view.",
+      "cards": [
+        {
+          "title": "Coffee hills",
+          "summary": "Cau Dat slopes and farm tours. No stall price is published.",
+          "photo": "ca-phe",
+          "icon": "drink",
+          "dishSlug": "ca-phe"
+        }
+      ]
+    },
+    {
+      "title": "Lakes and waterfalls",
+      "summary": "Town lake plus half-day rides south and north.",
+      "cards": [
+        {
+          "title": "Lakes and waterfalls",
+          "summary": "Xuan Huong in town; Tuyen Lam, Datanla, and Lang Biang on rides out.",
+          "attractionSlug": "tuyen-lam",
+          "photo": "da-lat-tuyen-lam",
+          "icon": "view"
+        }
+      ]
+    },
+    {
+      "title": "French hill station",
+      "summary": "Colonial roofs, villas, and one surreal guesthouse.",
+      "cards": [
+        {
+          "title": "French hill station",
+          "summary": "Railway station, palaces, churches, and Crazy House.",
+          "attractionSlug": "railway-station",
+          "photo": "da-lat",
+          "icon": "museum"
+        }
+      ]
+    },
+    {
+      "title": "Flowers and gardens",
+      "summary": "Ticketed garden beds and odd-year December festival routes.",
+      "cards": [
+        {
+          "title": "Flowers and gardens",
+          "summary": "Lam Vien Square and December festival displays around the lake.",
+          "attractionSlug": "lam-vien-square",
+          "photo": "da-lat-lam-vien-square",
+          "icon": "view"
+        }
+      ]
+    },
+    {
+      "title": "Cool-evening stroll",
+      "summary": "When the air cools after a sunny afternoon.",
+      "cards": [
+        {
+          "title": "Cool-evening stroll",
+          "summary": "Night market snacks and the lit lake path.",
+          "attractionSlug": "lam-vien-square",
+          "photo": "da-lat-lam-vien-square",
+          "icon": "drink"
+        }
+      ]
+    }
+  ],
+  "season": {
+    "label": "December to March",
+    "note": "Vietnam Tourism names December to March as dry, cool, and sunny, with wild sunflowers on the hills in late autumn. Rain is concentrated May to October, and nights turn chilly November to January. Flower-festival displays in December 2026 are planned around Xuan Huong Lake; road closures those nights are check on arrival."
+  },
   "faqs": [
     {
       "q": "Can you combine Da Lat and Mui Ne?",
-      "a": "They share a province after the merger and they are still a long ride apart. Fly or bus each one from Ho Chi Minh City rather than linking them in a day."
+      "a": "They share a province after the merger and they are still a long ride apart. Fly or bus each one from Ho Chi Minh City rather than linking them in a day. Drive minutes are check on arrival."
+    },
+    {
+      "q": "How do you reach town from Lien Khuong Airport?",
+      "a": "The airport is about 30 km south on Highway 20. Vietnam Tourism names flights from Ha Noi and Ho Chi Minh City. Taxi minutes and fares are check on arrival."
     }
   ]
 }
