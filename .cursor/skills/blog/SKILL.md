@@ -19,7 +19,7 @@ One JSON file in `src/content/blog/<slug>.json`.
 - `when` is the line under the title. If a date, hour, closure, or fee is not in a source, write “check on arrival”.
 - `body` is original prose. Two or more paragraphs. Do not paste another article. Do not copy its sentences.
 - `sources` names the page and links to it with `https`.
-- `photo` is a credited JPEG of that subject in `public/photos/`. One file is not reused on another post. Record the author, license, and source in `public/photos/credits.json`. Do not invent a credit.
+- `photo` is a credited JPEG of that subject in `public/photos/`. One file is not reused on another post. Prefer a Wikimedia Commons featured or quality image when one shows that subject. Record the author, license, and source in `public/photos/credits.json`. Do not invent a credit. A post with no licensed photo of its subject does not go up.
 - `photoAlt` says what the frame shows when the picture is not the title itself.
 
 Do not invent a closure, a date, a fee, or an hour. Do not edit place, attraction, or festival JSON. Do not edit templates, layout, styles, or `src/lib/partners.ts`.
@@ -45,9 +45,9 @@ A festival page or a place `season` field is not a highlight and not a story. On
 
 ## Two runs
 
-The scout writes posts. The front-page pass only edits `src/content/front-page.json`. Prompts are `ops/prompts/blog-scout.md` and `ops/prompts/blog-front.md`. Neither run is scheduled until the owner turns it on in Cursor Automations. Do not claim the schedule is live.
+The scout writes about two posts a day. One is enough when only one story is sourced. The front-page pass only edits `src/content/front-page.json`. Prompts are `ops/prompts/blog-scout.md` and `ops/prompts/blog-front.md`. Neither run is scheduled until the owner turns it on in Cursor Automations. Saving the prompt does not create the automation. Do not claim the schedule is live.
 
-Choose a highlight because a traveler can use it now: a festival still underway, a date that has passed and should not be reused, or a season note whose months are honestly unconfirmed. Skip a post that only repeats another post. Prefer more than one place across the five slots.
+Choose a highlight because a traveler can use it now: an event that is on, a route or a clock that changed, or a sourced fact that changes the day. Do not lead the homepage with a status note whose only point is that a date is unconfirmed. Skip a post that only repeats another post. Prefer more than one place across the five slots.
 
 ## Finish
 
