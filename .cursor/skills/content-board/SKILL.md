@@ -19,7 +19,12 @@ One run, one unit. `node scripts/board.mjs next` prints it. The stage decides th
 
 | Stage | Skill | What this run may change |
 |---|---|---|
-| `research` | destination-research | `research/<slug>/` and the board. No public JSON and no photos. |
+| `researchBase` | destination-research | The scene and getting there, in `research/<slug>/`. No public JSON. |
+| `researchAttractions` | destination-research | Sights and areas only. Add each row to the board. |
+| `researchFood` | destination-research | Dishes, markets, and food streets. Restaurant names stay under the street as `do not publish as a pick`. |
+| `researchNightlife` | destination-research | Evening areas and a few sourced landmarks. |
+| `researchLifestyle` | destination-research | The ordinary day: breakfast, the swim or the walk, cafe streets, the quiet hour. |
+| `researchContext` | destination-research | Events and side trips. |
 | `destination` | city-setup | The place shell, interest groups, one itinerary, festivals, nearby, stay areas. Not a new attraction file. |
 | `destinationCopy` | graphic-copy | Place prose and the place hero only. |
 | `destinationQuality` | this skill | Read the place. Do not rewrite it. |
@@ -59,10 +64,10 @@ Do not write automation memories. The board is the only status.
 - `set-item --place <slug> --id <id> --research stored` — marks one row sourced.
 - `add-item --place <slug> --kind food-street --name "..." --slug ... --note "..."` — a row the dossier just found.
 - `cover --place <slug> --bucket foodStreets --state filled` — `missing`, `partial`, `filled`, or `none`.
-- `block --place <slug> --stage research --question "..."` — waiting on the owner.
+- `block --place <slug> --stage researchFood --question "..."` — waiting on the owner.
 - `guard` — fails if the diff leaves `src/content`, `research`, `public/photos`, or `ops/board.json`.
 
-Research is `stored` only when the dossier headings exist, every coverage bucket is `filled` or `none`, and every item is `stored`, `skipped`, or `blocked`. `needs_depth` is an honest stop when the pass ran out of time. Say what is still open in `--note`. A research `complete` marks enriched copy as `stale` so the second pass runs again.
+A research lane is stored only for its own headings, its own coverage buckets, and the items of its own kinds. `needs_depth` is an honest stop when the hour ends. Say what is still open in `--note`. There is no single `research` stage. Page setup stays queued until every lane is stored or blocked. A missing bucket is taken before a partial one, so food streets are not stuck behind another pass over sights that already exist. Finishing a lane marks enriched copy stale so the second pass runs after the new research.
 
 Item `page` is refused while that item’s research is not done.
 

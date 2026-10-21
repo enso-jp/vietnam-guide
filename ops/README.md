@@ -2,9 +2,9 @@
 
 `ops/board.json` is the database every content agent reads. `node scripts/board.mjs` is the lock. Status in chat does not count.
 
-The hourly automation takes one unit: research, then the destination page, then destination copy, then food, then food copy, then one attraction at a time. Quality is a read-only pass after each copy. A second enrichment is scheduled when research changes a dossier that was already copied.
+The hourly automation takes one unit. Research is six lanes, and page setup does not start until they are stored: base, attractions, food, nightlife, lifestyle, then events and side trips. A missing lane jumps ahead of a partial one. After that come the destination page, destination copy, food page, food copy, and one attraction at a time. Quality is a read-only pass after each copy. A finished research lane marks old copy stale so the second pass uses the new material.
 
-Da Nang is first because its dossier is stored and still thin on food streets, nightlife, and lifestyle. Huynh Thuc Khang is an owner-named gap. It is not a published fact until a source is stored.
+Da Nang's next lane is food. Dishes are already written. Food streets are not, and Huynh Thuc Khang has no source. Lifestyle has not been started. Nightlife and attractions stay open behind those, because they are partial rather than missing.
 
 ## What you set up
 

@@ -13,8 +13,52 @@ const boardPath = process.env.BOARD_PATH || path.join(root, "ops", "board.json")
 const pausePath = process.env.PAUSE_PATH || path.join(root, "ops", "PAUSE");
 const researchRoot = process.env.RESEARCH_ROOT || path.join(root, "research");
 
-const PLACE_STAGES = [
-  "research",
+const RESEARCH_LANES = [
+  {
+    stage: "researchBase",
+    short: "base",
+    buckets: [],
+    kinds: [],
+    focus: "Why a night here, where they sleep, where the evening is, and getting there. No sight catalog yet.",
+  },
+  {
+    stage: "researchAttractions",
+    short: "attractions",
+    buckets: ["sights", "areas"],
+    kinds: ["sight", "area", "zone", "hub", "district"],
+    focus: "Sights, areas, zones, and hubs a planning trip needs. Add each one to the board.",
+  },
+  {
+    stage: "researchFood",
+    short: "food",
+    buckets: ["foodStreets"],
+    kinds: ["dish", "food-street"],
+    focus: "Dishes, markets, and food streets. File restaurant names under the street as do not publish as a pick, unless one is already a scene landmark.",
+  },
+  {
+    stage: "researchNightlife",
+    short: "nightlife",
+    buckets: ["nightlife"],
+    kinds: ["nightlife"],
+    focus: "The areas people walk after dark, plus a few sourced scene landmarks. Not a ranked bar guide.",
+  },
+  {
+    stage: "researchLifestyle",
+    short: "lifestyle",
+    buckets: ["lifestyle"],
+    kinds: ["lifestyle"],
+    focus: "The ordinary day: breakfast area, the swim or the walk, cafe streets, and the hour the city goes quiet.",
+  },
+  {
+    stage: "researchContext",
+    short: "context",
+    buckets: ["events", "sideTrips"],
+    kinds: ["event"],
+    focus: "Recurring events and side trips from this base.",
+  },
+];
+
+const PAGE_STAGES = [
   "destination",
   "destinationCopy",
   "destinationQuality",
@@ -22,6 +66,17 @@ const PLACE_STAGES = [
   "foodCopy",
   "foodQuality",
 ];
+
+const PLACE_STAGES = [...RESEARCH_LANES.map((lane) => lane.stage), ...PAGE_STAGES];
+
+const DA_NANG_LANES = {
+  researchBase: { status: "stored", note: "Why a night here and getting there are in the dossier from 20 Oct 2026." },
+  researchAttractions: { status: "needs_depth", note: "Major sights are in. Areas beyond An Thuong are still thin." },
+  researchFood: { status: "not_started", note: "Dishes exist. Food streets do not. Huynh Thuc Khang has no source." },
+  researchNightlife: { status: "needs_depth", note: "An Thuong, Kalà Kalà, and East West are pins. The night is not mapped as areas." },
+  researchLifestyle: { status: "not_started", note: "No ordinary-day layer yet: breakfast, the swim, cafe streets, the quiet hour." },
+  researchContext: { status: "needs_depth", note: "Fireworks and a few side trips are in. Both lists are partial." },
+};
 
 const ITEM_FIELDS = ["page", "copy", "quality"];
 
@@ -36,7 +91,12 @@ const COVERAGE_BUCKETS = [
 ];
 
 const SKILL = {
-  research: "destination-research",
+  researchBase: "destination-research",
+  researchAttractions: "destination-research",
+  researchFood: "destination-research",
+  researchNightlife: "destination-research",
+  researchLifestyle: "destination-research",
+  researchContext: "destination-research",
   destination: "city-setup",
   destinationCopy: "graphic-copy",
   destinationQuality: "content-board",
@@ -200,15 +260,7 @@ function placeShell(fields) {
     priority: fields.priority ?? 50,
     note: fields.note || "",
     coverage: fields.coverage || blankCoverage(),
-    stages: {
-      research: stage(),
-      destination: stage(),
-      destinationCopy: stage(),
-      destinationQuality: stage(),
-      food: stage(),
-      foodCopy: stage(),
-      foodQuality: stage(),
-    },
+    stages: Object.fromEntries(PLACE_STAGES.map((name) => [name, stage()])),
     items: fields.items || [],
     questions: [],
   };
@@ -287,21 +339,8 @@ function nextWork(board, skip) {
   for (const place of places) {
     if (place.publish !== "candidate") continue;
     if (held(board, place.slug, skip)) continue;
-    const research = place.stages.research;
-    if (research.status === "blocked") continue;
-    if (!isDone(research.status)) {
-      return {
-        action: "work",
-        releasedStaleClaim: Boolean(stale),
-        place: place.slug,
-        name: place.name,
-        publish: place.publish,
-        stage: "research",
-        item: null,
-        skill: SKILL.research,
-        note: place.note,
-      };
-    }
+    const unit = nextForPlace(place);
+    if (unit) return { action: "work", releasedStaleClaim: Boolean(stale), ...unit };
   }
   return {
     action: "stop",
@@ -313,6 +352,7 @@ function nextWork(board, skip) {
 }
 
 function workRow(place, stage, item, note) {
+  const lane = RESEARCH_LANES.find((row) => row.stage === stage);
   return {
     place: place.slug,
     name: place.name,
@@ -320,23 +360,53 @@ function workRow(place, stage, item, note) {
     stage,
     item: item?.id || null,
     itemName: item?.name || "",
-    skill: SKILL[stage],
-    note: note || "",
+    skill: SKILL[stage] || "content-board",
+    focus: lane?.focus || "",
+    note: note || lane?.focus || "",
   };
 }
 
+function laneByStage(stage) {
+  return RESEARCH_LANES.find((lane) => lane.stage === stage);
+}
+
+function laneForKind(kind) {
+  return RESEARCH_LANES.find((lane) => lane.kinds.includes(kind)) || null;
+}
+
+function bucketOpen(place, bucket) {
+  return place.coverage[bucket] !== "filled" && place.coverage[bucket] !== "none";
+}
+
+function laneSeverity(place, lane) {
+  const status = place.stages[lane.stage]?.status || "not_started";
+  if (status === "blocked") return "blocked";
+  const bucketsOpen = lane.buckets.some((bucket) => bucketOpen(place, bucket));
+  const unsourced = place.items.some((item) => lane.kinds.includes(item.kind) && !isDone(item.research) && item.research !== "blocked");
+  if (isDone(status) && !bucketsOpen && !unsourced) return "done";
+  const missing = lane.buckets.some((bucket) => place.coverage[bucket] === "missing");
+  if (status === "not_started" || missing) return 0;
+  return 1;
+}
+
+function nextResearchLane(place) {
+  const ranked = RESEARCH_LANES.map((lane) => ({ lane, severity: laneSeverity(place, lane) })).filter((row) => row.severity !== "done" && row.severity !== "blocked");
+  if (!ranked.length) return null;
+  ranked.sort((a, b) => a.severity - b.severity || RESEARCH_LANES.indexOf(a.lane) - RESEARCH_LANES.indexOf(b.lane));
+  const lane = ranked[0].lane;
+  const row = place.stages[lane.stage];
+  return workRow(place, lane.stage, null, row?.note || lane.focus);
+}
+
+function researchSettled(place) {
+  return RESEARCH_LANES.every((lane) => laneSeverity(place, lane) === "done" || laneSeverity(place, lane) === "blocked");
+}
+
 function nextForPlace(place) {
-  const research = place.stages.research;
-  if (research.status === "blocked") return null;
-  if (!isDone(research.status)) return workRow(place, "research", null, research.note || place.note);
-  if (!coverageDone(place)) {
-    return workRow(place, "research", null, "Coverage buckets are still missing or partial. This is a depth pass.");
-  }
-  const unsourced = unitItems(place).filter((item) => !isDone(item.research) && item.research !== "blocked");
-  if (unsourced.length) {
-    return workRow(place, "research", null, `Not sourced yet: ${unsourced.map((item) => item.id).join(", ")}. Stay in research. Do not publish them.`);
-  }
-  for (const name of PLACE_STAGES.slice(1)) {
+  const lane = nextResearchLane(place);
+  if (lane) return lane;
+  if (!researchSettled(place) || place.publish === "candidate") return null;
+  for (const name of PAGE_STAGES) {
     const row = place.stages[name];
     if (row.status === "blocked") return null;
     if (!isDone(row.status)) return workRow(place, name, null, row.note || place.note);
@@ -371,6 +441,7 @@ function printWork(work) {
   console.log(`item: ${work.item || ""}`);
   console.log(`itemName: ${work.itemName || ""}`);
   console.log(`skill: ${work.skill}`);
+  console.log(`focus: ${work.focus || ""}`);
   console.log(`note: ${work.note || ""}`);
   console.log(`releasedStaleClaim: ${work.releasedStaleClaim ? "yes" : "no"}`);
 }
@@ -408,36 +479,58 @@ function sectionFilled(text, heading) {
   return /### /.test(body) || /None recorded/.test(body);
 }
 
-function assertDossierDepth(slug) {
-  const dir = path.join(researchRoot, slug);
-  const statusFile = path.join(dir, "STATUS.md");
-  if (!fs.existsSync(statusFile)) fail(`research/${slug}/STATUS.md is missing.`);
-  const status = fs.readFileSync(statusFile, "utf8");
-  if (!/^Status:\s*stored\s*$/m.test(status)) {
-    fail(`research/${slug}/STATUS.md must say "Status: stored" before the board can store it.`);
+function readResearch(slug, file) {
+  const full = path.join(researchRoot, slug, file);
+  if (!fs.existsSync(full)) fail(`research/${slug}/${file} is missing.`);
+  return fs.readFileSync(full, "utf8");
+}
+
+function fileFilled(text) {
+  return /### /.test(text) || /None recorded/.test(text);
+}
+
+function assertLaneStored(place, lane) {
+  if (lane.stage === "researchBase") {
+    const scene = readResearch(place.slug, "attractions.md");
+    if (!sectionFilled(scene, "## Why a night here")) {
+      fail(`research/${place.slug}/attractions.md needs ## Why a night here with the scene filled in.`);
+    }
+    const gettingThere = readResearch(place.slug, "getting-there.md");
+    if (!fileFilled(gettingThere) && gettingThere.trim().length < 40) {
+      fail(`research/${place.slug}/getting-there.md is empty.`);
+    }
+    return;
   }
-  const attractions = fs.readFileSync(path.join(dir, "attractions.md"), "utf8");
-  const food = fs.readFileSync(path.join(dir, "food.md"), "utf8");
-  for (const heading of ["## Nightlife and evening", "## Lifestyle"]) {
-    if (!sectionFilled(attractions, heading)) {
-      fail(`research/${slug}/attractions.md needs ${heading} with entries, or the line "None recorded".`);
+  const headings = {
+    researchFood: [["food.md", "## Food streets and markets"]],
+    researchNightlife: [["attractions.md", "## Nightlife and evening"]],
+    researchLifestyle: [["attractions.md", "## Lifestyle"]],
+  };
+  for (const [file, heading] of headings[lane.stage] || []) {
+    if (!sectionFilled(readResearch(place.slug, file), heading)) {
+      fail(`research/${place.slug}/${file} needs ${heading} with entries, or the line "None recorded".`);
     }
   }
-  if (!sectionFilled(food, "## Food streets and markets")) {
-    fail(`research/${slug}/food.md needs ## Food streets and markets with entries, or the line "None recorded".`);
+  if (lane.stage === "researchContext") {
+    if (!fileFilled(readResearch(place.slug, "events.md"))) fail(`research/${place.slug}/events.md needs entries, or "None recorded".`);
+    if (!fileFilled(readResearch(place.slug, "side-trips.md"))) fail(`research/${place.slug}/side-trips.md needs entries, or "None recorded".`);
+  }
+  if (lane.stage === "researchAttractions") {
+    const text = readResearch(place.slug, "attractions.md");
+    if (!/### /.test(text)) fail(`research/${place.slug}/attractions.md needs sight entries.`);
+  }
+  const openBuckets = lane.buckets.filter((bucket) => bucketOpen(place, bucket));
+  if (openBuckets.length) {
+    fail(`${lane.stage} cannot be stored. Coverage still open: ${openBuckets.join(", ")}. Use --status needs_depth, or set each bucket to filled or none.`);
+  }
+  const unsourced = place.items.filter((item) => lane.kinds.includes(item.kind) && !isDone(item.research) && item.research !== "blocked");
+  if (unsourced.length) {
+    fail(`${lane.stage} cannot be stored. These items are not sourced: ${unsourced.map((item) => item.id).join(", ")}.`);
   }
 }
 
-function assertResearchStored(place) {
-  assertDossierDepth(place.slug);
-  if (!coverageDone(place)) {
-    const open = COVERAGE_BUCKETS.filter((key) => place.coverage[key] !== "filled" && place.coverage[key] !== "none");
-    fail(`Research cannot be stored. Coverage still open: ${open.join(", ")}. Use --status needs_depth, or set each bucket to filled or none.`);
-  }
-  const openItems = place.items.filter((item) => !isDone(item.research) && item.research !== "blocked");
-  if (openItems.length) {
-    fail(`Research cannot be stored. These items are not sourced: ${openItems.map((item) => item.id).join(", ")}.`);
-  }
+function lastOpenLane(place, stage) {
+  return RESEARCH_LANES.every((lane) => lane.stage === stage || isDone(place.stages[lane.stage]?.status) || place.stages[lane.stage]?.status === "blocked");
 }
 
 function cmdInit() {
@@ -458,12 +551,13 @@ function cmdInit() {
       publish: "live",
       priority: PRIORITY[json.slug] ?? 60,
     });
-    const researched = dossierStored(json.slug);
     if (json.slug === "da-nang") {
-      place.stages.research = { status: "needs_depth", note: "Dossier is stored, but food streets, nightlife, and lifestyle are thin. Huynh Thuc Khang was named by the owner and is not in the dossier.", updated: nowIso(), reworkCount: 0 };
+      for (const [name, preset] of Object.entries(DA_NANG_LANES)) {
+        place.stages[name] = { ...stage(), ...preset, updated: nowIso() };
+      }
       place.stages.destination = { status: "paged", note: "City setup ran 19–20 Oct 2026.", updated: nowIso(), reworkCount: 0 };
-      place.stages.destinationCopy = { status: "enriched", note: "Copy pass 20 Oct 2026. Goes stale when the depth pass changes the dossier.", updated: nowIso(), reworkCount: 0 };
-      place.stages.food = { status: "paged", note: "Food guide exists. Depth research may add streets.", updated: nowIso(), reworkCount: 0 };
+      place.stages.destinationCopy = { status: "enriched", note: "Copy pass 20 Oct 2026. Goes stale when a research lane changes the dossier.", updated: nowIso(), reworkCount: 0 };
+      place.stages.food = { status: "paged", note: "Food guide exists. The food research lane may add streets.", updated: nowIso(), reworkCount: 0 };
       place.stages.foodCopy = { status: "enriched", note: "Food copy pass 20 Oct 2026.", updated: nowIso(), reworkCount: 0 };
       place.coverage = {
         sights: "partial",
@@ -474,8 +568,10 @@ function cmdInit() {
         events: "partial",
         sideTrips: "partial",
       };
-    } else if (researched) {
-      place.stages.research.status = "stored";
+    } else if (dossierStored(json.slug)) {
+      for (const lane of RESEARCH_LANES) {
+        place.stages[lane.stage].status = "stored";
+      }
     }
     if (json.slug !== "da-nang") {
       place.stages.destination.status = "shell";
@@ -733,16 +829,29 @@ function cmdComplete(flags) {
   const board = load();
   const place = findPlace(board, flags.place);
   const itemId = flags.item || null;
-  if (PLACE_STAGES.includes(flags.stage)) {
+    if (flags.stage === "research") {
+      fail(`Research is split into lanes: ${RESEARCH_LANES.map((lane) => lane.stage).join(", ")}.`);
+    }
+    if (PLACE_STAGES.includes(flags.stage)) {
     if (itemId) fail("Place stages do not take --item. Use page, copy, or quality for an item.");
-    if (flags.stage === "research" && flags.status === "stored") assertResearchStored(place);
-    if (flags.stage === "research" && flags.status === "needs_depth" && !flags.note) {
+    const lane = laneByStage(flags.stage);
+    if (lane && flags.status === "stored") {
+      assertLaneStored(place, lane);
+      if (lastOpenLane(place, flags.stage)) {
+        const statusFile = path.join(researchRoot, place.slug, "STATUS.md");
+        const status = fs.existsSync(statusFile) ? fs.readFileSync(statusFile, "utf8") : "";
+        if (!/^Status:\s*stored\s*$/m.test(status)) {
+          fail(`This is the last research lane. Set research/${place.slug}/STATUS.md to "Status: stored" first.`);
+        }
+      }
+    }
+    if (lane && flags.status === "needs_depth" && !flags.note) {
       fail("needs_depth requires --note naming what is still open.");
     }
     place.stages[flags.stage].status = flags.status;
     place.stages[flags.stage].note = flags.note || place.stages[flags.stage].note;
     place.stages[flags.stage].updated = nowIso();
-    if (flags.stage === "research") touchDownstream(place);
+    if (lane) touchDownstream(place);
     if (flags.status === "rework") {
       place.stages[flags.stage].reworkCount += 1;
       const copyName = flags.stage.replace("Quality", "Copy");
@@ -811,10 +920,11 @@ function cmdAddItem(flags) {
     source: flags.source || "dossier",
     note: flags.note || "",
   }));
-  if (place.stages.research.status === "stored") {
-    place.stages.research.status = "needs_depth";
-    place.stages.research.note = "A new item was added after the dossier was stored.";
-    place.stages.research.updated = nowIso();
+  const owner = laneForKind(flags.kind);
+  if (owner && isDone(place.stages[owner.stage].status)) {
+    place.stages[owner.stage].status = "needs_depth";
+    place.stages[owner.stage].note = "A new item was added after this lane was stored.";
+    place.stages[owner.stage].updated = nowIso();
   }
   save(board);
   console.log(`Added ${id}.`);
@@ -901,7 +1011,7 @@ function cmdReconcile() {
 function cmdValidate() {
   const board = load();
   const errors = [];
-  if (board.version !== 1) errors.push("version must be 1");
+  if (board.version !== 1 && board.version !== 2) errors.push("version must be 1 or 2");
   const slugs = new Set();
   for (const place of board.places) {
     if (slugs.has(place.slug)) errors.push(`duplicate place ${place.slug}`);
@@ -999,7 +1109,8 @@ function cmdReport(flags) {
     const units = unitItems(place);
     const open = units.filter((item) => ITEM_FIELDS.some((field) => !isDone(item[field])) || !isDone(item.research)).length;
     const buckets = COVERAGE_BUCKETS.filter((key) => place.coverage[key] !== "filled" && place.coverage[key] !== "none");
-    lines.push(`- ${place.name} (${place.slug}, ${place.publish}, priority ${place.priority}): research ${place.stages.research.status}, destination ${place.stages.destination.status}/${place.stages.destinationCopy.status}/${place.stages.destinationQuality.status}, food ${place.stages.food.status}/${place.stages.foodCopy.status}/${place.stages.foodQuality.status}, unit items ${open} open of ${units.length}${buckets.length ? `, coverage open: ${buckets.join(", ")}` : ""}`);
+    const lanes = RESEARCH_LANES.map((lane) => `${lane.short} ${place.stages[lane.stage]?.status || "missing"}`).join(", ");
+    lines.push(`- ${place.name} (${place.slug}, ${place.publish}, priority ${place.priority}): ${lanes}; destination ${place.stages.destination.status}/${place.stages.destinationCopy.status}/${place.stages.destinationQuality.status}; food ${place.stages.food.status}/${place.stages.foodCopy.status}/${place.stages.foodQuality.status}; unit items ${open} open of ${units.length}${buckets.length ? `; coverage open: ${buckets.join(", ")}` : ""}`);
   }
   lines.push("");
   lines.push("## Recent log");
@@ -1044,13 +1155,55 @@ function blockedUnits(board) {
   return rows;
 }
 
+function upgradePlace(place) {
+  if (place.stages.researchBase && !place.stages.research) return false;
+  const legacy = place.stages.research;
+  if (place.slug === "da-nang") {
+    for (const [name, preset] of Object.entries(DA_NANG_LANES)) {
+      place.stages[name] = { ...stage(), ...preset, updated: nowIso() };
+    }
+  } else if (legacy?.status === "stored") {
+    for (const lane of RESEARCH_LANES) place.stages[lane.stage] = { ...stage(), status: "stored", note: legacy.note || "", updated: nowIso() };
+  } else if (legacy?.status === "blocked") {
+    for (const lane of RESEARCH_LANES) place.stages[lane.stage] = { ...stage(), status: "blocked", note: legacy.note || "", updated: nowIso() };
+  } else {
+    for (const lane of RESEARCH_LANES) place.stages[lane.stage] = place.stages[lane.stage] || stage();
+  }
+  delete place.stages.research;
+  return true;
+}
+
+function cmdUpgrade() {
+  const board = load();
+  let changed = 0;
+  for (const place of board.places) {
+    if (upgradePlace(place)) changed += 1;
+  }
+  board.version = 2;
+  logPush(board, {
+    place: "",
+    stage: "upgrade",
+    item: null,
+    status: "stored",
+    note: "Split research into base, attractions, food, nightlife, lifestyle, and context. A missing lane is done before a partial one.",
+  });
+  save(board);
+  console.log(`Upgraded ${changed} places to research lanes.`);
+}
+
 function runSelfCheck() {
   const dir = fs.mkdtempSync(path.join("/tmp", "board-"));
   const file = path.join(dir, "board.json");
   const pause = path.join(dir, "PAUSE");
   const script = path.join(root, "scripts", "board.mjs");
   const place = placeShell({ slug: "sample", name: "Sample", publish: "live", priority: 1 });
-  place.stages.research.status = "needs_depth";
+  place.stages.researchBase = { ...stage(), status: "stored", note: "Scene is in." };
+  place.stages.researchAttractions = { ...stage(), status: "needs_depth", note: "Sights are partial." };
+  place.stages.researchFood = { ...stage(), status: "not_started", note: "Food streets are missing." };
+  place.stages.researchNightlife = { ...stage(), status: "needs_depth", note: "Night is partial." };
+  place.stages.researchLifestyle = { ...stage(), status: "not_started", note: "No ordinary day yet." };
+  place.stages.researchContext = { ...stage(), status: "needs_depth", note: "Events are partial." };
+  place.coverage = { sights: "partial", areas: "partial", foodStreets: "missing", nightlife: "partial", lifestyle: "missing", events: "partial", sideTrips: "partial" };
   place.stages.destination.status = "paged";
   place.stages.destinationCopy.status = "enriched";
   place.stages.food.status = "paged";
@@ -1078,25 +1231,27 @@ function runSelfCheck() {
   const env = { ...process.env, BOARD_PATH: file, PAUSE_PATH: pause, RESEARCH_ROOT: dir };
   const run = (extra) => execSync(`node ${script} ${extra}`, { env, encoding: "utf8", stdio: ["ignore", "pipe", "pipe"] });
   const first = run("next");
-  if (!first.includes("stage: research") || !first.includes("place: sample")) fail(`self-check next:\n${first}`);
-  run("claim --place sample --stage research");
-  const again = run("claim --place sample --stage research");
+  if (!first.includes("stage: researchFood") || !first.includes("place: sample")) fail(`self-check next:\n${first}`);
+  run("claim --place sample --stage researchFood");
+  const again = run("claim --place sample --stage researchFood");
   if (!again.includes("Already claimed")) fail(`self-check reclaim:\n${again}`);
   const busy = run("next");
   if (!busy.includes("reason: claimed")) fail(`self-check claim:\n${busy}`);
   let stored = "";
   try {
-    stored = run("complete --place sample --stage research --status stored");
+    stored = run("complete --place sample --stage researchFood --status stored");
   } catch (error) {
     stored = `${error.stdout || ""}\n${error.stderr || ""}`;
   }
   if (!stored.includes("cannot be stored")) fail(`self-check stored gate:\n${stored}`);
-  for (const bucket of COVERAGE_BUCKETS) run(`cover --place sample --bucket ${bucket} --state filled`);
+  run("cover --place sample --bucket foodStreets --state filled");
   run("set-item --place sample --id sample--huynh-thuc-khang --research stored");
-  run("complete --place sample --stage research --status stored --note sourced");
+  run("complete --place sample --stage researchFood --status stored --note sourced");
   const after = readJson(file);
   if (after.places[0].stages.destinationCopy.status !== "stale") fail("copy should go stale after research");
   if (after.claim !== null) fail("complete should clear the claim");
+  const follow = run("next");
+  if (!follow.includes("stage: researchLifestyle")) fail(`self-check should stay in research:\n${follow}`);
   fs.writeFileSync(pause, "pause\n");
   const stopped = run("next");
   if (!stopped.includes("reason: paused")) fail(`self-check pause:\n${stopped}`);
@@ -1114,6 +1269,7 @@ const command = argv._[0];
 
 if (command === "self-check") runSelfCheck();
 else if (command === "init") cmdInit();
+else if (command === "upgrade") cmdUpgrade();
 else if (command === "next") cmdNext(argv);
 else if (command === "claim") cmdClaim(argv);
 else if (command === "release") cmdRelease();

@@ -10,7 +10,7 @@ You are the Vietnam Guide content worker. One run does one unit from `ops/board.
 
 Read `.cursor/skills/content-board/SKILL.md` and follow it. Also read the skill named in `next` before you edit:
 
-- `research` → `.cursor/skills/destination-research/SKILL.md`
+- a `research…` lane → `.cursor/skills/destination-research/SKILL.md`
 - `destination` or `food` or `page` → `.cursor/skills/city-setup/SKILL.md`
 - `destinationCopy` or `foodCopy` or `copy` → `.cursor/skills/graphic-copy/SKILL.md`
 - a quality stage → the quality section of the content-board skill
@@ -36,7 +36,7 @@ Commit only `ops/board.json` with the message `content: claim <slug> <stage>`. P
 
 Then do only that stage.
 
-- Research adds food streets, nightlife areas, and lifestyle to the dossier, then rows on the board. A stored dossier with thin streets is not done. `needs_depth` is allowed when the note says what remains. Do not publish a candidate.
+- Do only the research lane `next` printed. `researchFood` does dishes, markets, and food streets. `researchNightlife` and `researchLifestyle` do those layers and nothing else. `researchAttractions` does sights and areas. `researchBase` does the scene and getting there. `researchContext` does events and side trips. Add every find to the board. A restaurant or bar name goes under its street in the dossier as `do not publish as a pick`, unless it is already a scene landmark. If the hour ends early, `complete --status needs_depth` and name what is still open. Do not publish a candidate. If any other lane is still open, set `STATUS.md` to `needs depth`. Set `Status: stored` only when this lane is the last one.
 - Destination setup writes the place shell. It does not open new attraction files.
 - Food setup writes the food guide and the bundled dishes the dossier has already sourced.
 - An item `page` or `copy` touches that one attraction.

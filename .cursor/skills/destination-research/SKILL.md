@@ -78,6 +78,10 @@ Side trips are day or overnight trips from this base. Give travel time, why some
 
 Food is the local list: Vietnamese name, what it is, how to eat it, when to order it, and the area. Include breakfast, sweets, and drinks when the place has them. Name the neighbor’s dishes only so copy can link them. No stall prices.
 
+Exploration by interest uses local titles, not another city’s list. One card is the food guide. Map a title to an existing interest key only when it fits: `food`, `oldTowns`, `pagodas`, `caves`, `beaches`, `islands`, `mountains`, `rice`, `markets`, `warHistory`, `coffee`, `nightlife`, `family`, `photography`, `motorbike`. Suggest an icon of `food`, `beach`, `drink`, `museum`, or `view`.
+
+Getting there covers air, rail, road, and bus from the usual previous stop, with station or airport names, durations, and how to move around on site. Mark an unsourced duration as approximate.
+
 ## Depth: streets, night, and the ordinary day
 
 A dossier of ticketed sights is not finished. Da Nang is the example: An Thuong is an area, and a food alley such as Huynh Thuc Khang is an area. A stall list is not.
@@ -92,19 +96,30 @@ Write `None recorded` under a heading only when you looked and that layer is not
 
 If the owner named a street and you cannot find a primary source, do not invent the address. Leave that board item `blocked` with the question.
 
+## Lanes
+
+One run does the lane `node scripts/board.mjs next` prints. It does not finish the other lanes.
+
+| Lane | Fill this | Then set |
+|---|---|---|
+| `researchBase` | Why a night here, and getting there | — |
+| `researchAttractions` | Sights and areas | `sights`, `areas` |
+| `researchFood` | Dishes, markets, food streets | `foodStreets` |
+| `researchNightlife` | Evening areas | `nightlife` |
+| `researchLifestyle` | The ordinary day | `lifestyle` |
+| `researchContext` | Events and side trips | `events`, `sideTrips` |
+
+Restaurant and bar names that helped you find a street go in `food.md` under `## Notes, not pages`, each with a source and the words `do not publish as a pick`. Group them under the street. A scene landmark already in Why a night here can stay a pin. Do not turn that list into a public restaurant page.
+
 ## Board
 
-Read `.cursor/skills/content-board/SKILL.md`. Before you call research stored, add every entry to `ops/board.json` with `node scripts/board.mjs add-item`, or `set-item` when the row is already there. Set each coverage bucket with `node scripts/board.mjs cover`. `filled` means a planning trip could use the list. `partial` does not pass. An entry that should not have its own page is still an item: set page, copy, and quality to `skipped` and put the reason in the note.
+Read `.cursor/skills/content-board/SKILL.md`. Add every entry with `node scripts/board.mjs add-item`, or `set-item` when the row exists. Set that lane’s buckets with `node scripts/board.mjs cover`. `filled` means a planning trip could use the list. `partial` does not pass. An entry that should not have its own page is still an item: set page, copy, and quality to `skipped` and put the reason in the note.
 
-If the board says `needs_depth`, keep researching even when `STATUS.md` already says stored.
-
-Exploration by interest uses local titles, not another city’s list. One card is the food guide. Map a title to an existing interest key only when it fits: `food`, `oldTowns`, `pagodas`, `caves`, `beaches`, `islands`, `mountains`, `rice`, `markets`, `warHistory`, `coffee`, `nightlife`, `family`, `photography`, `motorbike`. Suggest an icon of `food`, `beach`, `drink`, `museum`, or `view`.
-
-Getting there covers air, rail, road, and bus from the usual previous stop, with station or airport names, durations, and how to move around on site. Mark an unsourced duration as approximate.
+Store the lane with `node scripts/board.mjs complete --place <slug> --stage <lane> --status stored`. If the hour ends first, use `--status needs_depth` and name the gap. While any lane is open, `STATUS.md` says `needs depth`. It says `stored` only when the last lane is stored.
 
 ## Gate
 
-`stored` requires all of the following:
+One lane is done when its own section, buckets, and items are stored. The dossier as a whole is `stored` only when every lane is, and then all of the following are true:
 
 - All six body files exist and none is a heading with an empty list
 - `food.md` has `## Food streets and markets`, and `attractions.md` has `## Nightlife and evening` and `## Lifestyle`, each with entries or `None recorded`
@@ -113,7 +128,7 @@ Getting there covers air, rail, road, and bus from the usual previous stop, with
 - Side trips name real slugs or a placeholder
 - Interest titles are local to this destination
 - No public content file was edited
-- `node scripts/board.mjs complete --place <slug> --stage research --status stored` succeeds
+- This run stored its own lane. `STATUS.md` says `stored` only when no lane is left open.
 
 Then tell the user the folder path. Do not start page setup in the same turn. The board’s next stage does that.
 

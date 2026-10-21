@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updated": "2026-10-21T03:24:23.779Z",
+  "version": 2,
+  "updated": "2026-10-21T03:39:17.628Z",
   "control": {
     "pause": false,
     "pauseReason": "",
@@ -10,6 +10,14 @@
   },
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T03:39:17.628Z",
+      "place": "",
+      "stage": "upgrade",
+      "item": null,
+      "status": "stored",
+      "note": "Split research into base, attractions, food, nightlife, lifestyle, and context. A missing lane is done before a partial one."
+    },
     {
       "at": "2026-10-21T03:24:23.694Z",
       "place": "",
@@ -40,12 +48,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "shell",
           "note": "A place file exists. It has not been set up from a stored dossier.",
@@ -77,6 +79,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -139,12 +177,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "shell",
           "note": "A place file exists. It has not been set up from a stored dossier.",
@@ -176,6 +208,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -238,12 +306,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "shell",
           "note": "A place file exists. It has not been set up from a stored dossier.",
@@ -275,6 +337,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -321,12 +419,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "shell",
           "note": "A place file exists. It has not been set up from a stored dossier.",
@@ -358,6 +450,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -436,12 +564,6 @@
         "sideTrips": "partial"
       },
       "stages": {
-        "research": {
-          "status": "needs_depth",
-          "note": "Dossier is stored, but food streets, nightlife, and lifestyle are thin. Huynh Thuc Khang was named by the owner and is not in the dossier.",
-          "updated": "2026-10-21T03:24:23.689Z",
-          "reworkCount": 0
-        },
         "destination": {
           "status": "paged",
           "note": "City setup ran 19–20 Oct 2026.",
@@ -476,6 +598,42 @@
           "status": "not_started",
           "note": "",
           "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "stored",
+          "note": "Why a night here and getting there are in the dossier from 20 Oct 2026.",
+          "updated": "2026-10-21T03:39:17.628Z",
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "needs_depth",
+          "note": "Major sights are in. Areas beyond An Thuong are still thin.",
+          "updated": "2026-10-21T03:39:17.628Z",
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "Dishes exist. Food streets do not. Huynh Thuc Khang has no source.",
+          "updated": "2026-10-21T03:39:17.628Z",
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "needs_depth",
+          "note": "An Thuong, Kalà Kalà, and East West are pins. The night is not mapped as areas.",
+          "updated": "2026-10-21T03:39:17.628Z",
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "No ordinary-day layer yet: breakfast, the swim, cafe streets, the quiet hour.",
+          "updated": "2026-10-21T03:39:17.628Z",
+          "reworkCount": 0
+        },
+        "researchContext": {
+          "status": "needs_depth",
+          "note": "Fireworks and a few side trips are in. Both lists are partial.",
+          "updated": "2026-10-21T03:39:17.628Z",
           "reworkCount": 0
         }
       },
@@ -935,12 +1093,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "shell",
           "note": "A place file exists. It has not been set up from a stored dossier.",
@@ -972,6 +1124,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -1050,12 +1238,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "shell",
           "note": "A place file exists. It has not been set up from a stored dossier.",
@@ -1087,6 +1269,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -1149,12 +1367,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "shell",
           "note": "A place file exists. It has not been set up from a stored dossier.",
@@ -1186,6 +1398,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -1360,12 +1608,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "shell",
           "note": "A place file exists. It has not been set up from a stored dossier.",
@@ -1397,6 +1639,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -1587,12 +1865,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "shell",
           "note": "A place file exists. It has not been set up from a stored dossier.",
@@ -1624,6 +1896,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -1798,12 +2106,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "shell",
           "note": "A place file exists. It has not been set up from a stored dossier.",
@@ -1835,6 +2137,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -1977,12 +2315,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "shell",
           "note": "A place file exists. It has not been set up from a stored dossier.",
@@ -2014,6 +2346,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -2060,12 +2428,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "shell",
           "note": "A place file exists. It has not been set up from a stored dossier.",
@@ -2097,6 +2459,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -2159,12 +2557,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "shell",
           "note": "A place file exists. It has not been set up from a stored dossier.",
@@ -2196,6 +2588,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -2242,12 +2670,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "shell",
           "note": "A place file exists. It has not been set up from a stored dossier.",
@@ -2279,6 +2701,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -2341,12 +2799,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "shell",
           "note": "A place file exists. It has not been set up from a stored dossier.",
@@ -2378,6 +2830,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -2472,12 +2960,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "shell",
           "note": "A place file exists. It has not been set up from a stored dossier.",
@@ -2509,6 +2991,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -2619,12 +3137,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "shell",
           "note": "A place file exists. It has not been set up from a stored dossier.",
@@ -2656,6 +3168,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -2718,12 +3266,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "shell",
           "note": "A place file exists. It has not been set up from a stored dossier.",
@@ -2755,6 +3297,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -2817,12 +3395,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "shell",
           "note": "A place file exists. It has not been set up from a stored dossier.",
@@ -2854,6 +3426,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -2932,12 +3540,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "shell",
           "note": "A place file exists. It has not been set up from a stored dossier.",
@@ -2969,6 +3571,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -3015,12 +3653,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "not_started",
           "note": "",
@@ -3052,6 +3684,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -3081,12 +3749,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "not_started",
           "note": "",
@@ -3118,6 +3780,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,
@@ -3147,12 +3845,6 @@
         "sideTrips": "missing"
       },
       "stages": {
-        "research": {
-          "status": "not_started",
-          "note": "",
-          "updated": null,
-          "reworkCount": 0
-        },
         "destination": {
           "status": "not_started",
           "note": "",
@@ -3184,6 +3876,42 @@
           "reworkCount": 0
         },
         "foodQuality": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchBase": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchAttractions": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchFood": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchNightlife": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchLifestyle": {
+          "status": "not_started",
+          "note": "",
+          "updated": null,
+          "reworkCount": 0
+        },
+        "researchContext": {
           "status": "not_started",
           "note": "",
           "updated": null,

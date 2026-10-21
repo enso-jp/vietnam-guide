@@ -13,5 +13,6 @@ Read `.cursor/skills/destination-research/SKILL.md` before writing.
 - One destination per pass. Keep the search-name slug.
 - Unknown fees, hours, and dates stay `Check on arrival` and `UNSOURCED`.
 - Set `STATUS.md` to `stored` only when all six sections have sources, including food streets, nightlife, and lifestyle.
-- Update `ops/board.json` before you finish. If the board says `needs_depth`, keep going.
+- Do only the research lane the board claimed: base, attractions, food, nightlife, lifestyle, or context.
+- Update `ops/board.json` before you finish. A missing lane stays open. Do not mark the whole dossier stored.
 - Stop when the dossier is stored. The next claimed stage on the board sets the page up.

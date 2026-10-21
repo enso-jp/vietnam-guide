@@ -112,6 +112,10 @@ Districts that deserve their own page:
 - Photo must show:
 - Sources:
 
+## Notes, not pages
+
+Restaurant and bar names that located a street. Each line has a source and the words `do not publish as a pick`. Group them under the street. This is not a page.
+
 ## Exploration by interest area (localized to the locations)
 
 ### {Local title}
