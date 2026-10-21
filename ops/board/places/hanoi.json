@@ -238,6 +238,13 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "hanoi",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-21T08:18:12.553Z",
+    "by": "hourly",
+    "branch": "cursor/content-hanoi-researchBase"
+  },
   "log": []
 }
