@@ -1,6 +1,6 @@
 # Central Coast coverage
 
-Last reviewed: 19 Oct 2026. This file is the weekly queue. It is not a public page.
+Last reviewed: 21 Oct 2026. Status lives in `ops/board.json`. This file is the Central Coast note, not the queue.
 
 Corridor copy lives in `src/content/corridors/central-coast.json`. Places: Hue, Da Nang, Hoi An, My Son, Phong Nha.
 

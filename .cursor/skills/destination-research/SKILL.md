@@ -20,7 +20,7 @@ Do not edit `src/content`, `public/photos`, or partner links in this pass. Do no
 
 One destination per pass. Use the search-name slug already on the site (`hue`, `da-nang`, `hoi-an`). Do not rename a place under a province slug. A province and its main city can share a dossier only when travelers treat them as one base. My Son stays `my-son`. Phong Nha stays `phong-nha`.
 
-On the Central Coast, work in this order unless the user names one: Hue, Da Nang, Hoi An, My Son, Phong Nha. Read existing JSON only to see what is already published. Published pages are not a source.
+Take the place `node scripts/board.mjs next` names. Do not pick a different city because this skill used to list Hue first. Read existing JSON only to see what is already published. Published pages are not a source.
 
 ## Where to store it
 
@@ -35,7 +35,7 @@ Copy [template.md](template.md) into `research/<slug>/` and fill every section. 
 - `getting-there.md`
 - `sources.md`
 
-Set `STATUS.md` to `researching` at the start. Set it to `stored` only when the gate below passes. Leave `ready for copy` blank until then.
+Set `STATUS.md` to `researching` at the start. Set it to `stored` only when the gate below passes. Leave `ready for copy` blank until then. Read `.cursor/skills/content-board/SKILL.md` first and claim the research unit before you write. If this run already holds that claim, claim again and keep going.
 
 ## How to research
 
@@ -82,18 +82,55 @@ Exploration by interest uses local titles, not another city’s list. One card i
 
 Getting there covers air, rail, road, and bus from the usual previous stop, with station or airport names, durations, and how to move around on site. Mark an unsourced duration as approximate.
 
+## Depth: streets, night, and the ordinary day
+
+A dossier of ticketed sights is not finished. Da Nang is the example: An Thuong is an area, and a food alley such as Huynh Thuc Khang is an area. A stall list is not.
+
+Add these headings, using the entry shape in the template:
+
+- `food.md`: `## Food streets and markets`. Each alley, market, or eating street people treat as a destination gets its own entry. Kind `food-street`.
+- `attractions.md`: `## Nightlife and evening`. The streets a traveler walks after dark. Kind `nightlife`. A few scene landmarks may pin the area, each with a primary URL. They are pins, not a ranked bar guide, and they have no prices and no scores.
+- `attractions.md`: `## Lifestyle`. How an ordinary day goes: breakfast area, the swim or the walk, the cafe street, the hour the city goes quiet. Kind `lifestyle`. Areas, not a hotel brand.
+
+Write `None recorded` under a heading only when you looked and that layer is not part of this place, and name the source that shows you looked.
+
+If the owner named a street and you cannot find a primary source, do not invent the address. Leave that board item `blocked` with the question.
+
+## Lanes
+
+One run does the lane `node scripts/board.mjs next` prints. It does not finish the other lanes.
+
+| Lane | Fill this | Then set |
+|---|---|---|
+| `researchBase` | Why a night here, and getting there | — |
+| `researchAttractions` | Sights and areas | `sights`, `areas` |
+| `researchFood` | Dishes, markets, food streets | `foodStreets` |
+| `researchNightlife` | Evening areas | `nightlife` |
+| `researchLifestyle` | The ordinary day | `lifestyle` |
+| `researchContext` | Events and side trips | `events`, `sideTrips` |
+
+Restaurant and bar names that helped you find a street go in `food.md` under `## Notes, not pages`, each with a source and the words `do not publish as a pick`. Group them under the street. A scene landmark already in Why a night here can stay a pin. Do not turn that list into a public restaurant page.
+
+## Board
+
+Read `.cursor/skills/content-board/SKILL.md`. Add every entry with `node scripts/board.mjs add-item`, or `set-item` when the row exists. Set that lane’s buckets with `node scripts/board.mjs cover`. `filled` means a planning trip could use the list. `partial` does not pass. An entry that should not have its own page is still an item: set page, copy, and quality to `skipped` and put the reason in the note.
+
+Store the lane with `node scripts/board.mjs complete --place <slug> --stage <lane> --status stored`. If the hour ends first, use `--status needs_depth` and name the gap. While any lane is open, `STATUS.md` says `needs depth`. It says `stored` only when the last lane is stored.
+
 ## Gate
 
-`stored` requires all of the following:
+One lane is done when its own section, buckets, and items are stored. The dossier as a whole is `stored` only when every lane is, and then all of the following are true:
 
 - All six body files exist and none is a heading with an empty list
+- `food.md` has `## Food streets and markets`, and `attractions.md` has `## Nightlife and evening` and `## Lifestyle`, each with entries or `None recorded`
 - Every fee, hour, date, and duration has a source line or `UNSOURCED`
 - `sources.md` lists each URL, publisher, and access date
 - Side trips name real slugs or a placeholder
 - Interest titles are local to this destination
 - No public content file was edited
+- This run stored its own lane. `STATUS.md` says `stored` only when no lane is left open.
 
-Then tell the user the folder path and that the Page Setup Agent can polish it with `.cursor/skills/graphic-copy/SKILL.md`. Do not start that pass in the same turn.
+Then tell the user the folder path. Do not start page setup in the same turn. The board’s next stage does that.
 
 ## Example attraction entry
 

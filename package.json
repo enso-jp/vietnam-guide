@@ -9,7 +9,8 @@
     "prebuild": "node scripts/validate-content.mjs",
     "build": "astro build && node scripts/check-budget.mjs",
     "preview": "astro preview",
-    "check:content": "node scripts/validate-content.mjs"
+    "check:content": "node scripts/validate-content.mjs",
+    "board": "node scripts/board.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.6.0",
