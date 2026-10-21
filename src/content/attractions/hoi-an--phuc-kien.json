@@ -1,0 +1,66 @@
+{
+  "slug": "phuc-kien",
+  "placeSlug": "hoi-an",
+  "name": "Fujian Assembly Hall",
+  "nameVi": "Hội quán Phúc Kiến",
+  "kicker": "Long Fujian merchant hall on Trần Phú",
+  "summary": "The long assembly hall at 46 Trần Phú, about 120 metres through three courts to the Thiên Hậu hall. It began in 1697 as Kim Sơn Tự and was rebuilt as the Fujian hall from 1757. Door hours are check on arrival. The fee is the ancient-town ticket, which is also check on arrival.",
+  "dots": 4,
+  "district": "Old town",
+  "timeNeeded": "A walk through the courts. Exact minutes are check on arrival.",
+  "fee": "Check on arrival",
+  "getThere": "Walk to 46 Trần Phú",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The hall court, with the gate and the incense burner",
+  "notice": {
+    "title": "Hours and the fee are both check on arrival",
+    "body": "The monument file prints no door hours and no separate price. Assembly halls are optional works on the combination tickets the heritage centre described in January and March 2026. From 10 August 2026 the city fee is 20,000 VND per person per building. Ask which rule the desk is using."
+  },
+  "body": [
+    "Walk in from 46 Trần Phú, on the even side near the market. The monument file gives the hall as about 120 metres deep, through three courts, back toward the Phan Chu Trinh–Nguyễn Huệ crossing. It began in 1697 as Kim Sơn Tự. From 1757 the Fujian congregation rebuilt it as an assembly hall for worship, the earlier merchants, and meetings. The main hall is Thiên Hậu.",
+    "Come in the morning. No open or close is printed on the monument file, so the hour is check on arrival. This is the long hall if your ticket includes one assembly hall. The monument file does not rank the other halls. Chùa Ông, at 24 Trần Phú, is the other landmark choice on the combination notices."
+  ],
+  "figures": [
+    {
+      "id": "hoi-an-phuc-kien-2",
+      "caption": "The gate of the Fujian Assembly Hall",
+      "alt": "The tiled gate of the Fujian Assembly Hall in Hoi An, with three arched doors and a courtyard in front"
+    }
+  ],
+  "gettingThere": [
+    "Walk if you are already in the ancient town. The monument file also describes the way from the Hoi An bus station: Huỳnh Thúc Kháng and Nguyễn Thị Minh Khai, across the bridge onto Trần Phú, and also via Phan Chu Trinh or Trần Hưng Đạo to Nguyễn Huệ. No minute count is printed. The minutes are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the old town",
+      "body": "Walk along Trần Phú to number 46, even side, near the market. The minutes depend on your lane."
+    },
+    {
+      "heading": "From the Hoi An bus station",
+      "body": "The monument file sends you via Huỳnh Thúc Kháng and Nguyễn Thị Minh Khai, across the bridge onto Trần Phú, or via Phan Chu Trinh or Trần Hưng Đạo to Nguyễn Huệ. The ride time is check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day is printed on the monument file.",
+  "admissionNote": "No separate hall price is printed on the monument file. From 10 August 2026 the city fee is 20,000 VND per person per building, the same for a Vietnamese and a foreign visitor. The heritage centre’s January and March 2026 notices name assembly halls among the optional cultural works on the 80,000 VND and 120,000 VND combination tickets. Which desk is in force is check on arrival.",
+  "links": [
+    {
+      "label": "Hội quán Phúc Kiến monument file",
+      "url": "https://hoianheritage.danang.gov.vn/uploads/download/hoi-quan-phuc-kien.pdf",
+      "note": "Hoi An heritage centre"
+    },
+    {
+      "label": "City fee from 10 August 2026",
+      "url": "https://danang.gov.vn/vi/w/tu-10-8-ap-dung-muc-phi-tham-quan-20000-40000-dong-tai-cac-cong-trinh-van-hoa-tren-dia-ban-da-nang",
+      "note": "Da Nang city portal, 6 Aug 2026"
+    },
+    {
+      "label": "January 2026 ticket notice",
+      "url": "https://hoianheritage.net/vi/news/Tin-tuc-su-kien/thong-bao-ve-hoat-dong-tham-quan-khu-pho-co-hoi-an-1711.html",
+      "note": "Heritage centre visitor notice"
+    }
+  ],
+  "interests": [
+    "oldTowns"
+  ]
+}

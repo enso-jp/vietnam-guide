@@ -2,12 +2,63 @@
   "slug": "hoi-an",
   "name": "Hoi An food guide",
   "placeSlug": "hoi-an",
-  "summary": "Hoi An’s signature bowl is cao lau. Add a banh mi, white rose dumplings, and com ga if you have a second day.",
+  "summary": "Hoi An’s bowl is cao lầu, tossed while it is hot. White rose dumplings are a small warm plate. Chicken rice is the lunch when you want a plate. Mì Quảng is the neighbor’s bowl.",
+  "heroSlug": "cao-lau",
   "body": [
-    "Eat cao lau at a shop that makes it the center of the menu. The noodles should be chewy and the broth scarce.",
-    "Cooking classes are the bookable activity here. Pick one that shops at the market in the morning rather than one that only assembles pre-cut trays."
+    "Eat cao lầu in the old town. People here call these noodles bánh. The heritage centre’s article separates them from mì. The noodles are thick, the broth only wets them, and the herbs are from Trà Quế. The bowl looks related to mì Quảng. It is a different dish.",
+    "White rose dumplings are eaten warm, one at a bite, with the fish-sauce dip. Chicken rice here is shredded chicken, turmeric rice, herbs, a bowl of chicken soup, and a sour papaya salad. Bánh mì is the morning stall in the old town. Bánh xoài, sold near the Japanese bridge, is a chewy sweet named for its shape."
   ],
-  "dishSlugs": ["cao-lau", "banh-mi", "com-ga", "ca-phe"],
-  "seoTitle": "Hoi An food guide",
-  "seoDescription": "What to eat in Hoi An, starting with cao lau."
+  "specialtiesLead": "The dishes to know by name. The areas are under the list.",
+  "dishSlugs": [
+    "cao-lau",
+    "white-rose",
+    "com-ga",
+    "banh-mi",
+    "mi-quang"
+  ],
+  "sections": [
+    {
+      "id": "where",
+      "heading": "Where to eat",
+      "nav": "Where to eat",
+      "paragraphs": [
+        "The old town is the meal. Chợ Hội An has a food hall the heritage note names for cao lầu. The street number and the hours are check on arrival. UNESCO’s list text includes an open market inside the property and does not name the street.",
+        "The night market sits on Nguyễn Hoàng, Công nữ Ngọc Hoa, Trần Quý Cáp, and Bạch Đằng, close to the old-town centre. The 2023 note does not print an open or a close. Check on arrival.",
+        "Tân Thành, in the fishing village now inside Hoi An Tây, holds a weekend market the ministry article says is usually on Saturday and Sunday. A later week can move. Check on arrival."
+      ]
+    },
+    {
+      "id": "noodles",
+      "heading": "Noodles",
+      "nav": "Noodles",
+      "paragraphs": [
+        "Toss cao lầu while it is hot. The broth wets the noodles. It is a bowl you mix, and the herbs are the Trà Quế greens. Lunch is the natural hour. A cold takeaway is the miss.",
+        "Mì Quảng is the wide turmeric noodle from the old province, with a shallow broth and a cracker. Order it when you are staying in Hoi An and the Da Nang ride is another day. Toss it. The two bowls look related and they are not the same."
+      ],
+      "dishSlugs": ["cao-lau", "mi-quang"]
+    },
+    {
+      "id": "plates",
+      "heading": "Dumplings and rice",
+      "nav": "Plates",
+      "paragraphs": [
+        "White rose is bánh bao bánh vạc, a steamed dumpling the heritage centre traces to Hoa families in the port. One dumpling is one bite. Dip, and eat it warm. The heritage article describes shrimp and pork. Vietnam Tourism also lists mushrooms.",
+        "The streets where it was carried are Lê Lợi, Trần Phú, Nguyễn Thái Học, and Bạch Đằng. It is a small plate beside the lunch, not the whole meal.",
+        "Chicken rice is the plate when you do not want noodles. Shredded chicken, turmeric rice, herbs, chicken soup, and a sour papaya salad. Eat it in Hoi An."
+      ],
+      "dishSlugs": ["white-rose", "com-ga"]
+    },
+    {
+      "id": "morning",
+      "heading": "Morning and sweets",
+      "nav": "Morning",
+      "paragraphs": [
+        "Bánh mì is the baguette from a street stall in the old town, the morning it is baked. Point at the fillings if there is a choice. Eat it before the walk.",
+        "Bánh xoài is the sweet near the Japanese bridge. The name is the shape. Vietnam Tourism describes glutinous rice flour, crushed peanuts, and brown sugar, with a texture it compares to mochi. Eat it after the walk."
+      ],
+      "dishSlugs": ["banh-mi"]
+    }
+  ],
+  "seoTitle": "Hoi An food guide — cao lầu, white rose, chicken rice",
+  "seoDescription": "Toss cao lầu while it is hot, with Trà Quế herbs and little broth. White rose dumplings are one warm bite. Chicken rice is shredded chicken with turmeric rice."
 }

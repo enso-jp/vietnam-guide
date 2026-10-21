@@ -9,85 +9,85 @@
   "priority": 3,
   "note": "",
   "coverage": {
-    "sights": "missing",
-    "areas": "missing",
-    "foodStreets": "missing",
-    "nightlife": "missing",
-    "lifestyle": "missing",
-    "events": "missing",
-    "sideTrips": "missing"
+    "sights": "filled",
+    "areas": "filled",
+    "foodStreets": "filled",
+    "nightlife": "filled",
+    "lifestyle": "filled",
+    "events": "filled",
+    "sideTrips": "filled"
   },
   "stages": {
     "destination": {
-      "status": "shell",
-      "note": "A place file exists. It has not been set up from a stored dossier.",
-      "updated": null,
+      "status": "paged",
+      "note": "Place, interests, festivals, stay areas, and getting there are on the page. Itinerary files were left untouched. Existing itinerary slugs stay linked. Sightseeing fee, airport minutes, bus stop price, and Phan Chau Trinh 15:00 start are check on arrival. Side trip placeholder: Cu Lao Cham. Left out a second itinerary.",
+      "updated": "2026-10-21T07:37:10.269Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T06:08:52.441Z",
+      "status": "enriched",
+      "note": "Hero replaced: yellow shophouse, Steffen Schmitz, CC BY-SA 4.0. An Bang interest card left off because the beach frame is mostly sky. Fee, airport minutes, and the 15:00 start stay check on arrival.",
+      "updated": "2026-10-21T07:37:42.929Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T06:08:52.441Z",
+      "status": "checked",
+      "note": "Read the place against the dossier. Fee, distances, pedestrian hours, and flood months match. Itinerary file untouched. An Bang card is off until a beach frame shows the low front. Left out airport minutes and which ticket the desk sells.",
+      "updated": "2026-10-21T07:37:51.740Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "shell",
-      "note": "A food file exists. It has not been set up from a stored dossier.",
-      "updated": null,
+      "status": "paged",
+      "note": "Food guide, white rose, and Hoi An lines on cao lau, banh mi, and com ga. No stall prices and no shop picks. Banh xoai stays a paragraph. White rose has no photo. Left out a coffee street.",
+      "updated": "2026-10-21T07:38:00.483Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T06:08:52.441Z",
+      "status": "enriched",
+      "note": "Guide and dishes read against the food dossier. Cao lau where-line no longer names a shop. White rose has no photograph, so no hero was borrowed. Banh xoai stays in the sweets section.",
+      "updated": "2026-10-21T07:38:12.359Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T06:08:52.441Z",
+      "status": "checked",
+      "note": "Read the guide and the dishes against the dossier. No shop picks and no stall prices. White rose has no photo. Cao lau, banh mi, and com ga match the sourced lines. Coffee page left unchanged.",
+      "updated": "2026-10-21T07:38:45.457Z",
       "reworkCount": 0
     },
     "researchBase": {
-      "status": "needs_depth",
-      "note": "First pass. Scene and getting there are in the dossier. Still open: airport and station clock times, Hue train times, the single-ride bus fare at the Hoi An stop, whether the 15:00 Phan Chau Trinh start is in force, summer versus winter months, the 2004 street list, bridge-date and ticket-count disagreements, no bar pin. Sights, food streets, nightlife, lifestyle, events, and side trips remain other lanes.",
-      "updated": "2026-10-21T06:08:52.441Z",
+      "status": "stored",
+      "note": "Left out airport and station clock times, Hue train clocks, the single bus fare inside the band, the 15:00 Phan Chau Trinh start, summer versus winter months, the 2004 street list, one bridge date, and which ticket the desk sells. No bar pin.",
+      "updated": "2026-10-21T07:18:08.391Z",
       "reworkCount": 0
     },
     "researchAttractions": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "stored",
+      "note": "Left out a separate page for the ancient town, Kim Bong, Thanh Ha pottery, and the silk village. Left out door hours that were not on an official page, and the Cam Thanh 2022 prices were not copied onto a settled fee.",
+      "updated": "2026-10-21T07:17:21.149Z",
       "reworkCount": 0
     },
     "researchFood": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "stored",
+      "note": "Left out shop names and stall prices. Left out a Hoi An coffee street. Left out separate pages for the market, the night market, Tan Thanh, and mango cake.",
+      "updated": "2026-10-21T07:17:42.706Z",
       "reworkCount": 0
     },
     "researchNightlife": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "stored",
+      "note": "Left out a bar street. None was on a primary page. Left out the unconfirmed 15:00 Phan Chau Trinh start.",
+      "updated": "2026-10-21T07:18:00.957Z",
       "reworkCount": 0
     },
     "researchLifestyle": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "stored",
+      "note": "Left out a named cafe street. None was sourced. Left out An Bang ride minutes.",
+      "updated": "2026-10-21T07:18:01.572Z",
       "reworkCount": 0
     },
     "researchContext": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "stored",
+      "note": "Left out Gregorian lantern dates, the beach-festival calendar, My Son drive minutes, and the Cham Islands boat fare. Cu Lao Cham stays a placeholder.",
+      "updated": "2026-10-21T07:18:02.073Z",
       "reworkCount": 0
     }
   },
@@ -100,12 +100,12 @@
       "slug": "an-bang",
       "file": "src/content/attractions/hoi-an--an-bang.json",
       "source": "published",
-      "research": "not_started",
-      "page": "shell",
+      "research": "stored",
+      "page": "blocked",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Published shell. researchBase 21 Oct 2026: beach sleep area, villa and homestay lodging, Cam An ward in June 2024, whole of Cam An is now Hoi An Tay. Cua Dai erosion is serious. Ride time Check on arrival. Sight entry still belongs to researchAttractions.",
-      "updated": "2026-10-21T06:08:52.441Z",
+      "note": "An Bang photo is mostly sky and sand, and there is no second frame. Fee and the ride now say check on arrival. A finished page needs sand, water, and the low beach front in one frame.",
+      "updated": "2026-10-21T07:38:45.538Z",
       "reworkCount": 0
     },
     {
@@ -116,12 +116,12 @@
       "slug": "japanese-bridge",
       "file": "src/content/attractions/hoi-an--japanese-bridge.json",
       "source": "published",
-      "research": "not_started",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Published shell. researchBase 21 Oct 2026 records it as the evening pin: early 17th century on the Vietnamese monument page, 1593 and early 17th century on the French page, 18th century on the UNESCO English list. Sight entry still belongs to researchAttractions. Do not change the dot.",
-      "updated": "2026-10-21T06:08:52.441Z",
+      "research": "stored",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Summary, kicker, two photos, getting there, and the ticket disagreement match the dossier. Interior hours stay check on arrival.",
+      "updated": "2026-10-21T07:38:45.790Z",
       "reworkCount": 0
     },
     {
@@ -132,12 +132,12 @@
       "slug": "tan-ky",
       "file": "src/content/attractions/hoi-an--tan-ky.json",
       "source": "published",
-      "research": "not_started",
-      "page": "shell",
+      "research": "stored",
+      "page": "blocked",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": "2026-10-21T06:08:52.441Z",
+      "note": "Only one architectural photo, so the body stays off. Printed hours 08:00-11:30 and 13:30-17:45 are on a Traveloka byline. Fee is check on arrival.",
+      "updated": "2026-10-21T07:38:45.871Z",
       "reworkCount": 0
     },
     {
@@ -148,12 +148,12 @@
       "slug": "cao-lau",
       "file": "src/content/dishes/cao-lau.json",
       "source": "published",
-      "research": "not_started",
-      "page": "shell",
+      "research": "stored",
+      "page": "paged",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
-      "updated": null,
+      "note": "Where is the old town and the night-market streets. Shop names left out.",
+      "updated": "2026-10-21T07:38:00.326Z",
       "reworkCount": 0
     },
     {
@@ -164,12 +164,12 @@
       "slug": "banh-mi",
       "file": "src/content/dishes/banh-mi.json",
       "source": "published",
-      "research": "not_started",
-      "page": "shell",
+      "research": "stored",
+      "page": "paged",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
-      "updated": null,
+      "note": "Added the old-town stall line. Other cities left as they were.",
+      "updated": "2026-10-21T07:38:00.374Z",
       "reworkCount": 0
     },
     {
@@ -180,12 +180,12 @@
       "slug": "com-ga",
       "file": "src/content/dishes/com-ga.json",
       "source": "published",
-      "research": "not_started",
-      "page": "shell",
+      "research": "stored",
+      "page": "paged",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
-      "updated": null,
+      "note": "Added the Hoi An plate. Da Nang shop lines kept.",
+      "updated": "2026-10-21T07:38:00.411Z",
       "reworkCount": 0
     },
     {
@@ -196,12 +196,12 @@
       "slug": "ca-phe",
       "file": "src/content/dishes/ca-phe.json",
       "source": "published",
-      "research": "not_started",
-      "page": "shell",
+      "research": "stored",
+      "page": "skipped",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
-      "updated": null,
+      "note": "No Hoi An coffee fact. Shared page left unchanged.",
+      "updated": "2026-10-21T07:38:00.447Z",
       "reworkCount": 0
     },
     {
@@ -212,12 +212,12 @@
       "slug": "hoi-an-lantern-night",
       "file": "src/content/festivals/hoi-an-lantern-night.json",
       "source": "published",
-      "research": "not_started",
-      "page": "shell",
+      "research": "stored",
+      "page": "paged",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Bundled into the destination stage. researchBase 21 Oct 2026: the creative-city visitor page prints the 14th lunar night, 18:00-21:30, and has no page date. researchContext still owes the organizer date. Do not mark this page skipped.",
-      "updated": "2026-10-21T06:08:52.411Z",
+      "note": "14th lunar night. Hour is check on arrival.",
+      "updated": "2026-10-21T07:37:17.521Z",
       "reworkCount": 0
     },
     {
@@ -226,14 +226,14 @@
       "track": "bundled",
       "name": "White rose dumpling",
       "slug": "white-rose",
-      "file": null,
+      "file": "src/content/dishes/white-rose.json",
       "source": "owner",
-      "research": "not_started",
-      "page": "not_started",
+      "research": "stored",
+      "page": "paged",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Named in Central Coast coverage on 19 Oct 2026. No dish file yet. Source it in the Hoi An dossier before the food stage publishes it.",
-      "updated": null,
+      "note": "Published. No dumpling photo, so the dish page has no hero image.",
+      "updated": "2026-10-21T07:38:00.283Z",
       "reworkCount": 0
     },
     {
@@ -244,12 +244,12 @@
       "slug": "ancient-town-evening",
       "file": null,
       "source": "dossier",
-      "research": "not_started",
+      "research": "stored",
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "researchBase 21 Oct 2026. Old-town pedestrian hours and Phan Chau Trinh are in the dossier. Pins: the Japanese bridge, 66 Bach Dang, 06 Nguyen Thi Minh Khai. No bar. Nightlife lane still owes the evening entry. Page skipped because this is the place, not a separate sight.",
-      "updated": "2026-10-21T06:08:52.441Z",
+      "note": "Pedestrian hours from the January 2026 notice. No bar pin. Page stays skipped because this is the place at night.",
+      "updated": "2026-10-21T07:18:08.391Z",
       "reworkCount": 0
     },
     {
@@ -260,32 +260,421 @@
       "slug": "tan-thanh-market",
       "file": null,
       "source": "dossier",
-      "research": "not_started",
-      "page": "not_started",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Food street lives in the food guide, not its own sight page. Research stored 21 Oct 2026.",
+      "updated": "2026-10-21T07:18:08.391Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--quan-cong",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Quan Cong Temple",
+      "slug": "quan-cong",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "blocked",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Named 19 Jun 2024 as a Saturday-Sunday market at Tan Thanh, then Cam An, now inside Hoi An Tay. researchFood still owes the entry. Do not publish a stall list.",
-      "updated": "2026-10-21T06:08:52.441Z",
+      "note": "No looked-at photo pair. Public file not created. Address 24 Tran Phu and the mid-17th-century date stay in the dossier.",
+      "updated": "2026-10-21T07:38:45.950Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--phuc-kien",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Fujian Assembly Hall",
+      "slug": "phuc-kien",
+      "file": "src/content/attractions/hoi-an--phuc-kien.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Address, 1697, 1757, three courts, and the ticket disagreement match the dossier. Door hours stay check on arrival.",
+      "updated": "2026-10-21T07:38:46.225Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--tra-que",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Tra Que vegetable village",
+      "slug": "tra-que",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "blocked",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "No looked-at photo. Public file not created. Fee and hours are unsourced. Both distances, 2.5 km and about 2 km, stay in the dossier.",
+      "updated": "2026-10-21T07:38:46.299Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--cam-thanh",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Cam Thanh coconut water",
+      "slug": "cam-thanh",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "blocked",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "No looked-at photo. Public file not created. The 2022 prices stay in the dossier and are not a current tariff.",
+      "updated": "2026-10-21T07:38:46.372Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--ancient-town",
+      "kind": "area",
+      "track": "unit",
+      "name": "Ancient town",
+      "slug": "ancient-town",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "This is the place, not a separate sight page.",
+      "updated": "2026-10-21T07:18:08.391Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--hoi-an-market",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Hoi An market food hall",
+      "slug": "hoi-an-market",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Food street lives in the food guide, not its own sight page. Research stored 21 Oct 2026.",
+      "updated": "2026-10-21T07:18:08.391Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--hoi-an-night-market",
+      "kind": "food-street",
+      "track": "unit",
+      "name": "Hoi An night market",
+      "slug": "hoi-an-night-market",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Food street lives in the food guide, not its own sight page. Research stored 21 Oct 2026.",
+      "updated": "2026-10-21T07:18:08.391Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--banh-xoai",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Mango cake",
+      "slug": "banh-xoai",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Recorded in the food guide as a sweet. No dish photo, so no separate page. Research stored 21 Oct 2026.",
+      "updated": "2026-10-21T07:17:42.665Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--old-town-morning",
+      "kind": "lifestyle",
+      "track": "unit",
+      "name": "Old-town morning",
+      "slug": "old-town-morning",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Ordinary day lives on the place page, not a separate sight. Research stored 21 Oct 2026.",
+      "updated": "2026-10-21T07:18:08.391Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--an-bang-hour",
+      "kind": "lifestyle",
+      "track": "unit",
+      "name": "An Bang hour",
+      "slug": "an-bang-hour",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Ordinary day lives on the place page, not a separate sight. Research stored 21 Oct 2026.",
+      "updated": "2026-10-21T07:18:08.391Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--quiet-hour",
+      "kind": "lifestyle",
+      "track": "unit",
+      "name": "Quiet hour",
+      "slug": "quiet-hour",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Ordinary day lives on the place page, not a separate sight. Research stored 21 Oct 2026.",
+      "updated": "2026-10-21T07:18:08.391Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--nguyen-tieu",
+      "kind": "event",
+      "track": "bundled",
+      "name": "Nguyen Tieu at Chua Ong",
+      "slug": "nguyen-tieu",
+      "file": "src/content/festivals/nguyen-tieu.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "paged",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "16th of the first lunar month. Civil date is check on arrival.",
+      "updated": "2026-10-21T07:37:17.573Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hoi-an--hoi-an-summer-beach",
+      "kind": "event",
+      "track": "bundled",
+      "name": "Hoi An summer beach festival",
+      "slug": "hoi-an-summer-beach",
+      "file": "src/content/festivals/hoi-an-summer-beach.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "paged",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Name only. Month, day, and fee are check on arrival.",
+      "updated": "2026-10-21T07:37:17.612Z",
       "reworkCount": 0
     }
   ],
-  "questions": [],
-  "claim": {
-    "place": "hoi-an",
-    "stage": "researchAttractions",
-    "item": null,
-    "at": "2026-10-21T07:05:53.006Z",
-    "by": "hourly",
-    "branch": ""
-  },
+  "questions": [
+    {
+      "at": "2026-10-21T07:38:45.538Z",
+      "stage": "page",
+      "item": "hoi-an--an-bang",
+      "text": "An Bang photo is mostly sky and sand, and there is no second frame. Fee and the ride now say check on arrival. A finished page needs sand, water, and the low beach front in one frame.",
+      "open": true
+    },
+    {
+      "at": "2026-10-21T07:38:45.871Z",
+      "stage": "page",
+      "item": "hoi-an--tan-ky",
+      "text": "Only one architectural photo, so the body stays off. Printed hours 08:00-11:30 and 13:30-17:45 are on a Traveloka byline. Fee is check on arrival.",
+      "open": true
+    },
+    {
+      "at": "2026-10-21T07:38:45.950Z",
+      "stage": "page",
+      "item": "hoi-an--quan-cong",
+      "text": "No looked-at photo pair. Public file not created. Address 24 Tran Phu and the mid-17th-century date stay in the dossier.",
+      "open": true
+    },
+    {
+      "at": "2026-10-21T07:38:46.300Z",
+      "stage": "page",
+      "item": "hoi-an--tra-que",
+      "text": "No looked-at photo. Public file not created. Fee and hours are unsourced. Both distances, 2.5 km and about 2 km, stay in the dossier.",
+      "open": true
+    },
+    {
+      "at": "2026-10-21T07:38:46.372Z",
+      "stage": "page",
+      "item": "hoi-an--cam-thanh",
+      "text": "No looked-at photo. Public file not created. The 2022 prices stay in the dossier and are not a current tariff.",
+      "open": true
+    }
+  ],
+  "claim": null,
   "log": [
     {
-      "at": "2026-10-21T06:08:52.441Z",
+      "at": "2026-10-21T07:38:46.372Z",
+      "place": "hoi-an",
+      "stage": "page",
+      "item": "hoi-an--cam-thanh",
+      "status": "blocked",
+      "note": "No looked-at photo. Public file not created. The 2022 prices stay in the dossier and are not a current tariff."
+    },
+    {
+      "at": "2026-10-21T07:38:46.300Z",
+      "place": "hoi-an",
+      "stage": "page",
+      "item": "hoi-an--tra-que",
+      "status": "blocked",
+      "note": "No looked-at photo. Public file not created. Fee and hours are unsourced. Both distances, 2.5 km and about 2 km, stay in the dossier."
+    },
+    {
+      "at": "2026-10-21T07:38:46.225Z",
+      "place": "hoi-an",
+      "stage": "quality",
+      "item": "hoi-an--phuc-kien",
+      "status": "checked",
+      "note": "Address, 1697, 1757, three courts, and the ticket disagreement match the dossier. Door hours stay check on arrival."
+    },
+    {
+      "at": "2026-10-21T07:38:46.146Z",
+      "place": "hoi-an",
+      "stage": "copy",
+      "item": "hoi-an--phuc-kien",
+      "status": "enriched",
+      "note": "Hero is the court and incense burner. Second frame is the gate. Both Chainwit, CC BY 4.0. Looked at."
+    },
+    {
+      "at": "2026-10-21T07:38:46.070Z",
+      "place": "hoi-an",
+      "stage": "page",
+      "item": "hoi-an--phuc-kien",
+      "status": "paged",
+      "note": "New record. Dot 4: the hall to enter if the walk includes one assembly hall. Hours and the fee are check on arrival."
+    },
+    {
+      "at": "2026-10-21T07:38:45.950Z",
+      "place": "hoi-an",
+      "stage": "page",
+      "item": "hoi-an--quan-cong",
+      "status": "blocked",
+      "note": "No looked-at photo pair. Public file not created. Address 24 Tran Phu and the mid-17th-century date stay in the dossier."
+    },
+    {
+      "at": "2026-10-21T07:38:45.871Z",
+      "place": "hoi-an",
+      "stage": "page",
+      "item": "hoi-an--tan-ky",
+      "status": "blocked",
+      "note": "Only one architectural photo, so the body stays off. Printed hours 08:00-11:30 and 13:30-17:45 are on a Traveloka byline. Fee is check on arrival."
+    },
+    {
+      "at": "2026-10-21T07:38:45.790Z",
+      "place": "hoi-an",
+      "stage": "quality",
+      "item": "hoi-an--japanese-bridge",
+      "status": "checked",
+      "note": "Summary, kicker, two photos, getting there, and the ticket disagreement match the dossier. Interior hours stay check on arrival."
+    },
+    {
+      "at": "2026-10-21T07:38:45.705Z",
+      "place": "hoi-an",
+      "stage": "copy",
+      "item": "hoi-an--japanese-bridge",
+      "status": "enriched",
+      "note": "Hero is the street bridge. Second frame is the interior altar. Both looked at. Credits recorded."
+    },
+    {
+      "at": "2026-10-21T07:38:45.624Z",
+      "place": "hoi-an",
+      "stage": "page",
+      "item": "hoi-an--japanese-bridge",
+      "status": "paged",
+      "note": "Finished page. Hours and which ticket includes the interior are check on arrival. Build dates are all three official figures."
+    },
+    {
+      "at": "2026-10-21T07:38:45.538Z",
+      "place": "hoi-an",
+      "stage": "page",
+      "item": "hoi-an--an-bang",
+      "status": "blocked",
+      "note": "An Bang photo is mostly sky and sand, and there is no second frame. Fee and the ride now say check on arrival. A finished page needs sand, water, and the low beach front in one frame."
+    },
+    {
+      "at": "2026-10-21T07:38:45.457Z",
+      "place": "hoi-an",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Read the guide and the dishes against the dossier. No shop picks and no stall prices. White rose has no photo. Cao lau, banh mi, and com ga match the sourced lines. Coffee page left unchanged."
+    },
+    {
+      "at": "2026-10-21T07:38:12.360Z",
+      "place": "hoi-an",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Guide and dishes read against the food dossier. Cao lau where-line no longer names a shop. White rose has no photograph, so no hero was borrowed. Banh xoai stays in the sweets section."
+    },
+    {
+      "at": "2026-10-21T07:38:00.484Z",
+      "place": "hoi-an",
+      "stage": "food",
+      "item": null,
+      "status": "paged",
+      "note": "Food guide, white rose, and Hoi An lines on cao lau, banh mi, and com ga. No stall prices and no shop picks. Banh xoai stays a paragraph. White rose has no photo. Left out a coffee street."
+    },
+    {
+      "at": "2026-10-21T07:37:51.741Z",
+      "place": "hoi-an",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Read the place against the dossier. Fee, distances, pedestrian hours, and flood months match. Itinerary file untouched. An Bang card is off until a beach frame shows the low front. Left out airport minutes and which ticket the desk sells."
+    },
+    {
+      "at": "2026-10-21T07:37:42.929Z",
+      "place": "hoi-an",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Hero replaced: yellow shophouse, Steffen Schmitz, CC BY-SA 4.0. An Bang interest card left off because the beach frame is mostly sky. Fee, airport minutes, and the 15:00 start stay check on arrival."
+    },
+    {
+      "at": "2026-10-21T07:37:10.269Z",
+      "place": "hoi-an",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place, interests, festivals, stay areas, and getting there are on the page. Itinerary files were left untouched. Existing itinerary slugs stay linked. Sightseeing fee, airport minutes, bus stop price, and Phan Chau Trinh 15:00 start are check on arrival. Side trip placeholder: Cu Lao Cham. Left out a second itinerary."
+    },
+    {
+      "at": "2026-10-21T07:18:08.391Z",
       "place": "hoi-an",
       "stage": "researchBase",
       "item": null,
+      "status": "stored",
+      "note": "Left out airport and station clock times, Hue train clocks, the single bus fare inside the band, the 15:00 Phan Chau Trinh start, summer versus winter months, the 2004 street list, one bridge date, and which ticket the desk sells. No bar pin."
+    },
+    {
+      "at": "2026-10-21T07:18:02.073Z",
+      "place": "hoi-an",
+      "stage": "researchContext",
+      "item": null,
+      "status": "stored",
+      "note": "Left out Gregorian lantern dates, the beach-festival calendar, My Son drive minutes, and the Cham Islands boat fare. Cu Lao Cham stays a placeholder."
+    },
+    {
+      "at": "2026-10-21T07:18:01.940Z",
+      "place": "hoi-an",
+      "stage": "researchContext",
+      "item": null,
       "status": "needs_depth",
-      "note": "First pass. Scene and getting there are in the dossier. Still open: airport and station clock times, Hue train times, the single-ride bus fare at the Hoi An stop, whether the 15:00 Phan Chau Trinh start is in force, summer versus winter months, the 2004 street list, bridge-date and ticket-count disagreements, no bar pin. Sights, food streets, nightlife, lifestyle, events, and side trips remain other lanes."
+      "note": "Lantern night, Nguyen Tieu, and the beach-festival name are in. Side trips name My Son, Da Nang, Hue, and a Cham Islands placeholder. Still open: lantern clock, beach-festival dates, My Son drive time, Cham boat."
     }
   ]
 }

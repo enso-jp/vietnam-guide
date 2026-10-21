@@ -1,10 +1,8 @@
 # Hoi An research status
 
 Slug: `hoi-an`
-Status: needs depth
+Status: stored
 Checked: 21 Oct 2026
-Ready for copy:
+Ready for copy: the place, the main sights, local interests, food, one itinerary, and getting there. Door hours and a few fares stay check on arrival.
 
-This pass is `researchBase` only: Why a night here, and getting there. The other lanes are still open, so this file does not say `stored`.
-
-21 Oct 2026: the scene and `getting-there.md` are filled from official pages. Still open inside this lane: clock time from the airport and from Ga Đà Nẵng, the single-ride bus fare at the Hoi An stop, whether Phan Châu Trinh’s 15:00 start is in force, which months “summer” and “winter” mean, the 2004 pedestrian-street list, and the bridge-date and ticket-count disagreements. No bar pin. No public JSON was edited.
+21 Oct 2026: every research lane is stored. Left out of the settled facts: airport and station clock times, the Hue train clocks, the single bus fare inside the operator’s band, whether Phan Châu Trinh starts at 15:00, which months “summer” and “winter” mean, the 2004 street list, one Japanese-bridge date, which ancient-town ticket the desk sells, Cam Thanh’s 2022 prices as a current tariff, the Cham Islands boat, and a bar pin. No public JSON was edited in the research pass.

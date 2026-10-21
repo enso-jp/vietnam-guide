@@ -114,4 +114,118 @@ Accessed 21 Oct 2026 unless a line says otherwise. A direct fetch of the UNESCO 
 - URL: https://www.sggp.org.vn/da-nang-van-hanh-hai-tuyen-xe-buyt-moi-di-cua-dai-va-cau-tam-ky-post804162.html
 - Publisher: Sài Gòn Giải Phóng, 17 Jul 2025, citing Da Nang’s Department of Construction
 - Accessed: 21 Oct 2026
-- Supports: Route 02 length 46.7 km. Peak frequency 20 minutes on the Cửa Đại route. Monthly ordinary ticket for route 02: 700,000 VND. Civil-servant monthly ticket: 490,000 VND. Student single printed as a flat 8,000 VND. The 8,000–48,000 VND single-ride range is for route 02 and route 21 together. One newspaper. The operator page does not reprint these numbers.
+- Supports: Route 02 length 46.7 km. Peak frequency 20 minutes on the Cửa Đại route. Monthly ordinary ticket for route 02: 700,000 VND. Civil-servant monthly ticket: 490,000 VND. Student single printed as a flat 8,000 VND. The 8,000–48,000 VND single-ride range is for route 02 and route 21 together. One newspaper. The later operator article (S32) prints a narrower band.
+
+### S7b
+- URL: https://vietnamtourism.vn/index.php/tourism/items/2584
+- Publisher: Vietnam National Authority of Tourism, Trà Quế destination page
+- Accessed: 21 Oct 2026
+- Supports: About 2 km northeast of the ancient-town centre, between the Đế Võng river and the Trà Quế lagoon, thôn Trà Quế, xã Cẩm Hà. More than 20 leaf and herb crops. Cầu Bông festival on the 7th of the first lunar month. Bicycle or a boat named as ways in. No fee and no door hours.
+
+### S19
+- URL: https://danang.gov.vn/vi/w/tu-10-8-ap-dung-muc-phi-tham-quan-20000-40000-dong-tai-cac-cong-trinh-van-hoa-tren-dia-ban-da-nang
+- Publisher: Da Nang city portal, 6 Aug 2026
+- Accessed: 21 Oct 2026
+- Supports: Resolution 98/2026/NQ-HĐND of 31 Jul 2026, in force 10 Aug 2026, amends Resolution 02/2026 of 11 Feb 2026. One rate for Vietnamese and foreign visitors. Đô thị cổ Hội An 20,000 VND per person per building. Khu đền tháp Mỹ Sơn 40,000 VND per person per visit.
+
+### S20
+- URL: https://hoianheritage.net/vi/news/Tin-tuc-su-kien/thong-bao-ve-hoat-dong-tham-quan-khu-pho-co-hoi-an-1711.html
+- Publisher: Hoi An heritage centre, visitor notice. The page header reads 26 Jan 2026. The body cites Resolution 02/2026 of 11 Feb 2026. Both dates are printed. Do not collapse them.
+- Accessed: 21 Oct 2026
+- Supports: 80,000 VND ticket: streetscape, Chùa Cầu or Miếu Quan Công, and two other cultural works (assembly halls, old houses, lineage halls). 120,000 VND ticket: streetscape, one of those two landmarks, a museum, and three other cultural works. Japanese tea at 06 Nguyễn Thị Minh Khai at 09:30 and 16:30. Old-town pedestrian hours 09:00–21:30 summer and 09:00–21:00 winter. Phan Châu Trinh 17:30–21:30 summer and 17:30–21:00 winter. Free categories as quoted from Resolution 02: Vietnamese disabled people with the certificate, cultural-access beneficiaries, children under 16 and pupils, Vietnamese citizens 60 and over, diplomatic guests. Groups of eight or more get a guide without an extra fee.
+
+### S21
+- URL: https://www.hoianworldheritage.org.vn/vi/news/Du-lich-Hoi-An/cap-nhat-ve-tham-quan-khu-pho-co-hoi-an-hanh-trinh-cham-ve-nguyen-ban-giua-long-di-san-3033.hwh
+- Publisher: Hoi An World Heritage conservation centre, 16 Mar 2026
+- Accessed: 21 Oct 2026
+- Supports: The same 80,000 and 120,000 VND structures as S20. One purchase usable through the stay, up to three days. Keep the stub. This page does not mention Resolution 98, which is later.
+
+### S22
+- URL: https://nhandan.vn/da-nang-dieu-chinh-phi-tham-quan-cac-cong-trinh-van-hoa-va-di-san-post980432.html
+- Publisher: Nhân Dân, 7 Aug 2026
+- Accessed: 21 Oct 2026
+- Supports: Second report of the 20,000 VND per building fee at the ancient town from 10 Aug 2026. The resolution date is misprinted on this page as 71/7/2026. Use the city portal’s 31 Jul 2026 (S19). Also reports Resolution 16/2026 for Cù Lao Chàm at 70,000 VND per person per visit, and the free cases and free days named in side-trips.md.
+
+### S23
+- URL: https://hoiancreativecity.com/vi/nha-co-tan-ky-noi-luu-giu-ve-dep-xua-cu-cua-hoi-an
+- Publisher: Hoi An creative-city page. Byline: Traveloka.com. The footer is the conservation centre at 10B Trần Hưng Đạo.
+- Accessed: 21 Oct 2026
+- Supports: Address 101 Nguyễn Thái Học. Printed hours Monday–Sunday 08:00–11:30 and 13:30–17:45. Ground floor open to visitors, family living upstairs, do not touch objects. The 1741 date and the “UNESCO 1990” line on this page are not used.
+
+### S24
+- URL: https://hoianheritage.danang.gov.vn/uploads/download/hoi-quan-phuc-kien.pdf
+- Publisher: Hoi An heritage centre, monument file for Hội quán Phúc Kiến
+- Accessed: 21 Oct 2026
+- Supports: 46 Trần Phú. Built 1697 as Kim Sơn Tự. From 1757 the Fujian congregation rebuilt it as Phước Kiến hội quán. About 120 m deep, three courts. Main hall Thiên Hậu. Ways in from the bus station and from Nguyễn Huệ. No fee and no hours.
+
+### S25
+- URL: https://danang.gov.vn/vi/w/chua-ong-quan-cong-mieu
+- Publisher: Da Nang city portal, 1 May 2026
+- Accessed: 21 Oct 2026
+- Supports: Chùa Ông / Quan Công Miếu at 24 Trần Phú, Hoi An ward. Built mid-17th century, about 1653, by Hoa merchants. Tube tiles, carved dragons and phoenixes, Quan Công in the main hall. The crowd comes on the 16th of the first lunar month. No fee and no ordinary door hours.
+
+### S26
+- URL: https://www.hoianworldheritage.org.vn/vi/news/Lang-nghe/diem-tham-quan-lang-rau-tra-que-1902.hwh
+- Publisher: Hoi An World Heritage conservation centre, 3 Jan 2020
+- Accessed: 21 Oct 2026
+- Supports: Trà Quế about 2.5 km north of the ancient-town centre, then Cẩm Hà. Trademark “Rau Trà Quế Hội An” in 2009. Traditional craft village in 2016. National intangible heritage for the growing, 4 Apr 2022. Farmer visit, shrines, stone well, basil-seed drink. No fee and no hours.
+
+### S27
+- URL: http://www.hoianworldheritage.org.vn/vi/news/Du-lich-Hoi-An/khu-du-lich-rung-dua-bay-mau-cam-thanh-hoi-an-2235.hwh
+- Publisher: Hoi An World Heritage conservation centre, 14 Nov 2022
+- Accessed: 21 Oct 2026
+- Supports: One article. Võng Nhi, Cẩm Thanh, about 3 km, about 5 minutes by car. Basket boats in the nipa water. Summer hours printed 07:30–18:30, winter 08:00–17:00, months not defined. Entry printed 30,000 VND. Basket boat printed 150,000 VND for two adults. Wooden boat printed 450,000 VND for up to six people for 45 minutes. No second source, so the public page says check on arrival.
+
+### S28
+- URL: https://www.hoianworldheritage.org.vn/vi/news/Du-lich-Hoi-An/cao-lau-pho-hoi-2935.hwh
+- Publisher: Hoi An World Heritage conservation centre, 11 Aug 2025
+- Accessed: 21 Oct 2026
+- Supports: Cao lầu as bánh, not mì. Xuyệt rice, Cù Lao Chàm wood ash, Bá Lễ well. Char siu, ram, Trà Quế herbs. Toss while hot. Not mì Quảng. A family in Trường Lệ, Cẩm Châu, named as noodle makers. That household is not published as a restaurant pick.
+
+### S29
+- URL: https://hoianworldheritage.org.vn/vi/news/am-thuc-hoi-an/dac-san-banh-bao-banh-vac-pho-hoi-2415.hwh
+- Publisher: Hoi An heritage centre, republishing its own management centre, 25 Aug 2023, author Thái Thị Liễu Chi
+- Accessed: 21 Oct 2026
+- Supports: Bánh bao bánh vạc from Hoa families, from há cảo. Carried on Lê Lợi, Trần Phú, Nguyễn Thái Học, and Bạch Đằng. Fried shallot, sweet-sour fish sauce, eaten warm, one bite. The white-rose name story. Family and workshop names stay in Notes, not pages.
+
+### S30
+- URL: https://vietnam.travel/things-to-do/explore-food-hoi-an
+- Publisher: Vietnam Tourism
+- Accessed: 21 Oct 2026
+- Supports: Cao lầu, cơm gà as shredded chicken with turmeric rice, herbs, chicken soup, and sour papaya salad, bánh mì at street stalls, mì Quảng as the regional neighbor, bánh xoài as a shape-named sweet near the Japanese bridge, white rose as rice-flour dumplings with pork, shrimp, and mushrooms. Every shop address on this page is do not publish as a pick.
+
+### S31
+- URL: https://www.hoianworldheritage.org.vn/vi/news/am-thuc/cac-dia-chi-thuong-thuc-cao-lau-hoi-an-ngon-2332.hwh
+- Publisher: Heritage site, 7 Jun 2023, signed Trung tâm VH–TT và TT-TH Hội An
+- Accessed: 21 Oct 2026
+- Supports: Chợ Hội An food hall, and the night market on Nguyễn Hoàng, Công nữ Ngọc Hoa, Trần Quý Cáp, and Bạch Đằng. Reference prices and shop names are not published. The note also names bánh mì and cơm gà without streets.
+
+### S32
+- URL: https://www.danangbus.vn/tin-tuc/tin-tuc/cung-danabus-du-lich-pho-co-hoi-an-5507.html
+- Publisher: danangbus.vn, 22 Dec 2025
+- Accessed: 21 Oct 2026
+- Supports: Route 02, central station to the Cửa Đại inland-waterway parking via the Hoi An bus station. Runs 05:30–18:00, every 20–30 minutes. Fare band 8,000–30,000 VND a ride. Pupils and students 8,000 VND. No ride time and no fare for one named stop.
+
+### S33
+- URL: https://www.hoianworldheritage.org.vn/vi/news/Thong-bao/thong-tin-dem-pho-co-hoi-an-gia-tri-truyen-thong-duoc-gin-giu-va-lan-toa-2910.hwh
+- Publisher: Hoi An World Heritage conservation centre, 8 Jul 2025
+- Accessed: 21 Oct 2026
+- Supports: Đêm phố cổ on every 14th night of the lunar month. Electric light gives way to candles and lanterns. Local groups, bài chòi, tuồng, folk singing. No clock and no night ticket on this notice. Contact square printed at Quảng trường Sông Hoài, 01 Cao Hồng Lãnh.
+
+### S34
+- URL: https://hoianworldheritage.org.vn/vi/news/savefile/Thong-bao/thong-tin-ve-cac-hoat-dong-tet-nguyen-tieu-hoi-an-xuan-binh-ngo-2026-3029.hwh
+- Publisher: Hoi An World Heritage conservation centre, plan for Tết Nguyên tiêu Xuân Bính Ngọ 2026
+- Accessed: 21 Oct 2026
+- Supports: 2026 window 26 Feb–4 Mar 2026, lunar 10th–16th of the first month. Lantern night that cycle on the 14th, 2 Mar 2026. Chùa Ông and Chùa Bà open for incense 3–4 Mar, including from 03:00 on 4 Mar. Sightseeing tickets not sold, in that plan, for Chùa Ông, Chùa Bà, hội quán Quảng Triệu, hội quán Triều Châu, Tụy Tiên đường Minh Hương, and đình Hội An. Next year’s dates are not on the page.
+
+### S35
+- URL: https://hoianworldheritage.org.vn/vi/news/Hoi-An-24h/cong-nhan-them-7-diem-du-lich-dia-phuong-1676.hwh
+- Publisher: Hoi An World Heritage conservation centre, 1 May 2018
+- Accessed: 21 Oct 2026
+- Supports: Provincial recognition of An Bang (Cẩm An), Cửa Đại, Trà Quế (Cẩm Hà), Kim Bồng, Thanh Hà pottery, the silk village at 28 Nguyễn Tất Thành, and the Thanh Hà terracotta park. Rừng dừa Bảy Mẫu Cẩm Thanh was already recognized before that list. No fees.
+
+### S37
+- URL: https://mysonsanctuary.com.vn/tin-tuc/thong-tin-huong-dan-tham-quan-my-son.html
+- Publisher: My Son sanctuary visitor note
+- Accessed: 21 Oct 2026
+- Supports: A different price from S19: 100,000 VND domestic, 150,000 VND international, 30,000 VND for a child 5 to 15. Visit 06:00–18:00, tickets 06:00–17:00. The gate ticket includes the museum, the shuttle, a folk performance, and the monuments. Recorded only so the Hoi An side trip does not hide the disagreement. This pass does not edit My Son.
