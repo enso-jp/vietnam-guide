@@ -332,6 +332,8 @@ document.querySelectorAll<HTMLElement>('[data-region-stage]').forEach((stage) =>
     stage.querySelectorAll<HTMLElement>('[data-region]').forEach((el) => {
       el.classList.toggle('is-active', el.dataset.region === slug);
     });
+    const link = stage.querySelector<HTMLAnchorElement>('[data-region-link]');
+    if (link) link.setAttribute('href', `/destinations/${slug}`);
   };
   const read = (target: EventTarget | null) => (target as HTMLElement | null)?.closest<HTMLElement>('[data-region]')?.dataset.region;
   const paintRails = (slug: string) => {

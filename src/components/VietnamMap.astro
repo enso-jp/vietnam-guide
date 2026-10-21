@@ -33,7 +33,6 @@ const cityRegion: Record<string, string> = {
   viewBox={vietnamViewBox}
   aria-label="Map of Vietnam by travel corridor"
 >
-  {home && <rect class="map-water" x="0" y="0" width="448.8" height="557.6" fill="#d5e6ee"></rect>}
   {home && <image href="/map/vietnam-relief.png" x="0" y="0" width="448.8" height="557.6"></image>}
   {vietnamRegions.map((region) => {
     const on = region.slug === active;

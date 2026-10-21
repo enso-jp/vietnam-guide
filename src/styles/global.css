@@ -455,12 +455,15 @@ p { margin: 0.55rem 0; }
 .partner small, .ad-slot small { color: var(--muted); display: block; margin-bottom: 0.35rem; }
 .map-svg { width: 100%; height: auto; background: transparent; display: block; overflow: visible; }
 .map-svg path { fill: #c9d8b6; stroke: #fff; stroke-width: 1.6; stroke-linejoin: round; }
-.map-home path { fill: transparent; stroke-width: 2.5; }
+.map-home path { fill: transparent; stroke-width: 1.75; }
 .map-svg a path, .map-svg g path { transition: fill 0.15s ease; }
 .map-svg a:hover path,
 .map-svg a:focus-visible path,
 .map-svg a.is-active path,
 .map-svg g.is-active path { fill: #f3c2b4; }
+.map-home a:hover path,
+.map-home a:focus-visible path,
+.map-home a.is-active path { fill: rgba(209, 36, 42, 0.34); }
 .map-svg a:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
 .map-region-name {
   font-family: var(--sans);
@@ -1394,8 +1397,7 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   #stories .story-row .media .cover { height: 9.5rem; }
   .region-frame {
     position: relative;
-    background: #d5e6ee;
-    border-radius: 18px;
+    background: transparent;
   }
   .region-frame .map-svg {
     width: min(52rem, 82%);
