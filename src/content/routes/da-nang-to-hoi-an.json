@@ -3,14 +3,27 @@
   "name": "Da Nang to Hoi An",
   "from": "Da Nang",
   "to": "Hoi An",
-  "summary": "This is a short airport transfer, not a journey. Book the car with your flight, or use a taxi desk with a written price.",
+  "summary": "The ancient town is about 30 km southeast of Da Nang city. The minutes from the airport are check on arrival. From the Marble Mountains, the coastal road is about 30 minutes.",
   "modes": [
-    { "mode": "Private car or taxi", "duration": "30–45 minutes", "note": "Longer in Da Nang rush hour. The Marble Mountains can be a stop.", "partner": "bus", "partnerPath": "da-nang/hoi-an" },
-    { "mode": "Public bus", "duration": "About 1 hour", "note": "Cheaper, slower with luggage, and less direct to an old-town hotel." }
+    {
+      "mode": "Private car or taxi",
+      "duration": "Check on arrival",
+      "note": "About 30 km from Da Nang city to the ancient town. That figure is not a clock time. From the Marble Mountains, about 30 minutes by car along Trường Sa–Lạc Long Quân.",
+      "partner": "bus",
+      "partnerPath": "da-nang/hoi-an"
+    },
+    {
+      "mode": "Public bus",
+      "duration": "Check on arrival",
+      "note": "Route 02 runs from the central station through the Hoi An bus station to the inland-waterway parking at Cửa Đại, 05:30–18:00, every 20–30 minutes. The operator’s December 2025 page gives 8,000–30,000 VND a ride. A July 2025 report gives 8,000–48,000 VND across route 02 and route 21. The stop price and the ride time are check on arrival."
+    }
   ],
-  "seoTitle": "Da Nang to Hoi An — taxi, car, and bus",
-  "seoDescription": "How long the airport ride from Da Nang to Hoi An takes, and what it should cost you in time.",
+  "seoTitle": "Da Nang to Hoi An — distance, car, and bus",
+  "seoDescription": "The ancient town is about 30 km southeast of Da Nang. Airport minutes are check on arrival. From the Marble Mountains the coastal road is about 30 minutes.",
   "faqs": [
-    { "q": "Is Grab available at the airport?", "a": "Often, once you are in the arrivals area with a working SIM. A prepaid desk is simpler if your phone is still offline." }
+    {
+      "q": "How far is Hoi An from Da Nang?",
+      "a": "The heritage department places the ancient town about 30 km southeast of Da Nang city. That is not a drive time from the airport. From the Marble Mountains, the ride along Trường Sa–Lạc Long Quân is about 30 minutes. Airport minutes are check on arrival."
+    }
   ]
 }
