@@ -20,14 +20,14 @@
   "stages": {
     "destination": {
       "status": "paged",
-      "note": "Place shell and local interest cards. The half-day is described on the place page. No itinerary file. No food guide. Dark Cave, Mooc Spring, and Son Doong left without pages.",
-      "updated": "2026-10-21T07:26:36.146Z",
+      "note": "Interest cards are the boat cave, the dry boardwalk, and the expedition. No food card. Dark Cave, Mooc Spring, and the other sourced visits are named on the place page. They have no licensed photograph, so they are not attraction pages.",
+      "updated": "2026-10-21T08:51:52.805Z",
       "reworkCount": 0
     },
     "destinationCopy": {
       "status": "enriched",
-      "note": "Place prose and the river-cave hero. The old 960x137 banner was replaced.",
-      "updated": "2026-10-21T07:26:36.203Z",
+      "note": "Son Doong page and its own interest photo. Place prose names the other sourced visits. No dining card.",
+      "updated": "2026-10-21T08:51:52.834Z",
       "reworkCount": 0
     },
     "destinationQuality": {
@@ -152,8 +152,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Fees and hours are on the park page. Left out of the base pages: no photograph shows this site.",
-      "updated": "2026-10-21T07:22:27.619Z",
+      "note": "Fees are sourced. Still no licensed photograph of this site, so no public page.",
+      "updated": "2026-10-21T08:51:52.747Z",
       "reworkCount": 0
     },
     {
@@ -168,8 +168,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Fees and the 20-minute drive from Phong Nha Cave are on the park page. Left out: no photograph of the spring.",
-      "updated": "2026-10-21T07:22:27.619Z",
+      "note": "Fees and the 20-minute drive are sourced. Still no licensed photograph of the spring, so no public page.",
+      "updated": "2026-10-21T08:51:52.775Z",
       "reworkCount": 0
     },
     {
@@ -178,14 +178,14 @@
       "track": "unit",
       "name": "Son Doong",
       "slug": "son-doong",
-      "file": null,
+      "file": "src/content/attractions/phong-nha--son-doong.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "Oxalis expedition, 6 days. Left out of the base half-day. Not a walk-up ticket.",
-      "updated": "2026-10-21T07:22:27.619Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Finished page. Not a walk-up ticket. Pack prints 3,000 USD and 80,000,000 VND. January to August.",
+      "updated": "2026-10-21T08:51:52.717Z",
       "reworkCount": 0
     },
     {
@@ -433,6 +433,22 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-21T08:51:52.834Z",
+      "place": "phong-nha",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Son Doong page and its own interest photo. Place prose names the other sourced visits. No dining card."
+    },
+    {
+      "at": "2026-10-21T08:51:52.805Z",
+      "place": "phong-nha",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Interest cards are the boat cave, the dry boardwalk, and the expedition. No food card. Dark Cave, Mooc Spring, and the other sourced visits are named on the place page. They have no licensed photograph, so they are not attraction pages."
+    },
+    {
       "at": "2026-10-21T07:26:50.604Z",
       "place": "phong-nha",
       "stage": "quality",
@@ -575,22 +591,6 @@
       "item": null,
       "status": "needs_depth",
       "note": "The evening is the village after the gates. No bar street."
-    },
-    {
-      "at": "2026-10-21T07:22:14.330Z",
-      "place": "phong-nha",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a village market, stall prices, and any public food guide. No food street was on the park pages."
-    },
-    {
-      "at": "2026-10-21T07:22:13.791Z",
-      "place": "phong-nha",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Community dishes and the Mooc platter are named. No market street yet."
     }
   ]
 }

@@ -117,3 +117,69 @@ Checked 21 Oct 2026.
 - Supports: The homepages answered. Neither page, in this pass, produced a Dong Hoi timetable or a minute count from Hue. Rail time stays Check on arrival.
 
 No second official page was found that repeats the 2026 Dark Cave or Mooc Spring prices. S6 is the older notice from the same park, and it disagrees.
+
+### S20
+- URL: https://phongnhakebang.vn/travel/chinh-phuc-son-doong-hang-dong-lon-nhat-the-gioi27-en
+- Publisher: Phong Nha-Ke Bang National Park
+- Accessed: 21 Oct 2026
+- Supports: Son Doong is an Oxalis expedition, six days and five nights, maximum 10 guests, January to August, about 1,000 visitors a year. The page describes a doline jungle and a 90-metre wall. It does not print the 3,000 USD figure.
+
+### S21
+- URL: https://phongnhakebang.vn/travel/kham-pha-xuyen-son-ho-va-chinh-phuc-4-500m-dong-phong-nha11-en
+- Publisher: Phong Nha-Ke Bang National Park
+- Accessed: 21 Oct 2026
+- Supports: 4,500-metre Phong Nha adventure, 1,700,000 VND a person. Includes pickup in Phong Nha town, a light meal, tickets, guide, rescue staff, helmet, lamp, life jacket, sandals. VAT extra. Children 10 and above with approval. Groups of 3 to 20. Pickup 08:00–09:00. Return 15:30–16:00. Weather can stop it. Not the boat ticket.
+
+### S22
+- URL: https://www.phongnhakebang.vn/travel/diem-du-lich-sinh-thai-va-dien-giai-moi-truong-vuon-thuc-vat15-en
+- Publisher: Phong Nha-Ke Bang National Park
+- Accessed: 21 Oct 2026
+- Supports: Botanical garden on Road 20, about 10 km from the Tourism Center. Mass ticket 80,000 VND. Children under 1.3 m free. Student groups 50 percent. Routes 30–60, about 70–90, and about 120–180 minutes. Guided 5 km route 120,000 VND, not walk-up, maximum 20. Gate hours not stated.
+
+### S23
+- URL: https://www.phongnhakebang.vn/travel/ozo-park-trai-nghiem-thien-duong-xanh17-en
+- Publisher: Phong Nha-Ke Bang National Park
+- Accessed: 21 Oct 2026
+- Supports: OZO Park day ticket, adult over 1.4 m, 200,000 VND. Lunch extra from 150,000 VND. Tree-top course for guests over 1.4 m and under 80 kg. The page lists longer packages. Those are not copied as a grid. Gate hours for the day ticket are not stated.
+
+### S24
+- URL: https://oxalisadventure.com/tour/hang-en-adventure-cave-camp/
+- Publisher: Oxalis Adventure
+- Accessed: 21 Oct 2026
+- Supports: Hang En, 2 days and 1 night, 9,500,000 VND and about 358 USD a person. Age 16–70. Group of 16. December to mid-September. Be in Phong Nha before 07:00.
+
+### S25
+- URL: https://pdf.oxalisadventure.com/tour/hang-en-adventure-cave-camp.pdf
+- Publisher: Oxalis Adventure
+- Accessed: 21 Oct 2026
+- Supports: Same Hang En price and season. Generated 21 Oct 2026 from the tour URL. Same operator as S24, not an independent fee check. The park names Oxalis for this product and does not print the price (S26).
+
+### S26
+- URL: https://phongnhakebang.vn/du-lich-phong-nha-ke-bang
+- Publisher: Phong Nha-Ke Bang National Park
+- Accessed: 21 Oct 2026
+- Supports: The park says it runs 20 tourism products. Names Phong Nha Cave, Tien Son, Paradise Cave, Son Doong, Hang Va, Rao Thuong–Hang En, the 4,500-metre adventure, Mooc Spring, Dark Cave, the botanical garden, Sinh Ton Valley, OZO Park, and the Road 20 memorial. Oxalis runs Son Doong, Hang Va, Hang En, and Hang Ba. No fee on this overview page.
+
+### S27
+- URL: https://www.phongnhakebang.vn/travel/hang-va-hang-nuoc-nut-nhung-trai-nghiem-khac-biet21-en
+- Publisher: Phong Nha-Ke Bang National Park
+- Accessed: 21 Oct 2026
+- Supports: Hang Va, 2 days, Oxalis, maximum 10, age 16–70. The English page prints about 346 USD. It does not print 9,400,000 VND.
+
+### S28
+- URL: https://oxalisadventure.com/tour/hang-va-expedition/
+- Publisher: Oxalis Adventure
+- Accessed: 21 Oct 2026
+- Supports: Hang Va expedition 9,400,000 VND and about 355 USD. The booking block says December to August. Another line on the same site says January to August. Do not collapse them. A one-day Nuoc Nut trip on a different Oxalis page is 2,150,000 VND. Not the two-day price.
+
+### S29
+- URL: https://www.phongnhakebang.vn/travel/den-tuong-niem-cac-anh-hung-liet-sy-duong-20-quyet-thang9-en
+- Publisher: Phong Nha-Ke Bang National Park
+- Accessed: 21 Oct 2026
+- Supports: Eight Ladies Cave and the Road 20 memorial at Km 16, Route 20. The page says free admission. Hours are not stated.
+
+### S30
+- URL: https://www.phongnhakebang.vn/travel/thung-lung-sinh-ton-hang-thuy-cung23-en
+- Publisher: Phong Nha-Ke Bang National Park
+- Accessed: 21 Oct 2026
+- Supports: Sinh Ton Valley and Thuy Cung Cave. One day 1,650,000 VND. Two days 4,700,000 VND. Route via Km 19, west Ho Chi Minh road. Hours are not stated. Jungle Boss is the operator. No second publisher confirmed these figures.

@@ -14,4 +14,7 @@ Checked: 21 Oct 2026
 - A village market or food street with an address. Not on the park pages (S9, S10).
 - 2027 cave-festival dates. The 4 Aug 2026 note is a draft (S11).
 - The map pin already on the place file was not re-checked.
-- Photographs of Dark Cave, Mooc Spring, and Son Doong that show those sites. None accepted, so those pages were left out.
+- Photographs of Dark Cave, Mooc Spring, the botanical garden, OZO Park, Hang En, Hang Va, Eight Ladies Cave, Sinh Ton Valley, and the 4,500-metre route that show those sites. Commons and Openverse, checked 21 Oct 2026, had no CC BY, CC BY-SA, or public-domain frame of those subjects. Son Doong did. Those other pages stay off until a photograph of the site exists. Do not borrow the boat-cave mouth.
+- The night tour named on the Phong Nha Cave page. Still no price (S1, S21).
+- Hang Va prices disagree: park English page about 346 USD (S27), Oxalis 9,400,000 VND (S28), and the season line on the Oxalis page disagrees with itself (December to August, and January to August).
+- Botanical garden gate hours (S22). OZO Park day-ticket gate hours (S23). Eight Ladies Cave hours (S29). Sinh Ton hours (S30).
