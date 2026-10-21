@@ -1,0 +1,105 @@
+{
+  "slug": "chau-doc",
+  "name": "Chau Doc",
+  "nameVi": "Châu Đốc",
+  "corridor": "mekong-delta",
+  "kind": "city",
+  "parent": null,
+  "publish": "candidate",
+  "priority": 120,
+  "note": "Mekong Delta border town on the Hậu River. Research may be stored. Do not create a public place file until publish is accepted.",
+  "coverage": {
+    "sights": "missing",
+    "areas": "missing",
+    "foodStreets": "missing",
+    "nightlife": "missing",
+    "lifestyle": "missing",
+    "events": "missing",
+    "sideTrips": "missing"
+  },
+  "stages": {
+    "destination": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "food": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchBase": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchAttractions": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchFood": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchNightlife": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchLifestyle": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchContext": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    }
+  },
+  "items": [],
+  "questions": [],
+  "claim": {
+    "place": "chau-doc",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-21T15:19:56.040Z",
+    "by": "chau-doc-research",
+    "branch": "cursor/chau-doc-research-6edf"
+  },
+  "log": []
+}
