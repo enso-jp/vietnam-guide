@@ -38,3 +38,14 @@ You can also press Run now more than once. Each run skips places that are alread
 - Do not merge a draft that stored a research lane on its first pass. The script now refuses that. A first pass ends `needs_depth`.
 
 `node scripts/board.mjs report` is the same text the daily run starts from.
+
+## Stories
+
+Two more automations, separate from the board. They are not scheduled until you turn them on. Saving the prompt files does not start them.
+
+1. Open [Cursor Automations](https://cursor.com/automations).
+2. Create one scheduled automation for the morning. Repository: this repo. Branch: `main`. Memories off. Pull requests on. Paste `ops/prompts/blog-scout.md`.
+3. Create a second scheduled automation for later the same day. Same repository and branch. Memories off. Pull requests on. Paste `ops/prompts/blog-front.md`.
+4. The scout writes posts. The later run only updates `src/content/front-page.json`, which is the homepage highlight list. Stories on the homepage are the other current posts.
+
+Until those two automations are saved and enabled, nothing posts on a schedule.

@@ -330,10 +330,10 @@ document.querySelectorAll<HTMLElement>('[data-region-stage]').forEach((stage) =>
       card.hidden = card.dataset.regionCard !== slug;
     });
     stage.querySelectorAll<HTMLElement>('[data-region]').forEach((el) => {
-      el.classList.toggle('is-active', el.dataset.region === slug);
+      const on = el.dataset.region === slug;
+      el.classList.toggle('is-active', on);
+      if (el.getAttribute('role') === 'tab') el.setAttribute('aria-selected', on ? 'true' : 'false');
     });
-    const link = stage.querySelector<HTMLAnchorElement>('[data-region-link]');
-    if (link) link.setAttribute('href', `/destinations/${slug}`);
   };
   const read = (target: EventTarget | null) => (target as HTMLElement | null)?.closest<HTMLElement>('[data-region]')?.dataset.region;
   const paintRails = (slug: string) => {
@@ -357,6 +357,14 @@ document.querySelectorAll<HTMLElement>('[data-region-stage]').forEach((stage) =>
     if (slug) reveal(slug);
   });
   stage.addEventListener('click', (event) => {
+    const button = (event.target as HTMLElement | null)?.closest<HTMLButtonElement>('button[data-region]');
+    if (button && stage.contains(button)) {
+      const slug = button.dataset.region;
+      if (!slug) return;
+      show(slug);
+      requestAnimationFrame(() => paintRails(slug));
+      return;
+    }
     const hit = (event.target as HTMLElement | null)?.closest<HTMLElement>('svg .map-hit');
     if (!hit || !stage.contains(hit)) return;
     const slug = hit.dataset.region;

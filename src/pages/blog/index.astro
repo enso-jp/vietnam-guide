@@ -1,0 +1,58 @@
+---
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import Photo from '../../components/Photo.astro';
+import { getHighlights, getOtherPosts, getPosts, pageDescription } from '../../lib/content';
+import { breadcrumbList, itemList } from '../../lib/schema';
+
+const posts = getPosts();
+const highlights = getHighlights();
+const stories = getOtherPosts();
+const description = pageDescription(
+  'Stories for the trip you are planning now.',
+  'Highlights are the posts chosen for the homepage. The rest are the other current posts.',
+);
+---
+<Base title="Stories" description={description} path="/blog" ogType="website" jsonLd={[itemList('Stories', posts.map((post) => ({ name: post.title, path: `/blog/${post.slug}` }))), breadcrumbList([{ name: 'Stories', path: '/blog' }])]}>
+  <div class="wrap section">
+    <Crumbs items={[{ name: 'Stories' }]} />
+    <h1>Stories</h1>
+    <p class="lede">Highlights are the posts on the homepage today. Everything else current is listed under them. A date that is not confirmed says check on arrival.</p>
+    {highlights.length > 0 && (
+      <section class="place-section">
+        <h2>Highlights</h2>
+        <div class="story-list">
+          {highlights.map((story) => (
+            <a class="story-row" href={story.href}>
+              <span class="story-copy">
+                <small>{story.kicker}</small>
+                <strong>{story.title}</strong>
+                <em>{story.when}</em>
+                <p>{story.summary}</p>
+              </span>
+              <span class="media"><Photo id={story.photo} alt="" cover={story.cover} /></span>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+    {stories.length > 0 && (
+      <section class="place-section">
+        <h2>More stories</h2>
+        <div class="story-list">
+          {stories.map((story) => (
+            <a class="story-row" href={story.href}>
+              <span class="story-copy">
+                <small>{story.kicker}</small>
+                <strong>{story.title}</strong>
+                <em>{story.when}</em>
+                <p>{story.summary}</p>
+              </span>
+              <span class="media"><Photo id={story.photo} alt="" cover={story.cover} /></span>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+  </div>
+</Base>

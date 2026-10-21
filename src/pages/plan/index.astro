@@ -1,97 +1,54 @@
 ---
 import Base from '../../layouts/Base.astro';
-import Partner from '../../components/Partner.astro';
-import PlanTabs from '../../components/PlanTabs.astro';
+import Crumbs from '../../components/Crumbs.astro';
 import { getGuides, getItineraries } from '../../lib/content';
-import { stayLink } from '../../lib/partners';
+import { breadcrumbList } from '../../lib/schema';
 
 const guides = getGuides();
+const bySlug = new Map(guides.map((guide) => [guide.slug, guide]));
+const link = (slug: string) => {
+  const guide = bySlug.get(slug);
+  return guide ? { href: `/plan/${guide.slug}`, label: guide.title } : null;
+};
+const before = ['when-to-go', 'e-visa', 'money', 'sim-and-wifi', 'luggage', 'street-manners', 'eating-manners']
+  .map(link)
+  .filter((item): item is { href: string; label: string } => Boolean(item));
+const stay = ['where-to-stay'].map(link).filter((item): item is { href: string; label: string } => Boolean(item));
+const travel = ['flights', 'trains', 'buses', 'grab-and-taxis', 'motorbikes']
+  .map(link)
+  .filter((item): item is { href: string; label: string } => Boolean(item));
 const trips = getItineraries().filter((trip) => trip.level === 'nationwide' || trip.level === 'region');
-const before = guides.filter((guide) => guide.group === 'before' && guide.slug !== 'taxes');
-const learn = guides.filter((guide) => guide.group === 'learn');
-const stay = guides.filter((guide) => guide.slug === 'where-to-stay');
-const travel = guides.filter((guide) => guide.block === 'travel');
-const living = guides.filter((guide) => guide.slug === 'living' || guide.slug === 'taxes');
+const living = ['living', 'taxes'].map(link).filter((item): item is { href: string; label: string } => Boolean(item));
+const columns = [
+  {
+    title: 'Before you go',
+    links: [...before, { href: '/seasons', label: 'Seasons' }, { href: '/festivals', label: 'Festivals' }],
+  },
+  { title: 'Accommodation', links: stay },
+  { title: 'Transportation', links: [...travel, { href: '/get-there', label: 'Routes between places' }] },
+  {
+    title: 'Itineraries',
+    links: [...trips.map((trip) => ({ href: `/itineraries/${trip.slug}`, label: trip.title })), { href: '/itineraries', label: 'All itineraries' }],
+  },
+  { title: 'Living', links: living },
+];
 ---
-<Base title="Plan a trip" description="When to go, visas, itineraries, where to stay, and how to get around Vietnam." path="/plan">
+<Base title="Plan a trip" description="When to go, visas, where to stay, how to get around, itineraries, and living in Vietnam." path="/plan" jsonLd={breadcrumbList([{ name: 'Plan a trip', path: '/plan' }])}>
   <div class="wrap section">
-    <p class="eyebrow">Plan a trip</p>
+    <Crumbs items={[{ name: 'Plan a trip' }]} />
     <h1>Plan a trip</h1>
-    <p class="lede">Before you go, learn, itineraries, accommodation, transportation, and living. Partner searches sit below the advice.</p>
-    <PlanTabs current="before" />
-    <section id="before" class="place-section">
-      <h2>Before you go</h2>
-      <div class="hub-grid">
-        {before.map((guide) => (
-          <a href={`/plan/${guide.slug}`}>
-            <h3>{guide.title}</h3>
-            <p>{guide.summary}</p>
-          </a>
-        ))}
-        <a href="/seasons"><h3>Seasons</h3><p>Typical windows for rice, flowers, and central-coast floods.</p></a>
-        <a href="/festivals"><h3>Festivals</h3><p>Lantern night and Tet. Dates that move say check on arrival.</p></a>
-      </div>
-    </section>
-    <section id="learn" class="place-section">
-      <h2>Learn</h2>
-      <div class="hub-grid">
-        {learn.map((guide) => (
-          <a href={`/plan/${guide.slug}`}>
-            <h3>{guide.title}</h3>
-            <p>{guide.summary}</p>
-          </a>
-        ))}
-      </div>
-    </section>
-    <section class="place-section">
-      <h2>Itinerary ideas</h2>
-      <div class="hub-grid">
-        {trips.map((trip) => (
-          <a href={`/itineraries/${trip.slug}`}>
-            <h3>{trip.title}</h3>
-            <p>{trip.summary}</p>
-            <p class="meta">{trip.duration} · {trip.pace}</p>
-          </a>
-        ))}
-      </div>
-      <p><a href="/itineraries">All itineraries</a></p>
-    </section>
-    <section id="stay" class="place-section">
-      <h2>Accommodation</h2>
-      <div class="hub-grid">
-        {stay.map((guide) => (
-          <a href={`/plan/${guide.slug}`}>
-            <h3>{guide.title}</h3>
-            <p>{guide.summary}</p>
-          </a>
-        ))}
-      </div>
-    </section>
-    <section id="travel" class="place-section">
-      <h2>Transportation</h2>
-      <div class="hub-grid">
-        {travel.map((guide) => (
-          <a href={`/plan/${guide.slug}`}>
-            <h3>{guide.title}</h3>
-            <p>{guide.summary}</p>
-          </a>
-        ))}
-      </div>
-      <p><a href="/get-there">Routes between places</a></p>
-    </section>
-    <section id="living" class="place-section">
-      <h2>Living</h2>
-      <div class="hub-grid">
-        {living.map((guide) => (
-          <a href={`/plan/${guide.slug}`}>
-            <h3>{guide.title}</h3>
-            <p>{guide.summary}</p>
-          </a>
-        ))}
-      </div>
-    </section>
-    <div class="partner-band">
-      <Partner kind="stay" href={stayLink('Vietnam')} label="Search stays in Vietnam" />
+    <p class="lede">Practical guides already on the site. Pick a column and open the page.</p>
+    <div class="plan-columns">
+      {columns.map((column) => (
+        <section>
+          <h2>{column.title}</h2>
+          <ul>
+            {column.links.map((item) => (
+              <li><a href={item.href}>{item.label}</a></li>
+            ))}
+          </ul>
+        </section>
+      ))}
     </div>
   </div>
 </Base>

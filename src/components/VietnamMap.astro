@@ -6,8 +6,10 @@ interface Props {
   active?: string;
   /** When false, regions are shapes only. Use this inside an existing anchor. */
   linked?: boolean;
+  /** When false, the corridor name is not painted on the shape. */
+  names?: boolean;
 }
-const { variant = 'compact', active, linked = true } = Astro.props;
+const { variant = 'compact', active, linked = true, names = true } = Astro.props;
 const showCities = variant === 'home';
 const home = variant === 'home';
 const cityRegion: Record<string, string> = {
@@ -40,7 +42,7 @@ const cityRegion: Record<string, string> = {
       <a class:list={['map-hit', { 'is-active': on }]} href={`/destinations/${region.slug}`} data-region={region.slug}>
         <title>{region.name}</title>
         <path d={region.d} fill={region.fill}></path>
-        <text class="map-region-name" x={region.label.x} y={region.label.y} text-anchor="middle">{region.name}</text>
+        {names && <text class="map-region-name" x={region.label.x} y={region.label.y} text-anchor="middle">{region.name}</text>}
       </a>
     ) : (
       <g class:list={[{ 'is-active': on }]} data-region={region.slug}>

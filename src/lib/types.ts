@@ -302,10 +302,38 @@ export interface RiceSite {
   note: string;
 }
 
+export interface PostSource {
+  label: string;
+  url: string;
+}
+
+export interface BlogPost {
+  slug: string;
+  title: string;
+  kicker: string;
+  summary: string;
+  when: string;
+  published: string;
+  photo: string;
+  photoAlt?: string;
+  cover?: string;
+  body: string[];
+  sources: PostSource[];
+  placeSlugs?: string[];
+  festivalSlug?: string;
+  seoTitle: string;
+  seoDescription: string;
+}
+
+export interface FrontPage {
+  date: string;
+  slugs: string[];
+}
+
 export interface SearchItem {
   title: string;
   vi?: string;
   href: string;
-  group: 'Places' | 'Attractions' | 'Routes' | 'Food' | 'Festivals' | 'Practical' | 'Interests';
+  group: 'Places' | 'Attractions' | 'Routes' | 'Food' | 'Festivals' | 'Practical' | 'Interests' | 'Stories';
   text: string;
 }
