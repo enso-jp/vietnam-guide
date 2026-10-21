@@ -1021,7 +1021,14 @@
       "open": true
     }
   ],
-  "claim": null,
+  "claim": {
+    "place": "da-nang",
+    "stage": "researchAttractions",
+    "item": null,
+    "at": "2026-10-21T10:06:25.049Z",
+    "by": "hourly",
+    "branch": ""
+  },
   "log": [
     {
       "at": "2026-10-21T07:30:50.681Z",
