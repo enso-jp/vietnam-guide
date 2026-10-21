@@ -110,6 +110,36 @@ Checked: 21 Oct 2026
 - Accessed: 21 Oct 2026
 - Supports: support list dated 1 Aug 2025. Tam Coc – Bích Động printed as 02293.886.068, the same number as Tràng An and Bái Đính on that table. Thạch Bích Thung Nắng 02293.618.123. Hang Múa 02293.619.679. Vườn chim Thung Nham 0912900887. Those last two are separate lines, not inside the Tam Coc row.
 
+### S19
+- URL: https://sodulich.ninhbinh.gov.vn/vi/am-thuc-ninh-binh/thit-de-nui-ninh-binh-50.html
+- Publisher: Sở Du lịch tỉnh Ninh Bình
+- Accessed: 21 Oct 2026
+- Supports: thịt dê núi, page dated 23 Aug 2021. Tiết canh, tái nhúng, tái lăn, tái vừng, grilled, stir-fried, hotpot. Eaten with fig, green banana, herbs, and tương bần with ginger. Rượu Đam Khê with the tiết canh.
+
+### S20
+- URL: https://sodulich.ninhbinh.gov.vn/vi/am-thuc-ninh-binh/com-chay-nhat-huong-thien-kim-375.html
+- Publisher: Sở Du lịch tỉnh Ninh Bình
+- Accessed: 21 Oct 2026
+- Supports: cơm cháy, page dated 20 Dec 2016. Fried rice cracker with a hot stir-fry of beef, pork heart and kidney, tomato, carrot, onion, and mushroom. Not a goat sauce.
+
+### S21
+- URL: https://sodulich.ninhbinh.gov.vn/vi/am-thuc-ninh-binh/nem-chua-yen-mac-nem-tien-vua-62.html
+- Publisher: Sở Du lịch tỉnh Ninh Bình
+- Accessed: 21 Oct 2026
+- Supports: nem chua Yên Mạc, page dated 24 Aug 2021. Xã Yên Mạc, off QL1A at km 9 toward Thanh Hóa. Rolled in fig and guava leaves, dipped in fish sauce with lime, garlic, and chili.
+
+### S22
+- URL: https://sodulich.ninhbinh.gov.vn/vi/tin-tuc-su-kien/tuan-du-lich-ninh-binh-nam-2025-chu-de-sac-vang-tam-coc-trang-an-2227.html
+- Publisher: Sở Du lịch tỉnh Ninh Bình
+- Accessed: 21 Oct 2026
+- Supports: Tourism Week page dated 21 May 2025. Week of 23–31 May 2025. Walking street and countryside food market at the Tam Coc boat landing. OCOP at bến xe Đồng Gừng.
+
+### S23
+- URL: https://sodulich.ninhbinh.gov.vn/uploads/images/01_Ke_hoach_to_chuc_Tuan_Du_lich_nam_2025_(sua)_20250328101521622620_vnpt_ca_vnpt_ca_vnpt_ca_signed_20250328050423_H42.pdf
+- Publisher: UBND tỉnh Ninh Bình, plan for Tourism Week 2025
+- Accessed: 21 Oct 2026
+- Supports: walking street 07:00–22:00 on the days of the week, from bến xe Đồng Gừng to nhà hàng Nam Hoa, thôn Văn Lâm, xã Ninh Hải, thành phố Hoa Lư. Food and souvenir stalls. Also names chợ xã Ninh Hải as a road to tidy, without saying what it sells.
+
 ## Notes, not pages
 
 Not used as sources: ticket resellers, coach-fare blogs, and the published Tam Coc JSON. A vietnamtourism.vn Tràng An page and the ACV Nội Bài article did not load as text on this pass, so no kilometer figure was taken from either.
