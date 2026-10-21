@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T05:11:59.213Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T05:11:59.213Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,19 +45,19 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T05:11:59.213Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": null,
+      "updated": "2026-10-21T05:11:59.213Z",
       "reworkCount": 0
     },
     "researchBase": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "First pass. Scene and getting there are in research/hue. Still open: Phu Bai ride minutes, a coach station, Hai Van and Hoi An drive minutes, whether Nguyen Dinh Chieu and Truong Tien are walking routes now, the Ca Hue fare and boat time, and a flood calendar finer than UNESCO's recurrent floods and the airline's October-December pass warning. Sights, food streets, the rest of the night, the ordinary day, events, and side trips are other lanes.",
+      "updated": "2026-10-21T05:11:59.212Z",
       "reworkCount": 0
     },
     "researchAttractions": {
@@ -105,7 +105,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "updated": "2026-10-21T05:11:59.213Z",
       "reworkCount": 0
     },
     {
@@ -121,7 +121,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "updated": "2026-10-21T05:11:59.213Z",
       "reworkCount": 0
     },
     {
@@ -137,7 +137,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "updated": "2026-10-21T05:11:59.213Z",
       "reworkCount": 0
     },
     {
@@ -203,16 +203,50 @@
       "note": "Named in Central Coast coverage on 19 Oct 2026. No dish file yet. Source it in the Hue dossier before the food stage publishes it.",
       "updated": null,
       "reworkCount": 0
+    },
+    {
+      "id": "hue--pham-ngu-lao",
+      "kind": "nightlife",
+      "track": "unit",
+      "name": "Pham Ngu Lao walking streets",
+      "slug": "pham-ngu-lao",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sourced in researchBase on 21 Oct 2026 from the 2017 opening and the 2025 Phu Hoi replies. Friday and Saturday 18:00-02:00, Sunday 18:00-24:00. Nguyen Dinh Chieu and a weeknight hour are still open. Page not decided.",
+      "updated": "2026-10-21T05:11:59.213Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "hue--ca-hue",
+      "kind": "nightlife",
+      "track": "unit",
+      "name": "Ca Hue on the Perfume River",
+      "slug": "ca-hue",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Sourced in researchBase on 21 Oct 2026 from Decision 21/2024. Tickets at Ben Toa Kham. Fare and the night's boat time are Check on arrival. Page not decided.",
+      "updated": "2026-10-21T05:11:59.213Z",
+      "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "hue",
-    "stage": "researchBase",
-    "item": null,
-    "at": "2026-10-21T05:06:09.898Z",
-    "by": "hourly",
-    "branch": "content/hue-research-base"
-  },
-  "log": []
+  "claim": null,
+  "log": [
+    {
+      "at": "2026-10-21T05:11:59.213Z",
+      "place": "hue",
+      "stage": "researchBase",
+      "item": null,
+      "status": "needs_depth",
+      "note": "First pass. Scene and getting there are in research/hue. Still open: Phu Bai ride minutes, a coach station, Hai Van and Hoi An drive minutes, whether Nguyen Dinh Chieu and Truong Tien are walking routes now, the Ca Hue fare and boat time, and a flood calendar finer than UNESCO's recurrent floods and the airline's October-December pass warning. Sights, food streets, the rest of the night, the ordinary day, events, and side trips are other lanes."
+    }
+  ]
 }
