@@ -2,15 +2,27 @@
   "slug": "hoi-an",
   "placeSlug": "hoi-an",
   "name": "Hoi An resort living",
-  "summary": "Ha My and Cua Dai beach resorts when you want the old town at night and a quiet sand morning.",
+  "summary": "Cua Dai beach resorts when you want the old town at night and a quiet sand morning.",
   "body": [
-    "Resort rows sit north and east of the pedestrian old town. An Bang is closer and busier. Ha My and Cua Dai are the villa-and-pool coast.",
-    "One named property has a licensed photo here. Others are omitted until a distinct resort image is available."
+    "Cua Dai is the sand east of the old town. An Bang is closer and busier. Sleep here when the morning is the beach and the evening is still the timber streets."
   ],
   "properties": [
     {
+      "name": "Palm Garden Beach Resort & Spa",
+      "summary": "Cua Dai beach resort on Lac Long Quan, with the garden between the lobby and the sand.",
+      "area": "Cua Dai",
+      "photo": "resort-hoi-an-palm-garden",
+      "sources": [
+        {
+          "label": "Palm Garden resort site",
+          "url": "https://palmgardenresort.com.vn/en"
+        }
+      ]
+    },
+    {
       "name": "Victoria Hoi An Beach Resort & Spa",
       "summary": "Cua Dai beach fishing-village style between the De Vong River and the sea.",
+      "area": "Cua Dai",
       "photo": "resort-hoi-an-victoria",
       "sources": [
         {
@@ -20,6 +32,6 @@
       ]
     }
   ],
-  "seoTitle": "Hoi An beach resorts — Victoria on Cua Dai",
-  "seoDescription": "Sourced premium resort stay near Hoi An: Victoria Hoi An Beach Resort on Cua Dai beach."
+  "seoTitle": "Hoi An beach resorts — Palm Garden and Victoria on Cua Dai",
+  "seoDescription": "Sourced beach resorts near Hoi An: Palm Garden and Victoria on Cua Dai beach."
 }

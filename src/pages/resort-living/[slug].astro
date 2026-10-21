@@ -4,7 +4,9 @@ import { join } from 'node:path';
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import Photo from '../../components/Photo.astro';
+import SectionNav from '../../components/SectionNav.astro';
 import { getPlace, getResortShowcases, pageDescription, placePath } from '../../lib/content';
+import type { ResortProperty } from '../../lib/types';
 import { photoPath } from '../../lib/photos';
 import { article, breadcrumbList } from '../../lib/schema';
 
@@ -25,6 +27,24 @@ const creditsPath = join(process.cwd(), 'public', 'photos', 'credits.json');
 const credits: Record<string, { author?: string; license?: string }> = existsSync(creditsPath)
   ? JSON.parse(readFileSync(creditsPath, 'utf8'))
   : {};
+
+function areaId(heading: string): string {
+  return heading
+    .normalize('NFD')
+    .replace(/\p{M}/gu, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '') || 'resorts';
+}
+
+const groups: { id: string; heading: string; properties: ResortProperty[] }[] = [];
+for (const property of showcase.properties) {
+  const heading = property.area || 'Resorts';
+  const id = areaId(heading);
+  const last = groups.at(-1);
+  if (last && last.id === id) last.properties.push(property);
+  else groups.push({ id, heading, properties: [property] });
+}
 const crumbSchema = [
   { name: 'Interests', path: '/interests' },
   { name: 'Resort Living', path: '/interests/resort-living' },
@@ -40,35 +60,34 @@ const crumbSchema = [
     ]} />
     <h1>{showcase.name}</h1>
     <p class="lede">{showcase.summary}</p>
+    <SectionNav label={`${showcase.name} coasts`} items={groups.map((group) => ({ id: group.id, label: group.heading }))} />
     <div class="reading place-body">
-      <section class="place-section">
-        {showcase.body.map((paragraph) => <p>{paragraph}</p>)}
-        {place && <p><a href={placePath(place)}>{place.name} travel guide</a></p>}
-      </section>
-      <section class="place-section">
-        <h2>Resorts</h2>
-        <p class="note">Each name is on the operator’s public site. Rates are not listed here. Search stays on the partner link in the travel guide.</p>
-        {showcase.properties.map((property) => (
-          <article class="dish-feature has-photo">
-            <Photo id={property.photo} alt={property.name} />
-            <span>
-              <strong>{property.name}</strong>
-              <em>{property.summary}</em>
-              <small>
-                Source: {property.sources.map((source, index) => (
-                  <>
-                    {index > 0 && '; '}
-                    <a href={source.url} rel="noopener noreferrer">{source.label}</a>
-                  </>
-                ))}
-              </small>
-            </span>
-          </article>
-        ))}
-        {showcase.properties.map((property) => (
-          credits[property.photo] && <p class="note photo-credit">Photo ({property.name}): {credits[property.photo].author} · {credits[property.photo].license}</p>
-        ))}
-      </section>
+      {showcase.body.map((paragraph) => <p>{paragraph}</p>)}
+      <p class="note">Each name is on the operator’s public site. Rates are not listed here. Search stays on the partner link in the travel guide.</p>
+      {groups.map((group) => (
+        <section id={group.id} class="place-section">
+          <h2>{group.heading}</h2>
+          <div class="resort-grid">
+            {group.properties.map((property) => (
+              <article class="food-card">
+                <span class="media"><Photo id={property.photo} alt={property.name} /></span>
+                <strong>{property.name}</strong>
+                <em>{property.summary}</em>
+                <small>
+                  Source: {property.sources.map((source, index) => (
+                    <>
+                      {index > 0 && '; '}
+                      <a href={source.url} rel="noopener noreferrer">{source.label}</a>
+                    </>
+                  ))}
+                </small>
+                {credits[property.photo] && <small class="photo-credit">Photo: {credits[property.photo].author} · {credits[property.photo].license}</small>}
+              </article>
+            ))}
+          </div>
+        </section>
+      ))}
+      {place && <p><a href={placePath(place)}>{place.name} travel guide</a></p>}
     </div>
   </article>
 </Base>
