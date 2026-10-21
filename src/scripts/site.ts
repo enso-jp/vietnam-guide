@@ -286,6 +286,38 @@ document.querySelectorAll<HTMLElement>('[data-carousel]').forEach((root) => {
 });
 
 document.querySelectorAll<HTMLElement>('[data-region-stage]').forEach((stage) => {
+  const tooltip = stage.querySelector<HTMLElement>('[data-map-tooltip]');
+  const tooltipRegion = stage.querySelector<HTMLElement>('[data-map-tooltip-region]');
+  const tooltipPlace = stage.querySelector<HTMLElement>('[data-map-tooltip-place]');
+  const hideTooltip = () => {
+    if (tooltip) tooltip.hidden = true;
+  };
+  const paintTooltip = (hit: HTMLElement, event: PointerEvent) => {
+    if (!tooltip || !tooltipRegion || !tooltipPlace) return;
+    const corridor = hit.dataset.corridorName || '';
+    const province = hit.dataset.province || '';
+    if (!corridor || !province) {
+      hideTooltip();
+      return;
+    }
+    tooltipRegion.textContent = corridor;
+    tooltipPlace.textContent = province;
+    tooltip.hidden = false;
+    const frame = hit.closest<HTMLElement>('.region-map-frame');
+    if (!frame) return;
+    const box = frame.getBoundingClientRect();
+    const pad = 8;
+    let left = event.clientX - box.left + 12;
+    let top = event.clientY - box.top - 12;
+    tooltip.style.left = `${left}px`;
+    tooltip.style.top = `${top}px`;
+    const tip = tooltip.getBoundingClientRect();
+    if (left + tip.width > box.width - pad) left = Math.max(pad, box.width - tip.width - pad);
+    if (top < pad) top = pad;
+    if (top + tip.height > box.height - pad) top = Math.max(pad, box.height - tip.height - pad);
+    tooltip.style.left = `${left}px`;
+    tooltip.style.top = `${top}px`;
+  };
   const show = (slug: string) => {
     stage.querySelectorAll<HTMLElement>('[data-region-card]').forEach((card) => {
       card.hidden = card.dataset.regionCard !== slug;
@@ -310,8 +342,16 @@ document.querySelectorAll<HTMLElement>('[data-region-stage]').forEach((stage) =>
     requestAnimationFrame(() => paintRails(slug));
   };
   stage.addEventListener('pointerover', (event) => {
+    const province = (event.target as HTMLElement | null)?.closest<HTMLElement>('svg .map-province');
+    if (province && stage.contains(province)) paintTooltip(province, event as PointerEvent);
     const slug = read(event.target);
     if (slug) reveal(slug);
+  });
+  stage.addEventListener('pointerout', (event) => {
+    const province = (event.target as HTMLElement | null)?.closest<HTMLElement>('svg .map-province');
+    if (!province) return;
+    const next = (event.relatedTarget as HTMLElement | null)?.closest<HTMLElement>('svg .map-province');
+    if (!next || !stage.contains(next)) hideTooltip();
   });
   stage.addEventListener('focusin', (event) => {
     const slug = read(event.target);

@@ -101,6 +101,7 @@ const jsonLd = {
         </section>
       )}
 
+      <div class="home-split">
       <div class="home-feed">
         {feature && (
           <a class="home-hero home-hero-next" href={feature.href}>
@@ -141,13 +142,20 @@ const jsonLd = {
       <div class="home-rail">
         <BookStay />
       </div>
+      </div>
     </div>
 
     <section class="home-section region-stage" data-region-stage>
       <h2>Regions of Vietnam</h2>
       <div class="region-board">
         <div class="region-map">
-          <VietnamMap variant="home" active={activeRegion} names={false} />
+          <div class="region-map-frame">
+            <VietnamMap variant="home" active={activeRegion} names={false} />
+            <div class="map-tooltip" data-map-tooltip hidden>
+              <span class="map-tooltip-region" data-map-tooltip-region></span>
+              <strong class="map-tooltip-place" data-map-tooltip-place></strong>
+            </div>
+          </div>
           <div class="region-picks" role="tablist" aria-label="Regions">
             {corridors.map((corridor) => (
               <button
@@ -175,12 +183,18 @@ const jsonLd = {
                     </a>
                   ))}
                 </div>
-                <h3>{corridor.name}</h3>
-                <p>{corridor.summary}</p>
               </div>
             );
           })}
         </div>
+      </div>
+      <div class="region-caption">
+        {corridors.map((corridor) => (
+          <div class="region-caption-panel" data-region-card={corridor.slug} hidden={corridor.slug !== activeRegion}>
+            <h3>{corridor.name}</h3>
+            <p>{corridor.summary}</p>
+          </div>
+        ))}
       </div>
       <p class="region-more"><a class="pill" href="/destinations">See regions</a></p>
     </section>
