@@ -5,9 +5,9 @@
   "corridor": "mekong-delta",
   "kind": "city",
   "parent": null,
-  "publish": "candidate",
+  "publish": "accepted",
   "priority": 120,
-  "note": "Mekong Delta border town on the Hậu River. Research may be stored. Do not create a public place file until publish is accepted.",
+  "note": "Owner accepted publish on 21 Oct 2026. Mekong Delta border town. Long Xuyen, Ba Chuc, Oc Eo, and Tinh Bien stay placeholders.",
   "coverage": {
     "sights": "filled",
     "areas": "filled",
@@ -398,7 +398,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "chau-doc",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-21T16:35:55.891Z",
+    "by": "chau-doc-destination",
+    "branch": "cursor/chau-doc-destination-86a3"
+  },
   "log": [
     {
       "at": "2026-10-21T15:28:36.655Z",
