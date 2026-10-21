@@ -2,7 +2,7 @@
 
 `ops/board/` is the database every content agent reads. `control.json` holds pause, holds, and how many places may run at once. `places/<slug>.json` holds that destination. `node scripts/board.mjs` is the lock. Status in chat does not count.
 
-The hourly automation is a dispatcher. It reads `next` and starts one cloud agent per free place, up to `control.parallelUnits` (4 unless you change it). It does not research in that same chat. A claim locks only that place, so Hue can run while Da Nang is claimed. Two lanes of one place stay in order, because they share the dossier.
+The hourly automation is a dispatcher. It reads `next` and starts one cloud agent per free place, up to `control.parallelUnits` (4 unless you change it). It does not research in that same chat. Each of those agents stays on its place and works through every open stage once: the six research lanes on a first visit, then pages and copy on a later visit once the lanes are stored. A claim locks only that place, so Hue can run while Da Nang is claimed. The lanes of one place stay in order, because they share the dossier. One pull request holds every stage that run finished.
 
 Open `content:` pull requests still count against `control.maxOpenContentPrs`. The dispatcher starts at most the free slots. Raise `parallelUnits` and `maxOpenContentPrs` together if you want more than four places in flight.
 
@@ -15,7 +15,7 @@ Da Nang's next lane is food. Dishes are already written. Food streets are not, a
 Two automations, not one. The hourly run writes, through the workers it starts. The daily run only reports, so it cannot collide with a claim.
 
 1. Merge the pull request that splits this board. Both automations read `main`.
-2. Open [Cursor Automations](https://cursor.com/automations). Replace the hourly prompt with `ops/prompts/hourly.md`.
+2. Open [Cursor Automations](https://cursor.com/automations). Replace the hourly prompt with `ops/prompts/hourly.md` whenever that file changes. The saved automation does not pick up the file by itself.
    - Trigger: Scheduled, every hour. You can narrow the hours later if the usage is too high.
    - Repository: this repo. Branch: `main`. A schedule does not attach the repo by itself.
    - Tools: pull requests on. Memories off. The dispatcher must be allowed to start cloud agents.
