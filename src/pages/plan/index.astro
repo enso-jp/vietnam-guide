@@ -1,7 +1,11 @@
 ---
+import { existsSync, readFileSync } from 'node:fs';
+import { join } from 'node:path';
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
-import { getGuides, getItineraries } from '../../lib/content';
+import Photo from '../../components/Photo.astro';
+import { getGuides, getHighlights, getItineraries } from '../../lib/content';
+import { photoPath } from '../../lib/photos';
 import { breadcrumbList } from '../../lib/schema';
 
 const guides = getGuides();
@@ -10,45 +14,105 @@ const link = (slug: string) => {
   const guide = bySlug.get(slug);
   return guide ? { href: `/plan/${guide.slug}`, label: guide.title } : null;
 };
+type PlanLink = { href: string; label: string };
+const keep = (item: PlanLink | null): item is PlanLink => Boolean(item);
 const before = ['when-to-go', 'e-visa', 'money', 'sim-and-wifi', 'luggage', 'street-manners', 'eating-manners']
   .map(link)
-  .filter((item): item is { href: string; label: string } => Boolean(item));
-const stay = ['where-to-stay'].map(link).filter((item): item is { href: string; label: string } => Boolean(item));
-const travel = ['flights', 'trains', 'buses', 'grab-and-taxis', 'motorbikes']
-  .map(link)
-  .filter((item): item is { href: string; label: string } => Boolean(item));
+  .filter(keep);
+const stay = ['where-to-stay'].map(link).filter(keep);
+const travel = ['flights', 'trains', 'buses', 'grab-and-taxis', 'motorbikes'].map(link).filter(keep);
 const trips = getItineraries().filter((trip) => trip.level === 'nationwide' || trip.level === 'region');
-const living = ['living', 'taxes'].map(link).filter((item): item is { href: string; label: string } => Boolean(item));
+const living = ['living', 'taxes'].map(link).filter(keep);
 const columns = [
   {
+    id: 'before',
     title: 'Before you go',
     links: [...before, { href: '/seasons', label: 'Seasons' }, { href: '/festivals', label: 'Festivals' }],
   },
-  { title: 'Accommodation', links: stay },
-  { title: 'Transportation', links: [...travel, { href: '/get-there', label: 'Routes between places' }] },
+  { id: 'accommodation', title: 'Accommodation', links: stay },
   {
-    title: 'Itineraries',
-    links: [...trips.map((trip) => ({ href: `/itineraries/${trip.slug}`, label: trip.title })), { href: '/itineraries', label: 'All itineraries' }],
+    id: 'transportation',
+    title: 'Transportation',
+    links: [...travel, { href: '/get-there', label: 'Routes between places' }],
   },
-  { title: 'Living', links: living },
-];
+  {
+    id: 'itineraries',
+    title: 'Itineraries',
+    links: [
+      ...trips.map((trip) => ({ href: `/itineraries/${trip.slug}`, label: trip.title })),
+      { href: '/itineraries', label: 'All itineraries' },
+    ],
+  },
+  { id: 'living', title: 'Living', links: living },
+].filter((column) => column.links.length > 0);
+
+const shortSet = 6;
+const creditsPath = join(process.cwd(), 'public', 'photos', 'credits.json');
+const credits: Record<string, { license?: string }> = existsSync(creditsPath)
+  ? JSON.parse(readFileSync(creditsPath, 'utf8'))
+  : {};
+const news = getHighlights().filter((story) => {
+  const license = credits[story.photo]?.license?.trim();
+  return Boolean(license && photoPath(story.photo));
+});
 ---
 <Base title="Plan a trip" description="When to go, visas, where to stay, how to get around, itineraries, and living in Vietnam." path="/plan" jsonLd={breadcrumbList([{ name: 'Plan a trip', path: '/plan' }])}>
-  <div class="wrap section">
-    <Crumbs items={[{ name: 'Plan a trip' }]} />
-    <h1>Plan a trip</h1>
-    <p class="lede">Practical guides already on the site. Pick a column and open the page.</p>
-    <div class="plan-columns">
-      {columns.map((column) => (
-        <section>
-          <h2>{column.title}</h2>
-          <ul>
-            {column.links.map((item) => (
-              <li><a href={item.href}>{item.label}</a></li>
+  <div class="plan-page">
+    <div class="wrap section">
+      <nav class="tabs" aria-label="Plan a trip">
+        <a href="/plan" aria-current="page">Plan a trip</a>
+        {columns.map((column) => (
+          <a href={`/plan#${column.id}`}>{column.title}</a>
+        ))}
+      </nav>
+      <div class="plan-intro">
+        <Crumbs items={[{ name: 'Plan a trip' }]} />
+        <h1>Plan a trip</h1>
+        <p class="lede">Practical guides already on the site. Pick a column and open the page.</p>
+      </div>
+      <div class="plan-board">
+        {columns.map((column) => {
+          const shown = column.links.slice(0, shortSet);
+          const extra = column.links.slice(shortSet);
+          return (
+            <section class="plan-card" id={column.id}>
+              <h2>{column.title}</h2>
+              <ul>
+                {shown.map((item) => (
+                  <li><a href={item.href}>{item.label}</a></li>
+                ))}
+              </ul>
+              {extra.length > 0 && (
+                <details class="plan-see">
+                  <summary>See all <span aria-hidden="true">›</span></summary>
+                  <ul>
+                    {extra.map((item) => (
+                      <li><a href={item.href}>{item.label}</a></li>
+                    ))}
+                  </ul>
+                </details>
+              )}
+            </section>
+          );
+        })}
+      </div>
+      {news.length > 0 && (
+        <section class="plan-news" aria-labelledby="plan-news-title">
+          <h2 id="plan-news-title">Vietnam travel news</h2>
+          <div class="plan-news-grid">
+            {news.map((story) => (
+              <a class="plan-news-card" href={story.href}>
+                <span class="plan-news-photo">
+                  <Photo id={story.photo} alt="" cover={story.cover} />
+                </span>
+                <strong>{story.title}</strong>
+                <small><i aria-hidden="true"></i>{story.kicker}</small>
+              </a>
             ))}
-          </ul>
+          </div>
+          <a class="plan-more" href="/blog">More stories <span aria-hidden="true">›</span></a>
         </section>
-      ))}
+      )}
     </div>
   </div>
 </Base>
