@@ -1,0 +1,59 @@
+{
+  "slug": "hon-ba",
+  "placeSlug": "vung-tau",
+  "name": "Hon Ba",
+  "nameVi": "Hòn Bà",
+  "kicker": "A shrine rock, only at low tide",
+  "summary": "Cross the rocks at low tide to the shrines on the islet at the end of Back Beach. The catalogue gives four festival mornings, the 15th of the 1st, 4th, 7th, and 10th lunar months, and a low-water window of 5:00–9:00. Go at high tide and the path is gone. Minutes on the rock, and any fee, are check on arrival.",
+  "dots": 3,
+  "timeNeeded": "The crossing. Minutes are check on arrival.",
+  "fee": "Check on arrival",
+  "getThere": "The south end of Back Beach, and only at low tide.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "Hon Ba, the shrine roofs on the rock, with the sea around it",
+  "notice": {
+    "title": "High tide closes the path",
+    "body": "Vietnam Tourism says you reach the shrines only at low tide. The path is the rocks. On the four festival mornings the catalogue’s window is 5:00–9:00."
+  },
+  "body": [
+    "Hòn Bà is the rock islet at Mũi Nghinh Phong, at the end of Back Beach. Vietnam Tourism describes the crossing to the shrines of Miếu Bà, the sailors’ patroness. The photograph is that rock, the roofs, and the sea.",
+    "The catalogue sets festivals on the 15th of the 1st, 4th, 7th, and 10th lunar months, and says the low-water walk that morning is 5:00–9:00. Solar dates move. Check on arrival. The 2026 whale procession also sent boats along the shore toward this rock. That boat rite is not the same as walking out at low tide.",
+    "A fee is not printed. The crossing plus the shrine has no minute count on the pages used here. If the water is up, leave it and stay on Back Beach."
+  ],
+  "figures": [
+    {
+      "id": "vung-tau-hon-ba-2",
+      "caption": "The islet from the shore park, with the red roof still readable",
+      "alt": "Hon Ba seen from the Back Beach end, shrine roof on the rock"
+    }
+  ],
+  "gettingThere": [
+    "The islet is at the south end of Back Beach. You walk the rocks when the tide is low. There is no sourced boat for an ordinary visit. The festival boats in the 2026 whale report are a separate rite."
+  ],
+  "legs": [
+    {
+      "heading": "From Back Beach",
+      "body": "Walk to the south end, Mũi Nghinh Phong, and cross only at low tide. On festival mornings the catalogue prints 5:00–9:00. Minutes for the crossing are check on arrival."
+    },
+    {
+      "heading": "From the Christ statue",
+      "body": "The statue is on Small Mountain above the meeting of Back Beach and Pineapple Beach. The rock is the far end of Back Beach. Ride minutes between them are not printed. Check on arrival."
+    }
+  ],
+  "hours": "Low tide. Festival mornings 5:00–9:00 in the catalogue. Other days, check the tide on arrival.",
+  "closed": "High tide. The path is the rocks.",
+  "admissionNote": "No fee is printed. Check on arrival. Solar dates of the 15th of lunar months 1, 4, 7, and 10 move.",
+  "links": [
+    {
+      "label": "Vietnam Tourism, Vung Tau",
+      "url": "https://www.vietnam.travel/things-to-do/essential-vung-tau-guide",
+      "note": "The low-tide crossing"
+    },
+    {
+      "label": "Destination catalogue",
+      "url": "https://diemden.baria-vungtau.gov.vn/places",
+      "note": "The four lunar dates and the 5:00–9:00 window"
+    }
+  ],
+  "interests": ["photography"]
+}
