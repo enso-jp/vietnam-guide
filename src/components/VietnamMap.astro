@@ -14,7 +14,6 @@ const { variant = 'compact', active, linked = true, names = true } = Astro.props
 const home = variant === 'home';
 const mainlandViewBox = '68 8 276 530';
 const pins = home && names ? mapPins(vietnamProvinces) : [];
-const pinBySlug = new Map(pins.map((pin) => [pin.slug, pin]));
 const southCentral = 'south-central-highlands';
 const islandsOn = active === southCentral;
 ---
@@ -27,18 +26,7 @@ const islandsOn = active === southCentral;
 >
   {vietnamProvinces.map((province) => {
     const on = province.region === active;
-    const pin = pinBySlug.get(province.slug);
-    const body = (
-      <>
-        <path d={province.d}></path>
-        {pin && (
-          <g class="map-pin" aria-hidden="true">
-            <circle cx={pin.x} cy={pin.y} r="3.6"></circle>
-            <text x={pin.lx} y={pin.ly} text-anchor={pin.anchor}>{pin.label}</text>
-          </g>
-        )}
-      </>
-    );
+    const path = <path d={province.d}></path>;
     return linked ? (
       <a
         class:list={['map-hit', 'map-province', { 'is-active': on }]}
@@ -48,7 +36,7 @@ const islandsOn = active === southCentral;
         data-corridor-name={province.regionName}
       >
         <title>{province.name}</title>
-        {body}
+        {path}
       </a>
     ) : (
       <g
@@ -58,7 +46,7 @@ const islandsOn = active === southCentral;
         data-corridor-name={province.regionName}
       >
         <title>{province.name}</title>
-        {body}
+        {path}
       </g>
     );
   })}
@@ -95,5 +83,19 @@ const islandsOn = active === southCentral;
         ))}
       </g>
     )
+  )}
+  {pins.length > 0 && (
+    <g class="map-pins" aria-hidden="true">
+      {pins.map((pin) => (
+        <g
+          class:list={['map-pin', { 'is-active': pin.region === active }]}
+          data-region={pin.region}
+          data-province={pin.name}
+        >
+          <circle cx={pin.x} cy={pin.y} r="3.6"></circle>
+          <text x={pin.lx} y={pin.ly} text-anchor={pin.anchor}>{pin.label}</text>
+        </g>
+      ))}
+    </g>
   )}
 </svg>

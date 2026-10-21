@@ -609,8 +609,8 @@ p { margin: 0.55rem 0; }
 .map-vietnam .map-hit.is-active:hover path { fill: #f3c2b4; stroke: #c9897c; }
 .map-svg a:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
 .map-pin { visibility: hidden; pointer-events: none; }
-.map-province.is-active .map-pin,
-.map-province.is-hover .map-pin { visibility: visible; }
+.map-pin.is-active,
+.map-pin.is-hover { visibility: visible; }
 .map-pin circle { fill: #fff; stroke: #3d2418; stroke-width: 1.1; }
 .map-pin text {
   font-family: var(--sans);
@@ -618,7 +618,7 @@ p { margin: 0.55rem 0; }
   font-weight: 700;
   fill: #3d2418;
   stroke: #fff;
-  stroke-width: 2px;
+  stroke-width: 1.6px;
   paint-order: stroke fill;
 }
 .map-region-name {

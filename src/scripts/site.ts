@@ -307,7 +307,13 @@ document.querySelectorAll<HTMLElement>('[data-region-stage]').forEach((stage) =>
     (target as HTMLElement | null)?.closest<HTMLElement>('svg .map-province, svg .map-islands');
   const hover = (hit: HTMLElement | null) => {
     stage.querySelectorAll<HTMLElement>('svg .is-hover').forEach((el) => el.classList.remove('is-hover'));
-    if (hit && stage.contains(hit)) hit.classList.add('is-hover');
+    if (!hit || !stage.contains(hit)) return;
+    hit.classList.add('is-hover');
+    const name = hit.dataset.province;
+    if (!name) return;
+    stage.querySelectorAll<HTMLElement>('.map-pin').forEach((pin) => {
+      if (pin.dataset.province === name) pin.classList.add('is-hover');
+    });
   };
   stage.addEventListener('pointerover', (event) => {
     const hit = shape(event.target);
@@ -317,7 +323,7 @@ document.querySelectorAll<HTMLElement>('[data-region-stage]').forEach((stage) =>
     const hit = shape(event.target);
     if (!hit) return;
     const next = shape(event.relatedTarget);
-    if (next !== hit) hit.classList.remove('is-hover');
+    if (next !== hit) hover(next && stage.contains(next) ? next : null);
   });
   stage.addEventListener('click', (event) => {
     const button = (event.target as HTMLElement | null)?.closest<HTMLButtonElement>('button[data-region]');

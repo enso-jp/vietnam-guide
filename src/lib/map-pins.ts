@@ -21,9 +21,11 @@ const LABEL: Record<string, string> = {
   'ho-chi-minh-city': 'Ho Chi Minh City',
 };
 
+/** Matches the map label font. Width is generous so the halo never eats the next name. */
 const FONT = 10.5;
-const CHAR = 0.56;
-const PAD = 3.2;
+const CHAR = 0.62;
+const DOT = 8;
+const GAP = 11;
 
 interface Box {
   l: number;
@@ -74,28 +76,31 @@ function centroid(d: string): { x: number; y: number } {
 }
 
 function widthOf(label: string): number {
-  return label.length * FONT * CHAR;
+  return label.length * FONT * CHAR + 2.4;
 }
 
 function textBox(lx: number, ly: number, anchor: 'start' | 'end', label: string): Box {
   const w = widthOf(label);
   const l = anchor === 'start' ? lx : lx - w;
-  return { l, r: l + w, t: ly - FONT, b: ly + 2.4 };
+  return { l, r: l + w, t: ly - FONT - 1.2, b: ly + 3.2 };
 }
 
-function hits(a: Box, b: Box, gap = 1.6): boolean {
-  return a.l < b.r + gap && a.r > b.l - gap && a.t < b.b + gap && a.b > b.t - gap;
+function hits(a: Box, b: Box): boolean {
+  return a.l < b.r && a.r > b.l && a.t < b.b && a.b > b.t;
 }
 
 function inside(box: Box): boolean {
-  return box.l >= 58 && box.r <= 578 && box.t >= 10 && box.b <= 628;
+  return box.l >= 58 && box.r <= 575 && box.t >= 8 && box.b <= 626;
 }
 
 function obstacles(): Box[] {
-  const boxes = vietnamIslandGroups.map((isle) => boundsOf(isle.d));
+  const boxes = vietnamIslandGroups.map((isle) => {
+    const box = boundsOf(isle.d);
+    return { l: box.l - 3, r: box.r + 3, t: box.t - 3, b: box.b + 3 };
+  });
   for (const label of vietnamSeaLabels) {
     const w = Math.max(widthOf(label.name), widthOf(label.note));
-    boxes.push({ l: label.x - 2, r: label.x + w + 2, t: label.y - 14, b: label.y + 16 });
+    boxes.push({ l: label.x - 4, r: label.x + w + 4, t: label.y - 16, b: label.y + 18 });
   }
   return boxes;
 }
@@ -110,80 +115,56 @@ interface Draft {
   lx: number;
   ly: number;
   anchor: 'start' | 'end';
-  box: Box;
 }
 
-function choose(
-  pin: Draft,
-  anchor: 'start' | 'end',
-  lx: number,
-  ly: number,
-  blocked: Box[],
-): { lx: number; ly: number; anchor: 'start' | 'end'; box: Box; shift: number } | null {
-  const shifts = [0, -5, 5, -10, 10, -15, 15, 20, -20, 26, 32, -26, 40, 48];
-  for (const shift of shifts) {
-    const y = ly + shift;
-    const box = textBox(lx, y, anchor, pin.label);
-    if (!inside(box)) continue;
-    if (blocked.some((block) => hits(box, block))) continue;
-    return { lx, ly: y, anchor, box, shift: Math.abs(shift) };
-  }
-  return null;
-}
-
-function layout(pins: Draft[], blocked: Box[]) {
-  const region = pins.reduce(
-    (box, pin) => ({
-      l: Math.min(box.l, pin.x),
-      r: Math.max(box.r, pin.x),
-      t: Math.min(box.t, pin.y),
-      b: Math.max(box.b, pin.y),
-    }),
-    { l: Infinity, r: -Infinity, t: Infinity, b: -Infinity },
-  );
-  const mid = (region.l + region.r) / 2;
-  const narrow = region.r - region.l < 130;
-  const rightGutter = region.r + 8;
-  const leftGutter = region.l - 8;
-  const taken: Box[] = [];
-
-  for (const pin of pins) {
-    const besideRight = { anchor: 'start' as const, lx: pin.x + 6.2, ly: pin.y + 3.6 };
-    const besideLeft = { anchor: 'end' as const, lx: pin.x - 6.2, ly: pin.y + 3.6 };
-    const gutterRight = { anchor: 'start' as const, lx: rightGutter, ly: pin.y + 3.6 };
-    const gutterLeft = { anchor: 'end' as const, lx: leftGutter, ly: pin.y + 3.6 };
-    const preferRight = pin.x >= mid;
-    const order = narrow
-      ? preferRight
-        ? [gutterRight, gutterLeft, besideRight, besideLeft]
-        : [gutterLeft, gutterRight, besideLeft, besideRight]
-      : preferRight
-        ? [besideRight, besideLeft, gutterRight, gutterLeft]
-        : [besideLeft, besideRight, gutterLeft, gutterRight];
-
-    let best: { lx: number; ly: number; anchor: 'start' | 'end'; box: Box; shift: number; rank: number } | null = null;
-    order.forEach((option, rank) => {
-      const found = choose(pin, option.anchor, option.lx, option.ly, [...blocked, ...taken, { l: pin.x - 5, r: pin.x + 5, t: pin.y - 5, b: pin.y + 5 }]);
-      if (!found) return;
-      const score = found.shift + rank * 3;
-      if (!best || score < best.shift + best.rank * 3) best = { ...found, rank };
-    });
-    if (!best) {
-      pin.lx = round(pin.x + 6.2);
-      pin.ly = round(pin.y + 3.6);
-      pin.anchor = 'start';
-      pin.box = textBox(pin.lx, pin.ly, pin.anchor, pin.label);
-    } else {
-      pin.lx = round(best.lx);
-      pin.ly = round(best.ly);
-      pin.anchor = best.anchor;
-      pin.box = best.box;
+function separate(list: Draft[]) {
+  const ordered = [...list].sort((a, b) => a.ly - b.ly || a.lx - b.lx);
+  for (let i = 0; i < ordered.length; i++) {
+    const pin = ordered[i];
+    let guard = 0;
+    while (guard < 24) {
+      const box = padded(textBox(pin.lx, pin.ly, pin.anchor, pin.label));
+      const clash = ordered.slice(0, i).some((other) => hits(box, textBox(other.lx, other.ly, other.anchor, other.label)));
+      if (!clash) break;
+      pin.ly = round(pin.ly + 6);
+      guard += 1;
     }
-    taken.push({ ...pin.box, t: pin.box.t - PAD, b: pin.box.b + PAD });
   }
 }
 
-/** Dot on the province. Names sit in the open space beside that region so neighbours stay readable. */
+function padded(box: Box): Box {
+  return { l: box.l - GAP, r: box.r + GAP, t: box.t - GAP, b: box.b + GAP };
+}
+
+function placeSide(side: Draft[], anchor: 'start' | 'end', blocked: Box[]) {
+  side.sort((a, b) => a.y - b.y || a.x - b.x);
+  const xs = side.map((pin) => pin.x);
+  const span = Math.max(...xs) - Math.min(...xs);
+  const align = span < 46;
+  const gutter = anchor === 'start' ? Math.max(...xs) + DOT : Math.min(...xs) - DOT;
+  const taken: Box[] = [];
+  for (const pin of side) {
+    const lx = round(align ? gutter : anchor === 'start' ? pin.x + DOT : pin.x - DOT);
+    let ly = pin.y + 3.4;
+    let guard = 0;
+    while (guard < 28) {
+      const box = textBox(lx, ly, anchor, pin.label);
+      const clear = inside(box) && !blocked.some((block) => hits(box, block)) && !taken.some((block) => hits(padded(box), block));
+      if (clear) break;
+      ly += 6;
+      guard += 1;
+    }
+    pin.lx = lx;
+    pin.ly = round(ly);
+    pin.anchor = anchor;
+    taken.push(textBox(pin.lx, pin.ly, pin.anchor, pin.label));
+  }
+}
+
+/**
+ * One dot on the province. The name sits just to the open side of that dot.
+ * Names in the same column keep a full line of space so they never cover each other.
+ */
 export function mapPins(provinces: Province[]): MapPin[] {
   const blocked = obstacles();
   const pins: Draft[] = provinces.map((province) => {
@@ -199,7 +180,6 @@ export function mapPins(provinces: Province[]): MapPin[] {
       lx: 0,
       ly: 0,
       anchor: 'start' as const,
-      box: { l: 0, r: 0, t: 0, b: 0 },
     };
   });
   const groups = new Map<string, Draft[]>();
@@ -209,8 +189,17 @@ export function mapPins(provinces: Province[]): MapPin[] {
     groups.set(pin.region, list);
   }
   for (const list of groups.values()) {
-    list.sort((a, b) => a.y - b.y || a.x - b.x);
-    layout(list, blocked);
+    const xs = list.map((pin) => pin.x).sort((a, b) => a - b);
+    const mid = xs[Math.floor((xs.length - 1) / 2)] ?? 0;
+    const left = list.filter((pin) => pin.x <= mid);
+    const right = list.filter((pin) => pin.x > mid);
+    if (right.length === 0 && left.length > 1) {
+      const moved = left.pop();
+      if (moved) right.push(moved);
+    }
+    placeSide(left, 'end', blocked);
+    placeSide(right, 'start', blocked);
+    separate(list);
   }
-  return pins.map(({ box: _box, ...pin }) => pin);
+  return pins;
 }
