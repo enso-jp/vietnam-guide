@@ -84,13 +84,13 @@ Accessed 21 Oct 2026 unless a line says otherwise. Fees, hours, and durations be
 - URL: https://baophapluat.vn/chinh-thuc-khanh-thanh-cho-lang-co-ngoi-cho-khong-ngu-diem-den-van-hoa.html
 - Publisher: Báo Pháp Luật Việt Nam, 20 May 2026
 - Accessed: 21 Oct 2026
-- Supports: Chợ Lăng Cô opened 19 May 2026 at xã Chân Mây - Lăng Cô, thành phố Huế, beside Highway 1A, Đầm Lập An, and the bay. About 15,000 m², 412 stalls, seafood among the goods, three floors. Headline calls it a market that does not sleep. The article does not print opening hours. Treat “không ngủ” as a slogan, not a clock.
+- Supports: Chợ Lăng Cô opened 19 May 2026 at xã Chân Mây - Lăng Cô, thành phố Huế, beside Highway 1A, Đầm Lập An, and the bay. About 15,000 m², 412 planned stalls, three floors. Stall categories named: seafood, produce, local specialties, fashion, and household goods. No boutique, souvenir, product, or mall is named. Headline calls it a market that does not sleep. The article does not print opening hours. Treat “không ngủ” as a slogan, not a clock.
 
 ### S15
 - URL: https://thoibaonganhang.vn/cho-lang-co-diem-den-van-hoa-du-lich-hap-dan-182329.html
 - Publisher: Thời báo Ngân hàng, Hà Liên, 21 May 2026
 - Accessed: 21 Oct 2026
-- Supports: Same market opening at xã Chân Mây - Lăng Cô, TP Huế, beside the lagoon and the bay, seafood and local specialties. Second paper for S14. No clock.
+- Supports: Same market opening at xã Chân Mây - Lăng Cô, TP Huế, beside the lagoon and the bay. Same stall categories as S14: seafood, produce, local specialties, fashion, and household goods. No shop is named. Second paper for S14. No clock.
 
 ### S16
 - URL: https://baovanhoa.vn/du-lich/khai-truong-pho-di-bo-o-vinh-dep-lang-co-93533.html

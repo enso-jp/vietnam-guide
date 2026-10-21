@@ -5,9 +5,9 @@
   "corridor": "central-coast",
   "kind": "town",
   "parent": null,
-  "publish": "candidate",
+  "publish": "accepted",
   "priority": 101,
-  "note": "Named in Central Coast coverage. Research may be stored. Do not create a public place file until publish is accepted.",
+  "note": "Owner accepted publish on 21 Oct 2026. North Central Coast town. Public files may be drafted.",
   "coverage": {
     "sights": "filled",
     "areas": "filled",
@@ -19,39 +19,39 @@
   },
   "stages": {
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, four sourced interest pages, and one day itinerary. Tan Canh Duong and Chan May stay areas.",
+      "updated": "2026-10-21T16:46:12.976Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T15:30:31.460Z",
+      "status": "enriched",
+      "note": "Hero is the beach under the ridge. Prose stays with the dossier. No food-guide card without a plate photo.",
+      "updated": "2026-10-21T16:46:13.036Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T15:30:31.460Z",
+      "status": "checked",
+      "note": "Read against the dossier. Fees and hours without a second clock stay check on arrival.",
+      "updated": "2026-10-21T16:46:13.094Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "skipped",
+      "note": "No licensed photo of Lap An oysters or the Canh Duong grill. No food guide and no dish page.",
+      "updated": "2026-10-21T16:46:13.152Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T15:30:31.460Z",
+      "status": "skipped",
+      "note": "No food guide to copy. Left out: a plate photo, a breakfast dish, and a local drink.",
+      "updated": "2026-10-21T16:46:13.209Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T15:30:31.460Z",
+      "status": "skipped",
+      "note": "No food guide to check.",
+      "updated": "2026-10-21T16:46:13.269Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -101,11 +101,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Bay shore under Hai Van. No beach ticket found.",
-      "updated": "2026-10-21T15:30:31.460Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Beach page. No ticket printed. Hero is the boats and the ridge.",
+      "updated": "2026-10-21T16:46:32.529Z",
       "reworkCount": 0
     },
     {
@@ -117,11 +117,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Brackish lagoon and oyster water. Access fee unsourced.",
-      "updated": "2026-10-21T15:30:31.460Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Lagoon page. Access fee check on arrival. Sand bridge only at a strong low tide.",
+      "updated": "2026-10-21T16:46:32.700Z",
       "reworkCount": 0
     },
     {
@@ -133,11 +133,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Foot of the pass. Not the same page as Lap An.",
-      "updated": "2026-10-21T15:30:31.460Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo that names An Cu. Left in the dossier.",
+      "updated": "2026-10-21T16:46:32.865Z",
       "reworkCount": 0
     },
     {
@@ -149,11 +149,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Livelier beach in the same zone. Not a new place.",
-      "updated": "2026-10-21T15:30:31.460Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of this beach. Stays an area, not a new place.",
+      "updated": "2026-10-21T16:46:33.037Z",
       "reworkCount": 0
     },
     {
@@ -165,11 +165,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "70,000 VND from 2 June 2026. Clock only in one report.",
-      "updated": "2026-10-21T15:30:31.460Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Gate page. 70,000 VND from 2 June 2026. Clock is the VnExpress line only.",
+      "updated": "2026-10-21T16:46:33.215Z",
       "reworkCount": 0
     },
     {
@@ -181,11 +181,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Heritage HĐ stop. Two clocks. SE stop not confirmed.",
-      "updated": "2026-10-21T15:30:31.460Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "The only licensed frame is the station front through a window, with no bay and no second photo.",
+      "updated": "2026-10-21T16:46:33.401Z",
       "reworkCount": 0
     },
     {
@@ -197,11 +197,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Cruise gateway in the 2018 plan. No public tour found.",
-      "updated": "2026-10-21T15:30:31.460Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No photo of the port and the coast together. Stays an area, not a new place.",
+      "updated": "2026-10-21T16:46:33.576Z",
       "reworkCount": 0
     },
     {
@@ -213,11 +213,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Hàu nướng, cháo, xào, gỏi. No stall price.",
-      "updated": "2026-10-21T15:30:31.460Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the plate. Dish stays in the dossier.",
+      "updated": "2026-10-21T16:46:33.755Z",
       "reworkCount": 0
     },
     {
@@ -229,11 +229,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Visit Hue evening grill. Not a shop.",
-      "updated": "2026-10-21T15:30:31.460Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the grill at Canh Duong. Not a Lang Co dish page.",
+      "updated": "2026-10-21T16:46:33.923Z",
       "reworkCount": 0
     },
     {
@@ -245,11 +245,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Opened 19 May 2026. Hours not printed.",
-      "updated": "2026-10-21T15:30:31.460Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the market front. Hours were not printed.",
+      "updated": "2026-10-21T16:46:34.089Z",
       "reworkCount": 0
     },
     {
@@ -261,11 +261,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Seafood stalls along the lagoon. Not a restaurant list.",
-      "updated": "2026-10-21T15:30:31.460Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the stalls with the lagoon. Mentioned in the place prose.",
+      "updated": "2026-10-21T16:46:34.257Z",
       "reworkCount": 0
     },
     {
@@ -277,11 +277,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "2024 weekend plan. 2026 nights not confirmed.",
-      "updated": "2026-10-21T15:30:31.460Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "2026 nights not confirmed. No photo of the walking street. Mentioned in the place prose.",
+      "updated": "2026-10-21T16:46:34.418Z",
       "reworkCount": 0
     },
     {
@@ -293,11 +293,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Bars and a beach fire as an area. No venue pin.",
-      "updated": "2026-10-21T15:30:31.460Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No photo of that beach evening. No venue is named. Stays in the place prose.",
+      "updated": "2026-10-21T16:46:34.587Z",
       "reworkCount": 0
     },
     {
@@ -309,11 +309,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Swim and walk. No lifeguard hour found.",
-      "updated": "2026-10-21T15:30:31.460Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "The swim is the beach page. No separate lifeguard hour.",
+      "updated": "2026-10-21T16:46:34.751Z",
       "reworkCount": 0
     },
     {
@@ -325,11 +325,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Low-tide sand bridge. No quiet-hour clock.",
-      "updated": "2026-10-21T15:30:31.460Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "The lagoon page covers the look and the sand strip.",
+      "updated": "2026-10-21T16:46:34.919Z",
       "reworkCount": 0
     },
     {
@@ -341,11 +341,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Mùng 6 Tết at An Cu Dong. Civil date moves. No fee.",
-      "updated": "2026-10-21T15:30:31.460Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the race. Civil date moves. Noted in season, not an event card.",
+      "updated": "2026-10-21T16:46:35.082Z",
       "reworkCount": 0
     },
     {
@@ -417,100 +417,164 @@
   "claim": null,
   "log": [
     {
-      "at": "2026-10-21T15:30:31.460Z",
+      "at": "2026-10-21T16:46:35.082Z",
       "place": "lang-co",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: the Tết civil date, a festival fee, the May 2024 anniversary as a yearly event, Mỹ Sơn, Phong Nha, and Đầm Cầu Hai."
+      "stage": "quality",
+      "item": "lang-co--cau-ngu-boat-race",
+      "status": "skipped",
+      "note": "No licensed photo of the race. Civil date moves. Noted in season, not an event card."
     },
     {
-      "at": "2026-10-21T15:30:19.261Z",
+      "at": "2026-10-21T16:46:35.028Z",
       "place": "lang-co",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a named breakfast street, a lifeguard hour, and the hour the town goes quiet."
+      "stage": "copy",
+      "item": "lang-co--cau-ngu-boat-race",
+      "status": "skipped",
+      "note": "No licensed photo of the race. Civil date moves. Noted in season, not an event card."
     },
     {
-      "at": "2026-10-21T15:30:19.151Z",
+      "at": "2026-10-21T16:46:34.974Z",
       "place": "lang-co",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: whether Nguyễn Văn still runs on weekend nights in 2026, a closing hour, and any bar name."
+      "stage": "page",
+      "item": "lang-co--cau-ngu-boat-race",
+      "status": "skipped",
+      "note": "No licensed photo of the race. Civil date moves. Noted in season, not an event card."
     },
     {
-      "at": "2026-10-21T15:30:19.046Z",
+      "at": "2026-10-21T16:46:34.919Z",
       "place": "lang-co",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: market hours, a breakfast dish, a local drink, stall prices, and any restaurant as a pick."
+      "stage": "quality",
+      "item": "lang-co--lap-an-day",
+      "status": "skipped",
+      "note": "The lagoon page covers the look and the sand strip."
     },
     {
-      "at": "2026-10-21T15:30:18.939Z",
+      "at": "2026-10-21T16:46:34.863Z",
       "place": "lang-co",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: Son Cha, Bai Ca, Bai Chuoi, Cu Du as its own page, Hoi Mit, Hoi Dua, a visitable Tinh Viem ruin, and minutes between the beach and the lagoon."
+      "stage": "copy",
+      "item": "lang-co--lap-an-day",
+      "status": "skipped",
+      "note": "The lagoon page covers the look and the sand strip."
     },
     {
-      "at": "2026-10-21T15:30:18.796Z",
+      "at": "2026-10-21T16:46:34.807Z",
       "place": "lang-co",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: drive minutes, a second figure for the 40 km and 25 km, whether SE trains stop, a fare, and the pass-closure calendar."
+      "stage": "page",
+      "item": "lang-co--lap-an-day",
+      "status": "skipped",
+      "note": "The lagoon page covers the look and the sand strip."
     },
     {
-      "at": "2026-10-21T15:30:05.132Z",
+      "at": "2026-10-21T16:46:34.751Z",
       "place": "lang-co",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The Tết boat race and side trips to Huế, Đà Nẵng, Hội An, and Bạch Mã are in. Still open: the civil date, a festival fee, Mỹ Sơn, Phong Nha, and Đầm Cầu Hai."
+      "stage": "quality",
+      "item": "lang-co--bay-morning",
+      "status": "skipped",
+      "note": "The swim is the beach page. No separate lifeguard hour."
     },
     {
-      "at": "2026-10-21T15:30:04.619Z",
+      "at": "2026-10-21T16:46:34.695Z",
       "place": "lang-co",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The swim and the lagoon tide are in. Still open: a named breakfast street and the hour the town goes quiet."
+      "stage": "copy",
+      "item": "lang-co--bay-morning",
+      "status": "skipped",
+      "note": "The swim is the beach page. No separate lifeguard hour."
     },
     {
-      "at": "2026-10-21T15:30:04.403Z",
+      "at": "2026-10-21T16:46:34.639Z",
       "place": "lang-co",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Nguyễn Văn and Tân Cảnh Dương evenings are in. Still open: whether the Friday–Sunday nights still run, and any closing hour."
+      "stage": "page",
+      "item": "lang-co--bay-morning",
+      "status": "skipped",
+      "note": "The swim is the beach page. No separate lifeguard hour."
     },
     {
-      "at": "2026-10-21T15:30:04.182Z",
+      "at": "2026-10-21T16:46:34.587Z",
       "place": "lang-co",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Oysters, the Canh Duong grill, the new market, and Nguyễn Văn are in. Still open: market hours, a breakfast dish, a local drink, and stall prices."
+      "stage": "quality",
+      "item": "lang-co--canh-duong-evening",
+      "status": "skipped",
+      "note": "No photo of that beach evening. No venue is named. Stays in the place prose."
     },
     {
-      "at": "2026-10-21T15:29:51.688Z",
+      "at": "2026-10-21T16:46:34.532Z",
       "place": "lang-co",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Beach, lagoon, An Cu, Canh Duong, Hai Van gate, the station, and Chan May are in. Still open: Son Cha, Bai Ca, Bai Chuoi, Cu Du as its own page, a visitable Tinh Viem ruin, and drive minutes between them."
+      "stage": "copy",
+      "item": "lang-co--canh-duong-evening",
+      "status": "skipped",
+      "note": "No photo of that beach evening. No venue is named. Stays in the place prose."
     },
     {
-      "at": "2026-10-21T15:29:44.957Z",
+      "at": "2026-10-21T16:46:34.473Z",
       "place": "lang-co",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and the Huế–Đà Nẵng way in are drafted. Still open: drive minutes, a second figure for the 40 km and 25 km, whether SE trains stop, and the pass-closure calendar."
+      "stage": "page",
+      "item": "lang-co--canh-duong-evening",
+      "status": "skipped",
+      "note": "No photo of that beach evening. No venue is named. Stays in the place prose."
+    },
+    {
+      "at": "2026-10-21T16:46:34.418Z",
+      "place": "lang-co",
+      "stage": "quality",
+      "item": "lang-co--nguyen-van-evening",
+      "status": "skipped",
+      "note": "2026 nights not confirmed. No photo of the walking street. Mentioned in the place prose."
+    },
+    {
+      "at": "2026-10-21T16:46:34.364Z",
+      "place": "lang-co",
+      "stage": "copy",
+      "item": "lang-co--nguyen-van-evening",
+      "status": "skipped",
+      "note": "2026 nights not confirmed. No photo of the walking street. Mentioned in the place prose."
+    },
+    {
+      "at": "2026-10-21T16:46:34.311Z",
+      "place": "lang-co",
+      "stage": "page",
+      "item": "lang-co--nguyen-van-evening",
+      "status": "skipped",
+      "note": "2026 nights not confirmed. No photo of the walking street. Mentioned in the place prose."
+    },
+    {
+      "at": "2026-10-21T16:46:34.257Z",
+      "place": "lang-co",
+      "stage": "quality",
+      "item": "lang-co--nguyen-van",
+      "status": "skipped",
+      "note": "No licensed photo of the stalls with the lagoon. Mentioned in the place prose."
+    },
+    {
+      "at": "2026-10-21T16:46:34.202Z",
+      "place": "lang-co",
+      "stage": "copy",
+      "item": "lang-co--nguyen-van",
+      "status": "skipped",
+      "note": "No licensed photo of the stalls with the lagoon. Mentioned in the place prose."
+    },
+    {
+      "at": "2026-10-21T16:46:34.147Z",
+      "place": "lang-co",
+      "stage": "page",
+      "item": "lang-co--nguyen-van",
+      "status": "skipped",
+      "note": "No licensed photo of the stalls with the lagoon. Mentioned in the place prose."
+    },
+    {
+      "at": "2026-10-21T16:46:34.090Z",
+      "place": "lang-co",
+      "stage": "quality",
+      "item": "lang-co--cho-lang-co",
+      "status": "skipped",
+      "note": "No licensed photo of the market front. Hours were not printed."
+    },
+    {
+      "at": "2026-10-21T16:46:34.031Z",
+      "place": "lang-co",
+      "stage": "copy",
+      "item": "lang-co--cho-lang-co",
+      "status": "skipped",
+      "note": "No licensed photo of the market front. Hours were not printed."
     }
   ]
 }
