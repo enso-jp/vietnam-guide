@@ -5,9 +5,9 @@
   "corridor": "central-coast",
   "kind": "area",
   "parent": null,
-  "publish": "candidate",
+  "publish": "accepted",
   "priority": 102,
-  "note": "Named in Central Coast coverage. Research may be stored. Do not create a public place file until publish is accepted.",
+  "note": "Owner accepted publish for this place on 21 Oct 2026. Cù Lao Chàm is one place. Hòn Lao is not a second page.",
   "coverage": {
     "sights": "filled",
     "areas": "filled",
@@ -19,39 +19,39 @@
   },
   "stages": {
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, interest groups, Bai Lang stay row, and a day itinerary with no timed stops.",
+      "updated": "2026-10-21T16:54:22.237Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "status": "enriched",
+      "note": "Place prose and the island hero. Boat fare and crossing minutes stay check on arrival.",
+      "updated": "2026-10-21T16:54:22.305Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "status": "checked",
+      "note": "Read the place, the hero, and the interest crops. Fee, both island counts, and the unpriced boat match the dossier.",
+      "updated": "2026-10-21T16:54:22.364Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Food guide and muc-mot-nang. Other dishes have no photograph of that dish.",
+      "updated": "2026-10-21T16:54:22.420Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "status": "enriched",
+      "note": "Dish prose leaves taste out. 2014 seasons stay dated. No household pick.",
+      "updated": "2026-10-21T16:54:22.479Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "status": "checked",
+      "note": "Read the squid frame and the guide. No stall price. The kilogram yen range is not a bowl price.",
+      "updated": "2026-10-21T16:54:22.542Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -114,14 +114,14 @@
       "track": "unit",
       "name": "Cu Lao Cham Reserve",
       "slug": "cu-lao-cham-reserve",
-      "file": null,
+      "file": "src/content/attractions/cham-islands--cu-lao-cham-reserve.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Visit fee 70000 VND from 10 Jun 2026. Seven-island and eight-island counts both recorded.",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Read both frames. Shore sits in the interest crop. Fee matches S8 and S9.",
+      "updated": "2026-10-21T16:54:42.391Z",
       "reworkCount": 0
     },
     {
@@ -133,11 +133,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Landing hamlet. Breakfast road and the night.",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "One residential frame. The Commons title does not name the hamlet, and there is no second photo. Stay row only.",
+      "updated": "2026-10-21T16:54:41.670Z",
       "reworkCount": 0
     },
     {
@@ -146,14 +146,14 @@
       "track": "unit",
       "name": "Hai Tang Pagoda",
       "slug": "hai-tang",
-      "file": null,
+      "file": "src/content/attractions/cham-islands--hai-tang.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "National relic 2006. 1758, moved 1848. Hours unsourced.",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Hero shows the gate and the statue. Second frame is the hall.",
+      "updated": "2026-10-21T16:54:42.590Z",
       "reworkCount": 0
     },
     {
@@ -165,11 +165,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "National relic 2006. Rite 6/6 lunar.",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph of the founders hall. Named in the pagoda group, not a card.",
+      "updated": "2026-10-21T16:54:41.709Z",
       "reworkCount": 0
     },
     {
@@ -181,11 +181,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "National relic 2006. Cau Ngu ground.",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph of the whale shrine. The lunar rite stays off the page.",
+      "updated": "2026-10-21T16:54:41.744Z",
       "reworkCount": 0
     },
     {
@@ -197,11 +197,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Hamlet, well, Am Linh, and Ran Me restoration water.",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph of the hamlet as a sight.",
+      "updated": "2026-10-21T16:54:41.774Z",
       "reworkCount": 0
     },
     {
@@ -213,11 +213,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "National relic 2006. Round well, diameter 118 cm, in Bai Ong.",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph of the well.",
+      "updated": "2026-10-21T16:54:41.814Z",
       "reworkCount": 0
     },
     {
@@ -229,11 +229,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Provincial relic 2016. Thanh Minh rite.",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph of Am Linh.",
+      "updated": "2026-10-21T16:54:41.844Z",
       "reworkCount": 0
     },
     {
@@ -245,11 +245,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Nest-trade hamlet. Cave path not described.",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No frame of the temple gate. A bay is not this sight.",
+      "updated": "2026-10-21T16:54:41.872Z",
       "reworkCount": 0
     },
     {
@@ -261,11 +261,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "National relic 2006. Rite 10/3 lunar.",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph of the nest-trade temple.",
+      "updated": "2026-10-21T16:54:41.898Z",
       "reworkCount": 0
     },
     {
@@ -277,11 +277,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Daily fish, shrimp, squid, and crab. No stall price.",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No photograph of the plate. The catch stays in the food-guide prose.",
+      "updated": "2026-10-21T16:54:41.929Z",
       "reworkCount": 0
     },
     {
@@ -293,11 +293,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Fish paste, and the pancake and noodle soup made with it.",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No photograph of the fish paste.",
+      "updated": "2026-10-21T16:54:41.958Z",
       "reworkCount": 0
     },
     {
@@ -306,14 +306,14 @@
       "track": "unit",
       "name": "Muc mot nang",
       "slug": "muc-mot-nang",
-      "file": null,
+      "file": "src/content/dishes/muc-mot-nang.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Tube squid dried one sun. 2014 seasons.",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "The frame is squid on a rack. The date stamp was cropped out.",
+      "updated": "2026-10-21T16:54:42.811Z",
       "reworkCount": 0
     },
     {
@@ -325,11 +325,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Greens with rice. Mam households are not picks.",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No photograph. Forest greens stay off the card row.",
+      "updated": "2026-10-21T16:54:41.986Z",
       "reworkCount": 0
     },
     {
@@ -341,11 +341,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Leaf drink named in 2014. No recipe and no price.",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No photograph and no recipe on the 2014 note.",
+      "updated": "2026-10-21T16:54:42.014Z",
       "reworkCount": 0
     },
     {
@@ -357,11 +357,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sweets named in 2014. No method.",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No photograph and no method on the 2014 note.",
+      "updated": "2026-10-21T16:54:42.042Z",
       "reworkCount": 0
     },
     {
@@ -373,11 +373,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Geographic indication. Per-kilogram range is not a bowl price.",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No bowl photograph. The kilogram range is not a snack price.",
+      "updated": "2026-10-21T16:54:42.072Z",
       "reworkCount": 0
     },
     {
@@ -437,11 +437,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "3-4/4 lunar in the 2026 report; 4/4 lunar on the 2019 heritage page. 2026 civil days 19-20 May.",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No photograph of the rite.",
+      "updated": "2026-10-21T16:54:42.100Z",
       "reworkCount": 0
     },
     {
@@ -453,11 +453,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "6/6 lunar. Civil date moves.",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No photograph of the rite.",
+      "updated": "2026-10-21T16:54:42.130Z",
       "reworkCount": 0
     },
     {
@@ -469,11 +469,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "10/3 lunar at the nest temple.",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No photograph of the rite.",
+      "updated": "2026-10-21T16:54:42.158Z",
       "reworkCount": 0
     },
     {
@@ -485,11 +485,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Season named. Civil day moves.",
-      "updated": "2026-10-21T15:31:52.633Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No photograph of the rite.",
+      "updated": "2026-10-21T16:54:42.186Z",
       "reworkCount": 0
     },
     {
@@ -587,11 +587,147 @@
       "note": "Existing place slug. Do not open a Cham Islands page for it. Left out: boat or road minutes.",
       "updated": "2026-10-21T15:31:52.633Z",
       "reworkCount": 0
+    },
+    {
+      "id": "cham-islands--dish--muc-mot-nang",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Muc mot nang",
+      "slug": "muc-mot-nang",
+      "file": "src/content/dishes/muc-mot-nang.json",
+      "source": "published",
+      "research": "stored",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Bundled into the food stage. Same public file as the unit row.",
+      "updated": "2026-10-21T16:54:22.570Z",
+      "reworkCount": 0
     }
   ],
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T16:54:42.811Z",
+      "place": "cham-islands",
+      "stage": "quality",
+      "item": "cham-islands--muc-mot-nang",
+      "status": "checked",
+      "note": "The frame is squid on a rack. The date stamp was cropped out."
+    },
+    {
+      "at": "2026-10-21T16:54:42.747Z",
+      "place": "cham-islands",
+      "stage": "copy",
+      "item": "cham-islands--muc-mot-nang",
+      "status": "enriched",
+      "note": "Texture and the 2014 seasons. No dryer name."
+    },
+    {
+      "at": "2026-10-21T16:54:42.660Z",
+      "place": "cham-islands",
+      "stage": "page",
+      "item": "cham-islands--muc-mot-nang",
+      "status": "paged",
+      "note": "Dish page for squid dried one sun. Taste left out."
+    },
+    {
+      "at": "2026-10-21T16:54:42.590Z",
+      "place": "cham-islands",
+      "stage": "quality",
+      "item": "cham-islands--hai-tang",
+      "status": "checked",
+      "note": "Hero shows the gate and the statue. Second frame is the hall."
+    },
+    {
+      "at": "2026-10-21T16:54:42.536Z",
+      "place": "cham-islands",
+      "stage": "copy",
+      "item": "cham-islands--hai-tang",
+      "status": "enriched",
+      "note": "Gate, statue, and hall. Hours stay check on arrival."
+    },
+    {
+      "at": "2026-10-21T16:54:42.451Z",
+      "place": "cham-islands",
+      "stage": "page",
+      "item": "cham-islands--hai-tang",
+      "status": "paged",
+      "note": "Pagoda page. 1758 and 1848 kept as two dates. No separate ticket printed."
+    },
+    {
+      "at": "2026-10-21T16:54:42.391Z",
+      "place": "cham-islands",
+      "stage": "quality",
+      "item": "cham-islands--cu-lao-cham-reserve",
+      "status": "checked",
+      "note": "Read both frames. Shore sits in the interest crop. Fee matches S8 and S9."
+    },
+    {
+      "at": "2026-10-21T16:54:42.331Z",
+      "place": "cham-islands",
+      "stage": "copy",
+      "item": "cham-islands--cu-lao-cham-reserve",
+      "status": "enriched",
+      "note": "Notice, zones, and both kilometre figures. Hours stay check on arrival."
+    },
+    {
+      "at": "2026-10-21T16:54:42.242Z",
+      "place": "cham-islands",
+      "stage": "page",
+      "item": "cham-islands--cu-lao-cham-reserve",
+      "status": "paged",
+      "note": "Reserve page. Both island counts. Visit fee 70000 VND. Boat unpriced."
+    },
+    {
+      "at": "2026-10-21T16:54:22.542Z",
+      "place": "cham-islands",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Read the squid frame and the guide. No stall price. The kilogram yen range is not a bowl price."
+    },
+    {
+      "at": "2026-10-21T16:54:22.479Z",
+      "place": "cham-islands",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Dish prose leaves taste out. 2014 seasons stay dated. No household pick."
+    },
+    {
+      "at": "2026-10-21T16:54:22.420Z",
+      "place": "cham-islands",
+      "stage": "food",
+      "item": null,
+      "status": "paged",
+      "note": "Food guide and muc-mot-nang. Other dishes have no photograph of that dish."
+    },
+    {
+      "at": "2026-10-21T16:54:22.364Z",
+      "place": "cham-islands",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Read the place, the hero, and the interest crops. Fee, both island counts, and the unpriced boat match the dossier."
+    },
+    {
+      "at": "2026-10-21T16:54:22.306Z",
+      "place": "cham-islands",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Place prose and the island hero. Boat fare and crossing minutes stay check on arrival."
+    },
+    {
+      "at": "2026-10-21T16:54:22.237Z",
+      "place": "cham-islands",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place shell, interest groups, Bai Lang stay row, and a day itinerary with no timed stops."
+    },
     {
       "at": "2026-10-21T15:31:52.633Z",
       "place": "cham-islands",
@@ -631,62 +767,6 @@
       "item": null,
       "status": "stored",
       "note": "Left out: monument hours, a separate temple ticket, ride minutes between hamlets, the unnamed rest of the 37-place list, and a single island count."
-    },
-    {
-      "at": "2026-10-21T15:31:39.803Z",
-      "place": "cham-islands",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: boat minutes, boat fare, the rail address, an IATA code, and a month when the pier closes."
-    },
-    {
-      "at": "2026-10-21T15:31:14.825Z",
-      "place": "cham-islands",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Cau Ngu, the lunar rites, and the three mainland slugs are in. Still open: next year’s civil dates, a festival fee, and boat minutes."
-    },
-    {
-      "at": "2026-10-21T15:31:14.405Z",
-      "place": "cham-islands",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The shifted meal day is in. Still open: the hour the hamlet goes quiet, and a ride between hamlets."
-    },
-    {
-      "at": "2026-10-21T15:31:14.289Z",
-      "place": "cham-islands",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The shore after 17:00 is the evening. Still open: a later quiet hour, and any bar if a primary page names one."
-    },
-    {
-      "at": "2026-10-21T15:31:14.168Z",
-      "place": "cham-islands",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The coast-road stalls and the daily plate are in. Still open: a named market hall, stall prices, and whether the 2014 squid seasons still hold."
-    },
-    {
-      "at": "2026-10-21T15:31:13.845Z",
-      "place": "cham-islands",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Ranked halls and the three hamlets are in. Still open: monument hours, a separate temple ticket, ride minutes between hamlets, and the unnamed rest of the 37-place list."
-    },
-    {
-      "at": "2026-10-21T15:30:56.827Z",
-      "place": "cham-islands",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and the Cua Dai crossing are in. Still open: boat minutes, boat fare, the rail address, and a closure calendar."
     }
   ]
 }
