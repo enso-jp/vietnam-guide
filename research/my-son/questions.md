@@ -12,3 +12,7 @@ Checked: 21 Oct 2026. Public fields that depend on these stay “Check on arriva
 - The child ticket in one sentence. Adults agree at 100,000 / 150,000 VND. The child line does not.
 - Whether Echoes of My Son on the 15th is inside the entrance ticket.
 - Prices for the green bicycle, the audio guide, pottery, hat-weaving, and the virtual-reality visit.
+- Museum hours beyond the 2020 guide. No later page restates 06:00–17:00.
+- Whether Đêm Mỹ Sơn huyền thoại is inside the daytime ticket, and a night to attend. No licensed night photograph, so no festival card.
+- The sacred path. Announced 16 Dec 2025. Not an open visitor trail.
+- A museum coordinate. The Commons GPS on the gallery photo contradicts “2 km northwest” and was not published. The second museum frame is a crop of the same photograph as the hero.

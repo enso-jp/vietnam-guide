@@ -42,7 +42,7 @@ Accessed 21 Oct 2026 unless a page states its own date.
 - URL: https://tuoitre.vn/man-nhan-show-dien-dem-my-son-huyen-thoai-trong-khong-gian-thap-co-ngan-nam-20251201103023371.htm
 - Publisher: Tuổi Trẻ Online, 1 Dec 2025, quoting Nguyễn Công Khiết, phó giám đốc phụ trách of the management board
 - Accessed: 21 Oct 2026
-- Supports: Đêm Mỹ Sơn huyền thoại returned on the night of 21 Nov 2025 after a pause. He said the calendar is not fixed, that it follows dates when large groups are present, and that a schedule would be announced later. The article places the site in xã Thu Bồn, Thành phố Đà Nẵng. The job title here does not match the title S8 used in March 2025. Both are left as printed.
+- Supports: Đêm Mỹ Sơn huyền thoại returned on the night of 21 Nov 2025 after a pause. He said the calendar is not fixed, that it follows dates when large groups are present, and that a schedule would be announced later. The article names three parts: Thung lũng câu chuyện thời gian, Đêm Mỹ Sơn huyền thoại, and Ánh sáng chan hòa. Do not publish 21 Nov 2025 as a date to attend. The article places the site in xã Thu Bồn, Thành phố Đà Nẵng. The job title here does not match the title S8 used in March 2025. Both are left as printed.
 
 ### S8
 - URL: https://mysonsanctuary.com.vn/tin-tuc/ban-quan-ly-lam-viec-voi-doan-nhat-ban-vao-chieu-ngay-632025.html
@@ -127,6 +127,24 @@ Accessed 21 Oct 2026 unless a page states its own date.
 - Publisher: My Son Sanctuary management site, essay dated 24 Feb 2025
 - Accessed: 21 Oct 2026
 - Supports: A cultural note on the communes around the sanctuary, not a food guide. It names “Mỳ Quảng Mỹ Sơn” and “khách sạn Mỹ Sơn” as brands in that wider district, with no street. Those names are not picks and not pages. The footer address is Thu Bồn, Đà Nẵng.
+
+### S23
+- URL: https://mysonsanctuary.com.vn/bao-tang/bao-tang-my-son
+- Publisher: My Son Sanctuary management site, museum page
+- Accessed: 21 Oct 2026
+- Supports: The gallery labels a linga-yoni from B1, 8th century; a guardian from group E, 10th to 11th century; a Shiva from A4, 10th century; a dancing Shiva from H1, 13th century; an elephant-lion from C1, 11th century; and a Brahma from tower K, 11th century. The same page, with the homepage, places the building about 2 km northwest of the monuments and dates the work June 2004 to March 2005, with a Japanese government grant. No map pin on this page. Do not reuse the UNESCO coordinate for the museum.
+
+### S24
+- URL: https://mysonsanctuary.com.vn/tin-tuc/chuong-trinh-nghe-thuat-am-vang-my-son-giu-gin-va-lan-toa-gia-tri-van-hoa-cham-tu-nhung-trai-tim-yeu-di-san.html
+- Publisher: My Son Sanctuary management site, note by Đức Nhân, 13 Jul 2026
+- Accessed: 21 Oct 2026
+- Supports: Echoes of My Son as staged by Phòng Văn hóa và Nghệ thuật. Instruments and dances named: ginang, paranung, saranai, múa quạt, múa đội nước, and Cham folk song. This is the monthly program, not a New Year chapter list. The note does not restate the 15th or the ticket inclusion. Those stay on S3, S4, and S5.
+
+### S25
+- URL: https://mysonsanctuary.com.vn/tin-tuc/hoi-thao-cong-bo-duong-dan-khu-thap-k.html
+- Publisher: My Son Sanctuary management site, workshop note dated 16 Dec 2025
+- Accessed: 21 Oct 2026
+- Supports: The sacred path (đường dẫn khu tháp K) was excavated and announced. The note does not open it as a visitor trail. Visitors are to be guided later. Do not publish it as an attraction.
 
 ### Not used
 - URL: https://cadn.com.vn/to-chuc-chuong-trinh-am-vang-my-son-dinh-ky-hang-thang-post336735.html

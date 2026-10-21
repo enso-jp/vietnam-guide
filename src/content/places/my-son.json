@@ -17,9 +17,7 @@
   "bestMonths": "January to September",
   "verified": "21 Oct 2026",
   "interests": {
-    "oldTowns": 2,
-    "photography": 3,
-    "family": 2
+    "photography": 3
   },
   "cover": "highlands",
   "nearby": [
@@ -38,7 +36,7 @@
   "intro": [
     "You come for the brick. The towers sit in a closed basin, forest at the foot of the walls and a ring of hills behind, and they were the religious center of the Champa kingdom from the 4th century to the 13th. Sleep in Hoi An if the old town is the night you wanted. Come out here if the Cham towers are the morning. Sleep in Da Nang only if that city is already the hotel. The sanctuary prints 45 km from Hoi An and 68 km from Da Nang, and it does not print the minutes.",
     "Start at the museum beside the Khe Thẻ stream, then take the electric cart. The ride is about 2 km, and the 2020 visitor guide includes it in the entrance ticket. The towers you are most likely to find standing are in groups B, C, and D. A management essay from 25 Feb 2025 says tower A1, once 24 meters, came down in a 1969 bombing, and that about 20 towers remain. UNESCO’s inscription still counts eight groups and 71 monuments. Those totals do not match. Walk what the board has open. Do not climb the brick, and do not eat inside the monument area. Stay on the paths. UNESCO still records unidentified unexploded ordnance in the buffer zone.",
-    "The daytime Cham clock is part of the visit. Hall slots run at 09:45, 10:30, 11:15, 14:00, and 16:00. Group G is at 09:00 and 14:45, and bad weather can stop that show. On the 15th of the month, Echoes of My Son is in groups B, C, and D at 09:00 and 14:45. A 2019 notice closes the whole site at 17:00. The live ticket site sells tickets until 17:30 and ends visiting at 18:00. Use the earlier time unless the gate tells you otherwise."
+    "The daytime Cham clock is part of the visit. Hall slots run at 09:45, 10:30, 11:15, 14:00, and 16:00. Group G is at 09:00 and 14:45, and bad weather can stop that show. On the 15th of the month, Echoes of My Son is in groups B, C, and D at 09:00 and 14:45. Đêm Mỹ Sơn huyền thoại is an evening show inside the grounds. On 1 Dec 2025 the deputy in charge said the calendar is not fixed. Do not stay for a night you have not confirmed. A 2019 notice closes the whole site at 17:00. The live ticket site sells tickets until 17:30 and ends visiting at 18:00. Use the earlier time unless the gate tells you otherwise."
   ],
   "gettingAround": [
     "There is no walk from Hoi An and no train into the valley. Hire a car. The sanctuary’s own distances are 45 km from Hoi An and 68 km from Da Nang city, with no drive time on the page. The door from Da Nang airport is a further unsourced leg. Tourism bus 01DL, Hoi An to My Son to Cong Troi Dong Giang, is paused for six months from 15 Sep 2026. The notice names no replacement. Cars stop at the museum. The electric cart does the last 2 km. One southbound train, SE10, prints a stop at Ga Tra Kieu. The road from that station to the gate is check on arrival. The sanctuary’s 20 km is to the old citadel of Tra Kieu, not a timed ride from the platform."
@@ -60,28 +58,37 @@
   ],
   "dishSlugs": [],
   "interestsBody": [
-    "The brick in the valley is the reason to come. Groups B, C, and D are where a 2025 management essay says most of the remaining towers stand.",
-    "Daytime Cham performances run in the hall, at group G, and, on Monday, Wednesday, and Friday, at the group H slope. Echoes of My Son is the 15th, in groups B, C, and D.",
-    "The evening is not here. Sleep in Hoi An, 45 km back. There is no food street on the sanctuary’s own pages."
+    "The brick in the valley is the reason to come. Groups B, C, and D are where a 2025 management essay says most of the remaining towers stand. The museum at the gate is the start, beside the Khe Thẻ stream, before the cart.",
+    "Daytime Cham performances run in the hall, at group G, and, on Monday, Wednesday, and Friday, at the group H slope. Echoes of My Son is the 15th, in groups B, C, and D. The evening show has no fixed date.",
+    "The night is not here. Sleep in Hoi An, 45 km back. There is no food street on the sanctuary’s own pages, and the ticket rules forbid eating in the monument area."
   ],
   "interestCards": [
     {
       "title": "The brick in the valley",
       "summary": "Standing Cham towers, mostly the groups that remain in B, C, and D.",
       "attractionSlug": "towers",
+      "photo": "my-son-towers",
       "icon": "view"
     },
     {
-      "title": "A performance in the groups",
-      "summary": "Hall slots and group G by day. Echoes of My Son is the 15th, in B, C, and D.",
-      "attractionSlug": "towers",
-      "photo": "my-son-towers-2",
+      "title": "The museum at the gate",
+      "summary": "A gallery beside the Khe Thẻ stream, before the cart. The towers are still the valley.",
+      "attractionSlug": "museum",
+      "photo": "my-son-museum",
       "icon": "museum"
     },
     {
-      "title": "Sleep in Hoi An",
-      "summary": "The valley closes in the afternoon. The night is 45 km back in the old town.",
+      "title": "Performances in the valley",
+      "summary": "Hall slots, group G, and singing at the group H slope. The night show has no fixed date.",
+      "attractionSlug": "performances",
+      "photo": "my-son-performances",
+      "icon": "event"
+    },
+    {
+      "title": "The night in Hoi An",
+      "summary": "The valley closes in the afternoon. Sleep 45 km back in the old town.",
       "placeSlug": "hoi-an",
+      "photo": "hoi-an",
       "icon": "view"
     }
   ],

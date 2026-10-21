@@ -64,10 +64,31 @@ The visit is one ticket and one valley. The lettered groups are parts of that wa
 - When to go: before the cart, on the way in
 - Mistake to avoid: treating the museum as the ruins. The towers are the valley.
 - Local interest: the same visit as the towers
-- Suggested slug: do not publish a separate page. The place and the towers page carry the gateway.
-- Suggested dot: do not add a record
-- Photo must show: the gateway building with the valley or the stream, not a document and not a statue cropped through the chest. No separate public photo in this pass.
-- Sources: S2, S4, S8
+- Suggested slug: `museum`. A later pass publishes it. The gateway has its own hours on the 2020 guide, and the labeled pieces are not the outdoor linga.
+- Suggested dot: 2. A short stop on the way in, not a trip of its own.
+- Photo must show: a carved piece inside the gallery, large enough that a center crop keeps the stone. Not a relief map, not a sign, not the outdoor linga. The only licensed interior that is not a map is one Dalbéra exposure. The second public frame is a different crop of that same file, on the wooden Shiva model. Say so. Do not publish the Commons GPS on that file. It sits southeast of the UNESCO pin and contradicts the “2 km northwest” line.
+- Sources: S2, S4, S8, S23
+
+### Cham performances
+- Vietnamese name: Biểu diễn văn hóa dân gian Chăm
+- Kind: sight
+- Area: the hall, the foot of group G, and the group H slope, after the cart. One ticket with the towers. Not a second gate.
+- What the visitor does: Times one daytime slot. Hall at 09:45, 10:30, 11:15, 14:00, and 16:00. Group G at 09:00 and 14:45, and bad weather can stop that show. Cham folk singing Monday, Wednesday, and Friday at the group H slope, at those two hours (S3, S4, S5). On the 15th, Echoes of My Son is the program in groups B, C, and D (S3, S5, S24). The evening show, Đêm Mỹ Sơn huyền thoại, stays on this page with no date to attend (S7).
+- Time: Check on arrival — UNSOURCED. No page prints the length of a show.
+- Fee: No separate daytime price. S4 includes a folk performance in the entrance ticket. S5 does not restate that. Whether Echoes and the night show sit inside the ticket is Check on arrival.
+- From the base: the same road and cart as the towers.
+- When to go: a morning slot if the show is the point. Do not stay the night for a calendar that is not fixed.
+- Mistake to avoid: publishing 21 Nov 2025, 14 Jun 2022, or the 16th lunar day as a date to attend. S7 names 21 Nov 2025 as a past night and says the calendar is not fixed.
+- Local interest: the daytime clock in the valley
+- Suggested slug: `performances`
+- Suggested dot: 2. Worth timing if you are already in the valley, not a separate trip.
+- Photo must show: Cham dancers at a performance in the valley, and a second frame of group G, the place of the 09:00 and 14:45 show. Do not caption the dance still as group G or as Echoes. No licensed night-show still, so no festival card for the evening show.
+- Sources: S3, S4, S5, S7, S24
+
+### Left out of the public list
+- The sacred path (con đường thiêng, đường dẫn tháp K). A workshop on 16 Dec 2025 announced the excavated path. The note says visitors will be guided later. It is not an open trail (S25).
+- Lettered groups A through N as separate pages. They are one walk and one ticket (S15).
+- Green bicycle, pottery, hat-weaving, audio guide, and virtual reality. No price on the services index (S17).
 
 Districts that deserve their own page: none. The valley is the place. The lettered groups are one walk.
 
