@@ -180,15 +180,15 @@ const jsonLd = {
               </div>
             );
           })}
-        </div>
-      </div>
-      <div class="region-caption">
-        {corridors.map((corridor) => (
-          <div class="region-caption-panel" data-region-card={corridor.slug} hidden={corridor.slug !== activeRegion}>
-            <h3>{corridor.name}</h3>
-            <p>{corridor.summary}</p>
+          <div class="region-caption">
+            {corridors.map((corridor) => (
+              <div class="region-caption-panel" data-region-card={corridor.slug} hidden={corridor.slug !== activeRegion}>
+                <h3>{corridor.name}</h3>
+                <p>{corridor.summary}</p>
+              </div>
+            ))}
           </div>
-        ))}
+        </div>
       </div>
       <p class="region-more"><a class="pill" href="/destinations">See regions</a></p>
     </section>
