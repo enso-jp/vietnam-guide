@@ -14,8 +14,8 @@
     "foodStreets": "partial",
     "nightlife": "partial",
     "lifestyle": "partial",
-    "events": "missing",
-    "sideTrips": "missing"
+    "events": "partial",
+    "sideTrips": "partial"
   },
   "stages": {
     "destination": {
@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,13 +45,13 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -85,9 +85,9 @@
       "reworkCount": 0
     },
     "researchContext": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "needs_depth",
+      "note": "Events in: Bach Ma festival, the Dong Xuan Saturday show, mid-autumn, and Kim Ngan, the last two without a day. Side trips in: Ninh Binh, Tam Coc, Ha Long, Cat Ba, Mai Chau, and a thin Sapa row. Still open: solar dates, Perfume Pagoda, Bat Trang, Co Loa, the Lao Cai timetable, and the Cat Ba ride. Ha Long is both 2.5 hours and 3 hours.",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     }
   },
@@ -105,7 +105,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026 from the Hoan Kiem management board. Hours and a current fee are Check on arrival. Published dot unchanged.",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     },
     {
@@ -121,7 +121,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026. The management-board page prints no entrance fee and no door hours.",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     },
     {
@@ -185,7 +185,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "87 Ma May. 20,000 VND in Resolution 44/2024. Hours Check on arrival.",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     },
     {
@@ -201,7 +201,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "22 Hang Buom. 20,000 VND in Resolution 44/2024. Hours Check on arrival.",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     },
     {
@@ -217,7 +217,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "44 Hang Bac. Fee Check on arrival. Not in Resolution 44/2024.",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     },
     {
@@ -233,7 +233,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "East-gate landmark from the 2020 walking-space note. Architecture, fee, and hours still open.",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     },
     {
@@ -249,7 +249,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Guild street. No separate page. Covered by the place walk and by Kim Ngan.",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     },
     {
@@ -265,7 +265,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "The 2014 level-I streets are the place itself. Sights inside them have their own rows.",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     },
     {
@@ -345,7 +345,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Food street behind Dong Xuan. The food guide carries it. No separate sight page. Hours Check on arrival.",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     },
     {
@@ -361,7 +361,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Weekend walking market. Already the scene pin. The food guide can mention it. No separate page.",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     },
     {
@@ -377,7 +377,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Sourced 21 Oct 2026. Street pin only. Clock and drink prices Check on arrival.",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     },
     {
@@ -393,7 +393,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Same weekend line as the scene pin and the food-street row. No second page.",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     },
     {
@@ -409,7 +409,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Lake walking space. Adjacent to the quarter. Not an Old Quarter page.",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     },
     {
@@ -425,7 +425,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Morning lake path from Vietnam Tourism. Not an Old Quarter page. No clock.",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     },
     {
@@ -441,7 +441,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Pho breakfast. The food guide carries the bowl. No separate page.",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     },
     {
@@ -457,7 +457,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "The guild-street stroll is the place. No separate page. A before-traffic hour was not sourced.",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     },
     {
@@ -473,7 +473,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Coffee hour is sourced. The street inside the grid is not. No separate page.",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     },
     {
@@ -489,20 +489,181 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "No source names the hour the quarter goes quiet. Check on arrival. No page.",
-      "updated": "2026-10-21T08:31:45.670Z",
+      "updated": "2026-10-21T08:34:05.461Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--event--bach-ma-festival",
+      "kind": "event",
+      "track": "bundled",
+      "name": "Bach Ma festival",
+      "slug": "bach-ma-festival",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Lunar 12-13 of the second month. Solar date moves.",
+      "updated": "2026-10-21T08:34:04.921Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--event--dong-xuan-saturday",
+      "kind": "event",
+      "track": "bundled",
+      "name": "Dong Xuan Saturday folk show",
+      "slug": "dong-xuan-saturday",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Named on the market page. No clock.",
+      "updated": "2026-10-21T08:34:04.951Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--event--mid-autumn",
+      "kind": "event",
+      "track": "bundled",
+      "name": "Old Quarter mid-autumn festival",
+      "slug": "mid-autumn",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Named in a 2024 government article. Day not given.",
+      "updated": "2026-10-21T08:34:04.979Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--event--kim-ngan-festival",
+      "kind": "event",
+      "track": "bundled",
+      "name": "Kim Ngan festival",
+      "slug": "kim-ngan-festival",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "not_started",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Named only. Day not given.",
+      "updated": "2026-10-21T08:34:05.008Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--ninh-binh",
+      "kind": "side-trip",
+      "track": "unit",
+      "name": "Ninh Binh",
+      "slug": "ninh-binh",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Side trip. Its own place page, or a thin row. Not an Old Quarter attraction.",
+      "updated": "2026-10-21T08:34:05.461Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--tam-coc",
+      "kind": "side-trip",
+      "track": "unit",
+      "name": "Tam Coc",
+      "slug": "tam-coc",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Side trip. Its own place page, or a thin row. Not an Old Quarter attraction.",
+      "updated": "2026-10-21T08:34:05.461Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--ha-long",
+      "kind": "side-trip",
+      "track": "unit",
+      "name": "Ha Long",
+      "slug": "ha-long",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Side trip. Its own place page, or a thin row. Not an Old Quarter attraction.",
+      "updated": "2026-10-21T08:34:05.461Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--cat-ba",
+      "kind": "side-trip",
+      "track": "unit",
+      "name": "Cat Ba",
+      "slug": "cat-ba",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Side trip. Its own place page, or a thin row. Not an Old Quarter attraction.",
+      "updated": "2026-10-21T08:34:05.461Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--mai-chau",
+      "kind": "side-trip",
+      "track": "unit",
+      "name": "Mai Chau",
+      "slug": "mai-chau",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Side trip. Its own place page, or a thin row. Not an Old Quarter attraction.",
+      "updated": "2026-10-21T08:34:05.461Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--sapa",
+      "kind": "side-trip",
+      "track": "unit",
+      "name": "Sapa",
+      "slug": "sapa",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Side trip. Its own place page, or a thin row. Not an Old Quarter attraction.",
+      "updated": "2026-10-21T08:34:05.461Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "old-quarter",
-    "stage": "researchContext",
-    "item": null,
-    "at": "2026-10-21T08:32:09.687Z",
-    "by": "hourly",
-    "branch": "cursor/old-quarter-research-base"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-21T08:34:05.461Z",
+      "place": "old-quarter",
+      "stage": "researchContext",
+      "item": null,
+      "status": "needs_depth",
+      "note": "Events in: Bach Ma festival, the Dong Xuan Saturday show, mid-autumn, and Kim Ngan, the last two without a day. Side trips in: Ninh Binh, Tam Coc, Ha Long, Cat Ba, Mai Chau, and a thin Sapa row. Still open: solar dates, Perfume Pagoda, Bat Trang, Co Loa, the Lao Cai timetable, and the Cat Ba ride. Ha Long is both 2.5 hours and 3 hours."
+    },
     {
       "at": "2026-10-21T08:31:45.670Z",
       "place": "old-quarter",

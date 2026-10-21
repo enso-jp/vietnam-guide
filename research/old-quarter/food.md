@@ -14,7 +14,8 @@ Dishes are the Hanoi bowls the quarter is known for. Shop names that located a s
 - Area, not a shop: Sidewalks in the quarter. One tourism-board example sits on Hàng Vải. The shop name is in Notes, not pages.
 - Meal: breakfast
 - Neighbor dish to link: the southern bowl, already on the shared pho record
-- Sources: S24, S23, S8
+- Sources: S24, S23, S8, S31
+- Dispute: S31 says phở was invented in Hanoi. S24 says Nam Định is the geographical cradle and Hanoi is the spiritual home. Both stay.
 
 ### Bun cha
 - Vietnamese name: Bún chả

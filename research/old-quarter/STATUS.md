@@ -5,7 +5,7 @@ Status: needs depth
 Checked: 21 Oct 2026
 Ready for copy:
 
-`researchBase` is in the dossier. The other lanes are still open, so this file stays `needs depth`.
+All six lanes have a first pass. None is stored. This file stays `needs depth`.
 
 Still open after the base pass:
 

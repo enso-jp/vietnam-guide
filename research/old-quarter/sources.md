@@ -86,6 +86,18 @@ Accessed 21 Oct 2026 unless a line says otherwise. A fee or a clock with one pag
 - Accessed: 21 Oct 2026
 - Supports: Lake walking space from 1 Sep 2016, 19:00 Friday to 24:00 Sunday, and the street list. A “0h–24h” widget is not a clock.
 
+### S30
+- URL: https://vietnam.travel/places-to-go/red-river-delta/ha-long
+- Publisher: Vietnam Tourism (vietnam.travel)
+- Accessed: 21 Oct 2026
+- Supports: About two and a half hours by road from Hanoi to Ha Long, then transfers from Tuần Châu or Bãi Cháy. The cruise copy includes waking on the bay.
+
+### S31
+- URL: https://www.vietnam.travel/things-to-do/explore-relax-play-northern-vietnam
+- Publisher: Vietnam Tourism (vietnam.travel)
+- Accessed: 21 Oct 2026
+- Supports: Ha Long “(3 hours ride),” which disagrees with S30. Cát Bà as the largest island, no Hanoi ride time. Ninh Bình less than 100 km southeast, Tam Cốc and Tràng An named. Mai Châu “(2.5 hours).” Lake exercise “from sunrise.” Phở “invented in Ha Noi,” which disagrees with S24. Water puppets and the opera named in Hanoi with no Old Quarter street.
+
 ### S23
 - URL: https://vietnam.travel/things-to-do/10-must-try-hanoi-dishes
 - Publisher: Vietnam Tourism (vietnam.travel)
