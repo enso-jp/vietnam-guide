@@ -37,10 +37,10 @@
       "reworkCount": 0
     },
     "food": {
-      "status": "paged",
-      "note": "Food guide names Dong Ba, Hen Island, and Kim Long. No shop picks and no stall prices. Com hen has a page and no photo.",
-      "updated": "2026-10-21T07:41:27.630Z",
-      "reworkCount": 0
+      "status": "rework",
+      "note": "Owner review: the food guide is a wall of text and the dish pages are thin. Photo cards and sourced dish depth are the miss.",
+      "updated": "2026-10-21T09:53:37.182Z",
+      "reworkCount": 1
     },
     "foodCopy": {
       "status": "stale",
@@ -846,7 +846,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "hue",
+    "stage": "food",
+    "item": null,
+    "at": "2026-10-21T09:53:37.239Z",
+    "by": "graphic-copy",
+    "branch": "cursor/hue-food-cards-bfa4"
+  },
   "log": [
     {
       "at": "2026-10-21T10:00:05.835Z",
@@ -1007,6 +1014,14 @@
       "item": "hue--dong-khanh",
       "status": "checked",
       "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing."
+    },
+    {
+      "at": "2026-10-21T09:53:37.183Z",
+      "place": "hue",
+      "stage": "food",
+      "item": null,
+      "status": "rework",
+      "note": "Owner review: the food guide is a wall of text and the dish pages are thin. Photo cards and sourced dish depth are the miss."
     }
   ]
 }
