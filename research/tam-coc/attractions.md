@@ -193,4 +193,34 @@ Outside that week, the 4 Dec 2016 provincial tip says not to go into empty place
 
 ## Lifestyle
 
-Not this lane. researchLifestyle fills the ordinary day. The 7 Jul 2025 page already names cycling the rice and community cooking (S5). That entry waits for the lifestyle lane.
+The ordinary day is a morning on the river, a bicycle in the rice, and a quiet hamlet afterward. There is no beach. The water in the sources is the boat (S1, S5). A swim was not found. A cafe street was not found either. The only eating street on the books is the Tourism Week road, which is not an ordinary Tuesday.
+
+### Morning on the river
+- Vietnamese name: Sông Ngô Đồng
+- Kind: lifestyle
+- What a day here actually is: Starts early at the wharf, with a hat, because the boat has no roof and the 23 May 2023 page says the morning is the cool hour (S6). The ride is about 2 hours (S5, S6). Lunch follows, at an unnamed restaurant in the tourist area or nearby (S6). Breakfast before the boat is Check on arrival — UNSOURCED.
+- When: morning, before the heat
+- Area: bến thuyền Tam Cốc, Văn Lâm
+- Suggested slug: do not publish a separate page. The place and `three-caves` carry the morning.
+- Photo must show: the sampan, the towers, and the rice in the morning light. Same frame as the place hero. Not a breakfast table with no landscape.
+- Sources: S5, S6
+
+### The bicycle in the rice
+- Vietnamese name: not printed. The 7 Jul 2025 page says đạp xe giữa đồng lúa.
+- Kind: lifestyle
+- What a day here actually is: After the boat, or instead of a second ticket, cycles the rice and can join a community kitchen: making cakes, weaving, cooking (S5). A rental price and a named cafe street were not printed. Check on arrival — UNSOURCED.
+- When: the day, outside the two hours on the water. No clock.
+- Area: the paddies of the Tam Coc – Bích Động area, Nam Hoa Lư
+- Suggested slug: do not publish a separate page. The place carries the bicycle.
+- Photo must show: a bicycle on a rice path with a limestone tower, subject through the center. Not a rental shop sign, and not the boat photo reused as if it were the path.
+- Sources: S5
+
+### The quiet after the boat
+- Vietnamese name: not printed
+- Kind: lifestyle
+- What a day here actually is: The 7 Jul 2025 page calls the area a peaceful place and pairs that with the village activities, not with a night district (S5). The 4 Dec 2016 provincial tip says not to go into empty places too late (S12). The hour the lanes empty is Check on arrival — UNSOURCED. During Tourism Week the boat yard stays active into the evening. That is the nightlife entry, not an ordinary night.
+- When: after the boat, on a day that is not Tourism Week
+- Area: the lanes of Văn Lâm
+- Suggested slug: do not publish a separate page
+- Photo must show: a lane, rice or a tower, and no crowd filling the frame. Not a dark empty frame with no subject.
+- Sources: S5, S12
