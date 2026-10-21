@@ -45,7 +45,7 @@ for (const place of places) {
   }
   if (place.parent && !places.some((item) => item.slug === place.parent)) errors.push(`${place.slug} parent missing`);
   if (!place.intro?.length) errors.push(`${place.slug} intro missing`);
-  for (const card of place.interestCards || []) {
+  const checkInterestCard = (card) => {
     if (!card.title || !card.summary) errors.push(`${place.slug} interest card is missing a title or summary`);
     if (!card.attractionSlug && !card.dishSlug && !card.placeSlug && card.to !== 'food') errors.push(`${place.slug} interest card ${card.title || ''} has no link`);
     if (card.attractionSlug && !attractions.some((item) => item.slug === card.attractionSlug && item.placeSlug === place.slug)) {
@@ -53,6 +53,14 @@ for (const place of places) {
     }
     if (card.dishSlug && !dishes.has(card.dishSlug)) errors.push(`${place.slug} interest card dish ${card.dishSlug} missing`);
     if (card.placeSlug && !places.some((item) => item.slug === card.placeSlug)) errors.push(`${place.slug} interest card place ${card.placeSlug} missing`);
+  };
+  for (const card of place.interestCards || []) checkInterestCard(card);
+  for (const group of place.interestGroups || []) {
+    if (!group.title || !String(group.title).trim()) errors.push(`${place.slug} interest group is missing a title`);
+    if (!Array.isArray(group.cards) || group.cards.length === 0) {
+      errors.push(`${place.slug} interest group ${group.title || ''} has no cards`);
+    }
+    for (const card of group.cards || []) checkInterestCard(card);
   }
 }
 
