@@ -142,6 +142,13 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "da-lat",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-21T11:11:27.697Z",
+    "by": "da-lat-worker",
+    "branch": "cursor/da-lat-destination-8d38"
+  },
   "log": []
 }
