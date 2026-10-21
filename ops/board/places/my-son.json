@@ -141,7 +141,7 @@
       "reworkCount": 0
     },
     {
-      "id": "my-son--echoes-of-my-son",
+      "id": "my-son--event--echoes-of-my-son",
       "kind": "event",
       "track": "bundled",
       "name": "Echoes of My Son",
@@ -174,7 +174,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "my-son",
+    "stage": "destinationQuality",
+    "item": null,
+    "at": "2026-10-21T09:57:14.854Z",
+    "by": "my-son-page-gaps",
+    "branch": "cursor/my-son-page-gaps-d9a7"
+  },
   "log": [
     {
       "at": "2026-10-21T08:55:02.470Z",
