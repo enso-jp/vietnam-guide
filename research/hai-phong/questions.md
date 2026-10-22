@@ -12,6 +12,6 @@ Checked: 22 Oct 2026. These stay Check on arrival. They were looked for in the s
 - A bar street and a center closing hour.
 - The flamboyant month and a citywide quiet hour.
 - Next year’s solar dates for the buffalo rites and the lunar festivals.
-- A city-center coordinate. The map line uses 20.86, 106.68 so the page can render. The dossier does not print it.
+- A city-center pin. Reopened the listed sources on 22 Oct 2026. S3 prints a bounding box for the pre-merger city, 20°30'39" to 21°01'15" N and 106°23'39" to 107°08'39" E, and a separate Bạch Long Vỹ box, 20°07'35" to 20°08'36" N and 107°42'20" to 107°44'15" E. Neither box is a city pin. No listed page prints a single city coordinate. S22 returned 404. S24 timed out. The guessed 20.86, 106.68 is off the page.
 
 Sights with no licensed photograph of the subject stay off the cards: the opera interior and a second opera frame, Tam Bạc, the Lê Chân temple, Hàng Kênh, the museum, the two Cấm bridges, the Đồ Sơn Nghè, Hòn Dấu with the sea in frame, K15, and Cao Quỳ’s stakes under a roof. Dishes other than bánh đa cua have no plate photograph.
