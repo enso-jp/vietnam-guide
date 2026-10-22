@@ -10,7 +10,7 @@
   "lng": 105.854,
   "dots": 5,
   "dotReason": "Worth building a day around",
-  "summary": "You wake up to Turtle Tower in Hoan Kiem and the lanes north of the lake. Stay if that walk, a lunch bowl, and one morning in Ba Dinh are the trip. Go on to Ninh Binh, Ha Long, or Sapa if the city is only where the plane landed. The Old Quarter is a separate walk. Use the link. This page does not repeat it.",
+  "summary": "You wake up to Turtle Tower in Hoan Kiem and the lanes north of the lake. Stay if that walk, a lunch bowl, and one morning in Ba Dinh are the trip. Go on to Ninh Binh, Ha Long, or Sapa if the city is only where the plane landed. The lanes north of the lake are the Old Quarter walk.",
   "timeNeeded": "Check on arrival",
   "fee": "The lake path is free. Sight tickets are separate.",
   "getThere": "Noi Bai is 28 km north, or about 27 km. By car about 45–60 minutes, or about 40.",
@@ -44,13 +44,16 @@
   "itinerarySlugs": [
     "best-14-days",
     "north-7-days",
+    "hanoi-day",
     "hanoi-old-quarter-walk"
   ],
-  "seoTitle": "Hanoi travel guide: the lake, the citadel, and what to eat",
-  "seoDescription": "Noi Bai is 28 km north of the city, or about 27 km on the airline and Grab pages. April to June, or September to December, is the easier window.",
+  "seoTitle": "Hanoi travel guide — Turtle Tower, Ba Dinh, and pho",
+  "seoDescription": "Noi Bai is 28 km north of Hanoi, or about 27 km. April to June, or September to December, is the easier window for the lake and a morning in Ba Dinh.",
   "intro": [
     "You come for the lake. Turtle Tower sits in Hoan Kiem, and the lanes north of it are where the morning starts, with pho before the courtyards fill. Stay if that walk is the trip. Go on to Ninh Binh, Ha Long, or Sapa if the north outside the city is the trip.",
-    "Ba Dinh is a different morning: the citadel, the mausoleum, and One Pillar Pagoda, and they are not one ticket. After dark the corner Vietnam Tourism names is Ta Hien and Luong Ngoc Quyen. The Old Quarter is a separate walk. Use the link. This page does not repeat it."
+    "Ba Dinh is a different morning: the citadel, the mausoleum, and One Pillar Pagoda, and they are not one ticket. After dark the corner Vietnam Tourism names is Ta Hien and Luong Ngoc Quyen. The lanes north of the lake are the Old Quarter walk.",
+    "Pho is the morning bowl in the Hoan Kiem lanes, including Hang Vai. Bun cha is lunch around Cua Dong. Bun dau is the plate on Ma May, and cha ca is finished at the table on Duong Thanh, with spring onion and dill. Egg coffee is the afternoon cup in the Nguyen Huu Huan alley.",
+    "South of the lake, the Opera House is at 1 Trang Tien and the history museum shares that shore. Hoa Lo is the prison at 1 Hoa Lo. West Lake and Tran Quoc are the afternoon when the center has had the morning. The Temple of Literature is the courtyard west of those streets. Metro Line 3 stops at Van Mieu."
   ],
   "gettingAround": [
     "Noi Bai is 28 km north of Ha Noi on the airport’s aeronautical page, and about 27 km from the center on Vietnam Airlines and on Grab. A car is about 45 to 60 minutes on the airline page, and about 40 minutes on Grab. Bus 86 to Ha Noi Railway Station is 50,000 VND, departing 7:00 to 22:15. Vietnam Airlines lists an express bus at 45,000 VND. Both fares stay.",
@@ -60,164 +63,407 @@
     {
       "name": "North of the lake",
       "summary": "The lanes above Hoan Kiem. You can walk to the shore and to the morning pho streets. The streets are noisy late, and Ta Hien is the evening corner.",
-      "band": "Hostels through small hotels"
+      "band": "Hostels through small hotels",
+      "photo": "hanoi-hoan-kiem"
     },
     {
       "name": "South of Hoan Kiem",
       "summary": "Quieter streets around the Opera House. Still a walk to the lake. The history museum and Trang Tien sit on this side.",
-      "band": "Midrange and luxury hotels"
+      "band": "Midrange and luxury hotels",
+      "photo": "hanoi-opera"
     }
   ],
   "eat": [
-    "Start the day with pho in the Hoan Kiem lanes, including Hang Vai. At lunch, bun cha is the bowl, almost only at lunch, around Cua Dong. In the afternoon, egg coffee is the sit-down cup in the Nguyen Huu Huan alley.",
-    "Vietnam Tourism names shops on those streets. This page does not rank them. Banh mi is not on that Hanoi dish list, so it is not given a Hanoi line here."
+    "Pho in the Hoan Kiem lanes, including Hang Vai, is the morning. Lunch is bun cha around Cua Dong. Bun dau is the plate on Ma May, and cha ca is finished at the table on Duong Thanh with spring onion and dill. Egg coffee is the afternoon cup in the Nguyen Huu Huan alley. The food guide is the menu."
   ],
   "dishSlugs": [
     "pho",
     "bun-cha",
-    "banh-mi",
+    "bun-dau",
+    "cha-ca",
     "ca-phe"
   ],
   "interestsBody": [
-    "Come for the lake walk, a morning in Ba Dinh, and the bowls Vietnam Tourism ties to this city: pho, bun cha, and egg coffee. The Old Quarter is a separate walk through the grid north of the lake. Use the link. This page does not repeat it."
+    "Dining is pho in the morning, bun cha at lunch, bun dau and cha ca when you want a plate, and egg coffee in the afternoon.",
+    "The lake walk is Hoan Kiem and the lanes beside it. The Old Quarter walk covers the grid north of the lake.",
+    "Ba Dinh is the citadel, the mausoleum, and One Pillar, three gates, plus Hoa Lo at 1 Hoa Lo.",
+    "Shopping is Dong Xuan in the lanes and Trang Tien Plaza at 24 Hai Ba Trung.",
+    "The Temple of Literature is the courtyard west of the old streets. Daytime is 70,000 VND. The night price is not one number.",
+    "West Lake is the shore north of the center. The fee and the minutes from Hoan Kiem are check on arrival.",
+    "The museums are Fine Arts in Ba Dinh, the history museum on Trang Tien, Ethnology in Nghia Do, and the Women's Museum at 36 Ly Thuong Kiet.",
+    "The family show is the water-puppet theatre at 57b Dinh Tien Hoang. The ticket and the hour are check on arrival."
+  ],
+  "interestCards": [
+    {
+      "title": "Dining and F&B",
+      "summary": "Pho in the morning, bun cha at lunch, and egg coffee in the afternoon.",
+      "photo": "pho",
+      "icon": "food",
+      "to": "food"
+    },
+    {
+      "title": "The lake and the lanes",
+      "summary": "Turtle Tower in Hoan Kiem, and the lanes beside the lake.",
+      "attractionSlug": "hoan-kiem",
+      "photo": "hanoi-hoan-kiem",
+      "icon": "view"
+    },
+    {
+      "title": "Ba Dinh",
+      "summary": "The citadel, the mausoleum, and One Pillar. Three gates, not one ticket.",
+      "attractionSlug": "citadel",
+      "photo": "hanoi-citadel",
+      "icon": "museum"
+    },
+    {
+      "title": "Shopping",
+      "summary": "Dong Xuan in the lanes, and Trang Tien Plaza on Hai Ba Trung.",
+      "placeSlug": "old-quarter",
+      "photo": "hanoi-dong-xuan",
+      "icon": "view"
+    },
+    {
+      "title": "Temple of Literature",
+      "summary": "The courtyards west of the old streets. Daytime 70,000 VND. The night price is not one number.",
+      "attractionSlug": "temple-of-literature",
+      "photo": "hanoi-temple-of-literature",
+      "icon": "museum"
+    },
+    {
+      "title": "West Lake",
+      "summary": "The shore north of the center. The fee and the minutes are check on arrival.",
+      "attractionSlug": "west-lake",
+      "photo": "hanoi-west-lake",
+      "icon": "view"
+    },
+    {
+      "title": "Museums",
+      "summary": "Fine Arts, the history museum, Ethnology, and the Women's Museum.",
+      "attractionSlug": "fine-arts",
+      "photo": "hanoi-fine-arts",
+      "icon": "museum"
+    },
+    {
+      "title": "A family show",
+      "summary": "Water puppets at 57b Dinh Tien Hoang. The ticket is check on arrival.",
+      "attractionSlug": "water-puppets",
+      "photo": "hanoi-water-puppets",
+      "icon": "view"
+    }
   ],
   "interestGroups": [
     {
       "title": "Dining and F&B",
-      "summary": "Pho in the morning, bun cha at lunch, and egg coffee in the afternoon. The lanes are Hang Vai, Cua Dong, and the Nguyen Huu Huan alley.",
+      "summary": "Pho in the morning, bun cha at lunch, bun dau and cha ca on their streets, and egg coffee in the afternoon.",
       "cards": [
         {
           "title": "Dining and F&B",
-          "summary": "Pho in the morning, bun cha at lunch, and egg coffee when you sit down. The plate photos are the bowls, not a shop list.",
-          "photo": "ca-phe",
+          "summary": "Pho, bun cha, bun dau, cha ca, and egg coffee. The food guide is the menu.",
+          "photo": "pho",
           "icon": "food",
           "to": "food"
         }
       ]
     },
     {
-      "title": "Shopping",
-      "summary": "Silk and silver in the Old Quarter lanes, wholesale goods at Dong Xuan, and a shopping center on Hai Bà Trưng.",
+      "title": "The lake and the lanes",
+      "summary": "Hoan Kiem is the landmark. The lanes north of it are the Old Quarter walk.",
       "blocks": [
         {
-          "id": "quarter",
-          "heading": "The lanes and Dong Xuan",
-          "nav": "Old Quarter",
+          "id": "lake",
+          "heading": "The lake",
+          "nav": "The lake",
           "paragraphs": [
-            "The Old Quarter sits on land that was once a cluster of artisan streets outside the citadel. Shop signs still hint at silver, silk, and herbal medicine, even where the ground floors now sell luggage and cafe seats. Walk it in the morning, before the pavements fill.",
-            "Dong Xuan is the quarter’s main covered market. The district page calls it useful for a look at wholesale goods more than for souvenirs, and it says entry is free. No hour is printed there. The hours are check on arrival. Stall prices are check on arrival."
+            "The lake path is free and open all day. Turtle Tower stands in the water. Ngoc Son, on the island, is a separate ticket: adult 50,000 VND. The management board and Vietnam Tourism do not print the same hours. Read both clocks before you queue."
           ]
         },
         {
-          "id": "trang-tien",
-          "heading": "Tràng Tiền Plaza",
-          "nav": "Tràng Tiền",
+          "id": "lanes",
+          "heading": "The lanes",
+          "nav": "The lanes",
           "paragraphs": [
-            "Tràng Tiền Plaza’s own site calls the building a shopping center. A page on that site dated 16 May 2026 prints the address 24 Hai Bà Trưng, Cửa Nam ward, and the hours Monday to Thursday 09:30 to 21:30, Friday to Sunday 09:30 to 22:00. No door fee is printed. Entry is check on arrival."
+            "St Joseph's Cathedral faces the square at 40 Nha Chung. Vietnam Tourism alone prints a fee and a clock. Both stay check on arrival.",
+            "Train Street runs from Le Duan toward Phung Hung. In March 2025 the Department of Tourism asked agencies not to run tours. VnExpress says the street was officially closed in September 2022. Do not stand on the rails. A cafe fee and a timetable are check on arrival.",
+            "The grid north of the lake is the Old Quarter walk: Bach Ma and Dong Xuan sit on that loop. After dark, the corner Vietnam Tourism names is Ta Hien and Luong Ngoc Quyen. No drink price was published. Check on arrival."
+          ]
+        },
+        {
+          "id": "south",
+          "heading": "South of the lake",
+          "nav": "South shore",
+          "paragraphs": [
+            "The Opera House is at 1 Trang Tien. Vietnam Tourism says it was refurbished in 1997 and is under renovation, and it says to check the website for admission. The fee and the hours are check on arrival."
           ]
         }
       ],
-      "cards": [
-        {
-          "title": "Dong Xuan Market",
-          "summary": "The covered market in the Old Quarter. Wholesale goods more than souvenirs, and entry is free, on the district page. The hours are check on arrival.",
-          "placeSlug": "old-quarter",
-          "photo": "hanoi-dong-xuan",
-          "block": "quarter"
-        },
-        {
-          "title": "Tràng Tiền Plaza",
-          "summary": "The shopping center at 24 Hai Bà Trưng. The mall’s 16 May 2026 page prints 09:30 to 21:30 Monday to Thursday, and 09:30 to 22:00 Friday to Sunday. No door fee is printed.",
-          "placeSlug": "hanoi",
-          "photo": "hanoi-trang-tien-plaza",
-          "block": "trang-tien"
-        }
-      ]
-    },
-    {
-      "title": "The lake and the lanes",
-      "summary": "Hoan Kiem is the landmark. The lanes north of it are a separate walk, on the link. The cathedral and the water-puppet theatre sit on this walk.",
       "cards": [
         {
           "title": "Hoan Kiem Lake",
           "summary": "The lake path is free and open all day. Turtle Tower stands in the water. The temple on the island is a separate ticket.",
           "attractionSlug": "hoan-kiem",
           "photo": "hanoi-hoan-kiem",
-          "icon": "view"
+          "icon": "view",
+          "block": "lake"
         },
         {
           "title": "Ngoc Son Temple",
           "summary": "The The Huc bridge and the temple on the island. Adult 50,000 VND. The two hour tables do not match.",
           "attractionSlug": "ngoc-son",
           "photo": "hanoi-ngoc-son",
-          "icon": "view"
+          "icon": "view",
+          "block": "lake"
         },
         {
-          "title": "Old Quarter",
-          "summary": "The grid of lanes north of the lake, walked separately. Use the link. This page does not repeat it.",
-          "placeSlug": "old-quarter",
-          "photo": "old-quarter",
-          "icon": "view"
+          "title": "St Joseph's Cathedral",
+          "summary": "The two towers at 40 Nha Chung. The fee and the hours are check on arrival.",
+          "attractionSlug": "cathedral",
+          "photo": "hanoi-cathedral",
+          "icon": "view",
+          "block": "lanes"
+        },
+        {
+          "title": "Train Street",
+          "summary": "The railway lane. Tours were asked to stop in March 2025. Stay off the rails. The fee is check on arrival.",
+          "attractionSlug": "train-street",
+          "photo": "hanoi-train-street",
+          "icon": "view",
+          "block": "lanes"
+        },
+        {
+          "title": "Hanoi Opera House",
+          "summary": "The building at 1 Trang Tien. Vietnam Tourism says it is under renovation. The fee and the hours are check on arrival.",
+          "attractionSlug": "opera",
+          "photo": "hanoi-opera",
+          "icon": "view",
+          "block": "south"
         }
       ]
     },
     {
       "title": "Ba Dinh",
-      "summary": "The citadel, the mausoleum, and One Pillar Pagoda are three gates, not one ticket.",
+      "summary": "The citadel, the mausoleum, and One Pillar Pagoda are three gates, not one ticket. Hoa Lo is a fourth address.",
+      "blocks": [
+        {
+          "id": "gates",
+          "heading": "Three gates",
+          "nav": "Three gates",
+          "paragraphs": [
+            "The citadel, the mausoleum, and One Pillar Pagoda do not share a ticket. UNESCO inscribed the citadel in 2010. An adult citadel ticket is 100,000 VND from 1 January 2025, and the gate is 8:00 to 17:00 every day. The address is 19c Hoang Dieu.",
+            "The mausoleum opens mornings on Tuesday, Wednesday, Thursday, Saturday, and Sunday, and closes Monday and Friday except 19 May, 2 September, and the first day of Tet when those fall on a closed day. The government portal also closes it from 4 September 2026 to 2 November 2026. The official FAQ says the visit is free. Vietnam Tourism prints 40,000 VND.",
+            "One Pillar Pagoda is 25,000 VND. The hours and the emperor's name differ by source. Both figures stay."
+          ]
+        },
+        {
+          "id": "hoa-lo",
+          "heading": "Hoa Lo",
+          "nav": "Hoa Lo",
+          "paragraphs": [
+            "Hoa Lo is the remaining prison at 1 Hoa Lo, not the citadel ticket. It opens 8:00 to 17:00 every day, including holidays, with no lunch break. An adult pays 50,000 VND. Under 16 is free."
+          ]
+        }
+      ],
       "cards": [
         {
           "title": "Imperial Citadel",
           "summary": "UNESCO, 2010. Adult 100,000 VND from 1 January 2025. Open 8:00 to 17:00 every day.",
           "attractionSlug": "citadel",
           "photo": "hanoi-citadel",
-          "icon": "museum"
+          "icon": "museum",
+          "block": "gates"
         },
         {
           "title": "Ho Chi Minh Mausoleum",
           "summary": "Morning visits on set days. The official FAQ says free. Vietnam Tourism prints 40,000 VND.",
           "attractionSlug": "mausoleum",
           "photo": "hanoi-mausoleum",
-          "icon": "museum"
+          "icon": "museum",
+          "block": "gates"
         },
         {
           "title": "One Pillar Pagoda",
-          "summary": "The wooden pagoda on one pillar. 25,000 VND. The hours and the emperor’s name differ by source.",
+          "summary": "The wooden pagoda on one pillar. 25,000 VND. The hours and the emperor's name differ by source.",
           "attractionSlug": "one-pillar",
           "photo": "hanoi-one-pillar",
-          "icon": "museum"
+          "icon": "museum",
+          "block": "gates"
+        },
+        {
+          "title": "Hoa Lo Prison",
+          "summary": "The remaining prison at 1 Hoa Lo. Adult 50,000 VND. Open 8:00 to 17:00 every day, with no lunch break.",
+          "attractionSlug": "hoa-lo",
+          "photo": "hanoi-hoa-lo",
+          "icon": "museum",
+          "block": "hoa-lo"
+        }
+      ]
+    },
+    {
+      "title": "Shopping",
+      "summary": "Dong Xuan for a look at wholesale goods, and Trang Tien Plaza on Hai Ba Trung.",
+      "blocks": [
+        {
+          "id": "quarter",
+          "heading": "Dong Xuan",
+          "nav": "Dong Xuan",
+          "paragraphs": [
+            "Dong Xuan is the covered market in the lanes north of the lake. The district page calls it useful for a look at wholesale goods more than for souvenirs, and it says entry is free. No hour is printed there. The hours are check on arrival."
+          ]
+        },
+        {
+          "id": "trang-tien",
+          "heading": "Trang Tien Plaza",
+          "nav": "Trang Tien",
+          "paragraphs": [
+            "Trang Tien Plaza's own site calls the building a shopping center. A page on that site dated 16 May 2026 prints the address 24 Hai Ba Trung, Cua Nam ward, and the hours Monday to Thursday 09:30 to 21:30, Friday to Sunday 09:30 to 22:00. No door fee is printed. Entry is check on arrival."
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "title": "Dong Xuan Market",
+          "summary": "The covered market in the lanes north of the lake. Entry is free, on the district page. The hours are check on arrival.",
+          "placeSlug": "old-quarter",
+          "photo": "hanoi-dong-xuan",
+          "icon": "view",
+          "block": "quarter"
+        },
+        {
+          "title": "Trang Tien Plaza",
+          "summary": "The shopping center at 24 Hai Ba Trung. Monday to Thursday 09:30 to 21:30, Friday to Sunday 09:30 to 22:00, on the 16 May 2026 page. No door fee is printed.",
+          "placeSlug": "hanoi",
+          "photo": "hanoi-trang-tien-plaza",
+          "icon": "view",
+          "block": "trang-tien"
         }
       ]
     },
     {
       "title": "Temple of Literature",
       "summary": "The Confucian temple west of the old commercial streets. Daytime ticket 70,000 VND. The night price is not one number.",
+      "blocks": [
+        {
+          "id": "courtyard",
+          "heading": "The courtyards",
+          "nav": "The temple",
+          "paragraphs": [
+            "The operator and Vietnam Tourism both print a 70,000 VND daytime ticket, and they do not agree on the hours or the night price. The operator does not print a night fee. Vietnam Tourism prints 199,000 VND. Metro Line 3 stops at Van Mieu. The walk from the station to the gate is check on arrival."
+          ]
+        }
+      ],
       "cards": [
         {
           "title": "Temple of Literature",
-          "summary": "Operator hours 8:00 to 17:00 every day. Vietnam Tourism prints a different daytime window and a 199,000 VND night tour.",
+          "summary": "Operator hours and the Vietnam Tourism window do not match. Daytime is 70,000 VND. The night figure on the tourism page is 199,000 VND. The operator does not print a night fee.",
           "attractionSlug": "temple-of-literature",
           "photo": "hanoi-temple-of-literature",
-          "icon": "museum"
+          "icon": "museum",
+          "block": "courtyard"
         }
       ]
     },
     {
       "title": "West Lake",
-      "summary": "The large lake in Tay Ho. A shore fee was not published. Tran Quoc is the pagoda on the water.",
+      "summary": "The large lake north of the center. A shore fee was not published. Tran Quoc is the pagoda on the water.",
+      "blocks": [
+        {
+          "id": "shore",
+          "heading": "The shore",
+          "nav": "The shore",
+          "paragraphs": [
+            "Walk the shore of West Lake. A shore fee was not published, and neither was a minute count from Hoan Kiem. Both are check on arrival. Tran Quoc Pagoda stands on that shore. Its fee and its hours are check on arrival."
+          ]
+        }
+      ],
       "cards": [
         {
           "title": "West Lake",
           "summary": "The shore north of the center. The fee and the minutes from Hoan Kiem are check on arrival.",
           "attractionSlug": "west-lake",
           "photo": "hanoi-west-lake",
-          "icon": "view"
+          "icon": "view",
+          "block": "shore"
+        }
+      ]
+    },
+    {
+      "title": "Museums",
+      "summary": "Four museums with their own tickets: Fine Arts, history, ethnology, and the Women's Museum.",
+      "blocks": [
+        {
+          "id": "center",
+          "heading": "In the center",
+          "nav": "In the center",
+          "paragraphs": [
+            "Fine Arts is at 66 Nguyen Thai Hoc. It opened to the public in 1966. About 2,000 works are on display, and the collection holds nearly 20,000. The fee and the hours are check on arrival.",
+            "The National Museum of History is one ticket for 1 Trang Tien and 216 Tran Quang Khai. An adult pays 40,000 VND, a college student 20,000 VND, a pupil 10,000 VND, and under 6 is free. Hours are 8:00 to 12:00 and 13:30 to 17:00. One museum page closes the first Monday of the month. Two others close every Monday.",
+            "The Women's Museum is at 36 Ly Thuong Kiet, open 8:00 to 17:00 every day. An adult pays 40,000 VND. University and vocational students and Women's Union members pay 20,000 VND. Children and school pupils pay 10,000 VND."
+          ]
         },
         {
-          "title": "Tran Quoc Pagoda",
-          "summary": "The stupa on the West Lake shore. The fee and the hours are check on arrival.",
-          "attractionSlug": "tran-quoc",
-          "photo": "hanoi-tran-quoc",
-          "icon": "view"
+          "id": "nghia-do",
+          "heading": "Nghia Do",
+          "nav": "Nghia Do",
+          "paragraphs": [
+            "The Museum of Ethnology is at Nguyen Van Huyen, Nghia Do. It opens 8:30 to 17:30, except Mondays and the New Year holiday named on the site. The brochure says Lunar New Year. Admission is 40,000 VND. The visit is the galleries and the outdoor houses."
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "title": "Vietnam National Fine Arts Museum",
+          "summary": "66 Nguyen Thai Hoc. Opened in 1966. About 2,000 works on display. The fee and the hours are check on arrival.",
+          "attractionSlug": "fine-arts",
+          "photo": "hanoi-fine-arts",
+          "icon": "museum",
+          "block": "center"
+        },
+        {
+          "title": "National Museum of History",
+          "summary": "One ticket for two buildings. Adult 40,000 VND. Closed-day conflict: first Monday, or every Monday.",
+          "attractionSlug": "history-museum",
+          "photo": "hanoi-history-museum",
+          "icon": "museum",
+          "block": "center"
+        },
+        {
+          "title": "Vietnamese Women's Museum",
+          "summary": "36 Ly Thuong Kiet. Open 8:00 to 17:00 every day. Adult 40,000 VND.",
+          "attractionSlug": "womens-museum",
+          "photo": "hanoi-womens-museum",
+          "icon": "museum",
+          "block": "center"
+        },
+        {
+          "title": "Vietnam Museum of Ethnology",
+          "summary": "Nguyen Van Huyen, Nghia Do. 8:30 to 17:30 except Mondays and New Year. 40,000 VND.",
+          "attractionSlug": "ethnology",
+          "photo": "hanoi-ethnology",
+          "icon": "museum",
+          "block": "nghia-do"
+        }
+      ]
+    },
+    {
+      "title": "A family show",
+      "summary": "The water-puppet theatre at 57b Dinh Tien Hoang, on the east side of Hoan Kiem.",
+      "blocks": [
+        {
+          "id": "show",
+          "heading": "The theatre",
+          "nav": "The show",
+          "paragraphs": [
+            "Thang Long Water Puppet Theatre is at 57b Dinh Tien Hoang. Vietnam Tourism says the form dates from the 11th century, and it says to check the website for hours. It also says tickets start from 100,000 VND. That single figure is not the published price. The ticket and the hours are check on arrival."
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "title": "Thang Long Water Puppet Theatre",
+          "summary": "57b Dinh Tien Hoang, on the east side of the lake. The ticket and the hour are check on arrival.",
+          "attractionSlug": "water-puppets",
+          "photo": "hanoi-water-puppets",
+          "icon": "view",
+          "block": "show"
         }
       ]
     }
@@ -230,6 +476,10 @@
     {
       "q": "When can you visit the Ho Chi Minh Mausoleum?",
       "a": "The operator opens mornings on Tuesday, Wednesday, Thursday, Saturday, and Sunday, and closes Monday and Friday except 19 May, 2 September, and the first day of Tet when those fall on a closed day. The government portal also closes it from 4 September 2026 to 2 November 2026. The official FAQ says the visit is free. Vietnam Tourism prints 40,000 VND."
+    },
+    {
+      "q": "Where is breakfast?",
+      "a": "Pho in the morning in the Hoan Kiem lanes, including Hang Vai. The clock is check on arrival. Bun cha is lunch, around Cua Dong."
     }
   ],
   "season": {

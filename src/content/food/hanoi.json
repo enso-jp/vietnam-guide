@@ -2,14 +2,168 @@
   "slug": "hanoi",
   "name": "Hanoi food guide",
   "placeSlug": "hanoi",
-  "summary": "Pho in the Hoan Kiem lanes in the morning, bun cha at lunch around Cua Dong, and egg coffee in the afternoon in the Nguyen Huu Huan alley.",
+  "summary": "Pho in the Hoan Kiem lanes in the morning, bun cha at lunch around Cua Dong, a tofu plate on Ma May, grilled fish on Duong Thanh, and egg coffee in the afternoon.",
+  "heroSlug": "pho",
   "body": [
-    "Vietnam Tourism ties those three to Hanoi, and it names shops on the same page. The shops are not picks here. The streets are.",
-    "Banh mi is not on that Hanoi list, so this guide does not add a Hanoi line for it. Bun dau, cha ca, and the other dishes on the list have no licensed plate photo, so they stay off the cards."
+    "Eat Hanoi for the bowls Vietnam Tourism names for the city. Pho is the morning soup in the Hoan Kiem lanes. Bun cha is almost only a lunch, around Cua Dong. Bun dau is the fried-tofu plate on Ma May. Cha ca is catfish finished at the table on Duong Thanh, with spring onion and dill. Egg coffee is the afternoon cup in the Nguyen Huu Huan alley.",
+    "Walk the street the dish belongs to and read the board. Hours on those streets were not published. Check on arrival. Hue’s bun bo is a ride north, for the day the bowl is the reason to leave town."
   ],
-  "heroSlug": "ca-phe",
-  "dishSlugs": ["pho", "bun-cha", "banh-mi", "ca-phe"],
+  "specialtiesLead": "These are the dishes to know by name. The streets that serve them are in the sections under this list.",
+  "dishSlugs": [
+    "pho",
+    "bun-cha",
+    "bun-dau",
+    "cha-ca",
+    "ca-phe"
+  ],
+  "sections": [
+    {
+      "id": "where",
+      "heading": "Where to eat",
+      "nav": "Where to eat",
+      "paragraphs": [
+        "The morning is the Hoan Kiem lanes, including Hang Vai, for pho. Lunch is Cua Dong, for bun cha. Ma May is the bun dau lane. Duong Thanh is the cha ca street. The afternoon sit-down is the Nguyen Huu Huan alley, for egg coffee.",
+        "Dong Xuan is the covered market in those lanes. Entry is free on the district page. The hours are check on arrival. It is the shopping hall, not a second dish street."
+      ]
+    },
+    {
+      "id": "streets",
+      "heading": "Food streets",
+      "nav": "Streets",
+      "paragraphs": [
+        "These are areas. A gate fee is not published for the streets below. Check on arrival if someone asks for one. The clock on each street was not published."
+      ],
+      "spots": [
+        {
+          "name": "Hang Vai",
+          "nameVi": "Hàng Vải",
+          "address": "Hàng Vải, Hoàn Kiếm",
+          "note": "The morning pho street, with the lanes around Hoan Kiem. Start with a bit of chili. Garlic vinegar is for the beef bowl. Lime is for the chicken bowl. The hour is check on arrival.",
+          "dishSlug": "pho"
+        },
+        {
+          "name": "Cua Dong",
+          "nameVi": "Cửa Đông",
+          "address": "Cửa Đông",
+          "note": "The lunch street for bun cha. The pork arrives in the bowl. Put the noodles in with the herbs. Nem is optional. The sauce is a diluted vinegar fish sauce.",
+          "dishSlug": "bun-cha"
+        },
+        {
+          "name": "Ma May",
+          "nameVi": "Mã Mây",
+          "address": "Mã Mây",
+          "note": "The bun dau lane, in the Old Quarter. The plate is fried tofu, rice noodles, mắm tôm or fish sauce, young rice cakes, spring rolls, and herbs. The hour is check on arrival.",
+          "dishSlug": "bun-dau"
+        },
+        {
+          "name": "Duong Thanh",
+          "nameVi": "Đường Thành",
+          "address": "Đường Thành",
+          "note": "The cha ca street. The catfish is marinated, grilled, then finished at the table with spring onion and dill. The hour is check on arrival.",
+          "dishSlug": "cha-ca"
+        },
+        {
+          "name": "Nguyen Huu Huan alley",
+          "nameVi": "Ngõ Nguyễn Hữu Huân",
+          "address": "Alley 39, Nguyễn Hữu Huân",
+          "note": "The afternoon alley for egg coffee: strong robusta under a sweet egg foam. The clock is check on arrival.",
+          "dishSlug": "ca-phe"
+        }
+      ]
+    },
+    {
+      "id": "noodles",
+      "heading": "Noodles",
+      "nav": "Noodles",
+      "paragraphs": [
+        "Pho is breakfast. Bun cha is lunch. Come for the bowl the hour belongs to."
+      ],
+      "spots": [
+        {
+          "name": "Pho",
+          "nameVi": "Phở",
+          "address": "Hàng Vải and the Hoàn Kiếm lanes",
+          "note": "Beef or chicken noodle soup. Chili first. Garlic vinegar on the beef bowl, lime on the chicken bowl.",
+          "dishSlug": "pho"
+        },
+        {
+          "name": "Bun cha",
+          "nameVi": "Bún chả",
+          "address": "Cửa Đông",
+          "note": "Chargrilled pork belly and pork patties with rice noodles, almost only at lunch. The sauce is a diluted vinegar fish sauce.",
+          "dishSlug": "bun-cha"
+        }
+      ]
+    },
+    {
+      "id": "plates",
+      "heading": "Plates",
+      "nav": "Plates",
+      "paragraphs": [
+        "Bun dau and cha ca are plates, not soups. The hour for both is check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Bun dau",
+          "nameVi": "Bún đậu",
+          "address": "Mã Mây",
+          "note": "Fried tofu, rice noodles, mắm tôm or fish sauce, young rice cakes, spring rolls, and herbs.",
+          "dishSlug": "bun-dau"
+        },
+        {
+          "name": "Cha ca",
+          "nameVi": "Chả cá",
+          "address": "Đường Thành",
+          "note": "Catfish, marinated and grilled, then finished at the table with spring onion and dill.",
+          "dishSlug": "cha-ca"
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "heading": "Breakfast",
+      "nav": "Breakfast",
+      "paragraphs": [
+        "Breakfast is pho in the Hoan Kiem lanes, including Hang Vai. The morning clock is check on arrival. Bun cha is the wrong bowl for this hour. It is almost only lunch."
+      ]
+    },
+    {
+      "id": "drinks",
+      "heading": "Drinks",
+      "nav": "Drinks",
+      "paragraphs": [
+        "Iced coffee with condensed milk is the everyday cup. Egg coffee is the afternoon sit-down, strong robusta under a sweet egg foam, in the Nguyen Huu Huan alley. The afternoon clock is check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Egg coffee",
+          "nameVi": "Cà phê trứng",
+          "address": "Alley 39, Nguyễn Hữu Huân",
+          "note": "Strong robusta under a sweet egg foam. Sit down in the afternoon. The clock is check on arrival.",
+          "caption": "Strong robusta under a sweet egg foam.",
+          "photo": "hanoi-egg-coffee"
+        }
+      ]
+    },
+    {
+      "id": "night",
+      "heading": "After dark",
+      "nav": "Night",
+      "paragraphs": [
+        "After dark, the corner Vietnam Tourism names is Ta Hien and Luong Ngoc Quyen, north of the lake. No drink price was published. Check on arrival. It is a corner to sit, not a bar list."
+      ]
+    },
+    {
+      "id": "neighbors",
+      "heading": "A ride away",
+      "nav": "Nearby",
+      "paragraphs": [
+        "Hue is north by road or by train. Bun bo Hue belongs to that city. Eat it there when the bowl is the reason for the ride."
+      ],
+      "dishSlugs": ["bun-bo-hue"]
+    }
+  ],
   "verified": "22 Oct 2026",
-  "seoTitle": "Hanoi food guide: pho, bun cha, and egg coffee",
-  "seoDescription": "What Hanoi’s own dish page says to order: pho in the morning, bun cha at lunch, and egg coffee in the afternoon."
+  "seoTitle": "Hanoi food guide — pho, bun cha, bun dau, and cha ca",
+  "seoDescription": "Morning pho in the Hoan Kiem lanes, including Hang Vai. Lunch is bun cha around Cua Dong, and egg coffee is the afternoon cup in the Nguyen Huu Huan alley."
 }
