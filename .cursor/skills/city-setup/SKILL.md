@@ -3,14 +3,15 @@ name: city-setup
 description: >-
   Sets up a Vietnam Guide city, town, or province until it matches Da Nang:
   attractions grouped by local area, events, side trips, local interest
-  groups, one itinerary whose stops resolve, and a food guide in Da Nang’s
-  shape. A licensed photo of that subject is required. Use when the user asks
-  to set up, fill, or complete a city, town, province, or destination page.
+  groups, one itinerary whose stops resolve, and a food guide of 40 to 50
+  sourced entries in the Japan Guide page order. A licensed photo of that
+  subject is required. Use when the user asks to set up, fill, or complete a
+  city, town, province, or destination page.
 ---
 
 # City setup
 
-A destination is not done until it matches Da Nang. Copy the records below. Do not invent a layout those records do not use. Follow `AGENTS.md`. A beat skill such as `central-coast` still owns the facts for that set of places. This skill owns what the destination contains. How it looks is `.cursor/skills/ui-ux/SKILL.md`. Sight pages follow `.cursor/skills/attraction-page/SKILL.md`.
+A destination is not done until it matches Da Nang. Copy the records below. Do not invent a layout those records do not use. The food guide is the exception on section order: its page order is the Japan Guide order in Food guide, not Da Nang’s old noodle-and-street list. Follow `AGENTS.md`. A beat skill such as `central-coast` still owns the facts for that set of places. This skill owns what the destination contains. How it looks is `.cursor/skills/ui-ux/SKILL.md`. Sight pages follow `.cursor/skills/attraction-page/SKILL.md`.
 
 Read `.cursor/skills/destination-standard/SKILL.md` for the six-card grid and the one interest slider. This skill is the record those frames read.
 
@@ -20,7 +21,7 @@ These are the finished Da Nang records. A new destination uses the same fields, 
 
 - Place: `src/content/places/da-nang.json`
 - Attractions: every `src/content/attractions/da-nang--*.json`. The finished sight page is `src/content/attractions/da-nang--ba-na.json`. `da-nang--an-thuong.json` is still a short record. Do not copy its missing fields.
-- Food: `src/content/food/da-nang.json`, and the dish pages in its `dishSlugs` plus `cao-lau` and `bun-bo-hue` on the neighbor section
+- Food: `src/content/food/da-nang.json` shows the record fields. The page order and the 40 to 50 entry bar are in Food guide. Da Nang’s 13 dish pages are not the ceiling.
 - Festivals: `src/content/festivals/da-nang-fireworks.json`, `src/content/festivals/da-nang-quan-the-am.json`
 - Itineraries: `src/content/itineraries/da-nang-day.json`, `src/content/itineraries/da-nang-two-days.json`
 - Resort page, because that group is on the place: `src/content/resort-living/da-nang.json`
@@ -30,13 +31,13 @@ Da Nang publishes no child district place. My Khe, An Thuong, and the river are 
 Three setups fail even when the JSON validates:
 
 - The city hero is a pile of blue plastic chairs, or any other stand-in that is not the subject.
-- The food guide’s public specialty grid is two generic dishes.
+- The food guide is under 40 entries, or it is two dishes. Da Nang’s 13 dish pages are not the ceiling.
 - The attraction list is short and has no local `district` values.
 
 ## Hard rules
 
-- Do not invent a fee, an hour, a visa rule, a sight, a taste, or a history. A fee or hour with no source is “Check on arrival”. Say that in the draft summary.
-- Where sources disagree, print both figures and name both sources.
+- Do not invent a dish, a restaurant, a taste, a history, a fee, an hour, a visa rule, or a sight. An unsourced price or hour is “Check on arrival”. Say that in the draft summary.
+- Where sources disagree, print every figure and name every source.
 - The season chip is a traveler line: `season.label` plus `season.note`. Da Nang’s label is “Drier beach months”. Floods, closures, and peak dates stay in `season`. Do not rewrite `intro` into a weather report.
 - Public sentences do not talk about the site. Leave out “its own page”, “no page here”, “this guide”, and “licensed photo was not filed”, including close variants. A missing card is omitted. The draft summary may say why.
 - Do not guess `lat` or `lng`. Leave both unset unless a source prints the point. A box is not a pin.
@@ -172,18 +173,37 @@ The itinerary page is a photo on the left and the day title plus one paragraph o
 
 ## Food guide
 
-The record is `src/content/food/<place>.json`, in the shape of `src/content/food/da-nang.json`.
+The record is `src/content/food/<place>.json`. It keeps the fields in `src/content/food/da-nang.json`: `summary`, `heroSlug`, `body`, `specialtiesLead`, `dishSlugs`, and `sections` with `id`, `heading`, `nav` or `hideNav`, `paragraphs`, `spots`, and `dishSlugs`. A spot has `name`, `nameVi`, `address`, `note`, and `dishSlug` when the spot is that dish. A room card also has `photo` and `caption`. Da Nang’s 13 dish pages, and its old section list, are not the page.
 
-- `summary` is the lede: what this city eats, and how that differs from the neighbor. Da Nang’s lede is turmeric noodles, morning fish-cake soup, seafood on the beach road, and a river cafe.
-- `heroSlug` is the signature dish. Da Nang uses `mi-quang`. The file is a photo of that dish.
-- `body` is two short paragraphs: eat this city as itself, then how to use the shops and the beach-road price rule.
-- `specialtiesLead` is one sentence pointing at the sections under the list.
-- `dishSlugs` is the local menu. Da Nang lists mi Quang, bun cha ca, banh xeo, banh trang cuon, banh canh, bun mam, com ga, banh beo, goi ca, vit lon, che, banh mi, and ca phe. A city guide whose list is two generic dishes is not done.
-- `sections` follow Da Nang’s order and fields: `id`, `heading`, `nav` or `hideNav`, `paragraphs`, and `spots`. A spot has `name`, `nameVi`, `address`, `note`, and `dishSlug` when the spot is that dish. The sections are where to eat, streets and markets, noodles, rice, plates, seafood, breakfast, sweets, drinks, dining, after dark, and a ride away. The last section’s `dishSlugs` are the neighbor’s dishes (`cao-lau`, `bun-bo-hue` on Da Nang). Do not rewrite those dishes here.
-- Name a door only when the dossier names it. Do not invent a shop. Do not print a stall price. An unsourced hour in `note` is “Check on arrival”.
-- `seoTitle` and `seoDescription` are the decision a hungry traveler is making.
+The page order is the Japan Guide food page:
 
-`src/pages/food/[slug].astro` prints the lede, then a Specialties grid. A dish becomes a card only when `public/photos/{dishSlug}.jpg` is a licensed photo of that dish. Vit lon is on Da Nang’s list and has no card until that photo exists. Do not borrow another dish to fill the hole. A later section prints only when a spot has both `photo` and `caption` and the file exists, or when the section lists a dish that is not already in `dishSlugs` and that dish has its own photo. Da Nang’s “A ride away” section is the second case. Section paragraphs and spot notes stay on the record. Do not edit the template to invent a second food layout. Do not move hours into `caption`.
+1. Hero. `heroSlug` is a licensed photo of the signature dish. Da Nang uses `mi-quang`.
+2. Intro. `summary` and `body` say what this city eats, and how that differs from the neighbor.
+3. City specialties. A highlights list names the dishes. Then each dish is a photo essay: a licensed photo of that dish, and the sourced lines for what it is and where to eat it. History, culture, texture, and taste appear only when a source gives them.
+4. Regional dishes, only if sourced. Leave the section out when the dossier has none. Do not rewrite a neighbor’s dish as this city’s.
+5. International dining. Named kitchens whose cooking is from outside Vietnam.
+6. Casual dining. The everyday rooms and streets the dossier names.
+7. Fine dining. Booked dinners a source calls fine dining.
+8. Themed dining. Rooms a source describes as a theme.
+9. Breakfast, only if sourced. Leave the section out when the dossier has none.
+
+Book your stay is the existing rail. The food page does not include a poll, an ad, or a hotel ranking.
+
+A finished guide carries 40 to 50 entries, varied across those groups. Under 40 fails. A two-dish guide fails. A guide that stops at Da Nang’s 13 local dish pages fails.
+
+The count is dish cards plus sourced spot lines:
+
+- A dish card is one dish on this guide with a licensed photo of that dish at `public/photos/{dishSlug}.jpg`. It counts once. The highlights list and the photo essay are the same dish, not two entries. A dish with no photo of that dish is named in the guide and is not a card. It does not add to the count.
+- A sourced spot line is one door, street, or room the dossier names, written once with `name` and the source in `note`. It counts with or without a photo. The same door in two sections counts once.
+- A spot with a licensed photo of that room is still one spot line. The photo makes it a card. It does not count again.
+
+One group is not the whole list. Regional dishes and breakfast are omitted when nothing is sourced. Do not invent a dish, a restaurant, a taste, a history, a fee, or an hour to open a group or to reach 40. If the dossier holds fewer than 40 sourced entries, the food stage is not done. Name the gap in the draft summary and stop. Do not research the web in this pass. A place the dossier does not support as a dining town does not get a guide padded to 40. My Son and Phong Nha do not get an invented dining street.
+
+When the dossier supports more than 50 entries a traveler would use, keep them and record the count in the draft summary. Do not drop a sourced door only to land under 50.
+
+Where sources disagree, print every figure and name every source. An unsourced price or hour is “Check on arrival”. Do not invent a number. Hours stay out of `caption`. Public sentences do not talk about the site. `seoTitle` and `seoDescription` are the decision a hungry traveler is making.
+
+A card needs a licensed photo of that dish or that room. Vit lon is named on Da Nang’s list and has no card until that photo exists. Do not borrow another dish, another room, or the city hero. An entry with no photo is named in the guide and is not a card. Do not edit `src/pages/food/[slug].astro` or the food components. The template change is a separate pass. Do not move hours into `caption`.
 
 ## Dish page
 
@@ -195,7 +215,7 @@ A dish page is the specialty. Da Nang’s bowls, such as `src/content/dishes/mi-
 
 `history`, `culture`, `texture`, and `taste` are included when a source gives them. `com-ga` has them. `mi-quang` does not. Leave the field out when the dossier has no source. Do not invent a flavor, a legend, or a date.
 
-An unsourced hour is “Check on arrival”. Do not list a stall price.
+An unsourced price or hour is “Check on arrival”. Do not invent a number. Where sources disagree, print every figure and name every source.
 
 ## Photos
 
@@ -203,7 +223,7 @@ Open the file and look at it. Keep it when it shows that subject, in color, in o
 
 The city hero, `public/photos/{slug}.jpg`, is the scene people come for. Da Nang’s hero is the sand, the water, and the resort front in one frame (`da-nang.jpg`, China Beach). A pile of blue plastic chairs is a failure, including chairs on the right beach with the sea cropped out. The My Khe attraction frame may include chairs when the towers and the sand are still the subject. That frame is the wrong city hero.
 
-An attraction image shows that attraction. An event image shows that event. A dish image shows that dish. A resort image shows that property. A side-trip card uses the neighbor’s own photo.
+An attraction image shows that attraction. An event image shows that event. A dish image shows that dish. A dining-room card shows that room. A resort image shows that property. A side-trip card uses the neighbor’s own photo.
 
 Reject soldiers, weapons, documents, maps, logos, collages, posters with titles burned in, and any frame that is not the subject. `scripts/fetch-photos.mjs` is a first search. It does not replace looking.
 
@@ -211,9 +231,9 @@ Keep a normal JPEG under 320 KB. Crop so a center cover still shows the subject:
 
 ## Affiliates and sidebar
 
-Hotels and Restaurants are affiliate slots. The sidebar opens with Book your stay. The button uses `stayLink` from `src/lib/partners.ts` and says Search stays. The disclosure says we may earn a commission. The restaurant slot points at `/food/{slug}`.
+Hotels and Restaurants are affiliate slots. The sidebar opens with Book your stay. That same rail is the food guide’s rail. The button uses `stayLink` from `src/lib/partners.ts` and says Search stays. The disclosure says we may earn a commission. The restaurant slot points at `/food/{slug}`.
 
-Until a partner catalog is connected, the row is a photo, a title, one line, and a button. Do not invent a hotel, a restaurant, a score, or a price. Do not add Booking.com or Klook URLs, logos, or a date form.
+Until a partner catalog is connected, the row is a photo, a title, one line, and a button. Do not invent a hotel, a restaurant, a score, or a price. Do not add Booking.com or Klook URLs, logos, or a date form. The food page does not include a poll, an ad, or a hotel ranking.
 
 Sidebar under the stay box: Explore with line icons, By interest, Plan your trip, Articles from `season` and festivals. Ads stay off.
 
@@ -224,7 +244,7 @@ Copy and complete. The place is done when every line is true.
 ```
 - [ ] `research/<slug>/STATUS.md` says `stored` before any public edit
 - [ ] Every public fact comes from that dossier
-- [ ] No invented fee, hour, visa rule, sight, taste, or history. Unsourced fee or hour is “Check on arrival”
+- [ ] No invented dish, restaurant, taste, history, fee, hour, visa rule, or sight. Unsourced price or hour is “Check on arrival”. Where sources disagree, every figure is printed
 - [ ] Season chip is a traveler line. Intro is not a weather report
 - [ ] No site-talk in public sentences
 - [ ] `lat` and `lng` are sourced, or both are unset
@@ -239,8 +259,9 @@ Copy and complete. The place is done when every line is true.
 - [ ] Side trips are real slugs. Unwritten neighbors are placeholders in the draft summary only
 - [ ] Interest groups are this place’s own. Dining is first when there is a food guide. Shopping and Resort Living only when the rules above are met. Each card has its own photo
 - [ ] One itinerary whose stops resolve to a place, attraction, or dish slug
-- [ ] Food guide matches da-nang.json: local dish list, sections, spots, and a neighbor section. The specialty grid is not two generic dishes
-- [ ] Each dish card and dish hero is a licensed photo of that dish. History, culture, texture, and taste appear only when sourced
+- [ ] Food guide carries 40 to 50 entries: dish cards plus sourced spot lines, across city specialties, regional dishes only if sourced, international dining, casual dining, fine dining, themed dining, and breakfast only if sourced. Under 40 fails. Two dishes fail. The 13 Da Nang dish pages are not the ceiling
+- [ ] Page order is hero, intro, city specialties with a highlights list and a photo essay per dish, then the groups above. Book your stay is the existing rail. No poll, ad, or hotel ranking. The food template was not edited
+- [ ] A card has a licensed photo of that dish or that room. An entry with no photo is named in the guide and is not a card. History, culture, texture, and taste appear only when sourced
 - [ ] npm run check:content
 ```
 
@@ -252,5 +273,6 @@ Copy and complete. The place is done when every line is true.
 - “Check on arrival” fields
 - Side trip placeholders
 - Cards omitted because the licensed photo of that subject is missing
+- Food-guide count: dish cards plus sourced spot lines, and which groups are short or omitted because nothing was sourced
 - Dots proposed on new records
 - Interest groups, in this place’s words

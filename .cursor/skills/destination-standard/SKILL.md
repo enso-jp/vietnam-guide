@@ -3,9 +3,10 @@ name: destination-standard
 description: >-
   Sets the shared rules for a Vietnam Guide destination page: Da Nang is the
   required shape, six attraction cards then a Show all control, Dining and
-  F&B as the first interest card, and interest groups taken from that place.
-  Use when setting up or revising a destination, its attraction list, or its
-  interest groups.
+  F&B as the first interest card, interest groups taken from that place, and
+  a food guide of 40 to 50 sourced entries in the Japan Guide page order.
+  Use when setting up or revising a destination, its attraction list, its
+  food guide, or its interest groups.
 ---
 
 # Destination page standard
@@ -15,7 +16,7 @@ Da Nang is the required shape. Every destination follows the same frames with it
 A destination is not done while any of these is true:
 
 - The city hero is a pile of blue plastic chairs, or any stand-in that is not the subject.
-- The food guide’s public specialty grid is two generic dishes.
+- The food guide is under 40 entries, or it is two dishes. Da Nang’s 13 dish pages are not the ceiling.
 - The attraction list is short and ungrouped.
 
 ## Attractions
@@ -47,7 +48,15 @@ Other cities write their own groups from how people actually use that place. Eac
 
 ## Food
 
-The food record follows `src/content/food/da-nang.json`: a lede, the local dish list, sections with streets and doors the dossier names, and a neighbor section. The page prints a specialty card only when a licensed photo of that dish exists. A guide whose grid is two generic dishes is not done. A section without a photo card stays in the record. Do not invent a second food layout to print it. Hours stay out of the card caption. An unsourced hour is “Check on arrival”.
+The food page follows the Japan Guide order. The record fields and the count are `.cursor/skills/city-setup/SKILL.md`. Da Nang’s 13 dish pages are not the ceiling.
+
+The order is hero, intro, city specialties, regional dishes only if sourced, international dining, casual dining, fine dining, themed dining, and breakfast only if sourced. City specialties open with a highlights list, then a photo essay per dish. Book your stay is the existing rail. The page does not include a poll, an ad, or a hotel ranking.
+
+A finished guide carries 40 to 50 entries across those groups. Under 40 fails. A two-dish guide fails. The count is dish cards plus sourced spot lines. A dish card is one dish with a licensed photo of that dish, counted once. A sourced spot line is one door, street, or room the dossier names, written once. It counts with or without a photo. The same door counts once. A room photo does not make a second entry.
+
+A card needs a licensed photo of that dish or that room. An entry with no photo is named in the guide and is not a card. Do not borrow another photo. Hours stay out of the card caption. Do not edit the food template. That file is a separate pass.
+
+Do not invent a dish, a restaurant, a taste, a history, a fee, or an hour to fill a group or to reach 40. Where sources disagree, print every figure and name every source. An unsourced price or hour is “Check on arrival”.
 
 Each dish page has a licensed photo of that dish. History, culture, texture, taste, and how to enjoy it are written when a source gives them. Leave out any of those points you cannot source. Do not invent them.
 
@@ -61,4 +70,4 @@ Credit every photo. One subject per card. A stand-in fails. The city hero is the
 
 ## Hard rules
 
-Do not invent a fee, an hour, a visa rule, a sight, a taste, or a history. The season chip is a traveler line. Public copy does not say “its own page”, “no page here”, “this guide”, or “licensed photo was not filed”. Do not guess a coordinate. Do not edit rank-dot math. Partner URLs stay in `src/lib/partners.ts`. A content run does not edit templates, `src/styles/global.css`, or `src/lib/partners.ts`.
+Do not invent a dish, a restaurant, a taste, a history, a fee, an hour, a visa rule, or a sight. Where sources disagree, print every figure and name every source. An unsourced price or hour is “Check on arrival”. The season chip is a traveler line. Public copy does not say “its own page”, “no page here”, “this guide”, or “licensed photo was not filed”. Do not guess a coordinate. Do not edit rank-dot math. Partner URLs stay in `src/lib/partners.ts`. A content run does not edit templates, `src/styles/global.css`, or `src/lib/partners.ts`.

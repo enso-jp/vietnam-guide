@@ -2,8 +2,9 @@
 name: graphic-copy
 description: >-
   Polishes one Vietnam Guide place after its research dossier is stored, until
-  the page matches Da Nang: prose, selling-point lines, the season chip, and
-  photos that are licensed pictures of that subject. Use when the user asks to
+  the page matches Da Nang: prose, selling-point lines, the season chip, photos
+  that are licensed pictures of that subject, and a food guide of 40 to 50
+  sourced entries in the Japan Guide page order. Use when the user asks to
   polish, rewrite, or clean copy and images for a province, city, or town, or
   names the Graphic and Copy Writing Agent.
 ---
@@ -18,8 +19,8 @@ Start a copy stage only when every research lane is `stored` or `blocked`, `rese
 
 ## Hard rules
 
-- Do not invent a layout, a fee, an hour, a visa rule, a sight, a taste, a history, a hotel, a restaurant, a score, or a price. If the dossier says `UNSOURCED` or `Check on arrival`, keep that on the page.
-- Where sources disagree, print both figures and name both sources. Do not average them, and do not drop the figure the dossier marked as a conflicting single source.
+- Do not invent a layout, a dish, a restaurant, a taste, a history, a fee, an hour, a visa rule, a sight, a hotel, a score, or a price. If the dossier says `UNSOURCED` or `Check on arrival`, keep that on the page. An unsourced price or hour is “Check on arrival”.
+- Where sources disagree, print every figure and name every source. Do not average them, and do not drop a conflicting figure.
 - The season chip is a traveler line. Da Nang’s `season.label` is “Drier beach months”, and `season.note` tells the traveler what to do with September and the Hoi An road. Floods, closures, and peak dates stay in `season`. Do not rewrite `intro` into a weather report.
 - Public sentences do not talk about the site. Leave out “its own page”, “no page here”, “this guide”, and “licensed photo was not filed”. If a sentence explains a missing card, delete the explanation and keep the traveler fact.
 - Do not guess `lat` or `lng`. Leave both unset unless a source prints the point.
@@ -33,7 +34,7 @@ Start a copy stage only when every research lane is `stored` or `blocked`, `rese
 - Photos in `public/photos/` and the matching credit in `public/photos/credits.json`.
 - The place `season` only when the dossier has a sourced season note.
 
-Leave Hotels and Restaurants as affiliate placeholders. The food record stays in the shape of `src/content/food/da-nang.json`. The public specialty grid is dish photo cards. Do not turn that grid into two generic dishes, and do not edit the food template to invent a second layout.
+Leave Hotels and Restaurants as affiliate placeholders. Book your stay stays the existing rail. Do not add a poll, an ad, or a hotel ranking. The food record keeps the fields in `src/content/food/da-nang.json` and follows the page order in `.cursor/skills/city-setup/SKILL.md`. A guide under 40 entries is not done. A two-dish guide is not done. Da Nang’s 13 dish pages are not the ceiling. Do not edit the food template.
 
 ## Copy
 
@@ -54,7 +55,7 @@ Open the file and look at it. A licensed photo of that subject is required. A st
 - The city hero is 16:9. It is the brightest true picture of why people come. Da Nang’s hero, `public/photos/da-nang.jpg`, is the sand, the water, and the resort front in one frame. A pile of blue plastic chairs is a failure, including chairs on the right beach with the sea and the towers cropped out. The My Khe card may include chairs when the towers and the sand are still the subject. That card is the wrong city hero.
 - An attraction card and the intro photo are 3:2. The landmark stays whole and recognizable. A portrait of a statue loses its head in that slot. Crop to the face and the gesture, from the real file. Do not invent sky or blur beside it.
 - An interest card is tall, about 3:4. The subject has to sit in the center. The sides are cut. Each interest card has its own file. One beach photo used for the beach, An Thuong, and the beach night fails.
-- A dish card is a photo of that dish. A cityscape, a cafe interior, or a different bowl is a stand-in. A food guide whose specialty grid is two generic dishes is not done.
+- A dish card, and each photo in a dish’s photo essay, is a photo of that dish. A cityscape, a cafe interior, or a different bowl is a stand-in. A room card is a photo of that room. Another restaurant, the beach, or a borrowed dish is a stand-in. An entry with no photo is named in the guide and is not a card. A food guide under 40 entries is not done. Two dishes are not done.
 - An event photo shows that event. The city hero is the wrong file.
 - A resort photo shows that property. A stay-row photo shows that area. The beach file on a river hotel row is a stand-in.
 
@@ -68,7 +69,7 @@ When the page is an attraction, follow `.cursor/skills/attraction-page/SKILL.md`
 
 ## Food and dishes
 
-`foodCopy` checks the guide against `src/content/food/da-nang.json`: a lede, the local dish list, the sections and spots, and a neighbor section. Each specialty card is a licensed photo of that dish. History, culture, texture, and taste stay on a dish only when the dossier has a source. Leave the field out when it does not, and say so in the draft summary. Do not invent a flavor.
+`foodCopy` checks the guide against the Japan Guide page order in `.cursor/skills/city-setup/SKILL.md`: hero, intro, city specialties with a highlights list and a photo essay per dish, regional dishes only if sourced, international dining, casual dining, fine dining, themed dining, and breakfast only if sourced. The count is 40 to 50, dish cards plus sourced spot lines, across those groups. Under 40 fails. A two-dish guide fails. Da Nang’s 13 dish pages are not the ceiling. A card needs a licensed photo of that dish or that room. An entry with no photo is named in the guide and is not a card. History, culture, texture, and taste stay on a dish only when the dossier has a source. Leave the field out when it does not, and say so in the draft summary. Do not invent a flavor, a dish, or a room to fill a group. Book your stay stays the existing rail. Do not add a poll, an ad, or a hotel ranking. Do not edit the food template.
 
 ## When a fact is missing
 
@@ -76,4 +77,4 @@ Write the question in `research/<slug>/questions.md`. Leave the public field as 
 
 ## Finish
 
-Run `npm run check:content`. Show the diff. A chat with a person does not commit unless they ask. A run that claimed the unit on the board commits that unit. In the draft summary, list files touched, facts taken from the dossier, photos replaced and why they failed or passed the subject test, and questions left in `questions.md`. Say whether the place now matches Da Nang, including groups, the food list, and the hero.
+Run `npm run check:content`. Show the diff. A chat with a person does not commit unless they ask. A run that claimed the unit on the board commits that unit. In the draft summary, list files touched, facts taken from the dossier, photos replaced and why they failed or passed the subject test, and questions left in `questions.md`. Say whether the place now matches Da Nang, including groups, the hero, and the food guide: the page order, the count of dish cards plus sourced spot lines, and which groups are short.
