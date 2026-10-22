@@ -102,10 +102,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Memorial page. Fee and hours Check on arrival. Both distances and both unofficial fees kept. Dot 5 on a new record.",
-      "updated": "2026-10-22T04:53:32.443Z",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Counts, both distances, and both unofficial fees match the dossier. Hours and fee stay Check on arrival. Dot 5 was set on the new record.",
+      "updated": "2026-10-22T04:54:15.953Z",
       "reworkCount": 0
     },
     {
@@ -577,6 +577,22 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-22T04:54:15.953Z",
+      "place": "quang-ngai",
+      "stage": "quality",
+      "item": "quang-ngai--son-my",
+      "status": "checked",
+      "note": "Counts, both distances, and both unofficial fees match the dossier. Hours and fee stay Check on arrival. Dot 5 was set on the new record."
+    },
+    {
+      "at": "2026-10-22T04:54:15.894Z",
+      "place": "quang-ngai",
+      "stage": "copy",
+      "item": "quang-ngai--son-my",
+      "status": "enriched",
+      "note": "Detail crop keeps the fist and the face. Fee line is Check on arrival."
+    },
+    {
       "at": "2026-10-22T04:53:32.413Z",
       "place": "quang-ngai",
       "stage": "page",
@@ -719,22 +735,6 @@
       "item": null,
       "status": "needs_depth",
       "note": "The weekend river street is in. Still open: a bar street, which was not found, and the quiet hour on nights the street is dark."
-    },
-    {
-      "at": "2026-10-22T04:17:47.368Z",
-      "place": "quang-ngai",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Dishes and three food streets are in. Still open: stall prices, ram bắp method, market hours, and a provincial page for bánh ít lá gai."
-    },
-    {
-      "at": "2026-10-22T04:17:46.739Z",
-      "place": "quang-ngai",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Major sights are in. Still open: Núi Răng Cưa, Chùa Ông, the provincial museum, Minh Đức, and official fees and hours."
     }
   ]
 }
