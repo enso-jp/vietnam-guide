@@ -3,12 +3,52 @@
   "placeSlug": "da-lat",
   "name": "Truc Lam Zen Monastery",
   "nameVi": "Thiền viện Trúc Lâm",
-  "summary": "Zen monastery gardens above Tuyen Lam, usually reached by cable car.",
+  "kicker": "Zen monastery above Tuyen Lam",
+  "summary": "Walk the gardens at Truc Lam on Phoenix Hill and look over Tuyen Lam Lake. The usual arrival is the cable car from Robin Hill. Visit Lâm Đồng lists the monastery as free. The cable car is separate: Check on arrival, and Dalattourist prints about 120,000 VND one way for an adult. Dress modestly.",
   "dots": 4,
-  "timeNeeded": "2 hours",
-  "fee": "Monastery free; cable car check on arrival",
-  "getThere": "Robin Hill cable car",
-  "district": "South",
+  "timeNeeded": "1–2 hours",
+  "fee": "Free; cable car Check on arrival",
+  "getThere": "Cable car from Robin Hill",
+  "district": "Phoenix Hill",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The monastery hall at Truc Lam",
+  "notice": {
+    "title": "The cable car is a separate fare",
+    "body": "Visit Lâm Đồng lists the monastery as free. Dalattourist prints about 120,000 VND one way for an adult, and the fare is also Check on arrival. Wear modest clothing."
+  },
+  "body": [
+    "Truc Lam sits on Phoenix Hill, also called Phuong Hoang Hill, above Tuyen Lam Lake. The gardens and the view down to the reservoir are the visit. Vietnam Tourism names the monastery on that hill. Modest clothing is the dress the same page expects.",
+    "Arrive by the cable car from Robin Hill on a clear morning if you want the lake view. Visit Lâm Đồng lists the monastery as free. The cable car is priced apart: Check on arrival, while Dalattourist prints about 120,000 VND one way for an adult. Allow 1 to 2 hours including the ride. Monastery hours are Check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "da-lat-truc-lam-2",
+      "caption": "The monastery gate above the lake",
+      "alt": "Gate at Truc Lam Zen Monastery, looking toward the water"
+    }
+  ],
+  "gettingThere": [
+    "The monastery is south of town on Phoenix Hill. Arrive by the cable car from Robin Hill. A taxi from Xuan Huong Lake to the Robin Hill station has no printed minutes. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Robin Hill",
+      "body": "Cable car to the monastery. Dalattourist prints about 120,000 VND one way for an adult. The fare is also Check on arrival."
+    },
+    {
+      "heading": "From Xuan Huong Lake",
+      "body": "Taxi to the Robin Hill cable station, then the car. Minutes and the taxi fare are Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "admissionNote": "Visit Lâm Đồng lists the monastery as free. The cable car is Check on arrival, and Dalattourist prints about 120,000 VND one way for an adult. Hours for the monastery are Check on arrival. With the cable car, allow 1 to 2 hours.",
+  "links": [
+    {
+      "label": "Vietnam Tourism, things to do in Da Lat",
+      "url": "https://www.vietnam.travel/things-to-do/8-things-to-do-in-dalat",
+      "note": "Truc Lam on Phuong Hoang Hill, accessed 21 Oct 2026"
+    }
+  ],
   "interests": [
     "pagodas"
   ]

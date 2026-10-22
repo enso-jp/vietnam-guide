@@ -5,23 +5,21 @@
   "kind": "city",
   "corridor": "south-central-highlands",
   "province": "Lam Dong",
-  "provinceNote": "Lam Dong now also includes the former Dak Nong and Binh Thuan provinces, so Mui Ne shares the province on paper.",
-  "lat": 11.94,
-  "lng": 108.438,
+  "provinceNote": "Mui Ne shares Lam Dong on paper after the provincial merger. The coast is still a separate ride.",
   "dots": 4,
   "dotReason": "Worth a special trip in this corridor",
-  "summary": "Sleep by Xuan Huong Lake when you want cool air, pine ridges, and a market slope of strawberries. Fly into Lien Khuong or bus up from Ho Chi Minh City. Go to Nha Trang or Mui Ne when the beach is the trip; they are still hours apart by road.",
+  "summary": "Cool air, pines, and Xuan Huong Lake in the middle of town, with strawberries on the market slope and grilled rice paper after dark. Stay for the highlands. Choose Nha Trang or Mui Ne when the sea is the trip.",
   "timeNeeded": "2 days",
-  "fee": "The lake is free; palaces, gardens, and waterfalls ticket separately",
-  "getThere": "Lien Khuong Airport (DLI), about 30 km south of town, with flights from Ha Noi and Ho Chi Minh City",
+  "fee": "The lake is free. Palaces, gardens, and waterfalls ticket on their own.",
+  "getThere": "Lien Khuong Airport (DLI), about 30 km south, with flights from Ha Noi and Ho Chi Minh City",
   "bestMonths": "December to March",
-  "verified": "21 Oct 2026",
+  "verified": "22 Oct 2026",
   "interests": {
+    "food": 4,
     "coffee": 4,
     "markets": 4,
     "photography": 4,
     "family": 4,
-    "food": 4,
     "mountains": 4,
     "pagodas": 3,
     "nightlife": 3
@@ -35,92 +33,92 @@
   ],
   "routeSlugs": [],
   "itinerarySlugs": [
+    "da-lat-day",
     "da-lat-two-days",
     "south-5-days"
   ],
-  "seoTitle": "Da Lat travel guide — lake, market, and cool highlands",
-  "seoDescription": "Xuan Huong Lake, the market slope, and pine-country waterfalls. Lien Khuong is about 30 km south. December to March is the driest window.",
+  "seoTitle": "Da Lat travel guide — lake, market, and pine ridges",
+  "seoDescription": "Xuan Huong Lake sits in the middle of Da Lat, with strawberries on the market slope. Lien Khuong is about 30 km south. December to March is the dry window.",
   "intro": [
-    "Wake to mist on Xuan Huong Lake and air cool enough for a jacket while the coast is hot. The shore walk and Lam Vien Square are the morning; the sloping market above the lake is strawberries, flowers, and avocado ice cream before lunch.",
-    "Stay if the highlands are the trip. Book Nha Trang or Mui Ne when you wanted sand. They share a province on paper after the merger and they are still a long ride apart, so link them from Ho Chi Minh City rather than in one afternoon.",
-    "Give a southbound half-day to the cable car from Robin Hill, Truc Lam monastery, and Tuyen Lam Lake, or to Datanla Falls on Prenn Pass. Lang Biang is the northbound half-day. Crazy House and Bao Dai Palace III fit between lake mornings. The tourist railway station is the art-deco run toward mosaic-covered Linh Phuoc at Trai Mat.",
-    "After dark the night market lanes grill rice paper and pour hot soy milk while the lake path stays lit. The 11th Flower Festival in 2026 opens at Lam Vien Square on 19 December and closes on 31 December, with displays into early January. Odd-year December is the pattern; confirm the next year on arrival."
+    "The morning is mist on Xuan Huong Lake and the pines along the bank. Walk the shore, then climb the market slope for strawberries, flowers, and a cup of avocado ice cream.",
+    "Stay when the cool highlands are the trip. Choose Nha Trang or Mui Ne when the sea is the reason. Vietnam National Authority of Tourism puts both a few hours away by car. The minutes are Check on arrival. Treat each coast town as its own trip from Ho Chi Minh City.",
+    "The art-deco station, with DALAT across the yellow facade, runs a short tourist train toward Trai Mat and the mosaic pagoda at Linh Phuoc. Crazy House and Bao Dai Palace III fit between lake mornings. A clear morning is the cable car from Robin Hill up to Truc Lam, or Datanla Falls on Prenn Pass. Lang Biang is the northbound half-day.",
+    "After dark the night market grills rice paper and pours hot soy milk, and the path around the lake stays lit. The lake is free. Palaces, the waterfall, and the gardens each ticket on their own."
   ],
   "gettingAround": [
-    "Lien Khuong Airport is about 30 km south on National Highway 20. Vietnam Tourism names flights from Ha Noi and Ho Chi Minh City; the road minutes and taxi fare are check on arrival. In town, walk the lake and market, and use Grab or a taxi for Prenn Pass, Lang Biang, and Trai Mat. Easy-rider motorbike loops to waterfalls are common; ride yourself only with the proper license."
+    "Lien Khuong Airport sits about 30 km south of town on National Highway 20, at Lien Nghia in Duc Trong. Vietnam National Authority of Tourism names flights from Ha Noi and Ho Chi Minh City. Taxi minutes and the fare are Check on arrival. Vietnam Tourism Information prints the road from Ho Chi Minh City at about 293 km, and from Nha Trang at about 205 km. The minutes on those roads are Check on arrival.",
+    "In town, walk the lake, Lam Vien Square, and the market. Use Grab or a taxi for Prenn Pass, Lang Biang, and Trai Mat. Vietnam National Authority of Tourism says motorbike touring is popular on the waterfall roads. Ride yourself only with the proper license. There is no passenger train into Da Lat. The station line is the tourist run to Trai Mat."
   ],
   "stayAreas": [
     {
       "name": "Around Xuan Huong Lake",
-      "summary": "Walk to the market, Lam Vien Square, and the evening lake path.",
+      "summary": "Walk to the market slope, Lam Vien Square, and the evening path along the water.",
       "band": "Hotels and guesthouses",
       "photo": "da-lat-xuan-huong"
-    },
-    {
-      "name": "Pine ridges",
-      "summary": "Quieter beds above the basin with valley views. No hotel street is published as a pick.",
-      "band": "Resorts and villas",
-      "photo": "da-lat"
     }
   ],
   "eat": [
-    "Morning is the market slope: strawberries with condensed milk, artichoke tea souvenirs, and banh mi from a counter. Evening is the night market for banh trang nuong and soy milk. Coffee belongs to the hills around Cau Dat; the food guide names areas, not shops."
+    "Morning is the market slope: strawberries with condensed milk, artichoke tea to take home, and banh mi from a counter. Evening is the night market for grilled rice paper and hot soy milk. Coffee belongs to the Cau Dat hills."
   ],
   "dishSlugs": [
+    "ca-phe",
     "kem-bo",
     "banh-trang-nuong",
-    "ca-phe",
+    "dau-sua",
+    "sua-dau-nanh",
+    "tra-atiso",
     "banh-mi"
   ],
   "interestsBody": [
-    "Dining is market strawberries, kem bo, and night-market rice paper. The food guide is photo-led.",
-    "Coffee is Arabica country on the Cau Dat hills and slow cups after the lake walk. Farm names on Vietnam Tourism are tours, not picks.",
-    "Lakes and waterfalls are Xuan Huong in town, then Tuyen Lam, Datanla, and Lang Biang on half-day rides.",
-    "French hill-station architecture is the railway station, Bao Dai Palace III, the Chicken Church, Domaine de Marie, and Crazy House.",
-    "Flowers are Lam Vien Square and the December festival displays around the lake in odd years. The ticketed city flower garden has no licensed card photo in this pass.",
-    "Cool evenings are the night market and the lakeside walk, not a beach-bar strip."
+    "Dining is market strawberries, avocado ice cream, and night-market rice paper.",
+    "The central market sells flowers and produce in the morning. Stall prices are Check on arrival.",
+    "Coffee is Arabica country on the Cau Dat hills. Vietnam National Authority of Tourism names farm tours, including K'Ho.",
+    "Lakes and waterfalls are Xuan Huong in town, then Truc Lam, Datanla, and Lang Biang on half-day rides. Tuyen Lam is the reservoir south of town.",
+    "The hill-station layer is the railway station, Bao Dai Palace III, the cathedral on Tran Phu, Domaine de Marie, the education college on Yersin, and Crazy House.",
+    "Flowers are Lam Vien Square beside the lake, and the December festival displays. The city flower garden at 2 Tran Nhan Tong is a separate ticketed walk.",
+    "Cool evenings are the night market and the lit walk around Xuan Huong."
   ],
   "interestCards": [
     {
       "title": "Dining and F&B",
-      "summary": "Market strawberries, kem bo, and night-market rice paper.",
+      "summary": "Market strawberries, avocado ice cream, and night-market rice paper.",
       "photo": "da-lat-market",
       "icon": "food",
       "to": "food"
     },
     {
       "title": "Coffee hills",
-      "summary": "Cau Dat slopes and farm tours. No stall price is published.",
+      "summary": "Arabica on the Cau Dat hills, and a cup after the lake walk.",
       "photo": "ca-phe",
       "icon": "drink",
       "dishSlug": "ca-phe"
     },
     {
       "title": "Lakes and waterfalls",
-      "summary": "Xuan Huong in town; Tuyen Lam, Datanla, and Lang Biang on rides out.",
-      "attractionSlug": "tuyen-lam",
-      "photo": "da-lat-tuyen-lam",
+      "summary": "Xuan Huong in town. Truc Lam, Datanla, and Lang Biang are the rides out.",
+      "attractionSlug": "xuan-huong",
+      "photo": "da-lat-xuan-huong",
       "icon": "view"
     },
     {
       "title": "French hill station",
-      "summary": "Railway station, palaces, churches, and Crazy House.",
+      "summary": "The DALAT station, the palace, the churches, and Crazy House.",
       "attractionSlug": "railway-station",
-      "photo": "da-lat",
+      "photo": "da-lat-railway-station",
       "icon": "museum"
     },
     {
       "title": "Flowers and gardens",
-      "summary": "Lam Vien Square and December festival displays around the lake.",
+      "summary": "Lam Vien Square on the lake, and the December flower displays.",
       "attractionSlug": "lam-vien-square",
       "photo": "da-lat-lam-vien-square",
       "icon": "view"
     },
     {
       "title": "Cool-evening stroll",
-      "summary": "Night market snacks and the lit lake path.",
-      "attractionSlug": "lam-vien-square",
-      "photo": "da-lat-lam-vien-square",
+      "summary": "The lake after dark, with the night market a short walk up the slope.",
+      "attractionSlug": "xuan-huong",
+      "photo": "da-lat-xuan-huong-2",
       "icon": "drink"
     }
   ],
@@ -131,7 +129,7 @@
       "cards": [
         {
           "title": "Dining and F&B",
-          "summary": "Market strawberries, kem bo, and night-market rice paper.",
+          "summary": "Market strawberries, avocado ice cream, and night-market rice paper.",
           "photo": "da-lat-market",
           "icon": "food",
           "to": "food"
@@ -140,39 +138,40 @@
     },
     {
       "title": "Shopping",
-      "summary": "Flowers and produce at the central market, and the strawberries the sight page names. This frame is the morning produce street.",
+      "summary": "Flowers and produce at the central market, above the lake.",
       "blocks": [
         {
           "id": "market",
           "heading": "Da Lat Market",
           "nav": "The market",
           "paragraphs": [
-            "The Vietnam Tourism Da Lat page says the stalls of the central market are packed with fresh flowers and colourful produce. The sight page adds strawberries in the sloping halls, and it says the door is free. Walk uphill from Xuan Huong Lake.",
-            "The address and the hours were not on the provincial market page when it was opened. Both are check on arrival. Stall prices are check on arrival. The night stalls the sight page puts after 18:00 are the food walk, not a second card here."
+            "Vietnam National Authority of Tourism describes the central market as stalls of fresh flowers and produce. The sloping halls are also where you buy strawberries. The door is free. Walk uphill from Xuan Huong Lake.",
+            "Visit Lâm Đồng does not print an address or opening hours for the market. Both are Check on arrival. Stall prices are Check on arrival. The night stalls, about 18:00–23:00 on the Visit Lâm Đồng night-market lines, are the food walk in the same centre."
           ]
         }
       ],
       "cards": [
         {
           "title": "Da Lat Market",
-          "summary": "Fresh flowers and colourful produce on the Vietnam Tourism page, and strawberries on the sight page. The door is free. The address and the hours are check on arrival.",
+          "summary": "Morning flowers, produce, and strawberries on the slope. The door is free. Address and hours are Check on arrival.",
           "attractionSlug": "market",
           "photo": "da-lat-market-morning",
+          "icon": "view",
           "block": "market"
         }
       ]
     },
     {
       "title": "Coffee hills",
-      "summary": "Arabica on the Cau Dat hills, and a slow cup after the lake. The food guide names areas, not a shop to cross town for.",
+      "summary": "Arabica on the Cau Dat hills, and a slow cup after the lake.",
       "body": [
-        "Coffee belongs to the hills around Cau Dat. Vietnam Tourism names farm tours. Those names are tours, not picks, and no stall price is published.",
-        "The cup itself is the coffee page. Market strawberries and the night-market rice paper stay on the Da Lat food guide."
+        "Vietnam National Authority of Tourism puts Da Lat in Arabica country and names farm tours, including K'Ho, on the hills around Cau Dat. Those names are tours. A stall price is not printed.",
+        "Drink the cup after the lake walk. Market strawberries and night-market rice paper stay with the food page."
       ],
       "cards": [
         {
           "title": "Coffee hills",
-          "summary": "Cau Dat slopes and farm tours. No stall price is published. Drink it after the lake walk, not as a ranked cafe list.",
+          "summary": "Cau Dat slopes and the farm tours Vietnam National Authority of Tourism names. Drink it after the lake.",
           "photo": "ca-phe",
           "icon": "drink",
           "dishSlug": "ca-phe"
@@ -181,14 +180,14 @@
     },
     {
       "title": "Lakes and waterfalls",
-      "summary": "Xuan Huong is the lake in town. Tuyen Lam, Truc Lam, and Datanla are the southbound half-day.",
+      "summary": "Xuan Huong is the lake in town. Truc Lam and Datanla are the southbound half-day.",
       "blocks": [
         {
           "id": "town",
           "heading": "The lake in town",
           "nav": "In town",
           "paragraphs": [
-            "Wake to mist on Xuan Huong and walk the shore. The lake is free. Palaces, gardens, and waterfalls ticket separately."
+            "Wake to mist on Xuan Huong and walk the shore. Visit Lâm Đồng lists the lake as free. Bring a layer from November to January, the months Vietnam National Authority of Tourism says turn chilly."
           ]
         },
         {
@@ -196,30 +195,22 @@
           "heading": "South of town",
           "nav": "South",
           "paragraphs": [
-            "Give a southbound half-day to the cable car from Robin Hill, Truc Lam monastery, and Tuyen Lam Lake, or to Datanla Falls on Prenn Pass. Lang Biang is the northbound half-day, and it has no licensed photograph here, so it is not a card."
+            "A clear morning is the cable car from Robin Hill to Truc Lam, with Tuyen Lam Lake below the monastery. Datanla Falls is the other southbound stop, on Prenn Pass. Lang Biang is the northbound half-day, at the tourism zone on 93A Bidoup."
           ]
         }
       ],
       "cards": [
         {
           "title": "Xuan Huong Lake",
-          "summary": "The city lake for a walk, a pedal boat, or a cool evening loop. Bring a layer from November to January.",
+          "summary": "The city lake for a walk, a pedal boat, or a cool evening loop. The shore is free.",
           "attractionSlug": "xuan-huong",
           "photo": "da-lat-xuan-huong",
           "icon": "view",
           "block": "town"
         },
         {
-          "title": "Tuyen Lam Lake",
-          "summary": "The gate above the reservoir, with the water through the arch. Boating here is south of town, and it is not the same outing as Xuan Huong.",
-          "attractionSlug": "tuyen-lam",
-          "photo": "da-lat-tuyen-lam",
-          "icon": "view",
-          "block": "south"
-        },
-        {
           "title": "Truc Lam",
-          "summary": "Zen monastery gardens above Tuyen Lam, usually reached by cable car.",
+          "summary": "Zen monastery gardens above Tuyen Lam, usually reached by the Robin Hill cable car.",
           "attractionSlug": "truc-lam",
           "photo": "da-lat-truc-lam",
           "icon": "museum",
@@ -227,9 +218,17 @@
         },
         {
           "title": "Datanla Falls",
-          "summary": "Waterfall on Prenn Pass with optional coaster or guided canyoning.",
+          "summary": "The cascade on Prenn Pass. The coaster and canyoning are extra.",
           "attractionSlug": "datanla",
           "photo": "da-lat-datanla",
+          "icon": "view",
+          "block": "south"
+        },
+        {
+          "title": "Robin Hill cable car",
+          "summary": "The line down toward Truc Lam, with the reservoir in the view.",
+          "attractionSlug": "truc-lam",
+          "photo": "da-lat-cable-car",
           "icon": "view",
           "block": "south"
         }
@@ -237,14 +236,14 @@
     },
     {
       "title": "French hill station",
-      "summary": "The 1930s station, the last emperor’s villa, the pink churches, and Crazy House between lake mornings.",
+      "summary": "The 1930s station, the last emperor’s villa, the churches, and Crazy House.",
       "blocks": [
         {
           "id": "station",
           "heading": "Station, villa, and churches",
           "nav": "The station",
           "paragraphs": [
-            "The tourist railway is the art-deco run toward Trai Mat. Crazy House and Bao Dai Palace III fit between lake mornings. View the education college from the gate."
+            "The tourist railway is the art-deco run toward Trai Mat. Crazy House, at 3 Huynh Thuc Khang, and Bao Dai Palace III, at 1 Trieu Viet Vuong, fit between lake mornings. The cathedral is the tower on Tran Phu. Domaine de Marie is the pink church at 1 Ngo Quyen. The education college’s curved colonnade is the view from Yersin."
           ]
         },
         {
@@ -252,14 +251,14 @@
           "heading": "The end of the line",
           "nav": "Trai Mat",
           "paragraphs": [
-            "Linh Phuoc is the mosaic pagoda at Trai Mat, often paired with the tourist train. It is not a French villa."
+            "Linh Phuoc is the mosaic pagoda at Trai Mat, often paired with the tourist train. It is a pagoda, not a French villa. Visit Lâm Đồng lists admission as free."
           ]
         }
       ],
       "cards": [
         {
           "title": "Da Lat Railway Station",
-          "summary": "The 1930s art-deco station and the short tourist line toward Trai Mat.",
+          "summary": "The 1930s station with DALAT on the facade, and the short tourist line toward Trai Mat.",
           "attractionSlug": "railway-station",
           "photo": "da-lat-railway-station",
           "icon": "museum",
@@ -267,7 +266,7 @@
         },
         {
           "title": "Bao Dai Palace III",
-          "summary": "The last emperor’s hill villa rooms and gardens south of the centre.",
+          "summary": "The last emperor’s hill villa, about 2.5 km south of the centre.",
           "attractionSlug": "bao-dai-palace",
           "photo": "da-lat-bao-dai-palace",
           "icon": "museum",
@@ -275,7 +274,7 @@
         },
         {
           "title": "Da Lat Cathedral",
-          "summary": "The pink cathedral and rooster-topped bell tower on Tran Phu.",
+          "summary": "The cathedral and bell tower on Tran Phu. It is not Domaine de Marie.",
           "attractionSlug": "cathedral",
           "photo": "da-lat-cathedral",
           "icon": "museum",
@@ -283,7 +282,7 @@
         },
         {
           "title": "Domaine de Marie",
-          "summary": "Pink church and convent gardens on the west ridge.",
+          "summary": "Pink church and convent gardens at 1 Ngo Quyen.",
           "attractionSlug": "domaine-de-marie",
           "photo": "da-lat-domaine-de-marie",
           "icon": "museum",
@@ -291,7 +290,7 @@
         },
         {
           "title": "Education College",
-          "summary": "Curved colonnade and bell tower on Yersin. The view is from the gate.",
+          "summary": "Curved colonnade and bell tower on Yersin. The view is from the street.",
           "attractionSlug": "education-college",
           "photo": "da-lat-education-college",
           "icon": "museum",
@@ -299,7 +298,7 @@
         },
         {
           "title": "Crazy House",
-          "summary": "Dang Viet Nga’s surreal guesthouse you can walk through. Skip it if you only wanted the lake.",
+          "summary": "Dang Viet Nga’s concrete guesthouse you can walk through. Skip it if you only wanted the lake.",
           "attractionSlug": "crazy-house",
           "photo": "da-lat-crazy-house",
           "icon": "view",
@@ -319,13 +318,13 @@
       "title": "Flowers and gardens",
       "summary": "Lam Vien Square is the lakeside stage for the December flower festival.",
       "body": [
-        "The 11th Flower Festival in 2026 opens at Lam Vien Square on 19 December and closes on 31 December, with displays into early January. Odd-year December is the pattern. Confirm the next year on arrival.",
-        "Displays that year are planned around Xuan Huong Lake. Road closures those nights are check on arrival. The ticketed city flower garden has no licensed photograph, so it is not a card."
+        "The Ministry of Culture, Sports and Tourism sets the 11th Flower Festival opening at 20:00 on 19 December 2026 at Lam Vien Square, and the closing, with the New Year programme, at 20:00 on 31 December 2026. Flower displays run about 18 December 2026 through 3 January 2027 around Xuan Huong Lake and the central parks. Vietnam National Authority of Tourism lists the festival in December of odd years.",
+        "The city flower garden is a separate walk at 2 Tran Nhan Tong. Visit Lâm Đồng’s operator-linked pages put the adult ticket near 100,000 VND and the hours near 06:30–18:00. A child band is printed near 50,000 VND."
       ],
       "cards": [
         {
           "title": "Lam Vien Square",
-          "summary": "Lakeside square, and the flower-festival opening and closing stage in December 2026.",
+          "summary": "The lakeside square, and the flower-festival stage for December 2026.",
           "attractionSlug": "lam-vien-square",
           "photo": "da-lat-lam-vien-square",
           "icon": "view"
@@ -334,40 +333,41 @@
     },
     {
       "title": "Cool-evening stroll",
-      "summary": "When the coast is still hot, the night market grills rice paper and the lake path stays lit.",
+      "summary": "When the coast is still hot, the lake path stays lit and the night market is up the slope.",
       "body": [
-        "After dark the night market lanes grill rice paper and pour hot soy milk. The shore of Xuan Huong stays lit. Bring a layer from November to January."
+        "Visit Lâm Đồng puts the night market at about 18:00–23:00. The stalls grill rice paper and pour hot soy milk. The shore of Xuan Huong is the walk after that. Bring a layer from November to January."
       ],
       "cards": [
         {
-          "title": "Da Lat Market",
-          "summary": "Night stalls after 18:00, with grilled rice paper and soy milk. The sloping halls of flowers and strawberries are the morning in the same market.",
-          "attractionSlug": "market",
-          "photo": "da-lat-market",
-          "icon": "food"
-        },
-        {
-          "title": "Xuan Huong at night",
-          "summary": "The lit lake path after the market. A walk or a pedal boat. Not the same outing as Tuyen Lam.",
+          "title": "Xuan Huong at dusk",
+          "summary": "The lake after the light drops, with lamps on the far shore.",
           "attractionSlug": "xuan-huong",
-          "photo": "da-lat-xuan-huong",
+          "photo": "da-lat-xuan-huong-2",
           "icon": "view"
         }
       ]
     }
   ],
   "season": {
-    "label": "December to March",
-    "note": "Vietnam Tourism names December to March as dry, cool, and sunny, with wild sunflowers on the hills in late autumn. Rain is concentrated May to October, and nights turn chilly November to January. Flower-festival displays in December 2026 are planned around Xuan Huong Lake; road closures those nights are check on arrival."
+    "label": "Cool dry months",
+    "note": "Vietnam National Authority of Tourism calls December to March dry, cool, and sunny, with wild sunflowers on the hills in late autumn. Rain gathers from May to October, and a jumper helps from November to January. In 2026 the flower festival opens at 20:00 on 19 December at Lam Vien Square and closes at 20:00 on 31 December, with displays around the lake from 18 December through 3 January."
   },
   "faqs": [
     {
-      "q": "Can you combine Da Lat and Mui Ne?",
-      "a": "They share a province after the merger and they are still a long ride apart. Fly or bus each one from Ho Chi Minh City rather than linking them in a day. Drive minutes are check on arrival."
+      "q": "Where should you sleep in Da Lat?",
+      "a": "Around Xuan Huong Lake, within a walk of the market slope and Lam Vien Square. A pine ridge above the lake is the quieter alternative. Vietnam National Authority of Tourism does not name a hotel street as the one to book."
     },
     {
-      "q": "How do you reach town from Lien Khuong Airport?",
-      "a": "The airport is about 30 km south on Highway 20. Vietnam Tourism names flights from Ha Noi and Ho Chi Minh City. Taxi minutes and fares are check on arrival."
+      "q": "Where is breakfast?",
+      "a": "The market slope: strawberries with condensed milk, banh mi from a counter, and hot soy milk. Stall hours are Check on arrival."
+    },
+    {
+      "q": "Where is the evening?",
+      "a": "The night market, about 18:00–23:00 on Visit Lâm Đồng’s lines, then the lit path around Xuan Huong Lake. It is a hill-town stroll, not a beach-bar strip."
+    },
+    {
+      "q": "When is the flower festival?",
+      "a": "The Ministry of Culture, Sports and Tourism sets the 2026 opening at 20:00 on 19 December at Lam Vien Square and the closing at 20:00 on 31 December. Displays run about 18 December 2026 through 3 January 2027. Vietnam National Authority of Tourism lists the festival in December of odd years. Later dates are Check on arrival. A 2026 visitor ticket is Check on arrival."
     }
   ]
 }

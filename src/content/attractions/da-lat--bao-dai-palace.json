@@ -3,12 +3,49 @@
   "placeSlug": "da-lat",
   "name": "Bao Dai Palace III",
   "nameVi": "Dinh III",
-  "summary": "The last emperor’s hill villa rooms and gardens south of the centre.",
+  "kicker": "The last emperor’s hill villa",
+  "summary": "Tour the rooms and garden at Bao Dai Palace III, 1 Trieu Viet Vuong, about 2.5 km south of the centre. Visit Lâm Đồng prints 07:00 to 17:30 and 25,000 VND. Tour desks print 60,000 VND. Allow about an hour. One ticket does not cover every Bao Dai site.",
   "dots": 3,
   "timeNeeded": "1 hour",
-  "fee": "Check on arrival",
-  "getThere": "Trieu Viet Vuong",
-  "district": "City centre",
+  "fee": "25,000 VND; tour desks 60,000 VND",
+  "getThere": "Taxi to 1 Trieu Viet Vuong, about 2.5 km south",
+  "district": "South of town",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The villa front at Bao Dai Palace III",
+  "notice": {
+    "title": "One ticket is this villa only",
+    "body": "The gate at 1 Trieu Viet Vuong is Palace III. One ticket does not cover every Bao Dai site. Ask before you add another house."
+  },
+  "body": [
+    "Palace III is the hill villa at 1 Trieu Viet Vuong, about 2.5 km south of the centre. The rooms and the garden are the visit. Visit Lâm Đồng prints about 60 minutes inside the hours 07:00 to 17:30.",
+    "The same provincial page prints 25,000 VND. Tour desks print 60,000 VND. Pay the figure the gate confirms, and do not average them. This ticket is for this villa. It does not automatically open every other Bao Dai house."
+  ],
+  "figures": [
+    {
+      "id": "da-lat-bao-dai-palace-2",
+      "caption": "The garden at Bao Dai Palace III",
+      "alt": "Garden in front of Bao Dai Palace III in Da Lat"
+    }
+  ],
+  "gettingThere": [
+    "Take a taxi from Xuan Huong Lake to 1 Trieu Viet Vuong. Visit Lâm Đồng puts the villa about 2.5 km south of the centre. The minutes and the fare are Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Xuan Huong Lake",
+      "body": "Taxi, about 2.5 km south to 1 Trieu Viet Vuong. Minutes and the fare are Check on arrival."
+    }
+  ],
+  "hours": "07:00 to 17:30",
+  "closed": "No weekly closing day is printed.",
+  "admissionNote": "Visit Lâm Đồng prints 25,000 VND. Tour desks print 60,000 VND. Both figures stay. Confirm at the gate. Hours on the provincial page are 07:00 to 17:30. The visit is about 60 minutes.",
+  "links": [
+    {
+      "label": "Visit Lâm Đồng, Dinh III",
+      "url": "https://visitlamdong.vn/vi/dinhiii",
+      "note": "Provincial tourism page, accessed 21 Oct 2026"
+    }
+  ],
   "interests": [
     "photography"
   ]

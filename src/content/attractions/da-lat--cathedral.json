@@ -3,11 +3,54 @@
   "placeSlug": "da-lat",
   "name": "Da Lat Cathedral",
   "nameVi": "Nhà thờ Con Gà",
-  "summary": "The pink cathedral and rooster-topped bell tower on Tran Phu.",
+  "kicker": "Rooster tower on Tran Phu",
+  "summary": "The cathedral on Tran Phu is the pink church with the rooster on the bell tower, completed in 1942. The outside look takes about 20 minutes and Visit Lâm Đồng lists the exterior as free. Interior hours are Check on arrival. It is not Domaine de Marie.",
   "dots": 3,
   "timeNeeded": "20 minutes",
   "fee": "Free to view outside",
-  "getThere": "Tran Phu",
-  "district": "City centre",
-  "interests": []
+  "getThere": "Walk from Xuan Huong Lake to Tran Phu",
+  "district": "Tran Phu",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The cathedral and its bell tower",
+  "notice": {
+    "title": "This is not Domaine de Marie",
+    "body": "The rooster tower is the cathedral on Tran Phu. Domaine de Marie is the pink convent church at 1 Ngo Quyen, a separate stop."
+  },
+  "body": [
+    "Stand on Tran Phu for the pink facade and the rooster on the bell tower. Visit Lâm Đồng and Vietnam Tourism put the completion in 1942. Morning light falls on the front. Twenty minutes is enough outside.",
+    "Do not mix this church with Domaine de Marie on Ngo Quyen. That convent is a different building. Interior hours here are Check on arrival. The published visit is the exterior."
+  ],
+  "figures": [
+    {
+      "id": "da-lat-cathedral-2",
+      "caption": "The bell tower from below",
+      "alt": "Looking up at the bell tower of Da Lat Cathedral"
+    }
+  ],
+  "gettingThere": [
+    "The cathedral is on Tran Phu, a walk from Xuan Huong Lake. A door number and a walking minute count are not printed. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Xuan Huong Lake",
+      "body": "Walk to Tran Phu. Minutes are Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "admissionNote": "Exterior viewing is free on Visit Lâm Đồng summaries. Interior hours are Check on arrival. No interior fee is printed.",
+  "links": [
+    {
+      "label": "Vietnam Tourism, things to do in Da Lat",
+      "url": "https://www.vietnam.travel/things-to-do/8-things-to-do-in-dalat",
+      "note": "Accessed 21 Oct 2026"
+    },
+    {
+      "label": "Vietnam National Authority of Tourism",
+      "url": "https://www.vietnam.travel/places-to-go/central-vietnam/dalat",
+      "note": "Colonial churches"
+    }
+  ],
+  "interests": [
+    "photography"
+  ]
 }

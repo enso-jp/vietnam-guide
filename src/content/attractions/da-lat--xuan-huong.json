@@ -3,12 +3,49 @@
   "placeSlug": "da-lat",
   "name": "Xuan Huong Lake",
   "nameVi": "Hồ Xuân Hương",
-  "summary": "The city lake for a walk, a pedal boat, or a cool evening loop. Bring a layer from November to January.",
+  "kicker": "The lake in the middle of town",
+  "summary": "Walk or pedal the shore of the lake in the middle of Da Lat. Visit Lâm Đồng lists the water as free. A loop takes 45 to 90 minutes. Bring a layer from November to January, and do not treat the shore as the whole highlands trip.",
   "dots": 4,
   "timeNeeded": "45–90 minutes",
   "fee": "Free",
-  "getThere": "Central",
-  "district": "City centre",
+  "getThere": "In the centre of Da Lat",
+  "district": "The lake",
+  "verified": "22 Oct 2026",
+  "heroCaption": "Xuan Huong Lake and the pines along the bank",
+  "body": [
+    "The shore path is the easy hour in Da Lat. Walk or jog the bank, or rent a pedal boat, and stop when you want tea. Pines and the town edge sit on the water. Visit Lâm Đồng lists the lake as free.",
+    "A loop takes 45 to 90 minutes. Late afternoon is the light Vietnam National Authority of Tourism points you toward, and a layer helps from November to January. The waterfalls and Lang Biang are half-day rides out. The lake is not the whole trip. Boat hire is Check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "da-lat-xuan-huong-2",
+      "caption": "Xuan Huong Lake at dusk",
+      "alt": "Xuan Huong Lake in the evening, with the far bank still visible"
+    }
+  ],
+  "gettingThere": [
+    "The lake is the centre of town. Hotels around the shore walk out onto the path. No ticket gate is printed."
+  ],
+  "legs": [
+    {
+      "heading": "From the market slope",
+      "body": "Walk down to the water. The market is the uphill neighbour. Minutes are not printed."
+    }
+  ],
+  "hours": "Check on arrival",
+  "admissionNote": "Visit Lâm Đồng lists the lake as free to walk. A pedal-boat hire price is not printed. That hire is Check on arrival.",
+  "links": [
+    {
+      "label": "Visit Lâm Đồng, Xuan Huong Lake",
+      "url": "https://visitlamdong.vn/vi/hoxuanhuong",
+      "note": "Provincial tourism page, accessed 21 Oct 2026"
+    },
+    {
+      "label": "Vietnam National Authority of Tourism",
+      "url": "https://www.vietnam.travel/places-to-go/central-vietnam/dalat",
+      "note": "Da Lat place page"
+    }
+  ],
   "interests": [
     "photography",
     "family"

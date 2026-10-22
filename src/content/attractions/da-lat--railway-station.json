@@ -3,12 +3,53 @@
   "placeSlug": "da-lat",
   "name": "Da Lat Railway Station",
   "nameVi": "Ga Đà Lạt",
-  "summary": "The 1930s art-deco station and the short tourist line toward Trai Mat.",
+  "kicker": "Art-deco station with DALAT on the facade",
+  "summary": "See the 1930s art-deco station and, if you want the ride, the short tourist train toward Trai Mat and Linh Phuoc. There is no through train to Ho Chi Minh City. The station fee is Check on arrival. A secondary desk prints 50,000 VND from 1 October 2024.",
   "dots": 4,
-  "timeNeeded": "45 minutes",
+  "timeNeeded": "30–60 minutes",
   "fee": "Check on arrival",
-  "getThere": "Quang Trung, west of the lake",
-  "district": "The hills",
+  "getThere": "A walk or taxi from Xuan Huong Lake",
+  "district": "The station",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The DALAT facade and the peaked roofs",
+  "notice": {
+    "title": "The line is a tourist train only",
+    "body": "Vietnam National Authority of Tourism describes the ride toward Trai Mat and Linh Phuoc. It is not a passenger train to Ho Chi Minh City."
+  },
+  "body": [
+    "The yellow facade carries DALAT under the peaked roofs. This is the 1930s art-deco station. Without the train, 30 to 60 minutes is enough to see the hall and the platform.",
+    "The ride that leaves here is the short tourist train toward Trai Mat and the mosaic pagoda at Linh Phuoc. Do not wait for a through train to Ho Chi Minh City. Visit Lâm Đồng did not settle the entry fee. Secondary desks print 50,000 VND from 1 October 2024. Ask at the door which figure applies. Hours are Check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "da-lat-railway-station-2",
+      "caption": "A tourist train car at the station",
+      "alt": "A wooden tourist train car beside Da Lat Railway Station"
+    }
+  ],
+  "gettingThere": [
+    "The station is west of the lake, in town. Walk or take a taxi from Xuan Huong Lake. A minute count is not printed. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Xuan Huong Lake",
+      "body": "Walk or taxi. Vietnam National Authority of Tourism treats the station as an in-town stop. Minutes and the taxi fare are Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "admissionNote": "Visit Lâm Đồng did not settle a station fee or the hours. Both are Check on arrival. Secondary desks, including Bao Van Hoa, print 50,000 VND for station entry from 1 October 2024. The train fare is a separate Check on arrival.",
+  "links": [
+    {
+      "label": "Visit Lâm Đồng, Da Lat station",
+      "url": "https://visitlamdong.vn/vi/gadalat",
+      "note": "Provincial tourism page, accessed 21 Oct 2026"
+    },
+    {
+      "label": "Vietnam National Authority of Tourism",
+      "url": "https://www.vietnam.travel/places-to-go/central-vietnam/dalat",
+      "note": "Tourist train to Trai Mat"
+    }
+  ],
   "interests": [
     "photography"
   ]

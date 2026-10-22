@@ -2,42 +2,107 @@
   "slug": "da-lat",
   "name": "Da Lat food guide",
   "placeSlug": "da-lat",
-  "summary": "Market strawberries, night-market rice paper, and avocado ice cream on cool evenings.",
-  "heroSlug": "da-lat-market",
-  "body": [],
-  "dishSlugs": ["kem-bo", "banh-trang-nuong", "ca-phe", "banh-mi"],
+  "summary": "Strawberries on the market slope, avocado ice cream from a counter, and grilled rice paper after dark.",
+  "heroSlug": "ca-phe",
+  "body": [
+    "Da Lat eats from the slope above Xuan Huong Lake and from the night stalls in the centre. Morning is produce, flowers, and a cup of strawberries with condensed milk. Afternoon is avocado ice cream, eaten cold while you stand. After dark the night market grills a rice sheet and pours hot soy milk.",
+    "Coffee is the other reason to sit down. Vietnam National Authority of Tourism puts the hills around Cau Dat in Arabica country and names farm tours, including K'Ho. The cup is hot or iced after the lake walk. A stall price is not printed.",
+    "The coast is a different ride. Vietnam National Authority of Tourism puts Nha Trang and Mui Ne a few hours away by car. The minutes are Check on arrival."
+  ],
+  "specialtiesLead": "Vietnam National Authority of Tourism names the market fruit, the avocado sweet, and the coffee hills. Visit Lâm Đồng names the night market for grilled rice paper and hot soy milk.",
+  "dishSlugs": [
+    "ca-phe",
+    "kem-bo",
+    "banh-trang-nuong",
+    "dau-sua",
+    "sua-dau-nanh",
+    "tra-atiso"
+  ],
   "sections": [
     {
-      "id": "where",
-      "heading": "Where to eat",
-      "nav": "Where to eat",
-      "paragraphs": [],
+      "id": "snacks",
+      "heading": "Market snacks",
+      "nav": "Snacks",
+      "paragraphs": [
+        "These are the cups and sheets the market and the night stalls sell. None of them has a printed stall price. The price is Check on arrival."
+      ],
       "spots": [
         {
-          "name": "Da Lat Market",
-          "nameVi": "Chợ Đà Lạt",
-          "photo": "da-lat-market",
-          "caption": "Morning produce and strawberry cups on the slope above the lake.",
-          "note": "Morning produce and strawberry cups on the slope above the lake."
+          "name": "Avocado ice cream",
+          "nameVi": "Kem bơ",
+          "address": "Market slope and the night market",
+          "note": "Blended avocado, eaten cold from a cup. Vietnam National Authority of Tourism names it as a Da Lat sweet. The stall price is Check on arrival.",
+          "dishSlug": "kem-bo"
         },
         {
-          "name": "Da Lat Night Market",
-          "nameVi": "Chợ đêm",
-          "photo": "da-lat-market",
-          "caption": "Grilled rice paper and soy milk after 18:00.",
-          "note": "Grilled rice paper and soy milk after 18:00."
+          "name": "Grilled rice paper",
+          "nameVi": "Bánh tráng nướng",
+          "address": "Night market, centre",
+          "note": "A crisp rice sheet grilled with toppings. Fold it and eat from the paper. Visit Lâm Đồng names it with the night stalls. The stall price is Check on arrival.",
+          "dishSlug": "banh-trang-nuong"
+        },
+        {
+          "name": "Strawberry with condensed milk",
+          "nameVi": "Dâu sữa",
+          "address": "Check on arrival",
+          "note": "Fresh strawberries with sweet milk, a cup or a bag at Da Lat Market in the daytime. The address, the hours, and the stall price are Check on arrival.",
+          "dishSlug": "dau-sua"
+        },
+        {
+          "name": "Hot soy milk",
+          "nameVi": "Sữa đậu nành nóng",
+          "address": "Market and the night market",
+          "note": "Sweet hot soy milk for a cool evening. Carry the cup while you walk. Visit Lâm Đồng puts the night stalls at about 18:00–23:00. The stall price is Check on arrival.",
+          "dishSlug": "sua-dau-nanh"
+        },
+        {
+          "name": "Artichoke tea",
+          "nameVi": "Trà atiso",
+          "address": "Market area",
+          "note": "Herbal tea from local artichoke, hot or bottled to take home. Vietnam Tourism Information lists it as a Lam Dong specialty. The price is Check on arrival.",
+          "dishSlug": "tra-atiso"
         }
       ]
     },
     {
-      "id": "neighbors",
-      "heading": "Neighbor bowls",
-      "nav": "Neighbors",
-      "paragraphs": [],
-      "dishSlugs": ["pho", "com-tam"]
+      "id": "casual",
+      "heading": "Casual dining",
+      "role": "casual",
+      "nav": "Markets",
+      "paragraphs": [
+        "The two doors are the day market on the slope and the night market in the centre. Vietnam National Authority of Tourism describes the day stalls as flowers and produce. Visit Lâm Đồng puts the night stalls at about 18:00–23:00."
+      ],
+      "spots": [
+        {
+          "name": "Da Lat Market",
+          "nameVi": "Chợ Đà Lạt",
+          "address": "Check on arrival",
+          "photo": "da-lat-market-2",
+          "caption": "Morning produce and strawberries on the slope above the lake.",
+          "note": "Morning flowers, produce, and strawberry cups on the slope above Xuan Huong Lake. The door is free. Visit Lâm Đồng does not print the address or the hours. Both are Check on arrival."
+        },
+        {
+          "name": "Da Lat Night Market",
+          "nameVi": "Chợ đêm Đà Lạt",
+          "address": "Centre",
+          "photo": "da-lat-market",
+          "caption": "Lit counters for grilled rice paper and soy milk.",
+          "note": "Grilled rice paper, hot soy milk, and skewers under the lights. Visit Lâm Đồng puts the stalls at about 18:00–23:00. Food prices are Check on arrival. A street number is Check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "heading": "Breakfast",
+      "role": "breakfast",
+      "nav": "Breakfast",
+      "paragraphs": [
+        "Morning near the market is a baguette in the hand, the same sandwich as any Vietnamese city. Vietnam National Authority of Tourism does not print a Da Lat-only filling list."
+      ],
+      "dishSlugs": ["banh-mi"]
     }
   ],
-  "verified": "21 Oct 2026",
-  "seoTitle": "Da Lat food guide — market, night stalls, and coffee hills",
-  "seoDescription": "Strawberries at the market, banh trang nuong at the night market, and coffee from the Lam Dong hills. Stall prices are check on arrival."
+  "verified": "22 Oct 2026",
+  "seoTitle": "Da Lat food guide — strawberries, rice paper, coffee",
+  "seoDescription": "Strawberries and avocado ice cream at Da Lat Market, grilled rice paper after dark, and Arabica from Cau Dat. Stall prices are Check on arrival."
 }
