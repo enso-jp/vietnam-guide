@@ -590,7 +590,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "bach-ma",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-22T04:24:44.919Z",
+    "by": "bach-ma-page",
+    "branch": "cursor/bach-ma-destination-fddc"
+  },
   "log": [
     {
       "at": "2026-10-22T04:15:33.533Z",
