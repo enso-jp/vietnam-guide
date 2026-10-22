@@ -1022,7 +1022,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "quy-nhon",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-22T02:14:25.533Z",
+    "by": "quy-nhon-page",
+    "branch": "cursor/quy-nhon-page-58a3"
+  },
   "log": [
     {
       "at": "2026-10-21T19:09:38.379Z",
