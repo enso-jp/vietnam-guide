@@ -3,11 +3,45 @@
   "placeSlug": "bach-ma",
   "name": "Summit villas",
   "nameVi": "Biệt thự trên đỉnh",
-  "summary": "Sleep here only if the park accepted a registration at least one day ahead. The night is what makes the walk to Hai Vong Dai a morning, 800 m from Morin. A day ticket sends you back to the visitor center before 17:00. The room rate was not on the May 2025 tariff.",
+  "kicker": "Summit villas in the forest",
+  "summary": "Sleep here only if the park accepted a registration at least one day ahead. That night makes the walk to Hải Vọng Đài a morning, 800 m from Morin. A day ticket sends you back to the visitor center before 17:00, so the evening is not yours. The room rate was not on the May 2025 tariff.",
   "dots": 4,
   "timeNeeded": "The night",
   "fee": "Check on arrival",
   "getThere": "On the summit, after a registration made at least one day ahead.",
   "verified": "22 Oct 2026",
+  "heroCaption": "A summit villa in the forest, with the trees still in the frame",
+  "notice": {
+    "title": "A day ticket does not include the night",
+    "body": "Be back at the visitor center before 17:00 unless the park has already accepted a registration made at least one day ahead. From 1 Jan 2026 the notice stops motor vehicles at km 12. In June 2026 the director described a different walk around the same slip. Confirm which rule the gate is using before you count on a car to the door."
+  },
+  "body": [
+    "The night is the villa the park has accepted, then the walk between the houses the trails use as starts. The pages name Morin, Kim Giao, Đỗ Quyên, and nhà Bảo An. Hải Vọng Đài starts at Morin. Ngũ Hồ starts near Kim Giao. The 2021 feature says 139 villas were finished in 1942, one of seven high resorts in Indochina, and that some are ruins and some were restored.",
+    "Who built them is not one story. VnExpress, 7 Mar 2025, says Raoul Desmarest, a public-works engineer, in March 1933, after days of walking, and about 139 villas on the mid-slope. The November 2024 handbook says M. Girard in 1932, the resort complete in 1942 from 1,200 m to a 1,440 m summit, with nearly 139 villas, a market, a post office, a grocery, and a 19 km road from the highway. Vietnam Airlines says Girard in 1932, 139 villas by 1937, a forest reserve in 1937, a South Vietnam protected area in 1962, and a national park in 1991. The 1962 line is that page only.",
+    "The tariff lists a large campfire from 19:30 to 22:00. The dong cell did not load, so the price is check on arrival. The hour the summit goes quiet after that was not printed. Do not plan the evening on a day ticket. The notice has already sent that traveler down."
+  ],
+  "figures": [
+    {
+      "id": "bach-ma-summit-villas-2",
+      "caption": "The front of the villa, with the forest behind the facade",
+      "alt": "Front of a yellow and stone villa among trees at Bach Ma"
+    }
+  ],
+  "gettingThere": [
+    "The villas are the summit base. A day from the gate still starts at the visitor center before 09:00. The 2021 feature puts the gate-to-summit road at about 16 km and about 4–5 hours on foot, or a car of 16 seats or fewer hired at the gate. The May 2025 shuttle table still prices that ride. The January 2026 notice stops motor vehicles at km 12."
+  ],
+  "legs": [
+    {
+      "heading": "From the gate",
+      "body": "The January 2026 notice says walk about 500 m across the slip at km 12, then about 7 km on foot to Hải Vọng Đài. On 13 Jun 2026 the director said about 600 m on a path around the slip, then a motorbike or more walking. The two accounts disagree, and the shuttle table is still on the site. Check on arrival which one the gate is using. Drive minutes from Hue, Lang Co, and Da Nang were not printed."
+    },
+    {
+      "heading": "From a booked night",
+      "body": "Hải Vọng Đài is 800 m of granite from biệt thự Morin. That is a short walk once you are at the villa. The published heights do not agree: about 1,430 m on the park trail pages, a historical summit of 1,440 m in the VnExpress handbook, and 1,450 m above the bell in the 2021 feature."
+    }
+  ],
+  "hours": "Day visitors return to the visitor center before 17:00. A summit night needs a registration at least one day ahead.",
+  "closed": "A day ticket does not cover the evening. The hour the summit goes quiet after the 19:30–22:00 campfire is check on arrival.",
+  "admissionNote": "Check on arrival for a room. The May 2025 tariff does not print a villa rate, and the newspaper rates are not used here. The park table of 1 May 2025 prints an adult ticket of 65,000 VND and a reduced ticket of 25,000 VND. VnExpress, updated 4 Feb 2025, prints 60,000 VND and 20,000 VND. The campfire price did not load on the park table.",
   "interests": ["photography"]
 }

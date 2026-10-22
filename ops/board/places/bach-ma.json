@@ -214,10 +214,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Villa page shell and two licensed frames. Room rate is Check on arrival. Editorial dot 4.",
-      "updated": "2026-10-22T04:41:32.750Z",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Opened both frames. The villa stays in the center, the forest is in the frame, credit Andre Hospers, CC BY 4.0. Fee is Check on arrival. No invented room rate.",
+      "updated": "2026-10-22T04:42:19.877Z",
       "reworkCount": 0
     },
     {
@@ -229,11 +229,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "unpublished: no licensed photo. Research stored. Page waits until publish is accepted.",
-      "updated": "2026-10-22T04:15:33.533Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the gate or the market with the lagoon or the mountain.",
+      "updated": "2026-10-22T04:42:20.054Z",
       "reworkCount": 0
     },
     {
@@ -245,11 +245,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "unpublished: no licensed photo. Research stored. Page waits until publish is accepted.",
-      "updated": "2026-10-22T04:15:33.533Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the center with the road or the forest.",
+      "updated": "2026-10-22T04:42:20.226Z",
       "reworkCount": 0
     },
     {
@@ -261,11 +261,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "unpublished: no licensed photo. Research stored. Page waits until publish is accepted.",
-      "updated": "2026-10-22T04:15:33.533Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of tents under the pines.",
+      "updated": "2026-10-22T04:42:20.404Z",
       "reworkCount": 0
     },
     {
@@ -593,6 +593,94 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-22T04:42:20.404Z",
+      "place": "bach-ma",
+      "stage": "quality",
+      "item": "bach-ma--thong-nang",
+      "status": "skipped",
+      "note": "No licensed photo of tents under the pines."
+    },
+    {
+      "at": "2026-10-22T04:42:20.343Z",
+      "place": "bach-ma",
+      "stage": "copy",
+      "item": "bach-ma--thong-nang",
+      "status": "skipped",
+      "note": "No licensed photo of tents under the pines."
+    },
+    {
+      "at": "2026-10-22T04:42:20.286Z",
+      "place": "bach-ma",
+      "stage": "page",
+      "item": "bach-ma--thong-nang",
+      "status": "skipped",
+      "note": "No licensed photo of tents under the pines."
+    },
+    {
+      "at": "2026-10-22T04:42:20.226Z",
+      "place": "bach-ma",
+      "stage": "quality",
+      "item": "bach-ma--visitor-center",
+      "status": "skipped",
+      "note": "No licensed photo of the center with the road or the forest."
+    },
+    {
+      "at": "2026-10-22T04:42:20.166Z",
+      "place": "bach-ma",
+      "stage": "copy",
+      "item": "bach-ma--visitor-center",
+      "status": "skipped",
+      "note": "No licensed photo of the center with the road or the forest."
+    },
+    {
+      "at": "2026-10-22T04:42:20.111Z",
+      "place": "bach-ma",
+      "stage": "page",
+      "item": "bach-ma--visitor-center",
+      "status": "skipped",
+      "note": "No licensed photo of the center with the road or the forest."
+    },
+    {
+      "at": "2026-10-22T04:42:20.054Z",
+      "place": "bach-ma",
+      "stage": "quality",
+      "item": "bach-ma--cau-hai-gate",
+      "status": "skipped",
+      "note": "No licensed photo of the gate or the market with the lagoon or the mountain."
+    },
+    {
+      "at": "2026-10-22T04:42:19.997Z",
+      "place": "bach-ma",
+      "stage": "copy",
+      "item": "bach-ma--cau-hai-gate",
+      "status": "skipped",
+      "note": "No licensed photo of the gate or the market with the lagoon or the mountain."
+    },
+    {
+      "at": "2026-10-22T04:42:19.936Z",
+      "place": "bach-ma",
+      "stage": "page",
+      "item": "bach-ma--cau-hai-gate",
+      "status": "skipped",
+      "note": "No licensed photo of the gate or the market with the lagoon or the mountain."
+    },
+    {
+      "at": "2026-10-22T04:42:19.877Z",
+      "place": "bach-ma",
+      "stage": "quality",
+      "item": "bach-ma--summit-villas",
+      "status": "checked",
+      "note": "Opened both frames. The villa stays in the center, the forest is in the frame, credit Andre Hospers, CC BY 4.0. Fee is Check on arrival. No invented room rate."
+    },
+    {
+      "at": "2026-10-22T04:42:19.813Z",
+      "place": "bach-ma",
+      "stage": "copy",
+      "item": "bach-ma--summit-villas",
+      "status": "enriched",
+      "note": "Kicker, notice, body, second photo, getting there from the gate and from the villa, and hours. Room rate stays Check on arrival. Both ticket tables and both km 12 accounts are printed."
+    },
+    {
       "at": "2026-10-22T04:41:32.750Z",
       "place": "bach-ma",
       "stage": "page",
@@ -663,94 +751,6 @@
       "item": "bach-ma--tri-sao",
       "status": "skipped",
       "note": "No licensed photo of the pool or the fall."
-    },
-    {
-      "at": "2026-10-22T04:40:46.864Z",
-      "place": "bach-ma",
-      "stage": "page",
-      "item": "bach-ma--tri-sao",
-      "status": "skipped",
-      "note": "No licensed photo of the pool or the fall."
-    },
-    {
-      "at": "2026-10-22T04:40:46.808Z",
-      "place": "bach-ma",
-      "stage": "quality",
-      "item": "bach-ma--ngu-ho",
-      "status": "skipped",
-      "note": "No licensed photo of two pools or a pool and a fall."
-    },
-    {
-      "at": "2026-10-22T04:40:46.752Z",
-      "place": "bach-ma",
-      "stage": "copy",
-      "item": "bach-ma--ngu-ho",
-      "status": "skipped",
-      "note": "No licensed photo of two pools or a pool and a fall."
-    },
-    {
-      "at": "2026-10-22T04:40:46.692Z",
-      "place": "bach-ma",
-      "stage": "page",
-      "item": "bach-ma--ngu-ho",
-      "status": "skipped",
-      "note": "No licensed photo of two pools or a pool and a fall."
-    },
-    {
-      "at": "2026-10-22T04:40:46.626Z",
-      "place": "bach-ma",
-      "stage": "quality",
-      "item": "bach-ma--do-quyen",
-      "status": "skipped",
-      "note": "One licensed photo of the cliff and no second frame, so no sight page. The fall stays on the interest row."
-    },
-    {
-      "at": "2026-10-22T04:40:46.569Z",
-      "place": "bach-ma",
-      "stage": "copy",
-      "item": "bach-ma--do-quyen",
-      "status": "skipped",
-      "note": "One licensed photo of the cliff and no second frame, so no sight page. The fall stays on the interest row."
-    },
-    {
-      "at": "2026-10-22T04:40:46.505Z",
-      "place": "bach-ma",
-      "stage": "page",
-      "item": "bach-ma--do-quyen",
-      "status": "skipped",
-      "note": "One licensed photo of the cliff and no second frame, so no sight page. The fall stays on the interest row."
-    },
-    {
-      "at": "2026-10-22T04:40:46.447Z",
-      "place": "bach-ma",
-      "stage": "quality",
-      "item": "bach-ma--hai-vong-dai",
-      "status": "skipped",
-      "note": "No licensed photo of the platform with the lagoon or the sea still in frame."
-    },
-    {
-      "at": "2026-10-22T04:40:46.383Z",
-      "place": "bach-ma",
-      "stage": "copy",
-      "item": "bach-ma--hai-vong-dai",
-      "status": "skipped",
-      "note": "No licensed photo of the platform with the lagoon or the sea still in frame."
-    },
-    {
-      "at": "2026-10-22T04:40:46.325Z",
-      "place": "bach-ma",
-      "stage": "page",
-      "item": "bach-ma--hai-vong-dai",
-      "status": "skipped",
-      "note": "No licensed photo of the platform with the lagoon or the sea still in frame."
-    },
-    {
-      "at": "2026-10-22T04:40:46.263Z",
-      "place": "bach-ma",
-      "stage": "quality",
-      "item": "bach-ma--bach-ma-national-park",
-      "status": "skipped",
-      "note": "No licensed photo with forest, a path, and the sea or the lagoon in one frame. The place hero is a fall lip and is not this card."
     }
   ]
 }
