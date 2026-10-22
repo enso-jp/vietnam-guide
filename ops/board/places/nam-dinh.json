@@ -894,7 +894,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "nam-dinh",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-22T07:02:32.800Z",
+    "by": "nam-dinh-page",
+    "branch": "cursor/nam-dinh-page-0665"
+  },
   "log": [
     {
       "at": "2026-10-22T06:52:42.080Z",
