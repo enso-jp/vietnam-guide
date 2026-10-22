@@ -1,0 +1,61 @@
+{
+  "slug": "quy-nhon-two-days",
+  "title": "Two days in Quy Nhon",
+  "kind": "trip",
+  "level": "day",
+  "duration": "2 days",
+  "spanDays": 2,
+  "placeSlug": "quy-nhon",
+  "budget": "Check on arrival",
+  "pace": "Relaxed",
+  "photo": "quy-nhon-eo-gio",
+  "summary": "The crescent and Xuân Diệu on the first day, then Eo Gió and Kỳ Co across Thị Nại. Ghềnh Ráng, about 3 km south, is the other day if you skip the peninsula.",
+  "days": [
+    {
+      "title": "Day 1 — Crescent and the bridge",
+      "body": "Swim the city beach, walk Nguyễn Tất Thành square after dark, and cross or photograph Thị Nại. The beach visit field is 60 minutes and a beach day is longer. The bridge visit field is 30 minutes. It is a road, not a ticketed walk.",
+      "placeSlug": "quy-nhon",
+      "photo": "quy-nhon-city-beach"
+    },
+    {
+      "title": "Day 2 — The peninsula",
+      "body": "Eo Gió, then Kỳ Co. Eo Gió is 25,000 đồng. Kỳ Co’s header prints 30,000–60,000 đồng and does not say what that buys, so read the board. If you would rather stay south of the center, Ghềnh Ráng is about 3 km and free. Bãi Xếp is 13 km on, and its fee is check on arrival.",
+      "placeSlug": "quy-nhon",
+      "photo": "quy-nhon-ky-co"
+    }
+  ],
+  "stops": [
+    {
+      "name": "City beach",
+      "minutes": 60,
+      "placeSlug": "quy-nhon",
+      "note": "Day one. The portal’s visit field is 60 minutes. A beach day is longer than that field. The beach is free."
+    },
+    {
+      "name": "Nguyen Tat Thanh square",
+      "minutes": 30,
+      "placeSlug": "quy-nhon",
+      "note": "Day one, after dark. The portal’s visit field is 30 minutes. The square is free."
+    },
+    {
+      "name": "Thi Nai bridge",
+      "minutes": 30,
+      "placeSlug": "quy-nhon",
+      "note": "Day one. The portal’s visit field is 30 minutes. It is a road. Minutes from the beach are check on arrival."
+    },
+    {
+      "name": "Eo Gio",
+      "minutes": 30,
+      "placeSlug": "quy-nhon",
+      "note": "Day two. The portal’s visit field is 30 minutes. The fee is 25,000 đồng. Kilometres from the beach are check on arrival."
+    },
+    {
+      "name": "Ky Co",
+      "minutes": 60,
+      "placeSlug": "quy-nhon",
+      "note": "Day two. The portal’s visit field is 60 minutes. A swim is longer than that field. Read the 30,000–60,000 đồng board before you pay."
+    }
+  ],
+  "seoTitle": "Two days in Quy Nhon",
+  "seoDescription": "Two days in Quy Nhon: the yellow crescent and Xuan Dieu, then Eo Gio and Ky Co across Thi Nai. Road minutes and the Ky Co price board are check on arrival."
+}

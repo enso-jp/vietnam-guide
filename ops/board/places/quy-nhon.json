@@ -55,21 +55,21 @@
       "reworkCount": 0
     },
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, local interests, and quy-nhon-two-days. Stops use the place until sight pages exist. No festival file: no licensed festival photo. No dining card yet: no licensed plate photo. Check on arrival includes road minutes, Phu Cat transfer, rail fares, what the Ky Co 30,000-60,000 and Cu Lao Xanh 200,000-350,000 fields buy, chair hire, the night-market street, and Trung Luong's header (free) versus the body (40,000 dong). Hero is the daytime crescent; no licensed night frame of Xuan Dieu. Side-trip placeholders: Banh It, Tay Son museum, Trung Luong, Go Boi, Nuoc Man, Quang Ngai, Song Cau, Ham Ho. Dots 4 proposed.",
+      "updated": "2026-10-22T02:41:18.779Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T19:09:38.379Z",
+      "status": "enriched",
+      "note": "Lede opens on the yellow sand and Xuan Dieu, then the stay-or-Da-Nang decision. Hero reviewed: daytime crescent, 16:9, CC BY-SA 3.0, Bui Thuy Dao Nguyen. No licensed night frame of the beach road. Season stays in season. Check on arrival left as written.",
+      "updated": "2026-10-22T02:42:21.119Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T19:09:38.379Z",
+      "status": "checked",
+      "note": "Read against the stored dossier. Corridor is south-central-highlands. Province line stays the portal's Binh Dinh. Dots 4. Ky Co and Cu Lao Xanh price fields stay check on arrival. No festival card, no resort card, no dish card. Hero is the daytime crescent.",
+      "updated": "2026-10-22T02:43:48.560Z",
       "reworkCount": 0
     },
     "food": {
@@ -1022,15 +1022,32 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "quy-nhon",
-    "stage": "destination",
-    "item": null,
-    "at": "2026-10-22T02:14:25.533Z",
-    "by": "quy-nhon-page",
-    "branch": "cursor/quy-nhon-page-58a3"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T02:43:48.560Z",
+      "place": "quy-nhon",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Read against the stored dossier. Corridor is south-central-highlands. Province line stays the portal's Binh Dinh. Dots 4. Ky Co and Cu Lao Xanh price fields stay check on arrival. No festival card, no resort card, no dish card. Hero is the daytime crescent."
+    },
+    {
+      "at": "2026-10-22T02:42:21.120Z",
+      "place": "quy-nhon",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Lede opens on the yellow sand and Xuan Dieu, then the stay-or-Da-Nang decision. Hero reviewed: daytime crescent, 16:9, CC BY-SA 3.0, Bui Thuy Dao Nguyen. No licensed night frame of the beach road. Season stays in season. Check on arrival left as written."
+    },
+    {
+      "at": "2026-10-22T02:41:18.780Z",
+      "place": "quy-nhon",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place shell, local interests, and quy-nhon-two-days. Stops use the place until sight pages exist. No festival file: no licensed festival photo. No dining card yet: no licensed plate photo. Check on arrival includes road minutes, Phu Cat transfer, rail fares, what the Ky Co 30,000-60,000 and Cu Lao Xanh 200,000-350,000 fields buy, chair hire, the night-market street, and Trung Luong's header (free) versus the body (40,000 dong). Hero is the daytime crescent; no licensed night frame of Xuan Dieu. Side-trip placeholders: Banh It, Tay Son museum, Trung Luong, Go Boi, Nuoc Man, Quang Ngai, Song Cau, Ham Ho. Dots 4 proposed."
+    },
     {
       "at": "2026-10-21T19:09:38.379Z",
       "place": "quy-nhon",
