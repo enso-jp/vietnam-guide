@@ -3,13 +3,20 @@ import Icon from './Icon.astro';
 import { getPlaces } from '../lib/content';
 import { stayLink } from '../lib/partners';
 
+interface Props {
+  placeSlug?: string;
+}
+const { placeSlug } = Astro.props;
 const places = getPlaces()
   .filter((place) => !place.parent && place.kind !== 'district')
   .sort((a, b) => a.name.localeCompare(b.name));
-const stayPlace = places.find((place) => place.slug === 'hanoi') || places[0];
+const stayPlace = places.find((place) => place.slug === placeSlug)
+  || places.find((place) => place.slug === 'hanoi')
+  || places[0];
 const stayDefault = stayPlace?.slug;
 const stayName = stayPlace?.name || 'Vietnam';
-const tripDefault = places.find((place) => place.slug === 'da-nang')?.slug || places[1]?.slug;
+const tripDefault = ['da-nang', 'hanoi', 'ho-chi-minh-city'].find((slug) => slug !== stayDefault && places.some((place) => place.slug === slug))
+  || places.find((place) => place.slug !== stayDefault)?.slug;
 const nights = [1, 2, 3, 4, 5, 6, 7, 10, 14];
 const adults = [1, 2, 3, 4, 5, 6];
 ---

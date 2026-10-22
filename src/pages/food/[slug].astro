@@ -2,13 +2,14 @@
 import { existsSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import Base from '../../layouts/Base.astro';
+import BookStay from '../../components/BookStay.astro';
 import Crumbs from '../../components/Crumbs.astro';
-import FoodTabs from '../../components/FoodTabs.astro';
 import Photo from '../../components/Photo.astro';
 import SectionNav from '../../components/SectionNav.astro';
-import { getDishes, getFoodGuides, getPlace, cardLine, pageDescription, placePath, placesForCityFood } from '../../lib/content';
+import { getDishes, getFoodGuides, getPlace, pageDescription, placePath, placesForCityFood } from '../../lib/content';
 import { photoPath } from '../../lib/photos';
 import { article, breadcrumbList } from '../../lib/schema';
+import type { Dish, FoodGuideRole, FoodSection, FoodSpot } from '../../lib/types';
 
 export function getStaticPaths() {
   const dishes = getDishes().map((dish) => ({ params: { slug: dish.slug }, props: { kind: 'dish' as const, dish, guide: null, place: null } }));
@@ -30,11 +31,10 @@ const description = kind === 'dish'
     ? pageDescription(guide.seoDescription, guide.summary, guide.body[0] || '')
     : pageDescription(place.eat[0] || place.summary, place.summary);
 const path = `/food/${kind === 'dish' ? dish.slug : kind === 'guide' ? guide.slug : place.slug}`;
-const leadSlug = kind === 'guide' && guide.heroSlug && photoPath(guide.heroSlug) ? guide.heroSlug : '';
 const image = kind === 'dish'
   ? (photoPath(dish.slug) || photoPath(city?.slug || ''))
   : kind === 'guide'
-    ? (photoPath(leadSlug) || photoPath(city?.slug || ''))
+    ? (photoPath(guide.heroSlug || '') || photoPath(city?.slug || ''))
     : photoPath(city?.slug || '');
 const crumbSchema = [
   { name: 'Food', path: '/food' },
@@ -42,28 +42,73 @@ const crumbSchema = [
 ];
 const creditsPath = join(process.cwd(), 'public', 'photos', 'credits.json');
 const credits: Record<string, { author?: string; license?: string }> = existsSync(creditsPath) ? JSON.parse(readFileSync(creditsPath, 'utf8')) : {};
-function dishWithPhoto(slug: string) {
-  const item = getDishes().find((entry) => entry.slug === slug);
-  return item && photoPath(item.slug) ? item : null;
+function licensedId(id?: string) {
+  if (!id || !photoPath(id)) return '';
+  const credit = credits[id];
+  return credit?.author && credit?.license ? id : '';
 }
-const leadDishes = kind === 'guide' ? guide.dishSlugs.map(dishWithPhoto).filter((item) => item !== null) : [];
-const guideBlocks = kind === 'guide'
-  ? (guide.sections || []).map((section) => {
-      const dishes = (section.dishSlugs || [])
-        .filter((slug) => !guide.dishSlugs.includes(slug))
-        .map(dishWithPhoto)
-        .filter((item) => item !== null);
-      const spots = (section.spots || []).filter((spot) => spot.photo && photoPath(spot.photo) && spot.caption);
-      return { section, dishes, spots };
-    }).filter((block) => block.dishes.length || block.spots.length)
-  : [];
-const guideNav = kind === 'guide' ? [
-  { id: 'dishes', label: 'Specialties' },
-  ...guideBlocks.filter((block) => !block.section.hideNav).map((block) => ({
-    id: block.section.id,
-    label: block.section.nav || block.section.heading,
-  })),
-] : [];
+function dishWithPhoto(slug: string): Dish | null {
+  const item = getDishes().find((entry) => entry.slug === slug);
+  return item && licensedId(item.slug) ? item : null;
+}
+const foodRoles: FoodGuideRole[] = ['regional', 'international', 'casual', 'fine', 'themed', 'breakfast'];
+const foodRoleLabel: Record<FoodGuideRole, string> = {
+  regional: 'Regional dishes',
+  international: 'International dining',
+  casual: 'Casual dining',
+  fine: 'Fine dining',
+  themed: 'Themed dining',
+  breakfast: 'Breakfast',
+};
+function sectionRole(section: FoodSection): FoodGuideRole | '' {
+  return section.role && foodRoles.includes(section.role) ? section.role : '';
+}
+const specialtySource = kind === 'guide' && guide ? guide.dishSlugs : kind === 'place' && place ? place.dishSlugs : [];
+const specialtyDishes = specialtySource.map(dishWithPhoto).filter((item): item is Dish => item !== null);
+const heroId = kind === 'guide' && guide ? licensedId(guide.heroSlug) : '';
+const heroCredit = heroId ? credits[heroId] : undefined;
+const heroDish = heroId ? getDishes().find((entry) => entry.slug === heroId) : undefined;
+const heroAlt = heroDish ? `${heroDish.name}, ${heroDish.nameVi}` : (guide?.name || 'Food');
+const introLead = kind === 'guide' && guide ? guide.summary : kind === 'place' && place ? (place.eat[0] || place.summary) : '';
+const introBody = kind === 'guide' && guide ? guide.body : kind === 'place' && place ? place.eat.slice(place.eat[0] ? 1 : 0) : [];
+const specialtiesLead = kind === 'guide' && guide ? guide.specialtiesLead : '';
+const specialtyTitle = city ? `${city.name} specialties` : 'Specialties';
+type GuideBlock = {
+  id: string;
+  label: string;
+  paragraphs: string[];
+  dishes: Dish[];
+  spots: FoodSpot[];
+};
+function guideBlock(section: FoodSection, label: string): GuideBlock | null {
+  const paragraphs = (section.paragraphs || []).filter((line) => line.trim());
+  const dishes = (section.dishSlugs || [])
+    .filter((slug) => !(guide?.dishSlugs || []).includes(slug))
+    .map((slug) => getDishes().find((entry) => entry.slug === slug) || null)
+    .filter((item): item is Dish => item !== null);
+  const spots = (section.spots || []).filter((spot) => spot.name);
+  if (!paragraphs.length && !dishes.length && !spots.length) return null;
+  return { id: section.id, label, paragraphs, dishes, spots };
+}
+const plainBlocks: GuideBlock[] = [];
+const roleBlocks: GuideBlock[] = [];
+if (kind === 'guide' && guide) {
+  const sections = guide.sections || [];
+  for (const section of sections) {
+    if (sectionRole(section)) continue;
+    const block = guideBlock(section, section.heading);
+    if (block) plainBlocks.push(block);
+  }
+  for (const role of foodRoles) {
+    for (const section of sections) {
+      if (sectionRole(section) !== role) continue;
+      const block = guideBlock(section, foodRoleLabel[role]);
+      if (block) roleBlocks.push(block);
+    }
+  }
+}
+const guideBlocks = [...plainBlocks, ...roleBlocks];
+const cityHref = kind === 'guide' && city ? placePath(city) : kind === 'place' && place ? `${placePath(place)}#eat` : '';
 const dishSections = kind === 'dish' && dish ? [
   ...(dish.history?.length ? [{ id: 'history', label: 'History', paragraphs: dish.history }] : []),
   ...(dish.culture?.length ? [{ id: 'culture', label: 'Why it matters', paragraphs: dish.culture }] : []),
@@ -135,73 +180,96 @@ const secondPhoto = kind === 'dish' && dish && photoPath(`${dish.slug}-2`) ? `${
         </div>
       </>
     )}
-    {kind === 'guide' && guide && (
-      <>
-        <h1>{guide.name}</h1>
-        <p class="lede">{guide.summary}</p>
-        {guide.verified && <p class="note">Facts verified {guide.verified}. Fees and hours change; confirm before you go.</p>}
-        <SectionNav label={`${guide.name} sections`} items={guideNav} />
-        <div class="reading place-body">
-          <section id="dishes" class="place-section">
-            <h2>Specialties</h2>
-            <div class="food-grid">
-              {leadDishes.map((item) => (
-                <a class="food-card" href={`/food/${item.slug}`}>
-                  <span class="media"><Photo id={item.slug} alt={`${item.name}, ${item.nameVi}`} priority={item.slug === leadSlug} /></span>
-                  <strong>{item.name} <span class="vi" lang="vi">{item.nameVi}</span></strong>
-                  <em>{cardLine(item.summary)}</em>
-                </a>
-              ))}
+    {kind !== 'dish' && (
+      <div class="place-grid food-guide">
+        <div>
+          <h1>{kind === 'guide' && guide ? guide.name : `${place?.name || 'City'} food`}</h1>
+          {heroId && (
+            <div class="place-photo">
+              <Photo id={heroId} alt={heroAlt} priority={true} />
             </div>
-          </section>
-          {guideBlocks.map((block) => (
-            <section id={block.section.id} class="place-section">
-              <h2>{block.section.heading}</h2>
-              <div class="food-grid">
-                {block.spots.map((spot) => (
-                  <article class="food-card">
-                    <span class="media"><Photo id={spot.photo || ''} alt={spot.name} /></span>
-                    <strong>{spot.name}{spot.nameVi && <> <span class="vi" lang="vi">{spot.nameVi}</span></>}</strong>
-                    <em>{spot.caption}</em>
+          )}
+          {heroCredit?.author && <p class="note photo-credit">Photo: {heroCredit.author} · {heroCredit.license}</p>}
+          <div class="reading">
+            <div class="food-intro" id="intro">
+              {introLead && <p class="lede">{introLead}</p>}
+              {introBody.map((paragraph) => <p>{paragraph}</p>)}
+              {kind === 'guide' && guide?.verified && <p class="note">Facts verified {guide.verified}. Fees and hours change; confirm before you go.</p>}
+            </div>
+            {specialtyDishes.length > 0 && (
+              <section id="specialties" class="place-section">
+                <h2>{specialtyTitle}</h2>
+                {specialtiesLead && <p>{specialtiesLead}</p>}
+                <ul class="food-highlights">
+                  {specialtyDishes.map((item) => (
+                    <li><a href={`/food/${item.slug}`}>{item.name}</a></li>
+                  ))}
+                </ul>
+                {specialtyDishes.map((item) => (
+                  <article class="food-row">
+                    <a class="food-row-photo" href={`/food/${item.slug}`}>
+                      <Photo id={item.slug} alt={`${item.name}, ${item.nameVi}`} />
+                    </a>
+                    <div>
+                      <h3><a href={`/food/${item.slug}`}>{item.name} <span class="vi" lang="vi">{item.nameVi}</span></a></h3>
+                      <p>{item.summary}</p>
+                    </div>
                   </article>
                 ))}
+              </section>
+            )}
+            {guideBlocks.map((block) => (
+              <section id={block.id} class="place-section">
+                <h2>{block.label}</h2>
+                {block.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
                 {block.dishes.map((item) => (
-                  <a class="food-card" href={`/food/${item.slug}`}>
-                    <span class="media"><Photo id={item.slug} alt={`${item.name}, ${item.nameVi}`} /></span>
-                    <strong>{item.name} <span class="vi" lang="vi">{item.nameVi}</span></strong>
-                    <em>{cardLine(item.summary)}</em>
-                  </a>
+                  licensedId(item.slug) ? (
+                    <article class="food-row">
+                      <a class="food-row-photo" href={`/food/${item.slug}`}>
+                        <Photo id={item.slug} alt={`${item.name}, ${item.nameVi}`} />
+                      </a>
+                      <div>
+                        <h3><a href={`/food/${item.slug}`}>{item.name} <span class="vi" lang="vi">{item.nameVi}</span></a></h3>
+                        <p>{item.summary}</p>
+                      </div>
+                    </article>
+                  ) : (
+                    <div class="spot">
+                      <strong><a href={`/food/${item.slug}`}>{item.name}</a>{item.nameVi && <> <span class="vi" lang="vi">{item.nameVi}</span></>}</strong>
+                      <p>{item.summary}</p>
+                    </div>
+                  )
                 ))}
-              </div>
-            </section>
-          ))}
-          {city && <p><a href={placePath(city)}>{city.name} travel guide</a></p>}
-        </div>
-      </>
-    )}
-    {kind === 'place' && place && (
-      <>
-        <h1>{place.name} food</h1>
-        <p class="lede">{place.eat[0] || place.summary}</p>
-        <FoodTabs current="cities" />
-        <div class="reading place-body">
-          <section id="overview" class="place-section">
-            {place.eat.map((paragraph) => <p>{paragraph}</p>)}
-            <p><a href={`${placePath(place)}#eat`}>{place.name} travel guide</a></p>
-          </section>
-          {place.dishSlugs.length > 0 && (
-            <section id="dishes" class="place-section">
-              <h2>Dishes</h2>
-              <ul class="guide-list">
-                {place.dishSlugs.map((slug) => {
-                  const item = getDishes().find((entry) => entry.slug === slug);
-                  return item ? <li><a class="guide-row" href={`/food/${item.slug}`}><strong>{item.name}</strong><p>{item.summary}</p></a></li> : null;
+                {block.spots.map((spot) => {
+                  const photo = licensedId(spot.photo);
+                  return photo ? (
+                    <article class="food-row">
+                      <div class="food-row-photo">
+                        <Photo id={photo} alt={spot.name} />
+                      </div>
+                      <div>
+                        <h3>{spot.name}{spot.nameVi && <> <span class="vi" lang="vi">{spot.nameVi}</span></>}</h3>
+                        {spot.address && <p class="spot-address">{spot.address}</p>}
+                        {(spot.note || spot.caption) && <p>{spot.note || spot.caption}</p>}
+                      </div>
+                    </article>
+                  ) : (
+                    <div class="spot">
+                      <strong>{spot.name}{spot.nameVi && <> <span class="vi" lang="vi">{spot.nameVi}</span></>}</strong>
+                      {spot.address && <p class="spot-address">{spot.address}</p>}
+                      {(spot.note || spot.caption) && <p>{spot.note || spot.caption}</p>}
+                    </div>
+                  );
                 })}
-              </ul>
-            </section>
-          )}
+              </section>
+            ))}
+            {cityHref && <p class="food-back"><a href={cityHref}>{city?.name} travel guide</a></p>}
+          </div>
         </div>
-      </>
+        <aside class="rail">
+          <BookStay placeSlug={city?.slug} />
+        </aside>
+      </div>
     )}
   </article>
 </Base>

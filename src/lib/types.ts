@@ -245,11 +245,13 @@ export interface FoodSpot {
   address?: string;
   /** Short caption. Hours stay out of this line. */
   caption?: string;
-  /** Older guides. The food template does not print this as a paragraph. */
+  /** Writeup beside a licensed photo. A spot with no photo stays off the page. */
   note?: string;
   photo?: string;
   dishSlug?: string;
 }
+
+export type FoodGuideRole = 'regional' | 'international' | 'casual' | 'fine' | 'themed' | 'breakfast';
 
 export interface FoodSection {
   id: string;
@@ -258,6 +260,11 @@ export interface FoodSection {
   nav?: string;
   /** Keep the heading on the page and out of the tab row. */
   hideNav?: boolean;
+  /**
+   * Japan Guide slot. Omit it and the section prints after the specialty essays
+   * under its own heading.
+   */
+  role?: FoodGuideRole;
   paragraphs: string[];
   dishSlugs?: string[];
   spots?: FoodSpot[];
@@ -269,7 +276,7 @@ export interface FoodGuide {
   placeSlug: string;
   summary: string;
   body: string[];
-  /** Dish photo under the title. Omit it and the page stays text until the specialty rows. */
+  /** Licensed dish photo above the intro. Omit it and the page starts with the intro. */
   heroSlug?: string;
   specialtiesLead?: string;
   sections?: FoodSection[];
