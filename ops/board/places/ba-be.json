@@ -55,9 +55,9 @@
       "reworkCount": 0
     },
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, Long Tong, one lake-day itinerary, and local interest groups. Fees and hours are check on arrival: no park tariff. Side trip placeholders: Na Hang, Nam Xuan Lac, Nui Coc, Bac Kan city. Dot 5 proposed because the lake is the reason for the night. Sac Thu left off: named, no date, no programme. Attraction files are the next stage.",
+      "updated": "2026-10-22T02:25:19.766Z",
       "reworkCount": 0
     },
     "destinationCopy": {
@@ -686,15 +686,16 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "ba-be",
-    "stage": "destination",
-    "item": null,
-    "at": "2026-10-22T02:12:02.954Z",
-    "by": "ba-be-page",
-    "branch": "cursor/ba-be-page-f620"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T02:25:19.767Z",
+      "place": "ba-be",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place shell, Long Tong, one lake-day itinerary, and local interest groups. Fees and hours are check on arrival: no park tariff. Side trip placeholders: Na Hang, Nam Xuan Lac, Nui Coc, Bac Kan city. Dot 5 proposed because the lake is the reason for the night. Sac Thu left off: named, no date, no programme. Attraction files are the next stage."
+    },
     {
       "at": "2026-10-21T18:53:36.522Z",
       "place": "ba-be",

@@ -1,0 +1,31 @@
+{
+  "slug": "ba-be-lake-day",
+  "title": "A day on Ba Be Lake",
+  "kind": "trip",
+  "level": "day",
+  "duration": "One full day between two nights",
+  "spanDays": 1,
+  "placeSlug": "ba-be",
+  "budget": "Check on arrival",
+  "pace": "Morning boat, night in the stilt house",
+  "summary": "Wake in Pac Ngoi or Bo Lu, take the boat through the open water, Puong, and Dau Dang if the circuit is the long one, and come back to the house. A park clock for that day was not found.",
+  "photo": "ba-be-lake",
+  "days": [
+    {
+      "title": "The lake morning",
+      "body": "Breakfast is the house meal. The middle of the day is the boat: open water, a landing at An Ma or Fairy Pond if the boatman includes it, the ride through Puong, and Dau Dang on the long circuit. VnExpress speaks of trips of 2–8 hours. A park duration was not found, so the length is check on arrival. The evening returns to the floor. Then singing is on if the house has called the troupe. Do not treat Hua Ma or the 5–6 hour Keo Siu walk as part of this same hour.",
+      "placeSlug": "ba-be",
+      "photo": "ba-be-lake"
+    }
+  ],
+  "stops": [
+    {
+      "name": "The morning boat",
+      "minutes": 120,
+      "placeSlug": "ba-be",
+      "note": "VnExpress speaks of trips of 2–8 hours. A park duration was not found. The 120 minutes on this row is the short end of that range, not a clock. Check on arrival."
+    }
+  ],
+  "seoTitle": "A day on Ba Be Lake",
+  "seoDescription": "One lake day from a stilt house at Pac Ngoi or Bo Lu. VnExpress puts the boat at 2–8 hours. A park clock and the fee are check on arrival."
+}
