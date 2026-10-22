@@ -61,9 +61,9 @@
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T18:40:18.808Z",
+      "status": "enriched",
+      "note": "Hero opened: town shore, boats, casuarina, ridge. Pier 914 is not claimed in that frame. Season stays in season. questions.md lists the Check on arrival clocks. The itinerary prints 45 minutes only for the sourced boat.",
+      "updated": "2026-10-22T02:43:02.156Z",
       "reworkCount": 0
     },
     "destinationQuality": {
@@ -486,10 +486,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "not_started",
+      "copy": "enriched",
       "quality": "not_started",
-      "note": "2026 dates from the special-zone notice. Photo is the cemetery gate, not the vigil. Later dates check on arrival.",
-      "updated": "2026-10-22T02:40:57.514Z",
+      "note": "2026 dates from the special-zone notice. Photo is the cemetery gate, not the vigil.",
+      "updated": "2026-10-22T02:43:02.062Z",
       "reworkCount": 0
     },
     {
@@ -502,10 +502,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "not_started",
+      "copy": "enriched",
       "quality": "not_started",
-      "note": "Lunar 17-18 of the 10th month. No licensed photo of the rite, so the card uses the place photograph. Solar dates check on arrival.",
-      "updated": "2026-10-22T02:40:57.544Z",
+      "note": "Lunar dates only. No rite photo.",
+      "updated": "2026-10-22T02:43:02.093Z",
       "reworkCount": 0
     },
     {
@@ -518,16 +518,24 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "not_started",
+      "copy": "enriched",
       "quality": "not_started",
-      "note": "Hours and caps from the August 2025 notice. Photo is Hon Bay Canh, not a turtle. Nesting months check on arrival.",
-      "updated": "2026-10-22T02:40:57.574Z",
+      "note": "Hours from the August 2025 notice. Photo is the islet, not a turtle.",
+      "updated": "2026-10-22T02:43:02.122Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T02:43:02.157Z",
+      "place": "con-dao",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Hero opened: town shore, boats, casuarina, ridge. Pier 914 is not claimed in that frame. Season stays in season. questions.md lists the Check on arrival clocks. The itinerary prints 45 minutes only for the sourced boat."
+    },
     {
       "at": "2026-10-22T02:40:57.604Z",
       "place": "con-dao",
