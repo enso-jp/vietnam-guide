@@ -17,8 +17,8 @@
   "bestMonths": "January to August",
   "verified": "22 Oct 2026",
   "interests": {
-    "beaches": 5,
     "food": 4,
+    "beaches": 5,
     "islands": 4,
     "resortLiving": 4,
     "family": 3,
@@ -73,6 +73,36 @@
   "interestsBody": [
     "Use the city in this order. Swim or walk Trần Phú. Eat the Ninh Hòa dishes the provincial pages name. Cross to Hòn Tre or swim at Hòn Mun. Climb to the Cham towers and the white Buddha if the day still has light.",
     "The night is the sand and the walking street, not a second beach. The island stay Vietnam Tourism names for families is Vinpearl Resort and Spa Nha Trang Bay, on Hòn Tre."
+  ],
+  "interestCards": [
+    {
+      "title": "Dining and F&B",
+      "summary": "The night-market street behind 46 Trần Phú, and the dishes named on the provincial pages.",
+      "photo": "nha-trang-night-market",
+      "icon": "food",
+      "to": "food"
+    },
+    {
+      "title": "The city sand",
+      "summary": "Seven kilometres of city sand. A beach ticket was not printed.",
+      "attractionSlug": "beach",
+      "photo": "nha-trang-beach",
+      "icon": "beach"
+    },
+    {
+      "title": "The bay",
+      "summary": "The sea crossing the bureau page measures at 3,320 m.",
+      "attractionSlug": "hon-tre",
+      "photo": "nha-trang-hon-tre",
+      "icon": "view"
+    },
+    {
+      "title": "The Cham hill",
+      "summary": "The brick towers. Read both hour lines before you go.",
+      "attractionSlug": "po-nagar",
+      "photo": "nha-trang-po-nagar",
+      "icon": "view"
+    }
   ],
   "interestGroups": [
     {
