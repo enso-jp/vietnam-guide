@@ -98,14 +98,14 @@
       "track": "unit",
       "name": "Valley terraces",
       "slug": "valley-terraces",
-      "file": null,
+      "file": "src/content/attractions/pu-luong--valley-terraces.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "The place hero carries the terraces. Not a second slug.",
-      "updated": "2026-10-21T18:43:34.606Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Hero is still terraces and stilt roofs. Sight frames are the rice walls and two walkers. Interest frames are the hamlet and a house on posts. Dots unchanged. No guessed pin. Left out every other named sight, dish, and festival for lack of a licensed photo of that subject.",
+      "updated": "2026-10-22T09:12:30.708Z",
       "reworkCount": 0
     },
     {
@@ -753,6 +753,30 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-22T09:12:30.708Z",
+      "place": "pu-luong",
+      "stage": "quality",
+      "item": "pu-luong--valley-terraces",
+      "status": "checked",
+      "note": "Hero is still terraces and stilt roofs. Sight frames are the rice walls and two walkers. Interest frames are the hamlet and a house on posts. Dots unchanged. No guessed pin. Left out every other named sight, dish, and festival for lack of a licensed photo of that subject."
+    },
+    {
+      "at": "2026-10-22T09:12:30.642Z",
+      "place": "pu-luong",
+      "stage": "copy",
+      "item": "pu-luong--valley-terraces",
+      "status": "enriched",
+      "note": "Terrace lede, both rice windows, both Hanoi distances, fee and hour check on arrival. Left out plate photos, so no dish cards and no food guide."
+    },
+    {
+      "at": "2026-10-22T09:12:30.571Z",
+      "place": "pu-luong",
+      "stage": "page",
+      "item": "pu-luong--valley-terraces",
+      "status": "paged",
+      "note": "One sight page for the valley terraces. Left out Ban Don, Ban Hieu, Son-Ba-Muoi, the peak, Kho Muong, Hang Doi, Pa Co pine, Khuyn, Canh Nang, and Pho Doan: no licensed photo of that subject."
+    },
+    {
       "at": "2026-10-22T02:32:38.289Z",
       "place": "pu-luong",
       "stage": "quality",
@@ -887,30 +911,6 @@
       "item": "pu-luong--ban-don",
       "status": "skipped",
       "note": "No public page to copy."
-    },
-    {
-      "at": "2026-10-22T02:32:37.285Z",
-      "place": "pu-luong",
-      "stage": "page",
-      "item": "pu-luong--ban-don",
-      "status": "skipped",
-      "note": "No licensed photo of this sight. Commons hits were a different subject or unlabeled. Page skipped. See research/pu-luong/attractions."
-    },
-    {
-      "at": "2026-10-22T02:32:00.421Z",
-      "place": "pu-luong",
-      "stage": "foodQuality",
-      "item": null,
-      "status": "skipped",
-      "note": "No food guide and no plate photos to check."
-    },
-    {
-      "at": "2026-10-22T02:32:00.353Z",
-      "place": "pu-luong",
-      "stage": "foodCopy",
-      "item": null,
-      "status": "skipped",
-      "note": "No food guide to copy. Eat text on the place already names the dishes and says prices are check on arrival."
     }
   ]
 }
