@@ -574,7 +574,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "quang-ngai",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-22T04:26:49.933Z",
+    "by": "quang-ngai-destination",
+    "branch": "cursor/quang-ngai-destination-4da0"
+  },
   "log": [
     {
       "at": "2026-10-22T04:18:15.572Z",
