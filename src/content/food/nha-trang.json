@@ -38,7 +38,7 @@
       "spots": [
         {
           "name": "Nem nướng",
-          "note": "Grilled pork paste from Ninh Hòa. The provincial page describes skewers, bánh tráng phơi sương, herbs, pickles, fried ram, and a yellow-orange sauce of lean pork, liver, shrimp, sticky rice, and fermented bean. No plate photo.",
+          "note": "Grilled pork paste from Ninh Hòa. The provincial page describes skewers, bánh tráng phơi sương, herbs, pickles, fried ram, and a yellow-orange sauce of lean pork, liver, shrimp, sticky rice, and fermented bean.",
           "nameVi": "Nem nướng Nha Trang",
           "address": "Nha Trang, from Ninh Hòa"
         },
@@ -50,7 +50,7 @@
         },
         {
           "name": "Bánh căn",
-          "note": "Named at the night market with bún chả and chả cá. The page does not say what is in it. No plate photo.",
+          "note": "Named at the night market with bún chả and chả cá. The page does not say what is in it.",
           "nameVi": "Bánh căn",
           "address": "Behind 46 Trần Phú"
         },
@@ -144,7 +144,7 @@
         },
         {
           "name": "Yến sào",
-          "note": "Swiftlet nests. Hòn Nội on the bureau page, Yến Island on Vietnam Tourism. Products named: raw nests, cleaned nests, and nest drinks, including Sanest. No bowl photo.",
+          "note": "Swiftlet nests. Hòn Nội on the bureau page, Yến Island on Vietnam Tourism. Products named: raw nests, cleaned nests, and nest drinks, including Sanest.",
           "nameVi": "Yến sào",
           "address": "Hòn Nội / Yến Island"
         }
@@ -152,6 +152,7 @@
     },
     {
       "id": "international",
+      "role": "international",
       "heading": "International dining",
       "nav": "International",
       "paragraphs": [
@@ -233,6 +234,7 @@
     },
     {
       "id": "casual",
+      "role": "casual",
       "heading": "Casual dining",
       "nav": "Casual",
       "paragraphs": [
@@ -386,6 +388,7 @@
     },
     {
       "id": "fine",
+      "role": "fine",
       "heading": "Fine dining",
       "nav": "Fine dining",
       "paragraphs": [
@@ -401,6 +404,7 @@
     },
     {
       "id": "themed",
+      "role": "themed",
       "heading": "Themed dining",
       "nav": "Themed",
       "paragraphs": [
@@ -446,6 +450,7 @@
     },
     {
       "id": "breakfast",
+      "role": "breakfast",
       "heading": "Breakfast",
       "nav": "Breakfast",
       "paragraphs": [
