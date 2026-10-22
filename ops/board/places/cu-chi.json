@@ -25,15 +25,15 @@
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T17:07:51.925Z",
+      "status": "enriched",
+      "note": "Hero is the tunnel entrance under the tree, Balon Greyjoy, CC0. The Phước Thạnh stall is gone. Prose names both gates and both ticket lines. Season chip is the 17:00 gate, not a weather line.",
+      "updated": "2026-10-22T17:35:41.538Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T17:07:51.925Z",
+      "status": "checked",
+      "note": "Hero is a tunnel entrance in the ground. Both gates, both ticket lines, and both distances stay. No pin. No food chip. Season chip is the 17:00 gate.",
+      "updated": "2026-10-22T17:36:20.772Z",
       "reworkCount": 0
     },
     "food": {
@@ -368,13 +368,29 @@
   "questions": [],
   "claim": {
     "place": "cu-chi",
-    "stage": "destinationCopy",
+    "stage": "food",
     "item": null,
-    "at": "2026-10-22T17:34:25.229Z",
+    "at": "2026-10-22T17:36:20.807Z",
     "by": "cu-chi-destination",
     "branch": "cursor/cu-chi-destination-f4b0"
   },
   "log": [
+    {
+      "at": "2026-10-22T17:36:20.773Z",
+      "place": "cu-chi",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Hero is a tunnel entrance in the ground. Both gates, both ticket lines, and both distances stay. No pin. No food chip. Season chip is the 17:00 gate."
+    },
+    {
+      "at": "2026-10-22T17:35:41.538Z",
+      "place": "cu-chi",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Hero is the tunnel entrance under the tree, Balon Greyjoy, CC0. The Phước Thạnh stall is gone. Prose names both gates and both ticket lines. Season chip is the 17:00 gate, not a weather line."
+    },
     {
       "at": "2026-10-22T17:34:25.196Z",
       "place": "cu-chi",
