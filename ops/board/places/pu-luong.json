@@ -750,7 +750,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "pu-luong",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-22T02:11:57.973Z",
+    "by": "pu-luong-page",
+    "branch": "cursor/pu-luong-page-1afc"
+  },
   "log": [
     {
       "at": "2026-10-21T18:43:34.606Z",
