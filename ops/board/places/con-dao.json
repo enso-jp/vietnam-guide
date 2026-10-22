@@ -526,7 +526,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "con-dao",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-22T02:12:36.534Z",
+    "by": "con-dao-page",
+    "branch": "cursor/con-dao-page-86b6"
+  },
   "log": [
     {
       "at": "2026-10-21T18:40:18.808Z",
