@@ -13,3 +13,4 @@ These stay “Check on arrival” on the public page. The dossier already left t
 - Summit kitchen hours, a market clock, and stall prices.
 - The next rhododendron date, and a surveyed map pin. The map uses the camera position on the licensed villa photograph.
 - Licensed photographs of Hải Vọng Đài with the shore in frame, Ngũ Hồ, Trĩ Sao, Chò đen, the singing stones, the gate, the camps, and a plate from chợ Cầu Hai. Those stay off the sight-card grid. Đỗ Quyên has one licensed photograph and no second frame, so it stays off the sight-card grid and on the interest row.
+- No licensed frame shows the lookout with the lagoon or the sea. The place hero is the summit villa, Andre Hospers, and the page says that building is not Hải Vọng Đài. The Duncan Wright waterfall stays on the forest interest card. It is not labeled Đỗ Quyên.
