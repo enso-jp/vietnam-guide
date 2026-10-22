@@ -2,14 +2,57 @@
   "slug": "dong-xuan",
   "placeSlug": "old-quarter",
   "name": "Dong Xuan Market",
-  "summary": "The quarter’s main covered market, useful for a look at wholesale goods more than for souvenirs.",
+  "nameVi": "Chợ Đồng Xuân",
+  "kicker": "Covered market at the north end",
+  "summary": "Dong Xuan is the covered market at the north end of the lanes, on Dong Xuan street. Dan Tri prints 06:00–18:00 every day, and 22:30 on Friday, Saturday, and Sunday. Travel.com.vn says stall hours can change and that entry has no ticket. Dan Tri prints no fee. The lake-to-market distance is printed as both about 800 m and about 2 km. Confirm the door when you arrive.",
   "dots": 3,
-  "timeNeeded": "30 minutes",
-  "fee": "Free to enter",
-  "getThere": "Walk",
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Walk north through the lanes",
+  "district": "The market",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The Chợ Đồng Xuân front, from the street",
+  "notice": {
+    "title": "Hours and the distance both split",
+    "body": "Dan Tri prints a clock and about 2 km from the lake. Travel.com.vn prints about 800 m and says the stall hours can change. Confirm the door the day you go."
+  },
+  "body": [
+    "The market is the covered hall at the north end of the lanes. The front carries the name Chợ Đồng Xuân. Dan Tri describes three floors, with clothes and accessories on the ground floor and a dry-goods area called Bac Qua. Travel.com.vn places it on Dong Xuan street, Hoan Kiem, and puts the management office at 1A Cau Dong.",
+    "Dan Tri prints 06:00–18:00 every day, and 22:30 on Friday, Saturday, and Sunday. Travel.com.vn says stall hours can change, especially around holidays or while the hall is being repaired, and that you should check before you go. Travel.com.vn also says there is no entry ticket, and that shopping and food are paid separately. Dan Tri does not print a fee. Treat the entry price as check on arrival until the door confirms it.",
+    "The walk from the lake is not one number. Dan Tri prints about 2 km from Hoan Kiem. Travel.com.vn prints about 800 m. Neither page is a measured minute count you can bank. Minutes: check on arrival. Inside, the cloth stalls are the frame people recognize. Wholesale goods are the point of the hall more than a souvenir list."
+  ],
+  "figures": [
+    {
+      "id": "old-quarter-dong-xuan-2",
+      "caption": "Cloth stalls inside Dong Xuan",
+      "alt": "Stacks of colorful cloth inside Dong Xuan Market"
+    }
+  ],
+  "gettingThere": [
+    "Walk north from Hoan Kiem Lake through the lanes to Dong Xuan street. Dan Tri prints about 2 km. Travel.com.vn prints about 800 m. No operator page printed a minute count. Minutes: check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Hoan Kiem Lake",
+      "body": "Walk north. Dan Tri prints about 2 km to the market. Travel.com.vn prints about 800 m. Minutes: check on arrival."
+    }
+  ],
+  "hours": "Dan Tri, 27 Oct 2023: 06:00–18:00 every day, and until 22:30 on Friday, Saturday, and Sunday. Travel.com.vn: stall hours can change and should be checked before you go.",
+  "closed": "Dan Tri prints every day of the week. No weekly close is printed on that page.",
+  "admissionNote": "Travel.com.vn states there is no entry ticket. Shopping, food, and other services are paid separately. Dan Tri does not print a fee. Confirm at the door. No stall price is printed here.",
+  "links": [
+    {
+      "label": "Dan Tri on the market hours",
+      "url": "https://dantri.com.vn/kinh-doanh/nghich-canh-cho-dong-xuan-buon-ban-van-di-xuong-du-nuom-nuop-khach-du-lich-20231027182001794.htm",
+      "note": "27 Oct 2023. Prints 06:00–18:00 and a Friday–Sunday close of 22:30, and about 2 km from Hoan Kiem"
+    },
+    {
+      "label": "Travel.com.vn market note",
+      "url": "https://travel.com.vn/tin-tuc-du-lich/cho-dong-xuan-v18472.aspx",
+      "note": "Prints no entry ticket, about 800 m from the lake, and says stall hours can change"
+    }
+  ],
   "interests": [
     "markets"
-  ],
-  "nameVi": "Chợ Đồng Xuân",
-  "district": "Old Quarter"
+  ]
 }

@@ -9,85 +9,85 @@
   "priority": 11,
   "note": "",
   "coverage": {
-    "sights": "missing",
-    "areas": "missing",
-    "foodStreets": "missing",
-    "nightlife": "missing",
-    "lifestyle": "missing",
-    "events": "missing",
-    "sideTrips": "missing"
+    "sights": "filled",
+    "areas": "filled",
+    "foodStreets": "filled",
+    "nightlife": "filled",
+    "lifestyle": "filled",
+    "events": "none",
+    "sideTrips": "filled"
   },
   "stages": {
     "destination": {
-      "status": "shell",
-      "note": "A place file exists. It has not been set up from a stored dossier.",
-      "updated": null,
+      "status": "paged",
+      "note": "Walk page: tube-house hero, Bach Ma, Dong Xuan, two stay areas. Dining card points at the Hanoi food guide. No second dish list.",
+      "updated": "2026-10-22T10:33:35.366Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "enriched",
+      "note": "Place prose names both centuries, both Dong Xuan distances, and the Hanoi food guide as the menu.",
+      "updated": "2026-10-22T10:33:35.429Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "checked",
+      "note": "Hero is Hang Dao tube houses. Bach Ma is the temple front. Dong Xuan is the market hall. Silk card is cloth. Dots unchanged. No second food file.",
+      "updated": "2026-10-22T10:33:35.495Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "skipped",
+      "note": "Left out a second food guide. The Hanoi food guide is being widened and this page only points at it.",
+      "updated": "2026-10-22T10:33:35.560Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "skipped",
+      "note": "No Old Quarter food file to copy. Dishes stay on the shared records and the Hanoi guide.",
+      "updated": "2026-10-22T10:33:35.625Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "skipped",
+      "note": "No Old Quarter food guide to check. Dining note on the place points at Hanoi.",
+      "updated": "2026-10-22T10:33:35.686Z",
       "reworkCount": 0
     },
     "researchBase": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "stored",
+      "note": "Left out a map point and a minute count. No listed source prints a coordinate for the Old Quarter.",
+      "updated": "2026-10-22T10:32:40.369Z",
       "reworkCount": 0
     },
     "researchAttractions": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "stored",
+      "note": "Left out Ma May house, O Quan Chuong, and Kim Ngan. No new card without a licensed photo of that subject.",
+      "updated": "2026-10-22T10:32:40.627Z",
       "reworkCount": 0
     },
     "researchFood": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "stored",
+      "note": "Left out a second dish guide and left out Cafe Giang and cha ca La Vong as picks. The menu stays on the Hanoi food guide.",
+      "updated": "2026-10-22T10:32:40.940Z",
       "reworkCount": 0
     },
     "researchNightlife": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "stored",
+      "note": "Left out a night card for Ta Hien. No licensed photo of that corner was filed.",
+      "updated": "2026-10-22T10:32:41.097Z",
       "reworkCount": 0
     },
     "researchLifestyle": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "stored",
+      "note": "Left out a separate lifestyle card. Breakfast stays on the Hanoi food guide.",
+      "updated": "2026-10-22T10:32:41.253Z",
       "reworkCount": 0
     },
     "researchContext": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "stored",
+      "note": "Left out a festival page. No dated event was sourced. Side trips stay the parent city and the Ninh Binh route already listed.",
+      "updated": "2026-10-22T10:32:41.391Z",
       "reworkCount": 0
     }
   },
@@ -100,12 +100,12 @@
       "slug": "bach-ma",
       "file": "src/content/attractions/old-quarter--bach-ma.json",
       "source": "published",
-      "research": "not_started",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "research": "stored",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Subject is the temple. Dot stays 3. No coordinate.",
+      "updated": "2026-10-22T10:33:35.875Z",
       "reworkCount": 0
     },
     {
@@ -116,12 +116,12 @@
       "slug": "dong-xuan",
       "file": "src/content/attractions/old-quarter--dong-xuan.json",
       "source": "published",
-      "research": "not_started",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": null,
+      "research": "stored",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Subject is the market. Dot stays 3. Fee stays check on arrival.",
+      "updated": "2026-10-22T10:33:36.061Z",
       "reworkCount": 0
     },
     {
@@ -132,12 +132,12 @@
       "slug": "bun-cha",
       "file": "src/content/dishes/bun-cha.json",
       "source": "published",
-      "research": "not_started",
+      "research": "stored",
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
-      "updated": null,
+      "note": "Already on the bun cha record. Left out of a second Old Quarter dish guide.",
+      "updated": "2026-10-22T10:32:40.720Z",
       "reworkCount": 0
     },
     {
@@ -148,12 +148,12 @@
       "slug": "pho",
       "file": "src/content/dishes/pho.json",
       "source": "published",
-      "research": "not_started",
+      "research": "stored",
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
-      "updated": null,
+      "note": "Already on the pho record. Left out of a second Old Quarter dish guide.",
+      "updated": "2026-10-22T10:32:40.689Z",
       "reworkCount": 0
     },
     {
@@ -164,16 +164,257 @@
       "slug": "ca-phe",
       "file": "src/content/dishes/ca-phe.json",
       "source": "published",
-      "research": "not_started",
+      "research": "stored",
       "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Bundled into the food stage. A shared dish only gains sentences for this place.",
-      "updated": null,
+      "note": "Egg coffee stays on the coffee record. Cafe Giang is not a pick here.",
+      "updated": "2026-10-22T10:32:40.752Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--lanes",
+      "kind": "area",
+      "track": "bundled",
+      "name": "The lanes",
+      "slug": "lanes",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "The place page is this walk. Left out as a separate sight.",
+      "updated": "2026-10-22T10:33:35.164Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--lane-kitchens",
+      "kind": "food-street",
+      "track": "bundled",
+      "name": "Lane kitchens",
+      "slug": "lane-kitchens",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Pho and bun cha in the lanes. The Hanoi food guide is the menu.",
+      "updated": "2026-10-22T10:33:35.200Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--dong-xuan-hall",
+      "kind": "food-street",
+      "track": "bundled",
+      "name": "Dong Xuan hall",
+      "slug": "dong-xuan-hall",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "The market is already the Dong Xuan sight. No second page.",
+      "updated": "2026-10-22T10:33:35.234Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--ta-hien",
+      "kind": "nightlife",
+      "track": "bundled",
+      "name": "Ta Hien corner",
+      "slug": "ta-hien",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Named by Vietnam Tourism. No night photo, so no card.",
+      "updated": "2026-10-22T10:33:35.267Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "old-quarter--morning-lanes",
+      "kind": "lifestyle",
+      "track": "bundled",
+      "name": "Morning lanes",
+      "slug": "morning-lanes",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "The morning walk is the place hero. No second card.",
+      "updated": "2026-10-22T10:33:35.301Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
   "claim": null,
-  "log": []
+  "log": [
+    {
+      "at": "2026-10-22T10:33:36.061Z",
+      "place": "old-quarter",
+      "stage": "quality",
+      "item": "old-quarter--dong-xuan",
+      "status": "checked",
+      "note": "Subject is the market. Dot stays 3. Fee stays check on arrival."
+    },
+    {
+      "at": "2026-10-22T10:33:36.000Z",
+      "place": "old-quarter",
+      "stage": "copy",
+      "item": "old-quarter--dong-xuan",
+      "status": "enriched",
+      "note": "Both hour statements and both lake distances stay in the copy."
+    },
+    {
+      "at": "2026-10-22T10:33:35.937Z",
+      "place": "old-quarter",
+      "stage": "page",
+      "item": "old-quarter--dong-xuan",
+      "status": "paged",
+      "note": "Market front with the name, plus cloth inside. Shrimp close-up removed."
+    },
+    {
+      "at": "2026-10-22T10:33:35.875Z",
+      "place": "old-quarter",
+      "stage": "quality",
+      "item": "old-quarter--bach-ma",
+      "status": "checked",
+      "note": "Subject is the temple. Dot stays 3. No coordinate."
+    },
+    {
+      "at": "2026-10-22T10:33:35.813Z",
+      "place": "old-quarter",
+      "stage": "copy",
+      "item": "old-quarter--bach-ma",
+      "status": "enriched",
+      "note": "Fee 20,000 VND. Evening close printed as both 21:30 and 21:00, plus the 2018 board."
+    },
+    {
+      "at": "2026-10-22T10:33:35.749Z",
+      "place": "old-quarter",
+      "stage": "page",
+      "item": "old-quarter--bach-ma",
+      "status": "paged",
+      "note": "Temple front and altar photo. Hours print every sourced clock."
+    },
+    {
+      "at": "2026-10-22T10:33:35.686Z",
+      "place": "old-quarter",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "skipped",
+      "note": "No Old Quarter food guide to check. Dining note on the place points at Hanoi."
+    },
+    {
+      "at": "2026-10-22T10:33:35.625Z",
+      "place": "old-quarter",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "skipped",
+      "note": "No Old Quarter food file to copy. Dishes stay on the shared records and the Hanoi guide."
+    },
+    {
+      "at": "2026-10-22T10:33:35.560Z",
+      "place": "old-quarter",
+      "stage": "food",
+      "item": null,
+      "status": "skipped",
+      "note": "Left out a second food guide. The Hanoi food guide is being widened and this page only points at it."
+    },
+    {
+      "at": "2026-10-22T10:33:35.495Z",
+      "place": "old-quarter",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Hero is Hang Dao tube houses. Bach Ma is the temple front. Dong Xuan is the market hall. Silk card is cloth. Dots unchanged. No second food file."
+    },
+    {
+      "at": "2026-10-22T10:33:35.429Z",
+      "place": "old-quarter",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Place prose names both centuries, both Dong Xuan distances, and the Hanoi food guide as the menu."
+    },
+    {
+      "at": "2026-10-22T10:33:35.366Z",
+      "place": "old-quarter",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Walk page: tube-house hero, Bach Ma, Dong Xuan, two stay areas. Dining card points at the Hanoi food guide. No second dish list."
+    },
+    {
+      "at": "2026-10-22T10:32:41.392Z",
+      "place": "old-quarter",
+      "stage": "researchContext",
+      "item": null,
+      "status": "stored",
+      "note": "Left out a festival page. No dated event was sourced. Side trips stay the parent city and the Ninh Binh route already listed."
+    },
+    {
+      "at": "2026-10-22T10:32:41.253Z",
+      "place": "old-quarter",
+      "stage": "researchLifestyle",
+      "item": null,
+      "status": "stored",
+      "note": "Left out a separate lifestyle card. Breakfast stays on the Hanoi food guide."
+    },
+    {
+      "at": "2026-10-22T10:32:41.097Z",
+      "place": "old-quarter",
+      "stage": "researchNightlife",
+      "item": null,
+      "status": "stored",
+      "note": "Left out a night card for Ta Hien. No licensed photo of that corner was filed."
+    },
+    {
+      "at": "2026-10-22T10:32:40.940Z",
+      "place": "old-quarter",
+      "stage": "researchFood",
+      "item": null,
+      "status": "stored",
+      "note": "Left out a second dish guide and left out Cafe Giang and cha ca La Vong as picks. The menu stays on the Hanoi food guide."
+    },
+    {
+      "at": "2026-10-22T10:32:40.627Z",
+      "place": "old-quarter",
+      "stage": "researchAttractions",
+      "item": null,
+      "status": "stored",
+      "note": "Left out Ma May house, O Quan Chuong, and Kim Ngan. No new card without a licensed photo of that subject."
+    },
+    {
+      "at": "2026-10-22T10:32:40.369Z",
+      "place": "old-quarter",
+      "stage": "researchBase",
+      "item": null,
+      "status": "stored",
+      "note": "Left out a map point and a minute count. No listed source prints a coordinate for the Old Quarter."
+    },
+    {
+      "at": "2026-10-22T10:32:24.967Z",
+      "place": "old-quarter",
+      "stage": "researchContext",
+      "item": null,
+      "status": "needs_depth",
+      "note": "No dated event is filed yet. Side trips are only the parent city and the Ninh Binh route."
+    },
+    {
+      "at": "2026-10-22T10:32:24.837Z",
+      "place": "old-quarter",
+      "stage": "researchLifestyle",
+      "item": null,
+      "status": "needs_depth",
+      "note": "The morning walk is drafted. A separate lifestyle card is still open."
+    }
+  ]
 }
