@@ -1,0 +1,59 @@
+{
+  "slug": "tuy-hoa-beach",
+  "placeSlug": "tuy-hoa",
+  "name": "Tuy Hoa beach",
+  "nameVi": "Bãi biển Tuy Hòa",
+  "kicker": "The city sand on Độc Lập",
+  "summary": "Swim and walk the city beach along Độc Lập, east of town. The sand is white and tens of metres wide, with casuarina and the beachfront buildings on that road. One page prints a front longer than 10 km. The night page prints about 10 km. Both stay. This is not a Nha Trang beach and not Mỹ Khê in Đà Nẵng. No ticket was printed. Check on arrival.",
+  "dots": 4,
+  "timeNeeded": "A beach day. A clock was not printed.",
+  "fee": "Check on arrival",
+  "getThere": "The beach is the east front along Độc Lập.",
+  "verified": "22 Oct 2026",
+  "heroCaption": "Sand, surf, and the buildings along the city beach",
+  "notice": {
+    "title": "This is not the other cities’ sand",
+    "body": "Bãi biển Tuy Hòa is the beach east of this city along Độc Lập. It is not a Nha Trang beach and not Mỹ Khê in Đà Nẵng. One page prints a front longer than 10 km. The night page prints about 10 km. Both stay. No ticket was printed."
+  },
+  "body": [
+    "Walk or swim a long white-sand beach, tens of metres wide, with casuarina behind it and the buildings of Độc Lập on the town side. The beach page says people swim and eat seafood here every day. No stall price was printed. The same page prints a front longer than 10 km. The night page prints about 10 km, sea on one side and the town lights on the other. Both lengths stay.",
+    "The morning on that page is for exercise. The evening is the walk. The night is not limited to a weekend. Nghinh Phong, at the Nguyễn Hữu Thọ and Độc Lập corner, is a different square on this road. The handbook says a light show plays there at night and does not print the clock. That square is not Tháp Nhạn.",
+    "No ticket was printed. No gate hour was printed. A month when the water is calm was not a separate table. Check on arrival. If you sleep on Độc Lập, this is the sand outside the room."
+  ],
+  "figures": [
+    {
+      "id": "tuy-hoa-tuy-hoa-beach-2",
+      "caption": "The wash, casuarina, and a beachfront building. The foreground is open sand.",
+      "alt": "Surf and a wide sandy beach in Tuy Hoa, with casuarina and a building along the shore"
+    }
+  ],
+  "gettingThere": [
+    "The beach runs east of town along Độc Lập. If you sleep on that road, you are already there. From the airport, the AIP prints 5 km north of the city center and the handbook prints about 10 km. Both stay. The minutes, and a taxi fare, were not printed. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From a room on Độc Lập",
+      "body": "The beach is the sand along that road. No walking time was printed. Check on arrival."
+    },
+    {
+      "heading": "From Tuy Hòa airport",
+      "body": "The AIP prints 5 km north of the city center. The handbook prints about 10 km. Both stay. Flight minutes and the transfer minutes were not printed. Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day is printed.",
+  "admissionNote": "No ticket was printed on the beach page or the night page. No child rule was printed. Check on arrival.",
+  "links": [
+    {
+      "label": "Tuy Hoa beach",
+      "url": "https://phuyentourism.gov.vn/diem-du-lich/bai-bien/bai-bien-tuy-hoa.html",
+      "note": "Du lịch Phú Yên. Longer than 10 km. No fee and no clock."
+    },
+    {
+      "label": "The city after dark",
+      "url": "https://phuyentourism.gov.vn/trai-nghiem/phu-yen-ve-dem/buoi-toi-o-phu-yen-nen-di-dau-va-lam-gi.html",
+      "note": "Du lịch Phú Yên. About 10 km, and the evening walk."
+    }
+  ],
+  "interests": ["beaches"]
+}

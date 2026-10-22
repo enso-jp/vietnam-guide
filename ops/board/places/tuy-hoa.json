@@ -55,39 +55,39 @@
       "reworkCount": 0
     },
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place, three photo sights, one itinerary, five festivals. Stone plates and the cape stay in the prose. No city pin.",
+      "updated": "2026-10-22T07:37:25.799Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "status": "enriched",
+      "note": "Prose prints both airport distances, both rail clocks, the stone-plate sizes, and both cape-light descriptions. Season chip is Easier Jan-Aug.",
+      "updated": "2026-10-22T07:37:25.866Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "status": "checked",
+      "note": "Photos opened. Beach, tower, and river match. No guessed pin. Unsourced fees and hours say Check on arrival.",
+      "updated": "2026-10-22T07:37:25.932Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "skipped",
+      "note": "No licensed plate photo. No food guide and no dish page. Eat text stays on the place.",
+      "updated": "2026-10-22T07:37:25.997Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "status": "skipped",
+      "note": "No food guide to enrich. No licensed plate photo.",
+      "updated": "2026-10-22T07:37:26.066Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "status": "skipped",
+      "note": "No food guide to check. No licensed plate photo.",
+      "updated": "2026-10-22T07:37:26.138Z",
       "reworkCount": 0
     }
   },
@@ -98,14 +98,14 @@
       "track": "unit",
       "name": "Tuy Hoa beach",
       "slug": "tuy-hoa-beach",
-      "file": null,
+      "file": "src/content/attractions/tuy-hoa--tuy-hoa-beach.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Photo opened and matches the subject. Center crop still shows it. Credit is the Commons file page.",
+      "updated": "2026-10-22T07:38:08.831Z",
       "reworkCount": 0
     },
     {
@@ -114,14 +114,14 @@
       "track": "unit",
       "name": "Nhan Tower",
       "slug": "thap-nhan",
-      "file": null,
+      "file": "src/content/attractions/tuy-hoa--thap-nhan.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Photo opened and matches the subject. Center crop still shows it. Credit is the Commons file page.",
+      "updated": "2026-10-22T07:38:09.013Z",
       "reworkCount": 0
     },
     {
@@ -130,14 +130,14 @@
       "track": "unit",
       "name": "Da Rang river",
       "slug": "da-rang",
-      "file": null,
+      "file": "src/content/attractions/tuy-hoa--da-rang.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Photo opened and matches the subject. Center crop still shows it. Credit is the Commons file page.",
+      "updated": "2026-10-22T07:38:09.194Z",
       "reworkCount": 0
     },
     {
@@ -152,8 +152,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "No photo of the twin towers and the sea. Left off the cards.",
+      "updated": "2026-10-22T07:38:09.707Z",
       "reworkCount": 0
     },
     {
@@ -168,8 +168,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "One licensed frame of the columns and the sea. A finished page needs a second frame. Sizes stay in the city prose.",
+      "updated": "2026-10-22T07:38:09.320Z",
       "reworkCount": 0
     },
     {
@@ -184,8 +184,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "No licensed photo. Left off the cards.",
+      "updated": "2026-10-22T07:38:09.467Z",
       "reworkCount": 0
     },
     {
@@ -200,8 +200,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "No usable photo of the light and the cape. Light pairs stay in the city prose.",
+      "updated": "2026-10-22T07:38:09.860Z",
       "reworkCount": 0
     },
     {
@@ -216,8 +216,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "No licensed photo. Left off the cards.",
+      "updated": "2026-10-22T07:38:09.227Z",
       "reworkCount": 0
     },
     {
@@ -232,8 +232,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "No licensed photo. Left off the cards.",
+      "updated": "2026-10-22T07:38:09.258Z",
       "reworkCount": 0
     },
     {
@@ -248,8 +248,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "No licensed photo. Left off the cards.",
+      "updated": "2026-10-22T07:38:09.528Z",
       "reworkCount": 0
     },
     {
@@ -264,8 +264,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "No licensed photo. Left off the cards.",
+      "updated": "2026-10-22T07:38:09.438Z",
       "reworkCount": 0
     },
     {
@@ -280,8 +280,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "No licensed photo of the lagoon. Hectares stay in the eat text.",
+      "updated": "2026-10-22T07:38:09.559Z",
       "reworkCount": 0
     },
     {
@@ -296,8 +296,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "No licensed photo. Left off the cards.",
+      "updated": "2026-10-22T07:38:09.352Z",
       "reworkCount": 0
     },
     {
@@ -312,8 +312,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "No licensed photo. Left off the cards.",
+      "updated": "2026-10-22T07:38:09.771Z",
       "reworkCount": 0
     },
     {
@@ -328,8 +328,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "No licensed photo. Left off the cards.",
+      "updated": "2026-10-22T07:38:09.740Z",
       "reworkCount": 0
     },
     {
@@ -344,8 +344,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "No licensed photo. Left off the cards.",
+      "updated": "2026-10-22T07:38:09.410Z",
       "reworkCount": 0
     },
     {
@@ -360,8 +360,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "No licensed photo. Left off the cards.",
+      "updated": "2026-10-22T07:38:09.289Z",
       "reworkCount": 0
     },
     {
@@ -376,8 +376,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "No licensed photo. Left off the cards.",
+      "updated": "2026-10-22T07:38:09.618Z",
       "reworkCount": 0
     },
     {
@@ -392,8 +392,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "No licensed photo. Left off the cards.",
+      "updated": "2026-10-22T07:38:09.496Z",
       "reworkCount": 0
     },
     {
@@ -408,8 +408,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "The airport is the way in, not a visit and not the hero.",
+      "updated": "2026-10-22T07:38:09.646Z",
       "reworkCount": 0
     },
     {
@@ -424,8 +424,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "One station-front photo and no second platform frame. Left off.",
+      "updated": "2026-10-22T07:38:09.829Z",
       "reworkCount": 0
     },
     {
@@ -440,8 +440,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:00.781Z",
+      "note": "No licensed plate photo. No dish page and no food guide.",
+      "updated": "2026-10-22T07:38:09.890Z",
       "reworkCount": 0
     },
     {
@@ -456,8 +456,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:00.812Z",
+      "note": "No licensed plate photo. No dish page and no food guide.",
+      "updated": "2026-10-22T07:38:09.918Z",
       "reworkCount": 0
     },
     {
@@ -472,8 +472,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:00.846Z",
+      "note": "No licensed plate photo. No dish page and no food guide.",
+      "updated": "2026-10-22T07:38:09.947Z",
       "reworkCount": 0
     },
     {
@@ -488,8 +488,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:00.877Z",
+      "note": "No licensed plate photo. No dish page and no food guide.",
+      "updated": "2026-10-22T07:38:09.978Z",
       "reworkCount": 0
     },
     {
@@ -504,8 +504,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:00.913Z",
+      "note": "No licensed plate photo. No dish page and no food guide.",
+      "updated": "2026-10-22T07:38:10.007Z",
       "reworkCount": 0
     },
     {
@@ -520,8 +520,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:00.945Z",
+      "note": "No licensed plate photo. No dish page and no food guide.",
+      "updated": "2026-10-22T07:38:10.036Z",
       "reworkCount": 0
     },
     {
@@ -536,8 +536,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:00.979Z",
+      "note": "No licensed plate photo. No dish page and no food guide.",
+      "updated": "2026-10-22T07:38:10.068Z",
       "reworkCount": 0
     },
     {
@@ -552,8 +552,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:01.009Z",
+      "note": "No licensed plate photo. No dish page and no food guide.",
+      "updated": "2026-10-22T07:38:10.097Z",
       "reworkCount": 0
     },
     {
@@ -568,8 +568,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:01.044Z",
+      "note": "No licensed plate photo. No dish page and no food guide.",
+      "updated": "2026-10-22T07:38:10.126Z",
       "reworkCount": 0
     },
     {
@@ -584,8 +584,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:01.075Z",
+      "note": "No licensed plate photo. No dish page and no food guide.",
+      "updated": "2026-10-22T07:38:10.155Z",
       "reworkCount": 0
     },
     {
@@ -600,8 +600,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:01.106Z",
+      "note": "No licensed plate photo. No dish page and no food guide.",
+      "updated": "2026-10-22T07:38:10.183Z",
       "reworkCount": 0
     },
     {
@@ -616,8 +616,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:01.142Z",
+      "note": "No licensed plate photo. No dish page and no food guide.",
+      "updated": "2026-10-22T07:38:10.214Z",
       "reworkCount": 0
     },
     {
@@ -632,8 +632,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:01.174Z",
+      "note": "No licensed plate photo. No dish page and no food guide.",
+      "updated": "2026-10-22T07:38:10.243Z",
       "reworkCount": 0
     },
     {
@@ -648,8 +648,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:01.206Z",
+      "note": "No licensed plate photo. No dish page and no food guide.",
+      "updated": "2026-10-22T07:38:10.274Z",
       "reworkCount": 0
     },
     {
@@ -664,8 +664,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "No licensed plate photo. No dish page and no food guide.",
+      "updated": "2026-10-22T07:38:10.302Z",
       "reworkCount": 0
     },
     {
@@ -680,8 +680,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "No licensed plate photo. No dish page and no food guide.",
+      "updated": "2026-10-22T07:38:10.332Z",
       "reworkCount": 0
     },
     {
@@ -696,8 +696,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "No licensed plate photo. No dish page and no food guide.",
+      "updated": "2026-10-22T07:38:10.362Z",
       "reworkCount": 0
     },
     {
@@ -712,8 +712,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "No licensed plate photo. No dish page and no food guide.",
+      "updated": "2026-10-22T07:38:10.390Z",
       "reworkCount": 0
     },
     {
@@ -728,8 +728,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "No night photo of the walk. The evening stays in the city prose.",
+      "updated": "2026-10-22T07:38:09.382Z",
       "reworkCount": 0
     },
     {
@@ -744,8 +744,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "No night photo of the square. It stays a stay area and an itinerary stop.",
+      "updated": "2026-10-22T07:38:09.677Z",
       "reworkCount": 0
     },
     {
@@ -760,8 +760,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "The show is the festival and the tower page, not a second sight.",
+      "updated": "2026-10-22T07:38:09.588Z",
       "reworkCount": 0
     },
     {
@@ -776,8 +776,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:36.634Z",
+      "note": "The day is itinerary tuy-hoa-day. Not a separate sight page.",
+      "updated": "2026-10-22T07:38:09.799Z",
       "reworkCount": 0
     },
     {
@@ -792,8 +792,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:01.509Z",
+      "note": "Festival record is on the place. No event photo, so the card uses the city picture.",
+      "updated": "2026-10-22T07:38:10.420Z",
       "reworkCount": 0
     },
     {
@@ -808,8 +808,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:01.548Z",
+      "note": "Festival record is on the place. No event photo, so the card uses the city picture.",
+      "updated": "2026-10-22T07:38:10.451Z",
       "reworkCount": 0
     },
     {
@@ -824,8 +824,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:01.582Z",
+      "note": "Festival record is on the place. The photograph is the lit tower, not the rite.",
+      "updated": "2026-10-22T07:38:10.480Z",
       "reworkCount": 0
     },
     {
@@ -840,8 +840,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:01.614Z",
+      "note": "Festival record is on the place. The photograph is the lit tower, not the rite.",
+      "updated": "2026-10-22T07:38:10.511Z",
       "reworkCount": 0
     },
     {
@@ -856,21 +856,134 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier only. No licensed photo. No public page until publish is accepted.",
-      "updated": "2026-10-22T06:50:01.645Z",
+      "note": "Festival record is on the place. The photograph is the lit tower, not the rite.",
+      "updated": "2026-10-22T07:38:10.542Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "tuy-hoa",
-    "stage": "destination",
-    "item": null,
-    "at": "2026-10-22T07:00:59.695Z",
-    "by": "hourly",
-    "branch": "cursor/tuy-hoa-page-f2b4"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T07:38:09.194Z",
+      "place": "tuy-hoa",
+      "stage": "quality",
+      "item": "tuy-hoa--da-rang",
+      "status": "checked",
+      "note": "Photo opened and matches the subject. Center crop still shows it. Credit is the Commons file page."
+    },
+    {
+      "at": "2026-10-22T07:38:09.132Z",
+      "place": "tuy-hoa",
+      "stage": "copy",
+      "item": "tuy-hoa--da-rang",
+      "status": "enriched",
+      "note": "Copy keeps every disagreeing figure from the dossier. Unsourced fee and hour stay Check on arrival."
+    },
+    {
+      "at": "2026-10-22T07:38:09.073Z",
+      "place": "tuy-hoa",
+      "stage": "page",
+      "item": "tuy-hoa--da-rang",
+      "status": "paged",
+      "note": "Finished page: kicker, notice, body, second photo, getting there, hours and fee Check on arrival."
+    },
+    {
+      "at": "2026-10-22T07:38:09.013Z",
+      "place": "tuy-hoa",
+      "stage": "quality",
+      "item": "tuy-hoa--thap-nhan",
+      "status": "checked",
+      "note": "Photo opened and matches the subject. Center crop still shows it. Credit is the Commons file page."
+    },
+    {
+      "at": "2026-10-22T07:38:08.951Z",
+      "place": "tuy-hoa",
+      "stage": "copy",
+      "item": "tuy-hoa--thap-nhan",
+      "status": "enriched",
+      "note": "Copy keeps every disagreeing figure from the dossier. Unsourced fee and hour stay Check on arrival."
+    },
+    {
+      "at": "2026-10-22T07:38:08.894Z",
+      "place": "tuy-hoa",
+      "stage": "page",
+      "item": "tuy-hoa--thap-nhan",
+      "status": "paged",
+      "note": "Finished page: kicker, notice, body, second photo, getting there, hours and fee Check on arrival."
+    },
+    {
+      "at": "2026-10-22T07:38:08.831Z",
+      "place": "tuy-hoa",
+      "stage": "quality",
+      "item": "tuy-hoa--tuy-hoa-beach",
+      "status": "checked",
+      "note": "Photo opened and matches the subject. Center crop still shows it. Credit is the Commons file page."
+    },
+    {
+      "at": "2026-10-22T07:38:08.771Z",
+      "place": "tuy-hoa",
+      "stage": "copy",
+      "item": "tuy-hoa--tuy-hoa-beach",
+      "status": "enriched",
+      "note": "Copy keeps every disagreeing figure from the dossier. Unsourced fee and hour stay Check on arrival."
+    },
+    {
+      "at": "2026-10-22T07:38:08.709Z",
+      "place": "tuy-hoa",
+      "stage": "page",
+      "item": "tuy-hoa--tuy-hoa-beach",
+      "status": "paged",
+      "note": "Finished page: kicker, notice, body, second photo, getting there, hours and fee Check on arrival."
+    },
+    {
+      "at": "2026-10-22T07:37:26.138Z",
+      "place": "tuy-hoa",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "skipped",
+      "note": "No food guide to check. No licensed plate photo."
+    },
+    {
+      "at": "2026-10-22T07:37:26.066Z",
+      "place": "tuy-hoa",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "skipped",
+      "note": "No food guide to enrich. No licensed plate photo."
+    },
+    {
+      "at": "2026-10-22T07:37:25.997Z",
+      "place": "tuy-hoa",
+      "stage": "food",
+      "item": null,
+      "status": "skipped",
+      "note": "No licensed plate photo. No food guide and no dish page. Eat text stays on the place."
+    },
+    {
+      "at": "2026-10-22T07:37:25.932Z",
+      "place": "tuy-hoa",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Photos opened. Beach, tower, and river match. No guessed pin. Unsourced fees and hours say Check on arrival."
+    },
+    {
+      "at": "2026-10-22T07:37:25.866Z",
+      "place": "tuy-hoa",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Prose prints both airport distances, both rail clocks, the stone-plate sizes, and both cape-light descriptions. Season chip is Easier Jan-Aug."
+    },
+    {
+      "at": "2026-10-22T07:37:25.799Z",
+      "place": "tuy-hoa",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place, three photo sights, one itinerary, five festivals. Stone plates and the cape stay in the prose. No city pin."
+    },
     {
       "at": "2026-10-22T06:50:36.634Z",
       "place": "tuy-hoa",
@@ -910,62 +1023,6 @@
       "item": null,
       "status": "stored",
       "note": "Left out: gate hours, a second cape ticket, the cut-off December 2020 line, and licensed photos."
-    },
-    {
-      "at": "2026-10-22T06:50:36.282Z",
-      "place": "tuy-hoa",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: flight minutes, the station street number, Nha Trang road kilometres, taxi fares, the bus station name, and a chosen population."
-    },
-    {
-      "at": "2026-10-22T06:49:49.230Z",
-      "place": "tuy-hoa",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Events and side trips are drafted. Still open: solar dates, the Song Cau dossier, and road minutes to Buon Ma Thuot."
-    },
-    {
-      "at": "2026-10-22T06:49:48.948Z",
-      "place": "tuy-hoa",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The ordinary beach day is drafted. Still open: a named cafe street and the hour the city goes quiet."
-    },
-    {
-      "at": "2026-10-22T06:49:48.828Z",
-      "place": "tuy-hoa",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Evening areas are drafted. Still open: the quiet hour, a show length, and bar brands which were not mapped."
-    },
-    {
-      "at": "2026-10-22T06:49:48.639Z",
-      "place": "tuy-hoa",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Dishes and food streets are drafted. Still open: market hours, stall prices left off the page, and a cafe street."
-    },
-    {
-      "at": "2026-10-22T06:49:48.008Z",
-      "place": "tuy-hoa",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Sights and areas are drafted. Still open: gate hours, a second cape ticket, the cut-off December 2020 line, and licensed photos."
-    },
-    {
-      "at": "2026-10-22T06:49:47.232Z",
-      "place": "tuy-hoa",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and getting there are drafted. Still open: flight minutes, the station street number, Nha Trang road kilometres, taxi fares, and a chosen population."
     }
   ]
 }
