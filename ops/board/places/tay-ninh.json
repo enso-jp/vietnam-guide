@@ -102,10 +102,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Holy See page from the dossier. Ticket and the grounds closing hour are Check on arrival. About 60 minutes is the Binh Duong page only. Hero is the facade, both towers, and the court. Second frame is the prayer hall at a service.",
-      "updated": "2026-10-22T07:26:09.023Z",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Kicker is four words. Summary is 66 words. Hours name the four services and Check on arrival for the grounds close. Fee is Check on arrival. No coordinates. Hero shows the facade, both towers, and the court. The hall photograph is a different moment.",
+      "updated": "2026-10-22T07:26:21.363Z",
       "reworkCount": 0
     },
     {
@@ -526,15 +526,24 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "tay-ninh",
-    "stage": "copy",
-    "item": "tay-ninh--cao-dai-holy-see",
-    "at": "2026-10-22T07:26:09.058Z",
-    "by": "tay-ninh-page",
-    "branch": "cursor/tay-ninh-destination-0ab9"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T07:26:21.363Z",
+      "place": "tay-ninh",
+      "stage": "quality",
+      "item": "tay-ninh--cao-dai-holy-see",
+      "status": "checked",
+      "note": "Kicker is four words. Summary is 66 words. Hours name the four services and Check on arrival for the grounds close. Fee is Check on arrival. No coordinates. Hero shows the facade, both towers, and the court. The hall photograph is a different moment."
+    },
+    {
+      "at": "2026-10-22T07:26:21.294Z",
+      "place": "tay-ninh",
+      "stage": "copy",
+      "item": "tay-ninh--cao-dai-holy-see",
+      "status": "enriched",
+      "note": "Lede is the noon service. Notice is the missing ticket. Second photograph is the prayer hall, not a second crop of the facade. Both Chi Ton days and both ground sizes stay."
+    },
     {
       "at": "2026-10-22T07:26:09.023Z",
       "place": "tay-ninh",
@@ -678,22 +687,6 @@
       "item": null,
       "status": "needs_depth",
       "note": "The 18:00 court and the evening cable are in. Still open: a bar street and the hour the grounds close."
-    },
-    {
-      "at": "2026-10-22T06:51:06.435Z",
-      "place": "tay-ninh",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Rolls, banh canh, and the Trang Bang streets are in. Still open: how muoi tom is eaten, the bun Xiem Lo bowl, a city food street, and stall hours."
-    },
-    {
-      "at": "2026-10-22T06:51:06.088Z",
-      "place": "tay-ninh",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Holy See, Ba Den, the valley, the lake, Go Ken, and the wards are in. Still open: a second duration for the Holy See, a temple ticket, minutes between the city and the mountain, and the second cable everyday fare."
     }
   ]
 }
