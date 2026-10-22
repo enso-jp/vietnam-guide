@@ -85,9 +85,9 @@
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T18:40:18.808Z",
+      "status": "checked",
+      "note": "Kernel bag is the dish. Market frame is the daytime hall with the Cho Con Dao sign, captioned as not the night market. No stall pick. Other dishes stay off the cards.",
+      "updated": "2026-10-22T02:45:11.314Z",
       "reworkCount": 0
     }
   },
@@ -263,9 +263,9 @@
       "research": "stored",
       "page": "paged",
       "copy": "enriched",
-      "quality": "not_started",
-      "note": "Gift bag of candied kernels. No taste invented beyond roasted or candied. Price check on arrival.",
-      "updated": "2026-10-22T02:45:03.228Z",
+      "quality": "checked",
+      "note": "Photograph matches the candied pack. No invented texture.",
+      "updated": "2026-10-22T02:45:11.342Z",
       "reworkCount": 0
     },
     {
@@ -528,6 +528,14 @@
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T02:45:11.314Z",
+      "place": "con-dao",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Kernel bag is the dish. Market frame is the daytime hall with the Cho Con Dao sign, captioned as not the night market. No stall pick. Other dishes stay off the cards."
+    },
     {
       "at": "2026-10-22T02:45:03.256Z",
       "place": "con-dao",
