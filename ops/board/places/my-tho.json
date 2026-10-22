@@ -19,39 +19,39 @@
   },
   "stages": {
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell on the Mekong corridor: interests, stay on 30 Thang 4, one day itinerary, and the Ho Chi Minh City road. Nearby is empty. No festival file. Vinh Trang and Thu Khoa Huan exist so the stops resolve. Sights without a licensed photo stay off the grid.",
+      "updated": "2026-10-22T02:37:34.097Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "status": "enriched",
+      "note": "Hero is the Tien embankment. Season prints 1623 and 1679 beside the 2024 festival dates. Unsourced fares and hours stay Check on arrival. Editor instructions were taken out of the public sentences.",
+      "updated": "2026-10-22T02:38:22.103Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "status": "checked",
+      "note": "Read against the dossier. Both road pairs, both cart fares, both night clocks, and both settlement years are on the page. The card grid is Vinh Trang and Thu Khoa Huan. Other sights have no licensed photo and are not padded in.",
+      "updated": "2026-10-22T02:38:42.569Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Food guide and hu tieu My Tho only. Elephant-ear fish, ginger honey tea, coconut candy, night-court sweets, and banh tet have no licensed plate photo, so they are named and not cards.",
+      "updated": "2026-10-22T02:38:51.754Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "status": "enriched",
+      "note": "Hu tieu prose names both origin lines and both broth lists. The plate photo is the soup bowl. Unpictured plates stay named, not cards. Stall price is Check on arrival.",
+      "updated": "2026-10-22T02:39:12.118Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "status": "checked",
+      "note": "Read the guide and the hu tieu page. History, culture, texture, taste, and how to eat are sourced. Both broth lists stay. No plate was invented for the unpictured dishes.",
+      "updated": "2026-10-22T02:39:18.611Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -98,14 +98,14 @@
       "track": "unit",
       "name": "Vinh Trang Pagoda",
       "slug": "vinh-trang",
-      "file": null,
+      "file": "src/content/attractions/my-tho--vinh-trang.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "unpublished: no licensed photo. Portal fee free and hours 06:00–23:00 are one source.",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Read the pagoda page. Gate and hall are the two frames. Free gate, 06:00–23:00, and 120 minutes match the portal. Feet minutes stay Check on arrival.",
+      "updated": "2026-10-22T02:39:43.186Z",
       "reworkCount": 0
     },
     {
@@ -117,11 +117,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "unpublished: no licensed photo. Year and hours disagree. Do not pick one.",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Skipped with the page. No licensed photo of Buu Lam. The only frame is an interior statue, not the pagoda front. Page skipped.",
+      "updated": "2026-10-22T02:40:24.593Z",
       "reworkCount": 0
     },
     {
@@ -133,11 +133,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "unpublished: no licensed photo. Yearly rite dates were not printed.",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Skipped with the page. No licensed photo of Quan De Temple. Page skipped.",
+      "updated": "2026-10-22T02:40:24.770Z",
       "reworkCount": 0
     },
     {
@@ -149,11 +149,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "unpublished: no licensed photo. Portal fee free and hours 07:00–18:00 are one source.",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Skipped with the page. No licensed photo of Tien Giang Museum. Page skipped.",
+      "updated": "2026-10-22T02:40:24.948Z",
       "reworkCount": 0
     },
     {
@@ -165,11 +165,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "unpublished: no licensed photo. Boat fee was not printed.",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Skipped with the page. No licensed photo of a sampan, orchard, and water at Thoi Son. Page skipped.",
+      "updated": "2026-10-22T02:40:25.118Z",
       "reworkCount": 0
     },
     {
@@ -181,11 +181,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "unpublished: no licensed photo. A landing fee was not printed.",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Skipped with the page. No licensed photo of Con Long. The ferry terminal is not the islet. Page skipped.",
+      "updated": "2026-10-22T02:40:25.290Z",
       "reworkCount": 0
     },
     {
@@ -197,11 +197,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "unpublished: no licensed photo.",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Skipped with the page. No separate licensed photo of the embankment. The only embankment frame is the city hero. Page skipped.",
+      "updated": "2026-10-22T02:40:25.459Z",
       "reworkCount": 0
     },
     {
@@ -213,11 +213,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "unpublished: no licensed photo. Boat fare was not printed.",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Skipped with the page. No licensed photo of the tourist pier. Page skipped.",
+      "updated": "2026-10-22T02:40:25.627Z",
       "reworkCount": 0
     },
     {
@@ -229,11 +229,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "unpublished: no licensed photo. Portal hours 07:00–18:00 are one source.",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Skipped with the page. No licensed photo of the noodle village at Hoi Gia. Page skipped.",
+      "updated": "2026-10-22T02:40:25.801Z",
       "reworkCount": 0
     },
     {
@@ -245,11 +245,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "unpublished: no licensed photo. Interior was not described.",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Skipped with the page. No licensed photo of Bach Cong Tu. Page skipped.",
+      "updated": "2026-10-22T02:40:25.980Z",
       "reworkCount": 0
     },
     {
@@ -258,14 +258,14 @@
       "track": "unit",
       "name": "Thu Khoa Huan statue",
       "slug": "thu-khoa-huan",
-      "file": null,
+      "file": "src/content/attractions/my-tho--thu-khoa-huan.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "unpublished: no licensed photo.",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Read the statue page. The hero keeps the face and the crossed arms. The second frame is the pedestal and the river. Fee and hours stay Check on arrival.",
+      "updated": "2026-10-22T02:40:26.189Z",
       "reworkCount": 0
     },
     {
@@ -373,11 +373,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "unpublished: no licensed photo. Hours are the 2019 article. A night-market clock disagrees.",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Skipped with the page. No licensed photo of the pier food court. Page skipped.",
+      "updated": "2026-10-22T02:40:26.360Z",
       "reworkCount": 0
     },
     {
@@ -389,11 +389,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "unpublished: no licensed photo. Street and hours were not printed.",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Skipped with the page. No licensed photo of My Tho market. Page skipped.",
+      "updated": "2026-10-22T02:40:26.539Z",
       "reworkCount": 0
     },
     {
@@ -405,11 +405,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "unpublished: no licensed photo. Same yard as the noodle village.",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Skipped with the page. No licensed photo of the Hoi Gia workshop street. Page skipped.",
+      "updated": "2026-10-22T02:40:26.713Z",
       "reworkCount": 0
     },
     {
@@ -421,11 +421,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "unpublished: no licensed photo. 288 Club is a pin, not a bar guide.",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Skipped with the page. No licensed night photo of duong 30 Thang 4. Page skipped.",
+      "updated": "2026-10-22T02:40:26.884Z",
       "reworkCount": 0
     },
     {
@@ -437,11 +437,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "unpublished: no licensed photo. The quiet hour was not printed.",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Skipped with the page. No separate page. The day is the itinerary my-tho-day. Page skipped.",
+      "updated": "2026-10-22T02:40:27.067Z",
       "reworkCount": 0
     },
     {
@@ -453,11 +453,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "First held Dec 2024. Next date Check on arrival.",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Skipped with the page. No licensed photo of the hu tieu festival. Dates stay in the place season. Page skipped.",
+      "updated": "2026-10-22T02:40:27.247Z",
       "reworkCount": 0
     },
     {
@@ -469,11 +469,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "One dated program. A later year was not opened.",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Skipped with the page. No licensed photo of the Tien Giang culture festival. Page skipped.",
+      "updated": "2026-10-22T02:40:27.425Z",
       "reworkCount": 0
     },
     {
@@ -485,11 +485,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Name only. Date and street were not printed.",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Skipped with the page. No licensed photo of the spring flower market. Page skipped.",
+      "updated": "2026-10-22T02:40:27.604Z",
       "reworkCount": 0
     },
     {
@@ -501,11 +501,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Two fares on one portal page. No second tariff.",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Skipped with the page. No licensed photo of the electric cart. The fares stay in the place prose. Page skipped.",
+      "updated": "2026-10-22T02:40:27.789Z",
       "reworkCount": 0
     },
     {
@@ -517,11 +517,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dates were not printed.",
-      "updated": "2026-10-21T18:52:06.778Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Skipped with the page. No licensed photo of the Quan De rites, and the dates were not printed. Page skipped.",
+      "updated": "2026-10-22T02:40:27.973Z",
       "reworkCount": 0
     }
   ],
@@ -529,100 +529,164 @@
   "claim": null,
   "log": [
     {
-      "at": "2026-10-21T18:52:06.778Z",
+      "at": "2026-10-22T02:40:27.973Z",
       "place": "my-tho",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a later date for the noodle festival, drive minutes to Ben Tre, Cai Be, Rach Gam, and Tan Thanh, and public pages for those neighbors."
+      "stage": "quality",
+      "item": "my-tho--quan-de-rites",
+      "status": "skipped",
+      "note": "Skipped with the page. No licensed photo of the Quan De rites, and the dates were not printed. Page skipped."
     },
     {
-      "at": "2026-10-21T18:51:58.418Z",
+      "at": "2026-10-22T02:40:27.912Z",
       "place": "my-tho",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: the hour the embankment goes quiet, and a named breakfast stall."
+      "stage": "copy",
+      "item": "my-tho--quan-de-rites",
+      "status": "skipped",
+      "note": "Skipped with the page. No licensed photo of the Quan De rites, and the dates were not printed. Page skipped."
     },
     {
-      "at": "2026-10-21T18:51:58.319Z",
+      "at": "2026-10-22T02:40:27.852Z",
       "place": "my-tho",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a 2026 confirmation that 288 Club still closes at 02:00, and any bar street beyond the embankment."
+      "stage": "page",
+      "item": "my-tho--quan-de-rites",
+      "status": "skipped",
+      "note": "No licensed photo of the Quan De rites, and the dates were not printed. Page skipped."
     },
     {
-      "at": "2026-10-21T18:51:58.225Z",
+      "at": "2026-10-22T02:40:27.789Z",
       "place": "my-tho",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: stall prices, a 2026 confirmation of the 2019 night-court hours, the day-market street, and a second eating street beyond 30/4."
+      "stage": "quality",
+      "item": "my-tho--electric-cart",
+      "status": "skipped",
+      "note": "Skipped with the page. No licensed photo of the electric cart. The fares stay in the place prose. Page skipped."
     },
     {
-      "at": "2026-10-21T18:51:58.124Z",
+      "at": "2026-10-22T02:40:27.729Z",
       "place": "my-tho",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a second tariff for the pagodas, the museum, and the cart; the Bửu Lâm year and midday close; the Bạch Công Tử interior; Đình Điều Hòa; and Thới Sơn boat fares."
+      "stage": "copy",
+      "item": "my-tho--electric-cart",
+      "status": "skipped",
+      "note": "Skipped with the page. No licensed photo of the electric cart. The fares stay in the place prose. Page skipped."
     },
     {
-      "at": "2026-10-21T18:51:58.000Z",
+      "at": "2026-10-22T02:40:27.666Z",
       "place": "my-tho",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: boat fares, the Ấp Bắc bay number, taxi fares, and a passenger train. The HCMC–Can Tho railway is not open and does not name a Mỹ Tho station."
+      "stage": "page",
+      "item": "my-tho--electric-cart",
+      "status": "skipped",
+      "note": "No licensed photo of the electric cart. The fares stay in the place prose. Page skipped."
     },
     {
-      "at": "2026-10-21T18:51:46.415Z",
+      "at": "2026-10-22T02:40:27.605Z",
       "place": "my-tho",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The noodle festival, the 2025 program, and the placeholders are in. Still open: a later festival date, and minutes to Ben Tre, Cai Be, Rach Gam, and Tan Thanh."
+      "stage": "quality",
+      "item": "my-tho--spring-flower-market",
+      "status": "skipped",
+      "note": "Skipped with the page. No licensed photo of the spring flower market. Page skipped."
     },
     {
-      "at": "2026-10-21T18:51:46.000Z",
+      "at": "2026-10-22T02:40:27.546Z",
       "place": "my-tho",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Breakfast bowl, morning boat, pagoda, and the embankment are in. Still open: the hour the embankment goes quiet, and a named breakfast stall."
+      "stage": "copy",
+      "item": "my-tho--spring-flower-market",
+      "status": "skipped",
+      "note": "Skipped with the page. No licensed photo of the spring flower market. Page skipped."
     },
     {
-      "at": "2026-10-21T18:51:45.846Z",
+      "at": "2026-10-22T02:40:27.486Z",
       "place": "my-tho",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The embankment and the pier court are the night. Still open: a 2026 check of the club hours, and any other street."
+      "stage": "page",
+      "item": "my-tho--spring-flower-market",
+      "status": "skipped",
+      "note": "No licensed photo of the spring flower market. Page skipped."
     },
     {
-      "at": "2026-10-21T18:51:45.697Z",
+      "at": "2026-10-22T02:40:27.425Z",
       "place": "my-tho",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The bowl, the islet sweets, the pier court, and Hội Gia are in. Still open: stall prices, a 2026 night-court hour, and the day-market street."
+      "stage": "quality",
+      "item": "my-tho--tien-giang-culture-festival",
+      "status": "skipped",
+      "note": "Skipped with the page. No licensed photo of the Tien Giang culture festival. Page skipped."
     },
     {
-      "at": "2026-10-21T18:51:33.028Z",
+      "at": "2026-10-22T02:40:27.364Z",
       "place": "my-tho",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Town pagodas, the museum, Thới Sơn, the pier, and the riverfront are in. Still open: a second tariff, the Bửu Lâm year, the Bạch Công Tử interior, and boat fares."
+      "stage": "copy",
+      "item": "my-tho--tien-giang-culture-festival",
+      "status": "skipped",
+      "note": "Skipped with the page. No licensed photo of the Tien Giang culture festival. Page skipped."
     },
     {
-      "at": "2026-10-21T18:51:32.177Z",
+      "at": "2026-10-22T02:40:27.305Z",
       "place": "my-tho",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and the Ho Chi Minh City road are in. Still open: boat fares, the Ấp Bắc bay, taxi fares, and a passenger train."
+      "stage": "page",
+      "item": "my-tho--tien-giang-culture-festival",
+      "status": "skipped",
+      "note": "No licensed photo of the Tien Giang culture festival. Page skipped."
+    },
+    {
+      "at": "2026-10-22T02:40:27.247Z",
+      "place": "my-tho",
+      "stage": "quality",
+      "item": "my-tho--hu-tieu-festival",
+      "status": "skipped",
+      "note": "Skipped with the page. No licensed photo of the hu tieu festival. Dates stay in the place season. Page skipped."
+    },
+    {
+      "at": "2026-10-22T02:40:27.189Z",
+      "place": "my-tho",
+      "stage": "copy",
+      "item": "my-tho--hu-tieu-festival",
+      "status": "skipped",
+      "note": "Skipped with the page. No licensed photo of the hu tieu festival. Dates stay in the place season. Page skipped."
+    },
+    {
+      "at": "2026-10-22T02:40:27.129Z",
+      "place": "my-tho",
+      "stage": "page",
+      "item": "my-tho--hu-tieu-festival",
+      "status": "skipped",
+      "note": "No licensed photo of the hu tieu festival. Dates stay in the place season. Page skipped."
+    },
+    {
+      "at": "2026-10-22T02:40:27.067Z",
+      "place": "my-tho",
+      "stage": "quality",
+      "item": "my-tho--river-day",
+      "status": "skipped",
+      "note": "Skipped with the page. No separate page. The day is the itinerary my-tho-day. Page skipped."
+    },
+    {
+      "at": "2026-10-22T02:40:27.003Z",
+      "place": "my-tho",
+      "stage": "copy",
+      "item": "my-tho--river-day",
+      "status": "skipped",
+      "note": "Skipped with the page. No separate page. The day is the itinerary my-tho-day. Page skipped."
+    },
+    {
+      "at": "2026-10-22T02:40:26.945Z",
+      "place": "my-tho",
+      "stage": "page",
+      "item": "my-tho--river-day",
+      "status": "skipped",
+      "note": "No separate page. The day is the itinerary my-tho-day. Page skipped."
+    },
+    {
+      "at": "2026-10-22T02:40:26.885Z",
+      "place": "my-tho",
+      "stage": "quality",
+      "item": "my-tho--30-thang-4-night",
+      "status": "skipped",
+      "note": "Skipped with the page. No licensed night photo of duong 30 Thang 4. Page skipped."
+    },
+    {
+      "at": "2026-10-22T02:40:26.828Z",
+      "place": "my-tho",
+      "stage": "copy",
+      "item": "my-tho--30-thang-4-night",
+      "status": "skipped",
+      "note": "Skipped with the page. No licensed night photo of duong 30 Thang 4. Page skipped."
     }
   ]
 }

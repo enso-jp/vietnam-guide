@@ -1,0 +1,38 @@
+{
+  "slug": "my-tho-day",
+  "title": "My Tho in a day",
+  "kind": "trip",
+  "level": "day",
+  "duration": "A day and a night",
+  "spanDays": 1,
+  "placeSlug": "my-tho",
+  "budget": "Check on arrival",
+  "pace": "Unhurried",
+  "photo": "my-tho",
+  "summary": "Hủ tiếu, Chùa Vĩnh Tràng, and the statue in vườn hoa Lạc Hồng. The portal prints 120 minutes at the pagoda. The bowl and the statue have no timed visit. Thới Sơn is the morning boat and has no licensed photograph, so it is not a stop. The boat fare is check on arrival.",
+  "stops": [
+    {
+      "name": "Hu tieu My Tho",
+      "minutes": 40,
+      "placeSlug": "my-tho",
+      "dishSlug": "hu-tieu-my-tho",
+      "note": "Breakfast, lunch, or supper. Dry, or with the broth. No page prints how long the bowl takes. The 40 minutes are not a published duration. The price is check on arrival."
+    },
+    {
+      "name": "Vinh Trang Pagoda",
+      "minutes": 120,
+      "placeSlug": "my-tho",
+      "attractionSlug": "vinh-trang",
+      "note": "The portal prints 120 minutes. The gate is free on that page. Confirm it on arrival. The pier is 1.96 km away. The boat does not leave from this gate."
+    },
+    {
+      "name": "Thu Khoa Huan statue",
+      "minutes": 15,
+      "placeSlug": "my-tho",
+      "attractionSlug": "thu-khoa-huan",
+      "note": "The pin of the embankment, late afternoon. The dossier calls it a few minutes, not a clock. The 15 minutes are not a published duration. The fee is check on arrival."
+    }
+  ],
+  "seoTitle": "My Tho in a day — bowl, pagoda, embankment",
+  "seoDescription": "A My Tho day: hủ tiếu, 120 minutes at Vinh Trang, and the statue on the embankment. Thoi Son has no photograph here. Boat fare and the bowl price are check on arrival."
+}

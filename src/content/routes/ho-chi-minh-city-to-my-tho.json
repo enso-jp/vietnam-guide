@@ -1,0 +1,31 @@
+{
+  "slug": "ho-chi-minh-city-to-my-tho",
+  "name": "Ho Chi Minh City to My Tho",
+  "from": "Ho Chi Minh City",
+  "to": "My Tho",
+  "summary": "The provincial roads page says 70 km and about 1 hour on the Trung Lương expressway. A ticket page says 66 km and 1.7 hours toward Mỹ Tho, and 67 km and 1.7 hours toward Sài Gòn. There is no passenger train. Fares are check on arrival.",
+  "modes": [
+    {
+      "mode": "Road",
+      "duration": "About 1 hour, or 1.7 hours",
+      "note": "Print both. The provincial roads page: 70 km and about 1 hour by bus on the Ho Chi Minh City–Trung Lương expressway. The ticket page: 66 km and 1.7 hours toward Mỹ Tho, and 67 km and 1.7 hours toward Sài Gòn. Fares are check on arrival. The bus station is on đường Ấp Bắc. A street number was not printed."
+    },
+    {
+      "mode": "Train",
+      "duration": "No passenger service",
+      "note": "The Sài Gòn–Mỹ Tho railway stopped in 1958. A Ho Chi Minh City–Cần Thơ line is in pre-feasibility and does not name a Mỹ Tho station. Do not plan a train."
+    }
+  ],
+  "seoTitle": "Ho Chi Minh City to My Tho — 70 km or 66 km",
+  "seoDescription": "70 km and about 1 hour on the provincial page, or 66 km and 1.7 hours on a ticket page. The return is 67 km and 1.7 hours. No passenger train. Fares are check on arrival.",
+  "faqs": [
+    {
+      "q": "Can you take the train to My Tho?",
+      "a": "No. The Sài Gòn–Mỹ Tho railway stopped in 1958. The planned Ho Chi Minh City–Cần Thơ line does not name a Mỹ Tho station."
+    },
+    {
+      "q": "Which distance should you trust?",
+      "a": "Keep both. The provincial roads page says 70 km and about 1 hour. A ticket page says 66 km and 1.7 hours toward Mỹ Tho, and 67 km and 1.7 hours back. Fares are check on arrival."
+    }
+  ]
+}
