@@ -245,7 +245,7 @@ export interface FoodSpot {
   address?: string;
   /** Short caption. Hours stay out of this line. */
   caption?: string;
-  /** Writeup beside a licensed photo. A spot with no photo stays off the page. */
+  /** Writeup beside a licensed photo. With no photo, the template prints the name, Vietnamese name, address, and note as a text line. */
   note?: string;
   photo?: string;
   dishSlug?: string;
