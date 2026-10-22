@@ -12,7 +12,7 @@
   "days": [
     {
       "title": "A coconut day on the Tiền",
-      "body": "Start on đường 30 Tháng 4, then give the morning to the boat so a same-day return to Ho Chi Minh City still works. The road is 86 km and 1.5 hours, about two hours, about 85 km and about 2 hours, or 85–90 km and 1.5–2 hours. Cồn Phụng is the longer islet. The town pier is the shorter creek. After dinner, walk Hồ Trúc Giang and the parks, then the night market. The Đồng Khởi house at Định Thủy is another morning.",
+      "body": "Start on đường 30 Tháng 4, then give the morning to the boat so a same-day return to Ho Chi Minh City still works. The road is 86 km and 1.5 hours, about two hours, about 85 km and about 2 hours, or 85–90 km and 1.5–2 hours. Cồn Phụng is the longer islet. Cồn Quy is often the same boat, and no kilometer was printed for it. The town pier is the shorter creek. After dinner, walk Hồ Trúc Giang and the parks, then the night market. The Đồng Khởi house at Định Thủy is another morning.",
       "placeSlug": "ben-tre"
     }
   ],
@@ -27,11 +27,23 @@
       "name": "Cồn Phụng",
       "minutes": 180,
       "placeSlug": "ben-tre",
+      "attractionSlug": "con-phung",
       "approach": {
         "mode": "boat",
         "note": "12 km by road and 25 km by river on the national rural page, or about 10 km on the operator page. The town orchard boat uses a different landing, bến tàu du lịch thành phố Bến Tre. A fare is check on arrival."
       },
       "note": "The orchard gate, the kiln, and lunch under the palms. The national rural page does not print a minute count. The 180 minutes are not a published duration. The gate is check on arrival. This is not cù lao Thới Sơn, and the Friday town cart does not reach it."
+    },
+    {
+      "name": "Cồn Quy",
+      "minutes": 60,
+      "placeSlug": "ben-tre",
+      "attractionSlug": "con-quy",
+      "approach": {
+        "mode": "boat",
+        "note": "Often the same boat as Cồn Phụng. No kilometer was printed. Do not reuse the Cồn Phụng distances. A fare is check on arrival."
+      },
+      "note": "Longan, honey tea, and a ditch you can bail for fish. No source gives a duration. The 60 minutes are not a published duration. A month for the blossom is check on arrival."
     },
     {
       "name": "Hồ Trúc Giang",
