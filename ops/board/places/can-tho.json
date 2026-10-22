@@ -19,39 +19,39 @@
   },
   "stages": {
     "destination": {
-      "status": "shell",
-      "note": "A place file exists. It has not been set up from a stored dossier.",
-      "updated": null,
+      "status": "paged",
+      "note": "Place, interests, Ninh Kieu stay, can-tho-day. Pin removed. Food slug is can-tho.",
+      "updated": "2026-10-22T18:02:19.495Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "status": "enriched",
+      "note": "Prose from the stored dossier. Season chip is the three Vietnam Tourism windows. Distances 155, 165, and 120 km of expressway all stay.",
+      "updated": "2026-10-22T18:02:37.449Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "status": "checked",
+      "note": "Hero is the floating market. Pin unset. Dining leads. Five sights have two licensed frames. Check on arrival where a fee or hour was not printed.",
+      "updated": "2026-10-22T18:02:37.548Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Can Tho food guide. 31 dishes and 6 streets. Photo cards: hu tieu, banh xeo, canh chua. Gap to 40 named in the draft.",
+      "updated": "2026-10-22T18:02:37.644Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "status": "enriched",
+      "note": "Japan Guide order. No restaurant picks. Both canh chua wordings. Soc Trang origin kept for bun nuoc leo.",
+      "updated": "2026-10-22T18:02:37.744Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "status": "checked",
+      "note": "37 sourced entries. Extra rooms were not in the dossier. Not padded.",
+      "updated": "2026-10-22T18:02:37.837Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -101,11 +101,11 @@
       "file": "src/content/attractions/can-tho--cai-rang.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Published sight. Hours disagree; both figures stay. Page stays the published shell.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Finished sight: kicker, notice, body, second frame, hours and fee or Check on arrival.",
+      "updated": "2026-10-22T18:02:38.119Z",
       "reworkCount": 0
     },
     {
@@ -133,11 +133,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Fee is one listing extract. No second tariff.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Finished sight: kicker, notice, body, second frame, hours and fee or Check on arrival.",
+      "updated": "2026-10-22T18:02:38.402Z",
       "reworkCount": 0
     },
     {
@@ -149,11 +149,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Fee unsourced.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No second clean frame of the hall. Facts stay in the quay prose.",
+      "updated": "2026-10-22T18:02:38.697Z",
       "reworkCount": 0
     },
     {
@@ -165,11 +165,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Hours and fee unsourced.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Finished sight: kicker, notice, body, second frame, hours and fee or Check on arrival.",
+      "updated": "2026-10-22T18:02:38.987Z",
       "reworkCount": 0
     },
     {
@@ -181,11 +181,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Area and distance disagree. Both kept.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No stork photograph. Distances and areas stay in the Phong Dien prose.",
+      "updated": "2026-10-22T18:02:39.266Z",
       "reworkCount": 0
     },
     {
@@ -197,11 +197,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Ferry minutes are one national figure.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No frame of the islet bank, fruit trees, and a boat together.",
+      "updated": "2026-10-22T18:02:39.544Z",
       "reworkCount": 0
     },
     {
@@ -213,11 +213,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Department hours not opened.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "One market frame and no second. Department hours were not printed.",
+      "updated": "2026-10-22T18:02:39.834Z",
       "reworkCount": 0
     },
     {
@@ -229,11 +229,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Fee unsourced.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Finished sight: kicker, notice, body, second frame, hours and fee or Check on arrival.",
+      "updated": "2026-10-22T18:02:40.130Z",
       "reworkCount": 0
     },
     {
@@ -245,11 +245,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Free and 08:00-18:00 on one promotion page.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No frame of the gate or towers. Hours and the free entry stay in the museum prose.",
+      "updated": "2026-10-22T18:02:40.409Z",
       "reworkCount": 0
     },
     {
@@ -261,11 +261,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Hours unsourced.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Finished sight: kicker, notice, body, second frame, hours and fee or Check on arrival.",
+      "updated": "2026-10-22T18:02:40.697Z",
       "reworkCount": 0
     },
     {
@@ -309,11 +309,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Area figures disagree.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No frame of the orchard. Figures stay in the Phong Dien prose.",
+      "updated": "2026-10-22T18:02:40.989Z",
       "reworkCount": 0
     },
     {
@@ -325,11 +325,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Shop name is not a pick.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No workshop frame. The noodle stop stays in the food prose.",
+      "updated": "2026-10-22T18:02:41.270Z",
       "reworkCount": 0
     },
     {
@@ -789,11 +789,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Lunar date not printed.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No event photograph. Next date Check on arrival. Named in the place FAQ.",
+      "updated": "2026-10-22T18:02:41.557Z",
       "reworkCount": 0
     },
     {
@@ -805,11 +805,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Lunar date not printed.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No event photograph. Lunar date Check on arrival. Named on the communal-house page.",
+      "updated": "2026-10-22T18:02:41.850Z",
       "reworkCount": 0
     },
     {
@@ -821,11 +821,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Days not printed.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No event photograph. Days Check on arrival. Named in the place FAQ.",
+      "updated": "2026-10-22T18:02:42.136Z",
       "reworkCount": 0
     },
     {
@@ -837,11 +837,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Own days not printed.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No event photograph. Next date Check on arrival. Cakes stay in the food record.",
+      "updated": "2026-10-22T18:02:42.425Z",
       "reworkCount": 0
     },
     {
@@ -853,11 +853,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Theme printed. Days not printed.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No event photograph. Days Check on arrival. Named in the place FAQ.",
+      "updated": "2026-10-22T18:02:42.711Z",
       "reworkCount": 0
     },
     {
@@ -881,100 +881,164 @@
   "claim": null,
   "log": [
     {
-      "at": "2026-10-22T17:11:57.453Z",
+      "at": "2026-10-22T18:02:42.711Z",
       "place": "can-tho",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: lunar dates for Ooc Om Boc and Ky Yen, 2027 dates, minutes to Chau Doc, My Tho, Ben Tre, and Ca Mau, and a Phu Quoc timetable."
+      "stage": "quality",
+      "item": "can-tho--can-tho-food-week",
+      "status": "skipped",
+      "note": "No event photograph. Days Check on arrival. Named in the place FAQ."
     },
     {
-      "at": "2026-10-22T17:11:36.896Z",
+      "at": "2026-10-22T18:02:42.613Z",
       "place": "can-tho",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: the hour the quay goes quiet, and a cafe street. None was found."
+      "stage": "copy",
+      "item": "can-tho--can-tho-food-week",
+      "status": "skipped",
+      "note": "No event photograph. Days Check on arrival. Named in the place FAQ."
     },
     {
-      "at": "2026-10-22T17:11:36.705Z",
+      "at": "2026-10-22T18:02:42.519Z",
       "place": "can-tho",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a single music clock, a cruise fare, and a bar street. None was found."
+      "stage": "page",
+      "item": "can-tho--can-tho-food-week",
+      "status": "skipped",
+      "note": "No event photograph. Days Check on arrival. Named in the place FAQ."
     },
     {
-      "at": "2026-10-22T17:11:36.513Z",
+      "at": "2026-10-22T18:02:42.425Z",
       "place": "can-tho",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: the extra rooms a 40-to-50 guide still needs, stall prices, a De Tham hour, a Vietnamese name for fried shrimp cake, and the public food slug, which still points at Ho Chi Minh City."
+      "stage": "quality",
+      "item": "can-tho--southern-folk-cake-festival",
+      "status": "skipped",
+      "note": "No event photograph. Next date Check on arrival. Cakes stay in the food record."
     },
     {
-      "at": "2026-10-22T17:11:35.249Z",
+      "at": "2026-10-22T18:02:42.329Z",
       "place": "can-tho",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a single Cai Rang hour, a second Binh Thuy tariff, a chosen Bang Lang area, Phong Dien hours on a department page, licensed photos, and the tombs and Hoi Linh."
+      "stage": "copy",
+      "item": "can-tho--southern-folk-cake-festival",
+      "status": "skipped",
+      "note": "No event photograph. Next date Check on arrival. Cakes stay in the food record."
     },
     {
-      "at": "2026-10-22T17:11:34.504Z",
+      "at": "2026-10-22T18:02:42.232Z",
       "place": "can-tho",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a city pin, a chosen road distance, boat and taxi fares, airport-to-quay minutes, a 2026 bus timetable, and visa rules."
+      "stage": "page",
+      "item": "can-tho--southern-folk-cake-festival",
+      "status": "skipped",
+      "note": "No event photograph. Next date Check on arrival. Cakes stay in the food record."
     },
     {
-      "at": "2026-10-22T17:10:53.834Z",
+      "at": "2026-10-22T18:02:42.136Z",
       "place": "can-tho",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Festivals and side trips are drafted. Still open: lunar dates and 2027 dates are not printed, and minutes to Chau Doc, My Tho, Ben Tre, and Ca Mau are unsourced."
+      "stage": "quality",
+      "item": "can-tho--river-culture-festival",
+      "status": "skipped",
+      "note": "No event photograph. Days Check on arrival. Named in the place FAQ."
     },
     {
-      "at": "2026-10-22T17:10:53.447Z",
+      "at": "2026-10-22T18:02:42.043Z",
       "place": "can-tho",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The ordinary day is drafted. Still open: the hour the city goes quiet was not printed, and no cafe street was found."
+      "stage": "copy",
+      "item": "can-tho--river-culture-festival",
+      "status": "skipped",
+      "note": "No event photograph. Days Check on arrival. Named in the place FAQ."
     },
     {
-      "at": "2026-10-22T17:10:53.284Z",
+      "at": "2026-10-22T18:02:41.943Z",
       "place": "can-tho",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The quay evening is drafted. Still open: music clocks disagree (19:30-21:00 and 20:00-23:00), the cruise fare is unsourced, and no bar street was found."
+      "stage": "page",
+      "item": "can-tho--river-culture-festival",
+      "status": "skipped",
+      "note": "No event photograph. Days Check on arrival. Named in the place FAQ."
     },
     {
-      "at": "2026-10-22T17:10:53.135Z",
+      "at": "2026-10-22T18:02:41.850Z",
       "place": "can-tho",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Dishes and streets are drafted. Still open: the list is short of a 40-to-50 guide, De Tham has no hour, several plates have one source or no Vietnamese name, and the public food slug still points at Ho Chi Minh City."
+      "stage": "quality",
+      "item": "can-tho--ky-yen-binh-thuy",
+      "status": "skipped",
+      "note": "No event photograph. Lunar date Check on arrival. Named on the communal-house page."
     },
     {
-      "at": "2026-10-22T17:10:51.996Z",
+      "at": "2026-10-22T18:02:41.751Z",
       "place": "can-tho",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Sights and areas are drafted. Still open: Cai Rang hours disagree, the Binh Thuy fee is one extract, Bang Lang area disagrees, Phong Dien hours are unsourced on a department page, and licensed photos are missing."
+      "stage": "copy",
+      "item": "can-tho--ky-yen-binh-thuy",
+      "status": "skipped",
+      "note": "No event photograph. Lunar date Check on arrival. Named on the communal-house page."
     },
     {
-      "at": "2026-10-22T17:10:51.294Z",
+      "at": "2026-10-22T18:02:41.651Z",
       "place": "can-tho",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and getting there are drafted. Still open: no city pin, the road figures disagree (155 km, 165 km, and 120 km of expressway; about 2 hours and 3.5 hours), and boat fare plus airport-to-quay minutes are unsourced."
+      "stage": "page",
+      "item": "can-tho--ky-yen-binh-thuy",
+      "status": "skipped",
+      "note": "No event photograph. Lunar date Check on arrival. Named on the communal-house page."
+    },
+    {
+      "at": "2026-10-22T18:02:41.557Z",
+      "place": "can-tho",
+      "stage": "quality",
+      "item": "can-tho--ooc-om-boc",
+      "status": "skipped",
+      "note": "No event photograph. Next date Check on arrival. Named in the place FAQ."
+    },
+    {
+      "at": "2026-10-22T18:02:41.461Z",
+      "place": "can-tho",
+      "stage": "copy",
+      "item": "can-tho--ooc-om-boc",
+      "status": "skipped",
+      "note": "No event photograph. Next date Check on arrival. Named in the place FAQ."
+    },
+    {
+      "at": "2026-10-22T18:02:41.367Z",
+      "place": "can-tho",
+      "stage": "page",
+      "item": "can-tho--ooc-om-boc",
+      "status": "skipped",
+      "note": "No event photograph. Next date Check on arrival. Named in the place FAQ."
+    },
+    {
+      "at": "2026-10-22T18:02:41.271Z",
+      "place": "can-tho",
+      "stage": "quality",
+      "item": "can-tho--hu-tieu-village",
+      "status": "skipped",
+      "note": "No workshop frame. The noodle stop stays in the food prose."
+    },
+    {
+      "at": "2026-10-22T18:02:41.179Z",
+      "place": "can-tho",
+      "stage": "copy",
+      "item": "can-tho--hu-tieu-village",
+      "status": "skipped",
+      "note": "No workshop frame. The noodle stop stays in the food prose."
+    },
+    {
+      "at": "2026-10-22T18:02:41.083Z",
+      "place": "can-tho",
+      "stage": "page",
+      "item": "can-tho--hu-tieu-village",
+      "status": "skipped",
+      "note": "No workshop frame. The noodle stop stays in the food prose."
+    },
+    {
+      "at": "2026-10-22T18:02:40.989Z",
+      "place": "can-tho",
+      "stage": "quality",
+      "item": "can-tho--my-khanh",
+      "status": "skipped",
+      "note": "No frame of the orchard. Figures stay in the Phong Dien prose."
+    },
+    {
+      "at": "2026-10-22T18:02:40.891Z",
+      "place": "can-tho",
+      "stage": "copy",
+      "item": "can-tho--my-khanh",
+      "status": "skipped",
+      "note": "No frame of the orchard. Figures stay in the Phong Dien prose."
     }
   ]
 }

@@ -1,0 +1,59 @@
+{
+  "slug": "dinh-binh-thuy",
+  "placeSlug": "can-tho",
+  "name": "Binh Thuy communal house",
+  "nameVi": "Đình Bình Thủy",
+  "kicker": "Communal house, also called Long Tuyền Cổ Miếu",
+  "summary": "Stop at Đình Bình Thủy for the hall the procuracy lists beside the ancient house, and for Kỳ Yên Thượng Điền if the festival day matches your dates. The lunar date was not printed. Check on arrival. A quiet day is a thin visit. The hall is not the Dương house ticket.",
+  "dots": 3,
+  "district": "Bình Thủy",
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "With the ancient house. Minutes: Check on arrival.",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The yellow hall and stele at Đình Bình Thủy",
+  "notice": {
+    "title": "Two festival names, not one rite",
+    "body": "The department’s cultural list places Kỳ Yên Thượng Điền at this hall. The city’s top-7 page names Lễ Thượng Điền and Lễ Hạ Điền at Bến Ninh Kiều. It does not say they are the same rite."
+  },
+  "body": [
+    "Viện kiểm sát nhân dân thành phố Cần Thơ uses both Đình Bình Thủy and Long Tuyền Cổ Miếu. The department’s English cultural list says the Kỳ Yên Thượng Điền festival is held here each year and honors early settlers and local heroes. A ritual order was not printed. A room-by-room description was not on the accounts read for the city.",
+    "The lunar month was not in the cultural-list blurb. Check on arrival. A fee and a counted visit were not printed. Check on arrival. Minutes from Ninh Kiều, and from the ancient house, were not printed. Check on arrival. Do not pay the house listing and assume this gate is included."
+  ],
+  "figures": [
+    {
+      "id": "can-tho-dinh-binh-thuy-2",
+      "caption": "Interior of Đình Bình Thủy",
+      "alt": "Interior of the Binh Thuy communal house in Can Tho"
+    }
+  ],
+  "gettingThere": [
+    "The hall is in Bình Thủy, the same district as Nhà cổ Bình Thủy at 144 Bùi Hữu Nghĩa. Go with that visit if you are already on the road. Minutes were not printed. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Ninh Kiều",
+      "body": "By road toward Bình Thủy. A minute count was not printed. Check on arrival."
+    },
+    {
+      "heading": "From the ancient house",
+      "body": "The two sites are paired in the city sketch. No account prints a shared gate or a walking minute between them. Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival. The cultural list says the festival is annual and does not print the lunar date or a daily clock.",
+  "closed": "A weekly closing day was not printed. Check on arrival.",
+  "admissionNote": "Check on arrival. No tariff was printed for the hall. The ancient-house listing of 20,000–50,000 VND is a different gate.",
+  "links": [
+    {
+      "label": "Can Tho cultural list",
+      "url": "https://canthotourism.vn/en/cultural",
+      "note": "Sở Văn hóa, Thể thao và Du lịch thành phố Cần Thơ"
+    },
+    {
+      "label": "A few lines on Can Tho",
+      "url": "https://vienkiemsat.cantho.gov.vn/Vai-net-ve-Can-Tho",
+      "note": "Viện kiểm sát nhân dân thành phố Cần Thơ"
+    }
+  ],
+  "interests": ["oldTowns"]
+}

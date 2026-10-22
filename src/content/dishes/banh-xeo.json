@@ -3,17 +3,24 @@
   "name": "Banh xeo",
   "nameVi": "Bánh xèo",
   "summary": "Banh xeo is a crisp turmeric rice-flour crepe filled with pork and shrimp, eaten wrapped in herbs and lettuce with a dipping sauce. Central and southern versions differ in size.",
-  "origin": "Southern and central Vietnam. Ho Chi Minh City is an easy place to eat a good one. In Da Nang the crepe runs smaller and crisper, and people wrap a piece in herbs before the dip.",
+  "origin": "Southern and central Vietnam. Ho Chi Minh City is an easy place to eat a good one. In Da Nang the crepe runs smaller and crisper, and people wrap a piece in herbs before the dip. Vietnam Tourism’s Can Tho place page lists a Can Tho crispy pancake. The Mekong dining chapter, which names Can Tho as a base, says the Mekong version is large, filled with pork, bean sprouts, and shrimp, and eaten in a lettuce leaf with herbs and nước chấm.",
   "howToEat": [
     "Break a piece, wrap it in a leaf with herbs, and dip. Do not eat it with a fork as a pancake.",
-    "It should be crisp when it lands. A soggy crepe has waited too long."
+    "It should be crisp when it lands. A soggy crepe has waited too long.",
+    "In the Mekong chapter the crepe is large, filled with pork, bean sprouts, and shrimp, and eaten in a lettuce leaf with herbs and nước chấm."
   ],
   "where": [
     "In Da Nang the crepe is the smaller one on that city’s pages. Han Market and Con Market both turn it out from late morning.",
-    "In Ho Chi Minh City, Vietnam Tourism’s feast-streets page calls it a crispy folded crepe with shrimp, pork, and bean sprouts, dipped in fish sauce. The southern page calls it a southern-style savoury pancake. The attractions page places sizzling bánh xèo at the food stalls at the end of the Ben Thanh hall."
+    "In Ho Chi Minh City, Vietnam Tourism’s feast-streets page calls it a crispy folded crepe with shrimp, pork, and bean sprouts, dipped in fish sauce. The southern page calls it a southern-style savoury pancake. The attractions page places sizzling bánh xèo at the food stalls at the end of the Ben Thanh hall.",
+    "In Can Tho, Vietnam Tourism’s place page lists the crispy pancake among the plates, and Cồn Sơn serves bánh xèo among the garden cakes."
   ],
   "priceBand": "A shared plate plus herbs is a light meal.",
-  "placeSlugs": ["ho-chi-minh-city", "can-tho", "da-nang"],
+  "placeSlugs": [
+    "ho-chi-minh-city",
+    "can-tho",
+    "da-nang"
+  ],
   "seoTitle": "Banh xeo — crispy crepe",
-  "seoDescription": "How to eat banh xeo, wrapped in herbs, and where to order it."
+  "seoDescription": "How to eat banh xeo, wrapped in herbs, and where to order it.",
+  "verified": "22 Oct 2026"
 }
