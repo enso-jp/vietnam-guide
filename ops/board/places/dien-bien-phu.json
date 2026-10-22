@@ -55,39 +55,39 @@
       "reworkCount": 0
     },
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, two photo-backed sights, one basin-day itinerary. No city pin. No food guide.",
+      "updated": "2026-10-22T07:25:23.774Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:55:12.028Z",
+      "status": "enriched",
+      "note": "Prose keeps every disagreeing figure. Season holds the 2026 Ban flower move. Hero is the basin, rice, and hills.",
+      "updated": "2026-10-22T07:25:23.840Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:55:12.028Z",
+      "status": "checked",
+      "note": "Read against the dossier. Photos match the river, the rice, and the bridge. Monument stays in the text because no licensed frame kept the statue and the valley.",
+      "updated": "2026-10-22T07:25:23.902Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "skipped",
+      "note": "No licensed plate photo of this city's food. No food guide, no dish pages, no interests.food.",
+      "updated": "2026-10-22T07:25:23.966Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:55:12.028Z",
+      "status": "skipped",
+      "note": "No food guide to polish. Dish names stay in the place interests body.",
+      "updated": "2026-10-22T07:25:24.028Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:55:12.028Z",
+      "status": "skipped",
+      "note": "No food guide to check.",
+      "updated": "2026-10-22T07:25:24.088Z",
       "reworkCount": 0
     }
   },
@@ -178,14 +178,14 @@
       "track": "unit",
       "name": "Muong Thanh bridge",
       "slug": "muong-thanh-bridge",
-      "file": null,
+      "file": "src/content/attractions/dien-bien-phu--muong-thanh-bridge.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "No licensed photo in the dossier. No public file.",
-      "updated": "2026-10-22T06:55:12.028Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Span and crossing match the credits. No museum fee assigned to the bridge.",
+      "updated": "2026-10-22T07:25:51.020Z",
       "reworkCount": 0
     },
     {
@@ -290,14 +290,14 @@
       "track": "unit",
       "name": "Nam Rom basin",
       "slug": "nam-rom",
-      "file": null,
+      "file": "src/content/attractions/dien-bien-phu--nam-rom.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "No licensed photo in the dossier. No public file.",
-      "updated": "2026-10-22T06:55:12.028Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "River frame and rice frame match the captions. No city pin.",
+      "updated": "2026-10-22T07:25:51.215Z",
       "reworkCount": 0
     },
     {
@@ -657,6 +657,102 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-22T07:25:51.215Z",
+      "place": "dien-bien-phu",
+      "stage": "quality",
+      "item": "dien-bien-phu--nam-rom",
+      "status": "checked",
+      "note": "River frame and rice frame match the captions. No city pin."
+    },
+    {
+      "at": "2026-10-22T07:25:51.150Z",
+      "place": "dien-bien-phu",
+      "stage": "copy",
+      "item": "dien-bien-phu--nam-rom",
+      "status": "enriched",
+      "note": "Basin fields, not a tea plateau and not a prison wall."
+    },
+    {
+      "at": "2026-10-22T07:25:51.083Z",
+      "place": "dien-bien-phu",
+      "stage": "page",
+      "item": "dien-bien-phu--nam-rom",
+      "status": "paged",
+      "note": "River and rice page. No park fee was printed."
+    },
+    {
+      "at": "2026-10-22T07:25:51.020Z",
+      "place": "dien-bien-phu",
+      "stage": "quality",
+      "item": "dien-bien-phu--muong-thanh-bridge",
+      "status": "checked",
+      "note": "Span and crossing match the credits. No museum fee assigned to the bridge."
+    },
+    {
+      "at": "2026-10-22T07:25:50.957Z",
+      "place": "dien-bien-phu",
+      "stage": "copy",
+      "item": "dien-bien-phu--muong-thanh-bridge",
+      "status": "enriched",
+      "note": "40 m by 5 m stay on the route page. Handbook does not print them."
+    },
+    {
+      "at": "2026-10-22T07:25:50.883Z",
+      "place": "dien-bien-phu",
+      "stage": "page",
+      "item": "dien-bien-phu--muong-thanh-bridge",
+      "status": "paged",
+      "note": "Bridge page with two licensed frames. Ticket is check on arrival."
+    },
+    {
+      "at": "2026-10-22T07:25:24.088Z",
+      "place": "dien-bien-phu",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "skipped",
+      "note": "No food guide to check."
+    },
+    {
+      "at": "2026-10-22T07:25:24.028Z",
+      "place": "dien-bien-phu",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "skipped",
+      "note": "No food guide to polish. Dish names stay in the place interests body."
+    },
+    {
+      "at": "2026-10-22T07:25:23.966Z",
+      "place": "dien-bien-phu",
+      "stage": "food",
+      "item": null,
+      "status": "skipped",
+      "note": "No licensed plate photo of this city's food. No food guide, no dish pages, no interests.food."
+    },
+    {
+      "at": "2026-10-22T07:25:23.902Z",
+      "place": "dien-bien-phu",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Read against the dossier. Photos match the river, the rice, and the bridge. Monument stays in the text because no licensed frame kept the statue and the valley."
+    },
+    {
+      "at": "2026-10-22T07:25:23.840Z",
+      "place": "dien-bien-phu",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Prose keeps every disagreeing figure. Season holds the 2026 Ban flower move. Hero is the basin, rice, and hills."
+    },
+    {
+      "at": "2026-10-22T07:25:23.775Z",
+      "place": "dien-bien-phu",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place shell, two photo-backed sights, one basin-day itinerary. No city pin. No food guide."
+    },
+    {
       "at": "2026-10-22T06:55:12.028Z",
       "place": "dien-bien-phu",
       "stage": "researchContext",
@@ -719,38 +815,6 @@
       "item": null,
       "status": "needs_depth",
       "note": "The relic day is drafted. Still open: a breakfast hour and the hour the ward goes quiet."
-    },
-    {
-      "at": "2026-10-22T06:54:50.372Z",
-      "place": "dien-bien-phu",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Three evening addresses are drafted. Still open: a bylaw closing hour and a bar street."
-    },
-    {
-      "at": "2026-10-22T06:54:50.189Z",
-      "place": "dien-bien-phu",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The culture desk nine and four streets are drafted. Still open: market clocks, stall prices, and com lam, which is not in the nine."
-    },
-    {
-      "at": "2026-10-22T06:54:49.686Z",
-      "place": "dien-bien-phu",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Battle sights are drafted. Still open: Doc Lap and the rest of the 45 catalog lines, a panorama length, and one chosen museum clock."
-    },
-    {
-      "at": "2026-10-22T06:54:01.341Z",
-      "place": "dien-bien-phu",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and getting there are drafted. Still open: a Vietnam Railways timetable, one chosen flight figure, and one chosen Hanoi road kilometer."
     }
   ]
 }
