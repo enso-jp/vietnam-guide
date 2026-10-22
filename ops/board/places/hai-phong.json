@@ -55,39 +55,39 @@
       "reworkCount": 0
     },
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, interests, one itinerary, and the food link. Bach Long Vy stays a side-trip placeholder. Sights without a licensed photo of the subject are not cards. Check on arrival: fees, gate hours, road minutes, market hours, the 2021 Tran Phu clock, next year solar dates.",
+      "updated": "2026-10-22T04:45:00.899Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:20:08.758Z",
+      "status": "enriched",
+      "note": "Place prose and the opera-square hero. Season chip is the peninsula rite week. Unsourced fees and hours stay Check on arrival.",
+      "updated": "2026-10-22T04:45:00.968Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:20:08.758Z",
+      "status": "checked",
+      "note": "Read against the dossier. Both area figures stay. No invented fee or hour. Hero is the opera facade.",
+      "updated": "2026-10-22T04:45:01.033Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Food guide and banh da cua only. A licensed plate exists. Other named dishes are not pictured.",
+      "updated": "2026-10-22T04:45:01.100Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:20:08.758Z",
+      "status": "enriched",
+      "note": "Bowl prose from S11 and S12. Texture is the cracker line. No stall price. Taste is the sourced toppings, not an invented flavor word.",
+      "updated": "2026-10-22T04:45:01.165Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:20:08.758Z",
+      "status": "checked",
+      "note": "Plate photographs opened. Other dishes stay off the guide. Market hours stay Check on arrival.",
+      "updated": "2026-10-22T04:45:01.232Z",
       "reworkCount": 0
     }
   },
@@ -101,11 +101,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Center square. Street of the auditorium door was not on the city page.",
-      "updated": "2026-10-22T04:20:08.758Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject.",
+      "updated": "2026-10-22T04:45:24.012Z",
       "reworkCount": 0
     },
     {
@@ -117,11 +117,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "River walk, 1415 m, pedestrian pilot from the end of December 2018.",
-      "updated": "2026-10-22T04:20:08.758Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject.",
+      "updated": "2026-10-22T04:45:24.209Z",
       "reworkCount": 0
     },
     {
@@ -133,11 +133,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "City temple. Not the Do Son Nghe.",
-      "updated": "2026-10-22T04:20:08.758Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject.",
+      "updated": "2026-10-22T04:45:24.417Z",
       "reworkCount": 0
     },
     {
@@ -146,14 +146,14 @@
       "track": "unit",
       "name": "Du Hang pagoda",
       "slug": "du-hang-pagoda",
-      "file": null,
+      "file": "src/content/attractions/hai-phong--du-hang-pagoda.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Phuc Lam tu, Ho Nam, Le Chan.",
-      "updated": "2026-10-22T04:20:08.758Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Opened both photographs. Subject reads in the frame. Unsourced fee and hours stay Check on arrival.",
+      "updated": "2026-10-22T04:45:24.644Z",
       "reworkCount": 0
     },
     {
@@ -165,11 +165,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Boat floor and the dragon carving. Ranked 1962.",
-      "updated": "2026-10-22T04:20:08.758Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject.",
+      "updated": "2026-10-22T04:45:24.832Z",
       "reworkCount": 0
     },
     {
@@ -181,11 +181,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "66 Dien Bien Phu. One clock: Tue-Sun 8-11 and 14-17, free on the 17 Aug 2025 account.",
-      "updated": "2026-10-22T04:20:08.758Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject.",
+      "updated": "2026-10-22T04:45:25.030Z",
       "reworkCount": 0
     },
     {
@@ -197,11 +197,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Night approach. The place page can carry them.",
-      "updated": "2026-10-22T04:20:08.758Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject.",
+      "updated": "2026-10-22T04:45:25.222Z",
       "reworkCount": 0
     },
     {
@@ -210,14 +210,14 @@
       "track": "unit",
       "name": "Do Son peninsula",
       "slug": "do-son",
-      "file": null,
+      "file": "src/content/attractions/hai-phong--do-son.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "The city beach. Not a new slug.",
-      "updated": "2026-10-22T04:20:08.758Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Opened both photographs. Subject reads in the frame. Unsourced fee and hours stay Check on arrival.",
+      "updated": "2026-10-22T04:45:25.440Z",
       "reworkCount": 0
     },
     {
@@ -229,11 +229,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sea-god temple for the buffalo festival. More than 20 km.",
-      "updated": "2026-10-22T04:20:08.758Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject.",
+      "updated": "2026-10-22T04:45:25.638Z",
       "reworkCount": 0
     },
     {
@@ -245,11 +245,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Offshore light. Nearly 14 ha and nearly 13 ha on the same page.",
-      "updated": "2026-10-22T04:20:08.758Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject.",
+      "updated": "2026-10-22T04:45:25.839Z",
       "reworkCount": 0
     },
     {
@@ -261,11 +261,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Unnumbered ships, Vung Set. Works started 8 Jan 2025.",
-      "updated": "2026-10-22T04:20:08.758Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject.",
+      "updated": "2026-10-22T04:45:26.039Z",
       "reworkCount": 0
     },
     {
@@ -277,11 +277,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Two diameter sentences on one page. Do not pick one.",
-      "updated": "2026-10-22T04:20:08.758Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject.",
+      "updated": "2026-10-22T04:45:26.235Z",
       "reworkCount": 0
     },
     {
@@ -562,14 +562,14 @@
       "track": "bundled",
       "name": "Banh da cua",
       "slug": "banh-da-cua",
-      "file": null,
+      "file": "src/content/dishes/banh-da-cua.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "No licensed photo. In the food file, not a card. Stall prices left out.",
-      "updated": "2026-10-22T04:19:58.315Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Licensed plate. Other dishes stay unpictured.",
+      "updated": "2026-10-22T04:45:26.268Z",
       "reworkCount": 0
     },
     {
@@ -1045,11 +1045,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "2026 final 19 Sep at 07:30. Next solar year moves.",
-      "updated": "2026-10-22T04:20:08.569Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed festival photograph, so no event card.",
+      "updated": "2026-10-22T04:45:26.300Z",
       "reworkCount": 0
     },
     {
@@ -1061,11 +1061,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Lunar 8-10 month 2, plus the center article's three days.",
-      "updated": "2026-10-22T04:20:08.613Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed festival photograph, so no event card.",
+      "updated": "2026-10-22T04:45:26.332Z",
       "reworkCount": 0
     },
     {
@@ -1077,11 +1077,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Lunar 8-10 month 2. Main rite 23:00 on the 9th.",
-      "updated": "2026-10-22T04:20:08.650Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed festival photograph, so no event card.",
+      "updated": "2026-10-22T04:45:26.365Z",
       "reworkCount": 0
     }
   ],
@@ -1089,100 +1089,164 @@
   "claim": null,
   "log": [
     {
-      "at": "2026-10-22T04:20:08.759Z",
+      "at": "2026-10-22T04:45:26.235Z",
       "place": "hai-phong",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "left out next year's solar dates, Cat Ba boat minutes, and Ha Long road minutes."
+      "stage": "quality",
+      "item": "hai-phong--cao-quy",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject."
     },
     {
-      "at": "2026-10-22T04:19:59.525Z",
+      "at": "2026-10-22T04:45:26.169Z",
       "place": "hai-phong",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "left out the flamboyant month and a citywide quiet hour."
+      "stage": "copy",
+      "item": "hai-phong--cao-quy",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject."
     },
     {
-      "at": "2026-10-22T04:19:59.292Z",
+      "at": "2026-10-22T04:45:26.101Z",
       "place": "hai-phong",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "left out a bar street and a center closing hour."
+      "stage": "page",
+      "item": "hai-phong--cao-quy",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject."
     },
     {
-      "at": "2026-10-22T04:19:59.154Z",
+      "at": "2026-10-22T04:45:26.039Z",
       "place": "hai-phong",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "left out market hours, a nem cua be method, stall prices, and whether the 2021 Tran Phu clock still holds."
+      "stage": "quality",
+      "item": "hai-phong--pier-k15",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject."
     },
     {
-      "at": "2026-10-22T04:19:58.248Z",
+      "at": "2026-10-22T04:45:25.972Z",
       "place": "hai-phong",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "left out gate hours and the department-list interiors that were named only."
+      "stage": "copy",
+      "item": "hai-phong--pier-k15",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject."
     },
     {
-      "at": "2026-10-22T04:19:56.627Z",
+      "at": "2026-10-22T04:45:25.905Z",
       "place": "hai-phong",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "left out road minutes, the airport street, a port-authority ferry table, and a second rail timetable."
+      "stage": "page",
+      "item": "hai-phong--pier-k15",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject."
     },
     {
-      "at": "2026-10-22T04:17:09.005Z",
+      "at": "2026-10-22T04:45:25.839Z",
       "place": "hai-phong",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The 2026 buffalo calendar and two lunar festivals are in. Next year's solar dates, Cat Ba boat minutes, and Ha Long road minutes are still open."
+      "stage": "quality",
+      "item": "hai-phong--hon-dau",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject."
     },
     {
-      "at": "2026-10-22T04:17:08.780Z",
+      "at": "2026-10-22T04:45:25.776Z",
       "place": "hai-phong",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Breakfast, the flamboyant walk, and a Do Son day are in. The month and a quiet hour are still open."
+      "stage": "copy",
+      "item": "hai-phong--hon-dau",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject."
     },
     {
-      "at": "2026-10-22T04:17:08.559Z",
+      "at": "2026-10-22T04:45:25.705Z",
       "place": "hai-phong",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Tam Bac and the opera square are the evening. A closing hour and any bar street are still open."
+      "stage": "page",
+      "item": "hai-phong--hon-dau",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject."
     },
     {
-      "at": "2026-10-22T04:17:08.433Z",
+      "at": "2026-10-22T04:45:25.638Z",
       "place": "hai-phong",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The food map and the Do Son speech are in. Market hours, a nem cua be method, and the 2021 Tran Phu clock are still open."
+      "stage": "quality",
+      "item": "hai-phong--do-son-temple",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject."
     },
     {
-      "at": "2026-10-22T04:16:46.238Z",
+      "at": "2026-10-22T04:45:25.574Z",
       "place": "hai-phong",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Center, Do Son, Hon Dau, K15, and Cao Quy are in. Gate hours and the department-list interiors are still open."
+      "stage": "copy",
+      "item": "hai-phong--do-son-temple",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject."
     },
     {
-      "at": "2026-10-22T04:16:45.170Z",
+      "at": "2026-10-22T04:45:25.505Z",
       "place": "hai-phong",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and the Hanoi train cells are in. Road minutes, the airport street, a port-authority ferry table, and a second rail timetable are still open."
+      "stage": "page",
+      "item": "hai-phong--do-son-temple",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject."
+    },
+    {
+      "at": "2026-10-22T04:45:25.441Z",
+      "place": "hai-phong",
+      "stage": "quality",
+      "item": "hai-phong--do-son",
+      "status": "checked",
+      "note": "Opened both photographs. Subject reads in the frame. Unsourced fee and hours stay Check on arrival."
+    },
+    {
+      "at": "2026-10-22T04:45:25.377Z",
+      "place": "hai-phong",
+      "stage": "copy",
+      "item": "hai-phong--do-son",
+      "status": "enriched",
+      "note": "Prose and both frames checked against the dossier. No invented fee, hour, or minute."
+    },
+    {
+      "at": "2026-10-22T04:45:25.283Z",
+      "place": "hai-phong",
+      "stage": "page",
+      "item": "hai-phong--do-son",
+      "status": "paged",
+      "note": "Licensed photograph of the subject. Fee and hours are Check on arrival."
+    },
+    {
+      "at": "2026-10-22T04:45:25.222Z",
+      "place": "hai-phong",
+      "stage": "quality",
+      "item": "hai-phong--center-bridges",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject."
+    },
+    {
+      "at": "2026-10-22T04:45:25.156Z",
+      "place": "hai-phong",
+      "stage": "copy",
+      "item": "hai-phong--center-bridges",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject."
+    },
+    {
+      "at": "2026-10-22T04:45:25.091Z",
+      "place": "hai-phong",
+      "stage": "page",
+      "item": "hai-phong--center-bridges",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject."
+    },
+    {
+      "at": "2026-10-22T04:45:25.030Z",
+      "place": "hai-phong",
+      "stage": "quality",
+      "item": "hai-phong--city-museum",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject."
+    },
+    {
+      "at": "2026-10-22T04:45:24.963Z",
+      "place": "hai-phong",
+      "stage": "copy",
+      "item": "hai-phong--city-museum",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo of the subject. A second frame was not kept when the only other files were a portrait banner, a watermark, fog, a logo, or the wrong subject."
     }
   ]
 }

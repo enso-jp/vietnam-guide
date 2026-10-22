@@ -1,0 +1,31 @@
+{
+  "slug": "hai-phong",
+  "name": "Hai Phong food guide",
+  "placeSlug": "hai-phong",
+  "summary": "Bánh đa cua is red rice crackers from Dư Hàng Kênh and crab. The 2021 article calls it breakfast and the evening meal. The 2023 map says lunch and all day. A price and market hours are Check on arrival.",
+  "heroSlug": "banh-da-cua",
+  "body": [],
+  "dishSlugs": ["banh-da-cua"],
+  "sections": [
+    {
+      "id": "bowl",
+      "heading": "Banh da cua",
+      "nav": "The bowl",
+      "paragraphs": [
+        "Red crackers, crab, and a crab broth. Eat it at a pavement table. The 2021 sign is often a small card tied to a tree."
+      ],
+      "dishSlugs": ["banh-da-cua"]
+    },
+    {
+      "id": "named",
+      "heading": "Other dishes",
+      "nav": "Other dishes",
+      "paragraphs": [
+        "Bún cá cay, bánh mì cay, trà cúc, nem cua bể, bánh đúc tàu, giá bể, bánh bèo, dừa dầm, chè, ốc, nộm sứa, tu hài, bề bề, cà phê cốt dừa, and sủi dìn are named on the city pages. Chả rươi, cua lông, and bún cá rô đồng are named as dishes of the former Hải Dương land now inside the city. They are not the port breakfast, and they are not the same bowl as bún cá cay. A price is Check on arrival. Market hours are Check on arrival."
+      ]
+    }
+  ],
+  "verified": "22 Oct 2026",
+  "seoTitle": "Hai Phong food guide — bánh đa cua",
+  "seoDescription": "Bánh đa cua is red crackers from Dư Hàng Kênh and crab. One article says breakfast and evening. The 2023 map says all day. A price is Check on arrival."
+}

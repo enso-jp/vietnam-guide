@@ -1,0 +1,59 @@
+{
+  "slug": "do-son",
+  "placeSlug": "hai-phong",
+  "name": "Do Son",
+  "nameVi": "Đồ Sơn",
+  "kicker": "The city’s own beach peninsula",
+  "summary": "Đồ Sơn is Hải Phòng’s sand and hill peninsula, a bit more than 20 km from the city on the Nghè page, not Hạ Long and not Cát Bà. The 12 January 2026 visitor list includes bãi tắm khu 2. A beach fee, a swim hour, and the ride minutes are Check on arrival.",
+  "dots": 4,
+  "timeNeeded": "A half day or a night",
+  "fee": "Check on arrival",
+  "getThere": "A bit more than 20 km from the city. Minutes are Check on arrival.",
+  "verified": "22 Oct 2026",
+  "heroCaption": "Sand, the water, and the pine hill behind the umbrellas",
+  "notice": {
+    "title": "Not Ha Long and not Cat Ba",
+    "body": "The bay and the island are other trips. This sand is the city’s peninsula. The buffalo rite uses the Đồ Sơn Nghè, not the Lê Chân temple in the center."
+  },
+  "body": [
+    "The Hòn Dấu page calls Đồ Sơn a long-used northern resort of sand, hills, and sea. The ward names do not match across pages. The Nghè page says phường Vạn Hương, quận Đồ Sơn. The 2026 festival plan says phường Đồ Sơn. Both stay. A calm-sea month was not printed.",
+    "In 2026 the buffalo rites run from 11 to 26 September. The final is at 07:30 on 19 September, which that plan equates with the 9th of lunar month 8, at the central stadium of phường Đồ Sơn. Fifteen buffalo reach the final. That week is the crowd, not a swim hour. A ticket price was not printed. Check on arrival. Hòn Dấu is the smaller island off this shore. One sentence says a bit under 2 km offshore. The same page says Vạn Hoa hill is nearly 2 km off the shore. Both stay. The boat fare is Check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "hai-phong-do-son-2",
+      "caption": "The peninsula town, with the hill and the sea beyond the roofs",
+      "alt": "Do Son town from above, a green hill on the right and the sea on the horizon"
+    }
+  ],
+  "gettingThere": [
+    "The Nghè page says the sea-god temple is a bit more than 20 km from the city. It does not print the minutes from the opera square. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the opera square",
+      "body": "Ride out to the peninsula. The distance on the Nghè page is a bit more than 20 km. The minutes are Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "A swim hour was not printed. Check on arrival.",
+  "admissionNote": "No beach fee was printed on the pages opened. Check on arrival. A ticket for the 2026 buffalo final was not printed either.",
+  "links": [
+    {
+      "label": "Đền Nghè Đồ Sơn",
+      "url": "https://lichsudangbo.haiphong.gov.vn/di-tich-lsvh-quan-do-son/den-nghe-2953",
+      "note": "The peninsula temple, a bit more than 20 km from the city"
+    },
+    {
+      "label": "Hòn Dấu",
+      "url": "https://lichsudangbo.haiphong.gov.vn/di-tich-lsvh-quan-do-son/DAO-HON-DAU--HON-DAU--2953",
+      "note": "Calls Đồ Sơn a sand-and-hill resort"
+    },
+    {
+      "label": "2026 buffalo final",
+      "url": "https://haiphong.gov.vn/su-kien/vong-chung-ket-le-hoi-choi-trau-truyen-thong-do-son-vtv-2026-dien-ra-vao-ngay-19-9-956886",
+      "note": "City portal, 19 September 2026"
+    }
+  ],
+  "interests": ["beaches"]
+}
