@@ -12,10 +12,13 @@ import type { Place } from '../lib/types';
 
 const photos = interestPhotos as Record<string, string>;
 const highlights = getHighlights();
-const stories = getOtherPosts();
 const lead = highlights[0];
 const sheet = highlights.slice(1, 4);
-const feature = highlights[4];
+const collagePool = [...highlights.slice(4), ...getOtherPosts()];
+const collage = collagePool.slice(0, 5);
+const collageSpots = ['lead', 'top', 'mid', 'wide', 'end'];
+const usedInCollage = new Set(collage.map((story) => story.href));
+const stories = collagePool.filter((story) => !usedInCollage.has(story.href)).slice(0, 6);
 const corridors = corridorsNorthToSouth();
 const activeRegion = corridors[0]?.slug;
 const stackFor = (slug: string) => {
@@ -100,44 +103,19 @@ const jsonLd = {
       )}
 
       <div class="home-split">
-        <div class="home-column">
-          {feature && (
-            <a class="home-hero home-hero-next" href={feature.href}>
-              <Photo id={feature.photo} alt="" cover={feature.cover} />
-              <span class="home-hero-copy">
-                <small><i class="hero-mark" aria-hidden="true"></i>{feature.kicker}</small>
-                <strong>{feature.title}</strong>
-                <em>{feature.when}</em>
-              </span>
-            </a>
-          )}
-
-          <div class="home-feed">
-            {stories.length > 0 && (
-              <section class="home-stories" id="stories">
-                <h2>Stories</h2>
-                <div class="story-list">
-                  {stories.map((story) => (
-                    <a class="story-row" href={story.href}>
-                      <span class="story-copy">
-                        <small class:list={{ 'kicker-season': story.kicker === 'Season' }}>{story.kicker}</small>
-                        <strong>{story.title}</strong>
-                        <em>{story.when}</em>
-                        <p>{story.summary}</p>
-                      </span>
-                      <span class="media"><Photo id={story.photo} alt="" cover={story.cover} /></span>
-                    </a>
-                  ))}
-                </div>
-              </section>
-            )}
-
-            <div class="home-actions lead-actions">
-              <a class="pill" href="/seasons">Season alerts</a>
-              <a class="pill" href="/blog">See more stories</a>
-            </div>
+        {collage.length > 0 && (
+          <div class="home-collage">
+            {collage.map((story, index) => (
+              <a class:list={['collage-tile', collageSpots[index] && `collage-${collageSpots[index]}`]} href={story.href}>
+                <Photo id={story.photo} alt="" cover={story.cover} />
+                <span class="collage-copy">
+                  <small><i class="hero-mark" aria-hidden="true"></i>{story.kicker}</small>
+                  <strong>{story.title}</strong>
+                </span>
+              </a>
+            ))}
           </div>
-        </div>
+        )}
         <div class="home-rail">
           <BookStay />
         </div>
@@ -246,6 +224,26 @@ const jsonLd = {
       </div>
       <p class="home-actions"><a class="pill" href="/interests">See all interests</a></p>
     </section>
+
+    {stories.length > 0 && (
+      <section class="home-section home-stories" id="stories">
+        <h2>Stories</h2>
+        <div class="story-list">
+          {stories.map((story) => (
+            <a class="story-row" href={story.href}>
+              <span class="story-copy">
+                <small class:list={{ 'kicker-season': story.kicker === 'Season' }}>{story.kicker}</small>
+                <strong>{story.title}</strong>
+                <em>{story.when}</em>
+                <p>{story.summary}</p>
+              </span>
+              <span class="media"><Photo id={story.photo} alt="" cover={story.cover} /></span>
+            </a>
+          ))}
+        </div>
+        <p class="home-actions"><a class="pill" href="/blog">More stories</a></p>
+      </section>
+    )}
 
   </div>
 </Base>
