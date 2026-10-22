@@ -6,20 +6,18 @@
   "corridor": "north-central",
   "province": "Hue",
   "provinceNote": "Hue is a centrally governed city.",
-  "lat": 16.463,
-  "lng": 107.59,
   "dots": 4,
   "dotReason": "Worth a special trip in this corridor",
   "summary": "Sleep on the south bank of the Perfume River and cross to the Imperial City in the morning. An adult ticket is 200,000 VND and does not include the tombs. At dusk, walk from Truong Tien Bridge to Nghinh Luong Dinh. Go to Hoi An when the old town is the reason you came.",
-  "timeNeeded": "A citadel morning and a river evening. Tomb rides are check on arrival.",
+  "timeNeeded": "A citadel morning and a river evening. Tomb rides are Check on arrival.",
   "fee": "Imperial City 200,000 VND. Tombs are separate.",
   "getThere": "Phu Bai is 13 km southeast, or about 15 km. SE trains from Hanoi take 12 hours 35 minutes to 14 hours 12 minutes.",
   "bestMonths": "February to April",
-  "verified": "21 Oct 2026",
+  "verified": "22 Oct 2026",
   "interests": {
+    "food": 5,
     "oldTowns": 4,
     "pagodas": 4,
-    "food": 5,
     "warHistory": 3,
     "family": 3
   },
@@ -35,6 +33,8 @@
     "hue-to-hoi-an"
   ],
   "itinerarySlugs": [
+    "hue-day",
+    "hue-two-days",
     "best-14-days",
     "central-5-days"
   ],
@@ -42,46 +42,45 @@
   "seoDescription": "The Imperial City opens at 06:30 or 07:00. An adult ticket is 200,000 VND. The tombs are separate. Sleep on the south bank and walk the river at dusk.",
   "intro": [
     "Sleep on the south bank. The culture department calls that bank the modern city and the north bank the old imperial city, joined by Phu Xuan Bridge. Kỳ Đài, the flag tower built in 1807, stands on the north bank. Nghinh Lương Đình, the old royal landing, is the far end of the river path.",
-    "Give the morning to the Imperial City. The conservation centre’s notice of 12 March 2024 opens the visiting points at 06:30 from 16 March to 15 October, and at 07:00 from 16 October to 15 March. A direct reload of that page timed out on 21 October 2026, so confirm the board. An adult ticket is 200,000 VND. Minh Mang, Tu Duc, and Khai Dinh are not on it. Gia Long, Dong Khanh, and Thieu Tri are separate tickets too. At dusk, walk from Truong Tien Bridge to Nghinh Luong Dinh. How long the courts take, and the ride to a tomb, is check on arrival.",
-    "The night streets the city desk treats as phố Tây are Chu Văn An, Phạm Ngũ Lão, and Võ Thị Sáu. No closing hour is published. One 22:00 line was a single business, not a city rule. Go to Hoi An when the old town after dark is the reason you came. The road time from Hue is check on arrival."
+    "Give the morning to the Imperial City. The conservation centre’s notice of 12 March 2024 opens the visiting points at 06:30 from 16 March to 15 October, and at 07:00 from 16 October to 15 March. A direct reload of the conservation centre’s notice timed out on 21 October 2026, so confirm the posted hours. An adult ticket is 200,000 VND. Minh Mang, Tu Duc, and Khai Dinh are not on it. Gia Long, Dong Khanh, and Thieu Tri are separate tickets too. At dusk, walk from Truong Tien Bridge to Nghinh Luong Dinh. How long the courts take, and the ride to a tomb, is Check on arrival.",
+    "The night streets the city desk treats as phố Tây are Chu Văn An, Phạm Ngũ Lão, and Võ Thị Sáu. No closing hour is published. One 22:00 line was a single business, not a city rule. Go to Hoi An when the old town after dark is the reason you came. The road time from Hue is Check on arrival."
   ],
   "gettingAround": [
-    "Walk the south bank and cross Phu Xuan Bridge for the Imperial City. Truong Tien Bridge is the other crossing, at the start of the river path. The parks center has asked the ward police to stop electric bikes on that path. The tombs are upstream. A bicycle or a taxi is how travelers go, and the minutes are check on arrival. The 2026 tourism plan talks about free visitor buses and electric boats. Those are plans, not a timetable.",
-    "Ga Huế is on the north–south line, 103 km from Da Nang by the railway kilometre board. A street number for the station door is check on arrival. Phu Bai is southeast of the centre: 13 km on the civil-aviation chart, about 15 km on the national tourism page. No bus was serving the terminal in the airport’s replies of 29 September 2024 and 15 January 2025. The ride in minutes is check on arrival."
+    "Walk the south bank and cross Phu Xuan Bridge for the Imperial City. Truong Tien Bridge is the other crossing, at the start of the river path. The parks center has asked the ward police to stop electric bikes on that path. The tombs are upstream. A bicycle or a taxi is how travelers go, and the minutes are Check on arrival. The 2026 tourism plan talks about free visitor buses and electric boats. Those are plans, not a timetable.",
+    "Ga Huế is on the north–south line, 103 km from Da Nang by the railway kilometre board. A street number for the station door is Check on arrival. Phu Bai is southeast of the centre: 13 km on the civil-aviation chart, about 15 km on the national tourism page. No bus was serving the terminal in the airport’s replies of 29 September 2024 and 15 January 2025. The ride in minutes is Check on arrival."
   ],
   "stayAreas": [
     {
       "name": "South bank",
-      "summary": "Sleep on the south bank, the modern side of the river. Which block faces the water is check on arrival. No hotel street is published.",
+      "summary": "Sleep on the south bank, the modern side of the river. Which block faces the water is Check on arrival. No hotel street is published.",
       "band": "Hotels and guesthouses"
     }
   ],
   "eat": [
-    "Eat bun bo Hue at Dong Ba, com hen on Hen Island, bánh khoái along Kim Long, and nem lụi from a street stall. The small steamed cakes are a snack. A stall price is check on arrival, and so is the hour. The food guide names the areas and leaves the shop names off the page.",
-    "A court-style set meal is a visitor set piece. It is optional. The bowl that tells you where you are is bun bo Hue."
+    "Eat bún bò Huế at Dong Ba, cơm hến on Hen Island, and bánh khoái along Kim Long toward Thien Mu. Bánh bèo and bánh nậm are the small cakes. Nem lụi is a street stall Vietnam Tourism does not place on a named street. Bún thịt nướng is the Kim Long lunch, and bún hến is the other bowl on the island. Chè is the sweet soup in an alley that was not named: corn, lotus seed, taro, and a grilled-pork dumpling soup. A stall price is Check on arrival, and so is the hour.",
+    "It is not mì Quảng and not cao lầu. Chi Lăng and Bạch Đằng are the afternoon streets on the far side of Hen Island."
   ],
   "dishSlugs": [
     "bun-bo-hue",
-    "banh-beo",
     "com-hen",
+    "banh-beo",
     "banh-khoai",
     "banh-nam",
-    "nem-lui",
-    "banh-mi"
+    "nem-lui"
   ],
   "interestsBody": [
-    "Hue food is bun bo at Dong Ba, com hen on Hen Island, bánh khoái along Kim Long, and nem lụi from a street the national page does not name. It is not mi Quang and not cao lau. A stall price is check on arrival.",
+    "Hue food is bún bò Huế at Dong Ba, cơm hến on Hen Island, bánh khoái and bún thịt nướng along Kim Long, and nem lụi from a street Vietnam Tourism does not name. Chè is the sweet soup in an unnamed alley. It is not mì Quảng and not cao lầu. A stall price is Check on arrival.",
     "The Imperial City is the morning. The adult ticket is 200,000 VND, and it stops at those walls.",
     "The royal tombs are upstream. Tu Duc’s garden, Minh Mang’s axis, and Khai Dinh’s compact tomb are on the four-site ticket with the Imperial City, 530,000 VND for an adult, usable for up to two days from the first visit. Gia Long, Dong Khanh, and Thieu Tri are not on that ticket.",
-    "Thien Mu is the seven-tiered tower in Kim Long. Tu Hieu, Dieu De, and Bao Quoc are the other pagoda stops. The fee and the hours at Thien Mu are check on arrival. Phu Cam is the cathedral on Phước Quả hill, not a pagoda. The city page prints both 01 Đoàn Hữu Trưng and 06 Nguyễn Trường Tộ. A fee is check on arrival.",
+    "Thien Mu is the seven-tiered tower in Kim Long. Tu Hieu, Dieu De, and Bao Quoc are the other pagoda stops. The fee and the hours at Thien Mu are Check on arrival. Phu Cam is the cathedral on Phước Quả hill, not a pagoda. The city page prints both 01 Đoàn Hữu Trưng and 06 Nguyễn Trường Tộ. A fee is Check on arrival.",
     "The river evening is the walk from Truong Tien Bridge to Nghinh Luong Dinh, with Kỳ Đài on the north bank. No fee and no hour are published for the path.",
-    "Thanh Toan is the tiled bridge in the plots, about 8 km southeast. The fee and the hours are check on arrival.",
-    "The night streets the desk calls phố Tây are Chu Văn An, Phạm Ngũ Lão, and Võ Thị Sáu. Closing hours are check on arrival. No bar is a pick."
+    "Thanh Toan is the tiled bridge in the plots, about 8 km southeast. The fee and the hours are Check on arrival.",
+    "The night streets the desk calls phố Tây are Chu Văn An, Phạm Ngũ Lão, and Võ Thị Sáu. Closing hours are Check on arrival. No bar is a pick."
   ],
   "interestCards": [
     {
       "title": "Dining and F&B",
-      "summary": "Bun bo at Dong Ba, com hen on Hen Island, and the small cakes. No stall price is published.",
+      "summary": "Bun bo at Dong Ba, com hen on Hen Island, bánh khoái on Kim Long, and the small cakes. A stall price is Check on arrival.",
       "photo": "bun-bo-hue",
       "icon": "food",
       "to": "food"
@@ -102,7 +101,7 @@
     },
     {
       "title": "Pagodas",
-      "summary": "Thien Mu’s tower in Kim Long, then Tu Hieu, Dieu De, and Bao Quoc. Thien Mu’s fee and hours are check on arrival.",
+      "summary": "Thien Mu’s tower in Kim Long, then Tu Hieu, Dieu De, and Bao Quoc. Thien Mu’s fee and hours are Check on arrival.",
       "attractionSlug": "thien-mu",
       "photo": "hue-thien-mu",
       "icon": "view"
@@ -125,11 +124,11 @@
   "interestGroups": [
     {
       "title": "Dining and F&B",
-      "summary": "Bun bo at Dong Ba, com hen on Hen Island, and the small cakes. No stall price is published.",
+      "summary": "Bun bo at Dong Ba, com hen on Hen Island, bánh khoái on Kim Long, and the small cakes. A stall price is Check on arrival.",
       "cards": [
         {
           "title": "Dining and F&B",
-          "summary": "Bun bo at Dong Ba, com hen on Hen Island, and the small cakes. No stall price is published.",
+          "summary": "Bun bo at Dong Ba, com hen on Hen Island, bánh khoái on Kim Long, and the small cakes. A stall price is Check on arrival.",
           "photo": "bun-bo-hue",
           "icon": "food",
           "to": "food"
@@ -150,7 +149,7 @@
         },
         {
           "title": "An Dinh Palace",
-          "summary": "See Khải Định’s private palace on the An Cựu, later the crown prince’s house. The ticket record prints both 97 and 179 Phan Đình Phùng. An adult ticket is 50,000 VND, and a child from 7 to 12 is free. It is not the Imperial City ticket. Minutes inside are check on arrival.",
+          "summary": "See Khải Định’s private palace on the An Cựu, later the crown prince’s house. The ticket record prints both 97 and 179 Phan Đình Phùng. An adult ticket is 50,000 VND, and a child from 7 to 12 is free. It is not the Imperial City ticket. Minutes inside are Check on arrival.",
           "attractionSlug": "an-dinh",
           "photo": "hue-an-dinh",
           "icon": "museum",
@@ -158,7 +157,7 @@
         },
         {
           "title": "Nam Giao Esplanade",
-          "summary": "Walk the three terraces south of the citadel, where Nguyễn kings sacrificed to heaven and earth. The ticket record says Trường An ward. The ranked-monument list says Thuận Hóa ward. An adult ticket is 50,000 VND. A child from 7 to 12 is free. This year’s ceremony date is check on arrival.",
+          "summary": "Walk the three terraces south of the citadel, where Nguyễn kings sacrificed to heaven and earth. The ticket record says Trường An ward. The ranked-monument list says Thuận Hóa ward. An adult ticket is 50,000 VND. A child from 7 to 12 is free. This year’s ceremony date is Check on arrival.",
           "attractionSlug": "nam-giao",
           "photo": "hue-nam-giao",
           "icon": "view",
@@ -171,7 +170,7 @@
           "heading": "The walled court",
           "nav": "The court",
           "paragraphs": [
-            "Give the morning to the Imperial City. The conservation centre’s notice of 12 March 2024 opens the visiting points at 06:30 from 16 March to 15 October, and at 07:00 from 16 October to 15 March. A direct reload of that page timed out on 21 October 2026, so confirm the board.",
+            "Give the morning to the Imperial City. The conservation centre’s notice of 12 March 2024 opens the visiting points at 06:30 from 16 March to 15 October, and at 07:00 from 16 October to 15 March. A direct reload of the conservation centre’s notice timed out on 21 October 2026, so confirm the posted hours.",
             "The Imperial City is the morning. The adult ticket is 200,000 VND, and it stops at those walls."
           ]
         },
@@ -191,7 +190,7 @@
       "cards": [
         {
           "title": "Tu Duc Tomb",
-          "summary": "Walk Tu Duc’s garden tomb, with Lưu Khiêm lake and buildings whose names use Khiêm, if you keep one tomb. An adult ticket is 150,000 VND. The ticket page says thôn Thượng Ba, xã Thủy Xuân, and the heritage page says phường Thủy Xuân. The ride upstream is check on arrival.",
+          "summary": "Walk Tu Duc’s garden tomb, with Lưu Khiêm lake and buildings whose names use Khiêm, if you keep one tomb. An adult ticket is 150,000 VND. The ticket page says thôn Thượng Ba, xã Thủy Xuân, and the heritage page says phường Thủy Xuân. The ride upstream is Check on arrival.",
           "attractionSlug": "khiem",
           "photo": "hue-khiem",
           "icon": "view",
@@ -199,7 +198,7 @@
         },
         {
           "title": "Tomb of Minh Mang",
-          "summary": "Walk the straight axis at Minh Mang’s tomb, where the Tả Trạch and Hữu Trạch meet and the hill is Hiếu Sơn. An adult ticket is 150,000 VND, the same line as Tu Duc and Khai Dinh on the four-site ticket. Minutes on site and the ride are check on arrival.",
+          "summary": "Walk the straight axis at Minh Mang’s tomb, where the Tả Trạch and Hữu Trạch meet and the hill is Hiếu Sơn. An adult ticket is 150,000 VND, the same line as Tu Duc and Khai Dinh on the four-site ticket. Minutes on site and the ride are Check on arrival.",
           "attractionSlug": "minh-mang",
           "photo": "hue-minh-mang",
           "icon": "view",
@@ -207,7 +206,7 @@
         },
         {
           "title": "Tomb of Khai Dinh",
-          "summary": "Climb Khai Dinh’s compact tomb, about 117 metres by 48.5 metres, begun on 4 September 1920. An adult ticket is 150,000 VND and it is on the four-site ticket with the Imperial City. The photograph here is the gilded statue inside. Minutes on site are check on arrival.",
+          "summary": "Climb Khai Dinh’s compact tomb, about 117 metres by 48.5 metres, begun on 4 September 1920. An adult ticket is 150,000 VND and it is on the four-site ticket with the Imperial City. The photograph here is the gilded statue inside. Minutes on site are Check on arrival.",
           "attractionSlug": "khai-dinh",
           "photo": "hue-khai-dinh",
           "icon": "view",
@@ -215,7 +214,7 @@
         },
         {
           "title": "Tomb of Gia Long",
-          "summary": "Walk the pine hills at Gia Long’s tomb, a family complex rather than one courtyard, in Hương Thọ. An adult ticket is 150,000 VND, and a child from 7 to 12 is free. It is not on the four-site ticket. The boat is about 18 km and the road about 16 km. Minutes on site are check on arrival.",
+          "summary": "Walk the pine hills at Gia Long’s tomb, a family complex rather than one courtyard, in Hương Thọ. An adult ticket is 150,000 VND, and a child from 7 to 12 is free. It is not on the four-site ticket. The boat is about 18 km and the road about 16 km. Minutes on site are Check on arrival.",
           "attractionSlug": "gia-long",
           "photo": "hue-gia-long",
           "icon": "view",
@@ -259,11 +258,11 @@
     },
     {
       "title": "Pagodas",
-      "summary": "Thien Mu’s tower in Kim Long, then Tu Hieu, Dieu De, and Bao Quoc. Thien Mu’s fee and hours are check on arrival.",
+      "summary": "Thien Mu’s tower in Kim Long, then Tu Hieu, Dieu De, and Bao Quoc. Thien Mu’s fee and hours are Check on arrival.",
       "cards": [
         {
           "title": "Thien Mu Pagoda",
-          "summary": "See the seven-tiered Phước Duyên tower above Hà Khê, in Kim Long, on the north bank upstream of the citadel. Resolution 55 does not list a fee, so the price is check on arrival, not free. Hours are check on arrival too. This is a stop, not a second citadel.",
+          "summary": "See the seven-tiered Phước Duyên tower above Hà Khê, in Kim Long, on the north bank upstream of the citadel. Resolution 55 does not list a fee, so the price is Check on arrival, not free. Hours are Check on arrival too. This is a stop, not a second citadel.",
           "attractionSlug": "thien-mu",
           "photo": "hue-thien-mu",
           "icon": "view",
@@ -271,7 +270,7 @@
         },
         {
           "title": "Tu Hieu Pagoda",
-          "summary": "Walk the pine hillside at Từ Hiếu, in Dương Xuân Thượng III, Thủy Xuân, about 5 km from the centre. Vietnam Tourism names it as the monastery where Thích Nhất Hạnh was a novice. Tự Đức gave the pagoda its name. The fee, the hours, and the ride in minutes are check on arrival.",
+          "summary": "Walk the pine hillside at Từ Hiếu, in Dương Xuân Thượng III, Thủy Xuân, about 5 km from the centre. Vietnam Tourism names it as the monastery where Thích Nhất Hạnh was a novice. Tự Đức gave the pagoda its name. The fee, the hours, and the ride in minutes are Check on arrival.",
           "attractionSlug": "tu-hieu",
           "photo": "hue-tu-hieu",
           "icon": "view",
@@ -279,7 +278,7 @@
         },
         {
           "title": "Dieu De Pagoda",
-          "summary": "Cross to the gate of Diệu Đế on the Hộ Thành river, at 100B Bạch Đằng in Phú Cát, near Gia Hội bridge. The city page dates the work to the third month of Thiệu Trị 4, 1844, on the future king’s garden. It is one of three Nguyễn national pagodas still in Hue. The fee and the hours are check on arrival.",
+          "summary": "Cross to the gate of Diệu Đế on the Hộ Thành river, at 100B Bạch Đằng in Phú Cát, near Gia Hội bridge. The city page dates the work to the third month of Thiệu Trị 4, 1844, on the future king’s garden. It is one of three Nguyễn national pagodas still in Hue. The fee and the hours are Check on arrival.",
           "attractionSlug": "dieu-de",
           "photo": "hue-dieu-de",
           "icon": "view",
@@ -287,7 +286,7 @@
         },
         {
           "title": "Bao Quoc Pagoda",
-          "summary": "Enter the triple gate at Báo Quốc, 17 Bảo Quốc street in Thuận Hóa ward, on Hàm Long hill. The temple directory opens the gate from 07:00 to 17:00 and dates the sắc tứ to 1747, under Nguyễn Phúc Khoát. A fee is check on arrival. How long to stay is check on arrival.",
+          "summary": "Enter the triple gate at Báo Quốc, 17 Bảo Quốc street in Thuận Hóa ward, on Hàm Long hill. The temple directory opens the gate from 07:00 to 17:00 and dates the sắc tứ to 1747, under Nguyễn Phúc Khoát. A fee is Check on arrival. How long to stay is Check on arrival.",
           "attractionSlug": "bao-quoc",
           "photo": "hue-bao-quoc",
           "icon": "view",
@@ -295,7 +294,7 @@
         },
         {
           "title": "Phu Cam Cathedral",
-          "summary": "Sit in the nave of Phủ Cam, the cathedral of the Archdiocese of Hue, on Phước Quả hill, designed by Ngô Viết Thụ. The same city page prints 01 Đoàn Hữu Trưng and 06 Nguyễn Trường Tộ. It lists grounds at all hours and weekday mass from 05:00 to 18:00. Confirm those clocks. A fee is check on arrival.",
+          "summary": "Sit in the nave of Phủ Cam, the cathedral of the Archdiocese of Hue, on Phước Quả hill, designed by Ngô Viết Thụ. The same city page prints 01 Đoàn Hữu Trưng and 06 Nguyễn Trường Tộ. It lists grounds at all hours and weekday mass from 05:00 to 18:00. Confirm those clocks. A fee is Check on arrival.",
           "attractionSlug": "phu-cam",
           "photo": "hue-phu-cam",
           "icon": "view",
@@ -308,7 +307,7 @@
           "heading": "The pagoda stops",
           "nav": "Pagodas",
           "paragraphs": [
-            "Thien Mu is the seven-tiered tower in Kim Long. Tu Hieu, Dieu De, and Bao Quoc are the other pagoda stops. The fee and the hours at Thien Mu are check on arrival."
+            "Thien Mu is the seven-tiered tower in Kim Long. Tu Hieu, Dieu De, and Bao Quoc are the other pagoda stops. The fee and the hours at Thien Mu are Check on arrival."
           ]
         },
         {
@@ -316,7 +315,7 @@
           "heading": "Phu Cam is not a pagoda",
           "nav": "The cathedral",
           "paragraphs": [
-            "Phu Cam is the cathedral on Phước Quả hill, not a pagoda. The city page prints both 01 Đoàn Hữu Trưng and 06 Nguyễn Trường Tộ. A fee is check on arrival."
+            "Phu Cam is the cathedral on Phước Quả hill, not a pagoda. The city page prints both 01 Đoàn Hữu Trưng and 06 Nguyễn Trường Tộ. A fee is Check on arrival."
           ]
         }
       ]
@@ -327,7 +326,7 @@
       "cards": [
         {
           "title": "Perfume River walk",
-          "summary": "Walk the Perfume River from Truong Tien Bridge to Nghinh Luong Dinh. Paths run on both banks. Kỳ Đài, built in 1807, is the pin on the north bank. No fee and no hour are published. The parks centre has asked the ward police to stop electric bikes on the path. How long the walk takes is check on arrival.",
+          "summary": "Walk the Perfume River from Truong Tien Bridge to Nghinh Luong Dinh. Paths run on both banks. Kỳ Đài, built in 1807, is the pin on the north bank. No fee and no hour are published. The parks centre has asked the ward police to stop electric bikes on the path. How long the walk takes is Check on arrival.",
           "attractionSlug": "perfume-river",
           "photo": "hue-perfume-river",
           "icon": "view"
@@ -335,7 +334,7 @@
       ],
       "body": [
         "The river evening is the walk from Truong Tien Bridge to Nghinh Luong Dinh, with Kỳ Đài on the north bank. No fee and no hour are published for the path.",
-        "The night streets the desk calls phố Tây are Chu Văn An, Phạm Ngũ Lão, and Võ Thị Sáu. Closing hours are check on arrival. No bar is a pick, and none of those streets has a licensed photograph here, so they are not cards."
+        "The night streets the city desk calls phố Tây are Chu Văn An, Phạm Ngũ Lão, and Võ Thị Sáu. Closing hours are Check on arrival. No bar is a pick."
       ]
     },
     {
@@ -344,14 +343,14 @@
       "cards": [
         {
           "title": "Thanh Toan Bridge",
-          "summary": "Cycle out to the tiled bridge in Thủy Thanh, about 8 km southeast of the centre. The national tourism page describes a roof about 17 metres long and about 4 metres wide, in seven compartments, with a shrine to Trần Thị Đào. The fee, the hours, and the ride in minutes are check on arrival.",
+          "summary": "Cycle out to the tiled bridge in Thủy Thanh, about 8 km southeast of the centre. The national tourism page describes a roof about 17 metres long and about 4 metres wide, in seven compartments, with a shrine to Trần Thị Đào. The fee, the hours, and the ride in minutes are Check on arrival.",
           "attractionSlug": "thanh-toan",
           "photo": "hue-thanh-toan",
           "icon": "view"
         }
       ],
       "body": [
-        "Thanh Toan is the tiled bridge in the plots, about 8 km southeast. The fee and the hours are check on arrival."
+        "Thanh Toan is the tiled bridge in the plots, about 8 km southeast. The fee and the hours are Check on arrival."
       ]
     }
   ],
@@ -362,7 +361,7 @@
   "faqs": [
     {
       "q": "What does one day in Hue look like?",
-      "a": "Start at the Imperial City when the gate opens, on the 200,000 VND ticket. The tombs are a separate ride, and the minutes are check on arrival. At dusk, walk from Truong Tien Bridge to Nghinh Luong Dinh. That is one outline. The four-site ticket’s two-day window is a ticket rule, not a second route."
+      "a": "Start at the Imperial City when the gate opens, on the 200,000 VND adult ticket. Eat bún bò Huế at Dong Ba. At dusk, walk from Truong Tien Bridge to Nghinh Luong Dinh. How long the courts take is Check on arrival. The next day can be the tomb day: Minh Mang, Tu Duc, and Khai Dinh, on the four-site ticket at 530,000 VND for an adult, usable for up to two days from the first visit. That window is how long the ticket lasts. The ride to a tomb is Check on arrival."
     },
     {
       "q": "Does the citadel ticket include the tombs?",

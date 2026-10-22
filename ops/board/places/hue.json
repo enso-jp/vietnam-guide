@@ -43,16 +43,16 @@
       "reworkCount": 1
     },
     "foodCopy": {
-      "status": "stale",
-      "note": "Dish lines follow Vietnam Tourism and the culture department. Banh mi unchanged. Neighbor bowls stay in Hoi An and Da Nang.",
-      "updated": "2026-10-21T09:57:38.775Z",
+      "status": "enriched",
+      "note": "SEO now uses Check on arrival. Bun bo SEO prints both the heartier and the hotter Vietnam Tourism comparisons.",
+      "updated": "2026-10-22T17:11:56.126Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "stale",
-      "note": "Dossier changed. Check again after the copy pass.",
-      "updated": "2026-10-21T09:57:38.775Z",
-      "reworkCount": 0
+      "status": "checked",
+      "note": "Read the guide and the six dish pages against the dossier. Photos are the dishes or Dong Ba. Both pho comparisons are printed. Shop picks stay off. 16 sourced entries. Gap to 40 is 24. Hours stay Check on arrival.",
+      "updated": "2026-10-22T17:11:56.195Z",
+      "reworkCount": 1
     },
     "researchBase": {
       "status": "stored",
@@ -843,11 +843,59 @@
       "note": "Duplicate of hue--festival. Same festival record. Events stay on that row.",
       "updated": "2026-10-21T09:53:16.070Z",
       "reworkCount": 0
+    },
+    {
+      "id": "hue--dish--banh-nam",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Banh nam",
+      "slug": "banh-nam",
+      "file": "src/content/dishes/banh-nam.json",
+      "source": "published",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Duplicate of hue--banh-nam. Food pass owns the dish. Reconcile added this id because the place lists banh-nam. Not a second page.",
+      "updated": "2026-10-22T16:58:06.554Z",
+      "reworkCount": 0
     }
   ],
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T17:11:56.195Z",
+      "place": "hue",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Read the guide and the six dish pages against the dossier. Photos are the dishes or Dong Ba. Both pho comparisons are printed. Shop picks stay off. 16 sourced entries. Gap to 40 is 24. Hours stay Check on arrival."
+    },
+    {
+      "at": "2026-10-22T17:11:56.126Z",
+      "place": "hue",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "SEO now uses Check on arrival. Bun bo SEO prints both the heartier and the hotter Vietnam Tourism comparisons."
+    },
+    {
+      "at": "2026-10-22T17:11:15.940Z",
+      "place": "hue",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "rework",
+      "note": "Dish SEO still says check on arrival in lowercase, and the bun bo SEO drops the hotter comparison Vietnam Tourism also records."
+    },
+    {
+      "at": "2026-10-22T17:10:05.466Z",
+      "place": "hue",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Food guide names 16 sourced entries: six photo dishes, bun thit nuong, bun hen, four che kinds, and four streets. Shop picks stay off. Gap to 40 is 24. hue-day and hue-two-days added from existing slugs. Hours and prices stay Check on arrival. City pin unset. Hero stays Ky Dai."
+    },
     {
       "at": "2026-10-21T10:08:16.828Z",
       "place": "hue",
@@ -973,38 +1021,6 @@
       "place": "hue",
       "stage": "copy",
       "item": "hue--nam-giao",
-      "status": "enriched",
-      "note": "No new fact for this sight in the attractions lane. Photos opened and kept. Unsourced hours stay check on arrival."
-    },
-    {
-      "at": "2026-10-21T10:00:04.576Z",
-      "place": "hue",
-      "stage": "quality",
-      "item": "hue--an-dinh",
-      "status": "checked",
-      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing."
-    },
-    {
-      "at": "2026-10-21T10:00:04.496Z",
-      "place": "hue",
-      "stage": "copy",
-      "item": "hue--an-dinh",
-      "status": "enriched",
-      "note": "No new fact for this sight in the attractions lane. Photos opened and kept. Unsourced hours stay check on arrival."
-    },
-    {
-      "at": "2026-10-21T10:00:04.415Z",
-      "place": "hue",
-      "stage": "quality",
-      "item": "hue--thieu-tri",
-      "status": "checked",
-      "note": "Subject reads in the frame. Fee and hours match the dossier. Check on arrival stays where the source is missing."
-    },
-    {
-      "at": "2026-10-21T10:00:04.334Z",
-      "place": "hue",
-      "stage": "copy",
-      "item": "hue--thieu-tri",
       "status": "enriched",
       "note": "No new fact for this sight in the attractions lane. Photos opened and kept. Unsourced hours stay check on arrival."
     }

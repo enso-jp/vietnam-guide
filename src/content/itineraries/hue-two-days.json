@@ -1,0 +1,73 @@
+{
+  "slug": "hue-two-days",
+  "title": "Two days in Hue",
+  "kind": "trip",
+  "level": "day",
+  "duration": "2 days",
+  "spanDays": 2,
+  "placeSlug": "hue",
+  "budget": "Check on arrival",
+  "pace": "Check on arrival",
+  "photo": "hue-minh-mang",
+  "summary": "The first day is the Imperial City, bún bò Huế at Dong Ba, and the river at dusk. The second day is the tomb day: Minh Mang, Tu Duc, and Khai Dinh, the three tombs on the four-site ticket. The ride and the time on site are Check on arrival.",
+  "days": [
+    {
+      "title": "Day 1 — Citadel morning and the river",
+      "body": "Cross from the south bank when the Imperial City opens, on the 200,000 VND adult ticket. Eat bún bò Huế at Dong Ba. At dusk, walk from Truong Tien Bridge to Nghinh Luong Dinh. How long the courts take is Check on arrival.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel"
+    },
+    {
+      "title": "Day 2 — The tomb day",
+      "body": "Minh Mang, Tu Duc, and Khai Dinh are the tombs on the four-site ticket with the Imperial City. Resolution 55 prices that ticket at 530,000 VND for an adult and 100,000 VND for a child from 7 to 12, usable for up to two days from the first visit. Each tomb is also 150,000 VND for an adult and 30,000 VND for a child from 7 to 12 on its own line. Khai Dinh is the one to take with Minh Mang or Tu Duc. The two-day window is how long the ticket lasts. The ride upstream and the time on site are Check on arrival.",
+      "placeSlug": "hue",
+      "photo": "hue-minh-mang"
+    }
+  ],
+  "stops": [
+    {
+      "name": "Hue Citadel",
+      "minutes": "Check on arrival",
+      "placeSlug": "hue",
+      "attractionSlug": "citadel",
+      "note": "Day one, at opening. Adult ticket 200,000 VND if you are not on the four-site ticket. The tombs are not on that single ticket. Confirm the posted hours: 06:30 or 07:00 on the 12 March 2024 notice."
+    },
+    {
+      "name": "Bun bo Hue",
+      "minutes": "Check on arrival",
+      "placeSlug": "hue",
+      "dishSlug": "bun-bo-hue",
+      "note": "Day one, at Dong Ba. A clock hour is Check on arrival."
+    },
+    {
+      "name": "Perfume River walk",
+      "minutes": "Check on arrival",
+      "placeSlug": "hue",
+      "attractionSlug": "perfume-river",
+      "note": "Day one, at dusk, from Truong Tien Bridge to Nghinh Luong Dinh. No fee is published for the path."
+    },
+    {
+      "name": "Tomb of Minh Mang",
+      "minutes": "Check on arrival",
+      "placeSlug": "hue",
+      "attractionSlug": "minh-mang",
+      "note": "Day two. On the four-site ticket with the Imperial City, Tu Duc, and Khai Dinh. An adult ticket on its own line is 150,000 VND. The ride and the time on site are Check on arrival."
+    },
+    {
+      "name": "Tu Duc Tomb",
+      "minutes": "Check on arrival",
+      "placeSlug": "hue",
+      "attractionSlug": "khiem",
+      "note": "Day two. On the same four-site ticket. An adult ticket on its own line is 150,000 VND. The ride and the time on site are Check on arrival."
+    },
+    {
+      "name": "Tomb of Khai Dinh",
+      "minutes": "Check on arrival",
+      "placeSlug": "hue",
+      "attractionSlug": "khai-dinh",
+      "note": "Day two, with Minh Mang or Tu Duc. On the four-site ticket. An adult ticket on its own line is 150,000 VND. The time on site is Check on arrival."
+    }
+  ],
+  "seoTitle": "Two days in Hue — the citadel, then the three tombs",
+  "seoDescription": "Two days in Hue: the Imperial City, bun bo Hue, and the river walk, then Minh Mang, Tu Duc, and Khai Dinh. The ride upstream is Check on arrival."
+}

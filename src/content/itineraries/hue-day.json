@@ -1,0 +1,38 @@
+{
+  "slug": "hue-day",
+  "title": "Hue in a day",
+  "kind": "trip",
+  "level": "day",
+  "duration": "1 day",
+  "spanDays": 1,
+  "placeSlug": "hue",
+  "budget": "Check on arrival",
+  "pace": "Check on arrival",
+  "photo": "hue-citadel",
+  "summary": "Sleep on the south bank. Cross for the Imperial City when the gate opens, eat bún bò Huế at Dong Ba, and at dusk walk from Truong Tien Bridge to Nghinh Luong Dinh. How long the courts take is Check on arrival.",
+  "stops": [
+    {
+      "name": "Hue Citadel",
+      "minutes": "Check on arrival",
+      "placeSlug": "hue",
+      "attractionSlug": "citadel",
+      "note": "Morning, at opening. The conservation centre’s notice of 12 March 2024 opens the visiting points at 06:30 from 16 March to 15 October, and at 07:00 from 16 October to 15 March. A reload of that notice timed out on 21 October 2026, so confirm the posted hours. An adult ticket is 200,000 VND. The tombs are not on it."
+    },
+    {
+      "name": "Bun bo Hue",
+      "minutes": "Check on arrival",
+      "placeSlug": "hue",
+      "dishSlug": "bun-bo-hue",
+      "note": "Eat bún bò Huế at Dong Ba. Vietnam Tourism and the culture department do not set a clock hour. The market’s street number is Check on arrival."
+    },
+    {
+      "name": "Perfume River walk",
+      "minutes": "Check on arrival",
+      "placeSlug": "hue",
+      "attractionSlug": "perfume-river",
+      "note": "At dusk, walk from Truong Tien Bridge to Nghinh Luong Dinh. No fee is published for the path. How long the walk takes is Check on arrival."
+    }
+  ],
+  "seoTitle": "Hue in a day — citadel opening and the river at dusk",
+  "seoDescription": "One day in Hue: the Imperial City when the gate opens, bún bò Huế at Dong Ba, and the river walk from Truong Tien Bridge to Nghinh Luong Dinh at dusk."
+}
