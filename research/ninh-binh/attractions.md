@@ -7,6 +7,8 @@ The search slug stays `ninh-binh`. The base is the city people reach by train, a
 
 ## Why a night here
 
+### The valley night
+
 - The picture they expect: Limestone towers in the river, and a sampan. UNESCO describes forested towers up to 200 m, water in the depressions, and visitors in sampans rowed by local guides (S1). The tourism page puts that landscape about 90 km southeast of Hà Nội and calls the boat water sông Sào Khê on the relics page (S3, S11). The public hero file is a temple gate at Phúc Sơn, Ninh Tiến. The karst is not in that frame (S33).
 - Where they sleep, as an area: Rooms in the Hoa Lư valley, around the Tràng An wharf and the old capital, phường Tây Hoa Lư on the Bái Đính page and xã Trường Yên on the heritage page (S4, S6). Or rooms in the city if the train arrives late, at ga Ninh Bình (S16, S32). No hotel brand. Tam Coc hamlets are the other slug.
 - Where the evening is: Phố cổ Hoa Lư, where the management board prints a free visit and a paid lantern boat (S5). The city pages opened do not name a bar street. Non Nước is the sunset the relics page names, on sông Vân (S11).

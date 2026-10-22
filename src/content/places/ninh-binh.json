@@ -6,126 +6,335 @@
   "corridor": "red-river-delta",
   "province": "Ninh Binh",
   "provinceNote": "Ninh Binh province now also includes the former Ha Nam and Nam Dinh provinces.",
-  "lat": 20.25,
-  "lng": 105.975,
   "dots": 4,
   "dotReason": "Worth a special trip in this corridor",
-  "summary": "Ninh Binh is the karst-and-rice country south of Hanoi. Tam Coc’s boat caves, the viewpoints at Mua Cave, and the temples around Hoa Lu are the usual stops. It is an overnight from Hanoi, or a very long day.",
-  "timeNeeded": "1–2 days",
-  "fee": "Each site charges its own ticket",
-  "getThere": "About 2 hours by road or train from Hanoi",
-  "bestMonths": "April to May and September to November for fields; drier days are easier year-round outside summer rain",
-  "verified": "19 Oct 2026",
+  "summary": "Ninh Bình is the karst valley south of Hà Nội. The morning is a sampan on sông Sào Khê at Tràng An, the stair at Hang Múa looks over the rice, and Hoa Lư holds the old capital in the same limestone. One night covers those three. Kim Sơn and Vân Long take a second day. The train from Hà Nội is about two hours, at kilometre 115.",
+  "timeNeeded": "One night, or two if you add Kim Sơn or Vân Long",
+  "fee": "No single city ticket. Each site prints its own.",
+  "getThere": "SE7 from Hà Nội is 06:00–08:16, 2 hours 16 minutes, at kilometre 115. Road minutes are Check on arrival.",
+  "bestMonths": "Check on arrival",
+  "verified": "22 Oct 2026",
   "interests": {
     "rice": 5,
-    "caves": 4,
     "photography": 5,
-    "pagodas": 3,
-    "family": 4
+    "caves": 4,
+    "food": 4,
+    "oldTowns": 4,
+    "family": 4,
+    "pagodas": 3
   },
   "cover": "karst",
+  "foodSlug": "ninh-binh",
   "nearby": [
     "hanoi",
     "tam-coc",
-    "mai-chau"
+    "nam-dinh",
+    "pu-luong"
   ],
   "routeSlugs": [
     "hanoi-to-ninh-binh"
   ],
   "itinerarySlugs": [
     "north-7-days",
-    "best-14-days"
+    "best-14-days",
+    "ninh-binh-day"
   ],
-  "seoTitle": "Ninh Binh travel guide — Tam Coc, boats, and day trips from Hanoi",
-  "seoDescription": "How to visit Ninh Binh from Hanoi, which sights need a boat, and when the rice fields are at their best.",
+  "seoTitle": "Ninh Binh travel guide — Trang An boats and Hoa Lu",
+  "seoDescription": "A sampan at Tràng An, the Hang Múa stair over the rice, and Hoa Lư in the same valley. The train from Hà Nội is kilometre 115. Each site prints its own ticket.",
   "intro": [
-    "Ninh Binh’s landscape is inland Ha Long: limestone ridges standing in rice paddies, with rivers that pass through low caves. The city itself is a junction. Stay near Tam Coc or in the countryside if the fields are the point.",
-    "A day trip from Hanoi works if you leave early and pick two sites. Two nights lets you take a bicycle between them."
+    "Start on the water. Tràng An is a sampan on sông Sào Khê, rowed between towers the UNESCO list puts at up to 200 m. UNESCO’s current entry prints a property of 6,226 ha and a buffer of 6,026 ha. The 2014 decision prints 6,172 ha and a buffer of 6,079 ha. The tourism page says about 12,252 ha and about 90 km southeast of Hà Nội. Keep all three area figures. The Tam Coc boat is a different ticket and a different page.",
+    "Hang Múa is the stair over the paddies. The board charges 150,000 đồng per person and prints no child line. Hoa Lư, at xã Trường Yên, is the capital of the Đinh, the Tiền Lê, and the early Lý. An adult temple ticket is 20,000 đồng. Am Tiên, about 400 m from the east gate, is a separate 100,000 đồng line. Bái Đính is the pagoda hill in phường Tây Hoa Lư, about 20 km from the provincial centre and about 100 km from Hà Nội. That 100 km is a different end from Tràng An’s about 90 km.",
+    "The train from Hà Nội is the practical arrival. SE7 leaves at 06:00 and reaches Ninh Bình at 08:16, 2 hours 16 minutes. The timetable puts the station at kilometre 115. Vietnamese Wikipedia also prints lý trình km 144+775 and “115 km về phía Bắc”. The 115 matches the timetable. The chainage and the direction do not. The station is đường Ngô Gia Tự, phường Hoa Lư, between ga Cát Đằng and ga Cầu Yên. Fares were not printed. Check on arrival. A ride from Nội Bài was not timed. Road minutes into the valley were not printed either.",
+    "Give the valley one night when the sampan, the stair, and the temples are the trip. Add a second night for Vân Long or the church at Kim Sơn. Vân Long’s Vietnamese pages say xã Gia Vân and also huyện Gia Viễn, and they print 2019 as the Ramsar year. A Ramsar retrieval of site 2360 displayed 10 February 2017. Phát Diệm, at xã Lưu Phương, was built from 1875 to 1898. A ticket there was not printed. Check on arrival.",
+    "Cơm cháy is the crisp rice you can see, and the goat plates are on the roads toward the sights. Breakfast, where the 5 November 2024 tourism article names a street, is Phố ăn sáng Vân Giang. The food guide is the full list. The evening the ticket page prices is a lamp boat on hồ Kỳ Lân at Phố cổ Hoa Lư. The visit is free. The boat is 100,000 đồng for an adult, and the same for a child over 1.29 m. A child under 1.29 m is 80,000 đồng. The VIP boat is 150,000 đồng, and 100,000 đồng for a child under 1.29 m. Hotline 0915 299 377. A start hour was not printed. Check on arrival."
   ],
   "gettingAround": [
-    "Trains and buses from Hanoi take about two hours. From Ninh Binh station or the bus drop, use a taxi or a pre-booked car to Tam Coc. Bicycles are the pleasant way to move between Tam Coc, Mua Cave, and the nearby temples once you are based there."
+    "Ga Ninh Bình is the city stop. Southbound cells that stop are SE7 06:00–08:16, SE5 08:00–10:16, SE9 13:00–15:17, SE3 19:20–21:36, and SE1 21:45–00:03 the next day. SE10 has no Ninh Bình cell. Northbound, SE8 is 2 hours 21 minutes, SE6 is 2 hours 19 minutes, SE4 is 2 hours 22 minutes, and SE2 is 2 hours 18 minutes. Fares were not printed. Check on arrival.",
+    "From the station, the valley is a ride. Minutes were not printed. Check on arrival. Sleep near Tràng An when the sampan is the morning. Sleep by the station when the train is late. SE1 arrives at 00:03. The culture office at 29 Lê Đại Hành is not the station. The tourism office at 06 Tràng An is not the station."
   ],
   "stayAreas": [
     {
-      "name": "Tam Coc hamlets",
-      "summary": "Wake up next to the fields. Quiet at night.",
-      "band": "Homestays and small hotels"
+      "name": "Tràng An valley",
+      "summary": "Sleep here when the sampan is the first move. Hoa Lư and the Hang Múa stair are in the same valley. A hotel name was not in the sources. Check on arrival.",
+      "band": "Check on arrival",
+      "photo": "ninh-binh-trang-an"
     },
     {
-      "name": "Ninh Binh city",
-      "summary": "Practical if you arrive late by train. You will ride out to the sights.",
-      "band": "City hotels"
+      "name": "Ga Ninh Bình",
+      "summary": "Sleep here when the train is late. The sights are a ride out. Road minutes were not printed. Check on arrival.",
+      "band": "Check on arrival",
+      "photo": "ninh-binh-ninh-binh-station"
     }
   ],
   "eat": [
-    "Countryside restaurants serve goat, rice, and simple vegetable plates. Lunch beside the boat landing is convenient and ordinary."
+    "Cơm cháy is the crisp rice, and goat is on the roads toward the sights. Breakfast is Phố ăn sáng Vân Giang. The food guide lists the dishes and every door on the 30 June 2025 provincial list."
   ],
   "dishSlugs": [
-    "com-tam"
+    "com-chay",
+    "de-tai-chanh",
+    "de-xao-sa-ot",
+    "de-nui-nhung-me",
+    "de-nuong-ngu-vi",
+    "de-ham-thuoc-bac",
+    "doi-de-chien",
+    "com-chay-sot-de",
+    "chao-thit-de",
+    "de-u-trau",
+    "ca-ri-de",
+    "goi-ca-nhech",
+    "bun-moc-kim-son",
+    "ca-chuoi-nuong",
+    "ca-tre-nuong",
+    "oc-nui",
+    "xoi-trung-kien",
+    "nem-chua-yen-mac",
+    "bun-cha-quat",
+    "mien-luon-ninh-binh",
+    "banh-xeo-nem-lui",
+    "cua-dong",
+    "banh-da-ca-ro",
+    "mam-tep-gia-vien",
+    "ruou-can-nho-quan",
+    "ruou-kim-son",
+    "mat-ong-rung",
+    "tra-hoa-vang",
+    "oc-nhoi",
+    "ca-nuong-rom",
+    "gio-trung",
+    "banh-duc",
+    "chao-chan-gio",
+    "ca-trau-tien-vua",
+    "ca-ro-tong-truong",
+    "ca-qua-nau-am",
+    "thit-chung-mam-tep",
+    "bot-rau-ma",
+    "ruoc-ca-ro-tong-truong",
+    "tra-son-kim-cuc",
+    "tra-vu-gia",
+    "ruou-vang-dao"
   ],
   "interestsBody": [
-    "Rice scenery, river caves, and photography lead. It is one of the best family stops in the north because the boat ride is short and the roads between sites are flat."
+    "Dining starts with cơm cháy and the goat roads, then the doors the province printed. The food guide is the menu.",
+    "The sampan is sông Sào Khê at Tràng An. Hang Múa is the rice view. Vân Long is the other boat, in the wetland.",
+    "Hoa Lư is the old capital. The lamp boat on hồ Kỳ Lân is the evening price on the same ticket page. Bái Đính is the pagoda hill. Phát Diệm is the stone church at Kim Sơn."
+  ],
+  "interestCards": [
+    {
+      "title": "Dining and F&B",
+      "summary": "Cơm cháy, goat on the roads to the sights, and the doors the province printed.",
+      "to": "food",
+      "icon": "food"
+    },
+    {
+      "title": "Sao Khe boats",
+      "summary": "A sampan at Tràng An. Adult ticket 300,000 đồng.",
+      "attractionSlug": "trang-an",
+      "icon": "view"
+    },
+    {
+      "title": "Old capital",
+      "summary": "Đền Đinh, đền Lê, and the tombs. Adult ticket 20,000 đồng.",
+      "attractionSlug": "hoa-lu",
+      "icon": "museum"
+    },
+    {
+      "title": "Rice view",
+      "summary": "The Hang Múa stair over the paddies. 150,000 đồng per person.",
+      "attractionSlug": "mua-cave",
+      "icon": "view"
+    }
   ],
   "interestGroups": [
     {
-      "title": "Rice and the river",
-      "summary": "Rice scenery, river caves, and photography lead.",
+      "title": "Dining and F&B",
+      "summary": "Cơm cháy, the goat roads, and the provincial restaurant list.",
       "cards": [
         {
-          "title": "Tam Coc",
-          "summary": "The Tam Coc landing sits among limestone hills south of Ninh Binh city. The standard ride is a small boat rowed through three caves. The trip is timed and returns to the same dock.",
-          "placeSlug": "tam-coc",
-          "photo": "tam-coc",
-          "icon": "view"
+          "title": "Dining and F&B",
+          "summary": "Cơm cháy has the photograph. The other dishes and every printed door are on the food guide.",
+          "photo": "com-chay",
+          "icon": "food",
+          "to": "food"
         }
-      ],
-      "body": [
-        "Ninh Binh’s landscape is inland Ha Long: limestone ridges standing in rice paddies, with rivers that pass through low caves. The city itself is a junction. Stay near Tam Coc or in the countryside if the fields are the point.",
-        "Rice scenery, river caves, and photography lead. It is one of the best family stops in the north because the boat ride is short and the roads between sites are flat.",
-        "A stair climb to a terrace with the classic view over rice and karst. The cave itself is secondary. It has no licensed photograph here, so it is not a card."
       ]
     },
     {
-      "title": "Pagodas and Hoa Lu",
-      "summary": "Bai Dinh if you want scale. Hoa Lu if you want the old capital in the limestone.",
-      "cards": [
+      "title": "Sao Khe boats",
+      "summary": "The sampan through the towers, on sông Sào Khê.",
+      "blocks": [
         {
-          "title": "Bai Dinh Pagoda",
-          "summary": "A very large modern pagoda complex. Go if you want scale; skip it if you are short on time.",
-          "attractionSlug": "bai-dinh",
-          "photo": "ninh-binh-bai-dinh",
-          "icon": "view",
-          "block": "temples"
-        },
-        {
-          "title": "Hoa Lu",
-          "summary": "The temples of an early Vietnamese capital, in a valley of limestone.",
-          "attractionSlug": "hoa-lu",
-          "photo": "ninh-binh-hoa-lu",
-          "icon": "view",
-          "block": "temples"
+          "id": "sampan",
+          "heading": "The sampan",
+          "nav": "The sampan",
+          "paragraphs": [
+            "You sit low in the boat and a local guide rows. The board page updated 30 March 2026 charges 300,000 đồng for an adult over 1.3 m, 150,000 đồng for a child from 1 m to 1.3 m, and nothing for a child under 1 m. Đảo Khê Cốc is a separate ticket: 100,000 đồng and 50,000 đồng on those same lines. Hotline 19009251. Support phone 02293.886.068. A gate hour and a boat duration were not printed. Check on arrival.",
+            "UNESCO’s current list prints 6,226 ha and a 6,026 ha buffer, with about 14,000 residents. The 2014 decision prints 6,172 ha and a 6,079 ha buffer. The tourism page says about 12,252 ha. A 2017 tourism itinerary prints 31 lakes and 48 caves. UNESCO prints no cave count."
+          ]
         }
       ],
+      "cards": [
+        {
+          "title": "Tràng An",
+          "summary": "Sampans on sông Sào Khê. Adult 300,000 đồng. The Tam Coc boat is a different page.",
+          "attractionSlug": "trang-an",
+          "photo": "ninh-binh-trang-an",
+          "icon": "view",
+          "block": "sampan"
+        }
+      ]
+    },
+    {
+      "title": "Old capital",
+      "summary": "The temples at Trường Yên, and the lamp boat after dark.",
       "blocks": [
         {
           "id": "temples",
-          "heading": "A large pagoda, and an old capital",
-          "nav": "Temples",
+          "heading": "Đền Đinh and đền Lê",
+          "nav": "The temples",
           "paragraphs": [
-            "A day trip from Hanoi works if you leave early and pick two sites. Two nights lets you take a bicycle between them."
+            "The heritage page names six kings: Đinh Tiên Hoàng, Đinh Toàn, Lê Đại Hành, Lê Trung Tông, Lê Long Đĩnh, and Lý Thái Tổ. An adult ticket is 20,000 đồng. A child aged 6 to 15 is 10,000 đồng, and so is a visitor aged 60 or over, and a disabled visitor. Hotline 02293 620 099. Support phone 02293.621.890. A daily gate hour was not printed. Check on arrival.",
+            "Am Tiên is about 400 m from the east gate of đền Đinh, up 205 steps. The board prints a separate line: adult 100,000 đồng, child under 1.3 m 30,000 đồng. Hotline 0987807965. The photograph of that cave was not licensed, so it is not a card."
           ]
+        },
+        {
+          "id": "lamps",
+          "heading": "The lamp boat",
+          "nav": "Lamp boat",
+          "paragraphs": [
+            "Phố cổ Hoa Lư is free to visit on the board page. The hồ Kỳ Lân boat, with lamps, is adult 100,000 đồng and the same for a child over 1.29 m. A child under 1.29 m is 80,000 đồng. The VIP boat is 150,000 đồng, and 100,000 đồng for a child under 1.29 m. Hotline 0915 299 377. A start hour was not printed. Check on arrival. A licensed night photograph of the boats was not found, so this stays in the text."
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "title": "Hoa Lư",
+          "summary": "The tombs on núi Mã Yên and the two temples. Adult 20,000 đồng. Am Tiên is a separate line.",
+          "attractionSlug": "hoa-lu",
+          "photo": "ninh-binh-hoa-lu",
+          "icon": "museum",
+          "block": "temples"
+        }
+      ]
+    },
+    {
+      "title": "The pagoda hill",
+      "summary": "Bái Đính, old foundation and the new hill.",
+      "blocks": [
+        {
+          "id": "hill",
+          "heading": "Carts, and a walking fee that was not printed",
+          "nav": "The hill",
+          "paragraphs": [
+            "The 2025 tourism page dates the old foundation to Nguyễn Minh Không in 1136 and the new complex to an expansion from 2003. It says the area is more than 1,000 ha. A 2017 itinerary says 107 ha. UNESCO puts the reconstructed complex in the buffer. The walking gate fee was not on the cart table. Check on arrival.",
+            "Return electric cart: adult 150,000 đồng, child from 1 m to 1.3 m 100,000 đồng. The transfer package is 300,000 đồng and 210,000 đồng on those lines. A VIP cart with a guide on the cart is 4,000,000 đồng. A guide is 500,000 đồng a tour. Hotline 1900 966 909. The 2017 itinerary says 500 arhat statues and bells of 36 tons and 27 tons. The bell photograph is captioned at 36 tons, 10 m high, diameter 5 m."
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "title": "Bái Đính",
+          "summary": "Lit towers at Tây Hoa Lư. The cart prices are printed. The walking fee is Check on arrival.",
+          "attractionSlug": "bai-dinh",
+          "photo": "ninh-binh-bai-dinh",
+          "icon": "view",
+          "block": "hill"
+        }
+      ]
+    },
+    {
+      "title": "The rice view",
+      "summary": "Climb Hang Múa for the paddies and the towers.",
+      "blocks": [
+        {
+          "id": "stair",
+          "heading": "The stair",
+          "nav": "The stair",
+          "paragraphs": [
+            "The ticket is 150,000 đồng per person on the board page updated 30 March 2026. No child line was printed. Hotline 0987 111 312. Support phone 02293.619.679. A step count and a gate hour were not printed. Check on arrival. The river in the view is the Tam Coc side. That boat stays on the Tam Coc page."
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "title": "Hang Múa",
+          "summary": "Rice, karst, and the steps. 150,000 đồng per person. No child line was printed.",
+          "attractionSlug": "mua-cave",
+          "photo": "ninh-binh-mua-cave",
+          "icon": "view",
+          "block": "stair"
+        }
+      ]
+    },
+    {
+      "title": "The wetland",
+      "summary": "Vân Long, the boat that is not the Sao Khe.",
+      "blocks": [
+        {
+          "id": "wetland",
+          "heading": "Two years and two addresses",
+          "nav": "The wetland",
+          "paragraphs": [
+            "The tourism page says xã Gia Vân. The conservation page says huyện Gia Viễn. Both Vietnamese pages print 2019 as the year it became Vietnam’s 9th Ramsar site. The tourism page also calls it the 2nd Ramsar site of the Red River Delta. A Ramsar retrieval of site 2360 displayed 10 February 2017, an area of 2,736 ha, and the point 20°23′35″N 105°51′10″E. That point is the wetland. The conservation page names the Pù Luông–Cúc Phương limestone as the range this wetland sits on.",
+            "Adult entry is 100,000 đồng. A child is 50,000 đồng, with no height on that line. Hotline 0963 106 222. Support phone 0915.431.058. A gate hour was not printed. Check on arrival."
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "title": "Vân Long",
+          "summary": "Wetland water and limestone. Adult 100,000 đồng. Gia Vân and Gia Viễn are both in print.",
+          "attractionSlug": "van-long",
+          "photo": "ninh-binh-van-long",
+          "icon": "view",
+          "block": "wetland"
+        }
+      ]
+    },
+    {
+      "title": "The stone church",
+      "summary": "Phát Diệm at Kim Sơn, a ride out from the karst.",
+      "blocks": [
+        {
+          "id": "church",
+          "heading": "Kim Sơn",
+          "nav": "Kim Sơn",
+          "paragraphs": [
+            "The complex was built from 1875 to 1898. The tourism page names Đức cha Phê rô Trần Lục and places it at xã Lưu Phương. Kim Sơn’s reclamation is dated to Nguyễn Công Trứ in 1829. Nhà thờ Lớn is described with six rows of lim columns, and the same paragraph prints both 52 columns and 16 columns. It became a national relic in 1987. Sở Du lịch Ninh Bình does not print a street number, a ticket, or a mass hour. Support phone 02293.862.058. Check on arrival."
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "title": "Phát Diệm",
+          "summary": "The stone front and the wooden nave. A ticket was not printed. Check on arrival.",
+          "attractionSlug": "phat-diem",
+          "photo": "ninh-binh-phat-diem",
+          "icon": "museum",
+          "block": "church"
         }
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Can you do Ninh Binh in a day from Hanoi?",
-      "a": "Yes, with an early start and two sites. Stay the night if you want a bicycle and the late light on the paddies."
+      "q": "Where should you sleep?",
+      "a": "Sleep in the Tràng An valley when the sampan is the morning. Sleep by Ga Ninh Bình when the train is late. SE1 arrives at 00:03. A hotel name was not in the sources. Check on arrival."
+    },
+    {
+      "q": "How do you get there from Hanoi?",
+      "a": "SE7 leaves Hà Nội at 06:00 and reaches Ninh Bình at 08:16, 2 hours 16 minutes. The timetable puts the station at kilometre 115. Later southbound stops are SE5, SE9, SE3, and SE1. SE10 does not stop. Fares were not printed. Check on arrival. Road minutes from the station to the valley were not printed either."
+    },
+    {
+      "q": "What does the Tràng An ticket cost?",
+      "a": "On the board page updated 30 March 2026, an adult over 1.3 m pays 300,000 đồng, a child from 1 m to 1.3 m pays 150,000 đồng, and a child under 1 m is free. Đảo Khê Cốc is separate, at 100,000 đồng and 50,000 đồng. A gate hour and a boat duration were not printed. Check on arrival."
+    },
+    {
+      "q": "When is the Hoa Lư festival?",
+      "a": "The provincial page prints the 8th through the 10th of lunar month 3, with a large festival every three years. The heritage page prints the 10th. A solar date was not printed. Check on arrival."
     }
   ],
   "season": {
-    "label": "Rice window varies",
-    "note": "Tam Coc’s most photographed rice is often late May to early June. Confirm on the season desk before you promise someone golden fields."
+    "label": "Hoa Lư in lunar month 3",
+    "note": "The provincial page prints the 8th through the 10th of lunar month 3, with a large festival every three years. The heritage page prints the 10th. A solar date was not printed. Check on arrival."
   }
 }

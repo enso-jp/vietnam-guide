@@ -1,0 +1,53 @@
+{
+  "slug": "van-long",
+  "placeSlug": "ninh-binh",
+  "name": "Van Long",
+  "nameVi": "Vân Long",
+  "kicker": "The wetland boat, not the Sao Khe",
+  "summary": "Take the other boat, through a Ramsar wetland rather than the Tràng An caves. The tourism page says xã Gia Vân. The conservation page says huyện Gia Viễn. Both pages print 2019 as the Ramsar year. A Ramsar retrieval displayed 10 February 2017 for site 2360. Adult entry is 100,000 đồng. A gate hour was not printed.",
+  "dots": 4,
+  "dotReason": "The other boat, a half day away from the Sao Khe",
+  "timeNeeded": "Check on arrival",
+  "fee": "100,000 đồng for an adult",
+  "getThere": "A ride north of the karst valley. Minutes are Check on arrival.",
+  "district": "The wetland",
+  "verified": "22 Oct 2026",
+  "heroCaption": "Wetland water and limestone at Vân Long",
+  "notice": {
+    "title": "Two years and two addresses are both in print",
+    "body": "Use 2019 from the Vietnamese pages and 10 February 2017 from the Ramsar retrieval of site 2360. Use xã Gia Vân and huyện Gia Viễn. Do not pick one of either pair."
+  },
+  "body": [
+    "The visit is a boat among limestone in the wetland. The tourism page names the caves Hang Cá, Hang Bóng, and Hang Rùa, and the animal voọc mông trắng. The conservation page prints an area of 2,736 ha. The tourism page prints no hectare. Both Vietnamese pages that opened call 2019 the year it became Vietnam’s 9th Ramsar site. The tourism page also calls it the 2nd Ramsar site of the Red River Delta. A Ramsar retrieval of site 2360 displayed the designation date 10 February 2017, the same 2,736 ha, and the point 20°23′35″N 105°51′10″E. That point is the wetland, not the city. Keep both years.",
+    "The hero frame is water, reeds, and the cliff, with no boat in it. The second frame is the landing: sampans on the wetland with the karst behind them. A langur was not in either frame. A gate hour and a ride length were not printed. Check on arrival. The ticket hotline is 0963 106 222. The support phone is 0915.431.058."
+  ],
+  "figures": [
+    {
+      "id": "ninh-binh-van-long-2",
+      "caption": "Sampans on the Vân Long wetland, with the karst behind the landing",
+      "alt": "Wooden boats on a wetland channel with limestone hills at Vân Long"
+    }
+  ],
+  "gettingThere": [
+    "North of the Tràng An valley. Kilometres and minutes from Ga Ninh Bình were not printed. Check on arrival. Ask for xã Gia Vân or huyện Gia Viễn. Both are in the sources."
+  ],
+  "legs": [
+    {
+      "heading": "From Ninh Binh",
+      "body": "A ride from the station or the valley. Minutes were not printed. Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day was printed. Check on arrival.",
+  "admissionNote": "Board page updated 30 March 2026. Adult 100,000 đồng. Child 50,000 đồng, with no height on that line. Hotline 0963 106 222. Support phone 0915.431.058. A gate hour was not printed. Check on arrival.",
+  "links": [
+    {
+      "label": "Conservation page",
+      "url": "https://nbca.gov.vn/dinh-huong-tuong-lai-phat-trien-tiem-nang-du-lich-sinh-thai-tai-khu-ramsar-van-long-tinh-ninh-binh/",
+      "note": "Huyện Gia Viễn, 2,736 ha, year 2019"
+    }
+  ],
+  "interests": [
+    "photography"
+  ]
+}

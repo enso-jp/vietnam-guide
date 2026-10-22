@@ -2,12 +2,61 @@
   "slug": "hoa-lu",
   "placeSlug": "ninh-binh",
   "name": "Hoa Lu",
-  "summary": "The temples of an early Vietnamese capital, in a valley of limestone.",
+  "nameVi": "Cố đô Hoa Lư",
+  "kicker": "Temples of the old capital",
+  "summary": "Walk đền Đinh and đền Lê, then the tombs on núi Mã Yên. This ground was the capital of the Đinh, the Tiền Lê, and the early Lý. An adult ticket is 20,000 đồng. Am Tiên, about 400 m from the east gate, is a separate 100,000 đồng line. A daily gate hour was not printed.",
   "dots": 3,
-  "timeNeeded": "1 hour",
-  "fee": "Paid entry",
-  "getThere": "Taxi or bicycle from Tam Coc",
+  "timeNeeded": "Check on arrival",
+  "fee": "20,000 đồng for an adult",
+  "getThere": "In the valley, at xã Trường Yên. Minutes from the station are Check on arrival.",
+  "district": "The old capital",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The tomb altar and the steps against the rock at Hoa Lư",
+  "notice": {
+    "title": "Am Tiên is not inside the 20,000 đồng ticket",
+    "body": "The board prints a separate cave line: adult 100,000 đồng, child under 1.3 m 30,000 đồng. The heritage page puts the cave about 400 m from the east gate of đền Đinh, up 205 steps."
+  },
+  "body": [
+    "The heritage page says this was the capital of the Đinh, the Tiền Lê, and the Lý, and it names six kings: Đinh Tiên Hoàng, Đinh Toàn, Lê Đại Hành, Lê Trung Tông, Lê Long Đĩnh, and Lý Thái Tổ. The relics page says Đinh, Tiền Lê, and early Lý. Đền Đinh stands on the old main hall, about 3 mẫu Bắc Bộ, with núi Mã Yên in front and núi Dù behind. The photograph is the tomb on that mountain, steps up to the altar against the rock, not the temple hall.",
+    "Đền Lê is a chữ Công plan. Tiền đường is 5 gian. Thiêu hương is 2 gian, 2.8 m by 6.15 m. Hậu cung is 5 gian, 14 m by 6 m. The middle bay holds Lê Đại Hành, the left bay Dương Vân Nga, the right bay Lê Long Đĩnh. The tombs on núi Mã Yên carry steles dated Minh Mệnh 21, which is 1840. The page lists 678 objects and ranks the ground a special national relic.",
+    "The festival is lunar month 3. The provincial page says the 8th through the 10th, with a large festival every three years. The heritage page says the 10th. Both stay. A solar date was not printed. A daily gate hour was not printed either. Check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "ninh-binh-hoa-lu-2",
+      "caption": "The brick path and the gate at the Temple of Emperor Lê Đại Hành",
+      "alt": "A wet brick path, festival flags, and a tiled gate at Hoa Lư"
+    }
+  ],
+  "gettingThere": [
+    "The heritage page places Cố đô Hoa Lư at xã Trường Yên. It sits in the same valley as the Tràng An wharf. Minutes from Ga Ninh Bình were not printed. Check on arrival. Am Tiên is the cave about 400 m from the east gate, a separate ticket."
+  ],
+  "legs": [
+    {
+      "heading": "From the valley",
+      "body": "The temples are the morning if you slept near Trường Yên. A gate hour was not printed. Check on arrival."
+    },
+    {
+      "heading": "From Hanoi",
+      "body": "Train to Ga Ninh Bình, then a ride. The station is kilometre 115 from Hà Nội on the timetable. Minutes from the station door to the temples were not printed. Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day was printed. Check on arrival.",
+  "admissionNote": "Board page updated 30 March 2026. Adult 20,000 đồng. Child 6–15: 10,000 đồng. Age 60 and over, and disabled visitors: 10,000 đồng. Hotline 02293 620 099. Support phone 02293.621.890. Am Tiên is separate: adult 100,000 đồng, child under 1.3 m 30,000 đồng, hotline 0987807965. A daily gate hour was not printed. Check on arrival.",
+  "links": [
+    {
+      "label": "Hoa Lư heritage page",
+      "url": "https://dsvh.gov.vn/di-tich-lich-su-va-kien-truc-nghe-thuat-co-do-hoa-lu-2952",
+      "note": "Cục Di sản văn hóa"
+    },
+    {
+      "label": "Ticket page",
+      "url": "https://trangandanhthang.vn/gia-ve-tham-quan-cac-khu-diem-du-lich/",
+      "note": "Temple ticket and the separate Am Tiên line"
+    }
+  ],
   "interests": [
-    "pagodas"
+    "oldTowns"
   ]
 }
