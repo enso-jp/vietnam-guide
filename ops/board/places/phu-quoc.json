@@ -126,6 +126,13 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "phu-quoc",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-22T16:51:28.558Z",
+    "by": "phu-quoc-research",
+    "branch": "cursor/phu-quoc-research-base-bbe2"
+  },
   "log": []
 }
