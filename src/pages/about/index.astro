@@ -1,14 +1,175 @@
 ---
+import { readFileSync } from 'node:fs';
+import { join } from 'node:path';
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
+import Photo from '../../components/Photo.astro';
+import SectionNav from '../../components/SectionNav.astro';
+
+const credits = JSON.parse(readFileSync(join(process.cwd(), 'public', 'photos', 'credits.json'), 'utf8')) as Record<string, { author?: string; license?: string }>;
+
+function creditLine(id: string) {
+  const credit = credits[id];
+  return credit?.author ? `Photo: ${credit.author} · ${credit.license}` : '';
+}
+
+const description = 'Vietnam, in this guide, is a place of beauty and culture, a life lived in the open, and a turn toward what comes next.';
 ---
-<Base title="About" description="Vietnam Guide is a reference for planning a trip. Each place uses the same facts: what it is, how worthwhile the visit is, how to get there, and what it costs to enter when a fee exists." path="/about" ogType="website">
-  <article class="wrap reading section">
-    <Crumbs items={[{ name: 'About' }]} />
-    <h1>About</h1>
-    <p>Vietnam Guide is a reference for planning a trip. Each place uses the same facts: what it is, how worthwhile the visit is, how to get there, and what it costs to enter when a fee exists.</p>
-    <p>Editorial dots are a judgment set by the editors. Visit rank is separate and stays hidden until a place has enough measured traffic. Sponsored links cannot change either one.</p>
-    <p>Pages are JSON records in this site’s repository. The schema is checked before a build. See <a href="/about/editing">how to update a page</a>.</p>
-    <p><a href="/about/ratings">How ratings work</a> · <a href="/about/partners">Partners</a> · <a href="/about/corrections">Corrections</a></p>
+<Base title="About" description={description} path="/about" ogType="website" ogImage="/photos/ha-long.jpg">
+  <article class="about-page section">
+    <div class="wrap">
+      <Crumbs items={[{ name: 'About' }]} />
+      <h1>About</h1>
+      <p class="lede">Vietnam, in this guide, is a place of beauty, of culture, of a life lived in the open, and of a turn from what has already happened toward what comes next.</p>
+
+      <figure class="prose-figure about-hero">
+        <a href="/ha-long">
+          <Photo id="ha-long" alt="Ha Long Bay" priority />
+        </a>
+        <figcaption>
+          <a href="/ha-long">Ha Long Bay</a>
+          <span class="about-by">{creditLine('ha-long')}</span>
+        </figcaption>
+      </figure>
+
+      <SectionNav
+        label="About sections"
+        items={[
+          { id: 'landscape', label: 'Landscape' },
+          { id: 'culture', label: 'Culture and making' },
+          { id: 'daily', label: 'Daily life' },
+          { id: 'forward', label: 'Looking forward' },
+        ]}
+      />
+
+      <div class="place-body">
+        <section id="landscape" class="place-section">
+          <h2>Landscape</h2>
+          <p>Start with the land. The photograph above is <a href="/ha-long">Ha Long Bay</a>: islands in still water, and a boat beside them. At Trang An, in <a href="/ninh-binh">Ninh Binh</a>, boats sit on a river under a cliff. Open either place when the shape of the country is the trip.</p>
+          <figure class="prose-figure">
+            <a href="/ninh-binh">
+              <Photo id="blog-ninh-binh-trang-an" alt="Boats on the water at Trang An in Ninh Binh" />
+            </a>
+            <figcaption>
+              <a href="/ninh-binh">Trang An, Ninh Binh</a>
+              <span class="about-by">{creditLine('blog-ninh-binh-trang-an')}</span>
+            </figcaption>
+          </figure>
+        </section>
+
+        <section id="culture" class="place-section">
+          <h2>Culture and making</h2>
+          <p>Look for work you can stand beside. In Đa Phước, near <a href="/chau-doc">Chau Doc</a>, a weaver is at a loom, with blue cloth in front of her. In <a href="/hoi-an">Hoi An</a>, the street is hung with lanterns after dark. Follow the old-town pages when you want the person at the work, and the street after dark.</p>
+          <div class="about-photos">
+            <figure class="prose-figure">
+              <a href="/chau-doc">
+                <Photo id="about-chau-doc-loom" alt="A weaver at a loom in Đa Phước, near Chau Doc" />
+              </a>
+              <figcaption>
+                <a href="/chau-doc">A weaver at a loom near Chau Doc</a>
+                <span class="about-by">{creditLine('about-chau-doc-loom')}</span>
+              </figcaption>
+            </figure>
+            <figure class="prose-figure">
+              <a href="/hoi-an">
+                <Photo id="hoi-an-lantern-night" alt="Lanterns over a street in Hoi An" />
+              </a>
+              <figcaption>
+                <a href="/hoi-an">Lanterns in Hoi An</a>
+                <span class="about-by">{creditLine('hoi-an-lantern-night')}</span>
+              </figcaption>
+            </figure>
+          </div>
+        </section>
+
+        <section id="daily" class="place-section">
+          <h2>Daily life</h2>
+          <p>Give the ordinary hours a place in the day. At the floating market in <a href="/can-tho">Can Tho</a>, the stall is a boat, with cabbages in the bow. A bowl of <a href="/food/mi-quang">Mi Quang</a> is a meal set on a table. The food pages are there for that part of the trip.</p>
+          <div class="about-photos">
+            <figure class="prose-figure">
+              <a href="/can-tho">
+                <Photo id="blog-can-tho-market" alt="A seller with cabbages on a boat at the floating market in Can Tho" />
+              </a>
+              <figcaption>
+                <a href="/can-tho">Floating market, Can Tho</a>
+                <span class="about-by">{creditLine('blog-can-tho-market')}</span>
+              </figcaption>
+            </figure>
+            <figure class="prose-figure">
+              <a href="/food/mi-quang">
+                <Photo id="mi-quang" alt="A bowl of Mi Quang" />
+              </a>
+              <figcaption>
+                <a href="/food/mi-quang">Mi Quang <span class="vi">Mì Quảng</span></a>
+                <span class="about-by">{creditLine('mi-quang')}</span>
+              </figcaption>
+            </figure>
+          </div>
+        </section>
+
+        <section id="forward" class="place-section">
+          <h2>Looking forward</h2>
+          <p>The country is also what it is adding. <a href="/da-nang/dragon-bridge">Dragon Bridge</a> in Da Nang crosses the river in the shape of a dragon, with the city behind it. At <a href="/da-nang/my-khe">My Khe Beach</a> the towers stand along the sand. Come for that present, and leave room for the next visit to look different.</p>
+          <div class="about-photos">
+            <figure class="prose-figure">
+              <a href="/da-nang/dragon-bridge">
+                <Photo id="da-nang-dragon-bridge" alt="Dragon Bridge in Da Nang" />
+              </a>
+              <figcaption>
+                <a href="/da-nang/dragon-bridge">Dragon Bridge, Da Nang</a>
+                <span class="about-by">{creditLine('da-nang-dragon-bridge')}</span>
+              </figcaption>
+            </figure>
+            <figure class="prose-figure">
+              <a href="/da-nang/my-khe">
+                <Photo id="da-nang-my-khe" alt="Towers along My Khe Beach in Da Nang" />
+              </a>
+              <figcaption>
+                <a href="/da-nang/my-khe">My Khe Beach, Da Nang</a>
+                <span class="about-by">{creditLine('da-nang-my-khe')}</span>
+              </figcaption>
+            </figure>
+          </div>
+        </section>
+      </div>
+
+      <p class="note about-ratings"><a href="/about/ratings">How ratings work</a></p>
+    </div>
   </article>
 </Base>
+
+<style>
+  .about-hero {
+    margin-top: 3.5rem;
+    margin-bottom: 0.5rem;
+  }
+  .about-hero :global(img) {
+    aspect-ratio: 16 / 9;
+    border-radius: 16px;
+  }
+  .about-by {
+    display: block;
+    margin-top: 0.2rem;
+  }
+  .about-page .place-body > .place-section:first-child > h2 {
+    margin-top: 0;
+  }
+  .about-photos {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.15rem 1.25rem;
+    margin-top: 3.5rem;
+  }
+  .about-photos .prose-figure {
+    margin: 0;
+  }
+  .about-ratings {
+    margin: 2.75rem 0 0.5rem;
+  }
+  @media (max-width: 860px) {
+    .about-photos {
+      grid-template-columns: 1fr;
+      gap: 1.75rem;
+    }
+  }
+</style>
