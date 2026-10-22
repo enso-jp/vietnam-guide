@@ -62,15 +62,15 @@
     },
     "destinationCopy": {
       "status": "enriched",
-      "note": "Place prose and the Holy See hero checked against the dossier. Both distance sets, both cable clocks, both Chi Ton days, both bath hours, both lake capacities, and the printed 27 km stay. Unsourced fees and hours are Check on arrival. Questions are in research/tay-ninh/questions.md.",
-      "updated": "2026-10-22T07:24:24.320Z",
+      "note": "Ba Den intro now prints Decision 100-VH/QĐ and 100/VH-QĐ, both 21 Jan 1989, and Hậu cần 82 beside Hậu cần 32. Liên đội 7 stays on both.",
+      "updated": "2026-10-22T07:25:11.830Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:51:36.435Z",
-      "reworkCount": 0
+      "status": "checked",
+      "note": "Read the dossier against the place. Distances, both cable clocks, both Chi Ton days, both bath hours, both lake capacities, the printed 27 km, and the two war-unit numbers are on the page. No city pin. Holy See ticket, grounds close, minutes from Tan Ninh, second-cable everyday fare, and Go Ken address fee and hour stay Check on arrival. No food chip.",
+      "updated": "2026-10-22T07:25:11.899Z",
+      "reworkCount": 1
     },
     "food": {
       "status": "not_started",
@@ -526,15 +526,32 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "tay-ninh",
-    "stage": "destinationQuality",
-    "item": null,
-    "at": "2026-10-22T07:24:24.354Z",
-    "by": "tay-ninh-page",
-    "branch": "cursor/tay-ninh-destination-0ab9"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T07:25:11.899Z",
+      "place": "tay-ninh",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Read the dossier against the place. Distances, both cable clocks, both Chi Ton days, both bath hours, both lake capacities, the printed 27 km, and the two war-unit numbers are on the page. No city pin. Holy See ticket, grounds close, minutes from Tan Ninh, second-cable everyday fare, and Go Ken address fee and hour stay Check on arrival. No food chip."
+    },
+    {
+      "at": "2026-10-22T07:25:11.830Z",
+      "place": "tay-ninh",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Ba Den intro now prints Decision 100-VH/QĐ and 100/VH-QĐ, both 21 Jan 1989, and Hậu cần 82 beside Hậu cần 32. Liên đội 7 stays on both."
+    },
+    {
+      "at": "2026-10-22T07:25:11.762Z",
+      "place": "tay-ninh",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "rework",
+      "note": "Hậu cần 82 and 32, and Decision 100-VH/QĐ beside 100/VH-QĐ, were only in interestsBody, which the slider does not show. Put both pairs in the Ba Den intro paragraph."
+    },
     {
       "at": "2026-10-22T07:24:24.321Z",
       "place": "tay-ninh",
