@@ -55,9 +55,9 @@
       "reworkCount": 0
     },
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, six interest groups, and can-gio-day. No sight cards and no food guide: every dossier photo line is unpublished. Nearby are ho-chi-minh-city and vung-tau. Check on arrival: ferry clock, car ferry fare, bus fare, hydrofoil, airport minutes, beach ticket, temple hours and fee, Thanh An boat, stall prices, breakfast.",
+      "updated": "2026-10-22T04:31:27.792Z",
       "reworkCount": 0
     },
     "destinationCopy": {
@@ -526,15 +526,16 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "can-gio",
-    "stage": "destination",
-    "item": null,
-    "at": "2026-10-22T04:25:04.511Z",
-    "by": "can-gio-page",
-    "branch": "cursor/can-gio-destination-e5c0"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T04:31:27.793Z",
+      "place": "can-gio",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place shell, six interest groups, and can-gio-day. No sight cards and no food guide: every dossier photo line is unpublished. Nearby are ho-chi-minh-city and vung-tau. Check on arrival: ferry clock, car ferry fare, bus fare, hydrofoil, airport minutes, beach ticket, temple hours and fee, Thanh An boat, stall prices, breakfast."
+    },
     {
       "at": "2026-10-22T04:15:03.022Z",
       "place": "can-gio",

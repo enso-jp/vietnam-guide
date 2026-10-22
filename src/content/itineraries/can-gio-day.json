@@ -1,0 +1,69 @@
+{
+  "slug": "can-gio-day",
+  "title": "A night in Can Gio",
+  "kind": "trip",
+  "level": "day",
+  "duration": "2 days",
+  "spanDays": 2,
+  "daysCount": 2,
+  "placeSlug": "can-gio",
+  "budget": "Check on arrival",
+  "pace": "Steady",
+  "summary": "Leave Ho Chi Minh City early for the Bình Khánh ferry, give the creek a half day at Vàm Sát, and eat at Hàng Dương after that gate closes. Sleep in the beach town. The whale temple is the next morning. The salt pans are a different dawn, and only in December–May.",
+  "days": [
+    {
+      "title": "Ferry, the creek, and Hàng Dương",
+      "body": "Start early. Visit HCMC prints about 1 hour 30 minutes and about 50 km; Tuổi Trẻ prints about 2 hours. The ferry itself is about 10–15 minutes, and a holiday queue on the approach can eat the morning. Vàm Sát is open 8:00–17:00. The Sac Forest gate on the tourism page is 7:30–17:30, a different desk. After 17:00 the evening is Hàng Dương, then about 50 m of sand. Sleep in xã Cần Giờ.",
+      "placeSlug": "can-gio"
+    },
+    {
+      "title": "The temple, then the ferry back",
+      "body": "Lăng Ông is under an hour on an ordinary morning. Hours and a ticket were not printed. Check on arrival. The salt morning is a different day, December–May, and it starts at dawn. Then the same ferry back to Ho Chi Minh City. The September 2026 story still had the ferry as the crossing.",
+      "placeSlug": "can-gio"
+    }
+  ],
+  "stops": [
+    {
+      "name": "Bình Khánh ferry",
+      "minutes": 15,
+      "placeSlug": "ho-chi-minh-city",
+      "note": "About 10–15 minutes on the water, about 1.2 km on the Soài Rạp. Door to door is about 1 hour 30 minutes on Visit HCMC and about 2 hours in Tuổi Trẻ. A holiday queue ran nearly 2 hours on 30 April 2026. Walk or bicycle 3,000 VND and a motorbike 8,000 from 18 March 2026. A car fare and a ferry clock are check on arrival.",
+      "approach": {
+        "mode": "taxi",
+        "note": "Nguyễn Văn Linh, then Huỳnh Tấn Phát, to the ferry. A motorbike is also the mode the tourism page describes. A hire price was not printed. Check on arrival."
+      }
+    },
+    {
+      "name": "Vàm Sát",
+      "minutes": 120,
+      "placeSlug": "can-gio",
+      "note": "The operator calls the road-gate visit a half day. A minute count for the whole gate was not printed. The wooden boat to Đầm Dơi is capped at 2 hours. Road gate 60,000 VND, shuttle included, 8:00–17:00 every day. The canoe band on Visit HCMC, from 270,000 to 895,000 VND, does not match the operator’s table.",
+      "approach": {
+        "mode": "taxi",
+        "note": "Along đường Rừng Sác to cầu Dần Xây or the road gate. Minutes from the beach town were not printed. Check on arrival."
+      }
+    },
+    {
+      "name": "Hàng Dương and the sand",
+      "minutes": 90,
+      "placeSlug": "can-gio",
+      "note": "After the Vàm Sát gate closes at 17:00. The 2019 story puts the sand about 50 m from the market. One seller that year stopped around 21:00. That is not a town closing hour. A stall price was not printed. Check on arrival.",
+      "approach": {
+        "mode": "walk",
+        "note": "A walk if you are already in the beach town. Minutes from Vàm Sát were not printed. Check on arrival."
+      }
+    },
+    {
+      "name": "Lăng Ông",
+      "minutes": 45,
+      "placeSlug": "can-gio",
+      "note": "Under an hour outside festival days. Hours and a fee were not printed. Check on arrival. The sea rite is a festival morning, at 10:00 on the culture department’s page and at 9:00 in the 2025 city story.",
+      "approach": {
+        "mode": "walk",
+        "note": "In the beach town, xã Cần Giờ. The culture department’s page still says thị trấn Cần Thạnh."
+      }
+    }
+  ],
+  "seoTitle": "A night in Can Gio — ferry, creek, and Hàng Dương",
+  "seoDescription": "Two days from Ho Chi Minh City: the Bình Khánh ferry, a half day at Vàm Sát, Hàng Dương after 17:00, and the whale temple the next morning."
+}
