@@ -19,39 +19,39 @@
   },
   "stages": {
     "destination": {
-      "status": "shell",
-      "note": "A place file exists. It has not been set up from a stored dossier.",
-      "updated": null,
+      "status": "paged",
+      "note": "City page, ten licensed sights, one day plan, Vinpearl resort named by Vietnam Tourism.",
+      "updated": "2026-10-22T10:50:18.126Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T10:16:12.240Z",
+      "status": "enriched",
+      "note": "Copy pass 22 Oct 2026. Both Po Nagar clocks, both airport distances, and both Buddha heights are printed.",
+      "updated": "2026-10-22T10:50:18.192Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T10:16:12.240Z",
+      "status": "checked",
+      "note": "Quality pass 22 Oct 2026. Dots on beach and Po Nagar stayed at 3. New signature sights at 3. Centre stops at 2 so the beach remains the lead.",
+      "updated": "2026-10-22T10:50:18.253Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Food guide stored in five dining sections plus breakfast. 69 sourced names. Cards only where a photo exists.",
+      "updated": "2026-10-22T10:50:18.319Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T10:16:12.240Z",
+      "status": "enriched",
+      "note": "Food copy 22 Oct 2026. No prices copied. Nem nướng and bánh căn stay names.",
+      "updated": "2026-10-22T10:50:18.379Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T10:16:12.240Z",
+      "status": "checked",
+      "note": "Quality pass. Count is 69, above the 40 to 50 bar, because each name is on an opened page.",
+      "updated": "2026-10-22T10:50:18.440Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -101,11 +101,11 @@
       "file": "src/content/attractions/nha-trang--beach.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "City beach. Licensed photo: Nha Trang Beach 10.jpg.",
-      "updated": "2026-10-22T10:16:12.240Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Quality pass 22 Oct 2026.",
+      "updated": "2026-10-22T10:50:18.627Z",
       "reworkCount": 0
     },
     {
@@ -117,11 +117,11 @@
       "file": "src/content/attractions/nha-trang--po-nagar.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Towers. Hours and the 22000 VND ticket disagree across pages.",
-      "updated": "2026-10-22T10:16:12.240Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Quality pass 22 Oct 2026.",
+      "updated": "2026-10-22T10:50:18.815Z",
       "reworkCount": 0
     },
     {
@@ -133,11 +133,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Seated white Buddha. Hours 07:00-17:30. No ticket printed.",
-      "updated": "2026-10-22T10:16:12.240Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Quality pass 22 Oct 2026.",
+      "updated": "2026-10-22T10:50:19.000Z",
       "reworkCount": 0
     },
     {
@@ -149,11 +149,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Stone church. Hours and Mass clocks both stay.",
-      "updated": "2026-10-22T10:16:12.240Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Quality pass 22 Oct 2026.",
+      "updated": "2026-10-22T10:50:19.187Z",
       "reworkCount": 0
     },
     {
@@ -165,11 +165,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Rock shore. Hours 06:00-18:00. No ticket printed.",
-      "updated": "2026-10-22T10:16:12.240Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Quality pass 22 Oct 2026.",
+      "updated": "2026-10-22T10:50:19.376Z",
       "reworkCount": 0
     },
     {
@@ -181,11 +181,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Cable crossing. Area figures and the longest-cable claims both stay.",
-      "updated": "2026-10-22T10:16:12.240Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Quality pass 22 Oct 2026.",
+      "updated": "2026-10-22T10:50:19.565Z",
       "reworkCount": 0
     },
     {
@@ -197,11 +197,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Swim shore. Coral itself has no licensed photo.",
-      "updated": "2026-10-22T10:16:12.240Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Quality pass 22 Oct 2026.",
+      "updated": "2026-10-22T10:50:19.754Z",
       "reworkCount": 0
     },
     {
@@ -213,11 +213,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Gate photo. Free to enter. Hours were not printed.",
-      "updated": "2026-10-22T10:16:12.240Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Quality pass 22 Oct 2026.",
+      "updated": "2026-10-22T10:50:19.940Z",
       "reworkCount": 0
     },
     {
@@ -229,11 +229,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Facade. Street and fares were not printed.",
-      "updated": "2026-10-22T10:16:12.240Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Quality pass 22 Oct 2026.",
+      "updated": "2026-10-22T10:50:20.124Z",
       "reworkCount": 0
     },
     {
@@ -421,11 +421,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Behind 46 Tran Phu. Free. Lower half of the stacked file.",
-      "updated": "2026-10-22T10:16:12.240Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Quality pass 22 Oct 2026.",
+      "updated": "2026-10-22T10:50:20.307Z",
       "reworkCount": 0
     },
     {
@@ -478,110 +478,167 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "nha-trang",
-    "stage": "destination",
-    "item": null,
-    "at": "2026-10-22T10:16:12.271Z",
-    "by": "content",
-    "branch": "cursor/nha-trang-destination-607e"
-  },
+  "claim": null,
   "log": [
     {
-      "at": "2026-10-22T10:16:12.240Z",
+      "at": "2026-10-22T10:50:20.307Z",
       "place": "nha-trang",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a festival photo, Yang Bay as a card, the next sea-festival date, and minutes to Da Lat, Mui Ne, and Quy Nhon."
+      "stage": "quality",
+      "item": "nha-trang--night-market",
+      "status": "checked",
+      "note": "Quality pass 22 Oct 2026."
     },
     {
-      "at": "2026-10-22T10:16:12.025Z",
+      "at": "2026-10-22T10:50:20.247Z",
       "place": "nha-trang",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Festivals and side trips are in the dossier."
+      "stage": "copy",
+      "item": "nha-trang--night-market",
+      "status": "enriched",
+      "note": "Copy pass 22 Oct 2026."
     },
     {
-      "at": "2026-10-22T10:16:11.961Z",
+      "at": "2026-10-22T10:50:20.186Z",
       "place": "nha-trang",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: the quiet hour, and a mapped breakfast street."
+      "stage": "page",
+      "item": "nha-trang--night-market",
+      "status": "paged",
+      "note": "Sight page written 22 Oct 2026."
     },
     {
-      "at": "2026-10-22T10:16:11.830Z",
+      "at": "2026-10-22T10:50:20.124Z",
       "place": "nha-trang",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The day is the sand."
+      "stage": "quality",
+      "item": "nha-trang--station",
+      "status": "checked",
+      "note": "Quality pass 22 Oct 2026."
     },
     {
-      "at": "2026-10-22T10:16:11.763Z",
+      "at": "2026-10-22T10:50:20.062Z",
       "place": "nha-trang",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a clock for the night market, and street numbers for Sailing Club and Skylight."
+      "stage": "copy",
+      "item": "nha-trang--station",
+      "status": "enriched",
+      "note": "Copy pass 22 Oct 2026."
     },
     {
-      "at": "2026-10-22T10:16:11.636Z",
+      "at": "2026-10-22T10:50:20.000Z",
       "place": "nha-trang",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The night market is the evening walk."
+      "stage": "page",
+      "item": "nha-trang--station",
+      "status": "paged",
+      "note": "Sight page written 22 Oct 2026."
     },
     {
-      "at": "2026-10-22T10:16:11.573Z",
+      "at": "2026-10-22T10:50:19.940Z",
       "place": "nha-trang",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: stall prices, plate photos, bun sua, banh can beyond the name, and Cho Xom Moi."
+      "stage": "quality",
+      "item": "nha-trang--dam-market",
+      "status": "checked",
+      "note": "Quality pass 22 Oct 2026."
     },
     {
-      "at": "2026-10-22T10:16:11.124Z",
+      "at": "2026-10-22T10:50:19.879Z",
       "place": "nha-trang",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Dishes are in the dossier. No plate photo."
+      "stage": "copy",
+      "item": "nha-trang--dam-market",
+      "status": "enriched",
+      "note": "Copy pass 22 Oct 2026."
     },
     {
-      "at": "2026-10-22T10:15:52.106Z",
+      "at": "2026-10-22T10:50:19.816Z",
       "place": "nha-trang",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: museum hours and ticket, Hon Chong Long Son cathedral and Long Beach tickets, the station street, a hall photo, a coral photo, a lotus-roof photo, Long Beach, the Bao Dai villa, and the meditation institute."
+      "stage": "page",
+      "item": "nha-trang--dam-market",
+      "status": "paged",
+      "note": "Sight page written 22 Oct 2026."
     },
     {
-      "at": "2026-10-22T10:15:51.039Z",
+      "at": "2026-10-22T10:50:19.754Z",
       "place": "nha-trang",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Sights are in the dossier. Board items were not filed."
+      "stage": "quality",
+      "item": "nha-trang--hon-mun",
+      "status": "checked",
+      "note": "Quality pass 22 Oct 2026."
     },
     {
-      "at": "2026-10-22T10:15:50.974Z",
+      "at": "2026-10-22T10:50:19.692Z",
       "place": "nha-trang",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a second beach length, the station street, road minutes to Da Lat, Mui Ne, and Quy Nhon, the Dieu Tri rail row, and a carrier distance."
+      "stage": "copy",
+      "item": "nha-trang--hon-mun",
+      "status": "enriched",
+      "note": "Copy pass 22 Oct 2026."
     },
     {
-      "at": "2026-10-22T10:15:50.942Z",
+      "at": "2026-10-22T10:50:19.628Z",
       "place": "nha-trang",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Dossier stored 22 Oct 2026. Board lane was still not_started."
+      "stage": "page",
+      "item": "nha-trang--hon-mun",
+      "status": "paged",
+      "note": "Sight page written 22 Oct 2026."
+    },
+    {
+      "at": "2026-10-22T10:50:19.565Z",
+      "place": "nha-trang",
+      "stage": "quality",
+      "item": "nha-trang--hon-tre",
+      "status": "checked",
+      "note": "Quality pass 22 Oct 2026."
+    },
+    {
+      "at": "2026-10-22T10:50:19.502Z",
+      "place": "nha-trang",
+      "stage": "copy",
+      "item": "nha-trang--hon-tre",
+      "status": "enriched",
+      "note": "Copy pass 22 Oct 2026."
+    },
+    {
+      "at": "2026-10-22T10:50:19.437Z",
+      "place": "nha-trang",
+      "stage": "page",
+      "item": "nha-trang--hon-tre",
+      "status": "paged",
+      "note": "Sight page written 22 Oct 2026."
+    },
+    {
+      "at": "2026-10-22T10:50:19.376Z",
+      "place": "nha-trang",
+      "stage": "quality",
+      "item": "nha-trang--hon-chong",
+      "status": "checked",
+      "note": "Quality pass 22 Oct 2026."
+    },
+    {
+      "at": "2026-10-22T10:50:19.311Z",
+      "place": "nha-trang",
+      "stage": "copy",
+      "item": "nha-trang--hon-chong",
+      "status": "enriched",
+      "note": "Copy pass 22 Oct 2026."
+    },
+    {
+      "at": "2026-10-22T10:50:19.249Z",
+      "place": "nha-trang",
+      "stage": "page",
+      "item": "nha-trang--hon-chong",
+      "status": "paged",
+      "note": "Sight page written 22 Oct 2026."
+    },
+    {
+      "at": "2026-10-22T10:50:19.187Z",
+      "place": "nha-trang",
+      "stage": "quality",
+      "item": "nha-trang--cathedral",
+      "status": "checked",
+      "note": "Quality pass 22 Oct 2026."
+    },
+    {
+      "at": "2026-10-22T10:50:19.124Z",
+      "place": "nha-trang",
+      "stage": "copy",
+      "item": "nha-trang--cathedral",
+      "status": "enriched",
+      "note": "Copy pass 22 Oct 2026."
     }
   ]
 }

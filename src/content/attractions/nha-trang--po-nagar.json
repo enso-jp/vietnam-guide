@@ -2,12 +2,65 @@
   "slug": "po-nagar",
   "placeSlug": "nha-trang",
   "name": "Po Nagar Towers",
-  "summary": "Cham towers on a hill north of the beach, still an active place of worship.",
+  "nameVi": "Tháp Bà Ponagar",
+  "kicker": "Cham towers on the hill north of the beach",
+  "summary": "The Cham towers stand about 2 km north of the centre. One provincial page prints 06:00–17:30 and no ticket. The tourism-resource page prints 08:00–18:00 and 22,000 VND a person. The hill is over 20 m on one page and about 10–12 m on the other. Read both before you go up.",
   "dots": 3,
-  "timeNeeded": "45 minutes",
-  "fee": "Paid entry",
-  "getThere": "Short Grab ride",
+  "timeNeeded": "1 hour",
+  "fee": "22,000 VND on one page",
+  "getThere": "About 2 km north of the centre. Minutes were not printed.",
+  "district": "North shore",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The main brick tower and the pyramid tower in the courtyard",
+  "notice": {
+    "title": "The two clocks do not match",
+    "body": "The digital page opens at 06:00 and closes at 17:30, and it prints no ticket. The resource page opens at 08:00, closes at 18:00, and prints 22,000 VND. From 6 to 11 May 2026 the police page prints free entry."
+  },
+  "body": [
+    "Po Nagar is the Cham complex on đồi Cù Lao, in Vĩnh Phước. The digital page gives the address as Tháp Bà Ponagar, Hai Tháng Tư. The resource page gives 61 Đường 2/4. Both say the site is about 2 km north of the centre. The digital page says the hill is over 20 m. The resource page says about 10–12 m. The site area on the digital page is 17,683.6 m². The complex runs from the 8th to the 13th centuries on that page.",
+    "Tower heights are printed on both pages. The main tower is about 23 m. The south tower is about 18 m. The northwest tower is about 9 m. The southeast tower is about 7 m on the digital page and 7.1 m on the resource page. Dates on the resource page put the main tower at 813–817, repaired in the 11th century, the northwest tower at 817 and repaired in the 13th century, and the southeast tower in the 11th–12th centuries. The south tower is 13th century on both.",
+    "The heritage festival page still calls the site a national historical-cultural relic. Decision 152/QĐ-TTg of 17 January 2025, reported by the heritage department and echoed by the provincial police, ranks Tháp Bà Pô Nagar a special national relic. The annual festival is lunar 20–23 of month 3 on the heritage and resource pages. The 2026 police notice prints 6–11 May, lunar 19–25, and free entry for those days. The traditional rite is 4:00–6:00 on the 23rd on the heritage page and 6:00–8:00 on the resource page."
+  ],
+  "figures": [
+    {
+      "id": "nha-trang-po-nagar-2",
+      "caption": "The same courtyard, framed to include the smaller tower on the left",
+      "alt": "Three Cham towers in the Po Nagar courtyard"
+    }
+  ],
+  "gettingThere": [
+    "Both provincial pages put the towers about 2 km north of the centre. The street line differs: Hai Tháng Tư on the digital page, 61 Đường 2/4 on the resource page. Minutes from Trần Phú or the station were not printed."
+  ],
+  "legs": [
+    {
+      "heading": "From Trần Phú",
+      "body": "About 2 km north. The ride minutes were not printed."
+    },
+    {
+      "heading": "From the airport",
+      "body": "Use the city distances, 27 km or about 30 km, then the 2 km north. Door-to-door minutes were not printed."
+    }
+  ],
+  "hours": "06:00–17:30 on the digital page. 08:00–18:00 on the resource page.",
+  "admissionNote": "22,000 VND a person a visit on the resource page. The digital page prints no ticket. Free entry 6–11 May 2026 on the police page. Phone on the resource page: 0899 789 815.",
+  "links": [
+    {
+      "label": "Po Nagar on the provincial digital guide",
+      "url": "https://dulichso.khanhhoa.gov.vn/en/article/po-nagar-cham-towers-77f",
+      "note": "Hours 06:00–17:30. No ticket on this page."
+    },
+    {
+      "label": "Tourism-resource page",
+      "url": "https://ttdhsdl.khanhhoa.gov.vn/TourismResources/Detail/VanHoa-2",
+      "note": "Hours 08:00–18:00. Ticket 22,000 VND."
+    },
+    {
+      "label": "2026 festival security notice",
+      "url": "https://congan.khanhhoa.gov.vn/vi/dam-bao-an-ninh-trat-tu-cho-nguoi-dan-du-khach-va-cac-doan-hanh-huong-ve-tham-du-le-hoi-thap-ba",
+      "note": "6–11 May 2026, and free entry for the festival."
+    }
+  ],
   "interests": [
-    "beaches"
+    "photography"
   ]
 }
