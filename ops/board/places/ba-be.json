@@ -61,9 +61,9 @@
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T18:53:36.522Z",
+      "status": "enriched",
+      "note": "Hero is the landing boats and the limestone, cropped so both stay in the 16:9 frame. Selling line is the morning on the lake. Fees and hours stay check on arrival. Open questions are in research/ba-be/questions.md.",
+      "updated": "2026-10-22T02:26:57.648Z",
       "reworkCount": 0
     },
     "destinationQuality": {
@@ -688,6 +688,14 @@
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T02:26:57.648Z",
+      "place": "ba-be",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Hero is the landing boats and the limestone, cropped so both stay in the 16:9 frame. Selling line is the morning on the lake. Fees and hours stay check on arrival. Open questions are in research/ba-be/questions.md."
+    },
     {
       "at": "2026-10-22T02:25:19.767Z",
       "place": "ba-be",
