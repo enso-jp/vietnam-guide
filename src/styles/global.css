@@ -2175,6 +2175,13 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
 .collage-tile:hover strong { text-decoration: underline; }
 .collage-tile:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
 
+/* Shared row heights above would keep the collage shorter than the booking card. */
+@media (min-width: 861px) {
+  .home-collage {
+    grid-template-rows: minmax(0, 1.05fr) minmax(0, 1.05fr) minmax(0, 0.92fr);
+  }
+}
+
 @media (max-width: 860px) {
   .bar {
     height: 3.25rem;
