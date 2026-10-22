@@ -1,0 +1,76 @@
+{
+  "slug": "con-dao-two-days",
+  "title": "Two days on Con Dao",
+  "kind": "trip",
+  "level": "day",
+  "duration": "2 days",
+  "spanDays": 2,
+  "placeSlug": "con-dao",
+  "budget": "Check on arrival. The scenic fee does not include the relic ticket or the boat.",
+  "pace": "One history day, then the park",
+  "photo": "con-dao-con-dao-prison",
+  "summary": "Day one is the camps and Hàng Dương, on foot in town. Day two is the park, with Đầm Trầu and the boat toward the turtle islets. On-site minutes for the prison were not printed. The scenic fee is not the relic ticket.",
+  "days": [
+    {
+      "title": "Day 1 — The camps and Hàng Dương",
+      "body": "Walk the prison as one site, then the cemetery. The history museum counts nearly 2,000 fighters held. The ministry article counts about 20,000 dead. The gate hours are check on arrival. The night market on Võ Thị Sáu and Phạm Văn Đồng starts at 17:00.",
+      "placeSlug": "con-dao",
+      "photo": "con-dao-con-dao-prison"
+    },
+    {
+      "title": "Day 2 — The park and the islets",
+      "body": "The park day is the forest and the water. Đầm Trầu is the swim the Vietnamese page calls yellow sand and the English page calls amber. Hòn Bảy Cạnh is about 45 minutes by boat. Time ashore and the fare are check on arrival.",
+      "placeSlug": "con-dao",
+      "photo": "con-dao-hon-bay-canh"
+    }
+  ],
+  "stops": [
+    {
+      "name": "Con Dao prison",
+      "placeSlug": "con-dao",
+      "attractionSlug": "con-dao-prison",
+      "note": "Day 1. Walk in town. Minutes inside the walls were not printed. Check on arrival. The relic ticket is not the scenic fee.",
+      "minutes": "Check on arrival",
+      "approach": {
+        "mode": "walk",
+        "note": "From Côn Sơn town. Street minutes were not printed."
+      }
+    },
+    {
+      "name": "Hang Duong cemetery",
+      "placeSlug": "con-dao",
+      "attractionSlug": "hang-duong",
+      "note": "Day 1, after the camps. Ordinary minutes were not printed. Check on arrival. This is not the Vũng Tàu memorial.",
+      "minutes": "Check on arrival",
+      "approach": {
+        "mode": "walk",
+        "note": "In town. A street minute count was not printed."
+      }
+    },
+    {
+      "name": "Con Dao National Park",
+      "placeSlug": "con-dao",
+      "attractionSlug": "con-dao-national-park",
+      "note": "Day 2. The scenic fee is not the boat and not the prison ticket. Minutes for a whole park day were not printed. Check on arrival.",
+      "minutes": "Check on arrival",
+      "approach": {
+        "mode": "walk",
+        "note": "The office is on đường Ma Thiên Lãnh, khu 3. Walk minutes were not printed."
+      }
+    },
+    {
+      "name": "Boat toward Hon Bay Canh",
+      "placeSlug": "con-dao",
+      "attractionSlug": "hon-bay-canh",
+      "note": "Day 2. About 45 minutes by boat on the English park tour page. Time on the islet and the fare: Check on arrival.",
+      "minutes": 45,
+      "approach": {
+        "mode": "boat",
+        "minutes": 45,
+        "note": "English park tour page. The fare was not printed."
+      }
+    }
+  ],
+  "seoTitle": "Two days on Con Dao — camps, then the park",
+  "seoDescription": "Day one is the prison camps and Hàng Dương. Day two is the park and the boat toward Hòn Bảy Cạnh. On-site minutes and the boat fare are check on arrival."
+}

@@ -1,0 +1,255 @@
+{
+  "slug": "con-dao",
+  "name": "Con Dao",
+  "nameVi": "Côn Đảo",
+  "kind": "area",
+  "corridor": "southeast",
+  "province": "Ho Chi Minh City",
+  "provinceNote": "Đặc khu Côn Đảo. Until 1 July 2025 a district of Bà Rịa–Vũng Tàu.",
+  "lat": 8.706389,
+  "lng": 106.635556,
+  "dots": 5,
+  "dotReason": "Worth building a day around",
+  "summary": "You wake on the town shore of Côn Sơn: boats in the bay, casuarina along the sand, and the forested ridge behind the roofs. Stay if the prison camps and the national park are the trip. Go to Vũng Tàu if you wanted the mainland beach. The park page counts sixteen islands and the Ramsar sheet counts fourteen. Flight minutes and a Vũng Tàu sailing are check on arrival.",
+  "timeNeeded": "Two days: the camps, then the park",
+  "fee": "Check on arrival. The scenic-route fee and the relic ticket are separate.",
+  "getThere": "Fly to Côn Đảo (VVCS), 10 km northeast of town. Road minutes are check on arrival.",
+  "bestMonths": "Check on arrival",
+  "verified": "22 Oct 2026",
+  "interests": {
+    "warHistory": 5,
+    "islands": 5,
+    "food": 4,
+    "beaches": 4,
+    "nightlife": 3,
+    "mountains": 3
+  },
+  "cover": "coast",
+  "foodSlug": "con-dao",
+  "nearby": ["ho-chi-minh-city", "vung-tau", "can-tho"],
+  "routeSlugs": [],
+  "itinerarySlugs": ["con-dao-two-days"],
+  "seoTitle": "Con Dao travel guide — prison camps and park isles",
+  "seoDescription": "Sixteen islands on the park page, fourteen on the Ramsar sheet. Stay for the prison camps and Hàng Dương, then the park: Đầm Trầu and the turtle islets.",
+  "intro": [
+    "You stand on the town shore of Côn Sơn with boats in the bay, casuarina along the sand, and the forested ridge behind the roofs. The prison is inland of that shore, not the view from the water.",
+    "Stay if the camps and the park are the reason you came. Go to Vũng Tàu if the mainland beach is the trip. The special zone is the whole former island district, under Ho Chi Minh City.",
+    "The park page counts 16 islands and calls Côn Sơn the largest. The Ramsar sheet for site 2203 counts 14 islands and gives Côn Sơn 5,700 ha. The park prints 83 km from the Hậu river mouth, 185 km from Vũng Tàu, and 250 km from Ho Chi Minh City. Those are distances, not flight minutes and not a sailing.",
+    "Cầu tàu 914 is the pier on the town’s main beach. Work started in 1873. The history-museum chapter says the first sketch was 107 m, and that the pier is now more than 300 m long, nearly 5 m wide, and nearly 8 m wide at the end. The same chapter says other documents use 871 or 917, and that 914 is the number people use. All three numbers stay. Evening is the night market on Võ Thị Sáu and Phạm Văn Đồng, in front of the daily market, from 17:00."
+  ],
+  "gettingAround": [
+    "Côn Đảo airport is VVCS, a domestic aerodrome 10 km northeast of thị trấn Côn Sơn, elevation 6 m. Customs and immigration on the AIP row are “Không”. The operating window is printed 2300–1100 without a timezone label. Road minutes from the terminal to town, and the flight block, are check on arrival. There is no railway on the island. A mainland station was not named. Taxi and hire car are the town transport the AIP lists. No bus network was named.",
+    "Superdong lists Sóc Trăng–Côn Đảo at 08:00 and 13:15, and the return at 08:00 and 13:00, on boats of 306 passengers at 26–28 knots. Sóc Trăng and Trần Đề are the mainland ends of that boat. Times can change with the tide and the weather. No crossing time and no fare were printed. Two island desks are listed: Lê Duẩn, opposite the treasury, in thị trấn Côn Sơn, and Trần Phú, khu 6. Two Trần Đề desks are also printed, one of them now under Thành phố Cần Thơ. A Vũng Tàu sailing time was not printed.",
+    "On the island the English park tour page prints about 3 km west from the town centre to Ông Đụng, almost an hour on the Sở Rẫy trail, and about 25 minutes back past Cầu Ma Thiên Lãnh. The history-museum chapter’s “about 3 km” is a different leg: past the national park up to that unfinished bridge. A boat to Hòn Bảy Cạnh is about 45 minutes, to Hòn Tài about 25 minutes, and almost an hour afloat before Hòn Tre Lớn. The nearly two-hour forest walk after a car or motorbike toward the airfield is not the taxi time to the beach. Kilometres from town to Bến Đầm and to Đầm Trầu were not printed."
+  ],
+  "stayAreas": [
+    {
+      "name": "Côn Sơn town",
+      "summary": "Sleep in town and walk to the camps, Hàng Dương, and the night market. If the morning swim is Đầm Trầu, the other base is near Cỏ Ống. No hotel brand is a pick.",
+      "band": "Check on arrival",
+      "photo": "con-dao"
+    }
+  ],
+  "eat": [
+    "Evening is the night market on Võ Thị Sáu and Phạm Văn Đồng, in front of the daily market, from 17:00 and busiest 19:00–22:00. Seafood is chosen and cooked to order. Hạt bàng, candied or roasted kernels, is the pack traders fill at the daily market. No stall price, no breakfast dish, and no local drink were printed."
+  ],
+  "dishSlugs": ["hat-bang"],
+  "interestsBody": [
+    "The camps and Hàng Dương are one history day in town. The park day is the forest, Đầm Trầu, and the turtle islets. Ông Đụng is the walk west of town.",
+    "Dining is the night market and the market packs. Hạt bàng is the kernel traders pack at the daily market."
+  ],
+  "interestCards": [
+    {
+      "title": "Dining and F&B",
+      "summary": "Candied hạt bàng from the daily market. The night market cooks seafood to order.",
+      "photo": "hat-bang",
+      "icon": "food",
+      "to": "food"
+    },
+    {
+      "title": "The camps",
+      "summary": "The prison system from 1862, walked as one site. The relic ticket is Check on arrival.",
+      "attractionSlug": "con-dao-prison",
+      "photo": "con-dao-camps-interest",
+      "icon": "museum"
+    },
+    {
+      "title": "Hàng Dương",
+      "summary": "The monument and the trees. The January vigil for Võ Thị Sáu is here, not in Vũng Tàu.",
+      "attractionSlug": "hang-duong",
+      "photo": "con-dao-interest-cemetery",
+      "icon": "museum"
+    },
+    {
+      "title": "The park",
+      "summary": "Forest and water. Sixteen islands on the park page, fourteen on the Ramsar sheet.",
+      "attractionSlug": "con-dao-national-park",
+      "photo": "con-dao-interest-park",
+      "icon": "view"
+    },
+    {
+      "title": "The turtle islets",
+      "summary": "Hòn Bảy Cạnh from the water. Night viewing is a booked group, not a private talk.",
+      "attractionSlug": "hon-bay-canh",
+      "photo": "con-dao-interest-islet",
+      "icon": "view"
+    }
+  ],
+  "interestGroups": [
+    {
+      "title": "Dining and F&B",
+      "summary": "The pack from the daily market, then seafood cooked to order after dark.",
+      "body": [
+        "Hạt bàng is the kernel the 11 July 2025 report shows being packed at the daily market. It is roasted with salt or candied. Peak-season supply is bought in, so not every bag is island fruit.",
+        "The night market is on Võ Thị Sáu and Phạm Văn Đồng. The same report names mắm nhum: salty, sour, and strongly fragrant, eaten with rice noodles, boiled meat, and hot rice."
+      ],
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "Candied hạt bàng. The night market is the evening plate.",
+          "photo": "hat-bang",
+          "icon": "food",
+          "to": "food",
+          "block": "market"
+        }
+      ],
+      "blocks": [
+        {
+          "id": "market",
+          "heading": "The pack and the evening yard",
+          "nav": "The market",
+          "paragraphs": [
+            "Take hạt bàng from the daily market. No stall price was printed.",
+            "After the camps, eat at the open yard in front of that market. The yard runs from 17:00 and is busiest from 19:00 to 22:00."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The camps",
+      "summary": "Walk the prison as one site, then do not treat the tiger cages as another island.",
+      "body": [
+        "The history museum says Governor Bonard signed the founding decision on 1 February 1862. It counts 127 cells, 42 isolation cells, and 504 solitary rooms called chuồng cọp. The same chapter says nearly 2,000 revolutionary fighters were held. The ministry’s 2019 article says tens of thousands were held and about 20,000 died.",
+        "In 1979 the site was ranked a national relic with 17 components. Decision 548/QĐ-TTg of 10 May 2012 ranked it a special national relic. The camps the museum names belong to this visit. A ticket desk cites 50,000 VND and a half-price 25,000 VND. The relic ticket is check on arrival. It is not the park’s scenic fee."
+      ],
+      "cards": [
+        {
+          "title": "The camps",
+          "summary": "A camp gate and the yard. The gate hour is Check on arrival.",
+          "attractionSlug": "con-dao-prison",
+          "photo": "con-dao-camps-interest",
+          "icon": "museum",
+          "block": "camps"
+        }
+      ],
+      "blocks": [
+        {
+          "id": "camps",
+          "heading": "One prison, many camps",
+          "nav": "The camps",
+          "paragraphs": [
+            "Phú Hải is the oldest large camp. Phú Tường and the French tiger cages, the lord’s house, Phú Sơn, Phú Bình, and Phú An are on the indexed route. The address is số 02 Nguyễn Huệ, khu 9.",
+            "The indexed extract lists morning 07:30–11:30 and afternoon 14:00–17:00. Confirm those hours on arrival."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hàng Dương",
+      "summary": "The cemetery after the camps. It is not the prison, and it is not the Vũng Tàu memorial.",
+      "body": [
+        "The museum chapter gives Hàng Dương about 20 ha, with restoration from 19 December 1992, in four zones. Zone A has 688 graves, 7 of them mass, and 91 named. Zone B has 695 graves, 17 mass, and 276 named, including Võ Thị Sáu. Zone C has 373 graves, 1 mass, and 332 named. Zone D has 157 graves and 14 named, gathered from Hòn Cau and Hàng Keo.",
+        "The 74th memorial was 22–23 January 2026. The vigil at the grave was 09:00 on 23 January 2026, then the rite at Đền thờ Côn Đảo. Later civil dates are check on arrival. A separate cemetery ticket was not printed."
+      ],
+      "cards": [
+        {
+          "title": "Hàng Dương",
+          "summary": "The monument and the trees. Ordinary hours are Check on arrival.",
+          "attractionSlug": "hang-duong",
+          "photo": "con-dao-interest-cemetery",
+          "icon": "museum",
+          "block": "cemetery"
+        }
+      ],
+      "blocks": [
+        {
+          "id": "cemetery",
+          "heading": "The graves under the trees",
+          "nav": "The cemetery",
+          "paragraphs": [
+            "Walk it after the camps. The four zones are the museum’s counts.",
+            "The special-zone office address, Nguyễn Văn Linh, khu 6, is the office. It is not the temple door."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The park",
+      "summary": "A park of islands and water, not one gate with a single fence.",
+      "body": [
+        "Decision 135/QĐ-TTg of 31 March 1993 founded the park on the forbidden forest of Decision 85/CT of 1 March 1984. From 1 July 2025 the park says the city runs it. The park page gives 19,883.15 ha, forest 5,883.15 and sea 14,000, plus a marine buffer of 20,500 ha. The biodiversity agency says nearly 20,000 ha, forest nearly 6,000, and sea nearly 14,000. Ramsar site 2203 is 19,991 ha, designated 18 June 2013. Sixteen islands on the park page, fourteen on the Ramsar sheet.",
+        "Núi Thánh Giá is 577 m and Núi Chúa is 515 m on the park page. The Vietnamese beach page calls Đầm Trầu’s sand yellow, fine, and flat. The English tour page says amber. The scenic fee does not include the boat or the prison ticket."
+      ],
+      "cards": [
+        {
+          "title": "The park",
+          "summary": "A forest pond and the hill. The shore is Côn Sơn, not Đầm Trầu.",
+          "attractionSlug": "con-dao-national-park",
+          "photo": "con-dao-interest-park",
+          "icon": "view",
+          "block": "park"
+        }
+      ],
+      "blocks": [
+        {
+          "id": "park",
+          "heading": "Forest, water, and the fee",
+          "nav": "The park",
+          "paragraphs": [
+            "The 2022 resolution reprint, in force 1 August 2022, sets an adult fee of 60,000 VND per person per route on routes 1–3 and 50,000 VND on routes 4–17, including Đầm Trầu, Ông Đụng, Bến Đầm, Cỏ Ống, and the Ma Thiên Lãnh walks. Students 20,000. Children and pupils 10,000. Those prices come from one reprint of the resolution. The fee excludes ecotourism services.",
+            "A 2017 service table still on the park site lists a night turtle guide from 350,000 to 600,000 VND by group size, hatchling release 50,000, a Vietnamese guide 300,000 for half a day and 600,000 for a day, and a snorkel set at 70,000 a turn. That table excludes the scenic fee."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The turtle islets",
+      "summary": "A boat to the nesting beaches, still on the park day.",
+      "body": [
+        "The English tour page puts Hòn Bảy Cạnh about 45 minutes by boat and calls its beach the largest nesting beach. A lighthouse on a 325 m hill is dated 1884 on that page only, with a range printed as 72 km. The August 2025 notice also names Bãi Dương, Hòn Cau, Hòn Tài, Hòn Tre Lớn, and Bãi Đất Thắm.",
+        "Night viewing runs 18:00–06:00, capped at 50 people at one site, in at most five groups of about 10. Hatchling release is 05:30–07:30, in turns 06:45–07:00 and 07:15–07:30, with a morning cap of 100 at one moment. Nesting months were not printed. Waste goes back to the big island. One-use plastic is forbidden. Outside guides do not give their own talk. The boat fare is check on arrival."
+      ],
+      "cards": [
+        {
+          "title": "Hòn Bảy Cạnh",
+          "summary": "The islet, the water, and a rocky shore. The long beach is not obvious from the water.",
+          "attractionSlug": "hon-bay-canh",
+          "photo": "con-dao-interest-islet",
+          "icon": "view",
+          "block": "islets"
+        }
+      ],
+      "blocks": [
+        {
+          "id": "islets",
+          "heading": "The night on the islet",
+          "nav": "The islets",
+          "paragraphs": [
+            "Book the group. The scenic fee and the 2017 guide fee are separate. The boat fare was not printed.",
+            "Lights, noise, and a private commentary are against the notice."
+          ]
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does the scenic fee include the prison ticket or the boat?",
+      "a": "No. The 2022 resolution reprint sets an adult scenic fee of 60,000 VND per person per route on routes 1–3 and 50,000 VND on routes 4–17, and says the fee does not include ecotourism services. The relic ticket and the boat fare are check on arrival."
+    }
+  ],
+  "season": {
+    "label": "Rain and the boats",
+    "note": "A 16 May 2025 night-market report said the rainy season had started and that the market has no roof. That is one May observation, not a dry-month calendar. Superdong says the printed departures can move with the tide and the weather. Turtle nights, when they run, are 18:00–06:00. Nesting months were not printed. Season window: check on arrival."
+  }
+}

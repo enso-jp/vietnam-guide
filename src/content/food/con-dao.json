@@ -1,0 +1,43 @@
+{
+  "slug": "con-dao",
+  "name": "Con Dao food guide",
+  "placeSlug": "con-dao",
+  "summary": "Hạt bàng, candied or roasted kernels packed at the daily market, is the pack to take home. Evening is the night market on Võ Thị Sáu and Phạm Văn Đồng, where seafood is cooked to order. No stall price was printed.",
+  "heroSlug": "hat-bang",
+  "body": [
+    "Buy hạt bàng when you leave. The 11 July 2025 report shows traders packing the kernels at the daily market. The fruit is roasted with salt or candied. Peak-season supply is bought in, so the bag is not always island fruit.",
+    "The same report names cua mặt trăng, cá mú đỏ, gỏi cá mập, cá mó cát and cá mó sáp, sá sùng, mắm nhum, mắm hàu, squid, and cá thu một nắng. Mắm nhum is the one the report describes: salty, sour, and strongly fragrant, eaten with rice noodles, boiled meat, and hot rice. A breakfast dish and a local drink were not named."
+  ],
+  "specialtiesLead": "Candied or roasted kernels from the daily market.",
+  "dishSlugs": ["hat-bang"],
+  "sections": [
+    {
+      "id": "market",
+      "heading": "The daily market",
+      "nav": "The market",
+      "paragraphs": [
+        "This is the hall where the report shows hạt bàng being packed. The night market sits in front of it. Daytime hours were not printed. Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Con Dao market",
+          "nameVi": "Chợ Côn Đảo",
+          "caption": "The daytime hall. The night market sits in front of this building.",
+          "note": "The daytime hall. The night market sits in front of this building.",
+          "photo": "con-dao-market"
+        }
+      ]
+    },
+    {
+      "id": "night-market",
+      "heading": "The night market",
+      "nav": "After dark",
+      "paragraphs": [
+        "The market has run since 2023 on Võ Thị Sáu and Phạm Văn Đồng, in front of the daily market, with no roof. You choose the seafood and the stall steams or grills it. The report also names grilled snacks, corn, sweet potato, bánh tráng nướng, and cơm cháy."
+      ]
+    }
+  ],
+  "verified": "22 Oct 2026",
+  "seoTitle": "Con Dao food guide — hat bang and the night market",
+  "seoDescription": "Hạt bàng is the kernel packed at the daily market. Evening seafood is cooked to order on Võ Thị Sáu and Phạm Văn Đồng. No stall price was printed."
+}
