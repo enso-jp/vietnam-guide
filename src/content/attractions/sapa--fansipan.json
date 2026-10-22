@@ -2,10 +2,69 @@
   "slug": "fansipan",
   "placeSlug": "sapa",
   "name": "Fansipan",
-  "summary": "The highest summit in Vietnam, reached by cable car in clear weather. Clouds cancel the view more often than the ride.",
+  "nameVi": "Phan Xi Păng",
+  "kicker": "Cable car to the 3,143 m summit",
+  "summary": "Ride the cable car to the summit platform, then the pagoda and the last steps. Skip it when the cloud is on the ridge: the operator says weather can close the line. The ride is printed as about 15 minutes, as 15–20 minutes, and as 30 minutes. The 2018 ticket page and the 2026 guide do not print the same adult price.",
   "dots": 3,
-  "timeNeeded": "Half a day",
-  "fee": "Cable car ticket",
-  "getThere": "Taxi from Sapa town",
-  "interests": []
+  "district": "The mountain",
+  "timeNeeded": "Check on arrival for a full visit",
+  "fee": "Check on arrival. 750,000 đồng on the 2018 page, or 850,000 đồng in the 2026 guide.",
+  "getThere": "Taxi or the Muong Hoa funicular to Hoang Lien station. Minutes from the church are Check on arrival.",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The summit platform, the stairs, and the flag above the cloud",
+  "notice": {
+    "title": "The cable ticket is not the only charge",
+    "body": "A scenic fee from 1 January 2025 is 10,000 đồng from age 16 and 5,000 đồng from over 6 to under 16. That is not the cable ticket. The funicular and the summit train are extra, and their prices are Check on arrival."
+  },
+  "body": [
+    "The summit is 3,143 m on the national pages and the operator pages. You ride the cable car from Nguyễn Chí Thanh, then walk the pagoda and the last steps, or take a separate summit train. The old walk is described as two days, or as two to three days in one search extract. The cable ride itself is about 15 minutes on Vietnam Tourism and on the 2018 operator page, 15–20 minutes in the 2026 guide, and 30 minutes in a VNAT extract whose page returned an error. Keep all three.",
+    "Do not treat one adult price as the tariff. The operator page dated 20 August 2018 still showed 750,000 đồng for an out-of-province adult and for a child over 1.4 m, 550,000 đồng from 1 m to 1.4 m, and under 1 m free. Lao Cai residents were 550,000, 350,000, and free with papers. The 2026 guide prints an out-of-province round trip at 850,000 đồng for an adult, 550,000 đồng for a child from 1 m to under 1.4 m, and under 1 m free, and it says prices change.",
+    "The clocks disagree too. Vietnam Tourism prints 7:30am–5:30pm every day. The operator homepage prints 07:30–17:00 and says hours may change. A notice of 28 September 2026, after maintenance above 3,000 m, sets Monday–Thursday departures 8:00–14:30 with last return 16:00, Friday 8:00–15:30 with last return 17:00, Saturday 7:30–15:30 with last return 17:00, and Sunday 7:30–14:30 with last return 16:00. Read the board that morning."
+  ],
+  "figures": [
+    {
+      "id": "sapa-fansipan-2",
+      "caption": "A cabin over the terraces on the way up",
+      "alt": "A yellow and black Fansipan cable-car cabin above green rice terraces"
+    }
+  ],
+  "gettingThere": [
+    "Sun World prints the address as Đường Nguyễn Chí Thanh, Sa Pa. Go by taxi or by the Muong Hoa funicular from Sun Plaza to Hoang Lien station. The funicular is about five minutes, with two tunnels and four viaducts, and it is sold separately from the cable car. Its price is Check on arrival. Minutes from the church to the station are Check on arrival. A search extract places the mountain 9 km southwest of the town. That page did not load on a direct fetch, so do not treat 9 km as a measured drive."
+  ],
+  "legs": [
+    {
+      "heading": "From the stone church",
+      "body": "Taxi or the funicular toward Hoang Lien station on Nguyễn Chí Thanh. The minutes are Check on arrival."
+    },
+    {
+      "heading": "On foot, a different trip",
+      "body": "The national park names three walking routes. Trạm Tôn is about 10.5 km, one day or two days and one night, the route it says most people use. Sín Chải is about 18 km over three days. Cát Cát is more than 12 km over three days. The park does not print a trek price in that answer. The fee is Check on arrival."
+    }
+  ],
+  "hours": "Vietnam Tourism: 7:30am–5:30pm every day. Operator homepage: 07:30–17:00, and hours may change. Notice of 28 September 2026: Monday–Thursday departures 8:00–14:30, last return 16:00; Friday 8:00–15:30, last return 17:00; Saturday 7:30–15:30, last return 17:00; Sunday 7:30–14:30, last return 16:00.",
+  "closed": "Weather may close the line. Check the operator that morning.",
+  "admissionNote": "Out-of-province adult: 750,000 đồng on the operator page dated 20 August 2018, and 850,000 đồng round trip in the 2026 guide. Child about 1 m to 1.4 m: 550,000 đồng on both of those pages. Under 1 m: free. The 2018 page also prints Lao Cai residents at 550,000 / 350,000 / free with papers. A scenic fee from 1 January 2025, decision 4640, is 10,000 đồng from age 16 and 5,000 đồng from over 6 to under 16. That is not the cable ticket. Cable length is about 6 km on Vietnam Tourism and 6,292.5 m on the operator page. Do not pick one.",
+  "links": [
+    {
+      "label": "Sun World Fansipan",
+      "url": "https://sunworld.vn/en/fansipan",
+      "note": "Operator homepage, hours 07:30–17:00"
+    },
+    {
+      "label": "2018 cable-car page",
+      "url": "https://sunworld.vn/vi/fansipan/an-choi/cap-treo",
+      "note": "Dated 20 August 2018. The 750,000 đồng adult figure was still on the page."
+    },
+    {
+      "label": "2026 experience guide",
+      "url": "https://sunworld.vn/vi/fansipan/check-in/cam-nang-trai-nghiem-sun-world-fansipan",
+      "note": "Prints 850,000 đồng for an out-of-province adult round trip"
+    },
+    {
+      "label": "28 September 2026 hours",
+      "url": "https://sunworld.vn/en/fansipan/sunworld-news/notice-fansipan-cable-car-officially-resumes-operation-from-september-28-30074",
+      "note": "Weekday departure and last-return times"
+    }
+  ],
+  "interests": ["mountains"]
 }

@@ -1,0 +1,427 @@
+{
+  "slug": "sapa",
+  "name": "Sapa food guide",
+  "placeSlug": "sapa",
+  "summary": "Sa Pa eats a cold evening: thắng cố with rượu ngô, grills by hồ Sa Pa, and salmon at Thác Bạc. Saturday is the square. Breakfast is one seasonal menu. A fine-dining tariff is Check on arrival.",
+  "body": [
+    "Eat Sa Pa as the high town, not as a second Hanoi. The stew the ethnic desk describes is thắng cố, horse in the lede and horse or buffalo in the body, drunk with rượu ngô. The cold-night plate is the grill. The salmon is at Thác Bạc, about 12 km toward Ô Quy Hồ.",
+    "The doors below are the ones a national page or the provincial listings name. Hours move, and two pages often disagree. Where they do, both figures are here. A stall price that was not printed is Check on arrival."
+  ],
+  "specialtiesLead": "These are the dishes the national pages name. The doors that cook them are in the sections under this list.",
+  "dishSlugs": [
+    "thang-co",
+    "men-men",
+    "ruou-ngo",
+    "ca-hoi-nuong",
+    "lon-ban-xien",
+    "canh-ga-nuong",
+    "bo-cuon-kim-cham",
+    "trung-nuong",
+    "hat-de",
+    "lau-ca-hoi",
+    "goi-ca-hoi",
+    "trung-ca-hoi",
+    "than-ca-hoi",
+    "ruoc-ca-hoi",
+    "ruou-tao-meo",
+    "ruou-mo",
+    "ruou-san-lung",
+    "bap-nuong",
+    "khoai-lang-nuong",
+    "lon-cap-nach",
+    "ca-suoi",
+    "banh-ngo",
+    "banh-dao",
+    "banh-day",
+    "than-bo-nuong",
+    "ca-lam-ong",
+    "mang-sat",
+    "mang-vau"
+  ],
+  "sections": [
+    {
+      "id": "specialties",
+      "heading": "Specialties",
+      "nav": "Specialties",
+      "paragraphs": [
+        "The highlights are the dishes on this list. A price for a stall is Check on arrival.",
+        "Cơm lam is named at the Silver Waterfall stalls and with the town grills. The method was not printed. Check on arrival."
+      ],
+      "dishSlugs": [
+        "thang-co",
+        "men-men",
+        "ruou-ngo",
+        "ca-hoi-nuong",
+        "lon-ban-xien",
+        "canh-ga-nuong",
+        "bo-cuon-kim-cham",
+        "trung-nuong",
+        "hat-de",
+        "lau-ca-hoi",
+        "goi-ca-hoi",
+        "trung-ca-hoi",
+        "than-ca-hoi",
+        "ruoc-ca-hoi",
+        "ruou-tao-meo",
+        "ruou-mo",
+        "ruou-san-lung",
+        "bap-nuong",
+        "khoai-lang-nuong",
+        "lon-cap-nach",
+        "ca-suoi",
+        "banh-ngo",
+        "banh-dao",
+        "banh-day",
+        "than-bo-nuong",
+        "ca-lam-ong",
+        "mang-sat",
+        "mang-vau"
+      ],
+      "spots": [
+        {
+          "name": "Thang co",
+          "nameVi": "Thắng cố",
+          "note": "Horse in the ethnic desk’s lede. Horse or buffalo, meat and offal, in the body, with thảo quả, quế, and hồi, eaten with rượu ngô. At Cát Cát on 28 February 2026. A weekday town stall is Check on arrival.",
+          "dishSlug": "thang-co"
+        },
+        {
+          "name": "Men men",
+          "nameVi": "Mèn mén",
+          "note": "Mong, made from corn. The method was not printed. Check on arrival.",
+          "dishSlug": "men-men"
+        },
+        {
+          "name": "Corn wine",
+          "nameVi": "Rượu ngô",
+          "note": "Drunk with thắng cố, and poured at the 2026 Gầu Tào stalls. Strength is Check on arrival.",
+          "dishSlug": "ruou-ngo"
+        },
+        {
+          "name": "Com lam",
+          "nameVi": "Cơm lam",
+          "note": "Named at the Silver Waterfall tree stalls and among the town grills. The method was not printed. Check on arrival."
+        },
+        {
+          "name": "Grilled salmon",
+          "nameVi": "Cá hồi nướng",
+          "note": "Town grills and the falls restaurant. The national desk says the flesh is firm, tight, rich, and sweet.",
+          "dishSlug": "ca-hoi-nuong"
+        },
+        {
+          "name": "Village pork skewers",
+          "nameVi": "Thịt lợn bản xiên",
+          "note": "A cold-night grill at hồ Sa Pa and on the road down to the market. Price is Check on arrival.",
+          "dishSlug": "lon-ban-xien"
+        },
+        {
+          "name": "Grilled chicken wings",
+          "nameVi": "Cánh gà nướng",
+          "note": "On the same grill list. A batter was not printed.",
+          "dishSlug": "canh-ga-nuong"
+        },
+        {
+          "name": "Beef rolled with enoki",
+          "nameVi": "Bò cuộn kim châm",
+          "note": "On the town grill list. A sauce was not printed.",
+          "dishSlug": "bo-cuon-kim-cham"
+        },
+        {
+          "name": "Grilled eggs",
+          "nameVi": "Trứng nướng",
+          "note": "Trứng on the town list, and trứng gà nướng at the falls stalls. One egg. Check which bird.",
+          "dishSlug": "trung-nuong"
+        },
+        {
+          "name": "Chestnuts",
+          "nameVi": "Hạt dẻ",
+          "note": "On the grill list, not described as a sweet course.",
+          "dishSlug": "hat-de"
+        },
+        {
+          "name": "Salmon hotpot",
+          "nameVi": "Lẩu cá hồi",
+          "note": "At nhà hàng thác Bạc, near the gate. The broth is Check on arrival.",
+          "dishSlug": "lau-ca-hoi"
+        },
+        {
+          "name": "Salmon salad",
+          "nameVi": "Gỏi cá hồi",
+          "note": "At the falls restaurant. Anh Dũng prints 300,000 đồng, and an average of 1,000,000 đồng. Both stay.",
+          "dishSlug": "goi-ca-hoi"
+        },
+        {
+          "name": "Salted salmon roe",
+          "nameVi": "Trứng cá hồi muối",
+          "note": "Named at the falls restaurant. A price is Check on arrival.",
+          "dishSlug": "trung-ca-hoi"
+        },
+        {
+          "name": "Salmon loin, mustard",
+          "nameVi": "Thăn cá hồi nướng sốt mù tạt",
+          "note": "Named at the falls restaurant. The heat of the sauce is Check on arrival.",
+          "dishSlug": "than-ca-hoi"
+        },
+        {
+          "name": "Salmon floss",
+          "nameVi": "Ruốc cá hồi",
+          "note": "A gift from the falls restaurant, not a plated course. Jar size is Check on arrival.",
+          "dishSlug": "ruoc-ca-hoi"
+        },
+        {
+          "name": "Son tra wine",
+          "nameVi": "Rượu táo mèo",
+          "note": "One of three drinks at the falls stalls. Also named with rượu ngô on the national Sa Pa piece.",
+          "dishSlug": "ruou-tao-meo"
+        },
+        {
+          "name": "Plum wine",
+          "nameVi": "Rượu mơ",
+          "note": "The second falls-stall drink. Strength is Check on arrival.",
+          "dishSlug": "ruou-mo"
+        },
+        {
+          "name": "San Lung wine",
+          "nameVi": "Rượu san lùng",
+          "note": "The third falls-stall drink. The fruit was not described.",
+          "dishSlug": "ruou-san-lung"
+        },
+        {
+          "name": "Grilled corn",
+          "nameVi": "Bắp nướng",
+          "note": "At the falls tree stalls, with cơm lam, eggs, and sweet potato.",
+          "dishSlug": "bap-nuong"
+        },
+        {
+          "name": "Grilled sweet potato",
+          "nameVi": "Khoai lang nướng",
+          "note": "On the same stall list. A price is Check on arrival.",
+          "dishSlug": "khoai-lang-nuong"
+        },
+        {
+          "name": "Cap nach pork",
+          "nameVi": "Lợn cắp nách",
+          "note": "Cooked many ways. The national page does not list the ways. Three listings name the pork.",
+          "dishSlug": "lon-cap-nach"
+        },
+        {
+          "name": "Crisp stream fish",
+          "nameVi": "Cá suối rán giòn",
+          "note": "On the national list. Anh Dũng also names cá suối. A price is Check on arrival.",
+          "dishSlug": "ca-suoi"
+        },
+        {
+          "name": "Corn cake",
+          "nameVi": "Bánh ngô",
+          "note": "Named with bánh đao and bánh dầy. The method is Check on arrival.",
+          "dishSlug": "banh-ngo"
+        },
+        {
+          "name": "Banh dao",
+          "nameVi": "Bánh đao",
+          "note": "Named on the national list. A stall is Check on arrival.",
+          "dishSlug": "banh-dao"
+        },
+        {
+          "name": "Banh day",
+          "nameVi": "Bánh dầy",
+          "note": "The third cake on that list. A filling was not printed.",
+          "dishSlug": "banh-day"
+        },
+        {
+          "name": "Grilled beef loin",
+          "nameVi": "Thăn bò nướng",
+          "note": "With nấm or cải tai mèo. The page says soft, sweet, and hot from the greens.",
+          "dishSlug": "than-bo-nuong"
+        },
+        {
+          "name": "Fish in bamboo",
+          "nameVi": "Cá lam ống",
+          "note": "A Xá Phó household plate at thôn Nậm Sang, about 30 km south. Not a restaurant name.",
+          "dishSlug": "ca-lam-ong"
+        },
+        {
+          "name": "Bamboo shoot with meat",
+          "nameVi": "Măng sặt xào thịt",
+          "note": "The same household meal. The cut of meat is Check on arrival.",
+          "dishSlug": "mang-sat"
+        },
+        {
+          "name": "Bamboo shoot with garlic",
+          "nameVi": "Măng vầu xào tỏi",
+          "note": "The same meal. A price is Check on arrival.",
+          "dishSlug": "mang-vau"
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "heading": "International dining",
+      "role": "international",
+      "nav": "International",
+      "paragraphs": [
+        "Three listings carry European food as a tag or a sentence. The plates those pages actually print are in the notes. A European dish that is not on those lines is Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Indigo",
+          "nameVi": "Nhà hàng Indigo",
+          "address": "023 Đổng Lợi, phường Sa Pa",
+          "note": "09:00–23:59. Average 150,000–300,000 đồng. Tags include Vietnamese, vegetarian, Asian, European, hotpot and grill, and dê Cốc Ly. The page says the view is up to Fansipan and down to the Mường Hòa terraces. Printed menu lines: ngựa hầm hạt dẻ, gỏi cá hồi, lợn bản quay, gà hầm thuốc bắc, lẩu cá tầm. Which dish is the European one is Check on arrival."
+        },
+        {
+          "name": "The Hill Station Signature",
+          "nameVi": "The Hill Station Signature",
+          "address": "037 Fansipan, phường Sa Pa",
+          "note": "08:00–22:00. Average 50,000–300,000 đồng. Tags: Asian, European, and street food. Printed menu lines: chả giò Tây Bắc, canh rau đắng, gà nướng tiêu đen, cá nướng. The introduction, quoting Mia.vn, says gà rừng nướng is the specialty. That sentence and the menu line both stay. The average starts at 50,000 đồng, and the tags include street food."
+        },
+        {
+          "name": "Sapa New",
+          "nameVi": "Sapa New",
+          "address": "023 Fansipan, Sa Pa",
+          "note": "The 20 July 2024 provincial page says the room serves vegetarian dishes and European and Vietnamese food, and that it is busy through the day. No plate is named. Hours and a price are Check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "casual",
+      "heading": "Casual dining",
+      "role": "casual",
+      "nav": "Casual",
+      "paragraphs": [
+        "The lake and the road down to the market are the cold-night grills. The falls have the tree stalls, the trout farm, and the restaurant at the gate. The other doors are provincial listings. None of this is a ranked list."
+      ],
+      "spots": [
+        {
+          "name": "Ho Sa Pa grills",
+          "nameVi": "Hồ Sa Pa",
+          "address": "Hồ Sa Pa",
+          "note": "Cold evenings. The national desk names cá hồi nướng, thịt lợn bản xiên, cánh gà, bò cuộn kim châm, trứng, hạt dẻ, and cơm lam, and then thăn bò with nấm or cải tai mèo. The hour is Check on arrival. No stall price was printed."
+        },
+        {
+          "name": "Road down to the market",
+          "nameVi": "Đường xuống chợ",
+          "address": "The road down to the market",
+          "note": "The same grill cluster as the lake, in the same national piece. A house number and an hour are Check on arrival."
+        },
+        {
+          "name": "Saturday market",
+          "nameVi": "Chợ Sa Pa",
+          "address": "Town market and the square in front of the stone church",
+          "note": "Saturday evening, Hmong and Dao, goods and a gathering. The pages do not print a clock, and they do not name the dishes at the ordinary market. Check on arrival."
+        },
+        {
+          "name": "New market food floor",
+          "nameVi": "Khu ẩm thực chợ Sa Pa",
+          "address": "1st floor, new Sa Pa market",
+          "note": "The 20 July 2024 provincial page names noodles, phở, and rice at affordable prices. It does not name the bowl or the hour. Check on arrival. This is not the Saturday-evening description."
+        },
+        {
+          "name": "Silver Waterfall stalls",
+          "nameVi": "Quán dưới tán cây, thác Bạc",
+          "address": "Silver Waterfall, about 12 km from town, under Ô Quy Hồ",
+          "note": "Cơm lam, bắp nướng, trứng gà nướng, khoai lang nướng, rượu mơ, rượu táo mèo, and rượu san lùng. Gate on that page: adult 20,000 đồng, child 10,000 đồng, with no year. Hours are Check on arrival."
+        },
+        {
+          "name": "Thac Bac restaurant",
+          "nameVi": "Nhà hàng thác Bạc Sa Pa",
+          "address": "Near the Silver Waterfall gate",
+          "note": "The falls page names lẩu cá hồi, gỏi cá hồi, cá hồi nướng, trứng cá hồi muối, thăn cá hồi nướng sốt mù tạt, and ruốc cá hồi to carry. Hours and prices are Check on arrival."
+        },
+        {
+          "name": "Thac Bac trout farm",
+          "nameVi": "Trại cá hồi thác Bạc",
+          "address": "Right from the foot of the fall, a short walk. A festival page also says tổ 14, Ô Quý Hồ, near the falls.",
+          "note": "The falls page sends you here to see the fish. The festival page names ruốc cá hồi and cá hồi vân smoked cold and hot at the cold-water yard. Both location lines stay. Hours are Check on arrival."
+        },
+        {
+          "name": "Ca Hoi Vua",
+          "nameVi": "Nhà hàng Cá Hồi Vua",
+          "address": "015A Lê Văn Tám, phường Sa Pa",
+          "note": "09:00–23:59. Average 50,000–650,000 đồng. Tags: Vietnamese, seafood, Asian, hotpot and grill. Printed menu: lẩu cá hồi, gà nướng, gỏi cá hồi, ngựa nướng, cá hồi nướng, lẩu cá tầm. The introduction also names cá tầm, vịt trời, lợn cắp nách, and gà đồi."
+        },
+        {
+          "name": "Anh Dung",
+          "nameVi": "Nhà hàng Anh Dũng",
+          "address": "06 Xuân Viên, phường Sa Pa",
+          "note": "09:00–22:59. The page calls it bình dân. The introduction says the menu does not print a per-dish price. The same listing prints gỏi cá hồi 300,000, cá hồi sốt phô mai 350,000, lợn mẹt đủ món 1,000,000, gà nướng than hoa 350,000, lẩu cá tầm 600,000, and an average of 1,000,000 đồng. Both the sentence and the prices stay. Also named: thắng cố ngựa, lợn cắp nách, cá suối, rau, and nấm Sa Pa."
+        },
+        {
+          "name": "Quy Bep",
+          "nameVi": "Nhà hàng Quý Bếp",
+          "address": "009 Lương Định Của, phường Sa Pa",
+          "note": "08:00–23:59. Average 50,000–600,000 đồng. The introduction offers a mẹt lợn of six dishes and does not name the six. Printed menu lines: lợn bản hấp, lẩu gà đen. Tags include dê Cốc Ly."
+        },
+        {
+          "name": "Gia Bao",
+          "nameVi": "Nhà hàng Gia Bảo",
+          "address": "1 Võ Thị Sáu, phường Sa Pa",
+          "note": "10:00–22:00. Average 50,000–1,000,000 đồng. Tags: Asian, hotpot and grill, local, streets. Menu labels, not extra dishes: Bò Ta, Lẩu 1, Bò nhập khẩu, món ăn kèm, hải sản, lẩu cá hồi and cá tầm."
+        },
+        {
+          "name": "H'Mong",
+          "nameVi": "Nhà hàng H'Mông",
+          "address": "312 Điện Biên Phủ, near the market and the gas station",
+          "note": "The 20 July 2024 provincial page names the door and does not name a dish, an hour, or a price. Check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "fine",
+      "heading": "Fine dining",
+      "role": "fine",
+      "nav": "Fine dining",
+      "paragraphs": [
+        "A fine-dining door, and a tariff for it, are Check on arrival. The rooms in the other sections are hotpot, grill, buffet, a household meal, or a listing whose average is blank or starts at a street-food figure. None of those pages calls itself a fine-dining room."
+      ]
+    },
+    {
+      "id": "themed",
+      "heading": "Themed dining",
+      "role": "themed",
+      "nav": "Themed",
+      "paragraphs": [
+        "Vân Sam is the Northwest buffet at the cable station. Nậm Sang is a meal in a house, not a restaurant sign. Đỗ Quyên is one listing with two locations."
+      ],
+      "spots": [
+        {
+          "name": "Van Sam",
+          "nameVi": "Nhà hàng Vân Sam",
+          "address": "Floor 2, Hoàng Liên cable station, Sun World Fansipan Legend. An older page also says floor M. Nguyễn Chí Thanh.",
+          "note": "Buffet. The restaurant page says more than 50 dishes, names thịt nướng, trứng hấp, rau củ, and bánh, and prints Friday–Sunday 10:30–15:00, about 1,200 seats, price đang cập nhật. Another operator page says more than 60 dishes, including bánh chưng đen, vịt Tả Van quay, and thắng cố ngựa. A third page prints 170,000 đồng for an adult and 135,000 đồng for a child, with one drink, and the same Friday–Sunday 10:30–15:00. A post-Tết notice prints 11:00–15:00 for Vân Sam and Nhà hàng Hoa Hồng. A 2018 page prints 07:30–17:00 daily. All of those stay. Check the board when you ride."
+        },
+        {
+          "name": "Nam Sang household meal",
+          "nameVi": "Cơm nhà Xá Phó, thôn Nậm Sang",
+          "address": "Thôn Nậm Sang, xã Nậm Sài, about 30 km south of town. The hamlet is about 2.5 km from the commune center.",
+          "note": "Any Xá Phó house, not a booked restaurant. The national page names cá lam ống, măng sặt xào thịt, măng vầu xào tỏi, and dishes from lợn đen without naming those pork plates. A price is Check on arrival."
+        },
+        {
+          "name": "Do Quyen",
+          "nameVi": "Nhà hàng Đỗ Quyên",
+          "address": "214 Thạch Sơn, and, in the same introduction, Fansipan at 3,143 m",
+          "note": "09:00–22:59. Cuisines on the listing: Asian and local. The average price is blank. Both the street and the summit line stay. Check which door is open. A dish list was not printed."
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "heading": "Breakfast",
+      "role": "breakfast",
+      "nav": "Breakfast",
+      "paragraphs": [
+        "One provincial page names a breakfast service. It does not name the plate."
+      ],
+      "spots": [
+        {
+          "name": "Ga 306",
+          "nameVi": "Gà 306",
+          "address": "306 Điện Biên Phủ, near the market",
+          "note": "The 20 July 2024 page says the menu covers breakfast, lunch, and dinner, and that it changes with the season. No dish is named. The plate, the hour, and the price are Check on arrival."
+        }
+      ]
+    }
+  ],
+  "verified": "22 Oct 2026",
+  "seoTitle": "Sapa food guide — thang co, grills, and salmon",
+  "seoDescription": "Thắng cố with corn wine, cold-night grills by hồ Sa Pa, and salmon at Thác Bạc. Saturday is the square. A fine-dining tariff is Check on arrival."
+}

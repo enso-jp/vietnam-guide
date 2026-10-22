@@ -3,10 +3,10 @@
   "name": "Hanoi to Sapa",
   "from": "Hanoi",
   "to": "Sapa",
-  "summary": "Sapa is an overnight train to Lao Cai plus a climb, or a direct sleeper bus. Either way, do not expect to arrive and hike the same morning.",
+  "summary": "Sapa is a night train to Lao Cai, then the climb, or a bus into town. The bus is 5–6 hours on one page and 5–7 hours on another. Minutes on the road up from Lao Cai are Check on arrival.",
   "modes": [
-    { "mode": "Overnight train", "duration": "About 8 hours to Lao Cai, then 45–60 minutes by road", "note": "A berth costs more than a seat and is the point. The train ends at Lao Cai.", "partner": "train" },
-    { "mode": "Limousine bus", "duration": "5–7 hours", "note": "Direct to Sapa town, including the mountain road. Day or night.", "partner": "bus", "partnerPath": "hanoi/sapa" }
+    { "mode": "Overnight train", "duration": "Night trains to Lao Cai. The climb is Check on arrival.", "note": "From 10 October 2026 the night trains are SP15 21:45–05:20, SP3 22:00–05:50, and SP7 22:40–06:27. A 2015 board still prints SP1 21:40–05:30 and SP3 22:00–06:10. That is not this board. Fares are Check on arrival. The train ends at Ga Lào Cai.", "partner": "train" },
+    { "mode": "Bus", "duration": "5–6 hours, or 5–7 hours", "note": "Vietnam Tourism prints 5–6 hours into the center. The Hoang Lien center page prints 5–7 hours. Both stay.", "partner": "bus", "partnerPath": "hanoi/sapa" }
   ],
   "seoTitle": "Hanoi to Sapa — train, bus, and the Lao Cai transfer",
   "seoDescription": "Overnight train versus limousine bus from Hanoi to Sapa, and where each one actually stops.",

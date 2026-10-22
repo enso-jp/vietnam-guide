@@ -1,0 +1,56 @@
+{
+  "slug": "stone-church",
+  "placeSlug": "sapa",
+  "name": "Stone church",
+  "nameVi": "Nhà thờ đá Sa Pa",
+  "kicker": "Stone church on the town square",
+  "summary": "The stone church is the pin in the center of town, with the square in front and Ham Rong behind it. Lao Cai Tourism prints a free visit of about 60 minutes. That page’s clock is not usable, so check the door. One national page says 1895. Lao Cai Tourism says the early 20th century.",
+  "dots": 4,
+  "district": "Town center",
+  "timeNeeded": "About 60 minutes",
+  "fee": "Free",
+  "getThere": "The town center. This is the pin.",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The stone church and the square in the morning fog",
+  "notice": {
+    "title": "The printed clock is not a plan",
+    "body": "Lao Cai Tourism prints the hours as 12:00 SA–7:00 SA. That reads as a broken field. Check the door when you arrive."
+  },
+  "body": [
+    "You come for the stone front, the tower, and the cross, and for the open square in front of them. The national page puts the church on a plot of about 6,000 m², Roman Gothic, with a bell tower of 20 m. It names a 1932 bell of about 1.5 m and 500 kg. The same page says the church was built in 1895. Lao Cai Tourism says the early 20th century and also prints the name Đức Mẹ Mân Côi. Both dates stay.",
+    "The square is where people meet. On Saturday evening it is the gathering the church page and the market page both describe: trading, singing, and talking, not a ticketed show. Neither page prints a clock. Christmas is named without a civil date. The church is lit, and the page says most parishioners gather to pray and sing.",
+    "Lao Cai Tourism prints the visit as free, and CafeBiz’s 2023 table also prints free. Allow about 60 minutes, which is the one duration that page prints. A second duration was not on another page. Ham Rong, the garden hill, is the walk behind the church. Its fees do not agree, so they are not folded into this visit."
+  ],
+  "figures": [
+    {
+      "id": "sapa-stone-church-2",
+      "caption": "The stone tower and the cross",
+      "alt": "The stone tower and cross of the Sa Pa church against a pale sky"
+    }
+  ],
+  "gettingThere": [
+    "The church is the center of town, inside phường Sa Pa after 1 July 2025. You are already there if you slept in the hub. Ham Rong is the park beside it. A commercial page says the walk is about 400–700 m. That is one commercial distance. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From a town hotel",
+      "body": "Walk. The church and the square are the center."
+    }
+  ],
+  "hours": "Check on arrival. Lao Cai Tourism prints 12:00 SA–7:00 SA, which is not a usable clock.",
+  "closed": "No weekly closing day is printed. Check the door.",
+  "admissionNote": "Free on the Lao Cai Tourism page, and free on CafeBiz’s 2023 table. The visit length on the Lao Cai page is 60 minutes. That is one source. Saturday evening in the square has no ticket on the national pages.",
+  "links": [
+    {
+      "label": "Lao Cai Tourism",
+      "url": "https://laocaitourism.vn/vi/nhathodasapa",
+      "note": "Prints the visit as free and about 60 minutes"
+    },
+    {
+      "label": "Vietnam National Authority of Tourism",
+      "url": "https://vietnamtourism.vn/index.php/tourism/items/2956/",
+      "note": "The church, the square, and the Saturday gathering"
+    }
+  ],
+  "interests": ["photography"]
+}
