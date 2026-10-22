@@ -61,9 +61,9 @@
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:51:36.435Z",
+      "status": "enriched",
+      "note": "Place prose and the Holy See hero checked against the dossier. Both distance sets, both cable clocks, both Chi Ton days, both bath hours, both lake capacities, and the printed 27 km stay. Unsourced fees and hours are Check on arrival. Questions are in research/tay-ninh/questions.md.",
+      "updated": "2026-10-22T07:24:24.320Z",
       "reworkCount": 0
     },
     "destinationQuality": {
@@ -528,13 +528,21 @@
   "questions": [],
   "claim": {
     "place": "tay-ninh",
-    "stage": "destinationCopy",
+    "stage": "destinationQuality",
     "item": null,
-    "at": "2026-10-22T07:21:07.321Z",
+    "at": "2026-10-22T07:24:24.354Z",
     "by": "tay-ninh-page",
     "branch": "cursor/tay-ninh-destination-0ab9"
   },
   "log": [
+    {
+      "at": "2026-10-22T07:24:24.321Z",
+      "place": "tay-ninh",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Place prose and the Holy See hero checked against the dossier. Both distance sets, both cable clocks, both Chi Ton days, both bath hours, both lake capacities, and the printed 27 km stay. Unsourced fees and hours are Check on arrival. Questions are in research/tay-ninh/questions.md."
+    },
     {
       "at": "2026-10-22T07:21:07.285Z",
       "place": "tay-ninh",
