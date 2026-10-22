@@ -782,7 +782,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "ben-tre",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-22T04:32:32.258Z",
+    "by": "hourly",
+    "branch": "cursor/ben-tre-destination-d260"
+  },
   "log": [
     {
       "at": "2026-10-22T04:20:41.883Z",
