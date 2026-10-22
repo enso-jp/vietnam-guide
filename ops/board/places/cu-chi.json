@@ -19,39 +19,39 @@
   },
   "stages": {
     "destination": {
-      "status": "shell",
-      "note": "A place file exists. It has not been set up from a stored dossier.",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, one day itinerary, and the two-gate interest group. Hero is a tunnel entrance. Lat and lng unset. No food chip. Bến Dược and Bến Đình stay separate. Trăng chiến khu has no festival file.",
+      "updated": "2026-10-22T17:34:25.196Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T17:07:51.925Z",
+      "status": "enriched",
+      "note": "Hero is the tunnel entrance under the tree, Balon Greyjoy, CC0. The Phước Thạnh stall is gone. Prose names both gates and both ticket lines. Season chip is the 17:00 gate, not a weather line.",
+      "updated": "2026-10-22T17:35:41.538Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T17:07:51.925Z",
+      "status": "checked",
+      "note": "Hero is a tunnel entrance in the ground. Both gates, both ticket lines, and both distances stay. No pin. No food chip. Season chip is the 17:00 gate.",
+      "updated": "2026-10-22T17:36:20.772Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Seven sourced entries: five foods plus the rice-paper lanes and Chợ Quê. No licensed dish or room photo, so no card, no food chip, no interests.food, and no foodSlug. Gap against 40 is named. Not padded.",
+      "updated": "2026-10-22T17:38:44.553Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T17:07:51.925Z",
+      "status": "enriched",
+      "note": "Seven text entries. No dish photo, so no card and no food chip. Kiln counts that disagree both stay. Restaurant names that were only clues stay off.",
+      "updated": "2026-10-22T17:39:13.317Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T17:07:51.925Z",
+      "status": "checked",
+      "note": "Seven sourced lines, no licensed dish or room photo, no card. Gap is the short list, not a missing page. Restaurant clues stay off.",
+      "updated": "2026-10-22T17:39:26.140Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -101,11 +101,11 @@
       "file": "src/content/attractions/cu-chi--tunnels.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Published shell. Bến Dược and Bến Đình stay separate. Do not print one fee, one address, or one kilometre. The hero stall in Phước Thạnh fails.",
-      "updated": "2026-10-22T17:07:51.925Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Entrance and round mouth are the tunnel. Fees, hours, and the two gates match the dossier. Dots unchanged. No pin.",
+      "updated": "2026-10-22T17:42:03.661Z",
       "reworkCount": 0
     },
     {
@@ -369,6 +369,78 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-22T17:42:03.662Z",
+      "place": "cu-chi",
+      "stage": "quality",
+      "item": "cu-chi--tunnels",
+      "status": "checked",
+      "note": "Entrance and round mouth are the tunnel. Fees, hours, and the two gates match the dossier. Dots unchanged. No pin."
+    },
+    {
+      "at": "2026-10-22T17:41:43.161Z",
+      "place": "cu-chi",
+      "stage": "copy",
+      "item": "cu-chi--tunnels",
+      "status": "enriched",
+      "note": "Hero is the lid in the leaves, dronepicr. Second frame is a round mouth in the earth, shankar s. Both gates and both ticket lines stay in the prose."
+    },
+    {
+      "at": "2026-10-22T17:41:09.505Z",
+      "place": "cu-chi",
+      "stage": "page",
+      "item": "cu-chi--tunnels",
+      "status": "paged",
+      "note": "Tunnel crawl page keeps Bến Dược and Bến Đình apart. Both ticket lines and both distances stay. Hero is the lid entrance. Second frame is a round mouth in the earth."
+    },
+    {
+      "at": "2026-10-22T17:39:26.140Z",
+      "place": "cu-chi",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Seven sourced lines, no licensed dish or room photo, no card. Gap is the short list, not a missing page. Restaurant clues stay off."
+    },
+    {
+      "at": "2026-10-22T17:39:13.318Z",
+      "place": "cu-chi",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Seven text entries. No dish photo, so no card and no food chip. Kiln counts that disagree both stay. Restaurant names that were only clues stay off."
+    },
+    {
+      "at": "2026-10-22T17:38:44.553Z",
+      "place": "cu-chi",
+      "stage": "food",
+      "item": null,
+      "status": "paged",
+      "note": "Seven sourced entries: five foods plus the rice-paper lanes and Chợ Quê. No licensed dish or room photo, so no card, no food chip, no interests.food, and no foodSlug. Gap against 40 is named. Not padded."
+    },
+    {
+      "at": "2026-10-22T17:36:20.773Z",
+      "place": "cu-chi",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Hero is a tunnel entrance in the ground. Both gates, both ticket lines, and both distances stay. No pin. No food chip. Season chip is the 17:00 gate."
+    },
+    {
+      "at": "2026-10-22T17:35:41.538Z",
+      "place": "cu-chi",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Hero is the tunnel entrance under the tree, Balon Greyjoy, CC0. The Phước Thạnh stall is gone. Prose names both gates and both ticket lines. Season chip is the 17:00 gate, not a weather line."
+    },
+    {
+      "at": "2026-10-22T17:34:25.196Z",
+      "place": "cu-chi",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place shell, one day itinerary, and the two-gate interest group. Hero is a tunnel entrance. Lat and lng unset. No food chip. Bến Dược and Bến Đình stay separate. Trăng chiến khu has no festival file."
+    },
+    {
       "at": "2026-10-22T17:07:51.925Z",
       "place": "cu-chi",
       "stage": "researchContext",
@@ -455,14 +527,6 @@
       "item": null,
       "status": "needs_depth",
       "note": "Bến Dược and Bến Đình are separate. Length, depth, and ticket lines that disagree both stay. Areas are the seven communes. A later pass still has to store the lane."
-    },
-    {
-      "at": "2026-10-22T17:05:56.730Z",
-      "place": "cu-chi",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and the two roads are in. The 1 hour and the 70 km both stay. No city pin. A later pass still has to store the lane."
     }
   ]
 }
