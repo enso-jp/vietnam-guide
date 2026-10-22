@@ -55,39 +55,39 @@
       "reworkCount": 0
     },
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, six interest groups, and can-gio-day. No sight cards and no food guide: every dossier photo line is unpublished. Nearby are ho-chi-minh-city and vung-tau. Check on arrival: ferry clock, car ferry fare, bus fare, hydrofoil, airport minutes, beach ticket, temple hours and fee, Thanh An boat, stall prices, breakfast.",
+      "updated": "2026-10-22T04:31:27.792Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:15:03.022Z",
+      "status": "enriched",
+      "note": "Vam Sat’s 120 minutes is the wooden-boat cap. Hang Duong’s 40 minutes is the 2019 cook-to-order wait. The gate and the evening still have no printed visit length.",
+      "updated": "2026-10-22T04:34:42.118Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:15:03.022Z",
-      "reworkCount": 0
+      "status": "checked",
+      "note": "Read the dossier against the place and the itinerary. Both road times, both bridge lengths, both gate fees, and both festival clocks are on the page. Stop minutes now name the boat cap and the 30–40 minute wait’s top figure. No licensed photo, so no crop or credit to check. Sight cards and the food guide stay off.",
+      "updated": "2026-10-22T04:35:17.012Z",
+      "reworkCount": 1
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "skipped",
+      "note": "No licensed photograph of a plate. Food guide, Food chip, interests.food, and foodSlug omitted.",
+      "updated": "2026-10-22T04:35:39.386Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:15:03.022Z",
+      "status": "skipped",
+      "note": "No food guide to rewrite. No licensed plate photo.",
+      "updated": "2026-10-22T04:35:39.448Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:15:03.022Z",
+      "status": "skipped",
+      "note": "No food guide or dish page to read. No licensed plate photo.",
+      "updated": "2026-10-22T04:35:39.507Z",
       "reworkCount": 0
     }
   },
@@ -133,11 +133,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Operator tariff and Visit HCMC canoe bands both stay. No licensed photo yet.",
-      "updated": "2026-10-22T04:15:03.022Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No public attraction file to read. Quality skipped with the missing photo.",
+      "updated": "2026-10-22T04:35:39.681Z",
       "reworkCount": 0
     },
     {
@@ -149,11 +149,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Adult 35000 on the 2020 resolution and on Visit HCMC. 2026 force of the resolution was not shown. No licensed photo yet.",
-      "updated": "2026-10-22T04:15:03.022Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No public attraction file to read. Quality skipped with the missing photo.",
+      "updated": "2026-10-22T04:35:39.853Z",
       "reworkCount": 0
     },
     {
@@ -181,11 +181,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Town beach. No ticket opened. No licensed photo yet.",
-      "updated": "2026-10-22T04:15:03.022Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No public attraction file to read. Quality skipped with the missing photo.",
+      "updated": "2026-10-22T04:35:40.024Z",
       "reworkCount": 0
     },
     {
@@ -197,11 +197,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Temple. Festival clocks stay in the event. No licensed photo yet.",
-      "updated": "2026-10-22T04:15:03.022Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No public attraction file to read. Quality skipped with the missing photo.",
+      "updated": "2026-10-22T04:35:40.193Z",
       "reworkCount": 0
     },
     {
@@ -529,100 +529,164 @@
   "claim": null,
   "log": [
     {
-      "at": "2026-10-22T04:15:03.022Z",
+      "at": "2026-10-22T04:35:40.193Z",
       "place": "can-gio",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "left out the next solar date, a choice between 9:00 and 10:00, a Vung Tau sailing, and a Thanh An boat."
+      "stage": "quality",
+      "item": "can-gio--lang-ong",
+      "status": "skipped",
+      "note": "No public attraction file to read. Quality skipped with the missing photo."
     },
     {
-      "at": "2026-10-22T04:14:46.519Z",
+      "at": "2026-10-22T04:35:40.135Z",
       "place": "can-gio",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "left out a named breakfast and the hour the town goes quiet."
+      "stage": "copy",
+      "item": "can-gio--lang-ong",
+      "status": "skipped",
+      "note": "No public attraction file. Copy skipped with the missing photo."
     },
     {
-      "at": "2026-10-22T04:14:46.353Z",
+      "at": "2026-10-22T04:35:40.080Z",
       "place": "can-gio",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "left out a bar street, drink prices, and a town closing hour past the 2019 stall."
+      "stage": "page",
+      "item": "can-gio--lang-ong",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. Sight card skipped."
     },
     {
-      "at": "2026-10-22T04:14:46.228Z",
+      "at": "2026-10-22T04:35:40.024Z",
       "place": "can-gio",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "left out stall prices, a breakfast dish, a sweet, a local drink, and a closing hour for Duyen Hai."
+      "stage": "quality",
+      "item": "can-gio--can-gio-beach",
+      "status": "skipped",
+      "note": "No public attraction file to read. Quality skipped with the missing photo."
     },
     {
-      "at": "2026-10-22T04:14:45.766Z",
+      "at": "2026-10-22T04:35:39.970Z",
       "place": "can-gio",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "left out a single hectare, a single monkey count, a single bird count, the relic resolution's 2026 force, a second publisher for the 600000 canoe, and a beach ticket."
+      "stage": "copy",
+      "item": "can-gio--can-gio-beach",
+      "status": "skipped",
+      "note": "No public attraction file. Copy skipped with the missing photo."
     },
     {
-      "at": "2026-10-22T04:14:45.320Z",
+      "at": "2026-10-22T04:35:39.910Z",
       "place": "can-gio",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "left out a 2026 ferry clock, an airport name, a rail station in use, a paying bus fare, a car ferry fare after 18 Mar 2026, and any single road duration. The 1 hour 30 minutes and the about 2 hours both stay. Bridge lengths 6.3 km, 7.3 km, and about 7 km stay."
+      "stage": "page",
+      "item": "can-gio--can-gio-beach",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. Sight card skipped."
     },
     {
-      "at": "2026-10-22T04:14:27.887Z",
+      "at": "2026-10-22T04:35:39.853Z",
       "place": "can-gio",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The festival and two side trips are in. Still open: the next solar date, a choice between 9:00 and 10:00, and a Vung Tau sailing."
+      "stage": "quality",
+      "item": "can-gio--rung-sac-base",
+      "status": "skipped",
+      "note": "No public attraction file to read. Quality skipped with the missing photo."
     },
     {
-      "at": "2026-10-22T04:14:27.685Z",
+      "at": "2026-10-22T04:35:39.797Z",
       "place": "can-gio",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The ordinary day and the salt morning are in. Still open: a named breakfast and the hour the town goes quiet."
+      "stage": "copy",
+      "item": "can-gio--rung-sac-base",
+      "status": "skipped",
+      "note": "No public attraction file. Copy skipped with the missing photo."
     },
     {
-      "at": "2026-10-22T04:14:27.536Z",
+      "at": "2026-10-22T04:35:39.739Z",
       "place": "can-gio",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The evening is Hang Duong and the sand. Still open: a bar street, drink prices, and a town closing hour."
+      "stage": "page",
+      "item": "can-gio--rung-sac-base",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. Sight card skipped."
     },
     {
-      "at": "2026-10-22T04:14:27.419Z",
+      "at": "2026-10-22T04:35:39.681Z",
       "place": "can-gio",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Dishes and two food streets are in. Still open: stall prices, a breakfast, a sweet, a drink, and a closing hour for Duyen Hai."
+      "stage": "quality",
+      "item": "can-gio--vam-sat",
+      "status": "skipped",
+      "note": "No public attraction file to read. Quality skipped with the missing photo."
     },
     {
-      "at": "2026-10-22T04:14:26.998Z",
+      "at": "2026-10-22T04:35:39.623Z",
       "place": "can-gio",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Sights and areas are listed. Still open: no single hectare, monkey count, or bird count, and the relic resolution's 2026 force was not shown."
+      "stage": "copy",
+      "item": "can-gio--vam-sat",
+      "status": "skipped",
+      "note": "No public attraction file. Copy skipped with the missing photo."
     },
     {
-      "at": "2026-10-22T04:14:26.558Z",
+      "at": "2026-10-22T04:35:39.566Z",
       "place": "can-gio",
-      "stage": "researchBase",
+      "stage": "page",
+      "item": "can-gio--vam-sat",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. Sight card skipped."
+    },
+    {
+      "at": "2026-10-22T04:35:39.507Z",
+      "place": "can-gio",
+      "stage": "foodQuality",
       "item": null,
-      "status": "needs_depth",
-      "note": "Scene and the ferry are in. Still open: a 2026 ferry clock, an airport name, a paying bus fare, and the road durations that disagree."
+      "status": "skipped",
+      "note": "No food guide or dish page to read. No licensed plate photo."
+    },
+    {
+      "at": "2026-10-22T04:35:39.448Z",
+      "place": "can-gio",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "skipped",
+      "note": "No food guide to rewrite. No licensed plate photo."
+    },
+    {
+      "at": "2026-10-22T04:35:39.386Z",
+      "place": "can-gio",
+      "stage": "food",
+      "item": null,
+      "status": "skipped",
+      "note": "No licensed photograph of a plate. Food guide, Food chip, interests.food, and foodSlug omitted."
+    },
+    {
+      "at": "2026-10-22T04:35:17.012Z",
+      "place": "can-gio",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Read the dossier against the place and the itinerary. Both road times, both bridge lengths, both gate fees, and both festival clocks are on the page. Stop minutes now name the boat cap and the 30–40 minute wait’s top figure. No licensed photo, so no crop or credit to check. Sight cards and the food guide stay off."
+    },
+    {
+      "at": "2026-10-22T04:34:42.118Z",
+      "place": "can-gio",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Vam Sat’s 120 minutes is the wooden-boat cap. Hang Duong’s 40 minutes is the 2019 cook-to-order wait. The gate and the evening still have no printed visit length."
+    },
+    {
+      "at": "2026-10-22T04:34:06.106Z",
+      "place": "can-gio",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "rework",
+      "note": "Stop rows print 120 min at Vam Sat and 90 min at Hang Duong. The dossier has a half day and a 2-hour boat cap, and no timed market visit. The notes mention the gap, but the row still shows those minutes as the visit."
+    },
+    {
+      "at": "2026-10-22T04:33:18.287Z",
+      "place": "can-gio",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Lede and intro are split. Room rates name weekday and weekend day and night. Green lung is the biodiversity agency; 21 Jan 2000 is the board. Both bridge investments stay. No licensed photo to crop. No new questions."
+    },
+    {
+      "at": "2026-10-22T04:31:27.793Z",
+      "place": "can-gio",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place shell, six interest groups, and can-gio-day. No sight cards and no food guide: every dossier photo line is unpublished. Nearby are ho-chi-minh-city and vung-tau. Check on arrival: ferry clock, car ferry fare, bus fare, hydrofoil, airport minutes, beach ticket, temple hours and fee, Thanh An boat, stall prices, breakfast."
     }
   ]
 }
