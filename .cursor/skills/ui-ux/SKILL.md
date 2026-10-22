@@ -3,7 +3,8 @@ name: ui-ux
 description: >-
   Applies the Vietnam Guide visual system and the decided page frames: the
   phone header, the homepage bands and six-region map, the destinations index,
-  Plan a trip, and the one interest slider. Use when the user asks for a UI or
+  Plan a trip, and the Da Nang destination frame (one interest slider, six
+  attraction cards, the food dish grid). Use when the user asks for a UI or
   UX pass, to match the city page, to apply the page guidelines, or to restyle
   attraction, food, dish, itinerary, festival, interest, home, destination, or
   guide templates.
@@ -11,9 +12,9 @@ description: >-
 
 # UI and UX
 
-The city page is the reference. `src/components/PlaceView.astro` already follows this skill. A later pass brings one other template family up to the same standard.
+The city page is the reference, and Da Nang is the destination that fills it. `src/components/PlaceView.astro` already follows this skill. A later pass brings one other template family up to the same standard. Do not invent a second destination layout.
 
-This skill owns how a page looks, including the frames already decided below. `.cursor/skills/city-setup/SKILL.md` owns what a destination contains. `.cursor/skills/graphic-copy/SKILL.md` owns prose and photo choice, including the selling-point sentence on a region line. Do not invent a fee, an hour, a sight, a photo, or a sentence in a visual pass. The blog type already exists; do not add a second one. Do not add an ad, a visitor count, a flight ad, or a booking form. Do not copy a Japan region list or a Japan trip duration onto these frames.
+This skill owns how a page looks, including the frames already decided below. `.cursor/skills/city-setup/SKILL.md` owns what a destination contains. `.cursor/skills/graphic-copy/SKILL.md` owns prose and photo choice, including the selling-point sentence on a region line. Do not invent a fee, an hour, a visa rule, a sight, a taste, a history, a photo, or a sentence in a visual pass. The season chip stays a traveler line. Public copy does not say “its own page”, “no page here”, “this guide”, or “licensed photo was not filed”. Do not guess a coordinate. Do not edit rank-dot math. Partner URLs stay in `src/lib/partners.ts`. A content run does not edit templates, `src/styles/global.css`, or `src/lib/partners.ts`. A visual pass may edit one template family. It still does not edit `partners.ts`. The blog type already exists; do not add a second one. Do not add an ad, a visitor count, a flight ad, or a booking form. Do not copy another city’s interest groups onto these frames.
 
 A template that still shows an older stack is not the standard. Bring that family up to the frame in this skill.
 
@@ -51,9 +52,17 @@ Under the grid, a region list. Each region has a small highlighted map. Each pla
 
 `src/pages/plan/index.astro`. On a phone, the page is a two-column card grid of the sections already on the site. A section that is longer has See all. Vietnam travel news sits at the bottom and links to the existing blog posts, the same posts as the homepage highlights. Each card links into that blog. No invented stories, and no flight ad.
 
+### Destination page
+
+`src/components/PlaceView.astro`, filled by `src/content/places/da-nang.json`. This frame is closed.
+
+Top to bottom: breadcrumb, province line, English h1, decision lede, editorial dots, season chip plus the first four interest chips, 16:9 hero, fact bar with time, getting there, and best months. No fee cell on a place. Sticky tabs stay Intro, Attractions, By interest, Get there, Itineraries, Hotels, Restaurants, and Festivals when the place has events. The reading column is intro with the lead sight’s photo after the first paragraph, then common questions, then attractions, events, side trips, one interest slider, getting there, itineraries, hotel rows, and the food-guide row.
+
+Attractions are one packed grid. Six cards, then a full-width “Show all” control. Area names stay on the records. They do not start a second grid, and Da Nang does not use a child district page for them. Events, when present, are photo cards under “Events”. Side trips are photo cards of the neighbor places. Hotels are the affiliate row: photo, area name, band, one line, Search stays. Restaurants is one row pointing at `/food/{slug}`.
+
 ### Interest row
 
-On a place page, interests are one slider. Dining and F&B is the first card when this place has a food guide, and that card opens `/food/{slug}`. What else belongs on the row is `.cursor/skills/city-setup/SKILL.md`. Hide the scrollbar. Do not put Previous and Next text buttons above the row. Do not stack a second slider per group.
+On a place page, interests are one slider. Dining and F&B is the first card when this place has a food guide, and that card opens `/food/{slug}`. Resort Living opens `/resort-living/{slug}` when that group is on the place. Every other group opens `/{place}/by-interest/{slug}`, which is the existing interest-group page: lede, section nav, block paragraphs, and photo cards. What else belongs on the row is `.cursor/skills/city-setup/SKILL.md`. Hide the scrollbar. Do not put Previous and Next text buttons above the row. Do not stack a second slider per group.
 
 The itinerary index is photo cards. A lacquer rule marks a section once. It does not sit under every heading.
 
@@ -99,7 +108,9 @@ After the first intro paragraph, one photo breaks the text. It is the highest-do
 
 Photos are cropped with a center cover, so the file has to be composed for the slot. The hero is 16:9 (`.place-photo`). An attraction card and the intro photo are 3:2 (`.jg-card .media`, `.prose-figure`). An interest card is a tall 3:4 (`.portrait`). Do not set a fixed rem height that slices a 3:2 file into a strip. Graphic and copy crops the file. This skill keeps the slot.
 
-A sight, event, or side-trip card is `.jg-card`: photo on top, a round rank number on the photo, the name, one useful line, editor dots, and a light shadow. The whole card is the link. The image id is `{placeSlug}-{slug}`. A sight card uses a licensed photo of that sight. If that file is missing, omit the card. Do not substitute the place photo. A dish card uses a photo of that dish. Whether the record is published is `.cursor/skills/city-setup/SKILL.md`.
+A photo has to be a licensed photo of that subject. A stand-in is a failure. The city hero is the scene people come for. Da Nang’s hero is the sand, the water, and the resort front in one frame. A pile of blue plastic chairs fails as that hero. If a sight file is missing, omit the card. Do not substitute the place photo, a beach, or another sight. The template fallback is not a reason to show the wrong file.
+
+A sight, event, or side-trip card is `.jg-card`: photo on top, a round rank number on the photo, the name, one useful line, editor dots, and a light shadow. The whole card is the link. The image id is `{placeSlug}-{slug}`. A sight card uses a licensed photo of that sight. A dish card uses a photo of that dish. An event card uses a photo of that event. Whether the record is published is `.cursor/skills/city-setup/SKILL.md`.
 
 An interest row is one `.portrait` slider, as in Decided page frames. The card is a tall rounded photo, the name and a small line icon on the image, and a round white arrow at the right of the row. An itinerary row uses the same card. Hide the scrollbar. Do not put Previous and Next text buttons above the row.
 
@@ -129,7 +140,7 @@ These shared rules already reach other templates, without a full pass:
 Work top to bottom. One family, then stop. Mark it here when the template matches.
 
 - [x] **Attraction** — `src/components/AttractionView.astro`. The hero, the caption, the fact bar, the lacquer notice, the hour rows, and the Also in cards are in place. A record with no `body` still renders the short header. Words, the second photo, and the sections are `.cursor/skills/attraction-page/SKILL.md`. Do not add the city sidebar.
-- [x] **Food guide and dish** — `src/pages/food/[slug].astro`. Keep `nameVi` on a dish. The fact strip is two cells. A dish page leads with a photo of the bowl, then history, culture, texture, taste, and how to enjoy it when the record has them, plus a second photo when the file exists. A city food guide is a grid of dish photo cards with short captions. It does not print essays or hours. A section without a real photo is omitted. A shop with no licensed photo stays in the Shopping text. That interest is `.cursor/skills/city-setup/SKILL.md`.
+- [x] **Food guide and dish** — `src/pages/food/[slug].astro`. Keep `nameVi` on a dish. The fact strip is two cells. A dish page leads with a licensed photo of that dish, then history, culture, texture, taste, and how to enjoy it when the record has them, plus a second photo when the file exists. A city food guide prints the lede and a Specialties grid. A dish is a card only when the file is a photo of that dish. A later section prints only when it has a spot photo card or a neighbor dish card. Da Nang’s “A ride away” section is the neighbor case. Do not add a second food layout to print section paragraphs or spot notes. A specialty grid of two generic dishes is not done. That record is `.cursor/skills/city-setup/SKILL.md`. A shop with no licensed photo stays off the shopping cards.
 - [ ] **Itinerary** — `src/pages/itineraries/[slug].astro`. Days are done. The fact strip is three cells in a four-column bar and has no icons. Set the column count and use icons only where the cell matches one.
 - [ ] **Festival** — `src/pages/festivals/[slug].astro`. Keep `nameVi`. The “When” cell is already in the rounded strip, but it sits in a four-column bar and has no icon. Set the column count, use the calendar icon, and turn the place list into rows. Add a photo only when a real festival photo exists. Do not use the city banner and call it the event.
 - [x] **Interest** — `src/pages/interests/[slug].astro` and `src/pages/interests/index.astro`. The index lede is one traveler sentence. A page leads with the subject photo, then city cards for places and sights that have a licensed photo of that subject. A nationwide place card links to the place guide. Food points at the food guides. A place or sight with no licensed photo of the subject stays in the text. Do not title a block “Related interests”.

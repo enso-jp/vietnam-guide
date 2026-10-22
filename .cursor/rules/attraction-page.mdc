@@ -1,5 +1,5 @@
 ---
-description: Attraction pages follow the Tokyo sight-page standard. Use when editing an attraction record, AttractionView, or an attraction research file.
+description: Attraction pages follow the finished Da Nang sight-page standard. Use when editing an attraction record, AttractionView, or an attraction research file.
 globs:
   - src/content/attractions/**/*.json
   - src/components/AttractionView.astro
