@@ -1,0 +1,54 @@
+{
+  "slug": "central-post-office",
+  "placeSlug": "ho-chi-minh-city",
+  "name": "Central Post Office",
+  "nameVi": "Bưu điện Thành phố",
+  "kicker": "The hall opposite the cathedral",
+  "summary": "The post office stands opposite the cathedral, at 2 Công trường Công xã Paris. Visit HCMC names the architects Alfred Foulhoux and Henri Auguste Vildieu and says the materials came from the Eiffel company. Vietnam Tourism says the architect is sometimes wrongly credited as Gustave Eiffel and that the design was based on his blueprints. Both sentences stay. Do not pick one.",
+  "dots": 4,
+  "timeNeeded": "A short stop on the cathedral walk. A minute was not printed.",
+  "fee": "Vietnam Tourism says admission is free, on a repeated clock. No operator page was opened.",
+  "getThere": "With the cathedral, on the same square.",
+  "district": "Phường Sài Gòn",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The post office facade and the clock, from the square",
+  "notice": {
+    "title": "The architect is not one name",
+    "body": "Visit HCMC names Foulhoux and Vildieu. Vietnam Tourism says Gustave Eiffel is sometimes given the credit in error, and that the design was based on his blueprints. Neither page is dropped."
+  },
+  "body": [
+    "Visit HCMC places the building at 2 Công trường Công xã Paris, Phường Sài Gòn, and says the interior is like the Gare d’Orsay. The tip on that page says not to miss two painted maps at the main door, Saigon and the surroundings in 1892 and Nam Kỳ in 1936. Vietnam Tourism mentions historic maps, wooden phone booths, and a portrait of Hồ Chí Minh. Souvenir stalls line the corridors, on the Visit HCMC page.",
+    "The address on the national page is 2 Cong xa Paris, Ben Nghe, District 1. Phường Sài Gòn and Ben Nghe both stay. The free admission line is that page’s figure, on the same repeated clock as the paid sights. It is not confirmed by a second page. The city itinerary pairs the stop with the morning look at the cathedral. Visit HCMC prints about 2.6 km from the Jade Emperor Pagoda."
+  ],
+  "figures": [
+    {
+      "id": "ho-chi-minh-city-central-post-office-2",
+      "caption": "The hall inside, under the vault",
+      "alt": "Interior hall of the Ho Chi Minh City central post office"
+    }
+  ],
+  "gettingThere": [
+    "Walk with the cathedral. From the Jade Emperor Pagoda, Visit HCMC prints about 2.6 km. Minutes were not printed."
+  ],
+  "legs": [
+    {
+      "heading": "From the cathedral",
+      "body": "Cross the square. The two buildings face each other on the national attractions page."
+    },
+    {
+      "heading": "From the Jade Emperor Pagoda",
+      "body": "About 2.6 km on the Visit HCMC page. Minutes were not printed."
+    }
+  ],
+  "hours": "Check on arrival. Vietnam Tourism prints 7:30 a.m.–12 p.m. and 1:30–5 p.m. with the word Free, inside a block it repeats on other sights. That clock is not chosen.",
+  "closed": "A weekly closing day was not printed.",
+  "admissionNote": "Vietnam Tourism says admission is free, on the repeated clock. No operator page was opened. The free line stays as that page’s figure and is not confirmed by a second page.",
+  "links": [
+    {
+      "label": "Ten sights, including the post office",
+      "url": "https://visithcmc.vn/vi/10-diem-tham-quan-khong-the-bo-qua-khi-den-thanh-pho-ho-chi-minh/",
+      "note": "Visit HCMC"
+    }
+  ],
+  "interests": ["oldTowns"]
+}

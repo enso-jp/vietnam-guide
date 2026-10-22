@@ -2,13 +2,53 @@
   "slug": "war-remnants",
   "placeSlug": "ho-chi-minh-city",
   "name": "War Remnants Museum",
-  "summary": "A direct, photographic museum of the wars in Vietnam. It is distressing and crowded. Read it slowly or not at all.",
+  "nameVi": "Bảo tàng Chứng tích Chiến tranh",
+  "kicker": "Courtyard aircraft and three floors of photographs",
+  "summary": "Give this museum time. Vietnam Tourism describes three floors of artifacts and photographs, including Nick Ut’s “The Terror of War,” and aircraft, tanks, bombs, and helicopters in the courtyard. The operator’s terms from 1 October 2026 print 60,000 đồng for an adult. The same national page still prints 15,000 đồng. Both stay.",
   "dots": 4,
-  "timeNeeded": "1.5 hours",
-  "fee": "Paid entry",
-  "getThere": "Short walk or Grab from District 1",
-  "interests": [
-    "warHistory"
+  "timeNeeded": "Check on arrival. A visit length was not printed.",
+  "fee": "60,000 đồng for an adult on the operator’s terms from 1 October 2026",
+  "getThere": "A short ride from the palace. Minutes were not printed.",
+  "district": "Phường Xuân Hòa",
+  "verified": "22 Oct 2026",
+  "heroCaption": "A U.S. Air Force jet in the museum courtyard",
+  "notice": {
+    "title": "Students are not the half-price row",
+    "body": "On the operator’s terms from 1 October 2026, pupils and students are a free ticket booked online before arrival, not the 30,000 đồng row. Children are free at the desk. Vietnam Tourism’s 15,000 đồng line is a different page and is not the chosen price."
+  },
+  "body": [
+    "The address on the ticket terms is 28 Võ Văn Tần, Phường Xuân Hòa, with tickets at the main gate and parking at the side gate on Lê Quý Đôn. Vietnam Tourism prints 28 Vo Van Tan, Ward 6, District 3. Phường Xuân Hòa and Ward 6 both stay. The page describes three floors of artifacts and photographs, and the machines in the courtyard. The photograph here is the courtyard jet, not a gallery picture.",
+    "The terms say dress appropriately, leave food out of the galleries, and ask about filming. Children under 10 need an adult. The tariff applies from 1 October 2026. This check is 22 October 2026, so that date has passed. A later revision was not opened. Hours are 7:30–17:30 every day including Tết. The ticket desk is 7:30–17:00. The museum stops admitting visitors at 17:00. Vietnam Tourism prints 7:30 a.m.–12 p.m. and 1:30–5 p.m. Both clocks stay."
   ],
-  "district": "District 3"
+  "figures": [
+    {
+      "id": "ho-chi-minh-city-war-remnants-2",
+      "caption": "More of the courtyard, with several aircraft on the ground",
+      "alt": "Aircraft in the courtyard of the War Remnants Museum"
+    }
+  ],
+  "gettingThere": [
+    "From the palace it is a short ride. Vietnam Tourism does not print a distance. Minutes are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the Reunification Palace",
+      "body": "A short ride. No page printed the minutes. Check on arrival."
+    },
+    {
+      "heading": "From Bến Thành",
+      "body": "The museum is on Võ Văn Tần. No page printed the minutes from the market. Check on arrival."
+    }
+  ],
+  "hours": "Operator terms, from 1 October 2026: 7:30–17:30 every day including Tết. Ticket desk 7:30–17:00. Last admission 17:00. Vietnam Tourism prints 7:30 a.m.–12 p.m. and 1:30–5 p.m. Both clocks stay.",
+  "closed": "No weekly closing day is printed on the operator terms. The hours include Tết.",
+  "admissionNote": "Operator terms, applied from 1 October 2026. Adult, domestic or international, not in a reduced class: 60,000 đồng. Half price, 30,000 đồng: people 60 and over, people with severe disabilities, people with meritorious service, the cultural-benefit categories the page names, ethnic minorities in specially difficult communes, and people’s artisans and eminent artisans. Free, booked online before arrival: pupils, students, and members of poor or near-poor households. Free at the desk: children, and people with especially severe disabilities, with a parent or relative. Papers are checked. Vietnam Tourism prints 15,000 VND. Both fees stay. Do not choose the 15,000.",
+  "links": [
+    {
+      "label": "Museum terms and tickets",
+      "url": "https://ticket.baotangchungtichchientranh.vn/terms-and-conditions.html",
+      "note": "Operator, applied from 1 October 2026"
+    }
+  ],
+  "interests": ["warHistory"]
 }

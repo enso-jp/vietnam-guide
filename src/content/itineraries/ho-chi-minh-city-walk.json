@@ -3,42 +3,49 @@
   "title": "Ho Chi Minh City walk",
   "kind": "walk",
   "level": "half-day",
-  "duration": "4 hours",
+  "duration": "A center walk. No page printed a minute count.",
   "placeSlug": "ho-chi-minh-city",
-  "budget": "Museum ticket and lunch",
+  "budget": "Check on arrival",
   "pace": "Steady",
-  "summary": "District 1 from the cathedral square to Ben Thanh, with the palace if the heat allows.",
+  "summary": "The cathedral square, the post office opposite, Nguyễn Huệ, the Reunification Palace, and Bến Thành. A counted minute for each stop was not printed.",
+  "photo": "ho-chi-minh-city",
   "stops": [
     {
-      "name": "Notre-Dame square and the Post Office",
-      "minutes": 25,
-      "walkMinutes": 8,
+      "name": "Notre-Dame Cathedral",
+      "minutes": 0,
       "placeSlug": "ho-chi-minh-city",
-      "note": "The cathedral may be closed for works. The post office interior is the sure stop."
+      "attractionSlug": "notre-dame",
+      "note": "Early morning, on the city itinerary. A counted minute was not printed. Interior access is check on arrival."
     },
     {
-      "name": "Dong Khoi",
-      "minutes": 20,
-      "walkMinutes": 10,
-      "note": "Walk toward the river, then turn inland."
+      "name": "Central Post Office",
+      "minutes": 0,
+      "placeSlug": "ho-chi-minh-city",
+      "attractionSlug": "central-post-office",
+      "note": "Opposite the cathedral. A counted minute was not printed."
+    },
+    {
+      "name": "Nguyen Hue",
+      "minutes": 0,
+      "placeSlug": "ho-chi-minh-city",
+      "attractionSlug": "nguyen-hue",
+      "note": "Vietnam Tourism says the street is liveliest at sundown. A counted minute was not printed."
     },
     {
       "name": "Reunification Palace",
-      "minutes": 60,
-      "walkMinutes": 12,
+      "minutes": 0,
       "placeSlug": "ho-chi-minh-city",
-      "note": "Allow a full hour inside.",
-      "attractionSlug": "reunification-palace"
+      "attractionSlug": "reunification-palace",
+      "note": "A visit length was not printed. Read the ticket page and the homepage before you pay."
     },
     {
       "name": "Ben Thanh Market",
-      "minutes": 30,
-      "walkMinutes": 10,
+      "minutes": 0,
       "placeSlug": "ho-chi-minh-city",
-      "note": "Look, then eat lunch nearby rather than in the tourist stalls.",
-      "attractionSlug": "ben-thanh"
+      "attractionSlug": "ben-thanh",
+      "note": "The food stalls at the end of the hall cook bánh xèo and assemble bánh mì. A counted minute was not printed."
     }
   ],
-  "seoTitle": "Ho Chi Minh City walking itinerary",
-  "seoDescription": "A half-day walk through District 1 in Ho Chi Minh City."
+  "seoTitle": "A center walk in Ho Chi Minh City",
+  "seoDescription": "Cathedral, post office, Nguyễn Huệ, the palace, and Bến Thành. No page printed the minutes."
 }

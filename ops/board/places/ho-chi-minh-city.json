@@ -19,39 +19,39 @@
   },
   "stages": {
     "destination": {
-      "status": "shell",
-      "note": "A place file exists. It has not been set up from a stored dossier.",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, interest groups, one walk, nearby, and stay. No city pin. Chợ Lớn stays an area.",
+      "updated": "2026-10-22T10:54:51.494Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T10:40:02.789Z",
+      "status": "enriched",
+      "note": "Prose and the Nguyễn Huệ hero. Chapel interior is the cathedral’s second frame.",
+      "updated": "2026-10-22T10:54:51.563Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T10:40:02.789Z",
+      "status": "checked",
+      "note": "Read against the dossier. Disagreeing area, population, palace, and museum figures are all printed.",
+      "updated": "2026-10-22T10:54:51.626Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "shell",
-      "note": "A food file exists. It has not been set up from a stored dossier.",
-      "updated": null,
+      "status": "paged",
+      "note": "62 sourced entries in specialties, international, casual, fine, themed, and breakfast. Above 50 because the pages named them. No invented door.",
+      "updated": "2026-10-22T10:54:51.690Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T10:40:02.789Z",
+      "status": "enriched",
+      "note": "Dish pages only where a source gave the plate. Phở is not a Saigon card.",
+      "updated": "2026-10-22T10:54:51.762Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T10:40:02.789Z",
+      "status": "checked",
+      "note": "Hanoi phở file is not in the specialty cards. Bánh canh cua has no crab photograph. No stall price printed.",
+      "updated": "2026-10-22T10:54:51.830Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -101,11 +101,11 @@
       "file": "src/content/attractions/ho-chi-minh-city--ben-thanh.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026.",
-      "updated": "2026-10-22T10:40:02.789Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Photo is that subject. Fees that disagree are both printed.",
+      "updated": "2026-10-22T10:54:52.026Z",
       "reworkCount": 0
     },
     {
@@ -117,11 +117,11 @@
       "file": "src/content/attractions/ho-chi-minh-city--notre-dame.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026.",
-      "updated": "2026-10-22T10:40:02.789Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Photo is that subject. Fees that disagree are both printed.",
+      "updated": "2026-10-22T10:54:52.224Z",
       "reworkCount": 0
     },
     {
@@ -133,11 +133,11 @@
       "file": "src/content/attractions/ho-chi-minh-city--reunification-palace.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026.",
-      "updated": "2026-10-22T10:40:02.789Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Photo is that subject. Fees that disagree are both printed.",
+      "updated": "2026-10-22T10:54:52.414Z",
       "reworkCount": 0
     },
     {
@@ -149,11 +149,11 @@
       "file": "src/content/attractions/ho-chi-minh-city--war-remnants.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026.",
-      "updated": "2026-10-22T10:40:02.789Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Photo is that subject. Fees that disagree are both printed.",
+      "updated": "2026-10-22T10:54:52.607Z",
       "reworkCount": 0
     },
     {
@@ -261,11 +261,11 @@
       "file": "src/content/attractions/ho-chi-minh-city--central-post-office.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Licensed facade in the repo, filed on the cathedral credit.",
-      "updated": "2026-10-22T10:40:02.789Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Photo is that subject. Fees that disagree are both printed.",
+      "updated": "2026-10-22T10:54:52.806Z",
       "reworkCount": 0
     },
     {
@@ -277,11 +277,11 @@
       "file": "src/content/attractions/ho-chi-minh-city--opera-house.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Facade opened on Commons.",
-      "updated": "2026-10-22T10:40:02.790Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Photo is that subject. Fees that disagree are both printed.",
+      "updated": "2026-10-22T10:54:52.996Z",
       "reworkCount": 0
     },
     {
@@ -293,11 +293,11 @@
       "file": "src/content/attractions/ho-chi-minh-city--jade-emperor.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Gate opened on Commons.",
-      "updated": "2026-10-22T10:40:02.790Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Photo is that subject. Fees that disagree are both printed.",
+      "updated": "2026-10-22T10:54:53.185Z",
       "reworkCount": 0
     },
     {
@@ -309,11 +309,11 @@
       "file": "src/content/attractions/ho-chi-minh-city--binh-tay.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Gate opened on Commons.",
-      "updated": "2026-10-22T10:40:02.790Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Photo is that subject. Fees that disagree are both printed.",
+      "updated": "2026-10-22T10:54:53.376Z",
       "reworkCount": 0
     },
     {
@@ -325,11 +325,11 @@
       "file": "src/content/attractions/ho-chi-minh-city--thien-hau.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Street front opened on Commons.",
-      "updated": "2026-10-22T10:40:02.790Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Photo is that subject. Fees that disagree are both printed.",
+      "updated": "2026-10-22T10:54:53.567Z",
       "reworkCount": 0
     },
     {
@@ -341,11 +341,11 @@
       "file": "src/content/attractions/ho-chi-minh-city--nguyen-hue.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Daylight street opened on Commons.",
-      "updated": "2026-10-22T10:40:02.790Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Photo is that subject. Fees that disagree are both printed.",
+      "updated": "2026-10-22T10:54:53.762Z",
       "reworkCount": 0
     },
     {
@@ -357,11 +357,11 @@
       "file": "src/content/attractions/ho-chi-minh-city--vincom-dong-khoi.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Corner frame is in the repo. One frame only.",
-      "updated": "2026-10-22T10:40:02.790Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Photo is that subject. Fees that disagree are both printed.",
+      "updated": "2026-10-22T10:54:53.957Z",
       "reworkCount": 0
     },
     {
@@ -1070,110 +1070,167 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "ho-chi-minh-city",
-    "stage": "destination",
-    "item": null,
-    "at": "2026-10-22T10:40:24.789Z",
-    "by": "hcmc-destination",
-    "branch": "cursor/hcmc-destination-c127"
-  },
+  "claim": null,
   "log": [
     {
-      "at": "2026-10-22T10:40:02.790Z",
+      "at": "2026-10-22T10:54:53.957Z",
       "place": "ho-chi-minh-city",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "left out: Tet flower markets were not on an opened page. Ao Dai, River Festival, and HOZO dates were left out by the dossier. Ho Tram, Dau Tieng, and Dai Nam stay placeholders. No event has a licensed photo."
+      "stage": "quality",
+      "item": "ho-chi-minh-city--vincom-dong-khoi",
+      "status": "checked",
+      "note": "Photo is that subject. Fees that disagree are both printed."
     },
     {
-      "at": "2026-10-22T10:40:02.106Z",
+      "at": "2026-10-22T10:54:53.894Z",
       "place": "ho-chi-minh-city",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Events and side trips are in the dossier. Still open: no licensed event photo."
+      "stage": "copy",
+      "item": "ho-chi-minh-city--vincom-dong-khoi",
+      "status": "enriched",
+      "note": "Copy uses only opened pages."
     },
     {
-      "at": "2026-10-22T10:40:02.043Z",
+      "at": "2026-10-22T10:54:53.826Z",
       "place": "ho-chi-minh-city",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "left out: Tao Dan morning has no licensed photo, so it is not a slider card."
+      "stage": "page",
+      "item": "ho-chi-minh-city--vincom-dong-khoi",
+      "status": "paged",
+      "note": "Sight file from the dossier."
     },
     {
-      "at": "2026-10-22T10:40:01.718Z",
+      "at": "2026-10-22T10:54:53.762Z",
       "place": "ho-chi-minh-city",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Breakfast, the square, Tao Dan, and the quiet hour are in the dossier. Still open: Tao Dan has no photo."
+      "stage": "quality",
+      "item": "ho-chi-minh-city--nguyen-hue",
+      "status": "checked",
+      "note": "Photo is that subject. Fees that disagree are both printed."
     },
     {
-      "at": "2026-10-22T10:40:01.653Z",
+      "at": "2026-10-22T10:54:53.693Z",
       "place": "ho-chi-minh-city",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "left out: no licensed photograph of Bui Vien at night, so no night card and no stay row on that street."
+      "stage": "copy",
+      "item": "ho-chi-minh-city--nguyen-hue",
+      "status": "enriched",
+      "note": "Copy uses only opened pages."
     },
     {
-      "at": "2026-10-22T10:40:01.402Z",
+      "at": "2026-10-22T10:54:53.631Z",
       "place": "ho-chi-minh-city",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Bui Vien, Nguyen Hue at sundown, and Vinh Khanh are in the dossier. Still open: no licensed night-street photo."
+      "stage": "page",
+      "item": "ho-chi-minh-city--nguyen-hue",
+      "status": "paged",
+      "note": "Sight file from the dossier."
     },
     {
-      "at": "2026-10-22T10:40:01.341Z",
+      "at": "2026-10-22T10:54:53.568Z",
       "place": "ho-chi-minh-city",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "left out: no Saigon pho photograph, no crab banh canh photograph, no room photographs for named restaurants, stall prices not published."
+      "stage": "quality",
+      "item": "ho-chi-minh-city--thien-hau",
+      "status": "checked",
+      "note": "Photo is that subject. Fees that disagree are both printed."
     },
     {
-      "at": "2026-10-22T10:40:00.195Z",
+      "at": "2026-10-22T10:54:53.504Z",
       "place": "ho-chi-minh-city",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Dishes and streets are in the dossier. Still open: most rooms have no licensed photo of that dish or that room."
+      "stage": "copy",
+      "item": "ho-chi-minh-city--thien-hau",
+      "status": "enriched",
+      "note": "Copy uses only opened pages."
     },
     {
-      "at": "2026-10-22T10:39:33.716Z",
+      "at": "2026-10-22T10:54:53.440Z",
       "place": "ho-chi-minh-city",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "left out: Tan Dinh church, Giac Lam, City Hall facade, Dong Khoi as a walking street, Fine Arts, FITO, Cho Lon as one frame, Landmark 81, Bitexco, Ba Son, Suoi Tien, Tao Dan, Turtle Lake. No licensed photo of that subject, or the crop cuts the tower."
+      "stage": "page",
+      "item": "ho-chi-minh-city--thien-hau",
+      "status": "paged",
+      "note": "Sight file from the dossier."
     },
     {
-      "at": "2026-10-22T10:39:32.242Z",
+      "at": "2026-10-22T10:54:53.376Z",
       "place": "ho-chi-minh-city",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Major sights are in the dossier. Still open: several halls have no licensed photo, and fees disagree across pages."
+      "stage": "quality",
+      "item": "ho-chi-minh-city--binh-tay",
+      "status": "checked",
+      "note": "Photo is that subject. Fees that disagree are both printed."
     },
     {
-      "at": "2026-10-22T10:39:32.178Z",
+      "at": "2026-10-22T10:54:53.313Z",
       "place": "ho-chi-minh-city",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "left out: no city pin, no Ga Sai Gon timetable, no drive minutes from Da Nang or Nha Trang, hotel brands are not picks, S23 was a human-check page."
+      "stage": "copy",
+      "item": "ho-chi-minh-city--binh-tay",
+      "status": "enriched",
+      "note": "Copy uses only opened pages."
     },
     {
-      "at": "2026-10-22T10:39:32.146Z",
+      "at": "2026-10-22T10:54:53.250Z",
       "place": "ho-chi-minh-city",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and getting there are in the stored dossier. Still open: no rail timetable, no drive minutes, no 2026 metro fare."
+      "stage": "page",
+      "item": "ho-chi-minh-city--binh-tay",
+      "status": "paged",
+      "note": "Sight file from the dossier."
+    },
+    {
+      "at": "2026-10-22T10:54:53.185Z",
+      "place": "ho-chi-minh-city",
+      "stage": "quality",
+      "item": "ho-chi-minh-city--jade-emperor",
+      "status": "checked",
+      "note": "Photo is that subject. Fees that disagree are both printed."
+    },
+    {
+      "at": "2026-10-22T10:54:53.120Z",
+      "place": "ho-chi-minh-city",
+      "stage": "copy",
+      "item": "ho-chi-minh-city--jade-emperor",
+      "status": "enriched",
+      "note": "Copy uses only opened pages."
+    },
+    {
+      "at": "2026-10-22T10:54:53.058Z",
+      "place": "ho-chi-minh-city",
+      "stage": "page",
+      "item": "ho-chi-minh-city--jade-emperor",
+      "status": "paged",
+      "note": "Sight file from the dossier."
+    },
+    {
+      "at": "2026-10-22T10:54:52.996Z",
+      "place": "ho-chi-minh-city",
+      "stage": "quality",
+      "item": "ho-chi-minh-city--opera-house",
+      "status": "checked",
+      "note": "Photo is that subject. Fees that disagree are both printed."
+    },
+    {
+      "at": "2026-10-22T10:54:52.932Z",
+      "place": "ho-chi-minh-city",
+      "stage": "copy",
+      "item": "ho-chi-minh-city--opera-house",
+      "status": "enriched",
+      "note": "Copy uses only opened pages."
+    },
+    {
+      "at": "2026-10-22T10:54:52.871Z",
+      "place": "ho-chi-minh-city",
+      "stage": "page",
+      "item": "ho-chi-minh-city--opera-house",
+      "status": "paged",
+      "note": "Sight file from the dossier."
+    },
+    {
+      "at": "2026-10-22T10:54:52.806Z",
+      "place": "ho-chi-minh-city",
+      "stage": "quality",
+      "item": "ho-chi-minh-city--central-post-office",
+      "status": "checked",
+      "note": "Photo is that subject. Fees that disagree are both printed."
+    },
+    {
+      "at": "2026-10-22T10:54:52.740Z",
+      "place": "ho-chi-minh-city",
+      "stage": "copy",
+      "item": "ho-chi-minh-city--central-post-office",
+      "status": "enriched",
+      "note": "Copy uses only opened pages."
     }
   ]
 }

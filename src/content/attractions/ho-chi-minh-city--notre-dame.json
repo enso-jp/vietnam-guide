@@ -1,12 +1,59 @@
 {
   "slug": "notre-dame",
   "placeSlug": "ho-chi-minh-city",
-  "name": "Notre-Dame Cathedral and the Post Office",
-  "summary": "The French-era cathedral square and the painted post office next door. The cathedral has had long closures for repairs; check the day.",
+  "name": "Notre-Dame Cathedral",
+  "nameVi": "Vương cung Thánh đường Đức Bà",
+  "kicker": "Twin towers at the head of Đồng Khởi",
+  "summary": "The cathedral is the twin-spired church at the head of Đồng Khởi, opposite the post office. Visit HCMC says the design is by architect Bourard and Bishop Colombert, consecrated in 1880, in unplastered brick ordered from Marseille. Vietnam Tourism says construction ran from 1863 to 1880 and that the materials were imported from France. Interior access is check on arrival.",
   "dots": 3,
-  "timeNeeded": "30 minutes",
-  "fee": "Post office is free",
-  "getThere": "Walk",
-  "interests": [],
-  "district": "District 1"
+  "timeNeeded": "A look from the square. A counted minute was not printed.",
+  "fee": "Check on arrival. Vietnam Tourism prints 15,000 VND inside a repeated block. Visit HCMC prints no fee.",
+  "getThere": "Walk from Đồng Khởi or Nguyễn Huệ.",
+  "district": "Phường Sài Gòn",
+  "verified": "22 Oct 2026",
+  "heroCaption": "Both towers, the clock, and the rose window, with scaffolding on the right",
+  "notice": {
+    "title": "The interior hour was not confirmed",
+    "body": "No archdiocese page was opened, so a 2026 closure is not stated. Vietnam Tourism prints an interior clock inside a block it also uses for other sights. That split clock is not chosen. Ask at the gate."
+  },
+  "body": [
+    "Visit HCMC places the church at 1 Công trường Công xã Paris, Phường Sài Gòn. Vietnam Tourism says 1 Cong Xa Paris, Ben Nghe, District 1, at the head of Đồng Khởi. Phường Sài Gòn and Ben Nghe both stay. The English name on that national page is the Cathedral Basilica of Our Lady of the Immaculate Conception. The southern page says Notre Dame Cathedral.",
+    "The statue in front is not one description. Visit HCMC’s tip says the statue of Đức Mẹ Hòa Bình is Carrara marble carved at Pietrasanta. Vietnam Tourism says an alabaster statue of the Virgin in the square is said to have wept once in 2005. Both sentences stay. The city itinerary sends you here in the early morning. The post office is the building opposite, on its own page. The photograph is the facade: both towers and the rose window. The spire tips sit above the frame, and scaffolding stands on the right."
+  ],
+  "figures": [
+    {
+      "id": "ho-chi-minh-city-notre-dame-2",
+      "caption": "Inside, a votive chapel. This is not the facade on the square.",
+      "alt": "Votive chapel interior of Notre-Dame Cathedral Basilica of Saigon"
+    }
+  ],
+  "gettingThere": [
+    "Walk from Đồng Khởi or Nguyễn Huệ. Visit HCMC prints about 2.5 km from the Jade Emperor Pagoda. Minutes were not printed."
+  ],
+  "legs": [
+    {
+      "heading": "From Nguyễn Huệ",
+      "body": "Walk to the head of Đồng Khởi. No page printed the minutes."
+    },
+    {
+      "heading": "From the Jade Emperor Pagoda",
+      "body": "Visit HCMC prints about 2.5 km. The minutes were not printed."
+    }
+  ],
+  "hours": "Check on arrival. Vietnam Tourism prints 7:30 a.m.–12 p.m. and 1:30–5 p.m. on this church and on several other sights. That split clock is not chosen. The city itinerary says early morning for the look from the square.",
+  "closed": "A weekly closing day was not printed. Interior access is check on arrival.",
+  "admissionNote": "Visit HCMC prints no fee. Vietnam Tourism prints 15,000 VND inside a block repeated on the museum, the palace, and Củ Chi. Do not choose 15,000. The fee is check on arrival, and the 15,000 stays as that page’s figure only.",
+  "links": [
+    {
+      "label": "Ten sights, including the cathedral",
+      "url": "https://visithcmc.vn/vi/10-diem-tham-quan-khong-the-bo-qua-khi-den-thanh-pho-ho-chi-minh/",
+      "note": "Visit HCMC"
+    },
+    {
+      "label": "Seven attractions in the city",
+      "url": "https://vietnam.travel/things-to-do/7-must-see-attractions-hcmc",
+      "note": "Vietnam Tourism"
+    }
+  ],
+  "interests": ["oldTowns"]
 }
