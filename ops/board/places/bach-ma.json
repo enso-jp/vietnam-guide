@@ -55,9 +55,9 @@
       "reworkCount": 0
     },
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, three interest groups, and one itinerary. No food guide: no licensed plate. Side trip placeholder: Truoi Lake, Truc Lam Bach Ma, and the Hobbit village. Check on arrival: both ticket tables, the km 12 rule, room rate, drive minutes, and a gate hour. Heights and hectare figures are both printed. Editorial dot 4.",
+      "updated": "2026-10-22T04:38:39.301Z",
       "reworkCount": 0
     },
     "destinationCopy": {
@@ -590,15 +590,16 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "bach-ma",
-    "stage": "destination",
-    "item": null,
-    "at": "2026-10-22T04:24:44.919Z",
-    "by": "bach-ma-page",
-    "branch": "cursor/bach-ma-destination-fddc"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T04:38:39.301Z",
+      "place": "bach-ma",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place shell, three interest groups, and one itinerary. No food guide: no licensed plate. Side trip placeholder: Truoi Lake, Truc Lam Bach Ma, and the Hobbit village. Check on arrival: both ticket tables, the km 12 rule, room rate, drive minutes, and a gate hour. Heights and hectare figures are both printed. Editorial dot 4."
+    },
     {
       "at": "2026-10-22T04:15:33.533Z",
       "place": "bach-ma",
