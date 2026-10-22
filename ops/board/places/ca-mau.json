@@ -782,7 +782,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "ca-mau",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-22T07:07:31.921Z",
+    "by": "ca-mau-page",
+    "branch": ""
+  },
   "log": [
     {
       "at": "2026-10-22T06:51:20.474Z",
