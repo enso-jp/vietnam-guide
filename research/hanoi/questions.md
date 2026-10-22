@@ -21,4 +21,4 @@ Checked: 22 Oct 2026. Public fields that are still Check on arrival.
 - One Pillar emperor and hours stay as both figures. No question beyond that.
 - Mausoleum fee stays as both figures: free (S8) and 40,000 VND (S10).
 - Side trips left out: Perfume Pagoda, Bát Tràng, Đường Lâm, Cổ Loa, Ba Vì, Tam Đảo. No primary page for the ride was opened.
-- Sights left out for lack of a licensed photo, unless a later frame in this same pass passes the crop test: Ngọc Sơn, Ethnology, Women’s Museum, History Museum, Trần Quốc, Long Biên, Quán Thánh, the Tạ Hiện corner, the food streets, the Hàng Lược flower market.
+- Sights left out for lack of a licensed photo: Long Biên Bridge (no visitor action and no hours recorded), Quán Thánh Temple (no hours recorded). The Tạ Hiện corner, the food streets, the Hàng Lược flower market, and the flag ceremony stay off the cards for the same reason. Women’s Museum was published on 22 Oct 2026 after the exterior and the fashion gallery passed. Ngọc Sơn, Ethnology, History Museum, and Trần Quốc already have pages. No Hanoi event card: Tet has no licensed Hanoi event photo, so the city is not on that festival’s place list.
