@@ -149,11 +149,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced. Photo unpublished. A page waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.572Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No Chau Sa page to check. The wall stays in the place text.",
+      "updated": "2026-10-22T04:55:53.369Z",
       "reworkCount": 0
     },
     {
@@ -162,14 +162,14 @@
       "track": "unit",
       "name": "Tra Khuc river",
       "slug": "tra-khuc",
-      "file": null,
+      "file": "src/content/attractions/quang-ngai--tra-khuc.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
+      "page": "paged",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Sourced. Photo unpublished. A page waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.572Z",
+      "note": "River page. Street hours sourced. Bank fee Check on arrival. The long span is not named Thach Bich. Dot 4 on a new record. Interests nightlife so it does not take the lead from Son My.",
+      "updated": "2026-10-22T04:57:00.430Z",
       "reworkCount": 0
     },
     {
@@ -577,6 +577,38 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-22T04:57:00.397Z",
+      "place": "quang-ngai",
+      "stage": "page",
+      "item": "quang-ngai--tra-khuc",
+      "status": "paged",
+      "note": "River page. Street hours sourced. Bank fee Check on arrival. The long span is not named Thach Bich. Dot 4 on a new record. Interests nightlife so it does not take the lead from Son My."
+    },
+    {
+      "at": "2026-10-22T04:55:53.369Z",
+      "place": "quang-ngai",
+      "stage": "quality",
+      "item": "quang-ngai--chau-sa",
+      "status": "skipped",
+      "note": "No Chau Sa page to check. The wall stays in the place text."
+    },
+    {
+      "at": "2026-10-22T04:55:53.305Z",
+      "place": "quang-ngai",
+      "stage": "copy",
+      "item": "quang-ngai--chau-sa",
+      "status": "skipped",
+      "note": "No Chau Sa page to enrich."
+    },
+    {
+      "at": "2026-10-22T04:55:53.238Z",
+      "place": "quang-ngai",
+      "stage": "page",
+      "item": "quang-ngai--chau-sa",
+      "status": "skipped",
+      "note": "No licensed photo of the earth rampart. No sight card."
+    },
+    {
       "at": "2026-10-22T04:55:46.662Z",
       "place": "quang-ngai",
       "stage": "quality",
@@ -703,38 +735,6 @@
       "item": null,
       "status": "enriched",
       "note": "Selling line is the river night and Son My. Hero stays the Tra Khuc crop: boats and the long span, railing out. Fees and hours remain Check on arrival."
-    },
-    {
-      "at": "2026-10-22T04:48:52.515Z",
-      "place": "quang-ngai",
-      "stage": "destination",
-      "item": null,
-      "status": "paged",
-      "note": "Place shell, three interest groups, one day itinerary. Festivals left off: no licensed event photo. Ly Son, Sa Huynh, Tra Bong, and Ba To stay side-trip placeholders. Fees and hours are Check on arrival. Map pin 15.12, 108.8 is not in the dossier; the page needs a coordinate. All three area and population pairs kept."
-    },
-    {
-      "at": "2026-10-22T04:18:15.572Z",
-      "place": "quang-ngai",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "left out solar dates, a later Don An Phú year, Lý Sơn and Sa Huỳnh dossiers, and road minutes for the side trips."
-    },
-    {
-      "at": "2026-10-22T04:18:15.001Z",
-      "place": "quang-ngai",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "left out a named cafe street and the hour the whole city goes quiet."
-    },
-    {
-      "at": "2026-10-22T04:18:14.843Z",
-      "place": "quang-ngai",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "left out bar brands, drink prices, and the quiet hour on nights the street is dark."
     }
   ]
 }
