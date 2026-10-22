@@ -11,7 +11,7 @@
   "summary": "Ho Chi Minh City is the city Vietnam Tourism calls the former Saigon, the economic heart of the south. Since 1 July 2025 one resolution joins that city with the former Bà Rịa–Vũng Tàu and Bình Dương. The walk you came for is still the old core: Nguyễn Huệ, the cathedral square, the palace, and the museum.",
   "timeNeeded": "Check on arrival.",
   "fee": "Check on arrival. Palace and museum prices do not match across the pages that print them.",
-  "getThere": "Tân Sơn Nhất is 7 km from the centre. Minutes were not printed.",
+  "getThere": "Tân Sơn Nhất is 7 km from the centre. Check on arrival.",
   "bestMonths": "December to April",
   "verified": "22 Oct 2026",
   "interests": {
@@ -50,8 +50,8 @@
     "Eat cơm tấm and hủ tiếu. Vietnam Tourism says phở is best in Hanoi and that hủ tiếu is the bowl that belongs here. The Reunification Palace and the War Remnants Museum are the war record. Their ticket pages do not match the older 15,000 đồng line. Chợ Lớn is a half-day inside this city, at Bình Tây and Thiên Hậu, not a separate place."
   ],
   "gettingAround": [
-    "Tân Sơn Nhất is the airport. Vietnam Tourism says it is just 7 km from the centre, with taxis, ride-hailing, and city buses. No minute count was printed. Check on arrival. No rail timetable for Ga Sài Gòn was opened.",
-    "Metro Line 1 is running. The project page and the December 2024 opening article put the line from Bến Thành to Bến xe Suối Tiên, about 19.7 km, 14 stations, with a 29-minute ride in that opening article and an initial clock of 05:00–22:00. Visit HCMC instead names Bến xe Miền Đông as the eastern end. Both stay. The 2024 fares, 6,000–20,000 đồng a ride and the day and month passes in that article, are not a 2026 price. The fare now is check on arrival. The same visitor page names the Saigon Waterbus, public bicycles, and more than 150 bus routes, with no fare. It says to cross with a slow, steady pace, and it prints rush hours of 7:00–9:00 and 16:30–18:30."
+    "Tân Sơn Nhất is the airport. Vietnam Tourism says it is just 7 km from the centre, with taxis, ride-hailing, and city buses. Check on arrival.",
+    "Metro Line 1 is running. The project page and the December 2024 opening article put the line from Bến Thành to Bến xe Suối Tiên, about 19.7 km, 14 stations, with a 29-minute ride in that opening article and an initial clock of 05:00–22:00. Visit HCMC instead names Bến xe Miền Đông as the eastern end. Both stay. The 2024 fares, 6,000–20,000 đồng a ride and the day and month passes in that article, are not a 2026 price. The fare now is Check on arrival. The same visitor page names the Saigon Waterbus, public bicycles, and more than 150 bus routes, with no fare. It says to cross with a slow, steady pace, and it prints rush hours of 7:00–9:00 and 16:30–18:30."
   ],
   "stayAreas": [
     {
@@ -96,7 +96,7 @@
       "cards": [
         {
           "title": "Notre-Dame Cathedral",
-          "summary": "Both towers and the rose window. The interior hour is check on arrival. The post office is the building opposite.",
+          "summary": "Both towers and the rose window. The interior hour is Check on arrival. The post office is the building opposite.",
           "attractionSlug": "notre-dame",
           "photo": "ho-chi-minh-city-notre-dame",
           "icon": "view"
@@ -227,6 +227,6 @@
   ],
   "season": {
     "label": "Drier from December to April",
-    "note": "Vietnam Tourism says December to April is drier, sunny, and less humid, and May to November brings short afternoon showers. It is hot all year. No page prints a flood closure."
+    "note": "Vietnam Tourism says December to April is drier, sunny, and less humid, and May to November brings short afternoon showers. It is hot all year."
   }
 }

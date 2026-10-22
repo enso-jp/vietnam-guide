@@ -4,9 +4,9 @@
   "name": "Jade Emperor Pagoda",
   "nameVi": "Chùa Ngọc Hoàng",
   "kicker": "Three halls at 73 Mai Thị Lựu",
-  "summary": "The Jade Emperor Pagoda is the temple hour that is not the cathedral. Visit HCMC says it was built about 1892–1900 by Lưu Minh, from Guangdong, and renamed Phước Hải Tự in 1984. The compound is 2,300 m², with about 300 wooden statues. The page prints 7:00–17:30 every day, and 5:00–19:00 on the 1st and 15th of the lunar month. A fee was not printed.",
+  "summary": "The Jade Emperor Pagoda is the temple hour that is not the cathedral. Visit HCMC says it was built about 1892–1900 by Lưu Minh, from Guangdong, and renamed Phước Hải Tự in 1984. The compound is 2,300 m², with about 300 wooden statues. Visit HCMC prints 7:00–17:30 every day, and 5:00–19:00 on the 1st and 15th of the lunar month. A fee was not printed.",
   "dots": 4,
-  "timeNeeded": "Check on arrival. A visit length was not printed.",
+  "timeNeeded": "Check on arrival.",
   "fee": "Check on arrival. No fee was printed.",
   "getThere": "Buses 18, 93, and 150, then a walk. Mai Thị Lựu is narrow.",
   "district": "Tan Dinh Ward, District 1",
@@ -28,7 +28,7 @@
     }
   ],
   "gettingThere": [
-    "Visit HCMC names buses 18, 93, and 150 to Điện Biên Phủ, Đinh Tiên Hoàng, or Nguyễn Đình Chiểu, then a walk. From here Visit HCMC prints about 3.1 km to the opera, 2.6 km to the post office, 2.5 km to the cathedral, and 2.7 km to the palace. Minutes were not printed."
+    "Visit HCMC names buses 18, 93, and 150 to Điện Biên Phủ, Đinh Tiên Hoàng, or Nguyễn Đình Chiểu, then a walk. From here Visit HCMC prints about 3.1 km to the opera, 2.6 km to the post office, 2.5 km to the cathedral, and 2.7 km to the palace. Check on arrival."
   ],
   "legs": [
     {
@@ -37,7 +37,7 @@
     },
     {
       "heading": "From the cathedral",
-      "body": "About 2.5 km on the Visit HCMC page. Minutes were not printed."
+      "body": "About 2.5 km, on Visit HCMC. Check on arrival."
     }
   ],
   "hours": "7:00–17:30 every day. On the 1st and 15th of the lunar month, 5:00–19:00.",
