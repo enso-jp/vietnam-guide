@@ -814,7 +814,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "vinh",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-22T07:02:12.998Z",
+    "by": "vinh-page",
+    "branch": "cursor/vinh-destination-9dae"
+  },
   "log": [
     {
       "at": "2026-10-22T06:52:21.019Z",
