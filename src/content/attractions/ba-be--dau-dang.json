@@ -1,0 +1,61 @@
+{
+  "slug": "dau-dang",
+  "placeSlug": "ba-be",
+  "name": "Dau Dang Waterfall",
+  "nameVi": "Thác Đầu Đẳng",
+  "kicker": "Stacked fall west of the lake",
+  "summary": "Land from the boat and look at the Nang dropping through stacked limestone, about 3 km west of the lake. The park says the fall is about 53 m and that the slope of the stacked rock is estimated at 500 m. That 500 m is the slope. The fish run is March and April. The fee is check on arrival.",
+  "dots": 4,
+  "timeNeeded": "A stop on the long boat",
+  "fee": "Check on arrival",
+  "getThere": "By boat toward the west end of the water. Minutes ashore are check on arrival.",
+  "bestMonths": "March and April for the fish run",
+  "district": "West of the lake",
+  "verified": "22 Oct 2026",
+  "heroCaption": "White water, stacked rock, and forest at Dau Dang",
+  "notice": {
+    "title": "500 m is the slope",
+    "body": "The park estimates the stacked rock at 500 m. The height of the fall on that same page is about 53 m."
+  },
+  "body": [
+    "You land from the boat and look. The park splits the fall into three sections: a steep first drop, a second reach that divides in two, and a third that slows among the rocks. The location page puts it about 3 km west of the lake, on the line the page now calls Thai Nguyen–Tuyen Quang. An older post on the same site still says the Bac Kan–Tuyen Quang line. VnExpress puts the blockage at ban Hua Tang, after the river has passed Lung Nham and Puong. In March and April, after the first rains, the park says schools of fish run the fall, and names ca chien, some of them tens of kilograms. The fall itself is described as white all year.",
+    "The heights do not agree, and each one stays. The park location page says the height is about 53 m, the slope of the stacked rock is estimated at 500 m, and the fall is about 3 km west of the lake. A post on the same site says the fall is about 2 km long. UNESCO says 53 m and, in the same sentence, water from the height of 85 meters. VnExpress says the fall is longer than 1,000 m, in three tiers, each tier 3–4 m apart. Minutes ashore were not printed, so that clock is check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "ba-be-dau-dang-2",
+      "caption": "Another reach of the fall, with rock in the current and forest on both sides",
+      "alt": "Dau Dang Waterfall, white water among rocks and forest"
+    }
+  ],
+  "gettingThere": [
+    "The fall is the west end of the long boat, not a second day. From Pac Ngoi or Bo Lu the boatman includes it when the circuit is the long one. A separate ashore minute count was not on the park page."
+  ],
+  "legs": [
+    {
+      "heading": "From the lake",
+      "body": "By boat toward the west end. The park location page says about 3 km west of the lake. VnExpress describes the river passing Lung Nham and Puong before the blockage at ban Hua Tang. Minutes are check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "admissionNote": "No fall ticket was on the park page. The fee is check on arrival.",
+  "links": [
+    {
+      "label": "Dau Dang",
+      "url": "https://babetourism.vn/locations/dang-dang-fall",
+      "note": "Ba Be National Park location page"
+    },
+    {
+      "label": "Park places note",
+      "url": "https://babetourism.vn/posts/nhung-dia-diem-du-lich-vuon-quoc-gia-ba-be",
+      "note": "The post that calls the fall about 2 km long"
+    },
+    {
+      "label": "UNESCO tentative list",
+      "url": "https://whc.unesco.org/en/tentativelists/6262/",
+      "note": "53 m, and water from the height of 85 meters, in one sentence"
+    }
+  ],
+  "interests": ["mountains"]
+}

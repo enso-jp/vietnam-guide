@@ -55,39 +55,39 @@
       "reworkCount": 0
     },
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, Long Tong, one lake-day itinerary, and local interest groups. Fees and hours are check on arrival: no park tariff. Side trip placeholders: Na Hang, Nam Xuan Lac, Nui Coc, Bac Kan city. Dot 5 proposed because the lake is the reason for the night. Sac Thu left off: named, no date, no programme. Attraction files are the next stage.",
+      "updated": "2026-10-22T02:25:19.766Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T18:53:36.522Z",
+      "status": "enriched",
+      "note": "Hero is the landing boats and the limestone, cropped so both stay in the 16:9 frame. Selling line is the morning on the lake. Fees and hours stay check on arrival. Open questions are in research/ba-be/questions.md.",
+      "updated": "2026-10-22T02:26:57.648Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T18:53:36.522Z",
+      "status": "checked",
+      "note": "Place read against the dossier. Lake height, length, and depth are printed for each desk. Hero shows the landing boats and the limestone. Fees and hours are check on arrival. Sight pages are still open.",
+      "updated": "2026-10-22T02:27:47.771Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Only five-colour sticky rice has a licensed plate. The photograph is the dish in Son La, and the page says so. Other named dishes stay off the specialty grid. Stall prices and the dye plants are check on arrival.",
+      "updated": "2026-10-22T02:36:35.813Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T18:53:36.522Z",
+      "status": "enriched",
+      "note": "Selling line is the coloured rice on the Long Tong trays. Texture, taste, and the dye plants stay out. The photograph is the dish in Son La. Prices are check on arrival.",
+      "updated": "2026-10-22T02:36:58.209Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T18:53:36.522Z",
+      "status": "checked",
+      "note": "Guide read against the dossier. Only five-colour sticky rice is pictured. The frame is the dish in Son La. Dye plants, texture, taste, and stall prices stay check on arrival. No homestay is named as a pick.",
+      "updated": "2026-10-22T02:37:34.815Z",
       "reworkCount": 0
     }
   },
@@ -98,14 +98,14 @@
       "track": "unit",
       "name": "Ba Be National Park",
       "slug": "ba-be-national-park",
-      "file": null,
+      "file": "src/content/attractions/ba-be--ba-be-national-park.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "10,048 ha. Zone splits and species counts disagree. No tariff.",
-      "updated": "2026-10-21T18:53:36.522Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Read against the dossier. Area splits, species counts, ASEAN years, and the conference wording are printed. Hero shows karst, forest, and water. Fee and hours are check on arrival.",
+      "updated": "2026-10-22T02:42:05.263Z",
       "reworkCount": 0
     },
     {
@@ -114,14 +114,14 @@
       "track": "unit",
       "name": "Ba Be Lake",
       "slug": "ba-be-lake",
-      "file": null,
+      "file": "src/content/attractions/ba-be--ba-be-lake.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "One lake, three Tay widenings. Measurements disagree. Fee check on arrival.",
-      "updated": "2026-10-21T18:53:36.522Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Read against the dossier. All five measurement desks are on the page. Hero shows boats, water, and limestone. Fairy Pond swimming ban is the notice. Fee and hours are check on arrival.",
+      "updated": "2026-10-22T02:45:03.568Z",
       "reworkCount": 0
     },
     {
@@ -130,14 +130,14 @@
       "track": "unit",
       "name": "Puong Cave",
       "slug": "puong-cave",
-      "file": null,
+      "file": "src/content/attractions/ba-be--puong-cave.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Boat through the Nang. 300 m on the park page. Bat counts disagree.",
-      "updated": "2026-10-21T18:53:36.522Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Read against the dossier. Dimensions and both bat counts are on the page. Hero shows the mouth, the river, and the boat. Fee and hours are check on arrival.",
+      "updated": "2026-10-22T02:47:40.558Z",
       "reworkCount": 0
     },
     {
@@ -146,14 +146,14 @@
       "track": "unit",
       "name": "Dau Dang Waterfall",
       "slug": "dau-dang",
-      "file": null,
+      "file": "src/content/attractions/ba-be--dau-dang.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "About 3 km west. Height figures disagree. Fee check on arrival.",
-      "updated": "2026-10-21T18:53:36.522Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Read against the dossier. 53 m, 85 m, 500 m slope, 2 km, and the VnExpress tiers are all on the page. Fee and hours are check on arrival.",
+      "updated": "2026-10-22T02:47:40.752Z",
       "reworkCount": 0
     },
     {
@@ -162,14 +162,14 @@
       "track": "unit",
       "name": "Pac Ngoi",
       "slug": "pac-ngoi",
-      "file": null,
+      "file": "src/content/attractions/ba-be--pac-ngoi.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Tay stilt village on the Leng. House counts disagree.",
-      "updated": "2026-10-21T18:53:36.522Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Read against the dossier. Both house counts stay. Hero shows stilts, water, and the cliff. Fee and hours are check on arrival.",
+      "updated": "2026-10-22T02:47:40.944Z",
       "reworkCount": 0
     },
     {
@@ -181,11 +181,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Festival shore and the other homestay cluster.",
-      "updated": "2026-10-21T18:53:36.522Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo. The lake frame is a different subject. Page skipped.",
+      "updated": "2026-10-22T02:47:41.115Z",
       "reworkCount": 0
     },
     {
@@ -197,11 +197,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Temple island, about 30 m. Trek ends here.",
-      "updated": "2026-10-21T18:53:36.522Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo. An unnamed island is not An Ma. Page skipped.",
+      "updated": "2026-10-22T02:47:41.284Z",
       "reworkCount": 0
     },
     {
@@ -213,11 +213,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Ba Goa in Pe Leng. Look from the boat.",
-      "updated": "2026-10-21T18:53:36.522Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo. An unnamed island is not Widow Island. Page skipped.",
+      "updated": "2026-10-22T02:47:41.455Z",
       "reworkCount": 0
     },
     {
@@ -229,11 +229,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Look only. Placement descriptions disagree.",
-      "updated": "2026-10-21T18:53:36.522Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo. Page skipped.",
+      "updated": "2026-10-22T02:47:41.625Z",
       "reworkCount": 0
     },
     {
@@ -245,11 +245,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "South of the lake. Longer than 700 m on the park page.",
-      "updated": "2026-10-21T18:53:36.522Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo. The Puong boat is a different cave. Page skipped.",
+      "updated": "2026-10-22T02:47:41.795Z",
       "reworkCount": 0
     },
     {
@@ -261,11 +261,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Named in Dong Phuc. Height unsourced.",
-      "updated": "2026-10-21T18:53:36.522Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo. Dau Dang is a different fall. Page skipped.",
+      "updated": "2026-10-22T02:47:41.966Z",
       "reworkCount": 0
     },
     {
@@ -277,11 +277,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "North-edge gateway. Not the night.",
-      "updated": "2026-10-21T18:53:36.522Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo. Page skipped.",
+      "updated": "2026-10-22T02:47:42.136Z",
       "reworkCount": 0
     },
     {
@@ -689,100 +689,164 @@
   "claim": null,
   "log": [
     {
-      "at": "2026-10-21T18:53:36.522Z",
+      "at": "2026-10-22T02:47:42.136Z",
       "place": "ba-be",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: the next Long Tong civil date, a festival fee, Sac Thu's calendar, and drive times to Cao Bang and Na Hang."
+      "stage": "quality",
+      "item": "ba-be--cho-ra",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. Page skipped."
     },
     {
-      "at": "2026-10-21T18:53:25.812Z",
+      "at": "2026-10-22T02:47:42.079Z",
       "place": "ba-be",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: the hour the village goes quiet."
+      "stage": "copy",
+      "item": "ba-be--cho-ra",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. Page skipped."
     },
     {
-      "at": "2026-10-21T18:53:25.592Z",
+      "at": "2026-10-22T02:47:42.024Z",
       "place": "ba-be",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a closing hour, and whether the 2019 night market still opens."
+      "stage": "page",
+      "item": "ba-be--cho-ra",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. Page skipped."
     },
     {
-      "at": "2026-10-21T18:53:25.388Z",
+      "at": "2026-10-22T02:47:41.967Z",
       "place": "ba-be",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: stall prices, a definition of khau may, how mien dong is served, and a reloaded national-tourism food article."
+      "stage": "quality",
+      "item": "ba-be--tat-ma",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. Dau Dang is a different fall. Page skipped."
     },
     {
-      "at": "2026-10-21T18:53:24.510Z",
+      "at": "2026-10-22T02:47:41.911Z",
       "place": "ba-be",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a park tariff and opening hours, one agreed lake measurement, Na Phoong cave, and the Phieng Phang farm visit."
+      "stage": "copy",
+      "item": "ba-be--tat-ma",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. Dau Dang is a different fall. Page skipped."
     },
     {
-      "at": "2026-10-21T18:53:23.868Z",
+      "at": "2026-10-22T02:47:41.852Z",
       "place": "ba-be",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a door-to-door drive minute, a Vietnam Railways timetable, a My Dinh yard timetable, and a road-closure calendar."
+      "stage": "page",
+      "item": "ba-be--tat-ma",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. Dau Dang is a different fall. Page skipped."
     },
     {
-      "at": "2026-10-21T18:53:00.998Z",
+      "at": "2026-10-22T02:47:41.795Z",
       "place": "ba-be",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Long Tong and the side-trip list are in. The next civil date, festival fee, and drive times to Cao Bang and Na Hang are still open."
+      "stage": "quality",
+      "item": "ba-be--hua-ma",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. The Puong boat is a different cave. Page skipped."
     },
     {
-      "at": "2026-10-21T18:53:00.630Z",
+      "at": "2026-10-22T02:47:41.735Z",
       "place": "ba-be",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The ordinary day is the house and the boat. The hour the village goes quiet is still open."
+      "stage": "copy",
+      "item": "ba-be--hua-ma",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. The Puong boat is a different cave. Page skipped."
     },
     {
-      "at": "2026-10-21T18:53:00.454Z",
+      "at": "2026-10-22T02:47:41.679Z",
       "place": "ba-be",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The evening is the stilt house. A closing hour and a current night market are still open."
+      "stage": "page",
+      "item": "ba-be--hua-ma",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. The Puong boat is a different cave. Page skipped."
     },
     {
-      "at": "2026-10-21T18:53:00.271Z",
+      "at": "2026-10-22T02:47:41.625Z",
       "place": "ba-be",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Dishes and three food places are in. Stall prices, a khau may definition, and a current night-market calendar are still open."
+      "stage": "quality",
+      "item": "ba-be--ao-tien",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. Page skipped."
     },
     {
-      "at": "2026-10-21T18:52:44.749Z",
+      "at": "2026-10-22T02:47:41.569Z",
       "place": "ba-be",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Lake, caves, fall, and villages are in. A park tariff, opening hours, and one agreed lake measurement are still open."
+      "stage": "copy",
+      "item": "ba-be--ao-tien",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. Page skipped."
     },
     {
-      "at": "2026-10-21T18:52:44.116Z",
+      "at": "2026-10-22T02:47:41.511Z",
       "place": "ba-be",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and the road from Hanoi are in. Drive minutes, a rail timetable, and a park tariff are still open."
+      "stage": "page",
+      "item": "ba-be--ao-tien",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. Page skipped."
+    },
+    {
+      "at": "2026-10-22T02:47:41.455Z",
+      "place": "ba-be",
+      "stage": "quality",
+      "item": "ba-be--widow-island",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. An unnamed island is not Widow Island. Page skipped."
+    },
+    {
+      "at": "2026-10-22T02:47:41.398Z",
+      "place": "ba-be",
+      "stage": "copy",
+      "item": "ba-be--widow-island",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. An unnamed island is not Widow Island. Page skipped."
+    },
+    {
+      "at": "2026-10-22T02:47:41.342Z",
+      "place": "ba-be",
+      "stage": "page",
+      "item": "ba-be--widow-island",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. An unnamed island is not Widow Island. Page skipped."
+    },
+    {
+      "at": "2026-10-22T02:47:41.284Z",
+      "place": "ba-be",
+      "stage": "quality",
+      "item": "ba-be--an-ma",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. An unnamed island is not An Ma. Page skipped."
+    },
+    {
+      "at": "2026-10-22T02:47:41.226Z",
+      "place": "ba-be",
+      "stage": "copy",
+      "item": "ba-be--an-ma",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. An unnamed island is not An Ma. Page skipped."
+    },
+    {
+      "at": "2026-10-22T02:47:41.172Z",
+      "place": "ba-be",
+      "stage": "page",
+      "item": "ba-be--an-ma",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. An unnamed island is not An Ma. Page skipped."
+    },
+    {
+      "at": "2026-10-22T02:47:41.116Z",
+      "place": "ba-be",
+      "stage": "quality",
+      "item": "ba-be--bo-lu",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. The lake frame is a different subject. Page skipped."
+    },
+    {
+      "at": "2026-10-22T02:47:41.057Z",
+      "place": "ba-be",
+      "stage": "copy",
+      "item": "ba-be--bo-lu",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. The lake frame is a different subject. Page skipped."
     }
   ]
 }

@@ -1,0 +1,60 @@
+{
+  "slug": "puong-cave",
+  "placeSlug": "ba-be",
+  "name": "Puong Cave",
+  "nameVi": "Động Puông",
+  "kicker": "Boat passage on the Nang River",
+  "summary": "Sit in the boat while it goes through the Nang, under the limestone of Lung Nham. The park measures the cave at 300 m long, with a ceiling of 30–40 m and an average width of about 30 m. It is about 1 km downstream from ben Buoc Lom. Footsteps, torchlight, and talking wake the bats. No cave ticket was on the park page, so the fee is check on arrival.",
+  "dots": 4,
+  "timeNeeded": "Part of the boat circuit",
+  "fee": "Check on arrival",
+  "getThere": "About 1 km down the Nang from ben Buoc Lom. Minutes are check on arrival.",
+  "bestMonths": "Year round",
+  "district": "The Nang",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The cave mouth from the boat, with the river and the cliff beyond",
+  "notice": {
+    "title": "Quiet under the bats",
+    "body": "The park says footsteps, torchlight, and talking wake the colony. The visit is the boat under the ceiling."
+  },
+  "body": [
+    "You stay seated while the boat goes through. Stalactites hang over the water. The park tells the Tai Ngao story: the Nang was blocked, a giant cut the mountain, and the rock he threw back became Dau Dang. The park page puts the cave at xa Ba Be, tinh Thai Nguyen, northeast of the lake under the limestone of Lung Nham. The older national tourism note still says huyen Ba Be, tinh Bac Kan, and 5 km from thi tran Cho Ra.",
+    "The park location page measures 300 m long, a ceiling of 30–40 m, and an average width of about 30 m. The national tourism note does not repeat those metres. The park counts 23 bat species and hàng vạn animals. The national tourism note says hàng chục vạn. Both counts stay on the page. The through-ride is part of the boat circuit. A separate “about two hours” on a newspaper interview was not a park clock, so the time on site is check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "ba-be-puong-cave-2",
+      "caption": "The river and the cliff, seen from inside the mouth",
+      "alt": "Looking out of Puong Cave at the Nang River and a forested limestone cliff"
+    }
+  ],
+  "gettingThere": [
+    "From a night at Pac Ngoi the boatman joins this to the lake circuit. The park names ben Buoc Lom as the start for the cave, about 1 km down the Nang. The national tourism note measures the cave as 5 km from the old town of Cho Ra. That figure is the cave, not a walk from the market to Pac Ngoi."
+  ],
+  "legs": [
+    {
+      "heading": "From ben Buoc Lom",
+      "body": "By boat, about 1 km down the Nang. A minute count for that kilometre was not on the park page. The minutes are check on arrival."
+    },
+    {
+      "heading": "From Cho Ra",
+      "body": "The national tourism note says 5 km from thi tran Cho Ra. That page still places the cave in Bac Kan. Minutes and a fare are check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "admissionNote": "No cave ticket was on the park page. The fee is check on arrival.",
+  "links": [
+    {
+      "label": "Puong Cave",
+      "url": "https://babetourism.vn/locations/he-tho-ng-hang-do-ng-vuon-quoc-gia-ba-be",
+      "note": "Ba Be National Park location page"
+    },
+    {
+      "label": "National tourism note",
+      "url": "https://vietnamtourism.vn/index.php/tourism/items/1424",
+      "note": "Cuc Du lich Quoc gia Viet Nam. Its bat count disagrees with the park"
+    }
+  ],
+  "interests": ["caves"]
+}
