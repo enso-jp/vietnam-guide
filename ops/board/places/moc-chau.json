@@ -830,7 +830,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "moc-chau",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-22T02:13:56.869Z",
+    "by": "moc-chau-page",
+    "branch": "cursor/moc-chau-page-3bb6"
+  },
   "log": [
     {
       "at": "2026-10-21T18:43:01.401Z",
