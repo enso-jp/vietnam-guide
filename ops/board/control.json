@@ -1,12 +1,19 @@
 {
   "version": 2,
-  "updated": "2026-10-21T04:32:27.903Z",
+  "updated": "2026-10-22T02:10:32.546Z",
   "pause": false,
   "pauseReason": "",
   "claimStaleHours": 3,
   "maxOpenContentPrs": 4,
   "parallelUnits": 4,
-  "holdPlaces": [],
+  "holdPlaces": [
+    "con-dao",
+    "quy-nhon",
+    "pu-luong",
+    "ba-be",
+    "my-tho",
+    "moc-chau"
+  ],
   "log": [
     {
       "at": "2026-10-21T03:39:17.628Z",
