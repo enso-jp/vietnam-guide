@@ -134,10 +134,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Hill page. Both heights and both years kept. Fee and hours Check on arrival. Dot 4 on a new record. 1627 was not used.",
-      "updated": "2026-10-22T04:55:10.445Z",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "100 m and 105 m, 1716 and 1695, both kept. Fee and hours Check on arrival. 1627 was not used. Dot 4 on the new record.",
+      "updated": "2026-10-22T04:55:46.661Z",
       "reworkCount": 0
     },
     {
@@ -577,6 +577,22 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-22T04:55:46.662Z",
+      "place": "quang-ngai",
+      "stage": "quality",
+      "item": "quang-ngai--thien-an",
+      "status": "checked",
+      "note": "100 m and 105 m, 1716 and 1695, both kept. Fee and hours Check on arrival. 1627 was not used. Dot 4 on the new record."
+    },
+    {
+      "at": "2026-10-22T04:55:46.598Z",
+      "place": "quang-ngai",
+      "stage": "copy",
+      "item": "quang-ngai--thien-an",
+      "status": "enriched",
+      "note": "Standing figure crop keeps the face and the gesture. Both heights and both years stay."
+    },
+    {
       "at": "2026-10-22T04:55:10.412Z",
       "place": "quang-ngai",
       "stage": "page",
@@ -719,22 +735,6 @@
       "item": null,
       "status": "stored",
       "note": "left out bar brands, drink prices, and the quiet hour on nights the street is dark."
-    },
-    {
-      "at": "2026-10-22T04:18:14.680Z",
-      "place": "quang-ngai",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "left out stall prices, the ram bắp method, market hours, a provincial page for bánh ít lá gai, and shop names as picks."
-    },
-    {
-      "at": "2026-10-22T04:18:14.030Z",
-      "place": "quang-ngai",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "left out Núi Răng Cưa, Chùa Ông, the provincial museum, Minh Đức, official Sơn Mỹ fees and hours, and minutes from the center."
     }
   ]
 }
