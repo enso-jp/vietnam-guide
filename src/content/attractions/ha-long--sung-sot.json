@@ -2,12 +2,59 @@
   "slug": "sung-sot",
   "placeSlug": "ha-long",
   "name": "Sung Sot Cave",
-  "summary": "A large cave included on many boat loops. Paths are paved and can be crowded at midday.",
+  "nameVi": "Hang Sửng Sốt",
+  "kicker": "The wide cave on the long boat",
+  "summary": "You climb a steep shaded path into the cave the port calls the widest yet found on the bay, on the Bồ Hòn line, 20 m above the sea. The port says a freshwater lake is in the first chamber and a stalagmite like Quan Âm is in the last. Route 2 is 5–6 hours for Ti Tốp, this cave, and Luồn together.",
   "dots": 3,
-  "timeNeeded": "45 minutes",
-  "fee": "Usually inside the boat ticket",
-  "getThere": "By tour boat",
-  "interests": [
-    "caves"
-  ]
+  "district": "The long boat",
+  "timeNeeded": "Inside a 5–6 hour route",
+  "fee": "No separate cave ticket",
+  "getThere": "Route 2 boat from the Ha Long passenger port",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The lit chamber, with the crowd small under the ceiling",
+  "notice": {
+    "title": "20 metres is also Thien Cung",
+    "body": "The port puts Sửng Sốt 20 m above the sea, and puts Thiên Cung 20 m above the sea on the other route. Both figures stay. The path here is steep."
+  },
+  "body": [
+    "The landing is on the Bồ Hòn line. You climb into the chamber the port calls the widest yet found. A freshwater lake is in the first chamber. A stalagmite like Quan Âm is in the last. The path is steep.",
+    "The clock is route 2, 5–6 hours for Ti Tốp, Sửng Sốt, and Luồn together. A minute in this cave alone was not printed. A gate hour was not printed. Check on arrival. Thiên Cung is also 20 m above the sea. That is a different cave, on route 1."
+  ],
+  "figures": [
+    {
+      "id": "ha-long-sung-sot-2",
+      "caption": "Another chamber on the same visit, with the crowd under the formations",
+      "alt": "Visitors in a chamber of Sung Sot Cave, Ha Long Bay"
+    }
+  ],
+  "gettingThere": [
+    "Route 2 from Cảng tàu khách quốc tế Hạ Long. The English port line is Beach road, New Beach, Bai Chay ward, 500 m from Sun World. The route is 5–6 hours for Ti Tốp, Sửng Sốt, and Luồn together."
+  ],
+  "legs": [
+    {
+      "heading": "From the Ha Long port",
+      "body": "The route-2 boat. Do not treat a published 45-minute line as the clock. The port’s clock is the whole route. A minute in the cave was not printed."
+    }
+  ],
+  "hours": "Check on arrival. A gate hour for this cave alone was not printed.",
+  "closed": "No weekly closing day was printed. Confirm the sailing the day you go.",
+  "admissionNote": "No separate cave price. Route 2 on the 15 March 2024 page is 490,000–510,000 đồng, split on that page as 310,000 sightseeing and 200,000 boat. The port fee on that page runs 40,000–60,000 đồng, and the page also says 60,000 of the 310,000 is the port fee. Children 7 to 15 are reduced 20 percent on that sentence. The 17 July 2023 board notice says 7 to under 16. Both stay. From 10 December 2025 a bay ticket needs an identity card or a passport.",
+  "links": [
+    {
+      "label": "Route 2",
+      "url": "https://halongport.vn/thong-tin-tuyen-tham-quan-so-2-cang-tau-khu-trung-tam-bao-ton-cong-vien-hang-dong/",
+      "note": "Ha Long passenger port"
+    },
+    {
+      "label": "Bay fees",
+      "url": "https://dulich.quangninh.gov.vn/Trang/ChiTietTinTuc.aspx?nid=4198",
+      "note": "Tourism page, 15 March 2024"
+    },
+    {
+      "label": "Discounts",
+      "url": "https://quangninh.gov.vn/chuyen-de/chuyendoiso/Trang/ChiTietTinTuc.aspx?nid=124635",
+      "note": "Heritage board, from 17 July 2023"
+    }
+  ],
+  "interests": ["caves"]
 }

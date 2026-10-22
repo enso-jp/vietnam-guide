@@ -2,24 +2,25 @@
   "slug": "ha-long",
   "placeSlug": "ha-long",
   "name": "Ha Long resort living",
-  "summary": "Overnight boats and Bai Chay harbor hotels when the karst bay is the stay, not a Hanoi day trip.",
+  "summary": "The stay is a night on the bay after the day boats, or a room in Bãi Cháy before an early pier. The published overnight line does not name a boat.",
   "body": [
-    "A resort stay here is often the cabin on the water. Bai Chay city hotels suit an early pier start.",
-    "Vinpearl on Reu Island and Wyndham Legend Halong are on their operator sites but lack a distinct licensed photo here, so they are not named below."
+    "You sleep aboard, or you sleep in phường Bãi Cháy and board in the morning. The 15 March 2024 tourism page prints an overnight average of 600,000–800,000 đồng a person. It does not say what that ticket includes.",
+    "Tuần Châu is the other port in the same notice. A room in phường Bãi Cháy is the early start, before you board."
   ],
   "properties": [
     {
-      "name": "Paradise Elegance",
-      "summary": "Overnight cruise in Ha Long Bay with balcony cabins, departing Tuan Chau Marina.",
-      "photo": "resort-ha-long-paradise-elegance",
+      "name": "A night on the bay",
+      "summary": "Overnight on the bay averages 600,000–800,000 đồng a person on the 15 March 2024 tourism page. The page does not name a boat and does not list what the ticket includes.",
+      "photo": "ha-long",
+      "area": "On the water",
       "sources": [
         {
-          "label": "Paradise Vietnam cruise page",
-          "url": "https://www.paradisevietnam.com/en/halong-bay-cruise-2-days-1-night"
+          "label": "Bay fees and the overnight range",
+          "url": "https://dulich.quangninh.gov.vn/Trang/ChiTietTinTuc.aspx?nid=4198"
         }
       ]
     }
   ],
-  "seoTitle": "Ha Long Bay luxury stays — Paradise Elegance overnight cruise",
-  "seoDescription": "Sourced premium Ha Long stay: Paradise Elegance overnight cruise from Tuan Chau Marina."
+  "seoTitle": "Ha Long resort living — a night on the bay",
+  "seoDescription": "The Ha Long stay is a night on the bay at 600,000–800,000 đồng a person, or a room in Bãi Cháy before the boat. No boat brand is named."
 }

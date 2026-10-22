@@ -3,14 +3,36 @@
   "name": "Hanoi to Ha Long",
   "from": "Hanoi",
   "to": "Ha Long",
-  "summary": "The bay is a half-day transfer from Hanoi. A through ticket to a boat is smoother than arriving in the city and negotiating at the harbor.",
+  "summary": "The road is the usual way from Hanoi to the Bãi Cháy piers. A door-to-harbor minute was not printed. The investor’s about 2.5 hours is Hanoi to Van Don, not this harbor.",
   "modes": [
-    { "mode": "Limousine or car", "duration": "2.5–4 hours", "note": "The usual choice. Traffic on the way out of Hanoi decides the hour.", "partner": "bus", "partnerPath": "hanoi/halong" },
-    { "mode": "Day tour", "duration": "12–14 hours", "note": "Leaves before dawn and returns at night. Check how many hours are actually on the water." }
+    {
+      "mode": "Road",
+      "duration": "Check on arrival",
+      "note": "A door-to-harbor minute from Hanoi was not printed. The expressway investor’s about 2.5 hours, down from 5 hours, is Hanoi to Van Don on the Hạ Long–Vân Đồn section of nearly 60 km. It is not a clock to the Bãi Cháy piers.",
+      "partner": "bus",
+      "partnerPath": "hanoi/halong"
+    },
+    {
+      "mode": "Van Don airport",
+      "duration": "Check on arrival",
+      "note": "About 50 km from thành phố Hạ Long and about 15 km from Cái Rồng, on the airline page. The road minute to the harbor was not printed. Buses 14A and 14B are about 3,000–10,000 đồng. The page does not name the harbor stop."
+    },
+    {
+      "mode": "Rail",
+      "duration": "Check on arrival",
+      "note": "A Đường sắt Việt Nam page for Kép–Hạ Long exists. No departure was printed."
+    }
   ],
-  "seoTitle": "Hanoi to Ha Long — car, bus, and day boats",
-  "seoDescription": "How long Hanoi to Ha Long takes by road, and how to judge a day-tour boat.",
+  "seoTitle": "Hanoi to Ha Long — the harbor minute is check on arrival",
+  "seoDescription": "Hanoi to the Ha Long piers has no printed door-to-harbor minute. About 2.5 hours is the investor’s Hanoi–Van Don claim. A Kép–Hạ Long rail page exists, with no departure.",
   "faqs": [
-    { "q": "Is there a train to Ha Long?", "a": "Not as a visitor service to the harbor. The road is the way." }
+    {
+      "q": "Is there a train to Ha Long?",
+      "a": "A Đường sắt Việt Nam page for the Kép–Hạ Long line exists. No departure was printed. Check on arrival."
+    },
+    {
+      "q": "Is it two and a half hours from Hanoi?",
+      "a": "That figure is the expressway investor’s claim for Hanoi to Van Don, not a printed minute to the Bãi Cháy piers. Check on arrival."
+    }
   ]
 }

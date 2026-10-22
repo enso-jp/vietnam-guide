@@ -1,0 +1,54 @@
+{
+  "slug": "quang-ninh-museum",
+  "placeSlug": "ha-long",
+  "name": "Quang Ninh Museum",
+  "nameVi": "Bảo tàng Quảng Ninh",
+  "kicker": "The coal-block building on Cua Luc",
+  "summary": "You walk a building the operator compares to blocks of coal, by architect Salvador Pérez Arroyo, on the shore of Vịnh Cửa Lục. The page says more than 30,000 objects. The museum’s address line is phường Hạ Long, Thành phố Quảng Ninh. OpenStreetMap puts the building in phường Hồng Gai. Both ward lines stay. Hours are 8:00–12:00 and 13:00–17:00.",
+  "dots": 3,
+  "district": "Hong Gai",
+  "timeNeeded": "Check on arrival",
+  "fee": "Adult 40,000 đồng",
+  "getThere": "Đường Trần Quốc Nghiễn. A minute from Bai Chay was not printed.",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The facade, with the words Bảo tàng Quảng Ninh",
+  "notice": {
+    "title": "Two ward lines",
+    "body": "The museum says phường Hạ Long, Thành phố Quảng Ninh. OpenStreetMap says phường Hồng Gai. Both stay. The homepage label “2013 năm thành lập” is the homepage’s label."
+  },
+  "body": [
+    "The building sits on Đường Trần Quốc Nghiễn, compared by the operator to blocks of coal, facing Vịnh Cửa Lục. Salvador Pérez Arroyo is the architect. The page says more than 30,000 objects. The homepage prints “2013 năm thành lập”.",
+    "Hours are 8:00–12:00 and 13:00–17:00. A closed weekday was not printed. The library line “7 ngày/tuần” is the library, not the museum. A minute inside the galleries was not printed. Check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "ha-long-quang-ninh-museum-2",
+      "caption": "The facade from the side, with the coal lump and the lettering",
+      "alt": "Quang Ninh Museum from an angle, with the coal form and the sign"
+    }
+  ],
+  "gettingThere": [
+    "Đường Trần Quốc Nghiễn. Walk if you are already on the Hồng Gai shore. From Bãi Cháy you cross Cầu Bãi Cháy. A minute was not printed. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the Hong Gai shore",
+      "body": "On Trần Quốc Nghiễn. The museum’s own page says phường Hạ Long. The map node says phường Hồng Gai."
+    },
+    {
+      "heading": "From Bai Chay",
+      "body": "Across Cầu Bãi Cháy. A minute was not printed. Check on arrival."
+    }
+  ],
+  "hours": "8:00–12:00 and 13:00–17:00.",
+  "closed": "No closed weekday was printed. The library line “7 ngày/tuần” is the library, not the museum.",
+  "admissionNote": "The operator cites Nghị quyết 131/2018/NQ-HĐND. Adult 40,000 đồng. University, college, and vocational students 20,000 đồng. Children 7–16 and school pupils 10,000 đồng.",
+  "links": [
+    {
+      "label": "Quang Ninh Museum",
+      "url": "https://baotangthuvienquangninh.vn/vi",
+      "note": "Museum and library"
+    }
+  ],
+  "interests": ["photography"]
+}

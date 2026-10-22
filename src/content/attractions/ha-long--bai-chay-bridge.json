@@ -1,0 +1,54 @@
+{
+  "slug": "bai-chay-bridge",
+  "placeSlug": "ha-long",
+  "name": "Bai Chay Bridge",
+  "nameVi": "Cầu Bãi Cháy",
+  "kicker": "The span between the two shores",
+  "summary": "You cross Cầu Bãi Cháy, or you see the span from the Queen cable car over Cửa Lục. The bridge carries Quốc lộ 18 in phường Bãi Cháy. A length, a year, a toll, and a crossing time were not printed. Come in daylight if the photograph is the point. The opened frame is dusk, and the span still reads.",
+  "dots": 3,
+  "district": "Cua Luc",
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Quốc lộ 18, between Bai Chay and the Hong Gai shore",
+  "verified": "22 Oct 2026",
+  "heroCaption": "Both pylons and the deck at dusk",
+  "notice": {
+    "title": "No printed toll",
+    "body": "A length, a year, and a toll were not printed. Check on arrival. The cable-car account says you see the span from the cabin."
+  },
+  "body": [
+    "The bridge is the link between Bãi Cháy and the Hồng Gai shore. Quốc lộ 18 uses it. From the Queen cable car you look down on the span as you cross Cửa Lục.",
+    "A crossing time was not printed. Check on arrival. Keep both pylons in view if you are here for the photograph."
+  ],
+  "figures": [
+    {
+      "id": "ha-long-bai-chay-bridge-2",
+      "caption": "Both pylons and the deck, with a boat in front",
+      "alt": "Bai Chay Bridge across the water, both pylons visible"
+    }
+  ],
+  "gettingThere": [
+    "Quốc lộ 18, phường Bãi Cháy. Between the shores this is the road bridge. A walk minute was not printed. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "Between the shores",
+      "body": "Quốc lộ 18. A crossing time and a toll were not printed. Check on arrival."
+    },
+    {
+      "heading": "From the cable car",
+      "body": "The cabin crosses Cửa Lục from Ga Đại Dương to Ga Mặt Trời. The span is in that view. The ride is about 5 minutes in the 9 October 2026 article."
+    }
+  ],
+  "hours": "Check on arrival. A crossing time was not printed.",
+  "closed": "No weekly closing day was printed.",
+  "admissionNote": "A toll was not printed. Check on arrival. The cable-car fares are a different ticket. See the Queen cable car for those prices.",
+  "links": [
+    {
+      "label": "Ha Long port",
+      "url": "https://halongport.vn/?lang=en",
+      "note": "English port page. The bridge is the road between the shores."
+    }
+  ],
+  "interests": ["photography"]
+}
