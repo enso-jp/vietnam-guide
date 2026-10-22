@@ -1731,6 +1731,8 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   .menu-col summary::after { display: none; }
   .bar { grid-template-columns: 1fr auto 1fr; }
   .nav-slot > a { padding: 0.4rem 0.7rem; }
+  /* The backdrop is an inline button. On desktop it opened a gap under the bar and the hover panel closed before the pointer could cross it. */
+  .phone-backdrop { display: none; }
   .nav-slot:hover > .nav-panel,
   .nav-slot:focus-within > .nav-panel { display: block; }
   .desk-nav:hover .nav-slot:not(:hover) > .nav-panel { display: none; }
