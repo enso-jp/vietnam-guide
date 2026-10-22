@@ -19,21 +19,21 @@
   },
   "stages": {
     "destination": {
-      "status": "shell",
-      "note": "A place file exists. It has not been set up from a stored dossier.",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell from the stored dossier. Lat and lng unset. No food guide: no licensed plate or room photo. Side trips Ha Tien, Rach Gia, and Nam Du have no place slug. Long Beach and Sao are the only sight cards.",
+      "updated": "2026-10-22T17:35:16.820Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T17:16:00.686Z",
+      "status": "enriched",
+      "note": "Hero kept: Long Beach storm frame, surf, palms, and the shore building. Portrait crop phu-quoc-west-shore keeps that building for the tall card. Sao stays the second card. No hotel names.",
+      "updated": "2026-10-22T17:36:22.952Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T17:16:00.686Z",
+      "status": "checked",
+      "note": "Read against the dossier. Lat and lng unset. Sand colours, hectares, litres, and both cable-car tariffs are on the record. No food chip.",
+      "updated": "2026-10-22T17:36:23.032Z",
       "reworkCount": 0
     },
     "food": {
@@ -894,15 +894,32 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "phu-quoc",
-    "stage": "destination",
-    "item": null,
-    "at": "2026-10-22T17:29:05.709Z",
-    "by": "hourly",
-    "branch": ""
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T17:36:23.032Z",
+      "place": "phu-quoc",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Read against the dossier. Lat and lng unset. Sand colours, hectares, litres, and both cable-car tariffs are on the record. No food chip."
+    },
+    {
+      "at": "2026-10-22T17:36:22.953Z",
+      "place": "phu-quoc",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Hero kept: Long Beach storm frame, surf, palms, and the shore building. Portrait crop phu-quoc-west-shore keeps that building for the tall card. Sao stays the second card. No hotel names."
+    },
+    {
+      "at": "2026-10-22T17:35:16.821Z",
+      "place": "phu-quoc",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place shell from the stored dossier. Lat and lng unset. No food guide: no licensed plate or room photo. Side trips Ha Tien, Rach Gia, and Nam Du have no place slug. Long Beach and Sao are the only sight cards."
+    },
     {
       "at": "2026-10-22T17:16:00.686Z",
       "place": "phu-quoc",
