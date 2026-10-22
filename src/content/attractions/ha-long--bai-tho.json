@@ -1,0 +1,35 @@
+{
+  "slug": "bai-tho",
+  "placeSlug": "ha-long",
+  "name": "Poem Mountain",
+  "nameVi": "Núi Bài Thơ",
+  "kicker": "The hill over Cua Luc",
+  "summary": "You look at a 106 m hill over Cửa Lục. Three sides are houses. The west and south meet the bay. The cluster includes chùa Long Tiên, đền Đức Ông, the old post office center, a 12.7 mm gun site, and air-raid caves 1 through 6. A Party flag was raised here on the morning of 1 May 1930. A visit time and a fee were not printed.",
+  "dots": 4,
+  "district": "Hong Gai",
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "On the Hong Gai shore. A minute from Bai Chay was not printed.",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The hill, the flag, the roofs, and the bay",
+  "gettingThere": [
+    "The cluster page places the hill in phường Hồng Gai. From Bãi Cháy you cross Cầu Bãi Cháy. A walk minute was not printed. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Bai Chay",
+      "body": "Across Cầu Bãi Cháy to the Hồng Gai shore. A minute was not printed. Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival. A visit time was not printed. Daylight, so the flag and the hill read together.",
+  "closed": "No weekly closing day was printed.",
+  "admissionNote": "A fee was not printed. Check on arrival. The hill was ranked a national relic by Quyết định 1140-QĐ/BT on 31 August 1992. Chùa Long Tiên, built in 1941 under the Nguyễn court with a three-door gate, shares that ranking. Đền Đức Ông shares it too. The temple courtyard is 2,531.8 m² in a 2011 decision and 2,689.8 m² in a 2013 adjustment.",
+  "links": [
+    {
+      "label": "Poem Mountain cluster",
+      "url": "https://www.quangninh.gov.vn/Trang/ChiTietBVGioiThieu.aspx?bvid=537",
+      "note": "Quang Ninh portal"
+    }
+  ],
+  "interests": ["warHistory", "pagodas"]
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "sun-world",
+  "placeSlug": "ha-long",
+  "name": "Queen Cable Car",
+  "nameVi": "Cáp treo Nữ Hoàng",
+  "kicker": "The cabin across Cua Luc",
+  "summary": "You ride from Ga Đại Dương in Bãi Cháy across Cửa Lục to Ga Mặt Trời on đồi Ba Đèo. Sun World Hạ Long is at Số 9 đường Hạ Long, about 9 km from the center on the operator page, and 500 m from the port on the port page. The complex is 214 ha. The ride is about 5 minutes in the 9 October 2026 article. Do not pick one ticket or one length.",
+  "dots": 3,
+  "district": "Cua Luc",
+  "timeNeeded": "About 5 minutes for the ride",
+  "fee": "Several 2026 prices",
+  "getThere": "Số 9 đường Hạ Long, phường Bãi Cháy",
+  "verified": "22 Oct 2026",
+  "heroCaption": "A Queen Cable Car cabin at the station",
+  "notice": {
+    "title": "Weekday cable car opens at 14:00",
+    "body": "On the operator guide the Monday–Friday cable car is 14:00–20:00. Saturday and Sunday it is 09:00–20:00. Dragon Park and Typhoon Water Park are 09:00–18:00. A weekday plan that starts the cable car at 09:00 wastes the morning."
+  },
+  "body": [
+    "The cabin leaves Ga Đại Dương and arrives at Ga Mặt Trời on đồi Ba Đèo. The operator prints the length as 2.2 km. A 9 October 2026 article quoting Sun World prints 2.222 km and about 5 minutes. The pillar is 188.88 m on the operator page and on the airline sheet. The airline sheet adds a cabin of 230 people. The operator page says the largest cabin and does not print 230 in the section read. Groundbreaking was 2 September 2014. Service was from June 2016. The operator also describes Dragon Park, Typhoon Water Park, a wheel at 215 m with a 15-minute turn, a Japanese-style garden, and a sword-village display.",
+    "Prices do not collapse. The operator table for 1 June–31 July 2026, child 1 m–1.4 m, is cable car 380,000 / 280,000 đồng, Dragon Park 300,000 / 200,000, and the water park 350,000 / 250,000. The airline sheet from 29 July 2026, VAT not included, is cable car adult 340,000 and child 250,000. A reseller table for 1 October–31 December 2026 still prints adult two-way 380,000 and says Dragon Park and the water park had stopped. The operator guide still describes those parks and still prints their hours. Some rides and the Sun wheel rest from 12:00 to 13:30. Maintenance was 5–9 October 2026, with reopening on 10 October 2026.",
+    "Meal combos are not the basic cable fare. Queen cable car plus a meal is 450,000 đồng for an adult and 350,000 for a child. Queen cable car plus the VUI-Fest set is 650,000 and 550,000. Queen cable car plus the Bavaria set is 750,000 and 650,000. Two-park combo is 500,000 and 400,000. Three-park combo is 600,000 and 500,000, for two consecutive days. The combo lines say trẻ em and do not repeat the 1 m–1.4 m height."
+  ],
+  "figures": [
+    {
+      "id": "ha-long-sun-world-2",
+      "caption": "Bai Chay Bridge from the cabin, through the glass",
+      "alt": "Bai Chay Bridge seen from inside the Queen Cable Car"
+    }
+  ],
+  "gettingThere": [
+    "Số 9 đường Hạ Long, phường Bãi Cháy. The operator says about 9 km from the center. The port says 500 m from Sun World. Both stay. They are not the same leg. Operator taxi from the center is 100,000–200,000 đồng one way. A motorbike is 120,000–150,000 đồng. Bus Phúc Xuyên số 03, Hòn Gai–Hoành Bồ, is 18,000 đồng. The weekday cable car does not open at 09:00."
+  ],
+  "legs": [
+    {
+      "heading": "From the center",
+      "body": "About 9 km on the operator page. Taxi 100,000–200,000 đồng one way. Motorbike 120,000–150,000 đồng. Bus 03 is 18,000 đồng."
+    },
+    {
+      "heading": "From the port",
+      "body": "The English port page says the port is 500 m from Sun World. That is not the 9 km leg from the center."
+    }
+  ],
+  "hours": "Operator: Monday–Friday cable car 14:00–20:00, Saturday–Sunday 09:00–20:00. Dragon Park and the water park 09:00–18:00. Some rides and the Sun wheel rest 12:00–13:30. The airline sheet prints the same cable hours and does not add an early close.",
+  "closed": "No weekly closing day is printed. Maintenance 5–9 October 2026, reopen 10 October 2026, is a dated closure.",
+  "admissionNote": "Do not pick one price. Operator, 1 June–31 July 2026, child 1 m–1.4 m: cable car 380,000 / 280,000 đồng; Dragon Park 300,000 / 200,000; water park 350,000 / 250,000. Airline sheet from 29 July 2026, VAT not included: cable car adult 340,000, child 250,000. Reseller, 1 October–31 December 2026: adult two-way 380,000, and a line that Dragon Park and the water park had stopped. The operator guide still describes those parks. Combos, not the basic fare: cable plus a meal 450,000 / 350,000; cable plus VUI-Fest 650,000 / 550,000; cable plus Bavaria 750,000 / 650,000; two parks 500,000 / 400,000; three parks 600,000 / 500,000 over two consecutive days.",
+  "links": [
+    {
+      "label": "Sun World Ha Long guide",
+      "url": "https://sunworld.vn/vi/ha-long/cam-nang-du-lich/kinh-nghiem-di-sun-world-halonghtml",
+      "note": "Operator"
+    },
+    {
+      "label": "Ha Long port",
+      "url": "https://halongport.vn/?lang=en",
+      "note": "500 m from Sun World, on the English page"
+    }
+  ],
+  "interests": ["family"]
+}

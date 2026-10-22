@@ -2,10 +2,54 @@
   "slug": "titop",
   "placeSlug": "ha-long",
   "name": "Ti Top Island",
-  "summary": "A short climb to a viewpoint over the karsts. The beach below is small.",
+  "nameVi": "Đảo Ti Tốp",
+  "kicker": "Sand and a climb on the long boat",
+  "summary": "The port says this is the only island in the bay named by Hồ Chí Minh, for the 1962 visit with Gherman Titov. You get a crescent of sand, a swim, a kayak, and a climb to the view. Route 2 is 5–6 hours for this island, Sửng Sốt, and Luồn together. A minute on the sand was not printed.",
   "dots": 3,
-  "timeNeeded": "45 minutes",
-  "fee": "Often inside the boat ticket",
-  "getThere": "By tour boat",
-  "interests": []
+  "district": "The long boat",
+  "timeNeeded": "Inside a 5–6 hour route",
+  "fee": "No separate island ticket",
+  "getThere": "Route 2 boat from the Ha Long passenger port",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The crescent of sand, the slope, and working boats",
+  "notice": {
+    "title": "Beach games have no printed price",
+    "body": "The port names beach games, and jet-ski and parachute rides are asked about. No price for them was printed. Check on arrival. The 5–6 hour clock covers Ti Tốp, Sửng Sốt, and Luồn together."
+  },
+  "body": [
+    "You land on the crescent. The port says Hồ Chí Minh named the island for the 1962 visit with the Soviet cosmonaut Gherman Titov. You can swim, kayak, and climb to the view. Beach games are named. No price for them was printed.",
+    "Do not treat a 45-minute line as the visit. The port’s clock is route 2, 5–6 hours for Ti Tốp, Sửng Sốt, and Luồn together. A minute on the island was not printed. A gate hour was not printed. Check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "ha-long-titop-2",
+      "caption": "The bay from the top, with foliage in front",
+      "alt": "Ha Long Bay seen from the top of Ti Top Island"
+    }
+  ],
+  "gettingThere": [
+    "Route 2 from Cảng tàu khách quốc tế Hạ Long. The English port line is Beach road, New Beach, Bai Chay ward, 500 m from Sun World. The route is 5–6 hours for this island, Sửng Sốt, and Luồn together."
+  ],
+  "legs": [
+    {
+      "heading": "From the Ha Long port",
+      "body": "The route-2 boat. On-island minutes were not printed. Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival. A gate hour was not printed. Go in the morning, before the midday boats stack on the sand.",
+  "closed": "No weekly closing day was printed. Confirm the sailing the day you go.",
+  "admissionNote": "No separate island price. Route 2 on the 15 March 2024 page is 490,000–510,000 đồng. Jet-ski and parachute prices were not printed. Check on arrival. From 10 December 2025 a bay ticket needs an identity card or a passport.",
+  "links": [
+    {
+      "label": "Route 2",
+      "url": "https://halongport.vn/thong-tin-tuyen-tham-quan-so-2-cang-tau-khu-trung-tam-bao-ton-cong-vien-hang-dong/",
+      "note": "Ha Long passenger port"
+    },
+    {
+      "label": "Bay fees",
+      "url": "https://dulich.quangninh.gov.vn/Trang/ChiTietTinTuc.aspx?nid=4198",
+      "note": "Tourism page, 15 March 2024"
+    }
+  ],
+  "interests": ["beaches", "family"]
 }

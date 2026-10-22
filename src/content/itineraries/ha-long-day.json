@@ -1,0 +1,24 @@
+{
+  "slug": "ha-long-day",
+  "title": "Ha Long on route 2",
+  "kind": "trip",
+  "level": "day",
+  "duration": "5–6 hours",
+  "spanDays": 1,
+  "placeSlug": "ha-long",
+  "budget": "Check on arrival",
+  "pace": "One boat",
+  "photo": "ha-long-titop",
+  "summary": "One boat from the Ha Long passenger port. The port clocks 5–6 hours for Ti Tốp, Sửng Sốt, and Luồn together. The 300 minutes on the row is five hours, the short end of that one clock, not a time on Ti Tốp alone.",
+  "stops": [
+    {
+      "name": "Ti Top, Sung Sot, and Luon",
+      "minutes": 300,
+      "placeSlug": "ha-long",
+      "attractionSlug": "titop",
+      "note": "The port clocks route 2 at 5–6 hours for Ti Tốp, Sửng Sốt, and Luồn together. 300 minutes is the short end of that shared clock. It is not a time ashore on Ti Tốp. Sửng Sốt and Luồn are the other two landings on the same boat. Route 2 on the 15 March 2024 page is 490,000–510,000 đồng."
+    }
+  ],
+  "seoTitle": "Ha Long in a day — route 2, five to six hours",
+  "seoDescription": "A Ha Long day on route 2: Ti Tốp, Sửng Sốt, and Luồn in one 5–6 hour clock. The fare is 490,000–510,000 đồng on the 15 March 2024 page."
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "thien-cung",
+  "placeSlug": "ha-long",
+  "name": "Thien Cung Cave",
+  "nameVi": "Động Thiên Cung",
+  "kicker": "Show cave on the short boat",
+  "summary": "You walk a show cave on đảo Đầu Gỗ, which the port calls a western edge of the heritage zone. The floor is about 3,000 m² and 20 m above the sea. The name means a heavenly palace because of the pale stalactites. Route 1 is 3–4 hours for this room, Đầu Gỗ, and Ba Hang together.",
+  "dots": 4,
+  "district": "The short boat",
+  "timeNeeded": "Inside a 3–4 hour route",
+  "fee": "No separate cave ticket",
+  "getThere": "Route 1 boat from the Ha Long passenger port",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The lit chamber, with a column and the ceiling in frame",
+  "notice": {
+    "title": "The clock is the whole route",
+    "body": "Route 1 is 3–4 hours for Thiên Cung, Đầu Gỗ, and Ba Hang together. A minute inside this cave was not printed. Check on arrival. Sửng Sốt is also 20 m above the sea on the other route. Both figures stay."
+  },
+  "body": [
+    "You land on đảo Đầu Gỗ and walk the chamber. The port says the floor is about 3,000 m², 20 m above the sea, and that the name means a heavenly palace because of the pale stalactites. The same boat then goes to Đầu Gỗ. Do not budget the day for this room alone.",
+    "Ba Hang is the end of the same route: three small notch caves close together, opening onto two salt lakes, by kayak or rowboat. A kayak price was not printed. Hòn Chó Đá and Hòn Đỉnh Hương are looked at from the deck. The port does not say the boat stops there. A gate hour for this cave alone was not printed. Check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "ha-long-thien-cung-2",
+      "caption": "Formations inside the chamber",
+      "alt": "Limestone formations inside Thien Cung Cave in Ha Long Bay"
+    }
+  ],
+  "gettingThere": [
+    "The boat is route 1 from Cảng tàu khách quốc tế Hạ Long. The English port line is Beach road, New Beach, Bai Chay ward, 500 m from Sun World. A road minute does not apply. The route is 3–4 hours for Thiên Cung, Đầu Gỗ, and Ba Hang together."
+  ],
+  "legs": [
+    {
+      "heading": "From the Ha Long port",
+      "body": "Route 1. The port’s clock is 3–4 hours for the three stops together. A minute on the island alone was not printed. Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival. A gate hour for this cave alone was not printed.",
+  "closed": "No weekly closing day was printed. Confirm the sailing the day you go.",
+  "admissionNote": "Check on arrival. The 15 March 2024 page prints route 1 at 440,000–460,000 đồng, parenthetically 310,000 sightseeing and 150,000 boat. Inside the 310,000, that page says 60,000 is the port fee and the remainder in that sentence is 250,000. People 60 and over are reduced 50 percent, and children from 7 to 15 are reduced 20 percent, on the port sentence. A 17 July 2023 board notice, a different instrument, says free under 1.2 m or under 7, half price for Vietnamese citizens 60 and over, and 20 percent off from age 7 to under 16. From 10 December 2025 a bay ticket needs an identity card or a passport.",
+  "links": [
+    {
+      "label": "Route 1",
+      "url": "https://halongport.vn/thong-tin-tuyen-tham-quan-so-1-cang-tau-khu-trung-tam-bao-ton-cong-vien-van-canh/",
+      "note": "Ha Long passenger port"
+    },
+    {
+      "label": "Bay fees",
+      "url": "https://dulich.quangninh.gov.vn/Trang/ChiTietTinTuc.aspx?nid=4198",
+      "note": "Tourism page, 15 March 2024"
+    },
+    {
+      "label": "Ha Long Bay - Cat Ba Archipelago",
+      "url": "https://whc.unesco.org/en/list/672/",
+      "note": "UNESCO"
+    }
+  ],
+  "interests": ["caves"]
+}

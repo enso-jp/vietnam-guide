@@ -1,0 +1,55 @@
+{
+  "slug": "luon",
+  "placeSlug": "ha-long",
+  "name": "Luon Cave",
+  "nameVi": "Hang Luồn",
+  "kicker": "A boat through the notch",
+  "summary": "You row or kayak through a notch at the foot of an island into a lake. This is the end of route 2, not a walking cave. The port names endemic plants and macaques, and Soi Nhụ shell layers 3–4 m above the water, dated 18,000–7,000 years on that page. The route is 5–6 hours with Ti Tốp and Sửng Sốt.",
+  "dots": 4,
+  "district": "The long boat",
+  "timeNeeded": "Inside a 5–6 hour route",
+  "fee": "No separate cave ticket",
+  "getThere": "Route 2 boat, then a small boat through the tunnel",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The notch at the waterline, with rowing boats",
+  "notice": {
+    "title": "You stay in the boat",
+    "body": "Do not walk in as you do at Sửng Sốt. The port puts you in a rowboat or a kayak. A kayak price was not printed. Check on arrival."
+  },
+  "body": [
+    "The notch goes through the foot of the island. You row or kayak into the lake. The port names endemic plants and macaques. On the same page, Soi Nhụ shell layers sit 3–4 m above the water and are dated 18,000–7,000 years.",
+    "The clock is the 5–6 hour route with Ti Tốp and Sửng Sốt. A minute in the tunnel alone was not printed. A kayak price was not printed. Check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "ha-long-luon-2",
+      "caption": "Inside the tunnel, with boats",
+      "alt": "Boats inside Hang Luon Cave in Ha Long Bay"
+    }
+  ],
+  "gettingThere": [
+    "Route 2 from Cảng tàu khách quốc tế Hạ Long, then a small boat. The route clock is 5–6 hours for Ti Tốp, Sửng Sốt, and Luồn together."
+  ],
+  "legs": [
+    {
+      "heading": "From the Ha Long port",
+      "body": "The route-2 boat, then a rowboat or a kayak. A kayak price was not printed. Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival. You go with route 2.",
+  "closed": "No weekly closing day was printed. Confirm the sailing the day you go.",
+  "admissionNote": "No separate price. Route 2 on the 15 March 2024 page is 490,000–510,000 đồng. A kayak price was not printed. From 10 December 2025 a bay ticket needs an identity card or a passport.",
+  "links": [
+    {
+      "label": "Route 2",
+      "url": "https://halongport.vn/thong-tin-tuyen-tham-quan-so-2-cang-tau-khu-trung-tam-bao-ton-cong-vien-hang-dong/",
+      "note": "Ha Long passenger port"
+    },
+    {
+      "label": "Bay fees",
+      "url": "https://dulich.quangninh.gov.vn/Trang/ChiTietTinTuc.aspx?nid=4198",
+      "note": "Tourism page, 15 March 2024"
+    }
+  ],
+  "interests": ["caves"]
+}
