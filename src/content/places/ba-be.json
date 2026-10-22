@@ -25,6 +25,7 @@
   },
   "cover": "highlands",
   "nearby": ["cao-bang", "hanoi"],
+  "foodSlug": "ba-be",
   "routeSlugs": [],
   "itinerarySlugs": ["ba-be-lake-day"],
   "seoTitle": "Ba Be travel guide — two nights on the mountain lake",
@@ -56,14 +57,27 @@
   ],
   "eat": [
     "The meal is the Tay table in the stilt house, not a cafe street. VOV lists grilled lake fish first, then sour shrimp, forest bamboo shoot, upland sticky rice, and roast suckling pig, with leaf-yeast wine when then singing is on. VnExpress says the fish is cleaned, seasoned, grilled over coals, and better hot. How the shrimp is soured, and the season for the bamboo shoot, were not on the page.",
-    "Five-colour sticky rice is the festival rice and a homestay rice. The plants that dye it are check on arrival. Bamboo-tube rice is split at the house. Pork hung over the kitchen fire is what VnExpress describes for guests and for Tet. Khau may is only a name on the district OCOP list. This page does not define it. Stall prices are check on arrival. The hamlet has few shops, so book the meal and carry water."
+    "Five-colour sticky rice is the festival rice and a homestay rice, and it is the only plate with a photograph. That photograph is the dish as taken in Sơn La. The plants that dye it are check on arrival. Bamboo-tube rice is split at the house. Pork hung over the kitchen fire is what VnExpress describes for guests and for Tet. Khau may is only a name on the district OCOP list. This page does not define it. Stall prices are check on arrival. The hamlet has few shops, so book the meal and carry water."
   ],
-  "dishSlugs": [],
+  "dishSlugs": ["xoi-ngu-sac"],
   "interestsBody": [
     "The morning is the lake, with a boat at the landing. The same circuit takes you through Puong Cave and, if it is the long one, to Dau Dang. The night is the stilt-house floor at Pac Ngoi, not a bar street.",
     "An Ma and Widow Island are landmarks on that boat. Neither has a licensed photograph of that island here, so they are not cards. Fairy Pond is a look, and a park post forbids swimming. Hua Ma Cave, Tat Ma, and Cho Ra have no licensed photograph of those sights here, so they stay off the grid."
   ],
   "interestGroups": [
+    {
+      "title": "Dining and F&B",
+      "summary": "Five-colour sticky rice is the plate with a photograph. The other Tay dishes are named and not pictured.",
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "Five-colour sticky rice is the plate with a photograph. The other Tay dishes are named and not pictured. The frame is the dish in Sơn La. Stall prices are check on arrival.",
+          "photo": "xoi-ngu-sac",
+          "icon": "food",
+          "to": "food"
+        }
+      ]
+    },
     {
       "title": "The lake at breakfast",
       "summary": "For a morning on the water, with limestone on the walls and a boat at the landing.",
@@ -74,7 +88,7 @@
         {
           "title": "Ba Be Lake",
           "summary": "Green water, limestone, and the boats at the landing. Come for the morning. The fee is check on arrival.",
-          "placeSlug": "ba-be",
+          "attractionSlug": "ba-be-lake",
           "photo": "ba-be-lake",
           "icon": "view"
         }
@@ -90,14 +104,14 @@
         {
           "title": "Puong Cave",
           "summary": "Sit in the boat while it goes through. Footsteps, torchlight, and talking wake the bats. The fee is check on arrival.",
-          "placeSlug": "ba-be",
+          "attractionSlug": "puong-cave",
           "photo": "ba-be-puong-cave",
           "icon": "view"
         },
         {
           "title": "Dau Dang",
           "summary": "White water on stacked rock, about 3 km west of the lake. The fish run is March and April. The fee is check on arrival.",
-          "placeSlug": "ba-be",
+          "attractionSlug": "dau-dang",
           "photo": "ba-be-dau-dang",
           "icon": "view"
         }
@@ -113,7 +127,7 @@
         {
           "title": "Pac Ngoi",
           "summary": "Stilt houses, the Leng, and the cliff. Sleep here so the boat is a morning. The stay is a homestay, not a sight ticket.",
-          "placeSlug": "ba-be",
+          "attractionSlug": "pac-ngoi",
           "photo": "ba-be-pac-ngoi",
           "icon": "view"
         }
@@ -129,7 +143,7 @@
         {
           "title": "Ba Be National Park",
           "summary": "Karst, forest, and the lake in one frame. The park is the whole trip, not a museum with one gate. The fee is check on arrival.",
-          "placeSlug": "ba-be",
+          "attractionSlug": "ba-be-national-park",
           "photo": "ba-be-national-park",
           "icon": "view"
         }

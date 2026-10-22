@@ -12,3 +12,4 @@ These stay “Check on arrival” on the public page. The dossier already left t
 - Whether the 2019 Pac Ngoi night market still opens.
 - What khau may is, how the sour shrimp is made, and how mien dong is served.
 - Licensed photographs of Bo Lu, An Ma, Widow Island, Fairy Pond, Hua Ma Cave, Tat Ma, and Cho Ra. Those sights stay off the card grid.
+- A plate of five-colour sticky rice taken at the lake. The published photograph is the dish in Sơn La. The other named dishes have no licensed plate and stay off the specialty grid.

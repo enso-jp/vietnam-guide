@@ -1,0 +1,60 @@
+{
+  "slug": "pac-ngoi",
+  "placeSlug": "ba-be",
+  "name": "Pac Ngoi",
+  "nameVi": "Thôn Pác Ngòi",
+  "kicker": "Tay stilt village on the Leng",
+  "summary": "Sleep in a Tay stilt house on the Leng, where it meets the lake, so the boat is a morning. VOV says nearly 100 stilt roofs, some a century old. VnExpress says about 40 nhân khẩu. Those counts are not the same thing. The hamlet has few stores, so book the meal. The stay is a homestay, and the fee is check on arrival.",
+  "dots": 5,
+  "timeNeeded": "The night",
+  "fee": "Check on arrival",
+  "getThere": "On the Leng, against the lake. Gate-to-house minutes are check on arrival.",
+  "bestMonths": "Year round",
+  "district": "The Leng",
+  "verified": "22 Oct 2026",
+  "heroCaption": "Stilt houses on the Leng, with the water in front and forest on the cliff",
+  "notice": {
+    "title": "Few stores in the hamlet",
+    "body": "VnExpress says the hamlet has few stores, so meals are booked with the house and water is carried in."
+  },
+  "body": [
+    "You sleep here. The locations index says thon Pac Ngoi, xa Ba Be, tinh Thai Nguyen. VOV still says xa Nam Mau, huyen Ba Be, Bac Kan. The hamlet head told VOV that about 80 percent of the old stilt houses are still standing, and that the hamlet is keeping them. VOV says nearly 100 stilt roofs, some a century old. VnExpress says about 40 nhân khẩu. Those two counts cannot be read as the same thing, so both stay. The district page counted nearly 60 homestay households in Nam Mau. A room that looks at the lake is one of the houses. Fuller facilities sit 1–2 km off the shore at the park gate. No hotel brand is a pick.",
+    "The day starts with the house meal and the walk to the landing. The house may offer a walk, weaving, an instrument, or fishing. After the evening meal, then singing and the đàn tính are the night if the house has called the hamlet troupe, with leaf-yeast wine. A closing hour was not printed. That hour is check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "ba-be-pac-ngoi-2",
+      "caption": "Rice fields along the lake, with the cliff behind. The roofs in this frame are distant",
+      "alt": "Rice fields beside Ba Be Lake, with forested cliffs and a distant line of roofs"
+    }
+  ],
+  "gettingThere": [
+    "The village is the base, on the Leng against the lake. VnExpress describes a last-mile motorbike from the park gate into the village. Gate-to-house minutes were not printed. Cho Ra is the commune on the north edge, and the national tourism note’s 5 km is the distance to Puong, not a measured walk from the market to these houses."
+  ],
+  "legs": [
+    {
+      "heading": "From the park gate",
+      "body": "VnExpress describes a last-mile motorbike from the gate into the village, and says fuller facilities sit 1–2 km off the shore. Minutes and a fare are check on arrival."
+    },
+    {
+      "heading": "From Hanoi",
+      "body": "By road. The kilometre counts disagree and are printed on the Ba Be page. They stop short of a door-to-door minute. The last minutes into the village are check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "admissionNote": "The stay is a homestay, not a sight ticket. No room rate was adopted. The fee is check on arrival.",
+  "links": [
+    {
+      "label": "Locations index",
+      "url": "https://babetourism.vn/locations",
+      "note": "Ba Be National Park. Places the village in xa Ba Be, Thai Nguyen"
+    },
+    {
+      "label": "Pac Ngoi",
+      "url": "https://nongthon.vietnamtourism.gov.vn/pac-ngoi-ngoi-lang-tho-mong-va-binh-yen-ben-ho-ba-be-bac-kan/",
+      "note": "National rural-tourism desk. The house counts and the then singing"
+    }
+  ],
+  "interests": ["family"]
+}

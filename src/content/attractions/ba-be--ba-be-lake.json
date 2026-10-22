@@ -1,0 +1,72 @@
+{
+  "slug": "ba-be-lake",
+  "placeSlug": "ba-be",
+  "name": "Ba Be Lake",
+  "nameVi": "Hồ Ba Bể",
+  "kicker": "Mountain lake with three Tay widenings",
+  "summary": "Come for the morning boat: green water between limestone, and the landing boats in front of the cliffs. Tay speakers call the widenings Slam Pe. Sleep at Pac Ngoi or Bo Lu so the boat is a morning. VnExpress puts the trips at 2–8 hours. A park duration was not found, and the fee is check on arrival.",
+  "dots": 5,
+  "timeNeeded": "A morning to most of a day",
+  "fee": "Check on arrival",
+  "getThere": "From the Pac Ngoi landing, or from ben Buoc Lom. Minutes are check on arrival.",
+  "bestMonths": "Year round",
+  "district": "The lake",
+  "verified": "22 Oct 2026",
+  "heroCaption": "Landing boats on the lake, with limestone on both sides",
+  "notice": {
+    "title": "Fairy Pond is look-only",
+    "body": "A park post treats that water as sacred: no hands or feet in it, and no swimming."
+  },
+  "body": [
+    "You ride a boat. The usual circuit is the open water, An Ma, Fairy Pond, Puong, and Dau Dang, in the combinations the boatman sells. VnExpress names two piers, the lake and the Nang. The park names ben Buoc Lom for the cave, about 1 km down the Nang to Puong. VnExpress speaks of trips of 2–8 hours. A park duration was not found, so the length is check on arrival. Tay speakers call the widenings Slam Pe: Pe Leng, Pe Lu, and Pe Lam. The biodiversity desk says the water is one lake running nearly 8 km north–south, with many small inlets. The park about page still says three lakes joined.",
+    "The desks do not agree on the size, and each figure stays. The park about page says 150 m above sea level, 7.5 km long, 0.2–1 km wide, 450 ha, depth 17–23 m, deepest 29 m, an annual level change of 2.8 m, about 90 million m³, formed about 10,000 years ago. The biodiversity desk says about 178 m, length to 8 km, width 500 m, surface 300–500 ha by season, average depth 17–23 m, deepest about 35 m. UNESCO’s tentative text says 150 m, 450 ha, average depth 17–23 m, deepest 35 m, about 90 million m³, and does not print a length. That deepest figure disagrees with the park’s 29 m.",
+    "Lao Dong, citing the Thai Nguyen portal, says about 500 ha, 178 m, and depth 17–29 m, with no length. VnExpress says 145 m, longer than 8 km, widest about 3 km, about 500 ha, average depth 20 m, deepest 35 m. VnExpress also describes a dugout as one tree, about 50 cm wide and 5–10 m long, with one paddle, often for 2–3 people, and prints 12 seats for a domestic group and 10 for an international group. No park capacity notice was found, so the seat count is check on arrival. Boat and kayak prices on that news guide are not a park tariff.",
+    "The about page’s coordinate box is 22°06'12\"–22°08'14\" N and 105°09'07\"–105°12'22\" E. UNESCO’s box for the whole tentative property is a different outline. This page does not turn either box into a pin."
+  ],
+  "figures": [
+    {
+      "id": "ba-be-ba-be-lake-2",
+      "caption": "Morning mist on the water. The shore is still readable. The islands in this frame are not named as An Ma or Widow Island",
+      "alt": "Morning mist on Ba Be Lake, with wooded islands and forested slopes"
+    }
+  ],
+  "gettingThere": [
+    "The night is at Pac Ngoi, on the Leng where it meets the lake, or at Bo Lu. From Pac Ngoi you walk to the village landing. If the night was not in the village, the park names ben Buoc Lom for the ride to Puong, about 1 km down the Nang. Gate-to-house minutes were not printed."
+  ],
+  "legs": [
+    {
+      "heading": "From Pac Ngoi",
+      "body": "Walk to the village landing and take the boat. A measured minute count from the house to the pier was not on the pages read. Those minutes are check on arrival."
+    },
+    {
+      "heading": "From ben Buoc Lom",
+      "body": "By boat. The park puts Puong about 1 km down the Nang from this landing. The rest of the circuit, including Dau Dang, has no separate park clock. VnExpress puts whole trips at 2–8 hours."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "admissionNote": "No park boat tariff was on the pages read. VnExpress prints operator-style prices for boats and kayaks. Those figures are one news desk and are not used as the fee. The fee is check on arrival.",
+  "links": [
+    {
+      "label": "About the park",
+      "url": "https://babetourism.vn/pages/ve-chung-toi",
+      "note": "Ba Be National Park, lake figures"
+    },
+    {
+      "label": "Locations index",
+      "url": "https://babetourism.vn/locations",
+      "note": "Ba Be National Park"
+    },
+    {
+      "label": "Biodiversity desk",
+      "url": "https://nbca.gov.vn/vuon-quoc-gia-ba-be-bac-kan/",
+      "note": "One-lake description and the second set of measurements"
+    },
+    {
+      "label": "UNESCO tentative list",
+      "url": "https://whc.unesco.org/en/tentativelists/6262/",
+      "note": "A third set of lake figures, with no length"
+    }
+  ],
+  "interests": ["photography"]
+}
