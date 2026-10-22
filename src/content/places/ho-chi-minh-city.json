@@ -5,194 +5,208 @@
   "kind": "city",
   "corridor": "southeast",
   "province": "Ho Chi Minh City",
-  "provinceNote": "The city now includes the former Ba Ria–Vung Tau and Binh Duong provinces. The center visitors walk is still District 1.",
-  "lat": 10.776,
-  "lng": 106.701,
+  "provinceNote": "A centrally run city. Since 1 July 2025 it includes the former Bà Rịa–Vũng Tàu and Bình Dương. The walkable center is still the old core.",
   "dots": 5,
   "dotReason": "Worth building a day around",
-  "summary": "Ho Chi Minh City is Vietnam’s largest city and the usual end of a north-to-south trip. District 1 holds the Opera House, Dong Khoi, and Ben Thanh Market. Three days covers the center, a museum, and either Cu Chi or a delta day.",
-  "timeNeeded": "3 days",
-  "fee": "Walking is free; museums and Cu Chi are ticketed",
-  "getThere": "Tan Son Nhat Airport is inside the city, often 30–60 minutes to District 1",
+  "summary": "Ho Chi Minh City is the city Vietnam Tourism calls the former Saigon, the economic heart of the south. Since 1 July 2025 one resolution joins that city with the former Bà Rịa–Vũng Tàu and Bình Dương. The walk you came for is still the old core: Nguyễn Huệ, the cathedral square, the palace, and the museum.",
+  "timeNeeded": "Check on arrival.",
+  "fee": "Check on arrival. Palace and museum prices do not match across the pages that print them.",
+  "getThere": "Tân Sơn Nhất is 7 km from the centre. Check on arrival.",
   "bestMonths": "December to April",
-  "verified": "21 Oct 2026",
+  "verified": "22 Oct 2026",
   "interests": {
     "food": 5,
+    "warHistory": 5,
     "markets": 4,
-    "warHistory": 4,
+    "pagodas": 4,
+    "oldTowns": 4,
     "coffee": 4,
-    "nightlife": 4,
-    "family": 3
+    "photography": 3
   },
   "cover": "city",
   "nearby": [
     "cu-chi",
+    "can-gio",
+    "con-dao",
+    "phu-quoc",
     "can-tho",
-    "phu-quoc"
+    "vung-tau"
   ],
   "foodSlug": "ho-chi-minh-city",
   "routeSlugs": [
     "ho-chi-minh-city-to-mekong",
-    "ho-chi-minh-city-to-phu-quoc"
+    "ho-chi-minh-city-to-phu-quoc",
+    "ho-chi-minh-city-to-vung-tau"
   ],
   "itinerarySlugs": [
     "best-14-days",
     "south-5-days",
     "ho-chi-minh-city-walk"
   ],
-  "seoTitle": "Ho Chi Minh City travel guide — what to do, how to get there, where to eat",
-  "seoDescription": "How to spend three days in Ho Chi Minh City, where to stay in District 1, and which day trips are worth leaving town for.",
+  "seoTitle": "Ho Chi Minh City — the square, the palace, and what to eat",
+  "seoDescription": "Nguyễn Huệ, the cathedral square, the Reunification Palace, and the War Remnants Museum. Area figures disagree. Tân Sơn Nhất is 7 km from the centre.",
   "intro": [
-    "The city is still called Saigon by many residents, and that name fits the center: a tight commercial downtown that grew under French rule and then kept growing. The walkable visitor core is District 1. Cholon, the Chinese commercial district, is a separate half-day.",
-    "Eat com tam, broken rice, and a bowl of pho in the south’s sweeter style. Use the War Remnants Museum if you want the documentary record, and allow time; it is not a light hour. The Reunification Palace is the other standard stop, a preserved 1960s government building."
+    "Many residents still say Sài Gòn. Visit HCMC says the city’s history is a little more than 300 years, and that the old name is still in daily use. The walkable center on the visitor pages is the old core, even after the 2025 merger. Nguyễn Huệ runs from City Hall, which is not open to the public, down toward Bạch Đằng, and Vietnam Tourism says it is liveliest at sundown. The cathedral stands at the head of Đồng Khởi, with the post office opposite.",
+    "Eat cơm tấm and hủ tiếu. Vietnam Tourism says phở is best in Hanoi and that hủ tiếu is the bowl that belongs here. The Reunification Palace and the War Remnants Museum are the war record. Their ticket pages do not match the older 15,000 đồng line. Chợ Lớn is a half-day inside this city, at Bình Tây and Thiên Hậu, not a separate place."
   ],
   "gettingAround": [
-    "Tan Son Nhat is close by Asian-capital standards and still slow at rush hour. GrabCar is the default. Walking works inside District 1 if you treat motorbike traffic as the rule of the road: cross with a steady pace, not a dash.",
-    "The first metro line is useful on its own corridor and does not link every sight. For Cu Chi and the delta, book a car or a tour rather than improvising at the bus station with luggage."
+    "Tân Sơn Nhất is the airport. Vietnam Tourism says it is just 7 km from the centre, with taxis, ride-hailing, and city buses. Check on arrival.",
+    "Metro Line 1 is running. The project page and the December 2024 opening article put the line from Bến Thành to Bến xe Suối Tiên, about 19.7 km, 14 stations, with a 29-minute ride in that opening article and an initial clock of 05:00–22:00. Visit HCMC instead names Bến xe Miền Đông as the eastern end. Both stay. The 2024 fares, 6,000–20,000 đồng a ride and the day and month passes in that article, are not a 2026 price. The fare now is Check on arrival. The same visitor page names the Saigon Waterbus, public bicycles, and more than 150 bus routes, with no fare. It says to cross with a slow, steady pace, and it prints rush hours of 7:00–9:00 and 16:30–18:30."
   ],
   "stayAreas": [
     {
-      "name": "District 1",
-      "summary": "The practical base. Walk to dinner. Book a street set back from the night clubs if you want sleep.",
-      "band": "Hostels through luxury hotels"
-    },
-    {
-      "name": "District 3",
-      "summary": "Quieter streets, a short ride from the center, better if you want local cafes.",
-      "band": "Apartments and small hotels"
+      "name": "Đồng Khởi and Nguyễn Huệ",
+      "summary": "A room within a walk of Đồng Khởi and Nguyễn Huệ is the center the visitor pages describe. Bùi Viện is the other night, where it crosses Phạm Ngũ Lão, Đề Thám, and Đỗ Quang Đẩu. Hotel brands named on the welcome page are not picks.",
+      "band": "Check on arrival",
+      "photo": "ho-chi-minh-city-nguyen-hue"
     }
   ],
   "eat": [
-    "Southern food is sweeter and more herb-heavy. Com tam, banh xeo, hu tieu, and a late bowl of pho are the city set.",
-    "Ben Thanh’s stalls are convenient and priced for visitors. Walk a few blocks to a com tam room with a lunch queue."
+    "Cơm tấm, hủ tiếu, bánh mì, bánh xèo, gỏi cuốn, and cà phê sữa đá are the plates with a photograph of the dish. Vietnam Tourism says this city mixes regions, and that phở is best in Hanoi.",
+    "The food guide is the streets, the doors those pages name, and the three fine-dining rooms. A stall price is not printed there."
   ],
   "dishSlugs": [
     "com-tam",
-    "banh-xeo",
-    "pho",
+    "hu-tieu",
     "banh-mi",
+    "banh-xeo",
+    "goi-cuon",
     "ca-phe"
   ],
   "interestsBody": [
-    "Food, markets, and the city’s war-history museums. The beach is not here; Vung Tau and Phu Quoc are separate rides or flights."
+    "The southern table, the cathedral square, the war record, Chợ Lớn, and the Ben Thanh hall. Sidewalk coffee is a glass, not a lake."
   ],
   "interestGroups": [
     {
       "title": "Dining and F&B",
-      "summary": "The southern table is sweeter, herbier, and built around rice plates as much as noodle soups. Com tam is the lunch. Banh xeo is the shared snack.",
+      "summary": "Cơm tấm is the plate Vietnam Tourism calls essential here. Hủ tiếu is the bowl Vietnam Tourism says is best in this city.",
       "cards": [
         {
           "title": "Dining and F&B",
-          "summary": "Com tam is the lunch. Banh xeo is the shared snack.",
-          "photo": "banh-xeo",
+          "summary": "Cơm tấm, hủ tiếu, the snail streets, and the three fine-dining rooms the national page names.",
+          "photo": "com-tam",
           "icon": "food",
           "to": "food"
         }
       ]
     },
     {
-      "title": "Shopping",
-      "summary": "Conical hats and lacquer in Ben Thanh, and a downtown mall on Lê Thánh Tôn. The published clocks do not match.",
-      "blocks": [
-        {
-          "id": "ben-thanh",
-          "heading": "Ben Thanh Market",
-          "nav": "Ben Thanh",
-          "paragraphs": [
-            "The city tourism plan puts the main door on Quách Thị Trang Square, the north gate on Lê Thánh Tôn, the east gate on Phan Bội Châu, and the west gate on Phan Chu Trinh. It says the market was established in 1914, on 13,056 m², and it prints 07:00 to 19:00 every day, with a night market from 19:00 to 24:00. Vietnam Tourism’s attractions page prints a different clock, 07:30 to 12:00 and 13:30 to 17:00, and the address 32-30 Phan Bội Châu. Admission on that page is free. The hours are check on arrival until the two pages agree.",
-            "That Vietnam Tourism page says the aisles sell fresh produce, conical hats, weasel coffee, and lacquerware. The food stalls at the end of the hall are a meal, and they stay on the food guide. No stall price is printed. Agree a figure before you pay. The price is check on arrival."
-          ]
-        },
-        {
-          "id": "vincom-dong-khoi",
-          "heading": "Vincom Center Đồng Khởi",
-          "nav": "Vincom Center",
-          "paragraphs": [
-            "Vincom’s mall directory lists Vincom Center Đồng Khởi at 72 Lê Thánh Tôn, Bến Nghé ward, District 1, and prints one clock, 09:30 to 22:00. The center’s introduction page, updated 11 September 2026, gives 72 Lê Thánh Tôn and 45A Lý Tự Trọng, phường Sài Gòn. That page prints 10:00 to 22:00 every day in the short facts, and a different split in the hour table: 10:00 to 22:00 Monday to Wednesday, and 09:30 to 22:00 on the other days. The hours are check on arrival.",
-            "The introduction calls it a shopping center on the Đồng Khởi and Lê Thánh Tôn corner, with fashion and cosmetics on the upper floors. The food hall is a meal, and it stays on the food guide. No door fee is printed. Entry is check on arrival."
-          ]
-        }
-      ],
+      "title": "Dong Khoi and the cathedral square",
+      "summary": "The twin-spired cathedral at the head of Đồng Khởi, the post office opposite, the opera along the street, and Nguyễn Huệ at sundown.",
       "cards": [
         {
-          "title": "Ben Thanh Market",
-          "summary": "Conical hats, lacquerware, and weasel coffee in the aisles. Admission is free on the Vietnam Tourism page. The city plan prints 07:00 to 19:00 and a night market to 24:00. The other page prints a split daytime clock. Check the board.",
-          "attractionSlug": "ben-thanh",
-          "photo": "ho-chi-minh-city-ben-thanh-aisle",
-          "block": "ben-thanh"
-        },
-        {
-          "title": "Vincom Center Đồng Khởi",
-          "summary": "A shopping center at 72 Lê Thánh Tôn, on the Đồng Khởi corner. The directory prints 09:30 to 22:00. The introduction page, updated 11 September 2026, does not use that same clock. Check the board.",
-          "placeSlug": "ho-chi-minh-city",
-          "photo": "ho-chi-minh-city-vincom-dong-khoi",
-          "block": "vincom-dong-khoi"
-        }
-      ]
-    },
-    {
-      "title": "Ben Thanh",
-      "summary": "The central market. Good for a look, mixed for shopping. Agree prices before you buy.",
-      "cards": [
-        {
-          "title": "Ben Thanh Market",
-          "summary": "The central market. Good for a look, mixed for shopping. Agree prices before you buy.",
-          "attractionSlug": "ben-thanh",
-          "photo": "ho-chi-minh-city-ben-thanh",
-          "icon": "view"
-        }
-      ],
-      "body": [
-        "Ben Thanh’s stalls are convenient and priced for visitors. Walk a few blocks to a com tam room with a lunch queue.",
-        "Food, markets, and the city’s war-history museums. The beach is not here; Vung Tau and Phu Quoc are separate rides or flights."
-      ]
-    },
-    {
-      "title": "Cathedral square",
-      "summary": "The French-era cathedral square and the painted post office next door. The cathedral has had long closures for repairs; check the day.",
-      "cards": [
-        {
-          "title": "Notre-Dame Cathedral and the Post Office",
-          "summary": "The French-era cathedral square and the painted post office next door. The cathedral has had long closures for repairs; check the day.",
+          "title": "Notre-Dame Cathedral",
+          "summary": "Both towers and the rose window. The interior hour is Check on arrival. The post office is the building opposite.",
           "attractionSlug": "notre-dame",
           "photo": "ho-chi-minh-city-notre-dame",
           "icon": "view"
+        },
+        {
+          "title": "Central Post Office",
+          "summary": "The hall opposite the cathedral. Two pages do not name the same architect.",
+          "attractionSlug": "central-post-office",
+          "photo": "ho-chi-minh-city-central-post-office",
+          "icon": "view"
+        },
+        {
+          "title": "Opera House",
+          "summary": "The facade on Đồng Khởi. A night show is a separate ticket. No daytime interior hour was printed.",
+          "attractionSlug": "opera-house",
+          "photo": "ho-chi-minh-city-opera-house",
+          "icon": "view"
+        },
+        {
+          "title": "Nguyen Hue",
+          "summary": "The walking street from City Hall to Bạch Đằng. Vietnam Tourism says it is liveliest at sundown.",
+          "attractionSlug": "nguyen-hue",
+          "photo": "ho-chi-minh-city-nguyen-hue",
+          "icon": "view"
         }
-      ],
-      "body": [
-        "The city is still called Saigon by many residents, and that name fits the center: a tight commercial downtown that grew under French rule and then kept growing. The walkable visitor core is District 1."
       ]
     },
     {
-      "title": "War history",
-      "summary": "Use the War Remnants Museum if you want the documentary record, and allow time. The Reunification Palace is the other standard stop.",
+      "title": "The war record",
+      "summary": "The palace on Nam Kỳ Khởi Nghĩa and the museum on Võ Văn Tần. Their prices do not match the older 15,000 đồng line.",
+      "blocks": [
+        {
+          "id": "record",
+          "heading": "The palace and the museum",
+          "nav": "The record",
+          "paragraphs": [
+            "The palace ticket page, applied from 1 August 2025, prints palace-only at 40,000 đồng for an adult and a palace-plus-exhibition ticket at 80,000. The homepage prints adult 80,000. Vietnam Tourism’s attractions page prints 15,000 đồng. All three stay.",
+            "The museum’s own terms, applied from 1 October 2026, print 60,000 đồng for an adult. The same attractions page prints 15,000 đồng. Pupils and students on the museum page are a free online ticket, not the half-price row."
+          ]
+        }
+      ],
       "cards": [
         {
-          "title": "War Remnants Museum",
-          "summary": "A direct, photographic museum of the wars in Vietnam. It is distressing and crowded. Read it slowly or not at all.",
-          "attractionSlug": "war-remnants",
-          "photo": "ho-chi-minh-city-war-remnants",
-          "icon": "museum",
-          "block": "record"
-        },
-        {
           "title": "Reunification Palace",
-          "summary": "The former presidential palace, kept as it was in 1975, including the war rooms.",
+          "summary": "The halls on the old Norodom site, and the basement command center. Read the ticket page and the homepage together.",
           "attractionSlug": "reunification-palace",
           "photo": "ho-chi-minh-city-reunification-palace",
           "icon": "museum",
           "block": "record"
-        }
-      ],
-      "blocks": [
+        },
         {
-          "id": "record",
-          "heading": "The museum and the palace",
-          "nav": "The record",
-          "paragraphs": [
-            "Use the War Remnants Museum if you want the documentary record, and allow time; it is not a light hour. The Reunification Palace is the other standard stop, a preserved 1960s government building.",
-            "Cholon, the Chinese commercial district, is a separate half-day. It has no licensed photograph here, so it is not a card."
-          ]
+          "title": "War Remnants Museum",
+          "summary": "Three floors of artifacts and photographs, and aircraft in the courtyard. The operator’s adult price from 1 October 2026 is 60,000 đồng.",
+          "attractionSlug": "war-remnants",
+          "photo": "ho-chi-minh-city-war-remnants",
+          "icon": "museum",
+          "block": "record"
+        }
+      ]
+    },
+    {
+      "title": "Cho Lon",
+      "summary": "The Chinese neighborhood Vietnam Tourism tells you to walk. Bình Tây and Thiên Hậu are the halls. Chợ Lớn stays an area of this city.",
+      "cards": [
+        {
+          "title": "Binh Tay Market",
+          "summary": "The wholesale hall in Chợ Lớn. The gate carries the clock and the name. Bến Thành’s hours do not apply.",
+          "attractionSlug": "binh-tay",
+          "photo": "ho-chi-minh-city-binh-tay",
+          "icon": "view"
+        },
+        {
+          "title": "Thien Hau Temple",
+          "summary": "The hall of Thiên Hậu in Chợ Lớn. Visit HCMC dates the building to 1760.",
+          "attractionSlug": "thien-hau",
+          "photo": "ho-chi-minh-city-thien-hau",
+          "icon": "view"
+        }
+      ]
+    },
+    {
+      "title": "Ben Thanh and the halls",
+      "summary": "Bến Thành faces Quách Thị Trang. The aisle photograph is souvenirs. Vincom Center is the mall Visit HCMC names with the walking streets.",
+      "cards": [
+        {
+          "title": "Ben Thanh Market",
+          "summary": "The clock tower and the name, on the square where the metro station sits. The food stalls are at the end of the hall.",
+          "attractionSlug": "ben-thanh",
+          "photo": "ho-chi-minh-city-ben-thanh",
+          "icon": "view"
+        },
+        {
+          "title": "Vincom Center Dong Khoi",
+          "summary": "Named by Visit HCMC with Saigon Centre–Takashimaya. The photograph shows the Lê Thánh Tôn and Đồng Khởi signs. A street number was not printed.",
+          "attractionSlug": "vincom-dong-khoi",
+          "photo": "ho-chi-minh-city-vincom-dong-khoi",
+          "icon": "view"
+        }
+      ]
+    },
+    {
+      "title": "Sidewalk coffee",
+      "summary": "Cà phê sữa đá in the park outside the palace, and the sidewalk glass Visit HCMC names at Turtle Lake. The photograph is the glass, not the lake.",
+      "cards": [
+        {
+          "title": "Cà phê sữa đá",
+          "summary": "The Saturday morning cup outside the palace, and cloth-filter coffee on the welcome page. No recipe was printed.",
+          "dishSlug": "ca-phe",
+          "photo": "ca-phe",
+          "icon": "drink"
         }
       ]
     }
@@ -200,11 +214,19 @@
   "faqs": [
     {
       "q": "Is Ho Chi Minh City the same as Saigon?",
-      "a": "Saigon is the older name and still the everyday name for the center. Ho Chi Minh City is the official name, and after 2025 it covers a wider area than the downtown you will walk."
+      "a": "Visit HCMC says the city is still widely called Sài Gòn. Ho Chi Minh City is the official name. Since 1 July 2025, Resolution 202/2025/QH15 joins the former city with Bà Rịa–Vũng Tàu and Bình Dương. The center you walk is the old core."
     },
     {
-      "q": "How many days do you need?",
-      "a": "Three days for the center and one excursion. Add a night in Can Tho if the delta is more than a checkbox."
+      "q": "How big is the city?",
+      "a": "The resolution prints 6,772.59 km² and 14,002,598 people. An April 2025 proposal printed 6,772.65 km² and 13,706,632 people. A feast-streets page says nearly 9 million. All three stay. No single coordinate was printed, so there is no map pin."
+    },
+    {
+      "q": "Where is breakfast?",
+      "a": "Cơm tấm, which Vietnam Tourism calls the go-to breakfast and also an any-meal plate. Bánh mì starts a morning on the city itinerary. Cà phê sữa đá is the Saturday cup in the park outside the palace. Chợ Tân Định is the Sunday morning market on Hai Bà Trưng, in District 3 on that itinerary."
     }
-  ]
+  ],
+  "season": {
+    "label": "Drier from December to April",
+    "note": "Vietnam Tourism says December to April is drier, sunny, and less humid, and May to November brings short afternoon showers. It is hot all year."
+  }
 }

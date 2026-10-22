@@ -2,12 +2,396 @@
   "slug": "ho-chi-minh-city",
   "name": "Ho Chi Minh City food guide",
   "placeSlug": "ho-chi-minh-city",
-  "summary": "The southern table is sweeter, herbier, and built around rice plates as much as noodle soups. Com tam is the lunch. Banh xeo is the shared snack.",
+  "summary": "Ho Chi Minh City mixes plates from many regions. Vietnam Tourism says the bowl that is best here is hủ tiếu, and that phở is best in Hanoi. Cơm tấm, bánh mì, bánh xèo, gỏi cuốn, and cà phê sữa đá are the other plates with a photograph of the dish.",
+  "heroSlug": "com-tam",
   "body": [
-    "District 1 will feed you at any hour. The memorable plates are often a few streets away from Ben Thanh, in rooms that close after lunch.",
-    "Order com tam with a pork chop, a banh xeo to share, and a southern pho if you want to compare it with Hanoi’s."
+    "Vietnam Tourism sets the two cities apart: Hanoi food is described as more delicate and lighter on seasoning, and this city as a place that mixes ingredients and recipes from many regions. What was born here is still best here. Phở is best in Hanoi, and Vietnam Tourism uses that to point you at hủ tiếu.",
+    "Visit HCMC and the national attractions page still name phở as a bowl people eat in this city. No southern recipe was printed on those pages. The Hanoi photograph of a bowl is not a picture of a Saigon street. Shops below are doors a page named. A stall price on those pages is not printed here."
   ],
-  "dishSlugs": ["com-tam", "banh-xeo", "pho", "banh-mi", "ca-phe"],
-  "seoTitle": "Ho Chi Minh City food guide",
-  "seoDescription": "What to eat in Ho Chi Minh City, from com tam to banh xeo."
+  "specialtiesLead": "The highlights are cơm tấm, hủ tiếu, bánh mì, bánh xèo, gỏi cuốn, and cà phê sữa đá. Each has a photograph of the dish. The other plates are named for this city too.",
+  "dishSlugs": [
+    "com-tam",
+    "hu-tieu",
+    "banh-mi",
+    "banh-xeo",
+    "goi-cuon",
+    "ca-phe"
+  ],
+  "sections": [
+    {
+      "id": "regional",
+      "role": "regional",
+      "heading": "Regional dishes",
+      "nav": "Regional",
+      "paragraphs": [
+        "The plates below are also named for this city. They do not have a photograph of that dish, so each one is a line: the name, and the address when a page printed one. Phở is one of them. Vietnam Tourism says it is best in Hanoi. Visit HCMC still lists phở bò on Bùi Viện and lists phở among iconic dishes. No Saigon garnish list was printed."
+      ],
+      "spots": [
+        {
+          "name": "Oc",
+          "nameVi": "Ốc",
+          "note": "Vietnam Tourism calls snails one of the city’s specialties. Restaurants lay the day’s catch in baskets, up to twenty kinds, and names sweet snails, cockles, and razor clams, stir-fried with butter and garlic, grilled with sea salt and chili, or stewed in coconut milk. A later page says they are boiled, steamed, grilled, or sautéed and eaten from the shell with a cold beer. The city itinerary’s District 4 spread adds crab, scallops, molluscs, and freshwater snails in butter, garlic, lemongrass, and chili. The lists do not match. All three stay. Vĩnh Khánh comes to life around 6 p.m."
+        },
+        {
+          "name": "Bun thit nuong",
+          "nameVi": "Bún thịt nướng",
+          "note": "The city itinerary names grilled pork noodle bowls on afternoon sidewalk stalls next to cơm tấm. No ingredient list beyond that name. The street was not named. Check on arrival."
+        },
+        {
+          "name": "Banh beo",
+          "nameVi": "Bánh bèo",
+          "note": "Vietnam Tourism’s feast-streets page: translucent morsels filled with shrimp and pork, often eight to ten in an order, for sharing. No dipping sauce was named. This is not the Hue recipe."
+        },
+        {
+          "name": "Banh cuon",
+          "nameVi": "Bánh cuốn",
+          "note": "The same feast-streets page: steamed rice rolls with mushrooms, black fungus, and ground pork, meant to be shared."
+        },
+        {
+          "name": "Bo la lot",
+          "nameVi": "Bò lá lốt",
+          "note": "The feast-streets page: marinated beef in piper lolot leaves, with rice noodles, fresh herbs, and rice paper. You roll them yourself and dip in fish sauce."
+        },
+        {
+          "name": "Bo kho",
+          "nameVi": "Bò kho",
+          "note": "The feast-streets page: beef stew, chunks of beef, vegetables, chili, and lime, served with a fresh roll."
+        },
+        {
+          "name": "Banh canh cua",
+          "nameVi": "Bánh canh cua",
+          "note": "The feast-streets page: a seafood soup with crab, shrimp, and rice or tapioca noodles in a pork broth. The photograph on file of bánh canh is a snakehead bowl. It is not this crab soup, so it is not the card."
+        },
+        {
+          "name": "Banh da xuc hen",
+          "nameVi": "Bánh đa xúc hến",
+          "note": "The feast-streets page: tiny fried clams with lemongrass, chili, onion, garlic, and coriander, peanuts, and a few sesame crackers. It is not bánh đa cua."
+        },
+        {
+          "name": "Pha lau",
+          "nameVi": "Phá lấu",
+          "note": "Vietnam Tourism names phá lấu as a Ho Chi Minh City staple on Hồ Thị Kỷ, in the same sentence as tamarind-seed sweet soup. No ingredient list was printed."
+        },
+        {
+          "name": "Tamarind-seed sweet soup",
+          "note": "Named on Hồ Thị Kỷ on the same Vietnam Tourism page, as a specialty beside phá lấu. No Vietnamese name and no method were printed."
+        },
+        {
+          "name": "Bun Thai",
+          "nameVi": "Bún Thái",
+          "address": "Hẻm 76 Hai Bà Trưng",
+          "note": "Named at alley 76 of Hai Bà Trưng as a hot meal at the afternoon peak, 15:00–18:00. No recipe was printed."
+        },
+        {
+          "name": "Bun rieu",
+          "nameVi": "Bún riêu",
+          "address": "Hẻm 76 Hai Bà Trưng",
+          "note": "Named in the same alley sentence as bún Thái, chicken and rice, grilled skewers, and bột chiên. No recipe was printed."
+        },
+        {
+          "name": "Chicken and rice",
+          "address": "Hẻm 76 Hai Bà Trưng",
+          "note": "Named at alley 76 as a hearty late lunch or early dinner. No Vietnamese name and no method were printed."
+        },
+        {
+          "name": "Grilled skewers",
+          "address": "Hẻm 76 Hai Bà Trưng",
+          "note": "Vietnam Tourism says the skewers at alley 76 are cooked to order, hot off the barbecue. No meat was named."
+        },
+        {
+          "name": "Bot chien",
+          "nameVi": "Bột chiên",
+          "address": "Hẻm 76 Hai Bà Trưng",
+          "note": "Fried dough bites served with egg and shredded papaya, named at alley 76 as an alternative to noodles."
+        },
+        {
+          "name": "Mangosteen chicken salad",
+          "note": "Visit HCMC names mangosteen chicken salad in one list with bánh mì, phở, and cơm tấm. No Vietnamese name, no method, and no street were printed."
+        },
+        {
+          "name": "Stingray hotpot",
+          "note": "Visit HCMC names stingray hotpot in that same sentence. No Vietnamese name and no method were printed."
+        },
+        {
+          "name": "Pho",
+          "nameVi": "Phở",
+          "address": "Bùi Viện",
+          "note": "Vietnam Tourism says phở is the national soup and is best in Hanoi, and points a reader in this city toward hủ tiếu. Visit HCMC still names phở bò on Bùi Viện, and the welcome page lists phở with bánh mì and cơm tấm as an iconic dish. No southern recipe was printed. There is no Saigon photograph of the bowl on this page."
+        }
+      ]
+    },
+    {
+      "id": "international-dining",
+      "role": "international",
+      "heading": "International dining",
+      "nav": "International",
+      "paragraphs": [
+        "Vietnam Tourism says the stalls on Bùi Viện serve Vietnamese street food and also Indian, Italian, Chinese, and Thai food. No shop name was printed for those four kitchens. They are the street’s kitchens, not a ranked list. Quince and Baozi are in Fine dining, which is the chapter that named them."
+      ],
+      "spots": [
+        {
+          "name": "Indian kitchens on Bui Vien",
+          "nameVi": "Bùi Viện",
+          "address": "Bùi Viện, District 1",
+          "note": "Vietnam Tourism names Indian food among the stalls and rooms on Bùi Viện. No restaurant name was printed. The street was made the city’s second official walking street in 2017. Eating starts around dinner and continues all night."
+        },
+        {
+          "name": "Italian kitchens on Bui Vien",
+          "nameVi": "Bùi Viện",
+          "address": "Bùi Viện, District 1",
+          "note": "Italian food is named on the same page, on the same street. No restaurant name was printed."
+        },
+        {
+          "name": "Chinese kitchens on Bui Vien",
+          "nameVi": "Bùi Viện",
+          "address": "Bùi Viện, District 1",
+          "note": "Chinese food is named on the same page, on the same street. No restaurant name was printed. This is not the unnamed Chinatown street in District 5."
+        },
+        {
+          "name": "Thai kitchens on Bui Vien",
+          "nameVi": "Bùi Viện",
+          "address": "Bùi Viện, District 1",
+          "note": "Thai food is named on the same page, on the same street. No restaurant name was printed."
+        }
+      ]
+    },
+    {
+      "id": "casual-dining",
+      "role": "casual",
+      "heading": "Casual dining",
+      "nav": "Casual",
+      "paragraphs": [
+        "These are the streets and the doors the city pages name for everyday eating. A door is a place a page used to locate a plate. It is not a rank. Where a page printed a stall figure, that figure stays off this page."
+      ],
+      "spots": [
+        {
+          "name": "Ben Thanh food end",
+          "nameVi": "Chợ Bến Thành",
+          "address": "32-30 Phan Bội Châu, Ben Thanh, District 1",
+          "note": "Vietnam Tourism says the end of the hall is a maze of stalls cooking bánh xèo and assembling bánh mì. The market faces Quách Thị Trang. The clock printed there is a repeated block used on several sights. Hours: Check on arrival."
+        },
+        {
+          "name": "Vinh Khanh",
+          "nameVi": "Vĩnh Khánh",
+          "address": "District 4",
+          "note": "After dark, snails and seafood. Vietnam Tourism says the street comes to life around 6 p.m. on weekdays and weekends, and that people grill meat and seafood on coal at the table. A closing hour was not printed."
+        },
+        {
+          "name": "Nhieu Loc bank",
+          "nameVi": "Nhiêu Lộc–Thị Nghè",
+          "note": "Vietnam Tourism sends you to the restaurants along this canal, a branch of the Saigon River, for the same snail-and-seafood evening. A separate clock was not printed."
+        },
+        {
+          "name": "Co Giang",
+          "nameVi": "Cô Giang",
+          "address": "District 1",
+          "note": "A Vietnamese street-food stretch at the edge of a block of bars, with barbecue, fryers, and steam under fluorescent lights. No clock was printed."
+        },
+        {
+          "name": "Tran Khac Chan",
+          "nameVi": "Trần Khắc Chân",
+          "address": "District 1",
+          "note": "Vietnam Tourism calls it a neon strip of eating options, cars and motorbikes mixed with people on foot. No clock was printed."
+        },
+        {
+          "name": "Phan Van Han",
+          "nameVi": "Phan Văn Hãn",
+          "note": "A neighborhood lane at the edge of District 1, for students and locals, sidewalk tables, bare bulbs. No clock was printed."
+        },
+        {
+          "name": "Nguyen Thuong Hien",
+          "nameVi": "Nguyễn Thượng Hiền",
+          "address": "District 3",
+          "note": "Sidewalk dining: clams, sea snails, crab claws, oysters, fruit juice, and beer, and diners singing with guitar players. The page does not call this the cơm tấm street."
+        },
+        {
+          "name": "Ho Thi Ky",
+          "nameVi": "Hồ Thị Kỷ",
+          "note": "A few hundred meters of food and drink stalls beside the flower wholesale market. Flower trucks come from Đà Lạt and nearby provinces. On the stalls: noodle soups, snails, fruit, cakes, phá lấu, and tamarind-seed sweet soup. Students and workers come after class. A clock was not printed."
+        },
+        {
+          "name": "Alley 76 Hai Ba Trung",
+          "nameVi": "Hẻm 76 Hai Bà Trưng",
+          "address": "Hai Bà Trưng",
+          "note": "Smaller than Hồ Thị Kỷ. The peak is 15:00–18:00. The page says this is a hot meal: bún Thái, bún riêu, chicken and rice, grilled skewers, and bột chiên with egg and shredded papaya. A full open and close were not printed."
+        },
+        {
+          "name": "Bui Vien",
+          "nameVi": "Bùi Viện",
+          "address": "About 850 m, crossing Đề Thám, Phạm Ngũ Lão, and Đỗ Quang Đẩu",
+          "note": "Vietnamese stalls, barbecue with beer, bánh mì, phở bò, and seafood. Visit HCMC says the street never sleeps. Vietnam Tourism says dinner time and then all night. The Indian, Italian, Chinese, and Thai kitchens are in International dining."
+        },
+        {
+          "name": "A Chinatown food street",
+          "address": "District 5",
+          "note": "Vietnam Tourism says the Chinatown street is lined with food stalls, cafes, and bars. It never names the street. No name is added here."
+        },
+        {
+          "name": "Van Kiep",
+          "nameVi": "Văn Kiệp",
+          "address": "The border of Phú Nhuận and Bình Thạnh",
+          "note": "Neon signs and a run of Vietnamese dishes, a young crowd. The page says a rare dish is what the street is for, and does not name that dish."
+        },
+        {
+          "name": "Com tam Ba Ghien",
+          "nameVi": "Cơm tấm Ba Ghiền",
+          "address": "84 Đặng Văn Ngữ, Phú Nhuận",
+          "dishSlug": "com-tam",
+          "note": "The door Vietnam Tourism names when it tells you to use the nearest cơm tấm room. The plate is the specialty page."
+        },
+        {
+          "name": "Oc Vu",
+          "nameVi": "Ốc Vũ",
+          "address": "37 Vĩnh Khánh, District 4",
+          "note": "Named on Vĩnh Khánh for the snail evening. No menu beyond the street’s baskets was printed."
+        },
+        {
+          "name": "Oc Oanh",
+          "nameVi": "Ốc Oanh",
+          "address": "534 Vĩnh Khánh, District 4",
+          "note": "The city itinerary names this door for crab, scallops, molluscs, and freshwater snails in butter, garlic, lemongrass, and chili."
+        },
+        {
+          "name": "Hu tieu Ba Hoang",
+          "nameVi": "Hủ tiếu Ba Hoàng",
+          "address": "56 Võ Văn Tần, District 3",
+          "dishSlug": "hu-tieu",
+          "note": "The door Vietnam Tourism names for hủ tiếu. The bowl is the specialty page."
+        },
+        {
+          "name": "Banh mi Huynh Hoa",
+          "nameVi": "Bánh mì Huỳnh Hoa",
+          "address": "26 Lê Thị Riêng, District 1",
+          "dishSlug": "banh-mi",
+          "note": "Named for bánh mì. The same page prints a figure for that shop. That figure is not the city price, so it is not printed here."
+        },
+        {
+          "name": "Banh mi Hoa Ma",
+          "nameVi": "Bánh mì Hoa Mã",
+          "address": "Bùi Viện",
+          "dishSlug": "banh-mi",
+          "note": "Visit HCMC names Bánh mì Hoa Mã on Bùi Viện. No street number was printed."
+        },
+        {
+          "name": "Goi cuon Minh",
+          "nameVi": "Gỏi cuốn Minh",
+          "address": "84/33 Bùi Viện, District 1",
+          "dishSlug": "goi-cuon",
+          "note": "The door Vietnam Tourism names for gỏi cuốn, with iced tea after a walk."
+        },
+        {
+          "name": "Cuc Gach Quan",
+          "nameVi": "Cục Gạch Quán",
+          "note": "The city itinerary calls it a family-style restaurant in a beautiful old house. No street was printed."
+        },
+        {
+          "name": "Quan Bui",
+          "nameVi": "Quán Bụi",
+          "note": "The city itinerary names Quán Bụi for a Vietnamese dinner. No street was printed. The page does not call it fine dining."
+        }
+      ]
+    },
+    {
+      "id": "fine-dining",
+      "role": "fine",
+      "heading": "Fine dining",
+      "nav": "Fine dining",
+      "paragraphs": [
+        "These three names are the fine-dining chapter on Vietnam Tourism. Visit HCMC also says the city has Michelin-recognised restaurants. That sentence names no door, so no further name is added. No price was printed for these rooms."
+      ],
+      "spots": [
+        {
+          "name": "Quince Saigon",
+          "address": "A quiet edge of District 1",
+          "note": "Mediterranean, expanded from Bangkok. Vietnam Tourism says the plates use local produce and imported ingredients, grilled on a wood-burning stove, with a wine list. Solo diners can sit at the bar. An upstairs room seats larger parties. No street number was printed."
+        },
+        {
+          "name": "Baozi",
+          "address": "District 1",
+          "note": "Taiwanese, in a room the page calls funky, hip, and modern. Founded by a Vietnamese-British man who brought a bao concept from London. The page says Taiwanese bao are open, unlike the closed Vietnamese bánh bao. The founder recommends scotch eggs, ramen, teriyaki ribs, pork belly rice, and the carrot cake. No street was printed."
+        },
+        {
+          "name": "Anan Saigon",
+          "nameVi": "AnAn",
+          "address": "Cho Cu wet market, District 1",
+          "note": "Peter Cuong Franklin. Vietnam Tourism says the style is “Cuisine Moi,” French technique on Vietnamese street food, in the wet market, with a rooftop dining bar. The page calls it the place for a phở with a new perspective. The city itinerary also calls the room modern and elevated. It is filed once, in this chapter. No price was printed."
+        }
+      ]
+    },
+    {
+      "id": "themed-dining",
+      "role": "themed",
+      "heading": "Themed dining",
+      "nav": "Themed",
+      "paragraphs": [
+        "Rooms the pages describe by the setting: a rooftop, a sky bar, a brewery, a hotel bar, and the cafe buildings on Đồng Khởi and Nguyễn Huệ. No price was printed."
+      ],
+      "spots": [
+        {
+          "name": "Vo Roof Garden",
+          "nameVi": "Võ Roof Garden",
+          "note": "The city itinerary says modern Vietnamese dishes on a rooftop. No street was printed."
+        },
+        {
+          "name": "L'Usine",
+          "address": "Đồng Khởi",
+          "note": "The city itinerary names L'Usine for a cold coffee on the Đồng Khởi shopping walk. No street number was printed."
+        },
+        {
+          "name": "42 Nguyen Hue",
+          "nameVi": "42 Nguyễn Huệ",
+          "address": "42 Nguyễn Huệ",
+          "note": "The city itinerary, Visit HCMC, and the southern page name this former apartment block for cafes and shops. It is a building, not one restaurant."
+        },
+        {
+          "name": "Do Phu Cafe",
+          "nameVi": "Do Phu Café",
+          "note": "Visit HCMC names Do Phu Café with sidewalk coffee at Turtle Lake and traditional cloth-filter coffee. No street was printed."
+        },
+        {
+          "name": "Turtle Lake sidewalk coffee",
+          "note": "Visit HCMC names sidewalk coffee at Turtle Lake. No Vietnamese name for the lake, no street, and no clock were printed. The glass on the coffee page is not a photograph of this lake."
+        },
+        {
+          "name": "Saigon Saigon Bar",
+          "address": "Caravelle",
+          "note": "The city itinerary names Saigon Saigon Bar at the Caravelle. No price was printed."
+        },
+        {
+          "name": "Pasteur Street Brewing Company",
+          "note": "The city itinerary names Pasteur Street Brewing Company. No street number and no price were printed."
+        },
+        {
+          "name": "Glow Sky Bar",
+          "note": "The city itinerary names Glow Sky Bar. No street and no price were printed."
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "role": "breakfast",
+      "heading": "Breakfast",
+      "nav": "Breakfast",
+      "paragraphs": [
+        "Cơm tấm is the breakfast Vietnam Tourism names, and the same page says people also eat it at any meal. Bánh mì is the start of a morning on the city itinerary, and another page says it is sold at any hour. Cà phê sữa đá is the Saturday morning cup in the park outside the palace, before you go in."
+      ],
+      "spots": [
+        {
+          "name": "Cafes in the palace park",
+          "address": "Outside the Reunification Palace",
+          "dishSlug": "ca-phe",
+          "note": "The city itinerary puts cà phê sữa đá here on a Saturday morning. The cafes are not named. The coffee is not inside the palace ticket."
+        },
+        {
+          "name": "Tan Dinh Market",
+          "nameVi": "Chợ Tân Định",
+          "address": "Hai Bà Trưng, District 3",
+          "note": "The city itinerary says Sunday morning produce, vegetables, and street-food snacks. The city itinerary places the market on Hai Bà Trưng in District 3. It is not Nhà thờ Tân Định."
+        }
+      ]
+    }
+  ],
+  "verified": "22 Oct 2026",
+  "seoTitle": "Ho Chi Minh City food — cơm tấm, hủ tiếu, and the streets",
+  "seoDescription": "What the city pages name in Ho Chi Minh City: cơm tấm, hủ tiếu, bánh mì, the snail streets, and the three fine-dining rooms. Phở is best in Hanoi on the national page."
 }

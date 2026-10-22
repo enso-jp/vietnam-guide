@@ -2,15 +2,30 @@
   "slug": "com-tam",
   "name": "Com tam",
   "nameVi": "Cơm tấm",
-  "summary": "Com tam is broken rice, a Saigon everyday plate, usually with grilled pork, a pork skin cake, egg, and fish sauce. It is a full lunch, not a side.",
-  "origin": "Southern Vietnam, and the default lunch in Ho Chi Minh City.",
-  "howToEat": [
-    "Order suon (the chop) if you want the standard plate.",
-    "The fish sauce is meant to go on the rice. Pickled vegetables come with it.",
-    "Lunchtime rooms fill with workers. That is the hour."
+  "summary": "Cơm tấm is broken rice, a plate Vietnam Tourism calls one of the few dishes that originated in Ho Chi Minh City, and the essential Saigon dish on a second page. The two pages do not list the same toppings.",
+  "origin": "Vietnam Tourism says farmers once kept the broken grains because they were not sold. The same bureau’s cuisine page calls the dish the essential Saigon plate, found on nearly every street.",
+  "history": [
+    "Vietnam Tourism’s local-eating page says cơm tấm originated here: broken rice that farmers kept because the grains were not sold."
   ],
-  "priceBand": "An everyday lunch price.",
+  "culture": [
+    "One page calls it the go-to breakfast, and says people also eat it at any meal. The cuisine page says the smell of barbecued pork is on the street at all hours."
+  ],
+  "texture": [
+    "The cuisine page says the ribs are grilled over low heat so the meat stays juicy and tender. The photograph is rice, a chop, cucumber, and scallions. No egg is in that frame."
+  ],
+  "taste": [
+    "The local-eating account says to pour a generous amount of sweet fish sauce over the plate. That sweetness is the sauce."
+  ],
+  "howToEat": [
+    "The local-eating page’s plate is honey-glazed barbecued pork chops, a sunny-side-up egg, spring onions, and pickled papaya, with sweet fish sauce poured over the rice.",
+    "The cuisine page’s plate is marinated pork ribs on broken rice, with an omelet, egg rolls, and sausages, onion fat or pork grease, and fresh and pickled vegetables. The two plates are not the same list."
+  ],
+  "where": [
+    "All over the center, on the cuisine page. The local-eating page tells you to use the nearest room and names Cơm tấm Ba Ghiền at 84 Đặng Văn Ngữ, Phú Nhuận, only as a clue. The city itinerary also puts grilled pork noodle bowls on afternoon sidewalks next to cơm tấm, on a street it does not name."
+  ],
+  "priceBand": "Check on arrival.",
   "placeSlugs": ["ho-chi-minh-city"],
-  "seoTitle": "Com tam — broken rice",
-  "seoDescription": "What a com tam plate includes and where the dish belongs."
+  "verified": "22 Oct 2026",
+  "seoTitle": "Cơm tấm in Ho Chi Minh City",
+  "seoDescription": "Two sourced plates of cơm tấm in Ho Chi Minh City: the breakfast plate with sweet fish sauce, and the rib plate with omelet, egg rolls, and sausages."
 }
