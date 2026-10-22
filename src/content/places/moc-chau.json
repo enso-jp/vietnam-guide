@@ -18,13 +18,15 @@
   "verified": "22 Oct 2026",
   "interests": {
     "photography": 5,
-    "mountains": 4
+    "mountains": 4,
+    "food": 4
   },
   "cover": "highlands",
   "nearby": [
     "mai-chau",
     "hanoi"
   ],
+  "foodSlug": "moc-chau",
   "routeSlugs": [],
   "itinerarySlugs": [
     "moc-chau-plateau-day"
@@ -57,37 +59,61 @@
   ],
   "eat": [
     "The morning cup is cold yogurt or fresh milk in the farm town. A 3 May 2024 provincial announcement ranked an Amifarm set at 3-star OCOP: plain yogurt, black sticky-rice yogurt, and passion-fruit yogurt. That household is not a restaurant pick. Stall hours are check on arrival.",
-    "At Ban Ang the sourced plates are bamboo sticky rice, grilled fish, smoked meat, forest greens, and rice wine served from a gourd through a bamboo tube. Chao calf and bamboo-tube fish are named there without a cooking method. The night market, a ground of more than 2 ha around the Pha Luong light park, serves dried buffalo and hearth sausage with rice wine. No stall price was recorded. A separate morning market was not named."
+    "At Ban Ang the sourced plates are bamboo sticky rice, grilled fish, smoked meat, forest greens, and rice wine served from a gourd through a bamboo tube. The food guide’s photograph is the bamboo rice. It was not taken at Ban Ang, and the skewer in the frame is not a sourced pa pỉnh tộp. Chao calf and bamboo-tube fish are named there without a cooking method. The night market, a ground of more than 2 ha around the Pha Luong light park, serves dried buffalo and hearth sausage with rice wine. No stall price was recorded. A separate morning market was not named."
   ],
-  "dishSlugs": [],
+  "dishSlugs": ["com-lam"],
   "interestsBody": [
     "Tea-hill contours are the picture of the plateau. The falls and the Bach Long bridge are the other walks that have a licensed photograph of the sight.",
     "Plum valleys, the dairy herd, Ban Ang’s pine, and the Bat Cave are real, and they stay in the text until a photograph of that subject is licensed."
   ],
   "interestCards": [
     {
+      "title": "Dining and F&B",
+      "summary": "For the Ban Ang meal, when you want the bamboo rice that has a plate and can leave the dishes that do not.",
+      "photo": "com-lam",
+      "icon": "food",
+      "to": "food"
+    },
+    {
       "title": "Tea-hill contours",
       "summary": "For a morning in the rows, when the picture you came for is the plateau rather than a rice valley.",
-      "placeSlug": "moc-chau",
+      "attractionSlug": "heart-tea-hills",
       "photo": "moc-chau-heart-tea-hills",
       "icon": "view"
     },
     {
       "title": "Limestone falls",
       "summary": "For Dai Yem, when you want the two drops and can live with heights that do not agree.",
-      "placeSlug": "moc-chau",
+      "attractionSlug": "dai-yem-waterfall",
       "photo": "moc-chau-dai-yem-waterfall",
       "icon": "view"
     },
     {
       "title": "Bach Long bridge",
       "summary": "For the glass span in the hills, not a sea island and not a measured world record.",
-      "placeSlug": "moc-chau",
+      "attractionSlug": "bach-long-bridge",
       "photo": "moc-chau-bach-long-bridge",
       "icon": "view"
     }
   ],
   "interestGroups": [
+    {
+      "title": "Dining and F&B",
+      "summary": "For the Ban Ang meal, when you want the bamboo rice that has a plate and can leave the dishes that do not.",
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "For the Ban Ang meal, when you want the bamboo rice that has a plate and can leave the dishes that do not.",
+          "photo": "com-lam",
+          "icon": "food",
+          "to": "food"
+        }
+      ],
+      "body": [
+        "A 2012 feature names cơm lam among Ban Ang’s local dishes: sticky rice cooked in a bamboo tube. Eat it from the tube. Salt, sesame, and a dipping sauce are not on that page. The photograph is a licensed plate of that dish. It was not taken at Ban Ang, and the skewer beside the rice is not a sourced pa pỉnh tộp. The price is check on arrival.",
+        "Yogurt and fresh milk, hau plum, plateau tea, grilled fish, smoked meat, chao calf, bamboo-tube fish, xôi, rice wine from a gourd, forest greens, and festival bánh dày are named and have no licensed plate, so they are not cards. The night market is a ground of more than 2 ha around the Pha Luong light park, with nearly 60 stalls. A 2023 feature says weekends are fuller and names dried buffalo and hearth sausage with rice wine. It prints no clock and no stall photograph. Hours are check on arrival. A separate morning market was not named."
+      ]
+    },
     {
       "title": "Tea-hill contours",
       "summary": "For a morning in the rows, when the picture you came for is the plateau rather than a rice valley.",
@@ -95,7 +121,7 @@
         {
           "title": "Tea-hill contours",
           "summary": "Walk the contour rows. Vietnam Tourism calls the tea ground about 3,000 ha and the largest tea region in Vietnam. A 2019 provincial paper also says more than 3,000 ha and says the tea is less famous than Thai Nguyen tea. Do not publish “largest” as settled. The 2019 free-entry line is not a 2026 fee. Check on arrival, and do not sit on the bushes.",
-          "placeSlug": "moc-chau",
+          "attractionSlug": "heart-tea-hills",
           "photo": "moc-chau-heart-tea-hills",
           "icon": "view"
         }
@@ -112,7 +138,7 @@
         {
           "title": "Limestone falls",
           "summary": "Dai Yem is the fall you hear before you see it. Keep every published height. The fee is check on arrival.",
-          "placeSlug": "moc-chau",
+          "attractionSlug": "dai-yem-waterfall",
           "photo": "moc-chau-dai-yem-waterfall",
           "icon": "view"
         }
@@ -129,7 +155,7 @@
         {
           "title": "Bach Long bridge",
           "summary": "A park Vietnam Tourism calls Moc Chau Island, reached across Bach Long bridge. It prints no length. The world’s-longest line is not a settled measurement.",
-          "placeSlug": "moc-chau",
+          "attractionSlug": "bach-long-bridge",
           "photo": "moc-chau-bach-long-bridge",
           "icon": "view"
         }
