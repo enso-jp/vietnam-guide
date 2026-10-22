@@ -464,7 +464,11 @@ document.querySelectorAll<HTMLElement>('[data-book]').forEach((root) => {
     root.querySelectorAll<HTMLElement>('[data-book-fields]').forEach((panel) => {
       panel.hidden = panel.dataset.bookFields !== tab.dataset.bookTab;
     });
-    if (note) note.textContent = tab.dataset.note || '';
+    if (note) {
+      const text = tab.dataset.note || '';
+      note.textContent = text;
+      note.hidden = text.length === 0;
+    }
     if (submit) submit.textContent = tab.dataset.submit || 'Search';
     if (error) error.hidden = true;
   };
