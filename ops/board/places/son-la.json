@@ -55,9 +55,9 @@
       "reworkCount": 0
     },
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, seven interest groups, valley-day itinerary, three festivals. No attraction cards: dossier marks every sight unpublished, no licensed photo. No food guide, foodSlug, or Food chip. Check on arrival for disagreeing prison hours and tickets, the dam gate and a boat, Ban Mong soak, the stele, market clocks, stall prices, taxi and motorbike hire, the Hanoi fare, Moc Chau minutes, Pha Din, pass closures, 2027 festival dates, a Tet surcharge, and the Hmong day. Side trip placeholders: Dien Bien Phu, Ta Xua, Yen Chau, Hoa Binh. Place dot 4. Map pin 21.33, 103.91 is not in the dossier.",
+      "updated": "2026-10-22T04:36:05.269Z",
       "reworkCount": 0
     },
     "destinationCopy": {
@@ -370,14 +370,14 @@
       "track": "bundled",
       "name": "Le Thai Tong temple festival",
       "slug": "le-thai-tong-festival",
-      "file": null,
+      "file": "src/content/festivals/le-thai-tong-festival.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
+      "page": "paged",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Sourced in the dossier. Unpublished: no licensed photo. A moving date stays check on arrival.",
-      "updated": "2026-10-22T04:18:12.589Z",
+      "note": "Festival record. No licensed photo, so no photo field. Both lunar windows stay.",
+      "updated": "2026-10-22T04:36:05.298Z",
       "reworkCount": 0
     },
     {
@@ -386,14 +386,14 @@
       "track": "bundled",
       "name": "Tet at the temple and the peach",
       "slug": "tet-peach",
-      "file": null,
+      "file": "src/content/festivals/son-la-tet-peach.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
+      "page": "paged",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Sourced in the dossier. Unpublished: no licensed photo. A moving date stays check on arrival.",
-      "updated": "2026-10-22T04:18:12.620Z",
+      "note": "Tet week on the place. No licensed photo, so no photo field. Civil dates stay check on arrival.",
+      "updated": "2026-10-22T04:36:05.326Z",
       "reworkCount": 0
     },
     {
@@ -402,27 +402,35 @@
       "track": "bundled",
       "name": "Hmong independence days",
       "slug": "hmong-september",
-      "file": null,
+      "file": "src/content/festivals/son-la-hmong-september.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
+      "page": "paged",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Sourced in the dossier. Unpublished: no licensed photo. A moving date stays check on arrival.",
-      "updated": "2026-10-22T04:18:12.652Z",
+      "note": "September is named only. No ward, no rite, no licensed photo.",
+      "updated": "2026-10-22T04:36:05.356Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
   "claim": {
     "place": "son-la",
-    "stage": "destination",
+    "stage": "destinationCopy",
     "item": null,
-    "at": "2026-10-22T04:29:13.604Z",
+    "at": "2026-10-22T04:36:05.447Z",
     "by": "son-la-page",
     "branch": "cursor/son-la-destination-db6e"
   },
   "log": [
+    {
+      "at": "2026-10-22T04:36:05.269Z",
+      "place": "son-la",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place shell, seven interest groups, valley-day itinerary, three festivals. No attraction cards: dossier marks every sight unpublished, no licensed photo. No food guide, foodSlug, or Food chip. Check on arrival for disagreeing prison hours and tickets, the dam gate and a boat, Ban Mong soak, the stele, market clocks, stall prices, taxi and motorbike hire, the Hanoi fare, Moc Chau minutes, Pha Din, pass closures, 2027 festival dates, a Tet surcharge, and the Hmong day. Side trip placeholders: Dien Bien Phu, Ta Xua, Yen Chau, Hoa Binh. Place dot 4. Map pin 21.33, 103.91 is not in the dossier."
+    },
     {
       "at": "2026-10-22T04:18:12.744Z",
       "place": "son-la",
