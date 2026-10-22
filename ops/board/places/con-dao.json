@@ -114,14 +114,14 @@
       "track": "unit",
       "name": "Con Dao prison",
       "slug": "con-dao-prison",
-      "file": null,
+      "file": "src/content/attractions/con-dao--con-dao-prison.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
+      "page": "paged",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Camps, the lord's house, and both death counts stay in this one entry.",
-      "updated": "2026-10-21T18:40:18.808Z",
+      "note": "Yard and cell blocks, plus the French tiger cages. Both prisoner figures. Gate hour and relic ticket Check on arrival. The Phu Hai gate is the interest portrait, not the hero.",
+      "updated": "2026-10-22T02:46:51.611Z",
       "reworkCount": 0
     },
     {
@@ -528,6 +528,14 @@
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T02:46:51.611Z",
+      "place": "con-dao",
+      "stage": "page",
+      "item": "con-dao--con-dao-prison",
+      "status": "paged",
+      "note": "Yard and cell blocks, plus the French tiger cages. Both prisoner figures. Gate hour and relic ticket Check on arrival. The Phu Hai gate is the interest portrait, not the hero."
+    },
     {
       "at": "2026-10-22T02:45:11.314Z",
       "place": "con-dao",

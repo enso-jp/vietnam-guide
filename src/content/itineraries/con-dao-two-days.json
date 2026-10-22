@@ -26,6 +26,17 @@
   ],
   "stops": [
     {
+      "name": "Con Dao prison",
+      "placeSlug": "con-dao",
+      "attractionSlug": "con-dao-prison",
+      "note": "Day 1. Walk in town. Minutes inside the walls were not printed. Check on arrival. The relic ticket is not the scenic fee.",
+      "minutes": "Check on arrival",
+      "approach": {
+        "mode": "walk",
+        "note": "From Côn Sơn town. Street minutes were not printed."
+      }
+    },
+    {
       "name": "Boat toward Hon Bay Canh",
       "placeSlug": "con-dao",
       "note": "Day 2. About 45 minutes by boat on the English park tour page. Time on the islet and the fare: check on arrival.",

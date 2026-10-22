@@ -68,8 +68,8 @@
     },
     {
       "title": "The camps",
-      "summary": "The prison system from 1862, walked as one site. The relic ticket is check on arrival.",
-      "placeSlug": "con-dao",
+      "summary": "The prison system from 1862, walked as one site. The relic ticket is Check on arrival.",
+      "attractionSlug": "con-dao-prison",
       "photo": "con-dao-camps-interest",
       "icon": "museum"
     },
@@ -135,8 +135,8 @@
       "cards": [
         {
           "title": "The camps",
-          "summary": "A camp gate and the yard. Hours on the indexed extract did not load, so the gate hour is check on arrival.",
-          "placeSlug": "con-dao",
+          "summary": "A camp gate and the yard. Hours on the indexed extract did not load, so the gate hour is Check on arrival.",
+          "attractionSlug": "con-dao-prison",
           "photo": "con-dao-camps-interest",
           "icon": "museum",
           "block": "camps"
