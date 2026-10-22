@@ -126,6 +126,13 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "can-tho",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-22T16:51:31.972Z",
+    "by": "can-tho-research",
+    "branch": "cursor/can-tho-research-428e"
+  },
   "log": []
 }
