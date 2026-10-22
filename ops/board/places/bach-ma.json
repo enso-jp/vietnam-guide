@@ -1,0 +1,105 @@
+{
+  "slug": "bach-ma",
+  "name": "Bach Ma",
+  "nameVi": "Bạch Mã",
+  "corridor": "north-central",
+  "kind": "area",
+  "parent": null,
+  "publish": "candidate",
+  "priority": 107,
+  "note": "National park on the north-central corridor, between Hue and Lang Co. Not a second Hue, Lang Co, or Da Nang page. Research may be stored. Do not create a public place file until publish is accepted.",
+  "coverage": {
+    "sights": "missing",
+    "areas": "missing",
+    "foodStreets": "missing",
+    "nightlife": "missing",
+    "lifestyle": "missing",
+    "events": "missing",
+    "sideTrips": "missing"
+  },
+  "stages": {
+    "researchBase": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchAttractions": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchFood": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchNightlife": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchLifestyle": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchContext": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destination": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "food": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    }
+  },
+  "items": [],
+  "questions": [],
+  "claim": {
+    "place": "bach-ma",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-22T04:03:01.624Z",
+    "by": "bach-ma-research",
+    "branch": "cursor/bach-ma-research-89d6"
+  },
+  "log": []
+}
