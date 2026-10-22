@@ -2435,7 +2435,21 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   letter-spacing: 0.12em;
   font-weight: 700;
 }
-.dest-catalog-title { display: none; }
+.dest-page .dest-top,
+.dest-page .dest-catalog {
+  margin-top: 1.85rem;
+  padding-top: 1.45rem;
+  border-top: 3px solid var(--lacquer);
+}
+.dest-top h2,
+.dest-catalog-title,
+.dest-region h2 { text-align: center; }
+.dest-top h2 { margin: 0 0 0.85rem; }
+.dest-catalog-title {
+  margin: 0 0 0.35rem;
+  font-size: 1.65rem;
+}
+.dest-catalog .dest-region:first-child { margin-top: 0.2rem; }
 .dest-region { margin-top: 2.6rem; }
 .dest-region h2 { margin: 0.15rem 0 0.35rem; font-size: 1.65rem; }
 .dest-mini {
@@ -2484,17 +2498,8 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   .dest-page .dest-catalog {
     margin-top: 1.7rem;
     padding-top: 1.35rem;
-    border-top: 3px solid var(--lacquer);
   }
-  .dest-page .dest-top h2,
-  .dest-page .dest-catalog-title,
-  .dest-page .dest-region h2 { text-align: center; }
-  .dest-page .dest-top h2 { margin: 0 0 0.85rem; }
-  .dest-page .dest-catalog-title {
-    display: block;
-    margin: 0 0 0.2rem;
-    font-size: 1.55rem;
-  }
+  .dest-page .dest-catalog-title { font-size: 1.55rem; margin-bottom: 0.2rem; }
   .dest-page .dest-catalog .dest-region:first-child { margin-top: 0.15rem; }
   .top-grid { grid-template-columns: 1fr 1fr; gap: 0.75rem 0.6rem; }
   .top-copy strong { font-size: 1rem; }
