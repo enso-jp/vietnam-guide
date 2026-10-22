@@ -526,7 +526,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "my-tho",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-22T02:13:26.701Z",
+    "by": "my-tho-page",
+    "branch": "cursor/my-tho-page-7ecb"
+  },
   "log": [
     {
       "at": "2026-10-21T18:52:06.778Z",
