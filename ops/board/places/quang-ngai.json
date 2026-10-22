@@ -55,9 +55,9 @@
       "reworkCount": 0
     },
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, three interest groups, one day itinerary. Festivals left off: no licensed event photo. Ly Son, Sa Huynh, Tra Bong, and Ba To stay side-trip placeholders. Fees and hours are Check on arrival. Map pin 15.12, 108.8 is not in the dossier; the page needs a coordinate. All three area and population pairs kept.",
+      "updated": "2026-10-22T04:48:52.514Z",
       "reworkCount": 0
     },
     "destinationCopy": {
@@ -574,15 +574,16 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "quang-ngai",
-    "stage": "destination",
-    "item": null,
-    "at": "2026-10-22T04:26:49.933Z",
-    "by": "quang-ngai-destination",
-    "branch": "cursor/quang-ngai-destination-4da0"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T04:48:52.515Z",
+      "place": "quang-ngai",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place shell, three interest groups, one day itinerary. Festivals left off: no licensed event photo. Ly Son, Sa Huynh, Tra Bong, and Ba To stay side-trip placeholders. Fees and hours are Check on arrival. Map pin 15.12, 108.8 is not in the dossier; the page needs a coordinate. All three area and population pairs kept."
+    },
     {
       "at": "2026-10-22T04:18:15.572Z",
       "place": "quang-ngai",
