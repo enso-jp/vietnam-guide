@@ -278,7 +278,6 @@ const leadSight = tiedForLead.find((item) => topInterest && item.interests.inclu
         )}
         <section id="stay" class="place-section">
           <h2>Hotels</h2>
-          <p class="note">Placeholder. Individual hotels are not listed until a stay partner is connected. Searching still opens the labeled partner results.</p>
           <ul class="aff-list">
             {place.stayAreas.map((area) => (
               <li>
@@ -296,11 +295,10 @@ const leadSight = tiedForLead.find((item) => topInterest && item.interests.inclu
               </li>
             ))}
           </ul>
-          <p class="note">Partner link. We may earn a commission if you book.</p>
         </section>
         <section id="eat" class="place-section">
           <h2>Restaurants</h2>
-          <p class="note">Placeholder. Restaurant partners are not connected. What to order is on the food guide.</p>
+          <p class="note">What to order is on the food guide.</p>
           <ul class="aff-list">
             <li>
               <a class="aff-row" href={`/food/${foodGuide?.slug ?? place.slug}`}>
@@ -320,7 +318,6 @@ const leadSight = tiedForLead.find((item) => topInterest && item.interests.inclu
       </div>
       <aside class="rail">
         <div class="panel stay-box">
-          <small>Partner link. We may earn a commission if you book.</small>
           <h2>Book your <em>stay</em></h2>
           <ul class="stay-tabs">
             <li class="is-on"><span class="stay-tile"><Icon name="bed" /></span>Stays</li>
@@ -331,7 +328,7 @@ const leadSight = tiedForLead.find((item) => topInterest && item.interests.inclu
             <li><span class="stay-tile"><Icon name="food" /></span>Food</li>
           </ul>
           <p class="stay-field"><span>City</span><strong>{place.name}</strong></p>
-          <p class="note">Dates open on the partner site. This is a placeholder until hotel listings are connected.</p>
+          <p class="note">This is a placeholder until hotel listings are connected.</p>
           <a class="stay-btn" href={stayLink(place.name)} rel="sponsored noopener" target="_blank" data-partner="stay">Search stays</a>
         </div>
         <div class="panel">

@@ -123,7 +123,6 @@ const jsonLd = {
       <aside class="rail">
         {firstPlace && (
           <div class="panel stay-box">
-            <small>Partner link. We may earn a commission if you book.</small>
             <h2>Book your <em>stay</em></h2>
             <ul class="stay-tabs">
               <li class="is-on"><span class="stay-tile"><Icon name="bed" /></span>Stays</li>
@@ -134,7 +133,7 @@ const jsonLd = {
               <li><span class="stay-tile"><Icon name="food" /></span>Food</li>
             </ul>
             <p class="stay-field"><span>City</span><strong>{firstPlace.name}</strong></p>
-            <p class="note">Dates open on the partner site. This is a placeholder until hotel listings are connected.</p>
+            <p class="note">This is a placeholder until hotel listings are connected.</p>
             <a class="stay-btn" href={stayLink(firstPlace.name)} rel="sponsored noopener" target="_blank" data-partner="stay">Search stays</a>
           </div>
         )}

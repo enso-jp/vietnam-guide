@@ -2139,7 +2139,7 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   .home-hero-lead .cover,
   .home-hero-lead img,
   .home-hero-lead .cover svg { border-radius: 0; }
-  .home-stories { order: 4; }
+  .home-stories { order: 7; }
   .region-picks,
   .region-stack { display: none; }
   .region-map-frame { margin-inline: 1rem; }
@@ -2333,15 +2333,24 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   .home-sheet { order: 2; }
   .home-hero-next { order: 3; margin-top: var(--band-gap); }
   .lead-stories { order: 4; }
-  .lead-actions { order: 5; }
+  .lead-actions { order: 7; }
   .home-section { order: 6; }
-  .home-rail { order: 7; }
+  .home-rail { order: 8; }
   .hero, .place-grid, .card-list, .jg-grid, .hub-grid, .facts { grid-template-columns: 1fr; }
   .interest-grid, .plan-row { grid-template-columns: 1fr 1fr; }
   .home-hero img, .home-hero .cover, .home-hero .cover svg { height: 24rem; }
   .home-hero-next img, .home-hero-next .cover, .home-hero-next .cover svg { height: 18rem; }
   .home-sheet { margin-left: 0.45rem; margin-right: 0.45rem; }
-  .mini-card { flex-basis: 78%; }
+  .home-sheet .sheet-row {
+    gap: 0;
+    scroll-snap-type: x mandatory;
+    scroll-padding-inline: 0;
+  }
+  .home-sheet .mini-card {
+    flex: 0 0 100%;
+    scroll-snap-align: start;
+    scroll-snap-stop: always;
+  }
   .reading .card-list { grid-template-columns: 1fr; }
   .dish-feature.has-photo { grid-template-columns: 7.4rem minmax(0, 1fr); gap: 0.75rem; align-items: start; }
   .dish-feature img, .dish-feature svg, .dish-feature .cover { height: 6.2rem; }

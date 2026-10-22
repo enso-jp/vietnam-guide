@@ -63,7 +63,7 @@ const crumbSchema = [
     <SectionNav label={`${showcase.name} coasts`} items={groups.map((group) => ({ id: group.id, label: group.heading }))} />
     <div class="reading place-body">
       {showcase.body.map((paragraph) => <p>{paragraph}</p>)}
-      <p class="note">Each name is on the operator’s public site. Rates are not listed here. Search stays on the partner link in the travel guide.</p>
+      <p class="note">Each name is on the operator’s public site. Rates are not listed here.</p>
       {groups.map((group) => (
         <section id={group.id} class="place-section">
           <h2>{group.heading}</h2>
