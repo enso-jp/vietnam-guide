@@ -55,39 +55,39 @@
       "reworkCount": 0
     },
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, Holy See interest, one two-day itinerary, seven festivals, nearby Ho Chi Minh City and Cu Chi. No food guide: no licensed plate. No sight card yet: only the Holy See has a licensed frame. Ba Den, the lake, the valley, and Go Ken stay off the card grid. City pin unset: no dossier source prints a city point. Check on arrival: Holy See ticket, grounds closing hour, minutes from Tan Ninh, second-cable everyday fare, Go Ken address fee and hour, coach fare and station door.",
+      "updated": "2026-10-22T07:21:07.285Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:51:36.435Z",
+      "status": "enriched",
+      "note": "Ba Den intro now prints Decision 100-VH/QĐ and 100/VH-QĐ, both 21 Jan 1989, and Hậu cần 82 beside Hậu cần 32. Liên đội 7 stays on both.",
+      "updated": "2026-10-22T07:25:11.830Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:51:36.435Z",
-      "reworkCount": 0
+      "status": "checked",
+      "note": "Read the dossier against the place. Distances, both cable clocks, both Chi Ton days, both bath hours, both lake capacities, the printed 27 km, and the two war-unit numbers are on the page. No city pin. Holy See ticket, grounds close, minutes from Tan Ninh, second-cable everyday fare, and Go Ken address fee and hour stay Check on arrival. No food chip.",
+      "updated": "2026-10-22T07:25:11.899Z",
+      "reworkCount": 1
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "skipped",
+      "note": "No licensed plate. The dossier filed no dish photograph. No food guide, no Food chip, no interests.food, and no dish page. Eat text on the place names the Trang Bang roll without a stall price.",
+      "updated": "2026-10-22T07:25:22.598Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:51:36.435Z",
+      "status": "skipped",
+      "note": "No food guide to copy. No licensed plate.",
+      "updated": "2026-10-22T07:25:22.667Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:51:36.435Z",
+      "status": "skipped",
+      "note": "No food guide to check. No licensed plate.",
+      "updated": "2026-10-22T07:25:22.737Z",
       "reworkCount": 0
     }
   },
@@ -98,14 +98,14 @@
       "track": "unit",
       "name": "Cao Dai Holy See",
       "slug": "cao-dai-holy-see",
-      "file": null,
+      "file": "src/content/attractions/tay-ninh--cao-dai-holy-see.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed photo. Do not open a card until a photo exists. Conflicting figures stay in the dossier.",
-      "updated": "2026-10-22T06:51:36.435Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Kicker is four words. Summary is 66 words. Hours name the four services and Check on arrival for the grounds close. Fee is Check on arrival. No coordinates. Hero shows the facade, both towers, and the court. The hall photograph is a different moment.",
+      "updated": "2026-10-22T07:26:21.363Z",
       "reworkCount": 0
     },
     {
@@ -117,11 +117,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed photo. Do not open a card until a photo exists. Conflicting figures stay in the dossier.",
-      "updated": "2026-10-22T06:51:36.435Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo of the peak, the plain, and a cable cabin or the pilgrim path. Facts stay on the place.",
+      "updated": "2026-10-22T07:27:12.364Z",
       "reworkCount": 0
     },
     {
@@ -133,11 +133,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed photo. Do not open a card until a photo exists. Conflicting figures stay in the dossier.",
-      "updated": "2026-10-22T06:51:36.435Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo of the green pool, the rock walls, and the forest above them. Facts stay on the place.",
+      "updated": "2026-10-22T07:27:12.578Z",
       "reworkCount": 0
     },
     {
@@ -149,11 +149,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed photo. Do not open a card until a photo exists. Conflicting figures stay in the dossier.",
-      "updated": "2026-10-22T06:51:36.435Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed shore photograph. Satellite frames were not used. The printed 27 km and both capacities stay on the place. Ticket is Check on arrival.",
+      "updated": "2026-10-22T07:27:12.778Z",
       "reworkCount": 0
     },
     {
@@ -165,11 +165,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed photo. Do not open a card until a photo exists. Conflicting figures stay in the dossier.",
-      "updated": "2026-10-22T06:51:36.435Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photograph, and no ward, fee, or hour. Check on arrival. Facts stay on the place.",
+      "updated": "2026-10-22T07:27:12.980Z",
       "reworkCount": 0
     },
     {
@@ -418,14 +418,14 @@
       "track": "unit",
       "name": "Via Ba",
       "slug": "via-ba",
-      "file": null,
+      "file": "src/content/festivals/tay-ninh-via-ba.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Festival text is in the dossier. No licensed photo. Not an attraction card. A festival file waits until publish is accepted.",
-      "updated": "2026-10-22T06:51:36.435Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Both 2026 windows, both bath hours, and both recognition dates stay. No rite photograph, so the card does not reuse the Holy See. Next solar date and a 2027 fare are Check on arrival.",
+      "updated": "2026-10-22T07:27:13.207Z",
       "reworkCount": 0
     },
     {
@@ -434,14 +434,14 @@
       "track": "unit",
       "name": "Hoi xuan Ba Den",
       "slug": "hoi-xuan",
-      "file": null,
+      "file": "src/content/festivals/tay-ninh-hoi-xuan.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Festival text is in the dossier. No licensed photo. Not an attraction card. A festival file waits until publish is accepted.",
-      "updated": "2026-10-22T06:51:36.435Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Spring festival from the 4th of lunar January through the end of that month. No timetable. Solar date and fee are Check on arrival. No rite photograph.",
+      "updated": "2026-10-22T07:27:13.437Z",
       "reworkCount": 0
     },
     {
@@ -450,14 +450,14 @@
       "track": "unit",
       "name": "Dong Kim Quang",
       "slug": "kim-quang",
-      "file": null,
+      "file": "src/content/festivals/tay-ninh-kim-quang.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Festival text is in the dossier. No licensed photo. Not an attraction card. A festival file waits until publish is accepted.",
-      "updated": "2026-10-22T06:51:36.435Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "14th of lunar January at Dong Kim Quang. No program. Solar date and fee are Check on arrival. Not Cu Chi. No rite photograph.",
+      "updated": "2026-10-22T07:27:13.672Z",
       "reworkCount": 0
     },
     {
@@ -466,14 +466,14 @@
       "track": "unit",
       "name": "Via Duc Chi Ton",
       "slug": "chi-ton",
-      "file": null,
+      "file": "src/content/festivals/tay-ninh-chi-ton.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Festival text is in the dossier. No licensed photo. Not an attraction card. A festival file waits until publish is accepted.",
-      "updated": "2026-10-22T06:51:36.435Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "9th of lunar January on the mountain board and 8th on the ward page both stay. Solar date and fee are Check on arrival. No rite photograph.",
+      "updated": "2026-10-22T07:27:13.911Z",
       "reworkCount": 0
     },
     {
@@ -482,14 +482,14 @@
       "track": "unit",
       "name": "Hoi Yen Dieu Tri Cung",
       "slug": "hoi-yen",
-      "file": null,
+      "file": "src/content/festivals/tay-ninh-hoi-yen.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Festival text is in the dossier. No licensed photo. Not an attraction card. A festival file waits until publish is accepted.",
-      "updated": "2026-10-22T06:51:36.435Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "2026 hours from the church notice stay, including 18:30 and 22:00. Next solar date and fee are Check on arrival. No rite photograph.",
+      "updated": "2026-10-22T07:27:14.151Z",
       "reworkCount": 0
     },
     {
@@ -498,14 +498,14 @@
       "track": "unit",
       "name": "Banh trang festival",
       "slug": "banh-trang-festival",
-      "file": null,
+      "file": "src/content/festivals/tay-ninh-banh-trang-festival.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Festival text is in the dossier. No licensed photo. Not an attraction card. A festival file waits until publish is accepted.",
-      "updated": "2026-10-22T06:51:36.435Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Held since 2016, more than 200 stalls. Next date and fee are Check on arrival. No plate or rite photograph.",
+      "updated": "2026-10-22T07:27:14.376Z",
       "reworkCount": 0
     },
     {
@@ -514,14 +514,14 @@
       "track": "unit",
       "name": "Tra Vong",
       "slug": "tra-vong",
-      "file": null,
+      "file": "src/content/festivals/tay-ninh-tra-vong.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Festival text is in the dossier. No licensed photo. Not an attraction card. A festival file waits until publish is accepted.",
-      "updated": "2026-10-22T06:51:36.435Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Lunar 15 and 16 of the third month. Commune was not named. Place, solar date, and fee are Check on arrival. Not the Holy See and not Ba Den.",
+      "updated": "2026-10-22T07:27:14.603Z",
       "reworkCount": 0
     }
   ],
@@ -529,100 +529,164 @@
   "claim": null,
   "log": [
     {
-      "at": "2026-10-22T06:51:36.435Z",
+      "at": "2026-10-22T07:27:14.603Z",
       "place": "tay-ninh",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "left out 2027 solar dates, the Tra Vong commune, minutes to Moc Bai, Xa Mat, Binh Hiep, and Tan An, and a Nguyen Trung Truc date. Old Long An stays a placeholder. Both Via Ba windows and both bath hours stay."
+      "stage": "quality",
+      "item": "tay-ninh--tra-vong",
+      "status": "checked",
+      "note": "Lunar 15 and 16 of the third month. Commune was not named. Place, solar date, and fee are Check on arrival. Not the Holy See and not Ba Den."
     },
     {
-      "at": "2026-10-22T06:51:25.379Z",
+      "at": "2026-10-22T07:27:14.536Z",
       "place": "tay-ninh",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "left out a breakfast street in Tan Ninh, a cafe street, and the hour the city goes quiet."
+      "stage": "copy",
+      "item": "tay-ninh--tra-vong",
+      "status": "enriched",
+      "note": "Lunar 15 and 16 of the third month. Commune was not named. Place, solar date, and fee are Check on arrival. Not the Holy See and not Ba Den."
     },
     {
-      "at": "2026-10-22T06:51:25.246Z",
+      "at": "2026-10-22T07:27:14.468Z",
       "place": "tay-ninh",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "left out a bar street and the hour the Holy See grounds close. None recorded for a bar street. Both evening cable clocks stay."
+      "stage": "page",
+      "item": "tay-ninh--tra-vong",
+      "status": "paged",
+      "note": "Lunar 15 and 16 of the third month. Commune was not named. Place, solar date, and fee are Check on arrival. Not the Holy See and not Ba Den."
     },
     {
-      "at": "2026-10-22T06:51:25.093Z",
+      "at": "2026-10-22T07:27:14.376Z",
       "place": "tay-ninh",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "left out stall prices, how muoi tom is eaten, the bun Xiem Lo bowl and its commune, a food street in Tan Ninh, and a closing hour. Both dipping sauces stay."
+      "stage": "quality",
+      "item": "tay-ninh--banh-trang-festival",
+      "status": "checked",
+      "note": "Held since 2016, more than 200 stalls. Next date and fee are Check on arrival. No plate or rite photograph."
     },
     {
-      "at": "2026-10-22T06:51:24.772Z",
+      "at": "2026-10-22T07:27:14.313Z",
       "place": "tay-ninh",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "left out a Holy See ticket, a second visit length beside the single 60 minutes, minutes from Tan Ninh, an everyday fare for the second cable, and a Go Ken address. Both cable clocks, both area figures, and both Chi Ton days stay."
+      "stage": "copy",
+      "item": "tay-ninh--banh-trang-festival",
+      "status": "enriched",
+      "note": "Held since 2016, more than 200 stalls. Next date and fee are Check on arrival. No plate or rite photograph."
     },
     {
-      "at": "2026-10-22T06:51:24.319Z",
+      "at": "2026-10-22T07:27:14.251Z",
       "place": "tay-ninh",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "left out a passenger airport in Tay Ninh, a rail you can board, one kilometre from Ho Chi Minh City, one drive time, and a bus fare. About 100 km, about 110 km, and about 90 km to more than 100 km all stay."
+      "stage": "page",
+      "item": "tay-ninh--banh-trang-festival",
+      "status": "paged",
+      "note": "Held since 2016, more than 200 stalls. Next date and fee are Check on arrival. No plate or rite photograph."
     },
     {
-      "at": "2026-10-22T06:51:07.101Z",
+      "at": "2026-10-22T07:27:14.151Z",
       "place": "tay-ninh",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The rites and the side trips are in. Still open: 2027 solar dates, the Tra Vong commune, and minutes to Moc Bai."
+      "stage": "quality",
+      "item": "tay-ninh--hoi-yen",
+      "status": "checked",
+      "note": "2026 hours from the church notice stay, including 18:30 and 22:00. Next solar date and fee are Check on arrival. No rite photograph."
     },
     {
-      "at": "2026-10-22T06:51:06.731Z",
+      "at": "2026-10-22T07:27:14.083Z",
       "place": "tay-ninh",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The shape of the day is in. Still open: a breakfast street in Tan Ninh, a cafe street, and the hour the city goes quiet."
+      "stage": "copy",
+      "item": "tay-ninh--hoi-yen",
+      "status": "enriched",
+      "note": "2026 hours from the church notice stay, including 18:30 and 22:00. Next solar date and fee are Check on arrival. No rite photograph."
     },
     {
-      "at": "2026-10-22T06:51:06.598Z",
+      "at": "2026-10-22T07:27:14.010Z",
       "place": "tay-ninh",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The 18:00 court and the evening cable are in. Still open: a bar street and the hour the grounds close."
+      "stage": "page",
+      "item": "tay-ninh--hoi-yen",
+      "status": "paged",
+      "note": "2026 hours from the church notice stay, including 18:30 and 22:00. Next solar date and fee are Check on arrival. No rite photograph."
     },
     {
-      "at": "2026-10-22T06:51:06.435Z",
+      "at": "2026-10-22T07:27:13.911Z",
       "place": "tay-ninh",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Rolls, banh canh, and the Trang Bang streets are in. Still open: how muoi tom is eaten, the bun Xiem Lo bowl, a city food street, and stall hours."
+      "stage": "quality",
+      "item": "tay-ninh--chi-ton",
+      "status": "checked",
+      "note": "9th of lunar January on the mountain board and 8th on the ward page both stay. Solar date and fee are Check on arrival. No rite photograph."
     },
     {
-      "at": "2026-10-22T06:51:06.088Z",
+      "at": "2026-10-22T07:27:13.841Z",
       "place": "tay-ninh",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Holy See, Ba Den, the valley, the lake, Go Ken, and the wards are in. Still open: a second duration for the Holy See, a temple ticket, minutes between the city and the mountain, and the second cable everyday fare."
+      "stage": "copy",
+      "item": "tay-ninh--chi-ton",
+      "status": "enriched",
+      "note": "9th of lunar January on the mountain board and 8th on the ward page both stay. Solar date and fee are Check on arrival. No rite photograph."
     },
     {
-      "at": "2026-10-22T06:51:05.606Z",
+      "at": "2026-10-22T07:27:13.775Z",
       "place": "tay-ninh",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and the road are in. Still open: a passenger airport inside Tay Ninh, a rail you can board, one kilometre from Ho Chi Minh City, one drive time, and a bus fare."
+      "stage": "page",
+      "item": "tay-ninh--chi-ton",
+      "status": "paged",
+      "note": "9th of lunar January on the mountain board and 8th on the ward page both stay. Solar date and fee are Check on arrival. No rite photograph."
+    },
+    {
+      "at": "2026-10-22T07:27:13.672Z",
+      "place": "tay-ninh",
+      "stage": "quality",
+      "item": "tay-ninh--kim-quang",
+      "status": "checked",
+      "note": "14th of lunar January at Dong Kim Quang. No program. Solar date and fee are Check on arrival. Not Cu Chi. No rite photograph."
+    },
+    {
+      "at": "2026-10-22T07:27:13.603Z",
+      "place": "tay-ninh",
+      "stage": "copy",
+      "item": "tay-ninh--kim-quang",
+      "status": "enriched",
+      "note": "14th of lunar January at Dong Kim Quang. No program. Solar date and fee are Check on arrival. Not Cu Chi. No rite photograph."
+    },
+    {
+      "at": "2026-10-22T07:27:13.532Z",
+      "place": "tay-ninh",
+      "stage": "page",
+      "item": "tay-ninh--kim-quang",
+      "status": "paged",
+      "note": "14th of lunar January at Dong Kim Quang. No program. Solar date and fee are Check on arrival. Not Cu Chi. No rite photograph."
+    },
+    {
+      "at": "2026-10-22T07:27:13.437Z",
+      "place": "tay-ninh",
+      "stage": "quality",
+      "item": "tay-ninh--hoi-xuan",
+      "status": "checked",
+      "note": "Spring festival from the 4th of lunar January through the end of that month. No timetable. Solar date and fee are Check on arrival. No rite photograph."
+    },
+    {
+      "at": "2026-10-22T07:27:13.372Z",
+      "place": "tay-ninh",
+      "stage": "copy",
+      "item": "tay-ninh--hoi-xuan",
+      "status": "enriched",
+      "note": "Spring festival from the 4th of lunar January through the end of that month. No timetable. Solar date and fee are Check on arrival. No rite photograph."
+    },
+    {
+      "at": "2026-10-22T07:27:13.305Z",
+      "place": "tay-ninh",
+      "stage": "page",
+      "item": "tay-ninh--hoi-xuan",
+      "status": "paged",
+      "note": "Spring festival from the 4th of lunar January through the end of that month. No timetable. Solar date and fee are Check on arrival. No rite photograph."
+    },
+    {
+      "at": "2026-10-22T07:27:13.207Z",
+      "place": "tay-ninh",
+      "stage": "quality",
+      "item": "tay-ninh--via-ba",
+      "status": "checked",
+      "note": "Both 2026 windows, both bath hours, and both recognition dates stay. No rite photograph, so the card does not reuse the Holy See. Next solar date and a 2027 fare are Check on arrival."
+    },
+    {
+      "at": "2026-10-22T07:27:13.142Z",
+      "place": "tay-ninh",
+      "stage": "copy",
+      "item": "tay-ninh--via-ba",
+      "status": "enriched",
+      "note": "Both 2026 windows, both bath hours, and both recognition dates stay. No rite photograph, so the card does not reuse the Holy See. Next solar date and a 2027 fare are Check on arrival."
     }
   ]
 }

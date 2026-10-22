@@ -1,0 +1,37 @@
+{
+  "slug": "tay-ninh-day",
+  "title": "Two days in Tay Ninh",
+  "kind": "trip",
+  "level": "day",
+  "duration": "2 days and 1 night",
+  "spanDays": 2,
+  "placeSlug": "tay-ninh",
+  "budget": "Check on arrival",
+  "pace": "Noon service, then the cable",
+  "summary": "Noon at the Holy See, the 18:00 service if you stay, and the cable at Ba Den the next morning. The provincial homepage offers 2 days and 1 night. The Holy See visit is about 60 minutes on one page only. No ticket was printed. Minutes from Tân Ninh are check on arrival.",
+  "photo": "tay-ninh",
+  "days": [
+    {
+      "title": "Day 1 — The court and the 18:00 service",
+      "body": "Come in on Quốc lộ 22 through Trảng Bàng and Gò Dầu, or on Quốc lộ 22A to the Trảng Bàng junction and then tỉnh lộ 782. If you stop in Trảng Bàng, the meal is a rice-paper roll and a bowl of bánh canh in khu phố Gia Huỳnh. Late morning is the Holy See court in phường Long Hoa. Noon is the service. Shoes come off. Men take the right door. Women take the left door. The night is the 18:00 rite in the same court. On 25 September 2026 the flower procession was at 18:30 and the great rite at 22:00. No bar street was named. The bed is phường Tân Ninh.",
+      "placeSlug": "tay-ninh",
+      "photo": "tay-ninh"
+    },
+    {
+      "title": "Day 2 — The cable",
+      "body": "The first cable is at Ba Den, a little more than 10 km from the city centre, or 11 km northeast. The clock in force on 22 October 2026 is the 28 September notice: weekdays 06:00–20:30, Saturday 05:30–21:00, Sunday 05:30–20:30 for Vân Sơn and Chùa Hang. An earlier article prints 6:00–20:00 on Monday and Friday and 5:30–21:00 on weekends and holidays. Both clocks stay. No single visit length is printed for the mountain. Minutes from Tân Ninh are check on arrival. After 17:00 the lower fare on the September–December notice applies. The June festival prices are a closed window. Sleep nearer the gate in phường Bình Minh if this cable was the reason you stayed.",
+      "placeSlug": "tay-ninh"
+    }
+  ],
+  "stops": [
+    {
+      "name": "Cao Dai Holy See",
+      "minutes": 60,
+      "placeSlug": "tay-ninh",
+      "attractionSlug": "cao-dai-holy-see",
+      "note": "About 60 minutes on the Bình Dương tourism page only. Tây Ninh pages do not print a second length. No ticket was printed. Check on arrival. About 4 km southeast of the old city, in phường Long Hoa. Minutes from Tân Ninh are check on arrival. Noon is the service to see. The 18:00 rite is the evening if you stay."
+    }
+  ],
+  "seoTitle": "Two days in Tay Ninh — Holy See noon, then the cable",
+  "seoDescription": "A Tay Ninh night for the Cao Dai noon service and the Ba Den cable the next morning. About 60 minutes at the temple on one page. The ticket is check on arrival."
+}
