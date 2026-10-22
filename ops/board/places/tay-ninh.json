@@ -73,21 +73,21 @@
       "reworkCount": 1
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "skipped",
+      "note": "No licensed plate. The dossier filed no dish photograph. No food guide, no Food chip, no interests.food, and no dish page. Eat text on the place names the Trang Bang roll without a stall price.",
+      "updated": "2026-10-22T07:25:22.598Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:51:36.435Z",
+      "status": "skipped",
+      "note": "No food guide to copy. No licensed plate.",
+      "updated": "2026-10-22T07:25:22.667Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:51:36.435Z",
+      "status": "skipped",
+      "note": "No food guide to check. No licensed plate.",
+      "updated": "2026-10-22T07:25:22.737Z",
       "reworkCount": 0
     }
   },
@@ -526,8 +526,39 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "tay-ninh",
+    "stage": "page",
+    "item": "tay-ninh--cao-dai-holy-see",
+    "at": "2026-10-22T07:25:22.771Z",
+    "by": "tay-ninh-page",
+    "branch": "cursor/tay-ninh-destination-0ab9"
+  },
   "log": [
+    {
+      "at": "2026-10-22T07:25:22.737Z",
+      "place": "tay-ninh",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "skipped",
+      "note": "No food guide to check. No licensed plate."
+    },
+    {
+      "at": "2026-10-22T07:25:22.667Z",
+      "place": "tay-ninh",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "skipped",
+      "note": "No food guide to copy. No licensed plate."
+    },
+    {
+      "at": "2026-10-22T07:25:22.598Z",
+      "place": "tay-ninh",
+      "stage": "food",
+      "item": null,
+      "status": "skipped",
+      "note": "No licensed plate. The dossier filed no dish photograph. No food guide, no Food chip, no interests.food, and no dish page. Eat text on the place names the Trang Bang roll without a stall price."
+    },
     {
       "at": "2026-10-22T07:25:11.899Z",
       "place": "tay-ninh",
