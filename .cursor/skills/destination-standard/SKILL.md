@@ -16,7 +16,7 @@ Da Nang is the required shape. Every destination follows the same frames with it
 A destination is not done while any of these is true:
 
 - The city hero is a pile of blue plastic chairs, or any stand-in that is not the subject.
-- The food guide is under 40 entries, or it is two dishes. Da Nang’s 13 dish pages are not the ceiling.
+- A dining city whose dossier can support 40 is still a two-dish list, or it stops at Da Nang’s 13 dish pages. Hanoi, Ho Chi Minh City, Da Nang, Hue, Hoi An, Nha Trang, and that class are those cities.
 - The attraction list is short and ungrouped.
 
 ## Attractions
@@ -52,11 +52,15 @@ The food page follows the Japan Guide order. The record fields and the count are
 
 The order is hero, intro, city specialties, regional dishes only if sourced, international dining, casual dining, fine dining, themed dining, and breakfast only if sourced. City specialties open with a highlights list, then a photo essay per dish. Book your stay is the existing rail. The page does not include a poll, an ad, or a hotel ranking.
 
-A finished guide carries 40 to 50 entries across those groups. Under 40 fails. A two-dish guide fails. The count is dish cards plus sourced spot lines. A dish card is one dish with a licensed photo of that dish, counted once. A sourced spot line is one door, street, or room the dossier names, written once. It counts with or without a photo. The same door counts once. A room photo does not make a second entry.
+A dining city whose dossier can support 40 carries 40 to 50 entries across those groups. Hanoi, Ho Chi Minh City, Da Nang, Hue, Hoi An, Nha Trang, and that class are those cities. That guide is not finished at a two-dish list or at Da Nang’s 13 dish pages.
+
+A sourced dish named in the guide counts once, with or without a photo. The photo makes it a card. A sourced door, street, or room counts once, with or without a photo. The same dish or the same door counts once. A photo does not add a second entry.
+
+If 40 sourced entries cannot be reached without inventing, publish every sourced entry and name the gap in the draft summary. Do not pad. Do not hold the page. My Son and Phong Nha get no invented dining street. A park or a pass with a short sourced list ships that list and names the gap.
 
 A card needs a licensed photo of that dish or that room. An entry with no photo is named in the guide and is not a card. Do not borrow another photo. Hours stay out of the card caption. Do not edit the food template. That file is a separate pass.
 
-Do not invent a dish, a restaurant, a taste, a history, a fee, or an hour to fill a group or to reach 40. Where sources disagree, print every figure and name every source. An unsourced price or hour is “Check on arrival”.
+Do not invent a dish, a restaurant, a taste, a history, a fee, or an hour. Where sources disagree, print every figure and name every source. An unsourced price or hour is “Check on arrival”.
 
 Each dish page has a licensed photo of that dish. History, culture, texture, taste, and how to enjoy it are written when a source gives them. Leave out any of those points you cannot source. Do not invent them.
 

@@ -31,7 +31,7 @@ Da Nang publishes no child district place. My Khe, An Thuong, and the river are 
 Three setups fail even when the JSON validates:
 
 - The city hero is a pile of blue plastic chairs, or any other stand-in that is not the subject.
-- The food guide is under 40 entries, or it is two dishes. Da Nang’s 13 dish pages are not the ceiling.
+- A dining city whose dossier can support 40 is still a two-dish list, or it stops at Da Nang’s 13 dish pages. Hanoi, Ho Chi Minh City, Da Nang, Hue, Hoi An, Nha Trang, and that class are those cities.
 - The attraction list is short and has no local `district` values.
 
 ## Hard rules
@@ -189,15 +189,17 @@ The page order is the Japan Guide food page:
 
 Book your stay is the existing rail. The food page does not include a poll, an ad, or a hotel ranking.
 
-A finished guide carries 40 to 50 entries, varied across those groups. Under 40 fails. A two-dish guide fails. A guide that stops at Da Nang’s 13 local dish pages fails.
+A dining city whose dossier can support 40 carries 40 to 50 entries, varied across those groups. Hanoi, Ho Chi Minh City, Da Nang, Hue, Hoi An, Nha Trang, and that class are those cities. That guide is not finished at a two-dish list or at Da Nang’s 13 dish pages.
 
-The count is dish cards plus sourced spot lines:
+The count is sourced dishes plus sourced doors, streets, and rooms:
 
-- A dish card is one dish on this guide with a licensed photo of that dish at `public/photos/{dishSlug}.jpg`. It counts once. The highlights list and the photo essay are the same dish, not two entries. A dish with no photo of that dish is named in the guide and is not a card. It does not add to the count.
-- A sourced spot line is one door, street, or room the dossier names, written once with `name` and the source in `note`. It counts with or without a photo. The same door in two sections counts once.
-- A spot with a licensed photo of that room is still one spot line. The photo makes it a card. It does not count again.
+- A sourced dish named in the guide counts once, with or without a photo. The highlights list and the photo essay are the same dish. The photo makes it a card. Without a photo it is named and is not a card.
+- A sourced door, street, or room counts once, with or without a photo, written with `name` and the source in `note`. The photo of that room makes it a card.
+- The same dish or the same door counts once. A photo does not add a second entry.
 
-One group is not the whole list. Regional dishes and breakfast are omitted when nothing is sourced. Do not invent a dish, a restaurant, a taste, a history, a fee, or an hour to open a group or to reach 40. If the dossier holds fewer than 40 sourced entries, the food stage is not done. Name the gap in the draft summary and stop. Do not research the web in this pass. A place the dossier does not support as a dining town does not get a guide padded to 40. My Son and Phong Nha do not get an invented dining street.
+If 40 sourced entries cannot be reached without inventing, publish every sourced entry and name the gap in the draft summary. Do not pad. Do not hold the page. My Son and Phong Nha get no invented dining street. A park or a pass with a short sourced list ships that list and names the gap.
+
+One group is not the whole list. Regional dishes and breakfast are omitted when nothing is sourced. Do not invent a dish, a restaurant, a taste, a history, a fee, or an hour. Do not research the web in this pass.
 
 When the dossier supports more than 50 entries a traveler would use, keep them and record the count in the draft summary. Do not drop a sourced door only to land under 50.
 
@@ -259,7 +261,7 @@ Copy and complete. The place is done when every line is true.
 - [ ] Side trips are real slugs. Unwritten neighbors are placeholders in the draft summary only
 - [ ] Interest groups are this place’s own. Dining is first when there is a food guide. Shopping and Resort Living only when the rules above are met. Each card has its own photo
 - [ ] One itinerary whose stops resolve to a place, attraction, or dish slug
-- [ ] Food guide carries 40 to 50 entries: dish cards plus sourced spot lines, across city specialties, regional dishes only if sourced, international dining, casual dining, fine dining, themed dining, and breakfast only if sourced. Under 40 fails. Two dishes fail. The 13 Da Nang dish pages are not the ceiling
+- [ ] Food guide counts each sourced dish once, with or without a photo, and each sourced door, street, or room once, across city specialties, regional dishes only if sourced, international dining, casual dining, fine dining, themed dining, and breakfast only if sourced. A dining city that can support 40 is not left at two dishes or at Da Nang’s 13 dish pages. If 40 cannot be reached without inventing, every sourced entry is published and the gap is named. The list is not padded. The page is not held
 - [ ] Page order is hero, intro, city specialties with a highlights list and a photo essay per dish, then the groups above. Book your stay is the existing rail. No poll, ad, or hotel ranking. The food template was not edited
 - [ ] A card has a licensed photo of that dish or that room. An entry with no photo is named in the guide and is not a card. History, culture, texture, and taste appear only when sourced
 - [ ] npm run check:content
@@ -273,6 +275,6 @@ Copy and complete. The place is done when every line is true.
 - “Check on arrival” fields
 - Side trip placeholders
 - Cards omitted because the licensed photo of that subject is missing
-- Food-guide count: dish cards plus sourced spot lines, and which groups are short or omitted because nothing was sourced
+- Food-guide count: sourced dishes plus sourced doors, streets, and rooms, and the gap when that count is under 40. The page still ships
 - Dots proposed on new records
 - Interest groups, in this place’s words
