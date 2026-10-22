@@ -61,9 +61,9 @@
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:15:33.533Z",
+      "status": "enriched",
+      "note": "Scene opens on the forest and the trail view. Season stays in season. Hero is the licensed forest and fall lip, cropped 16:9. No licensed frame showed the lagoon and the sea together. Check on arrival fields kept. Both ticket tables, both hectare figures, the summit heights, and both km 12 accounts stay.",
+      "updated": "2026-10-22T04:39:48.958Z",
       "reworkCount": 0
     },
     "destinationQuality": {
@@ -592,6 +592,14 @@
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T04:39:48.958Z",
+      "place": "bach-ma",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Scene opens on the forest and the trail view. Season stays in season. Hero is the licensed forest and fall lip, cropped 16:9. No licensed frame showed the lagoon and the sea together. Check on arrival fields kept. Both ticket tables, both hectare figures, the summit heights, and both km 12 accounts stay."
+    },
     {
       "at": "2026-10-22T04:38:39.301Z",
       "place": "bach-ma",
