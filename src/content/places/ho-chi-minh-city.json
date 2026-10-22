@@ -9,14 +9,14 @@
   "dots": 5,
   "dotReason": "Worth building a day around",
   "summary": "Ho Chi Minh City is the city Vietnam Tourism calls the former Saigon, the economic heart of the south. Since 1 July 2025 one resolution joins that city with the former Bà Rịa–Vũng Tàu and Bình Dương. The walk you came for is still the old core: Nguyễn Huệ, the cathedral square, the palace, and the museum.",
-  "timeNeeded": "Check on arrival. No page printed a day count for the center.",
+  "timeNeeded": "Check on arrival.",
   "fee": "Check on arrival. Palace and museum prices do not match across the pages that print them.",
   "getThere": "Tân Sơn Nhất is 7 km from the centre. Minutes were not printed.",
   "bestMonths": "December to April",
   "verified": "22 Oct 2026",
   "interests": {
-    "warHistory": 5,
     "food": 5,
+    "warHistory": 5,
     "markets": 4,
     "pagodas": 4,
     "oldTowns": 4,
@@ -79,7 +79,7 @@
   "interestGroups": [
     {
       "title": "Dining and F&B",
-      "summary": "Cơm tấm is the plate Vietnam Tourism calls essential here. Hủ tiếu is the bowl that page says is best in this city.",
+      "summary": "Cơm tấm is the plate Vietnam Tourism calls essential here. Hủ tiếu is the bowl Vietnam Tourism says is best in this city.",
       "cards": [
         {
           "title": "Dining and F&B",
@@ -190,7 +190,7 @@
         },
         {
           "title": "Vincom Center Dong Khoi",
-          "summary": "Named by Visit HCMC with Saigon Centre–Takashimaya. The photograph shows the Lê Thánh Tôn and Đồng Khởi signs. A street number was not on that page.",
+          "summary": "Named by Visit HCMC with Saigon Centre–Takashimaya. The photograph shows the Lê Thánh Tôn and Đồng Khởi signs. A street number was not printed.",
           "attractionSlug": "vincom-dong-khoi",
           "photo": "ho-chi-minh-city-vincom-dong-khoi",
           "icon": "view"
