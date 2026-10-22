@@ -9,58 +9,32 @@
   "placeSlug": "can-gio",
   "budget": "Check on arrival",
   "pace": "Steady",
+  "photo": "can-gio-vam-sat",
   "summary": "Leave Ho Chi Minh City early for the Bình Khánh ferry, give the creek a half day at Vàm Sát, and eat at Hàng Dương after that gate closes. Sleep in the beach town. The whale temple is the next morning. The salt pans are a different dawn, and only in December–May.",
   "days": [
     {
       "title": "Ferry, the creek, and Hàng Dương",
-      "body": "Start early. Visit HCMC prints about 1 hour 30 minutes and about 50 km; Tuổi Trẻ prints about 2 hours. The ferry itself is about 10–15 minutes, and a holiday queue on the approach can eat the morning. Vàm Sát is open 8:00–17:00. The Sac Forest gate on the tourism page is 7:30–17:30, a different desk. After 17:00 the evening is Hàng Dương, then about 50 m of sand. Sleep in xã Cần Giờ.",
-      "placeSlug": "can-gio"
+      "body": "Start early. Visit HCMC prints about 1 hour 30 minutes and about 50 km; Tuổi Trẻ prints about 2 hours. The ferry itself is about 10–15 minutes, and a holiday queue on the approach can eat the morning. Vàm Sát is open 8:00–17:00. The wooden boat to Đầm Dơi is capped at two hours, which is the only minute count on that tariff. The Sac Forest gate on the tourism page is 7:30–17:30, a different desk. After 17:00 the evening is Hàng Dương. A 2019 story puts the sand about 50 m from the market, and one stall’s cook-to-order wait at about 30–40 minutes on a busy day. Sleep in xã Cần Giờ.",
+      "placeSlug": "can-gio",
+      "photo": "can-gio-vam-sat"
     },
     {
-      "title": "The temple, then the ferry back",
-      "body": "Lăng Ông is under an hour on an ordinary morning. Hours and a ticket were not printed. Check on arrival. The salt morning is a different day, December–May, and it starts at dawn. Then the same ferry back to Ho Chi Minh City. The September 2026 story still had the ferry as the crossing.",
-      "placeSlug": "can-gio"
+      "title": "The shore, then the ferry back",
+      "body": "The morning in town is the silt sand if you slept beside Hàng Dương. Lăng Ông is a short look on an ordinary morning. Hours and a ticket were not printed. Check on arrival. The salt morning is a different day, December–May, and it starts at dawn. Minutes to the pans were not printed. Then the same ferry back to Ho Chi Minh City. The September 2026 story still had the ferry as the crossing.",
+      "placeSlug": "can-gio",
+      "photo": "can-gio-can-gio-beach"
     }
   ],
   "stops": [
     {
-      "name": "Bình Khánh ferry",
-      "minutes": 15,
-      "placeSlug": "ho-chi-minh-city",
-      "note": "About 10–15 minutes on the water, about 1.2 km on the Soài Rạp. Door to door is about 1 hour 30 minutes on Visit HCMC and about 2 hours in Tuổi Trẻ. A holiday queue ran nearly 2 hours on 30 April 2026. Walk or bicycle 3,000 VND and a motorbike 8,000 from 18 March 2026. A car fare and a ferry clock are check on arrival.",
-      "approach": {
-        "mode": "taxi",
-        "note": "Nguyễn Văn Linh, then Huỳnh Tấn Phát, to the ferry. A motorbike is also the mode the tourism page describes. A hire price was not printed. Check on arrival."
-      }
-    },
-    {
-      "name": "Vàm Sát",
+      "name": "Wooden boat to Đầm Dơi",
       "minutes": 120,
       "placeSlug": "can-gio",
+      "attractionSlug": "vam-sat",
       "note": "120 minutes is the cap on the wooden boat to Đầm Dơi. The operator calls the road-gate visit a half day and does not print a minute count for the whole gate. Road gate 60,000 VND, shuttle included, 8:00–17:00 every day. Visit HCMC prints the canoe leg from 270,000 to 895,000 VND. The operator’s canoe table runs from 1,075,000 for one person to 270,000 from nineteen.",
       "approach": {
         "mode": "taxi",
         "note": "Along đường Rừng Sác to cầu Dần Xây or the road gate. Minutes from the beach town were not printed. Check on arrival."
-      }
-    },
-    {
-      "name": "Hàng Dương and the sand",
-      "minutes": 40,
-      "placeSlug": "can-gio",
-      "note": "About 30–40 minutes is the 2019 cook-to-order wait on a busy day. The row uses 40, the top of that range, not a clock for the whole evening. The sand is about 50 m from the market. One seller that year said she sold from about 7:00 until about 21:00. That clock is one stall. A stall price was not printed. Check on arrival.",
-      "approach": {
-        "mode": "walk",
-        "note": "A walk if you are already in the beach town. Minutes from Vàm Sát were not printed. Check on arrival."
-      }
-    },
-    {
-      "name": "Lăng Ông",
-      "minutes": 45,
-      "placeSlug": "can-gio",
-      "note": "The visit is under an hour outside festival days. No tighter clock was printed, and hours and a fee were not printed. Check on arrival. The sea rite is a festival morning, at 10:00 on the culture department’s page and at 9:00 in the 2025 city story.",
-      "approach": {
-        "mode": "walk",
-        "note": "In the beach town, xã Cần Giờ. The culture department’s page still says thị trấn Cần Thạnh."
       }
     }
   ],

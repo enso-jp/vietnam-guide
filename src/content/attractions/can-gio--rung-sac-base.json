@@ -1,0 +1,62 @@
+{
+  "slug": "rung-sac-base",
+  "placeSlug": "can-gio",
+  "name": "Rừng Sác base",
+  "nameVi": "Di tích lịch sử Căn cứ Rừng Sác",
+  "kicker": "Rebuilt special-forces camp in the mangrove",
+  "summary": "Walk or take a canoe into the rebuilt special-forces camp on đường Rừng Sác. The adult fee on the 2020 city resolution and on Visit HCMC is 35,000 VND. The tourism page prints the gate as 7:30–17:30. Give it the morning of a forest day. The open reprint did not show whether that 2020 fee was still in force in 2026.",
+  "dots": 4,
+  "dotReason": "The historic walk inside a forest day.",
+  "timeNeeded": "A few hours in the forest",
+  "fee": "35,000 VND",
+  "getThere": "On đường Rừng Sác after the Bình Khánh ferry. Minutes from the beach town are check on arrival.",
+  "district": "The forest road",
+  "verified": "22 Oct 2026",
+  "heroCaption": "A thatch shelter in the mangrove at the Rừng Sác camp",
+  "notice": {
+    "title": "A different desk from Vàm Sát",
+    "body": "This gate is 35,000 VND on the 2020 resolution, and Visit HCMC prints 7:30–17:30. Vàm Sát’s road gate is 60,000 VND and 8:00–17:00. The child bands differ too."
+  },
+  "body": [
+    "You walk, or you take the canoe, into the rebuilt camp. Visit HCMC names observation posts, a military workshop, an information house, hideouts, a medical station, a supply house, and figures of Unit 10, including the raid on the Nhà Bè oil depot. The biosphere board dates the national historic listing to 2004. The old address is đường Rừng Sác in xã Long Hòa, now part of xã Cần Giờ.",
+    "Resolution 09/2020/NQ-HĐND, effective 1 January 2021, sets an adult fee of 35,000 VND a visit, domestic and foreign. Free entry covers older people, disabled people, the armed forces, people with revolutionary merit, the veterans’ association, poor households, and children under 7. Half price covers children from 7 to under 16, pupils, and students. Visit HCMC prints the same 35,000 VND and says its prices are for reference. The open reprint did not show whether that resolution was still in force in 2026. Visit HCMC also prints a canoe at 600,000 VND a turn, round trip. The resolution does not mention a canoe, and a second publisher for 600,000 was not opened.",
+    "The same tourism page names nearly 400 battles and 860 dead, and later on the page thousands of large and small battles. Unit 10 and the years 1966 to 30 April 1975 are in the history section. UNESCO notes revolutionary use of the region in the wars against France and the United States, without a battle count. The biodiversity agency says defoliant was sprayed many times from 1964 to 1972 and that more than 80 percent of the old mangrove died. Come in the morning. The gate on the tourism page is 7:30–17:30."
+  ],
+  "figures": [
+    {
+      "id": "can-gio-rung-sac-base-2",
+      "caption": "The boardwalk through the camp, a different moment from the thatch shelter",
+      "alt": "A log boardwalk through mangrove trunks at the Rừng Sác camp"
+    }
+  ],
+  "gettingThere": [
+    "From Ho Chi Minh City the road is the same ferry approach as Vàm Sát, then đường Rừng Sác. Visit HCMC prints about 1 hour 30 minutes and about 50 km. Tuổi Trẻ prints about 2 hours. A 2019 story calls đường Rừng Sác about 30 km of trees. That figure is the forest road, not the whole ride from the city.",
+    "From the beach town, stay on đường Rừng Sác. Minutes from xã Cần Giờ were not printed. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Ho Chi Minh City",
+      "body": "Nguyễn Văn Linh and Huỳnh Tấn Phát to the Bình Khánh ferry, then đường Rừng Sác. About 1 hour 30 minutes and about 50 km on Visit HCMC, or about 2 hours in Tuổi Trẻ."
+    },
+    {
+      "heading": "From the beach town",
+      "body": "Đường Rừng Sác. The 2019 story calls that road about 30 km of trees. Minutes from the town were not printed. Check on arrival."
+    }
+  ],
+  "hours": "7:30–17:30",
+  "closed": "No weekly closing day is printed on the tourism page. Check the gate on arrival.",
+  "admissionNote": "Adult 35,000 VND a visit on Resolution 09/2020/NQ-HĐND, effective 1 January 2021, and the same figure on Visit HCMC, which marks prices for reference. The open reprint did not show whether the resolution was still in force in 2026. Free: older people, disabled people, the armed forces, people with revolutionary merit, the veterans’ association, poor households, and children under 7. Half price: children from 7 to under 16, pupils, and students. Visit HCMC prints a canoe at 600,000 VND a turn, round trip. A second publisher for that canoe figure was not opened.",
+  "links": [
+    {
+      "label": "Resolution 09/2020",
+      "url": "https://luatvietnam.vn/van-hoa/nghi-quyet-09-2020-nq-hdnd-tp-hcm-phi-tham-quan-di-tich-lich-su-can-cu-rung-sac-257164-d2.html",
+      "note": "Reprint of the city fee resolution"
+    },
+    {
+      "label": "Visit HCMC, Sac Forest",
+      "url": "https://visithcmc.vn/tin-tuc/rung-sac-can-gio-diem-den-hoang-da-day-hap-dan_en",
+      "note": "Hours, the 35,000 VND reference line, and the canoe figure"
+    }
+  ],
+  "interests": ["warHistory"]
+}
