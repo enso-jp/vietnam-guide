@@ -56,38 +56,38 @@
     },
     "destination": {
       "status": "paged",
-      "note": "Place shell, local interest groups, one day itinerary, season, and Can Tho nearby. No sight cards: no licensed photo. No food guide file, no dish pages, no Food chip. Lat and lng unset. Gate hours, airport clocks, expressway minutes, U Minh Ha fees, and cape kilometers are all printed.",
-      "updated": "2026-10-22T07:16:05.559Z",
+      "note": "Place shell with Hon Da Bac and Nam Can, local districts, food guide link, interest groups, and a day whose stops resolve. No city hero: no frame of the marker, mangrove, and sea. No lat or lng. Dots unchanged.",
+      "updated": "2026-10-22T09:19:39.894Z",
       "reworkCount": 0
     },
     "destinationCopy": {
       "status": "enriched",
-      "note": "Prose keeps every disagreeing clock, fee, and kilometer. No hero photo: opened Commons frames failed the marker-mangrove-sea brief. Questions in research/ca-mau/questions.md.",
-      "updated": "2026-10-22T07:16:43.405Z",
+      "note": "Prose prints the disagreeing clocks, fees, and kilometers. Photos kept: granite, causeway, Nam Can quay, Nam Can market, river canal, mangrove roots, crab, ba khia. Mudflat boardwalk rejected for flat light. No ca-mau.jpg.",
+      "updated": "2026-10-22T09:19:39.970Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "checked",
-      "note": "Read against the dossier. No city pin. No sight card. Disagreements are printed, not averaged. No licensed photo met the hero brief.",
-      "updated": "2026-10-22T07:17:10.165Z",
+      "note": "Read against the dossier. No city pin. Disagreements printed. Cape is not treated as a beach resort. Claim cleared after this check.",
+      "updated": "2026-10-22T09:19:40.046Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "skipped",
-      "note": "No licensed plate photo in the dossier. No food guide file, no dish pages, no Food chip, no interests.food.",
-      "updated": "2026-10-22T07:17:10.232Z",
+      "status": "paged",
+      "note": "Food guide and the local dish list. Plate photos for cua and ba khia only. Other dishes have pages and no cards.",
+      "updated": "2026-10-22T09:19:40.119Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "skipped",
-      "note": "No food guide to copy. Plate photo was not filed.",
-      "updated": "2026-10-22T07:17:10.296Z",
+      "status": "enriched",
+      "note": "Dish copy from the dossier. No stall prices. No neighbor dishes imported.",
+      "updated": "2026-10-22T09:19:40.189Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "skipped",
-      "note": "No food guide to check. Plate photo was not filed.",
-      "updated": "2026-10-22T07:17:10.363Z",
+      "status": "checked",
+      "note": "Grid is crab and ba khia because those are the plate photos. The rest of the local menu is on the list without a card.",
+      "updated": "2026-10-22T09:19:40.257Z",
       "reworkCount": 0
     }
   },
@@ -149,11 +149,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "unpublished: no licensed photo",
-      "updated": "2026-10-22T06:51:20.474Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Checked against the dossier.",
+      "updated": "2026-10-22T09:19:40.451Z",
       "reworkCount": 0
     },
     {
@@ -325,11 +325,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "unpublished: no licensed photo",
-      "updated": "2026-10-22T06:51:20.474Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Checked against the dossier.",
+      "updated": "2026-10-22T09:19:40.653Z",
       "reworkCount": 0
     },
     {
@@ -405,11 +405,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "unpublished: no licensed photo",
-      "updated": "2026-10-22T06:51:20.474Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Checked against the dossier.",
+      "updated": "2026-10-22T09:19:40.860Z",
       "reworkCount": 0
     },
     {
@@ -421,11 +421,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "unpublished: no licensed photo",
-      "updated": "2026-10-22T06:51:20.474Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Checked against the dossier.",
+      "updated": "2026-10-22T09:19:41.058Z",
       "reworkCount": 0
     },
     {
@@ -437,11 +437,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "unpublished: no licensed photo",
-      "updated": "2026-10-22T06:51:20.474Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Checked against the dossier.",
+      "updated": "2026-10-22T09:19:41.255Z",
       "reworkCount": 0
     },
     {
@@ -453,11 +453,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "unpublished: no licensed photo",
-      "updated": "2026-10-22T06:51:20.474Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Checked against the dossier.",
+      "updated": "2026-10-22T09:19:41.458Z",
       "reworkCount": 0
     },
     {
@@ -469,11 +469,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "unpublished: no licensed photo",
-      "updated": "2026-10-22T06:51:20.474Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Checked against the dossier.",
+      "updated": "2026-10-22T09:19:41.674Z",
       "reworkCount": 0
     },
     {
@@ -485,11 +485,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "unpublished: no licensed photo",
-      "updated": "2026-10-22T06:51:20.474Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Checked against the dossier.",
+      "updated": "2026-10-22T09:19:41.880Z",
       "reworkCount": 0
     },
     {
@@ -501,11 +501,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "unpublished: no licensed photo",
-      "updated": "2026-10-22T06:51:20.474Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Checked against the dossier.",
+      "updated": "2026-10-22T09:19:42.078Z",
       "reworkCount": 0
     },
     {
@@ -517,11 +517,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "unpublished: no licensed photo",
-      "updated": "2026-10-22T06:51:20.474Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Checked against the dossier.",
+      "updated": "2026-10-22T09:19:42.269Z",
       "reworkCount": 0
     },
     {
@@ -533,11 +533,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "unpublished: no licensed photo",
-      "updated": "2026-10-22T06:51:20.474Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Checked against the dossier.",
+      "updated": "2026-10-22T09:19:42.481Z",
       "reworkCount": 0
     },
     {
@@ -549,11 +549,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "unpublished: no licensed photo",
-      "updated": "2026-10-22T06:51:20.474Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Checked against the dossier.",
+      "updated": "2026-10-22T09:19:42.682Z",
       "reworkCount": 0
     },
     {
@@ -565,11 +565,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "unpublished: no licensed photo",
-      "updated": "2026-10-22T06:51:20.474Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Checked against the dossier.",
+      "updated": "2026-10-22T09:19:42.878Z",
       "reworkCount": 0
     },
     {
@@ -785,148 +785,164 @@
   "claim": null,
   "log": [
     {
-      "at": "2026-10-22T07:17:10.363Z",
+      "at": "2026-10-22T09:19:42.878Z",
       "place": "ca-mau",
-      "stage": "foodQuality",
-      "item": null,
-      "status": "skipped",
-      "note": "No food guide to check. Plate photo was not filed."
-    },
-    {
-      "at": "2026-10-22T07:17:10.296Z",
-      "place": "ca-mau",
-      "stage": "foodCopy",
-      "item": null,
-      "status": "skipped",
-      "note": "No food guide to copy. Plate photo was not filed."
-    },
-    {
-      "at": "2026-10-22T07:17:10.233Z",
-      "place": "ca-mau",
-      "stage": "food",
-      "item": null,
-      "status": "skipped",
-      "note": "No licensed plate photo in the dossier. No food guide file, no dish pages, no Food chip, no interests.food."
-    },
-    {
-      "at": "2026-10-22T07:17:10.165Z",
-      "place": "ca-mau",
-      "stage": "destinationQuality",
-      "item": null,
+      "stage": "quality",
+      "item": "ca-mau--tom-kho",
       "status": "checked",
-      "note": "Read against the dossier. No city pin. No sight card. Disagreements are printed, not averaged. No licensed photo met the hero brief."
+      "note": "Checked against the dossier."
     },
     {
-      "at": "2026-10-22T07:16:43.405Z",
+      "at": "2026-10-22T09:19:42.812Z",
       "place": "ca-mau",
-      "stage": "destinationCopy",
-      "item": null,
+      "stage": "copy",
+      "item": "ca-mau--tom-kho",
       "status": "enriched",
-      "note": "Prose keeps every disagreeing clock, fee, and kilometer. No hero photo: opened Commons frames failed the marker-mangrove-sea brief. Questions in research/ca-mau/questions.md."
+      "note": "Copy from the dossier. Unsourced fee or hour is Check on arrival."
     },
     {
-      "at": "2026-10-22T07:16:05.559Z",
+      "at": "2026-10-22T09:19:42.747Z",
       "place": "ca-mau",
-      "stage": "destination",
-      "item": null,
+      "stage": "page",
+      "item": "ca-mau--tom-kho",
       "status": "paged",
-      "note": "Place shell, local interest groups, one day itinerary, season, and Can Tho nearby. No sight cards: no licensed photo. No food guide file, no dish pages, no Food chip. Lat and lng unset. Gate hours, airport clocks, expressway minutes, U Minh Ha fees, and cape kilometers are all printed."
+      "note": "Page filed from the dossier."
     },
     {
-      "at": "2026-10-22T06:51:20.474Z",
+      "at": "2026-10-22T09:19:42.682Z",
       "place": "ca-mau",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: the next Nghinh Ong solar dates, Festival tom days, the Lac Long Quan dates, and minutes to Bac Lieu, Rach Gia, and Ha Tien."
+      "stage": "quality",
+      "item": "ca-mau--banh-phong-tom",
+      "status": "checked",
+      "note": "Checked against the dossier."
     },
     {
-      "at": "2026-10-22T06:51:08.026Z",
+      "at": "2026-10-22T09:19:42.618Z",
       "place": "ca-mau",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: the market hour and the hour the city goes quiet."
+      "stage": "copy",
+      "item": "ca-mau--banh-phong-tom",
+      "status": "enriched",
+      "note": "Copy from the dossier. Unsourced fee or hour is Check on arrival."
     },
     {
-      "at": "2026-10-22T06:51:07.873Z",
+      "at": "2026-10-22T09:19:42.551Z",
       "place": "ca-mau",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: the quiet hour, a bar street, and a night-boat price."
+      "stage": "page",
+      "item": "ca-mau--banh-phong-tom",
+      "status": "paged",
+      "note": "Page filed from the dossier."
     },
     {
-      "at": "2026-10-22T06:51:07.726Z",
+      "at": "2026-10-22T09:19:42.481Z",
       "place": "ca-mau",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: stall prices, the floating-market hour, and a named city restaurant street."
+      "stage": "quality",
+      "item": "ca-mau--duong-cha-la",
+      "status": "checked",
+      "note": "Checked against the dossier."
     },
     {
-      "at": "2026-10-22T06:51:07.257Z",
+      "at": "2026-10-22T09:19:42.409Z",
       "place": "ca-mau",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a chosen gate hour, a chosen U Minh Ha fee, museum hours, the Hon Da Bac tariff, drive minutes, and licensed photos."
+      "stage": "copy",
+      "item": "ca-mau--duong-cha-la",
+      "status": "enriched",
+      "note": "Copy from the dossier. Unsourced fee or hour is Check on arrival."
     },
     {
-      "at": "2026-10-22T06:51:06.564Z",
+      "at": "2026-10-22T09:19:42.338Z",
       "place": "ca-mau",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a chosen airport clock, the city-to-cape minute, the HCMC road duration, an official coach bay, and a toll."
+      "stage": "page",
+      "item": "ca-mau--duong-cha-la",
+      "status": "paged",
+      "note": "Page filed from the dossier."
     },
     {
-      "at": "2026-10-22T06:50:52.788Z",
+      "at": "2026-10-22T09:19:42.269Z",
       "place": "ca-mau",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Still open: the next solar dates, Festival tôm days, and minutes to Bac Lieu, Rach Gia, and Ha Tien."
+      "stage": "quality",
+      "item": "ca-mau--lau-ca-khoai",
+      "status": "checked",
+      "note": "Checked against the dossier."
     },
     {
-      "at": "2026-10-22T06:50:52.465Z",
+      "at": "2026-10-22T09:19:42.205Z",
       "place": "ca-mau",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Still open: the market open hour and the quiet hour."
+      "stage": "copy",
+      "item": "ca-mau--lau-ca-khoai",
+      "status": "enriched",
+      "note": "Copy from the dossier. Unsourced fee or hour is Check on arrival."
     },
     {
-      "at": "2026-10-22T06:50:52.319Z",
+      "at": "2026-10-22T09:19:42.142Z",
       "place": "ca-mau",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Still open: the hour the city goes quiet, and a night-boat price."
+      "stage": "page",
+      "item": "ca-mau--lau-ca-khoai",
+      "status": "paged",
+      "note": "Page filed from the dossier."
     },
     {
-      "at": "2026-10-22T06:50:52.173Z",
+      "at": "2026-10-22T09:19:42.078Z",
       "place": "ca-mau",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Still open: the floating-market hour, stall prices, and a second city eating street."
+      "stage": "quality",
+      "item": "ca-mau--ngheu-khai-long",
+      "status": "checked",
+      "note": "Checked against the dossier."
     },
     {
-      "at": "2026-10-22T06:50:51.705Z",
+      "at": "2026-10-22T09:19:42.014Z",
       "place": "ca-mau",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Still open: a chosen gate hour, a chosen U Minh fee, museum hours, the Hòn Đá Bạc fee, and licensed photos."
+      "stage": "copy",
+      "item": "ca-mau--ngheu-khai-long",
+      "status": "enriched",
+      "note": "Copy from the dossier. Unsourced fee or hour is Check on arrival."
     },
     {
-      "at": "2026-10-22T06:50:51.012Z",
+      "at": "2026-10-22T09:19:41.947Z",
       "place": "ca-mau",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Still open: which airport clock is running, the city-to-cape minute, the HCMC road duration, the coach bay, and a toll."
+      "stage": "page",
+      "item": "ca-mau--ngheu-khai-long",
+      "status": "paged",
+      "note": "Page filed from the dossier."
+    },
+    {
+      "at": "2026-10-22T09:19:41.880Z",
+      "place": "ca-mau",
+      "stage": "quality",
+      "item": "ca-mau--mat-ong-u-minh",
+      "status": "checked",
+      "note": "Checked against the dossier."
+    },
+    {
+      "at": "2026-10-22T09:19:41.815Z",
+      "place": "ca-mau",
+      "stage": "copy",
+      "item": "ca-mau--mat-ong-u-minh",
+      "status": "enriched",
+      "note": "Copy from the dossier. Unsourced fee or hour is Check on arrival."
+    },
+    {
+      "at": "2026-10-22T09:19:41.743Z",
+      "place": "ca-mau",
+      "stage": "page",
+      "item": "ca-mau--mat-ong-u-minh",
+      "status": "paged",
+      "note": "Page filed from the dossier."
+    },
+    {
+      "at": "2026-10-22T09:19:41.675Z",
+      "place": "ca-mau",
+      "stage": "quality",
+      "item": "ca-mau--ca-loc-nuong",
+      "status": "checked",
+      "note": "Checked against the dossier."
+    },
+    {
+      "at": "2026-10-22T09:19:41.600Z",
+      "place": "ca-mau",
+      "stage": "copy",
+      "item": "ca-mau--ca-loc-nuong",
+      "status": "enriched",
+      "note": "Copy from the dossier. Unsourced fee or hour is Check on arrival."
     }
   ]
 }
