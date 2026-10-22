@@ -1,0 +1,105 @@
+{
+  "slug": "tay-ninh",
+  "name": "Tay Ninh",
+  "nameVi": "Tây Ninh",
+  "corridor": "southeast",
+  "kind": "city",
+  "parent": null,
+  "publish": "candidate",
+  "priority": 125,
+  "note": "Southeastern Vietnam. The Cao Dai Holy See and Nui Ba Den are this place. It is not a second Ho Chi Minh City or Cu Chi page. The 2025 province also took in old Long An; that half stays a side trip. Research may be stored. Do not create a public place file until publish is accepted. Slug stays tay-ninh.",
+  "coverage": {
+    "sights": "missing",
+    "areas": "missing",
+    "foodStreets": "missing",
+    "nightlife": "missing",
+    "lifestyle": "missing",
+    "events": "missing",
+    "sideTrips": "missing"
+  },
+  "stages": {
+    "researchBase": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchAttractions": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchFood": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchNightlife": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchLifestyle": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchContext": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destination": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "food": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    }
+  },
+  "items": [],
+  "questions": [],
+  "claim": {
+    "place": "tay-ninh",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-22T06:43:31.564Z",
+    "by": "research",
+    "branch": "cursor/tay-ninh-research-691c"
+  },
+  "log": []
+}
