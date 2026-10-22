@@ -6,8 +6,6 @@
   "corridor": "north-central",
   "province": "Hue",
   "provinceNote": "Hue is a centrally governed city.",
-  "lat": 16.463,
-  "lng": 107.59,
   "dots": 4,
   "dotReason": "Worth a special trip in this corridor",
   "summary": "Sleep on the south bank of the Perfume River and cross to the Imperial City in the morning. An adult ticket is 200,000 VND and does not include the tombs. At dusk, walk from Truong Tien Bridge to Nghinh Luong Dinh. Go to Hoi An when the old town is the reason you came.",
@@ -15,11 +13,11 @@
   "fee": "Imperial City 200,000 VND. Tombs are separate.",
   "getThere": "Phu Bai is 13 km southeast, or about 15 km. SE trains from Hanoi take 12 hours 35 minutes to 14 hours 12 minutes.",
   "bestMonths": "February to April",
-  "verified": "21 Oct 2026",
+  "verified": "22 Oct 2026",
   "interests": {
+    "food": 5,
     "oldTowns": 4,
     "pagodas": 4,
-    "food": 5,
     "warHistory": 3,
     "family": 3
   },
@@ -35,6 +33,8 @@
     "hue-to-hoi-an"
   ],
   "itinerarySlugs": [
+    "hue-day",
+    "hue-two-days",
     "best-14-days",
     "central-5-days"
   ],
@@ -42,7 +42,7 @@
   "seoDescription": "The Imperial City opens at 06:30 or 07:00. An adult ticket is 200,000 VND. The tombs are separate. Sleep on the south bank and walk the river at dusk.",
   "intro": [
     "Sleep on the south bank. The culture department calls that bank the modern city and the north bank the old imperial city, joined by Phu Xuan Bridge. Kỳ Đài, the flag tower built in 1807, stands on the north bank. Nghinh Lương Đình, the old royal landing, is the far end of the river path.",
-    "Give the morning to the Imperial City. The conservation centre’s notice of 12 March 2024 opens the visiting points at 06:30 from 16 March to 15 October, and at 07:00 from 16 October to 15 March. A direct reload of that page timed out on 21 October 2026, so confirm the board. An adult ticket is 200,000 VND. Minh Mang, Tu Duc, and Khai Dinh are not on it. Gia Long, Dong Khanh, and Thieu Tri are separate tickets too. At dusk, walk from Truong Tien Bridge to Nghinh Luong Dinh. How long the courts take, and the ride to a tomb, is check on arrival.",
+    "Give the morning to the Imperial City. The conservation centre’s notice of 12 March 2024 opens the visiting points at 06:30 from 16 March to 15 October, and at 07:00 from 16 October to 15 March. A direct reload of the conservation centre’s notice timed out on 21 October 2026, so confirm the posted hours. An adult ticket is 200,000 VND. Minh Mang, Tu Duc, and Khai Dinh are not on it. Gia Long, Dong Khanh, and Thieu Tri are separate tickets too. At dusk, walk from Truong Tien Bridge to Nghinh Luong Dinh. How long the courts take, and the ride to a tomb, is Check on arrival.",
     "The night streets the city desk treats as phố Tây are Chu Văn An, Phạm Ngũ Lão, and Võ Thị Sáu. No closing hour is published. One 22:00 line was a single business, not a city rule. Go to Hoi An when the old town after dark is the reason you came. The road time from Hue is check on arrival."
   ],
   "gettingAround": [
@@ -57,20 +57,19 @@
     }
   ],
   "eat": [
-    "Eat bun bo Hue at Dong Ba, com hen on Hen Island, bánh khoái along Kim Long, and nem lụi from a street stall. The small steamed cakes are a snack. A stall price is check on arrival, and so is the hour. The food guide names the areas and leaves the shop names off the page.",
-    "A court-style set meal is a visitor set piece. It is optional. The bowl that tells you where you are is bun bo Hue."
+    "Eat bún bò Huế at Dong Ba, cơm hến on Hen Island, and bánh khoái along Kim Long toward Thien Mu. Bánh bèo and bánh nậm are the small cakes. Nem lụi is a street stall Vietnam Tourism does not place on a named street. Bún thịt nướng is the Kim Long lunch, and bún hến is the other bowl on the island. Chè is the sweet soup in an alley that was not named: corn, lotus seed, taro, and a grilled-pork dumpling soup. A stall price is Check on arrival, and so is the hour.",
+    "It is not mì Quảng and not cao lầu. Chi Lăng and Bạch Đằng are the afternoon streets on the far side of Hen Island."
   ],
   "dishSlugs": [
     "bun-bo-hue",
-    "banh-beo",
     "com-hen",
+    "banh-beo",
     "banh-khoai",
     "banh-nam",
-    "nem-lui",
-    "banh-mi"
+    "nem-lui"
   ],
   "interestsBody": [
-    "Hue food is bun bo at Dong Ba, com hen on Hen Island, bánh khoái along Kim Long, and nem lụi from a street the national page does not name. It is not mi Quang and not cao lau. A stall price is check on arrival.",
+    "Hue food is bún bò Huế at Dong Ba, cơm hến on Hen Island, bánh khoái and bún thịt nướng along Kim Long, and nem lụi from a street Vietnam Tourism does not name. Chè is the sweet soup in an unnamed alley. It is not mì Quảng and not cao lầu. A stall price is Check on arrival.",
     "The Imperial City is the morning. The adult ticket is 200,000 VND, and it stops at those walls.",
     "The royal tombs are upstream. Tu Duc’s garden, Minh Mang’s axis, and Khai Dinh’s compact tomb are on the four-site ticket with the Imperial City, 530,000 VND for an adult, usable for up to two days from the first visit. Gia Long, Dong Khanh, and Thieu Tri are not on that ticket.",
     "Thien Mu is the seven-tiered tower in Kim Long. Tu Hieu, Dieu De, and Bao Quoc are the other pagoda stops. The fee and the hours at Thien Mu are check on arrival. Phu Cam is the cathedral on Phước Quả hill, not a pagoda. The city page prints both 01 Đoàn Hữu Trưng and 06 Nguyễn Trường Tộ. A fee is check on arrival.",
@@ -81,7 +80,7 @@
   "interestCards": [
     {
       "title": "Dining and F&B",
-      "summary": "Bun bo at Dong Ba, com hen on Hen Island, and the small cakes. No stall price is published.",
+      "summary": "Bun bo at Dong Ba, com hen on Hen Island, bánh khoái on Kim Long, and the small cakes. A stall price is Check on arrival.",
       "photo": "bun-bo-hue",
       "icon": "food",
       "to": "food"
@@ -125,11 +124,11 @@
   "interestGroups": [
     {
       "title": "Dining and F&B",
-      "summary": "Bun bo at Dong Ba, com hen on Hen Island, and the small cakes. No stall price is published.",
+      "summary": "Bun bo at Dong Ba, com hen on Hen Island, bánh khoái on Kim Long, and the small cakes. A stall price is Check on arrival.",
       "cards": [
         {
           "title": "Dining and F&B",
-          "summary": "Bun bo at Dong Ba, com hen on Hen Island, and the small cakes. No stall price is published.",
+          "summary": "Bun bo at Dong Ba, com hen on Hen Island, bánh khoái on Kim Long, and the small cakes. A stall price is Check on arrival.",
           "photo": "bun-bo-hue",
           "icon": "food",
           "to": "food"
@@ -171,7 +170,7 @@
           "heading": "The walled court",
           "nav": "The court",
           "paragraphs": [
-            "Give the morning to the Imperial City. The conservation centre’s notice of 12 March 2024 opens the visiting points at 06:30 from 16 March to 15 October, and at 07:00 from 16 October to 15 March. A direct reload of that page timed out on 21 October 2026, so confirm the board.",
+            "Give the morning to the Imperial City. The conservation centre’s notice of 12 March 2024 opens the visiting points at 06:30 from 16 March to 15 October, and at 07:00 from 16 October to 15 March. A direct reload of the conservation centre’s notice timed out on 21 October 2026, so confirm the posted hours.",
             "The Imperial City is the morning. The adult ticket is 200,000 VND, and it stops at those walls."
           ]
         },
@@ -335,7 +334,7 @@
       ],
       "body": [
         "The river evening is the walk from Truong Tien Bridge to Nghinh Luong Dinh, with Kỳ Đài on the north bank. No fee and no hour are published for the path.",
-        "The night streets the desk calls phố Tây are Chu Văn An, Phạm Ngũ Lão, and Võ Thị Sáu. Closing hours are check on arrival. No bar is a pick, and none of those streets has a licensed photograph here, so they are not cards."
+        "The night streets the city desk calls phố Tây are Chu Văn An, Phạm Ngũ Lão, and Võ Thị Sáu. Closing hours are Check on arrival. No bar is a pick."
       ]
     },
     {
@@ -362,7 +361,7 @@
   "faqs": [
     {
       "q": "What does one day in Hue look like?",
-      "a": "Start at the Imperial City when the gate opens, on the 200,000 VND ticket. The tombs are a separate ride, and the minutes are check on arrival. At dusk, walk from Truong Tien Bridge to Nghinh Luong Dinh. That is one outline. The four-site ticket’s two-day window is a ticket rule, not a second route."
+      "a": "Start at the Imperial City when the gate opens, on the 200,000 VND adult ticket. Eat bún bò Huế at Dong Ba. At dusk, walk from Truong Tien Bridge to Nghinh Luong Dinh. How long the courts take is Check on arrival. The next day can be the tomb day: Minh Mang, Tu Duc, and Khai Dinh, on the four-site ticket at 530,000 VND for an adult, usable for up to two days from the first visit. That window is how long the ticket lasts. The ride to a tomb is Check on arrival."
     },
     {
       "q": "Does the citadel ticket include the tombs?",

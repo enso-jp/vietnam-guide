@@ -2,35 +2,100 @@
   "slug": "hue",
   "name": "Hue food guide",
   "placeSlug": "hue",
-  "summary": "Start with bun bo Hue, then com hen on Hen Island, then the small cakes.",
+  "summary": "Start with bún bò Huế at Dong Ba, then cơm hến on Hen Island, then bánh khoái along Kim Long toward Thien Mu. The small cakes and nem lụi follow. A stall price is Check on arrival.",
   "heroSlug": "bun-bo-hue",
-  "body": [],
+  "body": [
+    "Hue eats a beef-and-pork noodle bowl, a clam rice on the river island, and a turmeric crepe on the north bank. It is not mì Quảng and not cao lầu. Those belong down the coast.",
+    "Give the first bowl to Dong Ba. Cross Ưng Bình bridge for Hen Island when you want cơm hến or bún hến, and skip the island in a flood week. Kim Long, on the way to Thien Mu, is the road for bánh khoái and bún thịt nướng. Nem lụi is a street stall Vietnam Tourism does not place on a named street. No stall price is published. The hour is Check on arrival."
+  ],
+  "specialtiesLead": "Vietnam Tourism and the city’s culture department name these first: bún bò Huế, cơm hến, bánh bèo, bánh khoái, bánh nậm, and nem lụi.",
   "dishSlugs": ["bun-bo-hue", "com-hen", "banh-beo", "banh-khoai", "banh-nam", "nem-lui"],
   "sections": [
     {
-      "id": "where",
-      "heading": "Where to eat",
-      "nav": "Where to eat",
-      "paragraphs": [],
+      "id": "also",
+      "heading": "Also ordered in Hue",
+      "nav": "Also ordered",
+      "paragraphs": [
+        "Bún thịt nướng is the Kim Long lunch. Bún hến is the other bowl on Hen Island. Chè is the sweet soup Vietnam Tourism places in alleys: corn, lotus seed, taro, and a grilled-pork dumpling soup. No alley name was printed."
+      ],
       "spots": [
         {
-          "name": "Dong Ba Market",
-          "nameVi": "Chợ Đông Ba",
-          "photo": "hue-dong-ba",
-          "caption": "The market for a bun bo Hue bowl.",
-          "note": "The market for a bun bo Hue bowl."
+          "name": "Bun thit nuong",
+          "nameVi": "Bún thịt nướng",
+          "address": "Kim Long",
+          "note": "Cold rice noodles with grilled pork, herbs, green papaya, carrot, cucumber, and lettuce. Vietnam Tourism says the peanut sauce is the Hue version and that the royal kitchen is the claimed origin. Pork goes on the noodles with sweet-sour fish sauce, then you toss. It is a lunch. A house number and a clock are Check on arrival."
+        },
+        {
+          "name": "Bun hen",
+          "nameVi": "Bún hến",
+          "address": "Cồn Hến, across Ưng Bình bridge",
+          "note": "Vietnam Tourism says the stalls on Hen Island sell bún hến beside cơm hến. What is in the bowl was not printed. The walk on the island is under half an hour. The island disappears when the city floods. The hour is Check on arrival."
+        },
+        {
+          "name": "Corn chè",
+          "nameVi": "Chè",
+          "address": "Check on arrival",
+          "note": "Vietnam Tourism names corn among the sweet soups in alleys. No alley name was printed. Order it after the meal. The hour is Check on arrival."
+        },
+        {
+          "name": "Lotus-seed chè",
+          "nameVi": "Chè",
+          "address": "Check on arrival",
+          "note": "Vietnam Tourism names lotus seed among the sweet soups in alleys. No alley name was printed. The hour is Check on arrival."
+        },
+        {
+          "name": "Taro chè",
+          "nameVi": "Chè",
+          "address": "Check on arrival",
+          "note": "Vietnam Tourism names taro among the sweet soups in alleys. No alley name was printed. The hour is Check on arrival."
+        },
+        {
+          "name": "Grilled-pork dumpling soup",
+          "nameVi": "Chè",
+          "address": "Check on arrival",
+          "note": "Vietnam Tourism includes a grilled-pork dumpling soup with the sweet soups in alleys. No alley name and no further recipe were printed. The hour is Check on arrival."
         }
       ]
     },
     {
-      "id": "neighbors",
-      "heading": "The neighbor bowls",
-      "nav": "Neighbors",
-      "paragraphs": [],
-      "dishSlugs": ["cao-lau", "mi-quang", "banh-mi"]
+      "id": "casual",
+      "role": "casual",
+      "heading": "Casual dining",
+      "nav": "Casual",
+      "paragraphs": [
+        "The doors are markets and roads, not a booked room. Dong Ba is the morning market. Hen Island is the clam rice. Kim Long is the snack road toward Thien Mu. Chi Lăng and Bạch Đằng are the afternoon streets on the far side of the island. Plan 66 of 3 February 2026 also names Chi Lăng and Bạch Đằng inside a night anchor the city is still shaping, with Hoàng Thành and Bao Vinh."
+      ],
+      "spots": [
+        {
+          "name": "Dong Ba Market",
+          "nameVi": "Chợ Đông Ba",
+          "address": "Check on arrival",
+          "photo": "hue-dong-ba",
+          "caption": "The market front. Vietnam Tourism sends you here before bánh khoái and bánh bèo.",
+          "note": "Start here for produce, then the snacks. The city’s culture department places a bún bò Huế bowl inside the market. The street number and the door hour are Check on arrival."
+        },
+        {
+          "name": "Hen Island",
+          "nameVi": "Cồn Hến",
+          "address": "Across Ưng Bình bridge",
+          "note": "Cross Ưng Bình bridge and eat cơm hến or bún hến from the stalls. Vietnam Tourism says the walk is under half an hour and that the island disappears when the city floods. The hour is Check on arrival."
+        },
+        {
+          "name": "Kim Long",
+          "nameVi": "Kim Long",
+          "address": "Kim Long, north bank toward Thien Mu",
+          "note": "The north-bank road that also leads to Thien Mu. Vietnam Tourism places bánh khoái and bún thịt nướng along it. Go in the daytime, on the pagoda ride. A door hour is Check on arrival."
+        },
+        {
+          "name": "Chi Lang and Bach Dang",
+          "nameVi": "Chi Lăng và Bạch Đằng",
+          "address": "Far side of Hen Island",
+          "note": "Vietnam Tourism’s itinerary names Chi Lăng and Bạch Đằng for the afternoon after Hen Island. Plan 66 of 3 February 2026 names the same pair as a night anchor still being shaped. Check on arrival."
+        }
+      ]
     }
   ],
-  "verified": "21 Oct 2026",
-  "seoTitle": "Hue food guide — bun bo, com hen, and steamed cakes",
-  "seoDescription": "Bun bo Hue at Dong Ba, com hen on Hen Island, and the small cakes. No stall price is published. Hours are check on arrival."
+  "verified": "22 Oct 2026",
+  "seoTitle": "Hue food guide — bun bo, com hen, cakes, and Kim Long",
+  "seoDescription": "Bun bo Hue at Dong Ba, com hen on Hen Island, and banh khoai along Kim Long. Nem lui is a street stall. Stall price and hour are Check on arrival."
 }
