@@ -526,7 +526,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "tay-ninh",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-22T07:04:34.689Z",
+    "by": "tay-ninh-page",
+    "branch": "cursor/tay-ninh-destination-0ab9"
+  },
   "log": [
     {
       "at": "2026-10-22T06:51:36.435Z",
