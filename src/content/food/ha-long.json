@@ -43,6 +43,7 @@
     {
       "id": "international",
       "heading": "International dining",
+      "role": "international",
       "nav": "International",
       "paragraphs": [
         "The operator guide for Sun World Hạ Long, at Số 9 đường Hạ Long in phường Bãi Cháy, names a sushi counter and two grill lines on a buffet. No room photograph was used here. A price for the sushi, the cocktail, or those grill lines was not printed. Check on arrival."
@@ -83,6 +84,7 @@
     {
       "id": "casual",
       "heading": "Casual dining",
+      "role": "casual",
       "nav": "Casual",
       "paragraphs": [
         "The casual doors are streets and counters, not a ranked shop list. Phố đi bộ Bài Thơ runs 18:00–24:00 on Friday and Saturday. Công luận also says holidays and Tết. Dân trí does not. Both stay. The 2023 reports say phường Bạch Đằng. The 2025 resolution puts Bạch Đằng in phường Hồng Gai. On the Bãi Cháy side, the night article groups phố đi bộ Bãi Cháy, chợ đêm Hạ Long, and Sun Carnival Plaza after dark, and prints no hour.",
@@ -160,6 +162,7 @@
     {
       "id": "fine",
       "heading": "Fine dining",
+      "role": "fine",
       "nav": "Fine",
       "paragraphs": [
         "One room on the operator guide is described as sang trọng. That is the operator’s word for the service. A menu and a price were not printed. Check on arrival."
@@ -176,6 +179,7 @@
     {
       "id": "themed",
       "heading": "Themed dining",
+      "role": "themed",
       "nav": "Themed",
       "paragraphs": [
         "Themed eating on the opened pages is the Dragon Park buffet, the set meals tied to the cable car and the fireworks, the 2024 beer-and-squid-cake festival, and the squid cake on the cruise boats. No boat brand is a pick. A buffet price, apart from the cable-car combos below, was not printed.",
