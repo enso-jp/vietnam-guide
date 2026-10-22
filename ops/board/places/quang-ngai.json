@@ -73,21 +73,21 @@
       "reworkCount": 1
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "skipped",
+      "note": "No licensed photo of a plate. No food guide, Food chip, interests.food, or foodSlug.",
+      "updated": "2026-10-22T04:51:57.901Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:18:15.572Z",
+      "status": "skipped",
+      "note": "No food guide to enrich. No licensed plate photo.",
+      "updated": "2026-10-22T04:51:57.965Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:18:15.572Z",
+      "status": "skipped",
+      "note": "No food guide to check. No licensed plate photo.",
+      "updated": "2026-10-22T04:51:58.027Z",
       "reworkCount": 0
     }
   },
@@ -98,14 +98,14 @@
       "track": "unit",
       "name": "Son My memorial",
       "slug": "son-my",
-      "file": null,
+      "file": "src/content/attractions/quang-ngai--son-my.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
+      "page": "paged",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Sourced. Fee and hours stay check on arrival. Both unofficial fees kept. Photo unpublished. A page waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.572Z",
+      "note": "Memorial page. Fee and hours Check on arrival. Both distances and both unofficial fees kept. Dot 5 on a new record.",
+      "updated": "2026-10-22T04:53:32.443Z",
       "reworkCount": 0
     },
     {
@@ -577,6 +577,38 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-22T04:53:32.413Z",
+      "place": "quang-ngai",
+      "stage": "page",
+      "item": "quang-ngai--son-my",
+      "status": "paged",
+      "note": "Memorial page. Fee and hours Check on arrival. Both distances and both unofficial fees kept. Dot 5 on a new record."
+    },
+    {
+      "at": "2026-10-22T04:51:58.027Z",
+      "place": "quang-ngai",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "skipped",
+      "note": "No food guide to check. No licensed plate photo."
+    },
+    {
+      "at": "2026-10-22T04:51:57.966Z",
+      "place": "quang-ngai",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "skipped",
+      "note": "No food guide to enrich. No licensed plate photo."
+    },
+    {
+      "at": "2026-10-22T04:51:57.901Z",
+      "place": "quang-ngai",
+      "stage": "food",
+      "item": null,
+      "status": "skipped",
+      "note": "No licensed photo of a plate. No food guide, Food chip, interests.food, or foodSlug."
+    },
+    {
       "at": "2026-10-22T04:51:41.385Z",
       "place": "quang-ngai",
       "stage": "destinationQuality",
@@ -703,14 +735,6 @@
       "item": null,
       "status": "needs_depth",
       "note": "Major sights are in. Still open: Núi Răng Cưa, Chùa Ông, the provincial museum, Minh Đức, and official fees and hours."
-    },
-    {
-      "at": "2026-10-22T04:17:46.324Z",
-      "place": "quang-ngai",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and getting there are in. Still open: flight minutes, the airport’s post-merger province name, road minutes, rail fares, and a chosen Sa Kỳ kilometre."
     }
   ]
 }
