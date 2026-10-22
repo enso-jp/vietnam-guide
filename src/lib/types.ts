@@ -153,8 +153,9 @@ export interface Place {
   corridor: string;
   province: string;
   provinceNote?: string;
-  lat: number;
-  lng: number;
+  /** Sourced map pin. Leave both unset when no point is sourced. A box is not a pin. */
+  lat?: number;
+  lng?: number;
   dots: number;
   dotReason: string;
   summary: string;

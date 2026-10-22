@@ -84,6 +84,15 @@ const path = placePath(place);
 const title = place.seoTitle;
 const description = pageDescription(place.seoDescription, place.summary);
 const image = photoPath(place.slug);
+const latitude = place.lat;
+const longitude = place.lng;
+const pin =
+  typeof latitude === 'number' &&
+  typeof longitude === 'number' &&
+  Number.isFinite(latitude) &&
+  Number.isFinite(longitude)
+    ? { latitude, longitude }
+    : null;
 const crumbSchema = [
   { name: 'Destinations', path: '/destinations' },
   ...(corridor ? [{ name: corridor.name, path: `/destinations/${corridor.slug}` }] : []),
@@ -102,7 +111,9 @@ const jsonLd = {
   description: place.summary,
   url: new URL(path, site.url).toString(),
   ...(image ? { image: new URL(image, site.url).toString() } : {}),
-  geo: { '@type': 'GeoCoordinates', latitude: place.lat, longitude: place.lng },
+  ...(pin
+    ? { geo: { '@type': 'GeoCoordinates', latitude: pin.latitude, longitude: pin.longitude } }
+    : {}),
   containedInPlace: corridor?.name,
 };
 const breadcrumb = breadcrumbList(crumbSchema);
@@ -369,7 +380,7 @@ const leadSight = tiedForLead.find((item) => topInterest && item.interests.inclu
         <div class="panel rail-map">
           <h2>Map</h2>
           <a href={`/destinations/${place.corridor}`} data-map-open><VietnamMap active={place.corridor} linked={false} /></a>
-          <p class="note">{place.name} · {place.lat.toFixed(2)}, {place.lng.toFixed(2)}</p>
+          {pin && <p class="note">{place.name} · {pin.latitude.toFixed(2)}, {pin.longitude.toFixed(2)}</p>}
         </div>
         <details class="panel">
           <summary>Map</summary>
