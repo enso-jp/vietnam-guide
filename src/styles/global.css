@@ -2480,7 +2480,7 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   .lead-actions { order: 7; }
   .home-section { order: 6; }
   .home > .home-stories { order: 7; }
-  .home-rail { order: 4; margin-top: var(--band-gap); }
+  .home-rail { order: 8; margin-top: var(--band-gap); }
   .home .home-rail .book-stay { margin-top: 0; }
   .hero, .place-grid, .card-list, .jg-grid, .hub-grid, .facts { grid-template-columns: 1fr; }
   .interest-grid, .plan-row { grid-template-columns: 1fr 1fr; }
