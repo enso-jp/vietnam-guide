@@ -2175,6 +2175,13 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
 .collage-tile:hover strong { text-decoration: underline; }
 .collage-tile:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
 
+/* Shared row heights above would keep the collage shorter than the booking card. */
+@media (min-width: 861px) {
+  .home-collage {
+    grid-template-rows: minmax(0, 1.05fr) minmax(0, 1.05fr) minmax(0, 0.92fr);
+  }
+}
+
 @media (max-width: 860px) {
   .bar {
     height: 3.25rem;
@@ -2480,7 +2487,7 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   .lead-actions { order: 7; }
   .home-section { order: 6; }
   .home > .home-stories { order: 7; }
-  .home-rail { order: 4; margin-top: var(--band-gap); }
+  .home-rail { order: 8; margin-top: var(--band-gap); }
   .home .home-rail .book-stay { margin-top: 0; }
   .hero, .place-grid, .card-list, .jg-grid, .hub-grid, .facts { grid-template-columns: 1fr; }
   .interest-grid, .plan-row { grid-template-columns: 1fr 1fr; }
