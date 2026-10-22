@@ -100,45 +100,46 @@ const jsonLd = {
       )}
 
       <div class="home-split">
-        {feature && (
-          <a class="home-hero home-hero-next" href={feature.href}>
-            <Photo id={feature.photo} alt="" cover={feature.cover} />
-            <span class="home-hero-copy">
-              <small><i class="hero-mark" aria-hidden="true"></i>{feature.kicker}</small>
-              <strong>{feature.title}</strong>
-              <em>{feature.when}</em>
-            </span>
-          </a>
-        )}
-
-        <div class="home-rail">
-          <BookStay />
-        </div>
-
-        <div class="home-feed">
-          {stories.length > 0 && (
-            <section class="home-stories" id="stories">
-              <h2>Stories</h2>
-              <div class="story-list">
-                {stories.map((story) => (
-                  <a class="story-row" href={story.href}>
-                    <span class="story-copy">
-                      <small class:list={{ 'kicker-season': story.kicker === 'Season' }}>{story.kicker}</small>
-                      <strong>{story.title}</strong>
-                      <em>{story.when}</em>
-                      <p>{story.summary}</p>
-                    </span>
-                    <span class="media"><Photo id={story.photo} alt="" cover={story.cover} /></span>
-                  </a>
-                ))}
-              </div>
-            </section>
+        <div class="home-column">
+          {feature && (
+            <a class="home-hero home-hero-next" href={feature.href}>
+              <Photo id={feature.photo} alt="" cover={feature.cover} />
+              <span class="home-hero-copy">
+                <small><i class="hero-mark" aria-hidden="true"></i>{feature.kicker}</small>
+                <strong>{feature.title}</strong>
+                <em>{feature.when}</em>
+              </span>
+            </a>
           )}
 
-          <div class="home-actions lead-actions">
-            <a class="pill" href="/seasons">Season alerts</a>
-            <a class="pill" href="/blog">See more stories</a>
+          <div class="home-feed">
+            {stories.length > 0 && (
+              <section class="home-stories" id="stories">
+                <h2>Stories</h2>
+                <div class="story-list">
+                  {stories.map((story) => (
+                    <a class="story-row" href={story.href}>
+                      <span class="story-copy">
+                        <small class:list={{ 'kicker-season': story.kicker === 'Season' }}>{story.kicker}</small>
+                        <strong>{story.title}</strong>
+                        <em>{story.when}</em>
+                        <p>{story.summary}</p>
+                      </span>
+                      <span class="media"><Photo id={story.photo} alt="" cover={story.cover} /></span>
+                    </a>
+                  ))}
+                </div>
+              </section>
+            )}
+
+            <div class="home-actions lead-actions">
+              <a class="pill" href="/seasons">Season alerts</a>
+              <a class="pill" href="/blog">See more stories</a>
+            </div>
           </div>
+        </div>
+        <div class="home-rail">
+          <BookStay />
         </div>
       </div>
     </div>
