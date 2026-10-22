@@ -1,0 +1,55 @@
+{
+  "slug": "vinh-citadel",
+  "placeSlug": "vinh",
+  "name": "Vinh Citadel",
+  "nameVi": "Thành cổ Vinh",
+  "kicker": "A Nguyễn gate, a moat, and the yard",
+  "summary": "Walk what remains of the Nguyễn citadel: a gate, a moat, and the yard, not a reconstructed palace. Earth in 1804 under Gia Long, stone in Minh Mạng’s 12th year, 1831. The city page prints a six-sided wall, 2,412 m around, 4.42 m high. The Xô viết museum is in the yard, nearly 2 km from the square. A gate hour and a fee were not printed.",
+  "dots": 4,
+  "timeNeeded": "A walk around the gate and the moat",
+  "fee": "Check on arrival",
+  "getThere": "Nearly 2 km from the square, with the Xô viết museum in the yard.",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The citadel gate in daylight, the full gate. The moat is not in this frame.",
+  "notice": {
+    "title": "Do not budget a full fort",
+    "body": "The city roundup is a gate, a moat rebuilt as a lit lake with a grass bank, and the yard. It is not a reconstructed palace."
+  },
+  "body": [
+    "Walk the gate. The city introduction prints a six-sided wall, perimeter 603 trượng (2,412 m), height 4.42 m, area 420,000 m², and a moat 28 m wide and 3.20 m deep. Earth in 1804 under Gia Long, stone in Minh Mạng’s 12th year, 1831. The roundup says the moat has been rebuilt as a lit lake with a grass bank. These photographs show the gate. They do not show the moat.",
+    "The city roundup places the gate as the check-in, and says the walls stand in Cửa Nam, Đội Cung, and Quang Trung on older ward names. Cửa Nam and Quang Trung go into phường Thành Vinh from 1 July 2025. Đội Cung was not in the six clauses that loaded. Ask for Thành cổ, not for a vanished ward. The Xô viết museum sits in the yard, nearly 2 km from the square on the 2025 news page. It is not Bảo tàng Nghệ An, which the roundup places on Đào Tấn.",
+    "Come late in the afternoon if you want the moat lights the roundup describes. Hours of any gate were not printed. Check on arrival. A fee was not loaded. Do not plan this as a palace visit. Huế is the citadel day. This is the gate that is left."
+  ],
+  "figures": [
+    {
+      "id": "vinh-vinh-citadel-2",
+      "caption": "The same gate after dark. The moat the roundup describes is not in this frame.",
+      "alt": "The Vinh citadel gate lit at night, with the wooden doors and the pavilion above"
+    }
+  ],
+  "gettingThere": [
+    "The 2025 news page puts the Xô viết museum, and the citadel yard with it, nearly 2 km from the square. A street number for a ticket gate was not printed. Check on arrival. The minutes were not printed."
+  ],
+  "legs": [
+    {
+      "heading": "From Ho Chi Minh Square",
+      "body": "Nearly 2 km, on the 2025 news page. The mode and the minutes were not printed. Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day was printed. Check on arrival.",
+  "admissionNote": "No fee was loaded. Check on arrival.",
+  "links": [
+    {
+      "label": "City introduction",
+      "url": "https://vinh.nghean.gov.vn/dieu-kien-tu-nhien/-/asset_publisher/ynVJdsHuw4tR/content/gioi-thieu-thanh-pho-vinh-1",
+      "note": "City portal. The wall measures."
+    },
+    {
+      "label": "Sights in Vinh",
+      "url": "https://vinh.nghean.gov.vn/pho-di-bo/-/asset_publisher/ynVJdsHuw4tR/content/nhung-iem-en-hap-dan-o-thanh-vinh",
+      "note": "City roundup. The gate, and the moat as a lit lake."
+    }
+  ],
+  "interests": ["warHistory"]
+}
