@@ -878,7 +878,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "can-tho",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-22T17:16:36.607Z",
+    "by": "can-tho-destination",
+    "branch": "cursor/can-tho-destination-e8e7"
+  },
   "log": [
     {
       "at": "2026-10-22T17:11:57.453Z",
