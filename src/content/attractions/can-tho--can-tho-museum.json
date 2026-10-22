@@ -1,0 +1,55 @@
+{
+  "slug": "can-tho-museum",
+  "placeSlug": "can-tho",
+  "name": "Can Tho Museum",
+  "nameVi": "Bảo tàng Thành phố Cần Thơ",
+  "kicker": "City museum on Hòa Bình since 1976",
+  "summary": "Use the museum on Hòa Bình when you want a roof and the standing collection, not a current exhibition list. Vietnam Tourism dates it to 1976, on 2,700 m², with about 5,000 objects and English captions. A fee, the hours, and the minutes from the quay were not printed. Check on arrival.",
+  "dots": 3,
+  "district": "Ninh Kiều",
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Walk from the quay along Hòa Bình. Minutes: Check on arrival.",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The museum facade on Hòa Bình",
+  "notice": {
+    "title": "No current exhibition list",
+    "body": "Vietnam Tourism’s text is a standing description of the collection. It does not name a 2026 show. Do not plan the hour around a temporary display."
+  },
+  "body": [
+    "Vietnam Tourism says the museum was established in 1976, on 2,700 m², with about 5,000 objects: history of people in Can Tho, plant and fish specimens, and rice work of Kinh, Hoa, and Khmer people, with English captions. That is the visit the national account describes.",
+    "Two address lines are printed. The museum site’s footer says Số 1 đại lộ Hòa Bình, phường Ninh Kiều. Vietnam Tourism says no. 1 Hoa Binh Avenue, Tan An, Ninh Kieu. Both stay. A tariff was not on the national page. Hours were not printed. Check on arrival. The walk from Bến Ninh Kiều follows Hòa Bình. Minutes were not printed. Check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "can-tho-can-tho-museum-2",
+      "caption": "The columned front of the Can Tho Museum",
+      "alt": "Columned front of the Can Tho Museum on Hoa Binh Avenue"
+    }
+  ],
+  "gettingThere": [
+    "The museum is on đại lộ Hòa Bình, a walk from Bến Ninh Kiều. The footer address is Số 1, phường Ninh Kiều. Vietnam Tourism prints Tan An, Ninh Kieu, for the same number. Minutes were not printed. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Ninh Kiều",
+      "body": "On foot along Hòa Bình. A minute count was not printed. Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival. Hours were not printed on Vietnam Tourism’s place page or in the museum footer.",
+  "closed": "A weekly closing day was not printed. Check on arrival.",
+  "admissionNote": "Check on arrival. No tariff was printed on Vietnam Tourism’s place page.",
+  "links": [
+    {
+      "label": "Can Tho, river and garden",
+      "url": "https://www.vietnam.travel/things-to-do/can-tho-glimpse-river-and-garden",
+      "note": "Vietnam National Authority of Tourism"
+    },
+    {
+      "label": "Bảo tàng Thành phố Cần Thơ",
+      "url": "https://baotangtpcantho.cantho.gov.vn/",
+      "note": "Bảo tàng Thành phố Cần Thơ"
+    }
+  ],
+  "interests": ["family"]
+}
