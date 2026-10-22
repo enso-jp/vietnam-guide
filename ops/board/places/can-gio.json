@@ -526,7 +526,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "can-gio",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-22T04:25:04.511Z",
+    "by": "can-gio-page",
+    "branch": "cursor/can-gio-destination-e5c0"
+  },
   "log": [
     {
       "at": "2026-10-22T04:15:03.022Z",
