@@ -1,0 +1,47 @@
+{
+  "slug": "mausoleum",
+  "placeSlug": "hanoi",
+  "name": "Ho Chi Minh Mausoleum",
+  "nameVi": "Lăng Chủ tịch Hồ Chí Minh",
+  "kicker": "A morning visit on Ba Dinh Square",
+  "summary": "Join the morning queue on an open day. The operator closes Monday and Friday, with named exceptions, and the government portal closes the building from 4 September 2026 to 2 November 2026. The official FAQ says the visit is free. Vietnam Tourism prints 40,000 VND. Both figures stay.",
+  "dots": 4,
+  "timeNeeded": "Check on arrival",
+  "fee": "Free on the official FAQ. 40,000 VND on Vietnam Tourism.",
+  "getThere": "Assembly at 17 Ngoc Ha",
+  "district": "Ba Dinh",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The facade of the Ho Chi Minh Mausoleum",
+  "gettingThere": [
+    "The operator sends visitors to assemble at 17 Ngoc Ha. The minutes from Hoan Kiem were not published. Check on arrival. This is not the citadel entrance at 19c Hoang Dieu."
+  ],
+  "legs": [
+    {
+      "heading": "From Hoan Kiem",
+      "body": "By car or motorbike to 17 Ngoc Ha. The minutes are check on arrival."
+    }
+  ],
+  "hours": "Operator: mornings on Tuesday, Wednesday, Thursday, Saturday, and Sunday. Hot season 1 April–31 October: weekdays 7:30–10:30, weekends and holidays 7:30–11:00. Cold season 1 November–31 March: weekdays 8:00–11:00, weekends and holidays 8:00–11:30. Vietnam Tourism adds a last entry of 10:15 that the operator regulation does not state.",
+  "closed": "Monday and Friday, except 19 May, 2 September, and the first day of Tet when those dates fall on a closed day. The government portal also closes the mausoleum from 4 September 2026 to 2 November 2026, reopening 3 November 2026. A relic page says about two months in October and November each year. Both closure figures stay.",
+  "admissionNote": "The mausoleum FAQ says there is no ticket for the mausoleum or for walking Ba Dinh Square. Vietnam Tourism prints 40,000 VND. Both stay. A 25,000 VND figure seen only in a search highlight was not opened and is not used.",
+  "links": [
+    {
+      "label": "Visiting regulation",
+      "url": "https://btllang.mod.gov.vn/thong-tin-them/2325-quy-dinh-to-chuc-le-vieng-bac.html",
+      "note": "Hours and the Monday and Friday closure."
+    },
+    {
+      "label": "Ticket FAQ",
+      "url": "https://btllang.mod.gov.vn/hoi-dap/cac-cau-hoi-thuong-gap/8021-cau-hoi-khach-vao-lang-vieng-bac-va-tham-quan-khu-vuc-co-phai-mua-ve-khonga-dang-ky-tham-quan-tai-daua.html",
+      "note": "No ticket, on the operator FAQ."
+    },
+    {
+      "label": "2026 closure notice",
+      "url": "https://xaydungchinhsach.chinhphu.vn/tu-bo-dinh-ky-lang-chu-tich-ho-chi-minh-tu-4-9-den-2-11-2026-119260828075627647.htm",
+      "note": "Closed 4 September 2026 to 2 November 2026."
+    }
+  ],
+  "interests": [
+    "warHistory"
+  ]
+}

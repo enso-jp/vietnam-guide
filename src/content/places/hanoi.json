@@ -10,12 +10,12 @@
   "lng": 105.854,
   "dots": 5,
   "dotReason": "Worth building a day around",
-  "summary": "Hanoi is Vietnam’s capital and the usual start of a northern trip. The Old Quarter, Hoan Kiem Lake, and the French-built streets south of the lake are the parts most visitors walk. It is also the base for Ninh Binh, Ha Long Bay, and the mountain towns.",
-  "timeNeeded": "3 days",
-  "fee": "Walking the city is free",
-  "getThere": "Noi Bai airport, then 45–75 minutes by taxi or bus",
-  "bestMonths": "October to April",
-  "verified": "21 Oct 2026",
+  "summary": "You wake up to Turtle Tower in Hoan Kiem and the lanes north of the lake. Stay if that walk, a lunch bowl, and one morning in Ba Dinh are the trip. Go on to Ninh Binh, Ha Long, or Sapa if the city is only where the plane landed. The Old Quarter is a separate walk. Use the link. This page does not repeat it.",
+  "timeNeeded": "Check on arrival",
+  "fee": "The lake path is free. Sight tickets are separate.",
+  "getThere": "Noi Bai is 28 km north, or about 27 km. By car about 45–60 minutes, or about 40.",
+  "bestMonths": "April to June or September to December",
+  "verified": "22 Oct 2026",
   "interests": {
     "food": 5,
     "oldTowns": 4,
@@ -23,10 +23,13 @@
     "markets": 4,
     "coffee": 5,
     "photography": 4,
-    "family": 3
+    "family": 3,
+    "warHistory": 4,
+    "nightlife": 4
   },
   "cover": "lake",
   "nearby": [
+    "old-quarter",
     "ninh-binh",
     "ha-long",
     "sapa"
@@ -43,31 +46,31 @@
     "north-7-days",
     "hanoi-old-quarter-walk"
   ],
-  "seoTitle": "Hanoi travel guide — what to do, how to get there, where to eat",
-  "seoDescription": "How long to stay in Hanoi, how to arrive from Noi Bai, and which day trips are worth leaving the city for.",
+  "seoTitle": "Hanoi travel guide: the lake, the citadel, and what to eat",
+  "seoDescription": "Noi Bai is 28 km north of the city, or about 27 km on the airline and Grab pages. April to June, or September to December, is the easier window.",
   "intro": [
-    "Hanoi sits on the Red River in northern Vietnam. The walkable center is smaller than the city. Hoan Kiem Lake is the landmark. The Old Quarter spreads north of the lake in a tight grid of commercial lanes. The wider streets around the Opera House, built during French colonial rule, sit to the south.",
-    "Three days is enough to walk the center, eat well, and add one museum or pagoda without turning the city into a checklist. Use Hanoi as a base rather than a place to cross in a single afternoon on the way to the bay."
+    "You come for the lake. Turtle Tower sits in Hoan Kiem, and the lanes north of it are where the morning starts, with pho before the courtyards fill. Stay if that walk is the trip. Go on to Ninh Binh, Ha Long, or Sapa if the north outside the city is the trip.",
+    "Ba Dinh is a different morning: the citadel, the mausoleum, and One Pillar Pagoda, and they are not one ticket. After dark the corner Vietnam Tourism names is Ta Hien and Luong Ngoc Quyen. The Old Quarter is a separate walk. Use the link. This page does not repeat it."
   ],
   "gettingAround": [
-    "Noi Bai Airport is north of the city. A metered taxi, a ride-hailing car, or the airport bus takes about 45 to 75 minutes depending on traffic. The urban metro is useful on a few corridors and does not replace walking or a car for most visitor routes.",
-    "Inside the center, walk. For the Temple of Literature, the French Quarter, or West Lake, use GrabCar or GrabBike. Agree the trip in the app. Street taxis exist; use a marked meter and watch the route."
+    "Noi Bai is 28 km north of Ha Noi on the airport’s aeronautical page, and about 27 km from the center on Vietnam Airlines and on Grab. A car is about 45 to 60 minutes on the airline page, and about 40 minutes on Grab. Bus 86 to Ha Noi Railway Station is 50,000 VND, departing 7:00 to 22:15. Vietnam Airlines lists an express bus at 45,000 VND. Both fares stay.",
+    "Inside the lake grid, walk. Metro Line 2A and Line 3 both list 5:30 to 22:00. Line 3 stops at Van Mieu, for the Temple of Literature, and at Ha Noi Station. The walk from the station to the temple gate is check on arrival. A ride from the lake to Ba Dinh or West Lake is check on arrival."
   ],
   "stayAreas": [
     {
-      "name": "Old Quarter",
-      "summary": "The densest choice. You can walk to the lake and to most first-night restaurants. Streets are noisy late.",
+      "name": "North of the lake",
+      "summary": "The lanes above Hoan Kiem. You can walk to the shore and to the morning pho streets. The streets are noisy late, and Ta Hien is the evening corner.",
       "band": "Hostels through small hotels"
     },
     {
       "name": "South of Hoan Kiem",
-      "summary": "Quieter streets around the Opera House and the French-built blocks. Still walkable to the lake.",
+      "summary": "Quieter streets around the Opera House. Still a walk to the lake. The history museum and Trang Tien sit on this side.",
       "band": "Midrange and luxury hotels"
     }
   ],
   "eat": [
-    "Hanoi’s everyday cooking is lighter than the south: bun cha, pho, bun dau, egg coffee, and grilled pork with herbs. Eat where the stools are busy and the prices are on a board.",
-    "The Old Quarter is convenient and uneven. A short walk away from the main backpacker corners usually improves the meal."
+    "Start the day with pho in the Hoan Kiem lanes, including Hang Vai. At lunch, bun cha is the bowl, almost only at lunch, around Cua Dong. In the afternoon, egg coffee is the sit-down cup in the Nguyen Huu Huan alley.",
+    "Vietnam Tourism names shops on those streets. This page does not rank them. Banh mi is not on that Hanoi dish list, so it is not given a Hanoi line here."
   ],
   "dishSlugs": [
     "pho",
@@ -76,16 +79,16 @@
     "ca-phe"
   ],
   "interestsBody": [
-    "Come to Hanoi for street food, a walkable old commercial district, and coffee. Pagodas and the Temple of Literature reward a focused morning. The city is also the rail and bus hub for Sapa, Ninh Binh, and Ha Long."
+    "Come for the lake walk, a morning in Ba Dinh, and the bowls Vietnam Tourism ties to this city: pho, bun cha, and egg coffee. The Old Quarter is a separate walk through the grid north of the lake. Use the link. This page does not repeat it."
   ],
   "interestGroups": [
     {
       "title": "Dining and F&B",
-      "summary": "Hanoi cooks a lighter, less sweet street food than the south. Eat bun cha at lunch, pho in the morning, and egg coffee when you want to sit down.",
+      "summary": "Pho in the morning, bun cha at lunch, and egg coffee in the afternoon. The lanes are Hang Vai, Cua Dong, and the Nguyen Huu Huan alley.",
       "cards": [
         {
           "title": "Dining and F&B",
-          "summary": "Hanoi cooks a lighter, less sweet street food than the south. Eat bun cha at lunch, pho in the morning, and egg coffee when you want to sit down.",
+          "summary": "Pho in the morning, bun cha at lunch, and egg coffee when you sit down. The plate photos are the bowls, not a shop list.",
           "photo": "ca-phe",
           "icon": "food",
           "to": "food"
@@ -133,99 +136,104 @@
     },
     {
       "title": "The lake and the lanes",
-      "summary": "Hoan Kiem Lake is the landmark. The Old Quarter spreads north of the lake in a tight grid of commercial lanes.",
+      "summary": "Hoan Kiem is the landmark. The lanes north of it are a separate walk, on the link. The cathedral and the water-puppet theatre sit on this walk.",
       "cards": [
         {
           "title": "Hoan Kiem Lake",
-          "summary": "The lake at the center of the visitor city, with Ngoc Son Temple on a small island.",
+          "summary": "The lake path is free and open all day. Turtle Tower stands in the water. The temple on the island is a separate ticket.",
           "attractionSlug": "hoan-kiem",
           "photo": "hanoi-hoan-kiem",
-          "icon": "view",
-          "block": "lake"
+          "icon": "view"
         },
         {
-          "title": "Train Street",
-          "summary": "A narrow residential track where a train still passes. Standing on the tracks is unsafe and often blocked off.",
-          "attractionSlug": "train-street",
-          "photo": "hanoi-train-street",
-          "icon": "view",
-          "block": "lake"
+          "title": "Ngoc Son Temple",
+          "summary": "The The Huc bridge and the temple on the island. Adult 50,000 VND. The two hour tables do not match.",
+          "attractionSlug": "ngoc-son",
+          "photo": "hanoi-ngoc-son",
+          "icon": "view"
         },
         {
           "title": "Old Quarter",
-          "summary": "The Old Quarter sits on land that was once a cluster of artisan streets outside the citadel. Shop signs still hint at silver, silk, and herbal medicine, even where the ground floors now sell luggage and cafe seats.",
+          "summary": "The grid of lanes north of the lake, walked separately. Use the link. This page does not repeat it.",
           "placeSlug": "old-quarter",
           "photo": "old-quarter",
-          "icon": "view",
-          "block": "quarter"
+          "icon": "view"
         }
-      ],
-      "blocks": [
+      ]
+    },
+    {
+      "title": "Ba Dinh",
+      "summary": "The citadel, the mausoleum, and One Pillar Pagoda are three gates, not one ticket.",
+      "cards": [
         {
-          "id": "lake",
-          "heading": "Around the lake",
-          "nav": "The lake",
-          "paragraphs": [
-            "The walkable center is smaller than the city. Hoan Kiem Lake is the landmark. The wider streets around the Opera House, built during French colonial rule, sit to the south.",
-            "Three days is enough to walk the center, eat well, and add one museum or pagoda without turning the city into a checklist."
-          ]
+          "title": "Imperial Citadel",
+          "summary": "UNESCO, 2010. Adult 100,000 VND from 1 January 2025. Open 8:00 to 17:00 every day.",
+          "attractionSlug": "citadel",
+          "photo": "hanoi-citadel",
+          "icon": "museum"
         },
         {
-          "id": "quarter",
-          "heading": "North of the lake",
-          "nav": "Old Quarter",
-          "paragraphs": [
-            "The Old Quarter spreads north of the lake in a tight grid of commercial lanes. Come to Hanoi for street food, a walkable old commercial district, and coffee.",
-            "The Old Quarter is convenient and uneven. A short walk away from the main backpacker corners usually improves the meal."
-          ]
+          "title": "Ho Chi Minh Mausoleum",
+          "summary": "Morning visits on set days. The official FAQ says free. Vietnam Tourism prints 40,000 VND.",
+          "attractionSlug": "mausoleum",
+          "photo": "hanoi-mausoleum",
+          "icon": "museum"
+        },
+        {
+          "title": "One Pillar Pagoda",
+          "summary": "The wooden pagoda on one pillar. 25,000 VND. The hours and the emperor’s name differ by source.",
+          "attractionSlug": "one-pillar",
+          "photo": "hanoi-one-pillar",
+          "icon": "museum"
         }
       ]
     },
     {
       "title": "Temple of Literature",
-      "summary": "Pagodas and the Temple of Literature reward a focused morning.",
+      "summary": "The Confucian temple west of the old commercial streets. Daytime ticket 70,000 VND. The night price is not one number.",
       "cards": [
         {
           "title": "Temple of Literature",
-          "summary": "A Confucian temple and Vietnam’s first national university, with quiet courtyards west of the old commercial streets.",
+          "summary": "Operator hours 8:00 to 17:00 every day. Vietnam Tourism prints a different daytime window and a 199,000 VND night tour.",
           "attractionSlug": "temple-of-literature",
           "photo": "hanoi-temple-of-literature",
           "icon": "museum"
         }
-      ],
-      "body": [
-        "Pagodas and the Temple of Literature reward a focused morning. The city is also the rail and bus hub for Sapa, Ninh Binh, and Ha Long."
       ]
     },
     {
       "title": "West Lake",
-      "summary": "A large lake north of the center, with pagodas, cafes, and lotus in season.",
+      "summary": "The large lake in Tay Ho. A shore fee was not published. Tran Quoc is the pagoda on the water.",
       "cards": [
         {
           "title": "West Lake",
-          "summary": "A large lake north of the center, with pagodas, cafes, and lotus in season.",
+          "summary": "The shore north of the center. The fee and the minutes from Hoan Kiem are check on arrival.",
           "attractionSlug": "west-lake",
           "photo": "hanoi-west-lake",
           "icon": "view"
+        },
+        {
+          "title": "Tran Quoc Pagoda",
+          "summary": "The stupa on the West Lake shore. The fee and the hours are check on arrival.",
+          "attractionSlug": "tran-quoc",
+          "photo": "hanoi-tran-quoc",
+          "icon": "view"
         }
-      ],
-      "body": [
-        "Lotus on West Lake is usually a summer sight."
       ]
     }
   ],
   "faqs": [
     {
-      "q": "How many days do you need in Hanoi?",
-      "a": "Three days covers the center and one museum or pagoda. Add nights if you are using the city only as a base for Ninh Binh or the bay."
+      "q": "How do you get into the city from Noi Bai?",
+      "a": "The airport page puts Noi Bai 28 km north of Ha Noi. Vietnam Airlines and Grab say about 27 km. A car is about 45 to 60 minutes on the airline page, and about 40 minutes on Grab. Bus 86 to Ha Noi Railway Station is 50,000 VND, from 7:00 to 22:15. Vietnam Airlines lists an express bus at 45,000 VND."
     },
     {
-      "q": "Is Hanoi walkable?",
-      "a": "The Old Quarter and the lake are walkable. Cross streets slowly and steadily. Motorbikes do not stop the way city traffic does in some other countries."
+      "q": "When can you visit the Ho Chi Minh Mausoleum?",
+      "a": "The operator opens mornings on Tuesday, Wednesday, Thursday, Saturday, and Sunday, and closes Monday and Friday except 19 May, 2 September, and the first day of Tet when those fall on a closed day. The government portal also closes it from 4 September 2026 to 2 November 2026. The official FAQ says the visit is free. Vietnam Tourism prints 40,000 VND."
     }
   ],
   "season": {
-    "label": "Typical calendar",
-    "note": "No field report is filed for the city itself. Lotus on West Lake is usually a summer sight. Tet flower markets fill the streets in the weeks before Lunar New Year."
+    "label": "April to June, or September to December",
+    "note": "Vietnam Tourism calls April to June, or September to December, the easier window. June to August is hot, humid, and rainy. Late December to March can fall to about 10°C. September to November sits around 25°C, and April can pass 30°C. Tet moves on the lunar calendar. In the days before it, seats sell out, and the first days of the city are quieter."
   }
 }

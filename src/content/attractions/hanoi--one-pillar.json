@@ -1,0 +1,60 @@
+{
+  "slug": "one-pillar",
+  "placeSlug": "hanoi",
+  "name": "One Pillar Pagoda",
+  "nameVi": "Chùa Một Cột",
+  "kicker": "A wooden pagoda on one stone pillar",
+  "summary": "See the wooden pagoda on its single stone pillar, then leave the rest of the morning for the citadel. The fee is 25,000 VND on both pages. The hours and the emperor’s name are not the same on those pages. Read both before you go.",
+  "dots": 3,
+  "timeNeeded": "Check on arrival",
+  "fee": "25,000 VND",
+  "getThere": "Beside the citadel, in Ba Dinh",
+  "district": "Ba Dinh",
+  "verified": "22 Oct 2026",
+  "heroCaption": "One Pillar Pagoda on its single pillar",
+  "notice": {
+    "title": "Two hour tables, and two emperor names",
+    "body": "Vietnam Tourism and the SEA Games tourism page both charge 25,000 VND. They do not print the same hours. One names Emperor Ly Thai To. The Hanoi culture department names Ly Thai Tong. Both say 1049."
+  },
+  "body": [
+    "The pagoda is a small wooden building on a single stone pillar, at Chua Mot Cot, Doi Can, Ba Dinh. The Hanoi culture department also calls it Dien Huu and Lien Hoa Dai. It sits in the same district as the citadel, and it is a different gate.",
+    "Both Vietnam Tourism and the national tourism SEA Games page print 25,000 VND. Vietnam Tourism prints summer hours 7:30 to 10:30 and winter hours 8:00 to 11:00, Tuesday to Thursday and Saturday to Sunday. The SEA Games page prints 8:00 to 11:30 every day, and 14:00 to 16:00 on Tuesday, Wednesday, Thursday, Saturday, and Sunday. The minutes on site, and the walk from the citadel gate, are check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "hanoi-one-pillar-2",
+      "caption": "The pillar and the roof from the other side of the pond",
+      "alt": "One Pillar Pagoda and its roof above the stone pillar"
+    }
+  ],
+  "gettingThere": [
+    "The address on the SEA Games tourism page is Chua Mot Cot, Doi Can, Ba Dinh. Go from the citadel on foot. No minute count was published. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the citadel",
+      "body": "Walk. The minutes are check on arrival."
+    },
+    {
+      "heading": "From Hoan Kiem",
+      "body": "By car or motorbike. No published minute count. Check on arrival."
+    }
+  ],
+  "hours": "Vietnam Tourism: summer 7:30–10:30, winter 8:00–11:00, Tuesday–Thursday and Saturday–Sunday. SEA Games tourism page: 8:00–11:30 every day, and 14:00–16:00 Tuesday–Thursday and Saturday–Sunday.",
+  "admissionNote": "25,000 VND on both Vietnam Tourism and the SEA Games tourism page. Emperor Ly Thai To, 1049, on those two pages. The Hanoi culture department names Ly Thai Tong, also 1049, and does not print a fee.",
+  "links": [
+    {
+      "label": "Vietnam Tourism, Hanoi sights",
+      "url": "https://vietnam.travel/things-to-do/11-must-see-attractions-ha-noi",
+      "note": "25,000 VND and one hour table."
+    },
+    {
+      "label": "SEA Games tourism page",
+      "url": "https://seagames31.vietnamtourism.gov.vn/one-pillar-pagoda/",
+      "note": "25,000 VND and a second hour table."
+    }
+  ],
+  "interests": [
+    "pagodas"
+  ]
+}

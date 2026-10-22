@@ -2,14 +2,22 @@
   "slug": "west-lake",
   "placeSlug": "hanoi",
   "name": "West Lake",
-  "summary": "A large lake north of the center, with pagodas, cafes, and lotus in season.",
-  "dots": 3,
-  "timeNeeded": "Half a day if you linger",
-  "fee": "Free along the shore",
-  "getThere": "Grab from Hoan Kiem, about 15–25 minutes",
-  "interests": [
-    "pagodas"
-  ],
   "nameVi": "Hồ Tây",
-  "district": "Tay Ho"
+  "kicker": "The large lake in Tay Ho",
+  "summary": "Walk the shore of the large lake north of the center. A shore fee was not on the pages opened for this guide, and neither was a minute count from Hoan Kiem. Both are check on arrival. Tran Quoc Pagoda is a separate stop.",
+  "dots": 3,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "From Hoan Kiem. Minutes are check on arrival.",
+  "district": "Tay Ho",
+  "verified": "22 Oct 2026",
+  "heroCaption": "A pavilion on the shore of West Lake",
+  "gettingThere": [
+    "West Lake is in Tay Ho, north of the visitor center. No published drive time from Hoan Kiem was on an operator page. Check on arrival."
+  ],
+  "hours": "Check on arrival. No shore clock was published on the pages used here.",
+  "admissionNote": "Check on arrival. A shore fee was not published.",
+  "interests": [
+    "photography"
+  ]
 }

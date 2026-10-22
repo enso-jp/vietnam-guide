@@ -41,7 +41,9 @@
     {
       "name": "Lunch",
       "minutes": 50,
-      "note": "Bun cha or pho, then walk back to the lake on a different lane."
+      "placeSlug": "hanoi",
+      "dishSlug": "bun-cha",
+      "note": "Bun cha at lunch, around Cua Dong, then walk back to the lake on a different lane."
     }
   ],
   "seoTitle": "Hanoi Old Quarter walking itinerary",

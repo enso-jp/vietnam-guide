@@ -1,0 +1,51 @@
+{
+  "slug": "cathedral",
+  "placeSlug": "hanoi",
+  "name": "St Joseph's Cathedral",
+  "nameVi": "Nhà thờ Lớn Hà Nội",
+  "kicker": "The twin-tower church at 40 Nha Chung",
+  "summary": "Stand in the square at 40 Nha Chung and look at the two towers. The visit from the street is the facade. Vietnam Tourism is the only page this guide opened for a fee and a clock, so both stay check on arrival. Do not treat that one page as the parish timetable.",
+  "dots": 3,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Walk west of Hoan Kiem",
+  "district": "Hoan Kiem",
+  "verified": "22 Oct 2026",
+  "heroCaption": "St Joseph's Cathedral and its two towers",
+  "notice": {
+    "title": "The gate time is check on arrival",
+    "body": "One Vietnam Tourism page prints free entry and a set of hours. No second source was opened. The public fee and hours stay check on arrival."
+  },
+  "body": [
+    "The church faces a small square at 40 Nha Chung, west of Hoan Kiem. You see the two stone towers, the clock, and the statue in front. Come for that view. A mass time was not confirmed on a parish page.",
+    "Vietnam Tourism alone says entry is free and prints Monday to Saturday 8:00 to 11:00 and 14:00 to 20:00, and Sunday 7:00 to 11:00 and 15:00 to 21:00. That single page is not the published gate time here. The fee and the hours are check on arrival. The walk from the lake has no published minute count."
+  ],
+  "figures": [
+    {
+      "id": "hanoi-cathedral-2",
+      "caption": "The same towers after dark, with the clock lit",
+      "alt": "St Joseph's Cathedral in Hanoi lit at night"
+    }
+  ],
+  "gettingThere": [
+    "Walk west from Hoan Kiem to 40 Nha Chung. The minutes are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Hoan Kiem",
+      "body": "Walk. The minutes are check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "admissionNote": "Check on arrival. Vietnam Tourism alone prints free entry. That single figure is not used as the fee.",
+  "links": [
+    {
+      "label": "Vietnam Tourism, Hanoi sights",
+      "url": "https://vietnam.travel/things-to-do/11-must-see-attractions-ha-noi",
+      "note": "The only fee and hour page opened. Not used as the published clock."
+    }
+  ],
+  "interests": [
+    "photography"
+  ]
+}
