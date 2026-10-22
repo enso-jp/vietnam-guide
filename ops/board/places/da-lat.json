@@ -25,15 +25,15 @@
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "status": "enriched",
+      "note": "Place prose, cool-dry season chip, lake hero, and sourced interest groups. Lat and lng left unset. Tuyen Lam has no licensed lake frame.",
+      "updated": "2026-10-22T17:16:57.758Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "status": "checked",
+      "note": "Place prose, lake hero, season chip, and interest groups checked. Sight pages remain later units.",
+      "updated": "2026-10-22T17:18:56.441Z",
       "reworkCount": 0
     },
     "food": {
@@ -608,13 +608,29 @@
   "questions": [],
   "claim": {
     "place": "da-lat",
-    "stage": "destinationCopy",
+    "stage": "foodCopy",
     "item": null,
-    "at": "2026-10-22T16:53:05.879Z",
+    "at": "2026-10-22T17:18:56.475Z",
     "by": "hourly",
     "branch": ""
   },
   "log": [
+    {
+      "at": "2026-10-22T17:18:56.441Z",
+      "place": "da-lat",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Place prose, lake hero, season chip, and interest groups checked. Sight pages remain later units."
+    },
+    {
+      "at": "2026-10-22T17:16:57.758Z",
+      "place": "da-lat",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Place prose, cool-dry season chip, lake hero, and sourced interest groups. Lat and lng left unset. Tuyen Lam has no licensed lake frame."
+    },
     {
       "at": "2026-10-21T11:21:58.783Z",
       "place": "da-lat",

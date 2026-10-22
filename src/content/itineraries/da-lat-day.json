@@ -1,0 +1,52 @@
+{
+  "slug": "da-lat-day",
+  "title": "Da Lat in a day",
+  "kind": "trip",
+  "level": "day",
+  "duration": "1 day",
+  "spanDays": 1,
+  "placeSlug": "da-lat",
+  "budget": "Check on arrival",
+  "pace": "Relaxed",
+  "photo": "da-lat-xuan-huong",
+  "summary": "A walk from Xuan Huong Lake to the market, the cathedral, the DALAT station, and back to Lam Vien Square after dark.",
+  "stops": [
+    {
+      "name": "Xuan Huong Lake",
+      "minutes": 60,
+      "placeSlug": "da-lat",
+      "attractionSlug": "xuan-huong",
+      "note": "Start on the shore while the mist is still on the water."
+    },
+    {
+      "name": "Da Lat Market",
+      "minutes": 60,
+      "placeSlug": "da-lat",
+      "attractionSlug": "market",
+      "note": "Strawberries and avocado ice cream on the slope above the lake."
+    },
+    {
+      "name": "Da Lat Cathedral",
+      "minutes": 20,
+      "placeSlug": "da-lat",
+      "attractionSlug": "cathedral",
+      "note": "The tower on Tran Phu. It is not the pink church at Domaine de Marie."
+    },
+    {
+      "name": "Da Lat Railway Station",
+      "minutes": 45,
+      "placeSlug": "da-lat",
+      "attractionSlug": "railway-station",
+      "note": "The facade with DALAT on it. Add the Trai Mat train only if Linh Phuoc is the rest of the day."
+    },
+    {
+      "name": "Lam Vien Square",
+      "minutes": 30,
+      "placeSlug": "da-lat",
+      "attractionSlug": "lam-vien-square",
+      "note": "Back to the lake edge after dark. The night market is the slope above."
+    }
+  ],
+  "seoTitle": "Da Lat in a day",
+  "seoDescription": "A one-day Da Lat walk: Xuan Huong Lake, the market, the cathedral, and the DALAT station."
+}
