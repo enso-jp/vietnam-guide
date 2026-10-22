@@ -1,0 +1,23 @@
+# Getting there — Son La
+
+Checked: 22 Oct 2026
+
+The usual previous stop is Hanoi (`hanoi`), or Mộc Châu (`moc-chau`) if that night came first. The road is National Highway 6. This city is west of the plateau. It is not the plateau.
+
+- Nearest airport: Noi Bai (HAN) in Hanoi is the airport travelers actually use. The 2020 museum handbook sends southern visitors to Hanoi by air and then by road (S6). Nà Sản, in xã Chiềng Mung and Mai Sơn, is in the national airport plan and is not a 2026 passenger service. Decision 1140 of 1 Jul 2026 keeps it as a future 4C field, about 1 million passengers a year to 2030 and about 2 million by 2050, on more than 544 ha. The planning consultant says the runway is badly damaged and the field has stopped operating (S29). The Civil Aviation Authority note of 30 May 2022 is an older plan and shows no timetable (S30). Do not publish a flight. GoVietnam’s straight-line figure of about 93 km to Điện Biên airport is not a road and is not a way to this city (S3).
+- Nearest rail station: None named. This pass did not read a Vietnam Railways timetable. Do not publish a station.
+- From the usual previous stop:
+
+| Mode | Duration | Note | Source |
+|---|---|---|---|
+| Coach, Sơn La–Mỹ Đình | Duration not printed | 300 km. Bến xe Sơn La, QL6, Hòa Bình, Hòa Lạc–Hòa Bình expressway, Đại lộ Thăng Long, Châu Văn Liêm, Mễ Trì, Phạm Hùng, Bến xe Mỹ Đình. Operator Công ty cổ phần vận tải hành khách 2-9 Sơn La. Departures listed from Sơn La: 5:45, 8:15, 20:30, 22:15, 23:30. Return clocks from Mỹ Đình: 18:30, 23:45, 12:45, 20:00, 16:00. Decision 166/QĐ-SXD, 29 Apr 2026. Dataset updated 3 Sep 2026. No fare | S2 |
+| Coach, Sơn La–Yên Nghĩa | Duration not printed | 293 km via QL6, Mộc Châu, Hòa Bình, QL6. A different terminus from the Mỹ Đình row. Keep 293 km and 300 km. No fare | S2 |
+| Overnight coach, older handbook | About 7–8 hours, leaving Mỹ Đình about 19:00–20:00 and reaching Sơn La about 7:00–8:00 | Printed in 2020. Weather and the operator change it. Điện Biên coaches also pass the city and often arrive at night. This clock does not match the 2026 decision line for line, so keep both | S6 |
+| Car, Hanoi toward the dam | 6–7 hours on the GoVietnam page | That page’s 320 km and 6–7 hours run through the city and on to Mường La, which is another 40 km on that same page. It is not a pure city-center time. Coach on that page: 7–8 hours, 200,000–350,000 VND. The 2026 route decision prints no fare, so the fare is Check on arrival | S12 |
+| Road distance, Hanoi | More than 300 km on QL6 in the handbook. About 300 km on the prison page. 300 km and 293 km on the 2026 coach table, for two different Hanoi stations | Do not pick one | S2, S3, S6 |
+| QL6 section, Mộc Châu–city | The 2017 maintained section Km193+000–Km303+000 is 110 km | VietnamPlus calls that section huyện Mộc Châu–thành phố Sơn La. It is a project length. The chairman said the upgrade cut Hòa Bình–Sơn La time by nearly one hour. That is not a 2026 minute count | S1 |
+| Center to center, Mộc Châu–city | About 140 km, about 3 hours by car and about 5 hours by motorbike on one commercial page. More than 140 km, more than 3 hours by car and nearly 5 hours by motorbike on a second commercial page | These disagree with the 110 km section length. Keep the section length and the center-to-center figures. A road-authority minute count for this leg — Check on arrival — UNSOURCED | S23, S24 |
+| Toward Điện Biên | See `side-trips.md` | Kilometer pairs disagree. Minutes — Check on arrival — UNSOURCED | S25, S26 |
+
+- Getting around on site: National Highway 6 is the street the coaches use through the valley. QL279 leaves north for Mường La and the dam (S13). The prison is a walk up Khau Cả from the center (S3). Bản Mòng is a short road to Hua La, at 5 km, nearly 6 km, or 7 km depending on the page (S6, S17, S18, S19). A city bus map, a taxi fare, and a motorbike hire price — Check on arrival — UNSOURCED. GoVietnam prints a motorbike hire of 150,000–250,000 VND a day and a taxi of 300,000–500,000 VND one way to the dam. That is one commercial page, and the dam distance on that page is the 40 km figure, not the 60 km figure (S12, S13). Do not publish one taxi fare.
+- Season limit on the journey: GoVietnam’s lake page says the dry months are October–April and the rain is May–September, and it prints 10–18°C for November–January at the lake (S12). That temperature is one page, not a city weather station. The same publisher’s pass page names thick fog on Pha Đin in December–February and tells drivers to avoid June–August rain (S26). A pass-closure calendar — Check on arrival — UNSOURCED. The Tô Hiệu peach around Tết, and the first lunar month at the Lê temple, move with the moon. See `events.md`.
