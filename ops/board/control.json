@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-22T06:27:53.000Z",
+  "updated": "2026-10-22T16:47:53.000Z",
   "pause": false,
   "pauseReason": "",
   "claimStaleHours": 3,
@@ -31,7 +31,12 @@
     "ho-chi-minh-city",
     "ha-long",
     "ninh-binh",
-    "old-quarter"
+    "old-quarter",
+    "da-lat",
+    "phu-quoc",
+    "can-tho",
+    "cu-chi",
+    "hue"
   ],
   "log": [
     {
