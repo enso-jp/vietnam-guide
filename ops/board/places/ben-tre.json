@@ -55,9 +55,9 @@
       "reworkCount": 0
     },
     "destination": {
-      "status": "paged",
-      "note": "Place shell, Mekong corridor, nearby my-tho, one itinerary. Sights, festivals, and dishes have no licensed photo, so they are not cards. Food guide skipped. Gate, museum fee, boat and taxi fares, coach station, and quiet hour are check on arrival. Side trip placeholders: Tra Vinh, Vinh Long. Place dot 4. Interests: Tien islets, xu dua, Ho Truc Giang, Dong Khoi, Nguyen Dinh Chieu, Cho Lach, the sea edge, a family on the water. No Dining card.",
-      "updated": "2026-10-22T04:38:15.762Z",
+      "status": "stale",
+      "note": "Reopen to file licensed photos and the sights they support.",
+      "updated": "2026-10-22T09:08:51.814Z",
       "reworkCount": 0
     },
     "destinationCopy": {
@@ -782,8 +782,23 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "ben-tre",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-22T09:08:51.849Z",
+    "by": "hourly",
+    "branch": "cursor/ben-tre-destination-7ab2"
+  },
   "log": [
+    {
+      "at": "2026-10-22T09:08:51.815Z",
+      "place": "ben-tre",
+      "stage": "destination",
+      "item": null,
+      "status": "stale",
+      "note": "Reopen to file licensed photos and the sights they support."
+    },
     {
       "at": "2026-10-22T04:40:32.697Z",
       "place": "ben-tre",
@@ -932,14 +947,6 @@
       "at": "2026-10-22T04:40:23.379Z",
       "place": "ben-tre",
       "stage": "quality",
-      "item": "ben-tre--fruit-day",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo"
-    },
-    {
-      "at": "2026-10-22T04:40:23.318Z",
-      "place": "ben-tre",
-      "stage": "copy",
       "item": "ben-tre--fruit-day",
       "status": "skipped",
       "note": "unpublished: no licensed photo"
