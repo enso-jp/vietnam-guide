@@ -55,39 +55,39 @@
       "reworkCount": 0
     },
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, three interest groups, one day itinerary. Festivals left off: no licensed event photo. Ly Son, Sa Huynh, Tra Bong, and Ba To stay side-trip placeholders. Fees and hours are Check on arrival. Map pin 15.12, 108.8 is not in the dossier; the page needs a coordinate. All three area and population pairs kept.",
+      "updated": "2026-10-22T04:48:52.514Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:18:15.572Z",
+      "status": "enriched",
+      "note": "Cau Co Luy is the bridge south of the Don An Phu ground at thon Phu Tho. It is not cau Thach Bich. Hoang Sa rite is named on Ly Son.",
+      "updated": "2026-10-22T04:51:41.320Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:18:15.572Z",
-      "reworkCount": 0
+      "status": "checked",
+      "note": "Bridge sentence matches the Don An Phu ground. Both figures kept. Fees and hours stay Check on arrival. Map pin is still the render coordinate, not a dossier GPS.",
+      "updated": "2026-10-22T04:51:41.385Z",
+      "reworkCount": 1
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "skipped",
+      "note": "No licensed photo of a plate. No food guide, Food chip, interests.food, or foodSlug.",
+      "updated": "2026-10-22T04:51:57.901Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:18:15.572Z",
+      "status": "skipped",
+      "note": "No food guide to enrich. No licensed plate photo.",
+      "updated": "2026-10-22T04:51:57.965Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:18:15.572Z",
+      "status": "skipped",
+      "note": "No food guide to check. No licensed plate photo.",
+      "updated": "2026-10-22T04:51:58.027Z",
       "reworkCount": 0
     }
   },
@@ -98,14 +98,14 @@
       "track": "unit",
       "name": "Son My memorial",
       "slug": "son-my",
-      "file": null,
+      "file": "src/content/attractions/quang-ngai--son-my.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced. Fee and hours stay check on arrival. Both unofficial fees kept. Photo unpublished. A page waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.572Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Counts, both distances, and both unofficial fees match the dossier. Hours and fee stay Check on arrival. Dot 5 was set on the new record.",
+      "updated": "2026-10-22T04:54:15.953Z",
       "reworkCount": 0
     },
     {
@@ -117,11 +117,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced. Not the Đà Nẵng beach. Photo unpublished. A page waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.572Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No My Khe page to check. The swim stays in the place text.",
+      "updated": "2026-10-22T04:54:23.974Z",
       "reworkCount": 0
     },
     {
@@ -130,14 +130,14 @@
       "track": "unit",
       "name": "Thien An mountain",
       "slug": "thien-an",
-      "file": null,
+      "file": "src/content/attractions/quang-ngai--thien-an.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced. 100 m and 105 m both kept. Photo unpublished. A page waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.572Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "100 m and 105 m, 1716 and 1695, both kept. Fee and hours Check on arrival. 1627 was not used. Dot 4 on the new record.",
+      "updated": "2026-10-22T04:55:46.661Z",
       "reworkCount": 0
     },
     {
@@ -149,11 +149,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced. Photo unpublished. A page waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.572Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No Chau Sa page to check. The wall stays in the place text.",
+      "updated": "2026-10-22T04:55:53.369Z",
       "reworkCount": 0
     },
     {
@@ -162,14 +162,14 @@
       "track": "unit",
       "name": "Tra Khuc river",
       "slug": "tra-khuc",
-      "file": null,
+      "file": "src/content/attractions/quang-ngai--tra-khuc.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced. Photo unpublished. A page waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.572Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Both street locations, both opening dates, and the stall split disagreement match the dossier. Bank fee Check on arrival. Dot 4. Nightlife interest does not outrank Son My.",
+      "updated": "2026-10-22T04:57:38.432Z",
       "reworkCount": 0
     },
     {
@@ -197,11 +197,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Photo unpublished. A public food file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:14.115Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed plate photo. No dish page.",
+      "updated": "2026-10-22T04:58:29.893Z",
       "reworkCount": 0
     },
     {
@@ -213,11 +213,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Photo unpublished. A public food file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:14.152Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed plate photo. No dish page.",
+      "updated": "2026-10-22T04:58:29.926Z",
       "reworkCount": 0
     },
     {
@@ -229,11 +229,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Photo unpublished. A public food file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:14.191Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed plate photo. No dish page.",
+      "updated": "2026-10-22T04:58:29.954Z",
       "reworkCount": 0
     },
     {
@@ -245,11 +245,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Photo unpublished. A public food file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:14.230Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed plate photo. No dish page.",
+      "updated": "2026-10-22T04:58:29.986Z",
       "reworkCount": 0
     },
     {
@@ -261,11 +261,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Photo unpublished. A public food file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:14.274Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed plate photo. No dish page.",
+      "updated": "2026-10-22T04:58:30.014Z",
       "reworkCount": 0
     },
     {
@@ -277,11 +277,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Photo unpublished. A public food file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:14.319Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed plate photo. No dish page.",
+      "updated": "2026-10-22T04:58:30.043Z",
       "reworkCount": 0
     },
     {
@@ -293,11 +293,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Photo unpublished. A public food file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:14.362Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed plate photo. No dish page.",
+      "updated": "2026-10-22T04:58:30.072Z",
       "reworkCount": 0
     },
     {
@@ -309,11 +309,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Photo unpublished. A public food file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:14.404Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed plate photo. No dish page.",
+      "updated": "2026-10-22T04:58:30.101Z",
       "reworkCount": 0
     },
     {
@@ -325,11 +325,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Photo unpublished. A public food file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:14.444Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed plate photo. No dish page.",
+      "updated": "2026-10-22T04:58:30.130Z",
       "reworkCount": 0
     },
     {
@@ -341,11 +341,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Photo unpublished. A public food file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:14.483Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed plate photo. No dish page.",
+      "updated": "2026-10-22T04:58:30.158Z",
       "reworkCount": 0
     },
     {
@@ -357,11 +357,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Photo unpublished. A public food file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.572Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the street or a stall. No food-street page.",
+      "updated": "2026-10-22T04:58:02.665Z",
       "reworkCount": 0
     },
     {
@@ -373,11 +373,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Photo unpublished. A public food file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.572Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the Truong Sa stalls. No food-street page.",
+      "updated": "2026-10-22T04:58:02.860Z",
       "reworkCount": 0
     },
     {
@@ -389,11 +389,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Photo unpublished. A public food file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.572Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the market. No food-street page.",
+      "updated": "2026-10-22T04:58:03.047Z",
       "reworkCount": 0
     },
     {
@@ -437,11 +437,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. Bundled. A public festival file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.109Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed event photo. The city picture is not used as the event.",
+      "updated": "2026-10-22T04:58:30.186Z",
       "reworkCount": 0
     },
     {
@@ -453,11 +453,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. Bundled. A public festival file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.160Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed event photo. The city picture is not used as the event.",
+      "updated": "2026-10-22T04:58:30.215Z",
       "reworkCount": 0
     },
     {
@@ -469,11 +469,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. Bundled. A public festival file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.200Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed event photo. The city picture is not used as the event.",
+      "updated": "2026-10-22T04:58:30.242Z",
       "reworkCount": 0
     },
     {
@@ -485,11 +485,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. Bundled. A public festival file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.239Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed event photo. The city picture is not used as the event.",
+      "updated": "2026-10-22T04:58:30.271Z",
       "reworkCount": 0
     },
     {
@@ -501,11 +501,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. Bundled. A public festival file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.279Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed event photo. The city picture is not used as the event.",
+      "updated": "2026-10-22T04:58:30.301Z",
       "reworkCount": 0
     },
     {
@@ -517,11 +517,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. Bundled. A public festival file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.322Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed event photo. The city picture is not used as the event.",
+      "updated": "2026-10-22T04:58:30.332Z",
       "reworkCount": 0
     },
     {
@@ -533,11 +533,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. Bundled. A public festival file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.370Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed event photo. The city picture is not used as the event.",
+      "updated": "2026-10-22T04:58:30.361Z",
       "reworkCount": 0
     },
     {
@@ -549,11 +549,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. Bundled. A public festival file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.410Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed event photo. The city picture is not used as the event.",
+      "updated": "2026-10-22T04:58:30.388Z",
       "reworkCount": 0
     },
     {
@@ -565,11 +565,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. Bundled. A public festival file waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.454Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed event photo. The city picture is not used as the event.",
+      "updated": "2026-10-22T04:58:30.421Z",
       "reworkCount": 0
     }
   ],
@@ -577,100 +577,164 @@
   "claim": null,
   "log": [
     {
-      "at": "2026-10-22T04:18:15.572Z",
+      "at": "2026-10-22T04:58:03.047Z",
       "place": "quang-ngai",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "left out solar dates, a later Don An Phú year, Lý Sơn and Sa Huỳnh dossiers, and road minutes for the side trips."
+      "stage": "quality",
+      "item": "quang-ngai--quang-ngai-market",
+      "status": "skipped",
+      "note": "No licensed photo of the market. No food-street page."
     },
     {
-      "at": "2026-10-22T04:18:15.001Z",
+      "at": "2026-10-22T04:58:02.984Z",
       "place": "quang-ngai",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "left out a named cafe street and the hour the whole city goes quiet."
+      "stage": "copy",
+      "item": "quang-ngai--quang-ngai-market",
+      "status": "skipped",
+      "note": "No licensed photo of the market. No food-street page."
     },
     {
-      "at": "2026-10-22T04:18:14.843Z",
+      "at": "2026-10-22T04:58:02.920Z",
       "place": "quang-ngai",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "left out bar brands, drink prices, and the quiet hour on nights the street is dark."
+      "stage": "page",
+      "item": "quang-ngai--quang-ngai-market",
+      "status": "skipped",
+      "note": "No licensed photo of the market. No food-street page."
     },
     {
-      "at": "2026-10-22T04:18:14.680Z",
+      "at": "2026-10-22T04:58:02.860Z",
       "place": "quang-ngai",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "left out stall prices, the ram bắp method, market hours, a provincial page for bánh ít lá gai, and shop names as picks."
+      "stage": "quality",
+      "item": "quang-ngai--truong-sa",
+      "status": "skipped",
+      "note": "No licensed photo of the Truong Sa stalls. No food-street page."
     },
     {
-      "at": "2026-10-22T04:18:14.030Z",
+      "at": "2026-10-22T04:58:02.793Z",
       "place": "quang-ngai",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "left out Núi Răng Cưa, Chùa Ông, the provincial museum, Minh Đức, official Sơn Mỹ fees and hours, and minutes from the center."
+      "stage": "copy",
+      "item": "quang-ngai--truong-sa",
+      "status": "skipped",
+      "note": "No licensed photo of the Truong Sa stalls. No food-street page."
     },
     {
-      "at": "2026-10-22T04:18:13.622Z",
+      "at": "2026-10-22T04:58:02.730Z",
       "place": "quang-ngai",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "left out flight minutes, the airport’s post-merger province name, road minutes from Hội An, Đà Nẵng, and Quy Nhơn, rail fares and the table’s revision date, a chosen Sa Kỳ kilometre, and boat minutes."
+      "stage": "page",
+      "item": "quang-ngai--truong-sa",
+      "status": "skipped",
+      "note": "No licensed photo of the Truong Sa stalls. No food-street page."
     },
     {
-      "at": "2026-10-22T04:17:48.276Z",
+      "at": "2026-10-22T04:58:02.665Z",
       "place": "quang-ngai",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Festivals and side trips are in. Still open: solar dates, Lý Sơn and Sa Huỳnh dossiers, and road minutes."
+      "stage": "quality",
+      "item": "quang-ngai--song-tra-night-food",
+      "status": "skipped",
+      "note": "No licensed photo of the street or a stall. No food-street page."
     },
     {
-      "at": "2026-10-22T04:17:47.689Z",
+      "at": "2026-10-22T04:58:02.584Z",
       "place": "quang-ngai",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The ordinary day is in. Still open: a named cafe street and a city-wide quiet hour."
+      "stage": "copy",
+      "item": "quang-ngai--song-tra-night-food",
+      "status": "skipped",
+      "note": "No licensed photo of the street or a stall. No food-street page."
     },
     {
-      "at": "2026-10-22T04:17:47.541Z",
+      "at": "2026-10-22T04:58:02.509Z",
       "place": "quang-ngai",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The weekend river street is in. Still open: a bar street, which was not found, and the quiet hour on nights the street is dark."
+      "stage": "page",
+      "item": "quang-ngai--song-tra-night-food",
+      "status": "skipped",
+      "note": "No licensed photo of the street or a stall. No food-street page."
     },
     {
-      "at": "2026-10-22T04:17:47.368Z",
+      "at": "2026-10-22T04:57:38.432Z",
       "place": "quang-ngai",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Dishes and three food streets are in. Still open: stall prices, ram bắp method, market hours, and a provincial page for bánh ít lá gai."
+      "stage": "quality",
+      "item": "quang-ngai--tra-khuc",
+      "status": "checked",
+      "note": "Both street locations, both opening dates, and the stall split disagreement match the dossier. Bank fee Check on arrival. Dot 4. Nightlife interest does not outrank Son My."
     },
     {
-      "at": "2026-10-22T04:17:46.739Z",
+      "at": "2026-10-22T04:57:38.367Z",
       "place": "quang-ngai",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Major sights are in. Still open: Núi Răng Cưa, Chùa Ông, the provincial museum, Minh Đức, and official fees and hours."
+      "stage": "copy",
+      "item": "quang-ngai--tra-khuc",
+      "status": "enriched",
+      "note": "Bridge crop keeps the span. The long trestle is still not named Thach Bich."
     },
     {
-      "at": "2026-10-22T04:17:46.324Z",
+      "at": "2026-10-22T04:57:00.397Z",
       "place": "quang-ngai",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and getting there are in. Still open: flight minutes, the airport’s post-merger province name, road minutes, rail fares, and a chosen Sa Kỳ kilometre."
+      "stage": "page",
+      "item": "quang-ngai--tra-khuc",
+      "status": "paged",
+      "note": "River page. Street hours sourced. Bank fee Check on arrival. The long span is not named Thach Bich. Dot 4 on a new record. Interests nightlife so it does not take the lead from Son My."
+    },
+    {
+      "at": "2026-10-22T04:55:53.369Z",
+      "place": "quang-ngai",
+      "stage": "quality",
+      "item": "quang-ngai--chau-sa",
+      "status": "skipped",
+      "note": "No Chau Sa page to check. The wall stays in the place text."
+    },
+    {
+      "at": "2026-10-22T04:55:53.305Z",
+      "place": "quang-ngai",
+      "stage": "copy",
+      "item": "quang-ngai--chau-sa",
+      "status": "skipped",
+      "note": "No Chau Sa page to enrich."
+    },
+    {
+      "at": "2026-10-22T04:55:53.238Z",
+      "place": "quang-ngai",
+      "stage": "page",
+      "item": "quang-ngai--chau-sa",
+      "status": "skipped",
+      "note": "No licensed photo of the earth rampart. No sight card."
+    },
+    {
+      "at": "2026-10-22T04:55:46.662Z",
+      "place": "quang-ngai",
+      "stage": "quality",
+      "item": "quang-ngai--thien-an",
+      "status": "checked",
+      "note": "100 m and 105 m, 1716 and 1695, both kept. Fee and hours Check on arrival. 1627 was not used. Dot 4 on the new record."
+    },
+    {
+      "at": "2026-10-22T04:55:46.598Z",
+      "place": "quang-ngai",
+      "stage": "copy",
+      "item": "quang-ngai--thien-an",
+      "status": "enriched",
+      "note": "Standing figure crop keeps the face and the gesture. Both heights and both years stay."
+    },
+    {
+      "at": "2026-10-22T04:55:10.412Z",
+      "place": "quang-ngai",
+      "stage": "page",
+      "item": "quang-ngai--thien-an",
+      "status": "paged",
+      "note": "Hill page. Both heights and both years kept. Fee and hours Check on arrival. Dot 4 on a new record. 1627 was not used."
+    },
+    {
+      "at": "2026-10-22T04:54:23.974Z",
+      "place": "quang-ngai",
+      "stage": "quality",
+      "item": "quang-ngai--my-khe",
+      "status": "skipped",
+      "note": "No My Khe page to check. The swim stays in the place text."
+    },
+    {
+      "at": "2026-10-22T04:54:23.911Z",
+      "place": "quang-ngai",
+      "stage": "copy",
+      "item": "quang-ngai--my-khe",
+      "status": "skipped",
+      "note": "No My Khe page to enrich. No licensed photo of this beach."
     }
   ]
 }
