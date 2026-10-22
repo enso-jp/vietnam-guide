@@ -1,0 +1,91 @@
+{
+  "slug": "cu-chi",
+  "name": "Cu Chi food",
+  "placeSlug": "cu-chi",
+  "summary": "Cu Chi is not a dining city. The sourced list is rice paper at Phú Hòa Đông, tapioca at the Hoàng Cầm kitchen, veal as a product name, one breakfast soup with no street, and durian sugarcane juice along National Highway 22.",
+  "body": [
+    "Eat this as a tunnel day, not as a night of restaurants. Ho Chi Minh City is where you sit down for a long meal. Here the named foods are a craft village, a kitchen on the relic, and a few products with no stall attached.",
+    "No stall price was printed. Check on arrival. Where two kiln counts disagree, both stay."
+  ],
+  "specialtiesLead": "Rice paper at Phú Hòa Đông, tapioca with hot tea at the Hoàng Cầm kitchen, veal with no stall named, and durian sugarcane juice on Highway 22.",
+  "dishSlugs": [],
+  "sections": [
+    {
+      "id": "specialties",
+      "heading": "Cu Chi specialties",
+      "nav": "Specialties",
+      "paragraphs": [
+        "Rice paper is the craft a tunnel outing can add. The other names are a wartime snack at the underground kitchen, local veal with no stall, and a drink along National Highway 22. A sweet was not named."
+      ],
+      "spots": [
+        {
+          "name": "Phú Hòa Đông rice paper",
+          "nameVi": "bánh tráng Phú Hòa Đông",
+          "address": "xã Phú Hòa Đông",
+          "note": "The craft is nghề sản xuất bánh tráng, recognized at the old xã Phú Hòa Đông by Quyết định 4568/QĐ-UBND, gazette date 14 Oct 2024. The decision does not describe a taste. Cục Du lịch Quốc gia Việt Nam quotes a maker: the main ingredient is rice flour, a little sticky-rice flour in the past, wheat flour at some kilns now, plus coconut water, salt, sugar, and sesame depending on the batch. Tạp chí Công Thương describes the older mix as rice flour, water, and salt, poured thin, lifted with a bamboo tube, and dried in the sun. Both mixes stay. A serving was not printed. Check on arrival. The magazine says a stack is counted to 100, and that the craft is more than 80 years old. The decision does not print a start year. Production on that magazine visit starts at 2:00. Before Tết, a quoted household goes from about 18–20 kg of rice toward about 25 kg. Those are production figures, not a restaurant hour. Distance: more than about 40 km (Cục Du lịch Quốc gia Việt Nam) and about 40 km (Tạp chí Công Thương). Kilns: about 100 kilns, about 40 tons a day, about two-thirds export, about 6,000 workers (Cục Du lịch Quốc gia Việt Nam). HTV prints 62 establishments, of which 10 enterprises, 1 cooperative, and 41 business households, plus 20 households still working by hand, and one firm at 15–20 tons a day. Do not average the counts."
+        },
+        {
+          "name": "Phú Hòa Đông rice-paper lanes",
+          "nameVi": "làng nghề bánh tráng Phú Hòa Đông",
+          "address": "xã Phú Hòa Đông, on the river",
+          "note": "A workshop lane, not a row of restaurants. Walk it on a tunnel outing, where sheets dry on racks. A visitor hour was not printed. Check on arrival. Clause 128 keeps the name xã Phú Hòa Đông and adds the old xã Tân Thạnh Tây and xã Tân Thạnh Đông."
+        },
+        {
+          "name": "Boiled tapioca with sesame salt",
+          "nameVi": "khoai mì luộc muối mè",
+          "address": "Hoàng Cầm kitchen on the relic. Which gate was not printed.",
+          "note": "The Ho Chi Minh City Tourism Promotion Center calls it a wartime dish served with hot tea at the underground Hoàng Cầm kitchen, and says it is complimentary. The operator’s 2021 notice names specialties at Chợ Quê and does not name tapioca. Do not turn complimentary into a menu. A clock for the kitchen was not printed."
+        },
+        {
+          "name": "Cu Chi veal",
+          "nameVi": "bò tơ Củ Chi",
+          "address": "Check on arrival",
+          "note": "The tourism center calls it local veal and says it is prepared into various dishes, without naming one. No cut, no cooking method, and no stall were printed. When to order it is check on arrival."
+        },
+        {
+          "name": "Durian sugarcane juice",
+          "nameVi": "nước mía sầu riêng",
+          "address": "National Highway 22. No marker was printed.",
+          "note": "A drink the tourism center places along Highway 22. No stall name and no recipe. When to order it is check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "casual",
+      "heading": "Casual dining",
+      "nav": "Casual",
+      "role": "casual",
+      "paragraphs": [
+        "Chợ Quê is the market the operator names inside the gate. It is not a map of stalls, and it is not a dining street in the town."
+      ],
+      "spots": [
+        {
+          "name": "Chợ Quê",
+          "nameVi": "Chợ Quê",
+          "address": "On the relic. The notice does not say Bến Dược or Bến Đình.",
+          "note": "The operator’s 2021 reopening says visitors eat specialties at Chợ Quê. No dish list and no stall map. The gate that day is 7:00–17:00. A market-only hour was not printed."
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "heading": "Breakfast",
+      "nav": "Breakfast",
+      "role": "breakfast",
+      "paragraphs": [
+        "One breakfast is named. The street is not."
+      ],
+      "spots": [
+        {
+          "name": "Pork knuckle noodle soup",
+          "nameVi": "bún giò heo",
+          "address": "Check on arrival",
+          "note": "The tourism center calls bún giò heo a long-standing local breakfast and prints no hour and no street. How to eat it was not printed."
+        }
+      ]
+    }
+  ],
+  "verified": "22 Oct 2026",
+  "seoTitle": "Cu Chi food — rice paper, tapioca, and a short list",
+  "seoDescription": "Rice paper at Phú Hòa Đông, tapioca at the Hoàng Cầm kitchen, veal with no stall, one breakfast soup, and durian sugarcane juice on Highway 22."
+}

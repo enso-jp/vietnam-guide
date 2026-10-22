@@ -37,21 +37,21 @@
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Seven sourced entries: five foods plus the rice-paper lanes and Chợ Quê. No licensed dish or room photo, so no card, no food chip, no interests.food, and no foodSlug. Gap against 40 is named. Not padded.",
+      "updated": "2026-10-22T17:38:44.553Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T17:07:51.925Z",
+      "status": "enriched",
+      "note": "Seven text entries. No dish photo, so no card and no food chip. Kiln counts that disagree both stay. Restaurant names that were only clues stay off.",
+      "updated": "2026-10-22T17:39:13.317Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T17:07:51.925Z",
+      "status": "checked",
+      "note": "Seven sourced lines, no licensed dish or room photo, no card. Gap is the short list, not a missing page. Restaurant clues stay off.",
+      "updated": "2026-10-22T17:39:26.140Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -368,13 +368,37 @@
   "questions": [],
   "claim": {
     "place": "cu-chi",
-    "stage": "food",
-    "item": null,
-    "at": "2026-10-22T17:36:20.807Z",
+    "stage": "page",
+    "item": "cu-chi--tunnels",
+    "at": "2026-10-22T17:39:26.173Z",
     "by": "cu-chi-destination",
     "branch": "cursor/cu-chi-destination-f4b0"
   },
   "log": [
+    {
+      "at": "2026-10-22T17:39:26.140Z",
+      "place": "cu-chi",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Seven sourced lines, no licensed dish or room photo, no card. Gap is the short list, not a missing page. Restaurant clues stay off."
+    },
+    {
+      "at": "2026-10-22T17:39:13.318Z",
+      "place": "cu-chi",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Seven text entries. No dish photo, so no card and no food chip. Kiln counts that disagree both stay. Restaurant names that were only clues stay off."
+    },
+    {
+      "at": "2026-10-22T17:38:44.553Z",
+      "place": "cu-chi",
+      "stage": "food",
+      "item": null,
+      "status": "paged",
+      "note": "Seven sourced entries: five foods plus the rice-paper lanes and Chợ Quê. No licensed dish or room photo, so no card, no food chip, no interests.food, and no foodSlug. Gap against 40 is named. Not padded."
+    },
     {
       "at": "2026-10-22T17:36:20.773Z",
       "place": "cu-chi",
