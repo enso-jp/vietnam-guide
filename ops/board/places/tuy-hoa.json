@@ -862,7 +862,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "tuy-hoa",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-22T07:00:59.695Z",
+    "by": "hourly",
+    "branch": "cursor/tuy-hoa-page-f2b4"
+  },
   "log": [
     {
       "at": "2026-10-22T06:50:36.634Z",
