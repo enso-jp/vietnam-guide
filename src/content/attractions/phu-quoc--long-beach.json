@@ -2,13 +2,42 @@
   "slug": "long-beach",
   "placeSlug": "phu-quoc",
   "name": "Long Beach",
-  "summary": "The west-coast sand in front of the main resort strip.",
+  "nameVi": "Bãi Trường",
+  "kicker": "West-coast sand at Bãi Trường",
+  "summary": "Swim and stay for sunset on Bãi Trường, about 20 km of west-coast sand from Mũi Dinh Cậu to Khóe Tàu Rũ. Cục Du lịch Quốc gia Việt Nam calls the sand yellow. Vietnam National Authority of Tourism does not name a colour, and it puts the music and the food on this shore.",
   "dots": 4,
-  "timeNeeded": "A day",
-  "fee": "Free",
-  "getThere": "Stay on it, or taxi from the airport",
-  "interests": [
-    "beaches"
+  "district": "West coast",
+  "timeNeeded": "A beach day",
+  "fee": "Check on arrival",
+  "getThere": "Southwest shore, from Mũi Dinh Cậu to Khóe Tàu Rũ",
+  "bestMonths": "November–April, and lunar month 11 to lunar month 4",
+  "verified": "22 Oct 2026",
+  "heroCaption": "Storm light on Bãi Trường, with the palms and the shore building",
+  "hours": "Check on arrival",
+  "gettingThere": [
+    "Bãi Trường runs about 20 km along the southwest shore, from Mũi Dinh Cậu to Khóe Tàu Rũ. Stay on it if the room faces the sand. The airport is in Duong To, and the road minutes from there are Check on arrival."
   ],
-  "nameVi": "Bãi Trường"
+  "legs": [
+    {
+      "heading": "From Dương Đông",
+      "body": "The beach starts at Mũi Dinh Cậu, on the town shore. Minutes along the sand are Check on arrival. Dinh Cậu is the temple at that north end, for the late afternoon."
+    },
+    {
+      "heading": "From the airport",
+      "body": "Phu Quoc International Airport is in Duong To. Sun Group has operated it since 1 January 2026. The road minutes to the beach are Check on arrival."
+    }
+  ],
+  "links": [
+    {
+      "label": "Bãi Trường",
+      "url": "https://vietnamtourism.vn/index.php/tourism/items/2664",
+      "note": "Cục Du lịch Quốc gia Việt Nam"
+    },
+    {
+      "label": "Long Beach",
+      "url": "https://vietnam.travel/things-to-do/island-hopping-in-phu-quoc",
+      "note": "Vietnam National Authority of Tourism"
+    }
+  ],
+  "interests": ["beaches"]
 }
