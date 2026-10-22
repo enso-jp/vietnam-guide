@@ -62,15 +62,15 @@
     },
     "destinationCopy": {
       "status": "enriched",
-      "note": "Selling line is the river night and Son My. Hero stays the Tra Khuc crop: boats and the long span, railing out. Fees and hours remain Check on arrival.",
-      "updated": "2026-10-22T04:50:00.755Z",
+      "note": "Cau Co Luy is the bridge south of the Don An Phu ground at thon Phu Tho. It is not cau Thach Bich. Hoang Sa rite is named on Ly Son.",
+      "updated": "2026-10-22T04:51:41.320Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:18:15.572Z",
-      "reworkCount": 0
+      "status": "checked",
+      "note": "Bridge sentence matches the Don An Phu ground. Both figures kept. Fees and hours stay Check on arrival. Map pin is still the render coordinate, not a dossier GPS.",
+      "updated": "2026-10-22T04:51:41.385Z",
+      "reworkCount": 1
     },
     "food": {
       "status": "not_started",
@@ -576,6 +576,30 @@
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T04:51:41.385Z",
+      "place": "quang-ngai",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Bridge sentence matches the Don An Phu ground. Both figures kept. Fees and hours stay Check on arrival. Map pin is still the render coordinate, not a dossier GPS."
+    },
+    {
+      "at": "2026-10-22T04:51:41.320Z",
+      "place": "quang-ngai",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Cau Co Luy is the bridge south of the Don An Phu ground at thon Phu Tho. It is not cau Thach Bich. Hoang Sa rite is named on Ly Son."
+    },
+    {
+      "at": "2026-10-22T04:51:00.410Z",
+      "place": "quang-ngai",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "rework",
+      "note": "Tra Khuc group says Cau Co Luy connects An Phu and Tinh Khe. The dossier only places the Don An Phu ground south of that bridge, at thon Phu Tho, xa An Phu."
+    },
     {
       "at": "2026-10-22T04:50:00.755Z",
       "place": "quang-ngai",
