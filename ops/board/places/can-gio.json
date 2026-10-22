@@ -61,9 +61,9 @@
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:15:03.022Z",
+      "status": "enriched",
+      "note": "Lede and intro are split. Room rates name weekday and weekend day and night. Green lung is the biodiversity agency; 21 Jan 2000 is the board. Both bridge investments stay. No licensed photo to crop. No new questions.",
+      "updated": "2026-10-22T04:33:18.287Z",
       "reworkCount": 0
     },
     "destinationQuality": {
@@ -528,6 +528,14 @@
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T04:33:18.287Z",
+      "place": "can-gio",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Lede and intro are split. Room rates name weekday and weekend day and night. Green lung is the biodiversity agency; 21 Jan 2000 is the board. Both bridge investments stay. No licensed photo to crop. No new questions."
+    },
     {
       "at": "2026-10-22T04:31:27.793Z",
       "place": "can-gio",
