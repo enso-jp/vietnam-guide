@@ -19,12 +19,12 @@
   ],
   "sections": [
     {
-      "id": "specialties",
-      "heading": "Specialties",
-      "nav": "Specialties",
+      "id": "regional",
+      "role": "regional",
+      "heading": "Regional dishes",
+      "nav": "Regional",
       "paragraphs": [
-        "Highlights, each with a photograph of that dish: cơm tấm, hủ tiếu, bánh mì, bánh xèo, gỏi cuốn, cà phê sữa đá.",
-        "The plates below are also on the opened city pages. They do not have a photograph of that dish, so they are not cards. Phở is one of them. Vietnam Tourism says it is best in Hanoi. Visit HCMC still lists phở bò on Bùi Viện and lists phở among iconic dishes. No Saigon garnish list was printed."
+        "The plates below are also on the opened city pages. They do not have a photograph of that dish, so each one is a line: the name, and the address when a page printed one. Phở is one of them. Vietnam Tourism says it is best in Hanoi. Visit HCMC still lists phở bò on Bùi Viện and lists phở among iconic dishes. No Saigon garnish list was printed."
       ],
       "spots": [
         {
@@ -122,6 +122,7 @@
     },
     {
       "id": "international-dining",
+      "role": "international",
       "heading": "International dining",
       "nav": "International",
       "paragraphs": [
@@ -156,6 +157,7 @@
     },
     {
       "id": "casual-dining",
+      "role": "casual",
       "heading": "Casual dining",
       "nav": "Casual",
       "paragraphs": [
@@ -291,6 +293,7 @@
     },
     {
       "id": "fine-dining",
+      "role": "fine",
       "heading": "Fine dining",
       "nav": "Fine dining",
       "paragraphs": [
@@ -317,6 +320,7 @@
     },
     {
       "id": "themed-dining",
+      "role": "themed",
       "heading": "Themed dining",
       "nav": "Themed",
       "paragraphs": [
@@ -365,6 +369,7 @@
     },
     {
       "id": "breakfast",
+      "role": "breakfast",
       "heading": "Breakfast",
       "nav": "Breakfast",
       "paragraphs": [
