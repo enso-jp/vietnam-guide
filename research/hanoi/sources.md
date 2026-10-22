@@ -140,6 +140,60 @@ Accessed 22 Oct 2026 unless noted.
 - Accessed: 22 Oct 2026
 - Supports: 66 Nguyen Thai Hoc, Ba Dinh. Opened to the public in 1966. About 2,000 works on display. The Vietnamese home page says the collection holds nearly 20,000 works. Hours and the door fee are not on these pages. UNSOURCED.
 
+### S25
+- URL: https://vietnam.travel/things-to-do/famous-hanoi-food-and-international-fine-dining
+- Publisher: Vietnam Tourism
+- Accessed: 22 Oct 2026
+- Supports: Pho broth spices, banh tom, banh cuon, cha ca La Vong (snakehead, turmeric, 1871), bun cha as a hot sweet broth, Crystal Jade Palace, Kappou Ishia / Ishida, Spices Garden at the Metropole.
+
+### S26
+- URL: https://vietnam.travel/things-to-do/discover-one-michelin-star-restaurants-vietnam
+- Publisher: Vietnam Tourism
+- Accessed: 22 Oct 2026
+- Supports: 2024 one-star notes for Gia, Hibana by Koki at Capella Hanoi, and Tầm Vị.
+
+### S27
+- URL: https://www.michelin.com/en/publications/products-and-services/the-2025-michelin-guide-hanoi
+- Publisher: Michelin
+- Accessed: 22 Oct 2026
+- Supports: 2025 stars retained for Gia, Hibana by Koki, and Tầm Vị. Lamai Garden Green Star and the new Hanoi Bib Gourmand notes for Hà Thành Mansion, Mậu Dịch Số 37, Miến Lươn Chân Cầm, Phở Bò Lâm, and Ưu Đàm.
+
+### S28
+- URL: https://2025.vietnam.travel/en/michelin-guide-suggests-2-day-tour-in-ha-noi/
+- Publisher: Vietnam National Authority of Tourism
+- Accessed: 22 Oct 2026
+- Supports: Phở Ấu Triệu, Miến Lươn Đông Thịnh, Chả Cá Thăng Long, Bánh Cuốn Bà Xuân, Tuyết Bún Chả 34, Ốc Di Tú.
+
+### S29
+- URL: https://vietnam.travel/things-to-do/explore-old-quarter-your-way
+- Publisher: Vietnam Tourism
+- Accessed: 22 Oct 2026
+- Supports: Bia Hoi Junction on Tạ Hiện, Café Giảng, Chè Bốn Mùa, Bún Chả Hương Liên, Phố Cổ Rooftop Cafe, Hàng Đào night market foods.
+
+### S30
+- URL: https://vietnam.travel/things-to-do/my-ha-noi-maia-do
+- Publisher: Vietnam Tourism
+- Accessed: 22 Oct 2026
+- Supports: Bít tết and bánh cuốn on Hòe Nhai, Chim Sáo, Đinh Café, Phố Cổ Café at 11 Hàng Gai, Nola Café.
+
+### S31
+- URL: https://vietnam.travel/things-to-do/perfect-weekend-ha-noi
+- Publisher: Vietnam Tourism
+- Accessed: 22 Oct 2026
+- Supports: Phở cuốn on Ngũ Xã, Trúc Bạch. The 15,000 VND bia hơi figure on this page is a stall price and is not printed on the public guide.
+
+### S32
+- URL: https://vietnam.travel/things-to-do/5-fantastic-vietnamese-coffees
+- Publisher: Vietnam Tourism
+- Accessed: 22 Oct 2026
+- Supports: Fold the egg-coffee foam in with a spoon. The 1946 milk-shortage story is on this page and is left off the public dish, matching the dossier note on S18.
+
+### S33
+- URL: https://vnexpress.net/michelin-trao-sao-cho-9-nha-hang-viet-nam-4894994-p2.html
+- Publisher: VnExpress, 5 June 2025
+- Accessed: 22 Oct 2026
+- Supports: The 2025 Hanoi star, Bib Gourmand, and Selected name lists. Rooms without a description on S27 or S28 were not added as entries.
+
 ### S24
 - URL: https://metrohanoi.vn/ha-noi-metro-ap-dung-bieu-do-chay-tau-voi-gio-cao-diem-moi-tu-ngay-9-2-2026-tren-02-tuyen-dsdt-2a-cat-linh-ha-dong-va-3-1-nhon-ga-ha-noi/
 - Publisher: Hanoi Metro

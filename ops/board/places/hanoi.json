@@ -38,20 +38,20 @@
     },
     "food": {
       "status": "paged",
-      "note": "Plated dishes: pho, bun cha, bun dau, cha ca, ca phe. Egg coffee is a captioned cup. Bun bo Hue is the neighbor.",
-      "updated": "2026-10-22T09:00:19.566Z",
+      "note": "Japan Guide order is stored in the food JSON: specialties with highlights and essays, then international, casual, fine, themed, and breakfast. 48 sourced entries. The current template prints the photo cards.",
+      "updated": "2026-10-22T10:59:27.397Z",
       "reworkCount": 1
     },
     "foodCopy": {
       "status": "enriched",
-      "note": "Dish lines stay on the Vietnam Tourism plate. No invented taste.",
-      "updated": "2026-10-22T09:00:19.635Z",
+      "note": "Dish lines follow Vietnam Tourism and the 2025 MICHELIN notes. Bun cha sauce and cha ca fish stay as both sources print them. Hours stay check on arrival.",
+      "updated": "2026-10-22T10:59:27.490Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "checked",
-      "note": "Mien, nom bo kho, mi van than, bun ca, and bun thang stay off. No sourced description.",
-      "updated": "2026-10-22T09:00:19.701Z",
+      "note": "Five new dish photos match the plate. Egg coffee and the older bowls stay. Room cards wait on a licensed photo of that room. No hour in a caption.",
+      "updated": "2026-10-22T10:59:27.579Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -609,6 +609,54 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-22T10:59:27.579Z",
+      "place": "hanoi",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Five new dish photos match the plate. Egg coffee and the older bowls stay. Room cards wait on a licensed photo of that room. No hour in a caption."
+    },
+    {
+      "at": "2026-10-22T10:59:27.520Z",
+      "place": "hanoi",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "stale",
+      "note": "New dish photos and named rooms need a quality pass."
+    },
+    {
+      "at": "2026-10-22T10:59:27.490Z",
+      "place": "hanoi",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Dish lines follow Vietnam Tourism and the 2025 MICHELIN notes. Bun cha sauce and cha ca fish stay as both sources print them. Hours stay check on arrival."
+    },
+    {
+      "at": "2026-10-22T10:59:27.427Z",
+      "place": "hanoi",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "stale",
+      "note": "The food guide prose was rewritten for the wider sourced list."
+    },
+    {
+      "at": "2026-10-22T10:59:27.397Z",
+      "place": "hanoi",
+      "stage": "food",
+      "item": null,
+      "status": "paged",
+      "note": "Japan Guide order is stored in the food JSON: specialties with highlights and essays, then international, casual, fine, themed, and breakfast. 48 sourced entries. The current template prints the photo cards."
+    },
+    {
+      "at": "2026-10-22T10:30:03.271Z",
+      "place": "hanoi",
+      "stage": "food",
+      "item": null,
+      "status": "stale",
+      "note": "Food guide is being widened to the Japan Guide section order with sourced dishes and rooms."
+    },
+    {
       "at": "2026-10-22T09:00:19.939Z",
       "place": "hanoi",
       "stage": "quality",
@@ -719,54 +767,6 @@
       "item": null,
       "status": "stale",
       "note": "Place prose and hero need the Da Nang pass."
-    },
-    {
-      "at": "2026-10-22T08:44:34.963Z",
-      "place": "hanoi",
-      "stage": "destination",
-      "item": null,
-      "status": "rework",
-      "note": "Rebuild to the Da Nang shape: traveler areas, interest blocks, plated dishes, and a lake hero. PR 116 is not the bar."
-    },
-    {
-      "at": "2026-10-22T07:23:08.978Z",
-      "place": "hanoi",
-      "stage": "quality",
-      "item": "hanoi--flag-ceremony",
-      "status": "checked",
-      "note": "Skipped page confirmed."
-    },
-    {
-      "at": "2026-10-22T07:23:08.909Z",
-      "place": "hanoi",
-      "stage": "copy",
-      "item": "hanoi--flag-ceremony",
-      "status": "skipped",
-      "note": "No page to copy."
-    },
-    {
-      "at": "2026-10-22T07:23:08.826Z",
-      "place": "hanoi",
-      "stage": "page",
-      "item": "hanoi--flag-ceremony",
-      "status": "skipped",
-      "note": "Single clock source. No separate page."
-    },
-    {
-      "at": "2026-10-22T07:23:08.766Z",
-      "place": "hanoi",
-      "stage": "quality",
-      "item": "hanoi--hang-luoc",
-      "status": "checked",
-      "note": "Skipped page confirmed."
-    },
-    {
-      "at": "2026-10-22T07:23:08.706Z",
-      "place": "hanoi",
-      "stage": "copy",
-      "item": "hanoi--hang-luoc",
-      "status": "skipped",
-      "note": "No page to copy."
     }
   ]
 }

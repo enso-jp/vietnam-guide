@@ -16,6 +16,9 @@ Checked: 22 Oct 2026. Public fields that are still Check on arrival.
 - Weekend pedestrian streets. One VnExpress report. No official clock in this pass.
 - Pho breakfast clock.
 - Egg-coffee afternoon clock.
+- Hours for the Hanoi dining rooms named from S25–S30. None of those pages printed a clock. Public notes stay check on arrival.
+- Licensed photos of the dining rooms (Gia, Lamai Garden, Tầm Vị, Hibana by Koki, Spices Garden, Crystal Jade Palace, Kappou Ishia, Chim Sáo, and the cafes). No card until the file is that room.
+- Cuisine lines for the rest of the 2025 Bib Gourmand and Selected lists (S33). Those bare names stay off the public guide.
 - Trần Quốc hours. One airline page. No card until a second source is opened. A photo, if it passes, still does not publish that single clock.
 - History museum closed day: first Monday (baotanglichsuquocgia.vn) or every Monday (vnmh.com.vn and baotanglichsu.vn). No photo in the first pass. A later photo may publish the card with both closed days.
 - One Pillar emperor and hours stay as both figures. No question beyond that.
