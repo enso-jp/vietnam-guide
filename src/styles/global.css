@@ -1782,11 +1782,18 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
     display: grid;
     grid-template-columns: minmax(0, 1fr) 23.5rem;
     column-gap: 1.75rem;
-    align-items: start;
+    align-items: stretch;
     margin-top: var(--band-gap);
   }
   .home-column { min-width: 0; }
   .home-hero-next { margin-top: 0; }
+  .home-collage {
+    height: 100%;
+    min-height: 0;
+    align-self: stretch;
+    grid-template-rows: minmax(0, 1.05fr) minmax(0, 1.05fr) minmax(0, 0.92fr);
+    gap: 0.5rem;
+  }
   .home-rail {
     position: sticky;
     top: 4.75rem;
@@ -2024,8 +2031,96 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
 }
 .plan-page .plan-more:hover { border-color: #c8c8c8; }
 .home-stories { margin-top: var(--home-gap, 1.25rem); }
+.home > .home-stories { margin-top: 2.75rem; }
 .home-stories h2 { margin-bottom: 0.2rem; }
 .home-stories .story-list { margin-top: 0.35rem; }
+.home-collage {
+  display: grid;
+  grid-template-columns: minmax(0, 1.45fr) minmax(0, 1fr);
+  grid-template-rows: 8.6rem 8.6rem 7.8rem;
+  gap: 0.4rem;
+  min-width: 0;
+}
+.collage-tile {
+  position: relative;
+  display: block;
+  min-width: 0;
+  min-height: 0;
+  overflow: hidden;
+  border-radius: 12px;
+  color: #fff;
+  text-decoration: none;
+  background: #d3e2ea;
+}
+.collage-lead { grid-column: 1; grid-row: 1 / span 2; }
+.collage-top { grid-column: 2; grid-row: 1; }
+.collage-mid { grid-column: 2; grid-row: 2; }
+.collage-wide { grid-column: 1; grid-row: 3; }
+.collage-end { grid-column: 2; grid-row: 3; }
+.collage-tile > img,
+.collage-tile > .cover,
+.collage-tile > .cover svg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: inherit;
+}
+.collage-tile > .cover { min-height: 0; border: 0; }
+.collage-copy {
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2.4rem 0.7rem 0.6rem;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.74));
+}
+.collage-copy small {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.collage-copy .hero-mark {
+  border-top-width: 0.26rem;
+  border-bottom-width: 0.26rem;
+  border-left-width: 0.4rem;
+}
+.collage-copy strong {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  overflow: hidden;
+  margin-top: 0.15rem;
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.92rem;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+}
+.collage-lead .collage-copy { padding: 3rem 0.9rem 0.8rem; }
+.collage-lead .collage-copy small { font-size: 0.75rem; }
+.collage-lead .collage-copy strong {
+  -webkit-line-clamp: 4;
+  line-clamp: 4;
+  font-size: clamp(1.15rem, 1.7vw, 1.55rem);
+  line-height: 1.15;
+}
+.collage-wide .collage-copy strong,
+.collage-end .collage-copy strong { font-size: 0.98rem; }
+.collage-tile:hover strong { text-decoration: underline; }
+.collage-tile:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
 
 @media (max-width: 860px) {
   .bar {
@@ -2326,11 +2421,14 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   .home-feed { display: contents; }
   .home-hero-lead { order: 1; }
   .home-sheet { order: 2; }
-  .home-hero-next { order: 3; margin-top: var(--band-gap); }
+  .home-hero-next,
+  .home-collage { order: 3; margin-top: var(--band-gap); }
   .lead-stories { order: 4; }
   .lead-actions { order: 7; }
   .home-section { order: 6; }
-  .home-rail { order: 8; }
+  .home > .home-stories { order: 7; }
+  .home-rail { order: 4; margin-top: var(--band-gap); }
+  .home .home-rail .book-stay { margin-top: 0; }
   .hero, .place-grid, .card-list, .jg-grid, .hub-grid, .facts { grid-template-columns: 1fr; }
   .interest-grid, .plan-row { grid-template-columns: 1fr 1fr; }
   .home-hero img, .home-hero .cover, .home-hero .cover svg { height: 24rem; }
