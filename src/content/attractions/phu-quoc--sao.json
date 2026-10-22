@@ -2,12 +2,42 @@
   "slug": "sao",
   "placeSlug": "phu-quoc",
   "name": "Sao Beach",
-  "summary": "A paler, curved beach in the southeast. Day visit from Long Beach.",
+  "nameVi": "Bãi Sao",
+  "kicker": "Southeast swim at Bãi Sao",
+  "summary": "Swim at Bãi Sao, about 25 minutes from Dương Đông, and come early on a weekday. Cục Du lịch Quốc gia Việt Nam calls the sand cát vàng óng. Vietnam National Authority of Tourism calls it powder-white, and also white. Sunset stays on Long Beach.",
   "dots": 4,
+  "district": "Southeast",
   "timeNeeded": "Half a day",
-  "fee": "Free; chairs may be rented",
-  "getThere": "Taxi, about 30–40 minutes from Duong Dong",
-  "interests": [
-    "beaches"
-  ]
+  "fee": "Check on arrival",
+  "getThere": "About 25 minutes by road from Dương Đông",
+  "bestMonths": "November–April, and lunar month 11 to lunar month 4",
+  "verified": "22 Oct 2026",
+  "heroCaption": "Pale sand, shallow water, and the forested hill at Bãi Sao",
+  "hours": "Check on arrival",
+  "gettingThere": [
+    "Cục Du lịch Quốc gia Việt Nam puts Bãi Sao about 25 minutes by road from the centre of Dương Đông. Vietnam National Authority of Tourism places it at the southern tip and does not give minutes. Come early on a weekday. The sunrise is here. The sunset beach is Long Beach."
+  ],
+  "legs": [
+    {
+      "heading": "From Dương Đông",
+      "body": "About 25 minutes by road from the centre of town. Kilometres are Check on arrival. A taxi, a minibus, or a motorbike is the ride Vietnam National Authority of Tourism names for the island."
+    },
+    {
+      "heading": "From Long Beach",
+      "body": "A half day from the west coast. Do not schedule Bãi Sao as the sunset. The boat for squid goes 15–30 km offshore. The fare is Check on arrival."
+    }
+  ],
+  "links": [
+    {
+      "label": "Bãi Sao",
+      "url": "https://vietnamtourism.vn/index.php/tourism/items/2658",
+      "note": "Cục Du lịch Quốc gia Việt Nam"
+    },
+    {
+      "label": "Sao Beach",
+      "url": "https://vietnam.travel/places-to-go/mekong-delta/phu-quoc",
+      "note": "Vietnam National Authority of Tourism"
+    }
+  ],
+  "interests": ["beaches"]
 }

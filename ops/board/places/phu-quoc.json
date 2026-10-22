@@ -19,39 +19,39 @@
   },
   "stages": {
     "destination": {
-      "status": "shell",
-      "note": "A place file exists. It has not been set up from a stored dossier.",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell from the stored dossier. Lat and lng unset. No food guide: no licensed plate or room photo. Side trips Ha Tien, Rach Gia, and Nam Du have no place slug. Long Beach and Sao are the only sight cards.",
+      "updated": "2026-10-22T17:35:16.820Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T17:16:00.686Z",
+      "status": "enriched",
+      "note": "Hero kept: Long Beach storm frame, surf, palms, and the shore building. Portrait crop phu-quoc-west-shore keeps that building for the tall card. Sao stays the second card. No hotel names.",
+      "updated": "2026-10-22T17:36:22.952Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T17:16:00.686Z",
+      "status": "checked",
+      "note": "Read against the dossier. Lat and lng unset. Sand colours, hectares, litres, and both cable-car tariffs are on the record. No food chip.",
+      "updated": "2026-10-22T17:36:23.032Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "skipped",
+      "note": "No food guide. The dossier has no licensed plate or room photo, so there is no Food chip, food interest, foodSlug, or dish card. The list is not padded toward 40. Named rooms stay off the page.",
+      "updated": "2026-10-22T17:37:00.678Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T17:16:00.686Z",
+      "status": "skipped",
+      "note": "No food guide to copy. No licensed plate or room photo.",
+      "updated": "2026-10-22T17:37:00.757Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T17:16:00.686Z",
+      "status": "checked",
+      "note": "Checked the gap. No food file, no Food chip, no dish card. Sourced dishes stay in the place prose.",
+      "updated": "2026-10-22T17:37:00.829Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -101,11 +101,11 @@
       "file": "src/content/attractions/phu-quoc--long-beach.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. West-coast strip. Bureau yellow sand and the storm photo both stay. No ticket was printed.",
-      "updated": "2026-10-22T17:16:00.686Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Subject is the storm beach with palms and the shore building. Fee is Check on arrival. Dots unchanged.",
+      "updated": "2026-10-22T17:37:39.386Z",
       "reworkCount": 0
     },
     {
@@ -117,11 +117,11 @@
       "file": "src/content/attractions/phu-quoc--sao.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. About 25 minutes from Duong Dong. Yellow and white sand both stay. No ticket was printed.",
-      "updated": "2026-10-22T17:16:00.686Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Subject is the pale sand, the shallow water, and the forested hill. Dots unchanged. Fee is Check on arrival.",
+      "updated": "2026-10-22T17:37:57.829Z",
       "reworkCount": 0
     },
     {
@@ -133,11 +133,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Built 1937 for Cau on the bureau page. Goddess on the tourism pages. Both stay.",
-      "updated": "2026-10-22T17:16:00.686Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "checked",
+      "note": "Checked. The sight stays in the place prose and off the card grid.",
+      "updated": "2026-10-22T17:38:17.754Z",
       "reworkCount": 0
     },
     {
@@ -149,11 +149,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Hectare figures 31422 and 36262 both stay. No ticket number.",
-      "updated": "2026-10-22T17:16:00.686Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "checked",
+      "note": "Checked. The sight stays in the place prose and off the card grid.",
+      "updated": "2026-10-22T17:38:17.993Z",
       "reworkCount": 0
     },
     {
@@ -165,11 +165,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. An Thoi, about 30 km. Special national relic March 2015. Hours and fee unsourced.",
-      "updated": "2026-10-22T17:16:00.686Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "checked",
+      "note": "Checked. The sight stays in the place prose and off the card grid.",
+      "updated": "2026-10-22T17:38:18.235Z",
       "reworkCount": 0
     },
     {
@@ -181,11 +181,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Two Sun World fare and hour pairs. Both stay.",
-      "updated": "2026-10-22T17:16:00.686Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "checked",
+      "note": "Checked. The sight stays in the place prose and off the card grid.",
+      "updated": "2026-10-22T17:38:18.486Z",
       "reworkCount": 0
     },
     {
@@ -197,11 +197,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. One bureau ticket and 09:00-16:00. Not a hotel pick.",
-      "updated": "2026-10-22T17:16:00.686Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "checked",
+      "note": "Checked. The sight stays in the place prose and off the card grid.",
+      "updated": "2026-10-22T17:38:18.713Z",
       "reworkCount": 0
     },
     {
@@ -229,11 +229,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. 20 km northeast. Mountain 300 m. Crab in the food file.",
-      "updated": "2026-10-22T17:16:00.686Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "checked",
+      "note": "Checked. The sight stays in the place prose and off the card grid.",
+      "updated": "2026-10-22T17:38:18.929Z",
       "reworkCount": 0
     },
     {
@@ -245,11 +245,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Quiet north. Trail and coral garden. No kilometres from town.",
-      "updated": "2026-10-22T17:16:00.686Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "checked",
+      "note": "Checked. The sight stays in the place prose and off the card grid.",
+      "updated": "2026-10-22T17:38:19.145Z",
       "reworkCount": 0
     },
     {
@@ -261,11 +261,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. North tip. No door and no fee.",
-      "updated": "2026-10-22T17:16:00.686Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "checked",
+      "note": "Checked. The sight stays in the place prose and off the card grid.",
+      "updated": "2026-10-22T17:38:19.355Z",
       "reworkCount": 0
     },
     {
@@ -277,11 +277,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. White sand by Rach Vem. No season for the starfish.",
-      "updated": "2026-10-22T17:16:00.686Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "checked",
+      "note": "Checked. The sight stays in the place prose and off the card grid.",
+      "updated": "2026-10-22T17:38:19.566Z",
       "reworkCount": 0
     },
     {
@@ -341,11 +341,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 22 Oct 2026. Litre counts and nitrogen ranges both stay. Producer names are not picks.",
-      "updated": "2026-10-22T17:16:00.686Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "checked",
+      "note": "Checked. The sight stays in the place prose and off the card grid.",
+      "updated": "2026-10-22T17:38:19.777Z",
       "reworkCount": 0
     },
     {
@@ -897,100 +897,164 @@
   "claim": null,
   "log": [
     {
-      "at": "2026-10-22T17:16:00.686Z",
+      "at": "2026-10-22T17:38:19.778Z",
       "place": "phu-quoc",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a recurring festival date, crossing minutes to Ha Tien and Nam Du, a fare, and a boat to Tho Chau."
+      "stage": "quality",
+      "item": "phu-quoc--fish-sauce",
+      "status": "checked",
+      "note": "Checked. The sight stays in the place prose and off the card grid."
     },
     {
-      "at": "2026-10-22T17:15:43.278Z",
+      "at": "2026-10-22T17:38:19.708Z",
       "place": "phu-quoc",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a cafe street and the hour the town goes quiet."
+      "stage": "copy",
+      "item": "phu-quoc--fish-sauce",
+      "status": "skipped",
+      "note": "No public file to copy."
     },
     {
-      "at": "2026-10-22T17:15:43.125Z",
+      "at": "2026-10-22T17:38:19.638Z",
       "place": "phu-quoc",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a market closing hour, a Kiss of the Sea clock and price, and a named bar on Long Beach."
+      "stage": "page",
+      "item": "phu-quoc--fish-sauce",
+      "status": "skipped",
+      "note": "No licensed photo of this subject. No public file. The facts stay in the place prose."
     },
     {
-      "at": "2026-10-22T17:15:42.940Z",
+      "at": "2026-10-22T17:38:19.566Z",
       "place": "phu-quoc",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a fine-dining door, a themed restaurant, a second breakfast dish, stall prices, and market hours. Named rooms were left out of the page."
+      "stage": "quality",
+      "item": "phu-quoc--starfish-beach",
+      "status": "checked",
+      "note": "Checked. The sight stays in the place prose and off the card grid."
     },
     {
-      "at": "2026-10-22T17:15:27.226Z",
+      "at": "2026-10-22T17:38:19.492Z",
       "place": "phu-quoc",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: licensed photos except Long Beach and Sao, a park ticket number, prison hours, one agreed cable-car fare, Bai Khem beyond the name, and a Sung Hung address."
+      "stage": "copy",
+      "item": "phu-quoc--starfish-beach",
+      "status": "skipped",
+      "note": "No public file to copy."
     },
     {
-      "at": "2026-10-22T17:15:26.471Z",
+      "at": "2026-10-22T17:38:19.424Z",
       "place": "phu-quoc",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a town pin, the AIP and runway, ferry crossing minutes, a second flight timetable, the province area in Resolution 202, and a live car-ferry clock."
+      "stage": "page",
+      "item": "phu-quoc--starfish-beach",
+      "status": "skipped",
+      "note": "No licensed photo of this subject. No public file. The facts stay in the place prose."
     },
     {
-      "at": "2026-10-22T17:14:41.720Z",
+      "at": "2026-10-22T17:38:19.355Z",
       "place": "phu-quoc",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Activities and three placeholders are drafted. Still open: a recurring festival date, boat minutes to Nam Du and Ha Tien, and a Tho Chau boat."
+      "stage": "quality",
+      "item": "phu-quoc--bai-thom",
+      "status": "checked",
+      "note": "Checked. The sight stays in the place prose and off the card grid."
     },
     {
-      "at": "2026-10-22T17:14:41.459Z",
+      "at": "2026-10-22T17:38:19.284Z",
       "place": "phu-quoc",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The west-coast day and the north morning are drafted. Still open: a cafe street and the hour the town goes quiet."
+      "stage": "copy",
+      "item": "phu-quoc--bai-thom",
+      "status": "skipped",
+      "note": "No public file to copy."
     },
     {
-      "at": "2026-10-22T17:14:41.285Z",
+      "at": "2026-10-22T17:38:19.216Z",
       "place": "phu-quoc",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Three evening areas are drafted. Still open: a market closing hour, a show clock, and a venue street on Long Beach."
+      "stage": "page",
+      "item": "phu-quoc--bai-thom",
+      "status": "skipped",
+      "note": "No licensed photo of this subject. No public file. The facts stay in the place prose."
     },
     {
-      "at": "2026-10-22T17:14:41.095Z",
+      "at": "2026-10-22T17:38:19.145Z",
       "place": "phu-quoc",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Sourced dishes and six food streets are drafted. Still open: a fine-dining door, a themed door, a second breakfast, market hours, and stall prices. Named rooms stay off the page."
+      "stage": "quality",
+      "item": "phu-quoc--ganh-dau",
+      "status": "checked",
+      "note": "Checked. The sight stays in the place prose and off the card grid."
     },
     {
-      "at": "2026-10-22T17:14:16.447Z",
+      "at": "2026-10-22T17:38:19.074Z",
       "place": "phu-quoc",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Sights and areas are drafted. Still open: licensed photos except Long Beach and Sao, a park ticket, prison hours, and one agreed cable-car fare."
+      "stage": "copy",
+      "item": "phu-quoc--ganh-dau",
+      "status": "skipped",
+      "note": "No public file to copy."
     },
     {
-      "at": "2026-10-22T17:14:15.655Z",
+      "at": "2026-10-22T17:38:19.001Z",
       "place": "phu-quoc",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Why a night here and getting there are drafted. Still open: a town pin, ferry crossing minutes, an AIP, and a second flight timetable."
+      "stage": "page",
+      "item": "phu-quoc--ganh-dau",
+      "status": "skipped",
+      "note": "No licensed photo of this subject. No public file. The facts stay in the place prose."
+    },
+    {
+      "at": "2026-10-22T17:38:18.929Z",
+      "place": "phu-quoc",
+      "stage": "quality",
+      "item": "phu-quoc--ham-ninh",
+      "status": "checked",
+      "note": "Checked. The sight stays in the place prose and off the card grid."
+    },
+    {
+      "at": "2026-10-22T17:38:18.856Z",
+      "place": "phu-quoc",
+      "stage": "copy",
+      "item": "phu-quoc--ham-ninh",
+      "status": "skipped",
+      "note": "No public file to copy."
+    },
+    {
+      "at": "2026-10-22T17:38:18.785Z",
+      "place": "phu-quoc",
+      "stage": "page",
+      "item": "phu-quoc--ham-ninh",
+      "status": "skipped",
+      "note": "No licensed photo of this subject. No public file. The facts stay in the place prose."
+    },
+    {
+      "at": "2026-10-22T17:38:18.714Z",
+      "place": "phu-quoc",
+      "stage": "quality",
+      "item": "phu-quoc--safari",
+      "status": "checked",
+      "note": "Checked. The sight stays in the place prose and off the card grid."
+    },
+    {
+      "at": "2026-10-22T17:38:18.639Z",
+      "place": "phu-quoc",
+      "stage": "copy",
+      "item": "phu-quoc--safari",
+      "status": "skipped",
+      "note": "No public file to copy."
+    },
+    {
+      "at": "2026-10-22T17:38:18.560Z",
+      "place": "phu-quoc",
+      "stage": "page",
+      "item": "phu-quoc--safari",
+      "status": "skipped",
+      "note": "No licensed photo of this subject. No public file. The facts stay in the place prose."
+    },
+    {
+      "at": "2026-10-22T17:38:18.487Z",
+      "place": "phu-quoc",
+      "stage": "quality",
+      "item": "phu-quoc--hon-thom",
+      "status": "checked",
+      "note": "Checked. The sight stays in the place prose and off the card grid."
+    },
+    {
+      "at": "2026-10-22T17:38:18.406Z",
+      "place": "phu-quoc",
+      "stage": "copy",
+      "item": "phu-quoc--hon-thom",
+      "status": "skipped",
+      "note": "No public file to copy."
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "slug": "phu-quoc-day",
+  "title": "A west-coast day on Phu Quoc",
+  "kind": "trip",
+  "level": "day",
+  "duration": "1 day",
+  "spanDays": 1,
+  "placeSlug": "phu-quoc",
+  "budget": "Check on arrival",
+  "pace": "Relaxed",
+  "photo": "phu-quoc-long-beach",
+  "summary": "Start on Bãi Trường for the swim and the sunset, then ride to Bãi Sao. The southeast beach is about 25 minutes from Dương Đông. Come back west for the evening.",
+  "stops": [
+    {
+      "name": "Long Beach",
+      "minutes": 240,
+      "placeSlug": "phu-quoc",
+      "attractionSlug": "long-beach",
+      "note": "The west-coast day. Swim, walk, and stay for sunset. Cục Du lịch Quốc gia Việt Nam calls the sand yellow. Vietnam National Authority of Tourism does not name a colour."
+    },
+    {
+      "name": "Sao Beach",
+      "minutes": 180,
+      "placeSlug": "phu-quoc",
+      "attractionSlug": "sao",
+      "approach": {
+        "mode": "taxi",
+        "minutes": 25,
+        "note": "About 25 minutes by road from the centre of Dương Đông."
+      },
+      "note": "The southeast swim. Come early on a weekday. Sunset stays on Long Beach."
+    }
+  ],
+  "seoTitle": "A west-coast day on Phu Quoc",
+  "seoDescription": "One day on Phu Quoc: Bãi Trường for the swim and the sunset, then Bãi Sao, about 25 minutes by road from Dương Đông."
+}
