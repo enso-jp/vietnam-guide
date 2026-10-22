@@ -55,39 +55,39 @@
       "reworkCount": 0
     },
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, five festivals, and one day itinerary. Heights, Dai Yem drops, Bat Cave measurements, Hanoi bus times, and both dairy gates are printed. Fees and hours are check on arrival. Sight cards wait for a licensed photo.",
+      "updated": "2026-10-22T02:30:15.560Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T18:43:01.400Z",
+      "status": "enriched",
+      "note": "Hero is contour tea, the peak, and a path, cropped for the wide frame. ToanNguyen, CC0. Prose keeps both figures where the dossier disagrees. Fees and hours stay check on arrival.",
+      "updated": "2026-10-22T02:31:33.430Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T18:43:01.400Z",
+      "status": "checked",
+      "note": "Hero is the tea rows, the peak, and a path. Both height sets, Dai Yem drops, cave measurements, bus times, and dairy gates are on the page. Fees and hours are check on arrival. Interest-card files are not on disk yet, so that row falls back to the hero until a sight with its own licensed photo is filed.",
+      "updated": "2026-10-22T02:31:56.238Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Com lam is the one dish with a licensed plate. The photograph was not taken at Ban Ang. Yogurt, plum, tea, grilled fish, smoked meat, rice wine, and the night market stay named and unpictured. Prices and hours are check on arrival.",
+      "updated": "2026-10-22T02:42:12.429Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T18:43:01.400Z",
+      "status": "enriched",
+      "note": "Cropped the plate so the bamboo rice stays in the card and the tall dining frame. Caption says the photograph was not taken at Ban Ang. No taste or price was added.",
+      "updated": "2026-10-22T02:43:25.865Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T18:43:01.400Z",
+      "status": "checked",
+      "note": "Com lam matches the Ban Ang line: sticky rice in a bamboo tube, eaten from the tube, price check on arrival. The plate was not taken at Ban Ang. Yogurt, plum, tea, grilled fish, smoked meat, rice wine, and the night market stay named and unpictured.",
+      "updated": "2026-10-22T02:44:43.342Z",
       "reworkCount": 0
     }
   },
@@ -114,14 +114,14 @@
       "track": "unit",
       "name": "Dai Yem Waterfall",
       "slug": "dai-yem-waterfall",
-      "file": null,
+      "file": "src/content/attractions/moc-chau--dai-yem-waterfall.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced. Heights disagree. Fee check on arrival. Unpublished: no licensed photo.",
-      "updated": "2026-10-21T18:43:01.400Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Heights, routes, and the later bridge match the dossier. Fee and hours are check on arrival. Both frames are Dai Yem.",
+      "updated": "2026-10-22T02:47:08.397Z",
       "reworkCount": 0
     },
     {
@@ -133,11 +133,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced village beside the falls. Unpublished: no licensed photo.",
-      "updated": "2026-10-21T18:43:01.400Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No page to check. Unpublished: no licensed photo of this sight.",
+      "updated": "2026-10-22T02:47:08.569Z",
       "reworkCount": 0
     },
     {
@@ -149,11 +149,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced as the festival start. Ordinary visit check on arrival.",
-      "updated": "2026-10-21T18:43:01.400Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No page to check. Unpublished: no licensed photo of this sight.",
+      "updated": "2026-10-22T02:47:08.735Z",
       "reworkCount": 0
     },
     {
@@ -162,14 +162,14 @@
       "track": "unit",
       "name": "Heart-shaped tea hills",
       "slug": "heart-tea-hills",
-      "file": null,
+      "file": "src/content/attractions/moc-chau--heart-tea-hills.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced. 2019 free-entry line is not the 2026 fee.",
-      "updated": "2026-10-21T18:43:01.400Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Both area lines and the 2019 fee warning match the dossier. Frames are contour tea, not another subject. Fee and hours are check on arrival.",
+      "updated": "2026-10-22T02:48:47.089Z",
       "reworkCount": 0
     },
     {
@@ -181,11 +181,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced processing visit. Fee check on arrival.",
-      "updated": "2026-10-21T18:43:01.400Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No page to check. Unpublished: no licensed photo of this sight.",
+      "updated": "2026-10-22T02:48:47.257Z",
       "reworkCount": 0
     },
     {
@@ -197,11 +197,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced pine and Thai village. Fee check on arrival.",
-      "updated": "2026-10-21T18:43:01.401Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No page to check. Unpublished: no licensed photo of this sight.",
+      "updated": "2026-10-22T02:48:47.421Z",
       "reworkCount": 0
     },
     {
@@ -213,11 +213,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced. Blossom and harvest are different months.",
-      "updated": "2026-10-21T18:43:01.401Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No page to check. Unpublished: no licensed photo of this sight.",
+      "updated": "2026-10-22T02:48:47.588Z",
       "reworkCount": 0
     },
     {
@@ -229,11 +229,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced as gardens. Brand names are not picks.",
-      "updated": "2026-10-21T18:43:01.401Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No page to check. Unpublished: no licensed photo of this sight.",
+      "updated": "2026-10-22T02:48:47.752Z",
       "reworkCount": 0
     },
     {
@@ -245,11 +245,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced. Blog fees 10000 and 20000 both kept.",
-      "updated": "2026-10-21T18:43:01.401Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No page to check. Unpublished: no licensed photo of this sight.",
+      "updated": "2026-10-22T02:48:47.914Z",
       "reworkCount": 0
     },
     {
@@ -261,11 +261,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced. 2000 m and nearly 2000 m both kept.",
-      "updated": "2026-10-21T18:43:01.401Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No page to check. Unpublished: no licensed photo of this sight.",
+      "updated": "2026-10-22T02:48:48.078Z",
       "reworkCount": 0
     },
     {
@@ -277,11 +277,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced from the district page. Not Pha Luong.",
-      "updated": "2026-10-21T18:43:01.401Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No page to check. Unpublished: no licensed photo of this sight.",
+      "updated": "2026-10-22T02:48:48.246Z",
       "reworkCount": 0
     },
     {
@@ -293,11 +293,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced. Two measurement sets. Do not pick one.",
-      "updated": "2026-10-21T18:43:01.401Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No page to check. Unpublished: no licensed photo of this sight.",
+      "updated": "2026-10-22T02:48:48.409Z",
       "reworkCount": 0
     },
     {
@@ -309,11 +309,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced. 32 km and 33 km both kept.",
-      "updated": "2026-10-21T18:43:01.401Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No page to check. Unpublished: no licensed photo of this sight.",
+      "updated": "2026-10-22T02:48:48.571Z",
       "reworkCount": 0
     },
     {
@@ -322,14 +322,14 @@
       "track": "unit",
       "name": "Bach Long bridge and Moc Chau Island",
       "slug": "bach-long-bridge",
-      "file": null,
+      "file": "src/content/attractions/moc-chau--bach-long-bridge.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced. No second length. Superlative not settled.",
-      "updated": "2026-10-21T18:43:01.401Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "The frame is the bridge and the slopes. A second licensed moment does not exist, so the page stays a card. Fee, hours, and distance are check on arrival.",
+      "updated": "2026-10-22T02:50:34.251Z",
       "reworkCount": 0
     },
     {
@@ -373,11 +373,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced name. Fee and height check on arrival.",
-      "updated": "2026-10-21T18:43:01.401Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No page to check. Unpublished: no licensed photo of this sight.",
+      "updated": "2026-10-22T02:50:34.421Z",
       "reworkCount": 0
     },
     {
@@ -405,11 +405,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced recognition row. Visit text not opened.",
-      "updated": "2026-10-21T18:43:01.401Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No page to check. Unpublished: no licensed photo of this sight.",
+      "updated": "2026-10-22T02:50:34.589Z",
       "reworkCount": 0
     },
     {
@@ -421,11 +421,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced community point. Program check on arrival.",
-      "updated": "2026-10-21T18:43:01.401Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No page to check. Unpublished: no licensed photo of this sight.",
+      "updated": "2026-10-22T02:50:34.751Z",
       "reworkCount": 0
     },
     {
@@ -437,11 +437,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced with the village group. Commune check on arrival.",
-      "updated": "2026-10-21T18:43:01.401Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No page to check. Unpublished: no licensed photo of this sight.",
+      "updated": "2026-10-22T02:50:34.922Z",
       "reworkCount": 0
     },
     {
@@ -485,11 +485,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Unpublished: no licensed photo.",
-      "updated": "2026-10-21T18:42:42.654Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Unpublished: no licensed plate photo.",
+      "updated": "2026-10-22T02:42:12.108Z",
       "reworkCount": 0
     },
     {
@@ -501,11 +501,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Unpublished: no licensed photo.",
-      "updated": "2026-10-21T18:42:42.684Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Unpublished: no licensed plate photo.",
+      "updated": "2026-10-22T02:42:12.137Z",
       "reworkCount": 0
     },
     {
@@ -517,11 +517,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Unpublished: no licensed photo.",
-      "updated": "2026-10-21T18:42:42.711Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Unpublished: no licensed plate photo.",
+      "updated": "2026-10-22T02:42:12.166Z",
       "reworkCount": 0
     },
     {
@@ -530,14 +530,14 @@
       "track": "bundled",
       "name": "Bamboo sticky rice",
       "slug": "com-lam",
-      "file": null,
+      "file": "src/content/dishes/com-lam.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Unpublished: no licensed photo.",
-      "updated": "2026-10-21T18:42:42.740Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Plate is the bamboo rice. Photograph was not taken at Ban Ang. Other dishes have no licensed plate. Prices are check on arrival.",
+      "updated": "2026-10-22T02:44:43.310Z",
       "reworkCount": 0
     },
     {
@@ -549,11 +549,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Unpublished: no licensed photo.",
-      "updated": "2026-10-21T18:42:42.767Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Unpublished: no licensed plate photo.",
+      "updated": "2026-10-22T02:42:12.194Z",
       "reworkCount": 0
     },
     {
@@ -565,11 +565,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Unpublished: no licensed photo.",
-      "updated": "2026-10-21T18:42:42.793Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Unpublished: no licensed plate photo.",
+      "updated": "2026-10-22T02:42:12.225Z",
       "reworkCount": 0
     },
     {
@@ -581,11 +581,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Unpublished: no licensed photo.",
-      "updated": "2026-10-21T18:42:42.822Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Unpublished: no licensed plate photo.",
+      "updated": "2026-10-22T02:42:12.257Z",
       "reworkCount": 0
     },
     {
@@ -597,11 +597,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Unpublished: no licensed photo.",
-      "updated": "2026-10-21T18:42:42.849Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Unpublished: no licensed plate photo.",
+      "updated": "2026-10-22T02:42:12.285Z",
       "reworkCount": 0
     },
     {
@@ -613,11 +613,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Unpublished: no licensed photo.",
-      "updated": "2026-10-21T18:42:42.876Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Unpublished: no licensed plate photo.",
+      "updated": "2026-10-22T02:42:12.314Z",
       "reworkCount": 0
     },
     {
@@ -629,11 +629,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Unpublished: no licensed photo.",
-      "updated": "2026-10-21T18:42:42.905Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Unpublished: no licensed plate photo.",
+      "updated": "2026-10-22T02:42:12.342Z",
       "reworkCount": 0
     },
     {
@@ -645,11 +645,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Unpublished: no licensed photo.",
-      "updated": "2026-10-21T18:42:42.935Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Unpublished: no licensed plate photo.",
+      "updated": "2026-10-22T02:42:12.371Z",
       "reworkCount": 0
     },
     {
@@ -661,11 +661,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in the dossier. No stall price. Unpublished: no licensed photo.",
-      "updated": "2026-10-21T18:42:42.962Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Unpublished: no licensed plate photo.",
+      "updated": "2026-10-22T02:42:12.400Z",
       "reworkCount": 0
     },
     {
@@ -833,100 +833,164 @@
   "claim": null,
   "log": [
     {
-      "at": "2026-10-21T18:43:01.401Z",
+      "at": "2026-10-22T02:50:34.922Z",
       "place": "moc-chau",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: 2027 festival dates and drive minutes to Son La, Ta Xua, Dien Bien, and Hoa Binh."
+      "stage": "quality",
+      "item": "moc-chau--pa-phach",
+      "status": "skipped",
+      "note": "No page to check. Unpublished: no licensed photo of this sight."
     },
     {
-      "at": "2026-10-21T18:42:51.071Z",
+      "at": "2026-10-22T02:50:34.867Z",
       "place": "moc-chau",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: the hour the town goes quiet on a weeknight."
+      "stage": "copy",
+      "item": "moc-chau--pa-phach",
+      "status": "skipped",
+      "note": "No page. Unpublished: no licensed photo of this sight."
     },
     {
-      "at": "2026-10-21T18:42:50.984Z",
+      "at": "2026-10-22T02:50:34.810Z",
       "place": "moc-chau",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a closing hour for the walking street, and any bar street. None was named."
+      "stage": "page",
+      "item": "moc-chau--pa-phach",
+      "status": "skipped",
+      "note": "Unpublished: no licensed photo of this sight."
     },
     {
-      "at": "2026-10-21T18:42:50.897Z",
+      "at": "2026-10-22T02:50:34.751Z",
       "place": "moc-chau",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a named morning market, stall prices, and a be chao method."
+      "stage": "quality",
+      "item": "moc-chau--chieng-di",
+      "status": "skipped",
+      "note": "No page to check. Unpublished: no licensed photo of this sight."
     },
     {
-      "at": "2026-10-21T18:42:50.806Z",
+      "at": "2026-10-22T02:50:34.698Z",
       "place": "moc-chau",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: current gate tariffs and opening hours, a chosen cave measurement, a chosen waterfall height, and visit text for Happy Land, Mu Nau, Hua Tat, Chien Vien, and the Tay Tien names."
+      "stage": "copy",
+      "item": "moc-chau--chieng-di",
+      "status": "skipped",
+      "note": "No page. Unpublished: no licensed photo of this sight."
     },
     {
-      "at": "2026-10-21T18:42:50.676Z",
+      "at": "2026-10-22T02:50:34.644Z",
       "place": "moc-chau",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a Vietnam Railways timetable, a 2026 Na San or Moc Chau flight board, taxi fares, and a single bus fare. The expressway is still a construction site."
+      "stage": "page",
+      "item": "moc-chau--chieng-di",
+      "status": "skipped",
+      "note": "Unpublished: no licensed photo of this sight."
     },
     {
-      "at": "2026-10-21T18:42:16.696Z",
+      "at": "2026-10-22T02:50:34.589Z",
       "place": "moc-chau",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "2026 festivals and side-trip placeholders are in. Next-year dates and drive minutes are still open."
+      "stage": "quality",
+      "item": "moc-chau--hang-mieng",
+      "status": "skipped",
+      "note": "No page to check. Unpublished: no licensed photo of this sight."
     },
     {
-      "at": "2026-10-21T18:42:16.415Z",
+      "at": "2026-10-22T02:50:34.534Z",
       "place": "moc-chau",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The ordinary day is in. The hour the town goes quiet is still open."
+      "stage": "copy",
+      "item": "moc-chau--hang-mieng",
+      "status": "skipped",
+      "note": "No page. Unpublished: no licensed photo of this sight."
     },
     {
-      "at": "2026-10-21T18:42:16.297Z",
+      "at": "2026-10-22T02:50:34.476Z",
       "place": "moc-chau",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Walking street and the festival square are in. Closing hours and any bar street are still open."
+      "stage": "page",
+      "item": "moc-chau--hang-mieng",
+      "status": "skipped",
+      "note": "Unpublished: no licensed photo of this sight."
     },
     {
-      "at": "2026-10-21T18:42:16.153Z",
+      "at": "2026-10-22T02:50:34.421Z",
       "place": "moc-chau",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Dishes and the night market are in. A morning market, stall prices, and the be chao method are still open."
+      "stage": "quality",
+      "item": "moc-chau--chieng-khoa-waterfall",
+      "status": "skipped",
+      "note": "No page to check. Unpublished: no licensed photo of this sight."
     },
     {
-      "at": "2026-10-21T18:42:06.727Z",
+      "at": "2026-10-22T02:50:34.367Z",
       "place": "moc-chau",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Sights and areas are indexed. Gate tariffs, cave measurements, and several named-only visits are still open."
+      "stage": "copy",
+      "item": "moc-chau--chieng-khoa-waterfall",
+      "status": "skipped",
+      "note": "No page. Unpublished: no licensed photo of this sight."
     },
     {
-      "at": "2026-10-21T18:42:05.894Z",
+      "at": "2026-10-22T02:50:34.306Z",
       "place": "moc-chau",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and the Hanoi road are in. Expressway status, rail, Na San flights, and a single bus fare are still open."
+      "stage": "page",
+      "item": "moc-chau--chieng-khoa-waterfall",
+      "status": "skipped",
+      "note": "Unpublished: no licensed photo of this sight."
+    },
+    {
+      "at": "2026-10-22T02:50:34.251Z",
+      "place": "moc-chau",
+      "stage": "quality",
+      "item": "moc-chau--bach-long-bridge",
+      "status": "checked",
+      "note": "The frame is the bridge and the slopes. A second licensed moment does not exist, so the page stays a card. Fee, hours, and distance are check on arrival."
+    },
+    {
+      "at": "2026-10-22T02:50:34.197Z",
+      "place": "moc-chau",
+      "stage": "copy",
+      "item": "moc-chau--bach-long-bridge",
+      "status": "enriched",
+      "note": "The tall card still shows the span and the hill. No second frame was invented. The world’s-longest line stays unsettled."
+    },
+    {
+      "at": "2026-10-22T02:50:34.142Z",
+      "place": "moc-chau",
+      "stage": "page",
+      "item": "moc-chau--bach-long-bridge",
+      "status": "paged",
+      "note": "Card only. One licensed frame of the bridge and the slopes. No second photo, so no body. Fee and hours are check on arrival."
+    },
+    {
+      "at": "2026-10-22T02:48:48.571Z",
+      "place": "moc-chau",
+      "stage": "quality",
+      "item": "moc-chau--long-sap-gate",
+      "status": "skipped",
+      "note": "No page to check. Unpublished: no licensed photo of this sight."
+    },
+    {
+      "at": "2026-10-22T02:48:48.517Z",
+      "place": "moc-chau",
+      "stage": "copy",
+      "item": "moc-chau--long-sap-gate",
+      "status": "skipped",
+      "note": "No page. Unpublished: no licensed photo of this sight."
+    },
+    {
+      "at": "2026-10-22T02:48:48.462Z",
+      "place": "moc-chau",
+      "stage": "page",
+      "item": "moc-chau--long-sap-gate",
+      "status": "skipped",
+      "note": "Unpublished: no licensed photo of this sight."
+    },
+    {
+      "at": "2026-10-22T02:48:48.409Z",
+      "place": "moc-chau",
+      "stage": "quality",
+      "item": "moc-chau--hang-doi",
+      "status": "skipped",
+      "note": "No page to check. Unpublished: no licensed photo of this sight."
+    },
+    {
+      "at": "2026-10-22T02:48:48.353Z",
+      "place": "moc-chau",
+      "stage": "copy",
+      "item": "moc-chau--hang-doi",
+      "status": "skipped",
+      "note": "No page. Unpublished: no licensed photo of this sight."
     }
   ]
 }
