@@ -1,0 +1,35 @@
+{
+  "slug": "twin-towers",
+  "placeSlug": "quy-nhon",
+  "name": "Twin towers",
+  "nameVi": "Tháp Đôi",
+  "kicker": "The Cham pair inside the city",
+  "summary": "Walk the pair of late-12th-century Cham towers inside the city. The fee is 20,000 đồng. Tháp Bánh Ít, about 20 km away, is a different site.",
+  "dots": 4,
+  "timeNeeded": "120 minutes on the portal. That is the printed field.",
+  "fee": "20,000 đồng",
+  "getThere": "Inside the city. Minutes from the beach are check on arrival.",
+  "verified": "21 Oct 2026",
+  "heroCaption": "Both towers, tops and bases, in daylight",
+  "gettingThere": [
+    "The header says Phường Quy Nhơn. The prose says phường Đống Đa. The towers are inside the city. Minutes from the beach are check on arrival. A science-complex page lists them 8.45 km from that complex, which is not a measured ride from the sand.",
+    "Tháp Bánh Ít is about 20 km away in Tuy Phước. Do not send this visit there."
+  ],
+  "legs": [
+    {
+      "heading": "From the city beach",
+      "body": "A ride inside the city. The portal does not print the minutes. Check on arrival."
+    }
+  ],
+  "hours": "7:00–18:00",
+  "closed": "No weekly closing day is printed.",
+  "admissionNote": "20,000 đồng on the portal. The field is printed as 20,000–20,000. A child price is not printed.",
+  "links": [
+    {
+      "label": "Tháp Đôi",
+      "url": "https://dulichquynhon.binhdinh.gov.vn/vi/thapdoiquynhon",
+      "note": "Bình Định tourism portal"
+    }
+  ],
+  "interests": ["photography"]
+}
