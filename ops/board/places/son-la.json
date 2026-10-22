@@ -56,38 +56,38 @@
     },
     "destination": {
       "status": "paged",
-      "note": "Place shell, seven interest groups, valley-day itinerary, three festivals. No attraction cards: dossier marks every sight unpublished, no licensed photo. No food guide, foodSlug, or Food chip. Check on arrival for disagreeing prison hours and tickets, the dam gate and a boat, Ban Mong soak, the stele, market clocks, stall prices, taxi and motorbike hire, the Hanoi fare, Moc Chau minutes, Pha Din, pass closures, 2027 festival dates, a Tet surcharge, and the Hmong day. Side trip placeholders: Dien Bien Phu, Ta Xua, Yen Chau, Hoa Binh. Place dot 4. Map pin 21.33, 103.91 is not in the dossier.",
-      "updated": "2026-10-22T04:36:05.269Z",
+      "note": "Dining first, then Khau Ca and the dam. Valley-day stops resolve. Left out: no licensed town hero, no Ban Mong or town stay photo, no festival photo, and Dien Bien Phu stays a side trip.",
+      "updated": "2026-10-22T09:05:24.403Z",
       "reworkCount": 0
     },
     "destinationCopy": {
       "status": "enriched",
-      "note": "Place prose and the valley-day line. No place hero: the dossier has no licensed photo of the walls, the town, and the Nam La in one frame. The page uses the highland cover. Both disagreeing figures stay. Unsourced fees and hours stay check on arrival.",
-      "updated": "2026-10-22T04:37:56.506Z",
+      "note": "Place prose, season chip, and selling lines. Both prison clocks and both dam distances stay. No son-la.jpg.",
+      "updated": "2026-10-22T09:05:24.469Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "checked",
-      "note": "Read against the dossier. No hero and no sight cards, which matches the unpublished photos. Both figures stay for the prison, the dam, Pa Uon, Ban Mong, Highway 6, and the Le temple windows. Unsourced fees and hours say check on arrival. The map pin 21.33, 103.91 is not in the dossier. Festivals have no photo.",
-      "updated": "2026-10-22T04:38:44.697Z",
+      "note": "Read against the dossier. Dots stay 4. No guessed pin. Unsourced fees and hours say check on arrival.",
+      "updated": "2026-10-22T09:05:24.533Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "skipped",
-      "note": "No licensed plate photo. No food guide, no Food chip, no foodSlug, no duplicate dish files. The place eat text names the dossier meals without a plate.",
-      "updated": "2026-10-22T04:38:54.167Z",
+      "status": "paged",
+      "note": "Food guide and thit-hun-khoi. Left out: pa pinh top, nam pia, and Dao sour pork have no licensed plate.",
+      "updated": "2026-10-22T09:05:24.597Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "skipped",
-      "note": "No food guide to rewrite.",
-      "updated": "2026-10-22T04:38:54.227Z",
+      "status": "enriched",
+      "note": "Hearth-smoked buffalo is the only specialty card. Markets and the jar stay in the sections. Com lam stays with Moc Chau.",
+      "updated": "2026-10-22T09:05:24.658Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "checked",
-      "note": "Confirmed no licensed plate photo and no food guide file. Eat text does not attach a Moc Chau plate.",
-      "updated": "2026-10-22T04:38:54.292Z",
+      "note": "Plate is the dish. Second frame is the same meat in a basket. No other dish card.",
+      "updated": "2026-10-22T09:05:24.723Z",
       "reworkCount": 0
     }
   },
@@ -114,14 +114,14 @@
       "track": "unit",
       "name": "Son La Prison",
       "slug": "son-la-prison",
-      "file": null,
+      "file": "src/content/attractions/son-la--son-la-prison.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
+      "page": "paged",
+      "copy": "enriched",
       "quality": "checked",
-      "note": "No licensed photo in the dossier. No public file.",
-      "updated": "2026-10-22T04:39:11.793Z",
+      "note": "Photos are the prison yard. Fee stays check on arrival.",
+      "updated": "2026-10-22T09:05:24.926Z",
       "reworkCount": 0
     },
     {
@@ -194,14 +194,14 @@
       "track": "unit",
       "name": "Son La dam",
       "slug": "son-la-dam",
-      "file": null,
+      "file": "src/content/attractions/son-la--son-la-dam.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
+      "page": "paged",
+      "copy": "enriched",
       "quality": "checked",
-      "note": "No licensed photo in the dossier. No public file.",
-      "updated": "2026-10-22T04:39:12.654Z",
+      "note": "Photos show the Son La dam wall and the reservoir crest. Gate tariff stays check on arrival.",
+      "updated": "2026-10-22T09:05:25.118Z",
       "reworkCount": 0
     },
     {
@@ -417,6 +417,150 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-22T09:05:25.118Z",
+      "place": "son-la",
+      "stage": "quality",
+      "item": "son-la--son-la-dam",
+      "status": "checked",
+      "note": "Photos show the Son La dam wall and the reservoir crest. Gate tariff stays check on arrival."
+    },
+    {
+      "at": "2026-10-22T09:05:25.055Z",
+      "place": "son-la",
+      "stage": "copy",
+      "item": "son-la--son-la-dam",
+      "status": "enriched",
+      "note": "Kicker, notice, two photos, the Highway 279 leg, hours, and links."
+    },
+    {
+      "at": "2026-10-22T09:05:24.992Z",
+      "place": "son-la",
+      "stage": "page",
+      "item": "son-la--son-la-dam",
+      "status": "paged",
+      "note": "Full sight page. 40 km and 60 km both stay. Visit rules both stay."
+    },
+    {
+      "at": "2026-10-22T09:05:24.926Z",
+      "place": "son-la",
+      "stage": "quality",
+      "item": "son-la--son-la-prison",
+      "status": "checked",
+      "note": "Photos are the prison yard. Fee stays check on arrival."
+    },
+    {
+      "at": "2026-10-22T09:05:24.858Z",
+      "place": "son-la",
+      "stage": "copy",
+      "item": "son-la--son-la-prison",
+      "status": "enriched",
+      "note": "Kicker, notice, two photos, legs, hours, and links."
+    },
+    {
+      "at": "2026-10-22T09:05:24.794Z",
+      "place": "son-la",
+      "stage": "page",
+      "item": "son-la--son-la-prison",
+      "status": "paged",
+      "note": "Full sight page. Both ticket ladders and all three clocks stay."
+    },
+    {
+      "at": "2026-10-22T09:05:24.723Z",
+      "place": "son-la",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Plate is the dish. Second frame is the same meat in a basket. No other dish card."
+    },
+    {
+      "at": "2026-10-22T09:05:24.658Z",
+      "place": "son-la",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Hearth-smoked buffalo is the only specialty card. Markets and the jar stay in the sections. Com lam stays with Moc Chau."
+    },
+    {
+      "at": "2026-10-22T09:05:24.597Z",
+      "place": "son-la",
+      "stage": "food",
+      "item": null,
+      "status": "paged",
+      "note": "Food guide and thit-hun-khoi. Left out: pa pinh top, nam pia, and Dao sour pork have no licensed plate."
+    },
+    {
+      "at": "2026-10-22T09:05:24.533Z",
+      "place": "son-la",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Read against the dossier. Dots stay 4. No guessed pin. Unsourced fees and hours say check on arrival."
+    },
+    {
+      "at": "2026-10-22T09:05:24.469Z",
+      "place": "son-la",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Place prose, season chip, and selling lines. Both prison clocks and both dam distances stay. No son-la.jpg."
+    },
+    {
+      "at": "2026-10-22T09:05:24.403Z",
+      "place": "son-la",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Dining first, then Khau Ca and the dam. Valley-day stops resolve. Left out: no licensed town hero, no Ban Mong or town stay photo, no festival photo, and Dien Bien Phu stays a side trip."
+    },
+    {
+      "at": "2026-10-22T09:05:24.273Z",
+      "place": "son-la",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "not_started",
+      "note": "Recheck the food guide."
+    },
+    {
+      "at": "2026-10-22T09:05:24.240Z",
+      "place": "son-la",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "not_started",
+      "note": "Reopened with the food guide."
+    },
+    {
+      "at": "2026-10-22T09:05:24.206Z",
+      "place": "son-la",
+      "stage": "food",
+      "item": null,
+      "status": "not_started",
+      "note": "Reopened. A licensed plate of hearth-smoked buffalo is now on file."
+    },
+    {
+      "at": "2026-10-22T09:05:24.170Z",
+      "place": "son-la",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "not_started",
+      "note": "Recheck after the new cards."
+    },
+    {
+      "at": "2026-10-22T09:05:24.134Z",
+      "place": "son-la",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "not_started",
+      "note": "Reopened with the place prose."
+    },
+    {
+      "at": "2026-10-22T09:05:24.096Z",
+      "place": "son-la",
+      "stage": "destination",
+      "item": null,
+      "status": "not_started",
+      "note": "Reopened for the prison, the dam, and the dining card."
+    },
+    {
       "at": "2026-10-22T04:39:13.169Z",
       "place": "son-la",
       "stage": "quality",
@@ -429,150 +573,6 @@
       "place": "son-la",
       "stage": "copy",
       "item": "son-la--pha-din-top",
-      "status": "skipped",
-      "note": "No public page to rewrite."
-    },
-    {
-      "at": "2026-10-22T04:39:13.054Z",
-      "place": "son-la",
-      "stage": "page",
-      "item": "son-la--pha-din-top",
-      "status": "skipped",
-      "note": "Unpublished: no licensed photo. No public file."
-    },
-    {
-      "at": "2026-10-22T04:39:12.997Z",
-      "place": "son-la",
-      "stage": "quality",
-      "item": "son-la--quynh-nhai-temples",
-      "status": "checked",
-      "note": "No licensed photo in the dossier. No public file."
-    },
-    {
-      "at": "2026-10-22T04:39:12.939Z",
-      "place": "son-la",
-      "stage": "copy",
-      "item": "son-la--quynh-nhai-temples",
-      "status": "skipped",
-      "note": "No public page to rewrite."
-    },
-    {
-      "at": "2026-10-22T04:39:12.884Z",
-      "place": "son-la",
-      "stage": "page",
-      "item": "son-la--quynh-nhai-temples",
-      "status": "skipped",
-      "note": "Unpublished: no licensed photo. No public file."
-    },
-    {
-      "at": "2026-10-22T04:39:12.827Z",
-      "place": "son-la",
-      "stage": "quality",
-      "item": "son-la--pa-uon",
-      "status": "checked",
-      "note": "No licensed photo in the dossier. No public file."
-    },
-    {
-      "at": "2026-10-22T04:39:12.767Z",
-      "place": "son-la",
-      "stage": "copy",
-      "item": "son-la--pa-uon",
-      "status": "skipped",
-      "note": "No public page to rewrite."
-    },
-    {
-      "at": "2026-10-22T04:39:12.711Z",
-      "place": "son-la",
-      "stage": "page",
-      "item": "son-la--pa-uon",
-      "status": "skipped",
-      "note": "Unpublished: no licensed photo. No public file."
-    },
-    {
-      "at": "2026-10-22T04:39:12.654Z",
-      "place": "son-la",
-      "stage": "quality",
-      "item": "son-la--son-la-dam",
-      "status": "checked",
-      "note": "No licensed photo in the dossier. No public file."
-    },
-    {
-      "at": "2026-10-22T04:39:12.594Z",
-      "place": "son-la",
-      "stage": "copy",
-      "item": "son-la--son-la-dam",
-      "status": "skipped",
-      "note": "No public page to rewrite."
-    },
-    {
-      "at": "2026-10-22T04:39:12.537Z",
-      "place": "son-la",
-      "stage": "page",
-      "item": "son-la--son-la-dam",
-      "status": "skipped",
-      "note": "Unpublished: no licensed photo. No public file."
-    },
-    {
-      "at": "2026-10-22T04:39:12.480Z",
-      "place": "son-la",
-      "stage": "quality",
-      "item": "son-la--rung-vang",
-      "status": "checked",
-      "note": "No licensed photo in the dossier. No public file."
-    },
-    {
-      "at": "2026-10-22T04:39:12.423Z",
-      "place": "son-la",
-      "stage": "copy",
-      "item": "son-la--rung-vang",
-      "status": "skipped",
-      "note": "No public page to rewrite."
-    },
-    {
-      "at": "2026-10-22T04:39:12.364Z",
-      "place": "son-la",
-      "stage": "page",
-      "item": "son-la--rung-vang",
-      "status": "skipped",
-      "note": "Unpublished: no licensed photo. No public file."
-    },
-    {
-      "at": "2026-10-22T04:39:12.308Z",
-      "place": "son-la",
-      "stage": "quality",
-      "item": "son-la--ban-mong",
-      "status": "checked",
-      "note": "No licensed photo in the dossier. No public file."
-    },
-    {
-      "at": "2026-10-22T04:39:12.250Z",
-      "place": "son-la",
-      "stage": "copy",
-      "item": "son-la--ban-mong",
-      "status": "skipped",
-      "note": "No public page to rewrite."
-    },
-    {
-      "at": "2026-10-22T04:39:12.192Z",
-      "place": "son-la",
-      "stage": "page",
-      "item": "son-la--ban-mong",
-      "status": "skipped",
-      "note": "Unpublished: no licensed photo. No public file."
-    },
-    {
-      "at": "2026-10-22T04:39:12.134Z",
-      "place": "son-la",
-      "stage": "quality",
-      "item": "son-la--que-lam-stele",
-      "status": "checked",
-      "note": "No licensed photo in the dossier. No public file."
-    },
-    {
-      "at": "2026-10-22T04:39:12.079Z",
-      "place": "son-la",
-      "stage": "copy",
-      "item": "son-la--que-lam-stele",
       "status": "skipped",
       "note": "No public page to rewrite."
     }

@@ -1,0 +1,66 @@
+{
+  "slug": "son-la-prison",
+  "placeSlug": "son-la",
+  "name": "Son La Prison",
+  "nameVi": "Nhà tù Sơn La",
+  "kicker": "French prison on the hill over town",
+  "summary": "Give the morning to the French prison on Khau Ca, before the stone yard is hot. The hill is in town, so do not spend the whole day on it. GoVietnam, Mytour, and a museum page do not print the same hours or the same ticket. Check the gate on arrival.",
+  "dots": 5,
+  "district": "Khau Ca",
+  "timeNeeded": "About one hour",
+  "fee": "Check on arrival",
+  "getThere": "A short climb from the town center",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The ruined yard and the two-story block on Khau Ca, with the ridge behind",
+  "notice": {
+    "title": "The tickets do not match",
+    "body": "GoVietnam and Mytour print 30,000, 15,000, and 5,000 VND, and they do not describe the 15,000 VND line the same way. A museum page prints 10,000 VND from age 16, 5,000 VND from 10 to under 16, and free under 10. Do not treat those as one ticket."
+  },
+  "body": [
+    "Walk the stone walls, the four watchtowers, the ground-floor and underground cells, the cistern, the cemetery and Tô Hiệu’s grave, and the peach tree he planted. Much of the original building is a ruin after the bombings of 1952 and 1965, with some rebuilt sections and labels. It was built in 1908 and enlarged through the 1930s and 1940s, from more than 1,200 m² to about 2,184 m², with walls up to 4.5 m. It was ranked a special national relic by Quyết định 2408/QĐ-TTg on 31 December 2014.",
+    "The provincial museum stands on the same hill, on đường Khau Cả. One account gives about an hour for the prison and about an hour more for the museum. The 2020 handbook says the displays hold prehistoric objects and more than 1,000 ancient Thái and Dao books. Another page names Thái, Mông, and Dao material and old Thái script. A travel page prints more than 23,000 objects and three galleries. The book count and the object count are different counts. Whether one ticket covers both buildings is check on arrival.",
+    "Come in the morning, before the yard is hot. Around Tết the peach tree is the picture people come for, and the blossom week moves, so that week is check on arrival. The mistake is budgeting a whole day for a hill that sits in town, or paying the museum line and the relic line as if they were the same gate."
+  ],
+  "figures": [
+    {
+      "id": "son-la-son-la-prison-2",
+      "caption": "The courtyard, the pavilion, and the monument inside the walls",
+      "alt": "The courtyard of Son La Prison, with a tiled pavilion and a stone monument among the ruined walls"
+    }
+  ],
+  "gettingThere": [
+    "The prison is on Khau Ca, in phường Tô Hiệu after 1 July 2025. Older pages still print tổ 9, phường Tô Hiệu, thành phố Sơn La. It is a short climb from the town center. Walking minutes and a taxi fare inside town were not printed. Both are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the town center",
+      "body": "Walk up Khau Ca. No published minute count and no town taxi fare were printed. Check both on arrival."
+    }
+  ],
+  "hours": "GoVietnam prints about 7:30–17:30 with a midday break. Mytour prints 7:30–18:30. A page about the museum, not the relic gate, prints 7:30–11:30 and 13:30–17:30.",
+  "closed": "A midday break is on the GoVietnam page and on the museum page. Mytour does not print one. Check the board on arrival.",
+  "admissionNote": "GoVietnam and Mytour both print 30,000 VND for an adult, 15,000 VND for a person over 60, and 5,000 VND for a student. GoVietnam also puts disabled visitors on the 15,000 VND line. Mytour puts wounded veterans and people over 60 on that line, and limits the 30,000 VND ticket to adults under 60. The museum page prints 10,000 VND from age 16, 5,000 VND from 10 to under 16, and free under 10. Whether one ticket covers the prison and the museum is check on arrival. The gate on the day is check on arrival.",
+  "links": [
+    {
+      "label": "Son La Prison",
+      "url": "https://govietnam.travel/destination/nha-tu-son-la/",
+      "note": "GoVietnam. Hours about 7:30–17:30, and the 30,000 / 15,000 / 5,000 VND ladder"
+    },
+    {
+      "label": "A second clock and ticket ladder",
+      "url": "https://mytour.vn/vi/blog/bai-viet/huong-dan-tham-quan-nha-tu-son-la-tu-a-den-z.html",
+      "note": "Mytour. 7:30–18:30, and a different description of the 15,000 VND line"
+    },
+    {
+      "label": "Museum hours and ticket",
+      "url": "https://dulichvietnam.com.vn/bao-tang-son-la.html",
+      "note": "A travel page for the museum, not the relic gate. 7:30–11:30 and 13:30–17:30, and 10,000 / 5,000 / free"
+    },
+    {
+      "label": "Special national relic decision",
+      "url": "https://www.dulieuphapluat.vn/van-ban/van-hoa-van-ban/quyet-dinh-2408qd-ttg-nam-2014-ve-xep-hang-di-tich-quoc-gia-dac-biet-do-thu-tuong-chinh-phu-ban-hanh-297045.html",
+      "note": "Quyết định 2408/QĐ-TTg, 31 December 2014"
+    }
+  ],
+  "interests": ["warHistory"]
+}
