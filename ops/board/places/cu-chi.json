@@ -101,11 +101,11 @@
       "file": "src/content/attractions/cu-chi--tunnels.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Published shell. Bến Dược and Bến Đình stay separate. Do not print one fee, one address, or one kilometre. The hero stall in Phước Thạnh fails.",
-      "updated": "2026-10-22T17:07:51.925Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Entrance and round mouth are the tunnel. Fees, hours, and the two gates match the dossier. Dots unchanged. No pin.",
+      "updated": "2026-10-22T17:42:03.661Z",
       "reworkCount": 0
     },
     {
@@ -366,15 +366,32 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "cu-chi",
-    "stage": "page",
-    "item": "cu-chi--tunnels",
-    "at": "2026-10-22T17:39:26.173Z",
-    "by": "cu-chi-destination",
-    "branch": "cursor/cu-chi-destination-f4b0"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T17:42:03.662Z",
+      "place": "cu-chi",
+      "stage": "quality",
+      "item": "cu-chi--tunnels",
+      "status": "checked",
+      "note": "Entrance and round mouth are the tunnel. Fees, hours, and the two gates match the dossier. Dots unchanged. No pin."
+    },
+    {
+      "at": "2026-10-22T17:41:43.161Z",
+      "place": "cu-chi",
+      "stage": "copy",
+      "item": "cu-chi--tunnels",
+      "status": "enriched",
+      "note": "Hero is the lid in the leaves, dronepicr. Second frame is a round mouth in the earth, shankar s. Both gates and both ticket lines stay in the prose."
+    },
+    {
+      "at": "2026-10-22T17:41:09.505Z",
+      "place": "cu-chi",
+      "stage": "page",
+      "item": "cu-chi--tunnels",
+      "status": "paged",
+      "note": "Tunnel crawl page keeps Bến Dược and Bến Đình apart. Both ticket lines and both distances stay. Hero is the lid entrance. Second frame is a round mouth in the earth."
+    },
     {
       "at": "2026-10-22T17:39:26.140Z",
       "place": "cu-chi",
@@ -510,14 +527,6 @@
       "item": null,
       "status": "needs_depth",
       "note": "Bến Dược and Bến Đình are separate. Length, depth, and ticket lines that disagree both stay. Areas are the seven communes. A later pass still has to store the lane."
-    },
-    {
-      "at": "2026-10-22T17:05:56.730Z",
-      "place": "cu-chi",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and the two roads are in. The 1 hour and the 70 km both stay. No city pin. A later pass still has to store the lane."
     }
   ]
 }
