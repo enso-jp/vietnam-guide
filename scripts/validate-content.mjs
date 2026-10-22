@@ -87,12 +87,14 @@ for (const place of places) {
 }
 
 if (!guides.has('e-visa') || !guides.has('when-to-go')) errors.push('Core practical guides missing');
+const foodRoles = new Set(['regional', 'international', 'casual', 'fine', 'themed', 'breakfast']);
 for (const guide of foodGuides) {
   if (dishes.has(guide.slug)) errors.push(`food guide slug collides with a dish: ${guide.slug}`);
   for (const slug of guide.dishSlugs || []) {
     if (!dishes.has(slug)) errors.push(`${guide.slug} dish ${slug} missing`);
   }
   for (const section of guide.sections || []) {
+    if (section.role && !foodRoles.has(section.role)) errors.push(`${guide.slug} section ${section.id} role ${section.role} is not a food-guide slot`);
     for (const slug of section.dishSlugs || []) {
       if (!dishes.has(slug)) errors.push(`${guide.slug} section ${section.id} dish ${slug} missing`);
     }

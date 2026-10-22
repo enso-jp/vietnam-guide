@@ -173,7 +173,7 @@ The itinerary page is a photo on the left and the day title plus one paragraph o
 
 ## Food guide
 
-The record is `src/content/food/<place>.json`. It keeps the fields in `src/content/food/da-nang.json`: `summary`, `heroSlug`, `body`, `specialtiesLead`, `dishSlugs`, and `sections` with `id`, `heading`, `nav` or `hideNav`, `paragraphs`, `spots`, and `dishSlugs`. A spot has `name`, `nameVi`, `address`, `note`, and `dishSlug` when the spot is that dish. A room card also has `photo` and `caption`. Da Nang’s 13 dish pages, and its old section list, are not the page.
+The record is `src/content/food/<place>.json`. It keeps the fields in `src/content/food/da-nang.json`: `summary`, `heroSlug`, `body`, `specialtiesLead`, `dishSlugs`, and `sections` with `id`, `heading`, `nav` or `hideNav`, `paragraphs`, `spots`, and `dishSlugs`. A spot has `name`, `nameVi`, `address`, `note`, and `dishSlug` when the spot is that dish. A room card also has `photo` and `caption`. Optional `role` is `regional`, `international`, `casual`, `fine`, `themed`, or `breakfast`. That section stays in the page order below. A section with no `role` prints after the specialty essays, under its own heading. Da Nang’s 13 dish pages, and its old section list, are not the page.
 
 The page order is the Japan Guide food page:
 
