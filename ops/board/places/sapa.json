@@ -142,6 +142,13 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "sapa",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-22T10:17:01.727Z",
+    "by": "sapa-page",
+    "branch": "cursor/sapa-page-a588"
+  },
   "log": []
 }
