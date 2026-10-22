@@ -1,0 +1,45 @@
+{
+  "slug": "nam-dinh-day",
+  "title": "Nam Dinh in a day",
+  "kind": "trip",
+  "level": "day",
+  "duration": "1 day",
+  "spanDays": 1,
+  "placeSlug": "nam-dinh",
+  "budget": "Check on arrival",
+  "pace": "Check on arrival",
+  "photo": "nam-dinh-pho-minh",
+  "summary": "A day for the pho morning, the Phổ Minh tower, and Phủ Dầy about 15 km southwest. Minutes between stops were not printed. The seal night is the 14th of lunar month 1, not an ordinary evening.",
+  "days": [
+    {
+      "title": "The tower, then the phủ",
+      "body": "Start with phở bò around Chợ Rồng and phố Hàng Tiện. One paper’s shop closes at 09:00. Another says a bowl can be found at any hour. Both stay. Then the Phổ Minh tower on the Tức Mặc ground, 19.51 m on the heritage page and 21.2 m on the 2018 city page. If the afternoon is the Mother Goddess complex, Phủ Dầy is about 15 km southwest. The minutes were not printed. Fees and gate hours are check on arrival. On the 14th of lunar month 1 the evening is Đền Trần, not the lake.",
+      "placeSlug": "nam-dinh",
+      "photo": "nam-dinh-pho-minh"
+    }
+  ],
+  "stops": [
+    {
+      "name": "The pho morning",
+      "minutes": "Check on arrival",
+      "placeSlug": "nam-dinh",
+      "note": "Around Chợ Rồng and phố Hàng Tiện. The 09:00 close and the any-hour sentence both stay. A market hour was not printed."
+    },
+    {
+      "name": "Pho Minh",
+      "minutes": "Check on arrival",
+      "placeSlug": "nam-dinh",
+      "attractionSlug": "pho-minh",
+      "note": "The stone tower. Both heights stay: 19.51 m and 21.2 m. A minute from the cathedral was not printed."
+    },
+    {
+      "name": "Phu Day",
+      "minutes": "Check on arrival",
+      "placeSlug": "nam-dinh",
+      "attractionSlug": "phu-day",
+      "note": "About 15 km southwest. The minutes were not printed. The lunar month 3 dates move."
+    }
+  ],
+  "seoTitle": "Nam Dinh in a day — Pho Minh and Phu Day",
+  "seoDescription": "One day in Nam Dinh: the pho morning, the Phổ Minh tower, and Phủ Dầy about 15 km southwest. Minutes, fees, and gate hours are check on arrival."
+}

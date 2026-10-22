@@ -55,39 +55,39 @@
       "reworkCount": 0
     },
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, three photo sights linked from interest groups, one day itinerary. Check on arrival: gate hours, tickets, road minutes, rail fares, market hours, the 09:00 pho close, the next solar date, the eighth-month day, and the Vieng day. Both area figures, both tower heights, both Co Le storey counts, and both Ramsar years are printed. No city pin: the dossier prints a bounding box, not a point. Festival cards left unpublished: no licensed event photo, and the template would reuse the statue.",
+      "updated": "2026-10-22T07:19:13.487Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:52:42.080Z",
+      "status": "enriched",
+      "note": "Prose and the statue hero are the copy pass. Season stays in season. No food chip.",
+      "updated": "2026-10-22T07:19:13.562Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:52:42.080Z",
+      "status": "checked",
+      "note": "Read against the dossier. Disagreeing figures are both printed. No invented fee or hour. Hero is the square statue because the cathedral frames lose the tower in 16:9.",
+      "updated": "2026-10-22T07:19:13.646Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "skipped",
+      "note": "No licensed plate photo. The dossier filed none. No food guide, dish page, or interests.food.",
+      "updated": "2026-10-22T07:19:13.718Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:52:42.080Z",
+      "status": "skipped",
+      "note": "No food guide to copy. No licensed plate photo.",
+      "updated": "2026-10-22T07:19:13.789Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:52:42.080Z",
+      "status": "skipped",
+      "note": "No food guide to check. No licensed plate photo.",
+      "updated": "2026-10-22T07:19:13.855Z",
       "reworkCount": 0
     }
   },
@@ -114,14 +114,14 @@
       "track": "unit",
       "name": "Pho Minh pagoda",
       "slug": "pho-minh",
-      "file": null,
+      "file": "src/content/attractions/nam-dinh--pho-minh.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "unpublished: no licensed photo. Not a public card in this pass.",
-      "updated": "2026-10-22T06:52:42.080Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Read against the dossier. Hero is the palm walk and the full tower. Second frame is the tower through the gate. Credit is on the file. No fee or hour was invented.",
+      "updated": "2026-10-22T07:23:05.279Z",
       "reworkCount": 0
     },
     {
@@ -130,14 +130,14 @@
       "track": "unit",
       "name": "Phu Day",
       "slug": "phu-day",
-      "file": null,
+      "file": "src/content/attractions/nam-dinh--phu-day.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "unpublished: no licensed photo. Not a public card in this pass.",
-      "updated": "2026-10-22T06:52:42.080Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Read against the dossier. Pavilion and procession are this complex. Credit is on the file. No fee, hour, or next solar date was invented.",
+      "updated": "2026-10-22T07:23:05.484Z",
       "reworkCount": 0
     },
     {
@@ -354,14 +354,14 @@
       "track": "unit",
       "name": "Phu Nhai basilica",
       "slug": "phu-nhai",
-      "file": null,
+      "file": "src/content/attractions/nam-dinh--phu-nhai.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "unpublished: no licensed photo. Not a public card in this pass.",
-      "updated": "2026-10-22T06:52:42.080Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Read against the dossier. Facade and side elevation are this church. Credit is on the file. No height, fee, or mass hour was invented.",
+      "updated": "2026-10-22T07:23:05.681Z",
       "reworkCount": 0
     },
     {
@@ -897,6 +897,126 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-22T07:23:05.681Z",
+      "place": "nam-dinh",
+      "stage": "quality",
+      "item": "nam-dinh--phu-nhai",
+      "status": "checked",
+      "note": "Read against the dossier. Facade and side elevation are this church. Credit is on the file. No height, fee, or mass hour was invented."
+    },
+    {
+      "at": "2026-10-22T07:23:05.614Z",
+      "place": "nam-dinh",
+      "stage": "copy",
+      "item": "nam-dinh--phu-nhai",
+      "status": "enriched",
+      "note": "Kicker and notice say the height and the mass hour were not printed. Facade hero keeps the towers and the court."
+    },
+    {
+      "at": "2026-10-22T07:23:05.547Z",
+      "place": "nam-dinh",
+      "stage": "page",
+      "item": "nam-dinh--phu-nhai",
+      "status": "paged",
+      "note": "Finished page from the 2018 city list. Height, fee, and mass hour are Check on arrival. One getting-there leg. Second photo is the side elevation. No coordinates. Not the city cathedral and not Phat Diem."
+    },
+    {
+      "at": "2026-10-22T07:23:05.484Z",
+      "place": "nam-dinh",
+      "stage": "quality",
+      "item": "nam-dinh--phu-day",
+      "status": "checked",
+      "note": "Read against the dossier. Pavilion and procession are this complex. Credit is on the file. No fee, hour, or next solar date was invented."
+    },
+    {
+      "at": "2026-10-22T07:23:05.416Z",
+      "place": "nam-dinh",
+      "stage": "copy",
+      "item": "nam-dinh--phu-day",
+      "status": "enriched",
+      "note": "Kicker and notice keep the lunar start and the one-off April window. Pavilion hero still shows the hall past the utility pole."
+    },
+    {
+      "at": "2026-10-22T07:23:05.348Z",
+      "place": "nam-dinh",
+      "stage": "page",
+      "item": "nam-dinh--phu-day",
+      "status": "paged",
+      "note": "Finished page: about 15 km southwest, UNESCO 2016, lunar month 3. The April solar window is not treated as a fixed date. Hours and fee are Check on arrival. Second photo is the procession. No coordinates."
+    },
+    {
+      "at": "2026-10-22T07:23:05.279Z",
+      "place": "nam-dinh",
+      "stage": "quality",
+      "item": "nam-dinh--pho-minh",
+      "status": "checked",
+      "note": "Read against the dossier. Hero is the palm walk and the full tower. Second frame is the tower through the gate. Credit is on the file. No fee or hour was invented."
+    },
+    {
+      "at": "2026-10-22T07:23:05.211Z",
+      "place": "nam-dinh",
+      "stage": "copy",
+      "item": "nam-dinh--pho-minh",
+      "status": "enriched",
+      "note": "Kicker, notice, and hero caption name the stone tower. Both disagreeing figures stay in the body. The palm-walk hero keeps the full tower."
+    },
+    {
+      "at": "2026-10-22T07:23:05.131Z",
+      "place": "nam-dinh",
+      "stage": "page",
+      "item": "nam-dinh--pho-minh",
+      "status": "paged",
+      "note": "Finished page: both tower heights 19.51 m and 21.2 m, both bases 5.20 m and 5.21 m, both worship assignments, both seal clocks. Hours and fee are Check on arrival. Second photo is the tower through the festival gate. No coordinates."
+    },
+    {
+      "at": "2026-10-22T07:19:13.856Z",
+      "place": "nam-dinh",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "skipped",
+      "note": "No food guide to check. No licensed plate photo."
+    },
+    {
+      "at": "2026-10-22T07:19:13.789Z",
+      "place": "nam-dinh",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "skipped",
+      "note": "No food guide to copy. No licensed plate photo."
+    },
+    {
+      "at": "2026-10-22T07:19:13.718Z",
+      "place": "nam-dinh",
+      "stage": "food",
+      "item": null,
+      "status": "skipped",
+      "note": "No licensed plate photo. The dossier filed none. No food guide, dish page, or interests.food."
+    },
+    {
+      "at": "2026-10-22T07:19:13.646Z",
+      "place": "nam-dinh",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Read against the dossier. Disagreeing figures are both printed. No invented fee or hour. Hero is the square statue because the cathedral frames lose the tower in 16:9."
+    },
+    {
+      "at": "2026-10-22T07:19:13.562Z",
+      "place": "nam-dinh",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Prose and the statue hero are the copy pass. Season stays in season. No food chip."
+    },
+    {
+      "at": "2026-10-22T07:19:13.487Z",
+      "place": "nam-dinh",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place shell, three photo sights linked from interest groups, one day itinerary. Check on arrival: gate hours, tickets, road minutes, rail fares, market hours, the 09:00 pho close, the next solar date, the eighth-month day, and the Vieng day. Both area figures, both tower heights, both Co Le storey counts, and both Ramsar years are printed. No city pin: the dossier prints a bounding box, not a point. Festival cards left unpublished: no licensed event photo, and the template would reuse the statue."
+    },
+    {
       "at": "2026-10-22T06:52:42.080Z",
       "place": "nam-dinh",
       "stage": "researchContext",
@@ -935,62 +1055,6 @@
       "item": null,
       "status": "stored",
       "note": "left out gate hours, ticket prices, the Bao Loc interior, and a post-2025 street border. Both tower heights stay."
-    },
-    {
-      "at": "2026-10-22T06:52:29.188Z",
-      "place": "nam-dinh",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "left out road minutes, tolls, rail fares, a second timetable, the bus station, and an airport transfer."
-    },
-    {
-      "at": "2026-10-22T06:50:09.170Z",
-      "place": "nam-dinh",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Next year's solar dates, the eighth-month day, and the Vieng day are still open."
-    },
-    {
-      "at": "2026-10-22T06:50:08.843Z",
-      "place": "nam-dinh",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "A citywide quiet hour is still open."
-    },
-    {
-      "at": "2026-10-22T06:50:08.696Z",
-      "place": "nam-dinh",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "A bar street and a closing hour are still open. The evening is the lake and the snack streets."
-    },
-    {
-      "at": "2026-10-22T06:50:08.549Z",
-      "place": "nam-dinh",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Market hours, the 09:00 shop close, and the unread Nam Truc pho-village page are still open."
-    },
-    {
-      "at": "2026-10-22T06:49:59.269Z",
-      "place": "nam-dinh",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Gate hours, ticket prices, and a single tower height are still open. Both tower figures stay."
-    },
-    {
-      "at": "2026-10-22T06:49:51.808Z",
-      "place": "nam-dinh",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Road minutes, rail fares, a second timetable, the bus station, and an airport transfer are still open."
     }
   ]
 }
