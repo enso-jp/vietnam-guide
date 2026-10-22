@@ -55,9 +55,9 @@
       "reworkCount": 0
     },
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, Holy See interest, one two-day itinerary, seven festivals, nearby Ho Chi Minh City and Cu Chi. No food guide: no licensed plate. No sight card yet: only the Holy See has a licensed frame. Ba Den, the lake, the valley, and Go Ken stay off the card grid. City pin unset: no dossier source prints a city point. Check on arrival: Holy See ticket, grounds closing hour, minutes from Tan Ninh, second-cable everyday fare, Go Ken address fee and hour, coach fare and station door.",
+      "updated": "2026-10-22T07:21:07.285Z",
       "reworkCount": 0
     },
     "destinationCopy": {
@@ -528,13 +528,21 @@
   "questions": [],
   "claim": {
     "place": "tay-ninh",
-    "stage": "destination",
+    "stage": "destinationCopy",
     "item": null,
-    "at": "2026-10-22T07:04:34.689Z",
+    "at": "2026-10-22T07:21:07.321Z",
     "by": "tay-ninh-page",
     "branch": "cursor/tay-ninh-destination-0ab9"
   },
   "log": [
+    {
+      "at": "2026-10-22T07:21:07.285Z",
+      "place": "tay-ninh",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place shell, Holy See interest, one two-day itinerary, seven festivals, nearby Ho Chi Minh City and Cu Chi. No food guide: no licensed plate. No sight card yet: only the Holy See has a licensed frame. Ba Den, the lake, the valley, and Go Ken stay off the card grid. City pin unset: no dossier source prints a city point. Check on arrival: Holy See ticket, grounds closing hour, minutes from Tan Ninh, second-cable everyday fare, Go Ken address fee and hour, coach fare and station door."
+    },
     {
       "at": "2026-10-22T06:51:36.435Z",
       "place": "tay-ninh",
