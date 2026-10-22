@@ -98,14 +98,14 @@
       "track": "unit",
       "name": "Cao Dai Holy See",
       "slug": "cao-dai-holy-see",
-      "file": null,
+      "file": "src/content/attractions/tay-ninh--cao-dai-holy-see.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
+      "page": "paged",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "No licensed photo. Do not open a card until a photo exists. Conflicting figures stay in the dossier.",
-      "updated": "2026-10-22T06:51:36.435Z",
+      "note": "Holy See page from the dossier. Ticket and the grounds closing hour are Check on arrival. About 60 minutes is the Binh Duong page only. Hero is the facade, both towers, and the court. Second frame is the prayer hall at a service.",
+      "updated": "2026-10-22T07:26:09.023Z",
       "reworkCount": 0
     },
     {
@@ -528,13 +528,21 @@
   "questions": [],
   "claim": {
     "place": "tay-ninh",
-    "stage": "page",
+    "stage": "copy",
     "item": "tay-ninh--cao-dai-holy-see",
-    "at": "2026-10-22T07:25:22.771Z",
+    "at": "2026-10-22T07:26:09.058Z",
     "by": "tay-ninh-page",
     "branch": "cursor/tay-ninh-destination-0ab9"
   },
   "log": [
+    {
+      "at": "2026-10-22T07:26:09.023Z",
+      "place": "tay-ninh",
+      "stage": "page",
+      "item": "tay-ninh--cao-dai-holy-see",
+      "status": "paged",
+      "note": "Holy See page from the dossier. Ticket and the grounds closing hour are Check on arrival. About 60 minutes is the Binh Duong page only. Hero is the facade, both towers, and the court. Second frame is the prayer hall at a service."
+    },
     {
       "at": "2026-10-22T07:25:22.737Z",
       "place": "tay-ninh",
@@ -686,14 +694,6 @@
       "item": null,
       "status": "needs_depth",
       "note": "Holy See, Ba Den, the valley, the lake, Go Ken, and the wards are in. Still open: a second duration for the Holy See, a temple ticket, minutes between the city and the mountain, and the second cable everyday fare."
-    },
-    {
-      "at": "2026-10-22T06:51:05.606Z",
-      "place": "tay-ninh",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and the road are in. Still open: a passenger airport inside Tay Ninh, a rail you can board, one kilometre from Ho Chi Minh City, one drive time, and a bus fare."
     }
   ]
 }
