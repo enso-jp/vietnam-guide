@@ -79,9 +79,9 @@
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T18:40:18.808Z",
+      "status": "enriched",
+      "note": "Opened the kernel bag and the daytime market hall. The hall is not captioned as the night market. SEO titles name the pack and the two streets.",
+      "updated": "2026-10-22T02:45:03.255Z",
       "reworkCount": 0
     },
     "foodQuality": {
@@ -262,10 +262,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "not_started",
+      "copy": "enriched",
       "quality": "not_started",
-      "note": "Candied kernels in a gift bag. Public domain. No second photo.",
-      "updated": "2026-10-22T02:44:31.724Z",
+      "note": "Gift bag of candied kernels. No taste invented beyond roasted or candied. Price check on arrival.",
+      "updated": "2026-10-22T02:45:03.228Z",
       "reworkCount": 0
     },
     {
@@ -528,6 +528,14 @@
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T02:45:03.256Z",
+      "place": "con-dao",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Opened the kernel bag and the daytime market hall. The hall is not captioned as the night market. SEO titles name the pack and the two streets."
+    },
     {
       "at": "2026-10-22T02:44:51.248Z",
       "place": "con-dao",
