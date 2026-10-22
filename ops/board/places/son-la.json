@@ -67,9 +67,9 @@
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:18:12.744Z",
+      "status": "checked",
+      "note": "Read against the dossier. No hero and no sight cards, which matches the unpublished photos. Both figures stay for the prison, the dam, Pa Uon, Ban Mong, Highway 6, and the Le temple windows. Unsourced fees and hours say check on arrival. The map pin 21.33, 103.91 is not in the dossier. Festivals have no photo.",
+      "updated": "2026-10-22T04:38:44.697Z",
       "reworkCount": 0
     },
     "food": {
@@ -374,10 +374,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "not_started",
-      "quality": "not_started",
+      "copy": "enriched",
+      "quality": "checked",
       "note": "Festival record. No licensed photo, so no photo field. Both lunar windows stay.",
-      "updated": "2026-10-22T04:36:05.298Z",
+      "updated": "2026-10-22T04:38:44.726Z",
       "reworkCount": 0
     },
     {
@@ -390,10 +390,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "not_started",
-      "quality": "not_started",
+      "copy": "enriched",
+      "quality": "checked",
       "note": "Tet week on the place. No licensed photo, so no photo field. Civil dates stay check on arrival.",
-      "updated": "2026-10-22T04:36:05.326Z",
+      "updated": "2026-10-22T04:38:44.755Z",
       "reworkCount": 0
     },
     {
@@ -406,23 +406,31 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "not_started",
-      "quality": "not_started",
+      "copy": "enriched",
+      "quality": "checked",
       "note": "September is named only. No ward, no rite, no licensed photo.",
-      "updated": "2026-10-22T04:36:05.356Z",
+      "updated": "2026-10-22T04:38:44.787Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
   "claim": {
     "place": "son-la",
-    "stage": "destinationQuality",
+    "stage": "food",
     "item": null,
-    "at": "2026-10-22T04:37:56.535Z",
+    "at": "2026-10-22T04:38:44.815Z",
     "by": "son-la-page",
     "branch": "cursor/son-la-destination-db6e"
   },
   "log": [
+    {
+      "at": "2026-10-22T04:38:44.697Z",
+      "place": "son-la",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Read against the dossier. No hero and no sight cards, which matches the unpublished photos. Both figures stay for the prison, the dam, Pa Uon, Ban Mong, Highway 6, and the Le temple windows. Unsourced fees and hours say check on arrival. The map pin 21.33, 103.91 is not in the dossier. Festivals have no photo."
+    },
     {
       "at": "2026-10-22T04:37:56.506Z",
       "place": "son-la",
