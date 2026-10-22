@@ -1,0 +1,79 @@
+{
+  "slug": "son-la",
+  "name": "Son La food guide",
+  "placeSlug": "son-la",
+  "summary": "Son La eats a Thái hearth: pa pỉnh tộp, hearth-smoked buffalo, cơm lam, and rượu cần, at Bản Mòng or in town. Moc Chau’s yogurt, hau plum, and tea stay on the plateau. Stall prices and both market clocks are check on arrival.",
+  "heroSlug": "thit-hun-khoi",
+  "body": [
+    "Eat this valley as itself. The fish is split along the back, stuffed with ginger, lemongrass, and mắc khén, then grilled and eaten with sticky rice and chẩm chéo. The buffalo is the plate that keeps. Cơm lam comes out of the bamboo tube. Rượu cần is the jar on the Bản Mòng floor, through the pipes, with the meal and the xòe.",
+    "Chợ Trung tâm is the morning hall on the old Chiềng Lề street, now inside phường Tô Hiệu. Chợ 7-11 is the other daily hall, in phường Quyết Thắng. The Saturday stalls on Hoàng Quốc Việt run only from 19:30 to 23:00 on the two walking-street nights. What is on the breakfast plate, and every clock, is check on arrival."
+  ],
+  "specialtiesLead": "Start with the smoked buffalo. The fish, the bamboo-tube rice, and the jar are the rest of the same meal.",
+  "dishSlugs": ["thit-hun-khoi"],
+  "sections": [
+    {
+      "id": "where",
+      "heading": "Where to eat",
+      "nav": "Where to eat",
+      "paragraphs": [
+        "Bản Mòng is the stilt-house meal: the grilled fish, the smoked meat, cơm lam, forest greens, and the jar. The town table is the same family of dishes, without a named restaurant. Moc Chau yogurt is not this meal."
+      ]
+    },
+    {
+      "id": "streets",
+      "heading": "Markets",
+      "nav": "Markets",
+      "paragraphs": [
+        "Two daily halls and one Saturday street. No opening clock was printed for either hall. The Saturday stalls exist only when the walking street is on."
+      ],
+      "spots": [
+        {
+          "name": "Central market",
+          "nameVi": "Chợ Trung tâm",
+          "address": "Tổ 12, phường Chiềng Lề, now inside phường Tô Hiệu",
+          "note": "The 2024 trade list puts the hall at 8,940 m², hạng 2, solid, meeting daily. The clock, and the breakfast plate, are check on arrival."
+        },
+        {
+          "name": "Cho 7-11",
+          "nameVi": "Chợ 7-11",
+          "address": "Tổ 8, phường Quyết Thắng",
+          "note": "The other hạng 2 daily market, 6,615 m² on the same 2024 list. A dish list was not printed. The clock is check on arrival."
+        },
+        {
+          "name": "Saturday stalls",
+          "nameVi": "Phố đi bộ Hoàng Quốc Việt",
+          "address": "Hoàng Quốc Việt, from the Highway 6 junction to bản Mé Ban",
+          "note": "Food stalls only on the walking-street nights, 19:30–23:00, two Saturdays a month. Which two Saturdays are check on arrival. Other nights the street is an ordinary road. Stall prices are check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "plates",
+      "heading": "The Thai table",
+      "nav": "The table",
+      "paragraphs": [
+        "Pa pỉnh tộp is the grilled stream fish, with sticky rice and chẩm chéo. Nậm pịa is the offal pot the handbook sets from cow or goat blood, eaten hot with banana flower and mint. Thịt chua người Dao is belly pork soured in a jar, for Tết and for guests, eaten with lá lốt. Bê chao, in one handbook sentence, is sliced calf with ginger, lemongrass, and pepper, passed through hot oil. Forest vegetables and ban flower stir-fried with sour bamboo sit beside the Bản Mòng grill."
+      ]
+    },
+    {
+      "id": "drinks",
+      "heading": "The jar",
+      "nav": "The jar",
+      "paragraphs": [
+        "Rượu cần is drunk from the jar at Bản Mòng, through the pipes, with the evening meal and the xòe. It is not a morning drink. A strength and a price are check on arrival."
+      ]
+    },
+    {
+      "id": "away",
+      "heading": "On the plateau",
+      "nav": "Moc Chau",
+      "paragraphs": [
+        "Cơm lam is also the tube at Bản Mòng. The plateau plate of the same rice stays in Moc Chau, with the yogurt, the hau plum, and the tea."
+      ],
+      "dishSlugs": ["com-lam"]
+    }
+  ],
+  "verified": "22 Oct 2026",
+  "seoTitle": "Son La food guide — Thai table at Ban Mong, not yogurt",
+  "seoDescription": "Pa pinh top, smoked buffalo, bamboo-tube rice, and jar wine at Ban Mong or in town. Moc Chau yogurt stays on the plateau. Prices are check on arrival."
+}
