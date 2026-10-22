@@ -73,9 +73,9 @@
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Food guide and hat-bang only. The photograph is candied kernels in a gift bag. Other named dishes have no plate photo and stay off the cards. The market spot is the daytime hall, not the night market. Dining leads.",
+      "updated": "2026-10-22T02:44:51.248Z",
       "reworkCount": 0
     },
     "foodCopy": {
@@ -258,14 +258,14 @@
       "track": "bundled",
       "name": "Hat bang",
       "slug": "hat-bang",
-      "file": null,
+      "file": "src/content/dishes/hat-bang.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
+      "page": "paged",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Sourced from the Dong Nai report. No stall price copied.",
-      "updated": "2026-10-21T18:40:08.915Z",
+      "note": "Candied kernels in a gift bag. Public domain. No second photo.",
+      "updated": "2026-10-22T02:44:31.724Z",
       "reworkCount": 0
     },
     {
@@ -277,11 +277,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced from the Dong Nai report. No stall price copied.",
-      "updated": "2026-10-21T18:40:08.944Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph of this dish. Named in the food guide, not a card.",
+      "updated": "2026-10-22T02:44:31.457Z",
       "reworkCount": 0
     },
     {
@@ -293,11 +293,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced from the Dong Nai report. No stall price copied.",
-      "updated": "2026-10-21T18:40:08.975Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph of this dish. Named in the food guide, not a card.",
+      "updated": "2026-10-22T02:44:31.488Z",
       "reworkCount": 0
     },
     {
@@ -309,11 +309,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced from the Dong Nai report. No stall price copied.",
-      "updated": "2026-10-21T18:40:09.005Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph of this dish. Named in the food guide, not a card.",
+      "updated": "2026-10-22T02:44:31.516Z",
       "reworkCount": 0
     },
     {
@@ -325,11 +325,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced from the Dong Nai report. No stall price copied.",
-      "updated": "2026-10-21T18:40:09.035Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph of this dish. Named in the food guide, not a card.",
+      "updated": "2026-10-22T02:44:31.544Z",
       "reworkCount": 0
     },
     {
@@ -341,11 +341,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced from the Dong Nai report. No stall price copied.",
-      "updated": "2026-10-21T18:40:09.065Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph of this dish. Named in the food guide, not a card.",
+      "updated": "2026-10-22T02:44:31.575Z",
       "reworkCount": 0
     },
     {
@@ -357,11 +357,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced from the Dong Nai report. No stall price copied.",
-      "updated": "2026-10-21T18:40:09.095Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph of this dish. Named in the food guide, not a card.",
+      "updated": "2026-10-22T02:44:31.605Z",
       "reworkCount": 0
     },
     {
@@ -373,11 +373,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced from the Dong Nai report. No stall price copied.",
-      "updated": "2026-10-21T18:40:09.127Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph of this dish. Named in the food guide, not a card.",
+      "updated": "2026-10-22T02:44:31.635Z",
       "reworkCount": 0
     },
     {
@@ -389,11 +389,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced from the Dong Nai report. No stall price copied.",
-      "updated": "2026-10-21T18:40:09.161Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph of this dish. Named in the food guide, not a card.",
+      "updated": "2026-10-22T02:44:31.665Z",
       "reworkCount": 0
     },
     {
@@ -405,11 +405,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced from the Dong Nai report. No stall price copied.",
-      "updated": "2026-10-21T18:40:09.197Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph of this dish. Named in the food guide, not a card.",
+      "updated": "2026-10-22T02:44:31.694Z",
       "reworkCount": 0
     },
     {
@@ -528,6 +528,14 @@
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T02:44:51.248Z",
+      "place": "con-dao",
+      "stage": "food",
+      "item": null,
+      "status": "paged",
+      "note": "Food guide and hat-bang only. The photograph is candied kernels in a gift bag. Other named dishes have no plate photo and stay off the cards. The market spot is the daytime hall, not the night market. Dining leads."
+    },
     {
       "at": "2026-10-22T02:43:51.879Z",
       "place": "con-dao",

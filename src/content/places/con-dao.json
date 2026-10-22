@@ -25,6 +25,7 @@
     "mountains": 3
   },
   "cover": "coast",
+  "foodSlug": "con-dao",
   "nearby": ["ho-chi-minh-city", "vung-tau", "can-tho"],
   "routeSlugs": [],
   "itinerarySlugs": ["con-dao-two-days"],
@@ -52,12 +53,19 @@
   "eat": [
     "Evening is the night market on Võ Thị Sáu and Phạm Văn Đồng, in front of the daily market, from 17:00 and busiest 19:00–22:00. Seafood is chosen and cooked to order. Hạt bàng, candied or roasted kernels, is the pack traders fill at the daily market. No stall price, no breakfast dish, and no local drink were printed."
   ],
-  "dishSlugs": [],
+  "dishSlugs": ["hat-bang"],
   "interestsBody": [
     "The camps and Hàng Dương are one history day in town. The park day is the forest, Đầm Trầu, and the turtle islets. Đầm Trầu and the walk to Ông Đụng have no licensed photograph of those places, so they are not cards.",
     "Dining is the night market and the market packs. A food guide opens when a dish has a photograph of the food. Shopping and a resort stay are not cards here."
   ],
   "interestCards": [
+    {
+      "title": "Dining and F&B",
+      "summary": "Candied hạt bàng from the daily market. The night market cooks seafood to order.",
+      "photo": "hat-bang",
+      "icon": "food",
+      "to": "food"
+    },
     {
       "title": "The camps",
       "summary": "The prison system from 1862, walked as one site. The relic ticket is check on arrival.",
@@ -88,6 +96,35 @@
     }
   ],
   "interestGroups": [
+    {
+      "title": "Dining and F&B",
+      "summary": "The pack with a photograph, then seafood cooked to order after dark.",
+      "body": [
+        "Hạt bàng is the kernel the 11 July 2025 report shows being packed at the daily market. It is roasted with salt or candied. Peak-season supply is bought in, so not every bag is island fruit.",
+        "The night market is on Võ Thị Sáu and Phạm Văn Đồng. No licensed night photograph was used. Other named plates, including mắm nhum, have no photograph of the food, so they are not cards."
+      ],
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "Candied hạt bàng. The night market is the evening plate, without a night photograph.",
+          "photo": "hat-bang",
+          "icon": "food",
+          "to": "food",
+          "block": "market"
+        }
+      ],
+      "blocks": [
+        {
+          "id": "market",
+          "heading": "The pack and the evening yard",
+          "nav": "The market",
+          "paragraphs": [
+            "Take hạt bàng from the daily market. A stall named in the report is not a pick. No stall price was printed.",
+            "After the camps, eat at the open yard in front of that market. The clock for the yard is on the place page."
+          ]
+        }
+      ]
+    },
     {
       "title": "The camps",
       "summary": "Walk the prison as one site, then do not treat the tiger cages as another island.",
