@@ -1,0 +1,57 @@
+{
+  "slug": "ninh-binh-station",
+  "placeSlug": "ninh-binh",
+  "name": "Ninh Binh station",
+  "nameVi": "Ga Ninh Bình",
+  "kicker": "The North–South stop",
+  "summary": "This is where the train puts you down. The timetable places Ninh Bình at kilometre 115 from Hà Nội. Vietnamese Wikipedia also prints lý trình km 144+775 and “115 km về phía Bắc”. The 115 matches the timetable. The chainage and the direction do not. SE7 arrives at 08:16. Fares were not printed.",
+  "dots": 3,
+  "dotReason": "How you arrive, not why you stay",
+  "timeNeeded": "The rail cell you booked",
+  "fee": "Check on arrival",
+  "getThere": "Đường Ngô Gia Tự, phường Hoa Lư, between Cát Đằng and Cầu Yên.",
+  "district": "The station",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The station front and the sign GA NINH BÌNH",
+  "notice": {
+    "title": "Three kilometre figures are all in print",
+    "body": "The timetable says kilometre 115 from Hà Nội. Vietnamese Wikipedia says 115 km về phía Bắc and lý trình km 144+775. The 115 matches. The direction and the chainage do not."
+  },
+  "body": [
+    "Southbound, the zero is Hà Nội. Ninh Bình is kilometre 115. The opened cells are SE7 06:00–08:16 (2 hours 16 minutes), SE5 08:00–10:16 (2 hours 16 minutes), SE9 13:00–15:17 (2 hours 17 minutes), SE3 19:20–21:36 (2 hours 16 minutes), and SE1 21:45–00:03 the next day (2 hours 18 minutes). Northbound, the other table zeros at Sài Gòn. Ninh Bình is kilometre 1611 and Hà Nội is 1726, and 1726 minus 1611 is 115 again. SE8 is 2 hours 21 minutes, SE6 is 2 hours 19 minutes, SE4 is 2 hours 22 minutes, and SE2 is 2 hours 18 minutes. SE10 has no Ninh Bình cell.",
+    "Vietnamese Wikipedia prints the street as đường Ngô Gia Tự, phường Hoa Lư, between ga Cát Đằng and ga Cầu Yên, and it prints both “115 km về phía Bắc” and lý trình km 144+775. Keep them beside the timetable’s 115. The hero is the newer front, sign GA NINH BÌNH. The second frame is an older yellow front with the same words. A platform fee and the fares were not printed. Check on arrival. The culture office at 29 Lê Đại Hành is not the station. The tourism office at 06 Tràng An is not the station."
+  ],
+  "figures": [
+    {
+      "id": "ninh-binh-ninh-binh-station-2",
+      "caption": "An older station front, still signed GA NINH BÌNH",
+      "alt": "A yellow station building with the sign GA NINH BÌNH"
+    }
+  ],
+  "gettingThere": [
+    "The station is the city stop on the North–South line. From Hà Nội, use the cells above. A ride from Nội Bài was not timed. Check on arrival. Road minutes into the valley were not printed either."
+  ],
+  "legs": [
+    {
+      "heading": "From Hanoi station",
+      "body": "SE7 leaves at 06:00 and reaches Ninh Bình at 08:16. Later southbound cells are SE5, SE9, SE3, and SE1. SE10 does not stop. Fares were not printed. Check on arrival."
+    },
+    {
+      "heading": "Back to Hanoi",
+      "body": "SE8, SE6, SE4, and SE2 stop. The cell gaps are 2 hours 21 minutes, 2 hours 19 minutes, 2 hours 22 minutes, and 2 hours 18 minutes. The day offsets on the northbound table are counted from a Sài Gòn departure."
+    }
+  ],
+  "hours": "The opened timetable cells are the clocks. A station door hour was not printed. Check on arrival.",
+  "closed": "SE10 has no Ninh Bình cell on the opened table. Other trains: check the board on arrival.",
+  "admissionNote": "A platform fee was not printed. Rail fares were not printed. Check on arrival.",
+  "links": [
+    {
+      "label": "National timetable",
+      "url": "https://giotaugiave.dsvn.vn/",
+      "note": "Đường sắt Việt Nam, kilometre 115"
+    }
+  ],
+  "interests": [
+    "family"
+  ]
+}

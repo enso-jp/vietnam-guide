@@ -2,11 +2,60 @@
   "slug": "bai-dinh",
   "placeSlug": "ninh-binh",
   "name": "Bai Dinh Pagoda",
-  "summary": "A very large modern pagoda complex. Go if you want scale; skip it if you are short on time.",
+  "nameVi": "Chùa Bái Đính",
+  "kicker": "Old pagoda and the new hill",
+  "summary": "Come for the scale: an old foundation dated to 1136 and a new complex expanded from 2003 in phường Tây Hoa Lư. The 2025 tourism page says more than 1,000 ha. A 2017 itinerary says 107 ha. Both stay. The board prices electric carts, not a walking gate fee. That fee is check on arrival.",
   "dots": 3,
-  "timeNeeded": "1–2 hours",
-  "fee": "Paid entry",
-  "getThere": "Taxi from Ninh Binh or Tam Coc",
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "About 20 km from the provincial centre, about 100 km from Hà Nội.",
+  "district": "The pagoda hill",
+  "verified": "22 Oct 2026",
+  "heroCaption": "Lit towers and the pavilion on the water at Bái Đính",
+  "notice": {
+    "title": "The cart price is not a walking ticket",
+    "body": "The board prints return electric carts and a transfer package. A walking gate fee was not on that table. Check on arrival before you assume the cart is optional."
+  },
+  "body": [
+    "The tourism page dates the old foundation to Nguyễn Minh Không in 1136 and the new complex to an expansion from 2003, on five levels. It places the pagoda in phường Tây Hoa Lư, about 20 km from the provincial centre and about 100 km from Hà Nội. UNESCO puts the reconstructed complex in the buffer zone. The same 2025 page says the area is more than 1,000 ha. A 2017 tourism itinerary says 107 ha. Print both. Do not pick one.",
+    "That 2025 page claims four records: the largest gilt Buddha in Asia, the longest arhat corridor in Asia, the tallest Buddhist relic tower in Asia, and the largest bronze Maitreya in Southeast Asia. The 2017 itinerary says 500 arhat statues and two bells, of 36 tons and 27 tons. The photograph of the bell describes one bell as 36 tons, 10 m high, with a diameter of 5 m. The night frame is the lit pavilion and the towers, not the bell alone. Whether the lights are on every night was not printed.",
+    "Give it a half day when the boat is not your only stop. Skip it when the sampan and Hoa Lư already fill the day. A minute on site was not printed. Check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "ninh-binh-bai-dinh-2",
+      "caption": "The bronze bell inside the tower, captioned at 36 tons",
+      "alt": "A large bronze bell hanging in the wooden tower at Bái Đính"
+    }
+  ],
+  "gettingThere": [
+    "About 20 km from the provincial centre, on the 2025 tourism page, and about 100 km from Hà Nội. That 100 km is not Tràng An’s about 90 km. Minutes by road were not printed. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the valley",
+      "body": "Ride out to phường Tây Hoa Lư. The page gives kilometres, not minutes. Check on arrival."
+    },
+    {
+      "heading": "From Hanoi",
+      "body": "About 100 km on the tourism page. Train to Ga Ninh Bình is a different measure, kilometre 115. Road minutes were not printed. Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day was printed. Check on arrival.",
+  "admissionNote": "A walking gate fee was not printed. Check on arrival. Carts on the board page updated 30 March 2026: return electric cart adult 150,000 đồng, child from 1 m to 1.3 m 100,000 đồng. Transfer package, which the page says includes the cart, a bảo tháp ticket, and a foot soak: adult 300,000 đồng, child from 1 m to 1.3 m 210,000 đồng. VIP cart with a guide on the cart: 4,000,000 đồng. Guide: 500,000 đồng per tour. Hotline 1900 966 909. Support phone 02293.886.068.",
+  "links": [
+    {
+      "label": "Bái Đính tourism page",
+      "url": "https://sodulich.ninhbinh.gov.vn/vi/tai-nguyen-du-lich-van-hoa/chua-bai-dinh-21.html",
+      "note": "15 August 2025"
+    },
+    {
+      "label": "Ticket and cart page",
+      "url": "https://trangandanhthang.vn/gia-ve-tham-quan-cac-khu-diem-du-lich/",
+      "note": "Updated 30 March 2026"
+    }
+  ],
   "interests": [
     "pagodas"
   ]

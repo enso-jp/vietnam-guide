@@ -206,3 +206,15 @@ Checked: 22 Oct 2026. A fact with a source id was opened, or the page text was r
 - Publisher: Wikimedia Commons. Author travel oriented. License CC BY-SA 2.0.
 - Accessed: 22 Oct 2026
 - Supports: Named in the file title as Tam Cốc–Bích Động. It is the public `tam-coc` photo. It is not reused as a Ninh Bình hero or as a Tràng An card.
+
+### S35
+- URL: https://sodulich.ninhbinh.gov.vn/uploads/images/Danh_sach_cac_nha_hang_tren_dia_ban_tinh_20250630041935789791.pdf
+- Publisher: Sở Du lịch Ninh Bình. File name date 30 June 2025. Title: Tổng hợp danh sách các nhà hàng trên địa bàn tỉnh Ninh Bình.
+- Accessed: 22 Oct 2026
+- Supports: Two headings only. I, các nhà hàng phục vụ cơm văn phòng, 15 rows. II, các nhà hàng du lịch, 50 rows. Several office rows print “giá từ 30.000đ/suất trở lên”. Others print no price. No hours. Kombo is filed under cơm văn phòng. The name says Singapore. The row does not describe a foreign menu. Duplicate names stay on their own rows: two Quang Dũng, two Hoàng Hải, two Lương Thương, two Vũ Bảo. Owner names were not copied into the public spots.
+
+### S36
+- URL: https://sodulich.ninhbinh.gov.vn/vi/tin-tuc-su-kien/ninh-binh-nang-tam-van-hoa-am-thuc-de-phat-trien-du-lich-1956.html
+- Publisher: Sở Du lịch Ninh Bình, article dated 5 November 2024, source line hanoimoi.vn.
+- Accessed: 22 Oct 2026
+- Supports: District foods beyond S12, including mật ong rừng, trà hoa vàng, ốc nhồi, cá nướng rơm, giò trứng, bánh đúc, chạo chân giò, cá tràu tiến vua, cá rô Tổng Trường, and the OCOP names thịt chưng mắm tép, bột rau má, ruốc cá rô Tổng Trường, trà sơn kim cúc, trà Vũ Gia, rượu vang đào. Yên Khánh is only “các loại bánh”. Streets: Phố 8, Phố ăn sáng Vân Giang, khu ẩm thực Phố cổ Hoa Lư. Craft villages: làng nghề bún Yên Ninh, làng nghề ẩm thực xóm Phong An, làng nghề rượu Lai Thành. TS Mai Thanh Sơn names cá quả nấu ám Nho Quan. About 130 licensed eateries, nearly 900 lodgings with food, about 15,000 restaurant workers, and 186 OCOP products by August 2024 are statistics, not menu lines.

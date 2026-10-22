@@ -210,3 +210,11 @@ A named market hall was not on S10 or S12. Chợ Rồng appears in commercial pa
 No restaurant was needed to find the roads. The culture page names the roads and not the shops (S12). Nothing to list under `do not publish as a pick`.
 
 Shop names that turn up later stay off the page unless they are the scene pins already in `attractions.md`.
+
+## Provincial list and the 2024 article
+
+Opened after the first store, for the food guide.
+
+- S35, the provincial restaurant list dated 30 June 2025, has two headings. Section I is 15 cơm văn phòng rooms, filed as casual. Section II is 50 nhà hàng du lịch rooms. That heading stays its own section. It is not fine dining. Every row is kept, including both Quang Dũng rows, both Hoàng Hải rows, both Lương Thương rows, and both Vũ Bảo rows. Kombo stays once, under cơm văn phòng. The name says Singapore. The row does not describe a foreign menu.
+- S36, the 5 November 2024 tourism article, adds the district foods and OCOP names that are not already on S12, plus Phố 8, Phố ăn sáng Vân Giang, khu ẩm thực Phố cổ Hoa Lư, and the three craft villages. Yên Khánh “các loại bánh” is unnamed and is not an entry. Hanoi’s miến lươn record stays Hanoi’s. The Ninh Bình culture-page bowl is `mien-luon-ninh-binh`.
+- No source opened here calls a room fine dining or describes a foreign menu. Those two groups are left out of the guide. Breakfast is the one named street.

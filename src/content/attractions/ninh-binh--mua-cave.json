@@ -2,14 +2,56 @@
   "slug": "mua-cave",
   "placeSlug": "ninh-binh",
   "name": "Mua Cave viewpoint",
-  "summary": "A stair climb to a terrace with the classic view over rice and karst. The cave itself is secondary.",
+  "nameVi": "Hang Múa",
+  "kicker": "A stair over the rice and the karst",
+  "summary": "Climb for the paddies and the towers, not for a boat. The board charges 150,000 đồng per person and prints no child line. A step count and a gate hour were not printed. The river in the view is the Tam Coc side. That boat stays on the Tam Coc page.",
   "dots": 4,
-  "timeNeeded": "1 hour",
-  "fee": "Paid entry",
-  "getThere": "Bicycle or taxi from Tam Coc",
-  "interests": [
-    "caves",
-    "rice"
+  "timeNeeded": "Check on arrival",
+  "fee": "150,000 đồng per person",
+  "getThere": "From the valley, or a ride from the station. Minutes are check on arrival.",
+  "district": "The rice view",
+  "verified": "22 Oct 2026",
+  "heroCaption": "Rice, karst, and the stone steps at Hang Múa",
+  "notice": {
+    "title": "This climb is not the Tam Coc boat",
+    "body": "The view looks over the Tam Coc side of the valley. The Ngo Đồng boat is a different ticket and a different page."
+  },
+  "body": [
+    "The walk is a stone stair to a viewpoint. The wide frame is daylight on the paddies, with the steps in the corner so you know you climbed. A step count was not on the board page or the tourism pages. Check on arrival. The second frame is the valley from the same height: river, rice, and towers, without the stair in the corner.",
+    "The ticket is 150,000 đồng per person. No child line was printed, and no rule for a child under 1 m. The hotline on the ticket row is 0987 111 312. The tourism support line is 02293.619.679. A gate hour was not printed. Check on arrival. A street number was not on that ticket page."
   ],
-  "nameVi": "Hang Múa"
+  "figures": [
+    {
+      "id": "ninh-binh-mua-cave-2",
+      "caption": "The valley from Hang Múa, river and karst without the stair",
+      "alt": "A green valley, a river, and limestone ridges seen from Hang Múa"
+    }
+  ],
+  "gettingThere": [
+    "The ticket page names the site and a hotline, not a street. From the valley or from Ga Ninh Bình, the minutes were not printed. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the valley",
+      "body": "Ride or walk to the stair. Minutes were not printed. Check on arrival."
+    },
+    {
+      "heading": "From the station",
+      "body": "A ride from Ga Ninh Bình. Minutes were not printed. Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day was printed. Check on arrival.",
+  "admissionNote": "150,000 đồng per person on the board page updated 30 March 2026. No child line. Hotline 0987 111 312. Support phone 02293.619.679. A gate hour and a step count were not printed. Check on arrival.",
+  "links": [
+    {
+      "label": "Ticket page",
+      "url": "https://trangandanhthang.vn/gia-ve-tham-quan-cac-khu-diem-du-lich/",
+      "note": "Hang Múa row, updated 30 March 2026"
+    }
+  ],
+  "interests": [
+    "rice",
+    "caves"
+  ]
 }
