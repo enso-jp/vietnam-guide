@@ -1,0 +1,41 @@
+{
+  "slug": "ca-mau-day",
+  "title": "Ca Mau in a day",
+  "kind": "trip",
+  "level": "day",
+  "duration": "1 day",
+  "spanDays": 1,
+  "placeSlug": "ca-mau",
+  "budget": "Check on arrival",
+  "pace": "A road day",
+  "summary": "Sleep in the city, ride south through Năm Căn, and stand at the Đất Mũi gate while it is open. The culture-office listing shuts at 18:00. A tour page shuts at 17:30. No city-to-cape minute was printed. Check on arrival.",
+  "days": [
+    {
+      "title": "The city, Năm Căn, then the cape",
+      "body": "Start in the river wards. UNESCO’s boats on the Gành Hào are the morning picture if they are out. The hour was not printed. Ride south through Năm Căn, the fishing town before the 58.7 km Hồ Chí Minh section that starts at cầu Ông Tình. The gate is the ship panel or GPS0001, mangrove or mudflat, and the two seas. The culture-office listing is 07:00–18:00 and 15,000–30,000 VND. A tour page dated 30 September 2026 is 06:30–17:30, adult 30,000 VND. A Vietravel page says the cape is more than 100 km from the city. A tour page says 100–110 km and 2.5–3.5 hours. The road project’s 58.7 km starts at Năm Căn, not at the city. Keep every figure. Eat crab or ba khía and come back to the city. U Minh Hạ or Hòn Đá Bạc is a second day, north or west, not another lap of the marker. Fees beyond the two gate listings, and the minutes between stops, are check on arrival.",
+      "placeSlug": "ca-mau"
+    }
+  ],
+  "stops": [
+    {
+      "name": "The city morning",
+      "minutes": "Check on arrival",
+      "placeSlug": "ca-mau",
+      "note": "The river wards, and the Gành Hào boats if they are out. A market hour was not printed."
+    },
+    {
+      "name": "Nam Can",
+      "minutes": "Check on arrival",
+      "placeSlug": "ca-mau",
+      "note": "The fishing town on the way. The 58.7 km cape project starts at cầu Ông Tình, not in the city. Minutes in town were not printed."
+    },
+    {
+      "name": "Dat Mui gate",
+      "minutes": "Check on arrival",
+      "placeSlug": "ca-mau",
+      "note": "The marker and the two seas, inside this place. Gate hours on the two pages are 07:00–18:00 and 06:30–17:30."
+    }
+  ],
+  "seoTitle": "Ca Mau in a day — city morning, Nam Can, Dat Mui gate",
+  "seoDescription": "One day from the Ca Mau river wards through Năm Căn to the Đất Mũi gate. The two gate hours disagree, and no city-to-cape minute was printed."
+}

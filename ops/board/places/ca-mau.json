@@ -55,39 +55,39 @@
       "reworkCount": 0
     },
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, local interest groups, one day itinerary, season, and Can Tho nearby. No sight cards: no licensed photo. No food guide file, no dish pages, no Food chip. Lat and lng unset. Gate hours, airport clocks, expressway minutes, U Minh Ha fees, and cape kilometers are all printed.",
+      "updated": "2026-10-22T07:16:05.559Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:51:20.474Z",
+      "status": "enriched",
+      "note": "Prose keeps every disagreeing clock, fee, and kilometer. No hero photo: opened Commons frames failed the marker-mangrove-sea brief. Questions in research/ca-mau/questions.md.",
+      "updated": "2026-10-22T07:16:43.405Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:51:20.474Z",
+      "status": "checked",
+      "note": "Read against the dossier. No city pin. No sight card. Disagreements are printed, not averaged. No licensed photo met the hero brief.",
+      "updated": "2026-10-22T07:17:10.165Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "skipped",
+      "note": "No licensed plate photo in the dossier. No food guide file, no dish pages, no Food chip, no interests.food.",
+      "updated": "2026-10-22T07:17:10.232Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:51:20.474Z",
+      "status": "skipped",
+      "note": "No food guide to copy. Plate photo was not filed.",
+      "updated": "2026-10-22T07:17:10.296Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T06:51:20.474Z",
+      "status": "skipped",
+      "note": "No food guide to check. Plate photo was not filed.",
+      "updated": "2026-10-22T07:17:10.363Z",
       "reworkCount": 0
     }
   },
@@ -782,15 +782,56 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "ca-mau",
-    "stage": "destination",
-    "item": null,
-    "at": "2026-10-22T07:07:31.921Z",
-    "by": "ca-mau-page",
-    "branch": ""
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T07:17:10.363Z",
+      "place": "ca-mau",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "skipped",
+      "note": "No food guide to check. Plate photo was not filed."
+    },
+    {
+      "at": "2026-10-22T07:17:10.296Z",
+      "place": "ca-mau",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "skipped",
+      "note": "No food guide to copy. Plate photo was not filed."
+    },
+    {
+      "at": "2026-10-22T07:17:10.233Z",
+      "place": "ca-mau",
+      "stage": "food",
+      "item": null,
+      "status": "skipped",
+      "note": "No licensed plate photo in the dossier. No food guide file, no dish pages, no Food chip, no interests.food."
+    },
+    {
+      "at": "2026-10-22T07:17:10.165Z",
+      "place": "ca-mau",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Read against the dossier. No city pin. No sight card. Disagreements are printed, not averaged. No licensed photo met the hero brief."
+    },
+    {
+      "at": "2026-10-22T07:16:43.405Z",
+      "place": "ca-mau",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Prose keeps every disagreeing clock, fee, and kilometer. No hero photo: opened Commons frames failed the marker-mangrove-sea brief. Questions in research/ca-mau/questions.md."
+    },
+    {
+      "at": "2026-10-22T07:16:05.559Z",
+      "place": "ca-mau",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place shell, local interest groups, one day itinerary, season, and Can Tho nearby. No sight cards: no licensed photo. No food guide file, no dish pages, no Food chip. Lat and lng unset. Gate hours, airport clocks, expressway minutes, U Minh Ha fees, and cape kilometers are all printed."
+    },
     {
       "at": "2026-10-22T06:51:20.474Z",
       "place": "ca-mau",
