@@ -1,0 +1,43 @@
+{
+  "slug": "xo-viet-museum",
+  "placeSlug": "vinh",
+  "name": "Nghe Tinh Soviet Museum",
+  "nameVi": "Bảo tàng Xô viết Nghệ Tĩnh",
+  "kicker": "The 1930–1931 rooms in the citadel yard",
+  "summary": "Walk the rooms of the 1930–1931 movement in the citadel yard. A 2025 news page says more than 5,000 objects and photographs, and outdoor space next to the walls, nearly 2 km from the square. A street number was not on that page. Opening hours and a fee were not printed. This is not Bảo tàng Nghệ An on Đào Tấn.",
+  "dots": 3,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "In the citadel yard, nearly 2 km from the square.",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The front of Bảo tàng Xô viết Nghệ Tĩnh",
+  "notice": {
+    "title": "This is not the provincial museum",
+    "body": "Bảo tàng Nghệ An is the one the city roundup places on Đào Tấn. This building is the Xô viết museum, in the citadel yard."
+  },
+  "gettingThere": [
+    "The 2025 news page puts the museum in the citadel yard, nearly 2 km from the square, with outdoor space next to the walls. A street number was not on that page. Check on arrival. The minutes were not printed."
+  ],
+  "legs": [
+    {
+      "heading": "From Ho Chi Minh Square",
+      "body": "With the citadel, nearly 2 km on the 2025 news page. The minutes were not printed. Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Opening hours were not printed. Check on arrival.",
+  "admissionNote": "No fee was printed. Check on arrival.",
+  "links": [
+    {
+      "label": "48 hours in Vinh",
+      "url": "https://vnexpress.net/48-gio-kham-pha-thanh-pho-vinh-4880720.html",
+      "note": "VnExpress, 3 May 2025. More than 5,000 objects, nearly 2 km from the square."
+    },
+    {
+      "label": "Vinh on the national tourism page",
+      "url": "https://vietnamtourism.vn/index.php/tourism/items/2684",
+      "note": "Lists this museum separately from Bảo tàng Nghệ An and Bảo tàng Quân khu IV."
+    }
+  ],
+  "interests": ["warHistory"]
+}
