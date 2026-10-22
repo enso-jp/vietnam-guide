@@ -29,6 +29,7 @@
       "name": "City beach",
       "minutes": 60,
       "placeSlug": "quy-nhon",
+      "attractionSlug": "city-beach",
       "note": "Day one. The portal’s visit field is 60 minutes. A beach day is longer than that field. The beach is free."
     },
     {
@@ -41,18 +42,21 @@
       "name": "Thi Nai bridge",
       "minutes": 30,
       "placeSlug": "quy-nhon",
+      "attractionSlug": "thi-nai-bridge",
       "note": "Day one. The portal’s visit field is 30 minutes. It is a road. Minutes from the beach are check on arrival."
     },
     {
       "name": "Eo Gio",
       "minutes": 30,
       "placeSlug": "quy-nhon",
+      "attractionSlug": "eo-gio",
       "note": "Day two. The portal’s visit field is 30 minutes. The fee is 25,000 đồng. Kilometres from the beach are check on arrival."
     },
     {
       "name": "Ky Co",
       "minutes": 60,
       "placeSlug": "quy-nhon",
+      "attractionSlug": "ky-co",
       "note": "Day two. The portal’s visit field is 60 minutes. A swim is longer than that field. Read the 30,000–60,000 đồng board before you pay."
     }
   ],

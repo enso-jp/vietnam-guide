@@ -1,0 +1,36 @@
+{
+  "slug": "city-beach",
+  "placeSlug": "quy-nhon",
+  "name": "Quy Nhon beach",
+  "nameVi": "Bãi biển Quy Nhơn",
+  "kicker": "The yellow crescent in the center of the city",
+  "summary": "Swim the yellow crescent in the center of Quy Nhon. The sand is a walk from the rooms, and the beach is free. Skip it only if you came for Kỳ Co, which is a different cove nearly 25 km away.",
+  "dots": 5,
+  "timeNeeded": "60 minutes on the portal. A beach day is longer.",
+  "fee": "Free",
+  "getThere": "A walk from the center if you sleep on the crescent.",
+  "bestMonths": "Check on arrival",
+  "verified": "21 Oct 2026",
+  "heroCaption": "The crescent from the hill: sand, surf, and the roofs along the beach",
+  "gettingThere": [
+    "The portal header places Bãi biển Quy Nhơn in Phường Quy Nhơn. If you sleep on the crescent, the sand is a walk from the center. No minute count is printed.",
+    "Kỳ Co is not this beach. It is nearly 25 km away, and that page does not split the distance into road and boat."
+  ],
+  "legs": [
+    {
+      "heading": "From the crescent",
+      "body": "Walk. The portal does not print a minute count from a named hotel, and no hotel is a pick."
+    }
+  ],
+  "hours": "6:00–23:00",
+  "closed": "No weekly closing day is printed.",
+  "admissionNote": "Free on the portal. A chair or an umbrella is check on arrival.",
+  "links": [
+    {
+      "label": "Bãi biển Quy Nhơn",
+      "url": "https://dulichquynhon.binhdinh.gov.vn/vi/bienquynhon",
+      "note": "Bình Định tourism portal"
+    }
+  ],
+  "interests": ["beaches"]
+}
