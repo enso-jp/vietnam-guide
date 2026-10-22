@@ -1,0 +1,51 @@
+{
+  "slug": "hoa-lo",
+  "placeSlug": "hanoi",
+  "name": "Hoa Lo Prison",
+  "nameVi": "Nhà tù Hỏa Lò",
+  "kicker": "The remaining prison at 1 Hoa Lo",
+  "summary": "Walk the remaining prison at 1 Hoa Lo, in Cua Nam. The relic opens 8:00 to 17:00 every day, including holidays, and it does not close for lunch. An adult ticket is 50,000 VND. Under 16 is free. Do not leave it for a midday break the site says it does not take.",
+  "dots": 4,
+  "timeNeeded": "Check on arrival",
+  "fee": "50,000 VND",
+  "getThere": "Walk south from Hoan Kiem",
+  "district": "Cua Nam",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The Maison Centrale gate at Hoa Lo",
+  "notice": {
+    "title": "No lunch closing",
+    "body": "The relic page says the gate is open 8:00 to 17:00 every day, including holidays, with no lunch break."
+  },
+  "body": [
+    "The visit is the remaining prison buildings and the yard at 1 Hoa Lo, Cua Nam ward. The gate still carries the Maison Centrale name. Give it a morning or an early afternoon. The minutes on site were not published. Check on arrival.",
+    "The relic’s own ticket page prints 8:00 to 17:00 every day, including holidays, with no lunch break. An adult pays 50,000 VND. Half price is 25,000 VND for the groups that page lists. Under 16 is free. The walk south from Hoan Kiem has no published minute count. Check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "hanoi-hoa-lo-2",
+      "caption": "The same gate, with visitors at the entrance",
+      "alt": "Visitors at the Hoa Lo prison gate in Hanoi"
+    }
+  ],
+  "gettingThere": [
+    "The address is 1 Hoa Lo, Cua Nam. Walk south from Hoan Kiem Lake. No minute count was on the relic page. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Hoan Kiem",
+      "body": "Walk south. The minutes are check on arrival."
+    }
+  ],
+  "hours": "8:00–17:00 every day, including holidays. No lunch break.",
+  "admissionNote": "Adult 50,000 VND. Half price 25,000 VND for the groups the relic lists. Free under 16.",
+  "links": [
+    {
+      "label": "Hoa Lo ticket page",
+      "url": "https://hoalo.vn/Articles/4/26034/thong-tin-ve-gia-ve-tham-quan-ban-ngay.html",
+      "note": "Hours and the 50,000 VND adult ticket."
+    }
+  ],
+  "interests": [
+    "warHistory"
+  ]
+}

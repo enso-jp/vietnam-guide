@@ -1,0 +1,51 @@
+{
+  "slug": "fine-arts",
+  "placeSlug": "hanoi",
+  "name": "Vietnam National Fine Arts Museum",
+  "nameVi": "Bảo tàng Mỹ thuật Việt Nam",
+  "kicker": "Galleries at 66 Nguyen Thai Hoc",
+  "summary": "Walk the galleries at 66 Nguyen Thai Hoc, in Ba Dinh. The museum opened to the public in 1966. About 2,000 works are on display, and the Vietnamese home page says the collection holds nearly 20,000. The door fee and the hours were not on the pages opened here. Check both on arrival.",
+  "dots": 3,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Walk from the Temple of Literature",
+  "district": "Ba Dinh",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The exterior of the Fine Arts Museum",
+  "notice": {
+    "title": "No published door fee",
+    "body": "The museum pages opened on 22 October 2026 give the address, the opening year, and the size of the collection. They do not give hours or a ticket price."
+  },
+  "body": [
+    "The building is at 66 Nguyen Thai Hoc, Ba Dinh, a short walk from the Temple of Literature. The English about page says the museum opened to the public in 1966 and that about 2,000 works are on display. The Vietnamese home page says the collection holds nearly 20,000 works.",
+    "Hours and the door fee were not on those pages. Both are check on arrival. The walk from the Temple of Literature has no published minute count."
+  ],
+  "figures": [
+    {
+      "id": "hanoi-fine-arts-2",
+      "caption": "A gallery room inside the museum",
+      "alt": "A gallery inside the Vietnam National Fine Arts Museum"
+    }
+  ],
+  "gettingThere": [
+    "66 Nguyen Thai Hoc, Ba Dinh. Walk from the Temple of Literature. The minutes are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the Temple of Literature",
+      "body": "Walk. The minutes are check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "admissionNote": "Check on arrival. No fee was printed on the pages opened.",
+  "links": [
+    {
+      "label": "Museum about page",
+      "url": "https://vnfam.vn/en/about",
+      "note": "Address, 1966, and about 2,000 works on display."
+    }
+  ],
+  "interests": [
+    "photography"
+  ]
+}

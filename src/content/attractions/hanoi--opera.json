@@ -1,0 +1,30 @@
+{
+  "slug": "opera",
+  "placeSlug": "hanoi",
+  "name": "Hanoi Opera House",
+  "nameVi": "Nhà hát Lớn Hà Nội",
+  "kicker": "The opera house at 1 Trang Tien",
+  "summary": "See the building at 1 Trang Tien, south of the lake. Vietnam Tourism says it was refurbished in 1997 and is currently under renovation, and it says to check the website for admission. No ticket price and no hour were copied from a blog. Both are check on arrival.",
+  "dots": 3,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Walk south from Hoan Kiem",
+  "district": "Hoan Kiem",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The Hanoi Opera House from the square",
+  "gettingThere": [
+    "Walk south from Hoan Kiem to 1 Trang Tien. The minutes are check on arrival."
+  ],
+  "hours": "Check on arrival. Vietnam Tourism says the house is under renovation and to check the website.",
+  "admissionNote": "Check on arrival. No door price was taken from the tourism page, because that page says to check the website.",
+  "links": [
+    {
+      "label": "Vietnam Tourism, Hanoi sights",
+      "url": "https://vietnam.travel/things-to-do/11-must-see-attractions-ha-noi",
+      "note": "Renovation note and the 1997 refurbishment."
+    }
+  ],
+  "interests": [
+    "photography"
+  ]
+}

@@ -224,6 +224,10 @@ Ly Thái Tổ named the city Thăng Long in 1010 (S10). The Old Quarter is its o
 - Photo must show: the theatre exterior and its sign. One clean frame exists. A second frame carries a watermark and shows people in the water more than the puppets. Reject it. Stub, no body.
 - Sources: S10
 
+### Published after a licensed photo passed
+
+Ngoc Son (The Huc bridge and the temple court), the Museum of Ethnology (outdoor houses), the National Museum of History (the Trang Tien facade), and Tran Quoc (the stupa) each received a licensed frame after the first photo pass. Tran Quoc’s fee and hours stay Check on arrival because the only clock was a single airline page.
+
 ### Unpublished: no licensed photo
 
 These stay in the dossier and off the card grid.

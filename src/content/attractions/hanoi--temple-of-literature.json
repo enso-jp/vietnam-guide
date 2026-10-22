@@ -2,14 +2,45 @@
   "slug": "temple-of-literature",
   "placeSlug": "hanoi",
   "name": "Temple of Literature",
-  "summary": "A Confucian temple and Vietnam’s first national university, with quiet courtyards west of the old commercial streets.",
+  "nameVi": "Văn Miếu – Quốc Tử Giám",
+  "kicker": "The 1070 temple and the 1076 university",
+  "summary": "Walk the courtyards of the Confucian temple at 58 Quoc Tu Giam. The operator and Vietnam Tourism both print a 70,000 VND daytime ticket, and they do not agree on the hours or the night price. The operator does not print a night fee. Vietnam Tourism prints 199,000 VND.",
   "dots": 4,
-  "timeNeeded": "1 hour",
-  "fee": "Paid entry; confirm at the gate",
-  "getThere": "10–15 minutes by Grab from Hoan Kiem",
+  "timeNeeded": "Check on arrival",
+  "fee": "70,000 VND. Night price differs.",
+  "getThere": "Metro Line 3, Van Mieu. The walk is check on arrival.",
+  "district": "Dong Da",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The Khue Van gate at the Temple of Literature",
+  "gettingThere": [
+    "Metro Line 3 stops at Van Mieu. The walk from that station to the gate at 58 Quoc Tu Giam was not given a minute count. Check on arrival. A ride from Hoan Kiem is also check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Van Mieu station",
+      "body": "Metro Line 3. The walk to 58 Quoc Tu Giam is check on arrival."
+    },
+    {
+      "heading": "From Hoan Kiem",
+      "body": "By car or motorbike. No published minute count. Check on arrival."
+    }
+  ],
+  "hours": "Operator: 8:00–17:00 every day, and an evening programme 18:00–22:00 on Wednesday, Saturday, and Sunday. Vietnam Tourism: 8:00–17:00 from November to March and 7:30–18:00 the rest of the year, Tuesday to Sunday, with a night visit 18:30–21:30.",
+  "closed": "The operator prints every day. Vietnam Tourism prints Tuesday to Sunday for the daytime visit. Both stay.",
+  "admissionNote": "Standard daytime ticket 70,000 VND on both the operator page and Vietnam Tourism. The operator also prints a priority ticket of 35,000 VND and free entry under 16, and says the night ticket is separate with no price printed. Vietnam Tourism prints a night tour at 199,000 VND. Do not treat 199,000 as the only night fee.",
+  "links": [
+    {
+      "label": "Van Mieu visitor information",
+      "url": "https://vanmieu.gov.vn/en/introduction/visitor-information",
+      "note": "Operator hours and the 70,000 VND ticket."
+    },
+    {
+      "label": "Vietnam Tourism, Hanoi sights",
+      "url": "https://vietnam.travel/things-to-do/11-must-see-attractions-ha-noi",
+      "note": "A second hour table and a 199,000 VND night figure."
+    }
+  ],
   "interests": [
     "pagodas"
-  ],
-  "nameVi": "Văn Miếu",
-  "district": "Dong Da"
+  ]
 }
