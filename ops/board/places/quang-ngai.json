@@ -117,11 +117,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced. Not the Đà Nẵng beach. Photo unpublished. A page waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.572Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No My Khe page to check. The swim stays in the place text.",
+      "updated": "2026-10-22T04:54:23.974Z",
       "reworkCount": 0
     },
     {
@@ -130,14 +130,14 @@
       "track": "unit",
       "name": "Thien An mountain",
       "slug": "thien-an",
-      "file": null,
+      "file": "src/content/attractions/quang-ngai--thien-an.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
+      "page": "paged",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Sourced. 100 m and 105 m both kept. Photo unpublished. A page waits until publish is accepted.",
-      "updated": "2026-10-22T04:18:15.572Z",
+      "note": "Hill page. Both heights and both years kept. Fee and hours Check on arrival. Dot 4 on a new record. 1627 was not used.",
+      "updated": "2026-10-22T04:55:10.445Z",
       "reworkCount": 0
     },
     {
@@ -577,6 +577,38 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-22T04:55:10.412Z",
+      "place": "quang-ngai",
+      "stage": "page",
+      "item": "quang-ngai--thien-an",
+      "status": "paged",
+      "note": "Hill page. Both heights and both years kept. Fee and hours Check on arrival. Dot 4 on a new record. 1627 was not used."
+    },
+    {
+      "at": "2026-10-22T04:54:23.974Z",
+      "place": "quang-ngai",
+      "stage": "quality",
+      "item": "quang-ngai--my-khe",
+      "status": "skipped",
+      "note": "No My Khe page to check. The swim stays in the place text."
+    },
+    {
+      "at": "2026-10-22T04:54:23.911Z",
+      "place": "quang-ngai",
+      "stage": "copy",
+      "item": "quang-ngai--my-khe",
+      "status": "skipped",
+      "note": "No My Khe page to enrich. No licensed photo of this beach."
+    },
+    {
+      "at": "2026-10-22T04:54:23.849Z",
+      "place": "quang-ngai",
+      "stage": "page",
+      "item": "quang-ngai--my-khe",
+      "status": "skipped",
+      "note": "No licensed photo of this beach. Khe Hai and a Duc Pho military frame are not My Khe. No sight card."
+    },
+    {
       "at": "2026-10-22T04:54:15.953Z",
       "place": "quang-ngai",
       "stage": "quality",
@@ -703,38 +735,6 @@
       "item": null,
       "status": "stored",
       "note": "left out Núi Răng Cưa, Chùa Ông, the provincial museum, Minh Đức, official Sơn Mỹ fees and hours, and minutes from the center."
-    },
-    {
-      "at": "2026-10-22T04:18:13.622Z",
-      "place": "quang-ngai",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "left out flight minutes, the airport’s post-merger province name, road minutes from Hội An, Đà Nẵng, and Quy Nhơn, rail fares and the table’s revision date, a chosen Sa Kỳ kilometre, and boat minutes."
-    },
-    {
-      "at": "2026-10-22T04:17:48.276Z",
-      "place": "quang-ngai",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Festivals and side trips are in. Still open: solar dates, Lý Sơn and Sa Huỳnh dossiers, and road minutes."
-    },
-    {
-      "at": "2026-10-22T04:17:47.689Z",
-      "place": "quang-ngai",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The ordinary day is in. Still open: a named cafe street and a city-wide quiet hour."
-    },
-    {
-      "at": "2026-10-22T04:17:47.541Z",
-      "place": "quang-ngai",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The weekend river street is in. Still open: a bar street, which was not found, and the quiet hour on nights the street is dark."
     }
   ]
 }

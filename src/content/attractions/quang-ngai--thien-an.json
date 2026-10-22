@@ -1,0 +1,55 @@
+{
+  "slug": "thien-an",
+  "placeSlug": "quang-ngai",
+  "name": "Thien An mountain",
+  "nameVi": "Núi Thiên Ấn",
+  "kicker": "Pagoda hill on the left bank",
+  "summary": "Climb the seal-shaped hill on the left bank for the old pagoda and the tomb of Huỳnh Thúc Kháng. The bureau prints the hill at 100 m and a plaque granted in 1716. The library prints 105 m, and a pagoda built in Ất Hợi 1695. Both heights stay. Both years stay. Neither page prints a ticket or a gate hour. Check on arrival. Go in the morning, before the April to August heat.",
+  "dots": 4,
+  "timeNeeded": "A morning",
+  "fee": "Check on arrival",
+  "getThere": "About 2 km from cầu Trà Khúc 1. Minutes are check on arrival.",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The courtyard, the seated Buddha, and the gates",
+  "notice": {
+    "title": "Two heights, and two years",
+    "body": "The bureau prints 100 m and a plaque Nguyễn Phúc Chu granted in 1716. The library prints 105 m, and a pagoda built in Ất Hợi 1695 by thiền sư Pháp Hóa. They are different facts. Do not pick one."
+  },
+  "body": [
+    "The hill is on the left bank, at xã Tịnh Ấn. You climb to the pagoda and to the tomb of Huỳnh Thúc Kháng (1876–1947). The mountain, the pagoda, and the tomb were ranked a national relic in 1990. The bureau prints the hill at 100 m. The library prints 105 m. Both stay.",
+    "The bureau says Nguyễn Phúc Chu granted a plaque in 1716. The library says thiền sư Pháp Hóa built the pagoda in Ất Hợi 1695. The plaque year and the building year are different facts. Both stay. The library’s distance is about 2 km from cầu Trà Khúc 1. Neither page prints a ticket or a gate hour. Check on arrival.",
+    "Go in the morning, before the heat the bureau puts in April to August. It is a morning on the hill, not a whole day."
+  ],
+  "figures": [
+    {
+      "id": "quang-ngai-thien-an-2",
+      "caption": "The standing figure, face and gesture",
+      "alt": "White standing Buddha at Thien An, face and raised hand, with leaves at the right"
+    }
+  ],
+  "gettingThere": [
+    "The library prints about 2 km from cầu Trà Khúc 1, on the left bank at xã Tịnh Ấn. It does not print the minutes or a fare. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From cầu Trà Khúc 1",
+      "body": "About 2 km on the library page. The minutes are check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day is printed on the bureau or library page.",
+  "admissionNote": "Neither the bureau page nor the library page prints a ticket. No child rule was printed. Check on arrival.",
+  "links": [
+    {
+      "label": "Thien An on the tourism bureau",
+      "url": "https://vietnamtourism.vn/index.php/tourism/items/2205",
+      "note": "Cục Du lịch Quốc gia Việt Nam. Height 100 m on this page."
+    },
+    {
+      "label": "Provincial library",
+      "url": "https://thuvientinh.quangngai.gov.vn/ve-tham-son-my-di-qua-nhung-dia-danh/",
+      "note": "Height 105 m and the 1695 building year on this page."
+    }
+  ],
+  "interests": ["pagodas"]
+}
