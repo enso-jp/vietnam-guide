@@ -414,7 +414,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "son-la",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-22T04:29:13.604Z",
+    "by": "son-la-page",
+    "branch": "cursor/son-la-destination-db6e"
+  },
   "log": [
     {
       "at": "2026-10-22T04:18:12.744Z",
