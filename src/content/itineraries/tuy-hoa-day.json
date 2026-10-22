@@ -1,0 +1,52 @@
+{
+  "slug": "tuy-hoa-day",
+  "title": "Tuy Hoa in a day",
+  "kind": "trip",
+  "level": "day",
+  "duration": "1 day",
+  "spanDays": 1,
+  "placeSlug": "tuy-hoa",
+  "budget": "Check on arrival",
+  "pace": "Moderate",
+  "photo": "tuy-hoa-tuy-hoa-beach",
+  "summary": "A day on the Độc Lập beach, then the tower and the river. The afternoon can go north to the plates or south to the cape. Time on each stop is check on arrival.",
+  "days": [
+    {
+      "title": "The sand, the tower, then the river",
+      "body": "Start with a swim or a walk on the city beach along Độc Lập. One page prints a front longer than 10 km. The night page prints about 10 km. Late morning can be a bowl of bánh canh hẹ at chợ Tuy Hòa. The handbook says it is sold all day. Market hours are check on arrival. Give the middle of the day to Tháp Nhạn on the north bank. The afternoon can go north to the stone plates or south to Bãi Môn–Mũi Đại Lãnh. The minutes for those drives were not printed. Come back to Độc Lập or to Quảng trường 1/4. On Saturday the tower-yard show is 19:30. Its length is check on arrival.",
+      "placeSlug": "tuy-hoa",
+      "photo": "tuy-hoa-tuy-hoa-beach"
+    }
+  ],
+  "stops": [
+    {
+      "name": "Tuy Hoa beach",
+      "minutes": "Check on arrival",
+      "placeSlug": "tuy-hoa",
+      "attractionSlug": "tuy-hoa-beach",
+      "note": "The morning swim and the evening walk on Độc Lập. A timed walk was not printed."
+    },
+    {
+      "name": "Nhan Tower",
+      "minutes": "Check on arrival",
+      "placeSlug": "tuy-hoa",
+      "attractionSlug": "thap-nhan",
+      "note": "The brick tower on the north bank. Nearly 23,5 m and 12,4 m are different measurements."
+    },
+    {
+      "name": "Da Rang",
+      "minutes": "Check on arrival",
+      "placeSlug": "tuy-hoa",
+      "attractionSlug": "da-rang",
+      "note": "The river under the hill. 21 spans, and no metre length."
+    },
+    {
+      "name": "April First square",
+      "minutes": "Check on arrival",
+      "placeSlug": "tuy-hoa",
+      "note": "The center evening. A street number was not printed."
+    }
+  ],
+  "seoTitle": "Tuy Hoa in a day — beach, tower, and the river",
+  "seoDescription": "One day in Tuy Hoa: the Độc Lập beach, Tháp Nhạn, and the Đà Rằng. The plates and the cape are the afternoon. Minutes and fees are check on arrival."
+}
