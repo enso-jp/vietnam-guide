@@ -366,7 +366,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "cu-chi",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-22T17:20:47.251Z",
+    "by": "cu-chi-destination",
+    "branch": "cursor/cu-chi-destination-f4b0"
+  },
   "log": [
     {
       "at": "2026-10-22T17:07:51.925Z",
