@@ -2,11 +2,63 @@
   "slug": "beach",
   "placeSlug": "nha-trang",
   "name": "Nha Trang Beach",
-  "summary": "The city sand. Swim inside flagged areas.",
+  "nameVi": "Biển Nha Trang",
+  "kicker": "The city sand along Trần Phú",
+  "summary": "The city sand runs along Trần Phú. Vietnam Tourism calls this stretch seven kilometres. A beach ticket was not printed, and neither were swim hours. Check on arrival. Vietnam Tourism and the tourism bureau put the drier months in January to August. After dark the same shore is the walk, and the night market sits behind 46 Trần Phú.",
   "dots": 3,
   "timeNeeded": "Half a day",
-  "fee": "Free",
-  "getThere": "Along Tran Phu",
+  "fee": "Check on arrival",
+  "getThere": "You are on Trần Phú. From the airport, minutes were not printed.",
+  "district": "Trần Phú",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The city sand, the wash, and the towers along Trần Phú",
+  "notice": {
+    "title": "A beach ticket was not printed",
+    "body": "Do not treat this shore as free. A beach ticket was not printed. A swim clock was not printed. Check on arrival."
+  },
+  "body": [
+    "This is the beach the city is for. Vietnam Tourism treats Nha Trang Beach as the day on the sand and calls Trần Phú a seven-kilometre beach. Hotels face that shore. The evening walk is the same sand, not a second beach.",
+    "Vietnam Tourism and the tourism bureau both call January to August the dry season and September to December the rainy season. The tourism bureau prints an average of 26°C. A rescuer’s duty clock was not printed. Chair hire was not printed.",
+    "The night market is not on the towel. It is the 137 m walking street behind the cultural centre at 46 Trần Phú, in Lộc Thọ. The provincial digital guide says entry is free. A closing hour was not printed."
+  ],
+  "figures": [
+    {
+      "id": "nha-trang-beach-2",
+      "caption": "Swimmers in the wash, from the same photograph as the long shore",
+      "alt": "People standing in the shallow water on Nha Trang’s city beach"
+    }
+  ],
+  "gettingThere": [
+    "The sand is Trần Phú. From a hotel on that road you walk out. From Cam Ranh, the AIP says 27 km from the centre, the city lying to the north, and Vietnam Tourism says about 30 km south. The minutes were not printed. Shuttles, taxis, and ride-hailing are the modes Vietnam Tourism names."
+  ],
+  "legs": [
+    {
+      "heading": "From Trần Phú",
+      "body": "You are already on the beach road. The night market is behind 46 Trần Phú."
+    },
+    {
+      "heading": "From the airport",
+      "body": "27 km on the AIP, about 30 km on Vietnam Tourism. Minutes were not printed."
+    },
+    {
+      "heading": "From the station",
+      "body": "The station is in the centre. The street and the minutes to the sand were not printed."
+    }
+  ],
+  "hours": "A swim clock was not printed. Check on arrival.",
+  "admissionNote": "A beach ticket was not printed. Check on arrival. Island boats and the cable are separate.",
+  "links": [
+    {
+      "label": "Nha Trang on Vietnam Tourism",
+      "url": "https://vietnam.travel/places-to-go/south-central-coast-central-highlands/nha-trang",
+      "note": "The day beach, and the airport at about 30 km."
+    },
+    {
+      "label": "Seven reasons to visit",
+      "url": "https://vietnam.travel/things-to-do/7-reasons-visit-nha-trang",
+      "note": "Trần Phú as a seven-kilometre beach."
+    }
+  ],
   "interests": [
     "beaches"
   ]

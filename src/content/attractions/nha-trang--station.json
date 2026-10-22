@@ -1,0 +1,56 @@
+{
+  "slug": "station",
+  "placeSlug": "nha-trang",
+  "name": "Ga Nha Trang",
+  "nameVi": "Ga Nha Trang",
+  "kicker": "The station front in the centre",
+  "summary": "Ga Nha Trang is the station Vietnam Tourism places in the centre. The timetable puts it at km 1315 from Hà Nội and km 411 from Sài Gòn. A street number was not printed. Check on arrival. Southbound from Hà Nội the five trains take 24 hours 57 minutes to 28 hours 3 minutes.",
+  "dots": 2,
+  "timeNeeded": "A stop on the way",
+  "fee": "Check on arrival",
+  "getThere": "In the centre. The street was not printed.",
+  "district": "The centre",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The station front, with the Ga Nha Trang letters over the doors",
+  "body": [
+    "Vietnam Tourism says the train station is in the centre and names it as a way into the city, with the airport to the south. A street number was not printed. The national railway timetable puts Nha Trang at km 1315 from Hà Nội and km 411 from Sài Gòn. Southbound trains are SE7, SE5, SE9, SE3, and SE1. Northbound train codes were not printed.",
+    "Southbound from Hà Nội is 24 hours 57 minutes to 28 hours 3 minutes. Southbound from Đà Nẵng is 9 hours 13 minutes to 11 hours. Northbound to Đà Nẵng is 9 hours 30 minutes to 11 hours 1 minute. Southbound to Sài Gòn is 7 hours 48 minutes to 10 hours 23 minutes. Northbound from Sài Gòn is 7 hours 16 minutes to 8 hours 43 minutes. Check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "nha-trang-station-2",
+      "caption": "The clock and the station name, from the same front",
+      "alt": "Closer view of the Ga Nha Trang sign"
+    }
+  ],
+  "gettingThere": [
+    "The station is in the centre. Minutes from Trần Phú were not printed. From Sài Gòn or Đà Nẵng, use the spans above. They are the range across five trains, not one timetable cell."
+  ],
+  "legs": [
+    {
+      "heading": "From Sài Gòn",
+      "body": "Km 411 northbound, 7 hours 16 minutes to 8 hours 43 minutes. Southbound into Sài Gòn is 7 hours 48 minutes to 10 hours 23 minutes."
+    },
+    {
+      "heading": "From the beach",
+      "body": "The station is in the centre. Minutes were not printed."
+    }
+  ],
+  "hours": "Train clocks are the timetable spans, not a station-door hour. A door hour was not printed.",
+  "admissionNote": "A fare was not printed. Check on arrival.",
+  "links": [
+    {
+      "label": "Nha Trang on Vietnam Tourism",
+      "url": "https://vietnam.travel/places-to-go/south-central-coast-central-highlands/nha-trang",
+      "note": "The station in the centre."
+    },
+    {
+      "label": "Vietnam Railways timetable",
+      "url": "https://giotaugiave.dsvn.vn/",
+      "note": "Km posts and the train spans."
+    }
+  ],
+  "interests": [
+    "photography"
+  ]
+}

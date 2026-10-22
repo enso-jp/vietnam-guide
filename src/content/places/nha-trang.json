@@ -5,126 +5,234 @@
   "kind": "city",
   "corridor": "south-central-highlands",
   "province": "Khanh Hoa",
-  "provinceNote": "Khanh Hoa now includes the former Ninh Thuan province.",
-  "lat": 12.238,
-  "lng": 109.197,
+  "provinceNote": "Nha Trang is a city in Khánh Hòa. Resolution 202/2025/QH15 joins the former Ninh Thuận province into Khánh Hòa, keeps that name, and prints 8,555.86 km² and 2,243,554 people. The new provincial governments operate from 1 July 2025.",
+  "lat": 12.247185,
+  "lng": 109.189207,
   "dots": 3,
   "dotReason": "Worth it if you are already nearby",
-  "summary": "Nha Trang is a beach city with a long municipal sand strip, island boat trips, and a mud-bath industry. Stay if you want the sea between Da Lat and the south. The city beach is busier and less wild than Phu Quoc.",
+  "summary": "Nha Trang is the beach city on the Khánh Hòa coast, with a seven-kilometre city sand on Trần Phú, Cham towers about two kilometres north, and a bay of nineteen islands. The AIP places Cam Ranh 27 km from the centre, the city to the north. Vietnam Tourism says about 30 km south. The dry months both name are January to August.",
   "timeNeeded": "2 days",
-  "fee": "Beach is free; island tours are paid",
-  "getThere": "Flights from Hanoi and Ho Chi Minh City, or a sleeper train and bus",
-  "bestMonths": "February to September",
-  "verified": "19 Oct 2026",
+  "fee": "No single city ticket. A beach ticket was not printed. Check on arrival.",
+  "getThere": "Cam Ranh airport is south of the city. The train station is in the centre. Minutes were not printed.",
+  "bestMonths": "January to August",
+  "verified": "22 Oct 2026",
   "interests": {
+    "food": 4,
     "beaches": 5,
-    "islands": 3,
+    "islands": 4,
+    "resortLiving": 4,
     "family": 3,
-    "food": 3,
-    "resortLiving": 4
+    "pagodas": 3,
+    "markets": 3,
+    "photography": 3,
+    "nightlife": 3
   },
   "cover": "coast",
   "nearby": [
     "da-lat",
-    "mui-ne"
+    "mui-ne",
+    "tuy-hoa",
+    "quy-nhon",
+    "ho-chi-minh-city"
   ],
+  "foodSlug": "nha-trang",
   "routeSlugs": [],
   "itinerarySlugs": [
+    "nha-trang-day",
     "south-5-days"
   ],
-  "seoTitle": "Nha Trang travel guide",
-  "seoDescription": "When Nha Trang’s sea is calm, and what a two-day beach stop actually includes.",
+  "seoTitle": "Nha Trang travel guide — beach, towers, and the bay",
+  "seoDescription": "Nha Trang’s city beach runs seven kilometres on Trần Phú. The AIP places Cam Ranh 27 km from the centre. Vietnam Tourism says about 30 km. Dry months are January to August.",
   "intro": [
-    "The city beach runs along Tran Phu. Hotels face the sand, and the evenings belong to seafood rooms and the promenade. Islands in the bay are a boat day.",
-    "The Po Nagar Cham towers, just north of the center, are the historical stop and take under an hour."
+    "The day starts on the city sand. Vietnam Tourism calls Trần Phú a seven-kilometre beach and treats that shore as the daytime beach. After dark the same sand is the walk. The night market is the 137 m street behind 46 Trần Phú.",
+    "Po Nagar sits about 2 km north of the centre, in both the provincial digital guide and the provincial tourism department. The seated white Buddha is at Long Sơn, 22 đường 23 tháng 10. Vietnam Tourism and the tourism bureau name nineteen islands. Hòn Tre is the cable crossing. Hòn Mun is the swim shore.",
+    "The two airport distances both stay. The AIP places Cam Ranh 27 km from the centre of Nha Trang, the city to the north. Vietnam Tourism says about 30 km south. The minutes were not printed. The station is in the centre. The street of the station was not printed."
   ],
   "gettingAround": [
-    "The airport is a short ride from the beach. Grab works. Island boats leave from the tourist port; book the afternoon you want, not a harbor scramble."
+    "From the airport, Vietnam Tourism names shuttles, taxis, and ride-hailing. It does not name a fare. Ride minutes inside the city were not printed. Po Nagar is about 2 km north. The tourism bureau measures the cable to Hòn Tre at 3,320 m.",
+    "The railway timetable puts Nha Trang at km 1315 from Hà Nội and km 411 from Sài Gòn. Southbound from Hà Nội the five trains run 24 hours 57 minutes to 28 hours 3 minutes. Southbound from Đà Nẵng is 9 hours 13 minutes to 11 hours. Northbound to Đà Nẵng is 9 hours 30 minutes to 11 hours 1 minute. Southbound to Sài Gòn is 7 hours 48 minutes to 10 hours 23 minutes. Northbound from Sài Gòn is 7 hours 16 minutes to 8 hours 43 minutes. Southbound from Tuy Hòa is 2 hours 4 minutes to 2 hours 44 minutes. Northbound to Tuy Hòa is 2 hours 6 minutes to 2 hours 19 minutes on the four trains that print a time. One northbound train leaves the Tuy Hòa cell blank. A station fare was not printed."
   ],
   "stayAreas": [
     {
-      "name": "Tran Phu beach",
-      "summary": "The straightforward base, on the sand.",
-      "band": "Hotels and resorts"
+      "name": "Trần Phú",
+      "summary": "The city sand and the hotel row. The night market is behind 46 Trần Phú.",
+      "band": "Check on arrival",
+      "photo": "nha-trang-city-sand"
     }
   ],
   "eat": [
-    "Seafood by weight is the local risk and the local pleasure. Agree the price before it is grilled. Nem nuong is the snack to look for."
+    "The provincial digital guide names nem nướng from Ninh Hòa, bún cá from Ninh Hòa, and the night-market stalls behind 46 Trần Phú. Bánh căn is named there. What is in it was not printed.",
+    "Chợ Đầm and Chợ Xóm Mới name the market bowls. Vinpearl Harbour, the two Vincom plazas, and Nha Trang Center name the restaurant doors. Check on arrival."
   ],
-  "dishSlugs": [],
+  "dishSlugs": [
+    "nem-nuong",
+    "bun-ca-ninh-hoa",
+    "banh-can",
+    "yen-sao"
+  ],
   "interestsBody": [
-    "Beach first. Add an island or the Cham towers, then move on if you are collecting cities.",
-    "Resort living is Hon Tre island hotels and the boat-transfer villas in Ninh Van Bay."
+    "Use the city in this order. Swim or walk Trần Phú. Eat the Ninh Hòa dishes the provincial digital guide names. Cross to Hòn Tre or swim at Hòn Mun. Climb to the Cham towers and the white Buddha if the day still has light.",
+    "The night is the sand and the walking street, not a second beach. The island stay Vietnam Tourism names for families is Vinpearl Resort and Spa Nha Trang Bay, on Hòn Tre."
   ],
   "interestCards": [
     {
-      "title": "Resort Living",
-      "summary": "Vinpearl on Hon Tre and Six Senses Ninh Van Bay.",
-      "photo": "nha-trang-resort-living",
-      "icon": "bed",
-      "to": "resortLiving"
+      "title": "Dining and F&B",
+      "summary": "The night-market street behind 46 Trần Phú, and the dishes the provincial digital guide names.",
+      "photo": "nha-trang-night-market",
+      "icon": "food",
+      "to": "food"
     },
     {
-      "title": "Beaches",
-      "summary": "Tran Phu sand in front of the hotel row.",
+      "title": "The city sand",
+      "summary": "Seven kilometres of city sand. A beach ticket was not printed.",
       "attractionSlug": "beach",
       "photo": "nha-trang-beach",
       "icon": "beach"
+    },
+    {
+      "title": "The bay",
+      "summary": "The sea crossing the tourism bureau measures at 3,320 m.",
+      "attractionSlug": "hon-tre",
+      "photo": "nha-trang-hon-tre",
+      "icon": "view"
+    },
+    {
+      "title": "The Cham hill",
+      "summary": "The brick towers. Read both hour lines before you go.",
+      "attractionSlug": "po-nagar",
+      "photo": "nha-trang-po-nagar",
+      "icon": "view"
     }
   ],
   "interestGroups": [
     {
-      "title": "Resort Living",
-      "summary": "Vinpearl on Hon Tre and Six Senses Ninh Van Bay.",
+      "title": "Dining and F&B",
+      "summary": "Nem nướng and bún cá by name, then the market stalls and the doors the provincial digital guide and the tourism department name.",
       "cards": [
         {
-          "title": "Resort Living",
-          "summary": "Vinpearl on Hon Tre and Six Senses Ninh Van Bay.",
-          "photo": "nha-trang-resort-living",
-          "icon": "bed",
-          "to": "resortLiving"
+          "title": "Dining and F&B",
+          "summary": "The night-market street behind 46 Trần Phú, and the dishes the provincial digital guide names.",
+          "photo": "nha-trang-night-market",
+          "icon": "food",
+          "to": "food"
         }
       ]
     },
     {
-      "title": "Beaches",
-      "summary": "Tran Phu sand in front of the hotel row.",
+      "title": "The city sand",
+      "summary": "Trần Phú in the day, and the same shore after dark.",
       "cards": [
         {
           "title": "Nha Trang Beach",
-          "summary": "The city sand. Swim inside flagged areas.",
+          "summary": "Seven kilometres of city sand. A beach ticket was not printed.",
           "attractionSlug": "beach",
           "photo": "nha-trang-beach",
           "icon": "beach"
         }
-      ],
-      "body": [
-        "The city beach runs along Tran Phu. Hotels face the sand, and the evenings belong to seafood rooms and the promenade.",
-        "Islands in the bay are a boat day.",
-        "Seafood by weight is the local risk and the local pleasure. Agree the price before it is grilled. Nem nuong is the snack to look for."
       ]
     },
     {
-      "title": "Po Nagar",
-      "summary": "The Po Nagar Cham towers, just north of the center, are the historical stop and take under an hour.",
+      "title": "The bay",
+      "summary": "Nineteen islands. The cable is the way onto Hòn Tre. Hòn Mun is the swim.",
       "cards": [
         {
-          "title": "Po Nagar Towers",
-          "summary": "Cham towers on a hill north of the beach, still an active place of worship.",
+          "title": "Hòn Tre cable",
+          "summary": "The sea crossing the tourism bureau measures at 3,320 m.",
+          "attractionSlug": "hon-tre",
+          "photo": "nha-trang-hon-tre",
+          "icon": "view"
+        },
+        {
+          "title": "Hòn Mun shore",
+          "summary": "The swim on the island Vietnam Tourism calls a marine reserve.",
+          "attractionSlug": "hon-mun",
+          "photo": "nha-trang-hon-mun",
+          "icon": "beach"
+        }
+      ]
+    },
+    {
+      "title": "The Cham hill",
+      "summary": "Po Nagar, about 2 km north. The provincial tourism department prints a 22,000 VND ticket and a second clock.",
+      "cards": [
+        {
+          "title": "Po Nagar",
+          "summary": "The brick towers. Read both hour lines before you go.",
           "attractionSlug": "po-nagar",
           "photo": "nha-trang-po-nagar",
           "icon": "view"
         }
-      ],
-      "body": [
-        "The Po Nagar Cham towers, just north of the center, are the historical stop and take under an hour."
+      ]
+    },
+    {
+      "title": "The white Buddha",
+      "summary": "The seated figure at Long Sơn. Two height sets are printed.",
+      "cards": [
+        {
+          "title": "Long Sơn",
+          "summary": "22 đường 23 tháng 10. The provincial digital guide prints 07:00–17:30.",
+          "attractionSlug": "long-son",
+          "photo": "nha-trang-long-son",
+          "icon": "view"
+        }
+      ]
+    },
+    {
+      "title": "The rock shore",
+      "summary": "Hòn Chồng, with Hòn Vợ and Hòn Đỏ named as the neighbouring rocks.",
+      "cards": [
+        {
+          "title": "Hòn Chồng",
+          "summary": "The promontory. The provincial digital guide prints 06:00–18:00 and no ticket.",
+          "attractionSlug": "hon-chong",
+          "photo": "nha-trang-hon-chong",
+          "icon": "beach"
+        }
+      ]
+    },
+    {
+      "title": "Chợ Đầm",
+      "summary": "The market gate at Bến Chợ. An opening hour was not printed.",
+      "cards": [
+        {
+          "title": "Chợ Đầm",
+          "summary": "Free to enter. Seafood and bowls are named inside.",
+          "attractionSlug": "dam-market",
+          "photo": "nha-trang-dam-market",
+          "icon": "museum"
+        }
+      ]
+    },
+    {
+      "title": "Resort Living",
+      "summary": "Vinpearl Resort and Spa Nha Trang Bay, the family stay Vietnam Tourism names on the island.",
+      "cards": [
+        {
+          "title": "Resort Living",
+          "summary": "The island resort named for families. The cable is the crossing.",
+          "photo": "resort-nha-trang-vinpearl",
+          "icon": "bed",
+          "to": "resortLiving"
+        }
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Is the sea swimmable year-round?",
-      "a": "The calmer months are roughly February to September. Winter surf and rain make the beach a walk more than a swim."
+      "q": "When is the sea calmer?",
+      "a": "Vietnam Tourism and the tourism bureau both print a dry season from January to August and rain from September to December. The tourism bureau prints an average of 26°C. A storm-closure calendar was not printed."
+    },
+    {
+      "q": "How far is the airport?",
+      "a": "The AIP says Cam Ranh is 27 km from the centre of Nha Trang, with the city to the north. Vietnam Tourism says about 30 km south. The ride in minutes was not printed."
+    },
+    {
+      "q": "What are the Po Nagar hours and the ticket?",
+      "a": "The provincial digital guide prints 06:00–17:30 and no ticket. The provincial tourism department prints 08:00–18:00 and 22,000 VND a person a visit. From 6 to 11 May 2026 Khánh Hòa police print free entry for the festival."
     }
-  ]
+  ],
+  "season": {
+    "label": "January to August",
+    "note": "Vietnam Tourism and the tourism bureau both call January to August the dry season and September to December the rainy season. The tourism bureau prints an average of 26°C for the bay. The 2025 sea cultural-tourism festival ran 7 June–9 July. A 2026 sea-festival date was not printed. The heritage department puts Po Nagar’s annual festival at lunar 20–23 of month 3. The 2026 police notice prints 6–11 May, lunar 19–25."
+  }
 }

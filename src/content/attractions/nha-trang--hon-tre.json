@@ -1,0 +1,60 @@
+{
+  "slug": "hon-tre",
+  "placeSlug": "nha-trang",
+  "name": "Hòn Tre Cable Car",
+  "nameVi": "Cáp treo Hòn Tre",
+  "kicker": "The cable crossing to Hòn Tre",
+  "summary": "The cable is the way onto Hòn Tre. The tourism bureau prints 3,320 m, an inauguration in March 2007, and calls it the longest sea-crossing cable car in the world at that opening. Vietnam Tourism calls it the longest in Southeast Asia and prints no length. The island is over 3,000 ha from the tourism bureau and 3,323.15 ha from the provincial tourism department.",
+  "dots": 3,
+  "timeNeeded": "Half a day",
+  "fee": "Check on arrival",
+  "getThere": "The shore station. Check on arrival.",
+  "district": "The bay",
+  "verified": "22 Oct 2026",
+  "heroCaption": "A cabin on the cable, with Hòn Tre and the Vinpearl hillside across the water",
+  "notice": {
+    "title": "The length and the ranking are not the same sentence",
+    "body": "Use 3,320 m from the tourism bureau. Vietnam Tourism does not print that length. It calls the cable the longest in Southeast Asia. The bureau’s claim is the longest sea crossing at the March 2007 opening."
+  },
+  "body": [
+    "Hòn Tre is the large island in the bay. The tourism bureau says over 3,000 ha. The provincial tourism department, citing the heritage site, says 3,323.15 ha. The cable is 3,320 m from the tourism bureau, inaugurated in March 2007, and called then the longest sea-crossing cable car in the world. Vietnam Tourism calls the same crossing the longest in Southeast Asia and does not print the metres.",
+    "The provincial tourism department says Vinpearl Harbour opened on 26 January 2024 on Hòn Tre in Vĩnh Nguyên, with cable hours in both directions of 8:30–23:00 and ticket sales stopping at 22:30. After 23:00 until 02:00 it names a speedboat back to shore, the last shore boat at 02:15. Check on arrival. The bay listing hours of 09:00–22:00 are a listing clock, not a beach curfew."
+  ],
+  "figures": [
+    {
+      "id": "nha-trang-hon-tre-2",
+      "caption": "The cable and the island from the same crossing",
+      "alt": "Another frame of the Hòn Tre cable over the bay"
+    }
+  ],
+  "gettingThere": [
+    "You reach Hòn Tre by the cable from the city shore, or by boat after the cable hours from the provincial tourism department. Minutes from Trần Phú to the shore station were not printed. The crossing itself is the 3,320 m from the tourism bureau."
+  ],
+  "legs": [
+    {
+      "heading": "From Trần Phú",
+      "body": "To the shore station, then the cable. Minutes to the station were not printed."
+    },
+    {
+      "heading": "From the airport",
+      "body": "The provincial tourism department names a free bus from the airport to the Hòn Tre pier. The minutes were not printed."
+    }
+  ],
+  "hours": "Cable both ways 8:30–23:00 from the provincial tourism department. Ticket sales stop at 22:30. Last shore boat 02:15.",
+  "admissionNote": "Check on arrival.",
+  "links": [
+    {
+      "label": "Bay and cable on the tourism bureau",
+      "url": "https://vietnamtourism.vn/index.php/tourism/items/2910/",
+      "note": "3,320 m, March 2007, and the island over 3,000 ha."
+    },
+    {
+      "label": "Vinpearl Harbour",
+      "url": "https://ttdhsdl.khanhhoa.gov.vn/Shopping/Detail/22",
+      "note": "Cable hours and the late boat."
+    }
+  ],
+  "interests": [
+    "islands"
+  ]
+}
