@@ -1,0 +1,105 @@
+{
+  "slug": "nam-dinh",
+  "name": "Nam Dinh",
+  "nameVi": "Nam Định",
+  "corridor": "red-river-delta",
+  "kind": "city",
+  "parent": null,
+  "publish": "candidate",
+  "priority": 112,
+  "note": "Nam Dinh city, the textile and Tran-temple base in the Red River Delta. Search slug stays nam-dinh. This is not a second Hanoi page, not a second Ninh Binh page, and not a second Tam Coc page. Phat Diem stays with Ninh Binh if the sources put it there. No public place file until publish is accepted.",
+  "coverage": {
+    "sights": "missing",
+    "areas": "missing",
+    "foodStreets": "missing",
+    "nightlife": "missing",
+    "lifestyle": "missing",
+    "events": "missing",
+    "sideTrips": "missing"
+  },
+  "stages": {
+    "researchBase": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchAttractions": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchFood": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchNightlife": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchLifestyle": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchContext": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destination": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "food": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    }
+  },
+  "items": [],
+  "questions": [],
+  "claim": {
+    "place": "nam-dinh",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-22T06:31:37.529Z",
+    "by": "nam-dinh-research",
+    "branch": "cursor/nam-dinh-research-6544"
+  },
+  "log": []
+}
