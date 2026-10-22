@@ -10,7 +10,7 @@
   "lng": 105.854,
   "dots": 5,
   "dotReason": "Worth building a day around",
-  "summary": "You wake up to Turtle Tower in Hoan Kiem and the lanes north of the lake. Stay if that walk, a lunch bowl, and one morning in Ba Dinh are the trip. Go on to Ninh Binh, Ha Long, or Sapa if the city is only where the plane landed. The Old Quarter is its own page.",
+  "summary": "You wake up to Turtle Tower in Hoan Kiem and the lanes north of the lake. Stay if that walk, a lunch bowl, and one morning in Ba Dinh are the trip. Go on to Ninh Binh, Ha Long, or Sapa if the city is only where the plane landed. The Old Quarter is a separate walk. Use the link. This page does not repeat it.",
   "timeNeeded": "Check on arrival",
   "fee": "The lake path is free. Sight tickets are separate.",
   "getThere": "Noi Bai is 28 km north, or about 27 km. By car about 45–60 minutes, or about 40.",
@@ -50,7 +50,7 @@
   "seoDescription": "Noi Bai is 28 km north of the city, or about 27 km on the airline and Grab pages. April to June, or September to December, is the easier window.",
   "intro": [
     "You come for the lake. Turtle Tower sits in Hoan Kiem, and the lanes north of it are where the morning starts, with pho before the courtyards fill. Stay if that walk is the trip. Go on to Ninh Binh, Ha Long, or Sapa if the north outside the city is the trip.",
-    "Ba Dinh is a different morning: the citadel, the mausoleum, and One Pillar Pagoda, and they are not one ticket. After dark the corner Vietnam Tourism names is Ta Hien and Luong Ngoc Quyen. The Old Quarter stays its own page. This one does not copy it."
+    "Ba Dinh is a different morning: the citadel, the mausoleum, and One Pillar Pagoda, and they are not one ticket. After dark the corner Vietnam Tourism names is Ta Hien and Luong Ngoc Quyen. The Old Quarter is a separate walk. Use the link. This page does not repeat it."
   ],
   "gettingAround": [
     "Noi Bai is 28 km north of Ha Noi on the airport’s aeronautical page, and about 27 km from the center on Vietnam Airlines and on Grab. A car is about 45 to 60 minutes on the airline page, and about 40 minutes on Grab. Bus 86 to Ha Noi Railway Station is 50,000 VND, departing 7:00 to 22:15. Vietnam Airlines lists an express bus at 45,000 VND. Both fares stay.",
@@ -79,7 +79,7 @@
     "ca-phe"
   ],
   "interestsBody": [
-    "Come for the lake walk, a morning in Ba Dinh, and the bowls Vietnam Tourism ties to this city: pho, bun cha, and egg coffee. The Old Quarter is the grid north of the lake, and it has its own page."
+    "Come for the lake walk, a morning in Ba Dinh, and the bowls Vietnam Tourism ties to this city: pho, bun cha, and egg coffee. The Old Quarter is a separate walk through the grid north of the lake. Use the link. This page does not repeat it."
   ],
   "interestGroups": [
     {
@@ -136,7 +136,7 @@
     },
     {
       "title": "The lake and the lanes",
-      "summary": "Hoan Kiem is the landmark. The lanes north of it are the Old Quarter page. The cathedral and the water-puppet theatre sit on this walk.",
+      "summary": "Hoan Kiem is the landmark. The lanes north of it are a separate walk, on the link. The cathedral and the water-puppet theatre sit on this walk.",
       "cards": [
         {
           "title": "Hoan Kiem Lake",
@@ -154,7 +154,7 @@
         },
         {
           "title": "Old Quarter",
-          "summary": "The grid of lanes north of the lake. It has its own page. This card only links there.",
+          "summary": "The grid of lanes north of the lake, walked separately. Use the link. This page does not repeat it.",
           "placeSlug": "old-quarter",
           "photo": "old-quarter",
           "icon": "view"
