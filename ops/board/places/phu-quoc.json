@@ -894,7 +894,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "phu-quoc",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-22T17:29:05.709Z",
+    "by": "hourly",
+    "branch": ""
+  },
   "log": [
     {
       "at": "2026-10-22T17:16:00.686Z",
