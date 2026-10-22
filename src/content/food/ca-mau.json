@@ -1,0 +1,93 @@
+{
+  "slug": "ca-mau",
+  "name": "Ca Mau food guide",
+  "placeSlug": "ca-mau",
+  "summary": "Ca Mau eats the mangrove. Crab is the meal, salted ba khía is the rice plate, and the bags to carry are dried seafood, Năm Căn crackers, and U Minh honey. Cần Thơ’s dawn market is a different river.",
+  "heroSlug": "cua-ca-mau",
+  "body": [
+    "Eat Cà Mau as the cape, not as a second Cần Thơ. The bowl that tells you where you are is mangrove crab, or ba khía muối with hot rice. Mudskipper, the U Minh hotpot, and Khai Long clams are the same coast.",
+    "No restaurant street was named, and no stall price was printed. The floating market on the Gành Hào has no printed hour. Confirm the door and the price when you arrive."
+  ],
+  "specialtiesLead": "These are the dishes named on the cape pages. The two plates with photographs are the crab and the salted ba khía.",
+  "dishSlugs": [
+    "cua-ca-mau",
+    "mam-ba-khia",
+    "ca-thoi-loi",
+    "lau-mam-u-minh",
+    "ca-loc-nuong",
+    "mat-ong-u-minh",
+    "ngheu-khai-long",
+    "lau-ca-khoai",
+    "duong-cha-la",
+    "banh-phong-tom",
+    "tom-kho"
+  ],
+  "sections": [
+    {
+      "id": "where",
+      "heading": "Where to eat",
+      "nav": "Where to eat",
+      "paragraphs": [
+        "Đất Mũi and the city are the crab. Rạch Gốc is the ba khía. U Minh Hạ is the hotpot, the grilled snakehead, and the honey. Năm Căn is the cracker and the boats on the way south.",
+        "No shop is a pick. A price was not printed. Check on arrival."
+      ]
+    },
+    {
+      "id": "streets",
+      "heading": "Food streets and markets",
+      "nav": "Markets",
+      "paragraphs": [
+        "UNESCO puts a floating market of hundreds of boats on the Gành Hào, in the center. The city handbook names the market and prints no hour. Check on arrival. This is not the Cần Thơ dawn.",
+        "The 2024 culture-office address for the cape specialties is khóm 8, thị trấn Rạch Gốc, huyện Ngọc Hiển. Later cape pages say xã Đất Mũi. A market hall number and an open hour were not on that page. Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Ca Mau floating market",
+          "nameVi": "Chợ nổi Cà Mau",
+          "address": "Sông Gành Hào, city center",
+          "note": "Boats with produce, in the center, as UNESCO describes them. The hour was not printed. Check on arrival."
+        },
+        {
+          "name": "Rach Goc",
+          "nameVi": "Rạch Gốc",
+          "address": "Khóm 8, thị trấn Rạch Gốc on the 2024 page. Later pages say xã Đất Mũi.",
+          "note": "Ba khía with rice, where the crab is named. A market hour was not printed. Check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "plates",
+      "heading": "Plates",
+      "nav": "Plates",
+      "paragraphs": [
+        "Start with cua Cà Mau and ba khía muối. Cá thòi lòi is the mudskipper. Đuông chà là is the palm grub, and not everyone will eat it."
+      ]
+    },
+    {
+      "id": "seafood",
+      "heading": "Seafood and the forest pot",
+      "nav": "Seafood",
+      "paragraphs": [
+        "Nghêu Khai Long is the clam after Tết through the end of May and June. Lẩu mắm U Minh and cá lóc nướng belong to the melaleuca. Lẩu cá khoai is the airline page’s fish hotpot, with herbs and bún."
+      ]
+    },
+    {
+      "id": "sweets",
+      "heading": "Sweets and bags",
+      "nav": "Bags",
+      "paragraphs": [
+        "Mật ong U Minh is the jar. Bánh phồng tôm Năm Căn is the cracker. Tôm khô, cá khô, chuối khô, dưa bồn bồn, mắm cá lóc Thới Bình, and rượu trái giác are the rest of the airline gift list. The spirit has no printed measure."
+      ]
+    },
+    {
+      "id": "neighbors",
+      "heading": "A ride away",
+      "nav": "Nearby",
+      "paragraphs": [
+        "Cần Thơ is the previous stop on the expressway, and its dawn market is a different river. Do not order a Cần Thơ, Bến Tre, or Châu Đốc recipe and call it this cape."
+      ]
+    }
+  ],
+  "seoTitle": "Ca Mau food guide — crab, ba khia, and the cape menu",
+  "seoDescription": "What to eat in Ca Mau: mangrove crab, salted ba khía with rice, and the U Minh pot. No stall price is printed. Check on arrival."
+}

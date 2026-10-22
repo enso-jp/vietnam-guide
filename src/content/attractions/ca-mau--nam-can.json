@@ -1,0 +1,56 @@
+{
+  "slug": "nam-can",
+  "placeSlug": "ca-mau",
+  "name": "Nam Can",
+  "nameVi": "Năm Căn",
+  "kicker": "Fishing town on the way to the cape",
+  "summary": "Năm Căn is the fishing town on the way south, not the tip. The 58.7 km Hồ Chí Minh section to the Đất Mũi gate starts at cầu Ông Tình here, not in the city. One tour page prints more than 50 km and more than 1 hour on Quốc lộ 1, then more than 50 km beyond. Stop for the boats, then ride on while the gate is open. Minutes in town were not printed. Check on arrival.",
+  "dots": 3,
+  "timeNeeded": "A stop on the cape road",
+  "fee": "Check on arrival",
+  "getThere": "South of the city, before the 58.7 km cape section. One tour page prints more than 50 km and more than 1 hour on Quốc lộ 1.",
+  "district": "Năm Căn",
+  "verified": "22 Oct 2026",
+  "heroCaption": "Fishing boats along the bank at Năm Căn",
+  "notice": {
+    "title": "The town is not the tip",
+    "body": "Báo Đầu tư on 29 November 2023 prints 58.7 km from cầu Ông Tình at Năm Căn to the Đất Mũi gate. That kilometer starts here. A Vietravel page says the cape is more than 100 km from the city. A tour page prints 100–110 km and 2.5–3.5 hours from the city. Do not treat Năm Căn as the marker."
+  },
+  "body": [
+    "The boats sit under the sheds along the canal, and the market is the stop if you are already in town. A commune page prints the office on đường Hùng Vương, khóm 1. A market hour was not printed. Check on arrival. A boat fare from here toward the mangrove was not printed. Check on arrival.",
+    "The 2023 road article says this section ended Ngọc Hiển’s isolation from a car road. Phase 1 was finished in 2016. The alignment is drawn as cấp III đồng bằng, design speed 80 km/h, and the article says the cross-section still matches cấp V, about 40 km/h. Come in the morning so the gate farther south is still open. The culture-office listing shuts that gate at 18:00. A tour page dated 30 September 2026 shuts it at 17:30.",
+    "Ending the day on this bank and calling it the cape misses the point of the ride. The marker, the ship panel, and the two seas are past cầu Ông Tình."
+  ],
+  "figures": [
+    {
+      "id": "ca-mau-nam-can-2",
+      "caption": "The market street in Năm Căn",
+      "alt": "A sunny market street in Nam Can with fruit stalls, motorbikes, and shop houses"
+    }
+  ],
+  "gettingThere": [
+    "Ride south from the city on Quốc lộ 1. One tour page prints more than 50 km and more than 1 hour to Năm Căn, then more than 50 km on the Hồ Chí Minh road. The 58.7 km project measured by Báo Đầu tư starts at cầu Ông Tình, not in the city."
+  ],
+  "legs": [
+    {
+      "heading": "From Ca Mau",
+      "body": "By road on Quốc lộ 1. One tour page prints more than 50 km and more than 1 hour. No official minute was on the road-project page. Check on arrival. Motorbikes can use this road. They cannot use the expressway, which ends at IC12, xã Hồ Thị Kỷ."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "A market closing day was not printed. Check on arrival.",
+  "admissionNote": "No town ticket was printed. A boat fare was not printed. Check on arrival.",
+  "links": [
+    {
+      "label": "Hồ Chí Minh road, Năm Căn to the cape",
+      "url": "https://baodautu.vn/dau-tu-4204-ty-dong-nang-cap-duong-ho-chi-minh-doan-nam-can--dat-mui-d204051.html",
+      "note": "Báo Đầu tư, 29 November 2023, 58.7 km from cầu Ông Tình"
+    },
+    {
+      "label": "Xã Năm Căn",
+      "url": "https://namcan.camau.gov.vn/chinh-sach-phap-luat/trung-bay-va-ngoai-khoa-ve-hinh-anh-tu-lieu-hoang-sa-truong-sa-cua-viet-nam-143035",
+      "note": "Commune page. Footer address đường Hùng Vương, khóm 1"
+    }
+  ],
+  "interests": ["photography", "markets"]
+}
