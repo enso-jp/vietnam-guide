@@ -67,9 +67,9 @@
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T18:40:18.808Z",
+      "status": "checked",
+      "note": "Read against the dossier. Both island counts, both sand colors, and both prisoner figures are printed where those topics appear. The hero is the shore and the ridge and does not claim pier 914. Unsourced clocks stay Check on arrival. Phi Yen has no rite photo. Sight cards still point at the place until those pages exist.",
+      "updated": "2026-10-22T02:43:51.879Z",
       "reworkCount": 0
     },
     "food": {
@@ -487,9 +487,9 @@
       "research": "stored",
       "page": "paged",
       "copy": "enriched",
-      "quality": "not_started",
-      "note": "2026 dates from the special-zone notice. Photo is the cemetery gate, not the vigil.",
-      "updated": "2026-10-22T02:43:02.062Z",
+      "quality": "checked",
+      "note": "Dates match the 29 Dec 2025 notice. Photo is the cemetery gate.",
+      "updated": "2026-10-22T02:43:51.913Z",
       "reworkCount": 0
     },
     {
@@ -503,9 +503,9 @@
       "research": "stored",
       "page": "paged",
       "copy": "enriched",
-      "quality": "not_started",
-      "note": "Lunar dates only. No rite photo.",
-      "updated": "2026-10-22T02:43:02.093Z",
+      "quality": "checked",
+      "note": "Lunar dates only. No rite photo, so the template uses the place photograph.",
+      "updated": "2026-10-22T02:43:51.943Z",
       "reworkCount": 0
     },
     {
@@ -519,15 +519,23 @@
       "research": "stored",
       "page": "paged",
       "copy": "enriched",
-      "quality": "not_started",
-      "note": "Hours from the August 2025 notice. Photo is the islet, not a turtle.",
-      "updated": "2026-10-22T02:43:02.122Z",
+      "quality": "checked",
+      "note": "Hours match the August 2025 notice. Frame is the islet, not a turtle.",
+      "updated": "2026-10-22T02:43:51.971Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T02:43:51.879Z",
+      "place": "con-dao",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Read against the dossier. Both island counts, both sand colors, and both prisoner figures are printed where those topics appear. The hero is the shore and the ridge and does not claim pier 914. Unsourced clocks stay Check on arrival. Phi Yen has no rite photo. Sight cards still point at the place until those pages exist."
+    },
     {
       "at": "2026-10-22T02:43:02.157Z",
       "place": "con-dao",
