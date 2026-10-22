@@ -843,10 +843,33 @@
       "note": "Duplicate of hue--festival. Same festival record. Events stay on that row.",
       "updated": "2026-10-21T09:53:16.070Z",
       "reworkCount": 0
+    },
+    {
+      "id": "hue--dish--banh-nam",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Banh nam",
+      "slug": "banh-nam",
+      "file": "src/content/dishes/banh-nam.json",
+      "source": "published",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Duplicate of hue--banh-nam. Food pass owns the dish. Reconcile added this id because the place lists banh-nam. Not a second page.",
+      "updated": "2026-10-22T16:58:06.554Z",
+      "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "hue",
+    "stage": "foodCopy",
+    "item": null,
+    "at": "2026-10-22T16:58:06.629Z",
+    "by": "hue-foodcopy",
+    "branch": "cursor/hue-foodcopy-71eb"
+  },
   "log": [
     {
       "at": "2026-10-21T10:08:16.828Z",
