@@ -55,39 +55,39 @@
       "reworkCount": 0
     },
     "destination": {
-      "status": "stale",
-      "note": "Reopen to file licensed photos and the sights they support.",
-      "updated": "2026-10-22T09:08:51.814Z",
+      "status": "paged",
+      "note": "Place shell keeps dots 4, Mekong corridor, nearby my-tho. Dining leads. Interest photos are unique. Left out as sight cards: Cu lao Long, Ho Truc Giang, the museum, Dong Khoi house, My Long, Son Doc, Cho Lach, Ham Luong, the water park, the coast. Side-trip placeholders: Tra Vinh, Vinh Long. Gate, museum fee, and fares stay check on arrival.",
+      "updated": "2026-10-22T09:16:47.196Z",
       "reworkCount": 0
     },
     "destinationCopy": {
       "status": "enriched",
-      "note": "Selling line is the coconut bank, Con Phung, and Ho Truc Giang. All road pairs, both Con Phung road distances, and all three coconut areas stay. Season chip is Mild year-round. No licensed hero was filed, so no photo was added. Gate, museum fee, and fares stay check on arrival.",
-      "updated": "2026-10-22T04:39:15.316Z",
+      "note": "Hero is coconut palms and a boat on the Mekong bank. Season chip stays Mild year-round. All road pairs, both Con Phung distances, and all three coconut areas stay. No site-talk.",
+      "updated": "2026-10-22T09:16:47.264Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "checked",
-      "note": "Read the dossier against the place. Road pairs, Con Phung 12 km and about 10 km, and coconut areas 53000, more than 60000, and above 62000 all stay. Museum hours both patterns. No fee was chosen from the operator or the travel pages. No licensed photo of a sight, a plate, or the town, so no card and no hero file. Map footnote is not in the dossier. Stop minutes are marked as not a published duration. Side trip placeholders Tra Vinh and Vinh Long are not links.",
-      "updated": "2026-10-22T04:39:48.922Z",
+      "note": "Read the dossier against the place. Road pairs, Con Phung 12 km and about 10 km, coconut areas 53000, more than 60000, and above 62000 all stay. Museum hours both patterns. Place dot unchanged at 4. No fee chosen. Left out of the attraction grid: sights with no second licensed frame.",
+      "updated": "2026-10-22T09:16:47.334Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "skipped",
-      "note": "No licensed photo of a plate. No food guide, Food chip, interests.food, or foodSlug. Dishes stay in the place eat text. Prices are check on arrival.",
-      "updated": "2026-10-22T04:39:57.264Z",
+      "status": "paged",
+      "note": "Food guide with keo dua and xoi chien phong. Neighbor bowl is hu tieu My Tho. Left out: plates with no licensed photo of that dish.",
+      "updated": "2026-10-22T09:16:47.398Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "skipped",
-      "note": "No food guide to copy. Eat text already names the plates and says prices are check on arrival.",
-      "updated": "2026-10-22T04:39:57.336Z",
+      "status": "enriched",
+      "note": "Candy is coconut milk and sugar. Xoi chien puff is the lunch-list line. No invented taste. Prices stay check on arrival.",
+      "updated": "2026-10-22T09:16:47.461Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "skipped",
-      "note": "No food guide and no plate photo to check.",
-      "updated": "2026-10-22T04:39:57.403Z",
+      "status": "checked",
+      "note": "Two local plates have photos. Hu tieu pate was not given a stand-in bowl. Stall prices stay check on arrival. Left out: duong dua, ca tai tuong, lau mam, com trai dua, tep rang dua, banh trang My Long, banh phong Son Doc, hu tieu pate, honey tea, fresh coconut, cu hu dua.",
+      "updated": "2026-10-22T09:16:47.523Z",
       "reworkCount": 0
     }
   },
@@ -98,14 +98,14 @@
       "track": "unit",
       "name": "Con Phung",
       "slug": "con-phung",
-      "file": null,
+      "file": "src/content/attractions/ben-tre--con-phung.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "unpublished: no licensed photo",
-      "updated": "2026-10-22T04:40:18.855Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Two licensed frames: nine-dragon court and the landing boats. Fee stays check on arrival. Operator figures printed beside the rural page, which has no tariff.",
+      "updated": "2026-10-22T09:16:47.747Z",
       "reworkCount": 0
     },
     {
@@ -114,14 +114,14 @@
       "track": "unit",
       "name": "Con Quy",
       "slug": "con-quy",
-      "file": null,
+      "file": "src/content/attractions/ben-tre--con-quy.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "unpublished: no licensed photo",
-      "updated": "2026-10-22T04:40:19.040Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Two licensed frames: longan path and the sampan. No kilometer reused from Con Phung. Fee and hours check on arrival.",
+      "updated": "2026-10-22T09:16:47.985Z",
       "reworkCount": 0
     },
     {
@@ -178,14 +178,14 @@
       "track": "unit",
       "name": "Nguyen Dinh Chieu memorial",
       "slug": "nguyen-dinh-chieu",
-      "file": null,
+      "file": "src/content/attractions/ben-tre--nguyen-dinh-chieu.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "unpublished: no licensed photo",
-      "updated": "2026-10-22T04:40:19.798Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Two licensed frames: tombs and the memorial hall. 1 July stays solar. Hours and ticket check on arrival.",
+      "updated": "2026-10-22T09:16:48.212Z",
       "reworkCount": 0
     },
     {
@@ -290,14 +290,14 @@
       "track": "bundled",
       "name": "Coconut candy",
       "slug": "keo-dua",
-      "file": null,
+      "file": "src/content/dishes/keo-dua.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "unpublished: no licensed photo of the plate. Bundled into the skipped food stage.",
-      "updated": "2026-10-22T04:40:52.334Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Bundled with the food guide. Plate photo is the wrapping table. Price check on arrival.",
+      "updated": "2026-10-22T09:17:07.689Z",
       "reworkCount": 0
     },
     {
@@ -338,14 +338,14 @@
       "track": "bundled",
       "name": "Puffed sticky rice",
       "slug": "xoi-chien-phong",
-      "file": null,
+      "file": "src/content/dishes/xoi-chien-phong.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "unpublished: no licensed photo of the plate. Bundled into the skipped food stage.",
-      "updated": "2026-10-22T04:40:52.428Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Bundled with the food guide. Plate photo of xoi chien, not captioned as the islet table. Price check on arrival.",
+      "updated": "2026-10-22T09:17:07.723Z",
       "reworkCount": 0
     },
     {
@@ -782,174 +782,167 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "ben-tre",
-    "stage": "destination",
-    "item": null,
-    "at": "2026-10-22T09:08:51.849Z",
-    "by": "hourly",
-    "branch": "cursor/ben-tre-destination-7ab2"
-  },
+  "claim": null,
   "log": [
     {
-      "at": "2026-10-22T09:08:51.815Z",
+      "at": "2026-10-22T09:16:48.212Z",
+      "place": "ben-tre",
+      "stage": "quality",
+      "item": "ben-tre--nguyen-dinh-chieu",
+      "status": "checked",
+      "note": "Two licensed frames: tombs and the memorial hall. 1 July stays solar. Hours and ticket check on arrival."
+    },
+    {
+      "at": "2026-10-22T09:16:48.149Z",
+      "place": "ben-tre",
+      "stage": "copy",
+      "item": "ben-tre--nguyen-dinh-chieu",
+      "status": "enriched",
+      "note": "Two licensed frames: tombs and the memorial hall. 1 July stays solar. Hours and ticket check on arrival."
+    },
+    {
+      "at": "2026-10-22T09:16:48.086Z",
+      "place": "ben-tre",
+      "stage": "page",
+      "item": "ben-tre--nguyen-dinh-chieu",
+      "status": "paged",
+      "note": "Two licensed frames: tombs and the memorial hall. 1 July stays solar. Hours and ticket check on arrival."
+    },
+    {
+      "at": "2026-10-22T09:16:47.985Z",
+      "place": "ben-tre",
+      "stage": "quality",
+      "item": "ben-tre--con-quy",
+      "status": "checked",
+      "note": "Two licensed frames: longan path and the sampan. No kilometer reused from Con Phung. Fee and hours check on arrival."
+    },
+    {
+      "at": "2026-10-22T09:16:47.921Z",
+      "place": "ben-tre",
+      "stage": "copy",
+      "item": "ben-tre--con-quy",
+      "status": "enriched",
+      "note": "Two licensed frames: longan path and the sampan. No kilometer reused from Con Phung. Fee and hours check on arrival."
+    },
+    {
+      "at": "2026-10-22T09:16:47.856Z",
+      "place": "ben-tre",
+      "stage": "page",
+      "item": "ben-tre--con-quy",
+      "status": "paged",
+      "note": "Two licensed frames: longan path and the sampan. No kilometer reused from Con Phung. Fee and hours check on arrival."
+    },
+    {
+      "at": "2026-10-22T09:16:47.747Z",
+      "place": "ben-tre",
+      "stage": "quality",
+      "item": "ben-tre--con-phung",
+      "status": "checked",
+      "note": "Two licensed frames: nine-dragon court and the landing boats. Fee stays check on arrival. Operator figures printed beside the rural page, which has no tariff."
+    },
+    {
+      "at": "2026-10-22T09:16:47.684Z",
+      "place": "ben-tre",
+      "stage": "copy",
+      "item": "ben-tre--con-phung",
+      "status": "enriched",
+      "note": "Two licensed frames: nine-dragon court and the landing boats. Fee stays check on arrival. Operator figures printed beside the rural page, which has no tariff."
+    },
+    {
+      "at": "2026-10-22T09:16:47.620Z",
+      "place": "ben-tre",
+      "stage": "page",
+      "item": "ben-tre--con-phung",
+      "status": "paged",
+      "note": "Two licensed frames: nine-dragon court and the landing boats. Fee stays check on arrival. Operator figures printed beside the rural page, which has no tariff."
+    },
+    {
+      "at": "2026-10-22T09:16:47.523Z",
+      "place": "ben-tre",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Two local plates have photos. Hu tieu pate was not given a stand-in bowl. Stall prices stay check on arrival. Left out: duong dua, ca tai tuong, lau mam, com trai dua, tep rang dua, banh trang My Long, banh phong Son Doc, hu tieu pate, honey tea, fresh coconut, cu hu dua."
+    },
+    {
+      "at": "2026-10-22T09:16:47.461Z",
+      "place": "ben-tre",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Candy is coconut milk and sugar. Xoi chien puff is the lunch-list line. No invented taste. Prices stay check on arrival."
+    },
+    {
+      "at": "2026-10-22T09:16:47.398Z",
+      "place": "ben-tre",
+      "stage": "food",
+      "item": null,
+      "status": "paged",
+      "note": "Food guide with keo dua and xoi chien phong. Neighbor bowl is hu tieu My Tho. Left out: plates with no licensed photo of that dish."
+    },
+    {
+      "at": "2026-10-22T09:16:47.334Z",
+      "place": "ben-tre",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Read the dossier against the place. Road pairs, Con Phung 12 km and about 10 km, coconut areas 53000, more than 60000, and above 62000 all stay. Museum hours both patterns. Place dot unchanged at 4. No fee chosen. Left out of the attraction grid: sights with no second licensed frame."
+    },
+    {
+      "at": "2026-10-22T09:16:47.265Z",
+      "place": "ben-tre",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Hero is coconut palms and a boat on the Mekong bank. Season chip stays Mild year-round. All road pairs, both Con Phung distances, and all three coconut areas stay. No site-talk."
+    },
+    {
+      "at": "2026-10-22T09:16:47.196Z",
       "place": "ben-tre",
       "stage": "destination",
       "item": null,
+      "status": "paged",
+      "note": "Place shell keeps dots 4, Mekong corridor, nearby my-tho. Dining leads. Interest photos are unique. Left out as sight cards: Cu lao Long, Ho Truc Giang, the museum, Dong Khoi house, My Long, Son Doc, Cho Lach, Ham Luong, the water park, the coast. Side-trip placeholders: Tra Vinh, Vinh Long. Gate, museum fee, and fares stay check on arrival."
+    },
+    {
+      "at": "2026-10-22T09:16:30.751Z",
+      "place": "ben-tre",
+      "stage": "foodQuality",
+      "item": null,
       "status": "stale",
-      "note": "Reopen to file licensed photos and the sights they support."
+      "note": "Check the food guide after the plate pass."
     },
     {
-      "at": "2026-10-22T04:40:32.697Z",
+      "at": "2026-10-22T09:16:30.720Z",
       "place": "ben-tre",
-      "stage": "quality",
-      "item": "ben-tre--ben-tre-market",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo"
+      "stage": "foodCopy",
+      "item": null,
+      "status": "stale",
+      "note": "Food copy follows the new plates."
     },
     {
-      "at": "2026-10-22T04:40:32.637Z",
+      "at": "2026-10-22T09:16:30.687Z",
       "place": "ben-tre",
-      "stage": "copy",
-      "item": "ben-tre--ben-tre-market",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo"
+      "stage": "food",
+      "item": null,
+      "status": "stale",
+      "note": "Licensed plate photos are on file for keo dua and xoi chien phong. Left out: plates with no licensed photo."
     },
     {
-      "at": "2026-10-22T04:40:32.573Z",
+      "at": "2026-10-22T09:16:30.652Z",
       "place": "ben-tre",
-      "stage": "page",
-      "item": "ben-tre--ben-tre-market",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo"
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "stale",
+      "note": "Dossier photos changed. Check again after the copy pass."
     },
     {
-      "at": "2026-10-22T04:40:24.318Z",
+      "at": "2026-10-22T09:16:30.619Z",
       "place": "ben-tre",
-      "stage": "quality",
-      "item": "ben-tre--con-long",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo"
-    },
-    {
-      "at": "2026-10-22T04:40:24.255Z",
-      "place": "ben-tre",
-      "stage": "copy",
-      "item": "ben-tre--con-long",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo"
-    },
-    {
-      "at": "2026-10-22T04:40:24.186Z",
-      "place": "ben-tre",
-      "stage": "page",
-      "item": "ben-tre--con-long",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo"
-    },
-    {
-      "at": "2026-10-22T04:40:24.125Z",
-      "place": "ben-tre",
-      "stage": "quality",
-      "item": "ben-tre--tai-tu",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo"
-    },
-    {
-      "at": "2026-10-22T04:40:24.063Z",
-      "place": "ben-tre",
-      "stage": "copy",
-      "item": "ben-tre--tai-tu",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo"
-    },
-    {
-      "at": "2026-10-22T04:40:24.003Z",
-      "place": "ben-tre",
-      "stage": "page",
-      "item": "ben-tre--tai-tu",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo"
-    },
-    {
-      "at": "2026-10-22T04:40:23.942Z",
-      "place": "ben-tre",
-      "stage": "quality",
-      "item": "ben-tre--friday-town-cart",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo"
-    },
-    {
-      "at": "2026-10-22T04:40:23.883Z",
-      "place": "ben-tre",
-      "stage": "copy",
-      "item": "ben-tre--friday-town-cart",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo"
-    },
-    {
-      "at": "2026-10-22T04:40:23.820Z",
-      "place": "ben-tre",
-      "stage": "page",
-      "item": "ben-tre--friday-town-cart",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo"
-    },
-    {
-      "at": "2026-10-22T04:40:23.755Z",
-      "place": "ben-tre",
-      "stage": "quality",
-      "item": "ben-tre--firefly-boat",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo"
-    },
-    {
-      "at": "2026-10-22T04:40:23.695Z",
-      "place": "ben-tre",
-      "stage": "copy",
-      "item": "ben-tre--firefly-boat",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo"
-    },
-    {
-      "at": "2026-10-22T04:40:23.629Z",
-      "place": "ben-tre",
-      "stage": "page",
-      "item": "ben-tre--firefly-boat",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo"
-    },
-    {
-      "at": "2026-10-22T04:40:23.568Z",
-      "place": "ben-tre",
-      "stage": "quality",
-      "item": "ben-tre--cho-que-xu-dua",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo"
-    },
-    {
-      "at": "2026-10-22T04:40:23.503Z",
-      "place": "ben-tre",
-      "stage": "copy",
-      "item": "ben-tre--cho-que-xu-dua",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo"
-    },
-    {
-      "at": "2026-10-22T04:40:23.442Z",
-      "place": "ben-tre",
-      "stage": "page",
-      "item": "ben-tre--cho-que-xu-dua",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo"
-    },
-    {
-      "at": "2026-10-22T04:40:23.379Z",
-      "place": "ben-tre",
-      "stage": "quality",
-      "item": "ben-tre--fruit-day",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo"
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "stale",
+      "note": "Hero and interest photos are being filed. Check the copy again."
     }
   ]
 }
