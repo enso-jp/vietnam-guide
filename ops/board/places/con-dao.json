@@ -55,9 +55,9 @@
       "reworkCount": 0
     },
     "destination": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, hero, four interest cards, three festivals, and a two-day itinerary. Side trip placeholder: Soc Trang. Side trip placeholder: Tran De. Dots 5. Hero is the town shore and ridge; pier 914 is not clearly in the frame. Prison gate hour, relic ticket, flight minutes, a Vung Tau sailing, boat fare, and town-to-beach minutes stay Check on arrival. No attraction files in this stage.",
+      "updated": "2026-10-22T02:40:57.603Z",
       "reworkCount": 0
     },
     "destinationCopy": {
@@ -482,14 +482,14 @@
       "track": "bundled",
       "name": "Vo Thi Sau memorial",
       "slug": "vo-thi-sau-memorial",
-      "file": null,
+      "file": "src/content/festivals/vo-thi-sau-memorial.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
+      "page": "paged",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "2026 solar dates from the special-zone notice. A lunar-date page did not load.",
-      "updated": "2026-10-21T18:40:18.658Z",
+      "note": "2026 dates from the special-zone notice. Photo is the cemetery gate, not the vigil. Later dates check on arrival.",
+      "updated": "2026-10-22T02:40:57.514Z",
       "reworkCount": 0
     },
     {
@@ -498,14 +498,14 @@
       "track": "bundled",
       "name": "Ba Phi Yen memorial",
       "slug": "ba-phi-yen",
-      "file": null,
+      "file": "src/content/festivals/ba-phi-yen.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
+      "page": "paged",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Lunar 17-18 of the 10th month. Solar dates move.",
-      "updated": "2026-10-21T18:40:18.688Z",
+      "note": "Lunar 17-18 of the 10th month. No licensed photo of the rite, so the card uses the place photograph. Solar dates check on arrival.",
+      "updated": "2026-10-22T02:40:57.544Z",
       "reworkCount": 0
     },
     {
@@ -514,27 +514,28 @@
       "track": "bundled",
       "name": "Turtle night and release",
       "slug": "turtle-watch",
-      "file": null,
+      "file": "src/content/festivals/turtle-watch.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
+      "page": "paged",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Hours and caps from the August 2025 park notice. Nesting months not printed.",
-      "updated": "2026-10-21T18:40:18.718Z",
+      "note": "Hours and caps from the August 2025 notice. Photo is Hon Bay Canh, not a turtle. Nesting months check on arrival.",
+      "updated": "2026-10-22T02:40:57.574Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "con-dao",
-    "stage": "destination",
-    "item": null,
-    "at": "2026-10-22T02:12:36.534Z",
-    "by": "con-dao-page",
-    "branch": "cursor/con-dao-page-86b6"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T02:40:57.604Z",
+      "place": "con-dao",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place shell, hero, four interest cards, three festivals, and a two-day itinerary. Side trip placeholder: Soc Trang. Side trip placeholder: Tran De. Dots 5. Hero is the town shore and ridge; pier 914 is not clearly in the frame. Prison gate hour, relic ticket, flight minutes, a Vung Tau sailing, boat fare, and town-to-beach minutes stay Check on arrival. No attraction files in this stage."
+    },
     {
       "at": "2026-10-21T18:40:18.808Z",
       "place": "con-dao",
