@@ -1,0 +1,24 @@
+{
+  "slug": "sapa-day",
+  "title": "Sapa in a day",
+  "kind": "trip",
+  "level": "day",
+  "duration": "1 day",
+  "spanDays": 1,
+  "placeSlug": "sapa",
+  "budget": "Check on arrival",
+  "pace": "One walk, or the cable car",
+  "photo": "sapa-stone-church",
+  "summary": "The stone church in the morning, then Cat Cat and the waterfall if the gate is open. The walk length is check on arrival. Fansipan is the cable car: the ride is printed as about 15 minutes, as 15–20 minutes, and as 30 minutes.",
+  "stops": [
+    {
+      "name": "Stone church",
+      "minutes": 60,
+      "placeSlug": "sapa",
+      "attractionSlug": "stone-church",
+      "note": "Lao Cai Tourism prints about 60 minutes, and a free visit. The printed clock is not usable. Check the door. Cat Cat and the waterfall are the walk after this. No length was printed for that walk. Check on arrival."
+    }
+  ],
+  "seoTitle": "Sapa in a day — the church, then Cat Cat",
+  "seoDescription": "A Sa Pa day from the stone church to Cat Cat. The walk length is check on arrival. The cable-car ride is printed three ways."
+}

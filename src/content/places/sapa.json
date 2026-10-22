@@ -5,127 +5,251 @@
   "kind": "town",
   "corridor": "northern-midlands",
   "province": "Lao Cai",
-  "provinceNote": "Lao Cai province now includes the former Yen Bai province. Sapa is still the name to search.",
-  "lat": 22.336,
-  "lng": 103.844,
+  "provinceNote": "From 1 July 2025, phường Sa Pa joins six former wards. The valley communes are xã Tả Van, xã Tả Phìn, and xã Bản Hồ. Xã Lao Chải was not merged.",
   "dots": 4,
   "dotReason": "Worth a special trip in this corridor",
-  "summary": "Sapa is a highland town near the Chinese border, used as a base for rice terraces, market days, and Fansipan. Mist is part of the place. Go for two nights at least, and treat village walks as visits to people’s fields, not a backdrop.",
-  "timeNeeded": "2–3 days",
-  "fee": "Town walking is free; Fansipan and some villages charge",
-  "getThere": "Overnight train or a 5–7 hour bus or limousine from Hanoi to Lao Cai, then 45 minutes up to Sapa",
-  "bestMonths": "March to May and September to November",
-  "verified": "19 Oct 2026",
+  "summary": "Sleep in town when you want the stone church and the Saturday square on foot. Sleep out among the terraces when the valley is the morning. Fansipan is the cable car on Nguyễn Chí Thanh, and the fields under the ridge are the reason to stay the night.",
+  "timeNeeded": "One night, or more if you walk the valley and ride the cable car",
+  "fee": "No single town ticket.",
+  "getThere": "Night train to Lao Cai, then the climb. A bus into town is 5–6 hours on vietnam.travel, or 5–7 hours on the Hoang Lien center page.",
+  "bestMonths": "September–October for the terraces, April–May for clearer days. The vietnam.travel chip also says Sep–Nov.",
+  "verified": "22 Oct 2026",
   "interests": {
     "rice": 5,
     "mountains": 5,
     "photography": 5,
     "markets": 4,
+    "food": 4,
     "family": 3
   },
   "cover": "highlands",
+  "foodSlug": "sapa",
   "nearby": [
     "ha-giang",
     "hanoi",
-    "mai-chau"
+    "dien-bien-phu"
   ],
   "routeSlugs": [
     "hanoi-to-sapa"
   ],
   "itinerarySlugs": [
+    "sapa-day",
     "north-7-days",
     "best-14-days"
   ],
-  "seoTitle": "Sapa travel guide — rice terraces, markets, and the train from Hanoi",
-  "seoDescription": "How to get from Hanoi to Sapa, how many nights to stay, and when the terraces change color.",
+  "seoTitle": "Sapa travel guide — terraces, the church, and Fansipan",
+  "seoDescription": "Sleep by the stone church or in the terraces under the ridge. Fansipan is the cable car on Nguyễn Chí Thanh. Ride times and ticket prices are printed more than once.",
   "intro": [
-    "Sapa sits high above the Muong Hoa valley. The town is a resort strip with hotels and restaurants. The valleys below, including Cat Cat, Lao Chai, and Ta Van, are where the terraces and the Hmong and Giay villages are.",
-    "Ask before you photograph people. A guided walk that pays the village properly is better than a free wander that treats a home as a viewpoint. Fansipan, the country’s highest peak, is a cable car from the edge of town, not a casual add-on if the weather has shut."
+    "The morning is the valley under the town: stepped fields, a roof, and the ridge, with the houses of the town sitting on the far slope. The stone church is the pin in the center. Ham Rong, the garden hill, is behind it. Vietnam Tourism puts the walkable villages at Cat Cat and Ta Phin, and the lodges and homestays out among the terraces rather than only in the hub.",
+    "Cat Cat is the closest of those walks. The scenic fee at the waterfall and the village gate are different charges. From 1 January 2025 the scenic fee is 10,000 đồng from age 16 and 5,000 đồng from over 6 to under 16. Two commercial pages print a gate of 150,000 đồng for an adult and 70,000 đồng for a child, and they do not use the same child height. Do not add those figures together.",
+    "Fansipan is the cable car from Nguyễn Chí Thanh, then the pagoda and the last steps. The ride is printed as about 15 minutes, as 15–20 minutes, and as 30 minutes. An out-of-province adult is 750,000 đồng on the operator page dated 20 August 2018, and 850,000 đồng in the 2026 guide. A separate scenic fee at the summit is 10,000 đồng from age 16. Weather can close the line.",
+    "Saturday evening is the market in town and in the square in front of the church. Other cold nights, the grills are at hồ Sa Pa and on the road down to the market. The hour is check on arrival. Breakfast is check on arrival."
   ],
   "gettingAround": [
-    "The sleeper train from Hanoi runs to Lao Cai, not to Sapa itself. A bus or taxi climbs the last hour. Limousine vans from Hanoi go through to Sapa and save the transfer.",
-    "In the valleys, walk with a guide or hire a taxi for the trailheads. A motorbike without the right license is a common rental and a legal risk if you crash."
+    "The train ends at Ga Lào Cai. From 10 October 2026 the night trains are SP15 21:45–05:20, SP3 22:00–05:50, and SP7 22:40–06:27. Return is SP16 21:25–05:15, SP4 21:50–05:40, and daytime SP8 12:05–19:30. Fares are check on arrival. A 2015 timetable still prints SP1 at 21:40–05:30 and SP3 at 22:00–06:10. That is not this board.",
+    "VNAT prints Sa Pa 38 km southwest of Lao Cai city. VTV and the provincial portal print the QL4D climb as more than 30 km. Minutes on that road are check on arrival. The provincial road 155 connector is 13.8 km. VTV says the Mong Sen section shortens the old road by about 2.5 km. The portal says the trip shortens by about 7 km and 20 minutes. TL155 is one-way from Sa Pa toward Lao Cai. QL4D stays both ways.",
+    "In town, walk or take a taxi. Mountain bikes are rented for valley trails. Cat Cat and Ta Phin can be seen without a guide. An overnight trek is a separate booking. A motorbike rule is check on arrival. Nguyễn Chí Thanh is the Fansipan road. The Muong Hoa funicular, about five minutes from Sun Plaza to Hoang Lien station, is not the train from Hanoi, and its fare is check on arrival. Sa Pa airport is not open. Fly into Nội Bài."
   ],
   "stayAreas": [
     {
-      "name": "Sapa town",
-      "summary": "Easiest restaurants and the cable-car road. Can be foggy and loud on weekend nights.",
-      "band": "Hotels from simple to resort"
+      "name": "Town around the church",
+      "summary": "Sleep here when you want the square, the Saturday market, and the road to the cable car on foot. Cầu Mây is the street of shopfronts in the hub.",
+      "band": "Town hotels",
+      "photo": "sapa-town"
     },
     {
-      "name": "Ta Van or Lao Chai",
-      "summary": "Wake up in the valley. You will want a booking that can pick you up.",
-      "band": "Homestays"
+      "name": "Terraces outside the hub",
+      "summary": "Sleep here when the morning should be the fields. Vietnam Tourism describes lodges and homestays among the terraces, without naming a brand. A pickup is check on arrival.",
+      "band": "Lodges and homestays",
+      "photo": "sapa-valley"
     }
   ],
   "eat": [
-    "Town restaurants serve hotpot, grilled meat, and visitor-friendly versions of highland dishes. Homestay dinners are the more local meal."
+    "Thắng cố, the grills at hồ Sa Pa, and the salmon at Silver Waterfall are the meals the national pages name. Doors and hours are on the food guide."
   ],
-  "dishSlugs": [],
+  "dishSlugs": [
+    "thang-co",
+    "men-men",
+    "ruou-ngo",
+    "ca-hoi-nuong",
+    "lon-ban-xien",
+    "canh-ga-nuong",
+    "bo-cuon-kim-cham",
+    "trung-nuong",
+    "hat-de",
+    "lau-ca-hoi",
+    "goi-ca-hoi",
+    "trung-ca-hoi",
+    "than-ca-hoi",
+    "ruoc-ca-hoi",
+    "ruou-tao-meo",
+    "ruou-mo",
+    "ruou-san-lung",
+    "bap-nuong",
+    "khoai-lang-nuong",
+    "lon-cap-nach",
+    "ca-suoi",
+    "banh-ngo",
+    "banh-dao",
+    "banh-day",
+    "than-bo-nuong",
+    "ca-lam-ong",
+    "mang-sat",
+    "mang-vau"
+  ],
   "interestsBody": [
-    "Rice, mountains, and market days are the reasons to come. Bac Ha’s Sunday market is a separate trip down toward the former Yen Bai and Lao Cai lowlands."
+    "The valley terraces are the picture under the town. Fansipan is the cable car. Cat Cat is the nearest village walk. The stone church is the square in the center.",
+    "Saturday evening is the market. Other cold nights, eat at the grills by the lake. The food guide holds thắng cố, the salmon plates, and the doors the listings name."
+  ],
+  "interestCards": [
+    {
+      "title": "Dining and F&B",
+      "summary": "Thắng cố, the lake grills, and salmon at the falls.",
+      "icon": "food",
+      "to": "food"
+    },
+    {
+      "title": "The valley terraces",
+      "summary": "Stepped fields, a roof, and the town on the far ridge.",
+      "attractionSlug": "cat-cat",
+      "photo": "sapa-terraces",
+      "icon": "view"
+    },
+    {
+      "title": "Fansipan by cable car",
+      "summary": "The summit at 3,143 m, from Nguyễn Chí Thanh.",
+      "attractionSlug": "fansipan",
+      "photo": "sapa-fansipan-2",
+      "icon": "view"
+    },
+    {
+      "title": "The stone church square",
+      "summary": "The church, the tower, and the square in front.",
+      "attractionSlug": "stone-church",
+      "photo": "sapa-stone-church",
+      "icon": "view"
+    }
   ],
   "interestGroups": [
     {
-      "title": "Valley walks",
-      "summary": "The valleys below town are where the terraces and the villages are.",
+      "title": "Dining and F&B",
+      "summary": "Thắng cố, the lake grills, and the salmon plates at the falls.",
       "cards": [
         {
-          "title": "Cat Cat",
-          "summary": "The closest village walk, pretty and busy. Go early.",
-          "attractionSlug": "cat-cat",
-          "photo": "sapa-cat-cat",
-          "icon": "view",
-          "block": "valleys"
-        },
-        {
-          "title": "Ta Van valley",
-          "summary": "Rice terraces and a Giay village further down the valley. Better with a guide and a full morning.",
-          "attractionSlug": "ta-van",
-          "photo": "sapa-ta-van",
-          "icon": "view",
-          "block": "valleys"
-        }
-      ],
-      "blocks": [
-        {
-          "id": "valleys",
-          "heading": "Cat Cat, then Ta Van",
-          "nav": "Valleys",
-          "paragraphs": [
-            "Sapa sits high above the Muong Hoa valley. The town is a resort strip with hotels and restaurants. The valleys below, including Cat Cat, Lao Chai, and Ta Van, are where the terraces and the Hmong and Giay villages are.",
-            "Ask before you photograph people. A guided walk that pays the village properly is better than a free wander that treats a home as a viewpoint.",
-            "Rice, mountains, and market days are the reasons to come. Bac Ha’s Sunday market is a separate trip down toward the former Yen Bai and Lao Cai lowlands. Bac Ha has no licensed photograph here, so it is not a card."
-          ]
+          "title": "Dining and F&B",
+          "summary": "Thắng cố, the lake grills, and salmon at the falls.",
+          "icon": "food",
+          "to": "food"
         }
       ]
     },
     {
-      "title": "Fansipan",
-      "summary": "The highest summit in Vietnam, reached by cable car in clear weather. Clouds cancel the view more often than the ride.",
+      "title": "The valley terraces",
+      "summary": "The fields under the town, still farmed.",
+      "body": [
+        "Muong Hoa is the named valley, 8 km southeast at Hầu Thào in one feature. September rice is described as bright yellow on that page. The rice page says mid-August until early September. A Ta Van feature says about mid-August to October. Vietnam Tourism’s Sa Pa page says September–October, and its chip says Sep–Nov. Do not pick one month."
+      ],
+      "cards": [
+        {
+          "title": "The valley terraces",
+          "summary": "Stepped fields through the center, roofs in the valley, and the town on the far ridge.",
+          "attractionSlug": "cat-cat",
+          "photo": "sapa-terraces",
+          "icon": "view"
+        }
+      ]
+    },
+    {
+      "title": "Fansipan by cable car",
+      "summary": "The summit above town, by cable car from Nguyễn Chí Thanh.",
       "cards": [
         {
           "title": "Fansipan",
-          "summary": "The highest summit in Vietnam, reached by cable car in clear weather. Clouds cancel the view more often than the ride.",
+          "summary": "The platform, the flag, and the ridge, when the cloud is off the summit.",
           "attractionSlug": "fansipan",
-          "photo": "sapa-fansipan",
+          "photo": "sapa-fansipan-2",
           "icon": "view"
         }
+      ]
+    },
+    {
+      "title": "Walking villages",
+      "summary": "Cat Cat is the nearest walk. Ta Phin is the other village Vietnam Tourism says you can see without a guide.",
+      "blocks": [
+        {
+          "id": "cat-cat",
+          "heading": "Cat Cat",
+          "nav": "Cat Cat",
+          "paragraphs": [
+            "The village site prints both thôn Cát Cát, xã Tả Van, and San Sả Hồ commune. The 2025 xã Tả Van absorbed xã Hoàng Liên, which is where the scenic-fee decision still places the waterfall. Hours on the village site are printed as both 06:30–18:00 and 07:00–18:00. A commercial page prints 6:30–17:30."
+          ]
+        },
+        {
+          "id": "farther",
+          "heading": "Farther down the valley",
+          "nav": "The valley road",
+          "paragraphs": [
+            "The older route is town–Ý Linh Hồ–Lao Chải–Tả Van. Ta Van is about 12 km from the center, a walk of 8–12 km in 3–5 hours, with Mong, Giay, and Red Dao communities named on that feature. Xã Lao Chải was not merged in 2025. A 2023 CafeBiz table prints Lao Chải–Tả Van at 75,000 đồng for an adult and 50,000 đồng for a child. Check the gate. Ta Phin is the other village Vietnam Tourism names. The same table prints Tả Phìn–Sín Chải–Hầu Thào at 40,000 đồng and 20,000 đồng. Check that gate too."
+          ]
+        }
       ],
+      "cards": [
+        {
+          "title": "Cat Cat",
+          "summary": "The water wheel, the field, and the boardwalk.",
+          "attractionSlug": "cat-cat",
+          "photo": "sapa-cat-cat",
+          "icon": "view",
+          "block": "cat-cat"
+        },
+        {
+          "title": "Cat Cat waterfall",
+          "summary": "The fall, the stream, and the walkways inside the village.",
+          "attractionSlug": "cat-cat-waterfall",
+          "photo": "sapa-cat-cat-waterfall",
+          "icon": "view",
+          "block": "cat-cat"
+        }
+      ]
+    },
+    {
+      "title": "The stone church square",
+      "summary": "The church in the center, and Ham Rong behind it.",
       "body": [
-        "Fansipan, the country’s highest peak, is a cable car from the edge of town, not a casual add-on if the weather has shut.",
-        "Town restaurants serve hotpot, grilled meat, and visitor-friendly versions of highland dishes. Homestay dinners are the more local meal."
+        "The national page puts the church on a plot of about 6,000 m², Roman Gothic, with a bell tower of 20 m and a 1932 bell of about 1.5 m and 500 kg. It says the church was built in 1895. Lao Cai Tourism says the early 20th century and also prints Đức Mẹ Mân Côi. Both dates stay. Saturday evening the square is where the gathering is. Christmas is named without a civil date.",
+        "Ham Rong is the park beside the church, begun in 1996. The national page says nearly 150 ha and nearly 1,800 m. A commercial page says 148 ha. The adult fee is 70,000 đồng on the national extract, on CafeBiz’s 2023 table, and on a page claiming a September 2026 update. The child line is not one figure: under 1.2 m at 20,000 đồng on the national extract, with no price for a taller child; over 1.2 m at 30,000 đồng and under 1.2 m free on the 2023 table; 1 m–1.4 m at 30,000 đồng and under 1 m free on the 2026 page, which also prints 06:00–18:00. Hours on the national page are check on arrival."
+      ],
+      "cards": [
+        {
+          "title": "Stone church",
+          "summary": "The stone church and the square in front of it.",
+          "attractionSlug": "stone-church",
+          "photo": "sapa-stone-church",
+          "icon": "view"
+        }
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Is the overnight train worth it?",
-      "a": "It saves a hotel night and arrives in Lao Cai in the morning. A daytime limousine is better if you sleep badly on trains."
+      "q": "Where should I sleep?",
+      "a": "In town, around the stone church, when you want the square and the Saturday market on foot. Out among the terraces when the valley is the morning. No brand is the reason to book."
+    },
+    {
+      "q": "How long is the bus from Hanoi?",
+      "a": "Vietnam Tourism prints 5–6 hours into the center. The Hoang Lien center page prints 5–7 hours. The road after the train, from Lao Cai, has no official minute count. Check on arrival."
+    },
+    {
+      "q": "Which Fansipan clock and ticket do I use?",
+      "a": "Print all of them. Vietnam Tourism says 7:30am–5:30pm every day. The operator homepage says 07:30–17:00. A 28 September 2026 notice sets different last departures by weekday. The 2018 page prints 750,000 đồng for an out-of-province adult. The 2026 guide prints 850,000 đồng. Weather can close the line."
+    },
+    {
+      "q": "When is the Saturday market?",
+      "a": "Saturday evening, in the town market and in the square in front of the church. Neither page prints a clock. Check on arrival."
     }
   ],
   "season": {
-    "label": "Typical terrace calendar",
-    "note": "Water in the fields is often late April to May. Green follows in summer. Gold is often late August to October. Mist can hide all three."
+    "label": "Terrace months",
+    "note": "Vietnam Tourism says September and October for the terraces, April and May for clearer weather, June to August if you can take the heat, and November to March chilly, with frost around Fansipan. The same site’s chip says Sep–Nov. The rice page says mid-August until early September. A valley feature says September. A Ta Van feature says about mid-August to October. Landslides on the old QL4D climb are why the connector was built. A closure on a given day is check on arrival."
   }
 }
