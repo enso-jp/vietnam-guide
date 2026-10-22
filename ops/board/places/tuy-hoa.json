@@ -1,0 +1,105 @@
+{
+  "slug": "tuy-hoa",
+  "name": "Tuy Hoa",
+  "nameVi": "Tuy Hòa",
+  "corridor": "south-central-highlands",
+  "kind": "city",
+  "parent": null,
+  "publish": "candidate",
+  "priority": 125,
+  "note": "Coastal city travelers still search as Tuy Hoa, between Quy Nhon and Nha Trang. Search slug stays tuy-hoa even if 2025 borders moved. Corridor is south-central-highlands. It is not a second quy-nhon or nha-trang page. Gành Đá Đĩa and Đại Lãnh are sights of this place when sources support them, not second slugs. Research may be stored. Do not create a public place file until publish is accepted.",
+  "coverage": {
+    "sights": "missing",
+    "areas": "missing",
+    "foodStreets": "missing",
+    "nightlife": "missing",
+    "lifestyle": "missing",
+    "events": "missing",
+    "sideTrips": "missing"
+  },
+  "stages": {
+    "researchBase": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchAttractions": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchFood": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchNightlife": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchLifestyle": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "researchContext": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destination": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "destinationQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "food": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodCopy": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    },
+    "foodQuality": {
+      "status": "not_started",
+      "note": "",
+      "updated": null,
+      "reworkCount": 0
+    }
+  },
+  "items": [],
+  "questions": [],
+  "claim": {
+    "place": "tuy-hoa",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-22T06:33:26.487Z",
+    "by": "tuy-hoa-research",
+    "branch": "cursor/tuy-hoa-research-2b9b"
+  },
+  "log": []
+}
