@@ -61,9 +61,9 @@
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:18:15.572Z",
+      "status": "enriched",
+      "note": "Selling line is the river night and Son My. Hero stays the Tra Khuc crop: boats and the long span, railing out. Fees and hours remain Check on arrival.",
+      "updated": "2026-10-22T04:50:00.755Z",
       "reworkCount": 0
     },
     "destinationQuality": {
@@ -576,6 +576,14 @@
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-22T04:50:00.755Z",
+      "place": "quang-ngai",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Selling line is the river night and Son My. Hero stays the Tra Khuc crop: boats and the long span, railing out. Fees and hours remain Check on arrival."
+    },
     {
       "at": "2026-10-22T04:48:52.515Z",
       "place": "quang-ngai",
