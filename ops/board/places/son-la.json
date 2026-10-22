@@ -73,21 +73,21 @@
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "skipped",
+      "note": "No licensed plate photo. No food guide, no Food chip, no foodSlug, no duplicate dish files. The place eat text names the dossier meals without a plate.",
+      "updated": "2026-10-22T04:38:54.167Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:18:12.744Z",
+      "status": "skipped",
+      "note": "No food guide to rewrite.",
+      "updated": "2026-10-22T04:38:54.227Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:18:12.744Z",
+      "status": "checked",
+      "note": "Confirmed no licensed plate photo and no food guide file. Eat text does not attach a Moc Chau plate.",
+      "updated": "2026-10-22T04:38:54.292Z",
       "reworkCount": 0
     }
   },
@@ -117,11 +117,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Unpublished: no licensed photo.",
-      "updated": "2026-10-22T04:18:12.744Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "checked",
+      "note": "No licensed photo in the dossier. No public file.",
+      "updated": "2026-10-22T04:39:11.793Z",
       "reworkCount": 0
     },
     {
@@ -133,11 +133,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Unpublished: no licensed photo.",
-      "updated": "2026-10-22T04:18:12.744Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "checked",
+      "note": "No licensed photo in the dossier. No public file.",
+      "updated": "2026-10-22T04:39:11.966Z",
       "reworkCount": 0
     },
     {
@@ -149,11 +149,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Unpublished: no licensed photo.",
-      "updated": "2026-10-22T04:18:12.744Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "checked",
+      "note": "No licensed photo in the dossier. No public file.",
+      "updated": "2026-10-22T04:39:12.134Z",
       "reworkCount": 0
     },
     {
@@ -165,11 +165,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Unpublished: no licensed photo.",
-      "updated": "2026-10-22T04:18:12.744Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "checked",
+      "note": "No licensed photo in the dossier. No public file.",
+      "updated": "2026-10-22T04:39:12.308Z",
       "reworkCount": 0
     },
     {
@@ -181,11 +181,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Unpublished: no licensed photo.",
-      "updated": "2026-10-22T04:18:12.744Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "checked",
+      "note": "No licensed photo in the dossier. No public file.",
+      "updated": "2026-10-22T04:39:12.479Z",
       "reworkCount": 0
     },
     {
@@ -197,11 +197,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Unpublished: no licensed photo.",
-      "updated": "2026-10-22T04:18:12.744Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "checked",
+      "note": "No licensed photo in the dossier. No public file.",
+      "updated": "2026-10-22T04:39:12.654Z",
       "reworkCount": 0
     },
     {
@@ -213,11 +213,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Unpublished: no licensed photo.",
-      "updated": "2026-10-22T04:18:12.744Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "checked",
+      "note": "No licensed photo in the dossier. No public file.",
+      "updated": "2026-10-22T04:39:12.827Z",
       "reworkCount": 0
     },
     {
@@ -229,11 +229,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Unpublished: no licensed photo.",
-      "updated": "2026-10-22T04:18:12.744Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "checked",
+      "note": "No licensed photo in the dossier. No public file.",
+      "updated": "2026-10-22T04:39:12.997Z",
       "reworkCount": 0
     },
     {
@@ -245,11 +245,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Unpublished: no licensed photo.",
-      "updated": "2026-10-22T04:18:12.744Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "checked",
+      "note": "No licensed photo in the dossier. No public file.",
+      "updated": "2026-10-22T04:39:13.169Z",
       "reworkCount": 0
     },
     {
@@ -414,134 +414,167 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "son-la",
-    "stage": "food",
-    "item": null,
-    "at": "2026-10-22T04:38:44.815Z",
-    "by": "son-la-page",
-    "branch": "cursor/son-la-destination-db6e"
-  },
+  "claim": null,
   "log": [
     {
-      "at": "2026-10-22T04:38:44.697Z",
+      "at": "2026-10-22T04:39:13.169Z",
       "place": "son-la",
-      "stage": "destinationQuality",
-      "item": null,
+      "stage": "quality",
+      "item": "son-la--pha-din-top",
       "status": "checked",
-      "note": "Read against the dossier. No hero and no sight cards, which matches the unpublished photos. Both figures stay for the prison, the dam, Pa Uon, Ban Mong, Highway 6, and the Le temple windows. Unsourced fees and hours say check on arrival. The map pin 21.33, 103.91 is not in the dossier. Festivals have no photo."
+      "note": "No licensed photo in the dossier. No public file."
     },
     {
-      "at": "2026-10-22T04:37:56.506Z",
+      "at": "2026-10-22T04:39:13.110Z",
       "place": "son-la",
-      "stage": "destinationCopy",
-      "item": null,
-      "status": "enriched",
-      "note": "Place prose and the valley-day line. No place hero: the dossier has no licensed photo of the walls, the town, and the Nam La in one frame. The page uses the highland cover. Both disagreeing figures stay. Unsourced fees and hours stay check on arrival."
+      "stage": "copy",
+      "item": "son-la--pha-din-top",
+      "status": "skipped",
+      "note": "No public page to rewrite."
     },
     {
-      "at": "2026-10-22T04:36:05.269Z",
+      "at": "2026-10-22T04:39:13.054Z",
       "place": "son-la",
-      "stage": "destination",
-      "item": null,
-      "status": "paged",
-      "note": "Place shell, seven interest groups, valley-day itinerary, three festivals. No attraction cards: dossier marks every sight unpublished, no licensed photo. No food guide, foodSlug, or Food chip. Check on arrival for disagreeing prison hours and tickets, the dam gate and a boat, Ban Mong soak, the stele, market clocks, stall prices, taxi and motorbike hire, the Hanoi fare, Moc Chau minutes, Pha Din, pass closures, 2027 festival dates, a Tet surcharge, and the Hmong day. Side trip placeholders: Dien Bien Phu, Ta Xua, Yen Chau, Hoa Binh. Place dot 4. Map pin 21.33, 103.91 is not in the dossier."
+      "stage": "page",
+      "item": "son-la--pha-din-top",
+      "status": "skipped",
+      "note": "Unpublished: no licensed photo. No public file."
     },
     {
-      "at": "2026-10-22T04:18:12.744Z",
+      "at": "2026-10-22T04:39:12.997Z",
       "place": "son-la",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a 2027 civil date for the Le temple festival, which lunar window is current, drive minutes to Dien Bien Phu, and dossiers for Ta Xua, Yen Chau, and Hoa Binh."
+      "stage": "quality",
+      "item": "son-la--quynh-nhai-temples",
+      "status": "checked",
+      "note": "No licensed photo in the dossier. No public file."
     },
     {
-      "at": "2026-10-22T04:18:12.559Z",
+      "at": "2026-10-22T04:39:12.939Z",
       "place": "son-la",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The temple festival and the side trips are in. Still open: a 2027 civil date, and drive minutes to Dien Bien."
+      "stage": "copy",
+      "item": "son-la--quynh-nhai-temples",
+      "status": "skipped",
+      "note": "No public page to rewrite."
     },
     {
-      "at": "2026-10-22T04:17:58.927Z",
+      "at": "2026-10-22T04:39:12.884Z",
       "place": "son-la",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a named cafe street, and the hour the town goes quiet on a night when the walking street is dark."
+      "stage": "page",
+      "item": "son-la--quynh-nhai-temples",
+      "status": "skipped",
+      "note": "Unpublished: no licensed photo. No public file."
     },
     {
-      "at": "2026-10-22T04:17:58.831Z",
+      "at": "2026-10-22T04:39:12.827Z",
       "place": "son-la",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The valley day is in. Still open: a cafe street, and the hour the town goes quiet."
+      "stage": "quality",
+      "item": "son-la--pa-uon",
+      "status": "checked",
+      "note": "No licensed photo in the dossier. No public file."
     },
     {
-      "at": "2026-10-22T04:17:58.703Z",
+      "at": "2026-10-22T04:39:12.767Z",
       "place": "son-la",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a bar street, a closing hour for ordinary nights, and which two Saturdays the city portal will post."
+      "stage": "copy",
+      "item": "son-la--pa-uon",
+      "status": "skipped",
+      "note": "No public page to rewrite."
     },
     {
-      "at": "2026-10-22T04:17:58.612Z",
+      "at": "2026-10-22T04:39:12.711Z",
       "place": "son-la",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The Saturday street is in. Still open: a bar street, and the hour the town closes on other nights."
+      "stage": "page",
+      "item": "son-la--pa-uon",
+      "status": "skipped",
+      "note": "Unpublished: no licensed photo. No public file."
     },
     {
-      "at": "2026-10-22T04:17:58.468Z",
+      "at": "2026-10-22T04:39:12.654Z",
       "place": "son-la",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: market clocks, stall prices, a second be chao method, and duplicate dish files for com lam, pa pinh top, ruou can, and smoked meat because those slugs already exist on moc-chau."
+      "stage": "quality",
+      "item": "son-la--son-la-dam",
+      "status": "checked",
+      "note": "No licensed photo in the dossier. No public file."
     },
     {
-      "at": "2026-10-22T04:17:58.081Z",
+      "at": "2026-10-22T04:39:12.594Z",
       "place": "son-la",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Dishes and three markets are in. Still open: market clocks, stall prices, and a second be chao method."
+      "stage": "copy",
+      "item": "son-la--son-la-dam",
+      "status": "skipped",
+      "note": "No public page to rewrite."
     },
     {
-      "at": "2026-10-22T04:17:43.386Z",
+      "at": "2026-10-22T04:39:12.537Z",
       "place": "son-la",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a museum notice that chooses one hour and one fee, a plant visitor notice, a chosen dam distance, a chosen Pa Uon height, Ngu Dong Ban On because it sits on the Moc Chau plateau, and Hang Chi Day because the handbook gives no commune."
+      "stage": "page",
+      "item": "son-la--son-la-dam",
+      "status": "skipped",
+      "note": "Unpublished: no licensed photo. No public file."
     },
     {
-      "at": "2026-10-22T04:17:42.960Z",
+      "at": "2026-10-22T04:39:12.480Z",
       "place": "son-la",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Sights are in. Still open: one prison clock, one dam distance, one Pa Uon height, and visit text for Ngu Dong and Hang Chi Day."
+      "stage": "quality",
+      "item": "son-la--rung-vang",
+      "status": "checked",
+      "note": "No licensed photo in the dossier. No public file."
     },
     {
-      "at": "2026-10-22T04:17:42.521Z",
+      "at": "2026-10-22T04:39:12.423Z",
       "place": "son-la",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a Vietnam Railways timetable, a 2026 Na San flight board, one bus fare, and one current drive time from Moc Chau to the city."
+      "stage": "copy",
+      "item": "son-la--rung-vang",
+      "status": "skipped",
+      "note": "No public page to rewrite."
     },
     {
-      "at": "2026-10-22T04:17:42.481Z",
+      "at": "2026-10-22T04:39:12.364Z",
       "place": "son-la",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Still open: a rail timetable, a Na San flight board, one bus fare, and one drive time from Moc Chau to the city."
+      "stage": "page",
+      "item": "son-la--rung-vang",
+      "status": "skipped",
+      "note": "Unpublished: no licensed photo. No public file."
+    },
+    {
+      "at": "2026-10-22T04:39:12.308Z",
+      "place": "son-la",
+      "stage": "quality",
+      "item": "son-la--ban-mong",
+      "status": "checked",
+      "note": "No licensed photo in the dossier. No public file."
+    },
+    {
+      "at": "2026-10-22T04:39:12.250Z",
+      "place": "son-la",
+      "stage": "copy",
+      "item": "son-la--ban-mong",
+      "status": "skipped",
+      "note": "No public page to rewrite."
+    },
+    {
+      "at": "2026-10-22T04:39:12.192Z",
+      "place": "son-la",
+      "stage": "page",
+      "item": "son-la--ban-mong",
+      "status": "skipped",
+      "note": "Unpublished: no licensed photo. No public file."
+    },
+    {
+      "at": "2026-10-22T04:39:12.134Z",
+      "place": "son-la",
+      "stage": "quality",
+      "item": "son-la--que-lam-stele",
+      "status": "checked",
+      "note": "No licensed photo in the dossier. No public file."
+    },
+    {
+      "at": "2026-10-22T04:39:12.079Z",
+      "place": "son-la",
+      "stage": "copy",
+      "item": "son-la--que-lam-stele",
+      "status": "skipped",
+      "note": "No public page to rewrite."
     }
   ]
 }
