@@ -3,12 +3,48 @@
   "placeSlug": "da-lat",
   "name": "Da Lat Education College",
   "nameVi": "Cao đẳng Sư phạm",
-  "summary": "Curved colonnade and bell tower on Yersin, view from the gate.",
+  "kicker": "Colonnade and bell tower on Yersin",
+  "summary": "The education college on Yersin is a street view: the curved colonnade and the bell tower from the gate. It is free from the pavement. Fifteen minutes is enough. Do not walk into exam halls during term. Interior permission is not a visitor ticket.",
   "dots": 2,
   "timeNeeded": "15 minutes",
   "fee": "Free from the street",
-  "getThere": "29 Yersin",
-  "district": "City centre",
+  "getThere": "Walk along Yersin",
+  "district": "The west ridge",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The curved colonnade on Yersin",
+  "notice": {
+    "title": "Stay at the gate",
+    "body": "The visit is the colonnade and the bell tower from the street. Exam halls are not a public walk during term."
+  },
+  "body": [
+    "On Yersin, stop at the gate for the curved colonnade and the bell tower. Vietnam Tourism includes the college among the hill-station buildings you see from the street. Fifteen minutes is the outside look.",
+    "It is free from the pavement. There is no printed visitor hour. Interior hours are Check on arrival. Do not treat a term-time exam hall as part of the walk."
+  ],
+  "figures": [
+    {
+      "id": "da-lat-education-college-2",
+      "caption": "The bell tower above the colonnade",
+      "alt": "Bell tower of Da Lat Education College"
+    }
+  ],
+  "gettingThere": [
+    "The college faces Yersin. Walk from the lake side of town along that street. A door number and a minute count are not printed. Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Xuan Huong Lake",
+      "body": "Walk to Yersin. Minutes are Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "admissionNote": "Viewing from the street is free. No visitor ticket is printed. Interior hours are Check on arrival.",
+  "links": [
+    {
+      "label": "Vietnam Tourism, things to do in Da Lat",
+      "url": "https://www.vietnam.travel/things-to-do/8-things-to-do-in-dalat",
+      "note": "Accessed 21 Oct 2026"
+    }
+  ],
   "interests": [
     "photography"
   ]

@@ -3,12 +3,54 @@
   "placeSlug": "da-lat",
   "name": "Lam Vien Square",
   "nameVi": "Quảng trường Lâm Viên",
-  "summary": "Lakeside square; flower-festival opening and closing stage in Dec 2026.",
+  "kicker": "Lakeside square and festival stage",
+  "summary": "Lam Vien Square is the free lakeside square on Tran Quoc Toang, beside Xuan Huong Lake. A portal table cited by secondary articles prints 07:00 to 22:00. Thirty minutes is a normal stroll. On 19 and 31 December 2026 the Ministry of Culture, Sports and Tourism puts the flower-festival shows here at 20:00.",
   "dots": 3,
   "timeNeeded": "30 minutes",
   "fee": "Free",
-  "getThere": "Tran Quoc Toan",
-  "district": "City centre",
+  "getThere": "Walk from Xuan Huong Lake to Tran Quoc Toang",
+  "district": "The lake",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The flower hall and the lake at Lam Vien Square",
+  "notice": {
+    "title": "The festival show is two nights",
+    "body": "The ministry plan puts the opening at 20:00 on 19 December 2026 and the closing, with the New Year programme, at 20:00 on 31 December 2026. An ordinary evening is the square, not that show."
+  },
+  "body": [
+    "The square sits on Tran Quoc Toang where the lake edge opens into a paved stage. An ordinary visit is a 30-minute stroll. The hours 07:00 to 22:00 are the portal table cited in secondary articles. Entry is free.",
+    "In December 2026 the square is also the festival stage. The Ministry of Culture, Sports and Tourism sets the opening at 20:00 on 19 December 2026 and the closing, with the New Year programme, at 20:00 on 31 December 2026. Flower displays run about 18 December 2026 to 3 January 2027 around the lake. A show ticket is Check on arrival. Do not expect the opening on an ordinary Tuesday."
+  ],
+  "figures": [
+    {
+      "id": "da-lat-lam-vien-square-2",
+      "caption": "The square building by the lake",
+      "alt": "Building on Lam Vien Square beside Xuan Huong Lake"
+    }
+  ],
+  "gettingThere": [
+    "Walk from the Xuan Huong shore to Tran Quoc Toang. The square is on the lake. No fare is printed."
+  ],
+  "legs": [
+    {
+      "heading": "From Xuan Huong Lake",
+      "body": "Walk along the shore to the square. It is the same waterside stroll."
+    }
+  ],
+  "hours": "07:00 to 22:00",
+  "closed": "No weekly closing day is printed.",
+  "admissionNote": "The square is free. Hours 07:00 to 22:00 come from a portal table cited in secondary articles. A 2026 visitor ticket for the festival show is Check on arrival.",
+  "links": [
+    {
+      "label": "Visit Lâm Đồng, Lam Vien Square",
+      "url": "https://visitlamdong.vn/vi/quangtruonglamvien",
+      "note": "Provincial tourism page, accessed 21 Oct 2026"
+    },
+    {
+      "label": "Ministry of Culture, Sports and Tourism",
+      "url": "https://bvhttdl.gov.vn/festival-hoa-da-lat-lan-thu-xi-nam-2026-ton-vinh-gia-tri-hoa-am-nhac-va-khang-dinh-vi-the-do-thi-sang-tao-cua-unesco.htm",
+      "note": "2026 festival plan"
+    }
+  ],
   "interests": [
     "photography"
   ]

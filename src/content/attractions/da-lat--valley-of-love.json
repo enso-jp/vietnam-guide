@@ -3,12 +3,49 @@
   "placeSlug": "da-lat",
   "name": "Valley of Love",
   "nameVi": "Thung lũng Tình Yêu",
-  "summary": "Landscaped valley park north of centre.",
+  "kicker": "Landscaped valley park north of town",
+  "summary": "Valley of Love is a paid landscaped park north of the centre, not a wild forest. Walk the paths for 1 to 2 hours. Hours are about 07:00 to 17:00. The gate price is Check on arrival. A 2025 secondary article prints about 250,000 VND.",
   "dots": 2,
   "timeNeeded": "1–2 hours",
   "fee": "Check on arrival",
-  "getThere": "North of centre",
-  "district": "North",
+  "getThere": "Taxi north of the centre",
+  "district": "The north hills",
+  "verified": "22 Oct 2026",
+  "heroCaption": "Flower slopes in the Valley of Love",
+  "notice": {
+    "title": "This is a paid park",
+    "body": "The valley is landscaped. The gate price is Check on arrival. A 2025 secondary article prints about 250,000 VND. Do not expect an open hillside outside a fence."
+  },
+  "body": [
+    "The park north of town is a landscaped valley: paths, planted slopes, and a managed walk. Plan 1 to 2 hours. It is not a trail outside a fence.",
+    "Hours are about 07:00 to 17:00. The settled price is Check on arrival. A 2025 secondary article prints about 250,000 VND. Pay the figure the gate asks. The taxi north has no printed minutes."
+  ],
+  "figures": [
+    {
+      "id": "da-lat-valley-of-love-2",
+      "caption": "The stone name slope in the park",
+      "alt": "Stone slope with the park name at the Valley of Love"
+    }
+  ],
+  "gettingThere": [
+    "The park is north of the centre. Take a taxi from Xuan Huong Lake. Minutes and the fare are Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Xuan Huong Lake",
+      "body": "Taxi north. Minutes and the fare are Check on arrival."
+    }
+  ],
+  "hours": "About 07:00 to 17:00",
+  "closed": "No weekly closing day is printed.",
+  "admissionNote": "The settled adult price is Check on arrival. A 2025 secondary article prints about 250,000 VND. Visit Lâm Đồng hours are about 07:00 to 17:00. Confirm the ticket at the gate.",
+  "links": [
+    {
+      "label": "Visit Lâm Đồng, Valley of Love",
+      "url": "https://visitlamdong.vn/vi/thunglungtinhyeu",
+      "note": "Provincial tourism page, accessed 21 Oct 2026"
+    }
+  ],
   "interests": [
     "family"
   ]

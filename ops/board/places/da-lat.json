@@ -43,15 +43,15 @@
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "status": "enriched",
+      "note": "Nine sourced entries: seven dishes and two markets. Gap of 31 because food.md left out stall and shop names. No padded doors.",
+      "updated": "2026-10-22T17:29:11.885Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "status": "checked",
+      "note": "Guide order is specialties, then snack lines, casual markets, and breakfast. Nine sourced entries. Gap of 31 left in the draft. No invented doors.",
+      "updated": "2026-10-22T17:29:18.530Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -101,11 +101,11 @@
       "file": "src/content/attractions/da-lat--market.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Market page from the dossier: free entry, hours and stall prices Check on arrival, morning and night frames.",
+      "updated": "2026-10-22T17:36:18.699Z",
       "reworkCount": 0
     },
     {
@@ -117,11 +117,11 @@
       "file": "src/content/attractions/da-lat--xuan-huong.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Lake page: free on Visit Lâm Đồng, loop 45–90 minutes, boat hire Check on arrival.",
+      "updated": "2026-10-22T17:36:18.885Z",
       "reworkCount": 0
     },
     {
@@ -149,11 +149,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Station page: tourist train only. Fee Check on arrival and 50,000 VND from 1 Oct 2024.",
+      "updated": "2026-10-22T17:36:19.086Z",
       "reworkCount": 0
     },
     {
@@ -165,11 +165,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Cathedral page: exterior free, interior hours Check on arrival, not Domaine de Marie.",
+      "updated": "2026-10-22T17:36:19.289Z",
       "reworkCount": 0
     },
     {
@@ -181,11 +181,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Crazy House page: Hang Nga Ltd hours and height bands.",
+      "updated": "2026-10-22T17:36:19.500Z",
       "reworkCount": 0
     },
     {
@@ -197,11 +197,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Palace III page: 25,000 VND and 60,000 VND both printed.",
+      "updated": "2026-10-22T17:36:19.699Z",
       "reworkCount": 0
     },
     {
@@ -213,11 +213,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Linh Phuoc page: free, hours Check on arrival, train or road.",
+      "updated": "2026-10-22T17:36:19.975Z",
       "reworkCount": 0
     },
     {
@@ -229,11 +229,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Truc Lam page: monastery free, cable Check on arrival and about 120,000 VND.",
+      "updated": "2026-10-22T17:36:20.778Z",
       "reworkCount": 0
     },
     {
@@ -245,11 +245,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph of the lake surface.",
+      "updated": "2026-10-22T17:36:21.401Z",
       "reworkCount": 0
     },
     {
@@ -261,11 +261,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Datanla page: 30,000 VND entrance, higher bundles named without a menu.",
+      "updated": "2026-10-22T17:36:21.599Z",
       "reworkCount": 0
     },
     {
@@ -277,11 +277,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph of the pine slope or peak.",
+      "updated": "2026-10-22T17:36:21.810Z",
       "reworkCount": 0
     },
     {
@@ -293,11 +293,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Lam Vien page: free square, 07:00–22:00, 2026 festival nights named.",
+      "updated": "2026-10-22T17:36:21.998Z",
       "reworkCount": 0
     },
     {
@@ -309,11 +309,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph of the flower beds.",
+      "updated": "2026-10-22T17:36:22.191Z",
       "reworkCount": 0
     },
     {
@@ -325,11 +325,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Domaine de Marie page: free at 1 Ngo Quyen, hours Check on arrival.",
+      "updated": "2026-10-22T17:36:22.379Z",
       "reworkCount": 0
     },
     {
@@ -341,11 +341,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Valley page: Check on arrival and about 250,000 VND, hours about 07:00–17:00.",
+      "updated": "2026-10-22T17:36:22.563Z",
       "reworkCount": 0
     },
     {
@@ -357,11 +357,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Only one licensed frame of the Truc Lam cableway.",
+      "updated": "2026-10-22T17:36:22.753Z",
       "reworkCount": 0
     },
     {
@@ -373,11 +373,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photograph of the villa. Fee Check on arrival.",
+      "updated": "2026-10-22T17:36:22.941Z",
       "reworkCount": 0
     },
     {
@@ -389,11 +389,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:18:16.848Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "College page: free street view of the colonnade and bell tower.",
+      "updated": "2026-10-22T17:36:23.124Z",
       "reworkCount": 0
     },
     {
@@ -606,142 +606,167 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "da-lat",
-    "stage": "foodCopy",
-    "item": null,
-    "at": "2026-10-22T17:18:56.475Z",
-    "by": "hourly",
-    "branch": ""
-  },
+  "claim": null,
   "log": [
     {
-      "at": "2026-10-22T17:18:56.441Z",
+      "at": "2026-10-22T17:36:23.124Z",
       "place": "da-lat",
-      "stage": "destinationQuality",
-      "item": null,
+      "stage": "quality",
+      "item": "da-lat--education-college",
       "status": "checked",
-      "note": "Place prose, lake hero, season chip, and interest groups checked. Sight pages remain later units."
+      "note": "College page: free street view of the colonnade and bell tower."
     },
     {
-      "at": "2026-10-22T17:16:57.758Z",
+      "at": "2026-10-22T17:36:23.063Z",
       "place": "da-lat",
-      "stage": "destinationCopy",
-      "item": null,
+      "stage": "copy",
+      "item": "da-lat--education-college",
       "status": "enriched",
-      "note": "Place prose, cool-dry season chip, lake hero, and sourced interest groups. Lat and lng left unset. Tuyen Lam has no licensed lake frame."
+      "note": "College page: free street view of the colonnade and bell tower."
     },
     {
-      "at": "2026-10-21T11:21:58.783Z",
+      "at": "2026-10-22T17:36:23.002Z",
       "place": "da-lat",
-      "stage": "food",
-      "item": null,
+      "stage": "page",
+      "item": "da-lat--education-college",
       "status": "paged",
-      "note": "Photo-led food guide and kem bo / banh trang nuong dish records."
+      "note": "College page: free street view of the colonnade and bell tower."
     },
     {
-      "at": "2026-10-21T11:21:28.378Z",
+      "at": "2026-10-22T17:36:22.941Z",
       "place": "da-lat",
-      "stage": "destination",
-      "item": null,
+      "stage": "quality",
+      "item": "da-lat--museum",
+      "status": "skipped",
+      "note": "No licensed photograph of the villa. Fee Check on arrival."
+    },
+    {
+      "at": "2026-10-22T17:36:22.878Z",
+      "place": "da-lat",
+      "stage": "copy",
+      "item": "da-lat--museum",
+      "status": "skipped",
+      "note": "No licensed photograph of the villa. Fee Check on arrival."
+    },
+    {
+      "at": "2026-10-22T17:36:22.817Z",
+      "place": "da-lat",
+      "stage": "page",
+      "item": "da-lat--museum",
+      "status": "skipped",
+      "note": "No licensed photograph of the villa. Fee Check on arrival."
+    },
+    {
+      "at": "2026-10-22T17:36:22.753Z",
+      "place": "da-lat",
+      "stage": "quality",
+      "item": "da-lat--cable-car",
+      "status": "skipped",
+      "note": "Only one licensed frame of the Truc Lam cableway."
+    },
+    {
+      "at": "2026-10-22T17:36:22.691Z",
+      "place": "da-lat",
+      "stage": "copy",
+      "item": "da-lat--cable-car",
+      "status": "skipped",
+      "note": "Only one licensed frame of the Truc Lam cableway."
+    },
+    {
+      "at": "2026-10-22T17:36:22.629Z",
+      "place": "da-lat",
+      "stage": "page",
+      "item": "da-lat--cable-car",
+      "status": "skipped",
+      "note": "Only one licensed frame of the Truc Lam cableway."
+    },
+    {
+      "at": "2026-10-22T17:36:22.563Z",
+      "place": "da-lat",
+      "stage": "quality",
+      "item": "da-lat--valley-of-love",
+      "status": "checked",
+      "note": "Valley page: Check on arrival and about 250,000 VND, hours about 07:00–17:00."
+    },
+    {
+      "at": "2026-10-22T17:36:22.502Z",
+      "place": "da-lat",
+      "stage": "copy",
+      "item": "da-lat--valley-of-love",
+      "status": "enriched",
+      "note": "Valley page: Check on arrival and about 250,000 VND, hours about 07:00–17:00."
+    },
+    {
+      "at": "2026-10-22T17:36:22.441Z",
+      "place": "da-lat",
+      "stage": "page",
+      "item": "da-lat--valley-of-love",
       "status": "paged",
-      "note": "Place shell, eighteen attraction stubs, interests, festival, itinerary, food guide from stored dossier 21 Oct 2026."
+      "note": "Valley page: Check on arrival and about 250,000 VND, hours about 07:00–17:00."
     },
     {
-      "at": "2026-10-21T11:18:16.848Z",
+      "at": "2026-10-22T17:36:22.379Z",
       "place": "da-lat",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "left out exact airport taxi fares."
+      "stage": "quality",
+      "item": "da-lat--domaine-de-marie",
+      "status": "checked",
+      "note": "Domaine de Marie page: free at 1 Ngo Quyen, hours Check on arrival."
     },
     {
-      "at": "2026-10-21T11:18:13.155Z",
+      "at": "2026-10-22T17:36:22.318Z",
       "place": "da-lat",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "left out stall prices and shop names."
+      "stage": "copy",
+      "item": "da-lat--domaine-de-marie",
+      "status": "enriched",
+      "note": "Domaine de Marie page: free at 1 Ngo Quyen, hours Check on arrival."
     },
     {
-      "at": "2026-10-21T11:17:58.453Z",
+      "at": "2026-10-22T17:36:22.255Z",
       "place": "da-lat",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "left out Buon Ma Thuot page and unsourced drive minutes."
+      "stage": "page",
+      "item": "da-lat--domaine-de-marie",
+      "status": "paged",
+      "note": "Domaine de Marie page: free at 1 Ngo Quyen, hours Check on arrival."
     },
     {
-      "at": "2026-10-21T11:17:53.264Z",
+      "at": "2026-10-22T17:36:22.192Z",
       "place": "da-lat",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Flower festival and side trips in dossier."
+      "stage": "quality",
+      "item": "da-lat--flower-garden",
+      "status": "skipped",
+      "note": "No licensed photograph of the flower beds."
     },
     {
-      "at": "2026-10-21T11:17:53.236Z",
+      "at": "2026-10-22T17:36:22.129Z",
       "place": "da-lat",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "left out cafe shop picks."
+      "stage": "copy",
+      "item": "da-lat--flower-garden",
+      "status": "skipped",
+      "note": "No licensed photograph of the flower beds."
     },
     {
-      "at": "2026-10-21T11:17:53.155Z",
+      "at": "2026-10-22T17:36:22.067Z",
       "place": "da-lat",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Morning lake and cafe hour in dossier."
+      "stage": "page",
+      "item": "da-lat--flower-garden",
+      "status": "skipped",
+      "note": "No licensed photograph of the flower beds."
     },
     {
-      "at": "2026-10-21T11:17:53.128Z",
+      "at": "2026-10-22T17:36:21.998Z",
       "place": "da-lat",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "left out bar brands; lake walk only."
+      "stage": "quality",
+      "item": "da-lat--lam-vien-square",
+      "status": "checked",
+      "note": "Lam Vien page: free square, 07:00–22:00, 2026 festival nights named."
     },
     {
-      "at": "2026-10-21T11:17:53.041Z",
+      "at": "2026-10-22T17:36:21.937Z",
       "place": "da-lat",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Night market and lakeside walk in dossier."
-    },
-    {
-      "at": "2026-10-21T11:17:35.829Z",
-      "place": "da-lat",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Dishes and two food streets in dossier."
-    },
-    {
-      "at": "2026-10-21T11:17:27.592Z",
-      "place": "da-lat",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "left out Elephant Falls as its own page until a licensed photo exists."
-    },
-    {
-      "at": "2026-10-21T11:17:27.467Z",
-      "place": "da-lat",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Sixteen sight rows sourced; Elephant Falls page skipped."
-    },
-    {
-      "at": "2026-10-21T11:16:57.839Z",
-      "place": "da-lat",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and getting there drafted; sight catalog opens next lane."
+      "stage": "copy",
+      "item": "da-lat--lam-vien-square",
+      "status": "enriched",
+      "note": "Lam Vien page: free square, 07:00–22:00, 2026 festival nights named."
     }
   ]
 }

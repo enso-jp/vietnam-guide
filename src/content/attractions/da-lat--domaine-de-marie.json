@@ -3,12 +3,53 @@
   "placeSlug": "da-lat",
   "name": "Domaine de Marie",
   "nameVi": "Domaine de Marie",
-  "summary": "Pink church and convent gardens on the west ridge.",
+  "kicker": "Pink convent church on Ngo Quyen",
+  "summary": "Domaine de Marie is the pink church and convent garden at 1 Ngo Quyen, on the west ridge. Visit Lâm Đồng lists entry as free. Allow 20 to 30 minutes. It is not the rooster cathedral on Tran Phu. Hours are Check on arrival.",
   "dots": 3,
-  "timeNeeded": "30 minutes",
+  "timeNeeded": "20–30 minutes",
   "fee": "Free",
-  "getThere": "1 Ngo Quyen",
-  "district": "West",
+  "getThere": "Taxi to 1 Ngo Quyen",
+  "district": "The west ridge",
+  "verified": "22 Oct 2026",
+  "heroCaption": "The courtyard at Domaine de Marie",
+  "notice": {
+    "title": "Not the Chicken Church",
+    "body": "The rooster tower is Da Lat Cathedral on Tran Phu. Domaine de Marie is the convent church at 1 Ngo Quyen."
+  },
+  "body": [
+    "The pink church and the convent garden are at 1 Ngo Quyen. Vietnam Tourism names Domaine de Marie among the hill-station stops. Twenty to thirty minutes covers the front and the garden.",
+    "Entry is free on Visit Lâm Đồng. Hours are Check on arrival. Do not call this the Chicken Church. That rooster is on the cathedral tower on Tran Phu, a different address."
+  ],
+  "figures": [
+    {
+      "id": "da-lat-domaine-de-marie-2",
+"caption": "The convent courtyard and pink church",
+        "alt": "Courtyard and pink church at Domaine de Marie in Da Lat"
+    }
+  ],
+  "gettingThere": [
+    "The church is at 1 Ngo Quyen, on the west ridge. Take a taxi from Xuan Huong Lake. Minutes and the fare are Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Xuan Huong Lake",
+      "body": "Taxi to 1 Ngo Quyen. Minutes and the fare are Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "admissionNote": "Visit Lâm Đồng lists entry as free. Hours are Check on arrival.",
+  "links": [
+    {
+      "label": "Visit Lâm Đồng, Domaine de Marie",
+      "url": "https://visitlamdong.vn/vi/nhathodomaine",
+      "note": "Provincial tourism page, accessed 21 Oct 2026"
+    },
+    {
+      "label": "Vietnam Tourism, things to do in Da Lat",
+      "url": "https://www.vietnam.travel/things-to-do/8-things-to-do-in-dalat",
+      "note": "Domaine de Marie"
+    }
+  ],
   "interests": [
     "pagodas"
   ]

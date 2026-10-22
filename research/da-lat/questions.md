@@ -14,3 +14,4 @@ Checked against the stored dossier on 22 Oct 2026. Do not invent a figure for th
 - Lam Dong Museum fee: Check on arrival. No licensed villa photograph was accepted.
 - Langbiang, the city flower garden, and Elephant Falls: facts are in the dossier. A sight card waits on a licensed photograph of that subject.
 - Stall prices for strawberries, kem bo, banh trang nuong, and soy milk: Check on arrival.
+- Food guide count: 7 dishes and 2 markets, 9 sourced entries. The gap to 40 is 31 because food.md records no stall or shop names. Restaurant brands on Vietnam Tourism stay unpublished.
