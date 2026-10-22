@@ -75,22 +75,22 @@
     },
     {
       "title": "Hàng Dương",
-      "summary": "Grave rows and trees. The January vigil for Võ Thị Sáu is here, not in Vũng Tàu.",
-      "placeSlug": "con-dao",
+      "summary": "The monument and the trees. The January vigil for Võ Thị Sáu is here, not in Vũng Tàu.",
+      "attractionSlug": "hang-duong",
       "photo": "con-dao-interest-cemetery",
       "icon": "museum"
     },
     {
       "title": "The park",
       "summary": "Forest and water. Sixteen islands on the park page, fourteen on the Ramsar sheet.",
-      "placeSlug": "con-dao",
+      "attractionSlug": "con-dao-national-park",
       "photo": "con-dao-interest-park",
       "icon": "view"
     },
     {
       "title": "The turtle islets",
       "summary": "Hòn Bảy Cạnh from the water. Night viewing is a booked group, not a private talk.",
-      "placeSlug": "con-dao",
+      "attractionSlug": "hon-bay-canh",
       "photo": "con-dao-interest-islet",
       "icon": "view"
     }
@@ -164,8 +164,8 @@
       "cards": [
         {
           "title": "Hàng Dương",
-          "summary": "The monument, the grave rows, and the trees. Ordinary hours are check on arrival.",
-          "placeSlug": "con-dao",
+          "summary": "The monument and the trees. Ordinary hours are Check on arrival.",
+          "attractionSlug": "hang-duong",
           "photo": "con-dao-interest-cemetery",
           "icon": "museum",
           "block": "cemetery"
@@ -194,7 +194,7 @@
         {
           "title": "The park",
           "summary": "A forest pond and the hill. The shore frame is Côn Sơn, not Đầm Trầu.",
-          "placeSlug": "con-dao",
+          "attractionSlug": "con-dao-national-park",
           "photo": "con-dao-interest-park",
           "icon": "view",
           "block": "park"
@@ -223,7 +223,7 @@
         {
           "title": "Hòn Bảy Cạnh",
           "summary": "The islet, the water, and a rocky shore. The long beach is not obvious in this frame.",
-          "placeSlug": "con-dao",
+          "attractionSlug": "hon-bay-canh",
           "photo": "con-dao-interest-islet",
           "icon": "view",
           "block": "islets"

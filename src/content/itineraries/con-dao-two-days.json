@@ -37,9 +37,32 @@
       }
     },
     {
+      "name": "Hang Duong cemetery",
+      "placeSlug": "con-dao",
+      "attractionSlug": "hang-duong",
+      "note": "Day 1, after the camps. Ordinary minutes were not printed. Check on arrival. This is not the Vũng Tàu memorial.",
+      "minutes": "Check on arrival",
+      "approach": {
+        "mode": "walk",
+        "note": "In town. A street minute count was not printed."
+      }
+    },
+    {
+      "name": "Con Dao National Park",
+      "placeSlug": "con-dao",
+      "attractionSlug": "con-dao-national-park",
+      "note": "Day 2. The scenic fee is not the boat and not the prison ticket. Minutes for a whole park day were not printed. Check on arrival.",
+      "minutes": "Check on arrival",
+      "approach": {
+        "mode": "walk",
+        "note": "The office is on đường Ma Thiên Lãnh, khu 3. Walk minutes were not printed."
+      }
+    },
+    {
       "name": "Boat toward Hon Bay Canh",
       "placeSlug": "con-dao",
-      "note": "Day 2. About 45 minutes by boat on the English park tour page. Time on the islet and the fare: check on arrival.",
+      "attractionSlug": "hon-bay-canh",
+      "note": "Day 2. About 45 minutes by boat on the English park tour page. Time on the islet and the fare: Check on arrival.",
       "minutes": 45,
       "approach": {
         "mode": "boat",

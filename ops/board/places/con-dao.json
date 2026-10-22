@@ -118,10 +118,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Yard and cell blocks, plus the French tiger cages. Both prisoner figures. Gate hour and relic ticket Check on arrival. The Phu Hai gate is the interest portrait, not the hero.",
-      "updated": "2026-10-22T02:46:51.611Z",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Both prisoner figures are in the lede. Hours and the relic ticket stay Check on arrival. Photos match the yard and the tiger-cage walls.",
+      "updated": "2026-10-22T02:47:05.608Z",
       "reworkCount": 0
     },
     {
@@ -130,14 +130,14 @@
       "track": "unit",
       "name": "Hang Duong cemetery",
       "slug": "hang-duong",
-      "file": null,
+      "file": "src/content/attractions/con-dao--hang-duong.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Grave counts by zone. Ordinary hours were not printed.",
-      "updated": "2026-10-21T18:40:18.808Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Zone counts match the museum chapter. The 09:00 time is the 2026 vigil, not an ordinary hour.",
+      "updated": "2026-10-22T02:53:00.058Z",
       "reworkCount": 0
     },
     {
@@ -149,11 +149,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Lengths and the three names of the pier stay together.",
-      "updated": "2026-10-21T18:40:18.808Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of Cầu tàu 914. Page skipped. The three length figures stay in the place prose.",
+      "updated": "2026-10-22T02:53:00.237Z",
       "reworkCount": 0
     },
     {
@@ -165,11 +165,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Two different 3 km legs stay separate.",
-      "updated": "2026-10-21T18:40:18.808Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the Con Dao bridge. Commons hits were a different place. Page skipped.",
+      "updated": "2026-10-22T02:53:00.410Z",
       "reworkCount": 0
     },
     {
@@ -178,14 +178,14 @@
       "track": "unit",
       "name": "Con Dao National Park",
       "slug": "con-dao-national-park",
-      "file": null,
+      "file": "src/content/attractions/con-dao--con-dao-national-park.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Island counts 16 and 14, and the three area figures, stay side by side.",
-      "updated": "2026-10-21T18:40:18.808Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "16 and 14 islands stay side by side. 355 coral species are not merged with 1,000 ha.",
+      "updated": "2026-10-22T02:53:00.612Z",
       "reworkCount": 0
     },
     {
@@ -197,11 +197,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Yellow sand and amber sand both stay. Minutes from town were not printed.",
-      "updated": "2026-10-21T18:40:18.808Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of Dam Trau. Page skipped. Both sand colors stay in the park prose.",
+      "updated": "2026-10-22T02:53:00.795Z",
       "reworkCount": 0
     },
     {
@@ -213,11 +213,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Walk times are the English tour page.",
-      "updated": "2026-10-21T18:40:18.808Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of Ong Dung. Page skipped. The two 3 km legs stay separate in the prose.",
+      "updated": "2026-10-22T02:53:00.966Z",
       "reworkCount": 0
     },
     {
@@ -226,14 +226,14 @@
       "track": "unit",
       "name": "Hon Bay Canh",
       "slug": "hon-bay-canh",
-      "file": null,
+      "file": "src/content/attractions/con-dao--hon-bay-canh.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Park islet. Not a new place.",
-      "updated": "2026-10-21T18:40:18.808Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Boat time is the English page's 45 minutes. Fare, time ashore, and nesting months stay Check on arrival. Second frame was not on Commons.",
+      "updated": "2026-10-22T02:53:01.170Z",
       "reworkCount": 0
     },
     {
@@ -529,156 +529,164 @@
   "claim": null,
   "log": [
     {
-      "at": "2026-10-22T02:46:51.611Z",
+      "at": "2026-10-22T02:53:01.170Z",
+      "place": "con-dao",
+      "stage": "quality",
+      "item": "con-dao--hon-bay-canh",
+      "status": "checked",
+      "note": "Boat time is the English page's 45 minutes. Fare, time ashore, and nesting months stay Check on arrival. Second frame was not on Commons."
+    },
+    {
+      "at": "2026-10-22T02:53:01.114Z",
+      "place": "con-dao",
+      "stage": "copy",
+      "item": "con-dao--hon-bay-canh",
+      "status": "enriched",
+      "note": "Caption is the hill and a rocky shore, not a nesting turtle and not another beach."
+    },
+    {
+      "at": "2026-10-22T02:53:01.055Z",
       "place": "con-dao",
       "stage": "page",
-      "item": "con-dao--con-dao-prison",
+      "item": "con-dao--hon-bay-canh",
       "status": "paged",
-      "note": "Yard and cell blocks, plus the French tiger cages. Both prisoner figures. Gate hour and relic ticket Check on arrival. The Phu Hai gate is the interest portrait, not the hero."
+      "note": "One licensed frame of the islet. No second photo, so the page has no body. Long beach is not obvious in the frame."
     },
     {
-      "at": "2026-10-22T02:45:11.314Z",
+      "at": "2026-10-22T02:53:00.967Z",
       "place": "con-dao",
-      "stage": "foodQuality",
-      "item": null,
+      "stage": "quality",
+      "item": "con-dao--ong-dung",
+      "status": "skipped",
+      "note": "No licensed photo of Ong Dung. Page skipped. The two 3 km legs stay separate in the prose."
+    },
+    {
+      "at": "2026-10-22T02:53:00.910Z",
+      "place": "con-dao",
+      "stage": "copy",
+      "item": "con-dao--ong-dung",
+      "status": "skipped",
+      "note": "No licensed photo of Ong Dung. Page skipped. The two 3 km legs stay separate in the prose."
+    },
+    {
+      "at": "2026-10-22T02:53:00.851Z",
+      "place": "con-dao",
+      "stage": "page",
+      "item": "con-dao--ong-dung",
+      "status": "skipped",
+      "note": "No licensed photo of Ong Dung. Page skipped. The two 3 km legs stay separate in the prose."
+    },
+    {
+      "at": "2026-10-22T02:53:00.795Z",
+      "place": "con-dao",
+      "stage": "quality",
+      "item": "con-dao--dam-trau",
+      "status": "skipped",
+      "note": "No licensed photo of Dam Trau. Page skipped. Both sand colors stay in the park prose."
+    },
+    {
+      "at": "2026-10-22T02:53:00.740Z",
+      "place": "con-dao",
+      "stage": "copy",
+      "item": "con-dao--dam-trau",
+      "status": "skipped",
+      "note": "No licensed photo of Dam Trau. Page skipped. Both sand colors stay in the park prose."
+    },
+    {
+      "at": "2026-10-22T02:53:00.671Z",
+      "place": "con-dao",
+      "stage": "page",
+      "item": "con-dao--dam-trau",
+      "status": "skipped",
+      "note": "No licensed photo of Dam Trau. Page skipped. Both sand colors stay in the park prose."
+    },
+    {
+      "at": "2026-10-22T02:53:00.613Z",
+      "place": "con-dao",
+      "stage": "quality",
+      "item": "con-dao--con-dao-national-park",
       "status": "checked",
-      "note": "Kernel bag is the dish. Market frame is the daytime hall with the Cho Con Dao sign, captioned as not the night market. No stall pick. Other dishes stay off the cards."
+      "note": "16 and 14 islands stay side by side. 355 coral species are not merged with 1,000 ha."
     },
     {
-      "at": "2026-10-22T02:45:03.256Z",
+      "at": "2026-10-22T02:53:00.556Z",
       "place": "con-dao",
-      "stage": "foodCopy",
-      "item": null,
+      "stage": "copy",
+      "item": "con-dao--con-dao-national-park",
       "status": "enriched",
-      "note": "Opened the kernel bag and the daytime market hall. The hall is not captioned as the night market. SEO titles name the pack and the two streets."
+      "note": "Shore caption does not call the gray frame Dam Trau or a sand color."
     },
     {
-      "at": "2026-10-22T02:44:51.248Z",
+      "at": "2026-10-22T02:53:00.498Z",
       "place": "con-dao",
-      "stage": "food",
-      "item": null,
+      "stage": "page",
+      "item": "con-dao--con-dao-national-park",
       "status": "paged",
-      "note": "Food guide and hat-bang only. The photograph is candied kernels in a gift bag. Other named dishes have no plate photo and stay off the cards. The market spot is the daytime hall, not the night market. Dining leads."
+      "note": "Forest pond and a Côn Sơn shore. Neither frame is Dam Trau. Both island counts and both sand colors stay. Scenic fee is the 2022 reprint."
     },
     {
-      "at": "2026-10-22T02:43:51.879Z",
+      "at": "2026-10-22T02:53:00.411Z",
       "place": "con-dao",
-      "stage": "destinationQuality",
-      "item": null,
+      "stage": "quality",
+      "item": "con-dao--ma-thien-lanh",
+      "status": "skipped",
+      "note": "No licensed photo of the Con Dao bridge. Commons hits were a different place. Page skipped."
+    },
+    {
+      "at": "2026-10-22T02:53:00.353Z",
+      "place": "con-dao",
+      "stage": "copy",
+      "item": "con-dao--ma-thien-lanh",
+      "status": "skipped",
+      "note": "No licensed photo of the Con Dao bridge. Commons hits were a different place. Page skipped."
+    },
+    {
+      "at": "2026-10-22T02:53:00.295Z",
+      "place": "con-dao",
+      "stage": "page",
+      "item": "con-dao--ma-thien-lanh",
+      "status": "skipped",
+      "note": "No licensed photo of the Con Dao bridge. Commons hits were a different place. Page skipped."
+    },
+    {
+      "at": "2026-10-22T02:53:00.238Z",
+      "place": "con-dao",
+      "stage": "quality",
+      "item": "con-dao--pier-914",
+      "status": "skipped",
+      "note": "No licensed photo of Cầu tàu 914. Page skipped. The three length figures stay in the place prose."
+    },
+    {
+      "at": "2026-10-22T02:53:00.175Z",
+      "place": "con-dao",
+      "stage": "copy",
+      "item": "con-dao--pier-914",
+      "status": "skipped",
+      "note": "No licensed photo of Cầu tàu 914. Page skipped. The three length figures stay in the place prose."
+    },
+    {
+      "at": "2026-10-22T02:53:00.117Z",
+      "place": "con-dao",
+      "stage": "page",
+      "item": "con-dao--pier-914",
+      "status": "skipped",
+      "note": "No licensed photo of Cầu tàu 914. Page skipped. The three length figures stay in the place prose."
+    },
+    {
+      "at": "2026-10-22T02:53:00.058Z",
+      "place": "con-dao",
+      "stage": "quality",
+      "item": "con-dao--hang-duong",
       "status": "checked",
-      "note": "Read against the dossier. Both island counts, both sand colors, and both prisoner figures are printed where those topics appear. The hero is the shore and the ridge and does not claim pier 914. Unsourced clocks stay Check on arrival. Phi Yen has no rite photo. Sight cards still point at the place until those pages exist."
+      "note": "Zone counts match the museum chapter. The 09:00 time is the 2026 vigil, not an ordinary hour."
     },
     {
-      "at": "2026-10-22T02:43:02.157Z",
+      "at": "2026-10-22T02:52:59.999Z",
       "place": "con-dao",
-      "stage": "destinationCopy",
-      "item": null,
+      "stage": "copy",
+      "item": "con-dao--hang-duong",
       "status": "enriched",
-      "note": "Hero opened: town shore, boats, casuarina, ridge. Pier 914 is not claimed in that frame. Season stays in season. questions.md lists the Check on arrival clocks. The itinerary prints 45 minutes only for the sourced boat."
-    },
-    {
-      "at": "2026-10-22T02:40:57.604Z",
-      "place": "con-dao",
-      "stage": "destination",
-      "item": null,
-      "status": "paged",
-      "note": "Place shell, hero, four interest cards, three festivals, and a two-day itinerary. Side trip placeholder: Soc Trang. Side trip placeholder: Tran De. Dots 5. Hero is the town shore and ridge; pier 914 is not clearly in the frame. Prison gate hour, relic ticket, flight minutes, a Vung Tau sailing, boat fare, and town-to-beach minutes stay Check on arrival. No attraction files in this stage."
-    },
-    {
-      "at": "2026-10-21T18:40:18.808Z",
-      "place": "con-dao",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "left out the next Phi Yen solar date, nesting months, ferry minutes, and a boat fare for the turtle islets."
-    },
-    {
-      "at": "2026-10-21T18:40:09.616Z",
-      "place": "con-dao",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "left out a named breakfast and the hour the town goes quiet."
-    },
-    {
-      "at": "2026-10-21T18:40:09.466Z",
-      "place": "con-dao",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "left out a bar street, drink prices, and a town closing hour."
-    },
-    {
-      "at": "2026-10-21T18:40:09.320Z",
-      "place": "con-dao",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "left out stall prices, a breakfast dish, a local drink, and the daily market's daytime hours."
-    },
-    {
-      "at": "2026-10-21T18:40:08.819Z",
-      "place": "con-dao",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "left out a confirmed prison clock, the relic ticket, a second publisher for the scenic fee, nesting months, and kilometres from town to Dam Trau."
-    },
-    {
-      "at": "2026-10-21T18:40:08.354Z",
-      "place": "con-dao",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "left out flight minutes, a Vung Tau sailing and fare, the airport clock label, Ben Dam kilometres, and a mainland rail station."
-    },
-    {
-      "at": "2026-10-21T18:39:52.850Z",
-      "place": "con-dao",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Two rites, the turtle night, and four side trips are in. Nesting months, the next solar date, and ferry minutes are still open."
-    },
-    {
-      "at": "2026-10-21T18:39:52.597Z",
-      "place": "con-dao",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The ordinary day is sketched. A named breakfast and the quiet hour are still open."
-    },
-    {
-      "at": "2026-10-21T18:39:52.446Z",
-      "place": "con-dao",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The evening is the night market. A bar street and a closing hour are still open."
-    },
-    {
-      "at": "2026-10-21T18:39:52.279Z",
-      "place": "con-dao",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Dishes and two markets are in. No breakfast dish, no drink, and no daytime market hour yet."
-    },
-    {
-      "at": "2026-10-21T18:39:51.776Z",
-      "place": "con-dao",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Main sights and areas are in. Prison hours, the relic ticket, and town-to-beach minutes are still open."
-    },
-    {
-      "at": "2026-10-21T18:39:51.303Z",
-      "place": "con-dao",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and getting there are in. Flight minutes, a Vung Tau sailing, the airport clock label, and Ben Dam kilometres are still open."
+      "note": "Captions name the monument and the gate, not a grave zone."
     }
   ]
 }
