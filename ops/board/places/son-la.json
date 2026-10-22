@@ -61,9 +61,9 @@
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-22T04:18:12.744Z",
+      "status": "enriched",
+      "note": "Place prose and the valley-day line. No place hero: the dossier has no licensed photo of the walls, the town, and the Nam La in one frame. The page uses the highland cover. Both disagreeing figures stay. Unsourced fees and hours stay check on arrival.",
+      "updated": "2026-10-22T04:37:56.506Z",
       "reworkCount": 0
     },
     "destinationQuality": {
@@ -416,13 +416,21 @@
   "questions": [],
   "claim": {
     "place": "son-la",
-    "stage": "destinationCopy",
+    "stage": "destinationQuality",
     "item": null,
-    "at": "2026-10-22T04:36:05.447Z",
+    "at": "2026-10-22T04:37:56.535Z",
     "by": "son-la-page",
     "branch": "cursor/son-la-destination-db6e"
   },
   "log": [
+    {
+      "at": "2026-10-22T04:37:56.506Z",
+      "place": "son-la",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Place prose and the valley-day line. No place hero: the dossier has no licensed photo of the walls, the town, and the Nam La in one frame. The page uses the highland cover. Both disagreeing figures stay. Unsourced fees and hours stay check on arrival."
+    },
     {
       "at": "2026-10-22T04:36:05.269Z",
       "place": "son-la",
