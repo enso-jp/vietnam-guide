@@ -3,13 +3,53 @@
   "placeSlug": "buon-ma-thuot",
   "name": "Dray Nur Waterfall",
   "nameVi": "Thác Dray Nur",
-  "summary": "A wide Serepok waterfall roughly 25 to 30 km south of the city. Handbook and news pages disagree on the current gate price after a December 2024 notice, so read the board at the entrance. Allow a half day with the drive.",
+  "kicker": "Wide waterfall on the Serepok",
+  "summary": "A curtain about 250 m wide on the Serepok, south of Buon Ma Thuot. The Dak Lak handbook puts it about 30 km out. A news article puts it about 25 km. Allow a half day with the drive. The gate price is Check on arrival.",
   "dots": 5,
   "timeNeeded": "Half day",
   "fee": "Check on arrival",
-  "getThere": "About 25–30 km south by car",
-  "district": "Countryside",
-  "interests": [
-    "mountains"
-  ]
+  "getThere": "About 25 km or about 30 km south by car",
+  "district": "Krong Ana",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The curtain of Dray Nur across the cliff",
+  "notice": {
+    "title": "The new price is not printed",
+    "body": "A 19 Dec 2024 notice from the Dak Lak culture and tourism center changes the ticket and does not print the amount. Read the board. Do not budget only the older 30,000 VND or 50,000 VND figures."
+  },
+  "body": [
+    "The fall is a curtain about 250 m wide on the Serepok, in Krong Ana. Go by car or a tour from town and allow a half day with the drive. The Dak Lak Department of Culture, Sports and Tourism handbook puts it about 30 km south. A news article from the Dak Lak culture and tourism center puts it about 25 km. The minutes are Check on arrival. Swim only where the staff allow it. The rock is slippery.",
+    "The gate price is Check on arrival. The handbook prints 30,000 VND to enter and 50,000 VND for a combo with Gia Long. The news article cites 50,000 VND. The Dak Lak Department of Justice fee schedule prints 30,000 VND as the adult default for a scenic site. The 19 Dec 2024 notice announces a new price and does not print the amount. Rainy-season volume is why some people wait, and those months are Check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "buon-ma-thuot-dray-nur-2",
+      "caption": "A closer stretch of the fall, with mist at the base",
+      "alt": "Water pouring over the Dray Nur cliff, with leaves in front and mist below"
+    }
+  ],
+  "gettingThere": [
+    "Dray Nur is on the Serepok in Krong Ana, south of Buon Ma Thuot. The handbook distance is about 30 km. The culture and tourism center news article says about 25 km. Both stay. Go by car or a tour. The minutes and the fare are Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Buon Ma Thuot",
+      "body": "Car or tour from the city center. No minute count is printed for the 25 km figure or the 30 km figure. The minutes are Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day is printed. Check the gate board on arrival.",
+  "admissionNote": "The current gate price is Check on arrival. The Dak Lak handbook prints 30,000 VND to enter and 50,000 VND for a combo with Gia Long. A Dak Lak culture and tourism center news article cites 50,000 VND. The Department of Justice fee schedule prints 30,000 VND as the adult default for a scenic site. A notice dated 19 Dec 2024 announces a new price and does not print the amount. Read the board.",
+  "links": [
+    {
+      "label": "Buon Ma Thuot ward portal",
+      "url": "https://buonmathuot.daklak.gov.vn/v-ban-sac-van-hoa-va-du-lich-buon-ma-thuot-1095.html",
+      "note": "City tourism list"
+    },
+    {
+      "label": "Dak Lak Department of Justice",
+      "url": "https://sotuphap.daklak.gov.vn/muc-thu-phi-tham-quan-danh-lam-thang-canh-di-tich-lich-su-cong-trinh-van-hoa-bao-tang-tren-dia-ban-tinh-12550.html",
+      "note": "Scenic-site fee schedule"
+    }
+  ],
+  "interests": ["mountains"]
 }
