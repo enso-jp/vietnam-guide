@@ -13,4 +13,8 @@ These stay “Check on arrival” on the public page. The dossier already left t
 - Summit kitchen hours, a market clock, and stall prices.
 - The next rhododendron date, and a surveyed map pin. The map uses the camera position on the licensed villa photograph.
 - Licensed photographs of Hải Vọng Đài with the shore in frame, Ngũ Hồ, Trĩ Sao, Chò đen, the singing stones, the gate, the camps, and a plate from chợ Cầu Hai. Those stay off the sight-card grid. Đỗ Quyên has one licensed photograph and no second frame, so it stays off the sight-card grid and on the interest row.
+- A licensed photograph of cua gạch, the four fish, bánh ép Cầu Hai, or a park-kitchen bowl. No dish card until that file exists.
+- Which bánh ép filling and which dip: CafeBiz (pork and shrimp, mắm nêm) or either Đại Việt Tourist account (pork and mắm nêm, or pork and nước mắm).
+- A species list for chợ Cầu Hai beyond Thanh Niên’s four fish, the crab, and the land shrimp. The longer lagoon list and the Vinh Hiền list are different places.
+- Whether the VnExpress range of 80,000–220,000 VND for cơm đĩa and cơm phần is the price the park kitchens charge. It is not on the park tariff.
 - No licensed frame shows the lookout with the lagoon or the sea. The place hero is the summit villa, Andre Hospers, and the page says that building is not Hải Vọng Đài. The Duncan Wright waterfall stays on the forest interest card. It is not labeled Đỗ Quyên.

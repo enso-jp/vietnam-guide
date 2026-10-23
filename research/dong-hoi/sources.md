@@ -104,6 +104,78 @@ Accessed 21 Oct 2026 unless a line says the page has its own date.
 - Accessed: 21 Oct 2026
 - Supports: Rice-flour noodles and a broth built on pork rib, shrimp, and fish. Shop list that matches several ward addresses, filed under Notes, not pages. CMS fields: price “Đang cập nhật”, open 07:00, close 18:00, placeholder email `email@gmail.com`, address only “Phường Đồng Hới, Tỉnh Quảng Trị”. The clock was not used as an opening hour.
 
+### S18
+- URL: https://dukhach.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/13978710067427/1716974700550
+- Publisher: Du khách, Quảng Trị. Article time 16:42, Wednesday 29 May 2024. Credit line: Theo VCT News.
+- Accessed: 23 Oct 2026
+- Supports: Fifteen named foods. Bánh lọc in leaf, plain, and fried forms, with shrimp, pork, wood-ear, and bamboo shoot. Bánh bèo poured thin, stir-fried sea shrimp, tương ớt. Bánh khoái likened to northern bánh gối, with herbs. Bánh nậm, rice flour, 15–20 minutes, lá dong, shrimp. Bánh cuốn ruốc tôm, no filling, morning. Bánh xèo Quảng Hòa, red rice, about five hours’ soak, cá chuối, bánh đá. Sò huyết at chợ Cảnh Dương: porridge, tamarind, lime. Cá sông Son at Phong Nha, including grilled eel, left off the city list. Cua hấp bí đao, summer, printed range 300,000–500,000 đồng a plate, not copied. Cá đuối nướng at cửa Nhật Lệ. Đẻn biển, also mãng xà biển. Cháo canh with ram, and offal or crab variants. Gà nướng with muối cheo, a Phong Nha salt, left off the city list. Cháo hàu from Nhật Lệ oysters, no method on this article. A generic seafood close was not used as a dish.
+
+### S19
+- URL: https://dukhach.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/13978710067427/1730341008786
+- Publisher: Du khách, Quảng Trị. Article time 10:15, Thursday 31 Oct 2024. Credit line: Theo Dân Việt.
+- Accessed: 23 Oct 2026
+- Supports: Cháo canh with turmeric, ground shrimp or small crab or snakehead bones, and finely cut mustard. Bánh mì kẹp bánh bột lọc from fresh cassava flour, banana leaf, shrimp, pork, wood-ear, mung bean, chili threads, and a thin sweetened fish sauce. Ốc chiên of apple snail and spiral snail.
+
+### S20
+- URL: https://dukhach.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/13978710067427/1734594251954
+- Publisher: Du khách, Quảng Trị. Article time 18:39, Friday 20 Dec 2024. Credit line: Nguồn Phong Nha Explorer.
+- Accessed: 23 Oct 2026
+- Supports: Cháo canh with snakehead, scallion, and cilantro. Ram of minced pork and wood-ear, rolled in bánh xát and fried. Shop size versus home size. No street.
+
+### S21
+- URL: https://dulich.quangtri.gov.vn/vi/banhkhoaidonghoi
+- Publisher: Provincial tourism portal, bánh khoái Đồng Hới
+- Accessed: 23 Oct 2026
+- Supports: Crisp rice-batter cake, corn flour, egg, turmeric, pork, shrimp, bean sprouts. Sauce sometimes with bánh quy and roasted peanut. Herbs: cucumber, starfruit, fig, unripe banana, shrimp ruốc. Prose says afternoon and evening. CMS fields open 07:00, close 18:00, placeholder email `email@gmail.com`, price “Đang cập nhật”. The clock was not used. Shop names match S1 and stay under Notes.
+
+### S22
+- URL: https://dukhach.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/13978710067427/1457688458025
+- Publisher: Du khách, Quảng Trị. Article time 10:30, Friday 6 May 2016. Credit line: Theo VOV.VN.
+- Accessed: 23 Oct 2026
+- Supports: Cháo hàu at Quán Hàu, about 7 km south of Đồng Hới on National Highway 1A. Nhật Lệ oysters. Two cooking ways. Spring around Tết. July through November thinner. Quán Hoa Súng is named. Do not publish as a pick.
+
+### S23
+- URL: https://dukhach.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/13978710067427/1489044643982
+- Publisher: Du khách, Quảng Trị. Article time 16:39, Monday 20 Mar 2017. Credit line: Theo Vnexpress.net.
+- Accessed: 23 Oct 2026
+- Supports: Bánh mì kẹp bột lọc at Chợ Đồng Hới. Cháo canh called bánh canh of tapioca or rice flour. Bún chả cá on Lê Trực, morning only, cá thác lác. Gỏi cá of grouper or cá mai, lime-cured, in the center and on Nhật Lệ boats. Cháo hàu at Lương Ninh–Quán Hàu. Printed 2017 prices were not copied: 10,000 đồng for the sandwich, about 20,000 đồng for cháo canh, 30,000 đồng for bún chả cá, 100,000–150,000 đồng for gỏi cá.
+
+### S24
+- URL: https://dukhach.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/13978710067427/1682586630912
+- Publisher: Du khách, Quảng Trị. Article time 11:18, Friday 28 Apr 2023. Credit line: Theo Báo Quảng Bình.
+- Accessed: 23 Oct 2026
+- Supports: Bánh bèo Đồng Hới, soft, new-rice smell, browned shrimp, salty-sweet fish sauce, distinguished from the Hue, Da Nang, and Saigon cup. Shop numbers, including 29 Lê Thành Đồng against S1’s 27. Do not publish the shops as picks. Do not pick one house number.
+
+### S25
+- URL: https://dukhach.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/13978710067427/1690968650147
+- Publisher: Du khách, Quảng Trị. Article time 17:10, Friday 4 Aug 2023. Credit line: Theo Báo Quảng Bình.
+- Accessed: 23 Oct 2026
+- Supports: Bánh ướt in Cộn, Đồng Sơn. More than 16 households. The sheet method. One unsigned kitchen behind the primary school. Do not publish that house as a pick.
+
+### S26
+- URL: https://dukhach.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/13978710067427/1703240204646
+- Publisher: Du khách, Quảng Trị. Article time 10:30, Monday 25 Dec 2023. Byline PV Hồng Lựu. Dateline Quang Binh Portal.
+- Accessed: 23 Oct 2026
+- Supports: Khoai deo named on a 2023 Asia Record list of five natural specialties and gifts. Three OCOP 3-star names: Linh Huệ, Như Mận, Lâm Hường. Not used as a rank.
+
+### S27
+- URL: https://dukhach.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/13978710067427/1710326391207
+- Publisher: Du khách, Quảng Trị. Article time 19:42, Wednesday 13 Mar 2024. Credit line: Theo Báo Đắc Nông.
+- Accessed: 23 Oct 2026
+- Supports: Cơm bồi in Minh Hóa, left off the city list. Ram đẻn, used under đẻn biển. Muối cheo ingredients, left with Phong Nha. Lẩu cá khoai and canh xương rồng named and not given city plates.
+
+### S28
+- URL: https://dukhach.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/13978710067427/1705481486744
+- Publisher: Du khách, Quảng Trị. Article time 22:21, Thursday 18 Jan 2024. Credit line: Theo Báo Quảng Bình.
+- Accessed: 23 Oct 2026
+- Supports: Chả mực Chính Thoan in Đồng Trạch, Bố Trạch. OCOP 3 sao in 2023. Printed range 260,000–460,000 đồng a kilo, not copied. Not published as a pick. Chả cá thu is the same producer and was not given a plate.
+
+### S29
+- URL: https://dukhach.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/13978710067427/1682584525407
+- Publisher: Du khách, Quảng Trị. Article time 11:18, Friday 28 Apr 2023. Credit line: Theo Báo Quảng Bình.
+- Accessed: 23 Oct 2026
+- Supports: Bồi and ốc đực in Minh Hóa, including a lunar mid-third-month custom and a printed market price that was not copied. Left off the Đồng Hới list. Kept apart from ốc chiên.
+
 ### Not used as sources
 - Commercial tour pages, hotel pages, and “top 20” lists were opened in search and not used for a fee, an hour, a temperature, or a kilometer count.
 - Vietjet’s Đồng Hới airport page and the ACV airport homepage did not render a route table or a city-ride time in this pass. Routes stay Check on arrival.

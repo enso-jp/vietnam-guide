@@ -1,0 +1,198 @@
+{
+  "slug": "phong-nha",
+  "name": "Phong Nha food guide",
+  "placeSlug": "phong-nha",
+  "summary": "Phong Nha eats from the Son River: grass carp braised with pepper, grilled eel, river prawns, and grilled chicken with muối cheo and sticky rice. In the villages around the park, Chứt, Nguồn, and Bru–Vân Kiều cooks keep cơm pồi, mountain snails, Láp, rượu đoác, and rượu cần.",
+  "body": [
+    "You eat after the boat, in the village or out in the buffer villages, not along a market street. The fish to order is Son River grass carp, raised in cages at Sơn Trạch.",
+    "For a first dinner, order cá trắm kho tiêu and gà nướng muối cheo. At Mooc Spring, the platter brings mountain-stream shrimp, freshwater fish, and free-range chicken.",
+    "Stay in the village if the caves are the trip. Đồng Hới is the beach night."
+  ],
+  "specialtiesLead": "River dishes come first, then the buffer-village dishes, then brown-rice bánh xèo from Gia Hưng and Quảng Hòa.",
+  "dishSlugs": [
+    "phong-nha--ca-tram-song-son",
+    "phong-nha--chao-canh-ca-tram",
+    "phong-nha--bun-cha-ca-tram",
+    "phong-nha--ca-chinh-song-son",
+    "phong-nha--ca-me-song-son",
+    "phong-nha--tom-cang-song-son",
+    "phong-nha--ga-nuong-muoi-cheo",
+    "phong-nha--muoi-cheo",
+    "phong-nha--com-poi",
+    "phong-nha--bot-nhuc",
+    "phong-nha--com-ngo",
+    "phong-nha--oc-len",
+    "phong-nha--oc-van",
+    "phong-nha--oc-nui",
+    "phong-nha--canh-mang-chua",
+    "phong-nha--banh-a-choi",
+    "phong-nha--banh-a-duh",
+    "phong-nha--lap",
+    "phong-nha--ruou-doac",
+    "phong-nha--ruou-can",
+    "phong-nha--banh-xeo-gao-lut"
+  ],
+  "sections": [
+    {
+      "id": "river",
+      "heading": "The Son River",
+      "nav": "The river",
+      "paragraphs": [
+        "Grass carp, eel, silver carp, and prawns come out of the Son and the park’s streams, and grilled chicken arrives with sticky rice and muối cheo."
+      ],
+      "spots": [
+        {
+          "name": "Ca tram song Son",
+          "nameVi": "Cá trắm sông Son",
+          "dishSlug": "phong-nha--ca-tram-song-son",
+          "note": "Phong Nha’s signature fish, raised in river cages at Sơn Trạch, firm and not fishy. Order cá trắm kho tiêu, the savory pepper braise eaten with pickled vegetables."
+        },
+        {
+          "name": "Chao canh ca tram",
+          "nameVi": "Cháo canh cá trắm",
+          "dishSlug": "phong-nha--chao-canh-ca-tram",
+          "note": "Cháo canh with Son River grass carp, lightly sweet from the fish, with mild chili heat and fragrant seasoning."
+        },
+        {
+          "name": "Bun cha ca tram",
+          "nameVi": "Bún chả cá trắm",
+          "dishSlug": "phong-nha--bun-cha-ca-tram",
+          "note": "Son River carp with rice noodles, served either with herbs and a strong dipping sauce or as fried fish cake in broth."
+        },
+        {
+          "name": "Ca chinh song Son",
+          "nameVi": "Cá chình sông Son",
+          "dishSlug": "phong-nha--ca-chinh-song-son",
+          "note": "Firm, naturally sweet eel from the Son. Try it grilled, rich and lightly spicy, or cooked um, kho, or steamed."
+        },
+        {
+          "name": "Ca me song Son",
+          "nameVi": "Cá mè sông Son",
+          "dishSlug": "phong-nha--ca-me-song-son",
+          "note": "Silver carp, the Son River’s other fish beside grass carp."
+        },
+        {
+          "name": "Tom cang song Son",
+          "nameVi": "Tôm càng sông Son",
+          "dishSlug": "phong-nha--tom-cang-song-son",
+          "note": "Firm, sweet river prawns, not fed industrial feed. Order them grilled, salt-fried, steamed, or rim."
+        },
+        {
+          "name": "Ga nuong muoi cheo",
+          "nameVi": "Gà nướng muối cheo",
+          "dishSlug": "phong-nha--ga-nuong-muoi-cheo",
+          "note": "Firm, golden grilled chicken with sticky rice and muối cheo, the Phong Nha salt for dipping."
+        },
+        {
+          "name": "Muoi cheo",
+          "nameVi": "Muối cheo",
+          "dishSlug": "phong-nha--muoi-cheo",
+          "note": "The salt Phong Nha puts beside grilled chicken and grilled meat. A second recipe makes it from basil, lá lội, lá canh, green chili, and salt, for boiled chicken."
+        }
+      ]
+    },
+    {
+      "id": "buffer",
+      "heading": "Buffer villages",
+      "nav": "The villages",
+      "paragraphs": [
+        "Chứt, Bru–Vân Kiều, and Nguồn communities live in the villages around the park, the Nguồn mainly in Minh Hóa. Their table is corn, cassava, snails, stream fish, and two drinks, rượu đoác and rượu cần."
+      ],
+      "spots": [
+        {
+          "name": "Com poi",
+          "nameVi": "Cơm pồi",
+          "dishSlug": "phong-nha--com-poi",
+          "note": "Pounded corn and cassava, steamed until airy or packed with sticky rice into bamboo over charcoal. Eat it with a vegetable soup of fish and snails, or with salt, crushed chili, and lime leaves."
+        },
+        {
+          "name": "Bot nhuc",
+          "nameVi": "Bột nhúc",
+          "dishSlug": "phong-nha--bot-nhuc",
+          "note": "An old Chứt staple and, with cơm pồi, a characteristic food of the buffer villages."
+        },
+        {
+          "name": "Com ngo",
+          "nameVi": "Cơm ngô",
+          "dishSlug": "phong-nha--com-ngo",
+          "note": "Corn rice, still cooked in the buffer villages around the park."
+        },
+        {
+          "name": "Oc len",
+          "nameVi": "Ốc lèn",
+          "dishSlug": "phong-nha--oc-len",
+          "note": "A Chứt snail from the forest and streams, one of three signature Chứt foods with cơm pồi and rượu đoác."
+        },
+        {
+          "name": "Oc van",
+          "nameVi": "Ốc vặn",
+          "dishSlug": "phong-nha--oc-van",
+          "note": "A Nguồn snail dish from Minh Hóa, also called ốc tực."
+        },
+        {
+          "name": "Oc nui",
+          "nameVi": "Ốc núi",
+          "dishSlug": "phong-nha--oc-nui",
+          "note": "Mountain snail, still eaten in the buffer villages and in Nguồn homes in Minh Hóa."
+        },
+        {
+          "name": "Canh mang chua ca",
+          "nameVi": "Canh măng chua nấu cá",
+          "dishSlug": "phong-nha--canh-mang-chua",
+          "note": "Sour bamboo shoots cooked with fish, once familiar in the buffer villages and now rare."
+        },
+        {
+          "name": "Banh A Choi",
+          "nameVi": "Bánh A Chôi",
+          "dishSlug": "phong-nha--banh-a-choi",
+          "note": "A Bru–Vân Kiều dish of the village table, with bánh A Dưh, Láp, and rượu cần."
+        },
+        {
+          "name": "Banh A Duh",
+          "nameVi": "Bánh A Dưh",
+          "dishSlug": "phong-nha--banh-a-duh",
+          "note": "The Bru–Vân Kiều companion to bánh A Chôi."
+        },
+        {
+          "name": "Lap",
+          "nameVi": "Láp",
+          "dishSlug": "phong-nha--lap",
+          "note": "Stream fish mixed with forest greens and seasoning, a Bru–Vân Kiều dish."
+        },
+        {
+          "name": "Ruou doac",
+          "nameVi": "Rượu đoác",
+          "dishSlug": "phong-nha--ruou-doac",
+          "note": "A Chứt drink made from the sap of the đoác palm."
+        },
+        {
+          "name": "Ruou can",
+          "nameVi": "Rượu cần",
+          "dishSlug": "phong-nha--ruou-can",
+          "photo": "phong-nha--ruou-can",
+          "note": "A Bru–Vân Kiều festival drink, also drunk in Chứt villages."
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "role": "regional",
+      "heading": "Regional dishes",
+      "nav": "Regional",
+      "paragraphs": [
+        "Brown-rice bánh xèo belongs to Gia Hưng in one account and to Quảng Hòa in two older ones."
+      ],
+      "spots": [
+        {
+          "name": "Banh xeo gao lut",
+          "nameVi": "Bánh xèo gạo lứt",
+          "dishSlug": "phong-nha--banh-xeo-gao-lut",
+          "note": "A red-brown brown-rice bánh xèo, called a Phong Nha specialty in its Gia Hưng form and a Quảng Hòa cake in older accounts. Roll it with herbs, bean-sprout salad, banana cá chuối, and bánh đa."
+        }
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Phong Nha food guide — Son River fish, buffer dishes",
+  "seoDescription": "Son River grass carp, grilled eel, chicken with muối cheo, and buffer-village dishes such as cơm pồi, Láp, and rượu cần at Phong Nha."
+}

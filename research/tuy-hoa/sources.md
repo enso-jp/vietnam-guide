@@ -184,3 +184,75 @@ Pages that returned through search, when a direct fetch timed out, are marked in
 - Publisher: Thư viện Pháp luật, quoting Nghị quyết 1660/NQ-UBTVQH15
 - Accessed: 22 Oct 2026
 - Supports: Clauses 89, 90, and 91 as printed: phường Phú Yên, phường Tuy Hòa, and phường Bình Kiến, and which old wards and communes the quote folds into them. The page title says seven wards. The quoted clauses name three. Both stay. Retrieved through search. This is not a map.
+
+### S31
+- URL: https://phuyentourism.gov.vn/am-thuc/3-mon-banh-canh-ngon-dat-mien-trung.html
+- Publisher: Du lịch Phú Yên (phuyentourism.gov.vn)
+- Accessed: 23 Oct 2026
+- Supports: Bánh canh hẹ strands of bột gạo, soft and chewy, not broken in the pot. Chả cá from cá mối, cá cờ, or cá nhồng, pounded, steamed, then fried. The smell of the chives. Retrieved through search after a direct fetch timed out. A Sài Gòn address on that extract is not a Tuy Hòa street.
+
+### S32
+- URL: https://phuyentourism.gov.vn/am-thuc/mon-ngon/ga-nuong-song-cau.html
+- Publisher: Du lịch Phú Yên (phuyentourism.gov.vn)
+- Accessed: 23 Oct 2026
+- Supports: Gà nướng Sông Cầu, page date 29/12/2020. Cut into wings and thighs, marinade of onion, pepper, chilli, garlic, and fish sauce, charcoal. No fewer than five salts, four of them named. Top 100 line with the tuna eye, attributed to Tổ chức Kỷ lục Việt Nam. Retrieved through search after a direct fetch timed out. No street and no price in the extract.
+
+### S33
+- URL: https://phuyentourism.gov.vn/am-thuc/mon-ngon/ghe-dam-cu-mong.html
+- Publisher: Du lịch Phú Yên (phuyentourism.gov.vn)
+- Accessed: 23 Oct 2026
+- Supports: Ghẹ đầm Cù Mông, page date 29/12/2020. Sweet and fragrant, steamed until red with white meat, salt, pepper, and lime. Also rang muối, rim me, and súp. Retrieved through search after a direct fetch timed out. No distance and no price.
+
+### S34
+- URL: https://phuyentourism.gov.vn/am-thuc/mon-ngon/ca-muong.html
+- Publisher: Du lịch Phú Yên (phuyentourism.gov.vn)
+- Accessed: 23 Oct 2026
+- Supports: Cá mương, page date 29/12/2020. Finger-sized, soft, fragrant, sweet. Grill is the common plate, with a vinegar dip. Also gỏi, nhúng dấm, luộc, and chiên xù. Two clusters: bàu Long Thăng at La Hai, and cầu Lò Gốm at An Thạch. Retrieved through search after a direct fetch timed out. No price.
+
+### S35
+- URL: https://phuyentourism.gov.vn/am-thuc/mon-ngon/oc-nhay-song-cau.html
+- Publisher: Du lịch Phú Yên (phuyentourism.gov.vn)
+- Accessed: 23 Oct 2026
+- Supports: Ốc nhảy sông Cầu, also ốc đực, page date 29/12/2020. Meat the color of chicken fat, crisp, sweet, and fatty. Steamed with lemongrass and mắm gừng. Other snail names are listed without a method. Retrieved through search after a direct fetch timed out. No street and no price.
+
+### S36
+- URL: https://phuyentourism.gov.vn/trai-nghiem/bun-bap-an-dan.html
+- Publisher: Du lịch Phú Yên (phuyentourism.gov.vn)
+- Accessed: 23 Oct 2026
+- Supports: Bún bắp An Dân, page date 10/06/2021. Corn noodle from xã An Dân, Tuy An. A batch takes 6–7 days. Served with giò heo, ốc, canh chua cá bống, scallion fat, lòng heo, and Ô Loan fish broth with rau ngót. One workshop is being brought back. Its name was not printed. Nutrition sentences on the article are not carried. Retrieved through search after a direct fetch timed out. No price.
+
+### S37
+- URL: https://phuyentourism.gov.vn/trai-nghiem/goi-rong-bien.html
+- Publisher: Du lịch Phú Yên (phuyentourism.gov.vn)
+- Accessed: 23 Oct 2026
+- Supports: Gỏi rong biển, page date 17/06/2021. Seaweed from the reefs at gành Đá Đĩa, soaked in fresh water, with herbs, coconut, mango, lime, peanuts, and sesame rice crackers. Soy sauce is the vegetarian dip. Retrieved through search after a direct fetch timed out. No restaurant street and no price.
+
+### S38
+- URL: https://phuyentourism.gov.vn/am-thuc/mon-ngon/banh-trang-cuon-thit-heo-luoc.html
+- Publisher: Du lịch Phú Yên (phuyentourism.gov.vn)
+- Accessed: 23 Oct 2026
+- Supports: Bánh tráng cuốn thịt heo luộc, page date 29/12/2020. Belly pork boiled or steamed, rice paper from Hoà Đa (An Mỹ), Đông Bình (Hoà An), and Phường Lụa (Chí Thạnh). Herbs, cucumber, green banana, and a fish sauce of cá cơm, cá sặc, and cá thu. Breakfast and a party plate. Retrieved through search after a direct fetch timed out. No Tuy Hòa street and no price.
+
+### S39
+- URL: https://phuyentourism.gov.vn/tin-tuc/ve-xu-hoa-vang-tren-co-xanh-thuong-thuc-mon-an-hap-dan-duoc-vinh-danh-am-thuc-tieu-bieu-viet-nam.html
+- Publisher: Du lịch Phú Yên (phuyentourism.gov.vn)
+- Accessed: 23 Oct 2026
+- Supports: Bún bắp lòng cá ngừ đại dương. Corn noodle in 6–7 steps over nearly 10 days. Broth of tuna stomach, roe, tomato, and pineapple, with scallion, rau răm, and pepper, eaten with herbs, bean sprouts, and salty fish sauce. Hiệp hội Văn hóa Ẩm thực Việt Nam, 121 dishes, phase I-2022, the only Phú Yên dish on that list. Other tuna plates are named without methods. Retrieved through search after a direct fetch timed out. No street, no date on the extract, and no price.
+
+### S40
+- URL: https://phuyentourism.gov.vn/am-thuc/mat-ca-ngu-dai-duong-dac-san-dang-so-nhung-cuc-ngon-o-phu-yen.html
+- Publisher: Du lịch Phú Yên (phuyentourism.gov.vn)
+- Accessed: 23 Oct 2026
+- Supports: The tuna eye as its own plate in Tuy Hòa. Pot with thuốc bắc, seasoning, onion, garlic, and chilli, and an alcohol burner when it is served. Also steamed and as a soup. A snack, rarely with white rice. About two portions for a hearty eater. Retrieved through search after a direct fetch timed out. No date and no price on the extract. Health wording is not carried.
+
+### S41
+- URL: https://phuyentourism.gov.vn/am-thuc/mon-ngon
+- Publisher: Du lịch Phú Yên (phuyentourism.gov.vn)
+- Accessed: 23 Oct 2026
+- Supports: The food index titles only: rượu tằm truyền thống bên bờ sông Ba, dated 21/01/2022, and a tôm hùm bông headline dated 09/08/2021. The article bodies were not in the extract. Not published. Retrieved through search after a direct fetch timed out.
+
+### S42
+- URL: https://phuyentourism.gov.vn/tin-tuc/phu-yen-co-mon-nao-vao-top-dac-san-viet-nam.html
+- Publisher: Du lịch Phú Yên (phuyentourism.gov.vn)
+- Accessed: 23 Oct 2026
+- Supports: Nhân sâm Phú Yên as sâm bố chính, a medicine gift in a Top 100 of gifts for 2020–2021. Not published as a plate. Retrieved through search. The medical uses are not carried.

@@ -2,12 +2,392 @@
   "slug": "moc-chau",
   "name": "Moc Chau food guide",
   "placeSlug": "moc-chau",
-  "summary": "Cơm lam is sticky rice cooked in a bamboo tube, named at Ban Ang. The plate shown here was not taken in Moc Chau. Yogurt, hau plum, plateau tea, grilled fish, smoked meat, forest greens, and rice wine from a gourd are the other names on the plateau list. The night market is the ground around the Pha Luong light park. Prices and hours are check on arrival.",
+  "summary": "The morning cup is cold yogurt or fresh milk in the farm town. At Ban Ang the meal is bamboo sticky rice, grilled stream fish, and jar wine from a gourd.",
   "heroSlug": "com-lam",
-  "body": [],
-  "dishSlugs": ["com-lam"],
-  "sections": [],
-  "verified": "22 Oct 2026",
-  "seoTitle": "Moc Chau food — bamboo sticky rice at Ban Ang",
-  "seoDescription": "Sticky rice in a bamboo tube, named at Ban Ang. The plate was not taken in Moc Chau. Yogurt, plum, and tea are also named. Prices are check on arrival."
+  "body": [
+    "Eat the plateau, not Mai Chau’s rice valley. Ban Ang puts bamboo sticky rice, grilled stream fish, smoked meat, flash-fried calf, love sticky rice, leaf-yeast wine, bamboo-tube fish, and forest greens on one table.",
+    "Hmong cooking brings pounded rice cake and thắng cố. Thai and Muong cooking brings hearth-smoked buffalo, five-colour sticky rice, forest greens, and canh bon. Dao cooking brings soured meat with rượu hoẵng. The night market adds dried buffalo and hearth sausage."
+  ],
+  "specialtiesLead": "Start with the Ban Ang table, the morning dairy cup, and the fruit you pick on the hills.",
+  "dishSlugs": [
+    "com-lam",
+    "moc-chau--pa-pinh-top",
+    "moc-chau--xoi-ngu-sac",
+    "moc-chau--thit-trau-gac-bep",
+    "moc-chau--thit-chua",
+    "moc-chau--cai-meo",
+    "moc-chau--ga-nuong",
+    "moc-chau--cham-cheo",
+    "moc-chau--mang",
+    "moc-chau--ruou-can",
+    "moc-chau--sua-chua",
+    "moc-chau--sua-tuoi",
+    "moc-chau--tra",
+    "moc-chau--xoai-say-deo",
+    "moc-chau--dau-tay",
+    "moc-chau--cam-ron",
+    "moc-chau--hong",
+    "moc-chau--dao",
+    "moc-chau--thit-hun-khoi",
+    "moc-chau--be-chao",
+    "moc-chau--ca-ong-tre",
+    "moc-chau--xoi-tinh-yeu",
+    "moc-chau--rau-rung",
+    "moc-chau--nom-rau-rung",
+    "moc-chau--thit-trau-kho",
+    "moc-chau--bo-hun-khoi",
+    "moc-chau--lap-xuong",
+    "moc-chau--lap-trau",
+    "moc-chau--banh-day",
+    "moc-chau--thang-co",
+    "moc-chau--canh-bon",
+    "moc-chau--nam-pia",
+    "moc-chau--cai-ngong",
+    "moc-chau--ca-hoi",
+    "moc-chau--lon-man",
+    "moc-chau--thit-lon-lung",
+    "moc-chau--thit-lon-say",
+    "moc-chau--oc-da",
+    "moc-chau--ga-mo",
+    "moc-chau--hoa-ban",
+    "moc-chau--ruou-men-la",
+    "moc-chau--ruou-ngo",
+    "moc-chau--ruou-hoang",
+    "moc-chau--ruou-tao-meo",
+    "moc-chau--sua-chua-nep-cam",
+    "moc-chau--sua-chua-chanh-leo",
+    "moc-chau--banh-sua",
+    "moc-chau--man-hau",
+    "moc-chau--man-say-deo",
+    "moc-chau--mo",
+    "moc-chau--tao-meo",
+    "moc-chau--banh-khao",
+    "moc-chau--keo-doi"
+  ],
+  "sections": [
+    {
+      "id": "table",
+      "heading": "The plateau table",
+      "nav": "The table",
+      "paragraphs": [
+        "Cooked plates. Pa pỉnh tộp, cá suối, and cá suối nướng are one fish. Thịt hun khói, thịt trâu gác bếp, thịt trâu khô, and bò hun khói are four different meats. The hour is Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Smoked meat",
+          "nameVi": "Thịt hun khói",
+          "address": "Bản Áng, about 2 km south of the farm town on National Highway 43",
+          "note": "Smoked meat served at the Ban Ang village meal.",
+          "dishSlug": "moc-chau--thit-hun-khoi"
+        },
+        {
+          "name": "Chao calf",
+          "nameVi": "Bê chao",
+          "address": "Bản Áng, about 2 km south of the farm town on National Highway 43",
+          "note": "Flash-fried dairy calf, about a week old, cut small and sent twice through hot fat with ginger, lemongrass, garlic, and chili. The meat is soft, rich, and sweet, and not greasy.",
+          "dishSlug": "moc-chau--be-chao"
+        },
+        {
+          "name": "Bamboo-tube fish",
+          "nameVi": "Cá ống tre",
+          "address": "Bản Áng, about 2 km south of the farm town on National Highway 43",
+          "note": "Fish cooked inside a bamboo tube and eaten from the tube at a Ban Ang meal.",
+          "dishSlug": "moc-chau--ca-ong-tre"
+        },
+        {
+          "name": "Love sticky rice",
+          "nameVi": "Xôi tình yêu",
+          "address": "Bản Áng, about 2 km south of the farm town on National Highway 43",
+          "note": "Love sticky rice, the sticky rice served at the Ban Ang village meal.",
+          "dishSlug": "moc-chau--xoi-tinh-yeu"
+        },
+        {
+          "name": "Forest greens",
+          "nameVi": "Rau rừng",
+          "address": "Bản Áng, about 2 km south of the farm town on National Highway 43",
+          "note": "Forest vegetables cooked for the Ban Ang village meal.",
+          "dishSlug": "moc-chau--rau-rung"
+        },
+        {
+          "name": "Forest-green salad",
+          "nameVi": "Nộm rau rừng",
+          "address": "Bản Vặt, xã Mường Sang",
+          "note": "A salad of forest greens, served at bản Vặt with bamboo rice, grilled fish, and grilled chicken.",
+          "dishSlug": "moc-chau--nom-rau-rung"
+        },
+        {
+          "name": "Dried buffalo",
+          "nameVi": "Thịt trâu khô",
+          "address": "Farm-town night market, around the Pha Luong light park",
+          "note": "Dried buffalo, eaten at the night market with hearth sausage and a cup of strong wine.",
+          "dishSlug": "moc-chau--thit-trau-kho"
+        },
+        {
+          "name": "Smoked beef",
+          "nameVi": "Bò hun khói",
+          "address": "Check on arrival",
+          "note": "Smoked beef, packed to carry home.",
+          "dishSlug": "moc-chau--bo-hun-khoi"
+        },
+        {
+          "name": "Hearth sausage",
+          "nameVi": "Lạp xưởng gác bếp",
+          "address": "Farm-town night market, around the Pha Luong light park",
+          "note": "Sausage hung over the hearth, eaten at the night market with dried buffalo and a cup of strong wine.",
+          "dishSlug": "moc-chau--lap-xuong"
+        },
+        {
+          "name": "Buffalo lap",
+          "nameVi": "Lạp trâu",
+          "address": "Check on arrival",
+          "note": "Lạp trâu, cured buffalo from the Thai kitchen.",
+          "dishSlug": "moc-chau--lap-trau"
+        },
+        {
+          "name": "Pounded rice cake",
+          "nameVi": "Bánh dày",
+          "address": "Check on arrival",
+          "note": "A Hmong pounded rice cake. During culture week it is pounded in the street.",
+          "dishSlug": "moc-chau--banh-day"
+        },
+        {
+          "name": "Thang co",
+          "nameVi": "Thắng cố",
+          "address": "Check on arrival",
+          "note": "Thắng cố, the Hmong pot of the plateau.",
+          "dishSlug": "moc-chau--thang-co"
+        },
+        {
+          "name": "Bon soup",
+          "nameVi": "Canh bon",
+          "address": "Check on arrival",
+          "note": "Canh bon, a soup from the Thai and Muong kitchen.",
+          "dishSlug": "moc-chau--canh-bon"
+        },
+        {
+          "name": "Nam pia",
+          "nameVi": "Nậm pịa",
+          "address": "Check on arrival",
+          "note": "Nậm pịa, a specialty dish of the plateau.",
+          "dishSlug": "moc-chau--nam-pia"
+        },
+        {
+          "name": "Flowering mustard",
+          "nameVi": "Cải ngồng",
+          "address": "Check on arrival",
+          "note": "Cải ngồng, the flowering shoots of mustard.",
+          "dishSlug": "moc-chau--cai-ngong"
+        },
+        {
+          "name": "Trout",
+          "nameVi": "Cá hồi",
+          "address": "Check on arrival",
+          "note": "Trout, a plateau specialty.",
+          "dishSlug": "moc-chau--ca-hoi"
+        },
+        {
+          "name": "Man pig",
+          "nameVi": "Lợn mán",
+          "address": "Check on arrival",
+          "note": "Lợn mán pork, a plateau specialty.",
+          "dishSlug": "moc-chau--lon-man"
+        },
+        {
+          "name": "Lon lung pork",
+          "nameVi": "Thịt lợn lửng",
+          "address": "Check on arrival",
+          "note": "Thịt lợn lửng, pork from the Hmong kitchen.",
+          "dishSlug": "moc-chau--thit-lon-lung"
+        },
+        {
+          "name": "Dried pork",
+          "nameVi": "Thịt lợn sấy",
+          "address": "Check on arrival",
+          "note": "Dried pork from pigs raised on the plateau.",
+          "dishSlug": "moc-chau--thit-lon-say"
+        },
+        {
+          "name": "Rock snail",
+          "nameVi": "Ốc đá",
+          "address": "Check on arrival",
+          "note": "Rock snails, a plateau dish.",
+          "dishSlug": "moc-chau--oc-da"
+        },
+        {
+          "name": "Ga mo",
+          "nameVi": "Gà mọ",
+          "address": "Check on arrival",
+          "note": "Gà mọ, a chicken dish from the Thai kitchen.",
+          "dishSlug": "moc-chau--ga-mo"
+        },
+        {
+          "name": "Ban flower",
+          "nameVi": "Hoa ban",
+          "address": "Check on arrival",
+          "note": "Ban flowers, cooked as a Thai dish.",
+          "dishSlug": "moc-chau--hoa-ban"
+        }
+      ]
+    },
+    {
+      "id": "drinks",
+      "heading": "Wine",
+      "nav": "Wine",
+      "paragraphs": [
+        "Five named wines. The night market also sells specialty wines without naming the still. A strength is Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Leaf-yeast wine",
+          "nameVi": "Rượu men lá",
+          "address": "Bản Áng, about 2 km south of the farm town on National Highway 43",
+          "note": "Wine made with leaf yeast, poured at Ban Ang.",
+          "dishSlug": "moc-chau--ruou-men-la"
+        },
+        {
+          "name": "Corn wine",
+          "nameVi": "Rượu ngô",
+          "address": "Check on arrival",
+          "note": "Corn wine, poured to welcome guests on the plateau.",
+          "dishSlug": "moc-chau--ruou-ngo"
+        },
+        {
+          "name": "Hoang wine",
+          "nameVi": "Rượu hoẵng",
+          "address": "Check on arrival",
+          "note": "Rượu hoẵng, a Dao wine served with soured meat.",
+          "dishSlug": "moc-chau--ruou-hoang"
+        },
+        {
+          "name": "Tao meo wine",
+          "nameVi": "Rượu táo mèo",
+          "address": "Check on arrival",
+          "note": "Wine made from táo mèo fruit, bottled to carry home.",
+          "dishSlug": "moc-chau--ruou-tao-meo"
+        }
+      ]
+    },
+    {
+      "id": "dairy",
+      "heading": "Dairy and tea",
+      "nav": "Dairy",
+      "paragraphs": [
+        "The morning cup is in the farm town. Yogurt comes as three cups: plain, black sticky-rice, and passion-fruit. Fresh milk, milk cake, and the hill tea sit with them. Two visit write-ups print a dairy gate of 20,000 VND and 10,000 VND, both at 08:00–18:00."
+      ],
+      "spots": [
+        {
+          "name": "Black sticky-rice yogurt",
+          "nameVi": "Sữa chua nếp cẩm",
+          "address": "Tiểu khu 34, xã Tân Lập, on the 3 May 2024 announcement",
+          "note": "Yogurt with black sticky rice, from the same plateau dairy set.",
+          "dishSlug": "moc-chau--sua-chua-nep-cam"
+        },
+        {
+          "name": "Passion-fruit yogurt",
+          "nameVi": "Sữa chua chanh leo",
+          "address": "Tiểu khu 34, xã Tân Lập, on the 3 May 2024 announcement",
+          "note": "Passion-fruit yogurt, from the same plateau dairy set.",
+          "dishSlug": "moc-chau--sua-chua-chanh-leo"
+        },
+        {
+          "name": "Milk cake",
+          "nameVi": "Bánh sữa",
+          "address": "Check on arrival",
+          "note": "Milk cake, a dairy sweet sold with the plateau’s milk and yogurt.",
+          "dishSlug": "moc-chau--banh-sua"
+        }
+      ]
+    },
+    {
+      "id": "fruit",
+      "heading": "Fruit",
+      "nav": "Fruit",
+      "paragraphs": [
+        "Hau plum is the fruit with a valley. You pick it at Na Ka from March to May. Dried plum is a different bite. Strawberries, navel oranges, persimmons, apricots, and peaches are fruit you pick and sample."
+      ],
+      "spots": [
+        {
+          "name": "Hau plum",
+          "nameVi": "Mận hậu",
+          "address": "Na Ka, phường Thảo Nguyên",
+          "note": "Hau plum, ripe and dark red with a white bloom, picked fresh at Na Ka from March to May.",
+          "dishSlug": "moc-chau--man-hau"
+        },
+        {
+          "name": "Dried hau plum",
+          "nameVi": "Mận sấy dẻo",
+          "address": "Chiềng Sơn, on the 3 May 2024 announcement",
+          "note": "Hau plum dried until soft, a different bite from the fresh fruit.",
+          "dishSlug": "moc-chau--man-say-deo"
+        },
+        {
+          "name": "Apricots",
+          "nameVi": "Mơ",
+          "address": "Check on arrival",
+          "note": "Mơ, the plateau’s apricots, picked fresh.",
+          "dishSlug": "moc-chau--mo"
+        }
+      ]
+    },
+    {
+      "id": "packed",
+      "heading": "Packed foods",
+      "nav": "Packed",
+      "paragraphs": [
+        "Bánh khảo, kẹo dồi, and táo mèo are packed to carry home."
+      ],
+      "spots": [
+        {
+          "name": "Tao meo",
+          "nameVi": "Táo mèo",
+          "address": "Check on arrival",
+          "note": "Táo mèo fruit, carried home from the plateau.",
+          "dishSlug": "moc-chau--tao-meo"
+        },
+        {
+          "name": "Banh khao",
+          "nameVi": "Bánh khảo",
+          "address": "Check on arrival",
+          "note": "Bánh khảo, a packed cake to carry home from the plateau.",
+          "dishSlug": "moc-chau--banh-khao"
+        },
+        {
+          "name": "Keo doi",
+          "nameVi": "Kẹo dồi",
+          "address": "Check on arrival",
+          "note": "Kẹo dồi, a candy to carry home from the plateau.",
+          "dishSlug": "moc-chau--keo-doi"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "role": "casual",
+      "heading": "Casual dining",
+      "nav": "The market",
+      "paragraphs": [
+        "The night market is the walk after dark. The hour is Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Moc Chau night market",
+          "nameVi": "Chợ đêm Mộc Châu",
+          "address": "Farm-town walking street, around the Pha Luong light park",
+          "note": "More than 2 ha around the Pha Luong light park, with nearly 60 stalls split into a trade side and a food side. Weekends are the fuller nights, and the food side serves dried buffalo and hearth sausage with a cup of strong wine."
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "role": "breakfast",
+      "heading": "Breakfast",
+      "nav": "Breakfast",
+      "paragraphs": [
+        "The morning cup is plain yogurt, black sticky-rice yogurt, passion-fruit yogurt, or fresh milk in the farm town. Bamboo sticky rice is the other early plate when a Ban Ang meal includes it. The hour is Check on arrival."
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Moc Chau food guide — yogurt, hau plum, and the Ban Ang table",
+  "seoDescription": "Moc Chau yogurt, hau plum, bamboo sticky rice, and the Ban Ang table."
 }

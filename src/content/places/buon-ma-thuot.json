@@ -29,6 +29,7 @@
     "nha-trang",
     "ho-chi-minh-city"
   ],
+  "foodSlug": "buon-ma-thuot",
   "routeSlugs": [],
   "itinerarySlugs": [
     "buon-ma-thuot-day"
@@ -55,9 +56,41 @@
     }
   ],
   "eat": [
-    "Bun do on Le Hong Phong from about 15:00 or 16:00, com lam with grilled chicken on a Buon Don day, and phin coffee in the morning. The current bowl price is Check on arrival."
+    "Bún đỏ on Le Hong Phong from about 15:00 or 16:00, bánh ướt chồng đĩa on Trần Nhật Duật or Lê Thánh Tông, and cơm lam with grilled chicken and rượu cần. Published prices do not match. The price now is Check on arrival."
   ],
-  "dishSlugs": [],
+  "dishSlugs": [
+    "buon-ma-thuot--bun-do",
+    "buon-ma-thuot--banh-uot-chong-dia",
+    "buon-ma-thuot--com-lam",
+    "buon-ma-thuot--ga-nuong",
+    "buon-ma-thuot--ruou-can",
+    "buon-ma-thuot--ca-phe",
+    "buon-ma-thuot--ca-lang",
+    "buon-ma-thuot--nem-nuong",
+    "buon-ma-thuot--banh-chien",
+    "buon-ma-thuot--banh-bo-nuong",
+    "buon-ma-thuot--bo-nhung-me",
+    "buon-ma-thuot--canh-thut",
+    "buon-ma-thuot--canh-ca-dang",
+    "buon-ma-thuot--goi-ca-dang",
+    "buon-ma-thuot--ca-dang-gia",
+    "buon-ma-thuot--dot-may-nuong",
+    "buon-ma-thuot--la-mi-xao",
+    "buon-ma-thuot--du-du-muoi-kien",
+    "buon-ma-thuot--canh-djam-tang",
+    "buon-ma-thuot--djam-tang-chua",
+    "buon-ma-thuot--ca-loc-trung-kien",
+    "buon-ma-thuot--rau-rung-xao",
+    "buon-ma-thuot--canh-bot",
+    "buon-ma-thuot--bun-gio-heo",
+    "buon-ma-thuot--hu-tieu",
+    "buon-ma-thuot--cha-ca-that-lat",
+    "buon-ma-thuot--com-ga-ea-kar",
+    "buon-ma-thuot--xoai-ea-sup",
+    "buon-ma-thuot--mang-rung",
+    "buon-ma-thuot--mi-quang-ga",
+    "buon-ma-thuot--mi-quang-ech"
+  ],
   "interestsBody": [
     "Coffee is a phin in the morning, the World Coffee Museum on Nguyen Dinh Chieu, and Trung Nguyen Coffee Village on a separate ticket.",
     "October 10 Square is the festival stage. Khải Đoan pagoda is the large hall in the Phan Boi Chau area.",
@@ -66,6 +99,23 @@
     "Ako Dhong is the longhouse walk on the north edge. Yok Don is the elephant walk about 40 km west, without a ride."
   ],
   "interestGroups": [
+    {
+      "title": "Dining and F&B",
+      "summary": "Bún đỏ on Le Hong Phong, bánh ướt chồng đĩa, and cơm lam with the jar. A current price is Check on arrival.",
+      "body": [
+        "Vietnam National Administration of Tourism puts bún đỏ on Le Hong Phong from about 15:00 or 16:00. VnExpress puts bánh ướt chồng đĩa on Trần Nhật Duật and Lê Thánh Tông. Bao Dak Lak puts the bamboo rice, the grilled yard chicken, and the jar at Ko Tam and at Buon Tri A in Buon Don.",
+        "The published bún đỏ prices do not match: 15,000–30,000 VND, 20,000–35,000 VND, and 20,000–30,000 VND. The price now is Check on arrival. Bitter eggplant, canh thụt, and the forest greens are the other Êđê plates."
+      ],
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "Bún đỏ on Le Hong Phong, bánh ướt chồng đĩa, and cơm lam with the jar. A current price is Check on arrival.",
+          "photo": "com-lam",
+          "icon": "food",
+          "to": "food"
+        }
+      ]
+    },
     {
       "title": "Pagodas and the square",
       "summary": "Khải Đoan is the large pagoda in town. October 10 Square is the festival stage.",

@@ -117,6 +117,119 @@ No stall prices. A shop name is not a pick. Neighbor dishes are named only so a 
 - Neighbor dish to link: none. This is not a Phú Quốc fish-sauce page.
 - Sources: S16
 
+### Added 23 Oct 2026
+
+These are separate from the eleven plates already entered. A shop name is still not a pick. No stall price was printed. Direct open of the Vietnam Tourism U Minh article timed out on this date. Gỏi nhộng ong, lươn um lá nhàu, and the second lẩu account are a search record of S45, not a second measurement.
+
+### Gỏi nhộng ong
+- Vietnamese name: gỏi nhộng ong, also nhộng ong trộn bắp chuối
+- What it is: young bee pupae from the U Minh honey harvest. The national tourism article lists it with grilled snakehead, honey, lẩu mắm, and lươn um lá nhàu. It says the pupae were a forest dish and now appear on visitor meals (S45, search record 23 Oct 2026).
+- How to eat it: boil the young comb so the wax melts, skim the pupae, then cook. The same article names chiên bột, mắm ong, and especially nhộng ong trộn bắp chuối. Those stay on this dish. They are other preparations of the same pupae.
+- When to order it: on the U Minh day. A season was not printed. Check on arrival — UNSOURCED.
+- Area, not a shop: U Minh Hạ.
+- Meal: main
+- Neighbor dish to link: none
+- Sources: S45
+
+### Lươn um lá nhàu
+- Vietnamese name: lươn um lá nhàu
+- What it is: freshwater eel braised with nhàu leaves and coconut. The same article says eel of 1–2 kg, wrist-thick, with yellow skin, is still found, and singles out this braise. Other pots on that article are cháo lươn bẹ môn, canh chua, kho mắm, and xào sả ớt (S45, search record 23 Oct 2026).
+- How to eat it: clean the slime with wood ash, marinate with scallion, garlic, and salt, layer lemongrass, nhàu, eel, and more nhàu, braise in thin coconut water, finish with coconut cream. The dip is coconut cream, crushed roasted peanuts, tương hột, chili, and fish sauce. The article says the eel is sweet, the coconut is rich, and nhàu is sweet-bitter.
+- When to order it: on the U Minh day. A season was not printed. Check on arrival — UNSOURCED.
+- Area, not a shop: U Minh Hạ.
+- Meal: main
+- Neighbor dish to link: none
+- Sources: S45
+
+### Cá khô bổi U Minh
+- Vietnamese name: cá khô bổi U Minh, cá bổi (sặc rằn)
+- What it is: dried sặc rằn, a collective trademark of Trần Văn Thời. VOV says the fish grows more slowly here and the dried flesh is firm and fragrant (S43). Nhân Dân lists the mark among twelve collective trademarks (S49).
+- How to eat it: as a dried bag. A cooking method was not printed. Check on arrival — UNSOURCED.
+- When to order it: to carry.
+- Area, not a shop: Trần Văn Thời. Not the grilled snakehead, and not mắm cá lóc.
+- Meal: main
+- Neighbor dish to link: none
+- Sources: S43, S49
+
+### Cá khoai Cái Đôi Vàm
+- Vietnamese name: cá khô khoai Cái Đôi Vàm, cá khoai Cái Đôi Vàm
+- What it is: dried cá khoai from a village at thị trấn Cái Đôi Vàm, huyện Phú Tân, as VOV printed those names on 24 October 2020 (S43). Nhân Dân lists cá khoai Cái Đôi Vàm as one collective trademark (S49). Lẩu cá khoai on the airline page does not name this town (S16).
+- How to eat it: VOV describes the drying craft, not a table recipe. The hotpot stays the separate airline plate.
+- When to order it: to carry. A season was not printed. Check on arrival — UNSOURCED.
+- Area, not a shop: Cái Đôi Vàm. The 2020 district name is Phú Tân. A 2025 commune name was not on these pages.
+- Meal: main
+- Neighbor dish to link: lẩu cá khoai, already entered. Same fish, two products.
+- Sources: S43, S49, S16
+
+### Mắm cá lóc Thới Bình
+- Vietnamese name: mắm cá lóc Thới Bình
+- What it is: fermented snakehead. Vietnam Airlines lists it as a gift (S16). Nhân Dân lists it as a collective trademark (S49).
+- How to eat it: a serving was not printed. Check on arrival — UNSOURCED.
+- When to order it: to carry, or with a meal. No hour was printed.
+- Area, not a shop: Thới Bình.
+- Meal: main
+- Neighbor dish to link: cá lóc nướng, already entered. A different plate.
+- Sources: S16, S49
+
+### Cá chình và cá bống tượng Tân Thành
+- Vietnamese name: cá chình và cá bống tượng Tân Thành
+- What it is: one collective trademark covering both fish, as Nhân Dân lists it among the twelve marks (S49). Not two recipes.
+- How to eat it: a recipe was not printed. Check on arrival — UNSOURCED.
+- When to order it: Check on arrival — UNSOURCED.
+- Area, not a shop: Tân Thành, the name on the mark. Which ward was not printed.
+- Meal: main
+- Neighbor dish to link: none
+- Sources: S49
+
+### Tôm sú Cà Mau
+- Vietnamese name: tôm sú Cà Mau
+- What it is: a geographical indication, paired in the Nhân Dân report with the cua Cà Mau indication (S49).
+- How to eat it: a cooking method was not printed. Check on arrival — UNSOURCED.
+- When to order it: Check on arrival — UNSOURCED.
+- Area, not a shop: the province. No ward.
+- Meal: main
+- Neighbor dish to link: cua Cà Mau, already entered. A different animal.
+- Sources: S49
+
+### Bồn bồn Cái Nước
+- Vietnamese name: dưa bồn bồn Cái Nước, bồn bồn Cái Nước
+- What it is: pickled bồn bồn. VOV says the Intellectual Property Office recognized the Cái Nước collective mark, one product to a district, held by the district farmers’ association (S43). Vietnam Airlines lists dưa bồn bồn (S16). Nhân Dân lists bồn bồn Cái Nước (S49).
+- How to eat it: as a pickle to carry. A serving was not printed. Check on arrival — UNSOURCED.
+- When to order it: to carry.
+- Area, not a shop: Cái Nước.
+- Meal: main
+- Neighbor dish to link: none
+- Sources: S43, S16, S49
+
+### Chuối khô Trần Hợi
+- Vietnamese name: chuối khô Trần Hợi
+- What it is: dried banana. Nhân Dân lists the collective mark (S49). Vietnam Airlines lists chuối khô and does not name the town (S16).
+- How to eat it: as a sweet to carry. A method was not printed. Check on arrival — UNSOURCED.
+- When to order it: to carry.
+- Area, not a shop: Trần Hợi, the name on the mark.
+- Meal: sweet
+- Neighbor dish to link: none
+- Sources: S49, S16
+
+### Rượu trái giác
+- Vietnamese name: rượu trái giác
+- What it is: a fruit spirit on the Vietnam Airlines gift list (S16).
+- How to eat it: a measure was not printed. Do not invent one. Check on arrival — UNSOURCED.
+- When to order it: to carry.
+- Area, not a shop: a town was not printed. Check on arrival — UNSOURCED.
+- Meal: drink
+- Neighbor dish to link: none
+- Sources: S16
+
+### Marks that stay on dishes already entered
+- Tôm khô Rạch Gốc is the existing tôm khô. VOV and Nhân Dân name the collective mark. The live airline bullet on 23 Oct 2026 reads “Các loại tôm, cá, hải sản khô” as one line, not a separate cá khô dish (S16, S43, S49).
+- Cua Năm Căn and the cua Cà Mau indication stay on cua Cà Mau (S43, S49).
+- Bánh phồng tôm Mũi Cà Mau stays on bánh phồng tôm Năm Căn. Airline says Năm Căn. Nhân Dân says the Mũi Cà Mau mark (S16, S49).
+- Mật ong U Minh Hạ stays on mật ong U Minh (S43, S49).
+- Đũa đước Mũi Cà Mau and than đước Mũi Cà Mau are on the Nhân Dân list and are not food (S49).
+- Cá nâu Mũi Cà Mau was a geographical-indication project in that December 2022 report, not a granted indication and not a plate (S49). Left out.
+- Ba khía Rạch Gốc and bánh phồng tôm Hàng Vịnh were certification projects in that report, not grants (S49). The salted crab and the cracker stay as already entered.
+
 ## Food streets and markets
 
 ### Chợ nổi Cà Mau

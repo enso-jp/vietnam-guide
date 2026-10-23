@@ -1,0 +1,276 @@
+{
+  "slug": "gia-lai",
+  "name": "Gia Lai food guide",
+  "placeSlug": "gia-lai",
+  "summary": "Pleiku starts with two-bowl pho and grilled chicken with bamboo rice. Krông Pa beef, fermented crab noodles, and jar wine are the highland table. The coast, former Bình Định, is a different meal.",
+  "body": [
+    "Eat in Pleiku when the lake is the trip. Breakfast is two-bowl pho along Nguyễn Văn Trỗi: chewy noodles tossed with black fermented-soybean sauce in one bowl, a clear broth in the other. From noon into the evening, the plate is charcoal chicken with sticky rice from a bamboo tube, in Tân Sơn and on Lê Duẩn, Phạm Ngọc Thạch, and Hàn Thuyên.",
+    "The highland table continues with Krông Pa beef and ant salt, beef on bamboo skewers, Jrai cassava leaf, river fish from the Sê San, Pleiku coffee, and jar wine. After dark, Điện Hồng food street, on Nguyễn Thiện Thuật and Trần Phú, opened on 22 April 2026 and serves the pho again, plus noodles, grilled dishes, and snacks.",
+    "Since the 2025 merger the province also holds the old Bình Định coast, and it eats differently: shrimp pancakes, rice sheets with pork offal, ramie-leaf dumplings, pink coconut cakes, and tré. Quy Nhơn is the town for lobster, crab, squid, and shellfish. Save those for the coast, not the Pleiku breakfast.",
+    "A chicken with bamboo rice runs about 200,000 to 300,000 VND depending on the account, and a pho portion about 35,000–60,000 VND."
+  ],
+  "specialtiesLead": "Start with two-bowl pho and the grilled chicken. Krông Pa beef, the Sê San fish, jar wine, and the coastal plates follow.",
+  "dishSlugs": [
+    "gia-lai--pho-hai-to",
+    "gia-lai--ga-nuong-com-lam",
+    "gia-lai--bo-mot-nang",
+    "gia-lai--bo-nuong-que",
+    "gia-lai--bun-mam-cua",
+    "gia-lai--ca-phe",
+    "gia-lai--la-mi-xao",
+    "gia-lai--canh-la-mi",
+    "gia-lai--anam-tbung",
+    "gia-lai--ca-um",
+    "gia-lai--ca-dang-long-ga",
+    "gia-lai--ca-nuong",
+    "gia-lai--ca-com-kho",
+    "gia-lai--goi-ca-com",
+    "gia-lai--banh-trang-ca-com",
+    "gia-lai--nuoc-mam-ca-com",
+    "gia-lai--tep-bien-ho",
+    "gia-lai--heo-nuong",
+    "gia-lai--heo-soc-dua",
+    "gia-lai--ruou-can",
+    "gia-lai--banh-xeo-tom-nhay",
+    "gia-lai--banh-hoi-long-heo",
+    "gia-lai--banh-it-la-gai",
+    "gia-lai--banh-hong",
+    "gia-lai--tre"
+  ],
+  "sections": [
+    {
+      "id": "specialties",
+      "heading": "Pleiku and the highlands",
+      "nav": "Highlands",
+      "paragraphs": [
+        "These are the Pleiku and highland plates: noodles and grilled meat in town, Jrai cooking from the villages, and fish from the Sê San."
+      ],
+      "spots": [
+        {
+          "name": "Two-bowl pho",
+          "nameVi": "Phở hai tô",
+          "address": "Nguyễn Văn Trỗi, Pleiku",
+          "note": "Dry rice noodles with minced meat, crisp shallots, and black fermented-soybean sauce in one bowl, and a clear, gently sweet broth in the other. Toss the noodles and sip the broth between bites.",
+          "photo": "gia-lai--pho-hai-to",
+          "dishSlug": "gia-lai--pho-hai-to"
+        },
+        {
+          "name": "Grilled chicken with bamboo rice",
+          "nameVi": "Gà nướng cơm lam",
+          "address": "Tân Sơn, Lê Duẩn, Phạm Ngọc Thạch, Hàn Thuyên",
+          "note": "Lean, firm free-range chicken grilled over charcoal, with sticky rice steamed in a bamboo tube. Dip it in peanut-sesame salt, or in lime, salt, and pepper.",
+          "dishSlug": "gia-lai--ga-nuong-com-lam"
+        },
+        {
+          "name": "Sun-dried beef",
+          "nameVi": "Bò một nắng",
+          "address": "Krông Pa",
+          "note": "Krông Pa beef marinated, dried, then grilled and torn into strands. It is dipped in yellow ant salt pounded with green chili and forest leaves.",
+          "dishSlug": "gia-lai--bo-mot-nang"
+        },
+        {
+          "name": "Beef on bamboo skewers",
+          "nameVi": "Bò núi nướng que",
+          "address": "Pleiku",
+          "note": "Marinated mountain beef grilled on bamboo, soft with some chew and moderately salty, scented with young bamboo and forest herbs. Pull it off the stick and eat it with basil.",
+          "dishSlug": "gia-lai--bo-nuong-que"
+        },
+        {
+          "name": "Fermented crab noodles",
+          "nameVi": "Bún mắm cua",
+          "address": "Pleiku",
+          "note": "Rice noodles in a black, sharp broth of fermented field crab, with măng le, crispy pork skin, fried shallot, peanuts, and a duck egg darkened by the broth.",
+          "dishSlug": "gia-lai--bun-mam-cua"
+        },
+        {
+          "name": "Grilled pork",
+          "nameVi": "Heo nướng",
+          "address": "Teng village, Tân Sơn",
+          "note": "Pork grilled on skewers or whole at the Jrai tables of Tân Sơn, eaten with sticky rice from a bamboo tube.",
+          "photo": "gia-lai--heo-nuong",
+          "dishSlug": "gia-lai--heo-nuong"
+        },
+        {
+          "name": "Wild boar",
+          "nameVi": "Heo sọc dưa",
+          "note": "Wild boar is one of the meats Gia Lai is known for. It is not the Sê San river fish that shares the sọc dưa name.",
+          "dishSlug": "gia-lai--heo-soc-dua"
+        },
+        {
+          "name": "Stir-fried cassava leaves",
+          "nameVi": "Lá mì xào",
+          "address": "Buôn Ama Hyai, Krông Pa",
+          "note": "Young white or red cassava leaves, kneaded soft and stir-fried with garlic, chili, and lá é. They taste bitter at first and sweet after.",
+          "dishSlug": "gia-lai--la-mi-xao"
+        },
+        {
+          "name": "Cassava-leaf soup",
+          "nameVi": "Canh lá mì",
+          "address": "Krông Pa",
+          "note": "Stir-fried cassava leaf stirred with rice-flour water until it thickens into a soft, porridge-like soup.",
+          "dishSlug": "gia-lai--canh-la-mi"
+        },
+        {
+          "name": "Anam Tbung",
+          "nameVi": "Anam Tbung",
+          "address": "Krông Pa",
+          "note": "A Jrai feast dish of rice flour cooked with pork offal, beef offal, or meat, made for a wedding, a funeral, a death anniversary, or a new house.",
+          "dishSlug": "gia-lai--anam-tbung"
+        },
+        {
+          "name": "Braised fish",
+          "nameVi": "Cá um",
+          "address": "Ba river",
+          "note": "Braised fish served at a Jrai guest meal by the Ba river, beside stir-fried cassava leaf and yellow ant salt.",
+          "dishSlug": "gia-lai--ca-um"
+        },
+        {
+          "name": "Bitter eggplant with chicken offal",
+          "nameVi": "Cà đắng lòng gà",
+          "address": "Western Gia Lai",
+          "note": "Young bitter eggplant and chicken offal seasoned with lemongrass, shallot, and chili, wrapped in banana leaf and grilled over charcoal. The fruit is picked just short of ripe, so it is neither bland nor harshly bitter.",
+          "dishSlug": "gia-lai--ca-dang-long-ga"
+        },
+        {
+          "name": "Grilled river fish",
+          "nameVi": "Cá nướng",
+          "address": "Gia Lai rivers",
+          "note": "River and stream fish grilled over charcoal with no marinade, then dipped in chili salt, lá é salt, or yellow ant salt.",
+          "dishSlug": "gia-lai--ca-nuong"
+        },
+        {
+          "name": "Dried Sê San anchovy",
+          "nameVi": "Cá cơm khô sông Sê San",
+          "address": "Sê San",
+          "note": "Tiny river anchovy, sun-dried and fried golden with a sour, spicy, salty, and sweet seasoning to eat with rice.",
+          "dishSlug": "gia-lai--ca-com-kho"
+        },
+        {
+          "name": "Dried-anchovy salad",
+          "nameVi": "Gỏi cá cơm khô",
+          "address": "Sê San",
+          "note": "The same dried anchovy, fried golden and tossed with green mango and herbs into a sour-sweet salad.",
+          "dishSlug": "gia-lai--goi-ca-com"
+        },
+        {
+          "name": "Anchovy rice crackers",
+          "nameVi": "Bánh tráng cá cơm",
+          "address": "Sê San",
+          "note": "Seasoned Sê San anchovy spread on rice paper and dried into a cracker to carry home.",
+          "dishSlug": "gia-lai--banh-trang-ca-com"
+        },
+        {
+          "name": "Anchovy fish sauce",
+          "nameVi": "Nước mắm cá cơm",
+          "address": "Sê San",
+          "note": "A straight anchovy fish sauce, fermented in the rainy months when the Sê San catch will not dry.",
+          "dishSlug": "gia-lai--nuoc-mam-ca-com"
+        },
+        {
+          "name": "Biển Hồ shrimp",
+          "nameVi": "Tép Biển Hồ",
+          "address": "Biển Hồ",
+          "note": "Small shrimp from Biển Hồ, seasoned and dried on rice paper into a thin sheet.",
+          "dishSlug": "gia-lai--tep-bien-ho"
+        },
+        {
+          "name": "Pleiku coffee",
+          "nameVi": "Cà phê Pleiku",
+          "address": "Pleiku",
+          "note": "Coffee from Vietnam’s fourth-largest growing province, drunk in Pleiku’s long-running cafes. Roasted beans are sold to carry home.",
+          "dishSlug": "gia-lai--ca-phe"
+        },
+        {
+          "name": "Jar wine",
+          "nameVi": "Rượu cần",
+          "address": "Đak Pơ, Phú Thiện, Pleiku",
+          "note": "Bahnar and Jrai jar wine, also called rượu ghè, fermented with leaf and root yeast from rice, corn, cassava, or millet, and drunk straight from the jar.",
+          "photo": "gia-lai--ruou-can",
+          "dishSlug": "gia-lai--ruou-can"
+        }
+      ]
+    },
+    {
+      "id": "coast",
+      "heading": "The coast",
+      "nav": "Coast",
+      "role": "regional",
+      "paragraphs": [
+        "Since the merger, the province runs down to the old Bình Định coast. Eat these in that coastal belt, not on Nguyễn Văn Trỗi.",
+        "Quy Nhơn and the nearby fishing villages are the place for lobster, crab, squid, and shellfish, at Hàm Tử port, Đầm market, and Khu 2 market."
+      ],
+      "spots": [
+        {
+          "name": "Jumping-shrimp pancake",
+          "nameVi": "Bánh xèo tôm nhảy",
+          "address": "Xứ Nẫu coast",
+          "note": "A crisp pancake filled with small Bình Định freshwater shrimp, named for the way they jump on the hot pan. Squid and beef versions are made too.",
+          "dishSlug": "gia-lai--banh-xeo-tom-nhay"
+        },
+        {
+          "name": "Rice sheets with pork offal",
+          "nameVi": "Bánh hỏi lòng heo",
+          "address": "Coast",
+          "note": "Fine rice-noodle sheets brushed with scallion fat, served with pork heart, liver, blood sausage, and intestine, herbs, and chili fish sauce. A bowl of blood-and-pork porridge often comes alongside.",
+          "dishSlug": "gia-lai--banh-hoi-long-heo"
+        },
+        {
+          "name": "Ramie-leaf dumpling",
+          "nameVi": "Bánh ít lá gai",
+          "address": "Coast",
+          "note": "A black glutinous-rice dumpling made with ramie leaf, with a chewy skin and a sweet coconut and mung-bean filling.",
+          "dishSlug": "gia-lai--banh-it-la-gai"
+        },
+        {
+          "name": "Pink coconut cake",
+          "nameVi": "Bánh hồng",
+          "address": "Coast",
+          "note": "Glutinous rice, sugar, and fresh coconut, lightly chewy and delicately sweet. Once a wedding cake, it is now eaten with tea.",
+          "dishSlug": "gia-lai--banh-hong"
+        },
+        {
+          "name": "Fermented pork parcel",
+          "nameVi": "Tré",
+          "address": "Former Bình Định",
+          "note": "Pork head, ear, and skin mixed with galangal, garlic, and toasted sesame, wrapped in leaf and straw. After two or three days it is lightly sour and smells of galangal and garlic.",
+          "dishSlug": "gia-lai--tre"
+        }
+      ]
+    },
+    {
+      "id": "streets",
+      "heading": "Streets",
+      "nav": "Streets",
+      "role": "casual",
+      "paragraphs": [
+        "Two eating streets in Pleiku, one for the morning and one for the night."
+      ],
+      "spots": [
+        {
+          "name": "Nguyễn Văn Trỗi",
+          "nameVi": "Phố phở Nguyễn Văn Trỗi",
+          "address": "Pleiku",
+          "note": "The two-bowl pho street. Shops run from early morning through midday, and some stay open all day."
+        },
+        {
+          "name": "Điện Hồng food street",
+          "nameVi": "Phố ẩm thực Điện Hồng",
+          "address": "Nguyễn Thiện Thuật–Trần Phú, Điện Hồng ward",
+          "note": "The night food street, opened on 22 April 2026: 73 lots, 54 of them food stalls selling two-bowl pho, noodles, grilled dishes, and snacks, and 19 selling souvenirs and OCOP goods. Parking is free."
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "heading": "Breakfast",
+      "nav": "Breakfast",
+      "role": "breakfast",
+      "paragraphs": [
+        "Breakfast is two-bowl pho on Nguyễn Văn Trỗi, from early morning through midday, with some shops open all day. Follow it with a Pleiku coffee."
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Gia Lai food guide — two-bowl pho, then the highlands",
+  "seoDescription": "Pleiku breakfast is two-bowl pho. Lunch is grilled chicken with bamboo rice. Krông Pa beef and the coastal pancakes are separate meals."
+}

@@ -172,3 +172,45 @@ Pages that still say quận or the pre-2025 area are quoted as printed. The reso
 - Accessed: 22 Oct 2026
 - Stamp: verified
 - Supports: The itinerary prints Cát Bà as about 30 km from the mainland, by boat, and also names a cable car. Used only as that page’s distance line. Not a fare and not a clock.
+
+## S25
+- URL: https://haiphong.gov.vn/Hai-Phong-Thanh-Pho-Toi-Yeu/Qua-vat-mua-dong-Hai-Phong-15528
+- Publisher: Cổng thông tin điện tử thành phố Hải Phòng
+- Accessed: 23 Oct 2026
+- Stamp: verified
+- Supports: Article time 23 December 2012. Bánh mì cay about two fingertips wide, pate, charcoal, 5,000–7,000 đồng, streets Khánh Nạp on Hàng Kênh, Lê Lợi, and Đinh Tiên Hoàng. Sủi dìn in winter: wet-milled glutinous rice, coconut, sesame, peanuts, ginger with nước đường hoa mai, not chè and not bánh trôi. Bánh bèo on the start of Lê Đại Hành: rice flour, pork, wood ear, fried shallot, banana leaf, fish sauce with chili powder and pepper. Bún tôm is named and not described.
+
+## S26
+- URL: https://haiphong.gov.vn/Du-lich/Banh-da-cua-va-Cha-chia-Ha-Lung-nam-trong-danh-sach-121-mon-am-thuc-tieu-bieu-cua-Viet-Nam-giai-doan-I---2022-131784
+- Publisher: Cổng thông tin điện tử thành phố Hải Phòng
+- Accessed: 23 Oct 2026
+- Stamp: verified
+- Supports: Article time 29 September 2023. Hiệp hội Văn hóa ẩm thực Việt Nam’s list of 121 tiêu biểu dishes for phase I of 2022 includes bánh đa cua and chả chìa Hạ Lũng from Hai Phong. No recipe for chả chìa.
+
+## S27
+- URL: https://hongbang.haiphong.gov.vn/tin-tuc-su-kien/am-thuc-hai-phong-noi-bat-tai-trien-lam-thanh-tuu-dat-nuoc-777686
+- Publisher: Ủy ban nhân dân phường Hồng Bàng
+- Accessed: 23 Oct 2026
+- Stamp: verified
+- Supports: Page date 1 September 2025. Square crisp nem cua bể. Rươi from Tứ Kỳ. Food-tour names include bánh mì que, bún cá cay, ốc, dừa dầm, cà phê cốt dừa, bánh đa cua, nem cua bể, and chả rươi. A 2023 honor for Tây Hải Phòng names bánh cuốn, bánh đậu xanh, and chả rươi. That honor sentence is not the S26 pair. Bánh mì que is not described and is not published as a second sandwich.
+
+## S28
+- URL: https://nongthon.vietnamtourism.gov.vn/cha-ruoi-hai-phong/
+- Publisher: TITC, rural-tourism page of vietnamtourism.gov.vn
+- Accessed: 23 Oct 2026
+- Stamp: verified
+- Supports: Chả rươi. No date printed on the page. Lunar months 9 and 10. Worm mainly from Tiên Lãng and Vĩnh Bảo. Fried with minced pork, egg, dill, and shredded tangerine peel. Sweet-sour fish sauce, herbs, and rice noodles, or red crackers. Areas Lê Chân, Ngô Quyền, Lương Văn Can, and Cầu Đất. Early morning and late afternoon in season. No price.
+
+## S29
+- URL: https://lichsudangbo.haiphong.gov.vn/khai-quat-ve-thanh-pho/KHAI-LUOC-LICH-SU---VAN-HOA-VA-GIA-TRI-TRUYEN-THONG-CUA-VUNG-DAT-HAI-PHONG-2953
+- Publisher: Ban Tuyên giáo và Dân vận, Thành ủy Hải Phòng
+- Accessed: 23 Oct 2026
+- Stamp: verified
+- Supports: No date printed. Food sentence only. Nem cua bể: crab, shrimp, pork, wood ear, fried crisp, with rice noodles and sweet-sour fish sauce. Bánh mì cay: a small crisp stick with pate and chí chương. Also names nem chua An Thọ, chả chìa Hạ Lũng, and cơm cháy hải sản, with no method. Names hải sản khô Cát Bà, nước mắm Cát Hải, mật ong Cát Bà, and rượu nếp cái hoa vàng as products, not as plates. The page’s area and neighbor sentences are the pre-merger picture and are not copied onto the place.
+
+## S30
+- URL: https://truongchinhtritohieu.haiphong.gov.vn/Bai-viet-chuyen-de/Phat-huy-vai-tro-cua-phu-nu-Hai-Phong-trong-lien-ket-bao-ton-van-hoa-va-phat-trien-du-lich-ben-vung-194735.html
+- Publisher: Trường Chính trị Tô Hiệu
+- Accessed: 23 Oct 2026
+- Stamp: verified
+- Supports: Updated 20 October 2026. Names chè dừa dầm among port dishes, with bánh đa cua, nem cua bể, and bánh mì cay, and does not say chè dừa dầm is the Cát Bi dừa dầm. Names chả chìa with no recipe.

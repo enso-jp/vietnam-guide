@@ -87,7 +87,7 @@ The government “toàn văn” page for Nghị quyết 202/2025/QH15 loaded the
 - URL: https://sovhttdl.quangngai.gov.vn/danh-muc-cot-phai/tin-tuc/hoat-dong-du-lich/chuan-bi-khai-mac-le-hoi-don-an-phu-.html
 - Publisher: Sở Văn hóa, Thể thao và Du lịch tỉnh Quảng Ngãi
 - Accessed: 22 Oct 2026
-- Supports: Lễ hội Don An Phú, page dated 23 July 2026, body dates 24–27.7, opening 19:00 on 24.7, south of cầu Cổ Lũy, thôn Phú Thọ, xã An Phú. Don caught on sông Trà Khúc. Folk dishes named: ram chả cá, ram bắp, bánh căn, bánh bèo, bánh xèo, bánh cuốn, chè. No stall price and no later-year date.
+- Supports: Lễ hội Don An Phú, page dated 23 July 2026, body dates 24–27.7, opening 19:00 on 24.7, south of cầu Cổ Lũy, thôn Phú Thọ, xã An Phú. Don caught on sông Trà Khúc. Dishes named on the reopen of 23 Oct 2026: dishes from don and hến, ram chả cá, ram bắp, bắp xào, các loại ốc hút, trứng vịt lộn, bánh căn, bánh bèo, bánh xèo, bánh cuốn, cá viên chiên, chè, xu xoa, đậu hũ. No stall price and no later-year date. Reopened 23 Oct 2026.
 
 ### S15
 - URL: https://baovanhoa.vn/du-lich/dac-san-don-gao-dua-o-song-tra-khuc-131132.html
@@ -123,13 +123,13 @@ The government “toàn văn” page for Nghị quyết 202/2025/QH15 loaded the
 - URL: https://www.vietnamairlines.com/go/vi/plan-book/travel/travel-guide/dac-san-quang-ngai
 - Publisher: Vietnam Airlines travel guide
 - Accessed: 22 Oct 2026
-- Supports: Bánh xèo Quảng Ngãi described as the small pan cake, and Chợ Quảng Ngãi at 159 Nguyễn Bá Loan. Prices on that page are not copied. Shop names on that page are not picks.
+- Supports: Reopened 23 Oct 2026. The numbered specialties and the reference prices printed there: don (75,000 VND for 250 g prepared with nước cốt; 15,000–30,000 VND a cooked bowl), cá bống kho tiêu (160,000 VND/300 g), bánh xèo in an iron pan (from 12,000 VND), ram bắp (80,000 VND/500 g), cơm gà (30,000–70,000 VND), cua Huỳnh Đế (900,000–1,800,000 VND/kg), cá niên (300,000–800,000, currency word printed as VDN), bún cá ngừ um (from 25,000 VND), cúm núm (80,000 VND/kg, lunar months 6–8), cá tà ma (from 250,000 VND/kg), ram thịt nướng (from 100,000 VND for three), gỏi tỏi (120,000 VND a plate), kẹo gương (35,000 VND/150 g), bánh bó (30,000 VND/300 g), bánh nổ (30,000 VND/250 g), xu xoa (30,000 VND/500 g), tỏi Lý Sơn (150,000–190,000 VND/kg), mắm nhum (200,000 for a 200 g jar, no currency word), cá bống rim khô (90,000 VND/200 g), quế Trà Bồng (55,000 VND/kg dried, 150,000 VND/500 g powder, 200,000 VND/10 ml oil, more than 1,700 ha, geographical indication). Gift names without a method: bánh thuẫn, bánh in, muối Sa Huỳnh, mạch nha, đường phèn Phổ Hòa. Market line printed as 159 Nguyễn Bá Loan, Nguyễn Ngiêm. Shop names on that article are not picks. The seafood category list is not a single dish.
 
 ### S21
 - URL: https://zalopay.vn/dac-san-quang-ngai-7277
 - Publisher: ZaloPay
 - Accessed: 22 Oct 2026
-- Supports: Bánh ít lá gai as that commercial page describes it, and that page’s line that don is eaten morning or evening. Not a provincial page. No price copied.
+- Supports: Reopened 23 Oct 2026. Don in the morning or evening, broth over chopped hành tăm. Bánh ít lá gai in banana leaf, ramie and sticky rice, mung bean or coconut, at Tết and weddings. Conflicts kept beside S20: bánh xèo in a clay mold; ram bắp without pork or shrimp; bún cá ngừ as a clear broth with tomato and pineapple; kẹo gương caption naming malt and sesame while the article names cane sugar, peanuts, and ginger; xu xoa with syrup rather than palm sugar and ginger; cá bống kho tiêu with fresh chili; gỏi tỏi with shrimp and pork optional; cá niên in Trà Bồng and Ba Tơ; mắm nhum for many months at Sa Huỳnh; cua Huỳnh Đế at Sa Huỳnh and Lý Sơn, including hotpot; bánh bèo with a thicker batter and a small spoon; ốc hút as apple snails. Also described only here, and not given a public dish record until a second publisher is opened: bánh tráng mè at Tịnh Long, rong biển sấy, rau dớn xào tỏi, rau ranh nấu ốc đá, bánh đúc lạc. Not a provincial page. No price copied.
 
 ### S22
 - URL: https://vetauduongsat.com/quang-ngai/
@@ -154,3 +154,21 @@ The government “toàn văn” page for Nghị quyết 202/2025/QH15 loaded the
 - Publisher: cangsaky.vn
 - Accessed: 22 Oct 2026
 - Supports: One operator page’s Sa Kỳ distance, about 18–20 km and 25–40 minutes by vehicle from the city center, address xã Bình Châu. Other operator pages were not used to replace this. S9 prints no kilometre.
+
+### S26
+- URL: https://camthanh.quangngai.gov.vn/gioi-thieu/tin-tuc/van-hoa-xa-hoi/mach-nha-mon-qua-tu-dong-ruong.html
+- Publisher: Trang thông tin điện tử phường Cẩm Thành
+- Accessed: 23 Oct 2026
+- Supports: Mạch nha method quoted from Địa chí Quảng Ngãi (sprout, cook and press and filter, reduce), Thi Phổ and the proverb, eating it with rice paper, a lightly sweet mild taste, and a separate cassava maltose. Business names on the article are not picks. No price.
+
+### S27
+- URL: https://nongthon.vietnamtourism.gov.vn/nghe-lam-duong-phen-duong-phoi-hanh-trinh-ngot-ngao-noi-mien-que-quang-ngai/
+- Publisher: Chuyên trang quảng bá du lịch nông thôn, vietnamtourism.gov.vn (TITC)
+- Accessed: 23 Oct 2026
+- Supports: Đường phèn method (white factory sugar, water, egg, peanut oil, a little lime water, ceramic jars, thread baskets, seven days), white and yellow crystals, đường phổi as the airy lung-shaped sugar used in chè or ginger water, villages Ba La and Vạn Tượng along the Trà Khúc. No price and no hour.
+
+### S28
+- URL: https://truongquangtrong.quangngai.gov.vn/gioi-thieu/gioi-thieu-ve-tinh
+- Publisher: Trang thông tin điện tử phường Trương Quang Trọng, printing the provincial introduction. Chịu trách nhiệm: Tỉnh Quảng Ngãi
+- Accessed: 23 Oct 2026
+- Supports: Named foods with no plate except where another source describes one: cá bống, cá thài bai, don, đường phèn, đường phổi, kẹo gương, mạch nha, ốc đá, cá niêng, rượu đót, rượu cần, hải sâm, quế Trà Bồng, cau Sơn Hà and Sơn Tây, chè Minh Long, dứa Ba Tơ.

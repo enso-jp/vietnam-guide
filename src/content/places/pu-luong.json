@@ -21,6 +21,7 @@
     "markets": 3
   },
   "cover": "highlands",
+  "foodSlug": "pu-luong",
   "nearby": [
     "mai-chau",
     "ninh-binh"
@@ -51,11 +52,42 @@
     }
   ],
   "eat": [
-    "The meal is in the stilt house: Cổ Lũng duck, forest bamboo, hill chicken, and rượu cần. Phố Đoàn is a roadside market on Thursday and Sunday. Stall prices are check on arrival.",
-    "Cổ Lũng duck is described as low in fat, eaten boiled, grilled, or in a sour soup. One provincial writer dips the boiled bird in chẩm chéo, built from rang mắc khén, fresh chili, ginger, salt, and herbs. The Bản Đôn list says vịt cỏ and does not say it is the same bird. Forest bamboo is măng rừng at the house, măng khô at the market, and măng đắng on the airline guide, eaten there with a dip or fried with forest pork. The three names are not one recipe. Hill chicken is described as firm, with crisp skin, grilled with lá mắc mật. The summit-camp supper names grilled chicken, xôi đồ, rượu ngô, and rượu chuối. That camp rice is not the same line as xôi tím, which Bản Đôn lists without saying where the color comes from.",
-    "Stream fish, grilled with forest leaves, and cơm lam, glutinous rice in a bamboo tube, are on the airline guide only. Rock snail is ốc đá at Bản Đôn. The market article also says ốc suối and ốc núi. The airline guide calls it a rainy-season snail, steamed with lemongrass or fried with lime leaf. Bản Đôn does not print a season. Both stand. Forest pig is lợn rừng on the provincial list and lợn cỏ on the airline guide. They are not merged into one breed. Pumpkin greens and chayote tips are on the Bản Đôn meal, with no method printed. A breakfast hour was not printed. Check on arrival. Thịt treo gác bếp is named among highland-market goods, not only this valley, so it is check on arrival as a Pu Luong recipe."
+    "The meal is in the stilt house: Cổ Lũng duck, cơm lam, hill chicken, and rượu cần. Phố Đoàn is a roadside market on Thursday and Sunday. A current price is Check on arrival.",
+    "Vietnam Airlines calls Cổ Lũng duck fragrant and low in fat, boiled, grilled, or xáo. Xáo is not defined there. Hải Vân, on 16 May 2022, dips the boiled bird in chẩm chéo made from rang mắc khén, fresh chili, ginger, salt, and herbs. The Bản Đôn list says vịt cỏ and does not say it is the same bird. Măng rừng is the house shoot, măng khô is the market shoot, and măng đắng is the Vietnam Airlines shoot, eaten with a dip or fried with forest pork. The three names are not one recipe. Hill chicken is firm, with crisp skin, grilled with lá mắc mật, on Vietnam Airlines. VietNamNet’s 16 Nov 2025 summit supper names grilled chicken, xôi đồ, rượu ngô, and rượu chuối. That camp rice is not xôi tím. Bản Đôn lists xôi tím and does not say where the color comes from.",
+    "Vietnam Airlines grills small stream fish with forest leaves, and cooks cơm lam in a bamboo tube. Rock snail is ốc đá at Bản Đôn. The 16 May 2022 market article also says ốc suối and ốc núi. Vietnam Airlines calls it a rainy-season snail, steamed with lemongrass or fried with lime leaf. Bản Đôn does not print a season. Both stand. Lợn rừng is the Bản Đôn name and lợn cỏ is the Vietnam Airlines name. They are not one breed. Pumpkin greens and chayote tips are on the Bản Đôn meal, with no method printed. A breakfast hour was not printed. Check on arrival. VnExpress, 3 Jul 2023, describes thịt gác bếp for Thai households in Quan Hóa and Bá Thước. A 26 Sep 2026 market article also names thịt treo gác bếp among highland goods, including Phố Đoàn, with no cut and no smoke time. A current price is Check on arrival."
   ],
-  "dishSlugs": [],
+  "dishSlugs": [
+    "pu-luong--vit-co-lung",
+    "pu-luong--com-lam",
+    "pu-luong--ga-doi",
+    "pu-luong--ruou-can",
+    "pu-luong--vit-co",
+    "pu-luong--mang-rung",
+    "pu-luong--mang-kho",
+    "pu-luong--mang-dang",
+    "pu-luong--mang-chua",
+    "pu-luong--ga-nuong",
+    "pu-luong--ca-suoi-nuong",
+    "pu-luong--xoi-tim",
+    "pu-luong--xoi-do",
+    "pu-luong--xoi-hap-ga",
+    "pu-luong--oc-da",
+    "pu-luong--lon-rung",
+    "pu-luong--lon-co",
+    "pu-luong--thit-gac-bep",
+    "pu-luong--rau-bi",
+    "pu-luong--ngon-su-su",
+    "pu-luong--la-sang",
+    "pu-luong--nom-hoa-chuoi",
+    "pu-luong--nom-hoa-du-du",
+    "pu-luong--nom-rau-rung",
+    "pu-luong--canh-la-dang",
+    "pu-luong--sau-mang",
+    "pu-luong--cham-cheo",
+    "pu-luong--ruou-ngo",
+    "pu-luong--ruou-chuoi",
+    "pu-luong--mat-ong"
+  ],
   "interestsBody": [
     "The terraces are the reason to sleep here. Late May to early June is the green crop on the conservation pages and on Vietnam Tourism. September and October are the gold crop on those pages. A provincial trekking note calls both windows golden.",
     "The houses are on stilts, in Thai and Muong hamlets. Bản Đôn is the usual base. The evening is a campfire on the hamlet floor, not a bar street.",
@@ -78,6 +110,18 @@
     }
   ],
   "interestGroups": [
+    {
+      "title": "Dining and F&B",
+      "summary": "Cổ Lũng duck, cơm lam, and jar wine at the stilt house. Phố Đoàn is Thursday and Sunday. A current price is Check on arrival.",
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "Cổ Lũng duck, cơm lam, hill chicken, and jar wine. The other plates are on the Bản Đôn list, the summit camp, and Thác Hiêu. A current price is Check on arrival.",
+          "icon": "food",
+          "to": "food"
+        }
+      ]
+    },
     {
       "title": "Terraces on two calendars",
       "summary": "For the rice on the slopes, green in one window and gold in the other.",

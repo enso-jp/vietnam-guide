@@ -95,8 +95,14 @@ Accessed 22 Oct 2026 unless a line says otherwise. A search record is the text r
 ### S16
 - URL: https://www.vietnamairlines.com/vi-vn/vé-máy-bay-đến-cà-mau
 - Publisher: Vietnam Airlines
-- Accessed: 22 Oct 2026
-- Supports: the ticket page still lists the direct HCMC flight as operating, about 1 hour 10 minutes, one a day. About 10 km and 20–30 minutes. Reference xe ôm 60,000 VND and taxi 150,000 VND. Sample fares from 955,181 VND and a later line from 1,206,000 VND. Dishes and the gift list.
+- Accessed: 22 Oct 2026. Food list opened again on 23 Oct 2026.
+- Supports: the ticket page still lists the direct HCMC flight as operating, about 1 hour 10 minutes, one a day. About 10 km and 20–30 minutes. Reference xe ôm 60,000 VND and taxi 150,000 VND. Sample fares from 955,181 VND and a later line from 1,206,000 VND. Dishes: cua Cà Mau, cá thòi lòi, lẩu cá khoai, lẩu mắm U Minh, đuông chà là. Gift list opened on 23 Oct 2026: mắm ba khía Rạch Gốc; các loại tôm, cá, hải sản khô as one line; chuối khô; dưa bồn bồn; mắm cá lóc Thới Bình; bánh phồng tôm Năm Căn; rượu trái giác; mật ong rừng U Minh. No measure for the spirit.
+
+### S49
+- URL: https://nhandan.vn/ca-mau-co-14-san-pham-duoc-bao-ho-post731394.html
+- Publisher: Nhân Dân
+- Accessed: 23 Oct 2026
+- Supports: article dated 23 December 2022, 17:21, on a provincial workshop that morning. Twelve collective trademarks: mật ong U Minh Hạ, cá khô bổi U Minh, tôm khô Rạch Gốc, cua Năm Căn, mắm lóc Thới Bình, cá chình và cá bống tượng Tân Thành, bồn bồn Cái Nước, cá khoai Cái Đôi Vàm, chuối khô Trần Hợi, bánh phồng tôm Mũi Cà Mau, đũa đước Mũi Cà Mau, than đước Mũi Cà Mau. Two geographical indications: tôm sú Cà Mau and cua Cà Mau. Still in progress at that date: a geographical indication for cá nâu Mũi Cà Mau, and certification marks for bánh phồng tôm Hàng Vịnh–Cà Mau and ba khía Rạch Gốc Cà Mau. Chopsticks and mangrove charcoal are not food. The cá nâu project is not a plate.
 
 ### S17
 - URL: https://www.vietnamairlines.com/fr/vi/plan-book/travel/travel-guide/san-bay-ca-mau
@@ -257,8 +263,8 @@ Accessed 22 Oct 2026 unless a line says otherwise. A search record is the text r
 ### S43
 - URL: https://vov.vn/kinh-te/diem-danh-nhung-dac-san-noi-tieng-gan-xa-cua-vung-dat-mui-ca-mau-812492.vov
 - Publisher: VOV
-- Accessed: 22 Oct 2026
-- Supports: search record. Cá thòi lòi as a dish visitors ask for. The same two heritage trades.
+- Accessed: 22 Oct 2026. Opened in full on 23 Oct 2026. The article date on the page is 24 October 2020.
+- Supports: cá thòi lòi as a dish visitors ask for. Muối ba khía and gác kèo ong as national intangible heritage. Collective marks named in the article: mật ong U Minh Hạ, tôm khô Rạch Gốc, cua Năm Căn, cá khô bổi U Minh (sặc rằn, Trần Văn Thời), cá khô khoai at thị trấn Cái Đôi Vàm, huyện Phú Tân, and dưa bồn bồn Cái Nước, which the article says the Intellectual Property Office recognized. Each of those collective products is tied to one district and held by the district farmers’ association. Crab export destinations named: Korea, Malaysia, China, Taiwan. More than 34,000 ha of shrimp-crab under mangrove.
 
 ### S44
 - URL: https://thuonghieucongluan.com.vn/dac-san-ca-mau-hut-khach-voi-ba-khia-rach-goc-ca-thoi-loi-va-lau-mam-u-minh-a334248.html
@@ -269,8 +275,8 @@ Accessed 22 Oct 2026 unless a line says otherwise. A search record is the text r
 ### S45
 - URL: https://vietnamtourism.vn/index.php/news/items/25838
 - Publisher: Cục Du lịch Quốc gia Việt Nam
-- Accessed: 22 Oct 2026
-- Supports: search record. Cá lóc from the tenth lunar month through the first. The grill order. U Minh honey and the 2022 festival record.
+- Accessed: 22 Oct 2026. Direct open timed out again on 23 Oct 2026. The new lines are a search record of that URL, not a second measurement.
+- Supports: cá lóc from the tenth lunar month through the first. The grill order. U Minh honey and the 2022 festival record. Search record of 23 Oct 2026 also names gỏi nhộng ong, lươn um lá nhàu, and a second lẩu mắm account: mắm sặt, freshwater fish, coconut water, greens including hẹ nước, eaten hot over embers, and a Vietkings note for a largest pot at Hương rừng U Minh 2022. The Ngọc Hiển and airline accounts stay beside it. Spellings đoạt choại in the search record and đọt choại on the Ngọc Hiển page were not merged.
 
 ### S46
 - URL: https://baocamau.vn/song-doc-san-sang-cho-le-hoi-nghinh-ong-a37728.html

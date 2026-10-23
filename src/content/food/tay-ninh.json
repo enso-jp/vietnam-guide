@@ -1,0 +1,399 @@
+{
+  "slug": "tay-ninh",
+  "name": "Tay Ninh food guide",
+  "placeSlug": "tay-ninh",
+  "summary": "Stop in Trảng Bàng on the road from Ho Chi Minh City and roll bánh tráng phơi sương around boiled pork or young beef, with a basket of forest herbs and a bowl of bánh canh beside it. Then carry a jar of muối tôm, look for the Khmer and Cham plates of the border, and save lẩu mắm and dried snakehead for the old Long An half.",
+  "heroSlug": "tay-ninh--banh-trang-phoi-suong",
+  "body": [
+    "The sheet is the reason to stop. In khu phố Gia Huỳnh you sit down to pale, bubbled rice paper, boiled meat, herbs, and a dipping sauce; in khu phố Lộc Du, come in the morning to watch sheets toasted over peanut shells and rested in the dew.",
+    "Bánh canh is the other Trảng Bàng bowl, soft rice-flour strands in a sweet pork-bone broth. Young beef is lunch: steamed or boiled, sliced thin, and rolled in the same sheet, with grilled, steamed, dipped, hotpot, and porridge plates from the same kitchens.",
+    "At the mountain, Bà Đen custard apple is the fruit to carry. Toward the border, Khmer cooks make bún Xiêm Lo, a snakehead noodle bowl with turmeric and lemongrass, and mắm chua from Dầu Tiếng shrimp and fish; the Cham Islam community keeps Tung Lò Mò sausage, cà ri bò, and bánh thuẫn. At the Holy See, vegetarian food is part of a visit.",
+    "Hoa kitchens cook hủ tiếu and mì hoành thánh in a clear, lightly sweet broth, plus dim sum and two sweets. Resolution 202/2025/QH15 joined old Long An into the province, so lẩu mắm, Nàng Thơm Chợ Đào rice, dried snakehead from kênh 79, Gò Đen rice spirit, and Đức Hòa dragon fruit are Tây Ninh food too, on a different day from the Holy See."
+  ],
+  "specialtiesLead": "Bánh tráng phơi sương is the stop. The other plates follow by area: Trảng Bàng, the border, the Hoa kitchens, and the old Long An half.",
+  "dishSlugs": [
+    "tay-ninh--banh-trang-phoi-suong",
+    "tay-ninh--banh-canh-trang-bang",
+    "tay-ninh--muoi-tom",
+    "tay-ninh--bo-to",
+    "tay-ninh--bo-nuong-moi",
+    "tay-ninh--bo-nuong-sa",
+    "tay-ninh--bo-hap-gung",
+    "tay-ninh--bo-nhung-giam",
+    "tay-ninh--bo-nhung-mam-ruoc",
+    "tay-ninh--lau-duoi-bo",
+    "tay-ninh--chao-bo",
+    "tay-ninh--mang-cau-ba-den",
+    "tay-ninh--bun-xiem-lo",
+    "tay-ninh--mam-chua",
+    "tay-ninh--tung-lo-mo",
+    "tay-ninh--ca-ri-bo",
+    "tay-ninh--banh-thuan",
+    "tay-ninh--ca-loc-nuong-trui",
+    "tay-ninh--hu-tieu",
+    "tay-ninh--mi-hoanh-thanh",
+    "tay-ninh--ha-cao",
+    "tay-ninh--xiu-mai",
+    "tay-ninh--banh-bao",
+    "tay-ninh--banh-bao-kim-sa",
+    "tay-ninh--chan-ga-hap-tau-xi",
+    "tay-ninh--che-me-den",
+    "tay-ninh--sam-bo-luong",
+    "tay-ninh--kho-ca-loc",
+    "tay-ninh--goi-xoai-kho-ca-loc",
+    "tay-ninh--kho-ca-loc-chien-mam-me",
+    "tay-ninh--goi-la-sau-dau",
+    "tay-ninh--canh-chua-kho-ca-loc",
+    "tay-ninh--lau-mam",
+    "tay-ninh--gao-nang-thom-cho-dao",
+    "tay-ninh--ruou-de-go-den",
+    "tay-ninh--thanh-long-duc-hoa",
+    "tay-ninh--lap-xuong-tuoi",
+    "tay-ninh--mam-cong-can-giuoc"
+  ],
+  "sections": [
+    {
+      "id": "trang-bang",
+      "heading": "Trang Bang",
+      "nav": "Trang Bang",
+      "paragraphs": [
+        "The stop between Ho Chi Minh City and the Holy See: the rice sheet, the noodle bowl, the shrimp salt, the young beef, and the mountain’s custard apple."
+      ],
+      "spots": [
+        {
+          "name": "Banh trang phoi suong",
+          "nameVi": "Bánh tráng phơi sương",
+          "address": "Khu phố Gia Huỳnh, phường Trảng Bàng",
+          "dishSlug": "tay-ninh--banh-trang-phoi-suong",
+          "note": "A two-layer Trảng Bàng rice sheet, toasted over a peanut-shell fire until small bubbles rise, then rested briefly in the dew until it softens without going damp. You roll it at the table with boiled pork or young beef, a basket of garden and forest herbs, and a sauce that runs sour and sweet.",
+          "photo": "tay-ninh--banh-trang-phoi-suong"
+        },
+        {
+          "name": "Banh canh Trang Bang",
+          "nameVi": "Bánh canh Trảng Bàng",
+          "address": "Phường Trảng Bàng and Quốc lộ 22",
+          "dishSlug": "tay-ninh--banh-canh-trang-bang",
+          "note": "Trảng Bàng’s other bowl: long, soft rice-flour strands made without tapioca, in a pork-bone broth simmered for hours until it runs sweet and deep. It comes with pork hock, lean pork, blood cake or fish cake, scallion, and pepper."
+        },
+        {
+          "name": "Muoi tom",
+          "nameVi": "Muối tôm",
+          "dishSlug": "tay-ninh--muoi-tom",
+          "note": "Tây Ninh’s shrimp salt, salty, spicy, and aromatic, sold by the jar beside the Trảng Bàng rice paper. Eat it with fruit, with rice paper, or with other dishes.",
+          "photo": "tay-ninh--muoi-tom"
+        },
+        {
+          "name": "Bo to Trang Bang",
+          "nameVi": "Bò tơ Trảng Bàng",
+          "address": "Phường Trảng Bàng, phường An Tịnh, Quốc lộ 22",
+          "dishSlug": "tay-ninh--bo-to",
+          "note": "Young Trảng Bàng beef, naturally sweet and soft with a crisp skin, sliced thin, steamed or boiled, and rolled in bánh tráng phơi sương with herbs and forest leaves. It is the lunch plate of the Trảng Bàng stop.",
+          "photo": "tay-ninh--bo-to"
+        },
+        {
+          "name": "Bo nuong moi",
+          "nameVi": "Bò nướng mọi",
+          "address": "Phường Trảng Bàng, phường An Tịnh, Quốc lộ 22",
+          "dishSlug": "tay-ninh--bo-nuong-moi",
+          "note": "Trảng Bàng young beef grilled in the mọi style, one of the plates from the young-beef rooms on Quốc lộ 22. The beef is naturally sweet and soft."
+        },
+        {
+          "name": "Bo nuong sa",
+          "nameVi": "Bò nướng sả",
+          "address": "Phường Trảng Bàng, phường An Tịnh, Quốc lộ 22",
+          "dishSlug": "tay-ninh--bo-nuong-sa",
+          "note": "Trảng Bàng young beef grilled with lemongrass, one of the plates from the young-beef rooms on Quốc lộ 22. The beef is naturally sweet and soft.",
+          "photo": "tay-ninh--bo-nuong-sa"
+        },
+        {
+          "name": "Bo hap gung",
+          "nameVi": "Bò hấp gừng",
+          "address": "Phường Trảng Bàng, phường An Tịnh, Quốc lộ 22",
+          "dishSlug": "tay-ninh--bo-hap-gung",
+          "note": "Trảng Bàng young beef steamed with ginger, one of the plates from the young-beef rooms on Quốc lộ 22. The beef is naturally sweet and soft."
+        },
+        {
+          "name": "Bo nhung giam",
+          "nameVi": "Bò nhúng giấm",
+          "address": "Phường Trảng Bàng, phường An Tịnh, Quốc lộ 22",
+          "dishSlug": "tay-ninh--bo-nhung-giam",
+          "note": "Trảng Bàng young beef dipped in vinegar, one of the plates from the young-beef rooms on Quốc lộ 22. The beef is naturally sweet and soft."
+        },
+        {
+          "name": "Bo nhung mam ruoc",
+          "nameVi": "Bò nhúng mắm ruốc",
+          "address": "Phường Trảng Bàng, phường An Tịnh, Quốc lộ 22",
+          "dishSlug": "tay-ninh--bo-nhung-mam-ruoc",
+          "note": "Trảng Bàng young beef dipped in mắm ruốc, shrimp paste, one of the plates from the young-beef rooms on Quốc lộ 22. The beef is naturally sweet and soft."
+        },
+        {
+          "name": "Lau duoi bo",
+          "nameVi": "Lẩu đuôi bò",
+          "address": "Phường Trảng Bàng, phường An Tịnh, Quốc lộ 22",
+          "dishSlug": "tay-ninh--lau-duoi-bo",
+          "note": "An oxtail hotpot from the young-beef rooms of Trảng Bàng, made from the same young animals as the rice-paper roll."
+        },
+        {
+          "name": "Chao bo",
+          "nameVi": "Cháo bò",
+          "address": "Phường Trảng Bàng, phường An Tịnh, Quốc lộ 22",
+          "dishSlug": "tay-ninh--chao-bo",
+          "note": "A beef rice porridge from the young-beef rooms of Trảng Bàng, made from the same young animals as the rice-paper roll."
+        },
+        {
+          "name": "Mang cau Ba Den",
+          "nameVi": "Mãng cầu Bà Đen",
+          "address": "Núi Bà Đen and the land nearby",
+          "dishSlug": "tay-ninh--mang-cau-ba-den",
+          "note": "Custard apple from the slopes of Núi Bà Đen: a large, fragrant fruit with thick eyes, deep grooves, and chewy flesh. The mountain board calls it deeply sweet, and the tourism information center calls it lightly sweet."
+        }
+      ]
+    },
+    {
+      "id": "border",
+      "heading": "Border plates",
+      "nav": "Border",
+      "paragraphs": [
+        "Khmer and Cham Islam cooking along the border, plus snakehead grilled in the field."
+      ],
+      "spots": [
+        {
+          "name": "Bun Xiem Lo",
+          "nameVi": "Bún Xiêm Lo",
+          "dishSlug": "tay-ninh--bun-xiem-lo",
+          "note": "A Khmer border bowl of thin rice noodles in a snakehead broth with fresh turmeric and lemongrass, the fish served as cake or in pieces. The broth is naturally sweet from the fish, with the salty heat of muối ớt."
+        },
+        {
+          "name": "Mam chua",
+          "nameVi": "Mắm chua",
+          "address": "Chợ Long Hoa, and đường 30 Tháng 4 in phường Tân Ninh",
+          "dishSlug": "tay-ninh--mam-chua",
+          "note": "A ferment of tép and cá cơm from Hồ Dầu Tiếng, or tiny cá rễ tre, left about 15 days until it turns salty and sour with a sweet smell. It carries less salt than most mắm, so the sourness comes through."
+        },
+        {
+          "name": "Tung Lo Mo",
+          "nameVi": "Tung Lò Mò",
+          "dishSlug": "tay-ninh--tung-lo-mo",
+          "note": "A Cham Islam beef sausage, seasoned in the traditional way and fermented until it turns deep and lightly sour. It belongs to the community’s Halal cooking."
+        },
+        {
+          "name": "Ca ri bo",
+          "nameVi": "Cà ri bò",
+          "dishSlug": "tay-ninh--ca-ri-bo",
+          "note": "Beef curry from the Cham Islam community of Tây Ninh, cooked under Halal rules for choosing, preparing, and cooking food."
+        },
+        {
+          "name": "Banh thuan",
+          "nameVi": "Bánh thuẫn",
+          "dishSlug": "tay-ninh--banh-thuan",
+          "note": "A small cake of the Cham Islam community, made for festivals and community gatherings, where it is a familiar taste.",
+          "photo": "tay-ninh--banh-thuan"
+        },
+        {
+          "name": "Ca loc nuong trui",
+          "nameVi": "Cá lóc nướng trui",
+          "dishSlug": "tay-ninh--ca-loc-nuong-trui",
+          "note": "Snakehead grilled in the field style and rolled with whatever forest leaves are in season. It shares the table with bò tơ, bánh tráng phơi sương, and muối tôm, and it is a plate of the old Long An half too.",
+          "photo": "tay-ninh--ca-loc-nuong-trui"
+        }
+      ]
+    },
+    {
+      "id": "hoa",
+      "heading": "Hoa dishes",
+      "nav": "Hoa",
+      "paragraphs": [
+        "Teochew and Cantonese cooking is part of everyday food in Tây Ninh: a clear, lightly sweet broth, dim sum, and two sweets."
+      ],
+      "spots": [
+        {
+          "name": "Hu tieu",
+          "nameVi": "Hủ tiếu",
+          "dishSlug": "tay-ninh--hu-tieu",
+          "note": "A Hoa noodle bowl in a clear, lightly sweet broth, from the Teochew and Cantonese cooking that Tây Ninh’s Hoa families keep.",
+          "photo": "tay-ninh--hu-tieu"
+        },
+        {
+          "name": "Mi hoanh thanh",
+          "nameVi": "Mì hoành thánh",
+          "dishSlug": "tay-ninh--mi-hoanh-thanh",
+          "note": "Wonton noodles in the same clear, lightly sweet broth as hủ tiếu, from Tây Ninh’s Hoa kitchens.",
+          "photo": "tay-ninh--mi-hoanh-thanh"
+        },
+        {
+          "name": "Ha cao",
+          "nameVi": "Há cảo",
+          "dishSlug": "tay-ninh--ha-cao",
+          "note": "A dim-sum dumpling from Tây Ninh’s Hoa kitchens, eaten with xíu mại and bánh bao as everyday food.",
+          "photo": "tay-ninh--ha-cao"
+        },
+        {
+          "name": "Xiu mai",
+          "nameVi": "Xíu mại",
+          "dishSlug": "tay-ninh--xiu-mai",
+          "note": "A dim-sum dumpling from Tây Ninh’s Hoa kitchens, eaten beside há cảo and bánh bao.",
+          "photo": "tay-ninh--xiu-mai"
+        },
+        {
+          "name": "Banh bao",
+          "nameVi": "Bánh bao",
+          "dishSlug": "tay-ninh--banh-bao",
+          "note": "A steamed bun from the everyday dim sum of Tây Ninh’s Hoa families, eaten with há cảo and xíu mại.",
+          "photo": "tay-ninh--banh-bao"
+        },
+        {
+          "name": "Banh bao kim sa",
+          "nameVi": "Bánh bao kim sa",
+          "dishSlug": "tay-ninh--banh-bao-kim-sa",
+          "note": "A steamed bun from the Hoa dim-sum table in Tây Ninh, served with há cảo and chân gà hấp tàu xì.",
+          "photo": "tay-ninh--banh-bao-kim-sa"
+        },
+        {
+          "name": "Chan ga hap tau xi",
+          "nameVi": "Chân gà hấp tàu xì",
+          "dishSlug": "tay-ninh--chan-ga-hap-tau-xi",
+          "note": "Chicken feet steamed with tàu xì, fermented black beans, from the Hoa dim-sum table in Tây Ninh.",
+          "photo": "tay-ninh--chan-ga-hap-tau-xi"
+        },
+        {
+          "name": "Che me den",
+          "nameVi": "Chè mè đen",
+          "dishSlug": "tay-ninh--che-me-den",
+          "note": "A black-sesame chè, one of the two sweets of Hoa family and community life in Tây Ninh, with sâm bổ lượng.",
+          "photo": "tay-ninh--che-me-den"
+        },
+        {
+          "name": "Sam bo luong",
+          "nameVi": "Sâm bổ lượng",
+          "dishSlug": "tay-ninh--sam-bo-luong",
+          "note": "A sweet soup of Hoa family and community life in Tây Ninh, the other sweet beside chè mè đen.",
+          "photo": "tay-ninh--sam-bo-luong"
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "role": "regional",
+      "heading": "The old Long An half",
+      "nav": "Long An",
+      "paragraphs": [
+        "Resolution 202/2025/QH15 joined old Long An into Tây Ninh. These plates belong to that half, a different day from the Holy See; cá lóc nướng trui is eaten on both sides."
+      ],
+      "spots": [
+        {
+          "name": "Kho ca loc",
+          "nameVi": "Khô cá lóc",
+          "address": "Kênh 79 and the border markets",
+          "dishSlug": "tay-ninh--kho-ca-loc",
+          "note": "Dried snakehead from the Đồng Tháp Mười side of the province, sunned 3 to 4 days until the flesh is yellow-brown, firm, and still springy. The sweetness is the field fish, under a cure of salt, sugar, MSG, pepper, and chili."
+        },
+        {
+          "name": "Goi xoai kho ca loc",
+          "nameVi": "Gỏi xoài khô cá lóc",
+          "dishSlug": "tay-ninh--goi-xoai-kho-ca-loc",
+          "note": "Sour green mango tossed with lightly salty, chewy dried snakehead and a garlic-chili fish sauce."
+        },
+        {
+          "name": "Kho ca loc chien mam me",
+          "nameVi": "Khô cá lóc chiên mắm me",
+          "dishSlug": "tay-ninh--kho-ca-loc-chien-mam-me",
+          "note": "Dried snakehead fried and finished with mắm me, a tamarind fish sauce that is sour and hot. Eat it with rice."
+        },
+        {
+          "name": "Goi la sau dau",
+          "nameVi": "Khô cá lóc trộn gỏi lá sầu đâu",
+          "dishSlug": "tay-ninh--goi-la-sau-dau",
+          "note": "Dried snakehead tossed with sầu đâu leaves, the salt of the fish against the astringent leaf, with a bowl of mắm me on the side."
+        },
+        {
+          "name": "Canh chua kho ca loc",
+          "nameVi": "Canh chua khô cá lóc",
+          "dishSlug": "tay-ninh--canh-chua-kho-ca-loc",
+          "note": "A sour soup of dried snakehead, soured gently with tamarind and filled out with pineapple and greens, the fish still sweet."
+        },
+        {
+          "name": "Lau mam",
+          "nameVi": "Lẩu mắm",
+          "dishSlug": "tay-ninh--lau-mam",
+          "note": "A fermented-fish hotpot from the old Long An half, its broth brown, thick, and gently sweet from mắm sặc, mắm trèn, and mắm linh. Dip fresh rice noodles and plates of greens, and pull them out while they are still crisp."
+        },
+        {
+          "name": "Gao Nang Thom Cho Dao",
+          "nameVi": "Gạo Nàng Thơm Chợ Đào",
+          "address": "Mỹ Lệ, Chợ Đào",
+          "dishSlug": "tay-ninh--gao-nang-thom-cho-dao",
+          "note": "A long-grain, one-crop rice from Mỹ Lệ in Chợ Đào, pink inside the grain and fragrant as soon as the pot boils, cooked glossy and sticky. The provincial tourism center also says the variety has faded since a dike ended the yearly flood, and the commune is restoring it."
+        },
+        {
+          "name": "Ruou de Go Den",
+          "nameVi": "Rượu đế Gò Đen",
+          "address": "Số 05, ấp 3B, xã Mỹ Yên",
+          "dishSlug": "tay-ninh--ruou-de-go-den",
+          "note": "A rice spirit from Gò Đen in the old Long An half, one of the province’s named specialties."
+        },
+        {
+          "name": "Thanh long Duc Hoa",
+          "nameVi": "Thanh long Đức Hòa",
+          "address": "Đức Hòa",
+          "dishSlug": "tay-ninh--thanh-long-duc-hoa",
+          "note": "Dragon fruit from Đức Hòa, in the old Long An half, one of the province’s named farm goods."
+        },
+        {
+          "name": "Lap xuong tuoi",
+          "nameVi": "Lạp xưởng tươi",
+          "dishSlug": "tay-ninh--lap-xuong-tuoi",
+          "note": "A fresh sausage from the old Long An half, named with rượu đế Gò Đen and mắm còng Cần Giuộc among its specialties. It is not Tung Lò Mò, the fermented Cham beef sausage.",
+          "photo": "tay-ninh--lap-xuong-tuoi"
+        },
+        {
+          "name": "Mam cong Can Giuoc",
+          "nameVi": "Mắm còng Cần Giuộc",
+          "address": "Cần Giuộc",
+          "dishSlug": "tay-ninh--mam-cong-can-giuoc",
+          "note": "Mắm còng, a crab paste from Cần Giuộc in the old Long An half, named among the area’s specialties."
+        }
+      ]
+    },
+    {
+      "id": "casual",
+      "role": "casual",
+      "heading": "Casual dining",
+      "nav": "Streets",
+      "paragraphs": [
+        "The meal sits in Trảng Bàng, on the road in, rather than in phường Tân Ninh."
+      ],
+      "spots": [
+        {
+          "name": "Khu pho Gia Huynh",
+          "nameVi": "Khu phố Gia Huỳnh",
+          "address": "Phường Trảng Bàng",
+          "note": "Where you sit down for the rice-paper roll and bánh canh. Chợ Trảng Bàng and the eating strip on Quốc lộ 22B are close by."
+        },
+        {
+          "name": "Khu pho Loc Du",
+          "nameVi": "Khu phố Lộc Du",
+          "address": "Phường Trảng Bàng",
+          "note": "The yards where sheets are poured, dried, and toasted. Come in the morning for the dew racks."
+        },
+        {
+          "name": "Cho Trang Bang",
+          "nameVi": "Chợ Trảng Bàng",
+          "address": "Quốc lộ 22B, Trảng Bàng",
+          "note": "The market and the highway eating strip beside the craft village, on Quốc lộ 22B."
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "role": "breakfast",
+      "heading": "Breakfast",
+      "nav": "Breakfast",
+      "paragraphs": [
+        "Bún Xiêm Lo is a breakfast or lunch bowl, and bánh canh suits a morning stop in Trảng Bàng. Bò tơ is lunch."
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Tay Ninh food guide — Trang Bang rice paper",
+  "seoDescription": "Bánh tráng phơi sương at Trảng Bàng, bánh canh, bò tơ, and muối tôm, plus bún Xiêm Lo on the border and lẩu mắm in the old Long An half."
+}

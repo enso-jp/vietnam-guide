@@ -2,51 +2,246 @@
   "slug": "cu-chi",
   "name": "Cu Chi food",
   "placeSlug": "cu-chi",
-  "summary": "Cu Chi is not a dining city. The sourced list is rice paper at Phú Hòa Đông, tapioca at the Hoàng Cầm kitchen, veal as a product name, one breakfast soup with no street, and durian sugarcane juice along National Highway 22.",
+  "summary": "Eat on a tunnel day. Rice paper from Phú Hòa Đông, cassava, Cu Chi veal, pork-knuckle noodle soup, and durian sugarcane juice on National Highway 22 are the plates with a published account. A long meal is in Ho Chi Minh City.",
   "body": [
-    "Eat this as a tunnel day, not as a night of restaurants. Ho Chi Minh City is where you sit down for a long meal. Here the named foods are a craft village, a kitchen on the relic, and a few products with no stall attached.",
-    "No stall price was printed. Check on arrival. Where two kiln counts disagree, both stay."
+    "Boiled cassava at the Hoàng Cầm kitchen comes with sesame salt and hot tea. Tuổi Trẻ, on 5 May 2024, dips the same root in salt. Both stay. The Ho Chi Minh City Tourism Promotion Center also places Cu Chi veal, pork-knuckle noodle soup, durian sugarcane juice along National Highway 22, and rambutan, mangosteen, durian, and jackfruit at Trung An.",
+    "Phú Hòa Đông rice paper is dried in the sun. One mix is rice flour with coconut water, salt, sugar, and sesame depending on the batch. An older mix is rice flour, water, and salt. The craft is more than 50 years in Báo Quốc tế and more than 80 years in Tạp chí Công Thương. The gazette decision gives no start year.",
+    "Veal in rice paper is boiled on two accounts and grilled just done on the third. Steamed cassava is pandan or coconut cream on one account, and both together on another."
   ],
-  "specialtiesLead": "Rice paper at Phú Hòa Đông, tapioca with hot tea at the Hoàng Cầm kitchen, veal with no stall named, and durian sugarcane juice on Highway 22.",
-  "dishSlugs": [],
+  "specialtiesLead": "Rice paper, cassava, Cu Chi veal, pork-knuckle noodle soup, and durian sugarcane juice, then the other plates with a published account.",
+  "dishSlugs": [
+    "cu-chi--banh-trang",
+    "cu-chi--khoai-mi-luoc",
+    "cu-chi--khoai-mi-hap",
+    "cu-chi--khoai-mi-cuon",
+    "cu-chi--banh-tam",
+    "cu-chi--bo-to",
+    "cu-chi--bo-to-cuon",
+    "cu-chi--com-chay-bo-kho",
+    "cu-chi--bo-to-nuong",
+    "cu-chi--bun-gio-heo",
+    "cu-chi--nuoc-mia-sau-rieng",
+    "cu-chi--goi-mang",
+    "cu-chi--goi-mit-non",
+    "cu-chi--ech-xao-la-lot",
+    "cu-chi--ca-hai-tuong",
+    "cu-chi--ga-nuong-lu",
+    "cu-chi--chao-dung-bo",
+    "cu-chi--tom-cang-xanh",
+    "cu-chi--bun-bo",
+    "cu-chi--rau-mop",
+    "cu-chi--chao-luon-mon",
+    "cu-chi--bo-la-lot",
+    "cu-chi--trung-an-fruit",
+    "cu-chi--ca-tren-chien",
+    "cu-chi--rau-muop-xao",
+    "cu-chi--chim-se-nuong",
+    "cu-chi--chim-la",
+    "cu-chi--banh-lot-xao",
+    "cu-chi--banh-canh-ga",
+    "cu-chi--banh-khot-campuchia",
+    "cu-chi--hu-tieu",
+    "cu-chi--banh-bao",
+    "cu-chi--banh-bo",
+    "cu-chi--lau-bo-rau-rung",
+    "cu-chi--bo-nhung-dam",
+    "cu-chi--bo-nhung-hem",
+    "cu-chi--chao-bo",
+    "cu-chi--cha-dum-bo",
+    "cu-chi--lau-duoi-bo",
+    "cu-chi--long-bo-hap-gung",
+    "cu-chi--bo-xao-nghe"
+  ],
   "sections": [
     {
-      "id": "specialties",
-      "heading": "Cu Chi specialties",
-      "nav": "Specialties",
+      "id": "more",
+      "heading": "More plates",
+      "nav": "More",
       "paragraphs": [
-        "Rice paper is the craft a tunnel outing can add. The other names are a wartime snack at the underground kitchen, local veal with no stall, and a drink along National Highway 22. A sweet was not named."
+        "These are the other plates recorded for Củ Chi."
       ],
       "spots": [
         {
-          "name": "Phú Hòa Đông rice paper",
-          "nameVi": "bánh tráng Phú Hòa Đông",
-          "address": "xã Phú Hòa Đông",
-          "note": "The craft is nghề sản xuất bánh tráng, recognized at the old xã Phú Hòa Đông by Quyết định 4568/QĐ-UBND, gazette date 14 Oct 2024. The decision does not describe a taste. Cục Du lịch Quốc gia Việt Nam quotes a maker: the main ingredient is rice flour, a little sticky-rice flour in the past, wheat flour at some kilns now, plus coconut water, salt, sugar, and sesame depending on the batch. Tạp chí Công Thương describes the older mix as rice flour, water, and salt, poured thin, lifted with a bamboo tube, and dried in the sun. Both mixes stay. A serving was not printed. Check on arrival. The magazine says a stack is counted to 100, and that the craft is more than 80 years old. The decision does not print a start year. Production on that magazine visit starts at 2:00. Before Tết, a quoted household goes from about 18–20 kg of rice toward about 25 kg. Those are production figures, not a restaurant hour. Distance: more than about 40 km (Cục Du lịch Quốc gia Việt Nam) and about 40 km (Tạp chí Công Thương). Kilns: about 100 kilns, about 40 tons a day, about two-thirds export, about 6,000 workers (Cục Du lịch Quốc gia Việt Nam). HTV prints 62 establishments, of which 10 enterprises, 1 cooperative, and 41 business households, plus 20 households still working by hand, and one firm at 15–20 tons a day. Do not average the counts."
-        },
-        {
-          "name": "Phú Hòa Đông rice-paper lanes",
-          "nameVi": "làng nghề bánh tráng Phú Hòa Đông",
-          "address": "xã Phú Hòa Đông, on the river",
-          "note": "A workshop lane, not a row of restaurants. Walk it on a tunnel outing, where sheets dry on racks. A visitor hour was not printed. Check on arrival. Clause 128 keeps the name xã Phú Hòa Đông and adds the old xã Tân Thạnh Tây and xã Tân Thạnh Đông."
-        },
-        {
-          "name": "Boiled tapioca with sesame salt",
-          "nameVi": "khoai mì luộc muối mè",
-          "address": "Hoàng Cầm kitchen on the relic. Which gate was not printed.",
-          "note": "The Ho Chi Minh City Tourism Promotion Center calls it a wartime dish served with hot tea at the underground Hoàng Cầm kitchen, and says it is complimentary. The operator’s 2021 notice names specialties at Chợ Quê and does not name tapioca. Do not turn complimentary into a menu. A clock for the kitchen was not printed."
-        },
-        {
-          "name": "Cu Chi veal",
-          "nameVi": "bò tơ Củ Chi",
+          "name": "Cassava rolled in rice paper",
+          "nameVi": "khoai mì quết cuốn bánh tráng",
           "address": "Check on arrival",
-          "note": "The tourism center calls it local veal and says it is prepared into various dishes, without naming one. No cut, no cooking method, and no stall were printed. When to order it is Check on arrival."
+          "dishSlug": "cu-chi--khoai-mi-cuon",
+          "note": "Cassava boiled in coconut water, mashed with sugar, salt, and scallion oil, then rolled in rice paper with herbs and pork or shrimp. The dip is garlic fish sauce, with chili in one wording."
+        },
+        {
+          "name": "Cassava bánh tằm",
+          "nameVi": "bánh tằm",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--banh-tam",
+          "note": "Bánh tằm made from Củ Chi cassava flour."
+        },
+        {
+          "name": "Veal rolled in rice paper",
+          "nameVi": "bò tơ cuốn bánh tráng",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--bo-to-cuon",
+          "note": "Thin veal rolled in rice paper with forest greens, boiled until soft and fragrant, or soft and sweet with crisp skin. One account grills the meat just done and rolls it the same way."
+        },
+        {
+          "name": "Crispy rice with kho veal",
+          "nameVi": "cơm cháy bò tơ kho",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--com-chay-bo-kho",
+          "note": "Kho veal eaten with crispy rice. One wording is cơm cháy bò tơ kho, and another is lemongrass kho veal with the same crisp rice."
         },
         {
           "name": "Durian sugarcane juice",
           "nameVi": "nước mía sầu riêng",
-          "address": "National Highway 22. No marker was printed.",
-          "note": "A drink the tourism center places along Highway 22. No stall name and no recipe. When to order it is Check on arrival."
+          "address": "National Highway 22",
+          "dishSlug": "cu-chi--nuoc-mia-sau-rieng",
+          "note": "Sugarcane juice along National Highway 22, cool, with the aroma of durian. One account uses mung bean in place of the fruit."
+        },
+        {
+          "name": "Bamboo-shoot salad",
+          "nameVi": "gỏi măng trộn tôm thịt",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--goi-mang",
+          "note": "Bamboo shoot shaved and boiled, then mixed with belly pork, shrimp, rau răm, fried shallot, and peanuts. Sweet-sour fish sauce is tossed in, or left on the side."
+        },
+        {
+          "name": "Young jackfruit salad",
+          "nameVi": "gỏi mít non",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--goi-mit-non",
+          "note": "Boiled young jackfruit mixed with pork and shrimp, sweet-sour fish sauce, herbs, and sesame. One account also adds chicken."
+        },
+        {
+          "name": "Frog with lá lốt",
+          "nameVi": "ếch xào lá lốt",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--ech-xao-la-lot",
+          "note": "Frog stir-fried with the skin on, finished with young lá lốt."
+        },
+        {
+          "name": "Grilled arowana",
+          "nameVi": "cá hải tượng nướng muối ớt",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--ca-hai-tuong",
+          "note": "Arowana grilled with salt and chili. One account seasons it with satay over charcoal and serves green-chili salt and herbs."
+        },
+        {
+          "name": "Chicken grilled in a clay pot",
+          "nameVi": "gà nướng lu than hồng",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--ga-nuong-lu",
+          "note": "Chicken grilled in a clay pot over embers, with crisp golden skin and meat that stays soft. It comes with crispy rice, scallion fat, and lemongrass salt."
+        },
+        {
+          "name": "Beef hoof and tendon porridge",
+          "nameVi": "cháo dựng bò",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--chao-dung-bo",
+          "note": "Porridge of beef hoof and tendon with mung beans, peanuts, white beans, and cassava, finished with rau má and leafy greens."
+        },
+        {
+          "name": "Giant freshwater prawn",
+          "nameVi": "tôm càng xanh",
+          "address": "Kênh Đông and the Sài Gòn river",
+          "dishSlug": "cu-chi--tom-cang-xanh",
+          "note": "Giant freshwater prawn from kênh Đông and the Sài Gòn river, with meat that is fresh, sweet, and firm. It is grilled, steamed, or cooked in a hotpot."
+        },
+        {
+          "name": "Pickled rau móp",
+          "nameVi": "rau móp muối chua",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--rau-mop",
+          "note": "Pickled rau móp, sour, crisp, and cool, made from the young leaves and tips."
+        },
+        {
+          "name": "Eel and taro porridge",
+          "nameVi": "cháo lươn môn",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--chao-luon-mon",
+          "note": "Eel and taro porridge with lemongrass and mắm ruốc. The eel is sweet and the taro is soft."
+        },
+        {
+          "name": "Crisp-fried cá trèn",
+          "nameVi": "cá trèn chiên giòn",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--ca-tren-chien",
+          "note": "Cá trèn fried until the skin is crisp."
+        },
+        {
+          "name": "Loofah stir-fried with lá quế",
+          "nameVi": "rau mướp xào lá quế",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--rau-muop-xao",
+          "note": "Loofah stir-fried with lá quế."
+        },
+        {
+          "name": "Grilled sparrow",
+          "nameVi": "chim sẻ nướng",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--chim-se-nuong",
+          "note": "Sparrow grilled over a fire."
+        },
+        {
+          "name": "Chim lá",
+          "nameVi": "chim lá",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--chim-la",
+          "note": "Chim lá, one of the countryside dishes."
+        },
+        {
+          "name": "Stir-fried bánh lọt",
+          "nameVi": "bánh lọt xào",
+          "address": "chợ Củ Chi and chợ Việt Kiều",
+          "dishSlug": "cu-chi--banh-lot-xao",
+          "note": "Stir-fried bánh lọt from chợ Củ Chi and chợ Việt Kiều."
+        },
+        {
+          "name": "Veal dipped in vinegar",
+          "nameVi": "bò tơ nhúng dấm",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--bo-nhung-dam",
+          "note": "Veal cooked by dipping it in vinegar."
+        },
+        {
+          "name": "Veal dipped in hèm",
+          "nameVi": "bò nhúng hèm",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--bo-nhung-hem",
+          "note": "Veal dipped in hèm."
+        },
+        {
+          "name": "Beef porridge",
+          "nameVi": "cháo bò",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--chao-bo",
+          "note": "Beef porridge, a separate bowl from the hoof-and-tendon porridge."
+        },
+        {
+          "name": "Chả đùm veal",
+          "nameVi": "chả đùm bò",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--cha-dum-bo",
+          "note": "Chả đùm made with veal."
+        },
+        {
+          "name": "Oxtail hotpot",
+          "nameVi": "lẩu đuôi bò",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--lau-duoi-bo",
+          "note": "Oxtail hotpot."
+        },
+        {
+          "name": "Beef offal steamed with ginger",
+          "nameVi": "lòng bò hấp gừng",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--long-bo-hap-gung",
+          "note": "Beef offal steamed with ginger."
+        },
+        {
+          "name": "Turmeric stir-fried veal",
+          "nameVi": "bò xào nghệ",
+          "address": "Check on arrival",
+          "dishSlug": "cu-chi--bo-xao-nghe",
+          "note": "Veal stir-fried with turmeric."
         }
       ]
     },
@@ -56,14 +251,32 @@
       "nav": "Casual",
       "role": "casual",
       "paragraphs": [
-        "Chợ Quê is the market the operator names inside the gate. It is not a map of stalls, and it is not a dining street in the town."
+        "Two workshop lanes and two town markets."
       ],
       "spots": [
         {
+          "name": "Phú Hòa Đông rice-paper lanes",
+          "nameVi": "làng nghề bánh tráng Phú Hòa Đông",
+          "address": "xã Phú Hòa Đông, on the river",
+          "note": "Workshop lanes in xã Phú Hòa Đông, where rice-paper sheets dry on racks. Walk them on a tunnel outing."
+        },
+        {
           "name": "Chợ Quê",
           "nameVi": "Chợ Quê",
-          "address": "On the relic. The notice does not say Bến Dược or Bến Đình.",
-          "note": "The operator’s 2021 reopening says visitors eat specialties at Chợ Quê. No dish list and no stall map. The gate that day is 7:00–17:00. A market-only hour was not printed."
+          "address": "On the relic",
+          "note": "The market inside the tunnel gate, where visitors eat on the 2021 reopening. The gate that day runs 7:00–17:00."
+        },
+        {
+          "name": "Chợ Củ Chi",
+          "nameVi": "chợ Củ Chi",
+          "address": "Check on arrival",
+          "note": "A town market for steamed cassava, stir-fried bánh lọt, bánh bao, hủ tiếu, chicken bánh canh, and Cambodian-style bánh khọt."
+        },
+        {
+          "name": "Chợ Việt Kiều",
+          "nameVi": "chợ Việt Kiều",
+          "address": "Check on arrival",
+          "note": "The other market for those same plates, paired with chợ Củ Chi."
         }
       ]
     },
@@ -73,19 +286,21 @@
       "nav": "Breakfast",
       "role": "breakfast",
       "paragraphs": [
-        "One breakfast is named. The street is not."
+        "Pork-knuckle noodle soup is the local breakfast."
       ],
       "spots": [
         {
           "name": "Pork knuckle noodle soup",
           "nameVi": "bún giò heo",
           "address": "Check on arrival",
-          "note": "The tourism center calls bún giò heo a long-standing local breakfast and prints no hour and no street. How to eat it was not printed."
+          "dishSlug": "cu-chi--bun-gio-heo",
+          "note": "Pork-knuckle noodle soup, the long-standing local breakfast."
         }
       ]
     }
   ],
-  "verified": "22 Oct 2026",
-  "seoTitle": "Cu Chi food — rice paper, tapioca, and a short list",
-  "seoDescription": "Rice paper at Phú Hòa Đông, tapioca at the Hoàng Cầm kitchen, veal with no stall, one breakfast soup, and durian sugarcane juice on Highway 22."
+  "verified": "23 Oct 2026",
+  "seoTitle": "Cu Chi food — rice paper, cassava, and veal",
+  "seoDescription": "Rice paper from Phú Hòa Đông, cassava, Cu Chi veal, pork-knuckle noodle soup, and durian sugarcane juice on National Highway 22.",
+  "heroSlug": "cu-chi--banh-trang"
 }

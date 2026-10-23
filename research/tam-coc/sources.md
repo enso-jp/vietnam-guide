@@ -180,6 +180,42 @@ Checked: 23 Oct 2026
 - URL: https://dulichninhbinh.com.vn/item/3669
 - Publisher: Trung tâm Xúc tiến du lịch Ninh Bình
 - Accessed: 23 Oct 2026
-- Supports: Updated 3 Aug 2026. Family day at Tam Coc, phường Nam Hoa Lư. Lunch named as Ninh Bình specialties: dê núi, cơm cháy, cá rô Tổng Trường, or countryside dishes. Cá rô Tổng Trường stays a neighbor dish. Small cafes are mentioned with no name, no street, and no drink. Khoảng 15–20 minutes from Tam Coc to Phố cổ Hoa Lư.
+- Supports: Updated 3 Aug 2026. Family day at Tam Coc, phường Nam Hoa Lư. Midday names Ninh Bình specialties: dê núi, cơm cháy, cá rô Tổng Trường, or countryside dishes with no further names. Cá rô Tổng Trường is counted, and the Hoa Lư and city placements stay. Small cafes are mentioned with no name, no street, and no drink. Khoảng 15–20 minutes from Tam Coc to Phố cổ Hoa Lư. Reopened 23 Oct 2026.
 
-Pages that were not used, because they did not open: the provincial environment note at sonnmt.ninhbinh.gov.vn (security check), the Nam Hoa Lư ward introduction (security check), the visitor-support page at hotrodukhachninhbinh.vn (HTTP 500), the national-tourism Bích Động page (timeout), the SinhTour eating page (security check), and a commercial “ẩm thực Tam Cốc” article that returned HTTP 500. Their numbers are not in the dossier. The 15 Feb 2023 provincial list at ttdn.ninhbinh.gov.vn (đặc sản Ninh Bình những món ngon) was opened and does not place its plates at Tam Coc. It was not used to fill the gap.
+### S31
+- URL: https://sodulich.ninhbinh.gov.vn/vi/am-thuc-ninh-binh/dac-san-oc-nui-58.html
+- Publisher: Sở Du lịch Ninh Bình
+- Accessed: 23 Oct 2026
+- Supports: Page dated 24 Aug 2021. Ốc núi concentrated in Tam Điệp, Yên Mô, and Nho Quan. Preparations named: nướng, xào me, xào tỏi, xào sa tế, hấp gừng, luộc sả, xào sả ớt, luộc trộn gỏi with onion. Markets in Tam Điệp and Yên Mô. Any Ninh Bình restaurant. No Tam Coc sentence. The extra names are not Tam Coc plates.
+
+### S32
+- URL: https://dulichninhbinh.com.vn/item/1861
+- Publisher: Trung tâm Xúc tiến du lịch Ninh Bình
+- Accessed: 23 Oct 2026
+- Supports: Updated 13 Dec 2022. Ốc núi in limestone of Tam Điệp, Yên Mô, Nho Quan, and Hoa Lư. Season April to August. Names ốc luộc with gừng, sả, lá chanh, and optionally bỗng rượu, plus ốc xào dừa, hấp gừng xả, and xào sa tế. No Tam Coc restaurant. Not used to add a plate. Hấp gừng stays the plate already counted from S17.
+
+### S33
+- URL: https://dulichninhbinh.com.vn/item/3622
+- Publisher: Trung tâm Xúc tiến du lịch Ninh Bình
+- Accessed: 23 Oct 2026
+- Supports: Updated 5 Jun 2026. Provincial goat. Names dê hấp, dê áp chảo, dê xào sả ớt, dê hầm thuốc bắc, nem dê, and dê nướng, beside dê tái chanh. Tam Coc is named only with Tràng An and Hoa Lư as scenery. Dê nướng is already counted. The other names are not added. VietKings Top 50 in 2012 for dê núi and cơm cháy is on this page and is not a Tam Coc menu.
+
+### S34
+- URL: https://dulichninhbinh.com.vn/item/3512
+- Publisher: Trung tâm Xúc tiến du lịch Ninh Bình
+- Accessed: 23 Oct 2026
+- Supports: Updated 12 Feb 2026. Ninh Bình Tet table. Names dê núi, cơm cháy, gà đồi, cá rô Tổng Trường, cá kho làng Nhân Hậu, dê hấp, dê tái chanh, dê nướng tảng, and dê om riềng mẻ. Cá rô is kho tộ or rán giòn with hot rice. Tam Coc is scenery in the opening. Those plates are not added, except the fish name already counted from S30. Herbs on this page: lá sung, lá mơ, chuối xanh, khế, tương gừng. Not merged into the Tam Coc goat kitchen.
+
+### S35
+- URL: https://sodulich.ninhbinh.gov.vn/vi/am-thuc-ninh-binh/ca-ro-tong-truong-52.html
+- Publisher: Sở Du lịch Ninh Bình
+- Accessed: 23 Oct 2026
+- Supports: Page dated 23 Aug 2021. Tổng Trường is the old name of xã Trường Yên, huyện Hoa Lư. Methods: rang, rán, kho, and canh chua. Canh chua uses fried perch, pickled mustard greens, diluted nước dưa, tomato, and fried tofu. No Tam Coc sentence. The methods stay with this page.
+
+### S36
+- URL: https://www.vietnam.vn/ngam-sac-vang-tam-coc-trang-an-va-thuong-thuc-am-thuc-dac-sac
+- Publisher: Báo Quốc Tế, on vietnam.vn
+- Accessed: 23 Oct 2026
+- Supports: Dated 3 Jun 2024. The news peg is the Tam Coc–Tràng An festival at Tam Cốc–Bích Động. The plates are then placed elsewhere: xôi trứng kiến in Nho Quan, ốc núi in Tam Điệp caves, gỏi cá nhệch in Kim Sơn, and dê quay, cháo dê, lòng đắng, and cơm cháy sốt dê with Ninh Bình restaurants. Not used to add a Tam Coc plate.
+
+Pages that were not used, because they did not open: the provincial environment note at sonnmt.ninhbinh.gov.vn (security check), the Nam Hoa Lư ward introduction (security check), the visitor-support page at hotrodukhachninhbinh.vn (HTTP 500), the national-tourism Bích Động page (timeout), the SinhTour eating page (security check), and a commercial “ẩm thực Tam Cốc” article that returned HTTP 500. On 23 Oct 2026, https://baoninhbinh.org.vn/ve-ninh-binh-du-le-hoi-sac-vang-tam-coc-2406010551000.html and https://baoninhbinh.org.vn/trien-khai-mo-hinh-diem-tuyen-pho-an-toan-thuc-pham-tai-khu-du-lich-tam-coc-260908120141398.html both returned a civil-defense page. Their snippets were not used. The 15 Feb 2023 provincial list at ttdn.ninhbinh.gov.vn (đặc sản Ninh Bình những món ngon) was opened and does not place its plates at Tam Coc. It was not used to fill the gap.

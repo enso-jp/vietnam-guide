@@ -1,0 +1,257 @@
+{
+  "slug": "nam-dinh",
+  "name": "Nam Dinh food guide",
+  "placeSlug": "nam-dinh",
+  "summary": "Nam Định starts the day with phở bò, a small, soft noodle in a clear beef broth, and bánh cuốn làng Kênh off a banana leaf. Afternoons are hot bánh xíu páo on the old streets, and the gifts to carry home are kẹo Sìu Châu, bánh nhãn, and bánh gai.",
+  "body": [
+    "Start around Chợ Rồng and phố Hàng Tiện. The pho noodle is small, thin, and soft, and Dân Việt credits the clear broth to traditional fish sauce. Báo Nam Định serves the bowl with crisp quẩy, where Hanoi’s quẩy is soft. Dân trí says one Hàng Tiện shop shuts at 09:00, and Dân Việt says a bowl can be found at any hour, so go early. The second breakfast is bánh cuốn làng Kênh in phường Lộc Vượng: thin, slightly elastic sheets with wood-ear, fried shallot, and a slice of chả.",
+    "Afternoon is bánh xíu páo, a small baked bun, along Lê Hồng Phong, Trần Hưng Đạo, Hàng Sắt, Bắc Ninh, and Lý Thường Kiệt. Dân Việt fills it with xá xíu, fat, wood-ear, and half a quail egg. VnExpress fills it with fried pork loin and calls it a morning snack on the old phố Khách. Bún đũa, a chopstick-thick noodle in a slightly sour crab riêu, is at chợ Ngõ Ngang, chợ Rồng, and phố Hàng Đồng.",
+    "The coast eats differently: gỏi nhệch in Nghĩa Hưng, nem nắm in Giao Thủy, which Dân Việt spells nem mắm, and nước mắm chắt at Giao Hải on the Xuân Thủy day. To carry home, buy kẹo Sìu Châu, bánh nhãn Hải Hậu, bánh gai, chuối ngự, and gạo tám Hải Hậu."
+  ],
+  "specialtiesLead": "Phở bò and bánh cuốn làng Kênh come first. The street snacks, the coast, and the gifts follow.",
+  "dishSlugs": [
+    "nam-dinh--pho-bo",
+    "nam-dinh--banh-cuon-lang-kenh",
+    "nam-dinh--bun-dua",
+    "nam-dinh--banh-xiu-pao",
+    "nam-dinh--xoi-xiu",
+    "nam-dinh--xoi-ca-ro",
+    "nam-dinh--xoi-ke",
+    "nam-dinh--bun-cha",
+    "nam-dinh--bun-sung",
+    "nam-dinh--banh-goi",
+    "nam-dinh--nem-nam",
+    "nam-dinh--goi-nhech",
+    "nam-dinh--ca-chach-kho",
+    "nam-dinh--ca-nuong-up-chau",
+    "nam-dinh--banh-nhan",
+    "nam-dinh--banh-gai",
+    "nam-dinh--banh-day",
+    "nam-dinh--keo-siu-chau",
+    "nam-dinh--chuoi-ngu",
+    "nam-dinh--gao-tam",
+    "nam-dinh--gao-tam-xuan-dai",
+    "nam-dinh--nuoc-mam-chat",
+    "nam-dinh--nuoc-mam-sa-chau"
+  ],
+  "sections": [
+    {
+      "id": "specialty-list",
+      "heading": "Every Nam Dinh specialty",
+      "nav": "All dishes",
+      "paragraphs": [
+        "Twenty-three dishes and gifts, from the breakfast bowls to the sweets sold for the trip home. Where two accounts disagree, both are given."
+      ],
+      "spots": [
+        {
+          "name": "Pho bo",
+          "nameVi": "Phở bò",
+          "address": "Phố Hàng Tiện, around Chợ Rồng",
+          "note": "A small, thin, soft rice noodle in a beef broth that Dân Việt says stays clear because it is seasoned with traditional fish sauce. Báo Nam Định calls the broth a little fatty, fragrant, and deeply sweet, and serves crisp quẩy on the side.",
+          "dishSlug": "nam-dinh--pho-bo"
+        },
+        {
+          "name": "Banh cuon lang Kenh",
+          "nameVi": "Bánh cuốn làng Kênh",
+          "address": "Phường Lộc Vượng",
+          "note": "Thin, slightly elastic rice sheets with chopped wood-ear, fried shallot, and a slice of chả, dipped in fish sauce with lime or kumquat. It is often served off a banana leaf at a small pavement set.",
+          "dishSlug": "nam-dinh--banh-cuon-lang-kenh"
+        },
+        {
+          "name": "Bun dua",
+          "nameVi": "Bún đũa",
+          "address": "Chợ Ngõ Ngang, chợ Rồng, or phố Hàng Đồng",
+          "note": "A thick white noodle, about the width of a chopstick, in a crab riêu that is a little sour, rich, and sweet, with fried shallot and shining crab roe.",
+          "dishSlug": "nam-dinh--bun-dua"
+        },
+        {
+          "name": "Banh xiu pao",
+          "nameVi": "Bánh xíu páo",
+          "address": "Lê Hồng Phong, Trần Hưng Đạo, Hàng Sắt, Bắc Ninh, Lý Thường Kiệt, and the old phố Khách",
+          "note": "A small baked bun with a thin skin that peels in layers. Dân Việt fills it with fragrant xá xíu, rich fat, wood-ear, and half a quail egg with the heat of pepper, and VnExpress fills it with pork loin fried with garlic, five spice, oyster sauce, and honey.",
+          "dishSlug": "nam-dinh--banh-xiu-pao"
+        },
+        {
+          "name": "Xoi xiu",
+          "nameVi": "Xôi xíu",
+          "address": "Phố Bắc Ninh, Hoàng Văn Thụ, and Hàng Sắt",
+          "note": "Sticky rice with xá xíu, lạp xưởng, and a savory sauce with pepper. VnExpress calls the rice chewy and fragrant, the sausage rich, and the xá xíu soft and sweet.",
+          "dishSlug": "nam-dinh--xoi-xiu"
+        },
+        {
+          "name": "Xoi ca ro",
+          "nameVi": "Xôi cá rô",
+          "photo": "nam-dinh--xoi-ca-ro",
+          "note": "Sticky rice with fried cá rô đồng, fried shallot, rau răm, and mùi tàu, eaten hot. The fish fat turns the grains glossy and deep yellow, and the fish is sweet and firm.",
+          "dishSlug": "nam-dinh--xoi-ca-ro"
+        },
+        {
+          "name": "Xoi ke",
+          "nameVi": "Xôi kê",
+          "note": "One of the dishes Nam Định put forward at its SEA Games 31 food showcase, beside phở bò, bún đũa, bánh dày, bánh cuốn, and bánh xíu páo.",
+          "dishSlug": "nam-dinh--xoi-ke"
+        },
+        {
+          "name": "Bun cha",
+          "nameVi": "Bún chả",
+          "note": "Skewers of marinated lean pork charred at the edge, with pork belly, egg, thin leaf noodles, and herbs. It is eaten with nước mắm dưa góp, carrot, and green papaya.",
+          "dishSlug": "nam-dinh--bun-cha"
+        },
+        {
+          "name": "Bun sung",
+          "nameVi": "Bún sung",
+          "address": "Chợ Diên Hồng and chợ Ngõ Ngang",
+          "note": "Crab riêu noodles with sliced sung fruit and seasoned pork crackling, also called bún tóp mỡ. Tuổi Trẻ describes a lightly sweet broth smelling of field crab, soft roe, crisp rich crackling, and a mild tannin from the sung.",
+          "dishSlug": "nam-dinh--bun-sung"
+        },
+        {
+          "name": "Banh goi",
+          "nameVi": "Bánh gối",
+          "address": "Nguyễn Văn Trỗi and Hoàng Văn Thụ",
+          "note": "A Hoa-influenced fried cake of rice paper brushed with wheat flour, filled with pork, wood-ear, quail egg, and glass noodles, and not the Hanoi bánh gối. Straight from the oil with sour-sweet fish sauce, it is fragrant and crisp without being greasy.",
+          "dishSlug": "nam-dinh--banh-goi"
+        },
+        {
+          "name": "Nem nam",
+          "nameVi": "Nem nắm Giao Thủy",
+          "address": "Giao Thủy, and Hải Hậu on the Nam Định city portal",
+          "note": "Fermented pork from Giao Thủy, thin-sliced lean meat and pork skin worked into a ball with thính from gạo tám; Dân Việt spells it nem mắm. Loosen the ball and roll it in lá sung, with đinh lăng, or dip it in fish sauce.",
+          "dishSlug": "nam-dinh--nem-nam"
+        },
+        {
+          "name": "Goi nhech",
+          "nameVi": "Gỏi nhệch",
+          "address": "Quần Vinh, Nghĩa Thắng, Nghĩa Hưng",
+          "photo": "nam-dinh--goi-nhech",
+          "note": "Eel-goby salad from Nghĩa Hưng: sliced nhệch dusted with roasted Tám-rice thính, galangal, and fresh turmeric, served with mẻ, herbs, and sour fruit. The bones are fried crisp.",
+          "dishSlug": "nam-dinh--goi-nhech"
+        },
+        {
+          "name": "Ca chach kho",
+          "nameVi": "Cá chạch kho",
+          "address": "Nghĩa Hưng, and the coast with Hải Hậu and Giao Thủy",
+          "note": "Loach braised in a clay pot, sold as cá chạch kho niêu and as cá chạch kho Nghĩa Hưng. It belongs to the coastal districts of Hải Hậu, Nghĩa Hưng, and Giao Thủy.",
+          "dishSlug": "nam-dinh--ca-chach-kho"
+        },
+        {
+          "name": "Ca nuong up chau",
+          "nameVi": "Cá nướng úp chậu",
+          "address": "A Nam Định home, and Trực Ninh on the OCOP list",
+          "note": "Fish cooked by the heat of an upturned basin rather than an open flame, a family dish for the first days of the lunar year. The skin comes out golden and crisp-chewy, and the flesh firm and sweet.",
+          "dishSlug": "nam-dinh--ca-nuong-up-chau"
+        },
+        {
+          "name": "Banh nhan",
+          "nameVi": "Bánh nhãn Hải Hậu",
+          "address": "Hải Hậu",
+          "photo": "nam-dinh--banh-nhan",
+          "note": "Small round balls of Hải Hậu glutinous rice and egg, fried and coated in white sugar until they look like longans. The shell is slightly crisp and the inside chewy, sweet, and fragrant with egg.",
+          "dishSlug": "nam-dinh--banh-nhan"
+        },
+        {
+          "name": "Banh gai",
+          "nameVi": "Bánh gai",
+          "address": "The city gift counters",
+          "photo": "nam-dinh--banh-gai",
+          "note": "A black glutinous-rice cake filled with mung bean, coconut, fat, lotus seed, and peanut. Thế giới tiếp thị calls the filling fragrant, rich, and sweet-nutty.",
+          "dishSlug": "nam-dinh--banh-gai"
+        },
+        {
+          "name": "Banh day",
+          "nameVi": "Bánh dày",
+          "photo": "nam-dinh--banh-day",
+          "note": "One of the dishes Nam Định put forward at its SEA Games 31 food showcase, beside xôi kê and bánh cuốn.",
+          "dishSlug": "nam-dinh--banh-day"
+        },
+        {
+          "name": "Keo Siu Chau",
+          "nameVi": "Kẹo Sìu Châu",
+          "address": "The city",
+          "note": "A peanut and sesame candy cooked with sugar and malt, rolled thin, and cut into bite-size pieces. Dân trí says it has more peanut and less malt than ordinary kẹo lạc, so it is crisp, fragrant, and does not stick to the teeth.",
+          "dishSlug": "nam-dinh--keo-siu-chau"
+        },
+        {
+          "name": "Chuoi ngu",
+          "nameVi": "Chuối ngự",
+          "address": "The city gift list, and Đại Hoàng in Lý Nhân",
+          "photo": "nam-dinh--chuoi-ngu",
+          "note": "A very small banana that ripens to a silky yellow, fragrant and lightly sweet. The Đại Hoàng fruit is thin-skinned and firm, not mushy, and is kept for offerings and for Tết.",
+          "dishSlug": "nam-dinh--chuoi-ngu"
+        },
+        {
+          "name": "Gao tam Hai Hau",
+          "nameVi": "Gạo tám Hải Hậu",
+          "address": "Hải Hậu",
+          "note": "Hải Hậu’s fragrant Tám xoan rice, a long, slender, slightly bent grain that cooks white, chewy, and mildly fragrant. Eat it with kho meat, or with peanuts and sesame.",
+          "dishSlug": "nam-dinh--gao-tam"
+        },
+        {
+          "name": "Gao tam Xuan Dai",
+          "nameVi": "Gạo tám Xuân Đài",
+          "note": "A second Tám rice on the province’s OCOP product list, sold under its own name beside Hải Hậu Tám xoan.",
+          "dishSlug": "nam-dinh--gao-tam-xuan-dai"
+        },
+        {
+          "name": "Nuoc mam chat",
+          "nameVi": "Nước mắm chắt",
+          "address": "Giao Hải",
+          "note": "Traditional fish sauce made from the local catch at Giao Hải, tasted on the Xuân Thủy coastal day. It is a different sauce from nước mắm Sa Châu.",
+          "dishSlug": "nam-dinh--nuoc-mam-chat"
+        },
+        {
+          "name": "Nuoc mam Sa Chau",
+          "nameVi": "Nước mắm Sa Châu",
+          "note": "A Nam Định fish sauce chosen for a Top 100 list of gift specialties, also printed as nước nắm. It is a different sauce from the nước mắm chắt of Giao Hải.",
+          "dishSlug": "nam-dinh--nuoc-mam-sa-chau"
+        }
+      ]
+    },
+    {
+      "id": "streets",
+      "heading": "Markets and streets",
+      "nav": "Streets",
+      "role": "casual",
+      "paragraphs": [
+        "The center walk is the old Hàng grid around Chợ Rồng: pho in the morning, baked buns in the afternoon."
+      ],
+      "spots": [
+        {
+          "name": "Cho Rong",
+          "nameVi": "Chợ Rồng",
+          "address": "The center, beside the old Hàng streets",
+          "note": "The central market, which Dân trí counts among the three famous northern markets with Đồng Xuân and Chợ Sắt, in a French-built hall dated to 1922. Bún đũa is sold here, and the pho morning is on Hàng Tiện beside it."
+        },
+        {
+          "name": "Hang Tien",
+          "nameVi": "Phố Hàng Tiện",
+          "address": "The old Hàng grid, by Chợ Rồng",
+          "note": "The pho street. Dân trí says one shop closes at 09:00, and Dân Việt says a bowl can be found at any hour, so come early."
+        },
+        {
+          "name": "Afternoon bun streets",
+          "nameVi": "Phố bánh xíu páo",
+          "address": "Lê Hồng Phong, Trần Hưng Đạo, Hàng Sắt, Bắc Ninh, Lý Thường Kiệt",
+          "note": "Dân Việt’s afternoon walk for hot bánh xíu páo, with xôi xíu on Bắc Ninh. VnExpress adds Hoàng Văn Thụ and Lê Hồng Phong, the old phố Khách."
+        },
+        {
+          "name": "Hang Dong and Ngo Ngang",
+          "nameVi": "Phố Hàng Đồng and chợ Ngõ Ngang",
+          "address": "The center",
+          "note": "Bún đũa stalls, which VnExpress places here and at Chợ Rồng. Dân Việt also names bún sung at chợ Ngõ Ngang."
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "heading": "Breakfast",
+      "nav": "Breakfast",
+      "role": "breakfast",
+      "paragraphs": [
+        "Breakfast is phở bò around Chợ Rồng and phố Hàng Tiện, and bánh cuốn làng Kênh in phường Lộc Vượng. Bún sung is the other early bowl, at chợ Diên Hồng on Tuổi Trẻ’s 24 November 2021 account and at chợ Ngõ Ngang on Dân Việt’s 5 September 2025 list. One Diên Hồng stall that day ran from 06:00 to 20:00."
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Nam Dinh food guide — pho, then the gifts",
+  "seoDescription": "Morning pho around Chợ Rồng, bánh cuốn in Lộc Vượng, hot bánh xíu páo in the afternoon, and the Hải Hậu gifts to carry home."
+}

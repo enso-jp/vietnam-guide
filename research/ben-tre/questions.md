@@ -16,3 +16,8 @@ Left out of the stored dossier, on purpose:
 - The hour the lake goes quiet.
 - Licensed photos. None were filed.
 - Visa rules. Not stated.
+- Recipes for the plates that a page only names: nấm mối xào nước cốt dừa, ốc len xào dừa, bánh xèo ốc gạo, dê hấp tía tô, lẩu gà lá giang, ốc bươu nướng tiêu xanh, chuối đập nước cốt dừa, and whether dừa nước is sap or fruit.
+- A Vietnamese name, on a Vietnamese page, for the English line “snakehead fish braised in coconut water.”
+- Orchard fruit species on a page that opened. The cù lao fruit article timed out, so nhãn, chôm chôm, sầu riêng, bưởi, and măng cụt were not split into dishes.
+- A date on the English rural article that prints over 200,000 ha.
+- Licensed photos of the plates that are named and not pictured.

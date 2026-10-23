@@ -1,7 +1,7 @@
 # Food — My Tho
 
 Slug: `my-tho`
-Checked: 21 Oct 2026
+Checked: 23 Oct 2026
 
 No stall prices. Shop names that only located a street are under Notes, not pages.
 
@@ -22,13 +22,13 @@ No stall prices. Shop names that only located a street are under Notes, not page
 ### Elephant-ear fish
 - Vietnamese name: Cá tai tượng chiên
 - What it is: TITC lists deep-fried elephant-ear fish among the islet dishes, with grilled shrimp, linh-fish hotpot with wild flowers, grilled snakehead, mussel pancakes, and pomelo salad (S8).
-- How to eat it: As a countryside plate on the islet, with the fruit and the music (S8). A recipe was not printed.
+- How to eat it: Roll it with herbs, rice paper, and bún. The Tiền Giang provincial portal, 5 Jan 2019, says to clean the fish, take out the gills and the guts, soak the body in salt water for about 15 minutes, drain it, and fry it evenly in plenty of oil. The dip is mắm nêm or nước mắm me (S41). Vietnam Tourism still places the plate on the islet, with the fruit and the music, and does not print that fry (S8, S39).
 - When to order it: At the orchard stop, midday
 - Area, not a shop: Cù lao Thới Sơn
 - Meal: main
 - Neighbor dish to link: none on this site
 - unpublished: no licensed photo
-- Sources: S8
+- Sources: S8, S39, S41
 
 ### Ginger honey tea
 - Vietnamese name: Trà mật ong gừng
@@ -73,6 +73,166 @@ No stall prices. Shop names that only located a street are under Notes, not page
 - Neighbor dish to link: none
 - unpublished: no licensed photo
 - Sources: S6, S16
+
+### Hu tieu sa te
+- Vietnamese name: Hủ tiếu sa tế
+- What it is: Vietnam Tourism’s rural noodle page names hủ tiếu sa tế with hủ tiếu khô and hủ tiếu xương, beside the soup bowl. No method, no toppings, and no price were printed (S40).
+- How to eat it: Check on arrival — UNSOURCED
+- When to order it: Check on arrival — UNSOURCED
+- Area, not a shop: The craft is in xã Mỹ Phong and neighboring wards. A street for this bowl was not printed (S40).
+- Meal: main
+- unpublished: no licensed photo
+- Sources: S40
+
+### Hu tieu xuong
+- Vietnamese name: Hủ tiếu xương
+- What it is: Named by Vietnam Tourism with hủ tiếu sa tế and hủ tiếu khô. No bone cut, no broth, and no price were printed (S40).
+- How to eat it: Check on arrival — UNSOURCED
+- When to order it: Check on arrival — UNSOURCED
+- Area, not a shop: Mỹ Phong and neighboring wards. A street was not printed (S40).
+- Meal: main
+- unpublished: no licensed photo
+- Sources: S40
+
+### Tom nuong moi
+- Vietnamese name: Tôm nướng mọi
+- What it is: On the Thới Sơn table with the fried elephant-ear fish. The English line says grilled shrimp. No method (S39, S8).
+- How to eat it: Check on arrival — UNSOURCED
+- When to order it: At the orchard stop
+- Area, not a shop: Cù lao Thới Sơn
+- Meal: main
+- unpublished: no licensed photo
+- Sources: S8, S39
+
+### Lau mam ca linh
+- Vietnamese name: Lẩu mắm cá linh bông điên điển
+- What it is: Vietnam Tourism names linh fish, mắm, and điên điển flowers on the Thới Sơn table. The English line says linh fish hotpot with wildflowers. A broth was not printed. Do not copy a general Mekong lẩu mắm recipe onto this name (S39, S8).
+- How to eat it: Check on arrival — UNSOURCED
+- When to order it: At the orchard stop
+- Area, not a shop: Cù lao Thới Sơn
+- Meal: main
+- unpublished: no licensed photo
+- Sources: S8, S39
+
+### Ca loc nuong trui
+- Vietnamese name: Cá lóc nướng trui
+- What it is: Field snakehead cooked in straw. The Tiền Giang provincial portal, 5 Jan 2019, chooses a fish of about 500–600 grams, cleans the guts, skewers it from the mouth to near the tail, sticks the mouth in the ground, and burns straw for about 5 minutes (S43). Vietnam Tourism names grilled snakehead on the Thới Sơn table and prints no method (S39). Mia, 25 Sep 2023, says the fish is often not cleaned, straw-fired until fragrant, with the burnt skin taken off and the meat set on a banana leaf. Mia does not print 5 minutes (S49). Do not choose one method.
+- How to eat it: The portal rolls it with rice paper, bún, herbs, unripe banana, and cucumber. The portal dip is coarse salt with chili or pepper, or mắm nêm with chopped starfruit, lime juice, sugar, and chili (S43). Mia’s dip is salt and chili, or mắm me (S49).
+- When to order it: At the orchard stop
+- Area, not a shop: Cù lao Thới Sơn on Vietnam Tourism. The portal does not name a street.
+- Meal: main
+- unpublished: no licensed photo
+- Sources: S39, S43, S49
+
+### Canh chua ca loc
+- Vietnamese name: Canh chua cá lóc
+- What it is: The Tiền Giang provincial portal, 5 Jan 2019, calls field-snakehead sour soup common in the South. Sour-sweet, with fish sauce and sliced chili, eaten with white rice. No vegetable list and no street (S42).
+- How to eat it: With white rice, on that portal account (S42).
+- When to order it: Check on arrival — UNSOURCED
+- Area, not a shop: Check on arrival — UNSOURCED. The portal does not place a stall in Mỹ Tho.
+- Meal: main
+- unpublished: no licensed photo
+- Sources: S42
+
+### Banh xeo nhan hen
+- Vietnamese name: Bánh xèo nhân hến
+- What it is: On the Thới Sơn table. The English line says mussel pancakes. No batter (S39, S8).
+- How to eat it: Check on arrival — UNSOURCED
+- When to order it: At the orchard stop
+- Area, not a shop: Cù lao Thới Sơn
+- Meal: main
+- unpublished: no licensed photo
+- Sources: S8, S39
+
+### Goi buoi da xanh
+- Vietnamese name: Gỏi bưởi da xanh
+- What it is: On the Thới Sơn table. The English line says pomelo salad. No dressing (S39, S8).
+- How to eat it: Check on arrival — UNSOURCED
+- When to order it: At the orchard stop
+- Area, not a shop: Cù lao Thới Sơn
+- Meal: main
+- unpublished: no licensed photo
+- Sources: S8, S39
+
+### Xoi chien phong
+- Vietnamese name: Xôi chiên phồng
+- What it is: The Tiền Giang provincial portal, 5 Jan 2019, says the sticky rice is cooked, pounded with garlic, cooled, and turned in a large pan of boiling oil until it is round and taut like a ball. Usually eaten with roasted chicken or gà xối mỡ. No street (S44). This is not the Cồn Phụng lunch list.
+- How to eat it: With roasted chicken or gà xối mỡ, on the portal (S44).
+- When to order it: Check on arrival — UNSOURCED
+- Area, not a shop: Check on arrival — UNSOURCED
+- Meal: main
+- unpublished: no licensed photo
+- Sources: S44
+
+### Thoi Son orchard fruit
+- Vietnamese name: Trái cây vườn Thới Sơn
+- What it is: Vietnam Tourism names longan, rambutan, xoài cát Hòa Lộc, and mận An Phước in the Thới Sơn orchards. Guests pick and eat, or buy (S39).
+- How to eat it: In the orchard, with the ginger honey tea (S39).
+- When to order it: With the morning orchard stop. A season for each fruit was not printed.
+- Area, not a shop: Cù lao Thới Sơn
+- Meal: sweet
+- unpublished: no licensed photo
+- Sources: S39
+
+### Banh hoi My Phong
+- Vietnamese name: Bánh hỏi
+- What it is: A product of the Mỹ Phong village, listed with bánh tét, bánh ít, hủ tiếu, and bánh tầm (S16). Not the Phong Điền bowl. No serving.
+- How to eat it: Check on arrival — UNSOURCED
+- When to order it: Check on arrival — UNSOURCED
+- Area, not a shop: Ấp Hội Gia and ấp Mỹ Hòa, phường Mỹ Phong, and old phường 9 (S16).
+- Meal: main
+- unpublished: no licensed photo
+- Sources: S16
+
+### Banh tam
+- Vietnamese name: Bánh tầm
+- What it is: A product of the same Mỹ Phong village list (S16). No serving.
+- How to eat it: Check on arrival — UNSOURCED
+- When to order it: Check on arrival — UNSOURCED
+- Area, not a shop: Ấp Hội Gia and ấp Mỹ Hòa, phường Mỹ Phong, and old phường 9 (S16).
+- Meal: main
+- unpublished: no licensed photo
+- Sources: S16
+
+### Ngheu and so
+- Vietnamese name: Nghêu, sò
+- What it is: The 5 Jan 2019 pier-court article calls nghêu, sò, and khô các loại characteristic seafood. No species for sò, no method, and no price. Khô các loại is a category, not one dish, and is not a separate specialty record (S22, S45).
+- How to eat it: Check on arrival — UNSOURCED
+- When to order it: The article’s hours are 18:30–02:00 (S22). Viet Fun Travel prints 18:00, busiest 19:00–22:00 (S28). Both stay.
+- Area, not a shop: Inside the tourist-boat pier on 30 Tháng 4
+- Meal: main
+- unpublished: no licensed photo
+- Sources: S22, S28, S45
+
+### Mam tom cha
+- Vietnamese name: Mắm tôm chà
+- What it is: A Gò Công specialty, not a Mỹ Tho stall. The provincial portal eats it with bún, boiled pork, unripe banana, sour starfruit, cucumber, and herbs (S46). Thanh Niên, 27 Aug 2014, says nearly 200 years earlier it followed Empress Từ Dụ to the Huế court, and prints a family method the portal does not print: live tôm đất cleaned without losing the roe, soaked in rượu nếp about 20 minutes, pounded with garlic, chili, and salt, fermented about a week, sieved, and dried about 20 sunny days (S47). About a dozen workshops, each a family method (S47). Do not publish a workshop as a pick.
+- How to eat it: Portal plate as above. Thanh Niên also eats the plain mắm with rice, as a dip for sour soup with tamarind leaves, or with green mango and hog plum, and mixes vinegar, lime, sugar, garlic, and chili for pork belly, rice paper, herbs, and bún (S47).
+- When to order it: Check on arrival — UNSOURCED
+- Area, not a shop: Gò Công. A Mỹ Tho street was not printed.
+- Meal: main
+- unpublished: no licensed photo
+- Sources: S46, S47
+
+### Mam cong
+- Vietnamese name: Mắm còng
+- What it is: The 5 Jan 2019 food index places it at Tân Phú Đông and says crab is fried or cooked in soup, and that peeled-crab mắm is the best, with a simple method the extract does not print (S52). The portal introduction of 25 Dec 2018 says mắm còng cù lao Tân Thới (S51). Do not choose the place name. Not a Mỹ Tho stall.
+- How to eat it: Check on arrival — UNSOURCED. The method sentence was cut off in the extract.
+- When to order it: Check on arrival — UNSOURCED
+- Area, not a shop: Tân Phú Đông, or cù lao Tân Thới. Both stay.
+- Meal: main
+- unpublished: no licensed photo
+- Sources: S51, S52
+
+### Banh gia Cho Giong
+- Vietnamese name: Bánh giá Chợ Giồng
+- What it is: A Gò Công Tây cake, not a Mỹ Tho stall. The provincial index mills good rice and mung bean, mixes egg, wheat flour, and seasonings, and adds minced pork, shrimp, minced bean sprouts, and peanuts as it fries (S52). Tuổi Trẻ says Chợ Giồng is the old name of chợ Vĩnh Bình, that the cake is also called bánh vá, and that the batter is three parts rice to one part soy, soaked overnight. Filling: bean sprouts, pork, pork liver, then more batter, one or two shrimp and peanuts on top, fried in a ladle-like mold. Some cooks add egg and pork brain. The old shrimp was red tôm đất; smaller shrimp is used now (S48). Do not choose the flour.
+- How to eat it: Tuổi Trẻ eats it with herbs and a fish sauce of garlic, chili, lime, and sugar (S48).
+- When to order it: Check on arrival — UNSOURCED
+- Area, not a shop: Chợ Giồng, Gò Công Tây
+- Meal: snack
+- unpublished: no licensed photo
+- Sources: S48, S51, S52
 
 ## Food streets and markets
 

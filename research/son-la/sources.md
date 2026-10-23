@@ -201,3 +201,63 @@ Published Vietnam Guide pages are not a source. Moc Chau’s dossier was read on
 - Publisher: Bảo tàng tỉnh Sơn La
 - Accessed: 22 Oct 2026
 - Supports: Provincial Tết visitor count for 14–22 Feb 2026. The prison, the Lê temple complex in phường Tô Hiệu, and the Quỳnh Nhai temples are named as places that opened. It is not a city festival timetable.
+
+### S34
+- URL: https://www.vietnam.vn/cam-nang-du-lich-son-la
+- Publisher: Vietnam.vn, “Cẩm nang du lịch Sơn La”, Việt Nam, 2 Apr 2024, byline Tâm Anh
+- Accessed: 23 Oct 2026
+- Supports: Food section only. Pa pỉnh tộp stuffing, buffalo eaten steamed and shredded or as salad, stir-fry, or rim, vịt Chiềng Mai, nộm da trâu, cháo mắc nhung, táo mèo as fresh fruit, tea, wine, or vinegar. Hotel rates, prison tickets, and the Bản Mòng soak fee on this page were not copied. They disagree with figures already stored.
+
+### S35
+- URL: https://baosonla.vn/van-hoa-xa-hoi/am-thuc-son-la-nhung-mon-an-tro-thanh-dac-san-cfgrwUrNg.html
+- Publisher: Báo Sơn La, 9 Sep 2025
+- Accessed: 23 Oct 2026
+- Supports: Hmong thắng cố, bánh giày, mèn mén, speaker Vừ Phái Súa in xã Co Mạ. Thái pa pỉnh tộp, thịt gác bếp, mẳm cá, tương thúa ố. Dao thịt chua. Shared hearth meat and măng muối chua. Chẳm chéo from mắc khén, garlic, and chili. OCOP tương thúa ố at bản Pặt, Mường Bú. OCOP thịt trâu gác bếp and lạp xưởng at Chiềng Cơi. Cooperative names are not picks. Đà river fish at vịnh Uy Phong is a menu line, not one dish.
+
+### S36
+- URL: https://baosonla.vn/van-hoa-xa-hoi/nhung-mon-an-dam-huong-vi-nui-rung-tay-bac-iZRTHyYDg.html
+- Publisher: Báo Sơn La, 16 Jul 2026. The same text is also at https://www.vietnam.vn/nhung-mon-an-dam-huong-vi-nui-rung-tay-bac
+- Accessed: 23 Oct 2026
+- Supports: Xôi tím from lá khẩu cắm in xã Thuận Châu. Caption pairs it with chéo cá nục. Nhứa pỉnh method and about 120,000–150,000 VND a plate at a Chiềng Cơi kitchen. Nhà hàng Phố núi is not a pick. Dry and wet chẩm chéo. Dry box about 30,000–60,000 VND for 200 g. The ingredient sentence does not print mắc khén.
+
+### S37
+- URL: https://baosonla.vn/kinh-te/dac-san-thit-gac-bep-cua-dan-toc-thai-son-la-RWGMvDaNR.html
+- Publisher: Báo Sơn La, 15 May 2025. Also carried at https://www.vietnam.vn/dac-san-thit-gac-bep-cua-dan-toc-thai-son-la
+- Accessed: 23 Oct 2026
+- Supports: Chiềng Cơi workshop, tổ 3. Buffalo, beef, and sausage: 1–2 hours, then about 6–8 hours. Lạp xưởng as a 2023 rural-industry product. Ba chỉ gác bếp and cá trắm gác bếp named as further products. OCOP 3 sao for the buffalo. HTX Kim Tiền Phát is not a pick. Meat also chosen at chợ 7/11.
+
+### S38
+- URL: https://baosonla.vn/du-lich-am-thuc/dac-sac-am-thuc-cac-dan-toc-son-la-49100.html
+- Publisher: Báo Sơn La, 1 Apr 2022
+- Accessed: 23 Oct 2026
+- Supports: Gà nướng, pa pỉnh tộp, nhứa pỉnh, cơm lam. Ba chỉ hun khói. Mẳm cá on the Đà reservoir. Nộm hoa ban, nộm hoa bó píp, quả núc nác. Thắng cố named again.
+
+### S39
+- URL: https://baosonla.vn/vi/bai-viet/ngot-thom-mang-boi-52661
+- Publisher: Báo Sơn La, 19 Aug 2022
+- Accessed: 23 Oct 2026
+- Supports: Măng bói, nó bói, season from the start of April through November, boil about 20 minutes, city-market sale, pickle with garlic, chili, salt, and vinegar. Bitter bamboo, măng sặt, and măng lay seasons are named and were not filed as separate dishes.
+
+### S40
+- URL: https://vietnamnet.vn/7-dac-san-than-thanh-khong-the-bo-lo-khi-den-voi-vung-cao-tay-bac-513997.html
+- Publisher: Vietnamnet, 16 Mar 2019. The bamboo-grub close cites Dân Việt
+- Accessed: 23 Oct 2026
+- Supports: Canh bon with hearth-dried skin. Măng chua xào trứng at bản Heo, Tà Hộc, Mai Sơn. Bọ xít rang. Pa pỉnh tộp fish list. Ruột lợn non nướng. Horse thắng cố on the Mộc Châu plateau, with mèn mén, bánh ngô nướng, and rượu ngô. Sâu tre rang lá chanh.
+
+### S41
+- URL: https://baosonla.vn/vi/bai-viet/dac-san-thit-trau-dai-khach-quy-40865
+- Publisher: Báo Sơn La, 2 Jul 2021
+- Accessed: 23 Oct 2026
+- Supports: Buffalo dried a few days, then steamed and dried again. Grilled squares. Canh bon with skin and cà dại. Nộm da trâu with forest banana flower. Da trâu muối chua. Canh lá vón vén. Rượu nếp with the dried meat. Hoa Xuân OCOP name is not a pick.
+
+### S42
+- URL: https://baosonla.vn/vi/bai-viet/nhung-mon-xoi-dong-day-yeu-thuong-37563
+- Publisher: Báo Sơn La, 11 Feb 2021
+- Accessed: 23 Oct 2026
+- Supports: Xôi ngũ sắc dye steps and color meanings from bản Cọ Châu, phường Chiềng Cơi. White has no dye step. Tết Síp Xí on the 14th of the seventh lunar month.
+
+### S43
+- URL: https://baosonla.vn/vi/bai-viet/am-thuc-doc-dao-cua-dong-bao-dan-toc-thai-son-la-33739
+- Publisher: Báo Sơn La, 4 Sep 2020
+- Accessed: 23 Oct 2026
+- Supports: Pa pỉnh tộp with organs kept. Cơm lam from nếp nương. Xôi ngũ sắc from khảu cắm. Nộm da trâu without lime. Canh bon with beef, not skin. Chẩm chéo from mắc khén and grilled chili. Grill seasoning roasted before it goes on the meat.

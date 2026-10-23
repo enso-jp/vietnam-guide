@@ -1,0 +1,176 @@
+{
+  "slug": "lang-co",
+  "name": "Lang Co food guide",
+  "placeSlug": "lang-co",
+  "summary": "Lap An oysters are the plate on the lagoon: grilled over the fire until fragrant, stirred into a nourishing porridge, or eaten raw. The rock oyster is firm and strongly fragrant.",
+  "heroSlug": "lang-co--hau-nuong-trui",
+  "body": [
+    "Eat on Đầm Lập An, with the boats and the oyster stakes in the water. Oyster farming here dates from the late 1990s. The plates are oysters grilled over the fire until fragrant, a nourishing oyster porridge, oysters stir-fried with onion, and a cool oyster salad.",
+    "Nhân Dân says the lagoon farms rock oysters only. A cook there calls the rock oyster firm and strongly fragrant, and favors it for nướng mọi, for the grill with cheese, and for porridge, and says raw eating suits the milk oyster. VietnamPlus calls the famous Lang Co oyster the milk oyster, eaten raw with lemon or with soy sauce and wasabi, grilled with cheese, grilled with mỡ hành, or simmered into porridge, and says the Lang Co way with the raw shell is its own. In February 2016 one floating restaurant sold the oysters at about 60,000 VND a kilogram.",
+    "A spiny snail is steamed with lemongrass and eaten with ginger. Sò méo and green mussels are on the lagoon tables. Guests eat cá hồng and cá mú raised under the rafts. At Tân Cảnh Dương the evening is grilled seafood and a bonfire.",
+    "Bún bò Huế and cơm hến are Huế bowls. Cao lầu and cơm gà sit toward Hội An and Đà Nẵng. Báo Quốc Tế calls March to June the best-looking months on the lagoon."
+  ],
+  "specialtiesLead": "Oysters first, then the shellfish, the two fish, and the beach grill.",
+  "dishSlugs": [
+    "lang-co--hau-nuong-trui",
+    "lang-co--chao-hau",
+    "lang-co--hau-xao-hanh-tay",
+    "lang-co--goi-hau",
+    "lang-co--hau-hap-gung",
+    "lang-co--hau-xao-chua-ngot",
+    "lang-co--dau-phu-nhoi-hau",
+    "lang-co--mi-sot-hau",
+    "lang-co--hau-nuong-pho-mai",
+    "lang-co--hau-nuong-mo-hanh",
+    "lang-co--hau-nuong-moi",
+    "lang-co--hau-song",
+    "lang-co--oc-gai-hap-sa",
+    "lang-co--so-meo",
+    "lang-co--vem-xanh",
+    "lang-co--ca-hong",
+    "lang-co--ca-mu",
+    "lang-co--hai-san-nuong"
+  ],
+  "sections": [
+    {
+      "id": "more-plates",
+      "heading": "More lagoon plates",
+      "nav": "More plates",
+      "paragraphs": [
+        "These plates are named for the lagoon as well."
+      ],
+      "spots": [
+        {
+          "name": "Hau xao hanh tay",
+          "nameVi": "Hàu xào hành tây",
+          "address": "Đường Nguyễn Văn, along Đầm Lập An",
+          "dishSlug": "lang-co--hau-xao-hanh-tay",
+          "note": "Oysters stir-fried with onion, eaten on the lagoon with the boats and the stakes in view.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
+        },
+        {
+          "name": "Goi hau",
+          "nameVi": "Gỏi hàu",
+          "address": "Đường Nguyễn Văn, along Đầm Lập An",
+          "dishSlug": "lang-co--goi-hau",
+          "note": "An oyster salad on the lagoon, cool and refreshing.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
+        },
+        {
+          "name": "Hau hap gung",
+          "nameVi": "Hàu hấp gừng",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--hau-hap-gung",
+          "note": "Oysters steamed with ginger on Đầm Lập An.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
+        },
+        {
+          "name": "Hau xao chua ngot",
+          "nameVi": "Hàu xào chua ngọt",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--hau-xao-chua-ngot",
+          "note": "Oysters stir-fried sweet and sour on Đầm Lập An.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
+        },
+        {
+          "name": "Dau phu nhoi hau",
+          "nameVi": "Đậu phụ nhồi hàu",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--dau-phu-nhoi-hau",
+          "note": "Tofu stuffed with oyster, made from the lagoon oysters.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
+        },
+        {
+          "name": "Mi sot hau",
+          "nameVi": "Mỳ sốt hàu",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--mi-sot-hau",
+          "note": "Noodles in a sauce of the lagoon oysters.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
+        },
+        {
+          "name": "Hau nuong moi",
+          "nameVi": "Hàu nướng mọi",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--hau-nuong-moi",
+          "note": "Rock oysters grilled the way the lagoon cooks favor, firm and strongly fragrant.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
+        },
+        {
+          "name": "Oc gai hap sa",
+          "nameVi": "Ốc gai hấp sả",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--oc-gai-hap-sa",
+          "note": "A spiny snail steamed with lemongrass and eaten with ginger, at the tables along the lagoon.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
+        },
+        {
+          "name": "So meo",
+          "nameVi": "Sò méo",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--so-meo",
+          "note": "A shellfish from Đầm Lập An, served at the small restaurants on the lagoon.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
+        },
+        {
+          "name": "Ca hong",
+          "nameVi": "Cá hồng",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--ca-hong",
+          "note": "A fish from the rafts on Đầm Lập An, served to guests on the lagoon.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
+        },
+        {
+          "name": "Ca mu",
+          "nameVi": "Cá mú",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--ca-mu",
+          "note": "A fish from the rafts on Đầm Lập An, served to guests on the lagoon. Nhân Dân also names cá mú lưới among the fish in the water.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
+        }
+      ]
+    },
+    {
+      "id": "streets",
+      "heading": "Market and lagoon street",
+      "nav": "Streets",
+      "role": "casual",
+      "paragraphs": [
+        "Chợ Lăng Cô opened on 19 May 2026 beside Highway 1A, Đầm Lập An, and the bay. Three floors hold seafood, produce, and local specialties among 412 stalls.",
+        "Đường Nguyễn Văn runs along the lagoon. The street has long had specialty stalls, and it is where people watch the sunset over Đầm Lập An. In May 2024 the walking nights were Friday, Saturday, and Sunday evenings, and the district said the schedule would change if the trial did not hold."
+      ],
+      "spots": [
+        {
+          "name": "Lang Co market",
+          "nameVi": "Chợ Lăng Cô",
+          "address": "QL1A, xã Chân Mây - Lăng Cô, thành phố Huế",
+          "note": "Three floors beside the highway, the lagoon, and the bay. Seafood, produce, and local specialties are among 412 stalls.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
+        },
+        {
+          "name": "Nguyen Van",
+          "nameVi": "Đường Nguyễn Văn",
+          "address": "Along Đầm Lập An",
+          "note": "Specialty stalls along the lagoon, and the sunset over Đầm Lập An.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
+        }
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Lang Co food guide — Lap An oysters",
+  "seoDescription": "Lap An oysters grilled over the fire, in porridge, or raw, with lagoon shellfish and a beach grill at Tân Cảnh Dương."
+}

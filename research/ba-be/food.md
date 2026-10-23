@@ -185,3 +185,29 @@ Homestay names that located a village. Each line is `do not publish as a pick`.
 - Pác Ngòi: Ba Bể Green Homestay, thôn Pác Ngòi, xã Nam Mẫu, named as a three-star OCOP tourism product (S14). do not publish as a pick
 - Bó Lù: Quỳnh Mai homestay, thôn Bó Lù, named as the other three-star OCOP tourism product (S14). do not publish as a pick
 - VnExpress lists hotel and homestay brands and room rates (S18). do not publish as a pick
+
+## Widened 23 Oct 2026
+
+The public food guide now names every dish a publisher described as food of this lake, plus the OCOP gifts the rural desk says visitors buy. Streets stay streets. Khẩu mẩy vùng cao stays a name only.
+
+New or tightened plates, each with the source that carries it:
+
+- Tôm nướng. S23 grills it with the fish until golden
+- Tép chua. S25 gives the jar method and a 2014 jar price. S23 names it with tôm chua. The two VnExpress prices are both printed
+- Măng rừng. S23 gives stir-fry, boil, soup, or dry. S26 names the boiled shoot. S13’s măng vầu stays its own name. S27’s măng nứa and S25’s măng trúc are recorded on the măng vầu note. The publishers do not say they are one shoot
+- Khâu nhục. S23, belly and taro, steamed, for a festival, Tết, or a wedding
+- Cá rán giòn. S27, at the park. Ốc núi and xôi trám in that article are Thái Hải
+- Gà đồi. S25 names it for a Pac Ngoi stay. Method was not printed
+- Bánh dày lá ngải. S23. S28’s bánh giầy pounding is not identified as this cake
+- Bánh trời (pẻng phạ). S23. S28 writes bánh trôi for the village baking and does not say it is pẻng phạ
+- Rau dớn. S24 methods. S26 names nộm rau dớn
+- Rau ngót rừng. S23. Method was not printed
+- Chân giò. S24 and S25 boil it beside sour shrimp. S26 names chân giò hầm. Both stay
+- Thịt trâu gác bếp xào măng chua. S26. S18’s lake meat remains pork. Thịt trâu khô on S14 stays a separate gift
+- Rượu nếp. S15, on the 2026 trays. Rượu ngô. S24, with tôm chua. Rượu suối nguồn Nà Hai stays the S14 gift. No source says the four spirits are one bottle
+- Chuối hột. S24, with a 2014 hand price. The lead says chuối rừng. Chuối sấy dẻo stays the S14 gift
+- Gà luộc. S15 names it on the 2026 offering trays. A boiling time was not printed. It is a dish file. Hill chicken, gà đồi, stays the separate S25 name
+- Thịt rim. S24 names it beside the sticky rice and does not describe it. Not a dish file
+- Cá tầm at Phiêng Phàng. S14 is a farm model, not a plate
+
+2014 prices from S24 and S25 are printed with the date. A current price stays Check on arrival. No stall hour was printed.

@@ -139,3 +139,47 @@ Accessed 21 Oct 2026 unless a line says otherwise. A full reload that timed out 
 - Publisher: Thanh Nien
 - Accessed: 21 Oct 2026
 - Supports: an older ministry letter, as reported here, that put Na San in the national airport plan and did not add a Moc Chau airport, while allowing a specialized field to be studied. The article date was not on the extract. Not a 2026 timetable.
+
+### S5, S8, S13 re-read
+- Accessed: 23 Oct 2026
+- S5 still names the dairy farm, strawberry and vegetable farms, tea, plums, and fermented wine from bamboo tubes. The 1,500 m line and the “newly operational expressway” still disagree with other sources and were not copied into the food file.
+- S8 still names the night market, more than 2 ha, nearly 60 stalls, dried buffalo, and lạp xưởng gác bếp. No clock.
+- S13 still names the 3 May 2024 ranks: three yogurt cups at 3 stars, and dried mango with dried hau plum at 3 stars. Safe tomato and potato at 4 stars are produce, not plates.
+
+### S24
+- URL: https://www.vietnam.travel/things-to-do/moc-chau-green-and-peaceful-summer-oasis-near-hanoi
+- Publisher: Vietnam Tourism
+- Accessed: 23 Oct 2026
+- Supports: traditional corn wine, be chao as flash-fried veal, charcoal-grilled stream fish, colourful five-grain sticky rice, fresh dairy, premium oolong, ripe plums at Na Ka and Mu Nau.
+
+### S25
+- URL: https://vietnam.travel/things-to-do/moc-chau-eco-traveller-dream-destination
+- Publisher: Vietnam Tourism
+- Accessed: 23 Oct 2026
+- Supports: pick and sample navel oranges, persimmons, apricots, strawberries, peaches, and plums. Strawberry picnic at the Ban Ang pine forest. Plum blossom at Na Ka from the middle of January to the end of February. Plum fruit from March to May. Tea tasting is named. The glass-bridge length and the Guinness line on this note were not used. They are not a settled measurement.
+
+### S26
+- URL: https://baosonla.vn/van-hoa-xa-hoi/van-hoa-am-thuc-dan-toc-gan-voi-phat-trien-du-lich-qkXPoJ1Vg.html
+- Publisher: Bao Son La
+- Accessed: 23 Oct 2026
+- Article date: 17 Feb 2023
+- Supports: bánh dày and thắng cố (Hmong); thịt trâu gác bếp, cá suối nướng, cơm lam, xôi ngũ sắc, rau rừng, canh bon (Thai and Muong); thịt chua and rượu hoẵng (Dao). Seasonal foods: măng rừng, cá suối, thịt lợn sấy, xôi lá màu. Bản Vặt, xã Mường Sang: cơm lam, cá nướng, gà nướng, nộm rau rừng, chẳm chéo. Visitors carry thịt khô, măng, rau rừng, and chẳm chéo. Xôi lá màu is not described as a different plate from xôi ngũ sắc.
+
+### S27
+- URL: https://baosonla.vn/vi/bai-viet/kinh-nghiem-du-lich-moc-chau-mua-hoa-cai-5074
+- Publisher: Bao Son La, reprinting VnExpress
+- Accessed: 23 Oct 2026
+- Article date: 12 Oct 2016
+- Supports dish names only: nậm pịa, bê chao, cá suối, lợn mán, thắng cố, cơm lam, ốc đá, cải ngồng. Packed foods: chè, sữa, táo mèo, ngô, bánh khảo, kẹo dồi, thịt trâu, bò hun khói, rượu táo mèo, rượu ngô. Restaurant names in the feature are not picks. The 2016 room rates, motorbike rate, and 100,000 VND bus fare are not a current price.
+
+### S28
+- URL: https://vietnamtourism.vn/index.php/news/items/18451
+- Publisher: Vietnam National Authority of Tourism
+- Accessed: 23 Oct 2026
+- Supports: bê chao, pa pỉnh tộp (cá suối nướng), thịt trâu gác bếp as a Black Thai dish, cải mèo, nậm pịa, cá hồi, xôi ngũ sắc, sữa tươi, sữa chua, bánh sữa. Full HTML reload timed out. The specialty sentence is the indexed text, repeated on the same headline.
+
+### S29
+- URL: https://vietnamtourism.vn/index.php/news/items/15738
+- Publisher: Vietnam National Authority of Tourism
+- Accessed: 23 Oct 2026
+- Supports: bê chao method (dairy calf about one week old, matchbox pieces, ginger, lemongrass, garlic, chili, twice through hot fat, màu vàng cánh gián, rich and sweet, not greasy). Hmong: thắng cố, bánh dày, rượu ngô, thịt lợn lửng. Dao: thịt chua, rượu hoẵng. Thai set, with mắc khén and hạt dổi named as seasonings for the set: cơm lam, xôi tình yêu, cá nướng, gà mọ, nộm rau rừng, hoa ban, lạp trâu, nậm pịa. Full HTML reload timed out. The food paragraphs are the indexed text. An about-5-hour bus line and an about-200,000 VND fare in the extract are not used as the current bus. The article date was not in the extract.

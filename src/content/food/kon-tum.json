@@ -1,0 +1,95 @@
+{
+  "slug": "kon-tum",
+  "name": "Kon Tum food guide",
+  "placeSlug": "kon-tum",
+  "summary": "Kon Tum starts the day with two bowls of phở khô, dry noodles in black soybean sauce with a clear broth beside them, around the market from about 6:00 to 10:00. Lunch or dinner is gỏi lá on Trần Cao Vân, a platter of forest leaves you roll around pork, shrimp, and pork skin. Out in the Ba Na and Xơ Đăng villages, the table is bamboo-tube rice, charcoal-grilled chicken, and jar wine through straws.",
+  "body": [
+    "Eat the morning at the market. Toss the dry bowl, then alternate a bite of noodles with a sip of hot broth. Save the leaf salad for later in the day, and if you are out at Kon K’Tu or a village festival, sit down to cơm lam and a whole grilled bird torn by hand. End the evening with coffee dripped through a phin, at a café over the Đăk Bla.",
+    "The wider highland table runs to bitter eggplant, pounded cassava-leaf soup, weaver-ant fish, and fried crickets. Up on the Măng Đen plateau and at Tu Mơ Rông below Ngọc Linh, the menu changes to hill pig roasted whole, sturgeon-head hotpot, and ginseng from the mountain."
+  ],
+  "specialtiesLead": "Start with the two bowls. The leaf salad, the bamboo tube, and the jar are the rest of the highland table.",
+  "dishSlugs": [],
+  "sections": [
+    {
+      "id": "specialties",
+      "heading": "Kon Tum specialties",
+      "nav": "Specialties",
+      "paragraphs": [
+        "Phở khô is the breakfast and gỏi lá is the platter on Trần Cao Vân. Cơm lam and grilled chicken travel as a pair from the Ba Na and Xơ Đăng villages, and jar wine belongs to the communal house at festival time, not to the morning."
+      ],
+      "dishSlugs": [
+        "kon-tum--pho-kho",
+        "kon-tum--goi-la",
+        "kon-tum--bun-do",
+        "kon-tum--ca-goi-kien-vang",
+        "kon-tum--com-lam",
+        "kon-tum--ga-nuong",
+        "kon-tum--ruou-can",
+        "kon-tum--ca-phe",
+        "kon-tum--mang-le",
+        "kon-tum--ca-dang",
+        "kon-tum--canh-la-mi",
+        "kon-tum--de-chien",
+        "kon-tum--muoi-kien",
+        "kon-tum--ca-suoi",
+        "kon-tum--bo-nuong-kien-vang",
+        "kon-tum--ca-ri-ga"
+      ]
+    },
+    {
+      "id": "regional",
+      "heading": "Beyond the market",
+      "nav": "Further out",
+      "role": "regional",
+      "paragraphs": [
+        "Măng Đen, up on the Kon Plông plateau, cooks its own hill pig, sturgeon from cold-water farms, and Bana bird noodle soup. At Tu Mơ Rông, Xơ Đăng cooks bring ginseng from Ngọc Linh into salads and chicken pots, beside greens from the forest. Lá bép soup and the bamboo-tube soup are village pots from across the highlands around Kon Tum."
+      ],
+      "dishSlugs": [
+        "kon-tum--heo-mang-den",
+        "kon-tum--goi-la-sam-ngoc-linh",
+        "kon-tum--ga-ham-sam-day",
+        "kon-tum--rau-rung",
+        "kon-tum--canh-la-bep",
+        "kon-tum--canh-thut",
+        "kon-tum--banh-canh-chim",
+        "kon-tum--lau-dau-ca-tam"
+      ]
+    },
+    {
+      "id": "breakfast",
+      "heading": "Breakfast",
+      "nav": "Breakfast",
+      "role": "breakfast",
+      "paragraphs": [
+        "Order phở khô. The shops cluster around Kon Tum market and the central streets, including Phan Chu Trinh, Phan Đình Phùng, and Tô Hiến Thành, and most serve from about 6:00 to 10:00. A bowl is about 20,000–33,000 VND, or up to 35,000 VND for a large one (Go Vietnam, 2025)."
+      ]
+    },
+    {
+      "id": "streets",
+      "heading": "Streets",
+      "nav": "Streets",
+      "role": "casual",
+      "paragraphs": [
+        "Two streets carry the city’s food. The market blocks are the morning noodles. Trần Cao Vân is the leaf salad."
+      ],
+      "spots": [
+        {
+          "name": "Kon Tum market",
+          "nameVi": "Chợ Kon Tum",
+          "address": "Central Kon Tum, around the market",
+          "note": "Two-bowl phở khô around the market and on the central streets, mostly from about 6:00 to 10:00. A bowl is about 20,000–33,000 VND, or up to 35,000 VND for a large one (Go Vietnam, 2025)."
+        },
+        {
+          "name": "Tran Cao Van",
+          "nameVi": "Đường Trần Cao Vân",
+          "address": "Trần Cao Vân, Kon Tum city",
+          "note": "Phố gỏi lá, the leaf-salad street. Platters are priced per table: 100,000–150,000 VND for about 3–4 people (VietnamNet, 2023), about 300,000–400,000 VND for 6–8 (Vietnam News Agency), and 350,000–600,000 VND for 4–6 (Go Vietnam)."
+        }
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Kon Tum food guide — two-bowl pho and leaf salad",
+  "seoDescription": "Two-bowl dry phở around the market from about 6:00 to 10:00, leaf salad on Trần Cao Vân, and bamboo-tube rice with grilled chicken in the Ba Na villages.",
+  "heroSlug": "kon-tum--pho-kho"
+}

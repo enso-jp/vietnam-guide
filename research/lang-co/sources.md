@@ -108,4 +108,22 @@ Accessed 21 Oct 2026 unless a line says otherwise. Fees, hours, and durations be
 - URL: https://vienktxh.hanoi.gov.vn/nghien-cuu-trao-doi/nuoi-hau-lam-du-lich-70069.html
 - Publisher: Viện Kinh tế xã hội Hà Nội
 - Accessed: 21 Oct 2026
-- Supports: One household raft on Đầm Lập An (ông Trần Thiện) was reported taking visitors onto the oyster lines for about two hours at 300,000 VND a person. That is one family’s reported price in a feature, not a town ticket. Do not publish the household as a pick. It only shows that lagoon boats and oyster meals exist.
+- Supports: One household raft on Đầm Lập An (ông Trần Thiện) was reported taking visitors onto the oyster lines for about two hours at 300,000 VND a person. That is one family’s reported price in a feature, not a town ticket. Do not publish the household as a pick. It only shows that lagoon boats and oyster meals exist. Re-read 23 Oct 2026: the same feature says guests eat cá hồng and cá mú raised under the raft, and names no cooking method.
+
+### S19
+- URL: https://vietnamtourism.vn/index.php/news/items/16826
+- Publisher: Cục Du lịch Quốc gia Việt Nam (Vietnam National Authority of Tourism), “Khám phá đầm Lập An ở xứ Huế mộng mơ”, credit (TITC), updated 16 May 2016
+- Accessed: 23 Oct 2026
+- Supports: Đầm Lập An, more than 800 ha, from the foot of đèo Phú Gia to cửa biển Hải Vân, brackish water west of vịnh Lăng Cô, then printed as thị trấn Lăng Cô, huyện Phú Lộc. Oysters are the main aquatic animal. Dishes named as made from the oysters: hàu hấp gừng, hàu xào chua ngọt, đậu phụ nhồi hàu, mỳ sốt hàu. No shop, no price, no clock. Direct fetch of the URL timed out on 23 Oct 2026. The text used is the indexed article body returned the same day, including the update date and the TITC credit.
+
+### S20
+- URL: https://nhandan.vn/hon-bien-lang-co-ky-1-post817607.html
+- Publisher: Nhân Dân, “Hồn biển Lăng Cô (Kỳ 1)”, 5 July 2024
+- Accessed: 23 Oct 2026
+- Supports: Đầm Lập An holds sò mai, cua đá, cá dìa, cá mú lưới, cá ngát, cá hồng, cá hanh. Plates at small lagoon restaurants: ốc gai hấp sả eaten with ginger; sò méo and vẹm xanh in one sentence with nướng mỡ hành and hấp rau húng; porridge and seafood soup seasoned moderately. The lagoon farms hàu đá only, according to a farmer in the article. A cook says hàu đá is firm and strongly fragrant and is favored for nướng mọi, nướng phô mai, or porridge, and that hàu sữa suits raw eating, sashimi, or light dishes. Hàu sữa is described as a market type, not as the oyster farmed there. Restaurant name Phương Diên is a pick and stays unpublished. One resident’s feast foods (bánh thuẫn, mì Quảng, bánh tráng cuốn thịt heo, mắm nêm) are not Lăng Cô specialties. Lagoon area figures on this page, about 7,100 ha and about 1,647 ha of water, are this page only and were not copied onto the place.
+
+### S21
+- URL: https://www.vietnamplus.vn/video-ve-dam-lap-an-trai-nghiem-vuong-quoc-hau-xu-hue-post370048.vnp
+- Publisher: VietnamPlus, 9 February 2016, Tiến Đạt and Tùng Lâm
+- Accessed: 23 Oct 2026
+- Supports: Đầm Lập An, more than 800 ha, in the center of thị trấn Lăng Cô. Calls the famous oyster hàu sữa, which conflicts with S20. Preparations named: ăn sống, nướng phô mai, nướng mỡ hành, and cháo. Raw oysters with lemon, or with soy sauce and wasabi. The article says the Lăng Cô way of eating them raw differs and does not print that difference. About 60,000 VND a kilogram at one floating restaurant in 2016. That is not a current stall price. Ốc, sò huyết, and cá are mentioned as present at that one restaurant, not as a town menu. No shop is named to book.

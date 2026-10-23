@@ -31,6 +31,7 @@
   "itinerarySlugs": [
     "can-gio-day"
   ],
+  "foodSlug": "can-gio",
   "seoTitle": "Can Gio travel guide — mangrove creek and the ferry",
   "seoDescription": "The mangrove creeks are the reason to stay, southeast of Ho Chi Minh City. The road is about 1 hour 30 minutes or about 2 hours, then the Bình Khánh ferry.",
   "intro": [
@@ -60,11 +61,48 @@
     }
   ],
   "eat": [
-    "Hàng Dương, on đường Thạnh Thới, is the seafood market beside bãi 30 tháng 4. You choose a live animal and the stall cooks it, or you take a pan already on the fire. A 2019 story puts the sand about 50 m away. One seller that year said she sold from about 7:00 until about 21:00. That clock is one stall in 2019. A stall price was not printed. Check on arrival.",
-    "Đường Duyên Hải and đường Tắc Xuất are the sit-down streets in the old town centre, now xã Cần Giờ. The plates named there are lẩu cá dứa, the same fish simmered as cá dứa kho, tôm tích, ốc len, sò huyết, vọp, hàu nướng, and cá đuối hấp. A breakfast, a sweet, and a local drink were not named. Check on arrival. Salt is what people carry home from the pans."
+    "Hàng Dương, on đường Thạnh Thới, is the seafood market beside bãi 30 tháng 4. You choose a live animal and the stall cooks it, or you take a pan already on the fire. A 2019 story puts the sand about 50 m away. One seller that year said she sold from about 7:00 until about 21:00. That clock is one stall in 2019. Thanh Niên printed cook fees that year. A 2026 board was not printed. Check on arrival.",
+    "Đường Duyên Hải and đường Tắc Xuất are the sit-down streets in the old town centre, now xã Cần Giờ. Dân Việt, on 2 Oct 2022, names lẩu cá dứa, cá dứa kho, tôm tích, ốc len, sò huyết, vọp, hàu nướng, and cá đuối hấp there. Dân Việt, on 28 Apr 2024, names the mudskipper salad, ba khía with lá buôi, salt-crusted mullet, and straw-grilled duck, and rượu mật ong rừng Sác with the salad. It does not name a street for those plates. A breakfast bowl was not named. Check on arrival. Salt is what people carry home from the pans."
   ],
-  "dishSlugs": [],
+  "dishSlugs": [
+    "can-gio--lau-ca-dua",
+    "can-gio--ca-dua-kho",
+    "can-gio--kho-ca-dua",
+    "can-gio--tom-tich",
+    "can-gio--tom",
+    "can-gio--oc-len",
+    "can-gio--oc-dun",
+    "can-gio--oc-giac",
+    "can-gio--oc-huong",
+    "can-gio--oc-mo",
+    "can-gio--so-huyet",
+    "can-gio--vop",
+    "can-gio--hau-nuong",
+    "can-gio--ca-duoi-hap",
+    "can-gio--lau-ca-duoi",
+    "can-gio--cua-um",
+    "can-gio--cua-cum",
+    "can-gio--ghe",
+    "can-gio--goi-ca-thoi-loi",
+    "can-gio--goi-la-lim-kim",
+    "can-gio--canh-lim-kim",
+    "can-gio--canh-chua-ca-khoai",
+    "can-gio--vit-nuoc-man",
+    "can-gio--ca-doi-muoi-hot",
+    "can-gio--sam-trung-nuong",
+    "can-gio--lau-ba-khia",
+    "can-gio--dia-sam",
+    "can-gio--ruou-mat-ong",
+    "can-gio--xoai-cat",
+    "can-gio--mang-cau"
+  ],
   "interestCards": [
+    {
+      "title": "Dining and F&B",
+      "summary": "Lẩu cá dứa on Duyên Hải and Tắc Xuất, and the market beside the sand.",
+      "icon": "food",
+      "to": "food"
+    },
     {
       "title": "The mangrove",
       "summary": "The creek boats at Vàm Sát, on a dry morning.",
@@ -95,10 +133,23 @@
     }
   ],
   "interestsBody": [
+    "Lẩu cá dứa in the town, and Hàng Dương beside the sand.",
     "The picture is the creek. The evening is the market and the black sand. The whale temple is the pin for lunar month 8, and a short visit on an ordinary morning.",
     "Salt is a December–May morning on the pans. The rooms at Vàm Sát are a forest overnight."
   ],
   "interestGroups": [
+    {
+      "title": "Dining and F&B",
+      "summary": "For the hotpot in town and the market beside the sand.",
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "Lẩu cá dứa on Duyên Hải and Tắc Xuất, and the market beside the sand.",
+          "icon": "food",
+          "to": "food"
+        }
+      ]
+    },
     {
       "title": "The mangrove",
       "summary": "For a dry morning on the water, when the creek is the reason you came.",

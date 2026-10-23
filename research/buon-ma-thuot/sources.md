@@ -96,7 +96,7 @@ Accessed 21 Oct 2026 unless a page states its own date.
 - URL: https://www.baodaklak.vn/channel/3624/202102/am-thuc-mien-dat-do-cao-nguyen-5722988/
 - Publisher: Bao Dak Lak
 - Accessed: 21 Oct 2026
-- Supports: Com lam and grilled chicken as highland food; bun do identity for Buon Ma Thuot.
+- Supports: Buon Ma Thuot as the place associated with cà phê, cơm lam, gà nướng, rượu cần, cá lăng sông Sêrêpốk, and bún đỏ. Bún đỏ described on Phan Đình Giót: thick red noodles, crab-pork-shrimp cake, quail egg, fried shallot, pork crackling, broth of pork bone, beef bone, and crab, blanched sweet mustard and water celery. No price. Also chả cá thát lát at Lak, cơm gà Ea Kar, xoài Ea Súp, măng rừng, and mì Quảng gà or ếch in Cư M’gar and Krông Pắc. Methods for the mango, the shoots, the catfish, and mì Quảng were not printed.
 
 ### S17
 - URL: https://daklaktourism.com/location/diem-den/
@@ -121,3 +121,65 @@ Accessed 21 Oct 2026 unless a page states its own date.
 - Publisher: Dak Lak Department of Justice fee schedule
 - Accessed: 21 Oct 2026
 - Supports: Scenic sites 30,000 VND adult default; Buon Don suspension bridge 40,000 VND adult on schedule table.
+
+### S21
+- URL: https://vnexpress.net/nhung-mon-nen-thu-o-buon-ma-thuot-4247663.html
+- Publisher: VnExpress Du lịch
+- Accessed: 23 Oct 2026
+- Date on page: 27 Mar 2021
+- Supports: Bún đỏ 20,000–35,000 VND on Lê Hồng Phong, Phan Bội Châu, Phan Đình Giót, and the night market, late afternoon to late evening, color from dầu điều. Bánh ướt chồng đĩa on Trần Nhật Duật and Lê Thánh Tông, 25,000 VND for meat and sausage plus 1,000 VND a sheet, sauces mắm nêm or mắm mặn. Nem nướng 30,000–50,000 VND at Thanh Trầm, Thanh Loan, and Thanh Thủy, no street. Bánh nếp chiên 5,000 VND on Phùng Chí Kiên. Bánh bò nướng 5,000 VND at the central market. Bò nhúng me 150,000 VND on Lê Thánh Tông. Bún giò heo 30,000–40,000 VND, no street. Hủ tiếu 15,000–25,000 VND, explicitly not a specialty. Cà phê 15,000 to nearly 100,000 VND. These 2021 figures are not a current price.
+
+### S22
+- URL: https://vnexpress.net/bun-do-va-banh-uot-thit-nuong-ban-me-niu-chan-du-khach-3357293.html
+- Publisher: VnExpress Du lịch
+- Accessed: 23 Oct 2026
+- Date on page: 21 Feb 2016
+- Supports: Bún đỏ 20,000–30,000 VND on Phan Đình Giót and Lê Duẩn, noodles blanched in water mixed with hạt điều. Bánh ướt thịt nướng on Trần Nhật Duật, about 30,000–50,000 VND a person, sauce mắm nêm or nước mắm chua ngọt.
+
+### S23
+- URL: https://daklak.gov.vn/dia-danh-di-tich-thang-canh/-/asset_publisher/bDngMUmMrWIw/content/am-thuc-tai-ak-lak/pop_up?_101_INSTANCE_bDngMUmMrWIw_viewMode=print
+- Publisher: Dak Lak provincial portal
+- Accessed: 23 Oct 2026
+- Date on page: 18 Feb 2019
+- Supports: Cơm lam in young lồ ô. Canh thụt method, 60–90 minutes, tube under half a metre. Cà đắng cooked with fresh fish, dried fish, dried shrimp, forest meat, or stewed with frog, and eaten raw pounded. Chili, lá é, and scallion-like leaves and bulbs. Tết food from grilled meat to rượu cần. The animal for the grilled meat was not named. This is the primary source for canh thụt that the first pass did not have.
+
+### S24
+- URL: https://baodaklak.vn/du-lich/202305/dai-su-dac-biet-cua-du-lich-01832a1/
+- Publisher: Bao Dak Lak
+- Accessed: 23 Oct 2026
+- Date on page: 23 May 2023
+- Supports: Rượu cần from forest-leaf yeast and upland sticky rice. Cơm lam soaked overnight with a little salt, eaten with sesame salt or grilled pork or chicken. Canh cà đắng (Êđê), canh bột (M’nông), cá nấu với lá sắn chua (Xê Đăng, method not printed, not filed as its own dish), khâu nhục, xôi ngũ sắc. Meal of rau rừng xào, canh cà đắng, cơm lam, and cá lóc canh chua trứng kiến under stilt roofs in Buôn Đôn, Lắk, and Buôn Ma Thuột. Canh bột method not printed.
+
+### S25
+- URL: https://www.baodaklak.vn/channel/9803/201608/ban-tam-tau-ruou-can-com-lam-ga-nuong-2449031/
+- Publisher: Bao Dak Lak
+- Accessed: 23 Oct 2026
+- Date on page: 29 Aug 2016
+- Supports: Rượu cần, cơm lam, and gà nướng as one set. Êđê and M’nông chicken rubbed with lá ech, forest-salt dip, eaten at Khu du lịch văn hóa-sinh thái Cộng đồng Kô Tam in Buon Ma Thuot and Buôn Trí A in Buôn Đôn. No price. No street number.
+
+### S26
+- URL: https://baodaklak.vn/van-hoa-du-lich-van-hoc-nghe-thuat/202307/dac-san-tu-dang-cay-0fb1258/
+- Publisher: Bao Dak Lak
+- Accessed: 23 Oct 2026
+- Date on page: 26 Jul 2023
+- Supports: Gỏi cà đắng cá khô, canh cà đắng with dried fish and rice-washing water, cà đắng giã muối ớt. Đọt mây nướng with xiêm-chili salt. Lá mì xào cá hấp. Đu đủ giã muối kiến vàng named at a tasting on Đường sách cà phê, method not printed.
+
+### S27
+- URL: https://baodaklak.vn/channel/3609/201306/ca-dang-rau-djam-tang-nhung-mon-an-dac-san-cua-nguoi-ede-2245316/
+- Publisher: Bao Dak Lak
+- Accessed: 23 Oct 2026
+- Date on page: 24 Jun 2013
+- Supports: Canh cà đắng with beef offal and wêc êmô. Cà đắng eaten raw, pounded. Rau djam tang along Krông Ana, Krông Knô, and Sêrêpốk, best with stream fish, also pickled sour. Other partners named: cá cơm, măng le, mushrooms, forest meat, without separate methods.
+
+### S28
+- URL: https://www.baodaklak.vn/channel/9803/201903/nong-nan-ruou-can-ban-me-5626868/
+- Publisher: Bao Dak Lak
+- Accessed: 23 Oct 2026
+- Date on page: 30 Mar 2019
+- Supports: Êđê rượu cần in Buon Ma Thuot and Ako Dhong. Sticky rice, galangal-and-leaf yeast, drinkable after more than three months, better at a year, cloudy white, sweet, fragrant. Shared by pulling straws. The maker’s name stays off the public page. No price.
+
+### S29
+- URL: https://vietnamtourism.vn/index.php/news/items/27622
+- Publisher: Vietnam National Administration of Tourism
+- Accessed: 23 Oct 2026
+- Supports: Same article as S15. Bánh ướt chồng đĩa: one sheet a plate, scallion fat, chives, dried-shrimp powder, grilled minced pork, grilled pork, nem chua, chả lụa, chả quế, pickles, mango, cucumber, Thai basil, mắm nêm or sweet-sour fish sauce, 10 to 20 plates and sometimes more than 30. No price on the extract read this pass. The live page timed out on 23 Oct 2026. The dish text uses the article body returned with the search of that URL. Bún đỏ details remain S15.

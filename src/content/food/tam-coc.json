@@ -2,13 +2,14 @@
   "slug": "tam-coc",
   "name": "Tam Coc food guide",
   "placeSlug": "tam-coc",
-  "summary": "Tam Coc eats cơm cháy, mountain goat, and nem Yên Mạc in the hamlet, plus mountain snail and a cook-it-yourself meal at Hang Bụt. Thirteen plates are named. Not named: a breakfast dish, a sweet, a drink, a noodle, a second rice, a sausage, and a hotpot as its own Tam Coc plate.",
+  "summary": "After the boat, lunch in Tam Coc is crisp rice, mountain goat, and nem Yên Mạc. Mountain snail comes in the rains, Hang Bụt is a meal you cook, and midday can be cá rô Tổng Trường.",
   "body": [
-    "This is the boat village, not the Ninh Bình city list. DulichToday, updated 25 January 2024, puts cơm cháy with thịt dê núi and tim cật at restaurants in Tam Coc, and names dê nướng and five ốc núi plates. The 20 December 2016 tourism note still describes Ninh Bình cơm cháy with beef, pork heart and kidney, tomato, carrot, onion, and nấm hương. The 20 October 2023 culture office places that beef plate, and the goat cooking, in thành phố Ninh Bình or the old capital. Beef and shiitake stay. Goat and ruốc stay. Both placements stay.",
-    "The 23 May 2023 tourism-center note says lunch is inside the Tam Coc tourist area or nearby, and names cơm cháy, dê núi, and nem Yên Mạc. The 14 May 2025 Tam Coc day names dê tái chanh, cơm cháy, and dê nướng at 11:45, with no restaurant and no street. Nem Yên Mạc stays a Yên Mạc plate and a Yên Mô plate as well as that lunch name. No street is named. A plate price is Check on arrival.",
-    "Thirteen plates are named. Not named for Tam Coc: a breakfast dish, a sweet, a drink, a noodle, a second rice, a sausage, and a hotpot as its own Tam Coc plate. A provincial goat list of about more than 20 plates does not mention Tam Coc, so it is not copied here. Miến lươn, cá rô Tổng Trường, nem dê, tiết canh dê, lẩu dê, and dê xào lăn stay with the city or the old capital. Kim Sơn, Gia Viễn, and the other Yên Mô plates stay where they were named."
+    "Crisp rice at a Tam Coc restaurant is nếp hương with ruốc, eaten with mountain goat or with heart and kidney stir-fried with carrot, tomato, mushroom, and onion. The Ninh Bình plate is beef tenderloin and pork heart and kidney, with tomato, carrot, onion, and shiitake, poured on so the rice crackles. That beef plate is also set in the city or the old capital.",
+    "Lunch in the tourist area, or at a restaurant nearby, is that rice, mountain goat, and nem Yên Mạc. A Tam Coc day sets dê tái chanh, cơm cháy, and grilled goat at 11:45. Nem Yên Mạc is a Yên Mạc plate and a Yên Mô plate as well as this lunch.",
+    "Mountain snail comes out of the rock caves from April to August, grilled, stir-fried with tamarind, steamed with ginger, boiled, or in an onion salad. At Hang Bụt, visitors grill the perch they catch and cook crab soup and salted eggplant. One account puts the cave 1 km from chùa Bích Động. Another puts the visit in Sơn Hà.",
+    "Cá rô Tổng Trường is named at midday with mountain goat and crisp rice, and called a Ninh Bình specialty. Tổng Trường is the old name of xã Trường Yên in Hoa Lư, where the fish is cooked rang, rán, kho, or as canh chua with fried perch, pickled mustard greens, diluted nước dưa, tomato, and fried tofu. The culture office places the fish in the city or the old capital, and a Tet table has it kho tộ or rán giòn with hot rice."
   ],
-  "specialtiesLead": "Cơm cháy is the crisp rice. Goat, nem Yên Mạc, mountain snail, and the Hang Bụt meal follow.",
+  "specialtiesLead": "Crisp rice, hill goat, nem Yên Mạc, mountain snail, the Hang Bụt meal, and cá rô Tổng Trường.",
   "dishSlugs": [
     "com-chay"
   ],
@@ -18,8 +19,7 @@
       "heading": "Tam Coc specialties",
       "nav": "Specialties",
       "paragraphs": [
-        "Each line is one plate. Cơm cháy, dê tái chanh, and nem Yên Mạc keep the Ninh Bình sentences and the Tam Coc sentences together. The ốc núi plates are April to August on the DulichToday note. Cá rô nướng, canh cua, and cà muối are the Hang Bụt meal, 1 km from chùa Bích Động on one sentence and in Sơn Hà on the next.",
-        "Not named for Tam Coc: a breakfast dish, a sweet, a drink, a noodle, a second rice, a sausage, and a hotpot as its own Tam Coc plate. Hours and a plate price are Check on arrival."
+        "Cơm cháy is the crisp rice. Thịt dê núi, dê nướng, and dê tái chanh are the goat. Nem Yên Mạc is the fermented pork. The snail plates run from April to August. Cá rô nướng, canh cua, and cà muối are the meal visitors cook at Hang Bụt. Cá rô Tổng Trường is the midday perch."
       ],
       "dishSlugs": [
         "thit-de-nui",
@@ -33,12 +33,13 @@
         "ca-ro-nuong",
         "canh-cua",
         "ca-muoi",
-        "nem-chua-yen-mac"
+        "nem-chua-yen-mac",
+        "tam-coc--ca-ro-tong-truong"
       ]
     }
   ],
   "verified": "23 Oct 2026",
   "seoTitle": "Tam Coc food guide — crisp rice, goat, nem Yen Mac",
-  "seoDescription": "Thirteen Tam Coc plates, from cơm cháy and goat to nem Yên Mạc. Not named: breakfast, a sweet, a drink, a noodle, a second rice, a sausage, and a Tam Coc hotpot.",
+  "seoDescription": "Crisp rice, mountain goat, nem Yên Mạc, mountain snail, and cá rô Tổng Trường in Tam Coc, plus the meal visitors cook at Hang Bụt.",
   "heroSlug": "com-chay"
 }
