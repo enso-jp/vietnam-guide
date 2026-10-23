@@ -1,0 +1,62 @@
+{
+  "slug": "bai-lang",
+  "placeSlug": "cham-islands",
+  "name": "Bai Lang",
+  "nameVi": "Thôn Bãi Làng",
+  "kicker": "The landing hamlet on Hòn Lao",
+  "summary": "Landing hamlet on Hòn Lao: walk the shore after the boat and stay for the village after dark. Breakfast stalls line the coast road. Hải Tạng, the founders’ hall, and the whale shrine are in this hamlet. The visit fee is 70,000 VND, and the boat is a separate fare.",
+  "dots": 5,
+  "timeNeeded": "The landing day, or a night",
+  "fee": "70,000 VND per person per visit",
+  "getThere": "Boat from the Cửa Đại pier to Bai Lang.",
+  "district": "Bai Lang",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The shore road at the Bai Lang landing, with the pier and the houses",
+  "body": [
+    "Bai Lang is the landing on Hòn Lao, the only inhabited island. You step off the boat onto the shore road, with the pier, the houses, and the hill in one walk. Breakfast stalls line that coast road. The 16 September 2025 heritage study puts lunch around 11:00–12:00 and the evening meal around 17:00–18:00. A night here is a village house after the day boats have gone back to Cửa Đại.",
+    "Hải Tạng stands in Xóm Cấm, facing the fields called Đồng Chùa. The founders’ hall, Đình Tiền Hiền, and the whale shrine, Lăng Ông Ngư, are in the same hamlet. The 1998–1999 dig found Cham, Chinese, and West Asian ceramics, and the heritage centre reads the hamlet as a Cham-period stop for trading ships from the 8th to the 10th century. National relic, 2006. The heritage page describes that dig as a past excavation.",
+    "The island visit fee is 70,000 VND per person per visit from 10 June 2026. The 2026 city tourism list adds 20,000 VND for sanitation and sells tickets from 07:00 to 16:00. The boat fare sits outside both figures."
+  ],
+  "figures": [
+    {
+      "id": "cham-islands-bai-lang-2",
+      "caption": "The same landing from the boat, with the yellow tower and the pier",
+      "alt": "The Bai Lang shore and a small pier, seen from the water, with a yellow tower and forested hill"
+    }
+  ],
+  "gettingThere": [
+    "Land at Bai Lang. The mainland boat leaves bến thủy nội địa Cửa Đại – Cù Lao Chàm. On 30 August 2023 the Border Guard described passengers from 08:00, a crowd from 08:00 to 10:00, and life jackets checked before a boat is cleared. The 2026 city tourism list sells the visit ticket from 07:00 to 16:00.",
+    "The city temple page puts Hải Tạng about 20 km from the Hoi An shore. The biodiversity agency says the commune is 18 km from Hoi An. Both distances are the crossing to this landing."
+  ],
+  "legs": [
+    {
+      "heading": "From Hoi An",
+      "body": "Boat from bến thủy nội địa Cửa Đại – Cù Lao Chàm to Bai Lang. The city temple page says about 20 km. The biodiversity agency says 18 km. Both stay."
+    },
+    {
+      "heading": "From Da Nang",
+      "body": "Da Nang International is VVDN on the civil-aviation AIP, southwest of the city and 3.2 km from the city centre. Go on to the Cửa Đại pier, then take the boat to Bai Lang."
+    }
+  ],
+  "hours": "Check on arrival. Ticket sales for the island visit run 07:00–16:00 on the 2026 city tourism list. That window is the ticket desk.",
+  "closed": "No weekly closing day was printed. Check on arrival.",
+  "admissionNote": "70,000 VND per person per visit from 10 June 2026, Resolution 16/2026/NQ-HĐND. The 2026 city tourism list, which calls its table a reference, adds 20,000 VND for island sanitation and sells tickets from 07:00 to 16:00. The resolution prints the visit fee. The sanitation line is on the city list. Both stay. A separate hamlet price is Check on arrival. The boat fare is Check on arrival.",
+  "links": [
+    {
+      "label": "Ranked halls in the hamlet",
+      "url": "https://hoianheritage.net/vi/trao-doi-chuyen-nganh/chuyen-de-nghien-cuu-trao-doi/gioi-thieu-mot-so-di-tich-xep-hang-cap-tinh-quoc-gia-o-cu-lao-cham-786.html",
+      "note": "Hội An heritage centre, 13 May 2019"
+    },
+    {
+      "label": "2026 tickets",
+      "url": "https://danangfantasticity.com/en/kham-pha/len-lich-kham-pha-da-nang-2026-cap-nhat-gia-ve-tham-quan-cac-diem-khu-du-lich",
+      "note": "Đà Nẵng tourism portal"
+    },
+    {
+      "label": "Visit fee, 2026",
+      "url": "https://mattran.danang.gov.vn/chi-tiet-tin/group/96/nid/18101/muc-thu-nop-quan-ly-va-su-dung-phi-tham-quan-cu-lao-cham-khu-du-tru-sinh-quyen-the-gioi-cu-lao-cham--hoi-an",
+      "note": "Resolution 16/2026/NQ-HĐND"
+    }
+  ],
+  "interests": ["islands"]
+}
