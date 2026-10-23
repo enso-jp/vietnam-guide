@@ -527,3 +527,27 @@ if (attractionStack && attractionMore) {
   revealHashedAttraction();
   window.addEventListener('hashchange', revealHashedAttraction);
 }
+
+const tripSearches = [...document.querySelectorAll<HTMLElement>('[data-trip-search]')];
+if (tripSearches.length) {
+  const fitTripSearch = (box: HTMLElement) => {
+    const frame = box.querySelector<HTMLElement>('.trip-search-fit');
+    const width = Number(box.dataset.tripWidth);
+    if (!frame || !width || !frame.clientWidth) return;
+    box.style.setProperty('--trip-scale', String(frame.clientWidth / width));
+  };
+  const resize = new ResizeObserver((entries) => entries.forEach((entry) => fitTripSearch(entry.target as HTMLElement)));
+  tripSearches.forEach((box) => {
+    fitTripSearch(box);
+    resize.observe(box);
+    box.classList.add('is-ready');
+  });
+  // The pickers open over the whole widget, so the cropped frame opens while the iframe has focus.
+  window.addEventListener('blur', () => {
+    setTimeout(() => {
+      const active = document.activeElement;
+      tripSearches.forEach((box) => box.classList.toggle('is-open', Boolean(active && box.contains(active))));
+    });
+  });
+  window.addEventListener('focus', () => tripSearches.forEach((box) => box.classList.remove('is-open')));
+}

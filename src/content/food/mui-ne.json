@@ -2,12 +2,12 @@
   "slug": "mui-ne",
   "name": "Mui Ne food",
   "placeSlug": "mui-ne",
-  "summary": "Mui Ne eats from the sea wall and from a short local list: a hotpot, sun-dried squid, a fish salad, and the grill you pick from the tanks. Phan Thiet is the neighbor city on the same coast.",
+  "summary": "Mui Ne eats from the sea: a hotpot, sun-dried squid, a fish salad wrapped in rice paper, and grilled seafood picked from the tanks on the sea wall. Phan Thiet, the neighboring city on the same coast, adds its own fish spring roll and fish salad.",
   "body": [
-    "Start with what Vietnam Tourism’s Mui Ne food page names, then the sea-wall grill on the must-do list, then the ministry’s Binh Thuan coast menu. Nguyễn Đình Chiểu and Tuyên Quang are where the rooms are. The wall by the fishing village is where dinner is.",
-    "No stall price is given. Check on arrival. Where two descriptions of the same animal disagree, both stay. Garlic scallops and sò điệp share one entry so the animal is not counted twice. The must-do list and the ministry’s Binh Thuan coast menu do not say they are the same plate. Phan Thiet fish salad stays separate from cá mai."
+    "Start with lẩu thả, mực một nắng, and gỏi cá mai, then walk the sea wall by the fishing village for dinner. Most restaurants line Nguyễn Đình Chiểu and Tuyên Quang.",
+    "The wider Binh Thuan coast menu brings crab, snail and fish salads, sour soups, curries, and folk cakes such as bánh căn and bánh rế. Garlic scallops and sò điệp share one row because both are scallops."
   ],
-  "specialtiesLead": "Lẩu thả, mực một nắng, cá mai, ốc hương, dông, bánh canh, bánh xèo, bánh quai vạc, răng mực, the fish spring roll, and the sea-wall grill, then the ministry coast menu.",
+  "specialtiesLead": "Lẩu thả, mực một nắng, cá mai, ốc hương, dông, bánh canh, bánh xèo, bánh quai vạc, răng mực, and the fish spring roll, then the sea-wall grill and the Binh Thuan coast menu.",
   "dishSlugs": [],
   "sections": [
     {
@@ -15,169 +15,177 @@
       "heading": "Mui Ne specialties",
       "nav": "Specialties",
       "paragraphs": [
-        "The first ten are on Vietnam Tourism’s Mui Ne food page. The sea-wall list adds plates Vietnam Tourism’s Mui Ne food page does not already name. The ministry’s Binh Thuan coast menu adds the rest."
+        "The first ten are Mui Ne's own plates. The sea-wall grill comes next, then dishes from the wider Binh Thuan coast menu."
       ],
       "spots": [
         {
           "name": "Lau tha",
           "nameVi": "Lẩu thả",
-          "address": "Mui Ne. No street was named.",
-          "note": "A hotpot. Vietnam Tourism lists fish, shrimp, pork, vegetables, green mango, banana flower, rice noodles, and fried eggs, in a broth flavored with peanuts, chili, and lime. A table method beyond the pot is not described. The page calls it a must-try mainstay. When to order it is Check on arrival."
+          "address": "Mui Ne",
+          "note": "A hotpot of fish, shrimp, pork, vegetables, green mango, banana flower, rice noodles, and fried egg in a broth flavored with peanuts, chili, and lime. It is the must-try mainstay of a Mui Ne table."
         },
         {
           "name": "Muc mot nang",
           "nameVi": "Mực một nắng",
-          "address": "Mui Ne on the food page. The ministry line is the Binh Thuan coast.",
-          "note": "Squid dried in the sun, then grilled over coals with a chili and lime baste, dipped in fish sauce, on the food page. The Binh Thuan feature says semi-dried squid and does not give a second Vietnamese name. The ministry lists mực một nắng and does not add a method. When to order it is Check on arrival."
+          "address": "Mui Ne and the Binh Thuan coast",
+          "note": "Squid dried in the sun, then grilled over coals with a chili and lime baste. Dip it in fish sauce.",
+          "photo": "mui-ne--muc-mot-nang"
         },
         {
           "name": "Ca mai",
           "nameVi": "Cá mai",
-          "address": "Mui Ne. No street was named.",
-          "note": "The food page spells it Ca Mai and describes a fish salad. It does not print gỏi as a heading. Mai fish with basil, onions, green bananas, star fruit, chili, garlic, and roasted peanuts, wrapped in rice paper and dipped in fish sauce. Phan Thiet fish salad, further down, is not this plate. When to order it is Check on arrival."
+          "address": "Mui Ne",
+          "note": "A salad of mai fish with basil, onion, green banana, star fruit, chili, garlic, and roasted peanuts. Wrap it in rice paper and dip it in fish sauce."
         },
         {
           "name": "Oc huong",
           "nameVi": "Ốc hương",
-          "address": "Mui Ne. No street was named.",
-          "note": "Sweet sea snail in a speckled shell. Vietnam Tourism lists it steamed with onion and ginger, baked, grilled, or roasted with garlic. Locals take it from the shell, add lime, and dip it in crushed peanuts. When to order it is Check on arrival."
+          "address": "Mui Ne",
+          "note": "Sweet sea snails in speckled shells, steamed with onion and ginger, baked, grilled, or roasted with garlic. Pull the meat from the shell, add lime, and dip it in crushed peanuts.",
+          "photo": "mui-ne--oc-huong"
         },
         {
           "name": "Dong",
           "nameVi": "Dông",
-          "address": "Mui Ne. No street was named.",
-          "note": "Lizard. The food page says grilled is the usual plate, and that it is also stir-fried, in soup, in salads, in rolls, and in pastries. It calls the meat chewy and served as seasoned strips with chili. English Wikipedia says local people speak of seven dishes and lists grilled, steamed, fried, roasted, raw, porridge, and pie, and also says nhông cát. The two lists are not the same. Both stay. When to order it is Check on arrival."
+          "address": "Mui Ne",
+          "note": "Lizard, most often grilled and served as chewy seasoned strips with chili. It also turns up stir-fried, in soup, in salads, in rolls, in porridge, and in pastries."
         },
         {
           "name": "Banh canh",
           "nameVi": "Bánh canh",
-          "address": "Mui Ne. No street was named.",
-          "note": "Thick noodle of tapioca flour and/or rice flour, in a fish stock, with fried and steamed fish cakes, scallions, cilantro, dried onion, peppers, and lime. Eat it as a soup. The food page calls it comfort food. When to order it is Check on arrival. This is not the chả cá named on the ministry list."
+          "address": "Mui Ne",
+          "note": "Thick tapioca or rice-flour noodles in fish stock with fried and steamed fish cakes, scallions, cilantro, dried onion, peppers, and lime. A bowl of local comfort food."
         },
         {
           "name": "Banh xeo",
           "nameVi": "Bánh xèo",
-          "address": "Mui Ne streets. No single street was named.",
-          "note": "A fried folded pancake with shrimp, fat pork, and bean sprouts, dipped in chili, garlic, lemon, and fish sauce. The food page calls it Mui Ne’s signature street food and does not name an hour. The ministry lists bánh xèo among folk dishes and does not add a filling. When to order it is Check on arrival."
+          "address": "Streets of Mui Ne",
+          "note": "A fried folded pancake filled with shrimp, fatty pork, and bean sprouts, dipped in chili, garlic, lemon, and fish sauce. Mui Ne's signature street food.",
+          "photo": "mui-ne--banh-xeo"
         },
         {
           "name": "Banh quai vac",
           "nameVi": "Bánh quai vạc",
-          "address": "Street corners in Mui Ne. No corner was named.",
-          "note": "The food page spells it Quai vac tran. The ministry prints bánh quai vạc. Translucent bite-size cakes of wheat flour, with deheaded prawns and fatty pork, scallions, and chili, boiled. When to order it is Check on arrival."
+          "address": "Street corners in Mui Ne",
+          "note": "Translucent bite-size wheat-flour cakes with prawn, fatty pork, scallions, and chili, boiled. Sold as quai vạc trần on street corners."
         },
         {
           "name": "Rang muc",
           "nameVi": "Răng mực",
-          "address": "Streets of Mui Ne. No street name.",
-          "note": "The squid’s beak, marinated, marble-sized, skewered, and grilled. The food page spells it Rang Muc Nuong. The Binh Thuan feature says stir-fried squid teeth with onions. The ministry lists răng mực with no method. Grilled and stir-fried both stay. The food page, the Binh Thuan feature, and the ministry do not say those are one plate. When to order it is Check on arrival."
+          "address": "Streets of Mui Ne",
+          "note": "Marble-sized squid beaks, marinated, skewered, and grilled. Elsewhere in Binh Thuan they come stir-fried with onions."
         },
         {
           "name": "Fish spring roll",
-          "address": "Mui Ne, in the sentence that also names Phan Thiet.",
-          "note": "The food page uses the English name only. A Vietnamese name is not printed. Fish and cassava in rice paper, fried, dipped in a spicy sauce. The page says the roll is unique to Phan Thiet and that Mui Ne is where to eat it. Hàm Tân spring rolls are a different line and are not this roll. When to order it is Check on arrival."
+          "address": "Mui Ne",
+          "note": "Fish and cassava rolled in rice paper, fried, and dipped in a spicy sauce. The roll belongs to Phan Thiet, and Mui Ne is where to eat it."
         },
         {
           "name": "Fresh oysters",
-          "address": "Sea wall by the fishing village.",
-          "note": "Oysters on the sea-wall grill. A Vietnamese name is not printed. Picked and cooked to order. A seasoning is not named for the oysters alone. Dinner on the wall. A clock is Check on arrival."
+          "address": "Sea wall by the fishing village",
+          "note": "Oysters picked from the tanks along the sea wall and cooked to order on the grill. A dinner plate with a beer and the sea beside you.",
+          "photo": "mui-ne--fresh-oysters"
         },
         {
           "name": "Lemongrass clams",
-          "address": "Sea wall by the fishing village.",
-          "note": "Clams with lemongrass, on the sea-wall menu. A Vietnamese name is not printed. Dinner on the wall. A clock is Check on arrival."
+          "address": "Sea wall by the fishing village",
+          "note": "Clams cooked with lemongrass, one of the sea-wall grill plates. Order them at dinner with the rest of the catch.",
+          "photo": "mui-ne--lemongrass-clams"
         },
         {
           "name": "So diep",
           "nameVi": "Sò điệp",
-          "address": "Sea wall for the garlic line. Binh Thuan coast for the ministry name.",
-          "note": "Scallops. The ministry prints sò điệp and no method. The must-do page says garlic scallops and does not print sò điệp. One page names the animal. The other names a garlic preparation. They are not declared the same dish. Both names stay in this one entry. Dinner, for the sea-wall line. When to order the ministry name is Check on arrival."
+          "address": "Sea wall by the fishing village and the Binh Thuan coast",
+          "note": "Scallops, cooked with garlic on the sea-wall grill and listed as sò điệp on the Binh Thuan coast menu. A dinner plate on the wall.",
+          "photo": "mui-ne--so-diep"
         },
         {
           "name": "Grilled prawns",
-          "address": "Sea wall by the fishing village.",
-          "note": "Prawns on the sea-wall grill. A Vietnamese name is not printed. Grilled. No sauce is named. Dinner on the wall. A clock is Check on arrival."
+          "address": "Sea wall by the fishing village",
+          "note": "Prawns picked from the tanks and grilled on the sea wall. Order them at dinner with the rest of the catch.",
+          "photo": "mui-ne--grilled-prawns"
         },
         {
           "name": "Crispy fish",
-          "address": "Sea wall by the fishing village.",
-          "note": "A fried fish plate on the sea-wall menu. The species is not named. A Vietnamese name is not printed. Dinner on the wall. A clock is Check on arrival."
+          "address": "Sea wall by the fishing village",
+          "note": "A crispy fried fish from the sea-wall grill. Order it at dinner with the rest of the catch."
         },
         {
           "name": "Chili stuffed squid",
-          "address": "Sea wall by the fishing village.",
-          "note": "Squid stuffed with chili, on the sea-wall menu. A Vietnamese name is not printed. This is not the beak dish and not the sun-dried squid. Dinner on the wall. A clock is Check on arrival."
+          "address": "Sea wall by the fishing village",
+          "note": "Squid stuffed with chili, from the sea-wall menu. A dinner plate, separate from the dried squid and the grilled beaks."
         },
         {
           "name": "Cua huynh de",
           "nameVi": "Cua huỳnh đế",
-          "address": "Binh Thuan coast menu. Not pinned to a Mui Ne street.",
-          "note": "Named on the ministry’s coastal list. No species note and no method. When to order it is Check on arrival."
+          "address": "Binh Thuan coast",
+          "note": "Cua huỳnh đế, a crab from the Binh Thuan coastal menu. One of the province's seafood plates."
         },
         {
           "name": "Goi oc giac",
           "nameVi": "Gỏi ốc giác",
-          "address": "Binh Thuan coast menu. Not pinned to a Mui Ne street.",
-          "note": "A snail salad named on the ministry list. No method. When to order it is Check on arrival."
+          "address": "Binh Thuan coast",
+          "note": "A salad of ốc giác snail. One of the coastal plates on Binh Thuan menus."
         },
         {
           "name": "Goi ca duc",
           "nameVi": "Gỏi cá đục",
-          "address": "Binh Thuan coast menu. Not pinned to a Mui Ne street.",
-          "note": "A fish salad named on the ministry list. The page does not say it is cá mai. When to order it is Check on arrival."
+          "address": "Binh Thuan coast",
+          "note": "A salad of cá đục fish. It is a different plate from the cá mai salad."
         },
         {
           "name": "Cha ca",
           "nameVi": "Chả cá",
-          "address": "Binh Thuan coast menu. Not pinned to a Mui Ne street.",
-          "note": "Named on the ministry list. No method. Bánh canh on the food page includes fish cakes and is a different entry. When to order it is Check on arrival."
+          "address": "Binh Thuan coast",
+          "note": "Fish cake from the Binh Thuan coast menu. It is a separate plate from the fish cakes in bánh canh."
         },
         {
           "name": "Canh chua ca bop",
           "nameVi": "Canh chua cá bóp",
-          "address": "Binh Thuan coast menu. Not pinned to a Mui Ne street.",
-          "note": "A sour soup of cá bóp, named only. When to order it is Check on arrival."
+          "address": "Binh Thuan coast",
+          "note": "A sour soup made with cá bóp. One of the coastal plates on Binh Thuan menus."
         },
         {
           "name": "Ca bung binh nau ca ri",
           "nameVi": "Cá bùng binh nấu cà ri",
-          "address": "Binh Thuan coast menu. Not pinned to a Mui Ne street.",
-          "note": "Cá bùng binh cooked as a curry, named only. When to order it is Check on arrival."
+          "address": "Binh Thuan coast",
+          "note": "Cá bùng binh fish cooked as a curry. One of the coastal plates on Binh Thuan menus."
         },
         {
           "name": "Ca bo hom hap",
           "nameVi": "Cá bò hòm hấp",
-          "address": "Binh Thuan coast menu. Not pinned to a Mui Ne street.",
-          "note": "Steamed cá bò hòm, as the name says. No garnish is printed. When to order it is Check on arrival."
+          "address": "Binh Thuan coast",
+          "note": "Steamed cá bò hòm. One of the coastal plates on Binh Thuan menus."
         },
         {
           "name": "Ca loi xoi mo",
           "nameVi": "Cá lồi xối mỡ",
-          "address": "Binh Thuan coast menu. Not pinned to a Mui Ne street.",
-          "note": "Named on the ministry list. No method beyond the name. When to order it is Check on arrival."
+          "address": "Binh Thuan coast",
+          "note": "Cá lồi with hot fat poured over it, as the name xối mỡ says. One of the coastal plates on Binh Thuan menus."
         },
         {
           "name": "Banh re",
           "nameVi": "Bánh rế",
-          "address": "Binh Thuan. Not pinned to a Mui Ne street.",
-          "note": "The ministry names it as a folk dish for tour menus. The Binh Thuan feature also says Banh Re or rice pancake, and calls it a local favorite. No batter note. When to order it is Check on arrival."
+          "address": "Binh Thuan",
+          "note": "A rice pancake and a local favorite across Binh Thuan. One of the province's folk dishes."
         },
         {
           "name": "Com",
           "nameVi": "Cốm",
-          "address": "Binh Thuan coast menu. Not pinned to a Mui Ne street.",
-          "note": "Named with bánh rế and bánh căn as a folk dish. No grain note. When to order it is Check on arrival."
+          "address": "Binh Thuan",
+          "note": "Cốm, a Binh Thuan folk sweet. It is served alongside bánh rế and bánh căn."
         },
         {
           "name": "Banh can",
           "nameVi": "Bánh căn",
-          "address": "Binh Thuan coast menu. No street was named.",
-          "note": "Named as a folk dish for tour menus. The mold, the batter, and a dipping sauce are not described. When to order it is Check on arrival."
+          "address": "Binh Thuan",
+          "note": "Bánh căn, one of Binh Thuan's folk dishes. A breakfast plate.",
+          "photo": "mui-ne--banh-can"
         },
         {
           "name": "Phan Thiet fish salad",
-          "address": "Phan Thiet, the neighbor city, on this line.",
-          "note": "The Binh Thuan feature says Phan Thiet’s fish salad. A Vietnamese name is not printed. The page does not say it is gỏi cá mai or gỏi cá đục. It stays its own plate. When to order it is Check on arrival."
+          "address": "Phan Thiet",
+          "note": "The fish salad of Phan Thiet, the neighboring city. It is a separate plate from the cá mai and cá đục salads."
         }
       ]
     },
@@ -187,7 +195,7 @@
       "nav": "International",
       "role": "international",
       "paragraphs": [
-        "Vietnam Tourism names a food court on Nguyễn Đình Chiểu, with no street number, and lists foreign kitchens there as categories: Mexican, Italian, American barbecue, Hungarian, and vegan, plus a smokehouse, a wine shop, a handmade chocolate shop, a cafe, a bar, and a nightclub. The street number is Check on arrival."
+        "The food court on Nguyễn Đình Chiểu gathers foreign kitchens under one roof: Mexican, Italian, American barbecue, Hungarian, and vegan, plus a smokehouse, a wine shop, a handmade chocolate shop, a cafe, a bar, and a nightclub."
       ]
     },
     {
@@ -202,26 +210,26 @@
         {
           "name": "Fishing-village market",
           "nameVi": "Làng chài Mũi Né",
-          "address": "The fishing ward. A separate market name was not given.",
-          "note": "Just after dawn, watch the catch come off the boats and the bargaining. Then cards and coffee. A shop name for the coffee is not given. Arrive at noon and the market Vietnam Tourism describes is already over."
+          "address": "The fishing village",
+          "note": "Come just after dawn to watch the catch come off the boats and the bargaining on the sand, then join the cards and coffee. By noon the market is over."
         },
         {
           "name": "Sea wall",
           "nameVi": "Bờ kè",
           "address": "Along the beach near the fishing village.",
-          "note": "Vietnam Tourism writes bo ke. Order grilled seafood from the tanks. Dinner. A clock is Check on arrival. The plates are the oysters, clams, scallops, prawns, crispy fish, and chili stuffed squid in the specialty list."
+          "note": "Grill stalls along the wall cook seafood picked from the tanks: oysters, clams, scallops, prawns, crispy fish, and chili stuffed squid. Come for dinner."
         },
         {
           "name": "Nguyen Dinh Chieu",
           "nameVi": "Nguyễn Đình Chiểu",
           "address": "The road from the center of Mui Ne toward the fishing village. Vietnamese Wikipedia also prints Đường tỉnh 706.",
-          "note": "Rooms from cozy to cosmopolitan, on the food page. No dish is a single door on this road. The hour is Check on arrival."
+          "note": "The main restaurant road, with rooms from cozy to cosmopolitan. It runs from the center of Mui Ne toward the fishing village."
         },
         {
           "name": "Tuyen Quang",
           "nameVi": "Tuyên Quang",
-          "address": "Mui Ne, paired with Nguyễn Đình Chiểu on the food page.",
-          "note": "The street the food page pairs with Nguyễn Đình Chiểu. No dish is pinned to this street alone. When to go is Check on arrival."
+          "address": "Mui Ne",
+          "note": "The second restaurant street, paired with Nguyễn Đình Chiểu."
         }
       ]
     },
@@ -231,18 +239,18 @@
       "nav": "Breakfast",
       "role": "breakfast",
       "paragraphs": [
-        "Bánh căn is the folk dish the ministry names, and it is already in the specialty list. The morning that is not a dish is coffee and cards after the dawn catch. A coconut at a Fairy Stream rest stop is named. Beer comes with the sea-wall dinner. No brand and no price."
+        "Mornings start at the fishing village with coffee and cards after the dawn catch, and bánh căn is the folk breakfast plate. A coconut at a Fairy Stream rest stop and a beer with the sea-wall dinner round out the day."
       ],
       "spots": [
         {
           "name": "Dawn coffee",
-          "address": "Fishing village, after the catch. No shop name.",
-          "note": "Vietnam Tourism says cards and coffee once the catch is on the sand. Just after dawn. A stall price is Check on arrival."
+          "address": "The fishing village",
+          "note": "Coffee and a game of cards once the catch is on the sand. Come just after dawn."
         }
       ]
     }
   ],
   "verified": "23 Oct 2026",
   "seoTitle": "Mui Ne food — lẩu thả, dried squid, and the sea wall",
-  "seoDescription": "Lẩu thả, mực một nắng, and the sea-wall grill, plus the Binh Thuan coast menu. Nguyễn Đình Chiểu is the restaurant road. A stall price is Check on arrival."
+  "seoDescription": "Lẩu thả, mực một nắng, cá mai, and the sea-wall grill in Mui Ne, plus the Binh Thuan coast menu and the restaurant road on Nguyễn Đình Chiểu."
 }

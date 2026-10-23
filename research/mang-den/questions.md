@@ -17,4 +17,4 @@ Checked against the stored dossier on 23 Oct 2026. No new fee search.
 - Whether măng le and măng rừng are one bamboo shoot. Same gap.
 - What cơm làng is, beyond the visitor’s name on Báo Kon Tum.
 - Weekend-market opening hour, and every specialty price: Check on arrival.
-- A licensed photo of each dish: none filed. Rows use the monogram.
+- A licensed photo of each dish: filed 23 Oct 2026 for grilled chicken, cơm lam, thịt xiên, fried crickets, forest banana salad, coffee, rượu cần, trâu gác bếp, cua nướng, and hạt kơ nia (Wikimedia Commons, credits in `public/photos/credits.json`). Still monogram, no Commons photo of that dish: heo làng nướng, cá nướng, porcupine, vegetable salad, khổ qua rừng, cà đắng, măng rừng, măng le, thịt heo hun khói, bò khô, bánh sừng trâu, bánh nếp, hạt dẻ, cơm làng.

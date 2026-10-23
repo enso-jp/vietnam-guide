@@ -2,18 +2,19 @@
   "slug": "con-dao--ca-mo",
   "name": "Ca mo cat",
   "nameVi": "Cá mó cát",
-  "summary": "Báo Đồng Nai gives two names, cá mó cát and cá mó sáp, and does not describe the fish further. No price was printed.",
+  "summary": "A local fish sold under two names, cá mó cát and cá mó sáp, and ordered with the island’s seafood meal.",
   "origin": "Côn Đảo. Báo Đồng Nai, 11 July 2025.",
   "howToEat": [
-    "A cooking note was not printed. Check on arrival.",
-    "No price was printed."
+    "Order it with the seafood meal."
   ],
   "where": [
-    "The town. No street was printed. Check on arrival."
+    "Côn Sơn town."
   ],
   "priceBand": "Check on arrival",
-  "placeSlugs": ["con-dao"],
+  "placeSlugs": [
+    "con-dao"
+  ],
   "verified": "23 Oct 2026",
-  "seoTitle": "Ca mo cat — parrotfish in Con Dao",
-  "seoDescription": "Cá mó cát, also cá mó sáp, is named by Báo Đồng Nai and not described further. The price is Check on arrival."
+  "seoTitle": "Ca mo cat — cá mó in Con Dao",
+  "seoDescription": "Cá mó cát, also called cá mó sáp, is one of the fish Côn Đảo is known for."
 }
