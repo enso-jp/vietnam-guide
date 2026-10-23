@@ -5,7 +5,7 @@
   "summary": "Sa Pa eats for a cold evening: thắng cố with rượu ngô, skewers on the grills by hồ Sa Pa, and salmon at Thác Bạc. Saturday evening belongs to the market square by the stone church.",
   "body": [
     "Eat Sa Pa as the high town, not as a second Hanoi. The stew is thắng cố, horse or buffalo with the offal, drunk with rượu ngô; the cold-night plate is the grill by the lake; the salmon comes from Thác Bạc, about 12 km toward Ô Quy Hồ.",
-    "Hours move with the season, and listings often disagree. Where two figures exist, both are below."
+    "Hours move with the season. When a door lists two clocks or two prices, both are on that door."
   ],
   "specialtiesLead": "Highland stew, cold-night grills, salmon from the falls, and the cakes and home dishes of the villages.",
   "dishSlugs": [
@@ -102,8 +102,7 @@
           "name": "Com lam",
           "nameVi": "Cơm lam",
           "note": "Sticky rice cooked in bamboo, sold at the Silver Waterfall stalls and on the town grills. Peel the tube to eat.",
-          "dishSlug": "sapa--com-lam",
-          "photo": "sapa--com-lam"
+          "dishSlug": "sapa--com-lam"
         },
         {
           "name": "Grilled salmon",
@@ -205,8 +204,7 @@
           "name": "Grilled sweet potato",
           "nameVi": "Khoai lang nướng",
           "note": "Sweet potato roasted on the falls-stall grill beside the corn and eggs.",
-          "dishSlug": "khoai-lang-nuong",
-          "photo": "khoai-lang-nuong"
+          "dishSlug": "khoai-lang-nuong"
         },
         {
           "name": "Cap nach pork",
