@@ -9,21 +9,14 @@
   "budget": "Check on arrival",
   "pace": "Unhurried",
   "photo": "my-tho",
-  "summary": "Hủ tiếu, the morning boat to Thới Sơn, Chùa Vĩnh Tràng, and the statue in vườn hoa Lạc Hồng. The pagoda visit is 120 minutes. The bowl, the boat, and the statue have no timed visit. The boat fare is check on arrival.",
+  "summary": "Hủ tiếu, Chùa Vĩnh Tràng, and the statue in vườn hoa Lạc Hồng. The pagoda visit is 120 minutes. Thới Sơn is the morning boat, on its own page. The time on the islet and the boat fare are Check on arrival.",
   "stops": [
     {
       "name": "Hu tieu My Tho",
       "minutes": 40,
       "placeSlug": "my-tho",
       "dishSlug": "hu-tieu-my-tho",
-      "note": "Breakfast, lunch, or supper. Dry, or with the broth. No page prints how long the bowl takes. The 40 minutes are not a published duration. The price is check on arrival."
-    },
-    {
-      "name": "Thoi Son islet",
-      "minutes": 180,
-      "placeSlug": "my-tho",
-      "attractionSlug": "thoi-son",
-      "note": "Morning boat from 01 Hoàng Sa, then a sampan in the nipa. The 180 minutes are not a published duration. The fare is check on arrival."
+      "note": "Breakfast, lunch, or supper. Dry, or with the broth. The 40 minutes are a planning block. How long the bowl takes, and the price, are Check on arrival."
     },
     {
       "name": "Vinh Trang Pagoda",
@@ -37,9 +30,9 @@
       "minutes": 15,
       "placeSlug": "my-tho",
       "attractionSlug": "thu-khoa-huan",
-      "note": "The pin of the embankment, late afternoon. The dossier calls it a few minutes, not a clock. The 15 minutes are not a published duration. The fee is check on arrival."
+      "note": "The pin of the embankment, late afternoon. The 15 minutes are a planning block. The time and the fee are Check on arrival."
     }
   ],
   "seoTitle": "My Tho in a day — bowl, pagoda, embankment",
-  "seoDescription": "A My Tho day: hủ tiếu, the morning boat to Thoi Son, 120 minutes at Vinh Trang, and the statue on the embankment. Boat fare and the bowl price are check on arrival."
+  "seoDescription": "A My Tho day: hủ tiếu, 120 minutes at Vinh Trang, and the statue on the embankment. Thoi Son is the morning boat. The time on the islet, the boat fare, and the bowl price are Check on arrival."
 }
