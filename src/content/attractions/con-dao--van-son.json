@@ -1,0 +1,56 @@
+{
+  "slug": "van-son",
+  "placeSlug": "con-dao",
+  "name": "Van Son Pagoda",
+  "nameVi": "Vân Sơn tự",
+  "kicker": "The island’s only pagoda, on Núi Một",
+  "summary": "Pagoda on Núi Một, 1.6 km from town: walk the halls from 07:00 to 18:00. It is the only Buddhist pagoda on the island, on grounds of 19,434 square metres. A provincial historic and scenic ranking dates from 4 December 2009. The restored halls were finished in April 2011, and also on 3 December 2011.",
+  "dots": 4,
+  "timeNeeded": "A stop on the hill",
+  "fee": "Check on arrival",
+  "getThere": "About 1.6 km from Côn Sơn town, on the slope of Núi Một.",
+  "district": "Núi Một",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The bell pavilion at Vân Sơn, with the bay behind the tiled roof",
+  "notice": {
+    "title": "Leave the monkeys unfed",
+    "body": "Skip feeding or teasing the wildlife, and skip burning votive paper on the grounds. Dress for a hall."
+  },
+  "body": [
+    "You walk the only Buddhist pagoda on the island, on the slope of Núi Một, about 1.6 km from Côn Sơn town. The grounds cover 19,434 square metres. The hall was founded in 1964 for the families of the island’s administrators and soldiers, under deputy province chief Trần Văn Khỏe, and also as a hermitage under Hòa thượng Thích Tâm Giác. The altar is given as Thích Ca, Quan Âm, Quan Thánh, and Thiên Hậu, and also as Thích Ca, Quan Âm, and Địa Tạng. It stood until May 1975, then lost its rear roof, its doors, and its objects. Islanders later used the ground for Buddhist worship again.",
+    "The bell pavilion looks over the bay, and the wooden hall sits beside it under a tiled roof. A provincial historic and scenic ranking, Decision 4025/QĐ-UBND, dates from 4 December 2009. A small repair had already been agreed in July 2000. The restoration finished in April 2011, and also on 3 December 2011. On the first and fifteenth of the lunar month, and on Buddhist festival days, people come to offer incense.",
+    "The gate is open from 07:00 to 18:00 every day. Give the hill a stop of its own after the camps, while the light is still on the bay."
+  ],
+  "figures": [
+    {
+      "id": "con-dao-van-son-2",
+      "caption": "The wooden hall, with the tiled roof and the steps up from the terrace",
+      "alt": "The wooden hall of Van Son Pagoda under a curved tiled roof, with steps and a palm"
+    }
+  ],
+  "gettingThere": [
+    "The pagoda is on the slope of Núi Một, about 1.6 km from Côn Sơn town."
+  ],
+  "legs": [
+    {
+      "heading": "From Côn Sơn town",
+      "body": "About 1.6 km from Côn Sơn town to the slope of Núi Một."
+    }
+  ],
+  "hours": "07:00–18:00",
+  "closed": "Open every day.",
+  "admissionNote": "The grounds cover 19,434 square metres. Dress for worship, leave the monkeys unfed, and leave votive paper unburned.",
+  "links": [
+    {
+      "label": "Vân Sơn tự",
+      "url": "https://condao.com.vn/vi/news/diem-du-lich/van-son-tu-khong-gian-tam-linh-thanh-tinh-giua-con-dao-2580.html",
+      "note": "Hours, area, and the 1964 founding"
+    },
+    {
+      "label": "Núi Một pagoda",
+      "url": "https://condao.com.vn/en/news/local-news/nui-mot-pagoda-relic-833.html",
+      "note": "1.6 km from town, and the opening"
+    }
+  ],
+  "interests": ["pagodas"]
+}

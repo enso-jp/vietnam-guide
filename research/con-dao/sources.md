@@ -148,3 +148,45 @@ Accessed 21 Oct 2026 unless a line says otherwise. A fee or an hour with one pub
 - Publisher: Vietnam.vn, byline Việt Nam, 24 May 2024. No newspaper URL on the account.
 - Accessed: 23 Oct 2026
 - Supports: a roundup that names cháo hàu, bún riêu Hai Khiêm, bánh xèo, ốc tai tượng, yến sào, sâm đất, rượu sâm, and rượu nho rừng, plus prices. Hạt bàng is printed at 200,000–280,000 đồng per kilogram, which conflicts with S14 at 250,000–400,000. Not used as a public number. Dishes that appear only here stay off the public guide.
+
+### S25
+- URL: https://condao.com.vn/vi/news/diem-du-lich/van-son-tu-khong-gian-tam-linh-thanh-tinh-giua-con-dao-2580.html
+- Publisher: Cổng thông tin đặc khu Côn Đảo, 18 Dec 2025
+- Accessed: 23 Oct 2026
+- Supports: Vân Sơn tự, only pagoda, Núi Một, 19,434 m², founded 1964 under Trần Văn Khỏe, hours 07:00–18:00, Decision 4025/QĐ-UBND of 4 Dec 2009, restoration finished 3 Dec 2011. See `attractions/van-son.md` for the conflicting founder and April 2011 finish.
+
+### S26
+- URL: https://condao.com.vn/en/news/local-news/nui-mot-pagoda-relic-833.html
+- Publisher: Cổng thông tin đặc khu Côn Đảo, 13 Oct 2020
+- Accessed: 23 Oct 2026
+- Supports: about 1.6 km from Côn Sơn town; restored 13 Aug 2010; inaugurated 3 Dec 2011
+
+### S27
+- URL: https://condao.com.vn/vi/news/Tin-tuc/chua-van-son-dau-an-tam-linh-giua-bien-troi-con-dao-2343.html
+- Publisher: Cổng thông tin đặc khu Côn Đảo, 24 Feb 2025
+- Accessed: 23 Oct 2026
+- Supports: conflicting account, Thích Tâm Giác and an April 2011 finish; 2 m Quan Âm; Decision 4025
+
+### S28
+- URL: https://www.condao.com.vn/vi/store/dia-diem-du-lich/Chua-Nui-Mot.html
+- Publisher: Cổng thông tin đặc khu Côn Đảo, store listing
+- Accessed: 23 Oct 2026
+- Supports: prisoner-labor account of the 1964–65 build; Mai Văn Xinh, 1 May 1965; bell tower and other components; nearly 100 billion VND; 19,434 m²; finish 3 Dec 2011
+
+### S29
+- URL: https://condao.com.vn/vi/news/Tin-tuc/an-son-mieu-khong-gian-tin-nguong-dac-sac-trong-doi-song-van-hoa-con-dao-2573.html
+- Publisher: Cổng thông tin đặc khu Côn Đảo, 16 Dec 2025
+- Accessed: 23 Oct 2026
+- Supports: An Sơn miếu at khu dân cư số 3, đường Hoàng Phi Yến; about 2 km southwest; hall built 1958; hours 07:00–19:00; anniversary span 16–18/10 lunar and giỗ on 18/10; Miếu Cậu at Cỏ Ống
+
+### S30
+- URL: https://condao.com.vn/en/news/local-news/lady-phi-yen-temple-an-son-temple-relic-835.html
+- Publisher: Cổng thông tin đặc khu Côn Đảo, 13 Oct 2020
+- Accessed: 23 Oct 2026
+- Supports: about 2 km southwest; Decision 1442/QĐ-UB of 18 Apr 2007; rite on 18/10 lunar
+
+### S31
+- URL: https://condao.com.vn/en/news/historical-sites/an-son-temple-235.html
+- Publisher: Cổng thông tin đặc khu Côn Đảo, 27 May 2019
+- Accessed: 23 Oct 2026
+- Supports: first shrine 1785, destroyed 1861, rebuilt 1958

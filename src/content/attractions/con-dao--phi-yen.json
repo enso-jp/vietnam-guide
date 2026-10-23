@@ -1,0 +1,56 @@
+{
+  "slug": "phi-yen",
+  "placeSlug": "con-dao",
+  "name": "Phi Yen temple",
+  "nameVi": "An Sơn miếu",
+  "kicker": "The town shrine for Phi Yến",
+  "summary": "Temple for Phi Yến in town: offer incense from 07:00 to 19:00 on đường Hoàng Phi Yến. The hall is about 2 km southwest of the centre, built in 1958 on the older shrine ground. The anniversary is the 16th through the 18th of the 10th lunar month, or the 17th and 18th.",
+  "dots": 4,
+  "timeNeeded": "A short stop in town",
+  "fee": "Check on arrival",
+  "getThere": "Đường Hoàng Phi Yến, khu dân cư số 3, about 2 km southwest of the centre.",
+  "district": "The town",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The courtyard, the yellow basin, and the tiled hall of An Sơn miếu",
+  "notice": {
+    "title": "Leave votive paper unburned",
+    "body": "The relic asks for a green offering basket. Burning votive paper is off the grounds."
+  },
+  "body": [
+    "You offer incense at An Sơn miếu, the small hall for Phi Yến on đường Hoàng Phi Yến, khu dân cư số 3, about 2 km southwest of the centre. The local name for her is Lê Thị Răm. The same hall also remembers Đô đốc Ngọc Lân and prince Hội An, called hoàng tử Cải. The standing hall was built in 1958 on the older shrine ground, after the earlier building had collapsed. Decision 1442/QĐ-UBND of 18 April 2007 ranks it a provincial historic relic.",
+    "The courtyard holds a yellow basin and a tiled roof under the trees. The incense burner sits in front of the three doors. She died on the 18th of the 10th lunar month in 1785. The anniversary at this courtyard is the 16th through the 18th of that lunar month, or the 17th and 18th, and the rite is national intangible heritage. On the first and fifteenth of each lunar month, islanders and people who work the boats come to ask for a safe trip.",
+    "The gate is open from 07:00 to 19:00 every day. The prince’s grave and Miếu Cậu stay at Cỏ Ống, a separate stop from this courtyard. Dress for a shrine, and bring an offering that leaves no burned paper."
+  ],
+  "figures": [
+    {
+      "id": "con-dao-phi-yen-2",
+      "caption": "The incense burner in front of the three doors, under the 廟山安 board",
+      "alt": "A bronze incense burner in front of the yellow hall of An Son temple, with red lanterns"
+    }
+  ],
+  "gettingThere": [
+    "The temple is at khu dân cư số 3 on đường Hoàng Phi Yến, about 2 km southwest of the centre."
+  ],
+  "legs": [
+    {
+      "heading": "From Côn Sơn town",
+      "body": "About 2 km southwest of the centre, to đường Hoàng Phi Yến in khu dân cư số 3."
+    }
+  ],
+  "hours": "07:00–19:00",
+  "closed": "Open every day.",
+  "admissionNote": "The anniversary is the 16th through the 18th of the 10th lunar month, or the 17th and 18th. Dress for a shrine. Use a green offering basket, and leave votive paper unburned.",
+  "links": [
+    {
+      "label": "An Sơn miếu",
+      "url": "https://condao.com.vn/vi/news/Tin-tuc/an-son-mieu-khong-gian-tin-nguong-dac-sac-trong-doi-song-van-hoa-con-dao-2573.html",
+      "note": "Address, hours, and the 1958 hall"
+    },
+    {
+      "label": "Phi Yến anniversary",
+      "url": "https://bvhttdl.gov.vn/ba-ria-vung-tau-thu-hut-khach-du-lich-nho-phat-huy-gia-tri-di-san-20230825161149775.htm",
+      "note": "National intangible heritage"
+    }
+  ],
+  "interests": ["pagodas"]
+}

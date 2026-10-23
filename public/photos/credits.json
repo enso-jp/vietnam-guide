@@ -470,9 +470,9 @@
     "source": "https://commons.wikimedia.org/wiki/File:Ta_Van_Muong_Ha_vallei_(70294).jpg"
   },
   "tam-coc-three-caves": {
-    "author": "Rod Waddington from Kergunyah, Australia",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cave_Entrance,_Nth_Vietnam_(50004522516).jpg"
+    "author": "Ji-Elle",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tam_Coc-Travers%C3%A9e_de_la_grotte.jpg"
   },
   "hanoi-hoan-kiem": {
     "author": "P. Hughes",
@@ -3175,14 +3175,14 @@
     "source": "https://commons.wikimedia.org/wiki/File:B%C3%BAn_c%C3%A1_Nha_Trang.jpg"
   },
   "ho-chi-minh-city-nguyen-hue": {
+    "author": "Terrazzo",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nguyen_Hue_Pedestrian_Boulevard_(37163950285).jpg"
+  },
+  "ho-chi-minh-city-nguyen-hue-2": {
     "author": "Steffen Schmitz",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_City,_Nguyen_Hue_Street,_2020-01_CN-01.jpg"
-  },
-  "ho-chi-minh-city-nguyen-hue-2": {
-    "author": "choi kwangmo",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:20180413_215356Nguy%E1%BB%85n_Hu%E1%BB%87_Walking_Street.jpg"
   },
   "ho-chi-minh-city-notre-dame-2": {
     "author": "Diego Delso",
@@ -6813,5 +6813,25 @@
     "author": "Kien1980v",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Khu%C3%B4n_vi%C3%AAn_Nh%E1%BA%A5t_Tr%E1%BB%A5_t%E1%BB%B1,_2010_(1).jpg"
+  },
+  "con-dao-van-son": {
+    "author": "Tuderna",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:V%C3%A2n_S%C6%A1n_t%E1%BB%B1_C%C3%B4n_%C4%90%E1%BA%A3o_-_panoramio_(1).jpg"
+  },
+  "con-dao-van-son-2": {
+    "author": "Phương Huy",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Ch%C3%B9a_V%C3%A2n_S%C6%A1n_%E1%BB%9F_C%C3%B4n_%C4%90%E1%BA%A3o_(3).jpg"
+  },
+  "con-dao-phi-yen": {
+    "author": "ChieuTimViet",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mi%E1%BA%BFu_b%C3%A0_Phi_Y%E1%BA%BFn_-_C%C3%B4n_%C4%90%E1%BA%A3o_-_panoramio.jpg"
+  },
+  "con-dao-phi-yen-2": {
+    "author": "Phương Huy",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:An_S%C6%A1n_Mi%E1%BA%BFu_%E1%BB%9F_C%C3%B4n_%C4%90%E1%BA%A3o_n%C6%A1i_th%E1%BB%9D_b%C3%A0_Phi_Y%E1%BA%BFn.jpg"
   }
 }

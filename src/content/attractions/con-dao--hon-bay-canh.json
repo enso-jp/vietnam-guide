@@ -4,34 +4,35 @@
   "name": "Hon Bay Canh",
   "nameVi": "Hòn Bảy Cạnh",
   "kicker": "The nesting beach by boat",
-  "summary": "Boat about 45 minutes to the islet the English page calls the largest nesting beach. From the water you see the hill and a rocky shore. The long beach is not obvious in that view. Time ashore, the fare, and nesting months are Check on arrival.",
+  "summary": "Turtle nesting islet: boat about 45 minutes from the town jetty, then walk the long beach and the hill. A booked night runs 18:00–06:00, with at most 50 people at one site. The adult scenic fee is 60,000 VND. The boat fare is Check on arrival.",
   "dots": 4,
   "timeNeeded": "The boat, then the visit",
-  "fee": "60,000 VND scenic fee, plus the boat",
-  "getThere": "About 45 minutes by boat. The fare is Check on arrival.",
-  "verified": "22 Oct 2026",
-  "heroCaption": "Hòn Bảy Cạnh from the water: the hill and a rocky shore. The long beach is not obvious from here.",
-  "hours": "Night viewing, when booked, is 18:00–06:00. Nesting months are Check on arrival.",
-  "closed": "No weekly closing day was printed. Check on arrival.",
-  "admissionNote": "Adult scenic fee 60,000 VND on route 2 or 3 in the 2022 reprint. The 2017 night guide, 350,000–600,000 VND by group size, is extra if a ranger leads, and half if no turtle is seen. The boat fare was not printed. Check the boat on arrival.",
+  "fee": "60,000 VND scenic fee. Boat: Check on arrival",
+  "getThere": "About 45 minutes by boat from the town jetty.",
+  "district": "The islets",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Hòn Bảy Cạnh from the water: the hill and a rocky shore",
+  "hours": "Night viewing, when booked, is 18:00–06:00.",
+  "closed": "Check on arrival",
+  "admissionNote": "Adult scenic fee 60,000 VND on route 2 or 3. A night guide, when a ranger leads, is 350,000–600,000 VND by group size, and half if no turtle is seen. Hatchling release is 50,000 VND. The boat fare is Check on arrival.",
   "gettingThere": [
-    "The English tour page says about 45 minutes by boat from the tourism jetty and does not give a street. Time on the islet is Check on arrival.",
-    "The August 2025 notice also allows the night at Bãi Dương, Hòn Cau, Hòn Tài, Hòn Tre Lớn, and Bãi Đất Thắm. Cap 50 people at one site, in at most five groups of about 10. Outside guides do not give their own talk."
+    "The boat from the town jetty takes about 45 minutes.",
+    "The same night rules also cover Bãi Dương, Hòn Cau, Hòn Tài, Hòn Tre Lớn, and Bãi Đất Thắm. The cap is 50 people at one site, in at most five groups of about 10. Outside guides keep their own talk off the beach."
   ],
   "legs": [
     {
       "heading": "From Côn Sơn town",
-      "body": "Boat. About 45 minutes on the English park tour page. The fare was not printed. Check on arrival."
+      "body": "Boat from the town jetty. About 45 minutes. The boat fare is Check on arrival."
     }
   ],
   "links": [
     {
-      "label": "English tour page",
+      "label": "Park tours",
       "url": "https://www.condaopark.com.vn/en/service/tours-programs-42.html",
       "note": "45 minutes, the nesting beach, and the lighthouse figures"
     },
     {
-      "label": "Turtle notice, 18 Aug 2025",
+      "label": "National park",
       "url": "https://www.condaopark.com.vn/vn/thong-bao-ve-viec-quy-dinh-cac-hoat-dong-du-lich-trai-nghiem-xem-rua-bien-tai-vuon-quoc-gia-con-dao.html",
       "note": "Night window and caps"
     }
