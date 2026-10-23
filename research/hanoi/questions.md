@@ -15,6 +15,12 @@ Checked: 22 Oct 2026. Public fields that are still Check on arrival.
 - Flag ceremony. S10 prints 6:00 and 21:00. S7 does not restate the clocks.
 - Weekend pedestrian streets. One VnExpress report. No official clock in this pass.
 - Pho breakfast clock.
+- Hours for the specialties added 23 Oct 2026. No clock was printed. Public hours stay Check on arrival.
+- A Hanoi bánh mì filling. S34 names the sandwich and does not list what goes in it.
+- Vietnamese names for the Hàng Đào night-market foods S29 calls snail meatballs, grilled quail, and cured pork sausage. Left off until a source prints the Vietnamese.
+- Vietnamese name for the barbecue chicken and honey bread S31 places on Lý Văn Phức. Left off.
+- Giò, trà sen, and the culture department’s nine-dish article. The pages returned an error on 23 Oct 2026.
+- The SEA Games “20 street eats” page did not load on 23 Oct 2026.
 - Egg-coffee afternoon clock.
 - Hours for the Hanoi dining rooms named from S25–S30. None of those pages printed a clock. Public notes stay check on arrival.
 - Licensed photos of the dining rooms (Gia, Lamai Garden, Tầm Vị, Hibana by Koki, Spices Garden, Crystal Jade Palace, Kappou Ishia, Chim Sáo, and the cafes). No card until the file is that room.
