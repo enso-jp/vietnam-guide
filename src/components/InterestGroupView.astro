@@ -3,6 +3,7 @@ import Base from '../layouts/Base.astro';
 import Crumbs from './Crumbs.astro';
 import Photo from './Photo.astro';
 import SectionNav from './SectionNav.astro';
+import TripOtherStay from './TripOtherStay.astro';
 import { getCorridor, pageDescription, placePath } from '../lib/content';
 import type { InterestRailItem, PlaceInterestSection } from '../lib/interest-sections';
 import { photoPath } from '../lib/photos';
@@ -94,5 +95,9 @@ function cardAlt(item: InterestRailItem) {
       ))}
       <p><a href={placePath(place)}>{place.name} travel guide</a></p>
     </div>
+    <aside class="stay-box">
+      <h2>Book your <em>stay</em></h2>
+      <TripOtherStay />
+    </aside>
   </article>
 </Base>

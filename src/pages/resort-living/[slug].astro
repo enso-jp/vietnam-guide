@@ -5,6 +5,7 @@ import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import Photo from '../../components/Photo.astro';
 import SectionNav from '../../components/SectionNav.astro';
+import TripOtherStay from '../../components/TripOtherStay.astro';
 import { getPlace, getResortShowcases, pageDescription, placePath } from '../../lib/content';
 import type { ResortProperty } from '../../lib/types';
 import { photoPath } from '../../lib/photos';
@@ -89,5 +90,9 @@ const crumbSchema = [
       ))}
       {place && <p><a href={placePath(place)}>{place.name} travel guide</a></p>}
     </div>
+    <aside class="stay-box">
+      <h2>Book your <em>stay</em></h2>
+      <TripOtherStay />
+    </aside>
   </article>
 </Base>

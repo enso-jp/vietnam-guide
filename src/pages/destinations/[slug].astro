@@ -1,12 +1,11 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
-import Partner from '../../components/Partner.astro';
 import PlaceCard from '../../components/PlaceCard.astro';
+import TripOtherStay from '../../components/TripOtherStay.astro';
 import VietnamMap from '../../components/VietnamMap.astro';
 import { attractionPath, attractionsInCorridor, cardLine, getCorridors, getPlace, groupPlaces, pageDescription, placePath, placesInCorridor } from '../../lib/content';
 import { photoPath } from '../../lib/photos';
-import { stayLink } from '../../lib/partners';
 import { breadcrumbList, itemList } from '../../lib/schema';
 
 export function getStaticPaths() {
@@ -94,7 +93,10 @@ const crumbSchema = [
       </section>
     )}
     <div class="partner-band">
-      <Partner kind="stay" href={stayLink(corridor.name)} label={`Search stays in ${corridor.name}`} />
+      <div class="stay-box">
+        <h2>Book your <em>stay</em></h2>
+        <TripOtherStay />
+      </div>
     </div>
   </article>
 </Base>

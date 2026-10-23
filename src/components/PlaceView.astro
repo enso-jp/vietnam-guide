@@ -32,7 +32,7 @@ import { interestSliderItems, placeInterestSections } from '../lib/interest-sect
 import { photoPath } from '../lib/photos';
 import { breadcrumbList, faqPage } from '../lib/schema';
 import { partitionAttractions } from '../lib/place-lists';
-import { stayLink } from '../lib/partners';
+import { stayLink, tripDestinationStay } from '../lib/partners';
 import type { Place } from '../lib/types';
 import { site } from '../config/site';
 
@@ -330,17 +330,7 @@ const leadSight = tiedForLead.find((item) => topInterest && item.interests.inclu
       <aside class="rail">
         <div class="panel stay-box">
           <h2>Book your <em>stay</em></h2>
-          <ul class="stay-tabs">
-            <li class="is-on"><span class="stay-tile"><Icon name="bed" /></span>Stays</li>
-            <li><span class="stay-tile"><Icon name="plane" /></span>Flights</li>
-            <li><span class="stay-tile"><Icon name="car" /></span>Car</li>
-            <li><span class="stay-tile"><Icon name="bus" /></span>Buses</li>
-            <li><span class="stay-tile"><Icon name="flag" /></span>Activities</li>
-            <li><span class="stay-tile"><Icon name="food" /></span>Food</li>
-          </ul>
-          <p class="stay-field"><span>City</span><strong>{place.name}</strong></p>
-          <p class="note">This is a placeholder until hotel listings are connected.</p>
-          <a class="stay-btn" href={stayLink(place.name)} rel="sponsored noopener" target="_blank" data-partner="stay">Search stays</a>
+          <iframe border="0" src={tripDestinationStay} style="width:276px;height:276px;border:none" frameborder="0" scrolling="no" id="S20497773"></iframe>
         </div>
         <div class="panel">
           <p class="explore-kicker">Explore</p>
