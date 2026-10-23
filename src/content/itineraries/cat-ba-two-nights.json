@@ -7,37 +7,39 @@
   "spanDays": 2,
   "placeSlug": "cat-ba",
   "budget": "Check on arrival",
-  "pace": "One boat day, one park morning",
+  "pace": "Check on arrival",
+  "summary": "Night on the Cat Ba harbor, a Lan Ha boat from Ben Beo, and a morning inside the national park. Boat length is Check on arrival.",
   "photo": "cat-ba-lan-ha",
-  "summary": "Night on the Cát Bà harbor, a Lan Ha boat from Bến Bèo, and a morning inside the national park gate. The December 2022 hire is printed as 3–4 hours and also as an 8-hour day.",
   "days": [
     {
       "title": "Day 1 — Harbor and Lan Ha",
-      "body": "Sleep above the seawall. The boat leaves Bến Bèo. The park’s 19 December 2022 account describes a 3–4 hour hire and also names an 8-hour day. Bay tickets from 1 January 2026 are 120,000 đồng for an adult and 60,000 for a child from 6 on the 2025 article. The 2024 child line also uses 1.2 m. Boat hire is Check on arrival.",
-      "placeSlug": "cat-ba"
+      "body": "Sleep above the seawall. The boat leaves Ben Beo for Lan Ha Bay. How long the hire runs is Check on arrival.",
+      "placeSlug": "cat-ba",
+      "photo": "cat-ba-lan-ha"
     },
     {
       "title": "Day 2 — The park gate",
-      "body": "The park’s own fee page prints 07:00–17:00 and does not print the amounts. The 20 December 2025 article prices the park at 160,000 đồng for an adult and 80,000 for a child from 6. Under 6 is free. The 2024 text uses the same prices and a different retention line, and it adds the 1.2 m child test. A road minute from the harbor is Check on arrival.",
-      "placeSlug": "cat-ba"
+      "body": "Spend the morning inside the national park. A road minute from the harbor is Check on arrival.",
+      "placeSlug": "cat-ba",
+      "photo": "cat-ba-national-park"
     }
   ],
   "stops": [
     {
       "name": "Lan Ha Bay",
-      "minutes": 240,
+      "minutes": "Check on arrival",
       "placeSlug": "cat-ba",
       "attractionSlug": "lan-ha",
-      "note": "The 19 December 2022 account prints a 3–4 hour hire from Bến Bèo and also an 8-hour day. 240 minutes is the 4-hour end of that hire, not a single official duration. Boat hire is Check on arrival."
+      "note": "Take the boat from Ben Beo through Lan Ha Bay."
     },
     {
       "name": "Cat Ba National Park",
-      "minutes": 180,
+      "minutes": "Check on arrival",
       "placeSlug": "cat-ba",
       "attractionSlug": "national-park",
-      "note": "A posted visit length is Check on arrival. 180 minutes is a morning on this plan, not a gate figure. The gate is 07:00–17:00. The Việt Hải trek is titled 12 km, and the 11 November 2023 account also says more than 8 km and 8 km."
+      "note": "Use the next morning at the national park."
     }
   ],
   "seoTitle": "Cat Ba in two nights — Lan Ha, then the park",
-  "seoDescription": "Two nights on the Cat Ba harbor: a Lan Ha boat from Ben Beo, printed as 3–4 hours and as an 8-hour day, then the national park gate at 07:00–17:00."
+  "seoDescription": "Two nights on the Cat Ba harbor: a Lan Ha boat from Ben Beo, then a morning at the national park. Boat length is Check on arrival."
 }

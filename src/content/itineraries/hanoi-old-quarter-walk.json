@@ -5,42 +5,39 @@
   "level": "half-day",
   "duration": "3 hours",
   "placeSlug": "hanoi",
-  "budget": "Low, plus a meal",
-  "pace": "Relaxed",
+  "budget": "Check on arrival",
+  "pace": "Check on arrival",
   "summary": "A morning loop north of Hoan Kiem Lake through the guild streets, a market, and a lunch bowl.",
   "stops": [
     {
-      "name": "Hoan Kiem lakeshore",
-      "minutes": 20,
-      "walkMinutes": 10,
+      "name": "Hoan Kiem Lake",
+      "minutes": "Check on arrival",
       "placeSlug": "hanoi",
       "attractionSlug": "hoan-kiem",
-      "note": "Start at the northern edge of the lake. The path is free."
+      "note": "Start at the northern edge of the lake."
     },
     {
       "name": "Bach Ma Temple",
-      "minutes": 15,
-      "walkMinutes": 10,
+      "minutes": "Check on arrival",
       "placeSlug": "old-quarter",
-      "note": "A small neighborhood temple on Hang Buom.",
-      "attractionSlug": "bach-ma"
+      "attractionSlug": "bach-ma",
+      "note": "Stop at Bach Ma Temple on Hang Buom."
     },
     {
       "name": "Dong Xuan Market",
-      "minutes": 25,
-      "walkMinutes": 10,
+      "minutes": "Check on arrival",
       "placeSlug": "old-quarter",
-      "note": "One floor is enough.",
-      "attractionSlug": "dong-xuan"
+      "attractionSlug": "dong-xuan",
+      "note": "Walk through Dong Xuan Market."
     },
     {
-      "name": "Lunch",
-      "minutes": 50,
+      "name": "Bun cha",
+      "minutes": "Check on arrival",
       "placeSlug": "hanoi",
       "dishSlug": "bun-cha",
-      "note": "Bun cha at lunch, around Cua Dong, then walk back to the lake on a different lane."
+      "note": "Eat bun cha, then walk back toward the lake."
     }
   ],
   "seoTitle": "Hanoi Old Quarter walking itinerary",
-  "seoDescription": "A three-hour morning walk through Hanoi’s Old Quarter."
+  "seoDescription": "A morning walk through Hanoi’s Old Quarter: the lake, Bach Ma, Dong Xuan, and bun cha."
 }

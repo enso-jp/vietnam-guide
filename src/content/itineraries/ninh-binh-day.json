@@ -7,14 +7,15 @@
   "spanDays": 1,
   "placeSlug": "ninh-binh",
   "budget": "Check on arrival",
-  "pace": "One valley day",
+  "pace": "Check on arrival",
+  "summary": "The sampan at Trang An, crisp rice on the way, and the temples at Hoa Lu. Kim Son and Van Long are a second day.",
   "photo": "ninh-binh-trang-an",
-  "summary": "The sampan at Tràng An, cơm cháy on the way, and the temples at Hoa Lư. Minutes on each stop were not printed. Kim Sơn and Vân Long are a second day.",
   "days": [
     {
-      "title": "Sao Khe, then Hoa Lư",
-      "body": "Start with the sampan if you slept in the valley. The adult ticket is 300,000 đồng. A gate hour was not printed. Eat cơm cháy with the goat plates on the roads toward the sights. Walk đền Đinh and đền Lê in the afternoon. The adult temple ticket is 20,000 đồng. Bái Đính, Vân Long, and Phát Diệm do not fit this day unless you drop one of the three stops. Minutes between them were not printed.",
-      "placeSlug": "ninh-binh"
+      "title": "Sao Khe, then Hoa Lu",
+      "body": "Start with the sampan if you slept in the valley. Eat crisp rice on the roads toward the sights. Walk the Dinh and Le temples in the afternoon. Bai Dinh, Van Long, and Phat Diem do not fit this day unless you drop one of the three stops. Minutes between them are Check on arrival.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-trang-an"
     }
   ],
   "stops": [
@@ -23,23 +24,43 @@
       "minutes": "Check on arrival",
       "placeSlug": "ninh-binh",
       "attractionSlug": "trang-an",
-      "note": "The sampan on sông Sào Khê. Adult 300,000 đồng. A boat duration was not printed."
+      "note": "Take the sampan on the Sao Khe."
     },
     {
       "name": "Com chay",
       "minutes": "Check on arrival",
       "placeSlug": "ninh-binh",
       "dishSlug": "com-chay",
-      "note": "Crisp rice, on the roads toward the sights or as the gift you carry. A shop hour was not printed."
+      "note": "Eat crisp rice between the sights."
     },
     {
       "name": "Hoa Lu",
       "minutes": "Check on arrival",
       "placeSlug": "ninh-binh",
       "attractionSlug": "hoa-lu",
-      "note": "The temples and the tombs. Adult 20,000 đồng. Am Tiên is a separate ticket."
+      "note": "Walk the Dinh and Le temples in the afternoon."
+    }
+  ],
+  "additions": [
+    {
+      "name": "Van Long",
+      "note": "Save Van Long for another day on the water.",
+      "placeSlug": "ninh-binh",
+      "attractionSlug": "van-long"
+    },
+    {
+      "name": "Bai Dinh Pagoda",
+      "note": "Leave Bai Dinh for a day when this loop is not the plan.",
+      "placeSlug": "ninh-binh",
+      "attractionSlug": "bai-dinh"
+    },
+    {
+      "name": "Phat Diem stone church",
+      "note": "Leave Phat Diem for a separate day.",
+      "placeSlug": "ninh-binh",
+      "attractionSlug": "phat-diem"
     }
   ],
   "seoTitle": "Ninh Binh in a day — Trang An, then Hoa Lu",
-  "seoDescription": "One day in the valley: the Tràng An sampan, cơm cháy, and Hoa Lư. A minute count was not printed. Check on arrival."
+  "seoDescription": "One day in the valley: the Trang An sampan, crisp rice, and Hoa Lu. A minute count for each stop is Check on arrival."
 }

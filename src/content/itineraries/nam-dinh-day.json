@@ -8,38 +8,47 @@
   "placeSlug": "nam-dinh",
   "budget": "Check on arrival",
   "pace": "Check on arrival",
+  "summary": "A day for pho bo in the morning, the Pho Minh tower, and Phu Day about 15 km southwest. The seal night is the 14th of lunar month 1, not an ordinary evening.",
   "photo": "nam-dinh-pho-minh",
-  "summary": "A day for the pho morning, the Phổ Minh tower, and Phủ Dầy about 15 km southwest. Minutes between stops were not printed. The seal night is the 14th of lunar month 1, not an ordinary evening.",
   "days": [
     {
-      "title": "The tower, then the phủ",
-      "body": "Start with phở bò around Chợ Rồng and phố Hàng Tiện. One paper’s shop closes at 09:00. Another says a bowl can be found at any hour. Both stay. Then the Phổ Minh tower on the Tức Mặc ground, 19.51 m on the heritage page and 21.2 m on the 2018 city page. If the afternoon is the Mother Goddess complex, Phủ Dầy is about 15 km southwest. The minutes were not printed. Fees and gate hours are check on arrival. On the 14th of lunar month 1 the evening is Đền Trần, not the lake.",
+      "title": "The tower, then the phu",
+      "body": "Start with pho bo around Cho Rong and Hang Tien. Then the Pho Minh tower on the Tuc Mac ground. If the afternoon is the Mother Goddess complex, Phu Day is about 15 km southwest. Minutes between them are Check on arrival. On the 14th of lunar month 1 the evening is the Tran temple.",
       "placeSlug": "nam-dinh",
       "photo": "nam-dinh-pho-minh"
     }
   ],
   "stops": [
     {
-      "name": "The pho morning",
+      "name": "Pho bo Nam Dinh",
       "minutes": "Check on arrival",
       "placeSlug": "nam-dinh",
-      "note": "Around Chợ Rồng and phố Hàng Tiện. The 09:00 close and the any-hour sentence both stay. A market hour was not printed."
+      "dishSlug": "nam-dinh--pho-bo",
+      "note": "Eat pho bo around Cho Rong and Hang Tien in the morning."
     },
     {
-      "name": "Pho Minh",
+      "name": "Pho Minh pagoda",
       "minutes": "Check on arrival",
       "placeSlug": "nam-dinh",
       "attractionSlug": "pho-minh",
-      "note": "The stone tower. Both heights stay: 19.51 m and 21.2 m. A minute from the cathedral was not printed."
+      "note": "See the stone tower on the Tuc Mac ground."
     },
     {
       "name": "Phu Day",
       "minutes": "Check on arrival",
       "placeSlug": "nam-dinh",
       "attractionSlug": "phu-day",
-      "note": "About 15 km southwest. The minutes were not printed. The lunar month 3 dates move."
+      "note": "Continue to Phu Day, about 15 km southwest."
+    }
+  ],
+  "additions": [
+    {
+      "name": "Tran temple",
+      "note": "On the 14th of the first lunar month, spend the evening at the Tran temple.",
+      "placeSlug": "nam-dinh",
+      "attractionSlug": "tran-temple"
     }
   ],
   "seoTitle": "Nam Dinh in a day — Pho Minh and Phu Day",
-  "seoDescription": "One day in Nam Dinh: the pho morning, the Phổ Minh tower, and Phủ Dầy about 15 km southwest. Minutes, fees, and gate hours are check on arrival."
+  "seoDescription": "One day in Nam Dinh: pho bo, the Pho Minh tower, and Phu Day about 15 km southwest. Minutes between stops are Check on arrival."
 }

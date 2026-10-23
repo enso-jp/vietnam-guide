@@ -7,43 +7,53 @@
   "spanDays": 1,
   "placeSlug": "dien-bien-phu",
   "budget": "Check on arrival",
-  "pace": "Monument at opening, the hills before the midday shut, the river after 13:30",
-  "summary": "One day in the Mường Thanh basin: the monument on Đồi D1, Hill A1 before the gates shut at 11:00, the museum on its own ticket, and the Mường Thanh bridge with the bunker. Mường Phăng is the next morning, 40 km by road, about 10 km from Highway 6, or 17 km in a straight line. Those are not one drive.",
+  "pace": "Check on arrival",
+  "summary": "One day in the Muong Thanh basin: the monument on Hill D1, Hill A1, the museum as its own visit, the bunker, the bridge, and the river. Muong Phang is the next morning.",
   "photo": "dien-bien-phu",
   "stops": [
     {
-      "name": "Victory monument",
-      "minutes": 60,
+      "name": "Victory monument and Hill D1",
+      "minutes": "Check on arrival",
       "placeSlug": "dien-bien-phu",
-      "note": "The hour on this row is not a published visit length. The handbook does not print one. Morning, or Saturday evening when the yard program is on. The yard is about 3,000 m² on the handbook. The route page prints 217 tons. They are not one measurement. The point fee is 20,000 VND from age 18. Whether the yard and the hill are one point is check on arrival."
+      "attractionSlug": "victory-monument",
+      "note": "Start at the victory monument on Hill D1."
     },
     {
       "name": "Hill A1",
-      "minutes": 60,
+      "minutes": "Check on arrival",
       "placeSlug": "dien-bien-phu",
-      "note": "The hour on this row is not a published walk length. Day gates open at 7:00, shut 11:00–13:30, and reopen until 18:00 from 1 March to 30 September or 17:30 from 1 October to 28 February. The standing page also sets 19:30–21:30 on Friday, Saturday, and official holidays. The March 2026 notice does not mention that night. The point fee is 20,000 VND."
+      "attractionSlug": "hill-a1",
+      "note": "Walk the hill and the crater, and skip the 11:00 to 13:30 close."
     },
     {
-      "name": "Victory museum",
-      "minutes": 60,
+      "name": "Dien Bien Phu Victory Museum",
+      "minutes": "Check on arrival",
       "placeSlug": "dien-bien-phu",
-      "note": "The hour on this row is not a published visit length. The museum page charges 100,000 VND from age 18. The national tourism desk prints 5,000 VND. Both stay. From 13 July 2026 the museum notice says 7:30–12:00 and 13:30–21:00. The standing page and the tourism desk print other clocks. The relic point ticket does not cover this building."
+      "attractionSlug": "victory-museum",
+      "note": "See the victory museum as its own visit, separate from the hill."
     },
     {
-      "name": "De Castries bunker and Muong Thanh bridge",
-      "minutes": 30,
+      "name": "De Castries bunker",
+      "minutes": "Check on arrival",
+      "placeSlug": "dien-bien-phu",
+      "attractionSlug": "de-castries-bunker",
+      "note": "See the De Castries bunker in the basin."
+    },
+    {
+      "name": "Muong Thanh bridge",
+      "minutes": "Check on arrival",
       "placeSlug": "dien-bien-phu",
       "attractionSlug": "muong-thanh-bridge",
-      "note": "The minutes on this row are not a posted visit length. The handbook prints the flag on the bunker at 17:30 on 7 May 1954. The 15:00 order the same day is the Mường Phăng headquarters, not this bunker. The bridge is 40 m by 5 m on the 2022 route page. A bridge ticket was not printed. Check on arrival."
+      "note": "Cross the Muong Thanh bridge over the Nam Rom."
     },
     {
-      "name": "The Nam Rom",
-      "minutes": 30,
+      "name": "The Nam Rom and the basin fields",
+      "minutes": "Check on arrival",
       "placeSlug": "dien-bien-phu",
       "attractionSlug": "nam-rom",
-      "note": "The minutes on this row are not a published loop length. See the river from the bridge and the walking street, and the rice from Đồi D1. No park ticket was printed. Check on arrival if a gate appears. Mường Phăng is the next morning, not this walk."
+      "note": "Walk the basin fields along the river."
     }
   ],
   "seoTitle": "A day in the Dien Bien Phu basin",
-  "seoDescription": "Monument on Hill D1, A1 before the midday shut, and the museum on its own ticket. Muong Phang is the next morning, at 40 km, about 10 km, or 17 km straight."
+  "seoDescription": "A basin day in Dien Bien Phu: Hill D1, Hill A1, the museum, the bunker, the bridge, and the Nam Rom. Visit lengths are Check on arrival."
 }

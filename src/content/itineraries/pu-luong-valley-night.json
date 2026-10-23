@@ -7,23 +7,46 @@
   "spanDays": 2,
   "placeSlug": "pu-luong",
   "budget": "Check on arrival",
-  "pace": "One valley, on foot or a bicycle",
+  "pace": "Check on arrival",
+  "summary": "One night in a stilt house and the next morning on the terraces. Thursday or Sunday, Pho Doan is the other morning.",
   "photo": "pu-luong-valley-terraces",
-  "summary": "One night in a stilt house and the next morning on the terraces. Thursday or Sunday, Phố Đoàn is the other morning.",
   "days": [
     {
       "title": "Day 1 — Evening in the hamlet",
-      "body": "Sleep in a stilt house, at Bản Đôn in xã Pù Luông or around Bản Hiêu in xã Cổ Lũng. After dark the hamlet floor is a campfire, rượu cần, xòe, and khắp. A start time is check on arrival. There is no bar street.",
+      "body": "Sleep in a stilt house. After dark the hamlet floor is a campfire, jar wine, and dance. A start time is Check on arrival.",
       "placeSlug": "pu-luong",
       "photo": "pu-luong"
     },
     {
       "title": "Day 2 — Morning on the terraces",
-      "body": "Walk the fields while the mist is still on the slopes. Late May to early June is the green crop. September and October are the gold crop. A trekking note calls both windows golden. On Thursday or Sunday, Phố Đoàn is the other morning. A bicycle is the usual hire between the hamlets. The charge is check on arrival.",
+      "body": "Walk or cycle the fields while the mist is still on the slopes. Late May to early June is the green crop. September and October are the gold crop. On Thursday or Sunday, Pho Doan is the other morning. A loop hour is Check on arrival.",
       "placeSlug": "pu-luong",
       "photo": "pu-luong-valley-terraces"
     }
   ],
+  "stops": [
+    {
+      "name": "Valley terraces",
+      "minutes": "Check on arrival",
+      "placeSlug": "pu-luong",
+      "attractionSlug": "valley-terraces",
+      "note": "Walk or cycle the terrace edges in the morning."
+    },
+    {
+      "name": "Bamboo sticky rice",
+      "minutes": "Check on arrival",
+      "placeSlug": "pu-luong",
+      "dishSlug": "pu-luong--com-lam",
+      "note": "Eat bamboo-tube rice at the stilt house."
+    },
+    {
+      "name": "Jar wine",
+      "minutes": "Check on arrival",
+      "placeSlug": "pu-luong",
+      "dishSlug": "pu-luong--ruou-can",
+      "note": "Have jar wine with the campfire after dark."
+    }
+  ],
   "seoTitle": "A night in the Pu Luong valley",
-  "seoDescription": "One night in a stilt house and a morning on the terraces. Hanoi is about 160 km or about 210 km. Rice is green in late May to early June and gold in September and October."
+  "seoDescription": "One night in a stilt house and a morning on the terraces. Rice is green in late May to early June and gold in September and October."
 }

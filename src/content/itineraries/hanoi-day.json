@@ -7,44 +7,44 @@
   "spanDays": 1,
   "placeSlug": "hanoi",
   "budget": "Check on arrival",
-  "pace": "Relaxed",
+  "pace": "Check on arrival",
+  "summary": "The lake in the morning, pho in the Hoan Kiem lanes, the citadel before lunch, bun cha around Cua Dong, and the water puppets in the evening.",
   "photo": "hanoi-hoan-kiem",
-  "summary": "Turtle Tower in the morning, pho in the Hoan Kiem lanes, the citadel before lunch, bun cha around Cua Dong, and the water puppets if the evening is still open.",
   "stops": [
     {
       "name": "Hoan Kiem Lake",
-      "minutes": 40,
+      "minutes": "Check on arrival",
       "placeSlug": "hanoi",
       "attractionSlug": "hoan-kiem",
-      "note": "Start on the lake path. It is free and open all day. The temple on the island is a separate ticket."
+      "note": "Start on the lake path."
     },
     {
       "name": "Pho",
-      "minutes": 40,
+      "minutes": "Check on arrival",
       "placeSlug": "hanoi",
       "dishSlug": "pho",
-      "note": "Morning bowl in the Hoan Kiem lanes, including Hang Vai. Chili first. Garlic vinegar for beef, lime for chicken."
+      "note": "Have a morning bowl in the Hoan Kiem lanes."
     },
     {
       "name": "Imperial Citadel of Thang Long",
-      "minutes": 90,
+      "minutes": "Check on arrival",
       "placeSlug": "hanoi",
       "attractionSlug": "citadel",
-      "note": "A different morning from the lake. Adult 100,000 VND from 1 January 2025. This ticket is not the mausoleum."
+      "note": "Visit the citadel grounds before lunch."
     },
     {
       "name": "Bun cha",
-      "minutes": 50,
+      "minutes": "Check on arrival",
       "placeSlug": "hanoi",
       "dishSlug": "bun-cha",
-      "note": "Lunch around Cua Dong. Put the noodles in with the herbs. Nem is optional."
+      "note": "Eat bun cha around Cua Dong."
     },
     {
       "name": "Thang Long Water Puppet Theatre",
-      "minutes": 60,
+      "minutes": "Check on arrival",
       "placeSlug": "hanoi",
       "attractionSlug": "water-puppets",
-      "note": "57b Dinh Tien Hoang, on the east side of the lake. The ticket and the hour are check on arrival."
+      "note": "See the water puppets on the east side of the lake."
     }
   ],
   "seoTitle": "Hanoi in a day",
