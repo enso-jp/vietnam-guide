@@ -299,3 +299,9 @@ A named bar street was not on the pages opened. The portal’s night is the park
 - Photo must show: the street in the morning, a bowl only if the noodles are the subject and the street is still in the frame.
 - unpublished: no licensed photo
 - Sources: S5, S8, S28
+
+## Public pass 23 Oct 2026
+
+Published on this pass: `museum`, `market`, `town-boat`, `truc-giang`. Existing `con-phung`, `con-quy`, and `nguyen-dinh-chieu` stay. Card lines were rewritten and source names were taken out of those three pages.
+
+`museum` and `market` use the one licensed Commons frame each. A second frame of the same subject was not on Commons, so those two pages have no article body. `con-long` stays unpublished: no licensed photo of that islet. Đồng Khởi has one frame (`Nha truyen thong Dong Khoi.JPG`) and no second frame, so it stays an interest photo.

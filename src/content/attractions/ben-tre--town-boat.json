@@ -1,0 +1,55 @@
+{
+  "slug": "town-boat",
+  "placeSlug": "ben-tre",
+  "name": "The town boat",
+  "nameVi": "Bến tàu du lịch thành phố Bến Tre",
+  "kicker": "Morning boat from town into the nipa creeks",
+  "summary": "Morning boat from the town pier: ride into the nipa creeks for the kiln, a sampan, and lunch. You leave bến tàu du lịch thành phố Bến Tre, watch candy made, mix honey tea, and hear đờn ca tài tử. Cồn Phụng is a separate landing. Skip this pier when the nine-dragon court is the only stop you wanted.",
+  "dots": 4,
+  "timeNeeded": "A morning",
+  "fee": "Check on arrival",
+  "getThere": "Walk to bến tàu du lịch thành phố Bến Tre, then the boat.",
+  "district": "The town bank",
+  "verified": "23 Oct 2026",
+  "heroCaption": "A tourist boat on the Ben Tre River, along the bank",
+  "notice": {
+    "title": "Cồn Phụng is a separate landing",
+    "body": "This boat leaves the town pier. The islet is about 10–12 km by road, or 25 km by river. The Friday town cart stays in town."
+  },
+  "body": [
+    "Leave bến tàu du lịch thành phố Bến Tre and ride the river into the nipa creeks. The morning stops at a coconut-candy kiln for a warm piece, honey tea you mix yourself, and fruit in season. On the water you can sit for đờn ca tài tử, take a sampan through a small creek, and ride a xe lôi along the village road.",
+    "Lunch is under the palms. Ask for the clock and the fare when you book, and give the outing the morning. A sunset cruise picks up at Bến tàu du lịch Hùng Vương. That name is a second dock. Use it for the cruise you booked."
+  ],
+  "figures": [
+    {
+      "id": "ben-tre-town-boat-2",
+      "caption": "Tourist boats tied along the bank, with palms behind them",
+      "alt": "Canopy tourist boats moored on the Ben Tre River, coconut palms on the bank"
+    }
+  ],
+  "gettingThere": [
+    "The morning boat leaves bến tàu du lịch thành phố Bến Tre. From a room on the town bank, walk to the pier and go in the morning.",
+    "Cồn Phụng is the longer islet, about 10–12 km by road or 25 km by river, from its own landing. The Friday seven-seat cart stays on the town streets."
+  ],
+  "legs": [
+    {
+      "heading": "From the town bank",
+      "body": "Walk to bến tàu du lịch thành phố Bến Tre and take the morning boat. Minutes and the fare are a question for the pier."
+    },
+    {
+      "heading": "From a sunset cruise",
+      "body": "Du thuyền Hạ Thảo picks up at Bến tàu du lịch Hùng Vương. Book that cruise on its own. It is a second name beside the morning pier."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day is posted. The town day puts the boat in the morning.",
+  "admissionNote": "Ask the pier for the boat fare. A sampan and a xe lôi are part of the same morning. Whether they sit inside one fare is a question for the boat.",
+  "links": [
+    {
+      "label": "Ben Tre tourism",
+      "url": "https://bentretourism.vn/vi/detailnews/?id=news_3258&t=48-gio-an-va-choi-o-thanh-pho-ben-tre",
+      "note": "The morning boat from the town pier into the nipa creeks."
+    }
+  ],
+  "interests": ["islands", "family", "food"]
+}

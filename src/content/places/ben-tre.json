@@ -230,8 +230,8 @@
         },
         {
           "title": "Bảo tàng Bến Tre",
-          "summary": "146 Hùng Vương. One page prints 07:00–17:00. Another prints 07:30–11:00 and 13:30–17:00. The fee is check on arrival.",
-          "placeSlug": "ben-tre",
+          "summary": "146 Hùng Vương. The French front and the coconut-wood instruments, before the boat.",
+          "attractionSlug": "museum",
           "photo": "ben-tre-museum",
           "icon": "museum"
         }
@@ -247,8 +247,8 @@
       "cards": [
         {
           "title": "Chợ Bến Tre",
-          "summary": "The day market on the way toward the river. The night street is chợ đêm and Phú Khương. The opening hour is check on arrival.",
-          "placeSlug": "ben-tre",
+          "summary": "The day hall on the way to the river. The night stalls are on Đại lộ Đồng Khởi.",
+          "attractionSlug": "market",
           "photo": "ben-tre-market",
           "icon": "food"
         }

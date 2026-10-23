@@ -1,0 +1,51 @@
+{
+  "slug": "truc-giang",
+  "placeSlug": "ben-tre",
+  "name": "Hồ Trúc Giang",
+  "nameVi": "Hồ Trúc Giang",
+  "kicker": "Town lake and the parks around it",
+  "summary": "Town lake: walk the parks after dinner for the water, then continue to the night market. The circuit is Hồ Trúc Giang, công viên Bến Tre, công viên Trần Văn Ơn, and công viên Đồng Khởi. Stay the night when this walk is the evening you wanted. The Đồng Khởi house at Định Thủy is a separate morning.",
+  "dots": 4,
+  "timeNeeded": "An evening walk",
+  "fee": "Check on arrival",
+  "getThere": "Walk from the town bank after dinner.",
+  "district": "The town bank",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Hồ Trúc Giang, garden in front and the town behind the water",
+  "notice": {
+    "title": "The Đồng Khởi house is a separate morning",
+    "body": "Công viên Đồng Khởi is the park beside this lake. The relic is at Định Thủy, across Cầu Hàm Luông."
+  },
+  "body": [
+    "After dinner, walk Hồ Trúc Giang and the three parks beside it: công viên Bến Tre, công viên Trần Văn Ơn, and công viên Đồng Khởi. The water, the garden, and the town edge are the picture. The Trần Văn Ơn monument stands in the park by the lake.",
+    "Continue to chợ đêm Bến Tre and khu phố chợ Phú Khương when you want the stalls. Ask locally if a path closes. The walk is the reason to keep a room on the town bank."
+  ],
+  "figures": [
+    {
+      "id": "ben-tre-truc-giang-2",
+      "caption": "The Trần Văn Ơn monument beside the lake",
+      "alt": "Bronze statue of Trần Văn Ơn on a pedestal in the park by Hồ Trúc Giang"
+    }
+  ],
+  "gettingThere": [
+    "From a room on the town bank, walk. The town day puts the lake after dinner, then the night market and khu phố chợ Phú Khương.",
+    "The Đồng Khởi relic is a different morning: across Cầu Hàm Luông, more than 10 km toward Mỏ Cày, then about 4 km, or about 15 km from the city. Keep that ride off this evening."
+  ],
+  "legs": [
+    {
+      "heading": "From the town bank",
+      "body": "Walk after dinner. The circuit is the lake and the three parks, then the night market if you still want the stalls."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day is posted. The town day uses the lake after dinner.",
+  "admissionNote": "No gate is posted for the lake or the parks.",
+  "links": [
+    {
+      "label": "Ben Tre tourism",
+      "url": "https://bentretourism.vn/vi/detailnews/?id=news_3258&t=48-gio-an-va-choi-o-thanh-pho-ben-tre",
+      "note": "The after-dinner walk of the lake, the parks, and the night market."
+    }
+  ],
+  "interests": ["family"]
+}
