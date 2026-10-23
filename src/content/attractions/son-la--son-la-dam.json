@@ -4,10 +4,10 @@
   "name": "Son La Dam",
   "nameVi": "Thủy điện Sơn La",
   "kicker": "Dam and reservoir on the Da",
-  "summary": "Look at the dam from the public side, then leave. One page says that view is free and the plant below is closed. Another says register ahead for a visit of about two to three hours. The drive is about 40 km on two pages and about 60 km on a third. Check the gate on arrival.",
+  "summary": "Look at the dam from the public side, then leave. One visit is an outside look of about 30–45 minutes, described as free, with the plant below closed. Another is a registered visit of about 2–3 hours, free or very low. The drive is about 40 km or about 60 km. Check the gate.",
   "dots": 4,
   "district": "Muong La",
-  "timeNeeded": "A half day from the city",
+  "timeNeeded": "About 30–45 minutes, or about 2–3 hours",
   "fee": "Check on arrival",
   "getThere": "Highway 279 north. About 40 km, or about 60 km.",
   "bestMonths": "October–April",
@@ -15,12 +15,12 @@
   "heroCaption": "The dam wall at It Ong, the Da below it, and the ridges behind",
   "notice": {
     "title": "The visit rules disagree",
-    "body": "One page says the plant below the dam is closed and the outside look is free. A 2026 note says register ahead for a visit of about 2–3 hours, free or very low. Check which door is open."
+    "body": "The outside look is free and the plant below the dam is closed. A registered visit of about 2–3 hours is free or very low. Check which door is open."
   },
   "body": [
-    "Stand on the public side and look at the wall. The plant is at Ít Ong, Mường La, on the Đà, not in the town center. EVN inaugurated it on 23 December 2012. Installed capacity is 2,400 MW, six units of 400 MW. The reservoir is 9.26 billion m³. Normal level 215 m, surcharge 217.83 m, dead water 175 m. The gravity dam is 138.1 m high, with a crest of 961.6 m. A second EVN page adds crest elevation 228.1 m, base width 105 m, and crest width 10 m.",
-    "One reservoir page prints a lake surface of 224 km² at design level. The EVN release does not print that surface, so 224 km² stays as that page’s figure. The handbook and the reservoir page put the dam about 40 km and about one hour north of the city. sonlatour.vn prints about 60 km from the city center. The one-hour figure belongs to the 40 km account. Minutes for the 60 km figure are check on arrival.",
-    "The reservoir page says an outside look takes about 30–45 minutes and that the plant below the dam is closed. A 2026 note says register ahead, that a visit takes about 2–3 hours, and that the cost is free or very low. Do not plan a tour inside the powerhouse from the first of those pages. Boat tours on the reservoir page run 7:00–17:00, for 2–3 hours on the water. A boat fee is check on arrival. That page names October–April as the dry months and suggests early morning or late afternoon for the viewpoint. That season is one page. The dam is the half-day north of town. It is not the picture of the night under Khau Ca."
+    "Stand on the public side and look at the wall. The plant is at Ít Ong, Mường La, on the Đà, not in the town center. EVN inaugurated it on 23 December 2012. Installed capacity is 2,400 MW, six units of 400 MW. The reservoir is 9.26 billion m³. Normal level 215 m, surcharge 217.83 m, dead water 175 m. The gravity dam is 138.1 m high, with a crest of 961.6 m and a crest elevation of 228.1 m. The base is 105 m wide and the crest is 10 m wide.",
+    "A lake surface of 224 km² at design level is also given. The inauguration figures do not include that surface, so 224 km² stays as its own figure. The dam is about 40 km and about one hour north of the city, and also about 60 km from the city center. The one-hour figure belongs to the 40 km account. Minutes for the 60 km figure are check on arrival.",
+    "An outside look is about 30–45 minutes, with the plant below the dam closed. A registered visit is about 2–3 hours, free or very low. Do not plan a tour inside the powerhouse when the outside look is the visit. Boat tours are given as 7:00–17:00. Time on the water, and a boat fee, are check on arrival. October–April are the dry months for this reservoir, and early morning or late afternoon is the hour for the viewpoint. The dam is the trip north of town. It is not the picture of the night under Khau Ca."
   ],
   "figures": [
     {
@@ -30,37 +30,37 @@
     }
   ],
   "gettingThere": [
-    "Leave the valley on Highway 6, then take Highway 279 north to Mường La. The 2020 handbook and the reservoir page say about 40 km and about one hour. sonlatour.vn says about 60 km from the city center. Keep both distances. Minutes for the 60 km figure are check on arrival. A taxi fare and a motorbike hire on one commercial page belong to the 40 km account. Do not treat that fare as the price for the 60 km account. The fare is check on arrival."
+    "Leave the valley on Highway 6, then take Highway 279 north to Mường La. The dam is about 40 km and about one hour north of the city, and also about 60 km from the city center. Keep both distances. Minutes for the 60 km figure are check on arrival. A taxi fare on the shorter account is not the price for the longer one. The fare is check on arrival."
   ],
   "legs": [
     {
       "heading": "From Son La",
-      "body": "Highway 279 north to Mường La. About 40 km and about one hour on the handbook and the reservoir page, or about 60 km on sonlatour.vn. Minutes for 60 km are check on arrival."
+      "body": "Highway 279 north to Mường La. About 40 km and about one hour, or about 60 km. Minutes for 60 km are check on arrival."
     }
   ],
-  "hours": "Boat tours on the reservoir page run 7:00–17:00. That page describes an outside look of about 30–45 minutes. A 2026 note says a plant visit takes about 2–3 hours.",
-  "closed": "The plant below the dam is closed on the reservoir page. The 2026 note does not say that. Check the gate on arrival.",
-  "admissionNote": "The reservoir page describes the outside view as free. A 2026 note says the cost is free or very low and that visitors should register ahead. A current gate tariff is check on arrival. The same reservoir page prices a boat at 400,000–1,000,000 VND, or a group seat at 350,000–650,000 VND. Those prices are one commercial page. A boat fee is check on arrival.",
+  "hours": "Check on arrival. One boat window is 7:00–17:00. An outside look is about 30–45 minutes, and a plant visit is about 2–3 hours.",
+  "closed": "The plant below the dam is closed on the outside look. A registered visit does not repeat that. Check the gate on arrival.",
+  "admissionNote": "The outside view is described as free, and also as free or very low if you register ahead. A current gate tariff is check on arrival. A boat fee is check on arrival.",
   "links": [
     {
       "label": "Inauguration release",
       "url": "https://www.evn.com.vn/d6/news/THONG-CAO-BAO-CHI-LE-KHANH-THANH-CONG-TRINH-THUY-DIEN-SON-LA-6-12-6185.aspx",
-      "note": "EVN, 23 December 2012. Capacity, reservoir, and the 138.1 m dam"
+      "note": "EVN, 23 December 2012. Capacity, reservoir, and dam height"
     },
     {
       "label": "Crest and width figures",
       "url": "https://www.evn.com.vn/d6/news/Thuy-dien-Son-La-An-tuong-nhung-con-so-5-41-6362.aspx",
-      "note": "EVN. Adds crest elevation 228.1 m, base width 105 m, and crest width 10 m"
+      "note": "EVN. Crest elevation and the two widths"
     },
     {
-      "label": "Reservoir page",
+      "label": "Reservoir visit",
       "url": "https://govietnam.travel/destination/son-la-reservoir/",
-      "note": "About 40 km and one hour, outside view, boat hours, and 224 km²"
+      "note": "The reservoir from the city"
     },
     {
-      "label": "The 60 km figure",
+      "label": "Road from the city",
       "url": "https://sonlatour.vn/vi/dia-diem-du-lich/ho-thuy-dien-son-la-95",
-      "note": "About 60 km from the city center, by Highway 279"
+      "note": "Highway 279 to Muong La"
     }
   ],
   "interests": ["mountains"]

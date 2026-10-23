@@ -1,0 +1,49 @@
+{
+  "slug": "pa-uon",
+  "placeSlug": "son-la",
+  "name": "Pa Uon Bridge",
+  "nameVi": "Cầu Pá Uôn",
+  "kicker": "Bridge over the reservoir on Highway 279",
+  "summary": "Stop on the bridge over the reservoir and look down at the Da. The main bridge is 918 m, inside a total of 1,418 m with the approaches. The deck is 100 m above the lake, and 105 m or 103.8 m from the bed to the deck. A main pier is 98 m or 98.6 m. The middle span is 120 m. No ticket is published, so check on arrival.",
+  "dots": 3,
+  "district": "Quynh Nhai",
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Highway 279 through Muong La. About 70 km from the city, or about 60 km from the dam.",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The concrete spans of Pa Uon over the reservoir, with the ridges behind",
+  "gettingThere": [
+    "The bridge crosses the Đà at xã Chiềng Ơn, Quỳnh Nhai, at km 249+200 on Highway 279. It is about 70 km from Son La, upstream on the river, and also about 60 km northwest of the dam. Minutes from the city are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Son La",
+      "body": "Highway 279 through Muong La. About 70 km. Minutes are check on arrival."
+    },
+    {
+      "heading": "From Muong La",
+      "body": "About 60 km northwest of the dam. One figure for this leg is about 1 hour 15 minutes. Check the minutes on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "admissionNote": "No bridge ticket was published. Check on arrival.",
+  "links": [
+    {
+      "label": "Closure ceremony",
+      "url": "https://www.vietnamplus.vn/hop-long-cau-pa-uon-co-tru-cao-nhat-viet-nam-post43462.vnp",
+      "note": "18 April 2010, at Chiềng Ơn"
+    },
+    {
+      "label": "Bridge measurements",
+      "url": "https://www.vietnamplus.vn/son-la-cau-pa-uon-bac-qua-ho-song-da-co-tru-cao-nhat-viet-nam-post309583.vnp",
+      "note": "28 February 2015"
+    },
+    {
+      "label": "Reservoir road",
+      "url": "https://govietnam.travel/destination/son-la-reservoir/",
+      "note": "The bridge as a stop past the dam"
+    }
+  ],
+  "interests": ["mountains"]
+}
