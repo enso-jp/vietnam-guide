@@ -1,0 +1,55 @@
+{
+  "slug": "quan-ba",
+  "placeSlug": "ha-giang",
+  "name": "Quan Ba twin hills",
+  "nameVi": "Núi đôi Quản Bạ",
+  "kicker": "Two hills above the rice",
+  "summary": "Two rounded hills above the rice at Quản Bạ: stop on the first morning for the picture the loop is known for. They sit on QL4C after Heaven’s Gate and before lunch in Tam Sơn. Keep both hills in the frame, terraces in front and karst behind. Go in daylight, while cloud still sits on the peaks.",
+  "dots": 5,
+  "district": "Quan Ba",
+  "timeNeeded": "A stop on the first morning",
+  "fee": "Check on arrival",
+  "getThere": "QL4C after Heaven’s Gate, before Tam Sơn",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The twin hills at Quản Bạ, ripe rice in front and karst behind",
+  "body": [
+    "Stop where both hills read at once. Two rounded slopes sit over the terraces, and the karst rises behind them. This is the morning picture on the way north from Hà Giang town, after Heaven’s Gate and before Tam Sơn.",
+    "Some mornings the cloud fills the gaps between the peaks. On others the rice is gold in the foreground. A frame that keeps only one hill is a different picture. Tam Sơn, now inside xã Quản Bạ, is the lunch town just down the road, with northern fare at the stalls and coffee easy to find."
+  ],
+  "figures": [
+    {
+      "id": "ha-giang-quan-ba-2",
+      "caption": "The same hills in cloud, with terraces in the foreground",
+      "alt": "Two rounded hills at Quản Bạ rising through cloud above rice terraces"
+    }
+  ],
+  "gettingThere": [
+    "Quản Bạ is the first morning on QL4C, north from Hà Giang town. Heaven’s Gate is the pass lookout on that road. The twin hills come after the pass, before or near Tam Sơn.",
+    "Xã Quản Bạ joins thị trấn Tam Sơn, xã Quyết Tiến, and xã Quản Bạ. Xã Cán Tỷ joins Bát Đại Sơn and Cán Tỷ. Which of those communes holds the slopes is still open, so ask locally if you need the village name. The hills themselves are the stop on the way to lunch."
+  ],
+  "legs": [
+    {
+      "heading": "From Ha Giang town",
+      "body": "North on QL4C. The pass lookout comes first, then the hills, then lunch in Tam Sơn. Ride in daylight."
+    },
+    {
+      "heading": "From Heaven’s Gate",
+      "body": "Down toward Tam Sơn. The hills sit on this stretch, before or near the lunch town."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "links": [
+    {
+      "label": "Ha Giang loop, four-day road",
+      "url": "https://www.vietnam.travel/things-to-do/ha-giang-loop-four-day-road-trip",
+      "note": "Vietnam Tourism. Heaven’s Gate, then lunch in Tam Sơn."
+    },
+    {
+      "label": "Ha Giang loop",
+      "url": "https://www.vietnam.travel/things-to-do/ha-giang-loop",
+      "note": "Vietnam Tourism. Quan Ba twin mountains in Quan Ba district."
+    }
+  ],
+  "interests": ["mountains", "photography", "rice"]
+}

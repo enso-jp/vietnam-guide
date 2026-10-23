@@ -1,0 +1,65 @@
+{
+  "slug": "vuong-palace",
+  "placeSlug": "ha-giang",
+  "name": "Vuong family palace",
+  "nameVi": "Dinh thự họ Vương",
+  "kicker": "Hmong palace at Sa Phin",
+  "summary": "Hmong palace at Sà Phìn: walk three stone-and-wood courts on the ride to Đồng Văn, open 7:30 to 17:00. This is the house of Vương Chính Đức, with carved wood and a stone bath. It sits about 14 km from Đồng Văn town, and about 15 km from the center of xã Đồng Văn. Arrive while the gate is open.",
+  "dots": 4,
+  "district": "Sa Phin",
+  "timeNeeded": "A stop between Yên Minh and Đồng Văn",
+  "fee": "About 20,000 VND",
+  "getThere": "QL4C at Sà Phìn, before Đồng Văn",
+  "verified": "23 Oct 2026",
+  "heroCaption": "A courtyard of the Vuong palace, tiled roofs and wooden halls",
+  "notice": {
+    "title": "The gate closes at 17:00",
+    "body": "The house is open 7:30 to 17:00 every day. An arrival after that misses the courts."
+  },
+  "body": [
+    "Walk the three courts. The house uses green stone, po mu wood, and tile, with dragon, phoenix, and bat carving. Vương Chính Đức built it as a residence, and the rooms include a stone bath. A wood frame, a Chinese plan, and French and Hmong work sit in the same building.",
+    "Work began in 1898 and finished in 1907. The house was named a national architectural relic in 1993. Sà Phìn is the food and fuel stop on QL4C before Đồng Văn, so the courts fit inside that ride. Come in daylight and be through the gate before 17:00."
+  ],
+  "figures": [
+    {
+      "id": "ha-giang-vuong-palace-2",
+      "caption": "The carved wooden gate into the palace",
+      "alt": "Carved wooden gate of the Vuong family palace at Sa Phin"
+    }
+  ],
+  "gettingThere": [
+    "The palace is in thôn Sà Phìn, xã Sà Phìn, tỉnh Tuyên Quang. Older pages still say Sa Phin commune in the former Hà Giang province. From Đồng Văn town the distance is about 14 km. From the center of xã Đồng Văn it is about 15 km, on QL4C.",
+    "Sà Phìn is the food and fuel stop before the old quarter. The gate is open 7:30 to 17:00 every day. An adult ticket is about 20,000 đồng, and under 1.2 m is free. The adult figure is approximate."
+  ],
+  "legs": [
+    {
+      "heading": "From Ha Giang town",
+      "body": "QL4C through Yên Minh to Sà Phìn, the food and fuel stop before Đồng Văn. Walk the courts on that stop. Ride in daylight and arrive before 17:00."
+    },
+    {
+      "heading": "From Dong Van",
+      "body": "About 14 km back toward Sà Phìn from Đồng Văn town, and about 15 km from the center of xã Đồng Văn."
+    }
+  ],
+  "hours": "7:30 to 17:00",
+  "closed": "No weekly closing day.",
+  "admissionNote": "About 20,000 đồng for an adult. Free under 1.2 m. The adult price is approximate.",
+  "links": [
+    {
+      "label": "Dinh họ Vương",
+      "url": "https://tanmy.tuyenquang.gov.vn/vi/tin-bai/kham-pha-dinh-ho-vuong-di-tich-dac-biet-giua-long-cao-nguyen-da?id=154725&type=NEWS",
+      "note": "Xã Tân Mỹ, Tuyên Quang, 10 Sep 2025. Hours, the approximate adult price, and 1898–1907."
+    },
+    {
+      "label": "Dong Van Karst Plateau UNESCO Global Geopark",
+      "url": "https://www.unesco.org/en/iggp/dong-van-karst-plateau-unesco-global-geopark",
+      "note": "UNESCO. Green stone, po mu wood, terracotta, and the carving."
+    },
+    {
+      "label": "Ha Giang",
+      "url": "https://vietnam.travel/places-to-go/northern-vietnam/ha-giang",
+      "note": "Vietnam Tourism. The palace in Sa Phin."
+    }
+  ],
+  "interests": ["mountains", "photography"]
+}

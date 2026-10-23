@@ -115,3 +115,75 @@ Accessed 23 Oct 2026 unless a line says otherwise. Published Vietnam Guide JSON 
 - Publisher: Cổng Dịch vụ công Quốc gia
 - Accessed: 23 Oct 2026
 - Supports: search extract only. The procedure is a provincial-police permit for a foreigner entering a prohibited zone or a border zone. The extract printed a fee of 10 USD and not more than 5 working days. The HTML was not re-read. Those figures are not adopted. Fee and time: Check on arrival.
+
+### S20
+- URL: https://commons.wikimedia.org/wiki/File:Quanba.jpg
+- Publisher: Wikimedia Commons
+- Accessed: 23 Oct 2026
+- Supports: Quan Ba hero. Lee Lio. CC BY 2.0. 24 Sep 2008. Both hills and the rice.
+
+### S21
+- URL: https://commons.wikimedia.org/wiki/File:L%C3%A1_c%E1%BB%9D_Vi%E1%BB%87t_Nam_tr%C3%AAn_%C4%91%E1%BB%89nh_C%E1%BB%99t_c%E1%BB%9D_L%C5%A9ng_C%C3%BA.JPG
+- Publisher: Wikimedia Commons
+- Accessed: 23 Oct 2026
+- Supports: Lung Cu hero. Leminhel. Public domain. Flag and tower crown.
+
+### S22
+- URL: https://commons.wikimedia.org/wiki/File:L%C5%A9ng_C%C3%BA,_%C4%90%E1%BB%93ng_V%C4%83n,_H%C3%A0_Giang,_Vietnam_-_panoramio_(1).jpg
+- Publisher: Wikimedia Commons
+- Accessed: 23 Oct 2026
+- Supports: Lung Cu second frame. trungydang. CC BY 3.0. Fields and the switchback.
+
+### S23
+- URL: https://commons.wikimedia.org/wiki/File:Dinh_th%E1%BB%B1_vua_M%C3%A8o_h%E1%BB%8D_V%C6%B0%C6%A1ng_-_Vuong%E2%80%99s_Palace,_%C4%90%E1%BB%93ng_V%C4%83n.jpg
+- Publisher: Wikimedia Commons
+- Accessed: 23 Oct 2026
+- Supports: Palace hero. Khánh Hmoong. CC BY 2.0. Courtyard.
+
+### S24
+- URL: https://commons.wikimedia.org/wiki/File:Hmong_Lord%27s_Palace_front_gate.jpg
+- Publisher: Wikimedia Commons
+- Accessed: 23 Oct 2026
+- Supports: Palace second frame. Benjamin Smith. CC BY-SA 4.0. Gate.
+
+### S25
+- URL: https://commons.wikimedia.org/wiki/File:S%C3%B4ng_Nho_Qu%E1%BA%BF_2022_-_NKS.jpg
+- Publisher: Wikimedia Commons
+- Accessed: 23 Oct 2026
+- Supports: Nho Quế hero. NKSTTSSHNVN. CC BY-SA 4.0. February 2022.
+
+### S26
+- URL: https://commons.wikimedia.org/wiki/File:Ma_Pi_Leng_pass_viewed_from_Meo_Vac_in_2014_02.jpg
+- Publisher: Wikimedia Commons
+- Accessed: 23 Oct 2026
+- Supports: Nho Quế second frame. Vuong Tri Binh. CC BY-SA 4.0.
+
+### S27
+- URL: https://commons.wikimedia.org/wiki/File:Needle_trees_in_the_Yen_Minh_district_2.jpg
+- Publisher: Wikimedia Commons
+- Accessed: 23 Oct 2026
+- Supports: Yen Minh pines hero. Vuong Tri Binh. CC BY-SA 4.0.
+
+### S28
+- URL: https://commons.wikimedia.org/wiki/File:Needle_trees_in_the_Yen_Minh_district_3.jpg
+- Publisher: Wikimedia Commons
+- Accessed: 23 Oct 2026
+- Supports: Yen Minh pines second frame. Vuong Tri Binh. CC BY-SA 4.0.
+
+### S29
+- URL: https://commons.wikimedia.org/wiki/File:Khu_pho_co,_tt_Dong_van,_tinh_Hagiang_Vi%E1%BB%87t_Nam_-_panoramio.jpg
+- Publisher: Wikimedia Commons
+- Accessed: 23 Oct 2026
+- Supports: Dong Van old-quarter second frame. trungydang. CC BY 3.0. 9 Oct 2015.
+
+### S30
+- URL: https://commons.wikimedia.org/wiki/File:Le_col_de_Ma_Pi_Leng_(Dong_Van-Meo_Vac).jpg
+- Publisher: Wikimedia Commons
+- Accessed: 23 Oct 2026
+- Supports: Ma Pi Leng second frame. Jaybeelarsay. CC BY-SA 3.0. 23 Mar 2008.
+
+### S31
+- URL: https://commons.wikimedia.org/wiki/File:Deo_Hanh_phuc.Meo_Vac.Hagiang.vn_-_panoramio.jpg
+- Publisher: Wikimedia Commons
+- Accessed: 23 Oct 2026
+- Supports: Đèo Hạnh Phúc, Mèo Vạc. trungydang. CC BY 3.0. Opened and rejected: fog wash. Not used on a page.

@@ -3,8 +3,8 @@
   "placeSlug": "ha-giang",
   "name": "Dong Van",
   "nameVi": "Đồng Văn",
-  "kicker": "Stone town on the loop",
-  "summary": "Stay in Đồng Văn when you want the stone town, not a second hour on the pass. UNESCO counts about 40 houses from 1890, with the market and the houses together. Walk the old quarter and use the market at night or early morning. Sunday is the market day. Arrive before sunset.",
+  "kicker": "Stone old quarter on the loop",
+  "summary": "Stone old quarter in Đồng Văn: walk the market houses and stay the night before the pass. About 40 houses date to 1890, with the market and the houses together. Sunday is the market day. Arrive before sunset and give the quarter its own hour.",
   "dots": 3,
   "district": "Dong Van",
   "timeNeeded": "Overnight",
@@ -12,24 +12,33 @@
   "getThere": "On QL4C through Sà Phìn, before the pass",
   "verified": "23 Oct 2026",
   "heroCaption": "The square in Đồng Văn, tiled roofs against the karst cliff",
+  "body": [
+    "Walk the old quarter. About 40 houses date to 1890, and the market sits with them. Sunday is the market day in Đồng Văn and in Mèo Vạc. Use the market at night or early in the morning.",
+    "Stay the night on these streets and leave the pass for its own morning. Mèo Vạc is 24 km farther and takes most of a morning if you stop. Đồn Cao is a 20-minute hike up from town for the view. Take that walk in daylight."
+  ],
+  "figures": [
+    {
+      "id": "ha-giang-dong-van-2",
+      "caption": "Market halls in the old quarter, stone columns and tiled roofs",
+      "alt": "Stone market halls and tiled roofs along the old quarter street in Dong Van"
+    }
+  ],
   "gettingThere": [
-    "Đồng Văn is the stone town on the loop. Xã Đồng Văn joins thị trấn Đồng Văn and the communes named with it in 2025. Older pages still say the town. UNESCO describes about 40 preserved houses dating to 1890, a market and houses together. The walk is the old quarter, not a museum day. How long you stay on the street is Check on arrival.",
-    "The road from the town is QL4C through Sà Phìn. The Hmong palace sits on that stretch. The loop page puts the palace about 14 km from Đồng Văn town. The Tân Mỹ commune article says about 15 km from the center of xã Đồng Văn. Both distances stay. Arrive before sunset. Sunday is the market day in Đồng Văn and Mèo Vạc. The market hour is Check on arrival.",
-    "Đồn Cao is a 20-minute hike from the town for the view. Go in daylight. The fee is Check on arrival. Mèo Vạc is 24 km farther, over Mã Pì Lèng, and takes most of a morning if you stop. Do not budget the pass and the old quarter as the same hour."
+    "Đồng Văn is the stone town on QL4C, after Yên Minh and Sà Phìn. Xã Đồng Văn is the 2025 commune. Older pages still say the town. The walk is the old quarter.",
+    "The palace sits on the Sà Phìn stretch, about 14 km from Đồng Văn town and about 15 km from the center of xã Đồng Văn. Arrive before sunset. Sunday fills the market."
   ],
   "legs": [
     {
       "heading": "From Ha Giang town",
-      "body": "QL4C through Yên Minh and Sà Phìn. The four-day page uses Sà Phìn for food and fuel, then stays in Đồng Văn. Ride in daylight."
+      "body": "QL4C through Yên Minh and Sà Phìn. Sà Phìn is the food and fuel stop. Stay in Đồng Văn. Ride in daylight."
     },
     {
       "heading": "From the palace",
-      "body": "About 14 km to Đồng Văn town on the loop page, and about 15 km from the center of xã Đồng Văn on the Tân Mỹ commune article. Both stay."
+      "body": "About 14 km to Đồng Văn town, and about 15 km from the center of xã Đồng Văn."
     }
   ],
   "hours": "Check on arrival",
   "closed": "Check on arrival",
-  "admissionNote": "Walking the streets has no ticket on the UNESCO page. The fee is Check on arrival. Sunday is the market day. The hour is Check on arrival.",
   "links": [
     {
       "label": "Dong Van Karst Plateau UNESCO Global Geopark",
@@ -39,7 +48,12 @@
     {
       "label": "Ha Giang loop, four-day road",
       "url": "https://www.vietnam.travel/things-to-do/ha-giang-loop-four-day-road-trip",
-      "note": "Vietnam Tourism. The night in Đồng Văn."
+      "note": "Vietnam Tourism. The night in Đồng Văn, and the market."
+    },
+    {
+      "label": "Ha Giang loop, nature and culture",
+      "url": "https://vietnam.travel/things-to-do/ha-giang-loop-where-nature-and-culture-come-one",
+      "note": "Vietnam Tourism. Sunday markets in Đồng Văn and Mèo Vạc."
     }
   ],
   "interests": ["markets", "mountains"]
