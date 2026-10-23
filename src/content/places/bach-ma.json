@@ -23,6 +23,7 @@
   },
   "cover": "highlands",
   "nearby": ["hue", "lang-co", "da-nang"],
+  "foodSlug": "bach-ma",
   "routeSlugs": [],
   "itinerarySlugs": ["bach-ma-summit-day"],
   "seoTitle": "Bach Ma: sleep in the summit villa, or at the gate",
@@ -56,9 +57,24 @@
   ],
   "eat": [
     "The morning at the gate is a thick Huế-style coffee in the town, then chợ Cầu Hai, facing the lagoon. Thanh Niên describes brick crab with a thin shell and red roe, land shrimp that Huế cooks as tôm chua with boiled pork and pickled bean sprouts, and the brackish fish cá kình, cá dìa, cá hanh, and cá đối, caught in phá Tam Giang and đầm Cầu Hai. The essay does not print a recipe, a grill, or a stall price. The market clock is check on arrival.",
-    "Inside the park, the kitchens the management allows serve phở, bún, or mì bò at breakfast, a set rice, and grill or seafood if you order ahead. That is a canteen list, not a local dish. Kitchen hours and prices are check on arrival. Huế bowls stay in Hue. Lang Co’s beach dishes stay on that bay."
+    "Inside the park, the kitchens the management allows serve phở, bún, or mì bò at breakfast, a set rice, and grill or seafood if you order ahead. That is a canteen list, not a local dish. Kitchen hours and prices are Check on arrival. Huế bowls stay in Hue. Lang Co’s beach dishes stay on that bay.",
+    "CafeBiz, Phùng Hà, 29 June 2022, names bánh ép Cầu Hai as a lagoon cake from Phú Lộc: tapioca starch, lean pork, and shrimp, eaten hot with mắm nêm. Đại Việt Tourist, Hằng Min, disagrees. The 15 August 2024 account says pork and mắm nêm, with no shrimp. The 19 April 2025 account says a thin crisp cake, pork, and nước mắm. A price is Check on arrival."
   ],
-  "dishSlugs": [],
+  "dishSlugs": [
+    "bach-ma--cua-gach",
+    "bach-ma--tom-dat",
+    "bach-ma--ca-kinh",
+    "bach-ma--ca-dia",
+    "bach-ma--ca-hanh",
+    "bach-ma--ca-doi",
+    "bach-ma--ca-phe",
+    "bach-ma--banh-ep",
+    "bach-ma--tom-chua",
+    "bach-ma--pho",
+    "bach-ma--bun",
+    "bach-ma--mi-bo",
+    "bach-ma--com"
+  ],
   "interestsBody": [
     "Hải Vọng Đài is the cloud-forest lookout, 800 m from Morin. The park trail pages say about 1,430 m. The handbook adds a historical summit of 1,440 m. The 2021 feature says 1,450 m above the bell. A March 2025 report says higher than 1,400 m.",
     "Đỗ Quyên is off km 16, a headwater of one of the two main branches of the Hương. The park trail page says higher than 300 m, about 1.5 km, nearly 700 steps, and about 30 minutes. The walking page says about 300 m. VnExpress says nearly 400 m and agrees on about 30 minutes and nearly 700 steps. Ngũ Hồ is five pools near biệt thự Kim Giao. The park says about 1.5 km and 30 minutes, and that you can swim in lakes 4 and 5 if you can take the cold. VnExpress says nearly an hour for that leg. Do not budget the viewpoint, the fall, and the pools as one hour.",
@@ -66,6 +82,22 @@
     "The park sells a bird-calling guide, Trương Cảm, at 700,000 VND on a weekday and 900,000 VND on a holiday. VnExpress says early morning and late afternoon, and a clock for the walk is check on arrival. The Trĩ Sao trail is named for the pheasant. The page describes pools, not a sighting."
   ],
   "interestGroups": [
+    {
+      "title": "Dining and F&B",
+      "summary": "Brick crab and land shrimp at chợ Cầu Hai, then a short breakfast inside the park.",
+      "body": [
+        "Thanh Niên, 14 March 2016, puts the morning in thị trấn Cầu Hai: a thick Huế-style coffee, then chợ Cầu Hai on National Highway 1A, facing the lagoon. The crab has a thin shell and red roe. The land shrimp is the shrimp Huế cooks as tôm chua. The fish named there are cá kình, cá dìa, cá hanh, and cá đối. A recipe and a market hour are Check on arrival.",
+        "VnExpress, updated 4 February 2025, says the kitchens inside the park serve phở, bún, or mì bò at breakfast, and cơm đĩa or cơm phần. Kitchen hours and a price are Check on arrival. Huế bowls stay in Huế."
+      ],
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "Brick crab and land shrimp at chợ Cầu Hai. Inside the park, phở, bún, or mì bò. A price is Check on arrival.",
+          "icon": "food",
+          "to": "food"
+        }
+      ]
+    },
     {
       "title": "The summit view",
       "summary": "For the morning at Hải Vọng Đài, when forest, the lagoon, and the sea are the point.",
