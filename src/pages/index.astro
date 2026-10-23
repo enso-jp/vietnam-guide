@@ -9,7 +9,6 @@ import interestPhotos from '../content/interest-photos.json';
 import { attractionsForInterest, cardLine, corridorsNorthToSouth, getHighlights, getOtherPosts, getPlaces, placePath, placesForInterest, placesInCorridor } from '../lib/content';
 import TripSearch from '../components/TripSearch.astro';
 import { photoPath } from '../lib/photos';
-import { organization } from '../lib/schema';
 import type { Place } from '../lib/types';
 import topDestinations from '../content/top-destinations.json';
 
@@ -63,27 +62,8 @@ const tools = [
   { href: '/plan/street-manners', title: 'Etiquette', text: 'How to avoid cultural mistakes', icon: 'flag' },
   { href: '/seasons', title: 'Seasons', text: 'Rice, floods, and Tet', icon: 'event' },
 ];
-const jsonLd = [
-  {
-    '@context': 'https://schema.org',
-    '@type': 'WebSite',
-    '@id': `${site.url}/#website`,
-    name: site.name,
-    alternateName: site.alternateNames,
-    url: `${site.url}/`,
-    description: site.description,
-    inLanguage: 'en',
-    publisher: { '@id': `${site.url}/#organization` },
-    potentialAction: {
-      '@type': 'SearchAction',
-      target: `${site.url}/search?q={query}`,
-      'query-input': 'required name=query',
-    },
-  },
-  organization(),
-];
 ---
-<Base title={titles.home} description={site.description} path="/" jsonLd={jsonLd} ogType="website" ogImage={photoPath(lead?.photo || 'hanoi')}>
+<Base title={titles.home} description={site.description} path="/" ogType="website" ogImage={photoPath(lead?.photo || 'hanoi')}>
   <div class="home">
     <div class="home-top">
       {lead && (

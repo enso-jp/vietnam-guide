@@ -6,7 +6,6 @@ import Crumbs from '../../components/Crumbs.astro';
 import Photo from '../../components/Photo.astro';
 import SectionNav from '../../components/SectionNav.astro';
 import { titles } from '../../lib/page-title';
-import { organization } from '../../lib/schema';
 
 const credits = JSON.parse(readFileSync(join(process.cwd(), 'public', 'photos', 'credits.json'), 'utf8')) as Record<string, { author?: string; license?: string }>;
 
@@ -17,7 +16,7 @@ function creditLine(id: string) {
 
 const description = 'Vietnam, in this guide, is a place of beauty and culture, a life lived in the open, and a turn toward what comes next.';
 ---
-<Base title={titles.about} description={description} path="/about" ogType="website" ogImage="/photos/ha-long.jpg" jsonLd={organization()}>
+<Base title={titles.about} description={description} path="/about" ogType="website" ogImage="/photos/ha-long.jpg">
   <article class="about-page section">
     <div class="wrap">
       <Crumbs items={[{ name: 'About' }]} />

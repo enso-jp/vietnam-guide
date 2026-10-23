@@ -6,8 +6,33 @@ export function organization() {
     '@type': 'Organization',
     '@id': `${site.url}/#organization`,
     name: site.name,
+    alternateName: site.alternateNames,
     url: `${site.url}/`,
-    logo: `${site.url}/icon-512.png`,
+    logo: {
+      '@type': 'ImageObject',
+      url: `${site.url}/icon-512.png`,
+      width: 512,
+      height: 512,
+    },
+  };
+}
+
+export function website() {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    '@id': `${site.url}/#website`,
+    name: site.name,
+    alternateName: site.alternateNames,
+    url: `${site.url}/`,
+    description: site.description,
+    inLanguage: 'en',
+    publisher: { '@id': `${site.url}/#organization` },
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: `${site.url}/search?q={query}`,
+      'query-input': 'required name=query',
+    },
   };
 }
 
@@ -52,7 +77,7 @@ export function article(headline: string, description: string, path: string, ima
     url: abs(path),
     mainEntityOfPage: abs(path),
     ...(image ? { image: abs(image) } : {}),
-    publisher: { '@type': 'Organization', name: site.name, url: site.url },
+    publisher: { '@id': `${site.url}/#organization` },
   };
 }
 

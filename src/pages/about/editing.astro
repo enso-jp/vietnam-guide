@@ -2,9 +2,8 @@
 import Base from '../../layouts/Base.astro';
 import SectionNav from '../../components/SectionNav.astro';
 import { titles } from '../../lib/page-title';
-import { organization } from '../../lib/schema';
 ---
-<Base title={titles.editing} description="Each public page is a JSON file. The template decides the layout. You fill named fields. You do not invent a new design per city." path="/about/editing" jsonLd={organization()}>
+<Base title={titles.editing} description="Each public page is a JSON file. The template decides the layout. You fill named fields. You do not invent a new design per city." path="/about/editing">
   <article class="wrap section">
     <h1>Update a page</h1>
     <p>Each public page is a JSON file in <code>src/content</code>. The template decides the layout. You fill named fields. You do not invent a new design per city.</p>
