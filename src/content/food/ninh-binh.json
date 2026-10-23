@@ -2,13 +2,14 @@
   "slug": "ninh-binh",
   "name": "Ninh Binh food guide",
   "placeSlug": "ninh-binh",
-  "summary": "Ninh Bình eats goat and cơm cháy on the roads toward the karst, Kim Sơn noodles on the coast, and the doors the province printed in June 2025. Nam Định’s phở stays in Nam Định.",
+  "summary": "Ninh Bình eats mountain goat and crisp cơm cháy on the roads out to the karst, pork-ball noodles and nhệch salad on the Kim Sơn coast, and ant-egg sticky rice in Nho Quan when February comes.",
   "heroSlug": "com-chay",
   "body": [
-    "Eat the valley and the Kim Sơn coast as their own list. Cơm cháy is the plate with a photograph. The other dishes are names from the 15 February 2023 culture page and the 5 November 2024 tourism article. They print under the photograph as text until a licensed plate of that dish exists.",
-    "The doors are the provincial restaurant list dated 30 June 2025. The first heading is cơm văn phòng. The second heading is nhà hàng du lịch. The list does not call a room fine dining, and it does not describe a foreign menu. Hours were not printed. Check on arrival. A price appears only where that row prints one."
+    "Start with goat. Every road and lane out to Tràng An, Hoa Lư, and Bái Đính has dê núi shops, and the meat is firm because the animals climb the limestone. Order it rare with lime, wrapped in sung leaf and dipped in soy sauce, then break a cake of cơm cháy into the goat sauce.",
+    "Further out, the menu follows the district. Kim Sơn has bún mọc with fist-sized pork balls and gỏi nhệch, Vân Long grills its snakehead by the wetland, Gia Viễn makes shrimp paste and grills fish with straw, Yên Mô sells nem chua, giò trứng, and bánh đúc, and Nho Quan has forest honey, golden camellia tea, and Mường jar wine.",
+    "For a sit-down meal, the province lists its tourism restaurants and its cơm văn phòng set-rice rooms with addresses and phone numbers. Set rice starts from 30,000 đồng a portion where a room lists a price."
   ],
-  "specialtiesLead": "Cơm cháy is the dish with a photograph. The other names follow under their own heading, with the area the source gives.",
+  "specialtiesLead": "These are the plates to look for, with the district each one belongs to.",
   "dishSlugs": [
     "com-chay",
     "de-tai-chanh",
@@ -59,294 +60,301 @@
       "heading": "Named dishes",
       "nav": "Named dishes",
       "paragraphs": [
-        "These are the dishes named on the 15 February 2023 culture page and the 5 November 2024 tourism article, apart from cơm cháy above. Yên Khánh is described only as các loại bánh, with no cake named, so it is not a line here. A shop hour was not printed. Check on arrival."
+        "Goat sits on the valley roads, noodles and fish on the Kim Sơn coast, snails and fish in Gia Viễn and Vân Long, and teas, honey, and jar wine up in Nho Quan. The last few are OCOP products, the certified local goods to carry home."
       ],
       "spots": [
         {
           "name": "De tai chanh",
           "nameVi": "Dê tái chanh",
           "address": "Roads toward Tràng An, Hoa Lư, and Bái Đính",
-          "note": "Dê tái chanh is the goat plate the 15 February 2023 culture page puts with lá sung and nước tương. The page says mountain goat is firm because the animals climb the limestone. A shop hour was not printed. Check on arrival.",
+          "note": "Rare goat dressed with lime, eaten wrapped in a sung leaf and dipped in soy sauce. Mountain goat here is firm, because the animals climb the limestone.",
+          "photo": "de-tai-chanh",
           "dishSlug": "de-tai-chanh"
         },
         {
           "name": "De xao sa ot",
           "nameVi": "Dê xào sả ớt",
           "address": "Roads toward Tràng An, Hoa Lư, and Bái Đính",
-          "note": "Dê xào sả ớt is stir-fried mountain goat with lemongrass and chili, one of the preparations on the 15 February 2023 culture page. A shop hour was not printed. Check on arrival.",
+          "note": "Mountain goat stir-fried with lemongrass and chili, one of the plates in the goat shops on the roads to the sights.",
           "dishSlug": "de-xao-sa-ot"
         },
         {
           "name": "De nui nhung me",
           "nameVi": "Dê núi nhúng mẻ",
           "address": "Roads toward Tràng An, Hoa Lư, and Bái Đính",
-          "note": "Dê núi nhúng mẻ is mountain goat dipped in fermented rice, named on the 15 February 2023 culture page beside the other dê núi plates. A shop hour was not printed. Check on arrival.",
+          "note": "Mountain goat dipped in mẻ, fermented rice, at the goat tables on the roads to the sights.",
           "dishSlug": "de-nui-nhung-me"
         },
         {
           "name": "De nuong ngu vi",
           "nameVi": "Dê nướng ngũ vị",
           "address": "Roads toward Tràng An, Hoa Lư, and Bái Đính",
-          "note": "Dê nướng ngũ vị is five-spice grilled mountain goat, listed on the 15 February 2023 culture page. A shop hour was not printed. Check on arrival.",
+          "note": "Mountain goat grilled with five-spice.",
           "dishSlug": "de-nuong-ngu-vi"
         },
         {
           "name": "De ham thuoc bac",
           "nameVi": "Dê hầm thuốc bắc",
           "address": "Roads toward Tràng An, Hoa Lư, and Bái Đính",
-          "note": "Dê hầm thuốc bắc is mountain goat stewed with Chinese medicinal herbs, named on the 15 February 2023 culture page. A shop hour was not printed. Check on arrival.",
+          "note": "Mountain goat stewed with Chinese medicinal herbs.",
           "dishSlug": "de-ham-thuoc-bac"
         },
         {
           "name": "Doi de chien",
           "nameVi": "Dồi dê chiên",
           "address": "Roads toward Tràng An, Hoa Lư, and Bái Đính",
-          "note": "Dồi dê chiên is fried goat sausage, one of the dê núi dishes on the 15 February 2023 culture page. A shop hour was not printed. Check on arrival.",
+          "note": "Fried goat sausage, served with the other mountain-goat plates.",
           "dishSlug": "doi-de-chien"
         },
         {
           "name": "Com chay sot de",
           "nameVi": "Cơm cháy sốt dê",
           "address": "Roads toward Tràng An, Hoa Lư, and Bái Đính",
-          "note": "Cơm cháy sốt dê is the crisp rice cake with goat sauce. The 15 February 2023 culture page names it both as a way to eat cơm cháy and as one of the dê núi dishes. A shop hour was not printed. Check on arrival.",
+          "note": "Ninh Bình’s crisp rice cake eaten with goat sauce, where the province’s two best-known foods meet on one plate.",
           "dishSlug": "com-chay-sot-de"
         },
         {
           "name": "Chao thit de",
           "nameVi": "Cháo thịt dê",
           "address": "Roads toward Tràng An, Hoa Lư, and Bái Đính",
-          "note": "Cháo thịt dê is goat-meat rice porridge, listed with the other mountain-goat dishes on the 15 February 2023 culture page. A shop hour was not printed. Check on arrival.",
+          "note": "Rice porridge cooked with goat meat, from the same mountain-goat menu as the grills and stews.",
           "dishSlug": "chao-thit-de"
         },
         {
           "name": "De u trau",
           "nameVi": "Dê ủ trấu",
           "address": "Roads toward Tràng An, Hoa Lư, and Bái Đính",
-          "note": "Dê ủ trấu is goat cooked in rice husks, named on the 15 February 2023 culture page with the other dê núi dishes. A shop hour was not printed. Check on arrival.",
+          "note": "Goat cooked in rice husks.",
           "dishSlug": "de-u-trau"
         },
         {
           "name": "Ca ri de",
           "nameVi": "Cà ri dê",
           "address": "Roads toward Tràng An, Hoa Lư, and Bái Đính",
-          "note": "Cà ri dê is goat curry, the last of the mountain-goat dishes named on the 15 February 2023 culture page. A shop hour was not printed. Check on arrival.",
+          "note": "Goat curry from the mountain-goat menu.",
           "dishSlug": "ca-ri-de"
         },
         {
           "name": "Goi ca nhech",
           "nameVi": "Gỏi cá nhệch",
           "address": "Kim Sơn",
-          "note": "Gỏi cá nhệch is the Kim Sơn fish salad on the 15 February 2023 culture list. A 5 November 2024 tourism article also names gỏi nhệch for Kim Sơn. A shop hour was not printed. Check on arrival.",
+          "note": "A salad of nhệch, the home dish of the Kim Sơn coast. Visitors also eat it in the old capital at Hoa Lư.",
+          "photo": "goi-ca-nhech",
           "dishSlug": "goi-ca-nhech"
         },
         {
           "name": "Bun moc Kim Son",
           "nameVi": "Bún mọc Kim Sơn",
           "address": "Kim Sơn",
-          "note": "Bún mọc Kim Sơn is noodles with pork balls. The 15 February 2023 culture page says the pork is leg meat, seasoned with nước mắm, pepper, and bột ngọt, spread on banana leaf, and boiled 7 to 10 minutes. The balls are about the size of a child’s fist. A shop hour was not printed. Check on arrival.",
+          "note": "Rice noodles in broth with pork balls the size of a child’s fist, made from leg meat seasoned with fish sauce and pepper and boiled on banana leaf. Eat it with banana flower, tía tô, rau răm, lime, and chili vinegar.",
           "dishSlug": "bun-moc-kim-son"
         },
         {
           "name": "Ca chuoi nuong",
           "nameVi": "Cá chuối nướng",
           "address": "Vân Long",
-          "note": "Cá chuối nướng is grilled fish the 15 February 2023 culture page ties to đầm Vân Long. It says the flesh is white, with peanuts and herbs, dipped in nước mắm. A shop hour was not printed. Check on arrival.",
+          "note": "Grilled snakehead from the Vân Long wetland, with white flesh, eaten with peanuts and herbs and dipped in fish sauce.",
           "dishSlug": "ca-chuoi-nuong"
         },
         {
           "name": "Ca tre nuong",
           "nameVi": "Cá trê nướng",
           "address": "Vân Long",
-          "note": "Cá trê nướng is grilled catfish. The conservation page names it among things that have drawn visitors to Vân Long. It is not the same sentence as cá chuối nướng. A shop hour was not printed. Check on arrival.",
+          "note": "Grilled catfish, one of the foods that draws visitors to the Vân Long wetland.",
           "dishSlug": "ca-tre-nuong"
         },
         {
           "name": "Oc nui",
           "nameVi": "Ốc núi đá",
-          "address": "The limestone. The culture page says April through August",
-          "note": "Ốc núi đá are the limestone snails the 15 February 2023 culture page says live in rock crevices and eat forest leaves. It says the meat is thick from April through August. A shop hour was not printed. Check on arrival.",
+          "address": "The limestone hills, April to August",
+          "note": "Snails that live in the limestone crevices and feed on forest leaves. Eat them from April to August, when the meat is thick.",
           "dishSlug": "oc-nui"
         },
         {
           "name": "Xoi trung kien",
           "nameVi": "Xôi trứng kiến",
           "address": "Nho Quan, in February",
-          "note": "Xôi trứng kiến is sticky rice with brown-ant eggs. The 15 February 2023 culture page says Ninh Bình’s come from Nho Quan and the dish exists only in February. It says the eggs pop when chewed. A shop hour was not printed. Check on arrival.",
+          "note": "Sticky rice with brown-ant eggs from Nho Quan, made only in February. The eggs pop when you bite them.",
           "dishSlug": "xoi-trung-kien"
         },
         {
           "name": "Nem chua Yen Mac",
           "nameVi": "Nem chua Yên Mạc",
           "address": "Yên Mạc",
-          "note": "Nem chua Yên Mạc is fermented pork. The 15 February 2023 culture page names garlic, chili, lá đinh lăng, and roasted rice powder. A 2024 tourism article names the same plate for Yên Mô. A shop hour was not printed. Check on arrival.",
+          "note": "Fermented pork seasoned with garlic, chili, đinh lăng leaf, and roasted rice powder. Yên Mô claims the same plate.",
+          "photo": "nem-chua-yen-mac",
           "dishSlug": "nem-chua-yen-mac"
         },
         {
           "name": "Bun cha quat",
           "nameVi": "Bún chả quạt",
-          "address": "Ninh Bình. A commune was not printed",
-          "note": "Bún chả quạt is noodles with a wide grilled pork patty. The 15 February 2023 culture page contrasts that patty with the round pieces elsewhere. A shop hour was not printed. Check on arrival.",
+          "address": "Ninh Bình",
+          "note": "Rice noodles with grilled pork pressed into one wide, fan-shaped patty instead of small round pieces.",
           "dishSlug": "bun-cha-quat"
         },
         {
           "name": "Mien luon",
           "nameVi": "Miến lươn",
-          "address": "Ninh Bình. A street was not printed",
-          "note": "Miến lươn on the 15 February 2023 Ninh Bình culture page is glass noodles in a broth simmered from eel bones, with eel cooked in seasoning. The page asks for small eels, brown-pink along the back. A shop hour was not printed. Check on arrival.",
+          "address": "Ninh Bình",
+          "note": "Glass noodles in a broth simmered from eel bones, topped with small eels cooked in seasoning and eaten with shredded banana flower.",
           "dishSlug": "mien-luon-ninh-binh"
         },
         {
           "name": "Banh xeo with nem lui",
           "nameVi": "Bánh xèo với nem lụi",
-          "address": "Ninh Bình. A street was not printed",
-          "note": "The 15 February 2023 culture page says bánh xèo is made in many provinces, and that the Ninh Bình plate is the crisp pancake with nem lụi and herbs. It does not claim the pancake was invented here. A shop hour was not printed. Check on arrival.",
+          "address": "Ninh Bình",
+          "note": "A crisp rice pancake served with nem lụi, grilled pork skewers, and fresh herbs, the plate Ninh Bình orders after a day of sightseeing.",
           "dishSlug": "banh-xeo-nem-lui"
         },
         {
           "name": "Cua dong rang la lot",
           "nameVi": "Cua đồng rang lá lốt",
-          "address": "Ninh Bình. A street was not printed",
-          "note": "Cua đồng rang lá lốt is field crab fried with betel leaf, named on the 15 February 2023 culture page. A shop hour was not printed. Check on arrival.",
+          "address": "Ninh Bình",
+          "note": "Field crab fried with lá lốt, betel leaf.",
           "dishSlug": "cua-dong"
         },
         {
           "name": "Banh da ca ro dong",
           "nameVi": "Bánh đa cá rô đồng",
-          "address": "Ninh Bình. A street was not printed",
-          "note": "Bánh đa cá rô đồng is a rice cracker with field climbing perch. The 15 February 2023 culture page says you eat it with green mustard greens. A shop hour was not printed. Check on arrival.",
+          "address": "Ninh Bình",
+          "note": "Rice cracker with field climbing perch, eaten with green mustard greens.",
           "dishSlug": "banh-da-ca-ro"
         },
         {
           "name": "Mam tep Gia Vien",
           "nameVi": "Mắm tép Gia Viễn",
           "address": "Gia Viễn",
-          "note": "Mắm tép Gia Viễn is shrimp paste from Gia Viễn, on the 15 February 2023 culture list. A 2024 tourism article names the same paste for Gia Viễn and a gift ranking for 2020–2021. A shop hour was not printed. Check on arrival.",
+          "note": "Shrimp paste from Gia Viễn, ranked among the province’s gifts to carry home.",
           "dishSlug": "mam-tep-gia-vien"
         },
         {
           "name": "Ruou can Nho Quan",
           "nameVi": "Rượu cần Nho Quan",
           "address": "Nho Quan",
-          "note": "Rượu cần Nho Quan is un-distilled jar wine of the Mường. The 15 February 2023 culture page says it is made from glutinous rice and yeast, and that you add a little water to the jar and drink. A shop hour was not printed. Check on arrival.",
+          "note": "Mường jar wine brewed from glutinous rice and yeast and never distilled. Add a little water to the jar and drink.",
+          "photo": "ruou-can-nho-quan",
           "dishSlug": "ruou-can-nho-quan"
         },
         {
           "name": "Ruou Kim Son",
           "nameVi": "Rượu Kim Sơn",
           "address": "Kim Sơn",
-          "note": "Rượu Kim Sơn is the drink the tourism overview names with goat and cơm cháy. The culture page’s jar wine, rượu cần, is a different sentence. Do not treat them as one bottle. A shop hour was not printed. Check on arrival.",
+          "note": "Kim Sơn’s local rượu, the liquor Ninh Bình names beside its goat and cơm cháy. It is a different drink from the Mường jar wine.",
+          "photo": "ruou-kim-son",
           "dishSlug": "ruou-kim-son"
         },
         {
           "name": "Forest honey",
           "nameVi": "Mật ong rừng",
-          "address": "Nho Quan. A shop was not printed. Check on arrival.",
-          "note": "Mật ong rừng is one of the Nho Quan mountain foods the 5 November 2024 tourism article names with ant-egg sticky rice, golden camellia tea, and jar wine. A shop hour was not printed. Check on arrival.",
+          "address": "Nho Quan",
+          "note": "Wild forest honey from the Nho Quan uplands.",
           "dishSlug": "mat-ong-rung"
         },
         {
           "name": "Golden camellia tea",
           "nameVi": "Trà hoa vàng",
-          "address": "Nho Quan. A shop was not printed. Check on arrival.",
-          "note": "Trà hoa vàng is named with the Nho Quan mountain foods on the 5 November 2024 tourism article, beside forest honey, ant-egg sticky rice, and jar wine. A shop hour was not printed. Check on arrival.",
+          "address": "Nho Quan",
+          "note": "Golden camellia tea, one of the Nho Quan mountain foods with forest honey and jar wine.",
           "dishSlug": "tra-hoa-vang"
         },
         {
           "name": "Apple snails",
           "nameVi": "Ốc nhồi",
-          "address": "Gia Viễn. A shop was not printed. Check on arrival.",
-          "note": "Ốc nhồi is one of the Gia Viễn foods the 5 November 2024 tourism article names with straw-grilled fish and shrimp paste. A shop hour was not printed. Check on arrival.",
+          "address": "Gia Viễn",
+          "note": "Apple snails, a Gia Viễn dish beside straw-grilled fish and shrimp paste.",
           "dishSlug": "oc-nhoi"
         },
         {
           "name": "Straw-grilled fish",
           "nameVi": "Cá nướng rơm",
-          "address": "Gia Viễn. A shop was not printed. Check on arrival.",
-          "note": "Cá nướng rơm is named with the Gia Viễn foods on the 5 November 2024 tourism article, beside apple snails and shrimp paste. A shop hour was not printed. Check on arrival.",
+          "address": "Gia Viễn",
+          "note": "Fish grilled with straw, a Gia Viễn dish beside apple snails and shrimp paste.",
           "dishSlug": "ca-nuong-rom"
         },
         {
           "name": "Egg pork loaf",
           "nameVi": "Giò trứng",
-          "address": "Yên Mô. A shop was not printed. Check on arrival.",
-          "note": "Giò trứng is one of the Yên Mô foods the 5 November 2024 tourism article names with bánh đúc and nem chua Yên Mạc. A shop hour was not printed. Check on arrival.",
+          "address": "Yên Mô",
+          "note": "Pork loaf made with egg, a Yên Mô specialty with bánh đúc and nem chua Yên Mạc.",
           "dishSlug": "gio-trung"
         },
         {
           "name": "Banh duc",
           "nameVi": "Bánh đúc",
-          "address": "Yên Mô. A shop was not printed. Check on arrival.",
-          "note": "Bánh đúc is named with the Yên Mô foods on the 5 November 2024 tourism article, beside giò trứng and nem chua Yên Mạc. A shop hour was not printed. Check on arrival.",
+          "address": "Yên Mô",
+          "note": "Rice cake, a Yên Mô specialty with giò trứng and nem chua Yên Mạc.",
+          "photo": "banh-duc",
           "dishSlug": "banh-duc"
         },
         {
           "name": "Chao chan gio",
           "nameVi": "Chạo chân giò",
-          "address": "Kim Sơn. A shop was not printed. Check on arrival.",
-          "note": "Chạo chân giò is one of the Kim Sơn foods the 5 November 2024 tourism article names with gỏi nhệch, bún mọc, and rice wine. A shop hour was not printed. Check on arrival.",
+          "address": "Kim Sơn",
+          "note": "Chạo made from pork hock, a Kim Sơn dish beside gỏi nhệch and bún mọc.",
           "dishSlug": "chao-chan-gio"
         },
         {
           "name": "Ca trau tien vua",
           "nameVi": "Cá tràu tiến vua",
-          "address": "Hoa Lư. A shop was not printed. Check on arrival.",
-          "note": "Cá tràu tiến vua is named with the Hoa Lư foods on the 5 November 2024 tourism article, beside goat, cơm cháy, and cá rô Tổng Trường. A shop hour was not printed. Check on arrival.",
+          "address": "Hoa Lư",
+          "note": "Snakehead once offered to the king, a Hoa Lư dish beside goat and cơm cháy.",
           "dishSlug": "ca-trau-tien-vua"
         },
         {
           "name": "Ca ro Tong Truong",
           "nameVi": "Cá rô Tổng Trường",
-          "address": "Hoa Lư. A shop was not printed. Check on arrival.",
-          "note": "Cá rô Tổng Trường is named with the Hoa Lư foods on the 5 November 2024 tourism article, beside goat, cơm cháy, and cá tràu tiến vua. A shop hour was not printed. Check on arrival.",
+          "address": "Hoa Lư",
+          "note": "Climbing perch from Tổng Trường, a Hoa Lư specialty beside goat and cơm cháy.",
           "dishSlug": "ca-ro-tong-truong"
         },
         {
           "name": "Ca qua nau am",
           "nameVi": "Cá quả nấu ám",
-          "address": "Nho Quan. A shop was not printed. Check on arrival.",
-          "note": "Cá quả nấu ám Nho Quan is named in the 5 November 2024 tourism article, in a remark by TS Mai Thanh Sơn, beside bún mọc Kim Sơn and nem chua Yên Mạc. A shop hour was not printed. Check on arrival.",
+          "address": "Nho Quan",
+          "note": "Snakehead cooked the ám way, a Nho Quan dish.",
           "dishSlug": "ca-qua-nau-am"
         },
         {
           "name": "Pork with shrimp paste",
           "nameVi": "Thịt chưng mắm tép",
-          "address": "An OCOP product on the 5 November 2024 article. A shop was not printed. Check on arrival.",
-          "note": "Thịt chưng mắm tép is named among OCOP foods on the 5 November 2024 tourism article, which says the province had 186 OCOP products of three stars or more by the end of August 2024. A shop hour was not printed. Check on arrival.",
+          "address": "Ninh Bình, OCOP product",
+          "note": "Pork cooked down with shrimp paste, sold as a certified OCOP product.",
           "dishSlug": "thit-chung-mam-tep"
         },
         {
           "name": "Pennywort powder",
           "nameVi": "Bột rau má",
-          "address": "An OCOP product on the 5 November 2024 article. A shop was not printed. Check on arrival.",
-          "note": "Bột rau má is named among OCOP foods on the 5 November 2024 tourism article, in the same list as cơm cháy and ruốc cá rô Tổng Trường. A shop hour was not printed. Check on arrival.",
+          "address": "Ninh Bình, OCOP product",
+          "note": "Dried pennywort powder, sold as a certified OCOP product.",
           "dishSlug": "bot-rau-ma"
         },
         {
           "name": "Ca ro floss",
           "nameVi": "Ruốc cá rô Tổng Trường",
-          "address": "An OCOP product on the 5 November 2024 article. A shop was not printed. Check on arrival.",
-          "note": "Ruốc cá rô Tổng Trường is named among OCOP foods on the 5 November 2024 tourism article, beside thịt chưng mắm tép, bột rau má, and cơm cháy. A shop hour was not printed. Check on arrival.",
+          "address": "Ninh Bình, OCOP product",
+          "note": "Fish floss made from Tổng Trường climbing perch, sold as a certified OCOP product.",
           "dishSlug": "ruoc-ca-ro-tong-truong"
         },
         {
           "name": "Son kim cuc tea",
           "nameVi": "Trà sơn kim cúc",
-          "address": "An OCOP product on the 5 November 2024 article. A shop was not printed. Check on arrival.",
-          "note": "Trà sơn kim cúc is named among OCOP foods on the 5 November 2024 tourism article, beside trà Vũ Gia and rượu vang đào. A shop hour was not printed. Check on arrival.",
+          "address": "Ninh Bình, OCOP product",
+          "note": "Tea brewed from sơn kim cúc, a small yellow mountain chrysanthemum, sold as a certified OCOP product.",
+          "photo": "tra-son-kim-cuc",
           "dishSlug": "tra-son-kim-cuc"
         },
         {
           "name": "Vu Gia tea",
           "nameVi": "Trà Vũ Gia",
-          "address": "An OCOP product on the 5 November 2024 article. A shop was not printed. Check on arrival.",
-          "note": "Trà Vũ Gia is named among OCOP foods on the 5 November 2024 tourism article, beside trà sơn kim cúc and rượu vang đào. A shop hour was not printed. Check on arrival.",
+          "address": "Ninh Bình, OCOP product",
+          "note": "Vũ Gia tea, sold as a certified OCOP product beside sơn kim cúc tea and peach wine.",
           "dishSlug": "tra-vu-gia"
         },
         {
           "name": "Peach wine",
           "nameVi": "Rượu vang đào",
-          "address": "An OCOP product on the 5 November 2024 article. A shop was not printed. Check on arrival.",
-          "note": "Rượu vang đào is named among OCOP foods on the 5 November 2024 tourism article, at the end of the list that also includes cơm cháy and the two teas. A shop hour was not printed. Check on arrival.",
+          "address": "Ninh Bình, OCOP product",
+          "note": "Peach wine, sold as a certified OCOP product beside the province’s two teas.",
           "dishSlug": "ruou-vang-dao"
         }
       ]
@@ -356,309 +364,309 @@
       "heading": "Tourism restaurants",
       "nav": "Tourism restaurants",
       "paragraphs": [
-        "The provincial list dated 30 June 2025 heads this block nhà hàng du lịch. That heading is the source’s category. The list does not call these rooms fine dining. Hours and a meal price were not printed. Check on arrival."
+        "Nhà hàng du lịch are the province’s tourism restaurants, spread from the city out to Tam Điệp, Yên Mô, Kim Sơn, Nho Quan, and Gia Viễn. Call ahead; each one has a phone number."
       ],
       "spots": [
         {
           "name": "Nha hang Cho Que – La Maison",
           "nameVi": "Nhà hàng Chợ Quê – La Maison",
           "address": "Đường Thành Công, phố Tân Trung, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0941948666. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0941948666."
         },
         {
           "name": "Nha hang Thanh Long",
           "nameVi": "Nhà hàng Thành Long",
           "address": "Số 4, phố 4, Ngô Quyền, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0972162261. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0972162261."
         },
         {
           "name": "Nha hang Cung dinh Ngoc Minh",
           "nameVi": "Nhà hàng Cung đình Ngọc Minh",
           "address": "Phố Kim Đa, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0886611186. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0886611186."
         },
         {
           "name": "Nha hang Phuc Bao Linh",
           "nameVi": "Nhà hàng Phúc Bảo Linh",
           "address": "151 Lê Thái Tổ, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0915865905. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0915865905."
         },
         {
           "name": "Nha hang Madame Thu",
           "nameVi": "Nhà hàng Madame Thư",
           "address": "Khu đô thị Xuân Thành, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0357869599. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0357869599."
         },
         {
           "name": "Nha hang Luong Thuong",
           "nameVi": "Nhà hàng Lương Thương",
           "address": "Phố 4, Ngô Quyền, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0945578305. This is the Ngô Quyền row. A second Lương Thương row is on đường Lê Lai in phường Trung Sơn. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0945578305. A second Lương Thương is on đường Lê Lai in phường Trung Sơn."
         },
         {
           "name": "Nha hang Quang Dung",
           "nameVi": "Nhà hàng Quang Dũng",
           "address": "Số 9, đường Ngô Quyền, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0966313336 and 0979125138. This is the Số 9 Ngô Quyền row. The cơm văn phòng row is Ngõ 2, with different phones. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0966313336 and 0979125138. The Quang Dũng set-rice room is in Ngõ 2, with different phones."
         },
         {
           "name": "Nha hang Phuc Loc Tho",
           "nameVi": "Nhà hàng Phúc Lộc Thọ",
           "address": "Ngõ 467, đường Lê Thái Tổ, phố Phúc Chỉnh, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0866 207 888. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0866 207 888."
         },
         {
           "name": "Nha hang Vu Bao",
           "nameVi": "Nhà hàng Vũ Bảo",
           "address": "Đường Lương Văn Tụy kéo dài, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0915469776 and 0919141085. This is the Lương Văn Tụy row. A second Vũ Bảo row is on phố Phát Diệm Đông. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0915469776 and 0919141085. A second Vũ Bảo is on phố Phát Diệm Đông."
         },
         {
           "name": "Nha hang Ky Lan Quan",
           "nameVi": "Nhà hàng Kỳ Lân Quán",
           "address": "29 hồ Kỳ Lân, đường Tràng An 2, phố Tân Trung, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0912762008. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0912762008."
         },
         {
           "name": "Nha hang Vuong Chim",
           "nameVi": "Nhà hàng Vương Chim",
           "address": "453 Trần Hưng Đạo, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0843559293. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0843559293."
         },
         {
           "name": "Nha hang Phong Cach",
           "nameVi": "Nhà hàng Phong Cách",
           "address": "99 Chiến Thắng, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0855522553. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0855522553."
         },
         {
           "name": "Nha hang Tung De",
           "nameVi": "Nhà hàng Tung Dê",
           "address": "Bến đò Tam Cốc, phường Nam Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0942987801. The list places this door at the Tam Coc landing. The boat ticket stays on the Tam Coc page. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0942987801. At the Tam Cốc boat landing."
         },
         {
           "name": "Nha hang Thap Tam",
           "nameVi": "Nhà hàng Thập Tám",
           "address": "Phường Tây Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0914319073. The row prints the ward and no street number. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0914319073."
         },
         {
           "name": "Nha hang Ba Cua",
           "nameVi": "Nhà hàng Ba Cửa",
           "address": "Phường Tây Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0916311658. The row prints the ward and no street number. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0916311658."
         },
         {
           "name": "Nha hang Duc Linh",
           "nameVi": "Nhà hàng Đức Linh",
           "address": "Phường Nam Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0987801132. The row prints the ward and no street number. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0987801132."
         },
         {
           "name": "Nha hang Anh Dung",
           "nameVi": "Nhà hàng Anh Dũng",
           "address": "Đội 2, thôn Văn Lâm, phường Nam Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0389183545. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0389183545."
         },
         {
           "name": "Gasu BBQ",
           "nameVi": "Gasu BBQ",
           "address": "181 Đông Phương Hồng, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0904855055. The list does not describe the menu. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0904855055."
         },
         {
           "name": "Panda BBQ",
           "nameVi": "Panda BBQ",
           "address": "86 Tràng An, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0963963388. The list does not describe the menu. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0963963388."
         },
         {
           "name": "Nha hang Thanh Nga",
           "nameVi": "Nhà hàng Thanh Nga",
           "address": "Cơ sở 1: Tổ 6, phường Trung Sơn. Cơ sở 2: Khu dân cư Đường Vòng, phường Yên Thắng",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0975994470. The row prints two addresses. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0975994470. Two branches."
         },
         {
           "name": "Nha hang Quang Minh Travel",
           "nameVi": "Nhà hàng Quang Minh Travel",
           "address": "Thôn 12, phường Trung Sơn",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0913397288. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0913397288."
         },
         {
           "name": "Nha hang Luong Thuong",
           "nameVi": "Nhà hàng Lương Thương",
           "address": "Đường Lê Lai, tổ 19, phường Trung Sơn",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0968613744. This is the Lê Lai row. The other Lương Thương row is on phố 4, Ngô Quyền. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0968613744. The other Lương Thương is on phố 4, Ngô Quyền."
         },
         {
           "name": "Nha hang Trung Linh",
           "nameVi": "Nhà hàng Trung Linh",
           "address": "Tổ 18, phường Tam Điệp",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0945362395. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0945362395."
         },
         {
           "name": "Nha hang Bao Linh",
           "nameVi": "Nhà hàng Bảo Linh",
           "address": "Tổ 4, phường Tam Điệp",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0985298882. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0985298882."
         },
         {
           "name": "Nha hang Tien Ly",
           "nameVi": "Nhà hàng Tiến Lý",
           "address": "Số 136, tổ 3, phường Tam Điệp",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0988015005. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0988015005."
         },
         {
           "name": "Nha hang Quang Luc - Mo",
           "nameVi": "Nhà hàng Quang Lục - Mô",
           "address": "Số 33, đường Thanh Niên, phố Phú Thịnh, xã Yên Mô",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0968053266. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0968053266."
         },
         {
           "name": "Nha hang Du Mong",
           "nameVi": "Nhà hàng Du Mông",
           "address": "Phố Phú Thịnh, xã Yên Mô",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0907597048. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0907597048."
         },
         {
           "name": "Nha hang 68",
           "nameVi": "Nhà hàng 68",
           "address": "Phố Trung Yên, xã Yên Mô",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0978499780. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0978499780."
         },
         {
           "name": "Nha hang Gio Moi",
           "nameVi": "Nhà hàng Gió Mới",
           "address": "Xóm 4, Đông Sơn, xã Yên Mạc",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0984332818. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0984332818."
         },
         {
           "name": "Nha hang Tri Nga",
           "nameVi": "Nhà hàng Trí Nga",
           "address": "SN 52, đường Hồng Tiến, xã Yên Mô",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0914947438. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0914947438."
         },
         {
           "name": "Nha hang Ngoc Hoan",
           "nameVi": "Nhà hàng Ngọc Hoan",
           "address": "Xóm 1B, xã Khánh Nhạc",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0982339352. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0982339352."
         },
         {
           "name": "Nha hang Lang Viet Quan",
           "nameVi": "Nhà hàng Làng Việt Quán",
           "address": "Xóm 1B, xã Khánh Nhạc",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0856955855 and 0914213077. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0856955855 and 0914213077."
         },
         {
           "name": "Nha hang Cat Tuong",
           "nameVi": "Nhà hàng Cát Tường",
           "address": "Thôn 19, xã Khánh Trung",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0987616968. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0987616968."
         },
         {
           "name": "Nha hang Duy Son",
           "nameVi": "Nhà hàng Duy Sơn",
           "address": "Xóm 9, xã Khánh Trung",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0915756559. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0915756559."
         },
         {
           "name": "Nha hang Sen Vang",
           "nameVi": "Nhà hàng Sen Vàng",
           "address": "Xóm 9, xã Phát Diệm",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0963578888. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0963578888."
         },
         {
           "name": "Nha hang Vu Bao",
           "nameVi": "Nhà hàng Vũ Bảo",
           "address": "Phố Phát Diệm Đông, xã Phát Diệm",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0886505588. This is the Phát Diệm row. The other Vũ Bảo row is on đường Lương Văn Tụy kéo dài. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0886505588. The other Vũ Bảo is on đường Lương Văn Tụy kéo dài."
         },
         {
           "name": "Nha hang Thanh Rau",
           "nameVi": "Nhà hàng Thanh Râu",
           "address": "Xóm 9, xã Phát Diệm",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0943519018. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0943519018."
         },
         {
           "name": "Nha hang Duc Hai",
           "nameVi": "Nhà hàng Đức Hải",
           "address": "Khối 11, xã Bình Minh",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0974210099. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0974210099."
         },
         {
           "name": "Nha hang Bun moc To Nhu",
           "nameVi": "Nhà hàng Bún mọc Tố Như",
           "address": "Xóm 5, xã Quang Thiện",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0977504384. Hours and a meal price were not printed on that row. Check on arrival.",
+          "note": "Tourism restaurant. Phone 0977504384. Bún mọc in the name, in Quang Thiện.",
           "dishSlug": "bun-moc-kim-son"
         },
         {
           "name": "Nha hang Ngoan De",
           "nameVi": "Nhà hàng Ngoạn Dê",
           "address": "Thôn Bình An, xã Phú Sơn",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0968077471. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0968077471."
         },
         {
           "name": "Nha hang De 35 – Ga Manh",
           "nameVi": "Nhà hàng Dê 35 – Gà Mạnh",
           "address": "Thôn Bình An, xã Phú Sơn",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0944040939. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0944040939."
         },
         {
           "name": "Nha hang Bao Lam",
           "nameVi": "Nhà hàng Bảo Lâm",
           "address": "Thôn Đồng Tâm 3, xã Phú Sơn",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0986251268. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0986251268."
         },
         {
           "name": "Nha hang Gia Dinh Nho",
           "nameVi": "Nhà hàng Gia Đình Nhỏ",
           "address": "SN 5, ngõ 80, đường Đinh Tất Miễn, xã Nho Quan",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0914655952. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0914655952."
         },
         {
           "name": "Nha hang Lam Thuy",
           "nameVi": "Nhà hàng Lâm Thúy",
           "address": "Thôn Tiền Phương 2, xã Nho Quan",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0916970580. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0916970580."
         },
         {
           "name": "Nha hang Binh Dung (Chim to dan)",
           "nameVi": "Nhà hàng Bình Dũng (Chim to dần)",
           "address": "Xã Gia Viễn",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0982800621. The row prints the commune and no street number. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0982800621."
         },
         {
           "name": "Nha hang Van Sy",
           "nameVi": "Nhà hàng Văn Sỹ",
           "address": "Xã Gia Viễn",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0974605335 and 0916603461. The row prints the commune and no street number. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0974605335 and 0916603461."
         },
         {
           "name": "Nha hang Nha La Chim To Dan",
           "nameVi": "Nhà hàng Nhà Lá Chim To Dần",
           "address": "Xã Gia Vân",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0989920166. The row prints the commune and no street number. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0989920166."
         },
         {
           "name": "Nha hang Van Long Green",
           "nameVi": "Nhà hàng Vân Long Green",
           "address": "Xã Gia Vân",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0915820333. The row prints the commune and no street number. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0915820333."
         },
         {
           "name": "Nha hang Hoang Hai",
           "nameVi": "Nhà hàng Hoàng Hải",
           "address": "Xã Gia Viễn",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0964732245. This is the Gia Viễn row. The cơm văn phòng Hoàng Hải is in xóm 9, xã Khánh Trung. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0964732245. The Hoàng Hải set-rice room is in xóm 9, xã Khánh Trung."
         },
         {
           "name": "Nha hang Dung Phong",
           "nameVi": "Nhà hàng Dũng Phong",
           "address": "Xã Gia Viễn",
-          "note": "Provincial restaurant list dated 30 June 2025, under nhà hàng du lịch. Phone 0983010777. The row prints the commune and no street number. Hours and a meal price were not printed on that row. Check on arrival."
+          "note": "Tourism restaurant. Phone 0983010777."
         }
       ]
     },
@@ -668,110 +676,110 @@
       "nav": "Casual",
       "role": "casual",
       "paragraphs": [
-        "Casual dining here is the cơm văn phòng block on the 30 June 2025 list, plus Phố 8 and the goat roads the culture page describes. Kombo stays in this block. The name says Singapore. The list does not describe a foreign menu."
+        "Cơm văn phòng means office rice: set plates of rice with dishes, the everyday lunch. Phố 8 and the goat roads to the sights are the other casual meals."
       ],
       "spots": [
         {
           "name": "Nha hang Com nieu Viet Xua",
           "nameVi": "Nhà hàng Cơm niêu Việt Xưa",
           "address": "Số 80, đường Tràng An, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under cơm văn phòng. Phone 0866139999. The row prints a price from 30,000 đồng a portion. Hours were not printed. Check on arrival."
+          "note": "Set-rice room. Phone 0866139999. From 30,000 đồng a portion."
         },
         {
           "name": "Com Tho Anh Nguyen",
           "nameVi": "Cơm Thố Anh Nguyễn",
           "address": "Số 207 Lương Văn Thăng, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under cơm văn phòng. Phone 0989249933. The row prints a price from 30,000 đồng a portion. Hours were not printed. Check on arrival."
+          "note": "Set-rice room. Phone 0989249933. From 30,000 đồng a portion."
         },
         {
           "name": "Com tho Tay Thanh",
           "nameVi": "Cơm thố Tây Thành",
           "address": "173 đường Tây Thành, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under cơm văn phòng. Phone 0948284444. The row prints a price from 30,000 đồng a portion. Hours were not printed. Check on arrival."
+          "note": "Set-rice room. Phone 0948284444. From 30,000 đồng a portion."
         },
         {
           "name": "Nha hang Quang Dung Hai san va De nui",
           "nameVi": "Nhà hàng Quang Dũng Hải sản và Dê núi",
           "address": "Số 09, Ngõ 2, đường Ngô Quyền, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under cơm văn phòng. Phone 0813536868 and 0965567566. The row prints a price from 30,000 đồng a portion. This is the Ngõ 2 row. A different Quang Dũng row is at Số 9 đường Ngô Quyền. Hours were not printed. Check on arrival."
+          "note": "Set-rice room. Phone 0813536868 and 0965567566. From 30,000 đồng a portion. Seafood and mountain goat in the name. A second Quang Dũng is at Số 9 đường Ngô Quyền."
         },
         {
           "name": "Nha hang Tam Gia Trang",
           "nameVi": "Nhà hàng Tam Gia Trang",
           "address": "35 đường Tràng An 2, Kỳ Lân, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under cơm văn phòng. Phone 0868591983. The row prints a price from 30,000 đồng a portion. Hours were not printed. Check on arrival."
+          "note": "Set-rice room. Phone 0868591983. From 30,000 đồng a portion."
         },
         {
           "name": "Nha hang Co Lau",
           "nameVi": "Nhà hàng Cờ Lau",
           "address": "Số 1, đường Tràng An, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under cơm văn phòng. Phone 0878766766. That row does not print a price. Hours were not printed. Check on arrival."
+          "note": "Set-rice room. Phone 0878766766."
         },
         {
           "name": "Nha hang Thanh Loi",
           "nameVi": "Nhà hàng Thanh Lợi",
           "address": "Số 199, đường Lê Hồng Phong, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under cơm văn phòng. Phone 0944227232. That row does not print a price. Hours were not printed. Check on arrival."
+          "note": "Set-rice room. Phone 0944227232."
         },
         {
           "name": "Com nha Chuon chuon xua",
           "nameVi": "Cơm nhà Chuồn chuồn xưa",
           "address": "125 đường Đô Thiên, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under cơm văn phòng. Phone 0981535835. That row does not print a price. Hours were not printed. Check on arrival."
+          "note": "Set-rice room. Phone 0981535835."
         },
         {
           "name": "Com van phong Van Anh",
           "nameVi": "Cơm văn phòng Vân Anh",
           "address": "119 đường Lê Hồng Phong, phố 2, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under cơm văn phòng. Phone 0913108183. The row prints a price from 30,000 đồng a portion. Hours were not printed. Check on arrival."
+          "note": "Set-rice room. Phone 0913108183. From 30,000 đồng a portion."
         },
         {
           "name": "Com pho Vu Oanh",
           "nameVi": "Cơm phở Vũ Oanh",
           "address": "Số 74 Tuệ Tĩnh, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under cơm văn phòng. Phone 0835235135. The row prints a price from 30,000 đồng a portion. Hours were not printed. Check on arrival."
+          "note": "Set-rice room. Phone 0835235135. From 30,000 đồng a portion."
         },
         {
           "name": "Com Ba Tach",
           "nameVi": "Cơm Bà Tách",
           "address": "Số 18, đường Đinh Tất Miễn, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under cơm văn phòng. Phone 0963987001. That row does not print a price. Hours were not printed. Check on arrival."
+          "note": "Set-rice room. Phone 0963987001."
         },
         {
           "name": "Com Rom vang",
           "nameVi": "Cơm Rơm vàng",
           "address": "112 Lương Văn Tụy, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under cơm văn phòng. Phone 0857202555. That row does not print a price. Hours were not printed. Check on arrival."
+          "note": "Set-rice room. Phone 0857202555."
         },
         {
           "name": "Kombo - Com nieu Singapore",
           "nameVi": "Kombo - Cơm niêu Singapore",
           "address": "94 Đinh Tiên Hoàng, phường Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under cơm văn phòng. Phone 0826468333. That row does not print a price. The name says Singapore. The list files this room under cơm văn phòng and does not describe a foreign menu. Hours were not printed. Check on arrival."
+          "note": "Set-rice room. Phone 0826468333. Clay-pot rice with Singapore in the name."
         },
         {
           "name": "Nha hang Thi Hoa",
           "nameVi": "Nhà hàng Thi Hòa",
           "address": "Xóm 5, phường Tây Hoa Lư",
-          "note": "Provincial restaurant list dated 30 June 2025, under cơm văn phòng. Phone 0974864180. The row prints a price from 30,000 đồng a portion. Hours were not printed. Check on arrival."
+          "note": "Set-rice room. Phone 0974864180. From 30,000 đồng a portion."
         },
         {
           "name": "Nha hang Hoang Hai",
           "nameVi": "Nhà hàng Hoàng Hải",
           "address": "Xóm 9, xã Khánh Trung",
-          "note": "Provincial restaurant list dated 30 June 2025, under cơm văn phòng. Phone 0977678375. The row prints a price from 30,000 đồng a portion. This is the Khánh Trung row. A different Hoàng Hải row is in xã Gia Viễn. Hours were not printed. Check on arrival."
+          "note": "Set-rice room. Phone 0977678375. From 30,000 đồng a portion. A second Hoàng Hải is in xã Gia Viễn."
         },
         {
           "name": "Pho 8",
           "nameVi": "Phố 8",
-          "address": "Thành phố Ninh Bình, as named on the 5 November 2024 tourism article",
-          "note": "The 5 November 2024 tourism article names Phố 8 among the food streets that had formed in the city, with Phố ăn sáng Vân Giang and khu ẩm thực Phố cổ Hoa Lư. A block number and an hour were not printed. Check on arrival."
+          "address": "Thành phố Ninh Bình",
+          "note": "One of the city’s food streets, with Vân Giang for breakfast and the Hoa Lư old-town food quarter."
         },
         {
           "name": "Cac tuyen duong ra diem du lich",
           "nameVi": "Các tuyến đường ra điểm du lịch",
           "address": "The roads and lanes toward Tràng An, Hoa Lư, and Bái Đính",
-          "note": "The 15 February 2023 culture page says the roads, lanes, and approaches to the sights have dê núi shops. It does not name one street. An hour was not printed. Check on arrival."
+          "note": "Every road and lane toward the sights has dê núi shops. Stop at the one nearest your boat or temple."
         }
       ]
     },
@@ -781,32 +789,32 @@
       "nav": "Themed",
       "role": "themed",
       "paragraphs": [
-        "The 5 November 2024 tourism article names one food quarter and three craft villages. A street number was not printed for any of them. Check on arrival."
+        "One food quarter and three craft villages: the noodle makers of Yên Ninh, the food village of Phong An, and the rượu village of Lai Thành."
       ],
       "spots": [
         {
           "name": "Khu am thuc Pho co Hoa Lu",
           "nameVi": "Khu ẩm thực Phố cổ Hoa Lư",
           "address": "Phố cổ Hoa Lư",
-          "note": "The 5 November 2024 tourism article names khu ẩm thực Phố cổ Hoa Lư as a food quarter in the city. A street number and an hour were not printed. The lamp boat on hồ Kỳ Lân is a separate ticket. Check on arrival."
+          "note": "A food quarter in the Hoa Lư old town. The lamp boat on hồ Kỳ Lân is a separate ticket."
         },
         {
           "name": "Lang nghe bun Yen Ninh",
           "nameVi": "Làng nghề bún Yên Ninh",
           "address": "Làng nghề bún Yên Ninh",
-          "note": "The 5 November 2024 tourism article names this as one of three craft villages that process and keep farm, forest, and river products. A commune and an hour were not printed. Check on arrival."
+          "note": "A craft village that makes bún, rice noodles."
         },
         {
           "name": "Lang nghe am thuc xom Phong An",
           "nameVi": "Làng nghề ẩm thực xóm Phong An",
           "address": "Xóm Phong An",
-          "note": "The 5 November 2024 tourism article names làng nghề ẩm thực xóm Phong An as one of the three craft villages. A commune and an hour were not printed. Check on arrival."
+          "note": "A food craft village."
         },
         {
           "name": "Lang nghe ruou Lai Thanh",
           "nameVi": "Làng nghề rượu Lai Thành",
           "address": "Làng nghề rượu Lai Thành",
-          "note": "The 5 November 2024 tourism article names làng nghề rượu Lai Thành as one of the three craft villages. A commune and an hour were not printed. Check on arrival."
+          "note": "A craft village that makes rượu, local liquor."
         }
       ]
     },
@@ -816,19 +824,19 @@
       "nav": "Breakfast",
       "role": "breakfast",
       "paragraphs": [
-        "One breakfast street is named. The 5 November 2024 tourism article calls it Phố ăn sáng Vân Giang. An hour was not printed. Check on arrival."
+        "Vân Giang is the city’s breakfast street, one of its three food streets with Phố 8 and the Hoa Lư old-town food quarter."
       ],
       "spots": [
         {
           "name": "Pho an sang Van Giang",
           "nameVi": "Phố ăn sáng Vân Giang",
-          "address": "Thành phố Ninh Bình, as named on the 5 November 2024 tourism article",
-          "note": "The 5 November 2024 tourism article names Phố ăn sáng Vân Giang as a breakfast street, with Phố 8 and khu ẩm thực Phố cổ Hoa Lư. A block number and an hour were not printed. Check on arrival."
+          "address": "Thành phố Ninh Bình",
+          "note": "The city’s breakfast street."
         }
       ]
     }
   ],
   "verified": "22 Oct 2026",
-  "seoTitle": "Ninh Binh food guide — com chay, goat, and the list",
-  "seoDescription": "Cơm cháy, the goat plates, Kim Sơn noodles, and every door on the 30 June 2025 provincial restaurant list. Hours were not printed. Check on arrival."
+  "seoTitle": "Ninh Binh food guide — goat, com chay, and Kim Son noodles",
+  "seoDescription": "Mountain goat and cơm cháy on the roads to the karst, Kim Sơn bún mọc, Nho Quan ant-egg sticky rice, and the tourism and set-rice restaurants of Ninh Bình."
 }

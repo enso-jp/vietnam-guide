@@ -102,10 +102,10 @@
       "source": "published",
       "research": "stored",
       "page": "paged",
-      "copy": "blocked",
+      "copy": "enriched",
       "quality": "not_started",
-      "note": "Hero is one doorway on An Thuong 4. Still a stub: no second frame of the lanes, so the page is not finished. Kala Kala and East West have no licensed photo. The beach-and-tower file is no longer this hero.",
-      "updated": "2026-10-21T10:09:00.388Z",
+      "note": "23 Oct 2026. Finished page: kicker, notice, three body paragraphs, the second frame, getting there from My Khe and the river, hours, admission, and links. Second frame is Tran Bach Dang inside the quarter (Klientos, CC BY-SA 4.0; the Commons title says Ho Nghinh, but EXIF and a Lot 33 Tran Bach Dang board place it inside the quarter). Kalà Kalà's two clocks are both printed. Left out: a lane closing hour, river minutes, and a drink price.",
+      "updated": "2026-10-23T13:43:54.185Z",
       "reworkCount": 0
     },
     {
@@ -520,8 +520,8 @@
       "page": "blocked",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "No photograph of Huynh Thuc Khang. A page would fall back to the beach. The food guide already carries the street and both breakfast clocks.",
-      "updated": "2026-10-21T10:09:00.388Z",
+      "note": "Still no photograph of Huynh Thuc Khang. 23 Oct 2026 Commons search: name searches in English and Vietnamese, the Da Nang street, restaurant, and street-vendor categories, and a geosearch along the street in Nam Duong, Hai Chau (about 16.0595–16.0620, 108.2184). No file shows the breakfast street. Other files called Huynh Thuc Khang are in Hanoi, Da Lat, and Ho Chi Minh City. A page would fall back to the beach. The food guide already carries the street and both breakfast clocks.",
+      "updated": "2026-10-23T13:43:54.240Z",
       "reworkCount": 0
     },
     {
@@ -1011,18 +1011,27 @@
       "stage": "copy",
       "item": "da-nang--an-thuong",
       "text": "No photograph of the An Thuong lanes. The published frame is the My Khe beachfront, so a finished page would show the sand. Leave the stub until a night-lane photo exists.",
-      "open": true
+      "open": false,
+      "answer": "23 Oct 2026: licensed lane frame found (Tran Bach Dang, CC BY-SA 4.0). Copy finished."
     },
     {
       "at": "2026-10-21T07:30:50.681Z",
       "stage": "page",
       "item": "da-nang--huynh-thuc-khang",
-      "text": "No photograph of Huynh Thuc Khang. A page would fall back to the beach. The food guide already carries the street and both breakfast clocks.",
+      "text": "No photograph of Huynh Thuc Khang. A page would fall back to the beach. The food guide already carries the street and both breakfast clocks. Rechecked 23 Oct 2026 on Commons. Still no licensed frame of the street.",
       "open": true
     }
   ],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-23T13:43:54.185Z",
+      "place": "da-nang",
+      "stage": "copy",
+      "item": "da-nang--an-thuong",
+      "status": "enriched",
+      "note": "23 Oct 2026. Finished page: kicker, notice, three body paragraphs, the second frame, getting there from My Khe and the river, hours, admission, and links. Second frame is Tran Bach Dang inside the quarter (Klientos, CC BY-SA 4.0; the Commons title says Ho Nghinh, but EXIF and a Lot 33 Tran Bach Dang board place it inside the quarter). Kalà Kalà's two clocks are both printed. Left out: a lane closing hour, river minutes, and a drink price."
+    },
     {
       "at": "2026-10-21T10:14:23.191Z",
       "place": "da-nang",
@@ -1174,14 +1183,6 @@
       "item": "da-nang--marble-mountains",
       "status": "checked",
       "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added."
-    },
-    {
-      "at": "2026-10-21T10:13:13.586Z",
-      "place": "da-nang",
-      "stage": "copy",
-      "item": "da-nang--marble-mountains",
-      "status": "enriched",
-      "note": "Re-read against the stored dossier on 21 Oct 2026. The page already matched. No sentence changed. Left out any fee or hour that is still check on arrival."
     }
   ]
 }

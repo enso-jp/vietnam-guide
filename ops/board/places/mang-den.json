@@ -26,8 +26,8 @@
     },
     "destinationCopy": {
       "status": "enriched",
-      "note": "Place prose rewritten from the dossier. Hero stays Pa Sy. Lat and lng unset. Kon Pring photo replaced with the village. Food guide left skipped.",
-      "updated": "2026-10-23T06:21:53.857Z",
+      "note": "Owner-requested traveler-voice pass on held place (claim refused: stage already enriched). Place prose, FAQs, season, itinerary prose rewritten from the dossier without source narration. Check on arrival kept to fields. Dining and F&B card added first with the mang-den--ga-nuong-com-lam photo, opening /food/mang-den. New Kon Pring 3:4 interest crop. Hero stays Pa Sy. Lat and lng unset. Dots unchanged. Food untouched (PR #253). destinationQuality needs a fresh read.",
+      "updated": "2026-10-23T13:41:44.065Z",
       "reworkCount": 0
     },
     "destinationQuality": {
@@ -120,8 +120,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Read the lake page and both frames. Subject is Dak Ke. Fee stays Check on arrival. Pa Sy prices are named as the other gate.",
-      "updated": "2026-10-23T06:24:28.465Z",
+      "note": "Traveler-voice rewrite. Fee, hours, closed, time stay Check on arrival in fields. Pleiku leg added. Quality needs a fresh read.",
+      "updated": "2026-10-23T13:40:19.639Z",
       "reworkCount": 0
     },
     {
@@ -168,8 +168,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Read the village page and both frames. Subject is Kon Pring. Fee stays Check on arrival. Dots unchanged.",
-      "updated": "2026-10-23T06:26:08.805Z",
+      "note": "Traveler-voice rewrite. Both distances with sources in getting there. Hours 05:00–21:00. Fee Check on arrival. Pleiku leg added. Quality needs a fresh read.",
+      "updated": "2026-10-23T13:40:19.675Z",
       "reworkCount": 0
     },
     {
@@ -256,6 +256,38 @@
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-23T13:41:44.065Z",
+      "place": "mang-den",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Owner-requested traveler-voice pass on held place (claim refused: stage already enriched). Place prose, FAQs, season, itinerary prose rewritten from the dossier without source narration. Check on arrival kept to fields. Dining and F&B card added first with the mang-den--ga-nuong-com-lam photo, opening /food/mang-den. New Kon Pring 3:4 interest crop. Hero stays Pa Sy. Lat and lng unset. Dots unchanged. Food untouched (PR #253). destinationQuality needs a fresh read."
+    },
+    {
+      "at": "2026-10-23T13:40:19.675Z",
+      "place": "mang-den",
+      "stage": "copy",
+      "item": "mang-den--kon-pring-village",
+      "status": "enriched",
+      "note": "Traveler-voice rewrite. Both distances with sources in getting there. Hours 05:00–21:00. Fee Check on arrival. Pleiku leg added. Quality needs a fresh read."
+    },
+    {
+      "at": "2026-10-23T13:40:19.639Z",
+      "place": "mang-den",
+      "stage": "copy",
+      "item": "mang-den--dak-ke-lake",
+      "status": "enriched",
+      "note": "Traveler-voice rewrite. Fee, hours, closed, time stay Check on arrival in fields. Pleiku leg added. Quality needs a fresh read."
+    },
+    {
+      "at": "2026-10-23T13:40:19.600Z",
+      "place": "mang-den",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Owner-requested traveler-voice pass on held place (claim refused: stage already enriched). Place prose, FAQs, season, itinerary prose rewritten from the dossier without source narration. Check on arrival kept to fields. Dining and F&B card added first (com-lam photo) to open /food/mang-den. New Kon Pring 3:4 interest crop. Hero stays Pa Sy. Lat and lng unset. Dots unchanged. Food left to PR #253. destinationQuality needs a fresh read."
+    },
     {
       "at": "2026-10-23T06:26:09.316Z",
       "place": "mang-den",
@@ -383,38 +415,6 @@
       "item": "mang-den--dak-ke-lake",
       "status": "enriched",
       "note": "Finished sight page from the dossier. Fee and hours are Check on arrival. Second frame is blossom over the same lake."
-    },
-    {
-      "at": "2026-10-23T06:23:07.460Z",
-      "place": "mang-den",
-      "stage": "quality",
-      "item": "mang-den--pa-sy-waterfall",
-      "status": "skipped",
-      "note": "No public sight file. The place hero is the Pa Sy waterfall frame."
-    },
-    {
-      "at": "2026-10-23T06:23:07.392Z",
-      "place": "mang-den",
-      "stage": "copy",
-      "item": "mang-den--pa-sy-waterfall",
-      "status": "skipped",
-      "note": "Page already skipped. Pa Sy stays the place hero. No separate sight file."
-    },
-    {
-      "at": "2026-10-23T06:22:15.307Z",
-      "place": "mang-den",
-      "stage": "destinationQuality",
-      "item": null,
-      "status": "checked",
-      "note": "Read the place against the dossier. Hero is Pa Sy. Both Pa Sy fees are printed. Lat and lng unset. Dots unchanged. Kon Pring frame is the village, not Kon Kotu. Food guide stays skipped."
-    },
-    {
-      "at": "2026-10-23T06:21:53.857Z",
-      "place": "mang-den",
-      "stage": "destinationCopy",
-      "item": null,
-      "status": "enriched",
-      "note": "Place prose rewritten from the dossier. Hero stays Pa Sy. Lat and lng unset. Kon Pring photo replaced with the village. Food guide left skipped."
     }
   ]
 }

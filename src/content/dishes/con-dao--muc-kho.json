@@ -2,18 +2,19 @@
   "slug": "con-dao--muc-kho",
   "name": "Muc kho",
   "nameVi": "Mực khô",
-  "summary": "Dried squid, listed by Báo Đồng Nai with the other gift seafood, separate from one-sun squid and from the fresh squid at the night market. A cooking note was not printed. No price was printed.",
+  "summary": "Dried squid sold in packs at the daily market, separate from the one-sun squid and the fresh catch.",
   "origin": "Côn Đảo. Báo Đồng Nai, 11 July 2025.",
   "howToEat": [
-    "Take it as a pack. A cooking note was not printed.",
-    "The daytime market hour was not printed. Check on arrival. No price was printed."
+    "Take it home as a pack."
   ],
   "where": [
     "Chợ Côn Đảo, the daily market in town."
   ],
   "priceBand": "Check on arrival",
-  "placeSlugs": ["con-dao"],
+  "placeSlugs": [
+    "con-dao"
+  ],
   "verified": "23 Oct 2026",
   "seoTitle": "Muc kho — dried squid in Con Dao",
-  "seoDescription": "Mực khô is dried squid, a gift pack in Báo Đồng Nai, separate from one-sun squid. A cooking note was not printed. The price is Check on arrival."
+  "seoDescription": "Mực khô is the dried squid sold in packs at the Côn Đảo daily market, alongside one-sun squid."
 }

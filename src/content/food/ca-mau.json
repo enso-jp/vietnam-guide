@@ -2,14 +2,14 @@
   "slug": "ca-mau",
   "name": "Ca Mau food guide",
   "placeSlug": "ca-mau",
-  "summary": "Ca Mau eats the mangrove. Crab is the meal, salted ba khía is the rice plate, and the bags to carry are dried seafood, Năm Căn crackers, and U Minh honey. The forest day adds grilled snakehead, bee-pupa salad, and eel with nhàu leaves. Cần Thơ’s dawn market is a different river.",
+  "summary": "Ca Mau eats the mangrove: crab for the meal, salted ba khía with hot rice, and dried shrimp, Năm Căn crackers, and U Minh honey to carry home. The forest day adds grilled snakehead, bee-pupa salad, and eel braised with nhàu leaves.",
   "heroSlug": "cua-ca-mau",
   "body": [
-    "Eat Cà Mau as the cape, not as a second Cần Thơ. The bowl that tells you where you are is mangrove crab, or ba khía muối with hot rice. Mudskipper, the U Minh hotpot, and Khai Long clams are the same coast. Cục Du lịch Quốc gia Việt Nam adds gỏi nhộng ong and lươn um lá nhàu on the U Minh day.",
-    "Two accounts describe the U Minh pot, and both stay. Phòng Văn hóa Thông tin huyện Ngọc Hiển and Vietnam Airlines use mắm cá sặc and chopped lemongrass, with fish, shrimp, squid, and the greens đọt nhãn lồng, rau đắng, càng cua, bông súng, and đọt choại. The national tourism article uses mắm sặt, freshwater fish, coconut water, and a different green list that includes hẹ nước. Where a price or an hour was not printed, it is Check on arrival.",
-    "No restaurant is a pick. The floating market on the Gành Hào has no printed hour. Confirm the door and the price when you arrive."
+    "Eat Cà Mau as the cape, not as a second Cần Thơ. The plate that tells you where you are is mangrove crab, or ba khía muối with hot rice. Mudskipper and Khai Long clams come from the same flats, and the U Minh forest brings the fermented-fish hotpot, grilled snakehead, bee pupae, and eel.",
+    "The U Minh hotpot has two published recipes, and both are worth knowing. Phòng Văn hóa Thông tin huyện Ngọc Hiển and Vietnam Airlines cook it with mắm cá sặc, lemongrass, fish, shrimp, squid, and forest greens. Cục Du lịch Quốc gia Việt Nam cooks it with mắm sặt, freshwater fish, coconut water, and a green list that includes hẹ nước.",
+    "Eat by area rather than by restaurant: crab at Đất Mũi and in the city, ba khía at Rạch Gốc, the forest plates at U Minh Hạ. The river market on the Gành Hào is the city's food scene on the water."
   ],
-  "specialtiesLead": "Crab and salted ba khía are the plates with photographs. The other specialties follow, with the publisher that named them.",
+  "specialtiesLead": "Crab and salted ba khía lead. Then the mangrove flats, the U Minh forest, and the dried bags to carry home.",
   "dishSlugs": [
     "cua-ca-mau",
     "mam-ba-khia",
@@ -40,7 +40,7 @@
       "nav": "Where to eat",
       "paragraphs": [
         "Đất Mũi and the city are the crab. Rạch Gốc is the ba khía. U Minh Hạ is the hotpot, the grilled snakehead, the honey, the bee-pupa salad, and the eel. Năm Căn is the cracker and the boats on the way south. Cái Đôi Vàm is the dried cá khoai. Cái Nước is the bồn bồn. Thới Bình is the fermented snakehead.",
-        "No shop is a pick. A price was not printed. Check on arrival."
+        "Order by the area and the dish rather than by a restaurant name."
       ]
     },
     {
@@ -49,21 +49,21 @@
       "heading": "Food streets and markets",
       "nav": "Markets",
       "paragraphs": [
-        "UNESCO puts a floating market of hundreds of boats on the Gành Hào, in the center. The city handbook names the market and prints no hour. Check on arrival. This is not the Cần Thơ dawn.",
-        "Phòng Văn hóa Thông tin huyện Ngọc Hiển printed the 23 August 2024 address as khóm 8, thị trấn Rạch Gốc, huyện Ngọc Hiển. Ban Quản lý Khu du lịch Mũi Cà Mau later prints xã Đất Mũi. Neither office printed a market hall number or an open hour. Check on arrival."
+        "UNESCO describes a floating market of hundreds of boats on the Gành Hào, in the center of Cà Mau city. Come to move among the produce boats, or watch from the bank. This is not the Cần Thơ dawn.",
+        "Rạch Gốc is the town where the salted crab gets its name. Eat ba khía there with hot rice on the way to the cape."
       ],
       "spots": [
         {
           "name": "Ca Mau floating market",
           "nameVi": "Chợ nổi Cà Mau",
           "address": "Sông Gành Hào, city center",
-          "note": "Boats with produce, in the center, as UNESCO describes them. The hour was not printed. Check on arrival."
+          "note": "Boats loaded with produce on the Gành Hào, in the middle of the city. Move among them by boat or watch from the bank."
         },
         {
           "name": "Rach Goc",
           "nameVi": "Rạch Gốc",
-          "address": "Khóm 8, thị trấn Rạch Gốc, as Phòng Văn hóa Thông tin huyện Ngọc Hiển printed it in 2024. Ban Quản lý Khu du lịch Mũi Cà Mau later prints xã Đất Mũi.",
-          "note": "Ba khía with rice, where the crab is named. A market hour was not printed. Check on arrival."
+          "address": "Khóm 8, thị trấn Rạch Gốc, huyện Ngọc Hiển in the 2024 culture-office listing; later cape listings say xã Đất Mũi.",
+          "note": "The town of the salted mangrove crab. Eat ba khía muối with hot rice on the cape day."
         }
       ]
     },
@@ -72,8 +72,8 @@
       "heading": "Plates",
       "nav": "Plates",
       "paragraphs": [
-        "Start with cua Cà Mau and ba khía muối. VOV on 24 October 2020 also calls the crab cua Năm Căn and says it is exported to Korea, Malaysia, China, and Taiwan. Nhân Dân, reporting the workshop of 23 December 2022, names a geographical indication for cua Cà Mau and a collective mark for cua Năm Căn. They are the same crab.",
-        "Cá thòi lòi is the mudskipper. Đuông chà là is the palm grub, and not everyone will eat it. Gỏi nhộng ong and lươn um lá nhàu are the U Minh plates on the national tourism article. Tôm sú Cà Mau is the other geographical indication in the Nhân Dân piece. Cá chình and cá bống tượng share one Tân Thành mark on that list."
+        "Start with cua Cà Mau and ba khía muối. VOV on 24 October 2020 also calls the crab cua Năm Căn and says it is exported to Korea, Malaysia, China, and Taiwan. Nhân Dân, reporting the workshop of 23 December 2022, lists a geographical indication for cua Cà Mau and a collective mark for cua Năm Căn. They are the same crab.",
+        "Cá thòi lòi is the mudskipper. Đuông chà là is the palm grub, and not everyone will eat it. Gỏi nhộng ong and lươn um lá nhàu are the U Minh plates. Tôm sú Cà Mau is the province's other geographical indication, and cá chình and cá bống tượng share one Tân Thành mark."
       ],
       "spots": [
         {
@@ -81,42 +81,42 @@
           "nameVi": "Cá thòi lòi",
           "address": "Mangrove flats of the cape",
           "dishSlug": "ca-thoi-loi",
-          "note": "Mudskipper. Phòng Văn hóa Thông tin huyện Ngọc Hiển says it is not bony and not strongly fishy, and names grill, hotpot, kho tiêu, and dried. VOV calls it a newer dish visitors ask for. A price was not printed. Check on arrival."
+          "note": "The mudskipper of the flats, not bony and not strongly fishy. Order it grilled, in a hotpot, braised with pepper, or dried."
         },
         {
           "name": "Duong cha la",
           "nameVi": "Đuông chà là",
-          "address": "Check on arrival",
+          "address": "The cape countryside",
           "dishSlug": "duong-cha-la",
-          "note": "Palm grub. Vietnam Airlines says it is fat and white, taken from the palm trunk, and eaten with nước mắm. Not everyone will eat it. A price was not printed. Check on arrival."
+          "note": "The fat, white grub of the chà là palm trunk, eaten with nước mắm. Not everyone will try it."
         },
         {
           "name": "Goi nhong ong",
           "nameVi": "Gỏi nhộng ong",
           "address": "U Minh Hạ",
           "dishSlug": "ca-mau--goi-nhong-ong",
-          "note": "Young bee pupae from the honey harvest. Cục Du lịch Quốc gia Việt Nam boils the young comb, skims the pupae, and also names batter-frying, mắm ong, and a mix with banana blossom. A price was not printed. Check on arrival."
+          "note": "Young bee pupae from the U Minh honey harvest, best known mixed with banana blossom. The same pupae also come batter-fried or as mắm ong."
         },
         {
           "name": "Luon um la nhau",
           "nameVi": "Lươn um lá nhàu",
           "address": "U Minh Hạ",
           "dishSlug": "ca-mau--luon-um-la-nhau",
-          "note": "Eel braised with nhàu leaves and coconut. The national tourism article also names eel porridge, sour soup, kho, and a lemongrass stir-fry, and singles out this braise. A price was not printed. Check on arrival."
+          "note": "Freshwater eel braised with nhàu leaves and coconut. The eel is sweet, the coconut rich, and the leaves sweet-bitter."
         },
         {
           "name": "Tom su Ca Mau",
           "nameVi": "Tôm sú Cà Mau",
-          "address": "Check on arrival",
+          "address": "Cà Mau province",
           "dishSlug": "ca-mau--tom-su",
-          "note": "A geographical indication, named by Nhân Dân with cua Cà Mau on 23 December 2022. A cooking method was not printed. Check on arrival."
+          "note": "The province's black tiger prawn, protected by a geographical indication alongside cua Cà Mau."
         },
         {
           "name": "Ca chinh and ca bong tuong",
           "nameVi": "Cá chình và cá bống tượng Tân Thành",
           "address": "Tân Thành",
           "dishSlug": "ca-mau--ca-chinh-tan-thanh",
-          "note": "One collective trademark on the Nhân Dân list of 23 December 2022. A recipe was not printed. Check on arrival."
+          "note": "Freshwater eel and marble goby sold under one Tân Thành collective trademark."
         }
       ]
     },
@@ -125,7 +125,7 @@
       "heading": "Seafood and the forest pot",
       "nav": "Seafood",
       "paragraphs": [
-        "Nghêu Khai Long is the clam after Tết through the end of May and June. Lẩu mắm U Minh and cá lóc nướng belong to the melaleuca. Lẩu cá khoai is the Vietnam Airlines fish hotpot, with herbs and bún. Cá khoai Cái Đôi Vàm is the dried mark from that town, not that pot."
+        "Nghêu Khai Long is the clam from after Tết through the end of May and June. Lẩu mắm U Minh and cá lóc nướng belong to the melaleuca forest. Lẩu cá khoai is the fish hotpot with herbs and bún. Cá khoai Cái Đôi Vàm is the same fish dried, from that town."
       ],
       "spots": [
         {
@@ -133,56 +133,56 @@
           "nameVi": "Nghêu Khai Long",
           "address": "Bãi Khai Long",
           "dishSlug": "ngheu-khai-long",
-          "note": "Clams. Ban Quản lý Khu du lịch Mũi Cà Mau says the meat is thick and not sandy, and steams them with lemongrass and crushed ginger. The flat is busiest after Tết through the end of May and June. A price was not printed. Check on arrival."
+          "note": "Thick, sand-free clams steamed over lemongrass and crushed ginger, eaten hot with muối tiêu chanh. The flat is busiest after Tết through May and June."
         },
         {
           "name": "Lau mam U Minh",
           "nameVi": "Lẩu mắm U Minh",
           "address": "U Minh Hạ",
           "dishSlug": "lau-mam-u-minh",
-          "note": "Fermented-fish hotpot. Ngọc Hiển and Vietnam Airlines use mắm cá sặc, lemongrass, seafood, and forest greens. The national tourism article uses mắm sặt, freshwater fish, coconut water, and greens that include hẹ nước, and says to eat it hot over embers. That article also says Vietkings recorded a largest U Minh pot at the 2022 Hương rừng U Minh festival. A price was not printed. Check on arrival."
+          "note": "The fermented-fish hotpot of the forest, shared with fish and forest greens in the pot. One recipe adds shrimp, squid, and lemongrass; another cooks freshwater fish in coconut water."
         },
         {
           "name": "Ca loc nuong",
           "nameVi": "Cá lóc nướng",
           "address": "U Minh Hạ",
           "dishSlug": "ca-loc-nuong",
-          "note": "Snakehead grilled over straw or tram-wood charcoal. Cục Du lịch Quốc gia Việt Nam ranks nướng first, then sour soup, kho, and boiled, and says the fish is best from the tenth lunar month through the first. The next solar dates are Check on arrival."
+          "note": "Snakehead grilled over straw or tràm-wood charcoal and eaten with forest greens. It is best from the tenth lunar month through the first."
         },
         {
           "name": "Lau ca khoai",
           "nameVi": "Lẩu cá khoai",
-          "address": "Check on arrival",
+          "address": "Cà Mau city and the coast",
           "dishSlug": "lau-ca-khoai",
-          "note": "Fish hotpot. Vietnam Airlines says the flesh is crisp and sweet, with herbs and bún, and names no ward. A price was not printed. Check on arrival."
+          "note": "A hotpot of cá khoai, a fish with few bones and crisp, sweet flesh, served with herbs and bún."
         },
         {
           "name": "Ca khoai Cai Doi Vam",
           "nameVi": "Cá khoai Cái Đôi Vàm",
           "address": "Thị trấn Cái Đôi Vàm, huyện Phú Tân",
           "dishSlug": "ca-mau--ca-khoai-cai-doi-vam",
-          "note": "Dried cá khoai. VOV on 24 October 2020 calls it cá khô khoai from that coastal town. Nhân Dân lists cá khoai Cái Đôi Vàm as a collective trademark. A price was not printed. Check on arrival."
+          "note": "Dried cá khoai from the drying village of this coastal town, a collective trademark to carry home."
         },
         {
           "name": "Ca kho boi U Minh",
           "nameVi": "Cá khô bổi U Minh",
           "address": "Trần Văn Thời",
           "dishSlug": "ca-mau--ca-kho-boi",
-          "note": "Dried sặc rằn. VOV says the fish grows more slowly here and the dried flesh is firm and fragrant. Nhân Dân lists the same mark. A price was not printed. Check on arrival."
+          "note": "Dried sặc rằn from a fish that grows slowly here. The dried flesh is firm and fragrant."
         },
         {
           "name": "Mam ca loc Thoi Binh",
           "nameVi": "Mắm cá lóc Thới Bình",
           "address": "Thới Bình",
           "dishSlug": "ca-mau--mam-ca-loc-thoi-binh",
-          "note": "Fermented snakehead. Vietnam Airlines lists it as a gift. Nhân Dân lists it as a collective trademark. A serving was not printed. Check on arrival."
+          "note": "Fermented snakehead from north of the city, a collective trademark and a gift to carry home."
         },
         {
           "name": "Tom kho Rach Goc",
           "nameVi": "Tôm khô Rạch Gốc",
           "address": "Rạch Gốc",
           "dishSlug": "tom-kho",
-          "note": "Dried shrimp. Vietnam Airlines groups tôm, cá, and dried seafood in one gift line. VOV and Nhân Dân name the collective mark tôm khô Rạch Gốc, from mangrove shrimp. A price was not printed. Check on arrival."
+          "note": "Dried mangrove shrimp under the Rạch Gốc collective mark. Eat it with rice or carry a bag home."
         }
       ]
     },
@@ -191,7 +191,7 @@
       "heading": "Sweets and bags",
       "nav": "Bags",
       "paragraphs": [
-        "Mật ong U Minh is the jar. Bánh phồng tôm is the cracker: Vietnam Airlines says Năm Căn, and Nhân Dân lists the collective mark bánh phồng tôm Mũi Cà Mau. Chuối khô Trần Hợi, bồn bồn Cái Nước, and rượu trái giác are the other gifts. The spirit has no printed measure."
+        "Mật ong U Minh is the jar. Bánh phồng tôm is the cracker from Năm Căn, also sold under the Mũi Cà Mau mark. Chuối khô Trần Hợi, dưa bồn bồn Cái Nước, and rượu trái giác are the other gifts."
       ],
       "spots": [
         {
@@ -199,35 +199,34 @@
           "nameVi": "Mật ong U Minh",
           "address": "U Minh Hạ",
           "dishSlug": "mat-ong-u-minh",
-          "note": "Melaleuca honey, taken by gác kèo ong. Nhân Dân and VOV name the collective mark mật ong U Minh Hạ. A harvest month was not printed. Check on arrival."
+          "note": "Melaleuca honey taken from gác kèo ong, the rafters set up to draw the bees. Eat it by the spoon or carry a jar home."
         },
         {
           "name": "Banh phong tom",
           "nameVi": "Bánh phồng tôm",
-          "address": "Năm Căn on the airline list. Mũi Cà Mau on the Nhân Dân mark.",
+          "address": "Năm Căn",
           "dishSlug": "banh-phong-tom",
-          "note": "Shrimp cracker. Vietnam Airlines names Năm Căn. Nhân Dân on 23 December 2022 lists bánh phồng tôm Mũi Cà Mau as a collective trademark. A price was not printed. Check on arrival."
+          "note": "The shrimp cracker of the fishing town on the road to the cape, a crisp snack and a bag to carry."
         },
         {
           "name": "Bon bon Cai Nuoc",
           "nameVi": "Bồn bồn Cái Nước",
           "address": "Cái Nước",
           "dishSlug": "ca-mau--bon-bon-cai-nuoc",
-          "note": "Pickled bồn bồn. VOV says the Intellectual Property Office recognized dưa bồn bồn Cái Nước as a collective trademark. Vietnam Airlines lists dưa bồn bồn. A price was not printed. Check on arrival."
+          "note": "Pickled bồn bồn, the cattail of Cái Nước. Eat it with rice or carry a jar home."
         },
         {
           "name": "Chuoi kho Tran Hoi",
           "nameVi": "Chuối khô Trần Hợi",
           "address": "Trần Hợi",
           "dishSlug": "ca-mau--chuoi-kho-tran-hoi",
-          "note": "Dried banana. Nhân Dân lists the collective mark. Vietnam Airlines lists chuối khô and does not name the town. A price was not printed. Check on arrival."
+          "note": "Dried banana under the Trần Hợi collective mark, the sweet on the gift list."
         },
         {
           "name": "Ruou trai giac",
           "nameVi": "Rượu trái giác",
-          "address": "Check on arrival",
           "dishSlug": "ca-mau--ruou-trai-giac",
-          "note": "Fruit spirit on the Vietnam Airlines gift list. A town, a measure, and a price were not printed. Check on arrival."
+          "note": "A spirit made from giác fruit, on the Cà Mau list of gifts to carry home."
         }
       ]
     },
@@ -242,5 +241,5 @@
   ],
   "verified": "23 Oct 2026",
   "seoTitle": "Ca Mau food guide — crab, ba khia, and the cape menu",
-  "seoDescription": "What to eat in Ca Mau: mangrove crab, salted ba khía with rice, U Minh eel and bee-pupa salad, and the bags to carry. No stall price is printed. Check on arrival."
+  "seoDescription": "What to eat in Ca Mau: mangrove crab, salted ba khía with rice, mudskipper, U Minh eel and bee-pupa salad, and the dried shrimp, crackers, and honey to carry home."
 }
