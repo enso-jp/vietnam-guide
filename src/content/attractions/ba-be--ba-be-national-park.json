@@ -14,7 +14,7 @@
   "heroCaption": "Forested karst and the lake, seen from the water",
   "notice": {
     "title": "The fee is Check on arrival",
-    "body": "No ticket price or gate hour is fixed. Do not plan the day around a price you have not checked."
+    "body": "Check the ticket and the gate hours on arrival."
   },
   "body": [
     "You stay inside the park for the lake, the Nang, Puong Cave, Dau Dang, and the Tay villages. Decision 83/TTg of 10 November 1992 established it from the former forbidden forest of the lake. Management sat with the Cao Bang People’s Committee from 1992 to 1997, the agriculture ministry until 2003, Bac Kan until 1 July 2025, and the Thai Nguyen People’s Committee after that. A 1995 freshwater-lakes conference in the United States named the lake one of 20 special freshwater lakes to protect. It is also called one of the 20 largest natural freshwater lakes in the world.",
@@ -44,7 +44,7 @@
   ],
   "hours": "Check on arrival",
   "closed": "Check on arrival",
-  "admissionNote": "No ticket price is fixed here. The fee is Check on arrival. The lake boat, Puong Cave, and Dau Dang are not a separate published tariff.",
+  "admissionNote": "Check on arrival. The lake boat, Puong Cave, and Dau Dang are part of the same visit, not a second ticket.",
   "links": [
     {
       "label": "About the park",
@@ -52,7 +52,7 @@
       "note": "Ba Be National Park"
     },
     {
-      "label": "Biodiversity desk",
+      "label": "Biodiversity figures",
       "url": "https://nbca.gov.vn/vuon-quoc-gia-ba-be-bac-kan/",
       "note": "National conservation portal. A second area split and species count"
     },
