@@ -3,23 +3,25 @@
   "name": "Banh xoai",
   "nameVi": "Bánh xoài",
   "summary": "A chewy glutinous-rice sweet, shaped like a mango seed and not made of mango. The filling is crushed peanuts and brown sugar, or peanut, sesame, and shredded ginger with a mild heat.",
-  "origin": "Hoi An. Street stalls near the Japanese bridge, on Vietnam Tourism’s food article. The 4 December 2025 article says the baskets are on the old streets.",
+  "origin": "Hoi An, sold from baskets on the old streets and near the Japanese bridge.",
   "texture": [
-    "Vietnam Tourism compares the chew to mochi. The 4 December 2025 article says a soft glutinous wrapper in a mango-seed shape."
+    "A soft, chewy glutinous-rice wrapper, close to mochi, pressed into a mango-seed shape."
   ],
   "taste": [
-    "Vietnam Tourism uses crushed peanuts and brown sugar. The conservation centre names peanut, sesame, and shredded ginger, and calls that mix lightly rich and mildly hot. Both fillings stay."
+    "The filling is crushed peanuts and brown sugar, or peanut, sesame, and shredded ginger, lightly rich and mildly hot."
   ],
   "howToEat": [
     "Eat it in the hand, after the walk.",
-    "Ask what is in the filling. The two accounts do not match."
+    "Ask which filling the seller has that day."
   ],
   "where": [
     "Street stalls near the Japanese bridge."
   ],
   "priceBand": "Check on arrival",
-  "placeSlugs": ["hoi-an"],
+  "placeSlugs": [
+    "hoi-an"
+  ],
   "verified": "23 Oct 2026",
   "seoTitle": "Banh xoai — the shape-named sweet in Hoi An",
-  "seoDescription": "Bánh xoài near the Japanese bridge is named for its shape. Vietnam Tourism fills it with peanuts and brown sugar. A December 2025 article adds sesame and ginger."
+  "seoDescription": "Bánh xoài near the Japanese bridge is named for its shape: a chewy rice sweet filled with peanuts and brown sugar, or sesame and ginger."
 }

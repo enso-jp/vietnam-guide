@@ -4,7 +4,7 @@
   "name": "Hoan Kiem Lake",
   "nameVi": "Hồ Hoàn Kiếm",
   "kicker": "The lake path, with Turtle Tower in the water",
-  "summary": "Walk the path around Hoan Kiem before you buy a ticket. The lake path is free and open all day. Turtle Tower stands in the water. Ngoc Son Temple, on the island, is a separate gate, and the two published hour tables do not match. Skip the temple ticket if you only came for the walk.",
+  "summary": "Start here. Walk the free path around Hoan Kiem Lake, with Turtle Tower standing in the water and willows on the shore, then cross the red The Huc bridge if you want Ngoc Son Temple on the island. Come early, when people exercise and practise tai chi along the path.",
   "dots": 4,
   "timeNeeded": "Check on arrival",
   "fee": "Lake path free. Temple ticket separate.",
@@ -14,45 +14,45 @@
   "heroCaption": "Turtle Tower in Hoan Kiem Lake",
   "notice": {
     "title": "The path and the temple are different tickets",
-    "body": "Vietnam Tourism says the lake path is free and open all day. Ngoc Son Temple has its own ticket. The management board and Vietnam Tourism do not print the same hours."
+    "body": "The lake path is free and open all day. Ngoc Son Temple, on the island, charges its own ticket."
   },
   "body": [
-    "Walk the shore. Turtle Tower stands in the lake, and the willows line the near bank. The path itself does not need a ticket. Vietnam Tourism says it is free and open all day.",
-    "Ngoc Son Temple sits on the island, reached by the The Huc bridge. The management board dates Nguyen Van Sieu’s renovation to 1864 and says the bridge name means where the morning sun rests. The temple worships Tran Hung Dao and Van Xuong. That visit is a separate gate from the walk.",
-    "The management board prints Monday to Thursday 7:00 to 19:00, and Friday to Sunday and holidays 7:00 to 22:00, with an adult ticket of 50,000 VND from 1 January 2024. Vietnam Tourism prints Monday to Friday 7:00 to 18:00, Saturday and Sunday 7:00 to 22:00, and the same 50,000 VND. Use both clocks. The minutes from a named hotel are check on arrival."
+    "Walk the shore. Turtle Tower stands in the lake, and the willows line the near bank. The path is free and open all day. At dawn it fills with people exercising and practising tai chi.",
+    "Ngoc Son Temple sits on the island, reached by the red The Huc bridge. Nguyen Van Sieu renovated it in 1864, the bridge name means where the morning sun rests, and the temple worships Tran Hung Dao and Van Xuong. It is the one ticketed stop on the walk.",
+    "Walk the full loop first, then decide on the temple. On weekend evenings the temple stays open until 22:00."
   ],
   "figures": [
     {
       "id": "hanoi-hoan-kiem-2",
-      "caption": "The willow shore of Hoan Kiem, without the tower filling the frame",
+      "caption": "Willows along the shore of Hoan Kiem",
       "alt": "Willow trees along the shore of Hoan Kiem Lake in Hanoi"
     }
   ],
   "gettingThere": [
-    "The lake is the center of the walk. Start from the lanes north of it, or from the streets south of it around the Opera House. No published minute count from a named hotel was on the pages used here."
+    "The lake is the center of the city walk. Start from the Old Quarter lanes just north of it, or from the Opera House streets to the south."
   ],
   "legs": [
     {
       "heading": "From the lanes north of the lake",
-      "body": "Walk. The path is free. The minutes from a particular lane are check on arrival."
+      "body": "Walk south to the shore. The path is free."
     },
     {
       "heading": "From south of the lake",
-      "body": "Walk to the shore. A car minute was not published. Check on arrival."
+      "body": "Walk north from Trang Tien to the shore."
     }
   ],
-  "hours": "Lake path: open all day (Vietnam Tourism). Ngoc Son Temple, management board: Monday–Thursday 7:00–19:00; Friday–Sunday and holidays 7:00–22:00. Vietnam Tourism: Monday–Friday 7:00–18:00; Saturday–Sunday 7:00–22:00.",
-  "admissionNote": "The lake path is free. The temple ticket is separate. Adult 50,000 VND on both the management board (from 1 January 2024) and Vietnam Tourism. The board also prints half price 25,000 VND and free under 16. The two hour tables do not match. Both are above.",
+  "hours": "Lake path: open all day (Vietnam Tourism). Ngoc Son Temple: Mon–Thu 7:00–19:00, Fri–Sun and holidays 7:00–22:00 (management board); Mon–Fri 7:00–18:00, Sat–Sun 7:00–22:00 (Vietnam Tourism).",
+  "admissionNote": "Lake path free. Ngoc Son Temple: adult 50,000 VND (management board from 1 January 2024, and Vietnam Tourism); half price 25,000 VND; under 16 free.",
   "links": [
     {
       "label": "Vietnam Tourism, Hanoi sights",
       "url": "https://vietnam.travel/things-to-do/11-must-see-attractions-ha-noi",
-      "note": "Lake path free and open all day. A second hour table for the temple."
+      "note": "Lake path free and open all day; temple hours."
     },
     {
       "label": "Hanoi relic management board",
       "url": "https://banqldtdthanoi.vn/lien-he/lien-he-danh-thang/",
-      "note": "Temple hours and the 50,000 VND adult ticket from 1 January 2024."
+      "note": "Temple hours and the adult ticket from 1 January 2024."
     }
   ],
   "interests": [

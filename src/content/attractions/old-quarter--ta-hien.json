@@ -1,0 +1,54 @@
+{
+  "slug": "ta-hien",
+  "placeSlug": "old-quarter",
+  "name": "Ta Hien beer corner",
+  "nameVi": "Phố Tạ Hiện",
+  "kicker": "Bia hoi corner at Ta Hien and Luong Ngoc Quyen",
+  "summary": "After dark, Ta Hien is where the Old Quarter sits down for a beer: low tables and blue plastic stools pushed out across the street, grills and menu boards along the shopfronts, and the crowd shuffling between them. Order bia hoi, Hanoi’s fresh draft beer, at the corner with Luong Ngoc Quyen. Come after dinner, not in the daytime, when the street is quiet.",
+  "dots": 3,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Walk the lanes north of Hoan Kiem Lake",
+  "district": "Ta Hien",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Ta Hien at night, the street filled with stools, tables, and people",
+  "body": [
+    "The corner of Ta Hien and Luong Ngoc Quyen is the bia hoi corner of the Old Quarter. Once it is dark the bars and kitchens set low tables and plastic stools across the pavement and into the road, and the lane becomes one long terrace.",
+    "Bia hoi is Hanoi’s fresh draft beer, unpasteurized and drunk soon after it is made, and sitting on a sidewalk stool with a glass of it is a local habit. Take a stool, order a glass, and watch the lane go past.",
+    "By day the same street is quiet: lanterns, shutters, and a few bicycles on the wet paving. Come back after dinner for the corner."
+  ],
+  "figures": [
+    {
+      "id": "old-quarter-ta-hien-2",
+      "caption": "Ta Hien by day, red lanterns over the quiet lane",
+      "alt": "A narrow Old Quarter street in daylight, red lanterns on the left and bars with shutters on the right"
+    }
+  ],
+  "gettingThere": [
+    "Ta Hien is in the lanes north of Hoan Kiem Lake. Walk north from the lake into the quarter and follow the noise to the corner with Luong Ngoc Quyen."
+  ],
+  "legs": [
+    {
+      "heading": "From Hoan Kiem Lake",
+      "body": "On foot, north into the lanes to the corner of Ta Hien and Luong Ngoc Quyen."
+    }
+  ],
+  "hours": "The Old Quarter is open 7am to midnight (Vietnam Tourism). Bar and kitchen hours: Check on arrival.",
+  "closed": "Check on arrival",
+  "admissionNote": "No entry fee for the street. Drink prices: Check on arrival.",
+  "links": [
+    {
+      "label": "Vietnam Tourism: Ha Noi must-sees",
+      "url": "https://vietnam.travel/things-to-do/11-must-see-attractions-ha-noi",
+      "note": "Old Quarter: 36 streets, free, 7am to midnight; the bia hoi corner at Ta Hien and Luong Ngoc Quyen"
+    },
+    {
+      "label": "Vietnam Tourism: Explore the Old Quarter",
+      "url": "https://vietnam.travel/things-to-do/explore-old-quarter-your-way",
+      "note": "The guild streets and their trades: Hang Bac silver, Hang Gai silk, Hang Ma festival goods, Lan Ong herbs"
+    }
+  ],
+  "interests": [
+    "nightlife"
+  ]
+}

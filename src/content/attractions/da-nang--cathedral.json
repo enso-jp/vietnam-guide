@@ -5,20 +5,20 @@
   "nameVi": "Nhà thờ Con Gà",
   "district": "The river",
   "kicker": "The pink church called the rooster church",
-  "summary": "Look up at the pink church the city calls Con Ga, the rooster church, at 156 Tran Phu. It was built in 1923, nearly 70 meters, in a Gothic form, under Father Louis Vallet. From 1 January 2023 the parish sets visitors Monday to Saturday, 08:00 to 11:30 and 13:30 to 16:30. Sunday is not in that window. A fee is check on arrival.",
+  "summary": "Look up at the pink Gothic church on Tran Phu, nearly 70 meters tall, with a rose window and a rooster on the spire. Locals call it Con Ga, the rooster church. Built in 1923, it takes a few minutes on a river morning, Monday to Saturday, in modest dress.",
   "dots": 3,
   "timeNeeded": "A short look",
   "fee": "Check on arrival",
-  "getThere": "156 Tran Phu, on the parish about page. The 2015 tourism page prints no number. From the river, walk. From My Khe, take a Grab.",
+  "getThere": "156 Tran Phu. Walk from the river, or Grab from My Khe.",
   "verified": "21 Oct 2026",
   "heroCaption": "The pink facade and the rose window",
   "notice": {
-    "title": "The rooster is not a French emblem",
-    "body": "An English tourism page calls the bird a French symbol. The Vietnamese parish page says the priest explains it as Peter in the Gospel, a call to wake up, not as France. The official parish name dates from 1963."
+    "title": "The rooster is Peter's",
+    "body": "The bird on the roof is often called a French emblem. The parish explains it as Peter's rooster from the Gospel, a call to wake up. The church's official name, Nhà thờ giáo xứ Chánh tòa Đà Nẵng, dates from 1963."
   },
   "body": [
-    "Give it the few minutes a church front takes, on a river morning. The city parish page says the church was built in 1923, nearly 70 meters high, under Father Louis Vallet, in a Gothic form with a rose window. Behind it is a grotto of Our Lady arranged after Lourdes. People in the city call it Con Gà, the rooster church, for the bird on the roof.",
-    "That page says the bird is Peter, not a symbol of France, and that from 1963 the parish’s official name is Nhà thờ giáo xứ Chánh tòa Đà Nẵng. The parish’s own notice of 28 December 2022, in force from 1 January 2023, sets visitors Monday to Saturday, 08:00 to 11:30 and 13:30 to 16:30, and asks for modest dress. Sunday is not in that window. The 2015 tourism page prints no timetable. The parish about page of 8 March 2014 prints 156 Trần Phú. A fee is still check on arrival. Do not copy a tour company’s window, and do not publish the old phone number on that about page."
+    "Give it the few minutes a church front takes, on a river morning. The church was built in 1923, nearly 70 meters high, under Father Louis Vallet, in a Gothic form with a rose window. Behind it is a grotto of Our Lady arranged after Lourdes. People in the city call it Con Gà, the rooster church, for the bird on the roof.",
+    "Visitors are welcome Monday to Saturday, in the morning and the afternoon, with a break at midday. Sunday is not in the visitor window. Dress modestly."
   ],
   "figures": [
     {
@@ -28,20 +28,20 @@
     }
   ],
   "gettingThere": [
-    "The parish about page prints 156 Trần Phú. The 2015 tourism page does not. From a river hotel, walk to that street and ask for Nhà thờ Con Gà if the number has moved. From My Khe, take a Grab. Neither ride has a published minute count, so both stay check on arrival."
+    "The church is at 156 Trần Phú. From a river hotel, walk to that street and ask for Nhà thờ Con Gà. From My Khe, take a Grab."
   ],
   "legs": [
     {
       "heading": "From the river",
-      "body": "Walk to 156 Trần Phú, the number on the 2014 parish page. Confirm the door."
+      "body": "Walk to 156 Trần Phú."
     },
     {
       "heading": "From My Khe",
-      "body": "By Grab. The minutes are check on arrival."
+      "body": "By Grab across the river."
     }
   ],
-  "hours": "Monday to Saturday, 08:00–11:30 and 13:30–16:30, from the parish notice of 28 Dec 2022. Sunday is not in that visitor window. The 2015 tourism page prints no timetable.",
-  "closed": "Sunday is not listed for visitors. No other closing day is published.",
+  "hours": "Monday to Saturday, 08:00–11:30 and 13:30–16:30 (parish notice, in force from 1 Jan 2023). Sunday is not in the visitor window.",
+  "closed": "Sunday, for visitors. No other closing day listed.",
   "links": [
     {
       "label": "Da Nang cathedral parish",
@@ -59,7 +59,5 @@
       "note": "Parish about page, 8 Mar 2014. 156 Trần Phú. The phone on that page is not current."
     }
   ],
-  "interests": [
-    "photography"
-  ]
+  "interests": ["photography"]
 }

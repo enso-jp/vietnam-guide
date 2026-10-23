@@ -17,8 +17,7 @@
     "banh-mi",
     "mi-quang",
     "banh-xeo",
-    "banh-beo",
-    "pho"
+    "banh-beo"
   ],
   "sections": [
     {
@@ -205,7 +204,16 @@
       "heading": "Regional dishes",
       "nav": "Regional",
       "paragraphs": [
-        "Mì Quảng is the Quảng Nam bowl, worth eating in town when the ride to Da Nang is another day: flat turmeric-yellow noodles in a shallow ladle of broth, with Trà Quế herbs, peanuts, and a rice cracker. Toss it rather than drink it. It is not cao lầu."
+        "Mì Quảng is the bowl of old Quảng Nam, Hoi An’s home province until 2025: flat turmeric-yellow noodles in a shallow ladle of broth, with Trà Quế herbs, peanuts, and a rice cracker. Toss it rather than drink it. It is not cao lầu."
+      ],
+      "spots": [
+        {
+          "name": "Pho",
+          "nameVi": "Phở",
+          "dishSlug": "pho",
+          "photo": "pho",
+          "note": "Not a Hoi An specialty: phở is the northern noodle soup, and town kitchens serve it with herbs, peanuts, beef, and soft rice noodles. Order it when you want a familiar bowl, and save the town’s own noodles for cao lầu and mì Quảng."
+        }
       ]
     },
     {
@@ -223,13 +231,13 @@
           "name": "Hoi An market",
           "nameVi": "Chợ Hội An",
           "address": "Ancient town",
-          "note": "The food hall for cao lầu, and the counters for mắm cá cơm. Go in the daytime."
+          "note": "The yellow hall in the old town: a food hall for cao lầu, and counters for mắm cá cơm and gift cakes. Go in the daytime."
         },
         {
           "name": "Hoi An night market",
           "nameVi": "Chợ đêm Hội An",
           "address": "Nguyễn Hoàng, Công nữ Ngọc Hoa, Trần Quý Cáp, and Bạch Đằng",
-          "note": "Evening stalls close to the old-town centre."
+          "note": "Evening stalls along four streets close to the old-town centre. Come after dark for the local bowls, then walk on to the lantern streets."
         },
         {
           "name": "Tan Thanh weekend market",
@@ -247,7 +255,7 @@
           "name": "Thai Phien",
           "nameVi": "Thái Phiên",
           "address": "Thái Phiên",
-          "note": "Early-morning noodles and rolls."
+          "note": "An old-town street for early-morning noodles and rolls. Come at breakfast; it is a morning street."
         }
       ]
     },

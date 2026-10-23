@@ -4,7 +4,7 @@
   "name": "Thang Long Water Puppet Theatre",
   "nameVi": "Nhà hát Múa rối Thăng Long",
   "kicker": "The water-puppet theatre by the lake",
-  "summary": "The theatre is at 57b Dinh Tien Hoang, on the east side of Hoan Kiem. Vietnam Tourism says the form dates from the 11th century, with puppeteers in waist-deep water and lacquered wooden figures. It also says to check the website for hours. The ticket is check on arrival.",
+  "summary": "Watch puppeteers stand waist-deep in water and steer lacquered wooden figures through scenes of village life, a form dating from the 11th century. The Thang Long theatre is at 57b Dinh Tien Hoang, on the east side of Hoan Kiem, so a show fits an evening by the lake.",
   "dots": 3,
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
@@ -13,18 +13,39 @@
   "verified": "22 Oct 2026",
   "heroCaption": "The Thang Long Water Puppet Theatre",
   "gettingThere": [
-    "Walk to 57b Dinh Tien Hoang, on the east side of Hoan Kiem. The minutes are check on arrival."
+    "Walk to 57b Dinh Tien Hoang, on the east side of Hoan Kiem Lake."
   ],
-  "hours": "Check on arrival. Vietnam Tourism says to check the theatre website.",
-  "admissionNote": "Check on arrival. Vietnam Tourism alone says tickets start from 100,000 VND. That single figure is not the published price.",
+  "hours": "Check on arrival. Show times are on the theatre website (Vietnam Tourism).",
+  "admissionNote": "Check on arrival. From 100,000 VND on Vietnam Tourism; no theatre price list confirmed.",
   "links": [
     {
       "label": "Vietnam Tourism, Hanoi sights",
       "url": "https://vietnam.travel/things-to-do/11-must-see-attractions-ha-noi",
-      "note": "Address and the note to check the website."
+      "note": "Address, the 11th-century form, and a starting price."
     }
   ],
   "interests": [
     "family"
+  ],
+  "notice": {
+    "title": "Show times change",
+    "body": "The theatre sets its own show times. Check its website before you plan the evening."
+  },
+  "body": [
+    "The stage is a pool of water. Puppeteers stand waist-deep in it and work lacquered wooden figures across the surface, playing rural scenes. At the final act they step out in front of the curtain.",
+    "The theatre is at 57b Dinh Tien Hoang, on the east side of Hoan Kiem, so a show fits between the lake walk and dinner in the lanes. It is the family evening in the center."
+  ],
+  "figures": [
+    {
+      "id": "hanoi-water-puppets-2",
+      "caption": "The final act, with the puppeteers in the water in front of the curtain",
+      "alt": "Water puppeteers in costume standing in the pool in front of the stage curtain at the Thang Long Water Puppet Theatre"
+    }
+  ],
+  "legs": [
+    {
+      "heading": "From the lake path",
+      "body": "Walk to the east shore, on Dinh Tien Hoang."
+    }
   ]
 }

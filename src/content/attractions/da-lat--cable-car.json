@@ -1,0 +1,58 @@
+{
+  "slug": "cable-car",
+  "placeSlug": "da-lat",
+  "name": "Robin Hill Cable Car",
+  "nameVi": "Cáp treo đồi Robin",
+  "kicker": "Cabins over the pines to Truc Lam",
+  "summary": "Ride the cabins from Robin Hill down over the pine forest to Truc Lam Zen Monastery, with Tuyen Lam Lake ahead and the ridges behind. Go on a clear morning, and pair the ride with the monastery gardens at the far end.",
+  "dots": 3,
+  "timeNeeded": "About 30 minutes each way",
+  "fee": "Check on arrival (about 120,000 VND one way)",
+  "getThere": "Taxi to the Robin Hill station, south of the centre",
+  "district": "Phoenix Hill",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The cable line over the pines toward Tuyen Lam",
+  "notice": {
+    "title": "Plan the ride back",
+    "body": "The monastery is free, but the cabins are a separate fare. Know when the last car leaves before you walk the gardens, or you will need a road ride back."
+  },
+  "body": [
+    "The line leaves Robin Hill and drops over a valley of pines toward Phoenix Hill. From the cabin you look down on the canopy and across to Tuyen Lam, the reservoir below the monastery. Ride on a clear morning, when the lake view is open.",
+    "At the far end, Truc Lam Zen Monastery is the reason most people ride. Walk the gardens, look over the lake, and dress modestly for the halls. With the monastery, plan 1 to 2 hours."
+  ],
+  "figures": [
+    {
+      "id": "da-lat-cable-car-2",
+      "caption": "A cabin above the forest, with the ridges behind",
+      "alt": "Red cable car cabin above the pine forest near Da Lat"
+    }
+  ],
+  "gettingThere": [
+    "The Robin Hill station is south of the centre, on the way to Truc Lam. Take a taxi or Grab from Xuan Huong Lake to the station, then ride the cabins down to the monastery."
+  ],
+  "legs": [
+    {
+      "heading": "From Xuan Huong Lake",
+      "body": "Taxi or Grab to the Robin Hill cable station."
+    },
+    {
+      "heading": "From Robin Hill",
+      "body": "Cable car to Truc Lam Zen Monastery, about 30 minutes."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival; the line runs in clear weather",
+  "admissionNote": "About 120,000 VND one way for an adult (Dalattourist desk table); confirm at the station. Truc Lam Zen Monastery is free. A return fare is Check on arrival.",
+  "links": [
+    {
+      "label": "Vietnam Tourism, things to do in Da Lat",
+      "url": "https://www.vietnam.travel/things-to-do/8-things-to-do-in-dalat",
+      "note": "Truc Lam on Phuong Hoang Hill, accessed 21 Oct 2026"
+    }
+  ],
+  "interests": [
+    "mountains",
+    "family",
+    "photography"
+  ]
+}

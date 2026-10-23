@@ -4,22 +4,22 @@
   "name": "Tu Duc Tomb",
   "nameVi": "Lăng Tự Đức",
   "kicker": "Garden tomb with a lake and pavilions",
-  "summary": "Walk Tu Duc’s garden tomb, with Lưu Khiêm lake and buildings whose names use Khiêm, if you keep one tomb. An adult ticket is 150,000 VND. The ticket page says thôn Thượng Ba, xã Thủy Xuân, and the heritage page says phường Thủy Xuân. The ride upstream is Check on arrival.",
+  "summary": "Tu Duc’s garden tomb: almost 50 buildings named for the word Khiêm, set around Lưu Khiêm lake upstream of the city. Walk past the Xung Khiêm pavilion on the water to the courtyards of Khiêm Cung, where the king rested, and on to the tomb behind. If you keep one tomb, keep this one.",
   "dots": 4,
   "district": "Royal tombs",
   "timeNeeded": "Check on arrival",
   "fee": "150,000 VND",
-  "getThere": "Upstream by bicycle or taxi. Minutes are Check on arrival.",
+  "getThere": "Upstream to Thủy Xuân by bicycle or taxi.",
   "verified": "21 Oct 2026",
   "heroCaption": "Xung Khiêm pavilion over the lake at Tu Duc’s tomb",
   "notice": {
-    "title": "Two place names, and the tomb is upstream",
-    "body": "The ticket page places it at thôn Thượng Ba, xã Thủy Xuân. The heritage page says phường Thủy Xuân. Both names stay. UNESCO puts the emperors’ tombs upstream along the Perfume River, not south of the citadel."
+    "title": "On the four-site ticket",
+    "body": "Tu Duc is 150,000 VND for an adult, or part of the 530,000 VND four-site ticket with the Imperial City, Minh Mang, and Khai Dinh. The tomb is upstream along the Perfume River, not south of the citadel."
   },
   "body": [
     "This is a garden, not a palace axis. The centre describes two parallel lines, Khiêm Cung where the king rested and the tomb itself, with almost 50 buildings whose names use the word Khiêm, and Lưu Khiêm lake in front. It was started as Vạn Niên Cơ and renamed Khiêm Cung after the Chày Vôi revolt.",
     "An adult ticket is 150,000 VND. A child from 7 to 12 pays 30,000 VND, and a child under 7 is free. The same adult price applies to an international visitor and a Vietnamese visitor. The four-site ticket that adds this tomb to the Imperial City, Minh Mang, and Khai Dinh is 530,000 VND for an adult and 100,000 VND for a child from 7 to 12, for up to two days.",
-    "Walk past the incense stalls on the approach. Those stalls are not the tomb. The lake pavilion and the courtyards are. Hours follow the centre’s visiting-point notice, and you should confirm them: winter ticket sales stop at 17:00. How long the garden takes, and the ride from the south bank, is Check on arrival."
+    "Walk past the incense stalls on the approach: the lake pavilion and the courtyards are the visit. Winter ticket sales stop at 17:00. Dong Khanh’s tomb is next door."
   ],
   "figures": [
     {
@@ -29,16 +29,16 @@
     }
   ],
   "gettingThere": [
-    "The tomb is upstream along the Perfume River. The ticket page says thôn Thượng Ba, xã Thủy Xuân. The conservation centre’s heritage page says phường Thủy Xuân. Go by bicycle or taxi from the south bank. The minutes are Check on arrival."
+    "The tomb is upstream along the Perfume River in Thủy Xuân (thôn Thượng Ba on the ticket page). Go by bicycle or taxi from the south bank."
   ],
   "legs": [
     {
       "heading": "From the south bank",
-      "body": "Bicycle or taxi, upstream. No published minute count. Check on arrival. Do not follow an old line that puts the tomb south of the citadel."
+      "body": "Bicycle or taxi, upstream to Thủy Xuân."
     }
   ],
-  "hours": "16 Mar–15 Oct: 06:30–18:00, tickets until 17:30. 16 Oct–15 Mar: 07:00–17:30, tickets until 17:00. Confirm on arrival. The source is the centre’s 12 Mar 2024 notice, and a direct reload timed out on 21 Oct 2026.",
-  "closed": "No weekly closing day is on that notice. Confirm the board on arrival.",
+  "hours": "16 Mar–15 Oct: 06:30–18:00, tickets until 17:30. 16 Oct–15 Mar: 07:00–17:30, tickets until 17:00 (conservation centre notice, 12 Mar 2024). Confirm the board on arrival.",
+  "closed": "No weekly closing day on the centre’s notice.",
   "admissionNote": "Adult 150,000 VND. A child from 7 to 12 pays 30,000 VND. Under 7 is free. Hue residents and the other groups named in Resolution 55 pay half. The four-site ticket, Imperial City plus Minh Mang, Tu Duc, and Khai Dinh, is 530,000 VND for an adult and 100,000 VND for a child from 7 to 12, for up to two days from the first visit.",
   "links": [
     {
@@ -57,5 +57,7 @@
       "note": "In force 4 Jan 2026"
     }
   ],
-  "interests": ["oldTowns"]
+  "interests": [
+    "oldTowns"
+  ]
 }

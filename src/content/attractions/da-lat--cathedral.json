@@ -4,21 +4,17 @@
   "name": "Da Lat Cathedral",
   "nameVi": "Nhà thờ Con Gà",
   "kicker": "Rooster tower on Tran Phu",
-  "summary": "The cathedral on Tran Phu is the pink church with the rooster on the bell tower, completed in 1942. The outside look takes about 20 minutes and Visit Lâm Đồng lists the exterior as free. Interior hours are Check on arrival. It is not Domaine de Marie.",
+  "summary": "Stand on Tran Phu for the pink facade and the bell tower with a rooster on top, the reason locals call it the Chicken Church. It was completed in 1942. Twenty minutes outside is enough, and morning puts the light on the front.",
   "dots": 3,
   "timeNeeded": "20 minutes",
   "fee": "Free to view outside",
   "getThere": "Walk from Xuan Huong Lake to Tran Phu",
   "district": "Tran Phu",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "The cathedral and its bell tower",
-  "notice": {
-    "title": "This is not Domaine de Marie",
-    "body": "The rooster tower is the cathedral on Tran Phu. Domaine de Marie is the pink convent church at 1 Ngo Quyen, a separate stop."
-  },
   "body": [
-    "Stand on Tran Phu for the pink facade and the rooster on the bell tower. Visit Lâm Đồng and Vietnam Tourism put the completion in 1942. Morning light falls on the front. Twenty minutes is enough outside.",
-    "Do not mix this church with Domaine de Marie on Ngo Quyen. That convent is a different building. Interior hours here are Check on arrival. The published visit is the exterior."
+    "Stand on Tran Phu for the pink facade and the rooster on the bell tower. The church was completed in 1942. Morning light falls on the front, and twenty minutes is enough outside.",
+    "The pink convent church with the garden is Domaine de Marie, a separate stop at 1 Ngo Quyen on the west ridge. Pair the two if churches are your interest."
   ],
   "figures": [
     {
@@ -28,16 +24,16 @@
     }
   ],
   "gettingThere": [
-    "The cathedral is on Tran Phu, a walk from Xuan Huong Lake. A door number and a walking minute count are not printed. Check on arrival."
+    "The cathedral is on Tran Phu, a short walk from Xuan Huong Lake."
   ],
   "legs": [
     {
       "heading": "From Xuan Huong Lake",
-      "body": "Walk to Tran Phu. Minutes are Check on arrival."
+      "body": "Walk to Tran Phu."
     }
   ],
   "hours": "Check on arrival",
-  "admissionNote": "Exterior viewing is free on Visit Lâm Đồng summaries. Interior hours are Check on arrival. No interior fee is printed.",
+  "admissionNote": "Free to view outside (Visit Lâm Đồng). Interior hours and any interior fee are Check on arrival.",
   "links": [
     {
       "label": "Vietnam Tourism, things to do in Da Lat",

@@ -4,22 +4,22 @@
   "name": "Phung Hung Old House",
   "nameVi": "Nhà cổ Phùng Hưng",
   "kicker": "Merchant house with three roofs in one",
-  "summary": "The timber house at 4 Nguyễn Thị Minh Khai, more than a hundred years old, with a Chinese balcony, a Japanese four-way roof on the middle bay, and a Vietnamese frame. Eighty ironwood columns stand on stone feet. The eighth generation still lives here. Hours and the fee are check on arrival.",
+  "summary": "A merchant house more than a hundred years old at 4 Nguyễn Thị Minh Khai, a short walk from the Japanese bridge. Its balcony is Chinese, its middle roof Japanese, and its frame Vietnamese, all on eighty ironwood columns set on stone. The eighth generation of the family still lives here.",
   "dots": 4,
   "district": "Old town",
-  "timeNeeded": "A short house. Exact minutes are check on arrival.",
-  "fee": "Check on arrival",
+  "timeNeeded": "A short house visit",
+  "fee": "20,000 VND from 10 Aug 2026, or a combination ticket",
   "getThere": "Walk to 4 Nguyễn Thị Minh Khai",
-  "verified": "21 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "The timber balcony and the doorway at number 4",
   "notice": {
     "title": "The family still lives in the house",
-    "body": "The monument page says the eighth generation keeps the house. Ask which rooms are open. Hours and the ancient-town fee are both check on arrival."
+    "body": "The eighth generation keeps the house. Ask which rooms are open before you go further in."
   },
   "body": [
-    "The house is at 4 Nguyễn Thị Minh Khai, the street that meets the Japanese bridge. The monument page says it was built more than a hundred years ago by a Vietnamese merchant, and that the name Phùng Hưng means prosperity. It was a shop for cinnamon, pepper, salt, silk, porcelain, and glass. The eighth generation still lives here and looks after it.",
-    "The same page reads the building as three schools in one tube house. The balcony and the doors are Chinese. The middle bay has a four-direction roof the page calls tứ hải, which it calls Japanese. The timber frame, the beams, and the two-direction roofs on the front and back bays are Vietnamese. Eighty ironwood columns sit on stone feet so the wood does not touch the ground. The doors can be taken down. The eaves brackets are carved as carp. Upstairs, the page says, the family keeps an altar to Thiên Hậu.",
-    "Come in the morning. The monument page prints no door hours and no separate price. Old houses sit among the optional works on the combination tickets. Which rule the desk is using is check on arrival."
+    "The house is at 4 Nguyễn Thị Minh Khai, the street that meets the Japanese bridge. A Vietnamese merchant built it more than a hundred years ago, and the name Phùng Hưng means prosperity. It was a shop for cinnamon, pepper, salt, silk, porcelain, and glass. The eighth generation still lives here and looks after it.",
+    "The building is three schools in one tube house. The balcony and the doors are Chinese. The middle bay has a four-direction roof, tứ hải, in the Japanese manner. The timber frame, the beams, and the two-direction roofs on the front and back bays are Vietnamese. Eighty ironwood columns sit on stone feet so the wood does not touch the ground. The doors can be taken down, the eaves brackets are carved as carp, and upstairs the family keeps an altar to Thiên Hậu.",
+    "Come in the morning. Old houses are optional stops on the old-town ticket."
   ],
   "figures": [
     {
@@ -29,17 +29,17 @@
     }
   ],
   "gettingThere": [
-    "Walk from the Japanese bridge along Nguyễn Thị Minh Khai to number 4. The monument page does not print a minute count."
+    "Walk from the Japanese bridge along Nguyễn Thị Minh Khai to number 4."
   ],
   "legs": [
     {
       "heading": "From the Japanese bridge",
-      "body": "Walk along Nguyễn Thị Minh Khai to number 4. The minutes depend on where you start on that street."
+      "body": "Walk along Nguyễn Thị Minh Khai to number 4."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly closing day is printed on the monument page.",
-  "admissionNote": "No separate price is printed for this building. From 10 August 2026, Da Nang Resolution 98/2026 sets 20,000 VND per person per building, the same for a Vietnamese and a foreign visitor. The heritage centre’s notices of 26 January 2026 and 16 March 2026 still describe an 80,000 VND ticket for the streetscape, Chùa Cầu or Miếu Quan Công, and two other works, and a 120,000 VND ticket when a museum and three other works are added. The March notice says one purchase can be used through the stay, up to three days. A May 2026 article says the town is an open neighbourhood and many people walk in without a ticket. Which desk is in force is check on arrival.",
+  "closed": "No weekly closing day published.",
+  "admissionNote": "No separate price for this building. From 10 Aug 2026: 20,000 VND per person per building, the same for every visitor (Da Nang Resolution 98/2026). Heritage centre notices of 26 Jan and 16 Mar 2026: 80,000 VND (streetscape, Chùa Cầu or Miếu Quan Công, and two other works) or 120,000 VND (adds a museum and three other works), usable through a stay of up to three days. A May 2026 article counts those as four and six works. Ask at the booth which ticket is on sale.",
   "links": [
     {
       "label": "Nhà cổ Phùng Hưng",

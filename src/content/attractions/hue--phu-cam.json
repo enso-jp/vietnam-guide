@@ -4,22 +4,22 @@
   "name": "Phu Cam Cathedral",
   "nameVi": "Nhà thờ Phủ Cam",
   "kicker": "The cathedral on Phuoc Qua hill",
-  "summary": "Sit in the nave of Phủ Cam, the cathedral of the Archdiocese of Hue, on Phước Quả hill, designed by Ngô Viết Thụ. The same city page prints 01 Đoàn Hữu Trưng and 06 Nguyễn Trường Tộ. It lists grounds at all hours and weekday mass from 05:00 to 18:00. Confirm those clocks. A fee is Check on arrival.",
+  "summary": "The cathedral of the Archdiocese of Hue on Phước Quả hill, a modern church by the architect Ngô Viết Thụ, with a nave of tall windows and parabolic arches. Walk the grounds, or sit in for Sunday mass. Go for the city’s Catholic landmark, a contrast to the pagodas and the court.",
   "dots": 2,
   "district": "River and south bank",
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
-  "getThere": "Phước Quả hill, by Nguyễn Trường Tộ or Đoàn Hữu Trưng. Minutes are Check on arrival.",
+  "getThere": "Phước Quả hill: 01 Đoàn Hữu Trưng or 06 Nguyễn Trường Tộ (both on the city page).",
   "verified": "21 Oct 2026",
   "heroCaption": "The nave and parabolic arches at Phu Cam",
   "notice": {
-    "title": "Two street numbers on one page",
-    "body": "The English city page says 01 Đoàn Hữu Trưng, Phước Vĩnh ward, and also 06 Nguyễn Trường Tộ, Phúc Vĩnh ward. The ward spelling differs on the English city page. Confirm the door. The mass clocks below are from that same page only."
+    "title": "Two street addresses",
+    "body": "The city page gives both 01 Đoàn Hữu Trưng, Phước Vĩnh ward, and 06 Nguyễn Trường Tộ. The grounds and the mass times also come from that page only."
   },
   "body": [
-    "Phủ Cam is the cathedral of the Archdiocese of Hue, on Phước Quả hill. The city page credits the design to Ngô Viết Thụ. The grounds it prints are 10,804 square metres. The same page gives two doors: 01 Đoàn Hữu Trưng, Phước Vĩnh ward, and 06 Nguyễn Trường Tộ, Phúc Vĩnh ward.",
-    "That page prints the grounds as open 24 hours for a visit outside, weekday mass from 05:00 to 18:00, and Sunday mass at 05:30, 08:00, 15:00, and 18:30. No second hours source was found. Confirm the board. A fee is Check on arrival.",
-    "The city route from the centre is Đống Đa, right onto Hai Bà Trưng, on to Phan Đình Phùng, left onto Nguyễn Trường Tộ, then the Hàm Nghi–Đoàn Hữu Trưng junction. The minutes from the south bank are Check on arrival."
+    "Phủ Cam is the cathedral of the Archdiocese of Hue, on Phước Quả hill. The design is by Ngô Viết Thụ, and the grounds are 10,804 square metres.",
+    "The grounds are open around the clock for a look outside. Weekday mass runs between 05:00 and 18:00, and Sunday mass is at 05:30, 08:00, 15:00, and 18:30.",
+    "From the centre, take Đống Đa, turn right onto Hai Bà Trưng, continue to Phan Đình Phùng, turn left onto Nguyễn Trường Tộ, and go on to the Hàm Nghi–Đoàn Hữu Trưng junction."
   ],
   "figures": [
     {
@@ -29,17 +29,17 @@
     }
   ],
   "gettingThere": [
-    "From the south bank, the city page says: Đống Đa, right on Hai Bà Trưng, continue to Phan Đình Phùng, left on Nguyễn Trường Tộ, then Hàm Nghi to Đoàn Hữu Trưng. The page itself prints two street numbers. The minutes are Check on arrival."
+    "From the south bank: Đống Đa, right on Hai Bà Trưng, on to Phan Đình Phùng, left on Nguyễn Trường Tộ, then Hàm Nghi to Đoàn Hữu Trưng."
   ],
   "legs": [
     {
       "heading": "From the south bank",
-      "body": "Đống Đa, Hai Bà Trưng, Phan Đình Phùng, Nguyễn Trường Tộ. No published minute count. Check on arrival."
+      "body": "Đống Đa, Hai Bà Trưng, Phan Đình Phùng, Nguyễn Trường Tộ."
     }
   ],
-  "hours": "The city page prints grounds open 24 hours for a visit outside, weekday mass 05:00–18:00, and Sunday mass at 05:30, 08:00, 15:00, and 18:30. One source only. Confirm on arrival.",
-  "closed": "No weekly closing day is on the English city page. Confirm on arrival.",
-  "admissionNote": "Check on arrival. No fee is printed on the city page.",
+  "hours": "Grounds 24 hours. Weekday mass 05:00–18:00. Sunday mass 05:30, 08:00, 15:00, 18:30 (English city page, one source). Confirm on arrival.",
+  "closed": "No weekly closing day on the city page.",
+  "admissionNote": "Check on arrival. The city page prints no fee.",
   "links": [
     {
       "label": "Phu Cam on the city page",

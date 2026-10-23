@@ -3,23 +3,23 @@
   "placeSlug": "hue",
   "name": "Tu Hieu Pagoda",
   "nameVi": "Chùa Từ Hiếu",
-  "kicker": "Pine-hill monastery of the eunuchs",
-  "summary": "Walk the pine hillside at Từ Hiếu, in Dương Xuân Thượng III, Thủy Xuân, about 5 km from the centre. Vietnam Tourism names it as the monastery where Thích Nhất Hạnh was a novice. Tự Đức gave the pagoda its name. The fee, the hours, and the ride in minutes are Check on arrival.",
+  "kicker": "Pine-hill monastery in Thủy Xuân",
+  "summary": "A working monastery in the pines of Thủy Xuân, about 5 km from the centre, named by Tự Đức and the resting place of Nguyễn court eunuchs. Walk through the triple gate past the pond to the halls on the hillside. Go after Thien Mu for a quieter pagoda, and because Thích Nhất Hạnh was a novice here.",
   "dots": 3,
   "district": "Pagodas",
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
-  "getThere": "About 5 km, via Điện Biên Phủ and Lê Ngô Cát. Minutes are Check on arrival.",
+  "getThere": "About 5 km, via Điện Biên Phủ and Lê Ngô Cát.",
   "verified": "21 Oct 2026",
   "heroCaption": "The triple gate and the pond at Tu Hieu",
   "notice": {
-    "title": "No published fee, and no published hour",
-    "body": "The city page and Vietnam Tourism describe the monastery. Neither prints a ticket or a closing time. Do not read that silence as free entry."
+    "title": "No published fee or hours",
+    "body": "No ticket price or closing time is published for Từ Hiếu. Ask at the gate."
   },
   "body": [
-    "The city page places Từ Hiếu in Dương Xuân Thượng III village, Thủy Xuân ward, hidden in pines on the hillside, with a campus of about 8 acres and a curved ditch in front. It is about 5 km from the centre. The same page says the pagoda is the resting place of Nguyễn eunuchs, and that Tự Đức gave it the name Từ Hiếu.",
-    "Vietnam Tourism names it as the monastery where Thích Nhất Hạnh was a novice. Treat it as a working monastery after Thien Mu, not as a second citadel. The fee and the hours are Check on arrival.",
-    "The city route is Điện Biên Phủ, then Lê Ngô Cát, then the sign. Motorbike, car, or taxi. The minutes from the south bank are Check on arrival."
+    "Từ Hiếu sits in Dương Xuân Thượng III village, Thủy Xuân ward, hidden in pines on the hillside, with a campus of about 8 acres and a curved ditch in front. It is about 5 km from the centre. The same page says the pagoda is the resting place of Nguyễn eunuchs, and that Tự Đức gave it the name Từ Hiếu.",
+    "Vietnam Tourism names it as the monastery where Thích Nhất Hạnh was a novice. Treat it as a working monastery after Thien Mu, not as a second citadel.",
+    "The city route is Điện Biên Phủ, then Lê Ngô Cát, then the sign. Go by motorbike, car, or taxi."
   ],
   "figures": [
     {
@@ -29,17 +29,17 @@
     }
   ],
   "gettingThere": [
-    "From the south bank, the city page says about 5 km: follow Điện Biên Phủ, turn onto Lê Ngô Cát, and take the sign for the pagoda. The minutes are Check on arrival."
+    "From the south bank, about 5 km: follow Điện Biên Phủ, turn onto Lê Ngô Cát, and take the sign for the pagoda."
   ],
   "legs": [
     {
       "heading": "From the south bank",
-      "body": "About 5 km by Điện Biên Phủ and Lê Ngô Cát. No published minute count. Check on arrival."
+      "body": "About 5 km by Điện Biên Phủ and Lê Ngô Cát."
     }
   ],
   "hours": "Check on arrival.",
-  "closed": "No closing day is published. Confirm on arrival.",
-  "admissionNote": "Check on arrival. No fee is printed on the city page or on the national Hue page.",
+  "closed": "Check on arrival.",
+  "admissionNote": "Check on arrival. Neither the city page nor the national Hue page prints a fee.",
   "links": [
     {
       "label": "Tu Hieu on the city page",

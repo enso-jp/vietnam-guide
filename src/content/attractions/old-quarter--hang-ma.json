@@ -1,0 +1,54 @@
+{
+  "slug": "hang-ma",
+  "placeSlug": "old-quarter",
+  "name": "Hang Ma",
+  "nameVi": "Phố Hàng Mã",
+  "kicker": "Guild street of festival goods",
+  "summary": "Hang Ma is the Old Quarter street of festival goods. Its shopfronts are hung with decorations under striped awnings, and the stock follows the calendar: at the turn of the year the shops fill with Christmas trees, Santas, and New Year baubles. Walk it on the loop through the guild streets, and come in December to see it at its fullest.",
+  "dots": 3,
+  "timeNeeded": "Check on arrival",
+  "fee": "Free to walk",
+  "getThere": "Walk the lanes north of Hoan Kiem Lake",
+  "district": "The guild streets",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Festival-goods shops under striped awnings on Hang Ma",
+  "body": [
+    "Each of the 36 guild streets is named for the trade it has carried since the 14th or 15th century, and Hang Ma’s trade is festival goods. The shopfronts spill decorations onto the pavement, with scooters parked in front and the old tube houses rising behind.",
+    "The stock changes with the season. At the turn of the year the shops are lined with Christmas and New Year goods, trees and Santas included, and the whole street turns into one long festive shop. Walk through, then carry on to Dong Xuan Market at the north end."
+  ],
+  "figures": [
+    {
+      "id": "old-quarter-hang-ma-2",
+      "caption": "Christmas and New Year stock inside a Hang Ma shop, December",
+      "alt": "A shop aisle packed with Christmas decorations, a saxophone-playing Santa on the left and a snowman on the right"
+    }
+  ],
+  "gettingThere": [
+    "Hang Ma is one of the guild streets in the lanes north of Hoan Kiem Lake. Walk north from the lake into the quarter; it is free to walk."
+  ],
+  "legs": [
+    {
+      "heading": "From Hoan Kiem Lake",
+      "body": "On foot, north into the lanes to Hang Ma."
+    }
+  ],
+  "hours": "The Old Quarter is open 7am to midnight (Vietnam Tourism). Shop hours: Check on arrival.",
+  "closed": "Check on arrival",
+  "admissionNote": "Free to walk. Shop prices: Check on arrival.",
+  "links": [
+    {
+      "label": "Vietnam Tourism: Explore the Old Quarter",
+      "url": "https://vietnam.travel/things-to-do/explore-old-quarter-your-way",
+      "note": "The guild streets and their trades: Hang Bac silver, Hang Gai silk, Hang Ma festival goods, Lan Ong herbs"
+    },
+    {
+      "label": "Vietnam Tourism: Ha Noi must-sees",
+      "url": "https://vietnam.travel/things-to-do/11-must-see-attractions-ha-noi",
+      "note": "Old Quarter: 36 streets, free, 7am to midnight; the bia hoi corner at Ta Hien and Luong Ngoc Quyen"
+    }
+  ],
+  "interests": [
+    "markets",
+    "oldTowns"
+  ]
+}

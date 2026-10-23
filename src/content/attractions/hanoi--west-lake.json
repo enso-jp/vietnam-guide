@@ -4,20 +4,37 @@
   "name": "West Lake",
   "nameVi": "Hồ Tây",
   "kicker": "The large lake in Tay Ho",
-  "summary": "Walk the shore of the large lake north of the center. A shore fee was not published, and neither was a minute count from Hoan Kiem. Both are check on arrival. Tran Quoc Pagoda is a separate stop.",
+  "summary": "Trade the Old Quarter's crowds for the open water of West Lake, the large lake in Tay Ho north of the center. Walk a stretch of the shore, where pagodas and cafes sit by the water, and stop at Tran Quoc Pagoda on the way. Late afternoon is the easy time for the walk.",
   "dots": 3,
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
-  "getThere": "From Hoan Kiem. Minutes are check on arrival.",
+  "getThere": "By car or motorbike north to Tay Ho",
   "district": "West Lake",
   "verified": "22 Oct 2026",
   "heroCaption": "A pavilion on the shore of West Lake",
   "gettingThere": [
-    "West Lake is in Tay Ho, north of the visitor center. No published drive time from Hoan Kiem was on an operator page. Check on arrival."
+    "West Lake is in Tay Ho, north of Hoan Kiem. Take a car or motorbike from the center to the shore near Tran Quoc Pagoda."
   ],
-  "hours": "Check on arrival. No shore clock was published.",
-  "admissionNote": "Check on arrival. A shore fee was not published.",
+  "hours": "Check on arrival.",
+  "admissionNote": "Check on arrival. No shore fee published.",
   "interests": [
     "photography"
+  ],
+  "body": [
+    "West Lake is the large lake in Tay Ho, north of the center. The shore is the visit: open water, the skyline across it, and pagodas and cafes along the edge. Tran Quoc Pagoda stands on the shore with its stupa above the water.",
+    "Come in the late afternoon, after the center has had your morning. Pick one stretch of shore and walk it, with Tran Quoc as the stop."
+  ],
+  "figures": [
+    {
+      "id": "hanoi-west-lake-2",
+      "caption": "Open water and the skyline across West Lake on a clear day",
+      "alt": "The wide water of West Lake in Hanoi under a blue sky, with the city skyline on the far shore"
+    }
+  ],
+  "legs": [
+    {
+      "heading": "From Hoan Kiem",
+      "body": "By car or motorbike north to Tay Ho."
+    }
   ]
 }

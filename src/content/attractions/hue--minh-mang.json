@@ -4,22 +4,22 @@
   "name": "Tomb of Minh Mang",
   "nameVi": "Lăng Minh Mạng",
   "kicker": "Straight garden tomb where the rivers meet",
-  "summary": "Walk the straight axis at Minh Mang’s tomb, where the Tả Trạch and Hữu Trạch meet and the hill is Hiếu Sơn. An adult ticket is 150,000 VND, the same line as Tu Duc and Khai Dinh on the four-site ticket. Minutes on site and the ride are Check on arrival.",
+  "summary": "Minh Mang’s tomb runs on one straight axis of about 700 m, from Đại Hồng Môn past lakes, bridges, and pavilions to the burial hill, where the Tả Trạch and Hữu Trạch meet to form the Perfume River. Walk it end to end in the morning, before the heat. It is on the four-site ticket with Tu Duc and Khai Dinh.",
   "dots": 4,
   "district": "Royal tombs",
   "timeNeeded": "Check on arrival",
   "fee": "150,000 VND",
-  "getThere": "Upstream, where the tributaries meet. Minutes are Check on arrival.",
+  "getThere": "Upstream to Hương Trà, where the two tributaries meet, by bicycle or taxi.",
   "verified": "21 Oct 2026",
   "heroCaption": "A pavilion and bridge on the axis of Minh Mang’s tomb",
   "notice": {
     "title": "It is on the four-site ticket",
-    "body": "If you bought the Imperial City plus Minh Mang, Tu Duc, and Khai Dinh at 530,000 VND for an adult, skipping this gate leaves that line unused. The single adult ticket is 150,000 VND."
+    "body": "If you hold the 530,000 VND four-site ticket, this gate is already paid. The single adult ticket is 150,000 VND."
   },
   "body": [
     "The visit is a straight walk. The centre places the tomb at the old ấp An Bằng, Hương Trà, where the Tả Trạch and Hữu Trạch meet to form the Perfume River. The king renamed the hill Hiếu Sơn. A spirit way of about 700 m runs from Đại Hồng Môn to the rampart behind the tomb, inside a rampart of about 1,750 m, with lakes and pine hills. Thiệu Trị finished it after Minh Mạng died.",
     "An adult ticket is 150,000 VND, and a child from 7 to 12 pays 30,000 VND. Under 7 is free. The four-site ticket with the Imperial City, Tu Duc, and Khai Dinh is 530,000 VND for an adult and 100,000 VND for a child from 7 to 12, for up to two days from the first visit.",
-    "Go in the morning, before the heat the city’s disaster plan puts at 35°C to 40°C from May to September. The winter ticket desk on the centre’s notice stops at 17:00. Confirm that board. How long the axis takes, and the ride from the south bank, is Check on arrival."
+    "Go in the morning: the city’s disaster plan puts May to September at 35°C to 40°C. Winter ticket sales stop at 17:00."
   ],
   "figures": [
     {
@@ -29,16 +29,16 @@
     }
   ],
   "gettingThere": [
-    "The tomb is upstream of the city, at the old ấp An Bằng in Hương Trà, where the two tributaries meet. It is farther out than Tu Duc. Go by bicycle or taxi from the south bank. The minutes are Check on arrival."
+    "The tomb is upstream of the city, at the old ấp An Bằng in Hương Trà, where the two tributaries meet, farther out than Tu Duc. Go by bicycle or taxi from the south bank."
   ],
   "legs": [
     {
       "heading": "From the south bank",
-      "body": "Bicycle or taxi, upstream to Hương Trà. No published minute count. Check on arrival."
+      "body": "Bicycle or taxi, upstream to Hương Trà."
     }
   ],
-  "hours": "16 Mar–15 Oct: 06:30–18:00, tickets until 17:30. 16 Oct–15 Mar: 07:00–17:30, tickets until 17:00. Confirm on arrival. The source is the centre’s 12 Mar 2024 notice, and a direct reload timed out on 21 Oct 2026.",
-  "closed": "No weekly closing day is on that notice. Confirm the board on arrival.",
+  "hours": "16 Mar–15 Oct: 06:30–18:00, tickets until 17:30. 16 Oct–15 Mar: 07:00–17:30, tickets until 17:00 (conservation centre notice, 12 Mar 2024). Confirm the board on arrival.",
+  "closed": "No weekly closing day on the centre’s notice.",
   "admissionNote": "Adult 150,000 VND. A child from 7 to 12 pays 30,000 VND. Under 7 is free. Hue residents and the other groups named in Resolution 55 pay half. The four-site ticket, Imperial City plus Minh Mang, Tu Duc, and Khai Dinh, is 530,000 VND for an adult and 100,000 VND for a child from 7 to 12, for up to two days from the first visit.",
   "links": [
     {
@@ -54,8 +54,10 @@
     {
       "label": "Visiting hours notice",
       "url": "https://hueworldheritage.org.vn/Thong-tin-tham-quan/Thoi-gian-tham-quan/pid/1775/cid/59?tid=Thoi-gian-dongmo-cua-tai-cac-diem-tham-quan.html",
-      "note": "12 Mar 2024. A direct reload timed out on 21 Oct 2026."
+      "note": "12 Mar 2024"
     }
   ],
-  "interests": ["oldTowns"]
+  "interests": [
+    "oldTowns"
+  ]
 }

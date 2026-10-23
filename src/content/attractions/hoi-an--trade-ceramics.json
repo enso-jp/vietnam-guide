@@ -4,22 +4,22 @@
   "name": "Museum of Trade Ceramics",
   "nameVi": "Bảo tàng Gốm sứ Mậu dịch",
   "kicker": "Trade ceramics in a tube house",
-  "summary": "A nineteenth-century tube house at 80 Trần Phú, opened as a museum in 1995, with 368 ceramics from the 9th to the 19th century. The house itself is the other exhibit: front, bridge, and back, with a sky well. It closes on the 15th of each month. The clock and the fee are check on arrival.",
+  "summary": "A nineteenth-century wooden house at 80 Trần Phú holding 368 trade ceramics from the 9th to the 19th century, all dug up in Hoi An. The house is the other exhibit: front, bridge, and back around a sky well, with a balcony over the tiled street. Give it a museum hour.",
   "dots": 3,
   "district": "Old town",
-  "timeNeeded": "A museum hour. Exact minutes are check on arrival.",
-  "fee": "Check on arrival",
+  "timeNeeded": "A museum hour",
+  "fee": "20,000 VND from 10 Aug 2026, or a combination ticket",
   "getThere": "Walk to 80 Trần Phú",
-  "verified": "21 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "The wooden house at 80 Trần Phú, balcony and shutters",
   "notice": {
     "title": "Closed on the 15th of each month",
-    "body": "The museum overview says the doors are open every day except the 15th, when the staff do their own work. It does not print a clock. The fee is the ancient-town ticket, which is check on arrival."
+    "body": "The museum opens every day except the 15th of the month. Plan around that date."
   },
   "body": [
-    "The museum is the two-storey wooden house at 80 Trần Phú. The heritage overview says it was set up by Decision 139/QĐ-VH of 2 October 1995, with help from Japanese specialists. The collection is 368 objects, from the 9th and 10th centuries through the 19th, found at archaeological spots in Hoi An. They are the trade ceramics of the years when ships from East Asia and Europe used the port.",
-    "The house is the other reason to go in. The overview describes a typical old-town plan: a front house, a back house, and a bridge section between them, with an open sky well in the middle and the kitchen at the rear. From the balcony you look down the street of tiled roofs. The objects are inside. The street is the frame on the way out.",
-    "The overview says the museum is open every day except the 15th of the month. It does not print an opening or a closing clock, so the hour is check on arrival. Museums are the extra landmark on the 120,000 VND combination ticket the centre described in 2026. From 10 August 2026 the city fee is 20,000 VND per building. Ask which one is on sale."
+    "The museum is the two-storey wooden house at 80 Trần Phú, set up in 1995 with help from Japanese specialists. The collection is 368 objects from the 9th and 10th centuries through the 19th, found at archaeological sites in Hoi An: the trade ceramics of the years when ships from East Asia and Europe used the port.",
+    "The house is the other reason to go in. It follows the old-town plan: a front house, a back house, and a bridge section between them, with an open sky well in the middle and the kitchen at the rear. From the balcony you look down the street of tiled roofs.",
+    "It is open every day except the 15th of the month. Museums are the extra stop on the larger combination ticket."
   ],
   "figures": [
     {
@@ -29,17 +29,17 @@
     }
   ],
   "gettingThere": [
-    "Walk to 80 Trần Phú, in the ancient town. The overview does not print a minute count."
+    "Walk along Trần Phú to number 80, in the old town."
   ],
   "legs": [
     {
       "heading": "From the old town",
-      "body": "Walk along Trần Phú to number 80. The minutes depend on your lane."
+      "body": "Walk along Trần Phú to number 80."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "Closed on the 15th of each month. No weekly closing day is printed.",
-  "admissionNote": "No separate price is printed for this building. From 10 August 2026, Da Nang Resolution 98/2026 sets 20,000 VND per person per building, the same for a Vietnamese and a foreign visitor. The heritage centre’s notices of 26 January 2026 and 16 March 2026 still describe an 80,000 VND ticket for the streetscape, Chùa Cầu or Miếu Quan Công, and two other works, and a 120,000 VND ticket when a museum and three other works are added. The March notice says one purchase can be used through the stay, up to three days. A May 2026 article says the town is an open neighbourhood and many people walk in without a ticket. Which desk is in force is check on arrival.",
+  "closed": "Closed on the 15th of each month.",
+  "admissionNote": "No separate price for this building. From 10 Aug 2026: 20,000 VND per person per building, the same for every visitor (Da Nang Resolution 98/2026). Heritage centre notices of 26 Jan and 16 Mar 2026: 80,000 VND (streetscape, Chùa Cầu or Miếu Quan Công, and two other works) or 120,000 VND (adds a museum and three other works), usable through a stay of up to three days. A May 2026 article counts those as four and six works. Ask at the booth which ticket is on sale.",
   "links": [
     {
       "label": "Museum overview",

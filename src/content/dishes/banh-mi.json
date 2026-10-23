@@ -12,8 +12,8 @@
   "where": [
     "In Hanoi, bánh mì sits with phở bò and bún chả among the three best-known dishes of the city.",
     "In Hoi An, street stalls in the old town, the morning of the walk.",
-    "Vietnam Tourism’s Hoi An food article says the baguette is at street stalls across town. Its must-try article spreads the loaf with pâté, fresh and pickled vegetables, butter, and sweet chili sauce, and calls it breakfast, lunch, and a snack. The Hoi An World Heritage conservation centre’s 7 June 2023 list names char siu, pâté, mixed beef-and-pork sausage, ham, a butter beaten from egg and oil, and herbs. The 30 October 2024 note names pork, sausage, and herbs. Stall hours are Check on arrival.",
-    "In Ho Chi Minh City the sandwich is said to have started here. One account fills the baguette with pâté and chili sauce, then meats, fresh herbs, and pickled vegetables, usually carrot and daikon, and the sauce ties salty, sweet, and spicy flavors. Another lists char siu, homemade pâté, soft butter, pickled papaya, and hot chili, and some cooks add a sauce. A city walk says pickled vegetables and pork. The end of the Bến Thành hall serves bánh mì. Bánh mì Hoa Mã is on Bùi Viện. Bánh mì Huỳnh Hoa is at 26 Lê Thị Riêng.",
+    "Across Hoi An the baguette is a street-stall loaf for breakfast, lunch, or a snack, spread with pâté, fresh and pickled vegetables, butter, and sweet chili sauce. Old-town stalls fill it with char siu, pâté, mixed beef-and-pork sausage, ham, a butter beaten from egg and oil, pork, and herbs.",
+    "In Ho Chi Minh City the sandwich is said to have started here. The baguette takes pâté and chili sauce, then meats such as char siu or pork, fresh herbs, pickled carrot, daikon, or papaya, soft butter, and hot chili, with a sauce that ties salty, sweet, and spicy flavors. The end of the Bến Thành hall serves bánh mì. Bánh mì Hoa Mã is on Bùi Viện. Bánh mì Huỳnh Hoa is at 26 Lê Thị Riêng.",
     "Fillings to try on the city loaf include shumai, pork skin, fish cake, roasted pork, grilled beef, and shredded chicken. Bakeries that have lasted more than half a century include Bay Ho, Hoa Ma, Huynh Hoa, Tang, Cu Ly, and Sau Le.",
     "In Dong Hoi, bánh mì kẹp bánh bột lọc is a hot split loaf filled with cassava-flour cakes of shrimp and pork, chili cut in threads, herbs, and a thin sweetened fish sauce. Chợ Đồng Hới also fills the loaf with a mung-bean cake.",
     "In Da Lat, eat a bánh mì in the morning from a street counter near the market.",
@@ -21,7 +21,14 @@
   ],
   "verified": "23 Oct 2026",
   "priceBand": "One of the cheapest full meals in the country. A Da Lat stall price is Check on arrival.",
-  "placeSlugs": ["hanoi", "hoi-an", "ho-chi-minh-city", "da-nang", "da-lat", "dong-hoi"],
+  "placeSlugs": [
+    "hanoi",
+    "hoi-an",
+    "ho-chi-minh-city",
+    "da-nang",
+    "da-lat",
+    "dong-hoi"
+  ],
   "seoTitle": "Banh mi — what to order",
   "seoDescription": "What goes in a banh mi, and how to pick a stall."
 }

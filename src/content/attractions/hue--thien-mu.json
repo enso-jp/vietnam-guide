@@ -4,22 +4,22 @@
   "name": "Thien Mu Pagoda",
   "nameVi": "Chùa Thiên Mụ",
   "kicker": "Seven-tiered tower on the north bank",
-  "summary": "See the seven-tiered Phước Duyên tower above Hà Khê, in Kim Long, on the north bank upstream of the citadel. Resolution 55 does not list a fee, so the price is Check on arrival, not free. Hours are Check on arrival too. This is a stop, not a second citadel.",
+  "summary": "The seven-tiered Phước Duyên tower on Hà Khê hill above the Perfume River, at a pagoda founded by Nguyễn Hoàng in the early 17th century. Ride upstream along the north bank through Kim Long, then walk up from the river to the tower and the hall behind it. Go in the late afternoon for the tower and the river together, or stop on the way to a tomb.",
   "dots": 3,
   "district": "Pagodas",
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
-  "getThere": "Along the north bank through Kim Long. Minutes are Check on arrival.",
+  "getThere": "Along the north bank through Kim Long, by bicycle or taxi.",
   "verified": "21 Oct 2026",
   "heroCaption": "The tower and the pagoda hall at Thien Mu",
   "notice": {
-    "title": "No published fee, and no published hour",
-    "body": "Resolution 55 does not list Thien Mu. That absence is not a free entry. The 12 March 2024 visiting-point notice does not name the pagoda, and a reload of the 12 March 2024 visiting-point notice timed out on 21 October 2026. Confirm the gate when you arrive."
+    "title": "Not on the monument ticket",
+    "body": "Thien Mu is not on the fee table that prices the Imperial City and the tombs, and the centre’s visiting-hours notice does not list it. Ask at the gate about any fee and the hours."
   },
   "body": [
     "The tower is the reason to stop. Vietnam Tourism calls out the seven tiers. The culture department, writing a river trip, describes the Phước Duyên tower rising over Hà Khê hill and the pines, and dates the pagoda to Nguyễn Hoàng in the early 17th century. The ranked-monument list puts it in Kim Long and names the conservation centre and the city’s Buddhist association as the managers.",
     "UNESCO lists Thien Mu among the monuments outside the Capital City. Treat it as a stop on the way upstream, not as a second palace. Late afternoon is the hour if the tower and the river are the picture. Morning is enough if you are already riding toward a tomb.",
-    "Do not budget a ticket price you have not seen. The fee resolution that prices the Imperial City and the tombs leaves this pagoda off the table. How long the grounds take is Check on arrival."
+    "Kim Long, the road you ride in on, is also the road for bánh khoái and bún thịt nướng. Eat on the way back."
   ],
   "figures": [
     {
@@ -29,17 +29,17 @@
     }
   ],
   "gettingThere": [
-    "Thien Mu is in Kim Long, on the north bank upstream of the citadel. The usual way is along that bank, by bicycle or by taxi. No published minute count from the south bank was found. Check on arrival."
+    "Thien Mu is in Kim Long, on the north bank upstream of the citadel. Ride along that bank by bicycle, or take a taxi."
   ],
   "legs": [
     {
       "heading": "From the south bank",
-      "body": "Cross to the north bank and follow the river upstream through Kim Long. The minutes are Check on arrival."
+      "body": "Cross to the north bank and follow the river upstream through Kim Long."
     }
   ],
   "hours": "Check on arrival.",
-  "closed": "The centre’s 12 Mar 2024 visiting-point notice does not name Thien Mu, and it does not name a weekly closing day. Confirm the gate on arrival.",
-  "admissionNote": "Check on arrival. Resolution 55/2025/NQ-HĐND, in force 4 January 2026, prices the Imperial City and the tombs and does not list Thien Mu. Do not read that gap as free entry.",
+  "closed": "Not covered by the centre’s visiting-hours notice. Confirm at the gate.",
+  "admissionNote": "Check on arrival. Resolution 55/2025/NQ-HĐND, in force 4 January 2026, does not list Thien Mu; that is not proof of free entry.",
   "links": [
     {
       "label": "Resolution 55 fee table",
@@ -57,5 +57,7 @@
       "note": "Phước Duyên tower over Hà Khê"
     }
   ],
-  "interests": ["pagodas"]
+  "interests": [
+    "pagodas"
+  ]
 }

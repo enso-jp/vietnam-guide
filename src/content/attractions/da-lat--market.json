@@ -4,36 +4,36 @@
   "name": "Da Lat Market",
   "nameVi": "Chợ Đà Lạt",
   "kicker": "Flower and produce halls above the lake",
-  "summary": "The sloping halls above Xuan Huong Lake are the morning stop for strawberries, flowers, and avocado ice cream. Entry is free. Stall prices are Check on arrival. Plan about an hour, then walk back down to the water.",
+  "summary": "Climb the sloping halls above Xuan Huong Lake for flowers, strawberries, and the counters of jam, dried fruit, and artichoke tea. Come in the morning for produce, allow about an hour, then walk back down to the water.",
   "dots": 4,
   "timeNeeded": "1 hour",
   "fee": "Free to enter",
   "getThere": "Walk uphill from Xuan Huong Lake",
   "district": "The market",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "Night stalls on the market slope",
   "body": [
-    "Walk up from the lake into the sloping halls. Morning is produce, flowers, and a cup of strawberries with condensed milk. Avocado ice cream is the cold snack at the counters. Vietnam National Authority of Tourism puts those stalls with the central market.",
-    "Give the halls about an hour. The door is free. What you buy is Check on arrival, and so are the address and the hours. After dark the night market in the centre is a separate set of stalls. Visit Lâm Đồng puts those at about 18:00 to 23:00."
+    "Walk up from the lake into the sloping halls. Morning is produce, flowers, and a cup of strawberries with condensed milk. Avocado ice cream is the cold snack at the counters.",
+    "Give the halls about an hour. Around the edge, counters sell fruit preserves, candied ginger, coffee, and artichoke tea to take home. After dark the night market in the centre takes over, from about 18:00 to 23:00, with grilled rice paper and hot soy milk."
   ],
   "figures": [
     {
-      "id": "da-lat-market-2",
-      "caption": "Morning produce in the market hall",
-      "alt": "Morning fruit and produce stalls inside Da Lat Market"
+      "id": "da-lat-market-flowers",
+      "caption": "Flower stalls inside the market hall",
+      "alt": "Rows of cut flowers for sale inside Da Lat Market"
     }
   ],
   "gettingThere": [
-    "The market sits on the slope above Xuan Huong Lake. Walk up from the shore. Visit Lâm Đồng does not print a street number. The address is Check on arrival."
+    "The market sits on the slope above Xuan Huong Lake. Walk up from the shore."
   ],
   "legs": [
     {
       "heading": "From Xuan Huong Lake",
-      "body": "On foot, up the slope. The walk is short. A minute count is not printed. Check on arrival."
+      "body": "On foot, a short walk up the slope."
     }
   ],
   "hours": "Check on arrival",
-  "admissionNote": "Entry is free. Vietnam National Authority of Tourism describes flowers and produce. Stall prices for fruit and snacks are Check on arrival. Visit Lâm Đồng does not print the street address or the opening hours.",
+  "admissionNote": "Free to enter. Stall prices, the street address, and opening hours are Check on arrival. Night market: about 18:00–23:00 (Visit Lâm Đồng).",
   "links": [
     {
       "label": "Visit Lâm Đồng, Da Lat Market",

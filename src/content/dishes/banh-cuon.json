@@ -2,13 +2,13 @@
   "slug": "banh-cuon",
   "name": "Banh cuon",
   "nameVi": "Bánh cuốn",
-  "summary": "Banh cuon is a thin steamed rice roll filled with minced pork and mushrooms. In Hanoi it is a light breakfast. Huỳnh Thúc Kháng in Da Nang also serves bánh cuốn at breakfast.",
+  "summary": "Banh cuon is a thin steamed rice roll filled with minced pork and mushrooms, dipped in sweet-and-sour fish sauce. In Hanoi it is a light breakfast.",
   "origin": "Hanoi. The roll is eaten across the city in the morning.",
   "texture": [
     "The sheet is soft, thin, and translucent."
   ],
   "howToEat": [
-    "Fermented rice batter is steamed on a cloth over boiling water, filled with minced pork, mushrooms, and shallots, and rolled. Vietnam Tourism’s national dish list says wood-ear mushroom.",
+    "Fermented rice batter is steamed on a cloth over boiling water, filled with minced pork, mushrooms (often wood-ear), and shallots, and rolled.",
     "It comes with pork sausage and herbs. Dip it in a sweet-and-sour fish sauce.",
     "In Đồng Văn, bánh cuốn is a Tày breakfast of thin rolls with minced pork and wood ear, served in a bowl of hot bone broth rather than with a cold sweet-sour dip. On Phố Cổ some bowls add egg, chives, and chả."
   ],
@@ -16,11 +16,15 @@
     "Breakfast across Hanoi, including Bánh Cuốn Bà Xuân, Hòe Nhai, and Bánh Cuốn 101 Bà Triệu at 147 Triệu Việt Vương, Hai Bà Trưng.",
     "Phố Cổ, Đồng Văn, at breakfast.",
     "In Dong Hoi, bánh cuốn ruốc tôm is a rice sheet with no filling, eaten with shrimp ruốc, thin cucumber, herbs, and nước lèo. It is not the Hanoi roll.",
-    "In Da Nang, Huỳnh Thúc Kháng serves bánh cuốn at breakfast. The 2019 account prints 06:00–12:00 for the street."
+    "In Da Nang, Huỳnh Thúc Kháng serves bánh cuốn at breakfast, from about 06:00 to 12:00."
   ],
   "verified": "23 Oct 2026",
   "priceBand": "Check on arrival",
-  "placeSlugs": ["hanoi", "da-nang", "ha-giang"],
+  "placeSlugs": [
+    "hanoi",
+    "da-nang",
+    "ha-giang"
+  ],
   "seoTitle": "Banh cuon — Hanoi steamed rice rolls",
   "seoDescription": "What banh cuon is in Hanoi: a thin steamed rice roll with pork and mushrooms, eaten at breakfast, including Bánh Cuốn Bà Xuân."
 }

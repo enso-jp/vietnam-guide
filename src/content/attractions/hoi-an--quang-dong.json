@@ -4,22 +4,22 @@
   "name": "Cantonese Assembly Hall",
   "nameVi": "Hội quán Quảng Đông",
   "kicker": "Cantonese hall with a pottery dragon",
-  "summary": "The Cantonese assembly hall, built in 1885, with a pottery dragon in the court and a hall behind it. It began as a place for Thiên Hậu and Confucius, and after 1911 the worship turned to Quan Công and the earlier merchants. The monument page does not print the street number. Hours and the fee are check on arrival.",
+  "summary": "The Cantonese merchants’ hall, built in 1885, with a pottery dragon fountain in the front court and a hall of carved wood and stone behind it. It began as a place for Thiên Hậu and Confucius; after 1911 the worship turned to Quan Công. A short stop on the old-town loop.",
   "dots": 4,
   "district": "Old town",
-  "timeNeeded": "A walk through the court. Exact minutes are check on arrival.",
-  "fee": "Check on arrival",
-  "getThere": "Walk the old town. The street number is check on arrival.",
-  "verified": "21 Oct 2026",
+  "timeNeeded": "A walk through the court",
+  "fee": "20,000 VND from 10 Aug 2026, or a combination ticket",
+  "getThere": "Walk the old town; ask for Hội quán Quảng Đông",
+  "verified": "23 Oct 2026",
   "heroCaption": "The pottery dragon in the court, with the gate behind it",
   "notice": {
-    "title": "The street number is not on the monument page",
-    "body": "The centre dates the hall to 1885 and describes the court, and it does not print a door number. Ask locally which gate is open. Hours and the ancient-town fee are check on arrival."
+    "title": "Look for the pottery dragon",
+    "body": "No door number is published. Ask for Hội quán Quảng Đông, the Cantonese hall with the dragon in the court, once you are on Trần Phú."
   },
   "body": [
-    "The centre’s Vietnamese monument page says Cantonese merchants built the hall in 1885, first for Thiên Hậu and Confucius. After 1911 the worship turned to Quan Công and the earlier merchants, the Tiền Hiền. The English page on the same site describes a pottery dragon fountain in the court. That is the frame you recognise before you reach the hall.",
-    "Inside, the Vietnamese page lists what is still kept: four large horizontal boards, a bronze censer 1.6 metres high and 0.6 metres wide, and a pair of Chinese celadon pedestals. The wood and stone structure is the point of the visit. The hall marks Nguyên tiêu on the 15th of the first lunar month and Quan Công’s day on the 24th of the sixth lunar month. Those are lunar dates. The civil day moves.",
-    "The monument page does not print a street number, a door hour, or a separate price. Assembly halls are optional works on the combination tickets. If you only enter one hall, the long Fujian hall on Trần Phú is the other choice. This one is the dragon court."
+    "Cantonese merchants built the hall in 1885, first for Thiên Hậu and Confucius. After 1911 the worship turned to Quan Công and the founding merchants, the Tiền Hiền. A pottery dragon fountain fills the court. That is the frame you recognise before you reach the hall.",
+    "Inside are four large horizontal boards, a bronze censer 1.6 metres high and 0.6 metres wide, and a pair of Chinese celadon pedestals. The wood and stone structure is the point of the visit. The hall marks Nguyên tiêu on the 15th of the first lunar month and Quan Công’s day on the 24th of the sixth lunar month.",
+    "If you only enter one hall, the long Fujian hall on Trần Phú is the other choice. This one is the dragon court."
   ],
   "figures": [
     {
@@ -29,17 +29,17 @@
     }
   ],
   "gettingThere": [
-    "The hall is in the ancient town. The monument page does not print the street number, so the number is check on arrival. Walk from Trần Phú and ask for Hội quán Quảng Đông, the court with the pottery dragon."
+    "The hall is in the old town. Walk from Trần Phú and ask for Hội quán Quảng Đông, the court with the pottery dragon."
   ],
   "legs": [
     {
       "heading": "From the old town",
-      "body": "Walk. The centre does not print a door number or a minute count. Ask for the Cantonese hall once you are on Trần Phú."
+      "body": "Walk, and ask for the Cantonese hall once you are on Trần Phú."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly closing day is printed on the monument page.",
-  "admissionNote": "No separate price is printed for this building. From 10 August 2026, Da Nang Resolution 98/2026 sets 20,000 VND per person per building, the same for a Vietnamese and a foreign visitor. The heritage centre’s notices of 26 January 2026 and 16 March 2026 still describe an 80,000 VND ticket for the streetscape, Chùa Cầu or Miếu Quan Công, and two other works, and a 120,000 VND ticket when a museum and three other works are added. The March notice says one purchase can be used through the stay, up to three days. A May 2026 article says the town is an open neighbourhood and many people walk in without a ticket. Which desk is in force is check on arrival.",
+  "closed": "No weekly closing day published.",
+  "admissionNote": "No separate price for this building. From 10 Aug 2026: 20,000 VND per person per building, the same for every visitor (Da Nang Resolution 98/2026). Heritage centre notices of 26 Jan and 16 Mar 2026: 80,000 VND (streetscape, Chùa Cầu or Miếu Quan Công, and two other works) or 120,000 VND (adds a museum and three other works), usable through a stay of up to three days. A May 2026 article counts those as four and six works. Ask at the booth which ticket is on sale.",
   "links": [
     {
       "label": "Hội quán Quảng Đông",

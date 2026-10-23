@@ -4,22 +4,22 @@
   "name": "Tomb of Thieu Tri",
   "nameVi": "Lăng Thiệu Trị",
   "kicker": "The only tomb that faces northwest",
-  "summary": "Visit the only Nguyễn tomb that faces northwest, in Cư Chánh village, Thủy Bằng, about 8 km from the citadel. Rice fields stand in for an outer wall, and the Perfume River runs in front. An adult ticket is 50,000 VND. A child from 7 to 12 is free. It is not on the four-site ticket.",
+  "summary": "Xương Lăng, the only Nguyễn tomb that faces northwest, sits among rice fields and orchards about 8 km from the citadel, with the Perfume River in front and no outer wall. Walk the tomb and its temple, set side by side rather than on one axis, and the Đức Hinh pavilion on its low hill. Go for a royal tomb in open farmland.",
   "dots": 3,
   "district": "Royal tombs",
   "timeNeeded": "Check on arrival",
   "fee": "50,000 VND",
-  "getThere": "About 8 km from the citadel. Minutes are Check on arrival.",
+  "getThere": "About 8 km from the citadel to Cư Chánh, Thủy Bằng, by bicycle or taxi.",
   "verified": "21 Oct 2026",
   "heroCaption": "The gate framing the hall at Thieu Tri’s tomb",
   "notice": {
     "title": "Not on the four-site ticket",
-    "body": "Thieu Tri is a 50,000 VND adult ticket. The four-site ticket does not include it. A child from 7 to 12 is free."
+    "body": "Thieu Tri has its own adult ticket, 50,000 VND, and a child from 7 to 12 enters free. The four-site ticket does not include it."
   },
   "body": [
     "Xương Lăng is the only Nguyễn tomb turned northwest. The centre places it in làng Cư Chánh, xã Thủy Bằng, huyện Hương Thủy, about 8 km from the citadel. Chằm mountain is the screen about 8 km in front. The Perfume River is the open path in front of the tomb. There is no outer wall. The rice fields and orchards are the wall.",
     "Thiệu Trị did not build a tomb in his lifetime. After he died, the main works were finished in about three months, and Tự Đức came to check the site on 14 June 1848. The tomb and the temple sit side by side, not on one axis. Đức Hinh pavilion stands on a low hill, and the temple area is about 100 metres to its left.",
-    "An adult ticket is 50,000 VND. A child from 7 to 12 is free. Under 7 is free. Hue residents and the other groups named in Resolution 55 pay half. How long the two zones take, and the ride from the south bank, is Check on arrival."
+    "An adult ticket is 50,000 VND, and children under 13 enter free."
   ],
   "figures": [
     {
@@ -29,22 +29,22 @@
     }
   ],
   "gettingThere": [
-    "From the south bank, the tomb is about 8 km from the citadel, in Cư Chánh, Thủy Bằng, Hương Thủy. Go by bicycle or taxi. The minutes are Check on arrival."
+    "The tomb is about 8 km from the citadel, in Cư Chánh village, Thủy Bằng, Hương Thủy. Go by bicycle or taxi from the south bank."
   ],
   "legs": [
     {
       "heading": "From the south bank",
-      "body": "About 8 km toward Hương Thủy. No published minute count. Check on arrival."
+      "body": "About 8 km toward Hương Thủy, by bicycle or taxi."
     }
   ],
-  "hours": "16 Mar–15 Oct: 06:30–18:00, tickets until 17:30. 16 Oct–15 Mar: 07:00–17:30, tickets until 17:00. Confirm on arrival. The source is the centre’s 12 Mar 2024 notice, and a direct reload timed out on 21 Oct 2026.",
-  "closed": "No weekly closing day is on that notice. Confirm the board on arrival.",
+  "hours": "16 Mar–15 Oct: 06:30–18:00, tickets until 17:30. 16 Oct–15 Mar: 07:00–17:30, tickets until 17:00 (conservation centre notice, 12 Mar 2024). Confirm the board on arrival.",
+  "closed": "No weekly closing day on the centre’s notice.",
   "admissionNote": "Adult 50,000 VND. A child from 7 to 12 is free. Under 7 is free. Hue residents and the other groups named in Resolution 55 pay half. This tomb is not on the four-site ticket.",
   "links": [
     {
       "label": "Thieu Tri ticket page",
       "url": "https://eticket.hueworldheritage.org.vn/diem-den/lang-thieu-tri",
-      "note": "Hue Monuments Conservation Centre. The page text used here is the centre’s place record, read 21 Oct 2026."
+      "note": "Hue Monuments Conservation Centre."
     },
     {
       "label": "Resolution 55 fee table",
@@ -54,7 +54,7 @@
     {
       "label": "Visiting hours notice",
       "url": "https://hueworldheritage.org.vn/Thong-tin-tham-quan/Thoi-gian-tham-quan/pid/1775/cid/59?tid=Thoi-gian-dongmo-cua-tai-cac-diem-tham-quan.html",
-      "note": "12 Mar 2024. A direct reload timed out on 21 Oct 2026."
+      "note": "12 Mar 2024"
     }
   ],
   "lat": 16.4190635,

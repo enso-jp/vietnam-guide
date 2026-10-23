@@ -4,7 +4,7 @@
   "name": "Dragon Bridge",
   "nameVi": "Cầu Rồng",
   "kicker": "The dragon bridge over the Han",
-  "summary": "Walk the river path and look at the yellow dragon over the Han. The show is at 21:00 on Friday, Saturday, and Sunday, and it is free from the bank. One page says about two minutes of fire and three of water. Another says the program runs about 10 to 15 minutes. Do not wait on a weeknight.",
+  "summary": "A 666-meter yellow dragon arches over the Han, and at 21:00 on Friday, Saturday, and Sunday its head breathes fire, then water, for the crowd on the bank. Watching is free. Come at dusk along the Bach Dang promenade, and do not wait for it on a weeknight.",
   "dots": 3,
   "timeNeeded": "An evening look",
   "fee": "Free from the bank",
@@ -13,13 +13,13 @@
   "verified": "21 Oct 2026",
   "heroCaption": "The yellow dragon over the Han, in daylight",
   "notice": {
-    "title": "The show length is published twice",
-    "body": "The city tourism portal says about 2 minutes of fire and 3 minutes of water. Visit Da Nang says the program runs about 10 to 15 minutes. Both are official. Check that week."
+    "title": "No show on a weeknight",
+    "body": "The fire and water run at 21:00 on Friday, Saturday, Sunday, and major holidays only. During the fireworks festival the night can move."
   },
   "body": [
-    "Come at dusk and walk the promenade. The bridge is 666 meters and opened on 29 March 2013. On Friday, Saturday, Sunday, and major holidays the dragon breathes fire at 21:00, then water. Watching from the bank is not listed as a ticket.",
-    "Bach Dang is the walk that gets you there. On a show weekend the sidewalk fills. On a Monday, Tuesday, Wednesday, or Thursday there is no show, so do not plan the evening around one. During the fireworks festival the night can move.",
-    "The east bank is the other place to stand. Since 1 August 2025 the Son Tra night market has been reported on that bank, and the road in front is closed to vehicles after 17:30. The 2023 tourism page still pins the market at Mai Hac De. Confirm the gate that night. The market’s closing hour at the new site is check on arrival."
+    "Come at dusk and walk the promenade. The bridge is 666 meters and opened on 29 March 2013. On Friday, Saturday, Sunday, and major holidays the dragon breathes fire at 21:00, then water. The program lasts about 5 to 15 minutes, and watching from the bank is free.",
+    "Bach Dang is the walk that gets you there. On a show weekend the sidewalk fills, so arrive before 21:00. On a Monday, Tuesday, Wednesday, or Thursday there is no show, so do not plan the evening around one.",
+    "The east bank is the other place to stand. Since 1 August 2025 the Son Tra night market, once on Mai Hac De, has run on that bank, and the road in front closes to vehicles after 17:30. Eat there after the show."
   ],
   "figures": [
     {
@@ -29,7 +29,7 @@
     }
   ],
   "gettingThere": [
-    "The bridge crosses the Han between the center and the beach side. From a river hotel, walk Bach Dang. From My Khe the bridge is the crossing you already use. No official page in this guide prints those minutes."
+    "The bridge crosses the Han between the center and the beach side. From a river hotel, walk Bach Dang. From My Khe the bridge is the crossing you already use."
   ],
   "legs": [
     {
@@ -38,12 +38,12 @@
     },
     {
       "heading": "From My Khe",
-      "body": "The bridge is the road back toward the center. The minutes are check on arrival."
+      "body": "The bridge is the road back toward the center, by car or Grab."
     }
   ],
-  "hours": "The show is at 21:00 on Friday, Saturday, Sunday, and major holidays. The bridge itself is a road.",
-  "closed": "No show on an ordinary weeknight. During the fireworks festival the night can move. Check that week.",
-  "admissionNote": "Watching from the bank is not listed as a ticket. No grandstand price for the weekend show was copied.",
+  "hours": "Show at 21:00 on Friday, Saturday, Sunday, and major holidays. Length: about 2 minutes of fire and 3 of water (city tourism portal); about 10–15 minutes for the program (Visit Da Nang). The bridge itself is a road.",
+  "closed": "No show on an ordinary weeknight. During the fireworks festival the night can move. Son Tra night market closing hour at the east-bank site: check on arrival.",
+  "admissionNote": "Free from the bank. Grandstand seating, if offered: check on arrival.",
   "links": [
     {
       "label": "The dragon show",

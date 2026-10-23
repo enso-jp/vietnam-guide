@@ -4,7 +4,7 @@
   "name": "National Museum of History",
   "nameVi": "Bảo tàng Lịch sử Quốc gia",
   "kicker": "Two buildings on one ticket",
-  "summary": "One ticket covers 1 Trang Tien and 216 Tran Quang Khai. An adult pays 40,000 VND. The hours are 8:00 to 12:00 and 13:30 to 17:00. The closed day is the conflict: the first Monday of the month on one museum page, and every Monday on two others. Read both before you go.",
+  "summary": "One ticket covers two buildings. Start at the long yellow facade at 1 Trang Tien, south of Hoan Kiem, for Vietnam from prehistory to 1945, then cross to 216 Tran Quang Khai for the mid-19th century to the present. The museum shuts for a long lunch, so go early in the morning or after 13:30.",
   "dots": 3,
   "timeNeeded": "Check on arrival",
   "fee": "40,000 VND",
@@ -13,12 +13,12 @@
   "verified": "22 Oct 2026",
   "heroCaption": "The National Museum of History at Trang Tien",
   "notice": {
-    "title": "The closed day is not one figure",
-    "body": "baotanglichsuquocgia.vn says the museum closes on the first Monday of the month. vnmh.com.vn and baotanglichsu.vn say it closes every Monday. Both stay."
+    "title": "Avoid Mondays",
+    "body": "The museum may be closed on any Monday. Pick another day if you can."
   },
   "body": [
-    "The ticket covers two addresses. 1 Trang Tien holds the displays from prehistory to 1945. 216 Tran Quang Khai holds the displays from the mid-19th century to the present. The building at Trang Tien is the yellow facade south of Hoan Kiem.",
-    "An adult pays 40,000 VND, a college student 20,000 VND, a school pupil 10,000 VND, and a child under 6 is free. A camera is 30,000 VND and a video camera is 400,000 VND. Hours are 8:00 to 12:00 and 13:30 to 17:00. Tet hours are a separate announcement. The closed day depends on which museum page you read, and both versions are printed here."
+    "The ticket covers two addresses. 1 Trang Tien holds the displays from prehistory to 1945. 216 Tran Quang Khai holds the displays from the mid-19th century to the present. The building at Trang Tien is the yellow facade south of Hoan Kiem, near the Opera House.",
+    "The doors close from 12:00 to 13:30, so split the two buildings across the morning and the afternoon, or do one well. A camera and a video camera are extra tickets. Tet has its own opening hours."
   ],
   "figures": [
     {
@@ -28,16 +28,16 @@
     }
   ],
   "gettingThere": [
-    "1 Trang Tien is south of Hoan Kiem, near the Opera House. 216 Tran Quang Khai is the second building on the same ticket. The walk from the lake is check on arrival for the minutes."
+    "1 Trang Tien is south of Hoan Kiem, near the Opera House. 216 Tran Quang Khai is the second building on the same ticket. Walk from the lake."
   ],
   "legs": [
     {
       "heading": "From Hoan Kiem",
-      "body": "Walk south to 1 Trang Tien. The minutes are check on arrival."
+      "body": "Walk south to 1 Trang Tien."
     }
   ],
   "hours": "8:00–12:00 and 13:30–17:00.",
-  "closed": "First Monday of the month, on baotanglichsuquocgia.vn. Every Monday, on vnmh.com.vn and baotanglichsu.vn. Both stay. Tet hours are a separate announcement.",
+  "closed": "Every Monday (vnmh.com.vn, baotanglichsu.vn); first Monday of the month only (baotanglichsuquocgia.vn). Tet hours announced separately.",
   "admissionNote": "Adult 40,000 VND. College student 20,000 VND. School pupil 10,000 VND. Under 6 free. The ticket covers 1 Trang Tien and 216 Tran Quang Khai. Camera 30,000 VND. Video 400,000 VND.",
   "links": [
     {

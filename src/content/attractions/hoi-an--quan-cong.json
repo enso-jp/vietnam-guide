@@ -4,22 +4,22 @@
   "name": "Quan Cong Temple",
   "nameVi": "Chùa Ông",
   "kicker": "Temple to Quan Cong on Trần Phú",
-  "summary": "The hall at 24 Trần Phú, built for Quan Công by Minh Hương and Vietnamese residents in the mid-17th century. The main hall holds the statue, two attendants, and two life-size horses. It is a short stop on the Trần Phú walk, and the heavy day is the 16th of the first lunar month. Door hours and the fee are check on arrival.",
+  "summary": "The temple at 24 Trần Phú built for Quan Công in the mid-17th century. In the main hall he sits in a dragon robe beside two attendants and two life-size horses, one white and one red. A short stop on the Trần Phú walk; on the 16th of the first lunar month it fills with worshippers.",
   "dots": 4,
   "district": "Old town",
-  "timeNeeded": "A short hall. Exact minutes are check on arrival.",
-  "fee": "Check on arrival",
+  "timeNeeded": "A short hall",
+  "fee": "20,000 VND from 10 Aug 2026, or a combination ticket",
   "getThere": "Walk to 24 Trần Phú",
-  "verified": "21 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "The temple front on Trần Phú, roof and doors in one frame",
   "notice": {
     "title": "It is a temple to Quan Cong, not a Buddhist pagoda",
-    "body": "The name says chùa. The city page describes a hall for Quan Công, built about 1653. Door hours are not printed. The fee is the ancient-town ticket, and which ticket is on sale is check on arrival."
+    "body": "The name says chùa, but this is a hall for Quan Công, built about 1653. Dress for a working temple."
   },
   "body": [
-    "Walk in from 24 Trần Phú. The monument page describes four buildings in a chữ khẩu plan: a front court, two side houses, and a main hall, with a tube-tile roof carved with dragons. The main hall holds Quan Vân Trường in a dragon robe, the attendant Châu Thương, the adopted son Quan Bình, and two horses the size of real horses, a white one and a red hare. The hall also keeps poems written in 1775 by Xuân Quận Công Nguyễn Nghiễm, the father of Nguyễn Du, and the replies by Uông Sĩ Cư and Nguyễn Lệnh Tân.",
-    "The city page dates the hall to the mid-17th century, about 1653, built by Hoa merchants who had settled in the port. The monument page says Minh Hương residents and Vietnamese neighbours built it. It was listed as a national historic relic on 29 November 1991. On the 2026 combination tickets it is the other landmark choice beside the Japanese bridge. During the 2026 Nguyên tiêu plan the centre said it would not sell a sightseeing ticket for this hall on those festival days. That waiver was the 2026 plan, not the ordinary week.",
-    "Come in the morning, unless your date is the 16th of the first lunar month, when the city page says the crowd comes. No ordinary door hours are printed. In a flood week the Trần Phú street can be under water. The temple page itself does not give a flood line."
+    "Walk in from 24 Trần Phú. Four buildings stand in a chữ khẩu plan: a front court, two side houses, and a main hall, under a tube-tile roof carved with dragons. The main hall holds Quan Vân Trường in a dragon robe, the attendant Châu Thương, the adopted son Quan Bình, and two horses the size of real horses, a white one and a red hare. The hall also keeps poems written in 1775 by Xuân Quận Công Nguyễn Nghiễm, the father of Nguyễn Du, with replies by Uông Sĩ Cư and Nguyễn Lệnh Tân.",
+    "The hall dates to about 1653, built by Hoa merchants settled in the port together with Minh Hương and Vietnamese neighbours. It became a national historic relic on 29 November 1991. On the combination ticket it is the other landmark choice beside the Japanese bridge.",
+    "Come in the morning, unless your date is the 16th of the first lunar month, when the crowd comes for Nguyên tiêu. In a flood week Trần Phú can be under water."
   ],
   "figures": [
     {
@@ -29,17 +29,17 @@
     }
   ],
   "gettingThere": [
-    "The hall is at 24 Trần Phú, in the ancient town. Walk if you slept in the lanes just off that core. The monument page does not print a minute count. Those minutes are check on arrival."
+    "The hall is at 24 Trần Phú, in the old town. Walk from the lanes off the core."
   ],
   "legs": [
     {
       "heading": "From the old town",
-      "body": "Walk along Trần Phú to number 24. The minutes depend on your lane."
+      "body": "Walk along Trần Phú to number 24."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly closing day is printed on the city page or the monument page.",
-  "admissionNote": "No separate price is printed for this building. From 10 August 2026, Da Nang Resolution 98/2026 sets 20,000 VND per person per building, the same for a Vietnamese and a foreign visitor. The heritage centre’s notices of 26 January 2026 and 16 March 2026 still describe an 80,000 VND ticket for the streetscape, Chùa Cầu or Miếu Quan Công, and two other works, and a 120,000 VND ticket when a museum and three other works are added. The March notice says one purchase can be used through the stay, up to three days. A May 2026 article says the town is an open neighbourhood and many people walk in without a ticket. Which desk is in force is check on arrival.",
+  "closed": "No weekly closing day published.",
+  "admissionNote": "No separate price for this building. From 10 Aug 2026: 20,000 VND per person per building, the same for every visitor (Da Nang Resolution 98/2026). Heritage centre notices of 26 Jan and 16 Mar 2026: 80,000 VND (streetscape, Chùa Cầu or Miếu Quan Công, and two other works) or 120,000 VND (adds a museum and three other works), usable through a stay of up to three days. A May 2026 article counts those as four and six works. Ask at the booth which ticket is on sale. During the 2026 Nguyên tiêu festival the centre did not sell a ticket for this hall.",
   "links": [
     {
       "label": "Chùa Ông monument page",

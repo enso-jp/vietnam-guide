@@ -4,22 +4,21 @@
   "name": "Thanh Toan Bridge",
   "nameVi": "Cầu ngói Thanh Toàn",
   "kicker": "Tiled bridge in the vegetable plots",
-  "summary": "Cycle out to the tiled bridge in Thủy Thanh, about 8 km southeast of the centre. The national tourism page describes a roof about 17 metres long and about 4 metres wide, in seven compartments, with a shrine to Trần Thị Đào. The fee, the hours, and the ride in minutes are Check on arrival.",
+  "summary": "An 18th-century tiled-roof bridge in the vegetable plots of Thủy Thanh, about 8 km southeast of Hue, with a shrine to its patron, Trần Thị Đào, in the middle bay. Cycle out past the plots and the small footbridges, then walk under the roof. Go for the village countryside on a bicycle morning.",
   "dots": 3,
   "district": "Countryside",
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
-  "getThere": "About 8 km southeast, through the plots. Minutes are Check on arrival.",
+  "getThere": "About 8 km southeast to Thủy Thanh, by bicycle.",
   "verified": "21 Oct 2026",
   "heroCaption": "The tiled roof of Thanh Toan Bridge over the lilies",
   "notice": {
-    "title": "No published fee, and no published hour",
-    "body": "Vietnam Tourism describes the bridge and the cycle. It does not print a ticket or a closing time. A missing line is not free entry. Confirm the gate when you arrive."
+    "title": "No published fee or hours",
+    "body": "No ticket price or closing time is published for the bridge. Ask in the village."
   },
   "body": [
-    "The national tourism page places Thanh Toan about 8 kilometres southeast of the centre, in Thủy Thanh commune, Hương Thủy. Vietnam Tourism’s Hue page sends a bicycle past vegetable plots and small footbridges. The kilometres are not a minute count.",
-    "The same national page describes a bridge about 17 metres long and about 4 metres wide, divided into seven compartments. The middle compartment is a shrine to Trần Thị Đào, who funded the bridge in the 18th century so the village could cross. A later national article gives a slightly different length. The visit is the roof and the shrine, not a rebuilt measurement.",
-    "No fee and no hour are on those pages. Check on arrival. How long the cycle from the south bank takes is Check on arrival too."
+    "Thanh Toan is about 8 kilometres southeast of the centre, in Thủy Thanh commune, Hương Thủy. Vietnam Tourism sends you there by bicycle, past vegetable plots and small footbridges.",
+    "The bridge is about 17 metres long and about 4 metres wide, divided into seven bays under the tiled roof (a later national article gives a slightly different length). The middle bay is a shrine to Trần Thị Đào, who paid for the bridge in the 18th century so the village could cross."
   ],
   "figures": [
     {
@@ -29,17 +28,17 @@
     }
   ],
   "gettingThere": [
-    "From the south bank, cycle southeast about 8 km to Thủy Thanh, Hương Thủy. Vietnam Tourism describes the way as vegetable plots and footbridges. The minutes are Check on arrival."
+    "From the south bank, cycle southeast about 8 km to Thủy Thanh, Hương Thủy, through the vegetable plots."
   ],
   "legs": [
     {
       "heading": "From the south bank",
-      "body": "Bicycle, about 8 km southeast. No published minute count. Check on arrival."
+      "body": "Bicycle, about 8 km southeast."
     }
   ],
   "hours": "Check on arrival.",
-  "closed": "No closing day is published. Confirm on arrival.",
-  "admissionNote": "Check on arrival. No fee is printed on the national tourism page.",
+  "closed": "Check on arrival.",
+  "admissionNote": "Check on arrival. The national tourism page prints no fee.",
   "links": [
     {
       "label": "Thanh Toan on the national tourism page",

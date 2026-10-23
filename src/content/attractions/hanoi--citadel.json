@@ -4,7 +4,7 @@
   "name": "Imperial Citadel of Thang Long",
   "nameVi": "Hoàng thành Thăng Long",
   "kicker": "The UNESCO citadel in Ba Dinh",
-  "summary": "Give the citadel a morning of its own. UNESCO lists an 11th-century Ly citadel on a 7th-century fortress, inscribed in 2010. An adult ticket is 100,000 VND from 1 January 2025, and the gate is 8:00 to 17:00 every day. This ticket is not the mausoleum ticket.",
+  "summary": "Give the citadel a morning of its own. Walk through Doan Mon Gate into the UNESCO-listed central sector, where an 11th-century Ly dynasty citadel was raised on a 7th-century fortress, and look up at the flag tower. It is a separate ticket from the mausoleum next door, so plan the two as different stops.",
   "dots": 4,
   "timeNeeded": "Check on arrival",
   "fee": "100,000 VND",
@@ -14,30 +14,30 @@
   "heroCaption": "Doan Mon Gate at the Imperial Citadel",
   "notice": {
     "title": "A different gate from the mausoleum",
-    "body": "The citadel ticket does not include the Ho Chi Minh Mausoleum. The mausoleum has its own hours, and its fee is disputed between a free official FAQ and a 40,000 VND tourism figure."
+    "body": "The citadel ticket does not cover the Ho Chi Minh Mausoleum, which has its own morning hours and its own assembly point at 17 Ngoc Ha."
   },
   "body": [
-    "Walk Doan Mon Gate and the flag tower inside the UNESCO sector. The World Heritage listing, from 2010, describes an 11th-century Ly citadel built on a 7th-century fortress. The visit length was not published. Check on arrival.",
-    "The operator’s ticket page, from 1 January 2025, charges an adult 100,000 VND. Vietnamese students aged 16 and over, and Vietnamese visitors aged 60 and over, pay 50,000 VND with identification. Under 16 is free. The gate is 8:00 to 17:00 every day. The address is 19c Hoang Dieu, Ba Dinh. A ride from Hoan Kiem has no published minute count."
+    "Walk Doan Mon Gate and the flag tower inside the UNESCO sector. The World Heritage listing, from 2010, describes an 11th-century Ly citadel built on a 7th-century fortress.",
+    "The gate is open 8:00 to 17:00 every day at 19c Hoang Dieu, Ba Dinh. Under 16 is free, and Vietnamese students and seniors pay half with identification. The mausoleum and One Pillar Pagoda are in the same district, so the rest of the morning is close by."
   ],
   "figures": [
     {
       "id": "hanoi-citadel-2",
-      "caption": "The flag tower, with the flag kept in the frame",
+      "caption": "The flag tower, with the national flag flying",
       "alt": "The flag tower of Hanoi with the national flag flying"
     }
   ],
   "gettingThere": [
-    "The operator address is 19c Hoang Dieu, Ba Dinh. UNESCO publishes the coordinates N21 2 15.072, E105 50 19.043. No drive time from Hoan Kiem was on those pages. Check on arrival."
+    "The entrance is at 19c Hoang Dieu, Ba Dinh, west of the lake. Take a car or motorbike from Hoan Kiem. The mausoleum and One Pillar Pagoda are in the same district."
   ],
   "legs": [
     {
       "heading": "From Hoan Kiem",
-      "body": "By car or motorbike to 19c Hoang Dieu. The minutes are check on arrival."
+      "body": "By car or motorbike to 19c Hoang Dieu."
     }
   ],
   "hours": "8:00–17:00 every day",
-  "closed": "No weekly closing day is printed on the operator ticket page.",
+  "closed": "No weekly closing day on the operator ticket page.",
   "admissionNote": "From 1 January 2025: adult 100,000 VND. Vietnamese students 16 and over, and Vietnamese people 60 and over, 50,000 VND with identification. Under 16 free.",
   "lat": 21.03752,
   "lng": 105.838623,
@@ -50,7 +50,7 @@
     {
       "label": "Citadel ticket page",
       "url": "https://hoangthanhthanglong.com/2018/11/21/gia-ve-va-thoi-gian-tham-quan/?lang=en",
-      "note": "100,000 VND adult fee from 1 January 2025, and the hours."
+      "note": "Adult fee from 1 January 2025, and the hours."
     }
   ],
   "interests": [

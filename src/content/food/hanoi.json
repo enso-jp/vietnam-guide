@@ -63,7 +63,7 @@
         {
           "name": "Nom bo kho",
           "nameVi": "Nộm bò khô",
-          "note": "A sweet and sour plate of green papaya, carrot, and beef jerky. One version adds crunchy peanuts; another adds lemon balm and fish sauce.",
+          "note": "A sweet and sour plate of green papaya, carrot, and beef jerky, finished with crunchy peanuts, or with lemon balm and fish sauce.",
           "dishSlug": "nom-bo-kho",
           "address": "23 Hoàn Kiếm"
         },
@@ -98,7 +98,8 @@
           "nameVi": "Bia hơi",
           "note": "Fresh draft beer, unpasteurized and drunk soon after it is made, as light as water.",
           "dishSlug": "bia-hoi",
-          "address": "Tạ Hiện and Lương Ngọc Quyến"
+          "address": "Tạ Hiện and Lương Ngọc Quyến",
+          "photo": "bia-hoi"
         },
         {
           "name": "Pho cuon",
@@ -133,7 +134,8 @@
           "nameVi": "Kem",
           "note": "An ice-cream cone for the evening walk around Hoàn Kiếm.",
           "dishSlug": "kem",
-          "address": "Tràng Tiền"
+          "address": "Tràng Tiền",
+          "photo": "kem"
         }
       ]
     },
@@ -154,7 +156,7 @@
         {
           "name": "Kappou Ishia",
           "nameVi": "Kappou Ishia",
-          "note": "A Japanese omakase of 10 courses: appetizers, sashimi, a main, rice, and a dessert, chosen by the chef. One credit spells the room Kappou Ishida.",
+          "note": "A Japanese omakase of 10 courses: appetizers, sashimi, a main, rice, and a dessert, chosen by the chef. Also spelled Kappou Ishida.",
           "group": "international"
         },
         {
@@ -182,7 +184,8 @@
           "address": "Hàng Vải, Hoàn Kiếm",
           "note": "The morning pho street, with the lanes around Hoàn Kiếm.",
           "dishSlug": "pho",
-          "group": "lifestyle"
+          "group": "lifestyle",
+          "photo": "hanoi-hang-vai"
         },
         {
           "name": "Cua Dong",
@@ -198,7 +201,8 @@
           "address": "Mã Mây",
           "note": "The bun dau lane in the Old Quarter.",
           "dishSlug": "bun-dau",
-          "group": "lifestyle"
+          "group": "lifestyle",
+          "photo": "old-quarter-ma-may"
         },
         {
           "name": "Duong Thanh",
@@ -214,14 +218,16 @@
           "address": "Alley 39, Nguyễn Hữu Huân",
           "note": "The afternoon alley for egg coffee. Café Giảng is the door.",
           "dishSlug": "ca-phe",
-          "group": "lifestyle"
+          "group": "lifestyle",
+          "photo": "hanoi-cafe-giang"
         },
         {
           "name": "Ta Hien corner",
           "nameVi": "Tạ Hiện",
           "address": "Tạ Hiện and Lương Ngọc Quyến",
           "note": "The bia hơi corner north of the lake. Stools, draft beer, and the street.",
-          "group": "lifestyle"
+          "group": "lifestyle",
+          "photo": "old-quarter-ta-hien"
         },
         {
           "name": "Dinh Cafe",
@@ -233,7 +239,7 @@
           "name": "Pho Co Cafe",
           "nameVi": "Phố Cổ Café",
           "address": "11 Hàng Gai",
-          "note": "A cafe at 11 Hàng Gai.",
+          "note": "A cafe at 11 Hàng Gai, on the silk street.",
           "group": "lifestyle"
         },
         {
@@ -259,13 +265,15 @@
           "nameVi": "Hàng Đào",
           "address": "Hàng Đào",
           "note": "On weekend nights Hàng Đào becomes a market for snail meatballs, grilled quail, and cured pork sausage.",
-          "group": "lifestyle"
+          "group": "lifestyle",
+          "photo": "hanoi-hang-dao-night-market"
         },
         {
           "name": "Dong Xuan",
           "nameVi": "Chợ Đồng Xuân",
-          "note": "The covered market in the lanes. Entry is free.",
-          "group": "lifestyle"
+          "note": "The covered market at the north end of the lanes, three floors of clothes, accessories, and dry goods. Entry is free.",
+          "group": "lifestyle",
+          "photo": "hanoi-dong-xuan"
         },
         {
           "name": "Pho Bo Lam",
@@ -285,9 +293,10 @@
         {
           "name": "Bun Cha Huong Lien",
           "nameVi": "Bún chả Hương Liên",
-          "note": "In 2015 Barack Obama and Anthony Bourdain ate here. The table may have been put behind glass. On the 2025 MICHELIN Selected list.",
+          "note": "Barack Obama and Anthony Bourdain ate bun cha here in 2016. On the 2025 MICHELIN Selected list.",
           "dishSlug": "bun-cha",
-          "group": "local"
+          "group": "local",
+          "photo": "hanoi-bun-cha-huong-lien"
         },
         {
           "name": "Tuyet Bun Cha 34",

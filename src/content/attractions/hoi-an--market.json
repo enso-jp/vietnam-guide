@@ -4,22 +4,21 @@
   "name": "Hoi An Market",
   "nameVi": "Chợ Hội An",
   "kicker": "The market hall in the old town",
-  "summary": "The market inside the ancient town, with a food hall the heritage note names for cao lầu and produce stalls along the front. UNESCO’s list text includes an open market in the property and does not name the street. The street number, the hours, and any entrance fee are check on arrival.",
+  "summary": "The yellow market hall inside the old town, with herb and vegetable sellers along the front and a food hall for cao lầu inside. Come in the daytime to eat a bowl under the roof, buy mắm cá cơm and gift cakes, and walk the baskets of greens. The night market is a separate street after dark.",
   "dots": 4,
   "district": "Old town",
-  "timeNeeded": "A meal or a walk through the stalls. Exact minutes are check on arrival.",
+  "timeNeeded": "A meal or a walk through the stalls",
   "fee": "Check on arrival",
-  "getThere": "Walk the old town. The street number is check on arrival.",
-  "verified": "21 Oct 2026",
+  "getThere": "Walk the old town to Chợ Hội An",
+  "verified": "23 Oct 2026",
   "heroCaption": "The yellow market hall, Chợ Hội An, with stalls along the front",
   "notice": {
-    "title": "Hours and the street number are check on arrival",
-    "body": "The 2023 heritage note names the food hall and does not print a street number or a clock. Do not assume the hall is open at lantern hour."
+    "title": "A daytime market, not the night market",
+    "body": "The hall is a daytime stop. After dark, the night market runs along Nguyễn Hoàng, Công nữ Ngọc Hoa, Trần Quý Cáp, and Bạch Đằng."
   },
   "body": [
-    "The yellow hall is Chợ Hội An. A heritage note of 7 June 2023 names the food hall inside it for cao lầu, and it does not give a street number. UNESCO’s list text includes an open market inside the inscribed property and does not name the street either. The produce stalls along the front are the other half of the visit: herbs, fruit, and the baskets you walk through before you sit down.",
-    "Eat here when you want the bowl in a hall rather than on a night-market street. The night market, on the same 2023 note, is a different place, on Nguyễn Hoàng, Công nữ Ngọc Hoa, Trần Quý Cáp, and Bạch Đằng. Shop names and the reference prices on that note are not a list to follow.",
-    "No opening hour and no entrance price are printed. Both are check on arrival. Come in the daytime. The hall is not the lantern night."
+    "The yellow hall is Chợ Hội An, the open market inside the old town’s heritage area. The food hall inside is a place for cao lầu, and the produce stalls along the front are the other half of the visit: herbs, fruit, and the baskets you walk through before you sit down. Counters sell mắm cá cơm, the local anchovy sauce, and gift cakes such as bánh ú tro and bánh ít.",
+    "Eat here when you want the bowl in a hall rather than on a night-market street. The night market is a different place, on Nguyễn Hoàng, Công nữ Ngọc Hoa, Trần Quý Cáp, and Bạch Đằng. Come to the hall in the daytime."
   ],
   "figures": [
     {
@@ -29,17 +28,17 @@
     }
   ],
   "gettingThere": [
-    "Walk the ancient town to the yellow hall marked Chợ Hội An. The street number is not on the heritage note. The minutes depend on your lane."
+    "Walk the old town to the yellow hall marked Chợ Hội An. Ask for it once you are on the river streets."
   ],
   "legs": [
     {
       "heading": "From the old town",
-      "body": "Walk to the market hall. The 2023 note does not print a street number. Ask for Chợ Hội An once you are on the river streets."
+      "body": "Walk to the market hall. Ask for Chợ Hội An once you are on the river streets."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly closing day is printed on the heritage note.",
-  "admissionNote": "No entrance price is printed on the heritage note. A bowl is a separate cost, and stall prices are not listed here. Check on arrival.",
+  "closed": "No weekly closing day published.",
+  "admissionNote": "No entrance price published (heritage note, 7 Jun 2023). Food is paid at the stall. Check on arrival.",
   "links": [
     {
       "label": "Where the note says to eat cao lầu",

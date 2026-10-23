@@ -4,22 +4,22 @@
   "name": "Tomb of Dong Khanh",
   "nameVi": "Lăng Đồng Khánh",
   "kicker": "A short stop beside Tu Duc’s tomb",
-  "summary": "Stop at Ngưng Hy hall beside Tu Duc’s tomb, in Thượng Hai, Thủy Xuân. Đồng Khánh died at 25, and the hall began as his father’s temple. An adult ticket is 100,000 VND. A child from 7 to 12 is free. A paired price with Tu Duc is a different line, not this ticket.",
+  "summary": "A small tomb beside Tu Duc’s, built around Ngưng Hy hall, the temple Đồng Khánh began for his father before he died at 25. Cross the court to the hall and the stair pavilions, then climb to the burial on Hộ Thuận Sơn just west of it. Add it when you are already at Tu Duc.",
   "dots": 2,
   "district": "Royal tombs",
   "timeNeeded": "Check on arrival",
   "fee": "100,000 VND",
-  "getThere": "Beside Tu Duc’s tomb in Thủy Xuân. Minutes are Check on arrival.",
+  "getThere": "Beside Tu Duc’s tomb: thôn Thượng Hai, Thủy Xuân (also listed as Đoàn Nhữ Hải).",
   "verified": "21 Oct 2026",
   "heroCaption": "Ngưng Hy hall across the court at Dong Khanh’s tomb",
   "notice": {
-    "title": "The pair price is not this ticket",
-    "body": "The single adult ticket is 100,000 VND. A ticket that pairs this tomb with Tu Duc is 200,000 VND for an adult. Do not treat the pair as the price of Ngưng Hy alone. Neither line is the four-site ticket."
+    "title": "Single or paired with Tu Duc",
+    "body": "The single adult ticket is 100,000 VND. A ticket that pairs this tomb with Tu Duc is 200,000 VND for an adult. Neither is part of the four-site ticket."
   },
   "body": [
-    "The tomb sits beside Tu Duc, his uncle and adoptive father. The address field says Đoàn Nhữ Hải, Thủy Xuân. The description says thôn Thượng Hai, phường Thủy Xuân. The article on the same record says thôn Thượng Hai, xã Thủy Xuân. All three stay.",
+    "The tomb sits beside Tu Duc’s, in Thượng Hai, Thủy Xuân. Tự Đức was Đồng Khánh’s uncle and adoptive father.",
     "Đồng Khánh died at 25. The hall began as Truy Tư, the temple he started for his father in the second month of 1888, and it was renamed Ngưng Hy after he died. The burial is on Hộ Thuận Sơn, 30 metres west of the hall. Khải Định rebuilt the tomb buildings from August 1916, and the hall with its side houses continued to 1923.",
-    "An adult ticket is 100,000 VND. A child from 7 to 12 is free. Under 7 is free. Hue residents and the other groups named in Resolution 55 pay half. It is a short stop if you are already at Tu Duc. How many minutes it adds is Check on arrival."
+    "An adult ticket is 100,000 VND, and children under 13 enter free. It is a short stop if you are already at Tu Duc."
   ],
   "figures": [
     {
@@ -29,22 +29,22 @@
     }
   ],
   "gettingThere": [
-    "From the south bank, go upstream to Thủy Xuân, the same side of the river as Tu Duc’s tomb. The centre prints Đoàn Nhữ Hải and also thôn Thượng Hai. The minutes are Check on arrival."
+    "Go upstream to Thủy Xuân by bicycle or taxi, the same trip as Tu Duc’s tomb. The two tombs are next to each other."
   ],
   "legs": [
     {
       "heading": "From the south bank",
-      "body": "Upstream to Thủy Xuân, beside Tu Duc. No published minute count. Check on arrival."
+      "body": "Upstream to Thủy Xuân, beside Tu Duc."
     }
   ],
-  "hours": "16 Mar–15 Oct: 06:30–18:00, tickets until 17:30. 16 Oct–15 Mar: 07:00–17:30, tickets until 17:00. Confirm on arrival. The source is the centre’s 12 Mar 2024 notice, and a direct reload timed out on 21 Oct 2026.",
-  "closed": "No weekly closing day is on that notice. Confirm the board on arrival.",
+  "hours": "16 Mar–15 Oct: 06:30–18:00, tickets until 17:30. 16 Oct–15 Mar: 07:00–17:30, tickets until 17:00 (conservation centre notice, 12 Mar 2024). Confirm the board on arrival.",
+  "closed": "No weekly closing day on the centre’s notice.",
   "admissionNote": "Adult 100,000 VND. A child from 7 to 12 is free. Under 7 is free. Hue residents and the other groups named in Resolution 55 pay half. A pair with Tu Duc is 200,000 VND for an adult and 30,000 VND for a child from 7 to 12. That pair is not the single-tomb price, and it is not the four-site ticket.",
   "links": [
     {
       "label": "Dong Khanh ticket page",
       "url": "https://eticket.hueworldheritage.org.vn/diem-den/lang-dong-khanh",
-      "note": "Hue Monuments Conservation Centre. The page text used here is the centre’s place record, read 21 Oct 2026."
+      "note": "Hue Monuments Conservation Centre."
     },
     {
       "label": "Resolution 55 fee table",
@@ -54,7 +54,7 @@
     {
       "label": "Visiting hours notice",
       "url": "https://hueworldheritage.org.vn/Thong-tin-tham-quan/Thoi-gian-tham-quan/pid/1775/cid/59?tid=Thoi-gian-dongmo-cua-tai-cac-diem-tham-quan.html",
-      "note": "12 Mar 2024. A direct reload timed out on 21 Oct 2026."
+      "note": "12 Mar 2024"
     }
   ],
   "lat": 16.4299368,

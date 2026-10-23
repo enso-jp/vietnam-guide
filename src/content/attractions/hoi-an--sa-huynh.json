@@ -4,22 +4,22 @@
   "name": "Sa Huynh Culture Museum",
   "nameVi": "Bảo tàng Văn hóa Sa Huỳnh",
   "kicker": "Sa Huynh jars at 149 Trần Phú",
-  "summary": "The museum at 149 Trần Phú for the Sa Huỳnh culture, set up in 1994, with more than a thousand objects from about two thousand years ago and a few from Bãi Ông on Cù Lao Chàm that the overview dates to about three thousand years. It closes on the 10th of each month. The clock and the fee are check on arrival.",
+  "summary": "A small museum at 149 Trần Phú with more than a thousand objects from the Sa Huỳnh culture, the early residents of this port about two thousand years ago, each tied to the spot where it was dug up. A few pieces from Bãi Ông on Cù Lao Chàm are older still. Give it a museum hour.",
   "dots": 3,
   "district": "Old town",
-  "timeNeeded": "A museum hour. Exact minutes are check on arrival.",
-  "fee": "Check on arrival",
+  "timeNeeded": "A museum hour",
+  "fee": "20,000 VND from 10 Aug 2026, or a combination ticket",
   "getThere": "Walk to 149 Trần Phú",
-  "verified": "21 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "The yellow entrance of the Sa Huynh museum",
   "notice": {
     "title": "Closed on the 10th of each month",
-    "body": "The overview says the museum is open every day except the 10th. It does not print a clock. The fee is check on arrival."
+    "body": "The museum opens every day except the 10th of the month. Plan around that date."
   },
   "body": [
-    "The museum is at 149 Trần Phú. The heritage overview says it was set up by Decision 36/QĐ of 8 June 1994. The collection is more than a thousand objects from the Sa Huỳnh culture, which the page dates to about two thousand years ago, the people it calls the early residents of this port. The same page says the objects have archaeological addresses: each one is tied to where it was found.",
-    "A smaller group comes from Bãi Ông on Cù Lao Chàm. The overview dates those to the pre-Sa Huỳnh period, about three thousand years ago. The cases also cover burial customs and what the page calls the community’s sense of the beautiful. This is the prehistoric hour. It is not a substitute for the ruined towers at My Son.",
-    "The overview says the doors are open every day except the 10th of the month, and it does not print a clock. The fee sits in the ancient-town ticket disagreement. Both are check on arrival."
+    "The museum is at 149 Trần Phú, set up in 1994. Its collection is more than a thousand objects from the Sa Huỳnh culture, about two thousand years old, the early residents of this port. Each object is tied to the spot where it was found.",
+    "A smaller group comes from Bãi Ông on Cù Lao Chàm and dates to the pre-Sa Huỳnh period, about three thousand years ago. The cases also cover burial customs and the community’s sense of beauty. This is the prehistoric hour. It is not a substitute for the towers at My Son.",
+    "It is open every day except the 10th of the month. Entry is part of the old-town ticket."
   ],
   "figures": [
     {
@@ -29,17 +29,17 @@
     }
   ],
   "gettingThere": [
-    "Walk to 149 Trần Phú. The overview does not print a minute count."
+    "Walk along Trần Phú to number 149, in the old town."
   ],
   "legs": [
     {
       "heading": "From the old town",
-      "body": "Walk along Trần Phú to number 149. The minutes depend on your lane."
+      "body": "Walk along Trần Phú to number 149."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "Closed on the 10th of each month. No weekly closing day is printed.",
-  "admissionNote": "No separate price is printed for this building. From 10 August 2026, Da Nang Resolution 98/2026 sets 20,000 VND per person per building, the same for a Vietnamese and a foreign visitor. The heritage centre’s notices of 26 January 2026 and 16 March 2026 still describe an 80,000 VND ticket for the streetscape, Chùa Cầu or Miếu Quan Công, and two other works, and a 120,000 VND ticket when a museum and three other works are added. The March notice says one purchase can be used through the stay, up to three days. A May 2026 article says the town is an open neighbourhood and many people walk in without a ticket. Which desk is in force is check on arrival.",
+  "closed": "Closed on the 10th of each month.",
+  "admissionNote": "No separate price for this building. From 10 Aug 2026: 20,000 VND per person per building, the same for every visitor (Da Nang Resolution 98/2026). Heritage centre notices of 26 Jan and 16 Mar 2026: 80,000 VND (streetscape, Chùa Cầu or Miếu Quan Công, and two other works) or 120,000 VND (adds a museum and three other works), usable through a stay of up to three days. A May 2026 article counts those as four and six works. Ask at the booth which ticket is on sale.",
   "links": [
     {
       "label": "Museum overview",

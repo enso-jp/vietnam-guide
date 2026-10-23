@@ -4,7 +4,7 @@
   "name": "Hoa Lo Prison",
   "nameVi": "Nhà tù Hỏa Lò",
   "kicker": "The remaining prison at 1 Hoa Lo",
-  "summary": "Walk the remaining prison at 1 Hoa Lo, in Cua Nam. The relic opens 8:00 to 17:00 every day, including holidays, and it does not close for lunch. An adult ticket is 50,000 VND. Under 16 is free. Do not leave it for a midday break the site says it does not take.",
+  "summary": "Walk the remaining cells and yard of Hoa Lo, the prison whose gate still reads Maison Centrale, at 1 Hoa Lo, south of the lake. It is open every day, holidays included, with no lunch break, so it fills the midday gap when other museums close.",
   "dots": 4,
   "timeNeeded": "Check on arrival",
   "fee": "50,000 VND",
@@ -14,11 +14,11 @@
   "heroCaption": "The Maison Centrale gate at Hoa Lo",
   "notice": {
     "title": "No lunch closing",
-    "body": "The relic page says the gate is open 8:00 to 17:00 every day, including holidays, with no lunch break."
+    "body": "The gate is open 8:00 to 17:00 every day, including holidays, with no lunch break."
   },
   "body": [
-    "The visit is the remaining prison buildings and the yard at 1 Hoa Lo, Cua Nam ward. The gate still carries the Maison Centrale name. Give it a morning or an early afternoon. The minutes on site were not published. Check on arrival.",
-    "The relic’s own ticket page prints 8:00 to 17:00 every day, including holidays, with no lunch break. An adult pays 50,000 VND. Half price is 25,000 VND for the groups that page lists. Under 16 is free. The walk south from Hoan Kiem has no published minute count. Check on arrival."
+    "The visit is the remaining prison buildings and the yard at 1 Hoa Lo, Cua Nam ward. The gate still carries the Maison Centrale name.",
+    "Give it a morning or an early afternoon. Because it does not close at noon, it is the stop to keep for the hours when the history museum is shut. Under 16 is free."
   ],
   "figures": [
     {
@@ -28,12 +28,12 @@
     }
   ],
   "gettingThere": [
-    "The address is 1 Hoa Lo, Cua Nam. Walk south from Hoan Kiem Lake. No minute count was on the relic page. Check on arrival."
+    "The address is 1 Hoa Lo, Cua Nam. Walk south from Hoan Kiem Lake."
   ],
   "legs": [
     {
       "heading": "From Hoan Kiem",
-      "body": "Walk south. The minutes are check on arrival."
+      "body": "Walk south to 1 Hoa Lo."
     }
   ],
   "hours": "8:00–17:00 every day, including holidays. No lunch break.",

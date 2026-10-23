@@ -5,21 +5,20 @@
   "nameVi": "Mặt tiền Mỹ Khê",
   "district": "The beach",
   "kicker": "Clubs and coffee on the My Khe sand",
-  "summary": "Spend the evening on the sand, not in the lanes. Kalà Kalà at 51 Vo Nguyen Giap is free to enter, and its own site lists both midnight and 02:00 as closing. East West faces the water from 08:00 to 01:00, and that page does not print a street. A drink price is check on arrival.",
+  "summary": "Spend the evening on the My Khe sand rather than in the lanes. Kalà Kalà Beach Club, at 51 Vo Nguyen Giap, is free to enter and runs late, and East West Brewing's taproom faces the water until 01:00. Order a drink, watch the surf go dark, and ask the price before you order.",
   "dots": 4,
   "timeNeeded": "An evening",
-  "fee": "Kalà Kalà entry is free. A drink is check on arrival.",
-  "getThere": "Walk from a My Khe hotel to 51 Vo Nguyen Giap for Kalà Kalà. East West’s street number is check on arrival.",
+  "fee": "Kalà Kalà entry is free. Drinks: check on arrival.",
+  "getThere": "Walk from a My Khe hotel to 51 Vo Nguyen Giap.",
   "verified": "21 Oct 2026",
   "heroCaption": "People on the sand, with the headland in the haze",
   "notice": {
-    "title": "Kalà Kalà prints two closing times",
-    "body": "The guest guide says 08:00 to 02:00. The same site’s footer says 08:00 to midnight. Entry is free either way. Confirm the night you go. East West is a separate door, 08:00 to 01:00, and its street is not on that page."
+    "title": "Ask the price first",
+    "body": "Neither room posts a drink price. Ask before you order."
   },
   "body": [
-    "This is the beach evening: a club and a brewery on the sand, and a coffee when you want a chair facing the water. Kalà Kalà Beach Club is at 51 Vo Nguyen Giap. Its own site says entry is free, and it lists both 08:00 to midnight and 08:00 to 02:00. East West Brewing’s beachfront taproom, on My Khe, pours from 08:00 to 01:00 every day. That page says “by the shores of My Khe” and does not give a street number.",
-    "Neither page prints a drink price. Ask before you order. The lanes a few streets inland are An Thuong, which is the other night. The swim, the buoys, and the rescue clock are on the My Khe page.",
-    "The photograph is the beach with people in the water and no close tower line. It is not a picture of Kalà Kalà or of East West. No licensed photograph of either room was found."
+    "This is the beach evening: a club and a brewery on the sand, and a coffee when you want a chair facing the water. Kalà Kalà Beach Club is at 51 Vo Nguyen Giap, free to enter and open from 08:00 until late. East West Brewing’s beachfront taproom, by the shores of My Khe, pours from 08:00 to 01:00 every day.",
+    "The lanes a few streets inland are An Thuong, which is the other night. The swim, the buoys, and the rescue hours belong to the My Khe morning."
   ],
   "figures": [
     {
@@ -29,20 +28,20 @@
     }
   ],
   "gettingThere": [
-    "From a hotel on My Khe, walk to Vo Nguyen Giap. Kalà Kalà is number 51. East West’s number is not published, so ask on the sand. From the river, take a Grab. The minutes are check on arrival."
+    "From a hotel on My Khe, walk to Vo Nguyen Giap. Kalà Kalà is number 51. East West is on the same beachfront, so ask on the sand. From the river, take a Grab."
   ],
   "legs": [
     {
       "heading": "From a My Khe hotel",
-      "body": "Walk to 51 Vo Nguyen Giap for Kalà Kalà. East West is on the same beachfront, street number check on arrival."
+      "body": "Walk to 51 Vo Nguyen Giap for Kalà Kalà. East West is on the same beachfront."
     },
     {
       "heading": "From the river",
-      "body": "By Grab to Vo Nguyen Giap. The minutes are check on arrival."
+      "body": "By Grab to Vo Nguyen Giap."
     }
   ],
-  "hours": "Kalà Kalà lists both 08:00 to midnight and 08:00 to 02:00. East West is 08:00 to 01:00 every day.",
-  "closed": "No weekly closing day is published for either room.",
+  "hours": "Kalà Kalà: 08:00–02:00 (guest guide) or 08:00–midnight (site footer). East West: 08:00–01:00 every day. East West street number: check on arrival.",
+  "closed": "No weekly closing day listed for either room.",
   "links": [
     {
       "label": "Kalà Kalà",
@@ -55,8 +54,5 @@
       "note": "Hours and beachfront. No street number."
     }
   ],
-  "interests": [
-    "beaches",
-    "nightlife"
-  ]
+  "interests": ["beaches", "nightlife"]
 }

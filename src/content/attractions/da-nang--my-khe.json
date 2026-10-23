@@ -4,22 +4,22 @@
   "name": "My Khe Beach",
   "nameVi": "Biển Mỹ Khê",
   "kicker": "The city beach in front of the resorts",
-  "summary": "Stand on the sand with the resort towers behind the chairs. Swim only inside the buoy line, and only while a rescuer is on duty. The published duty clocks do not match, so read the board on the sand. The beach is free. Chair hire is check on arrival. After dark, walk inland to An Thuong.",
+  "summary": "Wake on My Khe, the long city beach with the resort towers along the sand and the surf as the morning. Swim inside the buoy line while the rescuers are on duty, eat seafood on the beach road at night, then walk a few streets inland to An Thuong. Give it half a day, or the whole trip.",
   "dots": 4,
   "timeNeeded": "Half a day",
   "fee": "Free to swim",
-  "getThere": "A ride from the river or the airport. The minutes are check on arrival.",
+  "getThere": "A ride across the river from the center or the airport.",
   "district": "The beach",
   "verified": "21 Oct 2026",
   "heroCaption": "Chairs, the rescue hut, and the resort towers on the sand",
   "notice": {
     "title": "Read the duty board before you swim",
-    "body": "A 2016 tourism page prints both 05:00–19:00 and 5am–8pm for rescue teams. A 2023 city notice does not print a clock. Swim inside the buoys, and stop when the end-of-duty signal is given."
+    "body": "Rescue teams post their duty hours on the sand. Swim inside the buoys, and get out at the end-of-duty signal."
   },
   "body": [
     "This is the beach the city is for. The sand runs in front of the resort towers, and the morning is the water. Swim only where the safety buoys are set and a rescuer is on duty. Do not swim in bad weather, or where a danger board forbids it, or after the end-of-duty signal.",
-    "The 15 January 2016 beaches page says local beaches are swimmable all year, and especially from May to August, when the waves are gentle. The same page prints two duty clocks: 5am to 8pm, and 05:00 to 19:00. The 12 April 2023 city report of beach-board document 217 says rescue teams are posted on Hoang Sa, Vo Nguyen Giap, Truong Sa, and Nguyen Tat Thanh, and it does not print the hour. The board on the sand wins. Chair and umbrella hire have no published price.",
-    "The beach is not on the city’s paid-ticket list. Dinner along this shore is seafood. Ask the price before it is cooked. The night is not on the towel. It is a few streets inland, in An Thuong."
+    "The beaches here are swimmable all year, and best from May to August, when the waves are gentle. Rescue teams cover Hoang Sa, Vo Nguyen Giap, Truong Sa, and Nguyen Tat Thanh, and the board on the sand gives the duty hours. Ask the price of a chair or an umbrella before you sit.",
+    "The beach is free. Dinner along this shore is seafood, so ask the price before it is cooked. The night is not on the towel. It is a few streets inland, in An Thuong."
   ],
   "figures": [
     {
@@ -29,21 +29,21 @@
     }
   ],
   "gettingThere": [
-    "My Khe is east of the Han, the city beach. From a river hotel, go by car or Grab. No official page used here prints the minutes for that ride. A 2016 line of about 10 minutes by motorbike is the way to Pham Van Dong beach, so it is not used as a My Khe time."
+    "My Khe is east of the Han, the city beach. From a river hotel, go by car or Grab across the river."
   ],
   "legs": [
     {
       "heading": "From the Han River",
-      "body": "By car or Grab. Check the minutes on arrival."
+      "body": "By car or Grab across the river."
     },
     {
       "heading": "From the airport",
-      "body": "A short ride. The city’s airport timing for the center is on the place page. A door-to-door minute for every beach hotel is check on arrival."
+      "body": "A short ride by car or Grab to the beach hotels."
     }
   ],
-  "hours": "Swim only while rescuers are on duty. One 2016 page prints both 05:00–19:00 and 5am–8pm. The 2023 notice prints no clock.",
+  "hours": "Swim only while rescuers are on duty. The 2016 city beaches page gives both 05:00–19:00 and 5am–8pm. The 2023 city notice gives no clock. Read the board on the sand.",
   "closed": "Stop when the end-of-duty signal is given. Do not swim in bad weather or where a danger board forbids it.",
-  "admissionNote": "The beach is not on the paid-ticket list. Chair and umbrella hire are check on arrival. No number was copied.",
+  "admissionNote": "Free. Chair and umbrella hire: check on arrival.",
   "links": [
     {
       "label": "Da Nang beaches",
