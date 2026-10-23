@@ -139,3 +139,15 @@ Accessed 21 Oct 2026. The UNESCO MAB URL was requested and returned a bot challe
 - Publisher: Ban quản lý Khu bảo tồn thiên nhiên Cù Lao Chàm, 3 Mar 2026. The page gives the board’s email and a Hội An address.
 - Accessed: 23 Oct 2026
 - Supports: Cua đá grilled, or boiled with salt and pepper. Eco-label. Same season, 1 Mar–31 Jul. Boiled meat described as not fishy, sweet, fragrant, and firm. Forest leaves rau dớn, rau sân, rau lủi, mã đề, more than 16, boiled and dipped in mắm cái. Not used as dishes, because they conflict with S12: abalone, gỏi cá rau rừng, and canh chua cá. Restaurant names on this page are not picks.
+
+### S24
+- URL: https://culaochammpa.com.vn/nhung-dieu-can-biet-khi-tham-gia-hoat-dong-vui-choi-duoi-nuoc-tai-cu-lao-cham/
+- Publisher: Ban quản lý Khu bảo tồn thiên nhiên Cù Lao Chàm, Thanh Thảo, 5 Feb 2026. Reports Văn bản 850/SNNMT-BQLKBTTN of Sở Nông nghiệp và Môi trường, 23 Jan 2026. A Google Drive link on the page holds the letter. The board address on the page is 141 Lý Thường Kiệt, Phường Hội An, Đà Nẵng.
+- Accessed: 23 Oct 2026
+- Supports: Where a permitted operator may run water recreation and snorkeling. Buffer points B1–B4: floating park, SUP, kayak, basket-boat fishing, parasail, towable, jet ski. Service–administration zone, recommended shores Bãi Xếp, Bãi Chồng, Bãi Bìm, Bãi Hương, from the lowest-tide line out to AS7–AS12, RL1–RL3, SL1–SL3; and Hòn Dài water out to RD1, AS13, RD7. Those shores may add swimming, snorkel swimming, scuba, and seabed walking, with a permit. Restoration zone, tight control: Rạn Mè – Bãi Ông (RL5–RL8), Hòn Tai (RT1–RT6), Hòn Dài (RD1–RD7), Rạn Mành (RM1–RM4), Bãi Nần (RL1–RL4). Allowed there: snorkel swimming, scuba, SUP, kayak, glass-bottom basket and glass-bottom boat. Strict zone: water recreation, snorkeling, and sea sports closed. Businesses register with Sở Văn hóa, Thể thao và Du lịch. No snorkel price. No clock.
+
+### S25
+- URL: https://danangfantasticity.com/en/kham-pha/len-lich-kham-pha-da-nang-2026-cap-nhat-gia-ve-tham-quan-cac-diem-khu-du-lich
+- Publisher: Đà Nẵng tourism portal (Danang Fantasticity). The page is a 2026 admission list and says the figures are a reference and can change. No article day is printed on the text read.
+- Accessed: 23 Oct 2026
+- Supports: Khu dự trữ sinh quyển thế giới Cù Lao Chàm, xã Tân Hiệp. Ticket sales 07:00–16:00. Visit ticket 70,000 VND. Island sanitation fee 20,000 VND. The 70,000 matches S8 and S9. The sanitation line is on this list and is absent from the resolution text in S8 and S9. Both stay. The boat is still outside both figures.

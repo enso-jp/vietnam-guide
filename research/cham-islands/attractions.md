@@ -232,3 +232,14 @@ None. Tân Hiệp is this place. Hòn Lao is the inhabited island inside it. Bã
 - Suggested slug: bai-lang-day
 - Photo must show: someone eating on the coast road with the sea behind the bowls, or the walk toward Hải Tạng with Đồng Chùa in the frame. Not a hotel lobby.
 - Sources: S3, S5, S12
+
+## Photo pass, 23 Oct 2026
+
+Commons category Cham Islands, a 10 km geosearch, and filename searches were read on 23 Oct 2026.
+
+- Bãi Làng: published. The shore-road file already on the stay row is the landing. The second frame is the pier from the boat, cropped to drop a portrait billboard. See `attractions/bai-lang.md`.
+- Bãi Hương: published. Robert Quan’s 2017 bay, captioned Bai Huong, and DuyenPaul’s 2007 beach. `Cham7.jpg` is titled Bai Huong beach and shows a cliff, so it stays off the page. See `attractions/bai-huong.md`.
+- Bãi Ông: unpublished: no licensed photo. See `attractions/bai-ong.md`.
+- Hòn Tai: unpublished: no licensed photo. See `attractions/hon-tai.md`.
+- Coral snorkeling: unpublished: no licensed photo. The 23 Jan 2026 letter (S24) names the stops. No Commons frame shows a snorkeler or the coral. See `attractions/coral-snorkel.md`.
+- Đình Tiền Hiền, Lăng Ông Ngư, Giếng Xóm Cấm, Miếu Âm Linh, Miếu Tổ nghề yến: still unpublished: no licensed photo of those buildings. The nest temple is named on the Bãi Hương page. It is not its own card.
