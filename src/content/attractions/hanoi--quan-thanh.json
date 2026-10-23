@@ -1,0 +1,55 @@
+{
+  "slug": "quan-thanh",
+  "placeSlug": "hanoi",
+  "name": "Quan Thanh Temple",
+  "nameVi": "Đền Quán Thánh",
+  "kicker": "Northern guardian temple on West Lake",
+  "summary": "Enter Quan Thanh Temple, the northern guardian temple of old Thang Long, on the West Lake shore. Cross the white gate and see the black-bronze figure in the hall behind it. Buy a ticket at the gate, and confirm the day's hours there.",
+  "dots": 3,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Corner of Thanh Nien and Quan Thanh.",
+  "district": "West Lake",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The white gate of Quan Thanh Temple",
+  "notice": {
+    "title": "Buy a ticket at the gate",
+    "body": "Admission is charged. Confirm the price and the day's hours at the gate."
+  },
+  "body": [
+    "Quan Thanh stands at the corner of Thanh Nien and Quan Thanh street, looking onto West Lake. It is the northern guardian temple of old Thang Long, built in 1010 under Ly Thai To, and it is also called Tran Vu Quan. Bach Ma guards the east, Voi Phuc the west, and Kim Lien the south. You come for the white gate, then the halls behind it.",
+    "The black-bronze Tran Vu figure was recast in 1677. It stands 3.07 m high. The height is also nearly 4 m, and 4 m. It measures 8 m around and weighs 4 tons.",
+    "The temple charges admission, and it is a special national relic. The price and the day's hours are confirmed at the gate. Tran Quoc is a different pagoda further along the shore."
+  ],
+  "figures": [
+    {
+      "id": "hanoi-quan-thanh-2",
+      "caption": "A stone elephant in the courtyard",
+      "alt": "A stone elephant with a blue and gold harness in the courtyard of Quan Thanh Temple"
+    }
+  ],
+  "gettingThere": [
+    "The gate is at the corner of Thanh Nien and Quan Thanh street, on the West Lake side of the road. Walk or ride there from Hoan Kiem."
+  ],
+  "legs": [
+    {
+      "heading": "From Hoan Kiem",
+      "body": "Walk or ride to the corner of Thanh Nien and Quan Thanh street."
+    },
+    {
+      "heading": "From the West Lake shore",
+      "body": "The temple looks onto the lake. Tran Quoc is a separate pagoda along the same shore."
+    }
+  ],
+  "hours": "Check on arrival.",
+  "closed": "Check on arrival.",
+  "admissionNote": "Check on arrival. Admission is charged at the gate.",
+  "links": [
+    {
+      "label": "Quan Thanh Temple",
+      "url": "https://vietnamtourism.vn/index.php/tourism/items/2795",
+      "note": "The corner of Thanh Nien and Quan Thanh, and the bronze figure."
+    }
+  ],
+  "interests": ["pagodas"]
+}

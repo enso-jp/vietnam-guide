@@ -5,7 +5,7 @@ Province: Hanoi
 Kind: city
 Corridor: `red-river-delta` on the public page. The board file still says `northern-vietnam`. Do not change that board corridor from this pass.
 Base a traveler sleeps in: the lanes north of Hoan Kiem, or the quieter streets south of the lake around the Opera House.
-Checked: 22 Oct 2026
+Checked: 23 Oct 2026
 
 ## Why a night here
 
@@ -285,18 +285,35 @@ These stay in the dossier and off the card grid.
 ### Long Bien Bridge
 - Vietnamese name: Cầu Long Biên
 - Kind: sight
-- Area: Red River
-- What the visitor does: Not recorded. This pass did not open a primary page.
+- Area: The Red River
+- What the visitor does: Walk the side path. The railway stays in the middle. Motorbikes, bicycles, and people on foot use the side paths both ways, Hoan Kiem and Bo De, from 00:00 on 28 May 2026 after a repair closure that began 26 March 2026 (S41).
+- Time: Check on arrival — UNSOURCED
+- Fee: Check on arrival — UNSOURCED. No opened page prints a ticket.
+- Hours: Check on arrival — UNSOURCED. The 2026 repair window is a closure, not a visiting timetable.
+- Length, both figures: 1,682 m on two Hanoi People’s Council reprints (S40). 2,290 m across the river, plus an 896 m approach, on Vietnamese Wikipedia (S42). The 896 m city-side approach is also on S40. Do not average.
+- Built: Daydé & Pillé. Work began in September 1898, and in 1899. Finished 1902. First official Hanoi–Haiphong train 8 April 1902 (S40). A plate is described as 1899–1902 (S42). Vietnam Tourism says built in 1902, and early morning or just before sunset (S10 is not this page; S43).
+- From the base: Walk from the lanes north of Hoan Kiem to the Hoan Kiem end. Minutes Check on arrival — UNSOURCED.
 - Suggested slug: long-bien
-- Photo must show: the steel bridge from the deck or the bank. unpublished: no licensed photo. No hours recorded.
+- Suggested dot: none. Public dot 3.
+- Photo must show: the steel spans and the side path. A second frame is the lattice at dusk. Both licensed. Published.
+- Sources: S40, S41, S42, S43
+- Research file: attractions/long-bien.md, stored 23 Oct 2026
 
 ### Quan Thanh Temple
 - Vietnamese name: Đền Quán Thánh
 - Kind: sight
 - Area: West Lake
-- What the visitor does: Not recorded. A filename is not a source. No hours.
+- What the visitor does: Enter the white gate at the corner of Thanh Nien and Quan Thanh street, looking onto West Lake. Northern guardian temple of Thang Long, built 1010 under Ly Thai To, also called Tran Vu Quan (S44). Separate from Tran Quoc.
+- Time: Check on arrival — UNSOURCED
+- Fee: Check on arrival on the public page. VTV, 19 Feb 2024, prints 10,000 VND, 5,000 VND for students, older people, and disabled visitors, and free under 15 (S45). One news report. Ba Dinh confirms it is a fee-charging special national relic, and that entry was free only 20–22 Feb 2026 (S46).
+- Hours: Check on arrival — UNSOURCED. Travel pages copy 8:00–17:00. Not published.
+- Height, both figures: 3.07 m, circumference 8 m, weight 4 tons, recast 1677 (S44). A travel page says nearly 4 m, and 4 m, at the same 4 tons. Both heights stay.
+- From the base: Walk or ride to that corner. Minutes Check on arrival — UNSOURCED. House number 190 is travel pages only.
 - Suggested slug: quan-thanh
-- Photo must show: the temple gate. unpublished: no licensed photo
+- Suggested dot: none. Public dot 3.
+- Photo must show: the white gate. A second frame is the courtyard elephant. Both licensed. Published.
+- Sources: S44, S45, S46
+- Research file: attractions/quan-thanh.md, stored 23 Oct 2026
 
 ### Old Quarter
 - Vietnamese name: Phố cổ Hà Nội
