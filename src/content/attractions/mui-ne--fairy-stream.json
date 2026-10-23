@@ -4,7 +4,7 @@
   "name": "Fairy Stream",
   "nameVi": "Suối Tiên",
   "kicker": "Ankle-deep walk under the sand hills",
-  "summary": "Shallow stream under the sand hills: walk it barefoot in ankle-deep water for the red clay bank. Suối Tiên is the name on the Binh Thuan feature. Suối Hồng is the name on the coast page. Take your shoes off and walk upstream, with red clay and limestone on one side and forest or coconut trees on the other. A rest stop has a cool coconut. This is the pause between the strip and the dunes.",
+  "summary": "Shallow stream under the sand hills: walk it barefoot in ankle-deep water for the red clay bank. Suối Tiên and Suối Hồng are both this stream. Take your shoes off and walk upstream, with red clay and limestone on one side and forest or coconut trees on the other. A rest stop has a cool coconut. This is the pause between the strip and the dunes.",
   "dots": 3,
   "timeNeeded": "A short walk",
   "fee": "Check on arrival",
@@ -17,8 +17,8 @@
     "body": "The water is ankle-deep. Walk upstream and stop for a coconut."
   },
   "body": [
-    "Take your shoes off and walk upstream. The water is ankle-deep. Red clay and limestone rise on one side. The must-do page puts forest on the other. The Binh Thuan feature puts coconut trees there. A rest stop along the walk sells a cool coconut.",
-    "The coast page also calls this Suối Hồng, the fairy stream, between white stalactite hills. The Binh Thuan feature calls it Suối Tiên and places it under the Mui Ne sand hills. Give it a daytime pause. The dunes are the longer rides."
+    "Take your shoes off and walk upstream. The water is ankle-deep. Red clay and limestone rise on one side, forest and coconut trees on the other. A rest stop along the walk sells a cool coconut.",
+    "Suối Tiên and Suối Hồng are both this fairy stream, under the Mui Ne sand hills and between white stalactite hills. Give it a daytime pause. The dunes are the longer rides."
   ],
   "figures": [
     {
@@ -28,30 +28,29 @@
     }
   ],
   "gettingThere": [
-    "The stream sits under the Mui Ne sand hills, a stop from the Ham Tien strip. The Binh Thuan feature places Suối Tiên there. The coast page uses the name Suối Hồng for the same walk."
+    "The stream sits under the Mui Ne sand hills, a stop from the Ham Tien strip. Suối Tiên and Suối Hồng are the two names for the same walk."
   ],
   "legs": [
     {
       "heading": "From the Ham Tien strip",
-      "body": "A stop inland from the beach strip, under the sand hills. Vietnam Tourism pairs the stream with the dunes and the coast."
+      "body": "A stop inland from the beach strip, under the sand hills, between the dunes and the coast."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "Check on arrival",
-  "admissionNote": "The visit is the barefoot walk. A coconut at a rest stop is the named pause.",
+  "admissionNote": "The visit is the barefoot walk. A coconut at a rest stop is the pause.",
   "links": [
     {
-      "label": "Vietnam Tourism, Mui Ne must-do list",
+      "label": "Mui Ne must-do list",
       "url": "https://vietnam.travel/things-to-do/wind-sand-and-sea-mui-nes-must-do-list",
       "note": "Ankle-deep walk, red clay and limestone, a coconut stop"
     },
     {
-      "label": "Vietnam Tourism, Binh Thuan feature",
+      "label": "Binh Thuan coast feature",
       "url": "https://vietnam.travel/things-to-do/binh-thuan-much-more-white-sand-golden-sunshine-and-blue-sea",
       "note": "Suối Tiên under the sand hills"
     },
     {
-      "label": "Vietnam Tourism, coast page",
+      "label": "Lam Dong coast page",
       "url": "https://vietnam.travel/places-to-go/southern-vietnam/binh-thuan",
       "note": "Suối Hồng, the fairy stream"
     }

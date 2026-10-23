@@ -4,11 +4,11 @@
   "name": "White dunes",
   "nameVi": "Bàu Trắng",
   "kicker": "Pale slopes at sunrise",
-  "summary": "Pale dunes at Bàu Trắng: be on the sand from 5:00 to 7:00 for the sunrise before the heat. The field is in Hoa Thang, with steep 30-metre slopes and a lotus lake. The must-do list gives a 25 km drive. The adventure page gives a short drive from the main beach strip. Set the alarm for 4:30 if an ATV at sunrise is the plan. Midday sand is scorching.",
+  "summary": "Pale dunes at Bàu Trắng: be on the sand from 5:00 to 7:00 for the sunrise before the heat. The field is in Hoa Thang, with steep 30-metre slopes and a lotus lake. The drive runs from a short hop off the beach strip out to 25 km. Set the alarm for 4:30 if an ATV at sunrise is the plan. Midday sand is scorching.",
   "dots": 3,
   "timeNeeded": "5:00–7:00",
   "fee": "Check on arrival",
-  "getThere": "A 25 km drive, or a short drive from the main beach strip.",
+  "getThere": "A short hop off the beach strip, out to 25 km.",
   "district": "Hoa Thang",
   "verified": "23 Oct 2026",
   "heroCaption": "Pale dune crests, with people small on the sand",
@@ -17,8 +17,8 @@
     "body": "Set the alarm for 4:30 if an ATV at sunrise is the plan, and be on the sand from 5:00 to 7:00. Midday sand is scorching."
   },
   "body": [
-    "Climb the pale slopes at sunrise, look over the lotus lake, and sandboard the 30-metre faces. An ATV or an open jeep is the other way across the field. The adventure page sets the visit from 5:00 to 7:00 and a 4:30 alarm when the plan is an ATV at sunrise.",
-    "Midday sand is scorching, so the early window is the visit. The must-do list gives a 25 km drive. The adventure page gives a short drive from the main beach strip. The red dunes are the sunset slope. Decision 1772 calls Bàu Trắng the symbol of the national tourism zone and names Bàu Sen with it for protection."
+    "Climb the pale slopes at sunrise, look over the lotus lake, and sandboard the 30-metre faces. An ATV or an open jeep is the other way across the field. Be on the sand from 5:00 to 7:00. Set a 4:30 alarm when the plan is an ATV at sunrise.",
+    "Midday sand is scorching, so the early window is the visit. The drive runs from a short hop off the main beach strip out to 25 km. A motorbike covers the dunes. The red dunes are the sunset slope. Bàu Trắng is the symbol of the national tourism zone, and Bàu Sen is protected with it."
   ],
   "figures": [
     {
@@ -28,25 +28,24 @@
     }
   ],
   "gettingThere": [
-    "Bàu Trắng is in Hoa Thang, Bac Binh, inside the national tourism zone. The adventure page calls it a short drive from the main beach strip and prints steep 30-metre dunes and a lotus lake. The must-do list prints a 25 km drive."
+    "Bàu Trắng is in Hoa Thang, Bac Binh, inside the national tourism zone, with steep 30-metre dunes and a lotus lake. From the main beach strip the drive runs from a short hop out to 25 km."
   ],
   "legs": [
     {
       "heading": "From the Ham Tien strip",
-      "body": "The adventure page gives a short drive from the main beach strip. The must-do list gives a 25 km drive. Vietnam Tourism names a motorbike for the dunes. Be on the sand from 5:00 to 7:00."
+      "body": "A motorbike from the beach strip, a short hop out to 25 km. Be on the sand from 5:00 to 7:00."
     }
   ],
   "hours": "5:00–7:00",
-  "closed": "Check on arrival",
-  "admissionNote": "The 5:00–7:00 window is the visit time on the adventure page. An ATV or a jeep is extra. Set the alarm for 4:30 when the plan is an ATV at sunrise. Midday sand is scorching.",
+  "admissionNote": "Be on the sand from 5:00 to 7:00. An ATV or a jeep is extra. Set the alarm for 4:30 when the plan is an ATV at sunrise. Midday sand is scorching.",
   "links": [
     {
-      "label": "Vietnam Tourism, Mui Ne must-do list",
+      "label": "Mui Ne must-do list",
       "url": "https://vietnam.travel/things-to-do/wind-sand-and-sea-mui-nes-must-do-list",
-      "note": "A 25 km drive, sunrise on the white dunes"
+      "note": "Up to 25 km, sunrise on the white dunes"
     },
     {
-      "label": "Vietnam Tourism, adventure page",
+      "label": "Mui Ne adventure guide",
       "url": "https://vietnam.travel/things-to-do/mui-ne-southeast-asia’s-ultimate-adventure-escape",
       "note": "5:00–7:00, a 4:30 alarm for an ATV, steep 30-metre dunes"
     }

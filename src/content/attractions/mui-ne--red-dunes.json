@@ -4,7 +4,7 @@
   "name": "Red dunes",
   "nameVi": "Đồi cát bay",
   "kicker": "Orange slope at sunset",
-  "summary": "Orange dunes just outside town: walk the slope and sandboard at sunset for the late-day color. Đồi cát bay sits in Mui Ne ward, a field of about 36.8 ha. The 2019 ministry workshop places it about 22 km from the Phan Thiet city center. Vietnam Tourism calls the same dunes just outside town. Give the slope the end of the day. Bàu Trắng is the dawn ride.",
+  "summary": "Orange dunes just outside town: walk the slope and sandboard at sunset for the late-day color. Đồi cát bay is about 36.8 ha in Mui Ne ward, about 22 km from the Phan Thiet city center. Give the slope the end of the day. Bàu Trắng is the dawn ride.",
   "dots": 3,
   "timeNeeded": "Sunset",
   "fee": "Check on arrival",
@@ -14,11 +14,11 @@
   "heroCaption": "Orange slope, casuarinas, and walkers on the sand",
   "notice": {
     "title": "Come for the sunset",
-    "body": "Vietnam Tourism sends you here as the sun drops past the horizon. Bàu Trắng is the 5:00–7:00 ride."
+    "body": "Come as the sun drops past the horizon. Bàu Trắng is the 5:00–7:00 ride."
   },
   "body": [
-    "Walk the orange slope and sandboard as the sun drops. Vietnam Tourism sends you to the red dunes just outside town for that late light. The 2019 ministry workshop names the field Đồi cát bay, about 36.8 ha in Mui Ne ward, and says that since 2016 it has been assigned to the provincial youth outdoor center, overlapping the Ham Tien–Mui Ne tourism board and the ward.",
-    "The 22 km figure on that workshop page is measured from the Phan Thiet city center. The ride from a resort gate on the Ham Tien strip is its own trip. Bàu Trắng, in Hoa Thang, is the dawn field. This slope is the sunset."
+    "Walk the orange slope and sandboard as the sun drops. The red dunes sit just outside town. Đồi cát bay covers about 36.8 ha in Mui Ne ward. Since 2016 the provincial youth outdoor center has held the field, shared with the Ham Tien–Mui Ne tourism board and the ward.",
+    "The dunes are about 22 km from the Phan Thiet city center. The ride from a resort gate on the Ham Tien strip is its own trip. A motorbike covers the dunes and the coast. Bàu Trắng, in Hoa Thang, is the dawn field. This slope is the sunset."
   ],
   "figures": [
     {
@@ -28,30 +28,29 @@
     }
   ],
   "gettingThere": [
-    "Đồi cát bay is the orange field in Mui Ne ward. Vietnam Tourism calls the red dunes just outside town. The 2019 ministry workshop places the field about 22 km from the Phan Thiet city center.",
-    "Vietnam Tourism names a motorbike for the dunes and the coast. The 22 km line is from the city center, so the ride from the Ham Tien strip is separate."
+    "Đồi cát bay is the orange field in Mui Ne ward, just outside town and about 22 km from the Phan Thiet city center.",
+    "A motorbike covers the dunes and the coast. The 22 km starts at the Phan Thiet city center, so the Ham Tien strip is a separate ride."
   ],
   "legs": [
     {
       "heading": "From the Ham Tien strip",
-      "body": "A motorbike along the coast, the way Vietnam Tourism names for the dunes. The 22 km on the 2019 ministry page is measured from the Phan Thiet city center."
+      "body": "A motorbike along the coast. The 22 km starts at the Phan Thiet city center."
     },
     {
       "heading": "From Phan Thiet",
-      "body": "About 22 km from the city center on the 2019 ministry workshop page. Vietnam Tourism describes the same dunes as just outside town."
+      "body": "About 22 km from the city center, just outside town."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "Check on arrival",
-  "admissionNote": "The 2019 ministry workshop names the provincial youth outdoor center as the manager. Vietnam Tourism sends visitors at sunset.",
+  "admissionNote": "The provincial youth outdoor center manages the field, with the Ham Tien–Mui Ne tourism board and the ward. Come at sunset.",
   "links": [
     {
-      "label": "Vietnam Tourism, Mui Ne must-do list",
+      "label": "Mui Ne must-do list",
       "url": "https://vietnam.travel/things-to-do/wind-sand-and-sea-mui-nes-must-do-list",
       "note": "Sunset on the red dunes, and sandboarding"
     },
     {
-      "label": "Ministry workshop, 26 Apr 2019",
+      "label": "Flying dunes workshop, 26 Apr 2019",
       "url": "https://bvhttdl.gov.vn/gin-giu-ton-tao-va-phat-huy-ve-dep-tu-nhien-doi-cat-bay-mui-ne-20190428093515474.htm",
       "note": "About 22 km from the city center, about 36.8 ha"
     }
