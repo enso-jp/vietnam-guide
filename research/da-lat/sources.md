@@ -151,3 +151,99 @@ Accessed 21 Oct 2026 unless noted.
 - Publisher: Visit Lâm Đồng, Da Lat Night Market
 - Accessed: 21 Oct 2026
 - Supports: Night market open about 18:00–23:00 on portal lines echoed in travel desks.
+
+### S26
+- URL: https://vietnam.travel/things-to-do/eating-dalat-chef-peter
+- Publisher: Vietnam Tourism
+- Accessed: 23 Oct 2026
+- Supports: Farm crops (avocado, strawberry, asparagus, artichoke, grape, tea, coffee, wild mountain mushrooms). Central dishes found in Da Lat: bánh bèo, bánh xèo, bún bò Huế. Five dishes the chef eats: mì Quảng with pork-knuckle broth and turmeric noodles; bánh bèo as the Hue cake; Da Lat phở as Hanoi-style phở with herbs and lettuce; bánh mì xíu mại served hot; bánh căn grilled over charcoal with quail or duck egg, especially around Hoa Binh in the early morning. Named “Try it” doors stay unpublished as picks.
+
+### S27
+- URL: https://vietnam.travel/things-to-do/8-things-to-do-in-dalat
+- Publisher: Vietnam Tourism
+- Accessed: 23 Oct 2026
+- Supports: K'Ho Coffee Farm and Roastery, speciality heirloom Arabica grown by K'Ho farmers. Bánh căn with quail egg and onion sauce. Bánh bèo with river shrimp. Bánh mì xíu mại in hot broth. Mì Quảng on the upper floor of the central market. Market fringe shops for preserved fruits, candied ginger, coffee, and artichoke tea. Artichokes, avocados, asparagus as produce. Cafe Tung, La Viet, and Dalat Palace tea stay unpublished as picks.
+
+### S28
+- URL: https://visitlamdong.vn/vi/detailnews/?id=news_40130&t=traveling-to-da-lat-for-3-days-2-nights
+- Publisher: Visit Lâm Đồng. The article attributes the note to dalat-info.vn.
+- Accessed: 23 Oct 2026
+- Supports: The food-tour prices, hours, and dish names filed under bánh mì xíu mại, bánh ướt lòng gà, cơm niêu, lẩu gà lá é, cơm lam, nem nướng, night-market snacks, tiềm, nướng ngói, ốc nhồi thịt, and lẩu đuôi bò. Door figures are not averaged.
+
+### S29
+- URL: https://visitlamdong.vn/vi/banhcancaybo
+- Publisher: Visit Lâm Đồng
+- Accessed: 23 Oct 2026
+- Supports: Bánh Căn Cây Bơ, 56 Tăng Bạt Hổ, 06:00–11:30, 15,000–30,000 VND, five pairs at 30,000 VND, chả cây 5,000 VND, yaourt phô mai.
+
+### S30
+- URL: https://visitlamdong.vn/vi/tiembanhcanacat
+- Publisher: Visit Lâm Đồng
+- Accessed: 23 Oct 2026
+- Supports: Bánh căn A Cát, H55 KQH Nguyễn Thị Nghĩa, also written H54-55. Header hours 08:00–23:59. Text hours 07:00–21:30. Header price “Đang cập nhật”. Fillings listed in food.md.
+
+### S31
+- URL: https://visitlamdong.vn/vi/banhcandalat
+- Publisher: Visit Lâm Đồng
+- Accessed: 23 Oct 2026
+- Supports: Door named Bánh căn Đà Lạt, 7 Tăng Bạt Hổ, 16:00–23:00, 20,000–50,000 VND, bánh flan phô mai.
+
+### S32
+- URL: https://visitlamdong.vn/vi/banhcanle
+- Publisher: Visit Lâm Đồng
+- Accessed: 23 Oct 2026
+- Supports: Bánh Căn Lệ, 27/44 Yersin, 06:00–19:00, 15,000–30,000 VND, text also 25,000 VND, crisp shell, yaourt, bánh plan, chả cây.
+
+### S33
+- URL: https://visitlamdong.vn/vi/hanhlaugalae
+- Publisher: Visit Lâm Đồng
+- Accessed: 23 Oct 2026
+- Supports: Quán Hạnh, 6 Yersin (old Thống Nhất), 10:00–23:00, 200,000–350,000 VND. Lá é compared to cinnamon in look and lemongrass in smell.
+
+### S34
+- URL: https://visitlamdong.vn/vi/laugaso7
+- Publisher: Visit Lâm Đồng
+- Accessed: 23 Oct 2026
+- Supports: Lẩu Gà Số 7, 7 Tô Hiến Thành, 10:00–22:00, 50,000–200,000 VND. Menu names lẩu gà, gà luộc, gà hấp mắm, gà nướng. Band is not split by plate.
+
+### S35
+- URL: https://vietnam.travel/things-to-do/persimmons-garden-%E2%80%9Cgreen%E2%80%9D-travel-spots-da-lat
+- Publisher: Vietnam Tourism
+- Accessed: 23 Oct 2026
+- Supports: Persimmon season usually late October and November. Wind-dried persimmon as a famous Da Lat specialty. Crunchy persimmon as a sweet, aromatic gift. Also hồng sấy, hồng chín mềm, hồng ép. Route: Trần Hưng Đạo, Khe Sanh, end of Mimosa Pass. Lê Vân garden named.
+
+### S36
+- URL: https://www.vietnam.travel/things-to-do/chasing-gold-and-clouds-vietnam%E2%80%99s-best-september-escapes
+- Publisher: Vietnam Tourism
+- Accessed: 23 Oct 2026
+- Supports: Crunchy persimmon season from September through December. Freshly picked fruit described as sweet, soft, and juicy. Roads around Cau Dat tea hills. Kept beside S35. Not averaged.
+
+### S37
+- URL: https://nongthon.vietnamtourism.gov.vn/phien-cho-dac-san-du-lich-moi-la-thu-hut-du-khach-o-lam-dong/
+- Publisher: Vietnam Tourism rural desk (TITC)
+- Accessed: 23 Oct 2026
+- Supports: Mildly sweet, fragrant strawberry jam and fragrant dried persimmon at a seasonal fair in a resort yard in Cam Ly. Fairs quarterly, monthly, or weekly. Strawberries named among local products. No jar price.
+
+### S38
+- URL: https://vi.wikipedia.org/wiki/Vang_%C4%90%C3%A0_L%E1%BA%A1t
+- Publisher: Vietnamese Wikipedia, citing Hồng Thắm, Diễn đàn Doanh nghiệp, 5 Aug 2009
+- Accessed: 23 Oct 2026
+- Supports: Vang Đà Lạt from local grapes and specialty fruit. First product 1999. First grape wine the article credits to Vietnamese producers. More than 2 million litres, 1999–2007. Later award lines on the article are not used.
+
+### S39
+- URL: https://idt.lamdong.gov.vn/Uploaded/files/bantinKHCN/03_2025%20ban%20tin%20khcn%20032025.pdf
+- Publisher: Lam Dong science bulletin, March 2025, hosted by the provincial innovation center
+- Accessed: 23 Oct 2026
+- Supports: OCOP strengths named in the bulletin: cà phê arabica Cầu Đất, dâu tây Đà Lạt, hồng treo gió Đà Lạt. Cao atiso among processed products from local ingredients. Trà B’Lao, sầu riêng Đạ Huoai, and Bảo Lộc silk are in the same bulletin and are not Da Lat dishes on this pass.
+
+### S40
+- URL: https://idt.lamdong.gov.vn/danh-muc/san-pham-khac-C10015.aspx
+- Publisher: Trung tâm Đổi mới sáng tạo và Chuyển đổi số tỉnh Lâm Đồng
+- Accessed: 23 Oct 2026
+- Supports: Hồng treo gió hung in controlled temperature, humidity, and wind; sweet, chewy, fragrant. Hồng sấy dẻo air-dried or cold-dried, described as favored in highlands such as Da Lat. Price line is liên hệ. The integers beside that line are not labeled as đồng and are not used. Khoai gừng, khoai lang dẻo, and chuối dẻo on the same catalog are not filed as Da Lat specialties.
+
+### S41
+- URL: https://vi.wikipedia.org/wiki/%C4%90%C3%A0_L%E1%BA%A1t
+- Publisher: Vietnamese Wikipedia, Đà Lạt
+- Accessed: 23 Oct 2026
+- Supports: Rượu vang, trà atisô, and mứt trái cây named as long-known Da Lat products. Uncited market-tip prices on the Chợ Đà Lạt article are not used.
