@@ -2,13 +2,13 @@
   "slug": "hanoi",
   "name": "Hanoi food guide",
   "placeSlug": "hanoi",
-  "summary": "Pho in the Hoan Kiem lanes in the morning, bun cha at lunch, egg coffee in the afternoon, and a short list of rooms that cook in another register: a seasonal Vietnamese menu, a Japanese counter, Cantonese, and the white tablecloths at the Metropole.",
+  "summary": "Pho in the Hoan Kiem lanes in the morning, bun cha at lunch, egg coffee in the afternoon, then snail noodles, young rice from Vong, sticky rice, and the rooms that cook in another register: a seasonal Vietnamese menu, a Japanese counter, Cantonese, and the white tablecloths at the Metropole.",
   "heroSlug": "pho",
   "body": [
     "Eat Hanoi from the bowl outward. The morning soup is pho. Lunch is bun cha. The afternoon sit-down is egg coffee, strong robusta under a sweet egg foam, in the Nguyen Huu Huan alley. Around those three, the city still cooks bun dau, cha ca finished at the table, shrimp cakes that take their name from West Lake, and a breakfast roll of steamed rice.",
-    "Walk the street the dish belongs to and read the board. Hours on those streets were not published. Check on arrival. When you want a room instead of a stool, the names below are the ones Vietnam Tourism and the 2025 MICHELIN Guide actually print. Hue’s bun bo is the bowl for the day you leave town."
+    "The photographs are those plates, plus banh mi, che, and goi cuon. The names under them are the other dishes Vietnam Tourism and the tourism center print: snail noodles, pillow cakes, young rice from Vong, sticky rice, crab noodles, fresh beer, and the rest. Walk the street the dish belongs to and read the board. Hours on those streets were not published. Check on arrival. When you want a room instead of a stool, the names below are the ones Vietnam Tourism and the 2025 MICHELIN Guide actually print. Hue’s bun bo is the bowl for the day you leave town."
   ],
-  "specialtiesLead": "These are the dishes to know by name. Streets and rooms are in the sections under this list.",
+  "specialtiesLead": "Pho, bun cha, bun dau, cha ca, banh cuon, banh tom, bun thang, mi van than, mien luon, Vietnamese coffee, banh mi, che, and goi cuon have a photograph. The other names follow.",
   "dishSlugs": [
     "pho",
     "bun-cha",
@@ -19,9 +19,211 @@
     "bun-thang",
     "mi-van-than",
     "mien-luon",
-    "ca-phe"
+    "ca-phe",
+    "banh-mi",
+    "che",
+    "goi-cuon",
+    "mien",
+    "nom-bo-kho",
+    "bun-ca",
+    "bun-oc",
+    "lau",
+    "banh-da-tron",
+    "banh-goi",
+    "my-ga-tan",
+    "banh-duc-nong",
+    "ha-cao",
+    "pho-mai-que",
+    "nem-chua-ran",
+    "banh-khuc",
+    "ca-cuon-thit",
+    "bia-hoi",
+    "pho-cuon",
+    "com-vong",
+    "banh-com",
+    "che-com",
+    "cha-com",
+    "xoi",
+    "bun-rieu",
+    "bun-ngan",
+    "bit-tet",
+    "kem",
+    "ruou",
+    "quay"
   ],
   "sections": [
+    {
+      "id": "more-dishes",
+      "heading": "More Hanoi dishes",
+      "nav": "More dishes",
+      "paragraphs": [
+        "Vietnam Tourism and the tourism center name these dishes. Where an hour was not printed, the hour is Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Mien",
+          "nameVi": "Miến",
+          "note": "Miến is chewy glass noodle made from mung bean or sweet potato, mild and savory, topped with chicken, crab, or freshwater eel, in broth or stir-fried. Vietnam Tourism’s ten-dish list points to a mixed bowl at 6 Phùng Hưng, Hoàn Kiếm. The hour is Check on arrival.",
+          "dishSlug": "mien"
+        },
+        {
+          "name": "Nom bo kho",
+          "nameVi": "Nộm bò khô",
+          "note": "Nộm bò khô is a sweet and sour plate of green papaya, carrot, and beef jerky. One Hanoi page adds crunchy peanuts. A street-food walk adds lemon balm and fish sauce. 23 Hoàn Kiếm, the address on Vietnam Tourism’s ten-dish list. The hour is Check on arrival.",
+          "dishSlug": "nom-bo-kho"
+        },
+        {
+          "name": "Bun ca",
+          "nameVi": "Bún cá",
+          "note": "Bún cá is fish with rice noodles. Vietnam Tourism’s ten-dish list makes it a sweet and sour summer bowl of fried tilapia, Vietnamese celery, pineapple, and tomato. Vietnam Tourism’s Hanoi street-food article describes a lunch bowl of fried fish with a green vegetable it compares to morning glory, plus cilantro and dill. Vietnam Tourism’s ten-dish list points to 14 Trung Yên alley, Hàng Bạc, Hoàn Kiếm. Vietnam Tourism’s Hanoi street-food article does not name a second door. The hour is Check on arrival.",
+          "dishSlug": "bun-ca"
+        },
+        {
+          "name": "Bun oc",
+          "nameVi": "Bún ốc",
+          "note": "Bún ốc is snail rice vermicelli, one of Hanoi’s classic comfort bowls on Vietnam Tourism’s Hanoi street-food article. The bowl has rice vermicelli, and the article names beef, crab meat, and herbs in a broth of tomatoes, wine vinegar, and pepper. Vietnam Tourism’s Hanoi street-food article does not name a street. The hour is Check on arrival.",
+          "dishSlug": "bun-oc"
+        },
+        {
+          "name": "Lau",
+          "nameVi": "Lẩu",
+          "note": "Lẩu is the hot pot on Vietnam Tourism’s Hanoi street-food article: a bubbling pot you fill with fresh vegetables, meat, and seafood. Vietnam Tourism’s Hanoi street-food article does not name a street. The hour is Check on arrival.",
+          "dishSlug": "lau"
+        },
+        {
+          "name": "Banh da tron",
+          "nameVi": "Bánh đa trộn",
+          "note": "Bánh đa trộn is thick, flat rice noodles topped with sausage, fried fish cakes, tofu, peanuts, and leafy vegetables. Vietnam Tourism calls it one of Hanoi’s specialties and says thin glass noodles, miến, are another option from the same baskets. Old Quarter, from the carrying pole Vietnam Tourism’s Hanoi street-food article describes. A house number was not printed. The hour is Check on arrival.",
+          "dishSlug": "banh-da-tron"
+        },
+        {
+          "name": "Banh goi",
+          "nameVi": "Bánh gối",
+          "note": "Bánh gối is a pillow-shaped fried pastry. Vietnam Tourism’s Hanoi street-food article fills it with minced pork, black fungus, vermicelli, and a quail egg. A street-food walk fills it with pork, wood-ear mushrooms, and glass noodles, and does not mention the egg. Both articles set it in the Old Quarter walk. A house number was not printed. The hour is Check on arrival.",
+          "dishSlug": "banh-goi"
+        },
+        {
+          "name": "My ga tan",
+          "nameVi": "Mỳ gà tần",
+          "note": "Mỳ gà tần is braised chicken with egg noodles. Vietnam Tourism says the chicken, regular or the smaller black-skinned bird, is simmered in an empty drink can with herbs that include mugwort, then egg noodles go into the stew. Vietnam Tourism’s Hanoi street-food article does not name a street. The hour is Check on arrival.",
+          "dishSlug": "my-ga-tan"
+        },
+        {
+          "name": "Banh duc nong",
+          "nameVi": "Bánh đúc nóng",
+          "note": "Bánh đúc nóng is a hot steamed cake of plain rice and tapioca flour. Vietnam Tourism fills it with black fungus, meat, and fried shallots, and serves it with chilli-garlic fish sauce and herbs. Vietnam Tourism’s stadium note names a bánh đúc door at 45 Châu Long, Quán Thánh, Ba Đình. The hour is Check on arrival.",
+          "dishSlug": "banh-duc-nong"
+        },
+        {
+          "name": "Ha cao",
+          "nameVi": "Há cảo",
+          "note": "Há cảo, on Vietnam Tourism’s Hanoi street-food article, is a fried dumpling sold with bánh gối. Vietnam Tourism’s Hanoi street-food article does not name a separate street. The hour is Check on arrival.",
+          "dishSlug": "ha-cao"
+        },
+        {
+          "name": "Pho mai que",
+          "nameVi": "Phô mai que",
+          "note": "Phô mai que is a fried cheese stick. Vietnam Tourism’s Hanoi street-food article sells it with bánh gối. Vietnam Tourism’s Hanoi street-food article does not name a separate street. The hour is Check on arrival.",
+          "dishSlug": "pho-mai-que"
+        },
+        {
+          "name": "Nem chua ran",
+          "nameVi": "Nem chua rán",
+          "note": "Nem chua rán is fried fermented sausage. Vietnam Tourism’s Hanoi street-food article sells it with bánh gối. Vietnam Tourism’s Hanoi street-food article does not name a separate street. The hour is Check on arrival.",
+          "dishSlug": "nem-chua-ran"
+        },
+        {
+          "name": "Banh khuc",
+          "nameVi": "Bánh khúc",
+          "note": "Bánh khúc is a Hanoi specialty on Vietnam Tourism’s street-food walk: roasted pork and mung-bean paste layered in sticky rice with khúc leaves from the Red River, steamed in banana leaves. A sidewalk vendor on the Old Quarter walk. A house number was not printed. The hour is Check on arrival.",
+          "dishSlug": "banh-khuc"
+        },
+        {
+          "name": "Ca cuon thit",
+          "nameVi": "Cá cuộn thịt",
+          "note": "Cá cuộn thịt is a fried fish ball stuffed with pork. Vietnam Tourism’s street-food walk serves it with fresh greens, a light fish sauce, and calamansi. An Old Quarter market corner. A street name was not printed. The hour is Check on arrival.",
+          "dishSlug": "ca-cuon-thit"
+        },
+        {
+          "name": "Bia hoi",
+          "nameVi": "Bia hơi",
+          "note": "Bia hơi is Hanoi’s fresh draft beer. Vietnam Tourism says the beer is unpasteurized and drunk soon after it is made, and calls a glass as light as water. Tạ Hiện and Lương Ngọc Quyến, the beer corner the tourism pages name. The hour is Check on arrival.",
+          "dishSlug": "bia-hoi"
+        },
+        {
+          "name": "Pho cuon",
+          "nameVi": "Phở cuốn",
+          "note": "Phở cuốn is a roll wrapped in fresh rice-noodle sheets, the sheets usually cut into phở noodles, not dried rice paper. Vietnam Tourism says to look for grilled beef around Trúc Bạch. Ngũ Xã, Trúc Bạch. Vietnam Tourism’s rolls article says restaurants around the lake. The hour is Check on arrival.",
+          "dishSlug": "pho-cuon"
+        },
+        {
+          "name": "Com Vong",
+          "nameVi": "Cốm Vòng",
+          "note": "Cốm Vòng is young green rice from Vòng village in Cầu Giấy. The tourism center says the grains are gently sweet, soft, and scented with lotus, and that the traditional pairing is ripe banana. Vòng village, Cầu Giấy ward. The hour is Check on arrival.",
+          "dishSlug": "com-vong"
+        },
+        {
+          "name": "Banh com",
+          "nameVi": "Bánh cốm",
+          "note": "Bánh cốm is a sweet rice cake filled with mung-bean paste, one of the cốm dishes the tourism center names from Vòng village. Vòng village, Cầu Giấy. The hour is Check on arrival.",
+          "dishSlug": "banh-com"
+        },
+        {
+          "name": "Che com",
+          "nameVi": "Chè cốm",
+          "note": "Chè cốm is a sweet soup made from young green rice. The tourism center names it with the other dishes from cốm Vòng. Vòng village, Cầu Giấy. The hour is Check on arrival.",
+          "dishSlug": "che-com"
+        },
+        {
+          "name": "Cha com",
+          "nameVi": "Chả cốm",
+          "note": "Chả cốm is a pork patty made with young green rice. The tourism center names it among the dishes from cốm Vòng. Vòng village, Cầu Giấy. The hour is Check on arrival.",
+          "dishSlug": "cha-com"
+        },
+        {
+          "name": "Xoi",
+          "nameVi": "Xôi",
+          "note": "Xôi is dense sticky rice, savoury or sweet. Vietnam Tourism calls savoury xôi mặn an inexpensive breakfast and says there are more than 20 sweet kinds. The Hanoi door on that list is Xôi Yến. Xôi Yến, 35B Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm. The hour is Check on arrival.",
+          "dishSlug": "xoi"
+        },
+        {
+          "name": "Bun rieu",
+          "nameVi": "Bún riêu",
+          "note": "Bún riêu is a crab and tomato noodle soup. Vietnam Tourism describes slippery rice noodles, fresh crab, tofu, and stewed tomatoes in an acidic broth, with clusters of minced crab, ground pork, and egg. Bún Riêu Cua Thanh Hồng, 42 Hòa Mã, Ngô Thì Nhậm, Hai Bà Trưng. The hour is Check on arrival.",
+          "dishSlug": "bun-rieu"
+        },
+        {
+          "name": "Bun ngan",
+          "nameVi": "Bún ngan",
+          "note": "Bún ngan is a noodle soup of bamboo shoots and duck meat. Vietnam Tourism names it among the Vietnamese classics around Quần Ngựa in Ba Đình. The same note names Hạnh Bún Miến Ngan at 63 Cửa Bắc, Quán Thánh, Ba Đình. The hour is Check on arrival.",
+          "dishSlug": "bun-ngan"
+        },
+        {
+          "name": "Bit tet",
+          "nameVi": "Bít tết",
+          "note": "Bít tết is a Vietnamese steak in the French style. Vietnam Tourism’s Hanoi interview places it on Hòe Nhai. Hòe Nhai. The hour is Check on arrival.",
+          "dishSlug": "bit-tet"
+        },
+        {
+          "name": "Ice cream",
+          "nameVi": "Kem",
+          "note": "An ice-cream cone on Tràng Tiền is the evening walk around Hoàn Kiếm. Vietnam Tourism calls that cone an essential Hanoi habit. Tràng Tiền. Vietnam Tourism’s Old Quarter article puts the walk in the evening. The clock is Check on arrival.",
+          "dishSlug": "kem"
+        },
+        {
+          "name": "Rice wine",
+          "nameVi": "Rượu",
+          "note": "Rượu on Vietnam Tourism’s Hanoi weekend is a spirit made from sticky rice and flavoured with local fruits. A street-food article on the same site also describes rice wine with passionfruit and apple. Highway 4, the door on Vietnam Tourism’s weekend itinerary, which says the bar has four locations. Vietnam Tourism’s street-food walk does not name its bistro. The hour is Check on arrival.",
+          "dishSlug": "ruou"
+        },
+        {
+          "name": "Quay",
+          "nameVi": "Quẩy",
+          "note": "Quẩy is the fried breadstick Vietnam Tourism says Hanoi eats with most noodles. Dip it in the broth. With the noodle bowls. The miến door on Vietnam Tourism’s ten-dish list is 6 Phùng Hưng, Hoàn Kiếm. The hour is Check on arrival.",
+          "dishSlug": "quay"
+        }
+      ]
+    },
     {
       "id": "international",
       "heading": "International dining",
@@ -47,13 +249,6 @@
           "nameVi": "Hibana by Koki",
           "address": "Capella Hanoi",
           "note": "A 14-seat teppanyaki counter in the basement of Capella Hanoi. Chef Hiroshi Yamaguchi. Vietnam Tourism names abalone, spiny lobster, sea urchin, Yaeyama beef, and Hokkaido hairy crab among the ingredients. One MICHELIN Star, retained in the 2025 selection. The hour is Check on arrival.",
-          "group": "international"
-        },
-        {
-          "name": "Bit tet on Hoe Nhai",
-          "nameVi": "Bít tết",
-          "address": "Hòe Nhai",
-          "note": "A Vietnamese steak in the French style, on Hòe Nhai. The hour is Check on arrival.",
           "group": "international"
         }
       ],
@@ -235,33 +430,6 @@
           "nameVi": "Ốc Di Tú",
           "note": "On the 2025 MICHELIN Selected list. The city tour describes prawns, clams, and cockles in a plain room, and names melo melo snails with scallion and fried garlic, and Venus clams with lemongrass, chili, and pineapple. The hour is Check on arrival.",
           "group": "local"
-        },
-        {
-          "name": "Mien",
-          "nameVi": "Miến",
-          "address": "6 Phùng Hưng",
-          "note": "Miến is chewy glass noodle from mung bean or sweet potato, mild and savory, topped with chicken, crab, or freshwater eel, in broth or stir-fried. Quẩy goes in the broth. The dish list points to 6 Phùng Hưng for a mixed bowl. The hour is Check on arrival.",
-          "group": "local"
-        },
-        {
-          "name": "Nom bo kho",
-          "nameVi": "Nộm bò khô",
-          "address": "23 Hoàn Kiếm",
-          "note": "Nộm bò khô is an afternoon plate: sweet and sour, with the crunch of green papaya and carrot and the chew of beef jerky. Ask for spleen and tripe if you want them. The dish list points to 23 Hoàn Kiếm. The hour is Check on arrival.",
-          "group": "local"
-        },
-        {
-          "name": "Bun ca",
-          "nameVi": "Bún cá",
-          "address": "14 Trung Yên alley, Hàng Bạc",
-          "note": "Bun ca is a summer bowl, sweet and sour, with rice noodles, Vietnamese celery, and crisp fried tilapia in a broth of pineapple and tomato. Herbs and pickled bamboo shoots come beside it. The dish list points to 14 Trung Yên alley, Hàng Bạc. The hour is Check on arrival.",
-          "group": "local"
-        },
-        {
-          "name": "Che Bon Mua",
-          "nameVi": "Chè Bốn Mùa",
-          "note": "Chè Bốn Mùa is lotus seed and black jelly. The hour is Check on arrival.",
-          "group": "local"
         }
       ],
       "role": "casual"
@@ -271,7 +439,7 @@
       "heading": "Fine dining",
       "nav": "Fine dining",
       "paragraphs": [
-        "Hanoi’s one-star rooms in the 2025 MICHELIN selection are Gia, Hibana by Koki, and Tầm Vị. Lamai Garden received the city’s first Green Star the same year. Spices Garden is the Metropole dining room Vietnam Tourism files with the foreign kitchens. No prices or hours were printed on those pages. Check on arrival."
+        "Hanoi’s one-star rooms in the 2025 MICHELIN selection are Gia, Hibana by Koki, and Tầm Vị. Lamai Garden received the city’s first Green Star the same year. Spices Garden is the Metropole dining room Vietnam Tourism files with the foreign kitchens. Vietnam Tourism’s weekend itinerary prints a buffet lunch there at 780,000 VND. No hour was printed for these rooms, and the other rooms have no price printed. Check on arrival."
       ],
       "spots": [
         {
@@ -296,7 +464,7 @@
           "name": "Spices Garden",
           "nameVi": "Spices Garden",
           "address": "Sofitel Legend Metropole Hanoi",
-          "note": "The Metropole dining room. Vietnam Tourism says bun cha, pho, and cha ca are cooked with European technique and served on white tablecloths. The hour is Check on arrival.",
+          "note": "The Metropole dining room. Vietnam Tourism says bun cha, pho, and cha ca are cooked with European technique and served on white tablecloths. The weekend itinerary prints a buffet lunch at 780,000 VND. The hour is Check on arrival.",
           "group": "fine"
         }
       ],
@@ -324,26 +492,19 @@
       "heading": "Breakfast",
       "nav": "Breakfast",
       "paragraphs": [
-        "Breakfast is pho in the Hoàn Kiếm lanes, banh cuon across the city and at Bánh Cuốn Bà Xuân, and bun thang. Phở cuốn on Ngũ Xã is the other morning roll. Bun cha is almost only lunch. The morning clock is Check on arrival."
+        "Breakfast is pho in the Hoàn Kiếm lanes, banh cuon across the city and at Bánh Cuốn Bà Xuân, bun thang, and xôi mặn, the savoury sticky rice Vietnam Tourism calls an inexpensive breakfast. Phở cuốn is the grilled-beef roll on Ngũ Xã, by Trúc Bạch, and the weekend itinerary places that stop in the evening. Bun cha is almost only lunch. The morning clock is Check on arrival."
       ],
       "dishSlugs": [
         "pho",
         "banh-cuon",
-        "bun-thang"
+        "bun-thang",
+        "xoi"
       ],
       "role": "breakfast",
-      "spots": [
-        {
-          "name": "Pho cuon",
-          "nameVi": "Phở cuốn",
-          "address": "Ngũ Xã, Trúc Bạch",
-          "note": "Phở cuốn is the morning roll on Ngũ Xã, by Trúc Bạch. The hour is Check on arrival.",
-          "group": "local"
-        }
-      ]
+      "spots": []
     }
   ],
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "seoTitle": "Hanoi food — pho, bun cha, cafes, and fine dining",
-  "seoDescription": "Morning pho in the Hoan Kiem lanes, bun cha at lunch around Cua Dong, egg coffee in the Nguyen Huu Huan alley, and the rooms Michelin and Vietnam Tourism name."
+  "seoDescription": "Morning pho in the Hoan Kiem lanes, bun cha at lunch around Cua Dong, egg coffee in the Nguyen Huu Huan alley, and the other Hanoi dishes Vietnam Tourism names."
 }

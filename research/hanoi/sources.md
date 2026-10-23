@@ -194,6 +194,42 @@ Accessed 22 Oct 2026 unless noted.
 - Accessed: 22 Oct 2026
 - Supports: The 2025 Hanoi star, Bib Gourmand, and Selected name lists. Rooms without a description on S27 or S28 were not added as entries.
 
+### S34
+- URL: https://vietnam.travel/things-to-do/ha-noi-food-guide-best-street-food-dishes-sample
+- Publisher: Vietnam Tourism
+- Accessed: 23 Oct 2026
+- Supports: Bún ốc, lẩu, bún cá (a second description), miến xào lươn and the related bowls, bánh đa trộn, bánh tôm extras, bánh gối, há cảo, phô mai que, nem chua rán, mỳ gà tần, bánh đúc nóng, chè thập cẩm, and bánh mì named with phở bò and bún chả. No Hanoi bánh mì filling.
+
+### S35
+- URL: https://www.vietnam.travel/things-to-do/exploring-hanoi-street-food-sens-asia
+- Publisher: Vietnam Tourism
+- Accessed: 23 Oct 2026
+- Supports: Bánh khúc, cá cuộn thịt, a second bánh gối filling, bia hơi as unpasteurized fresh beer, and rice wine with passionfruit and apple. Nộm details that add lemon balm.
+
+### S36
+- URL: https://nongthon.vietnamtourism.gov.vn/vong-village-where-the-essence-of-autumn-lives-on/?lang=en
+- Publisher: Tourism Information Technology Center, Vietnam National Authority of Tourism
+- Accessed: 23 Oct 2026
+- Supports: Cốm Vòng, bánh cốm, chè cốm, and chả cốm. Ripe banana with cốm. Autumn visits. The “several centuries” line is the page’s “believed” claim.
+
+### S37
+- URL: https://www.vietnam.travel/vi/things-to-do/10-delicious-vietnamese-rolls
+- Publisher: Vietnam Tourism
+- Accessed: 23 Oct 2026
+- Supports: Phở cuốn at Trúc Bạch: fresh rice-noodle sheets, grilled beef, fish sauce with chili and calamansi. The English text matches the Vietnamese page’s phở cuốn section.
+
+### S38
+- URL: https://vietnam.travel/things-to-do/21-must-try-vietnamese-dishes
+- Publisher: Vietnam Tourism
+- Accessed: 23 Oct 2026
+- Supports: Xôi at Xôi Yến, bún riêu at 42 Hòa Mã, gỏi cuốn at 18 Phan Bội Châu, chè at 95 Hàng Bạc, bún chả at 24 Lê Văn Hưu, chả cá at 19–21–31 Đường Thành, bánh cuốn at 147 Triệu Việt Vương. Bánh xèo’s door on this page is Ho Chi Minh City.
+
+### S39
+- URL: https://www.vietnam.travel/things-to-do/must-try-food-in-hanoi
+- Publisher: Vietnam Tourism
+- Accessed: 23 Oct 2026
+- Supports: Bún ngan as bamboo shoots and duck, and the bánh đúc door at 45 Châu Long. Restaurant rows on this page that are not a described dish were not added.
+
 ### S24
 - URL: https://metrohanoi.vn/ha-noi-metro-ap-dung-bieu-do-chay-tau-voi-gio-cao-diem-moi-tu-ngay-9-2-2026-tren-02-tuyen-dsdt-2a-cat-linh-ha-dong-va-3-1-nhon-ga-ha-noi/
 - Publisher: Hanoi Metro
