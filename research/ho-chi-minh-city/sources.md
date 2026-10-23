@@ -153,3 +153,75 @@ A fact with a source id was opened that day and is stamped verified. A line mark
 - Publisher: Ho Chi Minh City Tourism Promotion Center
 - Accessed: 23 Oct 2026
 - Supports: Bún riêu at Ben Thanh: crab meat, pork blood curd, and tofu in a rich broth. Bánh bèo Bến Thành with a special sauce, taste called savory, and a printed range of 25,000 to 50,000 VND depending on the type. That range is a market figure, not the city price. Bánh canh cua at stall 1301, fresh toppings, a hearty broth. Chè Bé, stall 1154–1130, West Side, Gate 7, Ben Thanh, Phan Chu Trinh, District 1, over 40 years, southern-style chè. The cups are not named. Ben Thanh night market starts at 7:00 PM, over 100 stalls along Phan Chu Trinh and Phan Bội Châu, seafood and grilled dishes with neither one named, more than 1,000 visitors an evening. A closing hour was not printed. The market-history paragraphs and the dress note on this page were not copied into the food guide.
+
+### S26
+- URL: https://www.bitexcofinancialtower.com/?page_id=1434
+- Publisher: Bitexco Financial Tower, Saigon Skydeck
+- Accessed: 23 Oct 2026
+- Supports: Hours 9:30–21:30 every day. Last tickets and entry 45 minutes before closing. Adult 240,000 VND. Child 4–12, senior over 65, and disabled visitor 160,000 VND. Under 4 free with an adult, limited number. No food or drink on the deck. One entry. Prices and hours may change without prior notice.
+
+### S27
+- URL: https://www.bitexcofinancialtower.com/?page_id=468
+- Publisher: Bitexco Financial Tower
+- Accessed: 23 Oct 2026
+- Supports: Skydeck on floor 49. Entrance 02 Hai Triều, Saigon Ward. Height 178 m. The “highest viewing point” and “fastest elevators” lines were not used.
+
+### S28
+- URL: https://www.baotangmythuattphcm.com.vn/
+- Publisher: Bảo tàng Mỹ thuật Thành phố Hồ Chí Minh
+- Accessed: 23 Oct 2026
+- Supports: 8:00–17:00 Monday–Sunday. Address 97 Phó Đức Chính, Phường Bến Thành. Fee 60,000 đồng a visit.
+
+### S29
+- URL: https://www.baotangmythuattphcm.com.vn/gio-mo-cua
+- Publisher: Bảo tàng Mỹ thuật Thành phố Hồ Chí Minh
+- Accessed: 23 Oct 2026
+- Supports: 08:00–17:00 Monday–Sunday. Visitor rules: phones without flash, no food or drink in the galleries, bulky bags in lockers. The fee figure is not in this page’s text.
+
+### S30
+- URL: https://www.baotangmythuattphcm.com.vn/dat-ve
+- Publisher: Bảo tàng Mỹ thuật Thành phố Hồ Chí Minh
+- Accessed: 23 Oct 2026
+- Supports: Adult 30,000 VND. Pupil or student 15,000 VND. Free under 6 and over 60. Address 97A Phó Đức Chính, Phường Nguyễn Thái Bình, Quận 1. Hours 8:00–17:00 Monday–Sunday. Conflicts with S28. Both stay.
+
+### S31
+- URL: https://www.baotanglichsutphcm.com.vn/trang-chu
+- Publisher: Bảo tàng Lịch sử Thành phố Hồ Chí Minh
+- Accessed: 23 Oct 2026
+- Supports: Tuesday–Sunday 8:00–11:30 and 13:00–17:00. Monday closed. Address 2 Nguyễn Bỉnh Khiêm, Phường Bến Nghé, Quận 1.
+
+### S32
+- URL: https://www.baotanglichsutphcm.com.vn/ban-tin/thong-bao-thay-doi-muc-phi-tham-quan-bao-tang
+- Publisher: Bảo tàng Lịch sử Thành phố Hồ Chí Minh
+- Accessed: 23 Oct 2026
+- Supports: Notice dated 17 Sep 2026. From 1 Oct 2026, 60,000 đồng a visit, domestic and international, under Resolution 29/2026/NQ-HĐND of 27 Aug 2026. Free and half-price categories as printed. The Fine Arts Museum’s own homepage (S28) prints 60,000 đồng. The gazette PDF was not opened.
+
+### S33
+- URL: https://saigonwaterbus.com/ben-tau-bach-dang
+- Publisher: Saigon WaterBus
+- Accessed: 23 Oct 2026
+- Supports: Station 10B Tôn Đức Thắng, Phường Bến Nghé, Quận 1. Park about 100 m. Nguyễn Huệ about 500 m. Opera about 600 m at 07 Công trường Lam Sơn. Vincom Center Đồng Khởi about 750 m at 45A Lý Tự Trọng and 72 Lê Thánh Tôn. Fine Arts Museum about 1.8 km. A fare was not on this page. The Gothic label on the opera was not used.
+
+### S34
+- URL: https://www.baotanglichsutphcm.com.vn/chinh-sach
+- Publisher: Bảo tàng Lịch sử Thành phố Hồ Chí Minh
+- Accessed: 23 Oct 2026
+- Supports: Policy page still prints 30,000 đồng a visit and an older free list (children under 6, especially severe disabilities, poor households). Conflicts with S32. Both stay.
+
+### S35
+- URL: https://saigonzoo.vn/p/thoi-gian-mo-cua-hp14.html
+- Publisher: Thảo Cầm Viên Sài Gòn
+- Accessed: 23 Oct 2026
+- Supports: Open every day. Tickets 07:00–17:30. Visiting 07:00–18:30. Address 2 Nguyễn Bỉnh Khiêm, Phường Sài Gòn. Butterfly garden 08:00–16:30. Flamingo garden hours and a Monday–Friday disinfection closure are both on the page.
+
+### S36
+- URL: https://saigonzoo.vn/mot-ngay-tai-thao-cam-vien-56.html
+- Publisher: Thảo Cầm Viên Sài Gòn
+- Accessed: 23 Oct 2026
+- Supports: A second clock, 07:00–18:00, tickets stop 17:30. Adult from 1.3 m 60,000 đồng. Child from 1 m to under 1.3 m 40,000 đồng. Under 1 m free with a parent. Conflicts with S35 on the closing hour. Both stay.
+
+### S37
+- URL: https://saigonzoo.vn/ve-tham-quan/ve-cong-nguoi-lon-va-tre-em-vtq1.html
+- Publisher: Thảo Cầm Viên Sài Gòn
+- Accessed: 23 Oct 2026
+- Supports: Heading: adult from 1.3 m 60,000 đồng, child from 1 m to under 1.3 m 40,000 đồng, under 1 m free with a parent. One product line repeats the 1.3 m band on the 40,000 đồng row. Both wordings stay. Buy at the gate or saigonzoo.vn. Online ticket valid 30 days, no refund.

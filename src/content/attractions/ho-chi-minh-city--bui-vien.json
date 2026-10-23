@@ -1,0 +1,61 @@
+{
+  "slug": "bui-vien",
+  "placeSlug": "ho-chi-minh-city",
+  "name": "Bui Vien Walking Street",
+  "nameVi": "Bùi Viện",
+  "kicker": "The night street at Phạm Ngũ Lão",
+  "summary": "Night street of about 850 metres: walk the bars, stalls, and crowd where Bùi Viện crosses Phạm Ngũ Lão. It was branded the city’s second official walking street in 2017, with vehicles banned. Dinner through the night is the hour. Bánh mì, phở bò, and seafood are the plates named on the street.",
+  "dots": 4,
+  "timeNeeded": "Dinner through the night. A closing hour was not printed.",
+  "fee": "Check on arrival. No fee for the street was printed.",
+  "getThere": "Walk if you are on Phạm Ngũ Lão. Otherwise a short ride from the cathedral square.",
+  "district": "Phạm Ngũ Lão",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Bùi Viện at night, the crowd between the signs and the stalls",
+  "notice": {
+    "title": "This is the night street",
+    "body": "Nguyễn Huệ is the sundown paving from City Hall to the river. Bùi Viện is the later street, about 850 metres, crossing Đề Thám, Phạm Ngũ Lão, and Đỗ Quang Đẩu."
+  },
+  "body": [
+    "Bùi Viện runs about 850 metres through the western quarter in District 1, crossing Đề Thám, Phạm Ngũ Lão, and Đỗ Quang Đẩu. It was branded the city’s second official walking street in 2017, and vehicles were banned. The hour is dinner through the night, and the quarter is known as a street that keeps going.",
+    "Bars, cafes, live music, and food stalls fill the walk. The plates named on it are bánh mì, phở bò, and seafood, plus barbecue. The photograph is the crowd in the roadway after dark. The second frame is the same street with the tables out under the signs. Nguyễn Huệ is the other walking street, earlier in the evening."
+  ],
+  "figures": [
+    {
+      "id": "ho-chi-minh-city-bui-vien-2",
+      "caption": "Tables along Bùi Viện, with the street still full after dark",
+      "alt": "Outdoor tables and neon signs on Bui Vien at night"
+    }
+  ],
+  "gettingThere": [
+    "If your room is on Phạm Ngũ Lão, you walk onto the street. From the cathedral square or Nguyễn Huệ it is a short ride. Minutes were not printed."
+  ],
+  "legs": [
+    {
+      "heading": "From Phạm Ngũ Lão",
+      "body": "Walk. The street crosses Phạm Ngũ Lão, Đề Thám, and Đỗ Quang Đẩu."
+    },
+    {
+      "heading": "From Nguyễn Huệ",
+      "body": "A short ride west. The minutes were not printed. Nguyễn Huệ is the earlier walk. This one starts after dinner."
+    }
+  ],
+  "hours": "After dinner through the night. A closing hour was not printed.",
+  "closed": "A weekly closing day was not printed.",
+  "admissionNote": "No fee for the street was printed. Food and drinks are what you buy at the tables. Check on arrival.",
+  "links": [
+    {
+      "label": "The western quarter",
+      "url": "https://visithcmc.vn/saigons-western-quarter-lively-with-a-street-that-never-sleeps/",
+      "note": "Visit HCMC"
+    },
+    {
+      "label": "Cuisine and the walking streets",
+      "url": "https://vietnam.travel/things-to-do/ho-chi-minh-city-cuisine-street-eats-fine-dining",
+      "note": "Vietnam Tourism, the 2017 walking-street line"
+    }
+  ],
+  "interests": [
+    "food"
+  ]
+}

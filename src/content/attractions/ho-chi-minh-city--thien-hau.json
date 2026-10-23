@@ -4,7 +4,7 @@
   "name": "Thien Hau Temple",
   "nameVi": "Miếu Thiên Hậu",
   "kicker": "The sea goddess hall in Chợ Lớn",
-  "summary": "Thiên Hậu is the temple the Chợ Lớn walk is for. Visit HCMC says the Cantonese community from Tuệ Thành county built it in 1760, and that the roof ceramics are from the Bửu Nguyên and Đồng Hòa kilns, year Mậu Thân 1908. The city itinerary and the southern page also call it Thiên Hậu Pagoda, the goddess of the sea. A street number was not printed. A fee was not printed.",
+  "summary": "Sea-goddess temple in Chợ Lớn: enter the 1760 hall for the ceramic roof and the red lanterns. The Cantonese community from Tuệ Thành county built Hội quán Tuệ Thành. Roof ceramics from the Bửu Nguyên and Đồng Hòa kilns date to Mậu Thân 1908. A Sunday morning on the city itinerary ends here after Tao Đàn.",
   "dots": 4,
   "timeNeeded": "Check on arrival.",
   "fee": "Check on arrival. No fee was printed.",
@@ -13,12 +13,12 @@
   "verified": "22 Oct 2026",
   "heroCaption": "The street front, the ceramic roof, and the red lanterns",
   "notice": {
-    "title": "It is not Ngọc Hoàng or Giác Lâm",
-    "body": "Those are different halls, in different wards. Chùa Quan Âm, Hội quán Ôn Lăng, is the second hall on the same Visit HCMC page. No address for Quan Âm was printed, so it is not a separate stop."
+    "title": "A different hall from Ngọc Hoàng",
+    "body": "Ngọc Hoàng is on Mai Thị Lựu. Giác Lâm is in Phường Bảy Hiền. Chùa Quan Âm, Hội quán Ôn Lăng, is the second hall on the same Chợ Lớn page, and no street number for it was printed."
   },
   "body": [
-    "Visit HCMC also calls the building Hội quán Tuệ Thành. Visit HCMC says the incense set inside is the largest of the city’s temples. The feast days sit with the other events. An ordinary-day hour was not printed. District 5 is the city itinerary’s label. Chợ Lớn is the southern page’s label. Both stay.",
-    "The photograph is the street front: the ceramic roof, the gate, and the lanterns. The second photograph is the courtyard gate. The city itinerary puts the temple at the end of a Sunday that began at Tao Đàn and passed Chợ Tân Định. Check on arrival."
+    "The building is also Hội quán Tuệ Thành, the hall of Thiên Hậu Thánh Mẫu, the goddess of the sea. The incense set inside is described as the largest of the city’s temples. District 5 is the city itinerary’s label. Chợ Lớn is the southern page’s label. Both stay. An ordinary-day hour was not printed. The lunar feast days sit with the other events.",
+    "The photograph is the street front: the ceramic roof, the gate, and the lanterns. The second photograph is the courtyard gate. A Sunday on the city itinerary starts at Tao Đàn, passes Chợ Tân Định, and ends here."
   ],
   "figures": [
     {
@@ -50,5 +50,7 @@
       "note": "Visit HCMC"
     }
   ],
-  "interests": ["pagodas"]
+  "interests": [
+    "pagodas"
+  ]
 }

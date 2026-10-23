@@ -4,7 +4,7 @@
   "name": "Opera House",
   "nameVi": "Nhà hát Thành phố",
   "kicker": "The facade on Đồng Khởi",
-  "summary": "The opera house is the facade you pass walking Đồng Khởi from the cathedral. The city itinerary calls it the Saigon Opera House and says Lune Production stages circus and cultural shows several nights a week, about an hour. A street number was not printed. No daytime interior hour was printed. The night is a ticket, and the nights were not listed.",
+  "summary": "Opera facade on Đồng Khởi: see the arch by day, or a show of about an hour on a ticketed night. The building is at 07 Công trường Lam Sơn, about 600 metres from Bạch Đằng. Nhà hát Thành phố is a Line 1 station. Lune Production stages circus and cultural shows several nights a week.",
   "dots": 3,
   "timeNeeded": "The facade is a stop on the walk. The show is about an hour on the city itinerary.",
   "fee": "Check on arrival. No ticket price was printed.",
@@ -13,12 +13,12 @@
   "verified": "22 Oct 2026",
   "heroCaption": "The cream facade, the arch, and the street in front",
   "notice": {
-    "title": "The door is not a museum hour",
-    "body": "No daytime interior hour was printed. Come for the facade by day. A night show needs a ticket, and the nights were not listed."
+    "title": "The daytime visit is the facade",
+    "body": "A daytime interior hour was not printed. A night show needs a ticket, and the nights were not listed."
   },
   "body": [
-    "The city itinerary and the southern page put the building along Đồng Khởi from the cathedral. Visit HCMC prints about 3.1 km from the Jade Emperor Pagoda. A street number is Check on arrival.",
-    "By day the visit is the facade. At night the city itinerary says Lune Production stages circus and cultural shows several nights a week, about an hour. The station Nhà hát Thành phố is one of the three underground stations on Line 1, with Bến Thành and Ba Son, in the December 2024 opening article. The second photograph is the building from the side, in a different hour."
+    "The facade sits on Đồng Khởi, on the walk from the cathedral. The waterbus station page gives the address as 07 Công trường Lam Sơn, Bến Nghé, and about 600 metres from Bạch Đằng. From the Jade Emperor Pagoda the distance is about 3.1 km. By day the visit is the arch and the street.",
+    "At night Lune Production stages circus and cultural shows several nights a week, about an hour. The station Nhà hát Thành phố is one of the three underground stations on Line 1, with Bến Thành and Ba Son. The second photograph is the building from the side."
   ],
   "figures": [
     {
@@ -28,12 +28,16 @@
     }
   ],
   "gettingThere": [
-    "Walk Đồng Khởi from the cathedral. From the Jade Emperor Pagoda, Visit HCMC prints about 3.1 km. Check on arrival."
+    "Walk Đồng Khởi from the cathedral. The waterbus station page places the house at 07 Công trường Lam Sơn, about 600 metres from Bạch Đằng. From the Jade Emperor Pagoda the distance is about 3.1 km."
   ],
   "legs": [
     {
       "heading": "From the cathedral",
-      "body": "Walk Đồng Khởi. Check on arrival."
+      "body": "Walk Đồng Khởi. The minutes on foot were not printed."
+    },
+    {
+      "heading": "From Bạch Đằng",
+      "body": "About 600 metres, on the waterbus station page, to 07 Công trường Lam Sơn."
     },
     {
       "heading": "By metro",
@@ -50,5 +54,7 @@
       "note": "Vietnam Tourism, the show line"
     }
   ],
-  "interests": ["oldTowns"]
+  "interests": [
+    "oldTowns"
+  ]
 }

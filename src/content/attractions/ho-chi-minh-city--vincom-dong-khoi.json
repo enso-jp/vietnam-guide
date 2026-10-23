@@ -3,11 +3,55 @@
   "placeSlug": "ho-chi-minh-city",
   "name": "Vincom Center Dong Khoi",
   "nameVi": "Vincom Center",
-  "summary": "Visit HCMC names Vincom Center with Saigon Centre–Takashimaya as a place to shop. A street number was not on that sentence. The photograph shows the signs for Lê Thánh Tôn and Đồng Khởi. Hours and any door fee were not printed.",
+  "summary": "Shopping tower at Lê Thánh Tôn and Đồng Khởi: shop the mall on the walk from the cathedral toward the river. The building is at 72 Lê Thánh Tôn and 45A Lý Tự Trọng, about 750 metres from Bạch Đằng. The welcome page pairs it with Saigon Centre–Takashimaya.",
   "dots": 2,
   "timeNeeded": "Check on arrival.",
   "fee": "Check on arrival. No door fee was printed.",
-  "getThere": "On the Đồng Khởi walk, if this corner is the building the welcome page means.",
-  "district": "Đồng Khởi and Lê Thánh Tôn",
-  "interests": ["markets"]
+  "getThere": "On the Đồng Khởi walk, at 72 Lê Thánh Tôn.",
+  "district": "Đồng Khởi",
+  "interests": [
+    "markets"
+  ],
+  "kicker": "The mall at Lê Thánh Tôn",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The glass tower and the VINCOM name, at Lê Thánh Tôn and Đồng Khởi",
+  "body": [
+    "Vincom Center is the shopping tower the welcome page names with Saigon Centre–Takashimaya. The waterbus station page places it at 72 Lê Thánh Tôn and 45A Lý Tự Trọng, Phường Bến Nghé, about 750 metres from Bạch Đằng. The photograph is that corner: the glass tower, the VINCOM letters, and the street signs for Lê Thánh Tôn and Đồng Khởi.",
+    "The second photograph is the same tower from across the junction, with the cantilevered roof against the sky. A shop-hour and a door fee were not printed. The visit is the mall on the walk between the cathedral and the river."
+  ],
+  "figures": [
+    {
+      "id": "ho-chi-minh-city-vincom-dong-khoi-2",
+      "caption": "The tower from across the junction, with the roof overhang",
+      "alt": "Vincom Center tower seen across the street in Ho Chi Minh City"
+    }
+  ],
+  "gettingThere": [
+    "Walk Đồng Khởi to the corner of Lê Thánh Tôn. The waterbus station page prints 72 Lê Thánh Tôn and 45A Lý Tự Trọng, about 750 metres from Bạch Đằng."
+  ],
+  "legs": [
+    {
+      "heading": "From the cathedral",
+      "body": "Walk Đồng Khởi to Lê Thánh Tôn. The minutes were not printed."
+    },
+    {
+      "heading": "From Bạch Đằng",
+      "body": "About 750 metres, on the waterbus station page."
+    }
+  ],
+  "hours": "Check on arrival. No shop hours were printed.",
+  "closed": "A weekly closing day was not printed.",
+  "admissionNote": "No door fee was printed. Check on arrival.",
+  "links": [
+    {
+      "label": "Welcome to Ho Chi Minh City",
+      "url": "https://visithcmc.vn/welcome-to-vibrant-ho-chi-minh-city/",
+      "note": "Visit HCMC, the shopping line"
+    },
+    {
+      "label": "Bach Dang station distances",
+      "url": "https://saigonwaterbus.com/ben-tau-bach-dang",
+      "note": "72 Lê Thánh Tôn and 45A Lý Tự Trọng"
+    }
+  ]
 }

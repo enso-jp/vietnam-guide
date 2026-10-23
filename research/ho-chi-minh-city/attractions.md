@@ -520,3 +520,13 @@ Districts that deserve their own page:
 - Suggested slug: none. Do not make a “quiet hour” card.
 - Photo must show: Nothing, until a source prints an hour. Unpublished: no licensed photo of an empty center at a named hour.
 - Sources: S10, S11, S15
+
+## Addendum — 23 Oct 2026
+
+Published this pass, with a licensed frame opened the same day. Per-sight notes are in `research/ho-chi-minh-city/attractions/`.
+
+- `bitexco`, `landmark-81`, `bui-vien`, `fine-arts`, `history-museum`, `saigon-zoo`, `bach-dang`, `tan-dinh-church`.
+- The 22 Oct lines “unpublished: no licensed photo” for Bitexco, Bùi Viện, Tân Định church, the Fine Arts Museum, and Bạch Đằng are superseded. Giác Lâm, the City Hall facade, Đồng Khởi as a walking street, FITO, Suối Tiên, Ba Son Bridge, Tao Đàn, and Turtle Lake stay unpublished: no licensed photo of that subject.
+- Nguyễn Huệ hero replaced. The daylight frame (half sky, construction barriers) moved to the second photo. The new hero is the night paving, File:Nguyen Hue Pedestrian Boulevard (37163950285).jpg, Terrazzo, CC BY 2.0. The living-statue frame was removed because the performers, not the street, filled the foreground.
+- Vincom Center Đồng Khởi already had a hero file. A second frame was added: File:Ho Chi Minh City, Vincom Center, 2020-01 CN-02.jpg, Steffen Schmitz, CC BY-SA 4.0.
+- Landmark 81 deck price: the Vincom store URL did not return a tariff, and landmark81skyview.com was a gambling page. Fee stays Check on arrival. No height was printed.

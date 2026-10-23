@@ -1,0 +1,61 @@
+{
+  "slug": "saigon-zoo",
+  "placeSlug": "ho-chi-minh-city",
+  "name": "Saigon Zoo and Botanical Gardens",
+  "nameVi": "Thảo Cầm Viên",
+  "kicker": "The lake and gardens at Nguyễn Bỉnh Khiêm",
+  "summary": "City zoo and gardens at 2 Nguyễn Bỉnh Khiêm: walk the lake and the lawns from 07:00, tickets until 17:30. A visitor 1.3 m and over pays 60,000 đồng. The gate page prints closing at 18:30, and a day-in-the-zoo article prints 18:00. The history museum shares the street number.",
+  "dots": 4,
+  "timeNeeded": "Check on arrival.",
+  "fee": "60,000 đồng from 1.3 m",
+  "getThere": "2 Nguyễn Bỉnh Khiêm, beside the History Museum.",
+  "district": "Nguyễn Bỉnh Khiêm",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The lake, the fountain, and the lawns inside the gardens",
+  "notice": {
+    "title": "Buy the ticket from the zoo",
+    "body": "Tickets are sold at the gate and on saigonzoo.vn. The zoo does not sort out problems from other sellers. An online ticket lasts 30 days from the day it is issued, and a paid online ticket is not refunded."
+  },
+  "body": [
+    "Thảo Cầm Viên is at 2 Nguyễn Bỉnh Khiêm, Phường Sài Gòn. The History Museum prints the same street number with Phường Bến Nghé. The gate is open every day. Ticket sales run 07:00–17:30. The hours page prints visiting until 18:30. A day-in-the-zoo article prints 07:00–18:00, with tickets stopping at 17:30. Both closing times stay.",
+    "A visitor 1.3 m and over pays 60,000 đồng. The heading on the ticket page prices a child from 1 m to under 1.3 m at 40,000 đồng. One product line on that page repeats the 1.3 m adult band on the 40,000 đồng row. Both wordings stay. A child under 1 m is free with a parent. The butterfly garden is 08:00–16:30. The flamingo garden prints Tuesday–Thursday and weekend hours, and the same page also says Monday to Friday is closed for disinfection. Read that board. The photograph is the lake. The second frame is the lawn, the elephant statue, and the trees."
+  ],
+  "figures": [
+    {
+      "id": "ho-chi-minh-city-saigon-zoo-2",
+      "caption": "The lawn and the elephant statue under the trees",
+      "alt": "Gardens and an elephant statue at Saigon Zoo"
+    }
+  ],
+  "gettingThere": [
+    "The gate is at 2 Nguyễn Bỉnh Khiêm, Phường Sài Gòn, beside the History Museum. From the cathedral square it is a ride. Minutes were not printed."
+  ],
+  "legs": [
+    {
+      "heading": "From the cathedral square",
+      "body": "A ride to 2 Nguyễn Bỉnh Khiêm. Check the minutes on arrival."
+    },
+    {
+      "heading": "With the History Museum",
+      "body": "Same street number. The museum is closed on Monday and over lunch. The gardens are open every day."
+    }
+  ],
+  "hours": "Ticket sales 07:00–17:30 every day. The hours page prints visiting until 18:30. A day-in-the-zoo article prints 07:00–18:00, tickets stopping at 17:30.",
+  "closed": "No weekly closing day for the gate. The butterfly garden is 08:00–16:30. The flamingo garden’s weekday lines disagree on the operator page.",
+  "admissionNote": "Visitor 1.3 m and over: 60,000 đồng. The ticket-page heading prices a child from 1 m to under 1.3 m at 40,000 đồng. One product line repeats the 1.3 m wording on the 40,000 đồng row. A child under 1 m is free with a parent. Buy at the gate or on saigonzoo.vn. An online ticket is valid for 30 days from issue and is not refunded. One QR code covers everyone in that purchase.",
+  "links": [
+    {
+      "label": "Opening hours",
+      "url": "https://saigonzoo.vn/p/thoi-gian-mo-cua-hp14.html",
+      "note": "Gate 07:00–18:30, tickets until 17:30"
+    },
+    {
+      "label": "Gate tickets",
+      "url": "https://saigonzoo.vn/ve-tham-quan/ve-cong-nguoi-lon-va-tre-em-vtq1.html",
+      "note": "60,000 and 40,000 đồng"
+    }
+  ],
+  "interests": [
+    "photography"
+  ]
+}
