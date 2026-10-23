@@ -19,39 +19,39 @@
   },
   "stages": {
     "destination": {
-      "status": "shell",
-      "note": "A place file exists. It has not been set up from a stored dossier.",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, interests, two-night itinerary. Lat and lng unset. Harbor hero kept. Festivals have no event photo, so no festival file.",
+      "updated": "2026-10-23T07:05:39.449Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:44:37.341Z",
+      "status": "enriched",
+      "note": "Season chip is a traveler line. Seo description tightened. Site-talk removed. Harbor hero unchanged. Lat and lng stay unset.",
+      "updated": "2026-10-23T07:06:37.875Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:44:37.341Z",
+      "status": "checked",
+      "note": "Read the place. Harbor hero, dots 4, corridor red-river-delta, lat and lng unset, food leads, Hai Phong and Ha Long stay neighbors. No festival file: no event photo.",
+      "updated": "2026-10-23T07:06:53.180Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "50 dish records plus phở and bánh đa cua in the guide. 52 headings. No plate photos, so text lines. Current price is Check on arrival. 2013 board figures are that day's board.",
+      "updated": "2026-10-23T07:10:27.756Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:44:37.341Z",
+      "status": "enriched",
+      "note": "Harbor meal leads. Streets say when to eat. Current price stays Check on arrival. No plate photo, so no dish card.",
+      "updated": "2026-10-23T07:10:48.240Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:44:37.341Z",
+      "status": "checked",
+      "note": "Read the guide. 50 text-line dishes plus phở and bánh đa cua. No plate photo. Current price is Check on arrival. 2013 đồng figures stay that day's board.",
+      "updated": "2026-10-23T07:10:58.135Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -101,11 +101,11 @@
       "file": "src/content/attractions/cat-ba--lan-ha.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 23 Oct 2026. Published shell stays. Both bay counts and both child rules stay.",
-      "updated": "2026-10-23T06:44:37.341Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Read the sight. Dots stay 4. Both child rules, both hire lengths, and all three island counts stay. No second frame, so no body.",
+      "updated": "2026-10-23T07:12:34.938Z",
       "reworkCount": 0
     },
     {
@@ -117,11 +117,11 @@
       "file": "src/content/attractions/cat-ba--national-park.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier 23 Oct 2026. Published shell stays. No langur count. Park retention disagrees between 2024 and 2025.",
-      "updated": "2026-10-23T06:44:37.341Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Read the park. Dots stay 3. Both retention lines, both child rules, and all three Việt Hải lengths stay. No langur count. No second frame.",
+      "updated": "2026-10-23T07:13:31.626Z",
       "reworkCount": 0
     },
     {
@@ -1505,6 +1505,102 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-23T07:13:31.626Z",
+      "place": "cat-ba",
+      "stage": "quality",
+      "item": "cat-ba--national-park",
+      "status": "checked",
+      "note": "Read the park. Dots stay 3. Both retention lines, both child rules, and all three Việt Hải lengths stay. No langur count. No second frame."
+    },
+    {
+      "at": "2026-10-23T07:13:22.852Z",
+      "place": "cat-ba",
+      "stage": "copy",
+      "item": "cat-ba--national-park",
+      "status": "enriched",
+      "note": "Langur name and the missing headcount stay in the getting-there lines. Dots stay 3."
+    },
+    {
+      "at": "2026-10-23T07:13:02.795Z",
+      "place": "cat-ba",
+      "stage": "page",
+      "item": "cat-ba--national-park",
+      "status": "paged",
+      "note": "Fact page from the dossier. Dots stay 3. Both retention lines and both child rules stay. No langur count. No second photo, so no body."
+    },
+    {
+      "at": "2026-10-23T07:12:34.939Z",
+      "place": "cat-ba",
+      "stage": "quality",
+      "item": "cat-ba--lan-ha",
+      "status": "checked",
+      "note": "Read the sight. Dots stay 4. Both child rules, both hire lengths, and all three island counts stay. No second frame, so no body."
+    },
+    {
+      "at": "2026-10-23T07:12:21.859Z",
+      "place": "cat-ba",
+      "stage": "copy",
+      "item": "cat-ba--lan-ha",
+      "status": "enriched",
+      "note": "Both bay counts, both child rules, and both hire lengths stay on the sight. Dots stay 4. No second photo, so no body."
+    },
+    {
+      "at": "2026-10-23T07:11:30.440Z",
+      "place": "cat-ba",
+      "stage": "page",
+      "item": "cat-ba--lan-ha",
+      "status": "paged",
+      "note": "Fact page from the dossier. Dots stay 4. Both child rules and both hire lengths stay. No second photo, so no body."
+    },
+    {
+      "at": "2026-10-23T07:10:58.136Z",
+      "place": "cat-ba",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Read the guide. 50 text-line dishes plus phở and bánh đa cua. No plate photo. Current price is Check on arrival. 2013 đồng figures stay that day's board."
+    },
+    {
+      "at": "2026-10-23T07:10:48.240Z",
+      "place": "cat-ba",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Harbor meal leads. Streets say when to eat. Current price stays Check on arrival. No plate photo, so no dish card."
+    },
+    {
+      "at": "2026-10-23T07:10:27.756Z",
+      "place": "cat-ba",
+      "stage": "food",
+      "item": null,
+      "status": "paged",
+      "note": "50 dish records plus phở and bánh đa cua in the guide. 52 headings. No plate photos, so text lines. Current price is Check on arrival. 2013 board figures are that day's board."
+    },
+    {
+      "at": "2026-10-23T07:06:53.180Z",
+      "place": "cat-ba",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Read the place. Harbor hero, dots 4, corridor red-river-delta, lat and lng unset, food leads, Hai Phong and Ha Long stay neighbors. No festival file: no event photo."
+    },
+    {
+      "at": "2026-10-23T07:06:37.875Z",
+      "place": "cat-ba",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Season chip is a traveler line. Seo description tightened. Site-talk removed. Harbor hero unchanged. Lat and lng stay unset."
+    },
+    {
+      "at": "2026-10-23T07:05:39.450Z",
+      "place": "cat-ba",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place shell, interests, two-night itinerary. Lat and lng unset. Harbor hero kept. Festivals have no event photo, so no festival file."
+    },
+    {
       "at": "2026-10-23T06:44:37.341Z",
       "place": "cat-ba",
       "stage": "researchContext",
@@ -1567,38 +1663,6 @@
       "item": null,
       "status": "needs_depth",
       "note": "Still open: no quiet hour, no cafe street, and the coast-road ends are not printed."
-    },
-    {
-      "at": "2026-10-23T06:44:35.709Z",
-      "place": "cat-ba",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Still open: no bar street, no closing hour, and Núi Ngọc is printed in both towns."
-    },
-    {
-      "at": "2026-10-23T06:44:35.536Z",
-      "place": "cat-ba",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Still open: 52 sourced dish headings clear 20. Plated recipes do not reach 40. 2013 doors are not confirmed open. No current hours."
-    },
-    {
-      "at": "2026-10-23T06:44:31.414Z",
-      "place": "cat-ba",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Still open: Hoa Cương and Ninh Tiếp interiors, both hospital distances, three Việt Hải lengths, and no licensed photo except the three published frames."
-    },
-    {
-      "at": "2026-10-23T06:44:30.094Z",
-      "place": "cat-ba",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Still open: no town pin, the Tuần Châu clock and fare, road minutes from Cái Viềng and Gia Luận, the Cát Bi transfer, and the ferry clock outside 1 Sep–31 Dec 2026."
     }
   ]
 }
