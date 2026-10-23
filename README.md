@@ -18,4 +18,4 @@ Set `correctionsEmail` and `analyticsBeacon` in `src/config/site.ts` when you wa
 
 ## Speed budget
 
-`npm run build` fails if a key HTML file is over 80 KB gzipped or if it references a third-party script.
+`npm run build` fails if a key HTML file is over 80 KB gzipped or if it references a third-party script other than the Klook widget.
