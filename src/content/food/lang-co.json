@@ -1,0 +1,198 @@
+{
+  "slug": "lang-co",
+  "name": "Lang Co food guide",
+  "placeSlug": "lang-co",
+  "summary": "Lap An oysters are the plate: grilled over a fire, in porridge, stir-fried, or as a salad. Nhân Dân adds lagoon shellfish, and Visit Hue adds an evening grill at Tân Cảnh Dương. A current price is Check on arrival.",
+  "body": [
+    "Eat on Đầm Lập An, with the boats and the stakes in view. Báo Quốc Tế, on 14 April 2026, names hàu nướng trui, cháo hàu, hàu xào hành tây, and gỏi hàu, and says oyster farming here dates from the late 1990s. The national tourism authority, in a 16 May 2016 article, names hàu hấp gừng, hàu xào chua ngọt, đậu phụ nhồi hàu, and mỳ sốt hàu. Neither article prints a stall price. A current price is Check on arrival.",
+    "Nhân Dân, on 5 July 2024, says the lagoon farms hàu đá only. A cook in that article says rock oysters are favored for nướng mọi, nướng phô mai, or porridge, and that hàu sữa suits raw eating. VietnamPlus, on 9 February 2016, calls the famous Lang Co oyster hàu sữa, and says it is eaten raw, grilled with cheese, grilled with mỡ hành, or in porridge. Both accounts stay. VietnamPlus printed about 60,000 VND a kilogram at one floating restaurant. That figure is that article. A current price is Check on arrival.",
+    "Nhân Dân names ốc gai hấp sả, eaten with ginger, and puts sò méo and vẹm xanh in the same sentence as nướng mỡ hành and hấp rau húng. The sentence does not say which method goes with which shellfish. Visit Hue describes grilled seafood in the evening at Tân Cảnh Dương, with a bonfire, and does not name a species. A 1 October 2016 feature says guests eat cá hồng and cá mú raised under a raft on the lagoon, and names no cooking method. A breakfast dish and a local drink were not named by Visit Hue, Báo Quốc Tế, or Nhân Dân.",
+    "Bún bò Huế and cơm hến are Huế bowls. Cao lầu and cơm gà sit toward Hội An and Đà Nẵng. March to June is Báo Quốc Tế’s best-looking stretch on the lagoon, and it is not a harvest calendar."
+  ],
+  "specialtiesLead": "Oyster plates first, then the shellfish, the two fish, and the beach grill. A current price is Check on arrival.",
+  "dishSlugs": [
+    "lang-co--hau-nuong-trui",
+    "lang-co--chao-hau",
+    "lang-co--hau-xao-hanh-tay",
+    "lang-co--goi-hau",
+    "lang-co--hau-hap-gung",
+    "lang-co--hau-xao-chua-ngot",
+    "lang-co--dau-phu-nhoi-hau",
+    "lang-co--mi-sot-hau",
+    "lang-co--hau-nuong-pho-mai",
+    "lang-co--hau-nuong-mo-hanh",
+    "lang-co--hau-nuong-moi",
+    "lang-co--hau-song",
+    "lang-co--oc-gai-hap-sa",
+    "lang-co--so-meo",
+    "lang-co--vem-xanh",
+    "lang-co--ca-hong",
+    "lang-co--ca-mu",
+    "lang-co--hai-san-nuong"
+  ],
+  "sections": [
+    {
+      "id": "specialties",
+      "heading": "Lang Co specialties",
+      "nav": "Specialties",
+      "paragraphs": [
+        "Each row is a plate a publisher named. No stall price was printed for a current visit. A current price is Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Hau nuong trui",
+          "nameVi": "Hàu nướng trui",
+          "address": "Đường Nguyễn Văn, along Đầm Lập An",
+          "dishSlug": "lang-co--hau-nuong-trui",
+          "note": "Oysters grilled over a fire on the lagoon. Báo Quốc Tế, 14 April 2026, calls the plate thơm lừng. A current price is Check on arrival."
+        },
+        {
+          "name": "Chao hau",
+          "nameVi": "Cháo hàu",
+          "address": "Đường Nguyễn Văn, along Đầm Lập An",
+          "dishSlug": "lang-co--chao-hau",
+          "note": "Oyster porridge. Báo Quốc Tế calls it bổ dưỡng. Nhân Dân and VietnamPlus also name porridge. A current price is Check on arrival."
+        },
+        {
+          "name": "Hau xao hanh tay",
+          "nameVi": "Hàu xào hành tây",
+          "address": "Đường Nguyễn Văn, along Đầm Lập An",
+          "dishSlug": "lang-co--hau-xao-hanh-tay",
+          "note": "Oysters stir-fried with onion. Báo Quốc Tế names the plate and does not describe the sauce. A current price is Check on arrival."
+        },
+        {
+          "name": "Goi hau",
+          "nameVi": "Gỏi hàu",
+          "address": "Đường Nguyễn Văn, along Đầm Lập An",
+          "dishSlug": "lang-co--goi-hau",
+          "note": "Oyster salad. Báo Quốc Tế calls it thanh mát and does not list the herbs. A current price is Check on arrival."
+        },
+        {
+          "name": "Hau hap gung",
+          "nameVi": "Hàu hấp gừng",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--hau-hap-gung",
+          "note": "Oysters steamed with ginger. The national tourism authority named the plate on 16 May 2016 and did not describe a method beyond the name. A current price is Check on arrival."
+        },
+        {
+          "name": "Hau xao chua ngot",
+          "nameVi": "Hàu xào chua ngọt",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--hau-xao-chua-ngot",
+          "note": "Sweet-and-sour stir-fried oysters, named by the national tourism authority on 16 May 2016. The article does not list the sauce. A current price is Check on arrival."
+        },
+        {
+          "name": "Dau phu nhoi hau",
+          "nameVi": "Đậu phụ nhồi hàu",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--dau-phu-nhoi-hau",
+          "note": "Tofu stuffed with oyster. The national tourism authority names it as a dish made from lagoon oysters and does not print a recipe. A current price is Check on arrival."
+        },
+        {
+          "name": "Mi sot hau",
+          "nameVi": "Mỳ sốt hàu",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--mi-sot-hau",
+          "note": "Noodles with an oyster sauce, named by the national tourism authority as a dish made from the oysters. The article does not describe the noodles. A current price is Check on arrival."
+        },
+        {
+          "name": "Hau nuong pho mai",
+          "nameVi": "Hàu nướng phô mai",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--hau-nuong-pho-mai",
+          "note": "Oysters grilled with cheese. Nhân Dân says rock oysters are favored this way. VietnamPlus names the same plate. A current price is Check on arrival."
+        },
+        {
+          "name": "Hau nuong mo hanh",
+          "nameVi": "Hàu nướng mỡ hành",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--hau-nuong-mo-hanh",
+          "note": "Oysters grilled with mỡ hành. VietnamPlus, 9 February 2016, names the plate and does not print a recipe. A current price is Check on arrival."
+        },
+        {
+          "name": "Hau nuong moi",
+          "nameVi": "Hàu nướng mọi",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--hau-nuong-moi",
+          "note": "Nhân Dân prints nướng mọi for rock oysters and does not describe the topping. A cook in that article says hàu đá is firm and strongly fragrant. A current price is Check on arrival."
+        },
+        {
+          "name": "Hau song",
+          "nameVi": "Hàu sống",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--hau-song",
+          "note": "Raw oysters. VietnamPlus says lemon, or soy sauce and wasabi, and says the Lang Co way differs without printing it. Nhân Dân says only hàu đá is farmed here, and that raw eating suits hàu sữa. Both stay. A current price is Check on arrival."
+        },
+        {
+          "name": "Oc gai hap sa",
+          "nameVi": "Ốc gai hấp sả",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--oc-gai-hap-sa",
+          "note": "A snail steamed with lemongrass and eaten with ginger. Nhân Dân, 5 July 2024, names the plate at lagoon restaurants and does not name a shop. A current price is Check on arrival."
+        },
+        {
+          "name": "So meo",
+          "nameVi": "Sò méo",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--so-meo",
+          "note": "Nhân Dân names sò méo with vẹm xanh, nướng mỡ hành, and hấp rau húng in one sentence. It does not say which method belongs to sò méo. A current price is Check on arrival."
+        },
+        {
+          "name": "Vem xanh",
+          "nameVi": "Vẹm xanh",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--vem-xanh",
+          "note": "Green mussels. Nhân Dân puts them in the same sentence as sò méo, nướng mỡ hành, and hấp rau húng, and does not assign a method. A current price is Check on arrival."
+        },
+        {
+          "name": "Ca hong",
+          "nameVi": "Cá hồng",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--ca-hong",
+          "note": "Cá hồng. Nhân Dân says the lagoon holds it. A 1 October 2016 feature says guests eat it from fish raised under a raft, and names no cooking method and no shop. A current price is Check on arrival."
+        },
+        {
+          "name": "Ca mu",
+          "nameVi": "Cá mú",
+          "address": "Đầm Lập An",
+          "dishSlug": "lang-co--ca-mu",
+          "note": "Cá mú. The 1 October 2016 feature says guests eat it from fish raised under a raft. Nhân Dân names cá mú lưới as a fish in the lagoon and does not give a recipe. A current price is Check on arrival."
+        },
+        {
+          "name": "Hai san nuong",
+          "nameVi": "Hải sản nướng",
+          "address": "Thôn Cảnh Dương",
+          "dishSlug": "lang-co--hai-san-nuong",
+          "note": "Grilled seafood on the beach at Tân Cảnh Dương, in the evening, with a bonfire. Visit Hue does not name a species or a shop. A current price is Check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "streets",
+      "heading": "Market and lagoon street",
+      "nav": "Streets",
+      "role": "casual",
+      "paragraphs": [
+        "Chợ Lăng Cô opened on 19 May 2026 beside Highway 1A, Đầm Lập An, and the bay. Báo Pháp Luật Việt Nam and Thời báo Ngân hàng name seafood, produce, and local specialties among 412 stalls. The Pháp Luật headline calls it a market that does not sleep. Neither article prints a clock. Hours are Check on arrival.",
+        "Đường Nguyễn Văn runs along the lagoon. Tiền Phong says the street has long had specialty stalls, and that it is where people watch sunset over Đầm Lập An. Báo Văn hóa, on 11 May 2024, said later walking nights would be Friday, Saturday, and Sunday evenings, and would change if the trial did not hold. No 2026 calendar was printed. Whether those nights still run is Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Lang Co market",
+          "nameVi": "Chợ Lăng Cô",
+          "address": "QL1A, xã Chân Mây - Lăng Cô, thành phố Huế",
+          "note": "The three-floor market beside the highway, the lagoon, and the bay. Seafood, produce, and local specialties are among 412 stalls. Hours are Check on arrival."
+        },
+        {
+          "name": "Nguyen Van",
+          "nameVi": "Đường Nguyễn Văn",
+          "address": "Along Đầm Lập An",
+          "note": "Specialty stalls along the lagoon, and the sunset lookout Tiền Phong describes. Weekend walking nights from the 2024 trial are Check on arrival."
+        }
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Lang Co food guide — Lap An oysters",
+  "seoDescription": "Lap An oysters are grilled, simmered, or eaten raw on the lagoon. Shellfish and a beach grill are named too. A price is Check on arrival."
+}

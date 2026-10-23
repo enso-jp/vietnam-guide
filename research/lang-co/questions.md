@@ -15,7 +15,12 @@ Checked: 21 Oct 2026. Public fields that are still “Check on arrival” are li
 - Pass, tunnel, and Highway 1A closure calendar.
 - Cầu ngư civil date and any festival fee. Morning of mùng 6 Tết at An Cư Đông (S7, S8).
 - Minutes between the beach, the station, the lagoon, Tân Cảnh Dương, and Chân Mây.
-- A Lang Co breakfast dish and a local drink. None named.
+- A Lang Co breakfast dish and a local drink. None named by S2, S9, S19, S20, or S21.
+- Current stall prices and dish hours. S21’s about 60,000 VND a kilogram is one floating restaurant in 2016. A current price stays Check on arrival.
+- Which cooking method S20 assigns to sò méo and which to vẹm xanh. The sentence does not say.
+- What nướng mọi means. S20 prints the name and does not describe the topping.
+- The Lang Co way of eating raw oysters. S21 says it differs from lemon or soy and wasabi, and does not print the difference.
+- Whether hàu sữa or hàu đá is the oyster on the plate. S20 says only hàu đá is farmed. S21 calls the famous oyster hàu sữa. Both stay.
 
 ## Left unpublished — no licensed photo of that sight
 
