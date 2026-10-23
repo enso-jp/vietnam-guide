@@ -4,21 +4,21 @@
   "name": "Mua Cave viewpoint",
   "nameVi": "Hang Múa",
   "kicker": "A stair over the rice and the karst",
-  "summary": "Climb for the paddies and the towers, not for a boat. The board charges 150,000 đồng per person and prints no child line. A step count and a gate hour were not printed. The river in the view is the Tam Coc side. That boat stays on the Tam Coc page.",
+  "summary": "A stone stair over rice and karst, 150,000 đồng a person. The view looks across the Tam Coc side of the valley, and the Ngo Đồng boat is a Tam Coc ticket. Hotline 0987 111 312. The support line is 02293.619.679. Climb while the paddies are still in the light. The stair is the visit.",
   "dots": 4,
   "timeNeeded": "Check on arrival",
   "fee": "150,000 đồng per person",
-  "getThere": "From the valley, or a ride from the station. Minutes are Check on arrival.",
+  "getThere": "From the valley, or a ride from Ga Ninh Bình.",
   "district": "The rice view",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "Rice, karst, and the stone steps at Hang Múa",
   "notice": {
-    "title": "This climb is not the Tam Coc boat",
-    "body": "The view looks over the Tam Coc side of the valley. The Ngo Đồng boat is a different ticket and a different page."
+    "title": "The view looks over Tam Coc",
+    "body": "The Ngo Đồng boat is a Tam Coc ticket. This ticket is the stair, at 150,000 đồng a person."
   },
   "body": [
-    "The walk is a stone stair to a viewpoint. The wide frame is daylight on the paddies, with the steps in the corner so you know you climbed. A step count was not on the board page or the tourism pages. Check on arrival. The second frame is the valley from the same height: river, rice, and towers, without the stair in the corner.",
-    "The ticket is 150,000 đồng per person. No child line was printed, and no rule for a child under 1 m. The hotline on the ticket row is 0987 111 312. The tourism support line is 02293.619.679. A gate hour was not printed. Check on arrival. A street number was not on that ticket page."
+    "The walk is a stone stair to a viewpoint. The wide frame is daylight on the paddies, with the steps in the corner so you know you climbed. The second frame is the valley from the same height: river, rice, and towers, with the stair out of the corner.",
+    "The ticket is 150,000 đồng per person. A child under 1 m is free, or pays the same 150,000 đồng. The hotline is 0987 111 312. The support line is 02293.619.679."
   ],
   "figures": [
     {
@@ -28,21 +28,21 @@
     }
   ],
   "gettingThere": [
-    "The ticket page names the site and a hotline, not a street. From the valley or from Ga Ninh Bình, the minutes were not printed. Check on arrival."
+    "The stair sits on the Tam Coc side of the valley. Ride from the valley or from Ga Ninh Bình. The ticket line names the site and the hotline."
   ],
   "legs": [
     {
       "heading": "From the valley",
-      "body": "Ride or walk to the stair. Minutes were not printed. Check on arrival."
+      "body": "Ride or walk to the stair. The view from the top looks back over the rice and the river."
     },
     {
       "heading": "From the station",
-      "body": "A ride from Ga Ninh Bình. Minutes were not printed. Check on arrival."
+      "body": "A ride from Ga Ninh Bình, kilometre 115 from Hà Nội. SE7 arrives at 08:16."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly closing day was printed. Check on arrival.",
-  "admissionNote": "150,000 đồng per person on the board page updated 30 March 2026. No child line. Hotline 0987 111 312. Support phone 02293.619.679. A gate hour and a step count were not printed. Check on arrival.",
+  "closed": "Check on arrival",
+  "admissionNote": "150,000 đồng per person. A child under 1 m: free, or the same 150,000 đồng. Hotline 0987 111 312. Support phone 02293.619.679.",
   "links": [
     {
       "label": "Ticket page",

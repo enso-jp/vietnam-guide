@@ -2,7 +2,7 @@
 
 Slug: `ninh-binh`
 Status: stored
-Checked: 22 Oct 2026
+Checked: 22 Oct 2026. Attraction pass 23 Oct 2026 added four public sights and rewrote the existing cards. See `attractions/unpublished.md`.
 Ready for copy:
 
 Every research lane is stored. Public JSON waits. Publish stays live and was not touched. The search slug stays `ninh-binh`. Corridor already on the site: `red-river-delta`. This is the karst base south of Hanoi. It is not a second `tam-coc` page and not a second `nam-dinh` page. Tam Coc stays `tam-coc`. Phát Diệm has no slug of its own. The stored Nam Dinh dossier leaves Nhà thờ đá Phát Diệm on this slug, and the tourism page places it in Kim Sơn, so it is a sight here.

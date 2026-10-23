@@ -1,0 +1,61 @@
+{
+  "slug": "tuyet-tinh-coc",
+  "placeSlug": "ninh-binh",
+  "name": "Tuyet Tinh Coc",
+  "nameVi": "Tuyệt Tịnh Cốc (Động Am Tiên)",
+  "kicker": "Cave temple beside the old capital",
+  "summary": "Cave temple in a flooded valley beside Hoa Lư: climb 205 steps, adult 100,000 đồng. The mouth is on the cliff, about 400 m from the east gate of đền Đinh. Most of the cave opens onto the water. A child under 1.3 m pays 30,000 đồng. Pair it with the temples.",
+  "dots": 3,
+  "dotReason": "The cave beside the temples, a short climb on the same ground",
+  "timeNeeded": "Check on arrival",
+  "fee": "100,000 đồng for an adult",
+  "getThere": "About 400 m from the east gate of đền Đinh, at xã Trường Yên.",
+  "district": "The old capital",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The flooded valley between the cliffs at Tuyệt Tịnh Cốc",
+  "notice": {
+    "title": "The temple ticket does not open this cave",
+    "body": "Đền Đinh and đền Lê are 20,000 đồng for an adult. Tuyệt Tịnh Cốc is its own line: 100,000 đồng for an adult, 30,000 đồng for a child under 1.3 m."
+  },
+  "body": [
+    "The ticket name is Động Am Tiên, also called Tuyệt Tịnh Cốc. You climb 205 stone steps to a mouth on the cliff. The heritage record places that mouth about 400 m from the east gate of đền Đinh Tiên Hoàng, on the same Trường Yên ground as the old capital. Most of the cave sits in a flooded valley. The hall inside is both a pagoda, for the Buddha and Nguyễn Minh Không, and a temple for Dương Vân Nga.",
+    "The walk below the steps is the water between the cliffs, with the valley floor in lotus and weed. The second frame is the wooden temple built into the rock, stairs and roofs against the cliff. Wear shoes you can climb in. The Hoa Lư adult ticket, 20,000 đồng, stays at the temples.",
+    "A child pays 30,000 đồng under 1.3 m, and the same 30,000 đồng also covers a child from 90 cm to 140 cm, a pupil, and a visitor over 65. A student pays 50,000 đồng. Hotline 0987807965."
+  ],
+  "figures": [
+    {
+      "id": "ninh-binh-tuyet-tinh-coc-2",
+      "caption": "The cliff temple and the stair at Am Tiên",
+      "alt": "A tiled temple built into a limestone cliff at Am Tien cave"
+    }
+  ],
+  "gettingThere": [
+    "Start at the temples of Cố đô Hoa Lư, xã Trường Yên. The cave is about 400 m from the east gate, then 205 steps. From Ga Ninh Bình, ride to the old capital first."
+  ],
+  "legs": [
+    {
+      "heading": "From the temples",
+      "body": "Walk about 400 m from the east gate of đền Đinh, then climb 205 stone steps to the cave mouth."
+    },
+    {
+      "heading": "From Ninh Binh station",
+      "body": "Ride to xã Trường Yên, then use the east-gate path. The station is kilometre 115 from Hà Nội on the timetable."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "admissionNote": "Adult 100,000 đồng. Child under 1.3 m: 30,000 đồng. The same 30,000 đồng also covers a child from 90 cm to 140 cm, a pupil, and a visitor over 65. Student: 50,000 đồng. Hotline 0987807965. The Hoa Lư temple ticket is separate.",
+  "links": [
+    {
+      "label": "Ticket list",
+      "url": "https://trangandanhthang.vn/gia-ve-tham-quan-cac-khu-diem-du-lich/",
+      "note": "Am Tiên row, updated 30 March 2026"
+    },
+    {
+      "label": "Hoa Lư heritage record",
+      "url": "https://dsvh.gov.vn/di-tich-lich-su-va-kien-truc-nghe-thuat-co-do-hoa-lu-2952",
+      "note": "400 m and 205 steps"
+    }
+  ],
+  "interests": ["caves", "pagodas"]
+}

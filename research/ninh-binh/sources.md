@@ -218,3 +218,57 @@ Checked: 22 Oct 2026. A fact with a source id was opened, or the page text was r
 - Publisher: Sở Du lịch Ninh Bình, article dated 5 November 2024, source line hanoimoi.vn.
 - Accessed: 22 Oct 2026
 - Supports: District foods beyond S12, including mật ong rừng, trà hoa vàng, ốc nhồi, cá nướng rơm, giò trứng, bánh đúc, chạo chân giò, cá tràu tiến vua, cá rô Tổng Trường, and the OCOP names thịt chưng mắm tép, bột rau má, ruốc cá rô Tổng Trường, trà sơn kim cúc, trà Vũ Gia, rượu vang đào. Yên Khánh is only “các loại bánh”. Streets: Phố 8, Phố ăn sáng Vân Giang, khu ẩm thực Phố cổ Hoa Lư. Craft villages: làng nghề bún Yên Ninh, làng nghề ẩm thực xóm Phong An, làng nghề rượu Lai Thành. TS Mai Thanh Sơn names cá quả nấu ám Nho Quan. About 130 licensed eateries, nearly 900 lodgings with food, about 15,000 restaurant workers, and 186 OCOP products by August 2024 are statistics, not menu lines.
+
+### S37
+- URL: https://cucphuongtourism.com/index.php/vi/tourism/getting-here-and-away.html
+- Publisher: Vườn quốc gia Cúc Phương, operator directions
+- Accessed: 23 Oct 2026
+- Supports: 120 km south of Hà Nội, 45 km northwest of Ninh Bình city. Road from thị trấn Nho Quan under repair. From the city through Tràng An to Bái Đính about 15 km, then 26 km from the parking behind Bái Đính. Quốc lộ 1A to ngã ba Gián Khẩu about 10 km from the city, then Quốc lộ 12A. Bus: gate to Giáp Bát 09:00, Giáp Bát to the park 15:00. No gate hour on this page.
+
+### S38
+- URL: https://moj.gov.vn/vbpq/lists/vn%20bn%20php%20lut/view_detail.aspx?itemid=1339
+- Publisher: Ministry of Justice legal database, Decision 72/TTg of 7 July 1962
+- Accessed: 23 Oct 2026
+- Supports: Forest set aside at the Ninh Bình, Hòa Bình, and Thanh Hóa border. Total 25,000 ha (18,000 + 5,000 + 2,000). Bounding box longitude 105°30'–105°42', latitude 20°15'–20°25'. A box, not a pin. No ticket and no hour.
+
+### S39
+- URL: https://tttt.ninhbinh.gov.vn/du-lich/dan-vien-chau-son-ve-dep-chau-au-giua-long-ninh-binh-2488.html
+- Publisher: Trung tâm Thông tin tỉnh Ninh Bình
+- Accessed: 23 Oct 2026
+- Supports: Direct fetch returned HTTP 500. The search snippet of that URL gives xã Phú Sơn, Nho Quan; 65 km from Phát Diệm cathedral, 35 km from Ninh Bình city, 97 km from Hà Nội; church from 1939; walls 0.6 m, columns 1.2 m, length about 64 m, white dome 21 m; visiting after prayer at the start of the month when there is mass, morning 8:00–10:30 (Sunday to 10:00), afternoon 14:30–16:30 (Sunday 15:30–16:30); ordinary days limit visitors. Treat the snippet as a partial open, not a full page.
+
+### S40
+- URL: https://tienphong.vn/bi-an-gieng-co-tai-dan-vien-chau-son-post1613452.tpo
+- Publisher: Tiền Phong
+- Accessed: 23 Oct 2026
+- Supports: Founded 8 September 1936, Cistercian Holy Family congregation, at the request of Bishop JB Nguyễn Bá Tòng, diocese of Phát Diệm. Hours Monday–Saturday 8:00–10:30 and 14:30–16:30, Sunday 8:00–10:00 and 15:30–16:30. Closed to visitors around March and at the start of August. Visitors see the church and the grounds. Conflicts with S39 on whether ordinary days are open. Both stay. No fee.
+
+### S41
+- URL: https://dulichninhbinh.com.vn/item/3525
+- Publisher: Trung tâm Xúc tiến du lịch Ninh Bình, price table updated 27 Feb 2026
+- Accessed: 23 Oct 2026
+- Supports: Older than S5 (30 Mar 2026). Where they differ, S5 is the newer ticket and the public page uses S5, with the older band kept as a range. Hang Múa: 150,000 đồng for people over 1 m, under 1 m free. Am Tiên: children 90 cm–140 cm, pupils, and over 65 at 30,000 đồng; students 50,000 đồng. S5 uses child under 1.3 m at 30,000 đồng for Am Tiên and 150,000 đồng per person for Hang Múa with no child line. Bái Đính cart prices match S5 from 15 Feb 2026. Khê Cốc marked closed for repair on this older table; S5 still lists Khê Cốc prices and drops the closure. Public copy follows S5 and does not warn of a closure the newer page dropped.
+
+### S42
+- URL: https://www.bearsanctuary-ninhbinh.org/
+- Publisher: Bear Sanctuary Ninh Binh
+- Accessed: 23 Oct 2026
+- Supports: On the Cúc Phương–Bái Đính road, xã Kỳ Phú, Nho Quan, 8 km from the park. Open 9:00–17:00, closed Tuesday. About 5.5 ha, since 2017. Unpublished: no licensed Commons photo. Site images were not downloaded.
+
+### S43
+- URL: https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_C%C3%BAc_Ph%C6%B0%C6%A1ng
+- Publisher: Vietnamese Wikipedia, Vườn quốc gia Cúc Phương
+- Accessed: 23 Oct 2026
+- Supports: Area 22,200 ha, split Ninh Bình 11,350 / Thanh Hóa 5,850 / Phú Thọ 5,000. Infobox 222.00 km² and founded 1966. Body says Decision 72/TTg set aside 20,000 ha, which conflicts with the decision text at 25,000 ha (S38). Decision 18/QĐ-LN of 8 Jan 1966 ranked the forestry enterprise a national park. Botanical garden walk about 3 km. Động Người Xưa named as a prehistoric shelter. Center at xã Cúc Phương. Bounding box 20°14'–20°24'N, 105°29'–105°44'E. A box, not a pin. World Travel Awards lines were skipped. Peak trail “about 4 hours” is one route, not the visit length.
+
+### S44
+- URL: https://nbca.gov.vn/vuon-quoc-gia-cuc-phuong/
+- Publisher: Trang thông tin quốc gia về bảo tồn thiên nhiên và đa dạng sinh học
+- Accessed: 23 Oct 2026
+- Supports: First national park of Vietnam. Founded 7 July 1962 under Decision 72-TTg. Area 22,408 ha. Ninh Bình, Hòa Bình, and Thanh Hóa. In the Tam Điệp range. 120 km south of Hà Nội. This 1962 founding conflicts with the 1966 ranking on S43. Both stay.
+
+### S45
+- URL: https://vuonquocgiacucphuong.vn/vi/lich-su-hinh-thanh-vqg-cuc-phuong.html
+- Publisher: Vườn quốc gia Cúc Phương, history page
+- Accessed: 23 Oct 2026 via search snippet of that URL
+- Supports: Same 7 July 1962 founding and 22,408 ha as S44, and the line that it was born in 1962 as the first national park. Snippet only. Not a second fee.

@@ -3,6 +3,8 @@
 Slug: `ninh-binh`
 Checked: 22 Oct 2026. A fact with a source id was opened and is stamped verified. A line marked UNSOURCED is not.
 
+Attraction pass 23 Oct 2026. Public cards rewritten the same day. New public slugs: `cuc-phuong`, `tuyet-tinh-coc` (Động Am Tiên; one site), `chau-son`, `primate-center`. Each has a stored file under `attractions/`. Left unpublished for lack of two licensed frames of that subject: Non Nước, Kênh Gà, Thiên Hà, Thạch Bích–Thung Nắng, Phố cổ Hoa Lư, Thung Ui, the bear sanctuary, and a split Nhất Trụ page. Tam Coc keeps three-caves, bich-dong, thai-vi, thung-nham, and co-vien-lau. The station stays as the arrival hub and does not count as a sight. Detail is in `attractions/unpublished.md`. S5 was the newer ticket against S41.
+
 The search slug stays `ninh-binh`. The base is the city people reach by train, and the valley they sleep in for the boats. `tam-coc` stays its own page. The Tam Cốc–Bích Động boat, Đền Thái Vi, Động Tiên, and chùa Bích Động are that page. Nhà thờ đá Phát Diệm has no place slug. It is a sight here. Đền Trần, Phủ Dầy, and the Nam Định churches stay in `research/nam-dinh/`.
 
 ## Why a night here
