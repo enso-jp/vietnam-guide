@@ -198,10 +198,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed sight photo. Dossier only.",
-      "updated": "2026-10-23T06:11:18.346Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo. No public file.",
+      "updated": "2026-10-23T06:24:59.034Z",
       "reworkCount": 0
     },
     {
@@ -214,10 +214,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed sight photo. Dossier only.",
-      "updated": "2026-10-23T06:11:18.346Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo. No public file.",
+      "updated": "2026-10-23T06:24:59.188Z",
       "reworkCount": 0
     },
     {
@@ -229,11 +229,11 @@
       "file": "src/content/attractions/buon-ma-thuot--dray-nur.json",
       "source": "dossier",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:11:18.346Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Both frames are the waterfall. Distances and prices that disagree both stay. Hours Check on arrival. Dots stay 5. No pin.",
+      "updated": "2026-10-23T06:26:24.813Z",
       "reworkCount": 0
     },
     {
@@ -433,6 +433,62 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-23T06:26:24.814Z",
+      "place": "buon-ma-thuot",
+      "stage": "quality",
+      "item": "buon-ma-thuot--dray-nur",
+      "status": "checked",
+      "note": "Both frames are the waterfall. Distances and prices that disagree both stay. Hours Check on arrival. Dots stay 5. No pin."
+    },
+    {
+      "at": "2026-10-23T06:26:24.750Z",
+      "place": "buon-ma-thuot",
+      "stage": "copy",
+      "item": "buon-ma-thuot--dray-nur",
+      "status": "enriched",
+      "note": "Hero is the cliff curtain, Drave005, public domain. Second frame is the closer fall, Sketyl, CC BY 2.0. The banner strip is gone."
+    },
+    {
+      "at": "2026-10-23T06:26:24.684Z",
+      "place": "buon-ma-thuot",
+      "stage": "page",
+      "item": "buon-ma-thuot--dray-nur",
+      "status": "paged",
+      "note": "Finished sight. 25 km and 30 km both stay. 30,000 VND, 50,000 VND, and the 19 Dec 2024 notice with no amount all stay. Gate price Check on arrival. Dots stay 5."
+    },
+    {
+      "at": "2026-10-23T06:24:59.189Z",
+      "place": "buon-ma-thuot",
+      "stage": "quality",
+      "item": "buon-ma-thuot--october-square",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. No public file."
+    },
+    {
+      "at": "2026-10-23T06:24:59.113Z",
+      "place": "buon-ma-thuot",
+      "stage": "copy",
+      "item": "buon-ma-thuot--october-square",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. No public file."
+    },
+    {
+      "at": "2026-10-23T06:24:59.035Z",
+      "place": "buon-ma-thuot",
+      "stage": "quality",
+      "item": "buon-ma-thuot--ako-dhong",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. No public file."
+    },
+    {
+      "at": "2026-10-23T06:24:58.961Z",
+      "place": "buon-ma-thuot",
+      "stage": "copy",
+      "item": "buon-ma-thuot--ako-dhong",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. No public file."
+    },
+    {
       "at": "2026-10-23T06:24:25.620Z",
       "place": "buon-ma-thuot",
       "stage": "quality",
@@ -535,54 +591,6 @@
       "item": "buon-ma-thuot--coffee-museum",
       "status": "skipped",
       "note": "unpublished: no licensed photo. No public file."
-    },
-    {
-      "at": "2026-10-23T06:19:16.858Z",
-      "place": "buon-ma-thuot",
-      "stage": "copy",
-      "item": "buon-ma-thuot--coffee-museum",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo. No public file."
-    },
-    {
-      "at": "2026-10-23T06:18:50.884Z",
-      "place": "buon-ma-thuot",
-      "stage": "destinationQuality",
-      "item": null,
-      "status": "checked",
-      "note": "Hero is the city square with the tank and statue in the 16:9 frame. Pin unset. Festival stays on October 10 Square. Dray Nur 25 km and 30 km both stay, and so do 30,000 VND, 50,000 VND, and the 19 Dec 2024 notice with no amount. Food guide stays off."
-    },
-    {
-      "at": "2026-10-23T06:17:52.818Z",
-      "place": "buon-ma-thuot",
-      "stage": "destinationCopy",
-      "item": null,
-      "status": "enriched",
-      "note": "Hero stays the city square, 16:9, tank and statue in frame. Pin unset. Festival stays on October 10 Square. Dray Nur distances and prices that disagree both stay. Food guide stays off."
-    },
-    {
-      "at": "2026-10-23T06:11:18.346Z",
-      "place": "buon-ma-thuot",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: 2027 festival dates, Kon Tum and Gia Lai pages, and a separate elephant-fair page. The bundled festival row is the same 9–13 March 2025 edition."
-    },
-    {
-      "at": "2026-10-21T11:18:12.376Z",
-      "place": "buon-ma-thuot",
-      "stage": "food",
-      "item": null,
-      "status": "paged",
-      "note": "Food guide and bun-do, com-lam dish stubs; photos pending fetch."
-    },
-    {
-      "at": "2026-10-21T11:17:59.459Z",
-      "place": "buon-ma-thuot",
-      "stage": "destination",
-      "item": null,
-      "status": "paged",
-      "note": "Place shell, twelve attraction stubs, festival, day itinerary, food guide, and dishes from stored dossier."
     }
   ]
 }
