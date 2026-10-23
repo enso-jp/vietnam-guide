@@ -19,39 +19,39 @@
   },
   "stages": {
     "destination": {
-      "status": "shell",
-      "note": "A place file exists. It has not been set up from a stored dossier.",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell, red-river-delta, pin unset, sampan hero kept, tam-coc-day, dining first. Dots stay 4. Festivals have no event photo, so no festival cards. Side trip placeholder: Dong Thien Ha.",
+      "updated": "2026-10-23T07:07:59.013Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:41:50.202Z",
+      "status": "enriched",
+      "note": "Sampan lede, season chip is the late-May rice festival, both ticket lines and both SE7 arrivals stay. Pin unset. Hero unchanged.",
+      "updated": "2026-10-23T07:08:16.899Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:41:50.202Z",
+      "status": "checked",
+      "note": "Hero is sampans, river, and karst. Credit travel oriented. Lat and lng unset. Dots stay 4. Dining leads. Corridor red-river-delta.",
+      "updated": "2026-10-23T07:08:16.983Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "13 specialties. Gap of 7 named: breakfast dish, sweet, drink, noodle, second rice, sausage, and a hotpot as its own Tam Coc plate. Com chay is the only plate photograph.",
+      "updated": "2026-10-23T07:08:17.054Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:41:50.202Z",
+      "status": "enriched",
+      "note": "Ninh Binh sentences kept on com chay, de tai chanh, and nem chua Yen Mac. Tam Coc lines appended. No provincial goat list.",
+      "updated": "2026-10-23T07:08:17.121Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:41:50.202Z",
+      "status": "checked",
+      "note": "13 sourced plates. Gap of 7 named in the intro. No invented dish and no restaurant pick. Twelve plates are text lines.",
+      "updated": "2026-10-23T07:08:17.192Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -101,11 +101,11 @@
       "file": "src/content/attractions/tam-coc--three-caves.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Published shell. Both cave-length sets stay. Hours and a child under 1 m are Check on arrival. The hero is the river frame.",
-      "updated": "2026-10-23T06:41:50.202Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Photo is the cave mouth, Rod Waddington. Not the place hero. Dots stay 4. No second licensed frame.",
+      "updated": "2026-10-23T07:08:17.401Z",
       "reworkCount": 0
     },
     {
@@ -625,6 +625,78 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-23T07:08:17.401Z",
+      "place": "tam-coc",
+      "stage": "quality",
+      "item": "tam-coc--three-caves",
+      "status": "checked",
+      "note": "Photo is the cave mouth, Rod Waddington. Not the place hero. Dots stay 4. No second licensed frame."
+    },
+    {
+      "at": "2026-10-23T07:08:17.331Z",
+      "place": "tam-coc",
+      "stage": "copy",
+      "item": "tam-coc--three-caves",
+      "status": "enriched",
+      "note": "Lede is the sampan through the three caves. Hours are Check on arrival. Hero caption matches the cave mouth."
+    },
+    {
+      "at": "2026-10-23T07:08:17.263Z",
+      "place": "tam-coc",
+      "stage": "page",
+      "item": "tam-coc--three-caves",
+      "status": "paged",
+      "note": "Cave-mouth photo kept. Both length sets and all three ticket lines are on the record. No second frame, so no body."
+    },
+    {
+      "at": "2026-10-23T07:08:17.192Z",
+      "place": "tam-coc",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "checked",
+      "note": "13 sourced plates. Gap of 7 named in the intro. No invented dish and no restaurant pick. Twelve plates are text lines."
+    },
+    {
+      "at": "2026-10-23T07:08:17.122Z",
+      "place": "tam-coc",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Ninh Binh sentences kept on com chay, de tai chanh, and nem chua Yen Mac. Tam Coc lines appended. No provincial goat list."
+    },
+    {
+      "at": "2026-10-23T07:08:17.054Z",
+      "place": "tam-coc",
+      "stage": "food",
+      "item": null,
+      "status": "paged",
+      "note": "13 specialties. Gap of 7 named: breakfast dish, sweet, drink, noodle, second rice, sausage, and a hotpot as its own Tam Coc plate. Com chay is the only plate photograph."
+    },
+    {
+      "at": "2026-10-23T07:08:16.983Z",
+      "place": "tam-coc",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Hero is sampans, river, and karst. Credit travel oriented. Lat and lng unset. Dots stay 4. Dining leads. Corridor red-river-delta."
+    },
+    {
+      "at": "2026-10-23T07:08:16.899Z",
+      "place": "tam-coc",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Sampan lede, season chip is the late-May rice festival, both ticket lines and both SE7 arrivals stay. Pin unset. Hero unchanged."
+    },
+    {
+      "at": "2026-10-23T07:07:59.013Z",
+      "place": "tam-coc",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place shell, red-river-delta, pin unset, sampan hero kept, tam-coc-day, dining first. Dots stay 4. Festivals have no event photo, so no festival cards. Side trip placeholder: Dong Thien Ha."
+    },
+    {
       "at": "2026-10-23T06:41:50.202Z",
       "place": "tam-coc",
       "stage": "researchFood",
@@ -711,22 +783,6 @@
       "item": null,
       "status": "needs_depth",
       "note": "11 sourced specialties. The bar is 20. The gap is 9 and was not invented. No food street. Still open: a breakfast dish, a sweet, a drink, a stall price."
-    },
-    {
-      "at": "2026-10-23T06:29:48.051Z",
-      "place": "tam-coc",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Sights and areas are in. Still open: daily hours, a child under 1 m fare, one cave length, licensed photos besides the hero and the cave-mouth stub."
-    },
-    {
-      "at": "2026-10-23T06:29:47.403Z",
-      "place": "tam-coc",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and the rail table are in. Still open: no place pin, no airport, no bus, no minute from the station to the pier, no daily opening hour."
     }
   ]
 }
