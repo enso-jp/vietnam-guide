@@ -1,0 +1,57 @@
+{
+  "slug": "thoi-son",
+  "placeSlug": "my-tho",
+  "name": "Thoi Son islet",
+  "nameVi": "Cù lao Thới Sơn",
+  "kicker": "Orchard islet in the Tiền",
+  "summary": "Orchard islet in the Tiền: take the morning boat, then a sampan under the nipa, for the fruit and the music. This is Lân, in phường Thới Sơn, about 6 km from town and more than 1,200 hectares. Walk the orchards of longan, rambutan, Hòa Lộc mango, and An Phước plum, and hear đờn ca tài tử. Honey is tasted under the trees. Cồn Phụng is a different islet, on the Ben Tre bank.",
+  "dots": 5,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Boat from the pier at 01 Hoàng Sa, about 6 km",
+  "district": "Thới Sơn",
+  "verified": "23 Oct 2026",
+  "heroCaption": "A sampan in a nipa canal on Thới Sơn",
+  "notice": {
+    "title": "Lân is this islet",
+    "body": "Cù lao Thới Sơn is Lân, in phường Thới Sơn. Cồn Phụng is Tân Thạch, on the Ben Tre bank. Start this boat at 01 Hoàng Sa."
+  },
+  "body": [
+    "Take a boat on the Tiền from the pier at số 01 Hoàng Sa, pass under Rạch Miễu, and change to a small sampan in the nipa canals. Then walk the orchards. Guests pick longan, rambutan, Hòa Lộc mango, and An Phước plum in season. Fruit follows the orchard calendar.",
+    "Garden houses play đờn ca tài tử, including Dạ cổ hoài lang and Tình anh bán chiếu. Honey is tasted under the trees. Since the 1990s the islet has been a community-tourism stop: gardeners also row, host, play, and cook. It covers more than 1,200 hectares and more than 1,500 households, about 6 km from the city.",
+    "Keep the measurements apart. The islet figure is about 6 km from the city. A yard called Điểm du lịch Xanh Thới Sơn is 3.29 km from Vĩnh Tràng. That is the yard. Go in the morning, from the pier, and leave Cồn Phụng for the Ben Tre bank."
+  ],
+  "figures": [
+    {
+      "id": "my-tho-thoi-son-2",
+      "caption": "Tour boats at a landing on cồn Lân, with the far bank across the Tiền",
+      "alt": "Wooden tour boats tied at a landing on Thoi Son, with the river and the far bank"
+    }
+  ],
+  "gettingThere": [
+    "Boats leave from Cảng du thuyền Mỹ Tho at số 01 Hoàng Sa, phường Mỹ Tho. The islet sits between two branches of the Tiền, in phường Thới Sơn, about 6 km from the city. The electric cart that starts at the same pier runs 07:00–22:00."
+  ],
+  "legs": [
+    {
+      "heading": "From the pier at 01 Hoàng Sa",
+      "body": "Boat on the Tiền, under Rạch Miễu, then a sampan in the nipa. The islet is about 6 km from the city."
+    },
+    {
+      "heading": "From a room on đường 30 Tháng 4",
+      "body": "Walk the embankment to 01 Hoàng Sa, then the same boat. The cart also starts at that pier, 07:00–22:00."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "admissionNote": "The cart, if you use it to reach the pier, is a separate ticket.",
+  "links": [
+    {
+      "label": "Thới Sơn islet",
+      "url": "https://nongthon.vietnamtourism.gov.vn/thoi-son-islet-a-model-of-community-tourism-in-the-mekong-delta/?lang=en",
+      "note": "Vietnam Tourism, rural tourism"
+    }
+  ],
+  "lat": 10.341252,
+  "lng": 106.355008,
+  "interests": ["islands"]
+}

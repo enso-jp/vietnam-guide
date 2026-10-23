@@ -1,0 +1,60 @@
+{
+  "slug": "dong-tam",
+  "placeSlug": "my-tho",
+  "name": "Dong Tam Snake Farm",
+  "nameVi": "Trại rắn Đồng Tâm",
+  "kicker": "Snake farm west of the ward",
+  "summary": "Snake farm in Kim Sơn: walk the pens and the snake museum in about 120 minutes, west of town. The gate is 40,000–60,000 VND, open from 07:00 until 18:00. Come in the morning and stay with the staff around the venomous pens. Ask which of the two prices you pay.",
+  "dots": 4,
+  "timeNeeded": "120 minutes",
+  "fee": "40,000–60,000 VND",
+  "getThere": "About 8 km or 9 km west of phường Mỹ Tho",
+  "district": "Kim Sơn",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The gate of Trại rắn Đồng Tâm, arch and name across the road",
+  "notice": {
+    "title": "Stay with the staff at the pens",
+    "body": "The venomous snakes are part of the visit. Stay with the staff and keep clear of the pens. Come in the morning and allow about 120 minutes."
+  },
+  "body": [
+    "The farm is the medicinal center at ấp Tân Thuận B, xã Kim Sơn, on the west bank of the Tiền. It was founded on 27 October 1977. Walk the snake pens, watch the venom demonstration, and see the snake museum on the grounds. Allow about 120 minutes, and come in the morning.",
+    "Other animals are kept here too, including crocodiles, bears, and ostriches. The gate is 40,000–60,000 VND, with no age bands beside the two figures. Open from 07:00 until 18:00.",
+    "The distance is about 8 km or 9 km west of phường Mỹ Tho. Ask for xã Kim Sơn. From Ho Chi Minh City the same road is about 70 km, then west to the commune. The pagoda and the pier stay in the Mỹ Tho ward. This stop is the one farther west."
+  ],
+  "figures": [
+    {
+      "id": "my-tho-dong-tam-2",
+      "caption": "The snake museum, columns and steps under the name board",
+      "alt": "The white snake museum at Dong Tam, with columns and a tiled approach"
+    }
+  ],
+  "gettingThere": [
+    "The farm is at ấp Tân Thuận B, xã Kim Sơn, tỉnh Đồng Tháp, on the west bank of the Tiền. It is about 8 km or 9 km west of phường Mỹ Tho, and about 70 km from Ho Chi Minh City."
+  ],
+  "legs": [
+    {
+      "heading": "From the Mỹ Tho ward",
+      "body": "West from the embankment, about 8 km or 9 km, to xã Kim Sơn on the west bank of the Tiền."
+    },
+    {
+      "heading": "From Ho Chi Minh City",
+      "body": "About 70 km on the road toward Mỹ Tho, then west to xã Kim Sơn."
+    }
+  ],
+  "hours": "07:00–18:00",
+  "closed": "Check on arrival",
+  "admissionNote": "40,000–60,000 VND. The two prices are not split by age.",
+  "links": [
+    {
+      "label": "Trại rắn Đồng Tâm",
+      "url": "https://dulich.dongthap.gov.vn/vi/trairandongtam",
+      "note": "Đồng Tháp tourism portal"
+    },
+    {
+      "label": "The farm",
+      "url": "https://trairandongtam.vn/",
+      "note": "The center"
+    }
+  ],
+  "interests": ["family"]
+}
