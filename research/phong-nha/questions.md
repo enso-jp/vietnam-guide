@@ -20,7 +20,7 @@ Checked: 21 Oct 2026
 - Stall prices and hours for every dish in this pass. Check on arrival. The Mooc chicken-set figure stays off the food page.
 - 2027 cave-festival dates. The 4 Aug 2026 note is a draft (S11).
 - The map pin already on the place file was not re-checked.
-- Photographs of Dark Cave, Mooc Spring, the botanical garden, OZO Park, Hang En, Hang Va, Eight Ladies Cave, Sinh Ton Valley, and the 4,500-metre route that show those sites. Commons and Openverse, checked 21 Oct 2026, had no CC BY, CC BY-SA, or public-domain frame of those subjects. Son Doong did. Those other pages stay off until a photograph of the site exists. Do not borrow the boat-cave mouth.
+- Photographs of Dark Cave, Mooc Spring, the botanical garden, OZO Park, Hang Va, Eight Ladies Cave, Sinh Ton Valley, and the 4,500-metre route that show those sites. Commons, checked again 23 Oct 2026, still had no CC BY, CC BY-SA, or public-domain frame of Dark Cave, Mooc Spring, or Eight Ladies Cave. Hang En has one captioned entrance and a rejected Unsplash night camp. Tien Son now has two ZooKeys frames. Do not borrow the boat-cave mouth.
 - The night tour named on the Phong Nha Cave page. Still no price (S1, S21).
 - Whether the 150,000 VND Phong Nha entrance and the 80,000 VND Tien Son entrance are both charged when the boat is the 750,000 VND trip. The English boat page does not print 80,000. The Vietnamese Tien Son page does. Re-read 21 Oct 2026.
 - Vietjet’s Paradise Cave page did not render on the depth pass. The 250,000 VND and 06:30–17:00 reading from earlier on 21 Oct 2026 stays. It was not re-confirmed.
