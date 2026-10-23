@@ -1,0 +1,35 @@
+{
+  "slug": "hanoi-to-ba-be",
+  "name": "Hanoi to Ba Be",
+  "from": "Hanoi",
+  "to": "Ba Be",
+  "summary": "Ba Be is road only. Take a coach from My Dinh or a car to Bac Kan city, then a provincial road up to the lake. No train serves the park.",
+  "modes": [
+    {
+      "mode": "Bus",
+      "duration": "Check on arrival",
+      "note": "Coaches on the Hanoi–Bac Kan and Hanoi–Cao Bang lines leave Bến xe Mỹ Đình and often pass the lake (VnExpress). Wikivoyage describes a morning bus from My Dinh to Chợ Đồn, with a van on to the lakeshore. No operator timetable was printed. Departure, minutes, and fare are Check on arrival."
+    },
+    {
+      "mode": "Car",
+      "duration": "About 2–3 hours to Bac Kan city. The lake leg is Check on arrival.",
+      "note": "The Hanoi–Thai Nguyen expressway and then National Highway 3 take about 2 hours to Bac Kan city, cars only. Old National Highway 3 takes about 3 hours and allows motorbikes (VnExpress). From the city, provincial road 256 is about 60 km to the lake, or road 257 via Chợ Đồn about 70 km. UNESCO puts the park 68 km from Bac Kan city. Minutes on that last leg were not printed."
+    }
+  ],
+  "seoTitle": "Hanoi to Ba Be — bus or car via Bac Kan",
+  "seoDescription": "Getting from Hanoi to Ba Be Lake by coach or car: the two roads to Bac Kan city and the last climb to the park.",
+  "faqs": [
+    {
+      "q": "How far is Ba Be from Hanoi?",
+      "a": "The park board prints about 250 km on one page and about 240 km on another. UNESCO’s tentative list says 250 km. A door-to-door figure is Check on arrival."
+    },
+    {
+      "q": "Is there a train or a flight?",
+      "a": "No station or airfield is named for the park. Nội Bài is the nearest airport, and the rest is road."
+    },
+    {
+      "q": "What about going back to Hanoi?",
+      "a": "Use the same roads in reverse. Ask at your homestay for the current bus departure. Check on arrival."
+    }
+  ]
+}

@@ -12,3 +12,9 @@ Checked: 21 Oct 2026
   - Cao Bang city to Pac Bo | About 55 km on provincial road 203 (S12). A provincial three-day feature indexed on the tourism site said about 52 km; that page was not reloaded. Use 55 km from the relic monograph and treat minutes as Check on arrival.
 - Getting around on site: The city is the hub for the northern and western days; Dam Thuy is the overnight base for the falls (S7, S3). Hire a car or a motorbike in the city for the geopark roads. A local bus to the falls or to Pac Bo — Check on arrival — UNSOURCED. Grab or taxi inside the city — Check on arrival — UNSOURCED.
 - Season limit on the journey: Vietnam Tourism calls October–April the dry season and the better time to travel, November–February cold, and May–September rainy, hot, and humid (S7). The falls are a separate problem: the management board says water is very low from the end of November to the beginning of April and asks visitors to come between 10:30 and 15:30 (S17). Vietnam Tourism describes a dam release on the Quay Son at the end of the dry season between 10:30 and 13:00, and fuller water from June to September (S7, S8). Mountain roads in storms — Check on arrival — UNSOURCED.
+
+## Route findings, 23 Oct 2026 (route pages pass)
+
+- No rail | Wikivoyage “Cao Bang”: “There are no rail connections.” https://en.wikivoyage.org/wiki/Cao_Bang, accessed 23 Oct 2026.
+- Cao Bằng to Hà Giang | Wikivoyage “Ha Giang Loop” gives QL34 west 125 km from Bảo Lạc to Ha Giang. https://en.wikivoyage.org/wiki/Ha_Giang_Loop, accessed 23 Oct 2026. Cao Bằng city to Bảo Lạc — Check on arrival — UNSOURCED.
+- Ba Bể to Cao Bằng | Wikivoyage “Cao Bang”, Go next: Ba Be National Park lies between Cao Bằng and Hà Nội. Kilometres and minutes — Check on arrival — UNSOURCED. The FAQ at babenationalpark.com.vn (about 150 km, local buses via Chợ Rã and Phủ Thông) is a tour company, per `research/ba-be/sources.md`, and was not used.
