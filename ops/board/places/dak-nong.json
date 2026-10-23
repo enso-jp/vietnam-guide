@@ -61,15 +61,15 @@
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:19:40.330Z",
+      "status": "enriched",
+      "note": "Hero is the licensed Dray Sap cascade. Reservoir stand-in removed. Coordinates unset. Interest card is the Serepok sheet. Food guide left skipped.",
+      "updated": "2026-10-23T06:19:23.638Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:19:40.330Z",
+      "status": "checked",
+      "note": "Hero is Dray Sap in daylight, center crop holds the cascade, credit is Dotuanhungdaklak CC BY-SA 3.0. Pin unset. Conflicting distances and the Foody hour are both printed. Fees without an official figure stay Check on arrival. Stay rows have no licensed photo of Gia Nghia or Dak Som.",
+      "updated": "2026-10-23T06:21:07.123Z",
       "reworkCount": 0
     },
     "food": {
@@ -133,11 +133,11 @@
       "file": "src/content/attractions/dak-nong--dray-sap.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": "2026-10-21T11:19:40.330Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Hero and second frame are both Dray Sap in daylight. Fee is Check on arrival. Foody’s 07:30–18:00 is printed. No coordinate was sourced.",
+      "updated": "2026-10-23T06:24:01.933Z",
       "reworkCount": 0
     },
     {
@@ -289,6 +289,46 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-23T06:24:01.933Z",
+      "place": "dak-nong",
+      "stage": "quality",
+      "item": "dak-nong--dray-sap",
+      "status": "checked",
+      "note": "Hero and second frame are both Dray Sap in daylight. Fee is Check on arrival. Foody’s 07:30–18:00 is printed. No coordinate was sourced."
+    },
+    {
+      "at": "2026-10-23T06:23:39.762Z",
+      "place": "dak-nong",
+      "stage": "copy",
+      "item": "dak-nong--dray-sap",
+      "status": "enriched",
+      "note": "Prose names UNESCO and the provincial handbook. Second frame is Draysap01, a different viewpoint of the same sheet. Fee and official hours stay Check on arrival."
+    },
+    {
+      "at": "2026-10-23T06:22:40.129Z",
+      "place": "dak-nong",
+      "stage": "page",
+      "item": "dak-nong--dray-sap",
+      "status": "paged",
+      "note": "Finished Dray Sap from the dossier. Fee, hours, and time on site stay Check on arrival. Foody’s 07:30–18:00 is printed beside that."
+    },
+    {
+      "at": "2026-10-23T06:21:07.123Z",
+      "place": "dak-nong",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Hero is Dray Sap in daylight, center crop holds the cascade, credit is Dotuanhungdaklak CC BY-SA 3.0. Pin unset. Conflicting distances and the Foody hour are both printed. Fees without an official figure stay Check on arrival. Stay rows have no licensed photo of Gia Nghia or Dak Som."
+    },
+    {
+      "at": "2026-10-23T06:19:23.638Z",
+      "place": "dak-nong",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Hero is the licensed Dray Sap cascade. Reservoir stand-in removed. Coordinates unset. Interest card is the Serepok sheet. Food guide left skipped."
+    },
+    {
       "at": "2026-10-21T11:19:48.809Z",
       "place": "dak-nong",
       "stage": "foodQuality",
@@ -407,14 +447,6 @@
       "item": null,
       "status": "needs_depth",
       "note": "Left out: Truc Lam, wind farms, Chu Bluk trek, and separate Gia Long pages."
-    },
-    {
-      "at": "2026-10-21T11:18:33.810Z",
-      "place": "dak-nong",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Left out: exact taxi fares and night-bus timetables from BMV."
     }
   ]
 }
