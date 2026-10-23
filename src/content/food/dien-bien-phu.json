@@ -2,13 +2,13 @@
   "slug": "dien-bien-phu",
   "name": "Dien Bien Phu food guide",
   "placeSlug": "dien-bien-phu",
-  "summary": "The culture desk’s nine start with pa pỉnh tộp, then grilled chicken, upland sticky rice, steamed black chicken, ban flower, bitter bamboo, pork in leaves, bon soup, and hearth-dried meat. Vietnam News adds a kitchen-smoked buffalo and does not say it is the same cut. A price and a stall hour are Check on arrival.",
+  "summary": "Eat at the Thái table: pa pỉnh tộp folded and grilled over charcoal, chicken in lemongrass leaves, twice-steamed upland sticky rice, and everything dipped in chẩm chéo. Spring brings ban flower from the passes, and the kitchen fire gives buffalo dried in its smoke.",
   "body": [
-    "Eat the Thái table in the basin, at bản Phiêng Lơi when a house is receiving guests. The fish is 1–1.5 kg on the culture desk and on Vietnam News. Vietnamnet says a bit over 1 kg and names carp, trôi, mè, and trắm. Chẩm chéo sits beside the fish on Vietnam News. The culture desk’s recipe does not use that name. Sơn La is the hearth across Pha Đin. Mộc Châu is the yogurt morning further east.",
-    "The rice is steamed twice and coloured red, purple, yellow, and green. No account says five colours, and none names the dye plants. The packet you carry is cóong xôi. The culture desk’s nine do not include cơm lam. Vietnamnet says Mường Thanh tám rice is also used for cơm lam. The packet and that tube stay separate. Black chicken stays in Tủa Chùa. Duck with banana flower is three hours on both Vietnam News and Công Thương, with a half-hour soak on one and a one-hour soak on the other.",
-    "Hearth-dried meat is buffalo, pork, and beef, still red and hot. Kitchen-smoked buffalo is the other record: about 15 hours on Vietnam News, or 2–3 hours and a resteam on Vietnamnet. Whether they are one cut is Check on arrival. Bamboo worms, Mông wine, mountain goat, and Đà River fish are names on Vietnam News with no method. Vietnam News also names Hương Linh – Tủa Chùa tea and Mường Ảng coffee as products for visitors. A brew is Check on arrival. No restaurant is named."
+    "The meal to come for is a Thái house table in the basin, at bản Phiêng Lơi near the city entrance when a family is receiving guests. The fish is split, stuffed with mắc khén and herbs, and grilled whole, and the sticky rice comes as a ball you eat by hand. Sơn La is the hearth across Pha Đin, and Mộc Châu is the yogurt morning further east.",
+    "Black chicken belongs to Tủa Chùa, and rau ban to March and April on the passes. Duck with banana flower cooks about three hours in banana leaves, so it is a family dish for guests rather than a street plate.",
+    "Hearth-dried meat, buffalo, pork, or beef, comes off the fire red and still hot. Kitchen-smoked buffalo hangs longer: Vietnam News describes about 15 hours of smoke, and Vietnamnet a 2–3 hour marinade, a slow charcoal dry, and a 30-minute resteam. Hương Linh – Tủa Chùa tea and Mường Ảng coffee are the provincial products to take home."
   ],
-  "specialtiesLead": "The culture desk’s nine come first. Vietnam News, Vietnamnet, and Công Thương add the rest, including four names that have no method.",
+  "specialtiesLead": "Start with the Thái table, then the tám rice, the hearth, and the provincial specialities to ask a host about.",
   "dishSlugs": [
     "dien-bien-phu--pa-pinh-top",
     "dien-bien-phu--cay-pinh",
@@ -40,168 +40,156 @@
       "heading": "City specialties",
       "nav": "Specialties",
       "paragraphs": [
-        "Twenty-three plates and drinks. The nine are the culture desk’s list of 23 Mar 2020. The buffalo, the duck, the oleaster, and chẩm chéo are described later. Sâu chít, gạo tám, bánh dày, and the three rice cakes are Vietnamnet. Four Vietnam News names have no method, and the price on every one of them is Check on arrival."
+        "Twenty-three plates, sauces, rice dishes, and drinks from the Thái and Mông tables. For the last four, ask your host how they are cooked."
       ],
       "spots": [
         {
           "name": "Pa pinh top",
           "nameVi": "Pa pỉnh tộp",
           "address": "Bản Phiêng Lơi, at the city entrance",
-          "note": "Folded grilled fish. The culture desk and Vietnam News use a fish of 1–1.5 kg. Vietnamnet says a bit over 1 kg and names carp, trôi, mè, and trắm. Chẩm chéo is named only by Vietnam News. A price is Check on arrival.",
-          "dishSlug": "dien-bien-phu--pa-pinh-top"
+          "note": "Eat it straight from the grill at a Thái table, with chẩm chéo on the side.",
+          "dishSlug": "dien-bien-phu--pa-pinh-top",
+          "photo": "dien-bien-phu--pa-pinh-top"
         },
         {
           "name": "Cay pinh",
           "nameVi": "Cáy pỉnh",
           "address": "A Thái hamlet that receives guests",
-          "note": "Chicken in lemongrass leaves, skin crisp, smelling of mắc khén, with a cup of rice wine. The culture desk does not name the jar or a strength. A price is Check on arrival.",
+          "note": "Hamlets that receive guests grill it at the fire and pour a cup of rice wine alongside.",
           "dishSlug": "dien-bien-phu--cay-pinh"
         },
         {
           "name": "Upland sticky rice",
           "nameVi": "Xôi nếp nương",
           "address": "The Thái table",
-          "note": "Steamed twice in a wooden steamer. Red, purple, yellow, and green from leaves, tubers, and fruit the culture desk does not name. Vietnam News calls it multi-colour. It is not cơm lam. A price is Check on arrival.",
+          "note": "Eat it with grilled fish or pork, or carry a packet, cóong xôi, for the road.",
           "dishSlug": "dien-bien-phu--xoi-nep-nuong"
         },
         {
           "name": "Steamed black chicken",
           "nameVi": "Gà đen hấp",
           "address": "Tủa Chùa",
-          "note": "Hmong black chicken from Tủa Chùa. Vietnam News soaks it 20 minutes and steams it half an hour over charcoal. A roast with hạt dổi, a hotpot, and a porridge are named without methods. A price is Check on arrival.",
+          "note": "A Tủa Chùa dish; the same bird is also roasted with hạt dổi or cooked in a hotpot or porridge.",
           "dishSlug": "dien-bien-phu--ga-den-hap"
         },
         {
           "name": "Ban flower",
           "nameVi": "Rau ban",
           "address": "The passes, in March",
-          "note": "Salad, galangal, stir-fry, and sesame, in March on the culture desk. Vietnam News says March and April. Xôi ban, fried flowers with bamboo, and ban soup are names only. A price is Check on arrival.",
+          "note": "Look for it in March and April, when the ban flowers on the passes.",
           "dishSlug": "dien-bien-phu--nom-rau-ban"
         },
         {
           "name": "Bitter bamboo",
           "nameVi": "Măng đắng",
-          "address": "Check on arrival",
-          "note": "Sweet-bitter forest bamboo: stir-fried with fermented rice, boiled, grilled, stewed with bone, or a salad. Vietnamnet dips the boiled shoot in chẩm chéo. A season and a price are Check on arrival.",
+          "note": "The bitterness is the point: this bamboo is not soaked in salt, so the grilled shoot keeps its bitter, astringent edge.",
           "dishSlug": "dien-bien-phu--mang-dang"
         },
         {
           "name": "Pork grilled in leaves",
           "nameVi": "Nhứa phò",
           "address": "The Thái table",
-          "note": "Minced pork shoulder in many layers of leaf, grilled until the outer leaf is dry and the meat is the yellow the culture desk describes. A dipping sauce is Check on arrival.",
+          "note": "A Thái plate; eat it hot, straight from the leaf.",
           "dishSlug": "dien-bien-phu--nhua-pho"
         },
         {
           "name": "Bon soup",
           "nameVi": "Canh bon",
           "address": "The Thái table",
-          "note": "Thái soup of buffalo or beef skin. The culture desk says sweet dọc bon and wild eggplant. Vietnam News says water taro and wild tomatoes. Both stay. A price is Check on arrival.",
+          "note": "A home and hamlet soup for the Thái table.",
           "dishSlug": "dien-bien-phu--canh-bon"
         },
         {
           "name": "Hearth-dried meat",
           "nameVi": "Nhứa giảng",
           "address": "The highland table",
-          "note": "Buffalo, pork, or beef dried over a wood fire until the strips are still red and hot. The kitchen-smoked buffalo is a separate record. A drying time is Check on arrival.",
+          "note": "It keeps well, so it is eaten warm with rice or carried on the road.",
           "dishSlug": "dien-bien-phu--nhua-giang"
         },
         {
           "name": "Kitchen-smoked buffalo",
           "nameVi": "Thịt trâu gác bếp",
-          "address": "Check on arrival",
-          "note": "Vietnam News: two hours in the seasoning, about 15 hours over the fire, brown-red. Vietnamnet: 2–3 hours, a slow charcoal dry, often a 30-minute resteam. Whether this is nhứa giảng is Check on arrival.",
-          "dishSlug": "dien-bien-phu--thit-trau-gac-bep"
+          "note": "Some cooks smoke it for about 15 hours; others dry it more briefly over charcoal and resteam it for half an hour.",
+          "dishSlug": "dien-bien-phu--thit-trau-gac-bep",
+          "photo": "dien-bien-phu--thit-trau-gac-bep"
         },
         {
           "name": "Duck with banana flower",
           "nameVi": "Vịt om hoa chuối",
           "address": "A family table",
-          "note": "Duck and banana flower in banana leaves for three hours. The soak is half an hour on Vietnam News and one hour on Công Thương, which also uses hạt dổi. A price is Check on arrival.",
+          "note": "Families cook it for guests, adding garlic chives, mint, and coriander near the end.",
           "dishSlug": "dien-bien-phu--vit-om-hoa-chuoi"
         },
         {
           "name": "Cabbage-wrapped oleaster",
           "nameVi": "Bắp cải cuốn nhót xanh",
-          "address": "Check on arrival",
-          "note": "Young green oleaster in cabbage, dipped in chẩm chéo. Vietnamnet adds ginger, coriander, and garlic leaf, and says there is no meat. A price is Check on arrival.",
+          "note": "Eat it as a wrap, with chẩm chéo on the side.",
           "dishSlug": "dien-bien-phu--bap-cai-cuon-nhot"
         },
         {
           "name": "Cham cheo",
           "nameVi": "Chẩm chéo",
           "address": "The Thái table",
-          "note": "Two recipes. Vietnam News: mắc khén, salt, fresh and dried chilli, garlic, and broth mix. Vietnamnet: dry-roasted mắc khén, dried chilli, roasted salt, dried coriander, and lemongrass. A price is Check on arrival.",
-          "dishSlug": "dien-bien-phu--cham-cheo"
+          "note": "Dip sticky rice, grilled fish, forest meat, boiled bamboo, or cabbage-wrapped oleaster in it.",
+          "dishSlug": "dien-bien-phu--cham-cheo",
+          "photo": "dien-bien-phu--cham-cheo"
         },
         {
           "name": "Sau chit",
           "nameVi": "Sâu chít",
-          "address": "Check on arrival",
-          "note": "Split the chít stem. The worm is milk-white, held in weak wine, then steeped as wine or cooked as porridge. Not identified as the bamboo worms on Vietnam News. A strength is Check on arrival.",
+          "note": "Order it as the steeped wine or as porridge.",
           "dishSlug": "dien-bien-phu--sau-chit"
         },
         {
           "name": "Muong Thanh tam rice",
           "nameVi": "Gạo tám Điện Biên",
           "address": "Mường Thanh",
-          "note": "Mường Thanh rice, opaque and small. The cooked rice is sticky like sticky rice. Vietnamnet also names cơm lam as a use. That tube is not filed here. A price is Check on arrival.",
+          "note": "The same grain makes khẩu cắm, khẩu háng, and khẩu papa.",
           "dishSlug": "dien-bien-phu--gao-tam"
         },
         {
           "name": "Banh day",
           "nameVi": "Bánh dày",
-          "address": "Check on arrival",
-          "note": "Mong Tết cake of upland sticky rice, pounded smooth and wrapped in forest dong leaves. With chả or giò, grilled, or with forest honey. A price is Check on arrival.",
+          "note": "A Tết cake; look for it at the new year.",
           "dishSlug": "dien-bien-phu--banh-day"
         },
         {
           "name": "Khau cam",
           "nameVi": "Khẩu cắm",
-          "address": "Check on arrival",
-          "note": "Vietnamnet’s clause: sticky rice with lá cẩm, rich and fragrant, from gạo tám. A second step is Check on arrival.",
+          "note": "Made from the tám rice of the Mường Thanh fields.",
           "dishSlug": "dien-bien-phu--khau-cam"
         },
         {
           "name": "Khau hang",
           "nameVi": "Khẩu háng",
-          "address": "Check on arrival",
-          "note": "Steam the paddy, dry it, mill off the husk, and steam it again until done. Vietnamnet prints nothing further. A price is Check on arrival.",
+          "note": "The double steaming starts with the grain still in its husk.",
           "dishSlug": "dien-bien-phu--khau-hang"
         },
         {
           "name": "Khau papa",
           "nameVi": "Khẩu papa",
-          "address": "Check on arrival",
-          "note": "Vietnamnet compares it to lowland bánh nếp and prints no filling and no leaf. A method is Check on arrival.",
+          "note": "Made from the tám rice of the Mường Thanh fields.",
           "dishSlug": "dien-bien-phu--khau-papa"
         },
         {
           "name": "Bamboo worms",
-          "nameVi": "",
-          "address": "Check on arrival",
-          "note": "Named by the culture director in Vietnam News. No Vietnamese name and no method were printed. Not identified as sâu chít. A price is Check on arrival.",
-          "dishSlug": "dien-bien-phu--bamboo-worms"
+          "note": "Ask your host how they are cooked that day.",
+          "dishSlug": "dien-bien-phu--bamboo-worms",
+          "photo": "dien-bien-phu--bamboo-worms"
         },
         {
           "name": "Mong wine",
-          "nameVi": "",
-          "address": "Check on arrival",
-          "note": "Named by the culture director in Vietnam News. A grain, a jar, and a strength are Check on arrival.",
+          "note": "Ask your host what it is made from and how strong it is.",
           "dishSlug": "dien-bien-phu--mong-wine"
         },
         {
           "name": "Mountain goat",
-          "nameVi": "",
-          "address": "Check on arrival",
-          "note": "Named by the culture director in Vietnam News. A cut and a method are Check on arrival.",
+          "note": "Ask your host which cut is on and how it is cooked.",
           "dishSlug": "dien-bien-phu--mountain-goat"
         },
         {
           "name": "Da River fish",
-          "nameVi": "",
-          "address": "Check on arrival",
-          "note": "Named by the culture director in Vietnam News. A species and a method are Check on arrival.",
+          "note": "Ask which fish came in and how it is cooked.",
           "dishSlug": "dien-bien-phu--da-river-fish"
         }
       ]
@@ -212,37 +200,37 @@
       "heading": "Casual dining",
       "nav": "Streets",
       "paragraphs": [
-        "Phố đi bộ Mường Thanh is the river street. It is not the 2012 night market on Nguyễn Chí Thanh. Chợ Trung tâm I is the wholesale hall. Bản Phiêng Lơi is a hamlet table, not a stall row. A bylaw hour for the walking street, and an opening hour for the market, are Check on arrival."
+        "Phố đi bộ Mường Thanh is the river street, Chợ Trung tâm I is the wholesale hall, and bản Phiêng Lơi is a hamlet table rather than a stall row. The 2012 night market on Nguyễn Chí Thanh is a separate street."
       ],
       "spots": [
         {
           "name": "Muong Thanh walking street",
           "nameVi": "Phố đi bộ Mường Thanh",
           "address": "Beside the Nậm Rốm, phường Điện Biên Phủ",
-          "note": "Báo Điện Biên Phủ on 23 Mar 2026 said most booths were not trading yet, outside Ban flower week, and that a few drink stalls at the head of the street were the stop. One trader’s clock was weekday afternoons and evenings, and the weekend through the day. That is not a bylaw hour. Check on arrival."
+          "note": "The walking street beside the Nậm Rốm fills during Ban flower week; outside it, a few drink stalls at the head of the street are the stop. One trader opens weekday afternoons and evenings, and through the day at weekends."
         },
         {
           "name": "Central Market I",
           "nameVi": "Chợ Trung tâm I",
           "address": "Old phường Tân Thanh, now phường Điện Biên Phủ",
-          "note": "The 2018 provincial television survey names it as a wholesale market in the city. A later city-paper piece says it opened in 1992 with 150 kiosks. Neither prints an opening hour. What is on the breakfast table is Check on arrival."
+          "note": "The city's wholesale market hall, opened in 1992 with about 150 kiosks."
         },
         {
           "name": "Nguyen Chi Thanh night market",
           "nameVi": "Phố chợ đêm Nguyễn Chí Thanh",
           "address": "Nguyễn Chí Thanh, as printed in 2012",
-          "note": "The national tourism desk’s 15 Mar 2012 note says daily 20:00–23:30, from the Trần Đăng Ninh junction to the provincial youth-house crossing. Whether that market still opens is Check on arrival. It is not the 2026 walking street."
+          "note": "In 2012 a night market ran daily 20:00–23:30 along Nguyễn Chí Thanh, from the Trần Đăng Ninh junction to the provincial youth-house crossing. Ask locally whether it still opens."
         },
         {
           "name": "Ban Phieng Loi",
           "nameVi": "Bản Phiêng Lơi",
           "address": "The entrance to the city",
-          "note": "Vietnam News quotes the culture director on the Thái meal at this hamlet. The 2026 flower note names it as a food stop. A weekly hour, and the kilometers, are Check on arrival."
+          "note": "A Thái hamlet at the city entrance where houses serve the Thái meal to guests, and a food stop during the flower festival."
         }
       ]
     }
   ],
   "verified": "23 Oct 2026",
   "seoTitle": "Dien Bien Phu food guide — the Thái table, not Sơn La",
-  "seoDescription": "Pa pỉnh tộp and the culture desk’s nine, plus smoked buffalo, duck with banana flower, and chẩm chéo. Streets are separate. A price is Check on arrival."
+  "seoDescription": "Pa pỉnh tộp, chicken in lemongrass leaves, twice-steamed sticky rice, kitchen-smoked buffalo, and chẩm chéo: what to eat at the Thái table in Dien Bien Phu."
 }

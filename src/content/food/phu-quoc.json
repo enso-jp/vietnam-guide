@@ -2,13 +2,13 @@
   "slug": "phu-quoc",
   "name": "Phu Quoc food guide",
   "placeSlug": "phu-quoc",
-  "summary": "Bún quây is the morning bowl: rice-flour noodles, seafood, and a sauce you mix. Dinner is ghẹ Hàm Ninh, gỏi cá trích, and the catch at the night market. Fish sauce and pepper are the pantry. Where a price was not printed, it is Check on arrival.",
+  "summary": "Bún quây is the morning bowl: rice-flour noodles, seafood, and a sauce you mix. Dinner is boiled crab at Hàm Ninh, gỏi cá trích in rice paper, and the catch at the night market. Fish sauce and pepper are what you carry home.",
   "body": [
-    "Start with bún quây. Vietnam National Authority of Tourism says it arrived from central Vietnam in 1955 as ground shrimp, was called bún tôm until 1996, and is now served through the day and into the evening. Eat it on the street across from the Dương Đông harbour, or along Long Beach. The sauce is chili, sugar, fish sauce, and citrus.",
-    "The seafood account then names grilled nhum, gỏi cá trích, ghẹ Hàm Ninh, tôm mũ ni, ốc, and cá sòng nướng. The nature account adds bún kèn, grilled oysters with echinus, and honey coffee at a bee farm. The whisper account adds grilled cobia. Cục Du lịch Quốc gia Việt Nam adds cùi biên mai nướng, rượu sim, and cá suối. The night account adds cashew nuts, dried seaweed, and squid to the list of things to buy.",
-    "Fish sauce keeps every figure. Hội nước mắm Phú Quốc says 20–43 gN/lít and up to 40°N. Cục Du lịch Quốc gia Việt Nam says over 10 million litres a year. The district account says about 6 million litres and nitrogen trên 25ºC. The association says the Gulf of Thailand. Vietnam National Authority of Tourism’s fish-sauce account says the clear Andaman Sea. Pepper is over 1,000 tons a year on the 3-day account. A price on every plate is Check on arrival."
+    "Start the day with bún quây, the island’s stirred noodle bowl: rice-flour noodles, fish, shrimp, and squid, with a dip of chili, sugar, fish sauce, and citrus you mix yourself. It came from central Vietnam in 1955 as a ground-shrimp bowl called bún tôm, took on the island’s seafood in 1996, and now runs from morning into the evening on the street across from the Dương Đông harbour and along Long Beach.",
+    "Dinner comes from the sea. Grilled nhum scooped up with lime and pepper, gỏi cá trích rolled in rice paper, crab boiled at Hàm Ninh, sweet tôm mũ ni, sea snails, grilled cobia, and cá sòng off the charcoal. Away from the water there is bún kèn in a coconut-and-curry broth, honey coffee at a bee farm, and stream fish, sim wine, and grilled biên mai seed on the park walk.",
+    "Fish sauce and pepper are what you carry home. Nước mắm Phú Quốc ages in wooden vats. Hội nước mắm Phú Quốc puts it at 20–43 gN/lít, and up to 40°N in its introduction. Cục Du lịch Quốc gia Việt Nam counts over 10 million litres a year, and the district counts about 6 million, at trên 25ºC. The association sources the anchovy in the Gulf of Thailand. Vietnam National Authority of Tourism’s fish-sauce feature says the clear Andaman Sea. The pepper gardens send out over 1,000 tons a year."
   ],
-  "specialtiesLead": "Bún quây, nước mắm, and hồ tiêu come first. The other specialties follow. The street is here when a publisher printed one.",
+  "specialtiesLead": "Bún quây, nước mắm, and hồ tiêu come first, then the seafood plates, the park snacks, and the meals on the northern sand.",
   "dishSlugs": [
     "phu-quoc--bun-quay",
     "phu-quoc--nuoc-mam",
@@ -39,7 +39,7 @@
       "heading": "Bowls and seafood",
       "nav": "Seafood",
       "paragraphs": [
-        "These are the bowls and plates Vietnam National Authority of Tourism and Cục Du lịch Quốc gia Việt Nam name. An hour that was not printed is Check on arrival."
+        "The bowls and plates the island cooks from its own water: noodles in the morning, grilled and boiled seafood after dark."
       ],
       "spots": [
         {
@@ -47,84 +47,88 @@
           "nameVi": "Bún quây",
           "address": "Dương Đông harbour street, and Long Beach",
           "dishSlug": "phu-quoc--bun-quay",
-          "note": "Rice-flour noodles, fish, shrimp, squid, herbs, and onion. Mix chili, sugar, fish sauce, and citrus. Traditionally morning, and now through the day and into the evening. A price is Check on arrival."
+          "note": "Rice-flour noodles in a stirred broth with fish, shrimp, squid, herbs, and onion, eaten with a dip you mix from chili, sugar, fish sauce, and citrus. It is a morning bowl by tradition, served now into the evening."
         },
         {
           "name": "Bun ken",
           "nameVi": "Bún kèn",
-          "address": "Check on arrival",
+          "address": "Noodle stalls",
           "dishSlug": "phu-quoc--bun-ken",
-          "note": "A noodle with Cambodian origins. The broth is dried fish, coconut milk, and a dash of curry powder. No street was printed. A price is Check on arrival."
+          "note": "A noodle bowl with Cambodian roots, in a broth of dried fish, coconut milk, and a dash of curry powder."
         },
         {
           "name": "Goi ca trich",
           "nameVi": "Gỏi cá trích",
-          "address": "Check on arrival",
+          "address": "Seafood tables by the water",
           "dishSlug": "phu-quoc--goi-ca-trich",
-          "note": "Raw herring in rice paper. The specialty-seafood account adds shredded coconut, mint, onion, and a fish-sauce dip. The nature account does not mention coconut. Lunch or dinner by the water on that account, and any time of day on the other. A price is Check on arrival."
+          "note": "Raw herring with mint, onion, shredded coconut, and crisp vegetables, rolled in rice paper and dipped in fish sauce with garlic, chili, and roasted peanuts. It tastes aromatic and fresh, a salad for a hot day.",
+          "photo": "phu-quoc--goi-ca-trich"
         },
         {
           "name": "Ghe Ham Ninh",
           "nameVi": "Ghẹ Hàm Ninh",
           "address": "Làng chài Hàm Ninh",
           "dishSlug": "phu-quoc--ghe-ham-ninh",
-          "note": "Boiled crab with lime and pepper. One account says 20 km northeast of Dương Đông. The specialty-seafood account says 20 km from Duong Dong town. Both stay. A price is Check on arrival."
+          "note": "Crab boiled as soon as it comes off the boat, red-shelled with firm, fragrant meat, dipped in salt, pepper, and lime. The smaller crabs carry more flavour."
         },
         {
           "name": "Nhum bien",
           "nameVi": "Nhum biển",
-          "address": "Dinh Cau night market",
+          "address": "Dinh Cậu night market",
           "dishSlug": "phu-quoc--nhum",
-          "note": "Grilled sea urchin with peanuts and spring onion, dipped in lime and pepper. The nature account serves echinus with grilled oysters, shallots, peanuts, and green onion. The day account says frilled sea urchin and prints no method. A price is Check on arrival."
+          "note": "Sea urchin grilled with oil, roasted peanuts, and spring onion until creamy, then scooped out and dipped in lime and pepper. Zest, spice, and a fresh sea aroma."
         },
         {
           "name": "Grilled oysters",
           "nameVi": "",
-          "address": "Check on arrival",
+          "address": "Seafood tables on the coast",
           "dishSlug": "phu-quoc--hau-nuong",
-          "note": "The nature account serves grilled oysters with echinus, roasted shallots, peanuts, and green onion. A Vietnamese name was not printed. A price is Check on arrival."
+          "note": "Oysters grilled in the shell and served with sea urchin, roasted shallots, peanuts, and green onion.",
+          "photo": "phu-quoc--hau-nuong"
         },
         {
           "name": "Ca song nuong",
           "nameVi": "Cá sòng nướng",
-          "address": "Check on arrival",
+          "address": "Seafood tables by the water",
           "dishSlug": "phu-quoc--ca-song-nuong",
-          "note": "Grilled Trachurus with salt and chili, wrapped in rice paper with herbs. The nature account names lunch or dinner by the water and prints no seasoning. No beach was named. A price is Check on arrival."
+          "note": "Horse mackerel grilled on charcoal with salt and chili, then wrapped in rice paper with herbs and vegetables. Aromatic and sweet, meatier and less fishy than most seafood."
         },
         {
           "name": "Tom mu ni",
           "nameVi": "Tôm mũ ni",
           "address": "Night market, and upmarket restaurants",
           "dishSlug": "phu-quoc--tom-mu-ni",
-          "note": "Boiled slipper lobster, clawless, dipped in lime, salt, and Phú Quốc pepper. No door was named. A price is Check on arrival."
+          "note": "Clawless slipper lobster boiled until tender, with sweet white tail meat between shrimp and lobster. Dip it in lime, salt, and Phú Quốc pepper.",
+          "photo": "phu-quoc--tom-mu-ni"
         },
         {
           "name": "Oc",
           "nameVi": "Ốc",
-          "address": "Check on arrival",
+          "address": "Seafood tables on the island",
           "dishSlug": "phu-quoc--oc",
-          "note": "Sea snails. No species and no cooking method were printed. A price is Check on arrival."
+          "note": "Sea snails, plentiful and inexpensive and served in many kinds. Watch what the next table is eating, then order more than one.",
+          "photo": "phu-quoc--oc"
         },
         {
           "name": "Grilled cobia",
           "nameVi": "",
-          "address": "Check on arrival",
+          "address": "Seafood tables on the coast",
           "dishSlug": "phu-quoc--grilled-cobia",
-          "note": "The whisper account lists grilled cobia with sea urchin and herring salad. A Vietnamese name and a method beyond grilled were not printed. A price is Check on arrival."
+          "note": "Cobia grilled as a seafood plate, eaten with sea urchin and herring salad as the taste of the island."
         },
         {
           "name": "Squid",
           "nameVi": "",
           "address": "Dinh Cau night market, or back on shore after a night catch",
           "dishSlug": "phu-quoc--squid",
-          "note": "The underwater account says you eat the squid you catch, back on shore. The night account says to buy squid at the market. A cooking method was not printed. A price is Check on arrival."
+          "note": "One of the island’s most popular seafood plates, best eaten back on shore after a night squid-fishing trip. The night market sells it too."
         },
         {
           "name": "Ca suoi",
           "nameVi": "Cá suối",
           "address": "National park streams",
           "dishSlug": "phu-quoc--ca-suoi",
-          "note": "Stream fish, named with sim wine and the grilled seed. Suối Tranh, suối Đá Bàn, and suối Đá Ngọn are the streams. Which one has the kitchen was not printed. A price is Check on arrival."
+          "note": "Fish from the park’s streams, Suối Tranh, suối Đá Bàn, and suối Đá Ngọn, eaten on the forest walk with sim wine and grilled biên mai seed."
         }
       ]
     },
@@ -133,7 +137,7 @@
       "heading": "Pantry, drinks, and snacks",
       "nav": "Pantry",
       "paragraphs": [
-        "Fish sauce, pepper, and sim wine are the things the island sends you home with. Cashew nuts and dried seaweed are on the same night-market list. Bãi Thơm’s coconut, hotpot, and seafood platter had no Vietnamese names."
+        "Fish sauce, pepper, and sim wine are what the island sends you home with, and cashews and dried seaweed sit on the same night-market tables. Bãi Thơm adds a coconut, a hotpot, and a seafood platter on the sand."
       ],
       "spots": [
         {
@@ -141,70 +145,74 @@
           "nameVi": "Nước mắm Phú Quốc",
           "address": "Barrel houses along the old Dương Đông river",
           "dishSlug": "phu-quoc--nuoc-mam",
-          "note": "Anchovy sauce from wooden vats. Nitrogen 20–43 gN/lít and up to 40°N. Over 10 million litres a year, and about 6 million litres, both stay. The Gulf of Thailand and the clear Andaman Sea both stay. A bottle price is Check on arrival."
+          "note": "Anchovy fish sauce aged in wooden vats, dark as a cockroach wing, salty and deeply sweet with a natural fat. It smells light and clean, with no fishy edge.",
+          "photo": "phu-quoc--nuoc-mam"
         },
         {
           "name": "Ho tieu",
           "nameVi": "Hồ tiêu",
           "address": "Inland gardens",
           "dishSlug": "phu-quoc--ho-tieu",
-          "note": "Aromatic and spicy, a floral aroma and intense heat, and pungent and spicy. All three stay. The 3-day account says over 1,000 tons a year. No commune was printed. A price is Check on arrival."
+          "note": "Peppercorns from the island’s gardens, aromatic and spicy, with a floral nose and real heat. Taste them on a morning garden visit and take a bag home.",
+          "photo": "phu-quoc--ho-tieu"
         },
         {
           "name": "Ruou sim",
           "nameVi": "Rượu sim rừng",
           "address": "Bãi Sao, the national park, and the Dinh Cau night market",
           "dishSlug": "phu-quoc--ruou-sim",
-          "note": "Forest sim wine. The night account calls it myrtle wine. A strength was not printed. A price is Check on arrival."
+          "note": "A wine made from forest sim fruit, sold on the island as myrtle wine. Pour a glass at Bãi Sao or after the forest walk."
         },
         {
           "name": "Cui bien mai nuong",
           "nameVi": "Cùi biên mai nướng",
           "address": "Bãi Sao and the national park",
           "dishSlug": "phu-quoc--cui-bien-mai",
-          "note": "A grilled local seed. A botanical name was not printed. A price is Check on arrival."
+          "note": "A local seed grilled over the fire, the snack after a swim at Bãi Sao or on the park walk."
         },
         {
           "name": "Honey coffee",
           "nameVi": "",
           "address": "A bee farm",
           "dishSlug": "phu-quoc--honey-coffee",
-          "note": "Coffee and sweets with island honey, tasted while walking the hives. A Vietnamese name was not printed. Not shown to be breakfast. A price is Check on arrival."
+          "note": "Coffee and sweets made with island honey, tasted while you walk among the hives."
         },
         {
           "name": "Cashew nuts",
           "nameVi": "",
           "address": "Dinh Cau night market",
           "dishSlug": "phu-quoc--cashew",
-          "note": "Listed with the fish sauce and the pepper as something to buy. A preparation was not printed. A price is Check on arrival."
+          "note": "Cashew nuts, one of the things the island is known for, sold beside the fish sauce and pepper to carry home.",
+          "photo": "phu-quoc--cashew"
         },
         {
           "name": "Dried seaweed",
           "nameVi": "",
           "address": "Dinh Cau night market",
           "dishSlug": "phu-quoc--dried-seaweed",
-          "note": "Listed with the fish sauce and the pepper as something to buy. A cooking method was not printed. A price is Check on arrival."
+          "note": "Dried seaweed, one of the island’s take-home foods, sold beside the fish sauce and pepper."
         },
         {
           "name": "Coconut",
           "nameVi": "",
           "address": "Bãi Thơm",
           "dishSlug": "phu-quoc--coconut",
-          "note": "A stop on the northern tip, named with a hotpot and a seafood platter. A Vietnamese name was not printed. A price is Check on arrival."
+          "note": "A coconut on the sand, the drink of the northern beach stop.",
+          "photo": "phu-quoc--coconut"
         },
         {
           "name": "Beach hotpot",
           "nameVi": "",
           "address": "Bãi Thơm",
           "dishSlug": "phu-quoc--hotpot",
-          "note": "A hotpot on the beach. Ingredients were not printed. A price is Check on arrival."
+          "note": "A hotpot shared on the beach, the sit-down meal of the northern stop."
         },
         {
           "name": "Seafood platter",
           "nameVi": "",
           "address": "Bãi Thơm",
           "dishSlug": "phu-quoc--seafood-platter",
-          "note": "A seafood platter on the beach. The fish were not named. A price is Check on arrival."
+          "note": "A seafood platter eaten on the sand, ordered with a coconut or a hotpot."
         }
       ]
     },
@@ -214,7 +222,7 @@
       "heading": "International dining",
       "nav": "International",
       "paragraphs": [
-        "Vietnam National Authority of Tourism says Western food is served along Bãi Sao and Long Beach, and names no door. The whisper account says high-end beachfront salons offer Japanese-French fusion and grilled beef, and names no door. A price is Check on arrival."
+        "Western food is served along Bãi Sao and Long Beach. High-end beachfront rooms offer Japanese-French fusion and grilled beef."
       ]
     },
     {
@@ -223,56 +231,56 @@
       "heading": "Casual dining",
       "nav": "Streets",
       "paragraphs": [
-        "Three market names were not shown to be one gate. The 3-day account puts the Phu Quoc Night Market on Bạch Đằng in Dương Đông, pedestrian in the evening, with 50-plus stalls, and prints no clock. The night account says the streets near Dinh Cậu are closed to traffic from 5 pm until midnight, with 100-odd stalls, and more than half sell food. The day account says more than a hundred vendors. The nature account says Dương Đông seafood market and prints no street. All of the counts stay."
+        "Dinner is the night market in Dương Đông. Three names and three counts circulate: 50-plus stalls on a pedestrian Bạch Đằng, 100-odd stalls near Dinh Cậu with the streets closed to traffic from 5 pm until midnight, and more than a hundred vendors on the day itinerary. Each is listed below, with the beaches and the fishing villages after them."
       ],
       "spots": [
         {
           "name": "Dinh Cau night market",
           "nameVi": "Chợ đêm Dinh Cậu",
           "address": "Streets near Dinh Cậu",
-          "note": "Vietnam National Authority of Tourism says the streets near the rock temple are closed to traffic from 5 pm until midnight. More than half of the 100-odd stalls sell food. A street number is Check on arrival."
+          "note": "The streets near the rock temple close to traffic from 5 pm until midnight, and more than half of the 100-odd stalls sell food."
         },
         {
           "name": "Phu Quoc Night Market",
           "nameVi": "",
           "address": "Bạch Đằng, Dương Đông",
-          "note": "The 3-day account puts this market on Bạch Đằng, pedestrian in the evening, with 50-plus stalls selling seafood and local dishes. It prints no clock. Check on arrival."
+          "note": "A pedestrian street in the evening, with 50-plus stalls of seafood and local dishes."
         },
         {
           "name": "Duong Dong seafood market",
           "nameVi": "",
-          "address": "Check on arrival",
-          "note": "The nature account says the day’s catch is grilled, boiled, steamed, and stir-fried. No street and no clock were printed. Check on arrival."
+          "address": "Dương Đông",
+          "note": "Choose from the day’s catch and have it grilled, boiled, steamed, or stir-fried at the stall."
         },
         {
           "name": "Rach Vem",
           "nameVi": "Rạch Vẹm",
           "address": "North of Dương Đông",
-          "note": "The island-hopping account puts floating restaurants on Rach Vem Beach, the village next to Starfish Beach. The 3-day account puts starfish beach in Rach Vem fishing village, about 20 km north of Duong Dong, and says the catch is cooked on the spot. Both stay. An hour is Check on arrival."
+          "note": "Floating restaurants on the beach beside Starfish Beach, where you lie in a hammock and eat seafood cooked from the water in front of you. One itinerary puts the fishing village about 20 km north of Duong Dong."
         },
         {
           "name": "Long Beach",
           "nameVi": "Bãi Trường",
           "address": "The west-coast strip",
-          "note": "Food, drink, and cocktails along the sand. The day account says dinner is served on white tablecloths and on plastic stools. Western food is named here and no menu was printed. Sunset into the evening. A price is Check on arrival."
+          "note": "Food, drink, and cocktails along the sand from sunset into the evening, on white tablecloths or plastic stools, with Western menus beside the Vietnamese ones."
         },
         {
           "name": "Sao Beach",
           "nameVi": "Bãi Sao",
           "address": "The southeast beach",
-          "note": "Western and Vietnamese food along the beach, plus cùi biên mai nướng and rượu sim. The 3-day account says entrance and parking are free. No other opened account prints a beach ticket, so a fee is Check on arrival. A meal hour was not printed."
+          "note": "Western and Vietnamese food along the beach, plus grilled biên mai seed and sim wine. One itinerary lists entrance and parking as free."
         },
         {
           "name": "Bai Thom",
           "nameVi": "Bãi Thơm",
           "address": "The north tip",
-          "note": "A coconut, a hotpot, or a seafood platter. No door was named. An hour is Check on arrival."
+          "note": "A coconut, a hotpot, or a seafood platter on the northern sand."
         },
         {
           "name": "Ham Ninh",
           "nameVi": "Làng chài Hàm Ninh",
-          "address": "20 km from Dương Đông",
-          "note": "Ghẹ luộc with muối tiêu chanh. One account says 20 km northeast. The specialty-seafood account says 20 km from Duong Dong town. Crab is there almost all the time on the village account. A price is Check on arrival."
+          "address": "About 20 km northeast of Dương Đông",
+          "note": "Crab boiled straight off the boat and dipped in salt, pepper, and lime, in a fishing village where the crab is in almost all year."
         }
       ]
     },
@@ -282,7 +290,7 @@
       "heading": "Fine dining",
       "nav": "Fine dining",
       "paragraphs": [
-        "Vietnam National Authority of Tourism says the island has fine-dining meals, that many hotels serve gourmet food beside the sea, and that a beach barbecue is set on the sand. The whisper account says high-end beachfront salons exist. No door was named. A price is Check on arrival."
+        "The island serves fine-dining meals, many hotels plate gourmet food beside the sea, and a barbecue can be set on the sand. High-end beachfront rooms round out the evening."
       ]
     },
     {
@@ -291,11 +299,11 @@
       "heading": "Breakfast",
       "nav": "Breakfast",
       "paragraphs": [
-        "Bún quây is the breakfast that was named. Vietnam National Authority of Tourism says it is traditionally a morning bowl and is now served through the day and into the evening. A second breakfast dish was not named. The hour at a given door is Check on arrival."
+        "Bún quây is the island breakfast by tradition: rice-flour noodles, seafood, and a sauce you mix. It is now served through the day and into the evening too."
       ]
     }
   ],
   "verified": "23 Oct 2026",
   "seoTitle": "Phu Quoc food guide — bun quay, fish sauce, and the night market",
-  "seoDescription": "Bún quây, nước mắm, ghẹ Hàm Ninh, and the Dinh Cậu night market. Twenty-two specialties are named. A price that was not printed is Check on arrival."
+  "seoDescription": "Bún quây in the morning, boiled crab at Hàm Ninh, grilled sea urchin at the Dinh Cậu night market, and fish sauce and pepper to carry home: 22 Phu Quoc specialties."
 }
