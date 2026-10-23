@@ -318,6 +318,15 @@ for (const slug of front.slugs || []) {
   seenFront.add(slug);
   if (!postSlugs.has(slug)) errors.push(`front page slug ${slug} missing`);
 }
+const topDestinations = existsSync('src/content/top-destinations.json')
+  ? JSON.parse(readFileSync('src/content/top-destinations.json', 'utf8'))
+  : { slugs: [] };
+const seenTop = new Set();
+for (const slug of topDestinations.slugs || []) {
+  if (seenTop.has(slug)) errors.push(`top destinations repeat ${slug}`);
+  seenTop.add(slug);
+  if (!placeSlugs.has(slug)) errors.push(`top destination ${slug} missing`);
+}
 const interestCopyDir = 'src/content/interests';
 const interestCopy = existsSync(interestCopyDir) ? readDir(interestCopyDir) : [];
 const interestKeys = new Set([

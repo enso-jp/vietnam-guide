@@ -7,12 +7,16 @@ import { cardLine, corridorsNorthToSouth, getPlaces, pageDescription, placePath,
 import { destinationLines } from '../../lib/destination-lines';
 import { photoPath } from '../../lib/photos';
 import { breadcrumbList, itemList } from '../../lib/schema';
-import { compareTraffic, visitsFor } from '../../lib/traffic-rank';
+import { compareTraffic } from '../../lib/traffic-rank';
 import type { Place } from '../../lib/types';
+import topDestinations from '../../content/top-destinations.json';
 
 const corridors = corridorsNorthToSouth();
 const places = getPlaces().filter((place) => !place.parent).sort(compareTraffic);
-const ranked = places.filter((place) => visitsFor(place.slug) != null);
+const placeBySlug = new Map(places.map((place) => [place.slug, place]));
+const ranked = topDestinations.slugs
+  .map((slug) => placeBySlug.get(slug))
+  .filter((place): place is Place => Boolean(place));
 const activeRegion = corridors[0]?.slug;
 const stackFor = (slug: string) => {
   const used = new Set<string>();
