@@ -67,9 +67,9 @@
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:19:40.330Z",
+      "status": "checked",
+      "note": "Hero is Dray Sap in daylight, center crop holds the cascade, credit is Dotuanhungdaklak CC BY-SA 3.0. Pin unset. Conflicting distances and the Foody hour are both printed. Fees without an official figure stay Check on arrival. Stay rows have no licensed photo of Gia Nghia or Dak Som.",
+      "updated": "2026-10-23T06:21:07.123Z",
       "reworkCount": 0
     },
     "food": {
@@ -288,6 +288,14 @@
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-23T06:21:07.123Z",
+      "place": "dak-nong",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Hero is Dray Sap in daylight, center crop holds the cascade, credit is Dotuanhungdaklak CC BY-SA 3.0. Pin unset. Conflicting distances and the Foody hour are both printed. Fees without an official figure stay Check on arrival. Stay rows have no licensed photo of Gia Nghia or Dak Som."
+    },
     {
       "at": "2026-10-23T06:19:23.638Z",
       "place": "dak-nong",
