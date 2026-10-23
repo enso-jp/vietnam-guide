@@ -23,6 +23,7 @@
   },
   "cover": "town",
   "nearby": ["hanoi", "ninh-binh", "tam-coc", "hai-phong"],
+  "foodSlug": "nam-dinh",
   "routeSlugs": [],
   "itinerarySlugs": ["nam-dinh-day"],
   "seoTitle": "Nam Dinh city guide — Tran halls and a pho morning",
@@ -48,9 +49,33 @@
   ],
   "eat": [
     "Breakfast is phở bò around Chợ Rồng and phố Hàng Tiện: a small, thin, soft noodle and a clear broth. One paper describes áp chảo and sốt vang at a shop, and a broth of pork and beef bones. That paper’s shop closes at 09:00. Another says a bowl can be found at any hour. Both stay. Bánh cuốn làng Kênh, thin rice sheets with wood-ear, fried shallot, a slice of chả, and a fish-sauce dip, is the other morning, in phường Lộc Vượng, often off a banana leaf. No stall price is printed.",
-    "Afternoon is bánh xíu páo, a small baked bun with diced xá xíu, fat, wood-ear, and half a boiled quail egg, on Lê Hồng Phong, Trần Hưng Đạo, Hàng Sắt, Bắc Ninh, and Lý Thường Kiệt. Xôi xíu sits with the street snacks on phố Bắc Ninh. Bún đũa, a thick white noodle in a crab riêu, is placed at Chợ Ngõ Ngang, Chợ Rồng, or phố Hàng Đồng. A meal time for it was not printed. Check on arrival. Gifts named to carry are kẹo Sìu Châu, bánh gai, bánh nhãn Hải Hậu, chuối ngự, and gạo tám. Nem nắm and the spelling nem mắm both stay for the fermented pork of Giao Thủy, and of Hải Hậu on the city page. A wrapping was not printed. Check on arrival."
+    "Afternoon is bánh xíu páo, a small baked bun with diced xá xíu, fat, wood-ear, and half a boiled quail egg, on Lê Hồng Phong, Trần Hưng Đạo, Hàng Sắt, Bắc Ninh, and Lý Thường Kiệt. Xôi xíu sits with the street snacks on phố Bắc Ninh. Bún đũa, a thick white noodle in a crab riêu, is placed at Chợ Ngõ Ngang, Chợ Rồng, or phố Hàng Đồng. A meal time for it was not printed. Check on arrival. Gifts named to carry are kẹo Sìu Châu, bánh gai, bánh nhãn Hải Hậu, chuối ngự, and gạo tám. Nem nắm and the spelling nem mắm both stay for the fermented pork of Giao Thủy, and of Hải Hậu on the Nam Định city portal. VnExpress says loosen the ball into lá sung or dip it in fish sauce. A price is Check on arrival."
   ],
-  "dishSlugs": [],
+  "dishSlugs": [
+    "nam-dinh--pho-bo",
+    "nam-dinh--banh-cuon-lang-kenh",
+    "nam-dinh--bun-dua",
+    "nam-dinh--banh-xiu-pao",
+    "nam-dinh--xoi-xiu",
+    "nam-dinh--xoi-ca-ro",
+    "nam-dinh--xoi-ke",
+    "nam-dinh--bun-cha",
+    "nam-dinh--bun-sung",
+    "nam-dinh--banh-goi",
+    "nam-dinh--nem-nam",
+    "nam-dinh--goi-nhech",
+    "nam-dinh--ca-chach-kho",
+    "nam-dinh--ca-nuong-up-chau",
+    "nam-dinh--banh-nhan",
+    "nam-dinh--banh-gai",
+    "nam-dinh--banh-day",
+    "nam-dinh--keo-siu-chau",
+    "nam-dinh--chuoi-ngu",
+    "nam-dinh--gao-tam",
+    "nam-dinh--gao-tam-xuan-dai",
+    "nam-dinh--nuoc-mam-chat",
+    "nam-dinh--nuoc-mam-sa-chau"
+  ],
   "interestsBody": [
     "The Trần ground is Đền Trần and chùa Phổ Minh. The tower heights disagree, and both stay: 19.51 m and 21.2 m.",
     "Phủ Dầy is the Mother Goddess complex, about 15 km southwest. The city churches are Nhà thờ Lớn, Phú Nhai, and Bùi Chu. Phát Diệm is in Kim Sơn.",
