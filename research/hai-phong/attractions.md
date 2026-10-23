@@ -3,6 +3,8 @@
 Slug: `hai-phong`
 Checked: 22 Oct 2026. A fact with a source id was opened and is stamped verified. A line marked UNSOURCED is not.
 
+Photo pass 23 Oct 2026. Opera house and Hòn Dấu have two Commons frames and a public page. Hàng Kênh and the city museum have one Commons frame, so the public card has no body. Đền Nghè stays unpublished: no Commons photo of that temple. The standing Lê Chân statue is a different subject.
+
 The search slug stays `hai-phong`. This is the port city. Cát Bà stays `cat-ba`. Hạ Long stays `ha-long`. The department’s 12 January 2026 list puts Cát Bà’s beaches, Lan Hạ, and the national park on the same city app (S17). Those entries are not copied below.
 
 ## Why a night here
@@ -33,7 +35,7 @@ The 2025 resolution did not move the name. Clause 7 keeps thành phố Hải Ph�
 - Local interest: The square after dark
 - Suggested slug: opera-house
 - Suggested dot: 5 — the building the night is built around
-- Photo must show: The full facade and the square, subject through the center. A column crop fails. `unpublished: no licensed photo`
+- Photo must show: The full facade and the square, subject through the center. A column crop fails. Kept 23 Oct 2026: File:03-OPERA HOUSE.jpg and File:Nhà hát thành phố Hải Phòng (2019).png. Watermark, tree, and gray festival frames rejected.
 - Sources: S8, S22
 
 ### Tam Bac old street
@@ -65,7 +67,7 @@ The 2025 resolution did not move the name. Clause 7 keeps thành phố Hải Ph�
 - Local interest: The carved halls
 - Suggested slug: le-chan-temple
 - Suggested dot: 4 — the center’s tutelary temple, on the same walk as the square
-- Photo must show: The gate and the hall, or the statue from base to head, full figure. A face crop fails. `unpublished: no licensed photo`
+- Photo must show: The gate and the hall, or the statue from base to head, full figure. A face crop fails. `unpublished: no licensed photo` on 23 Oct 2026. Monument files are the statue. File:Hai-Phong-Temple.jpg does not name this temple.
 - Sources: S7, S8
 
 ### Du Hang pagoda
@@ -97,7 +99,7 @@ The 2025 resolution did not move the name. Clause 7 keeps thành phố Hải Ph�
 - Local interest: The carved halls
 - Suggested slug: hang-kenh
 - Suggested dot: 4 — the carved hall in the city
-- Photo must show: The seven-bay hall and the curved roof, full height. A single dragon panel cropped tight fails. `unpublished: no licensed photo`
+- Photo must show: The seven-bay hall and the curved roof, full height. A single dragon panel cropped tight fails. One Commons frame kept 23 Oct 2026, File:Đình Hàng Kênh.jpg. No second frame, so the public card has no body.
 - Sources: S5
 
 ### City museum
@@ -113,7 +115,7 @@ The 2025 resolution did not move the name. Clause 7 keeps thành phố Hải Ph�
 - Local interest: The carved halls
 - Suggested slug: city-museum
 - Suggested dot: 3 — the indoor hour on the same center walk
-- Photo must show: The museum front, full facade, or one gallery with an object whole in the frame. Not a label close-up. `unpublished: no licensed photo`
+- Photo must show: The museum front, full facade, or one gallery with an object whole in the frame. Not a label close-up. One Commons frame kept 23 Oct 2026, File:Hpbaotang.jpg. No second frame, so the public card has no body. The 17 August 2025 clock stays one secondary source. Public hours and fee are Check on arrival.
 - Sources: S15, S8
 
 ### The two Cam bridges
@@ -177,7 +179,7 @@ The 2025 resolution did not move the name. Clause 7 keeps thành phố Hải Ph�
 - Local interest: Đồ Sơn sand
 - Suggested slug: hon-dau
 - Suggested dot: 3 — the lighthouse island off the city’s own beach
-- Photo must show: The island, the light, and the sea in one frame, the tower full height. A stair-only crop fails. `unpublished: no licensed photo`
+- Photo must show: The island, the light, and the sea in one frame, the tower full height. A stair-only crop fails. Kept 23 Oct 2026: File:Đảo Hòn Dấu, Đồ Sơn, Hải Phòng - panoramio.jpg and File:Hai dang Hon Dau.jpg. The wave pool, the display sign, and the weather station were rejected.
 - Sources: S21
 
 ### Pier K15

@@ -3,6 +3,9 @@
 Slug: `hai-phong`
 Status: stored
 Checked: 23 Oct 2026
+
+Attraction pass on 23 Oct 2026 kept this file stored. Opera house and Hòn Dấu have two Commons frames. Hàng Kênh and the city museum have one frame, so the public card has no body. Đền Nghè stays unpublished: no Commons photo of that temple.
+
 Ready for copy:
 
 Every research lane is stored. The food guide was widened on 23 Oct 2026. Publish stays candidate.

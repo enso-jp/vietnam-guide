@@ -1,0 +1,40 @@
+{
+  "slug": "city-museum",
+  "placeSlug": "hai-phong",
+  "name": "Hai Phong Museum",
+  "nameVi": "Bảo tàng Hải Phòng",
+  "kicker": "City museum on Điện Biên Phủ",
+  "summary": "Walk the city museum at 66 Điện Biên Phủ and see the rooms on the port's history. About 19,000 objects are kept here, including Cái Bèo tools dated 6,000 to 7,000 years. Twelve permanent rooms and one thematic room cover prehistory, the old port, and maritime heritage. A ticket and the gate hours are Check on arrival.",
+  "dots": 3,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "66 Điện Biên Phủ, a walk in the center.",
+  "district": "The center",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The red museum front behind the iron fence",
+  "gettingThere": [
+    "The museum is at 66 Điện Biên Phủ, phường Hồng Bàng. It sits on the center walk with the opera square. Minutes from the square are Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the opera square",
+      "body": "Walk to 66 Điện Biên Phủ. The minutes are Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "A weekly closing day is Check on arrival.",
+  "admissionNote": "A ticket is Check on arrival.",
+  "links": [
+    {
+      "label": "Center sights",
+      "url": "https://haiphong.gov.vn/Du-lich/Nhung-diem-du-lich-hap-dan-tai-khu-vuc-noi-do-Hai-Phong-52536",
+      "note": "Hai Phong city portal, 2 September 2020. About 19,000 objects."
+    },
+    {
+      "label": "Museum visit",
+      "url": "https://www.anhp.vn/bao-tang-hai-phong-thu-hut-dong-dao-nguoi-dan-va-du-khach-tham-quan-d68897.html",
+      "note": "17 August 2025. Address 66 Điện Biên Phủ."
+    }
+  ],
+  "interests": ["warHistory"]
+}

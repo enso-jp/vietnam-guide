@@ -1,0 +1,55 @@
+{
+  "slug": "hon-dau",
+  "placeSlug": "hai-phong",
+  "name": "Hon Dau",
+  "nameVi": "Đảo Hòn Dấu",
+  "kicker": "Lighthouse island off the Đồ Sơn shore",
+  "summary": "Take a boat to Hòn Dấu, walk to the sea-god temple, and climb the lighthouse. The island sits off Đồ Sơn, a bit under 2 km offshore, and Vạn Hoa hill is nearly 2 km off the shore. The grounds are nearly 14 ha, and also nearly 13 ha. No village stands here. The boat fare and the ride minutes are Check on arrival. This is not Cát Bà.",
+  "dots": 3,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Boat from Đồ Sơn, a bit under 2 km offshore, and nearly 2 km.",
+  "district": "Đồ Sơn",
+  "bestMonths": "Lunar month 2",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Hòn Dấu from the water, the lighthouse above the trees",
+  "notice": {
+    "title": "Not Cat Ba",
+    "body": "Hòn Dấu is the small island off Đồ Sơn. Cát Bà is a different place. The boat fare is Check on arrival."
+  },
+  "body": [
+    "Land and walk about 100 m to the Nam Hải Thần Vương temple, then climb the lighthouse. The French tower was started in 1884, finished in 1896, and lit in June 1898. That tower stood 65.8 m until bombs brought it down in 1967. Another light was built after that. The height of the light you climb is Check on arrival.",
+    "No village stands on the island. The lighthouse, the border post, and the weather station are the three units that work there. The grounds are nearly 14 ha, and also nearly 13 ha. The festival runs from the 8th to the 10th of lunar month 2, and the main rite is at 23:00 on the 9th. The island was ranked a national scenic relic on 22 January 2009. The boat fare is Check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "hai-phong-hon-dau-2",
+      "caption": "The Hòn Dấu lighthouse, lantern above the white building",
+      "alt": "The white Hòn Dấu lighthouse with a blue lantern room against a clear sky"
+    }
+  ],
+  "gettingThere": [
+    "Hòn Dấu is off Đồ Sơn, in phường Vạn Hương, quận Đồ Sơn. One distance is a bit under 2 km offshore. Vạn Hoa hill is nearly 2 km off the shore. Ride to the peninsula first. The sea-god temple on the peninsula is a bit more than 20 km from the city, and those minutes are Check on arrival. Then take the boat. The fare is Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the opera square",
+      "body": "Ride to Đồ Sơn. The peninsula temple is a bit more than 20 km from the city. Minutes are Check on arrival. The boat leaves from the peninsula."
+    },
+    {
+      "heading": "From Đồ Sơn",
+      "body": "Take the boat. The island is a bit under 2 km offshore, and Vạn Hoa hill is nearly 2 km off the shore. The fare is Check on arrival."
+    }
+  ],
+  "hours": "The festival runs from the 8th to the 10th of lunar month 2, with the main rite at 23:00 on the 9th. A daily boat clock is Check on arrival.",
+  "closed": "A weekly closing day is Check on arrival.",
+  "admissionNote": "The boat fare is Check on arrival.",
+  "links": [
+    {
+      "label": "Hòn Dấu",
+      "url": "https://lichsudangbo.haiphong.gov.vn/di-tich-lsvh-quan-do-son/DAO-HON-DAU--HON-DAU--2953",
+      "note": "National scenic relic, decision 320 of 22 January 2009"
+    }
+  ],
+  "interests": ["islands"]
+}
