@@ -8,51 +8,32 @@
   "daysCount": 1,
   "placeSlug": "mui-ne",
   "budget": "Check on arrival",
-  "pace": "Early start",
+  "pace": "Check on arrival",
   "photo": "mui-ne-white-dunes",
-  "summary": "Leave the Ham Tien strip in the dark for Bàu Trắng. The adventure page says be on the pale sand from 5:00 to 7:00. Use the afternoon wind on the beach, then the red dunes at sunset. Phan Thiet is the city you pass, not a second base.",
-  "days": [
-    {
-      "title": "Dawn field, afternoon wind, sunset slope",
-      "body": "The white-dune morning replaces the harbor. Vietnam Tourism’s adventure page says set an alarm for 4:30 if an ATV at sunrise is the plan, and be at Bàu Trắng from 5:00 to 7:00. The must-do page prints a 25 km drive. The adventure page prints a short drive from the main beach strip. Both stay. Come back to the Ham Tien sand for the kite window the adventure page puts at 11:00–16:00. The must-do page says the morning wind is gentler, and the sports page says the breeze is year-round. At the end of the day, the red slope: Vietnam Tourism says just outside town at sunset, and the 2019 ministry page says about 22 km from the Phan Thiet city center. Fees and the minutes from a resort gate are Check on arrival.",
-      "placeSlug": "mui-ne",
-      "photo": "mui-ne"
-    }
-  ],
+  "summary": "Be on the pale sand at Bàu Trắng from 5:00 to 7:00, use the afternoon wind on the Ham Tien beach, and walk the red dunes at sunset.",
   "stops": [
     {
       "name": "White dunes",
       "minutes": 120,
       "placeSlug": "mui-ne",
       "attractionSlug": "white-dunes",
-      "note": "The 120 minutes are the 5:00–7:00 window on the adventure page, not a timed walk. A 25 km drive and a short drive from the strip both stay. The fee is Check on arrival.",
-      "approach": {
-        "mode": "taxi",
-        "note": "Vietnam Tourism also names a motorbike for the dunes. Minutes from the strip are Check on arrival."
-      }
+      "note": "Be on the pale sand from 5:00 to 7:00."
     },
     {
-      "name": "Ham Tien sand",
+      "name": "Ham Tien beach",
       "minutes": 300,
       "placeSlug": "mui-ne",
-      "note": "The 300 minutes are the adventure page’s kite window, 11:00–16:00, October to April. The must-do page says the morning is gentler. The sports page says the breeze is year-round. A lesson fee is Check on arrival.",
-      "approach": {
-        "mode": "taxi",
-        "note": "This stop is the strip itself if you slept on the sand. Taxi and bicycle fares are Check on arrival."
-      }
+      "attractionSlug": "ham-tien",
+      "note": "Ride the stronger kite wind from 11:00 to 16:00, October to April."
     },
     {
       "name": "Red dunes",
-      "minutes": 0,
+      "minutes": "Check on arrival",
       "placeSlug": "mui-ne",
       "attractionSlug": "red-dunes",
-      "note": "Sunset. A minute count is Check on arrival. About 22 km from the Phan Thiet city center on the 2019 ministry page, and just outside town on the must-do page. The fee is Check on arrival.",
-      "approach": {
-        "mode": "taxi",
-        "note": "The 22 km figure is from the city center, not from a resort gate. Minutes from the strip are Check on arrival."
-      }
+      "note": "Walk the orange slope and sandboard at sunset."
     }
   ],
   "seoTitle": "A Mui Ne day — white dunes, then the red slope",
-  "seoDescription": "Bàu Trắng from 5:00 to 7:00, the Ham Tien kite window at 11:00–16:00, and the red dunes at sunset. A 25 km drive and a short ride both stay."
+  "seoDescription": "Bàu Trắng from 5:00 to 7:00, the Ham Tien kite window from 11:00 to 16:00, and the red dunes at sunset."
 }

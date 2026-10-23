@@ -8,36 +8,51 @@
   "daysCount": 2,
   "placeSlug": "can-gio",
   "budget": "Check on arrival",
-  "pace": "Steady",
+  "pace": "Check on arrival",
   "photo": "can-gio-vam-sat",
-  "summary": "Leave Ho Chi Minh City early for the Bình Khánh ferry, give the creek a half day at Vàm Sát, and eat at Hàng Dương after that gate closes. Sleep in the beach town. The whale temple is the next morning. The salt pans are a different dawn, and only in December–May.",
+  "summary": "Leave Ho Chi Minh City for the Bình Khánh ferry, give the creek a half day at Vàm Sát, and sleep in the beach town. The shore beside Hàng Dương is the next morning.",
   "days": [
     {
       "title": "Ferry, the creek, and Hàng Dương",
-      "body": "Start early. Visit HCMC prints about 1 hour 30 minutes and about 50 km; Tuổi Trẻ prints about 2 hours. The ferry itself is about 10–15 minutes, and a holiday queue on the approach can eat the morning. Vàm Sát is open 8:00–17:00. The wooden boat to Đầm Dơi is capped at two hours, which is the only minute count on that tariff. The Sac Forest gate on the tourism page is 7:30–17:30, a different desk. After 17:00 the evening is Hàng Dương. A 2019 story puts the sand about 50 m from the market, and one stall’s cook-to-order wait at about 30–40 minutes on a busy day. Sleep in xã Cần Giờ.",
+      "body": "The road to the Bình Khánh ferry is about 50 km and about 1 hour 30 minutes to about 2 hours, and the crossing itself is about 10–15 minutes. Vàm Sát is open 8:00–17:00. Eat at Hàng Dương after that gate closes, and sleep in the beach town.",
       "placeSlug": "can-gio",
       "photo": "can-gio-vam-sat"
     },
     {
       "title": "The shore, then the ferry back",
-      "body": "The morning in town is the silt sand if you slept beside Hàng Dương. Lăng Ông is a short look on an ordinary morning. Hours and a ticket were not printed. Check on arrival. The salt morning is a different day, December–May, and it starts at dawn. Minutes to the pans were not printed. Then the same ferry back to Ho Chi Minh City. The September 2026 story still had the ferry as the crossing.",
+      "body": "Walk the silt sand beside Hàng Dương in the morning, then take the same ferry back to Ho Chi Minh City.",
       "placeSlug": "can-gio",
       "photo": "can-gio-can-gio-beach"
     }
   ],
   "stops": [
     {
-      "name": "Wooden boat to Đầm Dơi",
+      "name": "Vàm Sát",
       "minutes": 120,
       "placeSlug": "can-gio",
       "attractionSlug": "vam-sat",
-      "note": "120 minutes is the cap on the wooden boat to Đầm Dơi. The operator calls the road-gate visit a half day and does not print a minute count for the whole gate. Road gate 60,000 VND, shuttle included, 8:00–17:00 every day. Visit HCMC prints the canoe leg from 270,000 to 895,000 VND. The operator’s canoe table runs from 1,075,000 for one person to 270,000 from nineteen.",
+      "note": "The wooden boat to Đầm Dơi is capped at two hours, inside a half day at the gate."
+    },
+    {
+      "name": "30 April beach",
+      "minutes": "Check on arrival",
+      "placeSlug": "can-gio",
+      "attractionSlug": "can-gio-beach",
       "approach": {
-        "mode": "taxi",
-        "note": "Along đường Rừng Sác to cầu Dần Xây or the road gate. Minutes from the beach town were not printed. Check on arrival."
-      }
+        "mode": "walk",
+        "note": "About 50 m from Hàng Dương if you are already in the beach town."
+      },
+      "note": "Walk the silt sand beside the market for a late afternoon after you eat."
     }
   ],
-  "seoTitle": "A night in Can Gio — ferry, creek, and Hàng Dương",
-  "seoDescription": "Two days from Ho Chi Minh City: the Bình Khánh ferry, a half day at Vàm Sát, Hàng Dương after 17:00, and the whale temple the next morning. Sleep in town."
+  "additions": [
+    {
+      "name": "Can Gio salt pans",
+      "note": "Walk the pans on a sunny morning from December through May.",
+      "placeSlug": "can-gio",
+      "attractionSlug": "can-gio-salt"
+    }
+  ],
+  "seoTitle": "A night in Can Gio — ferry, creek, and the beach",
+  "seoDescription": "Two days from Ho Chi Minh City: the Bình Khánh ferry, a half day at Vàm Sát, and the beach beside Hàng Dương the next morning."
 }

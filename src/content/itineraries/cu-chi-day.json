@@ -8,30 +8,34 @@
   "daysCount": 1,
   "placeSlug": "cu-chi",
   "budget": "Check on arrival",
-  "pace": "Steady",
+  "pace": "Check on arrival",
   "photo": "cu-chi-tunnels",
-  "summary": "Leave Ho Chi Minh City in the morning for one named gate. Bến Dược is about one hour by road on the operator’s homestay note, and the tunnels are also given as about 70 km. Be out before the 17:00 gate unless the night is Trăng chiến khu. Bến Đình is a different trip, on Provincial Road 15.",
-  "days": [
-    {
-      "title": "One gate, then the city",
-      "body": "Name the gate before you leave. Bến Dược is the regional command ground at ấp Phú Hiệp, with the memorial and the river homestay. Bến Đình is the district-committee base at xã Nhuận Đức, on Provincial Road 15. The operator’s homestay note says about one hour to Bến Dược. The 23 Apr 2024 press article says about 70 km and does not split the gates. The ordinary gate is 7:00–17:00. Minutes on the walk were not printed. Check on arrival. From 1 Feb 2026 a foreign visitor’s daytime notice is 35,000 đồng for the historical site and 100,000 đồng for the service and guide. The tourism center and the press article print 70,000 đồng international. Do not add the operator’s two lines into one total, and do not assume Bến Đình has the same printed price. Return to Ho Chi Minh City after 17:00, or sleep at the Bến Dược homestay if that was the booking. The rate was not printed.",
-      "placeSlug": "cu-chi",
-      "photo": "cu-chi"
-    }
-  ],
+  "summary": "Leave Ho Chi Minh City in the morning for Bến Dược, crawl the visitor section, and walk the memorial on the same ground. Be out before the 17:00 gate unless the night is Trăng chiến khu.",
   "stops": [
     {
       "name": "Tunnel entrance",
-      "minutes": 0,
+      "minutes": "Check on arrival",
       "placeSlug": "cu-chi",
       "attractionSlug": "tunnels",
-      "note": "Minutes on the walk were not printed. Check on arrival. The tourism center prints a widened section of about 120 meters and does not say which gate. The ordinary gate is 7:00–17:00. Keep Bến Dược and Bến Đình as two sites.",
       "approach": {
         "mode": "taxi",
-        "note": "About one hour by road to Bến Dược on the operator’s homestay note, or about 70 km on the 23 Apr 2024 press article, gates not split. The tourism center prints a taxi at 600,000–700,000 đồng and does not name the gate. Bến Đình’s own kilometres are Check on arrival."
-      }
+        "minutes": 60,
+        "note": "By road from the city centre to Bến Dược."
+      },
+      "note": "Crawl the widened visitor section, about 120 meters, then walk the ground above it."
+    },
+    {
+      "name": "Ben Duoc Temple",
+      "minutes": "Check on arrival",
+      "placeSlug": "cu-chi",
+      "attractionSlug": "ben-duoc-temple",
+      "approach": {
+        "mode": "walk",
+        "note": "Along the forest path from the tunnels."
+      },
+      "note": "Walk the memorial hall and the tower on the same Bến Dược ground."
     }
   ],
   "seoTitle": "A day at the Cu Chi tunnels — one gate, then the city",
-  "seoDescription": "A day from Ho Chi Minh City to one named Cu Chi gate. About one hour to Bến Dược, or about 70 km unsplit. The ordinary gate closes at 17:00."
+  "seoDescription": "A day from Ho Chi Minh City to Bến Dược, about one hour by road, for the tunnels and the memorial temple. The ordinary gate closes at 17:00."
 }

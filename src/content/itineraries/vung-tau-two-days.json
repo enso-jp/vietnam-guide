@@ -7,19 +7,20 @@
   "spanDays": 2,
   "placeSlug": "vung-tau",
   "budget": "Check on arrival",
-  "pace": "Relaxed",
+  "pace": "Check on arrival",
   "photo": "vung-tau-bach-dinh",
-  "summary": "Back Beach, bánh khọt, and the Christ statue on the first day. Big Mountain on the second: the white villa, Mary with the child, and the cable car only if you want the rides. Front Beach is the evening of either day.",
+  "summary": "Back Beach, bánh khọt, and Christ the King on the first day. Bach Dinh and Mary on Big Mountain on the second. Front Beach is the evening of either day.",
   "days": [
     {
       "title": "Day 1 — Back Beach and the statue",
-      "body": "Swim on Back Beach, eat bánh khọt on Nguyễn Trường Tộ, and climb Christ the King while the steps are the plan. Front Beach after dark.",
+      "body": "Swim on Back Beach, eat bánh khọt on Nguyễn Trường Tộ, and climb Christ the King. Walk Front Beach after dark.",
       "placeSlug": "vung-tau",
-      "photo": "vung-tau-christ-statue"
+      "photo": "vung-tau-christ-statue",
+      "itinerarySlug": "vung-tau-day"
     },
     {
       "title": "Day 2 — Big Mountain",
-      "body": "Bach Dinh in the afternoon, then Mary on the same hill. She is not the Christ statue. Ho May only if the cable car is the point, and only on the ticket that matches the visit.",
+      "body": "Walk Bach Dinh in the afternoon, then Mary on the same hill. She holds the Child. Christ stands on Small Mountain.",
       "placeSlug": "vung-tau",
       "photo": "vung-tau-duc-me"
     }
@@ -27,54 +28,67 @@
   "stops": [
     {
       "name": "Back Beach",
-      "minutes": 120,
+      "minutes": "Check on arrival",
       "placeSlug": "vung-tau",
       "attractionSlug": "back-beach",
-      "note": "Day 1 morning. The swim."
+      "note": "Swim the flatter waves on the sunrise side of the peninsula."
     },
     {
       "name": "Banh khot",
-      "minutes": 45,
+      "minutes": "Check on arrival",
       "placeSlug": "vung-tau",
       "dishSlug": "banh-khot",
-      "note": "Day 1. Nguyễn Trường Tộ. One cake at a time."
+      "note": "Eat one cake at a time on Nguyễn Trường Tộ, wrapped in lettuce and herbs."
     },
     {
       "name": "Christ the King",
-      "minutes": 90,
+      "minutes": "Check on arrival",
       "placeSlug": "vung-tau",
       "attractionSlug": "christ-statue",
-      "note": "Day 1. Small Mountain. Not Mary."
+      "approach": {
+        "mode": "walk",
+        "note": "From the south end of Back Beach, then the steps."
+      },
+      "note": "Climb about 800 steps to the feet of Christ the King on Small Mountain."
     },
     {
       "name": "Front Beach",
-      "minutes": 60,
+      "minutes": "Check on arrival",
       "placeSlug": "vung-tau",
       "attractionSlug": "front-beach",
-      "note": "Evening of either day. The arc, not the swim."
+      "approach": {
+        "mode": "taxi",
+        "note": "From Back Beach."
+      },
+      "note": "Walk the arc between the two mountains after dark."
     },
     {
       "name": "Bach Dinh",
-      "minutes": 60,
+      "minutes": "Check on arrival",
       "placeSlug": "vung-tau",
       "attractionSlug": "bach-dinh",
-      "note": "Day 2 afternoon. Two hour lines are printed. Confirm at the door."
+      "approach": {
+        "mode": "walk",
+        "note": "Up the hill path from Front Beach."
+      },
+      "note": "Walk the gardens and verandas of the white villa in the afternoon."
     },
     {
       "name": "Our Lady of Mulberry Beach",
-      "minutes": 45,
+      "minutes": "Check on arrival",
       "placeSlug": "vung-tau",
       "attractionSlug": "duc-me",
-      "note": "Day 2. Mary and the child on Big Mountain."
-    },
+      "note": "See Mary holding the Child on the Big Mountain slope above Bãi Dâu."
+    }
+  ],
+  "additions": [
     {
       "name": "Ho May Park",
-      "minutes": 90,
+      "note": "Ride the cable to the park on Big Mountain when the view or the rides are the point.",
       "placeSlug": "vung-tau",
-      "attractionSlug": "ho-may",
-      "note": "Day 2, only if the cable car is the plan. Scenic adults 100,000 VND. Full visit adults 475,000 VND."
+      "attractionSlug": "ho-may"
     }
   ],
   "seoTitle": "Two days in Vung Tau — beach, then Big Mountain",
-  "seoDescription": "Day one is Back Beach, bánh khọt, and Christ the King. Day two is Bach Dinh and Mary on Big Mountain. The cable car is optional."
+  "seoDescription": "Day one is Back Beach, bánh khọt, and Christ the King. Day two is Bach Dinh and Mary on Big Mountain."
 }

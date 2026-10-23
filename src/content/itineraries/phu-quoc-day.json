@@ -7,28 +7,28 @@
   "spanDays": 1,
   "placeSlug": "phu-quoc",
   "budget": "Check on arrival",
-  "pace": "Relaxed",
+  "pace": "Check on arrival",
   "photo": "phu-quoc-long-beach",
-  "summary": "Start on Bãi Trường for the swim and the sunset, then ride to Bãi Sao. The southeast beach is about 25 minutes from Dương Đông. Come back west for the evening.",
+  "summary": "Start on Bãi Trường for the swim and the sunset, and ride to Bãi Sao for the southeast swim. The road from the centre of Dương Đông takes about 25 minutes.",
   "stops": [
     {
       "name": "Long Beach",
-      "minutes": 240,
+      "minutes": "Check on arrival",
       "placeSlug": "phu-quoc",
       "attractionSlug": "long-beach",
-      "note": "The west-coast day. Swim, walk, and stay for sunset. Cục Du lịch Quốc gia Việt Nam calls the sand yellow. Vietnam National Authority of Tourism does not name a colour."
+      "note": "Swim and walk the west-coast sand, and stay for sunset over the Gulf."
     },
     {
       "name": "Sao Beach",
-      "minutes": 180,
+      "minutes": "Check on arrival",
       "placeSlug": "phu-quoc",
       "attractionSlug": "sao",
       "approach": {
         "mode": "taxi",
         "minutes": 25,
-        "note": "About 25 minutes by road from the centre of Dương Đông."
+        "note": "From the centre of Dương Đông."
       },
-      "note": "The southeast swim. Come early on a weekday. Sunset stays on Long Beach."
+      "note": "Swim the southeast shallows, and come early on a weekday."
     }
   ],
   "seoTitle": "A west-coast day on Phu Quoc",

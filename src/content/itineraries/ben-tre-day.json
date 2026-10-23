@@ -7,51 +7,61 @@
   "spanDays": 1,
   "placeSlug": "ben-tre",
   "budget": "Check on arrival",
-  "pace": "Unhurried",
-  "summary": "Breakfast on đường 30 Tháng 4, a boat to the palms, and Hồ Trúc Giang after dinner. Cồn Phụng is 12 km by road and 25 km by river, or about 10 km. No source gives a time for each stop. The minutes are not a published duration. Fares are check on arrival.",
-  "days": [
-    {
-      "title": "A coconut day on the Tiền",
-      "body": "Start on đường 30 Tháng 4, then give the morning to the boat so a same-day return to Ho Chi Minh City still works. The road is 86 km and 1.5 hours, about two hours, about 85 km and about 2 hours, or 85–90 km and 1.5–2 hours. Cồn Phụng is the longer islet. Cồn Quy is often the same boat, and no kilometer was printed for it. The town pier is the shorter creek. After dinner, walk Hồ Trúc Giang and the parks, then the night market. The Đồng Khởi house at Định Thủy is another morning.",
-      "placeSlug": "ben-tre"
-    }
-  ],
+  "pace": "Check on arrival",
+  "summary": "Eat the breakfast bowl on đường 30 Tháng 4, walk to the museum, then take the boat to Cồn Phụng and Cồn Quy. After dinner, walk Hồ Trúc Giang and the parks.",
   "stops": [
     {
-      "name": "Đường 30 Tháng 4",
-      "minutes": 40,
+      "name": "Hu tieu with pate",
+      "minutes": "Check on arrival",
       "placeSlug": "ben-tre",
-      "note": "The morning bowl, then the walk toward 146 Hùng Vương. No source gives a time for the morning. The 40 minutes are not a published duration. The bowl price and the museum fee are check on arrival. One travel page prints the museum at 07:00–17:00. Another prints 07:30–11:00 and 13:30–17:00."
+      "dishSlug": "ben-tre--hu-tieu-pate",
+      "note": "Eat the breakfast bowl with the pork-pâté slice on đường 30 Tháng 4."
+    },
+    {
+      "name": "Ben Tre Museum",
+      "minutes": "Check on arrival",
+      "placeSlug": "ben-tre",
+      "attractionSlug": "museum",
+      "approach": {
+        "mode": "walk",
+        "note": "From đường 30 Tháng 4 to 146 Hùng Vương."
+      },
+      "note": "Walk the coconut rooms after breakfast, before the boat."
     },
     {
       "name": "Cồn Phụng",
-      "minutes": 180,
+      "minutes": "Check on arrival",
       "placeSlug": "ben-tre",
       "attractionSlug": "con-phung",
       "approach": {
         "mode": "boat",
-        "note": "12 km by road and 25 km by river on the national rural page, or about 10 km on the operator page. The town orchard boat uses a different landing, bến tàu du lịch thành phố Bến Tre. A fare is check on arrival."
+        "note": "The river route from the city center is 25 km."
       },
-      "note": "The orchard gate, the kiln, and lunch under the palms. The national rural page does not print a minute count. The 180 minutes are not a published duration. The gate is check on arrival. This is not cù lao Thới Sơn, and the Friday town cart does not reach it."
+      "note": "Walk the nine-dragon court and the candy kiln on the islet."
     },
     {
       "name": "Cồn Quy",
-      "minutes": 60,
+      "minutes": "Check on arrival",
       "placeSlug": "ben-tre",
       "attractionSlug": "con-quy",
       "approach": {
         "mode": "boat",
-        "note": "Often the same boat as Cồn Phụng. No kilometer was printed. Do not reuse the Cồn Phụng distances. A fare is check on arrival."
+        "note": "Often the same boat as Cồn Phụng."
       },
-      "note": "Longan, honey tea, and a ditch you can bail for fish. No source gives a duration. The 60 minutes are not a published duration. A month for the blossom is check on arrival."
+      "note": "Walk the longan trees, drink honey tea, and bail a ditch for fish."
     },
     {
       "name": "Hồ Trúc Giang",
-      "minutes": 45,
+      "minutes": "Check on arrival",
       "placeSlug": "ben-tre",
-      "note": "After dinner: the lake, công viên Bến Tre, công viên Trần Văn Ơn, and công viên Đồng Khởi, then chợ đêm Bến Tre and khu phố chợ Phú Khương. No source gives a duration. The 45 minutes are not a published duration. The hour the lake goes quiet is check on arrival."
+      "attractionSlug": "truc-giang",
+      "approach": {
+        "mode": "walk",
+        "note": "From the town bank after dinner."
+      },
+      "note": "Walk the lake and the three parks, then continue to the night market."
     }
   ],
-  "seoTitle": "Ben Tre in a day — palms, the boat, and Hồ Trúc Giang",
-  "seoDescription": "A Ben Tre day on the Tiền: breakfast, a boat to Cồn Phụng at 12 km or about 10 km, and Hồ Trúc Giang. Fares and the gate are check on arrival."
+  "seoTitle": "Ben Tre in a day — breakfast, the boat, and the lake",
+  "seoDescription": "A Ben Tre day: hủ tiếu patê on đường 30 Tháng 4, the museum, a boat to Cồn Phụng and Cồn Quy, and Hồ Trúc Giang after dinner."
 }
