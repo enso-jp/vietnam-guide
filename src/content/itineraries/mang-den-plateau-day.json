@@ -7,25 +7,46 @@
   "spanDays": 1,
   "placeSlug": "mang-den",
   "budget": "Check on arrival",
-  "pace": "Cool morning, short drives",
-  "summary": "Dak Ke lake while the mist is still on the water, then Kon Pring village for the afternoon. Add Pa Sy, about 9 km from town, if you want the waterfall too, and end with grilled chicken and lam rice back in town.",
+  "pace": "Check on arrival",
   "photo": "mang-den-dak-ke-lake",
+  "summary": "Dak Ke in the first light, then Kon Pring, and grilled chicken with cơm lam in town. Pa Sy is the waterfall when the lake does not already have the day.",
   "stops": [
     {
       "name": "Dak Ke Lake",
-      "minutes": 120,
+      "minutes": "Check on arrival",
       "placeSlug": "mang-den",
       "attractionSlug": "dak-ke-lake",
-      "note": "Walk the shore while the air is still cool, and take a canoe out if one is running."
+      "note": "Walk the shore in the first light, a short drive from the town strip."
     },
     {
       "name": "Kon Pring village",
-      "minutes": 90,
+      "minutes": 60,
       "placeSlug": "mang-den",
       "attractionSlug": "kon-pring-village",
-      "note": "Communal house and gongs on Highway 24. Ask before you photograph inside the nhà rông."
+      "note": "Give the nhà rông and the gongs at least an hour, about 3 km or about 5 km along Highway 24."
+    },
+    {
+      "name": "Grilled chicken and lam rice",
+      "minutes": "Check on arrival",
+      "placeSlug": "mang-den",
+      "dishSlug": "mang-den--ga-nuong-com-lam",
+      "note": "Grilled chicken with cơm lam back in town."
+    }
+  ],
+  "additions": [
+    {
+      "name": "Pa Sy Waterfall",
+      "note": "The forest fall where three streams meet, about 7.5 km, about 9 km, or about 11 km from town.",
+      "placeSlug": "mang-den",
+      "attractionSlug": "pa-sy-waterfall"
+    },
+    {
+      "name": "Mang Den church",
+      "note": "The Virgin Mary statue and the church on Highway 24.",
+      "placeSlug": "mang-den",
+      "attractionSlug": "mang-den-church"
     }
   ],
   "seoTitle": "One day on the Mang Den plateau",
-  "seoDescription": "A Mang Den day: Dak Ke lake in the morning mist, Kon Pring village in the afternoon, and Pa Sy waterfall, about 9 km from town, if you want the fall."
+  "seoDescription": "A Mang Den day: Dak Ke lake, Kon Pring village, and grilled chicken with cơm lam. Pa Sy is the separate waterfall."
 }

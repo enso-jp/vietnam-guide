@@ -7,25 +7,65 @@
   "spanDays": 1,
   "placeSlug": "kon-tum",
   "budget": "Check on arrival",
-  "pace": "Moderate",
+  "pace": "Check on arrival",
   "photo": "kon-tum-wooden-church",
-  "summary": "The timber church on Nguyen Hue in the morning, then the prison museum in the centre. Add Kon Klor and Kon K’Tu if you have a motorbike or a taxi for the five kilometres across the bridge.",
+  "summary": "Dry phở, the timber church and the museum on Nguyen Hue, then the prison. Kon Klor and Kon K’Tu sit across the river.",
   "stops": [
     {
+      "name": "Dry pho",
+      "minutes": "Check on arrival",
+      "placeSlug": "kon-tum",
+      "dishSlug": "kon-tum--pho-kho",
+      "note": "The two bowls around the market, from about 6:00 to 10:00."
+    },
+    {
       "name": "Wooden church",
-      "minutes": 60,
+      "minutes": "Check on arrival",
       "placeSlug": "kon-tum",
       "attractionSlug": "wooden-church",
-      "note": "Nguyen Hue timber, stained glass, and the Ba Na roofline. Free. On Sunday, come between the 6:00, 8:00, and 17:00 Masses."
+      "note": "The timber cathedral on Nguyen Hue, between services if you want a quiet nave.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk from the centre along Nguyen Hue."
+      }
+    },
+    {
+      "name": "Kon Tum Provincial Museum",
+      "minutes": "Check on arrival",
+      "placeSlug": "kon-tum",
+      "attractionSlug": "kon-tum-museum",
+      "note": "The provincial museum at 659 Nguyen Hue.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk along Nguyen Hue to 659."
+      }
     },
     {
       "name": "Kon Tum Prison",
-      "minutes": 90,
+      "minutes": "Check on arrival",
       "placeSlug": "kon-tum",
       "attractionSlug": "kon-tum-prison",
-      "note": "French-era cells and displays, 30,000 VND. Walk over from the church."
+      "note": "The French-era cells on Truong Quang Trong.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk or ride to Truong Quang Trong."
+      }
+    }
+  ],
+  "additions": [
+    {
+      "name": "Kon Klor Communal House",
+      "note": "The Ba Na communal house beside the Đăk Bla, about 3 km or about 4 km from the centre.",
+      "placeSlug": "kon-tum",
+      "attractionSlug": "kon-klor-rong-house"
+    },
+    {
+      "name": "Kon K'Tu Village",
+      "note": "The Ba Na village on the far bank, across the Kon Klor bridge.",
+      "placeSlug": "kon-tum",
+      "attractionSlug": "kon-ktu-village"
     }
   ],
   "seoTitle": "Kon Tum in a day",
-  "seoDescription": "A one-day Kon Tum plan: the wooden church on Nguyen Hue in the morning, then the prison museum in the centre."
+  "seoDescription": "One day in Kon Tum: dry phở, the wooden church, the museum, and the prison. Kon Klor and Kon K’Tu are the river additions."
 }
