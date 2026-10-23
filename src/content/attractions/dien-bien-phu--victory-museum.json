@@ -1,0 +1,60 @@
+{
+  "slug": "victory-museum",
+  "placeSlug": "dien-bien-phu",
+  "name": "Dien Bien Phu Victory Museum",
+  "nameVi": "Bảo tàng Chiến thắng Điện Biên Phủ",
+  "kicker": "Campaign museum in the basin ward",
+  "summary": "Walk the campaign museum in the basin, on a ticket of its own. Adults from 18 pay 100,000 VND a visit. A second figure is 5,000 VND a person for one of five sites at the museum. Both stand. The ticket is for that day and is not refunded. The relic point charge of 20,000 VND does not cover this building. Three clocks are in use, so check the gate. A visit length is check on arrival.",
+  "dots": 4,
+  "timeNeeded": "Check on arrival",
+  "fee": "100,000 VND a visit, or 5,000 VND for one of five sites",
+  "getThere": "In the basin ward, near the monument. Minutes on foot are check on arrival.",
+  "district": "The basin",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The museum’s lattice front, with the garden in front of the drum",
+  "notice": {
+    "title": "The relic point ticket is not this museum",
+    "body": "Adults pay 100,000 VND a visit from age 18, and a second figure is 5,000 VND a person for one of five sites here. The 20,000 VND relic point charge does not cover the museum."
+  },
+  "body": [
+    "Walk the campaign museum. The building opened in 1984 for the 30th anniversary, was reworked at the end of 2003, and then had five galleries, 274 objects, and 122 paintings. Those counts are that rework. They are not a current inventory. A panorama length was not given. The visit is the galleries, on this building’s own ticket.",
+    "Three clocks are in use. The standing seasonal hours are every day, summer 7:00–11:00 and 13:30–18:00, winter 7:00–11:00 and 13:30–17:30. From 13 July 2026 until a newer change, the hours are 7:30–12:00 and 13:30–21:00. A third clock is 7:00–11:00 and 13:30–17:00. Check which one the gate is using. Tết hours are check on arrival. A visit length was not given. Check on arrival.",
+    "The ticket desk is at Tổ 1, phường Điện Biên Phủ. The building address is Tổ dân phố Mường Thanh, phường Điện Biên Phủ. An older line still reads Phố 1, P. Mường Thanh, TP. Điện Biên Phủ. All three stay. Adults, Vietnamese or foreign, pay 100,000 VND a visit from age 18. Half price for ethnic residents of the province, older people, people named in the cultural-access decision, and people with severe disability. Free under 18, veterans, organized students and soldiers with a plan, and people with especially severe disability. Bring the paper if you are in a reduced or free group. The ticket is for that day and is not refunded. The other figure is 5,000 VND a person for one of five sites at the museum. A guide is booked at the ticket desk. A guide price is check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "dien-bien-phu-victory-museum-2",
+      "caption": "The same drum from the side path, with trees in front and a ridge at the edge",
+      "alt": "The lattice facade of the Dien Bien Phu Victory Museum seen through trees"
+    }
+  ],
+  "gettingThere": [
+    "The museum is in the same ward as the monument, phường Điện Biên Phủ. Walk from a hotel in the basin. Minutes on foot were not given. Check on arrival. A taxi fare inside the ward was not given either."
+  ],
+  "legs": [
+    {
+      "heading": "From the basin ward",
+      "body": "On foot. The ticket desk is at Tổ 1, phường Điện Biên Phủ. A published minute count is check on arrival."
+    },
+    {
+      "heading": "From Hill D1",
+      "body": "The monument and the museum are in the same ward. Walk between them. Minutes were not given. Check on arrival. The museum clock is not the relic hill clock."
+    }
+  ],
+  "hours": "Standing seasonal hours: summer 7:00–11:00 and 13:30–18:00, winter 7:00–11:00 and 13:30–17:30, every day. From 13 July 2026 until a newer change: 7:30–12:00 and 13:30–21:00. A third clock is 7:00–11:00 and 13:30–17:00. Check the gate.",
+  "closed": "No weekly close. The midday gap is 11:00–13:30 on the seasonal clock and on the 17:00 clock, and 12:00–13:30 on the hours in force from 13 July 2026. Tết hours are check on arrival.",
+  "admissionNote": "From age 18, Vietnamese or foreign, 100,000 VND a visit a person. Half price for ethnic residents of the province, older people, people named in the cultural-access decision, and people with severe disability. Free under 18, veterans, organized students and soldiers with a plan, and people with especially severe disability. The ticket is for that day and is not refunded. A second figure is 5,000 VND a person for one of five sites at the museum. Both stand. The relic’s 20,000 VND point charge does not cover this building. A guide price is check on arrival.",
+  "links": [
+    {
+      "label": "Museum hours from 13 July 2026",
+      "url": "https://svhttdl.dienbien.gov.vn/portal/pages/2026-07-13/Dieu-chinh-thoi-gian-mo-cua-phuc-vu-tham-quan-Bao-.aspx",
+      "note": "Điện Biên culture desk"
+    },
+    {
+      "label": "Museum destination page",
+      "url": "https://vietnamtourism.vn/index.php/tourism/items/2075",
+      "note": "National tourism desk, with the 5,000 VND figure and the 17:00 close"
+    }
+  ],
+  "interests": ["warHistory"]
+}
