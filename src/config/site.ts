@@ -1,5 +1,6 @@
 export const site = {
   name: 'Vietnam Guide',
+  alternateNames: ['Vietnam Travel Guide', 'vietnam-travelguide.com'],
   url: 'https://vietnam-travelguide.com',
   description:
     'An objective travel reference for Vietnam: places, routes, food, seasons, and the practical facts needed to plan a trip.',

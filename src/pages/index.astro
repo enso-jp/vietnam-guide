@@ -61,20 +61,34 @@ const tools = [
   { href: '/plan/street-manners', title: 'Etiquette', text: 'How to avoid cultural mistakes', icon: 'flag' },
   { href: '/seasons', title: 'Seasons', text: 'Rice, floods, and Tet', icon: 'event' },
 ];
-const jsonLd = {
-  '@context': 'https://schema.org',
-  '@type': 'WebSite',
-  name: site.name,
-  url: site.url,
-  description: site.description,
-  potentialAction: {
-    '@type': 'SearchAction',
-    target: `${site.url}/search?q={query}`,
-    'query-input': 'required name=query',
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    '@id': `${site.url}/#website`,
+    name: site.name,
+    alternateName: site.alternateNames,
+    url: `${site.url}/`,
+    description: site.description,
+    inLanguage: 'en',
+    publisher: { '@id': `${site.url}/#organization` },
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: `${site.url}/search?q={query}`,
+      'query-input': 'required name=query',
+    },
   },
-};
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    '@id': `${site.url}/#organization`,
+    name: site.name,
+    url: `${site.url}/`,
+    logo: `${site.url}/icon-512.png`,
+  },
+];
 ---
-<Base title="Vietnam Guide" description={site.description} path="/" jsonLd={jsonLd} ogType="website" ogImage={photoPath(lead?.photo || 'hanoi')}>
+<Base title="Vietnam Guide — travel guide to places, food, routes, and seasons" description={site.description} path="/" jsonLd={jsonLd} ogType="website" ogImage={photoPath(lead?.photo || 'hanoi')}>
   <div class="home">
     <div class="home-top">
       {lead && (
