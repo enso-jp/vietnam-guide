@@ -95,7 +95,7 @@ Checked: 20 Oct 2026
 - Local interest: Beach night
 - Suggested slug: an-thuong
 - Suggested dot: 4 — the night that belongs with My Khe, not a separate day
-- Photo must show: the lanes after dark, more than one lit front. The only licensed frame is one doorway on An Thuong 4 (Saga Da Nang venue exterior, CC0). It is a single front, not the grid. A second lane frame is still missing. Do not use the My Khe beach, and do not use the welcome-sign stele.
+- Photo must show: the lanes after dark, more than one lit front. The hero is one doorway on An Thuong 4 (Saga Da Nang venue exterior, CC0). A second frame is already on the published page: Trần Bạch Đằng inside the quarter (File:Hồ Nghinh street, My An, Da Nang.jpg; the Commons title is wrong; see `attractions/an-thuong.md`, checked 23 Oct 2026). Do not use the My Khe beach, and do not use the welcome-sign stele.
 - Sources: S23, S24, S25
 
 ### Marble Mountains
@@ -344,6 +344,29 @@ Districts that deserve their own page:
 - Photo must show: the promenade and the river. A crop that is only towers fails the walk. The best frame still shows more tower than path.
 - Sources: S37
 
+### Phase 1 attractions pass, 23 Oct 2026
+
+Public sights stay 15: `an-thuong`, `bach-dang`, `ba-na`, `beachfront`, `beach-sports`, `cathedral`, `cham-museum`, `dragon-bridge`, `hai-van`, `han-market`, `han-swing-bridge`, `marble-mountains`, `my-khe`, `son-tra`, `thuan-phuoc`. Count before this pass: 15. Count after: 15. No new public JSON.
+
+This pass did not add a page. A new sight needed a row here that is a real separate visit, not already published, plus a licensed photograph of that subject. None of the unpublished rows meet that bar.
+
+Unpublished, and why:
+
+- Han River. The walk is the place page and Dragon Bridge. Do not split the river into another sight.
+- Non Nuoc stone-carving village. The row says to take it with the morning at Thuy Son, not as its own day, and not to add a record in the copy pass. One licensed workshop frame is already on disk for the shopping card: `da-nang-non-nuoc`, File:Marble statues in Hòa Hải 2.jpg, Christophe95, CC BY-SA 4.0. There is no second frame of the workshops. Time on site is UNSOURCED. It stays a side note on Marble Mountains.
+- Son Tra peninsula. The zone is the published `son-tra` page (Linh Ung). Do not split the peninsula.
+- Ngu Hanh Son. The hill, the village note, the beach, and An Thuong already split the ward. No district page.
+- An Hai east bank. Dragon Bridge and the food guide carry it. Do not split the bridge or the river evening.
+- Con Market. The food guide carries it. Han Market is the sight. No second market page.
+- Da Nang Downtown. The row says not to add a record until a ticket and a street exist. S39 is one page: Symphony of River at 20:30, 45 minutes with a seven-minute firework section, Awaken River at 17:45, puppet shows at 18:30 and 20:00, and no ticket. Those clocks stay one source. Fee and street stay Check on arrival — UNSOURCED. The 21 Oct photo pass did not accept a frame of the show or the wheel.
+- Huynh Thuc Khang breakfast. The food guide carries it. The 23 Oct photo recheck still has no licensed frame of the street.
+- My Khe swim. The published My Khe page carries the swim. Do not split the beach.
+- Han River evening, and the quiet hour after the show. Dragon Bridge carries the evening. No citywide closing hour is published.
+- Da Nang Museum and the fine-arts museum. They are not rows in this file. `interests.md` leaves them off the culture card. The 21 Oct photo note rejected File:Bảo tàng Đà Nẵng.jpeg as a different building, and fine arts had one building frame and no second.
+- Love Bridge. Not a row in this file. STATUS leaves it out. The 21 Oct photo pass found no usable frame.
+
+Photos opened on 23 Oct 2026 and kept, because the subject matches the sight: the My Khe sports shade (`da-nang-beach-sports`, the “KHU VỰC THỂ THAO” board) and the basket boats; the Bach Dang promenade and the east-bank boats (the caption already says east bank); the beachfront sand and the tower shore; the An Thuong 4 doorway and Trần Bạch Đằng; the Hai Van road with the sea. No file was replaced. Existing public sentences were not rewritten.
+
 ## Nightlife and evening
 
 Checked: 21 Oct 2026. Streets a traveler walks after dark. Pins are not a ranked bar list. No prices and no scores.
@@ -361,7 +384,7 @@ Checked: 21 Oct 2026. Streets a traveler walks after dark. Pins are not a ranked
 - Scene landmarks, if any, with a primary URL: Kalà Kalà Beach Club, 51 Võ Nguyên Giáp, on the sand, free entry, closing listed as both midnight and 02:00 (S23, https://kalakala.vn is the site already in S23). East West Brewing beachfront taproom, 08:00–01:00, no street on the page (S24, https://eastwestbrewing.vn/taproom/da-nang). These two orient the sand. They are not the lanes.
 - Suggested slug: an-thuong
 - Suggested dot: already published — do not change
-- Photo must show: the lanes after dark, more than one lit front. The only licensed frame is one doorway on An Thuong 4. A second frame of the grid is still missing. Do not reuse the beach.
+- Photo must show: the lanes after dark, more than one lit front. The hero is one doorway on An Thuong 4. The second frame, already published, is Trần Bạch Đằng inside the quarter. Do not reuse the beach.
 - Sources: S23, S24, S25, S38
 
 ### Han River evening
