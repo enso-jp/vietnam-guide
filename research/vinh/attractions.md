@@ -377,3 +377,7 @@ A separate bar street was not named on the city portal, the walking-street repor
 - Suggested slug: quiet-hour
 - Photo must show: The square or Hồ Tùng Mậu after the crowds thin, still with the statue or the fountain in frame. An empty black frame fails. Unpublished: no licensed photo.
 - Sources: S7, S8, S9
+
+## Attraction pages, 23 Oct 2026
+
+Per-sight files are in `research/vinh/attractions/`. Public pages stay the six slugs. Cửa Lò gained a dusk frame of the same sand. The Soviet museum and the provincial museum were merged on 23 May 2025 and are not the same building. No licensed photo of the provincial facade was found, so it stays off the public list. Candidates left off, and why, are in `unpublished.md`.

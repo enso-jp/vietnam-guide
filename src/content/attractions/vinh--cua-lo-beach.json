@@ -3,41 +3,54 @@
   "placeSlug": "vinh",
   "name": "Cua Lo beach",
   "nameVi": "Bãi biển Cửa Lò",
-  "kicker": "The sand of this city, along Bình Minh",
-  "summary": "Swim and walk the sand at Cửa Lò when the day is the beach. The national page calls the shore long, the water clear enough to see the sand, and the salinity moderate. Casuarina lines đường Bình Minh. Keep every distance: 16 km, 17 km, 18 km, and about 20 km. A chair fee was not printed. Check on arrival.",
+  "kicker": "The long sand along Bình Minh",
+  "summary": "Swim and walk the long sand at Cửa Lò, the beach of this city. Casuarina lines đường Bình Minh. The water is clear enough to see the sand, and the salinity is moderate. From the square it is 16 km east, 17 km, 18 km, or about 20 km. About 30 minutes by car is the Núi Cấm road for the 18 km. A chair is check on arrival. Skip it when the square is the only stop.",
   "dots": 5,
   "timeNeeded": "A beach day",
   "fee": "Check on arrival",
-  "getThere": "16 km, 17 km, 18 km, or about 20 km. About 30 minutes is only the Núi Cấm road.",
-  "verified": "22 Oct 2026",
-  "heroCaption": "The sand at Cửa Lò, with the tree line, coracles, and an island offshore. The pages do not agree which island this is.",
+  "getThere": "16 km, 17 km, 18 km, or about 20 km from the square.",
+  "district": "Cửa Lò",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The sand at Cửa Lò, with coracles, the tree line, and an island offshore",
   "notice": {
     "title": "This square is not the one in town",
-    "body": "Quảng trường Bình Minh is on this sand. Quảng trường Hồ Chí Minh is at Hồ Tùng Mậu and Trường Thi. They are not the same square."
+    "body": "Quảng trường Bình Minh is on this sand. The statue square is in town, at Hồ Tùng Mậu and Trường Thi."
   },
+  "body": [
+    "Swim and walk the sand. The shore is long, the water clear enough to see the sand, and the salinity moderate rather than harsh. Casuarina lines đường Bình Minh. The length is longer than 10 km, and also longer than 12 km.",
+    "From the square the beach is 16 km to the east, 17 km, 18 km, or about 20 km. About 30 minutes by car belongs to the Núi Cấm road and the 18 km. Check the minutes for the other three distances on arrival. Two city buses run out: Bến Thủy–Trường Thi–Cửa Hội–Cửa Lò, and Bến Thủy–Quang Trung–Quán Bánh–Cửa Lò. Fares are check on arrival.",
+    "From 1 December 2024 the old beach town is inside Vinh, and from 1 July 2025 the shore wards are phường Cửa Lò. Islands named off this shore are Ngư, Mắt, and Lan Châu, and also Song Ngư and Hòn Ngư. Keep those names apart. Cửa Hội is about 4 km farther, with a cable car longer than 3.5 km and chùa Song Ngư, more than 800 years old. A crossing time and a fare are check on arrival. Showers, public toilets, parking, and wifi were free for the 2025 season. A chair is check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "vinh-cua-lo-beach-2",
+      "caption": "Cửa Lò at dusk, the long sand and the tree line, with an island offshore",
+      "alt": "Dusk over Cua Lo beach, the long sand, the tree-lined road, and an island offshore"
+    }
+  ],
   "gettingThere": [
-    "Four distances stay. The national beach page prints 18 km from Vinh and about 30 minutes by car on the Núi Cấm road, and puts the sand along đường Bình Minh. The city portal prints 17 km. A 2012 national tourism news page prints 16 km to the east, and describes the beach then as longer than 12 km. The national beach page says longer than 10 km. Both lengths stay. A 3 May 2025 news page prints about 20 km. The other three distances do not print minutes. Check on arrival.",
-    "Older pages still say thị xã Cửa Lò. From 1 December 2024 the former town is inside Vinh. From 1 July 2025 the beach wards are phường Cửa Lò. Two city bus lines are named toward the beach: Bến Thủy–Trường Thi–Cửa Hội–Cửa Lò, and Bến Thủy–Quang Trung–Quán Bánh–Cửa Lò. Fares are check on arrival. A 2012 page names đảo Ngư, đảo Mắt, and đảo Lan Châu off this shore. The 2025 page names Song Ngư and a cable car longer than 3.5 km, and calls chùa Song Ngư more than 800 years old, about 4 km on from Cửa Lò at Cửa Hội. The provincial tour names đảo Hòn Ngư and chùa Song Ngư. Do not merge those islands into one. A crossing time and a fare were not printed."
+    "It is 18 km and about 30 minutes by car on the Núi Cấm road, 17 km, 16 km to the east, and about 20 km. The sand runs along đường Bình Minh. Check the minutes for 16 km, 17 km, and about 20 km on arrival.",
+    "From 1 December 2024 the former town is inside Vinh. From 1 July 2025 the beach wards are phường Cửa Lò. Cửa Hội is about 4 km on from the sand. A crossing time and a fare are check on arrival."
   ],
   "legs": [
     {
       "heading": "From the square",
-      "body": "By car or the city bus lines named above. Use all four distances: 18 km and about 30 minutes on the Núi Cấm road, 17 km, 16 km east, and about 20 km. Do not collapse them. A chair on the sand was not given a price. Check on arrival."
+      "body": "By car, or on the city buses Bến Thủy–Trường Thi–Cửa Hội–Cửa Lò and Bến Thủy–Quang Trung–Quán Bánh–Cửa Lò. Keep 16 km, 17 km, 18 km and about 30 minutes on the Núi Cấm road, and about 20 km. Bus fares are check on arrival."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "A closing hour for the sand was not printed. Check on arrival.",
-  "admissionNote": "The sand’s own fee was not printed. Check on arrival. For the 2025 season the city made showers, public toilets, parking, and wifi free. That sentence is the season, not a standing bylaw. A chair is check on arrival.",
+  "closed": "Check on arrival",
+  "admissionNote": "No fee for the sand is set. Check on arrival. For the 2025 season, showers, public toilets, parking, and wifi were free. A chair is check on arrival.",
   "links": [
     {
       "label": "Cửa Lò beach",
       "url": "https://vietnamtourism.vn/index.php/tourism/items/1244",
-      "note": "Cục Du lịch Quốc gia Việt Nam. 18 km and the Núi Cấm road."
+      "note": "18 km, the Núi Cấm road, and the shore along Bình Minh."
     },
     {
       "label": "City introduction",
       "url": "https://vinh.nghean.gov.vn/dieu-kien-tu-nhien/-/asset_publisher/ynVJdsHuw4tR/content/gioi-thieu-thanh-pho-vinh-1",
-      "note": "City portal. 17 km to Cửa Lò."
+      "note": "17 km to Cửa Lò, and the two bus lines."
     }
   ],
   "interests": ["beaches"]

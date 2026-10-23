@@ -4,39 +4,36 @@
   "name": "Nghe Tinh Soviet Museum",
   "nameVi": "Bảo tàng Xô viết Nghệ Tĩnh",
   "kicker": "The 1930–1931 rooms in the citadel yard",
-  "summary": "Walk the rooms of the 1930–1931 movement in the citadel yard. A 2025 news page says more than 5,000 objects and photographs, and outdoor space next to the walls, nearly 2 km from the square. A street number was not on that page. Opening hours and a fee were not printed. This is not Bảo tàng Nghệ An on Đào Tấn.",
+  "summary": "Walk the 1930–1931 rooms in the citadel yard on Đào Tấn. More than 5,000 objects and photographs fill 10 rooms, nearly 2 km from the square. Since 23 May 2025 this is one museum with the provincial collection. The address is 7 and 10 Đào Tấn, and also 10 and 39. Hours are 07:30–12:00 and 13:30–17:00, every day. A fee is check on arrival.",
   "dots": 3,
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
-  "getThere": "In the citadel yard, nearly 2 km from the square.",
-  "verified": "22 Oct 2026",
+  "getThere": "7 and 10 Đào Tấn, and also 10 and 39, nearly 2 km from the square.",
+  "district": "The citadel",
+  "verified": "23 Oct 2026",
   "heroCaption": "The front of Bảo tàng Xô viết Nghệ Tĩnh",
-  "notice": {
-    "title": "This is not the provincial museum",
-    "body": "Bảo tàng Nghệ An is the one the city roundup places on Đào Tấn. This building is the Xô viết museum, in the citadel yard."
-  },
   "gettingThere": [
-    "The 2025 news page puts the museum in the citadel yard, nearly 2 km from the square, with outdoor space next to the walls. A street number was not on that page. Check on arrival. The minutes were not printed."
+    "The merged museum is at 7 and 10 Đào Tấn, and also at 10 and 39 Đào Tấn. The ward is Thành Vinh, and also Cửa Nam. The Soviet rooms in this frame sit in the citadel yard, nearly 2 km from the square. Use both street numbers if you want the Soviet rooms and the provincial rooms. Minutes are check on arrival."
   ],
   "legs": [
     {
       "heading": "From Ho Chi Minh Square",
-      "body": "With the citadel, nearly 2 km on the 2025 news page. The minutes were not printed. Check on arrival."
+      "body": "With the citadel, nearly 2 km. The minutes are check on arrival."
     }
   ],
-  "hours": "Check on arrival",
-  "closed": "Opening hours were not printed. Check on arrival.",
-  "admissionNote": "No fee was printed. Check on arrival.",
+  "hours": "07:30–12:00 and 13:30–17:00, Monday to Sunday.",
+  "closed": "No weekly closing day. The afternoon session starts at 13:30.",
+  "admissionNote": "Check on arrival.",
   "links": [
     {
-      "label": "48 hours in Vinh",
-      "url": "https://vnexpress.net/48-gio-kham-pha-thanh-pho-vinh-4880720.html",
-      "note": "VnExpress, 3 May 2025. More than 5,000 objects, nearly 2 km from the square."
+      "label": "The merged museum",
+      "url": "https://www.nghean.gov.vn/thong-tin-chi-dao-dieu-hanh/thanh-lap-bao-tang-nghe-an-xo-viet-nghe-tinh-727300",
+      "note": "23 May 2025. Address 7 and 10 Đào Tấn."
     },
     {
-      "label": "Vinh on the national tourism page",
-      "url": "https://vietnamtourism.vn/index.php/tourism/items/2684",
-      "note": "Lists this museum separately from Bảo tàng Nghệ An and Bảo tàng Quân khu IV."
+      "label": "Soviet museum",
+      "url": "https://visitnghean.gov.vn/diem-tham-quan/bao-tang-xo-viet",
+      "note": "Ten rooms. Founded 15 January 1960."
     }
   ],
   "interests": ["warHistory"]
