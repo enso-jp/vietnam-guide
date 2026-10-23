@@ -11,20 +11,35 @@
   "summary": "Hue and Hoi An, with Da Nang as the airport. Add Phong Nha only by dropping a day in one of the cities.",
   "days": [
     {
-      "title": "Days 1–2 — Hue",
-      "body": "Citadel and a tomb.",
+      "title": "Day 1 — Hue Citadel",
+      "body": "Visit the Hue Citadel and eat bun bo Hue.",
       "placeSlug": "hue",
-      "photo": "hue-citadel"
+      "photo": "hue-citadel",
+      "itinerarySlug": "hue-day"
     },
     {
-      "title": "Day 3 — To Hoi An",
-      "body": "Morning transfer. Afternoon in the old town.",
+      "title": "Day 2 — Hue tombs",
+      "body": "Visit the tombs of Minh Mang, Tu Duc, and Khai Dinh.",
+      "placeSlug": "hue",
+      "photo": "hue-minh-mang",
+      "itinerarySlug": "hue-two-days"
+    },
+    {
+      "title": "Day 3 — Hoi An old town",
+      "body": "Travel to Hoi An and walk the old town from the Japanese Covered Bridge.",
       "placeSlug": "hoi-an",
-      "photo": "hoi-an-japanese-bridge"
+      "photo": "hoi-an-japanese-bridge",
+      "itinerarySlug": "hoi-an-old-town-walk"
     },
     {
-      "title": "Days 4–5 — Hoi An",
-      "body": "Food, a bicycle, and the flight out of Da Nang.",
+      "title": "Day 4 — Hoi An Market",
+      "body": "Visit Hoi An Market.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-market"
+    },
+    {
+      "title": "Day 5 — Da Nang",
+      "body": "Fly out of Da Nang.",
       "placeSlug": "da-nang",
       "photo": "da-nang"
     }

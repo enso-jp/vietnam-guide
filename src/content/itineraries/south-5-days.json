@@ -10,22 +10,36 @@
   "summary": "Ho Chi Minh City plus either Can Tho, Phu Quoc, or Da Lat. Not all three.",
   "days": [
     {
-      "title": "Days 1–2 — Ho Chi Minh City",
-      "body": "District 1 and one museum.",
+      "title": "Day 1 — Ho Chi Minh City",
+      "body": "Walk the cathedral square, Nguyen Hue, the Reunification Palace, and Ben Thanh Market.",
       "placeSlug": "ho-chi-minh-city",
-      "photo": "ho-chi-minh-city-ben-thanh"
+      "photo": "ho-chi-minh-city-ben-thanh",
+      "itinerarySlug": "ho-chi-minh-city-walk"
     },
     {
-      "title": "Days 3–4 — One add-on",
-      "body": "A night in Can Tho, a flight to Phu Quoc, or a night bus to Da Lat.",
+      "title": "Day 2 — War Remnants Museum",
+      "body": "Visit the War Remnants Museum.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-war-remnants"
+    },
+    {
+      "title": "Day 3 — One add-on",
+      "body": "Go to Can Tho for the night, or take Phu Quoc or Da Lat if that is the one add-on you booked.",
       "placeSlug": "can-tho",
-      "photo": "can-tho-cai-rang"
+      "photo": "can-tho-ninh-kieu"
     },
     {
-      "title": "Day 5 — Back to the airport",
-      "body": "Tan Son Nhat, unless you fly out of the add-on city.",
+      "title": "Day 4 — Cai Rang",
+      "body": "Take the boat to Cai Rang at dawn, then visit the Binh Thuy ancient house.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-cai-rang",
+      "itinerarySlug": "can-tho-day"
+    },
+    {
+      "title": "Day 5 — Tan Son Nhat",
+      "body": "Return for the flight from Tan Son Nhat, unless you fly out of the add-on city.",
       "placeSlug": "ho-chi-minh-city",
-      "photo": "ho-chi-minh-city-reunification-palace"
+      "photo": "ho-chi-minh-city"
     }
   ],
   "seoTitle": "5 days in southern Vietnam",
