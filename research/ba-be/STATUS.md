@@ -2,7 +2,7 @@
 
 Slug: `ba-be`
 Status: stored
-Checked: 21 Oct 2026. Food sources widened 23 Oct 2026. Status stays stored.
+Checked: 21 Oct 2026. Food sources widened 23 Oct 2026. Attraction pages re-checked 23 Oct 2026. Status stays stored.
 Ready for copy: yes
 
 All research lanes stored. Ba Be stays its own place on the northern-midlands corridor. Resolution 202/2025/QH15 folded Bac Kan into Thai Nguyen. The park’s years under the Cao Bang People’s Committee, 1992–1997, do not make the lake part of the Cao Bang page. Publish stays `candidate`. No public page was edited.

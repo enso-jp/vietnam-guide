@@ -3,10 +3,8 @@
 Place: `ba-be`
 Slug: `tat-ma`
 Status: stored
-Checked: 22 Oct 2026
+Checked: 23 Oct 2026
 
 unpublished: no licensed photo
 
-No licensed photograph of Tat Ma was found. Dau Dang is a different fall.
-
-The dossier entry stays in `research/ba-be/attractions.md`. Fee and hours are check on arrival. This sight stays off the card grid.
+Checked again 23 Oct 2026. No Commons file names Thác Tát Mạ. Dau Dang is a different fall. Height, a path, and a landing were not on the pages read. Fee, hours, and the minutes from the lake are Check on arrival. This sight stays off the card grid.
