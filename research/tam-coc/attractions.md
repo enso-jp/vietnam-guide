@@ -36,6 +36,7 @@ No city pin. The published pair 20.216, 105.933 is not kept. The gazetteer point
 - Suggested slug: three-caves
 - Suggested dot: 4 — the boat is the reason to come, and it is one timed ride, not a whole province
 - Photo must show: The low cave, the boat, and the rock overhead in one frame, from the water. The published stub file `public/photos/tam-coc-three-caves.jpg` was opened. It is the view from inside a dark cave toward one sampan and a bright mouth, with trees beyond. The karst towers of the hero are not in that frame. A crop that is only black water fails. unpublished is not the mark for this sight: a licensed photo exists. It is the cave mouth, not the hero.
+- Published 23 Oct 2026: hero replaced with `File:Tam Coc-Traversée de la grotte.jpg` (Ji-Elle, CC BY-SA 4.0); second frame `File:Rameuse à Tam Coc (1).jpg`. The old stub file was mostly black with the boat a speck. See `attractions/three-caves.md`.
 - Lengths, both kept: Heritage bureau, from the ranking dossier: hang Cả khoảng 180 m long, width ước chừng 30 m, ceiling higher than 5 m; hang Hai khoảng 90 m, outer mouth khoảng 30 m, inner more than 30 m, ceiling chừng 3.5 m; hang Ba hơn 80 m, outer mouth khoảng 20 m, inner more than 30 m, ceiling under 3 m (S5). Vietnamese Wikipedia: hang Cả 127 m, mouth wider than 20 m; hang Hai 60 m and nearly 1 km from hang Cả; hang Ba 50 m (S7). Do not pick one set.
 - End of the ride, both kept: The heritage bureau says the route ends at đền Nội Lâm, worshipping Cao Sơn đại vương (S5). Vietnamese Wikipedia says đền Thần Nông, near hang Ba, is the last stop (S7). The 24 May 2026 procession went from the pier to Đền Thần Nông Tam Cốc (S13). Both end-names stay.
 - Sources: S3, S5, S7, S13, S17, S24
@@ -54,6 +55,7 @@ No city pin. The published pair 20.216, 105.933 is not kept. The gazetteer point
 - Suggested slug: bich-dong
 - Suggested dot: 4 — the pagoda is the walk the boat ticket already names
 - Photo must show: The three halls on the limestone, with the river or the rice in the same frame. A portrait of one statue loses the hill. unpublished: no licensed photo in this dossier.
+- Published 23 Oct 2026: licensed photos found: `File:Bich dong.jpg` and a Jakub Hałun frame. Page `bich-dong`. See `attractions/bich-dong.md`.
 - Naming and founding, all kept: Heritage bureau: formerly Bích Sơn; founded in the Lê Trung Hưng period by the monks Trí Kiên and Trí Thể; in Giáp Ngọ (1774) Trịnh Sâm had Nguyễn Nghiễm supervise an eight-month carving of the two characters “Bích Động”, each character’s frame 1.5 m (S5). Vietnamese Wikipedia: Nguyễn Nghiễm named the cave in 1773; the pagoda dates from the early Hậu Lê and was enlarged under Lê Hiển Tông (1740–1786) into the three halls (S7). French Wikipedia: the pagoda complex was built in 1428 (S9). Do not pick a year or a person.
 - Sources: S3, S4, S5, S7, S9
 
@@ -71,6 +73,7 @@ No city pin. The published pair 20.216, 105.933 is not kept. The gazetteer point
 - Suggested slug: thai-vi
 - Suggested dot: 3 — on the same ticket as the boat, a stop rather than a separate day
 - Photo must show: The temple roof among the karst, with the court in the frame. A crop of one carved column loses the building. unpublished: no licensed photo.
+- Published 23 Oct 2026: licensed photos found: `File:DenThaiVi1.jpg` and `File:Thai Vi Temple 3.jpg`. Page `thai-vi`. See `attractions/thai-vi.md`.
 - Who is worshipped, both kept: 2016 tourism page: Trần Thái Tông, Trần Thánh Tông, Hiển từ Hoàng thái hậu, and a vọng altar for Trần Nhân Tông and Trần Anh Tông (S6). Vietnamese Wikipedia: Trần Thái Tông, Trần Thánh Tông, the generals Trần Hưng Đạo and Trần Quang Khải, and queen Trần Thị Dung (S7). Both lists stay.
 - Sources: S3, S6, S7
 
@@ -168,6 +171,7 @@ No city pin. The published pair 20.216, 105.933 is not kept. The gazetteer point
 - Suggested slug: thung-nham
 - Suggested dot: 3 — a second paid valley, not the picture people mean by Tam Coc
 - Photo must show: The wetland trees, the birds, and the karst together. A single bird portrait fails. unpublished: no licensed photo.
+- Published 23 Oct 2026: licensed photos found: two `Vườn chim Thung Nham` files. Page `thung-nham`. See `attractions/thung-nham.md`.
 - Sources: S3, S4, S7
 
 ### Hang Bụt, Hang Chùa, and Hang Ghé
@@ -200,6 +204,7 @@ No city pin. The published pair 20.216, 105.933 is not kept. The gazetteer point
 - Suggested slug: co-vien-lau
 - Suggested dot: 2 — a yard beside the pier, not the boat
 - Photo must show: A timber house in the yard, with the karst or the pier road in the frame. unpublished: no licensed photo.
+- Published 23 Oct 2026: licensed photos found: `File:CoVienLau.jpg` and `File:Pagoda in Co Vien Lau.JPG`. Page `co-vien-lau`. See `attractions/co-vien-lau.md`.
 - Sources: S3, S7
 
 ### Làng thêu Văn Lâm
@@ -216,6 +221,7 @@ No city pin. The published pair 20.216, 105.933 is not kept. The gazetteer point
 - Suggested slug: van-lam-embroidery
 - Suggested dot: 3 — the craft in the same hamlet as the boat, not a second destination
 - Photo must show: Hands at a frame, with a finished picture and the lane visible. A product shot with no hands and no lane fails. unpublished: no licensed photo.
+- Searched 23 Oct 2026: only the ancestor temple (`File:Đền thờ Tổ nghề thêu Văn Lâm 1.jpg`, CC0) and a text stele. No second frame of the craft. Still unpublished: no licensed photo. See `attractions/unpublished.md`.
 - Sources: S7, S15
 
 ### Thôn Văn Lâm
