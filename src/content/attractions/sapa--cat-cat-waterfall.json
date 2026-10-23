@@ -4,26 +4,41 @@
   "name": "Cat Cat waterfall",
   "nameVi": "Thác Cát Cát",
   "kicker": "The fall inside Cat Cat",
-  "summary": "The fall sits inside the Cat Cat walk, with the stream and the walkways in one view. From 1 January 2025 the scenic fee is 10,000 đồng from age 16 and 5,000 đồng from over 6 to under 16. That fee is not the village gate. The gate is a separate charge, and the commercial pages do not agree on the child’s height.",
+  "summary": "Fall on the Cat Cat walk: follow the stream and walkways on that visit for the drop in the gorge. From 1 January 2025 the scenic fee is 10,000 đồng from age 16 and 5,000 đồng from over 6 to under 16. The village gate is a second charge, at 150,000 đồng for an adult on commercial pages, with two different child height bands. Go in the village’s daylight hours.",
   "dots": 3,
   "district": "Muong Hoa valley",
   "timeNeeded": "Inside the Cat Cat walk",
   "fee": "10,000 đồng from age 16",
   "getThere": "With Cat Cat. Minutes from the church are Check on arrival.",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "The fall, the stream, and the walkways at Cat Cat",
+  "notice": {
+    "title": "Pay the scenic fee and the gate",
+    "body": "The scenic fee from 1 January 2025 covers Thác Cát Cát. The village gate is a second ticket. Pay each charge on its own."
+  },
+  "body": [
+    "The fall sits inside the Cat Cat walk. You follow the stream and the walkways to the drop, with the village houses on the slope above. The 2025 fee decision places Thác Cát Cát in xã Hoàng Liên. From July 2025 that commune sits inside xã Tả Van.",
+    "From 1 January 2025 the scenic fee is 10,000 đồng from age 16 and 5,000 đồng from over 6 to under 16. The village gate, on commercial pages, is 150,000 đồng for an adult and 70,000 đồng for a child, with the child band either 1 m to under 1.4 m or 1 m to 1.3 m. Fold the fall into the village walk."
+  ],
+  "figures": [
+    {
+      "id": "sapa-cat-cat-waterfall-2",
+      "caption": "The fall over the rocks, closer to the water",
+      "alt": "Cat Cat waterfall pouring over dark rocks into a rocky stream"
+    }
+  ],
   "gettingThere": [
-    "The waterfall is on the Cat Cat walk. The 2025 fee decision places Thác Cát Cát in xã Hoàng Liên, which the merger puts inside xã Tả Van. Go with the village visit. A separate duration for the fall alone was not printed."
+    "The waterfall is on the Cat Cat walk. The 2025 fee decision places Thác Cát Cát in xã Hoàng Liên, which the 2025 merger puts inside xã Tả Van. Go with the village visit. A published duration for the fall alone is missing."
   ],
   "legs": [
     {
       "heading": "From the stone church",
-      "body": "The same walk or short ride as Cat Cat. Minutes are Check on arrival."
+      "body": "The same walk or short ride as Cat Cat. A published minute count is missing."
     }
   ],
   "hours": "Inside the village hours. The village site prints both 06:30–18:00 and 07:00–18:00. A commercial page prints 6:30–17:30.",
-  "closed": "Check the village gate. The closing times do not match.",
-  "admissionNote": "Scenic fee from 1 January 2025, decision 4639: 10,000 đồng from age 16, 5,000 đồng from over 6 to under 16. This is not the village gate. Commercial pages print the gate at 150,000 đồng for an adult and 70,000 đồng for a child, with the child band either 1 m to under 1.4 m or 1 m–1.3 m.",
+  "closed": "Check the village gate. The three closing times differ.",
+  "admissionNote": "Scenic fee from 1 January 2025, decision 4639: 10,000 đồng from age 16, 5,000 đồng from over 6 to under 16. The village gate is a second charge. Commercial pages print the gate at 150,000 đồng for an adult and 70,000 đồng for a child, with the child band either 1 m to under 1.4 m or 1 m to 1.3 m.",
   "links": [
     {
       "label": "Scenic fee decision, as reported",

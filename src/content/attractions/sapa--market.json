@@ -1,0 +1,51 @@
+{
+  "slug": "market",
+  "placeSlug": "sapa",
+  "name": "Sa Pa market",
+  "nameVi": "Chợ Sa Pa",
+  "kicker": "Saturday market in town",
+  "summary": "Saturday market in town: walk the evening stalls for textiles, food, and the gathering in the square. Hmong and Dao traders, goods, and a courtship gathering of trading, singing, and talking fill the evening. The same night uses the square in front of the stone church. Go once the stalls are out along the street.",
+  "dots": 4,
+  "district": "Town center",
+  "timeNeeded": "An evening",
+  "fee": "Check on arrival",
+  "getThere": "Walk from the stone church. The market is in town.",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Evening stalls of textiles along the street in town",
+  "body": [
+    "Saturday evening is the market in town. You walk the stalls of textiles and food, in the street and under the covered hall. The national page names Hmong and Dao traders, goods, and a courtship gathering of trading, singing, and talking.",
+    "The square in front of the stone church is part of the same evening. Christmas is named at the church without a civil date. On other cold nights the grills sit at hồ Sa Pa and on the road down toward the market."
+  ],
+  "figures": [
+    {
+      "id": "sapa-market-2",
+      "caption": "Textiles under the covered market hall",
+      "alt": "Piles of embroidered textiles in the covered Sa Pa market"
+    }
+  ],
+  "gettingThere": [
+    "The market is in town, a walk from the stone church and the square. Saturday evening is the gathering the national pages describe. A published clock is missing."
+  ],
+  "legs": [
+    {
+      "heading": "From the stone church",
+      "body": "Walk. The square in front of the church and the market street are the same Saturday evening."
+    }
+  ],
+  "hours": "Saturday evening. Check on arrival.",
+  "closed": "Check on arrival",
+  "admissionNote": "No ticket is printed on the national market page. Stall prices are Check on arrival.",
+  "links": [
+    {
+      "label": "Vietnam National Authority of Tourism",
+      "url": "https://vietnamtourism.vn/index.php/tourism/items/1931/",
+      "note": "Saturday evening, Hmong and Dao, goods and a gathering"
+    },
+    {
+      "label": "Stone church and the square",
+      "url": "https://vietnamtourism.vn/index.php/tourism/items/2956/",
+      "note": "The Saturday gathering in front of the church"
+    }
+  ],
+  "interests": ["markets"]
+}

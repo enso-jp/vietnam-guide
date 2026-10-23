@@ -1,0 +1,51 @@
+{
+  "slug": "lao-chai",
+  "placeSlug": "sapa",
+  "name": "Lao Chai",
+  "nameVi": "Lao Chải",
+  "kicker": "Village on the valley road",
+  "summary": "Valley village on the way to Ta Van: walk the terraces and roofs on the 3–5 hour trail from town. The older route runs through Ý Linh Hồ, then Lao Chai, then Ta Van. Xã Lao Chải stayed its own commune in the 2025 merger. A 2023 table prints 75,000 đồng for an adult and 50,000 đồng for a child at this gate. Read the booth.",
+  "dots": 4,
+  "district": "Muong Hoa valley",
+  "timeNeeded": "Part of a 3–5 hour walk",
+  "fee": "Check on arrival",
+  "getThere": "On the valley road toward Ta Van. Minutes from the church are Check on arrival.",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Houses and terraces on the slope at Lao Chai",
+  "body": [
+    "Lao Chai is the village on the older route from town through Ý Linh Hồ to Tả Van. The houses and the terraces sit on the slope, with the ridge behind them. You walk through on the way to Ta Van. The stretch that includes both villages is 8–12 km and takes 3–5 hours.",
+    "Xã Lao Chải was one of the communes the 2025 resolution left unmerged, so it is still its own commune beside xã Tả Van. A 2023 CafeBiz table prints Lao Chải–Tả Van at 75,000 đồng for an adult and 50,000 đồng for a child. Read the figure on the gate."
+  ],
+  "figures": [
+    {
+      "id": "sapa-lao-chai-2",
+      "caption": "Curved terraces and roofs at Lao Chai",
+      "alt": "Green rice terraces and village roofs at Lao Chai, Sa Pa"
+    }
+  ],
+  "gettingThere": [
+    "Follow the valley road from town through Ý Linh Hồ to Lao Chai and on to Ta Van. The walk that covers Lao Chai and Ta Van is 8–12 km and takes 3–5 hours. A published minute count for a ride from the church is missing."
+  ],
+  "legs": [
+    {
+      "heading": "From the stone church",
+      "body": "Take the valley road through Ý Linh Hồ to Lao Chai, then on to Ta Van. The walk is 8–12 km and takes 3–5 hours."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "admissionNote": "CafeBiz’s 2023 table prints Lao Chải–Tả Van at 75,000 đồng for an adult and 50,000 đồng for a child. That table is commercial. Read the gate.",
+  "links": [
+    {
+      "label": "Ta Van valley walk",
+      "url": "https://vietnamtourism.vn/en/index.php/news/items/18923",
+      "note": "8–12 km and 3–5 hours through the valley"
+    },
+    {
+      "label": "Community routes from 2005",
+      "url": "https://vietnamtourism.vn/index.php/news/items/7542",
+      "note": "Town, Ý Linh Hồ, Lao Chải, Tả Van"
+    }
+  ],
+  "interests": ["rice"]
+}
