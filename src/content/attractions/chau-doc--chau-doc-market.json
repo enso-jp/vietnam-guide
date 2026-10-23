@@ -4,17 +4,17 @@
   "name": "Chau Doc Market",
   "nameVi": "Chợ Châu Đốc",
   "kicker": "Town market for the morning bowl",
-  "summary": "Start at Chợ Châu Đốc. Vietnam Tourism puts fish-noodle bowls and coffee on the outskirts, boats unloading on the waterfront, and flowers, fruit, and vegetables on the sidewalk. Mắm ferments in the open. A street number and a closing hour were not printed. Check on arrival for the gate. Come in the morning, before the hill.",
+  "summary": "Start at Chợ Châu Đốc. Vietnam Tourism puts fish-noodle bowls and coffee on the outskirts, boats unloading on the waterfront, and flowers, fruit, and vegetables on the sidewalk. Mắm ferments in the open. VnExpress prints 05:30–18:00. A street number was not printed. Check on arrival for the gate.",
   "dots": 3,
   "timeNeeded": "A morning stop",
   "fee": "Check on arrival",
   "getThere": "In the town center, phường Châu Đốc. The street number is check on arrival.",
-  "verified": "21 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "The market hall signed Chợ Châu Đốc",
   "body": [
     "Walk the hall for breakfast, not for a list of named stalls. On the outskirts, bún cá and strong coffee. On the waterfront, boats unload produce. Mắm, fish pickled with palm sugar, salt, chili, and garlic, is stacked in the open. Tamarind, jellied sweets, and fish fill the aisles. Vietnam Tourism also tells you to look up at the old shop-sign lettering.",
-    "The photographs are two halls, both signed Chợ Châu Đốc: the fan-window front, and the blue hall with the street in front. They are the market. They are not a close frame of the bowl. Bún cá is the breakfast to order, with chili and lime. A stall price was not published.",
-    "A closing hour was not printed. Check on arrival. Shop names that only located a street, including stalls on Phan Đình Phùng, are not picks. A company project called Chợ quê làng Chăm in Đa Phước is a 2024 notice, not a second market this page can walk."
+    "The photographs are two halls, both signed Chợ Châu Đốc: the fan-window front, and the blue hall with the street in front. They are the market. Bún cá is the breakfast to order, with chili and lime. VnExpress printed 10,000–20,000 VND for a bowl in 2019 and 25,000–30,000 VND in 2023. The figures disagree. Check on arrival.",
+    "VnExpress on 20 Oct 2023 prints the hall open 05:30–18:00 every day. Vietnam Tourism does not print a clock. Stalls named on Phan Đình Phùng located a bowl. A company project called Chợ quê làng Chăm in Đa Phước is a 2024 notice, a different walk from this hall."
   ],
   "figures": [
     {
@@ -32,14 +32,19 @@
       "body": "On foot, into the town center. A published minute count was not found. Check on arrival."
     }
   ],
-  "hours": "Check on arrival. Come in the morning for breakfast and the landing.",
-  "closed": "A closing hour was not printed. Check on arrival.",
-  "admissionNote": "No gate fee was published. Check on arrival if someone asks for one. No stall price is printed here.",
+  "hours": "VnExpress, 20 Oct 2023, prints 05:30–18:00 every day. Vietnam Tourism does not print a clock. Come in the morning for breakfast and the landing.",
+  "closed": "VnExpress prints the hall open every day. A weekly closing day was not printed.",
+  "admissionNote": "No gate fee was published. Check on arrival if someone asks for one. Bowl prices in VnExpress disagree. Check on arrival.",
   "links": [
     {
       "label": "The colourful charms of Chau Doc",
       "url": "https://vietnam.travel/things-to-do/colourful-charms-chau-doc",
       "note": "Vietnam Tourism, the market chapter"
+    },
+    {
+      "label": "48 giờ ở Châu Đốc",
+      "url": "https://vnexpress.net/48-gio-o-chau-doc-4666546.html",
+      "note": "VnExpress, 20 Oct 2023, the 05:30–18:00 clock"
     }
   ],
   "interests": ["markets", "food"]

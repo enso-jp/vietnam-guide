@@ -2,37 +2,75 @@
   "slug": "chau-doc",
   "name": "Chau Doc food guide",
   "placeSlug": "chau-doc",
-  "summary": "Châu Đốc eats fish. Breakfast is bún cá with điên điển at Chợ Châu Đốc, seasoned with chili and lime. Mắm, pickled with palm sugar, salt, chili, and garlic, is stacked in the hall. Dinner is lẩu mắm, the shared pot, and cá kho tộ, a Mekong claypot eaten with rice and greens. Afternoon sweets are bánh bò thốt nốt, bánh bò Chăm in the villages, and chè thốt nốt. Only the claypot has a licensed photograph of the bowl. No stall price was published.",
+  "summary": "Châu Đốc eats fish from the Hậu. Breakfast at Chợ Châu Đốc is bún cá with điên điển, chili, and lime, and the hall smells of mắm. Dinner is lẩu mắm, the pot Vietnam Tourism’s place page says not to leave without, and cá kho tộ with rice and greens. The charms chapter adds a seafood hotpot. Afternoon sweets are bánh bò thốt nốt, bánh bò Chăm, and chè thốt nốt.",
   "heroSlug": "ca-kho-to",
   "body": [
-    "The market is the morning. The pot is the evening. Can Tho’s bánh xèo is a different delta breakfast. Do not rename bún cá as that crepe."
+    "The market is the morning. By 7:00 Vietnam Tourism’s dining chapter already has the hall in motion: noodle bowls, sugarcane juice, and stacks of fermented fish. VnExpress on 20 Oct 2023 prints the gate at 05:30–18:00. Come for the bowl, then the hill.",
+    "VnExpress adds cơm tấm, bánh hỏi thịt nướng, hủ tiếu bò viên, tung lò mò, bún mắm, gỏi sầu đâu, and chuối nếp nướng, and a 2023 day adds bún suông and chè bưởi. The ward names khô cá. The handbook names khô bò and đường thốt nốt. Can Tho’s bánh xèo is a different delta breakfast. Where two VnExpress prices disagree, both figures sit on the dish. Confirm a stall price on arrival."
   ],
-  "specialtiesLead": "The card is the dish with a photograph. The other bowls are named above and have no licensed picture, so they are not cards.",
+  "specialtiesLead": "Cá kho tộ is the claypot. Vietnam Tourism, VnExpress, UBND phường Châu Đốc, and the An Giang portal name the rest.",
   "dishSlugs": [
     "ca-kho-to"
   ],
   "sections": [
     {
+      "id": "specialties",
+      "heading": "Chau Doc specialties",
+      "nav": "Specialties",
+      "paragraphs": [
+        "Twenty further dishes are named for Châu Đốc by Vietnam Tourism, VnExpress, the ward, or the province. A house number that was not printed is Check on arrival."
+      ],
+      "dishSlugs": [
+        "bun-ca-chau-doc",
+        "mam-chau-doc",
+        "lau-mam-chau-doc",
+        "seafood-hotpot-chau-doc",
+        "com-tam-chau-doc",
+        "banh-hoi-chau-doc",
+        "hu-tieu-chau-doc",
+        "tung-lo-mo",
+        "bun-mam-chau-doc",
+        "bun-suong-chau-doc",
+        "goi-sau-dau",
+        "banh-bo-thot-not",
+        "banh-bo-cham",
+        "che-thot-not",
+        "che-buoi-chau-doc",
+        "chuoi-nep-nuong",
+        "kho-ca-chau-doc",
+        "kho-bo-chau-doc",
+        "duong-thot-not",
+        "nuoc-mia-chau-doc"
+      ]
+    },
+    {
       "id": "market",
       "heading": "Chau Doc Market",
       "nav": "Market",
+      "role": "casual",
       "paragraphs": [
-        "Come in the morning. A closing hour was not printed."
+        "Come in the morning. VnExpress on 20 Oct 2023 prints 05:30–18:00 every day. Vietnam Tourism does not print a clock. Breakfast on the Hậu landing, in that same day, is hủ tiếu, bún mắm, or bún suông."
       ],
       "spots": [
         {
           "name": "Chau Doc Market",
           "nameVi": "Chợ Châu Đốc",
-          "caption": "The hall for bún cá and mắm. A street number and a closing hour were not printed. Check on arrival.",
-          "note": "Morning bowls at the edge of the hall. No stall price is published.",
+          "caption": "The hall for bún cá, mắm, and sugarcane juice. A street number was not printed.",
+          "note": "Morning bowls at the edge of the hall, and mắm in the aisles. VnExpress prints 05:30–18:00. Vietnam Tourism’s dining chapter says the hall is already busy by 7:00. A gate fee was not printed. Check on arrival.",
           "photo": "chau-doc-chau-doc-market"
         },
         {
           "name": "The blue hall",
           "nameVi": "Chợ Châu Đốc",
-          "caption": "The same market from the street. Flowers, fruit, and the landing are the walk. Shop names are not picks.",
-          "note": "A second frame of Chợ Châu Đốc. Not a second market.",
+          "caption": "The same market from the street. Flowers, fruit, and the landing are the walk.",
+          "note": "A second frame of Chợ Châu Đốc. The same hall, seen from the street.",
           "photo": "chau-doc-chau-doc-market-2"
+        },
+        {
+          "name": "Chau Doc floating market",
+          "nameVi": "Chợ nổi Châu Đốc",
+          "caption": "Fruit and vegetables on the water, before the town is busy.",
+          "note": "Vietnam Tourism’s dining chapter: several dozen boats in the early morning, produce hung on long poles so a buyer can see it from far off. A clock and a landing name were not printed. Check on arrival."
         }
       ]
     },
@@ -40,15 +78,16 @@
       "id": "can-tho",
       "heading": "Can Tho, if that breakfast is the point",
       "nav": "Can Tho",
+      "role": "regional",
       "paragraphs": [
-        "Bánh xèo is the neighbor’s crepe, not the Châu Đốc bowl."
+        "Bánh xèo is the crepe on Vietnam Tourism’s Mekong dining chapter, the large turmeric one filled with pork, beansprouts, and shrimp. It is the neighbor’s breakfast. VnExpress on 20 Oct 2023 also lists it on the lunch menu inside Trà Sư, with cá lóc nướng, lẩu cá linh bông điên điển, cá linh chiên giòn, and gỏi cổ hũ dừa. That menu is one room."
       ],
       "dishSlugs": [
         "banh-xeo"
       ]
     }
   ],
-  "verified": "21 Oct 2026",
+  "verified": "23 Oct 2026",
   "seoTitle": "Chau Doc food guide: market fish, mam, claypot",
-  "seoDescription": "Châu Đốc food is bún cá and mắm at the market, then lẩu mắm and cá kho tộ. Only the claypot has a licensed photo. No stall price was published."
+  "seoDescription": "Châu Đốc food is bún cá and mắm at the market, lẩu mắm and cá kho tộ, palm sweets, and the other bowls Vietnam Tourism and VnExpress name. Confirm stall prices on arrival."
 }
