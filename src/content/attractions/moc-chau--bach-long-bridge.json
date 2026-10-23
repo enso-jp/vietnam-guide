@@ -8,21 +8,21 @@
   "dots": 3,
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
-  "getThere": "Check on arrival. No kilometer was given.",
+  "getThere": "Check on arrival.",
   "verified": "23 Oct 2026",
   "heroCaption": "The glass span and the hill behind it",
   "gettingThere": [
-    "The park is reached across the bridge. No kilometer from the farm town is given. The distance is check on arrival."
+    "The park is reached across the bridge. Check the distance from the farm town on arrival."
   ],
   "legs": [
     {
       "heading": "From the farm town",
-      "body": "By road. No kilometer and no minute count are given. Check both on arrival."
+      "body": "By road. Check the distance and the minutes on arrival."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly closing day is given. Check on arrival.",
-  "admissionNote": "No tariff is given. Child and senior prices were not given. The fee is check on arrival.",
+  "closed": "Check on arrival.",
+  "admissionNote": "Check on arrival.",
   "links": [
     {
       "label": "Moc Chau nature guide",
