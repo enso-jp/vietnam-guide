@@ -264,6 +264,29 @@ Districts that deserve their own page: `tam-coc` already has one. Do not add the
 
 A bar street was looked for on S5, S10, and S12 and was not named. That is the record, not a missing file.
 
+## Published 23 Oct 2026
+
+Eight sights were added. Each has a file in `attractions/<slug>.md` set to `stored`. The ticket board was opened again that day.
+
+- `cuc-phuong`, `am-tien`, `dich-long`, `duyen-ninh`, `van-trinh`, `ky-lan`, `dong-hoa-lu`, `nhat-tru`.
+
+`ninh-binh-station` stays. It is the arrival hub, not a sight you visit for itself. It does not count toward the 15. Owner decision: keep it on the attraction list as the train pin, or take it off the sight grid and leave it on the stay and getting-there lines.
+
+Real sights after this pass, excluding the station: the six already published (trang-an, hoa-lu, bai-dinh, mua-cave, van-long, phat-diem) plus these eight. That is 14. The target was 15. One short.
+
+## Unpublished this pass
+
+- `non-nuoc`: one usable licensed frame, `Huynonnuoc2.jpg`, 420×315, the hill, the pagoda, and a boat. The other river frame, `Huynonnuoc3.jpg`, carries a corner seal. Park files named Công viên Núi Non Nước are a ferris wheel and cages, not the hill. `unpublished: no second licensed photo`.
+- `kenh-ga`: one Commons file, `Kenhga1.jpg`. The tourism plan gives 53°C and xã Gia Thịnh. `unpublished: no second licensed photo`. Fee still UNSOURCED.
+- `thien-ha`: fees are on the ticket board (route 1 boat 200,000 đồng, on foot 150,000; route 2 boat 250,000). No Commons photo of this cave. `unpublished: no licensed photo`.
+- `thung-ui`: fees are on the ticket board (visit adult 150,000 đồng). One Commons file, `Thung Ui.JPG`, a house and flags. `unpublished: no second licensed photo`.
+- `pho-co-hoa-lu`: visit free, lamp boat 100,000 đồng on the board. One Commons file of lantern boats. `unpublished: no second licensed photo`.
+- `cau-ngoi-phat-diem`: one Commons file, `Caungoininhbinh.jpg`. Official notes exist. `unpublished: no second licensed photo`.
+- `thach-bich`: fees on the board. No licensed photo pair. `unpublished: no licensed photo`.
+- `chua-ba-ngo`: one Commons file. `unpublished: no second licensed photo`.
+- Tam Coc sights stay on `tam-coc`: three-caves, bich-dong, thai-vi, thung-nham, co-vien-lau. Not recreated here.
+- Tam Chúc stays a side-trip placeholder. One Commons file was found. It was not made a sight of this slug.
+
 ## Lifestyle
 
 ### A day from the station
