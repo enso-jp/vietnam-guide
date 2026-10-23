@@ -15,7 +15,7 @@
   "fee": "Pagoda and museum gates are free on the portal. The cart is 40,000 or 30,000 VND. Other fares are check on arrival.",
   "getThere": "70 km and about 1 hour, or 66 km and 1.7 hours, from Ho Chi Minh City. No passenger train.",
   "bestMonths": "Dry season from December",
-  "verified": "21 Oct 2026",
+  "verified": "23 Oct 2026",
   "interests": {
     "pagodas": 5,
     "food": 4,
@@ -52,12 +52,39 @@
     }
   ],
   "eat": [
-    "Hủ tiếu Mỹ Tho is the bowl, at breakfast, lunch, or supper. Dry, the strands are tossed with pork crackling, fried shallot, and soy, then topped with cooked minced pork. With broth, the ward page adds sliced pork, liver, intestines, shrimp, squid, and quail egg. The national page says the local way uses fresh bean sprouts, lime, chili, and soy, and that the bowl is not eaten with lettuce, vinegar, and a herb plate. A stall price is check on arrival.",
-    "The pier food court on 30 Tháng 4 is the late hour that was printed. A 5 Jan 2019 provincial article puts it inside the tourist-boat pier, 3,000 m², from 18:30 to 02:00. A travel page puts a night market at số 8 đường 30/4, from 18:00, busiest 19:00–22:00. The two clocks do not match. Elephant-ear fish, ginger honey tea, and coconut candy are named on Thới Sơn and are not pictured. Bánh tét and the night-court sweets have no serving note and no photograph."
+    "Hủ tiếu Mỹ Tho is the bowl, at breakfast, lunch, or supper. Dry, the strands are tossed with pork crackling, fried shallot, and soy, then topped with cooked minced pork. With broth, the old phường 9 ward office adds sliced pork, liver, intestines, shrimp, squid, and quail egg. Cục Du lịch Quốc gia Việt Nam says the local way uses fresh bean sprouts, lime, chili, and soy, and that the bowl is not eaten with lettuce, vinegar, and a herb plate. Vietnam Tourism’s rural page also puts fresh greens on the soup bowl. Both stay. A stall price is Check on arrival.",
+    "On Thới Sơn, Vietnam Tourism sets out fried elephant-ear fish, grilled snakehead, and ginger honey tea. The Mỹ Phong village sells bánh tét, bánh ít, bánh hỏi, and bánh tầm. The pier court on 30 Tháng 4 is the late hour. The Tiền Giang provincial portal, 5 Jan 2019, puts it inside the tourist-boat pier, 3,000 m², from 18:30 to 02:00. Viet Fun Travel puts a night market at số 8 đường 30/4, from 18:00, busiest 19:00–22:00. The two clocks do not match."
   ],
-  "dishSlugs": ["hu-tieu-my-tho"],
+  "dishSlugs": [
+    "hu-tieu-my-tho",
+    "my-tho--hu-tieu-sa-te",
+    "my-tho--hu-tieu-xuong",
+    "my-tho--ca-tai-tuong",
+    "my-tho--tom-nuong-moi",
+    "my-tho--lau-mam-ca-linh",
+    "my-tho--ca-loc-nuong-trui",
+    "my-tho--canh-chua-ca-loc",
+    "my-tho--banh-xeo-hen",
+    "my-tho--goi-buoi",
+    "my-tho--xoi-chien-phong",
+    "my-tho--trai-cay",
+    "my-tho--tra-mat-ong-gung",
+    "my-tho--keo-dua",
+    "my-tho--banh-tet",
+    "my-tho--banh-it",
+    "my-tho--banh-hoi",
+    "my-tho--banh-tam",
+    "my-tho--sam-bo-luong",
+    "my-tho--che",
+    "my-tho--sinh-to",
+    "my-tho--ngheu",
+    "my-tho--so",
+    "my-tho--mam-tom-cha",
+    "my-tho--mam-cong",
+    "my-tho--banh-gia"
+  ],
   "interestsBody": [
-    "Hủ tiếu Mỹ Tho is the photographed bowl. The islet plates and the night-court sweets are named and not pictured.",
+    "Hủ tiếu Mỹ Tho is the bowl. Thới Sơn adds the fried fish and the honey tea. Gò Công mắm is a different town.",
     "Vĩnh Tràng is the pagoda with a photograph. Bửu Lâm and Quan Đế are free on the portal and stay in the text.",
     "The embankment and the Thủ Khoa Huân statue are the evening pin. The old station is a memory. No train runs."
   ],
@@ -66,13 +93,13 @@
       "title": "Dining and F&B",
       "summary": "The town bowl is hủ tiếu, dry or with broth, any meal of the day.",
       "body": [
-        "Order hủ tiếu Mỹ Tho in town or at the pier court on 30 Tháng 4. The ward page says the bowl is breakfast, lunch, and supper. The workshop at ấp Hội Gia, phường Mỹ Phong, is where the sheets are made. It is not the address of the bowl.",
-        "Deep-fried elephant-ear fish, ginger honey tea, and coconut candy are on the Thới Sơn rural-tourism page. The 2019 court article also lists chè, sinh tố, and sâm bổ lượng. Bánh tét and bánh ít are village products. None of those has a licensed plate photograph, so they are not cards. Stall prices are check on arrival."
+        "Order hủ tiếu Mỹ Tho in town or at the pier court on 30 Tháng 4. The old phường 9 ward office says the bowl is breakfast, lunch, and supper. The workshop at ấp Hội Gia, phường Mỹ Phong, is where the sheets are made. It is not the address of the bowl.",
+        "Vietnam Tourism puts fried elephant-ear fish, grilled snakehead, ginger honey tea, and handmade coconut candy on Thới Sơn. The Tiền Giang tourism portal adds bánh tét, bánh ít, bánh hỏi, and bánh tầm at Mỹ Phong. The 5 Jan 2019 court article lists chè, sinh tố, and sâm bổ lượng. Stall prices are Check on arrival."
       ],
       "cards": [
         {
           "title": "Dining and F&B",
-          "summary": "Hủ tiếu Mỹ Tho, dry or with broth. The other named plates have no photograph here. A stall price is check on arrival.",
+          "summary": "Hủ tiếu Mỹ Tho, dry or with broth, plus the Thới Sơn table and the Mỹ Phong cakes. A stall price is Check on arrival.",
           "photo": "hu-tieu-my-tho",
           "icon": "food",
           "to": "food"

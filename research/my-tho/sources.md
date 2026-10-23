@@ -231,3 +231,93 @@ Accessed 21 Oct 2026 unless a line says the direct open failed. A search extract
 - Publisher: Cổng thông tin điện tử tỉnh Tiền Giang
 - Accessed: 21 Oct 2026
 - Supports: Tân Thành beach, old Gò Công Đông, about 50 km east, and the line that it is not an ideal swimming beach next to Nha Trang, Vũng Tàu, or Mũi Né. Text is the search extract.
+
+### S39
+- URL: https://nongthon.vietnamtourism.gov.vn/cu-lao-thoi-son-diem-du-lich-cong-dong-tieu-bieu-cua-mien-tay-noi-giu-hon-song-nuoc-va-tinh-nguoi-miet-vuon/
+- Publisher: Vietnam Tourism, rural-tourism page (TITC)
+- Accessed: 23 Oct 2026
+- Supports: Thới Sơn table in Vietnamese: cá tai tượng chiên xù, tôm nướng mọi, lẩu mắm cá linh bông điên điển, cá lóc nướng trui, bánh xèo nhân hến, gỏi bưởi da xanh, mật ong and kẹo dừa as OCOP, trà mật ong gừng, and the fruits nhãn, chôm chôm, xoài cát Hòa Lộc, mận An Phước. Direct open succeeded. Matches the English list in S8.
+
+### S40
+- URL: https://nongthon.vietnamtourism.gov.vn/lang-nghe-hu-tieu-my-tho-tinh-hoa-am-thuc-mien-song-nuoc/
+- Publisher: Vietnam Tourism, rural-tourism page (TITC)
+- Accessed: 23 Oct 2026
+- Supports: Craft from the end of the 19th century, Hoa cooks then a Vietnamese adaptation, Mỹ Phong and neighboring wards, soup bowl from pork bone with pork, shrimp, liver, quail egg, and greens, plus the names hủ tiếu khô, hủ tiếu sa tế, and hủ tiếu xương with no further method. Direct open succeeded. The late-19th-century line disagrees with the 1960s line in S16. Both stay.
+
+### S41
+- URL: https://tiengiang.gov.vn/chi-tiet-tin?%2Fca-tai-tuong-chien-xu%2F11156828=
+- Publisher: Cổng thông tin điện tử tỉnh Tiền Giang
+- Accessed: 23 Oct 2026
+- Supports: Elephant-ear fry, 5 Jan 2019: clean, remove gills and guts, salt-water soak about 15 minutes, fry evenly in plenty of oil, roll with herbs, rice paper, and bún, dip mắm nêm or nước mắm me. Direct open timed out. Text is the search extract.
+
+### S42
+- URL: https://tiengiang.gov.vn/chi-tiet-tin?%2Fcanh-chua-ca-loc%2F11156994=
+- Publisher: Cổng thông tin điện tử tỉnh Tiền Giang
+- Accessed: 23 Oct 2026
+- Supports: Canh chua cá lóc, 5 Jan 2019, common in the South, with white rice, sour-sweet, fish sauce, sliced chili. No street. Direct open timed out. Text is the search extract.
+
+### S43
+- URL: https://tiengiang.gov.vn/chi-tiet-tin?%2Fca-loc-nuong-trui%2F11156929=
+- Publisher: Cổng thông tin điện tử tỉnh Tiền Giang
+- Accessed: 23 Oct 2026
+- Supports: Cá lóc nướng trui, 5 Jan 2019: 500–600 grams, guts cleaned, bamboo skewer, straw about 5 minutes, roll with rice paper, bún, herbs, unripe banana, cucumber. Dips: salt with chili or pepper, or mắm nêm with starfruit, lime, sugar, and chili. Direct open timed out. Text is the search extract.
+
+### S44
+- URL: https://tiengiang.gov.vn/chi-tiet-tin?%2Fxoi-chien-phong%2F11156879=
+- Publisher: Cổng thông tin điện tử tỉnh Tiền Giang
+- Accessed: 23 Oct 2026
+- Supports: Xôi chiên phồng, 5 Jan 2019: sticky rice, garlic, cool, fry until taut like a ball, usually with roasted chicken or gà xối mỡ. No street. Direct open timed out. Text is the search extract.
+
+### S45
+- URL: https://tiengiang.gov.vn/chi-tiet-tin?%2Fkhu-am-thuc-em-my-tho%2F11157071=
+- Publisher: Cổng thông tin điện tử tỉnh Tiền Giang
+- Accessed: 23 Oct 2026
+- Supports: Same article as S22, re-read from the search extract. Menu: hủ tiếu, bún, phở, cháo, bánh cuốn, nghêu, sò, khô các loại, sâm bổ lượng, chè, sinh tố. Hours 18:30–02:00. Direct open timed out.
+
+### S46
+- URL: https://tiengiang.gov.vn/chi-tiet-tin?%2Fmam-tom-cha%2F11156557=
+- Publisher: Cổng thông tin điện tử tỉnh Tiền Giang
+- Accessed: 23 Oct 2026
+- Supports: Mắm tôm chà, 5 Jan 2019, eaten with bún, boiled pork, unripe banana, sour starfruit, cucumber, and herbs. Specialty of Gò Công. Direct open timed out. Text is the search extract.
+
+### S47
+- URL: https://thanhnien.vn/tru-danh-mam-tom-cha-go-cong-185633640.htm
+- Publisher: Thanh Niên
+- Accessed: 23 Oct 2026
+- Supports: 27 Aug 2014. Nearly 200 years, Empress Từ Dụ, about a dozen Gò Công workshops, the tôm đất method, and the second way of eating. A workshop address is not a pick. Text is the search extract.
+
+### S48
+- URL: https://tuoitre.vn/am-thuc/banh-gia-cho-giong-moi-anh-1087621.htm
+- Publisher: Tuổi Trẻ
+- Accessed: 23 Oct 2026
+- Supports: Bánh giá Chợ Giồng, also called bánh vá. Chợ Giồng is the old name of chợ Vĩnh Bình, Gò Công Tây. Rice and soy, three to one, against the portal’s rice and mung bean. Herbs and fish sauce. Text is the search extract.
+
+### S49
+- URL: https://mia.vn/cam-nang-du-lich/ca-loc-nuong-trui-tien-giang-mon-an-binh-di-cua-vung-song-nuoc-5275
+- Publisher: Mia
+- Accessed: 23 Oct 2026
+- Supports: 25 Sep 2023. A conflicting snakehead method: often not cleaned, no 5 minutes, burnt skin removed, mắm me. Not used as the chosen method. The cháo cá lóc rau đắng line on this page was not given a method and was not published.
+
+### S50
+- URL: https://www.sggp.org.vn/mien-tay-co-hu-tieu-my-tho-post675059.html
+- Publisher: Sài Gòn Giải Phóng
+- Accessed: 23 Oct 2026
+- Supports: 26 Jan 2023. A third broth list: marrow bone, spare rib, dried shrimp, grilled squid. Kept beside S16 and S30. Not used to replace those lists. Text is the search extract.
+
+### S51
+- URL: https://tiengiang.gov.vn/chi-tiet-tin?%2Floi-mo-au%2F11099816=
+- Publisher: Cổng thông tin điện tử tỉnh Tiền Giang
+- Accessed: 23 Oct 2026
+- Supports: 25 Dec 2018 introduction. Names bánh giá chợ Giồng, mắm còng cù lao Tân Thới, cá tai tượng chiên xù, cá lóc nướng trui, and hủ tiếu Mỹ Tho. The Tân Thới line disagrees with Tân Phú Đông. Text is the search extract.
+
+### S52
+- URL: https://tiengiang.gov.vn/mon-ngon-tien-giang
+- Publisher: Cổng thông tin điện tử tỉnh Tiền Giang
+- Accessed: 23 Oct 2026
+- Supports: The food index. Mắm còng Tân Phú Đông extract, and the bánh giá Chợ Giồng extract. Direct open returned a gateway timeout. Text is the search extract. Cháo lòng Tân Hiệp is titled on the same index and was not opened far enough to place the town, so it was not published.
+
+### S53
+- URL: https://dulich.dongthap.gov.vn/vi/langnghehutieumt
+- Publisher: Cổng du lịch tỉnh Đồng Tháp
+- Accessed: 23 Oct 2026
+- Supports: Workshop re-opened. Free, 07:00–18:00, 120 minutes, ấp Hội Gia, phường Mỹ Phong. Gò Cát rice is also the ingredient for bún, bánh tráng, and bánh nghệ. Direct open succeeded. Those three have no serving and were not given specialty records.
