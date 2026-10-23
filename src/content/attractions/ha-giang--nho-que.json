@@ -1,0 +1,60 @@
+{
+  "slug": "nho-que",
+  "placeSlug": "ha-giang",
+  "name": "Nho Que river",
+  "nameVi": "Sông Nho Quế",
+  "kicker": "River in Tu San canyon",
+  "summary": "River under Mã Pì Lèng: look into Tu Sản from the rim, or take side road 193A for a closer view of the water. The canyon walls run 700 to 800 metres. In June the river is full, and a boat or a kayak is the way onto it. The look from the pass is part of that morning.",
+  "dots": 4,
+  "district": "The pass",
+  "timeNeeded": "Inside the pass morning",
+  "fee": "Check on arrival",
+  "getThere": "From the pass rim, or side road 193A",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The Nho Quế bending through the canyon under the karst",
+  "body": [
+    "From the rim the Nho Quế reads as a turquoise line in Tu Sản. The walls run 700 to 800 metres. Side road 193A leaves QL4C at the bottom of Mã Pì Lèng and drops closer to the bends.",
+    "June is the full-river month. A boat or a kayak runs then, under the cliffs. Winter water sits lower. Ask for the boat fare and the time on the water at the landing. The look from the pass is the morning stop. The boat is a separate outing."
+  ],
+  "figures": [
+    {
+      "id": "ha-giang-nho-que-2",
+      "caption": "The river in the canyon, seen from the Mèo Vạc side of the pass",
+      "alt": "Turquoise Nho Quế winding through green canyon walls below Ma Pi Leng"
+    }
+  ],
+  "gettingThere": [
+    "The view is the Mã Pì Lèng morning, on the road from Đồng Văn to Mèo Vạc. Mèo Vạc is 24 km from Đồng Văn and takes most of a morning with stops. At the bottom of the pass, side road 193A turns off QL4C toward the river.",
+    "Stop where the shoulder allows. Ride in daylight. The sky path above the river is a separate walk of 500 metres, about two hours, through Flower Hmong villages."
+  ],
+  "legs": [
+    {
+      "heading": "From Ma Pi Leng",
+      "body": "Look down from the rim, or turn onto side road 193A at the bottom of the pass for a closer view of the bends."
+    },
+    {
+      "heading": "From Dong Van",
+      "body": "The pass road toward Mèo Vạc. 24 km, most of a morning if you stop. Daylight only."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "links": [
+    {
+      "label": "Dong Van Karst Plateau UNESCO Global Geopark",
+      "url": "https://www.unesco.org/en/iggp/dong-van-karst-plateau-unesco-global-geopark",
+      "note": "UNESCO. Tu Sản at 700–800 metres."
+    },
+    {
+      "label": "Ha Giang loop, nature and culture",
+      "url": "https://vietnam.travel/things-to-do/ha-giang-loop-where-nature-and-culture-come-one",
+      "note": "Vietnam Tourism. June water, and a boat or a kayak."
+    },
+    {
+      "label": "Ha Giang loop, four-day road",
+      "url": "https://www.vietnam.travel/things-to-do/ha-giang-loop-four-day-road-trip",
+      "note": "Vietnam Tourism. Side road 193A."
+    }
+  ],
+  "interests": ["mountains", "photography", "motorbike"]
+}

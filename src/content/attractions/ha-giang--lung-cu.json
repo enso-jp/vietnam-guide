@@ -1,0 +1,59 @@
+{
+  "slug": "lung-cu",
+  "placeSlug": "ha-giang",
+  "name": "Lung Cu flag tower",
+  "nameVi": "Cột cờ Lũng Cú",
+  "kicker": "Flag tower on the border",
+  "summary": "Border flag tower at Lũng Cú: take the three-hour detour and climb 200 steps for the view over the plateau. The tower stands in xã Lũng Cú, off the road toward Đồng Văn. Late afternoon is the kinder hour for the steps. Leave daylight for the ride back.",
+  "dots": 4,
+  "district": "Lung Cu",
+  "timeNeeded": "A three-hour detour",
+  "fee": "Check on arrival",
+  "getThere": "A detour off the road to Đồng Văn",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The flag on the tower at Lũng Cú",
+  "notice": {
+    "title": "Allow three hours, and ride back in daylight",
+    "body": "Late afternoon is the kinder hour for the 200 steps. The return to the Đồng Văn road still has to finish before dark."
+  },
+  "body": [
+    "The detour leaves the road to Đồng Văn and runs out to the flag at Lũng Cú. Allow three hours. Climb 200 steps to the flag and look over the plateau, the fields, and the karst.",
+    "Late afternoon is the kinder hour for those steps, once the heat drops. Start so the climb can fall then and the ride back is still in daylight. Older pages put the flagpole in Đồng Văn district. Xã Lũng Cú is the 2025 commune, formed from Má Lé, Lũng Táo, and Lũng Cú. The visit sits on the Đồng Văn day, with the palace at Sà Phìn."
+  ],
+  "figures": [
+    {
+      "id": "ha-giang-lung-cu-2",
+      "caption": "Fields, the switchback road, and the karst at Lũng Cú",
+      "alt": "Switchback road and rice fields among karst hills at Lũng Cú"
+    }
+  ],
+  "gettingThere": [
+    "Lũng Cú is a detour off the road to Đồng Văn. Allow three hours. The approach is QL4C from Hà Giang town through Quản Bạ and Yên Minh, then off toward the border flag.",
+    "Ride back to the Đồng Văn road before dark. The four-day route stays in Đồng Văn that night and uses the market there in the evening or early morning."
+  ],
+  "legs": [
+    {
+      "heading": "From the Dong Van road",
+      "body": "A three-hour detour off the road to Đồng Văn. Climb 200 steps. Late afternoon is the kinder hour, with daylight left for the return."
+    },
+    {
+      "heading": "From Ha Giang town",
+      "body": "QL4C north through Quản Bạ and Yên Minh, then the border detour on the Đồng Văn day. Ride in daylight."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "links": [
+    {
+      "label": "Ha Giang",
+      "url": "https://vietnam.travel/places-to-go/northern-vietnam/ha-giang",
+      "note": "Vietnam Tourism. Late afternoon, and a climb of 200 steps."
+    },
+    {
+      "label": "Ha Giang loop, four-day road",
+      "url": "https://www.vietnam.travel/things-to-do/ha-giang-loop-four-day-road-trip",
+      "note": "Vietnam Tourism. A three-hour detour to the flag tower."
+    }
+  ],
+  "interests": ["mountains", "photography"]
+}

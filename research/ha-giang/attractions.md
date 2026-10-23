@@ -458,3 +458,13 @@ A named bar street was looked for on the Vietnam Tourism loop pages and was not 
 - Suggested slug: `thon-tha-meal`
 - Photo must show: The meal and the house, not a brand
 - Sources: S4
+
+## Attraction pages, 23 Oct 2026
+
+Published from this pass, with a licensed photo of that subject: `quan-ba`, `lung-cu`, `vuong-palace`, `nho-que`, `yen-minh-pines`. `dong-van` and `ma-pi-leng` were already published and were finished on this pass. Per-sight files are in `research/ha-giang/attractions/`.
+
+Dong Van old quarter is `dong-van`. It is not a second slug.
+
+Happiness Road is another name for Mã Pì Lèng on the buckwheat feature (S7). It stays on `ma-pi-leng`. Unpublished as its own page: the only file titled Đèo Hạnh Phúc is a fog frame (S31), and no second file of that title was found. The 1,500-metre line on S7 stays here. The page keeps the 1,200 metres from S8. The 1,300 volunteers on S4 stay here. The page keeps the late-1950s start and more than seven years from S7.
+
+Left unpublished, no licensed photo that passed a look: Heaven’s Gate, the sky path, Đồn Cao, Dốc Chín Khoanh, Mèo Vạc, Du Già, Hoàng Su Phì, Lùng Tám, Tam Sơn, Yên Minh town (the pines are a separate sight). Yen Minh pine forest is published. A full-height Lung Cu tower against the plateau was not found. The published hero is the flag and the tower crown.
