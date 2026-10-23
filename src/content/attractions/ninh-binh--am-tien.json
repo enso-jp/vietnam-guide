@@ -1,0 +1,64 @@
+{
+  "slug": "am-tien",
+  "placeSlug": "ninh-binh",
+  "name": "Am Tien Cave",
+  "nameVi": "Động Am Tiên",
+  "kicker": "Cave temple above a flooded valley",
+  "summary": "Climb 205 steps to the cave temple 400 m from the Dinh temple, then look over the valley. An adult ticket is 100,000 đồng, apart from the 20,000 đồng Hoa Lu temple ticket. A child under 1.3 m pays 30,000 đồng. The same ticket line names Tuyệt Tịnh Cốc.",
+  "dots": 3,
+  "dotReason": "The cave beside the temples, the same morning",
+  "timeNeeded": "A climb of 205 steps",
+  "fee": "100,000 đồng for an adult",
+  "getThere": "About 400 m from the east gate of the Dinh temple, in xã Trường Yên.",
+  "district": "The old capital",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The flooded valley between the cliffs at Am Tien",
+  "notice": {
+    "title": "The Hoa Lu temple ticket stops at the gate",
+    "body": "The Hoa Lu adult ticket is 20,000 đồng. Am Tien is 100,000 đồng for an adult and 30,000 đồng for a child under 1.3 m. The temple ticket does not include the cave."
+  },
+  "body": [
+    "The cave sits about 400 m from the east gate of đền Đinh Tiên Hoàng, on the same Trường Yên ground as the old capital. Most of it lies in a flooded valley. The mouth is on the cliff, up 205 stone steps, and it looks like a dragon, which is why people also say hang Rồng. The ticket name is also Tuyệt Tịnh Cốc.",
+    "Inside, the cave is both a pagoda, for the Buddha and for Nguyễn Minh Không, and a temple for Dương Vân Nga. She lived here late in life, and Nguyễn Minh Không preached here under the Lý. Walk the stair, then the court against the cliff, then look back at the water in the valley.",
+    "Do this with Hoa Lu, on the same morning. The hotline is 0987807965."
+  ],
+  "figures": [
+    {
+      "id": "ninh-binh-am-tien-2",
+      "caption": "The wooden halls against the cliff above the stair",
+      "alt": "Carved wooden temple halls built against a limestone cliff at Am Tien"
+    }
+  ],
+  "gettingThere": [
+    "Walk from đền Đinh if you are already in the old capital, about 400 m from the east gate. From Ga Ninh Bình, ride to xã Trường Yên, then walk from the temples."
+  ],
+  "legs": [
+    {
+      "heading": "From the Dinh temple",
+      "body": "About 400 m from the east gate, then 205 stone steps."
+    },
+    {
+      "heading": "From Ga Ninh Bình",
+      "body": "Ride to xã Trường Yên, then walk from the temples."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day is published.",
+  "admissionNote": "Adult 100,000 đồng. Child under 1.3 m: 30,000 đồng. Hotline 0987807965. The Hoa Lu adult ticket is 20,000 đồng and does not include this cave.",
+  "links": [
+    {
+      "label": "Hoa Lu heritage page",
+      "url": "https://dsvh.gov.vn/di-tich-lich-su-va-kien-truc-nghe-thuat-co-do-hoa-lu-2952",
+      "note": "400 m and 205 steps"
+    },
+    {
+      "label": "Ticket board",
+      "url": "https://trangandanhthang.vn/gia-ve-tham-quan-cac-khu-diem-du-lich/",
+      "note": "Adult 100,000 đồng, separate from Hoa Lu"
+    }
+  ],
+  "interests": [
+    "caves",
+    "pagodas"
+  ]
+}
