@@ -9,7 +9,7 @@
   "budget": "Check on arrival",
   "pace": "Unhurried",
   "photo": "my-tho",
-  "summary": "Hủ tiếu, Chùa Vĩnh Tràng, and the statue in vườn hoa Lạc Hồng. The portal prints 120 minutes at the pagoda. The bowl and the statue have no timed visit. Thới Sơn is the morning boat and has no licensed photograph, so it is not a stop. The boat fare is check on arrival.",
+  "summary": "Hủ tiếu, the morning boat to Thới Sơn, Chùa Vĩnh Tràng, and the statue in vườn hoa Lạc Hồng. The pagoda visit is 120 minutes. The bowl, the boat, and the statue have no timed visit. The boat fare is check on arrival.",
   "stops": [
     {
       "name": "Hu tieu My Tho",
@@ -19,11 +19,18 @@
       "note": "Breakfast, lunch, or supper. Dry, or with the broth. No page prints how long the bowl takes. The 40 minutes are not a published duration. The price is check on arrival."
     },
     {
+      "name": "Thoi Son islet",
+      "minutes": 180,
+      "placeSlug": "my-tho",
+      "attractionSlug": "thoi-son",
+      "note": "Morning boat from 01 Hoàng Sa, then a sampan in the nipa. The 180 minutes are not a published duration. The fare is check on arrival."
+    },
+    {
       "name": "Vinh Trang Pagoda",
       "minutes": 120,
       "placeSlug": "my-tho",
       "attractionSlug": "vinh-trang",
-      "note": "The portal prints 120 minutes. The gate is free on that page. Confirm it on arrival. The pier is 1.96 km away. The boat does not leave from this gate."
+      "note": "120 minutes. The gate is free. Confirm it on arrival. The pier is 1.96 km away. The boat leaves from that pier."
     },
     {
       "name": "Thu Khoa Huan statue",
@@ -34,5 +41,5 @@
     }
   ],
   "seoTitle": "My Tho in a day — bowl, pagoda, embankment",
-  "seoDescription": "A My Tho day: hủ tiếu, 120 minutes at Vinh Trang, and the statue on the embankment. Thoi Son has no photograph here. Boat fare and the bowl price are check on arrival."
+  "seoDescription": "A My Tho day: hủ tiếu, the morning boat to Thoi Son, 120 minutes at Vinh Trang, and the statue on the embankment. Boat fare and the bowl price are check on arrival."
 }

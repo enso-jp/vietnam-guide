@@ -1,0 +1,47 @@
+{
+  "slug": "cathedral",
+  "placeSlug": "my-tho",
+  "name": "My Tho Cathedral",
+  "nameVi": "Nhà thờ chính tòa Mỹ Tho",
+  "kicker": "Cathedral on Hùng Vương",
+  "summary": "Town cathedral at 32 Hùng Vương: sit in the nave for a morning or late-afternoon mass. Sunday mass is at 05:15, 07:30, 16:30, and 18:30. On other days it is at 05:15 and 17:45. The clock tower and the cross mark the front. Older listings still say Phường 7.",
+  "dots": 3,
+  "timeNeeded": "A mass",
+  "fee": "Check on arrival",
+  "getThere": "32 Hùng Vương",
+  "district": "Hùng Vương",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The cathedral front, clock tower and cross against a clear sky",
+  "notice": {
+    "title": "Go for a mass",
+    "body": "Go for a mass. Sunday is 05:15, 07:30, 16:30, and 18:30. Other days are 05:15 and 17:45."
+  },
+  "body": [
+    "The cathedral stands at 32 Hùng Vương. The front is the clock tower, the cross, and the arched door. Step into the nave for the mass. Sunday is 05:15, 07:30, 16:30, and 18:30. On other days the masses are 05:15 and 17:45.",
+    "Older listings still say Phường 7. Use 32 Hùng Vương. Electric-cart route 1 names Vincom Plaza Mỹ Tho on Hùng Vương and runs 07:00–22:00 at 40,000 VND a guest. The cathedral is the church at number 32 on that street."
+  ],
+  "figures": [
+    {
+      "id": "my-tho-cathedral-2",
+      "caption": "The nave, looking toward the altar",
+      "alt": "The nave of My Tho Cathedral, pews leading to the altar and crucifix"
+    }
+  ],
+  "gettingThere": [
+    "The cathedral is at 32 Hùng Vương. Older listings place it in Phường 7. Route 1 of the electric cart, from số 01 Hoàng Sa, names Vincom Plaza Mỹ Tho on the same street and runs 07:00–22:00 at 40,000 VND a guest."
+  ],
+  "legs": [
+    {
+      "heading": "From the pier at 01 Hoàng Sa",
+      "body": "Electric-cart route 1 runs to Hùng Vương, 07:00–22:00, at 40,000 VND a guest. The named mall stop on that street is Vincom. The cathedral is 32 Hùng Vương."
+    },
+    {
+      "heading": "From a room on đường 30 Tháng 4",
+      "body": "The same cart from the pier, or a ride to 32 Hùng Vương. The embankment and the church are both in town."
+    }
+  ],
+  "hours": "Sunday mass 05:15, 07:30, 16:30, and 18:30. Other days 05:15 and 17:45.",
+  "closed": "No weekly closing day is published.",
+  "admissionNote": "No ticket is listed beside the mass times.",
+  "interests": ["photography"]
+}

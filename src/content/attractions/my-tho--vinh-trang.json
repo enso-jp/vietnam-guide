@@ -4,21 +4,22 @@
   "name": "Vinh Trang Pagoda",
   "nameVi": "Chùa Vĩnh Tràng",
   "kicker": "Southern pagoda with a ceramic gate",
-  "summary": "Give Chùa Vĩnh Tràng the morning, not the whole day. The Đồng Tháp tourism portal prints a 120-minute visit, a free gate, and hours from 06:00 to 23:00. The boat leaves from the pier at 01 Hoàng Sa, 1.96 km away, not from this gate. No second tariff was opened. Confirm the free gate when you arrive.",
+  "summary": "Southern pagoda on Nguyễn Trung Trực: walk the ceramic gate and the five-tower hall in about 120 minutes. The gate is free, and the doors run from 06:00 to 23:00. Come in the morning, before the heat. The islet boat leaves from the pier at 01 Hoàng Sa, 1.96 km away.",
   "dots": 5,
   "timeNeeded": "120 minutes",
   "fee": "Free",
   "getThere": "1.96 km from the pier, on electric-cart route 1",
-  "verified": "21 Oct 2026",
+  "district": "Mỹ Phong",
+  "verified": "23 Oct 2026",
   "heroCaption": "The ceramic gate, with the seated Buddha and the hall beyond",
   "notice": {
-    "title": "The boat does not leave from this gate",
-    "body": "The portal’s visit line is 120 minutes. Cảng du thuyền Mỹ Tho is at 01 Hoàng Sa, 1.96 km from the pagoda. Start the islet from the pier."
+    "title": "The islet boat leaves from the pier",
+    "body": "Allow about 120 minutes in the courts, then go to Cảng du thuyền Mỹ Tho at 01 Hoàng Sa. That pier is 1.96 km from the gate."
   },
   "body": [
-    "Walk a large southern pagoda on Nguyễn Trung Trực, in phường Mỹ Phong. The tourism portal calls it the largest and most beautiful Vietnamese pagoda in the south, built in the 19th century and heavily repaired in 1849, with an Asian-European mix. The main hall reads as one stupa and two side peaks, five towers in all, which the page compares to an Angkor outline. The two triple gates are mosaics of broken ceramics telling Buddhist stories.",
-    "Inside, the portal describes a relief of eight immortals on animals, a life-size bronze Tam Tôn set, and the wooden Eighteen Arhats carved in 1907, which it calls unique in the delta. The national place page says the Buddha hall holds 60 precious wood statues and singles out those 1907 arhats. The national page counts 60. The portal names the arhat set and the bronze triad. It was named a national historical relic in 1984.",
-    "Come in the morning, before the heat. A clock for tour groups was not printed. Do not spend the day in the courts. The cart’s route 1 reaches the pagoda along Nguyễn Trung Trực. Minutes on foot from the pier are check on arrival. An older copy of the address once said Phường 8. The current page prints phường Mỹ Phong only."
+    "Walk the pagoda on Nguyễn Trung Trực, in phường Mỹ Phong. It dates from the 19th century and was heavily repaired in 1849, with an Asian and European mix. The hall reads as one stupa and two side peaks, five towers in all. The two triple gates are mosaics of broken ceramics.",
+    "Inside, look for a relief of eight immortals on animals, a life-size bronze Tam Tôn set, and the wooden Eighteen Arhats carved in 1907. One count gives the Buddha hall 60 precious wood statues. Keep both: the 60 statues, and the arhat set with the bronze triad. It was named a national historical relic in 1984.",
+    "Come in the morning, before the heat. Give the courts about 120 minutes, then leave for the pier. Electric-cart route 1 follows Nguyễn Trung Trực from số 01 Hoàng Sa. The cart runs 07:00–22:00, and route 1 is 40,000 VND a guest. The courtyard, the outdoor Buddha, and the gates are this same visit."
   ],
   "figures": [
     {
@@ -28,26 +29,26 @@
     }
   ],
   "gettingThere": [
-    "The pagoda is on Nguyễn Trung Trực, phường Mỹ Phong, tỉnh Đồng Tháp. The portal lists Cảng du thuyền Mỹ Tho 1.96 km away. Electric-cart route 1, from số 01 Hoàng Sa, passes the pagoda. The cart runs 07:00–22:00. Route 1 is 40,000 VND a guest on that page. Minutes on foot were not printed."
+    "The pagoda is on Nguyễn Trung Trực, phường Mỹ Phong. Cảng du thuyền Mỹ Tho is 1.96 km away, at số 01 Hoàng Sa. Electric-cart route 1 passes the pagoda and runs 07:00–22:00. Route 1 is 40,000 VND a guest."
   ],
   "legs": [
     {
       "heading": "From the pier at 01 Hoàng Sa",
-      "body": "Electric-cart route 1, along Nguyễn Trung Trực. The portal’s distance is 1.96 km. Route 1 is 40,000 VND a guest, 07:00–22:00. Minutes on foot are check on arrival."
+      "body": "Electric-cart route 1, along Nguyễn Trung Trực. The distance is 1.96 km. Route 1 is 40,000 VND a guest, 07:00–22:00."
     },
     {
       "heading": "From a room on đường 30 Tháng 4",
-      "body": "The same cart, or a walk. The pier is on the embankment, and the pagoda is 1.96 km from that pier. A walking minute was not printed. Check on arrival."
+      "body": "The same cart from the embankment pier, or a walk of that 1.96 km. The pier sits on the embankment below the rooms."
     }
   ],
   "hours": "06:00–23:00",
-  "closed": "No weekly closing day is on the portal. Check on arrival.",
-  "admissionNote": "Free on the Đồng Tháp tourism portal. No second tariff was opened. Confirm at the gate. The cart is a separate ticket.",
+  "closed": "No weekly closing day is published.",
+  "admissionNote": "Free. Confirm the gate when you arrive. The cart is a separate ticket.",
   "links": [
     {
       "label": "Chùa Vĩnh Tràng",
       "url": "https://dulich.dongthap.gov.vn/vi/chuavinhtrang",
-      "note": "Đồng Tháp tourism portal. Free gate, 06:00–23:00, 120 minutes."
+      "note": "Đồng Tháp tourism portal"
     }
   ],
   "lat": 10.354268,

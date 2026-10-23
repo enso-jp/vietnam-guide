@@ -321,3 +321,39 @@ Accessed 21 Oct 2026 unless a line says the direct open failed. A search extract
 - Publisher: Cổng du lịch tỉnh Đồng Tháp
 - Accessed: 23 Oct 2026
 - Supports: Workshop re-opened. Free, 07:00–18:00, 120 minutes, ấp Hội Gia, phường Mỹ Phong. Gò Cát rice is also the ingredient for bún, bánh tráng, and bánh nghệ. Direct open succeeded. Those three have no serving and were not given specialty records.
+
+### S54
+- URL: https://dulich.dongthap.gov.vn/vi/trairandongtam
+- Publisher: Cổng du lịch tỉnh Đồng Tháp
+- Accessed: 23 Oct 2026
+- Supports: Trại rắn Đồng Tâm. 40,000–60,000 VND, 07:00–18:00, 120 minutes, ấp Tân Thuận B, xã Kim Sơn, about 9 km west of phường Mỹ Tho, founded 27 Oct 1977. Direct open succeeded.
+
+### S55
+- URL: https://trairandongtam.vn/
+- Publisher: Trại rắn Đồng Tâm
+- Accessed: 23 Oct 2026
+- Supports: Ấp Tân Thuận, xã Kim Sơn, about 8 km from Mỹ Tho, about 70 km from Ho Chi Minh City. Homepage opened. An hour was not on that page.
+
+### S56
+- URL: https://www.baodongthap.vn/tp-my-tho-ra-mat-mo-hinh-ket-noi-chuoi-du-lich-tam-linh-a92020.html
+- Publisher: Báo Đồng Tháp
+- Accessed: 23 Oct 2026
+- Supports: Thánh thất Cao Đài Mỹ Tho, 85 Lý Thường Kiệt, khu phố 10, then phường 4. Article 10 Aug 2024. Direct open succeeded.
+
+### S57
+- URL: https://sotayconggiao.com/nhatho/gio-le-nha-tho-chinh-toa-my-tho-tp-my-tho/
+- Publisher: Sổ Tay Công Giáo
+- Accessed: 23 Oct 2026
+- Supports: Nhà thờ chính tòa Mỹ Tho, 32 Hùng Vương, Phường 7. Sunday masses 05:15, 07:30, 16:30, 18:30. Weekday 05:15 and 17:45.
+
+### S58
+- URL: https://giothanhle.net/gio-le/nha-tho-chinh-toa-my-tho/
+- Publisher: Giờ Lễ
+- Accessed: 23 Oct 2026
+- Supports: The same cathedral address and the same mass times.
+
+### S59
+- URL: https://gcatholic.org/churches/asia/3958
+- Publisher: GCatholic
+- Accessed: 23 Oct 2026
+- Supports: 32 Hùng Vương, Phường 7, Đồng Tháp. Patron BVM Conception, against the Immaculate Conception line and a third Assumption line. The conflict stays off the page.

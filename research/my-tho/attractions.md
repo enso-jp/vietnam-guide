@@ -123,7 +123,7 @@ Checked: 21 Oct 2026
 - Suggested slug: `thoi-son`
 - Suggested dot: 5 — the orchard half-day the town is visited for
 - Photo must show: A small boat, nipa or orchard, and the river or canal in one frame, subject through the center
-- unpublished: no licensed photo
+- Published 23 Oct 2026. Hero: sampan in the nipa, Commons panoramio (1), jetsun, CC BY-SA 3.0, GPS 10.341252, 106.355008. Second: tour boats at the cồn Lân landing, Bùi Thụy Đào Nguyên, CC BY-SA 3.0.
 - Sources: S2, S7, S8, S9, S11
 
 ### Con Long
@@ -267,3 +267,22 @@ None. The five 2025 wards are one base. Thới Sơn stays an area of `my-tho`. B
 - Photo must show: A morning bowl or the embankment walk with the river still in the frame, not a hotel lobby
 - unpublished: no licensed photo
 - Sources: S7, S12, S13, S22, S30
+
+## 23 Oct 2026 attraction pass
+
+Published, with a licensed pair opened that day:
+
+- `thoi-son` — the islet visit already in this file. Dot 5.
+- `dong-tam` — Trại rắn Đồng Tâm, xã Kim Sơn, separate from Vĩnh Tràng. About 8 km (operator) or 9 km (tourism portal) west of phường Mỹ Tho. Filed on `my-tho` because Kim Sơn has no place slug. District on the page is Kim Sơn. Dot 4. See `attractions/dong-tam.md` and S54, S55.
+- `cao-dai` — Thánh thất Cao Đài Mỹ Tho, 85 Lý Thường Kiệt, old phường 4, now phường Đạo Thạnh (S56, S11). Dot 3. Fee and hours UNSOURCED.
+- `cathedral` — 32 Hùng Vương. Mass times agree on S57 and S58. Old Phường 7 is still the printed ward; S11 does not name it. Patron names disagree and stay off the page. Dot 3.
+
+Checked and left unpublished:
+
+- Vĩnh Tràng grounds, tomb towers, and the outdoor Buddha are inside the same gate as `vinh-trang`. Not a second slug.
+- Cảng du thuyền Mỹ Tho has one licensed frame of the current marina, File:Cangmytho.jpg. The 2002 riverboat terminal is an older building. The Hoàng Sa embankment frame is the bridge, with a person filling the foreground. Unpublished: no second licensed photo of the marina.
+- Bửu Lâm: the only Commons file is an interior Di Lặc statue, not the front under the trees. Unpublished: no licensed photo of the building.
+- Quan Đế Mỹ Tho: no Commons file of this temple. File:Quan Đế Miếu.jpg is Phan Thiết. Unpublished: no licensed photo.
+- Bảo tàng Tiền Giang: no licensed photo of the facade. Unpublished: no licensed photo.
+- Noodle village, Nhà Bạch Công Tử, Cồn Long: still no licensed photo of the subject, and Cồn Long still has no sourced walk.
+- The river embankment stays the setting of `thu-khoa-huan`, not a second card. The second statue frame was a crop of the same Commons file and was replaced with File:Waterfront - My Tho - Vietnam.JPG.
