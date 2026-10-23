@@ -1,0 +1,66 @@
+{
+  "slug": "pa-sy-waterfall",
+  "placeSlug": "mang-den",
+  "name": "Pa Sy Waterfall",
+  "nameVi": "Thác Pa Sỹ",
+  "kicker": "Forest fall where three streams meet",
+  "summary": "Walk down to Pa Sy, the forest fall where three streams meet in one drop. An adult pays 50,000 VND and a child pays 25,000 VND, and an older price of 20,000 VND is still quoted. Give it a morning, and skip it if Dak Ke already has your day.",
+  "dots": 5,
+  "district": "The falls",
+  "timeNeeded": "Check on arrival",
+  "fee": "50,000 VND for an adult",
+  "getThere": "By car or motorbike from Mang Den town.",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Pa Sy, a column of water into the forest pool",
+  "notice": {
+    "title": "Two gate prices are still quoted",
+    "body": "From 30 May 2026 an adult pays 50,000 VND and a child pays 25,000 VND. An older price of 20,000 VND is still quoted. Pay the figure at the gate."
+  },
+  "body": [
+    "Pa Sy is the fall where three streams meet and drop in one column into a pool. In the local language that meeting of streams is Pau Suh, and the fall is now called Pa Sy. You reach the water on mossy stone steps through the trees. The park covers 25 hectares, outside the town strip.",
+    "A child pays 25,000 VND. Under 6 is free, and so are disabled visitors, people in poor or near-poor households, and people recognized for service to the revolution. An older visitor, a student, a resident of a specially difficult village, and a recognized artisan pay half. The fall was in Mang Canh commune. That commune is now part of Mang Den commune.",
+    "Go in the morning and keep the afternoon for the lake or for Kon Pring. The minutes from town are Check on arrival, so leave time for the steps. Skip the fall when the lake already has your day. Dak Ke waterfall is a different, more remote stop."
+  ],
+  "figures": [
+    {
+      "id": "mang-den-pa-sy-waterfall-2",
+      "caption": "Pa Sy from the pool, in a darker hour, with spray on the rock",
+      "alt": "Pa Sy waterfall dropping into a green pool, with forest close around the water"
+    }
+  ],
+  "gettingThere": [
+    "The fall is outside the town strip. Go by hired car, motorbike taxi, or rented motorbike, then walk the stone steps to the pool. The ride from town is about 7.5 km, about 9 km, and about 11 km. The minutes are Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Mang Den town",
+      "body": "By car or motorbike, then the steps to the pool. About 7.5 km, about 9 km, and about 11 km. Time: Check on arrival."
+    },
+    {
+      "heading": "From Kon Tum city",
+      "body": "By car or motorbike on Highway 24. About 55 km, and also about 58 km. Time: Check on arrival."
+    },
+    {
+      "heading": "From Pleiku airport",
+      "body": "About 100 km by road to Mang Den, then on to the fall. Time: Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "admissionNote": "From 30 May 2026 an adult pays 50,000 VND a visit and a child pays 25,000 VND. An older price of 20,000 VND is still quoted. Under 6 is free, and so are disabled visitors, people in poor or near-poor households, and people recognized for service to the revolution. Half price for an older visitor, a student, a resident of a specially difficult village, and a recognized artisan. Pay the figure at the gate. The ticket is for this fall. It does not cover Dak Ke lake.",
+  "links": [
+    {
+      "label": "Pa Sy gate fee",
+      "url": "https://mangden.quangngai.gov.vn/tin-tuc/thong-tin-chi-dao-dieu-hanh-cua-ubnd-tinh-chu-tich-ubnd-tinh/tin-tuc/quang-ngai-quy-dinh-muc-thu-phi-tham-quan-thac-pa-sy-tu-ngay-30-5-2026.html",
+      "note": "Quảng Ngãi fee from 30 May 2026"
+    },
+    {
+      "label": "What to do in Mang Den",
+      "url": "https://vietnam.travel/things-to-do/discover-mang-den-vietnam",
+      "note": "Pa Sy as the fall where three streams meet"
+    }
+  ],
+  "interests": [
+    "photography"
+  ]
+}
