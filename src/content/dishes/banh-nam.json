@@ -2,7 +2,7 @@
   "slug": "banh-nam",
   "name": "Banh nam",
   "nameVi": "Bánh nậm",
-  "summary": "A flat steamed rice dumpling in a banana leaf, filled with pork and shrimp and dipped in fish sauce.",
+  "summary": "A flat steamed rice dumpling in a banana leaf, filled with pork and shrimp and dipped in fish sauce. In Da Nang the 18 May 2020 city page groups bánh nậm with bánh bèo, bánh lọc, and bánh xèo, and the 12 Jun 2026 markets page names it at Con Market.",
   "origin": "Hue. Vietnam Tourism says the dumpling comes from the imperial court.",
   "history": [
     "Vietnam Tourism says bánh nậm owes its origins to the imperial court: a flat steamed rice dumpling, pork and shrimp, wrapped in a banana leaf."
@@ -20,10 +20,11 @@
     "Dip the dumpling in fish sauce."
   ],
   "where": [
-    "The street and the hour are Check on arrival."
+    "The street and the hour in Hue are Check on arrival.",
+    "In Da Nang, Con Market names bánh nậm on the 12 Jun 2026 page, at 290 Hùng Vương, with a printed window of 06:00–19:00. Older Da Nang clocks for the same hall do not match that window."
   ],
   "priceBand": "Check on arrival.",
-  "placeSlugs": ["hue"],
+  "placeSlugs": ["hue", "da-nang"],
   "verified": "22 Oct 2026",
   "seoTitle": "Banh nam in Hue — the banana-leaf dumpling",
   "seoDescription": "A flat steamed rice dumpling from the Hue court kitchen, pork and shrimp in a banana leaf, dipped in fish sauce. The street and the price are Check on arrival."
