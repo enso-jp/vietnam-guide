@@ -1,0 +1,59 @@
+{
+  "slug": "kayaking",
+  "placeSlug": "ha-long",
+  "name": "Kayaking on the bay",
+  "nameVi": "Chèo kayak trên vịnh",
+  "kicker": "A paddle from a licensed pontoon",
+  "summary": "Paddle a kayak among the limestone: about an hour from a licensed pontoon on the boat routes. Prices run from 40,000 đồng a person at Ba Hang to 100,000 đồng a boat for an hour at Cửa Vạn. At Lờm Bò and the overnight stops the kayak is already inside the tour. Go on the day you are already on the water.",
+  "dots": 4,
+  "district": "The bay",
+  "timeNeeded": "About an hour, or one paddle",
+  "fee": "40,000–100,000 đồng, by pontoon",
+  "getThere": "A boat to Luon, Ba Hang, Cua Van, or Vung Vieng",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Kayaks on the water between limestone walls",
+  "notice": {
+    "title": "The unit changes by pontoon",
+    "body": "Luồn is a price for two people, for one trip. Ba Hang is a price a person. Cửa Vạn is a price for the boat, for an hour. Ask which unit you are paying before you sit down."
+  },
+  "body": [
+    "You paddle from a licensed pontoon after the tour boat stops. The bay board lists Luồn, Ba Hang, Lờm Bò, Cửa Vạn, Hang Cỏ, Cống Đầm, Vung Viêng, the Cống Đỏ overnight stop, and the sand at Hòn Bàn Chân. The walls are the same limestone as the day route, seen from the water.",
+    "At Lờm Bò, Hang Cỏ, Cống Đầm, and Cống Đỏ the kayak is already inside the tour price. Everywhere else you pay the pontoon on top of the route ticket. A day visit on the fee page runs 06:30–18:30. A clock for each pontoon is on the board when you land."
+  ],
+  "figures": [
+    {
+      "id": "ha-long-kayaking-2",
+      "caption": "Kayaks spread across a lagoon between the towers",
+      "alt": "Several kayaks on a calm lagoon in Ha Long Bay, limestone hills around them"
+    }
+  ],
+  "gettingThere": [
+    "The paddle starts where your boat stops. Luồn is on the long boat from Cảng tàu khách quốc tế Hạ Long. Ba Hang is on the short boat. Cửa Vạn is on route 3, about 20 km from the Ha Long passenger port and from Tuần Châu. Vung Viêng is on route 4."
+  ],
+  "legs": [
+    {
+      "heading": "From the Ha Long port",
+      "body": "Route 1 reaches Ba Hang. Route 2 reaches Luồn. Route 3 reaches Cửa Vạn. The port is on the Bãi Cháy shore, 500 m from Sun World."
+    },
+    {
+      "heading": "From Tuan Chau",
+      "body": "The July 2024 route list starts the same bay routes at Cảng tàu khách quốc tế Tuần Châu. The pontoon is still the one named on your route."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Day tickets on the fee page run 06:30–18:30. Confirm the pontoon on the day you go.",
+  "admissionNote": "Bay board prices, updated 9 November 2024. Luồn: kayak 50,000 đồng a trip for two people; rowboat 30,000 đồng a person. Ba Hang: kayak or rowboat 40,000 đồng a person. Cửa Vạn: kayak 100,000 đồng a boat for an hour; bamboo boat 60,000 đồng a person for an hour. Vung Viêng: kayak or bamboo boat 50,000 đồng a person for an hour; dragon boat 100,000 đồng a person for an hour. Hòn Bàn Chân: kayak 50,000 đồng a person for an hour. At Lờm Bò, Hang Cỏ, Cống Đầm, and the Cống Đỏ overnight stop, the kayak is inside the tour price. The route entrance is separate.",
+  "links": [
+    {
+      "label": "Kayak and rowboat prices",
+      "url": "https://halongbay.com.vn/p/94-dich-vu-cheo-do-cheo-kayak",
+      "note": "Ha Long Bay Management Board, 9 November 2024"
+    },
+    {
+      "label": "Bay entrance fees",
+      "url": "https://halongbay.com.vn/en/p/57-mien-giam-phi-tham-quan-vinh-ha-long",
+      "note": "Day visits 06:30–18:30"
+    }
+  ],
+  "interests": ["islands", "family"]
+}

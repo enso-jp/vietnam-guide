@@ -1,0 +1,69 @@
+{
+  "slug": "cua-van",
+  "placeSlug": "ha-long",
+  "name": "Cua Van floating village",
+  "nameVi": "Làng chài Cửa Vạn",
+  "kicker": "Raft houses on route 3",
+  "summary": "Floating village on route 3: boat about 20 km out and row past the raft houses. A bamboo boat is 60,000 đồng a person for an hour, and a kayak is 100,000 đồng a boat for an hour. The floating cultural centre is in a restoration project. Love-duet singing at the village resumed in March 2026.",
+  "dots": 4,
+  "district": "Cua Van",
+  "timeNeeded": "A stop on the route 3 boat",
+  "fee": "Route 3 entrance 200,000 đồng",
+  "getThere": "Route 3 boat, about 20 km from the ports",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Raft houses and boats under the limestone at Cua Van",
+  "notice": {
+    "title": "The cultural centre is in restoration",
+    "body": "The centre closed for repairs on 25 April 2024. On 2 March 2026 the province still described a restoration project for the centre and for Vung Viêng. Love-duet singing at the village resumed in March 2026. The visit is the bamboo boat and the kayak."
+  },
+  "body": [
+    "Cửa Vạn is the floating village on route 3, about 20 km from Tuần Châu and from the Ha Long passenger port. You leave the tour boat for a bamboo boat or a kayak and move among the raft houses. The channels between the islands are the shelter the boats use.",
+    "The floating cultural centre opened on 19 May 2006, funded by Norway, as part of the Ha Long ecological museum. It showed the fishing life from before and after people moved ashore. While the building is in restoration, the village stop is the boat and the singing, which returned in March 2026."
+  ],
+  "figures": [
+    {
+      "id": "ha-long-cua-van-2",
+      "caption": "A raft house with a red roof in the floating village",
+      "alt": "A green raft house with a red roof among fishing boats in a Ha Long floating village"
+    }
+  ],
+  "gettingThere": [
+    "Route 3, VHL3, runs from the port to the Cửa Vạn floating cultural centre, then Tiên Ông cave, Hồ Ba Hầm, đền Bà Men, Áng Dù, and Rừng Trúc. The village is about 20 km from both passenger ports. The bay entrance for route 3 is 200,000 đồng a person on the board fee page."
+  ],
+  "legs": [
+    {
+      "heading": "From the Ha Long port",
+      "body": "About 20 km by boat to the Cửa Vạn area. The English port line is Beach road, New Beach, Bai Chay ward."
+    },
+    {
+      "heading": "From Tuan Chau",
+      "body": "The same 20 km, from Cảng tàu khách quốc tế Tuần Châu. Decision 2119 of 19 July 2024 starts VHL3 at the port."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Day tickets on the fee page run 06:30–18:30. Confirm the sailing on the day you go.",
+  "admissionNote": "Route 3 entrance, Decision 4278/2016, still on the board fee page: 200,000 đồng a person. A one-night stay on route 3 is 500,000 đồng entrance, and two nights are 650,000 đồng. On the water, updated 9 November 2024: a bamboo boat is 60,000 đồng a person for an hour, and a kayak is 100,000 đồng a boat for an hour. Free under 1.2 m or under 7. Half price for a Vietnamese citizen 60 or over. Twenty percent off from age 7 to under 16. From 10 December 2025 a bay ticket needs an identity card or a passport.",
+  "links": [
+    {
+      "label": "Cua Van floating cultural centre",
+      "url": "https://halongbay.com.vn/en/places/37-cua-van-floating-cutural-center",
+      "note": "Ha Long Bay Management Board"
+    },
+    {
+      "label": "Route list",
+      "url": "https://halongbay.com.vn/vi/p/131-cong-bo-cac-hanh-trinh-tham-quan-du-lich-tren-vinh-ha-long-vinh-bai-tu-long",
+      "note": "VHL3, Decision 2119, 19 July 2024"
+    },
+    {
+      "label": "Kayak and rowboat prices",
+      "url": "https://halongbay.com.vn/p/94-dich-vu-cheo-do-cheo-kayak",
+      "note": "Cua Van prices, 9 November 2024"
+    },
+    {
+      "label": "Restoration and singing",
+      "url": "https://quangninh.gov.vn/Sites/en-us/Trang/ChiTietTinTuc.aspx?nid=7130",
+      "note": "Quang Ninh portal, 2 March 2026"
+    }
+  ],
+  "interests": ["islands", "photography"]
+}

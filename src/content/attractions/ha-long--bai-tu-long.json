@@ -1,0 +1,69 @@
+{
+  "slug": "bai-tu-long",
+  "placeSlug": "ha-long",
+  "name": "Bai Tu Long Bay",
+  "nameVi": "Vịnh Bái Tử Long",
+  "kicker": "The bay east of Ha Long",
+  "summary": "The bay east of Ha Long: take one of ten boat routes from Ao Tien or Cam Pha. An April 2025 provincial report charges no entrance fee, only the boat and the port. Three connecting routes leave from Ha Long route 4. Use it when you want a quieter day than the main caves.",
+  "dots": 4,
+  "district": "Bai Tu Long",
+  "timeNeeded": "A boat day",
+  "fee": "No entrance fee",
+  "getThere": "Boat from Ao Tien in Van Don, or from Cam Pha",
+  "verified": "23 Oct 2026",
+  "heroCaption": "A limestone arch with rowing boats at its foot",
+  "notice": {
+    "title": "The entrance line and the exemption page disagree",
+    "body": "Báo Quảng Ninh on 1 April 2025 says Bai Tu Long sights have no entrance fee, and you pay the boat and the port. The bay board’s exemption page, updated 2 November 2024, still sets free, half-price, and 20 percent bands for Bai Tu Long as well as Ha Long. Ask at Ao Tien which one is on the counter."
+  },
+  "body": [
+    "Bái Tử Long is the water east of Hạ Long, with its own national park in Vân Đồn. Decision 2119 of 19 July 2024 lists ten boat routes. They leave from Cảng Ao Tiên and from the ports in Cẩm Phả, and they include Cái Lim beach, hang Nhà Trò, hang Cái Đé, the Máng Hà overnight anchorage, and làng chài Cống Lão Vọng.",
+    "Three more routes connect Hạ Long route 4 to Vân Đồn and to Cẩm Phả. A January 2026 patrol note still folds Bái Tử Long into the Hạ Long watch. You reach this bay by boat from Ao Tiên or Cẩm Phả. The park board is in thôn 8, đặc khu Vân Đồn."
+  ],
+  "figures": [
+    {
+      "id": "ha-long-bai-tu-long-2",
+      "caption": "A limestone pinnacle in Bai Tu Long, with towers behind it",
+      "alt": "A tall limestone rock in Bai Tu Long Bay, with more islands on the horizon"
+    }
+  ],
+  "gettingThere": [
+    "The ten routes start at Cảng Ao Tiên in Vân Đồn or at the ports in Cẩm Phả. From Bãi Cháy you continue to one of those ports and board there. Three connecting routes pick up Ha Long route 4 and go on to islands in Vân Đồn or to Cẩm Phả."
+  ],
+  "legs": [
+    {
+      "heading": "From Ao Tien",
+      "body": "Cảng Ao Tiên, Vân Đồn. Routes BTL1 through BTL6 start here, including Cái Lim, Nhà Trò, Cái Đé, and the Máng Hà overnight stop."
+    },
+    {
+      "heading": "From Cam Pha",
+      "body": "Routes BTL7 through BTL10 start at the Cẩm Phả ports and run toward Lương Ngọc, Vụng Đục, and the islands off Cửa Ông."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Confirm the sailing at Ao Tien or Cam Pha on the day you go.",
+  "admissionNote": "Báo Quảng Ninh, 1 April 2025: no entrance fee at Bai Tu Long sights. You pay the boat and the port. The bay board exemption page, updated 2 November 2024, still applies these bands to Ha Long and Bai Tu Long: free under 1.2 m or under 7; half price for a Vietnamese citizen 60 or over; 20 percent off from age 7 to under 16. Ask which rule the counter is using.",
+  "links": [
+    {
+      "label": "Bai Tu Long National Park",
+      "url": "https://vuonquocgiabaitulong.vn/vi",
+      "note": "Park management board"
+    },
+    {
+      "label": "Route list",
+      "url": "https://halongbay.com.vn/vi/p/131-cong-bo-cac-hanh-trinh-tham-quan-du-lich-tren-vinh-ha-long-vinh-bai-tu-long",
+      "note": "Decision 2119, 19 July 2024"
+    },
+    {
+      "label": "Entrance fee report",
+      "url": "https://www.vietnam.vn/en/chua-thu-phi-tham-quan-vinh-bai-tu-long",
+      "note": "Báo Quảng Ninh, 1 April 2025"
+    },
+    {
+      "label": "Fee exemptions",
+      "url": "https://halongbay.com.vn/p/57-mien-giam-phi-tham-quan-vinh-ha-long",
+      "note": "Board page covering Ha Long and Bai Tu Long"
+    }
+  ],
+  "interests": ["islands", "photography"]
+}

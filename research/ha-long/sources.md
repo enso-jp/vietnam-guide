@@ -280,3 +280,75 @@ A line in the dossier uses these ids. Published JSON was read only to see what i
 - Publisher: Chuyên trang du lịch Quảng Ninh
 - Accessed: 23 Oct 2026
 - Supports: Xôi chả mực and ổi Hoành Bồ as local Hạ Long products at phố đi bộ Bài Thơ. The guava stall sold bags of about 5 kg and up. The grilled-seafood list in the same article is a suggestion, not a menu that was open. A direct fetch timed out. The article text was read from the returned excerpts. A publication date was not in those excerpts
+
+### S47
+- URL: https://halongbay.com.vn/p/94-dich-vu-cheo-do-cheo-kayak
+- Publisher: Ban Quản lý vịnh Hạ Long
+- Accessed: 23 Oct 2026
+- Supports: Kayak and rowboat prices by pontoon, page updated 9 Nov 2024. Luồn 50,000 đồng a trip for two; Ba Hang 40,000 a person; Cửa Vạn kayak 100,000 a boat an hour and bamboo boat 60,000 a person an hour; Vung Viêng and Hòn Bàn Chân; Lờm Bò and Cống Đỏ included in the overnight tour
+
+### S48
+- URL: https://halongbay.com.vn/vi/p/131-cong-bo-cac-hanh-trinh-tham-quan-du-lich-tren-vinh-ha-long-vinh-bai-tu-long
+- Publisher: Ban Quản lý vịnh Hạ Long
+- Accessed: 23 Oct 2026
+- Supports: Decision 2119/QĐ-UBND of 19 Jul 2024. Eight Ha Long routes including VHL2 with Mê Cung and VHL3 with Cửa Vạn, VHL7 for exploration cruise boats. Ten Bai Tu Long routes from Ao Tiên and Cẩm Phả, plus three connectors
+
+### S49
+- URL: https://halongbay.com.vn/en/p/57-mien-giam-phi-tham-quan-vinh-ha-long
+- Publisher: Ha Long Bay Management Board, English fee table
+- Accessed: 23 Oct 2026
+- Supports: Page updated 2 Nov 2024, still citing Decision 4278/2016. Day visit 06:30–18:30. Route 1 and 2 entrance 250,000; route 3 and 4 entrance 200,000. Overnight entrance: route 2 one night 550,000 (24 hours) and two nights 750,000 (48 hours); routes 3 and 4 one night 500,000 and two nights 650,000. Route 2 stop list includes Mê Cung. Route 3 includes the Cua Van floating culture center
+
+### S50
+- URL: https://halongbay.com.vn/p/57-mien-giam-phi-tham-quan-vinh-ha-long
+- Publisher: Ban Quản lý vịnh Hạ Long, Vietnamese exemption page on the same path
+- Accessed: 23 Oct 2026
+- Supports: Updated 2 Nov 2024. Free under 1.2 m or under 7, Vietnamese and foreign. Half price for Vietnamese citizens 60 and over. Twenty percent off from age 7 to under 16, Vietnamese and foreign. The bands cover Ha Long and Bai Tu Long
+
+### S51
+- URL: https://halongbay.com.vn/vi/places/30-dong-me-cung
+- Publisher: Ban Quản lý vịnh Hạ Long
+- Accessed: 23 Oct 2026
+- Supports: Mê Cung on route 2. About 14 km from Tuần Châu and about 13 km from the Ha Long passenger port. Soi Nhụ shell deposit a metre thick, dated 18,000–7,000 years. Limestone garden above the cave
+
+### S52
+- URL: https://halongbay.com.vn/en/tours/2-ha-long-bay-itinerary-2-international-cruise-port-soi-sim-beach-ti-top-island-sung-sot-cave-tung-sau-lagoon-me-cung-cave-bo-nau-cave-luon-cave-trong-cave-trinh-nu-cave-ho-dong-tien-cave
+- Publisher: Ha Long Bay Management Board
+- Accessed: 23 Oct 2026
+- Supports: VHL2 stop order, Mê Cung last. Southeast side of Lom Bo. 20–30 m above the sea. Four chambers. Soi Nhu culture 18,000–7,000 years
+
+### S53
+- URL: https://vietnamtourism.vn/index.php/tourism/items/59
+- Publisher: Cục Du lịch Quốc gia Việt Nam
+- Accessed: 23 Oct 2026
+- Supports: Mouth 20–25 m above the sea. Narrow linked chambers, passages nearly 100 m. Shell layers 2–3 m thick. A lake below the exit. Conflict with S52 on the height and with S51 on the thickness of the shell deposit
+
+### S54
+- URL: https://halongbay.com.vn/en/places/37-cua-van-floating-cutural-center
+- Publisher: Ha Long Bay Management Board
+- Accessed: 23 Oct 2026
+- Supports: Cua Van on route 3, about 20 km from both ports. Centre opened 19 May 2006, Norway-funded, one of 12 phases of the ecological museum. Bamboo boats and kayaks named. This page still describes the centre as receiving visitors
+
+### S55
+- URL: https://baoquangninh.vn/gia-tang-suc-hut-doi-voi-vinh-ha-long-post3294239.html
+- Publisher: Báo Quảng Ninh
+- Accessed: 23 Oct 2026
+- Supports: 21 Apr 2024. Floating cultural centre stopped receiving visitors from 25 Apr 2024 for repairs. Village visits, rowing, and kayaking continued
+
+### S56
+- URL: https://quangninh.gov.vn/Sites/en-us/Trang/ChiTietTinTuc.aspx?nid=7130
+- Publisher: Quang Ninh portal, English
+- Accessed: 23 Oct 2026
+- Supports: 2 Mar 2026. Restoration project for the Cua Van centre and Vung Vieng still described as underway. Love-duet singing at Cua Van resumed from March 2026. Kayaking named among the twelve bay products. A cruise brand in the same article was not copied onto the page
+
+### S57
+- URL: https://www.vietnam.vn/en/chua-thu-phi-tham-quan-vinh-bai-tu-long
+- Publisher: vietnam.vn, citing Báo Quảng Ninh
+- Accessed: 23 Oct 2026
+- Supports: 1 Apr 2025. No entrance fee at Bai Tu Long sights; boat and port fees only. Ten itineraries from Ao Tien and Cam Pha, plus three connectors. Conflict with S50, which still prints exemption bands for Bai Tu Long
+
+### S58
+- URL: https://vuonquocgiabaitulong.vn/vi
+- Publisher: Ban quản lý Vườn quốc gia Bái Tử Long
+- Accessed: 23 Oct 2026
+- Supports: Park board address, thôn 8, đặc khu Vân Đồn. Phone 0203.3793365. No visitor hour or ticket was on the homepage opened

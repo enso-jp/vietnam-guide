@@ -441,3 +441,13 @@ A bar street with named venues, prices, or scores was not on the pages opened (S
 - Photo must show: Trần Quốc Nghiễn or the hill with people, not an empty lobby
 - Licensed photo: the museum facade and the hill, in those entries. Not a street of cafes
 - Sources: S9, S10, S21, S28
+
+## Added 23 Oct 2026
+
+Decision 2119 of 19 Jul 2024 (S48) lists Mê Cung on VHL2 and Cửa Vạn on VHL3, and ten Bái Tử Long routes. Kayak prices are on the board page updated 9 Nov 2024 (S47). The overnight average remains S7. Per-sight files: `attractions/overnight.md`, `kayaking.md`, `cua-van.md`, `me-cung.md`, `bai-tu-long.md`. Status on each: stored.
+
+Public dots on Sửng Sốt stay 3. This dossier had suggested 4, because the port calls it the widest cave and the main landing on the long route. The 3 was not changed. Owner decision: whether 3 is low for that cave.
+
+Núi Bài Thơ already has a hero, `ha-long-bai-tho.jpg`, a crop of `Poem Mountain-Halong Vietnam-Andres Larin.jpg`. The Commons original burns a credit line into the corner. The published crop does not show that line. A second frame was not accepted: the poem-stone file carries a Tripmap watermark. The page stays without a body until a second licensed frame exists.
+
+Still unpublished, no licensed photo of that subject: Hang Ba Hang as its own card, the passed islets, chùa Long Tiên, đền Đức Ông, either port, Tuần Châu, the walking streets. Cát Bà and Lan Hạ stay on `cat-ba`. Tiên Ông stays off until it has its own photo; it is named only as a later stop on VHL3.

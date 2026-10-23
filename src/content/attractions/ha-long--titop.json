@@ -4,21 +4,21 @@
   "name": "Ti Top Island",
   "nameVi": "Đảo Ti Tốp",
   "kicker": "Sand and a climb on the long boat",
-  "summary": "The port says this is the only island in the bay named by Hồ Chí Minh, for the 1962 visit with Gherman Titov. You get a crescent of sand, a swim, a kayak, and a climb to the view. Route 2 is 5–6 hours for this island, Sửng Sốt, and Luồn together. A minute on the sand was not printed.",
+  "summary": "Crescent island on the long boat: swim, kayak, and climb the view inside a 5–6 hour route. Hồ Chí Minh named it for the 1962 visit with Gherman Titov, the only island in the bay named that way. Beach games on the sand are a separate charge. Go in the morning, before the boats stack up.",
   "dots": 3,
   "district": "The long boat",
   "timeNeeded": "Inside a 5–6 hour route",
   "fee": "No separate island ticket",
   "getThere": "Route 2 boat from the Ha Long passenger port",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "The crescent of sand, the slope, and working boats",
   "notice": {
     "title": "Beach games have no printed price",
-    "body": "The port names beach games, and jet-ski and parachute rides are asked about. No price for them was printed. Check on arrival. The 5–6 hour clock covers Ti Tốp, Sửng Sốt, and Luồn together."
+    "body": "Beach games on the sand are separate from the route ticket. The 5–6 hour clock covers Ti Tốp, Sửng Sốt, and Luồn together."
   },
   "body": [
-    "You land on the crescent. The port says Hồ Chí Minh named the island for the 1962 visit with the Soviet cosmonaut Gherman Titov. You can swim, kayak, and climb to the view. Beach games are named. No price for them was printed.",
-    "Do not treat a 45-minute line as the visit. The port’s clock is route 2, 5–6 hours for Ti Tốp, Sửng Sốt, and Luồn together. A minute on the island was not printed. A gate hour was not printed. Check on arrival."
+    "You land on the crescent. Hồ Chí Minh named the island for the 1962 visit with the Soviet cosmonaut Gherman Titov. You can swim, kayak, and climb to the view.",
+    "The clock is route 2, 5–6 hours for Ti Tốp, Sửng Sốt, and Luồn together. Go in the morning, before the midday boats stack on the sand."
   ],
   "figures": [
     {
@@ -33,12 +33,12 @@
   "legs": [
     {
       "heading": "From the Ha Long port",
-      "body": "The route-2 boat. On-island minutes were not printed. Check on arrival."
+      "body": "The route-2 boat from the Ha Long passenger port. The clock is the whole 5–6 hour route."
     }
   ],
-  "hours": "Check on arrival. A gate hour was not printed. Go in the morning, before the midday boats stack on the sand.",
+  "hours": "Check on arrival",
   "closed": "No weekly closing day was printed. Confirm the sailing the day you go.",
-  "admissionNote": "No separate island price. Route 2 on the 15 March 2024 page is 490,000–510,000 đồng. Jet-ski and parachute prices were not printed. Check on arrival. From 10 December 2025 a bay ticket needs an identity card or a passport.",
+  "admissionNote": "No separate island price. Route 2 on 15 March 2024 is 490,000–510,000 đồng. Beach games are a separate charge. From 10 December 2025 a bay ticket needs an identity card or a passport.",
   "links": [
     {
       "label": "Route 2",
