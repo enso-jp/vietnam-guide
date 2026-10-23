@@ -1,0 +1,218 @@
+{
+  "slug": "phong-nha",
+  "name": "Phong Nha food guide",
+  "placeSlug": "phong-nha",
+  "summary": "Son River grass carp is the fish the Quang Binh visitor portal calls the emblem of eating at Phong Nha-Ke Bang. Grilled chicken comes with muối cheo and sticky rice. Phong Nha-Ke Bang National Park names Chứt and Bru–Vân Kiều dishes in the buffer, including cơm pồi and Láp, and it does not name a market street. A door, an hour, and a price are Check on arrival.",
+  "body": [
+    "You eat after the boat, in the village or out in the buffer, not along a stall row. Phong Nha-Ke Bang National Park does not name a market, an alley, or a street address for these dishes. The fish is the Son. The 20 May 2025 article on the Quang Binh visitor portal places the cages at Sơn Trạch in Bố Trạch and calls grass carp the emblem.",
+    "Grilled chicken with muối cheo and sticky rice is the platter that portal describes on 21 February 2025 and again on 13 June 2025. At Mooc Spring the park names a platter of mountain-stream shrimp, freshwater fish, and free-range chicken, and it does not give those three a separate recipe. Cơm pồi is not one pot. The park names it, and the portal’s 2014, 2024, and 2025 articles do not agree on the grain or the spelling cơm bồi.",
+    "Stay in the village if the caves are the trip. Đồng Hới is the beach night. A door, an hour, and a price are Check on arrival."
+  ],
+  "specialtiesLead": "The river dishes come first. Buffer dishes follow. Brown-rice bánh xèo sits with the regional cakes because the portal places it in Quảng Hòa and also calls a Gia Hưng cake a Phong Nha specialty.",
+  "dishSlugs": [
+    "phong-nha--ca-tram-song-son",
+    "phong-nha--chao-canh-ca-tram",
+    "phong-nha--bun-cha-ca-tram",
+    "phong-nha--ca-chinh-song-son",
+    "phong-nha--ca-me-song-son",
+    "phong-nha--tom-cang-song-son",
+    "phong-nha--ga-nuong-muoi-cheo",
+    "phong-nha--muoi-cheo",
+    "phong-nha--com-poi",
+    "phong-nha--bot-nhuc",
+    "phong-nha--com-ngo",
+    "phong-nha--oc-len",
+    "phong-nha--oc-van",
+    "phong-nha--oc-nui",
+    "phong-nha--canh-mang-chua",
+    "phong-nha--banh-a-choi",
+    "phong-nha--banh-a-duh",
+    "phong-nha--lap",
+    "phong-nha--ruou-doac",
+    "phong-nha--ruou-can",
+    "phong-nha--banh-xeo-gao-lut"
+  ],
+  "sections": [
+    {
+      "id": "river",
+      "heading": "The Son River",
+      "nav": "The river",
+      "paragraphs": [
+        "These are the Son River dishes the Quang Binh visitor portal names for Phong Nha. The 20 May 2025 article also names cá chép and lươn in the cages and does not describe a plate for either. A door, an hour, and a price are Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Ca tram song Son",
+          "nameVi": "Cá trắm sông Son",
+          "address": "Check on arrival",
+          "dishSlug": "phong-nha--ca-tram-song-son",
+          "note": "Son River grass carp is the fish the Quang Binh visitor portal’s 20 May 2025 article calls the emblem of eating at Phong Nha-Ke Bang. The same article says the flesh is firm and not fishy, and it singles out pepper kho with pickled vegetables. A door, an hour, and a price are Check on arrival."
+        },
+        {
+          "name": "Chao canh ca tram",
+          "nameVi": "Cháo canh cá trắm",
+          "address": "Check on arrival",
+          "dishSlug": "phong-nha--chao-canh-ca-tram",
+          "note": "Cháo canh cá trắm is the Son River grass-carp bowl the Quang Binh visitor portal’s 13 June 2025 article calls a local dish. It describes a light sweetness from the fish, mild chili, and fragrant seasoning. A door, an hour, and a price are Check on arrival."
+        },
+        {
+          "name": "Bun cha ca tram",
+          "nameVi": "Bún chả cá trắm",
+          "address": "Check on arrival",
+          "dishSlug": "phong-nha--bun-cha-ca-tram",
+          "note": "Bún chả cá trắm uses Son River grass carp. The 13 June 2025 article describes fresh noodles, a strong dipping sauce, and herbs. The 20 May 2025 article describes a fried fish cake in a broth. A door, an hour, and a price are Check on arrival."
+        },
+        {
+          "name": "Ca chinh song Son",
+          "nameVi": "Cá chình sông Son",
+          "address": "Check on arrival",
+          "dishSlug": "phong-nha--ca-chinh-song-son",
+          "note": "Son River eel is named by the Quang Binh visitor portal on 29 May 2024 and again on 13 June 2025. Grilled is the plate the May article singles out. The June article also lists braised, kho, and steamed. A door, an hour, and a price are Check on arrival."
+        },
+        {
+          "name": "Ca me song Son",
+          "nameVi": "Cá mè sông Son",
+          "address": "Check on arrival",
+          "dishSlug": "phong-nha--ca-me-song-son",
+          "note": "Cá mè is the other Son River fish the Quang Binh visitor portal’s 29 May 2024 article names beside grass carp. It does not describe a cooking method. A door, an hour, and a price are Check on arrival."
+        },
+        {
+          "name": "Tom cang song Son",
+          "nameVi": "Tôm càng sông Son",
+          "address": "Check on arrival",
+          "dishSlug": "phong-nha--tom-cang-song-son",
+          "note": "Tôm càng sông Son is the prawn the Quang Binh visitor portal’s 13 June 2025 article places in the rivers and streams of Phong Nha-Ke Bang. It lists grilled, salt-fried, steamed, and rim. A door, an hour, and a price are Check on arrival."
+        },
+        {
+          "name": "Ga nuong muoi cheo",
+          "nameVi": "Gà nướng muối cheo",
+          "address": "Check on arrival",
+          "dishSlug": "phong-nha--ga-nuong-muoi-cheo",
+          "note": "Grilled chicken with muối cheo and sticky rice is the platter the Quang Binh visitor portal describes on 21 February 2025 and again on 13 June 2025. The February article calls the salt a Phong Nha salt. A door, an hour, and a price are Check on arrival."
+        },
+        {
+          "name": "Muoi cheo",
+          "nameVi": "Muối cheo",
+          "address": "Check on arrival",
+          "dishSlug": "phong-nha--muoi-cheo",
+          "note": "The 21 February 2025 article calls muối cheo a Phong Nha salt for grilled chicken and grilled meat, and it does not print the herbs. The 13 March 2024 article makes it from basil, lá lội, lá canh, green chili, and salt, and dips boiled chicken in it, without saying Phong Nha. Both accounts stay. A door, an hour, and a price are Check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "buffer",
+      "heading": "Buffer villages",
+      "nav": "The villages",
+      "paragraphs": [
+        "Phong Nha-Ke Bang National Park names these for Chứt, Bru–Vân Kiều, and Nguồn communities in the buffer. Minh Hóa is where the park places Nguồn people. A shop address was not printed. Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Com poi",
+          "nameVi": "Cơm pồi",
+          "address": "Check on arrival",
+          "dishSlug": "phong-nha--com-poi",
+          "note": "Phong Nha-Ke Bang National Park names cơm pồi for Chứt communities and for Nguồn people in Minh Hóa. The visitor portal’s 15 April 2025 article pounds corn and cassava and steams them. The 28 October 2014 article adds upland sticky rice and a bamboo tube on charcoal for about an hour, and also describes boiling the tube or steaming in a wooden chõ. The 13 March 2024 article spells it cơm bồi and describes sliced steamed corn and cassava, without sticky rice. A door, an hour, and a price are Check on arrival."
+        },
+        {
+          "name": "Bot nhuc",
+          "nameVi": "Bột nhúc",
+          "address": "Check on arrival",
+          "dishSlug": "phong-nha--bot-nhuc",
+          "note": "Bột nhúc is a characteristic food beside cơm pồi in Phong Nha-Ke Bang National Park’s 31 December 2025 article on ethnic culture. The park’s culture note lists it among earlier staples, not among the three dishes it singles out. A door, an hour, and a price are Check on arrival."
+        },
+        {
+          "name": "Com ngo",
+          "nameVi": "Cơm ngô",
+          "address": "Check on arrival",
+          "dishSlug": "phong-nha--com-ngo",
+          "note": "Cơm ngô is one of the dishes Phong Nha-Ke Bang National Park’s 31 December 2025 article says are still cooked in the buffer. It does not describe the pot. A door, an hour, and a price are Check on arrival."
+        },
+        {
+          "name": "Oc len",
+          "nameVi": "Ốc lèn",
+          "address": "Check on arrival",
+          "dishSlug": "phong-nha--oc-len",
+          "note": "Ốc lèn is a Chứt dish Phong Nha-Ke Bang National Park names with cơm pồi and rượu đoác. The culture note also lists it among earlier foods taken from the forest and streams. A door, an hour, and a price are Check on arrival."
+        },
+        {
+          "name": "Oc van",
+          "nameVi": "Ốc vặn",
+          "address": "Check on arrival",
+          "dishSlug": "phong-nha--oc-van",
+          "note": "Ốc vặn, also written ốc tực, is a Nguồn dish Phong Nha-Ke Bang National Park lists with ốc núi and cơm pồi. The park says Nguồn people live mainly in Minh Hóa. A door, an hour, and a price are Check on arrival."
+        },
+        {
+          "name": "Oc nui",
+          "nameVi": "Ốc núi",
+          "address": "Check on arrival",
+          "dishSlug": "phong-nha--oc-nui",
+          "note": "Ốc núi is named twice by Phong Nha-Ke Bang National Park: as a dish that remains in the buffer, and as a Nguồn dish with ốc vặn and cơm pồi. A door, an hour, and a price are Check on arrival."
+        },
+        {
+          "name": "Canh mang chua ca",
+          "nameVi": "Canh măng chua nấu cá",
+          "address": "Check on arrival",
+          "dishSlug": "phong-nha--canh-mang-chua",
+          "note": "Sour bamboo soup with fish is a buffer dish Phong Nha-Ke Bang National Park’s 31 December 2025 article says used to be familiar and is now rarely on the table. A door, an hour, and a price are Check on arrival."
+        },
+        {
+          "name": "Banh A Choi",
+          "nameVi": "Bánh A Chôi",
+          "address": "Check on arrival",
+          "dishSlug": "phong-nha--banh-a-choi",
+          "note": "Bánh A Chôi is a Bru–Vân Kiều dish Phong Nha-Ke Bang National Park names with bánh A Dưh, Láp, and rượu cần. The park does not describe the batter. A door, an hour, and a price are Check on arrival."
+        },
+        {
+          "name": "Banh A Duh",
+          "nameVi": "Bánh A Dưh",
+          "address": "Check on arrival",
+          "dishSlug": "phong-nha--banh-a-duh",
+          "note": "Bánh A Dưh is the other Bru–Vân Kiều cake Phong Nha-Ke Bang National Park names beside bánh A Chôi. It does not describe a filling. A door, an hour, and a price are Check on arrival."
+        },
+        {
+          "name": "Lap",
+          "nameVi": "Láp",
+          "address": "Check on arrival",
+          "dishSlug": "phong-nha--lap",
+          "note": "Láp is stream fish mixed with forest greens and seasoning. Phong Nha-Ke Bang National Park names it as a Bru–Vân Kiều dish. A door, an hour, and a price are Check on arrival."
+        },
+        {
+          "name": "Ruou doac",
+          "nameVi": "Rượu đoác",
+          "address": "Check on arrival",
+          "dishSlug": "phong-nha--ruou-doac",
+          "note": "Rượu đoác is the Chứt drink Phong Nha-Ke Bang National Park says is made from the sap of the đoác palm. The same note says starch from that palm, Arenga pinnata, was a staple in hard times. A door, an hour, and a price are Check on arrival."
+        },
+        {
+          "name": "Ruou can",
+          "nameVi": "Rượu cần",
+          "address": "Check on arrival",
+          "dishSlug": "phong-nha--ruou-can",
+          "note": "Rượu cần is a drink Phong Nha-Ke Bang National Park names for Bru–Vân Kiều communities, with their festivals. The park’s 31 December 2025 article also lists it among Chứt drinks. A door, an hour, and a price are Check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "role": "regional",
+      "heading": "Regional dishes",
+      "nav": "Regional",
+      "paragraphs": [
+        "Brown-rice bánh xèo is the cake the portal does not put in one district. Quảng Hòa is the 2014 and 2024 account. Gia Hưng, called a Phong Nha specialty, is the 13 June 2025 account."
+      ],
+      "spots": [
+        {
+          "name": "Banh xeo gao lut",
+          "nameVi": "Bánh xèo gạo lứt",
+          "address": "Check on arrival",
+          "dishSlug": "phong-nha--banh-xeo-gao-lut",
+          "note": "The 13 June 2025 article calls bánh xèo gạo lứt Gia Hưng a Phong Nha specialty and says the cake is red-brown from brown rice. The 25 September 2014 article places the cake in Quảng Hòa, soaks red rice about five hours, and rolls it with herbs, nộm, banana cá chuối, and bánh đa. The 29 May 2024 article also says Quảng Hòa and prints bánh đá. A door, an hour, and a price are Check on arrival."
+        }
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Phong Nha food guide — Son River fish, buffer dishes",
+  "seoDescription": "Son River grass carp, grilled chicken with muối cheo, and buffer dishes such as cơm pồi and Láp. The park names no market street. A price is Check on arrival."
+}

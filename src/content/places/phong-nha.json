@@ -25,6 +25,7 @@
   "nearby": [
     "hue"
   ],
+  "foodSlug": "phong-nha",
   "routeSlugs": [],
   "itinerarySlugs": [
     "central-5-days"
@@ -49,9 +50,31 @@
     }
   ],
   "eat": [
-    "The park does not name a market street in the village. Its culture page names Chứt and Bru–Vân Kiều dishes in the buffer villages, including cơm pồi and bánh A Chôi, without a shop address. Mooc Spring serves stream shrimp, stream fish, and chicken. Eat in the village and check the dish on arrival."
+    "Son River grass carp is the fish the Quang Binh visitor portal calls the emblem of eating at Phong Nha-Ke Bang. Grilled chicken comes with muối cheo and sticky rice. Phong Nha-Ke Bang National Park names cơm pồi, Láp, and rượu đoác in the buffer and does not name a market street. A door, an hour, and a price are Check on arrival."
   ],
-  "dishSlugs": [],
+  "dishSlugs": [
+    "phong-nha--ca-tram-song-son",
+    "phong-nha--chao-canh-ca-tram",
+    "phong-nha--bun-cha-ca-tram",
+    "phong-nha--ca-chinh-song-son",
+    "phong-nha--ca-me-song-son",
+    "phong-nha--tom-cang-song-son",
+    "phong-nha--ga-nuong-muoi-cheo",
+    "phong-nha--muoi-cheo",
+    "phong-nha--com-poi",
+    "phong-nha--bot-nhuc",
+    "phong-nha--com-ngo",
+    "phong-nha--oc-len",
+    "phong-nha--oc-van",
+    "phong-nha--oc-nui",
+    "phong-nha--canh-mang-chua",
+    "phong-nha--banh-a-choi",
+    "phong-nha--banh-a-duh",
+    "phong-nha--lap",
+    "phong-nha--ruou-doac",
+    "phong-nha--ruou-can",
+    "phong-nha--banh-xeo-gao-lut"
+  ],
   "interestsBody": [
     "The boat cave is the half-day. Paradise Cave is the dry walk, on its own ticket, and the minutes from the village are check on arrival.",
     "Chay River and Mooc Spring are the swim, on tickets that do not include the boat. The exploration package is the one that enters Dark Cave. Mooc’s 80,000 VND row is the walk, not the swim.",
