@@ -6,16 +6,18 @@ Public sights are the six with two licensed photographs of that sight: Nhật L�
 
 ## Sights with no second frame, or no licensed frame
 
-- Bàu Tró. One lake photograph. No second frame.
-- Quang Phú dunes. No licensed photograph. Distances stay 8 km from Nhật Lệ along Trường Pháp, and about 10 km northeast via Trần Hưng Đạo then Nguyễn Du.
-- Nhật Lệ 2. No photograph of the whole A-tower and a span. Specs stay on the ward page: one A-tower, two 150 m spans, tower 98 m, lit at night. The older bridge in the river photographs is the 2002 span, 635 m by 12 m, 15 spans.
+Checked again 23 Oct 2026. Still no new public card. Detail is in `attractions/bau-tro.md`, `attractions/quang-phu-dunes.md`, `attractions/dai-giac.md`, and `attractions/bao-ninh.md`.
+
+- Bàu Tró. One Commons file, `File:Bautro.jpg` (Genghiskhan, public domain). It is a flat hazy aerial. The lake reads, and the light does not. No second frame. Unpublished.
+- Quang Phú dunes. Still no Commons file of the dunes. `File:DongHoi1.jpg` is the city and the paddies, with scrub in the foreground. It is not a dune slope. Distances stay 8 km from Nhật Lệ along Trường Pháp (S1), and about 10 km northeast via Trần Hưng Đạo then Nguyễn Du (S5).
+- Nhật Lệ 2. Still not its own page. It is the bridge on the river visit. Specs stay on the ward page: one A-tower, two 150 m spans, tower 98 m, lit at night (S1). `File:Cầu Nhật Lệ 2 (cropped).jpg` (NwriteC, CC BY-SA 4.0) describes itself as Nhật Lệ 1. That conflict was not resolved by opening a second bridge page. The older bridge in the river photographs is the 2002 span, 635 m by 12 m, 15 spans (S15).
 - Ho Chi Minh Square. No photograph. 6.8 ha on Hùng Vương. The June 1957 visit site is a different listing.
-- Đại Giác. No photograph. The 9 m / 40 tonne figure stays on the ward page only.
+- Đại Giác. No frame of the 9 m marble Amitabha. Five Commons files from a 26 Jun 2026 Navy visit show people, or the gate with uniformed visitors in the doorway. Address conflict stays: Lê Lợi, old Đức Ninh Đông (S30) and 113 Bạch Đằng, phường Đồng Hới (S31). The ward page still gives no street (S1).
 - Provincial museum, the prison, and the longer war-site list. No visit page was opened.
 
 ## Areas and nights
 
-- Bảo Ninh. One beach photograph. Stay area only. The whale temple and the old rampart have no photographs and no tariffs.
+- Bảo Ninh. Still one beach photograph, `File:Bao Ninh Beach.jpg` (Nguyên Lê, CC0), already the stay-area frame. No second frame, so no sight card. The whale temple and the old rampart have no photographs and no tariffs.
 - Walking street on Phan Bội Châu and Đồng Hải. Printed 18:00–24:00 on Friday, Saturday, Sunday, and holidays, about 1 km, one source. No night photograph, so no card.
 - Nhật Lệ after dark. No photograph of the lit tower.
 
