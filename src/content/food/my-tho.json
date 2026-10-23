@@ -2,14 +2,299 @@
   "slug": "my-tho",
   "name": "My Tho food guide",
   "placeSlug": "my-tho",
-  "summary": "Hủ tiếu Mỹ Tho is the bowl with a photograph: dry, or with broth, at breakfast, lunch, or supper. Elephant-ear fish, ginger honey tea, coconut candy, night-court sweets, and bánh tét are named and not pictured. A stall price is check on arrival.",
+  "summary": "Hủ tiếu Mỹ Tho is the bowl, dry or with broth, at breakfast, lunch, or supper. Vietnam Tourism puts fried elephant-ear fish, grilled snakehead, and ginger honey tea on the Thới Sơn table. The Mỹ Phong village sells bánh tét, bánh ít, bánh hỏi, and bánh tầm. Gò Công’s mắm is a different town. A price that was not printed is Check on arrival.",
   "heroSlug": "hu-tieu-my-tho",
   "body": [
-    "Eat the town bowl in the streets or at the pier court on đường 30 Tháng 4. The strand is the Gò Cát rice noodle. The workshop at Hội Gia is where you watch it made, not where you sit down with the bowl."
+    "Order hủ tiếu Mỹ Tho dry, or with the broth poured over. The Tiền Giang tourism portal starts the fame in the early 1960s, from carts between Mỹ Tho and Gò Công. Vietnam Tourism’s rural page starts the craft at the end of the 19th century, with Hoa cooks, then a Vietnamese adaptation. Keep both. Vietnam Tourism also puts fresh greens on the soup bowl. Cục Du lịch Quốc gia Việt Nam says the bowl is not eaten with lettuce, vinegar, and a herb plate. Both stay. Vietnam Tourism names hủ tiếu sa tế and hủ tiếu xương and does not describe either one. Sài Gòn Giải Phóng, 26 Jan 2023, prints a broth of marrow bone, spare rib, dried shrimp, and grilled squid. That list sits beside the two broths already recorded for the bowl.",
+    "On Thới Sơn, Vietnam Tourism sets fried elephant-ear fish, tôm nướng mọi, linh-fish hotpot with điên điển flowers, grilled snakehead, mussel bánh xèo, and green-skin pomelo salad on the same table. The Tiền Giang provincial portal prints the elephant-ear fry and the straw-fire snakehead. Mia, 25 Sep 2023, does not clean the snakehead and does not use the portal’s five minutes. Both accounts stay. Ginger honey tea and handmade coconut candy are the OCOP pair. A Zing account ties the hives on Lân and on Phụng to longan blossom.",
+    "The Tiền Giang tourism portal names bánh tét, bánh ít, bánh hỏi, and bánh tầm as the products of the Mỹ Phong village, with the noodle. The provincial portal’s 5 Jan 2019 article puts chè, sinh tố, sâm bổ lượng, nghêu, and sò at the pier court on đường 30 Tháng 4, from 18:30 to 02:00. Viet Fun Travel prints a night market at số 8 đường 30/4 from 18:00, busiest from 19:00 to 22:00. Mắm tôm chà, mắm còng, and bánh giá belong to Gò Công and Chợ Giồng, not to a Mỹ Tho stall. Where a price or an hour was not printed, it is Check on arrival."
   ],
-  "specialtiesLead": "The photographed specialty is hủ tiếu Mỹ Tho. Plates without a photograph stay off the grid.",
-  "dishSlugs": ["hu-tieu-my-tho"],
-  "verified": "21 Oct 2026",
-  "seoTitle": "My Tho food guide — hu tieu, and what is not pictured",
-  "seoDescription": "Hủ tiếu Mỹ Tho is the photographed bowl, dry or with broth. Islet plates and night-court sweets are named and not pictured. Stall prices are check on arrival."
+  "specialtiesLead": "Start with hủ tiếu Mỹ Tho. The Thới Sơn table, the Mỹ Phong cakes, the pier-court orders, and the Gò Công plates follow, with the street when a publisher printed one.",
+  "dishSlugs": [
+    "hu-tieu-my-tho",
+    "my-tho--hu-tieu-sa-te",
+    "my-tho--hu-tieu-xuong",
+    "my-tho--ca-tai-tuong",
+    "my-tho--tom-nuong-moi",
+    "my-tho--lau-mam-ca-linh",
+    "my-tho--ca-loc-nuong-trui",
+    "my-tho--canh-chua-ca-loc",
+    "my-tho--banh-xeo-hen",
+    "my-tho--goi-buoi",
+    "my-tho--xoi-chien-phong",
+    "my-tho--trai-cay",
+    "my-tho--tra-mat-ong-gung",
+    "my-tho--keo-dua",
+    "my-tho--banh-tet",
+    "my-tho--banh-it",
+    "my-tho--banh-hoi",
+    "my-tho--banh-tam",
+    "my-tho--sam-bo-luong",
+    "my-tho--che",
+    "my-tho--sinh-to",
+    "my-tho--ngheu",
+    "my-tho--so",
+    "my-tho--mam-tom-cha",
+    "my-tho--mam-cong",
+    "my-tho--banh-gia"
+  ],
+  "sections": [
+    {
+      "id": "thoi-son",
+      "heading": "The Thới Sơn table",
+      "nav": "Thới Sơn",
+      "paragraphs": [
+        "Vietnam Tourism sets these plates on cù lao Thới Sơn, about 6 km from town. The Tiền Giang provincial portal prints methods for the elephant-ear fish, the straw-fire snakehead, the sour soup, and the puffed sticky rice. The other plates are names only. An unprinted price or hour is Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Ca tai tuong chien xu",
+          "nameVi": "Cá tai tượng chiên xù",
+          "address": "Cù lao Thới Sơn",
+          "dishSlug": "my-tho--ca-tai-tuong",
+          "note": "Vietnam Tourism puts fried elephant-ear fish on the islet table. The Tiền Giang provincial portal, 5 Jan 2019, soaks the cleaned fish in salt water for about 15 minutes and fries it evenly in plenty of oil. Roll it with herbs, rice paper, and bún. The dip is mắm nêm or nước mắm me. The price is Check on arrival."
+        },
+        {
+          "name": "Tom nuong moi",
+          "nameVi": "Tôm nướng mọi",
+          "address": "Cù lao Thới Sơn",
+          "dishSlug": "my-tho--tom-nuong-moi",
+          "note": "Vietnam Tourism names grilled shrimp on the same table and prints no method. The price and the hour are Check on arrival."
+        },
+        {
+          "name": "Lau mam ca linh",
+          "nameVi": "Lẩu mắm cá linh bông điên điển",
+          "address": "Cù lao Thới Sơn",
+          "dishSlug": "my-tho--lau-mam-ca-linh",
+          "note": "Vietnam Tourism names linh fish, mắm, and điên điển flowers. The English line says linh fish hotpot with wildflowers. A broth was not printed. The price and the hour are Check on arrival."
+        },
+        {
+          "name": "Ca loc nuong trui",
+          "nameVi": "Cá lóc nướng trui",
+          "address": "Cù lao Thới Sơn",
+          "dishSlug": "my-tho--ca-loc-nuong-trui",
+          "note": "The Tiền Giang provincial portal cleans a 500–600 gram field snakehead and burns straw for about 5 minutes. Mia, 25 Sep 2023, does not clean the fish and does not print those 5 minutes. Both stay. The price is Check on arrival."
+        },
+        {
+          "name": "Canh chua ca loc",
+          "nameVi": "Canh chua cá lóc",
+          "address": "Check on arrival",
+          "dishSlug": "my-tho--canh-chua-ca-loc",
+          "note": "The Tiền Giang provincial portal calls field-snakehead sour soup common in the South, sour-sweet, with fish sauce and sliced chili, eaten with white rice. It names no street and no vegetable list. The price and the hour are Check on arrival."
+        },
+        {
+          "name": "Banh xeo nhan hen",
+          "nameVi": "Bánh xèo nhân hến",
+          "address": "Cù lao Thới Sơn",
+          "dishSlug": "my-tho--banh-xeo-hen",
+          "note": "Vietnam Tourism names mussel bánh xèo and prints no batter. The price and the hour are Check on arrival."
+        },
+        {
+          "name": "Goi buoi da xanh",
+          "nameVi": "Gỏi bưởi da xanh",
+          "address": "Cù lao Thới Sơn",
+          "dishSlug": "my-tho--goi-buoi",
+          "note": "Vietnam Tourism names green-skin pomelo salad and prints no dressing. The price and the hour are Check on arrival."
+        },
+        {
+          "name": "Xoi chien phong",
+          "nameVi": "Xôi chiên phồng",
+          "address": "Check on arrival",
+          "dishSlug": "my-tho--xoi-chien-phong",
+          "note": "The Tiền Giang provincial portal fries sticky rice, after garlic and a cool-down, until it puffs taut like a ball. It is usually eaten with roasted chicken or gà xối mỡ. No street was printed. The price and the hour are Check on arrival."
+        },
+        {
+          "name": "Thoi Son orchard fruit",
+          "nameVi": "Trái cây vườn Thới Sơn",
+          "address": "Cù lao Thới Sơn",
+          "dishSlug": "my-tho--trai-cay",
+          "note": "Vietnam Tourism names longan, rambutan, Hòa Lộc mango, and An Phước plum. Pick and eat in the orchard, or buy. The price is Check on arrival."
+        },
+        {
+          "name": "Tra mat ong gung",
+          "nameVi": "Trà mật ong gừng",
+          "address": "Cù lao Thới Sơn",
+          "dishSlug": "my-tho--tra-mat-ong-gung",
+          "note": "Vietnam Tourism names Thới Sơn honey as an OCOP product and pours ginger honey tea in the orchard. Zing says the hives on Lân and on Phụng use longan blossom. Lân is Thới Sơn. Phụng is the Ben Tre bank. The price is Check on arrival."
+        },
+        {
+          "name": "Keo dua",
+          "nameVi": "Kẹo dừa",
+          "address": "Cù lao Thới Sơn",
+          "dishSlug": "my-tho--keo-dua",
+          "note": "Vietnam Tourism names handmade coconut candy as an OCOP product on Thới Sơn and prints no recipe. The Ben Tre kiln on Cồn Phụng is a different islet. The price is Check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "my-phong",
+      "heading": "Mỹ Phong village cakes",
+      "nav": "Mỹ Phong",
+      "paragraphs": [
+        "The Tiền Giang tourism portal lists these with hủ tiếu as the main products of the Mỹ Phong craft village. A filling was not printed. The Đồng Tháp tourism portal opens the Hội Gia workshop 07:00–18:00. That clock is the visit, not a cake stall. A price is Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Banh tet",
+          "nameVi": "Bánh tét",
+          "address": "Ấp Hội Gia, phường Mỹ Phong",
+          "dishSlug": "my-tho--banh-tet",
+          "note": "Named by the Tiền Giang tourism portal as a village product, with no filling and no price. The price is Check on arrival."
+        },
+        {
+          "name": "Banh it",
+          "nameVi": "Bánh ít",
+          "address": "Ấp Hội Gia, phường Mỹ Phong",
+          "dishSlug": "my-tho--banh-it",
+          "note": "Named with bánh tét. No filling and no price were printed. The price is Check on arrival."
+        },
+        {
+          "name": "Banh hoi",
+          "nameVi": "Bánh hỏi",
+          "address": "Ấp Hội Gia, phường Mỹ Phong",
+          "dishSlug": "my-tho--banh-hoi",
+          "note": "A Mỹ Phong village product on the Tiền Giang tourism portal. It is not the Phong Điền bowl. No serving was printed. The price is Check on arrival."
+        },
+        {
+          "name": "Banh tam",
+          "nameVi": "Bánh tầm",
+          "address": "Ấp Hội Gia, phường Mỹ Phong",
+          "dishSlug": "my-tho--banh-tam",
+          "note": "Named with the other village cakes. No serving and no price were printed. The price is Check on arrival."
+        },
+        {
+          "name": "Hu tieu sa te",
+          "nameVi": "Hủ tiếu sa tế",
+          "address": "Check on arrival",
+          "dishSlug": "my-tho--hu-tieu-sa-te",
+          "note": "Vietnam Tourism names this bowl beside soup and dry hủ tiếu and prints no method. The craft is in Mỹ Phong and neighboring wards. A street for the bowl is Check on arrival."
+        },
+        {
+          "name": "Hu tieu xuong",
+          "nameVi": "Hủ tiếu xương",
+          "address": "Check on arrival",
+          "dishSlug": "my-tho--hu-tieu-xuong",
+          "note": "Vietnam Tourism names this bowl beside soup and dry hủ tiếu and prints no method. A street for the bowl is Check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "pier-orders",
+      "heading": "Pier-court orders",
+      "nav": "The pier",
+      "paragraphs": [
+        "The Tiền Giang provincial portal, 5 Jan 2019, lists these at the court inside the tourist-boat pier. It also lists hủ tiếu, bún, phở, cháo, bánh cuốn, and dried seafood, and prints no Mỹ Tho method for those. The 2019 clock is 18:30–02:00. Viet Fun Travel prints số 8 đường 30/4 from 18:00, busiest 19:00–22:00."
+      ],
+      "spots": [
+        {
+          "name": "Sam bo luong",
+          "nameVi": "Sâm bổ lượng",
+          "address": "Đường 30 Tháng 4, tourist-boat pier",
+          "dishSlug": "my-tho--sam-bo-luong",
+          "note": "A light order on the 5 Jan 2019 article. No recipe was printed. The price is Check on arrival. The two night clocks do not match."
+        },
+        {
+          "name": "Che",
+          "nameVi": "Chè",
+          "address": "Đường 30 Tháng 4, tourist-boat pier",
+          "dishSlug": "my-tho--che",
+          "note": "Named with the light orders. No bean or fruit was printed. The price is Check on arrival."
+        },
+        {
+          "name": "Sinh to",
+          "nameVi": "Sinh tố",
+          "address": "Đường 30 Tháng 4, tourist-boat pier",
+          "dishSlug": "my-tho--sinh-to",
+          "note": "Named with the light orders. No fruit was printed. The price is Check on arrival."
+        },
+        {
+          "name": "Ngheu",
+          "nameVi": "Nghêu",
+          "address": "Đường 30 Tháng 4, tourist-boat pier",
+          "dishSlug": "my-tho--ngheu",
+          "note": "The provincial portal calls nghêu characteristic seafood at the court and prints no method. The price is Check on arrival."
+        },
+        {
+          "name": "So",
+          "nameVi": "Sò",
+          "address": "Đường 30 Tháng 4, tourist-boat pier",
+          "dishSlug": "my-tho--so",
+          "note": "Named with nghêu. No species and no method were printed. The price is Check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "role": "regional",
+      "heading": "Regional dishes",
+      "nav": "Regional",
+      "paragraphs": [
+        "These three are on the Tiền Giang provincial portal and they are not Mỹ Tho stalls. Mắm tôm chà is Gò Công. Mắm còng is Tân Phú Đông on the food index and cù lao Tân Thới on the 25 Dec 2018 introduction. Bánh giá is Chợ Giồng, Gò Công Tây."
+      ],
+      "spots": [
+        {
+          "name": "Mam tom cha",
+          "nameVi": "Mắm tôm chà",
+          "address": "Gò Công",
+          "dishSlug": "my-tho--mam-tom-cha",
+          "note": "The provincial portal eats it with bún, boiled pork, unripe banana, sour starfruit, cucumber, and herbs. Thanh Niên, 27 Aug 2014, prints a family method and a nearly 200-year line the portal does not print. A Mỹ Tho address is Check on arrival."
+        },
+        {
+          "name": "Mam cong",
+          "nameVi": "Mắm còng",
+          "address": "Tân Phú Đông, or cù lao Tân Thới",
+          "dishSlug": "my-tho--mam-cong",
+          "note": "The food-index extract says crab is fried or cooked in soup, and that peeled-crab mắm is the best. The method was not in the extract. The two place names stay. The price is Check on arrival."
+        },
+        {
+          "name": "Banh gia Cho Giong",
+          "nameVi": "Bánh giá Chợ Giồng",
+          "address": "Chợ Giồng, Gò Công Tây",
+          "dishSlug": "my-tho--banh-gia",
+          "note": "The provincial portal mills rice and mung bean. Tuổi Trẻ mills rice and soy, three parts to one, and says Chợ Giồng is the old name of chợ Vĩnh Bình. Both lists stay. The price is Check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "casual",
+      "role": "casual",
+      "heading": "Casual dining",
+      "nav": "Streets",
+      "paragraphs": [
+        "The pier court is the eating street with a printed menu. Hội Gia is where the sheets are made, not where the bowl is served. Chợ Mỹ Tho is named only as a drive from đường 30 Tháng 4. What the hall sells was not described."
+      ],
+      "spots": [
+        {
+          "name": "Pier food court",
+          "nameVi": "Khu ẩm thực đêm Mỹ Tho",
+          "address": "Đường 30 Tháng 4, inside the tourist-boat pier",
+          "note": "The Tiền Giang provincial portal, 5 Jan 2019, gives the court 3,000 m² and the hours 18:30–02:00, in old phường 1. Viet Fun Travel prints a night market at số 8 đường 30/4 from 18:00, busiest 19:00–22:00. The two clocks do not match."
+        },
+        {
+          "name": "Hoi Gia noodle yards",
+          "nameVi": "Ấp Hội Gia",
+          "address": "Ấp Hội Gia, phường Mỹ Phong",
+          "note": "The Đồng Tháp tourism portal opens the workshop 07:00–18:00, free, for about 120 minutes. You watch the sheets. You do not sit down here for the bowl."
+        },
+        {
+          "name": "My Tho market",
+          "nameVi": "Chợ Mỹ Tho",
+          "address": "Check on arrival",
+          "note": "The Tiền Giang tourism directory says Chợ Mỹ Tho is about 10 minutes by vehicle from a building on đường 30 Tháng 4. A street, a ward, hours, and what is sold were not on that line. The hour is Check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "role": "breakfast",
+      "heading": "Breakfast",
+      "nav": "Breakfast",
+      "paragraphs": [
+        "The old phường 9 ward office says hủ tiếu Mỹ Tho is breakfast, lunch, and supper. Vietnam Tourism does not give the sa tế or xương bowls a meal. A named breakfast stall was not printed. The hour is Check on arrival."
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "My Tho food — hu tieu and the Thoi Son table",
+  "seoDescription": "Hủ tiếu Mỹ Tho, the Thới Sơn fish, Mỹ Phong cakes, and the pier-court sweets. Gò Công mắm stays in Gò Công. An unprinted price is Check on arrival."
 }

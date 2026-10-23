@@ -18,6 +18,11 @@ Checked against the stored dossier on 22 Oct 2026. Public fields stay “Check o
 - The hour the embankment goes quiet.
 - A named breakfast stall. Stall prices.
 - A later date for the hủ tiếu festival.
-- A licensed plate of elephant-ear fish, ginger honey tea, coconut candy, night-court sweets, or bánh tét.
+- A licensed plate of elephant-ear fish, ginger honey tea, coconut candy, night-court sweets, bánh tét, or any of the dishes added on 23 Oct 2026. Only hủ tiếu Mỹ Tho has a plate photograph.
+- Methods still unprinted: tôm nướng mọi, lẩu mắm cá linh bông điên điển, bánh xèo nhân hến, gỏi bưởi da xanh, hủ tiếu sa tế, hủ tiếu xương, chè, sinh tố, sâm bổ lượng, nghêu, sò, the four Mỹ Phong cakes, Thới Sơn coconut candy, and a price for the orchard fruit.
+- Mắm còng: Tân Phú Đông against cù lao Tân Thới, and the “simple” method, which was cut off in the index extract.
+- Cháo lòng Tân Hiệp is titled on the provincial food index. The town was not confirmed, so it was not published.
+- Bún, bánh tráng, and bánh nghệ are named as uses of Gò Cát rice, with no serving. Bún, phở, cháo, bánh cuốn, and khô các loại are named at the pier court, with no Mỹ Tho method. They were not given specialty records.
+- No international kitchen, no fine-dining room, and no themed room was found on the official pages opened.
 - A licensed photograph of Vincom Plaza Mỹ Tho.
 - 288 Club hours in 2026.
