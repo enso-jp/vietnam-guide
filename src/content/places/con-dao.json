@@ -15,7 +15,7 @@
   "fee": "Check on arrival. The scenic-route fee and the relic ticket are separate.",
   "getThere": "Fly to Côn Đảo (VVCS), 10 km northeast of town. Road minutes are check on arrival.",
   "bestMonths": "Check on arrival",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "interests": {
     "warHistory": 5,
     "islands": 5,
@@ -51,17 +51,17 @@
     }
   ],
   "eat": [
-    "Evening is the night market on Võ Thị Sáu and Phạm Văn Đồng, in front of the daily market, from 17:00 and busiest 19:00–22:00. Seafood is chosen and cooked to order. Hạt bàng, candied or roasted kernels, is the pack traders fill at the daily market. No stall price, no breakfast dish, and no local drink were printed."
+    "Evening is the night market on Võ Thị Sáu and Phạm Văn Đồng, in front of the daily market, from 17:00 and busiest 19:00–22:00. You choose the seafood and the stall steams or grills it. Hạt bàng is the pack at the daily market. Báo Đồng Nai prints 250,000–400,000 đồng per kilogram and also names mắm nhum, mắm hàu, one-sun squid, and one-sun mackerel. No breakfast dish and no local drink were printed. Where a price was not printed, it is Check on arrival."
   ],
-  "dishSlugs": ["hat-bang"],
+  "dishSlugs": ["hat-bang", "con-dao--mam-nhum", "con-dao--mam-hau", "con-dao--banh-quy-hat-bang", "con-dao--muc-mot-nang", "con-dao--muc-kho", "con-dao--ca-thu-mot-nang", "con-dao--cua-mat-trang", "con-dao--ca-mu-do", "con-dao--goi-ca-map", "con-dao--ca-mo", "con-dao--sa-sung", "con-dao--muc-tuoi", "con-dao--oc-vu-nang", "con-dao--tom-hum-do", "con-dao--tom-su-nuong", "con-dao--ghe-hap", "con-dao--oc-huong-hap-sa", "con-dao--lau-hai-san", "con-dao--tom-mu-ni", "con-dao--banh-trang-nuong", "con-dao--com-chay"],
   "interestsBody": [
     "The camps and Hàng Dương are one history day in town. The park day is the forest, Đầm Trầu, and the turtle islets. Ông Đụng is the walk west of town.",
-    "Dining is the night market and the market packs. Hạt bàng is the kernel traders pack at the daily market."
+    "Dining is the night market and the market packs. Hạt bàng, mắm nhum, and one-sun squid are the packs. The night market on Võ Thị Sáu and Phạm Văn Đồng cooks the seafood you choose."
   ],
   "interestCards": [
     {
       "title": "Dining and F&B",
-      "summary": "Candied hạt bàng from the daily market. The night market cooks seafood to order.",
+      "summary": "Hạt bàng and the ferments from the daily market. The night market cooks seafood to order.",
       "photo": "hat-bang",
       "icon": "food",
       "to": "food"
@@ -98,15 +98,15 @@
   "interestGroups": [
     {
       "title": "Dining and F&B",
-      "summary": "The pack from the daily market, then seafood cooked to order after dark.",
+      "summary": "The packs from the daily market, then seafood cooked to order after dark.",
       "body": [
-        "Hạt bàng is the kernel the 11 July 2025 report shows being packed at the daily market. It is roasted with salt or candied. Peak-season supply is bought in, so not every bag is island fruit.",
-        "The night market is on Võ Thị Sáu and Phạm Văn Đồng. The same report names mắm nhum: salty, sour, and strongly fragrant, eaten with rice noodles, boiled meat, and hot rice."
+        "Hạt bàng is the kernel Báo Đồng Nai, 11 July 2025, shows being packed at the daily market. It is roasted with salt or candied. The printed range is 250,000–400,000 đồng per kilogram. Peak-season supply is bought in, so not every bag is island fruit.",
+        "The night market is on Võ Thị Sáu and Phạm Văn Đồng, from 17:00. Báo Đồng Nai names mắm nhum: salty, sour, and strongly fragrant, eaten with rice noodles, boiled meat, and hot rice. One-sun squid and one-sun mackerel are the other packs."
       ],
       "cards": [
         {
           "title": "Dining and F&B",
-          "summary": "Candied hạt bàng. The night market is the evening plate.",
+          "summary": "Hạt bàng, the ferments, and the night-market plates.",
           "photo": "hat-bang",
           "icon": "food",
           "to": "food",
@@ -119,7 +119,7 @@
           "heading": "The pack and the evening yard",
           "nav": "The market",
           "paragraphs": [
-            "Take hạt bàng from the daily market. No stall price was printed.",
+            "Take hạt bàng from the daily market. Báo Đồng Nai prints 250,000–400,000 đồng per kilogram.",
             "After the camps, eat at the open yard in front of that market. The yard runs from 17:00 and is busiest from 19:00 to 22:00."
           ]
         }

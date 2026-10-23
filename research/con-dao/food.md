@@ -1,9 +1,131 @@
 # Food — Con Dao
 
 Slug: `con-dao`
-Checked: 21 Oct 2026
+Checked: 23 Oct 2026
 
-Dishes below are from one newspaper report, Báo Đồng Nai, 11 Jul 2025, reprinted on Vietnam.vn (S14), plus what the night-market report shows people eating (S15). No second cookbook was opened. Stall prices are not copied. A shop name is a source clue only.
+Dishes below are from Báo Đồng Nai, 11 Jul 2025, reprinted on Vietnam.vn (S14), the night-market report (S15), VOV on 6 May 2025 (S22), Vietnam Tourism (S21), and Báo Điện Biên Phủ on 31 Jul 2026 (S23). A shop name is a source clue only. The 24 May 2024 Vietnam.vn roundup (S24) names no newspaper. Its prices are not used on the public page. Dishes that appear only there stay off the public list.
+
+## Added 23 Oct 2026
+
+The public guide splits the night-market plate into the dishes S15 names, and adds the packs and seafood below. Streets stay streets. Grilled skewers, corn, sweet potato, and fresh sea urchin are named on the stalls and have no preparation in S15, so they are not separate specialty records. Generic dried fish (`các loại cá khô`) stays a category, not a dish. Planned products in S22 (kẹo hạt bàng, nước ép rong biển, trà thảo mộc) are not current dishes.
+
+### Bánh quy hạt bàng
+- Vietnamese name: bánh quy hạt bàng
+- What it is: Biscuits from hạt bàng. VOV says an OCOP three-star product, chocolate and traditional fillings, and candied kernels from the same workshop (S22).
+- How to eat it: As a pack, or the biscuit a hotel desk sets out. S22 says they were first only at hotel receptions.
+- When to order it: When leaving, or at check-in if the desk stocks them.
+- Area, not a shop: Nguyễn Duy Trinh, khu 5. The bakery name is under Notes. do not publish as a pick.
+- Meal: sweet
+- Price: Check on arrival — UNSOURCED
+- Sources: S22
+
+### Mực khô
+- Vietnamese name: mực khô
+- What it is: Dried squid, listed separately from mực một nắng and from fresh squid (S14).
+- How to eat it: As a pack. A cooking note was not printed.
+- When to order it: When leaving
+- Area, not a shop: Chợ Côn Đảo
+- Meal: main
+- Price: Check on arrival — UNSOURCED
+- Sources: S14
+
+### Ốc vú nàng
+- Vietnamese name: ốc vú nàng
+- What it is: A spire-shaped snail. Vietnam Tourism calls it the nipple snail, gray-black and knobby outside, smooth pink, white, or cream inside, found beside steep cliffs. Each block on that account says Source: Internet (S21). Báo Điện Biên Phủ calls it a specialty usually boiled or grilled for a natural sweet taste (S23).
+- How to eat it: Boiled or grilled (S23). S21 also names sauté, salad, a steam in a little water, salt with pepper and lemon, and grilling with onion fat.
+- When to order it: With the seafood meal. Check on arrival.
+- Area, not a shop: Seaside restaurants and the fishing village (S23). No street.
+- Meal: main
+- Price: Check on arrival — UNSOURCED
+- Sources: S21, S23
+
+### Tôm hùm đỏ
+- Vietnamese name: tôm hùm đỏ; S23 says tôm hùm and does not say đỏ
+- What it is: Vietnam Tourism says smaller than other lobsters, firmer and sweeter, nicknamed fire lobster. The same account says Côn Đảo is the country’s lobster-farming kingdom and, in the next lines, that these lobsters cannot be farmed and are only caught wild. Both lines stay. Each block says Source: Internet (S21).
+- How to eat it: Sushi, salad, soup, or steamed whole. A female lobster in winter may carry golden roe along the spine (S21). S23 printed no method.
+- When to order it: With the seafood meal. Check on arrival.
+- Area, not a shop: Seaside restaurants (S23). No street.
+- Meal: main
+- Price: Check on arrival — UNSOURCED. Do not use the S24 range.
+- Sources: S21, S23
+
+### Tôm sú nướng
+- Vietnamese name: tôm sú nướng
+- What it is: Tiger prawn grilled in the reporter’s night-market meal (S15).
+- How to eat it: Choose it and have the stall grill it.
+- When to order it: From 17:00 (S15)
+- Area, not a shop: Chợ đêm Côn Đảo
+- Meal: main
+- Price: Check on arrival — UNSOURCED as a plate. The five-plate dinner for five people was 1,200,000 đồng (S15). That figure is the dinner.
+- Sources: S15
+
+### Ghẹ hấp
+- Vietnamese name: ghẹ hấp
+- What it is: Steamed swimming crab in that meal. Not cua mặt trăng (S15).
+- How to eat it: Choose it and have the stall steam it.
+- When to order it: From 17:00
+- Area, not a shop: Chợ đêm Côn Đảo
+- Meal: main
+- Price: Check on arrival — UNSOURCED as a plate
+- Sources: S15
+
+### Ốc hương hấp sả
+- Vietnamese name: ốc hương hấp sả
+- What it is: Ốc hương steamed with lemongrass in that meal (S15).
+- How to eat it: Choose the snails and have them steamed with lemongrass.
+- When to order it: From 17:00
+- Area, not a shop: Chợ đêm Côn Đảo
+- Meal: main
+- Price: Check on arrival — UNSOURCED
+- Sources: S15
+
+### Lẩu hải sản
+- Vietnamese name: lẩu hải sản
+- What it is: A seafood hotpot in that meal. The broth was not described (S15).
+- How to eat it: As a shared pot at the night market.
+- When to order it: From 17:00
+- Area, not a shop: Chợ đêm Côn Đảo
+- Meal: main
+- Price: Check on arrival — UNSOURCED
+- Sources: S15
+
+### Tôm mũ ni cháy tỏi
+- Vietnamese name: tôm mũ ni cháy tỏi
+- What it is: Tôm mũ ni cooked with garlic in that meal. The animal was not described further (S15).
+- How to eat it: Order it with garlic.
+- When to order it: From 17:00
+- Area, not a shop: Chợ đêm Côn Đảo
+- Meal: main
+- Price: Check on arrival — UNSOURCED
+- Sources: S15
+
+### Bánh tráng nướng
+- Vietnamese name: bánh tráng nướng
+- What it is: Grilled rice paper on the night-market stalls. Toppings were not printed (S15).
+- How to eat it: Buy it at the yard. Toppings were not printed.
+- When to order it: From 17:00
+- Area, not a shop: Chợ đêm Côn Đảo
+- Meal: snack
+- Price: Check on arrival — UNSOURCED
+- Sources: S15
+
+### Cơm cháy
+- Vietnamese name: cơm cháy
+- What it is: Crisp rice in three pans: plain white, green from pandan leaf, purple from magenta leaf, finished with scallion oil and pork floss (S15).
+- How to eat it: Buy a tray. Most people take it away because seats are limited (S15).
+- When to order it: From 17:00
+- Area, not a shop: Chợ đêm Côn Đảo. The stall name is under Notes.
+- Meal: snack
+- Price: 100,000 đồng for one tray at one stall (S15). Other stalls were not priced.
+- Sources: S15
+
+Hạt bàng price, printed in S14 and not copied on the first pass: 250,000–400,000 đồng per kilogram, depending on the type. S24 prints 200,000–280,000 đồng per kilogram for the candied kernels and names no newspaper. The public guide uses the S14 range only. Vietnam Tourism (S21) adds a July–August fruiting, a sugar roast as well as salt, and a prison account that adds insulation, paper, and marking the year. Both prison accounts stay.
+
+Cá mú đỏ: S21 also calls it song fish, up to 30 kilograms, most often sold at 5 kilograms, lean white chewy sweet, grilled or steamed or as sauce or salad, ginger and spring onion. S14 does not print those figures. Both stay. No price in S14 or S21.
+
+Mực một nắng and cá thu một nắng: S22 says a trademark in 2020 and OCOP three stars in 2024. No street for that workshop. No price.
+
+Left off the public specialty list: bắp, khoai, xiên nướng, nhum biển on the stall display (S15, no preparation); các loại cá khô (S14, a category); cháo hàu, bún riêu Hai Khiêm, bánh xèo, ốc tai tượng, yến sào, sâm đất, rượu sâm, rượu nho rừng (S24 only). Breakfast and a local drink are still unrecorded.
 
 ## Comprehensive list of local food to try
 
@@ -109,7 +231,7 @@ Dishes below are from one newspaper report, Báo Đồng Nai, 11 Jul 2025, repri
 
 ### Ghẹ, tôm, ốc, nhum at the night market
 - Vietnamese name: ghẹ, tôm, ốc, nhum biển
-- What it is: The night-market report’s stall seafood: swimming crab, squid, prawns, fish, sea urchin, and, in the reporter’s own meal, tiger prawn, crab, ốc hương with lemongrass, a seafood hotpot, and tôm mũ ni (S15). These are the evening plate, not separate island recipes.
+- What it is: The night-market report’s stall seafood: swimming crab, squid, prawns, fish, sea urchin, and, in the reporter’s own meal, tiger prawn, crab, ốc hương with lemongrass, a seafood hotpot, and tôm mũ ni (S15). The 23 Oct 2026 pass publishes the named plates as separate specialties. Fresh sea urchin, grilled skewers, corn, and sweet potato stay in this entry because S15 prints no preparation.
 - How to eat it: Choose the animal, then have the stall steam or grill it (S15).
 - When to order it: From 17:00, busiest 19:00–22:00 (S15)
 - Area, not a shop: Chợ đêm Côn Đảo
@@ -154,3 +276,12 @@ Restaurant and bar names that located a street. Each line has a source and the w
 
 ### Chợ đêm Côn Đảo
 - Anh 7, the cơm cháy stall of ông Nguyễn Tuấn Mãi, named in the 16 May 2025 market report. do not publish as a pick (S15).
+
+### Nguyễn Duy Trinh, khu 5
+- HANI BAKERY, the bánh quy hạt bàng workshop VOV names. do not publish as a pick (S22).
+
+### One-sun seafood
+- Phúc Tường, the family workshop VOV names for the OCOP one-sun squid and one-sun mackerel. No street was printed. do not publish as a pick (S22).
+
+### S24 only
+- Bún riêu Hai Khiêm is a shop name inside the 24 May 2024 Vietnam.vn roundup. do not publish as a pick (S24).
