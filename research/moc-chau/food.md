@@ -163,3 +163,105 @@ Restaurant, hotel, and brand names that only located a street or a product. Each
 - Under strawberries: TITC names Chimi strawberry farm (S5). Bao Van Hoa names HTX Bon Bon and HTX Vặt Hồng as gardens opened for picking during the January 2026 flower program (S10). do not publish as a pick. The gardens are the area in the attractions file, not these names.
 - Under tea: Lea Gardent, Công ty chè Cờ Đỏ, and Khách sạn Mộc Sương appear in the 2019 route (S19). do not publish as a pick.
 - Glenda Tower is named only as a party on a 2023 press trip (S8). do not publish as a pick.
+
+## Added 23 Oct 2026
+
+The 21 Oct list stayed. These names were added from S24–S29 and from a re-read of S5, S8, and S13. Streets do not count as dishes. No stall price was copied. Restaurant names in S27 are not picks.
+
+Kept as one plate, not two: pa pỉnh tộp, cá suối, and cá suối nướng. Xôi ngũ sắc and xôi lá màu. Fresh yogurt is three named cups, not one cup.
+
+Kept apart because the sources use different names: thịt hun khói, thịt trâu gác bếp, thịt trâu khô, bò hun khói. Lạp xưởng gác bếp and lạp trâu. Gà nướng and gà mọ. Cải mèo and cải ngồng. Rượu cần, rượu men lá, rượu ngô, rượu hoẵng, rượu táo mèo. Mận hậu and mận sấy dẻo. Rau rừng and nộm rau rừng. Lợn mán, thịt lợn lửng, and thịt lợn sấy.
+
+### Plain yogurt, black sticky-rice yogurt, passion-fruit yogurt
+- Vietnamese name: Sữa chua nguyên kem, sữa chua nếp cẩm, sữa chua chanh leo
+- What it is: Three cups in one 3-star OCOP set (S13, re-read 23 Oct 2026)
+- How to eat it: Cold, in the farm town. A recipe — Check on arrival — UNSOURCED
+- When to order it: Morning cup. Exact stall hours — Check on arrival — UNSOURCED
+- Area, not a shop: Tiểu khu 34, xã Tân Lập, on that day’s names. The household is not a pick.
+- Sources: S13
+
+### Fresh milk
+- Vietnamese name: Sữa tươi
+- What it is: Named with yogurt and bánh sữa (S28). The dairy farm is where visitors make dairy products (S5).
+- How to eat it: As a drink in the farm town
+- When to order it: Daytime. Dat Viet Tour and Kenh Homestay both print 08:00–18:00 and disagree on the gate, 20,000 VND and 10,000 VND (S21, S22). Neither is the company’s notice. Check on arrival.
+- Area, not a shop: Farm town
+- Sources: S28, S5, S21, S22
+
+### Milk cake
+- Vietnamese name: Bánh sữa
+- What it is: Named with the dairy foods (S28). A recipe — Check on arrival — UNSOURCED
+- Area, not a shop: Farm town
+- Sources: S28
+
+### Plateau tea
+- Vietnamese name: Chè / trà Mộc Châu, including oolong
+- What it is: The hill cup. Ceremony and processing at Moc Suong (S1). Newer oolong beside older plantings (S19). Premium oolong on the summer note (S24).
+- How to eat it: As a drink at the tea ground
+- Area, not a shop: Tân Lập and Mộc Sương
+- Sources: S1, S19, S24, S27
+
+### Hau plum, dried plum, dried mango
+- Vietnamese name: Mận hậu, mận sấy dẻo, xoài sấy dẻo
+- What it is: Fresh fruit at Na Ka (S11, S12, S24, S25). Dried plum and dried mango are the 3-star pair at Chiềng Sơn (S13). Not the same bite.
+- When to order it: Blossom at Na Ka from the middle of January to the end of February, fruit from March to May (S25). The 2026 harvest festival was 23–24 May. The next week moves — Check on arrival
+- Sources: S11, S12, S13, S24, S25
+
+### Strawberries, navel oranges, persimmons, apricots, peaches
+- Vietnamese name: Dâu tây, cam rốn, hồng, mơ, đào
+- What it is: Fruit Vietnam Tourism says visitors pick and sample (S25). Strawberries are also a picnic at the Ban Ang pine forest (S25). S5 names strawberry farms. A brand is not a pick.
+- When to order it: A season for the five, other than the plum weeks, — Check on arrival — UNSOURCED
+- Sources: S25, S5
+
+### Hearth-smoked buffalo, dried buffalo, smoked beef, hearth sausage, buffalo lap
+- Vietnamese name: Thịt trâu gác bếp, thịt trâu khô, bò hun khói, lạp xưởng gác bếp, lạp trâu
+- What it is: Five names. Buffalo over the hearth (S26, S28). Dried buffalo and hearth sausage at the night market (S8). Smoked beef to carry (S27). Buffalo lap in the Thai set (S29).
+- How to eat it: Dried buffalo and the hearth sausage go with a cup of strong wine at the night market (S8). Smoke times — Check on arrival — UNSOURCED
+- Area, not a shop: Plateau table, and the night market for the dried buffalo and the sausage
+- Sources: S26, S28, S8, S27, S29
+
+### Five-colour sticky rice, love sticky rice
+- Vietnamese name: Xôi ngũ sắc, xôi tình yêu
+- What it is: Two sticky rices. Five-colour is S26, S28, and “colourful five-grain sticky rice” (S24). Love rice is the Ban Ang name (S14, S29). Xôi lá màu (S26) is not described as a third plate.
+- How to eat it: With the meal. Dyes and the reason for the love-rice name — Check on arrival — UNSOURCED
+- Sources: S14, S24, S26, S28, S29
+
+### Banh day, thang co, canh bon, soured meat, nam pia
+- Vietnamese name: Bánh dày, thắng cố, canh bon, thịt chua, nậm pịa
+- What it is: Hmong cake and pot (S26, S29, and S9, S10 for the cake pounding). Canh bon with Thai and Muong dishes (S26). Dao soured meat (S26, S29). Nậm pịa (S27, S28, S29). Methods other than the names — Check on arrival — UNSOURCED
+- Sources: S9, S10, S26, S27, S28, S29
+
+### Cải mèo, cải ngồng, trout, lợn mán, thịt lợn lửng, thịt lợn sấy, ốc đá
+- Vietnamese name: as headed
+- What it is: Named dishes with no method on the source line. Cải mèo, trout (S28). Cải ngồng, lợn mán, ốc đá (S27). Thịt lợn lửng (S29). Thịt lợn sấy (S26).
+- How to eat it: Check on arrival — UNSOURCED
+- Sources: S26, S27, S28, S29
+
+### Grilled chicken, ga mo, ban flower, cham cheo, forest bamboo shoot, forest-green salad
+- Vietnamese name: Gà nướng, gà mọ, hoa ban, chẳm chéo, măng rừng, nộm rau rừng
+- What it is: Bản Vặt cooks grilled chicken, the salad, and chẳm chéo, and dips bamboo shoot in the sauce (S26). Gà mọ and hoa ban are names in the Thai set (S29). A method for gà mọ and hoa ban — Check on arrival — UNSOURCED
+- Area, not a shop: Bản Vặt, xã Mường Sang, for the 2023 lines. No house is a pick.
+- Sources: S26, S29
+
+### Wines
+- Vietnamese name: Rượu cần, rượu men lá, rượu ngô, rượu hoẵng, rượu táo mèo
+- What it is: Jar wine from a gourd through a bamboo tube (S1, S14). Leaf-yeast wine beside it (S14). Corn wine with the welcome (S24) and among Hmong dishes (S29). Dao wine beside soured meat (S26, S29). Táo mèo wine to carry (S27). Strength — Check on arrival — UNSOURCED
+- Sources: S1, S14, S24, S26, S27, S29
+
+### Chao calf
+- Vietnamese name: Bê chao
+- What it is: The method is now the winter handbook (S29): dairy calf about one week old, matchbox pieces, ginger, lemongrass, garlic, chili, twice through hot fat. The 2012 line (S14) still names it with no method. Both stay. Vietnam Tourism calls it flash-fried veal (S24).
+- Sources: S14, S24, S27, S28, S29
+
+### Packed cakes
+- Vietnamese name: Bánh khảo, kẹo dồi, táo mèo
+- What it is: Named to carry home (S27). Recipes — Check on arrival — UNSOURCED. Ngô on the same list is the grain, not a separate dish beside rượu ngô.
+- Sources: S27
+
+### Left off the public list
+- Safe tomato and potato, 4-star OCOP (S13). Produce, not a plate.
+- “Các loại rượu đặc sản” at the night market (S8). No drink name.
+- Chè shan tuyết and chè bát tiên. Seen on a Doc Nhanh reprint, not on S24 or S1. Not used.
+- A thương-site horse recipe for thắng cố. Not used. The animal is Check on arrival — UNSOURCED on S26 and S29.
+- Restaurant menus and their prices. do not publish as a pick.
+- The 2016 bus fare and room rates in S27. Not a current price.
