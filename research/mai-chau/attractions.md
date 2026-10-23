@@ -41,7 +41,7 @@ No town pin is stored. The published place file has a pin. No source read on 23 
 - Suggested slug: lac
 - Suggested dot: 5 — this is the night the valley is booked for
 - Photo must show: stilt houses, rice, and the valley in one frame, houses not cropped off at the roof
-- unpublished: no licensed photo in this pass
+- Photo kept 23 Oct 2026: hero `File:Cánh đồng bản Lác.jpg` (Motbit, CC BY-SA 4.0), the fields. Second frame `File:Múa quạt.jpg` (Viethavvh, public domain), fan dance on the stilt floor, description “nguồn: Bản Lác”. See `attractions/lac.md`.
 - Sources: S1, S2, S3, S5, S7, S9, S12
 
 ### Pom Coong
@@ -58,7 +58,7 @@ No town pin is stored. The published place file has a pin. No source read on 23 
 - Suggested slug: pom-coong
 - Suggested dot: 4 — the pair with Bản Lác, not a separate trip
 - Photo must show: stilt houses among the rice, the valley still in frame, not a single doorway
-- unpublished: no licensed photo in this pass
+- Photo kept 23 Oct 2026: one frame only, `File:Mai Chau - Pfahlhüttenhaus im Pomcoon Village.jpg` (Franzfoto, CC BY-SA 3.0), cloth under the floor. No second frame of this village. Public record is a card with no body. See `attractions/pom-coong.md`.
 - Sources: S1, S3, S9, S10, S11
 
 ### Ban Van
@@ -143,7 +143,7 @@ No town pin is stored. The published place file has a pin. No source read on 23 
 - Suggested slug: hang-kia-pa-co
 - Suggested dot: 4 — a different day inside the same stay, not a new place file
 - Photo must show: highland houses or the market and the ridges, not the Bản Lác rice floor pretending to be this place
-- unpublished: no licensed photo in this pass
+- Photo kept 23 Oct 2026: east and west overlooks by Greg Willis, CC BY-SA 2.0. Watermarked aerial and cloud-sea files rejected. See `attractions/hang-kia-pa-co.md`.
 - Sources: S7, S9, S10, S16
 
 ### Hang Kia – Pa Co reserve

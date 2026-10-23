@@ -1,0 +1,61 @@
+{
+  "slug": "lac",
+  "placeSlug": "mai-chau",
+  "name": "Lac village",
+  "nameVi": "Bản Lác",
+  "kicker": "White Thai village on the rice floor",
+  "summary": "Walk the White Thai lanes at Bản Lác, between the stilt houses and the rice. Stay the night if that morning is why you came. Check how long the walk takes on arrival. Skip a same-day rush from Hanoi if you want the evening on the floor.",
+  "dots": 5,
+  "district": "The valley",
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "A short walk from the town bus drop. The minutes are check on arrival.",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Rice fields at Bản Lác, with field huts and the ridge behind",
+  "notice": {
+    "title": "The night is the house",
+    "body": "A walk at midday misses the floor after dinner. Stay if the morning rice is why you came."
+  },
+  "body": [
+    "Walk the flat lanes between the houses and the paddies. Bản Lác is a White Thai village, and weaving sits out in the lanes. Sleep in a house here if the rice at the edge of the floor is the morning you came for.",
+    "The village is more than 700 years old, and guests from abroad were already staying in the 1960s. It is in xã Mai Hạ, formed from Chiềng Châu, Vạn Mai, and Mai Hạ. It was also placed in xã Chiềng Châu. Both names stay.",
+    "September to November is one harvest window, and October is the golden month. March to May is the other pleasant window. The rice also starts to turn gold in late May and early June, and is gold again in September and October. No walking ticket is published. Bicycle hire is check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "mai-chau-lac-2",
+      "caption": "A fan dance on the stilt floor at Bản Lác",
+      "alt": "Women with fans dancing on the bamboo floor of a stilt house in Ban Lac"
+    }
+  ],
+  "gettingThere": [
+    "The town bus stops a short walk from Bản Lác and Pom Coọng. If the house is in the village, you are already on the lanes. A bicycle is the way along the paths. An electric cart is the other way between villages. Cart hire is check on arrival.",
+    "From Hanoi the road is about 140 km. One timing is about three hours by car or bus via Hòa Bình. Another timing is 2.5 hours. A further set of figures is about 150 km, about 130 km from central Hanoi, and about 157 km from Nội Bài. A bus leaves from Mỹ Đình. The fare is check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the town",
+      "body": "On foot from the bus drop. The walk is short. The minutes are check on arrival. A bicycle covers the paths between the houses and the paddies. Bicycle hire is check on arrival."
+    },
+    {
+      "heading": "From Hanoi",
+      "body": "By car, bus, shuttle, or motorbike. About 140 km, and also about 150 km, about 130 km from the center, and about 157 km from Nội Bài. About three hours via Hòa Bình, and also 2.5 hours. The bus leaves from Mỹ Đình. The fare is check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival.",
+  "admissionNote": "Check on arrival. Bicycle hire and electric-cart hire are check on arrival.",
+  "links": [
+    {
+      "label": "Mai Chau",
+      "url": "https://vietnam.travel/places-to-go/northern-midlands-mountains/mai-chau",
+      "note": "Homestays, the valley paths, and the harvest window"
+    },
+    {
+      "label": "Mai Chau valley",
+      "url": "https://dulichphutho.gov.vn/diemden/thung-lung-mai-chau",
+      "note": "Valley names. Bicycle hire is check on arrival."
+    }
+  ],
+  "interests": ["rice", "photography", "family"]
+}
