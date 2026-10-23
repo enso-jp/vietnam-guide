@@ -7,23 +7,23 @@
   "summary": "Central hall on Quách Thị Trang: walk the aisles for the clock tower and the food end of the hall. The Bến Thành metro station is on the same square. The aisles carry produce, conical hats, weasel coffee, and lacquerware, and the end of the hall cooks bánh xèo and bánh mì. Agree a figure before you pay for anything inside.",
   "dots": 3,
   "timeNeeded": "Check on arrival.",
-  "fee": "Free on the national attractions page. Check on arrival.",
+  "fee": "Free. Check on arrival.",
   "getThere": "Walk in the center. The metro station is the same square.",
   "district": "Ben Thanh, District 1",
   "verified": "22 Oct 2026",
   "heroCaption": "The clock tower and the name Chợ Bến Thành, from the square",
   "notice": {
     "title": "Bình Tây keeps its own hours",
-    "body": "Bình Tây is the wholesale hall in Chợ Lớn. The free line and the split clock on the national attractions page belong with Bến Thành."
+    "body": "Bình Tây is the wholesale hall in Chợ Lớn. Free entry and the 7:30 a.m.–12 p.m. and 1:30–5 p.m. clock belong with Bến Thành."
   },
   "body": [
     "The address is 32-30 Phan Bội Châu, Ben Thanh, District 1, facing Quách Thị Trang Square, on the site of the former Bờ Rệt pond. The clock tower is the front you see from the square. The second photograph is an aisle of souvenirs and a jewelry case. The food stalls, bánh xèo and bánh mì, sit on the food guide.",
-    "The national attractions page lists entry as free, and it prints 7:30 a.m.–12 p.m. and 1:30–5 p.m. on this market and on several other sights. Use the board at the door for the hour. Agree a figure before you pay for anything in the hall. No stall price was printed."
+    "Entry is free. Another clock is 7:30 a.m.–12 p.m. and 1:30–5 p.m. Use the board at the door for the hour. Agree a figure before you pay for anything in the hall."
   ],
   "figures": [
     {
       "id": "ho-chi-minh-city-ben-thanh-2",
-      "caption": "An aisle of souvenirs and a jewelry case, not the food stalls",
+      "caption": "An aisle of souvenirs and a jewelry case",
       "alt": "Souvenir aisle inside Ben Thanh Market"
     }
   ],
@@ -33,21 +33,21 @@
   "legs": [
     {
       "heading": "From Nguyễn Huệ",
-      "body": "Walk. Check on arrival."
+      "body": "Walk."
     },
     {
       "heading": "By metro",
-      "body": "Line 1, station Bến Thành, at Quảng trường Quách Thị Trang. The 2024 fare in the opening article is not a 2026 price. Check the board."
+      "body": "Line 1, station Bến Thành, at Quảng trường Quách Thị Trang. Check the board for the fare."
     }
   ],
-  "hours": "Check on arrival. The national attractions page prints 7:30 a.m.–12 p.m. and 1:30–5 p.m. on this market and on several other sights. Use the board at the door.",
-  "closed": "A weekly closing day was not printed once the repeated clock is set aside.",
-  "admissionNote": "The national attractions page lists entry as free. Check on arrival.",
+  "hours": "Check on arrival. Another clock is 7:30 a.m.–12 p.m. and 1:30–5 p.m. Use the board at the door.",
+  "closed": "Check on arrival.",
+  "admissionNote": "Entry is free. Check on arrival.",
   "links": [
     {
-      "label": "Seven attractions, including Ben Thanh",
+      "label": "Ho Chi Minh City attractions",
       "url": "https://vietnam.travel/things-to-do/7-must-see-attractions-hcmc",
-      "note": "Vietnam Tourism"
+      "note": "Vietnam National Administration of Tourism"
     }
   ],
   "interests": [

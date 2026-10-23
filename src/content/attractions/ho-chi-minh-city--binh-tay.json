@@ -7,18 +7,18 @@
   "summary": "Wholesale hall in Chợ Lớn: walk the clock gate and the trading floor on the neighborhood circuit. The yellow gate carries the name Chợ Bình Tây. Pair the hall with Thiên Hậu on the same walk out from the cathedral square. The second frame is the stairs and the wholesale floor.",
   "dots": 4,
   "timeNeeded": "Check on arrival.",
-  "fee": "Check on arrival. No fee was printed.",
-  "getThere": "With the Chợ Lớn walk, a ride from the cathedral square. Check on arrival.",
+  "fee": "Check on arrival.",
+  "getThere": "A ride from the cathedral square on the Chợ Lớn walk.",
   "district": "Chợ Lớn",
   "verified": "22 Oct 2026",
   "heroCaption": "The yellow gate, the clock, and the name Chợ Bình Tây",
   "notice": {
     "title": "Use this hall’s own board",
-    "body": "Bến Thành’s free line and its split clock are for the central market. This wholesale hall in Chợ Lớn has its own door."
+    "body": "Bến Thành’s free entry and its split clock are for the central market. This wholesale hall in Chợ Lớn has its own door."
   },
   "body": [
-    "Chợ Lớn is the Chinese neighborhood the southern visitor page tells you to walk, and Bình Tây is the wholesale center on that walk. The photograph is the gate: the clock and the words Chợ Bình Tây. A street number was left off the pages that name the hall.",
-    "The second photograph is the interior, stairs and the wholesale floor. The unnamed food street in District 5 is a different stop, because that street’s name is not printed. Pair the hall with Thiên Hậu."
+    "Chợ Lớn is the Chinese neighborhood, and Bình Tây is the wholesale center on that walk. The photograph is the gate: the clock and the words Chợ Bình Tây. Ask at the hall for the street number.",
+    "The second photograph is the interior, stairs and the wholesale floor. Pair the hall with Thiên Hậu."
   ],
   "figures": [
     {
@@ -28,26 +28,26 @@
     }
   ],
   "gettingThere": [
-    "Ride from the cathedral square as part of the Chợ Lớn walk. Check on arrival."
+    "Ride from the cathedral square as part of the Chợ Lớn walk."
   ],
   "legs": [
     {
       "heading": "From the cathedral square",
-      "body": "A ride. Check on arrival."
+      "body": "A ride."
     },
     {
       "heading": "With Thiên Hậu",
-      "body": "The southern account pairs the market and the temple as the Chợ Lớn walk. Check on arrival."
+      "body": "The market and the temple sit on the same Chợ Lớn walk."
     }
   ],
-  "hours": "Check on arrival. No daytime hour was printed for this hall.",
-  "closed": "A weekly closing day was not printed.",
-  "admissionNote": "No fee was printed. Check on arrival. Bến Thành’s free line is for the other hall.",
+  "hours": "Check on arrival.",
+  "closed": "Check on arrival.",
+  "admissionNote": "Check on arrival. Bến Thành’s free entry is for the central hall.",
   "links": [
     {
-      "label": "Ho Chi Minh City, southern page",
+      "label": "Ho Chi Minh City",
       "url": "https://vietnam.travel/places-to-go/southern-vietnam/ho-chi-minh-city",
-      "note": "Vietnam Tourism, the Chợ Lớn walk"
+      "note": "Vietnam National Administration of Tourism"
     }
   ],
   "interests": [

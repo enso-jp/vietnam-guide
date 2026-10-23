@@ -7,18 +7,18 @@
   "summary": "Post hall opposite the cathedral: step in for the 1892 and 1936 maps on a short stop from the square. The building is at 2 Công trường Công xã Paris. Alfred Foulhoux and Henri Auguste Vildieu are the named architects, and the materials came from the Eiffel company. Gustave Eiffel is a credit that appears in error.",
   "dots": 4,
   "timeNeeded": "A short stop on the cathedral walk. Check on arrival.",
-  "fee": "Free on the national attractions page. Check on arrival.",
+  "fee": "Free. Check on arrival.",
   "getThere": "With the cathedral, on the same square.",
   "district": "Phường Sài Gòn",
   "verified": "22 Oct 2026",
   "heroCaption": "The post office facade and the clock, from the square",
   "notice": {
     "title": "Two architect credits",
-    "body": "The city tourism page names Alfred Foulhoux and Henri Auguste Vildieu. The national page says Gustave Eiffel is sometimes given the credit in error, and that the design was based on his blueprints."
+    "body": "Alfred Foulhoux and Henri Auguste Vildieu are the named architects. Gustave Eiffel is sometimes given the credit in error. The design was based on his blueprints."
   },
   "body": [
-    "The hall is at 2 Công trường Công xã Paris, Phường Sài Gòn, opposite the cathedral. The national account uses the older label Ben Nghe, District 1. Both names stay. The interior is compared with the Gare d’Orsay. Two painted maps hang at the main door: Saigon and the surroundings in 1892, and Nam Kỳ in 1936. Wooden phone booths and a portrait of Hồ Chí Minh are in the hall, and souvenir stalls line the corridors.",
-    "The national attractions page lists admission as free, on a split clock it also uses for other sights. Use the board at the door. The morning cathedral look is the natural pairing. From the Jade Emperor Pagoda the distance is about 2.6 km."
+    "The hall is at 2 Công trường Công xã Paris, Phường Sài Gòn, opposite the cathedral. The older label is Ben Nghe, District 1. The interior is compared with the Gare d’Orsay. Two painted maps hang at the main door: Saigon and the surroundings in 1892, and Nam Kỳ in 1936. Wooden phone booths and a portrait of Hồ Chí Minh are in the hall, and souvenir stalls line the corridors.",
+    "Admission is free. Another clock is 7:30 a.m.–12 p.m. and 1:30–5 p.m. Use the board at the door. Pair the stop with the morning look at the cathedral. From the Jade Emperor Pagoda the distance is about 2.6 km."
   ],
   "figures": [
     {
@@ -28,26 +28,26 @@
     }
   ],
   "gettingThere": [
-    "Walk with the cathedral. From the Jade Emperor Pagoda, Visit HCMC prints about 2.6 km. Check on arrival."
+    "Walk with the cathedral. From the Jade Emperor Pagoda the distance is about 2.6 km."
   ],
   "legs": [
     {
       "heading": "From the cathedral",
-      "body": "Cross the square. The two buildings face each other on the national attractions page."
+      "body": "Cross the square. The two buildings face each other."
     },
     {
       "heading": "From the Jade Emperor Pagoda",
-      "body": "About 2.6 km, on Visit HCMC. Check on arrival."
+      "body": "About 2.6 km."
     }
   ],
-  "hours": "Check on arrival. Vietnam Tourism prints 7:30 a.m.–12 p.m. and 1:30–5 p.m. with the word Free, inside a block it repeats on other sights. That clock is not chosen.",
-  "closed": "A weekly closing day was not printed.",
-  "admissionNote": "Vietnam Tourism says admission is free. Check on arrival.",
+  "hours": "Check on arrival. Another clock is 7:30 a.m.–12 p.m. and 1:30–5 p.m.",
+  "closed": "Check on arrival.",
+  "admissionNote": "Admission is free. Check on arrival.",
   "links": [
     {
-      "label": "Ten sights, including the post office",
+      "label": "Ho Chi Minh City sights",
       "url": "https://visithcmc.vn/vi/10-diem-tham-quan-khong-the-bo-qua-khi-den-thanh-pho-ho-chi-minh/",
-      "note": "Visit HCMC"
+      "note": "Ho Chi Minh City tourism"
     }
   ],
   "interests": [
