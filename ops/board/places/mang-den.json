@@ -26,8 +26,8 @@
     },
     "destinationCopy": {
       "status": "enriched",
-      "note": "Owner-requested traveler-voice pass on held place (claim refused: stage already enriched). Place prose, FAQs, season, itinerary prose rewritten from the dossier without source narration. Check on arrival kept to fields. Dining and F&B card added first (com-lam photo) to open /food/mang-den. New Kon Pring 3:4 interest crop. Hero stays Pa Sy. Lat and lng unset. Dots unchanged. Food left to PR #253. destinationQuality needs a fresh read.",
-      "updated": "2026-10-23T13:40:19.599Z",
+      "note": "Owner-requested traveler-voice pass on held place (claim refused: stage already enriched). Place prose, FAQs, season, itinerary prose rewritten from the dossier without source narration. Check on arrival kept to fields. Dining and F&B card added first with the mang-den--ga-nuong-com-lam photo, opening /food/mang-den. New Kon Pring 3:4 interest crop. Hero stays Pa Sy. Lat and lng unset. Dots unchanged. Food untouched (PR #253). destinationQuality needs a fresh read.",
+      "updated": "2026-10-23T13:41:44.065Z",
       "reworkCount": 0
     },
     "destinationQuality": {
@@ -257,6 +257,14 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-23T13:41:44.065Z",
+      "place": "mang-den",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Owner-requested traveler-voice pass on held place (claim refused: stage already enriched). Place prose, FAQs, season, itinerary prose rewritten from the dossier without source narration. Check on arrival kept to fields. Dining and F&B card added first with the mang-den--ga-nuong-com-lam photo, opening /food/mang-den. New Kon Pring 3:4 interest crop. Hero stays Pa Sy. Lat and lng unset. Dots unchanged. Food untouched (PR #253). destinationQuality needs a fresh read."
+    },
+    {
       "at": "2026-10-23T13:40:19.675Z",
       "place": "mang-den",
       "stage": "copy",
@@ -407,14 +415,6 @@
       "item": "mang-den--dak-ke-lake",
       "status": "enriched",
       "note": "Finished sight page from the dossier. Fee and hours are Check on arrival. Second frame is blossom over the same lake."
-    },
-    {
-      "at": "2026-10-23T06:23:07.460Z",
-      "place": "mang-den",
-      "stage": "quality",
-      "item": "mang-den--pa-sy-waterfall",
-      "status": "skipped",
-      "note": "No public sight file. The place hero is the Pa Sy waterfall frame."
     }
   ]
 }
