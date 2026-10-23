@@ -28,3 +28,9 @@ The place page calls Hà Giang a border province and an official Frontier Area (
 ## Season limit on the journey
 
 Best-time chip on the place page: Sep–Nov. Terraced rice turns golden in September. Buckwheat blooms from October to November. Cool all year, cold winters, wet slippery roads from May to August (S2). The loop page also says October to December for purple buckwheat, February to March for spring flowers, and September and October for golden rice (S3). UNESCO says buckwheat from October to November, and peach and plum blossoms from January to February (S8). The buckwheat feature says white blooms in late September, pink as October slides into November, deep red by the end of December, and a festival typically in mid-to-late November (S7). All of those windows stay. Do not pick one month. A closure on a given day: Check on arrival.
+
+## Route findings, 23 Oct 2026 (route pages pass)
+
+- Hà Nội to Hà Giang, second source | Wikivoyage “Ha Giang”, Get in: buses from My Dinh, Gia Lam, and Giap Bat; limousine or sleeper buses with Old Quarter pickup, about 6–7 hours. https://en.wikivoyage.org/wiki/Ha_Giang, accessed 23 Oct 2026. Secondary source. Its fare is not used.
+- Cao Bằng to Hà Giang | Wikivoyage “Ha Giang Loop”: from Mèo Vạc take ĐT217 through the Gâm valley to Bảo Lạc, then QL34 west 125 km to Ha Giang. https://en.wikivoyage.org/wiki/Ha_Giang_Loop, accessed 23 Oct 2026. Cao Bằng city to Bảo Lạc — Check on arrival — UNSOURCED.
+- 12go route page https://12go.asia/en/travel/hanoi/ha-giang opened 23 Oct 2026 and lists buses and vans. https://12go.asia/en/travel/cao-bang/ha-giang also lists vans; not used as a source for a mode or a time.

@@ -75,3 +75,7 @@ Heritage-board discounts from 17 Jul 2023, a different instrument (S8):
 The port sentence says 7 to 15 (S7). The board sentence says 7 to under 16 (S8). Both stay. A cave does not have its own opened price. From 10 Dec 2025 the tourism page says a bay ticket needs an identity card or a passport (S31).
 
 About 3.5 million bay visits in 2025, nearly 9 percent above 2024 (S31). One source.
+
+## Route findings, 23 Oct 2026 (route pages pass)
+
+- Hạ Long to Cát Bà | Wikivoyage “Cat Ba” gives around one hour for the Tuần Châu – Gia Luận ferry (updated Feb 2023), https://en.wikivoyage.org/wiki/Cat_Ba, accessed 23 Oct 2026. Second source for a minute not found. The Hải Phòng portal puts Gia Luận about 20 km from Cát Bà town, https://haiphong.gov.vn/di-tich-danh-thang/lung-linh-canh-sac-tien-gioi-624611, accessed 23 Oct 2026.

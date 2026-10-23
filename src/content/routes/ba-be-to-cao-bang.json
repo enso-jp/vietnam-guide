@@ -1,0 +1,31 @@
+{
+  "slug": "ba-be-to-cao-bang",
+  "name": "Ba Be to Cao Bang",
+  "from": "Ba Be",
+  "to": "Cao Bang",
+  "summary": "Go by road. Coaches on the Hanoi–Cao Bang line often pass the lake, or you can hire a car or van at Ba Be. There is no rail or air link at either end.",
+  "modes": [
+    {
+      "mode": "Bus",
+      "duration": "Check on arrival",
+      "note": "Coaches on the Hanoi–Cao Bang line often pass the lake. Ask at your homestay where and when to board."
+    },
+    {
+      "mode": "Hired car or van",
+      "duration": "Check on arrival",
+      "note": "Cars and vans of 4 to 45 seats can be booked through the Ba Be tourism centre."
+    }
+  ],
+  "seoTitle": "Ba Be to Cao Bang — bus or hired car",
+  "seoDescription": "Ba Be Lake to Cao Bang is a road trip: Hanoi–Cao Bang coaches that pass the lake, or a car or van hired at Ba Be.",
+  "faqs": [
+    {
+      "q": "Is there a train or a flight?",
+      "a": "No. There is no railway or airport at either end."
+    },
+    {
+      "q": "Can I do it the other way, Cao Bang to Ba Be?",
+      "a": "Yes. Ba Be sits between Cao Bằng and Hà Nội, so it works as a stop on the way back south."
+    }
+  ]
+}

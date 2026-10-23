@@ -1,0 +1,37 @@
+{
+  "slug": "hanoi-to-mai-chau",
+  "name": "Hanoi to Mai Chau",
+  "from": "Hanoi",
+  "to": "Mai Chau",
+  "summary": "Take a bus, shuttle, or car on the road through Hoa Binh, about 140 km and two and a half to three hours. Leave in the morning to see the valley from Thung Khe pass on the way in.",
+  "modes": [
+    {
+      "mode": "Bus or shuttle",
+      "duration": "About 2.5 to 3 hours",
+      "note": "Buses leave Bến xe Mỹ Đình, and shuttles also run. Local buses stop in Mai Châu town, a short walk from Bản Lác and Pom Coọng. Check the fare when you book.",
+      "partner": "bus",
+      "partnerPath": "hanoi/mai-chau"
+    },
+    {
+      "mode": "Car or motorbike",
+      "duration": "About 2.5 to 3 hours",
+      "note": "About 140 km via Hòa Bình. Thung Khe pass gives the first view of the valley, so drive it in the morning."
+    }
+  ],
+  "seoTitle": "Hanoi to Mai Chau — bus, shuttle, or car",
+  "seoDescription": "Hanoi to Mai Chau is about 140 km by road via Hoa Binh: buses from My Dinh, shuttles, and the drive over Thung Khe pass.",
+  "faqs": [
+    {
+      "q": "Is there a train to Mai Chau?",
+      "a": "No. Go by road."
+    },
+    {
+      "q": "Does rain affect the road?",
+      "a": "The June–August monsoon can flood local roads. Check conditions on the day."
+    },
+    {
+      "q": "What about going back to Hanoi?",
+      "a": "Use the same road east through Hòa Bình. Ask at your homestay for the current bus or shuttle."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "ha-long-to-cat-ba",
+  "name": "Ha Long to Cat Ba",
+  "from": "Ha Long",
+  "to": "Cat Ba",
+  "summary": "Take the car ferry from Tuan Chau to Gia Luan on the north tip of Cat Ba, about an hour, then a bus or taxi across the island to town. There are fewer sailings in the low season, so check the day’s departures before you go.",
+  "modes": [
+    {
+      "mode": "Ferry Tuần Châu – Gia Luận",
+      "duration": "About 1 hour",
+      "note": "More sailings run from late April to early September than in the low season. Check the day’s departures. The ferry takes motorbikes and cars. A bus meets it at Gia Luận for the 20 km across the national park to Cát Bà town.",
+      "partner": "ferry"
+    },
+    {
+      "mode": "Fast boat from Tuần Châu",
+      "duration": "Check on arrival",
+      "note": "Fast boats from Tuần Châu take a shortcut of about 7 km across the water to Cát Bà."
+    },
+    {
+      "mode": "Bus and boat ticket",
+      "duration": "Check on arrival",
+      "note": "Combined boat-and-bus tickets between Cát Bà town and Hạ Long are sold on the waterfront square by the pier.",
+      "partner": "bus",
+      "partnerPath": "halong/cat-ba"
+    }
+  ],
+  "seoTitle": "Ha Long to Cat Ba — Tuan Chau ferry, fast boat, or bus and boat",
+  "seoDescription": "How to cross from Ha Long to Cat Ba: the Tuan Chau–Gia Luan car ferry, fast boats, and the road across the island to town.",
+  "faqs": [
+    {
+      "q": "How do I get back from Cat Ba to Ha Long?",
+      "a": "Take the ferry from Gia Luận to Tuần Châu. The bus from town leaves about an hour before the ferry. No city bus runs from Tuần Châu into Hạ Long, so take a taxi or Grab."
+    },
+    {
+      "q": "Can I take a motorbike across?",
+      "a": "Yes. The Tuần Châu – Gia Luận ferry carries motorbikes and cars."
+    }
+  ]
+}

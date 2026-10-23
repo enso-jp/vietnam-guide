@@ -69,3 +69,9 @@ The ferry notice says the pier day can move with the weather. It does not print 
 The car pause above is a sourced limit, through 30 September 2026 (S6).
 
 The park’s Lan Hạ page says April to June is calm and clear for boats, and from September the bay is quieter (S12b). The December 2022 page says autumn light is when Lan Hạ is at its best on that page (S12). The 8 January 2016 city article says winter beaches are thin of crowds and names hiking, kayak, and the walk to Việt Hải as winter activities (S18). Do not collapse these into one “best months” line.
+
+## Route findings, 23 Oct 2026 (route pages pass)
+
+- Tuần Châu – Gia Luận ferry | Wikivoyage “Cat Ba”, By ferry: around one hour; five sailings a day 25 Apr–5 Sep and three in the low season; a bus meets the ferry at Gia Luận; the town bus leaves one hour before the return ferry; no city bus from Tuần Châu into Hạ Long. Updated Feb 2023. https://en.wikivoyage.org/wiki/Cat_Ba, accessed 23 Oct 2026. Secondary source. The clocks and fares are dated and were not published.
+- Gia Luận to the town | Cổng thông tin Hải Phòng, “Lung linh cảnh sắc tiên giới”: from thị trấn Cát Bà about 20 km through the national park to Gia Luận, which has the ferry to Tuần Châu. https://haiphong.gov.vn/di-tich-danh-thang/lung-linh-canh-sac-tien-gioi-624611, accessed 23 Oct 2026. Road minutes — Check on arrival — UNSOURCED.
+- https://12go.asia/en/travel/halong/cat-ba opened 23 Oct 2026 and lists bus-and-boat services. Its times were not used.

@@ -1,0 +1,33 @@
+{
+  "slug": "mai-chau-to-moc-chau",
+  "name": "Mai Chau to Moc Chau",
+  "from": "Mai Chau",
+  "to": "Moc Chau",
+  "summary": "Stay on National Highway 6. It climbs out of the Mai Chau valley over Thung Khe pass and into Son La province to the Moc Chau plateau. Buses heading for Son La use the same road.",
+  "modes": [
+    {
+      "mode": "Bus",
+      "duration": "Check on arrival",
+      "note": "Buses between Hà Nội and Sơn La or Điện Biên run National Highway 6 past the Mai Châu turn-off and on to Mộc Châu. Ask the driver to stop at the turn-off.",
+      "partner": "bus",
+      "partnerPath": "mai-chau/moc-chau"
+    },
+    {
+      "mode": "Car or motorbike",
+      "duration": "Check on arrival",
+      "note": "National Highway 6 crosses Thung Khe pass and enters Sơn La province through Vân Hồ."
+    }
+  ],
+  "seoTitle": "Mai Chau to Moc Chau — National Highway 6 over Thung Khe",
+  "seoDescription": "Mai Chau to Moc Chau runs on National Highway 6 over Thung Khe pass to the plateau, by bus, car, or motorbike.",
+  "faqs": [
+    {
+      "q": "Is the Hoa Binh–Moc Chau expressway open?",
+      "a": "No. It is still under construction, with opening planned for the first quarter of 2028. Use National Highway 6."
+    },
+    {
+      "q": "Can I go the other way, Moc Chau to Mai Chau?",
+      "a": "Yes. Take National Highway 6 southeast over Thung Khe pass into the Mai Chau valley."
+    }
+  ]
+}
