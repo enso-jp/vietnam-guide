@@ -83,4 +83,4 @@ Dossier S1, S2, S6, S7, S9, S20. See `research/pu-luong/sources.md`.
 
 ## Dot
 
-Proposed 5 on this new record. The terraces are the picture the night is for. The place dot stays 4.
+Proposed 5 on this new record. The terraces are the picture the night is for. The place dot stays 4. The public dot was not changed on 23 Oct 2026. The public JSON was left as published.

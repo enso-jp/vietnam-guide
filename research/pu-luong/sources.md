@@ -151,3 +151,15 @@ Pages opened and not used as facts: the highland-food URL on csdl.thanhhoa.trave
 - Publisher: Tạp chí Sở hữu trí tuệ, 12 Jul 2024, 07:45
 - Accessed: 23 Oct 2026
 - Supports: Thai-Muong dishes of Thác Hiêu: vịt Cổ Lũng, xôi hấp gà Kho Mường, lá sắng, măng đắng, sâu măng. The same sentence is in the Báo Thanh Hóa account already filed as S11. The department reprint URL returned 504 on this date.
+
+### S25
+- URL: https://baothanhhoa.vn/hang-doi-kiet-tac-giua-dai-ngan-pu-luong-257411.htm
+- Publisher: Báo Thanh Hóa, Hoàng Đông, 1 Aug 2025, 21:13
+- Accessed: 23 Oct 2026
+- Supports: Hang Dơi at bản Kho Mường, old xã Thành Sơn. More than 25 km from Cành Nàng, one article only. A quoted visitor says the cave has no coloured lights, no cement, and has not been turned into a show cave. No ticket and no clock. Used to reject the unnamed railed cave photographs.
+
+### S26
+- URL: https://vhds.baothanhhoa.vn/binh-yen-cao-son-21188.htm
+- Publisher: Báo Thanh Hóa, Việt Hương and Tiến Đông, 3 Oct 2021, 10:40 GMT+7
+- Accessed: 23 Oct 2026
+- Supports: The lede only. The body did not decode. Cao Sơn in old Lũng Cao is the common name for the three hamlets Son, Bá, and Mười. No fee and no hour were read.
