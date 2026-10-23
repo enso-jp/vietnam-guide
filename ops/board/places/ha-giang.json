@@ -19,21 +19,21 @@
   },
   "stages": {
     "destination": {
-      "status": "shell",
-      "note": "A place file exists. It has not been set up from a stored dossier.",
-      "updated": null,
+      "status": "paged",
+      "note": "Place from the stored dossier. Corridor northern-midlands. Lat and lng left unset. Hero stays the twin hills.",
+      "updated": "2026-10-23T07:06:07.865Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:27:31.305Z",
+      "status": "enriched",
+      "note": "Both Hanoi durations, both palace distances, and the season windows stay in the prose.",
+      "updated": "2026-10-23T07:06:07.932Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:27:31.305Z",
+      "status": "checked",
+      "note": "Hero is the Quan Ba twin hills. Dots 5. Lat and lng unset. No invented fee.",
+      "updated": "2026-10-23T07:06:07.997Z",
       "reworkCount": 0
     },
     "food": {
@@ -1200,6 +1200,30 @@
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-23T07:06:07.998Z",
+      "place": "ha-giang",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Hero is the Quan Ba twin hills. Dots 5. Lat and lng unset. No invented fee."
+    },
+    {
+      "at": "2026-10-23T07:06:07.932Z",
+      "place": "ha-giang",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Both Hanoi durations, both palace distances, and the season windows stay in the prose."
+    },
+    {
+      "at": "2026-10-23T07:06:07.866Z",
+      "place": "ha-giang",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place from the stored dossier. Corridor northern-midlands. Lat and lng left unset. Hero stays the twin hills."
+    },
     {
       "at": "2026-10-23T06:27:31.305Z",
       "place": "ha-giang",

@@ -1,0 +1,52 @@
+{
+  "slug": "ha-giang-pass",
+  "title": "Dong Van and Ma Pi Leng",
+  "kind": "trip",
+  "level": "day",
+  "duration": "2 days",
+  "spanDays": 2,
+  "placeSlug": "ha-giang",
+  "budget": "Check on arrival",
+  "pace": "The pass morning, after a night in Dong Van",
+  "photo": "ha-giang-ma-pi-leng",
+  "summary": "Sleep in Đồng Văn, walk the old quarter, then give the morning to Mã Pì Lèng. The four-day loop is the longer trip. This plan is the stone town and the pass.",
+  "days": [
+    {
+      "title": "Day 1 — Đồng Văn",
+      "body": "Breakfast in town is phở, then the road toward Đồng Văn. The four-day page reaches the stone town after Sà Phìn, the food and fuel stop, and the Hmong palace. Walk the old quarter, about 40 houses from 1890, and use the market at night or early morning. Sunday is the big market. Arrive before sunset.",
+      "placeSlug": "ha-giang",
+      "photo": "ha-giang-dong-van"
+    },
+    {
+      "title": "Day 2 — Mã Pì Lèng",
+      "body": "Mèo Vạc is 24 km from Đồng Văn and takes most of a morning if you stop. The pass rises to 1,200 metres above the Nho Quế. Stop only where the road allows. Do not ride it after dark.",
+      "placeSlug": "ha-giang",
+      "photo": "ha-giang-ma-pi-leng"
+    }
+  ],
+  "stops": [
+    {
+      "name": "Pho",
+      "minutes": 30,
+      "placeSlug": "ha-giang",
+      "dishSlug": "pho",
+      "note": "Breakfast in town on the morning you ride toward Đồng Văn."
+    },
+    {
+      "name": "Dong Van",
+      "minutes": 90,
+      "placeSlug": "ha-giang",
+      "attractionSlug": "dong-van",
+      "note": "Walk the old quarter. UNESCO counts about 40 houses from 1890. Arrive before sunset. Sunday is the market."
+    },
+    {
+      "name": "Ma Pi Leng Pass",
+      "minutes": 180,
+      "placeSlug": "ha-giang",
+      "attractionSlug": "ma-pi-leng",
+      "note": "Most of a morning with the stops. Mèo Vạc is 24 km from Đồng Văn. The pass rises to 1,200 metres. Stop only where the road allows."
+    }
+  ],
+  "seoTitle": "Dong Van and Ma Pi Leng in two days",
+  "seoDescription": "A two-day Ha Giang plan: the old quarter in Dong Van, then Ma Pi Leng, 24 km and most of a morning on the way to Meo Vac."
+}

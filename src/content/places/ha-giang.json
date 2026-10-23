@@ -5,110 +5,249 @@
   "kind": "area",
   "corridor": "northern-midlands",
   "province": "Tuyen Quang",
-  "provinceNote": "Ha Giang province was merged into Tuyen Quang in 2025. The loop and the town are still called Ha Giang.",
-  "lat": 22.823,
-  "lng": 104.983,
+  "provinceNote": "The former Hà Giang province is in Tuyên Quang after Resolution 202/2025/QH15. The loop and the town are still called Ha Giang.",
   "dots": 5,
   "dotReason": "Worth building a day around",
-  "summary": "The Ha Giang Loop is a mountain road through Vietnam’s far north: passes, minority markets, and buckwheat flowers in autumn. It is a motorbike journey for licensed riders, or a car with a driver. The town of Ha Giang is only the starting point.",
+  "summary": "You come for the road: rice terraces and two rounded hills at Quản Bạ, then the karst, Đồng Văn’s stone town, and Mã Pì Lèng above the Nho Quế. Stay for the loop if that ride is the trip. Choose Sa Pa if you want a highland town instead of four days on the passes. Hà Giang town is the night the bus arrives.",
   "timeNeeded": "4 days for the loop",
-  "fee": "A permit is required for the northern districts; your driver or hotel usually arranges it",
-  "getThere": "Sleeper bus from Hanoi, about 6–8 hours, or a longer ride via Sapa",
-  "bestMonths": "October to November for flowers; March to May and September are the kinder road months",
-  "verified": "19 Oct 2026",
+  "fee": "No single loop ticket. A border-area permit is Check on arrival.",
+  "getThere": "Bus or car from Hanoi, about six hours or about six to seven. Road only.",
+  "bestMonths": "September to November, plus the other flower windows",
+  "verified": "23 Oct 2026",
   "interests": {
+    "food": 5,
     "motorbike": 5,
     "mountains": 5,
     "photography": 5,
-    "markets": 4,
-    "rice": 3
+    "rice": 4,
+    "markets": 4
   },
   "cover": "highlands",
   "nearby": [
+    "hanoi",
     "sapa",
-    "hanoi"
+    "cao-bang",
+    "ba-be"
   ],
-  "routeSlugs": [
-    "hanoi-to-sapa"
-  ],
+  "routeSlugs": [],
   "itinerarySlugs": [
+    "ha-giang-pass",
     "north-7-days"
   ],
-  "seoTitle": "Ha Giang Loop travel guide",
-  "seoDescription": "What the Ha Giang Loop is, how many days it takes, and how the 2025 province merger changes the name on the map.",
+  "seoTitle": "Ha Giang Loop — Dong Van, Ma Pi Leng, and the town",
+  "seoDescription": "Ride the Ha Giang Loop for the karst road: about six hours or six to seven from Hanoi, Quan Ba terraces, Dong Van’s old quarter, and Ma Pi Leng at 1,200 metres.",
   "intro": [
-    "Ha Giang town is a provincial stop on the Lo River. The journey people come for leaves town toward Quan Ba, Yen Minh, Dong Van, and Meo Vac, then back on a different road. The Ma Pi Leng pass is the famous stretch.",
-    "This is not a casual scooter day. Roads are steep, weather changes fast, and a Vietnamese motorcycle license is what makes the ride legal. EasyRider-style trips with a driver are the usual choice for visitors who do not hold one. Book a driver who includes the border-district permit."
+    "The morning picture is Quản Bạ. Two rounded hills sit over the terraces, with karst in the cloud. The loop runs on through Yên Minh, Đồng Văn, and Mèo Vạc. Mã Pì Lèng is the high road, and UNESCO puts the pass at 1,200 metres. That elevation is the pass. GeoNames gives the former city seat about 107 metres on SRTM3 and 115 metres on ASTER. Both figures stay with the town. The pass is not the town.",
+    "Give the loop four days. Vietnam Tourism’s four-day road follows QL4C northeast from the town to Bảo Lâm, and QL34 southwest back. Mèo Vạc is 24 km from Đồng Văn and takes most of a morning if you stop. Experienced drivers can rent a motorcycle in town, or take a seat behind a rider, or a private car. Do not ride alone. Take a local driver. Ride in daylight and stop after dark. The license class is Check on arrival.",
+    "Breakfast in town, on the morning you ride toward Đồng Văn, is phở. In Đồng Văn, bánh cuốn is the breakfast on Phố Cổ. The highland pots are thắng cố, mèn mén, and cháo ấu tẩu. Where the recipes disagree, every version is on the food guide. Sunday fills the markets at Đồng Văn and Mèo Vạc. The evening in Đồng Văn is that market, at night or early morning. In town, the night is sleep before an early start.",
+    "Sà Phìn is the food and fuel stop before Đồng Văn. The Hmong palace there carries three dates. The Tân Mỹ commune article says work began in 1898 and finished in 1907. The Vietnam Tourism place page says it was built in 1902. The loop page says nearly 100 years ago. The loop page puts the palace about 14 km from Đồng Văn town. The commune article says about 15 km from the center of xã Đồng Văn. The same article gives more than 1,200 square metres of building on a site of about 3,000 square metres, and also calls the whole residence about 3,000 square metres. The Tân Mỹ commune article gives 7:30–17:00 every day, about 20,000 đồng for an adult, and free under 1.2 m. The fee says about. Check on arrival.",
+    "Lũng Cú is a three-hour detour on the four-day page. The place page says 200 steps and late afternoon. The fee is Check on arrival. The way back sleeps in Bảo Lâm and eats at the stalls in Bắc Mê. Du Già in June is a twin-stream fall and a swim. Hoàng Su Phì in June is flooded terraces, the mirror of the sky, farmed by Dao, Nùng, and La Chí. September gold on the place page is a different window. UNESCO counts 17 ethnic groups. The loop page counts 19. The geopark office is at Số 2A, đường Bạch Đằng, phường Hà Giang 1, tỉnh Tuyên Quang."
   ],
   "gettingAround": [
-    "Sleeper buses from Hanoi arrive in Ha Giang town overnight. Start the loop the next morning, not the hour you arrive. Fuel and meals are in the small towns. Do not plan to ride after dark."
+    "Day buses and sleeper buses leave Bến xe Mỹ Đình in Hà Nội. The adventures page says about six hours. The place page says about six to seven hours by car or sleeper bus. Both stay. The loop page says the highlands are about 300 km north of Hà Nội and can only be reached by road. The fare is Check on arrival. Rail is Check on arrival. Fuel and meals are in the small towns. Start in daylight."
   ],
   "stayAreas": [
     {
-      "name": "Dong Van or Meo Vac",
-      "summary": "The logical overnight on a three- to four-day loop, closer to the pass.",
-      "band": "Simple hotels and homestays"
-    },
-    {
-      "name": "Ha Giang town",
-      "summary": "Only for the night you arrive and the night you leave.",
-      "band": "Town hotels"
+      "name": "Dong Van",
+      "summary": "The overnight on the high plateau, in the stone town before the pass. The four-day road stays overnight here. Yên Minh is the first night on that road, Mèo Vạc is the town after the pass, Bảo Lâm is the return night, and the bus night is in Hà Giang town.",
+      "band": "Simple inns and homestays",
+      "photo": "ha-giang-dong-van"
     }
   ],
   "eat": [
-    "Meals are breakfast pho, rice plates, and whatever the homestay cooks. Choice is limited in the smaller communes and that is fine."
+    "Breakfast in town is phở, before the ride toward Đồng Văn. In Đồng Văn, breakfast is bánh cuốn on Phố Cổ. The highland table is thắng cố, mèn mén, cháo ấu tẩu, and the other dishes on the food guide. Sunday is the market at Đồng Văn and Mèo Vạc."
   ],
   "dishSlugs": [
-    "pho"
+    "pho",
+    "xoi-ngu-sac",
+    "banh-tam-giac-mach",
+    "buckwheat-pancakes",
+    "buckwheat-porridge",
+    "buckwheat-noodles",
+    "buckwheat-vermicelli",
+    "buckwheat-pho",
+    "buckwheat-beer",
+    "buckwheat-wine",
+    "corn-wine",
+    "grilled-stone-moss",
+    "banh-chung-gu",
+    "ha-giang-sausages",
+    "lap-xuong-gac-bep",
+    "thang-co",
+    "men-men",
+    "grilled-corn-cakes",
+    "chao-au-tau",
+    "banh-cuon",
+    "banh-cuon-trung-dong-van",
+    "bac-me-rice",
+    "thit-trau-gac-bep",
+    "pho-chua",
+    "pho-ngo",
+    "pho-trang-kim",
+    "thang-den",
+    "thit-treo",
+    "lon-cap-nach",
+    "che-shan-tuyet",
+    "mint-honey",
+    "lau-ga-den",
+    "banh-da"
   ],
   "interestsBody": [
-    "Mountains, motorbikes, and photography define the loop. Buckwheat flowers, tam giác mạch, are the seasonal reason to time the trip for autumn."
+    "Dining is phở before the ride, bánh cuốn on Phố Cổ, and the highland pots. Where the recipes disagree, every version is on the food guide.",
+    "The loop is QL4C and QL34: Quản Bạ’s twin hills, Đồng Văn’s old quarter, and Mã Pì Lèng above the Nho Quế. Sunday is the market. The palace at Sà Phìn is the history stop."
+  ],
+  "interestCards": [
+    {
+      "title": "Dining and F&B",
+      "summary": "Breakfast is phở in town. The highland pots are thắng cố, mèn mén, and cháo ấu tẩu.",
+      "photo": "pho",
+      "icon": "food",
+      "to": "food"
+    },
+    {
+      "title": "Ma Pi Leng Pass",
+      "summary": "The rim above the Nho Quế. UNESCO puts the pass at 1,200 metres.",
+      "attractionSlug": "ma-pi-leng",
+      "photo": "ha-giang-ma-pi-leng",
+      "icon": "view"
+    },
+    {
+      "title": "Dong Van",
+      "summary": "The stone town. About 40 houses from 1890, and the market at night or early morning.",
+      "attractionSlug": "dong-van",
+      "photo": "ha-giang-dong-van",
+      "icon": "view"
+    },
+    {
+      "title": "Quan Ba twin hills",
+      "summary": "Two rounded hills over the terraces, with karst in the cloud.",
+      "placeSlug": "ha-giang",
+      "photo": "ha-giang",
+      "icon": "view"
+    }
   ],
   "interestGroups": [
     {
-      "title": "The loop",
-      "summary": "Mountains, motorbikes, and photography define the loop.",
+      "title": "Dining and F&B",
+      "summary": "Phở before the ride, and the highland table after you are on the plateau.",
       "cards": [
         {
-          "title": "Dong Van",
-          "summary": "A stone town that makes a sensible overnight. The old quarter is small.",
-          "attractionSlug": "dong-van",
-          "photo": "ha-giang-dong-van",
-          "icon": "view",
-          "block": "road"
+          "title": "Dining and F&B",
+          "summary": "Breakfast is phở in town. The highland pots are thắng cố, mèn mén, and cháo ấu tẩu.",
+          "photo": "pho",
+          "icon": "food",
+          "to": "food"
+        }
+      ]
+    },
+    {
+      "title": "The loop",
+      "summary": "The four-day road through Quản Bạ, Yên Minh, Đồng Văn, and Mèo Vạc.",
+      "blocks": [
+        {
+          "id": "road",
+          "heading": "The high road",
+          "nav": "The road",
+          "paragraphs": [
+            "QL4C leaves the town toward Quản Bạ. Heaven’s Gate is the pass lookout over the winding road, mist, and valleys. Cafe Cổng Trời is the veranda coffee on that pass. Tam Sơn, now in xã Quản Bạ, is lunch: northern fare at the stalls, and coffee. The sourced overnight that day is Yên Minh, not Tam Sơn. Pine forest stands beside QL4C. Dốc Chín Khoanh, between Yên Minh and Sà Phìn, is the curved road into the valley. Stop off the curve. The fee at the passes is Check on arrival.",
+            "Mã Pì Lèng is the rim between Đồng Văn and Mèo Vạc. The loop page puts the pass in Mèo Vạc district. UNESCO says it rises to 1,200 metres. The canyon below is Tu Sản. UNESCO says 700–800 metres and one of Southeast Asia’s deepest. The culture page says 800-metre cliffs and the deepest gorge in Southeast Asia. Both stay. Side road 193A drops closer to the river. A boat or a kayak is named for June, when the river is full. The boat fee and the boat time are Check on arrival.",
+            "The sky path above the Nho Quế is a steep walk of 500 metres, about two hours, through Flower Hmong villages. The adventures page says Happiness Road took 1,300 volunteers seven years. The buckwheat feature says the road was begun in the late 1950s and took over seven years, and does not give the volunteer count. Both stay. The fee is Check on arrival. The return on QL34 sleeps in Bảo Lâm and eats at the stalls in Bắc Mê. That valley is not Mã Pì Lèng."
+          ]
         },
         {
+          "id": "quan-ba",
+          "heading": "Quan Ba and the terraces",
+          "nav": "Quan Ba",
+          "paragraphs": [
+            "Núi đôi Quản Bạ are the two rounded hills above the terraces. The caption on the photograph is Núi đôi Quảng Bạ. The hills, the terraces, and the karst in cloud are the picture of this loop. Which 2026 commune holds the hills is Check on arrival. Xã Quản Bạ joins thị trấn Tam Sơn, xã Quyết Tiến, and xã Quản Bạ. Xã Cán Tỷ joins Bát Đại Sơn and Cán Tỷ.",
+            "Hoàng Su Phì is a different valley. In June the culture page shows flooded terraces farmed by Dao, Nùng, and La Chí. September golden rice on the place page is another window. The minutes from the loop are Check on arrival. The fee is Check on arrival. Lùng Tám, in the foothills the adventures page still calls Quản Bạ, is hemp spun, dyed, and woven, with a shop next door. The visit length and the fee are Check on arrival."
+          ]
+        },
+        {
+          "id": "town",
+          "heading": "Dong Van",
+          "nav": "Dong Van",
+          "paragraphs": [
+            "Đồng Văn is the stone town. UNESCO counts about 40 houses from 1890, a market and houses together. Walk the old quarter. Use the market at night or early morning. Sunday is the market day in Đồng Văn and Mèo Vạc. The hour is Check on arrival. Arrive before sunset. The pass and the old quarter are not the same hour. Walking the streets has no ticket on the UNESCO page. The fee is Check on arrival.",
+            "Đồn Cao is a 20-minute hike up from Đồng Văn for the view. The fee is Check on arrival. Go in daylight. Mèo Vạc, 24 km over the pass, is lunch and, on some routes, a night. Sunday is its market too. Xã Đồng Văn and xã Mèo Vạc are the 2025 communes. Older pages still say the towns."
+          ]
+        },
+        {
+          "id": "palace",
+          "heading": "The Hmong palace",
+          "nav": "The palace",
+          "paragraphs": [
+            "Dinh thự họ Vương, also called Dinh vua Mèo, is in thôn Sà Phìn, xã Sà Phìn. UNESCO places it in Sa Phin and names green stone, po mu wood, terracotta, and dragon, phoenix, and bat carving. The adventures page names Vương Chính Đức, three courtyards, and a stone bath. The place page says a wood frame and Chinese style. The loop page says Chinese, French, and Hmong, and nearly 100 years old. The commune article says construction began in 1898 and finished in 1907, a national architectural relic in 1993, and about 150,000 Indochinese silver đồng.",
+            "Keep every distance and every area line. About 14 km from Đồng Văn town on the loop page. About 15 km from the center of xã Đồng Văn on the commune article. More than 1,200 square metres of building on about 3,000 square metres of land, and also the whole residence about 3,000 square metres. Hours on the commune article are 7:30–17:00 every day. The adult fee is about 20,000 đồng, free under 1.2 m. Check on arrival. A visit length is Check on arrival."
+          ]
+        },
+        {
+          "id": "markets",
+          "heading": "Sunday markets",
+          "nav": "Markets",
+          "paragraphs": [
+            "Sunday is the market in Đồng Văn and Mèo Vạc. People from the villages trade. The hour is Check on arrival. Vietnam Tourism says to ask your host, because the timetables are hard to pin. Phố Cáo meets once a week for household goods, clothes, and spices, with Flower Hmong skirts and Black Hmong tunics. The weekday is Check on arrival. Phố Cáo now sits inside xã Phố Bảng.",
+            "Khau Vai love market is in the spring, with the March flowers, on the Mèo Vạc side. The 2026 civil date is Check on arrival. The buckwheat festival is typically mid-to-late November in Đồng Văn district, with cultural displays, crafts, buckwheat food, a road race, and kayak and paddle-board racing on the Nho Quế. The 2026 day is Check on arrival. The Tày fish festival at xã Mậu Duệ is named for 2026 without a day. Check on arrival. Fees for these gatherings are Check on arrival."
+          ]
+        }
+      ],
+      "cards": [
+        {
           "title": "Ma Pi Leng Pass",
-          "summary": "The high road above the Nho Que River. Stop in designated places; the edge is real.",
+          "summary": "The rim above the Nho Quế. UNESCO puts the pass at 1,200 metres.",
           "attractionSlug": "ma-pi-leng",
           "photo": "ha-giang-ma-pi-leng",
           "icon": "view",
           "block": "road"
-        }
-      ],
-      "blocks": [
+        },
         {
-          "id": "road",
-          "heading": "Dong Van, then the pass",
-          "nav": "The road",
-          "paragraphs": [
-            "Ha Giang town is a provincial stop on the Lo River. The journey people come for leaves town toward Quan Ba, Yen Minh, Dong Van, and Meo Vac, then back on a different road. The Ma Pi Leng pass is the famous stretch.",
-            "This is not a casual scooter day. Roads are steep, weather changes fast, and a Vietnamese motorcycle license is what makes the ride legal. EasyRider-style trips with a driver are the usual choice for visitors who do not hold one. Book a driver who includes the border-district permit.",
-            "Mountains, motorbikes, and photography define the loop. Buckwheat flowers, tam giác mạch, are the seasonal reason to time the trip for autumn.",
-            "Meals are breakfast pho, rice plates, and whatever the homestay cooks. Choice is limited in the smaller communes and that is fine."
-          ]
+          "title": "Dong Van",
+          "summary": "The stone town. About 40 houses from 1890, and the market at night or early morning.",
+          "attractionSlug": "dong-van",
+          "photo": "ha-giang-dong-van",
+          "icon": "view",
+          "block": "town"
+        },
+        {
+          "title": "Quan Ba twin hills",
+          "summary": "Two rounded hills over the terraces, with karst in the cloud.",
+          "placeSlug": "ha-giang",
+          "photo": "ha-giang",
+          "icon": "view",
+          "block": "quan-ba"
         }
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Can you do the loop without riding?",
-      "a": "Yes. Hire a car and driver, or ride as a passenger with a licensed EasyRider. Do not rent a motorbike you are not licensed to ride."
+      "q": "How long does the bus from Hanoi take?",
+      "a": "About six hours on the adventures page, and about six to seven hours by car or sleeper bus on the place page. The loop page says about 300 km, and road only. Buses leave Bến xe Mỹ Đình by day and overnight. The fare is Check on arrival."
+    },
+    {
+      "q": "Can you ride the loop yourself?",
+      "a": "Experienced drivers can rent a motorcycle in town, or ride behind a local rider, or take a private car. Do not ride alone. Take a local driver. Ride in daylight and stop after dark. The license class is Check on arrival."
+    },
+    {
+      "q": "Where should you sleep?",
+      "a": "The bus night is in Hà Giang town, now phường Hà Giang 1 and phường Hà Giang 2. Older pages still say thành phố Hà Giang. On the four-day page the first night on the plateau is Yên Minh, then Đồng Văn, and the return night is Bảo Lâm. Mèo Vạc is the town after the pass. Thôn Tha, a few minutes outside the city, is a stilt-house night with a family meal of spring rolls, greens, pork ribs, and rice."
+    },
+    {
+      "q": "When is buckwheat, and when are the markets?",
+      "a": "The place page marks September to November. The other flower windows are on the season line. Khau Vai love market is in the spring with the March flowers. The 2026 civil date is Check on arrival. The buckwheat festival is typically mid-to-late November in Đồng Văn district. Sunday is market day in Đồng Văn and Mèo Vạc. The hour is Check on arrival. The Tày fish festival at Mậu Duệ is named for 2026 without a day. Check on arrival."
+    },
+    {
+      "q": "Do you need a border permit?",
+      "a": "The place page calls the old province a Frontier Area. The permit fee, the processing time, and which communes are inside the border zone are Check on arrival."
+    },
+    {
+      "q": "Is Ha Giang still a province?",
+      "a": "Resolution 202/2025/QH15, signed in Hà Nội on 12 June 2025 and in force that day, merged the former Hà Giang province into Tuyên Quang. New provincial governments date from 1 July 2025. The new province is given as 13,795.50 km² and 1,865,270 people, bordering Cao Bằng, Lào Cai, Phú Thọ, Thái Nguyên, and China. Those figures are the province, not the town. The loop and the town are still called Ha Giang."
     }
   ],
   "season": {
-    "label": "Buckwheat often Oct–Nov",
-    "note": "Tam giác mạch on the high plateau is usually an October to November sight. A field report overrides this window."
-  }
+    "label": "September to November",
+    "note": "Vietnam Tourism’s place page marks September to November: terraced rice turns golden in September, buckwheat blooms from October to November, the climate is cool, winters are cold, and roads are wet and slippery from May to August. The loop page adds October to December for purple buckwheat, canola, and mustard, February to March for spring flowers, September and October for golden rice, March flowers including cherry, plum, mustard, and pear, and summer terraces full of water. UNESCO says buckwheat from October to November, and peach and plum blossoms from January to February. The buckwheat feature says white blooms in late September, pink as October slides into November, deep red by the end of December, and a festival typically in mid-to-late November. June is the wet-season month for flooded fields at Hoàng Su Phì and a swim at Du Già. A closure on a given day is Check on arrival."
+  },
+  "foodSlug": "ha-giang"
 }
