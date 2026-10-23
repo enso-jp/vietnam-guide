@@ -15,7 +15,7 @@
   "fee": "Check on arrival",
   "getThere": "About 200 km from Hanoi on National Highway 6",
   "bestMonths": "April to September for the falls; blossom weeks move",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "interests": {
     "photography": 5,
     "mountains": 4,
@@ -58,10 +58,65 @@
     }
   ],
   "eat": [
-    "The morning cup is cold yogurt or fresh milk in the farm town. A 3 May 2024 provincial announcement ranked a household set at 3-star OCOP: plain yogurt, black sticky-rice yogurt, and passion-fruit yogurt. Stall hours are check on arrival.",
-    "At Ban Ang the plates named for a village meal are bamboo sticky rice, grilled fish, smoked meat, forest greens, and rice wine served from a gourd through a bamboo tube. The plate of bamboo rice shown with that dish was not taken at Ban Ang, and the skewer beside the rice is not pa pỉnh tộp. Chao calf and bamboo-tube fish are named there without a cooking method. The night market, a ground of more than 2 ha around the Pha Luong light park, serves dried buffalo and hearth sausage with rice wine. A stall price was not published. A separate morning market was not named."
+    "The morning cup is cold yogurt or fresh milk in the farm town. Bao Son La’s 3 May 2024 announcement names three 3-star cups: plain yogurt, black sticky-rice yogurt, and passion-fruit yogurt. The hour is Check on arrival.",
+    "At Ban Ang the Vietnam National Authority of Tourism names bamboo sticky rice, pa pỉnh tộp, smoked meat, bê chao, love sticky rice, leaf-yeast wine, bamboo-tube fish, forest greens, and jar wine from a gourd. Vietnam Tourism calls the calf flash-fried veal and the fish a charcoal grill. The plate of bamboo rice shown with that dish was not taken at Ban Ang, and the skewer beside the rice is not pa pỉnh tộp.",
+    "Bao Son La’s 17 February 2023 article names bánh dày, thắng cố, hearth-smoked buffalo, five-colour sticky rice, canh bon, soured meat, and rượu hoẵng. The 27 January 2023 night-market article names dried buffalo and hearth sausage on a ground of more than 2 ha around the Pha Luong light park. Weekends are fuller. A clock and a stall price were not printed. Check on arrival."
   ],
-  "dishSlugs": ["com-lam"],
+  "dishSlugs": [
+    "com-lam",
+    "moc-chau--pa-pinh-top",
+    "moc-chau--thit-hun-khoi",
+    "moc-chau--be-chao",
+    "moc-chau--ca-ong-tre",
+    "moc-chau--xoi-tinh-yeu",
+    "moc-chau--xoi-ngu-sac",
+    "moc-chau--rau-rung",
+    "moc-chau--nom-rau-rung",
+    "moc-chau--thit-trau-gac-bep",
+    "moc-chau--thit-trau-kho",
+    "moc-chau--bo-hun-khoi",
+    "moc-chau--lap-xuong",
+    "moc-chau--lap-trau",
+    "moc-chau--banh-day",
+    "moc-chau--thang-co",
+    "moc-chau--canh-bon",
+    "moc-chau--thit-chua",
+    "moc-chau--nam-pia",
+    "moc-chau--cai-meo",
+    "moc-chau--cai-ngong",
+    "moc-chau--ca-hoi",
+    "moc-chau--lon-man",
+    "moc-chau--thit-lon-lung",
+    "moc-chau--thit-lon-say",
+    "moc-chau--oc-da",
+    "moc-chau--ga-nuong",
+    "moc-chau--ga-mo",
+    "moc-chau--hoa-ban",
+    "moc-chau--cham-cheo",
+    "moc-chau--mang",
+    "moc-chau--ruou-can",
+    "moc-chau--ruou-men-la",
+    "moc-chau--ruou-ngo",
+    "moc-chau--ruou-hoang",
+    "moc-chau--ruou-tao-meo",
+    "moc-chau--sua-chua",
+    "moc-chau--sua-chua-nep-cam",
+    "moc-chau--sua-chua-chanh-leo",
+    "moc-chau--sua-tuoi",
+    "moc-chau--banh-sua",
+    "moc-chau--tra",
+    "moc-chau--man-hau",
+    "moc-chau--man-say-deo",
+    "moc-chau--xoai-say-deo",
+    "moc-chau--dau-tay",
+    "moc-chau--cam-ron",
+    "moc-chau--hong",
+    "moc-chau--mo",
+    "moc-chau--dao",
+    "moc-chau--tao-meo",
+    "moc-chau--banh-khao",
+    "moc-chau--keo-doi"
+  ],
   "interestsBody": [
     "Tea-hill contours are the picture of the plateau. Dai Yem and the Bach Long bridge are the other walks.",
     "Plum valleys, the dairy herd, Ban Ang’s pine, and the Bat Cave are part of the same plateau day. Na Ka is the blossom and harvest valley. The dairy stop is the morning pasture."
@@ -110,8 +165,8 @@
         }
       ],
       "body": [
-        "A 2012 feature names cơm lam among Ban Ang’s local dishes: sticky rice cooked in a bamboo tube. Eat it from the tube. Salt, sesame, and a dipping sauce are not described. The plate shown with the dish was not taken at Ban Ang, and the skewer beside the rice is not pa pỉnh tộp. The price is check on arrival.",
-        "Yogurt and fresh milk, hau plum, plateau tea, grilled fish, smoked meat, chao calf, bamboo-tube fish, xôi, rice wine from a gourd, forest greens, and festival bánh dày are the other names on the plateau list. The night market is a ground of more than 2 ha around the Pha Luong light park, with nearly 60 stalls. A 2023 feature says weekends are fuller and names dried buffalo and hearth sausage with rice wine. It prints no clock. Hours are check on arrival. A separate morning market was not named."
+        "A 2012 feature names cơm lam among Ban Ang’s local dishes: sticky rice cooked in a bamboo tube. Eat it from the tube. Salt, sesame, and a dipping sauce are not described. The plate shown with the dish was not taken at Ban Ang, and the skewer beside the rice is not pa pỉnh tộp. The price is Check on arrival.",
+        "Yogurt, fresh milk, milk cake, hau plum, plateau tea, and the Hmong, Thai, and Dao plates are the other names. Bao Son La’s 17 February 2023 article and the Vietnam National Authority of Tourism name them. The night market is a ground of more than 2 ha around the Pha Luong light park. A 27 January 2023 article says weekends are fuller and prints no clock. Check on arrival. A separate morning market was not named."
       ]
     },
     {

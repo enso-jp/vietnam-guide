@@ -2,12 +2,512 @@
   "slug": "moc-chau",
   "name": "Moc Chau food guide",
   "placeSlug": "moc-chau",
-  "summary": "Cơm lam is sticky rice cooked in a bamboo tube, named at Ban Ang. The plate shown here was not taken in Moc Chau. Yogurt, hau plum, plateau tea, grilled fish, smoked meat, forest greens, and rice wine from a gourd are the other names on the plateau list. The night market is the ground around the Pha Luong light park. Prices and hours are check on arrival.",
+  "summary": "The morning cup is cold yogurt or fresh milk in the farm town. At Ban Ang the meal is bamboo sticky rice, grilled stream fish, and jar wine from a gourd. Hau plum, plateau tea, and the Hmong, Thai, and Dao plates sit beside that. A stall price is Check on arrival.",
   "heroSlug": "com-lam",
-  "body": [],
-  "dishSlugs": ["com-lam"],
-  "sections": [],
-  "verified": "22 Oct 2026",
-  "seoTitle": "Moc Chau food — bamboo sticky rice at Ban Ang",
-  "seoDescription": "Sticky rice in a bamboo tube, named at Ban Ang. The plate was not taken in Moc Chau. Yogurt, plum, and tea are also named. Prices are check on arrival."
+  "body": [
+    "Eat the plateau, not Mai Chau’s rice valley. A 2012 feature of the Vietnam National Authority of Tourism names cơm lam, pa pỉnh tộp, smoked meat, bê chao, love sticky rice, leaf-yeast wine, bamboo-tube fish, and forest greens at Ban Ang. Vietnam Tourism calls the calf flash-fried veal, the fish a charcoal grill, and the coloured rice five-grain sticky rice, and puts traditional corn wine in the welcome.",
+    "Bao Son La’s 17 February 2023 article names bánh dày and thắng cố for Hmong cooking, hearth-smoked buffalo, five-colour sticky rice, forest greens, and canh bon for Thai and Muong cooking, and soured meat with rượu hoẵng for Dao cooking. The same paper’s 27 January 2023 night-market article names dried buffalo and hearth sausage. A 3 May 2024 announcement names three yogurt cups, dried plum, and dried mango. Where the sources use two names, both stay.",
+    "The photograph is the bamboo rice. It was not taken at Ban Ang, and the skewer in that frame is not pa pỉnh tộp. An hour or a price that was not printed is Check on arrival."
+  ],
+  "specialtiesLead": "Bamboo sticky rice is the plate with a photograph. Every other specialty is named below. A price is Check on arrival.",
+  "dishSlugs": [
+    "com-lam",
+    "moc-chau--pa-pinh-top",
+    "moc-chau--thit-hun-khoi",
+    "moc-chau--be-chao",
+    "moc-chau--ca-ong-tre",
+    "moc-chau--xoi-tinh-yeu",
+    "moc-chau--xoi-ngu-sac",
+    "moc-chau--rau-rung",
+    "moc-chau--nom-rau-rung",
+    "moc-chau--thit-trau-gac-bep",
+    "moc-chau--thit-trau-kho",
+    "moc-chau--bo-hun-khoi",
+    "moc-chau--lap-xuong",
+    "moc-chau--lap-trau",
+    "moc-chau--banh-day",
+    "moc-chau--thang-co",
+    "moc-chau--canh-bon",
+    "moc-chau--thit-chua",
+    "moc-chau--nam-pia",
+    "moc-chau--cai-meo",
+    "moc-chau--cai-ngong",
+    "moc-chau--ca-hoi",
+    "moc-chau--lon-man",
+    "moc-chau--thit-lon-lung",
+    "moc-chau--thit-lon-say",
+    "moc-chau--oc-da",
+    "moc-chau--ga-nuong",
+    "moc-chau--ga-mo",
+    "moc-chau--hoa-ban",
+    "moc-chau--cham-cheo",
+    "moc-chau--mang",
+    "moc-chau--ruou-can",
+    "moc-chau--ruou-men-la",
+    "moc-chau--ruou-ngo",
+    "moc-chau--ruou-hoang",
+    "moc-chau--ruou-tao-meo",
+    "moc-chau--sua-chua",
+    "moc-chau--sua-chua-nep-cam",
+    "moc-chau--sua-chua-chanh-leo",
+    "moc-chau--sua-tuoi",
+    "moc-chau--banh-sua",
+    "moc-chau--tra",
+    "moc-chau--man-hau",
+    "moc-chau--man-say-deo",
+    "moc-chau--xoai-say-deo",
+    "moc-chau--dau-tay",
+    "moc-chau--cam-ron",
+    "moc-chau--hong",
+    "moc-chau--mo",
+    "moc-chau--dao",
+    "moc-chau--tao-meo",
+    "moc-chau--banh-khao",
+    "moc-chau--keo-doi"
+  ],
+  "sections": [
+    {
+      "id": "table",
+      "heading": "The plateau table",
+      "nav": "The table",
+      "paragraphs": [
+        "These are the cooked plates. Pa pỉnh tộp, cá suối, and cá suối nướng are one fish. Xôi lá màu stays on the five-colour plate because Bao Son La does not call it a second dish. Thịt hun khói, thịt trâu gác bếp, thịt trâu khô, and bò hun khói stay apart. The hour is Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Grilled stream fish",
+          "nameVi": "Pa pỉnh tộp",
+          "address": "Bản Áng, about 2 km south of the farm town on National Highway 43",
+          "note": "Grilled stream fish. The Vietnam National Authority of Tourism names pa pỉnh tộp at Ban Ang and later glosses it as cá suối nướng. Vietnam Tourism calls it charcoal-grilled stream fish. Bao Son La’s 2016 list writes cá suối. One fish. The hour and the price are Check on arrival.",
+          "dishSlug": "moc-chau--pa-pinh-top"
+        },
+        {
+          "name": "Smoked meat",
+          "nameVi": "Thịt hun khói",
+          "address": "Bản Áng, about 2 km south of the farm town on National Highway 43",
+          "note": "Smoked meat on the 2012 Ban Ang list. The animal is not named there. Kept apart from hearth-smoked buffalo, dried buffalo, and smoked beef. The price is Check on arrival.",
+          "dishSlug": "moc-chau--thit-hun-khoi"
+        },
+        {
+          "name": "Chao calf",
+          "nameVi": "Bê chao",
+          "address": "Bản Áng, about 2 km south of the farm town on National Highway 43",
+          "note": "Flash-fried calf. The Vietnam National Authority of Tourism’s winter handbook uses a dairy calf about one week old, matchbox pieces, ginger, lemongrass, garlic, and chili, twice through hot fat, until the meat is vàng cánh gián. The 2012 Ban Ang line names the dish without that method. The price is Check on arrival.",
+          "dishSlug": "moc-chau--be-chao"
+        },
+        {
+          "name": "Bamboo-tube fish",
+          "nameVi": "Cá ống tre",
+          "address": "Bản Áng, about 2 km south of the farm town on National Highway 43",
+          "note": "Fish cooked in a bamboo tube, named at Ban Ang in 2012 beside love sticky rice and leaf-yeast wine. A fuller method and the price are Check on arrival.",
+          "dishSlug": "moc-chau--ca-ong-tre"
+        },
+        {
+          "name": "Love sticky rice",
+          "nameVi": "Xôi tình yêu",
+          "address": "Bản Áng, about 2 km south of the farm town on National Highway 43",
+          "note": "Sticky rice named xôi tình yêu at Ban Ang. The reason for the name was not printed. Kept apart from five-colour sticky rice. The price is Check on arrival.",
+          "dishSlug": "moc-chau--xoi-tinh-yeu"
+        },
+        {
+          "name": "Five-colour sticky rice",
+          "nameVi": "Xôi ngũ sắc",
+          "address": "Check on arrival",
+          "note": "Coloured sticky rice. Bao Son La and the Vietnam National Authority of Tourism name xôi ngũ sắc. Vietnam Tourism calls it colourful five-grain sticky rice. Xôi lá màu, in the same Bao Son La article, is not described as a second plate. The dyes and the price are Check on arrival.",
+          "dishSlug": "moc-chau--xoi-ngu-sac"
+        },
+        {
+          "name": "Forest greens",
+          "nameVi": "Rau rừng",
+          "address": "Bản Áng, about 2 km south of the farm town on National Highway 43",
+          "note": "Forest-vegetable dishes named at Ban Ang in 2012, and again by Bao Son La in 2023. Species were not printed. The salad nộm rau rừng is listed on its own. The price is Check on arrival.",
+          "dishSlug": "moc-chau--rau-rung"
+        },
+        {
+          "name": "Forest-green salad",
+          "nameVi": "Nộm rau rừng",
+          "address": "Bản Vặt, xã Mường Sang",
+          "note": "Forest-green salad at bản Vặt. Bao Son La, 17 February 2023, names nộm rau rừng with cơm lam, grilled fish, and grilled chicken. A dressing and the price are Check on arrival.",
+          "dishSlug": "moc-chau--nom-rau-rung"
+        },
+        {
+          "name": "Hearth-smoked buffalo",
+          "nameVi": "Thịt trâu gác bếp",
+          "address": "Check on arrival",
+          "note": "Hearth-smoked buffalo. Bao Son La, 17 February 2023, and the Vietnam National Authority of Tourism name thịt trâu gác bếp. Kept apart from thịt hun khói and thịt trâu khô. A smoke time and the price are Check on arrival.",
+          "dishSlug": "moc-chau--thit-trau-gac-bep"
+        },
+        {
+          "name": "Dried buffalo",
+          "nameVi": "Thịt trâu khô",
+          "address": "Farm-town night market, around the Pha Luong light park",
+          "note": "Dried buffalo at the night market. Bao Son La, 27 January 2023, pairs thịt trâu khô with hearth sausage and a cup of strong wine. Weekends are fuller. A clock and the price are Check on arrival.",
+          "dishSlug": "moc-chau--thit-trau-kho"
+        },
+        {
+          "name": "Smoked beef",
+          "nameVi": "Bò hun khói",
+          "address": "Check on arrival",
+          "note": "Smoked beef. Bao Son La’s 12 October 2016 feature lists bò hun khói with smoked buffalo among foods to carry home. Kept apart from the other buffalo names. A method and the price are Check on arrival.",
+          "dishSlug": "moc-chau--bo-hun-khoi"
+        },
+        {
+          "name": "Hearth sausage",
+          "nameVi": "Lạp xưởng gác bếp",
+          "address": "Farm-town night market, around the Pha Luong light park",
+          "note": "Hearth sausage at the night market. Bao Son La, 27 January 2023, names lạp xưởng gác bếp with dried buffalo. Kept apart from lạp trâu. A recipe and the price are Check on arrival.",
+          "dishSlug": "moc-chau--lap-xuong"
+        },
+        {
+          "name": "Buffalo lap",
+          "nameVi": "Lạp trâu",
+          "address": "Check on arrival",
+          "note": "Buffalo lap. The Vietnam National Authority of Tourism’s winter handbook lists lạp trâu with the Thai dishes. A recipe and the price are Check on arrival. It is not the night-market lạp xưởng.",
+          "dishSlug": "moc-chau--lap-trau"
+        },
+        {
+          "name": "Pounded rice cake",
+          "nameVi": "Bánh dày",
+          "address": "Check on arrival",
+          "note": "Hmong pounded rice cake. Bao Son La, 17 February 2023, names bánh dày. VietnamPlus puts a pounding in the 27 August–5 September 2026 culture week. A recipe, the next date, and the price are Check on arrival.",
+          "dishSlug": "moc-chau--banh-day"
+        },
+        {
+          "name": "Thang co",
+          "nameVi": "Thắng cố",
+          "address": "Check on arrival",
+          "note": "Hmong thắng cố. Bao Son La and the Vietnam National Authority of Tourism name it and do not print a broth. A method and the price are Check on arrival.",
+          "dishSlug": "moc-chau--thang-co"
+        },
+        {
+          "name": "Bon soup",
+          "nameVi": "Canh bon",
+          "address": "Check on arrival",
+          "note": "Canh bon. Bao Son La, 17 February 2023, names it with Thai and Muong dishes. A recipe and the price are Check on arrival.",
+          "dishSlug": "moc-chau--canh-bon"
+        },
+        {
+          "name": "Soured meat",
+          "nameVi": "Thịt chua",
+          "address": "Check on arrival",
+          "note": "Soured Dao meat. Bao Son La, 17 February 2023, and the Vietnam National Authority of Tourism name thịt chua. A ferment and the price are Check on arrival.",
+          "dishSlug": "moc-chau--thit-chua"
+        },
+        {
+          "name": "Nam pia",
+          "nameVi": "Nậm pịa",
+          "address": "Check on arrival",
+          "note": "Nậm pịa. The Vietnam National Authority of Tourism and Bao Son La’s 12 October 2016 feature name it. A broth and the price are Check on arrival.",
+          "dishSlug": "moc-chau--nam-pia"
+        },
+        {
+          "name": "Hmong mustard",
+          "nameVi": "Cải mèo",
+          "address": "Check on arrival",
+          "note": "Cải mèo. The Vietnam National Authority of Tourism names it among plateau specialties. A method and the price are Check on arrival. Kept apart from cải ngồng.",
+          "dishSlug": "moc-chau--cai-meo"
+        },
+        {
+          "name": "Flowering mustard",
+          "nameVi": "Cải ngồng",
+          "address": "Check on arrival",
+          "note": "Cải ngồng. Bao Son La, 12 October 2016, lists it among dishes to try. A method and the price are Check on arrival. Kept apart from cải mèo.",
+          "dishSlug": "moc-chau--cai-ngong"
+        },
+        {
+          "name": "Trout",
+          "nameVi": "Cá hồi",
+          "address": "Check on arrival",
+          "note": "Trout. The Vietnam National Authority of Tourism names cá hồi among plateau specialties. A preparation and the price are Check on arrival.",
+          "dishSlug": "moc-chau--ca-hoi"
+        },
+        {
+          "name": "Man pig",
+          "nameVi": "Lợn mán",
+          "address": "Check on arrival",
+          "note": "Lợn mán. Bao Son La, 12 October 2016, lists it among dishes to try. A cut and the price are Check on arrival.",
+          "dishSlug": "moc-chau--lon-man"
+        },
+        {
+          "name": "Lon lung pork",
+          "nameVi": "Thịt lợn lửng",
+          "address": "Check on arrival",
+          "note": "Thịt lợn lửng. The Vietnam National Authority of Tourism’s winter handbook lists it among Hmong dishes. A cut and the price are Check on arrival.",
+          "dishSlug": "moc-chau--thit-lon-lung"
+        },
+        {
+          "name": "Dried pork",
+          "nameVi": "Thịt lợn sấy",
+          "address": "Check on arrival",
+          "note": "Dried pork. Bao Son La, 17 February 2023, names thịt lợn sấy among plateau foods. A drying time and the price are Check on arrival.",
+          "dishSlug": "moc-chau--thit-lon-say"
+        },
+        {
+          "name": "Rock snail",
+          "nameVi": "Ốc đá",
+          "address": "Check on arrival",
+          "note": "Ốc đá. Bao Son La, 12 October 2016, lists it among dishes to try. A method and the price are Check on arrival.",
+          "dishSlug": "moc-chau--oc-da"
+        },
+        {
+          "name": "Grilled chicken",
+          "nameVi": "Gà nướng",
+          "address": "Bản Vặt, xã Mường Sang",
+          "note": "Grilled chicken at bản Vặt. Bao Son La, 17 February 2023, names gà nướng with cơm lam and forest-green salad. Kept apart from gà mọ. The price is Check on arrival.",
+          "dishSlug": "moc-chau--ga-nuong"
+        },
+        {
+          "name": "Ga mo",
+          "nameVi": "Gà mọ",
+          "address": "Check on arrival",
+          "note": "Gà mọ. The Vietnam National Authority of Tourism’s winter handbook lists it among Thai dishes. A method and the price are Check on arrival. Kept apart from gà nướng.",
+          "dishSlug": "moc-chau--ga-mo"
+        },
+        {
+          "name": "Ban flower",
+          "nameVi": "Hoa ban",
+          "address": "Check on arrival",
+          "note": "Hoa ban. The Vietnam National Authority of Tourism’s winter handbook lists the ban flower among Thai dishes and does not say how it is cooked. The price is Check on arrival.",
+          "dishSlug": "moc-chau--hoa-ban"
+        },
+        {
+          "name": "Cham cheo",
+          "nameVi": "Chẳm chéo",
+          "address": "Bản Vặt, xã Mường Sang",
+          "note": "Chẳm chéo at bản Vặt. Bao Son La, 17 February 2023, says the hot dip goes with bamboo shoot, boiled greens, meat, or sticky rice. A recipe and the price are Check on arrival.",
+          "dishSlug": "moc-chau--cham-cheo"
+        },
+        {
+          "name": "Forest bamboo shoot",
+          "nameVi": "Măng rừng",
+          "address": "Check on arrival",
+          "note": "Forest bamboo shoot. Bao Son La, 17 February 2023, names măng rừng as food and as something to carry home, dipped in chẳm chéo. A further method and the price are Check on arrival.",
+          "dishSlug": "moc-chau--mang"
+        }
+      ]
+    },
+    {
+      "id": "drinks",
+      "heading": "Wine",
+      "nav": "Wine",
+      "paragraphs": [
+        "Five named wines. The night market also sells specialty wines and does not name the still, so that line is not a sixth drink. A strength is Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Jar wine",
+          "nameVi": "Rượu cần",
+          "address": "Bản Áng, about 2 km south of the farm town on National Highway 43",
+          "note": "Jar wine at Ban Ang. Vietnam Tourism says it is drunk from a gourd through a long narrow bamboo tube. A strength and the price are Check on arrival.",
+          "dishSlug": "moc-chau--ruou-can"
+        },
+        {
+          "name": "Leaf-yeast wine",
+          "nameVi": "Rượu men lá",
+          "address": "Bản Áng, about 2 km south of the farm town on National Highway 43",
+          "note": "Leaf-yeast wine named at Ban Ang in 2012 beside rượu cần, so the two stay apart. A strength and the price are Check on arrival.",
+          "dishSlug": "moc-chau--ruou-men-la"
+        },
+        {
+          "name": "Corn wine",
+          "nameVi": "Rượu ngô",
+          "address": "Check on arrival",
+          "note": "Corn wine. Vietnam Tourism names traditional corn wine with the welcome. The winter handbook lists rượu ngô among Hmong dishes. A strength and the price are Check on arrival.",
+          "dishSlug": "moc-chau--ruou-ngo"
+        },
+        {
+          "name": "Hoang wine",
+          "nameVi": "Rượu hoẵng",
+          "address": "Check on arrival",
+          "note": "Rượu hoẵng. Bao Son La and the Vietnam National Authority of Tourism name it among Dao dishes, beside thịt chua. A strength and the price are Check on arrival.",
+          "dishSlug": "moc-chau--ruou-hoang"
+        },
+        {
+          "name": "Tao meo wine",
+          "nameVi": "Rượu táo mèo",
+          "address": "Check on arrival",
+          "note": "Rượu táo mèo. Bao Son La, 12 October 2016, lists it among foods to carry home. A strength and the price are Check on arrival.",
+          "dishSlug": "moc-chau--ruou-tao-meo"
+        }
+      ]
+    },
+    {
+      "id": "dairy",
+      "heading": "Dairy and tea",
+      "nav": "Dairy",
+      "paragraphs": [
+        "The morning cup is in the farm town. The 3 May 2024 announcement splits yogurt into three cups. Fresh milk, milk cake, and the hill tea are the other names. The dairy gate is not one number."
+      ],
+      "spots": [
+        {
+          "name": "Plain yogurt",
+          "nameVi": "Sữa chua nguyên kem",
+          "address": "Tiểu khu 34, xã Tân Lập, on the 3 May 2024 announcement",
+          "note": "Plain yogurt. Bao Son La, 3 May 2024, ranks sữa chua nguyên kem in a 3-star set with black sticky-rice and passion-fruit cups. The hour and the price are Check on arrival.",
+          "dishSlug": "moc-chau--sua-chua"
+        },
+        {
+          "name": "Black sticky-rice yogurt",
+          "nameVi": "Sữa chua nếp cẩm",
+          "address": "Tiểu khu 34, xã Tân Lập, on the 3 May 2024 announcement",
+          "note": "Black sticky-rice yogurt. Bao Son La, 3 May 2024, names sữa chua nếp cẩm in the 3-star set. The hour and the price are Check on arrival.",
+          "dishSlug": "moc-chau--sua-chua-nep-cam"
+        },
+        {
+          "name": "Passion-fruit yogurt",
+          "nameVi": "Sữa chua chanh leo",
+          "address": "Tiểu khu 34, xã Tân Lập, on the 3 May 2024 announcement",
+          "note": "Passion-fruit yogurt. Bao Son La, 3 May 2024, names sữa chua chanh leo in the 3-star set. The hour and the price are Check on arrival.",
+          "dishSlug": "moc-chau--sua-chua-chanh-leo"
+        },
+        {
+          "name": "Fresh milk",
+          "nameVi": "Sữa tươi",
+          "address": "The dairy farm in the farm town",
+          "note": "Fresh milk. The Vietnam National Authority of Tourism names sữa tươi with yogurt and milk cake. Dat Viet Tour prints a 20,000 VND gate and Kenh Homestay prints 10,000 VND, both at 08:00–18:00. Neither is the dairy company’s notice. Check on arrival.",
+          "dishSlug": "moc-chau--sua-tuoi"
+        },
+        {
+          "name": "Milk cake",
+          "nameVi": "Bánh sữa",
+          "address": "Check on arrival",
+          "note": "Milk cake. The Vietnam National Authority of Tourism names bánh sữa with fresh milk and yogurt. A recipe and the price are Check on arrival.",
+          "dishSlug": "moc-chau--banh-sua"
+        },
+        {
+          "name": "Plateau tea",
+          "nameVi": "Chè Mộc Châu",
+          "address": "Tân Lập tea hills and Mộc Sương",
+          "note": "Plateau tea. Vietnam Tourism sends you to Moc Suong for a ceremony and the processing, and names premium oolong in a summer note. A 2019 Bao Son La feature adds newer oolong beside older plantings. A cup price is Check on arrival.",
+          "dishSlug": "moc-chau--tra"
+        }
+      ]
+    },
+    {
+      "id": "fruit",
+      "heading": "Fruit",
+      "nav": "Fruit",
+      "paragraphs": [
+        "Hau plum is the fruit with a valley and a harvest date. Dried plum is not that bite. Vietnam Tourism also lists strawberries, navel oranges, persimmons, apricots, and peaches as fruit you pick and sample. A season that was not printed is Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Hau plum",
+          "nameVi": "Mận hậu",
+          "address": "Na Ka, phường Thảo Nguyên",
+          "note": "Fresh hau plum at Na Ka. Dan Viet, 25 May 2026, describes ripe, dark red fruit with a white bloom. Vietnam Tourism says pick from March to May. The next week moves. Check on arrival. Dried plum is a different product.",
+          "dishSlug": "moc-chau--man-hau"
+        },
+        {
+          "name": "Dried hau plum",
+          "nameVi": "Mận sấy dẻo",
+          "address": "Chiềng Sơn, on the 3 May 2024 announcement",
+          "note": "Dried hau plum. Bao Son La, 3 May 2024, ranks mận sấy dẻo 3-star OCOP at Chiềng Sơn, with dried mango. Not the fresh Na Ka fruit. The price is Check on arrival.",
+          "dishSlug": "moc-chau--man-say-deo"
+        },
+        {
+          "name": "Dried mango",
+          "nameVi": "Xoài sấy dẻo",
+          "address": "Chiềng Sơn, on the 3 May 2024 announcement",
+          "note": "Dried mango. Bao Son La, 3 May 2024, ranks xoài sấy dẻo 3-star at Chiềng Sơn, in the same sentence as dried hau plum. The price is Check on arrival.",
+          "dishSlug": "moc-chau--xoai-say-deo"
+        },
+        {
+          "name": "Strawberries",
+          "nameVi": "Dâu tây",
+          "address": "Ban Ang pine forest",
+          "note": "Strawberries to pick. Vietnam Tourism names a farm at the Ban Ang pine forest for a picnic, and lists strawberries among fruit you sample. A season and the price are Check on arrival.",
+          "dishSlug": "moc-chau--dau-tay"
+        },
+        {
+          "name": "Navel oranges",
+          "nameVi": "Cam rốn",
+          "address": "Check on arrival",
+          "note": "Navel oranges. Vietnam Tourism lists them among fruit you pick and sample. An orchard, a season, and the price are Check on arrival.",
+          "dishSlug": "moc-chau--cam-ron"
+        },
+        {
+          "name": "Persimmons",
+          "nameVi": "Hồng",
+          "address": "Check on arrival",
+          "note": "Persimmons. Vietnam Tourism lists them among fruit you pick and sample. An orchard, a season, and the price are Check on arrival.",
+          "dishSlug": "moc-chau--hong"
+        },
+        {
+          "name": "Apricots",
+          "nameVi": "Mơ",
+          "address": "Check on arrival",
+          "note": "Apricots. Vietnam Tourism lists them among fruit you pick and sample, apart from plums. An orchard, a season, and the price are Check on arrival.",
+          "dishSlug": "moc-chau--mo"
+        },
+        {
+          "name": "Peaches",
+          "nameVi": "Đào",
+          "address": "Check on arrival",
+          "note": "Peaches. Vietnam Tourism lists them among fruit you pick and sample. An orchard, a season, and the price are Check on arrival.",
+          "dishSlug": "moc-chau--dao"
+        }
+      ]
+    },
+    {
+      "id": "packed",
+      "heading": "Packed foods",
+      "nav": "Packed",
+      "paragraphs": [
+        "Bao Son La’s 12 October 2016 feature, reprinting VnExpress, names these to carry home. The 2016 room rates and bus fare in that feature are not a current price. No shop is a pick."
+      ],
+      "spots": [
+        {
+          "name": "Tao meo",
+          "nameVi": "Táo mèo",
+          "address": "Check on arrival",
+          "note": "Táo mèo. Bao Son La, 12 October 2016, lists the fruit among foods to carry home, apart from rượu táo mèo. A season and the price are Check on arrival.",
+          "dishSlug": "moc-chau--tao-meo"
+        },
+        {
+          "name": "Banh khao",
+          "nameVi": "Bánh khảo",
+          "address": "Check on arrival",
+          "note": "Bánh khảo. Bao Son La, 12 October 2016, lists it among foods to carry home. A recipe and the price are Check on arrival.",
+          "dishSlug": "moc-chau--banh-khao"
+        },
+        {
+          "name": "Keo doi",
+          "nameVi": "Kẹo dồi",
+          "address": "Check on arrival",
+          "note": "Kẹo dồi. Bao Son La, 12 October 2016, lists it among foods to carry home. A recipe and the price are Check on arrival.",
+          "dishSlug": "moc-chau--keo-doi"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "role": "casual",
+      "heading": "Casual dining",
+      "nav": "The market",
+      "paragraphs": [
+        "The night market is the walk after dark. The dried buffalo and the hearth sausage are already on the table list. This row is the ground, not another dish."
+      ],
+      "spots": [
+        {
+          "name": "Moc Chau night market",
+          "nameVi": "Chợ đêm Mộc Châu",
+          "address": "Farm-town walking street, around the Pha Luong light park",
+          "note": "Bao Son La, 27 January 2023, says the ground is more than 2 ha, with nearly 60 stalls split into a trade side and a food side. Weekends are the fuller trading days. The food side serves dried buffalo and hearth sausage with a cup of strong wine. A clock was not printed. Check on arrival. Gates named in that article are not picks."
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "role": "breakfast",
+      "heading": "Breakfast",
+      "nav": "Breakfast",
+      "paragraphs": [
+        "The morning cup is plain yogurt, black sticky-rice yogurt, passion-fruit yogurt, or fresh milk in the farm town. Bamboo sticky rice is the other early plate when a Ban Ang meal includes it. Vietnam Tourism says peel-and-dip instructions for Mai Chau, not for this plateau. A stall clock was not printed. Check on arrival."
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Moc Chau food guide — yogurt, hau plum, and the Ban Ang table",
+  "seoDescription": "Moc Chau yogurt, hau plum, bamboo sticky rice, and the Ban Ang table. Hours and prices that were not printed are Check on arrival."
 }
