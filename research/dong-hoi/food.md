@@ -40,13 +40,13 @@ The published dish pages `banh-khoai`, `banh-beo`, `banh-xeo`, and `banh-canh` a
 
 ### Banh beo Dong Hoi
 - Vietnamese name: Bánh bèo
-- What it is: Named by the ward page and by the 2023 food fair as a Đồng Hới snack, beside bánh lọc and bánh khoái (S1, S12). Neither page describes the cake. Do not invent a shrimp-and-dip method from the Hue or Da Nang page.
+- What it is: Named by the ward page and by the 2023 food fair as a Đồng Hới snack, beside bánh lọc and bánh khoái (S1, S12). Du khách on 28 Apr 2023, republishing Báo Quảng Bình, says bánh bèo Đồng Hới is soft, smells of new rice, and carries browned shrimp with a salty-sweet fish sauce, and that it is not the small cup used in Hue, Da Nang, or Saigon (S24). Du khách on 29 May 2024, crediting VCT News, says the cake is poured thin, soft, with some chew, topped with seasoned stir-fried sea shrimp, and eaten with tương ớt (S18). Print both. Do not collapse them. S24 names shops at 29 Lê Thành Đồng (dì Tiếp), 82 Lê Thành Đồng (cô Vân), 17 Cô Tám (Tứ Quý), and the Ngô Gia Tự–Tố Hữu junction (Cộn). S1 puts dì Tiếp at 27 Lê Thành Đồng. Both numbers stay. Do not publish the shops as picks.
 - How to eat it: Check on arrival — UNSOURCED on a Đồng Hới page.
 - When to order it: The ward page groups it with the other small cakes. Hour: Check on arrival — UNSOURCED.
 - Area, not a shop: Lê Thành Đồng, Đồng Hải, and Cô Tám (S1).
 - Meal: breakfast
 - Neighbor dish to link: `banh-beo` is the Hue and Da Nang steamed cake. Link it so copy does not paste that method here. Suggested slug if a page is accepted: `banh-beo-dong-hoi`.
-- Sources: S1, S12
+- Sources: S1, S12, S18, S24
 
 ### Banh xeo with red rice
 - Vietnamese name: Bánh xèo
@@ -60,7 +60,7 @@ The published dish pages `banh-khoai`, `banh-beo`, `banh-xeo`, and `banh-canh` a
 
 ### Keo cu do
 - Vietnamese name: Kẹo cu đơ
-- What it is: Named on the market page together with bánh xèo, cháo canh, and bánh canh (S4). The page does not say what the sweet is made of. Do not invent a peanut-sesame recipe from memory.
+- What it is: Named on the market page together with bánh xèo, cháo canh, and bánh canh (S4). Rechecked 23 Oct 2026. The portal still does not say what the sweet is made of. Do not invent a peanut-sesame recipe.
 - How to eat it: Check on arrival — UNSOURCED.
 - When to order it: A market sweet, morning or afternoon with the stalls (S4).
 - Area, not a shop: Chợ Đồng Hới.
@@ -80,13 +80,13 @@ The published dish pages `banh-khoai`, `banh-beo`, `banh-xeo`, and `banh-canh` a
 
 ### Chao hau and the city seafood
 - Vietnamese name: Cháo hàu
-- What it is: The ward page names oyster porridge and “đẻn biển” as local seafood, and does not define either one (S1). The market sits beside a fish landing (S1). Do not invent a recipe, and do not decide that đẻn biển is the same fish as the cá nghéo at Đá Nhảy.
-- How to eat it: Check on arrival — UNSOURCED.
-- When to order it: When the landing is working. Hour: Check on arrival — UNSOURCED.
-- Area, not a shop: The fish landing beside Chợ Đồng Hới (S1).
+- What it is: The ward page names oyster porridge and “đẻn biển” and does not define either one (S1). Du khách on 6 May 2016, republishing VOV, places cháo hàu at Quán Hàu, about 7 km south of the center on National Highway 1A, with oysters from the Nhật Lệ. The oyster is stir-fried with scallion, chili, pepper, salt, and fish sauce, then added to rice porridge, with bone broth optional, or dropped raw into boiling porridge. A quoted cook gives spring, around Tết, as the good season, and July through November as the thin season (S22). Du khách on 20 Mar 2017, republishing VnExpress, names Lương Ninh–Quán Hàu and a white porridge finished with pepper and scallion (S23). Du khách on 29 May 2024 says the oysters are from the Nhật Lệ and does not give a method (S18). Print all three. Đẻn biển is defined in the 23 Oct pass below. Do not decide that đẻn biển is cá nghéo.
+- How to eat it: Stir-fried into rice porridge, or raw into the boiling pot, as S22. S23 finishes with pepper and scallion. The ward line still has no method.
+- When to order it: Spring, around Tết, is the good season in S22. July through November is the thin season in that quote. Hour of day: Check on arrival — UNSOURCED.
+- Area, not a shop: Quán Hàu, about 7 km south on National Highway 1A (S22). The ward also ties the name to the city seafood landing (S1). Hoa Súng is a shop name in S22. Do not publish it as a pick.
 - Meal: main
-- Neighbor dish to link: none
-- Sources: S1
+- Neighbor dish to link: `chao-hau` is also a Vung Tau bowl. The public file is append-only. The Dong Hoi line is the Nhật Lệ oyster.
+- Sources: S1, S18, S22, S23
 
 ### Chao ca ngheo
 - Vietnamese name: Cháo cá nghéo
@@ -107,6 +107,123 @@ The published dish pages `banh-khoai`, `banh-beo`, `banh-xeo`, and `banh-canh` a
 - Meal: main
 - Neighbor dish to link: none published
 - Sources: S16
+
+## Added 23 Oct 2026
+
+Checked against Du khách and the provincial tourism portal. These entries were not on the 21 Oct list, or they only had a name. Stall prices printed on S18, S23, and S28 were not copied. Public price stays Check on arrival.
+
+### Banh nam Quang Binh
+- Vietnamese name: Bánh nậm
+- What it is: Du khách on 29 May 2024, crediting VCT News, says rice flour steamed 15–20 minutes, wrapped in lá dong, with a shrimp filling (S18). The Hue cake on the shared file is a banana leaf. Do not rewrite that line. Append only.
+- How to eat it: As that steamed cake. A dip was not printed for Quảng Bình.
+- When to order it: Hour: Check on arrival — UNSOURCED.
+- Area, not a shop: A Đồng Hới street was not printed.
+- Meal: breakfast
+- Sources: S18
+
+### Banh cuon ruoc tom
+- Vietnamese name: Bánh cuốn ruốc tôm
+- What it is: A rice sheet with no filling, eaten with shrimp ruốc, thin cucumber, herbs, and nước lèo. Du khách says it is not the Hanoi roll (S18).
+- How to eat it: In the morning, with the ruốc and nước lèo.
+- When to order it: Morning (S18). A clock was not printed. Hour: Check on arrival — UNSOURCED.
+- Area, not a shop: A street was not printed.
+- Meal: breakfast
+- Sources: S18
+
+### Banh mi kep banh bot loc
+- Vietnamese name: Bánh mì kẹp bánh bột lọc
+- What it is: A hot split loaf filled with cassava-flour cakes. S19, republishing Dân Việt, says the cakes use fresh cassava flour, shrimp, pork, wood-ear, and mung bean, wrapped in banana leaf, then a few go into the loaf with chili threads, herbs, and a thin sweetened fish sauce. S23, republishing VnExpress, places the sandwich at Chợ Đồng Hới and names a shrimp filling and a mung-bean filling. A 2017 price on S23 was not copied.
+- How to eat it: As a sandwich, hot.
+- When to order it: Hour: Check on arrival — UNSOURCED.
+- Area, not a shop: Chợ Đồng Hới (S23).
+- Meal: breakfast
+- Sources: S19, S23
+
+### Den bien
+- Vietnamese name: Đẻn biển
+- What it is: A small-bodied sea snake. S18 also records the name mãng xà biển. Plates: xào sả ớt, with bánh đa, and cháo đẻn (S18). S27, republishing Báo Đắc Nông, describes ram đẻn: cleaned, minced, rolled in rice paper, fried crisp. Not cá nghéo.
+- How to eat it: As those four plates. Do not collapse them into one recipe.
+- When to order it: Hour: Check on arrival — UNSOURCED.
+- Area, not a shop: A street was not printed. The ward names the animal with city seafood (S1).
+- Meal: main
+- Sources: S1, S18, S27
+
+### Ca duoi nuong
+- Vietnamese name: Cá đuối nướng
+- What it is: S18 calls it a Đồng Hới specialty at cửa Nhật Lệ. Rinsed, seasoned, grilled on foil or a banana leaf, eaten hot with herbs and bánh tráng. The shared file `ca-duoi-nuong` is a Da Nang name on Phan Tứ. Append only.
+- How to eat it: Hot, with herbs and rice paper (S18).
+- When to order it: Hour: Check on arrival — UNSOURCED.
+- Area, not a shop: Cửa Nhật Lệ. S18 says any restaurant there. Do not publish a door as a pick.
+- Meal: main
+- Sources: S18
+
+### Banh uot Con
+- Vietnamese name: Bánh ướt
+- What it is: A thin rice sheet in Cộn, phường Đồng Sơn. S25, republishing Báo Quảng Bình, says the rice is soaked, ground, and rested one day and one night, then steamed a few dozen seconds. More than 16 households in the ward still make bún and bánh by hand. One kitchen is described in a lane behind the Đồng Sơn primary school, with no sign. Do not publish that house as a pick.
+- How to eat it: Buy the hot sheet. A sauce was not printed.
+- When to order it: One customer in S25 arrives before the evening meal. Hour: Check on arrival — UNSOURCED.
+- Area, not a shop: Cộn, Đồng Sơn.
+- Meal: main
+- Sources: S25
+
+### Oc chien
+- Vietnamese name: Ốc chiên
+- What it is: Apple snail and spiral snail. S19, republishing Dân Việt, seasons them with chili, fish sauce, and pepper, fries them over a high flame, then adds coconut, pineapple, chili, ginger, lemongrass, and lime leaf. Eat with green-mango salad or a salad, and with shrimp crackers or grilled rice paper. Not ốc khe from the 2023 fair (S12). Not ốc đực in Minh Hóa (S29).
+- How to eat it: With the sauce and a cracker or a salad (S19).
+- When to order it: Hour: Check on arrival — UNSOURCED.
+- Area, not a shop: A street was not printed.
+- Meal: main
+- Sources: S19
+
+### Chao san ca loc
+- Vietnamese name: Cháo sắn cá lóc
+- What it is: Named by the ward office on three streets. A method was not printed (S1). Do not invent a cassava recipe from the name.
+- How to eat it: Check on arrival — UNSOURCED.
+- When to order it: Hour: Check on arrival — UNSOURCED.
+- Area, not a shop: Tôn Đức Thắng, Nguyễn Thái Học beside the Nam Lý kindergarten, and the Hà Huy Tập–Hoàng Diệu junction (S1). Shop names stay under Notes.
+- Meal: main
+- Sources: S1
+
+### Bun cha ca Le Truc
+- Vietnamese name: Bún chả cá
+- What it is: S23, republishing VnExpress, says the cake is cá thác lác, the broth is fish bone or pork bone, the noodles are thin, with pickled shallot, sliced chili, lettuce, and banana flower. Sold on Lê Trực, morning only. A 2017 price was not copied. The shared file is the Da Nang breakfast. Append only. Do not treat the article’s “most loved” line as a rank.
+- How to eat it: A morning bowl on Lê Trực.
+- When to order it: Morning only (S23). A clock was not printed. Hour: Check on arrival — UNSOURCED.
+- Area, not a shop: Lê Trực.
+- Meal: breakfast
+- Sources: S23
+
+### Goi ca Dong Hoi
+- Vietnamese name: Gỏi cá
+- What it is: S23 says the fish is usually cá mú or cá mai, sliced thin. The diner cures it in lime juice and rolls it in rice paper with herbs. Sold in seafood rooms in the center and in boat restaurants on the Nhật Lệ. A 2017 plate range was not copied. Not the Da Nang herring salad. Append only.
+- How to eat it: Lime-cured, in rice paper (S23).
+- When to order it: Hour: Check on arrival — UNSOURCED.
+- Area, not a shop: Center, and boats on the Nhật Lệ. No door.
+- Meal: main
+- Sources: S23
+
+### Cua hap bi dao
+- Vietnamese name: Cua hấp bí đao
+- What it is: Sea crab steamed with winter melon. S18 calls the melon cool and the crab sweet, and prints a plate range of 300,000–500,000 đồng. The range was not copied. A street was not printed.
+- How to eat it: A shared summer plate (S18).
+- When to order it: Summer (S18). Hour: Check on arrival — UNSOURCED.
+- Area, not a shop: No street.
+- Meal: main
+- Sources: S18
+
+### Banh xeo added lines
+- The 21 Oct entry stands. S18 adds bánh xèo Quảng Hòa: red rice (lúa mành), soaked about five hours, eaten just off the pan with rau sống, nộm, cá chuối, and bánh đá. Cá chuối is the name S18 uses. S6 says bánh đa. Print both words. Ba Đồn at the fair stays a separate stall with no method (S12).
+
+### Banh khoai added lines
+- The provincial tourism portal card (S21) repeats the crisp rice-batter cake, pork, shrimp, and bean sprouts, and says some sauces include bánh quy and roasted peanut, with cucumber, starfruit, fig, unripe banana, and shrimp ruốc. The prose says afternoon and evening. The same card prints 07:00–18:00 and `email@gmail.com`. The clock was not used. Hours: Check on arrival. Shop names on the card match S1 and stay under Notes.
+
+### Khoai deo added line
+- S26, 25 Dec 2023, says an Asia Record list that year placed khoai deo among five natural specialties and gifts, and names three OCOP 3-star products: Linh Huệ, Như Mận, and Lâm Hường. Not a rank on this dossier.
+
+### Left off the city list
+- Cơm bồi and ốc đực are Minh Hóa (S27, S29). Ram đẻn in S27 is filed under đẻn biển. Gà with muối cheo and cá chình nướng are described with Phong Nha (S18, S27). They are not Đồng Hới market plates.
+- Chả mực Chính Thoan is one Bố Trạch producer, OCOP 3 sao, with a printed kilo range of 260,000–460,000 đồng (S28). Not published as a pick. The range was not copied.
+- The 26 Apr 2023 fair names, without a method: bánh đúc, ốc khe, trứng vịt lộn Lệ Thủy, cá trắm sông Son, sò huyết Ba Đồn, mực một nắng, tôm khô, mực khô, nước mắm, ruốc (S12). A 2024 newspaper fair list was not used as a second recipe source. Bánh xèo Ba Đồn stays unnamed as a method.
 
 ## Food streets and markets
 
