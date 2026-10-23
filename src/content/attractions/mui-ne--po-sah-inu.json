@@ -1,0 +1,65 @@
+{
+  "slug": "po-sah-inu",
+  "placeSlug": "mui-ne",
+  "name": "Po Sah Inu towers",
+  "nameVi": "Tháp Pô Sah Inư",
+  "kicker": "Three Cham towers on Ba Nai Hill",
+  "summary": "Three Cham towers on Ba Nai Hill: walk the brick shrines, about 7 km from Phan Thiet. The main tower holds a Linga-Yoni altar. Admission is 7,000–15,000 VND. The English catalogue and the Binh Thuan catalogue close at 17:00. The Vietnamese catalogue closes at 18:00. The English catalogue sets no time limit. The Binh Thuan catalogue sets 120 minutes.",
+  "dots": 3,
+  "timeNeeded": "120 minutes, or no set limit",
+  "fee": "7,000–15,000 VND",
+  "getThere": "About 7 km northeast of Phan Thiet center, on the road to the strip.",
+  "district": "Phu Hai",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The main brick tower and a smaller shrine beside it",
+  "notice": {
+    "title": "Close is 17:00 or 18:00",
+    "body": "The English catalogue and the Binh Thuan catalogue close at 17:00. The Vietnamese catalogue closes at 18:00."
+  },
+  "body": [
+    "Walk the three brick towers on Ba Nai Hill in Phu Hai. Vietnam Tourism calls them 1,200-year-old Hoa Lai national monuments. The main tower holds a Linga-Yoni altar. The English catalogue describes a stone bull that once stood in the middle tower and is gone.",
+    "The hill is about 7 km northeast of Phan Thiet center, on the road between the city and the Ham Tien strip. The English catalogue leaves the street line blank. The Vietnamese catalogue prints Km9 Nguyễn Thông, Phường Phú Thuỷ, Lâm Đồng. The Binh Thuan catalogue prints Phường Phú Hài, Phan Thiết, Bình Thuận.",
+    "The English catalogue sets no time limit at the towers. The Binh Thuan catalogue sets 120 minutes. Admission on all three catalogues is 7,000–15,000 VND, with no adult and child split. Katê was held here on the morning of 2 Oct 2024. An ordinary visit stays inside the posted hours."
+  ],
+  "figures": [
+    {
+      "id": "mui-ne-po-sah-inu-2",
+      "caption": "The doorway and brick tiers of the main tower",
+      "alt": "Close view of the brick doorway and tiers of the Po Sah Inu main tower"
+    }
+  ],
+  "gettingThere": [
+    "The towers stand on Ba Nai Hill in Phu Hai, about 7 km northeast of Phan Thiet center. The stop is on the road between the city and the Ham Tien strip, outside the fishing ward."
+  ],
+  "legs": [
+    {
+      "heading": "From Phan Thiet",
+      "body": "About 7 km northeast of the city center, on Ba Nai Hill. The Vietnamese catalogue prints Km9 Nguyễn Thông, Phường Phú Thuỷ, Lâm Đồng. The Binh Thuan catalogue prints Phường Phú Hài, Phan Thiết, Bình Thuận."
+    },
+    {
+      "heading": "From the Ham Tien strip",
+      "body": "A stop on the way in from Phan Thiet, before the fishing ward. The hill is Phu Hai."
+    }
+  ],
+  "hours": "7:00–17:00, or until 18:00",
+  "closed": "Check on arrival",
+  "admissionNote": "7,000–15,000 VND on the English Lam Dong catalogue, the Vietnamese Lam Dong catalogue, and the Binh Thuan catalogue. None of the three splits adult and child. Open 7:00–17:00 on the English catalogue and the Binh Thuan catalogue. Open 7:00–18:00 on the Vietnamese catalogue. The English catalogue sets no time limit. The Binh Thuan catalogue sets 120 minutes.",
+  "links": [
+    {
+      "label": "Lam Dong tourism, English catalogue",
+      "url": "https://visitlamdong.vn/en/thapposahinu",
+      "note": "7,000–15,000 VND, 7:00–17:00, no time limit, Ba Nai Hill"
+    },
+    {
+      "label": "Lam Dong tourism, Vietnamese catalogue",
+      "url": "https://visitlamdong.vn/vi/thapposahnu",
+      "note": "7:00–18:00, Km9 Nguyễn Thông, Phường Phú Thuỷ"
+    },
+    {
+      "label": "Binh Thuan tourism catalogue",
+      "url": "https://mybinhthuan.vn/vi/posanu",
+      "note": "7:00–17:00, 120 minutes, Phường Phú Hài"
+    }
+  ],
+  "interests": ["photography"]
+}

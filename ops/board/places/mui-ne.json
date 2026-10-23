@@ -62,8 +62,8 @@
     },
     "researchAttractions": {
       "status": "stored",
-      "note": "Left out: an official dune tariff, an official Fairy Stream tariff and address, a Hon Rom visit, and minutes between the strip and the white dunes. 22 km and 25 km both stay. 17:00 and 18:00 at the towers both stay.",
-      "updated": "2026-10-23T06:21:33.145Z",
+      "note": "Left out: an official dune tariff, an official Fairy Stream tariff and address, a Hon Rom visit, a kite-lesson fee, and minutes between the strip and the white dunes. 22 km and 25 km both stay. 17:00 and 18:00 at the towers both stay. Ham Tien kite beach research is stored with the other sights.",
+      "updated": "2026-10-23T18:02:03.408Z",
       "reworkCount": 0
     },
     "researchFood": {
@@ -104,8 +104,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Photo is the orange slope with casuarinas and a walker. Fee Check on arrival. Both distance lines stay. No pin.",
-      "updated": "2026-10-23T06:46:15.062Z",
+      "note": "Finished page. Hero replaced: watermarked video still out, Doi cat vang in. Fee Check on arrival. District is The sand hills.",
+      "updated": "2026-10-23T18:02:03.224Z",
       "reworkCount": 0
     },
     {
@@ -120,8 +120,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Photo is the pale crests with people small on the sand. Both distances stay. No pin.",
-      "updated": "2026-10-23T06:46:15.297Z",
+      "note": "Finished page. Second photo is the pale ridges. Fee Check on arrival. Hours 5:00-7:00.",
+      "updated": "2026-10-23T18:02:03.264Z",
       "reworkCount": 0
     },
     {
@@ -146,14 +146,14 @@
       "track": "unit",
       "name": "Fairy Stream",
       "slug": "fairy-stream",
-      "file": null,
+      "file": "src/content/attractions/mui-ne--fairy-stream.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "Suoi Tien and Suoi Hong both stay. Fee Check on arrival. Unpublished: no licensed photo.",
-      "updated": "2026-10-23T06:21:33.459Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Published. Fee and hours Check on arrival. Suoi Tien and Suoi Hong both stay.",
+      "updated": "2026-10-23T18:02:03.302Z",
       "reworkCount": 0
     },
     {
@@ -162,14 +162,14 @@
       "track": "unit",
       "name": "Fishing village",
       "slug": "fishing-village",
-      "file": null,
+      "file": "src/content/attractions/mui-ne--fishing-village.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "Dawn harbor. Unpublished: no licensed photo. Not a restaurant page.",
-      "updated": "2026-10-23T06:21:33.459Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Published. Dawn harbor. Fee Check on arrival.",
+      "updated": "2026-10-23T18:02:03.337Z",
       "reworkCount": 0
     },
     {
@@ -194,14 +194,14 @@
       "track": "unit",
       "name": "Po Sah Inu towers",
       "slug": "po-sah-inu",
-      "file": null,
+      "file": "src/content/attractions/mui-ne--po-sah-inu.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "Phan Thiet hill on the way in, not the fishing ward. Hours 17:00 and 18:00 both stay. Unpublished: no licensed photo.",
-      "updated": "2026-10-23T06:21:33.459Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Published. Fee 7000-15000 VND. Close 17:00 and 18:00 both stay.",
+      "updated": "2026-10-23T18:02:03.371Z",
       "reworkCount": 0
     },
     {
@@ -986,6 +986,22 @@
       "quality": "skipped",
       "note": "Side trip placeholder. Bac Binh towers.",
       "updated": "2026-10-23T06:21:33.460Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "mui-ne--ham-tien",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Ham Tien beach",
+      "slug": "ham-tien",
+      "file": "src/content/attractions/mui-ne--ham-tien.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Published kite beach. Lesson fee Check on arrival. October-April and year-round both stay.",
+      "updated": "2026-10-23T18:02:03.441Z",
       "reworkCount": 0
     }
   ],

@@ -34,7 +34,7 @@ No town pin is stored. See `getting-there.md`.
 - Suggested slug: resort-strip
 - Suggested dot: 5 — the reason to stay the night
 - Photo must show: Sand, surf, and a kite line in one frame, subject through the center, with the horizon ridge still in the frame if the lens can hold it. A tight crop cuts that ridge.
-- Unpublished: the published hero is this beach. A second licensed frame of the resort road was not stored in this pass.
+- Published as `ham-tien` on 23 Oct 2026. Hero: File:Vietnam, Mui Ne, Kitesurfing.jpg (Vyacheslav Argenberg, CC BY 4.0). Second: File:Vietnam, Mui Ne beach, Kitesurfing.jpg, same author. The city hero file is a dune frame and was not reused.
 - Sources: S1, S2, S4, S9, S19
 
 ### Red dunes
@@ -50,7 +50,8 @@ No town pin is stored. See `getting-there.md`.
 - Local interest: Photography, dunes
 - Suggested slug: red-dunes
 - Suggested dot: 4 — the sunset picture, paired with a beach day
-- Photo must show: The red slope filling the frame, a person for scale, subject through the center. A tight crop on the person cuts the dune. The published frame also shows power lines and a watermark and does not show the sea.
+- Photo must show: The red slope filling the frame, a person for scale, subject through the center. A tight crop on the person cuts the dune.
+- Hero replaced 23 Oct 2026. The previous frame was a video still with a YouTube watermark, gray sky, and power lines. New hero: File:Đồi cát vàng.jpg (Bùi Thụy Đào Nguyên, CC BY-SA 4.0). Second: File:Vietnam, Mui Ne sand dunes, trees on the sand.jpg (Vyacheslav Argenberg, CC BY 4.0).
 - Sources: S1, S2, S10
 
 ### White dunes
@@ -67,6 +68,7 @@ No town pin is stored. See `getting-there.md`.
 - Suggested slug: white-dunes
 - Suggested dot: 4 — the dawn picture, a ride from the strip, not the swim
 - Photo must show: The pale slope and the crest in one frame, people small on the sand, subject the dune. A tight crop on the people cuts the dune.
+- Hero kept: File:White Dune - Mui Ne.jpg (David Dubbert, CC BY-SA 3.0). Second added 23 Oct 2026: File:Mui Ne - White sanddunes.JPG (Chris Blackhead, CC BY-SA 3.0).
 - Sources: S1, S2, S4, S5, S9
 
 ### Fairy Stream
@@ -83,7 +85,7 @@ No town pin is stored. See `getting-there.md`.
 - Suggested slug: fairy-stream
 - Suggested dot: 3 — a pause between the strip and the dunes
 - Photo must show: The shallow stream and the red-and-white bank in one frame, a person in the water for scale. A tight crop on the feet cuts the bank.
-- Unpublished: no licensed photo stored in this pass.
+- Published 23 Oct 2026. Hero: File:Fairy Stream (Mui Ne).jpg (Darren On The Road, CC BY 2.0). Second: File:Suối Tiên (Mũi Né) 2.jpg, same author. A 2013 frame with a burned-in clock was rejected.
 - Sources: S1, S2, S5, S6, S20
 
 ### Fishing village and harbor
@@ -100,7 +102,7 @@ No town pin is stored. See `getting-there.md`.
 - Suggested slug: fishing-village
 - Suggested dot: 4 — the morning picture, inside a beach day
 - Photo must show: Round boats or the blue fleet, the sand, and the water, subject through the center. A tight crop on one hull cuts the harbor.
-- Unpublished: no licensed photo stored in this pass.
+- Published 23 Oct 2026. Hero: File:Làng chài ở Mũi Né, Phan Thiết, Bình Thuận.JPG (Đông Sơn, CC BY-SA 3.0). Second: File:Fishing Boats, Mui Ne.jpg (Trevor Mills, CC BY 2.0).
 - Sources: S1, S2, S3, S20
 
 ### Hon Rom
@@ -117,7 +119,7 @@ No town pin is stored. See `getting-there.md`.
 - Suggested slug: hon-rom
 - Suggested dot: 2 — a named bay, not a sourced visit
 - Photo must show: The bay, the sand, and the water. Do not reuse the resort-strip frame.
-- Unpublished: no licensed photo stored in this pass.
+- Unpublished: a Commons frame of the headland exists (File:Hòn Rơm.jpg). The opened pages still do not describe a swim, a fee, or a clock. No public card.
 - Sources: S9, S19, S20
 
 ### Po Sah Inu towers
@@ -135,7 +137,7 @@ No town pin is stored. See `getting-there.md`.
 - Suggested slug: po-sah-inu
 - Suggested dot: 3 — a stop on the ride in, not the reason for the night
 - Photo must show: The brick towers on the hill, full height, subject through the center. A tight crop cuts the crown.
-- Unpublished: no licensed photo stored in this pass.
+- Published 23 Oct 2026. Hero: File:Thap Po Sah Inu temples complex, Phu Hai, Vietnam 01.jpg (Ms Sarah Welch, CC0). Second: the 02 file, same author. English hours and price rechecked 23 Oct 2026 on S16. Vietnamese close 18:00 and Km9 Nguyễn Thông rechecked on S17. S18 returned no page on recheck; the 120-minute figure and Phường Phú Hài address stay from the stored catalogue read the same day.
 - Sources: S5, S11, S12, S16, S17, S18
 
 Districts that deserve their own page:
@@ -187,3 +189,7 @@ The fishing ward and the Ham Tien strip are one stay on the sources, with the st
 - Suggested slug: ordinary-day
 - Photo must show: The same person-scale beach as the hero, sand and water, not a resort lobby
 - Sources: S1, S3, S4
+
+## Left off the public list
+
+Kê Gà stays in `side-trips.md`. The feature measures the lighthouse from Tà Cú, not from this strip. It is not a sight of this slug. Hòn Rơm stays unpublished until a sourced visit exists.
