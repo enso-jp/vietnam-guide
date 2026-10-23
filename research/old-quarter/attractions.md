@@ -1,7 +1,7 @@
 # Attractions — Old Quarter
 
 Slug: `old-quarter`
-Checked: 22 Oct 2026
+Checked: 23 Oct 2026
 
 ## Why a night here
 
@@ -46,6 +46,81 @@ Checked: 22 Oct 2026
 - Suggested dot: already 3. Do not change it.
 - Photo must show: the market building, name readable, in color. Second frame: cloth inside the hall, not a sign crop and not a shrimp close-up that hides the hall.
 - Sources: S8, S9
+
+### Kim Ngan Communal House
+- Vietnamese name: Đình Kim Ngân
+- Kind: sight
+- Area: Hang Bac
+- What the visitor does: Walk in at 42–44 Hang Bac, cross the courtyard, and go on to the altar in the hall (S11, S12, S13).
+- Time: Check on arrival — UNSOURCED. No visit duration.
+- Fee: 20,000 VND a visit from 8 Dec 2025 (S11, S12, S13). Under 16 free, or under 1.3 m with no papers. Severe disability free. Half price for the groups S11 names. Free on 23 Nov, and on the last lunar day plus the first two days of Tet (S11, S12).
+- From the base: Walk north from Hoan Kiem Lake to Hang Bac. Minutes Check on arrival — UNSOURCED.
+- When to go: Day hours 08:00–12:00 and 13:30–17:30 (S11, S12, S13). Friday–Sunday evening from 19:00. Close printed as 21:00 (S11, S12, S13). January 2026 articles print 21:30 for the relic-site group and do not name this hall in that sentence (S18, S19). Print both closes.
+- Mistake to avoid: Arriving after 21:00 on a Friday and finding the gate shut.
+- Local interest: old towns
+- Suggested slug: kim-ngan
+- Suggested dot: 3. No dot was stored before this pass.
+- Photo must show: the courtyard and the tiled hall. Second frame: the altar. Files: Kim Ngân Temple 2.jpg and Kim Ngân Temple 3.jpg, Christophe95, CC BY-SA 4.0. Temple 1.jpg is the blog frame. Do not reuse it.
+- Sources: S11, S12, S13, S18, S19
+
+### Ma May Heritage House
+- Vietnamese name: Ngôi nhà Di sản 87 Mã Mây
+- Kind: sight
+- Area: Ma May
+- What the visitor does: Walk the timber tube house at 87 Ma May, front to courtyard (S14, S15, S16).
+- Time: Check on arrival — UNSOURCED. No visit duration.
+- Fee: 20,000 VND a visit (S14, S15). Start dated 1 Jan 2025 (S14), collection from 2 Jan 2025 (S15), and the e-ticket called official from 19 Jan 2025 (S16). Print all three dates. Under 16 free (S14, S15). Free disability is nặng on S14 and đặc biệt nặng on S15. Half price groups differ. Print both. Free on 23 Nov (S14, S15).
+- From the base: Walk the lanes to 87 Ma May. Minutes Check on arrival — UNSOURCED.
+- When to go: Hours Check on arrival. S14 and S15 print no clock. S18 and S19 print 08:00–12:00, 13:30–17:30, and Friday–Sunday 19:00–21:30 for the relic sites in a story about other doors, and they say this house reopened in January 2026. Do not treat that clock as this house’s only clock.
+- Mistake to avoid: Assuming the house is open. It was closed for a time and opened again in January 2026 (S18, S19).
+- Local interest: old towns
+- Suggested slug: ma-may-house
+- Suggested dot: 3. No dot was stored before this pass. Do not use the slug `ma-may`. That file is the street, already on the stay card.
+- Photo must show: the wooden front with the heritage-house sign. Second frame: the inner gallery and tiled roof. Files: Heritage House (Hanoi).jpg and Heritage House in Hanoi.jpg, Christophe95, CC BY-SA 4.0.
+- The plot: about the end of the 19th century (S14, S15, S16), and also the start of the 19th century (S25). Area 157.6 m2, front about 5 m, depth 28 m, rear about 6 m (S14, S15). Certificate 16 Feb 2004 (S14, S15, S16) and also 18 Feb 2004 (S25). Restoration finished 27 Oct 1999 (S14, S15).
+- Sources: S14, S15, S16, S18, S19, S25
+
+### O Quan Chuong
+- Vietnamese name: Ô Quan Chưởng
+- Kind: sight
+- Area: Hang Chieu
+- What the visitor does: Walk through the brick arch and watchtower where Hang Chieu, Thanh Ha, and Dao Duy Tu meet (S21, S23, S24).
+- Time: Check on arrival — UNSOURCED.
+- Fee: Check on arrival. S24 says free. One secondary page. Do not print free.
+- From the base: Walk east through the lanes. Minutes Check on arrival — UNSOURCED. S24’s 200 m to Dong Xuan is one secondary line. Do not print it.
+- When to go: Hours Check on arrival. S24 says open all day. One secondary page.
+- Mistake to avoid: Treating the arch as a ticket hall with a published clock.
+- Local interest: old towns
+- Suggested slug: quan-chuong
+- Suggested dot: 3. No dot was stored before this pass.
+- Photo must show: the arch and the watchtower, with the plaque readable. Second frame: the other face, side arches. Hero file is titled Đông-Hoa Gate on Commons. The plaque in the frame reads Cửa Ô Quan Chưởng. Kept. Second: Mặt tây ô Quan Chưởng, Phan Minh Tuấn, CC BY-SA 4.0.
+- What it is: national historic relic in 1994, dated 1749 (S22, S23). Literary name Đông Hà Môn (S23) and also Thanh Hà môn (S21). Print both names. Address số 1 Hàng Chiếu is on S23 and on a near-copy of the same text. The junction is on S23 and S24.
+- Sources: S21, S22, S23, S24
+
+### Quang Dong Assembly Hall
+- Vietnamese name: Hội quán Quảng Đông
+- Kind: sight
+- Area: Hang Buom
+- What the visitor does: Walk into the tiled hall at 22 Hang Buom (S14, S15). Also called the culture and art centre at that address.
+- Time: Check on arrival — UNSOURCED.
+- Fee: 20,000 VND a visit (S14, S15). Same three start dates as Ma May: 1 Jan 2025, 2 Jan 2025, 19 Jan 2025 (S14, S15, S16). Same free and half-price disagreement (S14, S15). Free on 23 Nov (S14, S15, S17).
+- From the base: Walk to 22 Hang Buom. Minutes Check on arrival — UNSOURCED.
+- When to go: Day hours 08:00–12:00 and 13:30–17:30 (S17 for 23 Nov 2025, and S18, S19 for the relic sites). Evening Friday–Sunday from 19:00, close 21:00 (S17) or 21:30 (S18, S19). Print both.
+- Mistake to avoid: Averaging 21:00 and 21:30.
+- Local interest: old towns
+- Suggested slug: quang-dong
+- Suggested dot: 3.
+- Photo: one licensed exterior, Hội quán Quảng Đông 22 Hàng Buồm.jpg, NKSTTSSHNVN, CC BY-SA 4.0. No second frame. Public card with no body. The Hội An file of the same name is a different hall. Do not use it.
+- Built 1803 and the deities Quan Cong and Thien Hau are on S15 only. Leave those out of public copy. National ranking decision 01/2007/QĐ-BVHTTDL of 27 Aug 2007 and 1,670 m2 are on S14 and S15.
+- Sources: S14, S15, S16, S17, S18, S19
+
+### Not a separate sight
+
+- The lanes and a morning walk stay the place. Do not add a page for them.
+- Hang Gai, Lan Ong, and further guild-street names stay in the place paragraphs. Hang Bac and Hang Ma already have pages. Do not split more street names.
+- Quan De Temple, 28 Hang Buom: real visit, fee from 19 Jan 2026 (S18, S19). No licensed photo of that temple. Unpublished. Do not use the unidentified “Chinese temple” frame.
+- Old Quarter Cultural Exchange Centre, 50 Dao Duy Tu: real visit, same January 2026 fee (S18, S19). No licensed photo. Unpublished.
+- Hoan Kiem, the cathedral, the opera, the train street, and the water puppets stay on `hanoi`.
 
 ### The lanes
 - Vietnamese name: Phố cổ Hà Nội
