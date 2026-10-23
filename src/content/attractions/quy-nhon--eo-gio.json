@@ -4,37 +4,36 @@
   "name": "Eo Gio",
   "nameVi": "Eo Gió",
   "kicker": "The rock saddle above the sea",
-  "summary": "Stand in the gap between two rock ridges and look down at the sea. The fee is 25,000 đồng, and children under 0.9 m are free. One page calls the sunset the finest in Vietnam. A 2021 page on the same portal calls it the finest sunrise.",
+  "summary": "Rock saddle on Phuong Mai: stand in the gap for about 30 minutes and look down at the sea. The ticket is 25,000 đồng, and a child under 0.9 m is free. The calm window is lunar month 3 through the end of lunar month 9. Stay off the rocks when the sea is rough, and come for the sunset through the gap.",
   "dots": 5,
-  "timeNeeded": "30 minutes on the portal",
+  "timeNeeded": "About 30 minutes",
   "fee": "25,000 đồng",
-  "getThere": "On Phuong Mai, east of the lagoon. Minutes from the beach are check on arrival.",
-  "bestMonths": "Lunar month 3 through the end of lunar month 9, if the sea is calm",
-  "verified": "21 Oct 2026",
+  "getThere": "On Phuong Mai, east of the lagoon.",
+  "district": "Phuong Mai",
+  "bestMonths": "Lunar month 3 through the end of lunar month 9, when the sea is calm",
+  "verified": "23 Oct 2026",
   "heroCaption": "The saddle at Eo Gió, with both rock walls and the sea",
+  "notice": {
+    "title": "Stay away in a rough sea",
+    "body": "The calm window is lunar month 3 through the end of lunar month 9. When the sea is rough, leave the saddle."
+  },
   "gettingThere": [
-    "The header says khu số 4, Nhơn Lý–Cát Tiến, Phường Quy Nhơn Đông. The prose says khu vực 3, thôn Lý Lương, xã đảo Nhơn Lý. The site is on Phương Mai, east of the lagoon. Kilometres and minutes from the city beach are check on arrival.",
-    "A 2021 news page says a resort sits 2 km by road and 10 minutes by water from here. That resort is not a pick."
+    "The saddle is on Phuong Mai, east of the lagoon. One address line reads khu số 4, Nhơn Lý–Cát Tiến, Phường Quy Nhơn Đông. The other reads khu vực 3, thôn Lý Lương, xã đảo Nhơn Lý."
   ],
   "legs": [
     {
       "heading": "From the city beach",
-      "body": "Across Thị Nại, then on to Phương Mai. The portal does not print the kilometres or the minutes from the sand. Check on arrival."
+      "body": "Across Thị Nại, then along Phuong Mai to the saddle."
     }
   ],
   "hours": "7:00–19:00",
-  "closed": "No weekly closing day is printed. Stay away when the sea is rough. The page’s calm window is lunar month 3 through the end of lunar month 9.",
-  "admissionNote": "25,000 đồng. Children under 0.9 m free. Do not treat Kỳ Co’s 30,000–60,000 đồng header as this ticket.",
+  "closed": "No weekly closing day is listed. Stay away when the sea is rough.",
+  "admissionNote": "25,000 đồng. A child under 0.9 m is free.",
   "links": [
     {
       "label": "Eo Gió",
       "url": "https://dulichquynhon.binhdinh.gov.vn/vi/eogiolandscape",
       "note": "Bình Định tourism portal"
-    },
-    {
-      "label": "24 Feb 2021 sunrise note",
-      "url": "https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/?t=du-xuan-eo-gio-quy-nhon-noi-ngam-binh-minh-dep-nhat-viet-nam&id=news_1226",
-      "note": "Same portal. Calls it the finest sunrise."
     }
   ],
   "interests": ["beaches", "photography"]

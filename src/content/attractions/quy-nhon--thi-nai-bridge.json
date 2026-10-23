@@ -4,34 +4,40 @@
   "name": "Thi Nai bridge",
   "nameVi": "Cầu Thị Nại",
   "kicker": "The white span across the lagoon",
-  "summary": "Photograph the white span on the road toward the peninsula. The bridge is free. The photograph is the span by day. The portal describes the lamps after dark.",
+  "summary": "White sea bridge across the lagoon: cross the span in about 30 minutes, free, on the road to the peninsula. The span is 2,477.3 m in 54 sections, on a road of more than 7 km. Stop for the afternoon light, or for the lamps after dark.",
   "dots": 4,
-  "timeNeeded": "30 minutes on the portal. It is a road.",
+  "timeNeeded": "About 30 minutes",
   "fee": "Free",
-  "getThere": "The lagoon is 8 km northeast. Minutes from the beach are check on arrival.",
-  "verified": "21 Oct 2026",
+  "getThere": "The lagoon is 8 km northeast, on the road to the peninsula.",
+  "district": "The lagoon",
+  "verified": "23 Oct 2026",
   "heroCaption": "The span by day, with mangrove and water",
   "notice": {
-    "title": "Two lengths on one span",
-    "body": "The bridge page calls it the longest sea bridge and does not print the metres. The lagoon page prints 2,477.3 m and 54 spans, on a road of more than 7 km. The photograph is the span by day."
+    "title": "The span is 2,477.3 m",
+    "body": "The length is 2,477.3 m, in 54 sections, on a road of more than 7 km that also has five shorter bridges. The road is free. The lamps come on after dark."
   },
   "gettingThere": [
-    "The bridge page places Cầu Thị Nại in Phường Quy Nhơn and calls it the longest sea bridge without printing the metres. The lagoon page prints 2,477.3 m and 54 spans, on a road of more than 7 km that also has five shorter bridges. The lagoon is 8 km northeast. Minutes from the beach are check on arrival."
+    "The bridge is in Phường Quy Nhơn, on the road from the city to Nhơn Hội. The lagoon sits 8 km northeast. The span is 2,477.3 m with 54 sections, on a road of more than 7 km."
   ],
   "legs": [
     {
       "heading": "From the city beach",
-      "body": "By road toward the peninsula. The portal does not print the minutes. Check on arrival."
+      "body": "By road toward the peninsula. The lagoon is 8 km northeast."
     }
   ],
-  "hours": "The portal prints 7:00–18:00. The same page describes the bridge after dark, so that line is not a gate that closes the road.",
-  "closed": "No weekly closing day is printed.",
+  "hours": "7:00–18:00 is the listed hour. The lamps are on after dark, and the road stays open.",
+  "closed": "No weekly closing day is listed.",
   "admissionNote": "Free. There is no ticket.",
   "links": [
     {
       "label": "Cầu Thị Nại",
       "url": "https://dulichquynhon.binhdinh.gov.vn/vi/cauthinai",
       "note": "Bình Định tourism portal, the bridge page"
+    },
+    {
+      "label": "Đầm Thị Nại",
+      "url": "https://dulichquynhon.binhdinh.gov.vn/vi/thinailagoon",
+      "note": "Length, spans, and the road"
     }
   ],
   "interests": ["nightlife", "photography"]

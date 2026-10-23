@@ -3,7 +3,9 @@
 Place: `quy-nhon`
 Slug: `city-beach`
 Status: stored
-Checked: 21 Oct 2026, from the stored dossier. The portal was not reopened on 22 Oct 2026.
+Checked: 23 Oct 2026. S3 reopened as S40. Fee, hours, and the crescent lines still match.
+
+Second frame kept: `quy-nhon-city-beach-2`, File:Quy Nhon Beach Promenade.jpg, VeeWin, CC BY-SA 4.0. The promenade, the sand, and the hills at dusk. Gray-wash and watermarked beach frames were rejected.
 
 ## What it is
 
