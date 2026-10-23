@@ -1,0 +1,69 @@
+{
+  "slug": "me-cung",
+  "placeSlug": "ha-long",
+  "name": "Me Cung Cave",
+  "nameVi": "Động Mê Cung",
+  "kicker": "The maze cave on the long route",
+  "summary": "Cave on Lờm Bò: walk the chambers on the long boat, about 13 km from the Ha Long port. Shell layers at the mouth mark a Soi Nhụ site dated 18,000–7,000 years, and a limestone garden sits above the cave. Ask for VHL2. The passenger port's shorter route 2 leaves this cave off the list.",
+  "dots": 3,
+  "district": "The long boat",
+  "timeNeeded": "A stop on the long boat",
+  "fee": "Route 2 entrance 250,000 đồng",
+  "getThere": "VHL2 boat, about 13 km from the Ha Long port",
+  "verified": "23 Oct 2026",
+  "heroCaption": "A lit column and the ceiling inside Me Cung",
+  "notice": {
+    "title": "Ask which route 2 you are on",
+    "body": "VHL2, published 19 July 2024, ends at Mê Cung and also passes Ti Top, Sửng Sốt, and Luồn. The passenger port's route 2 page lists those three and leaves Mê Cung off. Confirm the stop before you board."
+  },
+  "body": [
+    "Mê Cung sits on the southeast side of đảo Lờm Bò, about 13 km from the Ha Long passenger port and about 14 km from Tuần Châu. You walk a cave of several chambers. The bay itinerary counts four. The national tourism listing describes narrow passages, nearly 100 m, between the rooms.",
+    "Shell layers at the mouth are a Soi Nhụ site dated 18,000–7,000 years. The board describes a deposit a metre thick. The national tourism listing describes layers 2–3 m thick. Above the cave, a limestone garden holds old trees, including plants found on this bay. The mouth is 20–25 m above the sea on the national listing, and the bay itinerary puts the cave at 20–30 m."
+  ],
+  "figures": [
+    {
+      "id": "ha-long-me-cung-2",
+      "caption": "Flowstone in the chamber, with a red-lit room beyond",
+      "alt": "Limestone formations inside Me Cung Cave, Ha Long Bay, with a red-lit chamber behind"
+    }
+  ],
+  "gettingThere": [
+    "VHL2 leaves the port for Soi Sim, Ti Top, Sửng Sốt, vụng Tùng Sâu, Mê Cung, Bồ Nâu, Luồn, hang Trống, hang Trinh Nữ, and Hồ Động Tiên. The bay itinerary makes Mê Cung the last stop. The passenger port's route 2 page of 11 March 2024 lists Ti Top, Sửng Sốt, and Luồn. VHL2, from 19 July 2024, adds Mê Cung."
+  ],
+  "legs": [
+    {
+      "heading": "From the Ha Long port",
+      "body": "About 13 km by boat. The port is on the Bãi Cháy shore, Beach road, New Beach, Bai Chay ward."
+    },
+    {
+      "heading": "From Tuan Chau",
+      "body": "About 14 km from Cảng tàu khách quốc tế Tuần Châu. Decision 2119 starts VHL2 at the port."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Day tickets on the fee page run 06:30–18:30. Confirm that your boat lands at Mê Cung.",
+  "admissionNote": "Route 2 entrance, Decision 4278/2016, still on the board fee page: 250,000 đồng a person. The 15 March 2024 tourism notice gives a route 2 total of 490,000–510,000 đồng, split there as 310,000 sightseeing and 200,000 boat. Free under 1.2 m or under 7. Half price for a Vietnamese citizen 60 or over. Twenty percent off from age 7 to under 16. From 10 December 2025 a bay ticket needs an identity card or a passport.",
+  "links": [
+    {
+      "label": "Me Cung",
+      "url": "https://halongbay.com.vn/vi/places/30-dong-me-cung",
+      "note": "Ha Long Bay Management Board"
+    },
+    {
+      "label": "Route 2 itinerary",
+      "url": "https://halongbay.com.vn/en/tours/2-ha-long-bay-itinerary-2-international-cruise-port-soi-sim-beach-ti-top-island-sung-sot-cave-tung-sau-lagoon-me-cung-cave-bo-nau-cave-luon-cave-trong-cave-trinh-nu-cave-ho-dong-tien-cave",
+      "note": "Board itinerary, with Me Cung"
+    },
+    {
+      "label": "Route list",
+      "url": "https://halongbay.com.vn/vi/p/131-cong-bo-cac-hanh-trinh-tham-quan-du-lich-tren-vinh-ha-long-vinh-bai-tu-long",
+      "note": "Decision 2119, 19 July 2024"
+    },
+    {
+      "label": "National tourism listing",
+      "url": "https://vietnamtourism.vn/index.php/tourism/items/59",
+      "note": "Vietnam National Authority of Tourism"
+    }
+  ],
+  "interests": ["caves"]
+}

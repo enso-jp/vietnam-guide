@@ -1,0 +1,69 @@
+{
+  "slug": "overnight",
+  "placeSlug": "ha-long",
+  "name": "Overnight on the bay",
+  "nameVi": "Nghỉ đêm trên vịnh",
+  "kicker": "A night aboard after the day boats",
+  "summary": "A night on a bay boat: stay 24 hours from departure and keep the limestone after the day boats leave. The published average is 600,000–800,000 đồng a person. Ask what that fare includes, because the bay entrance for the night is a separate ticket. A day route is enough when the caves are the whole point.",
+  "dots": 5,
+  "district": "The bay",
+  "timeNeeded": "One night, 24 hours from departure",
+  "fee": "600,000–800,000 đồng a person",
+  "getThere": "Board at the Ha Long passenger port or at Tuan Chau",
+  "verified": "23 Oct 2026",
+  "heroCaption": "A bay junk with red sails, limestone behind it",
+  "notice": {
+    "title": "Two prices sit on this night",
+    "body": "The 15 March 2024 average is 600,000–800,000 đồng a person. Ask what that fare includes. The bay entrance is separate: 550,000 đồng for one night on route 2, and 500,000 đồng for one night on route 3 or route 4."
+  },
+  "body": [
+    "You board at the Ha Long passenger port or at Tuần Châu and sleep on the boat. One night on the fee schedule is 24 hours from departure. Two nights are 48 hours. Route VHL7 is the exploration-cruise route and covers the stops on routes 1, 2, 3, and 4.",
+    "At Lờm Bò and at the Cống Đỏ overnight anchorage, the kayak is already inside the overnight tour price. From 10 December 2025 a bay ticket needs an identity card or a passport. Bring one to the pier."
+  ],
+  "figures": [
+    {
+      "id": "ha-long-overnight-2",
+      "caption": "Cruise boats among the limestone towers",
+      "alt": "Three wooden cruise boats on Ha Long Bay with limestone towers behind them"
+    }
+  ],
+  "gettingThere": [
+    "The night starts at Cảng tàu khách quốc tế Hạ Long, on the Bãi Cháy shore, or at Cảng tàu khách quốc tế Tuần Châu. Day tickets on the fee page run 06:30–18:30. Your own departure is the start of the 24 hours."
+  ],
+  "legs": [
+    {
+      "heading": "From the Ha Long port",
+      "body": "Beach road, New Beach, Bai Chay ward, 500 m from Sun World. This is the Bãi Cháy pier for a night aboard."
+    },
+    {
+      "heading": "From Tuan Chau",
+      "body": "Cảng tàu khách quốc tế Tuần Châu is the other pier in the same fee notice, and the start named on the July 2024 route list."
+    }
+  ],
+  "hours": "One night is 24 hours from departure. Two nights are 48 hours.",
+  "closed": "Day tickets on the fee page run 06:30–18:30. The night aboard starts when your boat leaves.",
+  "admissionNote": "Cabin average on 15 March 2024: 600,000–800,000 đồng a person. Ask what that includes. Bay entrance for staying overnight, Decision 4278/2016, still on the board fee page: route 2, one night 550,000 đồng and two nights 750,000 đồng; route 3 or route 4, one night 500,000 đồng and two nights 650,000 đồng. Free under 1.2 m or under 7. Half price for a Vietnamese citizen 60 or over. Twenty percent off from age 7 to under 16. From 10 December 2025 a bay ticket needs an identity card or a passport.",
+  "links": [
+    {
+      "label": "Bay entrance fees",
+      "url": "https://halongbay.com.vn/en/p/57-mien-giam-phi-tham-quan-vinh-ha-long",
+      "note": "Ha Long Bay Management Board, fee table"
+    },
+    {
+      "label": "Fee exemptions",
+      "url": "https://halongbay.com.vn/p/57-mien-giam-phi-tham-quan-vinh-ha-long",
+      "note": "Same board, exemption rules"
+    },
+    {
+      "label": "Overnight average",
+      "url": "https://dulich.quangninh.gov.vn/Trang/ChiTietTinTuc.aspx?nid=4198",
+      "note": "Quang Ninh tourism, 15 March 2024"
+    },
+    {
+      "label": "Route list",
+      "url": "https://halongbay.com.vn/vi/p/131-cong-bo-cac-hanh-trinh-tham-quan-du-lich-tren-vinh-ha-long-vinh-bai-tu-long",
+      "note": "Decision 2119, 19 July 2024"
+    }
+  ],
+  "interests": ["islands", "resortLiving"]
+}
