@@ -110,6 +110,13 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "tam-coc",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-23T06:05:22.536Z",
+    "by": "tam-coc-research",
+    "branch": "cursor/tam-coc-research-base-1273"
+  },
   "log": []
 }
