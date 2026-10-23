@@ -272,3 +272,30 @@ The portal still prints tỉnh Bình Định and, on some sight headers, newer w
 - Accessed: 21 Oct 2026
 - Stamp: verified
 - Supports: The office’s restaurant directory clusters several listings on đường Xuân Diệu (numbers 122, 94, and 58 on the first page). Those shop names are location clues only.
+
+## S39
+- URL: https://binhdinh.gov.vn/du-khach/dac-san-binh-dinh
+- Publisher: Cổng thông tin điện tử tỉnh Bình Định. Footer: Giấy phép số 02/GP-TTĐT, Sở Thông tin và Truyền thông, 14 Jun 2019. Trưởng Ban biên tập: Lê Ngọc An.
+- Accessed: 23 Oct 2026
+- Stamp: verified
+- Note: The live host did not complete a TLS handshake from this check. The copy opened is the Internet Archive snapshot of 12 Dec 2024, `https://web.archive.org/web/20241212075826/https://binhdinh.gov.vn/du-khach/dac-san-binh-dinh`, and the child pages captured with it. The canonical URLs are the ones below.
+- Supports: The specialty index and these child pages. Address fields are copied as printed. No price and no clock were on these pages. 2019 đồng figures from S25 are still not copied.
+  - Bánh hỏi lòng heo — TP Quy Nhơn. Origin Diêu Trì. Morning. Rice strands finer than bún, with sliced pork intestine and pork, hot porridge, and a slightly sweet garlic-chili fish sauce. `banh-hoi-long-heo3.html`
+  - Bún chả cá Quy Nhơn — Thành phố Quy Nhơn. Cake from fresh fish, family seasoning. Broth mainly fish bone and fish head. Chili sauce particular to Binh Dinh. `bun-cha-ca-quy-nhon3.html`
+  - Nem chợ huyện — Huyện Tuy Phước. Pork method, taste, fresh and grilled, and the rice-paper roll. `nem-cha-cho-huyen3.html`
+  - Chim mía — Thị trấn Phú Phong, huyện Tây Sơn. Late winter and early spring. Grilled or fried. `chim-mia-phu-phong3.html`
+  - Bún tôm Châu Trúc — Thôn Châu Trúc, xã Mỹ Châu, huyện Phù Mỹ. `bun-tom-chau-truc3.html`
+  - Mắm nhum — Xã Mỹ An, huyện Phù Mỹ. Black nhum, 10 to 15 days. Often not for sale. `mam-nhum-my-an3.html`
+  - Bánh ít lá gai — TP Quy Nhơn. Cone, square base, ramie leaf, sticky rice, mung bean, dried coconut, ginger. `banh-it-la-gai3.html`
+  - Bún Song Thằn — Phường Bình Định, thị xã An Nhơn. Mung bean. Pairs of strands. 5 kg of beans to 1.2 kg of flour and 1 kg of noodles. Cooked with shrimp, lean pork, or chicken offal at An Thái. A number for the price was not printed. `bun-song-than3.html`
+  - Bánh xèo Mỹ Cang — Thôn Mỹ Cang, xã Phước Sơn, huyện Tuy Phước. Unlike the Hue cake. Rice, tôm đất from the Thị Nại lagoon (also sea shrimp), beef optional, herbs, rice-paper roll. This disagrees with the freshwater shrimp in S25. Both stay. `banh-xeo-my-cang3.html`
+  - Cháo bò — TP Quy Nhơn. Beef-bone broth, scallion and sawtooth, tendon, bone, and offal. Gỏi bò is named as the pairing and is not described. `chao-bo-quy-nhon3.html`
+  - Bún riêu cua — TP Quy Nhơn. Pounded crab, egg, seaweed, herb plate. `bun-rieu-cua-vi-song-kon3.html`
+  - Chả cá Quy Nhơn — TP Quy Nhơn. Tuna cake, scallion and dill, fried or steamed with a thin egg layer. Broth of tuna bone and head, grilled shallot, rock sugar, and also bamboo shoot and straw mushroom. Dill here disagrees with S25, which says the central cake has no dill. Both stay. `cha-ca-quy-nhon3.html`
+  - Rượu Bàu Đá — Thôn Cù Lâm, xã Nhơn Lộc, thị xã An Nhơn. Stronger than 50 degrees. `ruou-bau-da3.html`
+  - Cua huỳnh đế — Thị trấn Tam Quan, thị xã Hoài Nhơn, and Đề Gi. Lunar month 12 through lunar month 3. `cua-huynh-tam-quan.html`
+  - Gié bò — Thị trấn Phú Phong, huyện Tây Sơn. Bahnar, from An Khê and Vĩnh Thạnh, also eaten in Tây Sơn. `gie-bo-tay-son3.html`
+  - Bánh tráng nước dừa — Thị trấn Tam Quan, thị xã Hoài Nhơn. Coconut milk in the rice batter. Eaten grilled. `banh-trang-nuoc-dua3.html`
+  - Gỏi cá chích — TP Quy Nhơn. Fried whole in a phở sheet, or raw after the bones are taken out. `goi-ca-chich3.html`
+  - Cháo cầu gai — TP Quy Nhơn. Fresh urchin, meat and roe, stir-fried into the porridge. `chao-cau-gai3.html`
+  - Bánh ướt Hoài Nhơn — header Thị xã Hoài Nhơn; prose says huyện Hoài Nhơn. Both stay. `banh-uot-hoai-nhon3.html`
