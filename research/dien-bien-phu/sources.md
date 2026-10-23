@@ -110,7 +110,7 @@ Published Vietnam Guide pages are not a source. The Sơn La dossier was read onl
 - URL: https://vietnamnews.vn/life-style/1654573/dien-bien-s-culinary-culture-must-try-dishes.html
 - Publisher: Vietnam News, quoting Nguyễn Minh Phú, director of the culture department
 - Accessed: 22 Oct 2026
-- Supports: Pa pỉnh tộp method agreeing with S17. Chẩm chéo named here and not in the S17 recipe paragraph. Kitchen-smoked buffalo, bamboo worms, Mông wine, mountain goat, Đà River fish, and black chicken named. Bản Phiêng Lơi at the city entrance. Methods for the extra names were not in the paragraph used.
+- Supports: Pa pỉnh tộp method agreeing with S17 on the 1–1.5 kg fish. Chẩm chéo named here and not in the S17 recipe paragraph. Bản Phiêng Lơi at the city entrance. Re-read 23 Oct 2026: the body also describes steamed black chicken (local name ka đu; spices and herbs for 20 minutes; lemongrass; half an hour over charcoal), multi-colour sticky rice balled by hand with fish and pork grill, ban-flower dishes, bon soup, kitchen-smoked buffalo (mắc khén, salt, lemongrass, chilli, sugar, and garlic for two hours, then about 15 hours, brown-red), duck braised with banana flower (half an hour, then three hours), and green oleaster wrapped in cabbage. Bamboo worms, Mông wine, mountain goat, and Đà River fish stay names in the director’s opening list. A method for those four was not in the article. Hương Linh – Tủa Chùa tea and Mường Ảng coffee are named as OCOP products, with no brew.
 
 ### S19
 - URL: https://baodienbienphu.vn/tin-bai/van-hoa/pho-di-bo-muong-thanh-lam-gi-de-giu-chan-du-khach
@@ -237,3 +237,15 @@ Published Vietnam Guide pages are not a source. The Sơn La dossier was read onl
 - Publisher: Commercial coach board for Bến xe Điện Biên
 - Accessed: 22 Oct 2026
 - Supports: About 453 km and 15 hours to Mỹ Đình. About 160 km and 10 hours to Sơn La. These disagree with S35, S38, and the pass pairs in S12 and S13. Fares on the board were not adopted.
+
+### S40
+- URL: https://vietnamnet.vn/10-mon-ngon-khong-lan-vao-dau-duoc-o-dien-bien-266480.html
+- Publisher: Vietnamnet, 8 Oct 2015, following Gia đình & Xã hội
+- Accessed: 23 Oct 2026
+- Supports: Chẩm chéo, bắp cải cuốn nhót xanh, sâu chít, pa pỉnh, xôi nếp nương, thịt trâu gác bếp, măng đắng, rau hoa ban, gạo tám, bánh dày, and the names khẩu cắm, khẩu háng, and khẩu papa. Fish weight “a bit over 1 kg,” with carp, trôi, mè, and trắm, disagrees with the 1–1.5 kg on S17 and S18. Chẩm chéo ingredients disagree with S18. Thịt trâu gác bếp times disagree with the buffalo account on S18. Gạo tám is also said to be used for cơm lam. Cơm lam is still not in the culture desk’s nine. No stall price was printed.
+
+### S41
+- URL: https://congthuong.vn/vit-om-hoa-chuoi-mon-an-nhat-dinh-phai-thu-khi-den-dien-bien-333021.html
+- Publisher: Báo Công Thương, Lê Nguyệt, 18 Jul 2024
+- Accessed: 23 Oct 2026
+- Supports: Vịt om hoa chuối as a family guest dish. Field duck, forest banana flower, hạt dổi, mắc khén, one hour, then about three hours in banana leaves. Disagrees with S18 on the soak (half an hour there) and on the seasoning list. No stall price. No street.

@@ -19,4 +19,6 @@ Public fields that have no single sourced figure stay “Check on arrival.” Do
 - Civil dates for Ban flower week in 2027. A pass-closure notice.
 - Door-to-door kilometers for Mộc Châu, Hòa Bình, Sa Pa, Mường Lay, and Tuần Giáo.
 - Length of the renamed Võ Nguyên Giáp road. A kilometer to Pá Khoang.
-- Whether nhứa giảng and kitchen-smoked buffalo are one cut.
+- Whether nhứa giảng and kitchen-smoked buffalo are one cut. Vietnam News prints about 15 hours and a brown-red buffalo. Vietnamnet prints 2–3 hours, a slow charcoal dry, and a resteam of about 30 minutes for thịt trâu gác bếp. All three stay.
+- Whether “bamboo worms” on Vietnam News are sâu chít. The names were not linked. Cá lăng om hoa chuối was not filed: the Điện Biên TV URL returned no article text on 23 Oct 2026.
+- A brew for Hương Linh – Tủa Chùa tea and Mường Ảng coffee. Vietnam News names them as OCOP products and prints no method.

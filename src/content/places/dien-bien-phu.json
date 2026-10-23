@@ -23,6 +23,7 @@
   },
   "cover": "highlands",
   "nearby": ["hanoi", "son-la", "moc-chau", "sapa"],
+  "foodSlug": "dien-bien-phu",
   "routeSlugs": [],
   "itinerarySlugs": ["dien-bien-phu-basin-day"],
   "seoTitle": "Dien Bien Phu guide — the 1954 basin after Pha Din",
@@ -50,8 +51,35 @@
       "photo": "dien-bien-phu"
     }
   ],
-  "eat": [],
-  "dishSlugs": [],
+  "eat": [
+    "The culture desk’s nine are pa pỉnh tộp, cáy pỉnh, xôi nếp nương, steamed black chicken, ban flower, bitter bamboo, pork in leaves, bon soup, and hearth-dried meat. Bản Phiêng Lơi is the hamlet table at the city entrance. A price is Check on arrival.",
+    "Vietnam News adds kitchen-smoked buffalo, duck with banana flower, cabbage-wrapped oleaster, and chẩm chéo. Vietnamnet adds sâu chít, gạo tám, and bánh dày. Bamboo worms, Mông wine, mountain goat, and Đà River fish are named without a method. Market hours are Check on arrival."
+  ],
+  "dishSlugs": [
+    "dien-bien-phu--pa-pinh-top",
+    "dien-bien-phu--cay-pinh",
+    "dien-bien-phu--xoi-nep-nuong",
+    "dien-bien-phu--ga-den-hap",
+    "dien-bien-phu--nom-rau-ban",
+    "dien-bien-phu--mang-dang",
+    "dien-bien-phu--nhua-pho",
+    "dien-bien-phu--canh-bon",
+    "dien-bien-phu--nhua-giang",
+    "dien-bien-phu--thit-trau-gac-bep",
+    "dien-bien-phu--vit-om-hoa-chuoi",
+    "dien-bien-phu--bap-cai-cuon-nhot",
+    "dien-bien-phu--cham-cheo",
+    "dien-bien-phu--sau-chit",
+    "dien-bien-phu--gao-tam",
+    "dien-bien-phu--banh-day",
+    "dien-bien-phu--khau-cam",
+    "dien-bien-phu--khau-hang",
+    "dien-bien-phu--khau-papa",
+    "dien-bien-phu--bamboo-worms",
+    "dien-bien-phu--mong-wine",
+    "dien-bien-phu--mountain-goat",
+    "dien-bien-phu--da-river-fish"
+  ],
   "interestsBody": [
     "The night is the basin under the monument. The hills of 1954, the Nậm Rốm, and the forest headquarters at Mường Phăng are the reasons the day splits the way it does. Sơn La is the valley on the other side of Pha Đin. Mộc Châu is the tea plateau further east.",
     "The culture desk’s nine for this province are pa pỉnh tộp, cáy pỉnh, xôi nếp nương Điện Biên, gà đen hấp, nộm rau ban, măng đắng, nhứa phò, canh bon, and nhứa giảng. Bản Phiêng Lơi is the hamlet table at the city entrance. Pa pỉnh tộp is folded grilled fish: the culture desk says cooks use a fish of 1–1.5 kg, open it along the back, salt it, and stuff it with mắc khén, roasted fresh chili, spring onion, herbs, and coriander, then clamp it with bamboo. Vietnam News names chẩm chéo as a sauce beside the fish. The culture desk does not use those words in the recipe. Cáy pỉnh is chicken grilled after local herbs, wrapped in lemongrass leaves, skin crisp, the meat smelling of mắc khén, with a cup of rice wine the page calls “chén rượu” and does not name. Xôi nếp nương is upland sticky rice steamed twice, colored red, purple, yellow, and green by leaves, tubers, and fruit the page does not name. A ball of it leaves the hand clean. The packet is not cơm lam. Cơm lam is not in the nine. Gà đen hấp is steamed black chicken from Tủa Chùa, a Hmong bird on the culture page, not a basin-market breakfast. Nộm rau ban is young ban flower and leaves, in March when the culture desk says the flower is on the passes. Măng đắng is forest bamboo with a sweet-bitter taste. Nhứa phò is minced pork shoulder wrapped in leaves and grilled until the leaf is dry at the edge and the meat is the yellow the culture desk describes. Canh bon is a Thái soup of buffalo or beef skin, sweet dọc bon, wild eggplant, herbs, mắc khén, and lemongrass. Nhứa giảng is meat dried over a wood fire, usually buffalo, pork, and beef, still red and hot. Vietnam News also names kitchen-smoked buffalo. Whether that is the same cut is check on arrival. The same news page names bamboo worms, Mông wine, mountain goat, and Đà River fish. A method was not in that paragraph. Stall prices, market clocks, and a breakfast hour are check on arrival. No restaurant is a pick."
