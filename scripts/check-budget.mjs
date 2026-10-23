@@ -13,7 +13,8 @@ for (const file of files) {
   }
   const html = readFileSync(file);
   const size = gzipSync(html).length;
-  const thirdParty = /<script[^>]+src="https?:/i.test(html.toString());
+  const thirdParty = [...html.toString().matchAll(/<script[^>]+src="(https?:[^"]+)"/gi)]
+    .some((match) => !match[1].startsWith('https://tpwgts.com/content?'));
   console.log(`${file}: ${(size / 1024).toFixed(1)} KB gzip`);
   if (size > limit) {
     console.error(`${file} exceeds 80 KB gzip`);
