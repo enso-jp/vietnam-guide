@@ -246,10 +246,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed sight photo. Dossier only.",
-      "updated": "2026-10-23T06:11:18.346Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo. No public file.",
+      "updated": "2026-10-23T06:26:54.565Z",
       "reworkCount": 0
     },
     {
@@ -262,10 +262,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed sight photo. Dossier only.",
-      "updated": "2026-10-23T06:11:18.346Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo. No public file.",
+      "updated": "2026-10-23T06:26:54.695Z",
       "reworkCount": 0
     },
     {
@@ -278,10 +278,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed sight photo. Dossier only.",
-      "updated": "2026-10-23T06:11:18.346Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo. No public file.",
+      "updated": "2026-10-23T06:26:54.824Z",
       "reworkCount": 0
     },
     {
@@ -293,11 +293,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:11:18.346Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Food stage stays skipped. No licensed photo. No food guide.",
+      "updated": "2026-10-23T06:26:55.031Z",
       "reworkCount": 0
     },
     {
@@ -309,11 +309,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:11:18.346Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Food stage stays skipped. No licensed photo. No food guide.",
+      "updated": "2026-10-23T06:26:55.248Z",
       "reworkCount": 0
     },
     {
@@ -325,11 +325,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:11:18.346Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Food stage stays skipped. No licensed photo. No food guide.",
+      "updated": "2026-10-23T06:26:55.460Z",
       "reworkCount": 0
     },
     {
@@ -341,11 +341,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:11:18.346Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Food stage stays skipped. No licensed photo. No food guide.",
+      "updated": "2026-10-23T06:26:55.654Z",
       "reworkCount": 0
     },
     {
@@ -357,11 +357,11 @@
       "file": "src/content/festivals/buon-ma-thuot-coffee-festival.json",
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:11:18.346Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Dates match the provincial record. Later dates are Check on arrival. The square photo is the festival stage, not a parade.",
+      "updated": "2026-10-23T06:27:46.183Z",
       "reworkCount": 0
     },
     {
@@ -433,162 +433,162 @@
   "claim": null,
   "log": [
     {
-      "at": "2026-10-23T06:26:24.814Z",
+      "at": "2026-10-23T06:27:46.183Z",
       "place": "buon-ma-thuot",
       "stage": "quality",
-      "item": "buon-ma-thuot--dray-nur",
+      "item": "buon-ma-thuot--coffee-festival",
       "status": "checked",
-      "note": "Both frames are the waterfall. Distances and prices that disagree both stay. Hours Check on arrival. Dots stay 5. No pin."
+      "note": "Dates match the provincial record. Later dates are Check on arrival. The square photo is the festival stage, not a parade."
     },
     {
-      "at": "2026-10-23T06:26:24.750Z",
+      "at": "2026-10-23T06:27:46.116Z",
       "place": "buon-ma-thuot",
       "stage": "copy",
-      "item": "buon-ma-thuot--dray-nur",
+      "item": "buon-ma-thuot--coffee-festival",
       "status": "enriched",
-      "note": "Hero is the cliff curtain, Drave005, public domain. Second frame is the closer fall, Sketyl, CC BY 2.0. The banner strip is gone."
+      "note": "Ceremonies stay on October 10 Square. A visitor pass is Check on arrival. The square photo stays, because that is the stage."
     },
     {
-      "at": "2026-10-23T06:26:24.684Z",
+      "at": "2026-10-23T06:27:46.046Z",
       "place": "buon-ma-thuot",
       "stage": "page",
-      "item": "buon-ma-thuot--dray-nur",
+      "item": "buon-ma-thuot--coffee-festival",
       "status": "paged",
-      "note": "Finished sight. 25 km and 30 km both stay. 30,000 VND, 50,000 VND, and the 19 Dec 2024 notice with no amount all stay. Gate price Check on arrival. Dots stay 5."
+      "note": "Ninth edition 9–13 March 2025 at October 10 Square. 2027 dates Check on arrival. Even-year wording removed. Photo stays the city square."
     },
     {
-      "at": "2026-10-23T06:24:59.189Z",
+      "at": "2026-10-23T06:26:55.654Z",
       "place": "buon-ma-thuot",
       "stage": "quality",
-      "item": "buon-ma-thuot--october-square",
+      "item": "buon-ma-thuot--ako-dhong-evening",
       "status": "skipped",
-      "note": "unpublished: no licensed photo. No public file."
+      "note": "Food stage stays skipped. No licensed photo. No food guide."
     },
     {
-      "at": "2026-10-23T06:24:59.113Z",
+      "at": "2026-10-23T06:26:55.590Z",
       "place": "buon-ma-thuot",
       "stage": "copy",
-      "item": "buon-ma-thuot--october-square",
+      "item": "buon-ma-thuot--ako-dhong-evening",
       "status": "skipped",
-      "note": "unpublished: no licensed photo. No public file."
+      "note": "Food stage stays skipped. No licensed photo. No food guide."
     },
     {
-      "at": "2026-10-23T06:24:59.035Z",
-      "place": "buon-ma-thuot",
-      "stage": "quality",
-      "item": "buon-ma-thuot--ako-dhong",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo. No public file."
-    },
-    {
-      "at": "2026-10-23T06:24:58.961Z",
-      "place": "buon-ma-thuot",
-      "stage": "copy",
-      "item": "buon-ma-thuot--ako-dhong",
-      "status": "skipped",
-      "note": "unpublished: no licensed photo. No public file."
-    },
-    {
-      "at": "2026-10-23T06:24:25.620Z",
-      "place": "buon-ma-thuot",
-      "stage": "quality",
-      "item": "buon-ma-thuot--khai-doan-pagoda",
-      "status": "checked",
-      "note": "Hall and stair are the pagoda. Donation and hours Check on arrival. Dots stay 3. No pin."
-    },
-    {
-      "at": "2026-10-23T06:24:25.552Z",
-      "place": "buon-ma-thuot",
-      "stage": "copy",
-      "item": "buon-ma-thuot--khai-doan-pagoda",
-      "status": "enriched",
-      "note": "Hero cropped to the hall and lanterns. Second frame is the stair, DXLINH, public domain. Donation stays Check on arrival."
-    },
-    {
-      "at": "2026-10-23T06:24:25.478Z",
+      "at": "2026-10-23T06:26:55.523Z",
       "place": "buon-ma-thuot",
       "stage": "page",
-      "item": "buon-ma-thuot--khai-doan-pagoda",
-      "status": "paged",
-      "note": "Finished sight. Donation and hours Check on arrival. Second frame is the stair and pavilion. Dots stay 3."
+      "item": "buon-ma-thuot--ako-dhong-evening",
+      "status": "skipped",
+      "note": "Food stage stays skipped. No licensed photo. No food guide."
     },
     {
-      "at": "2026-10-23T06:23:44.554Z",
+      "at": "2026-10-23T06:26:55.461Z",
       "place": "buon-ma-thuot",
       "stage": "quality",
-      "item": "buon-ma-thuot--coffee-village",
+      "item": "buon-ma-thuot--evening-bun-do",
       "status": "skipped",
-      "note": "unpublished: no licensed photo. No public file."
+      "note": "Food stage stays skipped. No licensed photo. No food guide."
     },
     {
-      "at": "2026-10-23T06:23:44.488Z",
+      "at": "2026-10-23T06:26:55.396Z",
       "place": "buon-ma-thuot",
       "stage": "copy",
-      "item": "buon-ma-thuot--coffee-village",
+      "item": "buon-ma-thuot--evening-bun-do",
       "status": "skipped",
-      "note": "unpublished: no licensed photo. No public file."
+      "note": "Food stage stays skipped. No licensed photo. No food guide."
     },
     {
-      "at": "2026-10-23T06:23:14.088Z",
-      "place": "buon-ma-thuot",
-      "stage": "quality",
-      "item": "buon-ma-thuot--prison",
-      "status": "checked",
-      "note": "Exterior and cell block are the prison. Fee and hours Check on arrival. Dots stay 3. No pin."
-    },
-    {
-      "at": "2026-10-23T06:23:14.018Z",
-      "place": "buon-ma-thuot",
-      "stage": "copy",
-      "item": "buon-ma-thuot--prison",
-      "status": "enriched",
-      "note": "Hero is the blue-door block. Second frame is the barred cell block, Dominic Nelson, CC BY-SA 4.0. Ticket stays Check on arrival."
-    },
-    {
-      "at": "2026-10-23T06:23:13.950Z",
+      "at": "2026-10-23T06:26:55.319Z",
       "place": "buon-ma-thuot",
       "stage": "page",
-      "item": "buon-ma-thuot--prison",
-      "status": "paged",
-      "note": "Finished sight. Fee and hours Check on arrival. Second frame is the cell block. Dots stay 3. No pin."
+      "item": "buon-ma-thuot--evening-bun-do",
+      "status": "skipped",
+      "note": "Food stage stays skipped. No licensed photo. No food guide."
     },
     {
-      "at": "2026-10-23T06:19:17.207Z",
+      "at": "2026-10-23T06:26:55.248Z",
       "place": "buon-ma-thuot",
       "stage": "quality",
-      "item": "buon-ma-thuot--bao-dai-palace",
+      "item": "buon-ma-thuot--central-market",
       "status": "skipped",
-      "note": "unpublished: no licensed photo. No public file."
+      "note": "Food stage stays skipped. No licensed photo. No food guide."
     },
     {
-      "at": "2026-10-23T06:19:17.135Z",
+      "at": "2026-10-23T06:26:55.176Z",
       "place": "buon-ma-thuot",
       "stage": "copy",
-      "item": "buon-ma-thuot--bao-dai-palace",
+      "item": "buon-ma-thuot--central-market",
       "status": "skipped",
-      "note": "unpublished: no licensed photo. No public file."
+      "note": "Food stage stays skipped. No licensed photo. No food guide."
     },
     {
-      "at": "2026-10-23T06:19:17.069Z",
+      "at": "2026-10-23T06:26:55.112Z",
+      "place": "buon-ma-thuot",
+      "stage": "page",
+      "item": "buon-ma-thuot--central-market",
+      "status": "skipped",
+      "note": "Food stage stays skipped. No licensed photo. No food guide."
+    },
+    {
+      "at": "2026-10-23T06:26:55.032Z",
       "place": "buon-ma-thuot",
       "stage": "quality",
-      "item": "buon-ma-thuot--dak-lak-museum",
+      "item": "buon-ma-thuot--le-hong-phong-bun-do",
       "status": "skipped",
-      "note": "unpublished: no licensed photo. No public file."
+      "note": "Food stage stays skipped. No licensed photo. No food guide."
     },
     {
-      "at": "2026-10-23T06:19:17.000Z",
+      "at": "2026-10-23T06:26:54.955Z",
       "place": "buon-ma-thuot",
       "stage": "copy",
-      "item": "buon-ma-thuot--dak-lak-museum",
+      "item": "buon-ma-thuot--le-hong-phong-bun-do",
+      "status": "skipped",
+      "note": "Food stage stays skipped. No licensed photo. No food guide."
+    },
+    {
+      "at": "2026-10-23T06:26:54.887Z",
+      "place": "buon-ma-thuot",
+      "stage": "page",
+      "item": "buon-ma-thuot--le-hong-phong-bun-do",
+      "status": "skipped",
+      "note": "Food stage stays skipped. No licensed photo. No food guide."
+    },
+    {
+      "at": "2026-10-23T06:26:54.824Z",
+      "place": "buon-ma-thuot",
+      "stage": "quality",
+      "item": "buon-ma-thuot--ea-kao-lake",
       "status": "skipped",
       "note": "unpublished: no licensed photo. No public file."
     },
     {
-      "at": "2026-10-23T06:19:16.932Z",
+      "at": "2026-10-23T06:26:54.759Z",
+      "place": "buon-ma-thuot",
+      "stage": "copy",
+      "item": "buon-ma-thuot--ea-kao-lake",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. No public file."
+    },
+    {
+      "at": "2026-10-23T06:26:54.695Z",
       "place": "buon-ma-thuot",
       "stage": "quality",
-      "item": "buon-ma-thuot--coffee-museum",
+      "item": "buon-ma-thuot--yok-don",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. No public file."
+    },
+    {
+      "at": "2026-10-23T06:26:54.628Z",
+      "place": "buon-ma-thuot",
+      "stage": "copy",
+      "item": "buon-ma-thuot--yok-don",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. No public file."
+    },
+    {
+      "at": "2026-10-23T06:26:54.565Z",
+      "place": "buon-ma-thuot",
+      "stage": "quality",
+      "item": "buon-ma-thuot--lak-lake",
       "status": "skipped",
       "note": "unpublished: no licensed photo. No public file."
     }
