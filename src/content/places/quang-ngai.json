@@ -8,11 +8,11 @@
   "provinceNote": "From 1 July 2025 the new Quảng Ngãi province joins the former Kon Tum and Quảng Ngãi provinces. Resolution 202/2025/QH15, clause 11, prints 14,832.55 km² and 2,161,755 people and does not name a capital. Decision 759/QĐ-TTg places the administrative center at present-day Thành phố Quảng Ngãi and prints 14,832.6 km² and 1,861,700 people. The national tourism bureau page still prints 5,152.7 km² and 1,246.4 thousand people (2015).",
   "dots": 4,
   "dotReason": "The memorial and the river night are the reason to stop.",
-  "summary": "A coastal city in central Vietnam on the Tra Khuc River, best known for the Son My memorial. Visit the memorial, walk the weekend night street by the river, and eat don, a tiny river clam soup, and peppered goby fish. One day suits history-minded travellers on the coast road.",
+  "summary": "A coastal city on the Tra Khuc, best known for the Son My memorial, with high-speed boats to Ly Son from Sa Ky. Visit the memorial, walk the weekend night street by the river, and eat don, the tiny river-clam soup. One day suits the coast road.",
   "timeNeeded": "One day for the river and Sơn Mỹ",
   "fee": "Sights bill separately. Check on arrival.",
   "getThere": "Chu Lai, about 35 km north, or Ga Quảng Ngãi. Road minutes are check on arrival.",
-  "bestMonths": "Check on arrival",
+  "bestMonths": "Hot months April to August; rain from September to December",
   "verified": "23 Oct 2026",
   "interests": {
     "warHistory": 5,
@@ -35,7 +35,7 @@
   "itinerarySlugs": [
     "quang-ngai-day"
   ],
-  "seoTitle": "Quang Ngai city guide — Son My and the river night",
+  "seoTitle": "Quang Ngai travel guide — Son My and the boat to Ly Son",
   "seoDescription": "Stay for the Trà Khúc night street and Sơn Mỹ, 13 km northeast or about 12 km from Trà Khúc 1 bridge. Mỹ Khê here is not the beach in Đà Nẵng.",
   "intro": [
     "You wake on the Trà Khúc, the river the city is built on, with fishing boats on the water and a long bridge span across the channel. On Friday, Saturday, Sunday, and holidays the evening is Phố đêm Sông Trà, about 300 metres of Tôn Đức Thắng, open 17:00–22:00. The provincial page runs that street from Công viên Thạch Bích to cầu Thạch Bích. A January 2026 report puts the stalls on the east side of the bridge. It opened the evening of 6 February 2026. An earlier line had said around 7 February. Stay when that river night, and the memorial at Sơn Mỹ, are the trip. Go to Hội An when the old town is the trip, or on to Quy Nhơn when the next coast city is.",
@@ -101,6 +101,19 @@
   ],
   "interestGroups": [
     {
+      "title": "Dining and F&B",
+      "summary": "Don, the tiny river-clam soup, and peppered goby from the Tra Khuc.",
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "The clam soup and the river fish, then the night street.",
+          "icon": "food",
+          "to": "food",
+          "photo": "quang-ngai--don"
+        }
+      ]
+    },
+    {
       "title": "Son My",
       "summary": "The memorial in Tịnh Khê, for a morning on the way to this city’s Mỹ Khê.",
       "body": [
@@ -148,6 +161,19 @@
           "attractionSlug": "tra-khuc",
           "photo": "quang-ngai-tra-khuc",
           "icon": "view"
+        }
+      ]
+    },
+    {
+      "title": "Shopping",
+      "summary": "Chợ Quảng Ngãi, for the boxed fish, sugars, and sweets.",
+      "cards": [
+        {
+          "title": "Shopping",
+          "summary": "The city market south of the river, and the weekend night street.",
+          "icon": "view",
+          "placeSlug": "quang-ngai",
+          "photo": "quang-ngai"
         }
       ]
     }

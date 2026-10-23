@@ -8,7 +8,7 @@
   "provinceNote": "From 1 July 2025 Phu Yen and Dak Lak are one province, and the administrative center is Buon Ma Thuot. The coast is in the same province on paper. The city is still a highland coffee town, not a beach stop.",
   "dots": 4,
   "dotReason": "Worth a special trip in this corridor",
-  "summary": "The coffee capital of the Central Highlands, a busy city in the middle of robusta country. Drink strong phin coffee, see the Dray Nur waterfall, Khai Doan Pagoda and the old prison, and eat red bun do noodle soup on Le Hong Phong in the afternoon. Two days suits coffee lovers and travellers heading into the highlands.",
+  "summary": "The coffee capital of the Central Highlands. Drink a slow phin, see the coffee museum and Dray Nur, take the dugout on Lak Lake, and eat bún đỏ on Le Hong Phong in the afternoon. Two days suits coffee lovers heading into the highlands.",
   "timeNeeded": "2 days",
   "fee": "No single city ticket. Museums, the coffee museum, and the waterfalls each charge their own.",
   "getThere": "Buon Ma Thuot Airport (BMV). About 60 minutes from Ho Chi Minh City",
@@ -34,7 +34,7 @@
   "itinerarySlugs": [
     "buon-ma-thuot-day"
   ],
-  "seoTitle": "Buon Ma Thuot travel guide — square, coffee, bun do",
+  "seoTitle": "Buon Ma Thuot travel guide — coffee, the museum, Lak Lake",
   "seoDescription": "Robusta country: the World Coffee Museum, the 250 m Dray Nur waterfall, and bún đỏ on Le Hong Phong from 15:00. About 60 minutes by air from Ho Chi Minh City.",
   "intro": [
     "Start with a phin. Buon Ma Thuot trades in robusta, and the morning is a slow drip on a low table before the heat. October 10 Square, Quảng trường 10 tháng 3, is the roundabout in the middle of town: a tank under a white arch, a statue on the column, motorbikes circling. Stay when the highland coffee day is the trip. Choose Nha Trang when it is the beach, and Da Lat when it is the pine hills.",
@@ -164,6 +164,19 @@
           "attractionSlug": "prison",
           "photo": "buon-ma-thuot-prison",
           "icon": "museum"
+        }
+      ]
+    },
+    {
+      "title": "Shopping",
+      "summary": "Chợ Buôn Ma Thuột, the central market.",
+      "cards": [
+        {
+          "title": "Shopping",
+          "summary": "Honeycomb cake and the market snacks at Chợ Buôn Ma Thuột.",
+          "icon": "view",
+          "placeSlug": "buon-ma-thuot",
+          "photo": "buon-ma-thuot"
         }
       ]
     }
