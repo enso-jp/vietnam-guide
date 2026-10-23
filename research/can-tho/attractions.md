@@ -303,3 +303,25 @@ A separate bar street: none recorded. The department, the national site, and the
 
 ### Cafe street
 - None recorded as a street of cafes. Cà phê vợt is sold from boats at the market (S2). A named cafe row in town was not on the pages opened.
+
+## Attractions pass, 23 Oct 2026
+
+Per-sight files are in `research/can-tho/attractions/`. New sources are S36–S42 in `sources.md`. Licensed photos were found on Wikimedia Commons for every sight below except Bằng Lăng. The "unpublished: no licensed photo" lines above are from the 22 Oct research pass and are superseded for those sights.
+
+### Can Tho Bridge
+- Vietnamese name: Cầu Cần Thơ
+- Kind: sight (landmark)
+- Area: over the Hậu between Can Tho and Vĩnh Long, on National Route 1 (S36)
+- What the visitor does: Sees the 550 m main span and 175.3 m towers from the quay or a boat; crosses by road. Opened 24 Apr 2010; an approach span collapsed during building on 26 Sep 2007, official toll 54 (S36). The department says you see it from Ninh Kiều (S7).
+- Fee: no visitor ticket; toll Check on arrival — UNSOURCED
+- Suggested slug: `can-tho-bridge`
+- Suggested dot: 2 — a view from the quay or the boat, not a stop
+- Sources: S7, S36, S41
+
+### Updates
+- Ong Pagoda: free, 07:00–18:00 on the department listing (S37). Lunar 24/6 is Quan Thánh Đế's day (S37).
+- My Khanh: gate 149,000 VND adult, 99,000 VND child 1 m to under 1.3 m, free under 1 m; 07:30–17:00 daily on the operator page (S38). Department listing 07:00–18:00 (S39). About twenty minutes by road (S38b, S39).
+- Phong Dien market: best 5:30–6:30 and about 17 km by tỉnh lộ 923 on Vietnam Airlines (S40). Commercial clocks are in `sources.md` and are not used.
+- Can Tho Museum: Tuesday–Thursday 08:00–11:00 and 14:00–17:00; weekends and holidays 08:00–11:00 and 18:30–21:00; free; 60 minutes on the department listing (S42).
+- Ninh Kieu: published as the attraction `ninh-kieu` (wharf, footbridge, night market). The footbridge is folded into it rather than given its own page.
+- Bằng Lăng: still unpublished: no licensed photo.
