@@ -6,10 +6,12 @@
   "heroSlug": "muc-mot-nang",
   "body": [
     "Fish, shrimp, squid, and swimming crab come first, then greens, then meat. Lunch is about 11:00–12:00 and the evening meal about 17:00–18:00. When the kitchen changes the rice, the plates are braised pork, boiled pork, pork-bone soup, salty glazed ribs, or stir-fried meat with roots and fruit, and sometimes bún or mì. Lobster, ốc vú nàng, and abalone have left the daily table. Stone crab is a visitor catch, and only from 1 March to 31 July.",
-    "Mực một nắng is squid dried one sun. Nước lá Lao is a leaf drink, called particular to the island in 2014 and, in 2017, also known from the same leaves elsewhere in Quảng, astringent when cooked. Bánh ít and bánh su sê are the cakes in the pier baskets. Yến sào Cù Lao Chàm is the registered nest. In May 2026 the grades yến quang, yến thiên, and yến bài were quoted from nearly 100 million to nearly 180 million VND a kilogram. That figure is the product, not a bowl."
+    "Mực một nắng is squid dried one sun. Nước lá Lao is a leaf drink, called particular to the island and also known from the same leaves elsewhere in Quảng, astringent when cooked. Bánh ít and bánh su sê are the cakes in the pier baskets. Yến sào Cù Lao Chàm is the registered nest. In May 2026 the grades yến quang, yến thiên, and yến bài were quoted from nearly 100 million to nearly 180 million VND a kilogram. That figure is the product, not a bowl."
   ],
   "specialtiesLead": "Squid dried one sun leads. The catch, the fish paste, the afternoon bowls, the leaf drink, and the pier cakes follow.",
-  "dishSlugs": ["muc-mot-nang"],
+  "dishSlugs": [
+    "muc-mot-nang"
+  ],
   "sections": [
     {
       "id": "plates",
@@ -47,7 +49,9 @@
       "paragraphs": [
         "Mì Quảng is the afternoon bowl on the Bai Lang coast road and by the well in Bai Ong, beside bánh xèo chả cá, bánh canh, and bánh bèo."
       ],
-      "dishSlugs": ["mi-quang"]
+      "dishSlugs": [
+        "mi-quang"
+      ]
     },
     {
       "id": "breakfast",
