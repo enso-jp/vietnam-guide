@@ -2,18 +2,22 @@
   "slug": "con-dao--banh-quy-hat-bang",
   "name": "Banh quy hat bang",
   "nameVi": "Bánh quy hạt bàng",
-  "summary": "Biscuits made from hạt bàng. VOV says they are an OCOP three-star product, first offered at hotel reception desks, then made in a workshop on Nguyễn Duy Trinh, khu 5. The same report names a chocolate filling and a traditional filling, and candied kernels from that workshop. No price was printed.",
-  "origin": "Côn Đảo. VOV, 6 May 2025. The kernel is hạt bàng, separate from the roasted and candied packs.",
+  "summary": "Biscuits made with hạt bàng, in chocolate or traditional fillings. They began as the welcome biscuit at hotel reception desks and now come from a workshop on Nguyễn Duy Trinh.",
+  "origin": "Côn Đảo. VOV, 6 May 2025.",
+  "culture": [
+    "VOV says the biscuits are an OCOP three-star product, and the same workshop makes candied kernels."
+  ],
   "howToEat": [
-    "Buy a pack, or take the biscuit a hotel desk sets out. VOV names chocolate and traditional fillings.",
-    "The hour is Check on arrival. No price was printed."
+    "Buy a pack to take home, or take the biscuit a hotel desk sets out."
   ],
   "where": [
-    "Nguyễn Duy Trinh, khu 5, the workshop street VOV prints. Hotel desks stocked it before that workshop. Check on arrival."
+    "Nguyễn Duy Trinh, khu 5, where the workshop is."
   ],
   "priceBand": "Check on arrival",
-  "placeSlugs": ["con-dao"],
+  "placeSlugs": [
+    "con-dao"
+  ],
   "verified": "23 Oct 2026",
-  "seoTitle": "Banh quy hat bang — terminalia biscuits in Con Dao",
-  "seoDescription": "Bánh quy hạt bàng is an OCOP three-star biscuit on Nguyễn Duy Trinh, khu 5. VOV names chocolate and traditional fillings. The price is Check on arrival."
+  "seoTitle": "Banh quy hat bang — hat bang biscuits in Con Dao",
+  "seoDescription": "Bánh quy hạt bàng are OCOP three-star biscuits made with bàng kernels on Nguyễn Duy Trinh, in chocolate and traditional fillings."
 }
