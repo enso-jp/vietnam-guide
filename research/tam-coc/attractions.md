@@ -28,7 +28,7 @@ No city pin. The published pair 20.216, 105.933 is not kept. The gazetteer point
 - Area: Sông Ngô Đồng, from the central pier
 - What the visitor does: Boards a sampan at the central pier and rides sông Ngô Đồng through three water caves. Tam Cốc means three caves. The heritage bureau also calls hang Cả hang Ngoài or hang Lớn, hang Hai hang Giữa or hang Trung, and hang Ba hang Bé (S5). The ride passes rice and karst and returns to the same pier (S7).
 - Time: Khoảng 2 giờ out and back, Vietnamese Wikipedia only (S7). The ticket page prints no duration. A second clock was not opened.
-- Fee: Included in the Tam Cốc–Bích Động ticket of 27 Feb 2026. Without the shuttle: adult 250,000 đồng, child 1–1.3 m 120,000 đồng. With the shuttle: adult 350,000 đồng, child 1–1.3 m 190,000 đồng. Hotline 19009157. Route named on that row: Tam Cốc, Đền Thái Vi, Động Tiên, chùa Bích Động (S3). A child under 1 m has no line on this row. Check on arrival — UNSOURCED. Daily hours were not printed. Check on arrival — UNSOURCED.
+- Fee: Included in the Tam Cốc–Bích Động ticket of 27 Feb 2026. Without the shuttle: adult 250,000 đồng, child 1–1.3 m 120,000 đồng. With the shuttle: adult 350,000 đồng, child 1–1.3 m 190,000 đồng. Hotline 19009157. Route named on that row: Tam Cốc, Đền Thái Vi, Động Tiên, chùa Bích Động (S3). A child under 1 m has no line on this row. Check on arrival — UNSOURCED. An older tourism-center page, updated 23 May 2023, prints a different Tam Coc ticket: 120,000 đồng a person a turn, then a boat ticket of 150,000 đồng a trip for 4 domestic guests or 2 international guests, free for a child under 3 (S24). DulichToday’s 2024 line prints adult 120,000 đồng, child 60,000 đồng with no height, and the boat 150,000 đồng one way (S17). The 2026 table and these two older lines all stay. Do not pick one. Daily hours were not printed on any of the three. Check on arrival — UNSOURCED.
 - From the base: The pier is in the village. Đình Các is the landing name on the gazetteer and on the Wikipedia route list (S7, S11).
 - When to go: The 2026 ripe-rice festival used the end of May, opening morning 24 May (S13, S14). A standing month beyond that festival was not printed. Check on arrival — UNSOURCED. Hours: Check on arrival — UNSOURCED.
 - Mistake to avoid: Treating this as the Tràng An ticket. Tràng An is a different row on the same 2026 table and a different page, `ninh-binh`.
@@ -38,7 +38,7 @@ No city pin. The published pair 20.216, 105.933 is not kept. The gazetteer point
 - Photo must show: The low cave, the boat, and the rock overhead in one frame, from the water. The published stub file `public/photos/tam-coc-three-caves.jpg` was opened. It is the view from inside a dark cave toward one sampan and a bright mouth, with trees beyond. The karst towers of the hero are not in that frame. A crop that is only black water fails. unpublished is not the mark for this sight: a licensed photo exists. It is the cave mouth, not the hero.
 - Lengths, both kept: Heritage bureau, from the ranking dossier: hang Cả khoảng 180 m long, width ước chừng 30 m, ceiling higher than 5 m; hang Hai khoảng 90 m, outer mouth khoảng 30 m, inner more than 30 m, ceiling chừng 3.5 m; hang Ba hơn 80 m, outer mouth khoảng 20 m, inner more than 30 m, ceiling under 3 m (S5). Vietnamese Wikipedia: hang Cả 127 m, mouth wider than 20 m; hang Hai 60 m and nearly 1 km from hang Cả; hang Ba 50 m (S7). Do not pick one set.
 - End of the ride, both kept: The heritage bureau says the route ends at đền Nội Lâm, worshipping Cao Sơn đại vương (S5). Vietnamese Wikipedia says đền Thần Nông, near hang Ba, is the last stop (S7). The 24 May 2026 procession went from the pier to Đền Thần Nông Tam Cốc (S13). Both end-names stay.
-- Sources: S3, S5, S7, S13
+- Sources: S3, S5, S7, S13, S17, S24
 
 ### Chùa Bích Động
 - Vietnamese name: Chùa Bích Động
@@ -254,7 +254,7 @@ No city pin. The published pair 20.216, 105.933 is not kept. The gazetteer point
 - Vietnamese name: Bến thuyền Tam Cốc, at Đình Các
 - Kind: hub
 - Area: Thôn Văn Lâm. Gazetteer point for Đình Các, not a place pin: 20°13′06″ N, 105°56′08″ E (S11).
-- What the visitor does: Buys the ticket and boards. The 24 May 2026 procession left from this pier (S13). Wikipedia also names other piers for the other routes: Thung Nắng, Xuyên Thủy, Thạch Bích (S7).
+- What the visitor does: Buys the ticket and boards. The 24 May 2026 procession left from this pier (S13). Wikipedia also names other piers for the other routes: Thung Nắng, Xuyên Thủy, Thạch Bích (S7). The 23 May 2023 Tam Coc guide names bến Kẽm Gió as a place to step off the boat and walk, and does not print a minute for that walk (S24). Check on arrival — UNSOURCED.
 - Time: Before the khoảng 2 giờ on the water (S7).
 - Fee: The combined ticket (S3). Hours: Check on arrival — UNSOURCED.
 - From the base: In the hamlet (S7).
@@ -264,7 +264,7 @@ No city pin. The published pair 20.216, 105.933 is not kept. The gazetteer point
 - Suggested slug: tam-coc-pier
 - Suggested dot: 3 — the gate to the ride, not the ride
 - Photo must show: The sampans at the landing, with the karst behind them. A ticket booth with no boats fails. unpublished: no separate licensed photo of the booth. The hero already shows boats on the river.
-- Sources: S3, S7, S11, S13
+- Sources: S3, S7, S11, S13, S24
 
 Districts that deserve their own page: none inside this slug. `ninh-binh` already has the other boat, the old capital, and the Hang Múa stair. Do not split Bích Động or Văn Lâm onto a new place slug.
 
@@ -276,7 +276,7 @@ No bar street was named on the tourism pages, the ticket page, the heritage page
 - Vietnamese name: Cánh đồng sau chuyến đò
 - Kind: nightlife
 - Area: The rice around thôn Văn Lâm
-- What the visitor does: Walks the fields after the boat. One commercial sample itinerary, updated 25 Jan 2024, puts dinner and a walk in the fields at 18:30, then the room (S17). That page does not name a street or a bar.
+- What the visitor does: Walks the fields after the boat. One commercial sample itinerary, updated 25 Jan 2024, puts dinner and a walk in the fields at 18:30, then the room (S17). That page does not name a street or a bar. A family page updated 3 Aug 2026 mentions small cafes looking toward the mountains and the fields, and prints no cafe name, no street, and no drink (S30).
 - Time: 18:30 on that sample only. It is not an official closing hour.
 - Fee: No evening ticket was printed. Check on arrival — UNSOURCED.
 - From the base: On foot from the hamlet (S17).
@@ -286,7 +286,7 @@ No bar street was named on the tourism pages, the ticket page, the heritage page
 - Suggested slug: rice-lane-evening
 - Suggested dot: 2 — a walk, not a night out
 - Photo must show: The rice lane at dusk, with a karst still readable. A black frame fails. unpublished: no licensed photo.
-- Sources: S3, S14, S17
+- Sources: S3, S14, S17, S30
 
 ## Lifestyle
 

@@ -5,7 +5,7 @@ Checked: 23 Oct 2026
 
 This is not a dining city. The opened official pages do not print a Tam Coc menu of 20 dishes. The count below is every specialty a source places at Tam Coc or on a cave visit the same source also ties to this area. A specialty is a dish. A street, a restaurant, and a hotel are not dishes.
 
-Sourced Tam Coc specialties: 11. The bar is 20. The gap is 9. Those 9 were not invented. No breakfast dish, no sweet, and no drink was named for this place. No stall price was printed. Check on arrival — UNSOURCED for a plate price.
+Sourced Tam Coc specialties: 13. The bar is 20. The gap is 7. Those 7 were not invented. No breakfast dish, no sweet, and no drink was named for this place. No stall price was printed. Check on arrival — UNSOURCED for a plate price.
 
 ## Comprehensive list of local food to try
 
@@ -21,7 +21,7 @@ Sourced Tam Coc specialties: 11. The bar is 20. The gap is 9. Those 9 were not i
 
 ### Thịt dê núi
 - Vietnamese name: Thịt dê núi
-- What it is: Mountain goat. DulichToday says it is what people eat at Tam Coc and in Ninh Bình, from goats left on the hills rather than penned, and lists the table herbs as chanh, gừng, ớt, sả, riềng, lá sung, lá mơ, and green banana (S17). The culture office describes the same herding for Ninh Bình goat and places the cooking with người Hoa Lư and the city or the old capital (S19). Both placements stay. The office’s other preparations (nem dê, tiết canh dê, lẩu dê, dê xào lăn, tái dê) are neighbor dishes below. They were not printed as Tam Coc plates.
+- What it is: Mountain goat. DulichToday says it is what people eat at Tam Coc and in Ninh Bình, from goats left on the hills rather than penned, and lists the table herbs as chanh, gừng, ớt, sả, riềng, lá sung, lá mơ, and green banana (S17). The culture office describes the same herding for Ninh Bình goat and places the cooking with người Hoa Lư and the city or the old capital (S19). Both placements stay. Dê tái chanh is its own entry, because a Tam Coc day names it. The office’s other preparations (nem dê, tiết canh dê, lẩu dê, dê xào lăn) stay under neighbor dishes. A provincial recipe page lists more than 20 goat plates and does not mention Tam Coc (S27). Those plates are not copied onto this menu.
 - How to eat it: With the herbs named above (S17).
 - When to order it: With cơm cháy, on the Tam Coc restaurant sentence (S17). Hour: Check on arrival — UNSOURCED.
 - Area, not a shop: Restaurants at Tam Coc, no street (S17).
@@ -119,9 +119,29 @@ Sourced Tam Coc specialties: 11. The bar is 20. The gap is 9. Those 9 were not i
 - Neighbor dish to link: none
 - Sources: S7
 
+### Dê tái chanh
+- Vietnamese name: Dê tái chanh
+- What it is: The tourism center’s Tam Coc day, updated 14 May 2025, names dê tái chanh with cơm cháy and dê nướng as the lunch at a local restaurant after the Tam Coc, Bích Động, and Thái Vi morning (S25). That page does not name the restaurant, the hamlet, or a street. A provincial goat page, updated 13 Nov 2020, uses the same name and describes thin slices with a thick lean part and the skin, passed through boiling water, then mixed with nước cốt chanh, gừng, tỏi, ớt, tiêu, and shredded lá chanh (S27). That recipe page does not mention Tam Coc. The culture office still places tái dê in the city or the old capital (S19). All three sentences stay.
+- How to eat it: S27 says kẹp chuối xanh, sả, and sung quả, and chấm tương bần. S25 prints the name and no method. Do not merge those into one kitchen.
+- When to order it: The tour lunch is printed at 11:45 (S25). A standing hour for a walk-up table was not printed. Check on arrival — UNSOURCED.
+- Area, not a shop: A local restaurant on that Tam Coc day, no street (S25).
+- Meal: main
+- Neighbor dish to link: tái dê on `ninh-binh`
+- Sources: S25, S27, S19
+
+### Nem Yên Mạc
+- Vietnamese name: Nem Yên Mạc
+- What it is: The Tam Coc ripe-rice guide, updated 23 May 2023, says to eat lunch at a restaurant inside the Tam Coc tourist area or at restaurants nearby, and names cơm cháy, dê núi, and nem Yên Mạc (S24). The tourism center’s top-5 page, updated 13 Nov 2020, places nem chua Yên Mạc in vùng đất Yên Mạc and describes lean rump with the fat removed, boiled pork skin, thính, mì chính, and salt, wrapped in lá ổi and lá chuối (S26). The culture office places nem Yên Mạc with Yên Mô (S19). The Tam Coc lunch sentence, the Yên Mạc sentence, and the Yên Mô sentence all stay. This is not a Văn Lâm recipe.
+- How to eat it: S26 says with lá sung or lá ổi, and nước mắm with chanh, tỏi, and ớt. S24 prints the name and no method.
+- When to order it: Buổi trưa on the Tam Coc guide (S24). A clock hour was not printed. Check on arrival — UNSOURCED.
+- Area, not a shop: A restaurant in the Tam Coc tourist area, or nearby, no street (S24). Origin named as Yên Mạc (S26) and Yên Mô (S19).
+- Meal: main
+- Neighbor dish to link: nem Yên Mạc on `ninh-binh`
+- Sources: S24, S26, S19
+
 ## Gap to 20
 
-Eleven specialties are sourced. Nine more would be an invention. Not recorded, because no source named them for Tam Coc: a breakfast dish, a sweet, a drink, a noodle, a rice-noodle soup, a second rice, a sausage, a hotpot as its own Tam Coc plate, and a street stall dish. The culture office’s city and district dishes are listed under neighbor dishes. They are not used to fill the nine.
+Thirteen specialties are sourced. Seven more would be an invention. Not recorded, because no source named them for Tam Coc: a breakfast dish, a sweet, a drink, a noodle, a rice-noodle soup, a second rice, and a sausage. A hotpot as its own Tam Coc plate, and a street-stall dish, were also not on a Tam Coc menu. The provincial goat page says local people make about more than 20 goat plates and does not mention Tam Coc (S27). That list was not used to close the seven. An English tourism-center page names goat soup, grilled goat with five spices, steamed goat with ginger, goat hotpot, and goat porridge as provincial plates, and says eateries around Tràng An, Tam Coc Caves, or the foot of Hoa Lư serve the province’s goat food (S28). It prints no Vietnamese name for those five. They are not added as separate Tam Coc dishes, and they are not treated as translations of S27.
 
 ## Neighbor dishes, not this count
 
@@ -134,7 +154,7 @@ The culture office, 20 Oct 2023, places these in thành phố Ninh Bình or the 
 - Tiết canh dê
 - Lẩu dê
 - Dê xào lăn
-- Tái dê, which that page calls the best of the goat plates and describes with toasted sesame, lemongrass, kaffir lime leaf, ginger, and tương gừng, eaten with lá sung, green banana, khế, mơ lông, and hương nhu
+- Tái dê, which that page calls the best of the goat plates and describes with toasted sesame, lemongrass, kaffir lime leaf, ginger, and tương gừng, eaten with lá sung, green banana, khế, mơ lông, and hương nhu. Dê tái chanh is counted above because S25 names it on a Tam Coc day. This city method stays here and is not merged with S27.
 
 The same page places other dishes somewhere else. They are not Tam Coc and not the neighbor link for this pier:
 
@@ -146,8 +166,8 @@ The same page places other dishes somewhere else. They are not Tam Coc and not t
 
 None recorded.
 
-Looked on 23 Oct 2026. The 2026 ticket table has no market (S3). The tourism pages name Văn Lâm as the embroidery hamlet and the boat village, not an eating street (S7, S15). DulichToday says “restaurants at Tam Coc” and does not name a street (S17). A 2017 Tràng An restaurant list was not opened; it is not used. No market name, no alley name, and no night-market name was printed on a page that was opened. Do not invent a dining street to lengthen the list.
+Looked on 23 Oct 2026. The 2026 ticket table has no market (S3). The tourism pages name Văn Lâm as the embroidery hamlet and the boat village, not an eating street (S7, S15). DulichToday says “restaurants at Tam Coc” and does not name a street (S17). The 23 May 2023 Tam Coc guide says a restaurant inside the tourist area or nearby, and does not name a street (S24). The 14 May 2025 Tam Coc day says a local restaurant and does not name a street (S25). A listed restaurant in the center of the site prints a ward and no street (S29). A 2017 Tràng An restaurant list was not opened; it is not used. No market name, no alley name, and no night-market name was printed on a page that was opened. Do not invent a dining street to lengthen the list.
 
 ## Notes, not pages
 
-Restaurant and bar names that located a street: none. The opened Tam Coc eating page names dishes and does not name a door that had to be kept to find a street (S17). No line here. do not publish as a pick.
+Nhà hàng Anh Dũng. The tourism center, updated 14 Feb 2023, places it in the center of khu du lịch Tam Cốc Bích Động, address printed as phường Nam Hoa Lư, tỉnh Ninh Bình, and says the menu is mountain goat and other Cố đô dishes (S29). No dish is itemized. No street is printed. do not publish as a pick.

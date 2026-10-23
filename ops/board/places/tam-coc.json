@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,13 +45,13 @@
     "foodCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -68,8 +68,8 @@
     },
     "researchFood": {
       "status": "stored",
-      "note": "Left out: 9 specialties to reach 20, a breakfast dish, a sweet, a drink, a stall price, and a food street. 11 sourced dishes are in. None recorded for a food street.",
-      "updated": "2026-10-23T06:30:16.241Z",
+      "note": "left out 7 dishes to reach 20: a breakfast dish, a sweet, a drink, a noodle, a second rice, a sausage, and a Tam Coc hotpot. Provincial goat plates that do not name Tam Coc were not copied in.",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     "researchNightlife": {
@@ -105,7 +105,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Published shell. Both cave-length sets stay. Hours and a child under 1 m are Check on arrival. The hero is the river frame.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -121,7 +121,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "unpublished: no licensed photo. Founding years disagree and both stay. Not a separate place slug.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -137,7 +137,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "unpublished: no licensed photo. Two deity lists stay.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -153,7 +153,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "unpublished: no licensed photo. On the combined ticket.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -169,7 +169,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "unpublished: no licensed photo. No separate fee printed.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -185,7 +185,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "unpublished: no licensed photo. Not named on the combined ticket row.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -201,7 +201,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "unpublished: no licensed photo. End-point name disagrees with den Noi Lam.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -217,7 +217,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "unpublished: no licensed photo. Separate 2026 ticket.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -233,7 +233,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "unpublished: no licensed photo. Separate 2026 ticket.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -249,7 +249,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "unpublished: no licensed photo. Bich Dong distance and Son Ha both stay.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -265,7 +265,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "unpublished: no licensed photo. Fee not printed.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -281,7 +281,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "unpublished: no licensed photo. Two founder stories stay. Shopping text later, not a card.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -297,7 +297,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Area, not a sight page. Hamlet coordinate is not the place pin.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -313,7 +313,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "The river is the place hero, not a second page.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -329,7 +329,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Landing hub. Dinh Cac coordinate is not the place pin.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -345,7 +345,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Short of 20. unpublished: no licensed plate photo. No food-guide card. do not publish a restaurant as a pick.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -361,7 +361,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Short of 20. unpublished: no licensed plate photo. No food-guide card. do not publish a restaurant as a pick.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -377,7 +377,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Short of 20. unpublished: no licensed plate photo. No food-guide card. do not publish a restaurant as a pick.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -393,7 +393,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Short of 20. unpublished: no licensed plate photo. No food-guide card. do not publish a restaurant as a pick.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -409,7 +409,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Short of 20. unpublished: no licensed plate photo. No food-guide card. do not publish a restaurant as a pick.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -425,7 +425,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Short of 20. unpublished: no licensed plate photo. No food-guide card. do not publish a restaurant as a pick.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -441,7 +441,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Short of 20. unpublished: no licensed plate photo. No food-guide card. do not publish a restaurant as a pick.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -457,7 +457,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Short of 20. unpublished: no licensed plate photo. No food-guide card. do not publish a restaurant as a pick.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -473,7 +473,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Short of 20. unpublished: no licensed plate photo. No food-guide card. do not publish a restaurant as a pick.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -489,7 +489,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Short of 20. unpublished: no licensed plate photo. No food-guide card. do not publish a restaurant as a pick.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -505,7 +505,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Short of 20. unpublished: no licensed plate photo. No food-guide card. do not publish a restaurant as a pick.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -521,7 +521,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "No bar street and no night venue URL. Not a page.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -537,7 +537,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Ordinary day, not a sight page. Breakfast dish and the quiet hour were not printed.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -553,7 +553,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "2026 opening is 24 May. End date was not on the office pages. Not an attraction page.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -569,7 +569,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Lunar 20th of the first month. Solar date moves. Not an attraction page.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     },
     {
@@ -585,13 +585,53 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "On song Sao Khe at den Tran. Belongs with ninh-binh, not a Tam Coc page.",
-      "updated": "2026-10-23T06:30:41.106Z",
+      "updated": "2026-10-23T06:41:50.202Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "tam-coc--de-tai-chanh",
+      "kind": "dish",
+      "track": "unit",
+      "name": "Dê tái chanh",
+      "slug": "de-tai-chanh",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Sourced on the 14 May 2025 Tam Coc day. unpublished: no licensed plate photo. No food-guide card. do not publish a restaurant as a pick. Gap of 7 remains.",
+      "updated": "2026-10-23T06:41:50.202Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "tam-coc--nem-yen-mac",
+      "kind": "dish",
+      "track": "unit",
+      "name": "Nem Yên Mạc",
+      "slug": "nem-yen-mac",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Named on the 23 May 2023 Tam Coc lunch. Origin stays Yên Mạc and Yên Mô. unpublished: no licensed plate photo. No food-guide card. Gap of 7 remains.",
+      "updated": "2026-10-23T06:41:50.202Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-23T06:41:50.202Z",
+      "place": "tam-coc",
+      "stage": "researchFood",
+      "item": null,
+      "status": "stored",
+      "note": "left out 7 dishes to reach 20: a breakfast dish, a sweet, a drink, a noodle, a second rice, a sausage, and a Tam Coc hotpot. Provincial goat plates that do not name Tam Coc were not copied in."
+    },
     {
       "at": "2026-10-23T06:30:41.106Z",
       "place": "tam-coc",

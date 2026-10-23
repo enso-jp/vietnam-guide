@@ -7,10 +7,10 @@ Day trips from the Văn Lâm pier. A neighbor with no place page is a placeholde
 
 ### Ninh Binh
 - Slug if it exists: `ninh-binh`
-- Travel time from this base: The 7 km figures are to a city or a ward centre, not to each sight. English page: 7 km from Ninh Binh City (S4). Vietnamese Wikipedia: 7 km from phường Hoa Lư (S7). River page: khoảng 7 km from thành phố Hoa Lư (S8). A minute from the pier to Tràng An, Hoa Lư, or Hang Múa was not printed. Check on arrival — UNSOURCED.
+- Travel time from this base: The 7 km figures are to a city or a ward centre, not to each sight. English page: 7 km from Ninh Binh City (S4). Vietnamese Wikipedia: 7 km from phường Hoa Lư (S7). River page: khoảng 7 km from thành phố Hoa Lư (S8). A family page updated 3 Aug 2026 prints khoảng 15–20 minutes from Tam Coc to Phố cổ Hoa Lư (S30). A minute from the pier to Tràng An or Hang Múa was not printed. Check on arrival — UNSOURCED. The 15–20 minutes is that old street only.
 - Why go: The other sampan, the old capital, and the stair over the rice. UNESCO puts Tam Coc–Bich Dong and Hoa Lu inside one property (S1, S2). The 2026 ticket table gives Tràng An its own row, and Hang Múa its own row (S3). Those pages stay on `ninh-binh`. Wikipedia also draws a connecting line that names Hang Múa between the Tam Coc caves (S7). The stair is still that other slug. Do not rebuild it.
-- Overnight or day: Day, if the night is already in Văn Lâm. A minute was not printed.
-- Sources: S1, S2, S3, S4, S7, S8
+- Overnight or day: Day, if the night is already in Văn Lâm. The only printed minute is the 15–20 minutes to Phố cổ Hoa Lư (S30).
+- Sources: S1, S2, S3, S4, S7, S8, S30
 
 ### Động Thiên Hà
 - Or: Side trip placeholder: Động Thiên Hà

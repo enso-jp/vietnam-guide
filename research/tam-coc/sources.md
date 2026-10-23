@@ -102,7 +102,7 @@ Checked: 23 Oct 2026
 - URL: https://dulichtoday.vn/ninh-binh/dia-diem-ninh-binh/tam-coc.html
 - Publisher: DulichToday
 - Accessed: 23 Oct 2026
-- Supports: Page last updated 25 Jan 2024. Eating section for Tam Coc: cơm cháy with goat and tim cật, thịt dê núi, dê nướng, and ốc núi preparations nướng, xào me, hấp gừng, luộc xả hết, and gỏi hành tây. Snail season April to August on that page. Sample day: breakfast with no dish, boat sites in the afternoon, walk in the fields at 18:30. “From” prices for rooms and transport are not used as tariffs.
+- Supports: Page last updated 25 Jan 2024. Eating section for Tam Coc: cơm cháy with goat and tim cật, thịt dê núi, dê nướng, and ốc núi preparations nướng, xào me, hấp gừng, luộc xả hết, and gỏi hành tây. Snail season April to August on that page. Sample day: breakfast with no dish, boat sites in the afternoon, walk in the fields at 18:30. “From” prices for rooms and transport are not used as tariffs. The same page prints a 2024 ticket line: adult 120,000 đồng, child 60,000 đồng with no height, boat 150,000 đồng one way. That line disagrees with the 27 Feb 2026 table (S3) and with the under-3 rule on S24. All three stay.
 
 ### S18
 - URL: https://sodulich.ninhbinh.gov.vn/vi/am-thuc-ninh-binh/com-chay-nhat-huong-thien-kim-375.html
@@ -140,4 +140,46 @@ Checked: 23 Oct 2026
 - Accessed: 23 Oct 2026
 - Supports: For the Sunday 18 Oct 2026 display, SE7 06:00–08:13. Fare on that display is not used. The same page prints 94 km by road from Hà Nội to Ninh Bình, which is not the river page’s chừng 100 km to sông Ngô Đồng (S8). Both distances stay, because the endpoints are not the same sentence. SE19 appears here and not on S16.
 
-Pages that were not used, because they did not open: the provincial environment note at sonnmt.ninhbinh.gov.vn (security check), the Nam Hoa Lư ward introduction (security check), the visitor-support page at hotrodukhachninhbinh.vn (HTTP 500), the national-tourism Bích Động page (timeout), and the SinhTour eating page (security check). Their numbers are not in the dossier.
+### S24
+- URL: https://dulichninhbinh.com.vn/item/2310
+- Publisher: Trung tâm Xúc tiến du lịch Ninh Bình
+- Accessed: 23 Oct 2026
+- Supports: Updated 23 May 2023. Tam Coc ripe-rice guide. Lunch at a restaurant in the tourist area or nearby: cơm cháy, dê núi, nem Yên Mạc. No street. Ticket on that page: 120,000 đồng a person a turn, boat 150,000 đồng a trip for 4 domestic guests or 2 international guests, free under 3. Those figures disagree with S3 and with the child line on S17. All stay. Names bến Kẽm Gió as a step-off, with no minute. Boat about two hours. About 100 km from the center of Hà Nội on QL1A.
+
+### S25
+- URL: https://dulichninhbinh.com.vn/item/3071
+- Publisher: Trung tâm Xúc tiến du lịch Ninh Bình
+- Accessed: 23 Oct 2026
+- Supports: Updated 14 May 2025. Tam Coc–Bích Động–Thái Vi–Thung Nham day. Lunch at 11:45 at a local restaurant: dê tái chanh, cơm cháy, dê nướng. No restaurant name, no hamlet, no street.
+
+### S26
+- URL: https://dulichninhbinh.com.vn/item/1130
+- Publisher: Trung tâm Xúc tiến du lịch Ninh Bình
+- Accessed: 23 Oct 2026
+- Supports: Updated 13 Nov 2020. Top 5 Ninh Bình dishes. Cơm cháy sold from the city out to Bái Đính, Tràng An, Tam Cốc, and the highway. Nem chua Yên Mạc: lean rump, boiled pork skin, thính, lá ổi, lá chuối, eaten with lá sung or lá ổi and nước mắm, chanh, tỏi, ớt. Places that nem in vùng đất Yên Mạc. Tái dê is branded Hoa Lư. Miến lươn and rượu cần Nho Quan are on the page and are not Tam Coc dishes.
+
+### S27
+- URL: https://dulichninhbinh.com.vn/item/1132
+- Publisher: Trung tâm Xúc tiến du lịch Ninh Bình
+- Accessed: 23 Oct 2026
+- Supports: Updated 13 Nov 2020. Provincial goat recipes, about more than 20 plates, on Hoa Lư limestone. No Tam Coc sentence. Dê tái chanh method is the one used beside the Tam Coc lunch name. The other plates on this page are not Tam Coc dishes and were not used to fill the gap of 7.
+
+### S28
+- URL: https://dulichninhbinh.com.vn/en/item/1281
+- Publisher: Tourism Promotion Information Center, Ninh Binh Tourism Department
+- Accessed: 23 Oct 2026
+- Supports: Updated 30 Jul 2021. Provincial goat food. Names, in English only, goat soup, grilled goat meat with five spices, steamed goat meat with ginger, goat hotpot, and goat porridge. Says eateries around Trang An, Tam Coc Caves, or the foot of Hoa Lu Mountain serve the province’s specialties. No Vietnamese names. Not added as Tam Coc dishes.
+
+### S29
+- URL: https://dulichninhbinh.com.vn/item/2035
+- Publisher: Trung tâm Xúc tiến du lịch Ninh Bình
+- Accessed: 23 Oct 2026
+- Supports: Updated 14 Feb 2023. Nhà hàng Anh Dũng in the center of khu du lịch Tam Cốc Bích Động. Address printed as phường Nam Hoa Lư. No street. Menu not itemized. Not a dish. do not publish as a pick.
+
+### S30
+- URL: https://dulichninhbinh.com.vn/item/3669
+- Publisher: Trung tâm Xúc tiến du lịch Ninh Bình
+- Accessed: 23 Oct 2026
+- Supports: Updated 3 Aug 2026. Family day at Tam Coc, phường Nam Hoa Lư. Lunch named as Ninh Bình specialties: dê núi, cơm cháy, cá rô Tổng Trường, or countryside dishes. Cá rô Tổng Trường stays a neighbor dish. Small cafes are mentioned with no name, no street, and no drink. Khoảng 15–20 minutes from Tam Coc to Phố cổ Hoa Lư.
+
+Pages that were not used, because they did not open: the provincial environment note at sonnmt.ninhbinh.gov.vn (security check), the Nam Hoa Lư ward introduction (security check), the visitor-support page at hotrodukhachninhbinh.vn (HTTP 500), the national-tourism Bích Động page (timeout), the SinhTour eating page (security check), and a commercial “ẩm thực Tam Cốc” article that returned HTTP 500. Their numbers are not in the dossier. The 15 Feb 2023 provincial list at ttdn.ninhbinh.gov.vn (đặc sản Ninh Bình những món ngon) was opened and does not place its plates at Tam Coc. It was not used to fill the gap.

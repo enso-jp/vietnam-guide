@@ -3,7 +3,7 @@
 Slug: `tam-coc`
 Checked: 23 Oct 2026
 
-Local titles. Not another city’s list. The food guide card is no. Eleven dishes are sourced, nine short of 20, and there is no food street.
+Local titles. Not another city’s list. The food guide card is no. Thirteen dishes are sourced, seven short of 20, and there is no food street.
 
 ### The sampan and the three caves
 - Why it is this place, not a generic label: The ride on sông Ngô Đồng through hang Cả, hang Hai, and hang Ba is the picture of `tam-coc`. The Tràng An boat is `ninh-binh` (S3, S7).
@@ -42,12 +42,12 @@ Local titles. Not another city’s list. The food guide card is no. Eleven dishe
 - Sources: S7, S15
 
 ### A day without a dining street
-- Why it is this place, not a generic label: People eat in the hamlet, and the sourced list is 11 dishes, not a food city. The card would pretend there is a market. There isn’t (S17).
+- Why it is this place, not a generic label: People eat in the hamlet, and the sourced list is 13 dishes, not a food city. The card would pretend there is a market. There isn’t (S17, S24).
 - Fits interest key, if any: food
 - Icon: food
 - Links to attraction, dish, or place slug: com-chay, thit-de-nui
 - Food guide card: no
 - Photo must show: Nothing until a plate and a lane are both licensed. unpublished: no licensed photo.
-- Sources: S17
+- Sources: S17, S24
 
 Resort living is not a reason to come. UNESCO says the whole Trang An property contains four small private resort operations and does not name one at Tam Coc (S1). No brand is a pick. The bed is the hamlet, in `attractions.md`.
