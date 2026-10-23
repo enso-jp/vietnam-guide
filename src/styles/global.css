@@ -2560,8 +2560,8 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   .home-feed { display: contents; }
   .home-hero-lead { order: 1; }
   .home-sheet { order: 2; }
-  .home-hero-next,
-  .home-collage { order: 3; margin-top: var(--band-gap); }
+  .home-hero-next { order: 3; margin-top: var(--band-gap); }
+  .home-collage { display: none; }
   .lead-stories { order: 4; }
   .lead-actions { order: 7; }
   .home-section { order: 6; }
