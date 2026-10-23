@@ -207,3 +207,83 @@ Pages were opened on 22 Oct 2026. Where a fetch of the live page timed out, the 
 - Publisher: Công an tỉnh Tây Ninh
 - Accessed: 22 Oct 2026
 - Supports: Hội Yến crowd note for 25 Sep 2026, lunar 15 of the eighth month. Indexed text. No visitor fee.
+
+### S35
+- URL: https://dulich.tayninh.gov.vn/tin-tuc/nhung-mon-ngon-mang-dau-an-giao-thoa-van-hoa-am-thuc-vung-bien-1892
+- Publisher: Trung tâm Xúc tiến Du lịch tỉnh Tây Ninh, author Kim Ngân
+- Accessed: 23 Oct 2026
+- Supports: Bánh tráng phơi sương, bánh canh Trảng Bàng, bò tơ, muối tôm, mãng cầu products. Tung Lò Mò as fermented beef sausage, lightly sour. Cà ri bò as Halal, undescribed. Bánh thuẫn at Cham Islam gatherings, undescribed. Bún Xiêm Lo from snakehead, turmeric, and lemongrass. Mắm chua from small fish and freshwater shrimp. Hoa bowls with a clear, lightly sweet broth: hủ tiếu, mì hoành thánh, há cảo, xíu mại, bánh bao, chè mè đen, sâm bổ lượng. Caption also names bánh bao kim sa and chân gà hấp tàu xì.
+
+### S36
+- URL: https://dulich.tayninh.gov.vn/tin-tuc/banh-canh-trang-bang-tinh-hoa-am-thuc-cua-tay-ninh-1823
+- Publisher: Trung tâm Xúc tiến Du lịch tỉnh Tây Ninh, author Nguyễn Phan Hoàng Anh Thư
+- Accessed: 23 Oct 2026
+- Supports: Bánh canh from the early twentieth century. Rice-flour strands, partial cook, no tapioca. Pork-bone broth, hock, lean pork, blood cake or fish cake, scallion, pepper, fish sauce with fresh chili, greens. Rooms in phường Trảng Bàng and on Quốc lộ 22. No price and no clock.
+
+### S37
+- URL: https://dulich.tayninh.gov.vn/tin-tuc/bun-xiem-lo-soi-day-ket-noi-am-thuc-viet-khmer-noi-bien-gioi-tay-ninh-1874
+- Publisher: Trung tâm Xúc tiến Du lịch tỉnh Tây Ninh, author Phương Anh
+- Accessed: 23 Oct 2026
+- Supports: Khmer snakehead broth, fresh turmeric, lemongrass, fish cake or pieces, thin noodles, field greens, muối ớt. Rau kèo nèo, rau tai tượng, bean sprouts. Breakfast or lunch. Commune not named. A 2021–2022 list of 100 specialties, as this article states it, from Tổ chức Kỷ lục Việt Nam.
+
+### S38
+- URL: https://dulich.tayninh.gov.vn/tin-tuc/mam-chua-tay-ninh-mon-dac-san-noi-tieng-dam-da-1622
+- Publisher: Trung tâm Xúc tiến Du lịch tỉnh Tây Ninh, author Phạm Thị Ngọc Thanh
+- Accessed: 23 Oct 2026
+- Supports: Mắm chua from tép and cá cơm of Hồ Dầu Tiếng, or cá rễ tre about 3–4 cm. About 15 days. Salty and sour. Eaten with green banana, herbs, winged beans, or rolled with boiled pork. Lists muối ớt and muối tôm as two names. Chợ Long Hoa. Shop name on đường 30 Tháng 4 is a source clue only.
+
+### S39
+- URL: https://dulich.tayninh.gov.vn/tin-tuc/bo-to-trang-bang-tinh-hoa-am-thuc-tay-ninh-1604
+- Publisher: Trung tâm Xúc tiến Du lịch tỉnh Tây Ninh, author Nguyễn Phan Hoàng Anh Thư
+- Accessed: 23 Oct 2026
+- Supports: Bò tơ about 5 to 6 months and about 50–60 kg. Sweet, soft, crisp skin. Described plate is the rice-paper roll with bún, herbs, and forest leaves, mắm nêm or mixed fish sauce. Also names bò nướng mọi, bò nướng sả, bò hấp gừng, bò nhúng giấm, bò nhúng mắm ruốc, lẩu đuôi bò, cháo bò, and unnamed offal. Marked lunch. Phường Trảng Bàng, phường An Tịnh, Quốc lộ 22. Shop names are source clues only. No price and no clock.
+
+### S40
+- URL: https://dulich.tayninh.gov.vn/tin-tuc/kho-ca-loc-mon-ngon-xu-dong-1610
+- Publisher: Trung tâm Xúc tiến Du lịch tỉnh Tây Ninh, author Ngọc Hiếu
+- Accessed: 23 Oct 2026
+- Supports: Dried snakehead in Đồng Tháp Mười. Kênh 79, chợ Bình Hiệp, Bàu Sậy, Gò Châu Mai, khu phố Rọc Chanh, chợ Tân Hưng. About 3 to 4 kg fresh fish per 1 kg dried, 3 to 4 suns. Whole pieces and shredded pieces. Plates: gỏi xoài, chiên mắm me, gỏi lá sầu đâu, canh chua. No stall price.
+
+### S41
+- URL: https://dulich.tayninh.gov.vn/tin-tuc/dac-san-va-van-hoa-am-thuc-tay-ninh-tu-huong-vi-truyen-thong-den-san-pham-du-lich-ocop-dac-trung-1894
+- Publisher: Trung tâm Thông tin du lịch, on Cổng du lịch tỉnh Tây Ninh
+- Accessed: 23 Oct 2026
+- Supports: Muối tôm salty, spicy, aromatic, eaten with fruit, rice paper, and other dishes. Mãng cầu lightly sweet and fragrant. Heritage listing for the rice-paper craft in 2015. Some sheet producers at OCOP 4 stars and 5 stars. Vegetarian dishes at the Holy See, unnamed. Processed mãng cầu as a mountain gift.
+
+### S42
+- URL: https://dulich.tayninh.gov.vn/tin-tuc/du-lich-vung-bien-tay-ninh-khi-moi-cung-duong-deu-ke-mot-cau-chuyen-1860
+- Publisher: Trung tâm Xúc tiến Du lịch tỉnh Tây Ninh, author Phương Anh
+- Accessed: 23 Oct 2026
+- Supports: Cá lóc nướng trui rolled with seasonal forest leaves, named with bò tơ, bánh tráng phơi sương, and muối tôm.
+
+### S43
+- URL: https://dulich.tayninh.gov.vn/tin-tuc/lau-mam-1237
+- Publisher: Trung tâm Xúc tiến Du lịch tỉnh Tây Ninh
+- Accessed: 23 Oct 2026
+- Supports: Lẩu mắm still described as Long An. Mắm sặc, mắm trèn, mắm linh. Fresh noodles and a large plate of greens. Also names lạp xưởng tươi, rượu đế Gò Đen, mắm còng Cần Giuộc, and gạo Nàng Thơm Chợ Đào, without recipes for the sausage or the crab paste. No street.
+
+### S44
+- URL: https://dulich.tayninh.gov.vn/tin-tuc/gao-nang-thom-cho-dao-69
+- Publisher: Trung tâm Xúc tiến Du lịch tỉnh Tây Ninh, byline Lê Ngọc
+- Accessed: 23 Oct 2026
+- Supports: Nàng Thơm Chợ Đào at Mỹ Lệ. 170–185 days, one crop, sown lunar June or July, cut in lunar December. Long grain, pink inside, fragrant and glossy, and the same article says the flavor has faded. 200 ha marked. Geographical indication still unfinished. No price.
+
+### S45
+- URL: https://khudulichnuibaden.tayninh.gov.vn/mang-cau-nui-ba
+- Publisher: Ban quản lý Khu du lịch quốc gia Núi Bà Đen
+- Accessed: 23 Oct 2026
+- Supports: Mãng cầu, 5,000 ha, fragrant, chewy, sweet, large fruit, thick eyes, deep grooves, deeply sweet flesh. Decision 1804/QĐ-SHTT of 10 Aug 2011, certificate 00027. OCOP 4 stars in 2021. Fruit bagged rather than sprayed. Footer address is the mountain office.
+
+### S46
+- URL: https://www.ipvietnam.gov.vn/danh-sach-cac-chi-dan-ia-ly-uoc-bao-ho-tai-viet-nam
+- Publisher: Cục Sở hữu trí tuệ
+- Accessed: 23 Oct 2026
+- Supports: Certificate 6-00027, 10 Aug 2011, name Bà Đen, product mãng cầu (na), registrant Sở Khoa học và Công nghệ tỉnh Tây Ninh.
+
+### S47
+- URL: https://dulich.tayninh.gov.vn/tin-tuc/de-go-den-331
+- Publisher: Trung tâm Xúc tiến Du lịch tỉnh Tây Ninh
+- Accessed: 23 Oct 2026
+- Supports: A shopping card for Đế Gò Đen at số 05, ấp 3B, xã Mỹ Yên, with the old line xã Phước Lợi, huyện Bến Lức, Long An. No strength, no price, no hour.
+
+S18, https://dulich.tayninh.gov.vn/vi/news/dich-vu-du-lich/am-thuc-dac-san-tay-ninh-6836.html, returned 404 on 23 Oct 2026. Do not add new facts from an indexed copy of that URL. Facts stored on 22 Oct stay.

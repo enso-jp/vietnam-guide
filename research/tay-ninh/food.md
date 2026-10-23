@@ -95,3 +95,30 @@ Restaurant and bar names that located a street. Each line has a source and the w
 ### Khu phố Gia Huỳnh
 - Năm Dung, Út Huệ, Mộng Ngọc, Hoàng Minh. The tourism article names them as the places that sell the rolls and bánh canh (S18). do not publish as a pick.
 - Như Bình. A 2024 national-tourism article ate the rolls there (S21). do not publish as a pick.
+
+### Bò tơ, phường Trảng Bàng, phường An Tịnh, Quốc lộ 22
+- Bò tơ Năm Sánh, bò tơ Sáu Hùng, bò tơ Út Khương. The young-beef article names them (S39). do not publish as a pick.
+
+### Mắm chua, đường 30 Tháng 4
+- Quán A Hùng, số 7 hẻm 15, đường 30 Tháng 4, khu phố 4, phường Tân Ninh (S38). do not publish as a pick.
+
+## Added 23 Oct 2026 for the food guide
+
+The public list is every dish a publisher named. Streets stay streets. No stall price was printed. The older specialty URL S18 returned 404 on 23 Oct 2026. Facts already stored from 22 Oct stay. New facts below come from pages opened that day.
+
+- Bánh canh Trảng Bàng: rice-flour strands, no tapioca, pork-bone broth, hock, lean pork, blood cake or fish cake (S36). The town page and S18 had not described the broth. Both stay.
+- Muối tôm: salty, spicy, aromatic, with fruit, rice paper, and other dishes (S41). The mắm article lists muối ớt and muối tôm as two names (S38). A recipe that separates them was not on a page opened 23 Oct.
+- Bò tơ Trảng Bàng: about 5 to 6 months, about 50–60 kg, sweet, soft, crisp skin. The described plate is the rice-paper roll. Also named, undescribed: bò nướng mọi, bò nướng sả, bò hấp gừng, bò nhúng giấm, bò nhúng mắm ruốc, lẩu đuôi bò, cháo bò, and unnamed offal (S39). Marked lunch. Hour Check on arrival — UNSOURCED.
+- Mãng cầu Bà Đen: 5,000 ha on the mountain board, chewy and deeply sweet, and lightly sweet and fragrant on S41. Decision 1804/QĐ-SHTT, certificate 00027 (S45) and certificate 6-00027 (S46), both 10 Aug 2011. OCOP 4 stars in 2021 on S45 only. Footer address is the mountain office, not an orchard.
+- Bún Xiêm Lo: snakehead, turmeric, lemongrass, fish cake or pieces, thin noodles, muối ớt, rau kèo nèo, rau tai tượng, bean sprouts. Breakfast or lunch. Commune still unnamed (S37).
+- Mắm chua: tép and cá cơm from Hồ Dầu Tiếng, or cá rễ tre, about 15 days (S38). Also named as Khmer small-fish and shrimp paste (S35).
+- Tung Lò Mò, cà ri bò, bánh thuẫn: Cham Islam. Sausage is described. Curry and cake are names only (S35).
+- Cá lóc nướng trui: rolled with seasonal forest leaves, placed with Trảng Bàng plates (S42) and also with the old Long An line (S3). Both stay.
+- Hoa: hủ tiếu and mì hoành thánh in a clear, lightly sweet broth; há cảo, xíu mại, bánh bao; chè mè đen and sâm bổ lượng; caption also names bánh bao kim sa and chân gà hấp tàu xì (S35). Streets not printed.
+- Khô cá lóc and four plates: gỏi xoài, chiên mắm me, gỏi lá sầu đâu, canh chua. Yards on kênh 79 and the named markets (S40). Homepage still groups it with old Long An (S3).
+- Lẩu mắm: still described as Long An. Three mắm, noodles, greens (S43). Also names lạp xưởng tươi, rượu đế Gò Đen, mắm còng Cần Giuộc, and the rice, without recipes for the sausage or the crab paste.
+- Gạo Nàng Thơm Chợ Đào: 170–185 days, one crop, fragrant, and the same article says the flavor has faded (S44).
+- Rượu đế Gò Đen: a shop card at số 05, ấp 3B, xã Mỹ Yên, old xã Phước Lợi, huyện Bến Lức (S47). No strength.
+- Thanh long Đức Hòa: named on the homepage only (S3).
+- Vegetarian dishes at the Holy See: named, no dish (S41). Check on arrival — UNSOURCED.
+- Heritage year: 2015 (S41) and 2016 (S17). Both stay.

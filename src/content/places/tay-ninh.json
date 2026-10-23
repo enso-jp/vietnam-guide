@@ -28,6 +28,7 @@
   "itinerarySlugs": [
     "tay-ninh-day"
   ],
+  "foodSlug": "tay-ninh",
   "seoTitle": "Tay Ninh travel guide — Holy See noon, then Ba Den",
   "seoDescription": "Stay for the Cao Dai noon service and Ba Den the next morning. Ho Chi Minh City is about 100 km, about 110 km, or about 90 km to more than 100 km.",
   "intro": [
@@ -57,16 +58,71 @@
     }
   ],
   "eat": [
-    "The meal on the way in is bánh tráng phơi sương at Trảng Bàng, not a food street in phường Tân Ninh. It is a two-layer rice sheet, dried, toasted over a peanut-shell fire until small bubbles show and the sheet is still pale, then rested in dew. The tourism page calls the dew step the one that decides the sheet. The town page says the dew rest is one or two minutes, enough to soften the sheet without soaking it. The 2024 article says the dew is near dawn and must stay short or the sheet goes damp. Both times stay. Roll it with boiled pork or boiled young beef, a handful of herbs, and a dipping sauce. The town page names fish sauce with garlic and chili. The rural-tourism page names tamarind fish sauce. The older article says the Gia Huỳnh sauces run sour and sweet. Herbs on the tourism page include mặt trăng, trâm ổi, chùm mòi, quế vị, cóc, rau nhái, and lộc vừng. Sit in khu phố Gia Huỳnh. The yards are in khu phố Lộc Du. After 1 July 2025 the ward line is phường Trảng Bàng. The articles still say thị trấn Trảng Bàng. Bánh canh Trảng Bàng is the other bowl at the same stop. The broth, the cake, and a topping were not described. Check on arrival for the rest of that bowl. No stall price was copied.",
-    "Muối tôm is named on the provincial homepage beside the rice paper, in a line about OCOP goods. A recipe was not on that page, and the page does not say whether it is a dip, a seasoning, or a gift. How it is eaten is check on arrival. Carry it. Bún Xiêm Lo is named as Viet-Khmer cooking on the border. The bowl and the commune were not opened. Check on arrival. Gạo Nàng Thơm Chợ Đào, thanh long Đức Hòa, rượu đế Gò Đen, cá lóc nướng trui, lẩu mắm, and khô cá lóc are the old Long An half. They are not the Holy See’s lunch."
+    "The meal on the way in is bánh tráng phơi sương at Trảng Bàng, rolled with boiled pork or boiled young beef. Bánh canh, bò tơ, and muối tôm are the other Trảng Bàng plates. Bún Xiêm Lo is the border bowl. Lẩu mắm, Nàng Thơm Chợ Đào rice, and dried snakehead are the old Long An half, not lunch at the Holy See. A stall price is Check on arrival."
   ],
-  "dishSlugs": [],
+  "dishSlugs": [
+    "tay-ninh--banh-trang-phoi-suong",
+    "tay-ninh--banh-canh-trang-bang",
+    "tay-ninh--muoi-tom",
+    "tay-ninh--bo-to",
+    "tay-ninh--bo-nuong-moi",
+    "tay-ninh--bo-nuong-sa",
+    "tay-ninh--bo-hap-gung",
+    "tay-ninh--bo-nhung-giam",
+    "tay-ninh--bo-nhung-mam-ruoc",
+    "tay-ninh--lau-duoi-bo",
+    "tay-ninh--chao-bo",
+    "tay-ninh--mang-cau-ba-den",
+    "tay-ninh--bun-xiem-lo",
+    "tay-ninh--mam-chua",
+    "tay-ninh--tung-lo-mo",
+    "tay-ninh--ca-ri-bo",
+    "tay-ninh--banh-thuan",
+    "tay-ninh--ca-loc-nuong-trui",
+    "tay-ninh--hu-tieu",
+    "tay-ninh--mi-hoanh-thanh",
+    "tay-ninh--ha-cao",
+    "tay-ninh--xiu-mai",
+    "tay-ninh--banh-bao",
+    "tay-ninh--banh-bao-kim-sa",
+    "tay-ninh--chan-ga-hap-tau-xi",
+    "tay-ninh--che-me-den",
+    "tay-ninh--sam-bo-luong",
+    "tay-ninh--kho-ca-loc",
+    "tay-ninh--goi-xoai-kho-ca-loc",
+    "tay-ninh--kho-ca-loc-chien-mam-me",
+    "tay-ninh--goi-la-sau-dau",
+    "tay-ninh--canh-chua-kho-ca-loc",
+    "tay-ninh--lau-mam",
+    "tay-ninh--gao-nang-thom-cho-dao",
+    "tay-ninh--ruou-de-go-den",
+    "tay-ninh--thanh-long-duc-hoa",
+    "tay-ninh--lap-xuong-tuoi",
+    "tay-ninh--mam-cong-can-giuoc"
+  ],
   "interestsBody": [
+    "Dining is the Trảng Bàng roll, bánh canh, and bò tơ on the way in. Muối tôm is the jar. Bún Xiêm Lo is the border bowl. The old Long An half is a different meal.",
     "The Holy See is the Cao Dai central temple in phường Long Hoa, with four daily services. Noon is the one visitors are pointed to. It is not a pagoda row, and it is not a wing of the Cu Chi tunnels.",
     "Ba Den, at 986 m, is the cable day. The lake at dusk is Hồ Dầu Tiếng. Ma Thiên Lãnh is the walk on the same hills. Chùa Gò Kén is a short stop on the plain if a ward, a fee, and an hour are posted when you arrive. Check on arrival.",
     "Sheets from khu phố Lộc Du, and muối tôm on the homepage’s specialty line, are what you carry. No mall and no boutique street were named. Zone-I points on the mountain, including Liên đội 7, are the war layer. Hậu cần 82 and Hậu cần 32 are both printed. This is not Cu Chi."
   ],
   "interestGroups": [
+    {
+      "title": "Dining and F&B",
+      "summary": "The Trảng Bàng roll, bánh canh, and bò tơ. A stall price is Check on arrival.",
+      "body": [
+        "Sit in khu phố Gia Huỳnh for bánh tráng phơi sương and bánh canh. The yards are khu phố Lộc Du. Bò tơ is along Quốc lộ 22, in phường Trảng Bàng and phường An Tịnh. The provincial tourism center marks that beef as lunch.",
+        "The same center speaks of bún Xiêm Lo at breakfast or at lunch, and does not name the commune. Mãng cầu Bà Đen is the fruit at the mountain. Lẩu mắm and Nàng Thơm Chợ Đào rice stay on the old Long An half."
+      ],
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "Bánh tráng phơi sương at Trảng Bàng, then bánh canh and bò tơ. A stall price is Check on arrival.",
+          "to": "food",
+          "icon": "food"
+        }
+      ]
+    },
     {
       "title": "The Holy See",
       "summary": "The noon service in the court, and the 18:00 rite if you are staying.",
