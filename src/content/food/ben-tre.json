@@ -2,13 +2,14 @@
   "slug": "ben-tre",
   "name": "Ben Tre food guide",
   "placeSlug": "ben-tre",
-  "summary": "Coconut candy at the kiln, xôi chiên phồng on the garden lunch, and hủ tiếu in town. The other garden plates are named with them. A stall price is check on arrival.",
+  "summary": "Coconut candy at the kiln, xôi chiên phồng on the garden lunch, and a longer coconut table: shrimp, heart salad, rice paper, and the town bowls. Two plates have a photograph. A stall price is check on arrival.",
   "heroSlug": "keo-dua",
   "body": [
-    "Kẹo dừa is coconut milk and sugar, warm at the kiln or wrapped to take home. Vietnam Tourism says more than 300 coconut-candy factories. That count is one page. The national rural page shows the boil, the cut, and the wrap at Cồn Phụng and does not print a count.",
-    "The garden lunch on that rural page is đuông dừa fried in butter, cá tai tượng chiên xù, xôi chiên phồng, lẩu mắm, cơm trái dừa, and tép rang dừa. Vietnam Tourism names creamy coconut rice, coconut-braised shrimp, and a light salad of củ hủ dừa. Breakfast on đường 30 Tháng 4 is hủ tiếu with a pork-pâté slice. Vietnam Tourism describes a dinner bowl of the same noodle with pork, shrimp, a quail egg, lime, and cilantro. Keep both plates. A stall price is check on arrival."
+    "Kẹo dừa is the sweet at the kiln, warm or wrapped to take home. Vietnam Tourism calls the plain piece coconut milk and sugar and says more than 300 factories. The provincial tourism portal, 25 November 2024, prints coconut milk, maltose, and yellow cane sugar, more than 180 workshops, and later flavors of durian, peanut, cacao, and pandan. Elders on that article place the craft in the 1930s at Mỏ Cày, now Mỏ Cày Nam. Both accounts stand. The national rural article shows the boil, the cut, and the wrap at Cồn Phụng and does not print a count.",
+    "The garden lunch on that rural article is đuông dừa fried in butter, cá tai tượng chiên xù, xôi chiên phồng, lẩu mắm, cơm trái dừa, and tép rang dừa. Vietnam Tourism names creamy coconut rice, coconut-braised shrimp, and a light salad of củ hủ dừa. The provincial portal, 4 June 2021, prints the salad as gỏi củ hủ dừa tôm thịt and pairs rice steamed in a coconut with it on a Vietkings list for 2011–2016. The 4 November 2021 overview adds nấm mối xào nước cốt dừa, ốc len xào dừa, and bánh xèo ốc gạo. The town-boat lunch adds dê hấp tía tô, lẩu gà lá giang, and ốc bươu nướng tiêu xanh. An English article from the national rural tourism center adds snakehead braised in coconut water. A stall price is check on arrival.",
+    "Breakfast on đường 30 Tháng 4 is hủ tiếu with a pork-pâté slice. Vietnam Tourism describes a dinner bowl of the same noodle with pork, shrimp, a quail egg, lime, and cilantro. Keep both plates. Bánh tráng Mỹ Lồng and bánh phồng Sơn Đốc are the craft sweets inland, listed together on 30 October 2018. In town the portal also describes bánh ướt, a coconut-milk bánh xèo, an afternoon bún riêu, and chuối đập nước cốt dừa after the lake. Honey tea, a young coconut, and dừa nước are the drinks. The bowl next door is hủ tiếu Mỹ Tho."
   ],
-  "specialtiesLead": "Kẹo dừa and xôi chiên phồng are the plates to know by name. The rest of the garden lunch is named above.",
+  "specialtiesLead": "Kẹo dừa and xôi chiên phồng are the plates with a photograph. The garden lunch, the craft sweets, the town bowls, and the drinks are named below.",
   "dishSlugs": ["keo-dua", "xoi-chien-phong"],
   "sections": [
     {
@@ -16,17 +17,73 @@
       "heading": "Cồn Phụng kitchens",
       "nav": "The kiln",
       "paragraphs": [
-        "The rural page shows coconut candy boiled, cut, and wrapped on Cồn Phụng, with rice paper and honey tea on the same ground. A stage time for đờn ca tài tử was not printed. Check on arrival."
+        "The national rural article shows coconut candy boiled, cut, and wrapped on Cồn Phụng, with rice paper and honey tea on the same ground. A stage time for đờn ca tài tử was not printed. Check on arrival."
       ],
       "spots": [
         {
           "name": "Cồn Phụng kitchens",
           "nameVi": "Lò kẹo trên Cồn Phụng",
           "caption": "Wrapping coconut candy in the Cồn Phụng workshop",
-          "note": "The rural page shows the boil, the cut, and the wrap here. A stall price is check on arrival. The operator page prints 07:30–18:00. The rural page prints no hours.",
+          "note": "The national rural article shows the boil, the cut, and the wrap here. A stall price is check on arrival. The operator page prints 07:30–18:00. The rural article prints no hours.",
           "photo": "keo-dua-2"
         }
       ]
+    },
+    {
+      "id": "garden",
+      "heading": "The garden lunch",
+      "nav": "The lunch",
+      "paragraphs": [
+        "These are the plates named for Cồn Phụng, the grove lunch, and the town-boat garden. Xôi chiên phồng is the photograph above. Ask for the name when the article stops at the name. A stall price is check on arrival."
+      ],
+      "dishSlugs": [
+        "ben-tre--duong-dua",
+        "ben-tre--ca-tai-tuong",
+        "ben-tre--lau-mam",
+        "ben-tre--com-trai-dua",
+        "ben-tre--tep-rang-dua",
+        "ben-tre--goi-cu-hu-dua",
+        "ben-tre--nam-moi-xao-dua",
+        "ben-tre--oc-len-xao-dua",
+        "ben-tre--banh-xeo-oc-gao",
+        "ben-tre--de-hap-tia-to",
+        "ben-tre--lau-ga-la-giang",
+        "ben-tre--oc-buou-nuong",
+        "ben-tre--ca-loc-nuoc-dua"
+      ]
+    },
+    {
+      "id": "craft",
+      "heading": "Mỹ Lồng and Sơn Đốc",
+      "nav": "The yards",
+      "hideNav": true,
+      "paragraphs": [
+        "Bánh tráng Mỹ Lồng is rice paper from sticky rice and coconut milk, with sugar, salt, sesame, and sometimes milk or egg. The provincial tourism portal gives two origins and does not choose: elders say about 100 years, and another story ties the dry rations to the Nguyễn–Trịnh years. Bánh phồng Sơn Đốc is glutinous rice pounded with coconut milk and sugar, then grilled so the cracker puffs to 3–4 times its size. The same article says the craft is more than 100 years old and began as a Tết offering, and quotes 51 households, about 25 million crackers a year, and a cooperative of 20 members. Those figures are that article. Both were listed as national intangible heritage by Quyết định số 4069/QĐ-BVHTTDL on 30 October 2018. A price is check on arrival."
+      ],
+      "dishSlugs": ["ben-tre--banh-trang-my-long", "ben-tre--banh-phong-son-doc"]
+    },
+    {
+      "id": "town",
+      "heading": "In town",
+      "nav": "In town",
+      "paragraphs": [
+        "The provincial tourism portal, 9 June 2021, describes bánh ướt, a coconut-milk bánh xèo, and an afternoon bún riêu. Chuối đập nước cốt dừa is the snack on the evening walk after Hồ Trúc Giang. Breakfast hủ tiếu is the morning bowl. A stall price is check on arrival."
+      ],
+      "dishSlugs": [
+        "ben-tre--banh-uot",
+        "ben-tre--banh-xeo",
+        "ben-tre--bun-rieu",
+        "ben-tre--chuoi-dap"
+      ]
+    },
+    {
+      "id": "drinks",
+      "heading": "Tea and coconut water",
+      "nav": "Drinks",
+      "paragraphs": [
+        "Honey tea is the sit-down drink in a coconut-leaf house, and on the town boat the guest mixes trà mật ong phấn hoa. A young coconut is cut open on the firefly boat. Dừa nước is the nipa drink at the garden stop. A stall price is check on arrival."
+      ],
+      "dishSlugs": ["ben-tre--tra-mat-ong", "ben-tre--dua-tuoi", "ben-tre--dua-nuoc"]
     },
     {
       "id": "market",
@@ -46,25 +103,27 @@
       ]
     },
     {
-      "id": "craft",
-      "heading": "Mỹ Lồng and Sơn Đốc",
-      "nav": "The yards",
-      "hideNav": true,
-      "paragraphs": [
-        "Bánh tráng Mỹ Lồng is rice paper from sticky rice and coconut milk, with sugar, salt, sesame, and sometimes milk or egg. The portal gives two origins and does not choose: elders say about 100 years, and another story ties the dry rations to the Nguyễn–Trịnh years. Bánh phồng Sơn Đốc is glutinous rice pounded with coconut milk and sugar, then grilled so the cracker puffs to 3–4 times its size. The same page says the craft is more than 100 years old and began as a Tết offering, and quotes 51 households, about 25 million crackers a year, and a cooperative of 20 members. One page. Both were listed as national intangible heritage by Quyết định số 4069/QĐ-BVHTTDL on 30 October 2018. A price is check on arrival."
-      ]
-    },
-    {
       "id": "neighbor",
       "heading": "A bowl in My Tho",
       "nav": "My Tho",
+      "role": "regional",
       "paragraphs": [
         "Breakfast in Ben Tre is hủ tiếu with a pork-pâté slice on đường 30 Tháng 4. Vietnam Tourism describes a dinner bowl with pork, shrimp, a quail egg, lime, and cilantro. Keep both plates. The bowl next door is hủ tiếu Mỹ Tho."
       ],
       "dishSlugs": ["hu-tieu-my-tho"]
+    },
+    {
+      "id": "breakfast",
+      "heading": "Breakfast",
+      "nav": "Breakfast",
+      "role": "breakfast",
+      "paragraphs": [
+        "Breakfast on đường 30 Tháng 4 is hủ tiếu with a pork-pâté slice the provincial tourism portal calls local. The 9 June 2021 article describes that slice as a house chả of pig-head skin, pork fat, lean pork, and pepper. Vietnam Tourism’s dinner bowl is pork, shrimp, a quail egg, lime, and cilantro. Keep both plates. A stall price is check on arrival."
+      ],
+      "dishSlugs": ["ben-tre--hu-tieu-pate"]
     }
   ],
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "seoTitle": "Ben Tre food — coconut candy and the garden lunch",
-  "seoDescription": "Kẹo dừa at the kiln, xôi chiên phồng on the Cồn Phụng lunch, and hủ tiếu in town. Garden plates stay named beside them. A stall price is check on arrival."
+  "seoDescription": "Kẹo dừa at the kiln, xôi chiên phồng on the lunch, and the coconut plates named with them. Town bowls and craft sweets stay on the list. A stall price is check on arrival."
 }
