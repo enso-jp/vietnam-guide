@@ -4,21 +4,22 @@
   "name": "Cave Pagoda",
   "nameVi": "Chùa Hang (Phước Điền)",
   "kicker": "Hill pagoda on the slope of Núi Sam",
-  "summary": "Chùa Hang, also called Phước Điền, is the climb on Núi Sam, not a flat hall at the foot. Vietnam Tourism says the view from the climb reaches toward Cambodia, and that caves run into the hillside if you have time. Hours, a fee, and a fixed length were not printed. Check on arrival. Go when the air is clear if the plain is the point.",
+  "summary": "Cave pagoda on the slope of Núi Sam: climb for the view over the plain, and the caves if you have time. Phước Điền is the other name. The halls at the foot are a separate walk. Go when you can see the delta from the slope. The view from the climb reaches toward Cambodia.",
   "dots": 4,
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
   "getThere": "Continue up from the temples at the foot of Núi Sam.",
-  "verified": "21 Oct 2026",
+  "district": "Núi Sam",
+  "verified": "23 Oct 2026",
   "heroCaption": "A pavilion on the slope of Núi Sam, with the delta plain behind it",
   "notice": {
-    "title": "This is a climb",
-    "body": "The shrine and Tây An are at the foot. Chùa Hang is on the slope. Do not treat the cave walk as another flat hall."
+    "title": "The climb starts above the foot",
+    "body": "Miếu Bà Chúa Xứ and Chùa Tây An sit at the foot of Núi Sam. Chùa Hang, also called Phước Điền, is on the slope, with caves in the hillside. Plan the walk up as its own effort."
   },
   "body": [
-    "Continue up from the foot-of-the-hill temples. Vietnam Tourism describes the view from the climb toward Cambodia, and a network of caves in the hillside if there is time. TITC uses the name Phước Điền for this pagoda. The photograph is the pavilion and the plain, which is the view you came up for.",
-    "The second frame is the building against the rock, with the path and a statue on the stone. That is the climb, not the shrine at the gate below. A clock for clearer air was not printed. Come when you can see the plain.",
-    "A fee and an hour were not on the pages opened. Check on arrival. The cable car TITC mentions for the hill has no published fare either."
+    "Continue up from the temples at the foot. The view from the climb reaches toward Cambodia, and caves run into the hillside if you have time. Phước Điền is the other name for this pagoda. The pavilion and the plain are the view you climbed for.",
+    "The building sits against the rock, with a path and a statue on the stone. That is the climb. The shrine at the gate below is a different stop. Come when you can see the plain.",
+    "Treat the cable car, when it is running, as its own ride up the hill."
   ],
   "figures": [
     {
@@ -28,27 +29,27 @@
     }
   ],
   "gettingThere": [
-    "Chùa Hang is on the slope of Núi Sam, above the foot-of-the-hill cluster in phường Vĩnh Tế. Start from the shrine road and continue up. Minutes were not printed."
+    "Chùa Hang is on the slope of Núi Sam, above the foot-of-the-hill cluster in phường Vĩnh Tế. Start from the shrine road and continue up on foot."
   ],
   "legs": [
     {
       "heading": "From Ba Chua Xu Temple",
-      "body": "On foot, up the slope. A published walking time was not found. Check on arrival."
+      "body": "On foot, up the slope."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly closing day was published. Check the board on arrival.",
-  "admissionNote": "No gate tariff was on the pages opened. Check on arrival.",
+  "closed": "Check the board on arrival.",
+  "admissionNote": "Check on arrival. The cable car is a separate ride.",
   "links": [
     {
       "label": "The colourful charms of Chau Doc",
       "url": "https://vietnam.travel/things-to-do/colourful-charms-chau-doc",
-      "note": "Vietnam Tourism, the climb and the caves"
+      "note": "The climb and the caves"
     },
     {
       "label": "Miếu Bà Chúa Xứ Núi Sam",
       "url": "https://nongthon.vietnamtourism.gov.vn/mieu-ba-chua-xu-nui-sam-diem-den-tam-linh-hang-dau-cua-an-giang/",
-      "note": "TITC uses the name Phước Điền"
+      "note": "Uses the name Phước Điền"
     }
   ],
   "lat": 10.676654,

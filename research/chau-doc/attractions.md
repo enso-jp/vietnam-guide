@@ -199,3 +199,17 @@ Districts that deserve their own page:
 - Sources: S1, S3, S5, S9, S14
 
 Dawn boats selling fruit are described in the charms chapter as a floating market (S3). A second primary page naming a Châu Đốc produce market on the water, separate from the town market landing and from the fish rafts, was not opened. Treat that dawn scene as Check on arrival, not as a second Cái Răng.
+
+## 23 Oct 2026 attraction pass
+
+Per-sight files are in `research/chau-doc/attractions/`. Public districts, taken from the areas above:
+
+- Núi Sam: Sam Mountain, Ba Chua Xu, Tay An, Hang pagoda, Thoai Ngoc Hau tomb. All in phường Vĩnh Tế.
+- Phường Châu Đốc: the market and the Hậu bank.
+- River junction: the fish rafts at former Đa Phước, beside Cồn Tiên bridge.
+- Cham bank: Châu Phong and Đa Phước.
+- Trà Sư: the forest 23 km out.
+
+Photo note: the blue-and-white mosque frame is Đa Phước on the Commons description (right bank of the Bassac, Thánh đường Hồi Giáo, Đa Phước, An Phú). It does not choose between Ihsan and Sunnah. The town-bank hero was replaced with the Châu Phú B promenade (camera 10° 42′ 34.43″ N, 105° 07′ 20.3″ E). The second river frame is the palm walk, not the fish-raft close-up.
+
+Not added: Chùa Ông and Bồ Đề Đạo Tràng appear in Commons filenames. They are not in this attraction list, and this pass did not find a tourism-portal treatment that makes either a separate day sight beside the Núi Sam cluster. Unpublished for lack of a photo: none of the ten sights.
