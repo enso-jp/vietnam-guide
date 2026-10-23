@@ -1,0 +1,305 @@
+{
+  "slug": "ha-giang",
+  "name": "Ha Giang food guide",
+  "placeSlug": "ha-giang",
+  "summary": "Ha Giang eats a highland table: thắng cố, mèn mén, and cháo ấu tẩu, then buckwheat in every form Vietnam Tourism and Vietnam Plus name. Breakfast in town is phở. Sunday is the market.",
+  "body": [
+    "Eat the plateau as its own kitchen. Phở in town is the ordinary breakfast bowl before the ride toward Đồng Văn. It is not a highland specialty. Phở chua, phở ngô, buckwheat pho, and phở Tráng Kìm are different bowls.",
+    "Where a method disagrees, every version is here. Vietnam Tourism, Vietnam Plus, and Dân Việt do not describe one thắng cố or one cháo ấu tẩu. A stall price is Check on arrival."
+  ],
+  "specialtiesLead": "The highland dishes to know by name, plus phở at breakfast.",
+  "dishSlugs": [
+    "banh-tam-giac-mach",
+    "buckwheat-pancakes",
+    "buckwheat-porridge",
+    "buckwheat-noodles",
+    "buckwheat-vermicelli",
+    "buckwheat-pho",
+    "buckwheat-beer",
+    "buckwheat-wine",
+    "corn-wine",
+    "grilled-stone-moss",
+    "banh-chung-gu",
+    "ha-giang-sausages",
+    "lap-xuong-gac-bep",
+    "thang-co",
+    "men-men",
+    "grilled-corn-cakes",
+    "chao-au-tau",
+    "banh-cuon-trung-dong-van",
+    "bac-me-rice",
+    "thit-trau-gac-bep",
+    "pho-chua",
+    "pho-ngo",
+    "pho-trang-kim",
+    "thang-den",
+    "thit-treo",
+    "lon-cap-nach",
+    "che-shan-tuyet",
+    "mint-honey",
+    "lau-ga-den",
+    "banh-da"
+  ],
+  "sections": [
+    {
+      "id": "specialties",
+      "heading": "Ha Giang specialties",
+      "nav": "Specialties",
+      "paragraphs": [
+        "Buckwheat pancakes and bánh tam giác mạch stay separate. Bắc Mê bamboo-tube rice and Bắc Mê sticky rice both stay. The breakfast phở is in the breakfast section."
+      ],
+      "spots": [
+        {
+          "name": "Five-colour sticky rice",
+          "nameVi": "Xôi ngũ sắc",
+          "note": "Sticky rice coloured with leaves, not a chemical dye. The five colours are the five elements: yellow earth, green plant, red fire, white metal, black water. Dân Việt says each colour comes from forest leaves and that the dish is eaten across the northwest and northeast as well as in Đồng Văn. Eat it as a plate of five colours.",
+          "dishSlug": "xoi-ngu-sac"
+        },
+        {
+          "name": "Buckwheat cake",
+          "nameVi": "Bánh tam giác mạch",
+          "note": "Buckwheat seeds crushed to powder, mixed with water, poured into a soft mould, and rolled. Vietnam Plus names the cake and does not add a second method. Vietnam Tourism says it will not be confused with another cake. Eat it in buckwheat season and at the November festival. The 2026 civil day is Check on arrival.",
+          "dishSlug": "banh-tam-giac-mach"
+        },
+        {
+          "name": "Buckwheat pancakes",
+          "nameVi": "",
+          "note": "Named among the festival foods, with porridge, noodles, cakes, and wine. A method is Check on arrival. They are not bánh tam giác mạch. The festival is typically mid-to-late November. The 2026 civil day is Check on arrival.",
+          "dishSlug": "buckwheat-pancakes"
+        },
+        {
+          "name": "Buckwheat porridge",
+          "nameVi": "",
+          "note": "Named at the same Đồng Văn festival. A method is Check on arrival.",
+          "dishSlug": "buckwheat-porridge"
+        },
+        {
+          "name": "Buckwheat noodles",
+          "nameVi": "",
+          "note": "A buckwheat-seed specialty on the food page and a festival food. A method is Check on arrival.",
+          "dishSlug": "buckwheat-noodles"
+        },
+        {
+          "name": "Buckwheat dry rice vermicelli",
+          "nameVi": "",
+          "note": "Named in the buckwheat list on the food page. A method is Check on arrival.",
+          "dishSlug": "buckwheat-vermicelli"
+        },
+        {
+          "name": "Buckwheat pho",
+          "nameVi": "",
+          "note": "A buckwheat-seed specialty, listed apart from cakes and wine. This is not the breakfast phở and not phở Tráng Kìm. A method is Check on arrival.",
+          "dishSlug": "buckwheat-pho"
+        },
+        {
+          "name": "Buckwheat beer",
+          "nameVi": "",
+          "note": "Beer made from buckwheat seeds. Strength is Check on arrival.",
+          "dishSlug": "buckwheat-beer"
+        },
+        {
+          "name": "Buckwheat wine",
+          "nameVi": "",
+          "note": "Wine made from buckwheat, on the food page and at the festival. It is not the corn wine. A method is Check on arrival.",
+          "dishSlug": "buckwheat-wine"
+        },
+        {
+          "name": "Leaf-fermented corn wine",
+          "nameVi": "Rượu ngô",
+          "note": "The opening name is leaf-fermented corn wine. The same food page says thắng cố is often eaten with corn wine. A host may offer a shot. Vietnam Plus says Mong women are said to know how to cook corn wine, and that lợn cắp nách may be eaten with rượu ngô or rượu táo mèo. Rượu táo mèo is only named. Strength is Check on arrival.",
+          "dishSlug": "corn-wine"
+        },
+        {
+          "name": "Grilled stone moss",
+          "nameVi": "",
+          "note": "Named in the opening list of Hà Giang dishes. A method is Check on arrival.",
+          "dishSlug": "grilled-stone-moss"
+        },
+        {
+          "name": "Hunchback chung cake",
+          "nameVi": "Bánh chưng gù",
+          "note": "A Red Dao cake. Vietnam Tourism: upland sticky rice, small green beans, black pork, galangal leaves, boiled 8–10 hours on a wood stove. Dân Việt: palm-sized, shaped like a woman with a basket, sticky rice, mung beans, and fatty meat, one layer of dong leaves, soft and chewy. Both lists stay.",
+          "dishSlug": "banh-chung-gu"
+        },
+        {
+          "name": "Sausages",
+          "nameVi": "",
+          "note": "Named in the opening list and not described. A smoke time is Check on arrival. Lạp xưởng gác bếp is a separate sausage.",
+          "dishSlug": "ha-giang-sausages"
+        },
+        {
+          "name": "Lap xuong gac bep",
+          "nameVi": "Lạp xưởng gác bếp",
+          "note": "A Đồng Văn sausage of thịt lợn mán, a casing of lòng non, seasoned with mắc mật, mắc khén, white rice wine, and ground ginger, then hung over the fire until it takes on smoke. Dân Việt says smoky, fatty, and fragrant. Eat it, or carry it home. The smoke time is Check on arrival.",
+          "dishSlug": "lap-xuong-gac-bep"
+        },
+        {
+          "name": "Thang co",
+          "nameVi": "Thắng cố",
+          "note": "Three pots stay. Vietnam Tourism: traditionally horse; for visitors the meat is now buffalo, cow, or pork; broth of bones and organs with 12 spices, including star anise, cardamom, and lemon leaves; meat lightly fried, then simmered; eaten with mèn mén, grilled corn cakes, and corn wine. Vietnam Plus: horse, buffalo, beef, and pork, originally horse, now mostly beef, buffalo, or pork because horse is rare and expensive; heart, liver, lung, blood, intestine, meat, and bone simmered with 12 forest herbs including thảo quả, quế, and hồi; eaten from the pot in cold weather, on feast days and market days. A caption places a stall at chợ phiên Mèo Vạc. Dân Việt: horse or beef offal, cooked properly, without spices, to keep the fragrance, eaten with green vegetables.",
+          "dishSlug": "thang-co"
+        },
+        {
+          "name": "Men men",
+          "nameVi": "Mèn mén",
+          "note": "Steamed cornmeal of the Mong. Dried mature corn, stone-milled, sieved, mixed with water, and steamed twice. Chew slowly. Vietnam Plus calls the taste bùi, ngọt, and đậm. Vietnam Tourism names it as the partner of thắng cố.",
+          "dishSlug": "men-men"
+        },
+        {
+          "name": "Grilled corn cakes",
+          "nameVi": "",
+          "note": "Eaten with thắng cố and corn wine. A method is Check on arrival.",
+          "dishSlug": "grilled-corn-cakes"
+        },
+        {
+          "name": "Au tau porridge",
+          "nameVi": "Cháo ấu tẩu",
+          "note": "Three pots stay. Vietnam Tourism: the Mong soak the tuber in rice water, simmer about 4–5 hours, puree, cook with bone broth and yellow-flower sticky rice mixed with a little ordinary sticky rice; eat with minced lean meat, salt, pepper, and scallions; fatty, with a little bitterness; used for colds and aches. Vietnam Plus: soak the peeled tuber in rice water overnight, simmer until soft, cook with good ordinary rice and pounded sticky rice and a stewed pork hock; a large pot uses only a few tubers; bitter like tam thất, then sweet; egg, scallion, and perilla at the table; a cold remedy that became a specialty. Dân Việt: after the toxin is removed, stew with fragrant upland sticky rice and minced meat or pork hock; slightly bitter, then a sweet finish; scallion, coriander, and pepper. Eat it hot. Cold days on the food page. Cool weather on Dân Việt.",
+          "dishSlug": "chao-au-tau"
+        },
+        {
+          "name": "Dong Van steamed rice rolls",
+          "nameVi": "Bánh cuốn",
+          "note": "Steamed rice rolls at breakfast on Phố Cổ. The adventures page: pork, wood-ear mushroom, and egg, with hot broth, chives, and chả. Dân Việt: a Tay breakfast, thin rolls, minced pork and wood ear, hot broth stewed from bone, served in a bowl rather than with a cold sweet-sour dip, and the egg is not named. Both stay.",
+          "dishSlug": "banh-cuon"
+        },
+        {
+          "name": "Dong Van egg steamed rice rolls",
+          "nameVi": "",
+          "note": "Named as a separate dish from the steamed rice rolls. A filling is Check on arrival. The loop page’s steamed egg rolls are a separate name. Both stay.",
+          "dishSlug": "banh-cuon-trung-dong-van"
+        },
+        {
+          "name": "Bac Me bamboo-tube rice",
+          "nameVi": "",
+          "note": "Bac Me bamboo-tube rice on the food page, and Bac Me sticky rice on the loop page. The food page and the loop page do not call these one dish. Both names stay. A method is Check on arrival.",
+          "dishSlug": "bac-me-rice"
+        },
+        {
+          "name": "Dried buffalo meat",
+          "nameVi": "Thịt trâu gác bếp",
+          "note": "Dân Việt: smoked buffalo of the Thái đen, numbing and hot from mắc khén, sweet from the meat, with kitchen smoke, served to guests and bought to carry. Vietnam Tourism names dried buffalo meat and does not describe it. The loop page says buffalo meat and does not say dried. All three stay. The price is Check on arrival.",
+          "dishSlug": "thit-trau-gac-bep"
+        },
+        {
+          "name": "Sour pho",
+          "nameVi": "",
+          "note": "Named in the closing list. Not the breakfast phở and not phở Tráng Kìm. A method is Check on arrival.",
+          "dishSlug": "pho-chua"
+        },
+        {
+          "name": "Corn pho",
+          "nameVi": "",
+          "note": "Named in the same closing list. Not buckwheat pho. A method is Check on arrival.",
+          "dishSlug": "pho-ngo"
+        },
+        {
+          "name": "Pho Trang Kim",
+          "nameVi": "Phở Tráng Kìm",
+          "note": "A Đồng Văn bowl. Thick, chewy noodles, a light sweet broth, and firm chicken, made in a manual way. Not the breakfast phở.",
+          "dishSlug": "pho-trang-kim"
+        },
+        {
+          "name": "Thang den",
+          "nameVi": "Thắng dền",
+          "note": "The loop page: like Hà Nội floating cake or Lạng Sơn cong cake, sticky-rice flour and crushed mung beans, spheres boiled in water, with coconut milk and a ginger drink. Vietnam Tourism calls them stuffed sticky rice balls. Dân Việt: round balls, sweet, hot, and slightly fatty, like chè trôi nước, and not thắng cố. Dân Việt does not name the coconut sauce. Both descriptions stay.",
+          "dishSlug": "thang-den"
+        },
+        {
+          "name": "Thit treo",
+          "nameVi": "Thịt treo",
+          "note": "Named on the Vietnam Plus highland list. A cut and a smoke are Check on arrival.",
+          "dishSlug": "thit-treo"
+        },
+        {
+          "name": "Lon cap nach",
+          "nameVi": "Lợn cắp nách",
+          "note": "A small free-range pig, about 4 to 10 kg, carried under the arm, fed on corn, sweet potato, cassava, roots, and forest greens. Cooked whole as quay, or grilled, steamed, or stir-fried. Favored pieces are lòng dồi and belly still on the rib, steamed, with salt pounded with green chili and mắc khén. Some places grill it in a bamboo tube. Skin crisp, little fat, lean meat that is firm. Sometimes with rượu ngô or rượu táo mèo.",
+          "dishSlug": "lon-cap-nach"
+        },
+        {
+          "name": "Shan tuyet tea",
+          "nameVi": "Chè Shan tuyết cổ thụ",
+          "note": "Named on the Vietnam Plus highland list. A brew is Check on arrival.",
+          "dishSlug": "che-shan-tuyet"
+        },
+        {
+          "name": "Mint honey",
+          "nameVi": "",
+          "note": "Named on the loop page. A taste note, a flower month, and a jar size are Check on arrival.",
+          "dishSlug": "mint-honey"
+        },
+        {
+          "name": "Black chicken hotpot",
+          "nameVi": "Lẩu gà đen",
+          "note": "Black chicken, white radish, mushroom, and fresh greens including cải mèo, peas, and forest vegetables. Dân Việt says the bird is rare, free-range, firm, fragrant, and naturally sweet.",
+          "dishSlug": "lau-ga-den"
+        },
+        {
+          "name": "Stone cake",
+          "nameVi": "Bánh đá",
+          "note": "Also bánh Lơ khoải. Rice, corn, and sticky rice, yellow or purple, of the Dao and the Nùng. Left in the stream for months until moss grows, then scraped and cut in finger-wide strips. Three ways stay: in place of noodles, as a cool bite, or boiled soft with palm sugar and roasted peanuts. It appears at Dao áo dài festivals and Tết. A 2026 civil date is Check on arrival.",
+          "dishSlug": "banh-da"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "heading": "Markets and stalls",
+      "nav": "Markets",
+      "role": "casual",
+      "paragraphs": [
+        "Sunday is the market in Đồng Văn and Mèo Vạc. The hour is Check on arrival. Vietnam Tourism says to ask your host. Phố Cáo meets once a week. The weekday is Check on arrival. Tam Sơn is lunch on the first day. Bắc Mê is the stall stop on the way down."
+      ],
+      "spots": [
+        {
+          "name": "Dong Van market",
+          "nameVi": "Chợ Đồng Văn",
+          "note": "The old-quarter market, at night or early morning on the four-day page. Sunday on the culture page. The hour is Check on arrival."
+        },
+        {
+          "name": "Meo Vac market",
+          "nameVi": "Chợ Mèo Vạc",
+          "note": "Sunday market. Vietnam Plus places a thắng cố stall at chợ phiên Mèo Vạc. The hour is Check on arrival."
+        },
+        {
+          "name": "Pho Cao market",
+          "nameVi": "Chợ Phố Cáo",
+          "note": "Once a week: household goods, clothes, and spices, Flower Hmong skirts and Black Hmong tunics. The weekday is Check on arrival. Ask your host. Phố Cáo sits inside xã Phố Bảng."
+        },
+        {
+          "name": "Tam Son stalls",
+          "nameVi": "Tam Sơn",
+          "note": "Lunch on the first day. Road stalls and restaurants serve northern fare, and coffee is easy to find. Now in xã Quản Bạ. Meal prices are Check on arrival."
+        },
+        {
+          "name": "Bac Me stalls",
+          "nameVi": "Bắc Mê",
+          "note": "Local food stalls on the last morning, on QL34 along the Gâm. Meal prices are Check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "heading": "Breakfast",
+      "nav": "Breakfast",
+      "role": "breakfast",
+      "paragraphs": [
+        "In town, the morning of the second day is phở, before the ride toward Đồng Văn. In Đồng Văn, breakfast is bánh cuốn on Phố Cổ."
+      ],
+      "dishSlugs": [
+        "pho"
+      ],
+      "spots": [
+        {
+          "name": "Pho Co",
+          "nameVi": "Phố Cổ, Đồng Văn",
+          "note": "Bánh cuốn in the morning: pork, wood-ear mushroom, and egg on the adventures page, with hot broth, chives, and chả. Dân Việt does not name the egg and serves the rolls in hot bone broth rather than with a cold sweet-sour dip. Both stay."
+        }
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Ha Giang food — thang co, au tau, and breakfast pho",
+  "seoDescription": "What to eat on the Ha Giang Loop: thang co three ways, chao au tau three ways, buckwheat, Sunday markets, and pho before the ride to Dong Van."
+}

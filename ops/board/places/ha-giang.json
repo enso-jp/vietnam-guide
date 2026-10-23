@@ -19,39 +19,39 @@
   },
   "stages": {
     "destination": {
-      "status": "shell",
-      "note": "A place file exists. It has not been set up from a stored dossier.",
-      "updated": null,
+      "status": "paged",
+      "note": "Place from the stored dossier. Corridor northern-midlands. Lat and lng left unset. Hero stays the twin hills.",
+      "updated": "2026-10-23T07:06:07.865Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:27:31.305Z",
+      "status": "enriched",
+      "note": "Both Hanoi durations, both palace distances, and the season windows stay in the prose.",
+      "updated": "2026-10-23T07:06:07.932Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:27:31.305Z",
+      "status": "checked",
+      "note": "Hero is the Quan Ba twin hills. Dots 5. Lat and lng unset. No invented fee.",
+      "updated": "2026-10-23T07:06:07.997Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "32 sourced specialties plus pho at breakfast. Five markets and Pho Co. Not padded.",
+      "updated": "2026-10-23T07:08:24.081Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:27:31.305Z",
+      "status": "enriched",
+      "note": "Shared dishes are append-only. Thang co, au tau, and the Dong Van banh cuon keep every version.",
+      "updated": "2026-10-23T07:08:24.149Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:27:31.305Z",
+      "status": "checked",
+      "note": "32 specialties. Pho is breakfast, not a highland card. No invented dish and no gap line on the page.",
+      "updated": "2026-10-23T07:08:24.216Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -101,11 +101,11 @@
       "file": "src/content/attractions/ha-giang--dong-van.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in research/ha-giang. No town pin. Fees that were not fixed stay Check on arrival.",
-      "updated": "2026-10-23T06:27:31.305Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "One licensed frame of the subject. No second frame, so no body. Dots left as they were.",
+      "updated": "2026-10-23T07:08:24.415Z",
       "reworkCount": 0
     },
     {
@@ -117,11 +117,11 @@
       "file": "src/content/attractions/ha-giang--ma-pi-leng.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in research/ha-giang. No town pin. Fees that were not fixed stay Check on arrival.",
-      "updated": "2026-10-23T06:27:31.305Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "One licensed frame of the subject. No second frame, so no body. Dots left as they were.",
+      "updated": "2026-10-23T07:08:24.615Z",
       "reworkCount": 0
     },
     {
@@ -181,11 +181,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in research/ha-giang. No town pin. Fees that were not fixed stay Check on arrival.",
-      "updated": "2026-10-23T06:27:31.305Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact.",
+      "updated": "2026-10-23T07:08:24.809Z",
       "reworkCount": 0
     },
     {
@@ -197,11 +197,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in research/ha-giang. No town pin. Fees that were not fixed stay Check on arrival.",
-      "updated": "2026-10-23T06:27:31.305Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact.",
+      "updated": "2026-10-23T07:08:25.007Z",
       "reworkCount": 0
     },
     {
@@ -229,11 +229,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in research/ha-giang. No town pin. Fees that were not fixed stay Check on arrival.",
-      "updated": "2026-10-23T06:27:31.305Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact.",
+      "updated": "2026-10-23T07:08:25.206Z",
       "reworkCount": 0
     },
     {
@@ -261,11 +261,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in research/ha-giang. No town pin. Fees that were not fixed stay Check on arrival.",
-      "updated": "2026-10-23T06:27:31.305Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact.",
+      "updated": "2026-10-23T07:08:25.398Z",
       "reworkCount": 0
     },
     {
@@ -277,11 +277,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in research/ha-giang. No town pin. Fees that were not fixed stay Check on arrival.",
-      "updated": "2026-10-23T06:27:31.305Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact.",
+      "updated": "2026-10-23T07:08:25.594Z",
       "reworkCount": 0
     },
     {
@@ -309,11 +309,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in research/ha-giang. No town pin. Fees that were not fixed stay Check on arrival.",
-      "updated": "2026-10-23T06:27:31.305Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact.",
+      "updated": "2026-10-23T07:08:25.792Z",
       "reworkCount": 0
     },
     {
@@ -341,11 +341,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in research/ha-giang. No town pin. Fees that were not fixed stay Check on arrival.",
-      "updated": "2026-10-23T06:27:31.305Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact.",
+      "updated": "2026-10-23T07:08:25.985Z",
       "reworkCount": 0
     },
     {
@@ -357,11 +357,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in research/ha-giang. No town pin. Fees that were not fixed stay Check on arrival.",
-      "updated": "2026-10-23T06:27:31.305Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact.",
+      "updated": "2026-10-23T07:08:26.178Z",
       "reworkCount": 0
     },
     {
@@ -373,11 +373,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in research/ha-giang. No town pin. Fees that were not fixed stay Check on arrival.",
-      "updated": "2026-10-23T06:27:31.305Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact.",
+      "updated": "2026-10-23T07:08:26.370Z",
       "reworkCount": 0
     },
     {
@@ -389,11 +389,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced in research/ha-giang. No town pin. Fees that were not fixed stay Check on arrival.",
-      "updated": "2026-10-23T06:27:31.305Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact.",
+      "updated": "2026-10-23T07:08:26.566Z",
       "reworkCount": 0
     },
     {
@@ -1201,100 +1201,164 @@
   "claim": null,
   "log": [
     {
-      "at": "2026-10-23T06:27:31.305Z",
+      "at": "2026-10-23T07:08:26.567Z",
       "place": "ha-giang",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: the Khau Vai lunar day, 2026 festival civil dates, and Sapa, Cao Bang, and Ba Be hop times."
+      "stage": "quality",
+      "item": "ha-giang--lung-tam",
+      "status": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact."
     },
     {
-      "at": "2026-10-23T06:27:20.952Z",
+      "at": "2026-10-23T07:08:26.502Z",
       "place": "ha-giang",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: the clock when the town goes quiet, and a license class for riding."
+      "stage": "copy",
+      "item": "ha-giang--lung-tam",
+      "status": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact."
     },
     {
-      "at": "2026-10-23T06:27:20.697Z",
+      "at": "2026-10-23T07:08:26.435Z",
       "place": "ha-giang",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a bar street, a closing hour, and a night-market clock."
+      "stage": "page",
+      "item": "ha-giang--lung-tam",
+      "status": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact."
     },
     {
-      "at": "2026-10-23T06:27:12.848Z",
+      "at": "2026-10-23T07:08:26.370Z",
       "place": "ha-giang",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a chosen au tau recipe, a chosen thang co pot, methods for dishes that were only named, market hours, and stall prices. 32 specialties plus pho. Not padded to 40."
+      "stage": "quality",
+      "item": "ha-giang--hoang-su-phi",
+      "status": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact."
     },
     {
-      "at": "2026-10-23T06:27:02.556Z",
+      "at": "2026-10-23T07:08:26.306Z",
       "place": "ha-giang",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a town pin, a licensed frame of the town against the karst, Lung Cu and boat and sky-path fees, and a fixed palace tariff."
+      "stage": "copy",
+      "item": "ha-giang--hoang-su-phi",
+      "status": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact."
     },
     {
-      "at": "2026-10-23T06:27:01.669Z",
+      "at": "2026-10-23T07:08:26.242Z",
       "place": "ha-giang",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: a town pin, a chosen Hanoi duration, the bus fare, a rail station, the border-permit fee, and the 2026 border-commune list."
+      "stage": "page",
+      "item": "ha-giang--hoang-su-phi",
+      "status": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact."
     },
     {
-      "at": "2026-10-23T06:26:24.010Z",
+      "at": "2026-10-23T07:08:26.178Z",
       "place": "ha-giang",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Khau Vai, buckwheat festival, Sunday markets, and the Mau Due fish title are in. Side trips are Hanoi, Sapa, Cao Bang, and Ba Be. Still open: Khau Vai lunar day not adopted, side-trip durations except Hanoi, 2026 festival days."
+      "stage": "quality",
+      "item": "ha-giang--du-gia-waterfall",
+      "status": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact."
     },
     {
-      "at": "2026-10-23T06:26:23.741Z",
+      "at": "2026-10-23T07:08:26.112Z",
       "place": "ha-giang",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "The riding day, breakfast, pass coffee, and the Thon Tha meal are in. Still open: the hour the town goes quiet has no clock."
+      "stage": "copy",
+      "item": "ha-giang--du-gia-waterfall",
+      "status": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact."
     },
     {
-      "at": "2026-10-23T06:26:23.515Z",
+      "at": "2026-10-23T07:08:26.050Z",
       "place": "ha-giang",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Dong Van market evening and the town arrival night are in. Still open: no bar street, and no closing hour."
+      "stage": "page",
+      "item": "ha-giang--du-gia-waterfall",
+      "status": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact."
     },
     {
-      "at": "2026-10-23T06:26:13.287Z",
+      "at": "2026-10-23T07:08:25.985Z",
       "place": "ha-giang",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "32 sourced specialties plus pho. Not padded to 40. Still open: methods for dishes that were only named, au tau and thang co disagree, market hours Check on arrival."
+      "stage": "quality",
+      "item": "ha-giang--meo-vac",
+      "status": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact."
     },
     {
-      "at": "2026-10-23T06:25:55.250Z",
+      "at": "2026-10-23T07:08:25.921Z",
       "place": "ha-giang",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Sights and areas for the loop are in. Still open: Lung Cu fee, boat fee, sky-path fee, and a licensed town-against-karst frame. Palace fee is about 20,000 dong and not a fixed tariff. No town pin."
+      "stage": "copy",
+      "item": "ha-giang--meo-vac",
+      "status": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact."
     },
     {
-      "at": "2026-10-23T06:25:31.659Z",
+      "at": "2026-10-23T07:08:25.858Z",
       "place": "ha-giang",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and getting there are in. Still open: no town pin adopted; bus fare and rail unsourced; border-permit fee not adopted; Hanoi duration disagrees at about six hours and about six to seven hours."
+      "stage": "page",
+      "item": "ha-giang--meo-vac",
+      "status": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact."
+    },
+    {
+      "at": "2026-10-23T07:08:25.792Z",
+      "place": "ha-giang",
+      "stage": "quality",
+      "item": "ha-giang--nho-que",
+      "status": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact."
+    },
+    {
+      "at": "2026-10-23T07:08:25.724Z",
+      "place": "ha-giang",
+      "stage": "copy",
+      "item": "ha-giang--nho-que",
+      "status": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact."
+    },
+    {
+      "at": "2026-10-23T07:08:25.658Z",
+      "place": "ha-giang",
+      "stage": "page",
+      "item": "ha-giang--nho-que",
+      "status": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact."
+    },
+    {
+      "at": "2026-10-23T07:08:25.595Z",
+      "place": "ha-giang",
+      "stage": "quality",
+      "item": "ha-giang--lung-cu",
+      "status": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact."
+    },
+    {
+      "at": "2026-10-23T07:08:25.530Z",
+      "place": "ha-giang",
+      "stage": "copy",
+      "item": "ha-giang--lung-cu",
+      "status": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact."
+    },
+    {
+      "at": "2026-10-23T07:08:25.464Z",
+      "place": "ha-giang",
+      "stage": "page",
+      "item": "ha-giang--lung-cu",
+      "status": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact."
+    },
+    {
+      "at": "2026-10-23T07:08:25.398Z",
+      "place": "ha-giang",
+      "stage": "quality",
+      "item": "ha-giang--vuong-palace",
+      "status": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact."
+    },
+    {
+      "at": "2026-10-23T07:08:25.335Z",
+      "place": "ha-giang",
+      "stage": "copy",
+      "item": "ha-giang--vuong-palace",
+      "status": "skipped",
+      "note": "No separate licensed photo of this subject. The place and the pass pages carry the fact."
     }
   ]
 }

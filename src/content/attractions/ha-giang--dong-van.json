@@ -2,10 +2,45 @@
   "slug": "dong-van",
   "placeSlug": "ha-giang",
   "name": "Dong Van",
-  "summary": "A stone town that makes a sensible overnight. The old quarter is small.",
+  "nameVi": "Đồng Văn",
+  "kicker": "Stone town on the loop",
+  "summary": "Stay in Đồng Văn when you want the stone town, not a second hour on the pass. UNESCO counts about 40 houses from 1890, with the market and the houses together. Walk the old quarter and use the market at night or early morning. Sunday is the market day. Arrive before sunset.",
   "dots": 3,
+  "district": "Dong Van",
   "timeNeeded": "Overnight",
-  "fee": "Free to walk",
-  "getThere": "On the loop",
-  "interests": []
+  "fee": "Check on arrival",
+  "getThere": "On QL4C through Sà Phìn, before the pass",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The square in Đồng Văn, tiled roofs against the karst cliff",
+  "gettingThere": [
+    "Đồng Văn is the stone town on the loop. Xã Đồng Văn joins thị trấn Đồng Văn and the communes named with it in 2025. Older pages still say the town. UNESCO describes about 40 preserved houses dating to 1890, a market and houses together. The walk is the old quarter, not a museum day. How long you stay on the street is Check on arrival.",
+    "The road from the town is QL4C through Sà Phìn. The Hmong palace sits on that stretch. The loop page puts the palace about 14 km from Đồng Văn town. The Tân Mỹ commune article says about 15 km from the center of xã Đồng Văn. Both distances stay. Arrive before sunset. Sunday is the market day in Đồng Văn and Mèo Vạc. The market hour is Check on arrival.",
+    "Đồn Cao is a 20-minute hike from the town for the view. Go in daylight. The fee is Check on arrival. Mèo Vạc is 24 km farther, over Mã Pì Lèng, and takes most of a morning if you stop. Do not budget the pass and the old quarter as the same hour."
+  ],
+  "legs": [
+    {
+      "heading": "From Ha Giang town",
+      "body": "QL4C through Yên Minh and Sà Phìn. The four-day page uses Sà Phìn for food and fuel, then stays in Đồng Văn. Ride in daylight."
+    },
+    {
+      "heading": "From the palace",
+      "body": "About 14 km to Đồng Văn town on the loop page, and about 15 km from the center of xã Đồng Văn on the Tân Mỹ commune article. Both stay."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "admissionNote": "Walking the streets has no ticket on the UNESCO page. The fee is Check on arrival. Sunday is the market day. The hour is Check on arrival.",
+  "links": [
+    {
+      "label": "Dong Van Karst Plateau UNESCO Global Geopark",
+      "url": "https://www.unesco.org/en/iggp/dong-van-karst-plateau-unesco-global-geopark",
+      "note": "UNESCO. The old quarter, about 40 houses from 1890."
+    },
+    {
+      "label": "Ha Giang loop, four-day road",
+      "url": "https://www.vietnam.travel/things-to-do/ha-giang-loop-four-day-road-trip",
+      "note": "Vietnam Tourism. The night in Đồng Văn."
+    }
+  ],
+  "interests": ["markets", "mountains"]
 }
