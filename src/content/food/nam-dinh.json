@@ -1,0 +1,257 @@
+{
+  "slug": "nam-dinh",
+  "name": "Nam Dinh food guide",
+  "placeSlug": "nam-dinh",
+  "summary": "Phở bò is the morning bowl, a small soft noodle, with bánh cuốn làng Kênh beside it. Dân trí’s shop on phố Hàng Tiện closes at 09:00. Dân Việt says a bowl can be found at any hour. Both stay. A price is Check on arrival.",
+  "body": [
+    "Start around Chợ Rồng. The noodle is small, thin, and soft. Dân Việt on 5 September 2025 keeps the broth clear with traditional fish sauce. Dân trí describes pork and beef bones, áp chảo, and sốt vang. Báo Nam Định on 9 December 2022 adds sá sùng and crisp quẩy, and says Hanoi’s quẩy is soft. The second morning is bánh cuốn làng Kênh in phường Lộc Vượng, off a banana leaf.",
+    "Afternoon is bánh xíu páo. Dân Việt fills it with xá xíu, fat, wood-ear, and half a quail egg, and walks Lê Hồng Phong, Trần Hưng Đạo, Hàng Sắt, Bắc Ninh, and Lý Thường Kiệt. VnExpress fills it with fried pork loin and calls it a morning snack on the old phố Khách, now Hoàng Văn Thụ and Lê Hồng Phong. Both fillings and both clocks stay. Bún đũa, thick and white in a crab riêu, sits at chợ Ngõ Ngang, chợ Rồng, or phố Hàng Đồng. A meal time for it was not printed. Check on arrival.",
+    "Carry kẹo Sìu Châu, bánh nhãn Hải Hậu, bánh gai, and gạo tám. Nem nắm and the spelling nem mắm both stay for Giao Thủy. Chuối ngự is on the city gift list with no village, and chuối Ngự Đại Hoàng is in Lý Nhân, printed once as Hải Nam and once as Hà Nam. Nước mắm chắt is the taste at Giao Hải. Nước mắm Sa Châu is a different gift. Xôi kê, bánh dày, gạo tám Xuân Đài, and cá chạch kho are names with a place and no method."
+  ],
+  "specialtiesLead": "Phở bò and bánh cuốn làng Kênh come first. The other names follow, with the street when a publisher printed one.",
+  "dishSlugs": [
+    "nam-dinh--pho-bo",
+    "nam-dinh--banh-cuon-lang-kenh",
+    "nam-dinh--bun-dua",
+    "nam-dinh--banh-xiu-pao",
+    "nam-dinh--xoi-xiu",
+    "nam-dinh--xoi-ca-ro",
+    "nam-dinh--xoi-ke",
+    "nam-dinh--bun-cha",
+    "nam-dinh--bun-sung",
+    "nam-dinh--banh-goi",
+    "nam-dinh--nem-nam",
+    "nam-dinh--goi-nhech",
+    "nam-dinh--ca-chach-kho",
+    "nam-dinh--ca-nuong-up-chau",
+    "nam-dinh--banh-nhan",
+    "nam-dinh--banh-gai",
+    "nam-dinh--banh-day",
+    "nam-dinh--keo-siu-chau",
+    "nam-dinh--chuoi-ngu",
+    "nam-dinh--gao-tam",
+    "nam-dinh--gao-tam-xuan-dai",
+    "nam-dinh--nuoc-mam-chat",
+    "nam-dinh--nuoc-mam-sa-chau"
+  ],
+  "sections": [
+    {
+      "id": "specialties",
+      "heading": "Nam Dinh specialties",
+      "nav": "Specialties",
+      "paragraphs": [
+        "These are the specialties the publishers name. Where two accounts disagree, both stay. A price that was not printed is Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Pho bo",
+          "nameVi": "Phở bò",
+          "address": "Phố Hàng Tiện, around Chợ Rồng",
+          "note": "A small, thin, soft noodle. Dân Việt keeps the broth clear with traditional fish sauce. Dân trí describes pork and beef bones, and one shop on Hàng Tiện that closes at 09:00. Dân Việt says any hour. Báo Nam Định serves crisp quẩy and says Hanoi’s is soft. A price is Check on arrival.",
+          "dishSlug": "nam-dinh--pho-bo"
+        },
+        {
+          "name": "Banh cuon lang Kenh",
+          "nameVi": "Bánh cuốn làng Kênh",
+          "address": "Phường Lộc Vượng",
+          "note": "The other morning. Thin rice sheets, wood-ear, fried shallot, a slice of chả, and a fish-sauce dip, often off a banana leaf. A price is Check on arrival.",
+          "dishSlug": "nam-dinh--banh-cuon-lang-kenh"
+        },
+        {
+          "name": "Bun dua",
+          "nameVi": "Bún đũa",
+          "address": "Chợ Ngõ Ngang, chợ Rồng, or phố Hàng Đồng",
+          "note": "Chopstick-thick white noodles in a crab riêu that is a little sour, with fried shallot and crab roe. A meal time and a price are Check on arrival.",
+          "dishSlug": "nam-dinh--bun-dua"
+        },
+        {
+          "name": "Banh xiu pao",
+          "nameVi": "Bánh xíu páo",
+          "address": "Lê Hồng Phong, Trần Hưng Đạo, Hàng Sắt, Bắc Ninh, Lý Thường Kiệt, and the old phố Khách",
+          "note": "A small baked bun. Dân Việt fills it with xá xíu, fat, wood-ear, and half a quail egg, in the afternoon. VnExpress fills it with fried pork loin and calls it a morning snack. Both stay. A price is Check on arrival.",
+          "dishSlug": "nam-dinh--banh-xiu-pao"
+        },
+        {
+          "name": "Xoi xiu",
+          "nameVi": "Xôi xíu",
+          "address": "Phố Bắc Ninh, Hoàng Văn Thụ, and Hàng Sắt",
+          "note": "Sticky rice with xá xíu, lạp xưởng, and sauce. Bắc Ninh is Dân Việt’s street. Hoàng Văn Thụ and Hàng Sắt are VnExpress. A clock and a price are Check on arrival.",
+          "dishSlug": "nam-dinh--xoi-xiu"
+        },
+        {
+          "name": "Xoi ca ro",
+          "nameVi": "Xôi cá rô",
+          "address": "Check on arrival",
+          "note": "Sticky rice with fried đồng snakehead, eaten hot. Thế giới tiếp thị names cold weather and no street. A price is Check on arrival.",
+          "dishSlug": "nam-dinh--xoi-ca-ro"
+        },
+        {
+          "name": "Xoi ke",
+          "nameVi": "Xôi kê",
+          "address": "Check on arrival",
+          "note": "Named on Báo Nam Định’s SEA Games 31 showcase list. A method was not printed. Check on arrival.",
+          "dishSlug": "nam-dinh--xoi-ke"
+        },
+        {
+          "name": "Bun cha",
+          "nameVi": "Bún chả",
+          "address": "Check on arrival",
+          "note": "Pork belly, egg, thin leaf noodles, and nước mắm dưa góp. The lean meat is skewered and charred. A street and a price are Check on arrival.",
+          "dishSlug": "nam-dinh--bun-cha"
+        },
+        {
+          "name": "Bun sung",
+          "nameVi": "Bún sung",
+          "address": "Chợ Diên Hồng and chợ Ngõ Ngang",
+          "note": "Crab riêu with sliced sung and pork crackling. Tuổi Trẻ on 24 November 2021 prints 10,000 đồng and hơn 10,000 đồng, and one stall from 06:00 to 20:00. A 2026 price is Check on arrival.",
+          "dishSlug": "nam-dinh--bun-sung"
+        },
+        {
+          "name": "Banh goi",
+          "nameVi": "Bánh gối",
+          "address": "Nguyễn Văn Trỗi and Hoàng Văn Thụ",
+          "note": "A fried cake with rice paper brushed in wheat flour, pork, wood-ear, quail egg, and glass noodles. Thế giới tiếp thị says it is not the Hanoi cake. A price is Check on arrival.",
+          "dishSlug": "nam-dinh--banh-goi"
+        },
+        {
+          "name": "Nem nam",
+          "nameVi": "Nem nắm Giao Thủy",
+          "address": "Giao Thủy, and Hải Hậu on the Nam Định city portal",
+          "note": "Fermented pork. Nem nắm and nem mắm both stay. Loosen the ball into lá sung, or lá sung and đinh lăng, or dip it in fish sauce. A price is Check on arrival.",
+          "dishSlug": "nam-dinh--nem-nam"
+        },
+        {
+          "name": "Goi nhech",
+          "nameVi": "Gỏi nhệch",
+          "address": "Quần Vinh, Nghĩa Thắng, Nghĩa Hưng",
+          "note": "Eel-goby salad with Tám-rice thính and mẻ. The coast list also names Hải Hậu and Giao Thủy. A price is Check on arrival.",
+          "dishSlug": "nam-dinh--goi-nhech"
+        },
+        {
+          "name": "Ca chach kho",
+          "nameVi": "Cá chạch kho",
+          "address": "Nghĩa Hưng, and the coast list with Hải Hậu and Giao Thủy",
+          "note": "Named as cá chạch kho niêu and as cá chạch kho Nghĩa Hưng. A method beyond the name was not printed. Check on arrival.",
+          "dishSlug": "nam-dinh--ca-chach-kho"
+        },
+        {
+          "name": "Ca nuong up chau",
+          "nameVi": "Cá nướng úp chậu",
+          "address": "A Nam Định home, and Trực Ninh on the OCOP list",
+          "note": "Fish cooked under an upturned basin in the first days of the lunar year. The OCOP line places it at Trực Ninh. A price is Check on arrival.",
+          "dishSlug": "nam-dinh--ca-nuong-up-chau"
+        },
+        {
+          "name": "Banh nhan",
+          "nameVi": "Bánh nhãn Hải Hậu",
+          "address": "Hải Hậu",
+          "note": "A round sweet the color of a longan. Pork fat and cooking oil are both printed. A price is Check on arrival.",
+          "dishSlug": "nam-dinh--banh-nhan"
+        },
+        {
+          "name": "Banh gai",
+          "nameVi": "Bánh gai",
+          "address": "The city gift list",
+          "note": "Black glutinous cake. Thế giới tiếp thị fills it with mung bean, coconut, fat, lotus seed, and peanut. A village and a price are Check on arrival.",
+          "dishSlug": "nam-dinh--banh-gai"
+        },
+        {
+          "name": "Banh day",
+          "nameVi": "Bánh dày",
+          "address": "Check on arrival",
+          "note": "Named on Báo Nam Định’s SEA Games 31 showcase list. A method was not printed. Check on arrival.",
+          "dishSlug": "nam-dinh--banh-day"
+        },
+        {
+          "name": "Keo Siu Chau",
+          "nameVi": "Kẹo Sìu Châu",
+          "address": "The city",
+          "note": "Peanut and sesame candy. Dân trí says more peanut and less malt than ordinary kẹo lạc, eaten with hot tea at Tết. A price is Check on arrival.",
+          "dishSlug": "nam-dinh--keo-siu-chau"
+        },
+        {
+          "name": "Chuoi ngu",
+          "nameVi": "Chuối ngự",
+          "address": "The city gift list, and Đại Hoàng in Lý Nhân",
+          "note": "A small banana on the Nam Định gift list, with no village. Chuối Ngự Đại Hoàng is in Hòa Hậu and Tiến Thắng, printed once as Hải Nam and once as Hà Nam. Both stay. A price is Check on arrival.",
+          "dishSlug": "nam-dinh--chuoi-ngu"
+        },
+        {
+          "name": "Gao tam Hai Hau",
+          "nameVi": "Gạo tám Hải Hậu",
+          "address": "Hải Hậu",
+          "note": "Fragrant Tám xoan. The Nam Định city portal eats it with kho, or with peanuts and sesame. Dân Việt describes a slender, slightly bent, translucent grain. A price is Check on arrival.",
+          "dishSlug": "nam-dinh--gao-tam"
+        },
+        {
+          "name": "Gao tam Xuan Dai",
+          "nameVi": "Gạo tám Xuân Đài",
+          "address": "Check on arrival",
+          "note": "An OCOP name beside Hải Hậu Tám xoan, not the same line. A grain and a price were not printed. Check on arrival.",
+          "dishSlug": "nam-dinh--gao-tam-xuan-dai"
+        },
+        {
+          "name": "Nuoc mam chat",
+          "nameVi": "Nước mắm chắt",
+          "address": "Giao Hải",
+          "note": "Fish sauce on the Xuân Thủy coastal day, made from the local catch. A grade is Check on arrival. It is not nước mắm Sa Châu.",
+          "dishSlug": "nam-dinh--nuoc-mam-chat"
+        },
+        {
+          "name": "Nuoc mam Sa Chau",
+          "nameVi": "Nước mắm Sa Châu",
+          "address": "Check on arrival",
+          "note": "A Top 100 gift on Báo Nam Định. The 30 January 2023 article also prints nước nắm. A village and a grade were not printed. Check on arrival.",
+          "dishSlug": "nam-dinh--nuoc-mam-sa-chau"
+        }
+      ]
+    },
+    {
+      "id": "streets",
+      "heading": "Markets and streets",
+      "nav": "Streets",
+      "role": "casual",
+      "paragraphs": [
+        "The center walk is the old Hàng grid around Chợ Rồng. A market hour was not printed. Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Cho Rong",
+          "nameVi": "Chợ Rồng",
+          "address": "The center, beside the old Hàng streets",
+          "note": "Dân trí calls it one of three famous northern markets with Đồng Xuân and Chợ Sắt, and dates the French-built hall to 1922. Bún đũa is placed here. The pho morning is around it, on Hàng Tiện. A market hour was not printed. Check on arrival. The 09:00 figure is one shop, not the hall."
+        },
+        {
+          "name": "Hang Tien",
+          "nameVi": "Phố Hàng Tiện",
+          "address": "The old Hàng grid, by Chợ Rồng",
+          "note": "The pho morning. Dân trí says one shop closes at 09:00. Dân Việt on 5 September 2025 says a bowl can be found at any hour. Both stay. Whether the 09:00 close still holds is Check on arrival."
+        },
+        {
+          "name": "Afternoon bun streets",
+          "nameVi": "Phố bánh xíu páo",
+          "address": "Lê Hồng Phong, Trần Hưng Đạo, Hàng Sắt, Bắc Ninh, Lý Thường Kiệt",
+          "note": "Dân Việt’s afternoon walk for bánh xíu páo, with xôi xíu on Bắc Ninh. VnExpress also names Hoàng Văn Thụ and Lê Hồng Phong, the old phố Khách. A closing hour was not printed. Check on arrival."
+        },
+        {
+          "name": "Hang Dong and Ngo Ngang",
+          "nameVi": "Phố Hàng Đồng and chợ Ngõ Ngang",
+          "address": "The center",
+          "note": "VnExpress places bún đũa here and at Chợ Rồng. Dân Việt on 5 September 2025 also names bún sung at chợ Ngõ Ngang. A clock for the street was not printed. Check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "heading": "Breakfast",
+      "nav": "Breakfast",
+      "role": "breakfast",
+      "paragraphs": [
+        "Breakfast is phở bò around Chợ Rồng and phố Hàng Tiện, and bánh cuốn làng Kênh in phường Lộc Vượng. Bún sung is the other early bowl at chợ Diên Hồng on Tuổi Trẻ’s 24 November 2021 account, and at chợ Ngõ Ngang on Dân Việt’s 5 September 2025 list. One Diên Hồng stall that day ran from 06:00 to 20:00. Whether that clock still holds is Check on arrival."
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Nam Dinh food guide — pho, then the gifts",
+  "seoDescription": "Morning pho around Chợ Rồng, bánh cuốn in Lộc Vượng, and the Hải Hậu gifts. One shop closes at 09:00. Another account says any hour. A price is Check on arrival."
+}

@@ -170,3 +170,69 @@ Checked: 22 Oct 2026. A fact with a source id was opened, or the page text was r
 - Publisher: Vietnam.vn
 - Accessed: 22 Oct 2026
 - Supports: A second 32 m / 9-storey figure, beside S24’s 12 storeys. Bell height the page prints as about 4.2 m, beside S24’s 3.2 m. Main hall 29 m. The headline counts 35 monks and the body counts 27 on 27 Feb 1947. Both counts stay. The page also prints xã Cổ Lễ, tỉnh Ninh Bình, beside S24’s thị trấn Cổ Lễ, huyện Trực Ninh.
+
+### S29
+- URL: https://vnexpress.net/9-mon-ngon-vang-danh-dat-nam-dinh-3371843.html
+- Publisher: VnExpress Du lịch, 18 Mar 2016, credited to Ngoisao. The same feature on Dân trí is S30.
+- Accessed: 23 Oct 2026
+- Supports: Nine dishes: phở bò, bánh xíu páo, xôi xíu, nem nắm Giao Thủy, bún đũa, bánh nhãn, bánh cuốn làng Kênh, kẹo Sìu Châu, cá nướng úp chậu. Shop names in the pho paragraph stay under Notes. The tourism URL in S19 timed out again this day, so this open is the text used.
+
+### S30
+- URL: https://dantri.com.vn/du-lich/9-mon-ngon-vang-danh-dat-nam-dinh-20170304151122208.htm
+- Publisher: Dân trí, 4 Mar 2017
+- Accessed: 23 Oct 2026
+- Supports: Phở bò, bánh xíu páo, xôi xíu, nem nắm, bún đũa, bánh nhãn, kẹo Sìu Châu, cá nướng úp chậu. Bánh cuốn làng Kênh was not a heading in the text extracted. Do not copy S29’s bánh cuốn method onto this page.
+
+### S31
+- URL: https://thegioitiepthi.danviet.vn/mon-ngon-nam-dinh-20220912041734219-d15425.html
+- Publisher: Thế giới tiếp thị, Dân Việt, byline Thành Nam, 12 Sep 2022
+- Accessed: 23 Oct 2026
+- Supports: Phở noodle from gạo chiêm and a bone broth. Bánh xíu páo as morning or afternoon. Nem nắm with thính from gạo tám, lá sung and đinh lăng. Xôi xíu. Bánh nhãn with dầu ăn, which does not match the pork fat on S29 and S30. Bún chả. Xôi cá rô. Bánh gai filling. Bánh gối, contrasted with the Hanoi cake. Kẹo Sìu Châu. No shop door and no price.
+
+### S32
+- URL: https://danviet.vn/nhung-dac-san-tien-vua-nuc-tieng-cua-viet-nam-7777195877-d310900.html
+- Publisher: Dân Việt, 16 Apr 2014
+- Accessed: 23 Oct 2026
+- Supports: Chuối ngự as a Nam Định fruit, small, yellow, fragrant, lightly sweet. The name is the king’s grant. No village.
+
+### S33
+- URL: https://danviet.vn/sap-nhap-ninh-binh-nam-dinh-ha-nam-3-san-vat-noi-tieng-co-dac-san-tien-vua-nuc-tieng-ve-mot-tinh-d1324370.html
+- Publisher: Dân Việt, 15 Apr 2025
+- Accessed: 23 Oct 2026
+- Supports: Gạo Tám xoan Hải Hậu. Chuối Ngự Đại Hoàng at Hòa Hậu and Tiến Thắng, Lý Nhân. The same article prints tỉnh Hải Nam and tỉnh Hà Nam. Both wordings stay. This banana is not given the unnamed city-gift slot from S11 and S18. Goat stays with Ninh Bình.
+
+### S34
+- URL: https://tuoitre.vn/dulichtphcm/mon-bun-nha-ngheo-day-u-u-top-mo-gion-tan-kem-sung-chat-gia-chi-10-ngan-bat-10720295.htm
+- Publisher: Tuổi Trẻ, 24 Nov 2021
+- Accessed: 23 Oct 2026
+- Supports: Bún sung, also called bún tóp mỡ, at chợ Diên Hồng. Crab riêu, sliced sung, pork crackling. 10,000 đồng, and a quoted “hơn 10.000 đồng”. Add-ons 15,000–20,000 đồng. One stall 06:00–20:00. The stall name stays under Notes. A 2026 price was not on the page.
+
+### S35
+- URL: https://baoninhbinh.org.vn/phat-huy-gia-tri-tinh-hoa-van-hoa-am-thuc-de-phat-trien-du-lich-23013003510001.html
+- Publisher: Báo Nam Định điện tử, 30 Jan 2023. The live host is the Ninh Bình paper address.
+- Accessed: 23 Oct 2026
+- Supports: Coastal list: rượu, muối, nước mắm, nem nắm, cá chạch kho niêu, gỏi nhệch, for Hải Hậu, Nghĩa Hưng, and Giao Thủy. Nam Trực and Trực Ninh: bún, phở, bánh đa, miến dong. City gifts: bánh mỳ, bánh cuốn, bánh gai, bánh nhãn, kẹo Sìu Châu, bánh xíu páo, bún đũa. SEA Games 31 showcase: phở bò, bún đũa, xôi kê, bánh dày, bánh cuốn, bánh xíu páo. Top 100 dishes: nem nắm Giao Thuỷ and bánh cuốn làng Kênh. Top 100 gifts: nước mắm Sa Châu and gạo tám xoan Hải Hậu. A stall line prints nước nắm, which is not rewritten as nước mắm. Rượu, muối, bánh mỳ, bánh đa, and miến dong have no method and stay off the dish list.
+
+### S36
+- URL: https://baoninhbinh.org.vn/bao-ton-phat-huy-cac-gia-tri-di-san-van-hoa-22112508450001.html
+- Publisher: Báo Nam Định điện tử, 25 Nov 2022
+- Accessed: 23 Oct 2026
+- Supports: The same Top 100 pair. OCOP names: bún đũa, kẹo Sìu Châu, phở bò Nam Định, bánh nhãn Hải Hậu, gạo tám Xuân Đài, cá chạch kho Nghĩa Hưng, cá nướng úp chậu Trực Ninh. Xuân Đài is not folded into Hải Hậu. Trực Ninh is not the only place S29 allows for the grilled fish.
+
+### S37
+- URL: https://baoninhbinh.org.vn/gin-giu-va-phat-huy-gia-tri-di-san-van-hoa-phi-vat-the-pho-nam-dinh-24090608010001.html
+- Publisher: Báo Nam Định điện tử, 6 Sep 2024
+- Accessed: 23 Oct 2026
+- Supports: Phở in the early 20th century. Origin accounts that disagree: pot-au-feu, Ngưu Nhục Phấn, a Vietnamese adaptation, a mill-city cook, and làng Vân Cù. The 2024 inventory: nearly 500 shops in the province, and about 1,500 Đồng Sơn households cooking elsewhere. Named villages. No fee.
+
+### S38
+- URL: https://baoninhbinh.org.vn/pho-bo-nam-dinh-tinh-hoa-am-thuc-viet-22120907400001.html
+- Publisher: Báo Nam Định điện tử, 9 Dec 2022
+- Accessed: 23 Oct 2026
+- Supports: Noodle from the previous mùa and chiêm crops, stone-milled, cooked over a charcoal fan. Cattle of about 3–4 tạ, about 2.5 tạ of meat. Broth spices including sá sùng. Crisp quẩy against Hanoi’s soft quẩy. Menu words: tái chín, tái lăn, áp chảo, nạm, gầu, phở xào, sốt vang. Top 100 in 2021 with bún đũa. Shop names stay under Notes. The 10,000 đồng bowl in that article is a charity event on 12 Dec, not a stall price.
+
+### S39
+- URL: https://baoninhbinh.org.vn/nhung-mon-an-dac-san-nam-dinh-13031507030001.html
+- Publisher: Báo Nam Định điện tử. A direct open on 23 Oct 2026 returned HTTP 500. The sentences used are the text search retrieved from that URL the same day.
+- Accessed: 23 Oct 2026
+- Supports: Gỏi nhệch at Quần Vinh, Nghĩa Thắng, Nghĩa Hưng. Nhệch khét and nhệch củ, with the sizes in the retrieved text. Thính from gạo Tám, mẻ, turmeric, galangal, herbs, and the gall in rice wine. The rest of that article was not retrieved. Do not add dishes from it.

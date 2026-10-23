@@ -119,13 +119,13 @@ No stall price is recorded. A shop name that located a street is under Notes, no
 
 ### Goi nhech
 - Vietnamese name: Gỏi nhệch Nghĩa Hưng
-- What it is: Named by Dân Việt in the gift-and-specialty line (S18). A method was not printed.
-- How to eat it: Not printed. Check on arrival — UNSOURCED.
+- What it is: Named by Dân Việt in the gift-and-specialty line (S18). The method in How to eat is the S39 excerpt only.
+- How to eat it: S39, retrieved while the direct open returned HTTP 500, describes gỏi at Quần Vinh: two fish, nhệch khét and nhệch củ; thính from gạo Tám; mẻ; galangal; turmeric unless the fish is already yellow; herbs and sour fruit; bones fried; gall in rice wine. A wrapping in rice paper was not in that excerpt.
 - When to order it: Not printed. Check on arrival — UNSOURCED.
-- Area, not a shop: Nghĩa Hưng (S18).
+- Area, not a shop: Nghĩa Hưng on S18. S35 also names the coastal districts Hải Hậu, Nghĩa Hưng, and Giao Thủy. S39 places Quần Vinh in Nghĩa Thắng, Nghĩa Hưng. All stay.
 - Meal: main
 - Neighbor dish to link: none
-- Sources: S18
+- Sources: S18, S35, S39
 
 ### Gao tam
 - Vietnamese name: Gạo tám Hải Hậu
@@ -179,6 +179,103 @@ No stall price is recorded. A shop name that located a street is under Notes, no
 - Photo must show: The thick noodles in a bowl on a pavement table, street behind. `unpublished: no licensed photo`
 - Sources: S19
 
+## Read 23 Oct 2026
+
+These dishes were not separate entries on 22 Oct. S19’s unread dishes were opened through S29 and S30 after vietnamtourism.vn timed out again. Shop names stay in Notes.
+
+### Ca nuong up chau
+- Vietnamese name: Cá nướng úp chậu
+- What it is: Fish grilled by the heat of an upturned basin, not on an open flame. Skin golden, crisp and chewy, flesh firm and sweet (S29, S30). S36 places an OCOP product at Trực Ninh. S29 and S30 place it at a family table in the first days of the lunar year. Both places stay.
+- How to eat it: At the family table. A street was not printed.
+- When to order it: The first days of the lunar year (S29, S30). A clock: Check on arrival — UNSOURCED.
+- Area, not a shop: Trực Ninh on S36, and a Nam Định home on S29.
+- Meal: main
+- Sources: S29, S30, S36
+
+### Bun cha
+- Vietnamese name: Bún chả
+- What it is: Pork belly, egg, thin leaf noodles, fish sauce, herbs, onion, garlic, chili, carrot, and green papaya. Lean meat is marinated, skewered, and charred at the edge, eaten with the noodles and nước mắm dưa góp (S31). This is not a Hanoi shop.
+- How to eat it: From the bowl, with herbs.
+- When to order it: Not printed. Check on arrival — UNSOURCED.
+- Area, not a shop: Nam Định. A street was not printed.
+- Meal: main
+- Sources: S31
+
+### Xoi ca ro
+- Vietnamese name: Xôi cá rô
+- What it is: Sticky rice with fried đồng snakehead, fried shallot, rau răm, and mùi tàu. Eat it hot. The fried fat colors the rice (S31).
+- How to eat it: Hot, from the bowl.
+- When to order it: S31 names cold weather and does not print a clock. Check on arrival — UNSOURCED.
+- Area, not a shop: Nam Định. A street was not printed.
+- Meal: main
+- Sources: S31
+
+### Banh goi
+- Vietnamese name: Bánh gối
+- What it is: A Hoa-influenced fried cake, not the Hanoi one. The wrapper is rice paper brushed with wheat flour. Filling is pork, wood-ear, quail egg, and glass noodles. Fried as it is wrapped, eaten at once with sour-sweet fish sauce, chili, garlic, herbs, and dưa góp (S31). S18 places the cake on Nguyễn Văn Trỗi and Hoàng Văn Thụ.
+- How to eat it: As soon as it leaves the oil.
+- When to order it: Not printed. Check on arrival — UNSOURCED.
+- Area, not a shop: Nguyễn Văn Trỗi and Hoàng Văn Thụ (S18). No door.
+- Meal: main
+- Sources: S18, S31
+
+### Bun sung
+- Vietnamese name: Bún sung, also bún tóp mỡ
+- What it is: Crab riêu noodles with sliced sung and seasoned pork crackling. The eater mixes the fruit with chili vinegar, sugar, and seasoning powder (S34). S18 also names it at chợ Ngõ Ngang.
+- How to eat it: Morning or after work on S34. Winter is the season that article prefers.
+- When to order it: S34 prints one stall from 06:00 to 20:00 on 24 Nov 2021. Whether that clock still holds: Check on arrival — the 2026 hour was not printed.
+- Area, not a shop: Chợ Diên Hồng (S34) and chợ Ngõ Ngang (S18). The stall name is under Notes.
+- Meal: breakfast
+- Price: S34 prints 10,000 đồng and a quoted hơn 10,000 đồng, with add-ons at 15,000–20,000 đồng. A 2026 price was not printed. Check on arrival for what is charged now.
+- Sources: S18, S34
+
+### Xoi ke
+- Vietnamese name: Xôi kê
+- What it is: Named with phở bò, bún đũa, bánh dày, bánh cuốn, and bánh xíu páo as a Nam Định specialty at the SEA Games 31 showcase (S35). A method was not printed.
+- How to eat it: Not printed. Check on arrival — UNSOURCED.
+- When to order it: Not printed. Check on arrival — UNSOURCED.
+- Area, not a shop: The city showcase. A street was not printed.
+- Meal: main
+- Sources: S35
+
+### Banh day
+- Vietnamese name: Bánh dày
+- What it is: Named in the same SEA Games 31 showcase list (S35). A method was not printed.
+- How to eat it: Not printed. Check on arrival — UNSOURCED.
+- When to order it: Not printed. Check on arrival — UNSOURCED.
+- Area, not a shop: The city showcase. A street was not printed.
+- Meal: main
+- Sources: S35
+
+### Nuoc mam Sa Chau
+- Vietnamese name: Nước mắm Sa Châu
+- What it is: A Top 100 gift on S35 and S36. It is not the nước mắm chắt at Giao Hải. S35 also prints nước nắm on a stall list. Both spellings stay. A grade was not printed.
+- How to eat it: As a condiment. A use was not printed.
+- When to order it: Not printed. Check on arrival — UNSOURCED.
+- Area, not a shop: Nam Định. A village was not printed.
+- Meal: drink
+- Sources: S35, S36
+
+### Ca chach kho
+- Vietnamese name: Cá chạch kho niêu, and cá chạch kho Nghĩa Hưng
+- What it is: Named in the coastal list for Hải Hậu, Nghĩa Hưng, and Giao Thủy (S35) and as an OCOP product of Nghĩa Hưng (S36). A method beyond the name was not printed.
+- How to eat it: Not printed. Check on arrival — UNSOURCED.
+- When to order it: Not printed. Check on arrival — UNSOURCED.
+- Area, not a shop: Nghĩa Hưng on S36. The coastal list also names Hải Hậu and Giao Thủy.
+- Meal: main
+- Sources: S35, S36
+
+### Gao tam Xuan Dai
+- Vietnamese name: Gạo tám Xuân Đài
+- What it is: An OCOP name beside gạo Tám xoan Hải Hậu (S36). Not the same line. A grain description was not printed.
+- How to eat it: As cooked rice. A pairing was not printed.
+- When to order it: Not printed. Check on arrival — UNSOURCED.
+- Area, not a shop: Xuân Đài was not located beyond the name.
+- Meal: main
+- Sources: S36
+
+Left off the dish list, named only: rượu, muối, bánh mỳ, bánh đa, and miến dong (S35). No method. The S18 roundup of chè, kem xôi, ốc, chân gà, cháo sườn, bánh khúc, and bánh mì doors stays under Notes.
+
 ## Notes, not pages
 
 Shop and product names that located a street or a gift. Each line is `do not publish as a pick`.
@@ -191,3 +288,5 @@ Shop and product names that located a street or a gift. Each line is `do not pub
 - Chè and the Nguyễn Du snack names, the bánh mì doors, and bánh khúc near Nhà thờ Lớn, in the Dân Việt roundup, do not publish as a pick (S18).
 - Ecohost, named in the ministry piece as a community operator in Hải Hậu and Trực Ninh, do not publish as a pick (S4). The sights it points at are in `attractions.md`.
 - Núi Ngăm, named as a resort brand beside Phủ Dầy, do not publish as a pick (S11).
+- Bún sung: the stall name in the Tuổi Trẻ piece, do not publish as a pick (S34). The 06:00–20:00 clock and the 2021 prices stay on the dish, as one stall’s figures.
+- Phở doors named on S29, S37, and S38, do not publish as a pick. The streets already on the pho entry are enough.
