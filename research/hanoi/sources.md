@@ -230,6 +230,48 @@ Accessed 22 Oct 2026 unless noted.
 - Accessed: 23 Oct 2026
 - Supports: Bún ngan as bamboo shoots and duck, and the bánh đúc door at 45 Châu Long. Restaurant rows on this page that are not a described dish were not added.
 
+### S40
+- URL: https://vqh.hanoi.gov.vn/index.php?language=vi&nv=news&op=tin-lien-ket%2FLong-Bien-Cay-cau-bac-qua-ba-the-ky-1004.html
+- Publisher: Hanoi People’s Council site, reprint dated 2 Nov 2018
+- Accessed: 23 Oct 2026
+- Supports: Long Bien, 1,682 m, 19 spans, 896 m west approach, Daydé & Pillé, 1899–1902, beside the Old Quarter. The 24 Oct 2023 reprint on the same site, https://vqh.hanoi.gov.vn/index.php?language=vi&nv=news&op=tin-lien-ket%2Fcau-long-bien-sinh-ra-tu-mot-y-tuong-dien-ro-2368.html , also says 1,682 m, with September 1898 groundbreaking, span lengths 78.70 m, 75 m, and 106.20 m, and the first official Hanoi–Haiphong train on 8 April 1902. Renamed Long Bien in 1945.
+
+### S41
+- URL: https://thanglong.chinhphu.vn/cac-phuong-tien-duoc-luu-thong-tro-lai-tren-cau-long-bien-tu-ngay-mai-28-5-10326052709183041.htm
+- Publisher: Chinhphu.vn, 27 May 2026
+- Accessed: 23 Oct 2026
+- Supports: Side paths reopened at 00:00 on 28 May 2026 for motorbikes, non-motorized vehicles, and pedestrians, both ways between Bo De and Hoan Kiem. Closure from 26 March 2026. Diversion to Chuong Duong during the repair.
+
+### S42
+- URL: https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Long_Bi%C3%AAn
+- Publisher: Vietnamese Wikipedia
+- Accessed: 23 Oct 2026
+- Supports: 2,290 m across the river and 896 m of approach. Plate described as 1899–1902, Daydé & Pillé. Disagrees with S40 on the span length. Both figures stay.
+
+### S43
+- URL: https://vietnam.travel/things-to-do/top-instagram-spots-vietnam
+- Publisher: Vietnam Tourism
+- Accessed: 23 Oct 2026
+- Supports: Long Bien built in 1902 by Daydé & Pillé. Trains, motorbikes, and pedestrians cross. Early morning or just before sunset.
+
+### S44
+- URL: https://vietnamtourism.vn/index.php/tourism/items/2795
+- Publisher: Vietnam National Authority of Tourism
+- Accessed: 23 Oct 2026
+- Supports: Quan Thanh at the corner of Thanh Nien and Quan Thanh, looking onto West Lake. Built 1010 under Ly Thai To. Tran Vu figure recast 1677, 3.07 m, circumference 8 m, 4 tons. Four guardian temples. No fee and no hours.
+
+### S45
+- URL: https://vtv.vn/xa-hoi/y-kien-cua-nguoi-dan-xung-quanh-viec-ban-ve-tham-quan-den-quan-thanh-20240218103849941.htm
+- Publisher: VTV, 19 Feb 2024
+- Accessed: 23 Oct 2026
+- Supports: Quan Thanh entrance 10,000 VND, 5,000 VND for students, older people, and disabled visitors, free under 15. One news report. Public fee stays Check on arrival.
+
+### S46
+- URL: https://badinh.hanoi.gov.vn/tin-tuc-su-kien-noi-bat/di-tich-qgdb-den-quan-thanh-mo-cua-mien-phi-phuc-vu-nhan-dan-du-khach-du-xuan-tet-binh-ngo-2026-2800260219220056257.htm
+- Publisher: Ba Dinh, Hanoi, 19 Feb 2026
+- Accessed: 23 Oct 2026
+- Supports: Quan Thanh is a special national relic and a fee-charging site. Free only 20–22 Feb 2026. That window has passed. No regular price.
+
 ### S24
 - URL: https://metrohanoi.vn/ha-noi-metro-ap-dung-bieu-do-chay-tau-voi-gio-cao-diem-moi-tu-ngay-9-2-2026-tren-02-tuyen-dsdt-2a-cat-linh-ha-dong-va-3-1-nhon-ga-ha-noi/
 - Publisher: Hanoi Metro

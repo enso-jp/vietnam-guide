@@ -1,0 +1,60 @@
+{
+  "slug": "long-bien",
+  "placeSlug": "hanoi",
+  "name": "Long Bien Bridge",
+  "nameVi": "Cầu Long Biên",
+  "kicker": "Steel bridge across the Red River",
+  "summary": "Walk the steel spans of Long Bien Bridge across the Red River, on the side path beside the railway. Come in the early morning or just before sunset, when the truss still reads against the sky. Skip it when the side paths are closed for repairs.",
+  "dots": 3,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Walk from Hoan Kiem to the bridge.",
+  "district": "The Red River",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The steel spans and the side path",
+  "notice": {
+    "title": "Use the side path",
+    "body": "Motorbikes, bicycles, and people on foot use the side paths in both directions. The railway runs in the middle. Those paths were shut from 26 March 2026 and reopened at 00:00 on 28 May 2026."
+  },
+  "body": [
+    "Walk the side path of Long Bien Bridge, the steel cantilever across the Red River beside the Old Quarter. Daydé & Pillé built it, and it was finished in 1902. The railway runs down the middle. Motorbikes, bicycles, and people on foot use the side paths in both directions, between the Hoan Kiem end and Bo De.",
+    "The steel structure is 1,682 m, and the river crossing is also 2,290 m, with an 896 m approach on the city side. It has 19 spans. Work began in September 1898, and in 1899. A plate on the bridge reads 1899–1902. The first official Hanoi–Haiphong train crossed on 8 April 1902. It was the Doumer Bridge, people also called it Cau Song Cai, and the name Long Bien dates from 1945.",
+    "Come in the early morning or just before sunset. If the ends are closed for repairs, use Chuong Duong, which took the traffic during the 2026 closure. Stay on the side path."
+  ],
+  "figures": [
+    {
+      "id": "hanoi-long-bien-2",
+      "caption": "The steel lattice at dusk",
+      "alt": "The riveted steel lattice of Long Bien Bridge at dusk, with a lamp lighting the span"
+    }
+  ],
+  "gettingThere": [
+    "The Hoan Kiem end sits beside the Old Quarter. Walk from the lanes north of Hoan Kiem to that end, then take the side path toward Bo De."
+  ],
+  "legs": [
+    {
+      "heading": "From Hoan Kiem",
+      "body": "Walk from the lanes north of the lake to the Hoan Kiem end, then take the side path."
+    },
+    {
+      "heading": "From Bo De",
+      "body": "The side path also runs from Bo De back toward Hoan Kiem."
+    }
+  ],
+  "hours": "Check on arrival.",
+  "closed": "Check on arrival. The side paths were shut for repairs from 26 March 2026 and reopened at 00:00 on 28 May 2026.",
+  "admissionNote": "Check on arrival.",
+  "links": [
+    {
+      "label": "Long Bien Bridge",
+      "url": "https://vietnam.travel/things-to-do/top-instagram-spots-vietnam",
+      "note": "The bridge, and early morning or just before sunset."
+    },
+    {
+      "label": "Side paths reopened",
+      "url": "https://thanglong.chinhphu.vn/cac-phuong-tien-duoc-luu-thong-tro-lai-tren-cau-long-bien-tu-ngay-mai-28-5-10326052709183041.htm",
+      "note": "Department of Construction, 27 May 2026."
+    }
+  ],
+  "interests": ["photography"]
+}
