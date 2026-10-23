@@ -1,5 +1,16 @@
 import { site } from '../config/site';
 
+export function organization() {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    '@id': `${site.url}/#organization`,
+    name: site.name,
+    url: `${site.url}/`,
+    logo: `${site.url}/icon-512.png`,
+  };
+}
+
 export function abs(path: string): string {
   return new URL(path, site.url).toString();
 }

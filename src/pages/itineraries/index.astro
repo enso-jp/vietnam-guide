@@ -12,6 +12,7 @@ import {
   isNationwideLength,
   type FilterTrip,
 } from '../../lib/itinerary-filters';
+import { titles } from '../../lib/page-title';
 import { photoPath } from '../../lib/photos';
 import { breadcrumbList, itemList } from '../../lib/schema';
 import type { Itinerary, ItineraryStop } from '../../lib/types';
@@ -108,7 +109,7 @@ function placeGroups(level: Itinerary['level']) {
 const dayGroups = placeGroups('day');
 const halfDayGroups = placeGroups('half-day');
 ---
-<Base title="Itineraries" description="Nationwide routes, corridor trips, and timed city walks for Vietnam." path="/itineraries" ogType="website" jsonLd={[itemList('Itineraries', trips.map((trip) => ({ name: trip.title, path: `/itineraries/${trip.slug}` }))), breadcrumbList([{ name: 'Plan a trip', path: '/plan' }, { name: 'Itinerary ideas', path: '/itineraries' }])]}>
+<Base title={titles.itineraries} description="Nationwide routes, corridor trips, and timed city walks for Vietnam. Each trip is a sequence of places already on this site." path="/itineraries" ogType="website" jsonLd={[itemList('Itineraries', trips.map((trip) => ({ name: trip.title, path: `/itineraries/${trip.slug}` }))), breadcrumbList([{ name: 'Plan a trip', path: '/plan' }, { name: 'Itinerary ideas', path: '/itineraries' }])]}>
   <div class="wrap section">
     <Crumbs items={[{ name: 'Plan a trip', href: '/plan' }, { name: 'Itinerary ideas' }]} />
     <h1>Itinerary ideas</h1>

@@ -3,6 +3,7 @@ import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import TripOtherStay from '../../components/TripOtherStay.astro';
 import { getFestivals, getPlace, pageDescription, placePath } from '../../lib/content';
+import { titledInPlace } from '../../lib/page-title';
 import { article, breadcrumbList } from '../../lib/schema';
 
 export function getStaticPaths() {
@@ -11,12 +12,13 @@ export function getStaticPaths() {
 const { festival } = Astro.props;
 const path = `/festivals/${festival.slug}`;
 const description = pageDescription(festival.summary, festival.when);
+const where = festival.placeSlugs.map((slug) => getPlace(slug)?.name).find(Boolean);
 const crumbSchema = [
   { name: 'Festivals', path: '/festivals' },
   { name: festival.name, path },
 ];
 ---
-<Base title={festival.name} description={description} path={path} jsonLd={[article(festival.name, description, path), breadcrumbList(crumbSchema)]}>
+<Base title={titledInPlace(festival.name, where)} description={description} path={path} jsonLd={[article(festival.name, description, path), breadcrumbList(crumbSchema)]}>
   <article class="wrap reading section">
     <Crumbs items={[{ name: 'Festivals', href: '/festivals' }, { name: festival.name }]} />
     <h1>{festival.name} {festival.nameVi && <span class="vi" lang="vi">{festival.nameVi}</span>}</h1>

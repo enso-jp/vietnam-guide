@@ -11,6 +11,7 @@ import SectionNav from './SectionNav.astro';
 import TripOtherStay from './TripOtherStay.astro';
 import { interestHref } from '../config/site';
 import { attractionPath, attractionsForPlace, cardLine, getCorridor, getPlace, interestList, pageDescription, placePath } from '../lib/content';
+import { titledInPlace } from '../lib/page-title';
 import { photoPath } from '../lib/photos';
 import { abs, breadcrumbList } from '../lib/schema';
 import type { Attraction, AttractionFigure } from '../lib/types';
@@ -97,7 +98,7 @@ function figureCredit(figure: AttractionFigure) {
   return credits[figure.id];
 }
 ---
-<Base title={`${attraction.name}${place ? ` — ${place.name}` : ''}`} description={description} path={path} jsonLd={[jsonLd, breadcrumbList(crumbSchema)]} ogImage={image}>
+<Base title={titledInPlace(attraction.name, place?.name)} description={description} path={path} jsonLd={[jsonLd, breadcrumbList(crumbSchema)]} ogImage={image}>
   <article class="wrap">
     <header class="place-top" id="intro">
       <Crumbs items={crumbs} />

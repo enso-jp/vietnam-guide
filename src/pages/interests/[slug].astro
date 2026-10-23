@@ -11,6 +11,7 @@ import interestPhotos from '../../content/interest-photos.json';
 import { getInterestCopy, pageDescription } from '../../lib/content';
 import { interestSections } from '../../lib/interest-page';
 import { photoPath } from '../../lib/photos';
+import { interestTitle } from '../../lib/page-title';
 import { breadcrumbList, itemList } from '../../lib/schema';
 
 export function getStaticPaths() {
@@ -60,7 +61,7 @@ const cardLayouts = sections.map((section) => {
   return layout;
 });
 ---
-<Base title={`${label} in Vietnam`} description={description} path={path} ogType="website" jsonLd={jsonLd} ogImage={heroId ? photoPath(heroId) : undefined}>
+<Base title={interestTitle(label)} description={description} path={path} ogType="website" jsonLd={jsonLd} ogImage={heroId ? photoPath(heroId) : undefined}>
   <article class="wrap section">
     <Crumbs items={[{ name: 'Interests', href: '/interests' }, { name: label }]} />
     <h1>{label}</h1>

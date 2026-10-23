@@ -3,6 +3,7 @@ import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import FoodTabs from '../../components/FoodTabs.astro';
 import { cardLine, getDishes, getFoodGuides, placesForCityFood } from '../../lib/content';
+import { titles } from '../../lib/page-title';
 import { breadcrumbList, itemList } from '../../lib/schema';
 const dishes = getDishes();
 const guides = getFoodGuides();
@@ -14,7 +15,7 @@ const listed = [
   ...dishes.map((dish) => ({ name: dish.name, path: `/food/${dish.slug}` })),
 ];
 ---
-<Base title="Vietnamese food" description={description} path="/food" ogType="website" jsonLd={[itemList('Vietnamese food', listed), breadcrumbList([{ name: 'Food', path: '/food' }])]}>
+<Base title={titles.food} description={description} path="/food" ogType="website" jsonLd={[itemList('Vietnamese food', listed), breadcrumbList([{ name: 'Food', path: '/food' }])]}>
   <div class="wrap section">
     <Crumbs items={[{ name: 'Food' }]} />
     <h1>Food</h1>

@@ -4,10 +4,12 @@ import Icon from '../components/Icon.astro';
 import Photo from '../components/Photo.astro';
 import VietnamMap from '../components/VietnamMap.astro';
 import { interestHref, interestLabels, site } from '../config/site';
+import { titles } from '../lib/page-title';
 import interestPhotos from '../content/interest-photos.json';
 import { attractionsForInterest, cardLine, corridorsNorthToSouth, getHighlights, getOtherPosts, getPlaces, placePath, placesForInterest, placesInCorridor } from '../lib/content';
 import TripSearch from '../components/TripSearch.astro';
 import { photoPath } from '../lib/photos';
+import { organization } from '../lib/schema';
 import type { Place } from '../lib/types';
 import topDestinations from '../content/top-destinations.json';
 
@@ -78,17 +80,10 @@ const jsonLd = [
       'query-input': 'required name=query',
     },
   },
-  {
-    '@context': 'https://schema.org',
-    '@type': 'Organization',
-    '@id': `${site.url}/#organization`,
-    name: site.name,
-    url: `${site.url}/`,
-    logo: `${site.url}/icon-512.png`,
-  },
+  organization(),
 ];
 ---
-<Base title="Vietnam Guide — travel guide to places, food, routes, and seasons" description={site.description} path="/" jsonLd={jsonLd} ogType="website" ogImage={photoPath(lead?.photo || 'hanoi')}>
+<Base title={titles.home} description={site.description} path="/" jsonLd={jsonLd} ogType="website" ogImage={photoPath(lead?.photo || 'hanoi')}>
   <div class="home">
     <div class="home-top">
       {lead && (
