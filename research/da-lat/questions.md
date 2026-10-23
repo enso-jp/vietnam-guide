@@ -14,4 +14,7 @@ Checked against the stored dossier on 22 Oct 2026. Do not invent a figure for th
 - Lam Dong Museum fee: Check on arrival. No licensed villa photograph was accepted.
 - Langbiang, the city flower garden, and Elephant Falls: facts are in the dossier. A sight card waits on a licensed photograph of that subject.
 - Stall prices for strawberries, kem bo, banh trang nuong, and soy milk: Check on arrival.
-- Food guide count: 7 dishes and 2 markets, 9 sourced entries. The gap to 40 is 31 because food.md records no stall or shop names. Restaurant brands on Vietnam Tourism stay unpublished.
+- Food guide count on 23 Oct 2026: 48 specialty slugs, plus bánh mì on the breakfast section, 2 markets, and 6 regional plates (bánh bèo, bánh xèo, bún bò Huế, phở bò, mì Quảng, cơm gà Phan Rang). No shortfall under 40. Mì Quảng, Hanoi-style phở, bún bò Huế, and Phan Rang chicken rice stay off the specialty list.
+- Bánh căn has no single city price or hour. Door figures and clocks are in food.md. A Cát prints 08:00–23:59 and 07:00–21:30.
+- Yaourt at 5,000 VND is not labeled phô mai. Chả at 4,000 VND is not labeled chả cây. Ngọc hành is not defined. Lẩu tả pín lù’s contents are not printed. Hạnh’s 200,000–350,000 VND has no unit. Persimmon season is late October–November on one Vietnam Tourism article and September–December on another.
+- Cao atiso: no shop, no dose, no price. Village grill: animal and price not printed. Innovation-center “liên hệ” integers are not prices.

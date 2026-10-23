@@ -8,3 +8,5 @@ Ready for copy: yes
 All six research lanes are stored. Why a night here, getting there, fifteen sourced sights on the board, food streets, the night market, a morning-on-the-lake lifestyle layer, the 2026 flower festival, and side trips to existing place slugs are in the dossier.
 
 Left out: bus and sleeper minutes from Ho Chi Minh City, exact taxi fares from Lien Khuong, many gate fees where Visit Lâm Đồng and the operators disagree, resort names as picks, Elephant Falls and Dambri as separate attraction pages until a licensed photograph of each waterfall is accepted, and full dish-page depth for every snack.
+
+Specialty pass 23 Oct 2026: food.md now has the sourced Da Lat dishes behind the 48-slug food guide. Vietnam Tourism restaurant brands named as “Try it”, plus Cafe Tung, La Viet, and palace tea, stay unpublished as picks. Open price and hour conflicts are in questions.md.

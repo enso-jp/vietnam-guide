@@ -13,7 +13,7 @@
   "fee": "The lake is free. Palaces, gardens, and waterfalls ticket on their own.",
   "getThere": "Lien Khuong Airport (DLI), about 30 km south, with flights from Ha Noi and Ho Chi Minh City",
   "bestMonths": "December to March",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "interests": {
     "food": 4,
     "coffee": 4,
@@ -58,7 +58,7 @@
     }
   ],
   "eat": [
-    "Morning is the market slope: strawberries with condensed milk, artichoke tea to take home, and banh mi from a counter. Evening is the night market for grilled rice paper and hot soy milk. Coffee belongs to the Cau Dat hills."
+    "Morning is bánh mì xíu mại or bánh căn, strawberries with condensed milk at the market, and a cold-cut banh mi from a counter. Evening is the night market for grilled rice paper and hot soy milk. Lunch can be lá é chicken hotpot. Coffee belongs to the Cau Dat hills."
   ],
   "dishSlugs": [
     "ca-phe",
@@ -67,10 +67,52 @@
     "dau-sua",
     "sua-dau-nanh",
     "tra-atiso",
+    "banh-can-da-lat",
+    "banh-mi-xiu-mai",
+    "banh-uot-long-ga",
+    "lau-ga-la-e",
+    "com-nieu-da-lat",
+    "com-lam-da-lat",
+    "nem-nuong-da-lat",
+    "sup-cua-da-lat",
+    "nuong-xien-da-lat",
+    "yaourt-pho-mai",
+    "banh-gio-da-lat",
+    "cha-cay-da-lat",
+    "banh-flan-pho-mai",
+    "ga-nuong-lu",
+    "long-ga-xao-nam",
+    "thit-rung-nuong",
+    "ga-nuong-da-lat",
+    "hot-ga-nuong",
+    "oc-nhoi-thit",
+    "lau-duoi-bo",
+    "ga-tiem",
+    "bo-cau-tiem",
+    "gan-bo-tiem",
+    "gan-heo-tiem",
+    "oc-heo-tiem",
+    "ngoc-hanh-tiem",
+    "atiso-ham-gio-heo",
+    "lau-ta-pin-lu",
+    "ga-luoc-da-lat",
+    "ga-hap-mam",
+    "nuong-ngoi",
+    "hong-treo-gio",
+    "hong-say-deo",
+    "hong-chin-mem",
+    "hong-ep",
+    "hong-gion",
+    "mut-dau",
+    "mut-gung",
+    "mut-trai-cay",
+    "vang-da-lat",
+    "dau-tay-da-lat",
+    "cao-atiso",
     "banh-mi"
   ],
   "interestsBody": [
-    "Dining is market strawberries, avocado ice cream, and night-market rice paper.",
+    "Dining is bánh căn, bánh mì xíu mại, lá é chicken hotpot, market strawberries, and night-market rice paper.",
     "The central market sells flowers and produce in the morning. Stall prices are Check on arrival.",
     "Coffee is Arabica country on the Cau Dat hills. Vietnam National Authority of Tourism names farm tours, including K'Ho.",
     "Lakes and waterfalls are Xuan Huong in town, then Truc Lam, Datanla, and Lang Biang on half-day rides. Tuyen Lam is the reservoir south of town.",
@@ -81,7 +123,7 @@
   "interestCards": [
     {
       "title": "Dining and F&B",
-      "summary": "Market strawberries, avocado ice cream, and night-market rice paper.",
+      "summary": "Bánh căn, xíu mại, avocado ice cream, and night-market rice paper.",
       "photo": "da-lat-market",
       "icon": "food",
       "to": "food"
@@ -129,7 +171,7 @@
       "cards": [
         {
           "title": "Dining and F&B",
-          "summary": "Market strawberries, avocado ice cream, and night-market rice paper.",
+          "summary": "Bánh căn, xíu mại, avocado ice cream, and night-market rice paper.",
           "photo": "da-lat-market",
           "icon": "food",
           "to": "food"
