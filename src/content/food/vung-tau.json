@@ -2,16 +2,242 @@
   "slug": "vung-tau",
   "name": "Vung Tau food guide",
   "placeSlug": "vung-tau",
-  "summary": "Eat bánh khọt on Nguyễn Trường Tộ, one small cake at a time with herbs and fish sauce. After the swim, choose the fish at the Back Beach night market. The stingray pot is the sit-down meal. A stall price is check on arrival, and bánh khọt is not a folded bánh xèo.",
+  "summary": "Eat bánh khọt on Nguyễn Trường Tộ, one small cake at a time, herbs around it and fish sauce on the side. The sit-down pot is stingray. Crab bánh canh, shrimp bún riêu, and squid hủ tiếu are the other bowls Vietnam Tourism names. After the swim, choose the fish at the Back Beach night market. Vietnam Airlines prints a price on some plates. Where none was printed, the price is Check on arrival.",
   "heroSlug": "banh-khot",
   "body": [
-    "Vietnam Tourism calls bánh khọt the snack a Vung Tau trip is incomplete without. Two pages describe the batter differently, and both are kept: rice flour fried in small molds, or flour and curry powder. The gesture is the same. Herbs around the cake, sauce on the side. It is not a folded bánh xèo.",
-    "The night seafood market is on Back Beach. You choose the fish, crab, or shellfish and the cooking. Nguyễn Trường Tộ and Hoàng Hoa Thám are the streets named for bánh khọt. Shop names stay off this page. Other bowls on the tourism list have no photograph of that bowl, so they are not cards."
+    "Vietnam Tourism calls bánh khọt the snack a Vung Tau trip is incomplete without. Two accounts describe the batter, and both stay: rice flour fried in small molds, or flour and curry powder. Vietnam Airlines also says rice flour, and prints 40,000–70,000 VND. Herbs around the cake, sauce on the side. It is not a folded bánh xèo.",
+    "The sit-down pot is stingray. Vietnam Tourism’s essential guide uses baby bamboo shoots. The local-eating article uses tamarind, pineapple, morning glory, and bean sprouts. Crab bánh canh keeps the coconut milk from the local-eating article. Vietnam Airlines does not mention coconut milk, and one caption on that article says cua while the heading says ghẹ. Squid hủ tiếu is the breakfast bowl. After the swim, choose the fish, crab, or shellfish at the Back Beach night market.",
+    "Bánh canh Long Hương is a breakfast bowl at 11 Cách Mạng Tháng Tám in Long Hương, Bà Rịa, not a stall on the peninsula. Nguyễn Trường Tộ and Hoàng Hoa Thám are the streets for bánh khọt. Where an hour was not printed, it is Check on arrival."
   ],
-  "specialtiesLead": "The cakes and the fried dough are the plates with photographs. Other bowls stay in the notes until a picture of that bowl exists.",
-  "dishSlugs": ["banh-khot", "banh-tieu"],
-  "verified": "21 Oct 2026",
-  "seoTitle": "Vung Tau food guide — bánh khọt and the night catch",
-  "seoDescription": "Vung Tau bánh khọt, one cake at a time on Nguyễn Trường Tộ, and seafood you choose on Back Beach after dark. A stall price is check on arrival.",
-  "sections": []
+  "specialtiesLead": "Bánh khọt and bánh tiêu come first. The other specialties follow, with the street when a publisher printed one.",
+  "dishSlugs": [
+    "banh-khot",
+    "banh-tieu",
+    "lau-ca-duoi",
+    "banh-canh-ghe",
+    "bun-rieu-tom",
+    "hu-tieu-muc",
+    "goi-ca-mai",
+    "chao-hau",
+    "oc-vung-tau",
+    "hau-nuong-pho-mai",
+    "banh-canh-cha-ca",
+    "bun-sua",
+    "goi-cuon-tom",
+    "bun-oc",
+    "lau-tom-5-ri",
+    "banh-bong-lan-trung-muoi",
+    "banh-mi-bo-nuong",
+    "tau-hu-nong",
+    "kem-bo-sau-rieng",
+    "khoai-tay-dai",
+    "banh-canh-long-huong"
+  ],
+  "sections": [
+    {
+      "id": "seafood",
+      "heading": "Seafood bowls and plates",
+      "nav": "Seafood",
+      "paragraphs": [
+        "These are the seafood specialties Vietnam Tourism and Vietnam Airlines name. The hour, where it was not printed, is Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Lau ca duoi",
+          "nameVi": "Lẩu cá đuối",
+          "address": "Trần Hưng Đạo, Trần Phú, and Hùng Vương",
+          "dishSlug": "lau-ca-duoi",
+          "note": "Stingray hotpot. Vietnam Tourism’s essential guide uses baby bamboo shoots. The local-eating article uses tamarind, pineapple, morning glory, and bean sprouts. Vietnam Airlines adds bún and prints 150,000–250,000 VND. The hour is Check on arrival."
+        },
+        {
+          "name": "Banh canh ghe",
+          "nameVi": "Bánh canh ghẹ",
+          "address": "Tú Xương, Võ Thị Sáu, and Lê Lai",
+          "dishSlug": "banh-canh-ghe",
+          "note": "Thick noodles in crab broth. Vietnam Tourism includes coconut milk, herbs, fried shallots, and lime. Vietnam Airlines does not mention coconut milk, prints 60,000–120,000 VND, and one caption says cua. The hour is Check on arrival."
+        },
+        {
+          "name": "Bun rieu tom",
+          "nameVi": "Bún riêu tôm",
+          "address": "Check on arrival",
+          "dishSlug": "bun-rieu-tom",
+          "note": "Shrimp stock, tomato, shrimp cakes, tofu, squid, and pork, with greens and shrimp paste on the side. Vietnam Tourism names no street and no price. Check on arrival."
+        },
+        {
+          "name": "Hu tieu muc",
+          "nameVi": "Hủ tiếu mực",
+          "address": "Check on arrival",
+          "dishSlug": "hu-tieu-muc",
+          "note": "Breakfast. Pork-bone and dried-squid broth, with squid, shrimp, fish cake, quail eggs, herbs, bean sprouts, and lime. Vietnam Tourism names no street and no price. Check on arrival."
+        },
+        {
+          "name": "Goi ca mai",
+          "nameVi": "Gỏi cá mai",
+          "address": "Check on arrival",
+          "dishSlug": "goi-ca-mai",
+          "note": "Thin raw cá mai with lime, fish sauce, garlic, rice paper, herbs, and peanuts. Vietnam Tourism names no street and no price. Check on arrival."
+        },
+        {
+          "name": "Chao hau",
+          "nameVi": "Cháo hàu",
+          "address": "Check on arrival",
+          "dishSlug": "chao-hau",
+          "note": "Oyster rice porridge with fried shallots, cilantro, and fish sauce. Vietnam Tourism names no street and no price. Check on arrival."
+        },
+        {
+          "name": "Oc",
+          "nameVi": "Ốc",
+          "address": "Lý Tự Trọng, Kha Vạn Cân, and Trương Công Định",
+          "dishSlug": "oc-vung-tau",
+          "note": "Snail plates. Vietnam Airlines names ốc hương, ốc mỡ, ốc len, and ốc móng tay, and prints 50,000–150,000 VND. Vietnam Tourism also points at the beaches’ restaurants and the Back Beach night market. The hour is Check on arrival."
+        },
+        {
+          "name": "Hau nuong pho mai",
+          "nameVi": "Hàu nướng phô mai",
+          "address": "Back Beach night market",
+          "dishSlug": "hau-nuong-pho-mai",
+          "note": "Oysters grilled with cheese. Vietnam Tourism names no cheese, no street, and no price. Check on arrival."
+        },
+        {
+          "name": "Banh canh cha ca",
+          "nameVi": "Bánh canh chả cá",
+          "address": "Nguyễn Bỉnh Khiêm and Phan Bội Châu",
+          "dishSlug": "banh-canh-cha-ca",
+          "note": "Fish-cake noodles in a clear bone broth. Vietnam Airlines prints 35,000–55,000 VND and calls it breakfast or a light dinner. The hour is Check on arrival."
+        },
+        {
+          "name": "Bun sua",
+          "nameVi": "Bún sứa",
+          "address": "Cô Giang and Tô Hiến Thành",
+          "dishSlug": "bun-sua",
+          "note": "Crisp jellyfish in a light seafood broth, with greens, chili, and lime. Vietnam Airlines prints 40,000–70,000 VND. The hour is Check on arrival."
+        },
+        {
+          "name": "Goi cuon tom",
+          "nameVi": "Gỏi cuốn tôm",
+          "address": "Cô Giang and Xô Viết Nghệ Tĩnh",
+          "dishSlug": "goi-cuon-tom",
+          "note": "Boiled shrimp, greens, and rice noodles in rice paper. The dip is mắm nêm or peanut sauce. Vietnam Airlines prints 30,000–50,000 VND. The hour is Check on arrival."
+        },
+        {
+          "name": "Bun oc",
+          "nameVi": "Bún ốc",
+          "address": "Trương Công Định",
+          "dishSlug": "bun-oc",
+          "note": "Vietnam Airlines describes a sour tomato and tamarind broth with fresh snails, soft noodles, and greens. The Hanoi bowl on the same record is a different broth. The Vung Tau range is 40,000–65,000 VND. The hour is Check on arrival."
+        },
+        {
+          "name": "Lau tom 5 ri",
+          "nameVi": "Lẩu tôm 5 ri",
+          "address": "166 Trương Công Định",
+          "dishSlug": "lau-tom-5-ri",
+          "note": "Small-shrimp hotpot, broth from bones and seafood, lightly sour with tamarind or pineapple. Vietnam Airlines prints 180,000–280,000 VND. The hour is Check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "snacks",
+      "heading": "Snacks and sweets",
+      "nav": "Snacks",
+      "paragraphs": [
+        "Bánh tiêu is the fried dough with mung bean. The rest of this list is what Vietnam Tourism and Vietnam Airlines add around it."
+      ],
+      "spots": [
+        {
+          "name": "Banh bong lan trung muoi",
+          "nameVi": "Bánh bông lan trứng muối",
+          "address": "Check on arrival",
+          "dishSlug": "banh-bong-lan-trung-muoi",
+          "note": "Sponge with salted egg yolk, cheese, and pork floss. Vietnam Tourism names no street and no price. Check on arrival."
+        },
+        {
+          "name": "Banh mi bo nuong",
+          "nameVi": "Bánh mì bò nướng",
+          "address": "Nguyễn Thái Học",
+          "dishSlug": "banh-mi-bo-nuong",
+          "note": "Grilled beef, herbs, and cucumber in a baguette. Vietnam Airlines does not describe the sauce, and prints 25,000–40,000 VND. The hour is Check on arrival."
+        },
+        {
+          "name": "Tau hu nong",
+          "nameVi": "Tàu hũ nóng",
+          "address": "Thùy Vân and Hoàng Hoa Thám",
+          "dishSlug": "tau-hu-nong",
+          "note": "Hot soft tofu with sweet-sour fish sauce or soy sauce. Vietnam Airlines prints 15,000–30,000 VND. The hour is Check on arrival."
+        },
+        {
+          "name": "Kem bo sau rieng",
+          "nameVi": "Kem bơ sầu riêng",
+          "address": "Nguyễn Du and Ba Cu",
+          "dishSlug": "kem-bo-sau-rieng",
+          "note": "A cold cup of avocado and ripe durian. Vietnam Airlines prints 20,000–40,000 VND. The hour is Check on arrival."
+        },
+        {
+          "name": "Khoai tay dai",
+          "nameVi": "Khoai tây dài phủ sốt",
+          "address": "17 Trưng Nhị",
+          "dishSlug": "khoai-tay-dai",
+          "note": "Fried potato sticks with a sauce Vietnam Airlines says is often mayonnaise, cheese, or chili sauce. The printed range is 25,000–45,000 VND. The hour is Check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "role": "regional",
+      "heading": "Regional dishes",
+      "nav": "Regional",
+      "paragraphs": [
+        "Bánh canh Long Hương is the neighbor bowl. Vietnam Airlines lists it with Vung Tau food and prints an address in Long Hương, Bà Rịa."
+      ],
+      "spots": [
+        {
+          "name": "Banh canh Long Huong",
+          "nameVi": "Bánh canh Long Hương",
+          "address": "11 Cách Mạng Tháng Tám, Long Hương, Bà Rịa",
+          "dishSlug": "banh-canh-long-huong",
+          "note": "Translucent noodles in a bone broth, usually with fish cake, pork hock, or shrimp and pork. Vietnam Airlines prints 35,000–60,000 VND and calls it breakfast. The hour is Check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "casual",
+      "role": "casual",
+      "heading": "Casual dining",
+      "nav": "Streets",
+      "paragraphs": [
+        "Nguyễn Trường Tộ is the bánh khọt street. One kitchen at number 14 prints 7:00–14:00 on weekdays and 7:00–20:00 on Sundays. Hoàng Hoa Thám is the other bánh khọt street, on the way to the whale hall. The Back Beach night market is where you choose the fish and the cooking."
+      ],
+      "spots": [
+        {
+          "name": "Nguyen Truong To",
+          "nameVi": "Nguyễn Trường Tộ",
+          "address": "Nguyễn Trường Tộ, Back Beach side",
+          "note": "The street for bánh khọt. Vietnam Tourism prints 7:00–14:00 on weekdays and 7:00–20:00 on Sundays at number 14. Other kitchens on the street were not given hours."
+        },
+        {
+          "name": "Hoang Hoa Tham",
+          "nameVi": "Hoàng Hoa Thám",
+          "address": "Hoàng Hoa Thám",
+          "note": "The other street for bánh khọt, inland toward the whale hall. A clock for the street was not printed. Check on arrival."
+        },
+        {
+          "name": "Back Beach night seafood market",
+          "nameVi": "Chợ hải sản đêm Bãi Sau",
+          "address": "Back Beach",
+          "note": "After dark, choose fish, crab, or shellfish and a cooking method. Vietnam Tourism does not print a clock or a street number. Check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "role": "breakfast",
+      "heading": "Breakfast",
+      "nav": "Breakfast",
+      "paragraphs": [
+        "Hủ tiếu mực is the breakfast Vietnam Tourism names, with squid, shrimp, fish cake, and quail eggs. Vietnam Airlines also calls bánh canh chả cá and bún ốc breakfast or a light dinner, and calls bánh canh Long Hương a breakfast bowl in Bà Rịa. The clocks are Check on arrival."
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Vung Tau food guide — bánh khọt and the seafood bowls",
+  "seoDescription": "Bánh khọt on Nguyễn Trường Tộ, stingray hotpot, crab bánh canh, and the Back Beach night market. Vietnam Airlines prints some prices. An unprinted hour is Check on arrival."
 }

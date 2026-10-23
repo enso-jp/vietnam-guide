@@ -116,6 +116,12 @@ Accessed 21 Oct 2026 unless a line says otherwise.
 - Accessed: 21 Oct 2026
 - Supports: Indexed extract of the Ba Ria–Vung Tau province page. A second full fetch timed out. The extract names Thuy Van, Chi Linh, Back, Front, and Dau as city beaches; Long Hai in Long Dien; Ho Tram and Ho Coc in Xuyen Moc; Con Dao swims at Dam Trau, Hon Cau, and Hon Tre; Binh Chau hot spring “up to 80°C” and the Binh Chau–Phuoc Buu reserve. No kilometres for Ho Tram or Binh Chau. The 80°C figure is that extract only.
 
+## S21
+- URL: https://www.vietnamairlines.com/go/vi/plan-book/travel/travel-guide/an-gi-vung-tau
+- Publisher: Vietnam Airlines
+- Accessed: 23 Oct 2026
+- Supports: Reference prices and streets for lẩu cá đuối, bánh khọt, bánh canh Long Hương (Long Hương, Bà Rịa), ốc, bánh canh ghẹ, bánh canh chả cá, bún sứa, gỏi cuốn tôm, bún ốc, lẩu tôm 5 ri, bánh mì bò nướng, tàu hũ nóng, bánh tiêu đậu xanh, khoai tây dài phủ sốt, and kem bơ sầu riêng. One caption on the bánh canh ghẹ block says cua. Shop names on this article stay in Notes. No hours on this article.
+
 ## S19
 - URL: https://cobavungtau.com/
 - Publisher: Banh Khot Co Ba (the shop’s own site)
