@@ -3,6 +3,8 @@
 Slug: `kon-tum`
 Checked: 21 Oct 2026
 
+Page pass 23 Oct 2026. Sight files under `attractions/` are the deepened record. Published: wooden-church, kon-tum-prison, kon-klor-rong-house, kon-ktu-village, kon-tum-museum. Unpublished: kon-klor-bridge (the way into Kon K’Tu), bac-ai-pagoda (no clean licensed photo). The market morning, the riverfront evening, and dry pho are not sights. Mang Den stays its own place.
+
 ## Why a night here
 
 ### The wooden church and the river bridge

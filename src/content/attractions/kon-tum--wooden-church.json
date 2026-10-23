@@ -4,21 +4,21 @@
   "name": "Kon Tum Wooden Church",
   "nameVi": "Nhà thờ Gỗ Kon Tum",
   "kicker": "Timber cathedral on Nguyen Hue",
-  "summary": "Walk the timber cathedral on Nguyen Hue, cà chít wood raised from 1913 to 1918 with Roman arches under a Ba Na roof. Entry is free and an hour covers it. If Ba Na village life is what you came for, give the time to Kon K’Tu instead, about 5 km out across the Kon Klor bridge.",
+  "summary": "Walk the timber cathedral on Nguyen Hue, raised in cà chít wood from 1913 to 1918. Roman arches sit under a Ba Na roof, with stained glass and carved wood inside. Sunday times do not agree, so come between services for a quiet nave. How long to allow, and the gate fee, are Check on arrival. Keep the afternoon for Kon K'Tu if the village is the point of the day.",
   "dots": 5,
-  "timeNeeded": "About one hour",
-  "fee": "Free",
-  "getThere": "Walk from central hotels on Nguyen Hue",
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Walk from the centre along Nguyen Hue.",
   "district": "Nguyen Hue",
   "verified": "23 Oct 2026",
   "heroCaption": "The timber façade and spire on Nguyen Hue",
   "notice": {
     "title": "Sunday Mass fills the nave",
-    "body": "Mass is at 6:00, 8:00, and 17:00 on Sunday. Come between services for a quiet look at the timber."
+    "body": "Sunday services are at 5:00, 5:30, or 6:00, then at 7:30 or 8:00, then at 16:00 or 17:00. Come between them for a quiet look at the timber."
   },
   "body": [
-    "The cathedral stands on Nguyen Hue in Thống Nhất ward, built from 1913 to 1918 in dark cà chít timber. The arches are Roman and the roof is Ba Na. Step inside for the stained glass, the timber columns, and the carved sanctuary.",
-    "An hour is enough. Come in the morning, after a two-bowl phở near the market, and keep the afternoon for the river. Kon K’Tu is a different visit: a Ba Na village about 5 km out, across the Kon Klor bridge, that takes two to three hours."
+    "The cathedral stands at 13 Nguyen Hue. The ward is Thống Nhất on one count and Kon Tum on another. It was raised from 1913 to 1918 in dark cà chít timber. The arches are Roman and the roof is Ba Na. Step inside for the stained glass and the carved wood.",
+    "Come between Sunday services if you want a quiet nave. Weekday Mass is at 5:00 and 17:30, and Saturday 17:30 is also on the clock. How long to allow, the hours outside Mass, and the gate fee are Check on arrival. Kon K'Tu is a different visit, across the Kon Klor bridge, for the afternoon."
   ],
   "figures": [
     {
@@ -28,31 +28,31 @@
     }
   ],
   "gettingThere": [
-    "The church is on Nguyen Hue in Thống Nhất ward, in the centre of town. Walk from any hotel in the centre. From Pleiku Airport, the bus or taxi into Kon Tum takes about an hour."
+    "The church is at 13 Nguyen Hue, in the centre of town. Walk from the centre. From Pleiku Airport, the bus or taxi into Kon Tum takes about an hour, or 1 to 1.5 hours by car and about 1.5 hours by bus."
   ],
   "legs": [
     {
-      "heading": "From central Kon Tum",
-      "body": "Walk along Nguyen Hue."
+      "heading": "From the centre",
+      "body": "Walk along Nguyen Hue to number 13."
     },
     {
       "heading": "From Pleiku Airport (PXU)",
-      "body": "About an hour by bus or taxi to the centre: nearly 45 km by kontumtourism.com’s count, 51 km by Travelmath’s. Then walk."
+      "body": "By bus or taxi to the centre. The road is nearly 45 km, or 51 km, about an hour, or 50 km in 1 to 1.5 hours by car and about 1.5 hours by bus. Then walk."
     }
   ],
-  "hours": "Sunday Mass at 6:00, 8:00, and 17:00. Visitor hours outside Mass: Check on arrival.",
+  "hours": "Weekday Mass is at 5:00 and 17:30. Sunday Mass is at 5:00, 5:30, or 6:00, then at 7:30 or 8:00, then at 16:00 or 17:00. Saturday 17:30 is also on the clock. Hours outside Mass: Check on arrival.",
   "closed": "Check on arrival.",
-  "admissionNote": "Free entry.",
+  "admissionNote": "Check on arrival.",
   "links": [
     {
-      "label": "Kon Tum provincial portal",
-      "url": "https://www.kontum.gov.vn/pages/thu-vien-anh/1009/Nha-tho-Go.html",
-      "note": "Address, dates, and materials"
+      "label": "Kon Tum cathedral parish",
+      "url": "https://giaophankontum.com/giao-phan/giao-xu/mien-kontum/giao-hat-kontum/giao-xu-chinh-toa",
+      "note": "13 Nguyen Hue. Sunday Mass at 5:30, 7:30, and 16:00. Weekday Mass at 5:00 and 17:30."
     },
     {
-      "label": "Go Vietnam cluster page",
+      "label": "Kon Tum city cluster",
       "url": "https://govietnam.travel/en/destination/kon-tum-city-cluster-wooden-church-kon-klor-bridge-kon-tum-prison-kon-ktu-village-en/",
-      "note": "Free entry, about one hour, and Sunday Mass times"
+      "note": "Sunday Mass at 6:00, 8:00, and 17:00. Built from 1913 to 1918."
     }
   ],
   "interests": ["pagodas", "photography"]

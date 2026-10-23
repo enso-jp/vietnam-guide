@@ -4,35 +4,40 @@
   "name": "Kon Tum Prison",
   "nameVi": "Nhà tù Kon Tum",
   "kicker": "French-era prison museum in the centre",
-  "summary": "French-era prison cells and displays in the city centre, about an hour and a half on site for 30,000 VND. Go in the morning, before the heat. Skip it if you wanted a light scenic walk: this is colonial prison history.",
+  "summary": "Walk the French-era prison on Truong Quang Trong, through the memorial yard and the displays. An adult pays 20,000 VND, or 30,000 VND. The day runs 7:30–11:00 and 13:30–17:00. How long to allow is Check on arrival. Skip it if you wanted a light scenic walk: this is colonial prison history.",
   "dots": 3,
-  "timeNeeded": "About 1.5 hours",
-  "fee": "30,000 VND",
-  "getThere": "Walk in the central cluster",
-  "district": "City centre",
+  "timeNeeded": "Check on arrival",
+  "fee": "20,000 VND or 30,000 VND",
+  "getThere": "Walk or ride to Truong Quang Trong in Quyet Thang.",
+  "district": "Quyet Thang",
   "verified": "23 Oct 2026",
   "heroCaption": "The courtyard and memorial in front of the hall",
   "gettingThere": [
-    "The prison is in the city centre, in the same walkable cluster as the wooden church. From Pleiku Airport, the bus or taxi into Kon Tum takes about an hour."
+    "The prison is on Truong Quang Trong in Quyết Thắng ward, on the north bank of the Đăk Bla. It is a national historical relic from 1988. From the centre, walk or ride. The minute count is Check on arrival. From Pleiku Airport, the bus or taxi into Kon Tum takes about an hour, or 1 to 1.5 hours by car and about 1.5 hours by bus."
   ],
   "legs": [
     {
-      "heading": "From central Kon Tum",
-      "body": "Walk from the wooden church or any hotel in the centre."
+      "heading": "From the centre",
+      "body": "Walk or ride to Truong Quang Trong in Quyết Thắng. The minute count is Check on arrival."
     },
     {
       "heading": "From Pleiku Airport (PXU)",
-      "body": "About an hour by bus or taxi to the centre: nearly 45 km by kontumtourism.com’s count, 51 km by Travelmath’s. Then walk."
+      "body": "By bus or taxi to Kon Tum. The road is nearly 45 km, or 51 km, about an hour, or 50 km in 1 to 1.5 hours by car and about 1.5 hours by bus. Then walk or ride to Truong Quang Trong."
     }
   ],
-  "hours": "Check on arrival.",
-  "closed": "Check on arrival.",
-  "admissionNote": "30,000 VND for an adult. Child price: Check on arrival.",
+  "hours": "7:30–11:00 and 13:30–17:00, every day.",
+  "closed": "No weekly closing day. Check on arrival.",
+  "admissionNote": "An adult pays 20,000 VND, or 30,000 VND. Where the adult price is 20,000 VND, a child pays 10,000 VND, and children and school students are also admitted free. Where the adult price is 30,000 VND, the child price is Check on arrival. People with a disability, people in poor or near-poor households, relatives of fighters who died at the prison, and people with recognised service to the revolution are free. Seniors, students in training, recognised artisans, and visitors on 24 November pay half. If more than one reduction applies, only the largest one is used. The 20,000 VND tariff started on 18 August 2026.",
   "links": [
     {
-      "label": "Go Vietnam cluster page",
+      "label": "2026 visit fees",
+      "url": "https://sovhttdl.quangngai.gov.vn/danh-muc-cot-phai/tin-tuc/hoat-dong-co-so/quy-dinh-moi-ve-phi-tham-quan-tai-cac-co-so-bao-tang-va-di-tich-lich-su-nha-nguc-kon-tum.html",
+      "note": "Adult 20,000 VND and child 10,000 VND from 18 August 2026"
+    },
+    {
+      "label": "Kon Tum city cluster",
       "url": "https://govietnam.travel/en/destination/kon-tum-city-cluster-wooden-church-kon-klor-bridge-kon-tum-prison-kon-ktu-village-en/",
-      "note": "30,000 VND and about ninety minutes. No clock is printed."
+      "note": "Adult 30,000 VND"
     }
   ],
   "interests": ["warHistory"]
