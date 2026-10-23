@@ -30,7 +30,7 @@
           "name": "Cồn Phụng kitchens",
           "nameVi": "Lò kẹo trên Cồn Phụng",
           "caption": "Wrapping coconut candy in the Cồn Phụng workshop",
-          "note": "The boil, the cut, and the wrap. One operator prints 07:30–18:00. Hours: Check on arrival. Price: Check on arrival.",
+          "note": "The boil, the cut, and the wrap. One operator prints 07:30–18:00.",
           "photo": "keo-dua-2"
         }
       ]
@@ -65,7 +65,10 @@
       "paragraphs": [
         "Bánh tráng Mỹ Lồng and bánh phồng Sơn Đốc were listed together as national intangible heritage on 30 October 2018. Grill either one, or carry it home. The yards run all year and longer near Tết."
       ],
-      "dishSlugs": ["ben-tre--banh-trang-my-long", "ben-tre--banh-phong-son-doc"]
+      "dishSlugs": [
+        "ben-tre--banh-trang-my-long",
+        "ben-tre--banh-phong-son-doc"
+      ]
     },
     {
       "id": "town",
@@ -88,7 +91,9 @@
       "paragraphs": [
         "Honey tea and a young coconut are photographed above. Dừa nước is the nipa drink at the garden stop."
       ],
-      "dishSlugs": ["ben-tre--dua-nuoc"]
+      "dishSlugs": [
+        "ben-tre--dua-nuoc"
+      ]
     },
     {
       "id": "market",
@@ -103,7 +108,7 @@
           "name": "Ben Tre Market",
           "nameVi": "Chợ Bến Tre",
           "caption": "The southern side of Chợ Bến Tre, from the bridge",
-          "note": "The day market on the way toward the river. The night market is a different walk. Hours: Check on arrival.",
+          "note": "The day market on the way toward the river. The night market is a different walk.",
           "photo": "ben-tre-market"
         }
       ]
@@ -125,7 +130,9 @@
       "paragraphs": [
         "Breakfast on đường 30 Tháng 4 is hủ tiếu with a pork-pâté slice. The dinner bowl is a different plate of the same noodle."
       ],
-      "dishSlugs": ["ben-tre--hu-tieu-pate"]
+      "dishSlugs": [
+        "ben-tre--hu-tieu-pate"
+      ]
     }
   ],
   "verified": "23 Oct 2026",
