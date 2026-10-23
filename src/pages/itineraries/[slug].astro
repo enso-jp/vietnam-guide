@@ -4,8 +4,8 @@ import Crumbs from '../../components/Crumbs.astro';
 import Icon from '../../components/Icon.astro';
 import Photo from '../../components/Photo.astro';
 import PlanTabs from '../../components/PlanTabs.astro';
+import TripOtherStay from '../../components/TripOtherStay.astro';
 import { attractionPath, getAttractions, getItineraries, getPlace, pageDescription, placePath } from '../../lib/content';
-import { stayLink } from '../../lib/partners';
 import { abs, breadcrumbList } from '../../lib/schema';
 
 export function getStaticPaths() {
@@ -14,9 +14,6 @@ export function getStaticPaths() {
 const { trip } = Astro.props;
 const days = (trip.days || []).map((day, index) => ({ ...day, id: `day-${index + 1}` }));
 const placeFrom = (slug?: string) => (slug ? getPlace(slug) : undefined);
-const firstPlace =
-  days.map((day) => placeFrom(day.placeSlug)).find(Boolean)
-  || (trip.stops || []).map((stop) => placeFrom(stop.placeSlug)).find(Boolean);
 const otherTrips = getItineraries().filter((item) => item.slug !== trip.slug);
 const path = `/itineraries/${trip.slug}`;
 const description = pageDescription(trip.seoDescription, trip.summary);
@@ -121,22 +118,10 @@ const jsonLd = {
     )}
       </div>
       <aside class="rail">
-        {firstPlace && (
-          <div class="panel stay-box">
-            <h2>Book your <em>stay</em></h2>
-            <ul class="stay-tabs">
-              <li class="is-on"><span class="stay-tile"><Icon name="bed" /></span>Stays</li>
-              <li><span class="stay-tile"><Icon name="plane" /></span>Flights</li>
-              <li><span class="stay-tile"><Icon name="car" /></span>Car</li>
-              <li><span class="stay-tile"><Icon name="bus" /></span>Buses</li>
-              <li><span class="stay-tile"><Icon name="flag" /></span>Activities</li>
-              <li><span class="stay-tile"><Icon name="food" /></span>Food</li>
-            </ul>
-            <p class="stay-field"><span>City</span><strong>{firstPlace.name}</strong></p>
-            <p class="note">This is a placeholder until hotel listings are connected.</p>
-            <a class="stay-btn" href={stayLink(firstPlace.name)} rel="sponsored noopener" target="_blank" data-partner="stay">Search stays</a>
-          </div>
-        )}
+        <div class="stay-box">
+          <h2>Book your <em>stay</em></h2>
+          <TripOtherStay />
+        </div>
         {otherTrips.length > 0 && (
           <div class="panel">
             <p class="explore-kicker">Plan your trip</p>

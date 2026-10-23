@@ -8,10 +8,10 @@ import FactBar from './FactBar.astro';
 import Icon from './Icon.astro';
 import Photo from './Photo.astro';
 import SectionNav from './SectionNav.astro';
+import TripOtherStay from './TripOtherStay.astro';
 import { interestHref } from '../config/site';
 import { attractionPath, attractionsForPlace, cardLine, getCorridor, getPlace, interestList, pageDescription, placePath } from '../lib/content';
 import { photoPath } from '../lib/photos';
-import { stayLink } from '../lib/partners';
 import { abs, breadcrumbList } from '../lib/schema';
 import type { Attraction, AttractionFigure } from '../lib/types';
 
@@ -244,20 +244,7 @@ function figureCredit(figure: AttractionFigure) {
       {full && place && (
         <section id="stay" class="place-section">
           <h2>Stay in {place.name}</h2>
-          <ul class="aff-list">
-            <li>
-              <a class="aff-row" href={stayLink(place.name)} rel="sponsored noopener" target="_blank" data-partner="stay">
-                <span class="aff-photo">
-                  <Photo id={place.slug} alt="" cover={place.cover} />
-                </span>
-                <span class="aff-copy">
-                  <strong>Stay in {place.name}</strong>
-                  <p>Search stays. This page does not name a hotel.</p>
-                  <span class="aff-btn">Search stays</span>
-                </span>
-              </a>
-            </li>
-          </ul>
+          <TripOtherStay />
         </section>
       )}
     </div>

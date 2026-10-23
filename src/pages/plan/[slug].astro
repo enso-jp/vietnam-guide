@@ -4,6 +4,7 @@ import Crumbs from '../../components/Crumbs.astro';
 import FoodTabs from '../../components/FoodTabs.astro';
 import PlanTabs from '../../components/PlanTabs.astro';
 import SectionNav from '../../components/SectionNav.astro';
+import TripOtherStay from '../../components/TripOtherStay.astro';
 import { getGuides, pageDescription } from '../../lib/content';
 import { article, breadcrumbList, faqPage } from '../../lib/schema';
 
@@ -70,5 +71,9 @@ const jsonLd = [
         </section>
       )}
     </div>
+    <aside class="stay-box">
+      <h2>Book your <em>stay</em></h2>
+      <TripOtherStay />
+    </aside>
   </article>
 </Base>

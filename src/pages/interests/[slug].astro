@@ -5,6 +5,7 @@ import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import Photo from '../../components/Photo.astro';
 import SectionNav from '../../components/SectionNav.astro';
+import TripOtherStay from '../../components/TripOtherStay.astro';
 import { interestHref, interestKeyFromSlug, interestLabels, interestPublicSlug } from '../../config/site';
 import interestPhotos from '../../content/interest-photos.json';
 import { getInterestCopy, pageDescription } from '../../lib/content';
@@ -117,5 +118,9 @@ function stars(dots: number): string {
         </section>
       ))}
     </div>
+    <aside class="stay-box">
+      <h2>Book your <em>stay</em></h2>
+      <TripOtherStay />
+    </aside>
   </article>
 </Base>

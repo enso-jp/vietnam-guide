@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
+import TripOtherStay from '../../components/TripOtherStay.astro';
 import { getFestivals, getPlace, pageDescription, placePath } from '../../lib/content';
 import { article, breadcrumbList } from '../../lib/schema';
 
@@ -30,5 +31,9 @@ const crumbSchema = [
         return place ? <li><a href={placePath(place)}>{place.name}</a></li> : null;
       })}
     </ul>
+    <aside class="stay-box">
+      <h2>Book your <em>stay</em></h2>
+      <TripOtherStay />
+    </aside>
   </article>
 </Base>

@@ -2,8 +2,8 @@
 import { existsSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import Base from '../../layouts/Base.astro';
-import BookStay from '../../components/BookStay.astro';
 import Crumbs from '../../components/Crumbs.astro';
+import TripOtherStay from '../../components/TripOtherStay.astro';
 import DiningMark from '../../components/DiningMark.astro';
 import Photo from '../../components/Photo.astro';
 import SectionNav from '../../components/SectionNav.astro';
@@ -262,7 +262,10 @@ const secondPhoto = kind === 'dish' && dish && photoPath(`${dish.slug}-2`) ? `${
           </div>
         </div>
         <aside class="rail">
-          <BookStay placeSlug={city?.slug} />
+          <div class="stay-box">
+            <h2>Book your <em>stay</em></h2>
+            <TripOtherStay />
+          </div>
         </aside>
       </div>
     )}
