@@ -2,21 +2,66 @@
   "slug": "son-la",
   "name": "Son La food guide",
   "placeSlug": "son-la",
-  "summary": "Son La eats a Thái hearth: pa pỉnh tộp, hearth-smoked buffalo, cơm lam, and rượu cần, at Bản Mòng or in town. Moc Chau’s yogurt, hau plum, and tea stay on the plateau. Stall prices and both market clocks are check on arrival.",
+  "summary": "Son La eats a Thái hearth and a Hmong pot: pa pỉnh tộp, hearth-smoked buffalo, cơm lam, xôi ngũ sắc, nậm pịa, and rượu cần. The fish is not stuffed one way. The buffalo is not smoked on one clock. Mộc Châu yogurt, hau plum, and tea stay on the plateau. A price or an hour that was not printed is Check on arrival.",
   "heroSlug": "thit-hun-khoi",
   "body": [
-    "Eat this valley as itself. The fish is split along the back, stuffed with ginger, lemongrass, and mắc khén, then grilled and eaten with sticky rice and chẩm chéo. The buffalo is the plate that keeps. Cơm lam comes out of the bamboo tube. Rượu cần is the jar on the Bản Mòng floor, through the pipes, with the meal and the xòe.",
-    "Chợ Trung tâm is the morning hall on the old Chiềng Lề street, now inside phường Tô Hiệu. Chợ 7-11 is the other daily hall, in phường Quyết Thắng. The Saturday stalls on Hoàng Quốc Việt run only from 19:30 to 23:00 on the two walking-street nights. What is on the breakfast plate, and every clock, is check on arrival."
+    "Start with the fish and the buffalo. Bảo tàng tỉnh Sơn La splits a stream fish along the back, stuffs it with ginger, lemongrass, and mắc khén, and sends it to the table with xôi nếp. Vietnam.vn, on 2 April 2024, stuffs carp, trôi, or trắm with herbs, hạt dổi, and sa nhân shoots, then rubs the outside with galangal powder and toasted rice powder. Báo Sơn La, on 4 September 2020, keeps the organs, removes the gall, and allows rô phi. Vietnamnet, on 16 March 2019, adds mương and calls the taste hot, sour, and sweet. All four lists stay.",
+    "The buffalo is the plate that keeps, and the smoke is not one clock. The museum handbook leaves it black outside and red inside, with forest chili, pepper, and mắc khén. Báo Sơn La, on 2 July 2021, dries it over the fire for a few days, then steams it and dries it again. The same paper, on 15 May 2025, quotes a Chiềng Cơi workshop: marinate 1–2 hours, then smoke about 6–8 hours to a dark brown. Eat it at Bản Mòng or carry it. A stall price is Check on arrival.",
+    "Cơm lam, nậm pịa, xôi ngũ sắc, măng bói, and the jar sit on the same table. Chợ Trung tâm is the morning hall on the old Chiềng Lề street, now inside phường Tô Hiệu. Chợ 7-11 is the other daily hall, in phường Quyết Thắng. The Saturday stalls on Hoàng Quốc Việt run only from 19:30 to 23:00 on the two walking-street nights. What is on the breakfast plate, and both hall clocks, is Check on arrival. Mộc Châu yogurt, hau plum, tea, and the snails at Suối Bàng stay on the plateau."
   ],
-  "specialtiesLead": "Start with the smoked buffalo. The fish, the bamboo-tube rice, and the jar are the rest of the same meal.",
+  "specialtiesLead": "The smoked buffalo is the plate to know first. The other specialties are the ones Bảo tàng tỉnh Sơn La, Báo Sơn La, Vietnam.vn, and Vietnamnet name.",
   "dishSlugs": ["thit-hun-khoi"],
   "sections": [
     {
-      "id": "where",
-      "heading": "Where to eat",
-      "nav": "Where to eat",
+      "id": "specialties",
+      "heading": "Son La specialties",
+      "nav": "Specialties",
       "paragraphs": [
-        "Bản Mòng is the stilt-house meal: the grilled fish, the smoked meat, cơm lam, forest greens, and the jar. The town table is the same family of dishes, without a named restaurant. Moc Chau yogurt is not this meal."
+        "Forty-two more specialties follow the buffalo. Where two accounts disagree, both stay. Báo Sơn La, on 16 July 2026, prints about 120,000–150,000 VND for minced meat in a leaf at a Chiềng Cơi kitchen, and about 30,000–60,000 VND for a 200 g box of dry chẩm chéo. Every other price, and every hour that was not printed, is Check on arrival."
+      ],
+      "dishSlugs": [
+        "son-la--pa-pinh-top",
+        "son-la--com-lam",
+        "son-la--nam-pia",
+        "son-la--thit-chua-dao",
+        "son-la--be-chao",
+        "son-la--ruou-can",
+        "son-la--cham-cheo",
+        "son-la--xoi-ngu-sac",
+        "son-la--xoi-tim",
+        "son-la--cheo-ca-nuc",
+        "son-la--nhua-pinh",
+        "son-la--nom-da-trau",
+        "son-la--chao-mac-nhung",
+        "son-la--vit-chieng-mai",
+        "son-la--canh-bon",
+        "son-la--mang-boi",
+        "son-la--lap-xuong-gac-bep",
+        "son-la--ba-chi-gac-bep",
+        "son-la--ca-tram-gac-bep",
+        "son-la--bo-gac-bep",
+        "son-la--ga-nuong",
+        "son-la--trau-nuong",
+        "son-la--da-trau-muoi",
+        "son-la--canh-von-ven",
+        "son-la--thang-co",
+        "son-la--men-men",
+        "son-la--banh-giay",
+        "son-la--banh-ngo-nuong",
+        "son-la--ruou-ngo",
+        "son-la--ruou-nep",
+        "son-la--mam-ca",
+        "son-la--tuong-thua-o",
+        "son-la--mang-chua-xao-trung",
+        "son-la--mang-muoi",
+        "son-la--bo-xit-rang",
+        "son-la--ruot-lon-nuong",
+        "son-la--sau-tre-rang",
+        "son-la--nom-hoa-ban",
+        "son-la--nom-hoa-bo-pip",
+        "son-la--nuc-nac",
+        "son-la--rau-rung",
+        "son-la--tao-meo"
       ]
     },
     {
@@ -24,56 +69,31 @@
       "heading": "Markets",
       "nav": "Markets",
       "paragraphs": [
-        "Two daily halls and one Saturday street. No opening clock was printed for either hall. The Saturday stalls exist only when the walking street is on."
+        "Two daily halls and one Saturday street. These are markets, not specialties. No opening clock was printed for either hall. The Saturday stalls exist only when the walking street is on."
       ],
       "spots": [
         {
           "name": "Central market",
           "nameVi": "Chợ Trung tâm",
           "address": "Tổ 12, phường Chiềng Lề, now inside phường Tô Hiệu",
-          "note": "The 2024 trade list puts the hall at 8,940 m², hạng 2, solid, meeting daily. The clock, and the breakfast plate, are check on arrival."
+          "note": "Sở Công Thương, on the list updated 10 July 2024, puts the hall at 8,940 m², hạng 2, solid, meeting daily. The clock, and the breakfast plate, are Check on arrival."
         },
         {
           "name": "Cho 7-11",
           "nameVi": "Chợ 7-11",
           "address": "Tổ 8, phường Quyết Thắng",
-          "note": "The other hạng 2 daily market, 6,615 m² on the same 2024 list. A dish list was not printed. The clock is check on arrival."
+          "note": "The other hạng 2 daily market, 6,615 m² on the same 2024 list. A dish list was not printed. The clock is Check on arrival."
         },
         {
           "name": "Saturday stalls",
           "nameVi": "Phố đi bộ Hoàng Quốc Việt",
           "address": "Hoàng Quốc Việt, from the Highway 6 junction to bản Mé Ban",
-          "note": "Food stalls only on the walking-street nights, 19:30–23:00, two Saturdays a month. Which two Saturdays are check on arrival. Other nights the street is an ordinary road. Stall prices are check on arrival."
+          "note": "Food stalls only on the walking-street nights, 19:30–23:00, two Saturdays a month, in Báo Sơn La on 28 May 2025. Which two Saturdays are Check on arrival. Other nights the street is an ordinary road. Stall prices are Check on arrival."
         }
       ]
-    },
-    {
-      "id": "plates",
-      "heading": "The Thai table",
-      "nav": "The table",
-      "paragraphs": [
-        "Pa pỉnh tộp is the grilled stream fish, with sticky rice and chẩm chéo. Nậm pịa is the offal pot the handbook sets from cow or goat blood, eaten hot with banana flower and mint. Thịt chua người Dao is belly pork soured in a jar, for Tết and for guests, eaten with lá lốt. Bê chao, in one handbook sentence, is sliced calf with ginger, lemongrass, and pepper, passed through hot oil. Forest vegetables and ban flower stir-fried with sour bamboo sit beside the Bản Mòng grill."
-      ]
-    },
-    {
-      "id": "drinks",
-      "heading": "The jar",
-      "nav": "The jar",
-      "paragraphs": [
-        "Rượu cần is drunk from the jar at Bản Mòng, through the pipes, with the evening meal and the xòe. It is not a morning drink. A strength and a price are check on arrival."
-      ]
-    },
-    {
-      "id": "away",
-      "heading": "On the plateau",
-      "nav": "Moc Chau",
-      "paragraphs": [
-        "Cơm lam is also the tube at Bản Mòng. The plateau plate of the same rice stays in Moc Chau, with the yogurt, the hau plum, and the tea."
-      ],
-      "dishSlugs": ["com-lam"]
     }
   ],
-  "verified": "22 Oct 2026",
-  "seoTitle": "Son La food guide — Thai table at Ban Mong, not yogurt",
-  "seoDescription": "Pa pinh top, smoked buffalo, bamboo-tube rice, and jar wine at Ban Mong or in town. Moc Chau yogurt stays on the plateau. Prices are check on arrival."
+  "verified": "23 Oct 2026",
+  "seoTitle": "Son La food — Thai hearth, not the plateau yogurt",
+  "seoDescription": "Pa pỉnh tộp, smoked buffalo, bamboo-tube rice, five-color sticky rice, and jar wine in Sơn La. Stuffings and smoke times disagree. Prices are Check on arrival."
 }

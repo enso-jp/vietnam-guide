@@ -96,6 +96,180 @@ The city table is a Thái hearth: stream fish, smoked meat, bamboo-tube rice, ja
 
 Mộc Châu snails at Suối Bàng, plateau yogurt, hau plum, and Mộc Châu tea are named in the same handbook and belong to `moc-chau` (S6). They are not city dishes.
 
+## Specialties added 23 Oct 2026
+
+The public list is every dish below, plus the eight already in this file. Streets stay streets. No restaurant is a pick. Cooperative names are source clues. A price or an hour with no figure is `Check on arrival` and `UNSOURCED`.
+
+### Pa pỉnh tộp
+- Vietnamese name: Pa pỉnh tộp
+- What it is: Four stuffing lists stay. Stream fish, ginger, lemongrass, mắc khén, with xôi nếp (S6). Carp, trôi, or trắm, plus herbs, hạt dổi, sa nhân shoots, galangal powder, and thính gạo (S34). Carp, trôi, trắm, or rô phi, organs kept, gall removed, fresh chili, cilantro, onion, mint (S43). Trắm, trôi, chép, mương, and other river fish, hot, sour, and sweet (S40)
+- How to eat it: From the grill. Hour — Check on arrival — UNSOURCED
+- When to order it: The Bản Mòng meal or the town table
+- Area, not a shop: Bản Mòng and the town. No shop is a pick
+- Sources: S6, S34, S40, S43
+
+### Cơm lam
+- Vietnamese name: Cơm lam
+- What it is: New sticky rice, banana leaf or fresh lá rong, wood fire (S6). Nếp nương soaked overnight, banana-leaf stopper, charred tube, silk layer (S43). Do not merge them
+- How to eat it: From the tube. A salt dip — Check on arrival — UNSOURCED
+- Area, not a shop: Bản Mòng and the town table. The Mộc Châu slug stays on `moc-chau`. This pass files `son-la--com-lam` because that record describes Ban Ang
+- Sources: S6, S43
+
+### Nậm pịa
+- Already in this file from S6. No second method was re-read on 23 Oct 2026
+
+### Thịt chua người Dao
+- Already in this file from S6. S35 names it and adds no method
+
+### Bê chao
+- Already in this file from S6. A second method was not found
+
+### Rượu cần
+- Already in this file from S6 and S18. S18 was not refetched on 23 Oct 2026. The jar and the pipes stay as stored
+
+### Chẩm chéo
+- Vietnamese name: Chẩm chéo
+- What it is: Dry and wet (S36). Dry is salt, chili, garlic, rau mùi tàu, lime leaf, and herbs, roasted or grilled, then pounded, for fruit or a marinade, about 30,000–60,000 VND for 200 g. Wet is the fresh pound in a stone mortar, for sticky rice, grilled meat, stream fish, boiled chicken, and forest greens. S35 pounds mắc khén, garlic, and chili. S43 names mắc khén and grilled chili. The 16 July 2026 ingredient sentence does not print mắc khén. Keep both
+- How to eat it: As the dip. Wet price and hour — Check on arrival — UNSOURCED
+- Area, not a shop: The Thái table. The dry box is something to carry. No shop is a pick
+- Sources: S35, S36, S43
+
+### Xôi ngũ sắc
+- Vietnamese name: Xôi ngũ sắc
+- What it is: Bản Cọ Châu, phường Chiềng Cơi. Red from lá cơm nếp đỏ boiled about 30 minutes, purple from lá cơm nếp đen, yellow from old turmeric, green from ginger leaf or lá cơm xôi xanh or sticky-rice-straw ash with black rice leaf. Soak about 10 hours. White is named in the meanings and has no dye step (S42). S43 soaks nếp tan in khảu cắm for white, purple, red, yellow, and green. Meanings also disagree: S42’s speaker versus âm, dương, five elements, and solidarity in S43
+- How to eat it: With grilled meat cake, grilled fish, grilled chicken, ruốc, or toasted sesame salt, or alone. Hour — Check on arrival — UNSOURCED
+- Area, not a shop: Bản Cọ Châu, phường Chiềng Cơi
+- Sources: S42, S43
+
+### Xôi tím
+- Vietnamese name: Xôi tím
+- What it is: Lá khẩu cắm, green when fresh, boiled to a deep purple, then the liquor dyes the rice. Xã Thuận Châu. Feasts, Tết, guests (S36). Caption pairs it with chéo cá nục
+- How to eat it: As the purple rice. Price and hour — Check on arrival — UNSOURCED
+- Area, not a shop: Xã Thuận Châu
+- Sources: S36
+
+### Chéo cá nục
+- Vietnamese name: Chéo cá nục
+- What it is: Named only in the S36 caption with xôi tím. Method — Check on arrival — UNSOURCED
+- Area, not a shop: Not pinned
+- Sources: S36
+
+### Nhứa pỉnh
+- Vietnamese name: Nhứa pỉnh
+- What it is: Named with the grills (S38). Pork, rau cải, scallion, garlic, chili, mắc khén, pepper, banana leaf, two bamboo sticks (S36), about 120,000–150,000 VND a plate at a Chiềng Cơi kitchen. S43 beats mince with egg and allows banana leaf or dong leaf, grilled or buried in hot ash. Do not publish Nhà hàng Phố núi as a pick
+- How to eat it: With sticky rice or plain rice, on S36. A market price — Check on arrival — UNSOURCED
+- Area, not a shop: Phường Chiềng Cơi for the printed price
+- Sources: S36, S38, S43
+
+### Nộm da trâu
+- Vietnamese name: Nộm da trâu
+- What it is: Singe, scrape to the clear layer, boil, cold water, wide thin slices, hot water with lime, trám, garlic, sour-bamboo water, mắc khén, peanuts, herbs, banana flower, rau dớn (S34). S43 says the sour note is sour-bamboo water, not vinegar or lime. S41 also names forest banana flower. Keep the lime and the no-lime accounts
+- How to eat it: As the salad. Hour and price — Check on arrival — UNSOURCED
+- Area, not a shop: The Thái table
+- Sources: S34, S41, S43
+
+### Cháo mắc nhung
+- Vietnamese name: Cháo mắc nhung
+- What it is: Green fruit in the tomato family, slightly bitter and pungent, a little sweet finish. Minced meat, sticky rice, bone broth for many hours, bột nêm, fish sauce, ginger, pepper, fruit last (S34)
+- How to eat it: As the porridge. Hour and price — Check on arrival — UNSOURCED
+- Area, not a shop: Not pinned to a street. The plant is on nương and rock faces
+- Sources: S34
+
+### Vịt Chiềng Mai
+- Vietnamese name: Vịt Chiềng Mai
+- What it is: Xã Chiềng Mai, huyện Mai Sơn. About 1.5–1.7 kg, small bones, yellow skin, fragrant sweet meat, soft but not falling apart, mostly semi-free range. Boiled, steamed, charcoal, om sấu, with bamboo, plus xôi, cháo, lemongrass-chili stir-fry, and galangal stir-fry (S34)
+- How to eat it: In one of those preparations. Hour and price — Check on arrival — UNSOURCED
+- Area, not a shop: Xã Chiềng Mai, Mai Sơn
+- Sources: S34
+
+### Canh bon
+- Vietnamese name: Canh bon
+- What it is: Three pots. Young sweet bon, also called khoai nước, purple spot on the leaf, soaked, with mắc khén and hearth-dried buffalo or beef skin burned until it puffs (S40). Lá bon, wild eggplant, chili, mắc khén, onion, bạc nhạc bò or beef, salt, mì chính, lá lốt, cooked with beef or beef bone (S43). Buffalo skin and cà dại (S41). Do not pick one
+- How to eat it: As the soup. A simmer time was not in S40 or S43. Hour and price — Check on arrival — UNSOURCED
+- Area, not a shop: Thái households. No shop is a pick
+- Sources: S40, S41, S43
+
+### Măng bói
+- Vietnamese name: Măng bói (nó bói)
+- What it is: Sweet bamboo, season from the start of April through November. Boil about 20 minutes. Also raw with herbs, stir-fried, salad with ban flower, simmered with bone, or pickled with garlic, chili, salt, and vinegar for a few days (S39)
+- How to eat it: With chẩm chéo, or as the pickle on a morning phở table. Market hour and price — Check on arrival — UNSOURCED
+- Area, not a shop: City market
+- Sources: S39
+
+### Lạp xưởng gác bếp, ba chỉ gác bếp, cá trắm gác bếp, thịt bò gác bếp
+- What they are: Separate products of one Chiềng Cơi workshop (S37). Meats: cut along the grain, mắc khén, garlic, ginger, chili, 1–2 hours, then about 6–8 hours to dark brown. Lạp xưởng was a 2023 provincial rural-industry product. Ba chỉ hun khói is the 2022 name for the belly (S38). Cá trắm has no separate recipe. Do not publish HTX Kim Tiền Phát as a pick
+- How to eat them: Eat or carry. Price and hour — Check on arrival — UNSOURCED
+- Area, not a shop: Tổ 3, phường Chiềng Cơi. Meat is also chosen at chợ 7/11
+- Sources: S37, S38
+
+### Gà nướng
+- Vietnamese name: Gà nướng
+- What it is: Named with pa pỉnh tộp, nhứa pỉnh, and cơm lam (S38). S43 roasts mắc khén, chili, garlic, ginger, and salt before they season meat. A chicken-only recipe was not printed. S17 names grilled chicken at Bản Mòng and was not refetched
+- Hour and price — Check on arrival — UNSOURCED
+- Sources: S17, S38, S43
+
+### Thịt trâu nướng, da trâu muối chua, canh lá vón vén, rượu nếp
+- What they are: S41. Square pieces grilled. Sour skin, crunchy, lightly sour, for a housewarming or a feast, salting time not printed. Lá vón vén with scorched buffalo tail, lightly sour, sweet broth. Rượu nếp is the cup with the dried meat. The dried buffalo’s own clocks are in the public buffalo paragraph: a few days, then steam and dry again (S41), against the handbook’s black-outside red-inside (S6), against about 6–8 hours (S37)
+- Hour and price — Check on arrival — UNSOURCED
+- Sources: S6, S37, S41
+
+### Thắng cố, mèn mén, bánh giày
+- What they are: Hmong dishes named together (S35). Speaker in xã Co Mạ: men cook thắng cố, women mill mèn mén. No ingredient list. Vietnamnet’s horse pot is on the Mộc Châu plateau, with 12 spices of which it names thảo quả, hoa hồi, quế chi, lemongrass, chili, ginger, and cây thắng cố, simmered for hours, eaten with mèn mén, bánh ngô nướng, and rượu ngô (S40). Bánh giày is now a product. Methods for mèn mén and bánh giày — Check on arrival — UNSOURCED
+- Area: Xã Co Mạ for the naming. The horse pot is the plateau
+- Sources: S35, S40
+
+### Mẳm cá
+- Vietnamese name: Mẳm cá
+- What it is: Named with the Thái dishes (S35) and with Thái and Mường communities on the Đà reservoir (S38). Method — Check on arrival — UNSOURCED
+- Sources: S35, S38
+
+### Tương thúa ố
+- Vietnamese name: Tương thúa ố
+- What it is: Thái sauce. OCOP 3 sao from bản Pặt, Mường Bú (S35). Recipe — Check on arrival — UNSOURCED. Do not publish the cooperative as a pick
+- Sources: S35
+
+### Măng chua xào trứng
+- Vietnamese name: Măng chua xào trứng
+- What it is: Muong, bản Heo, xã Tà Hộc, Mai Sơn. Sour măng bương, plain water about 15 minutes, then fry, egg about 5 minutes. Garlic, mắc khén, dried chili, salt, mì chính. Duck or chicken egg (S40)
+- Area: Bản Heo
+- Sources: S40
+
+### Măng muối chua
+- Vietnamese name: Măng muối chua
+- What it is: Named as the shared preservation dish (S35). Not the măng bói pickle and not the egg stir-fry. Method — Check on arrival — UNSOURCED
+- Sources: S35
+
+### Bọ xít rang
+- Vietnamese name: Bọ xít rang
+- What it is: Longan blossom and fruit set. Light salt water, then sour-bamboo water, chili, garlic, salt, mì chính, about 5 minutes, fried, lime leaf (S40)
+- Area: Longan gardens. No stall
+- Sources: S40
+
+### Ruột lợn non nướng
+- Vietnamese name: Ruột lợn non nướng
+- What it is: Bản Heo. Salt and lime, boil about 2 minutes with ginger and salt, season about 2 minutes, grill on a small stick or lay stem. Guests, weddings, Tết (S40)
+- Sources: S40
+
+### Sâu tre rang lá chanh
+- Vietnamese name: Sâu tre rang lá chanh
+- What it is: Thái đen. Early autumn. Vietnamnet calls the lime-leaf fry the common plate and also names sour-bamboo stir-fry, a crisp fry, steaming, and a basket steam. A fry method was not printed. Crisp, rich, fragrant (S40)
+- Sources: S40
+
+### Nộm hoa ban, nộm hoa bó píp, quả núc nác
+- What they are: S38. Ban-flower salad, crisp and sweet. Bó píp salad, fragrant and bùi. Núc nác, faintly bitter. Methods — Check on arrival — UNSOURCED
+- Sources: S38
+
+### Rau rừng
+- Already in this file. S36 and S43 add the wet dip and the salad ingredients. No single recipe
+
+### Táo mèo
+- Vietnamese name: Táo mèo (sơn tra)
+- What it is: Fresh, tea, wine, or vinegar (S34). No kitchen recipe. Medicinal uses were named and not copied onto the public dish
+- Price — Check on arrival — UNSOURCED
+- Sources: S34
+
+Left off the public list: ốc đá Suối Bàng, yogurt, hau plum, and Mộc Châu tea (S6). Rượu hoẵng, because the national ethnic-food item was not refetched. Grilled offal, because S17 returned an error and the stored line has no Vietnamese name. Cá suối nướng is the same family as pa pỉnh tộp in S6, not a second dish. Măng đắng stays off this city list, as already recorded.
+
 ## Food streets and markets
 
 ### Central market
