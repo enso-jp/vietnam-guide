@@ -1,0 +1,32 @@
+{
+  "slug": "ben-tre-to-can-tho",
+  "name": "Ben Tre to Can Tho",
+  "from": "Ben Tre",
+  "to": "Can Tho",
+  "summary": "Go by road. Direct minibuses run between the two towns, with no change in Ho Chi Minh City. Travel time is Check on arrival, so leave in the morning. There is no train.",
+  "modes": [
+    {
+      "mode": "Minibus",
+      "duration": "Check on arrival",
+      "note": "Direct minibuses run a few times a day. Departure point, last bus, and fares are Check on arrival."
+    },
+    {
+      "mode": "Car",
+      "duration": "Check on arrival",
+      "note": "Private cars and taxis run the same roads. A driving time is Check on arrival."
+    },
+    {
+      "mode": "Train",
+      "duration": "No passenger service",
+      "note": "There is no railway in the Mekong Delta."
+    }
+  ],
+  "seoTitle": "Ben Tre to Can Tho — minibus or car",
+  "seoDescription": "Direct minibuses run from Ben Tre to Can Tho; travel time is Check on arrival. No train.",
+  "faqs": [
+    {
+      "q": "Do you have to go back through Ho Chi Minh City?",
+      "a": "No. Minibuses run directly between Ben Tre and Can Tho a few times a day. Ask for the last departure the day before."
+    }
+  ]
+}

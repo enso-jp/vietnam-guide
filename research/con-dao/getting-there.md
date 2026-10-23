@@ -30,3 +30,17 @@ Season limit on the journey:
 - Superdong says the printed departures can move with tide and weather (S18). A month when boats stop was not on that page.
 - The 16 May 2025 night-market report says the island had entered the rainy season and that the market has no roof (S15). That is one May observation, not a climate calendar. A dry-season month range was not on the park pages read. Season window: Check on arrival — UNSOURCED.
 - Turtle watching, when it runs, is an overnight on the islets from 18:00 to 06:00, and a release window 05:30–07:30 on mornings when hatchlings are ready (S10). A nesting-month calendar was not in that notice.
+
+## Route pass, 23 Oct 2026
+
+Added for `src/content/routes/ho-chi-minh-city-to-con-dao.json`. Accessed 23 Oct 2026.
+
+- Flight SGN–VCS: Vietjet’s route page prints two round trips a day, departures 10:30 and 13:00, returns 9:20 and 11:50, “approximately 40 minutes” each, and in the next section “roughly 55 minutes to 1 hour and 15 minutes”. It also puts the airport about 14 km from the town (the AIP prints 10 km). Both figures stay. https://www.vietjetair.com/en/destinations/experience/how-to-book-the-best-priced-flight-tickets-from-ho-chi-minh-city-to-con-dao
+- Vũng Tàu–Côn Đảo boat: suspended. VietnamPlus/TTXVN, 1 Aug 2026: Phu Quoc Express suspended the Thăng Long route after a technical fault on the 07:30 sailing that day, until further notice; Trần Đề–Côn Đảo continues. https://www.vietnamplus.vn/tam-dung-hoat-dong-tau-cao-toc-tuyen-vung-tau-di-con-dao-va-nguoc-lai-post1127543.vnp — same report on ANTV: https://antv.gov.vn/kinh-te-5/tam-dung-hoat-dong-tau-cao-toc-tuyen-vung-tau-di-con-dao-va-nguoc-lai-56823F99D.html
+- Before the suspension the operator printed about 3 hours 15 minutes from Cầu Đá, departure 07:30, no Monday sailings (April 2026 schedule). VietnamPlus’s photo caption says 4 hours. Both stay. https://phuquocexpress.com/en/ferry-schedule-for-april-2026
+- Reseller pages (condao.express, vetaucondao.com) say the route may restart in January 2027. Not an operator notice. Not used.
+- Trần Đề–Côn Đảo, Phu Quoc Express: Trần Đề fishing port to Bến Đầm, about 95–105 km of sea, “about 2 hours 15 minutes” in the overview and “approximately 2:30 hours” in the FAQ of the same page; reference 08:00 out and 13:30 back; tide and weather can move times. https://phuquocexpress.com/en/guide-to-moving-from-tram-to-con-dao
+- That operator page says the Superdong pier is about 100 m from its port. A reseller page says 4.1 km. Conflict; the route page does not print a distance.
+- Superdong schedule re-opened 23 Oct 2026: Sóc Trăng–Côn Đảo 08:00 and 13:15, back 08:00 and 13:00; no duration, no fare (S18, unchanged).
+- Drive time Ho Chi Minh City–Trần Đề: Check on arrival — UNSOURCED.
+- 12go `ho-chi-minh-city/con-dao` and `vung-tau/con-dao` list no trips. No bus partner set.

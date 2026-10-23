@@ -218,4 +218,30 @@ Checked: 23 Oct 2026
 - Accessed: 23 Oct 2026
 - Supports: Dated 3 Jun 2024. The news peg is the Tam Coc–Tràng An festival at Tam Cốc–Bích Động. The plates are then placed elsewhere: xôi trứng kiến in Nho Quan, ốc núi in Tam Điệp caves, gỏi cá nhệch in Kim Sơn, and dê quay, cháo dê, lòng đắng, and cơm cháy sốt dê with Ninh Bình restaurants. Not used to add a Tam Coc plate.
 
+### S37
+- URL: https://vi.wikipedia.org/wiki/Khu_du_lịch_sinh_thái_Thung_Nham
+- Publisher: Vietnamese Wikipedia
+- Accessed: 23 Oct 2026
+- Supports: Thung Nham basin more than 40 ha in the Hoa Lư special-use forest, phường Nam Hoa Lư. Bird garden more than 300 ha, about 40,000 birds, about 5,000 nests, 46 species. Boatman stops at a distance from the bird island; bicycle or boat to the garden. Động Vái Giời 439 steps, about 5,000 m², three levels. Động Tiên Cá more than 1,500 m, bamboo raft walkway. Hang Bụt 500 m, no lights.
+
+### S38
+- URL: https://vi.wikipedia.org/wiki/Chùa_Bích_Động
+- Publisher: Vietnamese Wikipedia
+- Accessed: 23 Oct 2026
+- Supports: Three separate halls Hạ, Trung, Thượng up the slope; Xuyên Thủy under them. Chùa Hạ five bays on a high base, monolithic stone columns over 4 m. Founding 1428, monks Trí Kiên and Trí Thể in 1705, bell 1707, first name "Bạch Ngọc Thạch Sơn Đồng", renamed 1774 by Trịnh Sâm. The founding years disagree with S5; the page uses S5.
+
+### S39
+- URL: https://vi.wikipedia.org/wiki/Hành_cung_Vũ_Lâm
+- Publisher: Vietnamese Wikipedia (Đền Thái Vi redirects here)
+- Accessed: 23 Oct 2026
+- Supports: Vũ Lâm was a Trần military base; Trần Thái Tông (1225–1258) founded it near hang Cả; on 7 May 1285 Trần Thánh Tông and Trần Nhân Tông beat part of the Mongol-Yuan army there.
+
+### S40
+- URL: https://vi.wikipedia.org/wiki/Cố_Viên_Lầu
+- Publisher: Vietnamese Wikipedia
+- Accessed: 23 Oct 2026
+- Supports: About 20,000 m², 22 old houses from the northern delta, mostly Nguyễn period onward, added to Tam Cốc–Bích Động in 2008. Bounds: road to Thái Vi east, sông Ngô Đồng west, the pier south, cửa Quen hills north. Lưu Phương house (Kim Sơn, 90 m², five bays, xoan wood, fish-scale tiles, red brick, reception). Ý Yên house 1883, Lý ceramics. Thọ Xuân house, more than 100 Gia Long dragon jars, 25–65 cm.
+
+S3 and S5 were re-opened on 23 Oct 2026 for the attraction pass. The S3 Tam Cốc–Bích Động and Thung Nham rows and the S5 cave and Bích Động text match the entries above.
+
 Pages that were not used, because they did not open: the provincial environment note at sonnmt.ninhbinh.gov.vn (security check), the Nam Hoa Lư ward introduction (security check), the visitor-support page at hotrodukhachninhbinh.vn (HTTP 500), the national-tourism Bích Động page (timeout), the SinhTour eating page (security check), and a commercial “ẩm thực Tam Cốc” article that returned HTTP 500. On 23 Oct 2026, https://baoninhbinh.org.vn/ve-ninh-binh-du-le-hoi-sac-vang-tam-coc-2406010551000.html and https://baoninhbinh.org.vn/trien-khai-mo-hinh-diem-tuyen-pho-an-toan-thuc-pham-tai-khu-du-lich-tam-coc-260908120141398.html both returned a civil-defense page. Their snippets were not used. The 15 Feb 2023 provincial list at ttdn.ninhbinh.gov.vn (đặc sản Ninh Bình những món ngon) was opened and does not place its plates at Tam Coc. It was not used to fill the gap.

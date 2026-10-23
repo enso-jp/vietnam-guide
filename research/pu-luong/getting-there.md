@@ -32,3 +32,7 @@ Season limit on the journey:
 - S20 calls both May–June and September–October ripe-rice months, golden, cool, and with little rain. That fights the green-versus-gold split on S1 and S6.
 - S7 says Bản Đôn is busiest in February, March, September, and October.
 - A closure notice for the valley road was not opened. Check on arrival — UNSOURCED.
+
+## Route findings, 23 Oct 2026 (route pages pass)
+
+- Ninh Bình to Pù Luông | No official kilometre, minute, or scheduled bus found. Check on arrival — UNSOURCED. S6 is the only sourced line: break the Hà Nội trip in Ninh Bình or Mai Châu. Commercial transfer pages were not used. https://12go.asia/en/travel/ninh-binh/pu-luong opened 23 Oct 2026 lists vans; not used as a source.

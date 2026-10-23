@@ -4,30 +4,58 @@
   "name": "The three caves",
   "nameVi": "Tam Cốc",
   "kicker": "Sampan through three water caves",
-  "summary": "Board at Đình Các and ride sông Ngô Đồng through hang Cả, hang Hai, and hang Ba, then back to the same pier. Vietnamese Wikipedia prints about 2 hours. The ticket table prints no duration. Skip it if you wanted the Tràng An boat on sông Sào Khê.",
+  "summary": "Sampan ride on the Ngô Đồng through three water caves and the rice, about 2 hours out and back. A rower takes you from the Tam Cốc pier through hang Cả, hang Hai, and hang Ba, then back to the same pier. The ticket also covers Bích Động pagoda and Thái Vi temple. Skip it if you came for the Tràng An boat, which runs on a different river.",
   "dots": 4,
   "district": "Sông Ngô Đồng",
-  "timeNeeded": "About 2 hours out and back",
-  "fee": "250,000 đồng for an adult without the shuttle",
-  "getThere": "From Đình Các, in thôn Văn Lâm",
+  "timeNeeded": "About 2 hours on the water",
+  "fee": "250,000 VND for an adult",
+  "getThere": "Walk to the pier at Đình Các, in thôn Văn Lâm",
   "bestMonths": "Ripe-rice days at the end of May",
   "verified": "23 Oct 2026",
-  "heroCaption": "One sampan at the bright cave mouth, seen from inside the rock",
+  "heroCaption": "A sampan heading for the bright mouth of a cave on the Ngô Đồng",
+  "notice": {
+    "title": "One ticket, four stops",
+    "body": "The Tam Cốc ticket covers the boat, Thái Vi temple, Động Tiên cave, and Bích Động pagoda. Thung Nham, the Thung Nắng boat, and Hang Bụt each need their own ticket."
+  },
+  "body": [
+    "The rower leaves the pier at Đình Các and follows the Ngô Đồng, a channel through the rice with limestone towers on both sides. The first cave, hang Cả, is the longest, about 180 m, with a ceiling a little over 5 m. Floods rarely reach its roof, so it keeps the most stalactites.",
+    "Hang Hai is about 90 m long with a ceiling around 3.5 m. Hang Ba is just over 80 m and the lowest, under 3 m, and its rock is worn smooth by floodwater. Past hang Ba the river opens into streams, fields, and forest before the boat turns back.",
+    "The rice sets the colour of the trip: green while it grows, yellow when it ripens, silver when water covers the fields. In 2026 the ripe-rice festival opened on 24 May with a procession from the pier and rice cut in the yellow fields."
+  ],
+  "figures": [
+    {
+      "id": "tam-coc-three-caves-2",
+      "caption": "A Tam Cốc rower working the oars with her feet",
+      "alt": "A woman in a conical hat rowing a green sampan with her feet on the Ngô Đồng"
+    }
+  ],
   "gettingThere": [
-    "The pier is bến thuyền Tam Cốc, at Đình Các in thôn Văn Lâm. You board there and return there. Bích Động is 2 km from the pier. Đền Thái Vi is 2 km by road, or a walk from the boat. A minute for either walk is Check on arrival. The 23 May 2023 note names bến Kẽm Gió as a step-off, with no minute. Check on arrival."
+    "The pier is at Đình Các in thôn Văn Lâm, the hamlet where most rooms are, and the boat brings you back to it. Tam Cốc is about 100 km from Hà Nội by road and about 7 km from Ninh Bình city. Bích Động pagoda is 2 km from the pier, and Thái Vi temple 2 km by road."
   ],
   "legs": [
     {
       "heading": "From Hà Nội",
-      "body": "SE7 leaves at 06:00 and reaches ga Ninh Bình at 08:16 on the railway table, or 08:13 on Asia Train Time, Vexere, and Baolau. Both stay. The station is kilometre 115. A minute from the station to the pier is Check on arrival. The river is chừng 100 km by road, and road minutes are Check on arrival."
+      "body": "Train SE7 leaves Hà Nội at 06:00 and reaches Ninh Bình station a little after 08:10. From the station the site is about 7 km by road."
     },
     {
       "heading": "From thôn Văn Lâm",
-      "body": "The landing is in the hamlet. Bicycles are common, and hire sits at most tourist points. A hire fee is Check on arrival. The electric shuttle is the 350,000 đồng adult ticket on the 27 February 2026 row."
+      "body": "The pier is in the hamlet, on foot. Bicycles are for hire at most tourist points, and a bicycle is the easy way on to Bích Động and Thái Vi after the boat."
     }
   ],
   "hours": "Check on arrival",
-  "admissionNote": "27 February 2026, route Tam Cốc, Đền Thái Vi, Động Tiên, and chùa Bích Động. Without the shuttle: adult 250,000 đồng, child 1–1.3 m 120,000 đồng. With the shuttle: adult 350,000 đồng, child 1–1.3 m 190,000 đồng. Hotline 19009157. A child under 1 m has no line. Check on arrival. Updated 23 May 2023: 120,000 đồng a person a turn, boat 150,000 đồng a trip for 4 domestic guests or 2 international guests, free under 3. DulichToday 2024: adult 120,000 đồng, child 60,000 đồng with no height, boat 150,000 đồng one way. All three stay. Hours are Check on arrival. Cục Di sản văn hóa prints hang Cả khoảng 180 m, hang Hai khoảng 90 m, and hang Ba hơn 80 m. Vietnamese Wikipedia prints 127 m, 60 m, and 50 m. Both sets stay. The ride ends at đền Nội Lâm on the heritage bureau note and at đền Thần Nông on Vietnamese Wikipedia. Both end-names stay.",
+  "admissionNote": "Adult 250,000 VND, child 1–1.3 m 120,000 VND. With the electric shuttle between the stops: adult 350,000 VND, child 1–1.3 m 190,000 VND. The ticket covers the Tam Cốc boat, Đền Thái Vi, Động Tiên, and chùa Bích Động. Hotline 1900 9157.",
+  "links": [
+    {
+      "label": "2026 ticket prices",
+      "url": "https://dulichninhbinh.com.vn/index.php/item/3525",
+      "note": "Ninh Bình tourism promotion center, updated 27 Feb 2026"
+    },
+    {
+      "label": "Tràng An–Tam Cốc–Bích Động",
+      "url": "https://dsvh.gov.vn/danh-lam-thang-canh-trang-an-tam-coc-bich-dong-2946",
+      "note": "Department of Cultural Heritage"
+    }
+  ],
   "interests": [
     "caves",
     "rice",

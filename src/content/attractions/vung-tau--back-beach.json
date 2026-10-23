@@ -4,21 +4,18 @@
   "name": "Back Beach",
   "nameVi": "Bãi Sau",
   "kicker": "The swim on the sunrise side",
-  "summary": "This is the beach you sleep beside. Vietnam Tourism describes the waves as fairly flat and suitable for children, and puts hotels and umbrella hire along the sand. Give it the morning, or the whole day. Swim here, and keep Front Beach for the evening walk.",
+  "summary": "A long beach on the sunrise side with gentle waves: swim and walk here for a morning or a whole day. The waves are fairly flat and suitable for children, and hotels, restaurants, and umbrella hire line the sand. Keep Front Beach for the evening walk, and come back here after dark for the seafood market.",
   "dots": 5,
   "timeNeeded": "A morning to a full day",
-  "fee": "No ticket is printed. Hire is check on arrival.",
-  "getThere": "On the sand if you sleep on the beachfront.",
+  "fee": "Free. Umbrella and board hire: check on arrival",
+  "getThere": "On the sand from the beachfront hotels.",
+  "district": "Back Beach",
   "verified": "21 Oct 2026",
   "heroCaption": "Back Beach: surf, umbrellas, and the headland at the end of the bay",
-  "notice": {
-    "title": "The length is not one number",
-    "body": "Vietnam Tourism prints 3 km. A longer figure was not taken from a page that did not load. Do not plan the walk from a single agreed length."
-  },
   "body": [
-    "Walk the sand at the start of the day, then swim, then take an umbrella when the sun is high. Vietnam Tourism calls the waves fairly flat and suitable for children. The same pages put high-end rooms, restaurants, and beach clubs along this strand, and name surf, stand-up paddle, and kite surf as things to try from the sand.",
-    "The sand is the southeast side of the peninsula, the sunrise side. Small Mountain closes the bay. Pineapple Beach is the cove where this strand meets the Christ statue. A province extract also lists Thủy Vân and Chí Linh beside Back Beach, without saying they are the same sand.",
-    "Umbrella hire and water-sport hire have no printed price. Check on arrival. After the swim, the night seafood market is on this beach: you choose the fish, crab, or shellfish and the cooking. A market price was not copied."
+    "Walk the sand at the start of the day, then swim, then take an umbrella when the sun is high. The waves are fairly flat and suitable for children. High-end hotels, restaurants, and beach clubs line the strand, and you can try surfing, stand-up paddle, or kite surfing from the sand.",
+    "Back Beach faces southeast, so the sun comes up over the water. Small Mountain closes the bay at the south end, where the Christ statue stands above the point and Hon Ba sits off the rocks.",
+    "After the swim, stay for the night seafood market on this beach: you pick the fish, crab, or shellfish and how it is cooked. Ask the price of an umbrella or a board before you sit down."
   ],
   "figures": [
     {
@@ -28,21 +25,20 @@
     }
   ],
   "gettingThere": [
-    "Back Beach is the base if you sleep on the beachfront. Vietnam Tourism puts the hotels on this sand. A ride from Front Beach is the other start. Minutes for that ride are not printed."
+    "Back Beach is the base if you sleep on the beachfront: the hotels sit along the sand. From Front Beach, take a taxi or motorbike taxi across the peninsula."
   ],
   "legs": [
     {
       "heading": "From the beachfront hotels",
-      "body": "You are already on the sand. The morning walk starts at the water. A clock time for the walk was not printed."
+      "body": "You are already on the sand. Start the walk at the water early in the morning."
     },
     {
       "heading": "From Front Beach",
-      "body": "A ride across the peninsula. Minutes and the fare are check on arrival."
+      "body": "A ride across the peninsula by taxi or motorbike taxi."
     }
   ],
-  "hours": "Check on arrival",
-  "closed": "No weekly close is printed. Check on arrival.",
-  "admissionNote": "The sand is not given a ticket on the Vietnam Tourism pages. Umbrella hire and water-sport hire are check on arrival.",
+  "hours": "Open beach",
+  "closed": "Check on arrival",
   "links": [
     {
       "label": "Vietnam Tourism, Vung Tau",

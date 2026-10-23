@@ -4,21 +4,21 @@
   "name": "Ho May Park",
   "nameVi": "Hồ Mây",
   "kicker": "Cable car onto Big Mountain",
-  "summary": "Ride the cable car from 1A Trần Phú to the park on Big Mountain when the hill is the plan, not the reason you stayed the night. The scenic ticket is adults 100,000 VND. The full visit is adults 475,000 VND and adds the rides. Buy the ticket that matches the visit. Skip it if Back Beach and the statue already have the day.",
+  "summary": "A cable car over the hills to a Big Mountain park: take half a day for the view or the rides. The scenic ticket, adults 100,000 VND, is the round trip and the Royal Garden viewpoint. The full ticket, adults 475,000 VND, adds the rides. Skip it if Back Beach and the Christ statue already fill your day.",
   "dots": 3,
   "timeNeeded": "Half a day if the rides are the point",
   "fee": "100,000 VND scenic, or 475,000 VND full visit",
   "getThere": "Lower station at 1A Trần Phú.",
+  "district": "Big Mountain",
   "verified": "21 Oct 2026",
   "heroCaption": "A Ho May cabin on the line toward Big Mountain",
   "notice": {
     "title": "Two tickets, two prices",
-    "body": "The scenic cable car is the round trip and the Royal Garden viewpoint. The full visit adds the rides. Paying the amusement ticket for a view, or the view ticket for the rides, is the mistake."
+    "body": "The scenic ticket is the round trip and the Royal Garden viewpoint. The full ticket adds the rides. Buy the one that matches your visit."
   },
   "body": [
-    "The operator’s lower station is 1A Trần Phú, Phường Vũng Tàu, Thành phố Hồ Chí Minh. The ride goes over the hills to the park on Big Mountain. The provincial catalogue calls it the place that pairs a beach visit with a mountain visit. The operator prints a stated height of 250 metres.",
-    "Both operator pages, loaded on 21 October 2026, put the park at 8:00–22:00. The full-ticket page puts the rides at 8:00–18:00, lists a show at 10:30–11:00, and a Saturday-or-holiday water show at 18:00. A visit length is not printed. A provincial card that has printed “free” was not used against these prices.",
-    "The cabin in the photograph is the line and the mountain. The sea is not in that frame. Ride minutes from Back Beach are check on arrival. Come in the daytime if the view is the point."
+    "The lower station is at 1A Trần Phú, on the Big Mountain shore road. The cabins ride over the hills to the park at the top, about 250 metres up, and pair a beach day with a mountain view.",
+    "The park is open 8:00–22:00, and the rides run 8:00–18:00. There is a show at 10:30–11:00, and on Saturdays and holidays a water show at 18:00. Go in the daytime if the view is what you came for."
   ],
   "figures": [
     {
@@ -28,21 +28,21 @@
     }
   ],
   "gettingThere": [
-    "The lower station is 1A Trần Phú. That is the operator’s address. From a hotel on Back Beach the ride to the station is not given a minute count."
+    "The lower station is 1A Trần Phú. Take a taxi or motorbike taxi from either beach, or walk along Trần Phú from Bach Dinh."
   ],
   "legs": [
     {
       "heading": "From Front Beach",
-      "body": "The station is on Trần Phú, on the Big Mountain side, north of the arc. Minutes are check on arrival."
+      "body": "North along Trần Phú to the station."
     },
     {
       "heading": "From Back Beach",
-      "body": "A ride to 1A Trần Phú, then the cable car. Minutes from the beach are check on arrival."
+      "body": "Across the peninsula by taxi or motorbike taxi to 1A Trần Phú."
     }
   ],
-  "hours": "Park 8:00–22:00 on both operator pages. Rides 8:00–18:00 on the full-ticket page.",
-  "closed": "No weekly close is printed. Check on arrival.",
-  "admissionNote": "Full visit: adults 475,000 VND, children 237,500 VND, under 1 m free, child band 1 m to 1.3 m. Scenic cable car: adults 100,000 VND, children 50,000 VND, round trip plus the Royal Garden viewpoint. The two pages are the operator’s. Buy the ticket that matches the visit.",
+  "hours": "Park 8:00–22:00. Rides 8:00–18:00.",
+  "closed": "Check on arrival",
+  "admissionNote": "Scenic cable car: adults 100,000 VND, children 50,000 VND, for the round trip and the Royal Garden viewpoint. Full visit: adults 475,000 VND, children 237,500 VND, with the rides. The child price is for 1 m to 1.3 m; under 1 m is free.",
   "links": [
     {
       "label": "Full visit ticket",

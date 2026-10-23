@@ -20,3 +20,8 @@ The usual previous stop is Hà Nội. The night is the valley, not Hòa Bình ci
 ### Hà Nội to the valley
 - Mode: Road. Bus from My Dinh, shuttle, private car, or motorbike (S3). The 140 km is S2 and S5. The hours are about three (S1, S3) and 2.5 (S4).
 - Sources: S1, S2, S3, S4, S5
+
+## Route findings, 23 Oct 2026 (route pages pass)
+
+- Mai Châu to Mộc Châu | Wikivoyage “Moc Chau”, Get in: National Highway 6 passes Mai Châu, crosses Thung Khe pass, and enters Sơn La province through Vân Hồ. https://en.wikivoyage.org/wiki/Moc_Chau, accessed 23 Oct 2026. Kilometres and minutes — Check on arrival — UNSOURCED.
+- 12go route pages https://12go.asia/en/travel/hanoi/mai-chau and https://12go.asia/en/travel/mai-chau/moc-chau opened 23 Oct 2026 and list buses. Their times were not used.

@@ -41,3 +41,10 @@ The usual previous stop is Ho Chi Minh City, or Can Tho when the night before wa
 
 - Vietnam Tourism’s English card: rainy season May to November; best visit September to November, when floodwater fills Tra Su (S1). The Vietnamese place page: rain from May through October, high water August to November, dry and sunny November to April (S2). Record both.
 - No page checked in this pass says the road from Ho Chi Minh City or Can Tho closes in flood season. Flood is the reason to be on the water, not a sourced road closure.
+
+## Route pass, 23 Oct 2026: Can Tho to Chau Doc
+
+Added for `src/content/routes/can-tho-to-chau-doc.json`. Accessed 23 Oct 2026.
+
+- Second reading of the three hours: Wikivoyage, Chau Doc, Go next, prints Can Tho by bus at 3 hours, and puts the bus station about 4 km from the centre. https://en.wikivoyage.org/wiki/Chau_Doc
+- 12go `can-tho/chau-doc` opened in a headless browser: a real route page listing bus and taxi. Used as the bus partner path.

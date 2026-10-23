@@ -1,0 +1,33 @@
+{
+  "slug": "can-tho-to-chau-doc",
+  "name": "Can Tho to Chau Doc",
+  "from": "Can Tho",
+  "to": "Chau Doc",
+  "summary": "Take the bus or a car. It is about three hours up the Hậu river to Chau Doc, and buses run between the two. River cruises also run this stretch if you want the slow way; their times are Check on arrival.",
+  "modes": [
+    {
+      "mode": "Bus or car",
+      "duration": "About 3 hours",
+      "note": "About three hours by car from Can Tho airport, and about three hours by bus from the city. Buses arrive at the Châu Đốc coach station on the Quốc lộ 91 bypass, outside the center. Fares and departure times are Check on arrival.",
+      "partner": "bus",
+      "partnerPath": "can-tho/chau-doc"
+    },
+    {
+      "mode": "River cruise",
+      "duration": "Check on arrival",
+      "note": "Cruises run between Can Tho and Chau Doc. Operator, pier, and clock are Check on arrival."
+    }
+  ],
+  "seoTitle": "Can Tho to Chau Doc — bus, car, or river cruise",
+  "seoDescription": "About three hours by bus or car from Can Tho to Chau Doc. River cruises run the same stretch; their times are Check on arrival. No train.",
+  "faqs": [
+    {
+      "q": "Is there a public boat from Can Tho to Chau Doc?",
+      "a": "Cruise boats run between the two, but not on a public timetable. Plan on the road and treat a cruise as its own booking."
+    },
+    {
+      "q": "Can you fly to Chau Doc?",
+      "a": "No. Chau Doc has no airport. Fly into Can Tho and drive about three hours."
+    }
+  ]
+}
