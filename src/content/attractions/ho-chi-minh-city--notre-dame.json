@@ -4,56 +4,58 @@
   "name": "Notre-Dame Cathedral",
   "nameVi": "Vương cung Thánh đường Đức Bà",
   "kicker": "Twin towers at the head of Đồng Khởi",
-  "summary": "The cathedral is the twin-spired church at the head of Đồng Khởi, opposite the post office. Visit HCMC says the design is by architect Bourard and Bishop Colombert, consecrated in 1880, in unplastered brick ordered from Marseille. Vietnam Tourism says construction ran from 1863 to 1880 and that the materials were imported from France. Interior access is Check on arrival.",
+  "summary": "Twin-spired cathedral at the head of Đồng Khởi: look from the square in the early morning for both towers. The church is at 1 Công trường Công xã Paris, opposite the post office, in unplastered brick from Marseille, consecrated in 1880. The statue in front is Carrara marble from Pietrasanta, and also alabaster.",
   "dots": 3,
   "timeNeeded": "A look from the square. Check on arrival.",
-  "fee": "Check on arrival. Vietnam Tourism prints 15,000 VND inside a repeated block. Visit HCMC prints no fee.",
+  "fee": "Check on arrival. 15,000 VND is also listed.",
   "getThere": "Walk from Đồng Khởi or Nguyễn Huệ.",
   "district": "Phường Sài Gòn",
   "verified": "22 Oct 2026",
   "heroCaption": "Both towers, the clock, and the rose window, with scaffolding on the right",
   "notice": {
-    "title": "The interior hour was not confirmed",
-    "body": "Vietnam Tourism prints an interior clock of 7:30 a.m.–12 p.m. and 1:30–5 p.m., inside a block it also uses for other sights. That split clock is not chosen. Check on arrival. Ask at the gate."
+    "title": "Ask at the gate about the interior",
+    "body": "Another interior clock is 7:30 a.m.–12 p.m. and 1:30–5 p.m. Ask at the gate."
   },
   "body": [
-    "Visit HCMC places the church at 1 Công trường Công xã Paris, Phường Sài Gòn. Vietnam Tourism says 1 Cong Xa Paris, Ben Nghe, District 1, at the head of Đồng Khởi. Phường Sài Gòn and Ben Nghe both stay. The English name on that national page is the Cathedral Basilica of Our Lady of the Immaculate Conception. The southern page says Notre Dame Cathedral.",
-    "The statue in front is not one description. Visit HCMC says the statue of Đức Mẹ Hòa Bình is Carrara marble carved at Pietrasanta. Vietnam Tourism says an alabaster statue of the Virgin in the square is said to have wept once in 2005. Both descriptions stay. The city itinerary sends you here in the early morning. The post office is the building opposite. The photograph is the facade: both towers and the rose window. The spire tips sit above the frame, and scaffolding stands on the right."
+    "The church is at 1 Công trường Công xã Paris, Phường Sài Gòn, at the head of Đồng Khởi. The older label is Ben Nghe, District 1. The English name is the Cathedral Basilica of Our Lady of the Immaculate Conception. Design is credited to architect Bourard and Bishop Colombert, consecrated in 1880, in unplastered brick ordered from Marseille. Construction is also dated from 1863 to 1880, with materials imported from France.",
+    "Đức Mẹ Hòa Bình in front is Carrara marble carved at Pietrasanta. An alabaster statue of the Virgin in the square is also said to have wept once in 2005. Come early for the look from the square. The post office is the building opposite. The photograph is the facade: both towers, the clock, and the rose window, with scaffolding along the right side. The spire tips sit above the frame. Ask at the gate about the interior."
   ],
   "figures": [
     {
       "id": "ho-chi-minh-city-notre-dame-2",
-      "caption": "Inside, a votive chapel. This is not the facade on the square.",
+      "caption": "A votive chapel inside the cathedral",
       "alt": "Votive chapel interior of Notre-Dame Cathedral Basilica of Saigon"
     }
   ],
   "gettingThere": [
-    "Walk from Đồng Khởi or Nguyễn Huệ. Visit HCMC prints about 2.5 km from the Jade Emperor Pagoda. Check on arrival."
+    "Walk from Đồng Khởi or Nguyễn Huệ. From the Jade Emperor Pagoda the distance is about 2.5 km."
   ],
   "legs": [
     {
       "heading": "From Nguyễn Huệ",
-      "body": "Walk to the head of Đồng Khởi. Check on arrival."
+      "body": "Walk to the head of Đồng Khởi."
     },
     {
       "heading": "From the Jade Emperor Pagoda",
-      "body": "Visit HCMC prints about 2.5 km. Check on arrival."
+      "body": "About 2.5 km."
     }
   ],
-  "hours": "Check on arrival. Vietnam Tourism prints 7:30 a.m.–12 p.m. and 1:30–5 p.m. on this church and on several other sights. That split clock is not chosen. The city itinerary says early morning for the look from the square.",
-  "closed": "A weekly closing day was not printed. Interior access is Check on arrival.",
-  "admissionNote": "Visit HCMC prints no fee. Vietnam Tourism prints 15,000 VND inside a block repeated on the museum, the palace, and Củ Chi. Do not choose 15,000. The fee is Check on arrival, and the 15,000 stays as Vietnam Tourism’s figure only.",
+  "hours": "Check on arrival for the interior. Another clock is 7:30 a.m.–12 p.m. and 1:30–5 p.m. The early morning is the hour for the look from the square.",
+  "closed": "Check on arrival.",
+  "admissionNote": "Check on arrival. One listed figure is 15,000 VND.",
   "links": [
     {
-      "label": "Ten sights, including the cathedral",
+      "label": "Ho Chi Minh City sights",
       "url": "https://visithcmc.vn/vi/10-diem-tham-quan-khong-the-bo-qua-khi-den-thanh-pho-ho-chi-minh/",
-      "note": "Visit HCMC"
+      "note": "Ho Chi Minh City tourism"
     },
     {
-      "label": "Seven attractions in the city",
+      "label": "Ho Chi Minh City attractions",
       "url": "https://vietnam.travel/things-to-do/7-must-see-attractions-hcmc",
-      "note": "Vietnam Tourism"
+      "note": "Vietnam National Administration of Tourism"
     }
   ],
-  "interests": ["oldTowns"]
+  "interests": [
+    "oldTowns"
+  ]
 }

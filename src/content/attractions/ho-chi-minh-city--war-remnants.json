@@ -4,21 +4,21 @@
   "name": "War Remnants Museum",
   "nameVi": "Bảo tàng Chứng tích Chiến tranh",
   "kicker": "Courtyard aircraft and three floors of photographs",
-  "summary": "Give this museum time. Vietnam Tourism describes three floors of artifacts and photographs, including Nick Ut’s “The Terror of War,” and aircraft, tanks, bombs, and helicopters in the courtyard. The operator’s terms from 1 October 2026 print 60,000 đồng for an adult. The same national page still prints 15,000 đồng. Both stay.",
+  "summary": "War museum on Võ Văn Tần: walk the courtyard aircraft and three floors of photographs, open 7:30–17:30. Last admission is 17:00. An adult ticket from 1 October 2026 is 60,000 đồng. Pupils and students book a free ticket online before they arrive. Another listed adult figure is 15,000 đồng.",
   "dots": 4,
   "timeNeeded": "Check on arrival.",
-  "fee": "60,000 đồng for an adult on the operator’s terms from 1 October 2026",
-  "getThere": "A short ride from the palace. Check on arrival.",
+  "fee": "60,000 đồng for an adult from 1 October 2026. 15,000 đồng is also listed.",
+  "getThere": "A short ride from the palace.",
   "district": "Phường Xuân Hòa",
   "verified": "22 Oct 2026",
   "heroCaption": "A U.S. Air Force jet in the museum courtyard",
   "notice": {
-    "title": "Students are not the half-price row",
-    "body": "On the operator’s terms from 1 October 2026, pupils and students are a free ticket booked online before arrival, not the 30,000 đồng row. Children are free at the desk. Vietnam Tourism’s 15,000 đồng line is a different page and is not the chosen price."
+    "title": "Students book a free ticket online",
+    "body": "From 1 October 2026, pupils and students book a free ticket online before arrival. The half-price row is 30,000 đồng. Children are free at the desk. Another listed adult figure is 15,000 đồng."
   },
   "body": [
-    "The address on the ticket terms is 28 Võ Văn Tần, Phường Xuân Hòa, with tickets at the main gate and parking at the side gate on Lê Quý Đôn. Vietnam Tourism prints 28 Vo Van Tan, Ward 6, District 3. Phường Xuân Hòa and Ward 6 both stay. The page describes three floors of artifacts and photographs, and the machines in the courtyard. The photograph here is the courtyard jet, not a gallery picture.",
-    "The terms say dress appropriately, leave food out of the galleries, and ask about filming. Children under 10 need an adult. The tariff applies from 1 October 2026. Hours are 7:30–17:30 every day including Tết. The ticket desk is 7:30–17:00. The museum stops admitting visitors at 17:00. Vietnam Tourism prints 7:30 a.m.–12 p.m. and 1:30–5 p.m. Both clocks stay."
+    "Tickets are at the main gate, 28 Võ Văn Tần, Phường Xuân Hòa, with parking at the side gate on Lê Quý Đôn. The older label is Ward 6, District 3. Three floors hold artifacts and photographs, including Nick Ut’s “The Terror of War,” and the courtyard holds aircraft, tanks, bombs, and helicopters. The photograph here is the courtyard jet.",
+    "Dress for the galleries, leave food outside them, and ask about filming. Children under 10 need an adult. From 1 October 2026 the hours are 7:30–17:30 every day including Tết. The ticket desk runs 7:30–17:00, and the museum stops admitting visitors at 17:00. Another clock is 7:30 a.m.–12 p.m. and 1:30–5 p.m."
   ],
   "figures": [
     {
@@ -28,27 +28,29 @@
     }
   ],
   "gettingThere": [
-    "From the palace it is a short ride. Check on arrival."
+    "From the palace it is a short ride."
   ],
   "legs": [
     {
       "heading": "From the Reunification Palace",
-      "body": "A short ride. Check on arrival."
+      "body": "A short ride."
     },
     {
       "heading": "From Bến Thành",
-      "body": "The museum is on Võ Văn Tần. Check on arrival."
+      "body": "The museum is on Võ Văn Tần."
     }
   ],
-  "hours": "Operator terms, from 1 October 2026: 7:30–17:30 every day including Tết. Ticket desk 7:30–17:00. Last admission 17:00. Vietnam Tourism prints 7:30 a.m.–12 p.m. and 1:30–5 p.m. Both clocks stay.",
-  "closed": "No weekly closing day is printed on the operator terms. The hours include Tết.",
-  "admissionNote": "Operator terms, applied from 1 October 2026. Adult, domestic or international, not in a reduced class: 60,000 đồng. Half price, 30,000 đồng: people 60 and over, people with severe disabilities, people with meritorious service, the cultural-benefit categories the page names, ethnic minorities in specially difficult communes, and people’s artisans and eminent artisans. Free, booked online before arrival: pupils, students, and members of poor or near-poor households. Free at the desk: children, and people with especially severe disabilities, with a parent or relative. Papers are checked. Vietnam Tourism prints 15,000 VND. Both fees stay. Do not choose the 15,000.",
+  "hours": "From 1 October 2026: 7:30–17:30 every day including Tết. Ticket desk 7:30–17:00. Last admission 17:00. Another clock is 7:30 a.m.–12 p.m. and 1:30–5 p.m.",
+  "closed": "Open every day, including Tết.",
+  "admissionNote": "From 1 October 2026. Adult, domestic or international, outside a reduced class: 60,000 đồng. Half price, 30,000 đồng: people 60 and over, people with severe disabilities, people with meritorious service, cultural-benefit categories, ethnic minorities in specially difficult communes, and people’s artisans and eminent artisans. Free, booked online before arrival: pupils, students, and members of poor or near-poor households. Free at the desk: children, and people with especially severe disabilities, with a parent or relative. Papers are checked. Another listed adult figure is 15,000 đồng.",
   "links": [
     {
       "label": "Museum terms and tickets",
       "url": "https://ticket.baotangchungtichchientranh.vn/terms-and-conditions.html",
-      "note": "Operator, applied from 1 October 2026"
+      "note": "War Remnants Museum"
     }
   ],
-  "interests": ["warHistory"]
+  "interests": [
+    "warHistory"
+  ]
 }
