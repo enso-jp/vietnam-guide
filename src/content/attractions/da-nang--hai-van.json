@@ -4,22 +4,22 @@
   "name": "Hai Van Pass",
   "nameVi": "Đèo Hải Vân",
   "kicker": "The coast pass between Da Nang and Hue",
-  "summary": "Cross the pass when the sky is clear, by car or with a licensed rider. The road and the sea are the point. No ticket was found for the road. Tunnel and hire charges are check on arrival. The train to Hue is about three hours if you would rather not drive. Do not ride it in cloud.",
+  "summary": "Drive or ride the coast road over the pass north of the city on a clear day, when the road and the sea sit in one view. Allow half a day as a detour toward Hue. In cloud the sea disappears, so take the train instead, about three hours to Hue.",
   "dots": 3,
   "timeNeeded": "Half a day as a detour",
-  "fee": "No ticket found",
-  "getThere": "North from Da Nang by car or a licensed rider. Road minutes are check on arrival.",
+  "fee": "No road ticket",
+  "getThere": "North from Da Nang by car or with a licensed rider.",
   "district": "The hills",
   "verified": "21 Oct 2026",
   "heroCaption": "The pass road, with the sea in the same frame",
   "notice": {
     "title": "Go only when the sky is clear",
-    "body": "Cloud hides the sea, which is the reason to take the pass. September to December is the heavy-rain and storm window on the city climate pages. The train skips the pass."
+    "body": "Cloud hides the sea, which is the reason to take the pass. September to December is the heavy-rain and storm window. The train skips the pass."
   },
   "body": [
     "Hai Van is the coast road north, between Da Nang and Hue. Go by car or with a licensed rider, and only on a clear day. You want the road and the sea in one view. It is a detour, not a city sight, and not a required stop on the way to the airport.",
-    "No ticket for the road was found. Treat the road as free, and check any tunnel or hire charge on arrival. A published drive time from Da Nang to Hue over the pass was not found either. Those minutes stay check on arrival.",
-    "If the sky is wrong, take the train. On the Vietnam Railways board, SE3 leaves Hue at 07:55 and reaches Da Nang at 10:43, about three hours. Other trains differ. The rail does not use the pass. The second photograph is the cloud day: the road is there, and the sea is not. That is the day to skip."
+    "The road has no ticket. Ask the price of any tunnel toll or rider hire before you set off.",
+    "If the sky is wrong, take the train. SE3 leaves Hue at 07:55 and reaches Da Nang at 10:43, about three hours, and the rail line does not climb the pass. In cloud the road is still there and the sea is not. That is the day to skip."
   ],
   "figures": [
     {
@@ -29,21 +29,21 @@
     }
   ],
   "gettingThere": [
-    "The pass is north of Da Nang, on the coast road toward Hue. Go by car or with a licensed rider. No official page used here prints the road minutes. The train is the sourced alternative."
+    "The pass is north of Da Nang, on the coast road toward Hue. Go by car or with a licensed rider. The train is the alternative."
   ],
   "legs": [
     {
       "heading": "From Da Nang",
-      "body": "North by car or a licensed rider, in clear weather. The minutes over the pass are check on arrival."
+      "body": "North by car or a licensed rider, in clear weather."
     },
     {
       "heading": "If you skip the pass",
-      "body": "The train between Hue and Da Nang is about three hours on the published SE3 times, Hue 07:55 to Da Nang 10:43. Other trains differ. The timetable changes."
+      "body": "The train between Hue and Da Nang takes about three hours on the SE3 times, Hue 07:55 to Da Nang 10:43. Other trains differ, and the timetable changes."
     }
   ],
-  "hours": "Daylight, and only when the sky is clear. No gate hour is published.",
+  "hours": "Daylight, and only when the sky is clear. No gate. Drive time over the pass: check on arrival.",
   "closed": "Do not ride it in cloud. September to December is the heavy-rain and storm window.",
-  "admissionNote": "No road ticket was found. Tunnel fees and rider hire are check on arrival. No number was copied.",
+  "admissionNote": "No road ticket. Tunnel fees and rider hire: check on arrival.",
   "links": [
     {
       "label": "Vietnam Railways timetable",

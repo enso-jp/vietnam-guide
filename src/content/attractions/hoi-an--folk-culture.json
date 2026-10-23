@@ -4,22 +4,22 @@
   "name": "Museum of Folk Culture",
   "nameVi": "Bảo tàng Văn hóa Dân gian",
   "kicker": "Folk culture in a house through to the river",
-  "summary": "The old house at 33 Nguyễn Thái Học, 57 metres by 9, open as a museum since 24 March 2005. Upstairs are 490 objects on four themes. Downstairs the overview says there are demonstrations. The house runs through to Bạch Đằng. It closes on the 20th of each month. The clock and the fee are check on arrival.",
+  "summary": "A 57-metre merchant house at 33 Nguyễn Thái Học that runs through to Bạch Đằng on the river. Upstairs, 490 objects cover folk art, performance, traditional trades, and daily life; downstairs, the same crafts are demonstrated. Give it a museum hour. The house itself is half the visit.",
   "dots": 3,
   "district": "Old town",
-  "timeNeeded": "A museum hour. Exact minutes are check on arrival.",
-  "fee": "Check on arrival",
+  "timeNeeded": "A museum hour",
+  "fee": "20,000 VND from 10 Aug 2026, or a combination ticket",
   "getThere": "Walk to 33 Nguyễn Thái Học",
-  "verified": "21 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "The wooden front of the Museum of Folk Culture",
   "notice": {
     "title": "Closed on the 20th of each month",
-    "body": "The overview says the museum is open every day except the 20th. It does not print a clock. The fee is check on arrival."
+    "body": "The museum opens every day except the 20th of the month. Plan around that date."
   },
   "body": [
-    "The museum is the old house at 33 Nguyễn Thái Học. The overview gives the plan as 57 metres long and 9 metres wide, two floors, a wooden upper floor, opening onto both Nguyễn Thái Học and Bạch Đằng. It was formed by Decision 06/QĐ-UBND of 3 January 2002 and opened to visitors on 24 March 2005.",
-    "Upstairs, the page says, 490 objects cover four themes: folk visual art, folk performance, traditional trades, and daily life. Downstairs it describes demonstrations of those same crafts. Oil lamps, tools, and the performances are the visit. The house is the container.",
-    "The overview says the doors are open every day except the 20th of the month, and it does not print a clock. The fee is the ancient-town ticket. Which price is on sale is check on arrival."
+    "The museum is the old house at 33 Nguyễn Thái Học, 57 metres long and 9 metres wide, two floors with a wooden upper storey, opening onto both Nguyễn Thái Học and Bạch Đằng. It opened to visitors on 24 March 2005.",
+    "Upstairs, 490 objects cover four themes: folk visual art, folk performance, traditional trades, and daily life. Downstairs, the same crafts are demonstrated. Oil lamps, tools, and the performances are the visit; the house is the container.",
+    "It is open every day except the 20th of the month. Entry is part of the old-town ticket."
   ],
   "figures": [
     {
@@ -29,17 +29,17 @@
     }
   ],
   "gettingThere": [
-    "Walk to 33 Nguyễn Thái Học. The house also opens onto Bạch Đằng. The overview does not print a minute count."
+    "Walk to 33 Nguyễn Thái Học, the street closer to the river than Trần Phú. The house also opens onto Bạch Đằng."
   ],
   "legs": [
     {
       "heading": "From the old town",
-      "body": "Walk to 33 Nguyễn Thái Học, the street closer to the river than Trần Phú. The minutes depend on your lane."
+      "body": "Walk to 33 Nguyễn Thái Học, the street closer to the river than Trần Phú."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "Closed on the 20th of each month. No weekly closing day is printed.",
-  "admissionNote": "No separate price is printed for this building. From 10 August 2026, Da Nang Resolution 98/2026 sets 20,000 VND per person per building, the same for a Vietnamese and a foreign visitor. The heritage centre’s notices of 26 January 2026 and 16 March 2026 still describe an 80,000 VND ticket for the streetscape, Chùa Cầu or Miếu Quan Công, and two other works, and a 120,000 VND ticket when a museum and three other works are added. The March notice says one purchase can be used through the stay, up to three days. A May 2026 article says the town is an open neighbourhood and many people walk in without a ticket. Which desk is in force is check on arrival.",
+  "closed": "Closed on the 20th of each month.",
+  "admissionNote": "No separate price for this building. From 10 Aug 2026: 20,000 VND per person per building, the same for every visitor (Da Nang Resolution 98/2026). Heritage centre notices of 26 Jan and 16 Mar 2026: 80,000 VND (streetscape, Chùa Cầu or Miếu Quan Công, and two other works) or 120,000 VND (adds a museum and three other works), usable through a stay of up to three days. A May 2026 article counts those as four and six works. Ask at the booth which ticket is on sale.",
   "links": [
     {
       "label": "Museum overview",

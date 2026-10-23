@@ -1,0 +1,54 @@
+{
+  "slug": "hang-bac",
+  "placeSlug": "old-quarter",
+  "name": "Hang Bac",
+  "nameVi": "Phố Hàng Bạc",
+  "kicker": "Guild street of silver in the Old Quarter",
+  "summary": "Hang Bac is the silver street, one of the 36 guild streets still named for its trade. You walk past jewellers’ windows lit gold under signs for vàng bạc, gold and silver, with silver-engraving shops and breakfast stools in between. Walk it as part of the Old Quarter loop from the lake rather than as a separate trip.",
+  "dots": 3,
+  "timeNeeded": "Check on arrival",
+  "fee": "Free to walk",
+  "getThere": "Walk the lanes north of Hoan Kiem Lake",
+  "district": "The guild streets",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Jewellers’ windows and gold-and-silver signs on Hang Bac",
+  "body": [
+    "The Old Quarter’s streets have been named for the goods their artisans made since the 14th or 15th century, and Hang Bac’s is silver. The shopfronts still show it: glass counters of jewellery, signs reading vàng bạc and đá quý, and house numbers painted on every board.",
+    "Between the jewellers are silver-engraving workshops and the street kitchens of the lanes, with plastic stools on the pavement in the morning. Walk it slowly, look in the windows, and keep it on the same loop as Bach Ma and Dong Xuan."
+  ],
+  "figures": [
+    {
+      "id": "old-quarter-hang-bac-2",
+      "caption": "A silver-engraving shop at 100 Hang Bac, with breakfast stools out front",
+      "alt": "A shopfront signed for silver engraving at 100 Hàng Bạc, with people on plastic stools outside"
+    }
+  ],
+  "gettingThere": [
+    "Hang Bac is one of the guild streets in the lanes north of Hoan Kiem Lake. Walk north from the lake into the quarter; it is free to walk."
+  ],
+  "legs": [
+    {
+      "heading": "From Hoan Kiem Lake",
+      "body": "On foot, north into the lanes to Hang Bac."
+    }
+  ],
+  "hours": "The Old Quarter is open 7am to midnight (Vietnam Tourism). Shop hours: Check on arrival.",
+  "closed": "Check on arrival",
+  "admissionNote": "Free to walk. Shop prices: Check on arrival.",
+  "links": [
+    {
+      "label": "Vietnam Tourism: Explore the Old Quarter",
+      "url": "https://vietnam.travel/things-to-do/explore-old-quarter-your-way",
+      "note": "The guild streets and their trades: Hang Bac silver, Hang Gai silk, Hang Ma festival goods, Lan Ong herbs"
+    },
+    {
+      "label": "Vietnam Tourism: Ha Noi must-sees",
+      "url": "https://vietnam.travel/things-to-do/11-must-see-attractions-ha-noi",
+      "note": "Old Quarter: 36 streets, free, 7am to midnight; the bia hoi corner at Ta Hien and Luong Ngoc Quyen"
+    }
+  ],
+  "interests": [
+    "markets",
+    "oldTowns"
+  ]
+}

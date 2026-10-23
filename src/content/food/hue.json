@@ -2,21 +2,28 @@
   "slug": "hue",
   "name": "Hue food guide",
   "placeSlug": "hue",
-  "summary": "Start with bún bò Huế at Dong Ba, then cơm hến on Hen Island, then bánh khoái along Kim Long toward Thien Mu. The small cakes and nem lụi follow.",
+  "summary": "Hue eats like the old capital it is: bún bò Huế at Dong Ba, cơm hến on Hen Island, bánh khoái along Kim Long toward Thien Mu, the small steamed cakes, and chè after the meal.",
   "heroSlug": "bun-bo-hue",
   "body": [
-    "Hue eats a beef-and-pork noodle bowl, a clam rice on the river island, and a turmeric crepe on the north bank. It is not mì Quảng and not cao lầu. Those belong down the coast.",
-    "Give the first bowl to Dong Ba. Cross Ưng Bình bridge for Hen Island when you want cơm hến or bún hến, and skip the island in a flood week. Kim Long, on the way to Thien Mu, is the road for bánh khoái and bún thịt nướng. Nem lụi is grilled pork on a skewer, wrapped in rice paper with herbs and a creamy sauce."
+    "Hue eats a beef-and-pork noodle bowl, a clam rice from the river island, a turmeric crepe on the north bank, and small steamed cakes, among them bánh nậm, which Vietnam Tourism ties to the court kitchen. It is not mì Quảng and not cao lầu. Those belong down the coast.",
+    "Give the first bowl to Dong Ba market. Cross Ưng Bình bridge to Hen Island for cơm hến or bún hến, and skip the island in a flood week. Kim Long, on the way to Thien Mu, is the road for bánh khoái and bún thịt nướng. Nem lụi is grilled pork on a skewer, wrapped in rice paper with herbs and a creamy sauce. Finish with chè, the sweet soup."
   ],
   "specialtiesLead": "The first bowls and cakes are bún bò Huế, cơm hến, bánh bèo, bánh khoái, bánh nậm, and nem lụi.",
-  "dishSlugs": ["bun-bo-hue", "com-hen", "banh-beo", "banh-khoai", "banh-nam", "nem-lui"],
+  "dishSlugs": [
+    "bun-bo-hue",
+    "com-hen",
+    "banh-beo",
+    "banh-khoai",
+    "banh-nam",
+    "nem-lui"
+  ],
   "sections": [
     {
       "id": "also",
       "heading": "Also ordered in Hue",
       "nav": "Also ordered",
       "paragraphs": [
-        "Bún thịt nướng is the Kim Long lunch. Bún hến is the other bowl on Hen Island, beside cơm hến. After the meal, the sweet soups are corn, lotus seed, and taro, with grilled-pork dumplings."
+        "Bún thịt nướng is the Kim Long lunch. Bún hến is the other bowl on Hen Island, beside cơm hến. After the meal, the sweet soups are corn, lotus seed, and taro, and a dumpling soup with roast pork."
       ],
       "spots": [
         {
@@ -30,29 +37,29 @@
           "name": "Bun hen",
           "nameVi": "Bún hến",
           "address": "Cồn Hến, across Ưng Bình bridge",
-          "note": "Bún hến is the other bowl on Hen Island, beside cơm hến. The island walk is under half an hour, and the island disappears when the city floods."
+          "note": "Rice noodles with the same tiny river clams as cơm hến, sold from the stalls on Hen Island. The island is a walk of under half an hour, and it goes under when the city floods."
         },
         {
           "name": "Corn chè",
           "nameVi": "Chè",
           "photo": "hue-che-corn",
-          "note": "Corn chè is a glutinous sweet soup taken after the meal."
+          "note": "Sweet corn cooked into a thick, glutinous soup. Take it after the meal, a bowl at a time."
         },
         {
           "name": "Lotus-seed chè",
           "nameVi": "Chè",
           "photo": "hue-che-lotus",
-          "note": "Lotus-seed chè is a glutinous sweet soup taken after the meal."
+          "note": "Lotus seeds in a sweet, glutinous soup. Take it after the meal, a bowl at a time."
         },
         {
           "name": "Taro chè",
           "nameVi": "Chè",
-          "note": "Taro chè is a sweet soup taken after the meal."
+          "note": "Taro in a sweet soup, taken after the meal."
         },
         {
-          "name": "Grilled-pork dumplings",
+          "name": "Roast-pork dumpling chè",
           "nameVi": "Chè bột lọc heo quay",
-          "note": "Grilled-pork dumplings, taken after the meal."
+          "note": "Dumplings of bột lọc, the clear tapioca dough, around roast pork, in a sweet soup. Take it after the meal."
         }
       ]
     },
@@ -62,15 +69,15 @@
       "heading": "Casual dining",
       "nav": "Casual",
       "paragraphs": [
-        "The doors are markets and roads, not a booked room. Dong Ba is the morning market. Hen Island is the clam rice. Kim Long is the snack road toward Thien Mu. Chi Lăng and Bạch Đằng are the afternoon streets on the far side of the island, and the 3 February 2026 plan still shapes them into a night stop with Hoàng Thành and Bao Vinh."
+        "The doors are markets and roads, not a booked room. Dong Ba is the morning market. Hen Island is the clam rice. Kim Long is the snack road toward Thien Mu. Chi Lăng and Bạch Đằng are the afternoon streets on the far side of the island, and the city’s 2026 tourism plan is building them into a night stop with Hoàng Thành and Bao Vinh."
       ],
       "spots": [
         {
           "name": "Dong Ba Market",
           "nameVi": "Chợ Đông Ba",
           "photo": "hue-dong-ba",
-          "caption": "The market front, before bánh khoái and bánh bèo.",
-          "note": "Start here for produce, then the snacks. A bún bò Huế bowl is inside the market."
+          "caption": "The front of Chợ Đông Ba",
+          "note": "The city market. Buy produce first, then eat the snacks, bánh khoái and bánh bèo, and a bowl of bún bò Huế inside."
         },
         {
           "name": "Hen Island",
@@ -88,7 +95,7 @@
           "name": "Chi Lang and Bach Dang",
           "nameVi": "Chi Lăng và Bạch Đằng",
           "address": "Far side of Hen Island",
-          "note": "The afternoon streets after Hen Island. The 3 February 2026 plan also names them as a night stop still being shaped, with Hoàng Thành and Bao Vinh."
+          "note": "The afternoon streets past Hen Island. The city’s 2026 plan names them as a night stop in the making, with Hoàng Thành and Bao Vinh."
         }
       ]
     }

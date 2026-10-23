@@ -5,6 +5,6 @@ Slug: `cable-car`
 Status: stored
 Checked: 22 Oct 2026
 
-unpublished: one licensed frame of the Truc Lam cableway, no second frame of that line. The fare is printed on the Truc Lam page.
+paged 23 Oct 2026: licensed frames accepted (da-lat-cable-car, da-lat-cable-car-2; credits in public/photos/credits.json).
 
-No public attraction file. Facts remain in research/da-lat/attractions.md.
+Public file: src/content/attractions/da-lat--cable-car.json. Facts remain in research/da-lat/attractions.md.

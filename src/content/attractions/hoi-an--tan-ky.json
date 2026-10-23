@@ -4,22 +4,21 @@
   "name": "Tan Ky House",
   "nameVi": "Nhà cổ Tấn Ký",
   "kicker": "Lived-in merchant house on Nguyễn Thái Học",
-  "summary": "A tube house at 101 Nguyễn Thái Học, shop at the front and the river at the back. The ground floor is the visit, and the family lives upstairs. Come in the morning. The fee is the ancient-town ticket, which is check on arrival. A visitor page prints a midday close. Confirm that split before you cross town for it.",
+  "summary": "A lived-in merchant house at 101 Nguyễn Thái Học, the shop at the front and the river at the back, with no windows and light falling in from the courts. Chinese characters run down the columns and the family still lives upstairs, so the ground floor is the visit. Allow well under an hour, in the morning.",
   "dots": 4,
   "district": "Old town",
-  "timeNeeded": "A short house. Exact minutes are check on arrival.",
-  "fee": "Check on arrival",
+  "timeNeeded": "Well under an hour",
+  "fee": "20,000 VND from 10 Aug 2026, or a combination ticket",
   "getThere": "Walk to 101 Nguyễn Thái Học",
-  "verified": "21 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "The timber front of Tan Ky House on Nguyễn Thái Học",
   "notice": {
-    "title": "Confirm the midday close",
-    "body": "A creative-city page with a Traveloka byline prints 08:00–11:30 and 13:30–17:45 every day. The January 2026 ticket notice does not repeat that split. The ground floor is the visit. The family lives upstairs."
+    "title": "Come before the midday break",
+    "body": "The house lists a break from 11:30 to 13:30 and closes in the late afternoon, so it is not a night sight. The family lives upstairs: keep your voice down and do not touch the objects."
   },
   "body": [
-    "Walk in at 101 Nguyễn Thái Học. The creative-city page says the house runs back toward the Thu Bồn at the Châu Thượng Văn junction, with no windows and light from the courts. Chinese characters sit on the columns, and a glass case holds the cup that page calls a Confucius cup. The ground floor is the visit. The family lives upstairs. Do not touch the objects.",
-    "The January 2026 ticket notice names old houses among the optional cultural works. No separate house price is printed. From 10 August 2026 the city fee is 20,000 VND per building. The heritage centre’s January and March 2026 notices still describe combination tickets of 80,000 VND and 120,000 VND. Which one the desk sells is check on arrival.",
-    "Come in the morning. That visitor page prints Monday to Sunday 08:00–11:30 and 13:30–17:45. Confirm the midday close before you cross town for it. The printed hours end in the afternoon, so this is not a night sight. Leave the 1741 date and the line that UNESCO listed the house in 1990 unused. The town’s inscription is a different document."
+    "Walk in at 101 Nguyễn Thái Học. The house runs back toward the Thu Bồn at the Châu Thượng Văn junction, with no windows and light from the courts. Chinese characters sit on the columns, and a glass case holds a cup known as the Confucius cup. The ground floor is the visit. The family lives upstairs. Do not touch the objects.",
+    "Old houses are optional stops on the old-town ticket. Come in the morning, before the midday break, and leave the night for the streets outside."
   ],
   "figures": [
     {
@@ -29,17 +28,17 @@
     }
   ],
   "gettingThere": [
-    "The house is at 101 Nguyễn Thái Học, the street closer to the river than Trần Phú. Walk if you slept in the lanes just off the ancient town. Minutes from the bridge are check on arrival."
+    "The house is at 101 Nguyễn Thái Học, the street closer to the river than Trần Phú. Walk from the lanes off the old town."
   ],
   "legs": [
     {
       "heading": "From the old town",
-      "body": "Walk along Nguyễn Thái Học to number 101. The minutes depend on your lane."
+      "body": "Walk along Nguyễn Thái Học to number 101."
     }
   ],
-  "hours": "Check on arrival",
-  "closed": "The visitor page prints a midday gap from 11:30 to 13:30, every day. Confirm that gap. No weekly closing day is printed on the ticket notice.",
-  "admissionNote": "No separate house price is printed. From 10 August 2026, Da Nang Resolution 98/2026 sets 20,000 VND per person per building, the same for a Vietnamese and a foreign visitor. The heritage centre’s notices of 26 January 2026 and 16 March 2026 still describe an 80,000 VND ticket for the streetscape, Chùa Cầu or Miếu Quan Công, and two other works, and a 120,000 VND ticket when a museum and three other works are added. Old houses are among the optional works on those notices. The March notice says one purchase can be used through the stay, up to three days. A May 2026 article says the town is an open neighbourhood and many people walk in without a ticket. Which desk is in force is check on arrival.",
+  "hours": "08:00–11:30 and 13:30–17:45 daily (creative-city visitor page); not repeated on the 2026 ticket notice. Check on arrival.",
+  "closed": "Midday break 11:30–13:30 on the visitor page.",
+  "admissionNote": "No separate price for this building. From 10 Aug 2026: 20,000 VND per person per building, the same for every visitor (Da Nang Resolution 98/2026). Heritage centre notices of 26 Jan and 16 Mar 2026: 80,000 VND (streetscape, Chùa Cầu or Miếu Quan Công, and two other works) or 120,000 VND (adds a museum and three other works), usable through a stay of up to three days. A May 2026 article counts those as four and six works. Ask at the booth which ticket is on sale.",
   "links": [
     {
       "label": "Tan Ky on the creative-city site",

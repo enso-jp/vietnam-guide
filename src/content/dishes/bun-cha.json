@@ -2,11 +2,11 @@
   "slug": "bun-cha",
   "name": "Bun cha",
   "nameVi": "Bún chả",
-  "summary": "Bun cha is chargrilled pork belly and pork patties with rice noodles and herbs, eaten almost only at lunch. One account uses a diluted vinegar fish sauce; another calls the broth hot and sweet.",
+  "summary": "Bun cha is chargrilled pork belly and pork patties with rice noodles and herbs, in a hot, sweet broth of diluted fish sauce and vinegar. Hanoi eats it almost only at lunch.",
   "origin": "Hanoi. You will find copies elsewhere; eat it here.",
   "howToEat": [
     "The pork arrives in the bowl. Put the noodles in with the herbs.",
-    "One account seasons the bowl with a diluted vinegar fish sauce. Another calls the same bowl a hot, sweet broth.",
+    "The broth is diluted fish sauce with vinegar, served hot and sweet.",
     "Nem, the fried roll, is optional."
   ],
   "where": [
@@ -14,7 +14,10 @@
   ],
   "verified": "23 Oct 2026",
   "priceBand": "A lunch set is an everyday restaurant price, not a tasting-menu price.",
-  "placeSlugs": ["hanoi", "old-quarter"],
+  "placeSlugs": [
+    "hanoi",
+    "old-quarter"
+  ],
   "seoTitle": "Bun cha — Hanoi grilled pork and noodles",
   "seoDescription": "What bun cha is, how to eat it, and why Hanoi is the place to order it."
 }

@@ -3,23 +3,23 @@
   "placeSlug": "old-quarter",
   "name": "Bach Ma Temple",
   "nameVi": "Đền Bạch Mã",
-  "kicker": "Temple at 76 Hang Buom",
-  "summary": "Bach Ma is the temple at 76 Hang Buom, a stop on the walk through the lanes. From 8 December 2025 the ticket is 20,000 VND. The 2025 notice prints 08:00–12:00 and 13:30–17:30, and a Friday-to-Sunday evening that closes at 21:30 in one report and 21:00 in another. A 2018 door board prints a shorter day and a Monday close. Read the board at the gate.",
+  "kicker": "Temple of the white horse at 76 Hang Buom",
+  "summary": "Bach Ma is the small temple at 76 Hang Buom: yellow walls, a tiled roof with dragons along the ridge, red lanterns at the door, and a white horse on the altar inside. Step in from the lanes on the way to Dong Xuan; it is a stop on the walk, not a separate outing. Go in the day sessions, or on a Friday to Sunday evening.",
   "dots": 3,
   "timeNeeded": "Check on arrival",
   "fee": "20,000 VND",
   "getThere": "Walk to 76 Hang Buom",
   "district": "Hang Buom",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "The yellow hall, tiled roof, and dragons on Hang Buom",
   "notice": {
-    "title": "The clocks do not match",
-    "body": "The 2025 notice and a 2018 door board print different hours. Read the board at the gate before you plan the afternoon."
+    "title": "Read the board at the gate",
+    "body": "Posted hours have changed over the years, and the weekend evening close is given as both 21:00 and 21:30. Check the board at the gate before you plan an evening visit."
   },
   "body": [
-    "The hall sits on Hang Buom: yellow walls, a tiled roof, and dragons along the ridge, with red lanterns by the door. The tourism notice gives the address as 76 Hang Buom, Hoan Kiem. It is a stop on the walk, not a separate day.",
-    "From 8 December 2025 the ticket is 20,000 VND a visit, under a city council resolution the Hoan Kiem and Old Quarter management board is carrying out. Children under 16 are free. If a child has no papers, the notice uses a height under 1.3 m. A 50 percent reduction covers students 16 and over, older visitors, and the other groups that notice names. VnExpress, citing the same board, also prints free entry on 23 November and on the last day of the lunar year plus the first two days of Tet. The tourism notice does not restate those free days.",
-    "Day hours on the tourism notice are 08:00–12:00 and 13:30–17:30 every day, plus 19:00–21:30 on Friday, Saturday, and Sunday. VnExpress prints the same day hours and an evening close of 21:00. A 2018 photograph of the door board prints 08:00–11:00 and 14:00–17:00, Monday closed instead of Sunday, and 08:00–21:00 on the 1st and 15th of the lunar month. Use the board that is on the gate the day you go."
+    "The hall sits right on Hang Buom, at number 76: yellow walls, a tiled roof, dragons along the ridge, and red lanterns by the door. Inside, the altar centres on a white horse between two cranes. It is a short stop on the walk through the lanes, not a separate day.",
+    "From 8 December 2025 the ticket is 20,000 VND a visit. Under-16s go free (under 1.3 m if a child has no papers), and students 16 and over, older visitors, and the other listed groups pay half. Entry is also free on 23 November, on the last day of the lunar year, and on the first two days of Tet.",
+    "The day runs in two sessions, 08:00–12:00 and 13:30–17:30, every day. On Friday, Saturday, and Sunday the temple opens again from 19:00 for the evening. The board at the gate has the last word."
   ],
   "figures": [
     {
@@ -29,17 +29,17 @@
     }
   ],
   "gettingThere": [
-    "The temple is at 76 Hang Buom, inside the lanes north of Hoan Kiem Lake. Walk from the lake. No published minute count was on the tourism notice or the VnExpress report. Minutes: check on arrival."
+    "The temple is at 76 Hang Buom, inside the lanes north of Hoan Kiem Lake. Walk north from the lake into the lanes, and pair it with Dong Xuan Market on the same walk."
   ],
   "legs": [
     {
       "heading": "From Hoan Kiem Lake",
-      "body": "Walk north into the lanes and stop at 76 Hang Buom. The tourism notice does not print a minute count. Check the minutes on arrival."
+      "body": "On foot, north into the lanes to 76 Hang Buom."
     }
   ],
-  "hours": "2025 notice: 08:00–12:00 and 13:30–17:30 daily; Friday–Sunday evening 19:00–21:30 (Vietnam National Administration of Tourism) or 19:00–21:00 (VnExpress). 2018 door board: 08:00–11:00 and 14:00–17:00, and 08:00–21:00 on the 1st and 15th of the lunar month.",
-  "closed": "The 2025 notice prints no weekly close. The 2018 door board prints Monday closed instead of Sunday.",
-  "admissionNote": "From 8 December 2025, 20,000 VND a visit. Under 16 free, or under 1.3 m when there are no papers. Severe disability is free. A 50 percent reduction covers students from 16, older visitors, and the other groups named in the tourism notice. One person who qualifies twice still pays half, not a further cut. VnExpress adds free entry on 23 November and on the last lunar day plus the first two days of Tet. The tourism notice does not restate those days.",
+  "hours": "08:00–12:00 and 13:30–17:30 daily; Friday–Sunday evening 19:00–21:30 (Vietnam National Administration of Tourism, Dec 2025) or 19:00–21:00 (VnExpress). A 2018 gate board showed 08:00–11:00 and 14:00–17:00, and 08:00–21:00 on the 1st and 15th of the lunar month. Check the board.",
+  "closed": "No weekly close in the 2025 notice. The 2018 gate board showed Monday closed.",
+  "admissionNote": "20,000 VND a visit from 8 December 2025. Under 16 free, or under 1.3 m without papers. Severe disability free. Half price for students from 16, older visitors, and the other groups in the notice; qualifying twice still means half. Free on 23 November, the last lunar day, and the first two days of Tet (VnExpress).",
   "links": [
     {
       "label": "2025 fee and hours",

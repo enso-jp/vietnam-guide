@@ -73,15 +73,14 @@
           "name": "Avocado ice cream",
           "nameVi": "Kem bơ",
           "address": "Market slope, the night market, and 76 Nguyễn Văn Trỗi",
-          "note": "Blended avocado dessert, eaten cold from a cup. In Da Nang it is in the Con Market snack row.",
-          "dishSlug": "kem-bo",
-          "photo": "kem-bo"
+          "note": "Blended avocado dessert, eaten cold from a cup at the market counters and the night stalls.",
+          "dishSlug": "kem-bo"
         },
         {
           "name": "Grilled rice paper",
           "nameVi": "Bánh tráng nướng",
           "address": "Night market, centre",
-          "note": "A crisp rice sheet grilled with toppings, folded and eaten from the paper.",
+          "note": "A rice sheet grilled crisp with toppings, then folded and eaten hot from the paper. It is the night-market snack to start with.",
           "dishSlug": "banh-trang-nuong",
           "photo": "banh-trang-nuong"
         },
@@ -89,28 +88,28 @@
           "name": "Strawberry with condensed milk",
           "nameVi": "Dâu sữa",
           "address": "Da Lat Market",
-          "note": "Fresh strawberries with sweet milk, in a cup or a bag.",
+          "note": "Fresh Da Lat strawberries under sweet condensed milk, in a cup or a bag, to eat as you walk the market.",
           "dishSlug": "dau-sua"
         },
         {
           "name": "Hot soy milk",
           "nameVi": "Sữa đậu nành nóng",
           "address": "Market, the night market, and 64 Tăng Bạt Hổ",
-          "note": "Sweet hot soy milk for a cool evening, carried in a cup.",
+          "note": "Sweet hot soy milk in a cup, the drink to carry through the night market when the air turns cold.",
           "dishSlug": "sua-dau-nanh"
         },
         {
           "name": "Artichoke tea",
           "nameVi": "Trà atiso",
           "address": "Market area",
-          "note": "Herbal tea from local artichoke, drunk hot or bottled to take home.",
+          "note": "Herbal tea from the artichokes grown around Da Lat, drunk hot or bought bottled at the market shops to take home.",
           "dishSlug": "tra-atiso"
         },
         {
           "name": "Crab soup",
           "nameVi": "Súp cua",
           "address": "Night market and Lam Vien Square",
-          "note": "Hot crab soup for a cold night at the night market and Lam Vien Square.",
+          "note": "A cup of hot crab soup at the night market and Lam Vien Square, the warm-up for a cold night.",
           "dishSlug": "sup-cua-da-lat",
           "photo": "sup-cua-da-lat"
         },
@@ -118,21 +117,22 @@
           "name": "Grilled skewers",
           "nameVi": "Nướng xiên",
           "address": "Da Lat Night Market",
-          "note": "Skewers from the night-market stalls, eaten there under the lights.",
-          "dishSlug": "nuong-xien-da-lat"
+          "note": "Skewers grilled at the night-market stalls and eaten there under the lights, next to the grilled rice paper.",
+          "dishSlug": "nuong-xien-da-lat",
+          "photo": "nuong-xien-da-lat"
         },
         {
           "name": "Yaourt phô mai",
           "nameVi": "Yaourt phô mai",
           "address": "Tăng Bạt Hổ, Yersin, Hoàng Diệu, and Phạm Nhật Duật",
-          "note": "Yaourt phô mai beside the bánh căn, and a yaourt beside the morning xíu mại bowls.",
+          "note": "Cheese yogurt, the cold finish after a plate of bánh căn. The xíu mại counters sell a plain yaourt beside the morning bowls.",
           "dishSlug": "yaourt-pho-mai"
         },
         {
           "name": "Bánh flan phô mai",
           "nameVi": "Bánh flan phô mai",
           "address": "7 Tăng Bạt Hổ and 27/44 Yersin",
-          "note": "Cheese flan after the bánh căn.",
+          "note": "Cheese flan to finish a bánh căn supper at 7 Tăng Bạt Hổ, or at Bánh Căn Lệ on Yersin.",
           "dishSlug": "banh-flan-pho-mai"
         },
         {
@@ -169,7 +169,7 @@
           "name": "Crunchy persimmon",
           "nameVi": "Hồng giòn",
           "address": "Mimosa Pass and Cau Dat orchards",
-          "note": "Crunchy persimmon from the orchards, sweet and aromatic. Freshly picked fruit is also called sweet, soft, and juicy.",
+          "note": "Crunchy persimmon from the Mimosa Pass and Cau Dat orchards, sweet and aromatic, the fruit people buy as a gift.",
           "dishSlug": "hong-gion",
           "photo": "hong-gion"
         },
@@ -185,7 +185,7 @@
           "name": "Candied ginger",
           "nameVi": "Mứt gừng",
           "address": "Da Lat Market fringe",
-          "note": "Candied ginger from the market fringe, beside the fruit preserves, coffee, and artichoke tea.",
+          "note": "Candied ginger from the dried-goods counters around Da Lat Market, sold beside the fruit preserves, coffee, and artichoke tea.",
           "dishSlug": "mut-gung",
           "photo": "mut-gung"
         },
@@ -248,21 +248,21 @@
           "name": "Bánh ướt lòng gà",
           "nameVi": "Bánh ướt lòng gà",
           "address": "Phan Đình Phùng and Tăng Bạt Hổ",
-          "note": "White, soft, chewy rice sheets with shredded chicken, breast bone, thigh, offal, and trứng non. The fish sauce is not overly salty, and chili is there if you want heat.",
+          "note": "Soft, chewy rice sheets piled with shredded chicken, offal, and trứng non, with a fish sauce that is not too salty. It is Da Lat's chicken take on bánh ướt.",
           "dishSlug": "banh-uot-long-ga"
         },
         {
           "name": "Lẩu gà lá é",
           "nameVi": "Lẩu gà lá é",
           "address": "3 Tháng 4, Chu Văn An, and Yersin",
-          "note": "Chicken hotpot with lá é, a leaf that looks like cinnamon and smells like lemongrass. At Tao Ngộ the broth is fragrant and hot with chili, and the gà ta is firm and sweet.",
+          "note": "Chicken hotpot scented with lá é, a leaf that smells like lemongrass, in a broth hot with chili. Order the pot for the table on a cool evening.",
           "dishSlug": "lau-ga-la-e"
         },
         {
           "name": "Cơm niêu",
           "nameVi": "Cơm niêu",
           "address": "Hồ Tùng Mậu, Nam Kỳ Khởi Nghĩa, and Sương Nguyệt Ánh",
-          "note": "Clay-pot rice with a thin crust, served with the house braises and vegetables.",
+          "note": "Clay-pot rice with a thin crust, brought to the table with the house braises and vegetables. It is the sit-down Da Lat lunch.",
           "dishSlug": "com-nieu-da-lat",
           "photo": "com-nieu-da-lat"
         },
@@ -270,7 +270,7 @@
           "name": "Cơm lam",
           "nameVi": "Cơm lam",
           "address": "Toward Langbiang, or Cu Lan village",
-          "note": "Bamboo-tube rice with sesame salt. The sweetness is attributed to upstream water, and the smell to young bamboo.",
+          "note": "Rice cooked in a bamboo tube and eaten with sesame salt, out toward Langbiang or in Cu Lan village. Locals credit the sweetness to upstream water and the smell to young bamboo.",
           "dishSlug": "com-lam-da-lat",
           "photo": "com-lam-da-lat"
         },
@@ -278,14 +278,14 @@
           "name": "Nem nướng",
           "nameVi": "Nem nướng",
           "address": "5 Trần Phú and 45 Bùi Thị Xuân",
-          "note": "Grilled pork with bánh tráng phơi sương, fresh herbs, and a sauce mixed in the shop. At bà Hùng the pork is lean.",
+          "note": "Grilled pork rolled in bánh tráng phơi sương with fresh herbs and a dipping sauce each shop mixes itself. At bà Hùng the pork is lean.",
           "dishSlug": "nem-nuong-da-lat"
         },
         {
           "name": "Bánh giò",
           "nameVi": "Bánh giò",
           "address": "26 Hoàng Diệu and 26 Phạm Nhật Duật",
-          "note": "A cake to order beside the bánh mì xíu mại bowls.",
+          "note": "A bánh giò to add to the bánh mì xíu mại breakfast, at the same morning counters.",
           "dishSlug": "banh-gio-da-lat",
           "photo": "banh-gio-da-lat"
         },
@@ -293,50 +293,49 @@
           "name": "Chả cây",
           "nameVi": "Chả cây",
           "address": "Tăng Bạt Hổ, Yersin, Hoàng Diệu, and Phạm Nhật Duật",
-          "note": "Chả cây beside the bánh căn, and a chả beside the morning xíu mại, kept as two names.",
+          "note": "Chả cây at the bánh căn doors, and chả at the morning xíu mại counters, to eat with the cakes or the bowl.",
           "dishSlug": "cha-cay-da-lat"
         },
         {
           "name": "Gà nướng lu",
           "nameVi": "Gà nướng lu",
           "address": "2B Chu Văn An",
-          "note": "Chicken roasted in a lu, beside the lá é hotpot.",
+          "note": "Chicken roasted in a lu at Lẩu gà lá é 668 on Chu Văn An. Order it alongside the hotpot.",
           "dishSlug": "ga-nuong-lu"
         },
         {
           "name": "Lòng gà xào nấm",
           "nameVi": "Lòng gà xào nấm",
           "address": "2B Chu Văn An",
-          "note": "Chicken offal stir-fried with mushrooms, on the same menu as the lá é hotpot.",
+          "note": "Chicken offal stir-fried with mushrooms, a side to order with the lá é hotpot at 2B Chu Văn An.",
           "dishSlug": "long-ga-xao-nam"
         },
         {
           "name": "Grilled forest meat",
           "nameVi": "Thịt rừng nướng",
           "address": "Toward Langbiang, or Cu Lan village",
-          "note": "Grilled forest meat with the bamboo-tube rice.",
+          "note": "Grilled forest meat, eaten with bamboo-tube rice and sesame salt out toward Langbiang or in Cu Lan village.",
           "dishSlug": "thit-rung-nuong"
         },
         {
           "name": "Grilled chicken",
           "nameVi": "Gà nướng",
           "address": "Langbiang side, Cu Lan, and 7 Tô Hiến Thành",
-          "note": "Grilled chicken with cơm lam toward Langbiang or in Cu Lan, and on the chicken menu at 7 Tô Hiến Thành.",
-          "dishSlug": "ga-nuong-da-lat",
-          "photo": "ga-nuong-da-lat"
+          "note": "Grilled chicken with bamboo-tube rice toward Langbiang or in Cu Lan, and on the chicken menu at Lẩu Gà Số 7 on Tô Hiến Thành.",
+          "dishSlug": "ga-nuong-da-lat"
         },
         {
           "name": "Grilled chicken eggs",
           "nameVi": "Hột gà nướng",
           "address": "Toward Langbiang, or Cu Lan village",
-          "note": "Chicken eggs grilled beside the bamboo-tube rice.",
+          "note": "Grilled chicken eggs, eaten with bamboo-tube rice out toward Langbiang or in Cu Lan village.",
           "dishSlug": "hot-ga-nuong"
         },
         {
           "name": "Stuffed snails",
           "nameVi": "Ốc nhồi thịt",
           "address": "33 Hai Bà Trưng",
-          "note": "Snails stuffed with meat, the specialty at 33 Hai Bà Trưng.",
+          "note": "Snails stuffed with meat, the dish to order at 33 Hai Bà Trưng, where oxtail hotpot is the other pot on the table.",
           "dishSlug": "oc-nhoi-thit",
           "photo": "oc-nhoi-thit"
         },
@@ -344,84 +343,86 @@
           "name": "Oxtail hotpot",
           "nameVi": "Lẩu đuôi bò",
           "address": "33 Hai Bà Trưng",
-          "note": "Oxtail hotpot at 33 Hai Bà Trưng.",
+          "note": "Oxtail hotpot at 33 Hai Bà Trưng, the same door as the stuffed snails.",
           "dishSlug": "lau-duoi-bo"
         },
         {
           "name": "Chicken herbal stew",
           "nameVi": "Gà tiềm",
           "address": "39 Bùi Thị Xuân",
-          "note": "Chicken stewed with ginseng and Chinese herbs.",
-          "dishSlug": "ga-tiem"
+          "note": "Chicken stewed in its own pot with ginseng and Chinese herbs at Tài Ký, 39 Bùi Thị Xuân.",
+          "dishSlug": "ga-tiem",
+          "photo": "ga-tiem"
         },
         {
           "name": "Pigeon herbal stew",
           "nameVi": "Bồ câu tiềm",
           "address": "39 Bùi Thị Xuân",
-          "note": "Pigeon stewed with ginseng and Chinese herbs.",
+          "note": "Pigeon stewed in its own pot with ginseng and Chinese herbs at Tài Ký, 39 Bùi Thị Xuân.",
           "dishSlug": "bo-cau-tiem"
         },
         {
           "name": "Beef-tendon herbal stew",
           "nameVi": "Gân bò tiềm",
           "address": "39 Bùi Thị Xuân",
-          "note": "Beef tendon stewed with ginseng and Chinese herbs.",
+          "note": "Beef tendon stewed in its own pot with ginseng and Chinese herbs at Tài Ký, 39 Bùi Thị Xuân.",
           "dishSlug": "gan-bo-tiem"
         },
         {
           "name": "Pork-tendon herbal stew",
           "nameVi": "Gân heo tiềm",
           "address": "39 Bùi Thị Xuân",
-          "note": "Pork tendon stewed with ginseng and Chinese herbs.",
+          "note": "Pork tendon stewed in its own pot with ginseng and Chinese herbs at Tài Ký, 39 Bùi Thị Xuân.",
           "dishSlug": "gan-heo-tiem"
         },
         {
           "name": "Pork-brain herbal stew",
           "nameVi": "Óc heo tiềm",
           "address": "39 Bùi Thị Xuân",
-          "note": "Pork brain stewed with ginseng and Chinese herbs.",
+          "note": "Pork brain stewed in its own pot with ginseng and Chinese herbs at Tài Ký, 39 Bùi Thị Xuân.",
           "dishSlug": "oc-heo-tiem"
         },
         {
           "name": "Ngọc hành herbal stew",
           "nameVi": "Ngọc hành tiềm",
           "address": "39 Bùi Thị Xuân",
-          "note": "Ngọc hành stewed with ginseng and Chinese herbs.",
+          "note": "Ngọc hành stewed in its own pot with ginseng and Chinese herbs at Tài Ký, 39 Bùi Thị Xuân.",
           "dishSlug": "ngoc-hanh-tiem"
         },
         {
           "name": "Artichoke with pork hock",
           "nameVi": "Atiso hầm giò heo",
           "address": "3h Nam Kỳ Khởi Nghĩa",
-          "note": "Artichoke stewed with pork hock, served with the clay-pot rice.",
+          "note": "Artichoke, the Da Lat crop, stewed with pork hock and served with clay-pot rice at Cơm niêu Việt Nam.",
           "dishSlug": "atiso-ham-gio-heo"
         },
         {
           "name": "Lẩu tả pín lù",
           "nameVi": "Lẩu tả pín lù",
           "address": "3h Nam Kỳ Khởi Nghĩa",
-          "note": "Lẩu tả pín lù beside the clay-pot rice.",
+          "note": "Lẩu tả pín lù, the hotpot served beside the clay-pot rice at Cơm niêu Việt Nam on Nam Kỳ Khởi Nghĩa.",
           "dishSlug": "lau-ta-pin-lu"
         },
         {
           "name": "Boiled chicken",
           "nameVi": "Gà luộc",
           "address": "7 Tô Hiến Thành",
-          "note": "Boiled chicken, one of the chicken plates at 7 Tô Hiến Thành.",
-          "dishSlug": "ga-luoc-da-lat"
+          "note": "Boiled chicken at Lẩu Gà Số 7 on Tô Hiến Thành, one of the chicken plates beside the grilled and steamed chicken and the hotpot.",
+          "dishSlug": "ga-luoc-da-lat",
+          "photo": "ga-luoc-da-lat"
         },
         {
           "name": "Chicken steamed with fish sauce",
           "nameVi": "Gà hấp mắm",
           "address": "7 Tô Hiến Thành",
-          "note": "Chicken steamed with fish sauce.",
+          "note": "Chicken steamed with fish sauce at Lẩu Gà Số 7, 7 Tô Hiến Thành, one of the chicken plates beside the hotpot.",
           "dishSlug": "ga-hap-mam"
         },
         {
           "name": "Tile-grilled meat",
           "nameVi": "Nướng ngói",
           "address": "6A Nguyễn Lương Bằng",
-          "note": "Meat grilled on a tile.",
+          "note": "Meat grilled on a roof tile at Cu Đức, 6A Nguyễn Lương Bằng. Make it the evening grill if lunch was a hotpot.",
           "dishSlug": "nuong-ngoi"
         }
       ]
@@ -432,7 +433,7 @@
       "role": "regional",
       "nav": "Regional",
       "paragraphs": [
-        "Central dishes came with people who moved here, and the kitchens change them for the weather and the farms. Phan Rang chicken rice is the other plate those accounts place in town."
+        "Central dishes came with people who moved here, and the kitchens change them for the weather and the farms. Phan Rang chicken rice is the other plate in town."
       ],
       "spots": [
         {

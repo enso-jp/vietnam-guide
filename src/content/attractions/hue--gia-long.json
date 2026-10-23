@@ -4,22 +4,22 @@
   "name": "Tomb of Gia Long",
   "nameVi": "Lăng Gia Long",
   "kicker": "Pine-hill tomb of the dynasty’s founder",
-  "summary": "Walk the pine hills at Gia Long’s tomb, a family complex rather than one courtyard, in Hương Thọ. An adult ticket is 150,000 VND, and a child from 7 to 12 is free. It is not on the four-site ticket. The boat is about 18 km and the road about 16 km. Minutes on site are Check on arrival.",
+  "summary": "The founder’s tomb: a family of tombs spread over 42 named pine hills upstream, with no outer wall. Walk the honor court and seven terraces to Bửu Thành and the two stone tombs of the king and the empress, with Minh Thành temple beside them. Go for the dynasty’s first tomb, reached by river boat or by road and ferry.",
   "dots": 3,
   "district": "Royal tombs",
   "timeNeeded": "Check on arrival",
   "fee": "150,000 VND",
-  "getThere": "About 18 km by boat, or about 16 km by road, then a ferry. Minutes are Check on arrival.",
+  "getThere": "About 18 km by boat, or about 16 km by road and the Kim Ngọc ferry, to xã Hương Thọ.",
   "verified": "21 Oct 2026",
   "heroCaption": "A yellow pavilion among the pines at Gia Long’s tomb",
   "notice": {
     "title": "Not on the four-site ticket",
-    "body": "The 530,000 VND adult ticket covers the Imperial City, Minh Mang, Tu Duc, and Khai Dinh. Gia Long is a separate 150,000 VND adult ticket. A child from 7 to 12 is free here, not the 30,000 VND child line used at those three tombs."
+    "body": "The 530,000 VND four-site ticket covers the Imperial City, Minh Mang, Tu Duc, and Khai Dinh. Gia Long is a separate 150,000 VND adult ticket, and a child from 7 to 12 enters free."
   },
   "body": [
-    "The name covers a family of tombs, not one courtyard. Work ran from 1814 to 1820, after Empress Thừa Thiên Cao died. The centre describes more than 28 square kilometres and 42 named hills, from the Trường Sơn foothills to the Tả Trạch. The address field says xã Hương Thọ, huyện Hương Trà. The same record’s description says xã Hương Thọ, thành phố Huế. Both stay.",
+    "The name covers a family of tombs, not one courtyard. Work ran from 1814 to 1820, after Empress Thừa Thiên Cao died. The centre describes more than 28 square kilometres and 42 named hills, from the Trường Sơn foothills to the Tả Trạch, in xã Hương Thọ.",
     "Three zones make the visit. The burial of the king and the empress has an honor court, seven terraces, and Bửu Thành with two stone tombs. Minh Thành temple is on the right. A stele pavilion on the left carries Minh Mạng’s “Thánh đức thần công”. There is no outer wall. The pines are the boundary. The centre says 85 marker columns once stood, 42 remained in 1859, and two are left.",
-    "An adult ticket is 150,000 VND. A child from 7 to 12 pays nothing. Under 7 is free. Hue residents and the other groups named in Resolution 55 pay half. The centre’s own approach is a boat of about 18 km on the Perfume River to the landing, or a road of about 16 km, then the Kim Ngọc ferry and a few kilometres of forest track to those two columns. How long to stay is Check on arrival."
+    "An adult ticket is 150,000 VND, and children under 13 enter free. Come by boat, about 18 km up the Perfume River to the landing, or by road, about 16 km, then the Kim Ngọc ferry and a few kilometres of forest track to the two columns."
   ],
   "figures": [
     {
@@ -29,22 +29,22 @@
     }
   ],
   "gettingThere": [
-    "From the south bank, the centre’s own route is a boat of about 18 km up the Perfume River, or a road of about 16 km and then the Kim Ngọc ferry, plus a few kilometres of forest track. The minutes are Check on arrival."
+    "The centre’s own route is a boat of about 18 km up the Perfume River, or a road of about 16 km and then the Kim Ngọc ferry, plus a few kilometres of forest track."
   ],
   "legs": [
     {
       "heading": "From the south bank",
-      "body": "Boat about 18 km, or road about 16 km and the Kim Ngọc ferry. No published minute count. Check on arrival."
+      "body": "Boat about 18 km, or road about 16 km and the Kim Ngọc ferry."
     }
   ],
-  "hours": "16 Mar–15 Oct: 06:30–18:00, tickets until 17:30. 16 Oct–15 Mar: 07:00–17:30, tickets until 17:00. Confirm on arrival. The source is the centre’s 12 Mar 2024 notice, and a direct reload timed out on 21 Oct 2026.",
-  "closed": "No weekly closing day is on that notice. Confirm the board on arrival.",
+  "hours": "16 Mar–15 Oct: 06:30–18:00, tickets until 17:30. 16 Oct–15 Mar: 07:00–17:30, tickets until 17:00 (conservation centre notice, 12 Mar 2024). Confirm the board on arrival.",
+  "closed": "No weekly closing day on the centre’s notice.",
   "admissionNote": "Adult 150,000 VND. A child from 7 to 12 is free. Under 7 is free. Hue residents and the other groups named in Resolution 55 pay half. This tomb is not on the four-site ticket.",
   "links": [
     {
       "label": "Gia Long ticket page",
       "url": "https://eticket.hueworldheritage.org.vn/diem-den/lang-gia-long",
-      "note": "Hue Monuments Conservation Centre. The page text used here is the centre’s place record, read 21 Oct 2026."
+      "note": "Hue Monuments Conservation Centre."
     },
     {
       "label": "Resolution 55 fee table",
@@ -54,7 +54,7 @@
     {
       "label": "Visiting hours notice",
       "url": "https://hueworldheritage.org.vn/Thong-tin-tham-quan/Thoi-gian-tham-quan/pid/1775/cid/59?tid=Thoi-gian-dongmo-cua-tai-cac-diem-tham-quan.html",
-      "note": "12 Mar 2024. A direct reload timed out on 21 Oct 2026."
+      "note": "12 Mar 2024"
     }
   ],
   "lat": 16.3623494,

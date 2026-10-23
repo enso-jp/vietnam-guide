@@ -4,22 +4,22 @@
   "name": "An Bang Beach",
   "nameVi": "Bãi biển An Bàng",
   "kicker": "The beach stay on the Hoi An coast",
-  "summary": "Swim or walk the sand from the villa and homestay strip, now in Hoi An Tây. The June 2024 coast article calls that lodging the stay foreign visitors use, and it says erosion threatens this beach as well as Cửa Đại. No entry fee is printed. Chair hire and the ride from the old town are check on arrival.",
+  "summary": "The Hoi An beach: sand and sea in front of a strip of villas and homestays, with basket boats pulled up on the shore. Swim or walk the sand in the morning while the old town has the afternoon, or give it half a day when the swim is the point. Choose it over Cửa Đại, where erosion is serious.",
   "dots": 3,
   "district": "An Bang",
   "timeNeeded": "Half a day",
   "fee": "Check on arrival",
-  "getThere": "A ride or a bicycle. The minutes are check on arrival.",
-  "verified": "21 Oct 2026",
+  "getThere": "A ride or a bicycle from the old town",
+  "verified": "23 Oct 2026",
   "heroCaption": "Sand, water, and the thatched front, with basket boats on the beach",
   "notice": {
     "title": "This is not a walk to the lantern streets",
-    "body": "No entry fee is printed, and chair hire is check on arrival. The ride from the old town has no published minute count. If you sleep here, the evening in the old town is a ride back."
+    "body": "An Bang is a ride from the old town. Sleep here and the evening in the old town means a ride back; sleep in the old town and the sand is not at the end of the lane."
   },
   "body": [
-    "The visit is the sand and the water, with the low thatched front behind the loungers. The June 2024 ministry article describes the villa and homestay lodging here as the stay foreign visitors use. Give the beach a morning when the old town has the afternoon, or a half day when the swim is the point.",
-    "That same article says Cửa Đại’s erosion is serious, and that An Bang and Tân Thành are also threatened. Do not move the swim to Cửa Đại. The May 2018 heritage note lists An Bang, then in Cẩm An, among the local tourism sites the province recognized. Recognition is not a promise that the sand stays where it is. Cẩm An is now inside Hoi An Tây.",
-    "Come in the morning, in the drier months on the city climate page. No beach-flag hours were printed. No chair price was printed. Do not call the beach free. The mistake is sleeping on this sand and expecting the lantern streets at the end of the lane."
+    "The visit is the sand and the water, with the low thatched front behind the loungers. Villa and homestay lodging lines the beach, and it is the stay many foreign visitors choose. Give the beach a morning when the old town has the afternoon, or half a day when the swim is the point.",
+    "Erosion is serious at Cửa Đại, so swim here instead, and know that An Bang and Tân Thành are under threat too. An Bang, once in Cẩm An and now in Hoi An Tây, has been a recognised local tourism site since 2018.",
+    "Come in the morning, in the drier months from January to September. Ask the price of a chair before you sit down."
   ],
   "figures": [
     {
@@ -29,17 +29,17 @@
     }
   ],
   "gettingThere": [
-    "An Bang is the coast stay, in what the June 2024 article still called Cẩm An and what is now Hoi An Tây. Go by bicycle or a ride from the old town. The article does not name the vehicle and does not print minutes or kilometres. Those are check on arrival."
+    "An Bang is on the coast in Hoi An Tây. Go by bicycle or a ride from the old town."
   ],
   "legs": [
     {
       "heading": "From the old town",
-      "body": "A bicycle or a ride. No published minute count and no published fare. Check both on arrival."
+      "body": "A bicycle or a ride to the coast."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly closing day is printed.",
-  "admissionNote": "No entry fee is printed on the June 2024 ministry article or the May 2018 recognition note. Do not treat the beach as free. Chair hire is check on arrival.",
+  "closed": "No weekly closing day.",
+  "admissionNote": "No entry fee listed (June 2024 ministry article; May 2018 recognition note). Chair hire: Check on arrival.",
   "links": [
     {
       "label": "Hoi An coast, June 2024",

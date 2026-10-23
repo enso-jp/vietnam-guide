@@ -4,7 +4,7 @@
   "name": "Vietnam National Fine Arts Museum",
   "nameVi": "Bảo tàng Mỹ thuật Việt Nam",
   "kicker": "Galleries at 66 Nguyen Thai Hoc",
-  "summary": "Walk the galleries at 66 Nguyen Thai Hoc, in Ba Dinh. The museum opened to the public in 1966. About 2,000 works are on display, and the Vietnamese home page says the collection holds nearly 20,000. The door fee and the hours were not on the pages opened here. Check both on arrival.",
+  "summary": "Walk the galleries of the Vietnam National Fine Arts Museum at 66 Nguyen Thai Hoc, a short walk from the Temple of Literature. Open to the public since 1966, it keeps about 2,000 works on display from a collection of nearly 20,000. Pair it with the temple courtyards for one unhurried morning in Ba Dinh.",
   "dots": 3,
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
@@ -12,13 +12,9 @@
   "district": "Ba Dinh",
   "verified": "22 Oct 2026",
   "heroCaption": "The exterior of the Fine Arts Museum",
-  "notice": {
-    "title": "No published door fee",
-    "body": "The museum pages opened on 22 October 2026 give the address, the opening year, and the size of the collection. They do not give hours or a ticket price."
-  },
   "body": [
-    "The building is at 66 Nguyen Thai Hoc, Ba Dinh, a short walk from the Temple of Literature. The English about page says the museum opened to the public in 1966 and that about 2,000 works are on display. The Vietnamese home page says the collection holds nearly 20,000 works.",
-    "Hours and the door fee were not on those pages. Both are check on arrival. The walk from the Temple of Literature has no published minute count."
+    "The museum is at 66 Nguyen Thai Hoc, Ba Dinh, a short walk from the Temple of Literature. It opened to the public in 1966. About 2,000 works are on display, drawn from a collection of nearly 20,000.",
+    "Do the temple courtyards first, then walk over for the galleries. It is a quieter morning than the lake, and an easy one to add to the temple."
   ],
   "figures": [
     {
@@ -28,16 +24,16 @@
     }
   ],
   "gettingThere": [
-    "66 Nguyen Thai Hoc, Ba Dinh. Walk from the Temple of Literature. The minutes are check on arrival."
+    "66 Nguyen Thai Hoc, Ba Dinh. Walk from the Temple of Literature, or take a car or motorbike from Hoan Kiem."
   ],
   "legs": [
     {
       "heading": "From the Temple of Literature",
-      "body": "Walk. The minutes are check on arrival."
+      "body": "Walk to 66 Nguyen Thai Hoc."
     }
   ],
   "hours": "Check on arrival",
-  "admissionNote": "Check on arrival. No fee was printed on the pages opened.",
+  "admissionNote": "Check on arrival. The museum pages list no fee or hours.",
   "links": [
     {
       "label": "Museum about page",

@@ -1,0 +1,62 @@
+{
+  "slug": "langbiang",
+  "placeSlug": "da-lat",
+  "name": "Langbiang Mountain",
+  "nameVi": "Khu du lịch Langbiang",
+  "kicker": "The peak north of town, by jeep or on foot",
+  "summary": "Ride a jeep or hike up Lang Biang, the mountain north of Da Lat, for the view over pine ridges, farm valleys, and a lake far below. It is the half-day that shows you the highlands rather than the town. Go early, when the cloud is still off the top.",
+  "dots": 4,
+  "timeNeeded": "Half day",
+  "fee": "155,000–420,000 VND by package",
+  "getThere": "Road north to 93A Bidoup",
+  "district": "The north hills",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The view from the top of Lang Biang over the valley and the lake",
+  "notice": {
+    "title": "The ticket is the tourism park",
+    "body": "Lang Biang is a ticketed tourism zone with a gate. The package you buy sets what is included, such as the jeep up. It is not a free hill walk outside the fence."
+  },
+  "body": [
+    "Lang Biang rises north of the city, and the tourism zone at 93A Bidoup is the way up. The green jeeps carry you toward the viewpoints, or you hike it. From the top the land opens out: pine ridges, farm valleys, and water in the hollows below.",
+    "Give it a half day with the ride out and back. The gate sells packages, so choose the jeep if you want the view without the climb, and bring a layer from November to January."
+  ],
+  "figures": [
+    {
+      "id": "da-lat-langbiang-2",
+      "caption": "A tourist jeep below the LANGBIANG letters",
+      "alt": "Green tourist jeep on the road below the Langbiang sign on a grassy hill"
+    }
+  ],
+  "gettingThere": [
+    "Lang Biang is north of the centre, at the tourism zone on 93A Bidoup. Take a taxi or Grab from Xuan Huong Lake, or ride a motorbike if you hold the right licence."
+  ],
+  "legs": [
+    {
+      "heading": "From Xuan Huong Lake",
+      "body": "Taxi, Grab, or motorbike north to 93A Bidoup."
+    },
+    {
+      "heading": "From the gate",
+      "body": "Jeep or hike toward the peak viewpoints."
+    }
+  ],
+  "hours": "07:00–20:00",
+  "closed": "Check on arrival",
+  "admissionNote": "155,000–420,000 VND depending on the package (Visit Lâm Đồng, Langbiang Land). The package sets whether the jeep is included. Confirm at the gate. The provincial page gives about 60 minutes for the visit itself; with the road, plan a half day.",
+  "links": [
+    {
+      "label": "Visit Lâm Đồng, Langbiang Land",
+      "url": "https://visitlamdong.vn/vi/langbiangland",
+      "note": "Provincial tourism page, accessed 21 Oct 2026"
+    },
+    {
+      "label": "Vietnam Tourism, things to do in Da Lat",
+      "url": "https://www.vietnam.travel/things-to-do/8-things-to-do-in-dalat",
+      "note": "Lang Biang hike"
+    }
+  ],
+  "interests": [
+    "mountains",
+    "photography"
+  ]
+}

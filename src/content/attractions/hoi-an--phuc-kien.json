@@ -4,21 +4,21 @@
   "name": "Fujian Assembly Hall",
   "nameVi": "Hội quán Phúc Kiến",
   "kicker": "Long Fujian merchant hall on Trần Phú",
-  "summary": "The long assembly hall at 46 Trần Phú, about 120 metres through three courts to the Thiên Hậu hall. It began in 1697 as Kim Sơn Tự and was rebuilt as the Fujian hall from 1757. Door hours are check on arrival. The fee is the ancient-town ticket, which is also check on arrival.",
+  "summary": "The long Fujian merchant hall at 46 Trần Phú: about 120 metres through three courts to the hall of Thiên Hậu. It began in 1697 as Kim Sơn Tự and was rebuilt by the Fujian community from 1757. If you enter only one assembly hall, make it this one.",
   "dots": 4,
   "district": "Old town",
-  "timeNeeded": "A walk through the courts. Exact minutes are check on arrival.",
-  "fee": "Check on arrival",
+  "timeNeeded": "A walk through three courts",
+  "fee": "20,000 VND from 10 Aug 2026, or a combination ticket",
   "getThere": "Walk to 46 Trần Phú",
-  "verified": "21 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "The hall court, with the gate and the incense burner",
   "notice": {
-    "title": "Hours and the fee are both check on arrival",
-    "body": "The monument file prints no door hours and no separate price. Assembly halls are optional works on the combination tickets the heritage centre described in January and March 2026. From 10 August 2026 the city fee is 20,000 VND per person per building. Ask which rule the desk is using."
+    "title": "Come in the morning",
+    "body": "Door hours are not published. Assembly halls are optional stops on the old-town ticket, so pick this one if you only enter one hall."
   },
   "body": [
-    "Walk in from 46 Trần Phú, on the even side near the market. The monument file gives the hall as about 120 metres deep, through three courts, back toward the Phan Chu Trinh–Nguyễn Huệ crossing. It began in 1697 as Kim Sơn Tự. From 1757 the Fujian congregation rebuilt it as an assembly hall for worship, the earlier merchants, and meetings. The main hall is Thiên Hậu.",
-    "Come in the morning. No open or close is printed on the monument file, so the hour is check on arrival. This is the long hall if your ticket includes one assembly hall. The monument file does not rank the other halls. Chùa Ông, at 24 Trần Phú, is the other landmark choice on the combination notices."
+    "Walk in from 46 Trần Phú, on the even side near the market. The hall runs about 120 metres deep through three courts, back toward the Phan Chu Trinh–Nguyễn Huệ crossing. It began in 1697 as Kim Sơn Tự. From 1757 the Fujian congregation rebuilt it as an assembly hall for worship, for the founding merchants, and for meetings. The main hall is Thiên Hậu’s.",
+    "Come in the morning. If your ticket includes one assembly hall, this is the long one. Chùa Ông, at 24 Trần Phú, is the other landmark choice on the combination ticket."
   ],
   "figures": [
     {
@@ -28,21 +28,21 @@
     }
   ],
   "gettingThere": [
-    "Walk if you are already in the ancient town. The monument file also describes the way from the Hoi An bus station: Huỳnh Thúc Kháng and Nguyễn Thị Minh Khai, across the bridge onto Trần Phú, and also via Phan Chu Trinh or Trần Hưng Đạo to Nguyễn Huệ. No minute count is printed. The minutes are check on arrival."
+    "Walk if you are already in the old town. From the Hoi An bus station, go via Huỳnh Thúc Kháng and Nguyễn Thị Minh Khai, across the bridge onto Trần Phú, or via Phan Chu Trinh or Trần Hưng Đạo to Nguyễn Huệ."
   ],
   "legs": [
     {
       "heading": "From the old town",
-      "body": "Walk along Trần Phú to number 46, even side, near the market. The minutes depend on your lane."
+      "body": "Walk along Trần Phú to number 46, even side, near the market."
     },
     {
       "heading": "From the Hoi An bus station",
-      "body": "The monument file sends you via Huỳnh Thúc Kháng and Nguyễn Thị Minh Khai, across the bridge onto Trần Phú, or via Phan Chu Trinh or Trần Hưng Đạo to Nguyễn Huệ. The ride time is check on arrival."
+      "body": "Via Huỳnh Thúc Kháng and Nguyễn Thị Minh Khai, across the bridge onto Trần Phú, or via Phan Chu Trinh or Trần Hưng Đạo to Nguyễn Huệ."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly closing day is printed on the monument file.",
-  "admissionNote": "No separate hall price is printed on the monument file. From 10 August 2026 the city fee is 20,000 VND per person per building, the same for a Vietnamese and a foreign visitor. The heritage centre’s January and March 2026 notices name assembly halls among the optional cultural works on the 80,000 VND and 120,000 VND combination tickets. Which desk is in force is check on arrival.",
+  "closed": "No weekly closing day published.",
+  "admissionNote": "No separate price for this building. From 10 Aug 2026: 20,000 VND per person per building, the same for every visitor (Da Nang Resolution 98/2026). Heritage centre notices of 26 Jan and 16 Mar 2026: 80,000 VND (streetscape, Chùa Cầu or Miếu Quan Công, and two other works) or 120,000 VND (adds a museum and three other works), usable through a stay of up to three days. A May 2026 article counts those as four and six works. Ask at the booth which ticket is on sale.",
   "links": [
     {
       "label": "Hội quán Phúc Kiến monument file",

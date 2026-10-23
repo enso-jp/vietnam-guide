@@ -3,8 +3,8 @@
   "placeSlug": "hanoi",
   "name": "Train Street",
   "nameVi": "Phố đường tàu",
-  "kicker": "The railway lane west of the station",
-  "summary": "The tracks run through a residential lane from Le Duan toward Phung Hung. In March 2025 the Department of Tourism asked agencies not to run tours here. Do not stand on the rails. A cafe fee was not published. Check on arrival.",
+  "kicker": "The railway lane between Le Duan and Phung Hung",
+  "summary": "A working railway runs through a residential lane between Le Duan and Phung Hung, with house fronts, plants, and cafe stools a step from the rails. Tour groups have been asked to stay away since March 2025. If you go, go on your own, stay off the tracks, and watch from the side.",
   "dots": 2,
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
@@ -13,11 +13,11 @@
   "verified": "22 Oct 2026",
   "heroCaption": "A train in the lane at Train Street",
   "gettingThere": [
-    "Walk from Hoan Kiem. The corridor links Le Duan, Tran Phu, Cua Dong, and Phung Hung, about 2 km. The Tran Phu to Phung Hung section is about 300 m. The minutes from the lake are check on arrival."
+    "Walk from Hoan Kiem to the Tran Phu–Phung Hung section of the line. The full corridor runs about 2 km from Le Duan to Phung Hung."
   ],
-  "hours": "Check on arrival. No cafe fee and no visitor timetable were on the March 2025 reports.",
-  "closed": "The Department of Tourism asked agencies not to run tours in Cua Nam, Hang Bong, and Cua Dong. VnExpress also says the street was officially closed in September 2022. Neither report says an individual may not look from off the rails.",
-  "admissionNote": "Check on arrival. No cafe price was published.",
+  "hours": "Check on arrival. No visitor timetable or cafe price published.",
+  "closed": "Department of Tourism asked agencies not to run tours in Cua Nam, Hang Bong, and Cua Dong wards (March 2025). VnExpress: officially closed in September 2022. Neither report bars individuals from watching off the rails.",
+  "admissionNote": "Check on arrival.",
   "links": [
     {
       "label": "VietnamPlus, 10 March 2025",
@@ -27,5 +27,26 @@
   ],
   "interests": [
     "photography"
+  ],
+  "notice": {
+    "title": "Tours have been asked to stop",
+    "body": "In March 2025 Hanoi's Department of Tourism asked agencies not to run tours here. Do not stand on the tracks."
+  },
+  "body": [
+    "The tracks squeeze between house fronts, potted plants, and cafe stools along a corridor of about 2 km, from Le Duan through Tran Phu and Cua Dong to Phung Hung. The Tran Phu to Phung Hung section is about 300 m.",
+    "Between trains it is a residential lane, and visitors have no timetable to plan around, so do not build a day on catching a train. Keep it short, stay off the rails, and leave the lane to the people who live there."
+  ],
+  "figures": [
+    {
+      "id": "hanoi-train-street-2",
+      "caption": "The lane in daylight, between trains",
+      "alt": "A railway track running between house fronts and cafe signs in Hanoi's Train Street"
+    }
+  ],
+  "legs": [
+    {
+      "heading": "From Hoan Kiem",
+      "body": "Walk to Tran Phu or Phung Hung."
+    }
   ]
 }

@@ -4,11 +4,11 @@
   "name": "An Thuong",
   "nameVi": "An Thượng",
   "kicker": "Bar and kitchen lanes behind My Khe",
-  "summary": "Give An Thuong the evening after a My Khe swim. The signed quarter starts at the beach road and runs a few streets inland, bounded by Vo Nguyen Giap, Hoang Ke Viem, Chau Thi Vinh Te, and Ngo Thi Si. The night is its lanes of bars and kitchens. No ticket and no closing hour are published. Skip it if you sleep on the river and want an early night.",
+  "summary": "Walk the small streets a few blocks inland from My Khe after dark, when the bars, kitchens, lanterns, and spa boards light up close enough to wander between. The quarter runs from the beach road at Vo Nguyen Giap inland to Chau Thi Vinh Te. Give it the evening after a swim, and skip it if you sleep on the river and want an early night.",
   "dots": 4,
   "timeNeeded": "An evening",
-  "fee": "Check on arrival. Kalà Kalà publishes free entry. A drink is not a city ticket.",
-  "getThere": "Walk west from a My Khe hotel, a few streets inland from the sand. A short Grab from the river.",
+  "fee": "No ticket for the streets. Kalà Kalà entry is free. Drinks: check on arrival.",
+  "getThere": "Walk west from a My Khe hotel. A short Grab from the river.",
   "district": "The beach",
   "verified": "23 Oct 2026",
   "heroCaption": "A doorway on An Thuong 4 at night",
@@ -17,9 +17,9 @@
     "body": "The lanes sit behind My Khe, across the Han River from the old center. If you sleep on the river, plan a Grab each way rather than a walk after dinner."
   },
   "body": [
-    "Come after the swim and walk the small streets inland of My Khe. The city named this tourist quarter under Decision 489/QĐ-UBND of 31 January 2018 and set the name stone on 23 April 2018 at the corner of Vo Nguyen Giap and Hoang Ke Viem. It covers about 0.15 km², beach included. The city’s 2018 report counted 141 businesses serving visitors inside it.",
-    "The lanes are the night: bars and kitchens a block or two from the sand. On the beach road, Kalà Kalà at 51 Vo Nguyen Giap is the club on the sand, and entry is free. Its site prints 08:00–02:00 in one place and 08:00–midnight in another. East West Brewing’s taproom faces My Khe from 08:00 to 01:00, and its page does not give a street. Those two sit on the sand. They are not the lanes.",
-    "The night market at No. 4 An Thuong 4 is a separate stop: about 40 stalls, 17:00 to 23:00, and free to enter on the city’s 2023 markets page. Treat it as one stall row, not the quarter. The 2018 report proposes walking streets and activity after midnight, but no closing hour is published for the lanes."
+    "Come after the swim and walk the small streets inland of My Khe. The city named this tourist quarter in January 2018 and set the name stone that April at the corner of Vo Nguyen Giap and Hoang Ke Viem. It covers about 0.15 km², beach included, and counted 141 businesses serving visitors in 2018.",
+    "The lanes are the night: bars and kitchens a block or two from the sand. On the beach road, Kalà Kalà at 51 Vo Nguyen Giap is the club on the sand, free to enter and open late. East West Brewing’s taproom faces My Khe and pours until 01:00. Those two sit on the sand. They are not the lanes.",
+    "The night market at No. 4 An Thuong 4 is a separate stop: about 40 stalls, open in the evening and free to enter. Treat it as one stall row, not the quarter."
   ],
   "figures": [
     {
@@ -29,7 +29,7 @@
     }
   ],
   "gettingThere": [
-    "The quarter begins at Vo Nguyen Giap, the beach road behind My Khe. The name stone stands at the Hoang Ke Viem corner, and the lanes run inland as far as Chau Thi Vinh Te. Walk in from a hotel on that stretch of sand. From a Han River hotel, cross the river by Grab. The minutes are check on arrival."
+    "The quarter begins at Vo Nguyen Giap, the beach road behind My Khe. The name stone stands at the Hoang Ke Viem corner, and the lanes run inland as far as Chau Thi Vinh Te. Walk in from a hotel on that stretch of sand. From a Han River hotel, cross the river by Grab."
   ],
   "legs": [
     {
@@ -38,12 +38,12 @@
     },
     {
       "heading": "From the Han River",
-      "body": "By Grab or taxi across the river. The minutes are check on arrival."
+      "body": "By Grab or taxi across the river."
     }
   ],
-  "hours": "The lanes publish no hour. Kalà Kalà: 08:00–02:00 in its FAQ, 08:00–midnight in its footer. East West Brewing: 08:00–01:00. The An Thuong 4 night market: 17:00–23:00 on the 2023 city page.",
-  "closed": "No weekly closing day is published.",
-  "admissionNote": "The streets have no published ticket. Kalà Kalà publishes free entry. The An Thuong 4 night market is free to enter on the 2023 city page. A drink price is check on arrival.",
+  "hours": "Lanes: no set hours. Kalà Kalà: 08:00–02:00 (its FAQ) or 08:00–midnight (its footer). East West Brewing: 08:00–01:00. An Thuong 4 night market: 17:00–23:00 (city markets page, 2023).",
+  "closed": "No weekly closing day listed.",
+  "admissionNote": "No ticket for the streets. Kalà Kalà entry is free. An Thuong 4 night market is free to enter (2023 listing). Drinks: check on arrival.",
   "links": [
     {
       "label": "An Thuong tourist quarter",

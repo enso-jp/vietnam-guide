@@ -4,22 +4,22 @@
   "name": "Museum of Cham Sculpture",
   "nameVi": "Bảo tàng Điêu khắc Chăm",
   "kicker": "Cham sandstone on the Han River",
-  "summary": "Give the museum a morning on the river, before the beach takes the day. The galleries hold Cham sandstone and terracotta from My Son and the other find-sites. A general ticket is 60,000 VND. The door is published as both 07:00 and 07:30. The stone is not the ruins.",
+  "summary": "More than 400 Cham sandstone and terracotta carvings, from the 5th to the 15th century, fill galleries on the Han River, grouped by the sites they came from: My Son, Tra Kieu, Dong Duong, and Thap Mam. An hour on a river morning is enough. Go before My Son, because much of the sanctuary's sculpture is here.",
   "dots": 4,
   "timeNeeded": "1 hour",
   "fee": "60,000 VND for a general visitor",
-  "getThere": "On the Han River in Hai Chau. Two addresses are published. Confirm the door.",
+  "getThere": "On the Han River in Hai Chau, a walk from a river hotel.",
   "district": "The river",
   "verified": "21 Oct 2026",
   "heroCaption": "The museum building from the garden path",
   "notice": {
-    "title": "The door time is published twice",
-    "body": "Visit Da Nang says 07:00–17:00. The city tourism price list says 07:30–17:00. Both close at 17:00. Confirm that morning."
+    "title": "Doors close at 17:00",
+    "body": "An afternoon after the beach is too late. Give the galleries a morning, then go to the sand."
   },
   "body": [
     "Walk the galleries before you give the day to the beach. More than 400 works, from the 5th to the 15th century, are grouped by the places they were found, including My Son, Tra Kieu, Dong Duong, and Thap Mam. The building opened in 1919.",
-    "A general ticket is 60,000 VND. Da Nang residents and university, college, and vocational students pay 20,000 VND. Children under 16, school pupils, and Vietnamese citizens 60 and over are free, along with the other cases in the fee resolution. Free days include the first day of Tet, 29 March, Hung Kings’ day, 2 September, and 24 November.",
-    "Do not use the hour as a substitute for My Son. The museum holds sculpture from the sanctuary. It is not the sanctuary. If the beach already has the morning, skip it."
+    "A general ticket is 60,000 VND. Da Nang residents and university, college, and vocational students pay 20,000 VND. Children under 16, school pupils, and Vietnamese citizens 60 and over are free. Everyone enters free on the first day of Tet, 29 March, Hung Kings’ day, 2 September, and 24 November.",
+    "The museum holds sculpture from the sanctuary. The towers themselves are still in the My Son valley. Use the hour as the start of that story, not a substitute for it. If the beach already has the morning, skip it."
   ],
   "figures": [
     {
@@ -29,21 +29,21 @@
     }
   ],
   "gettingThere": [
-    "The museum is on the Han River in Hai Chau, a walk from a river hotel. Visit Da Nang gives No. 2, 2 Thang 9 Street. Resolution 47/2026 gives 01 Trung Nu Vuong, Hai Chau ward. Treat those as the two published addresses of the same museum, and confirm the door."
+    "The museum is on the Han River in Hai Chau, a walk from a river hotel. Its address is No. 2, 2 Thang 9 Street, also given as 01 Trung Nu Vuong, Hai Chau ward. It is one building."
   ],
   "legs": [
     {
       "heading": "From the Han River",
-      "body": "Walk. The two published addresses are above. The minutes from a specific hotel are check on arrival."
+      "body": "Walk along the river to the museum."
     },
     {
       "heading": "From My Khe",
-      "body": "By car. No official page in this guide prints the minutes. Check them on arrival."
+      "body": "By car or Grab across the river."
     }
   ],
-  "hours": "07:00–17:00 on Visit Da Nang. 07:30–17:00 on the city tourism price list.",
-  "closed": "No weekly closing day is published. Confirm the board that morning.",
-  "admissionNote": "General visitor 60,000 VND. A Da Nang permanent resident, and a university, college, or vocational student, 20,000 VND. Children under 16, school pupils, and Vietnamese citizens 60 and over are free, plus other cases listed in Resolution 47/2026. Free on the first day of Tet, 29 March, Hung Kings’ day, 2 September, and 24 November. The resolution and the 2026 tourism price list give the same 60,000 and 20,000 figures.",
+  "hours": "07:00–17:00 (Visit Da Nang); 07:30–17:00 (2026 city price list). Check on arrival.",
+  "closed": "No weekly closing day listed. Check on arrival.",
+  "admissionNote": "General visitor 60,000 VND. A Da Nang permanent resident, and a university, college, or vocational student, 20,000 VND. Children under 16, school pupils, and Vietnamese citizens 60 and over are free, plus other cases in Resolution 47/2026. Free for all on the first day of Tet, 29 March, Hung Kings’ day, 2 September, and 24 November. Resolution 47/2026 and the 2026 city price list agree on 60,000 and 20,000 VND.",
   "links": [
     {
       "label": "Museum of Cham Sculpture",

@@ -4,21 +4,21 @@
   "name": "Crazy House",
   "nameVi": "Biệt thự Hằng Nga",
   "kicker": "Hang Nga’s walk-through concrete house",
-  "summary": "Climb the concrete rooms and narrow walkways at Biệt thự Hằng Nga, the house Dang Viet Nga designed at 03 Huynh Thuc Khang. Hang Nga Ltd prints 08:30 to 19:00. Visitors from 1.4 m pay 80,000 VND. Leave the large bag behind. The passages are tight.",
+  "summary": "Climb through the concrete rooms and narrow bridges of the house Dang Viet Nga designed at 03 Huynh Thuc Khang. You walk through it rather than look from the street, so allow 45 to 60 minutes and leave the big bag behind.",
   "dots": 3,
   "timeNeeded": "45–60 minutes",
   "fee": "80,000 VND from 1.4 m",
   "getThere": "03 Huynh Thuc Khang",
   "district": "The west ridge",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "The Crazy House exterior",
   "notice": {
     "title": "Passages are tight",
-    "body": "Hang Nga Ltd describes a walk through the rooms. A large bag makes the narrow passages harder. The visit is 45 to 60 minutes."
+    "body": "The walkways and stairs are narrow. A large bag makes the walk harder."
   },
   "body": [
-    "Crazy House is Biệt thự Hằng Nga, at 03 Huynh Thuc Khang. Dang Viet Nga designed the concrete rooms and the bridges between them. You walk through, rather than look from the street. The exterior is the frame to know before you go in.",
-    "Hang Nga Ltd prints 08:30 to 19:00. Plan 45 to 60 minutes. Visitors from 1.4 m pay 80,000 VND, a child from 1.2 m to 1.4 m pays 30,000 VND, and under 1.2 m is free. Go near opening if you want the rooms before the tour groups. Leave the large bag."
+    "Crazy House is Biệt thự Hằng Nga, at 03 Huynh Thuc Khang. Dang Viet Nga designed the concrete rooms and the bridges between them. You walk through, rather than look from the street.",
+    "Plan 45 to 60 minutes. Go near the 08:30 opening if you want the rooms before the tour groups. Children under 1.2 m enter free."
   ],
   "figures": [
     {
@@ -28,17 +28,17 @@
     }
   ],
   "gettingThere": [
-    "The house is at 03 Huynh Thuc Khang, on the west side of town. Take a taxi or Grab from Xuan Huong Lake. The minutes and the fare are Check on arrival."
+    "The house is at 03 Huynh Thuc Khang, on the west side of town. Take a taxi or Grab from Xuan Huong Lake."
   ],
   "legs": [
     {
       "heading": "From Xuan Huong Lake",
-      "body": "Taxi or Grab to 03 Huynh Thuc Khang. Minutes and the fare are Check on arrival."
+      "body": "Taxi or Grab to 03 Huynh Thuc Khang."
     }
   ],
-  "hours": "08:30 to 19:00",
-  "closed": "No weekly closing day is printed.",
-  "admissionNote": "Hang Nga Ltd: visitors from 1.4 m pay 80,000 VND. A child from 1.2 m to 1.4 m pays 30,000 VND. Under 1.2 m is free. Hours are 08:30 to 19:00.",
+  "hours": "08:30–19:00",
+  "closed": "No weekly closing day listed",
+  "admissionNote": "Visitors from 1.4 m: 80,000 VND. Children 1.2–1.4 m: 30,000 VND. Under 1.2 m: free (Hang Nga Ltd).",
   "links": [
     {
       "label": "Hang Nga Ltd",

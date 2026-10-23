@@ -4,26 +4,26 @@
   "name": "Ho Chi Minh Mausoleum",
   "nameVi": "Lăng Chủ tịch Hồ Chí Minh",
   "kicker": "A morning visit on Ba Dinh Square",
-  "summary": "Join the morning queue on an open day. The operator closes Monday and Friday, with named exceptions, and the government portal closes the building from 4 September 2026 to 2 November 2026. The official FAQ says the visit is free. Vietnam Tourism prints 40,000 VND. Both figures stay.",
+  "summary": "Join the morning line at 17 Ngoc Ha for the Ho Chi Minh Mausoleum, the columned hall at the head of Ba Dinh Square. Visits run only in the morning and never on Mondays or Fridays, with a few named exceptions, and the building shuts for maintenance in the autumn. The citadel and One Pillar Pagoda fill the rest of the morning.",
   "dots": 4,
   "timeNeeded": "Check on arrival",
-  "fee": "Free on the official FAQ. 40,000 VND on Vietnam Tourism.",
+  "fee": "Free (operator FAQ); 40,000 VND on Vietnam Tourism",
   "getThere": "Assembly at 17 Ngoc Ha",
   "district": "Ba Dinh",
   "verified": "22 Oct 2026",
   "heroCaption": "The facade of the Ho Chi Minh Mausoleum",
   "gettingThere": [
-    "The operator sends visitors to assemble at 17 Ngoc Ha. The minutes from Hoan Kiem were not published. Check on arrival. This is not the citadel entrance at 19c Hoang Dieu."
+    "Visitors assemble at 17 Ngoc Ha, in Ba Dinh, west of the lake. This is a different entrance from the Imperial Citadel at 19c Hoang Dieu. Take a car or motorbike from Hoan Kiem."
   ],
   "legs": [
     {
       "heading": "From Hoan Kiem",
-      "body": "By car or motorbike to 17 Ngoc Ha. The minutes are check on arrival."
+      "body": "By car or motorbike to 17 Ngoc Ha."
     }
   ],
-  "hours": "Operator: mornings on Tuesday, Wednesday, Thursday, Saturday, and Sunday. Hot season 1 April–31 October: weekdays 7:30–10:30, weekends and holidays 7:30–11:00. Cold season 1 November–31 March: weekdays 8:00–11:00, weekends and holidays 8:00–11:30. Vietnam Tourism adds a last entry of 10:15 that the operator regulation does not state.",
-  "closed": "Monday and Friday, except 19 May, 2 September, and the first day of Tet when those dates fall on a closed day. The government portal also closes the mausoleum from 4 September 2026 to 2 November 2026, reopening 3 November 2026. A relic page says about two months in October and November each year. Both closure figures stay.",
-  "admissionNote": "The mausoleum FAQ says there is no ticket for the mausoleum or for walking Ba Dinh Square. Vietnam Tourism prints 40,000 VND. Both stay. A 25,000 VND figure seen only in a search highlight was not opened and is not used.",
+  "hours": "Tue, Wed, Thu, Sat, Sun mornings. 1 Apr–31 Oct: weekdays 7:30–10:30, weekends and holidays 7:30–11:00. 1 Nov–31 Mar: weekdays 8:00–11:00, weekends and holidays 8:00–11:30 (operator). Vietnam Tourism adds a 10:15 last entry.",
+  "closed": "Monday and Friday, except 19 May, 2 September, and the first day of Tet. Closed 4 Sep–2 Nov 2026 for maintenance, reopening 3 Nov 2026 (government portal); a relic page gives about two months each October–November.",
+  "admissionNote": "No ticket for the mausoleum or Ba Dinh Square (operator FAQ). Vietnam Tourism lists 40,000 VND.",
   "links": [
     {
       "label": "Visiting regulation",
@@ -43,5 +43,21 @@
   ],
   "interests": [
     "warHistory"
+  ],
+  "notice": {
+    "title": "Closed 4 September to 2 November 2026",
+    "body": "The mausoleum shuts for maintenance from 4 September 2026 and reopens on 3 November 2026. It is also closed every Monday and Friday, except 19 May, 2 September, and the first day of Tet."
+  },
+  "body": [
+    "The mausoleum stands at the head of Ba Dinh Square, with the flag on its tall pole in front and lawns on either side. Visitors assemble at 17 Ngoc Ha, not at the citadel gate on Hoang Dieu. Walking the square itself needs no ticket.",
+    "Go early on a Tuesday, Wednesday, Thursday, Saturday, or Sunday. From April to October the doors close at 10:30 on weekdays and 11:00 at weekends; from November to March, at 11:00 and 11:30. Arrive in the afternoon and you will find it shut.",
+    "The Imperial Citadel and One Pillar Pagoda are in the same district, with their own gates and tickets, so the rest of the Ba Dinh morning is close by."
+  ],
+  "figures": [
+    {
+      "id": "hanoi-mausoleum-2",
+      "caption": "Ba Dinh Square, with the flag in front of the mausoleum",
+      "alt": "The Ho Chi Minh Mausoleum at the head of Ba Dinh Square, with the national flag and lawns in front"
+    }
   ]
 }

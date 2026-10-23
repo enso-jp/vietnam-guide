@@ -4,17 +4,17 @@
   "name": "Linh Phuoc Pagoda",
   "nameVi": "Chùa Linh Phước",
   "kicker": "Mosaic pagoda at Trai Mat",
-  "summary": "Linh Phuoc is the mosaic pagoda at Trai Mat, east of the centre, with a dragon and a tower built from recycled glass. Visit Lâm Đồng lists admission as free. Allow about 45 minutes. Hours are Check on arrival. The tourist train from Da Lat station is the paired ride.",
+  "summary": "Walk through Linh Phuoc, the pagoda at Trai Mat covered in mosaic, with a dragon and a tower built from recycled glass. Ride the tourist train from the old station to get there, and allow about 45 minutes on site.",
   "dots": 4,
   "timeNeeded": "45 minutes",
   "fee": "Free",
   "getThere": "Tourist train or road to Trai Mat",
   "district": "Trai Mat",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "The mosaic facade at Linh Phuoc",
   "body": [
-    "The pagoda at Trai Mat is covered in mosaic, with a dragon and a tower that uses recycled glass. Vietnam National Authority of Tourism pairs it with the tourist train from Da Lat station. On site, allow about 45 minutes.",
-    "Visit Lâm Đồng lists the visit as free. Hours are Check on arrival. If the train was the reason you came to the station, take it. The road to Trai Mat is the other way. Neither ride has a printed minute count. Check on arrival."
+    "The pagoda at Trai Mat is covered in mosaic, with a dragon and a tower that uses recycled glass. On site, allow about 45 minutes.",
+    "The tourist train from Da Lat Railway Station is the classic way to arrive. A taxi or motorbike by road is the other. Admission is free."
   ],
   "figures": [
     {
@@ -24,20 +24,20 @@
     }
   ],
   "gettingThere": [
-    "Linh Phuoc is at Trai Mat, east of the centre. The tourist train from Da Lat Railway Station runs toward it. A taxi or motorbike uses the road. Minutes and the train fare are Check on arrival."
+    "Linh Phuoc is at Trai Mat, east of the centre. The tourist train from Da Lat Railway Station runs toward it. A taxi or motorbike uses the road."
   ],
   "legs": [
     {
       "heading": "From Da Lat Railway Station",
-      "body": "Tourist train toward Trai Mat. Vietnam National Authority of Tourism names this pairing. The fare and the minutes are Check on arrival."
+      "body": "Tourist train toward Trai Mat."
     },
     {
       "heading": "From Xuan Huong Lake",
-      "body": "Taxi or motorbike by road to Trai Mat. Minutes and the fare are Check on arrival."
+      "body": "Taxi or motorbike by road to Trai Mat."
     }
   ],
   "hours": "Check on arrival",
-  "admissionNote": "Visit Lâm Đồng lists admission as free. Hours are Check on arrival. The train fare from Da Lat station is separate and is Check on arrival.",
+  "admissionNote": "Free (Visit Lâm Đồng). Hours and the train fare from Da Lat station are Check on arrival.",
   "links": [
     {
       "label": "Visit Lâm Đồng, Linh Phuoc",

@@ -4,7 +4,7 @@
   "name": "Ngoc Son Temple",
   "nameVi": "Đền Ngọc Sơn",
   "kicker": "The temple on the island in Hoan Kiem",
-  "summary": "Cross the The Huc bridge to the temple on the island in Hoan Kiem. The lake path is free. The temple is not. The management board and Vietnam Tourism both charge an adult 50,000 VND, and they do not print the same hours. Read both clocks before you queue.",
+  "summary": "Cross the red The Huc bridge from the Hoan Kiem path to the small temple on the island, renovated in 1864 and dedicated to Tran Hung Dao and Van Xuong. Light incense in the court and look back at the lake. It is the one ticketed stop on the lake walk, and it stays open late at weekends.",
   "dots": 4,
   "timeNeeded": "Check on arrival",
   "fee": "50,000 VND. Hours differ by source.",
@@ -13,12 +13,12 @@
   "verified": "22 Oct 2026",
   "heroCaption": "The The Huc bridge to Ngoc Son Temple",
   "notice": {
-    "title": "Two hour tables for the same ticket",
-    "body": "Adult 50,000 VND on both sources. The management board prints Monday to Thursday until 19:00, and Friday to Sunday until 22:00. Vietnam Tourism prints weekdays until 18:00, and the weekend until 22:00."
+    "title": "Open late at weekends",
+    "body": "The temple stays open until 22:00 on Saturdays and Sundays."
   },
   "body": [
-    "The Huc bridge is the red bridge to the island. The management board says Nguyen Van Sieu renovated the temple in 1864, that the bridge name means where the morning sun rests, and that the temple worships Tran Hung Dao and Van Xuong. The lake path around the island is a different visit, and Vietnam Tourism says that path is free.",
-    "From 1 January 2024 the management board charges an adult 50,000 VND, half price 25,000 VND, and nothing for visitors under 16. Its hours are Monday to Thursday 7:00 to 19:00, and Friday to Sunday and holidays 7:00 to 22:00. Vietnam Tourism prints the same 50,000 VND, with Monday to Friday 7:00 to 18:00 and Saturday to Sunday 7:00 to 22:00. The minutes on the island are check on arrival."
+    "The Huc bridge is the red bridge to the island; the name means where the morning sun rests. Nguyen Van Sieu renovated the temple in 1864, and it worships Tran Hung Dao and Van Xuong. The lake path around it is a separate, free walk.",
+    "Go after the lake loop, or come back on a weekend evening when the bridge and the temple court stay open until 22:00. Under 16 is free."
   ],
   "figures": [
     {
@@ -28,26 +28,26 @@
     }
   ],
   "gettingThere": [
-    "Walk the Hoan Kiem path and cross the The Huc bridge. The bridge is the entrance to the ticketed temple. The minutes from a named hotel are check on arrival."
+    "Walk the Hoan Kiem path to the red The Huc bridge. The bridge is the entrance to the temple on the island."
   ],
   "legs": [
     {
       "heading": "From the lake path",
-      "body": "Walk to the The Huc bridge. The path is free. The temple ticket starts at the island."
+      "body": "Walk to the The Huc bridge. The ticket starts at the island."
     }
   ],
-  "hours": "Management board: Monday–Thursday 7:00–19:00; Friday–Sunday and holidays 7:00–22:00. Vietnam Tourism: Monday–Friday 7:00–18:00; Saturday–Sunday 7:00–22:00.",
+  "hours": "Mon–Thu 7:00–19:00, Fri–Sun and holidays 7:00–22:00 (management board); Mon–Fri 7:00–18:00, Sat–Sun 7:00–22:00 (Vietnam Tourism).",
   "admissionNote": "Adult 50,000 VND on both sources. The management board, from 1 January 2024, also prints half price 25,000 VND and free under 16.",
   "links": [
     {
       "label": "Hanoi relic management board",
       "url": "https://banqldtdthanoi.vn/lien-he/lien-he-danh-thang/",
-      "note": "Hours and the 50,000 VND ticket from 1 January 2024."
+      "note": "Hours and the adult ticket from 1 January 2024."
     },
     {
       "label": "Vietnam Tourism, Hanoi sights",
       "url": "https://vietnam.travel/things-to-do/11-must-see-attractions-ha-noi",
-      "note": "The second hour table."
+      "note": "A second hour table."
     }
   ],
   "interests": [

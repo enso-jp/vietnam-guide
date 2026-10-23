@@ -13,7 +13,7 @@
   "fee": "Free to walk",
   "getThere": "Walk north from Hoan Kiem Lake",
   "bestMonths": "April to June, or September to December",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "interests": {
     "food": 5,
     "oldTowns": 5,
@@ -31,32 +31,32 @@
   "itinerarySlugs": [
     "hanoi-old-quarter-walk"
   ],
-  "seoTitle": "Old Quarter walk — tube houses, Bach Ma, Dong Xuan",
-  "seoDescription": "Walk Hanoi’s Old Quarter, one square kilometre of 36 streets north of Hoan Kiem Lake. The lanes are free. Bach Ma and Dong Xuan sit on the same walk.",
+  "seoTitle": "Hanoi Old Quarter — 36 guild streets, street food, Ta Hien",
+  "seoDescription": "Walk Hanoi’s Old Quarter: 36 guild streets of tube houses north of Hoan Kiem Lake, pho and bun cha from the street kitchens, silver on Hang Bac, and bia hoi on Ta Hien after dark.",
   "intro": [
-    "The lanes are narrow-front houses that run deep, with courtyards cut in for light. Vietnam Tourism calls those tube houses. Shop streets still use the old trade names. The Ha Noi page dates the grid to the 14th century. The attractions page dates it to the 15th century.",
-    "Walk them from the lake. The same office prints the quarter as free to enter, and open from 7am to midnight. Morning is the easier hour on the pavement. Bach Ma is the temple at 76 Hang Buom. Dong Xuan is the covered market at the north end.",
-    "Pho and bun cha are the bowls named for these lanes, and egg coffee is the cup. The Hanoi food guide is the menu. Stall prices: check on arrival."
+    "You walk into 36 guild streets packed into one square kilometre north of Hoan Kiem Lake, each still named for the trade it has carried since the 14th or 15th century: silver on Hang Bac, silk on Hang Gai, festival goods on Hang Ma, herbs on Lan Ong. The houses are tube houses, narrow shopfronts that run deep and high, with courtyards cut in for light.",
+    "Eat on the street. Pho and bun cha come out of the street kitchens in these lanes, egg coffee is the cup, and on weekend nights Hang Dao fills with food. After dark, take a plastic stool at the bia hoi corner where Ta Hien meets Luong Ngoc Quyen.",
+    "The lanes are free and open from 7am to midnight. Go in the morning, when the pavement is easier, and take a cyclo for a first look before you walk. Bach Ma, the temple at 76 Hang Buom, and Dong Xuan, the covered market at the north end, sit on the same walk. If a citadel morning is the trip, sleep elsewhere in Hanoi."
   ],
   "gettingAround": [
-    "Walk north from Hoan Kiem Lake. Dan Tri prints about 2 km from the lake to Dong Xuan. Travel.com.vn prints about 800 m. Minutes: check on arrival. Vietnam Tourism suggests a cyclo for a first look, then the streets on foot."
+    "Walk north from Hoan Kiem Lake. Dong Xuan Market, at the far end of the lanes, is about 800 m to 2 km away on foot. Take a cyclo for a first look, then do the streets on foot."
   ],
   "stayAreas": [
     {
       "name": "Near Hoan Kiem",
-      "summary": "Travel.com.vn names the lake side when you want the market and the center on one walk. Hang Dao is the street that runs north from that end.",
+      "summary": "Sleep on the lake side when you want the market and the centre of the city on one walk. Hang Dao runs north from that end into the lanes.",
       "band": "Lake-side hotels",
       "photo": "old-quarter-hang-dao"
     },
     {
       "name": "Hang Buom and Ma May",
-      "summary": "Travel.com.vn names Hang Buom, Ma May, and Hang Be when the walk to Dong Xuan is the point. The evening corner Vietnam Tourism names is Ta Hien and Luong Ngoc Quyen.",
+      "summary": "Sleep on Hang Buom, Ma May, or Hang Be when the walk to Dong Xuan is the point. The evening corner, Ta Hien and Luong Ngoc Quyen, is in the same lanes.",
       "band": "Lane hotels",
       "photo": "old-quarter-ma-may"
     }
   ],
   "eat": [
-    "Pho and bun cha are the bowls Vietnam Tourism names in these lanes, and egg coffee is the cup. The Hanoi food guide is the menu. Stall prices: check on arrival."
+    "Pho and bun cha are the bowls of these lanes, and egg coffee is the cup. On weekend nights the food moves onto Hang Dao. The Hanoi food guide has the full menu."
   ],
   "dishSlugs": [
     "bun-cha",
@@ -64,41 +64,49 @@
     "ca-phe"
   ],
   "interestsBody": [
-    "Dining is pho, bun cha, and egg coffee in the lanes. The Hanoi food guide is the menu.",
-    "Shopping is Dong Xuan, then the trade streets Vietnam Tourism still names: Hang Bac for silver, Hang Gai for silk, Hang Ma for festival goods, and Lan Ong for herbs.",
-    "The walk is the lanes themselves. Bach Ma is the temple on Hang Buom. At night, Vietnam Tourism points to the corner of Ta Hien and Luong Ngoc Quyen. No drink price is printed there."
+    "Dining is pho and bun cha from the street kitchens, egg coffee, and weekend nights on Hang Dao. The Hanoi food guide is the menu.",
+    "The walk is the lanes themselves: tube houses, guild streets named for their trade, and Bach Ma on Hang Buom.",
+    "Evenings end at the bia hoi corner of Ta Hien and Luong Ngoc Quyen, on low stools in the street.",
+    "Shopping is Dong Xuan, the covered market at the north end, then the trade streets: Hang Bac for silver, Hang Gai for silk, Hang Ma for festival goods, and Lan Ong for herbs."
   ],
   "interestCards": [
     {
       "title": "Dining and F&B",
-      "summary": "Pho, bun cha, and egg coffee in the lanes. The Hanoi food guide is the menu.",
+      "summary": "Pho and bun cha from the street kitchens, egg coffee, and weekend nights on Hang Dao. The Hanoi food guide is the menu.",
       "photo": "pho",
       "icon": "food",
       "to": "food"
     },
     {
-      "title": "Shopping",
-      "summary": "Bolts of cloth inside Dong Xuan. Hours and the entry fee disagree across the pages that print them.",
-      "photo": "old-quarter-dong-xuan-silk",
-      "icon": "view",
-      "attractionSlug": "dong-xuan"
-    },
-    {
       "title": "Walking the lanes",
-      "summary": "Tube houses and the street, with Bach Ma on Hang Buom.",
+      "summary": "Thirty-six guild streets of tube houses, free to walk from 7am to midnight, with Bach Ma Temple on Hang Buom.",
       "photo": "old-quarter-bach-ma",
       "icon": "museum",
       "attractionSlug": "bach-ma"
+    },
+    {
+      "title": "Ta Hien beer corner",
+      "summary": "Bia hoi on low plastic stools at Ta Hien and Luong Ngoc Quyen, the street crowded once it is dark.",
+      "photo": "old-quarter-ta-hien",
+      "icon": "drink",
+      "attractionSlug": "ta-hien"
+    },
+    {
+      "title": "Shopping",
+      "summary": "Bolts of cloth in Dong Xuan, then silver on Hang Bac and festival goods on Hang Ma.",
+      "photo": "old-quarter-dong-xuan-silk",
+      "icon": "view",
+      "attractionSlug": "dong-xuan"
     }
   ],
   "interestGroups": [
     {
       "title": "Dining and F&B",
-      "summary": "Pho, bun cha, and egg coffee in the lanes. The Hanoi food guide is the menu.",
+      "summary": "Pho and bun cha from the street kitchens, egg coffee, and weekend nights on Hang Dao. The Hanoi food guide is the menu.",
       "cards": [
         {
           "title": "Dining and F&B",
-          "summary": "Pho, bun cha, and egg coffee in the lanes. The Hanoi food guide is the menu.",
+          "summary": "Pho and bun cha from the street kitchens, egg coffee, and weekend nights on Hang Dao. The Hanoi food guide is the menu.",
           "photo": "pho",
           "icon": "food",
           "to": "food"
@@ -106,74 +114,131 @@
       ]
     },
     {
-      "title": "Shopping",
-      "summary": "Dong Xuan is the covered hall. The trade streets around it still carry silk, silver, festival goods, and herbs.",
-      "blocks": [
-        {
-          "id": "market",
-          "heading": "Dong Xuan Market",
-          "nav": "Dong Xuan",
-          "paragraphs": [
-            "Dong Xuan is the covered market at the north end, on Dong Xuan street. Travel.com.vn puts the management office at 1A Cau Dong. Dan Tri describes three floors, with clothes and accessories on the ground floor and a dry-goods area called Bac Qua.",
-            "Dan Tri prints 06:00–18:00 every day, and 22:30 on Friday, Saturday, and Sunday. Travel.com.vn says stall hours can change and to check before you go, and that there is no entry ticket. Dan Tri does not print a fee. Confirm both at the door.",
-            "Hang Bac still sells silver, Hang Gai sells silk, Hang Ma sells festival goods, and Lan Ong sells herbs. Vietnam Tourism names those streets. No single shop is listed here."
-          ]
-        }
-      ],
-      "cards": [
-        {
-          "title": "Dong Xuan Market",
-          "summary": "Bolts of cloth in the hall. Dan Tri and Travel.com.vn do not print the same hours, and only one of them prints an entry rule.",
-          "attractionSlug": "dong-xuan",
-          "photo": "old-quarter-dong-xuan-silk",
-          "icon": "view",
-          "block": "market"
-        }
-      ]
-    },
-    {
       "title": "Walking the lanes",
-      "summary": "Walk the tube-house streets from the lake. Bach Ma is the temple on the way.",
-      "cards": [
-        {
-          "title": "Bach Ma Temple",
-          "summary": "The temple at 76 Hang Buom. The 2025 ticket is 20,000 VND. The printed hours do not match.",
-          "attractionSlug": "bach-ma",
-          "photo": "old-quarter-bach-ma",
-          "icon": "museum",
-          "block": "lanes"
-        }
-      ],
+      "summary": "Walk the tube-house streets north from the lake, with Bach Ma on the way.",
       "blocks": [
         {
           "id": "lanes",
           "heading": "The streets",
           "nav": "The walk",
           "paragraphs": [
-            "Vietnam Tourism calls the quarter one square kilometre of 36 streets, north of Hoan Kiem Lake, free to enter, and open from 7am to midnight. The Ha Noi page dates the lanes to the 14th century. The attractions page dates them to the 15th century.",
-            "Tube houses are the narrow fronts that run deep, with courtyards for light. A cyclo is the first look the tourism page suggests. After that, walk.",
-            "Bach Ma is at 76 Hang Buom. At night, Vietnam Tourism points to the corner of Ta Hien and Luong Ngoc Quyen. No drink price is printed there."
+            "The Old Quarter is one square kilometre of 36 streets north of Hoan Kiem Lake, free to enter and open from 7am to midnight. Since the 14th or 15th century each street has been named for the goods its artisans made and sold, and many still trade under those names.",
+            "Tube houses are the narrow fronts that run deep and high, with courtyards cut in for light. Take a cyclo for a first look, then walk, ideally in the morning before the pavement fills.",
+            "Bach Ma, the temple at 76 Hang Buom, is the stop on the way to Dong Xuan."
           ]
+        }
+      ],
+      "cards": [
+        {
+          "title": "Bach Ma Temple",
+          "summary": "A yellow-walled temple on Hang Buom, with dragons on the roof ridge and a white horse on the altar.",
+          "attractionSlug": "bach-ma",
+          "photo": "old-quarter-bach-ma",
+          "icon": "museum",
+          "block": "lanes"
+        }
+      ]
+    },
+    {
+      "title": "Nightlife",
+      "summary": "Bia hoi on stools at the Ta Hien corner once the lanes go dark.",
+      "blocks": [
+        {
+          "id": "ta-hien",
+          "heading": "Ta Hien and Luong Ngoc Quyen",
+          "nav": "Ta Hien",
+          "paragraphs": [
+            "After dark the corner of Ta Hien and Luong Ngoc Quyen is the bia hoi corner: fresh draft beer, low tables, and plastic stools pushed out into the street.",
+            "Walk there through the lanes from the lake or from Hang Buom. The quarter stays open until midnight."
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "title": "Ta Hien beer corner",
+          "summary": "Bia hoi on low plastic stools at Ta Hien and Luong Ngoc Quyen, the street crowded once it is dark.",
+          "attractionSlug": "ta-hien",
+          "photo": "old-quarter-ta-hien",
+          "icon": "drink",
+          "block": "ta-hien"
+        }
+      ]
+    },
+    {
+      "title": "Shopping",
+      "summary": "Dong Xuan is the covered hall. The guild streets around it still sell silver, silk, festival goods, and herbs.",
+      "blocks": [
+        {
+          "id": "market",
+          "heading": "Dong Xuan Market",
+          "nav": "Dong Xuan",
+          "paragraphs": [
+            "Dong Xuan is the covered market at the north end of the lanes, on Dong Xuan street, with its management office at 1A Cau Dong. It runs over three floors: clothes and accessories on the ground floor, bolts of cloth, and a dry-goods section called Bac Qua. Come for the wholesale bustle more than for souvenirs.",
+            "The hall opens early in the morning and stays open late on Friday to Sunday. Stall hours shift around holidays and repairs, so confirm the hall is open before you make it the morning’s goal."
+          ]
+        },
+        {
+          "id": "trade",
+          "heading": "The guild streets",
+          "nav": "Trade streets",
+          "paragraphs": [
+            "Hang Bac is the silver street, lined with gold-and-silver shopfronts. Hang Gai sells silk. Hang Ma sells festival goods, its shopfronts hung with decorations and, at the turn of the year, stacked with Christmas and New Year stock. Lan Ong is the herb street.",
+            "Walk them as one loop from the lake and let the shopfronts decide where you stop."
+          ]
+        },
+        {
+          "id": "night",
+          "heading": "Weekend nights on Hang Dao",
+          "nav": "Hang Dao",
+          "paragraphs": [
+            "On weekend nights Hang Dao, the street that runs north from the lake, fills with food stalls. Eat your way up it, then cut across to Ta Hien for a beer."
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "title": "Dong Xuan Market",
+          "summary": "Bolts of cloth and three floors of wholesale stalls in the covered hall at the north end.",
+          "attractionSlug": "dong-xuan",
+          "photo": "old-quarter-dong-xuan-silk",
+          "icon": "view",
+          "block": "market"
+        },
+        {
+          "title": "Hang Bac",
+          "summary": "The silver street: jewellers’ windows and engraving shops under the old trade name.",
+          "attractionSlug": "hang-bac",
+          "photo": "old-quarter-hang-bac-2",
+          "icon": "view",
+          "block": "trade"
+        },
+        {
+          "title": "Hang Ma",
+          "summary": "The festival-goods street, its shops stacked with decorations for the season.",
+          "attractionSlug": "hang-ma",
+          "photo": "old-quarter-hang-ma-2",
+          "icon": "view",
+          "block": "trade"
         }
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Is there a ticket for the lanes?",
-      "a": "Vietnam Tourism prints admission as free, and hours from 7am to midnight. Bach Ma is a separate ticket of 20,000 VND from 8 December 2025. For Dong Xuan, Travel.com.vn says there is no entry ticket and Dan Tri does not print a fee, so confirm at the door."
+      "q": "Do I need a ticket for the lanes?",
+      "a": "No. The streets are free and open from 7am to midnight. Bach Ma Temple charges 20,000 VND a visit from 8 December 2025, with under-16s free. Dong Xuan Market has no entry ticket; you pay at the stalls."
     },
     {
       "q": "When should I walk?",
-      "a": "Vietnam Tourism’s climate page names April to June, and September to December, for Ha Noi. The Ha Noi page also prints September to November. June to August is the rainy stretch."
+      "a": "In the morning, before the pavement fills. Across the year, April to June and September to December are the clearer months for Hanoi, with September to November the narrower window. June to August is hot, humid, and rainy."
     },
     {
-      "q": "Which Bach Ma hours do I trust?",
-      "a": "The 2025 notice prints 08:00–12:00 and 13:30–17:30, with a Friday-to-Sunday evening that closes at 21:30 in that notice and at 21:00 in VnExpress. A 2018 door board prints 08:00–11:00 and 14:00–17:00, Monday closed, and 08:00–21:00 on the 1st and 15th of the lunar month. Read the board at the gate."
+      "q": "When is Bach Ma open?",
+      "a": "Daily 08:00–12:00 and 13:30–17:30, with an evening session from 19:00 on Friday to Sunday that closes at 21:00 or 21:30. Older boards at the gate showed different hours, so read the board on the day."
     }
   ],
   "season": {
     "label": "Clearer walking months",
-    "note": "Vietnam Tourism’s climate page names April to June, and September to December, for Ha Noi. The Ha Noi page also prints September to November. June to August is the rainy stretch. The lanes are walked in all of these."
+    "note": "Walk in April to June or September to December, and September to November if you want the narrowest window. June to August is hot, humid, and rainy: start the walk in the morning."
   }
 }

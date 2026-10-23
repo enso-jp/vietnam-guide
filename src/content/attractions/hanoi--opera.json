@@ -4,7 +4,7 @@
   "name": "Hanoi Opera House",
   "nameVi": "Nhà hát Lớn Hà Nội",
   "kicker": "The opera house at 1 Trang Tien",
-  "summary": "See the building at 1 Trang Tien, south of the lake. Vietnam Tourism says it was refurbished in 1997 and is currently under renovation, and it says to check the website for admission. No ticket price and no hour were copied from a blog. Both are check on arrival.",
+  "summary": "Stand on the square at 1 Trang Tien and take in the cream-and-yellow facade, the columns, and the dome of the Hanoi Opera House, south of Hoan Kiem. Refurbished in 1997, it sets the tone for the quieter streets around the history museum. Look up the programme before you plan an evening inside.",
   "dots": 3,
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
@@ -13,10 +13,10 @@
   "verified": "22 Oct 2026",
   "heroCaption": "The Hanoi Opera House from the square",
   "gettingThere": [
-    "Walk south from Hoan Kiem to 1 Trang Tien. The minutes are check on arrival."
+    "Walk south from Hoan Kiem Lake to 1 Trang Tien."
   ],
-  "hours": "Check on arrival. Vietnam Tourism says the house is under renovation and to check the website.",
-  "admissionNote": "Check on arrival. No door price was taken from the tourism page, because that page says to check the website.",
+  "hours": "Check on arrival. Vietnam Tourism notes renovation and points to the theatre website.",
+  "admissionNote": "Check on arrival. Vietnam Tourism points to the theatre website for admission.",
   "links": [
     {
       "label": "Vietnam Tourism, Hanoi sights",
@@ -26,5 +26,26 @@
   ],
   "interests": [
     "photography"
+  ],
+  "notice": {
+    "title": "Check the programme first",
+    "body": "The building has been under renovation. Check the theatre's website for performances and admission before you go."
+  },
+  "body": [
+    "The Opera House faces its own square at 1 Trang Tien, south of Hoan Kiem. Look for the columns, the balustrades, and the name across the cornice. The building was refurbished in 1997.",
+    "Make it part of a walk south of the lake: the National Museum of History shares this side of town, and Trang Tien Plaza is on Hai Ba Trung. For a performance, look up the programme and the ticket desk on the theatre's website first."
+  ],
+  "figures": [
+    {
+      "id": "hanoi-opera-2",
+      "caption": "The cornice and the flag above the main facade",
+      "alt": "The ornate cornice of the Hanoi Opera House with the theatre's name and the national flag"
+    }
+  ],
+  "legs": [
+    {
+      "heading": "From Hoan Kiem",
+      "body": "Walk south from the lake to Trang Tien."
+    }
   ]
 }

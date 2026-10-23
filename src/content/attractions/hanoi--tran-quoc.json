@@ -4,20 +4,41 @@
   "name": "Tran Quoc Pagoda",
   "nameVi": "Chùa Trấn Quốc",
   "kicker": "The pagoda on the West Lake shore",
-  "summary": "The pagoda stands on the West Lake shore, with the stupa above the water. A fee and a clock appear on a single airline page. That page is not used as the published gate time. The fee and the hours are check on arrival.",
+  "summary": "See the tiered brick-red stupa of Tran Quoc rise above the water on the West Lake shore in Tay Ho, then walk through the pagoda grounds. It is a short stop that fits an afternoon on West Lake, best in daylight when the stupa and its reflection are clear.",
   "dots": 3,
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
-  "getThere": "On the West Lake shore. Minutes are check on arrival.",
+  "getThere": "On the West Lake shore, Tay Ho",
   "district": "West Lake",
   "verified": "22 Oct 2026",
   "heroCaption": "The stupa of Tran Quoc Pagoda above the water",
   "gettingThere": [
-    "Tran Quoc is on the shore of West Lake, in Tay Ho. No published minute count from Hoan Kiem was opened from an operator page. Check on arrival."
+    "Tran Quoc is on the West Lake shore in Tay Ho, north of the center. Take a car or motorbike from Hoan Kiem, or walk over as part of a West Lake afternoon."
   ],
-  "hours": "Check on arrival",
-  "admissionNote": "Check on arrival. A single airline page is not used as the fee or the clock.",
+  "hours": "Check on arrival. Only a single airline page lists hours.",
+  "admissionNote": "Check on arrival. Only a single airline page lists a fee.",
   "interests": [
     "pagodas"
+  ],
+  "body": [
+    "Tran Quoc stands on the shore of West Lake in Tay Ho. The tiered brick-red stupa rises above the trees, and the water in front throws its reflection back. Come for that view, then walk through the grounds past the flags and the shrines.",
+    "Make it part of an afternoon on West Lake rather than a separate trip from the center. Go in daylight and confirm the opening hours at the gate."
+  ],
+  "figures": [
+    {
+      "id": "hanoi-tran-quoc-2",
+      "caption": "The stupa and the pagoda flags across the water",
+      "alt": "Tran Quoc Pagoda's red stupa behind trees and flags, seen across the water of West Lake"
+    }
+  ],
+  "legs": [
+    {
+      "heading": "From Hoan Kiem",
+      "body": "By car or motorbike north to West Lake."
+    },
+    {
+      "heading": "From the West Lake shore",
+      "body": "Walk along the shore to the pagoda."
+    }
   ]
 }

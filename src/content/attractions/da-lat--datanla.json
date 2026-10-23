@@ -4,21 +4,21 @@
   "name": "Datanla Falls",
   "nameVi": "Thác Datanla",
   "kicker": "Waterfall on Prenn Pass",
-  "summary": "Walk down to Datanla Falls on Prenn Pass. Visit Lâm Đồng prints 07:00 to 17:00, about 60 minutes, and 30,000 VND to enter. Operator pages print higher bundles for the alpine coaster and canyoning. Buy the entrance if you only wanted the falls.",
+  "summary": "Walk down to Datanla Falls on Prenn Pass, or ride the alpine coaster or go canyoning with a guide for a faster way to the water. Allow at least an hour, and buy the plain entrance if the falls are all you want.",
   "dots": 4,
   "timeNeeded": "1 hour minimum",
   "fee": "30,000 VND entrance",
   "getThere": "Taxi over Prenn Pass",
   "district": "Prenn Pass",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "Datanla Falls",
   "notice": {
     "title": "The entrance is not the coaster",
-    "body": "Visit Lâm Đồng prints 30,000 VND to enter. Operator pages print higher bundles when the ticket adds the alpine coaster or canyoning. Ask which one you are buying."
+    "body": "The plain entrance does not include the alpine coaster or canyoning. Ask which ticket you are buying."
   },
   "body": [
-    "Datanla is the waterfall on Prenn Pass, south of town. The walk to the cascade is the visit. Vietnam Tourism also names canyoning here, with a guide, as a separate activity. The alpine coaster is the other add-on.",
-    "Visit Lâm Đồng prints 07:00 to 17:00, about 60 minutes, and 30,000 VND entrance. Operator pages print higher bundles once the coaster or canyoning is included. If you only wanted the falls, buy the entrance. The taxi over the pass has no printed minutes. Check on arrival."
+    "Datanla is the waterfall on Prenn Pass, south of town. The walk to the cascade is the visit. Canyoning with a guide and the alpine coaster are the add-ons.",
+    "Allow about an hour for the falls alone. If you only wanted the falls, buy the plain entrance; the coaster and canyoning are sold as higher bundles."
   ],
   "figures": [
     {
@@ -28,17 +28,17 @@
     }
   ],
   "gettingThere": [
-    "The falls are on Prenn Pass, south of the centre. Take a taxi from Xuan Huong Lake. Minutes and the fare are Check on arrival."
+    "The falls are on Prenn Pass, south of the centre. Take a taxi from Xuan Huong Lake."
   ],
   "legs": [
     {
       "heading": "From Xuan Huong Lake",
-      "body": "Taxi over Prenn Pass. Minutes and the fare are Check on arrival."
+      "body": "Taxi over Prenn Pass."
     }
   ],
-  "hours": "07:00 to 17:00",
-  "closed": "No weekly closing day is printed.",
-  "admissionNote": "Visit Lâm Đồng: 30,000 VND entrance, open 07:00 to 17:00, about 60 minutes. Operator pages print higher bundles for the coaster and canyoning. The higher figures are not collapsed into the entrance price. Confirm at the gate.",
+  "hours": "07:00–17:00",
+  "closed": "No weekly closing day listed",
+  "admissionNote": "30,000 VND entrance (Visit Lâm Đồng). Operator pages sell higher bundles with the coaster or canyoning. Confirm at the gate.",
   "links": [
     {
       "label": "Visit Lâm Đồng, Datanla",
