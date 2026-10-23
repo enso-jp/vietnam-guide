@@ -3,7 +3,7 @@
 Place: `my-son`
 Slug: `towers`
 Status: stored
-Checked: 21 Oct 2026
+Checked: 23 Oct 2026
 
 The city dossier entry is the index. This file is the sight. Fees and hours that disagree are both here. Nothing was averaged.
 
@@ -66,6 +66,7 @@ The city dossier entry is the index. This file is the sight. Fees and hours that
 - Hero must show: standing brick towers in the valley, in color, in daylight, with the mountain or the forest still in the frame, subject large enough that a 3:2 center crop keeps a tower.
 - Second frame must show (a different moment): a doorway or carved brick, close enough to read as detail, not the same file as the hero and not the place banner. A third frame may show the outdoor linga and yoni. It is not the museum’s labeled B1 piece.
 - Reject: the file that was on `my-son-towers` at the start of this pass. It is a grayscale magazine cover of a modern round building, with a title burned into the picture. It is not the sanctuary. Also reject a frame that is mostly sky, a sign, a map, or a soldier.
+- Rechecked 23 Oct 2026. Hero, group C doorway, and outdoor linga were opened and kept. Subjects read in a center crop. Files stay under 320 KB. Card line is the first sentence of the summary, under 110 characters. Lettered groups stay one page.
 
 ## Links
 
