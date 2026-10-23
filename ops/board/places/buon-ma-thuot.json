@@ -411,10 +411,33 @@
       "note": "No licensed dish photo for Buon Ma Thuot.",
       "updated": null,
       "reworkCount": 0
+    },
+    {
+      "id": "buon-ma-thuot--event--buon-ma-thuot-coffee-festival",
+      "kind": "event",
+      "track": "bundled",
+      "name": "Buon Ma Thuot Coffee Festival",
+      "slug": "buon-ma-thuot-coffee-festival",
+      "file": "src/content/festivals/buon-ma-thuot-coffee-festival.json",
+      "source": "published",
+      "research": "not_started",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Bundled into the destination stage.",
+      "updated": null,
+      "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "buon-ma-thuot",
+    "stage": "researchContext",
+    "item": null,
+    "at": "2026-10-23T06:10:19.875Z",
+    "by": "buon-ma-thuot-copy",
+    "branch": "cursor/buon-ma-thuot-destination-copy-b891"
+  },
   "log": [
     {
       "at": "2026-10-21T11:18:12.376Z",
