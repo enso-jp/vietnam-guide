@@ -110,6 +110,13 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "mai-chau",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-23T06:05:05.026Z",
+    "by": "mai-chau-research",
+    "branch": "cursor/mai-chau-research-base-fb39"
+  },
   "log": []
 }
