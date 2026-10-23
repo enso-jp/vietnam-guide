@@ -239,3 +239,55 @@ A page marked “opened” was fetched and read. A page marked “search extract
 - Supports: Search extract. Nga Bảy (Phụng Hiệp) about 30 km south of Cái Răng. Canal history toward Cà Mau. Not a passenger timetable.
 
 Commercial guides that printed Phong Điền hours (govietnam.travel and vietnamtourism.com) are not given source numbers. The attraction entry says they are not the tourism department and does not pick their numbers.
+
+## Attractions pass, 23 Oct 2026
+
+### S36
+- URL: https://en.wikipedia.org/wiki/C%E1%BA%A7n_Th%C6%A1_Bridge
+- Publisher: English Wikipedia (secondary)
+- Accessed: 23 Oct 2026
+- Supports: Opened. Cable-stayed bridge over the Hậu, 2.75 km (15.85 km with approaches), main span 550 m, height 175.3 m, clearance 39 m, 23.1 m wide, six lanes (four for cars, two for bicycles and motorbikes), construction from 25 Sep 2004, approach collapse on 26 Sep 2007 (official toll 54), opened 24 Apr 2010, replaced the National Route 1 ferries to Vĩnh Long. Coordinates 10.0316528, 105.808639.
+
+### S37
+- URL: https://canthotourism.vn/vi/chuaong
+- Publisher: Sở Văn hóa, Thể thao và Du lịch thành phố Cần Thơ
+- Accessed: 23 Oct 2026
+- Supports: Search extract. Direct open returned 404 on 23 Oct 2026. Price miễn phí, open 07:00, close 18:00, 32 Hai Bà Trưng, phường Ninh Kiều, phone 0292 38 20 955. Quan Thánh Đế, founders from Quảng Châu and Triệu Khánh, 532 m², begun 1894, finished 1896, most materials brought from China, lễ vía Quan Thánh Đế on lunar 24/6. Commercial pages print 06:00–21:00, 07:00–21:00, and 06:00–18:00; not used.
+
+### S38
+- URL: https://mykhanh.com/vi/dich-vu-va-bao-gia
+- Publisher: Làng du lịch Mỹ Khánh (operator)
+- Accessed: 23 Oct 2026
+- Supports: Opened. Page dated 18 Nov 2022 and still the live price page. Gate 149,000 VND adult (over 1.3 m), 99,000 VND child 1 m to under 1.3 m, free under 1 m. Free with the gate: a 115-year-old southern house, flower garden, animal circus (10:30, 11:30, 13:30, 15:30), pig and dog races (9:45, 11:00, 13:00, 15:00), craft village with hủ tiếu, coconut candy, and folk cakes, wildlife garden. Extras: seasonal fruit picking priced by garden, pedal boats 50,000 VND per 30 minutes, glass bridge 50,000 VND, pool 50,000 VND, Go Kart 100,000 VND. Open 07:30–17:00 daily. 335 Lộ Vòng Cung, phường An Bình.
+
+### S38b
+- URL: https://mykhanh.com/
+- Publisher: Làng du lịch Mỹ Khánh (operator)
+- Accessed: 23 Oct 2026
+- Supports: Search extract. More than 30 ha on the Cần Thơ river, about twenty minutes by road from the centre, between the Cái Răng and Phong Điền floating markets. Open 07:30–17:00 daily.
+
+### S39
+- URL: https://canthotourism.vn/vi/langdulichmykhanh
+- Publisher: Sở Văn hóa, Thể thao và Du lịch thành phố Cần Thơ
+- Accessed: 23 Oct 2026
+- Supports: Search extract. Open 07:00, close 18:00. More than 30 ha, about twenty minutes by road from the centre.
+
+### S40
+- URL: https://www.vietnamairlines.com/id/vi/plan-book/travel/travel-guide/floating-market-in-vietnam
+- Publisher: Vietnam Airlines
+- Accessed: 23 Oct 2026
+- Supports: Search extract. Phong Điền market about 17 km from the centre, best 5:30–6:30, tỉnh lộ 923, ấp Nhơn Lộc, xã Nhơn Ái. Route: đường 30/4, đường 3/2, cầu Cái Răng, then 15 km on tỉnh lộ 923. Fewer visitors than Cái Răng; farmers sell straight from the garden onto the boats.
+
+### S41
+- URL: https://www.vietnam.travel/things-to-do/can-tho-glimpse-river-and-garden
+- Publisher: Vietnam National Authority of Tourism
+- Accessed: 23 Oct 2026
+- Supports: Re-opened S1. Ninh Kieu Wharf on Hai Bà Trưng, park of 7,000 m², evening river-bus dinner with a view of the city and Cần Thơ Bridge. Night market about 1 km west of the Hậu, with street food. Cồn Sơn: Highway 91 to the Cổ Bắc ferry, 5–10 minutes by boat, or a boat from Ninh Kiều; 70 ha; a fish raft where you feed fish and watch flying snakehead; folk cakes; garden fruit. Bằng Lăng 60 km, 16,500 m².
+
+### S42
+- URL: https://baotangso.web.app/about.html and https://canthotourism.vn/vi/baotangcantho and https://canthopromotion.vn/diem-den/bao-tang-can-tho/
+- Publisher: Bảo tàng Thành phố Cần Thơ; Sở Văn hóa, Thể thao và Du lịch; Trung tâm Xúc tiến Đầu tư – Thương mại và Du lịch
+- Accessed: 23 Oct 2026
+- Supports: Search extracts. Tuesday–Thursday 08:00–11:00 and 14:00–17:00. Saturday, Sunday, holidays, and Tết 08:00–11:00 and 18:30–21:00. Monday and Friday are not on the schedule. Free entry (museum page and promotion centre); the department listing says đang cập nhật and 60 minutes. Nearly 3,000 m² on two floors: ground floor nature, Óc Eo, and the Kinh, Hoa, and Khmer cultures; upper floor the wars against France and the United States.
+
+Commercial guides for Phong Điền (not numbered, not used on the page): vietnamtourism.com peak 4:30–6:30 and nearly over by 7:00; govietnam.travel 4:00–9:00, busiest 5:30–7:30, small boat 200,000–500,000 VND, 30 minutes by road or 1 hour 30 by water; canthoreview.vn busiest 6:00–8:00 and some trade into the afternoon, entry free.
