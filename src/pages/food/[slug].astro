@@ -4,6 +4,7 @@ import { join } from 'node:path';
 import Base from '../../layouts/Base.astro';
 import BookStay from '../../components/BookStay.astro';
 import Crumbs from '../../components/Crumbs.astro';
+import DiningMark from '../../components/DiningMark.astro';
 import Photo from '../../components/Photo.astro';
 import SectionNav from '../../components/SectionNav.astro';
 import { getDishes, getFoodGuides, getPlace, pageDescription, placePath, placesForCityFood } from '../../lib/content';
@@ -242,10 +243,10 @@ const secondPhoto = kind === 'dish' && dish && photoPath(`${dish.slug}-2`) ? `${
                 ))}
                 {block.spots.map((spot) => {
                   const photo = licensedId(spot.photo);
-                  return photo ? (
+                  return (
                     <article class="food-row">
                       <div class="food-row-photo">
-                        <Photo id={photo} alt={spot.name} />
+                        {photo ? <Photo id={photo} alt={spot.name} /> : <DiningMark name={spot.name} />}
                       </div>
                       <div>
                         <h3>{spot.name}{spot.nameVi && <> <span class="vi" lang="vi">{spot.nameVi}</span></>}</h3>
@@ -253,12 +254,6 @@ const secondPhoto = kind === 'dish' && dish && photoPath(`${dish.slug}-2`) ? `${
                         {(spot.note || spot.caption) && <p>{spot.note || spot.caption}</p>}
                       </div>
                     </article>
-                  ) : (
-                    <div class="spot">
-                      <strong>{spot.name}{spot.nameVi && <> <span class="vi" lang="vi">{spot.nameVi}</span></>}</strong>
-                      {spot.address && <p class="spot-address">{spot.address}</p>}
-                      {(spot.note || spot.caption) && <p>{spot.note || spot.caption}</p>}
-                    </div>
                   );
                 })}
               </section>

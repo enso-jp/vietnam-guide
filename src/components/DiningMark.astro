@@ -1,0 +1,43 @@
+---
+interface Props {
+  name: string;
+}
+const { name } = Astro.props;
+
+const small = new Set(['a', 'an', 'the', 'of', 'and', 'or', 'on', 'by', 'at', 'for', 'in', 'to', 'with', 'from']);
+
+function diningMark(value: string) {
+  const folded = value
+    .replace(/đ/g, 'd')
+    .replace(/Đ/g, 'D')
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '');
+  const words = folded
+    .split(/[^A-Za-z0-9]+/)
+    .filter((word) => word && !small.has(word.toLowerCase()));
+  if (!words.length) return '';
+  if (words.length === 1) return words[0].slice(0, 2).toUpperCase();
+  return `${words[0][0]}${words[1][0]}`.toUpperCase();
+}
+
+const mark = diningMark(name);
+---
+<svg class="food-mark" viewBox="0 0 300 200" width="300" height="200" aria-hidden="true" focusable="false">
+  <rect width="300" height="200" fill="#f6f3ec"></rect>
+  <rect width="300" height="200" fill="#d1242a" opacity="0.12"></rect>
+  <rect width="14" height="200" fill="#d1242a"></rect>
+  {mark && (
+    <text
+      x="157"
+      y="90"
+      text-anchor="middle"
+      dominant-baseline="middle"
+      fill="#d1242a"
+      font-family="Source Sans 3, Segoe UI, sans-serif"
+      font-size="72"
+      font-weight="600"
+      letter-spacing="3"
+    >{mark}</text>
+  )}
+  <rect x="126" y="128" width="62" height="5" rx="2.5" fill="#d1242a"></rect>
+</svg>
