@@ -1,0 +1,39 @@
+{
+  "slug": "ho-chi-minh-city-to-mui-ne",
+  "name": "Ho Chi Minh City to Mui Ne",
+  "from": "Ho Chi Minh City",
+  "to": "Mui Ne",
+  "summary": "Take the bus or a car for about four hours. On a weekend, the morning train to Phan Thiet is the calmer ride, then it is about 22–25 km by road to the Mui Ne strip. There is no passenger airport on this coast yet.",
+  "modes": [
+    {
+      "mode": "Bus or car",
+      "duration": "About 4 hours",
+      "note": "About four hours to Phan Thiet, then about 22–25 km along the coast to Mui Ne. Traffic and fares are Check on arrival.",
+      "partner": "bus",
+      "partnerPath": "ho-chi-minh-city/mui-ne"
+    },
+    {
+      "mode": "Train to Phan Thiet",
+      "duration": "About 4 hours",
+      "note": "From 11 September to 30 December 2026, SPT2 leaves Saigon station at 6:45 and reaches Phan Thiet at 10:42, Friday to Sunday only. SPT1 returns at 13:30 and reaches Saigon at 17:46. Weekday trains outside that window and fares are Check on arrival. The ride from Phan Thiet station to the strip is Check on arrival.",
+      "partner": "train"
+    },
+    {
+      "mode": "Flight",
+      "duration": "No passenger service",
+      "note": "Phan Thiet airport’s civil terminal was only started in April 2026. Fly to Ho Chi Minh City, Cam Ranh, or Lien Khuong and go on by road."
+    }
+  ],
+  "seoTitle": "Ho Chi Minh City to Mui Ne — bus or weekend train",
+  "seoDescription": "About four hours by bus or car to Mui Ne. The SPT train runs to Phan Thiet on Friday to Sunday until 30 December 2026. No passenger airport yet.",
+  "faqs": [
+    {
+      "q": "Does the train go to Mui Ne?",
+      "a": "No. It stops at Phan Thiet station. Mui Ne is about 22–25 km farther along the coast by road."
+    },
+    {
+      "q": "Can you fly to Mui Ne?",
+      "a": "Not yet. Phan Thiet’s civil terminal broke ground in April 2026 and has no opening date. The nearest airports with flights are Ho Chi Minh City, Cam Ranh, and Da Lat."
+    }
+  ]
+}

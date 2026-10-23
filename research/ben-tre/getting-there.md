@@ -81,3 +81,12 @@ The other bank is `my-tho`. This page does not repeat that city’s dossier.
 - VOV, 16 Nov 2024, reports a provincial directive for the dry season 2024–2025: salinity could reach the rivers from the second half of December 2024 and peak about February and March 2025 (S20). That is one season’s forecast. A month when the 2026 boat stops: Check on arrival — UNSOURCED.
 - VOV, 06 Oct 2024, reports rain flooding nearly 0.5 m deep on Quốc lộ 57B near Khu công nghiệp Giao Long (S21). That is not a closure of the Rạch Miễu crossing. A 2026 closure of Quốc lộ 60: Check on arrival — UNSOURCED.
 - The rural page says the weather is mild year-round and does not print a rainy month (S7). No temperature from that page is recorded. A forecast page was not used as climate.
+
+## Route pass, 23 Oct 2026: Ben Tre to Can Tho
+
+Added for `src/content/routes/ben-tre-to-can-tho.json`. Accessed 23 Oct 2026.
+
+- Wikivoyage, Ben Tre, Go next: minibus to Can Tho, 110 km, about 3 hours, “a few times a day until 13:30 (October 2023)”, non-air-con 30-seater. Secondary source, one figure. https://en.wikivoyage.org/wiki/Ben_Tre
+- The same page lists slow boats to Can Tho, about 7 hours, leaving 08:30–09:00. Undated against 2026 and not confirmed by an operator. Not used.
+- No primary page (provincial portal, Vietnam Tourism) printed a Ben Tre–Can Tho time. Commercial bus and map pages print 2.5–3.5 hours and 91–150 km by different roads. Not used.
+- 12go `ben-tre/can-tho` lists taxis only, no bus. No bus partner set.

@@ -1,0 +1,43 @@
+{
+  "slug": "ho-chi-minh-city-to-da-lat",
+  "name": "Ho Chi Minh City to Da Lat",
+  "from": "Ho Chi Minh City",
+  "to": "Da Lat",
+  "summary": "Fly if the day matters. The flight is under an hour, and Lien Khuong airport is about 30 km south of town. The road is 6–7 hours up Quốc lộ 20 until the new expressway is finished, so take the bus only if you want the climb or a cheaper seat. There is no train.",
+  "modes": [
+    {
+      "mode": "Flight",
+      "duration": "About 55 minutes",
+      "note": "Tan Son Nhat to Lien Khuong (DLI), about 55 minutes each way on Vietjet. Add the ride from the airport, about 30 km south of the town. Fares are Check on arrival.",
+      "partner": "flight"
+    },
+    {
+      "mode": "Bus or car",
+      "duration": "6–7 hours",
+      "note": "About 293 km by road on Quốc lộ 20. The Dầu Giây–Liên Khương expressway is still being built; its last section is expected to open in the fourth quarter of 2028. Until then, plan on the old road. Fares and the departure station are Check on arrival.",
+      "partner": "bus",
+      "partnerPath": "ho-chi-minh-city/da-lat"
+    },
+    {
+      "mode": "Train",
+      "duration": "No passenger service",
+      "note": "Da Lat’s line no longer joins the north–south railway. The station runs only a short tourist train to Trại Mát."
+    }
+  ],
+  "seoTitle": "Ho Chi Minh City to Da Lat — flight or bus",
+  "seoDescription": "About 55 minutes by air to Lien Khuong, or 6–7 hours by road on Quốc lộ 20. No train. The same page covers Da Lat back to Ho Chi Minh City.",
+  "faqs": [
+    {
+      "q": "Is Da Lat to Ho Chi Minh City the same trip?",
+      "a": "Yes. This page covers both directions. The return flight from Lien Khuong is also about 55 minutes, and the road back is the same 6–7 hours."
+    },
+    {
+      "q": "Is the new expressway open?",
+      "a": "Not end to end. The Dầu Giây–Liên Khương line is under construction in three sections. When it is finished, the road time is expected to drop to about 3 hours. The Bảo Lộc–Liên Khương section is now expected in the fourth quarter of 2028."
+    },
+    {
+      "q": "Can you take the train to Da Lat?",
+      "a": "No. The old railway no longer links up with the north–south line. The only train in Da Lat is the short tourist run out to Trại Mát."
+    }
+  ]
+}

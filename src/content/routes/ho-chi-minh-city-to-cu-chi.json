@@ -1,0 +1,36 @@
+{
+  "slug": "ho-chi-minh-city-to-cu-chi",
+  "name": "Ho Chi Minh City to Cu Chi",
+  "from": "Ho Chi Minh City",
+  "to": "Cu Chi",
+  "summary": "Go by car for a day trip. It is about 70 km northwest of the center and about an hour to Bến Dược. Know which gate you want before you set off: Bến Dược and Bến Đình are different trips, and the city buses need one or two changes.",
+  "modes": [
+    {
+      "mode": "Car or taxi",
+      "duration": "About 1 hour to Bến Dược",
+      "note": "About 70 km northwest of the center. The self-drive line runs out by Trường Chinh, the An Sương junction, and Tỉnh lộ 15. A time for Bến Đình alone is Check on arrival. Agree the gate and the fare before you leave."
+    },
+    {
+      "mode": "City bus to Bến Dược",
+      "duration": "Check on arrival",
+      "note": "Bus 13 from Bến Thành, or 94 from Chợ Lớn, to the Củ Chi bus station, then bus 79 to Bến Dược. Fares and minutes are Check on arrival."
+    },
+    {
+      "mode": "City bus to Bến Đình",
+      "duration": "Check on arrival",
+      "note": "Bus 13 or 94 to An Sương, then 122 to Tân Quy, then 70 to Bến Đình. Fares and minutes are Check on arrival."
+    }
+  ],
+  "seoTitle": "Ho Chi Minh City to Cu Chi tunnels — car or bus",
+  "seoDescription": "About 70 km and about an hour by car to the Bến Dược tunnels. City buses 13 or 94, then 79 or 70, depending on the gate. Times on the buses are Check on arrival.",
+  "faqs": [
+    {
+      "q": "Which tunnel gate should you go to?",
+      "a": "Bến Dược and Bến Đình are two separate sites. The bus changes are different, and the one-hour drive is for Bến Dược. Pick one before you book a car."
+    },
+    {
+      "q": "Is there a metro to Cu Chi?",
+      "a": "No. A Tham Lương–Củ Chi metro section is only in project preparation, with completion written as 2035."
+    }
+  ]
+}
