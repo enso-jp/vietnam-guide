@@ -109,6 +109,7 @@ Checked 21 Oct 2026.
 - Publisher: Phong Nha-Ke Bang National Park
 - Accessed: 21 Oct 2026
 - Supports: Tien Son Cave is about 100 m vertically from Phong Nha Cave. Visitors use the same boat pier, then climb nearly 600 steps. The open section is about 400 m. Same summer and winter hours as Phong Nha Cave. Not a separate pier.
+- Re-read 23 Oct 2026: the page also prints a boat of 700,000 VND a round trip beside the 750,000 VND two-cave boat, an entrance of 80,000 VND, and a visit of about 2.5 hours for the boat-plus-stair route. Detail is in `attractions/tien-son-cave.md`.
 
 ### S19
 - URL: https://dsvn.vn/ and https://www.vr.com.vn/
