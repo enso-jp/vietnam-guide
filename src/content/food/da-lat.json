@@ -2,14 +2,14 @@
   "slug": "da-lat",
   "name": "Da Lat food guide",
   "placeSlug": "da-lat",
-  "summary": "Bánh căn off a charcoal pan, a hot xíu mại bowl, lá é chicken hotpot, and strawberries on the market slope.",
+  "summary": "Morning is bánh căn off a charcoal pan or a hot bowl of pork-meatball broth with a grilled baguette. Later, lá é chicken hotpot, cold avocado ice cream, and strawberries with sweet milk on the market slope.",
   "heroSlug": "ca-phe",
   "body": [
-    "Da Lat eats from the slope above Xuan Huong Lake and from the stalls in the centre. Morning can be a hot bowl of bánh mì xíu mại, bánh căn off a charcoal pan, or rice sheets with chicken. Afternoon is avocado ice cream, eaten cold while you stand. After dark the night market grills a rice sheet and pours hot soy milk.",
-    "Vietnam Tourism says the town changes the dishes newcomers brought, and cooks what the farms grow: avocado, strawberry, asparagus, artichoke, grape, tea, coffee, and wild mountain mushrooms. What follows are the dishes and the preserved foods those articles, and Visit Lâm Đồng, actually print. Mì Quảng, bún bò Huế, Hanoi-style phở with lettuce, bánh bèo, bánh xèo, and Phan Rang chicken rice are the other plates those articles name.",
-    "The coast is a different meal. Vietnam National Authority of Tourism puts Nha Trang and Mui Ne a few hours away by car. The minutes are Check on arrival."
+    "Da Lat eats from the slope above Xuan Huong Lake and from the stalls in the centre. Morning can be a hot bowl of bánh mì xíu mại, bánh căn off a charcoal pan, or soft rice sheets with chicken. Afternoon is avocado ice cream, eaten cold while you stand. After dark the night market grills a rice sheet and pours sweet hot soy milk.",
+    "The farms set the table: avocado, strawberry, asparagus, artichoke, grape, tea, coffee, and wild mountain mushrooms. Cooks here also change the dishes people brought with them. Mì Quảng, bún bò Huế, Hanoi-style phở with lettuce, bánh bèo, bánh xèo, and Phan Rang chicken rice are those other plates.",
+    "The coast is a different meal. Nha Trang and Mui Ne are a few hours away by car."
   ],
-  "specialtiesLead": "Vietnam Tourism names the charcoal bánh căn, the hot xíu mại, the market fruit, the artichoke tea, and the persimmons. Visit Lâm Đồng names the night stalls, the lá é hotpot, bánh ướt lòng gà, the clay-pot rice, and the doors under each line. A figure with no source is Check on arrival.",
+  "specialtiesLead": "Charcoal bánh căn, hot xíu mại, market fruit, artichoke tea, and the persimmons, then the night stalls, lá é hotpot, bánh ướt lòng gà, and clay-pot rice.",
   "dishSlugs": [
     "ca-phe",
     "kem-bo",
@@ -66,147 +66,157 @@
       "heading": "Market snacks",
       "nav": "Snacks",
       "paragraphs": [
-        "These are the cups, sheets, and jars from the market slope, the night stalls, and the orchards. Where a page prints a price, it is under the line. Where it does not, the price is Check on arrival."
+        "Cups, sheets, and jars from the market slope, the night stalls, and the orchards."
       ],
       "spots": [
         {
           "name": "Avocado ice cream",
           "nameVi": "Kem bơ",
           "address": "Market slope, the night market, and 76 Nguyễn Văn Trỗi",
-          "note": "Blended avocado, eaten cold from a cup. Vietnam National Authority of Tourism names it as a Da Lat sweet and does not print a stall price. Visit Lâm Đồng’s food-tour note prints 20,000–30,000 VND at 76 Nguyễn Văn Trỗi.",
-          "dishSlug": "kem-bo"
+          "note": "Blended avocado dessert, eaten cold from a cup. In Da Nang it is in the Con Market snack row.",
+          "dishSlug": "kem-bo",
+          "photo": "kem-bo"
         },
         {
           "name": "Grilled rice paper",
           "nameVi": "Bánh tráng nướng",
           "address": "Night market, centre",
-          "note": "A crisp rice sheet grilled with toppings. Fold it and eat from the paper. The night-market listing does not print a stall price. The food-tour note prints 10,000–30,000 VND. Stalls run about 18:00–23:00.",
-          "dishSlug": "banh-trang-nuong"
+          "note": "A crisp rice sheet grilled with toppings, folded and eaten from the paper.",
+          "dishSlug": "banh-trang-nuong",
+          "photo": "banh-trang-nuong"
         },
         {
           "name": "Strawberry with condensed milk",
           "nameVi": "Dâu sữa",
-          "address": "Check on arrival",
-          "note": "Fresh strawberries with sweet milk, a cup or a bag at Da Lat Market in the daytime. The address, the hours, and the stall price are Check on arrival.",
+          "address": "Da Lat Market",
+          "note": "Fresh strawberries with sweet milk, in a cup or a bag.",
           "dishSlug": "dau-sua"
         },
         {
           "name": "Hot soy milk",
           "nameVi": "Sữa đậu nành nóng",
           "address": "Market, the night market, and 64 Tăng Bạt Hổ",
-          "note": "Sweet hot soy milk for a cool evening. The food-tour note prints 10,000 VND at 64 Tăng Bạt Hổ and says that counter also sells other soy milks, without naming them. Night stalls run about 18:00–23:00.",
+          "note": "Sweet hot soy milk for a cool evening, carried in a cup.",
           "dishSlug": "sua-dau-nanh"
         },
         {
           "name": "Artichoke tea",
           "nameVi": "Trà atiso",
           "address": "Market area",
-          "note": "Herbal tea from local artichoke, hot or bottled to take home. Vietnam Tourism Information lists it as a Lam Dong specialty. The price is Check on arrival.",
+          "note": "Herbal tea from local artichoke, drunk hot or bottled to take home.",
           "dishSlug": "tra-atiso"
         },
         {
           "name": "Crab soup",
           "nameVi": "Súp cua",
           "address": "Night market and Lam Vien Square",
-          "note": "Hot crab soup at the night market and Lam Vien Square. Visit Lâm Đồng’s food-tour note prints 10,000–15,000 VND. A stall number is Check on arrival.",
-          "dishSlug": "sup-cua-da-lat"
+          "note": "Hot crab soup for a cold night at the night market and Lam Vien Square.",
+          "dishSlug": "sup-cua-da-lat",
+          "photo": "sup-cua-da-lat"
         },
         {
           "name": "Grilled skewers",
           "nameVi": "Nướng xiên",
           "address": "Da Lat Night Market",
-          "note": "Skewers at the night market. The food-tour note prints 10,000–20,000 VND. The night-market listing does not print a skewer price, and the meats are not listed. Stalls run about 18:00–23:00.",
+          "note": "Skewers from the night-market stalls, eaten there under the lights.",
           "dishSlug": "nuong-xien-da-lat"
         },
         {
           "name": "Yaourt phô mai",
           "nameVi": "Yaourt phô mai",
           "address": "Tăng Bạt Hổ, Yersin, Hoàng Diệu, and Phạm Nhật Duật",
-          "note": "A cold yogurt cup named with bánh căn and with morning xíu mại. One note prints 5,000 VND for yaourt and does not say phô mai. The bánh căn listings name yaourt phô mai without that figure. A single price is Check on arrival.",
+          "note": "Yaourt phô mai beside the bánh căn, and a yaourt beside the morning xíu mại bowls.",
           "dishSlug": "yaourt-pho-mai"
         },
         {
           "name": "Bánh flan phô mai",
           "nameVi": "Bánh flan phô mai",
           "address": "7 Tăng Bạt Hổ and 27/44 Yersin",
-          "note": "Cheese flan named at 7 Tăng Bạt Hổ and at Bánh Căn Lệ on Yersin. A price is Check on arrival. Hours follow that door: 16:00–23:00 or 06:00–19:00.",
+          "note": "Cheese flan after the bánh căn.",
           "dishSlug": "banh-flan-pho-mai"
         },
         {
           "name": "Wind-dried persimmon",
           "nameVi": "Hồng treo gió",
           "address": "Mimosa Pass orchards",
-          "note": "Hung and wind-dried. Vietnam Tourism puts the orchards at the end of Mimosa Pass, off Trần Hưng Đạo and Khe Sanh, and calls it a famous Da Lat specialty. The season lines are late October and November, and also September through December. The price is Check on arrival.",
-          "dishSlug": "hong-treo-gio"
+          "note": "Persimmons hung in controlled wind until they are very sweet, chewy, and fragrant.",
+          "dishSlug": "hong-treo-gio",
+          "photo": "hong-treo-gio"
         },
         {
           "name": "Dried persimmon",
           "nameVi": "Hồng sấy dẻo",
           "address": "Mimosa Pass, and shops in town",
-          "note": "Chewy dried persimmon. Vietnam Tourism lists hồng sấy. The provincial center describes hồng sấy dẻo as a highland sweet, Da Lat included. The price is Check on arrival.",
-          "dishSlug": "hong-say-deo"
+          "note": "Persimmon dried in the open air or cold-dried until chewy, a fragrant highland sweet.",
+          "dishSlug": "hong-say-deo",
+          "photo": "hong-say-deo"
         },
         {
           "name": "Soft ripe persimmon",
           "nameVi": "Hồng chín mềm",
           "address": "Mimosa Pass orchards",
-          "note": "Soft ripe persimmon, named by Vietnam Tourism with the other persimmon specialties. The price is Check on arrival. Orchards are at the end of Mimosa Pass.",
+          "note": "Soft ripe persimmon from the orchards on Mimosa Pass.",
           "dishSlug": "hong-chin-mem"
         },
         {
           "name": "Pressed persimmon",
           "nameVi": "Hồng ép",
           "address": "Mimosa Pass, or a shop in town",
-          "note": "Pressed persimmon. Vietnam Tourism names it and does not describe the press. The price is Check on arrival.",
+          "note": "Pressed persimmon from the orchards on Mimosa Pass.",
           "dishSlug": "hong-ep"
         },
         {
           "name": "Crunchy persimmon",
           "nameVi": "Hồng giòn",
           "address": "Mimosa Pass and Cau Dat orchards",
-          "note": "Crunchy persimmon from the orchards, bought as a gift. Season lines disagree: late October and November, or September through December. The price is Check on arrival.",
-          "dishSlug": "hong-gion"
+          "note": "Crunchy persimmon from the orchards, sweet and aromatic. Freshly picked fruit is also called sweet, soft, and juicy.",
+          "dishSlug": "hong-gion",
+          "photo": "hong-gion"
         },
         {
           "name": "Strawberry jam",
           "nameVi": "Mứt dâu",
           "address": "Cam Ly ward seasonal fair",
-          "note": "Mildly sweet strawberry jam at a seasonal fair in a Cam Ly resort yard. A shop address and the price are Check on arrival.",
-          "dishSlug": "mut-dau"
+          "note": "Mildly sweet, fragrant strawberry jam.",
+          "dishSlug": "mut-dau",
+          "photo": "mut-dau"
         },
         {
           "name": "Candied ginger",
           "nameVi": "Mứt gừng",
           "address": "Da Lat Market fringe",
-          "note": "Candied ginger at the market fringe, with preserved fruit, coffee, and artichoke tea. The price is Check on arrival. A stall number is Check on arrival.",
-          "dishSlug": "mut-gung"
+          "note": "Candied ginger from the market fringe, beside the fruit preserves, coffee, and artichoke tea.",
+          "dishSlug": "mut-gung",
+          "photo": "mut-gung"
         },
         {
           "name": "Fruit preserves",
           "nameVi": "Mứt trái cây",
           "address": "Da Lat Market fringe",
-          "note": "Fruit preserves at the market fringe. Vietnam Tourism calls them famous Da Lat preserves. Fruits inside the jars, other than the strawberry jam, were not listed. The price is Check on arrival.",
+          "note": "Fruit preserves from the market fringe, the jars Da Lat is known for, set out with candied ginger, coffee, and artichoke tea.",
           "dishSlug": "mut-trai-cay"
         },
         {
           "name": "Da Lat wine",
           "nameVi": "Vang Đà Lạt",
           "address": "Check on arrival",
-          "note": "Wine from Da Lat grapes and local fruit. Wikipedia, citing a 2009 business-forum piece, puts the first bottle in 1999. A shop address and the price are Check on arrival.",
-          "dishSlug": "vang-da-lat"
+          "note": "Wine made in Da Lat from local grapes and specialty fruit.",
+          "dishSlug": "vang-da-lat",
+          "photo": "vang-da-lat"
         },
         {
           "name": "Da Lat strawberries",
           "nameVi": "Dâu tây Đà Lạt",
           "address": "Da Lat Market",
-          "note": "Fresh strawberries. The condensed-milk cup is dâu sữa. A 2025 provincial bulletin names dâu tây Đà Lạt. The kilogram price is Check on arrival.",
-          "dishSlug": "dau-tay-da-lat"
+          "note": "Fresh strawberries from the Da Lat farms, the fruit on its own rather than the condensed-milk cup.",
+          "dishSlug": "dau-tay-da-lat",
+          "photo": "dau-tay-da-lat"
         },
         {
           "name": "Artichoke extract",
           "nameVi": "Cao atiso",
           "address": "Check on arrival",
-          "note": "Cooked-down artichoke, named in a March 2025 Lam Dong bulletin, separate from the tea. A shop address and the price are Check on arrival.",
+          "note": "Cooked-down artichoke, a Lam Dong product separate from the artichoke tea.",
           "dishSlug": "cao-atiso"
         }
       ]
@@ -216,196 +226,202 @@
       "heading": "Cooked specialties",
       "nav": "Cooked",
       "paragraphs": [
-        "These are the plates Visit Lâm Đồng and Vietnam Tourism name for a day in Da Lat. Door prices that disagree are both printed. A plate with no figure of its own is Check on arrival."
+        "The plates for a day in town, from the charcoal cakes and the morning bowl to the hotpot and the clay pot."
       ],
       "spots": [
         {
           "name": "Bánh căn",
           "nameVi": "Bánh căn",
           "address": "Centre, especially around Hoa Binh",
-          "note": "Grilled over charcoal with a quail egg or a duck egg. Vietnam Tourism says the centre, especially Hoa Binh, in the early morning. Visit Lâm Đồng door prices are 15,000–30,000 VND, 20,000–50,000 VND, and “Đang cập nhật”. A single city price is Check on arrival.",
-          "dishSlug": "banh-can-da-lat"
+          "note": "Bite-size rice cakes grilled over charcoal, with a quail egg or a duck egg on top. At Lệ the shell is crisp, and one dip is an onion sauce.",
+          "dishSlug": "banh-can-da-lat",
+          "photo": "banh-can-da-lat"
         },
         {
           "name": "Bánh mì xíu mại",
           "nameVi": "Bánh mì xíu mại",
           "address": "26 Hoàng Diệu and 26 Phạm Nhật Duật",
-          "note": "Hot pork-meatball broth, a grilled baguette, shredded papaya, and herbs. Visit Lâm Đồng’s food-tour note prints about 10,000–15,000 VND a bowl at 26 Hoàng Diệu and 26 Phạm Nhật Duật. Hours are Check on arrival.",
+          "note": "A hot breakfast bowl of pork-meatball broth, with a grilled baguette, shredded papaya, and herbs.",
           "dishSlug": "banh-mi-xiu-mai"
         },
         {
           "name": "Bánh ướt lòng gà",
           "nameVi": "Bánh ướt lòng gà",
           "address": "Phan Đình Phùng and Tăng Bạt Hổ",
-          "note": "White rice sheets with shredded chicken, bone, thigh, offal, and trứng non. Visit Lâm Đồng prints 25,000–100,000 VND across four doors on Phan Đình Phùng and Tăng Bạt Hổ. Hours are Check on arrival.",
+          "note": "White, soft, chewy rice sheets with shredded chicken, breast bone, thigh, offal, and trứng non. The fish sauce is not overly salty, and chili is there if you want heat.",
           "dishSlug": "banh-uot-long-ga"
         },
         {
           "name": "Lẩu gà lá é",
           "nameVi": "Lẩu gà lá é",
           "address": "3 Tháng 4, Chu Văn An, and Yersin",
-          "note": "Chicken hotpot with lá é. Tao Ngộ and 668 print 20,000–100,000 VND a person. Hạnh, 6 Yersin, prints 200,000–350,000 VND and is open 10:00–23:00. The leaf is compared there to cinnamon in look and lemongrass in smell.",
+          "note": "Chicken hotpot with lá é, a leaf that looks like cinnamon and smells like lemongrass. At Tao Ngộ the broth is fragrant and hot with chili, and the gà ta is firm and sweet.",
           "dishSlug": "lau-ga-la-e"
         },
         {
           "name": "Cơm niêu",
           "nameVi": "Cơm niêu",
           "address": "Hồ Tùng Mậu, Nam Kỳ Khởi Nghĩa, and Sương Nguyệt Ánh",
-          "note": "Clay-pot rice with a thin crust. Four doors print four bands: 40,000–200,000 VND, 30,000–380,000 VND, 12,000–60,000 VND, and 30,000–55,000 VND. Hours are printed door by door from 09:00 or 10:00 until 21:00 or 22:00.",
-          "dishSlug": "com-nieu-da-lat"
+          "note": "Clay-pot rice with a thin crust, served with the house braises and vegetables.",
+          "dishSlug": "com-nieu-da-lat",
+          "photo": "com-nieu-da-lat"
         },
         {
           "name": "Cơm lam",
           "nameVi": "Cơm lam",
           "address": "Toward Langbiang, or Cu Lan village",
-          "note": "Bamboo-tube rice with sesame salt, eaten toward Langbiang or in Cu Lan village, with grilled forest meat, grilled chicken, and grilled eggs. The price is Check on arrival.",
-          "dishSlug": "com-lam-da-lat"
+          "note": "Bamboo-tube rice with sesame salt. The sweetness is attributed to upstream water, and the smell to young bamboo.",
+          "dishSlug": "com-lam-da-lat",
+          "photo": "com-lam-da-lat"
         },
         {
           "name": "Nem nướng",
           "nameVi": "Nem nướng",
           "address": "5 Trần Phú and 45 Bùi Thị Xuân",
-          "note": "Grilled pork with bánh tráng phơi sương, herbs, and a house sauce. Bà Hùng at 5 Trần Phú prints 45,000 VND. Bà Nghĩa at 45 Bùi Thị Xuân prints 45,000–70,000 VND. Hours are Check on arrival.",
+          "note": "Grilled pork with bánh tráng phơi sương, fresh herbs, and a sauce mixed in the shop. At bà Hùng the pork is lean.",
           "dishSlug": "nem-nuong-da-lat"
         },
         {
           "name": "Bánh giò",
           "nameVi": "Bánh giò",
           "address": "26 Hoàng Diệu and 26 Phạm Nhật Duật",
-          "note": "A side cake at the xíu mại counters. Visit Lâm Đồng’s food-tour note prints 6,000 VND. A filling list was not printed. Hours are Check on arrival.",
-          "dishSlug": "banh-gio-da-lat"
+          "note": "A small cake beside the bánh mì xíu mại bowls.",
+          "dishSlug": "banh-gio-da-lat",
+          "photo": "banh-gio-da-lat"
         },
         {
           "name": "Chả cây",
           "nameVi": "Chả cây",
           "address": "Tăng Bạt Hổ, Yersin, Hoàng Diệu, and Phạm Nhật Duật",
-          "note": "A pork stick with bánh căn or xíu mại. Cây Bơ prints 5,000 VND for chả cây. The food-tour note prints 4,000 VND for chả. The two names are kept apart.",
+          "note": "Chả cây beside the bánh căn, and a chả beside the morning xíu mại, kept as two names.",
           "dishSlug": "cha-cay-da-lat"
         },
         {
           "name": "Gà nướng lu",
           "nameVi": "Gà nướng lu",
           "address": "2B Chu Văn An",
-          "note": "Chicken roasted in a lu at Lẩu gà lá é 668, 2B Chu Văn An. A price for the roast alone is Check on arrival. Hours are Check on arrival.",
+          "note": "Chicken roasted in a lu, beside the lá é hotpot.",
           "dishSlug": "ga-nuong-lu"
         },
         {
           "name": "Lòng gà xào nấm",
           "nameVi": "Lòng gà xào nấm",
           "address": "2B Chu Văn An",
-          "note": "Chicken offal stir-fried with mushrooms at 2B Chu Văn An. The mushrooms are not named. The price is Check on arrival. Hours are Check on arrival.",
+          "note": "Chicken offal stir-fried with mushrooms, on the same menu as the lá é hotpot.",
           "dishSlug": "long-ga-xao-nam"
         },
         {
           "name": "Grilled forest meat",
           "nameVi": "Thịt rừng nướng",
           "address": "Toward Langbiang, or Cu Lan village",
-          "note": "Grilled forest meat with cơm lam toward Langbiang or in Cu Lan village. The animal is not named. The price is Check on arrival.",
+          "note": "Grilled forest meat with the bamboo-tube rice.",
           "dishSlug": "thit-rung-nuong"
         },
         {
           "name": "Grilled chicken",
           "nameVi": "Gà nướng",
           "address": "Langbiang side, Cu Lan, and 7 Tô Hiến Thành",
-          "note": "Grilled chicken toward Langbiang or in Cu Lan, and at 7 Tô Hiến Thành, open 10:00–22:00. A price for the plate alone is Check on arrival. The door band at Số 7 is 50,000–200,000 VND.",
-          "dishSlug": "ga-nuong-da-lat"
+          "note": "Grilled chicken with cơm lam toward Langbiang or in Cu Lan, and on the chicken menu at 7 Tô Hiến Thành.",
+          "dishSlug": "ga-nuong-da-lat",
+          "photo": "ga-nuong-da-lat"
         },
         {
           "name": "Grilled chicken eggs",
           "nameVi": "Hột gà nướng",
           "address": "Toward Langbiang, or Cu Lan village",
-          "note": "Grilled eggs with cơm lam toward Langbiang or in Cu Lan village. The price is Check on arrival. Hours are Check on arrival.",
+          "note": "Chicken eggs grilled beside the bamboo-tube rice.",
           "dishSlug": "hot-ga-nuong"
         },
         {
           "name": "Stuffed snails",
           "nameVi": "Ốc nhồi thịt",
           "address": "33 Hai Bà Trưng",
-          "note": "Stuffed snails at 33 Hai Bà Trưng. The stuffing is not described. The price is Check on arrival. Hours are Check on arrival.",
-          "dishSlug": "oc-nhoi-thit"
+          "note": "Snails stuffed with meat, the specialty at 33 Hai Bà Trưng.",
+          "dishSlug": "oc-nhoi-thit",
+          "photo": "oc-nhoi-thit"
         },
         {
           "name": "Oxtail hotpot",
           "nameVi": "Lẩu đuôi bò",
           "address": "33 Hai Bà Trưng",
-          "note": "Oxtail hotpot at 33 Hai Bà Trưng. The broth is not described. The price is Check on arrival. Hours are Check on arrival.",
+          "note": "Oxtail hotpot at 33 Hai Bà Trưng.",
           "dishSlug": "lau-duoi-bo"
         },
         {
           "name": "Chicken herbal stew",
           "nameVi": "Gà tiềm",
           "address": "39 Bùi Thị Xuân",
-          "note": "Chicken stewed with ginseng and Chinese herbs at Tài Ký, 39 Bùi Thị Xuân. The note prints 50,000 VND a pot. Hours are Check on arrival.",
+          "note": "Chicken stewed with ginseng and Chinese herbs.",
           "dishSlug": "ga-tiem"
         },
         {
           "name": "Pigeon herbal stew",
           "nameVi": "Bồ câu tiềm",
           "address": "39 Bùi Thị Xuân",
-          "note": "Pigeon stewed with ginseng and Chinese herbs at 39 Bùi Thị Xuân. The note prints 50,000 VND a pot. Hours are Check on arrival.",
+          "note": "Pigeon stewed with ginseng and Chinese herbs.",
           "dishSlug": "bo-cau-tiem"
         },
         {
           "name": "Beef-tendon herbal stew",
           "nameVi": "Gân bò tiềm",
           "address": "39 Bùi Thị Xuân",
-          "note": "Beef tendon stewed with ginseng and Chinese herbs at 39 Bùi Thị Xuân. The note prints 50,000 VND a pot. Hours are Check on arrival.",
+          "note": "Beef tendon stewed with ginseng and Chinese herbs.",
           "dishSlug": "gan-bo-tiem"
         },
         {
           "name": "Pork-tendon herbal stew",
           "nameVi": "Gân heo tiềm",
           "address": "39 Bùi Thị Xuân",
-          "note": "Pork tendon stewed with ginseng and Chinese herbs at 39 Bùi Thị Xuân. The note prints 50,000 VND a pot. Hours are Check on arrival.",
+          "note": "Pork tendon stewed with ginseng and Chinese herbs.",
           "dishSlug": "gan-heo-tiem"
         },
         {
           "name": "Pork-brain herbal stew",
           "nameVi": "Óc heo tiềm",
           "address": "39 Bùi Thị Xuân",
-          "note": "Pork brain stewed with ginseng and Chinese herbs at 39 Bùi Thị Xuân. The note prints 50,000 VND a pot. Hours are Check on arrival.",
+          "note": "Pork brain stewed with ginseng and Chinese herbs.",
           "dishSlug": "oc-heo-tiem"
         },
         {
           "name": "Ngọc hành herbal stew",
           "nameVi": "Ngọc hành tiềm",
           "address": "39 Bùi Thị Xuân",
-          "note": "Ngọc hành stewed with ginseng and Chinese herbs at 39 Bùi Thị Xuân. The note does not define ngọc hành. It prints 50,000 VND a pot. Hours are Check on arrival.",
+          "note": "Ngọc hành stewed with ginseng and Chinese herbs.",
           "dishSlug": "ngoc-hanh-tiem"
         },
         {
           "name": "Artichoke with pork hock",
           "nameVi": "Atiso hầm giò heo",
           "address": "3h Nam Kỳ Khởi Nghĩa",
-          "note": "Artichoke stewed with pork hock at cơm niêu Việt Nam, 3h Nam Kỳ Khởi Nghĩa, open 09:00–22:00. A price for the plate alone is Check on arrival. The door prints 30,000–380,000 VND.",
+          "note": "Artichoke stewed with pork hock, served with the clay-pot rice.",
           "dishSlug": "atiso-ham-gio-heo"
         },
         {
           "name": "Lẩu tả pín lù",
           "nameVi": "Lẩu tả pín lù",
           "address": "3h Nam Kỳ Khởi Nghĩa",
-          "note": "Named at cơm niêu Việt Nam, 3h Nam Kỳ Khởi Nghĩa, open 09:00–22:00. The note does not say what is in the pot. A price for the pot alone is Check on arrival.",
+          "note": "Lẩu tả pín lù beside the clay-pot rice.",
           "dishSlug": "lau-ta-pin-lu"
         },
         {
           "name": "Boiled chicken",
           "nameVi": "Gà luộc",
           "address": "7 Tô Hiến Thành",
-          "note": "Boiled gà ta at 7 Tô Hiến Thành, open 10:00–22:00. A price for the plate alone is Check on arrival. The door prints 50,000–200,000 VND.",
+          "note": "Boiled gà ta.",
           "dishSlug": "ga-luoc-da-lat"
         },
         {
           "name": "Chicken steamed with fish sauce",
           "nameVi": "Gà hấp mắm",
           "address": "7 Tô Hiến Thành",
-          "note": "Chicken steamed with fish sauce at 7 Tô Hiến Thành, open 10:00–22:00. A price for the plate alone is Check on arrival. The door prints 50,000–200,000 VND.",
+          "note": "Chicken steamed with fish sauce.",
           "dishSlug": "ga-hap-mam"
         },
         {
           "name": "Tile-grilled meat",
           "nameVi": "Nướng ngói",
           "address": "6A Nguyễn Lương Bằng",
-          "note": "Grilled on a tile at Cu Đức, 6A Nguyễn Lương Bằng. The note prints 100,000–200,000 VND a person and does not list the meats. Hours are Check on arrival.",
+          "note": "Meat grilled on a tile.",
           "dishSlug": "nuong-ngoi"
         }
       ]
@@ -416,44 +432,49 @@
       "role": "regional",
       "nav": "Regional",
       "paragraphs": [
-        "Vietnam Tourism says people who moved here brought central dishes, and that Da Lat cooks change them for the weather and the farms. These are the central plates, and the Phan Rang chicken rice, that the same sources name in town."
+        "Central dishes came with people who moved here, and the kitchens change them for the weather and the farms. Phan Rang chicken rice is the other plate those accounts place in town."
       ],
       "spots": [
         {
           "name": "Bánh bèo",
           "nameVi": "Bánh bèo",
           "address": "68 Phan Đình Phùng, and streetside stalls",
-          "note": "Vietnam Tourism says the Hue cake is rice and tapioca, steamed in a small bowl, with light fish sauce, fried shallots, chili, and crispy pork skin, as a morning or afternoon snack. The street-lunch line adds river shrimp. Visit Lâm Đồng names bánh bèo at 68 Phan Đình Phùng on a board printed at 27,000–35,000 VND, not split by dish. A price for the cake alone is Check on arrival."
+          "note": "A Hue cake of rice and tapioca, steamed in a small bowl, with light fish sauce, fried shallots, chili, and crispy pork skin. The street-lunch plate adds river shrimp.",
+          "photo": "banh-beo"
         },
         {
           "name": "Bánh xèo",
           "nameVi": "Bánh xèo",
           "address": "45 Bùi Thị Xuân",
-          "note": "Vietnam Tourism names bánh xèo among central dishes cooked in Da Lat and does not describe the cake. Visit Lâm Đồng says Nem nướng bà Nghĩa at 45 Bùi Thị Xuân also sells it. That door prints 45,000–70,000 VND and does not split the figure. A price for the cake alone is Check on arrival."
+          "note": "Bánh xèo as cooked in Da Lat, also on the board beside the nem nướng at 45 Bùi Thị Xuân.",
+          "photo": "banh-xeo"
         },
         {
           "name": "Bún bò Huế",
           "nameVi": "Bún bò Huế",
           "address": "Phù Đổng Thiên Vương, Hồ Tùng Mậu, and the market fountain",
-          "note": "The food-tour note calls it a hot morning bowl and says it shares beef, black sauce, and satay chili with the phở. Bún công at 1c Phù Đổng Thiên Vương is about 35,000 VND. Bún bò Thiên Trang at 2 Hồ Tùng Mậu is 30,000–40,000 VND. Ấp Ánh Sáng, by the fountain in front of Da Lat Market, has no price in that note. Hours are Check on arrival."
+          "note": "A hot morning bowl with beef, black sauce, and satay chili. About 35,000 VND at 1c Phù Đổng Thiên Vương, and 30,000–40,000 VND at 2 Hồ Tùng Mậu. Ấp Ánh Sáng sits by the fountain in front of Da Lat Market.",
+          "photo": "bun-bo-hue"
         },
         {
           "name": "Phở bò",
           "nameVi": "Phở bò",
           "address": "Tăng Bạt Hổ and Nguyễn Văn Cừ",
-          "note": "Vietnam Tourism says the Da Lat bowl is Hanoi-style phở plus herbs and crisp lettuce. The food-tour note prints 30,000–45,000 VND at 23 Tăng Bạt Hổ and 25,000–30,000 VND at 2/8 Nguyễn Văn Cừ. Hours are Check on arrival."
+          "note": "Hanoi-style phở with herbs and crisp lettuce. 30,000–45,000 VND at 23 Tăng Bạt Hổ, and 25,000–30,000 VND at 2/8 Nguyễn Văn Cừ.",
+          "photo": "pho"
         },
         {
           "name": "Mì Quảng",
           "nameVi": "Mì Quảng",
           "address": "Upper floor of Da Lat Market",
-          "note": "Vietnam Tourism describes a pork-knuckle broth with turmeric noodles inside the market, and says cooks on the upper floor assemble the bowls through the day. A price is Check on arrival. Hours are Check on arrival."
+          "note": "Turmeric noodles in a pork-knuckle broth, assembled through the day on the upper floor of the market.",
+          "photo": "mi-quang"
         },
         {
           "name": "Cơm gà Phan Rang",
           "nameVi": "Cơm gà Phan Rang",
           "address": "28 Trần Nhật Duật",
-          "note": "The food-tour note points at Phan Rang chicken rice at 28 Trần Nhật Duật and does not describe the plate. It is Phan Rang’s dish. The price is Check on arrival. Hours are Check on arrival."
+          "note": "Phan Rang chicken rice at 28 Trần Nhật Duật."
         }
       ]
     },
@@ -463,7 +484,7 @@
       "role": "casual",
       "nav": "Markets",
       "paragraphs": [
-        "The two doors are the day market on the slope and the night market in the centre. Vietnam National Authority of Tourism describes the day stalls as flowers and produce. Visit Lâm Đồng puts the night stalls at about 18:00–23:00."
+        "The day market is the slope above the lake, flowers and produce in the morning. The night market is in the centre, about 18:00–23:00, with grilled rice paper, soy milk, and skewers."
       ],
       "spots": [
         {
@@ -472,7 +493,7 @@
           "address": "Check on arrival",
           "photo": "da-lat-market-2",
           "caption": "Morning produce and strawberries on the slope above the lake.",
-          "note": "Morning flowers, produce, and strawberry cups on the slope above Xuan Huong Lake. The door is free. Visit Lâm Đồng does not print the address or the hours. Both are Check on arrival."
+          "note": "Morning flowers, produce, and strawberry cups on the slope above Xuan Huong Lake."
         },
         {
           "name": "Da Lat Night Market",
@@ -480,7 +501,7 @@
           "address": "Centre",
           "photo": "da-lat-market",
           "caption": "Lit counters for grilled rice paper and soy milk.",
-          "note": "Grilled rice paper, hot soy milk, and skewers under the lights. Visit Lâm Đồng puts the stalls at about 18:00–23:00. A street number is Check on arrival. Printed prices for those snacks are on their lines."
+          "note": "Grilled rice paper, hot soy milk, and skewers under the lights, about 18:00–23:00."
         }
       ]
     },
@@ -490,7 +511,7 @@
       "role": "breakfast",
       "nav": "Breakfast",
       "paragraphs": [
-        "The hot Da Lat breakfast is bánh mì xíu mại, in small bowls, with the baguette on the side. A cold-cut bánh mì is the ordinary sandwich. Vietnam National Authority of Tourism does not print a Da Lat-only filling list for that loaf."
+        "The hot Da Lat breakfast is bánh mì xíu mại, small bowls of pork-meatball broth with the grilled baguette on the side. A bánh mì is the morning sandwich from a street counter near the market."
       ],
       "dishSlugs": [
         "banh-mi"
@@ -499,5 +520,5 @@
   ],
   "verified": "23 Oct 2026",
   "seoTitle": "Da Lat food guide — bánh căn, xíu mại, lá é hotpot",
-  "seoDescription": "Da Lat food from Vietnam Tourism and Visit Lâm Đồng: bánh căn, bánh mì xíu mại, lá é chicken hotpot, market fruit, and persimmon. An unprinted price is Check on arrival."
+  "seoDescription": "Da Lat food: charcoal bánh căn, hot xíu mại, lá é chicken hotpot, market fruit, and persimmon."
 }
