@@ -410,3 +410,50 @@ Restaurant and bar names that located a street. Each line has a source and the w
 
 ### Owner doors from 20 Oct 2026
 - The shop list higher up was the owner’s. This pass did not recheck those doors. Do not publish as a pick.
+
+## Specialties added 23 Oct 2026
+
+Checked 23 Oct 2026 against S43–S48, plus the 18 May 2020 Vietnamese page already stored as S30. No new restaurant picks. A dish the portal only names is published with no invented method. Streets and rooms already on the guide stay streets and rooms. They do not count toward the specialty list.
+
+The public specialty list is 50 Da Nang dishes: 12 with a licensed plate already on the guide, and 38 more as text. Vịt lộn um bầu stays a text line. It still has no licensed plate of the stew. Hội An plates described on S44 are regional, not Da Nang specialties: hến xào, xí mà, bánh đậu xanh, chè bắp, tam hữu, plus cao lầu and white rose already linked. Bánh mì Hội An is a sentence on the shared bánh mì page.
+
+### Named and described
+- Bánh tráng đập / bánh tráng chập. S44. Break by hand. Two layers on the later lines. Mắm nêm from anchovy. Bắc Mỹ An also names bánh đập (S26). The hến pairing on S44 is the Hội An plate.
+- Cá thiều tẩm. S45. Box price 100,000–120,000 đồng for 250 g. Two sizes on one page: about two fingers, and 4–7 kg. Both stay. Mekong Delta fish and Da Nang strips, both on the page.
+- Chả bò. S44 names the method as local and does not list the grind. S43 puts it in Han Market’s specialty goods.
+- Tré. S44. Ear, snout, skin, belly, tương ớt. No street.
+- Bánh khô mè. S44 for the ingredients and the offering use. S46 for K200/1 Ông Ích Đường, Cẩm Lệ. No price. No phone.
+- Thịt xiên nướng cuốn bánh ướt. S44. No street.
+- Bánh ít lá gai and bánh su sê. S44. No street. Two cakes.
+- Gà đèo Le. S44. Quế Sơn. Boiled plate only. No door and no ride time.
+- Nước mắm Nam Ô. S44 and the 29 Aug 2024 English parallel. Food, seasoning, and a gift. No shop door.
+- Mực khô. S29 and S26 name grilled dried squid at Con’s outdoor counters. S47 describes Hạng Huệ. One dish, not two.
+- Hến xào, xí mà, bánh đậu xanh, chè bắp, tam hữu. S44. Hội An. No Da Nang street. Published as the ride-away plates.
+- Bánh bèo cup, bánh tráng cuốn with mì lá, cơm gà with papaya and offal, gỏi cá dressed at landing, mì Quảng’s ten toppings on Lê Hồng Phong. S44 and S30. Appended to the dishes that already had pages. No new shop.
+
+### Named, method not printed
+- Bánh lọc on S30 and bánh bột lọc on S26 and S29. One entry. The pages do not say they are the same cake.
+- Bánh nậm. S30 and S43. Appended to the Hue page.
+- Nem lụi. S30, S31, S26, S43. Appended to the Hue page. The Da Nang lines still do not describe the skewer.
+- Bún thịt nướng. S30, S26, S48.
+- Bún mắm nêm. S30 and S43. Not the same line as bún mắm.
+- Lẩu bò. S30 only.
+- Bê thui. S30 names it and does not describe it. S44 describes bê thui Cầu Mống and sends the reader to Điện Bàn. Both stay on one dish.
+- Xôi, bò kho, bánh mì ốp la / ốp la, cháo trắng. S30 and S26. Cháo trắng is cá kho on S30 and kho cá cơm on S26.
+- Cháo lòng and bánh cuốn. S26 only. Bánh cuốn is appended to the Hanoi page and is not described as the Hanoi roll.
+- Ram cuốn cải. S29 calls it a fried spring roll in cabbage. S26 also names the night streets. No sauce.
+- Ốc hút. S26, S29, S43.
+- Sâm bổ lượng. S26. No ingredients copied from memory.
+- Bánh căn. S26 and S29. Appended to the Nha Trang page.
+- Chè chuối. S26 and S29. Separate from the chè line.
+- Kem bơ. S43 names it. Appended to the Da Lat page. The cup is not described. The 2019 stall name stays unpublished.
+- Cóc dầm, me dầm, gỏi khô bò, hột vịt lộn, xoa xoa hạt lựu. S48. Hột vịt lộn is not vịt lộn um bầu.
+- Ếch xào sả ớt and cá đuối nướng. S48, on Phan Tứ.
+
+### Named and not given a Da Nang specialty page
+- Ram bắp is labeled Quảng Ngãi on the Phan Tứ paragraph (S48). Nem chua rán is labeled Hanoi. Chè on that sentence is labeled Hue. They are a warning on the street note, not Da Nang plates.
+- Lẩu hải sản on Phan Tứ is a pub category, not a described pot.
+- Sinh tố is a drink category on the same lists. Chè already covers the sweet-soup name.
+- Mì Quảng toppings (chicken, beef, shrimp and pork, frog, eel, jellyfish, snakehead, spare rib, egg, vegetarian) are one bowl, not ten dishes.
+- Cao lầu, white rose, and bánh mì Hội An stay the neighbors’ dishes. S44 describes them and does not move them to Da Nang.
+- The 2011 research project cited on S44 was not opened. No dish was added from the citation alone.

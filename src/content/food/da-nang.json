@@ -6,9 +6,10 @@
   "heroSlug": "mi-quang",
   "body": [
     "Eat Da Nang as its own city. Hoi An’s cao lau is a short ride south, and bun bo Hue is a ride north. The bowl that tells you where you are is mi Quang: wide turmeric noodles, a shallow broth, peanuts, herbs, and a rice cracker you break into the bowl.",
-    "The shops below are ones people in the city write down for a friend. A market still works when you are already inside it. Hours move, and a branch can shift. Confirm them when you arrive. On the beach road, ask the price of seafood before it is cooked."
+    "The shops below are ones people in the city write down for a friend. A market still works when you are already inside it. Hours move, and a branch can shift. Confirm them when you arrive. On the beach road, ask the price of seafood before it is cooked.",
+    "The city tourism portal names more plates than the photographs: the small cakes, the breakfast street’s other bowls, chả bò, tré, bánh khô mè, and nước mắm Nam Ô among them. A method or a price that is not in print is Check on arrival."
   ],
-  "specialtiesLead": "These are the dishes to know by name. The shops that cook them are in the sections under this list.",
+  "specialtiesLead": "Photographs are the plates with a picture. The other Da Nang names follow as text, with the place the city pages give.",
   "dishSlugs": [
     "mi-quang",
     "bun-cha-ca",
@@ -19,12 +20,59 @@
     "com-ga",
     "banh-beo",
     "goi-ca",
-    "vit-lon",
     "che",
     "banh-mi",
     "ca-phe"
   ],
   "sections": [
+    {
+      "id": "more-specialties",
+      "heading": "More Da Nang specialties",
+      "nav": "More plates",
+      "paragraphs": [
+        "These are the other plates the city tourism portal names. A line here is a dish. Streets and rooms stay in the sections under this list. Where a page prints two clocks or two names, both stay. A method or a price that is not in print is Check on arrival."
+      ],
+      "dishSlugs": [
+        "vit-lon",
+        "banh-nam",
+        "banh-bot-loc",
+        "nem-lui",
+        "bun-thit-nuong",
+        "bun-mam-nem",
+        "lau-bo",
+        "be-thui",
+        "xoi",
+        "bo-kho",
+        "banh-mi-op-la",
+        "chao-trang",
+        "chao-long",
+        "banh-cuon",
+        "ram-cuon-cai",
+        "oc-hut",
+        "sam-bo-luong",
+        "banh-can",
+        "banh-trang-dap",
+        "che-chuoi",
+        "muc-kho",
+        "ca-thieu-tam",
+        "cha-bo",
+        "tre",
+        "banh-kho-me",
+        "kem-bo",
+        "thit-xien-banh-uot",
+        "banh-it-la-gai",
+        "banh-su-se",
+        "ga-deo-le",
+        "nuoc-mam-nam-o",
+        "coc-dam",
+        "me-dam",
+        "goi-kho-bo",
+        "hot-vit-lon",
+        "ech-xao-sa-ot",
+        "ca-duoi-nuong",
+        "xoa-xoa"
+      ]
+    },
     {
       "id": "where",
       "heading": "Where to eat",
@@ -32,7 +80,7 @@
       "paragraphs": [
         "Hai Chau, on the river, is the morning and the lunch. The streets and the two halls are in the next section, with the clocks the city pages actually print. Where two pages disagree, both figures are here.",
         "Nguyễn Chí Thanh is the noodle street: bun cha ca, cao lau, and chicken rice within a few blocks. Bạch Đằng is the river path for coffee and a walk, not a ranked cafe list.",
-        "Võ Nguyên Giáp is the beach road. Dinner here is seafood along Hoàng Sa, Võ Nguyên Giáp, and Trường Sa. Ask the price before it is cooked. Nguyễn Phan Vinh, on the Son Tra shore, is the other seafood street. An Thuong, in the lanes just inland of My Khe, is where Korean barbecue and Japanese counters cluster. The page names the quarter, and a shop only when a door was already on this guide."
+        "Võ Nguyên Giáp is the beach road. Dinner here is seafood along Hoàng Sa, Võ Nguyên Giáp, and Trường Sa. Ask the price before it is cooked. Nguyễn Phan Vinh, on the Son Tra shore, is the other seafood street. An Thuong, in the lanes just inland of My Khe, is where Korean barbecue and Japanese counters cluster. The quarter is the name. A shop is named only when its door was already written down."
       ]
     },
     {
@@ -59,19 +107,19 @@
           "name": "Phan Tu",
           "nameVi": "Phan Tứ",
           "address": "Phan Tứ, Ngũ Hành Sơn",
-          "note": "An evening snack street a little over 1 km, near the sea. The 2019 page prints 17:00–24:00. That clock is not restated later."
+          "note": "An evening snack street a little over 1 km, near the sea. The 2019 page prints 17:00–24:00. That clock is not restated later. The same page also puts nem chua rán down as a Hanoi dish, ram bắp as a Quảng Ngãi dish, and chè as a Hue sweet, beside the local plates."
         },
         {
           "name": "Han Market",
           "nameVi": "Chợ Hàn",
           "address": "119 Trần Phú, by the swing bridge",
-          "note": "The river hall. The 2023 page prints 06:00–19:00. The 2024 page outlines Trần Phú, Bạch Đằng, Hùng Vương, and Nguyễn Thái Học, and does not restate the clock. The 2023 page names Nguyễn Văn Linh as the fourth side. Use the 2024 block and confirm the door."
+          "note": "The river hall. The 2023 page prints 06:00–19:00, and the 12 Jun 2026 markets page prints the same clock at 119 Trần Phú. The 2024 page outlines Trần Phú, Bạch Đằng, Hùng Vương, and Nguyễn Thái Học, and does not restate the clock. The 2023 page names Nguyễn Văn Linh as the fourth side. Use the 2024 block and confirm the door. The 2026 page names chả bò among the goods to take home."
         },
         {
           "name": "Con Market",
           "nameVi": "Chợ Cồn",
           "address": "Hùng Vương and Ông Ích Khiêm",
-          "note": "The food hall. Indoor counters and an outdoor row. The 2023 page prints 07:00–19:30 and gives 290 Hùng Vương. The 2024 page puts the crossroads at Quang Trung and Ông Ích Khiêm and prints no clock. Aim for that crossing."
+          "note": "The food hall. Indoor counters and an outdoor row. The 2023 page prints 07:00–19:30 and gives 290 Hùng Vương. The 12 Jun 2026 markets page prints 06:00–19:00 at the same door. The 2019 roundup prints 09:00–18:00, and splits the indoor court at 07:00–15:00 from the outdoor row after 15:00. The 2024 page puts the crossroads at Quang Trung and Ông Ích Khiêm and prints no clock. Aim for that crossing. All four clocks stay."
         },
         {
           "name": "Helio",
@@ -83,7 +131,7 @@
           "name": "Son Tra night market",
           "nameVi": "Chợ đêm Sơn Trà",
           "address": "East bank of the Dragon Bridge",
-          "note": "VietnamPlus, 22 Aug 2025, says the market moved on 1 Aug 2025 to the east bank, in An Hai, and that the road in front is closed to vehicles after 17:30. The 2023 tourism page still says Mai Hắc Đế, 18:00–23:00. The new site has no printed closing hour. Confirm which gate is open."
+          "note": "VietnamPlus, 22 Aug 2025, says the market moved on 1 Aug 2025 to the east bank, in An Hai, and that the road in front is closed to vehicles after 17:30. It prints no closing hour. The 12 Jun 2026 markets page puts the market on Võ Văn Kiệt, An Hải, under the Dragon Bridge, and prints 17:00–23:00. The 2023 tourism page still says Mai Hắc Đế, 18:00–23:00. Confirm which gate is open."
         },
         {
           "name": "An Thuong night market",
@@ -102,6 +150,12 @@
           "nameVi": "Chợ đầu mối Thọ Quang",
           "address": "Thọ Quang, Sơn Trà",
           "note": "The wholesale fish landing, not a mì Quảng stop. The ministry reprint says the yard is busy day and night and does not give a visitor hour. Do not come here for a sit-down lunch."
+        },
+        {
+          "name": "Tam Tien fish landing",
+          "nameVi": "Chợ cá Tam Tiến",
+          "address": "Xã Tam Xuân",
+          "note": "The 12 Jun 2026 markets page describes basket boats landing before dawn with fish, shrimp, and squid, and food cooked from that catch. It prints 04:30–07:00. It does not name a dish. A price is Check on arrival."
         }
       ]
     },
@@ -145,7 +199,7 @@
           "name": "Ba Van",
           "nameVi": "Bà Vân",
           "address": "Trần Kế Xương",
-          "note": "Bun mam with boiled pork. The broth is fermented fish, which is the point. Skip it if that smell is not yours. House number: check on arrival.",
+          "note": "Bun mam with boiled pork. The broth is fermented fish, which is the point. Skip it if that smell is not yours. House number: Check on arrival.",
           "dishSlug": "bun-mam"
         },
         {
@@ -238,7 +292,7 @@
       "heading": "Seafood",
       "nav": "Seafood",
       "paragraphs": [
-        "Point at what is fresh, ask for it grilled or steamed, and ask the price before it is cooked. If a number is not agreed, it is not a known price. My Khe is dinner. It is the wrong place to judge a noodle shop."
+        "Point at what is fresh, ask for it grilled or steamed, and ask the price before it is cooked. If a number is not agreed, it is not a known price. My Khe is dinner. It is the wrong place to judge a noodle shop. The 16 Apr 2024 city page lists fish, shrimp, crab, swimming crab, squid, snails, cockles, and clams, cooked grilled, steamed, stir-fried, in a hotpot, or as a salad, and says the catch comes in the same day."
       ],
       "spots": [
         {
@@ -257,7 +311,7 @@
           "name": "Nam Danh",
           "nameVi": "Hải sản Năm Đảnh",
           "address": "Nguyễn Phan Vinh",
-          "note": "The Son Tra shore street. Search Nguyễn Phan Vinh and take the busy room. House number: check on arrival."
+          "note": "The Son Tra shore street. Search Nguyễn Phan Vinh and take the busy room. House number: Check on arrival."
         }
       ]
     },
@@ -365,7 +419,7 @@
         {
           "name": "East West Brewing",
           "nameVi": "East West",
-          "address": "My Khe beachfront. Street: check on arrival.",
+          "address": "My Khe beachfront. Street: Check on arrival.",
           "note": "House beer with the sea in front of you. The taproom page says beachfront and 08:00–01:00, and it does not print a street. Confirm the door."
         },
         {
@@ -400,11 +454,13 @@
       "nav": "Nearby",
       "paragraphs": [
         "Hoi An is under an hour by the coast road. Go there for cao lau, white rose dumplings, and the old-town dinner you will not get on My Khe.",
+        "The 16 Apr 2024 city page also describes hến xào, xí mà, bánh đậu xanh, chè bắp from Cẩm Nam, and tam hữu in Trà Quế as Hội An plates. Bê thui Cầu Mống, on the same page, is the plate it sends you to Điện Bàn for. The Da Nang line that only says bê thui is up with the specialties.",
         "Hue is the other direction, over Hai Van or by the tunnel. Bun bo Hue belongs to that city. Eat it there if the bowl is the reason for the trip. The Da Nang shops for both noodles are in the noodle list above, for the day you stay in town."
       ],
-      "dishSlugs": ["cao-lau", "bun-bo-hue"]
+      "dishSlugs": ["cao-lau", "bun-bo-hue", "hen-xao", "xi-ma", "banh-dau-xanh", "che-bap", "tam-huu"]
     }
   ],
+  "verified": "23 Oct 2026",
   "seoTitle": "Da Nang food guide — noodles, seafood, cafes, bars",
   "seoDescription": "What to eat in Da Nang: mi Quang at lunch, Huynh Thuc Khang at breakfast, and seafood on Vo Nguyen Giap. Market clocks disagree, so check the door."
 }

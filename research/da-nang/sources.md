@@ -253,3 +253,39 @@ Accessed 20 Oct 2026 unless a page states its own date.
 - Publisher: Giáo xứ Chính Tòa Đà Nẵng, about page dated 8 Mar 2014
 - Accessed: 21 Oct 2026
 - Supports: Church built 1923. Address printed as 156 Trần Phú. The phone prefix on that page is old and is not published.
+
+### S43
+- URL: https://danangfantasticity.com/en/am-thuc-dia-phuong/kham-pha-am-thuc-da-nang-tai-6-khu-cho-dia-phuong-noi-tieng
+- Publisher: Danang Fantasticity, 12 Jun 2026
+- Accessed: 23 Oct 2026
+- Supports: Con Market at 290 Hùng Vương, Hải Châu, 06:00–19:00, naming mì Quảng, bún mắm nêm, bánh bèo, bánh nậm, bánh xèo, nem lụi, and chè, plus a snack row of bánh tráng cuốn thịt heo, ốc hút, kem bơ, and chè. Han Market at 119 Trần Phú, Hải Châu, 06:00–19:00, with chả bò among the specialty goods and bún chả cá to eat. Sơn Trà night market on Võ Văn Kiệt, An Hải, under the Dragon Bridge, 17:00–23:00, with grilled seafood cooked on the spot. Tam Tiến fish landing in xã Tam Xuân, 04:30–07:00, basket boats with fish, shrimp, and squid, and food cooked from that catch, no dish named. Hội An market dishes on this page stay Hội An: cao lầu, cơm gà, bánh đập, white rose. No stall price copied.
+
+### S44
+- URL: https://danangfantasticity.com/en/cach-chieu-chuong-niem-dam-me-am-thuc-da-nang-cua-ban
+- Publisher: Danang Fantasticity, 16 Apr 2024
+- Accessed: 23 Oct 2026
+- Supports: The Vietnamese specialty essay. Seafood list: fish, shrimp, crab, swimming crab, squid, snails, cockles, clams; grilled, steamed, stir-fried, hotpot, or salad; same-day landing. Mì Quảng as a Quảng Nam–Da Nang bowl eaten at any hour. Cơm gà called an old Da Nang plate, best known in Tam Kỳ and Hội An, with fragrant rice, soft chicken, chicken offal, shredded green papaya, rau răm, and simmered chili sauce. Bánh tráng cuốn thịt heo: pork, herbs, mắm nêm, rice paper, and mì lá under the paper. Bê thui Cầu Mống described, and the real plate placed in Điện Bàn. Bún mắm thịt heo named as an everyday Da Nang bowl for breakfast or a light meal, with no broth description. Thịt xiên nướng cuốn bánh ướt: hot grilled meat, bánh ướt, Trà Quế herbs, green banana, cucumber, a sauce called special; taste words sweet sauce, fragrant meat, chili, astringent herbs; no street. Bánh bèo cup: flat white rice-flour cake, shrimp pounded with ground pork, fried brown, then scallion fat, fish sauce with chili and crushed roasted peanuts. Chả bò: local method, no grind. Tré: ear, snout, skin, belly, with tương ớt. Bánh tráng đập / bánh tráng chập: break by hand; mì lá clapped to a crisp grilled cracker; spicy and salty; later lines add mắm nêm from anchovy with sugar, pineapple or lime, and red chili. Bánh khô mè: glutinous rice flour, sesame, sugar; Cẩm Lệ name; gift and offering at giỗ and Tết. Nước mắm Nam Ô: food, seasoning, and a gift. Bánh ít lá gai: glutinous rice, ramie leaf, mung bean, sugar; round or cylinder; dark green skin; yellow mung filling. Bánh su sê: tapioca flour, coconut, mung bean, pomelo-flower water; fresh coconut-leaf mold; the page says the shape stands for love and fidelity. Gà đèo Le, Quế Sơn: free-range, boiled with crushed purple shallot, rau răm, sliced lime leaf, served whole in the cánh tiên shape. Hội An plates on the same page, not filed as Da Nang specialties: cao lầu, bánh mì Hội An, white rose, xí mà (chè mè đen; black sesame and sugar; Cụ Thiều’s shoulder pole; sweet, rich, cool), bánh đậu xanh (pork-mung filling or meatless; crisp when dried; hot tea), chè bắp from Cẩm Nam (the page says it did not start in Hội An; rock sugar and coconut milk), tam hữu in Trà Quế (cooked land shrimp, boiled pork, mint, blanched scallion, sweet-sour fish sauce), hến xào (soaked, boiled, shelled, stir-fried with onion, scallion, and chili, crushed peanuts, crisp rice paper). Cited research project: Da Nang City 2011, “Research on Culinary Specialties to Support Tourism Development in Da Nang.” The project text was not opened. The English parallel is https://danangfantasticity.com/en/how-to-indulge-your-passion-for-food dated 29 Aug 2024. It stops at nước mắm Nam Ô and does not carry the later plates. Where the two pages overlap, the Vietnamese page is the one with the method.
+
+### S45
+- URL: https://danangfantasticity.com/dac-san/ca-thieu-tam-da-nang-thuc-dac-san-an-choi-hoa-thanh-nghien-that
+- Publisher: Danang Fantasticity, 2 Oct 2021
+- Accessed: 23 Oct 2026
+- Supports: Cá thiều tẩm as a Da Nang snack of long yellow strips. The same page calls the fish freshwater and a Mekong Delta specialty, and prints two sizes: about two fingers across, and about 4–7 kg. Both stay. Seasoning named: Nam Ô fish sauce, pepper, white sugar. Skin removed, sliced thin, mixed about half an hour, sun-dried from two days to a week, cut into strips about 10–15 cm. Eaten from the packet or grilled. The grilled meat is called chewy and soft, sweet, fragrant, salty-sweet, with pepper. Sold in supermarkets and specialty shops. A 250 g box is 100,000–120,000 đồng. No restaurant door.
+
+### S46
+- URL: https://danangfantasticity.com/natural/banh-kho-me-ba-lieu-me-san-pham-ocop-da-nang
+- Publisher: Danang Fantasticity, OCOP page, 4 Jul 2023
+- Accessed: 23 Oct 2026
+- Supports: Bánh khô mè Bà Liễu mẹ at K200/1 Ông Ích Đường, Cẩm Lệ, also sold at the airport and souvenir shops. Called a traditional Da Nang gift cake. Phone and prize list were not copied. No price and no shop hour.
+
+### S47
+- URL: https://danangfantasticity.com/ocop-da-nang/muc-kho-hang-hue-san-pham-ocop-da-nang
+- Publisher: Danang Fantasticity, OCOP page, 5 Jul 2023
+- Accessed: 23 Oct 2026
+- Supports: Mực khô Hạng Huệ, 145 Kỳ Đồng, Thanh Khê Đông, from Thanh Khê squid-jigging boats. Dried after gutting. White belly, pale pink back, faint dark spots. Grilled and torn, the meat is pale pink, chewy, and does not crumble. This is the producer address, not a restaurant pick. No price.
+
+### S48
+- URL: https://danangfantasticity.com/cho-dem/tong-hop-cac-cho-am-thuc-noi-tieng-tai-da-nang
+- Publisher: Danang Fantasticity, 19 Jun 2019 roundup, re-read 23 Oct 2026
+- Accessed: 23 Oct 2026
+- Supports: Same street clocks as S26. Extra dish names confirmed on the re-read: Con indoor sweets include cóc dầm and me dầm; indoor savory includes bún thịt nướng and bánh căn; outdoor includes gỏi khô bò, hột vịt lộn, and xoa xoa hạt lựu. Phan Tứ names ếch xào sả ớt, cá đuối nướng, and lẩu hải sản, and labels nem chua rán as Hanoi, ram bắp as Quảng Ngãi, and chè as Hue. A stall price band on the indoor court was not copied. S26 remains the first store of this URL.
