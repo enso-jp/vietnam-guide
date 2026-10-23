@@ -19,10 +19,10 @@ Titles are local. They are not another city’s list. The food card is one inter
 - Why it is this place, not a generic label: Đền Tưởng niệm Liệt sĩ Bến Dược is on the Bến Dược ground, started 19 May 1993, stage 1 opened 19 Dec 1995 (S11). The night show’s desk is in the same hamlet (S8).
 - Fits interest key, if any: `warHistory`
 - Icon: view
-- Links to attraction, dish, or place slug: ben-duoc
+- Links to attraction, dish, or place slug: ben-duoc-temple
 - Food guide card: no
 - Photo must show: the temple roof and the yard, not a crawl cropped to a face
-- unpublished: no licensed photo
+- Published 23 Oct 2026 as `ben-duoc-temple`. The hall photo and the three-gate photo are licensed Commons files of this temple.
 - Sources: S8, S11
 
 ### Rice-paper lanes
