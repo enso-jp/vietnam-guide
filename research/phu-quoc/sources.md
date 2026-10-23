@@ -205,3 +205,39 @@ Accessed 22 Oct 2026. A search snippet that was not opened is not a source. The 
 - Publisher: Vietnam National Authority of Tourism (vietnam.travel)
 - Accessed: 23 Oct 2026
 - Supports: Squid as one of the most popular seafood dishes. Night fishing on calm, dark nights. A 1.5-meter bamboo rod is the activity, not a dish. Eat the catch back on shore. A sunset dining cruise is named with no menu. A seafood lunch on a snorkel stop is named with no dish. Almost 400 species of hard coral is that account’s figure and was not used to replace the park counts.
+
+### S35
+- URL: https://vietnam.travel/things-to-do/sunset-in-phu-quoc
+- Publisher: Vietnam National Authority of Tourism (vietnam.travel)
+- Accessed: 23 Oct 2026
+- Supports: Ông Lang just north of Dương Đông, sandy bays split by black volcanic rock, sunset over the open west, a short path to the Nguyễn Trung Trực shrine where locals leave incense. Gành Dầu cape on the northern tip, mountain behind the sand, a view toward Cambodian islands. An Thới archipelago by tour boat. Long Beach as the 20 km west-coast sunset.
+
+### S36
+- URL: https://vietnamtourism.vn/index.php/tourism/items/1377/
+- Publisher: Cục Du lịch Quốc gia Việt Nam
+- Accessed: 23 Oct 2026
+- Supports: Suối Tranh on the Hàm Ninh range, northeast. About 10 km from Dương Đông on the Dương Đông–Hàm Ninh road. Side streams, short falls, swimming, camping, fishing, grilling. Hang Dơi about 200 m up and about 50 m deep. No ticket and no hours on the page.
+
+### S37
+- URL: https://phatgiao.org.vn/thien-vien-truc-lam-ho-quoc-canh-dep-giua-khoi-xa-d38422.html
+- Publisher: phatgiao.org.vn, article by Trương Thanh Liêm, 6 December 2019
+- Accessed: 23 Oct 2026
+- Supports: Thiền viện Trúc Lâm Hộ Quốc in ấp Suối Lớn, xã Dương Tơ. Coastal road with the sea on one side and a limestone hill on the other. Spiritual project over 110 ha. Lý–Trần form. Inaugurated in 2012. Main hall, ancestor house, triple gate, lim-wood columns. No ticket and no hours.
+
+### S38
+- URL: https://sunworld.vn/vi/hon-thom/tin-tuc-du-lich/chua-ho-quoc-thien-vien-truc-lam-ho-quoc-di-san-van-hoa-va-kien-truc-doc-dao-5904
+- Publisher: Sun World Hon Thom news account
+- Accessed: 23 Oct 2026
+- Supports: About 25 km from Dương Đông. ấp Suối Lớn, xã Dương Tơ. Inauguration 14 December 2012. Project 110 ha, temple about 13.2 ha, rest forest. No entry ticket. Parking as a donation. Vegetarian lunch 11:00–17:00. The “largest in the Mekong delta” line is this page’s superlative and was not copied onto the public page.
+
+### S39
+- URL: https://vietnam.travel/things-to-do/beaches-perfect-for-families
+- Publisher: Vietnam National Authority of Tourism (vietnam.travel)
+- Accessed: 23 Oct 2026
+- Supports: Ông Lang as sheltered sandy bays for a family day, with a few boutique resorts. No fee, no hours, no kilometres.
+
+### S40
+- URL: https://sunworld.vn/vi/hon-thom/an-choi/cap-treo-hon-thomhtml and https://sunworld.vn/vi/hon-thom/di-chuyen/thong-bao-bang-gia-tai-sun-world-phu-quoc-tu-24-04-2023html
+- Publisher: Sun World Hon Thom
+- Accessed: 23 Oct 2026
+- Supports: Re-opened S27 and S28. 2026 return fares 850,000 / 700,000 / free under 1 m, and runs 09:30–11:30, 13:30–14:00, 15:30–17:30. About page still gives 7,899.9 m, 15 minutes, about 13 km, 31 km from Dương Đông, 21 km from the airport, 650,000 / 500,000, hours 9:00–11:30 and 13:30–17:00 from 9 December 2023. Cầu Hôn on the west-facing beach at Sunset Town, middle left open by 30 cm. Kiss of the Sea described with no clock and no price. Both sit outside the 2026 cable ticket.

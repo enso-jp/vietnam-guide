@@ -1,0 +1,51 @@
+{
+  "slug": "pepper",
+  "placeSlug": "phu-quoc",
+  "name": "Pepper farms",
+  "nameVi": "Hồ tiêu Phú Quốc",
+  "kicker": "Inland pepper gardens",
+  "summary": "Inland garden: walk the pepper vines in the morning and see the fresh corns at the farm. The peppercorns are aromatic and spicy, with a floral aroma and heat. A morning at the garden pairs with a barrel house. The island produces over 1,000 tons a year. Go in the morning.",
+  "dots": 3,
+  "district": "Inland",
+  "timeNeeded": "A morning",
+  "fee": "Check on arrival",
+  "getThere": "Inland, on the morning you give the barrel house",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Pepper vines trained up poles in a Phú Quốc garden",
+  "body": [
+    "Walk the rows of vines and look at the fresh pepper. The peppercorns are aromatic and spicy, and the farms sit with the forest and the beaches. Chefs prize the black pepper for a floral aroma and heat. A morning at an organic farm pairs with a barrel house. The pepper is pungent and spicy, and the island produces over 1,000 tons a year. Go in the morning.",
+    "The visit is the poles, the vines, and the baskets of green corns at the farm house. Keep a brand off the plan. Pair the garden with the fish-sauce vats, then go back to the west-coast sand for the sunset."
+  ],
+  "figures": [
+    {
+      "id": "phu-quoc-pepper-2",
+      "caption": "Fresh green peppercorns in baskets at a Phú Quốc farm house",
+      "alt": "Baskets of green peppercorns at a farm house on Phu Quoc"
+    }
+  ],
+  "gettingThere": [
+    "The gardens are inland. A morning at a farm pairs with a barrel house. Ask in Dương Đông for a garden that lets you walk the vines, and keep the same morning for the vats."
+  ],
+  "legs": [
+    {
+      "heading": "From Dương Đông",
+      "body": "Ride inland in the morning and pair the garden with a barrel house."
+    }
+  ],
+  "hours": "Check on arrival",
+  "links": [
+    {
+      "label": "Pepper harvest",
+      "url": "https://vietnam.travel/things-to-do/explore-phu-quoc-island-3-days-2-nights",
+      "note": "Over 1,000 tons a year"
+    },
+    {
+      "label": "Forest and farms",
+      "url": "https://vietnam.travel/things-to-do/phu-quoc-nature",
+      "note": "Aromatic, spicy peppercorns"
+    }
+  ],
+  "interests": [
+    "islands"
+  ]
+}
