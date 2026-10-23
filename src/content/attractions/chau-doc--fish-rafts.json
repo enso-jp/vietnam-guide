@@ -4,21 +4,23 @@
   "name": "Fish-raft village",
   "nameVi": "Làng bè sông Châu Đốc",
   "kicker": "Fish-farm rafts at the river junction",
-  "summary": "The fish-raft village is a boat hour among raft houses that are also freshwater farms, at the junction of the Hậu and the Châu Đốc river. Vietnam Tourism calls the community about 50 years old. The color project painted the cages in six blocks. Counts in the sources are 165, more than 160, and 161. This is not Cái Răng. A pier tariff was not opened, so the fare is check on arrival.",
+  "summary": "Fish-farm rafts at the river junction: take a boat among the cages and see the farms on the water. The community is about 50 years old and raises catfish and snapper. A 2024 project painted the rafts in six colors. Printed counts are 165, more than 160, and 161. Ask the fare at the boat before you board.",
   "dots": 4,
-  "timeNeeded": "A boat hour",
+  "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
   "getThere": "By boat from the town bank, or by road to Cồn Tiên bridge.",
-  "verified": "21 Oct 2026",
-  "heroCaption": "A fish-farm raft house on the Bassac, the Hậu, at Châu Đốc",
+  "district": "River junction",
+  "bestMonths": "August to November for high water",
+  "verified": "23 Oct 2026",
+  "heroCaption": "A fish-farm raft house on the Hậu at Châu Đốc",
   "notice": {
-    "title": "This is not the Can Tho market",
-    "body": "Cái Răng is a produce market in Can Tho. These are fish-farm rafts at Châu Đốc. A posted pier fare was not opened. Check on arrival, and do not use a price quoted only in a resident interview."
+    "title": "Ask the fare before you board",
+    "body": "No pier tariff is posted. These are fish farms at the Châu Đốc river junction, beside Cồn Tiên bridge. Cái Răng, in Can Tho, is a produce market on a different river."
   },
   "body": [
-    "Go by boat among raft houses that raise fish. Vietnam Tourism calls it a community about 50 years old, raising catfish and snapper for sale. The province says the early-2024 project “Làng bè Sắc Màu” painted 165 fish-farm rafts in six color blocks. VnExpress says more than 160 cages, and also 161, over more than 1 km, painted red, yellow, orange, green, blue, and purple, with lights after dark. Both counts stay. The photographs are the raft houses and the boats. They are not a night frame of the colored lights.",
-    "VnExpress places the rafts on the Châu Đốc river at then thị trấn Đa Phước, beside the old city, next to Cồn Tiên bridge. The province says you can combine them with Châu Phong and Đa Phước. High water, August to November, is the window the Vietnamese place page names for the floating villages.",
-    "A fixed length beyond a boat hour was not printed. A last-boat clock was not printed. Check both on arrival."
+    "Go by boat among raft houses that raise fish. The community is about 50 years old and sells catfish and snapper. In early 2024 the project Làng bè Sắc Màu painted 165 rafts in six color blocks. Another report counts more than 160 cages, and also 161, over more than 1 km, in red, yellow, orange, green, blue, and purple. Lights show after dark. Both counts stay.",
+    "The rafts sit on the Châu Đốc river at the former town of Đa Phước, beside the old city, next to Cồn Tiên bridge. You can combine them with Châu Phong and Đa Phước. High water from August to November is the window named for the floating villages.",
+    "Ask the price before you board."
   ],
   "figures": [
     {
@@ -33,16 +35,16 @@
   "legs": [
     {
       "heading": "From the Châu Đốc riverbank",
-      "body": "By boat. A posted fare and a minute count were not opened. Check on arrival."
+      "body": "By boat. Ask the price at the landing. Minutes are check on arrival."
     },
     {
       "heading": "From Cồn Tiên bridge",
-      "body": "By road to the bridge VnExpress names beside the rafts. Minutes are check on arrival."
+      "body": "By road to the bridge named beside the rafts. Minutes are check on arrival."
     }
   ],
   "hours": "Check on arrival",
   "closed": "No closing hour was published. Lights after dark are described. A last boat is check on arrival.",
-  "admissionNote": "No pier tariff was opened. Check on arrival. Do not budget a fare that appeared only in an interview.",
+  "admissionNote": "No pier tariff was opened. Check on arrival. Leave out any fare that appeared only in an interview.",
   "links": [
     {
       "label": "Cham villages and the colored rafts",
@@ -53,6 +55,11 @@
       "label": "Chau Doc",
       "url": "https://www.vietnam.travel/places-to-go/southern-vietnam/chau-doc",
       "note": "Vietnam Tourism, the fish-farm village"
+    },
+    {
+      "label": "Làng bè Sắc Màu",
+      "url": "https://vnexpress.net/lang-be-sac-mau-tren-song-chau-doc-4655749.html",
+      "note": "VnExpress, the count of more than 160 and of 161"
     }
   ],
   "lat": 10.716808,

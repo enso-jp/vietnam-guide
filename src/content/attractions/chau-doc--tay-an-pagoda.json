@@ -4,17 +4,18 @@
   "name": "Tay An Pagoda",
   "nameVi": "Chùa Tây An",
   "kicker": "Pagoda on the Sam Mountain walk",
-  "summary": "Chùa Tây An sits in the Núi Sam cluster with the shrine and the tomb. Vietnam Tourism lists it on the same temple walk as the cave pagoda. A room-by-room description was not on the pages opened, so the visit is the facade and the garden of stupas. The gate fee and a fixed length are check on arrival. Do not skip it only because the shrine next door is more famous.",
+  "summary": "Pagoda on the Núi Sam walk: see the painted facade and the stupa garden on the same morning as the shrine. Chùa Tây An stands with Miếu Bà Chúa Xứ, the tomb, and the cave pagoda at the foot of the hill. The gate carries the name, and the hill sits behind it. Give it that morning.",
   "dots": 4,
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
   "getThere": "On the Sam Mountain road, with the shrine and the tomb.",
-  "verified": "21 Oct 2026",
+  "district": "Núi Sam",
+  "verified": "23 Oct 2026",
   "heroCaption": "The facade of Chùa Tây An, with Núi Sam behind the gate",
   "body": [
-    "Look at the pagoda as part of the morning at the foot of Núi Sam. Vietnam Tourism names Chùa Tây An with the shrine and the cave pagoda. TITC names it with the Thoại Ngọc Hầu tomb and Phước Điền. The building is the stop. A guide to the rooms inside was not on those pages.",
-    "The gate in the photograph carries the name Tây An, and the hill is behind it. The second frame is the garden of stupas. Give it the same morning as the shrine. It is not a day by itself.",
-    "Hours and a fee were not printed. Check on arrival. The distance from the river wards is the Sam Mountain distance: about 5 km and about 7 km in the same older article. Minutes are check on arrival."
+    "Look at Chùa Tây An on the morning at the foot of Núi Sam. It stands with the shrine, the tomb, and the cave pagoda. The stop is the painted gate, the hill behind it, and the garden of stupas.",
+    "The gate carries the name Tây An. Give the pagoda the same morning as the shrine. It is one stop in the cluster.",
+    "The distance from the river wards is the Sam Mountain distance: about 5 km and about 7 km in the same older article."
   ],
   "figures": [
     {
@@ -24,17 +25,17 @@
     }
   ],
   "gettingThere": [
-    "Chùa Tây An is in the Núi Sam cluster in phường Vĩnh Tế, on the same road as Miếu Bà Chúa Xứ. No separate minute count was printed."
+    "Chùa Tây An is in the Núi Sam cluster in phường Vĩnh Tế, on the same road as Miếu Bà Chúa Xứ. No separate minute count was printed. Minutes are check on arrival."
   ],
   "legs": [
     {
       "heading": "From Ba Chua Xu Temple",
-      "body": "On foot, as part of the foot-of-the-hill walk. A published walking minute was not found. Check on arrival."
+      "body": "On foot, as part of the foot-of-the-hill walk. A published walking minute was not found. Minutes are check on arrival."
     }
   ],
   "hours": "Check on arrival",
   "closed": "No weekly closing day was published. Check the board on arrival.",
-  "admissionNote": "No gate tariff was on the pages opened. Check on arrival.",
+  "admissionNote": "No gate tariff was published. Check on arrival.",
   "links": [
     {
       "label": "Chau Doc",
@@ -44,7 +45,7 @@
     {
       "label": "Miếu Bà Chúa Xứ Núi Sam",
       "url": "https://nongthon.vietnamtourism.gov.vn/mieu-ba-chua-xu-nui-sam-diem-den-tam-linh-hang-dau-cua-an-giang/",
-      "note": "TITC names Tây An in the cluster"
+      "note": "Names Tây An in the cluster"
     }
   ],
   "lat": 10.685208,

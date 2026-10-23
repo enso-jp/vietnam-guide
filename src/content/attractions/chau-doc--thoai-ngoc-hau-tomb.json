@@ -4,17 +4,22 @@
   "name": "Thoai Ngoc Hau Tomb",
   "nameVi": "Lăng Thoại Ngọc Hầu",
   "kicker": "Tomb at the foot of Núi Sam",
-  "summary": "Lăng Thoại Ngọc Hầu is the tomb at the foot of Núi Sam, visited with the shrine. The 2026 festival program brings his spirit tablet from this ground to Miếu Bà Chúa Xứ and returns it. The culture department stages him and his wife Châu Thị Tế as the people who opened land and dug the Vĩnh Tế canal. An architectural guide was not published. Hours and the fee are check on arrival.",
+  "summary": "Tomb at the foot of Núi Sam: see Thoại Ngọc Hầu's ground on the same morning as the shrine. The 2026 festival carries his spirit tablet from here to Miếu Bà Chúa Xứ and back. He and his wife Châu Thị Tế are remembered for opening land and digging the Vĩnh Tế canal. Look for the old gate.",
   "dots": 3,
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
   "getThere": "Same cluster as Ba Chua Xu Temple, at the mountain.",
-  "verified": "21 Oct 2026",
+  "district": "Núi Sam",
+  "verified": "23 Oct 2026",
   "heroCaption": "The gate of Lăng Thoại Ngọc Hầu, with the mountain slope behind it",
+  "notice": {
+    "title": "The tablet leaves during the festival",
+    "body": "The tomb is at the foot of Núi Sam, with the shrine. In the 2026 festival the spirit tablet goes from this ground to Miếu Bà Chúa Xứ and comes back. On those days the tablet is in the procession."
+  },
   "body": [
-    "See the tomb of the mandarin whose story is tied to the shrine. The An Giang culture department’s 2026 opening staged Thoại Ngọc Hầu and Châu Thị Tế as the people who opened land and dug the Vĩnh Tế canal. During the festival the tablet procession uses this ground. On another morning it is a stop on the walk with the temple.",
-    "The photograph is the old gate, with the slope of Núi Sam behind it. The second frame is the tomb houses inside the complex. An architectural guide was not on the pages opened, so the visit is the gate and the ground, not a room-by-room tour.",
-    "Do not look for the tomb in the town market. TITC places it at the mountain, with the temple. Hours and a fee were not printed. Check on arrival."
+    "See the tomb of the mandarin tied to the shrine. The 2026 opening staged Thoại Ngọc Hầu and Châu Thị Tế as the people who opened land and dug the Vĩnh Tế canal. During the festival the tablet procession uses this ground. On another morning it is a stop on the walk with the temple.",
+    "The old gate has the slope of Núi Sam behind it. Inside, the tomb houses fill the courtyard. The visit is the gate and the ground.",
+    "The tomb is at the mountain, with the temple, in phường Vĩnh Tế."
   ],
   "figures": [
     {
@@ -29,12 +34,12 @@
   "legs": [
     {
       "heading": "From Ba Chua Xu Temple",
-      "body": "On foot, in the same cluster. A published walking minute was not found. Check on arrival."
+      "body": "On foot, in the same cluster. A published walking minute was not found. Minutes are check on arrival."
     }
   ],
   "hours": "Check on arrival",
   "closed": "No weekly closing day was published. During the festival the tablet procession uses this ground.",
-  "admissionNote": "No gate tariff was on the pages opened. Check on arrival.",
+  "admissionNote": "No gate tariff was published. Check on arrival.",
   "links": [
     {
       "label": "2026 opening",
@@ -44,7 +49,7 @@
     {
       "label": "Miếu Bà Chúa Xứ Núi Sam",
       "url": "https://nongthon.vietnamtourism.gov.vn/mieu-ba-chua-xu-nui-sam-diem-den-tam-linh-hang-dau-cua-an-giang/",
-      "note": "TITC places the tomb with the temple"
+      "note": "Places the tomb with the temple"
     }
   ],
   "interests": ["pagodas"]
