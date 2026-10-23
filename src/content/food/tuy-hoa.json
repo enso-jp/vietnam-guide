@@ -2,12 +2,13 @@
   "slug": "tuy-hoa",
   "name": "Tuy Hoa food guide",
   "placeSlug": "tuy-hoa",
-  "summary": "Bánh canh hẹ is the bowl at chợ Tuy Hòa: soft strands, sea-fish cake, and a lot of chives. The tuna eye and sò huyết from Đầm Ô Loan are the other plates to know. A stall price is Check on arrival.",
+  "summary": "Tuy Hòa eats from the market, the river bank, and the lagoon: bánh canh hẹ with sea-fish cake and chives, the ocean tuna eye stewed with thuốc bắc, and blood cockles from Đầm Ô Loan grilled until the juices run.",
+  "heroSlug": "tuy-hoa--so-huyet-o-loan",
   "body": [
-    "Start at the market. Du lịch Phú Yên’s 6 October 2024 cẩm nang sells bánh canh hẹ all day, at the Ngô Quyền and Trần Hưng Đạo corner and on the Trần Hưng Đạo side of chợ Tuy Hòa. The food roundup lets you choose bột lọc or bột gạo. The same office’s bánh canh article says the strand is bột gạo. Both stay. Market hours are Check on arrival.",
-    "Cơm gà Phú Yên is the local chicken rice. The 6 October 2024 cẩm nang says it is less famous than the chicken rice of Hội An or Tam Kỳ. The fish is cá ngừ đại dương, also called cá bò gù. The lagoon plates are 25 km north at Đầm Ô Loan. Sông Cầu is the grill, the jumping snail, and rượu Quán Đế. A stall price on every plate is Check on arrival."
+    "Start at chợ Tuy Hòa with a bowl of bánh canh hẹ, sold all day at the Ngô Quyền and Trần Hưng Đạo corner. Then walk to Lê Duẩn and the Bạch Đằng riverbank for ocean tuna, cold slices rolled in mustard greens or the eye in its clay pot.",
+    "For the lagoon, drive 25 km north to Đầm Ô Loan for cockles and emperor crab, and to Sông Cầu for grilled chicken, jumping snails, and rượu Quán Đế. Phú Yên chicken rice is quieter than the Hội An or Tam Kỳ plates: lean yellow chicken over rice cooked in the broth."
   ],
-  "specialtiesLead": "Start with bánh canh hẹ, the tuna eye, and sò huyết from Đầm Ô Loan.",
+  "specialtiesLead": "Start with bánh canh hẹ, the tuna eye, and the Ô Loan cockles.",
   "dishSlugs": [],
   "sections": [
     {
@@ -15,8 +16,7 @@
       "heading": "Tuy Hoa specialties",
       "nav": "Specialties",
       "paragraphs": [
-        "Twenty-three plates. Twenty-two are from Du lịch Phú Yên. Xoài Đá Trắng is from Cục Du lịch Quốc gia Việt Nam’s article on Chùa Từ Quang. Bánh canh hẹ, the tuna, and the lagoon cockle come first. A stall price on every line is Check on arrival.",
-        "Where two accounts disagree, both stay. The food roundup says the bánh canh strand can be bột lọc or bột gạo. The bánh canh article says bột gạo. Bún bắp is 6–7 days on the 10 June 2021 An Dân article and nearly 10 days, in 6–7 steps, on the tuna-offal article. Cua Huỳnh Đế has no recipe. Gỏi bao tử is named and has no method. A method for those two is Check on arrival."
+        "Twenty-three plates, from the market noodle to the lagoon crab and the Sông Cầu grill. Bánh canh hẹ, the tuna, and the Ô Loan cockle come first."
       ],
       "dishSlugs": [
         "tuy-hoa--banh-canh-he",
@@ -50,32 +50,32 @@
       "nav": "Streets",
       "role": "casual",
       "paragraphs": [
-        "Four places to eat. Chợ Tuy Hòa is the bowl. Lê Duẩn and bờ kè Bạch Đằng are the tuna. Độc Lập is seafood after the swim. Cầu An Hải is the lagoon. A stall price and a market hour are Check on arrival."
+        "Four places to eat: the market for the noodle, Lê Duẩn and the Bạch Đằng bank for tuna, Độc Lập for seafood after a swim, and cầu An Hải on the lagoon."
       ],
       "spots": [
         {
           "name": "Tuy Hoa market",
           "nameVi": "Chợ Tuy Hòa",
           "address": "Trần Hưng Đạo side of the market",
-          "note": "Du lịch Phú Yên’s 6 October 2024 cẩm nang puts bánh canh hẹ at the Ngô Quyền and Trần Hưng Đạo corner and says the bowl is sold all day. The food roundup puts bowls on the Trần Hưng Đạo side of chợ Tuy Hòa. Market hours are Check on arrival. A stall price is Check on arrival."
+          "note": "Bánh canh hẹ is sold all day at the Ngô Quyền and Trần Hưng Đạo corner and along the Trần Hưng Đạo side of the market."
         },
         {
           "name": "Le Duan and the Bach Dang bank",
           "nameVi": "Lê Duẩn và bờ kè Bạch Đằng",
           "address": "Lê Duẩn and bờ kè Bạch Đằng",
-          "note": "The 6 October 2024 cẩm nang names those two lines for the tuna eye. The night article adds the Điện Biên Phủ and Lê Duẩn corner. Hours are Check on arrival. A price is Check on arrival."
+          "note": "The street and the riverbank are where to eat the tuna eye, along with the corner of Điện Biên Phủ and Lê Duẩn."
         },
         {
           "name": "Doc Lap seafood",
           "nameVi": "Hải sản đường Độc Lập",
           "address": "Độc Lập",
-          "note": "Du lịch Phú Yên’s beach article says people eat the fresh catch on the shore along Độc Lập. The night article is the same road after dark. A closing hour and a stall price are Check on arrival."
+          "note": "The beach road where people eat the fresh catch on the shore after a swim, and the same road after dark."
         },
         {
           "name": "An Hai kitchens",
           "nameVi": "Khu ẩm thực cầu An Hải",
           "address": "Cầu An Hải, north end of Đầm Ô Loan",
-          "note": "Du lịch Phú Yên’s lagoon article describes floating kitchens at cầu An Hải. The festival article puts the lagoon 25 km north. A night boat is described and not timed. Hours are Check on arrival. A price is Check on arrival."
+          "note": "Floating kitchens at the north end of Đầm Ô Loan, 25 km from the city, with a night boat on the lagoon."
         }
       ]
     },
@@ -85,11 +85,11 @@
       "nav": "Breakfast",
       "role": "breakfast",
       "paragraphs": [
-        "Bánh canh hẹ is sold all day on the 6 October 2024 cẩm nang, so the morning bowl is the same bowl as midday. The food roundup also eats cơm gà at breakfast, lunch, and dinner. Bánh tráng cuốn thịt heo luộc is the 29 December 2020 note’s morning plate, and the plate for a party. A market clock and a price are Check on arrival."
+        "Bánh canh hẹ is sold all day, so the morning bowl is the same as at midday. Cơm gà works at breakfast too, and bánh tráng cuốn thịt heo luộc is the morning plate when guests are at the table."
       ]
     }
   ],
   "verified": "23 Oct 2026",
   "seoTitle": "Tuy Hoa food guide — banh canh he, tuna eye, O Loan cockles",
-  "seoDescription": "Banh canh he at Cho Tuy Hoa, the tuna eye, and so huyet from Dam O Loan. Twenty-three sourced plates. A stall price is Check on arrival."
+  "seoDescription": "Banh canh he at Cho Tuy Hoa, the ocean tuna eye, and cockles from Dam O Loan: 23 Tuy Hoa plates and where to eat them."
 }
