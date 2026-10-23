@@ -3,12 +3,12 @@
   "name": "Ben Tre to Can Tho",
   "from": "Ben Tre",
   "to": "Can Tho",
-  "summary": "Go by road. It is about 110 km and about three hours by minibus. Leave in the morning: the direct minibuses run only a few times a day and stop in the early afternoon. There is no train.",
+  "summary": "Go by road. Direct minibuses run between the two towns, with no change in Ho Chi Minh City. Travel time is Check on arrival, so leave in the morning. There is no train.",
   "modes": [
     {
       "mode": "Minibus",
-      "duration": "About 3 hours",
-      "note": "About 110 km. Non-air-conditioned 30-seat minibuses leave a few times a day, the last around 13:30. Departure point and fares are Check on arrival."
+      "duration": "Check on arrival",
+      "note": "Direct minibuses run a few times a day. Departure point, last bus, and fares are Check on arrival."
     },
     {
       "mode": "Car",
@@ -22,11 +22,11 @@
     }
   ],
   "seoTitle": "Ben Tre to Can Tho — minibus or car",
-  "seoDescription": "About 110 km and about three hours by minibus from Ben Tre to Can Tho. Leave by early afternoon. No train.",
+  "seoDescription": "Direct minibuses run from Ben Tre to Can Tho; travel time is Check on arrival. No train.",
   "faqs": [
     {
       "q": "Do you have to go back through Ho Chi Minh City?",
-      "a": "No. Minibuses run directly between Ben Tre and Can Tho, a few times a day until early afternoon."
+      "a": "No. Minibuses run directly between Ben Tre and Can Tho a few times a day. Ask for the last departure the day before."
     }
   ]
 }
