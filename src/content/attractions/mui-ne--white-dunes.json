@@ -2,12 +2,44 @@
   "slug": "white-dunes",
   "placeSlug": "mui-ne",
   "name": "White dunes",
-  "summary": "A larger dune field farther east. Combine with a lake if the tour is honest about the driving time.",
+  "nameVi": "Bàu Trắng",
+  "kicker": "Pale slopes at sunrise",
+  "summary": "Be on Bàu Trắng from 5:00 to 7:00, a 25 km drive or a short ride from the strip. The sand is scorching at midday. Set an alarm for 4:30 if an ATV at sunrise is the plan. The fee is Check on arrival.",
   "dots": 3,
-  "timeNeeded": "Half a day",
-  "fee": "Entry and transport",
-  "getThere": "Tour or taxi",
-  "interests": [
-    "beaches"
-  ]
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "A 25 km drive, or a short drive from the main beach strip.",
+  "district": "Hoa Thang",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Pale dune crests, with people small on the sand",
+  "gettingThere": [
+    "Bàu Trắng is in Hoa Thang, Bac Binh, inside the national tourism zone. Decision 1772 calls it the symbol of Mui Ne. Bàu Sen is named with it for protection and is not given a separate visit. The adventure page prints steep 30-metre dunes and a lotus lake. No other source gives a height.",
+    "Distance disagrees and both stay. Vietnam Tourism’s must-do page prints a 25 km drive. The adventure page prints a short drive from the main beach strip. Minutes from a resort gate are Check on arrival. This is the early ride. The red slope is the sunset."
+  ],
+  "legs": [
+    {
+      "heading": "From the Ham Tien strip",
+      "body": "The adventure page prints a short drive from the main beach strip. The must-do page prints a 25 km drive. Both stay. Minutes are Check on arrival. Vietnam Tourism names a motorbike for the dunes."
+    },
+    {
+      "heading": "Sunrise ATV",
+      "body": "The adventure page says set an alarm for 4:30 if the plan is an ATV at sunrise, and be on the sand from 5:00 to 7:00. An ATV price is Check on arrival."
+    }
+  ],
+  "hours": "5:00–7:00",
+  "closed": "Check on arrival",
+  "admissionNote": "Be there from 5:00 to 7:00. That is the visit window on the adventure page, not a printed gate. A gate hour and a ticket are Check on arrival. No tariff is on the decision or the tourism pages. Midday sand is scorching.",
+  "links": [
+    {
+      "label": "Vietnam Tourism, Mui Ne must-do list",
+      "url": "https://vietnam.travel/things-to-do/wind-sand-and-sea-mui-nes-must-do-list",
+      "note": "A 25 km drive, sunrise on the white dunes"
+    },
+    {
+      "label": "Vietnam Tourism, adventure page",
+      "url": "https://vietnam.travel/things-to-do/mui-ne-southeast-asia’s-ultimate-adventure-escape",
+      "note": "5:00–7:00, a 4:30 alarm for an ATV, steep 30-metre dunes"
+    }
+  ],
+  "interests": ["photography", "beaches"]
 }
