@@ -14,5 +14,9 @@ Checked: 22 Oct 2026. Public fields that have no source stay “Check on arrival
 - Minutes to Kim Liên, the Nguyễn Du memorial, and Pù Mát.
 - Northbound Vinh-to-Huế cells.
 - A second licensed frame for Cửa Lò, the Xô viết museum, and Chợ Vinh, so those pages have no body.
-- A licensed plate photograph. There is no food guide and no dish page.
+- A licensed plate photograph. The food guide names the dishes and does not use another picture.
+- The eighth specialty on the city portal’s eight-dish article. Items 1–7 loaded. Item 8 was cut off.
+- What bánh gai, dê, and cá thu Cửa Lò are. They are named and not described.
+- Whether the 27 April 2023 Đào Tấn clocks still hold, and which ward the street sits in after 1 July 2025.
+- A current stall price. 2016 figures stay dated.
 - A city coordinate printed by a dossier source. Lat and lng are unset.

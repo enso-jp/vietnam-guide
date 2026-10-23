@@ -13,7 +13,7 @@
   "fee": "Check on arrival",
   "getThere": "Sân bay Vinh is about 15 km out. Cửa Lò is 16, 17, 18, or about 20 km. Road minutes are check on arrival.",
   "bestMonths": "Check on arrival",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "interests": {
     "beaches": 5,
     "warHistory": 4,
@@ -23,9 +23,17 @@
     "pagodas": 3
   },
   "cover": "coast",
-  "nearby": ["hue", "dong-hoi", "phong-nha", "bach-ma"],
+  "nearby": [
+    "hue",
+    "dong-hoi",
+    "phong-nha",
+    "bach-ma"
+  ],
+  "foodSlug": "vinh",
   "routeSlugs": [],
-  "itinerarySlugs": ["vinh-day"],
+  "itinerarySlugs": [
+    "vinh-day"
+  ],
   "seoTitle": "Vinh travel guide — sand at Cửa Lò, then the square",
   "seoDescription": "Cửa Lò is printed at 16 km, 17 km, 18 km, and about 20 km from Vinh. Stay for the sand and the square. Gate hours and a 2026 night list are check on arrival.",
   "intro": [
@@ -55,11 +63,49 @@
   ],
   "eat": [
     "Cháo lươn is the thin porridge the city page describes: the rice cooked as whole grains, a little sticky rice so it stays silky, the eel seasoned, stir-fried, and folded in rather than boiled to pieces. Pepper, chili, and herbs go on at the table, with bánh mì or bánh mướt. The same page sets it beside thicker bowls it names as cháo vịt Vân Đình and cháo dê Ninh Bình, and says the bowl shows itself in cool weather. A 24-hour city page treats it as the bowl that means you have arrived, any meal. Súp lươn is the other eel bowl. A 2025 page says the eel is small field eel, soaked in rice water, blanched, pulled off the bone, and stir-fried with shallot, turmeric, and chili, and that the bones are crushed for the broth. It starts the day with that bowl. Hồ Sỹ Dương is the night stretch a Nghệ An news page names for xôi, cháo gà, cháo lươn, and miến ngan. A closing hour was not printed. No stall price is printed.",
-    "Breakfast is bánh mướt with giò lụa or chả, or xôi, or a hot bowl of cháo canh if you do not want a dry one. The city page describes bánh mướt Diễn Châu as finger-length rolls, soft and translucent, rice flour only, fried shallot inside, eaten with nước mắm, lime, and fresh chili, or beside grilled meat at lunch. Diễn Châu is another commune. The sheet is eaten here. Mực nhảy and mực câu are the beach squid the national beach page names. Ask for charcoal, and for mực một nắng when you want the dried-one-day squid. A 2025 page also names it steamed. Cam Vinh is the fruit the national page names beside the eel. A harvest month was not printed. Cà phê bọt has been poured in Chợ Vinh for more than 30 years, black or with milk, the foam drunk first or stirred in. Mía hấp gừng is the cool or wet weather sweet. Market hours, a beach-market street, and a cafe street apart from Nguyễn Văn Cừ were not printed. The Cao Thắng night market in front of Chợ Vinh stopped after a few months in 2019. Do not go there for a night market."
+    "Breakfast is bánh mướt with giò lụa or chả, or xôi, or a hot bowl of cháo canh if you do not want a dry one. The city page describes bánh mướt Diễn Châu as finger-length rolls, soft and translucent, rice flour only, fried shallot inside, eaten with nước mắm, lime, and fresh chili, or beside grilled meat at lunch. Diễn Châu is another commune. The sheet is eaten here. Mực nhảy and mực câu are the beach squid the national beach page names. Ask for charcoal, and for mực một nắng when you want the dried-one-day squid. A 2025 page also names it steamed. Cam Vinh is the fruit the national page names beside the eel. A harvest month was not printed. Cà phê bọt has been poured in Chợ Vinh for more than 30 years, black or with milk, the foam drunk first or stirred in. Mía hấp gừng is the cool or wet weather sweet. Market hours, a beach-market street, and a cafe street apart from Nguyễn Văn Cừ were not printed. Tuổi Trẻ, 5 April 2022, says the 2019 Cao Thắng night market in front of Chợ Vinh stopped after a few months. Báo Nghệ An, 27 April 2023, still names phố đêm Cao Thắng as a night-economy project. Both stay. Do not treat the 2019 market as open.",
+    "The city introduction also sets canh hến and hến xúc bánh tráng on a summer lunch, chả rươi and mắm rươi in rươi season, nộm at the markets, nước chè xanh, and kẹo cu đơ. The same introduction traces the candy to a maker from Hương Sơn. Đào Tấn is the citadel night street Báo Nghệ An described on 27 April 2023, from cửa Hữu to cửa Tả, with a second line of about 150 m. Mobile kiosks on that account run 18:00–06:00. Fixed kitchens were allowed 24 hours. A 2026 night list was not opened. Tương Nam Đàn, nhút Thanh Chương, and bánh đa Đô Lương are not stalls in the center. A price that was not printed is Check on arrival."
   ],
-  "dishSlugs": [],
+  "dishSlugs": [
+    "vinh--chao-luon",
+    "vinh--sup-luon",
+    "vinh--banh-muot",
+    "vinh--chao-canh",
+    "vinh--xoi",
+    "vinh--banh-mi-cha-nuong",
+    "vinh--bun-cha-nuong",
+    "vinh--muc-nuong",
+    "vinh--cam-vinh",
+    "vinh--mia-hap-gung",
+    "vinh--ca-phe-bot",
+    "vinh--canh-hen",
+    "vinh--hen-xuc-banh-trang",
+    "vinh--cha-ruoi",
+    "vinh--mam-ruoi",
+    "vinh--nom-cho-vinh",
+    "vinh--nuoc-che-xanh",
+    "vinh--keo-cu-do",
+    "vinh--banh-ngao",
+    "vinh--banh-beo",
+    "vinh--oc",
+    "vinh--ngo-nuong",
+    "vinh--khoai-nuong",
+    "vinh--chao-bo-cau",
+    "vinh--bo-cau-hap-ngai-cuu",
+    "vinh--chao-ga",
+    "vinh--xao-ga",
+    "vinh--mien-ngan",
+    "vinh--nem-chua",
+    "vinh--banh-duc-hen",
+    "vinh--gio-me",
+    "vinh--mam-ruoc-cua-lo",
+    "vinh--nuoc-mam-nhi",
+    "vinh--nhut-thanh-chuong",
+    "vinh--tuong-nam-dan",
+    "vinh--banh-da-do-luong"
+  ],
   "interestsBody": [
-    "The bowl is cháo lươn or súp lươn, and the morning sheet is bánh mướt. Hồ Sỹ Dương is the night stretch the news page names. Nguyễn Văn Cừ is the cafe and food sidewalk on the walking loop. Stall prices were not printed.",
+    "The bowl is cháo lươn or súp lươn, and the morning sheet is bánh mướt. Hồ Sỹ Dương is the night stretch Báo Nghệ An names for xôi, cháo gà, cháo lươn, and miến ngan. Đào Tấn is the citadel night street, from cửa Hữu to cửa Tả on the 27 April 2023 account. Nguyễn Văn Cừ is the cafe and food sidewalk on the walking loop. A stall price was not printed.",
     "Cửa Lò is the beach of this city, along Bình Minh. The four distances stay: 16 km, 17 km, 18 km, and about 20 km. The evening on the sand is a separate night from the walking loop. No bar street was named.",
     "The square, the citadel gate, and the Xô viết museum are the city walk. Núi Quyết is the temple and the view over sông Lam. Đền Hồng Sơn, chùa Diệc, and chùa Cần Linh are named in town. The walking loop is Friday and Saturday on the 2022 plan, with Sunday only on the English report. Confirm the night."
   ],
@@ -134,7 +180,7 @@
       "summary": "Chợ Vinh for the hall and the foam coffee. Chợ Ga and Chợ Quán Lau are named, not pictured.",
       "body": [
         "The city portal lists Chợ Vinh, Chợ Ga Vinh, and Chợ Quán Lau as the large markets. The photograph here is the street front of Chợ Vinh, not the aisle. Cà phê bọt is poured in the hall, black or with milk. Hours were not printed.",
-        "The 2019 night market on Cao Thắng, in front of Chợ Vinh, stopped after a few months. Do not go there for a night market. The undated city page also names large shops: Metro, Big C, Intimex, Maximax, Vạn Xuân, CK Palaza. The spelling is the page’s. A 2026 shop-front check was not done."
+        "The 2019 night market on Cao Thắng, in front of Chợ Vinh, stopped after a few months, on Tuổi Trẻ, 5 April 2022. Báo Nghệ An, 27 April 2023, still names phố đêm Cao Thắng as a night-economy project beside the walking street and the citadel food street. Both stay. Do not treat the 2019 market as open. The undated city introduction also names large shops: Metro, Big C, Intimex, Maximax, Vạn Xuân, CK Palaza. The spelling is the introduction’s. A 2026 shop-front check was not done."
       ],
       "cards": [
         {

@@ -132,17 +132,17 @@ No stall price is copied. Shop names that only located a street are under Notes,
 ### Citadel night food
 - Vietnamese name: Phố ẩm thực đêm Thành cổ
 - Kind: food-street
-- What the visitor does: The same news page that names Hồ Sỹ Dương also names a night-food stretch at Thành cổ (S20). It does not print the lane. Street: Check on arrival — UNSOURCED.
-- When to go: Night (S20). Hours: Check on arrival — UNSOURCED.
+- What the visitor does: The same news page that names Hồ Sỹ Dương also names a night-food stretch at Thành cổ (S20). Báo Nghệ An, 27 April 2023, prints the lane: đường Đào Tấn from cửa Hữu to cửa Tả, plus a second line of about 150 m east of the provincial radio and television center, meeting Đào Tấn, then in phường Cửa Nam (S25). The 28 April 2023 follow-up names súp lươn, xáo gà, miến ngan, cháo canh, and bánh bèo in the 12 fixed kitchens, and ngô, khoai, mực nướng, and nem chua in the 16 mobile kiosks (S26).
+- When to go: Night (S20). Mobile kiosks 18:00–06:00 every day, then the pavement is cleared. Fixed kitchens were allowed 24 hours (S25). A 2026 night list was not opened.
 - Area: By the citadel.
 - Suggested slug: citadel-night-food
 - Photo must show: Night tables with the citadel gate or the moat in the frame. Unpublished: no licensed photo.
-- Sources: S20
+- Sources: S20, S25, S26
 
 ### Vinh Market hall
 - Vietnamese name: Chợ Vinh
 - Kind: food-street
-- What the visitor does: Buys the morning and drinks the foam coffee in the hall (S1, S12). The city portal also names Chợ Ga Vinh and Chợ Quán Lau (S2). They are named markets, not a stall list. The Cao Thắng night market in front of chợ Vinh stopped after a few months in 2019 (S8).
+- What the visitor does: Buys the morning and drinks the foam coffee in the hall (S1, S12). The city portal also names Chợ Ga Vinh and Chợ Quán Lau (S2). They are named markets, not a stall list. The Cao Thắng night market in front of chợ Vinh stopped after a few months in 2019 (S8). Báo Nghệ An, 27 April 2023, still names phố đêm Cao Thắng as a night-economy project beside the walking street and the citadel food street (S25). Both stay. Do not treat the 2019 market as open.
 - When to go: Morning. Hours: Check on arrival — UNSOURCED.
 - Area: Center. A door number was not loaded.
 - Suggested slug: cho-vinh-market
@@ -168,3 +168,13 @@ Under the center and Nguyễn Văn Cừ, from the 3 May 2025 news page (S12): C�
 Hotel brands on that page are not stays to list. do not publish as a pick.
 
 The provincial tour company at 39 Quang Trung is a source address, not a restaurant (S21). do not publish as a pick.
+
+## Added 23 Oct 2026
+
+Checked again 23 Oct 2026. Direct fetches of the city-portal food URLs returned 504. S2’s đặc sản section, S10’s items 1–7, and the bookends of S11 were read from the pages that opened. S11’s middle is the same “24 giờ cùng với ẩm thực thành Vinh” text, byline Phước Anh - Hồng Toại. Item 8 of S10 was cut off and is not a dish here.
+
+New sourced dishes, each published: canh hến, hến xúc bánh tráng, chả rươi, mắm rươi (canh rươi named, no method, folded into chả rươi), nộm chợ Vinh, nước chè xanh, kẹo cu đơ (Hương Sơn origin kept), bánh mì chả nướng, bún chả nướng with chẻo lạc, bánh ngào, bánh bèo, ốc xào or ốc luộc, ngô nướng, khoai nướng, cháo bồ câu, bồ câu hấp ngải cứu, xáo gà (Đào Tấn name; Thanh Chương method kept separate), nem chua, bánh đúc hến, giò me, mắm ruốc Cửa Lò, nước mắm nhĩ. Cháo gà and miến ngan were already named on Hồ Sỹ Dương.
+
+Named and left off the public list because the source did not say what they are: bánh gai (S19, S23), dê (S19), cá thu Cửa Lò (S23).
+
+Prices printed in 2016 stay dated. A current price is Check on arrival. No shop is a pick.
