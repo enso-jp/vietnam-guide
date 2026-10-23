@@ -286,7 +286,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "dak-nong",
+    "stage": "destinationCopy",
+    "item": null,
+    "at": "2026-10-23T06:08:22.474Z",
+    "by": "dak-nong-copy",
+    "branch": "cursor/dak-nong-destination-copy-3f60"
+  },
   "log": [
     {
       "at": "2026-10-21T11:19:48.809Z",
