@@ -498,3 +498,16 @@ No bar street was named on the provincial night-market feature, the Vietnam Tour
 - Photo must show: A morning hill with mist and a person walking the rows. Not a cafe interior.
 - Unpublished: no licensed photo
 - Sources: S1, S5, S7, S8, S13
+
+## Photo pass 23 Oct 2026
+
+Commons category Moc Chau, title search, and a geosearch around the farm town. No public JSON was added for a sight that failed the photo test.
+
+- Dairy farm: no herd, pasture, and plateau in one licensed frame. File:Di tích Bác Hồ về thăm Nông trường Mộc Châu.jpg is a text board. Gate fees on secondary pages still disagree (10,000 VND and 20,000 VND). Fee stays Check on arrival.
+- Ban Vat: File:Nha san Moc Chau.jpg is an unnamed stilt village. The description does not say Bản Vặt. Not used.
+- Vat Hong: no file.
+- Ban Ang pine: no pine, lake, or stilt house identified as Bản Áng.
+- Pha Luong: File:Pha Luong.jpg is mostly cloud. The rock is a speck at the corner. One file only.
+- Na Ka: File:Thung lũng mận Nà Ka.png is filed as a sign. The center is lettering. File:Qua-man-son-la.jpg is a box of fruit, not the valley.
+- Heart-hill aerial File:Đồi Chè Trái Tim - Mộc Châu.png carries a check-in logo. It stays off the tea page. The tea page is not split into Happy Land or a viewpoint.
+- Bach Long: File:Bach Long 2022.jpg is the opening ceremony. File:SKGGDOKGQL0800101.jpg is another bridge. Still one frame of the span, so the public card has no body.

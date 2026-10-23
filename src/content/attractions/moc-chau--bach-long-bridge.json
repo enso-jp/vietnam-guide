@@ -3,15 +3,42 @@
   "placeSlug": "moc-chau",
   "name": "Bach Long bridge",
   "nameVi": "Cầu kính Bạch Long",
-  "kicker": "A glass span in the hills, not a sea island",
-  "summary": "Cross the glass span for the bridge and the two slopes, not for a sea island. Vietnam Tourism calls the park Moc Chau Island and calls the bridge the world’s longest glass bridge, and it prints no length. That line is not a measured fact. The fee, the hours, and the kilometers from the farm town are check on arrival.",
+  "kicker": "Glass span between two wooded slopes",
+  "summary": "Cross the glass bridge between the two wooded slopes. The park on the far side goes by the name Moc Chau Island, with a cave called Chim Than, a lake, and amusement structures. A world’s-longest claim comes with no length, so treat it as unmeasured. The fee, the hours, and the distance from the farm town are check on arrival.",
   "dots": 3,
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
-  "getThere": "Check on arrival. No kilometer was published.",
-  "verified": "22 Oct 2026",
+  "getThere": "Check on arrival. No kilometer was given.",
+  "verified": "23 Oct 2026",
   "heroCaption": "The glass span and the hill behind it",
+  "gettingThere": [
+    "The park is reached across the bridge. No kilometer from the farm town is given. The distance is check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the farm town",
+      "body": "By road. No kilometer and no minute count are given. Check both on arrival."
+    }
+  ],
   "hours": "Check on arrival",
-  "closed": "No weekly closing day is published. Check on arrival.",
+  "closed": "No weekly closing day is given. Check on arrival.",
+  "admissionNote": "No tariff is given. Child and senior prices were not given. The fee is check on arrival.",
+  "links": [
+    {
+      "label": "Moc Chau nature guide",
+      "url": "https://vietnam.travel/things-to-do/moc-chau-your-one-stop-nature-escape",
+      "note": "The park, the bridge, and a length that is not measured"
+    },
+    {
+      "label": "2026 culture week",
+      "url": "https://www.vietnamplus.vn/moc-chau-san-sang-cho-tuan-van-hoa-du-lich-nam-2026-post1131600.vnp",
+      "note": "The bridge is on the week’s site list"
+    },
+    {
+      "label": "January 2026 flower program",
+      "url": "https://baovanhoa.vn/du-lich/moc-chau-hen-uoc-mua-hoa-195944.html",
+      "note": "Adventure sports and a market-style space at the site"
+    }
+  ],
   "interests": ["photography", "mountains"]
 }

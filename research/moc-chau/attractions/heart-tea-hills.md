@@ -3,7 +3,7 @@
 Place: `moc-chau`
 Slug: `heart-tea-hills`
 Status: stored
-Checked: 22 Oct 2026
+Checked: 23 Oct 2026
 
 Facts below are the stored city dossier (S1, S5, S19). No 2026 tariff was found.
 
@@ -51,7 +51,7 @@ Facts below are the stored city dossier (S1, S5, S19). No 2026 tariff was found.
 
 - Hero: contour rows, path, and ridge in late light. Linh Pham, CC0, File:Mộc Châu District, Vietnam (Unsplash).jpg. Not the heart from above.
 - Second frame: morning rows, peak, and path. ToanNguyen, CC0, File:Moc-chau-tea-doi-2094890_960_720.jpg. A different crop of this file is the place hero.
-- Reject: Đồi Chè Trái Tim PNG, Motbit check-in logo. Do not use it for the heart aerial.
+- Reject: Đồi Chè Trái Tim PNG, Motbit check-in logo. Rechecked 23 Oct 2026. The watermark is still in the corner. File:Chemocchau.jpg and File:Foggy mountain (Unsplash).jpg are more tea rows, not a separate sight. Do not split Happy Land or a viewpoint off this page.
 
 ## Links
 
