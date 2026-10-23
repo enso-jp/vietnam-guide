@@ -158,3 +158,7 @@ Districts that deserve their own page:
 - Photo must show: People at a low table by the river in the morning, or the swim with sand and casuarina, subject through the center. A hotel breakfast room fails.
 - Unpublished: no licensed photo
 - Sources: S3, S11, S13, S15, S21
+
+## 23 Oct 2026 photo pass
+
+Commons was searched for a frame of Mỹ Khê in this city and for Thành Châu Sa. None was a CC or public-domain photograph of that subject. Category My Khe Beach is the Đà Nẵng shore. Biển Khe Hai, Biển Bình Châu, the Sa Huỳnh mouth, and Lý Sơn are other shores. The two files in Category Citadel of Quang Ngai are maps of the city citadel. Wikidata Q10825605 has no image. Detail is in `attractions/my-khe.md` and `attractions/chau-sa.md`. Both stay unpublished. Sa Kỳ, the night street, and the ordinary day stay unpublished for the reasons in those files. S3 was reopened. The live library URL and the live Châu Sa bureau URL failed; the library was read from the 14 Mar 2026 archive (S29). New address lines: S30 says xã Tịnh Khê, and S31 says xã Sơn Tịnh for the wall and xã Tịnh Khê for the beach. The beach length on the library page is about 5 km, beside the 7 km on S3. Both stay. No fee or hour was printed. No public JSON was added.

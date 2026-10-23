@@ -172,3 +172,21 @@ The government “toàn văn” page for Nghị quyết 202/2025/QH15 loaded the
 - Publisher: Trang thông tin điện tử phường Trương Quang Trọng, printing the provincial introduction. Chịu trách nhiệm: Tỉnh Quảng Ngãi
 - Accessed: 23 Oct 2026
 - Supports: Named foods with no plate except where another source describes one: cá bống, cá thài bai, don, đường phèn, đường phổi, kẹo gương, mạch nha, ốc đá, cá niêng, rượu đót, rượu cần, hải sâm, quế Trà Bồng, cau Sơn Hà and Sơn Tây, chè Minh Long, dứa Ba Tơ.
+
+### S29
+- URL: https://web.archive.org/web/20260314053432/https://thuvientinh.quangngai.gov.vn/ve-tham-son-my-di-qua-nhung-dia-danh/
+- Publisher: Internet Archive snapshot, 14 Mar 2026, of the provincial library page already filed as S18
+- Accessed: 23 Oct 2026
+- Supports: The live library URL returned 503 on 23 Oct 2026. The snapshot confirms the S18 kilometres and adds two lines the 22 Oct summary did not copy: Mỹ Khê about 5 km and “vài ba cây số” from Sơn Mỹ, and Châu Sa built of earth and stone around the 9th–10th century. The 5 km beach length disagrees with the 7 km on S3. Both stay.
+
+### S30
+- URL: https://sovhttdl.quangngai.gov.vn/tin-tuc/hoat-dong-van-hoa-van-nghe/phat-hien-nhieu-dau-tich-khao-co-tai-thanh-co-chau-sa.html
+- Publisher: Sở Văn hóa, Thể thao và Du lịch tỉnh Quảng Ngãi
+- Accessed: 23 Oct 2026
+- Supports: Article dated 17 Sep 2026. Thành Châu Sa, xã Tịnh Khê, national relic 1994, a 100 m² dig, three tile kilns dated to the early centuries AD, and a first construction estimate of about the 8th–9th century. The page calls the result preliminary. No fee and no hours. Photographs on the page are not Commons files.
+
+### S31
+- URL: https://hoinghiketnoi.quangngai.gov.vn/news/201/20/danh-sach-cac-diem-du-lich-tinh-quang-ngai.aspx
+- Publisher: Hội nghị kết nối, quangngai.gov.vn. Page date 20 Aug 2026.
+- Accessed: 23 Oct 2026
+- Supports: Address rows only. Biển Mỹ Khê at xã Tịnh Khê. Thành cổ Châu Sa at xã Sơn Tịnh. Biển Khe Hai at xã Bình Sơn, a different beach. No fees, no hours, no kilometres.
