@@ -126,6 +126,13 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "cat-ba",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-23T06:04:56.504Z",
+    "by": "cat-ba-research",
+    "branch": "cursor/cat-ba-research-2090"
+  },
   "log": []
 }
