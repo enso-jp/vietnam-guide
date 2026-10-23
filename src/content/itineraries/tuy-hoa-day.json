@@ -7,46 +7,47 @@
   "spanDays": 1,
   "placeSlug": "tuy-hoa",
   "budget": "Check on arrival",
-  "pace": "Moderate",
+  "pace": "Check on arrival",
   "photo": "tuy-hoa-tuy-hoa-beach",
-  "summary": "A day on the Độc Lập beach, then the tower and the river. The afternoon can go north to the plates or south to the cape. Time on each stop is check on arrival.",
-  "days": [
-    {
-      "title": "The sand, the tower, then the river",
-      "body": "Start with a swim or a walk on the city beach along Độc Lập. One page prints a front longer than 10 km. The night page prints about 10 km. Late morning can be a bowl of bánh canh hẹ at chợ Tuy Hòa. The handbook says it is sold all day. Market hours are check on arrival. Give the middle of the day to Tháp Nhạn on the north bank. The afternoon can go north to the stone plates or south to Bãi Môn–Mũi Đại Lãnh. The minutes for those drives were not printed. Come back to Độc Lập or to Quảng trường 1/4. On Saturday the tower-yard show is 19:30. Its length is check on arrival.",
-      "placeSlug": "tuy-hoa",
-      "photo": "tuy-hoa-tuy-hoa-beach"
-    }
-  ],
+  "summary": "A day on the Độc Lập beach, bánh canh hẹ at chợ Tuy Hòa, then the tower and the river. The afternoon can go north to the stone plates or south to Bãi Môn–Mũi Đại Lãnh. Come back to Độc Lập or to Quảng trường 1/4, and on Saturday the tower-yard show is at 19:30.",
   "stops": [
     {
       "name": "Tuy Hoa beach",
       "minutes": "Check on arrival",
       "placeSlug": "tuy-hoa",
       "attractionSlug": "tuy-hoa-beach",
-      "note": "The morning swim and the evening walk on Độc Lập. A timed walk was not printed."
+      "note": "Start with a swim or a walk on the city sand along Độc Lập."
+    },
+    {
+      "name": "Banh canh he",
+      "minutes": "Check on arrival",
+      "placeSlug": "tuy-hoa",
+      "dishSlug": "tuy-hoa--banh-canh-he",
+      "note": "Have bánh canh hẹ at chợ Tuy Hòa, where it is sold all day."
     },
     {
       "name": "Nhan Tower",
       "minutes": "Check on arrival",
       "placeSlug": "tuy-hoa",
       "attractionSlug": "thap-nhan",
-      "note": "The brick tower on the north bank. Nearly 23,5 m and 12,4 m are different measurements."
+      "note": "Give the middle of the day to the brick tower on the north bank, and on Saturday the yard show is at 19:30."
     },
     {
       "name": "Da Rang",
       "minutes": "Check on arrival",
       "placeSlug": "tuy-hoa",
       "attractionSlug": "da-rang",
-      "note": "The river under the hill. 21 spans, and no metre length."
-    },
+      "note": "Walk the river under the hill."
+    }
+  ],
+  "additions": [
     {
-      "name": "April First square",
-      "minutes": "Check on arrival",
+      "name": "So huyet o loan",
       "placeSlug": "tuy-hoa",
-      "note": "The center evening. A street number was not printed."
+      "dishSlug": "tuy-hoa--so-huyet-o-loan",
+      "note": "Đầm Ô Loan is 25 km north if the afternoon leaves the city for the blood cockles."
     }
   ],
   "seoTitle": "Tuy Hoa in a day — beach, tower, and the river",
-  "seoDescription": "One day in Tuy Hoa: the Độc Lập beach, Tháp Nhạn, and the Đà Rằng. The plates and the cape are the afternoon. Minutes and fees are check on arrival."
+  "seoDescription": "One day in Tuy Hoa: the Độc Lập beach, bánh canh hẹ, Tháp Nhạn, and the Đà Rằng. The Saturday tower-yard show is at 19:30."
 }

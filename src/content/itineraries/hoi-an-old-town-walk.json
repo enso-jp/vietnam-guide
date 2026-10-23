@@ -5,42 +5,51 @@
   "level": "half-day",
   "duration": "3 hours",
   "placeSlug": "hoi-an",
-  "budget": "Ticket plus a bowl of cao lau",
-  "pace": "Relaxed",
-  "summary": "Morning streets, one old house, the covered bridge, and lunch before the town gets hot.",
+  "budget": "Check on arrival",
+  "pace": "Check on arrival",
+  "summary": "The covered bridge, one old house, the Fujian hall, and cao lầu in the old streets.",
   "stops": [
     {
       "name": "Japanese Covered Bridge",
       "minutes": 20,
-      "walkMinutes": 8,
       "placeSlug": "hoi-an",
-      "note": "Start at the west end.",
-      "attractionSlug": "japanese-bridge"
+      "attractionSlug": "japanese-bridge",
+      "note": "Start at the west end and allow about 20 minutes for the short wooden bridge.",
+      "approach": {
+        "mode": "walk",
+        "note": "On foot from the lanes just off the old town."
+      }
     },
     {
-      "name": "Tran Phu shophouses",
-      "minutes": 30,
-      "walkMinutes": 5,
-      "note": "Pick one ticketed house, not five."
+      "name": "Tan Ky House",
+      "minutes": "Check on arrival",
+      "placeSlug": "hoi-an",
+      "attractionSlug": "tan-ky",
+      "note": "See one old house, at 101 Nguyễn Thái Học, and leave the upstairs as the family's rooms.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk the pedestrian streets to 101 Nguyễn Thái Học."
+      }
     },
     {
-      "name": "Assembly hall",
-      "minutes": 25,
-      "walkMinutes": 8,
-      "note": "The Chinese assembly halls are cool and detailed."
-    },
-    {
-      "name": "River edge",
-      "minutes": 15,
-      "walkMinutes": 5,
-      "note": "Note the flood marks if you are visiting late in the year."
+      "name": "Fujian Assembly Hall",
+      "minutes": "Check on arrival",
+      "placeSlug": "hoi-an",
+      "attractionSlug": "phuc-kien",
+      "note": "Walk the three courts of the Fujian hall at 46 Trần Phú.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk to 46 Trần Phú."
+      }
     },
     {
       "name": "Cao lau",
-      "minutes": 40,
-      "note": "Eat before you leave the old streets."
+      "minutes": "Check on arrival",
+      "placeSlug": "hoi-an",
+      "dishSlug": "cao-lau",
+      "note": "Eat cao lầu in the old town."
     }
   ],
   "seoTitle": "Hoi An old town walk",
-  "seoDescription": "A morning walking route through Hoi An’s old town."
+  "seoDescription": "A morning walk in Hoi An: the covered bridge, Tan Ky House, the Fujian hall, and cao lầu."
 }

@@ -10,36 +10,38 @@
   "pace": "One trail, back before 17:00",
   "photo": "bach-ma",
   "summary": "Report before 09:00, walk the road the gate is actually using, and add one trail. Be back at the visitor center before 17:00. A summit night is a separate registration, made at least one day ahead.",
-  "days": [
-    {
-      "title": "The road, then one trail",
-      "body": "Be at the visitor center before 09:00 so the park can group the walk. The 2021 feature puts the gate-to-summit road at about 16 km and about 4–5 hours on foot. From 1 Jan 2026 the notice stops motor vehicles at km 12. The notice says about 500 m across the slip, then about 7 km on foot. In June 2026 the director said about 600 m on a path around the slip, then a motorbike or more walking. Add thác Đỗ Quyên or Ngũ Hồ, not both, and not the viewpoint as well, if you still have to be down before 17:00. A night on the summit is only the registration the park has already accepted.",
-      "placeSlug": "bach-ma",
-      "photo": "bach-ma"
-    }
-  ],
   "stops": [
     {
-      "name": "The road from the gate",
-      "minutes": 240,
+      "name": "Bach Ma National Park",
+      "minutes": "Check on arrival",
       "placeSlug": "bach-ma",
-      "note": "The 240 minutes is the short end of the 4–5 hour gate-to-summit walk on the 2021 feature, not a clock for the km 12 slip. The 2026 notice says about 500 m across the slip, then about 7 km on foot. The June 2026 account says about 600 m on a path, then a motorbike or more walking. Confirm which rule the gate is using.",
+      "attractionSlug": "bach-ma-national-park",
+      "note": "Confirm the km 12 rule at the gate, because motor vehicles stop there from 1 January 2026 and a June 2026 account sends you about 600 m around the slip before a motorbike or more walking.",
       "approach": {
         "mode": "walk",
-        "note": "Start at the visitor center before 09:00. A car of 16 seats or fewer is the May 2025 shuttle table. That table and the km 12 notice disagree. Check on arrival."
+        "note": "Start at the visitor center before 09:00 and be back before 17:00, confirm the clock against a second table that lists 07:30–17:00, and walk the summit road of about 16 km."
       }
     },
     {
       "name": "Do Quyen Waterfall",
       "minutes": 30,
       "placeSlug": "bach-ma",
-      "note": "The park trail page says about 30 minutes for about 1.5 km from km 16. VnExpress agrees on about 30 minutes for that leg. The height is higher than 300 m on the trail page, about 300 m on the walking page, and nearly 400 m on VnExpress. Ngũ Hồ is the other trail: 30 minutes on the park page, nearly an hour on VnExpress. Do not add both.",
+      "attractionSlug": "do-quyen",
+      "note": "From km 16 the path is about 1.5 km and about 30 minutes, and this is the one trail to add.",
       "approach": {
         "mode": "walk",
-        "note": "From the summit, the road down to km 16, then the path. The 2021 feature says about 3 km by road from the viewpoint, then about 2 km of path. The trail page says about 1.5 km from km 16."
+        "note": "Leave km 16 on the summit road for the lip."
       }
     }
   ],
+  "additions": [
+    {
+      "name": "Summit villas",
+      "placeSlug": "bach-ma",
+      "attractionSlug": "summit-villas",
+      "note": "Stay the night only when the park has already accepted a registration made at least one day ahead."
+    }
+  ],
   "seoTitle": "Bach Ma in a day: the road, then one trail",
-  "seoDescription": "A Bach Ma day starts before 09:00 and ends at the visitor center before 17:00. The km 12 rules disagree. Add Do Quyen or the five lakes, not both."
+  "seoDescription": "A Bach Ma day starts before 09:00 and ends at the visitor center before 17:00. Confirm the km 12 rule, then add Đỗ Quyên."
 }

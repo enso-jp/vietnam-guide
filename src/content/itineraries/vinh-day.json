@@ -7,61 +7,61 @@
   "spanDays": 1,
   "placeSlug": "vinh",
   "budget": "Check on arrival",
-  "pace": "Unhurried",
+  "pace": "Check on arrival",
   "photo": "vinh-cua-lo-beach",
-  "summary": "The square, the citadel gate, the Xô viết museum, Núi Quyết, Chợ Vinh, and the sand at Cửa Lò. A time on site was not printed. A duration was not printed. The beach distances stay 16 km, 17 km, 18 km, and about 20 km. Fees and hours are check on arrival.",
+  "summary": "The square, the citadel gate, the Xô viết museum, Núi Quyết, Chợ Vinh, and the sand at Cửa Lò. The beach distances stay 16 km, 17 km, 18 km, and about 20 km.",
   "stops": [
     {
       "name": "Ho Chi Minh Square",
-      "minutes": 40,
+      "minutes": "Check on arrival",
       "placeSlug": "vinh",
       "attractionSlug": "ho-chi-minh-square",
-      "note": "The statue and the open square. A duration was not printed. Check on arrival."
+      "note": "Start at the statue and the open square."
     },
     {
       "name": "Vinh Citadel",
-      "minutes": 40,
+      "minutes": "Check on arrival",
       "placeSlug": "vinh",
       "attractionSlug": "vinh-citadel",
-      "note": "The gate and the yard. The 2025 news page puts this yard nearly 2 km from the square. Minutes were not printed. Check on arrival.",
-      "approach": {
-        "mode": "walk",
-        "note": "Nearly 2 km from the square on the 2025 news page. The minutes were not printed. Check on arrival."
-      }
+      "note": "The gate and the yard sit nearly 2 km from the square."
     },
     {
       "name": "Nghe Tinh Soviet Museum",
-      "minutes": 40,
+      "minutes": "Check on arrival",
       "placeSlug": "vinh",
       "attractionSlug": "xo-viet-museum",
-      "note": "In the citadel yard. No visit time was printed. Check on arrival."
+      "note": "See the 1930–1931 rooms in the citadel yard.",
+      "approach": {
+        "mode": "walk",
+        "note": "The rooms are in the citadel yard."
+      }
     },
     {
       "name": "Quyet Mountain",
-      "minutes": 60,
+      "minutes": "Check on arrival",
       "placeSlug": "vinh",
       "attractionSlug": "quyet-mountain",
-      "note": "The temple, then the view. Kilometres from the square were not printed. Check on arrival."
+      "note": "Climb to the temple, then the view."
     },
     {
       "name": "Vinh Market",
-      "minutes": 30,
+      "minutes": "Check on arrival",
       "placeSlug": "vinh",
       "attractionSlug": "cho-vinh",
-      "note": "The morning hall and the foam coffee. Market hours were not printed. Check on arrival."
+      "note": "Use the morning hall at Chợ Vinh for a foam coffee."
     },
     {
       "name": "Cua Lo beach",
-      "minutes": 90,
+      "minutes": "Check on arrival",
       "placeSlug": "vinh",
       "attractionSlug": "cua-lo-beach",
-      "note": "The sand. Keep 16 km, 17 km, 18 km, and about 20 km. About 30 minutes by car is only the Núi Cấm figure on the national beach page. A time on the sand was not printed. Check on arrival.",
+      "note": "Swim and walk the sand at Cửa Lò.",
       "approach": {
-        "mode": "taxi",
-        "note": "18 km and about 30 minutes by the Núi Cấm road on the national beach page. The city portal prints 17 km, a 2012 page prints 16 km, and a 2025 page prints about 20 km. Those three do not print minutes."
+        "mode": "bus",
+        "note": "Take Bến Thủy–Trường Thi–Cửa Hội–Cửa Lò or Bến Thủy–Quang Trung–Quán Bánh–Cửa Lò, while the Núi Cấm road is about 30 minutes by car for the 18 km figure."
       }
     }
   ],
   "seoTitle": "Vinh in a day — square, gate, mountain, sand",
-  "seoDescription": "One day in Vinh: the square, the citadel, the Xô viết museum, Núi Quyết, Chợ Vinh, and Cửa Lò. A time on site was not printed. Distances to the beach disagree."
+  "seoDescription": "One day in Vinh: the square, the citadel, the Xô viết museum, Núi Quyết, Chợ Vinh, and Cửa Lò. Beach distances stay 16 km, 17 km, 18 km, and about 20 km."
 }

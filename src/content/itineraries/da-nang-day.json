@@ -7,47 +7,54 @@
   "spanDays": 1,
   "placeSlug": "da-nang",
   "budget": "Check on arrival",
-  "pace": "Relaxed",
+  "pace": "Check on arrival",
   "photo": "da-nang-my-khe",
-  "summary": "My Khe in the morning, mi Quang for lunch, and An Thuong after dark. The Cham Museum only if you still want an hour on the river.",
+  "summary": "My Khe in the morning, mì Quảng for lunch, and An Thuong after dark.",
   "stops": [
     {
-      "name": "Museum of Cham Sculpture",
-      "minutes": 60,
+      "name": "My Khe Beach",
+      "minutes": "Check on arrival",
       "placeSlug": "da-nang",
-      "attractionSlug": "cham-museum",
-      "note": "Optional. Take it if you want the stone before the swim."
+      "attractionSlug": "my-khe",
+      "note": "Swim inside the buoy line while rescuers are on duty.",
+      "approach": {
+        "mode": "grab",
+        "note": "From the river side, cross the Han by car or Grab."
+      }
     },
     {
       "name": "Mi Quang",
-      "minutes": 45,
+      "minutes": "Check on arrival",
       "placeSlug": "da-nang",
       "dishSlug": "mi-quang",
-      "note": "Lunch. Toss the noodles. Do not expect a deep soup."
-    },
-    {
-      "name": "My Khe Beach",
-      "minutes": 120,
-      "walkMinutes": 0,
-      "placeSlug": "da-nang",
-      "attractionSlug": "my-khe",
-      "note": "The morning. Swim only if the flags allow it. The resort front is the view."
+      "note": "Eat mì Quảng at lunch."
     },
     {
       "name": "An Thuong",
-      "minutes": 120,
+      "minutes": "Check on arrival",
       "placeSlug": "da-nang",
       "attractionSlug": "an-thuong",
-      "note": "After dark. Walk inland from the beach. Kalà Kalà is on the sand. East West faces the water."
+      "note": "After dark, walk inland from the beach road into the lanes.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk in from the beach road after the swim."
+      }
+    }
+  ],
+  "additions": [
+    {
+      "name": "Museum of Cham Sculpture",
+      "placeSlug": "da-nang",
+      "attractionSlug": "cham-museum",
+      "note": "See the Cham stone on the Han if you still want an hour before the swim."
     },
     {
       "name": "Marble Mountains",
-      "minutes": 90,
       "placeSlug": "da-nang",
       "attractionSlug": "marble-mountains",
-      "note": "Optional, on the way toward Hoi An. Skip it if the beach used the afternoon."
+      "note": "Climb Thủy Sơn on the way toward Hội An if the beach did not use the afternoon."
     }
   ],
   "seoTitle": "Da Nang in a day",
-  "seoDescription": "A one-day Da Nang plan: My Khe in the morning, mi Quang for lunch, and An Thuong after dark."
+  "seoDescription": "A one-day Da Nang plan: My Khe in the morning, mì Quảng for lunch, and An Thuong after dark."
 }

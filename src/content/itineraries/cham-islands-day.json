@@ -9,15 +9,38 @@
   "budget": "70,000 VND visit fee. The boat is check on arrival.",
   "pace": "A landing day",
   "photo": "cham-islands",
-  "summary": "The morning boats leave Cửa Đại for Hòn Lao. Walk to Hải Tạng if the return will wait, and eat the catch in Bai Lang. Crossing minutes were not printed, so this day has no timed stops.",
-  "days": [
+  "summary": "The morning boats leave Cửa Đại for Hòn Lao. Walk to Hải Tạng if the return will wait, and eat the catch in Bãi Làng. The visit fee is 70,000 VND a person from 10 June 2026, and the boat is separate.",
+  "stops": [
     {
-      "title": "The boat, the ridge, and Hải Tạng",
-      "body": "The 30 August 2023 pier report describes passengers from 08:00, with the crowd from 08:00 to 10:00. Land at Bai Lang. Hải Tạng is the walk above Đồng Chùa. The 15 September 2025 study puts lunch around 11:00–12:00. The visit fee is 70,000 VND a person from 10 June 2026. The boat fare and the minutes on the water are check on arrival.",
+      "name": "Bai Lang",
+      "minutes": "Check on arrival",
       "placeSlug": "cham-islands",
-      "photo": "cham-islands"
+      "attractionSlug": "bai-lang",
+      "note": "Land at Bãi Làng and pay the 70,000 VND reserve visit fee, which does not include the boat.",
+      "approach": {
+        "mode": "boat",
+        "note": "Take the boat from the Cửa Đại pier, where passengers gather from 08:00 and the crowd runs through 10:00."
+      }
+    },
+    {
+      "name": "Hai Tang Pagoda",
+      "minutes": "Check on arrival",
+      "placeSlug": "cham-islands",
+      "attractionSlug": "hai-tang",
+      "note": "Walk up to Hải Tạng if the boat will still be there when you come down.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk through the hamlet from Bãi Làng to Xóm Cấm."
+      }
+    },
+    {
+      "name": "Canh ca",
+      "minutes": "Check on arrival",
+      "placeSlug": "cham-islands",
+      "dishSlug": "canh-ca",
+      "note": "Eat the fish soup with rice in Bãi Làng, with lunch around 11:00–12:00."
     }
   ],
   "seoTitle": "Cham Islands in a day — boat from Cửa Đại",
-  "seoDescription": "A landing day on Hòn Lao from the Cửa Đại pier. The visit fee is 70,000 VND from 10 June 2026. The boat fare and the crossing minutes are check on arrival."
+  "seoDescription": "A landing day on Hòn Lao from the Cửa Đại pier: Bãi Làng, Hải Tạng, and the catch. The visit fee is 70,000 VND from 10 June 2026."
 }

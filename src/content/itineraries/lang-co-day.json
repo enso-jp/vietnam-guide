@@ -7,44 +7,39 @@
   "spanDays": 1,
   "placeSlug": "lang-co",
   "budget": "Check on arrival",
-  "pace": "Easy",
+  "pace": "Check on arrival",
   "photo": "lang-co",
-  "summary": "The beach in the morning, a look at Lap An from the bank, and Hai Van Gate by the pass road if you still want the view back. The tunnel does not count as the gate. Times on the sand are check on arrival.",
+  "summary": "The beach in the morning, a look at Lập An from the bank, oysters on the lagoon, and Hải Vân Quan by the pass road. The tunnel does not count as the gate.",
   "stops": [
     {
       "name": "Lang Co Beach",
-      "minutes": 60,
+      "minutes": "Check on arrival",
       "placeSlug": "lang-co",
       "attractionSlug": "lang-co-beach",
-      "note": "Check on arrival. No visit length was published. Swim and walk while the ridge is in the light.",
-      "approach": {
-        "mode": "walk",
-        "note": "The beach is the base if you sleep on the strip. Minutes from the station were not printed."
-      }
+      "note": "Swim and walk the sand while the ridge is in the light."
     },
     {
       "name": "Lap An Lagoon",
-      "minutes": 60,
+      "minutes": "Check on arrival",
       "placeSlug": "lang-co",
       "attractionSlug": "lap-an-lagoon",
-      "note": "A look from the bank. One description puts that look at about an hour. The sand strip shows only at a strong low tide. A boat price is not a town fee.",
-      "approach": {
-        "mode": "walk",
-        "note": "Nguyễn Văn is the lagoon road. Minutes from the beach were not printed. Check on arrival."
-      }
+      "note": "Look at the oyster lines from the bank, and step onto the sand strip only at a strong low tide."
+    },
+    {
+      "name": "Hau nuong trui",
+      "minutes": "Check on arrival",
+      "placeSlug": "lang-co",
+      "dishSlug": "lang-co--hau-nuong-trui",
+      "note": "Eat oysters grilled over the fire on Đầm Lập An."
     },
     {
       "name": "Hai Van Gate",
-      "minutes": 60,
+      "minutes": "Check on arrival",
       "placeSlug": "lang-co",
       "attractionSlug": "hai-van-gate",
-      "note": "Check on arrival for time on the summit. The fee is 70,000 VND from 2 June 2026. VnExpress prints 07:00–17:30. Go up the pass road, not through the tunnel.",
-      "approach": {
-        "mode": "taxi",
-        "note": "Up the pass road from Lang Co. The tunnel does not pass the gate. Drive minutes are check on arrival."
-      }
+      "note": "Walk the restored gate by the pass road, not the tunnel, for 70,000 VND a person, using the 07:00–17:30 window."
     }
   ],
   "seoTitle": "Lang Co in a day — beach, lagoon, and the gate",
-  "seoDescription": "A Lang Co day: the beach under Hai Van, a look at Lap An, and the gate by the pass road. The tunnel skips the gate. Times on site are check on arrival."
+  "seoDescription": "A Lang Co day: the beach under Hải Vân, a look at Lập An, oysters on the lagoon, and the gate by the pass road."
 }
