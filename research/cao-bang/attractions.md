@@ -500,3 +500,19 @@ Dam Thuy (the Ban Gioc valley) is an overnight base of its own. It stays inside 
 - Suggested slug: `ban-gioc-day`
 - Photo must show: morning light on the cascade with the river, subject through the center
 - Sources: S3, S7, S17, S22
+
+## Page pass 23 Oct 2026
+
+Public sights stay the five already published: ban-gioc, nguom-ngao, truc-lam-ban-gioc, pac-bo, phia-oac. No new slug.
+
+Left off, and why:
+
+- Khuoi Ky: a short stop on the cave road, the same day as Ban Gioc (S3). Not a separate visit.
+- Thang Hen: a stop on the eastern day, before or after the falls (S7). Not a separate visit. No licensed pair of frames was filed.
+- Mountain Eye, Ma Phuc, Phia Thap, Dia Tren, Phuc Sen: stops on the eastern route with the falls (S3).
+- Tinh Tuc, Red Villa, Kolia tea, Tran Hung Dao Forest, Phai Khat, Dao Tien brocade: the western day with Phia Oac (S4).
+- Non Nuoc geopark and the four routes: zones, not a gate.
+- Cao Bang city, Kim Dong walking street, and a city day: the base and the evening, not extra sights.
+- Dam Thuy: the overnight for the falls, inside this place slug.
+- Magic Water Mine: how to reach it and whether it is open are UNSOURCED (S1).
+- Southern route, Hoang Tung, and the rest of the northern route beyond Pac Bo: the stop list was not read.

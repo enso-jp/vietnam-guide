@@ -4,21 +4,22 @@
   "name": "Pac Bo",
   "nameVi": "Pác Bó",
   "kicker": "Special national relic at km 0",
-  "summary": "Give Pac Bo a half day from Cao Bang city, about 55 km north on provincial road 203. You walk Coc Bo, where Ho Chi Minh stayed after returning in 1941, and the stream under the hill. Do not pair it with Ban Gioc. The two roads leave town in different directions.",
+  "summary": "Walk Coc Bo cave and the Lenin stream at Pac Bo, about 55 km north of Cao Bang city. The cave is small, and the stream runs in front of it. Give the visit a half day from town, including the drive. Do not add Ban Gioc. The roads leave in different directions. The fee is check on arrival.",
   "dots": 4,
   "timeNeeded": "Half a day from the city, including the drive",
   "fee": "Check on arrival",
   "getThere": "About 55 km north of Cao Bang city on provincial road 203.",
-  "verified": "21 Oct 2026",
-  "heroCaption": "The stream at Pac Bo, under the forested hill",
+  "district": "Ha Quang",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The Lenin stream at Pac Bo, under the forested hill",
   "notice": {
     "title": "Not the same afternoon as the falls",
-    "body": "Pac Bo is about 55 km north. Ban Gioc is more than 80 km east. A plan that puts both on one careless afternoon misses one of them."
+    "body": "Pac Bo is about 55 km north. Ban Gioc is more than 80 km east. A plan that puts both on one afternoon misses one of them."
   },
   "body": [
-    "Pac Bo is the mouth of the spring, at km 0 of the Ho Chi Minh Road. The walk is Coc Bo cave and the Lenin stream under Karl Marx mountain. The relic monograph dates the special-national listing to 10 May 2012 and ties the site to 1941–1945. Vietnam Tourism describes the cave and the river where he fished.",
-    "The first photograph is the stream and the valley. It does not show the cave mouth. The second is the inside of Coc Bo. On-site minutes are check on arrival. The monograph’s hillside is reason enough for shoes with a grip. A measured path length was on a provincial feature that was not reloaded, so it stays off this page.",
-    "Go in daylight. The fee is check on arrival. No tariff was on the monograph or on vietnam.travel."
+    "Pac Bo means the mouth of the spring. It sits at Truong Ha, in Ha Quang, at km 0 of the Ho Chi Minh Road, about 55 km north of the city on provincial road 203. Coc Bo is the cave where Ho Chi Minh stayed from 8 February 1941 to the middle of March 1941. The floor is about 80 square metres, and the mouth fits one person.",
+    "He named the stream in front of the cave Lenin, and the hill beside it Karl Marx. A restored stone table, about 80 by 50 cm and about 60 cm high, stands outside where he worked. The original table has been in the Ho Chi Minh Museum since 1978. The site was listed as a special national relic on 10 May 2012.",
+    "Go in daylight. Minutes on the road and minutes inside the gate are check on arrival. The fee is check on arrival."
   ],
   "figures": [
     {
@@ -28,26 +29,26 @@
     }
   ],
   "gettingThere": [
-    "The relic monograph places Pac Bo at Truong Ha, Ha Quang, about 55 km north of the city on provincial road 203. A provincial feature indexed on the tourism site said about 52 km. That page was not reloaded. Use 55 km. Minutes on the road are check on arrival."
+    "Pac Bo is at Truong Ha, in Ha Quang, about 55 km north of Cao Bang city on provincial road 203. Hire a car or a motorbike in the city. Minutes on the road are check on arrival."
   ],
   "legs": [
     {
       "heading": "From Cao Bang city",
-      "body": "North on provincial road 203, about 55 km. Hire a car or a motorbike in the city. A local bus is check on arrival. The half day includes this drive."
+      "body": "North on provincial road 203, about 55 km. The half day includes this drive. A local bus is check on arrival."
     },
     {
       "heading": "From Hanoi",
-      "body": "Come to Cao Bang city first. Vietnam Tourism puts that ride at about 280 km and about eight hours, and other desks disagree. Pac Bo is a further 55 km the next day, not a stop on the way into town."
+      "body": "Come to Cao Bang city first. Pac Bo is a further 55 km north the next day, not a stop on the way into town."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly closing day was on the monograph or on Vietnam Tourism. Check the board on arrival.",
-  "admissionNote": "Check on arrival. No tariff was printed on the provincial monograph or on the Vietnam Tourism page.",
+  "closed": "Check on arrival.",
+  "admissionNote": "Check on arrival.",
   "links": [
     {
-      "label": "Cao Bang on Vietnam Tourism",
+      "label": "Cao Bang",
       "url": "https://vietnam.travel/things-to-do/discovering-cao-bang-7-must-do-experiences",
-      "note": "Describes the cave and the stream"
+      "note": "The cave and the stream"
     }
   ],
   "interests": ["warHistory"]

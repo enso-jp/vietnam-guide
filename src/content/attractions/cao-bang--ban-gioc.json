@@ -4,22 +4,23 @@
   "name": "Ban Gioc Waterfall",
   "nameVi": "Thác Bản Giốc",
   "kicker": "Border cascade on the Quay Son",
-  "summary": "Give Ban Gioc the morning, from the Vietnam bank of the Quay Son, and sleep in Dam Thuy or in the city the night before. The cascade is more than 80 km east of town. Skip a late arrival from the end of November to the beginning of April, when the water is very low and the board asks you to come between 10:30 and 15:30.",
+  "summary": "Stand on the Vietnam bank of Ban Gioc and look across the wide cascade on the Quay Son. Sleep in Dam Thuy, or in Cao Bang city, so the falls are a morning. From the end of November to the beginning of April the water is very low, so come between 10:30 and 15:30. Skip a late arrival in those months. A bamboo raft toward the foot is optional. The gate fee is check on arrival.",
   "dots": 5,
-  "timeNeeded": "The same day as the cave and the pagoda",
+  "timeNeeded": "Same day as the cave and the pagoda",
   "fee": "Check on arrival",
-  "getThere": "More than 80 km east of Cao Bang city. Drive minutes are check on arrival.",
-  "bestMonths": "June to September for more water; low water from late November to early April",
-  "verified": "21 Oct 2026",
+  "getThere": "More than 80 km east of Cao Bang city. Drive time is check on arrival.",
+  "district": "Dam Thuy",
+  "bestMonths": "June to September for more water; October to April, or October to May, for drier travel",
+  "verified": "23 Oct 2026",
   "heroCaption": "The cascade, the Quay Son, and the limestone at Ban Gioc",
   "notice": {
     "title": "Low water has a clock",
-    "body": "From the end of November to the beginning of April the management board says the water is very low and asks you to come between 10:30 and 15:30. A late arrival in those months wastes the day."
+    "body": "From the end of November to the beginning of April the water is very low. Come between 10:30 and 15:30. A late arrival in those months wastes the day."
   },
   "body": [
-    "Stand on the Vietnam bank and look across the width of the cascade. A bamboo raft toward the foot is the optional ride. The geopark also names a cross-border scenic route at Ban Gioc–Detian. Whether a visitor may cross is check on arrival. This page does not state a visa rule.",
-    "The 10 December 2024 timing notice says the fall is about 300 m wide and 35 m high, in three tiers. Vietnam Tourism says the main fall is over 30 m. An indexed provincial note said about 208 m wide and was not reloaded, so that figure stays off the page. Pages also repeat a “fourth largest” ranking. Treat it as a slogan, not a measurement.",
-    "Pair the falls with Nguom Ngao and the pagoda. Do not add Phia Oac, and do not add Pac Bo. Those roads leave town the other way. The gate fee is check on arrival. No current tariff was on UNESCO, the geopark pages, Vietnam Tourism, or the timing notice."
+    "Stand on the Vietnam bank and take in the width of the cascade. A bamboo raft can take you toward the foot. A cross-border scenic route runs at Ban Gioc–Detian. Whether you may cross is check on arrival.",
+    "The cascade is about 300 m wide and 35 m high, in three tiers. The main fall is also described as over 30 m. Fuller water runs from June to September. The drier months are given as October to April, and also as October to May.",
+    "Do the cave and the pagoda on this day. Pac Bo is north and Phia Oac is west, so leave them for other days. The gate fee is check on arrival. A raft, if you take one, is separate, and that price is check on arrival too."
   ],
   "figures": [
     {
@@ -29,21 +30,21 @@
     }
   ],
   "gettingThere": [
-    "Ban Gioc is in Dam Thuy, on the eastern geopark road. The December 2024 notice still says Trung Khanh, more than 80 km from the city centre. The road out of town is National Highway 3, then the valley. Drive minutes are check on arrival."
+    "Ban Gioc is in Dam Thuy, on the eastern road. The way out of Cao Bang city is National Highway 3, then the valley. The falls are more than 80 km from the city centre. Drive minutes are check on arrival."
   ],
   "legs": [
     {
       "heading": "From Cao Bang city",
-      "body": "East by car or motorbike, more than 80 km. No published minute count was on the pages read. A local bus to the falls is check on arrival."
+      "body": "East by car or motorbike, more than 80 km. Drive minutes are check on arrival. A local bus to the falls is check on arrival."
     },
     {
       "heading": "From Hanoi",
-      "body": "Vietnam Tourism puts the falls about 340 km north of Hanoi by paved national highway. The city is the usual overnight break. Do not treat the falls as a day return from the capital."
+      "body": "About 340 km north by national highway. Sleep in Cao Bang city or in Dam Thuy. This is not a day return from the capital. Hours on the road are check on arrival."
     }
   ],
-  "hours": "Check on arrival. In the low-water months the management board asks visitors to come between 10:30 and 15:30.",
-  "closed": "No weekly closing day was on the timing notice. Check the board on arrival.",
-  "admissionNote": "Check on arrival. UNESCO, the geopark pages, Vietnam Tourism, and Official Letter 424/TB-BQLKDLTBG of 10 December 2024 do not print a current tariff. A raft, if you take one, is separate from any gate. No raft price was on those pages.",
+  "hours": "Check on arrival. From the end of November to the beginning of April, come between 10:30 and 15:30.",
+  "closed": "Check on arrival.",
+  "admissionNote": "Check on arrival. A raft toward the foot is separate from the gate, and that price is check on arrival too.",
   "links": [
     {
       "label": "Non Nuoc Cao Bang Geopark",
@@ -51,14 +52,14 @@
       "note": "UNESCO listing, 2018"
     },
     {
-      "label": "Ban Gioc on Vietnam Tourism",
+      "label": "Ban Gioc",
       "url": "https://vietnam.travel/things-to-do/ban-gioc-waterfall-majestic-beauty-northern-border",
       "note": "National tourism page"
     },
     {
-      "label": "Visit-time notice",
+      "label": "Visit-time letter",
       "url": "https://www.vietnam.vn/en/khuyen-cao-thoi-gian-tham-quan-khu-du-lich-thac-ban-gioc",
-      "note": "12 December 2024, citing the management board"
+      "note": "12 December 2024, management board"
     }
   ],
   "interests": ["photography", "mountains"]
