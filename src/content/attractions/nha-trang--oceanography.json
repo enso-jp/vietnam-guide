@@ -4,7 +4,7 @@
   "name": "Oceanographic Museum",
   "nameVi": "Bảo tàng Hải dương học",
   "kicker": "The marine museum at Cầu Đá",
-  "summary": "Marine museum at Cầu Đá: walk the tanks and specimen halls for 90 to 120 minutes of the city’s sea life. The institute dates from the fisheries service of 1922, and the museum from the biology hall of 1923. Hours are 06:00–18:00 on the ward page and 07:30–17:00 on the provincial English page. An adult ticket is about 40,000 VND.",
+  "summary": "Marine museum at Cầu Đá: walk the tanks and specimen halls for 90 to 120 minutes of the city’s sea life. The fisheries service dates from 1922, and the museum from 1923. Hours are 06:00–18:00 and also 07:30–17:00. An adult ticket is about 40,000 VND.",
   "dots": 3,
   "dotReason": "A museum hour on the south beach road, beside a boat day, not the sand itself.",
   "timeNeeded": "90 to 120 minutes",
@@ -15,11 +15,11 @@
   "heroCaption": "The institute front, with both museum signs above the stairs",
   "notice": {
     "title": "The two clocks do not match",
-    "body": "The ward page opens the museum 06:00–18:00. The provincial English page opens it 07:30–17:00. The adult price on the ward page is about 40,000 VND, and that page says it can change."
+    "body": "Hours are 06:00–18:00 and also 07:30–17:00. An adult ticket is about 40,000 VND and can change."
   },
   "body": [
-    "The Oceanographic Museum is the public hall of the Institute of Oceanography at 01 Cầu Đá. Give the tanks and the specimen rooms 90 to 120 minutes, the span the provincial guide uses for the museum and Trường Sa park in the same grounds. The institute dates the fisheries service to 14 September 1922 and the marine-biology museum to the year after that.",
-    "The provincial English page describes tanks of more than 300 marine species and a collection of about 23,000 samples from about 5,000 species, in exhibition space of about 5,000 m². The institute says the museum now receives hundreds of thousands of visits a year. The ward page puts hours at 06:00–18:00 every day, including holidays, and calls 40,000 VND the usual adult price. The same English page’s information block says 07:30–17:00."
+    "The Oceanographic Museum is the public hall of the Institute of Oceanography at 01 Cầu Đá. Give the tanks, the specimen rooms, and Trường Sa park in the same grounds 90 to 120 minutes. The fisheries service dates from 14 September 1922, and the marine-biology museum from the year after that.",
+    "The tanks hold more than 300 marine species. The collection is about 23,000 samples from about 5,000 species, in exhibition space of about 5,000 m². The museum receives hundreds of thousands of visits a year. Hours are 06:00–18:00 every day, including holidays, and also 07:30–17:00. The usual adult price is about 40,000 VND."
   ],
   "figures": [
     {
@@ -29,7 +29,7 @@
     }
   ],
   "gettingThere": [
-    "The museum is at 01 Cầu Đá, the south end of the beach road, the same port Vietnam Tourism uses for the Hòn Mun boat. The English page’s address block also lists 89 Trần Phú. The institute and the body of that page both use 01 Cầu Đá. Use Cầu Đá."
+    "The museum is at 01 Cầu Đá, the south end of the beach road, the same port as the Hòn Mun boat. An address line also lists 89 Trần Phú. Use 01 Cầu Đá."
   ],
   "legs": [
     {
@@ -41,22 +41,22 @@
       "body": "The 45-minute reef boat leaves this port. See the museum before you board, or after you land."
     }
   ],
-  "hours": "06:00–18:00 on the ward page. 07:30–17:00 on the provincial English page.",
-  "closed": "The ward page says the museum opens every day, including holidays.",
-  "admissionNote": "About 40,000 VND for an adult on the ward page, which says the price can change, and about 20,000 VND for a student. A provincial article on Trường Sa park, inside the same grounds, lists 40,000 VND for an adult, 20,000 VND for a student, 10,000 VND for a pupil, and free under 6. The institute museum page leaves the price unstated. The park uses the same ticket.",
+  "hours": "06:00–18:00, and also 07:30–17:00.",
+  "closed": "Open every day, including holidays.",
+  "admissionNote": "About 40,000 VND for an adult, and the price can change. About 20,000 VND for a student, 10,000 VND for a pupil, and free under 6. Trường Sa park, in the same grounds, uses the same ticket.",
   "links": [
     {
       "label": "Oceanographic Museum",
       "url": "https://vnio.org.vn/bao-tang-hai-duong-hoc/",
-      "note": "The institute. Address 01 Cầu Đá. No hours and no ticket on this page."
+      "note": "Address 01 Cầu Đá."
     },
     {
-      "label": "Ward page",
+      "label": "Museum hours and ticket",
       "url": "https://nhatrang.khanhhoa.gov.vn/tin-bai/diem-den/vien-hai-duong-hoc-nha-trang-bao-tang-khoa-hoc-dau-tien-viet-nam-1615",
       "note": "06:00–18:00 and about 40,000 VND."
     },
     {
-      "label": "Provincial English page",
+      "label": "Tanks and specimens",
       "url": "https://dulichso.khanhhoa.gov.vn/en/article/nha-trang-institute-of-oceanography-bb4",
       "note": "07:30–17:00, the tanks, and the specimen counts."
     }
