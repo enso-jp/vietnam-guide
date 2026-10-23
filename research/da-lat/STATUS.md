@@ -12,3 +12,5 @@ Left out: bus and sleeper minutes from Ho Chi Minh City, exact taxi fares from L
 Specialty pass 23 Oct 2026: food.md now has the sourced Da Lat dishes behind the 48-slug food guide. Vietnam Tourism restaurant brands named as “Try it”, plus Cafe Tung, La Viet, and palace tea, stay unpublished as picks. Open price and hour conflicts are in questions.md.
 
 Page pass 23 Oct 2026: Robin Hill cable car, Langbiang, and Elephant Falls are now public attraction pages with licensed frames.
+
+Attraction check 23 Oct 2026: Tuyen Lam Lake and the city flower garden are public pages. Each has two licensed frames of that subject. Fees and hours that disagree are both printed. Boat hire, the flower-garden gate price, the garden address, and a later weekend close at the garden are Check on arrival in the fields that need it. The night market, the lakeside evening, a morning at the lake, and a coffee hour stay off the sight list. Lam Dong Museum stays unpublished. Status remains stored.

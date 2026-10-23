@@ -1,0 +1,50 @@
+{
+  "slug": "flower-garden",
+  "placeSlug": "da-lat",
+  "name": "Da Lat Flower Garden",
+  "nameVi": "Vườn hoa thành phố",
+  "kicker": "City garden of flower beds",
+  "summary": "Walk the flower beds at the city garden northeast of Xuan Huong. Allow about 90 minutes for the paths, the hydrangeas, and the orchid section. Adult prices are 30,000 VND and 100,000 VND, so confirm the ticket at the gate before you pay. Skip it when the December displays around the lake are the flowers you came for.",
+  "dots": 3,
+  "timeNeeded": "About 90 minutes",
+  "fee": "30,000 VND, or 100,000 VND adult",
+  "getThere": "Northeast of Xuan Huong Lake",
+  "district": "Lam Vien",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Flower beds and paths in the city garden",
+  "notice": {
+    "title": "Confirm the price at the gate",
+    "body": "Adult prices are 30,000 VND and 100,000 VND. A child ticket of 50,000 VND is stated with the higher adult price. The December flower displays around the lake are a separate visit."
+  },
+  "body": [
+    "The city flower garden is a paid walk northeast of Xuan Huong Lake. Paths run between beds of hydrangea, roses, and mimosa, with newer plantings and an orchid section. Allow about 90 minutes.",
+    "Addresses in use are Trần Quốc Toản and 2 Trần Nhân Tông. Hours are 07:00 to 18:00, and also 06:30 to 18:00. Confirm the gate and the price when you arrive."
+  ],
+  "figures": [
+    {
+      "id": "da-lat-flower-garden-2",
+      "caption": "A path through red beds and hydrangeas",
+      "alt": "Flower beds and a path in the Da Lat city flower garden"
+    }
+  ],
+  "gettingThere": [
+    "The garden is northeast of Xuan Huong Lake. Walk or take a taxi from the lake. The addresses in use are Trần Quốc Toản and 2 Trần Nhân Tông."
+  ],
+  "legs": [
+    {
+      "heading": "From Xuan Huong Lake",
+      "body": "Walk or taxi northeast. Use Trần Quốc Toản or 2 Trần Nhân Tông, and confirm the gate when you arrive."
+    }
+  ],
+  "hours": "07:00–18:00, or 06:30–18:00",
+  "closed": "A later weekend close is Check on arrival.",
+  "admissionNote": "Adult 30,000 VND, and also adult 100,000 VND with a child at 50,000 VND. The visit is about 90 minutes. Confirm the price at the gate.",
+  "links": [
+    {
+      "label": "Vườn hoa thành phố",
+      "url": "https://visitlamdong.vn/vi/vuonhoathanhpho",
+      "note": "Provincial tourism page, accessed 23 Oct 2026"
+    }
+  ],
+  "interests": ["photography"]
+}
