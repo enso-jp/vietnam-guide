@@ -1,0 +1,63 @@
+{
+  "slug": "mai-chau-valley-night",
+  "title": "A night in the Mai Chau valley",
+  "kind": "trip",
+  "level": "day",
+  "duration": "A night and a morning",
+  "spanDays": 2,
+  "placeSlug": "mai-chau",
+  "budget": "Check on arrival",
+  "pace": "One valley, on a bicycle",
+  "photo": "mai-chau",
+  "summary": "One night in a White Thai stilt house, a bicycle on the valley paths, and dinner at the house. Hanoi is about 140 km, printed as about three hours and as 2.5 hours.",
+  "days": [
+    {
+      "title": "Day 1 — Evening on the floor",
+      "body": "Arrive from Hanoi in the morning if you want the view at đèo Thung Khe, then sleep in Bản Lác or Pom Coọng. After dinner the floor is White Thai music and dance. In Pom Coọng the programme named is xòe, sạp, and instruments. A start time is Check on arrival. On a Saturday, Bản Lác holds a cultural night market. The hour is Check on arrival.",
+      "placeSlug": "mai-chau",
+      "photo": "mai-chau"
+    },
+    {
+      "title": "Day 2 — Morning in the rice",
+      "body": "Walk the lanes while they are quiet, have cà phê phin looking at the rice, then bicycle the paths between the houses and the paddies. The Phú Thọ tourism list prints bicycle hire at 20.000–50.000 đồng a trip. Breakfast and dinner are the homestay table, including cơm lam from the tube. September to November, with October the golden month, is one rice window. Late May and early June is the other turn toward gold. A loop hour is Check on arrival.",
+      "placeSlug": "mai-chau",
+      "photo": "mai-chau"
+    }
+  ],
+  "stops": [
+    {
+      "name": "Valley paths",
+      "placeSlug": "mai-chau",
+      "dishSlug": "xoi-nep",
+      "note": "The daytime of the stay, on a bicycle between Bản Lác, Pom Coọng, and Bản Văn. A loop hour was not printed. Check on arrival. Bicycle hire is 20.000–50.000 đồng a trip on the Phú Thọ tourism list, one source.",
+      "minutes": "Check on arrival",
+      "approach": {
+        "mode": "bicycle",
+        "note": "From the homestay. Electric-cart hire is Check on arrival."
+      }
+    },
+    {
+      "name": "Com lam",
+      "placeSlug": "mai-chau",
+      "dishSlug": "com-lam",
+      "note": "Sticky rice from the bamboo tube at the homestay, dipped in minced peanuts. The hour is Check on arrival. The photograph with the dish was taken in the Central Highlands.",
+      "minutes": "Check on arrival"
+    },
+    {
+      "name": "Ga doi",
+      "placeSlug": "mai-chau",
+      "dishSlug": "ga-doi",
+      "note": "Grilled native chicken at the house, with chẩm chéo on the 2019 feature. The hour is Check on arrival.",
+      "minutes": "Check on arrival"
+    },
+    {
+      "name": "Ruou can",
+      "placeSlug": "mai-chau",
+      "dishSlug": "ruou-can",
+      "note": "Jar wine with the evening at the house. A method and an hour are Check on arrival.",
+      "minutes": "Check on arrival"
+    }
+  ],
+  "seoTitle": "A night in the Mai Chau valley",
+  "seoDescription": "One night in a White Thai stilt house and a morning on the valley paths. Hanoi is about 140 km, about three hours and also 2.5 hours. Dinner is the house."
+}
