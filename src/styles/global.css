@@ -1046,6 +1046,36 @@ a.rank-row h3 { color: var(--link); }
 .day { padding: 0.9rem 0; border-top: 1px solid var(--line); }
 table { width: 100%; border-collapse: collapse; background: var(--card); font-variant-numeric: tabular-nums; }
 th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+.klook-block {
+  width: min(var(--page), calc(100% - 2rem));
+  max-width: calc(100% - 2rem);
+  margin: 1.25rem auto 0;
+  display: flex;
+  justify-content: center;
+}
+.klook-block > div {
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+}
+.trip-banner {
+  width: min(468px, calc(100% - 2rem));
+  max-width: calc(100% - 2rem);
+  margin: 1.25rem auto 0;
+  container-type: inline-size;
+}
+.trip-banner-fit {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  overflow: hidden;
+  height: calc(60px * 100cqw / 468px);
+}
+.trip-banner-fit iframe {
+  flex: none;
+  transform: scale(calc(100cqw / 468px));
+  transform-origin: top center;
+}
 .footer { border-top: 1px solid var(--line); padding: 1.5rem 0 2.5rem; margin-top: 2rem; color: var(--muted); }
 .footer a { color: var(--ink); }
 .footer-brand .wordmark { position: static; transform: none; }
@@ -1449,8 +1479,29 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   padding: 1.15rem 1.05rem 1.2rem;
   box-shadow: 0 8px 22px rgba(28, 25, 21, 0.05);
 }
-.book-stay h2 { margin: 0 0 0.35rem; }
-.book-stay h2 em { font-style: normal; color: var(--lacquer); }
+.book-stay h2,
+.stay-box h2,
+.home .book-stay h2 {
+  margin: 0 0 0.4rem;
+  font-size: 1rem;
+  line-height: 1.2;
+  letter-spacing: 0;
+  text-align: center;
+}
+.book-stay h2 em,
+.stay-box h2 em { font-style: normal; color: var(--lacquer); }
+.family-summer {
+  display: block;
+  width: 100%;
+  margin: 0.65rem auto 0;
+}
+.family-summer img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 752 / 376;
+  margin-inline: auto;
+}
 .book-tabs {
   display: grid;
   grid-template-columns: repeat(6, minmax(0, 1fr));
@@ -1664,8 +1715,6 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   font-weight: 650;
 }
 .aff-btn-quiet { background: var(--ink); }
-.stay-box h2 { margin-bottom: 0.35rem; }
-.stay-box h2 em { font-style: normal; color: var(--lacquer); }
 .stay-tabs { list-style: none; display: grid; grid-template-columns: repeat(6, 1fr); gap: 0.2rem; margin: 0.55rem 0 0.7rem; padding: 0; }
 .stay-tabs li { display: flex; flex-direction: column; align-items: center; gap: 0.28rem; color: var(--muted); font-size: 0.68rem; text-align: center; }
 .stay-tile { display: grid; place-items: center; width: 2.15rem; height: 2.15rem; border: 1px solid var(--line); border-radius: 8px; background: #fff; }

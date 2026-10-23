@@ -6,7 +6,7 @@ import VietnamMap from '../components/VietnamMap.astro';
 import { interestHref, interestLabels, site } from '../config/site';
 import interestPhotos from '../content/interest-photos.json';
 import { attractionsForInterest, cardLine, corridorsNorthToSouth, getHighlights, getOtherPosts, placePath, placesForInterest, placesInCorridor } from '../lib/content';
-import { tripHomepageStay } from '../lib/partners';
+import TripSearch from '../components/TripSearch.astro';
 import { photoPath } from '../lib/photos';
 import type { Place } from '../lib/types';
 
@@ -119,7 +119,7 @@ const jsonLd = {
         <div class="home-rail">
           <aside class="book-stay">
             <h2>Book your <em>stay</em></h2>
-            <iframe border="0" src={tripHomepageStay} style="width:320px;height:480px;border:none" frameborder="0" scrolling="no" id="S20485488"></iframe>
+            <TripSearch variant="home" />
           </aside>
         </div>
       </div>
