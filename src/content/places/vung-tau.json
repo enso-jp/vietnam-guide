@@ -5,17 +5,17 @@
   "kind": "city",
   "corridor": "southeast",
   "province": "Ba Ria–Vung Tau",
-  "provinceNote": "The tourism catalogue and the museum still print Ba Ria–Vung Tau. The Ho May operator and Tuoi Tre’s 2026 festival report print Phường Vũng Tàu, Thành phố Hồ Chí Minh.",
+  "provinceNote": "Tourism pages and the museum still use Ba Ria–Vung Tau. Ho May and a 2026 festival report use Phường Vũng Tàu, Thành phố Hồ Chí Minh.",
   "lat": 10.3508,
   "lng": 107.07,
   "dots": 4,
   "dotReason": "Worth the night out of Ho Chi Minh City for Back Beach and the statue.",
   "summary": "A beach city on a peninsula near Ho Chi Minh City, with sandy bays and a hilltop Christ statue. Swim at Back Beach, climb to the Christ statue, ride the cable car to Ho May park, and eat banh khot, crisp mini pancakes. One or two nights suits families and weekend escapes from the city.",
   "timeNeeded": "1–2 nights",
-  "fee": "Back Beach has no ticket on the tourism pages. Christ the King is free on the Vietnam Tourism page.",
-  "getThere": "About 100 km from Ho Chi Minh City, about two hours on the tourism line. Traffic is check on arrival.",
-  "bestMonths": "Check on arrival",
-  "verified": "21 Oct 2026",
+  "fee": "Back Beach: no ticket. Christ the King: free.",
+  "getThere": "About 100 km from Ho Chi Minh City, about two hours. About 95 km from Bien Hoa.",
+  "bestMonths": "Morning swim; lunar month 8 for the whale rite",
+  "verified": "23 Oct 2026",
   "interests": {
     "food": 5,
     "beaches": 5,
@@ -26,27 +26,34 @@
     "family": 3
   },
   "cover": "coast",
-  "nearby": ["ho-chi-minh-city"],
+  "nearby": [
+    "ho-chi-minh-city"
+  ],
   "foodSlug": "vung-tau",
-  "routeSlugs": ["ho-chi-minh-city-to-vung-tau"],
-  "itinerarySlugs": ["vung-tau-day", "vung-tau-two-days"],
-  "seoTitle": "Vung Tau travel guide — beach, statue, and the ride",
-  "seoDescription": "Back Beach is the swim, with the 32 m Christ on Small Mountain. Ho Chi Minh City is about 100 km and two hours. Mary on Big Mountain is a different figure.",
+  "routeSlugs": [
+    "ho-chi-minh-city-to-vung-tau"
+  ],
+  "itinerarySlugs": [
+    "vung-tau-day",
+    "vung-tau-two-days"
+  ],
+  "seoTitle": "Vung Tau travel guide — Back Beach, the Christ statue, seafood",
+  "seoDescription": "Swim on Back Beach, then the white Christ on Small Mountain. Eat bánh khọt, stingray hotpot, and the night catch on the sand. Ho Chi Minh City is about 100 km, about two hours.",
   "intro": [
-    "You wake on Back Beach to a low surf, a hotel line along the sand, and Small Mountain at the end of the bay. The other picture is the white Christ figure on that headland, arms out. Stay here if the beach and that statue are the trip. Go back to Ho Chi Minh City if you wanted the city and only borrowed a beach afternoon.",
-    "Swim on Back Beach. Vietnam Tourism describes the waves as fairly flat and suitable for children. Front Beach, the arc between the two mountains, is the evening walk and a drink after dark. The mistake is to photograph Mary, holding a child on Big Mountain, and caption her as the Christ statue. Both figures are printed at 32 metres.",
-    "Eat bánh khọt on Nguyễn Trường Tộ, one cake at a time with herbs and fish sauce. The stingray pot, crab bánh canh, and squid hủ tiếu are the other bowls Vietnam Tourism names. After the swim, the night seafood market is on the same sand: you choose the fish and the cooking. Where a price was not printed, it is Check on arrival."
+    "You wake on Back Beach to a low surf and a hotel line on the sand, with the white Christ on Small Mountain at the end of the bay and a seafood table after the swim. Stay the night if that beach, that statue, and the catch are the trip. Sleep in Ho Chi Minh City if the city is the trip, and ride down when you can give the peninsula a day.",
+    "Swim on Back Beach in the morning. The waves are fairly flat and suitable for children. Front Beach, the arc between Big Mountain and Small Mountain, is the evening walk and a drink after dark. The mistake is to photograph Mary, holding a child on Big Mountain, and caption her as the Christ. Both stand 32 metres.",
+    "Eat bánh khọt on Nguyễn Trường Tộ, one cake at a time, herbs around it and fish sauce on the side. The stingray pot, crab bánh canh, and squid hủ tiếu are the other bowls. After the swim, the night seafood market is on the same sand: you choose the fish and the cooking."
   ],
   "gettingAround": [
-    "Ho Chi Minh City is the usual previous stop. The provincial catalogue prints about 100 km by the Long Thanh–Ho Chi Minh City expressway, and about 95 km from Bien Hoa. Vietnam Tourism prints just 100 kilometres and just two hours. A minute table for traffic was not on those pages. Treat about two hours as the tourism-board figure.",
-    "Phương Trang (FUTA) and Hoa Mai are the bus companies Vietnam Tourism names. Hoa Mai luxury tickets are printed at 150,000 VND from 83 Nguyễn Thái Bình on that page. No 2026 timetable was opened, so the fare and the clock are check on arrival.",
-    "The high-speed ferry is GreenlinesDP. Saigon boarding from 28 August 2025 is Pier 4, opposite Hàm Nghi, 50 metres from the Thủ Ngư flagpole. Vietnam Tourism still sends readers to Bến Nhà Rồng and prints tickets of 120,000–250,000 VND, with a landing at Front Beach and a hydrofoil of roughly two hours. The operator’s 1 July 2026 notice prints weekday adults at 320,000 VND and weekend adults at 350,000 VND. The booking page’s child ages do not match that notice. Sailing minutes, and the Vũng Tàu pier, are check on arrival. Weather, tide, and a technical hold can cancel a boat.",
-    "On the peninsula, a motorbike taxi can reach the Christ statue. Walks the sources describe are the Back Beach sand, the seafront pavement, and the hill paths to Villa Blanche and the statue. Fares are check on arrival. Tan Son Nhat is Ho Chi Minh City’s airport. Minutes from the airport to Vung Tau are check on arrival. No rail station is named for Vung Tau."
+    "Ho Chi Minh City is the usual previous stop. The road is about 100 km by the Long Thanh–Ho Chi Minh City expressway, and about 95 km from Bien Hoa. Count about two hours for the ride.",
+    "Phương Trang (FUTA) and Hoa Mai are the buses. FUTA sells at the Đề Thám office. A Hoa Mai luxury ticket is 150,000 VND from 83 Nguyễn Thái Bình.",
+    "The high-speed ferry is GreenlinesDP. From 28 August 2025, Saigon boarding is Pier 4, opposite Hàm Nghi, 50 metres from the Thủ Ngư flagpole. An older note still sends you to Bến Nhà Rồng, with tickets of 120,000–250,000 VND, a landing at Front Beach, and a hydrofoil of roughly two hours. The 1 July 2026 notice lists weekday adults at 320,000 VND, down from 350,000 VND, and weekend adults at 350,000 VND; seniors 63 and over, and children 6–11, are 270,000 VND on weekdays and 300,000 VND on weekends. The booking page instead lets children under 6 ride free and uses a reduced band of ages 6–12 and over 63. Confirm the sailing time and the Vung Tau pier when you book. Weather, tide, and a technical hold can cancel a boat.",
+    "On the peninsula, a motorbike taxi can reach the Christ statue. Walk the Back Beach sand, the seafront pavement, and the hill paths to Bach Dinh and the statue. Tan Son Nhat, in Ho Chi Minh City, is the airport you use. Vung Tau has no named rail station."
   ],
   "stayAreas": [
     {
       "name": "Back Beach",
-      "summary": "Beachfront hotels where Vietnam Tourism puts the high-end rooms, restaurants, and beach clubs. No hotel brand.",
+      "summary": "Beachfront hotels, restaurants, and beach clubs along the sand where you swim.",
       "band": "Beachfront",
       "photo": "vung-tau-back-beach"
     },
@@ -58,7 +65,7 @@
     }
   ],
   "eat": [
-    "Bánh khọt is the snack Vietnam Tourism says a Vung Tau trip is incomplete without. Eat it on Nguyễn Trường Tộ, one cake at a time, herbs around it, sauce on the side. The stingray pot, crab bánh canh, squid hủ tiếu, and the Back Beach night market are the other meals. Where a price was not printed, it is Check on arrival."
+    "Bánh khọt is the snack a Vung Tau trip turns on. Eat it on Nguyễn Trường Tộ, one cake at a time, herbs around it, sauce on the side. Then the stingray pot, crab bánh canh, squid hủ tiếu, and the Back Beach night market, where you choose the fish and the cooking."
   ],
   "dishSlugs": [
     "banh-khot",
@@ -68,13 +75,13 @@
     "bun-rieu-tom",
     "hu-tieu-muc",
     "goi-ca-mai",
-    "chao-hau",
+    "vung-tau--chao-hau",
     "oc-vung-tau",
     "hau-nuong-pho-mai",
     "banh-canh-cha-ca",
     "bun-sua",
     "goi-cuon-tom",
-    "bun-oc",
+    "vung-tau--bun-oc",
     "lau-tom-5-ri",
     "banh-bong-lan-trung-muoi",
     "banh-mi-bo-nuong",
@@ -104,10 +111,10 @@
     },
     {
       "title": "Back Beach morning",
-      "summary": "The swim Vietnam Tourism tells families to use, because the waves are described as flat.",
+      "summary": "The morning swim, with fairly flat waves and the hotel line on the sand.",
       "body": [
-        "Walk the sand at the start of the day, then swim, then an umbrella. Vietnam Tourism calls the waves fairly flat and suitable for children, and puts hotels, restaurants, and beach clubs along this strand.",
-        "Surf, stand-up paddle, and kite surf are named from the sand. Umbrella hire and water-sport hire have no printed price. Check on arrival. Vietnam Tourism prints the beach at 3 km. A single agreed length was not copied."
+        "Walk the sand at the start of the day, then swim, then an umbrella. The waves are fairly flat and suitable for children. Hotels, restaurants, and beach clubs line this strand.",
+        "Surf, stand-up paddle, and kite surf start from the sand. Back Beach runs 3 km."
       ],
       "cards": [
         {
@@ -121,10 +128,10 @@
     },
     {
       "title": "Front Beach after dark",
-      "summary": "The arc between the two mountains, kept for the evening walk and a drink.",
+      "summary": "The arc between the two mountains, for sunrise and a drink after dark.",
       "body": [
-        "Front Beach is the southwest arc between Big Mountain and Small Mountain. The provincial page ties the name Tam Duong to looking for the sun, and says sunrise is the moment, while sunset is still bright on this water. Vietnam Tourism calls the evening lively and adds a drink after dark.",
-        "No bar is named. Drink prices and a closing hour are check on arrival. The 2026 whale procession left this park at 5:30. That is the festival morning, not an ordinary evening."
+        "Front Beach is the southwest arc between Big Mountain and Small Mountain. The name Tam Duong is tied to looking for the sun: sunrise is the moment, and sunset is still bright on this water. The evening is lively, with a drink after dark.",
+        "In 2026 the whale boats left this park at 5:30. That is the festival morning, not an ordinary evening."
       ],
       "cards": [
         {
@@ -140,13 +147,13 @@
       "title": "The white statue",
       "summary": "Christ the King, 32 metres, on Small Mountain above Pineapple Beach.",
       "body": [
-        "The figure people mean is Christ the King, arms out, on Small Mountain. Vietnam Tourism dates it to 1974, prints it at 32 metres, and counts about 800 steps to the feet and about 100 more to the shoulders. Entry is free on that page.",
-        "Mary on Big Mountain is also printed at 32 metres and is not this statue. The lighthouse is the early-twentieth-century tower on this same headland. Its hours and fee did not load, so it is not a separate page."
+        "The figure is Christ the King, arms out, on Small Mountain. It dates to 1974, stands 32 metres, and the climb is about 800 steps to the feet and about 100 more to the shoulders. Entry is free. A motorbike taxi can take you up if you skip the steps.",
+        "Mary on Big Mountain is also 32 metres, holding a child, and she is a different figure. The lighthouse shares this headland: one line places the tower in the early twentieth century, and another calls it the oldest lighthouse in Vietnam. Come at sunset for the view over the sea."
       ],
       "cards": [
         {
           "title": "Christ the King",
-          "summary": "Both arms, the head, and the climb. Free on the Vietnam Tourism page. A motorbike taxi is the alternative to the steps.",
+          "summary": "Both arms, the head, and the climb. Entry is free. A motorbike taxi is the alternative to the steps.",
           "attractionSlug": "christ-statue",
           "photo": "vung-tau-christ-statue",
           "icon": "view"
@@ -157,13 +164,13 @@
       "title": "White Villa",
       "summary": "Bach Dinh, started in 1898, on the Front Beach side of Big Mountain.",
       "body": [
-        "Stop at the white villa on the walk toward the Big Mountain summit. Work started in 1898. The museum page prints two hour blocks and no ticket price. The building is printed at 4 Trần Phú and the relic list at 6 Trần Phú.",
-        "The French guns on the same hill are a separate relic. A licensed frame of those cannons in the open was not found, so they are not a card. Confirm the gate at the door."
+        "Stop at the white villa on the afternoon walk toward the Big Mountain summit. Work started in 1898. It is a late-1800s house, now a museum of local artefacts, with gardens and verandas toward the sea. The building is given as 4 Trần Phú, and the relic list as 6 Trần Phú.",
+        "One hour line is Tuesday–Friday 7:30–11:30 and 13:30–17:00, with Saturday–Sunday 7:30–17:00. Another is Tuesday–Sunday 8:00–17:00. The door is closed Monday. The French battery on the same hill still has six cannons, each about four metres and over 15 tons."
       ],
       "cards": [
         {
           "title": "Bach Dinh",
-          "summary": "The white villa and the garden stair. Afternoon, on the way up the hill. The two hour lines do not match.",
+          "summary": "The white villa and the garden stair, on the way up the hill in the afternoon.",
           "attractionSlug": "bach-dinh",
           "photo": "vung-tau-bach-dinh",
           "icon": "museum"
@@ -179,8 +186,8 @@
           "heading": "Mary and the pagoda",
           "nav": "Figures",
           "paragraphs": [
-            "Our Lady of Mulberry Beach is the white Mary holding the child, on the slope above Bãi Dâu. The catalogue prints the statue built in 1992, 32 metres, at 60 metres above the sea. She is not Christ the King.",
-            "Thích Ca Phật Đài is the pagoda complex on Trần Phú: a seated figure, a 12 metre reclining figure, and the sculptures of Siddhartha’s life. The decision dates on the museum article and the catalogue do not match."
+            "Our Lady of Mulberry Beach is the white Mary holding the child, on the slope above Bãi Dâu. The statue was built in 1992, stands 32 metres at 60 metres above the sea, and was inaugurated on 31 December 1994. She is not Christ the King.",
+            "Thích Ca Phật Đài is the pagoda complex on Trần Phú: a seated figure, a 12 metre reclining figure, and the sculptures of Siddhartha’s life. It is a separate visit from the Christ statue."
           ]
         },
         {
@@ -188,14 +195,14 @@
           "heading": "The cable car",
           "nav": "Cable car",
           "paragraphs": [
-            "Ho May’s lower station is 1A Trần Phú. The scenic ticket is the round trip and the Royal Garden viewpoint, adults 100,000 VND. The full visit is adults 475,000 VND and adds the rides. Park hours are 8:00–22:00 on both operator pages. Buy the ticket that matches the visit."
+            "Ho May’s lower station is 1A Trần Phú. The scenic ticket is the round trip and the Royal Garden viewpoint: adults 100,000 VND, children 50,000 VND. The full visit adds the rides: adults 475,000 VND, children 237,500 VND. The child price is for 1 m to 1.3 m; under 1 m is free. Park hours are 8:00–22:00. Rides are 8:00–18:00. Buy the ticket that matches the visit."
           ]
         }
       ],
       "cards": [
         {
           "title": "Our Lady of Mulberry Beach",
-          "summary": "Mary holding the child, full figure, on Big Mountain. Same printed height as Christ, different hill.",
+          "summary": "Mary holding the child, full figure, on Big Mountain. Also 32 metres, on a different hill from Christ.",
           "attractionSlug": "duc-me",
           "photo": "vung-tau-duc-me",
           "icon": "view",
@@ -223,8 +230,8 @@
       "title": "The whale rite",
       "summary": "Fishermen greet the whale at Thắng Tam. On an ordinary day you see the hall.",
       "body": [
-        "The communal house and the whale hall worship the whale as Nam Hải. The catalogue dates the hall to the reign of Minh Mạng, 1820–1840. The relic list prints 104 Hoàng Hoa Thám.",
-        "The rite is the 16th of the 8th lunar month. In 2026 the public days were 26 and 27 September, and the boats left Front Beach at 5:30. The next solar date moves. Check on arrival. Hòn Bà, the rock at the end of Back Beach, is a low-tide crossing, not a boat you can take at any hour."
+        "The communal house and the whale hall worship the whale as Nam Hải. The hall dates to the reign of Minh Mạng, 1820–1840, at 104 Hoàng Hoa Thám.",
+        "The rite is the 16th of the 8th lunar month. In 2026 the public days were 26 and 27 September, and the boats left Front Beach at 5:30. The next solar date follows the moon. Hòn Bà, the shrine rock at the end of Back Beach, is a low-tide crossing. Festival mornings there are about 5:00–9:00."
       ],
       "cards": [
         {
@@ -236,7 +243,7 @@
         },
         {
           "title": "Hon Ba",
-          "summary": "The shrine rock off the end of Back Beach. Cross only at low tide. Festival mornings are 5:00–9:00 in the catalogue.",
+          "summary": "The shrine rock off the end of Back Beach. Cross only at low tide. Festival mornings are about 5:00–9:00.",
           "attractionSlug": "hon-ba",
           "photo": "vung-tau-hon-ba",
           "icon": "view"
@@ -247,11 +254,11 @@
   "faqs": [
     {
       "q": "Where should I swim in Vung Tau?",
-      "a": "Back Beach. Vietnam Tourism describes the waves as fairly flat and suitable for children. Front Beach is the evening walk along the arc between the two mountains, not that swim."
+      "a": "Back Beach. The waves are fairly flat and suitable for children. Front Beach is the evening walk along the arc between the two mountains, not that swim."
     }
   ],
   "season": {
-    "label": "Check on arrival",
-    "note": "A dry-month or wet-month table for the peninsula was not on the Vung Tau pages used here. GreenlinesDP does not compensate when weather, tide, a natural disaster, or a technical or security hold delays or cancels a boat."
+    "label": "Whale boats at 5:30",
+    "note": "The Nghinh Ông rite falls on the 16th of the 8th lunar month. In 2026 the public days were 26 and 27 September: boats left Front Beach at 5:30, and the next solar date follows the moon. Hòn Bà’s festival mornings are the 15th of the 1st, 4th, 7th, and 10th lunar months, with the low-tide walk about 5:00–9:00. GreenlinesDP does not compensate when weather, tide, a natural disaster, or a technical or security hold delays or cancels a boat."
   }
 }
