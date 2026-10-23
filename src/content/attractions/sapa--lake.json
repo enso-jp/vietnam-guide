@@ -1,0 +1,45 @@
+{
+  "slug": "lake",
+  "placeSlug": "sapa",
+  "name": "Sa Pa Lake",
+  "nameVi": "Hồ Sa Pa",
+  "kicker": "Town lake under the hill",
+  "summary": "Town lake under the hill: walk the shore in the evening for the water, the lights, and the grill stalls. Cold nights gather the grills along this water and on the road down to the market. Come for the shore and the food, and stay in town so the walk is short. A clock and the stall prices are for the evening you find.",
+  "dots": 3,
+  "district": "Town center",
+  "timeNeeded": "An evening",
+  "fee": "Check on arrival",
+  "getThere": "Walk from the stone church. The lake is in town.",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Sa Pa Lake, the town front, and the ridge",
+  "body": [
+    "Hồ Sa Pa sits in town, with the buildings and the ridge behind the water. Walk the shore in daylight for the reflection, or at dusk when the lights come on along the rail.",
+    "On a cold night the grills gather here and on the road that leads down to the market. Plates at those stalls include grilled salmon, pork skewers, chicken wings, beef with enoki, eggs, and chestnuts. The visit is the water and the food."
+  ],
+  "figures": [
+    {
+      "id": "sapa-lake-2",
+      "caption": "The lake shore at dusk, with lights on the hill",
+      "alt": "Sa Pa Lake at dusk with lights reflecting on the water and the town hill behind"
+    }
+  ],
+  "gettingThere": [
+    "The lake is in town, a walk from the stone church. On a cold night the grills sit on this shore and on the road down to the market."
+  ],
+  "legs": [
+    {
+      "heading": "From the stone church",
+      "body": "Walk. The lake and the road down to the market are the cold-night grill stops."
+    }
+  ],
+  "hours": "Evening. Check on arrival.",
+  "admissionNote": "Food only. No lakeside ticket.",
+  "links": [
+    {
+      "label": "Vietnam National Authority of Tourism",
+      "url": "https://vietnamtourism.vn/index.php/news/items/15128",
+      "note": "Grills at hồ Sa Pa and the road down to the market"
+    }
+  ],
+  "interests": ["food", "photography"]
+}

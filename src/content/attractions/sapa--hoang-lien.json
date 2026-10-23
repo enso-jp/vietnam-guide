@@ -1,0 +1,56 @@
+{
+  "slug": "hoang-lien",
+  "placeSlug": "sapa",
+  "name": "Hoang Lien National Park",
+  "nameVi": "Vườn quốc gia Hoàng Liên",
+  "kicker": "Park of forest and summit trails",
+  "summary": "National park on the mountain: walk the Tram Ton trail, about 10.5 km in a day, for the forest and the ridge. Two longer routes start at Sin Chai and Cat Cat. Love Waterfall and the Golden Stream are the park’s other named stop, at 34 m. The cable car is a separate ticket on the Fansipan visit. December–April is the drier window for a trek.",
+  "dots": 4,
+  "district": "The mountain",
+  "timeNeeded": "A day on Tram Ton, or longer on the other routes",
+  "fee": "Check on arrival",
+  "getThere": "Tram Ton is the usual trailhead.",
+  "bestMonths": "December–April",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Forest and ridge in cloud at Hoang Lien",
+  "notice": {
+    "title": "The cable car is a separate ticket",
+    "body": "These trails are the walk. The Fansipan cable car, the scenic fee, and the summit train are charged on that visit."
+  },
+  "body": [
+    "Hoang Lien is the park that holds Fansipan and the forest around it. Most walkers use Tram Tôn to the summit, about 10.5 km, a medium route of one day or two days and one night, with an overnight at 2,800 m. Sín Chải is about 18 km over three days and two nights, with overnights at 2,200 m and 2,800 m. Cát Cát is more than 12 km over three days and two nights, steeper, with overnights at 2,600 m and 2,800 m.",
+    "The park’s other named stop is Love Waterfall on the Golden Stream, about 14 km from town on Highway 4D, 3 km from the O Quy Ho crest, 34 m high. A day visit is 70,000 đồng for an adult and 30,000 đồng for a child. December–April is the drier window. The park can be visited in any month, and snow is possible in winter.",
+    "The core is 29,845 ha and the buffer is 38,724 ha, from decision 90/2002/QĐ-TTg of 12 July 2002. The park is an ASEAN heritage park from 2006. An earlier reserve dates to 1996. Decision 194/CT of 9 August 1986 set 5,000 ha. The range runs from 1,000 to 3,000 m. The summit is 3,143 m."
+  ],
+  "figures": [
+    {
+      "id": "sapa-hoang-lien-2",
+      "caption": "Forest inside Hoang Lien National Park",
+      "alt": "Tall trees and undergrowth in the forest of Hoang Lien National Park"
+    }
+  ],
+  "gettingThere": [
+    "The park office is 89 Nguyễn Chí Thanh. The tourism center is tổ dân phố Cầu Mây 1, phường Sa Pa. Tram Tôn is the usual trailhead. The park covers San Sả Hồ, Lao Cải, Tả Van, and Bản Hồ, plus Phúc Khoa and Trung Đồng in Lai Chau."
+  ],
+  "legs": [
+    {
+      "heading": "From the stone church",
+      "body": "The office on Nguyễn Chí Thanh and the center at Cầu Mây are in town. Tram Tôn is the usual start of the walk."
+    }
+  ],
+  "hours": "Check on arrival",
+  "admissionNote": "Love Waterfall is 70,000 đồng for an adult and 30,000 đồng for a child. A 2012 rule barred visitors under 16 from the climb and from the old-forest route. Later fee rules leave that age bar off. The Fansipan cable car is a separate ticket.",
+  "links": [
+    {
+      "label": "Hoang Lien National Park",
+      "url": "https://vqghl.laocai.gov.vn/trang-chu",
+      "note": "Summit routes and Love Waterfall"
+    },
+    {
+      "label": "Love Waterfall",
+      "url": "https://hoanglienpark.com/tour/thac-tinh-yeu-5.html",
+      "note": "70,000 / 30,000 đồng for a day visit"
+    }
+  ],
+  "interests": ["mountains"]
+}

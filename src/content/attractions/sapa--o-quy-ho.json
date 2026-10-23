@@ -1,0 +1,50 @@
+{
+  "slug": "o-quy-ho",
+  "placeSlug": "sapa",
+  "name": "O Quy Ho pass",
+  "nameVi": "Đèo Ô Quy Hồ",
+  "kicker": "Pass on the Lai Chau road",
+  "summary": "Highway 4D pass: cross the switchbacks in daylight for the road, the drop, and the ridge above the falls. Silver Waterfall sits under the pass, about 12 km from town. Love Waterfall is about 14 km from town and about 3 km from the crest. The former Ô Quý Hồ ward is now part of phường Sa Pa. The pass itself is the highway.",
+  "dots": 2,
+  "district": "The pass",
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "National Highway 4D toward Lai Chau.",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Switchbacks of O Quy Ho, with the ridge and the drop",
+  "body": [
+    "O Quy Ho is the pass on National Highway 4D, the road toward Lai Chau. You cross the switchbacks for the drop and the ridge. Silver Waterfall is the fall under the pass, about 12 km from town and about 200 m high. Love Waterfall is about 14 km from town and about 3 km from the crest, at 34 m.",
+    "The former phường Ô Quý Hồ joined phường Sa Pa on 1 July 2025. The pass is still the highway, out past the church square. Cloud on the old QL4D climb is the limit on a given day. Ask about a closure before you commit the morning to the crest."
+  ],
+  "figures": [
+    {
+      "id": "sapa-o-quy-ho-2",
+      "caption": "The pass road in late light, with the ridge behind",
+      "alt": "Winding road of O Quy Ho pass in low sun, with forested ridges"
+    }
+  ],
+  "gettingThere": [
+    "The pass is on National Highway 4D toward Lai Chau. Silver Waterfall is under it, about 12 km from town. Love Waterfall is about 3 km from the crest."
+  ],
+  "legs": [
+    {
+      "heading": "From the stone church",
+      "body": "Take National Highway 4D toward Lai Chau. Silver Waterfall is the stop under the pass, about 12 km out."
+    }
+  ],
+  "hours": "Daylight. Check on arrival.",
+  "admissionNote": "Silver Waterfall and Love Waterfall have their own fees.",
+  "links": [
+    {
+      "label": "Silver Waterfall",
+      "url": "https://vietnamtourism.vn/index.php/tourism/items/2957",
+      "note": "The fall under O Quy Ho, about 12 km from town"
+    },
+    {
+      "label": "Hoang Lien National Park",
+      "url": "https://vqghl.laocai.gov.vn/trang-chu",
+      "note": "Love Waterfall about 3 km from the crest"
+    }
+  ],
+  "interests": ["mountains"]
+}

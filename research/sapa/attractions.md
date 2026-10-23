@@ -445,3 +445,17 @@ A bar street: none recorded. The pages opened for the town evening are the churc
 - Photo must show: A roof, terraces, and mist or a clear ridge, at morning
 - Unpublished: no licensed photo of a valley stay
 - Sources: S1, S29
+
+## Photo pass 23 Oct 2026
+
+Published with a licensed frame of that subject: Muong Hoa, Lao Chai, Ta Van, Ta Phin, Silver Waterfall, Sa Pa market, Sa Pa Lake, carved stones, O Quy Ho, Hoang Lien National Park, Muong Hoa funicular. Cat Cat waterfall gained a second frame. Per-sight notes are in `research/sapa/attractions/`.
+
+Unpublished: no licensed photo of the subject:
+
+- Ham Rong. `File:Cổng vào KDL núi Hàm Rồng, Sa Pa.jpg` is a welcome sign. `File:Công viên Sapa - panoramio.jpg` is a town square. The Ham Rong / Ta Phin / QL4D series is a road album, not the orchid garden or the rock.
+- Love Waterfall. No Commons file of the 34 m fall. `File:Suối Vàng - Hoang Lien National Park.jpg` is a weir with a painted name.
+- Ban Ho. No file.
+- Y Linh Ho. `File:Vietnam-Sapa-Y Linh Ho village-P1070238.jpg` is a street of people, and it is the only frame.
+- Fansipan on foot, as its own card. `File:Vuon QG Hoang Lien 2.jpg` is hikers as specks in fog. The trails are on the Hoang Lien page. A second cable-car card was not added. The funicular is the short train, sold separately.
+
+The stored `sapa-ta-van` credit pointed at the gorge file `Ta_Van_Muong_Ha_vallei_(70294).jpg`. That frame is the wrong subject. The key now matches `Rice terraces in Tả Van 04.jpg`.

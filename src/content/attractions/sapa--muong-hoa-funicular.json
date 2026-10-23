@@ -1,0 +1,55 @@
+{
+  "slug": "muong-hoa-funicular",
+  "placeSlug": "sapa",
+  "name": "Muong Hoa funicular",
+  "nameVi": "Tàu hỏa leo núi Mường Hoa",
+  "kicker": "Five-minute train to the cable station",
+  "summary": "Mountain train from Sun Plaza: ride about five minutes to Hoang Lien station, toward the cable car. The line crosses two tunnels and four viaducts, and it is the longest of its kind in Vietnam. It opened on 31 March 2018 and runs about 2 km. Buy this ride on its own. The cable-car ticket is a different purchase.",
+  "dots": 2,
+  "district": "The mountain",
+  "timeNeeded": "About five minutes",
+  "fee": "Check on arrival",
+  "getThere": "Sun Plaza to Hoang Lien station.",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The Muong Hoa train on its viaduct at dusk",
+  "notice": {
+    "title": "Buy this ride on its own",
+    "body": "The cable-car ticket, the summit train, and this funicular are separate purchases. The fare is posted at the station."
+  },
+  "body": [
+    "The Muong Hoa train runs from Sun Plaza to Hoang Lien station, the stop for the cable car. The ride is about five minutes. It crosses two tunnels and four viaducts. It is the longest of its kind in Vietnam. The line is about 2 km and opened on 31 March 2018.",
+    "This is the short train at the edge of town. The night train from Hanoi ends at Lao Cai. The cable car from Nguyễn Chí Thanh is the next ride, with its own ticket and its own clock. Pair the funicular with a cable-car day, and read that morning’s departure board before you buy."
+  ],
+  "figures": [
+    {
+      "id": "sapa-muong-hoa-funicular-2",
+      "caption": "The train crossing the viaduct at night",
+      "alt": "A lit mountain train crossing a steel viaduct at night in Sa Pa"
+    }
+  ],
+  "gettingThere": [
+    "The Muong Hoa train is sold separately from the cable car and runs from Sun Plaza to Hoang Lien station. The ride is about five minutes, with two tunnels and four viaducts."
+  ],
+  "legs": [
+    {
+      "heading": "From the stone church",
+      "body": "Go to Sun Plaza for the train to Hoang Lien station. The cable car starts at the station end."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Weather can close the cable car, which is the reason most people ride this train. Check that morning.",
+  "admissionNote": "The fare is separate from the cable car and from the summit train. An out-of-province cable-car adult is 750,000 đồng, or 850,000 đồng for a round trip.",
+  "links": [
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/things-to-do/why-fansipan-must-do-sapa",
+      "note": "Five minutes, two tunnels, four viaducts"
+    },
+    {
+      "label": "Fansipan visit",
+      "url": "https://sunworld.vn/vi/fansipan/check-in/cam-nang-trai-nghiem-sun-world-fansipan",
+      "note": "Muong Hoa train sold separately from the cable car"
+    }
+  ],
+  "interests": ["mountains"]
+}
