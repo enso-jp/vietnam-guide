@@ -49,9 +49,9 @@
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "stale",
-      "note": "Dossier changed. Check again after the copy pass.",
-      "updated": "2026-10-23T08:54:21.184Z",
+      "status": "checked",
+      "note": "Read the food guide and all 22 dish records against the dossier. Hero is the Chau Doc mam stalls (CC BY-SA 3.0). Market clock 05:30-18:00 and 7:00 busy line match S16 and S33. Every priceBand stays Check on arrival. Stale came from the 23 Oct researchFood store running after the first check; food and foodCopy were redone, this read was not, and the hold kept the dispatcher off it.",
+      "updated": "2026-10-23T15:46:01.399Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -343,9 +343,9 @@
       "research": "stored",
       "page": "paged",
       "copy": "enriched",
-      "quality": "not_started",
-      "note": "VnExpress prints 05:30–18:00. Vietnam Tourism does not print a clock. Street number still check on arrival.",
-      "updated": "2026-10-23T08:54:21.184Z",
+      "quality": "checked",
+      "note": "Both photos are the signed Cho Chau Doc halls, center crop holds, credits CC BY-SA 3.0 and 4.0. VnExpress prints 05:30-18:00; Vietnam Tourism prints no clock. Fee, street number, and bowl price stay Check on arrival; the two VnExpress bowl prices disagree and both are named. Owner note: the body still narrates sources where nothing disagrees.",
+      "updated": "2026-10-23T15:46:07.112Z",
       "reworkCount": 0
     },
     {
@@ -641,6 +641,22 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-23T15:46:07.113Z",
+      "place": "chau-doc",
+      "stage": "quality",
+      "item": "chau-doc--chau-doc-market",
+      "status": "checked",
+      "note": "Both photos are the signed Cho Chau Doc halls, center crop holds, credits CC BY-SA 3.0 and 4.0. VnExpress prints 05:30-18:00; Vietnam Tourism prints no clock. Fee, street number, and bowl price stay Check on arrival; the two VnExpress bowl prices disagree and both are named. Owner note: the body still narrates sources where nothing disagrees."
+    },
+    {
+      "at": "2026-10-23T15:46:01.399Z",
+      "place": "chau-doc",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Read the food guide and all 22 dish records against the dossier. Hero is the Chau Doc mam stalls (CC BY-SA 3.0). Market clock 05:30-18:00 and 7:00 busy line match S16 and S33. Every priceBand stays Check on arrival. Stale came from the 23 Oct researchFood store running after the first check; food and foodCopy were redone, this read was not, and the hold kept the dispatcher off it."
+    },
+    {
       "at": "2026-10-23T08:54:21.260Z",
       "place": "chau-doc",
       "stage": "foodCopy",
@@ -783,22 +799,6 @@
       "item": "chau-doc--mam",
       "status": "skipped",
       "note": "No licensed photo of the bowl. Named in the food text, not a card."
-    },
-    {
-      "at": "2026-10-21T16:59:43.059Z",
-      "place": "chau-doc",
-      "stage": "quality",
-      "item": "chau-doc--bun-ca",
-      "status": "skipped",
-      "note": "Left unpublished. No licensed photo."
-    },
-    {
-      "at": "2026-10-21T16:59:43.030Z",
-      "place": "chau-doc",
-      "stage": "copy",
-      "item": "chau-doc--bun-ca",
-      "status": "skipped",
-      "note": "No page to copy. No licensed photo."
     }
   ]
 }

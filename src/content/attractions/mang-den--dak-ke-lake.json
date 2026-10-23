@@ -4,22 +4,22 @@
   "name": "Dak Ke Lake",
   "nameVi": "Hồ Đắk Ke",
   "kicker": "The best-known lake on the plateau",
-  "summary": "Walk the shore of Dak Ke, the lake Vietnam Tourism treats as the famous one in Mang Den. Canoeing, fishing, and a nhà rông are on that description. The gate fee and any boat price are Check on arrival. Skip it if you only have time for Pa Sy.",
+  "summary": "Get to Dak Ke in the first hour of light, while mist still sits on the water and the shore path is quiet. It is the best-known of Mang Den’s lakes: walk the shore, take a canoe out or fish where it is offered, and find the traditional nhà rông by the water. If you have one morning and want a waterfall, go to Pa Sy instead.",
   "dots": 4,
   "district": "The lakes",
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
   "getThere": "Short drive from Mang Den town",
   "verified": "23 Oct 2026",
-  "heroCaption": "An old boat on Dak Ke lake, under blossom branches",
+  "heroCaption": "A waterlogged boat under blossom branches on Dak Ke lake",
   "notice": {
-    "title": "This lake is not the Pa Sy ticket",
-    "body": "Pa Sy is a separate gate, about 9 km from town. Dak Ke’s own fee is Check on arrival."
+    "title": "The Pa Sy ticket does not cover this lake",
+    "body": "Pa Sy is a separate stop about 9 km from town, with its own gate."
   },
   "body": [
-    "Walk the shore while the water is still. Vietnam Tourism names canoeing and fishing where they are offered, and a traditional nhà rông beside the lake. The frame you see first is an old boat under the branches. How long the shore takes is Check on arrival.",
-    "Come in the morning if you want the calm hour. Vietnam Tourism pitches cloud hunting at dawn on the plateau and does not print a lake season of its own. Skip the lake when Pa Sy already has the day. Do not treat every lake name on a blog as a second ticketed gate.",
-    "Toong Dam is the other lake Vietnam Tourism names, a quiet shore of old trees. Its fee is Check on arrival, the same as Dak Ke. The smaller Dak Ke waterfall sits nearer the lake than Pa Sy does. Vietnam Tourism says you can swim once you reach it, and that the signs are poor. The fall’s fee is Check on arrival."
+    "Come early. The plateau is known for cloud at dawn, and Dak Ke is at its stillest before the day warms up. Walk the shore path under the trees, past old boats sitting low in the water, and look for the traditional nhà rông standing beside the lake.",
+    "Canoeing and fishing are offered on the lake. Ask at the shore what is running that morning. Then drive back through town, and spend the afternoon at Kon Pring on Highway 24 or on the 200 steps up to Khanh Lam pagoda.",
+    "Two quieter waters are nearby. The smaller Dak Ke waterfall is more remote, with a natural pool you can swim in once you reach it. The signs are poor, so ask in town for the path. Toong Dam is the still lake ringed by old trees, for a slower walk after Dak Ke."
   ],
   "figures": [
     {
@@ -29,31 +29,35 @@
     }
   ],
   "gettingThere": [
-    "Dak Ke is in the Mang Den ecotourism area, a short drive from the town strip. Vietnam Tourism does not print the minutes or a fare. Check on arrival. Pa Sy, the ticketed fall, is a different stop about 9 km from town."
+    "Dak Ke is a short drive from the Mang Den town strip. Go by hired car, motorbike taxi, or rented motorbike, or ask your lodge for a driver. Pa Sy, the ticketed fall, is a different stop about 9 km from town."
   ],
   "legs": [
     {
       "heading": "From Mang Den town",
-      "body": "By car or motorbike. Vietnam Tourism calls it a short drive and does not print the minutes. Check on arrival."
+      "body": "A short drive by car or motorbike."
     },
     {
       "heading": "From Kon Tum city",
-      "body": "Vietnam Tourism puts Mang Den about 60 km northeast of Kon Tum city on Highway 24. The lake is a further short drive from town. Minutes and the fare are Check on arrival."
+      "body": "About 60 km northeast up Highway 24 to Mang Den town by car or motorbike, then the short drive to the shore."
+    },
+    {
+      "heading": "From Pleiku airport",
+      "body": "About 100 km by road to Mang Den town by hired car or taxi, then the short drive to the shore."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly closing day is printed. Check on arrival.",
-  "admissionNote": "Vietnam Tourism does not print a lake ticket, a child rule, or a boat price. Check on arrival. Do not budget the Pa Sy gate as this lake. The Mang Den portal of Quảng Ngãi sets Pa Sy adults at 50,000 VND and children at 25,000 VND from 30 May 2026. Việt Úc Tourist still prints 20,000 VND for that fall.",
+  "closed": "Check on arrival",
+  "admissionNote": "Ask at the shore about canoe and fishing charges. The Pa Sy ticket does not cover the lake.",
   "links": [
     {
       "label": "Vietnam Tourism on Mang Den",
       "url": "https://vietnam.travel/things-to-do/discover-mang-den-vietnam",
-      "note": "Vietnam Tourism. Names the lake, canoeing, fishing, and the nhà rông."
+      "note": "The lake, canoeing, fishing, and the nhà rông."
     },
     {
       "label": "Kon Plông on Vietnam Tourism",
       "url": "https://vietnamtourism.vn/en/index.php/news/items/17576",
-      "note": "Puts Mang Den about 60 km northeast of Kon Tum city."
+      "note": "Mang Den is about 60 km northeast of Kon Tum city."
     }
   ],
   "interests": [
