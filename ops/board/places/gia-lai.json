@@ -318,7 +318,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "gia-lai",
+    "stage": "destinationCopy",
+    "item": null,
+    "at": "2026-10-23T06:11:18.674Z",
+    "by": "hourly",
+    "branch": ""
+  },
   "log": [
     {
       "at": "2026-10-21T11:21:03.371Z",
