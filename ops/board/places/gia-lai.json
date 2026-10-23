@@ -61,9 +61,9 @@
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:20:54.845Z",
+      "status": "enriched",
+      "note": "Place prose and Biển Hồ hero. Dining chip removed. Tea hills, Dai Doan Ket, and the gong festival card omitted: the files on disk were the lake, a museum interior, and that same interior.",
+      "updated": "2026-10-23T06:21:53.646Z",
       "reworkCount": 0
     },
     "destinationQuality": {
@@ -320,13 +320,21 @@
   "questions": [],
   "claim": {
     "place": "gia-lai",
-    "stage": "destinationCopy",
+    "stage": "destinationQuality",
     "item": null,
-    "at": "2026-10-23T06:11:18.674Z",
+    "at": "2026-10-23T06:21:53.783Z",
     "by": "hourly",
     "branch": ""
   },
   "log": [
+    {
+      "at": "2026-10-23T06:21:53.646Z",
+      "place": "gia-lai",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Place prose and Biển Hồ hero. Dining chip removed. Tea hills, Dai Doan Ket, and the gong festival card omitted: the files on disk were the lake, a museum interior, and that same interior."
+    },
     {
       "at": "2026-10-21T11:21:03.371Z",
       "place": "gia-lai",
