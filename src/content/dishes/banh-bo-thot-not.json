@@ -3,7 +3,7 @@
   "name": "Palm-sugar cake",
   "nameVi": "Bánh bò thốt nốt",
   "summary": "Bánh bò thốt nốt is a yellow steamed cake of palm sugar, palm-fruit flour, rice flour, and coconut milk, made from the palms on the plain around town. It is the sweet to reach for when you want sugar in Châu Đốc.",
-  "origin": "The Bảy Núi plain, where people have long made palm juice, palm sugar, and this cake from the same tree. VnExpress says the cake tastes most like itself in Châu Đốc.",
+  "origin": "The Bảy Núi plain, where people have long made palm juice, palm sugar, and this cake from the same tree. The cake tastes most like itself in Châu Đốc.",
   "texture": [
     "The cake is usually a handsome yellow."
   ],
@@ -14,7 +14,9 @@
     "In town, and on the roads toward Núi Sam, where the palms stand."
   ],
   "priceBand": "Check on arrival",
-  "placeSlugs": ["chau-doc"],
+  "placeSlugs": [
+    "chau-doc"
+  ],
   "verified": "23 Oct 2026",
   "seoTitle": "Banh bo thot not in Chau Doc",
   "seoDescription": "Bánh bò thốt nốt is the yellow palm-sugar cake of Châu Đốc, made with palm-fruit flour, rice flour, and coconut milk."
