@@ -4,21 +4,21 @@
   "name": "Hon Ba",
   "nameVi": "Hòn Bà",
   "kicker": "A shrine rock, only at low tide",
-  "summary": "Cross the rocks at low tide to the shrines on the islet at the end of Back Beach. The catalogue gives four festival mornings, the 15th of the 1st, 4th, 7th, and 10th lunar months, and a low-water window of 5:00–9:00. Go at high tide and the path is gone. Minutes on the rock, and any fee, are check on arrival.",
+  "summary": "A small shrine islet off the end of Back Beach: walk out over the rocks at low tide for a short visit. The shrines honour Bà, the patroness of sailors. On the four festival mornings, the 15th of lunar months 1, 4, 7, and 10, people cross between 5:00 and 9:00. At high tide the path is under water.",
   "dots": 3,
-  "timeNeeded": "The crossing. Minutes are check on arrival.",
+  "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
-  "getThere": "The south end of Back Beach, and only at low tide.",
+  "getThere": "The south end of Back Beach, at low tide.",
+  "district": "Back Beach",
   "verified": "21 Oct 2026",
   "heroCaption": "Hon Ba, the shrine roofs on the rock, with the sea around it",
   "notice": {
     "title": "High tide closes the path",
-    "body": "Vietnam Tourism says you reach the shrines only at low tide. The path is the rocks. On the four festival mornings the catalogue’s window is 5:00–9:00."
+    "body": "You can only walk out at low tide, over the rocks. Check the tide before you go."
   },
   "body": [
-    "Hòn Bà is the rock islet at Mũi Nghinh Phong, at the end of Back Beach. Vietnam Tourism describes the crossing to the shrines of Miếu Bà, the sailors’ patroness. The photograph is that rock, the roofs, and the sea.",
-    "The catalogue sets festivals on the 15th of the 1st, 4th, 7th, and 10th lunar months, and says the low-water walk that morning is 5:00–9:00. Solar dates move. Check on arrival. The 2026 whale procession also sent boats along the shore toward this rock. That boat rite is not the same as walking out at low tide.",
-    "A fee is not printed. The crossing plus the shrine has no minute count on the pages used here. If the water is up, leave it and stay on Back Beach."
+    "Hòn Bà is the rock islet off Mũi Nghinh Phong, the point at the end of Back Beach. At low tide you cross the rocks to the shrines of Miếu Bà, the patroness of sailors, with the sea on both sides.",
+    "Festivals fall on the 15th of the 1st, 4th, 7th, and 10th lunar months. On those mornings the low-water window is about 5:00–9:00, and that is when people walk out. On other days, time it by the tide. If the water is up, stay on Back Beach and watch the rock from the shore park."
   ],
   "figures": [
     {
@@ -28,21 +28,20 @@
     }
   ],
   "gettingThere": [
-    "The islet is at the south end of Back Beach. You walk the rocks when the tide is low. There is no sourced boat for an ordinary visit. The festival boats in the 2026 whale report are a separate rite."
+    "Walk to the south end of Back Beach, at Mũi Nghinh Phong, and cross the rocks at low tide."
   ],
   "legs": [
     {
       "heading": "From Back Beach",
-      "body": "Walk to the south end, Mũi Nghinh Phong, and cross only at low tide. On festival mornings the catalogue prints 5:00–9:00. Minutes for the crossing are check on arrival."
+      "body": "Walk to the south end of the sand, then over the rocks at low tide."
     },
     {
       "heading": "From the Christ statue",
-      "body": "The statue is on Small Mountain above the meeting of Back Beach and Pineapple Beach. The rock is the far end of Back Beach. Ride minutes between them are not printed. Check on arrival."
+      "body": "Down from Small Mountain to the end of Back Beach."
     }
   ],
-  "hours": "Low tide. Festival mornings 5:00–9:00 in the catalogue. Other days, check the tide on arrival.",
-  "closed": "High tide. The path is the rocks.",
-  "admissionNote": "No fee is printed. Check on arrival. Solar dates of the 15th of lunar months 1, 4, 7, and 10 move.",
+  "hours": "Low tide only. Festival mornings about 5:00–9:00.",
+  "closed": "High tide",
   "links": [
     {
       "label": "Vietnam Tourism, Vung Tau",
@@ -52,7 +51,7 @@
     {
       "label": "Destination catalogue",
       "url": "https://diemden.baria-vungtau.gov.vn/places",
-      "note": "The four lunar dates and the 5:00–9:00 window"
+      "note": "Ba Ria–Vung Tau tourism"
     }
   ],
   "interests": ["photography"]
