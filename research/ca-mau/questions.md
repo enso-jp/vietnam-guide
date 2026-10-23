@@ -18,4 +18,14 @@ Left on the page as “Check on arrival”, because the dossier does not choose 
 - Minutes to Bạc Liêu, Rạch Giá, and Hà Tiên.
 - Visa rules were not stated.
 
+Food pass 23 Oct 2026, still “Check on arrival” on the public fields:
+
+- A price for every new specialty. No stall price was printed.
+- A serving for tôm sú Cà Mau, cá chình and cá bống tượng Tân Thành, cá khô bổi, cá khoai Cái Đôi Vàm, mắm cá lóc Thới Bình, bồn bồn Cái Nước, chuối khô Trần Hợi, and rượu trái giác. The publishers name the product and do not print a recipe or a measure.
+- Which Tân Thành the fish mark uses, and the town for rượu trái giác.
+- A 2025 commune name for Cái Đôi Vàm. VOV still prints thị trấn Cái Đôi Vàm, huyện Phú Tân.
+- The Vietnam Tourism U Minh article timed out on a direct open. Gỏi nhộng ong, lươn um lá nhàu, and the second lẩu account are a search record of that URL.
+- Cá nâu Mũi Cà Mau was a geographical-indication project in Nhân Dân on 23 December 2022, not a plate. Left out.
+- Đũa đước and than đước are on that protected list and are not food. Left out.
+
 Photos, second pass 22 Oct 2026: still no frame of the ship panel or GPS0001 with mangrove or mudflat and the sea. No `ca-mau.jpg`. The mudflat boardwalk is flat gray and was not used as a park hero. The prop-root frame is the Rừng đước interest card only. Published photographs: Hòn Đá Bạc granite and causeway, Năm Căn quay and market, the city canal for the river-ward stay row, cooked crab, and plated ba khía. Left unpublished for lack of a licensed photo of that subject: the marker, the national park as a sight, U Minh Hạ, Khai Long, Hòn Khoai, Sông Đốc, Rạch Gốc, Đầm Thị Tường, the city as a sight, the floating market, the temples, the museum, the church, the memorials, every festival, Ấp Mũi as a stay row, and every dish except cua and ba khía.
