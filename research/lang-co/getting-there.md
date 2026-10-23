@@ -26,3 +26,13 @@ Season limit on the journey:
 - Báo Quốc Tế calls March–June the best-looking months on the lagoon. That is one paper (S9).
 - A closure calendar for the pass, the tunnel, or Highway 1A was not opened. Check on arrival — UNSOURCED.
 - Bạch Mã, if that is the side trip, has its own limit: from the 25 Dec 2025 notice, vehicles stop at the km 12 slip and the rest is on foot, with a 09:00 arrival and a 17:00 return (S12). That is the park road, not the coast road.
+
+## Route pass, 23 Oct 2026
+
+For `hue-to-lang-co`. https://ketnoidisan.dsvn.vn/ accessed 23 Oct 2026. The two clocks are still both on the page.
+
+- Header: HĐ1 Huế 7:05, Lăng Cô 8:38, Đà Nẵng 10:10; HĐ3 14:30 / 16:42 / 18:15; HĐ2 Đà Nẵng 07:05, Lăng Cô 09:14, Huế 11:03; HĐ4 15:20 / 16:50 / 18:15.
+- Lower boxes unchanged: Huế–Lăng Cô 07:45–09:02 and 14:25–16:12; Lăng Cô–Huế 09:16–11:05 and 16:26–17:45.
+- Hue to Lăng Cô spans 1 h 17 m to 2 h 12 m. Lăng Cô to Hue spans 1 h 19 m to 1 h 49 m. Prose “khoảng 3 giờ” is the full Huế–Đà Nẵng ride, not this hop.
+- SE board https://giotaugiave.dsvn.vn/ accessed the same day has no Lăng Cô row. Do not give an SE stop here.
+- 12go `hue/lang-co` returned a bot challenge. No bus partner path. The 60 km road and the 25 km tunnel figure were not re-fetched; they stay as in the rows above. Drive minutes still Check on arrival.

@@ -1,0 +1,34 @@
+{
+  "slug": "ho-chi-minh-city-to-da-nang",
+  "name": "Ho Chi Minh City to Da Nang",
+  "from": "Ho Chi Minh City",
+  "to": "Da Nang",
+  "summary": "Fly if the day matters. The flight is about 1 hour 20 minutes to Da Nang. The five trains take 16 hours 46 minutes to 19 hours 44 minutes. This page is also the trip back.",
+  "modes": [
+    {
+      "mode": "Flight",
+      "duration": "About 1 hour 20 minutes",
+      "note": "About 1 hour 20 minutes from Ho Chi Minh City to Da Nang. Airport rides at both ends are extra. Fares are Check on arrival.",
+      "partner": "flight"
+    },
+    {
+      "mode": "Train",
+      "duration": "16 hours 46 minutes to 19 hours 44 minutes",
+      "note": "Northbound, SE2 is the short end and SE10 is the long end. The rail posts are 935 km apart. Book a berth. Fares are Check on arrival.",
+      "partner": "train"
+    },
+    {
+      "mode": "Car or bus",
+      "duration": "Check on arrival",
+      "note": "No road minute is published. The 935 km figure is the rail post, not the highway. Fares are Check on arrival."
+    }
+  ],
+  "seoTitle": "Ho Chi Minh City to Da Nang — flight or the train",
+  "seoDescription": "About 1 hour 20 minutes by air from Ho Chi Minh City to Da Nang. The five trains take 16 hours 46 minutes to 19 hours 44 minutes. The return is the same page.",
+  "faqs": [
+    {
+      "q": "Is Da Nang to Ho Chi Minh City the same trip?",
+      "a": "Yes. This page covers both directions. The return flight is about 1 hour 23 minutes. The five southbound trains take 17 hours 1 minute to 21 hours 23 minutes. Airport rides are extra, and fares are Check on arrival."
+    }
+  ]
+}
