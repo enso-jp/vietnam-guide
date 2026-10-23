@@ -61,9 +61,9 @@
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:11:18.346Z",
+      "status": "enriched",
+      "note": "Hero stays the city square, 16:9, tank and statue in frame. Pin unset. Festival stays on October 10 Square. Dray Nur distances and prices that disagree both stay. Food guide stays off.",
+      "updated": "2026-10-23T06:17:52.818Z",
       "reworkCount": 0
     },
     "destinationQuality": {
@@ -432,13 +432,21 @@
   "questions": [],
   "claim": {
     "place": "buon-ma-thuot",
-    "stage": "destinationCopy",
+    "stage": "destinationQuality",
     "item": null,
-    "at": "2026-10-23T06:11:18.415Z",
+    "at": "2026-10-23T06:18:02.156Z",
     "by": "buon-ma-thuot-copy",
     "branch": "cursor/buon-ma-thuot-destination-copy-b891"
   },
   "log": [
+    {
+      "at": "2026-10-23T06:17:52.818Z",
+      "place": "buon-ma-thuot",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Hero stays the city square, 16:9, tank and statue in frame. Pin unset. Festival stays on October 10 Square. Dray Nur distances and prices that disagree both stay. Food guide stays off."
+    },
     {
       "at": "2026-10-23T06:11:18.346Z",
       "place": "buon-ma-thuot",
