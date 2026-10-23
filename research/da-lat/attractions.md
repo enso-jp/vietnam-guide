@@ -149,16 +149,18 @@ Checked: 21 Oct 2026
 - Kind: sight
 - Area: South
 - What the visitor does: Boat or kayak on the pine-ringed reservoir (S1, S11).
-- Time: Half day with Truc Lam
-- Fee: Free to view; boat hire Check on arrival — UNSOURCED
-- From the base: Road or taxi south
-- When to go: Morning mist
-- Mistake to avoid: Expecting it beside Xuan Huong. This is a separate lake (S11).
+- Time: About 60 minutes on the provincial page, rechecked 23 Oct 2026. A half day only when combined with Truc Lam. Drive minutes UNSOURCED.
+- Fee: Shore free on travel pages. Provincial price field “Đang cập nhật”. Boat hire Check on arrival — fares disagree and are secondary.
+- Hours: 07:00–17:00 on Visit Lâm Đồng, and open through the day on travel pages. Weekly close Check on arrival.
+- From the base: Highway 20, about 5 km up Prenn Pass, then left about 1 km (Visit Lâm Đồng, 23 Oct 2026)
+- When to go: Clear morning
+- Mistake to avoid: Expecting it beside Xuan Huong, or treating it as Truc Lam. This is a separate lake (S11).
 - Local interest: Lakes
 - Suggested slug: tuyen-lam
 - Suggested dot: 4
-- Photo must show: Water and pines together.
-- Sources: S1, S11
+- Photo must show: Water and pines together. Accepted 23 Oct 2026: Tuyen Lam Lake 01 and the boat dock in Tuyen Lam Lake 05, both public domain. The monastery view was the wrong subject.
+- Sources: S1, S11, S42, S43, S44
+- Page: public `da-lat--tuyen-lam.json`
 
 ### Datanla Falls
 - Vietnamese name: Thác Datanla
@@ -213,16 +215,19 @@ Checked: 21 Oct 2026
 - Kind: sight
 - Area: Lam Vien ward
 - What the visitor does: Walk themed flower beds (S20).
-- Time: 45–60 minutes
-- Fee: Near 100,000 VND adult on operator-linked pages; child band near 50,000 VND (S20)
-- From the base: Short ride from centre
-- When to go: 06:30–18:00 on desk tables (S20)
-- Mistake to avoid: Skipping it when the December festival displays are free along the lake instead (S16).
+- Time: About 90 minutes on Visit Lâm Đồng, rechecked 23 Oct 2026. Travel pages say 60–90 minutes and about 1.5–2 hours. Walk minutes from the lake UNSOURCED.
+- Fee: 30,000 VND on Visit Lâm Đồng, and adult 100,000 VND with a child at 50,000 VND on travel pages. Do not average. Child height rule Check on arrival — one secondary page only.
+- Hours: 07:00–18:00 on Visit Lâm Đồng, and 06:30–18:00 on travel pages. A later weekend close is one secondary page: Check on arrival.
+- Address: Trần Quốc Toản on Visit Lâm Đồng, and 2 Trần Nhân Tông on travel pages. Northeast of Xuan Huong Lake on both. Print both. Do not pick one.
+- From the base: Walk or taxi northeast from the lake. Minutes UNSOURCED.
+- When to go: Morning for the beds. December lake displays are a different visit (S16).
+- Mistake to avoid: Paying the wrong figure, or treating the lake festival as this garden.
 - Local interest: Photography
 - Suggested slug: flower-garden
 - Suggested dot: 3
-- Photo must show: Flower beds with path.
-- Sources: S20
+- Photo must show: Flower beds with a path. Accepted 23 Oct 2026: Da Lat Flower Park 1 and Hoa Đà Lạt, both of this garden. Sign arches rejected.
+- Sources: S20, S45, S46, S47
+- Page: public `da-lat--flower-garden.json`
 
 ### Domaine de Marie
 - Vietnamese name: Nhà thờ Domaine de Marie
@@ -322,6 +327,8 @@ Checked: 21 Oct 2026
 - Page: list on place page only until a licensed photo exists.
 
 Districts that deserve their own page: None. One city list grouped by direction is enough.
+
+Check 23 Oct 2026: the night market, the lakeside evening, a morning at the lake, and a coffee hour stay off the sight list. They are not separate visits. Lam Dong Museum stays unpublished: Commons frames show a pink block signed as the museum and a yellow villa, so the visit is not one confirmed building, and the fee is still Check on arrival.
 
 ## Nightlife and evening
 
