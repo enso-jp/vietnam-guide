@@ -1,0 +1,59 @@
+{
+  "slug": "tri-nguyen",
+  "placeSlug": "nha-trang",
+  "name": "Trí Nguyên Aquarium",
+  "nameVi": "Hồ cá Trí Nguyên",
+  "kicker": "The rock aquarium on Hòn Miễu",
+  "summary": "Rock aquarium on Hòn Miễu: boat over and walk the aquarium for an island stop in the bay. The 2025 scenic fee for the Trí Nguyên route is 6,000 VND a person, plus 3,000 VND at the pier. The boat fare sits outside that fee. The bay listing includes this aquarium with the other island stops.",
+  "dots": 3,
+  "dotReason": "A short island stop for the aquarium building, useful with a bay boat and lighter than the reef day.",
+  "timeNeeded": "An island stop",
+  "fee": "Check on arrival",
+  "getThere": "By boat to Hòn Miễu. The scenic fee is 6,000 VND.",
+  "district": "The bay",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The rock aquarium above the boats at Trí Nguyên",
+  "notice": {
+    "title": "6,000 VND is the crossing, not the tanks",
+    "body": "The bay scenic fee for Đảo Hòn Miễu (Trí Nguyên) is 6,000 VND a person, plus 3,000 VND at the pier. The boat, and any aquarium ticket at the door, are separate."
+  },
+  "body": [
+    "Trí Nguyên is the aquarium on Hòn Miễu. The provincial bay page lists Hồ cá Trí Nguyên with the island stops, beside the jet-ski beaches and the Hòn Mun reef. The building is the artificial rock above the landing, with the boats tied along the path.",
+    "Notice 452/TB-VNT of 23 September 2025 names the route Đảo Hòn Miễu (Trí Nguyên) at 6,000 VND a person each crossing from the inland pier, plus 3,000 VND to use the pier. That charge follows the crossing. It does not set the aquarium door. Ask for the tank ticket when you land."
+  ],
+  "figures": [
+    {
+      "id": "nha-trang-tri-nguyen-2",
+      "caption": "The landing path and a tour boat below the hill",
+      "alt": "A blue tour boat at the stone pier on the aquarium island in Nha Trang Bay"
+    }
+  ],
+  "gettingThere": [
+    "The aquarium is on Hòn Miễu. Boats leave the inland piers the bay authority names: Bến tàu Du lịch Nha Trang and Bến thủy nội địa Phú Quý. Pay the scenic fee online or at the pier, then the boat."
+  ],
+  "legs": [
+    {
+      "heading": "From the inland pier",
+      "body": "Choose the Hòn Miễu (Trí Nguyên) route, 6,000 VND, and add the 3,000 VND pier charge. The boat fare is extra."
+    },
+    {
+      "heading": "From Cầu Đá",
+      "body": "Cầu Đá is the south port for the reef boats. Use the same bay piers the fee notice names for Hòn Miễu."
+    }
+  ],
+  "hours": "Check on arrival.",
+  "admissionNote": "An aquarium door price was not in the scenic-fee notice. The crossing fee is 6,000 VND a person, plus 3,000 VND for the pier, under notice 452/TB-VNT of 23 September 2025. Children under 6 and Khánh Hòa residents are among those exempt. A child from 6 to under 16 pays half. The fee excludes accident insurance.",
+  "links": [
+    {
+      "label": "Nha Trang Bay",
+      "url": "https://dulichso.khanhhoa.gov.vn/article/vinh-nha-trang-13c",
+      "note": "Hồ cá Trí Nguyên named with the island stops."
+    },
+    {
+      "label": "Bay scenic fee, 23 Sep 2025",
+      "url": "https://nhatrang.khanhhoa.gov.vn/Contents/imgs/news/VNT%20-%20H%c6%b0%e1%bb%9bng%20d%e1%ba%abn%20n%e1%bb%99p%20v%c3%a0%20Th%c3%b4ng%20tin%20v%e1%bb%81%20ph%c3%ad%20tham%20quan%20danh%20lam%20th%e1%ba%afng%20c%e1%ba%a3nh%20v%e1%bb%8bnh%20Nha%20Trang.pdf",
+      "note": "6,000 VND for Hòn Miễu (Trí Nguyên)."
+    }
+  ],
+  "interests": ["family", "islands"]
+}

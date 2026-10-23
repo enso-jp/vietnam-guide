@@ -4,17 +4,17 @@
   "name": "Po Nagar Towers",
   "nameVi": "Tháp Bà Ponagar",
   "kicker": "Cham towers on the hill north of the beach",
-  "summary": "The Cham towers stand about 2 km north of the centre. The provincial digital guide prints 06:00–17:30 and no ticket. The provincial tourism department prints 08:00–18:00 and 22,000 VND a person. The hill is over 20 m in the digital guide and about 10–12 m in the tourism department. Read both before you go up.",
+  "summary": "Cham towers 2 km north: walk the brick shrines in a morning for the hill above the river mouth. One clock is 06:00–17:30. The tourism-resource page uses 08:00–18:00 and 22,000 VND. The hill is over 20 m on one page and about 10–12 m on the other.",
   "dots": 3,
-  "timeNeeded": "1 hour",
+  "timeNeeded": "A morning",
   "fee": "22,000 VND from the provincial tourism department",
-  "getThere": "About 2 km north of the centre. Minutes were not printed.",
+  "getThere": "About 2 km north of the centre, on đồi Cù Lao.",
   "district": "North shore",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "The main brick tower and the pyramid tower in the courtyard",
   "notice": {
     "title": "The two clocks do not match",
-    "body": "The provincial digital guide opens at 06:00 and closes at 17:30, and prints no ticket. The provincial tourism department opens at 08:00, closes at 18:00, and prints 22,000 VND. From 6 to 11 May 2026 Khánh Hòa police print free entry."
+    "body": "One official clock is 06:00–17:30, with no ticket on that page. The tourism-resource page uses 08:00–18:00 and 22,000 VND a person. From 6 to 11 May 2026, entry is free."
   },
   "body": [
     "Po Nagar is the Cham complex on đồi Cù Lao, in Vĩnh Phước. The provincial digital guide gives the address as Tháp Bà Ponagar, Hai Tháng Tư. The provincial tourism department gives 61 Đường 2/4. Both say the site is about 2 km north of the centre. The digital guide says the hill is over 20 m. The tourism department says about 10–12 m. The digital guide gives the site area as 17,683.6 m² and runs the complex from the 8th to the 13th centuries.",
@@ -29,16 +29,16 @@
     }
   ],
   "gettingThere": [
-    "The provincial digital guide and the provincial tourism department both put the towers about 2 km north of the centre. The street line differs: Hai Tháng Tư in the digital guide, 61 Đường 2/4 in the tourism department. Minutes from Trần Phú or the station were not printed."
+    "The towers are about 2 km north of the centre, on đồi Cù Lao in Vĩnh Phước. One address line is Hai Tháng Tư. The other is 61 Đường 2/4. Đường 2/4 is Hai Tháng Tư."
   ],
   "legs": [
     {
       "heading": "From Trần Phú",
-      "body": "About 2 km north. The ride minutes were not printed."
+      "body": "About 2 km north, to the hill at the mouth of the Cái."
     },
     {
       "heading": "From the airport",
-      "body": "Use the city distances, 27 km or about 30 km, then the 2 km north. Door-to-door minutes were not printed."
+      "body": "Use the city distances, 27 km or about 30 km, then the 2 km north to the towers."
     }
   ],
   "hours": "06:00–17:30 from the provincial digital guide. 08:00–18:00 from the provincial tourism department.",

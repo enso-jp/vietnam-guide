@@ -4,17 +4,17 @@
   "name": "Ga Nha Trang",
   "nameVi": "Ga Nha Trang",
   "kicker": "The station front in the centre",
-  "summary": "Ga Nha Trang is the station Vietnam Tourism places in the centre. The timetable puts it at km 1315 from Hà Nội and km 411 from Sài Gòn. A street number was not printed. Check on arrival. Southbound from Hà Nội the five trains take 24 hours 57 minutes to 28 hours 3 minutes.",
+  "summary": "Centre rail station: arrive from Sài Gòn in 7 hours 16 minutes to 8 hours 43 minutes for the beach city. The timetable puts Nha Trang at km 411 from Sài Gòn and km 1315 from Hà Nội. Southbound from Hà Nội the five trains take 24 hours 57 minutes to 28 hours 3 minutes.",
   "dots": 2,
-  "timeNeeded": "A stop on the way",
+  "timeNeeded": "The train ride",
   "fee": "Check on arrival",
-  "getThere": "In the centre. The street was not printed.",
+  "getThere": "In the centre. Walk or ride out to Trần Phú from the doors.",
   "district": "The centre",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "The station front, with the Ga Nha Trang letters over the doors",
   "body": [
-    "Vietnam Tourism says the train station is in the centre and names it as a way into the city, with the airport to the south. A street number was not printed. The national railway timetable puts Nha Trang at km 1315 from Hà Nội and km 411 from Sài Gòn. Southbound trains are SE7, SE5, SE9, SE3, and SE1. Northbound train codes were not printed.",
-    "Southbound from Hà Nội is 24 hours 57 minutes to 28 hours 3 minutes. Southbound from Đà Nẵng is 9 hours 13 minutes to 11 hours. Northbound to Đà Nẵng is 9 hours 30 minutes to 11 hours 1 minute. Southbound to Sài Gòn is 7 hours 48 minutes to 10 hours 23 minutes. Northbound from Sài Gòn is 7 hours 16 minutes to 8 hours 43 minutes. Check on arrival."
+    "Ga Nha Trang is the station in the centre, the rail door to the beach. The timetable puts it at km 1315 from Hà Nội and km 411 from Sài Gòn. Southbound trains on the published header are SE7, SE5, SE9, SE3, and SE1.",
+    "Southbound from Hà Nội takes 24 hours 57 minutes to 28 hours 3 minutes. Southbound from Đà Nẵng takes 9 hours 13 minutes to 11 hours. Northbound to Đà Nẵng takes 9 hours 30 minutes to 11 hours 1 minute. Southbound to Sài Gòn takes 7 hours 48 minutes to 10 hours 23 minutes. Northbound from Sài Gòn takes 7 hours 16 minutes to 8 hours 43 minutes."
   ],
   "figures": [
     {
@@ -24,7 +24,7 @@
     }
   ],
   "gettingThere": [
-    "The station is in the centre. Minutes from Trần Phú were not printed. From Sài Gòn or Đà Nẵng, use the spans above. They are the range across five trains, not one timetable cell."
+    "The station is in the centre. From Sài Gòn or Đà Nẵng, use the spans above. Each span is the range across the trains, so read the cell for the train you book."
   ],
   "legs": [
     {
@@ -33,11 +33,11 @@
     },
     {
       "heading": "From the beach",
-      "body": "The station is in the centre. Minutes were not printed."
+      "body": "The station is in the centre, a ride in from Trần Phú."
     }
   ],
-  "hours": "Train clocks are the timetable spans, not a station-door hour. A door hour was not printed.",
-  "admissionNote": "A fare was not printed. Check on arrival.",
+  "hours": "Check on arrival.",
+  "admissionNote": "Check on arrival.",
   "links": [
     {
       "label": "Nha Trang on Vietnam Tourism",
