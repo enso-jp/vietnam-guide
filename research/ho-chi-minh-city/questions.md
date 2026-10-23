@@ -23,3 +23,12 @@ Checked: 22 Oct 2026. These stay check on arrival. Nothing here was copied into 
 - Stall figures on Hồ Thị Kỷ, alley 76, and Bánh mì Huỳnh Hoa are not the city price.
 - Events have no licensed event photograph, so they are not festival cards. Ao Dai, River Festival, and HOZO dates were left out by the dossier.
 - Ho Tram, Dau Tieng Lake, and Dai Nam stay placeholders.
+- S25 prints 25,000 to 50,000 VND for bánh bèo at Ben Thanh, depending on the type. That is a market figure, not the city price.
+- Su Van Hanh sweet-soup shop: the shop name was not printed. Hours: Check on arrival.
+- The Thai sweet-soup street was not named. Hours: Check on arrival.
+- Bay Ho, Tang, Cu Ly, and Sau Le: no street was printed. Hours: Check on arrival.
+- Bún bò Nam Bộ, bún bò Huế as eaten here, and the xôi vendors: no street was printed. Hours: Check on arrival.
+- A method was not printed for the individual chè bowls on S24. Hours: Check on arrival.
+- Ben Thanh night market starts at 7:00 PM on S25. A closing hour was not printed. Check on arrival.
+- S24 does not say the plate of flan and the braised chicken egg are the same dessert.
+- The largest-markets article and the nine night-markets article on Visit HCMC redirected to the news index on 23 Oct 2026. They were not read.
