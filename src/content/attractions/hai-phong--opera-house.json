@@ -1,0 +1,50 @@
+{
+  "slug": "opera-house",
+  "placeSlug": "hai-phong",
+  "name": "Hai Phong Opera House",
+  "nameVi": "Nhà hát thành phố",
+  "kicker": "City opera house on the center square",
+  "summary": "Look at the city opera house from the square in front of it. The yellow hall is of an age with the opera houses in Hanoi and Saigon, and the Lê Chân statue stands on the same strip. The visit is the building and the square. A show ticket and a gate hour are Check on arrival. Skip it if the day is only the sand at Đồ Sơn.",
+  "dots": 5,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "The center square. Minutes from Đồ Sơn are Check on arrival.",
+  "district": "The center",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The yellow opera house from the square, portico and side wing",
+  "notice": {
+    "title": "A show is a separate ticket",
+    "body": "The square is the outdoor visit. A seat inside is Check on arrival. 56 Đinh Tiên Hoàng is the cultural-center address. The auditorium door is Check on arrival."
+  },
+  "body": [
+    "Stand in the square and look at the yellow opera house. The hall is of an age with the opera houses in Hanoi and Saigon. The Lê Chân statue is on the same strip. The visit is the building and the square.",
+    "Come in the evening if the center is your night. The walk continues toward Tam Bạc. Skip the square if the day is only the sand at Đồ Sơn. How long you stay is Check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "hai-phong-opera-house-2",
+      "caption": "The facade at night, across the flower beds in the square",
+      "alt": "The Hai Phong opera house lit at night, with flower beds and a fountain in the square"
+    }
+  ],
+  "gettingThere": [
+    "The opera house is the building on the center square. If you sleep in the center, you start here. The night walk goes on toward Tam Bạc. Minutes from the square to the river street are Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Đồ Sơn",
+      "body": "Ride in from the peninsula. The sea-god temple there is a bit more than 20 km from the city. Minutes to the square are Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "A weekly closing day is Check on arrival.",
+  "admissionNote": "A show ticket is Check on arrival. The square is the outdoor visit.",
+  "links": [
+    {
+      "label": "Center sights",
+      "url": "https://haiphong.gov.vn/Du-lich/Nhung-diem-du-lich-hap-dan-tai-khu-vuc-noi-do-Hai-Phong-52536",
+      "note": "Hai Phong city portal, 2 September 2020"
+    }
+  ],
+  "interests": ["nightlife"]
+}
