@@ -3,6 +3,7 @@
 Place: `quy-nhon`
 Slug: `ghenh-rang`
 Status: stored
+Checked again: 23 Oct 2026 (S40). Free, 7:00–18:00, 60 minutes, egg stones, bãi tắm Hoàng Hậu, grave, Bảo Đại from 1927. About 3 km southeast still comes from the church page (S13). Hero and second photos kept.
 Checked: 21 Oct 2026, from the stored dossier. The portal was not reopened on 22 Oct 2026.
 
 ## What it is

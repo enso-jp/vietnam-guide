@@ -3,6 +3,9 @@
 Place: `quy-nhon`
 Slug: `thi-nai-bridge`
 Status: stored
+Checked again: 23 Oct 2026 (S40). Free, 7:00–18:00 listing, lamps after dark, 2,477.3 m and 54 spans on the lagoon page, road longer than 7 km. The bridge page still omits the metres. Both stay in the dossier. The page prints the metres.
+
+Second frame: unpublished. The 2007 aerial is a speck under cloud, and the lagoon frame shows water with no span. No body was added.
 Checked: 21 Oct 2026, from the stored dossier. The portal was not reopened on 22 Oct 2026.
 
 ## What it is

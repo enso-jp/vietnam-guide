@@ -299,3 +299,23 @@ The portal still prints tỉnh Bình Định and, on some sight headers, newer w
   - Gỏi cá chích — TP Quy Nhơn. Fried whole in a phở sheet, or raw after the bones are taken out. `goi-ca-chich3.html`
   - Cháo cầu gai — TP Quy Nhơn. Fresh urchin, meat and roe, stir-fried into the porridge. `chao-cau-gai3.html`
   - Bánh ướt Hoài Nhơn — header Thị xã Hoài Nhơn; prose says huyện Hoài Nhơn. Both stay. `banh-uot-hoai-nhon3.html`
+
+## S40
+- URL: the same sight URLs as S3, S6, S7, S8, S10, S11, S13, S15, S16, S17, S20, S32
+- Publisher: Cổng du lịch Quy Nhơn – Bình Định
+- Accessed: 23 Oct 2026
+- Stamp: verified
+- Note: The host’s TLS certificate was expired on this date. The HTML was read from those URLs with certificate verification off. Fee, hour, and address lines below are the text on the page that day.
+- Supports:
+  - S3 still free, 6:00–23:00, 60 minutes, Phường Quy Nhơn, yellow crescent, fairly clear blue water, a short walk.
+  - S6 still free, 7:00–18:00, 30 minutes, Phường Quy Nhơn, white span, afternoon light, lamps after dark, longest-sea-bridge claim with no metres.
+  - S7 still 8 km northeast, 2,477.3 m, 54 spans, road longer than 7 km with five shorter bridges.
+  - S8 still 20,000 đồng, 7:00–18:00, 120 minutes, header Phường Quy Nhơn, prose phường Đống Đa, late 12th century, square body, curved top, Garuda, ranked 1980.
+  - S10 still free, 5:00–17:00, 120 minutes, 141 Trần Cao Vân, phường Lê Lợi, more than 300 years, 17 m Amitabha on a blue-stone lotus, bronze Buddha 1.5 m and more than 1,200 kg.
+  - S11 still free, 7:00–18:00, 60 minutes, Phường Quy Nhơn Nam, egg stones, bãi tắm Hoàng Hậu, Vọng Phu, lion rock, Tiên Sa, Hàn Mặc Tử’s grave, Bảo Đại from 1927.
+  - S13 still about 3 km southeast.
+  - S15 still the 4 Feb 2021 article: 13 km south on quốc lộ 1D, two crescents, fishing village, rocks, seaweed, boat hire with no fare. Fee and a clock: UNSOURCED.
+  - S16 still 25,000 đồng, children under 0.9 m free, 7:00–19:00, 30 minutes, both address lines, lunar month 3 through the end of lunar month 9, sunset wording. The 24 Feb 2021 sunrise wording on S30 still disagrees. The conflict stays in this dossier.
+  - S17 still 30,000–60,000 đồng with no statement of gate versus boat, 7:00–17:00, 60 minutes, nearly 25 km, header Phường Quy Nhơn Đông, prose xã Nhơn Lý, white sand, natural pool, shells and small fish. The 21 Oct note that the page said three mountain sides was not in the HTML opened on 23 Oct. The newer prose is the one used on the page.
+  - S20 still 200,000–350,000 đồng with no statement of ticket versus boat, about 22 km, xã Nhơn Châu, 7:00–18:00, 240 minutes, lighthouse 118 m above the sea, Giếng Tiên.
+  - S32 still 15,000 đồng, 7:00–18:00, 30 minutes, header thôn Đại Lễ, xã Tuy Phước Bắc, prose xã Phước Hiệp, Tuy Phước, about 20 km, late 11th to early 12th century, four towers, Tour d’Argent, ranked 1982. Both place lines stay.

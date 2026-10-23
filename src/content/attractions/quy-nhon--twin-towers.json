@@ -4,26 +4,37 @@
   "name": "Twin towers",
   "nameVi": "Tháp Đôi",
   "kicker": "The Cham pair inside the city",
-  "summary": "Walk the pair of late-12th-century Cham towers inside the city. The fee is 20,000 đồng. Tháp Bánh Ít, about 20 km away, is a different site.",
+  "summary": "Late-12th-century Cham pair in the city: walk both brick towers on a two-hour visit, for 20,000 đồng. Each tower has a square body and a curved top, with Garuda figures at the corners. The pair was ranked an architecture-and-art relic in 1980. Tháp Bánh Ít is the four-tower hill about 20 km away.",
   "dots": 4,
-  "timeNeeded": "120 minutes on the portal. That is the printed field.",
+  "timeNeeded": "About 2 hours",
   "fee": "20,000 đồng",
-  "getThere": "Inside the city. Minutes from the beach are check on arrival.",
-  "verified": "21 Oct 2026",
+  "getThere": "Inside the city, in phường Đống Đa.",
+  "district": "The center",
+  "verified": "23 Oct 2026",
   "heroCaption": "Both towers, tops and bases, in daylight",
+  "body": [
+    "Walk the two towers in the city. They date from the late 12th century, and they are also called Tháp Hưng Thạnh. Each one has a square body under a curved top, with Garuda figures at the corners and pointed arches over the doors. The Ministry of Culture and Information ranked the pair an architecture-and-art relic in 1980.",
+    "The address line reads Phường Quy Nhơn. The description places the towers in phường Đống Đa. Either line keeps you inside the city, a ride from the beach. The posted visit is two hours, the ticket is 20,000 đồng, and the hours run from 7:00 to 18:00. Tháp Bánh Ít is the four-tower group on a hill about 20 km away, beside Highway 1."
+  ],
+  "figures": [
+    {
+      "id": "quy-nhon-twin-towers-2",
+      "caption": "Carved figures at the corner of the main tower",
+      "alt": "Brick corner of Tháp Đôi with carved figures under a blue sky"
+    }
+  ],
   "gettingThere": [
-    "The header says Phường Quy Nhơn. The prose says phường Đống Đa. The towers are inside the city. Minutes from the beach are check on arrival. A science-complex page lists them 8.45 km from that complex, which is not a measured ride from the sand.",
-    "Tháp Bánh Ít is about 20 km away in Tuy Phước. Do not send this visit there."
+    "The towers are inside the city. The address line reads Phường Quy Nhơn, and the description places them in phường Đống Đa."
   ],
   "legs": [
     {
       "heading": "From the city beach",
-      "body": "A ride inside the city. The portal does not print the minutes. Check on arrival."
+      "body": "A ride inside the city to phường Đống Đa."
     }
   ],
   "hours": "7:00–18:00",
-  "closed": "No weekly closing day is printed.",
-  "admissionNote": "20,000 đồng on the portal. The field is printed as 20,000–20,000. A child price is not printed.",
+  "closed": "No weekly closing day is listed.",
+  "admissionNote": "20,000 đồng. A separate child price is Check on arrival.",
   "links": [
     {
       "label": "Tháp Đôi",

@@ -4,27 +4,41 @@
   "name": "Quy Nhon beach",
   "nameVi": "Bãi biển Quy Nhơn",
   "kicker": "The yellow crescent in the center of the city",
-  "summary": "Swim the yellow crescent in the center of Quy Nhon. The sand is a walk from the rooms, and the beach is free. Skip it only if you came for Kỳ Co, which is a different cove nearly 25 km away.",
+  "summary": "Yellow-sand crescent in the city center: swim it free for an hour or a full day, a short walk from the rooms. The shore is a long curve of yellow sand, and the water stays fairly clear and blue. Use the morning for the swim. Open hours run from 6:00 to 23:00.",
   "dots": 5,
-  "timeNeeded": "60 minutes on the portal. A beach day is longer.",
+  "timeNeeded": "About an hour. A beach day is longer.",
   "fee": "Free",
   "getThere": "A walk from the center if you sleep on the crescent.",
-  "bestMonths": "Check on arrival",
-  "verified": "21 Oct 2026",
+  "district": "The crescent",
+  "verified": "23 Oct 2026",
   "heroCaption": "The crescent from the hill: sand, surf, and the roofs along the beach",
+  "notice": {
+    "title": "Kỳ Co is a separate cove",
+    "body": "This swim is the yellow crescent in the center. Kỳ Co is nearly 25 km away, in xã Nhơn Lý."
+  },
+  "body": [
+    "Walk a few steps from the center and swim the long crescent. The sand is yellow, and the water along this shore stays fairly clear and blue. The listed visit is an hour. A beach day runs longer than that hour, from a morning swim through the late light on the same sand.",
+    "The promenade follows the sand, with the hills behind the roofs. A chair or an umbrella is a separate hire. Victory square sits on this shore, between đường 31 Tháng 3 and Nguyễn Huệ to the north and Xuân Diệu and the sea to the south, so the square is part of the same walk."
+  ],
+  "figures": [
+    {
+      "id": "quy-nhon-city-beach-2",
+      "caption": "The promenade along the crescent at the end of the day",
+      "alt": "People walking the promenade beside the yellow sand of Quy Nhon beach at dusk"
+    }
+  ],
   "gettingThere": [
-    "The portal header places Bãi biển Quy Nhơn in Phường Quy Nhơn. If you sleep on the crescent, the sand is a walk from the center. No minute count is printed.",
-    "Kỳ Co is not this beach. It is nearly 25 km away, and that page does not split the distance into road and boat."
+    "The beach is in the center, in Phường Quy Nhơn. Sleep on the crescent and the sand is a walk from the rooms. Open hours run from 6:00 to 23:00."
   ],
   "legs": [
     {
       "heading": "From the crescent",
-      "body": "Walk. The portal does not print a minute count from a named hotel, and no hotel is a pick."
+      "body": "Walk. The sand starts at the end of the beach streets."
     }
   ],
   "hours": "6:00–23:00",
-  "closed": "No weekly closing day is printed.",
-  "admissionNote": "Free on the portal. A chair or an umbrella is check on arrival.",
+  "closed": "No weekly closing day is listed.",
+  "admissionNote": "Free. A chair or an umbrella is Check on arrival.",
   "links": [
     {
       "label": "Bãi biển Quy Nhơn",

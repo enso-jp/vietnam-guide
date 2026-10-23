@@ -477,3 +477,15 @@ Province on the pages: the tourism portal still prints Bình Định (S1). A 22 
 - Suggested slug: quiet-hour
 - Photo must show: The beach road with lights still on, sand and water in the frame. Not an empty black frame.
 - Sources: S3, S4, S24
+
+## Pass 23 Oct 2026
+
+Facts reopened under S40. Public pages updated for card lines. A second licensed photo was kept only when the frame showed that subject and had no watermark.
+
+- city-beach: second frame `quy-nhon-city-beach-2`, File:Quy Nhon Beach Promenade.jpg, VeeWin, CC BY-SA 4.0. The promenade, the sand, and the hills.
+- twin-towers: second frame `quy-nhon-twin-towers-2`, File:0040323 Thap Doi Cham Hindu complex, Quy Nhon, Binh Dinh Vietnam 041.jpg, Ms Sarah Welch, CC0. The carved corner.
+- banh-it: published. Hero File:Thap Banh It, Nhon Hoa 01.jpg and second File:0040323 Thap Banh It complex, Nhon Hoa, Binh Dinh Vietnam 012.jpg, both Ms Sarah Welch, CC0. Dot 4, new record.
+- eo-gio, ky-co, thi-nai-bridge: card lines rewritten. No second licensed frame of that subject, so no body was added.
+- bai-xep: unpublished: no licensed photo. Commons files titled Bãi Xép are An Chấn, Phú Yên, a different beach.
+- cu-lao-xanh: unpublished: no licensed photo. Both Commons frames carry an email watermark.
+- long-khanh: unpublished: no licensed photo. File:Chùa Long Khánh.jpg is captioned Khánh Hòa and does not show the 17 m Amitabha.
