@@ -5,23 +5,25 @@
   "kind": "town",
   "corridor": "red-river-delta",
   "province": "Ninh Binh",
-  "lat": 20.216,
-  "lng": 105.933,
+  "provinceNote": "From 1 July 2025, xã Ninh Hải sits inside phường Nam Hoa Lư. A 23 April 2026 tourism page still prints xã Ninh Hải, tỉnh Hoa Lư. The 8 August 2024 English page prints Ninh Hai Commune, Hoa Lu District, Ninh Binh City. The 19 December 2016 temple page prints thôn Văn Lâm, xã Ninh Hải, huyện Hoa Lư.",
   "dots": 4,
   "dotReason": "Worth a special trip in this corridor",
-  "summary": "Tam Coc is the boat village of Ninh Binh. A rower takes you along the Ngo Dong River through low caves, with rice and karst on both sides. It is the sight people mean when they say they are going to Ninh Binh for the river.",
-  "timeNeeded": "2–3 hours",
-  "fee": "Boat ticket; confirm the official fare and ignore unofficial add-ons",
-  "getThere": "About 2 hours from Hanoi, then a short ride to the landing",
-  "bestMonths": "Late May to early June for rice; the boat runs year-round",
-  "verified": "19 Oct 2026",
+  "summary": "Sleep in thôn Văn Lâm when the sampans on sông Ngô Đồng are the reason you came. The karst stands on both sides, the rice meets the water, and the ride goes through three caves and back to Đình Các. Go to Ninh Bình when you want the Sào Khê boat, Hoa Lư, or the Hang Múa stair.",
+  "timeNeeded": "About 2 hours on the water, or a night in the hamlet",
+  "fee": "No single village ticket. The boat row is separate from Thung Nắng, Thung Nham, and Hang Bụt.",
+  "getThere": "SE7 reaches ga Ninh Bình at 08:16, or 08:13 on reseller displays. Kilometre 115 from Hà Nội. The pier is a further ride.",
+  "bestMonths": "Check on arrival",
+  "verified": "23 Oct 2026",
   "interests": {
+    "food": 5,
+    "caves": 5,
     "rice": 5,
-    "caves": 4,
-    "photography": 5,
-    "family": 4
+    "photography": 4,
+    "pagodas": 3,
+    "family": 3
   },
   "cover": "river",
+  "foodSlug": "tam-coc",
   "nearby": [
     "ninh-binh",
     "hanoi"
@@ -30,61 +32,171 @@
     "hanoi-to-ninh-binh"
   ],
   "itinerarySlugs": [
+    "tam-coc-day",
     "north-7-days"
   ],
-  "seoTitle": "Tam Coc boat trip — hours, tickets, and how to get there",
-  "seoDescription": "What the Tam Coc boat ride includes, how to get there from Hanoi, and when the rice is worth the photo.",
+  "seoTitle": "Tam Coc guide — Ngo Dong sampans through three caves",
+  "seoDescription": "Sampans on sông Ngô Đồng through three caves. The 27 Feb 2026 adult fare is 250,000 đồng without the shuttle. Older lines still print 120,000 đồng.",
   "intro": [
-    "The Tam Coc landing sits among limestone hills south of Ninh Binh city. The standard ride is a small boat rowed through three caves. The trip is timed and returns to the same dock.",
-    "Buy the ticket at the official booth. Extra requests from the boat are optional. The view is the river and the fields, which change color through the growing season."
+    "You sit low in a sampan on sông Ngô Đồng, karst on both sides and rice at the water. The river has no banks. Vietnamese Wikipedia calls it a channel between the fields, a tributary of sông Sào Khê that starts near đền Suối Tiên and meets sông Vạc near cầu Vũng Trắm. It is not the Sào Khê boat. You board at bến thuyền Tam Cốc, at Đình Các in thôn Văn Lâm, ride through hang Cả, hang Hai, and hang Ba, and return to the same pier. The heritage bureau also calls those caves hang Ngoài or hang Lớn, hang Giữa or hang Trung, and hang Bé. Vietnamese Wikipedia prints about 2 hours out and back. The ticket table prints no duration.",
+    "UNESCO’s current list puts the towers of the whole Trang An property at up to 200 m, with green and yellow paddies and sampans rowed by local guides. The 2014 decision says 200m-high. The current property is 6,226 ha with a buffer of 6,026 ha. The 2014 decision prints 6,172 ha and a buffer of 6,079 ha. Tam Coc is the Ngô Đồng boat inside that landscape.",
+    "The 27 February 2026 ticket for Tam Cốc, Đền Thái Vi, Động Tiên, and chùa Bích Động is 250,000 đồng for an adult and 120,000 đồng for a child from 1 m to 1.3 m without the electric shuttle, or 350,000 đồng and 190,000 đồng with it. Hotline 19009157. A child under 1 m has no line on that row. Check on arrival. An older tourism-center line, updated 23 May 2023, prints 120,000 đồng a person a turn, then a boat ticket of 150,000 đồng a trip for 4 domestic guests or 2 international guests, free for a child under 3. DulichToday’s 2024 line prints an adult at 120,000 đồng, a child at 60,000 đồng with no height, and the boat at 150,000 đồng one way. All three lines stay. Daily hours were not on any of them. Check on arrival.",
+    "Chùa Bích Động is 2 km from the pier, three halls called Hạ, Trung, and Thượng, and the pages that use the old ranking call it Nam thiên đệ nhị động. Cục Di sản văn hóa says it was formerly Bích Sơn, founded in the Lê Trung Hưng period by the monks Trí Kiên and Trí Thể, and that in Giáp Ngọ (1774) Trịnh Sâm had Nguyễn Nghiễm supervise an eight-month carving of the two characters “Bích Động”, each character’s frame 1.5 m. Vietnamese Wikipedia says Nguyễn Nghiễm named the cave in 1773, and that the pagoda dates from the early Hậu Lê and was enlarged under Lê Hiển Tông (1740–1786). French Wikipedia dates the complex to 1428. Đền Thái Vi is 2 km by road from the pier, or a walk from the boat. A minute for either walk is Check on arrival.",
+    "The fields go from green to yellow to the silver of water on the paddies. Bicycles are common, and hire sits at most tourist points. A hire fee is Check on arrival. After the boat, one commercial sample puts a walk in the fields at 18:30. No bar street is named. Eat cơm cháy, mountain goat, and nem Yên Mạc in the hamlet. No street is named for them."
   ],
   "gettingAround": [
-    "The landing is a short taxi or bicycle ride from guesthouses in Tam Coc. There is no reason to bring a car onto the dock road if you are staying nearby."
+    "Ga Ninh Bình is the station, on the Đường sắt Việt Nam Thống Nhất table. Southbound, the kilometre column starts at Hà Nội and Ninh Bình is km 115. SE7 is Hà Nội 06:00, Ninh Bình 08:16, 2 hours 16 minutes. Asia Train Time, Vexere, and Baolau print SE7 at 08:13, 2 hours 13 minutes. Both arrivals stay. SE5 is 08:00–10:16, 2 hours 16 minutes. SE9 is 13:00–15:17, 2 hours 17 minutes. SE3 is 19:20–21:36, 2 hours 16 minutes. SE1 is 21:45–00:03 the next day, 2 hours 18 minutes. The railway table prints no fare. Those three reseller displays print SE7 seat fares of 106,000 đồng, 147,000 đồng, and 134,000 đồng, and Vexere’s display for 23 October 2026 is the 147,000 đồng soft seat. No fare is chosen. Check on arrival. The same reseller displays list SE19, which is not on the Thống Nhất table. Both the table and the extra train name stay.",
+    "Northbound, the kilometre column starts at Sài Gòn. Ninh Bình is printed at km 1611 and Hà Nội at km 1726, which is the same 115 km. SE8 is Ninh Bình 13:59, Hà Nội 16:20, on the day after the Sài Gòn departure, 2 hours 21 minutes on that leg. SE6 is 16:55–19:14, 2 hours 19 minutes. SE10 has no Ninh Bình cell. SE4 is 02:14–04:36, 2 hours 22 minutes. SE2 is 03:24–05:42, 2 hours 18 minutes. A minute from the station to the pier is Check on arrival. No airport is named. A bus route, a fare, or a minute to the pier is Check on arrival.",
+    "The sông Ngô Đồng page prints chừng 100 km by road from Hà Nội, and no minute. The 23 May 2023 tourism-center note prints about 100 km from the center of Hà Nội on Quốc lộ 1A. Baolau prints 94 km by road from Hà Nội to Ninh Bình, which is a different end. All of those distances stay. Road minutes to the pier are Check on arrival. Vietnamese Wikipedia prints 7 km from phường Hoa Lư, the provincial centre. The English page prints 7 km from Ninh Binh City. The river page prints khoảng 7 km from thành phố Hoa Lư. The number is shared. The endpoint is not. Wikipedia also prints 2 km from Quốc lộ 1 and 9 km from Tam Điệp. A family page updated 3 August 2026 prints khoảng 15–20 minutes from Tam Coc to Phố cổ Hoa Lư. A minute to Tràng An or Hang Múa is Check on arrival.",
+    "On the water, the 2026 shuttle is the 350,000 đồng ticket. Without it the adult fare is 250,000 đồng. Bích Động and Thái Vi are each 2 km from the pier. Thung Nắng, Thung Nham, and the Hang Bụt line have their own rows. The Tràng An ticket is a different row, and that boat stays in Ninh Bình."
   ],
   "stayAreas": [
     {
-      "name": "Along the rice roads",
-      "summary": "Homestays with bicycles. Best if you stay the night.",
-      "band": "Homestays"
+      "name": "Thôn Văn Lâm",
+      "summary": "Lodging grew at the boat pier, in the tourism-village cluster, and on the road from Tam Coc to Bích Động. No hotel brand is named. A room rate is Check on arrival.",
+      "band": "Pier and the Bích Động road",
+      "photo": "tam-coc"
     }
   ],
   "eat": [
-    "Eat at your homestay or back toward the village. The dock restaurants are for convenience."
+    "Cơm cháy, mountain goat, and nem Yên Mạc are the plates named for a Tam Coc lunch. Thirteen specialties are named. Not named: a breakfast dish, a sweet, a drink, a noodle, a second rice, a sausage, and a hotpot as its own Tam Coc plate. No street is named. A plate price is Check on arrival."
   ],
-  "dishSlugs": [],
+  "dishSlugs": [
+    "com-chay",
+    "thit-de-nui",
+    "de-nuong-tam-coc",
+    "de-tai-chanh",
+    "oc-nui-nuong",
+    "oc-nui-xao-me",
+    "oc-nui-hap-gung",
+    "oc-nui-luoc",
+    "goi-oc-hanh-tay",
+    "ca-ro-nuong",
+    "canh-cua",
+    "ca-muoi",
+    "nem-chua-yen-mac"
+  ],
   "interestsBody": [
-    "Tam Coc is the rice-and-cave stop. Pair it with the Mua Cave steps if you want a viewpoint the boat cannot give you."
+    "Dining is thirteen named plates in the hamlet, with no street. Cơm cháy, goat, and nem Yên Mạc are the lunch. Seven plates are not named.",
+    "The sampan is sông Ngô Đồng through hang Cả, hang Hai, and hang Ba. The rice changes color beside the boat. Bích Động, Thái Vi, and the embroidery lane sit on the same ticket day."
+  ],
+  "interestCards": [
+    {
+      "title": "Dining and F&B",
+      "summary": "Thirteen named plates. Seven are not named, and no street is named.",
+      "to": "food",
+      "icon": "food"
+    },
+    {
+      "title": "The three caves",
+      "summary": "A sampan from Đình Các through hang Cả, hang Hai, and hang Ba.",
+      "attractionSlug": "three-caves",
+      "photo": "tam-coc-three-caves",
+      "icon": "view"
+    },
+    {
+      "title": "Rice on the Ngô Đồng",
+      "summary": "The fields go green, yellow, and then silver beside the boat.",
+      "attractionSlug": "three-caves",
+      "photo": "tam-coc",
+      "icon": "view"
+    }
   ],
   "interestGroups": [
     {
-      "title": "The three caves",
-      "summary": "Low passages where you may need to duck. Water levels change the clearance.",
+      "title": "Dining and F&B",
+      "summary": "Thirteen plates named for Tam Coc. No street, and seven plates not named.",
+      "body": [
+        "You eat in the hamlet. DulichToday, updated 25 January 2024, says restaurants at Tam Coc serve cơm cháy with thịt dê núi and with tim cật, and names dê nướng and five ốc núi plates. The 23 May 2023 tourism-center note names cơm cháy, dê núi, and nem Yên Mạc for lunch in the tourist area or nearby. The 14 May 2025 Tam Coc day names dê tái chanh, cơm cháy, and dê nướng at 11:45. No street is printed. A plate price is Check on arrival.",
+        "Thirteen specialties are named. Not named for Tam Coc: a breakfast dish, a sweet, a drink, a noodle, a second rice, a sausage, and a hotpot as its own Tam Coc plate. A provincial goat list of about more than 20 plates does not mention Tam Coc, so those plates are not added. An English tourism-center list names goat soup, grilled goat with five spices, steamed goat with ginger, goat hotpot, and goat porridge around Tràng An, Tam Coc, or Hoa Lư, and prints no Vietnamese name. They are not added as separate plates."
+      ],
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "Cơm cháy, goat, mountain snail, and nem Yên Mạc. No street is named.",
+          "to": "food",
+          "icon": "food"
+        }
+      ]
+    },
+    {
+      "title": "The sampan",
+      "summary": "The Ngô Đồng ride through three caves, from Đình Các back to the same pier.",
+      "blocks": [
+        {
+          "id": "the-ride",
+          "heading": "The three caves",
+          "nav": "The ride",
+          "paragraphs": [
+            "Tam Cốc means three caves. You board at the central pier and come back to it. Cục Di sản văn hóa prints hang Cả khoảng 180 m long, width ước chừng 30 m, ceiling higher than 5 m; hang Hai khoảng 90 m, outer mouth khoảng 30 m, inner more than 30 m, ceiling chừng 3.5 m; hang Ba hơn 80 m, outer mouth khoảng 20 m, inner more than 30 m, ceiling under 3 m. Vietnamese Wikipedia prints hang Cả 127 m with a mouth wider than 20 m, hang Hai 60 m and nearly 1 km from hang Cả, and hang Ba 50 m. Both sets stay. The heritage bureau says the route ends at đền Nội Lâm, worshipping Cao Sơn đại vương. Vietnamese Wikipedia says đền Thần Nông, near hang Ba, is the last stop. The 24 May 2026 procession went from the pier to Đền Thần Nông Tam Cốc. Both end-names stay.",
+            "The 23 May 2023 tourism-center note names bến Kẽm Gió as a place to step off the boat and walk, and prints no minute for that walk. Check on arrival. Other piers on the Wikipedia route list are Thung Nắng, Xuyên Thủy, and Thạch Bích."
+          ]
+        },
+        {
+          "id": "the-ticket",
+          "heading": "The combined ticket",
+          "nav": "The ticket",
+          "paragraphs": [
+            "The 27 February 2026 row is Tam Cốc, Đền Thái Vi, Động Tiên, and chùa Bích Động. Without the shuttle: adult 250,000 đồng, child 1–1.3 m 120,000 đồng. With the shuttle: adult 350,000 đồng, child 1–1.3 m 190,000 đồng. Hotline 19009157. A child under 1 m has no line. Check on arrival. The 23 May 2023 line is 120,000 đồng a person a turn, boat 150,000 đồng a trip for 4 domestic guests or 2 international guests, free under 3. The 2024 line is adult 120,000 đồng, child 60,000 đồng with no height, boat 150,000 đồng one way. Hours are Check on arrival. This row is not the Tràng An ticket."
+          ]
+        },
+        {
+          "id": "the-hill",
+          "heading": "Bích Động, Thái Vi, and the hamlet",
+          "nav": "The hill",
+          "paragraphs": [
+            "Chùa Bích Động stands on núi Bích Động, 2 km from the pier, halls Hạ, Trung, and Thượng, with a branch of sông Ngô Đồng and the rice in front. The founding stories all stay. The heritage bureau: formerly Bích Sơn, founded in the Lê Trung Hưng period by Trí Kiên and Trí Thể, and the 1774 carving. Vietnamese Wikipedia: Nguyễn Nghiễm in 1773, early Hậu Lê, enlarged under Lê Hiển Tông (1740–1786). French Wikipedia: the complex in 1428. Xuyên Thủy Động is the water cave through the hill, about 350 m, average width 6 m, widest 15 m, east to west. It is not named on the combined ticket row. A separate fee is Check on arrival. Động Tiên is about 1 km from the pagoda, a dry cave of three chambers, and it is on the combined route. Động Thiên Hương, also Động Trời, sits on the path from the river to Đền Thái Vi. Wikipedia prints it about 60 m high, 40 m deep, and 20 m wide, about 15 m above the ground, with a shrine to Nguyễn Thị Sen. No separate fee is on the 2026 table. Check on arrival.",
+            "Đền Thái Vi is a Nguyễn-style temple in the old Vũ Lâm base. The 19 December 2016 tourism page: one hall of three bays, 28 stone columns 3.2 m high of which 22 are square, a Duy Tân bell tower of two storeys and eight roofs on 32 lim-wood columns, a national historic relic in 1994. Who is worshipped does not agree. That 2016 page: Trần Thái Tông, Trần Thánh Tông, Hiển từ Hoàng thái hậu, and a vọng altar for Trần Nhân Tông and Trần Anh Tông. Vietnamese Wikipedia: Trần Thái Tông, Trần Thánh Tông, the generals Trần Hưng Đạo and Trần Quang Khải, and queen Trần Thị Dung. Both lists stay. The temple is on the combined ticket. A separate price is not on that row.",
+            "Cố Viên Lầu is a yard of old houses, mostly from the Nguyễn period onward, collected in Ninh Bình and the Red River Delta, beside the pier and on the way to Thái Vi. Wikipedia says the culture office added it to the site in 2008. It is not on the 2026 Tam Coc row. A fee is Check on arrival. Làng thêu Văn Lâm sits in the hamlet beside the river. The 23 April 2026 tourism page says the craft came in the 13th century, when Trần Thị Dung, wife of Trần Thủ Độ, taught sericulture, weaving, and embroidery as Trần Thái Tông came to núi Vũ Lâm. Vietnamese Wikipedia says the craft began in the Đinh century, taught by Nguyễn Thị Sen, a wife of Đinh Tiên Hoàng. Both stories stay. The giỗ Tổ is the 20th of the first lunar month. The solar date moves. Handbags, tablecloths, and decorative pictures are named, and pieces can take months or years. OCOP is named with no star count. A ticket and the hours are Check on arrival."
+          ]
+        },
+        {
+          "id": "other-boats",
+          "heading": "The other tickets",
+          "nav": "Other boats",
+          "paragraphs": [
+            "Thung Nắng is a second boat. Wikipedia prints more than 500 m on foot from bến Đình Các to bến Thạch Bích, then about 3 km by boat, toward đền Thung Nắng and đền Vối, and names the afternoon for white egrets. The 2026 row is separate: scenic ticket adult 20,000 đồng, child 6–15 and people 60 and over 10,000 đồng, boat 160,000 đồng a trip, domestic boats 4 people, international boats 2. Phone printed as Chị Phương 0392232363. Hours are Check on arrival. The 250,000 đồng Tam Coc ticket does not buy this boat.",
+            "Thung Nham is another row. Wikipedia places the site at thôn Hải Nham and the bird garden at thôn Đam Khê, about 5 km west of chùa Bích Động. The visit named there is động Vái Giời, 439 stone steps, about 5,000 m², three levels, then the bird garden. The 2026 table: adult 250,000 đồng, child 1–1.3 m 150,000 đồng, electric car for the whole route 40,000 đồng a person, child under 1 m free. Pool, same table: adult 100,000 đồng, child 1–1.3 m 50,000 đồng. Phones 0912.900.887 and 0886.768.868. Hours are Check on arrival. This 250,000 đồng is not the Tam Coc 250,000 đồng.",
+            "Hang Bụt, Hang Chùa, and Hang Ghé are one ticket, Linh Cốc–Hải Nham. Wikipedia places Hang Bụt in núi Tướng, thôn Hải Nham, 8 km from the Hoa Lư city centre and 1 km from chùa Bích Động, and then says the current Hang Bụt visit is in Sơn Hà. Both locations stay. The cave is called nearly 500 m, with a stalactite compared to a Buddha, 1.5 m high and 2 m wide. The 2026 row: scenic ticket adult 20,000 đồng, child 6–15 and people 60 and over 10,000 đồng, boat adult 120,000 đồng a trip, child 6–15 and people 60 and over 60,000 đồng a trip, domestic 4 a boat, international 2. Phone printed as Anh Chung 0387584495. Hours are Check on arrival. The same paragraph says visitors cook cá rô nướng, canh cua, and cà muối. That meal is not a restaurant in thôn Văn Lâm."
+          ]
+        }
+      ],
       "cards": [
         {
           "title": "The three caves",
-          "summary": "Low passages where you may need to duck. Water levels change the clearance.",
+          "summary": "Low rock, one sampan, and the bright mouth. About 2 hours on Vietnamese Wikipedia. The ticket table prints no duration.",
           "attractionSlug": "three-caves",
           "photo": "tam-coc-three-caves",
-          "icon": "view"
+          "icon": "view",
+          "block": "the-ride"
         }
-      ],
-      "body": [
-        "The Tam Coc landing sits among limestone hills south of Ninh Binh city. The standard ride is a small boat rowed through three caves. The trip is timed and returns to the same dock.",
-        "Buy the ticket at the official booth. Extra requests from the boat are optional. The view is the river and the fields, which change color through the growing season.",
-        "Tam Coc is the rice-and-cave stop. Pair it with the Mua Cave steps if you want a viewpoint the boat cannot give you.",
-        "A stair climb to a terrace with the classic view over rice and karst. The cave itself is secondary. It has no licensed photograph here, so it is not a card.",
-        "Eat at your homestay or back toward the village. The dock restaurants are for convenience."
       ]
     }
   ],
   "faqs": [
     {
       "q": "How long is the Tam Coc boat?",
-      "a": "About one and a half to two hours on the water, plus time at the ticket gate."
+      "a": "Vietnamese Wikipedia prints about 2 hours out and back. The 27 February 2026 ticket table, the heritage bureau, and the older ticket lines print no duration. Check on arrival."
+    },
+    {
+      "q": "What does the ticket cost?",
+      "a": "On 27 February 2026, an adult is 250,000 đồng without the shuttle and 350,000 đồng with it. A child from 1 m to 1.3 m is 120,000 đồng or 190,000 đồng on those same lines. A child under 1 m has no line. Check on arrival. The 23 May 2023 line is 120,000 đồng a person a turn plus a boat at 150,000 đồng a trip, free under 3. The 2024 line is 120,000 đồng for an adult, 60,000 đồng for a child, and 150,000 đồng for the boat one way. Hours are Check on arrival."
+    },
+    {
+      "q": "Where should I sleep?",
+      "a": "In thôn Văn Lâm, at the pier, in the tourism-village cluster, or on the road toward Bích Động. No hotel brand is named. A room rate is Check on arrival."
+    },
+    {
+      "q": "How do I get there from Hanoi?",
+      "a": "SE7 leaves Hà Nội at 06:00 and reaches ga Ninh Bình at 08:16 on the railway table, 2 hours 16 minutes, at kilometre 115. Asia Train Time, Vexere, and Baolau print 08:13. Both stay. A minute from the station to the pier is Check on arrival. The river is chừng 100 km by road from Hà Nội, and Baolau prints 94 km from Hà Nội to Ninh Bình. Road minutes are Check on arrival."
+    },
+    {
+      "q": "Is this the Trang An boat?",
+      "a": "No. Tràng An is a different row and a different river, sông Sào Khê. Hang Múa is its own row. Phố cổ Hoa Lư is khoảng 15–20 minutes from Tam Coc on a family page updated 3 August 2026. A minute to Tràng An or Hang Múa is Check on arrival. The rite on the 18th of the third lunar month is at đền Trần on sông Sào Khê, not this pier."
     }
   ],
   "season": {
-    "label": "Typical rice window",
-    "note": "Late May to early June is the usual peak for Tam Coc paddies. A live report replaces this note when one is filed."
+    "label": "Ripe rice at the end of May",
+    "note": "The 2026 Sắc vàng festival opened on the morning of 24 May at Tam Cốc–Bích Động. The procession left the pier for Đền Thần Nông, with produce from 34 provinces, about 2,000 performers, and rice cut in the yellow field. The culture office places the festival in the last days of May 2026, inside a tourism week of about 10 days, and does not print the closing morning. Next year’s solar date moves with the rice. The boat is not listed as closing in any month."
   }
 }
