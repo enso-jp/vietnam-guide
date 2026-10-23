@@ -429,3 +429,12 @@ None on the peninsula. Back Beach and Front Beach stay areas of `vung-tau`. Con 
 - Suggested slug: peninsula-day
 - Photo must show: One true sequence is enough for a card: morning sand with the hotel line, not a collage
 - Sources: S1, S2
+
+## Attraction pass, 23 Oct 2026
+
+Area groups used as `district` on every published sight: Back Beach (back-beach, hon-ba, thang-tam), Front Beach (front-beach), Small Mountain (christ-statue, lighthouse, niet-ban), Big Mountain (bach-dinh, duc-me, ho-may, thich-ca).
+
+- Published: `lighthouse` and `niet-ban`. Research in `attractions/lighthouse.md` and `attractions/niet-ban.md`. Niet Ban Tinh Xa (60/7 Ha Long, Small Mountain) is a different site from Thich Ca Phat Dai (610 Tran Phu, Big Mountain).
+- Unpublished: no licensed photo — Ben Dinh fishing village (the sourced fish-market entry; Commons search for Ben Dinh, fish market, and fishing boats on 23 Oct 2026 found no frame of that subject). Mulberry Beach / Bai Dau — Commons has the Mary statue, the church, and a cross, but no frame of the beach itself.
+- Out: Worldwide Arms Museum (weapons photos rejected; no address). Long Hai and Ho Coc stay side-trip placeholders in `side-trips.md`, not sights of this place.
+- Conflicts kept here, not on the page: Bach Dinh’s two hour lines (S5) are shown on the page as a range with a possible weekday lunch close; Thich Ca’s three ranking dates (S4, S6, S8) are left off the page; Back Beach length (S1 3 km vs an unopened longer figure) is left off the page.

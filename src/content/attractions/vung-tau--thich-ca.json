@@ -4,21 +4,17 @@
   "name": "Thich Ca Phat Dai",
   "nameVi": "Thích Ca Phật Đài",
   "kicker": "Pagoda complex on Big Mountain",
-  "summary": "Walk the complex on Trần Phú for the seated Buddha, the 12 metre reclining figure, and the sculptures of Siddhartha’s life. It is a Big Mountain visit, separate from Christ the King on Small Mountain. The museum article and the tourism catalogue do not agree on the ranking date. A fee and a gate hour are check on arrival.",
+  "summary": "A Buddhist hillside park on Big Mountain: walk up past statues of the Buddha’s life to a reclining Buddha. Built from 1961 to 1963, it has a 10 m seated Buddha on a lotus, and 16 relic beads are kept here. It is a different temple from Niet Ban Tinh Xa, the reclining-Buddha temple on Small Mountain.",
   "dots": 4,
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
-  "getThere": "Trần Phú, on the Big Mountain side.",
+  "getThere": "610 Trần Phú, on the Big Mountain side.",
+  "district": "Big Mountain",
   "verified": "21 Oct 2026",
   "heroCaption": "The reclining figure at Thich Ca Phat Dai, full length",
-  "notice": {
-    "title": "The ranking dates do not match",
-    "body": "The museum article dates decision 1987/VHQĐ to 14 February 1981. The tourism catalogue dates 1987/VH.QĐ to 14 December 1989. The relic list says a national ranking in 1989. All three are printed. None is dropped."
-  },
   "body": [
-    "The complex is Thích Ca Phật Đài, with Thiền Lâm Tự, on Trần Phú. The museum article places it in ward 5 on Big Mountain, Núi Tương Kỳ. The relic list prints 610 Trần Phú. Built from July 1961 to March 1963, on the museum article.",
-    "The seated Buddha is 10 metres overall, a 4 metre base and a 6 metre body. A 12 metre reclining figure is at the top, which is the figure in the photograph. The museum article says 16 relic beads and a bodhi branch are kept here, and the grounds hold sculptures of Siddhartha’s life. The gate carries the name of the complex.",
-    "A best hour and a ticket are not printed. Come in the daytime. Do not budget the Christ stair count for this hill. Those steps are on Small Mountain."
+    "Thích Ca Phật Đài, with Thiền Lâm Tự, climbs the slope of Big Mountain from Trần Phú. It was built from July 1961 to March 1963. Walk up through sculptures of Siddhartha’s life to the seated Buddha, 10 metres from base to head, and the 12 metre reclining figure at the top.",
+    "The complex keeps 16 relic beads and a branch of the bodhi tree. Come in the daytime. Niet Ban Tinh Xa, on the Small Mountain shore, also has a 12 metre reclining Buddha. Visit both if pagodas are your interest."
   ],
   "figures": [
     {
@@ -28,31 +24,30 @@
     }
   ],
   "gettingThere": [
-    "The complex is on Trần Phú, on the Big Mountain side of the peninsula. The relic list prints 610 Trần Phú. Minutes from Back Beach or from the cable-car station at 1A Trần Phú are not printed."
+    "The gate is at 610 Trần Phú, on the Big Mountain side of the peninsula. Take a taxi or motorbike taxi from either beach."
   ],
   "legs": [
     {
       "heading": "From the Ho May station",
-      "body": "Both are on Trần Phú. The station is 1A. The relic list prints the pagoda at 610. Walk minutes between them are check on arrival."
+      "body": "Both are on Trần Phú: the station at 1A, the pagoda at 610."
     },
     {
       "heading": "From Front Beach",
-      "body": "Up onto the Big Mountain side and Trần Phú. Minutes are check on arrival."
+      "body": "Along Trần Phú round the Big Mountain shore."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly close is printed. Check on arrival.",
-  "admissionNote": "No ticket is printed on the museum article or the catalogue entry used here. Check on arrival.",
+  "closed": "Check on arrival",
   "links": [
     {
       "label": "Museum article",
       "url": "https://www.baotangbrvt.org.vn/thang-tich-thich-ca-phat-dai/",
-      "note": "Dates, heights, and the 1981 decision line"
+      "note": "Ba Ria–Vung Tau Museum"
     },
     {
       "label": "Ranked relics",
       "url": "https://www.baotangbrvt.org.vn/danh-muc-di-tich-da-xep-hang/",
-      "note": "610 Trần Phú, national rank 1989"
+      "note": "Ba Ria–Vung Tau Museum"
     }
   ],
   "interests": ["pagodas"]

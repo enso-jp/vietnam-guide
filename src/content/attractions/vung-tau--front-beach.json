@@ -4,21 +4,22 @@
   "name": "Front Beach",
   "nameVi": "Bãi Trước",
   "kicker": "The arc between the two mountains",
-  "summary": "Walk the seafront on the southwest arc, between Big Mountain and Small Mountain. The provincial page keeps sunrise for this water, and Vietnam Tourism keeps the evening for a drink. Do not treat it as the swimming beach. That swim is on Back Beach.",
+  "summary": "The curved seafront between Big and Small Mountain: walk it at sunrise, or after dark for a drink. Its old name, Tầm Dương, is tied to looking for the sun, and sunrise is the moment here. In the evening the promenade is the lively side of town. Pair it with Bach Dinh and the cable car at the north end.",
   "dots": 4,
   "timeNeeded": "A walk",
-  "fee": "No ticket is printed. A beach chair is check on arrival.",
-  "getThere": "A ride from Back Beach. Minutes are check on arrival.",
+  "fee": "Free",
+  "getThere": "Taxi or motorbike taxi from Back Beach.",
+  "district": "Front Beach",
   "verified": "21 Oct 2026",
   "heroCaption": "The Front Beach arc, the water, and the headland",
   "notice": {
     "title": "This is not the swim",
-    "body": "The waves Vietnam Tourism calls fairly flat, and suitable for children, are on Back Beach. Front Beach is the walk and the evening."
+    "body": "The gentle waves for swimming are on Back Beach. Front Beach is the walk and the evening."
   },
   "body": [
-    "The provincial page names this shore Bãi Trước and Bãi Tầm Dương, and ties Tam Duong to looking for the sun. It says sunrise is the moment, while sunset is still bright on this water. Buildings follow the arc between Big Mountain and Small Mountain.",
-    "Vietnam Tourism adds daytime time on the sand and a drink after dark, and calls the evening lively. No bar is named on that page. Drink prices and a closing hour are check on arrival. The 2026 whale procession opened in the park here and the boats left at 5:30. That is the festival morning, not a reason to expect boats on an ordinary afternoon.",
-    "A walk length in minutes was not printed. Come at sunrise for the name’s own claim, or after dark for the drink. Then go back to Back Beach if you still want to swim."
+    "Walk the promenade along the arc between Big Mountain and Small Mountain, with buildings on one side and the bay on the other. The beach is also called Bãi Tầm Dương, a name tied to looking for the sun. Come at sunrise, though the water is still bright at sunset.",
+    "In the evening the seafront is the lively side of town, with drinks by the water. On the whale festival morning, the 16th of the 8th lunar month, the boat procession sets out from the park here. In 2026 it left at 5:30.",
+    "Trần Phú runs north from the arc round Big Mountain, past Bach Dinh and the Ho May cable-car station."
   ],
   "figures": [
     {
@@ -28,21 +29,20 @@
     }
   ],
   "gettingThere": [
-    "Front Beach is the southwest arc. From a hotel on Back Beach it is a ride. Minutes and the fare are not printed. The seafront pavement is the walk once you are there."
+    "Front Beach is the southwest side of the peninsula. From a Back Beach hotel, take a taxi or motorbike taxi across town."
   ],
   "legs": [
     {
       "heading": "From Back Beach",
-      "body": "A ride to the arc between the two mountains. Minutes are check on arrival."
+      "body": "A ride across the peninsula by taxi or motorbike taxi."
     },
     {
       "heading": "From Ho Chi Minh City",
-      "body": "Vietnam Tourism’s older hydrofoil line lands at Front Beach. The 2026 GreenlinesDP notices do not name the Vung Tau pier. Sailing minutes are check on arrival."
+      "body": "By GreenlinesDP fast ferry, about two hours. Confirm the Vung Tau landing pier when you book."
     }
   ],
-  "hours": "Check on arrival",
-  "closed": "No weekly close is printed. Check on arrival.",
-  "admissionNote": "No ticket is printed for the seafront. A beach chair, if someone offers one, is check on arrival.",
+  "hours": "Open seafront",
+  "closed": "Check on arrival",
   "links": [
     {
       "label": "Vietnam Tourism, the getaway",

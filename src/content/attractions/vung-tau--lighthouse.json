@@ -1,0 +1,38 @@
+{
+  "slug": "lighthouse",
+  "placeSlug": "vung-tau",
+  "name": "Vung Tau Lighthouse",
+  "nameVi": "Hải đăng Vũng Tàu",
+  "kicker": "A white French lighthouse on top of Small Mountain",
+  "summary": "A white French lighthouse on top of Small Mountain: ride up in late afternoon for sunset over the sea. First lit in 1862 and rebuilt in 1913, it is one of the oldest lighthouses in Vietnam. From the terrace you look down on the Christ statue, the city, and the East Sea. Pair it with the statue on the same headland.",
+  "dots": 4,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Car or motorbike up the Small Mountain road.",
+  "district": "Small Mountain",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The white tower and its lamp room on the summit of Small Mountain",
+  "body": [
+    "The French built the first light here in 1862, 149 metres above the sea, and rebuilt it in 1913 higher on the hill, at 170 metres. The tower is a white cylinder 18 metres tall, with a stair inside and a balcony near the top.",
+    "Come in the late afternoon. The terrace looks over the city, the Christ statue on the same headland, and the East Sea, and it is a breezy place to watch the sunset."
+  ],
+  "figures": [
+    {
+      "id": "vung-tau-lighthouse-2",
+      "caption": "The view from the lighthouse: the Christ statue’s headland, the city, and the sea",
+      "alt": "View from Vung Tau lighthouse over the city to the Christ statue on its headland and the sea"
+    }
+  ],
+  "gettingThere": [
+    "The lighthouse is on the summit of Small Mountain. Go up the mountain road by car or motorbike, or walk the road along the hillside."
+  ],
+  "legs": [
+    {
+      "heading": "From either beach",
+      "body": "Taxi or motorbike taxi up the Small Mountain road to the summit."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "interests": ["photography"]
+}

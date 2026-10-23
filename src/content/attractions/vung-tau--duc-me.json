@@ -4,21 +4,22 @@
   "name": "Our Lady of Mulberry Beach",
   "nameVi": "Đức Mẹ Bãi Dâu",
   "kicker": "Mary and child on Big Mountain",
-  "summary": "This is the other white statue: Mary holding the child, on the slope of Big Mountain above Mulberry Beach. The catalogue prints her at 32 metres, built in 1992, inaugurated on 31 December 1994, at 60 metres above the sea. She is not Christ the King. That figure is on Small Mountain, with both arms out.",
+  "summary": "A 32 m white Mary holding the Child on Big Mountain: a short daytime stop for the statue and the sea. She stands 60 metres above the water on the slope above Bãi Dâu, with a large church beside her. She was inaugurated at the end of 1994. Pair her with Bach Dinh or the cable car on the same hill.",
   "dots": 4,
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
-  "getThere": "The Big Mountain slope above Mulberry Beach.",
+  "getThere": "The Big Mountain slope above Bãi Dâu.",
+  "district": "Big Mountain",
   "verified": "21 Oct 2026",
   "heroCaption": "Mary holding the child, head and the child’s arms in frame",
   "notice": {
-    "title": "Do not caption this as Christ",
-    "body": "Both statues are printed at 32 metres. Christ stands on Small Mountain with both arms out. Mary stands on Big Mountain holding the child."
+    "title": "Christ is on the other hill",
+    "body": "Christ the King, also white and 32 metres tall, stands on Small Mountain with both arms out. Mary, on Big Mountain, holds the Child."
   },
   "body": [
-    "The catalogue places the statue on the slope of Big Mountain, facing the sea, with the church beside it. It prints the statue built in 1992, 32 metres tall, at 60 metres above the sea, and inaugurated on 31 December 1994. The church foundation stone is 19 March 1994. The building is 46 metres by 26 metres, with seats for 1,000.",
-    "Mulberry Beach is Bãi Dâu, also Vũng Mây and Bãi Phương Thảo on the provincial page, under this hill. The page records the old names and the rattan that used to grow on Big Mountain. It does not describe a swim service. Come in daylight so the white figure reads against the sky.",
-    "A visit length and a fee are not printed. Check on arrival. The Teochew Guanyin temple, Phổ Đà Sơn, is on the same hillside, 500 metres from Mulberry Beach, with an 18 metre figure. That temple has no licensed photograph of the Guanyin here, so it is not a separate page."
+    "The statue faces the sea from the Big Mountain slope above Bãi Dâu, Mulberry Beach. Building started in 1992, and she was inaugurated on 31 December 1994. She is 32 metres tall and stands 60 metres above the water.",
+    "Beside her is the church, begun in 1994: 46 by 26 metres, with seats for 1,000. Come in daylight so the white figure stands out against the sky.",
+    "Phổ Đà Sơn, a Teochew temple with an 18 metre white Guanyin, is on the same hillside road, 500 metres from Bãi Dâu."
   ],
   "figures": [
     {
@@ -28,26 +29,25 @@
     }
   ],
   "gettingThere": [
-    "The statue is on the Big Mountain slope above Mulberry Beach, north of Front Beach and toward the cable-car station on Trần Phú. Minutes from Back Beach are not printed."
+    "The statue is on the Big Mountain slope above Bãi Dâu, north of Front Beach on the Trần Phú side of the hill. Take a taxi or motorbike taxi from either beach."
   ],
   "legs": [
     {
       "heading": "From Front Beach",
-      "body": "North along the shore toward Big Mountain and Trần Phú. Minutes are check on arrival."
+      "body": "North along Trần Phú, the shore road round Big Mountain, to Bãi Dâu."
     },
     {
       "heading": "From the Ho May station",
-      "body": "The lower station is 1A Trần Phú, on this side of the hill. The walk between the station and the statue is not given a minute count. Check on arrival."
+      "body": "The lower station, 1A Trần Phú, is on the same side of the hill."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly close is printed. Check on arrival.",
-  "admissionNote": "No fee is printed on the provincial catalogue page. Check on arrival.",
+  "closed": "Check on arrival",
   "links": [
     {
       "label": "Ba Ria–Vung Tau destination catalogue",
       "url": "https://diemden.baria-vungtau.gov.vn/places",
-      "note": "Measurements and dates for Đức Mẹ Bãi Dâu"
+      "note": "Đức Mẹ Bãi Dâu"
     }
   ],
   "interests": ["photography"]

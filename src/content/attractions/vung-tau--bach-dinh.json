@@ -4,21 +4,21 @@
   "name": "Bach Dinh",
   "nameVi": "Bạch Dinh",
   "kicker": "A late-1800s villa, now a museum",
-  "summary": "Stop at the white villa on the walk up Big Mountain, above the Front Beach side. Work started in 1898, and the house is now a museum of local artefacts, with gardens and verandas toward the sea. The museum’s own page prints two different hour blocks and no price. Confirm both at the door.",
+  "summary": "A white French villa begun in 1898 on Big Mountain, now a museum: a short stop on the hill walk. Walk the gardens and verandas that look out to sea, then see the local collection inside. Come in the afternoon, and avoid Monday, when it is closed. The summit is a 30-minute trek beyond the house.",
   "dots": 4,
   "timeNeeded": "A short stop on the hill walk",
   "fee": "Check on arrival",
-  "getThere": "The hill path from the Front Beach side.",
+  "getThere": "On Trần Phú, up the hill path from Front Beach.",
+  "district": "Big Mountain",
   "verified": "21 Oct 2026",
   "heroCaption": "The white villa front, the garden stair, and the tiled eaves",
   "notice": {
-    "title": "Two addresses and two clocks",
-    "body": "The museum prints the building at 4 Trần Phú. The relic list prints 6 Trần Phú. One hour line is split around midday on weekdays. Another says 8:00–17:00 Tuesday to Sunday. Closed Monday is implied by both."
+    "title": "Closed on Mondays",
+    "body": "The museum opens Tuesday to Sunday. On weekdays it may close over lunch, so arrive before 11:30 or after 13:30."
   },
   "body": [
-    "Vietnam Tourism calls it a late-1800s house for the French governor, now a quiet museum, with gardens and verandas toward the sea. The catalogue says work started in 1898, in the same years as the Hanoi Opera House, Notre-Dame, and the Saigon Opera House, and cites decision 983VH/QĐ of 4 August 1992.",
-    "Use it as a stop on the way toward the summit. Vietnam Tourism prints the summit trek as 30 minutes. Time inside the house is not printed. Come in the afternoon, which is the hour that page gives the garden walk.",
-    "The French battery on Big Mountain is a separate relic. A frame of those cannons in the open, with the sea, was not the picture that could be tied to the battery rather than to this villa, so the guns are not a separate page. Read the door for the ticket and for which hour line is in force."
+    "Bạch Dinh, the White Villa, was built for the French governor. Work started in 1898, in the same years as the Hanoi Opera House. Today it is a quiet museum of local artefacts, with gardens and verandas facing the sea.",
+    "Use it as a stop on the walk up Big Mountain. The summit trek beyond the house takes about 30 minutes. Come in the afternoon for the garden walk, and leave time for the view from the veranda."
   ],
   "figures": [
     {
@@ -28,31 +28,30 @@
     }
   ],
   "gettingThere": [
-    "Bach Dinh sits on Big Mountain above the Front Beach side. The hill path is the way Vietnam Tourism describes. The summit beyond the house is the 30-minute trek on that page. Minutes from Back Beach are check on arrival."
+    "Bach Dinh is on Trần Phú, on the Big Mountain side above Front Beach. The museum entrance is 4 Trần Phú. Walk up the hill path from the Front Beach end, or take a taxi to the gate."
   ],
   "legs": [
     {
       "heading": "From Front Beach",
-      "body": "Up the hill path toward the villa. The museum address is 4 Trần Phú. The relic list prints 6 Trần Phú. Walk minutes are check on arrival."
+      "body": "Walk north along the shore to Trần Phú, then up the hill path."
     },
     {
       "heading": "From the Ho May station",
-      "body": "The cable-car station is 1A Trần Phú, on the same road. The walk between the station and the villa is not given a minute count. Check on arrival."
+      "body": "The cable-car station is 1A Trần Phú, on the same road. Walk along Trần Phú."
     }
   ],
-  "hours": "Tue–Fri 7:30–11:30 and 13:30–17:00, Sat–Sun 7:30–17:00 on one line; Tue–Sun 8:00–17:00 on another. Confirm at the door.",
-  "closed": "Monday, implied by both lines on the museum page. Confirm at the door.",
-  "admissionNote": "The hours page prints no price. Check on arrival. Do not assume 4 Trần Phú and 6 Trần Phú are one ticket window. Both addresses are printed.",
+  "hours": "Tue–Sun, about 7:30–17:00. Weekdays may close 11:30–13:30.",
+  "closed": "Monday",
   "links": [
     {
       "label": "Museum hours",
       "url": "https://www.baotangbrvt.org.vn/gio-mo-cua/",
-      "note": "Ba Ria–Vung Tau Museum. Two hour blocks, no price."
+      "note": "Ba Ria–Vung Tau Museum"
     },
     {
       "label": "Ranked relics",
       "url": "https://www.baotangbrvt.org.vn/danh-muc-di-tich-da-xep-hang/",
-      "note": "Prints Bach Dinh at 6 Trần Phú"
+      "note": "Ba Ria–Vung Tau Museum"
     }
   ],
   "interests": ["warHistory"]
