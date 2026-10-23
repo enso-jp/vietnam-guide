@@ -169,6 +169,42 @@ Accessed 21 Oct 2026 unless a page states its own date.
 - Accessed: 21 Oct 2026
 - Supports, in addition to the earlier labels: an undated stone pillar; a corner flame ornament from H1, 13th century; a praying-figure relief dated about the 12th to the 13th century; a dancing Shiva relief from C1, 18th century; an altar component from group A, 9th century; Indra from group A, 10th century. The page still does not name a wooden model. The Dalbéra photograph shows a wooden sanctuary roof over a linga. Do not invent a label or a date for that model.
 
+### S29
+- URL: https://vov.gov.vn/dem-my-son-huyen-thoai-mobiledtnew-368563
+- Publisher: VOV2, updated 23 Mar 2022
+- Accessed: 23 Oct 2026
+- Supports: Đêm Mỹ Sơn huyền thoại, planned inside Năm Du lịch quốc gia — Quảng Nam 2022 and described as a product for the 16th of the lunar month. The program it announces began at 16:00 on 24 Mar 2022 at thôn Mỹ Sơn, xã Duy Phú, huyện Duy Xuyên, tỉnh Quảng Nam. It names bê thui Cầu Mống and mì Quảng as rustic plates of Quang Nam people and Cham people. It does not describe either plate, and it does not name a stall. Do not publish 24 Mar 2022 as a night to attend. S7, later, says the calendar is not fixed.
+
+### S30
+- URL: https://vietnam.travel/vi/things-to-do/4-must-try-dishes-quang-nam
+- Publisher: Vietnam Tourism, 4 must-try dishes from Quang Nam. Contact on the page: contact@vietnamtourism.gov.vn
+- Accessed: 23 Oct 2026
+- Supports: Four provincial dishes: cao lầu (Hoi An), mì Quảng (across Quảng Nam: less broth than phở, wide flat chewy turmeric noodles, pork, chicken, shrimp, or a mix, quail eggs or pork sausage, herbs, crispy crackers, peanuts, chili, lime, and soy sauce), cơm gà Tam Kỳ, and bánh bao bánh vạc (Hoi An). The same page places My Son about 40 km away as a sanctuary, not as the kitchen for those four plates. Cao lầu, cơm gà Tam Kỳ, and bánh bao bánh vạc were not copied in as My Son specialties.
+
+### S31
+- URL: https://bvhttdl.gov.vn/di-san-van-hoa-mien-trung-nhin-qua-mien-am-thuc-20250207084619481.htm
+- Publisher: Ministry of Culture, Sports and Tourism, 7 Feb 2025, citing Báo Văn hóa
+- Accessed: 23 Oct 2026
+- Supports: Bánh tổ as a Quang Tet cake the writer first met in Hoi An. Mì Quảng and bánh đậu xanh as everyday food of the Quang land. A sentence on My Son names fresh herbs, scallion, and fish sauce of Cham craft. It does not name a dish. Huế mắm nêm and Quảng Nam mắm cái are both salty, and the aroma is not the same. Bánh tổ was not copied in as a My Son specialty.
+
+### S32
+- URL: https://mattran.danang.gov.vn/chi-tiet-tin/group/77/nid/8209/duy-xuyen-dong-hanh-cung-san-pham-ocop-dia-phuong
+- Publisher: Ủy ban MTTQ Việt Nam thành phố Đà Nẵng, Duy Xuyên OCOP note. The text that was read does not print the article’s own day. The photograph path is under a 2022 folder.
+- Accessed: 23 Oct 2026
+- Supports: 4 stars: nước mắm Duy Trinh, tơ lụa Mã Châu, and quạt gỗ Nguyễn Ngọc Hạnh, with thị trấn Nam Phước at the end of that sentence. 3 stars: bánh dẻo Lợi Phổ, thôn An Lạc, xã Duy Thành; bánh tráng Hải An, xã Duy Trinh; dầu mè đen xứ Quảng, thôn Lang Châu Nam, xã Duy Phước. 2021 3 stars: gạo tím than Lò Gạch Cũ, Lò gạch cũ Farmstay, thôn Vĩnh Nam, xã Duy Vinh; mắm ruốc Duy Trinh, cơ sở sản xuất nước mắm Duy Trinh, thôn An Lương, xã Duy Hải; ngũ cốc Duy Anh, hộ Phạm Thị Duy Mỹ, thôn Kiệu Châu, xã Duy Sơn; trứng gà ác Hảo Nhân, hộ Phạm Ngọc Anh, thôn Đông Yên, with no commune in that clause. 2022 targets, not in the recognized list in this note: đĩa đền tháp Mỹ Sơn, nước mắm nhĩ Cửa Đại, đĩa trang trí Ký ức miền di sản. Silk, the fan, the broom, the statue, and the plates are not foods.
+
+### S33
+- URL: https://mattran.danang.gov.vn/chi-tiet-tin/group/72/nid/8943/duy-xuyen-to-chuc-hoi-cho-va-dien-dan-khoi-nghiep-doi-moi-sang-tao-nam-2-23
+- Publisher: Ủy ban MTTQ Việt Nam thành phố Đà Nẵng, fair note. The fair ran 22–24 Sep 2023, held with UBND huyện Duy Xuyên.
+- Accessed: 23 Oct 2026
+- Supports: Recognized OCOP products named at the fair include nước mắm Duy Trinh, sen sấy khô Trà Lý, Ngũ cốc Duy Oanh (Duy Sơn), bánh tráng Hải An (Duy Trinh), dầu mè đen Xứ Quảng (Duy Phước), bánh dẻo Lợi Phổ, gạo tím than lò gạch cũ, and nước mắm nhỉ Cửa Đại. No star count and no price. The spelling Ngũ cốc Duy Oanh does not match ngũ cốc Duy Anh on S32. The spelling nhỉ does not match nhĩ on S32. Both stay.
+
+### S34
+- URL: https://mattran.danang.gov.vn/chi-tiet-tin/group/72/nid/9298/hieu-qua-phong-trao-doan-ket-sang-tao
+- Publisher: Ủy ban MTTQ Việt Nam thành phố Đà Nẵng, note by Thanh Hương. The lede is Năm 2024. The article’s own day was not in the text that was read.
+- Accessed: 23 Oct 2026
+- Supports: A black apple-snail farm in xã Duy Phú. The caption calls món chả ốc the finished product of that model. No method, no price, no restaurant. Also names Ngũ cố Duy Oanh, a third spelling beside S32 and S33. Quán Trà đạo — Nguyên Quân trà, bánh kẹo “Heathy,” and trà sữa nhà Kem are startup ideas. They are not plates.
+
 ### Not used
 - URL: https://cadn.com.vn/to-chuc-chuong-trinh-am-vang-my-son-dinh-ky-hang-thang-post336735.html
 - Publisher: Báo Đà Nẵng

@@ -25,6 +25,7 @@
     "da-nang",
     "hue"
   ],
+  "foodSlug": "my-son",
   "routeSlugs": [
     "da-nang-to-hoi-an"
   ],
@@ -54,9 +55,26 @@
     }
   ],
   "eat": [
-    "Eat in Hoi An before you leave, or back in Hoi An or Da Nang after the gate. The ticket rules forbid eating in the monument area. The sanctuary’s services list has crafts and shows, not a food street."
+    "Eat before the gate. The ticket rules forbid eating in the monument area. VOV2 named mì Quảng and bê thui Cầu Mống at the 24 Mar 2022 night program, and the sanctuary essay names mắm cái, a herring salad, and veal. A price is Check on arrival."
   ],
-  "dishSlugs": [],
+  "dishSlugs": [
+    "my-son--mi-quang",
+    "my-son--be-thui-cau-mong",
+    "my-son--thit-nghe",
+    "my-son--goi-ca-moi",
+    "my-son--mam-cai",
+    "my-son--cha-oc",
+    "my-son--nuoc-mam-duy-trinh",
+    "my-son--nuoc-mam-nhi-cua-dai",
+    "my-son--mam-ruoc-duy-trinh",
+    "my-son--banh-deo-loi-pho",
+    "my-son--banh-trang-hai-an",
+    "my-son--dau-me-den",
+    "my-son--gao-tim-than",
+    "my-son--ngu-coc",
+    "my-son--trung-ga-ac",
+    "my-son--sen-say"
+  ],
   "interestsBody": [
     "The brick in the valley is the reason to come. Groups B, C, and D are where a 2025 management essay says most of the remaining towers stand. The museum at the gate is the start, beside the Khe Thẻ stream, before the cart.",
     "Daytime Cham performances run in the hall, at group G, and, on Monday, Wednesday, and Friday, at the group H slope. Echoes of My Son is the 15th, in groups B, C, and D. The evening show has no fixed date.",
@@ -93,6 +111,22 @@
     }
   ],
   "interestGroups": [
+    {
+      "title": "Dining and F&B",
+      "summary": "Mì Quảng and bê thui Cầu Mống are named for the valley. Eating inside the monument area is forbidden.",
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "Mì Quảng and bê thui Cầu Mống are named for the valley. The ticket rules forbid eating among the towers. A price is Check on arrival.",
+          "to": "food",
+          "icon": "food"
+        }
+      ],
+      "body": [
+        "The valley is not a food street. VOV2 named mì Quảng and bê thui Cầu Mống at the 24 Mar 2022 night program in the hamlet. The sanctuary essay names mắm cái, a herring salad, and veal.",
+        "The ticket information page forbids eating in the monument area. A 25 Feb 2025 management essay still lists restaurants and local food as infrastructure the management board wants to build. A price and an hour are Check on arrival."
+      ]
+    },
     {
       "title": "The brick in the valley",
       "summary": "Standing Cham towers, mostly the groups that remain in B, C, and D.",
