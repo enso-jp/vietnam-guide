@@ -81,3 +81,25 @@ Highland meals are tied to festivals, buon kitchens, and river fish. There is no
 ## Notes, not pages
 
 Restaurant and hotel names in the provincial handbook (Robin Hotel, Yumin Farmhouse, etc.) are `do not publish as a pick` — source S1 lists them as examples only.
+
+## Food guide pass — 23 Oct 2026
+
+Published specialties are the dishes named by S1, S6, S8, S9, S17, S18, S19, S20, S21, S22, S23, S24, S25, and S26. Streets are not counted in that list. The Sunday market stays a where, not a specialty.
+
+Left out on purpose:
+
+- Cá lăng om, chả, hấp, xào tỏi, and cháo are named by S8 and S1 as other ways to cook the same fish. They stay inside the grilled-catfish entry. They were not split into five more dishes.
+- S18 says Dao cooking runs past 60 dishes and Mong cooking is about 20. Only the dishes that article names are recorded.
+- S18’s restaurant sentence also says “lòng bê, bò, dê” and then breaks off. That fragment is not a dish.
+- Gia Nghia bus station stays unpublished. S4 is still too thin.
+- No licensed photo of any of these dishes was filed. No price and no market opening hour was printed. Public fields stay `Check on arrival`.
+- No international kitchen, fine-dining room, themed room, or sourced breakfast hour.
+
+Conflicting accounts, both kept:
+
+- Cơm lam: S1 and S17 use a bamboo or nứa tube and stream water. S18 grills a banana leaf and may mix in beans.
+- Canh thụt: S1 and S21 list lá bép, đọt mây, cà đắng, stream fish, plus lòng non, pork ribs, or canned fish. S19 adds termites and mole crickets and a tilted lồ ô tube. S18 seasons with salt and MSG and mashes with a stick.
+- Rượu cần: S9 does not describe colour. S19 says two to six months, thick like honey, brown-yellow.
+- Durian: S25 says April to September, Ri 6, Út Thủy, Monthong, Gia Trung and Đắk Mil. S1 and S17 stress red basalt in Đắk Mil and do not print that season.
+- Coffee: S22 names robusta. S1 and S17 also name Arabica and Culi.
+- Rice spelling: S23 title Buôn Choah. S1 and S17 spell Buôn Choáh.
