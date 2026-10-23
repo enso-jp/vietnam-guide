@@ -2,10 +2,48 @@
   "slug": "national-park",
   "placeSlug": "cat-ba",
   "name": "Cat Ba National Park",
-  "summary": "Forest trails and a peak viewpoint. Go early and carry water.",
+  "nameVi": "Vườn quốc gia Cát Bà",
+  "kicker": "Forest gate on the island",
+  "summary": "Walk the limestone forest when the boat day is not the plan. The park’s own fee page opens the gate at 07:00 and closes it at 17:00, and it does not print the amounts. UNESCO names the Cat Ba langur and prints no headcount. A road minute from the harbor is Check on arrival.",
   "dots": 3,
-  "timeNeeded": "Half a day",
-  "fee": "Park ticket; confirm at the gate",
-  "getThere": "Taxi or tour from town",
-  "interests": []
+  "timeNeeded": "A morning",
+  "fee": "160,000 đồng for an adult",
+  "getThere": "Road from the harbor. Minutes are Check on arrival.",
+  "bestMonths": "Inside 07:00–17:00. The 2016 article names the forest walk in winter.",
+  "district": "The park",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Buttress roots on the limestone forest floor",
+  "hours": "07:00–17:00",
+  "admissionNote": "From 1 January 2026, adult and child from 6, on the 20 December 2025 article: the park 160,000 / 80,000 đồng; the line from the park center to đỉnh Kim Giao, đỉnh Ngự Lâm, and động Trung Trang 120,000 / 60,000; đồng Ninh Tiếp and hang Tiền Đức 80,000 / 40,000; Phù Long, the mangrove, and động Thiên Long 80,000 / 40,000. Under 6 is free. That article says the park fee and those three routes are paid 100 percent to the state budget. The replaced 2024 resolution used the same prices and said the park keeps 100 percent of what it collects. The retention lines disagree. The prices agree. The 2024 child test is from age 6 or from 1.2 m, free under 6 or under 1.2 m. The 2025 article does not print the height test. Both stay. The park’s own fee page prints the hours and does not print the amounts.",
+  "gettingThere": [
+    "The gate is a road into the island interior. A minute from the harbor is Check on arrival. UNESCO says the archipelago was designated a national park in 1986, a marine protected area in 2010, and a special national monument in 2013, and that the park boundary should still be aligned with the World Heritage boundary. The biosphere reserve is 2004. The property extension is September 2023, criteria (vii) and (viii). The contact line is Vườn quốc gia Cát Bà, Đặc khu Cát Hải, TP Hải Phòng. UNESCO names the Cat Ba langur, Trachypithecus poliocephalus, as critically endangered, a small population, hurt by tourism, few animals, and broken groups. It prints no headcount. The special-zone account says the golden-headed langur lives only here and is critically endangered on the IUCN Red List."
+  ],
+  "legs": [
+    {
+      "heading": "From the Cat Ba harbor",
+      "body": "By road to the gate. No minute is printed. Check on arrival. Walking is only inside 07:00–17:00."
+    },
+    {
+      "heading": "The long walk",
+      "body": "Việt Hải is reached through the park or by boat from Bến Bèo. The 1 September 2025 trek title is “Ao Ếch – Việt Hải (12km)”. The 11 November 2023 account says the walk via Ao Ếch is more than 8 km, and later that the trek is 8 km. All three lengths stay. A clock time is Check on arrival."
+    }
+  ],
+  "links": [
+    {
+      "label": "Park fee page",
+      "url": "https://vuonquocgiacatba.com.vn/bang-gia-ve-tham-quan",
+      "note": "Vườn quốc gia Cát Bà. Hours 07:00–17:00. Amounts not printed."
+    },
+    {
+      "label": "2026 fees",
+      "url": "https://daison.haiphong.gov.vn/van-hoa-xa-hoi/hai-phong-ban-hanh-muc-phi-tham-quan-moi-doi-voi-di-tich-danh-thang-837039",
+      "note": "Hai Phong article, 20 December 2025"
+    },
+    {
+      "label": "Ha Long Bay – Cat Ba Archipelago",
+      "url": "https://whc.unesco.org/en/list/672/",
+      "note": "UNESCO. No langur headcount."
+    }
+  ],
+  "interests": ["mountains"]
 }

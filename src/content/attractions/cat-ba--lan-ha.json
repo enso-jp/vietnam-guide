@@ -2,10 +2,49 @@
   "slug": "lan-ha",
   "placeSlug": "cat-ba",
   "name": "Lan Ha Bay",
-  "summary": "The island-dotted bay beside Cat Ba, usually quieter than the main Ha Long loops.",
+  "nameVi": "Vịnh Lan Hạ",
+  "kicker": "Boat day east of the island",
+  "summary": "Take the boat from Bến Bèo when the limestone east of Cát Bà is the day. The park’s 19 December 2022 account prints a 3–4 hour hire and also an 8-hour day. Skip it when a cruise from the Ha Long pier is the trip you already have. Boat hire is separate from the bay ticket.",
   "dots": 4,
-  "timeNeeded": "Half to full day",
-  "fee": "Boat hire",
-  "getThere": "Boat from Cat Ba town",
-  "interests": []
+  "timeNeeded": "3–4 hours, or the 8-hour day",
+  "fee": "120,000 đồng for an adult day visit",
+  "getThere": "Boat from Bến Bèo",
+  "bestMonths": "April–June for calm water; autumn light on the 2022 account",
+  "district": "The bay",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Limestone and a gap of water in Lan Ha Bay",
+  "hours": "Check on arrival. No bay-gate clock is printed.",
+  "admissionNote": "From 1 January 2026 the 20 December 2025 Hai Phong article prices a day visit to the bays of the Cát Bà archipelago at 120,000 đồng for an adult and 60,000 đồng for a child from 6. Under 6 is free on that article. One night on the bays is 400,000 / 300,000, two nights 600,000 / 500,000, and three nights 650,000 / 550,000. That article says the bay collector keeps 21 percent and pays 79 percent to the state budget. The 2 January 2026 bay-board notice says the figures follow Nghị quyết 47/2025/NQ-HĐND of 10 December 2025 and does not reprint the numbers. The replaced 2024 resolution used the same adult and child amounts. Its paying child is from age 6 or from 1.2 m, and its free line is under 6 or under 1.2 m. It also kept 21 percent and paid 79 percent to the budget. The 2025 article does not print the height test. Both child rules stay. Boat hire is not in the resolution. Check on arrival.",
+  "gettingThere": [
+    "Boats leave Bến Bèo, beside the town. The 19 December 2022 park account’s usual hire starts and ends there: vịnh Cái Bèo, a fish raft or đảo Ba Trái Đào, a swim at đảo Khỉ, then back. That hire is 3–4 hours. The same account also names an 8-hour day and overnight boats. A road minute from the harbor to Bến Bèo is Check on arrival. The Cái Bèo account puts the quay area 1.5 km from the town center. The 15 March 2011 account says about 2 km by road. Both stay.",
+    "UNESCO’s English synthesis prints 65,650 ha and 1,133 islands for the whole property. Other-language blurbs on the same listing say about 1,600 islands. The park’s own Lan Ha line is more than 7,000 ha, about 400 islands, and 139 small yellow beaches. Keep those counts apart. The 24 July 2023 account calls April to June calm and clear, and from September it calls the bay quiet. The December 2022 account prefers autumn light. Dive spots on this bay are 4–5 m deep on the 2023 account. Đảo Khỉ was stocked with more than 20 monkeys and has two beaches, Cát Dứa 1 and 2."
+  ],
+  "legs": [
+    {
+      "heading": "From the Cat Ba harbor",
+      "body": "By boat from Bến Bèo. The 3–4 hour hire and the 8-hour day are both on the 19 December 2022 account. Boat hire is Check on arrival. The bay ticket is separate."
+    },
+    {
+      "heading": "From Hai Phong",
+      "body": "Ferry Đồng Bài–Cái Viềng, then the island road to the harbor, then the boat. From 1 September through 31 December 2026 the printed crossings of the first and last boats are 30 minutes. A road minute from Cái Viềng to the town is Check on arrival. Outside that ferry window, Check on arrival."
+    }
+  ],
+  "links": [
+    {
+      "label": "Lan Ha Bay, park account",
+      "url": "https://vuonquocgiacatba.com.vn/vinh-lan-ha-thien-duong-ngu-quen-tai-cat-ba",
+      "note": "Vườn quốc gia Cát Bà, 19 December 2022"
+    },
+    {
+      "label": "2026 bay and park fees",
+      "url": "https://daison.haiphong.gov.vn/van-hoa-xa-hoi/hai-phong-ban-hanh-muc-phi-tham-quan-moi-doi-voi-di-tich-danh-thang-837039",
+      "note": "Hai Phong article, 20 December 2025"
+    },
+    {
+      "label": "Ha Long Bay – Cat Ba Archipelago",
+      "url": "https://whc.unesco.org/en/list/672/",
+      "note": "UNESCO World Heritage Centre"
+    }
+  ],
+  "interests": ["islands"]
 }
