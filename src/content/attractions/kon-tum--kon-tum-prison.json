@@ -4,26 +4,30 @@
   "name": "Kon Tum Prison",
   "nameVi": "Nhà tù Kon Tum",
   "kicker": "French-era prison museum in the centre",
-  "summary": "French-era cells in the centre, about an hour and a half on the Go Vietnam cluster page. Go Vietnam prints 30,000 VND. The Kon Tum provincial portal does not print that fee. Confirm it at the gate. Skip it if you wanted a light scenic walk.",
+  "summary": "French-era prison cells and displays in the city centre, about an hour and a half on site for 30,000 VND. Go in the morning, before the heat. Skip it if you wanted a light scenic walk: this is colonial prison history.",
   "dots": 3,
   "timeNeeded": "About 1.5 hours",
-  "fee": "30,000 VND on Go Vietnam; Check on arrival",
+  "fee": "30,000 VND",
   "getThere": "Walk in the central cluster",
   "district": "City centre",
   "verified": "23 Oct 2026",
   "heroCaption": "The courtyard and memorial in front of the hall",
   "gettingThere": [
-    "The prison museum is in the city centre, in the same cluster as the wooden church. Walk from there. Go Vietnam is the source for that cluster. Minutes from a named hotel are Check on arrival."
+    "The prison is in the city centre, in the same walkable cluster as the wooden church. From Pleiku Airport, the bus or taxi into Kon Tum takes about an hour."
   ],
   "legs": [
     {
       "heading": "From central Kon Tum",
-      "body": "Walk. The Go Vietnam cluster page puts the prison in the centre with the church. No source prints the minutes. Those minutes are Check on arrival."
+      "body": "Walk from the wooden church or any hotel in the centre."
+    },
+    {
+      "heading": "From Pleiku Airport (PXU)",
+      "body": "About an hour by bus or taxi to the centre: nearly 45 km by kontumtourism.com’s count, 51 km by Travelmath’s. Then walk."
     }
   ],
   "hours": "Check on arrival.",
   "closed": "Check on arrival.",
-  "admissionNote": "Go Vietnam prints 30,000 VND and about ninety minutes. The Kon Tum provincial portal does not print a matching fee. Confirm the ticket at the gate. No child price, inclusion, or extra is printed.",
+  "admissionNote": "30,000 VND for an adult. Child price: Check on arrival.",
   "links": [
     {
       "label": "Go Vietnam cluster page",
