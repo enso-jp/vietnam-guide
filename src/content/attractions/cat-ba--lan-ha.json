@@ -3,42 +3,54 @@
   "placeSlug": "cat-ba",
   "name": "Lan Ha Bay",
   "nameVi": "Vịnh Lan Hạ",
-  "kicker": "Boat day east of the island",
-  "summary": "Take the boat from Bến Bèo when the limestone east of Cát Bà is the day. The park’s 19 December 2022 account prints a 3–4 hour hire and also an 8-hour day. Skip it when a cruise from the Ha Long pier is the trip you already have. Boat hire is separate from the bay ticket.",
+  "kicker": "Limestone bay east of Cát Bà island",
+  "summary": "Limestone bay off Cát Bà: take a 3–4 hour boat from Bến Bèo for islands, a fish raft, and a beach swim. Longer boats spend 8 hours on the water or stay the night. Choose it over a Ha Long cruise when Cát Bà is your base. The bay ticket and the boat hire are paid separately.",
   "dots": 4,
-  "timeNeeded": "3–4 hours, or the 8-hour day",
+  "timeNeeded": "3–4 hours, or an 8-hour day",
   "fee": "120,000 đồng for an adult day visit",
   "getThere": "Boat from Bến Bèo",
-  "bestMonths": "April–June for calm water; autumn light on the 2022 account",
+  "bestMonths": "April–June for calm water; autumn for soft light",
   "district": "The bay",
   "verified": "23 Oct 2026",
-  "heroCaption": "Limestone and a gap of water in Lan Ha Bay",
-  "hours": "Check on arrival. No bay-gate clock is printed.",
-  "admissionNote": "From 1 January 2026 the 20 December 2025 Hai Phong article prices a day visit to the bays of the Cát Bà archipelago at 120,000 đồng for an adult and 60,000 đồng for a child from 6. Under 6 is free on that article. One night on the bays is 400,000 / 300,000, two nights 600,000 / 500,000, and three nights 650,000 / 550,000. That article says the bay collector keeps 21 percent and pays 79 percent to the state budget. The 2 January 2026 bay-board notice says the figures follow Nghị quyết 47/2025/NQ-HĐND of 10 December 2025 and does not reprint the numbers. The replaced 2024 resolution used the same adult and child amounts. Its paying child is from age 6 or from 1.2 m, and its free line is under 6 or under 1.2 m. It also kept 21 percent and paid 79 percent to the budget. The 2025 article does not print the height test. Both child rules stay. Boat hire is not in the resolution. Check on arrival.",
+  "heroCaption": "Limestone islands and open water in Lan Ha Bay",
+  "body": [
+    "The usual boat leaves Bến Bèo, crosses Cái Bèo bay past the floating village, stops at a fish raft or Ba Trái Đào island, and ends with a swim at Monkey Island before turning back. That loop takes 3–4 hours. Longer boats make an 8-hour day of it, and some stay out overnight.",
+    "Lan Ha covers more than 7,000 ha, with about 400 islands and 139 small sandy beaches. Hang Luồn is a rock arch you paddle through by kayak, and the snorkel spots are 4–5 m deep. Cửa Vạn, a floating village of more than 300 fishing families, sits in a calm corner under the cliffs.",
+    "April to June brings the calmest, clearest water. From September the bay is quieter, and autumn gives the softest light for photos."
+  ],
+  "figures": [
+    {
+      "id": "cat-ba-lan-ha-2",
+      "caption": "Hang Luồn, the rock arch you paddle through by kayak",
+      "alt": "Turquoise water under a low limestone arch in Lan Ha Bay"
+    }
+  ],
   "gettingThere": [
-    "Boats leave Bến Bèo, beside the town. The 19 December 2022 park account’s usual hire starts and ends there: vịnh Cái Bèo, a fish raft or đảo Ba Trái Đào, a swim at đảo Khỉ, then back. That hire is 3–4 hours. The same account also names an 8-hour day and overnight boats. A road minute from the harbor to Bến Bèo is Check on arrival. The Cái Bèo account puts the quay area 1.5 km from the town center. The 15 March 2011 account says about 2 km by road. Both stay.",
-    "UNESCO’s English synthesis prints 65,650 ha and 1,133 islands for the whole property. Other-language blurbs on the same listing say about 1,600 islands. The park’s own Lan Ha line is more than 7,000 ha, about 400 islands, and 139 small yellow beaches. Keep those counts apart. The 24 July 2023 account calls April to June calm and clear, and from September it calls the bay quiet. The December 2022 account prefers autumn light. Dive spots on this bay are 4–5 m deep on the 2023 account. Đảo Khỉ was stocked with more than 20 monkeys and has two beaches, Cát Dứa 1 and 2."
+    "Boats leave from Bến Bèo, 1.5–2 km by road from the town center. Buy the bay ticket and agree the route and stops with the boat before you leave the quay.",
+    "Lan Ha and Ha Long belong to the same World Heritage property, but the Lan Ha boats start from Cát Bà, not from the Ha Long piers."
   ],
   "legs": [
     {
-      "heading": "From the Cat Ba harbor",
-      "body": "By boat from Bến Bèo. The 3–4 hour hire and the 8-hour day are both on the 19 December 2022 account. Boat hire is Check on arrival. The bay ticket is separate."
+      "heading": "From Cat Ba town",
+      "body": "Ride or walk 1.5–2 km to Bến Bèo, then board the boat."
     },
     {
       "heading": "From Hai Phong",
-      "body": "Ferry Đồng Bài–Cái Viềng, then the island road to the harbor, then the boat. From 1 September through 31 December 2026 the printed crossings of the first and last boats are 30 minutes. A road minute from Cái Viềng to the town is Check on arrival. Outside that ferry window, Check on arrival."
+      "body": "Take the Đồng Bài–Cái Viềng ferry, about 30 minutes, then the island road to the town and on to Bến Bèo."
     }
   ],
+  "hours": "Check on arrival",
+  "admissionNote": "From 1 January 2026 a day visit to the Cát Bà bays is 120,000 đồng for an adult and 60,000 đồng for a child from age 6. Under 6 is free. Boat hire is paid to the boat on top of the ticket. Overnight on the bays, adult / child: one night 400,000 / 300,000, two nights 600,000 / 500,000, three nights 650,000 / 550,000.",
   "links": [
     {
-      "label": "Lan Ha Bay, park account",
+      "label": "Lan Ha Bay",
       "url": "https://vuonquocgiacatba.com.vn/vinh-lan-ha-thien-duong-ngu-quen-tai-cat-ba",
-      "note": "Vườn quốc gia Cát Bà, 19 December 2022"
+      "note": "Cat Ba National Park"
     },
     {
       "label": "2026 bay and park fees",
       "url": "https://daison.haiphong.gov.vn/van-hoa-xa-hoi/hai-phong-ban-hanh-muc-phi-tham-quan-moi-doi-voi-di-tich-danh-thang-837039",
-      "note": "Hai Phong article, 20 December 2025"
+      "note": "Hai Phong, 20 December 2025"
     },
     {
       "label": "Ha Long Bay – Cat Ba Archipelago",
@@ -46,5 +58,8 @@
       "note": "UNESCO World Heritage Centre"
     }
   ],
-  "interests": ["islands"]
+  "interests": [
+    "islands",
+    "photography"
+  ]
 }

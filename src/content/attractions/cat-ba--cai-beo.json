@@ -1,0 +1,53 @@
+{
+  "slug": "cai-beo",
+  "placeSlug": "cat-ba",
+  "name": "Cai Beo Floating Village",
+  "nameVi": "Làng chài Cái Bèo",
+  "kicker": "Floating fishing village beside Bến Bèo",
+  "summary": "Floating fishing village by Bến Bèo: pass its raft homes and fish farms as your Lan Ha boat heads out. Some 200 to 300 households live on the water here, on a shore people settled about 7,000 years ago. You see it from the bay boat without a separate trip.",
+  "dots": 3,
+  "timeNeeded": "Part of the 3–4 hour bay boat",
+  "fee": "Check on arrival",
+  "getThere": "Bến Bèo, 1.5–2 km from the town center",
+  "district": "The bay",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Boats and floating houses at Cái Bèo, below the cliffs",
+  "body": [
+    "Cái Bèo is a village of floating houses and fish-farming rafts in the sheltered water off Bến Bèo, with limestone cliffs rising behind. Between 200 and 300 households live and raise seafood on the water.",
+    "The shore is also an archaeological site, found in 1938 and dug again several times since. Pottery found here dates from about 7,000 years ago, and the site was ranked a national monument in 2009.",
+    "The standard Lan Ha boat crosses Cái Bèo bay on its way out, so you pass the village without a separate trip."
+  ],
+  "figures": [
+    {
+      "id": "cat-ba-cai-beo-2",
+      "caption": "Raft houses and fishing boats in Cái Bèo bay",
+      "alt": "Floating houses moored under a limestone outcrop at Cai Beo"
+    }
+  ],
+  "gettingThere": [
+    "The village lies off Bến Bèo, 1.5–2 km by road from the town center. Lan Ha boats leaving Bến Bèo cross Cái Bèo bay first."
+  ],
+  "legs": [
+    {
+      "heading": "From Cat Ba town",
+      "body": "1.5–2 km by road to Bến Bèo. The village is on the water beside the quay."
+    }
+  ],
+  "hours": "Check on arrival",
+  "links": [
+    {
+      "label": "Cái Bèo fishing village",
+      "url": "https://cathai.haiphong.gov.vn/dat-va-nguoi-cat-hai/lang-chai-cai-beo-lang-chai-co-o-cat-ba-312352",
+      "note": "Cát Hải special zone"
+    },
+    {
+      "label": "Lan Ha Bay",
+      "url": "https://vuonquocgiacatba.com.vn/vinh-lan-ha-thien-duong-ngu-quen-tai-cat-ba",
+      "note": "Cat Ba National Park"
+    }
+  ],
+  "interests": [
+    "islands",
+    "photography"
+  ]
+}
