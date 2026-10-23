@@ -27,13 +27,13 @@
     "destinationCopy": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T11:16:26.656Z",
+      "updated": "2026-10-23T06:08:55.579Z",
       "reworkCount": 0
     },
     "destinationQuality": {
       "status": "not_started",
       "note": "",
-      "updated": "2026-10-21T11:16:26.656Z",
+      "updated": "2026-10-23T06:08:55.579Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,13 +45,13 @@
     "foodCopy": {
       "status": "skipped",
       "note": "No food guide.",
-      "updated": "2026-10-21T11:17:09.970Z",
+      "updated": "2026-10-23T06:08:55.579Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "skipped",
       "note": "No food guide.",
-      "updated": "2026-10-21T11:17:09.995Z",
+      "updated": "2026-10-23T06:08:55.579Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -68,8 +68,8 @@
     },
     "researchFood": {
       "status": "stored",
-      "note": "Left out: food street, stall prices, and public food guide until dish photos exist.",
-      "updated": "2026-10-21T11:16:26.365Z",
+      "note": "Left out: food street, stall prices, and a public food guide. Bundled ca-phe is the plateau coffee already in the dossier.",
+      "updated": "2026-10-23T06:08:55.579Z",
       "reworkCount": 0
     },
     "researchNightlife": {
@@ -105,7 +105,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "No licensed photograph of this sight. Dossier only.",
-      "updated": "2026-10-21T11:20:54.788Z",
+      "updated": "2026-10-23T06:08:55.579Z",
       "reworkCount": 0
     },
     {
@@ -121,7 +121,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "From dossier.",
-      "updated": "2026-10-21T11:17:09.715Z",
+      "updated": "2026-10-23T06:08:55.579Z",
       "reworkCount": 0
     },
     {
@@ -137,7 +137,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "No licensed photograph of this sight. Dossier only.",
-      "updated": "2026-10-21T11:20:54.818Z",
+      "updated": "2026-10-23T06:08:55.579Z",
       "reworkCount": 0
     },
     {
@@ -153,7 +153,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "No licensed photograph of this sight. Dossier only.",
-      "updated": "2026-10-21T11:20:54.847Z",
+      "updated": "2026-10-23T06:08:55.579Z",
       "reworkCount": 0
     },
     {
@@ -169,7 +169,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "From dossier.",
-      "updated": "2026-10-21T11:17:09.803Z",
+      "updated": "2026-10-23T06:08:55.579Z",
       "reworkCount": 0
     },
     {
@@ -185,7 +185,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "No licensed photograph of this sight. Dossier only.",
-      "updated": "2026-10-21T11:20:54.873Z",
+      "updated": "2026-10-23T06:08:55.579Z",
       "reworkCount": 0
     },
     {
@@ -201,7 +201,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "No licensed photograph of this sight. Dossier only.",
-      "updated": "2026-10-21T11:20:54.898Z",
+      "updated": "2026-10-23T06:08:55.579Z",
       "reworkCount": 0
     },
     {
@@ -217,7 +217,7 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "No licensed photograph of this sight. Dossier only.",
-      "updated": "2026-10-21T11:20:54.924Z",
+      "updated": "2026-10-23T06:08:55.579Z",
       "reworkCount": 0
     },
     {
@@ -233,13 +233,44 @@
       "copy": "not_started",
       "quality": "not_started",
       "note": "Town hub on place intro only.",
-      "updated": "2026-10-21T11:16:26.656Z",
+      "updated": "2026-10-23T06:08:55.579Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "mang-den--dish--ca-phe",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Vietnamese coffee",
+      "slug": "ca-phe",
+      "file": "src/content/dishes/ca-phe.json",
+      "source": "published",
+      "research": "stored",
+      "page": "shell",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Arabica coffee already in research/mang-den/food.md from Vietnam Tourism. No food street. Left out of a public food guide.",
+      "updated": "2026-10-23T06:08:55.545Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "mang-den",
+    "stage": "destinationCopy",
+    "item": null,
+    "at": "2026-10-23T06:08:55.613Z",
+    "by": "mang-den-copy",
+    "branch": "cursor/mang-den-destination-copy-cff6"
+  },
   "log": [
+    {
+      "at": "2026-10-23T06:08:55.580Z",
+      "place": "mang-den",
+      "stage": "researchFood",
+      "item": null,
+      "status": "stored",
+      "note": "Left out: food street, stall prices, and a public food guide. Bundled ca-phe is the plateau coffee already in the dossier."
+    },
     {
       "at": "2026-10-21T11:20:54.949Z",
       "place": "mang-den",
