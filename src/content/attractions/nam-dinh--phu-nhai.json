@@ -4,20 +4,20 @@
   "name": "Phu Nhai basilica",
   "nameVi": "Vương cung thánh đường Phú Nhai",
   "kicker": "Large church in Xuân Trường",
-  "summary": "Look at the gray church the 2018 city page calls one of the widest in the country, at xã Xuân Phương, more than 1 km from thị trấn Xuân Trường. A height, a fee, and a mass hour were not printed on that page. Check on arrival. It is not Nhà thờ Lớn in the center, and it is not Phát Diệm.",
+  "summary": "Look at the gray church at Xuân Phương, more than 1 km from the Xuân Trường town. It is called one of the widest churches in the country. The fee, a height, and a mass hour are Check on arrival. It is not Nhà thờ Lớn in the center, and it is not Phát Diệm.",
   "dots": 4,
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
-  "getThere": "Toward Xuân Trường, the same direction as quốc lộ 21. Minutes were not printed.",
+  "getThere": "Toward Xuân Trường, the same direction as quốc lộ 21. Check the minutes on arrival.",
   "verified": "22 Oct 2026",
   "heroCaption": "The facade and the front court at Phú Nhai",
   "notice": {
-    "title": "No mass hour was printed",
-    "body": "The 2018 city page names the church and does not print a mass hour, a height, or a fee. Check on arrival."
+    "title": "Check the mass hour on arrival",
+    "body": "A mass hour, a height, and a fee are Check on arrival."
   },
   "body": [
-    "The 2018 city page places Vương cung thánh đường Phú Nhai at xã Xuân Phương, huyện Xuân Trường, more than 1 km from thị trấn Xuân Trường, and calls it one of the widest churches in the country. You look at the facade from the front court. A height and a fee were not printed there. A mass hour was not on that page. Check on arrival.",
-    "Do not merge it with Nhà thờ Lớn, the center parish at số 16 phố Hai Bà Trưng, or with Tòa giám mục Bùi Chu at xã Xuân Ngọc. The same page dates Bùi Chu from 1885 and prints 78 m long, 22 m wide, and 15 m high. A mass hour for Bùi Chu was not printed. Phát Diệm’s stone church is in Kim Sơn, on the Ninh Bình side."
+    "Vương cung thánh đường Phú Nhai is at xã Xuân Phương, huyện Xuân Trường, more than 1 km from thị trấn Xuân Trường. It is called one of the widest churches in the country. You look at the facade from the front court. A height, a fee, and a mass hour are Check on arrival.",
+    "Do not merge it with Nhà thờ Lớn, the center parish at số 16 phố Hai Bà Trưng, or with Tòa giám mục Bùi Chu at xã Xuân Ngọc. Bùi Chu dates from 1885 and is 78 m long, 22 m wide, and 15 m high. Check a mass hour for Bùi Chu on arrival. Phát Diệm’s stone church is in Kim Sơn, on the Ninh Bình side."
   ],
   "figures": [
     {
@@ -27,22 +27,22 @@
     }
   ],
   "gettingThere": [
-    "The city page places the church more than 1 km from thị trấn Xuân Trường. Quốc lộ 21 is the road the planning decision names from the city through Cổ Lễ and Xuân Trường. Minutes were not printed. Check on arrival."
+    "The church is more than 1 km from thị trấn Xuân Trường. Quốc lộ 21 runs from the city through Cổ Lễ and Xuân Trường. Check the minutes on arrival."
   ],
   "legs": [
     {
       "heading": "From Nam Dinh",
-      "body": "Toward Xuân Trường, more than 1 km from the town once you are there. The minutes from the center were not printed. Check on arrival."
+      "body": "Toward Xuân Trường, more than 1 km from the town once you are there. Check the minutes from the center on arrival."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly closing day was printed on the city page.",
-  "admissionNote": "A fee was not printed on the 2018 city page. Check on arrival. No child rule was printed.",
+  "closed": "Check on arrival.",
+  "admissionNote": "Check on arrival.",
   "links": [
     {
       "label": "The 2018 city list",
       "url": "https://thanhpho.namdinh.gov.vn/di-tich-danh-thang-44984/18-dia-diem-du-lich-noi-tieng-o-nam-dinh-khong-the-khong-di-110361",
-      "note": "Cổng thành phố Nam Định. Phú Nhai is named. No height, fee, or mass hour."
+      "note": "Phú Nhai is named."
     }
   ],
   "interests": ["photography"]
