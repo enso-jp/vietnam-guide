@@ -67,9 +67,9 @@
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:11:18.346Z",
+      "status": "checked",
+      "note": "Hero is the city square with the tank and statue in the 16:9 frame. Pin unset. Festival stays on October 10 Square. Dray Nur 25 km and 30 km both stay, and so do 30,000 VND, 50,000 VND, and the 19 Dec 2024 notice with no amount. Food guide stays off.",
+      "updated": "2026-10-23T06:18:50.884Z",
       "reworkCount": 0
     },
     "food": {
@@ -102,10 +102,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed sight photo. Dossier only.",
-      "updated": "2026-10-23T06:11:18.346Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo. No public file.",
+      "updated": "2026-10-23T06:19:16.931Z",
       "reworkCount": 0
     },
     {
@@ -118,10 +118,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed sight photo. Dossier only.",
-      "updated": "2026-10-23T06:11:18.346Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo. No public file.",
+      "updated": "2026-10-23T06:19:17.069Z",
       "reworkCount": 0
     },
     {
@@ -134,10 +134,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed sight photo. Dossier only.",
-      "updated": "2026-10-23T06:11:18.346Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo. No public file.",
+      "updated": "2026-10-23T06:19:17.207Z",
       "reworkCount": 0
     },
     {
@@ -149,11 +149,11 @@
       "file": "src/content/attractions/buon-ma-thuot--prison.json",
       "source": "dossier",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:11:18.346Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Exterior and cell block are the prison. Fee and hours Check on arrival. Dots stay 3. No pin.",
+      "updated": "2026-10-23T06:23:14.088Z",
       "reworkCount": 0
     },
     {
@@ -430,15 +430,88 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "buon-ma-thuot",
-    "stage": "destinationQuality",
-    "item": null,
-    "at": "2026-10-23T06:18:02.156Z",
-    "by": "buon-ma-thuot-copy",
-    "branch": "cursor/buon-ma-thuot-destination-copy-b891"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-23T06:23:14.088Z",
+      "place": "buon-ma-thuot",
+      "stage": "quality",
+      "item": "buon-ma-thuot--prison",
+      "status": "checked",
+      "note": "Exterior and cell block are the prison. Fee and hours Check on arrival. Dots stay 3. No pin."
+    },
+    {
+      "at": "2026-10-23T06:23:14.018Z",
+      "place": "buon-ma-thuot",
+      "stage": "copy",
+      "item": "buon-ma-thuot--prison",
+      "status": "enriched",
+      "note": "Hero is the blue-door block. Second frame is the barred cell block, Dominic Nelson, CC BY-SA 4.0. Ticket stays Check on arrival."
+    },
+    {
+      "at": "2026-10-23T06:23:13.950Z",
+      "place": "buon-ma-thuot",
+      "stage": "page",
+      "item": "buon-ma-thuot--prison",
+      "status": "paged",
+      "note": "Finished sight. Fee and hours Check on arrival. Second frame is the cell block. Dots stay 3. No pin."
+    },
+    {
+      "at": "2026-10-23T06:19:17.207Z",
+      "place": "buon-ma-thuot",
+      "stage": "quality",
+      "item": "buon-ma-thuot--bao-dai-palace",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. No public file."
+    },
+    {
+      "at": "2026-10-23T06:19:17.135Z",
+      "place": "buon-ma-thuot",
+      "stage": "copy",
+      "item": "buon-ma-thuot--bao-dai-palace",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. No public file."
+    },
+    {
+      "at": "2026-10-23T06:19:17.069Z",
+      "place": "buon-ma-thuot",
+      "stage": "quality",
+      "item": "buon-ma-thuot--dak-lak-museum",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. No public file."
+    },
+    {
+      "at": "2026-10-23T06:19:17.000Z",
+      "place": "buon-ma-thuot",
+      "stage": "copy",
+      "item": "buon-ma-thuot--dak-lak-museum",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. No public file."
+    },
+    {
+      "at": "2026-10-23T06:19:16.932Z",
+      "place": "buon-ma-thuot",
+      "stage": "quality",
+      "item": "buon-ma-thuot--coffee-museum",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. No public file."
+    },
+    {
+      "at": "2026-10-23T06:19:16.858Z",
+      "place": "buon-ma-thuot",
+      "stage": "copy",
+      "item": "buon-ma-thuot--coffee-museum",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. No public file."
+    },
+    {
+      "at": "2026-10-23T06:18:50.884Z",
+      "place": "buon-ma-thuot",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Hero is the city square with the tank and statue in the 16:9 frame. Pin unset. Festival stays on October 10 Square. Dray Nur 25 km and 30 km both stay, and so do 30,000 VND, 50,000 VND, and the 19 Dec 2024 notice with no amount. Food guide stays off."
+    },
     {
       "at": "2026-10-23T06:17:52.818Z",
       "place": "buon-ma-thuot",

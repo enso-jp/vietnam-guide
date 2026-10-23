@@ -3,13 +3,44 @@
   "placeSlug": "buon-ma-thuot",
   "name": "Buon Ma Thuot Prison",
   "nameVi": "Nhà đày Buôn Ma Thuột",
-  "summary": "A preserved French-built prison and revolutionary heritage site at 18 Tan Thuat. Allow three quarters of an hour. The ticket price is check on arrival.",
+  "kicker": "French-built prison kept as a heritage site",
+  "summary": "A preserved French-built prison at 18 Tan Thuat, kept as a revolutionary heritage site. Allow 45 minutes in the morning. The ticket is Check on arrival. Skip it when Y Ngong already has your morning.",
   "dots": 3,
   "timeNeeded": "45 minutes",
   "fee": "Check on arrival",
-  "getThere": "18 Tan Thuat Street",
-  "district": "City center",
-  "interests": [
-    "warHistory"
-  ]
+  "getThere": "18 Tan Thuat, a short taxi from the center",
+  "district": "Tan Thuat",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Yellow block with three blue doors",
+  "body": [
+    "The compound is at 18 Tan Thuat, in Tu An. The Buon Ma Thuot ward portal names it as the French-built prison kept as a revolutionary heritage site. Give it 45 minutes. Morning is the easier hour. The ticket is Check on arrival.",
+    "The blue doors and the barred cell windows are the visit. Hours are Check on arrival. No weekly closing day is printed, so read the gate board. Dak Lak Museum and Bao Dai Palace are a separate stop at 02 Y Ngong, on their own tickets."
+  ],
+  "figures": [
+    {
+      "id": "buon-ma-thuot-prison-2",
+      "caption": "Cell doors and barred windows along the side block",
+      "alt": "Yellow cell block with green doors and barred windows at Buon Ma Thuot Prison"
+    }
+  ],
+  "gettingThere": [
+    "The compound is at 18 Tan Thuat, in Tu An. The Buon Ma Thuot ward portal names that address. From hotels around Nguyen Tat Thanh and Le Duan it is a short taxi or Grab. The minutes and the fare are Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the city center",
+      "body": "Taxi or Grab. The ward portal does not print a minute count from Nguyen Tat Thanh, Le Duan, or October 10 Square. The minutes are Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day is printed. Check the gate board on arrival.",
+  "admissionNote": "The Buon Ma Thuot ward tourism list names the prison and does not print a ticket. The fee is Check on arrival.",
+  "links": [
+    {
+      "label": "Buon Ma Thuot ward portal",
+      "url": "https://buonmathuot.daklak.gov.vn/v-ban-sac-van-hoa-va-du-lich-buon-ma-thuot-1095.html",
+      "note": "City tourism list"
+    }
+  ],
+  "interests": ["warHistory"]
 }
