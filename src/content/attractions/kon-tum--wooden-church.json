@@ -3,10 +3,53 @@
   "placeSlug": "kon-tum",
   "name": "Kon Tum Wooden Church",
   "nameVi": "Nhà thờ Gỗ Kon Tum",
-  "summary": "Romanesque timber cathedral built 1913–1918 in cà chít wood on Nguyen Hue.",
+  "kicker": "Timber cathedral on Nguyen Hue",
+  "summary": "Walk the timber cathedral on Nguyen Hue, built from 1913 to 1918 in cà chít wood, with Roman lines and a Ba Na roof. Give it about an hour. Go Vietnam lists free entry. Skip the quick photo stop if Kon K’Tu, about five kilometres across the bridge, is the visit you actually wanted.",
   "dots": 5,
   "timeNeeded": "About one hour",
-  "fee": "Free on the national cluster page; check on arrival",
+  "fee": "Free on Go Vietnam; Check on arrival",
   "getThere": "Walk from central hotels on Nguyen Hue",
+  "district": "Nguyen Hue",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The timber façade and spire on Nguyen Hue",
+  "notice": {
+    "title": "Sunday Mass fills the nave",
+    "body": "Go Vietnam prints Mass at 6:00, 8:00, and 17:00. A quiet look at the timber is easier outside those hours. Confirm the clock when you arrive."
+  },
+  "body": [
+    "The Kon Tum provincial portal places the cathedral on Nguyen Hue in Thống Nhất ward. It was built from 1913 to 1918 in cà chít timber, Roman in its lines and Ba Na in the roof. Walk the nave, the stained glass, and the carved sanctuary.",
+    "Go Vietnam lists free entry and about an hour on site. The provincial portal does not print a fee, so confirm at the door. Kon K’Tu is a different visit: a Ba Na village about 5 km from the centre, across the Kon Klor bridge, and Go Vietnam prints two to three hours there."
+  ],
+  "figures": [
+    {
+      "id": "kon-tum-wooden-church-2",
+      "caption": "The nave and sanctuary inside the wooden church",
+      "alt": "Timber columns, stained glass, and the sanctuary inside Kon Tum Wooden Church"
+    }
+  ],
+  "gettingThere": [
+    "The church is on Nguyen Hue in Thống Nhất ward, in the centre. Walk from hotels on that street. The Kon Tum provincial portal is the address. No source prints the minutes from a named hotel. Those minutes are Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From central Kon Tum",
+      "body": "Walk along Nguyen Hue. The provincial portal places the cathedral on that street. Minutes from a named hotel are Check on arrival."
+    }
+  ],
+  "hours": "Sunday Mass at 6:00, 8:00, and 17:00. Visitor hours outside Mass are Check on arrival.",
+  "closed": "No weekly closing day is printed. Check on arrival.",
+  "admissionNote": "Go Vietnam lists free entry. The Kon Tum provincial portal photo page does not print a fee. Confirm at the door. No child price, inclusion, or extra is printed.",
+  "links": [
+    {
+      "label": "Kon Tum provincial portal",
+      "url": "https://www.kontum.gov.vn/pages/thu-vien-anh/1009/Nha-tho-Go.html",
+      "note": "Address, dates, and materials"
+    },
+    {
+      "label": "Go Vietnam cluster page",
+      "url": "https://govietnam.travel/en/destination/kon-tum-city-cluster-wooden-church-kon-klor-bridge-kon-tum-prison-kon-ktu-village-en/",
+      "note": "Free entry, about one hour, and Sunday Mass times"
+    }
+  ],
   "interests": ["pagodas", "photography"]
 }

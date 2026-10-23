@@ -25,16 +25,16 @@
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:16:38.946Z",
+      "status": "enriched",
+      "note": "Da Lat line now says a cooler hill station, matching the dossier. Hero kept. lat and lng unset.",
+      "updated": "2026-10-23T06:16:41.957Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:16:38.946Z",
-      "reworkCount": 0
+      "status": "checked",
+      "note": "Place prose, hero, season, fees, and interest groups match the dossier. Sight shells are the next units. Culture week stays off the event cards.",
+      "updated": "2026-10-23T06:16:50.457Z",
+      "reworkCount": 1
     },
     "food": {
       "status": "skipped",
@@ -101,11 +101,11 @@
       "file": "src/content/attractions/kon-tum--wooden-church.json",
       "source": "dossier",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:19:58.132Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Facade and interior are both the wooden church. Fee, Mass times, and the missing gate clock are printed. Dot stays 5.",
+      "updated": "2026-10-23T06:21:50.942Z",
       "reworkCount": 0
     },
     {
@@ -118,10 +118,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed photo of this sight; dossier only.",
-      "updated": "2026-10-21T11:19:57.944Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of this subject. Leave the page unpublished.",
+      "updated": "2026-10-23T06:22:12.818Z",
       "reworkCount": 0
     },
     {
@@ -134,10 +134,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed photo of this sight; dossier only.",
-      "updated": "2026-10-21T11:19:57.971Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of this subject. Leave the page unpublished.",
+      "updated": "2026-10-23T06:22:12.985Z",
       "reworkCount": 0
     },
     {
@@ -149,11 +149,11 @@
       "file": "src/content/attractions/kon-tum--kon-tum-prison.json",
       "source": "dossier",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:19:58.159Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Hero is the prison courtyard. Fee disagreement is printed. Hours are Check on arrival. No second frame, so no body.",
+      "updated": "2026-10-23T06:23:27.704Z",
       "reworkCount": 0
     },
     {
@@ -166,10 +166,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed photo of this sight; dossier only.",
-      "updated": "2026-10-21T11:19:57.999Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of this subject. Leave the page unpublished.",
+      "updated": "2026-10-23T06:23:51.073Z",
       "reworkCount": 0
     },
     {
@@ -182,10 +182,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed photo of this sight; dossier only.",
-      "updated": "2026-10-21T11:19:58.025Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of this subject. Leave the page unpublished.",
+      "updated": "2026-10-23T06:23:51.202Z",
       "reworkCount": 0
     },
     {
@@ -198,10 +198,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed photo of this sight; dossier only.",
-      "updated": "2026-10-21T11:19:58.052Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of this subject. Leave the page unpublished.",
+      "updated": "2026-10-23T06:23:51.328Z",
       "reworkCount": 0
     },
     {
@@ -214,10 +214,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed photo of this sight; dossier only.",
-      "updated": "2026-10-21T11:19:58.076Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of this subject. Leave the page unpublished.",
+      "updated": "2026-10-23T06:23:51.458Z",
       "reworkCount": 0
     },
     {
@@ -230,10 +230,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed photo of this sight; dossier only.",
-      "updated": "2026-10-21T11:19:58.103Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of this subject. Leave the page unpublished.",
+      "updated": "2026-10-23T06:23:51.583Z",
       "reworkCount": 0
     },
     {
@@ -245,11 +245,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:16:38.947Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Food stages stay skipped. No food guide and no dish photo.",
+      "updated": "2026-10-23T06:23:51.773Z",
       "reworkCount": 0
     },
     {
@@ -261,11 +261,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:16:38.947Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Food stages stay skipped. No food guide and no dish photo.",
+      "updated": "2026-10-23T06:23:51.965Z",
       "reworkCount": 0
     },
     {
@@ -277,11 +277,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:16:38.947Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Food stages stay skipped. No food guide and no dish photo.",
+      "updated": "2026-10-23T06:23:52.160Z",
       "reworkCount": 0
     },
     {
@@ -293,11 +293,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:16:38.947Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Food stages stay skipped. No food guide and no dish photo.",
+      "updated": "2026-10-23T06:23:52.349Z",
       "reworkCount": 0
     },
     {
@@ -309,11 +309,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:16:38.947Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed evening photo. Leave the page unpublished.",
+      "updated": "2026-10-23T06:23:52.540Z",
       "reworkCount": 0
     },
     {
@@ -325,11 +325,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:16:38.947Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed breakfast photo. Leave the page unpublished.",
+      "updated": "2026-10-23T06:23:52.729Z",
       "reworkCount": 0
     },
     {
@@ -341,11 +341,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:16:38.947Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of this event. Leave the page unpublished.",
+      "updated": "2026-10-23T06:23:52.923Z",
       "reworkCount": 0
     },
     {
@@ -357,11 +357,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "not_started",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:16:38.947Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of this event. Leave the page unpublished.",
+      "updated": "2026-10-23T06:23:53.115Z",
       "reworkCount": 0
     },
     {
@@ -385,132 +385,164 @@
   "claim": null,
   "log": [
     {
-      "at": "2026-10-21T11:18:20.894Z",
+      "at": "2026-10-23T06:23:53.115Z",
       "place": "kon-tum",
-      "stage": "foodQuality",
-      "item": null,
+      "stage": "quality",
+      "item": "kon-tum--po-thi",
       "status": "skipped",
-      "note": "No food guide."
+      "note": "No licensed photo of this event. Leave the page unpublished."
     },
     {
-      "at": "2026-10-21T11:18:20.868Z",
+      "at": "2026-10-23T06:23:53.049Z",
       "place": "kon-tum",
-      "stage": "foodCopy",
-      "item": null,
+      "stage": "copy",
+      "item": "kon-tum--po-thi",
       "status": "skipped",
-      "note": "No food guide."
+      "note": "No licensed photo of this event. Leave the page unpublished."
     },
     {
-      "at": "2026-10-21T11:18:20.843Z",
+      "at": "2026-10-23T06:23:52.987Z",
       "place": "kon-tum",
-      "stage": "food",
-      "item": null,
+      "stage": "page",
+      "item": "kon-tum--po-thi",
       "status": "skipped",
-      "note": "No dish photos or food guide."
+      "note": "No licensed photo of this event. Leave the page unpublished."
     },
     {
-      "at": "2026-10-21T11:18:20.817Z",
+      "at": "2026-10-23T06:23:52.923Z",
       "place": "kon-tum",
-      "stage": "destination",
-      "item": null,
-      "status": "paged",
-      "note": "Nine attraction shells. No food guide. Mang Den and Chu Mom Ray stay placeholders."
+      "stage": "quality",
+      "item": "kon-tum--culture-week",
+      "status": "skipped",
+      "note": "No licensed photo of this event. Leave the page unpublished."
     },
     {
-      "at": "2026-10-21T11:16:38.947Z",
+      "at": "2026-10-23T06:23:52.859Z",
       "place": "kon-tum",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: 2026 festival dates, Pleiku page, Mang Den and Chu Mom Ray public slugs."
+      "stage": "copy",
+      "item": "kon-tum--culture-week",
+      "status": "skipped",
+      "note": "No licensed photo of this event. Leave the page unpublished."
     },
     {
-      "at": "2026-10-21T11:16:38.840Z",
+      "at": "2026-10-23T06:23:52.796Z",
       "place": "kon-tum",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: named breakfast stall and hotel-to-church minutes."
+      "stage": "page",
+      "item": "kon-tum--culture-week",
+      "status": "skipped",
+      "note": "No licensed photo of this event. Leave the page unpublished."
     },
     {
-      "at": "2026-10-21T11:16:38.762Z",
+      "at": "2026-10-23T06:23:52.729Z",
       "place": "kon-tum",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: bar names and a night photograph."
+      "stage": "quality",
+      "item": "kon-tum--morning-pho",
+      "status": "skipped",
+      "note": "No licensed breakfast photo. Leave the page unpublished."
     },
     {
-      "at": "2026-10-21T11:16:38.683Z",
+      "at": "2026-10-23T06:23:52.666Z",
       "place": "kon-tum",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: stall prices, restaurant picks, and dish pages without photos."
+      "stage": "copy",
+      "item": "kon-tum--morning-pho",
+      "status": "skipped",
+      "note": "No licensed breakfast photo. Leave the page unpublished."
     },
     {
-      "at": "2026-10-21T11:16:38.600Z",
+      "at": "2026-10-23T06:23:52.602Z",
       "place": "kon-tum",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: Ngok Linh, Dak To battlefields, and Kon Bring until sourced photos exist."
+      "stage": "page",
+      "item": "kon-tum--morning-pho",
+      "status": "skipped",
+      "note": "No licensed breakfast photo. Leave the page unpublished."
     },
     {
-      "at": "2026-10-21T11:16:38.492Z",
+      "at": "2026-10-23T06:23:52.540Z",
       "place": "kon-tum",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: Pleiku taxi fares, exact PXU transfer minutes, and Da Lat road time."
+      "stage": "quality",
+      "item": "kon-tum--riverfront-evening",
+      "status": "skipped",
+      "note": "No licensed evening photo. Leave the page unpublished."
     },
     {
-      "at": "2026-10-21T11:16:27.139Z",
+      "at": "2026-10-23T06:23:52.477Z",
       "place": "kon-tum",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Events and side trips listed; Mang Den and Chu Mom Ray are placeholders."
+      "stage": "copy",
+      "item": "kon-tum--riverfront-evening",
+      "status": "skipped",
+      "note": "No licensed evening photo. Leave the page unpublished."
     },
     {
-      "at": "2026-10-21T11:16:26.922Z",
+      "at": "2026-10-23T06:23:52.414Z",
       "place": "kon-tum",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Ordinary day is market breakfast and river coffee."
+      "stage": "page",
+      "item": "kon-tum--riverfront-evening",
+      "status": "skipped",
+      "note": "No licensed evening photo. Leave the page unpublished."
     },
     {
-      "at": "2026-10-21T11:16:22.428Z",
+      "at": "2026-10-23T06:23:52.350Z",
       "place": "kon-tum",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Evening is café riverfront, not a bar list."
+      "stage": "quality",
+      "item": "kon-tum--goi-la-kon-tum",
+      "status": "skipped",
+      "note": "Food stages stay skipped. No food guide and no dish photo."
     },
     {
-      "at": "2026-10-21T11:16:16.661Z",
+      "at": "2026-10-23T06:23:52.285Z",
       "place": "kon-tum",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Dishes named; no public food guide in this pass."
+      "stage": "copy",
+      "item": "kon-tum--goi-la-kon-tum",
+      "status": "skipped",
+      "note": "Food stages stay skipped. No food guide and no dish photo."
     },
     {
-      "at": "2026-10-21T11:16:03.292Z",
+      "at": "2026-10-23T06:23:52.225Z",
       "place": "kon-tum",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Sights stored; Chu Mom Ray and Mang Den stay side trips only."
+      "stage": "page",
+      "item": "kon-tum--goi-la-kon-tum",
+      "status": "skipped",
+      "note": "Food stages stay skipped. No food guide and no dish photo."
     },
     {
-      "at": "2026-10-21T11:15:50.351Z",
+      "at": "2026-10-23T06:23:52.161Z",
       "place": "kon-tum",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Left out: Pleiku taxi fares and exact PXU transfer minutes."
+      "stage": "quality",
+      "item": "kon-tum--pho-kho-kon-tum",
+      "status": "skipped",
+      "note": "Food stages stay skipped. No food guide and no dish photo."
+    },
+    {
+      "at": "2026-10-23T06:23:52.096Z",
+      "place": "kon-tum",
+      "stage": "copy",
+      "item": "kon-tum--pho-kho-kon-tum",
+      "status": "skipped",
+      "note": "Food stages stay skipped. No food guide and no dish photo."
+    },
+    {
+      "at": "2026-10-23T06:23:52.033Z",
+      "place": "kon-tum",
+      "stage": "page",
+      "item": "kon-tum--pho-kho-kon-tum",
+      "status": "skipped",
+      "note": "Food stages stay skipped. No food guide and no dish photo."
+    },
+    {
+      "at": "2026-10-23T06:23:51.965Z",
+      "place": "kon-tum",
+      "stage": "quality",
+      "item": "kon-tum--tran-cao-van",
+      "status": "skipped",
+      "note": "Food stages stay skipped. No food guide and no dish photo."
+    },
+    {
+      "at": "2026-10-23T06:23:51.899Z",
+      "place": "kon-tum",
+      "stage": "copy",
+      "item": "kon-tum--tran-cao-van",
+      "status": "skipped",
+      "note": "Food stages stay skipped. No food guide and no dish photo."
     }
   ]
 }
