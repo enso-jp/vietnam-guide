@@ -4,7 +4,7 @@
   "placeSlug": "cu-chi",
   "summary": "Eat on a tunnel day. Rice paper from Phú Hòa Đông, cassava, Cu Chi veal, pork-knuckle noodle soup, and durian sugarcane juice on National Highway 22 are the plates with a published account. A long meal is in Ho Chi Minh City.",
   "body": [
-    "Boiled cassava at the Hoàng Cầm kitchen comes with sesame salt and hot tea. Tuổi Trẻ, on 5 May 2024, dips the same root in salt. Both stay. The Ho Chi Minh City Tourism Promotion Center also places Cu Chi veal, pork-knuckle noodle soup, durian sugarcane juice along National Highway 22, and rambutan, mangosteen, durian, and jackfruit at Trung An.",
+    "Boiled cassava at the Hoàng Cầm kitchen comes with sesame salt and hot tea. Tuổi Trẻ, on 5 May 2024, dips the same root in salt. The Ho Chi Minh City Tourism Promotion Center also places Cu Chi veal, pork-knuckle noodle soup, durian sugarcane juice along National Highway 22, and rambutan, mangosteen, durian, and jackfruit at Trung An.",
     "Phú Hòa Đông rice paper is dried in the sun. One mix is rice flour with coconut water, salt, sugar, and sesame depending on the batch. An older mix is rice flour, water, and salt. The craft is more than 50 years in Báo Quốc tế and more than 80 years in Tạp chí Công Thương. The gazette decision gives no start year.",
     "Veal in rice paper is boiled on two accounts and grilled just done on the third. Steamed cassava is pandan or coconut cream on one account, and both together on another."
   ],
@@ -64,28 +64,24 @@
         {
           "name": "Cassava rolled in rice paper",
           "nameVi": "khoai mì quết cuốn bánh tráng",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--khoai-mi-cuon",
           "note": "Cassava boiled in coconut water, mashed with sugar, salt, and scallion oil, then rolled in rice paper with herbs and pork or shrimp. The dip is garlic fish sauce, with chili in one wording."
         },
         {
           "name": "Cassava bánh tằm",
           "nameVi": "bánh tằm",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--banh-tam",
           "note": "Bánh tằm made from Củ Chi cassava flour."
         },
         {
           "name": "Veal rolled in rice paper",
           "nameVi": "bò tơ cuốn bánh tráng",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--bo-to-cuon",
           "note": "Thin veal rolled in rice paper with forest greens, boiled until soft and fragrant, or soft and sweet with crisp skin. One account grills the meat just done and rolls it the same way."
         },
         {
           "name": "Crispy rice with kho veal",
           "nameVi": "cơm cháy bò tơ kho",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--com-chay-bo-kho",
           "note": "Kho veal eaten with crispy rice. One wording is cơm cháy bò tơ kho, and another is lemongrass kho veal with the same crisp rice."
         },
@@ -99,42 +95,36 @@
         {
           "name": "Bamboo-shoot salad",
           "nameVi": "gỏi măng trộn tôm thịt",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--goi-mang",
           "note": "Bamboo shoot shaved and boiled, then mixed with belly pork, shrimp, rau răm, fried shallot, and peanuts. Sweet-sour fish sauce is tossed in, or left on the side."
         },
         {
           "name": "Young jackfruit salad",
           "nameVi": "gỏi mít non",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--goi-mit-non",
           "note": "Boiled young jackfruit mixed with pork and shrimp, sweet-sour fish sauce, herbs, and sesame. One account also adds chicken."
         },
         {
           "name": "Frog with lá lốt",
           "nameVi": "ếch xào lá lốt",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--ech-xao-la-lot",
           "note": "Frog stir-fried with the skin on, finished with young lá lốt."
         },
         {
           "name": "Grilled arowana",
           "nameVi": "cá hải tượng nướng muối ớt",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--ca-hai-tuong",
           "note": "Arowana grilled with salt and chili. One account seasons it with satay over charcoal and serves green-chili salt and herbs."
         },
         {
           "name": "Chicken grilled in a clay pot",
           "nameVi": "gà nướng lu than hồng",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--ga-nuong-lu",
           "note": "Chicken grilled in a clay pot over embers, with crisp golden skin and meat that stays soft. It comes with crispy rice, scallion fat, and lemongrass salt."
         },
         {
           "name": "Beef hoof and tendon porridge",
           "nameVi": "cháo dựng bò",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--chao-dung-bo",
           "note": "Porridge of beef hoof and tendon with mung beans, peanuts, white beans, and cassava, finished with rau má and leafy greens."
         },
@@ -148,42 +138,36 @@
         {
           "name": "Pickled rau móp",
           "nameVi": "rau móp muối chua",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--rau-mop",
           "note": "Pickled rau móp, sour, crisp, and cool, made from the young leaves and tips."
         },
         {
           "name": "Eel and taro porridge",
           "nameVi": "cháo lươn môn",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--chao-luon-mon",
           "note": "Eel and taro porridge with lemongrass and mắm ruốc. The eel is sweet and the taro is soft."
         },
         {
           "name": "Crisp-fried cá trèn",
           "nameVi": "cá trèn chiên giòn",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--ca-tren-chien",
           "note": "Cá trèn fried until the skin is crisp."
         },
         {
           "name": "Loofah stir-fried with lá quế",
           "nameVi": "rau mướp xào lá quế",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--rau-muop-xao",
           "note": "Loofah stir-fried with lá quế."
         },
         {
           "name": "Grilled sparrow",
           "nameVi": "chim sẻ nướng",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--chim-se-nuong",
           "note": "Sparrow grilled over a fire."
         },
         {
           "name": "Chim lá",
           "nameVi": "chim lá",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--chim-la",
           "note": "Chim lá, one of the countryside dishes."
         },
@@ -197,49 +181,42 @@
         {
           "name": "Veal dipped in vinegar",
           "nameVi": "bò tơ nhúng dấm",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--bo-nhung-dam",
           "note": "Veal cooked by dipping it in vinegar."
         },
         {
           "name": "Veal dipped in hèm",
           "nameVi": "bò nhúng hèm",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--bo-nhung-hem",
           "note": "Veal dipped in hèm."
         },
         {
           "name": "Beef porridge",
           "nameVi": "cháo bò",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--chao-bo",
           "note": "Beef porridge, a separate bowl from the hoof-and-tendon porridge."
         },
         {
           "name": "Chả đùm veal",
           "nameVi": "chả đùm bò",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--cha-dum-bo",
           "note": "Chả đùm made with veal."
         },
         {
           "name": "Oxtail hotpot",
           "nameVi": "lẩu đuôi bò",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--lau-duoi-bo",
           "note": "Oxtail hotpot."
         },
         {
           "name": "Beef offal steamed with ginger",
           "nameVi": "lòng bò hấp gừng",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--long-bo-hap-gung",
           "note": "Beef offal steamed with ginger."
         },
         {
           "name": "Turmeric stir-fried veal",
           "nameVi": "bò xào nghệ",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--bo-xao-nghe",
           "note": "Veal stir-fried with turmeric."
         }
@@ -269,13 +246,11 @@
         {
           "name": "Chợ Củ Chi",
           "nameVi": "chợ Củ Chi",
-          "address": "Check on arrival",
           "note": "A town market for steamed cassava, stir-fried bánh lọt, bánh bao, hủ tiếu, chicken bánh canh, and Cambodian-style bánh khọt."
         },
         {
           "name": "Chợ Việt Kiều",
           "nameVi": "chợ Việt Kiều",
-          "address": "Check on arrival",
           "note": "The other market for those same plates, paired with chợ Củ Chi."
         }
       ]
@@ -292,7 +267,6 @@
         {
           "name": "Pork knuckle noodle soup",
           "nameVi": "bún giò heo",
-          "address": "Check on arrival",
           "dishSlug": "cu-chi--bun-gio-heo",
           "note": "Pork-knuckle noodle soup, the long-standing local breakfast."
         }

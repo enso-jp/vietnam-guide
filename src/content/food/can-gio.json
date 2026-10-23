@@ -67,7 +67,6 @@
         {
           "name": "Kho ca dua",
           "nameVi": "Khô cá dứa",
-          "address": "Check on arrival",
           "dishSlug": "can-gio--kho-ca-dua",
           "note": "Khô cá dứa is sea catfish split, salted, and dried for one sun. The flesh fries or grills to a deep yellow, firm, with only a little fat under the skin.",
           "photo": "can-gio--kho-ca-dua"
@@ -83,7 +82,6 @@
         {
           "name": "Tom",
           "nameVi": "Tôm sú, tôm sắt, tôm đất",
-          "address": "Check on arrival",
           "dishSlug": "can-gio--tom",
           "note": "Most of the prawns here are tôm sú, from the sea or from ponds. Tôm đất has a soft clear shell and chewy sweet meat, and tôm sắt has a hard shell."
         },
@@ -97,14 +95,12 @@
         {
           "name": "Goi chua oc dun",
           "nameVi": "Gỏi chua ốc đụn",
-          "address": "Check on arrival",
           "dishSlug": "can-gio--oc-dun",
           "note": "Gỏi chua ốc đụn is a sour salad of ốc đụn."
         },
         {
           "name": "Oc giac",
           "nameVi": "Ốc giác",
-          "address": "Check on arrival",
           "dishSlug": "can-gio--oc-giac",
           "note": "Ốc giác is a sea snail with a chewy, crisp bite."
         },
@@ -170,7 +166,6 @@
         {
           "name": "Cua cum",
           "nameVi": "Cua cúm",
-          "address": "Check on arrival",
           "dishSlug": "can-gio--cua-cum",
           "note": "Cua cúm is a mangrove crab with a black body and a rough shell. The meat is firm and fragrant."
         },
@@ -195,28 +190,25 @@
         {
           "name": "Goi ca thoi loi",
           "nameVi": "Gỏi cá thòi lòi",
-          "address": "Check on arrival",
           "dishSlug": "can-gio--goi-ca-thoi-loi",
           "note": "Gỏi cá thòi lòi trộn lá lìm kìm is a salad of mangrove mudskipper and lá lìm kìm. The fish is sweet, fragrant, and soft, against a sour, slightly astringent leaf."
         },
         {
           "name": "Goi la lim kim",
           "nameVi": "Gỏi lá lìm kìm",
-          "address": "Eco parks. No gate was named.",
+          "address": "Eco parks",
           "dishSlug": "can-gio--goi-la-lim-kim",
           "note": "Gỏi lá lìm kìm is a salad of a small watery mangrove vine, with cá bống sao fried crisp or with dried fish. It is salty and sour, with a sweet finish that changes with the rain and the hour."
         },
         {
           "name": "Canh la lim kim",
           "nameVi": "Canh lá lìm kìm",
-          "address": "Check on arrival",
           "dishSlug": "can-gio--canh-lim-kim",
           "note": "Canh lá lìm kìm is a soup of the same mangrove leaf with tôm and tép. The leaf is already salty and the shrimp is sweet, so the pot takes no added salt."
         },
         {
           "name": "Canh chua ca khoai",
           "nameVi": "Canh chua cá khoai",
-          "address": "Check on arrival",
           "dishSlug": "can-gio--canh-chua-ca-khoai",
           "note": "Canh chua cá khoai is a sour soup of a long, round fish with pineapple, tamarind, tomato, bean sprouts, ngổ, and spring onion. The flesh is soft and translucent, and the bowl smells of pineapple and tomato, sweet, then cleanly sour."
         },
@@ -230,42 +222,36 @@
         {
           "name": "Ca doi muoi hot",
           "nameVi": "Cá đối nổ muối hột",
-          "address": "Check on arrival",
           "dishSlug": "can-gio--ca-doi-muoi-hot",
           "note": "Cá đối nổ muối hột is mullet buried in coarse salt and cooked by the heat of the salt as it pops. The flesh stays moist and tastes of coarse salt and lemongrass, then goes into rice paper with forest leaves."
         },
         {
           "name": "Sam trung nuong",
           "nameVi": "Sam trứng nướng",
-          "address": "Check on arrival",
           "dishSlug": "can-gio--sam-trung-nuong",
           "note": "Sam trứng nướng is horseshoe crab grilled on charcoal, then shredded with its eggs, spring onion, garlic, chili, cilantro, and crushed peanuts. The eggs are fatty and the meat is sweet."
         },
         {
           "name": "Lau ba khia",
           "nameVi": "Lẩu ba khía",
-          "address": "Check on arrival",
           "dishSlug": "can-gio--lau-ba-khia",
           "note": "Lẩu ba khía lá buôi is a mangrove-crab hotpot with a fatty, clean-sweet crab riêu. The leaf, also called rau bộ đội, is nutty and wants a thorough cook."
         },
         {
           "name": "Dia sam",
           "nameVi": "Địa sâm",
-          "address": "Check on arrival",
           "dishSlug": "can-gio--dia-sam",
           "note": "Địa sâm is eaten fresh, grilled, stir-fried, fried, or as porridge, and dried to sweeten a cooking liquid. It is naturally sweet."
         },
         {
           "name": "Ruou mat ong",
           "nameVi": "Rượu mật ong rừng Sác",
-          "address": "Check on arrival",
           "dishSlug": "can-gio--ruou-mat-ong",
           "note": "Rượu mật ong rừng Sác is a honey wine drunk with the mudskipper salad."
         },
         {
           "name": "Xoai cat",
           "nameVi": "Xoài cát Cần Giờ",
-          "address": "Check on arrival",
           "dishSlug": "can-gio--xoai-cat",
           "note": "Xoài cát Cần Giờ is the Hòa Lộc mango grown on this coast, round and yellow. It is cool-sweet, and the soil and the care make it different from the same variety elsewhere.",
           "photo": "can-gio--xoai-cat"
@@ -273,7 +259,6 @@
         {
           "name": "Mang cau",
           "nameVi": "Mãng cầu",
-          "address": "Check on arrival",
           "dishSlug": "can-gio--mang-cau",
           "note": "Mãng cầu here is not very large, with thick flesh that is chewy and sweet. The taste follows the sandy coastal soil.",
           "photo": "can-gio--mang-cau"
@@ -293,7 +278,7 @@
           "name": "Hang Duong seafood market",
           "nameVi": "Chợ hải sản Hàng Dương",
           "address": "Đường Thạnh Thới, xã Cần Giờ",
-          "note": "Thanh Niên, 11 Mar 2019, puts the market on đường Thạnh Thới in the old xã Long Hòa, beside bãi 30 tháng 4, about 50 m from the sand. You choose sò, ốc, cua, ghẹ, tôm, or mực, and the stall cooks it, or you take a pan already on the fire. That story prints a cook fee of 10,000 VND a kilogram for steaming and 30,000 for rang muối, cháy tỏi, xào dừa, xào bơ, xào me, nướng mỡ hành, nướng phô mai, and nướng mọi. VnExpress, updated 28 Feb 2025, names the same cooks plus hấp xả lá chanh, and says the cook-to-order cost is a few tens of thousands of đồng. Both stay. A busy day in the 2019 story meant a wait of about 30–40 minutes. One seller said she sold from about 7:00 until about 21:00, and that the seafood had come in that morning at Cầu Cảng."
+          "note": "Thanh Niên, 11 Mar 2019, puts the market on đường Thạnh Thới in the old xã Long Hòa, beside bãi 30 tháng 4, about 50 m from the sand. You choose sò, ốc, cua, ghẹ, tôm, or mực, and the stall cooks it, or you take a pan already on the fire. That story says a cook fee of 10,000 VND a kilogram for steaming and 30,000 for rang muối, cháy tỏi, xào dừa, xào bơ, xào me, nướng mỡ hành, nướng phô mai, and nướng mọi. VnExpress, updated 28 Feb 2025, names the same cooks plus hấp xả lá chanh, and says the cook-to-order cost is a few tens of thousands of đồng. A busy day in the 2019 story meant a wait of about 30–40 minutes. One seller said she sold from about 7:00 until about 21:00, and that the seafood had come in that morning at Cầu Cảng."
         },
         {
           "name": "Duyen Hai and Tac Xuat",
