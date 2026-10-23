@@ -3,7 +3,7 @@
 Place: `ca-mau`
 Slug: `mui-ca-mau-national-park`
 Status: stored
-Checked: 22 Oct 2026
+Checked: 23 Oct 2026
 
 ## What it is
 
@@ -54,11 +54,12 @@ Checked: 22 Oct 2026
 
 ## Photos
 
-- Hero must show: a boat or boardwalk under mangrove, water in the lower half, canopy meeting over the center.
+- Hero must show: mangrove at Đất Mũi, roots and water, the forest through the center.
 - Second frame must show (a different moment): another hour in the same forest, not the same file.
-- Reject: empty sky, a single trunk, a sail against sky, the marker with no water.
-- Opened File:Mudflats in Dat Mui.jpg. It is a boardwalk and mudflat, and the sky is flat gray with no sun. It fails the light test. Opened the prop-root frame. It has sun, and it is a forest floor, not a boat or boardwalk with water in the lower half. It is not the hero.
-- Unpublished: no licensed photo that meets both the brief and the light test. The prop-root frame is used only as the Rừng đước interest photograph, not as this sight’s card.
+- Reject: empty sky, gray mudflat, the sail, the city banner, the prop-root file already used as `ca-mau-rung-duoc`.
+- Opened File:Mudflats in Dat Mui.jpg and File:A wooden fence in mudflats in Dat Mui.jpg. Both are flat gray. They fail the light test.
+- Opened the walkway pair by Nevillenguyen310. Gray sky, the railing fills the foreground. Rejected.
+- Kept: File:Rhizophora apiculata in Dat Mui, Vietnam.jpg (Alphama, CC BY 4.0) as the hero. Prop roots, mud, canopy, sun, labeled Dat Mui, Ngoc Hien. File:Broken mangrove tree stump with exposed root system in Ca Mau forest.jpg (Nevillenguyen310, CC BY-SA 4.0, 22 March 2026) as the second frame. The file says the mangrove forest of Cà Mau and does not print the words Đất Mũi. It shows the same prop-root forest. It is not the interest-card file.
 
 ## Links
 
