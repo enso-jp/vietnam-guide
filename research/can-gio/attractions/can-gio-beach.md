@@ -5,6 +5,8 @@ Slug: `can-gio-beach`
 Status: stored
 Checked: 22 Oct 2026
 
+Public copy on 23 Oct 2026 keeps the 50 m walk and the silt sand, and does not name the 2019 market story or Dân trí. A beach ticket, a lifeguard hour, and a swim rule stay Check on arrival in the fee and hours fields.
+
 ## What it is
 
 - English name: 30 April beach

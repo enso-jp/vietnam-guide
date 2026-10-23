@@ -5,6 +5,8 @@ Slug: `can-gio-salt`
 Status: stored
 Checked: 22 Oct 2026
 
+Public copy on 23 Oct 2026 uses the range about 1,200 to 1,500 ha and about 7 to 10 days. The two publishers and the 30 km / 60 km salt-village distances stay in this file. The page uses the repeated forest approach of about 50 km and about 1 hour 30 minutes to about 2 hours.
+
 ## What it is
 
 - English name: Can Gio salt pans

@@ -4,7 +4,7 @@
   "name": "30 April beach",
   "nameVi": "Bãi biển 30 tháng 4",
   "kicker": "Silt sand beside the seafood market",
-  "summary": "Walk about 50 m from chợ Hàng Dương onto bãi 30 tháng 4 and sit on the shore after you eat. A 2019 story calls the beach still rough. Dân trí calls the sand black from silt. A beach ticket, a lifeguard hour, and a swim rule were not printed. Check on arrival. Go late, when the market is cooking.",
+  "summary": "Silt beach beside the market: walk the shore for a late afternoon after you eat. The sand sits about 50 m from chợ Hàng Dương and comes up dark from river silt. Use the late hour of a forest day here, and ask on the sand before you swim.",
   "dots": 4,
   "dotReason": "The evening half of a night in the beach town.",
   "timeNeeded": "The late afternoon",
@@ -14,13 +14,12 @@
   "verified": "22 Oct 2026",
   "heroCaption": "Tidal sand and casuarina at bãi 30 tháng 4",
   "notice": {
-    "title": "No swim rule was printed",
-    "body": "A lifeguard hour and a swim flag were not on the pages that describe this shore. Check on arrival before you go in the water."
+    "title": "Ask on the sand before you swim",
+    "body": "The shore is a walk beside the market. A swim flag and a lifeguard hour belong on the sand. Ask there before you go in the water."
   },
   "body": [
-    "Bãi 30 tháng 4 sits beside Hàng Dương, on đường Thạnh Thới, in the old xã Long Hòa, now xã Cần Giờ. A 2019 story puts the sand about 50 m from the market and says people sit on the shore after eating. The same story calls the beach still rough. Dân trí calls the Cần Giờ sand black from silt.",
-    "Go after the forest gate closes, when the market is cooking. One seller in that 2019 story said she sold from about 7:00 until about 21:00. That clock is one stall. A tide table was not printed. If you slept in town, the same shore is the morning walk.",
-    "A beach ticket was not printed. Check on arrival. A chair hire from 2019 is not a current fee."
+    "Bãi 30 tháng 4 sits beside chợ Hàng Dương, on đường Thạnh Thới, in xã Cần Giờ. The sand is about 50 m from the market and dark from river silt. Walk off the stalls and sit on the shore after you eat.",
+    "Come after the forest gate closes, when the market is cooking. One stall there has sold from about 7:00 until about 21:00. If you slept in town, the same shore is the morning walk."
   ],
   "figures": [
     {
@@ -30,28 +29,20 @@
     }
   ],
   "gettingThere": [
-    "From the beach town, walk from chợ Hàng Dương. The 2019 story puts the sand about 50 m from the market.",
-    "From Ho Chi Minh City, Visit HCMC prints about 1 hour 30 minutes and about 50 km to the ferry road. Tuổi Trẻ prints about 2 hours. The beach is in the town after that crossing. Minutes from Vàm Sát to the sand were not printed. Check on arrival."
+    "From the beach town, walk from chợ Hàng Dương on đường Thạnh Thới. The sand is about 50 m from the market.",
+    "From Ho Chi Minh City, the road runs about 50 km to phà Bình Khánh, about 1 hour 30 minutes to about 2 hours, and the beach is in the town after that crossing."
   ],
   "legs": [
     {
       "heading": "From the beach town",
-      "body": "Walk from Hàng Dương on đường Thạnh Thới. About 50 m, in the 2019 market story."
+      "body": "Walk from Hàng Dương on đường Thạnh Thới. The sand is about 50 m from the market."
     },
     {
       "heading": "From Ho Chi Minh City",
-      "body": "The Bình Khánh ferry, then the town. About 1 hour 30 minutes and about 50 km on Visit HCMC, or about 2 hours in Tuổi Trẻ."
+      "body": "Nguyễn Văn Linh and Huỳnh Tấn Phát to the Bình Khánh ferry, then the town. About 50 km, about 1 hour 30 minutes to about 2 hours. On the water the crossing is about 10–15 minutes, about 1.2 km. From 18 March 2026 a walk or bicycle is 3,000 VND and a motorbike is 8,000 VND."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "A lifeguard hour and a swim rule are check on arrival.",
-  "admissionNote": "A beach ticket was not printed. Check on arrival.",
-  "links": [
-    {
-      "label": "Thanh Niên on Hàng Dương",
-      "url": "https://thanhnien.vn/nguoi-sai-gon-lac-buoc-trong-thien-duong-hai-san-co-khung-gia-binh-dan-185832450.htm",
-      "note": "2019 market story, the 50 m line"
-    }
-  ],
+  "closed": "Check on arrival",
   "interests": ["beaches"]
 }
