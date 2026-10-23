@@ -166,10 +166,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed sight photo. Dossier only.",
-      "updated": "2026-10-23T06:11:18.346Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "unpublished: no licensed photo. No public file.",
+      "updated": "2026-10-23T06:23:44.554Z",
       "reworkCount": 0
     },
     {
@@ -181,11 +181,11 @@
       "file": "src/content/attractions/buon-ma-thuot--khai-doan-pagoda.json",
       "source": "dossier",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:11:18.346Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Hall and stair are the pagoda. Donation and hours Check on arrival. Dots stay 3. No pin.",
+      "updated": "2026-10-23T06:24:25.620Z",
       "reworkCount": 0
     },
     {
@@ -432,6 +432,46 @@
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-23T06:24:25.620Z",
+      "place": "buon-ma-thuot",
+      "stage": "quality",
+      "item": "buon-ma-thuot--khai-doan-pagoda",
+      "status": "checked",
+      "note": "Hall and stair are the pagoda. Donation and hours Check on arrival. Dots stay 3. No pin."
+    },
+    {
+      "at": "2026-10-23T06:24:25.552Z",
+      "place": "buon-ma-thuot",
+      "stage": "copy",
+      "item": "buon-ma-thuot--khai-doan-pagoda",
+      "status": "enriched",
+      "note": "Hero cropped to the hall and lanterns. Second frame is the stair, DXLINH, public domain. Donation stays Check on arrival."
+    },
+    {
+      "at": "2026-10-23T06:24:25.478Z",
+      "place": "buon-ma-thuot",
+      "stage": "page",
+      "item": "buon-ma-thuot--khai-doan-pagoda",
+      "status": "paged",
+      "note": "Finished sight. Donation and hours Check on arrival. Second frame is the stair and pavilion. Dots stay 3."
+    },
+    {
+      "at": "2026-10-23T06:23:44.554Z",
+      "place": "buon-ma-thuot",
+      "stage": "quality",
+      "item": "buon-ma-thuot--coffee-village",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. No public file."
+    },
+    {
+      "at": "2026-10-23T06:23:44.488Z",
+      "place": "buon-ma-thuot",
+      "stage": "copy",
+      "item": "buon-ma-thuot--coffee-village",
+      "status": "skipped",
+      "note": "unpublished: no licensed photo. No public file."
+    },
     {
       "at": "2026-10-23T06:23:14.088Z",
       "place": "buon-ma-thuot",

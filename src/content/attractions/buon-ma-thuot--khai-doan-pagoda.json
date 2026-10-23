@@ -3,13 +3,49 @@
   "placeSlug": "buon-ma-thuot",
   "name": "Khai Doan Pagoda",
   "nameVi": "Chùa Sắc Tứ Khải Đoan",
-  "summary": "The city’s best-known pagoda complex with a large triple-roof hall. Visit late afternoon for softer light. Donations may apply; no fee was sourced.",
+  "kicker": "Large city pagoda in Phan Boi Chau",
+  "summary": "The large pagoda in the Phan Boi Chau area, with a wooden hall, yellow lanterns, and a white pavilion in the courtyard. Allow 30 to 45 minutes in the late afternoon. A donation may be asked. The amount is Check on arrival.",
   "dots": 3,
-  "timeNeeded": "30–45 minutes",
+  "timeNeeded": "30 to 45 minutes",
   "fee": "Check on arrival",
-  "getThere": "Phan Boi Chau area",
-  "district": "City center",
-  "interests": [
-    "pagodas"
-  ]
+  "getThere": "Phan Boi Chau, taxi or motorbike from the center",
+  "district": "Phan Boi Chau",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Wooden hall, yellow lanterns, and the white pavilion",
+  "body": [
+    "Khải Đoan sits in the Phan Boi Chau area. The Buon Ma Thuot ward portal and Dak Lak Tourism both put it on a city day. Allow 30 to 45 minutes. Late afternoon is the softer light on the roof. A donation may be asked. The amount is Check on arrival. Hours are Check on arrival.",
+    "The courtyard is the wooden hall, the stair, and the white pavilion. Do not fly a drone unless the pagoda allows it. The prison on Tan Thuat and the museums on Y Ngong are separate stops, on their own tickets."
+  ],
+  "figures": [
+    {
+      "id": "buon-ma-thuot-khai-doan-pagoda-2",
+      "caption": "The stair up to the hall, with the pavilion behind",
+      "alt": "Carved stair and yellow lanterns at Khai Doan Pagoda, with a white pavilion in the courtyard"
+    }
+  ],
+  "gettingThere": [
+    "The pagoda is in the Phan Boi Chau area. From hotels around Nguyen Tat Thanh and Le Duan, take a taxi, Grab, or a motorbike. The Buon Ma Thuot ward portal and Dak Lak Tourism name the pagoda and do not print the minutes. The minutes are Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the city center",
+      "body": "Taxi, Grab, or motorbike. No minute count is printed. The minutes are Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "No weekly closing day is printed. Check on arrival.",
+  "admissionNote": "No ticket is printed. A donation may be asked. The amount is Check on arrival.",
+  "links": [
+    {
+      "label": "Buon Ma Thuot ward portal",
+      "url": "https://buonmathuot.daklak.gov.vn/v-ban-sac-van-hoa-va-du-lich-buon-ma-thuot-1095.html",
+      "note": "City tourism list"
+    },
+    {
+      "label": "Dak Lak Tourism",
+      "url": "https://daklaktourism.com/location/diem-den/",
+      "note": "Sample day route"
+    }
+  ],
+  "interests": ["pagodas"]
 }
