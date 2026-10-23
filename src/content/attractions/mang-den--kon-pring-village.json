@@ -4,22 +4,22 @@
   "name": "Kon Pring village",
   "nameVi": "Làng Kon Pring",
   "kicker": "Mơ Nâm village on Highway 24",
-  "summary": "Spend about an hour in Kon Pring, a Mơ Nâm community village on Highway 24. The visit is the nhà rông, stilt houses, and gong culture. Mang Den Tourism prints 05:00–21:00 and marks the price as updating, so the fee is Check on arrival.",
+  "summary": "Ride a few kilometres up Highway 24 to Kon Pring, a Mơ Nâm community village where the steep roof of the nhà rông rises over the fields and wooden houses sit under the pine. Come for the gongs, xoang dancing, weaving, and rice wine, and give it at least an hour. Skip it on a day Pa Sy and Dak Ke already fill.",
   "dots": 4,
   "district": "The village road",
-  "timeNeeded": "About 60 minutes minimum",
+  "timeNeeded": "At least 60 minutes",
   "fee": "Check on arrival",
   "getThere": "Highway 24 from Mang Den town",
   "verified": "23 Oct 2026",
-  "heroCaption": "Kon Pring village, with a steep roof across the fields",
+  "heroCaption": "Kon Pring village, with the nhà rông roof across the fields",
   "notice": {
     "title": "Ask before you photograph inside the nhà rông",
-    "body": "Go Vietnam Travel says to ask before photographs inside the communal house."
+    "body": "Ask your host or a villager first, and put the camera away if the answer is no."
   },
   "body": [
-    "Kon Pring is one of four Kon Plông community tourism villages. You come for the nhà rông, the stilt houses, and the gong and xoang culture the rural tourism portal and Go Vietnam Travel describe. Weaving and rice wine are part of the same visit. The frame across the fields shows the village and a steep roof on the right.",
-    "Mang Den Tourism puts the village about 3 km from the center and prints hours of 05:00–21:00. Go Vietnam Travel and the Vietnam Tourism rural portal put it about 5 km from town. Use both distances and ask which road sign you are on. The same Mang Den Tourism line marks the price as updating. The fee is Check on arrival. Plan on the 60-minute minimum that line prints, then stay longer if a performance is on.",
-    "Gong and xoang are described as part of the visit, not as a fixed weekly clock. Ask that morning. Skip the village if Pa Sy and the lake already fill the day. An optional homestay is the overnight. It is not a ticket with a printed price. The evening back in town is a quiet meal, not a bar street."
+    "Kon Pring is one of four community tourism villages in Kon Plông, home to Mơ Nâm families. You see it first across the fields: low houses, pine on the hills behind, and the tall roof of the nhà rông, the communal house, rising over the fields.",
+    "Walk among the stilt houses, then ask about the gongs and xoang dancing. Performances are part of a visit but keep no fixed weekly schedule, so ask that morning or when you arrive. Weaving and rice wine are the other things families show you. Stay longer than the hour if the gongs are playing.",
+    "Stay the night if you want the village after dark. Homestays are offered, with a family meal. Otherwise ride back to town for grilled chicken and lam rice. The gate opens at 05:00, so an early start before Pa Sy also works."
   ],
   "figures": [
     {
@@ -29,31 +29,35 @@
     }
   ],
   "gettingThere": [
-    "The village is on Highway 24, a short ride from the Mang Den town strip. Mang Den Tourism prints about 3 km. Go Vietnam Travel and the Vietnam Tourism rural portal print about 5 km. Minutes are Check on arrival. Hire a car or ride a motorbike. Vietnam Tourism does not name a town bus."
+    "Kon Pring is on Highway 24 from the Mang Den town strip. Mang Den Tourism puts it about 3 km from the centre. Go Vietnam Travel and the Vietnam Tourism rural portal put it about 5 km. Hire a car or a motorbike taxi, or ride a rented motorbike."
   ],
   "legs": [
     {
       "heading": "From Mang Den town",
-      "body": "By car or motorbike on Highway 24. About 3 km on Mang Den Tourism, and about 5 km on Go Vietnam Travel and the Vietnam Tourism rural portal. The minutes are Check on arrival."
+      "body": "By car or motorbike on Highway 24: about 3 km by Mang Den Tourism’s count, about 5 km by Go Vietnam Travel’s and the Vietnam Tourism rural portal’s."
     },
     {
       "heading": "From Kon Tum city",
-      "body": "Go Vietnam Travel puts Kon Pring about 57 km from old Kon Tum city along Highway 24. Vietnam Tourism puts Mang Den about 60 km northeast of Kon Tum. The minutes and the fare are Check on arrival."
+      "body": "About 57 km up Highway 24 by car or motorbike."
+    },
+    {
+      "heading": "From Pleiku airport",
+      "body": "About 100 km by road to Mang Den by hired car or taxi, then on to the village along Highway 24."
     }
   ],
   "hours": "05:00–21:00",
-  "closed": "No weekly closing day is printed. Check on arrival.",
-  "admissionNote": "Mang Den Tourism marks the price as updating. The fee is Check on arrival. No child rule and no inclusion list are printed. A homestay meal is extra and has no printed price on Go Vietnam Travel or the rural tourism portal.",
+  "closed": "Check on arrival",
+  "admissionNote": "Ask the price of a homestay night or a family meal when you arrange it.",
   "links": [
     {
       "label": "Mang Den Tourism on Kon Pring",
       "url": "https://mangdentourism.com/en/konpringvillage",
-      "note": "Hours 05:00–21:00, about 3 km, price marked updating."
+      "note": "Hours 05:00–21:00 and about 3 km from the centre."
     },
     {
       "label": "Go Vietnam Travel on Kon Pring",
       "url": "https://govietnam.travel/en/destination/du-lich-cong-dong-kon-bring-village-en/",
-      "note": "About 5 km from town, and about 57 km from old Kon Tum."
+      "note": "About 5 km from town, and about 57 km from Kon Tum city."
     },
     {
       "label": "Vietnam Tourism rural portal",
