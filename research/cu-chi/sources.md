@@ -131,3 +131,27 @@ Commercial ticket roundups, map pins, and the published place JSON were not used
 - Supports: Ga Sài Gòn is the end of the national Hà Nội–Thành phố Hồ Chí Minh line and sits in the city. The article does not put that station in Củ Chi and prints no minute to the tunnels
 
 The 22 Dec 2009 fee decision, 101/2009/QĐ-UBND, was opened at the Công báo index. The fee table was not in the extract, so no 2009 number is recorded.
+
+### S22
+- URL: https://baoquocte.vn/du-lich-tp-ho-chi-minh-thuong-thuc-nhung-mon-an-dan-da-vung-dat-thep-cu-chi-282138.html
+- Publisher: Báo Quốc tế, cơ quan của Bộ Ngoại giao, byline Kha Ninh, 11 Aug 2024
+- Accessed: 23 Oct 2026
+- Supports: steamed cassava with pandan, sesame salt, and coconut cream; mashed cassava rolled in rice paper, with the dip worded mắm tỏi ớt in the headline and mắm tỏi in the body; beef grilled in lá lốt; veal plates named as cuốn bánh tráng, lẩu rau rừng, nhúng dấm, cơm cháy bò tơ kho, nướng mọi, and nướng mè; clay-pot chicken; young jackfruit with pork and shrimp; cháo dựng bò; tôm càng xanh along kênh Đông and the Sài Gòn river, grilled, steamed, or hotpot; bún bò Củ Chi; pickled rau móp; cháo lươn môn; durian or mung-bean sugarcane juice on Quốc lộ 22; rice paper at Phú Hòa Đông put at more than 50 years; cá trèn chiên giòn, rau mướp xào lá quế, cá hải tượng nướng muối ớt, chim lá, and chim sẻ nướng. No stall price
+
+### S23
+- URL: https://tuoitre.vn/nld/du-lich-bien/6-mon-ngon-nen-thu-khi-den-cu-chi-20170305235249732.htm
+- Publisher: Người Lao Động, crediting Ngôi sao, 6 Mar 2017
+- Accessed: 23 Oct 2026
+- Supports: young jackfruit salad, including chicken; frog with lá lốt; bamboo-shoot salad with măng tre tàu; boiled or steamed veal rolled in bánh tráng phơi sương; grilled arowana with salt, satay, and charcoal, tied to one garden that stays off the public plate; cassava steamed with pandan or coconut cream, or ground for bánh tằm, sold along the roads and cooked for tunnel visitors. No stall price
+
+### S24
+- URL: https://tuoitre.vn/khoahocphothong/bo-to-cu-chi-dac-san-giu-chan-du-khach-den-tp-hcm-104206181.htm
+- Publisher: Tuổi Trẻ, byline Thanh Hoàng, 25 Jun 2018
+- Accessed: 23 Oct 2026
+- Supports: veal of about 5–6 months on the word of unnamed chefs; the boiled rice-paper roll as the usual plate, with lá cóc, lá ổi, celery, spring onion, and mango tips; grilling at the table under the names nướng vỉ, nướng mọi, and nướng lụi; bò nhúng hèm, cháo bò, chả đùm bò, lẩu đuôi bò, lòng bò hấp gừng; bò tơ kho sả with crispy rice; bò xào nghệ named as a plate a shop may add. No stall price and no street
+
+### S25
+- URL: https://muctim.tuoitre.vn/24-gio-tai-huyen-cu-chi-di-dau-an-gi-101240505070712496.htm
+- Publisher: Tuổi Trẻ, byline Huỳnh Anh and Ngọc Thương, 5 May 2024
+- Accessed: 23 Oct 2026
+- Supports: boiled cassava dipped in salt on the relic; khoai mì hấp, bánh lọt xào, bánh bao, hủ tiếu, bánh canh gà, and bánh khọt kiểu Campuchia at chợ Củ Chi and chợ Việt Kiều; bò tơ Củ Chi named again; nước mía Vườn Cau, open more than 30 years, with nước mía sầu riêng, khoai mì, bánh tằm, and bánh bò, and no street. Cafe names on that page stay off the food list

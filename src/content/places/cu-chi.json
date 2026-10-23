@@ -21,6 +21,7 @@
   "nearby": [
     "ho-chi-minh-city"
   ],
+  "foodSlug": "cu-chi",
   "routeSlugs": [],
   "itinerarySlugs": [
     "cu-chi-day"
@@ -49,9 +50,51 @@
   ],
   "eat": [
     "Rice paper is the craft at xã Phú Hòa Đông. Cục Du lịch Quốc gia Việt Nam puts the lanes about more than 40 km from the city centre. Tạp chí Công Thương puts them about 40 km. Both stay. The sheets are dried in the sun. A serving was not printed. Check on arrival.",
-    "On the relic, the tourism center calls boiled tapioca with sesame salt a wartime dish with hot tea at the Hoàng Cầm kitchen, and says it is complimentary. Which gate was not printed. The operator’s 2021 notice says visitors eat specialties at Chợ Quê, inside the 7:00–17:00 gate, and does not name tapioca or which gate. Bò tơ Củ Chi is a local veal name, with no stall and no cut printed. Bún giò heo is called a local breakfast, with no street. Durian sugarcane juice is placed along National Highway 22, with no stall name. This is a short list. A dining street was not named."
+    "The Ho Chi Minh City Tourism Promotion Center also names boiled tapioca with sesame salt at the Hoàng Cầm kitchen, Cu Chi veal, pork-knuckle noodle soup, and durian sugarcane juice along National Highway 22. Tuổi Trẻ, on 5 May 2024, dips the tunnel cassava in salt and does not say sesame. The same center names rambutan, mangosteen, durian, and jackfruit at Trung An. Báo Quốc tế and Người Lao Động describe veal rolled in rice paper, young jackfruit salad, and bamboo-shoot salad. Tuổi Trẻ names more plates at chợ Củ Chi and chợ Việt Kiều. No stall price was printed. Check on arrival."
   ],
-  "dishSlugs": [],
+  "dishSlugs": [
+    "cu-chi--banh-trang",
+    "cu-chi--khoai-mi-luoc",
+    "cu-chi--khoai-mi-hap",
+    "cu-chi--khoai-mi-cuon",
+    "cu-chi--banh-tam",
+    "cu-chi--bo-to",
+    "cu-chi--bo-to-cuon",
+    "cu-chi--com-chay-bo-kho",
+    "cu-chi--bo-to-nuong",
+    "cu-chi--bun-gio-heo",
+    "cu-chi--nuoc-mia-sau-rieng",
+    "cu-chi--goi-mang",
+    "cu-chi--goi-mit-non",
+    "cu-chi--ech-xao-la-lot",
+    "cu-chi--ca-hai-tuong",
+    "cu-chi--ga-nuong-lu",
+    "cu-chi--chao-dung-bo",
+    "cu-chi--tom-cang-xanh",
+    "cu-chi--bun-bo",
+    "cu-chi--rau-mop",
+    "cu-chi--chao-luon-mon",
+    "cu-chi--bo-la-lot",
+    "cu-chi--trung-an-fruit",
+    "cu-chi--ca-tren-chien",
+    "cu-chi--rau-muop-xao",
+    "cu-chi--chim-se-nuong",
+    "cu-chi--chim-la",
+    "cu-chi--banh-lot-xao",
+    "cu-chi--banh-canh-ga",
+    "cu-chi--banh-khot-campuchia",
+    "cu-chi--hu-tieu",
+    "cu-chi--banh-bao",
+    "cu-chi--banh-bo",
+    "cu-chi--lau-bo-rau-rung",
+    "cu-chi--bo-nhung-dam",
+    "cu-chi--bo-nhung-hem",
+    "cu-chi--chao-bo",
+    "cu-chi--cha-dum-bo",
+    "cu-chi--lau-duoi-bo",
+    "cu-chi--long-bo-hap-gung",
+    "cu-chi--bo-xao-nghe"
+  ],
   "interestCards": [
     {
       "title": "The two tunnel grounds",
