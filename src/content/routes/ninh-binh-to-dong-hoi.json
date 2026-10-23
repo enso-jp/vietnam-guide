@@ -1,0 +1,28 @@
+{
+  "slug": "ninh-binh-to-dong-hoi",
+  "name": "Ninh Binh to Dong Hoi",
+  "from": "Ninh Binh",
+  "to": "Dong Hoi",
+  "summary": "Take an SE train. The five southbound trains take 7 hours 21 minutes to 8 hours 40 minutes. The stations are 407 km apart on the rail posts. A road time is Check on arrival.",
+  "modes": [
+    {
+      "mode": "Train",
+      "duration": "7 hours 21 minutes to 8 hours 40 minutes",
+      "note": "Southbound, SE3 is the short end and SE9 is the long end. Ninh Bình is km 115 and Đồng Hới is km 522. Book a berth. Fares are Check on arrival.",
+      "partner": "train"
+    },
+    {
+      "mode": "Car or bus",
+      "duration": "Check on arrival",
+      "note": "No door-to-door minute is published. The 407 km figure is the rail post, not the highway. Fares are Check on arrival."
+    }
+  ],
+  "seoTitle": "Ninh Binh to Dong Hoi — SE trains, 7 to 9 hours",
+  "seoDescription": "The five SE trains from Ninh Binh to Dong Hoi take 7 hours 21 minutes to 8 hours 40 minutes. The rail posts are 407 km apart. Road minutes are Check on arrival.",
+  "faqs": [
+    {
+      "q": "Is Dong Hoi back to Ninh Binh the same trip?",
+      "a": "Yes. This page covers both directions. Northbound, the trains that stop take 7 hours 56 minutes to 8 hours 30 minutes. One northbound train does not show a Ninh Bình time. Fares are Check on arrival."
+    }
+  ]
+}

@@ -54,3 +54,7 @@ One Hà Nội example, not a rule: SE7 leaves Hà Nội 06:00 and Đồng Hới 
 ### Where the night is
 - Sleep as an area: the Nhật Lệ beachfront, or Bảo Ninh across the river, or a riverside room by the market and Quảng Bình Quan. Not a hotel brand (S1).
 - The walking street on Phan Bội Châu and Đồng Hải is the named night product, printed as 18:00–24:00 on Friday, Saturday, Sunday, and holidays (S1). One source. See attractions.md.
+
+## Route pass, 23 Oct 2026
+
+Ninh Bình–Đồng Hới cells and the 407 km post gap are in `research/ninh-binh/getting-there.md`. Same board, https://giotaugiave.dsvn.vn/ accessed 23 Oct 2026. Southbound span 7 hours 21 minutes to 8 hours 40 minutes. Northbound, trains that stop, 7 hours 56 minutes to 8 hours 30 minutes. SE10 does not show Ninh Bình. Road minutes still Check on arrival.

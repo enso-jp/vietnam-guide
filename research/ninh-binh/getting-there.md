@@ -65,3 +65,13 @@ Vietnamese Wikipedia prints “cách ga Hà Nội 115 km về phía Bắc” and
 UNESCO’s current list: property 6,226 ha, buffer 6,026 ha (S1). The 2014 decision: property 6,172 ha, buffer 6,079 ha (S2). The tourism page: about 12,252 ha (S3). 6,226 plus 6,026 is 12,252. The tourism page does not say it added those two lines. The 2014 pair does not add to 12,252. Keep all three statements.
 
 The 2017 itinerary text says 31 lakes and 48 caves, and a Bái Đính area of 107 ha, against the 2025 page’s more than 1,000 ha (S4, S20). UNESCO prints no cave count (S1). Do not choose.
+
+## Route pass, 23 Oct 2026
+
+For `ninh-binh-to-dong-hoi`. https://giotaugiave.dsvn.vn/ accessed 23 Oct 2026. Southbound columns SE7, SE5, SE9, SE3, SE1. Northbound SE8, SE6, SE10, SE4, SE2.
+
+- Ninh Bình km 115: 08:16, 10:16, 15:17, 21:36, 00:03 (ngày +1).
+- Đồng Hới km 522: 16:27, 18:11, 23:57, 04:57 (ngày +1), 07:33 (ngày +1).
+- Cell spans southbound: 8 h 11 m, 7 h 55 m, 8 h 40 m, 7 h 21 m, 7 h 30 m. Posts 522 − 115 = 407 km.
+- Northbound Đồng Hới km 1204 to Ninh Bình km 1611, same 407 km. Spans on the four trains with a Ninh Bình cell: 8 h 25 m (SE8), 8 h 30 m (SE6), 7 h 56 m (SE4), 8 h 16 m (SE2). SE10 Ninh Bình cell blank.
+- Road minutes still not on this board. 12go `ninh-binh/dong-hoi` returned a bot challenge, so no bus partner path.

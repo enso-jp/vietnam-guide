@@ -37,3 +37,7 @@ S19 places the political center, in the April 2025 proposal, at 86 Lê Thánh T�
 - Metro Line 1, Bến Thành to Bến xe Suối Tiên | 29 minutes in the 2024 opening article | Initial clock 05:00–22:00 and headway 8–12 minutes were “thời gian đầu.” Fare now Check on arrival. S15 names Bến xe Miền Đông instead | S6, S7, S15
 - Rail from the previous city | Check on arrival — UNSOURCED | No operator timetable opened | —
 - Road from Đà Nẵng, Nha Trang, or Đà Lạt | Check on arrival — UNSOURCED | Not on the pages opened | —
+
+## Route pass, 23 Oct 2026
+
+For `ho-chi-minh-city-to-da-nang`. Cells and the Vietjet rows are copied in `research/da-nang/getting-there.md`. Accessed 23 Oct 2026. Flight about 1 hour 20 minutes toward Da Nang and about 1 hour 23 minutes back. Northbound trains 16 hours 46 minutes to 19 hours 44 minutes. Southbound trains 17 hours 1 minute to 21 hours 23 minutes. Rail posts 935 km. Road minutes still Check on arrival. No fare copied. 12go not confirmed.

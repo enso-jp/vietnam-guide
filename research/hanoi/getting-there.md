@@ -25,3 +25,9 @@ Checked: 22 Oct 2026
 
 ### Season limit on the journey
 - April to June, or September to December, is the window Vietnam Tourism calls the best time (S19). June to August is hot, humid, and rainy. Late December to March can fall to about 10°C (S19). Tet is the week when seats sell out and shops close (S20). The calendar date of Tet moves. Check on arrival.
+
+## Route pass, 23 Oct 2026
+
+For `hanoi-to-da-nang`. Rail: https://giotaugiave.dsvn.vn/ accessed 23 Oct 2026. Southbound Hà Nội to Đà Nẵng (km 791): SE7 06:00–22:30 (16 h 30 m), SE5 08:00–00:36 ngày +1 (16 h 36 m), SE9 13:00–06:03 ngày +1 (17 h 3 m), SE3 19:20–10:43 ngày +1 (15 h 23 m), SE1 21:45–13:29 ngày +1 (15 h 44 m). Northbound Đà Nẵng (km 935) to Hà Nội: 16 h 39 m, 17 h 13 m, 18 h 41 m, 16 h 8 m, 16 h 21 m, so 16 h 8 m to 18 h 41 m.
+
+Flight, Vietjet domestic tables, accessed 23 Oct 2026. HAN–DAD about 1 giờ 20 phút on https://www.vietjetair.com/vi/ve-may-bay/ve-may-bay-thanh-do-di-da-nang. DAD–HAN about 1 giờ 20 phút on https://www.vietjetair.com/vi/ve-may-bay/ve-may-bay-hue-di-ha-noi. Frequency column not used: the same tables include duplicate nonsense rows. The airport blurb on the Thành Đô page (code DIA, 4 km east) was not used. Sleeper-bus duration still not on these pages. 12go `hanoi/da-nang` returned a bot challenge, so no bus partner path.

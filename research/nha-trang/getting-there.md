@@ -106,3 +106,7 @@ From the airport, Vietnam Tourism names shuttles, taxis, and ride-hailing (S1). 
 ## Season limit on the journey
 
 Vietnam Tourism’s best time is January–August, and it calls September–December the rainy season (S1). The bureau’s bay page uses the same months and prints an average of 26°C (S3). The seven-kilometre beach line and the “more sunshine than anywhere else” line are the 7-reasons page (S2). No storm-closure calendar was opened. Check on arrival for a closure.
+
+## Route pass, 23 Oct 2026
+
+For `nha-trang-to-da-lat`. Lam Dong tourism, https://www.vietnamtourism.org.vn/accommodations/lam-dong/, accessed 23 Oct 2026, prints 205 km from Nha Trang. No minute. Vietnam Tourism’s Da Lat page the same day names buses from Nha Trang and does not print “a few hours.” Duration stays Check on arrival. No nonstop CXR–DLI row on the Vietjet Da Lat tables opened the same day (see `research/da-lat/getting-there.md`). Do not invent one. No train into Da Lat. 12go not confirmed.
