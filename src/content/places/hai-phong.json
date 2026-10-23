@@ -31,7 +31,7 @@
   "intro": [
     "You wake in the port center, not at the airport and not in a karst bay. The city portal’s center piece is the opera house, the Lê Chân statue, and the same strip when the flamboyant trees are out. The month of those trees is not named. The other evening is Tam Bạc: the old street on the right bank, 1,415 m from cầu Lạc Long, behind Chợ Sắt, to the Tam Kỳ junction at Quang Trung. From the end of December 2018 the ward page says people walk both banks under the lights.",
     "Stay if that square and the river street are the night you want. Sleep on the Đồ Sơn peninsula if the night is the city’s own sand, a bit more than 20 km out on the Nghè page. Go to Cat Ba if the island is the trip. A personal itinerary on the city tourism portal prints the island as about 30 km from the mainland, by boat, and also names a cable car. That page is not a port timetable. Go to Ha Long if the bay is the trip. The expressway operator links Cát Bi with Vịnh Hạ Long and prints neither kilometres nor minutes from the square.",
-    "The center sights sit in a walk: the opera, Tam Bạc, and the museum at 66 Điện Biên Phủ. On the 17 August 2025 account the museum is free, Tuesday to Sunday, 08:00–11:00 and 14:00–17:00. Monday is not in that sentence. A show ticket and a gate hour for the opera were not printed. The theater organization’s page prints a cultural center at 56 Đinh Tiên Hoàng and does not print that number as the auditorium door. Bánh đa cua is the bowl the city pages send you to eat, morning or evening. The 2021 article puts pavement tables on Trần Phú opposite the opera from about 18:00 until past midnight. Whether that clock still holds is Check on arrival.",
+    "The center sights sit in a walk: the opera, Tam Bạc, and the museum at 66 Điện Biên Phủ. On the 17 August 2025 account the museum is free, Tuesday to Sunday, 08:00–11:00 and 14:00–17:00. Monday is not in that sentence. A show ticket and a gate hour for the opera were not printed. The theater organization’s page prints a cultural center at 56 Đinh Tiên Hoàng and does not print that number as the auditorium door. Bánh đa cua is the bowl Liên hiệp các tổ chức hữu nghị thành phố Hải Phòng and Cổng du lịch Hải Phòng both describe. The 8 August 2021 account calls it breakfast and the evening meal, and puts pavement tables on Trần Phú opposite the opera from about 18:00 until past midnight. The 24 July 2023 map says lunch and all day, and does not name Trần Phú. Whether that clock still holds is Check on arrival.",
     "Đồ Sơn is the swim, not a second bay. The department list includes bãi tắm khu 2. A beach fee and a swim hour were not printed. In 2026 the buffalo rites run 11–26 September, with the final at 07:30 on 19 September. That is the crowded week. Hòn Dấu is a smaller island off this peninsula, a bit under 2 km offshore on one sentence of its page and nearly 2 km on another. The boat fare is Check on arrival. The buffalo rite uses the Đồ Sơn Nghè, not the Lê Chân temple in the center."
   ],
   "gettingAround": [
@@ -55,22 +55,51 @@
     }
   ],
   "eat": [
-    "Bánh đa cua is the bowl: red rice crackers from Dư Hàng Kênh, crab, and a crab broth. The 2023 map puts a full bowl at lunch and says it is sold all day. The 2021 article calls it the common breakfast and the common evening meal. Both stay. A price is Check on arrival.",
-    "Bún cá cay, bánh mì cay, and trà cúc are named for the morning. Nem cua bể is named as a city mark. Giá bể, bánh bèo, dừa dầm, and chè are the afternoon market snacks on the 2023 map. Ốc is the evening mark. Nộm sứa, tu hài, and bề bề are named for Đồ Sơn. Chả rươi, cua lông, and bún cá rô đồng are named as dishes of the former Hải Dương land now inside the city. They are not the port breakfast. Market hours are Check on arrival."
+    "Bánh đa cua is the bowl: red crackers from Dư Hàng Kênh and crab. Cổng du lịch Hải Phòng, on 24 July 2023, puts a full bowl at lunch and says it is sold all day. Liên hiệp các tổ chức hữu nghị thành phố Hải Phòng, on 8 August 2021, calls it the common breakfast and the common evening meal. A price is Check on arrival.",
+    "Bún cá cay, bánh mì cay, and trà cúc are the morning round on that map. Giá bể, bì bò, bánh bèo, dừa dầm, and chè are the afternoon market snacks. Ốc is the evening plate. Nộm sứa, tu hài nướng mỡ hành, and bề bề rang muối are the Đồ Sơn plates named on 16 October 2025. Chả rươi is printed three ways, and all three stay. Market hours are Check on arrival."
   ],
-  "dishSlugs": ["banh-da-cua"],
+  "dishSlugs": [
+    "banh-da-cua",
+    "hai-phong--bun-ca-cay",
+    "hai-phong--banh-mi-cay",
+    "hai-phong--tra-cuc",
+    "hai-phong--nem-cua-be",
+    "hai-phong--oc",
+    "hai-phong--sui-din",
+    "hai-phong--banh-beo",
+    "hai-phong--nom-sua",
+    "hai-phong--tu-hai",
+    "hai-phong--be-be",
+    "hai-phong--cha-ruoi",
+    "hai-phong--gia-be",
+    "hai-phong--bi-bo",
+    "hai-phong--dua-dam",
+    "hai-phong--che",
+    "hai-phong--ca-phe-cot-dua",
+    "hai-phong--pate",
+    "hai-phong--banh-duc-tau",
+    "hai-phong--chao-long",
+    "hai-phong--nem-chua",
+    "hai-phong--cha-chia-ha-lung",
+    "hai-phong--bun-tom",
+    "hai-phong--com-chay-hai-san",
+    "hai-phong--cua-long",
+    "hai-phong--bun-ca-ro-dong",
+    "hai-phong--banh-cuon",
+    "hai-phong--banh-dau-xanh"
+  ],
   "interestsBody": [
-    "Bánh đa cua is the bowl to order. The other named dishes are on the city pages too.",
+    "Bánh đa cua is the bowl to order. Bún cá cay, bánh mì cay, and the Đồ Sơn plates are the other meals the city portals name.",
     "Đồ Sơn is the city’s sand, a bit more than 20 km out. It is not Hạ Long and not Cát Bà.",
     "Dư Hàng is the pagoda to walk. Hàng Kênh’s boat floor and the Lê Chân temple are the other carved halls on the city pages."
   ],
   "interestGroups": [
     {
       "title": "Dining and F&B",
-      "summary": "Bánh đa cua is the bowl to order. The other named dishes are on the city pages too.",
+      "summary": "Bánh đa cua is the bowl to order. Bún cá cay, bánh mì cay, and the Đồ Sơn plates are the other meals the city portals name.",
       "body": [
-        "The 2023 food map and the 2021 friendship article both send you to bánh đa cua. One says lunch and all day. The other says breakfast and the evening. The crackers are from Dư Hàng Kênh, described as thin, soft, and chewy. A stall price was printed on both articles and is not copied. The price is Check on arrival.",
-        "The 2021 article puts pavement tables on Trần Phú opposite the opera from about 18:00 until past midnight. The 2023 map does not name Trần Phú. It names Lạch Tray and other streets. Whether the 2021 clock still holds is Check on arrival."
+        "Cổng du lịch Hải Phòng on 24 July 2023 and Liên hiệp các tổ chức hữu nghị thành phố Hải Phòng on 8 August 2021 both send you to bánh đa cua. One says lunch and all day. The other says breakfast and the evening. The crackers are from Dư Hàng Kênh, described as thin, soft, and chewy. A bánh đa price is Check on arrival.",
+        "The 2021 account puts pavement tables on Trần Phú opposite the opera from about 18:00 until past midnight. The 2023 map does not name Trần Phú. It names Lạch Tray and other streets. Whether the 2021 clock still holds is Check on arrival. Bánh mì cay carries two printed prices, 2,500 đồng in 2023 and 5,000–7,000 đồng in 2012. Trà cúc is 20,000–25,000 đồng a glass on the 2023 map."
       ],
       "blocks": [
         {
@@ -78,14 +107,14 @@
           "heading": "The crab-noodle bowl",
           "nav": "The bowl",
           "paragraphs": [
-            "Order it in a bowl at a pavement table. The 2021 article says the sign is often a small card tied to a tree. A full bowl on the 2023 map adds bề bề, chả lá lốt, shrimp, and fish cake in a crab broth."
+            "Order it in a bowl at a pavement table. Liên hiệp các tổ chức hữu nghị thành phố Hải Phòng, on 8 August 2021, says the sign is often a small card tied to a tree. A full bowl on the 24 July 2023 map adds bề bề, chả lá lốt, shrimp, and fish cake in a crab broth."
           ]
         }
       ],
       "cards": [
         {
           "title": "Dining and F&B",
-          "summary": "Bánh đa cua is red crackers and crab. Other named bowls are on the city pages too. A price is Check on arrival.",
+          "summary": "Bánh đa cua is red crackers and crab. Bún cá cay, bánh mì cay, and the Đồ Sơn plates are named too. A bánh đa price is Check on arrival.",
           "photo": "banh-da-cua",
           "icon": "food",
           "to": "food",

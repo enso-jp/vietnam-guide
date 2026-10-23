@@ -1,6 +1,8 @@
 # Open questions — Hai Phong
 
-Checked: 22 Oct 2026. These stay Check on arrival. They were looked for in the second research pass and were not on the pages already opened.
+Checked: 23 Oct 2026. These stay Check on arrival. They were looked for again and were not on the pages opened.
+
+Third pass, 23 Oct 2026: thanhphohaiphong.gov.vn returned an error (the giá bể article and the six-dish article). Those pages were not used. A method is still missing for bánh đúc tàu, cháo lòng, nem chua, bì bò, giá bể, cà phê cốt dừa, dừa dầm, a chè flavor, chả chìa Hạ Lũng, cua lông, bún cá rô đồng, bánh cuốn, bánh đậu xanh, cơm cháy hải sản, bún tôm, and pate as its own plate. Hải sản khô Cát Bà, nước mắm Cát Hải, mật ong Cát Bà, and rượu nếp cái hoa vàng are named as products on S29 and are not published as plates. Bánh mì que is named on S27 and is not published as a second sandwich.
 
 - Road minutes, including the expressway and the ride to Đồ Sơn.
 - The airport street, a transfer, an opening day for T2, and an airport code.
