@@ -124,3 +124,33 @@ Pages opened on 22 Oct 2026. A fee with one publisher stays with that publisher.
 - Publisher: IUCN, Can Gio Mangrove Biosphere Reserve Evaluation, 2012
 - Accessed: 22 Oct 2026
 - Supports: The 2012 study says the reserve was the same as the district and covered 71,964 ha, with 67,272 inhabitants in November 2011. That pair stays beside S1, S2, and S3. It is not a 2026 count.
+
+### S21
+- URL: https://thegioitiepthi.danviet.vn/nhung-mon-nghe-ten-ngo-ngo-nhung-thuong-thuc-thom-ngon-tai-can-gio-20240428091640985-d27093.html
+- Publisher: Dân Việt, Thế giới tiếp thị, 28 Apr 2024
+- Accessed: 23 Oct 2026
+- Supports: Gỏi cá thòi lòi trộn lá lìm kìm, without a fish cook; cá dứa một nắng and the salt ratio; canh chua cá khoai; vịt nước mặn Vàm Sát nướng rơm; cá đối nổ muối hột; sam trứng nướng; lẩu ba khía lá buôi; địa sâm, fresh or dried, species not named; rượu mật ong rừng Sác with the salad. No street and no price.
+
+### S22
+- URL: https://www.sggp.org.vn/can-gio-nhieu-dac-san-giau-tiem-nang-post145537.html
+- Publisher: Sài Gòn Giải Phóng, 17 Feb 2014
+- Accessed: 23 Oct 2026
+- Supports: Xoài cát, 300 ha, 13.8 ha VietGAP, 1,500 tons a year; mãng cầu; khô cá dứa, one company and 25 processors, 36 tons a year at the marked company; nghêu beds with no plate; cua, cua cúm, ghẹ; tôm sú, tôm sắt, tôm đất, tôm gạch son in lunar months 3–4; gỏi chua ốc đụn, ốc giác, ốc hương biển hấp sả, ốc mỡ xào me. Muối is a product, not a bowl. Figures are from 2014.
+
+### S23
+- URL: https://tuoitre.vn/kho-ca-tra-doi-lot-ca-dua-can-gio-1187872.htm
+- Publisher: Tuổi Trẻ, 14 Oct 2016
+- Accessed: 23 Oct 2026
+- Supports: Khô cá dứa as a specialty people buy. Three prices that do not match: shop ads 200,000–250,000 VND a kilogram, a maker’s line that 150,000–200,000 is not the real fish, and a district figure of 370,000–470,000. 60 producers, about 150 tons a year. Real dried fish has a little fat under the skin and fries or grills deep yellow. No 2026 price.
+
+### S24
+- URL: https://vnexpress.net/mon-goi-la-doi-vi-theo-thoi-gian-4359896.html
+- Publisher: VnExpress, 22 Sep 2021
+- Accessed: 23 Oct 2026
+- Supports: Gỏi lá lìm kìm with cá bống sao fried crisp, or dried fish, and tôm thẻ as another mix-in. Sauce 1:1. Rainy months April–October. Dawn picking. Canh with tôm and tép and no added salt. Eco parks, no gate. No price.
+
+### S25
+- URL: https://vnexpress.net/cam-nang-du-lich-can-gio-4673430.html
+- Publisher: VnExpress, 10 Nov 2023, updated 28 Feb 2025
+- Accessed: 23 Oct 2026
+- Supports: Hàng Dương sells sò, ốc, cua, ghẹ, tôm, and mực, fresh or already cooked. Cook-to-order cost printed as a few tens of thousands of đồng. Cooks: rang muối, cháy tỏi, xào dừa, xào bơ, xào me, nướng mỡ hành, nướng phô mai, nướng mọi, hấp xả lá chanh. This does not replace the 2019 per-kilogram fees in S14. Ferry and room prices on this page were not copied into the food guide.

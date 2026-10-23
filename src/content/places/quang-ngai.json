@@ -13,7 +13,7 @@
   "fee": "Sights bill separately. Check on arrival.",
   "getThere": "Chu Lai, about 35 km north, or Ga Quảng Ngãi. Road minutes are check on arrival.",
   "bestMonths": "Check on arrival",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "interests": {
     "warHistory": 5,
     "pagodas": 4,
@@ -30,6 +30,7 @@
     "mang-den",
     "gia-lai"
   ],
+  "foodSlug": "quang-ngai",
   "routeSlugs": [],
   "itinerarySlugs": [
     "quang-ngai-day"
@@ -62,10 +63,37 @@
     }
   ],
   "eat": [
-    "The bowl is don, a brackish bivalve from where the Trà Khúc meets the sea, the water locals call nước chè hai. Yellow and black shells are both named. The newspaper’s peak is May and June. A commercial page says morning or evening. Shells are scrubbed, soaked to drop the sand, and boiled until they open so the broth stays sweet. The meat goes back with sliced onion and rice paper. The cook on the newspaper page says fish sauce and xiêm chili are enough, because a small part called mật don is the sweetness. The area is the end of Trường Sa. No stall price is printed.",
-    "Kẹo gương Thu Xà and mạch nha Thi Phổ are the proverb on the ward page, with đường phèn and đường phổi from the cane fields. Cá bống sông Trà is named rimmed salty-sweet. Chợ Quảng Ngãi, for specialties, is at 159 Nguyễn Bá Loan on the airline guide. Market hours are check on arrival."
+    "Don is the bowl where the Trà Khúc meets the sea. Báo Văn hóa peaks it in May and June, at the end of Trường Sa, and builds it with onion and rice paper. Vietnam Airlines cooks it with hành tăm and prints 15,000–30,000 VND for a cooked bowl. Kẹo gương Thu Xà and mạch nha Thi Phổ are the sweets on the Cẩm Thành ward article. Where a price or an hour was not printed, it is Check on arrival."
   ],
-  "dishSlugs": [],
+  "dishSlugs": [
+    "quang-ngai--don",
+    "quang-ngai--ca-bong-kho-tieu",
+    "quang-ngai--ca-bong-rim",
+    "quang-ngai--banh-xeo",
+    "quang-ngai--ram-bap",
+    "quang-ngai--com-ga",
+    "quang-ngai--bun-ca-ngu",
+    "quang-ngai--ram-thit-nuong",
+    "quang-ngai--keo-guong",
+    "quang-ngai--banh-bo",
+    "quang-ngai--banh-no",
+    "quang-ngai--xu-xoa",
+    "quang-ngai--mach-nha",
+    "quang-ngai--duong-phen",
+    "quang-ngai--duong-phoi",
+    "quang-ngai--banh-it-la-gai",
+    "quang-ngai--banh-beo",
+    "quang-ngai--oc-hut",
+    "quang-ngai--cum-num",
+    "quang-ngai--goi-toi",
+    "quang-ngai--ca-nien",
+    "quang-ngai--ca-ta-ma",
+    "quang-ngai--mam-nhum",
+    "quang-ngai--cua-huynh-de",
+    "quang-ngai--toi-ly-son",
+    "quang-ngai--que-tra-bong",
+    "quang-ngai--ruou-can"
+  ],
   "interestsBody": [
     "Sơn Mỹ is the reason many people stop. The memorial is in Tịnh Khê, on the road that also goes to this city’s Mỹ Khê.",
     "The evening, when it is on, is Phố đêm Sông Trà on Tôn Đức Thắng, not a bar list. The swim is Mỹ Khê at Cổ Lũy, 12 km east, not the beach in Đà Nẵng.",

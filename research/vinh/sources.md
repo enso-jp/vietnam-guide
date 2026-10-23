@@ -128,6 +128,42 @@ Checked: 22 Oct 2026. A page that timed out or returned 404 is marked in the lin
 - Accessed: 22 Oct 2026
 - Supports: The April 2025 city-council draft names Vinh I through Vinh V plus Cửa Lò, and which old wards sat in each draft. Those draft names are not the names in S5. Loaded through search.
 
+### S23
+- URL: https://vietnamnet.vn/5-dac-san-dam-da-huong-vi-xu-nghe-2219779.html
+- Publisher: Vietnamnet, 27 November 2023
+- Accessed: 23 Oct 2026
+- Supports: Cháo canh method, giò me in three layers, cháo lươn with the bones cooked into the pot, bánh ngào with no filling. Gift names without a method: bánh gai, tương Nam Đàn, cam xã Đoài, nhút Thanh Chương, cá thu Cửa Lò, mực nháy.
+
+### S24
+- URL: https://nongthon.vietnamtourism.gov.vn/cac-dac-san-nghe-an-ngon-nuc-tieng/
+- Publisher: Trung tâm Thông tin du lịch, Cục Du lịch Quốc gia Việt Nam
+- Accessed: 23 Oct 2026
+- Supports: Cháo lươn, bánh mướt Diễn Châu, bánh đúc hến, mực nháy nướng, nhút Thanh Chương, tương Nam Đàn, giò bê / giò me, nước mắm nhĩ, mắm ruốc Cửa Lò. A publication date was not on the page.
+
+### S25
+- URL: https://baonghean.vn/ra-mat-pho-am-thuc-dem-thanh-co-vinh-10253609.html
+- Publisher: Báo Nghệ An, Quang An, 27 April 2023
+- Accessed: 23 Oct 2026
+- Supports: Đào Tấn from cửa Hữu to cửa Tả, a second line of about 150 m, phường Cửa Nam, 12 fixed and 16 mobile kitchens. Mobile kiosks 18:00–06:00 every day, then the pavement is cleared. Fixed kitchens allowed 24 hours. Phố đêm Cao Thắng is still named as a night-economy project.
+
+### S26
+- URL: https://baonghean.vn/co-gi-o-pho-am-thuc-dem-thanh-co-vinh-10253640.html
+- Publisher: Báo Nghệ An, Q.A, 28 April 2023
+- Accessed: 23 Oct 2026
+- Supports: Fixed kitchens: súp lươn, xáo gà, miến ngan, cháo canh, bánh bèo. Mobile kiosks: ngô, khoai, mực nướng, nem chua, fruit, snacks. Prices posted, no figure.
+
+### S27
+- URL: https://vnexpress.net/7-mon-via-he-dat-khach-o-thanh-pho-vinh-3460875.html
+- Publisher: VnExpress, 4 September 2016
+- Accessed: 23 Oct 2026
+- Supports: Bánh mướt with xáo trứng, xáo lòng, or xáo vịt, 20,000–30,000 đồng, Trần Phú. Súp lươn method with nén, annatto, and chili, Cửa Nam. Cháo canh method, 15,000–20,000 đồng, Cửa Nam and Đinh Công Tráng. Cháo bồ câu, about 70,000 đồng, Phan Chu Trinh. Bánh ngào, about 10,000 đồng, markets. Ngô nướng with tương ớt and butter. Mía hấp gừng. Shop names are not picks. The prices are that day’s, not a current price.
+
+### S28
+- URL: https://tuoitre.vn/nld/thom-ngon-mon-an-xu-nghe-196240213125755043.htm
+- Publisher: Báo Người Lao Động, Đức Ngọc, 13 February 2024
+- Accessed: 23 Oct 2026
+- Supports: Cháo lươn bone broth, citadel-area shops in Vinh. Bánh mướt Diễn Châu. Xáo gà Thanh Chương, also called canh gà, with a method. Tương Nam Đàn ratios: 7 kg mold and 17–18 kg salt per 100-liter jar, beans cooked about 15 hours, about 45 days.
+
 ### S21
 - URL: https://visitnghean.gov.vn/tours/tour-du-lich-cua-lo-2-ngay-1-dem
 - Publisher: Visit Nghe An, a company tour posted on the provincial tourism portal

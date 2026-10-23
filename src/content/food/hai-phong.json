@@ -2,30 +2,258 @@
   "slug": "hai-phong",
   "name": "Hai Phong food guide",
   "placeSlug": "hai-phong",
-  "summary": "Bánh đa cua is red rice crackers from Dư Hàng Kênh and crab. The 2021 article calls it breakfast and the evening meal. The 2023 map says lunch and all day. A price and market hours are Check on arrival.",
+  "summary": "Hai Phong starts with bánh đa cua: thin red crackers from Dư Hàng Kênh and crab in a crab broth. Then a very hot little pate sandwich, a bitter-sweet chrysanthemum glass, and snails after dark.",
   "heroSlug": "banh-da-cua",
-  "body": [],
-  "dishSlugs": ["banh-da-cua"],
+  "body": [
+    "The crackers are thin, soft, and chewy. A full bowl adds mantis shrimp, chả lá lốt, shrimp, and fish cake. The crab is đồng or bể. Chili sauce, fried shallot, herbs, and lime or kumquat finish the bowl. One account calls it the common breakfast and the evening meal. The 2023 food map puts it at lunch and through the day. Eat it at a pavement table. The sign is often a small card tied to a tree.",
+    "Bánh mì cay is the small crisp pate sandwich with chí chương, often carried with trà cúc. Sủi dìn is the winter dumpling, coconut and peanut in a ginger syrup hot enough to burn the tongue. Bánh bèo is the square rice cake on banana leaf. Đồ Sơn adds a crisp jellyfish salad, geoduck grilled with scallion fat, and salt-fried mantis shrimp.",
+    "Chả rươi is the seasonal fried ragworm cake, crisp outside and soft inside, with tangerine peel in the taste. One account takes the worm in Tiên Lãng and Vĩnh Bảo in lunar months 9 and 10. Another places the dish in the former Hải Dương land. Another writes of rươi from Tứ Kỳ. Cua lông and bún cá rô đồng stay with that former Hải Dương list. They are not bún cá cay."
+  ],
+  "specialtiesLead": "Bánh đa cua comes first. Each line is a dish, with the street when one was recorded.",
+  "dishSlugs": [
+    "banh-da-cua",
+    "hai-phong--banh-mi-cay",
+    "hai-phong--nem-cua-be",
+    "hai-phong--oc",
+    "hai-phong--sui-din",
+    "hai-phong--nom-sua",
+    "hai-phong--cha-ruoi",
+    "hai-phong--chao-long",
+    "hai-phong--nem-chua"
+  ],
   "sections": [
     {
-      "id": "bowl",
-      "heading": "Banh da cua",
-      "nav": "The bowl",
+      "id": "bowls",
+      "heading": "More bowls",
+      "nav": "Bowls",
       "paragraphs": [
-        "Red crackers, crab, and a crab broth. Eat it at a pavement table. The 2021 sign is often a small card tied to a tree."
+        "Bún cá cay is the other morning bowl. Bún tôm is the shrimp-noodle bowl people ask for beside bánh đa cua."
       ],
-      "dishSlugs": ["banh-da-cua"]
+      "spots": [
+        {
+          "name": "Bun ca cay",
+          "nameVi": "Bún cá cay",
+          "address": "Lê Lợi and Lê Lai",
+          "dishSlug": "hai-phong--bun-ca-cay",
+          "note": "Bún cá cay is a morning bowl of rice noodles and fish in a light broth with a chili note. A full bowl has close to ten toppings from the fish, including offal and fish maw, plus banana blossom and dọc mùng."
+        },
+        {
+          "name": "Bun tom",
+          "nameVi": "Bún tôm",
+          "address": "Hai Phong",
+          "dishSlug": "hai-phong--bun-tom",
+          "note": "Bún tôm is a shrimp-noodle bowl visitors ask for beside bánh đa cua."
+        }
+      ]
     },
     {
-      "id": "named",
-      "heading": "Other dishes",
-      "nav": "Other dishes",
+      "id": "sandwich",
+      "heading": "The drinks and the sweets",
+      "nav": "Drinks",
       "paragraphs": [
-        "Bún cá cay, bánh mì cay, trà cúc, nem cua bể, bánh đúc tàu, giá bể, bánh bèo, dừa dầm, chè, ốc, nộm sứa, tu hài, bề bề, cà phê cốt dừa, and sủi dìn are named on the city pages. Chả rươi, cua lông, and bún cá rô đồng are named as dishes of the former Hải Dương land now inside the city. They are not the port breakfast, and they are not the same bowl as bún cá cay. A price is Check on arrival. Market hours are Check on arrival."
+        "Trà cúc is the glass that goes with the small sandwich. Cà phê cốt dừa is the coconut coffee. Dừa dầm and chè are the sweets at Cát Bi."
+      ],
+      "spots": [
+        {
+          "name": "Tra cuc",
+          "nameVi": "Trà cúc",
+          "address": "Phan Bội Châu",
+          "dishSlug": "hai-phong--tra-cuc",
+          "note": "Trà cúc is a glass of chrysanthemum, liquorice, and kumquat. The taste is bitter, sweet, and astringent at once."
+        },
+        {
+          "name": "Ca phe cot dua",
+          "nameVi": "Cà phê cốt dừa",
+          "address": "Hai Phong",
+          "dishSlug": "hai-phong--ca-phe-cot-dua",
+          "note": "Cà phê cốt dừa is Hải Phòng’s coconut coffee, listed with trà cúc among the city’s drinks."
+        },
+        {
+          "name": "Dua dam",
+          "nameVi": "Dừa dầm",
+          "address": "Chợ Cát Bi",
+          "dishSlug": "hai-phong--dua-dam",
+          "note": "Dừa dầm is a coconut sweet at Cát Bi market. Chè dừa dầm is listed separately among the port dishes."
+        },
+        {
+          "name": "Che",
+          "nameVi": "Chè",
+          "address": "Chợ Cát Bi",
+          "dishSlug": "hai-phong--che",
+          "note": "Chè at Cát Bi is the market’s sweet soups, set out with the other sweets."
+        },
+        {
+          "name": "Pate",
+          "nameVi": "Pate",
+          "address": "Hai Phong",
+          "dishSlug": "hai-phong--pate",
+          "note": "Pate is a Hải Phòng mark of its own, and it is also the fragrant filling inside bánh mì cay."
+        }
+      ]
+    },
+    {
+      "id": "snacks",
+      "heading": "Market snacks",
+      "nav": "Snacks",
+      "paragraphs": [
+        "Bánh bèo is the square rice cake. Giá bể and bì bò share the afternoon markets with it."
+      ],
+      "spots": [
+        {
+          "name": "Banh beo",
+          "nameVi": "Bánh bèo",
+          "address": "Lê Đại Hành, and the afternoon markets",
+          "dishSlug": "hai-phong--banh-beo",
+          "note": "Bánh bèo here is a square rice-flour cake with pork, wood ear, and fried shallot, on banana leaf. The dip is fish sauce with chili powder and pepper."
+        },
+        {
+          "name": "Gia be",
+          "nameVi": "Giá bể",
+          "address": "Chợ Cát Bi and the afternoon markets",
+          "dishSlug": "hai-phong--gia-be",
+          "note": "Giá bể, also written giá bể xào, is a Hải Phòng snack at Cát Bi market and the afternoon markets."
+        },
+        {
+          "name": "Bi bo",
+          "nameVi": "Bì bò",
+          "address": "Cát Bi, Cố Đạo, Chu Văn An, and An Dương",
+          "dishSlug": "hai-phong--bi-bo",
+          "note": "Bì bò is an afternoon plate at Cát Bi, Cố Đạo, Chu Văn An, and An Dương, beside giá bể and bánh bèo."
+        },
+        {
+          "name": "Banh duc tau",
+          "nameVi": "Bánh đúc tàu",
+          "address": "Hai Phong",
+          "dishSlug": "hai-phong--banh-duc-tau",
+          "note": "Bánh đúc tàu is a cake on Hải Phòng’s specialty list."
+        },
+        {
+          "name": "Cha chia Ha Lung",
+          "nameVi": "Chả chìa Hạ Lũng",
+          "address": "Hai Phong",
+          "dishSlug": "hai-phong--cha-chia-ha-lung",
+          "note": "Chả chìa Hạ Lũng is a Hải Phòng dish listed with bánh đa cua among the country’s notable dishes."
+        },
+        {
+          "name": "Com chay hai san",
+          "nameVi": "Cơm cháy hải sản",
+          "address": "Hai Phong",
+          "dishSlug": "hai-phong--com-chay-hai-san",
+          "note": "Cơm cháy hải sản is crispy rice with seafood, listed among Hải Phòng’s traditional products."
+        }
+      ]
+    },
+    {
+      "id": "seafood",
+      "heading": "Đồ Sơn plates",
+      "nav": "Đồ Sơn",
+      "paragraphs": [
+        "Nộm sứa is the crisp jellyfish salad. These two plates are grilled geoduck with scallion fat, and salt-fried mantis shrimp."
+      ],
+      "spots": [
+        {
+          "name": "Tu hai",
+          "nameVi": "Tu hài nướng mỡ hành",
+          "address": "Đồ Sơn",
+          "dishSlug": "hai-phong--tu-hai",
+          "note": "Tu hài nướng mỡ hành is geoduck grilled with scallion fat at Đồ Sơn."
+        },
+        {
+          "name": "Be be rang muoi",
+          "nameVi": "Bề bề rang muối",
+          "address": "Đồ Sơn",
+          "dishSlug": "hai-phong--be-be",
+          "note": "Bề bề rang muối is salt-fried mantis shrimp at Đồ Sơn. The same animal also sits in a full bánh đa cua bowl."
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "role": "regional",
+      "heading": "Regional dishes",
+      "nav": "Regional",
+      "paragraphs": [
+        "Cua lông and bún cá rô đồng are the former Hải Dương dishes now inside the city. Bánh cuốn and bánh đậu xanh are the Tây Hải Phòng pair, honored with chả rươi. Chả rươi is already with the port plates, because other accounts place the worm in Tiên Lãng, Vĩnh Bảo, and Tứ Kỳ."
+      ],
+      "dishSlugs": [
+        "hai-phong--bun-ca-ro-dong",
+        "hai-phong--banh-cuon",
+        "hai-phong--banh-dau-xanh"
+      ],
+      "spots": [
+        {
+          "name": "Cua long",
+          "nameVi": "Cua lông",
+          "address": "Former Hải Dương side",
+          "dishSlug": "hai-phong--cua-long",
+          "note": "Cua lông is a hairy crab from the former Hải Dương land now inside the city. It is not the crab in bánh đa cua."
+        }
+      ]
+    },
+    {
+      "id": "casual",
+      "role": "casual",
+      "heading": "Casual dining",
+      "nav": "Streets",
+      "paragraphs": [
+        "These are the markets and streets the accounts name. A shop name is not a stop."
+      ],
+      "spots": [
+        {
+          "name": "Cat Bi market",
+          "nameVi": "Chợ Cát Bi",
+          "address": "phường Thành Tô, quận Hải An",
+          "note": "The middle of the market is the snack stop for bánh đa cua, giá bể, chè, dừa dầm, and bánh mì cay. Hours: Check on arrival."
+        },
+        {
+          "name": "Afternoon markets",
+          "nameVi": "Chợ Cố Đạo, chợ Chu Văn An, chợ An Dương",
+          "address": "Cát Bi, Cố Đạo, Chu Văn An, and An Dương",
+          "note": "The afternoon round with Cát Bi for giá bể, bì bò, and bánh bèo. Hours: Check on arrival."
+        },
+        {
+          "name": "Lach Tray",
+          "nameVi": "Lạch Tray",
+          "address": "Lạch Tray",
+          "note": "A bánh đa cua address and an ốc address sit on this street. Hours: Check on arrival."
+        },
+        {
+          "name": "Tran Phu",
+          "nameVi": "Trần Phú",
+          "address": "Opposite the opera",
+          "note": "Pavement tables opposite the opera run from about 18:00 until past midnight on the 8 August 2021 account. The 2023 food map places bánh đa cua on Lạch Tray and at Cát Bi. Whether the Trần Phú clock still holds is Check on arrival."
+        },
+        {
+          "name": "Phan Boi Chau",
+          "nameVi": "Phan Bội Châu",
+          "address": "Phan Bội Châu",
+          "note": "The trà cúc street. Bánh mì cay is also on Lê Lợi and Minh Khai. Hours: Check on arrival."
+        },
+        {
+          "name": "Le Dai Hanh",
+          "nameVi": "Lê Đại Hành",
+          "address": "The start of Lê Đại Hành",
+          "note": "The 23 December 2012 account calls the start of this street the bánh bèo stretch. Hours: Check on arrival."
+        },
+        {
+          "name": "Do Son street food",
+          "nameVi": "Ẩm thực đường phố Đồ Sơn",
+          "address": "phường Đồ Sơn",
+          "note": "The 16 October 2025 training names bánh đa cua, nộm sứa, tu hài, and bề bề for the ward. Hours: Check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "role": "breakfast",
+      "heading": "Breakfast",
+      "nav": "Breakfast",
+      "paragraphs": [
+        "Morning is bún cá cay, then bánh mì cay with trà cúc. Bánh đa cua is also the common breakfast, and the evening meal. In winter the small sandwich also turns up at the end of the working day."
       ]
     }
   ],
-  "verified": "22 Oct 2026",
-  "seoTitle": "Hai Phong food guide — bánh đa cua",
-  "seoDescription": "Bánh đa cua is red crackers from Dư Hàng Kênh and crab. One article says breakfast and evening. The 2023 map says all day. A price is Check on arrival."
+  "verified": "23 Oct 2026",
+  "seoTitle": "Hai Phong food guide — bánh đa cua and the port snacks",
+  "seoDescription": "Bánh đa cua, a hot little pate sandwich, chrysanthemum tea, and snails after dark. Đồ Sơn adds jellyfish salad and salt-fried mantis shrimp."
 }

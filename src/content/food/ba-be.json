@@ -2,11 +2,272 @@
   "slug": "ba-be",
   "name": "Ba Be food guide",
   "placeSlug": "ba-be",
-  "summary": "Five-colour sticky rice is the plate with a photograph. The houses also cook grilled lake fish, sour shrimp, forest bamboo shoot, upland sticky rice, roast suckling pig, bamboo-tube rice, pork hung over the fire, and kitchen-hung sausage. The photograph is the dish in Sơn La. Stall prices are check on arrival. The plants that dye the rice are check on arrival.",
+  "summary": "You eat on the stilt-house floor at Pac Ngoi, or at Bo Lu when Long Tong is on. Grilled lake fish, sour shrimp, and five-colour sticky rice are the plates, with a small cup of leaf-yeast wine when then singing starts.",
   "heroSlug": "xoi-ngu-sac",
-  "body": [],
-  "dishSlugs": ["xoi-ngu-sac"],
-  "verified": "22 Oct 2026",
-  "seoTitle": "Ba Be food guide — five-colour sticky rice",
-  "seoDescription": "Five-colour sticky rice is the plate. The houses also cook grilled fish and sour shrimp. The photograph is the dish in Son La. Prices are check on arrival."
+  "body": [
+    "The hamlet has few shops, so book the meal with the house and carry water. With the fish come măng vầu, upland sticky rice, and roast suckling pig when the house has it.",
+    "The fish is cá mương, a little bigger than a finger, clamped in bamboo and grilled until golden, with shrimp beside it. The flesh is fragrant, soft, fatty, and chewy, and also described as white and firm. It is not fishy, and the sweetness is the lake’s. Eat it hot. Pork hung in the kitchen smoke takes salt, wine, and ginger. The Thái Nguyên portal calls that pork golden. VnExpress, on 2 December 2014, calls it yellow-black and says it keeps a year.",
+    "Five-colour sticky rice is on the Long Tong trays at Bo Lu with glutinous wine, and at the Pac Ngoi houses. Upland sticky rice, steamed in a wooden pot, is a different bowl on the same table.",
+    "The counters in Chợ Rã and Nam Mẫu sell the gifts: fragrant green squash and its tea, dried buffalo, dong vermicelli, jiaogulan tea, dried banana, kitchen-hung sausage, Nà Hai spring wine, and Nếp Tài rice. Khẩu mẩy vùng cao is on that list too."
+  ],
+  "specialtiesLead": "Grilled lake fish, sour shrimp, and five-colour sticky rice lead the table. The cakes, the wines, and the gifts follow.",
+  "dishSlugs": [
+    "xoi-ngu-sac",
+    "ba-be--ca-nuong",
+    "ba-be--tom-nuong",
+    "ba-be--tom-chua",
+    "ba-be--tep-chua",
+    "ba-be--mang-vau",
+    "ba-be--mang-rung",
+    "ba-be--xoi-nep-nuong",
+    "ba-be--lon-sua-quay",
+    "ba-be--com-lam",
+    "ba-be--thit-lon-gac-bep",
+    "ba-be--lap-suon",
+    "ba-be--khau-nhuc",
+    "ba-be--ca-ran",
+    "ba-be--ga-doi",
+    "ba-be--ga-luoc",
+    "ba-be--banh-day-la-ngai",
+    "ba-be--banh-day-gac",
+    "ba-be--banh-gai",
+    "ba-be--banh-troi",
+    "ba-be--rau-don",
+    "ba-be--rau-ngot-rung",
+    "ba-be--chan-gio",
+    "ba-be--thit-trau-xao",
+    "ba-be--ruou-men-la",
+    "ba-be--ruou-nep",
+    "ba-be--ruou-ngo",
+    "ba-be--ruou-na-hai",
+    "ba-be--mien-dong",
+    "ba-be--bi-xanh-thom",
+    "ba-be--tra-bi-xanh",
+    "ba-be--thit-trau-kho",
+    "ba-be--tra-giao-co-lam",
+    "ba-be--chuoi-say",
+    "ba-be--chuoi-hot",
+    "ba-be--nep-tai"
+  ],
+  "sections": [
+    {
+      "id": "table",
+      "heading": "The stilt-house table",
+      "nav": "The table",
+      "paragraphs": [
+        "The rest of the house table: the sour jars, the bamboo shoots, khau nhuc, hill chicken, the fern, the trotter, and smoked buffalo with sour bamboo. Khẩu mẩy vùng cao is a name on the gift list beside them."
+      ],
+      "spots": [
+        {
+          "name": "Grilled lake fish",
+          "nameVi": "Cá nướng",
+          "address": "Pác Ngòi",
+          "dishSlug": "ba-be--ca-nuong",
+          "note": "Small cá mương, a little bigger than a finger, is clamped in bamboo and grilled over charcoal until golden. It is not fishy, the sweetness is the lake’s, and the flesh is fragrant, soft, fatty, and chewy, and also white and firm."
+        },
+        {
+          "name": "Sour shrimp",
+          "nameVi": "Tôm chua",
+          "address": "Bó Lù and Pác Ngòi",
+          "dishSlug": "ba-be--tom-chua",
+          "note": "Lake shrimp kept in a jar, mildly sour and fragrant, with sweet meat, garlic, chili, and galangal. It is eaten with boiled trotter or belly, sour starfruit, green banana, and đinh lăng."
+        },
+        {
+          "name": "Soured lake shrimp",
+          "nameVi": "Tép chua",
+          "address": "The boat landing, and Pác Ngòi",
+          "dishSlug": "ba-be--tep-chua",
+          "note": "Fresh tép salted and soured with steamed nương rice and leaf yeast. It is mildly sour, with pork fat, garlic heat, and the smell of galangal."
+        },
+        {
+          "name": "Mang vau",
+          "nameVi": "Măng vầu",
+          "address": "Pác Ngòi",
+          "dishSlug": "ba-be--mang-vau",
+          "note": "The bamboo shoot on the Pac Ngoi table with the grilled fish and the upland sticky rice."
+        },
+        {
+          "name": "Forest bamboo",
+          "nameVi": "Măng rừng",
+          "address": "The house table",
+          "dishSlug": "ba-be--mang-rung",
+          "note": "Forest bamboo, kept apart from măng vầu, stir-fried, boiled, made into soup, or dried, and also served as a boiled shoot."
+        },
+        {
+          "name": "Khau nhuc",
+          "nameVi": "Khâu nhục",
+          "address": "The house, for a festival, Tết, or a wedding",
+          "dishSlug": "ba-be--khau-nhuc",
+          "note": "Belly pork and taro, fried, layered, and steamed until the layers are soft and mixed, for a festival, Tết, or a wedding."
+        },
+        {
+          "name": "Hill chicken",
+          "nameVi": "Gà đồi",
+          "address": "Pác Ngòi",
+          "dishSlug": "ba-be--ga-doi",
+          "note": "Hill chicken named for a stay at Pac Ngoi, with the forest greens and the other house plates."
+        },
+        {
+          "name": "Fiddlehead fern",
+          "nameVi": "Rau dớn",
+          "address": "The house table",
+          "dishSlug": "ba-be--rau-don",
+          "note": "A forest green from wet ground near the rocks, cooked the day it is picked: stir-fried, boiled, or as nộm."
+        },
+        {
+          "name": "Trotter",
+          "nameVi": "Chân giò",
+          "address": "Pác Ngòi and Bó Lù",
+          "dishSlug": "ba-be--chan-gio",
+          "note": "Boiled trotter or boiled belly beside the sour shrimp, and braised trotter, chân giò hầm, as its own plate."
+        },
+        {
+          "name": "Buffalo with sour bamboo",
+          "nameVi": "Thịt trâu gác bếp xào măng chua",
+          "address": "The lake",
+          "dishSlug": "ba-be--thit-trau-xao",
+          "note": "Smoked buffalo stir-fried with sour bamboo, a Tay dish of the lake. It is not the dried-buffalo gift, and not the pork over the fire."
+        }
+      ]
+    },
+    {
+      "id": "cakes",
+      "heading": "Cakes",
+      "nav": "Cakes",
+      "paragraphs": [
+        "The mugwort cake, bánh dày gấc, and the round Tay cake, pẻng phạ. Bánh gai is the dark leaf cake named at the same Pac Ngoi market."
+      ],
+      "spots": [
+        {
+          "name": "Mugwort rice cake",
+          "nameVi": "Bánh dày lá ngải",
+          "address": "The house",
+          "dishSlug": "ba-be--banh-day-la-ngai",
+          "note": "Upland sticky rice pounded with mugwort, soft, and filled with sesame or beans. The mugwort gives a mountain smell, and the cake is not cloying."
+        },
+        {
+          "name": "Gac rice cake",
+          "nameVi": "Bánh dày gấc",
+          "address": "Pác Ngòi",
+          "dishSlug": "ba-be--banh-day-gac",
+          "note": "Bánh dày gấc, named with the other cakes at the Pac Ngoi market."
+        },
+        {
+          "name": "Tay rice cake",
+          "nameVi": "Bánh trời (pẻng phạ)",
+          "address": "The lake, as a gift",
+          "dishSlug": "ba-be--banh-troi",
+          "note": "A round Tay cake, bánh trời or pẻng phạ, with a crisp shell under a dusting of white powder and a moderately sweet inside."
+        }
+      ]
+    },
+    {
+      "id": "drinks",
+      "heading": "Wine",
+      "nav": "Wine",
+      "paragraphs": [
+        "Four names, kept apart: the leaf-yeast cup with then singing, corn wine with the sour shrimp, glutinous wine on the Long Tong trays, and Nà Hai spring wine at the counters."
+      ],
+      "spots": [
+        {
+          "name": "Leaf-yeast wine",
+          "nameVi": "Rượu men lá",
+          "address": "Pác Ngòi",
+          "dishSlug": "ba-be--ruou-men-la",
+          "note": "The small cup of leaf-yeast wine with then singing on the stilt-house floor."
+        },
+        {
+          "name": "Corn wine",
+          "nameVi": "Rượu ngô",
+          "address": "Bó Lù and Pác Ngòi",
+          "dishSlug": "ba-be--ruou-ngo",
+          "note": "A small hot cup of corn wine beside the sour shrimp."
+        },
+        {
+          "name": "Na Hai spring wine",
+          "nameVi": "Rượu suối nguồn Nà Hai",
+          "address": "Chợ Rã and Nam Mẫu",
+          "dishSlug": "ba-be--ruou-na-hai",
+          "note": "Nà Hai spring wine, the gift at the counters in Chợ Rã and Nam Mẫu."
+        }
+      ]
+    },
+    {
+      "id": "gifts",
+      "heading": "Gifts at the counters",
+      "nav": "Gifts",
+      "paragraphs": [
+        "Seeded banana is sold on the path up to Ao Tiên and from the gate down to the lake. The counters hold the tea, the dried buffalo, and Nếp Tài rice. Khẩu mẩy vùng cao is on the gift list too."
+      ],
+      "spots": [
+        {
+          "name": "Green-squash tea",
+          "nameVi": "Trà bí xanh",
+          "address": "Chợ Rã and Nam Mẫu",
+          "dishSlug": "ba-be--tra-bi-xanh",
+          "note": "Tea made from the fragrant green squash."
+        },
+        {
+          "name": "Dried buffalo",
+          "nameVi": "Thịt trâu khô",
+          "address": "Chợ Rã and Nam Mẫu",
+          "dishSlug": "ba-be--thit-trau-kho",
+          "note": "Dried buffalo sold as a gift at the counters. It is not the smoked-buffalo stir-fry, and not the pork over the fire."
+        },
+        {
+          "name": "Jiaogulan tea",
+          "nameVi": "Trà giảo cổ lam",
+          "address": "Chợ Rã and Nam Mẫu",
+          "dishSlug": "ba-be--tra-giao-co-lam",
+          "note": "Jiaogulan tea sold as a gift at the counters in Chợ Rã and Nam Mẫu."
+        },
+        {
+          "name": "Seeded banana",
+          "nameVi": "Chuối hột",
+          "address": "The path to Ao Tiên, and from the gate down to the lake",
+          "dishSlug": "ba-be--chuoi-hot",
+          "note": "Seeded banana from the hills, sold on the path up to Ao Tiên and from the gate down to the lake, as a gift and a remedy."
+        },
+        {
+          "name": "Nep Tai rice",
+          "nameVi": "Gạo Nếp Tài",
+          "address": "Chợ Rã and Nam Mẫu",
+          "dishSlug": "ba-be--nep-tai",
+          "note": "Nếp Tài, an upland rice sold at the counters in Chợ Rã and Nam Mẫu."
+        }
+      ]
+    },
+    {
+      "id": "casual",
+      "role": "casual",
+      "heading": "Casual dining",
+      "nav": "Where",
+      "paragraphs": [
+        "There is no cafe street. You eat in the house, you buy the gifts at the two counters, and a weekend market once opened at Pac Ngoi."
+      ],
+      "spots": [
+        {
+          "name": "Pac Ngoi kitchens",
+          "nameVi": "Bữa ăn nhà sàn Pác Ngòi",
+          "address": "Pác Ngòi, on the Lèng",
+          "note": "The stilt-house meal: grilled fish, sour shrimp, măng vầu, upland sticky rice, and roast suckling pig, with leaf-yeast wine. Book it with the house. The hamlet has few shops, so carry water."
+        },
+        {
+          "name": "OCOP counters",
+          "nameVi": "Điểm giới thiệu OCOP",
+          "address": "Thị trấn Chợ Rã, and xã Nam Mẫu",
+          "note": "Two counters, one in Chợ Rã and one in Nam Mẫu, for the local gifts and specialties."
+        },
+        {
+          "name": "Pac Ngoi night market",
+          "nameVi": "Chợ đêm Pác Ngòi",
+          "address": "Pác Ngòi",
+          "note": "In September 2019 a weekend night market at Pac Ngoi, over the 2 September holiday, sold bamboo-tube rice, grilled fish, five-colour sticky rice, bánh gai, and bánh dày gấc."
+        }
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Ba Be food guide — the Tay table on the lake",
+  "seoDescription": "Grilled lake fish, sour shrimp, and five-colour sticky rice on the stilt-house floor at Pac Ngoi, and gifts at the counters in Chợ Rã."
 }

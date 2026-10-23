@@ -237,3 +237,18 @@ Restaurant and bar names that located a street. Each line has a source and the w
 
 ### Ngô Thời Nhiệm
 - The 2019 piece’s hủ tiếu shop. Do not publish as a pick. (S25)
+
+## Added 23 Oct 2026
+
+S39 is Cổng thông tin điện tử tỉnh Bình Định, specialty index, opened from the 12 Dec 2024 archive because the live host did not complete TLS. Child pages are listed in `sources.md`. No price and no clock were on those pages. S25’s 2019 đồng figures stay uncopied.
+
+The night piece’s exact snack line is nem nướng, bánh tráng trứng, bánh canh, bánh xèo, kem ly, kem trộn, sinh tố, and cá mực khô nướng (S24). Kem ly, kem trộn, and sinh tố have no recipe. They are named and are not separate specialty rows. Hải sản stays a street, not a dish.
+
+S25’s hủ tiếu mì hoành thánh is a center breakfast on Ngô Thời Nhiệm. The shop’s three dishes are phở, hủ tiếu, and hoành thánh. The shop is not a pick. The published bowl is the named combination.
+
+Conflicts, both kept:
+
+- Dill in chả cá: S25 says the central cake has no dill. S39’s chả cá page adds scallion and dill.
+- Shrimp in bánh xèo: S25 says freshwater shrimp. S39’s Mỹ Cang page says brackish tôm đất from the Thị Nại lagoon, and also allows sea shrimp.
+
+New specialty rows from S39, with the address field as printed: bánh hỏi lòng heo, bánh ít lá gai, cháo bò, gỏi bò (named, not described), bún riêu cua, gỏi cá chích, cháo cầu gai, chả cá, rượu Bàu Đá, nem chợ huyện, bún Song Thằn, bánh tráng nước dừa, chim mía, bún tôm Châu Trúc, mắm nhum, cua huỳnh đế, gié bò, bánh ướt Hoài Nhơn. Bánh xèo Mỹ Cang is the same pancake as bánh xèo tôm nhảy, not a second dish. Tháp Bánh Ít is still not the cake (S32).

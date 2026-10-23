@@ -268,3 +268,90 @@ Under lodging, which is not food and not a pick:
 - The River Mouth Phu Quoc homestay and Sen Lodge, named on the nature page as nature lodging (S4). A hotel brand is not a pick. do not publish as a pick.
 
 No fine-dining door, no themed restaurant, and no second breakfast dish were opened. Do not pad the list.
+
+## Added 23 Oct 2026
+
+Opened after the first store. Vietnamtourism.vn articles 25403, 20041, and 27862 timed out and were not opened. Names that appeared only in search snippets of those articles were not recorded.
+
+### Slipper lobster
+- Vietnamese name: Tôm mũ ni (S31)
+- What it is: Clawless slipper lobster. The meat is in the tail. Boiled until tender. White meat, a texture between shrimp and lobster, sweeter than other lobster (S31).
+- How to eat it: Dipped in lime, salt, and Phú Quốc pepper (S31).
+- When to order it: Check on arrival — UNSOURCED.
+- Area, not a shop: Upmarket restaurants and the night market. No door was named (S31).
+- Meal: main
+- Sources: S31
+
+### Sea snails
+- Vietnamese name: Ốc (S31)
+- What it is: Sea snails. No species was printed (S31).
+- How to eat it: The account says to watch the next table and try more than one kind. No cooking method was printed (S31).
+- When to order it: Check on arrival — UNSOURCED.
+- Area, not a shop: No stall was named. Check on arrival — UNSOURCED.
+- Meal: main
+- Price word, not a number: plentiful and inexpensive (S31). No đồng figure. A price on the public record stays Check on arrival.
+- Sources: S31
+
+### Cashew nuts
+- Vietnamese name: not printed (S32)
+- What it is: Cashew nuts, listed with fish sauce, black pepper, myrtle wine, dried seaweed, and squid as something to buy (S32).
+- How to eat it: Buy them. A preparation was not printed.
+- When to order it: At the Dinh Cau night market, 5 pm until midnight (S32).
+- Area, not a shop: Streets near the Dinh Cậu rock temple (S32).
+- Meal: snack
+- Sources: S32
+
+### Dried seaweed
+- Vietnamese name: not printed (S32)
+- What it is: Dried seaweed, on the same buy-list as the cashews (S32).
+- How to eat it: Buy it. No cooking method was printed.
+- When to order it: Dinh Cau night market, 5 pm until midnight (S32).
+- Area, not a shop: Streets near Dinh Cậu (S32).
+- Meal: snack
+- Sources: S32
+
+### Squid
+- Vietnamese name: not printed (S32, S34)
+- What it is: The underwater account calls squid one of the most popular seafood dishes (S34). The night account lists squid as something to buy (S32). A cooking method was not printed.
+- How to eat it: Eat the catch back on shore after a night trip (S34). Or buy it at the market (S32). A sunset dining cruise is named with no menu (S34).
+- When to order it: After the night catch, or at the market from 5 pm (S32, S34). Calm, dark nights are the fishing note, not a restaurant hour (S34).
+- Area, not a shop: The boat, then shore. And the Dinh Cau night market.
+- Meal: main
+- Sources: S32, S34
+
+### Market clocks and streets, both kept
+- Dinh Cau Night Market: streets near the rock temple closed to traffic from 5 pm until midnight. 100-odd stalls. More than half sell food (S32).
+- Phu Quoc Night Market: Bạch Đằng, heart of Duong Dong, pedestrian in the evening, 50-plus stalls, seafood and local delicacies. No clock (S33).
+- Day account: more than a hundred vendors (S3). No clock.
+- Nature account: Dương Đông seafood market. No street and no clock (S4).
+- The three names were still not proved to be one gate.
+
+### Pepper tonnage
+- The 3-day account says particularly pungent and spicy pepper, and over 1,000 tons a year (S33). No second tonnage was opened. The aroma lines already on the nature and whisper accounts stay.
+
+### Rach Vem, both kept
+- Island-hopping account: floating restaurants on Rach Vem Beach, the village next to Starfish Beach (S2).
+- 3-day account: starfish beach in Rach Vem fishing village, about 20 km north of Duong Dong, catch cooked on the spot, stilt raft houses (S33). Do not collapse them.
+
+### Bai Sao entrance
+- The 3-day account says entrance and parking are free, about 25 km from the centre, and a shore stretching over 7 km (S33). The bureau account says about 25 minutes and cát vàng óng (S11). The minutes and the kilometres are different units. Both stay. A đồng ticket was not printed on the other beach accounts.
+
+### Sea urchin method
+- S31 prints the grill: spikes off, halved and drained, oil, roasted peanuts, spring onion, then a spoon and lime and pepper sauce. Best at Dinh Cau night market. Creamy. Zest, spice, fresh aroma. “Various styles” is that account’s phrase. The oyster pairing on S4 stays a separate description.
+
+### Herring salad
+- S31 prints mint, onion, shredded coconut, crisp vegetables, rice paper, fish sauce, garlic, chili, and roasted peanuts. Any time of day. The nature account still does not mention coconut (S4). Both stay.
+
+### Trachurus
+- S31 adds charcoal, salt and chili, rice paper, herbs and vegetables, meatier and less fishy, aromatic and sweet. The nature account’s lunch-or-dinner line stays (S4).
+
+### Crab
+- S31 says rosy speckled, smaller crabs more flavour, boiled, lime and pepper sauce, 20 km from Duong Dong town. S15 still says 20 km northeast, red, firm, muối tiêu chanh. Both stay.
+
+### Fine dining and kitchens from outside Vietnam
+- Night account: fine-dining meals, hotels serving gourmet food beside the sea, a beach barbecue on the sand. No door (S32).
+- Whisper account: Japanese-French fusion and grilled beef, no door (S6).
+- Island-hopping account: Western food along Bãi Sao and Long Beach, no door (S2).
+- Hotel bars and beach bars named on S32 and S33 stay in the notes. They are not picks.
+
+Named rooms and hotel brands on the newly opened accounts stay off the public list. The 2022 discount codes on S33 were not copied.

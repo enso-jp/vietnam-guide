@@ -21,16 +21,20 @@ Public sights are the six with two licensed photographs of that sight: Nhật L�
 
 ## Food without a photograph of that food
 
-- Cháo canh. Print both the 15 Mar 2023 bowl and the portal card if a page is ever accepted. Do not collapse them. Do not reuse `banh-canh`.
-- Bánh khoái. Not the Hue crepe.
-- Bánh bột lọc. Cassava. Leaf, plain, and fried disagree between pages.
-- Bánh bèo. Named, not described.
-- Bánh xèo. The 2015 red-rice roll. Ba Đồn at the fair is not automatically the same cake.
-- Kẹo cu đơ. Named. Recipe unknown.
-- Cháo hàu. Named and not defined.
-- Cháo cá nghéo. Đá Nhảy, not the Đồng Hới market.
-- Sò huyết sông Roòn. A neighbor, already off the page.
+Checked again 23 Oct 2026. Khoai deo is still the only dish photograph. The other specialties use the monogram.
+
+- Cháo canh. Print the 15 Mar 2023 bowl, the portal card, and the 31 Oct 2024 turmeric broth. Do not collapse them. Do not reuse `banh-canh` as this bowl.
+- Bánh khoái. Not the Hue crepe. Portal clock 07:00–18:00 was not used.
+- Bánh bột lọc. Cassava. Leaf, plain, and fried still disagree.
+- Bánh bèo. Two descriptions now: browned shrimp with fish sauce (28 Apr 2023) and stir-fried sea shrimp with tương ớt (29 May 2024). Dì Tiếp is 27 Lê Thành Đồng on the ward list and 29 on the 28 Apr 2023 article. Do not pick one.
+- Bánh xèo. Red-rice roll. S6 says bánh đa. S18 says bánh đá. Ba Đồn at the fair still has no method.
+- Kẹo cu đơ. Still no recipe on 23 Oct 2026.
+- Cháo hàu. Method is now the 6 May 2016 VOV reprint. Quán Hàu, about 7 km south.
+- Cháo sắn cá lóc. Named. Method still unknown.
+- Cháo cá nghéo. Đá Nhảy, one 2015 feature.
+- Sò huyết sông Roòn. On the city food guide as a regional plate, not a market bowl.
 - Streets Lê Thành Đồng, Cô Tám, and Đồng Hải. No street photographs. Shop names stay under Notes in food.md.
+- Still no method, and not given a city plate: bánh đúc, ốc khe, trứng vịt lộn Lệ Thủy, cá trắm sông Son, sò huyết Ba Đồn, mực một nắng, tôm khô, mực khô, nước mắm, ruốc, bánh xèo Ba Đồn. Minh Hóa cơm bồi and ốc đực, and the Phong Nha eel and muối cheo, stay off the Đồng Hới list.
 
 ## Events and side trips
 

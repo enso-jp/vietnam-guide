@@ -2,42 +2,260 @@
   "slug": "con-dao",
   "name": "Con Dao food guide",
   "placeSlug": "con-dao",
-  "summary": "Hạt bàng, candied or roasted kernels packed at the daily market, is the pack to take home. Evening is the night market on Võ Thị Sáu and Phạm Văn Đồng, where seafood is cooked to order. No stall price was printed.",
+  "summary": "Côn Đảo eats from small day-boats and the bàng tree. Take home a bag of hạt bàng from the daily market, and spend the evening at the night market on Võ Thị Sáu and Phạm Văn Đồng, where you pick the seafood and the stall steams or grills it.",
   "heroSlug": "hat-bang",
   "body": [
-    "Buy hạt bàng when you leave. The 11 July 2025 report shows traders packing the kernels at the daily market. The fruit is roasted with salt or candied. Peak-season supply is bought in, so the bag is not always island fruit.",
-    "The same report names cua mặt trăng, cá mú đỏ, gỏi cá mập, cá mó cát and cá mó sáp, sá sùng, mắm nhum, mắm hàu, squid, and cá thu một nắng. Mắm nhum is the one the report describes: salty, sour, and strongly fragrant, eaten with rice noodles, boiled meat, and hot rice. A breakfast dish and a local drink were not named."
+    "Hạt bàng is the island’s pack: the kernel of the bàng fruit, roasted with salt or candied, at 250,000–400,000 đồng per kilogram depending on the type, in Báo Đồng Nai’s July 2025 report. Prisoners once gathered the leaves and fruit when they were kept without greens; Vietnam Tourism adds that they also used the leaves as insulation, as paper, and to mark the year. In peak season some kernels come in from the mainland provinces, so not every bag is island fruit.",
+    "The rest of the market shelf is ferments and one-sun seafood. Mắm nhum, made from sea-urchin meat, is salty, sour, and strongly fragrant, and is eaten with rice noodles, boiled meat, or hot rice. Mắm hàu is oyster, fermented by hand. One-sun squid and one-sun mackerel carry an OCOP three-star rating, and a workshop on Nguyễn Duy Trinh bakes the kernels into biscuits.",
+    "At night the open yard in front of the daily market fills from 17:00 and is busiest from 19:00 to 22:00. Choose tiger prawns, swimming crab, ốc hương, or squid and have them grilled or steamed, add a seafood hotpot, and finish with a tray of cơm cháy. The yard has no roof, so rain moves the tables."
   ],
-  "specialtiesLead": "Candied or roasted kernels from the daily market.",
-  "dishSlugs": ["hat-bang"],
+  "specialtiesLead": "Start with hạt bàng from the daily market, then the ferments and one-sun packs. The evening belongs to the night-market plates.",
+  "dishSlugs": [
+    "hat-bang",
+    "con-dao--mam-nhum",
+    "con-dao--mam-hau",
+    "con-dao--banh-quy-hat-bang",
+    "con-dao--muc-mot-nang",
+    "con-dao--muc-kho",
+    "con-dao--ca-thu-mot-nang",
+    "con-dao--cua-mat-trang",
+    "con-dao--ca-mu-do",
+    "con-dao--goi-ca-map",
+    "con-dao--ca-mo",
+    "con-dao--sa-sung",
+    "con-dao--muc-tuoi",
+    "con-dao--oc-vu-nang",
+    "con-dao--tom-hum-do",
+    "con-dao--tom-su-nuong",
+    "con-dao--ghe-hap",
+    "con-dao--oc-huong-hap-sa",
+    "con-dao--lau-hai-san",
+    "con-dao--tom-mu-ni",
+    "con-dao--banh-trang-nuong",
+    "con-dao--com-chay"
+  ],
   "sections": [
     {
-      "id": "market",
-      "heading": "The daily market",
-      "nav": "The market",
+      "id": "packs",
+      "heading": "Packs from the daily market",
+      "nav": "Packs",
       "paragraphs": [
-        "This is the hall where the report shows hạt bàng being packed. The night market sits in front of it. Daytime hours were not printed. Check on arrival."
+        "These are the foods islanders sell to take home: kernels, ferments, biscuits, and squid and mackerel dried in the sun."
+      ],
+      "spots": [
+        {
+          "name": "Hat bang",
+          "nameVi": "Hạt bàng",
+          "address": "Chợ Côn Đảo",
+          "dishSlug": "hat-bang",
+          "photo": "hat-bang",
+          "note": "Bàng kernels roasted with salt or candied, 250,000–400,000 đồng per kilogram depending on the type. Some peak-season bags hold kernels from the mainland."
+        },
+        {
+          "name": "Mam nhum",
+          "nameVi": "Mắm nhum",
+          "address": "Chợ Côn Đảo",
+          "dishSlug": "con-dao--mam-nhum",
+          "note": "Fermented sea-urchin meat, salty, sour, and strongly fragrant. Eat it with rice noodles, boiled meat, or hot rice."
+        },
+        {
+          "name": "Mam hau",
+          "nameVi": "Mắm hàu",
+          "address": "Chợ Côn Đảo",
+          "dishSlug": "con-dao--mam-hau",
+          "note": "Oysters fermented by hand into a mắm, sold to take home."
+        },
+        {
+          "name": "Banh quy hat bang",
+          "nameVi": "Bánh quy hạt bàng",
+          "address": "Nguyễn Duy Trinh, khu 5",
+          "dishSlug": "con-dao--banh-quy-hat-bang",
+          "note": "Hạt bàng biscuits with chocolate or traditional fillings, first set out at hotel reception desks."
+        },
+        {
+          "name": "Muc mot nang",
+          "nameVi": "Mực một nắng",
+          "address": "Chợ Côn Đảo",
+          "dishSlug": "con-dao--muc-mot-nang",
+          "photo": "con-dao--muc-mot-nang",
+          "note": "Squid dried under a single day’s sun, the island’s OCOP three-star gift pack."
+        },
+        {
+          "name": "Muc kho",
+          "nameVi": "Mực khô",
+          "address": "Chợ Côn Đảo",
+          "dishSlug": "con-dao--muc-kho",
+          "photo": "con-dao--muc-kho",
+          "note": "Dried squid sold in packs, separate from the one-sun squid and the fresh catch."
+        },
+        {
+          "name": "Ca thu mot nang",
+          "nameVi": "Cá thu một nắng",
+          "address": "Chợ Côn Đảo",
+          "dishSlug": "con-dao--ca-thu-mot-nang",
+          "note": "Mackerel dried under one day’s sun and packed to take home, rated OCOP three stars like the one-sun squid."
+        }
+      ]
+    },
+    {
+      "id": "seafood",
+      "heading": "Seafood on the island",
+      "nav": "Seafood",
+      "paragraphs": [
+        "Small day-boats land the island’s fish, and the seaside restaurants and the night market cook it. These are the catches Côn Đảo is known for."
+      ],
+      "spots": [
+        {
+          "name": "Cua mat trang",
+          "nameVi": "Cua mặt trăng",
+          "address": "Seaside restaurants",
+          "dishSlug": "con-dao--cua-mat-trang",
+          "photo": "con-dao--cua-mat-trang",
+          "note": "A crab with moon-like red spots on its shell. Islanders say the meat is sweet and firm in the week of the rising moon."
+        },
+        {
+          "name": "Ca mu do",
+          "nameVi": "Cá mú đỏ",
+          "address": "Seaside restaurants",
+          "dishSlug": "con-dao--ca-mu-do",
+          "note": "A red coral grouper, also called song fish, with lean, white, chewy, sweet flesh. It is grilled or steamed with ginger and spring onion."
+        },
+        {
+          "name": "Goi ca map",
+          "nameVi": "Gỏi cá mập",
+          "address": "Côn Sơn town",
+          "dishSlug": "con-dao--goi-ca-map",
+          "note": "A shark salad, one of the island dishes that is hard to find elsewhere."
+        },
+        {
+          "name": "Ca mo cat",
+          "nameVi": "Cá mó cát",
+          "address": "Côn Sơn town",
+          "dishSlug": "con-dao--ca-mo",
+          "note": "A local fish sold under two names, cá mó cát and cá mó sáp, ordered with the seafood meal."
+        },
+        {
+          "name": "Sa sung",
+          "nameVi": "Sá sùng",
+          "address": "Côn Sơn town",
+          "dishSlug": "con-dao--sa-sung",
+          "photo": "con-dao--sa-sung",
+          "note": "A rare peanut worm that was once sent to the court as tribute."
+        },
+        {
+          "name": "Muc tuoi",
+          "nameVi": "Mực tươi",
+          "address": "Võ Thị Sáu and Phạm Văn Đồng",
+          "dishSlug": "con-dao--muc-tuoi",
+          "photo": "con-dao--muc-tuoi",
+          "note": "Squid hand-lined from day-boats, still moving when it reaches the tank. Cooked, it is crisp with a deep sweet taste."
+        },
+        {
+          "name": "Oc vu nang",
+          "nameVi": "Ốc vú nàng",
+          "address": "Seaside restaurants and the fishing village",
+          "dishSlug": "con-dao--oc-vu-nang",
+          "note": "A spire-shaped snail from beside steep cliffs, gray-black outside and pink, white, or cream inside. Boiled or grilled, it has a natural sweet taste."
+        },
+        {
+          "name": "Tom hum do",
+          "nameVi": "Tôm hùm đỏ",
+          "address": "Seaside restaurants",
+          "dishSlug": "con-dao--tom-hum-do",
+          "note": "A small red lobster nicknamed fire lobster, with firmer, sweeter meat than other lobsters. Eat it steamed whole, in soup, in salad, or as sushi."
+        }
+      ]
+    },
+    {
+      "id": "night-plates",
+      "heading": "Plates at the night market",
+      "nav": "Night plates",
+      "paragraphs": [
+        "Pick the seafood at the stall and say how you want it cooked. One May 2025 dinner of five seafood plates for five people came to 1,200,000 đồng. The yard also grills skewers, corn, and sweet potato."
+      ],
+      "spots": [
+        {
+          "name": "Tom su nuong",
+          "nameVi": "Tôm sú nướng",
+          "address": "Võ Thị Sáu and Phạm Văn Đồng",
+          "dishSlug": "con-dao--tom-su-nuong",
+          "note": "Tiger prawns you choose from the stall and have grilled."
+        },
+        {
+          "name": "Ghe hap",
+          "nameVi": "Ghẹ hấp",
+          "address": "Võ Thị Sáu and Phạm Văn Đồng",
+          "dishSlug": "con-dao--ghe-hap",
+          "photo": "con-dao--ghe-hap",
+          "note": "Swimming crab steamed to order. It is a different crab from cua mặt trăng."
+        },
+        {
+          "name": "Oc huong hap sa",
+          "nameVi": "Ốc hương hấp sả",
+          "address": "Võ Thị Sáu and Phạm Văn Đồng",
+          "dishSlug": "con-dao--oc-huong-hap-sa",
+          "note": "Ốc hương snails steamed with lemongrass."
+        },
+        {
+          "name": "Lau hai san",
+          "nameVi": "Lẩu hải sản",
+          "address": "Võ Thị Sáu and Phạm Văn Đồng",
+          "dishSlug": "con-dao--lau-hai-san",
+          "photo": "con-dao--lau-hai-san",
+          "note": "A seafood hotpot shared at the open-air tables."
+        },
+        {
+          "name": "Tom mu ni chay toi",
+          "nameVi": "Tôm mũ ni cháy tỏi",
+          "address": "Võ Thị Sáu and Phạm Văn Đồng",
+          "dishSlug": "con-dao--tom-mu-ni",
+          "note": "Tôm mũ ni, the slipper lobster, cooked with garlic."
+        },
+        {
+          "name": "Banh trang nuong",
+          "nameVi": "Bánh tráng nướng",
+          "address": "Võ Thị Sáu and Phạm Văn Đồng",
+          "dishSlug": "con-dao--banh-trang-nuong",
+          "photo": "con-dao--banh-trang-nuong",
+          "note": "Grilled rice paper, a snack sold on the night-market stalls."
+        },
+        {
+          "name": "Com chay",
+          "nameVi": "Cơm cháy",
+          "address": "Võ Thị Sáu and Phạm Văn Đồng",
+          "dishSlug": "con-dao--com-chay",
+          "photo": "con-dao--com-chay",
+          "note": "Crisp rice in white, pandan green, and magenta purple, finished with scallion oil and pork floss. One stall charged 100,000 đồng a tray, and most people take it away because seats are few."
+        }
+      ]
+    },
+    {
+      "id": "casual",
+      "role": "casual",
+      "heading": "Casual dining",
+      "nav": "Markets",
+      "paragraphs": [
+        "Buy the packs at the daily market by day. After dark, eat in the open yard in front of it on Võ Thị Sáu and Phạm Văn Đồng, a night market that has run since 2023."
       ],
       "spots": [
         {
           "name": "Con Dao market",
           "nameVi": "Chợ Côn Đảo",
+          "address": "Côn Sơn town",
           "caption": "The daytime hall. The night market sits in front of this building.",
-          "note": "The daytime hall. The night market sits in front of this building.",
+          "note": "The daytime hall where traders pack hạt bàng and sell mắm and dried seafood to take home.",
           "photo": "con-dao-market"
+        },
+        {
+          "name": "Con Dao night market",
+          "nameVi": "Chợ đêm Côn Đảo",
+          "address": "Võ Thị Sáu and Phạm Văn Đồng",
+          "note": "An open yard of seafood stalls from 17:00, busiest from 19:00 to 22:00, and on peak nights and weekends it can run until just before 02:00. There is no roof, so rain moves the tables."
         }
-      ]
-    },
-    {
-      "id": "night-market",
-      "heading": "The night market",
-      "nav": "After dark",
-      "paragraphs": [
-        "The market has run since 2023 on Võ Thị Sáu and Phạm Văn Đồng, in front of the daily market, with no roof. You choose the seafood and the stall steams or grills it. The report also names grilled snacks, corn, sweet potato, bánh tráng nướng, and cơm cháy."
       ]
     }
   ],
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "seoTitle": "Con Dao food guide — hat bang and the night market",
-  "seoDescription": "Hạt bàng is the kernel packed at the daily market. Evening seafood is cooked to order on Võ Thị Sáu and Phạm Văn Đồng. No stall price was printed."
+  "seoDescription": "Hạt bàng, sea-urchin mắm, and one-sun squid from the Côn Đảo daily market, then seafood cooked to order at the night market on Võ Thị Sáu and Phạm Văn Đồng."
 }

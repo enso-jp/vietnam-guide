@@ -8,23 +8,23 @@ Highland Tay, Nung, Hmong, and Dao cooking, plus a city bowl that is not Hanoi p
 
 ### Pho chua
 - Vietnamese name: Phở chua
-- What it is: A cold sour pho. Vietnam Tourism names it as a city specialty beside banh cuon (S7). An indexed 28 Apr 2026 tourism feature describes a sour broth built with vinegar and a little starch, sweet potato fried in threads, crushed peanut, cucumber, herbs, roast duck, crisp pork belly, and smoked sausage. That page returned HTTP 500 on 21 Oct 2026, so the ingredient list stays tied to the index, not a reloaded article. URL: https://caobangtourism.vn/vi/detailnews/?id=news_2533&t=pho-chua-cao-bang-dam-da-huong-vi-vung-cao
-- How to eat it: As a bowl, not a soup course beside another noodle. Texture and a measured sourness — Check on arrival beyond “sour” and the fried threads. Do not invent a legend
-- When to order it: Breakfast or midday in town, including hot months when a cold bowl is the point (indexed feature). Exact stall hours — Check on arrival — UNSOURCED
+- What it is: A cold sour pho. Vietnam Tourism names it as a city specialty beside banh cuon (S7, reloaded 23 Oct 2026). Báo Cao Bằng on 21 May 2026 (S24) describes vinegar thickened with canna starch, sugar, salt, garlic, and chili; fried sweet-potato threads, crushed peanut, cucumber, herbs, roast duck, crisp pork belly, and smoked sausage, plus a little duck broth. The 1 Sep 2026 article (S26) does not mention the duck broth. The 3 May 2026 article (S27) says morning service in Thục Phán is limited and does not print a clock. The old tourism URL was not the page that reloaded.
+- How to eat it: As its own bowl. S24 prints the assembly order and calls the sauce mildly sour and lightly sweet. Do not invent a legend
+- When to order it: Breakfast or midday in town. S27 says morning service in Thục Phán is limited. Exact stall hours — Check on arrival — UNSOURCED
 - Area, not a shop: Cao Bang city (S7)
 - Meal: breakfast
 - Neighbor dish to link: `pho` — the Hanoi beef bowl is a different dish
-- Sources: S7
+- Sources: S7, S24, S26, S27
 
 ### Banh cuon
 - Vietnamese name: Bánh cuốn
-- What it is: Steamed rice rolls, named by Vietnam Tourism as a city specialty with pho chua (S7). Filling and sauce for the Cao Bang version — Check on arrival — UNSOURCED
-- How to eat it: Check on arrival — UNSOURCED beyond the steamed roll
-- When to order it: In town, with breakfast (S7)
+- What it is: Steamed rice rolls. Vietnam Tourism names them with pho chua (S7). Báo Cao Bằng on 4 Jul 2012 (S25): local ordinary rice, pork minced and fried with dried shallot, eaten hot in pork-bone broth with gio, cha, and egg. Fish sauce, mắc mật chili, and lime are optional on that article. The 1 Sep 2026 article (S26) says it is not eaten with the familiar fish sauce. Both stay. Egg roll is the same article’s version, not a second dish. Ministry 22 Aug 2024 (S28) says it was chosen for a top 100 dish list.
+- How to eat it: Hot, in the bone broth (S25, S26)
+- When to order it: Breakfast. S25 says stalls open from 4–5 in the morning. A closing time — Check on arrival — UNSOURCED
 - Area, not a shop: Cao Bang city
 - Meal: breakfast
 - Neighbor dish to link: none that is this city’s roll. Do not reuse a central-coast rice-roll slug
-- Sources: S7
+- Sources: S7, S25, S26, S28
 
 ### Trung Khanh chestnut
 - Vietnamese name: Hạt dẻ Trùng Khánh
@@ -88,8 +88,8 @@ Highland Tay, Nung, Hmong, and Dao cooking, plus a city bowl that is not Hanoi p
 
 ### Khau sli
 - Vietnamese name: Khẩu sli
-- What it is: A popped glutinous rice cake, listed by Bao Cao Bang among limestone-country foods of the northern route with corn cake and fresh-corn porridge (S9)
-- How to eat it: As a snack
+- What it is: Named by Báo Cao Bằng among northern-route foods with corn cake and fresh-corn porridge (S9, reloaded 23 Oct 2026). The reloaded article does not say popped. Method — Check on arrival — UNSOURCED
+- How to eat it: Check on arrival — UNSOURCED. The reloaded article does not say snack or popped
 - When to order it: Check on arrival — UNSOURCED
 - Area, not a shop: Hoa An, Thong Nong, Ha Quang belt in that article’s wording (S9)
 - Meal: sweet
@@ -98,8 +98,8 @@ Highland Tay, Nung, Hmong, and Dao cooking, plus a city bowl that is not Hanoi p
 
 ### Men men
 - Vietnamese name: Mèn mén
-- What it is: Steamed cornmeal, listed with soured pork mixed with corn flour on the northern route (S9)
-- How to eat it: With soup or grilled meat in a highland kitchen
+- What it is: Named on the northern route beside soured pork with corn flour (S9, reloaded 23 Oct 2026). The reloaded article does not say steamed cornmeal. Dân Việt did not load on 23 Oct 2026. Method — Check on arrival — UNSOURCED
+- How to eat it: Check on arrival — UNSOURCED
 - When to order it: At a home meal more than at a city stall — Check on arrival
 - Area, not a shop: Northern limestone villages (S9)
 - Meal: main
@@ -165,3 +165,27 @@ A separate daily central market with published hours was not on the pages this p
 No restaurant or bar name on a page this pass successfully reloaded is safe to publish. The Kim Dong article describes counters without naming a shop (S16). do not publish as a pick.
 
 Kolia is a tea-hill heritage stop on the western route (S4). Any resort brand on that hill: do not publish as a pick.
+
+## Reloaded 23 Oct 2026
+
+S9, S3, and S7 were opened again. New dish articles: S24, S25, S26, S27, S28. Public food guide uses those reloads. Thirty-three dishes have their own records. Names with no method stay in the guide’s second paragraph and are not separate records.
+
+### Added dishes, each with a what-it-is
+
+Phở vịt (S26, S27; ministry list says phở vịt quay, S28, and does not describe a second bowl). Xôi nếp hương (S27, not called five-colour). Chân giò hầm hạt dẻ (S9 names it; S26 describes the hock and the nut). Rượu hạt dẻ (S9 names it; method Check on arrival — UNSOURCED). Bánh pẻng phạ is the same S9 sentence as bánh khảo; no separate method. Vịt cỏ phơi sương om mắc mật (S9, apart from vịt quay). Trám xào thịt ba chỉ (S9). Bánh gio and bánh chưng đen (S9; tro hoa muối is not glossed). Bánh áp chao (S26 says duck filling; S27 says marinated meat and does not say duck). Bánh đúc nóng (S26). Khau nhục (S26). Lợn quay with mắc mật (S26), separate from ba chỉ quay (S9). Bánh trứng kiến (S27; S28 names it). Thạch đen method is S27; S9 only names it. Tép hồ Thang Hen (S9). Cháo bẹ (S9); cháo bẹ rau măng is only a contest name (S28). Thịt lợn ủ chua với bột ngô (S9). Gà bản and the pumpkin stew (S26); gà bản hầm hạt dẻ is only a contest name (S28). Thịt treo gác bếp, pork and beef (S9). Ba chỉ quay (S9). Bánh giày from Pì Pất or Ong rice (S9).
+
+Miến dong: S9 gives chicken soup, a mixed fry, and fried rolls. S26 says củ dong riềng and a chicken or pork-bone soup. S28 names miến dong đen Phja Đén on a gift list. One dish.
+
+Bánh cuốn stalls: open from 4–5 in the morning (S25). Closing time — Check on arrival — UNSOURCED. Named 2012 stalls (Bà Din, phố Vườn Cam; Bà Nhung near the youth-union office; Chị Lan, dốc Pháo đài, phường Tân Giang; Chị Tuyết, chợ Trung tâm): do not publish as a pick.
+
+Phở Quyên in Thục Phán, quoted on 3 May 2026 (S27): do not publish as a pick. Áp chao cô Ngân Phố Cũ and áp chao vịt rán cô Hạc (S26): do not publish as a pick. Hours change by the day. Check on arrival.
+
+### Kim Dong
+
+S26, reloaded, places 19 OCOP-style produce stalls on phố đi bộ Kim Đồng, phường Thục Phán, for the 2 Sep 2026 holiday. It does not print an ordinary-week clock. S16 weekend hours stay indexed and unreloaded. Public copy uses S26 only. Ordinary-day clock — Check on arrival — UNSOURCED.
+
+### Named, no method, not a separate public record
+
+From S9: tương đen Méc Cảng, cá trầm xanh, ong xào măng, thạch trắng, mác cà tắm, canh đỗ trắng nấu hoa chuối rừng, lê Đông Khê, kẹo ngà hoóc, bánh pẻng khua, bánh nướng, chè Tiên, pear, yellow sugarcane, red persimmon, bỏng thóc théc, mèn mén, khẩu sli, bánh ngô, forest-mushroom plates. From S28: thịt chua Bảo Lạc, mận máu Bảo Lạc, thịt xông khói, thạch mác púp, bún các loại, bánh cuốn ngô, cá suối kho mắc mật, lẩu thắng cố, nộm thịt bò một nắng, vịt cỏ tiềm, bánh chè lam (gift list). From S27: tàu trúc, chè thập cẩm, bánh bò, bánh gai, bánh rợm. From S26: măng nhồi, bí hương luộc, canh rau âu, kẹo lạc, mật ong rừng. Method for each — Check on arrival — UNSOURCED. They are named in the public guide’s second paragraph.
+
+No licensed dish photo in the repo. Rows use the existing monogram. No new photo file. No price was printed on the reloaded pages. Price — Check on arrival — UNSOURCED.

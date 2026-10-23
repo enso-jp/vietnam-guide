@@ -148,6 +148,28 @@ No stall price is recorded. The highland-food URL on the provincial site returne
 
 S9’s quoted operator also names thịt treo gác bếp among goods at highland markets, including Phố Đoàn and a market at Na Mèo. The sentence is not only this valley. No cut of meat and no smoke time were printed. Check on arrival — UNSOURCED as a Pu Luong recipe.
 
+S22, read in full on 23 Oct 2026, describes thịt gác bếp for Thai households in Quan Hóa and Bá Thước: buffalo or pork belly, smoked slowly, dry outside, soft and sweet inside, dark pink, seasoned with mắc khén, chili, and ginger. Most at the start of the year, for Tết and guests. That is a sourced dish. It does not replace the S9 sentence. Both stand.
+
+### Added 23 Oct 2026
+
+S13 was opened again. The duck line is thịt thơm, ít mỡ, luộc, nướng, or xáo. The 21 Oct paraphrase “sour soup” was xáo. A definition of xáo was not on the page. Do not print “sour soup”.
+
+S22 (VnExpress, Xuân Mạnh, 3 Jul 2023), read in full:
+
+- Vịt Cổ Lũng at xã Cổ Lũng: round body, short neck, short legs, sparrow-colored feathers, white neck ring. Boiled meat sweet, fragrant, firm. Order boiled, roasted, or grilled at restaurants, homestays, or resorts. No brand is a pick.
+- Ốc núi, photograph caption ốc đá. Boiled, steamed with ginger, salad, or stir-fried, with chẩm chéo.
+- Cơm lam: upland rice, bamboo tube, banana leaf, wood fire, sesame salt, or with grilled dishes and forest greens. A cooking session at some houses.
+- Thịt gác bếp, as above.
+- Măng rừng: spring, boiled, bitter then a sweet aftertaste. Măng chua kept to eat all year, with fish soup. No ferment time.
+- Cá: soup with măng chua (onion, fish sauce, salt, pepper), and grilled stream fish with mắc khén, chili, and lemongrass. The grill can be wrapped with forest greens, fresh noodles, cucumber, and carrot, and a sweet-sour fish sauce.
+- Nộm hoa chuối rừng, nộm rau rừng (leaves not named), nộm hoa đu đủ đực, canh lá đắng cooked with offal and blood.
+
+S23 (VnExpress, Thuỳ Linh, 18 Jun 2023), read in full. Breed at Bản Hiêu, later xã Cổ Lũng. Feathers brown mixed with black, short thick neck, white ring. Streams Nậm Bá, Pù Luông, Pha Lé. Feed: chopped wild banana, corn, paddy, small stream animals. Lò Văn Huyên, village head: live bird 100,000–150,000 đồng a kilogram; grilled, boiled, or roasted about 200,000–350,000 đồng for a bird of about 1.2–2 kg. That quote is 18 Jun 2023. A current price stays Check on arrival. Shopkeeper Lò Thị Oanh is a source for texture, not a published door. No street was printed.
+
+S24 (Tạp chí Sở hữu trí tuệ, 12 Jul 2024), read in full. Names Thai-Muong dishes of Thác Hiêu: vịt Cổ Lũng, xôi hấp gà Kho Mường, lá sắng, măng đắng, sâu măng. Methods were not printed. The same sentence is in the Báo Thanh Hóa account (S11). The department URL for that reprint returned 504 on 23 Oct 2026.
+
+Left off the public list: unnamed côn trùng in the S8 goods extract; xôi ngũ sắc and a pan-fried stream fish on the highland page that also covers Thường Xuân and Quan Hóa; Muong dishes of Ngọc Lặc and Cẩm Thủy on that page; resort menus and their prices. S7, S8, and S9 returned 504 on 23 Oct 2026. Their dish lists are the 21 Oct dossier, confirmed where a search extract repeated the Bản Đôn list, the chẩm chéo paragraph, and the Phố Đoàn goods.
+
 ## Food streets and markets
 
 ### Pho Doan market

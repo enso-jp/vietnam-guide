@@ -23,6 +23,7 @@
     "mountains": 3
   },
   "cover": "highlands",
+  "foodSlug": "kon-tum",
   "nearby": [
     "mang-den",
     "da-lat"
@@ -34,9 +35,9 @@
   "seoTitle": "Kon Tum travel guide — timber church on Nguyen Hue",
   "seoDescription": "The 1913 timber cathedral stands on Nguyen Hue, and Kon Klor’s 292-metre bridge crosses the Đăk Bla. Fly to Pleiku: nearly 45 km, or 51 km by road.",
   "intro": [
-    "Breakfast is phở khô in two bowls, noodles in one and hot broth in the other. Go Vietnam’s food page puts those shops at roughly 06:00 to 10:00, on streets near the market. Then you walk Nguyen Hue. The Kon Tum provincial portal places the wooden cathedral in Thống Nhất ward, built from 1913 to 1918 in cà chít timber, with Roman lines and Ba Na roof forms. Go Vietnam lists free entry and Sunday Mass at 6:00, 8:00, and 17:00. Hours outside Mass are Check on arrival. Give the church about an hour.",
+    "Breakfast is phở khô in two bowls, noodles in one and hot broth in the other. Go Vietnam puts those shops at roughly 06:00 to 10:00, on streets near the market, at about 20,000–33,000 VND a bowl, or up to 35,000 VND for a large bowl. Then you walk Nguyen Hue. The Kon Tum provincial portal places the wooden cathedral in Thống Nhất ward, built from 1913 to 1918 in cà chít timber, with Roman lines and Ba Na roof forms. Go Vietnam lists free entry and Sunday Mass at 6:00, 8:00, and 17:00. Hours outside Mass are Check on arrival. Give the church about an hour.",
     "Give the afternoon to Kon Klor. The cable bridge opened on 1 May 1994 and runs 292 metres over the Đăk Bla. Go Vietnam’s cluster page and its Kon Klor communal-house page both print that length. The nhà rông beside the river is the large Ba Na hall, rebuilt after the 2010 fire, about 3 km from the centre. Kon K’Tu village is about 5 km from the centre, across the bridge. Walk the deck when it is steady. Go Vietnam lists the crossing on foot as free. A travel page prints 5,000 VND for a motorbike, and the provincial portal does not print that toll. Check on arrival.",
-    "The prison museum sits in the same centre. Go Vietnam prints 30,000 VND and about ninety minutes for the French-era cells. The Kon Tum provincial portal does not print a matching fee. Check on arrival at the gate. The provincial museum holds the gong-heritage displays the portal links to the UNESCO listing of the Central Highlands gong space. A ticket and hours for that museum are Check on arrival. Lunch or dinner can be gỏi lá on Tran Cao Van, the Ba Na leaf salad VietnamNet describes with forest and garden leaves, boiled pork, shrimp, and a fermented rice and dried-shrimp sauce. Cơm lam, glutinous rice grilled in bamboo, is the village lunch Go Vietnam names. The evening drink is coffee along Tran Phu, facing the river.",
+    "The prison museum sits in the same centre. Go Vietnam prints 30,000 VND and about ninety minutes for the French-era cells. The Kon Tum provincial portal does not print a matching fee. Check on arrival at the gate. The provincial museum holds the gong-heritage displays the portal links to the UNESCO listing of the Central Highlands gong space. A ticket and hours for that museum are Check on arrival. Lunch or dinner can be gỏi lá on Trần Cao Vân. VietnamNet describes forest and garden leaves, boiled pork, shrimp, and a fermented rice and dried-shrimp sauce. The leaf count is not one figure. Cơm lam, glutinous rice grilled in bamboo, is the village lunch Go Vietnam names for the Ba Na and Xơ Đăng, eaten with grilled chicken. The evening drink is coffee. Vietnam Tourism calls the café the social hub and describes cups overlooking the Đăk Bla.",
     "Stay if the church, the bridge, and the villages are the reason. Go to Da Lat if you wanted a cooler hill station. Mang Den is about 54 km northeast on National Highway 24, the pine plateau Vietnam Tourism describes with lakes and waterfalls. The minutes are Check on arrival. Chu Mom Ray is the border rainforest park on the Vietnam Tourism province list. The drive time is Check on arrival. Pleiku is the flight, not the night in town."
   ],
   "gettingAround": [
@@ -53,12 +54,37 @@
     }
   ],
   "eat": [
-    "Breakfast is phở khô, dry noodles in one bowl and hot broth in the other. Go Vietnam puts the morning shops at roughly 06:00 to 10:00, near the market. Gỏi lá is the Ba Na leaf salad; VietnamNet names Tran Cao Van for restaurants that serve it, without stall prices. Cơm lam is the bamboo-tube rice Go Vietnam names for a village lunch. The evening drink is highland coffee on Tran Phu, facing the Đăk Bla. Ask the price before you order."
+    "Breakfast is phở khô, dry noodles in one bowl and hot broth in the other. Go Vietnam puts the morning shops at about 6:00 to 10:00, around the market, at about 20,000–33,000 VND, or up to 35,000 VND for a large bowl. Gỏi lá is the leaf platter on Trần Cao Vân. The leaf count and the platter price are not one figure. Cơm lam and grilled chicken are the village pair, and those prices disagree too."
   ],
-  "dishSlugs": [],
+  "dishSlugs": [
+    "kon-tum--pho-kho",
+    "kon-tum--goi-la",
+    "kon-tum--bun-do",
+    "kon-tum--ca-goi-kien-vang",
+    "kon-tum--com-lam",
+    "kon-tum--ga-nuong",
+    "kon-tum--ruou-can",
+    "kon-tum--ca-phe",
+    "kon-tum--mang-le",
+    "kon-tum--ca-dang",
+    "kon-tum--canh-la-mi",
+    "kon-tum--de-chien",
+    "kon-tum--muoi-kien",
+    "kon-tum--ca-suoi",
+    "kon-tum--bo-nuong-kien-vang",
+    "kon-tum--ca-ri-ga",
+    "kon-tum--heo-mang-den",
+    "kon-tum--goi-la-sam-ngoc-linh",
+    "kon-tum--ga-ham-sam-day",
+    "kon-tum--rau-rung",
+    "kon-tum--canh-la-bep",
+    "kon-tum--canh-thut",
+    "kon-tum--banh-canh-chim",
+    "kon-tum--lau-dau-ca-tam"
+  ],
   "interestsBody": [
     "The timber church on Nguyen Hue is the reason to stop. Kon Klor and Kon K’Tu are the river afternoon, about 3 km and about 5 km from the centre.",
-    "The prison museum is the history morning in the same centre. Gong displays sit at the provincial museum, and the evening is coffee on Tran Phu."
+    "The prison museum is the history morning in the same centre. Gong displays sit at the provincial museum, and the evening is coffee, with the Đăk Bla in front of the cafés Vietnam Tourism describes."
   ],
   "interestCards": [
     {
@@ -99,6 +125,13 @@
         }
       ],
       "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "Two-bowl phở around the market, gỏi lá on Trần Cao Vân, and cơm lam with grilled chicken.",
+          "photo": "kon-tum",
+          "icon": "food",
+          "to": "food"
+        },
         {
           "title": "Wooden church",
           "summary": "Romanesque timber cathedral built 1913–1918 in cà chít wood on Nguyen Hue. About one hour. Go Vietnam lists free entry. Sunday Mass is 6:00, 8:00, and 17:00.",
@@ -161,7 +194,7 @@
     },
     {
       "q": "Where is breakfast, and where is the evening?",
-      "a": "Breakfast is phở khô near the market, roughly 06:00 to 10:00 on the Go Vietnam food page. The evening is coffee on Tran Phu along the Đăk Bla. Drink prices are Check on arrival."
+      "a": "Breakfast is phở khô near the market, about 6:00 to 10:00. Go Vietnam prints about 20,000–33,000 VND a bowl, or up to 35,000 VND for a large bowl. The evening drink is coffee. Vietnam Tourism describes the highland bean as Robusta and does not print a cup price. Go Vietnam’s cluster article prints 25,000–40,000 VND for an arabica cup, and 30,000–60,000 VND in Măng Đen. Check on arrival."
     }
   ]
 }

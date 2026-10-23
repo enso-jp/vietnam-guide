@@ -11,7 +11,13 @@ Checked: 21 Oct 2026
 - Does a child under 1.3 m still need space on the 700,000 VND boat, or is the boat only a per-trip hire? S1 does not say.
 - Mooc Spring child price, and whether 80,000 VND sightseeing applies all year. The table prints that figure once (S7).
 - Dark Cave and Mooc Spring 2026 prices versus the May 2024 notice (S5, S6, S7). The public pages that exist do not use the 2024 numbers.
-- A village market or food street with an address. Not on the park pages (S9, S10).
+- A village market or food street with an address. Not on the park pages (S9, S10). Re-checked 23 Oct 2026. Still none.
+- Whether cơm bồi (13 March 2024) is the same dish as cơm pồi. The portal uses both spellings for a Minh Hóa corn-and-cassava cake and does not say they are one dish. Both accounts are printed.
+- Whether bánh xèo gạo lứt Gia Hưng is the Quảng Hòa cake, and where either is sold. No street was printed for Phong Nha.
+- A cooking method for bột nhúc, cơm ngô, ốc lèn, ốc vặn, ốc núi, bánh A Chôi, bánh A Dưh, and cá mè. The publishers name them and stop.
+- Whether the 13 March 2024 muối cheo herb list is the Phong Nha grilled-chicken salt. That article does not say Phong Nha.
+- A plate for cá chép and lươn. Named as cage fish on 20 May 2025 only.
+- Stall prices and hours for every dish in this pass. Check on arrival. The Mooc chicken-set figure stays off the food page.
 - 2027 cave-festival dates. The 4 Aug 2026 note is a draft (S11).
 - The map pin already on the place file was not re-checked.
 - Photographs of Dark Cave, Mooc Spring, the botanical garden, OZO Park, Hang En, Hang Va, Eight Ladies Cave, Sinh Ton Valley, and the 4,500-metre route that show those sites. Commons and Openverse, checked 21 Oct 2026, had no CC BY, CC BY-SA, or public-domain frame of those subjects. Son Doong did. Those other pages stay off until a photograph of the site exists. Do not borrow the boat-cave mouth.

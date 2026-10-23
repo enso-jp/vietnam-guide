@@ -1,0 +1,170 @@
+{
+  "slug": "my-son",
+  "name": "My Son food guide",
+  "placeSlug": "my-son",
+  "summary": "Eat before the gate. The ticket rules forbid food inside the monument, so the meal is what the communes around the valley cook: turmeric noodles, a herring salad, a salty fish dip, veal at lễ Bà, and the district’s fish sauce, rice paper, and rice.",
+  "heroSlug": "my-son--mi-quang",
+  "body": [
+    "The My Son ticket rules forbid eating in the monument area. A management essay of 25 Feb 2025 still lists restaurants and local food as work the board wants to build. Have the meal before the drive, or after you are back out of the valley.",
+    "On 24 Mar 2022 a night program in Thôn Mỹ Sơn served mì Quảng and bê thui Cầu Mống, starting at 16:00. On 1 Dec 2025 Tuổi Trẻ quotes the deputy in charge saying that night calendar is not fixed. Go for a night only when it has been announced.",
+    "The 24 Feb 2025 sanctuary essay names mắm cái, gỏi made from cá mòi at the Thu Bon festival in Duy Thu, and thịt nghé as a specialty of lễ Bà. The Da Nang Fatherland Front lists the district’s fish sauce, shrimp paste, a cake, rice paper, black-sesame oil, purple rice, a cereal, silkie eggs, dried lotus, and chả ốc from a farm in Duy Phú."
+  ],
+  "specialtiesLead": "Turmeric noodles and the night-program plate come first. Festival dishes and the district foods follow.",
+  "dishSlugs": [
+    "my-son--mi-quang",
+    "my-son--be-thui-cau-mong",
+    "my-son--thit-nghe",
+    "my-son--goi-ca-moi",
+    "my-son--mam-cai",
+    "my-son--cha-oc",
+    "my-son--nuoc-mam-duy-trinh",
+    "my-son--nuoc-mam-nhi-cua-dai",
+    "my-son--mam-ruoc-duy-trinh",
+    "my-son--banh-deo-loi-pho",
+    "my-son--banh-trang-hai-an",
+    "my-son--dau-me-den",
+    "my-son--gao-tim-than",
+    "my-son--ngu-coc",
+    "my-son--trung-ga-ac",
+    "my-son--sen-say"
+  ],
+  "sections": [
+    {
+      "id": "plates",
+      "heading": "Plates named for the valley",
+      "nav": "Plates",
+      "paragraphs": [
+        "Mì Quảng and bê thui Cầu Mống were on a night program in Thôn Mỹ Sơn. Mắm cái, the herring salad, and the veal are in the 24 Feb 2025 sanctuary essay. Chả ốc is the dish of a black apple-snail farm in Duy Phú."
+      ],
+      "spots": [
+        {
+          "name": "Mi Quang",
+          "nameVi": "Mì Quảng",
+          "address": "Thôn Mỹ Sơn",
+          "dishSlug": "my-son--mi-quang",
+          "photo": "my-son--mi-quang",
+          "note": "Wide, flat, chewy turmeric noodles with a small ladle of broth, less liquid than phở and big on flavour. Pork, chicken, shrimp, or a mix may sit in the bowl, finished with herbs, peanuts, and a crispy rice cracker."
+        },
+        {
+          "name": "Be thui Cau Mong",
+          "nameVi": "Bê thui Cầu Mống",
+          "address": "Thôn Mỹ Sơn",
+          "dishSlug": "my-son--be-thui-cau-mong",
+          "photo": "my-son--be-thui-cau-mong",
+          "note": "Bê thui Cầu Mống is the plate that shared the night program in Thôn Mỹ Sơn with mì Quảng on 24 Mar 2022."
+        },
+        {
+          "name": "Thit nghe",
+          "nameVi": "Thịt nghé",
+          "dishSlug": "my-son--thit-nghe",
+          "note": "Thịt nghé is veal from the land around the sanctuary, a specialty that draws people to lễ Bà."
+        },
+        {
+          "name": "Goi ca moi",
+          "nameVi": "Gỏi cá mòi",
+          "address": "Xã Duy Thu",
+          "dishSlug": "my-son--goi-ca-moi",
+          "note": "Gỏi cá mòi is a herring salad at the Thu Bon festival in Duy Thu. The sanctuary essay calls gỏi a dish Cham people liked."
+        },
+        {
+          "name": "Mam cai",
+          "nameVi": "Mắm cái",
+          "dishSlug": "my-son--mam-cai",
+          "note": "Mắm cái is a salty dipping bowl, traced to Cham seafarers who salted fish before going to sea. It shares that salt with Huế mắm nêm, and the aroma is different enough that a practiced eater can tell them apart."
+        },
+        {
+          "name": "Cha oc",
+          "nameVi": "Chả ốc",
+          "address": "Xã Duy Phú",
+          "dishSlug": "my-son--cha-oc",
+          "photo": "my-son--cha-oc",
+          "note": "Chả ốc is the finished dish of a black apple-snail farm in Duy Phú."
+        }
+      ]
+    },
+    {
+      "id": "products",
+      "heading": "Foods the district has recognized",
+      "nav": "Products",
+      "paragraphs": [
+        "These foods belong to the old Duy Xuyên district, which held the sanctuary. The Da Nang Fatherland Front lists them as OCOP products. A star count appears only where that account gives one. Nước mắm Cửa Đại is spelled two ways, and the cereal carries three names."
+      ],
+      "spots": [
+        {
+          "name": "Nuoc mam Duy Trinh",
+          "nameVi": "Nước mắm Duy Trinh",
+          "dishSlug": "my-son--nuoc-mam-duy-trinh",
+          "note": "Nước mắm Duy Trinh is a fish sauce listed at 4 stars. One line places it with thị trấn Nam Phước, and a 2021 line puts the workshop at thôn An Lương, xã Duy Hải."
+        },
+        {
+          "name": "Nuoc mam nhi Cua Dai",
+          "nameVi": "Nước mắm nhỉ Cửa Đại",
+          "dishSlug": "my-son--nuoc-mam-nhi-cua-dai",
+          "note": "Nước mắm nhỉ Cửa Đại is a fish sauce the September 2023 fair lists among recognized products, spelled nhỉ. An earlier account spells it nhĩ and lists it as a 2022 target."
+        },
+        {
+          "name": "Mam ruoc Duy Trinh",
+          "nameVi": "Mắm ruốc Duy Trinh",
+          "address": "Thôn An Lương, xã Duy Hải",
+          "dishSlug": "my-son--mam-ruoc-duy-trinh",
+          "note": "Mắm ruốc Duy Trinh is shrimp paste from the Duy Trinh fish-sauce workshop in thôn An Lương, xã Duy Hải, listed at 3 stars."
+        },
+        {
+          "name": "Banh deo Loi Pho",
+          "nameVi": "Bánh dẻo Lợi Phổ",
+          "address": "Thôn An Lạc, xã Duy Thành",
+          "dishSlug": "my-son--banh-deo-loi-pho",
+          "note": "Bánh dẻo Lợi Phổ is a cake from thôn An Lạc, xã Duy Thành, listed at 3 stars."
+        },
+        {
+          "name": "Banh trang Hai An",
+          "nameVi": "Bánh tráng Hải An",
+          "address": "Xã Duy Trinh",
+          "dishSlug": "my-son--banh-trang-hai-an",
+          "photo": "my-son--banh-trang-hai-an",
+          "note": "Bánh tráng Hải An is rice paper from xã Duy Trinh, listed at 3 stars."
+        },
+        {
+          "name": "Dau me den",
+          "nameVi": "Dầu mè đen xứ Quảng",
+          "address": "Thôn Lang Châu Nam, xã Duy Phước",
+          "dishSlug": "my-son--dau-me-den",
+          "note": "Dầu mè đen xứ Quảng is black-sesame oil from thôn Lang Châu Nam, xã Duy Phước, listed at 3 stars."
+        },
+        {
+          "name": "Gao tim than",
+          "nameVi": "Gạo tím than",
+          "address": "Thôn Vĩnh Nam, xã Duy Vinh",
+          "dishSlug": "my-son--gao-tim-than",
+          "photo": "my-son--gao-tim-than",
+          "note": "Gạo tím than is purple rice from Lò gạch cũ Farmstay in thôn Vĩnh Nam, xã Duy Vinh, listed at 3 stars. The 2023 fair calls it gạo tím than lò gạch cũ."
+        },
+        {
+          "name": "Ngu coc",
+          "nameVi": "Ngũ cốc",
+          "address": "Thôn Kiệu Châu, xã Duy Sơn",
+          "dishSlug": "my-son--ngu-coc",
+          "note": "Ngũ cốc is a cereal from hộ Phạm Thị Duy Mỹ in thôn Kiệu Châu, xã Duy Sơn. The 2021 list calls it ngũ cốc Duy Anh at 3 stars, the 2023 fair says Ngũ cốc Duy Oanh, and a 2024 note says Ngũ cố Duy Oanh."
+        },
+        {
+          "name": "Trung ga ac",
+          "nameVi": "Trứng gà ác",
+          "address": "Thôn Đông Yên",
+          "dishSlug": "my-son--trung-ga-ac",
+          "photo": "my-son--trung-ga-ac",
+          "note": "Trứng gà ác are silkie eggs from hộ Phạm Ngọc Anh in thôn Đông Yên, listed at 3 stars."
+        },
+        {
+          "name": "Sen say",
+          "nameVi": "Sen sấy khô Trà Lý",
+          "dishSlug": "my-son--sen-say",
+          "photo": "my-son--sen-say",
+          "note": "Sen sấy khô Trà Lý is dried lotus, named among the recognized products at the fair of 22–24 Sep 2023."
+        }
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "My Son food — mì Quảng, mắm cái, and no meal in the towers",
+  "seoDescription": "The ticket rules forbid eating in the monument area. Around the valley: mì Quảng, mắm cái, herring salad, veal, fish sauce, and rice."
+}

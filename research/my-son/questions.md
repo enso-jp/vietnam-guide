@@ -15,4 +15,13 @@ Checked: 21 Oct 2026. Public fields that depend on these stay “Check on arriva
 - Museum hours beyond the 2020 guide. No later page restates 06:00–17:00.
 - Whether Đêm Mỹ Sơn huyền thoại is inside the daytime ticket, and a night to attend. No licensed night photograph, so no festival card.
 - The sacred path. Announced 16 Dec 2025. Not an open visitor trail.
+- A stall, an hour, and a price for every food named on 23 Oct 2026. Each one stays Check on arrival.
+- Whether thịt nghé and bê thui Cầu Mống are the same plate. The sanctuary essay and VOV2 do not say so.
+- Whether ngũ cốc Duy Anh, Ngũ cốc Duy Oanh, and Ngũ cố Duy Oanh are one product. All three names stay.
+- Whether nước mắm Duy Trinh is in thị trấn Nam Phước or at the Duy Hải workshop. Both addresses stay.
+- Whether nước mắm nhĩ Cửa Đại and nước mắm nhỉ Cửa Đại are the same sauce, and whether it was recognized. The OCOP note lists nhĩ as a 2022 target. The Sep 2023 fair lists nhỉ as recognized. No star count on the fair.
+- The commune for trứng gà ác in thôn Đông Yên. The 2021 sentence does not print it.
+- The village for sen sấy khô Trà Lý. The Sep 2023 fair does not print it.
+- The publication day of the Fatherland Front OCOP note and of the 2024 chả ốc note. Neither day was in the text read on 23 Oct 2026.
+- Four more specialties that a primary source ties to My Son. Sixteen are sourced. Cao lầu, bánh bao bánh vạc, cơm gà Tam Kỳ, and bánh tổ were not moved here from Hoi An or Tam Kỳ.
 - A museum coordinate. The Commons GPS on the gallery photo contradicts “2 km northwest” and was not published. The second museum frame is a crop of the same photograph as the hero.

@@ -59,14 +59,49 @@
       "photo": "cao-bang-ban-gioc"
     }
   ],
+  "foodSlug": "cao-bang",
   "eat": [
-    "Breakfast in town is pho chua, a cold sour pho, or banh cuon. Vietnam Tourism names both as city specialties. An indexed note describes a sour broth and fried sweet-potato threads. That page did not reload, so anything beyond the sour bowl and the threads is check on arrival.",
-    "The eastern road is roast duck with mac mat leaf, smoked sausage, and Trung Khanh chestnuts in autumn. Corn wine belongs with a northern meal. Kim Dong, by the Bang and the Hien, is the weekend walking street. The indexed tourism article places food counters, souvenirs, and highland specialties beside a water-wheel stage. That page did not reload, and it names no stall. Weeknight hours and stall prices are check on arrival. No boutique and no mall were on the pages read."
+    "Breakfast in town is phở chua, bánh cuốn, or phở vịt. Vietnam Tourism names phở chua and bánh cuốn. Báo Cao Bằng describes phở chua as a sour bowl, not a hot beef pho, and bánh cuốn in pork-bone broth. A price is Check on arrival.",
+    "The eastern road is roast duck, smoked sausage, and Trùng Khánh chestnuts in autumn. Corn wine belongs with a northern meal. Kim Đồng, in Thục Phán, is the walking street where Báo Cao Bằng placed produce stalls for the 2026 National Day holiday. An ordinary-day clock and stall prices are Check on arrival."
   ],
-  "dishSlugs": [],
+  "dishSlugs": [
+    "cao-bang--pho-chua",
+    "cao-bang--banh-cuon",
+    "cao-bang--pho-vit",
+    "cao-bang--xoi-ngu-sac",
+    "cao-bang--xoi-nep-huong",
+    "cao-bang--hat-de",
+    "cao-bang--com-hat-de",
+    "cao-bang--chan-gio-hat-de",
+    "cao-bang--ruou-hat-de",
+    "cao-bang--banh-khao",
+    "cao-bang--vit-quay",
+    "cao-bang--vit-co-om",
+    "cao-bang--lap-suon",
+    "cao-bang--xoi-tram",
+    "cao-bang--tram-xao",
+    "cao-bang--mien-dong",
+    "cao-bang--com-lam",
+    "cao-bang--ruou-ngo",
+    "cao-bang--banh-gio",
+    "cao-bang--banh-chung-den",
+    "cao-bang--banh-ap-chao",
+    "cao-bang--banh-duc",
+    "cao-bang--khau-nhuc",
+    "cao-bang--lon-quay",
+    "cao-bang--banh-trung-kien",
+    "cao-bang--thach-den",
+    "cao-bang--tep-thang-hen",
+    "cao-bang--chao-be",
+    "cao-bang--thit-chua-ngo",
+    "cao-bang--ga-ban",
+    "cao-bang--thit-treo",
+    "cao-bang--ba-chi-quay",
+    "cao-bang--banh-giay"
+  ],
   "interestsBody": [
     "The falls, the lit cave, and the pagoda viewpoint are one eastern day. Pac Bo is the northern half day. Phia Oac is the western day, moss forest up to 1,935 m.",
-    "Pho chua is the city bowl, and it is not Hanoi pho. No licensed photograph of the bowl was found, so it is not a card. The same is true of the chestnut, the five-colour rice, and Kim Dong’s counters. Souvenirs on that street have no licensed photograph of the goods, so Shopping is not a card."
+    "Pho chua is the city bowl, and it is not Hanoi pho. The chestnut and the five-colour rice sit on the same highland table. Kim Dong is the walking street. No boutique and no mall were named for a shopping stop."
   ],
   "interestGroups": [
     {

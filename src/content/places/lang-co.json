@@ -15,7 +15,8 @@
   "fee": "Check on arrival",
   "getThere": "About 60 km south of Hue, or about 25 km from Da Nang through the Hai Van tunnel. Minutes are check on arrival.",
   "bestMonths": "Summer for the swim",
-  "verified": "21 Oct 2026",
+  "verified": "23 Oct 2026",
+  "foodSlug": "lang-co",
   "interests": {
     "beaches": 5,
     "food": 4,
@@ -58,15 +59,46 @@
     }
   ],
   "eat": [
-    "Lap An oysters are the local plate: grilled over a fire, in porridge, stir-fried with onion, or as a salad. Báo Quốc Tế says the lagoon has raised them since the late 1990s, and you eat them with the boats and the stakes in view. No stall price was printed.",
-    "Grilled seafood is the evening at Tân Cảnh Dương, on the beach, as Visit Hue describes it. The page does not name a shop or a species list. Nguyễn Văn has long had specialty stalls along the lagoon. A Lang Co breakfast dish and a local drink were not named on the pages opened."
+    "Lap An oysters are the local plate: grilled over a fire, in porridge, stir-fried with onion, or as a salad. Báo Quốc Tế says the lagoon has raised them since the late 1990s, and you eat them with the boats and the stakes in view. A current price is Check on arrival.",
+    "Grilled seafood is the evening at Tân Cảnh Dương, on the beach, as Visit Hue describes it. Visit Hue does not name a shop or a species list. Nguyễn Văn has long had specialty stalls along the lagoon. A breakfast dish and a local drink were not named by Visit Hue, Báo Quốc Tế, or Nhân Dân."
   ],
-  "dishSlugs": [],
+  "dishSlugs": [
+    "lang-co--hau-nuong-trui",
+    "lang-co--chao-hau",
+    "lang-co--hau-xao-hanh-tay",
+    "lang-co--goi-hau",
+    "lang-co--hau-hap-gung",
+    "lang-co--hau-xao-chua-ngot",
+    "lang-co--dau-phu-nhoi-hau",
+    "lang-co--mi-sot-hau",
+    "lang-co--hau-nuong-pho-mai",
+    "lang-co--hau-nuong-mo-hanh",
+    "lang-co--hau-nuong-moi",
+    "lang-co--hau-song",
+    "lang-co--oc-gai-hap-sa",
+    "lang-co--so-meo",
+    "lang-co--vem-xanh",
+    "lang-co--ca-hong",
+    "lang-co--ca-mu",
+    "lang-co--hai-san-nuong"
+  ],
   "interestsBody": [
     "Oysters are the lagoon. The swim is the bay under the pass. The sand strip across Lap An shows only at a strong low tide.",
     "Hai Van Gate is the look back at that bay, on the pass road. The tunnel does not pass the gate."
   ],
   "interestGroups": [
+    {
+      "title": "Dining and F&B",
+      "summary": "Lap An oysters, the lagoon shellfish, and the grill at Tan Canh Duong.",
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "Oysters on Đầm Lập An, the shellfish Nhân Dân names, and grilled seafood in the evening at Tân Cảnh Dương.",
+          "icon": "food",
+          "to": "food"
+        }
+      ]
+    },
     {
       "title": "Oysters on Lap An",
       "summary": "The brackish lagoon between Phu Gia and the bay is where Lang Co raises and serves oysters.",

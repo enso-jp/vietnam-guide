@@ -25,6 +25,7 @@
     "gia-lai",
     "da-lat"
   ],
+  "foodSlug": "mang-den",
   "routeSlugs": [],
   "itinerarySlugs": [
     "mang-den-plateau-day"
@@ -49,9 +50,34 @@
     }
   ],
   "eat": [
-    "Vietnam Tourism names grilled chicken with lam rice, sticky rice cooked in bamboo, grilled pork, forest banana-flower salad, and trays of highland leaves. Eat them at a homestay table or a town restaurant. Coffee is the cool-morning cup on the plateau."
+    "Start with grilled chicken and lam rice. Vietnam Tourism also names pork skewers, porcupine, fried crickets, a tray of 40 or so indigenous vegetables, and wild banana-flower salad. The weekend market on Hùng Vương names further specialties, including trâu gác bếp and hạt kơ nia. A price is Check on arrival."
   ],
-  "dishSlugs": [],
+  "dishSlugs": [
+    "mang-den--ga-nuong-com-lam",
+    "mang-den--com-lam",
+    "mang-den--thit-xien",
+    "mang-den--porcupine",
+    "mang-den--fried-crickets",
+    "mang-den--vegetable-salad",
+    "mang-den--forest-banana-salad",
+    "mang-den--ca-phe",
+    "mang-den--ruou-can",
+    "mang-den--trau-gac-bep",
+    "mang-den--ca-nuong",
+    "mang-den--cua-nuong",
+    "mang-den--kho-qua-rung",
+    "mang-den--ca-dang",
+    "mang-den--mang-rung",
+    "mang-den--heo-lang-nuong",
+    "mang-den--banh-sung-trau",
+    "mang-den--hat-de",
+    "mang-den--hat-ko-nia",
+    "mang-den--banh-nep",
+    "mang-den--mang-le",
+    "mang-den--thit-heo-hun-khoi",
+    "mang-den--bo-kho",
+    "mang-den--com-lang"
+  ],
   "interestsBody": [
     "Seven lakes and three waterfalls are the geography Vietnam Tourism names. Pa Sy and Dak Ke are the visits you can plan from town.",
     "Kon Pring is the culture half-day: the nhà rông, gongs, and weaving. Khanh Lam and the town church are the shorter stops."

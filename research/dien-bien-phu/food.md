@@ -105,7 +105,165 @@ The culture desk’s list of 23 Mar 2020 is the city’s nine (S17). Vietnam New
 - Unpublished: no licensed photo
 - Sources: S17, S18
 
-Vietnam News also names bamboo worms, Mông wine, mountain goat, and Đà River fish (S18). A method, a strength, and a place in the ward were not in that paragraph. They stay named and do not get their own entries. Left out of the plate list for that reason.
+Vietnam News also names bamboo worms, Mông wine, mountain goat, and Đà River fish in the director’s opening list (S18). A method, a strength, and a species were not in the article. They are published as names. The method stays Check on arrival. They are not given an invented recipe. Bamboo worms are not identified as sâu chít.
+
+A re-read of the full Vietnam News article on 23 Oct 2026 found methods the opening paragraph does not carry. Those plates are below. S40 and S41 were added the same day. A Điện Biên TV URL for cá lăng returned no article text and was not used.
+
+### Kitchen-smoked buffalo
+- Vietnamese name: Thịt trâu gác bếp on S40. S18 uses the English “kitchen-smoked buffalo meat” and does not print a Vietnamese name
+- What it is: Buffalo dried over a fire. S18: free-range hill buffalo, soaked with mắc khén, salt, lemongrass leaves, chilli, sugar, and garlic for two hours, hung on bamboo skewers over a wood fire for about 15 hours, brown-red. S40: sinew and silver skin trimmed, sliced with the grain, marinated with lemongrass, ginger, garlic, chopped dried chilli, and crushed mắc khén for 2–3 hours, dried over charcoal far enough to cook slowly, just done, then often resteamed about 30 minutes. Whether this is nhứa giảng — Check on arrival. Do not collapse the names
+- How to eat it: Warm, or resteamed on the S40 account. A shop — Check on arrival — UNSOURCED
+- When to order it: With the highland meal. A stall hour — Check on arrival — UNSOURCED
+- Area, not a shop: No street on S18 or S40
+- Meal: main
+- Neighbor dish to link: none. Do not file the Sơn La smoked-meat slug
+- Unpublished: no licensed photo
+- Sources: S18, S40
+
+### Duck with banana flower
+- Vietnamese name: Vịt om hoa chuối
+- What it is: Duck cooked with banana flower. S18, quoting Hào Giàng Xén: cleaned, soaked with minced chilli, lemongrass leaves, ginger, mắc khén, and banana flowers for half an hour, wrapped in banana leaves, three hours on a small fire. S41: field duck, called vịt đồng, vịt cỏ, and vịt bầu in different sentences, forest banana flower, hạt dổi and roasted mắc khén, fish sauce and salt, one hour, flower sliced and soaked in rice-rinsing water with salt, then wrapped and cooked about three hours. Herbs (garlic chives, ginger leaf, mint, coriander) go in near the end on S41. Both clocks and both seasoning lists stay
+- How to eat it: From the leaf, hot. A price — Check on arrival — UNSOURCED
+- When to order it: A family table for guests on S41. A daily stall — Check on arrival — UNSOURCED
+- Area, not a shop: No street
+- Meal: main
+- Neighbor dish to link: none
+- Unpublished: no licensed photo
+- Sources: S18, S41
+
+### Cabbage-wrapped oleaster
+- Vietnamese name: Bắp cải cuốn nhót xanh
+- What it is: Young green oleaster in cabbage, dipped in chẩm chéo. S18: wrapped in fresh cabbage. First bite, then the acrid cabbage, slightly sour fruit, and ginger, chilli, and salt in the sauce. S40: wash the white bloom off the young fruit, wrap it with ginger, coriander, and garlic leaf in cabbage. Sour, hot, salty, sweet, fragrant, and no meat on that account
+- How to eat it: As a wrap with the sauce. A price — Check on arrival — UNSOURCED
+- When to order it: With the Thái table. An hour — Check on arrival — UNSOURCED
+- Area, not a shop: No street
+- Meal: main
+- Neighbor dish to link: none
+- Unpublished: no licensed photo
+- Sources: S18, S40
+
+### Cham cheo
+- Vietnamese name: Chẩm chéo. S18 and S40 also print chẳm chéo. S40 also says chéo
+- What it is: The Thái dipping sauce. S18, quoting Lê Thị Duyên: mắc khén with salt, grilled fresh chilli, dried chilli, garlic, and broth mix, ground to a viscous sauce. S40: dry-roast the mắc khén fruit, pound it, mix with seedless dried chilli toasted crisp, roasted salt, dried coriander leaf pounded fine, and lemongrass. The two recipes disagree. The culture desk does not use these words in the fish recipe. Do not merge the sauce into the fish
+- How to eat it: As the dip. S40 names it with xôi nếp nương, bắp cải cuốn nhót xanh, forest meat, and grilled fish. A price — Check on arrival — UNSOURCED
+- When to order it: With the meal. An hour — Check on arrival — UNSOURCED
+- Area, not a shop: The Thái table. The cooperative named in S18 is a source clue. do not publish as a pick
+- Meal: sauce
+- Neighbor dish to link: none
+- Unpublished: no licensed photo
+- Sources: S18, S40
+
+### Sau chit
+- Vietnamese name: Sâu chít
+- What it is: A worm in the stem of the chít plant. S40: a stem with the worm does not flower. The stem is split. The worm is milk-white and plump, put in weak wine so it does not change, then steeped as wine or cooked as porridge. S40 calls the nutrition high and prints no measure. This is not identified as the “bamboo worms” in the S18 lede
+- How to eat it: As wine, or as porridge, on S40. A strength and a price — Check on arrival — UNSOURCED
+- When to order it: Check on arrival — UNSOURCED
+- Area, not a shop: No street
+- Meal: drink or porridge
+- Neighbor dish to link: none
+- Unpublished: no licensed photo
+- Sources: S40
+
+### Tam rice
+- Vietnamese name: Gạo tám Điện Biên
+- What it is: Rice of Mường Thanh on S40. Grains even, plump, small, opaque rather than white. The cooked rice is sticky like sticky rice, lightly fragrant, with a deep taste. S40 says it is used for cơm lam, khẩu cắm, khẩu háng, and khẩu papa. Cơm lam is not in the culture desk’s nine. Do not file the shared cơm lam slug
+- How to eat it: As cooked rice, or in the three named cakes. A price — Check on arrival — UNSOURCED
+- When to order it: Check on arrival — UNSOURCED
+- Area, not a shop: Mường Thanh, as the rice’s home on S40. Not a shop
+- Meal: main
+- Neighbor dish to link: none
+- Unpublished: no licensed photo
+- Sources: S40
+
+### Banh day
+- Vietnamese name: Bánh dày
+- What it is: A Mong Tết cake on S40, from nếp nương, pounded smooth by hand and wrapped in forest dong leaves. It keeps, especially in the cold at the start of spring. Eaten with chả or giò, grilled over charcoal, or dipped in forest honey
+- How to eat it: Those four ways. A price — Check on arrival — UNSOURCED
+- When to order it: Tết, on S40. A stall outside Tết — Check on arrival — UNSOURCED
+- Area, not a shop: No street
+- Meal: snack
+- Neighbor dish to link: none
+- Unpublished: no licensed photo
+- Sources: S40
+
+### Khau cam
+- Vietnamese name: Khẩu cắm
+- What it is: S40, one clause: like sticky rice with lá cẩm, rich, sticky, and fragrant, made from gạo tám. A second step — Check on arrival — UNSOURCED
+- How to eat it: As that rice. A price — Check on arrival — UNSOURCED
+- When to order it: Check on arrival — UNSOURCED
+- Area, not a shop: No street
+- Meal: main
+- Neighbor dish to link: none. Do not file `xoi-ngu-sac`
+- Unpublished: no licensed photo
+- Sources: S40
+
+### Khau hang
+- Vietnamese name: Khẩu háng
+- What it is: S40: steam the paddy, dry it, mill off the husk, then steam until done. Nothing further was printed
+- How to eat it: As that steamed grain. A price — Check on arrival — UNSOURCED
+- When to order it: Check on arrival — UNSOURCED
+- Area, not a shop: No street
+- Meal: main
+- Neighbor dish to link: none
+- Unpublished: no licensed photo
+- Sources: S40
+
+### Khau papa
+- Vietnamese name: Khẩu papa
+- What it is: S40: like lowland bánh nếp, made from gạo tám. A method beyond that comparison — Check on arrival — UNSOURCED
+- How to eat it: Check on arrival — UNSOURCED
+- When to order it: Check on arrival — UNSOURCED
+- Area, not a shop: No street
+- Meal: snack
+- Neighbor dish to link: none
+- Unpublished: no licensed photo
+- Sources: S40
+
+### Bamboo worms
+- Vietnamese name: not printed. Do not invent sâu măng or sâu chít for this English name
+- What it is: A name in the culture director’s list on S18. No method. Not identified as sâu chít
+- How to eat it: Check on arrival — UNSOURCED
+- When to order it: Check on arrival — UNSOURCED
+- Area, not a shop: No street
+- Meal: main
+- Neighbor dish to link: none
+- Unpublished: no licensed photo
+- Sources: S18
+
+### Mong wine
+- Vietnamese name: not printed. S18 says “Mông wine.” A jar, a grain, and a strength were not printed
+- What it is: Named by the culture director. No method
+- How to eat it: Check on arrival — UNSOURCED
+- When to order it: Check on arrival — UNSOURCED
+- Area, not a shop: No street
+- Meal: drink
+- Neighbor dish to link: none
+- Unpublished: no licensed photo
+- Sources: S18
+
+### Mountain goat
+- Vietnamese name: not printed. S18 says “mountain goat”
+- What it is: Named by the culture director. No cut and no method
+- How to eat it: Check on arrival — UNSOURCED
+- When to order it: Check on arrival — UNSOURCED
+- Area, not a shop: No street
+- Meal: main
+- Neighbor dish to link: none
+- Unpublished: no licensed photo
+- Sources: S18
+
+### Da River fish
+- Vietnamese name: not printed. S18 says “Đà River fish” and does not name a species
+- What it is: Named by the culture director. No species and no method. Cá lăng was not filed. The television URL returned no article text
+- How to eat it: Check on arrival — UNSOURCED
+- When to order it: Check on arrival — UNSOURCED
+- Area, not a shop: No street
+- Meal: main
+- Neighbor dish to link: none
+- Unpublished: no licensed photo
+- Sources: S18
+
+Left out of the plate list: cơm lam, because the culture desk’s nine do not include it even though S40 names it as a use of gạo tám; Hương Linh – Tủa Chùa tea and Mường Ảng coffee, named as OCOP products with no brew; restaurant and homestay names, including the cooperative in the chẩm chéo sentence. do not publish as a pick.
 
 ## Food streets and markets
 

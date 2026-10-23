@@ -147,7 +147,94 @@ Stall prices printed on the handbook and the food roundup are not carried. Shop 
 - Neighbor dish to link: none on this site yet
 - Sources: S29
 
-The bureau overview also names tôm, cua, cá, sò huyết, and ốc nhảy as the provincial plate (S1). Ốc nhảy has no method on that page. Method: Check on arrival — UNSOURCED.
+The bureau overview also names tôm, cua, cá, sò huyết, and ốc nhảy as the provincial plate (S1). Ốc nhảy’s method is on the Sông Cầu note (S35): steamed with lemongrass and mắm gừng. S1 still prints no method.
+
+## Added 23 Oct 2026
+
+Direct fetches of phuyentourism.gov.vn timed out. The lines below use the search extracts, the same way S5, S13, S15, S17, S18, and S19 were stored. Stall prices are still not carried. Shop names stay under Notes. Nutrition claims on the bún bắp article are not carried.
+
+### Tuna eye
+- Vietnamese name: Mắt cá ngừ đại dương
+- What it is: Split out from Ocean tuna. The eye article steams it with thuốc bắc in a pot, with an alcohol burner underneath. The roundup uses a small clay pot, vegetables, and táo tàu, and says the fish often weighs 40–50 kg (S19, S40). The 2017 records line stays on S17. S32 says Tổ chức Kỷ lục Việt Nam listed the eye with gà nướng Sông Cầu in a Top 100.
+- How to eat it: A snack. The eye article says few people eat it with white rice, and that a hearty eater manages about two portions (S40).
+- When to order it: With the tuna meal. Hours: Check on arrival — UNSOURCED.
+- Area, not a shop: Lê Duẩn and bờ kè Bạch Đằng (S14). The Điện Biên Phủ corner (S13).
+- Meal: main
+- Sources: S13, S14, S17, S19, S32, S40
+
+### Song Cau grilled chicken
+- Vietnamese name: Gà nướng Sông Cầu
+- What it is: Cut into wings and thighs, marinated with onion, pepper, chilli, garlic, and fish sauce, grilled over charcoal (S32).
+- How to eat it: With no fewer than five salts. S32 names four: muối tiêu vắt chanh, muối ớt giã lá chanh, muối ớt xanh giã nhuyễn, muối ớt đỏ. The fifth is not named.
+- When to order it: A meal. Hours: Check on arrival — UNSOURCED.
+- Area, not a shop: Sông Cầu. A street was not printed.
+- Meal: main
+- Sources: S32
+
+### Cu Mong crab
+- Vietnamese name: Ghẹ đầm Cù Mông
+- What it is: Crab from the lagoon, sweet and fragrant (S33).
+- How to eat it: Steamed until the shell is red and the meat is white, with salt, pepper, and lime. Also rang muối, rim me, and súp (S33).
+- When to order it: A meal. Hours: Check on arrival — UNSOURCED.
+- Area, not a shop: Đầm Cù Mông. Distance from Tuy Hòa was not printed.
+- Meal: main
+- Sources: S33
+
+### Grilled muong fish
+- Vietnamese name: Cá mương
+- What it is: A fish about the size of a finger, soft, fragrant, and sweet (S34).
+- How to eat it: Grilled, then dipped in vinegar so the bones soften, with herbs and nước mắm nhỉ with tamarind or peanut. Gỏi, nhúng dấm, luộc, and chiên xù are named. The grill is the common plate (S34).
+- When to order it: A meal. Hours: Check on arrival — UNSOURCED.
+- Area, not a shop: Bàu Long Thăng at thị trấn La Hai, huyện Đồng Xuân, and cầu Lò Gốm at xã An Thạch, huyện Tuy An (S34).
+- Meal: main
+- Sources: S34
+
+### Jumping snail
+- Vietnamese name: Ốc nhảy
+- What it is: Also called ốc đực. Meat the color of chicken fat, crisp, sweet, and fatty (S35). S1 names it and prints no method.
+- How to eat it: Steamed with lemongrass and mắm gừng (S35).
+- When to order it: A meal. Hours: Check on arrival — UNSOURCED.
+- Area, not a shop: The Sông Cầu sea. Other snails are listed and not given a method (S35).
+- Meal: main
+- Sources: S1, S35
+
+### An Dan corn noodle
+- Vietnamese name: Bún bắp An Dân
+- What it is: Yellow corn noodle from xã An Dân, Tuy An. One batch takes 6–7 days on this article (S36). The tuna-offal article says 6–7 steps and nearly 10 days (S39). Both stay.
+- How to eat it: With giò heo, with ốc, in canh chua cá bống, fried with scallion fat or chives, fried with lòng heo, or in a broth of Ô Loan fish with rau ngót (S36). The tuna-offal bowl is a separate plate (S39).
+- When to order it: A meal. Hours: Check on arrival — UNSOURCED.
+- Area, not a shop: Xã An Dân. One workshop is being brought back. Its name was not printed (S36).
+- Meal: main
+- Sources: S36, S39
+
+### Corn noodle with tuna offal
+- Vietnamese name: Bún bắp lòng cá ngừ đại dương
+- What it is: The corn noodle in a broth of tuna stomach, roe, tomato, and pineapple. Hiệp hội Văn hóa Ẩm thực Việt Nam certified it among 121 dishes in phase I-2022, the only Phú Yên dish on that list (S39).
+- How to eat it: Ladle the broth over the noodle with scallion, rau răm, and pepper. Eat with herbs, bean sprouts, and salty fish sauce (S39).
+- When to order it: A meal. Hours: Check on arrival — UNSOURCED.
+- Area, not a shop: A street was not printed. Check on arrival — UNSOURCED.
+- Meal: main
+- Sources: S39
+
+### Seaweed salad
+- Vietnamese name: Gỏi rong biển
+- What it is: Seaweed from the reefs, including gành Đá Đĩa (S37).
+- How to eat it: Soaked in fresh water, with herbs, shredded coconut, chopped mango, lime, peanuts, and sesame rice crackers. Fish sauce, or soy sauce for a vegetarian plate (S37).
+- When to order it: A meal. Hours: Check on arrival — UNSOURCED.
+- Area, not a shop: Gành Đá Đĩa. A restaurant street was not printed.
+- Meal: main
+- Sources: S37
+
+### Rice-paper rolls with boiled pork
+- Vietnamese name: Bánh tráng cuốn thịt heo luộc
+- What it is: Belly pork, boiled or steamed, in local rice paper, for guests and for breakfast (S38).
+- How to eat it: Rolled with lettuce, herbs, cucumber, and green banana. Dip of fish sauce from cá cơm, cá sặc, and cá thu (S38).
+- When to order it: Breakfast, or a party. Hours: Check on arrival — UNSOURCED.
+- Area, not a shop: The paper is from Hoà Đa (xã An Mỹ), Đông Bình (xã Hoà An), and Phường Lụa (thị trấn Chí Thạnh). A Tuy Hòa street was not printed (S38).
+- Meal: breakfast
+- Sources: S38
+
+Not published: rượu tằm, title only on the food index (S41), article body not retrieved. Nhân sâm Phú Yên is a medicine gift on S42, not a plate. The restaurant roundup at `6-quan-hai-san` names doors and is not a source for picks.
 
 ## Food streets and markets
 

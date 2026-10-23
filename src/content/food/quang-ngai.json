@@ -1,0 +1,292 @@
+{
+  "slug": "quang-ngai",
+  "name": "Quang Ngai food guide",
+  "placeSlug": "quang-ngai",
+  "summary": "Quảng Ngãi eats from its river: lightly sweet don broth where the Trà Khúc meets the sea, peppery braised river goby, and small crisp bánh xèo. Kẹo gương, mạch nha, and the cane sugars are the sweets to carry home.",
+  "heroSlug": "quang-ngai--don",
+  "body": [
+    "Plan a morning or an evening around don. The shells are boiled until they open, and the meat goes back into the broth with sliced onion or hành tăm, rice paper, and xiêm chili; May and June are the peak months.",
+    "The Trà Khúc goby comes braised with green pepper or rimmed dry in a box. The sweets come from the old cane villages: kẹo gương from Thu Xà and mạch nha from Thi Phổ, the pair in the local proverb, and rock sugar and airy đường phổi from Ba La and Vạn Tượng.",
+    "Lý Sơn garlic, Sa Huỳnh crab and sea-urchin sauce, and the stream fish, cinnamon, and jar wine of Trà Bồng and Ba Tơ belong to day trips. At Lễ hội Don An Phú the stalls also sell hến, ram chả cá, bắp xào, trứng vịt lộn, bánh căn, bánh cuốn, cá viên chiên, chè, and đậu hũ."
+  ],
+  "specialtiesLead": "Don and the Trà Khúc fish come first, then the small bánh xèo, the corn roll, and the sugar sweets. Lý Sơn, Sa Huỳnh, and the mountain streams follow.",
+  "dishSlugs": [
+    "quang-ngai--don",
+    "quang-ngai--ca-bong-kho-tieu",
+    "quang-ngai--ca-bong-rim",
+    "quang-ngai--banh-xeo",
+    "quang-ngai--ram-bap",
+    "quang-ngai--com-ga",
+    "quang-ngai--bun-ca-ngu",
+    "quang-ngai--ram-thit-nuong",
+    "quang-ngai--keo-guong",
+    "quang-ngai--banh-bo",
+    "quang-ngai--banh-no",
+    "quang-ngai--xu-xoa",
+    "quang-ngai--mach-nha",
+    "quang-ngai--duong-phen",
+    "quang-ngai--duong-phoi",
+    "quang-ngai--banh-it-la-gai",
+    "quang-ngai--banh-beo",
+    "quang-ngai--oc-hut",
+    "quang-ngai--cum-num",
+    "quang-ngai--goi-toi",
+    "quang-ngai--ca-nien",
+    "quang-ngai--ca-ta-ma",
+    "quang-ngai--mam-nhum",
+    "quang-ngai--cua-huynh-de",
+    "quang-ngai--toi-ly-son",
+    "quang-ngai--que-tra-bong",
+    "quang-ngai--ruou-can"
+  ],
+  "sections": [
+    {
+      "id": "bowls",
+      "heading": "City specialties",
+      "nav": "Specialties",
+      "paragraphs": [
+        "Start with the river: don, the goby two ways, then the small cakes, rolls, and rice plates eaten across the city. Nghĩa Hành also turns cá bống sông Trà into bánh phồng and cơm rang."
+      ],
+      "spots": [
+        {
+          "name": "Don",
+          "nameVi": "Don",
+          "address": "End of Trường Sa",
+          "dishSlug": "quang-ngai--don",
+          "note": "Eat it at the end of Trường Sa, where the river reaches the sea, in the morning or the evening, with grilled rice paper, herbs, and xiêm chili. May and June are the peak months."
+        },
+        {
+          "name": "Ca bong kho tieu",
+          "nameVi": "Cá bống sông Trà kho tiêu",
+          "address": "Trà Khúc",
+          "dishSlug": "quang-ngai--ca-bong-kho-tieu",
+          "note": "A salty-sweet pepper braise of river goby, eaten with hot rice. Some cooks add fresh chili, and jars are packed to carry home."
+        },
+        {
+          "name": "Ca bong rim",
+          "nameVi": "Cá bống sông Trà rim",
+          "dishSlug": "quang-ngai--ca-bong-rim",
+          "note": "Dry, lightly chewy, salty-sweet goby, sold in boxes. Eat it with rice or straight from the box."
+        },
+        {
+          "name": "Banh xeo",
+          "nameVi": "Bánh xèo",
+          "dishSlug": "quang-ngai--banh-xeo",
+          "note": "Small crisp-edged cakes of shrimp, pork belly, and bean sprouts, cooked in an iron pan or a clay mold. People eat them at breakfast and again later in the day."
+        },
+        {
+          "name": "Ram bap",
+          "nameVi": "Ram bắp",
+          "dishSlug": "quang-ngai--ram-bap",
+          "note": "Crisp young-corn rolls, eaten with herbs and cucumber and dipped in a sweet-sour fish sauce."
+        },
+        {
+          "name": "Com ga",
+          "nameVi": "Cơm gà",
+          "dishSlug": "quang-ngai--com-ga",
+          "note": "Turmeric rice cooked in chicken stock, with tender boiled chicken and a sweet-sour dip. Some kitchens also serve roast chicken or chicken offal."
+        },
+        {
+          "name": "Bun ca ngu",
+          "nameVi": "Bún cá ngừ",
+          "dishSlug": "quang-ngai--bun-ca-ngu",
+          "note": "Tuna over rice noodles, either braised yellow and hot with turmeric and chili or in a clear broth with tomato and pineapple. Eat it at breakfast or a light lunch."
+        },
+        {
+          "name": "Ram thit nuong",
+          "nameVi": "Ram thịt nướng",
+          "dishSlug": "quang-ngai--ram-thit-nuong",
+          "note": "Charcoal-grilled pork rolls for holidays and guests, with a sour, hot, salty-sweet mắm nêm dip."
+        },
+        {
+          "name": "Banh beo",
+          "nameVi": "Bánh bèo",
+          "dishSlug": "quang-ngai--banh-beo",
+          "note": "Thick-battered rice cakes topped with shrimp and minced pork, eaten hot with fish sauce and a small aluminum spoon."
+        },
+        {
+          "name": "Oc hut",
+          "nameVi": "Ốc hút",
+          "dishSlug": "quang-ngai--oc-hut",
+          "note": "Spicy small snails with lemongrass, chili, garlic, and coconut water, for the late afternoon."
+        }
+      ]
+    },
+    {
+      "id": "sweets",
+      "heading": "Sweets to carry home",
+      "nav": "Sweets",
+      "paragraphs": [
+        "Thu Xà is the candy in the proverb and Thi Phổ in Mộ Đức the malt, while the villages along the Trà Khúc make the rock sugar and the airy sugar. Gift shelves also carry bánh thuẫn and bánh in beside bánh nổ."
+      ],
+      "spots": [
+        {
+          "name": "Keo guong",
+          "nameVi": "Kẹo gương",
+          "address": "Thu Xà",
+          "dishSlug": "quang-ngai--keo-guong",
+          "note": "Thin, crisp pieces of cane sugar, peanut, and ginger from Thu Xà, the candy in the local proverb."
+        },
+        {
+          "name": "Mach nha",
+          "nameVi": "Mạch nha",
+          "address": "Thi Phổ, Mộ Đức",
+          "dishSlug": "quang-ngai--mach-nha",
+          "note": "Thick, mild malt syrup from Thi Phổ, spread on rice paper."
+        },
+        {
+          "name": "Duong phen",
+          "nameVi": "Đường phèn",
+          "address": "Ba La and Vạn Tượng",
+          "dishSlug": "quang-ngai--duong-phen",
+          "note": "Rock sugar set for seven days in jars, white and cool or yellow and cane-scented."
+        },
+        {
+          "name": "Duong phoi",
+          "nameVi": "Đường phổi",
+          "address": "Ba La and Vạn Tượng",
+          "dishSlug": "quang-ngai--duong-phoi",
+          "note": "Light, crisp cane sugar shaped like a lung, used in chè and ginger water."
+        },
+        {
+          "name": "Banh bo",
+          "nameVi": "Bánh bó",
+          "dishSlug": "quang-ngai--banh-bo",
+          "note": "A packed, sliced rice cake with candied ginger and winter melon, soft and nutty, sold as a gift."
+        },
+        {
+          "name": "Banh no",
+          "nameVi": "Bánh nổ",
+          "dishSlug": "quang-ngai--banh-no",
+          "note": "Popped rice pressed with cane sugar and ginger, crisp and lightly sweet, eaten in spring."
+        },
+        {
+          "name": "Xu xoa",
+          "nameVi": "Xu xoa",
+          "dishSlug": "quang-ngai--xu-xoa",
+          "note": "Cool seaweed jelly from Lý Sơn rau câu, with palm sugar, ginger, and coconut milk."
+        },
+        {
+          "name": "Banh it la gai",
+          "nameVi": "Bánh ít lá gai",
+          "dishSlug": "quang-ngai--banh-it-la-gai",
+          "note": "Black ramie-leaf and sticky-rice cakes in banana leaf, filled with mung bean or coconut, made for Tết and weddings."
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "role": "regional",
+      "heading": "Regional dishes",
+      "nav": "Regional",
+      "paragraphs": [
+        "These are the plates of Lý Sơn, Sa Huỳnh, Trà Bồng, and Ba Tơ, worth the trip out of the city. The province also lists ốc đá, rượu đót, hải sâm, cau from Sơn Hà and Sơn Tây, chè Minh Long, and dứa Ba Tơ among its specialties."
+      ],
+      "spots": [
+        {
+          "name": "Cum num",
+          "nameVi": "Cúm núm",
+          "address": "Sa Huỳnh",
+          "dishSlug": "quang-ngai--cum-num",
+          "note": "Round-shelled Sa Huỳnh crab with firm, rich meat, steamed with beer or fried with salt."
+        },
+        {
+          "name": "Goi toi",
+          "nameVi": "Gỏi tỏi",
+          "address": "Lý Sơn",
+          "dishSlug": "quang-ngai--goi-toi",
+          "note": "Young Lý Sơn garlic tossed with sweet-sour fish sauce, peanuts, shrimp, and pork belly, made when the bulbs start to form."
+        },
+        {
+          "name": "Toi Ly Son",
+          "nameVi": "Tỏi Lý Sơn",
+          "address": "Lý Sơn",
+          "dishSlug": "quang-ngai--toi-ly-son",
+          "note": "Small-bulbed island garlic with a strong smell and a mild heat, sold to carry home."
+        },
+        {
+          "name": "Ca ta ma",
+          "nameVi": "Cá tà ma",
+          "address": "Lý Sơn and Bình Châu",
+          "dishSlug": "quang-ngai--ca-ta-ma",
+          "note": "Small, soft deep-water fish grilled with salt and chili, eaten with rice paper and green chili salt."
+        },
+        {
+          "name": "Mam nhum",
+          "nameVi": "Mắm nhum",
+          "address": "Sa Huỳnh",
+          "dishSlug": "quang-ngai--mam-nhum",
+          "note": "Thick fermented sea-urchin sauce from Sa Huỳnh, eaten with rice paper, herbs, or rice."
+        },
+        {
+          "name": "Cua Huynh De",
+          "nameVi": "Cua Huỳnh Đế",
+          "dishSlug": "quang-ngai--cua-huynh-de",
+          "note": "Deep-water crab with sweet white meat and rich roe, steamed or cooked into porridge or hotpot."
+        },
+        {
+          "name": "Ca nien",
+          "nameVi": "Cá niên",
+          "address": "Sơn Hà, Trà Bồng, Tây Trà, and Ba Tơ",
+          "dishSlug": "quang-ngai--ca-nien",
+          "note": "Rainy-season stream fish grilled whole and dipped in chili salt with lime, from Sơn Hà, Trà Bồng, Tây Trà, and Ba Tơ."
+        },
+        {
+          "name": "Que Tra Bong",
+          "nameVi": "Quế Trà Bồng",
+          "address": "Trà Bồng",
+          "dishSlug": "quang-ngai--que-tra-bong",
+          "note": "Thick, oily, warmly fragrant cinnamon bark from Trà Bồng, sold as quills, powder, and oil."
+        },
+        {
+          "name": "Ruou can",
+          "nameVi": "Rượu cần",
+          "address": "Ba Tơ",
+          "dishSlug": "quang-ngai--ruou-can",
+          "note": "Hre jar wine of upland sticky rice and forest-leaf yeast, shared from the jar with guests in Ba Tơ."
+        }
+      ]
+    },
+    {
+      "id": "casual",
+      "role": "casual",
+      "heading": "Casual dining",
+      "nav": "Streets",
+      "paragraphs": [
+        "Phố đêm Sông Trà is the weekend street on Tôn Đức Thắng. Don at the end of Trường Sa is a different bank from the festival ground south of cầu Cổ Lũy. Chợ Quảng Ngãi is where Vietnam Airlines says to buy specialties."
+      ],
+      "spots": [
+        {
+          "name": "Song Tra night street",
+          "nameVi": "Phố đêm Sông Trà",
+          "address": "Tôn Đức Thắng, Nghĩa Lộ",
+          "note": "About 300 m of Tôn Đức Thắng fills with stalls from 17:00 to 22:00 on Friday, Saturday, Sunday, and holidays, from Công viên Thạch Bích to cầu Thạch Bích on the provincial portal and east of the bridge in Báo Lao Động, which counts 40 food and soft-drink stalls among 72. The provincial portal dates the opening to the evening of 6 February 2026; VnExpress had said around 7 February."
+        },
+        {
+          "name": "Truong Sa river mouth",
+          "nameVi": "Cuối đường Trường Sa",
+          "address": "End of Trường Sa",
+          "note": "Báo Văn hóa sends you here for don, where the river meets the sea. May and June are the peak months."
+        },
+        {
+          "name": "Quang Ngai market",
+          "nameVi": "Chợ Quảng Ngãi",
+          "address": "159 Nguyễn Bá Loan",
+          "note": "Vietnam Airlines points to this market for the boxed fish, sugars, and sweets to carry home."
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "role": "breakfast",
+      "heading": "Breakfast",
+      "nav": "Breakfast",
+      "paragraphs": [
+        "Bún cá ngừ is breakfast or a light lunch in both its versions. Don is eaten in the morning or the evening, and bánh xèo turns up at breakfast as well as later in the day."
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Quang Ngai food guide — don, river goby, and cane sweets",
+  "seoDescription": "Don where the Trà Khúc meets the sea, peppery cá bống, small bánh xèo, kẹo gương, and mạch nha: the Quảng Ngãi plates and sweets to find."
+}

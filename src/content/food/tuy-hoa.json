@@ -1,0 +1,95 @@
+{
+  "slug": "tuy-hoa",
+  "name": "Tuy Hoa food guide",
+  "placeSlug": "tuy-hoa",
+  "summary": "Tuy Hòa eats from the market, the river bank, and the lagoon: bánh canh hẹ with sea-fish cake and chives, the ocean tuna eye stewed with thuốc bắc, and blood cockles from Đầm Ô Loan grilled until the juices run.",
+  "heroSlug": "tuy-hoa--so-huyet-o-loan",
+  "body": [
+    "Start at chợ Tuy Hòa with a bowl of bánh canh hẹ, sold all day at the Ngô Quyền and Trần Hưng Đạo corner. Then walk to Lê Duẩn and the Bạch Đằng riverbank for ocean tuna, cold slices rolled in mustard greens or the eye in its clay pot.",
+    "For the lagoon, drive 25 km north to Đầm Ô Loan for cockles and emperor crab, and to Sông Cầu for grilled chicken, jumping snails, and rượu Quán Đế. Phú Yên chicken rice is quieter than the Hội An or Tam Kỳ plates: lean yellow chicken over rice cooked in the broth."
+  ],
+  "specialtiesLead": "Start with bánh canh hẹ, the tuna eye, and the Ô Loan cockles.",
+  "dishSlugs": [],
+  "sections": [
+    {
+      "id": "specialties",
+      "heading": "Tuy Hoa specialties",
+      "nav": "Specialties",
+      "paragraphs": [
+        "Twenty-three plates, from the market noodle to the lagoon crab and the Sông Cầu grill. Bánh canh hẹ, the tuna, and the Ô Loan cockle come first."
+      ],
+      "dishSlugs": [
+        "tuy-hoa--banh-canh-he",
+        "tuy-hoa--ca-ngu-dai-duong",
+        "tuy-hoa--mat-ca-ngu",
+        "tuy-hoa--so-huyet-o-loan",
+        "tuy-hoa--cua-huynh-de",
+        "tuy-hoa--chao-hau",
+        "tuy-hoa--banh-hoi-long-heo",
+        "tuy-hoa--bo-mot-nang",
+        "tuy-hoa--com-ga",
+        "tuy-hoa--banh-beo",
+        "tuy-hoa--banh-xeo-tom-nhay",
+        "tuy-hoa--cha-dong",
+        "tuy-hoa--ca-nuc-hap",
+        "tuy-hoa--ruou-quan-de",
+        "tuy-hoa--xoai-da-trang",
+        "tuy-hoa--ga-nuong-song-cau",
+        "tuy-hoa--ghe-dam-cu-mong",
+        "tuy-hoa--ca-muong",
+        "tuy-hoa--oc-nhay",
+        "tuy-hoa--bun-bap",
+        "tuy-hoa--bun-bap-long-ca-ngu",
+        "tuy-hoa--goi-rong-bien",
+        "tuy-hoa--banh-trang-cuon"
+      ]
+    },
+    {
+      "id": "streets",
+      "heading": "Casual dining",
+      "nav": "Streets",
+      "role": "casual",
+      "paragraphs": [
+        "Four places to eat: the market for the noodle, Lê Duẩn and the Bạch Đằng bank for tuna, Độc Lập for seafood after a swim, and cầu An Hải on the lagoon."
+      ],
+      "spots": [
+        {
+          "name": "Tuy Hoa market",
+          "nameVi": "Chợ Tuy Hòa",
+          "address": "Trần Hưng Đạo side of the market",
+          "note": "Bánh canh hẹ is sold all day at the Ngô Quyền and Trần Hưng Đạo corner and along the Trần Hưng Đạo side of the market."
+        },
+        {
+          "name": "Le Duan and the Bach Dang bank",
+          "nameVi": "Lê Duẩn và bờ kè Bạch Đằng",
+          "address": "Lê Duẩn and bờ kè Bạch Đằng",
+          "note": "The street and the riverbank are where to eat the tuna eye, along with the corner of Điện Biên Phủ and Lê Duẩn."
+        },
+        {
+          "name": "Doc Lap seafood",
+          "nameVi": "Hải sản đường Độc Lập",
+          "address": "Độc Lập",
+          "note": "The beach road where people eat the fresh catch on the shore after a swim, and the same road after dark."
+        },
+        {
+          "name": "An Hai kitchens",
+          "nameVi": "Khu ẩm thực cầu An Hải",
+          "address": "Cầu An Hải, north end of Đầm Ô Loan",
+          "note": "Floating kitchens at the north end of Đầm Ô Loan, 25 km from the city, with a night boat on the lagoon."
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "heading": "Breakfast",
+      "nav": "Breakfast",
+      "role": "breakfast",
+      "paragraphs": [
+        "Bánh canh hẹ is sold all day, so the morning bowl is the same as at midday. Cơm gà works at breakfast too, and bánh tráng cuốn thịt heo luộc is the morning plate when guests are at the table."
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Tuy Hoa food guide — banh canh he, tuna eye, O Loan cockles",
+  "seoDescription": "Banh canh he at Cho Tuy Hoa, the ocean tuna eye, and cockles from Dam O Loan: 23 Tuy Hoa plates and where to eat them."
+}

@@ -238,3 +238,45 @@ A line in the dossier uses these ids. Published JSON was read only to see what i
 - Publisher: Đường sắt Việt Nam
 - Accessed: 22 Oct 2026
 - Supports: A Kép – Hạ Long route page exists. The retrieved view was a seat-class legend. No departure was printed there
+
+### S40
+- URL: https://vnexpress.net/10-mon-phai-thu-khi-ghe-ha-long-4247707.html
+- Publisher: VnExpress
+- Accessed: 23 Oct 2026
+- Supports: 16 Mar 2021. Ten names. Hạ Long plates used here: sữa chua trân châu, sam xào chua ngọt, ốc xào dừa, bánh cuốn chả mực, tiết and trứng vịt lộn hầm ngải cứu, cháo trai, bún and bánh đa hải sản, bánh trôi tàu. Sá sùng is sold on Quan Lạn. Bánh gật gù is Tiên Yên. Prices are that day’s figures
+
+### S41
+- URL: https://baoquangninh.vn/12-gio-an-uong-no-ne-voi-cac-dac-san-ha-long-post2433929.html
+- Publisher: Báo Quảng Ninh. Byline Phong Vinh - Tâm Linh/VnExpress
+- Accessed: 23 Oct 2026
+- Supports: 13 Mar 2019. Bún bề bề, bún cù kỳ described, tiết hầm, sữa chua trân châu, bánh cuốn chả mực, phở as a common breakfast. Prices are that day’s figures
+
+### S42
+- URL: https://english.baoquangninh.vn/10-ha-long-staples-worth-savoring-post2930755.html
+- Publisher: Báo Quảng Ninh, English edition
+- Accessed: 23 Oct 2026
+- Supports: 23 Jul 2021. Republication of the VnExpress list. Adds coconut milk and a price for bánh trôi, and street names for the yogurt stalls. Those additions are not in S40. Bánh gật gù is Tien Yen District. Peanut worms are sold on Quan Lan
+
+### S43
+- URL: https://baoquangninh.vn/thuong-thuc-hai-san-ha-long-post2276239.html
+- Publisher: Báo Quảng Ninh. Byline Trần Giang Nam
+- Accessed: 23 Oct 2026
+- Supports: 9 Jul 2015. The ordinary Hạ Long seafood meal and rượu ngán, three mixes. The Hải Hà anecdote in the same article is not a Hạ Long plate
+
+### S44
+- URL: https://baoquangninh.vn/goi-y-3-ngay-2-dem-du-lich-ha-long-2482017.html
+- Publisher: Báo Quảng Ninh. Byline VnExpress
+- Accessed: 23 Oct 2026
+- Supports: 6 May 2020. Seafood market under Núi Bài Thơ, 4:30 until before 7:00. Chợ Hạ Long 1 on đường Bạch Đằng, chợ Hạ Long 2 on đường Lê Lợi. Gifts: chả mực, ruốc tôm, mực một nắng, mực rim me. Shore road from phường Yết Kiêu to phường Hồng Hải. Phố Bùi Thị Xuân for snails. Road times and ticket prices in this article were not copied onto the place
+
+### S45
+- URL: https://www.quangninh.gov.vn/chuyen-de/baucu/Trang/ChiTietTinTuc.aspx?nid=141202
+- Publisher: Cổng thông tin Quảng Ninh
+- Accessed: 23 Oct 2026
+- Supports: Chả mực from mực mai at Hạ Long or Vân Đồn, hand-pounded. A trader’s early-20th-century account. Visitor quote naming morning bún, phở tôm, bề bề, and cù kỳ. VuiFest in phường Bãi Cháy, nearly 100 tents and 40 stalls, bánh cuốn chả mực, seafood, sữa chua trân châu. A direct fetch timed out. The article text was read from the returned excerpts. A publication date was not in those excerpts
+
+### S46
+- URL: https://dulich.quangninh.gov.vn/Trang/ChiTietTinTuc.aspx?nid=3748
+- Publisher: Chuyên trang du lịch Quảng Ninh
+- Accessed: 23 Oct 2026
+- Supports: Xôi chả mực and ổi Hoành Bồ as local Hạ Long products at phố đi bộ Bài Thơ. The guava stall sold bags of about 5 kg and up. The grilled-seafood list in the same article is a suggestion, not a menu that was open. A direct fetch timed out. The article text was read from the returned excerpts. A publication date was not in those excerpts

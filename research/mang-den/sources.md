@@ -7,6 +7,7 @@ Checked: 21 Oct 2026
 - Publisher: Vietnam National Authority of Tourism (Vietnam Tourism)
 - Accessed: 21 Oct 2026
 - Supports: Altitude near 1,200 m, Pleiku airport roughly 100 km away, seven lakes and three waterfalls, Pa Sy and Dak Ke falls, Dak Ke lake, Khanh Lam pagoda with about 200 stone steps, Konbring/Kon Pring village, cloud hunting, specialty dishes, pine forest camping areas, ethnic groups
+- Re-checked 23 Oct 2026: grilled chicken (ga nuong com lam) as the signature; lam rice in young bamboo with peanut salt, in restaurants and from street vendors; grilled pork skewers; porcupine grilled, stuffed in bamboo shoots, in soup, or packed in dong leaves; fried crickets with beer or Vietnamese wine; vegetable salad of about 40 indigenous vegetables, leaves, sprigs, and roots; forest banana salad; hot coffee at sunrise; homemade wine through a long bamboo straw; traditional home-made wine at Konbring. No Vietnamese names printed for porcupine, fried crickets, the vegetable tray, or the banana salad. No stall prices.
 
 ### S2
 - URL: https://vietnamtourism.vn/en/index.php/news/items/17576
@@ -73,6 +74,7 @@ Checked: 21 Oct 2026
 - Publisher: Vietnam Tourism
 - Accessed: 21 Oct 2026
 - Supports: Toong Dam Lake named; temperate climate; community houses; slow-travel positioning
+- Re-checked 23 Oct 2026: locally grown Arabica while the mist lifts; rượu cần called fermented glutinous rice wine, around a fire at night with gongs
 
 ### S13
 - URL: https://en.baochinhphu.vn/names-and-administrative-centers-of-34-provinces-and-centrally-run-cities-specified-111250415094350491.htm
@@ -85,3 +87,27 @@ Checked: 21 Oct 2026
 - Publisher: Kon Tum province portal
 - Accessed: 21 Oct 2026
 - Supports: June 2025 plan: Măng Đen commune merges Mang Den town, Mang Canh, Dak Tang; administrative center at former Mang Den town
+
+### S15
+- URL: https://nongthon.vietnamtourism.gov.vn/kham-pha-cho-phien-dam-chat-nui-rung-giua-doi-thong-mang-den-quang-ngai/
+- Publisher: Vietnam Tourism rural portal (TITC)
+- Accessed: 23 Oct 2026
+- Supports: Chợ phiên Măng Đen, Saturday and Sunday, pine hill on Hùng Vương, xã Măng Đen, Quảng Ngãi; running since October 2023; 24 stalls (9 stilt houses, 15 others); specialty list trâu gác bếp, cá nướng, cua nướng, khổ qua rừng, cà đắng, măng rừng, gà nướng cơm lam, heo làng nướng, bánh sừng trâu, hạt dẻ, hạt cờ nia; hạt kơ nia described as a food (almond-sized, thin brown shell, white kernel, béo ngậy, thơm, ngọt bùi); farm goods and medicinal goods named separately
+
+### S16
+- URL: https://nongthon.vietnamtourism.gov.vn/doc-dao-cho-phien-mang-den/
+- Publisher: Báo Kon Tum, republished on the Vietnam Tourism rural portal
+- Accessed: 23 Oct 2026
+- Supports: Market opened 7 October 2023; Saturday and Sunday; pine hill, Hùng Vương, thị trấn Măng Đen, Kon Plông; 24 stalls, later 32; dried foods măng le, trâu khô, bò khô, thịt heo hun khói; farm goods cà phê, mắc ca, gạo đỏ; visitor names cơm làng, thịt hun khói, and wrapping bánh sừng trâu
+
+### S17
+- URL: https://nongthon.vietnamtourism.gov.vn/kon-tum-cho-phien-mang-den-gop-phan-tao-viec-lam-cho-lao-dong-dia-phuong/
+- Publisher: Báo Kon Tum, republished on the Vietnam Tourism rural portal
+- Accessed: 23 Oct 2026
+- Supports: Market from 7 October 2023, weekends, Vườn thông at the district central square; more than 30 stalls at the start, more than 40 later; center stall sells wine products, specialty salt, and provincial 3-star OCOP thịt heo, thịt bò, and thịt trâu hun khói
+
+### S18
+- URL: https://nongthon.vietnamtourism.gov.vn/khu-du-lich-sinh-thai-mang-den-kon-tum-diem-den-niu-chan-du-khach/
+- Publisher: Báo Kon Tum, republished on the Vietnam Tourism rural portal
+- Accessed: 23 Oct 2026
+- Supports: Cultural night after a race opening on the afternoon of 6 January, at Không gian văn hóa “Thiên đường Tây Nguyên- Măng Đen”; foods cơm lam, gà nướng, thịt xiên, bánh nếp, rượu cần

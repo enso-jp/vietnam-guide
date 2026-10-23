@@ -1,7 +1,7 @@
 # Sources — Con Dao
 
 Slug: `con-dao`
-Checked: 21 Oct 2026
+Checked: 23 Oct 2026
 
 Accessed 21 Oct 2026 unless a line says otherwise. A fee or an hour with one publisher stays tied to that publisher. A page that did not load is not used as a number.
 
@@ -124,3 +124,27 @@ Accessed 21 Oct 2026 unless a line says otherwise. A fee or an hour with one pub
 - Publisher: Ticket desk page citing Resolution 03/2020/NQ-HĐND of 4 Aug 2020. Not the council PDF.
 - Accessed: 21 Oct 2026
 - Supports: the desk prints 50,000 VND and a half-price 25,000 VND. The resolution text was not opened. No second publisher printed the same relic-ticket figures on a page that loaded. Relic ticket: Check on arrival.
+
+### S21
+- URL: https://www.vietnam.travel/things-to-do/con-dao-specialty-cuisine
+- Publisher: Vietnam Tourism (vietnam.travel). Each dish block on the account says Source: Internet. No article date was printed.
+- Accessed: 23 Oct 2026
+- Supports: ốc vú nàng; cá mú đỏ also called song fish, up to 30 kg, most often sold at 5 kg; tôm hùm đỏ with both the farming-kingdom line and the wild-only line; hạt bàng salt or sugar roast, July–August fruiting, and a prison account that adds insulation, paper, and marking the year. No prices.
+
+### S22
+- URL: https://vov.vn/kinh-te/san-pham-ocop-cua-con-dao-phai-mang-dac-trung-rung-bien-post1197501.vov
+- Publisher: VOV, 6 May 2025
+- Accessed: 23 Oct 2026
+- Supports: three OCOP three-star products: bánh quy hạt bàng, mực một nắng, cá thu một nắng. Trademark in 2020 and OCOP in 2024 for the two seafood products. Workshop on Nguyễn Duy Trinh, khu 5. Chocolate and traditional biscuit fillings. Planned, not current dishes: kẹo hạt bàng, nước ép rong biển, trà thảo mộc. A visit to oyster-ferment making is described as a model the district will build, not a clock.
+
+### S23
+- URL: https://www.vietnam.vn/nhung-trai-nghiem-khien-con-dao-tro-thanh-diem-den-khac-biet
+- Publisher: Báo Điện Biên Phủ, 31 Jul 2026, via Vietnam.vn. Original named as https://baodienbienphu.vn/tin-bai/du-lich/nhung-trai-nghiem-khien-con-dao-tro-thanh-diem-den-khac-biet
+- Accessed: 23 Oct 2026
+- Supports: ốc vú nàng usually boiled or grilled; cua mặt trăng, cá mú, mực, and tôm hùm on seaside restaurant menus; the fishing village as the area. No street and no price. The article also prints turtle months from about April to October. The park notice used for the place does not print months. Both stay. This food pass does not change the place season.
+
+### S24
+- URL: https://www.vietnam.vn/top-19-dac-san-con-dao-ngon-kho-cuong-du-khach-khong-the-bo-lo
+- Publisher: Vietnam.vn, byline Việt Nam, 24 May 2024. No newspaper URL on the account.
+- Accessed: 23 Oct 2026
+- Supports: a roundup that names cháo hàu, bún riêu Hai Khiêm, bánh xèo, ốc tai tượng, yến sào, sâm đất, rượu sâm, and rượu nho rừng, plus prices. Hạt bàng is printed at 200,000–280,000 đồng per kilogram, which conflicts with S14 at 250,000–400,000. Not used as a public number. Dishes that appear only here stay off the public guide.

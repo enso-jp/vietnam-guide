@@ -1,0 +1,268 @@
+{
+  "slug": "mang-den",
+  "name": "Mang Den food guide",
+  "placeSlug": "mang-den",
+  "summary": "Mang Den eats from the farm, the forest, and the grill: free-range chicken with sticky rice from a bamboo tube, thick pork skewers, wild banana-flower salad, and rice wine around the fire after dark. On weekends, the market on the pine hill adds smoked buffalo, forest bamboo shoots, and the highland nut hạt kơ nia.",
+  "heroSlug": "mang-den--ga-nuong-com-lam",
+  "body": [
+    "Start with the chicken. It is free-range, raised on natural feed, grilled in the mountain style, and eaten with cơm lam, sticky rice grilled in young bamboo and dipped in peanut salt. Thick skewers of locally raised pork round out the plate.",
+    "Then go further. Porcupine is the local delicacy, served grilled, in soup, stuffed into bamboo shoots, or wrapped in dong leaves. Fried crickets are the crunchy, spiced snack with a beer. A salad of about 40 indigenous vegetables and roots, and diced wild banana flower in a sweet-and-sour broth, keep the table green.",
+    "On Saturday and Sunday, Chợ phiên Măng Đen sets up on the pine hill along Hùng Vương, and it has run since October 2023. The Vietnam Tourism rural portal counts 24 stalls. Báo Kon Tum reported 24 at the 7 October 2023 opening and 32 later, and in another article more than 30 at the start and more than 40 since, in the pine garden by the district central square."
+  ],
+  "specialtiesLead": "Grilled chicken with bamboo-tube rice leads the list. The rest come from the highland kitchen, the cultural night, and the weekend market.",
+  "dishSlugs": [
+    "mang-den--ga-nuong-com-lam",
+    "mang-den--com-lam",
+    "mang-den--thit-xien",
+    "mang-den--porcupine",
+    "mang-den--fried-crickets",
+    "mang-den--vegetable-salad",
+    "mang-den--forest-banana-salad",
+    "mang-den--ca-phe",
+    "mang-den--ruou-can",
+    "mang-den--trau-gac-bep",
+    "mang-den--ca-nuong",
+    "mang-den--cua-nuong",
+    "mang-den--kho-qua-rung",
+    "mang-den--ca-dang",
+    "mang-den--mang-rung",
+    "mang-den--heo-lang-nuong",
+    "mang-den--banh-sung-trau",
+    "mang-den--hat-de",
+    "mang-den--hat-ko-nia",
+    "mang-den--banh-nep",
+    "mang-den--mang-le",
+    "mang-den--thit-heo-hun-khoi",
+    "mang-den--bo-kho",
+    "mang-den--com-lang"
+  ],
+  "sections": [
+    {
+      "id": "grill",
+      "heading": "The grill",
+      "nav": "The grill",
+      "paragraphs": [
+        "The chicken, the bamboo-tube rice, and the pork skewers are the plates to order first. The weekend market adds grilled village pork, grilled fish, and grilled crab."
+      ],
+      "spots": [
+        {
+          "name": "Grilled chicken",
+          "nameVi": "Gà nướng cơm lam",
+          "note": "Free-range chicken grilled in the mountain style, served with sticky rice from a bamboo tube. It is the town’s signature plate.",
+          "photo": "mang-den--ga-nuong-com-lam",
+          "dishSlug": "mang-den--ga-nuong-com-lam"
+        },
+        {
+          "name": "Lam rice",
+          "nameVi": "Cơm lam",
+          "note": "Sticky rice grilled in a young bamboo tube, broken open and eaten with peanut salt.",
+          "photo": "mang-den--com-lam",
+          "dishSlug": "mang-den--com-lam"
+        },
+        {
+          "name": "Grilled pork skewers",
+          "nameVi": "Thịt xiên",
+          "note": "Thick chunks of locally raised pork on a skewer, eaten with rice or beer.",
+          "photo": "mang-den--thit-xien",
+          "dishSlug": "mang-den--thit-xien"
+        },
+        {
+          "name": "Heo lang nuong",
+          "nameVi": "Heo làng nướng",
+          "address": "Hùng Vương",
+          "note": "Grilled village pork from the weekend market, a different plate from the skewers.",
+          "dishSlug": "mang-den--heo-lang-nuong"
+        },
+        {
+          "name": "Ca nuong",
+          "nameVi": "Cá nướng",
+          "address": "Hùng Vương",
+          "note": "Grilled fish, one of the weekend market’s specialties.",
+          "dishSlug": "mang-den--ca-nuong"
+        },
+        {
+          "name": "Cua nuong",
+          "nameVi": "Cua nướng",
+          "address": "Hùng Vương",
+          "note": "Grilled crab, one of the weekend market’s specialties.",
+          "photo": "mang-den--cua-nuong",
+          "dishSlug": "mang-den--cua-nuong"
+        }
+      ]
+    },
+    {
+      "id": "forest",
+      "heading": "Forest plate",
+      "nav": "Forest plate",
+      "paragraphs": [
+        "The forest plate is porcupine, fried crickets, the vegetable salad, and the wild banana-flower salad. At the market, look for wild bitter melon, bitter eggplant, forest bamboo shoot, and dried măng le."
+      ],
+      "spots": [
+        {
+          "name": "Porcupine",
+          "note": "Lean porcupine meat, grilled, stuffed into bamboo shoots, cooked in soup, or wrapped in dong leaves.",
+          "dishSlug": "mang-den--porcupine"
+        },
+        {
+          "name": "Fried crickets",
+          "note": "A crunchy, nicely spiced snack to eat with beer or Vietnamese wine.",
+          "photo": "mang-den--fried-crickets",
+          "dishSlug": "mang-den--fried-crickets"
+        },
+        {
+          "name": "Vegetable salad",
+          "note": "About 40 indigenous vegetables, leaves, sprigs, and roots on one plate, beside grilled meat or hot pot.",
+          "dishSlug": "mang-den--vegetable-salad"
+        },
+        {
+          "name": "Forest banana salad",
+          "note": "Sweet wild banana flowers, diced into a sweet-and-sour broth with chicken, pork or beef ears, herbs, and roasted peanuts.",
+          "photo": "mang-den--forest-banana-salad",
+          "dishSlug": "mang-den--forest-banana-salad"
+        },
+        {
+          "name": "Kho qua rung",
+          "nameVi": "Khổ qua rừng",
+          "address": "Hùng Vương",
+          "note": "Wild bitter melon, sold at the weekend market.",
+          "dishSlug": "mang-den--kho-qua-rung"
+        },
+        {
+          "name": "Ca dang",
+          "nameVi": "Cà đắng",
+          "address": "Hùng Vương",
+          "note": "Bitter eggplant, sold at the weekend market.",
+          "dishSlug": "mang-den--ca-dang"
+        },
+        {
+          "name": "Mang rung",
+          "nameVi": "Măng rừng",
+          "address": "Hùng Vương",
+          "note": "Forest bamboo shoot from the weekend market. Dried măng le is sold as a separate product.",
+          "dishSlug": "mang-den--mang-rung"
+        },
+        {
+          "name": "Mang le",
+          "nameVi": "Măng le",
+          "address": "Hùng Vương",
+          "note": "Dried bamboo shoot, sold with the market’s dried buffalo, dried beef, and smoked pork.",
+          "dishSlug": "mang-den--mang-le"
+        }
+      ]
+    },
+    {
+      "id": "kept",
+      "heading": "Dried and smoked",
+      "nav": "Dried and smoked",
+      "paragraphs": [
+        "The dried-food stalls sell buffalo, beef, and pork, much of it smoked. The center stall carries the provincial three-star OCOP smoked meats."
+      ],
+      "spots": [
+        {
+          "name": "Trau gac bep",
+          "nameVi": "Trâu gác bếp",
+          "address": "Hùng Vương",
+          "note": "The market’s buffalo specialty. Dried buffalo and three-star OCOP smoked buffalo are sold too.",
+          "photo": "mang-den--trau-gac-bep",
+          "dishSlug": "mang-den--trau-gac-bep"
+        },
+        {
+          "name": "Thit heo hun khoi",
+          "nameVi": "Thịt heo hun khói",
+          "address": "Hùng Vương",
+          "note": "Smoked pork from the dried-food stalls, and a three-star OCOP product at the center stall.",
+          "dishSlug": "mang-den--thit-heo-hun-khoi"
+        },
+        {
+          "name": "Bo kho",
+          "nameVi": "Bò khô",
+          "address": "Hùng Vương",
+          "note": "Dried beef from the dried-food stalls. The center stall also sells three-star OCOP smoked beef.",
+          "dishSlug": "mang-den--bo-kho"
+        }
+      ]
+    },
+    {
+      "id": "cakes",
+      "heading": "Cakes, nuts, and the jar",
+      "nav": "Cakes and the jar",
+      "paragraphs": [
+        "Bánh sừng trâu, chestnuts, and hạt kơ nia are market foods. Bánh nếp is the cultural-night cake. Rượu cần is the jar wine. Cơm làng is village rice, not cơm lam."
+      ],
+      "spots": [
+        {
+          "name": "Banh sung trau",
+          "nameVi": "Bánh sừng trâu",
+          "address": "Hùng Vương",
+          "note": "A wrapped cake from the weekend market. One visitor joined in wrapping it at the stall.",
+          "dishSlug": "mang-den--banh-sung-trau"
+        },
+        {
+          "name": "Banh nep",
+          "nameVi": "Bánh nếp",
+          "note": "A sticky-rice cake on the cultural-night table, with cơm lam, grilled chicken, skewers, and rượu cần.",
+          "dishSlug": "mang-den--banh-nep"
+        },
+        {
+          "name": "Hat de",
+          "nameVi": "Hạt dẻ",
+          "address": "Hùng Vương",
+          "note": "Chestnuts, sold at the weekend market.",
+          "dishSlug": "mang-den--hat-de"
+        },
+        {
+          "name": "Hat ko nia",
+          "nameVi": "Hạt kơ nia",
+          "address": "Hùng Vương",
+          "note": "An almond-sized nut with a thin brown shell. The white kernel is rich, fragrant, and sweet and nutty.",
+          "photo": "mang-den--hat-ko-nia",
+          "dishSlug": "mang-den--hat-ko-nia"
+        },
+        {
+          "name": "Com lang",
+          "nameVi": "Cơm làng",
+          "address": "Hùng Vương",
+          "note": "Village rice, eaten at the market with smoked meat and traditional cakes. Not the bamboo-tube cơm lam.",
+          "dishSlug": "mang-den--com-lang"
+        },
+        {
+          "name": "Ruou can",
+          "nameVi": "Rượu cần",
+          "note": "Fermented glutinous rice wine, poured around the fire at night. Village homemade wine comes through a long bamboo straw.",
+          "photo": "mang-den--ruou-can",
+          "dishSlug": "mang-den--ruou-can"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "heading": "Weekend market",
+      "nav": "Weekend market",
+      "paragraphs": [
+        "Chợ phiên Măng Đen meets on Saturday and Sunday on the pine hill along Hùng Vương, and it has run since October 2023. The Vietnam Tourism rural portal counts 24 stalls, nine of them stilt houses. Báo Kon Tum reported 24 at the 7 October 2023 opening and 32 later. Another Báo Kon Tum article places the market in the pine garden by the district central square, with more than 30 stalls at the start and more than 40 since.",
+        "Beyond cooked food, the stalls sell local coffee, macadamia, red rice, organic vegetables, cherry tomatoes, pomelo, oranges, cucumber, and strawberries. The center stall sells wine products and specialty salt. Medicinal goods include hồng đẳng sâm, đương quy, sơn tra, chè dây, tinh bột nghệ, chuối hột, nấm linh chi cổ cò, sâm dây, giảo cổ lam, nấm lim xanh, and mật ong rừng."
+      ]
+    },
+    {
+      "id": "breakfast",
+      "role": "breakfast",
+      "heading": "Breakfast",
+      "nav": "Breakfast",
+      "paragraphs": [
+        "Start the day with a hot coffee at sunrise, while the town is still in cloud. Mang Den grows its own Arabica, and the weekend market sells local coffee to take home."
+      ],
+      "spots": [
+        {
+          "name": "Arabica coffee",
+          "nameVi": "Cà phê",
+          "note": "A hot cup at sunrise while the town sits in cloud, from Arabica grown on the plateau.",
+          "photo": "mang-den--ca-phe",
+          "dishSlug": "mang-den--ca-phe"
+        }
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Mang Den food — grilled chicken and lam rice",
+  "seoDescription": "Grilled chicken with bamboo-tube rice, pork skewers, porcupine, fried crickets, and the weekend market on Hùng Vương: what to eat in Mang Den."
+}

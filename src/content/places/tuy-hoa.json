@@ -25,11 +25,36 @@
     "nha-trang",
     "buon-ma-thuot"
   ],
+  "foodSlug": "tuy-hoa",
   "routeSlugs": [],
   "itinerarySlugs": [
     "tuy-hoa-day"
   ],
-  "dishSlugs": [],
+  "dishSlugs": [
+    "tuy-hoa--banh-canh-he",
+    "tuy-hoa--ca-ngu-dai-duong",
+    "tuy-hoa--mat-ca-ngu",
+    "tuy-hoa--so-huyet-o-loan",
+    "tuy-hoa--cua-huynh-de",
+    "tuy-hoa--chao-hau",
+    "tuy-hoa--banh-hoi-long-heo",
+    "tuy-hoa--bo-mot-nang",
+    "tuy-hoa--com-ga",
+    "tuy-hoa--banh-beo",
+    "tuy-hoa--banh-xeo-tom-nhay",
+    "tuy-hoa--cha-dong",
+    "tuy-hoa--ca-nuc-hap",
+    "tuy-hoa--ruou-quan-de",
+    "tuy-hoa--xoai-da-trang",
+    "tuy-hoa--ga-nuong-song-cau",
+    "tuy-hoa--ghe-dam-cu-mong",
+    "tuy-hoa--ca-muong",
+    "tuy-hoa--oc-nhay",
+    "tuy-hoa--bun-bap",
+    "tuy-hoa--bun-bap-long-ca-ngu",
+    "tuy-hoa--goi-rong-bien",
+    "tuy-hoa--banh-trang-cuon"
+  ],
   "seoTitle": "Tuy Hoa city guide: the Doc Lap beach, not Nha Trang",
   "seoDescription": "Stay for the Độc Lập beach: longer than 10 km on one page, about 10 km on another. Quy Nhon is about 90 km. The Nha Trang road kilometre is check on arrival.",
   "intro": [
@@ -67,6 +92,21 @@
     "To carry home, the handbook names frozen tuna and tuna eye, dried squid, bò một nắng, bánh tráng, mắm cá cơm, and shell crafts. Rượu Quán Đế comes from Xuân Lộc and Xuân Bình in Sông Cầu. No shop is a pick. A large mall was not named. The stone plates and the cape light are the day trips. Their sizes and the two descriptions of the light are in the introduction."
   ],
   "interestGroups": [
+    {
+      "title": "Dining and F&B",
+      "summary": "Bánh canh hẹ at the market, the tuna eye, and sò huyết from Đầm Ô Loan.",
+      "body": [
+        "Du lịch Phú Yên’s 6 October 2024 cẩm nang sells bánh canh hẹ all day at chợ Tuy Hòa. The tuna eye is the plate on Lê Duẩn and bờ kè Bạch Đằng. Sò huyết from Đầm Ô Loan is grilled until the liquor runs. A stall price is Check on arrival."
+      ],
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "Bánh canh hẹ, the tuna eye, and sò huyết from Đầm Ô Loan. A stall price is Check on arrival.",
+          "icon": "food",
+          "to": "food"
+        }
+      ]
+    },
     {
       "title": "The city sand",
       "summary": "The swim and the night walk on Độc Lập, for a stay that is this beach.",

@@ -2,12 +2,12 @@
   "slug": "mai-chau",
   "name": "Mai Chau food guide",
   "placeSlug": "mai-chau",
-  "summary": "Dinner is the stilt house in Bản Lác or Pom Coọng. Cơm lam comes out of a bamboo tube. Gà đồi, pork skewers, xôi nếp, and rượu cần sit on the same table. Bản Hịch and Hang Kia name further plates. A stall price was not printed. Check on arrival.",
+  "summary": "Dinner in Mai Châu is the stilt-house table in Bản Lác or Pom Coọng. Cơm lam comes out of its bamboo tube, hill chicken comes off the charcoal with a dish of chẩm chéo, and jar wine sees out the evening. Up the valley, Bản Hịch and the Hmong village of Hang Kia cook plates of their own.",
   "body": [
-    "Eat Mai Châu at the homestay, not on a restaurant street. Vietnam Tourism and the Phú Thọ tourism list name the valley plates. Bản Hịch, about 12 km from the old district center, has its own three. Hang Kia has the upland rice, the village pig, grilled chicken, and bánh dày. A 2019 newspaper feature adds the stream fish, the mustard soup, the smoked buffalo, and chẩm chéo. The same words stay apart when the sources use two names: gà đồi and gà nướng, vịt cỏ and vịt đầu xanh, xôi nếp and xôi nếp nương, the three pigs, and the three fish.",
-    "Cơm lam is sticky rice cooked in a bamboo tube. Vietnam Tourism says peel the tube and dip the rice in minced peanuts. The photograph filed with that dish was taken in the Central Highlands, and the skewer beside the rice is a different grill. No Mai Châu plate photograph is filed with the other dishes. The price of every plate below is Check on arrival."
+    "Eat Mai Châu at the homestay, not on a restaurant street. The valley table runs to grilled chicken, pork skewers with mắc khén, sticky rice, grass duck, sour bamboo, and the insect plates: fried cicadas, grilled crickets, and forest bee pupae. Bản Hịch, about 12 km from the old district center, has three dishes of its own, and Hang Kia adds upland sticky rice, village pig, grilled chicken, and bánh dày.",
+    "Thai houses also keep the slower dishes: buffalo hung for months in the kitchen smoke and eaten with rượu Mai Hạ, upland sticky rice steamed in a wooden steamer, and stream fish fried and served with a sharp, slightly bitter mustard soup. Some of these are not cooked every day, so ask your host ahead."
   ],
-  "specialtiesLead": "The homestay table, the Bản Hịch hamlet, and Hang Kia. Drinks and chẩm chéo are on the list. A price is Check on arrival.",
+  "specialtiesLead": "The homestay table first, then the Bản Hịch hamlet and Hang Kia. Two wines and a dipping sauce sit on the list with the plates.",
   "dishSlugs": [],
   "sections": [
     {
@@ -15,157 +15,219 @@
       "heading": "On the homestay table",
       "nav": "Specialties",
       "paragraphs": [
-        "These are the plates, the two wines, and the sauce the sources name for this valley and its highland. Streets and restaurant doors are not on the list. Ask at the house. The hour is Check on arrival."
+        "These are the plates, the two wines, and the dipping sauce cooked in the valley and its highland. Ask at the house for them."
       ],
       "spots": [
         {
           "name": "Bamboo sticky rice",
           "nameVi": "Cơm lam",
-          "note": "Sticky rice cooked in a bamboo tube. Vietnam Tourism says peel the tube and dip the rice in minced peanuts at a Bản Lác or Pom Coọng homestay. The hour and the price are Check on arrival. The photograph filed with the dish was taken in the Central Highlands, and the skewer in that frame is a different grill.",
+          "note": "Sticky rice cooked inside a bamboo tube. Peel the tube back and dip the rice in minced peanuts.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
+          "photo": "mai-chau--com-lam",
           "dishSlug": "com-lam"
         },
         {
           "name": "Hill chicken",
           "nameVi": "Gà đồi",
-          "note": "Grilled native chicken on the Vietnam Tourism list. The 2019 feature says the birds run the hills, the meat is firm, and the chicken is grilled over charcoal without a smoke taste, or steamed with lime leaf, then eaten with chẩm chéo. The hour and the price are Check on arrival.",
+          "note": "Native chicken that runs the hills, with firm meat. It comes grilled over charcoal without a smoky taste, or steamed with lime leaf, with chẩm chéo for dipping.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "ga-doi"
         },
         {
           "name": "Pork skewers",
           "nameVi": "Thịt lợn xiên nướng",
-          "note": "Named by Vietnam Tourism. A Báo Phú Thọ guest meal puts thịt xiên with mắc khén beside xôi and grilled fish. The hour and the price are Check on arrival.",
+          "note": "Grilled pork skewers, one of the valley’s favourite homestay plates. Guests eat them with mắc khén beside sticky rice and grilled fish.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
+          "photo": "mai-chau--thit-lon-xien",
           "dishSlug": "thit-lon-xien"
         },
         {
           "name": "Fried cicadas",
           "nameVi": "Ve sầu chiên",
-          "note": "Vietnam Tourism calls stuffed fried cicadas a local dish. A season and a method beyond the name were not printed. The price is Check on arrival.",
+          "note": "Cicadas, stuffed and fried, a local dish of the valley.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
+          "photo": "mai-chau--ve-sau-chien",
           "dishSlug": "ve-sau-chien"
         },
         {
           "name": "Grass duck",
           "nameVi": "Vịt cỏ",
-          "note": "On the Phú Thọ tourism list for the valley. A method was not printed. Kept apart from vịt đầu xanh. The price is Check on arrival.",
+          "note": "Grass duck, one of the plates families serve in the Mai Châu valley.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "vit-co"
         },
         {
           "name": "Suckling pig",
           "nameVi": "Lợn cắp nách",
-          "note": "On the Phú Thọ tourism list as its own item, beside lợn mán. A method was not printed. The price is Check on arrival.",
+          "note": "Lợn cắp nách is one of the pork dishes on the valley table, served as its own plate beside lợn mán.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "lon-cap-nach"
         },
         {
           "name": "Man pig",
           "nameVi": "Lợn mán",
-          "note": "On the Phú Thọ tourism list as its own item, beside lợn cắp nách. Kept apart from lợn bản. A method and a price are Check on arrival.",
+          "note": "Lợn mán is another of the valley’s pork dishes, served beside lợn cắp nách.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
+          "photo": "mai-chau--lon-man",
           "dishSlug": "lon-man"
         },
         {
           "name": "Grilled chicken",
           "nameVi": "Gà nướng",
-          "note": "On the Phú Thọ tourism list, and among Hang Kia dishes on the rural-tourism feature. Kept apart from gà đồi because the sources use both names. A method and a price are Check on arrival.",
+          "note": "Grilled chicken, cooked on the valley table and in the Hmong village of Hang Kia.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
+          "photo": "mai-chau--ga-nuong",
           "dishSlug": "ga-nuong"
         },
         {
           "name": "Grilled crickets",
           "nameVi": "Dế nướng",
-          "note": "On the Phú Thọ tourism list. The name is not ve sầu chiên. A method and a price are Check on arrival.",
+          "note": "Grilled crickets, one of the valley’s insect plates.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "de-nuong"
         },
         {
           "name": "Sticky rice",
           "nameVi": "Xôi nếp",
-          "note": "On the Phú Thọ tourism list and in the Pom Coọng account. Kept apart from xôi nếp nương. A Báo Phú Thọ guest meal puts it with grilled fish and pork skewers with mắc khén. The price is Check on arrival.",
+          "note": "Sticky rice that comes with the homestay meal in Pom Coọng and the Thai villages. Guests eat it with grilled fish and pork skewers with mắc khén.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
+          "photo": "mai-chau--xoi-nep",
           "dishSlug": "xoi-nep"
         },
         {
           "name": "Jar wine",
           "nameVi": "Rượu cần",
-          "note": "On the Phú Thọ tourism list and in the Pom Coọng account, with the evening at the house. The straw ritual was not printed. The price is Check on arrival.",
+          "note": "Jar wine, brought out with the evening at the stilt house in Pom Coọng and across the valley.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
+          "photo": "mai-chau--ruou-can",
           "dishSlug": "ruou-can"
         },
         {
           "name": "Mai Ha wine",
           "nameVi": "Rượu Mai Hạ",
-          "note": "On the Phú Thọ tourism list. The 2019 feature calls it a Thai wine made from forest leaves, drunk with trâu gác bếp. No strength is printed. Mai Hạ is also a commune name from 2025. The wine name is older than that commune. The price is Check on arrival.",
+          "note": "A Thai wine made with forest leaves, drunk alongside smoked buffalo.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "ruou-mai-ha"
         },
         {
           "name": "Forest bee pupae",
           "nameVi": "Nhộng ong rừng",
-          "note": "On the Phú Thọ tourism list. A method and a price are Check on arrival.",
+          "note": "Pupae of forest bees, another of the valley’s insect plates.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "nhong-ong-rung"
         },
         {
           "name": "Sour bamboo",
           "nameVi": "Măng chua",
-          "note": "On the Phú Thọ tourism list. A method and a price are Check on arrival.",
+          "note": "Sour bamboo shoots from the valley table.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
+          "photo": "mai-chau--mang-chua",
           "dishSlug": "mang-chua"
         },
         {
           "name": "Green-headed duck",
           "nameVi": "Vịt đầu xanh",
-          "note": "Named at Bản Hịch, about 12 km from the old district center. Kept apart from vịt cỏ. A method and a price are Check on arrival.",
+          "note": "Green-headed duck, one of the three plates Bản Hịch cooks, about 12 km from the old district center.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "vit-dau-xanh"
         },
         {
           "name": "Sang greens",
           "nameVi": "Rau sắng",
-          "note": "Named at Bản Hịch. A soup or a stir-fry method was not printed. The price is Check on arrival.",
+          "note": "Sắng greens, another of the three plates Bản Hịch cooks.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
+          "photo": "mai-chau--rau-sang",
           "dishSlug": "rau-sang"
         },
         {
           "name": "Green pickled fish",
           "nameVi": "Cá dầm xanh",
-          "note": "Named at Bản Hịch. Kept apart from cá suối. A method and a price are Check on arrival.",
+          "note": "Green pickled fish, the last of the three plates Bản Hịch cooks.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "ca-dam-xanh"
         },
         {
           "name": "Upland sticky rice",
           "nameVi": "Xôi nếp nương",
-          "note": "Named at Hang Kia. The 2019 feature says Thai families steam it in a wooden steamer, and that it is a guest dish to ask for ahead. Eat it with muối vừng, or with grilled village pork or grilled gà đồi. The price is Check on arrival.",
+          "note": "Upland sticky rice that Thai families steam in a wooden steamer, a guest dish worth asking for ahead. Eat it with sesame salt, grilled village pork, or grilled hill chicken.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "xoi-nep-nuong"
         },
         {
           "name": "Village pig",
           "nameVi": "Lợn bản",
-          "note": "Named at Hang Kia as lợn bản. The 2019 feature says thịt heo bản, grilled beside the sticky rice. Both names stay. A Hang Kia method and a price are Check on arrival.",
+          "note": "Village pig, cooked at Hang Kia and grilled beside the sticky rice in Thai houses.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "lon-ban"
         },
         {
           "name": "Banh day",
           "nameVi": "Bánh dày",
-          "note": "Named at Hang Kia with the other Hmong-village dishes. A method and a price are Check on arrival.",
+          "note": "A rice cake served among the Hmong-village dishes of Hang Kia.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
+          "photo": "mai-chau--banh-day",
           "dishSlug": "banh-day"
         },
         {
           "name": "Stream fish",
           "nameVi": "Cá suối",
-          "note": "Named at Pom Coọng. The 2019 feature says it is a shared name for small fish such as cá bống and cá quả, fried or grilled, and that the bones can be eaten. It is not on the table every day. A Báo Phú Thọ guest meal names cá nướng. Kept apart from cá suối chiên. The price is Check on arrival.",
+          "note": "Small stream fish such as goby and snakehead, fried or grilled and eaten bones and all. It is not on the table every day, so ask the house.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "ca-suoi"
         },
         {
           "name": "Fried stream fish",
           "nameVi": "Cá suối chiên",
-          "note": "The 2019 feature names the fried plate on its own, served with canh cải mèo. The price is Check on arrival.",
+          "note": "The fried plate of stream fish, served with Hmong mustard soup in Thai houses.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "ca-suoi-chien"
         },
         {
           "name": "Hmong mustard soup",
           "nameVi": "Canh cải mèo",
-          "note": "The 2019 feature calls it a northwest soup with a sharp, slightly bitter taste, served with fried stream fish in Thai houses. The price is Check on arrival.",
+          "note": "A northwest mustard-green soup with a sharp, slightly bitter taste, served beside fried stream fish.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "canh-cai-meo"
         },
         {
           "name": "Smoked buffalo",
           "nameVi": "Trâu gác bếp",
-          "note": "The 2019 feature says Thai villages smoke buffalo: loin and shoulder, sliced with the grain, seasoned with lemongrass, ginger, garlic, dried chili, and mắc khén, then hung in the smoke for months. A good piece stays somewhat red. Drink it with rượu Mai Hạ. The price is Check on arrival.",
+          "note": "Buffalo loin and shoulder seasoned with lemongrass, ginger, garlic, dried chili, and mắc khén, then hung in the kitchen smoke for months. A good piece stays a little red, and it goes with rượu Mai Hạ.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
+          "photo": "mai-chau--trau-gac-bep",
           "dishSlug": "trau-gac-bep"
         },
         {
           "name": "Cham cheo",
           "nameVi": "Chẩm chéo",
-          "note": "The 2019 feature calls it the dipping sauce of northwest seasonings, eaten with gà đồi. The price is Check on arrival.",
+          "note": "A dipping sauce of northwest seasonings, served with hill chicken.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
+          "photo": "mai-chau--cham-cheo",
           "dishSlug": "cham-cheo"
         }
       ]
@@ -175,28 +237,32 @@
       "heading": "Markets",
       "nav": "Markets",
       "paragraphs": [
-        "The everyday meal is still the house. Three markets keep different days. Hours are Check on arrival."
+        "The everyday meal is still the house. Three markets keep different days."
       ],
       "spots": [
         {
           "name": "Sunday morning market",
           "nameVi": "Chợ sáng Chủ nhật",
-          "note": "Vietnam Tourism says the Sunday morning market brings people in formal dress, and that the same morning is when woven cloth is sold. The commune is not printed. This is a different morning from the Pà Cò market. The hour is Check on arrival."
+          "note": "On Sunday morning people arrive in formal dress, and it is the morning woven cloth is sold. It is a different market from Pà Cò.",
+          "hours": "Check on arrival"
         },
         {
           "name": "Pa Co market",
           "nameVi": "Chợ phiên Pà Cò",
-          "note": "The rural-tourism feature says the Pà Cò market meets on Sunday morning, and that Bản Chà Đáy has a night market on Saturday evening. The highland is about 30 km from the old township on National Highway 6 toward Sơn La. Hours are Check on arrival."
+          "note": "The Pà Cò market meets on Sunday morning, and Bản Chà Đáy holds a night market on Saturday evening. The highland is about 30 km from the old township on National Highway 6 toward Sơn La.",
+          "hours": "Check on arrival"
         },
         {
           "name": "Ban Lac Saturday night market",
           "nameVi": "Chợ đêm văn hóa Bản Lác",
-          "note": "Báo Phú Thọ says a cultural night market runs on Saturday evening at Bản Lác, xã Mai Hạ. It does not say what is sold. The hour and a fee are Check on arrival."
+          "note": "A cultural night market runs at Bản Lác, in xã Mai Hạ, on Saturday evening.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival"
         }
       ]
     }
   ],
   "verified": "23 Oct 2026",
   "seoTitle": "Mai Chau food guide — dinner at the stilt-house table",
-  "seoDescription": "Dinner is the stilt house: bamboo-tube rice, hill chicken, pork skewers, and jar wine. Bản Hịch and Hang Kia add plates. Prices are Check on arrival."
+  "seoDescription": "Dinner is the stilt house: bamboo-tube rice, hill chicken with chẩm chéo, pork skewers, and jar wine. Bản Hịch and Hang Kia add plates of their own."
 }

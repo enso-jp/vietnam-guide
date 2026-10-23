@@ -21,7 +21,7 @@ Fees, hours, dates, and durations in the dossier cite one of these lines or are 
 - URL: https://vietnam.travel/things-to-do/colourful-charms-chau-doc
 - Publisher: Vietnam Tourism, “The colourful charms of Chau Doc”
 - Accessed: 21 Oct 2026
-- Supports: Riverfront picture, Châu Đốc market, mắm, bún cá breakfast, cá kho tộ, chè thốt nốt, bánh bò Chăm, dawn fruit boats, fish farms, Tra Su at 23 km and 850 ha, Núi Sam, Chùa Hang, terracotta bungalows, Miếu Bà Chúa Xứ offerings, about 200 religious sites. Hotel and restaurant names from this chapter are notes, not picks.
+- Supports: Riverfront picture, Châu Đốc market, mắm, bún cá breakfast, cá kho tộ, chè thốt nốt, bánh bò Chăm, a shared seafood hotpot of vegetables, mushrooms, noodles, and herbs. The English text does not call that pot lẩu mắm. Dawn fruit boats, fish farms, Tra Su at 23 km and 850 ha, Núi Sam, Chùa Hang, terracotta bungalows, Miếu Bà Chúa Xứ offerings, about 200 religious sites. The Vietnamese URL redirects to this English chapter. Hotel and restaurant names from this chapter are notes, not picks.
 
 ### S4
 - URL: https://vietnam.travel/vi/things-to-do/colourful-charms-chau-doc
@@ -99,7 +99,7 @@ Fees, hours, dates, and durations in the dossier cite one of these lines or are 
 - URL: https://vnexpress.net/48-gio-o-chau-doc-4666546.html
 - Publisher: VnExpress
 - Accessed: 21 Oct 2026
-- Supports: Bún cá broth and herbs. Stall names and a printed bowl price are notes, not a published pick and not a fee in the dossier.
+- Supports: Bún cá broth, herbs, and a printed 25,000–30,000 VND bowl that disagrees with S31. Market hours 05:30–18:00 every day. Breakfast of hủ tiếu, bún mắm, and bún suông on the Hậu landing and at the market. Chè bưởi at the head of Trưng Nữ Vương, 10,000–25,000 VND. The Trà Sư lunch menu. Stall and cart names stay notes, not picks. The printed prices are not a current tariff.
 
 ### S17
 - URL: https://angiang.gov.vn/vi/pho-thu-tuong-chinh-phu-pham-thi-thanh-tra-tham-khu-di-tich-lich-su-nha-mo-ba-chuc-va-khao-sat-khu-di-tich-oc-eo-ba
@@ -184,3 +184,51 @@ Fees, hours, dates, and durations in the dossier cite one of these lines or are 
 - Publisher: Viện Kiểm sát nhân dân tỉnh An Giang
 - Accessed: 21 Oct 2026
 - Supports: A 2023 visit that pairs Đồi Tức Dụp with Nhà mồ Ba Chúc. Not used as a 2026 hour or fee. Tức Dụp is not a separate researched sight.
+
+### S31
+- URL: https://vnexpress.net/7-mon-ngon-phai-thu-o-chau-doc-3989798.html
+- Publisher: VnExpress
+- Accessed: 23 Oct 2026
+- Supports: Seven dishes dated 2 Oct 2019: bún cá, cơm tấm, mắm kinds, bánh hỏi thịt nướng, hủ tiếu bò viên, tung lò mò, bún mắm. Printed stall prices. Streets Lê Lợi and Thủ Khoa Huân for cơm tấm. Outskirts for the drying sausage. Cambodia origin for bún cá and bún mắm.
+
+### S32
+- URL: https://vnexpress.net/cam-nang-du-lich-chau-doc-4733356.html
+- Publisher: VnExpress
+- Accessed: 23 Oct 2026
+- Supports: Handbook dated 26 Apr 2024. Bún cá method, old and current. Gỏi sầu đâu. Lẩu mắm ingredients. Bánh bò thốt nốt. Chuối nếp nướng, including the CNN quotation. Market mắm from cá trèn, cá lóc, cá linh, and cá sọc. Gifts: mắm, đường thốt nốt, quả thốt nốt, khô cá, khô bò, quả mây gai. Bún cá, lẩu mắm, and bún mắm named inside the market.
+
+### S33
+- URL: https://vietnam.travel/things-to-do/dining-delta
+- Publisher: Vietnam Tourism, “Dining in the Delta”
+- Accessed: 23 Oct 2026
+- Supports: Chợ Châu Đốc busy by 7:00, sugarcane juice, noodle bowls, mắm stacks, the kingdom-of-pickled-fish line. Chợ nổi Châu Đốc in the early morning. The cá kho recipe is from Spices in Can Tho and is not a Châu Đốc method. The Vietnamese path redirects to this English chapter.
+
+### S34
+- URL: https://chaudoc.angiang.gov.vn/thong-tin-khai-quat-ve-phuong-chau-doc
+- Publisher: UBND phường Châu Đốc
+- Accessed: 23 Oct 2026
+- Supports: Traditional trades of making mắm and drying fish. Specialties named: mắm Châu Đốc, khô cá, and processed seafood.
+
+### S35
+- URL: https://angiang.gov.vn/vi/doc-dao-mam-giang
+- Publisher: Cổng thông tin điện tử tỉnh An Giang
+- Accessed: 23 Oct 2026
+- Supports: Article dated 6 Dec 2023. Two collective trademarks, đặc sản mắm Châu Đốc and đặc sản mắm thái Châu Đốc. Visitors buy mắm cá lóc, cá linh, cá trèn, cá sặc, and mắm thái. Workshops at Núi Sam and the old Châu Phú A. Mắm cá mè vinh is Tân Châu. Maker names and the April 2022 fair are notes, not picks.
+
+### S36
+- URL: https://angiang.gov.vn/vi/san-pham-tu-thot-not-vung-bay-nui
+- Publisher: Cổng thông tin điện tử tỉnh An Giang
+- Accessed: 23 Oct 2026
+- Supports: Article dated 21 Aug 2024. Bảy Núi palm products: nước thốt nốt, đường thốt nốt, bánh bò thốt nốt. Rượu thốt nốt and thốt nốt rim are An Giang products and are not placed in Châu Đốc.
+
+### S37
+- URL: https://vnexpress.net/10-mon-ngon-tra-vinh-hut-hon-du-khach-3126390.html
+- Publisher: VnExpress
+- Accessed: 23 Oct 2026
+- Supports: The Trà Vinh description of bún suông: rice noodles, fresh shrimp cake, pork-bone broth. Used only as that town’s bowl. The Châu Đốc day (S16) names the dish and does not print this method.
+
+### S38
+- URL: https://e.vnexpress.net/news/travel/food-recipes/chau-doc-town-s-6-distinctive-dishes-3993824.html
+- Publisher: VnExpress International
+- Accessed: 23 Oct 2026
+- Supports: English edition dated 12 Oct 2019 of the seven-dish story. Sơn Nam on broken rice. Sườn, bì, and chả. Tung lò mò taste line and the drying rack. Six dishes are headed; bún mắm is on the Vietnamese article (S31).

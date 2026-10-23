@@ -181,3 +181,27 @@ Accessed 22 Oct 2026. A search snippet that was not opened is not a source. The 
 - Publisher: Wikimedia Commons credit line in `public/photos/credits.json`. The image file opened was `public/photos/phu-quoc-sao.jpg`.
 - Accessed: 22 Oct 2026
 - Supports: Pale sand, clear shallow water, a forested hill, swimmers, and small shade roofs. Author Vnecofriendly. License CC BY-SA 4.0. The Commons wiki page itself was not opened. The file does not replace the bureau’s cát vàng óng.
+
+### S31
+- URL: https://vietnam.travel/things-to-do/phu-quoc-specialty-seafood
+- Publisher: Vietnam National Authority of Tourism (vietnam.travel). The Vietnamese URL returned this English text.
+- Accessed: 23 Oct 2026
+- Supports: Grilled sea urchin, also called echinus and nhum biển: spikes off, halved and drained, oil, roasted peanuts, spring onion, lime and pepper sauce, creamy texture, Dinh Cau night market. Gỏi cá trích with mint, onion, shredded coconut, crisp vegetables, rice paper, fish sauce, garlic, chili, roasted peanuts, any time of day. Ghẹ Hàm Ninh, rosy speckled, boiled, smaller crabs more flavour, lime and pepper, 20 km from Duong Dong. Tôm mũ ni, boiled, clawless, lime, salt, and pepper, upmarket restaurants and the night market. Ốc, no species and no method, called inexpensive with no number. Cá sòng nướng on charcoal with salt and chili, in rice paper.
+
+### S32
+- URL: https://vietnam.travel/things-to-do/explore-phu-quoc-by-night
+- Publisher: Vietnam National Authority of Tourism (vietnam.travel)
+- Accessed: 23 Oct 2026
+- Supports: Dinh Cau Night Market from 5 pm until midnight, streets near the rock temple closed to traffic, 100-odd stalls, more than half food. Buy fermented fish sauce, black pepper, myrtle wine, cashew nuts, dried seaweed, or squid. A local beer is named with no brand. Fine-dining meals, hotel gourmet food beside the sea, and a beach barbecue, with no door. Night squid fishing: eat the squid after. Hotel bars and beach bars are named and are not picks.
+
+### S33
+- URL: https://vietnam.travel/things-to-do/explore-phu-quoc-island-3-days-2-nights
+- Publisher: Vietnam National Authority of Tourism (vietnam.travel)
+- Accessed: 23 Oct 2026
+- Supports: Bãi Sao about 25 km from the centre, over 7 km of shore, entrance and parking free. Rach Vem fishing village about 20 km north of Duong Dong, starfish beach in that village, catch cooked on the spot. Fish sauce over 200 years. Pepper pungent and spicy, over 1,000 tons a year. Phu Quoc Night Market on Bach Dang Street, pedestrian in the evening, 50-plus stalls. A 2022 discount code was on the account and was not copied. Hotel names were not copied.
+
+### S34
+- URL: https://www.vietnam.travel/things-to-do/underwater-activities-phu-quoc
+- Publisher: Vietnam National Authority of Tourism (vietnam.travel)
+- Accessed: 23 Oct 2026
+- Supports: Squid as one of the most popular seafood dishes. Night fishing on calm, dark nights. A 1.5-meter bamboo rod is the activity, not a dish. Eat the catch back on shore. A sunset dining cruise is named with no menu. A seafood lunch on a snorkel stop is named with no dish. Almost 400 species of hard coral is that account’s figure and was not used to replace the park counts.

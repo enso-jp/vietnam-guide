@@ -1,0 +1,314 @@
+{
+  "slug": "dak-nong",
+  "name": "Dak Nong food guide",
+  "placeSlug": "dak-nong",
+  "summary": "Split a tube of cơm lam, tear off the grilled meat, and dip both in chili salt: that is the festival meal of the M'Nong plateau. The Serepok catfish, grilled in a forest leaf, is the province's named specialty, and the rice-wine jar comes out for ceremonies and guests.",
+  "heroSlug": "dak-nong--com-lam",
+  "body": [
+    "Peel back the charred bamboo or the banana leaf, eat the sticky rice with the meat, and wait for the one bamboo straw to come round the jar. Canh thụt, the tube soup of bép leaf, palm shoots, and bitter eggplant, comes to the same table.",
+    "On Sunday, go up to the Hmong market at Đắk R'Măng in Đắk Glong for thắng cố and corn wine. Tay, Dao, and Mong families who settled here from the north keep their own dishes, from five-colour sticky rice to mèn mén.",
+    "Carry home basalt-grown coffee, Đắk N'rung pepper, dried macadamia, Đắk Mil avocado, and Buôn Choáh rice."
+  ],
+  "specialtiesLead": "Start with the festival rice, the grilled meat, the tube soup, and the jar, then the Serepok catfish.",
+  "dishSlugs": [
+    "dak-nong--com-lam",
+    "dak-nong--thit-nuong",
+    "dak-nong--ca-lang-nuong",
+    "dak-nong--ca-loc-nuong",
+    "dak-nong--canh-thut",
+    "dak-nong--ruou-can",
+    "dak-nong--ga-xao-mang-chua",
+    "dak-nong--nuc-nac",
+    "dak-nong--goi-ca-dang",
+    "dak-nong--la-bep-ca-hop",
+    "dak-nong--dot-may-xao",
+    "dak-nong--ca-phe",
+    "dak-nong--hat-tieu",
+    "dak-nong--mac-ca",
+    "dak-nong--bo-sap",
+    "dak-nong--gao-buon-choah",
+    "dak-nong--sau-rieng",
+    "dak-nong--cam-sanh",
+    "dak-nong--quyt-duong",
+    "dak-nong--xoi-ngu-sac",
+    "dak-nong--lon-quay-mac-mat",
+    "dak-nong--mam-ca",
+    "dak-nong--ca-chua",
+    "dak-nong--ga-gio-canh",
+    "dak-nong--banh-gio",
+    "dak-nong--ruou-hoang",
+    "dak-nong--ga-xao-gung",
+    "dak-nong--thit-muoi-chua",
+    "dak-nong--men-men",
+    "dak-nong--thang-co",
+    "dak-nong--ruou-ngo",
+    "dak-nong--banh-day",
+    "dak-nong--ruou-hang-chu"
+  ],
+  "sections": [
+    {
+      "id": "table",
+      "heading": "The highland table",
+      "nav": "The table",
+      "paragraphs": [
+        "The M'Nong, Ma, and Ede table: food cooked over coals and in bamboo for festivals and guests, and the plates restaurants now make from it."
+      ],
+      "spots": [
+        {
+          "name": "Bamboo-tube rice",
+          "nameVi": "Cơm lam",
+          "note": "Sticky rice packed into a bamboo or nứa tube with stream water and roasted in the coals until the shell chars and splits away from a white center. Some M'Nong cooks mix in beans, wrap the rice in banana leaf instead, and grill it until it smells fragrant.",
+          "dishSlug": "dak-nong--com-lam",
+          "photo": "dak-nong--com-lam"
+        },
+        {
+          "name": "Grilled meat",
+          "nameVi": "Thịt nướng",
+          "note": "Meat or poultry grilled mostly without a marinade, on a skewer over the coals or inside a lồ ô tube, then dipped in chili salt. It is the meat that goes with cơm lam.",
+          "dishSlug": "dak-nong--thit-nuong",
+          "photo": "dak-nong--thit-nuong"
+        },
+        {
+          "name": "Grilled Serepok catfish",
+          "nameVi": "Cá lăng nướng sông Sêrêpốk",
+          "note": "Red-tailed catfish from the Serepok, wrapped in a forest leaf, grilled over charcoal, and dipped in salt made with lemongrass, green chili, and forest leaves. Eat it with cơm lam in Krong No and Cu Jut, where the river runs.",
+          "dishSlug": "dak-nong--ca-lang-nuong"
+        },
+        {
+          "name": "Grilled snakehead",
+          "nameVi": "Cá lóc nướng",
+          "note": "Grilled snakehead, also called cá quả, served at the Liêng Nung spring festival with cơm lam, unseasoned grilled pork, and canh thụt.",
+          "dishSlug": "dak-nong--ca-loc-nuong",
+          "photo": "dak-nong--ca-loc-nuong"
+        },
+        {
+          "name": "Tube soup",
+          "nameVi": "Canh thụt",
+          "note": "A M'Nong soup of forest greens cooked inside a bamboo tube and stirred or mashed with a stick until everything softens. Expect lá bép, palm shoots, and bitter eggplant with stream fish or pork ribs, and in some kitchens a few termites and mole crickets.",
+          "dishSlug": "dak-nong--canh-thut"
+        },
+        {
+          "name": "Jar wine",
+          "nameVi": "Rượu cần",
+          "note": "Rice wine fermented in a jar with yeast made from forest leaves and bark, then drunk through one bent bamboo straw passed from host to guest. Left two to six months, it turns thick like honey and brown-yellow.",
+          "dishSlug": "dak-nong--ruou-can",
+          "photo": "dak-nong--ruou-can"
+        },
+        {
+          "name": "Chicken with sour bamboo",
+          "nameVi": "Gà xào măng chua",
+          "note": "A Ma dish of chicken stir-fried slowly with bamboo shoots soured in a salt jar for about two weeks, until both are soft and the shoots turn fragrant. Crushed forest pepper goes on at the end.",
+          "dishSlug": "dak-nong--ga-xao-mang-chua"
+        },
+        {
+          "name": "Wrapped nuc nac",
+          "nameVi": "Gói quả núc nác",
+          "note": "Gói quả núc nác is an Ede dish of wrapped núc nác fruit, one of the plates Ede families still cook in the province.",
+          "dishSlug": "dak-nong--nuc-nac"
+        },
+        {
+          "name": "Bitter-eggplant salad",
+          "nameVi": "Gỏi cà đắng cá khô",
+          "note": "A salad of bitter eggplant and dried fish, one of the older highland plates that stays on restaurant menus in the province.",
+          "dishSlug": "dak-nong--goi-ca-dang"
+        },
+        {
+          "name": "Bep leaf with canned fish",
+          "nameVi": "Lá bép nấu cá hộp",
+          "note": "Bep leaf cooked with canned fish, a restaurant plate made from the older highland cooking.",
+          "dishSlug": "dak-nong--la-bep-ca-hop"
+        },
+        {
+          "name": "Palm shoot with bep leaf",
+          "nameVi": "Đọt mây xào lá bép",
+          "note": "Palm shoots (đọt mây) stir-fried with bep leaf, another highland pairing that restaurants serve.",
+          "dishSlug": "dak-nong--dot-may-xao"
+        }
+      ]
+    },
+    {
+      "id": "gifts",
+      "heading": "What to carry home",
+      "nav": "Gifts",
+      "paragraphs": [
+        "Coffee, pepper, nuts, fruit, and rice from the basalt farms, to eat on the spot or carry home."
+      ],
+      "spots": [
+        {
+          "name": "Dak Nong coffee",
+          "nameVi": "Cà phê",
+          "note": "Coffee grown on the basalt soils of the plateau: the tourism portal names robusta with a flavor of its own, and the provincial handbook adds Arabica and Culi. The coffee and pepper belt runs through Quảng Tân and Đắk R'tíh in Tuy Đức.",
+          "dishSlug": "dak-nong--ca-phe",
+          "photo": "dak-nong--ca-phe"
+        },
+        {
+          "name": "Dak N'rung pepper",
+          "nameVi": "Hạt tiêu Đắk N'rung",
+          "note": "Large, round, plump peppercorns from Đắk N'rung with a strong fragrance. White pepper comes packed to carry home as a gift.",
+          "dishSlug": "dak-nong--hat-tieu",
+          "photo": "dak-nong--hat-tieu"
+        },
+        {
+          "name": "Dried macadamia",
+          "nameVi": "Mắc ca sấy",
+          "note": "Dried macadamia, prized for its aroma and taste, from orchards that skip herbicide, chemical pesticide, and heavy inorganic fertilizer. More than 1,000 hectares grow at Quảng Trực in Tuy Đức.",
+          "dishSlug": "dak-nong--mac-ca",
+          "photo": "dak-nong--mac-ca"
+        },
+        {
+          "name": "Dak Mil butter avocado",
+          "nameVi": "Bơ sáp Đắk Mil",
+          "note": "Butter avocado from Đắk Mil with thin, smooth skin and ripe yellow-green flesh that is sticky, fragrant, and free of fiber.",
+          "dishSlug": "dak-nong--bo-sap",
+          "photo": "dak-nong--bo-sap"
+        },
+        {
+          "name": "Buon Choah rice",
+          "nameVi": "Gạo Buôn Choáh",
+          "note": "Rice from Buôn Choáh in Krong No, grown to VietGAP on volcanic soil with mineral-rich water. The grain is fragrant, sticky, and deeply sweet.",
+          "dishSlug": "dak-nong--gao-buon-choah"
+        },
+        {
+          "name": "Durian",
+          "nameVi": "Sầu riêng",
+          "note": "Fragrant, fatty-sweet durian from the red-basalt orchards of Đắk Mil and the Gia Trung farm in Gia Nghia, mainly Ri 6, Út Thủy, and Monthong. The tourism portal puts the harvest from April to September.",
+          "dishSlug": "dak-nong--sau-rieng",
+          "photo": "dak-nong--sau-rieng"
+        },
+        {
+          "name": "Cam sanh",
+          "nameVi": "Cam sành",
+          "note": "Cam sành from the organic cooperative at Quảng Phú in Krong No, rated 4 stars in the provincial OCOP scheme. You taste the fruit in the garden, which has taken visitors since 2022.",
+          "dishSlug": "dak-nong--cam-sanh",
+          "photo": "dak-nong--cam-sanh"
+        },
+        {
+          "name": "Quyt duong",
+          "nameVi": "Quýt đường",
+          "note": "Quýt đường, the sugar mandarin grown beside the cam sành at Quảng Phú and given the same 4-star provincial OCOP rating. You taste it in the same garden.",
+          "dishSlug": "dak-nong--quyt-duong"
+        }
+      ]
+    },
+    {
+      "id": "north",
+      "heading": "Kitchens from the north",
+      "nav": "The north",
+      "role": "regional",
+      "paragraphs": [
+        "Tay, Dao, and Mong families who settled in Dak Nong from the north still cook these dishes. Dao cooking alone runs past 60 dishes."
+      ],
+      "spots": [
+        {
+          "name": "Five-colour sticky rice",
+          "nameVi": "Xôi ngũ sắc",
+          "note": "Five-colour sticky rice, a Tay dish cooked by families who settled in Dak Nong from the north.",
+          "dishSlug": "dak-nong--xoi-ngu-sac",
+          "photo": "dak-nong--xoi-ngu-sac"
+        },
+        {
+          "name": "Mac mat roast pork",
+          "nameVi": "Lợn quay mắc mật",
+          "note": "Tay roast pork seasoned with mắc mật.",
+          "dishSlug": "dak-nong--lon-quay-mac-mat"
+        },
+        {
+          "name": "Fish mam",
+          "nameVi": "Mắm cá",
+          "note": "Tay fish mam, kept in Tay kitchens beside the sour fish.",
+          "dishSlug": "dak-nong--mam-ca"
+        },
+        {
+          "name": "Sour fish",
+          "nameVi": "Cá chua",
+          "note": "Tay sour fish, kept beside the fish mam.",
+          "dishSlug": "dak-nong--ca-chua"
+        },
+        {
+          "name": "Ginger turmeric chicken soup",
+          "nameVi": "Thịt gà giò nấu canh gừng nghệ",
+          "note": "A Tay soup of chicken drumstick cooked with ginger and turmeric.",
+          "dishSlug": "dak-nong--ga-gio-canh"
+        },
+        {
+          "name": "Banh gio",
+          "nameVi": "Bánh giò",
+          "note": "Bánh giò, one of the cakes on the Tay table in the province.",
+          "dishSlug": "dak-nong--banh-gio",
+          "photo": "dak-nong--banh-gio"
+        },
+        {
+          "name": "Hoang wine",
+          "nameVi": "Rượu hoẵng",
+          "note": "Rượu hoẵng, one of three Dao specialties alongside ginger chicken and salt-soured meat.",
+          "dishSlug": "dak-nong--ruou-hoang"
+        },
+        {
+          "name": "Ginger chicken",
+          "nameVi": "Gà xào gừng",
+          "note": "Dao chicken stir-fried with ginger.",
+          "dishSlug": "dak-nong--ga-xao-gung"
+        },
+        {
+          "name": "Salt-soured meat",
+          "nameVi": "Thịt muối chua",
+          "note": "Dao meat soured with salt, the third Dao specialty beside ginger chicken and rượu hoẵng.",
+          "dishSlug": "dak-nong--thit-muoi-chua"
+        },
+        {
+          "name": "Men men",
+          "nameVi": "Mèn mén",
+          "note": "Mèn mén, a Mong staple from the same kitchen as thắng cố and corn wine.",
+          "dishSlug": "dak-nong--men-men",
+          "photo": "dak-nong--men-men"
+        },
+        {
+          "name": "Thang co",
+          "nameVi": "Thắng cố",
+          "note": "The Mong pot on the Sunday stalls at Đắk R'Măng, sold beside corn wine. You can also find it at the market in Đắk Som.",
+          "dishSlug": "dak-nong--thang-co",
+          "photo": "dak-nong--thang-co"
+        },
+        {
+          "name": "Corn wine",
+          "nameVi": "Rượu ngô",
+          "note": "Mong corn wine, distilled by hand from mountain corn and leaf yeast, heavier or lighter depending on how much the distiller draws. Buy it at the Sunday market in Đắk R'Măng.",
+          "dishSlug": "dak-nong--ruou-ngo"
+        },
+        {
+          "name": "Banh day",
+          "nameVi": "Bánh dày",
+          "note": "A Mong cake you can eat at the markets in Đắk R'Măng and Đắk Som.",
+          "dishSlug": "dak-nong--banh-day",
+          "photo": "dak-nong--banh-day"
+        },
+        {
+          "name": "Hang chu wine",
+          "nameVi": "Rượu hang chú",
+          "note": "Rice wine cooked from the germ of glutinous or ordinary rice and kept for the new year and for weddings.",
+          "dishSlug": "dak-nong--ruou-hang-chu"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "heading": "Sunday market",
+      "nav": "Market",
+      "role": "casual",
+      "paragraphs": [
+        "A Hmong market on the M'Nong plateau, open on Sundays."
+      ],
+      "spots": [
+        {
+          "name": "Dak R'Mang Sunday market",
+          "nameVi": "Chợ phiên Đắk R'Măng",
+          "address": "Đắk R'Măng commune, Đắk Glong",
+          "note": "Every Sunday, Hmong traders sell textiles, household goods, medicinal plants, and tools, and the food stalls serve thắng cố and corn wine."
+        }
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Dak Nong food guide — tube rice, Serepok catfish, jar wine",
+  "seoDescription": "Cơm lam, grilled meat, canh thụt, Serepok catfish, and jar wine, plus the Mong dishes at the Sunday market in Đắk R'Măng."
+}

@@ -1,0 +1,336 @@
+{
+  "slug": "cao-bang",
+  "name": "Cao Bang food guide",
+  "placeSlug": "cao-bang",
+  "summary": "Cao Bang eats a sour pho and rice rolls in bone broth in town, then a highland table on the roads out: Trùng Khánh chestnut in autumn, roast duck with mắc mật, black-olive sticky rice, and corn wine.",
+  "body": [
+    "Start in town before the road. Phở chua is the sour bowl, bánh cuốn comes hot in pork-bone broth, and phở vịt is the warmer duck bowl beside them. On the eastern road toward the falls, autumn means Trùng Khánh chestnut, and lunch is roast duck, olive sticky rice, and smoked sausage.",
+    "Give the meal its own hour in the city, or eat at a table on the road you already took for the falls. In the afternoon the town center fries bánh áp chao and serves hot bánh đúc."
+  ],
+  "specialtiesLead": "The town bowls, then the chestnut, the duck, and the corn wine.",
+  "dishSlugs": [
+    "cao-bang--pho-chua",
+    "cao-bang--banh-cuon",
+    "cao-bang--pho-vit",
+    "cao-bang--xoi-ngu-sac",
+    "cao-bang--xoi-nep-huong",
+    "cao-bang--hat-de",
+    "cao-bang--com-hat-de",
+    "cao-bang--chan-gio-hat-de",
+    "cao-bang--ruou-hat-de",
+    "cao-bang--banh-khao",
+    "cao-bang--vit-quay",
+    "cao-bang--vit-co-om",
+    "cao-bang--lap-suon",
+    "cao-bang--xoi-tram",
+    "cao-bang--tram-xao",
+    "cao-bang--mien-dong",
+    "cao-bang--com-lam",
+    "cao-bang--ruou-ngo",
+    "cao-bang--banh-gio",
+    "cao-bang--banh-chung-den",
+    "cao-bang--banh-ap-chao",
+    "cao-bang--banh-duc",
+    "cao-bang--khau-nhuc",
+    "cao-bang--lon-quay",
+    "cao-bang--banh-trung-kien",
+    "cao-bang--thach-den",
+    "cao-bang--tep-thang-hen",
+    "cao-bang--chao-be",
+    "cao-bang--thit-chua-ngo",
+    "cao-bang--ga-ban",
+    "cao-bang--thit-treo",
+    "cao-bang--ba-chi-quay",
+    "cao-bang--banh-giay"
+  ],
+  "sections": [
+    {
+      "id": "specialties",
+      "heading": "Cao Bang specialties",
+      "nav": "Specialties",
+      "paragraphs": [
+        "These are the plates and drinks of the town and the three geopark roads, from the breakfast bowls to the northern corn wine.",
+        "Other local names to listen for: tương đen Méc Cảng, cá trầm xanh, ong xào măng, thạch trắng, mác cà tắm, canh đỗ trắng nấu hoa chuối rừng, lê Đông Khê, kẹo ngà hoóc, bánh pẻng khua, bánh nướng, chè Tiên, pear, yellow sugarcane, red persimmon, bỏng thóc théc, mèn mén, khẩu sli, bánh ngô, thịt chua Bảo Lạc, mận máu Bảo Lạc, thịt xông khói, thạch mác púp, bánh cuốn ngô, cá suối kho mắc mật, lẩu thắng cố, nộm thịt bò một nắng, vịt cỏ tiềm, bánh chè lam, tàu trúc, chè thập cẩm, bánh bò, bánh gai, bánh rợm, stuffed bamboo shoot, boiled bí hương, canh rau âu, peanut candy, and forest honey."
+      ],
+      "spots": [
+        {
+          "name": "Sour pho",
+          "nameVi": "Phở chua",
+          "address": "Cao Bang city",
+          "note": "Phở chua is Cao Bang’s sour noodle bowl, not a hot beef pho: rice noodles under roast duck, crisp pork belly, and smoked sausage, dressed in a vinegar sauce thickened with canna starch and seasoned with sugar, garlic, and chili. The sauce is mildly sour and lightly sweet, and fried sweet-potato threads, crushed roasted peanut, cucumber, and herbs go on last.",
+          "dishSlug": "cao-bang--pho-chua"
+        },
+        {
+          "name": "Steamed rice rolls",
+          "nameVi": "Bánh cuốn",
+          "address": "Cao Bang city",
+          "note": "Cao Bang bánh cuốn is a hot, soft, white rice sheet filled with pork fried with dried shallot, served in a clear pork-bone broth with giò, chả, and egg. Ask for the egg roll and an egg is cracked into the sheet while it steams.",
+          "dishSlug": "cao-bang--banh-cuon",
+          "photo": "cao-bang--banh-cuon"
+        },
+        {
+          "name": "Duck pho",
+          "nameVi": "Phở vịt",
+          "address": "Cao Bang city",
+          "note": "Phở vịt is the hot bowl beside phở chua: soft noodles and firm, fragrant roast duck in a rich broth that smells of spice.",
+          "dishSlug": "cao-bang--pho-vit",
+          "photo": "cao-bang--pho-vit"
+        },
+        {
+          "name": "Five-colour sticky rice",
+          "nameVi": "Xôi ngũ sắc",
+          "address": "Cao Bang city and the highland roads",
+          "note": "Five-colour sticky rice is Pì Pất or Ong glutinous rice coloured with plants, purple, green, and yellow among them. The grain is soft and smells of upland sticky rice.",
+          "dishSlug": "cao-bang--xoi-ngu-sac",
+          "photo": "cao-bang--xoi-ngu-sac"
+        },
+        {
+          "name": "Fragrant sticky rice",
+          "nameVi": "Xôi nếp hương",
+          "address": "Cao Bang city",
+          "note": "Xôi nếp hương is a morning packet of fragrant glutinous rice, soft, aromatic, and nutty.",
+          "dishSlug": "cao-bang--xoi-nep-huong"
+        },
+        {
+          "name": "Trung Khanh chestnut",
+          "nameVi": "Hạt dẻ Trùng Khánh",
+          "address": "Trung Khanh, eastern road",
+          "note": "Trùng Khánh chestnut is an even, nearly round autumn nut with a dark glossy shell and a yellow kernel. Roasted, it is nutty, sweet, and aromatic.",
+          "dishSlug": "cao-bang--hat-de"
+        },
+        {
+          "name": "Chestnut green rice",
+          "nameVi": "Cốm hạt dẻ",
+          "address": "Trung Khanh, eastern road",
+          "note": "Cốm hạt dẻ is young Pì Pất rice cut while still milky, boiled, dried, and pounded to a translucent green, then rubbed with pounded chestnut. The taste is the nuttiness of both.",
+          "dishSlug": "cao-bang--com-hat-de"
+        },
+        {
+          "name": "Ham hock with chestnut",
+          "nameVi": "Chân giò hầm hạt dẻ",
+          "address": "Eastern road",
+          "note": "Chân giò hầm hạt dẻ is ham hock stewed with Trùng Khánh chestnut, the soft, fatty hock against the nutty, sweet nut.",
+          "dishSlug": "cao-bang--chan-gio-hat-de"
+        },
+        {
+          "name": "Chestnut wine",
+          "nameVi": "Rượu hạt dẻ",
+          "address": "Trung Khanh, eastern road",
+          "note": "Rượu hạt dẻ is a wine made from Trùng Khánh chestnut, one of the things the eastern road makes from its autumn nut.",
+          "dishSlug": "cao-bang--ruou-hat-de"
+        },
+        {
+          "name": "Banh khao",
+          "nameVi": "Bánh khảo",
+          "address": "Eastern road",
+          "note": "Bánh khảo is a soft, sweet, fragrant cake of fine glutinous flour and honey, made in the same family as bánh pẻng phạ.",
+          "dishSlug": "cao-bang--banh-khao",
+          "photo": "cao-bang--banh-khao"
+        },
+        {
+          "name": "Roast duck",
+          "nameVi": "Vịt quay",
+          "address": "Eastern road",
+          "note": "Vịt quay is the roast duck of the eastern road, rubbed with mắc mật leaf. On that road it shares the table with olive sticky rice and smoked sausage.",
+          "dishSlug": "cao-bang--vit-quay",
+          "photo": "cao-bang--vit-quay"
+        },
+        {
+          "name": "Dew-dried grass duck",
+          "nameVi": "Vịt cỏ phơi sương om mắc mật",
+          "address": "Eastern road",
+          "note": "Vịt cỏ phơi sương om mắc mật is a grass duck dried in the dew, then stewed with mắc mật leaf, a different plate from the roast duck.",
+          "dishSlug": "cao-bang--vit-co-om"
+        },
+        {
+          "name": "Smoked sausage",
+          "nameVi": "Lạp sườn",
+          "address": "Eastern road, western road, and town",
+          "note": "Lạp sườn is Cao Bang’s smoked sausage, made on the western road from local black pork.",
+          "dishSlug": "cao-bang--lap-suon",
+          "photo": "cao-bang--lap-suon"
+        },
+        {
+          "name": "Black-olive sticky rice",
+          "nameVi": "Xôi trám",
+          "address": "Eastern and western roads",
+          "note": "Xôi trám is sticky rice worked with black olives, an autumn specialty on both geopark roads.",
+          "dishSlug": "cao-bang--xoi-tram"
+        },
+        {
+          "name": "Olive with pork belly",
+          "nameVi": "Trám xào thịt ba chỉ",
+          "address": "Western road",
+          "note": "Trám xào thịt ba chỉ is black olive stir-fried with pork belly, a western-road plate.",
+          "dishSlug": "cao-bang--tram-xao"
+        },
+        {
+          "name": "Canna glass noodles",
+          "nameVi": "Miến dong",
+          "address": "Western road",
+          "note": "Miến dong is a clear, thin, chewy noodle made from canna root.",
+          "dishSlug": "cao-bang--mien-dong",
+          "photo": "cao-bang--mien-dong"
+        },
+        {
+          "name": "Bamboo-tube rice",
+          "nameVi": "Cơm lam",
+          "address": "Northern route",
+          "note": "Cơm lam is glutinous rice packed into a bamboo tube and roasted until done.",
+          "dishSlug": "cao-bang--com-lam",
+          "photo": "cao-bang--com-lam"
+        },
+        {
+          "name": "Corn wine",
+          "nameVi": "Rượu ngô",
+          "address": "Northern route",
+          "note": "Rượu ngô is the northern kitchen’s best-known drink: steamed corn mixed with a yeast cake of more than 20 forest leaves, rested about a month, then distilled.",
+          "dishSlug": "cao-bang--ruou-ngo"
+        },
+        {
+          "name": "Ash-soaked rice cake",
+          "nameVi": "Bánh gio",
+          "address": "Northern route",
+          "note": "Bánh gio is upland glutinous rice soaked in kitchen-ash water and wrapped in lá chít leaves.",
+          "dishSlug": "cao-bang--banh-gio",
+          "photo": "cao-bang--banh-gio"
+        },
+        {
+          "name": "Black chung cake",
+          "nameVi": "Bánh chưng đen",
+          "address": "Northern route",
+          "note": "Bánh chưng đen is the black chưng cake, its glutinous rice soaked with tro hoa muối ash.",
+          "dishSlug": "cao-bang--banh-chung-den",
+          "photo": "cao-bang--banh-chung-den"
+        },
+        {
+          "name": "Ap chao",
+          "nameVi": "Bánh áp chao",
+          "address": "Cao Bang city center",
+          "note": "Bánh áp chao is a savory afternoon fried cake: soft batter around marinated meat or duck, fried golden so it is crisp outside and soft and chewy inside.",
+          "dishSlug": "cao-bang--banh-ap-chao",
+          "photo": "cao-bang--banh-ap-chao"
+        },
+        {
+          "name": "Hot banh duc",
+          "nameVi": "Bánh đúc nóng",
+          "address": "Cao Bang city",
+          "note": "Bánh đúc nóng is a hot bowl of soft, sticky, dense bánh đúc topped with minced pork stir-fried with wood ear, fried shallot, and herbs.",
+          "dishSlug": "cao-bang--banh-duc",
+          "photo": "cao-bang--banh-duc"
+        },
+        {
+          "name": "Khau nhuc",
+          "nameVi": "Khau nhục",
+          "address": "Cao Bang city",
+          "note": "Khau nhục is pork belly steamed a long time until soft, the fat balanced by its seasoning.",
+          "dishSlug": "cao-bang--khau-nhuc",
+          "photo": "cao-bang--khau-nhuc"
+        },
+        {
+          "name": "Roast pig",
+          "nameVi": "Lợn quay",
+          "address": "Cao Bang city",
+          "note": "Lợn quay is roast pig seasoned with mắc mật leaf: crackling first, then soft, sweet, fatty meat.",
+          "dishSlug": "cao-bang--lon-quay"
+        },
+        {
+          "name": "Ant-egg cake",
+          "nameVi": "Bánh trứng kiến",
+          "address": "Cao Bang city",
+          "note": "Bánh trứng kiến is a glutinous-rice cake wrapped around a fatty filling of ant eggs, with lá vả leaf.",
+          "dishSlug": "cao-bang--banh-trung-kien"
+        },
+        {
+          "name": "Black jelly",
+          "nameVi": "Thạch đen",
+          "address": "Cao Bang city",
+          "note": "Thạch đen is black jelly made from the thạch plant grown in Cao Bang, mild in taste, soft, and smooth.",
+          "dishSlug": "cao-bang--thach-den",
+          "photo": "cao-bang--thach-den"
+        },
+        {
+          "name": "Thang Hen shrimp",
+          "nameVi": "Tép hồ Thang Hen",
+          "address": "Thang Hen, eastern road",
+          "note": "Tép hồ Thang Hen are small shrimp from Thang Hen lake, wrapped in green mustard leaf and lá lốt.",
+          "dishSlug": "cao-bang--tep-thang-hen"
+        },
+        {
+          "name": "Fresh-corn porridge",
+          "nameVi": "Cháo bẹ",
+          "address": "Northern route",
+          "note": "Cháo bẹ is a porridge of fresh young corn flour from the northern route.",
+          "dishSlug": "cao-bang--chao-be"
+        },
+        {
+          "name": "Soured pork with corn flour",
+          "nameVi": "Thịt lợn ủ chua với bột ngô",
+          "address": "Northern route",
+          "note": "Thịt lợn ủ chua với bột ngô is pork soured with corn flour, from the limestone villages of the northern route.",
+          "dishSlug": "cao-bang--thit-chua-ngo"
+        },
+        {
+          "name": "Village chicken",
+          "nameVi": "Gà bản",
+          "address": "Cao Bang city",
+          "note": "Gà bản is village chicken, firm, fragrant, and naturally sweet, boiled, steamed, grilled, or cooked with mountain vegetables.",
+          "dishSlug": "cao-bang--ga-ban"
+        },
+        {
+          "name": "Kitchen-hung meat",
+          "nameVi": "Thịt treo gác bếp",
+          "address": "Western and northern roads",
+          "note": "Thịt treo gác bếp is meat hung over the kitchen fire: local black pork on the western road, and beef and black pork on the northern road.",
+          "dishSlug": "cao-bang--thit-treo",
+          "photo": "cao-bang--thit-treo"
+        },
+        {
+          "name": "Crisp pork belly",
+          "nameVi": "Ba chỉ quay",
+          "address": "Western road",
+          "note": "Ba chỉ quay is golden, crisp roast belly from local black pork, a western-road plate.",
+          "dishSlug": "cao-bang--ba-chi-quay",
+          "photo": "cao-bang--ba-chi-quay"
+        },
+        {
+          "name": "Banh giay",
+          "nameVi": "Bánh giày",
+          "address": "Eastern road",
+          "note": "Bánh giày is a glutinous rice cake made from the same Pì Pất or Ong rice as the five-colour sticky rice.",
+          "dishSlug": "cao-bang--banh-giay",
+          "photo": "cao-bang--banh-giay"
+        }
+      ]
+    },
+    {
+      "id": "kim-dong",
+      "heading": "Kim Dong",
+      "nav": "Kim Dong",
+      "role": "casual",
+      "paragraphs": [
+        "Kim Đồng is the walking street in Thục Phán ward."
+      ],
+      "spots": [
+        {
+          "name": "Kim Dong walking street",
+          "nameVi": "Phố đi bộ Kim Đồng",
+          "address": "Phường Thục Phán",
+          "note": "For the 2026 National Day holiday, 19 produce stalls lined the walking street with chestnut, bánh khảo, glass noodles, peanut candy, black jelly, and forest honey."
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "heading": "Breakfast",
+      "nav": "Breakfast",
+      "role": "breakfast",
+      "paragraphs": [
+        "Morning in town is phở chua, bánh cuốn, phở vịt, five-colour sticky rice, and a fragrant sticky-rice packet. Bánh cuốn stalls open from 4 to 5 in the morning."
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Cao Bang food guide — sour pho, chestnut, duck",
+  "seoDescription": "Phở chua, bánh cuốn in bone broth, Trùng Khánh chestnut, and mắc mật roast duck: what to eat in Cao Bang town and on the geopark roads."
+}

@@ -1,0 +1,236 @@
+{
+  "slug": "dien-bien-phu",
+  "name": "Dien Bien Phu food guide",
+  "placeSlug": "dien-bien-phu",
+  "summary": "Eat at the Thái table: pa pỉnh tộp folded and grilled over charcoal, chicken in lemongrass leaves, twice-steamed upland sticky rice, and everything dipped in chẩm chéo. Spring brings ban flower from the passes, and the kitchen fire gives buffalo dried in its smoke.",
+  "body": [
+    "The meal to come for is a Thái house table in the basin, at bản Phiêng Lơi near the city entrance when a family is receiving guests. The fish is split, stuffed with mắc khén and herbs, and grilled whole, and the sticky rice comes as a ball you eat by hand. Sơn La is the hearth across Pha Đin, and Mộc Châu is the yogurt morning further east.",
+    "Black chicken belongs to Tủa Chùa, and rau ban to March and April on the passes. Duck with banana flower cooks about three hours in banana leaves, so it is a family dish for guests rather than a street plate.",
+    "Hearth-dried meat, buffalo, pork, or beef, comes off the fire red and still hot. Kitchen-smoked buffalo hangs longer: Vietnam News describes about 15 hours of smoke, and Vietnamnet a 2–3 hour marinade, a slow charcoal dry, and a 30-minute resteam. Hương Linh – Tủa Chùa tea and Mường Ảng coffee are the provincial products to take home."
+  ],
+  "specialtiesLead": "Start with the Thái table, then the tám rice, the hearth, and the provincial specialities to ask a host about.",
+  "dishSlugs": [
+    "dien-bien-phu--pa-pinh-top",
+    "dien-bien-phu--cay-pinh",
+    "dien-bien-phu--xoi-nep-nuong",
+    "dien-bien-phu--ga-den-hap",
+    "dien-bien-phu--nom-rau-ban",
+    "dien-bien-phu--mang-dang",
+    "dien-bien-phu--nhua-pho",
+    "dien-bien-phu--canh-bon",
+    "dien-bien-phu--nhua-giang",
+    "dien-bien-phu--thit-trau-gac-bep",
+    "dien-bien-phu--vit-om-hoa-chuoi",
+    "dien-bien-phu--bap-cai-cuon-nhot",
+    "dien-bien-phu--cham-cheo",
+    "dien-bien-phu--sau-chit",
+    "dien-bien-phu--gao-tam",
+    "dien-bien-phu--banh-day",
+    "dien-bien-phu--khau-cam",
+    "dien-bien-phu--khau-hang",
+    "dien-bien-phu--khau-papa",
+    "dien-bien-phu--bamboo-worms",
+    "dien-bien-phu--mong-wine",
+    "dien-bien-phu--mountain-goat",
+    "dien-bien-phu--da-river-fish"
+  ],
+  "sections": [
+    {
+      "id": "specialties",
+      "heading": "City specialties",
+      "nav": "Specialties",
+      "paragraphs": [
+        "Twenty-three plates, sauces, rice dishes, and drinks from the Thái and Mông tables. For the last four, ask your host how they are cooked."
+      ],
+      "spots": [
+        {
+          "name": "Pa pinh top",
+          "nameVi": "Pa pỉnh tộp",
+          "address": "Bản Phiêng Lơi, at the city entrance",
+          "note": "Eat it straight from the grill at a Thái table, with chẩm chéo on the side.",
+          "dishSlug": "dien-bien-phu--pa-pinh-top",
+          "photo": "dien-bien-phu--pa-pinh-top"
+        },
+        {
+          "name": "Cay pinh",
+          "nameVi": "Cáy pỉnh",
+          "address": "A Thái hamlet that receives guests",
+          "note": "Hamlets that receive guests grill it at the fire and pour a cup of rice wine alongside.",
+          "dishSlug": "dien-bien-phu--cay-pinh"
+        },
+        {
+          "name": "Upland sticky rice",
+          "nameVi": "Xôi nếp nương",
+          "address": "The Thái table",
+          "note": "Eat it with grilled fish or pork, or carry a packet, cóong xôi, for the road.",
+          "dishSlug": "dien-bien-phu--xoi-nep-nuong"
+        },
+        {
+          "name": "Steamed black chicken",
+          "nameVi": "Gà đen hấp",
+          "address": "Tủa Chùa",
+          "note": "A Tủa Chùa dish; the same bird is also roasted with hạt dổi or cooked in a hotpot or porridge.",
+          "dishSlug": "dien-bien-phu--ga-den-hap"
+        },
+        {
+          "name": "Ban flower",
+          "nameVi": "Rau ban",
+          "address": "The passes, in March",
+          "note": "Look for it in March and April, when the ban flowers on the passes.",
+          "dishSlug": "dien-bien-phu--nom-rau-ban"
+        },
+        {
+          "name": "Bitter bamboo",
+          "nameVi": "Măng đắng",
+          "note": "The bitterness is the point: this bamboo is not soaked in salt, so the grilled shoot keeps its bitter, astringent edge.",
+          "dishSlug": "dien-bien-phu--mang-dang"
+        },
+        {
+          "name": "Pork grilled in leaves",
+          "nameVi": "Nhứa phò",
+          "address": "The Thái table",
+          "note": "A Thái plate; eat it hot, straight from the leaf.",
+          "dishSlug": "dien-bien-phu--nhua-pho"
+        },
+        {
+          "name": "Bon soup",
+          "nameVi": "Canh bon",
+          "address": "The Thái table",
+          "note": "A home and hamlet soup for the Thái table.",
+          "dishSlug": "dien-bien-phu--canh-bon"
+        },
+        {
+          "name": "Hearth-dried meat",
+          "nameVi": "Nhứa giảng",
+          "address": "The highland table",
+          "note": "It keeps well, so it is eaten warm with rice or carried on the road.",
+          "dishSlug": "dien-bien-phu--nhua-giang"
+        },
+        {
+          "name": "Kitchen-smoked buffalo",
+          "nameVi": "Thịt trâu gác bếp",
+          "note": "Some cooks smoke it for about 15 hours; others dry it more briefly over charcoal and resteam it for half an hour.",
+          "dishSlug": "dien-bien-phu--thit-trau-gac-bep",
+          "photo": "dien-bien-phu--thit-trau-gac-bep"
+        },
+        {
+          "name": "Duck with banana flower",
+          "nameVi": "Vịt om hoa chuối",
+          "address": "A family table",
+          "note": "Families cook it for guests, adding garlic chives, mint, and coriander near the end.",
+          "dishSlug": "dien-bien-phu--vit-om-hoa-chuoi"
+        },
+        {
+          "name": "Cabbage-wrapped oleaster",
+          "nameVi": "Bắp cải cuốn nhót xanh",
+          "note": "Eat it as a wrap, with chẩm chéo on the side.",
+          "dishSlug": "dien-bien-phu--bap-cai-cuon-nhot"
+        },
+        {
+          "name": "Cham cheo",
+          "nameVi": "Chẩm chéo",
+          "address": "The Thái table",
+          "note": "Dip sticky rice, grilled fish, forest meat, boiled bamboo, or cabbage-wrapped oleaster in it.",
+          "dishSlug": "dien-bien-phu--cham-cheo",
+          "photo": "dien-bien-phu--cham-cheo"
+        },
+        {
+          "name": "Sau chit",
+          "nameVi": "Sâu chít",
+          "note": "Order it as the steeped wine or as porridge.",
+          "dishSlug": "dien-bien-phu--sau-chit"
+        },
+        {
+          "name": "Muong Thanh tam rice",
+          "nameVi": "Gạo tám Điện Biên",
+          "address": "Mường Thanh",
+          "note": "The same grain makes khẩu cắm, khẩu háng, and khẩu papa.",
+          "dishSlug": "dien-bien-phu--gao-tam"
+        },
+        {
+          "name": "Banh day",
+          "nameVi": "Bánh dày",
+          "note": "A Tết cake; look for it at the new year.",
+          "dishSlug": "dien-bien-phu--banh-day"
+        },
+        {
+          "name": "Khau cam",
+          "nameVi": "Khẩu cắm",
+          "note": "Made from the tám rice of the Mường Thanh fields.",
+          "dishSlug": "dien-bien-phu--khau-cam"
+        },
+        {
+          "name": "Khau hang",
+          "nameVi": "Khẩu háng",
+          "note": "The double steaming starts with the grain still in its husk.",
+          "dishSlug": "dien-bien-phu--khau-hang"
+        },
+        {
+          "name": "Khau papa",
+          "nameVi": "Khẩu papa",
+          "note": "Made from the tám rice of the Mường Thanh fields.",
+          "dishSlug": "dien-bien-phu--khau-papa"
+        },
+        {
+          "name": "Bamboo worms",
+          "note": "Ask your host how they are cooked that day.",
+          "dishSlug": "dien-bien-phu--bamboo-worms",
+          "photo": "dien-bien-phu--bamboo-worms"
+        },
+        {
+          "name": "Mong wine",
+          "note": "Ask your host what it is made from and how strong it is.",
+          "dishSlug": "dien-bien-phu--mong-wine"
+        },
+        {
+          "name": "Mountain goat",
+          "note": "Ask your host which cut is on and how it is cooked.",
+          "dishSlug": "dien-bien-phu--mountain-goat"
+        },
+        {
+          "name": "Da River fish",
+          "note": "Ask which fish came in and how it is cooked.",
+          "dishSlug": "dien-bien-phu--da-river-fish"
+        }
+      ]
+    },
+    {
+      "id": "casual",
+      "role": "casual",
+      "heading": "Casual dining",
+      "nav": "Streets",
+      "paragraphs": [
+        "Phố đi bộ Mường Thanh is the river street, Chợ Trung tâm I is the wholesale hall, and bản Phiêng Lơi is a hamlet table rather than a stall row. The 2012 night market on Nguyễn Chí Thanh is a separate street."
+      ],
+      "spots": [
+        {
+          "name": "Muong Thanh walking street",
+          "nameVi": "Phố đi bộ Mường Thanh",
+          "address": "Beside the Nậm Rốm, phường Điện Biên Phủ",
+          "note": "The walking street beside the Nậm Rốm fills during Ban flower week; outside it, a few drink stalls at the head of the street are the stop. One trader opens weekday afternoons and evenings, and through the day at weekends."
+        },
+        {
+          "name": "Central Market I",
+          "nameVi": "Chợ Trung tâm I",
+          "address": "Old phường Tân Thanh, now phường Điện Biên Phủ",
+          "note": "The city's wholesale market hall, opened in 1992 with about 150 kiosks."
+        },
+        {
+          "name": "Nguyen Chi Thanh night market",
+          "nameVi": "Phố chợ đêm Nguyễn Chí Thanh",
+          "address": "Nguyễn Chí Thanh, as printed in 2012",
+          "note": "In 2012 a night market ran daily 20:00–23:30 along Nguyễn Chí Thanh, from the Trần Đăng Ninh junction to the provincial youth-house crossing. Ask locally whether it still opens."
+        },
+        {
+          "name": "Ban Phieng Loi",
+          "nameVi": "Bản Phiêng Lơi",
+          "address": "The entrance to the city",
+          "note": "A Thái hamlet at the city entrance where houses serve the Thái meal to guests, and a food stop during the flower festival."
+        }
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Dien Bien Phu food guide — the Thái table, not Sơn La",
+  "seoDescription": "Pa pỉnh tộp, chicken in lemongrass leaves, twice-steamed sticky rice, kitchen-smoked buffalo, and chẩm chéo: what to eat at the Thái table in Dien Bien Phu."
+}

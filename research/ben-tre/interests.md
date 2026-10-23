@@ -8,7 +8,7 @@ Local titles. Not another city’s list. Shopping is included because a primary 
 ## Exploration by interest area (localized to the locations)
 
 ### Xứ dừa
-- Why it is this place, not a generic label: The rural page calls it “Xứ sở dừa Việt Nam” and prints more than 60,000 ha and about 500 million nuts a year (S7). The national extract prints 53,000 ha, about a quarter of the country’s coconut land, and about 500 million nuts (S12). The 2019 newspaper extract says the area was above 62,000 ha by the 2015 festival (S22). Record all three areas. The nut count agrees at about 500 million on the two tourism pages (S7, S12). Candy, milk, oil, and shell craft are the products (S7).
+- Why it is this place, not a generic label: The rural page calls it “Xứ sở dừa Việt Nam” and prints more than 60,000 ha and about 500 million nuts a year (S7). The national extract prints 53,000 ha, about a quarter of the country’s coconut land, and about 500 million nuts (S12). The 2019 newspaper extract says the area was above 62,000 ha by the 2015 festival (S22). Record all three areas. An English article from the same rural tourism center, with no date on the article, prints over 200,000 ha and nearly half of the country’s coconut land (S34). Record that fourth area beside the three. Do not choose. The nut count agrees at about 500 million on the two tourism pages (S7, S12). Candy, milk, oil, and shell craft are the products (S7).
 - Fits interest key, if any: `food`
 - Icon: food
 - Links to attraction, dish, or place slug: `con-phung`, `my-long`, `son-doc`, `keo-dua`

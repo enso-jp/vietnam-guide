@@ -1,0 +1,429 @@
+{
+  "slug": "vinh",
+  "name": "Vinh food guide",
+  "placeSlug": "vinh",
+  "summary": "Eat cháo lươn in Vinh, a thin eel porridge, silky from whole grains and a little sticky rice, fragrant and hot with chili. Breakfast is bánh mướt, xôi, or cháo canh. After dark, Đào Tấn is the citadel street, and the squid is mực nướng, including mực một nắng.",
+  "body": [
+    "Two eel pots stay. One stir-fries the eel and folds it into a thin porridge of whole grains and a little sticky rice. The other crushes the bones and cooks that liquid into the pot. Súp lươn is the second bowl, with bánh mì or bánh mướt: one account stir-fries the meat with turmeric, and another leaves long strips in an annatto broth that tastes of nén.",
+    "Morning is bánh mướt with giò lụa or chả, xôi, cháo canh, or a bánh mì chả nướng if you are walking. Lunch can be bún chả nướng with a thick peanut sauce. Summer brings canh hến and hến xúc bánh tráng. Rươi season brings chả rươi and mắm rươi. The markets sell nộm, nước chè xanh, and kẹo cu đơ, the peanut brittle a maker from Hương Sơn set on bánh tráng.",
+    "Đào Tấn is the citadel night street, from cửa Hữu to cửa Tả, with a second line of about 150 m, in Cửa Nam. Mobile kiosks run 18:00–06:00. Fixed kitchens were allowed 24 hours. Hồ Sỹ Dương is the other night stretch, for xôi, cháo gà, cháo lươn, and miến ngan.",
+    "Cửa Lò is the beach of this city. Ask for charcoal squid, and for mực một nắng when you want it dried one day. The beach also has mực nhảy and mực câu. Tương Nam Đàn, nhút Thanh Chương, and bánh đa Đô Lương are the neighbor sauce, the ferment, and the cracker. They are not stalls in the center."
+  ],
+  "specialtiesLead": "Cháo lươn comes first. The other specialties follow, with the street when one is known.",
+  "dishSlugs": [
+    "vinh--chao-luon",
+    "vinh--sup-luon",
+    "vinh--banh-muot",
+    "vinh--chao-canh",
+    "vinh--xoi",
+    "vinh--banh-mi-cha-nuong",
+    "vinh--bun-cha-nuong",
+    "vinh--muc-nuong",
+    "vinh--cam-vinh",
+    "vinh--mia-hap-gung",
+    "vinh--ca-phe-bot",
+    "vinh--canh-hen",
+    "vinh--hen-xuc-banh-trang",
+    "vinh--cha-ruoi",
+    "vinh--mam-ruoi",
+    "vinh--nom-cho-vinh",
+    "vinh--nuoc-che-xanh",
+    "vinh--keo-cu-do",
+    "vinh--banh-ngao",
+    "vinh--banh-beo",
+    "vinh--oc",
+    "vinh--ngo-nuong",
+    "vinh--khoai-nuong",
+    "vinh--chao-bo-cau",
+    "vinh--bo-cau-hap-ngai-cuu",
+    "vinh--chao-ga",
+    "vinh--xao-ga",
+    "vinh--mien-ngan",
+    "vinh--nem-chua",
+    "vinh--banh-duc-hen",
+    "vinh--gio-me",
+    "vinh--mam-ruoc-cua-lo",
+    "vinh--nuoc-mam-nhi",
+    "vinh--nhut-thanh-chuong",
+    "vinh--tuong-nam-dan",
+    "vinh--banh-da-do-luong"
+  ],
+  "sections": [
+    {
+      "id": "eel",
+      "heading": "Eel",
+      "nav": "Eel",
+      "paragraphs": [
+        "Cháo lươn and súp lươn are the two bowls. Where the accounts disagree, both stay."
+      ],
+      "spots": [
+        {
+          "name": "Chao luon",
+          "nameVi": "Cháo lươn",
+          "address": "Center, the citadel area, and Hồ Sỹ Dương at night",
+          "note": "Cháo lươn is a thin eel porridge, silky from whole rice grains and a little sticky rice, fragrant and hot with chili. One broth is sweet without the fat of a meat stock.",
+          "dishSlug": "vinh--chao-luon"
+        },
+        {
+          "name": "Sup luon",
+          "nameVi": "Súp lươn",
+          "address": "Center, Cửa Nam, and Đào Tấn",
+          "note": "Súp lươn is eel soup, eaten with bánh mì or bánh mướt. One broth tastes of nén and runs orange-red from annatto and chili; the other uses eel stir-fried with shallot, turmeric, and chili.",
+          "dishSlug": "vinh--sup-luon"
+        }
+      ]
+    },
+    {
+      "id": "morning",
+      "heading": "Morning",
+      "nav": "Morning",
+      "paragraphs": [
+        "Morning runs from bánh mướt to a coffee in the market hall."
+      ],
+      "spots": [
+        {
+          "name": "Banh muot",
+          "nameVi": "Bánh mướt",
+          "address": "Center. Trần Phú on a 2016 page",
+          "note": "Bánh mướt is a soft, translucent rice-flour roll, finger-length, with fried shallot inside, glossy and chewy. At breakfast it comes with giò lụa or chả, and nước mắm, lime, and fresh chili.",
+          "dishSlug": "vinh--banh-muot"
+        },
+        {
+          "name": "Xoi",
+          "nameVi": "Xôi",
+          "address": "Center in the morning, Hồ Sỹ Dương at night",
+          "note": "Xôi is a portion of sticky rice, taken in the morning or late at night on Hồ Sỹ Dương.",
+          "dishSlug": "vinh--xoi"
+        },
+        {
+          "name": "Chao canh",
+          "nameVi": "Cháo canh",
+          "address": "Cửa Nam, Đinh Công Tráng, and Đào Tấn",
+          "note": "Cháo canh is thick wheat-and-rice noodles in a pork-bone broth cooked until it thickens like porridge. The noodles are firm and chewy, in a glossy yellow broth.",
+          "dishSlug": "vinh--chao-canh"
+        },
+        {
+          "name": "Banh mi cha nuong",
+          "nameVi": "Bánh mì chả nướng",
+          "address": "Check on arrival",
+          "note": "Bánh mì chả nướng is a baguette packed with grilled chả and crisp herbs, eaten on the morning walk.",
+          "dishSlug": "vinh--banh-mi-cha-nuong"
+        },
+        {
+          "name": "Bun cha nuong",
+          "nameVi": "Bún chả nướng",
+          "address": "Check on arrival",
+          "note": "Bún chả nướng is grilled pork with rice noodles. In Vinh the bowl can skip the broth and use a thick, rich peanut sauce.",
+          "dishSlug": "vinh--bun-cha-nuong"
+        },
+        {
+          "name": "Ca phe bot",
+          "nameVi": "Cà phê bọt",
+          "address": "Chợ Vinh",
+          "note": "Cà phê bọt is a foam coffee, black or with milk, poured in Chợ Vinh. Drink the foam first, or stir it in.",
+          "dishSlug": "vinh--ca-phe-bot"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "heading": "Market table",
+      "nav": "Market",
+      "paragraphs": [
+        "The clam bowls, the rươi, the market salad, the green tea, and the peanut candy sit on this table."
+      ],
+      "spots": [
+        {
+          "name": "Canh hen",
+          "nameVi": "Canh hến",
+          "address": "Check on arrival",
+          "note": "Canh hến is a summer clam soup: the liquor is the broth, and the meat is stir-fried and stirred back in with a green. It is sweet, rich with the clam, and cooling.",
+          "dishSlug": "vinh--canh-hen"
+        },
+        {
+          "name": "Hen xuc banh trang",
+          "nameVi": "Hến xúc bánh tráng",
+          "address": "Check on arrival",
+          "note": "Hến xúc bánh tráng is clams stir-fried with scallion fat, then finished with herbs, crushed roasted peanuts, and chili. You scoop it up with bánh tráng.",
+          "dishSlug": "vinh--hen-xuc-banh-trang"
+        },
+        {
+          "name": "Cha ruoi",
+          "nameVi": "Chả rươi",
+          "address": "Check on arrival",
+          "note": "Chả rươi is rươi, egg, and lean pork fried over a low flame. It is deeply sweet and rich, with a taste of its own from the tangerine peel.",
+          "dishSlug": "vinh--cha-ruoi"
+        },
+        {
+          "name": "Mam ruoi",
+          "nameVi": "Mắm rươi",
+          "address": "Check on arrival",
+          "note": "Mắm rươi is rươi tossed with salt, kept about ten days, sun-dried, and mixed with tangerine peel. It is a dip for herbs and boiled pork.",
+          "dishSlug": "vinh--mam-ruoi"
+        },
+        {
+          "name": "Nom cho Vinh",
+          "nameVi": "Nộm chợ Vinh",
+          "address": "Chợ Vinh",
+          "note": "Nộm chợ Vinh is a mixed salad of green papaya, banana flower, bean sprouts, and green star fruit. It tastes nutty, sour, hot, salty, and sweet.",
+          "dishSlug": "vinh--nom-cho-vinh"
+        },
+        {
+          "name": "Nuoc che xanh",
+          "nameVi": "Nước chè xanh",
+          "address": "Check on arrival",
+          "note": "Nước chè xanh is green tea from thick leaves, just short of old. The liquor is sharp at first and sweet after, green, fragrant, and hot.",
+          "dishSlug": "vinh--nuoc-che-xanh"
+        },
+        {
+          "name": "Keo cu do",
+          "nameVi": "Kẹo cu đơ",
+          "address": "Check on arrival",
+          "note": "Kẹo cu đơ is peanut brittle set on bánh tráng, eaten with nước chè xanh. The candy is sweet, and the peanut sits against the sharp-sweet tea.",
+          "dishSlug": "vinh--keo-cu-do"
+        },
+        {
+          "name": "Banh duc hen",
+          "nameVi": "Bánh đúc hến",
+          "address": "Check on arrival",
+          "note": "Bánh đúc hến is soft bánh đúc with fragrant stir-fried clams, eaten in the afternoon or the evening.",
+          "dishSlug": "vinh--banh-duc-hen"
+        }
+      ]
+    },
+    {
+      "id": "sidewalk",
+      "heading": "Afternoon and the sidewalk",
+      "nav": "Sidewalk",
+      "paragraphs": [
+        "The afternoon moves from bánh ngào to the snails, then the night corn and the pigeon bowl."
+      ],
+      "spots": [
+        {
+          "name": "Banh ngao",
+          "nameVi": "Bánh ngào",
+          "address": "Markets. A hall was not named",
+          "note": "Bánh ngào is a hot molasses rice cake for cool or drizzly weather, sweet, chewy, and gingery. One account gives it no filling; another allows mung bean, pork, or none.",
+          "dishSlug": "vinh--banh-ngao"
+        },
+        {
+          "name": "Mia hap gung",
+          "nameVi": "Mía hấp gừng",
+          "address": "Check on arrival",
+          "note": "Mía hấp gừng is sugarcane cut into long pieces and steamed with bruised ginger. It is more fragrant, and softer and sweeter, than an uncooked piece.",
+          "dishSlug": "vinh--mia-hap-gung"
+        },
+        {
+          "name": "Banh beo",
+          "nameVi": "Bánh bèo",
+          "address": "Đào Tấn",
+          "note": "Bánh bèo here is a bột lọc cake with shrimp or pork and a heavy hand of herbs.",
+          "dishSlug": "vinh--banh-beo"
+        },
+        {
+          "name": "Oc",
+          "nameVi": "Ốc",
+          "address": "Check on arrival",
+          "note": "Ốc is whole snails, stir-fried or boiled, with lemongrass, ginger, chili, and lime leaf.",
+          "dishSlug": "vinh--oc"
+        },
+        {
+          "name": "Ngo nuong",
+          "nameVi": "Ngô nướng",
+          "address": "Citadel gate, Nguyễn Tất Thành park gate, rạp 12-9, and Đào Tấn",
+          "note": "Ngô nướng is night nếp corn, sweet and spicy. One account brushes the ear with tương ớt and butter before the grill.",
+          "dishSlug": "vinh--ngo-nuong"
+        },
+        {
+          "name": "Khoai nuong",
+          "nameVi": "Khoai nướng",
+          "address": "Đào Tấn mobile kiosks",
+          "note": "Khoai nướng is grilled sweet potato, a plain night snack beside the corn.",
+          "dishSlug": "vinh--khoai-nuong"
+        },
+        {
+          "name": "Chao bo cau",
+          "nameVi": "Cháo bồ câu",
+          "address": "Phan Chu Trinh on a 2016 page",
+          "note": "Cháo bồ câu is a late porridge of pigeon simmered whole, with lotus seeds or mung beans. Nghệ An chili powder goes on, and the rice blooms without turning to mush.",
+          "dishSlug": "vinh--chao-bo-cau"
+        },
+        {
+          "name": "Bo cau hap ngai cuu",
+          "nameVi": "Bồ câu hấp ngải cứu",
+          "address": "Check on arrival",
+          "note": "Bồ câu hấp ngải cứu is steamed pigeon with mugwort, ordered in place of the porridge.",
+          "dishSlug": "vinh--bo-cau-hap-ngai-cuu"
+        }
+      ]
+    },
+    {
+      "id": "night",
+      "heading": "Night and the beach",
+      "nav": "Night",
+      "paragraphs": [
+        "Đào Tấn and Hồ Sỹ Dương are the night streets in town. Cửa Lò is the squid."
+      ],
+      "spots": [
+        {
+          "name": "Muc nuong",
+          "nameVi": "Mực nướng",
+          "address": "Cửa Lò and the night sidewalks, including Đào Tấn",
+          "note": "Mực nướng is squid grilled over charcoal, or mực một nắng when it has dried for a day. The grilled squid keeps a natural sweetness and a chewy bite.",
+          "dishSlug": "vinh--muc-nuong"
+        },
+        {
+          "name": "Chao ga",
+          "nameVi": "Cháo gà",
+          "address": "Đường Hồ Sỹ Dương",
+          "note": "Cháo gà is chicken porridge, eaten at night on Hồ Sỹ Dương.",
+          "dishSlug": "vinh--chao-ga"
+        },
+        {
+          "name": "Xao ga",
+          "nameVi": "Xáo gà",
+          "address": "Đào Tấn",
+          "note": "Xáo gà is the chicken bowl on the fixed kitchens at Đào Tấn.",
+          "dishSlug": "vinh--xao-ga"
+        },
+        {
+          "name": "Mien ngan",
+          "nameVi": "Miến ngan",
+          "address": "Hồ Sỹ Dương and Đào Tấn",
+          "note": "Miến ngan is goose glass noodles, eaten at night on Hồ Sỹ Dương and Đào Tấn.",
+          "dishSlug": "vinh--mien-ngan"
+        },
+        {
+          "name": "Nem chua",
+          "nameVi": "Nem chua",
+          "address": "Đào Tấn mobile kiosks",
+          "note": "Nem chua is a night snack on the mobile kiosks at Đào Tấn, sold with the corn, sweet potato, and squid.",
+          "dishSlug": "vinh--nem-chua"
+        }
+      ]
+    },
+    {
+      "id": "carry",
+      "heading": "Fruit, sauce, and the feast loaf",
+      "nav": "To carry",
+      "paragraphs": [
+        "These are the orange, the veal loaf, and the sauces to eat or carry."
+      ],
+      "spots": [
+        {
+          "name": "Cam Vinh",
+          "nameVi": "Cam Vinh",
+          "address": "The city. The orchard article says Nghi Diên, Nghi Lộc",
+          "note": "Cam Vinh, also cam Xã Đoài, is the local orange. A cut fruit is gently sweet and fragrant, and a scuffed skin gives off a smell of its own.",
+          "dishSlug": "vinh--cam-vinh"
+        },
+        {
+          "name": "Gio me",
+          "nameVi": "Giò me",
+          "address": "Check on arrival",
+          "note": "Giò me, also giò bê, is a veal loaf in three layers: egg, a thin skin, then the meat. The meat is fragrant, soft, and not dry, the skin is crisp, and the sweetness is the veal’s own.",
+          "dishSlug": "vinh--gio-me"
+        },
+        {
+          "name": "Nuoc mam nhi",
+          "nameVi": "Nước mắm nhĩ",
+          "address": "Check on arrival",
+          "note": "Nước mắm nhĩ is fish sauce from fresh anchovy, the color of cánh gián. It is salty and fragrant.",
+          "dishSlug": "vinh--nuoc-mam-nhi"
+        },
+        {
+          "name": "Mam ruoc Cua Lo",
+          "nameVi": "Mắm ruốc Cửa Lò",
+          "address": "Cửa Lò",
+          "note": "Mắm ruốc Cửa Lò is krill fermented with salt, strong and fragrant. Use it as a seasoning or a dip for rau sống.",
+          "dishSlug": "vinh--mam-ruoc-cua-lo"
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "role": "regional",
+      "heading": "Regional dishes",
+      "nav": "Regional",
+      "paragraphs": [
+        "Nam Đàn, Thanh Chương, and Đô Lương are other communes. These three sit on the Nghệ table. They are not stalls in the center."
+      ],
+      "spots": [
+        {
+          "name": "Nhut Thanh Chuong",
+          "nameVi": "Nhút Thanh Chương",
+          "address": "Thanh Chương",
+          "note": "Nhút Thanh Chương is young jackfruit fiber, salted and fermented. It is sour and crisp, and a little nước mắm is enough as a dip.",
+          "dishSlug": "vinh--nhut-thanh-chuong"
+        },
+        {
+          "name": "Tuong Nam Dan",
+          "nameVi": "Tương Nam Đàn",
+          "address": "Nam Đàn",
+          "note": "Tương Nam Đàn is a soybean sauce of cracked beans, yellow like honey rather than a brown paste. It is fragrant and deeply sweet.",
+          "dishSlug": "vinh--tuong-nam-dan"
+        },
+        {
+          "name": "Banh da Do Luong",
+          "nameVi": "Bánh đa Đô Lương",
+          "address": "Đô Lương",
+          "note": "Bánh đa Đô Lương is a sesame rice cracker about 20 cm across, grilled or fried until thin and light. The black sesame makes it nutty and fragrant.",
+          "dishSlug": "vinh--banh-da-do-luong"
+        }
+      ]
+    },
+    {
+      "id": "casual",
+      "role": "casual",
+      "heading": "Casual dining",
+      "nav": "Streets",
+      "paragraphs": [
+        "These are streets and halls, not a stall list."
+      ],
+      "spots": [
+        {
+          "name": "Dao Tan",
+          "nameVi": "Đường Đào Tấn",
+          "address": "From cửa Hữu to cửa Tả, plus a line of about 150 m",
+          "note": "The citadel night street runs from cửa Hữu to cửa Tả, plus a line of about 150 m, in Cửa Nam. Mobile kiosks run 18:00–06:00, then the pavement is cleared. Fixed kitchens were allowed 24 hours. Those kitchens serve súp lươn, xáo gà, miến ngan, cháo canh, and bánh bèo. The mobile kiosks sell ngô, khoai, mực nướng, and nem chua."
+        },
+        {
+          "name": "Ho Sy Duong",
+          "nameVi": "Đường Hồ Sỹ Dương",
+          "address": "Center",
+          "note": "Xôi, cháo gà, cháo lươn, and miến ngan at night. The road is also called phố cháo lươn."
+        },
+        {
+          "name": "Nguyen Van Cu",
+          "nameVi": "Nguyễn Văn Cừ",
+          "address": "Walking loop by the square",
+          "note": "The food and cafe sidewalk on the walking loop. Friday and Saturday, 19:00–23:30, on Hồ Tùng Mậu, Nguyễn Văn Cừ, Nguyễn Trung Ngạn, and Nguyễn Tài. One account of the same opening adds Sunday and names Nguyễn Trãi instead of the last two streets."
+        },
+        {
+          "name": "Cho Vinh",
+          "nameVi": "Chợ Vinh",
+          "address": "Center",
+          "note": "The morning hall for the foam coffee. Chợ Ga Vinh and Chợ Quán Lau are the other named markets. The 2019 Cao Thắng night market in front of Chợ Vinh stopped after a few months. A later account still names phố đêm Cao Thắng as a night-economy project. Do not treat the 2019 market as open."
+        },
+        {
+          "name": "Cua Lo kitchens",
+          "nameVi": "Quán ven biển Cửa Lò",
+          "address": "Đường Bình Minh, Cửa Lò",
+          "note": "Evening squid, and the morning fishing port. The kitchens sit along đường Bình Minh."
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "role": "breakfast",
+      "heading": "Breakfast",
+      "nav": "Breakfast",
+      "paragraphs": [
+        "Bánh mướt with giò lụa or chả, xôi, cháo canh, and bánh mì chả nướng are the morning. Súp lươn starts the day on one account. Cà phê bọt is the market cup after that."
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Vinh food guide — cháo lươn, bánh mướt, and Đào Tấn",
+  "seoDescription": "Cháo lươn is the thin eel porridge. Breakfast is bánh mướt or cháo canh. Đào Tấn is the citadel night street."
+}

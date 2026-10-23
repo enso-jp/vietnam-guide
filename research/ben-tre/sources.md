@@ -178,3 +178,33 @@ A search extract is the text returned for that URL when the direct open timed ou
 - Publisher: Vietnam Tourism. Page opened.
 - Accessed: 22 Oct 2026
 - Supports: About two hours from Ho Chi Minh City. Cù lao Long by a short ferry past the Ben Tre Market and the Ben Tre River. More than 300 coconut-candy factories. The plain candy as coconut milk and sugar. Coconut rice, coconut-braised shrimp, and củ hủ dừa. Hủ tiếu with pork, shrimp, quail egg, lime, and cilantro. Local buses from Bến xe Miền Tây. One company fare was on the page and is not used.
+
+### S30
+- URL: https://bentretourism.vn/vi/detailnews/?id=news_1380&t=delicious-dishes-in-ben-tre
+- Publisher: Cổng thông tin du lịch tỉnh Bến Tre. Article “Món ngon Bến Tre”, dated on the page 09/06/2021. Byline Tường Vi. Page opened.
+- Accessed: 23 Oct 2026
+- Supports: Hủ tiếu patê as a house chả of da đầu heo, mỡ heo, thịt nạc, and tiêu hạt. Bánh ướt with a yellow sweet fish sauce, thịt ram, chả lụa, chả chiên, and nem chua. Bánh xèo batter of rice flour, coconut milk, and turmeric, with one counter’s filling of hến, tôm, thịt, and củ sắn. Bún riêu with thịt nạc, riêu cua, huyết heo, giò heo, and tai heo, from about 15:00 into the evening, busiest 17:00–18:00. Lẩu mắm from pork bone and mắm cá linh. Shop addresses are locators only. Cơm tấm is described as a southern plate and was not given a Ben Tre specialty page.
+
+### S31
+- URL: https://bentretourism.vn/en/detailnews/?id=about_32&t=gioi-thieu-tong-quan-du-lich-ben-tre
+- Publisher: Same portal. Article “Giới thiệu tổng quan du lịch Bến Tre”, dated on the page 04/11/2021. Page opened.
+- Accessed: 23 Oct 2026
+- Supports: Local coconut dishes: cơm trái dừa, tép rang dừa, gỏi củ hủ dừa, nấm mối xào nước cốt dừa, ốc len xào dừa, bánh xèo ốc gạo. Crafts: kẹo dừa, bánh tráng Mỹ Lồng, bánh phồng Sơn Đốc. Pre-merger area 2,394.82 km² and about 1.3 million people. Not chosen over the investment sheet or the 2025 province.
+
+### S32
+- URL: https://bentretourism.vn/zh/detailnews/?id=news_1375&t=goi-cu-hu-dua-tom-thit-tinh-tuy-am-thuc-ben-tre
+- Publisher: Same portal. Article dated on the page 04/06/2021. Byline context Tường Vi on the photo credit. Page opened.
+- Accessed: 23 Oct 2026
+- Supports: Gỏi củ hủ dừa tôm thịt, the ingredient list, the lime-and-sugar dressing, the Vietkings 2011–2016 claim for that salad and cơm hấp trong trái dừa, and bánh phồng tôm as a side. The shrimp cracker is not bánh phồng Sơn Đốc.
+
+### S33
+- URL: https://bentretourism.vn/vi/detailnews/?id=news_3483&t=keo-dua-ben-tre-dac-san-truyen-thong
+- Publisher: Same portal. Article “Kẹo dừa Bến Tre - Đặc sản truyền thống”, dated on the page 25/11/2024. Byline LNV. Page opened.
+- Accessed: 23 Oct 2026
+- Supports: Elders’ 1930s start at Mỏ Cày, now Mỏ Cày Nam. Coconut milk, maltose from sprouted glutinous rice, and yellow cane sugar. Later flavors sầu riêng, đậu phộng, cacao, lá dứa. More than 180 workshops and tens of thousands of tons a year. A glass of fresh coconut water in the garden. The 85 km line was not added to the road pairs already on the place.
+
+### S34
+- URL: https://nongthon.vietnamtourism.gov.vn/ben-tres-coconut-land-a-green-experience-in-the-heart-of-the-mekong/?lang=en
+- Publisher: Trung tâm Thông tin du lịch, the national rural tourism site. English article “Ben Tre’s Coconut Land”. Byline Hồng Thanh Nguyễn. No date was printed on the article. Page opened.
+- Accessed: 23 Oct 2026
+- Supports: Snakehead fish braised in coconut water, with coconut worms and coconut-heart salad. Over 200,000 ha of coconut, nearly half of the country’s coconut land. No Vietnamese name for the fish. The hectare figure is recorded beside 53,000, more than 60,000, and above 62,000. Not chosen.
