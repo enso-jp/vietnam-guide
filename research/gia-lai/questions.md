@@ -4,7 +4,13 @@ Checked: 23 Oct 2026
 
 - Biển Hồ boat hire, shore ticket, and hours: Check on arrival. UNSOURCED.
 - Biển Hồ tea slopes fee and hours: Check on arrival. UNSOURCED. No licensed tea photograph.
-- Chu Đăng Ya fee, hours, and drive minutes: Check on arrival. UNSOURCED. No licensed crater photograph.
+- Chu Đăng Ya fee, hours, and drive minutes: Check on arrival. UNSOURCED. No licensed crater photograph. Commons search 23 Oct 2026 still returned none.
+- Buu Minh hours, donations, and taxi minutes: Check on arrival. UNSOURCED. Hall height is more than 47 m from the floor to the tower tip, and also 25 m. Distance is 15 km and more than 15 km.
+- Dong Xanh hours, gate fee, and time on site: Check on arrival. UNSOURCED on the national tourism page. Secondary clocks disagree (07:00 and 07:30).
+- Tây Sơn Thượng đạo hours, fee, and minutes from Pleiku: Check on arrival. UNSOURCED.
+- K50 fee and door hours: Check on arrival. A Saturday–Sunday 07:00–17:00 clock is one secondary source. Height is about 54 m, nearly 50 m, and more than 50 m. The trail is nearly two days and nights, or more than 140 km from Pleiku plus about an hour on foot.
+- Hàm Rồng: the only Commons frame is a gray highway and a distant hill. Unpublished.
+- Pleiku Museum: no licensed photo of the building. Unpublished.
 - Minh Thanh gate hours, donations, and taxi minutes: Check on arrival. UNSOURCED.
 - Dien Hong stall hours and prices: Check on arrival. UNSOURCED. No licensed night photograph.
 - Dai Doan Ket Saturday start time outside 7 November 2026, and any seat fee: Check on arrival. UNSOURCED. No licensed square photograph.
