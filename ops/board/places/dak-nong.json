@@ -133,11 +133,11 @@
       "file": "src/content/attractions/dak-nong--dray-sap.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
+      "page": "paged",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Published shell. No dossier yet.",
-      "updated": "2026-10-21T11:19:40.330Z",
+      "note": "Finished Dray Sap from the dossier. Fee, hours, and time on site stay Check on arrival. Foody’s 07:30–18:00 is printed beside that.",
+      "updated": "2026-10-23T06:22:40.129Z",
       "reworkCount": 0
     },
     {
@@ -288,6 +288,14 @@
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-23T06:22:40.129Z",
+      "place": "dak-nong",
+      "stage": "page",
+      "item": "dak-nong--dray-sap",
+      "status": "paged",
+      "note": "Finished Dray Sap from the dossier. Fee, hours, and time on site stay Check on arrival. Foody’s 07:30–18:00 is printed beside that."
+    },
     {
       "at": "2026-10-23T06:21:07.123Z",
       "place": "dak-nong",
