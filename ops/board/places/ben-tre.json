@@ -25,9 +25,9 @@
       "reworkCount": 0
     },
     "researchAttractions": {
-      "status": "stored",
-      "note": "Left out: a museum tariff, a second Con Phung gate, ferry minutes to Con Long, and minutes from town to the relic, the tomb, and the craft villages.",
-      "updated": "2026-10-22T04:20:41.733Z",
+      "status": "needs_depth",
+      "note": "A new item was added after this lane was stored.",
+      "updated": "2026-10-23T19:16:21.904Z",
       "reworkCount": 0
     },
     "researchFood": {
@@ -133,11 +133,11 @@
       "file": null,
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
+      "page": "paged",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "unpublished: no licensed photo",
-      "updated": "2026-10-22T04:40:19.228Z",
+      "note": "Published. Lake photo plus the Tran Van On monument at the lake.",
+      "updated": "2026-10-23T19:17:46.460Z",
       "reworkCount": 0
     },
     {
@@ -152,8 +152,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "unpublished: no licensed photo",
-      "updated": "2026-10-22T04:40:19.418Z",
+      "note": "Superseded by slug museum. The old row name doubled the place prefix.",
+      "updated": "2026-10-23T19:17:46.406Z",
       "reworkCount": 0
     },
     {
@@ -776,8 +776,56 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "unpublished: no licensed photo",
-      "updated": "2026-10-22T04:40:32.697Z",
+      "note": "Superseded by slug market.",
+      "updated": "2026-10-23T19:17:46.586Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ben-tre--museum",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Ben Tre Museum",
+      "slug": "museum",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "paged",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Public file ben-tre--museum.json. One licensed frame, so no article body.",
+      "updated": "2026-10-23T19:17:46.344Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ben-tre--market",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Ben Tre Market",
+      "slug": "market",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "paged",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Public file ben-tre--market.json. One licensed frame, so no article body.",
+      "updated": "2026-10-23T19:17:46.545Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ben-tre--town-boat",
+      "kind": "sight",
+      "track": "unit",
+      "name": "The town boat",
+      "slug": "town-boat",
+      "file": null,
+      "source": "dossier",
+      "research": "stored",
+      "page": "paged",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "Two licensed frames of tourist boats on the Ben Tre River.",
+      "updated": "2026-10-23T19:17:46.671Z",
       "reworkCount": 0
     }
   ],

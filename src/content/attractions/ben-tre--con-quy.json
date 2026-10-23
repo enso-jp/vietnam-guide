@@ -4,21 +4,21 @@
   "name": "Cồn Quy",
   "nameVi": "Cồn Quy",
   "kicker": "Longan orchard on the Tiền, beside Cồn Phụng",
-  "summary": "A longan orchard on the Tiền, with honey tea and a ditch you can bail for fish and cook. It is often the same boat as Cồn Phụng. Skip it if the nine-dragon court is the only stop you wanted. No kilometer was printed, and the fee is check on arrival.",
+  "summary": "Longan orchard on the Tiền: walk the trees, drink honey tea, and bail a ditch for fish on the same boat day. The ride often continues from Cồn Phụng. Skip it when the nine-dragon court is the only stop you wanted. Ask the crew where this orchard lets you off.",
   "dots": 3,
   "timeNeeded": "A stop on the river day",
   "fee": "Check on arrival",
-  "getThere": "No kilometer was printed. Do not reuse the Cồn Phụng distances.",
+  "getThere": "By boat, often with Cồn Phụng. Ask the crew for this stop.",
   "district": "The Tiền",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "A longan garden path on Cồn Quy",
   "notice": {
-    "title": "The blossom month was not printed",
-    "body": "Check on arrival for the longan blossom. This orchard is not the Đạo Dừa ground on Cồn Phụng."
+    "title": "Ask the crew about the blossom",
+    "body": "The month for longan blossom is Check on arrival. The nine-dragon court is on Cồn Phụng."
   },
   "body": [
-    "The national rural page names Cồn Quy as a longan orchard, with honey tea and a ditch you can bail for fish and cook. No commune and no kilometer were printed. Do not reuse the 12 km, the 25 km, or the about 10 km that belong to Cồn Phụng. A month for the blossom is check on arrival.",
-    "The boat that reaches Cồn Phụng often continues here. A separate fare was not printed. Check on arrival. The visit is the orchard path and a sampan in the creek. The four nicknames are Long, Lân, Quy, and Phụng. Lân has no bank named."
+    "Walk a longan orchard, drink honey tea, and bail a ditch for fish to cook when the crew offers it. The blossom month is Check on arrival. Quy sits with the other names on this bank of the Tiền. Use the boat's own directions for the stop.",
+    "The same boat that reaches Cồn Phụng often continues here. A separate fare is Check on arrival. The visit is the orchard path and a sampan in the creek. The four names are Long, Lân, Quy, and Phụng. Lân has no bank named."
   ],
   "figures": [
     {
@@ -28,22 +28,22 @@
     }
   ],
   "gettingThere": [
-    "No commune, no kilometer, and no minute were printed for Cồn Quy. Check on arrival. It sits with the other nicknames on this bank of the Tiền, and it is not cù lao Thới Sơn."
+    "Come by boat, often the boat that also calls at Cồn Phụng. Ask the crew for this stop. The Cồn Phụng kilometers belong to that islet. The landing is on this bank of the Tiền. Thới Sơn is the Mỹ Tho side."
   ],
   "legs": [
     {
       "heading": "From Ben Tre",
-      "body": "By boat, often the same boat as Cồn Phụng. No separate kilometer was printed. Minutes and the fare are check on arrival."
+      "body": "By boat, often the same boat as Cồn Phụng. Minutes and the fare are Check on arrival."
     }
   ],
-  "hours": "No hours were printed. Check on arrival.",
-  "closed": "No weekly close was printed. Check on arrival.",
-  "admissionNote": "No tariff was printed for Cồn Quy. The fee is Check on arrival. The operator figures for Cồn Phụng do not transfer here.",
+  "hours": "Check on arrival",
+  "closed": "Check on arrival.",
+  "admissionNote": "The fare is Check on arrival. The Cồn Phụng gate stays at that islet.",
   "links": [
     {
-      "label": "National rural page",
+      "label": "The four islets",
       "url": "https://nongthon.vietnamtourism.gov.vn/ve-ben-tre-tham-con-phung-lang-que-yen-binh-xu-dua/",
-      "note": "Vietnam Tourism. It names the longan orchard and prints no tariff."
+      "note": "Cồn Quy as the longan orchard on the same river day."
     }
   ],
   "interests": ["islands", "family"]

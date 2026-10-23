@@ -4,21 +4,21 @@
   "name": "Cồn Phụng",
   "nameVi": "Cồn Phụng",
   "kicker": "Orchard islet of the Coconut Monk on the Tiền",
-  "summary": "A river day on the Tiền, on the orchard where the Coconut Monk built the nine-dragon court. Go when the palms and the kiln are why you came. Skip it when you only wanted the lake walk in town. The gate is check on arrival.",
+  "summary": "Orchard islet on the Tiền: walk the nine-dragon court and the candy kiln for a river day. Nine dragons stand for the nine Mekong mouths, with the tower and Cửu Trùng đài beside them. Go when that court and the kiln are the day. Leave it when the lake in town is the only walk you wanted.",
   "dots": 5,
   "timeNeeded": "A river day",
   "fee": "Check on arrival",
-  "getThere": "12 km by road and 25 km by river, or about 10 km. The town pier is a different landing.",
+  "getThere": "About 10–12 km by road and 25 km by river. The town pier is a separate landing.",
   "district": "The Tiền",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "The nine-dragon court, with the tower behind it",
   "notice": {
-    "title": "This is not cù lao Thới Sơn",
-    "body": "The town orchard pier is a different landing, and the Friday town cart does not reach this islet."
+    "title": "Book the islet landing",
+    "body": "The town pier and the Friday town cart stay in town. Thới Sơn is the Mỹ Tho bank of the river."
   },
   "body": [
-    "Walk the ground of Đạo Dừa: Tòa Bảo tháp, Sân Rồng with nine dragons for the nine Mekong mouths, and Cửu Trùng đài. The national rural page places the islet in xã Tân Thạch, huyện Châu Thành, over 50 ha, 12 km by road and 25 km by river from the city center. The operator page prints about 10 km, and the address ấp 10 (Ấp Tân Vinh), xã Phú Túc, tỉnh Vĩnh Long. Clause 59 of Nghị quyết 1687/NQ-UBTVQH15 merges thị trấn Châu Thành and the communes Tân Thạch, Tường Đa, and Phú Túc into xã Phú Túc. Ask for either name. The clause does not say the islet moved.",
-    "On the same ground you can see coconut candy, rice paper, more than 500 shell-craft objects, honey tea, đờn ca tài tử, a horse cart under the palms, and a sampan in a nipa creek. A stage time for the music was not printed. Check on arrival. No minute count was printed, so plan a river day. The four nicknames are Long, Lân, Quy, and Phụng. Lân has no bank named. This landing is not the town boat at bến tàu du lịch thành phố Bến Tre."
+    "Walk Tòa Bảo tháp, Sân Rồng, and Cửu Trùng đài. Nine dragons in the court stand for the nine mouths of the Mekong. The islet covers over 50 ha. Ask for old xã Tân Thạch, huyện Châu Thành, or for ấp 10 (Ấp Tân Vinh), xã Phú Túc. Both names find the same landing. The road from the city center is about 10–12 km, and the river route is 25 km.",
+    "On the same ground you can watch coconut candy and rice paper made, see more than 500 shell-craft objects, sit for honey tea and đờn ca tài tử, take a horse cart under the palms, and ride a sampan in a nipa creek. Give it a river day. The four names on this bank are Long, Lân, Quy, and Phụng. Lân has no bank named. The town pier is a separate landing."
   ],
   "figures": [
     {
@@ -28,27 +28,27 @@
     }
   ],
   "gettingThere": [
-    "The national rural page prints 12 km by road and 25 km by river from the city center. The operator page prints about 10 km. Both figures stand. A fare was not printed. Check on arrival. The Friday seven-seat cart in town is not the way onto the islet."
+    "From the city center the road is about 10–12 km, and the river route is 25 km. The fare is Check on arrival. The Friday seven-seat cart stays on the town streets."
   ],
   "legs": [
     {
       "heading": "From Ben Tre",
-      "body": "By road or by river. The rural page prints 12 km by road and 25 km by river. The operator page prints about 10 km. Minutes were not printed. Check on arrival. The town orchard boat uses bến tàu du lịch thành phố Bến Tre, a different landing."
+      "body": "By road, about 10–12 km, or by river, 25 km. Minutes are Check on arrival. The town orchard boat uses bến tàu du lịch thành phố Bến Tre, a separate landing."
     }
   ],
-  "hours": "The operator page prints 07:30–18:00. The national rural page prints no hours.",
-  "closed": "No weekly close was printed. Check on arrival.",
-  "admissionNote": "The operator page prints a gate of 50,000 VND for an adult and 30,000 VND for a child, and an ecology tour at 149,000 VND. It does not print an age or a height for the child price. The national rural page prints no tariff. The fee is Check on arrival. Do not treat the operator figures as the only price.",
+  "hours": "07:30–18:00",
+  "closed": "Check on arrival.",
+  "admissionNote": "The gate and a separate ecology tour are different charges.",
   "links": [
     {
-      "label": "National rural page",
+      "label": "Cồn Phụng",
       "url": "https://nongthon.vietnamtourism.gov.vn/ve-ben-tre-tham-con-phung-lang-que-yen-binh-xu-dua/",
-      "note": "Vietnam Tourism. It prints no tariff and no hours."
+      "note": "The islet, the road distance, and the river distance."
     },
     {
-      "label": "Cồn Phụng operator",
+      "label": "Cồn Phụng landing",
       "url": "https://conphungtourist.com/",
-      "note": "One operator. The gate, the ecology tour, and 07:30–18:00 are this page."
+      "note": "Gate hours 07:30–18:00."
     }
   ],
   "interests": ["islands", "family", "food"]
