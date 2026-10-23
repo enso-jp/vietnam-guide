@@ -9,6 +9,7 @@ import '@fontsource/source-serif-4/vietnamese-600.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { site } from '../config/site';
+import { tripFooterBanner } from '../lib/partners';
 
 interface Props {
   title: string;
@@ -62,6 +63,11 @@ const image = ogImage ? new URL(ogImage, site.url).toString() : '';
     <main id="content">
       <slot />
     </main>
+    <div class="trip-banner">
+      <div class="trip-banner-fit">
+        <iframe border="0" src={tripFooterBanner} style="width:468px;height:60px;border:none" frameborder="0" scrolling="no" id="SB20499138"></iframe>
+      </div>
+    </div>
     <Footer />
     <script>
       import '../scripts/site.ts';

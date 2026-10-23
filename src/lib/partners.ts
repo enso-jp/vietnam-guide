@@ -20,3 +20,6 @@ export const tripDestinationStay =
 
 export const tripOtherStay =
   'https://www.trip.com/partners/ad/S20497871?Allianceid=11105102&SID=334225872&trip_sub1=Attractions%20%2F%20Interests';
+
+export const tripFooterBanner =
+  'https://www.trip.com/partners/ad/SB20499138?Allianceid=11105102&SID=334225872&trip_sub1=Ho%20Chi%20Minh';

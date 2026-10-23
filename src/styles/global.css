@@ -1046,6 +1046,24 @@ a.rank-row h3 { color: var(--link); }
 .day { padding: 0.9rem 0; border-top: 1px solid var(--line); }
 table { width: 100%; border-collapse: collapse; background: var(--card); font-variant-numeric: tabular-nums; }
 th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+.trip-banner {
+  width: min(468px, calc(100% - 2rem));
+  max-width: calc(100% - 2rem);
+  margin: 1.25rem auto 0;
+  container-type: inline-size;
+}
+.trip-banner-fit {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  overflow: hidden;
+  height: calc(60px * 100cqw / 468px);
+}
+.trip-banner-fit iframe {
+  flex: none;
+  transform: scale(calc(100cqw / 468px));
+  transform-origin: top center;
+}
 .footer { border-top: 1px solid var(--line); padding: 1.5rem 0 2.5rem; margin-top: 2rem; color: var(--muted); }
 .footer a { color: var(--ink); }
 .footer-brand .wordmark { position: static; transform: none; }
