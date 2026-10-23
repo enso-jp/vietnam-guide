@@ -3,18 +3,18 @@
   "placeSlug": "nha-trang",
   "name": "Hòn Mun",
   "nameVi": "Hòn Mun",
-  "kicker": "The swim shore on Hòn Mun",
-  "summary": "Hòn Mun is the island swim in the bay. The tourism bureau says about 350 coral species, more than 40 percent of the world’s hard corals, and water planned as Vietnam’s first marine protected area. Vietnam Tourism calls it the country’s only protected marine reserve. A visitor hour and a ticket for the shore were not printed. The bay listing clock is not a curfew.",
+  "kicker": "The reef you snorkel or dive",
+  "summary": "Coral island in the bay: snorkel or dive the reef on a 45-minute boat from Cầu Đá for the marine reserve. The reef is why you leave the city sand. Glass-bottom boats are the dry way to see the coral. About 350 coral species grow here.",
   "dots": 3,
-  "timeNeeded": "Half a day",
+  "timeNeeded": "A boat day",
   "fee": "Check on arrival",
-  "getThere": "A boat from the city. Minutes were not printed.",
+  "getThere": "45 minutes by boat from Cầu Đá.",
   "district": "The bay",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "People in the clear water along the Hòn Mun shore",
   "body": [
-    "The picture is the shore: rocks, huts, and people in the water. The tourism bureau is where the coral figures live. It says about 350 coral species at Hòn Mun, more than 40 percent of the world’s hard corals, and that the water was planned as Vietnam’s first marine protected area. Vietnam Tourism calls Hòn Mun Vietnam’s only protected marine reserve. Those two claims are not the same sentence. Both stay.",
-    "The provincial tourism department prints listing hours of 09:00–22:00 for the bay. That clock is not a rule for this swim. A boat timetable was not printed. A shore ticket was not printed. Check on arrival. The city beach is the sand you can walk to. This one is a boat."
+    "Hòn Mun is the snorkel and dive stop in the bay. The boat from Cầu Đá port takes 45 minutes. Glass-bottom boats are the way to see the reef without getting in. The shore itself is rocks, huts, and clear water.",
+    "About 350 coral species grow at Hòn Mun, more than 40 percent of the world’s hard corals. The water was planned as Vietnam’s first marine protected area, and the island is also the country’s only protected marine reserve, a marine biodiversity area recognised by the World Wildlife Fund. Come in the dry months, January to August. Diving on this coast is popular from January through October."
   ],
   "figures": [
     {
@@ -24,30 +24,40 @@
     }
   ],
   "gettingThere": [
-    "Hòn Mun is one of the nineteen islands named for the bay. A pier name and a crossing time were not printed by the tourism bureau or by Vietnam Tourism."
+    "The boat leaves Cầu Đá port and takes 45 minutes. Pay the bay scenic fee before you board, then the boat fare on top."
   ],
   "legs": [
     {
-      "heading": "From the tourist boats",
-      "body": "Vietnam Tourism names Hòn Mun as an island day. It does not print the minutes."
+      "heading": "From Cầu Đá",
+      "body": "A 45-minute boat. The scenic fee for the Hòn Mun route is 10,000 VND a person each crossing, plus 3,000 VND for the pier."
     },
     {
       "heading": "From Trần Phú",
-      "body": "You leave the city sand for a boat. The ride length was not printed."
+      "body": "Ride south along the beach road to Cầu Đá, then take the boat."
     }
   ],
-  "hours": "A shore clock was not printed. Check on arrival.",
-  "admissionNote": "A ticket was not printed. Check on arrival. The 09:00–22:00 line is the bay listing, not this beach.",
+  "hours": "Check on arrival.",
+  "admissionNote": "The boat fare is separate. The scenic fee is 10,000 VND a person each crossing to Hòn Mun, plus 3,000 VND at the pier. It follows the crossing from the inland pier and excludes accident insurance. Children under 6 and Khánh Hòa residents are among those exempt. A child from 6 to under 16 pays half. A combined ticket for every listed route is 40,000 VND.",
   "links": [
     {
-      "label": "Islands on the tourism bureau",
+      "label": "Bay islands",
       "url": "https://vietnamtourism.vn/index.php/tourism/items/2910/",
       "note": "Coral figures and the planned marine protected area."
     },
     {
       "label": "Seven reasons to visit",
       "url": "https://vietnam.travel/things-to-do/7-reasons-visit-nha-trang",
-      "note": "Hòn Mun called Vietnam’s only protected marine reserve."
+      "note": "Hòn Mun as Vietnam’s only protected marine reserve."
+    },
+    {
+      "label": "Khanh Hoa islands",
+      "url": "https://www.vietnam.travel/things-to-do/khanh-hoa-oodles-islands",
+      "note": "The 45-minute boat from Cầu Đá, and the dive."
+    },
+    {
+      "label": "Bay scenic fee, 23 Sep 2025",
+      "url": "https://nhatrang.khanhhoa.gov.vn/Contents/imgs/news/VNT%20-%20H%c6%b0%e1%bb%9bng%20d%e1%ba%abn%20n%e1%bb%99p%20v%c3%a0%20Th%c3%b4ng%20tin%20v%e1%bb%81%20ph%c3%ad%20tham%20quan%20danh%20lam%20th%e1%ba%afng%20c%e1%ba%a3nh%20v%e1%bb%8bnh%20Nha%20Trang.pdf",
+      "note": "10,000 VND for the Hòn Mun route."
     }
   ],
   "interests": [

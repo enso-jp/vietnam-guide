@@ -160,8 +160,8 @@ The search slug stays `nha-trang`. Province wording is in `getting-there.md`. Th
 - Suggested slug: oceanography
 - Suggested dot: 3 — a museum hour on a beach day, once a hall photo exists
 - Photo must show: The aquarium halls or the Cầu Đá facade, subject through the centre. A craft in a yard is not the halls.
-- unpublished: no licensed photo of the halls or the facade
-- Sources: S7, S24
+- Facade photos opened 23 Oct 2026 and published. Halls still have no licensed photo. See `attractions/oceanography.md`. Sources added: S35, S36, S37.
+- Sources: S7, S24, S35, S36, S37
 
 ### Chợ Đầm
 - Vietnamese name: Chợ Đầm (S19)
@@ -315,12 +315,20 @@ Opened and usable for that subject:
 - Chợ Đầm gate, not the lotus roof: the January 2012 gate file
 - Night-market stalls, one half of a stacked file: `Nha Trang night market - panoramio.jpg`
 - Station: `Ga Nha Trang front.jpg`
+- Yersin Museum doors and the resting-room bed (23 Oct 2026)
+- Oceanographic Museum facade at Cầu Đá, two frames (23 Oct 2026). Halls still missing.
+- Hòn Tằm palm beach and a flyboard (23 Oct 2026)
+- Yang Bay falls and the lake path (23 Oct 2026)
+- Trí Nguyên rock aquarium and the landing (23 Oct 2026)
 
 No licensed photo of the subject:
 
-- Oceanographic halls or the Cầu Đá facade
+- Oceanographic halls
 - Long Beach south of town
 - Bảo Đại villa
 - Buddhist Meditation Institute
 - Coral underwater at Hòn Mun
+- A Tháp Bà mud pool, Trăm Trứng, and I-Resort
+- Hòn Lao with the monkeys visible
+- A second frame of Ba Hồ
 - A plate of nem nướng, bún cá, or bánh căn, recorded in `food.md`

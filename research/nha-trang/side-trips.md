@@ -39,15 +39,15 @@ A neighbor with no place file stays a placeholder. This pass does not research t
 - Sources: S1, S2
 
 ### Yang Bay
-- Slug if it exists: none
-- Or: Side trip placeholder: Yang Bay
+- Slug if it exists: `yang-bay` (published 23 Oct 2026 once two licensed photos of the falls were opened)
+- Or: Side trip that is now an attraction card. The 77 Yersin line stays a conflict, not the address to use.
 - Travel time from this base: About 38 km from the city centre (S22). About 40 km on the other provincial page (S23). Both stay. Minutes: Check on arrival — UNSOURCED.
 - Why go: A waterfall park inland. One page says the falls are not very tall and sit on a lake, and lists Yang Bay 1, Yang Bay 2, Hố Cho, Yang Khang, and the Khánh Sơn lithophone (S22). The other page says the Raglai name means heavenly waterfall, with Yang Khang and Hố Cho, and a Raglai stage with gongs and the lithophone (S23).
 - Address, both kept: Khánh Phú, Khánh Vĩnh (S22). 77 Yersin, Nha Trang (S23). The Yersin line is a city address on a page about a forest park. Do not collapse the two.
 - Fee: 120,000 VND general, 250,000 VND with the mineral bath, 390,000 VND with the mineral bath and the mud bath (S22). The other page prints no ticket (S23). No second operator table was opened. Do not pick a single public number from one page if copy needs a settled price. Print the three figures with the source, and the absence of a ticket on the other page.
 - Overnight or day: The pages describe a day, and one page also describes staying the night in a tent (S23). Both a day trip and a night are on the pages.
-- Photo must show: The waterfall and the forest pool. 
-- unpublished: no licensed photo opened
+- Photo must show: The waterfall and the forest pool.
+- Licensed photos opened 23 Oct 2026: `File:Thác Yang Bay- Khánh Hòa - panoramio.jpg` and `File:Thác Yang Bay- Khánh Hòa - panoramio (1).jpg`, both CC BY 3.0, pqthong0911.
 - Sources: S22, S23
 
 ### Quy Nhơn

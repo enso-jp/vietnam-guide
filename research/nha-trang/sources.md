@@ -187,3 +187,105 @@ Accessed 22 Oct 2026 unless a line says otherwise. A search snippet that was not
 - Publisher: Du lịch số Khánh Hòa
 - Accessed: 23 Oct 2026
 - Supports: Chợ Xóm Mới, 49 Ngô Gia Tự, Phước Tiến. Free. Fresh and dried seafood, market dating from the 1960s. This page does not name the dishes or the dried goods that S30 names. No hours.
+
+### S32
+- URL: https://nhatrang.khanhhoa.gov.vn/tin-bai/diem-den/bao-tang-alexandre-yersin-nha-trang-1625
+- Publisher: Ủy ban nhân dân phường Nha Trang
+- Accessed: 23 Oct 2026
+- Supports: Yersin Museum, 10 Trần Phú, 26,000 VND, 30 to 45 minutes, about 100 m², hours Monday through Saturday morning 07:30–11:30 and 14:00–17:00, closed Saturday afternoon, Sunday, and public holidays. Laboratory in 1895. Page dated 26 April 2026.
+
+### S33
+- URL: https://dulichso.khanhhoa.gov.vn/en/article/the-alexandre-yersin-memorial-relic-complex-7df
+- Publisher: Du lịch số Khánh Hòa
+- Accessed: 23 Oct 2026
+- Supports: The old library at number 8 as the exhibition house the institute treats as the museum. A 09:00–22:00 line on this page is not used as the museum door.
+
+### S34
+- URL: https://vanban.chinhphu.vn/default.aspx?docid=79759&pageid=27160
+- Publisher: Văn bản Chính phủ
+- Accessed: 23 Oct 2026
+- Supports: Decision 91/2008/QĐ-BTC. Adult 26,000 VND. Students, pupils, and children 5,000 VND. The 2026 ward page states only 26,000 VND.
+
+### S35
+- URL: https://nhatrang.khanhhoa.gov.vn/tin-bai/diem-den/vien-hai-duong-hoc-nha-trang-bao-tang-khoa-hoc-dau-tien-viet-nam-1615
+- Publisher: Ủy ban nhân dân phường Nha Trang
+- Accessed: 23 Oct 2026
+- Supports: Oceanographic Museum hours 06:00–18:00 every day including holidays. About 40,000 VND adult, about 20,000 VND student. The page says the price can change.
+
+### S36
+- URL: https://dulichso.khanhhoa.gov.vn/en/article/nha-trang-institute-of-oceanography-bb4
+- Publisher: Du lịch số Khánh Hòa
+- Accessed: 23 Oct 2026
+- Supports: Hours 07:30–17:00. Tanks of more than 300 marine species, about 23,000 samples, about 5,000 species, exhibition space about 5,000 m². Body address 01 Cầu Đá. Information block also lists 89 Trần Phú. Use Cầu Đá.
+
+### S37
+- URL: https://dulichso.khanhhoa.gov.vn/article/cong-vien-truong-sa-004
+- Publisher: Du lịch số Khánh Hòa
+- Accessed: 23 Oct 2026
+- Supports: Trường Sa park in the same grounds, no separate ticket. 40,000 VND adult, 20,000 VND student, 10,000 VND pupil, free under 6. 90 to 120 minutes for the museum and the park.
+
+### S38
+- URL: https://www.vietnam.travel/things-to-do/khanh-hoa-oodles-islands
+- Publisher: Vietnam Tourism
+- Accessed: 23 Oct 2026
+- Supports: Hòn Mun, 45-minute boat from Cầu Đá, diver’s dream, glass-bottom boats, protected marine sanctuary and a WWF marine biodiversity area. Hòn Tằm, 7 km, white sand, palms, water sports, boats through the day, Hoàng Hoa village. Hòn Tre, 5 km, swimming, snorkeling, and jet-skiing. The 5 km line does not replace the 3,320 m cable or the hectare figures already stored.
+
+### S39
+- URL: https://vietnam.travel/things-to-do/best-mud-bath-nha-trang
+- Publisher: Vietnam Tourism
+- Accessed: 23 Oct 2026
+- Supports: Tháp Bà as the oldest and best-known mud baths, “just 6 kilometers”, communal and private mud, mineral pools, soak at least 20 minutes, no price. Also names 100 Egg and I-Resort. Does not name Hòn Tằm.
+
+### S40
+- URL: https://nhatrang.khanhhoa.gov.vn/Contents/imgs/news/VNT%20-%20H%c6%b0%e1%bb%9bng%20d%e1%ba%abn%20n%e1%bb%99p%20v%c3%a0%20Th%c3%b4ng%20tin%20v%e1%bb%81%20ph%c3%ad%20tham%20quan%20danh%20lam%20th%e1%ba%afng%20c%e1%ba%a3nh%20v%e1%bb%8bnh%20Nha%20Trang.pdf
+- Publisher: Ban quản lý vịnh Nha Trang
+- Accessed: 23 Oct 2026
+- Supports: Notice 452/TB-VNT of 23 September 2025, under Resolution 02/2025/NQ-HĐND of 15 August 2025. Per person per crossing: Hòn Miễu (Trí Nguyên) 6,000 VND, Hòn Tằm 8,000 VND, Hòn Tre 8,000 VND, Hòn Một 8,000 VND, Hòn Mun 10,000 VND, all routes 40,000 VND. Pier 3,000 VND. Excludes accident insurance. Exempt groups include children under 6, disabled visitors, Khánh Hòa residents, and people 60 and over. Half price for a child from 6 to under 16, school groups, and poor households. Piers: Bến tàu Du lịch Nha Trang and Bến thủy nội địa Phú Quý. Pay at https://muavedulichnhatrang.com.vn. This is the scenic fee, not the boat, resort, cable, or aquarium door.
+
+### S41
+- URL: https://ttdhsdl.khanhhoa.gov.vn/TourismResources/Detail/ThienNhien-1060
+- Publisher: Trung tâm Xúc tiến Đầu tư, Thương mại và Du lịch tỉnh Khánh Hòa
+- Accessed: 23 Oct 2026
+- Supports: Tháp Bà mud baths, 15 Ngọc Sơn, Ngọc Hiệp, about 4 km north, grounds 3 ha, behind Po Nagar, hours 07:00–19:30 daily. No licensed photo of the pools. Unpublished.
+
+### S42
+- URL: https://ttdhsdl.khanhhoa.gov.vn/TourismResources/Detail/ThienNhien-1054
+- Publisher: Trung tâm Xúc tiến Đầu tư, Thương mại và Du lịch tỉnh Khánh Hòa
+- Accessed: 23 Oct 2026
+- Supports: Same Tháp Bà address and about 4 km north. No hours and no ticket in the extract. Unpublished.
+
+### S43
+- URL: https://dulichso.khanhhoa.gov.vn/article/di-tam-bun-khoang-lam-sao-de-trai-nghiem-de-chiu-6f8
+- Publisher: Du lịch số Khánh Hòa
+- Accessed: 23 Oct 2026
+- Supports: Names Tháp Bà, Trăm Trứng, and I-Resort. A soak of 15–20 minutes on this page is medical advice, not a visit length.
+
+### S44
+- URL: https://dulichso.khanhhoa.gov.vn/article/khu-du-lich-tram-trung-b11
+- Publisher: Du lịch số Khánh Hòa
+- Accessed: 23 Oct 2026
+- Supports: Trăm Trứng, hours 08:00–17:30, Nguyễn Tất Thành, Phước Trung, about 8 km and 10–15 minutes, more than 20 ha, egg-shaped mud tubs. No ticket number. No licensed photo. Unpublished.
+
+### S45
+- URL: https://dulichso.khanhhoa.gov.vn/en/article/100-egg-theme-park-b11
+- Publisher: Du lịch số Khánh Hòa
+- Accessed: 23 Oct 2026
+- Supports: 100 Egg theme park, about 10 km. The 8 km and 10 km figures both stay. Unpublished.
+
+### S46
+- URL: https://ninhhoa.khanhhoa.gov.vn/vi/diem-den-du-lich-36/tour-ninh-hoa-an-attractive-destination-for-visitors
+- Publisher: Ủy ban nhân dân thị xã Ninh Hòa
+- Accessed: 23 Oct 2026
+- Supports: Hòn Lao, 15 km north, Nha Phu, hundreds of monkeys, circus, swim. Ba Hồ, about 10 km north of Hòn Lao on QL1A, stream from Hòn Sơn over 660 m, three lakes 200–300 m apart, length over 3 km. Both unpublished.
+
+### S47
+- URL: https://longphutourist.com/
+- Publisher: Long Phú Tourist (operator)
+- Accessed: 23 Oct 2026
+- Supports: Unpublished note only for Hòn Lao. Hours 07:30–16:30. Pier adult ticket 220,000 VND and an online figure of 185,000 VND. Operator prices. No public card.
+
+### S48
+- URL: https://baho.vn/
+- Publisher: Ba Hồ (operator)
+- Accessed: 23 Oct 2026
+- Supports: Unpublished note only. About 25 km north. Ticket page 200,000 VND including water, pool, and skywalk. Hours 08:00–16:30 on the ticket page and 07:00–16:30 on the homepage. Address Thôn Vạn Thuận, Xã Nam Ninh Hòa, against older Ninh Ích. One licensed photo only, so unpublished.
