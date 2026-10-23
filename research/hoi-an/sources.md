@@ -259,3 +259,57 @@ Accessed 21 Oct 2026 unless a line says otherwise. A direct fetch of the UNESCO 
 - Publisher: Hoi An heritage centre, republishing the city’s culture and broadcast centre, 11 Jul 2024
 - Accessed: 21 Oct 2026
 - Supports: Mùa hè bất tận, inside the beach festival, at 16:00 on 12 Jul 2024 at An Bàng. Food and shopping stalls, live music and DJs, environment and craft activities, lantern and recycled-wood sea installations, traditional dance. No fee. This is the 2024 program, not a standing calendar.
+
+### S43
+- URL: https://vietnam.travel/things-to-do/4-must-try-dishes-in-hoi-an
+- Publisher: Vietnam Tourism
+- Accessed: 23 Oct 2026
+- Supports: Nước mót as a herb drink: ginger, lemongrass, cinnamon, licorice, lemon, green tea, chamomile, and monk fruit. Cold or hot. Usually taken away. The namesake shop stays under Notes, not a pick. Cao lầu, bánh mì, and cơm gà on this page agree in outline with S30 and add no new shop-free fact that S30 lacks, except the herb drink.
+
+### S44
+- URL: https://www.hoianworldheritage.org.vn/vi/news/Du-lich-Hoi-An/den-hoi-an-an-gi-khi-mon-an-tro-thanh-di-san-phi-vat-the-2997.hwh
+- Publisher: Hoi An World Heritage conservation centre, 4 Dec 2025, byline baovanhoa
+- Accessed: 23 Oct 2026
+- Supports: Bánh vạc with a thin translucent wrapper, shrimp-and-pork filling, and wood-ear mushroom. Bún thịt nướng with pork skewers, herbs, crisp chả ram, and sweet-sour fish sauce. Bánh ướt cuốn thịt nướng with grilled beef and a rich, mildly hot peanut-butter sauce. This meat disagrees with S30. Mì Quảng with a shallow broth, pork, shrimp, quail eggs, Trà Quế herbs, and crushed peanuts. Cơm gà with chicken-broth rice, fresh turmeric, shredded local chicken, rau răm, and ginger fish sauce. Bánh xèo small, crisp, shrimp, pork, bean sprouts, herbs, sweet-sour fish sauce. Bánh đập hến xào as one plate: smashed grilled rice paper, a soft steamed sheet, clams with fried shallot and rau răm, mắm nêm. Trà Mót: monk fruit, licorice, chrysanthemum, lotus leaf. This list disagrees with S43. Chè bắp, chè đậu xanh, chè hạt sen, each fragrant with coconut milk. Bánh xoài in a mango-seed shape, glutinous wrapper, peanut, sesame, and shredded ginger. This filling disagrees with S30. Hoành thánh chiên named, no further recipe. Thái Phiên in the early morning for noodles and rolls. No clock.
+
+### S45
+- URL: https://www.hoianworldheritage.org.vn/vi/news/am-thuc-hoi-an/nhung-mon-an-hap-dan-nhat-o-hoi-an-2780.hwh
+- Publisher: Hoi An World Heritage conservation centre, 30 Oct 2024. The signature line is the town culture and broadcast centre. The footer is the conservation centre.
+- Accessed: 23 Oct 2026
+- Supports: Bánh đập and hến xào as snacks, concentrated in Cẩm Nam. Bánh bèo in small bowls with shrimp and pork, and a fish sauce with a lot of chili. Cơm gà with pickled vegetables, soup, and chili sauce. Shop names stay under Notes. No prices.
+
+### S46
+- URL: https://hoianworldheritage.org.vn/vi/news/am-thuc-hoi-an/nhung-mon-an-ngon-o-hoi-an-du-khach-nen-thu-2746.hwh
+- Publisher: Hoi An World Heritage conservation centre, 4 Sep 2024, republishing Thảo Nguyên / Dân Việt
+- Accessed: 23 Oct 2026
+- Supports: Cháo nghêu (porridge, clams, ginger, scallion, rau răm) at the start of the day. Chân gà cay in a sauce of chili, garlic, and onion, plus unnamed seasonings. Bún mắm nêm from shoulder poles: rich fermented sauce with garlic, chili, and shrimp; soft noodles. Cháo gạo lức in the evening lanes, with braised fish, chili, and green winter melon. Hoành thánh with a shrimp-and-pork filling, pork liver, garlic chives, and a soft-yolk egg, or fried with chili sauce. This filling disagrees with S49. Bánh đập hến xào: clams with rau răm, onion, fried shallot, peanuts, and chili sauce, eaten with bánh đa or bánh đập and a sweet-sour dip. Bánh ướt along the Hoài river: grilled skewers, a little peanut, herbs, salty-sweet dip. The animal is not named. Bánh vạc wrapper described as wheat flour filtered clear, shrimp-and-pork filling, fried shallot, garlic-chili fish sauce. This wrapper disagrees with S29 and S30. Bánh bèo with dried shrimp, fish cake, peanuts, and pork crackling; from 2,000 VND a bowl. One price. Not copied to a page. Bánh canh in two noodles, rice flour and bột lọc; toppings roasted pork, fish cake, herbs, seafood; green chili, chili sauce, and garlic-chili fish sauce. No street.
+
+### S47
+- URL: https://www.hoianworldheritage.org.vn/vi/news/am-thuc/top-10-nhung-mon-ngon-hoi-an-ban-nhat-dinh-phai-thu-16181-views-2330.hwh
+- Publisher: Hoi An World Heritage conservation centre, 7 Jun 2023
+- Accessed: 23 Oct 2026
+- Supports: Phở with herbs, peanuts, beef, and soft rice noodles. Mì hoành thánh: rice-and-egg noodles, sweet pork-bone broth, sliced pork, bean sprouts, garlic chives; central chili; a seafood variation is named without a method. Bánh đập: crisp outer sheet, a steamed inner sheet spread with scallion fat, shrimp powder, or pork; eaten with mắm nêm. Ốc xào bơ tỏi with bánh mì, ốc hấp sả gừng, ốc xào me, in the evening. Bánh tráng cuốn thịt nướng: grilled pork, herbs, star fruit or sour pineapple, green banana, thin rice paper, a little bún, fish sauce or mắm nêm. Prices on this note are single-source and are not copied. Shop names stay under Notes.
+
+### S48
+- URL: https://www.hoianworldheritage.org.vn/vi/news/am-thuc-hoi-an/banh-dap-hoi-an-mon-banh-binh-di-dan-da-ma-tinh-te-hop-hon-thuc-khach-2324.hwh
+- Publisher: Hoi An World Heritage conservation centre, 30 May 2023
+- Accessed: 23 Oct 2026
+- Supports: Bánh đập from Cẩm Nam. Crisp grilled rice paper clapped to a soft steamed sheet. White rice soaked two to three hours. Dip: mắm cái from Cửa Đại anchovy, a little sugar, fried-shallot oil, optional fresh chili or chili sauce. Break the sheet with the hand. Hến xào named as a separate specialty, without a recipe on this article. Shop names stay under Notes.
+
+### S49
+- URL: https://www.hoianworldheritage.org.vn/vi/news/am-thuc-hoi-an/Hoanh-Thanh-Hoi-An-323.hwh
+- Publisher: Hoi An World Heritage conservation centre, 28 Jun 2011. The article cites www.vntravellive.com.
+- Accessed: 23 Oct 2026
+- Supports: Three forms: fried, soup, and thin wheat noodles. Wheat-flour and egg wrapper. Land-shrimp filling. Soup: clear pork-bone broth, straw mushrooms, cabbage, pineapple, seven to ten dumplings, satay and crushed fried pork crackling. Fried: square, lettuce, tomato, Trà Quế herbs, tomato-and-potato sauce. A Qianlong naming story is printed and is not treated as a document. Quảng Nam says hoành thánh; the article says some northern speakers say mằn thắn or vằn thắn.
+
+### S50
+- URL: https://www.hoianworldheritage.org.vn/vi/news/Du-lich-Hoi-An/ghe-cho-hoi-an-mua-mam-xu-quang-2327.hwh
+- Publisher: Hoi An World Heritage conservation centre, 7 Jun 2023
+- Accessed: 23 Oct 2026
+- Supports: Mắm cá cơm at Chợ Hội An, from anchovy off Cửa Đại and Cù Lao Chàm, spooned on hot rice or used as a dip for boiled hyacinth beans and greens. Also named, without a method: mắm cá nục, mắm thính cá chuồn, cá trích, mắm dưa, mắm cà pháo. The sauces are described as not too salty, not too sweet, and hot. Bê thui eaten in rice paper with herbs, anchovy mắm, and a green chili; the article says the plate wants Hội An mắm nêm. Xí mà, bánh ú tro, and bánh ít are named as gifts. Bánh ú tro and bánh ít have no method.
+
+### S51
+- URL: https://danangfantasticity.com/en/cach-chieu-chuong-niem-dam-me-am-thuc-da-nang-cua-ban
+- Publisher: Danang Fantasticity, the city tourism portal, 16 Apr 2024
+- Accessed: 23 Oct 2026
+- Supports: Hội An plates on this essay: cao lầu; bánh mì Hội An (dense, crisp crust, still hot, slightly sweet crumb, sauce, pâté, char siu, herbs); cơm gà best known in Tam Kỳ and Hội An (fragrant rice, soft chicken, chicken offal, shredded green papaya, rau răm, simmered chili sauce); white rose (sweet shrimp, smell of white rice, fried shallot, chili); xí mà / chè mè đen (black sesame and sugar, sweet, rich, cool; Cụ Thiều’s shoulder pole, no street); bánh đậu xanh (pork-mung filling or meatless, crisp when dried, hot tea); chè bắp from Cẩm Nam corn (the essay says it did not start in Hội An; rock sugar and coconut milk); tam hữu in Trà Quế (one cooked land shrimp, boiled pork, mint, blanched scallion, sweet-sour fish sauce); hến xào with bánh đập (clam soaked, boiled, shelled, stir-fried with onion, scallion, and chili, crushed peanuts, crisp rice paper; bánh đập is the crisp sheet clapped to a warm steamed sheet; mắm nêm of anchovy with sugar, pineapple or lime, and red chili). Thịt xiên nướng cuốn bánh ướt does not name the animal. Bê thui Cầu Mống is placed in Điện Bàn. The separate bánh tráng đập paragraph is a Da Nang snack and is not collapsed into the Hội An plate. No Hoi An street number for these plates.

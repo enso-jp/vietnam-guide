@@ -23,7 +23,17 @@ Checked: 21 Oct 2026. These are left out of the public pages on purpose.
 - No Hoi An coffee street. The shared coffee page stays unchanged.
 - No 2026 bar pin. Do not invent one.
 - A shoreline altar in the Commons file Temple at An Bang. No official page names it, so it is not a sight.
-- Tân Thành stays a food-street note. This pass does not edit the food guide.
+- Tân Thành stays a food-street note. The 23 Oct food pass names the market and still has no clock.
+- 23 Oct 2026 food clocks. No publisher printed an open or a close for the new dishes. Public line: Check on arrival.
+- Single-source stall prices on the 7 Jun 2023 top-10 note and the 2,000 VND bánh bèo line on 4 Sep 2024. No second source. Not copied to a page.
+- Bánh ướt thịt nướng: pork on Vietnam Tourism, beef on the 4 Dec 2025 conservation-centre article, animal unnamed on Danang Fantasticity and on the 4 Sep 2024 river-bank note. All three stay.
+- Nước mót herbs: Vietnam Tourism’s must-try list against the 4 Dec 2025 trà Mót list. Both stay.
+- Bánh xoài filling: peanuts and brown sugar on Vietnam Tourism, against peanut, sesame, and ginger on 4 Dec 2025. Both stay.
+- White-rose wrapper: rice flour on Vietnam Tourism and the 25 Aug 2023 article, wheat flour on the 4 Sep 2024 Dân Việt republication. Both stay.
+- Hoành thánh filling: land shrimp on the 28 Jun 2011 article, shrimp and pork on 4 Sep 2024. Both stay.
+- Bánh đập dip: Cửa Đại mắm cái with sugar and fried-shallot oil (30 May 2023) against anchovy mắm nêm with sugar, pineapple or lime, and red chili (Danang Fantasticity, 16 Apr 2024). Both stay.
+- Bánh ú tro and bánh ít are named at the market and not described.
+- Mắm cá nục, mắm thính cá chuồn, cá trích, mắm dưa, and mắm cà pháo are named beside mắm cá cơm and have no method of their own.
 - Street number of Hội quán Quảng Đông. Not on the monument page.
 - Street number of Nhà cổ Quân Thắng. Not on the monument page.
 - Door clocks for the Museum of Trade Ceramics, the Sa Huỳnh museum, and the Museum of Folk Culture. Closing dates are printed. The hour is not.
