@@ -10,3 +10,5 @@ All six research lanes are stored. The search slug stays `vinh`. Corridor is nor
 Left out: the operator terminal page, a single airport kilometre, flight block times, the station street, the coach bay, road minutes, gate hours and fees, the military-museum door, a second statue height, a 2026 walking-street calendar, stall prices, market hours, the Hồ Sỹ Dương article body, the beach-market street, any bar street, a cafe street apart from Nguyễn Văn Cừ, the hour the whole city goes quiet beyond 23:30, 2026 festival solar dates, Kim Liên and Nguyễn Du minutes, Pù Mát time, and the northbound Huế cells.
 
 23 Oct 2026 food pass: the public food guide uses the dishes in food.md. Left out bánh gai, dê, and cá thu Cửa Lò, and the cut-off eighth item on the eight-specialty article. No licensed plate. Đào Tấn hours are the 27 April 2023 clocks.
+
+23 Oct 2026 attraction pass: the six public sights are rewritten in research/vinh/attractions/. Cửa Lò has a second frame. Hồng Sơn, the provincial museum building, the Military Region 4 museum, and the rest of the dossier list stay unpublished. Status remains stored.
