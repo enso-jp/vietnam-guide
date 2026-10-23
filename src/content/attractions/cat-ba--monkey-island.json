@@ -1,0 +1,55 @@
+{
+  "slug": "monkey-island",
+  "placeSlug": "cat-ba",
+  "name": "Monkey Island",
+  "nameVi": "Đảo Khỉ (Cát Dứa)",
+  "kicker": "Beach island in Lan Ha Bay",
+  "summary": "Small Lan Ha island with two sandy beaches: swim and watch its monkeys on the 3–4 hour bay boat from Bến Bèo. It is the usual swim stop at the end of the loop and one of the best small beaches around Cát Bà.",
+  "dots": 3,
+  "timeNeeded": "A swim stop on the 3–4 hour bay boat",
+  "fee": "Bay ticket, 120,000 đồng for an adult",
+  "getThere": "Boat from Bến Bèo",
+  "bestMonths": "April–June for calm water",
+  "district": "The bay",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The beach and forested hill on Monkey Island",
+  "body": [
+    "Monkey Island, also called Cát Dứa, has two beaches, Cát Dứa 1 and 2, with pale sand under a forested limestone hill. The Lan Ha boat drops you here for a swim before it turns back to Bến Bèo.",
+    "Park rangers released more than 20 monkeys on the island, and they roam the sand and the rocks behind the beach. Watch them from a few steps away."
+  ],
+  "figures": [
+    {
+      "id": "cat-ba-monkey-island-2",
+      "caption": "Monkeys on the sand at the edge of the beach",
+      "alt": "Two young macaques walking on the beach on Monkey Island"
+    }
+  ],
+  "gettingThere": [
+    "Monkey Island is reached only by boat. The standard 3–4 hour Lan Ha loop from Bến Bèo ends with a swim here."
+  ],
+  "legs": [
+    {
+      "heading": "From Cat Ba town",
+      "body": "Ride or walk 1.5–2 km to Bến Bèo, then take the Lan Ha boat."
+    }
+  ],
+  "hours": "Check on arrival",
+  "admissionNote": "The island lies in the Cát Bà bays, so the bay day ticket applies. From 1 January 2026 a day visit to the Cát Bà bays is 120,000 đồng for an adult and 60,000 đồng for a child from age 6. Under 6 is free. Boat hire is paid to the boat on top of the ticket.",
+  "links": [
+    {
+      "label": "Lan Ha and Monkey Island",
+      "url": "https://vuonquocgiacatba.com.vn/vinh-lan-ha-cat-ba-dao-ngoc-thien-duong-cua-hai-phong",
+      "note": "Cat Ba National Park"
+    },
+    {
+      "label": "2026 bay and park fees",
+      "url": "https://daison.haiphong.gov.vn/van-hoa-xa-hoi/hai-phong-ban-hanh-muc-phi-tham-quan-moi-doi-voi-di-tich-danh-thang-837039",
+      "note": "Hai Phong, 20 December 2025"
+    }
+  ],
+  "interests": [
+    "beaches",
+    "islands",
+    "family"
+  ]
+}

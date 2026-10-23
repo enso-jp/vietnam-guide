@@ -1,0 +1,58 @@
+{
+  "slug": "viet-hai",
+  "placeSlug": "cat-ba",
+  "name": "Viet Hai Village",
+  "nameVi": "Làng Việt Hải",
+  "kicker": "Valley village reached on foot through the park",
+  "summary": "Remote village in a limestone valley: hike 8–12 km through the national park past Ao Ếch, or come by boat. About 80 houses of bamboo, wood, and earth sit near the Lan Ha shore. Go when you want a full day on foot; skip it on a short stay.",
+  "dots": 4,
+  "timeNeeded": "Check on arrival",
+  "fee": "Park ticket, 160,000 đồng for an adult",
+  "getThere": "Trek through the park, or boat from Bến Bèo",
+  "bestMonths": "April–September for the walk",
+  "district": "The park",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Fields and limestone peaks around Việt Hải",
+  "body": [
+    "Việt Hải is a small village in a valley on the Lan Ha side of Cát Bà, ringed by limestone hills. About 80 houses are built of bamboo, wood, leaves, and earth.",
+    "The trek starts in the national park and passes Ao Ếch, a pool in the forest. In summer it holds fresh water. In the dry season the bed turns firm and slightly springy, and you can walk across it. The whole route is 8–12 km, depending on where you start.",
+    "April to September is the easier season for the walk, and winter is possible too. You can also arrive by boat from Bến Bèo or on a Lan Ha cruise."
+  ],
+  "figures": [
+    {
+      "id": "cat-ba-viet-hai-2",
+      "caption": "The forest track toward Việt Hải",
+      "alt": "A narrow road under a tunnel of trees on the way to Viet Hai"
+    }
+  ],
+  "gettingThere": [
+    "Walk in from the national park by way of Ao Ếch, 8–12 km, or take a boat from Bến Bèo to the Lan Ha shore below the village."
+  ],
+  "legs": [
+    {
+      "heading": "From the national park",
+      "body": "On foot past Ao Ếch, 8–12 km."
+    },
+    {
+      "heading": "From Cat Ba town",
+      "body": "By boat from Bến Bèo, or as a stop on a Lan Ha cruise."
+    }
+  ],
+  "hours": "Check on arrival",
+  "admissionNote": "The walk crosses the national park, so the park ticket applies: from 1 January 2026, 160,000 đồng for an adult and 80,000 đồng for a child from age 6. Under 6 is free.",
+  "links": [
+    {
+      "label": "Việt Hải village",
+      "url": "https://vuonquocgiacatba.com.vn/lang-co-viet-hai-cat-ba-di-de-tro-ve",
+      "note": "Cat Ba National Park"
+    },
+    {
+      "label": "Ao Ếch – Việt Hải trek",
+      "url": "https://vuonquocgiacatba.com.vn/ao-ech-viet-hai-12km",
+      "note": "Cat Ba National Park"
+    }
+  ],
+  "interests": [
+    "mountains"
+  ]
+}

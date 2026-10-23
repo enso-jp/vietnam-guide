@@ -1,0 +1,53 @@
+{
+  "slug": "cannon-fort",
+  "placeSlug": "cat-ba",
+  "name": "Cannon Fort",
+  "nameVi": "Pháo đài Thần Công",
+  "kicker": "Hilltop fort above the town and the bay",
+  "summary": "Hilltop fort above town: ride up 10 minutes, walk its tunnels, and see Lan Ha Bay from above. Come late in the day for sunset over the islands. A cafe at the top sells drinks with the view.",
+  "dots": 3,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "About 10 minutes by road from the town center",
+  "district": "The town",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Boats at the harbor and Lan Ha's islands, seen from the fort hill",
+  "body": [
+    "The fort sits on hill 177, built in 1942 to guard the sea approach to the island. Stone-walled trenches and vaulted tunnels run deep into the hill to a command post and concrete bunkers, most of them still intact.",
+    "From the summit you look down on Bến Bèo, the Cát Cò beaches, and Áng Thảm, and out across Lan Ha's limestone islands. A large mounted viewer at the top helps you pick out the details. Late afternoon brings the sunset over the archipelago.",
+    "The gun on show is a damaged display piece that never fired in battle."
+  ],
+  "figures": [
+    {
+      "id": "cat-ba-cannon-fort-2",
+      "caption": "A vaulted tunnel leading into the hill",
+      "alt": "Moss-covered tunnel entrance into the hillside at Cannon Fort"
+    }
+  ],
+  "gettingThere": [
+    "The road winds up from the town center for a few kilometres, about 10 minutes by car or motorbike, with the hill on one side and Cát Bà bay and Bến Bèo on the other."
+  ],
+  "legs": [
+    {
+      "heading": "From Cat Ba town",
+      "body": "About 10 minutes by car or motorbike up the hill road."
+    }
+  ],
+  "hours": "Check on arrival",
+  "links": [
+    {
+      "label": "Cannon Fort, hill 177",
+      "url": "https://cathai.haiphong.gov.vn/thang-canh-cat-ba/hung-vi-phao-dai-than-cong-cat-ba-312462",
+      "note": "Cát Hải special zone"
+    },
+    {
+      "label": "Coffee at hill 177",
+      "url": "https://cathai.haiphong.gov.vn/thang-canh-cat-ba/thuong-thuc-cafe-tai-diem-cao-177-phao-dai-than-cong-di-tich-lich-su-thang-canh-cat-ba-312470",
+      "note": "Cát Hải special zone"
+    }
+  ],
+  "interests": [
+    "warHistory",
+    "photography"
+  ]
+}
