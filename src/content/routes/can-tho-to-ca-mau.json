@@ -1,0 +1,38 @@
+{
+  "slug": "can-tho-to-ca-mau",
+  "name": "Can Tho to Ca Mau",
+  "from": "Can Tho",
+  "to": "Ca Mau",
+  "summary": "Take the new expressway. It opened in January 2026 and cut the ride to about an hour and a half, half the old three hours. Motorbikes cannot use it, so riders stay on the old road. The expressway stops short of Mũi Cà Mau; the cape is another road day from the city.",
+  "modes": [
+    {
+      "mode": "Car on the expressway",
+      "duration": "About 1.5 hours",
+      "note": "About 111 km, from Cái Răng to the IC12 junction at Hồ Thị Kỷ. Opened to traffic on 19 January 2026. Speed limit 80 km/h. Tolls are collected non-stop; the amount is Check on arrival. No motorbikes, bicycles, or people on foot."
+    },
+    {
+      "mode": "Bus",
+      "duration": "Check on arrival",
+      "note": "Buses run between the two cities. A timetable and fare were not published. Ca Mau’s coach station is on Lý Thường Kiệt; confirm the bay when you buy.",
+      "partner": "bus",
+      "partnerPath": "can-tho/ca-mau"
+    },
+    {
+      "mode": "Old road",
+      "duration": "About 3 hours",
+      "note": "The ride took about three hours before the expressway opened. This is the road for motorbikes. A current timing is Check on arrival."
+    }
+  ],
+  "seoTitle": "Can Tho to Ca Mau — expressway or bus",
+  "seoDescription": "About 1.5 hours on the Cần Thơ–Cà Mau expressway, open since January 2026, against about three hours on the old road. Bus times are Check on arrival.",
+  "faqs": [
+    {
+      "q": "Does the expressway reach the Cà Mau cape?",
+      "a": "No. It ends at the IC12 junction at Hồ Thị Kỷ. Đất Mũi is a separate road trip south, through Năm Căn."
+    },
+    {
+      "q": "Is there a train to Ca Mau?",
+      "a": "No. The Mekong Delta has no passenger railway, and a planned line to Can Tho does not reach Ca Mau."
+    }
+  ]
+}

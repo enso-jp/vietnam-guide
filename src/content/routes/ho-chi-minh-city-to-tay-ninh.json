@@ -1,0 +1,38 @@
+{
+  "slug": "ho-chi-minh-city-to-tay-ninh",
+  "name": "Ho Chi Minh City to Tay Ninh",
+  "from": "Ho Chi Minh City",
+  "to": "Tay Ninh",
+  "summary": "Go by road. It is about 100 to 110 km northwest on Quốc lộ 22, about 2.5 to 3 hours from Tan Son Nhat, through Trảng Bàng and Gò Dầu. There is no train and no airport in the province. Cu Chi is on the way but is a separate stop.",
+  "modes": [
+    {
+      "mode": "Car",
+      "duration": "About 2.5 to 3 hours",
+      "note": "From Tan Son Nhat by Cộng Hòa and Quốc lộ 22, through Trảng Bàng and Gò Dầu. About 100 km to the city, and more than 110 km if Bà Đen mountain is the first stop. Holiday traffic at the mountain is Check on arrival."
+    },
+    {
+      "mode": "Coach",
+      "duration": "Check on arrival",
+      "note": "Coaches arrive at the station on đường Trưng Nữ Vương. First bus, fare, and minutes are Check on arrival.",
+      "partner": "bus",
+      "partnerPath": "ho-chi-minh-city/tay-ninh"
+    },
+    {
+      "mode": "Train",
+      "duration": "No passenger service",
+      "note": "No station in the province. A proposed line is not a way to arrive."
+    }
+  ],
+  "seoTitle": "Ho Chi Minh City to Tay Ninh — car or coach",
+  "seoDescription": "About 100 to 110 km and about 2.5 to 3 hours by road on Quốc lộ 22 to Tay Ninh and Bà Đen mountain. Coach times are Check on arrival. No train.",
+  "faqs": [
+    {
+      "q": "Can you see Tay Ninh in a day from Ho Chi Minh City?",
+      "a": "It is a long day, with 2.5 to 3 hours on the road each way. The province suggests a short stay, such as two days and one night, if you want both the temple and the mountain."
+    },
+    {
+      "q": "When is the mountain road busiest?",
+      "a": "The spring festival in the first lunar month and the Bà pilgrimage on lunar days 4 to 6 of the fifth month. The cable car clock can also change in bad weather."
+    }
+  ]
+}

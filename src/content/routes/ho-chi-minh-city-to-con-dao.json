@@ -1,0 +1,43 @@
+{
+  "slug": "ho-chi-minh-city-to-con-dao",
+  "name": "Ho Chi Minh City to Con Dao",
+  "from": "Ho Chi Minh City",
+  "to": "Con Dao",
+  "summary": "Fly. The flight from Tan Son Nhat is under an hour and a quarter. The boat from Vung Tau has been suspended since August 2026, so the only sea route is from Trần Đề, a long drive from the city, and then a crossing of about 2 hours 15 minutes to 2 hours 30 minutes.",
+  "modes": [
+    {
+      "mode": "Flight",
+      "duration": "About 40 minutes, or 55 minutes to 1 hour 15 minutes",
+      "note": "Tan Son Nhat to Côn Đảo airport (VCS). Vietjet’s own route page prints both figures. The airport is about 10 km northeast of the town by the national air publication, and about 14 km on Vietjet’s page. Check the airline for the current timetable and fare.",
+      "partner": "flight"
+    },
+    {
+      "mode": "Boat from Trần Đề",
+      "duration": "About 2 hours 15 minutes to 2 hours 30 minutes",
+      "note": "Phu Quoc Express sails from the Trần Đề fishing port to Bến Đầm, with a reference departure at 08:00 and a return at 13:30. Superdong sails from its own Trần Đề pier at 08:00 and 13:15, returning 08:00 and 13:00. Tide and weather move the times. Trần Đề is in Cần Thơ city (formerly Sóc Trăng); the drive there from Ho Chi Minh City is Check on arrival. Fares are Check on arrival.",
+      "partner": "ferry"
+    },
+    {
+      "mode": "Boat from Vung Tau",
+      "duration": "Suspended",
+      "note": "Phu Quoc Express stopped the Thăng Long fast boat from Vung Tau on 1 August 2026 after a technical fault, until further notice. When it ran, it left Cầu Đá at 07:30 and took about 3 hours 15 minutes. Do not plan on it until the operator posts a new schedule.",
+      "partner": "ferry"
+    }
+  ],
+  "seoTitle": "Ho Chi Minh City to Con Dao — flight or Trần Đề boat",
+  "seoDescription": "Under an hour and a quarter by air from Tan Son Nhat. The Trần Đề boat takes about 2 hours 15 to 2 hours 30 minutes. The Vung Tau boat is suspended.",
+  "faqs": [
+    {
+      "q": "Is the Vung Tau to Con Dao boat running?",
+      "a": "Not now. The operator suspended it on 1 August 2026 after a technical fault, until further notice. Check the operator before you plan around it."
+    },
+    {
+      "q": "How do you get to the Trần Đề boat?",
+      "a": "Trần Đề is on the coast in Cần Thơ city, formerly Sóc Trăng province, a long road trip from Ho Chi Minh City. The drive time is Check on arrival. The two boat companies sail from different piers, so check which one your ticket names."
+    },
+    {
+      "q": "When are the boats most likely to be cancelled?",
+      "a": "Both operators say tide and weather can move or cancel a sailing. The air route is the safer choice on a tight schedule."
+    }
+  ]
+}
