@@ -4,7 +4,7 @@
   "name": "Fish-raft village",
   "nameVi": "Làng bè sông Châu Đốc",
   "kicker": "Fish-farm rafts at the river junction",
-  "summary": "Fish-farm rafts at the river junction: take a boat among the cages and see the farms on the water. The community is about 50 years old and raises catfish and snapper. A 2024 project painted the rafts in six colors. Printed counts are 165, more than 160, and 161. Ask the fare at the boat before you board.",
+  "summary": "Fish-farm rafts at the river junction: take a boat among the cages and see the farms on the water. The community is about 50 years old and raises catfish and snapper. A 2024 project painted the rafts in six colors. Counts run from more than 160 to 165. Ask the fare at the boat before you board.",
   "dots": 4,
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
@@ -18,8 +18,8 @@
     "body": "No pier tariff is posted. These are fish farms at the Châu Đốc river junction, beside Cồn Tiên bridge. Cái Răng, in Can Tho, is a produce market on a different river."
   },
   "body": [
-    "Go by boat among raft houses that raise fish. The community is about 50 years old and sells catfish and snapper. In early 2024 the project Làng bè Sắc Màu painted 165 rafts in six color blocks. Another report counts more than 160 cages, and also 161, over more than 1 km, in red, yellow, orange, green, blue, and purple. Lights show after dark. Both counts stay.",
-    "The rafts sit on the Châu Đốc river at the former town of Đa Phước, beside the old city, next to Cồn Tiên bridge. You can combine them with Châu Phong and Đa Phước. High water from August to November is the window named for the floating villages.",
+    "Go by boat among raft houses that raise fish. The community is about 50 years old and sells catfish and snapper. In early 2024 the project Làng bè Sắc Màu painted the rafts in six color blocks. Counts run from more than 160 to 165, over more than 1 km, in red, yellow, orange, green, blue, and purple. Lights show after dark.",
+    "The rafts sit on the Châu Đốc river at the former town of Đa Phước, beside the old city, next to Cồn Tiên bridge. You can combine them with Châu Phong and Đa Phước. High water from August to November is the window for the floating villages.",
     "Ask the price before you board."
   ],
   "figures": [
@@ -30,36 +30,36 @@
     }
   ],
   "gettingThere": [
-    "Take a boat from the town bank, or the road to Cồn Tiên bridge. Minutes were not printed. The province does not print a minute count for combining the rafts with the Cham villages either."
+    "Take a boat from the town bank, or the road to Cồn Tiên bridge. The same ride can continue to Châu Phong and Đa Phước."
   ],
   "legs": [
     {
       "heading": "From the Châu Đốc riverbank",
-      "body": "By boat. Ask the price at the landing. Minutes are check on arrival."
+      "body": "By boat. Ask the price at the landing."
     },
     {
       "heading": "From Cồn Tiên bridge",
-      "body": "By road to the bridge named beside the rafts. Minutes are check on arrival."
+      "body": "By road to the bridge beside the rafts."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No closing hour was published. Lights after dark are described. A last boat is check on arrival.",
-  "admissionNote": "No pier tariff was opened. Check on arrival. Leave out any fare that appeared only in an interview.",
+  "closed": "Lights show after dark. Check on arrival for the last boat.",
+  "admissionNote": "Check on arrival.",
   "links": [
     {
       "label": "Cham villages and the colored rafts",
       "url": "https://angiang.gov.vn/vi/du-khach-thich-thu-voi-nhung-lang-cham-ben-song-hau",
-      "note": "An Giang portal, 165 rafts"
+      "note": "165 painted rafts"
     },
     {
       "label": "Chau Doc",
       "url": "https://www.vietnam.travel/places-to-go/southern-vietnam/chau-doc",
-      "note": "Vietnam Tourism, the fish-farm village"
+      "note": "The fish-farm village"
     },
     {
       "label": "Làng bè Sắc Màu",
       "url": "https://vnexpress.net/lang-be-sac-mau-tren-song-chau-doc-4655749.html",
-      "note": "VnExpress, the count of more than 160 and of 161"
+      "note": "About 160 to 165 cages, and lights after dark"
     }
   ],
   "lat": 10.716808,

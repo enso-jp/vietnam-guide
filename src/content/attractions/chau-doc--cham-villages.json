@@ -8,7 +8,7 @@
   "dots": 4,
   "timeNeeded": "Half a day with the rafts",
   "fee": "Check on arrival",
-  "getThere": "By boat or road from town. Minutes are check on arrival.",
+  "getThere": "By boat or road from town.",
   "district": "Cham bank",
   "verified": "23 Oct 2026",
   "heroCaption": "The gate of Jamiul Azhar in Châu Phong",
@@ -17,9 +17,9 @@
     "body": "Mubarak, Jamiul Azhar, and Nia’mah are in Châu Phong. Ihsan and Sunnah are in Đa Phước. The white gate with green trim is Jamiul Azhar. The blue-and-white mosque is in Đa Phước. Read the name on the gate you are standing at."
   },
   "body": [
-    "Cross the Hậu to Châu Phong and Đa Phước. The province places Châu Phong in the former town of Tân Châu, and Đa Phước in the former district of An Phú. The English guide also names Châu Giang beside Châu Phong, on two islets across the river. Mubarak is in Châu Phong, and the province lists it as a national-level architectural monument.",
+    "Cross the Hậu to Châu Phong and Đa Phước. Châu Phong was in the town of Tân Châu, and Đa Phước was in An Phú. Châu Giang sits beside Châu Phong, on two islets across the river. Mubarak is in Châu Phong, a national-level architectural monument.",
     "Walk the stilt houses and the boardwalks, and watch the weaving. The weaving in Châu Phong is national intangible cultural heritage, recorded with lifecycle rituals at the end of 2023. Veils and sarongs are part of the dress, and prayers run five times a day. Bánh bò Chăm, cooked under a hot clay lid, belongs with this visit.",
-    "The white gate with green trim is Jamiul Azhar in Châu Phong. The blue-and-white mosque stands in Đa Phước, on the right bank of the Hậu opposite town, where the province places Ihsan and Sunnah. Come in daylight for the cloth and the buildings."
+    "The white gate with green trim is Jamiul Azhar in Châu Phong. The blue-and-white mosque stands in Đa Phước, on the right bank of the Hậu opposite town, with Ihsan and Sunnah. Come in daylight for the cloth and the buildings."
   ],
   "figures": [
     {
@@ -29,31 +29,31 @@
     }
   ],
   "gettingThere": [
-    "By boat or by road from the Châu Đốc bank. The province says the colored rafts make the link to both villages easy, and it does not print minutes. Minutes are check on arrival."
+    "By boat or by road from the Châu Đốc bank. The colored rafts link the town to both villages."
   ],
   "legs": [
     {
       "heading": "From the fish-raft village",
-      "body": "The province places the rafts as the link to Châu Phong and Đa Phước. It does not print a minute count. Minutes are check on arrival."
+      "body": "By boat. The rafts link Châu Phong and Đa Phước."
     },
     {
       "heading": "From the Châu Đốc riverbank",
-      "body": "By boat or road. Minutes are check on arrival."
+      "body": "By boat or road."
     }
   ],
   "hours": "Check on arrival. Come in daylight for the weaving and the buildings.",
-  "closed": "No weekly closing day was published. Prayer times are not printed as a visitor timetable.",
-  "admissionNote": "Mosque and workshop gates have no published tariff. Check on arrival.",
+  "closed": "Check the board on arrival. Come in daylight. Prayer times are for worship, not a visitor timetable.",
+  "admissionNote": "Check on arrival.",
   "links": [
     {
       "label": "Cham villages on the Hậu",
       "url": "https://angiang.gov.vn/vi/du-khach-thich-thu-voi-nhung-lang-cham-ben-song-hau",
-      "note": "An Giang portal, the mosques and the weaving"
+      "note": "Mosques and the weaving"
     },
     {
       "label": "The colourful charms of Chau Doc",
       "url": "https://vietnam.travel/things-to-do/colourful-charms-chau-doc",
-      "note": "Vietnam Tourism, bánh bò Chăm and the villages"
+      "note": "Bánh bò Chăm and the villages"
     }
   ],
   "interests": ["photography"]

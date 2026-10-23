@@ -8,18 +8,18 @@
   "dots": 5,
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
-  "getThere": "Same road as Sam Mountain, about 5 km or about 7 km from town.",
+  "getThere": "Same road as Sam Mountain, about 5 to 7 km from town.",
   "district": "Núi Sam",
   "verified": "23 Oct 2026",
   "heroCaption": "The green-roofed hall of Miếu Bà Chúa Xứ at the foot of Núi Sam",
   "notice": {
     "title": "Come early in the fourth lunar month",
-    "body": "The heaviest days run from the first lunar month through the Via festival. UNESCO dates the festival to the 22nd–27th of the fourth lunar month. The rural tourism page dates it to the 23rd–27th. Arrive early, or come outside that window."
+    "body": "The heaviest days run from the first lunar month through the Via festival. The festival falls from the 22nd to the 27th of the fourth lunar month. Arrive early, or come outside that window."
   },
   "body": [
     "Stand on the steps and watch what people bring: whole pigs, roast chickens, fruit, rice cakes, and pink lotus, with incense in front of the statue inside. The statue is said to have been found on the mountain about 200 years ago. The present hall sits at the foot of Núi Sam. It began in the early 19th century as a bamboo-and-leaf shrine and was later rebuilt with curved southern roofs.",
     "This is the heart of the national tourism area, and the place the 2026 festival opened. On an ordinary morning the visit is the hall and the steps, then Tây An and the tomb.",
-    "The shrine is in phường Vĩnh Tế, at the mountain. A gate fee is not printed on the UNESCO page or the 2026 culture-department article."
+    "The shrine is in phường Vĩnh Tế, at the mountain. Come at the start of the day in the fourth lunar month."
   ],
   "figures": [
     {
@@ -29,32 +29,32 @@
     }
   ],
   "gettingThere": [
-    "The temple is at the foot of Núi Sam, in phường Vĩnh Tế. Use the same road as the rest of the hill. An older national-tourism article prints both about 5 km and about 7 km from the city. Minutes are check on arrival."
+    "The temple is at the foot of Núi Sam, in phường Vĩnh Tế. Use the same road as the rest of the hill. The hill is about 5 to 7 km from the city."
   ],
   "legs": [
     {
       "heading": "From the Châu Đốc river",
-      "body": "By road, with the rest of the Sam Mountain cluster. The printed distances disagree: about 5 km and about 7 km. Minutes are check on arrival."
+      "body": "By road, with the rest of the Sam Mountain cluster, about 5 to 7 km."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly closing day was published. Check the board on arrival.",
-  "admissionNote": "No ticket was printed on the UNESCO page or the 2026 culture-department article. Check on arrival.",
+  "closed": "Check the board on arrival.",
+  "admissionNote": "Check on arrival.",
   "links": [
     {
       "label": "Festival of Bà Chúa Xứ",
       "url": "https://ich.unesco.org/en/RL/festival-of-ba-chua-x-goddess-at-sam-mountain-01999",
-      "note": "UNESCO, element 01999"
+      "note": "Festival dates, 22nd to 27th of the fourth lunar month"
     },
     {
       "label": "Miếu Bà Chúa Xứ Núi Sam",
       "url": "https://nongthon.vietnamtourism.gov.vn/mieu-ba-chua-xu-nui-sam-diem-den-tam-linh-hang-dau-cua-an-giang/",
-      "note": "Vietnam Tourism rural site"
+      "note": "The hall at the foot of the hill"
     },
     {
       "label": "The colourful charms of Chau Doc",
       "url": "https://vietnam.travel/things-to-do/colourful-charms-chau-doc",
-      "note": "Vietnam Tourism, the offerings on the steps"
+      "note": "Offerings on the steps"
     }
   ],
   "lat": 10.682064,

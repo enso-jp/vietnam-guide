@@ -8,7 +8,7 @@
   "dots": 4,
   "timeNeeded": "Dusk into the evening",
   "fee": "Check on arrival",
-  "getThere": "Walk from a river room. Minutes from Núi Sam are check on arrival.",
+  "getThere": "Walk from a river room.",
   "district": "Phường Châu Đốc",
   "verified": "23 Oct 2026",
   "heroCaption": "The town bank at Châu Phú B, a boat on the river, and the far shore",
@@ -29,26 +29,26 @@
     }
   ],
   "gettingThere": [
-    "The bank is the town riverfront in phường Châu Đốc. Walk if the room is on the river. The lit rafts are at the river junction, by boat. Minutes from phường Vĩnh Tế are check on arrival."
+    "The bank is the town riverfront in phường Châu Đốc. Walk if the room is on the river. The lit rafts are at the river junction, by boat. From phường Vĩnh Tế, come back by road."
   ],
   "legs": [
     {
       "heading": "From a river room",
-      "body": "On foot along the bank. A published minute count was not found."
+      "body": "On foot along the bank."
     },
     {
       "heading": "From Núi Sam",
-      "body": "By road back to the town bank. Minutes are check on arrival."
+      "body": "By road back to the town bank."
     }
   ],
   "hours": "Check on arrival. The useful time is dusk into the evening.",
-  "closed": "The walk is an open bank. A last-boat time was not printed.",
-  "admissionNote": "The walk has no ticket. A boat fare is check on arrival.",
+  "closed": "The walk is open. Check on arrival for the last boat.",
+  "admissionNote": "The walk has no ticket. Check on arrival for a boat fare.",
   "links": [
     {
       "label": "The colourful charms of Chau Doc",
       "url": "https://vietnam.travel/things-to-do/colourful-charms-chau-doc",
-      "note": "Vietnam Tourism, the riverfront"
+      "note": "The evening on the bank"
     }
   ],
   "lat": 10.709564,
