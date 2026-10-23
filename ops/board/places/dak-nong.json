@@ -61,9 +61,9 @@
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:19:40.330Z",
+      "status": "enriched",
+      "note": "Hero is the licensed Dray Sap cascade. Reservoir stand-in removed. Coordinates unset. Interest card is the Serepok sheet. Food guide left skipped.",
+      "updated": "2026-10-23T06:19:23.638Z",
       "reworkCount": 0
     },
     "destinationQuality": {
@@ -286,15 +286,16 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "dak-nong",
-    "stage": "destinationCopy",
-    "item": null,
-    "at": "2026-10-23T06:08:22.474Z",
-    "by": "dak-nong-copy",
-    "branch": "cursor/dak-nong-destination-copy-3f60"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-23T06:19:23.638Z",
+      "place": "dak-nong",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Hero is the licensed Dray Sap cascade. Reservoir stand-in removed. Coordinates unset. Interest card is the Serepok sheet. Food guide left skipped."
+    },
     {
       "at": "2026-10-21T11:19:48.809Z",
       "place": "dak-nong",
