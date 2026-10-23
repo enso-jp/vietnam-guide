@@ -134,10 +134,10 @@
       "source": "published",
       "research": "stored",
       "page": "paged",
-      "copy": "not_started",
+      "copy": "enriched",
       "quality": "not_started",
-      "note": "Finished Dray Sap from the dossier. Fee, hours, and time on site stay Check on arrival. Foody’s 07:30–18:00 is printed beside that.",
-      "updated": "2026-10-23T06:22:40.129Z",
+      "note": "Prose names UNESCO and the provincial handbook. Second frame is Draysap01, a different viewpoint of the same sheet. Fee and official hours stay Check on arrival.",
+      "updated": "2026-10-23T06:23:39.762Z",
       "reworkCount": 0
     },
     {
@@ -288,6 +288,14 @@
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-23T06:23:39.762Z",
+      "place": "dak-nong",
+      "stage": "copy",
+      "item": "dak-nong--dray-sap",
+      "status": "enriched",
+      "note": "Prose names UNESCO and the provincial handbook. Second frame is Draysap01, a different viewpoint of the same sheet. Fee and official hours stay Check on arrival."
+    },
     {
       "at": "2026-10-23T06:22:40.129Z",
       "place": "dak-nong",
