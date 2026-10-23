@@ -183,3 +183,61 @@ No second official page was found that repeats the 2026 Dark Cave or Mooc Spring
 - Publisher: Phong Nha-Ke Bang National Park
 - Accessed: 21 Oct 2026
 - Supports: Sinh Ton Valley and Thuy Cung Cave. One day 1,650,000 VND. Two days 4,700,000 VND. Route via Km 19, west Ho Chi Minh road. Hours are not stated. Jungle Boss is the operator. No second publisher confirmed these figures.
+
+### S31
+- URL: https://phongnhakebang.vn/tin-tuc/da-dang-van-hoa-toc-nguoi-khu-vuc-phong-nha-ke-bang
+- Publisher: Phong Nha-Ke Bang National Park
+- Accessed: 23 Oct 2026
+- Supports: Article time on the page, 14:45 31 Dec 2025. Characteristic foods “cơm Pồi, bột nhúc.” Chứt drinks named as nước chè xanh, rượu cần, and rượu đoác. Canh măng chua nấu với cá was familiar and is now rare. Remaining dishes named: ốc núi, cơm ngô. Nguồn dishes named: ốc vặn (ốc tực), ốc núi, cơm pồi. Snail shells as ornament are a different sentence.
+
+### S32
+- URL: https://dukhach.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/13978710067427/1749701120626
+- Publisher: Quang Binh visitor portal (masthead Du lịch Quảng Bình, on dukhach.quangtri.gov.vn)
+- Accessed: 23 Oct 2026
+- Supports: “Khám phá ẩm thực Phong Nha,” 13 June 2025, credit line Theo DISCOVERY LODGE. Gà đồi nướng with muối cheo and xôi. Tôm càng sông Son: nướng, rang muối, hấp, rim. Cháo canh cá trắm: light sweetness, mild chili, fragrant seasoning. Bún chả cá trắm with fresh noodles, dipping sauce, and herbs. Cá chình: nướng, um, kho, hấp. Rau rừng as greens, not one dish. Bánh xèo gạo lứt Gia Hưng, red-brown from brown rice, called a Phong Nha specialty, no method and no street.
+
+### S33
+- URL: https://dukhach.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/13978710067427/1747706412401
+- Publisher: Quang Binh visitor portal
+- Accessed: 23 Oct 2026
+- Supports: “Cá trắm sông Son,” 20 May 2025. Emblem of park food. Cages at xã Sơn Trạch, huyện Bố Trạch. Species named: cá chép, cá trắm, lươn. Grass carp firm and not fishy. Preparations hấp, kho, nướng, and cá trắm kho tiêu with rau dưa muối. A later paragraph names Chày Lập Farmstay. Do not publish that door. That paragraph’s bún chả (fried fish cake and broth) disagrees with S32.
+
+### S34
+- URL: https://dukhach.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/13978710067427/1744683034506
+- Publisher: Quang Binh visitor portal
+- Accessed: 23 Oct 2026
+- Supports: “Cơm Pồi,” 15 April 2025, credit line bluediamondretreat.com. Nguồn people in Minh Hóa. Mainly corn and cassava, pounded, mixed, steamed. Shape follows the steamer. Eaten with vegetable soup of fish and snails, or salt, crushed chili, and lime leaves. Rolled into small balls at family meals. Evening meals in homes in làng Tân Háa, Minh Hóa. Do not publish the retreat as a pick.
+
+### S35
+- URL: https://dukhach.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/13978710067387/1414396092668
+- Publisher: Quang Binh visitor portal
+- Accessed: 23 Oct 2026
+- Supports: “Đặc sản cơm Pồi ở buôn làng Chứt,” 28 October 2014, credit line Báo Dân Việt. Chứt in Minh Hóa. Corn soaked about half a day, upland sticky-rice flour, pressed cassava, bamboo tube, forest banana leaf, charcoal about one hour. Also boiled tubes, or a wooden chõ. A Hui Tăng of Dân Hóa, then 79, prefers charcoal. Formerly eaten with forest-vegetable soup of fish, snails, or forest meat.
+
+### S36
+- URL: https://dukhach.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/13978710067427/1710326391207
+- Publisher: Quang Binh visitor portal
+- Accessed: 23 Oct 2026
+- Supports: “Cơm bồi,” 13 March 2024. Spelling cơm bồi. Minh Hóa. Dried corn soaked in hot water two to three hours, cassava shredded and pressed, steamed, sliced. Eaten with ốc đực and cà lào. Taste described as rich corn and cassava with a light sweetness. The same article’s muối cheo is húng quế, lá lội, lá canh, green chili, and salt, with boiled chicken, and is not placed in Phong Nha. Lẩu cá khoai, canh xương rồng, and ram đẻn on that article are not placed in Phong Nha and were not published here.
+
+### S37
+- URL: https://dukhach.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/13978710067427/1739936892820
+- Publisher: Quang Binh visitor portal
+- Accessed: 23 Oct 2026
+- Supports: “Gà nướng ăn cùng muối cheo,” 21 February 2025, credit line Oxalisadvevture.com as printed. Mẹt of grilled chicken with xôi. Muối cheo called a Phong Nha salt for grilled chicken and grilled meat. No herb list. Shop names on the article are not picks.
+
+### S38
+- URL: https://dukhach.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/13978710067427/1716974700550
+- Publisher: Quang Binh visitor portal
+- Accessed: 23 Oct 2026
+- Supports: “Điểm tên 15 đặc sản Quảng Bình,” 29 May 2024. For Phong Nha it names cá mè and cá trắm on the Son, and singles out cá chình nướng. Bánh xèo Quảng Hòa uses red rice, herbs, nộm, cá chuối, bánh đá, and nước chấm. Other cakes and seafood on that list are not placed in Phong Nha and were not published here.
+
+### S39
+- URL: https://dukhach.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/13978710067427/251334050320896
+- Publisher: Quang Binh visitor portal
+- Accessed: 23 Oct 2026
+- Supports: “Thưởng thức bánh xèo gạo lứt và bánh canh Ba Đồn,” 25 September 2014, credit line www.afamily.vn. Brown-rice bánh xèo in Quảng Hòa. Lúa mành soaked about five hours, ground, salt and chives. Rolled with herbs, nộm, banana cá chuối, and bánh đa. Bánh đa here disagrees with bánh đá in S38. Bánh canh Ba Đồn and a Hanoi price on that article were not used.
+
+### S10 re-read
+- Accessed: 23 Oct 2026
+- Supports, in addition to the 21 Oct note: đoác starch from Arenga pinnata as an earlier staple, separate from rượu đoác made from the sap. Nguồn dishes ốc vặn (ốc tực), ốc núi, and cơm pồi. Nguồn people live mainly in Minh Hóa. Hội thi Cá trắm sông Son is named with the Son boat-racing festival, without a 2026 date.
