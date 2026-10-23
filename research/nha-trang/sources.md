@@ -1,6 +1,6 @@
 # Sources
 
-Accessed 22 Oct 2026 unless a line says otherwise. A search snippet that was not opened is not a source. The published place file is not a source.
+Accessed 22 Oct 2026 unless a line says otherwise. A search snippet that was not opened is not a source. The published place file is not a source. Pages opened again on 23 Oct 2026 are marked on that line.
 
 ### S1
 - URL: https://vietnam.travel/places-to-go/south-central-coast-central-highlands/nha-trang
@@ -114,7 +114,7 @@ Accessed 22 Oct 2026 unless a line says otherwise. A search snippet that was not
 - URL: https://dulichso.khanhhoa.gov.vn/article/cho-dam-nha-trang-thien-duong-mua-sam-va-am-thuc-5a2
 - Publisher: Du lịch số Khánh Hòa
 - Accessed: 22 Oct 2026
-- Supports: Chợ Đầm at Bến Chợ, Vạn Thạnh. Free. Lotus comparison, diameter 66.5 m, area 5,270 m², capacity over 3,000 people. Former lagoon of 7 ha. Market built up in 1908. Seafood named, and bún cá, bún chả cá, and nem named as food in the market. No hours.
+- Supports: Chợ Đầm at Bến Chợ, Vạn Thạnh. Free. Lotus comparison, diameter 66.5 m, area 5,270 m², capacity over 3,000 people. Former lagoon of 7 ha. Market built up in 1908. Seafood named, and bún cá, bún chả cá, and nem named as food in the market. No hours. Opened again 23 Oct 2026: the right-hand side names bánh tráng, muối ớt xanh, chả cá, and các loại mắm as famous specialties. The kinds of mắm are not named. The info block also prints Vạn Thạnh, Thành phố Nha Trang.
 
 ### S20
 - URL: https://dulichso.khanhhoa.gov.vn/article/nem-nuong-nha-trang-tinh-hoa-cuon-banh-trang-tru-danh-pho-bien-a7e
@@ -151,3 +151,39 @@ Accessed 22 Oct 2026 unless a line says otherwise. A search snippet that was not
 - Publisher: Cục Di sản văn hóa
 - Accessed: 22 Oct 2026
 - Supports: Opened page. Quyết định 152/QĐ-TTg, 17 January 2025, ranks Tháp Bà Pô Nagar in Nha Trang as a special national relic, architectural and artistic. The HTML spaces the decision number. The PDF of the decision was not opened. The police page also calls it a special national relic (S12). The festival page still says national historical-cultural relic (S4). Both ranks stay.
+
+### S26
+- URL: https://bvhttdl.gov.vn/nang-tam-van-hoa-am-thuc-khanh-hoa-20230906100923922.htm
+- Publisher: Bộ Văn hóa, Thể thao và Du lịch, reprinting Báo Khánh Hòa
+- Accessed: 23 Oct 2026
+- Supports: Article dated 6 Sep 2023. Verse: yến sào Hòn Nội, vịt lội Ninh Hòa, tôm hùm Bình Ba, nai khô Diên Khánh, cá tràu Võ Cạnh, sò huyết Thủy Triều. List: bánh canh chả cá Ninh Hòa, bún lá cá dầm Ninh Hòa, nem chua and nem nướng Ninh Hòa, bánh ướt Diên Khánh, lẩu mực Đại Lãnh, bánh canh hẹ Vạn Giã, gỏi cá mai Nha Trang, bánh canh cá dầm Nha Trang, bánh tráng xoài Cam Lâm. Photograph caption: Bún mực Vạn Ninh. Nem Ninh Hòa story: lean pork pounded, wrapped in lá chùm ruột, sour and sweet, then garlic and a dip both sweet and hot. The reprint does not say whether that story is nem chua or nem nướng. Old books, unnamed, on a cooled cup of cooked nest between about 8 and 9 in the evening after lying down around 7. Ninh Hòa people introducing a dish made from củ khoai sáp, with no dish name. No prices and no streets.
+
+### S27
+- URL: https://dulichso.khanhhoa.gov.vn/article/an-vat-duong-pho-o-khanh-hoa-333
+- Publisher: Du lịch số Khánh Hòa
+- Accessed: 23 Oct 2026
+- Supports: Street snacks in Khánh Hòa and Ninh Thuận. Bánh xèo, bánh căn, and bún sứa named as the cheap street set. Coastal bánh căn, unlike the Đà Lạt cake with xíu mại broth, is cooked in a clay mold and topped with fresh squid, shrimp, or egg. Dip: sweet-sour fish sauce, nước cá kho tót, and scallion oil. Late afternoon along Tháp Bà in Nha Trang, and also the Phan Rang market. Nem nướng with grilled skewers, fried rice paper, and herbs. Breakfast bún cá or bún sứa, broth from cá cờ bone and cá dầm. Checklist names bánh căn mực and bún sứa. No stall price as a number.
+
+### S28
+- URL: https://dulichso.khanhhoa.gov.vn/article/banh-can-nha-trang-khuc-nhac-gion-rum-tu-khuon-dat-nung-nong-hoi-8c4
+- Publisher: Du lịch số Khánh Hòa
+- Accessed: 23 Oct 2026
+- Supports: Bánh căn cooked in a clay mold with no oil. Rice soaked overnight, milled, poured thin, then a quail egg, fresh squid, or a whole shrimp. Plates named: chicken or quail egg, mực lá, shrimp, minced beef, fried shallot, and scallion oil. Three dips: sweet-sour fish sauce, mắm nêm, or salty-sweet nước mắm cá kho, each with scallion oil, pork xíu mại, and chopped mango. Three shop names and 30,000–70,000 VND a plate depending on topping. That range is a stall price and stays off the page. No clock.
+
+### S29
+- URL: https://dulichso.khanhhoa.gov.vn/article/bun-sua-nha-trang-vi-ngot-thanh-khiet-mat-lanh-tu-dai-duong-605
+- Publisher: Du lịch số Khánh Hòa
+- Accessed: 23 Oct 2026
+- Supports: Bún sứa Nha Trang, morning or afternoon. Broth from bone of cá thu, cá cờ, or cá liệt, with ripe tomato, not pork bone. In the bowl: offshore jellyfish, fried fish cake, steamed fish cake, cá dầm, lettuce, chopped banana blossom, bean sprouts, nước mắm ớt xanh. Season with a little mắm tôm or mắm ruốc, depending on the shop, plus lime and herbs. The page says bún cá uses more seasoning and calls bún sứa clean and not fatty. Three shop names and 30,000–45,000 VND a bowl. That range is a stall price and stays off the page. No street and no clock.
+
+### S30
+- URL: https://ttdhsdl.khanhhoa.gov.vn/Shopping/Detail/21
+- Publisher: Trung tâm Xúc tiến Đầu tư, Thương mại và Du lịch tỉnh Khánh Hòa
+- Accessed: 23 Oct 2026
+- Supports: Chợ Xóm Mới, 49 Ngô Gia Tự, Nha Trang. The header also prints “49 Ngô gia Tự”. Built from the 1960s. More than 1,500 traders in one paragraph, and more than 1,000 seafood traders in another. Foods named: bánh canh chả cá, bánh xèo, bún sứa, nem nướng, các loại bánh, chè, bún chả cá, bún cá, bún canh. Dried counter: mực một nắng, mực rim, cá khô, cua rang muối, chả cá. Fresh species: tôm, mực, cua, cá, ngao, sò, ốc, hến. No hours and no stall price. The visitor-center phone in the footer is not a market phone.
+
+### S31
+- URL: https://dulichso.khanhhoa.gov.vn/article/cho-xom-moi-nha-trang-thien-duong-hai-san-cho-du-khach-a5e
+- Publisher: Du lịch số Khánh Hòa
+- Accessed: 23 Oct 2026
+- Supports: Chợ Xóm Mới, 49 Ngô Gia Tự, Phước Tiến. Free. Fresh and dried seafood, market dating from the 1960s. This page does not name the dishes or the dried goods that S30 names. No hours.
