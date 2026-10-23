@@ -25,15 +25,15 @@
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "enriched",
-      "note": "Da Lat line now says a cooler hill station, matching the dossier. Hero kept. lat and lng unset.",
-      "updated": "2026-10-23T06:16:41.957Z",
+      "status": "stale",
+      "note": "Owner asked for a traveler-voice pass: prose narrates sources, Check on arrival sits in sentences, and the hero and Dining card reuse the church card file.",
+      "updated": "2026-10-23T13:30:51.448Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "checked",
-      "note": "Place prose, hero, season, fees, and interest groups match the dossier. Sight shells are the next units. Culture week stays off the event cards.",
-      "updated": "2026-10-23T06:16:50.457Z",
+      "status": "stale",
+      "note": "Copy reopened. Check again after the copy pass.",
+      "updated": "2026-10-23T13:30:51.485Z",
       "reworkCount": 1
     },
     "food": {
@@ -102,10 +102,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
-      "quality": "checked",
-      "note": "Facade and interior are both the wooden church. Fee, Mass times, and the missing gate clock are printed. Dot stays 5.",
-      "updated": "2026-10-23T06:21:50.942Z",
+      "copy": "stale",
+      "quality": "not_started",
+      "note": "Copy reopened. Check again after the copy pass.",
+      "updated": "2026-10-23T13:30:51.563Z",
       "reworkCount": 0
     },
     {
@@ -150,10 +150,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
-      "quality": "checked",
-      "note": "Hero is the prison courtyard. Fee disagreement is printed. Hours are Check on arrival. No second frame, so no body.",
-      "updated": "2026-10-23T06:23:27.704Z",
+      "copy": "stale",
+      "quality": "not_started",
+      "note": "Copy reopened. Check again after the copy pass.",
+      "updated": "2026-10-23T13:30:51.634Z",
       "reworkCount": 0
     },
     {
@@ -382,8 +382,63 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "kon-tum",
+    "stage": "destinationCopy",
+    "item": null,
+    "at": "2026-10-23T13:30:51.672Z",
+    "by": "owner-request",
+    "branch": "content/kon-tum-copy"
+  },
   "log": [
+    {
+      "at": "2026-10-23T13:30:51.635Z",
+      "place": "kon-tum",
+      "stage": "quality",
+      "item": "kon-tum--kon-tum-prison",
+      "status": "not_started",
+      "note": "Copy reopened. Check again after the copy pass."
+    },
+    {
+      "at": "2026-10-23T13:30:51.599Z",
+      "place": "kon-tum",
+      "stage": "copy",
+      "item": "kon-tum--kon-tum-prison",
+      "status": "stale",
+      "note": "Owner asked for a traveler-voice pass: prose narrates sources, Check on arrival sits in sentences, and the hero and Dining card reuse the church card file."
+    },
+    {
+      "at": "2026-10-23T13:30:51.563Z",
+      "place": "kon-tum",
+      "stage": "quality",
+      "item": "kon-tum--wooden-church",
+      "status": "not_started",
+      "note": "Copy reopened. Check again after the copy pass."
+    },
+    {
+      "at": "2026-10-23T13:30:51.524Z",
+      "place": "kon-tum",
+      "stage": "copy",
+      "item": "kon-tum--wooden-church",
+      "status": "stale",
+      "note": "Owner asked for a traveler-voice pass: prose narrates sources, Check on arrival sits in sentences, and the hero and Dining card reuse the church card file."
+    },
+    {
+      "at": "2026-10-23T13:30:51.485Z",
+      "place": "kon-tum",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "stale",
+      "note": "Copy reopened. Check again after the copy pass."
+    },
+    {
+      "at": "2026-10-23T13:30:51.448Z",
+      "place": "kon-tum",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "stale",
+      "note": "Owner asked for a traveler-voice pass: prose narrates sources, Check on arrival sits in sentences, and the hero and Dining card reuse the church card file."
+    },
     {
       "at": "2026-10-23T06:23:53.115Z",
       "place": "kon-tum",
@@ -493,54 +548,6 @@
       "place": "kon-tum",
       "stage": "copy",
       "item": "kon-tum--goi-la-kon-tum",
-      "status": "skipped",
-      "note": "Food stages stay skipped. No food guide and no dish photo."
-    },
-    {
-      "at": "2026-10-23T06:23:52.225Z",
-      "place": "kon-tum",
-      "stage": "page",
-      "item": "kon-tum--goi-la-kon-tum",
-      "status": "skipped",
-      "note": "Food stages stay skipped. No food guide and no dish photo."
-    },
-    {
-      "at": "2026-10-23T06:23:52.161Z",
-      "place": "kon-tum",
-      "stage": "quality",
-      "item": "kon-tum--pho-kho-kon-tum",
-      "status": "skipped",
-      "note": "Food stages stay skipped. No food guide and no dish photo."
-    },
-    {
-      "at": "2026-10-23T06:23:52.096Z",
-      "place": "kon-tum",
-      "stage": "copy",
-      "item": "kon-tum--pho-kho-kon-tum",
-      "status": "skipped",
-      "note": "Food stages stay skipped. No food guide and no dish photo."
-    },
-    {
-      "at": "2026-10-23T06:23:52.033Z",
-      "place": "kon-tum",
-      "stage": "page",
-      "item": "kon-tum--pho-kho-kon-tum",
-      "status": "skipped",
-      "note": "Food stages stay skipped. No food guide and no dish photo."
-    },
-    {
-      "at": "2026-10-23T06:23:51.965Z",
-      "place": "kon-tum",
-      "stage": "quality",
-      "item": "kon-tum--tran-cao-van",
-      "status": "skipped",
-      "note": "Food stages stay skipped. No food guide and no dish photo."
-    },
-    {
-      "at": "2026-10-23T06:23:51.899Z",
-      "place": "kon-tum",
-      "stage": "copy",
-      "item": "kon-tum--tran-cao-van",
       "status": "skipped",
       "note": "Food stages stay skipped. No food guide and no dish photo."
     }
