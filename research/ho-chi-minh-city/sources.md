@@ -141,3 +141,15 @@ A fact with a source id was opened that day and is stamped verified. A line mark
 - Publisher: Văn phòng UBND Thành phố Hồ Chí Minh (attempted)
 - Accessed: 22 Oct 2026
 - Supports: Nothing. The request returned a human-check page. No coordinate, area, or population was read from it. A bounding box is not a city pin, and no pin was copied from a snippet.
+
+### S24
+- URL: https://vietnam.travel/things-to-do/explore-delicious-dishes-ho-chi-minh-city
+- Publisher: Vietnam National Authority of Tourism (vietnam.travel)
+- Accessed: 23 Oct 2026
+- Supports: The city’s “Ho Chi Minh City - 100 interesting things” list, more than 104,000 votes, 10 categories, announced by the City’s Department of Tourism. Dishes on the page: bánh mì fillings (shumai, pork skin, fish cake, roasted pork, grilled beef, shredded chicken) and bakeries Bay Ho, Hoa Ma, Huynh Hoa, Tang, Cu Ly, Sau Le, “more than half a century,” no streets for Bay Ho, Tang, Cu Ly, or Sau Le. Bánh tráng trộn and its mix, and the places named for it. Two bánh xèo sizes, Central and what the page calls Western. Bún bò Nam Bộ. Hue spicy beef rice vermicelli as eaten here, including the Anthony Bourdain sentence and the sugar-broth line. Xôi: sweet options, the typical layered plate, corn sticky rice, cadé, meat sticky rice, chicken sticky rice, and the all-day vendor line. Chè types in the city list, Districts 1, 5, and 10, the unnamed shop on Su Van Hanh and its 16-cup tray, coconut jelly, sticky rice, flan, and the unnamed Thai sweet-soup street. A third cơm tấm plate and the candy-like fish sauce. A third hủ tiếu Nam Vang topping list. Ốc methods, three dipping sauces, and oysters, crabs, sentinel crabs, prawn, and squid. The northern-versus-southern phở split. The page image is a Hà Nội bánh mì file. It was not used as a Saigon card.
+
+### S25
+- URL: https://visithcmc.vn/explore-ben-thanh-market-an-attractive-destination-for-your-trip-to-ho-chi-minh-city/
+- Publisher: Ho Chi Minh City Tourism Promotion Center
+- Accessed: 23 Oct 2026
+- Supports: Bún riêu at Ben Thanh: crab meat, pork blood curd, and tofu in a rich broth. Bánh bèo Bến Thành with a special sauce, taste called savory, and a printed range of 25,000 to 50,000 VND depending on the type. That range is a market figure, not the city price. Bánh canh cua at stall 1301, fresh toppings, a hearty broth. Chè Bé, stall 1154–1130, West Side, Gate 7, Ben Thanh, Phan Chu Trinh, District 1, over 40 years, southern-style chè. The cups are not named. Ben Thanh night market starts at 7:00 PM, over 100 stalls along Phan Chu Trinh and Phan Bội Châu, seafood and grilled dishes with neither one named, more than 1,000 visitors an evening. A closing hour was not printed. The market-history paragraphs and the dress note on this page were not copied into the food guide.

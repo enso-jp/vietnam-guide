@@ -44,7 +44,7 @@ S10’s comparison stays: Hanoi food is described as more delicate and lighter o
 
 ### Pho
 - Vietnamese name: Phở
-- What it is: S10 says phở is the national soup and is best in Hanoi, and uses that sentence to point the reader at hủ tiếu instead. S11 still lists phở bò among the dishes on Bùi Viện. S14 lists phở with bánh mì and cơm tấm as an iconic dish of the city. No southern recipe, no sweetness, and no garnish list were printed for a Saigon bowl. Do not invent them.
+- What it is: S10 says phở is the national soup and is best in Hanoi, and uses that sentence to point the reader at hủ tiếu instead. S11 still lists phở bò among the dishes on Bùi Viện. S14 lists phở with bánh mì and cơm tấm as an iconic dish of the city. S24, opened 23 Oct 2026, prints a split: northern-style restaurants in this city have a light, clear, less sweet broth and treat fresh beef as the point; southern-style phở is sweeter, the broth darker from grilled purple onions and spices, served with bean sprouts, raw vegetables, sliced onions, garlic, and soy sauce. S10 and S24 both stay. S24 does not name a southern street.
 - How to eat it: Not printed for this city. Check on arrival — UNSOURCED.
 - When to order it: Not printed. S11 places it on the night street. A breakfast hour was not printed.
 - Area, not a shop: Bùi Viện (S11). S14 does not give a street.
@@ -55,7 +55,7 @@ S10’s comparison stays: Hanoi food is described as more delicate and lighter o
 
 ### Banh xeo
 - Vietnamese name: Bánh xèo
-- What it is: S9 calls it a crispy crepe, folded, with shrimp, pork, and bean sprouts. S17 calls it a southern-style savoury pancake. No size compared with Đà Nẵng was printed on these pages. Do not invent the comparison.
+- What it is: S9 calls it a crispy crepe, folded, with shrimp, pork, and bean sprouts. S17 calls it a southern-style savoury pancake. S24, opened 23 Oct 2026, says the city serves two sizes and does not name Đà Nẵng. The Central pancake is small, less than a hand across, filled with green beans, bean sprouts, and some seafood or pork. What S24 calls the Western pancake is large, filled with shrimp, pork belly, bean sprouts, and green beans.
 - How to eat it: S9 says dipped in fish sauce. A herb wrap was not on that sentence.
 - When to order it: S1 places sizzling bánh xèo at the food stalls at the end of the Ben Thanh hall. No hour.
 - Area, not a shop: Ben Thanh hall (S1). S17 does not name a second street.
@@ -379,3 +379,70 @@ Restaurant and bar names that located a street. Each line has a source and the w
 - Quince Saigon and Baozi, fine-dining names on S10. do not publish as a pick.
 
 Hotel brands on S14, including Majestic, Caravelle, Continental Saigon, Hôtel des Arts, Sofitel, The Grand Ho Tram, Meliá Ho Tram, and Pullman Vung Tau, are not picks.
+
+## Added 23 Oct 2026
+
+S24 and S25 were opened that day. These lines supplement the entries above. Where a plate differs from an earlier page, both stay. No stall price below is the price to print. Streets and rooms in this addendum are not specialty dishes.
+
+### Banh trang tron
+- Vietnamese name: Bánh tráng trộn
+- What it is: S24: a snack, not a main course. Rice paper dried in dew, cut small, mixed with shredded green mango, finely chopped laksa leaves, Tay Ninh shrimp salt, and kumquat juice. Then fried onion fat with peanuts, roasted shrimp, quail eggs, and beef jerky.
+- Where: Turtle Lake, Nguyễn Thượng Hiền (District 3), September 23 Park (District 1), the Ben Thanh area, the corner of Nguyễn Thái Học and Trần Hưng Đạo (District 1). Also “across the street” of the city. A shop hour was not printed. Check on arrival — UNSOURCED.
+- Meal: snack
+- Licensed photo: Unpublished. The S24 page image is a Hà Nội bánh mì file. It was not used.
+- Sources: S24
+
+### Bun bo Nam Bo
+- Vietnamese name: Bún bò Nam Bộ, as S24 prints “Bun bo Nam Bo” under the heading Bún Bò
+- What it is: S24: a popular southern dish, unlike Hue spicy beef rice vermicelli. Brothless. Small rice vermicelli. Spicy and sour chilli-garlic fish sauce. Thinly sliced stir-fried beef. Herbs: bean sprouts, cucumbers, fried shallots, roasted peanuts.
+- Where: A street was not printed. Check on arrival — UNSOURCED.
+- Meal: main
+- Licensed photo: Unpublished.
+- Sources: S24
+
+### Bun bo Hue, as eaten here
+- Vietnamese name: The page says “Hue spicy beef rice vermicelli.” It does not print “bún bò Huế.” The existing dish slug is `bun-bo-hue`. Do not rewrite the Hue sentences.
+- What it is: S24: the bowl followed Hue people to this city. Rich, spicy broth, beef with pork sausage, fresh vegetables, more meat and rolls than in Hue, so it looks fuller. The broth has a sweet taste of sugar, which S24 says reduces the strong smell of shrimp paste. S24 says Anthony Bourdain once recognized the Hue bowl as one of the most delicious dishes in the world. This is not bún bò Nam Bộ.
+- Where: A street in this city was not printed. Check on arrival — UNSOURCED.
+- Meal: main
+- Licensed photo: Do not use a Hue frame as a Ho Chi Minh City card. Unpublished for this city’s bowl.
+- Sources: S24
+
+### Xoi
+- Vietnamese name: Xôi. S24 does not print xôi ngọt, xôi bắp, or xôi mặn as separate Vietnamese headings. Cadé is printed as “cadé.” Xa xiu is printed as “xa xiu (roasted pork).”
+- Sweet sticky rice: options beans, durian, corn, sweet gourd. Typical plate: soft hot sticky rice, a little grated coconut, granulated sugar, roasted peanuts. Vendors sell meat and sweet sticky rice morning, noon, afternoon, evening, and late at night.
+- Corn sticky rice: one of the typical sweet plates. Sticky corn stewed with coconut water, seeds soft and bright white. A bit mushy. Sweet but not greasy. Add grated coconut, sugar, peanuts or sesame salt.
+- Cadé: “a more southern style.” Soft chewy sticky rice in fresh banana leaves, topped with cadé from coconut milk, eggs, flour, and sugar.
+- Meat sticky rice: xa xiu, dried shrimp, sausage, meat floss, pork rolls, quail eggs, fatty onions or fried shallots, rich sauce.
+- Chicken sticky rice: marinated chicken thighs, onion fat, pickled mustard greens, a cooked sauce. Sides: crispy fried chicken skin, eggs, shredded chicken, shumai, boiled gizzard liver. This is not the alley 76 “chicken and rice,” which still has no Vietnamese name.
+- Where: A shop street was not printed. Check on arrival — UNSOURCED.
+- Licensed photo: Unpublished.
+- Sources: S24
+
+### Che
+- Vietnamese name: Chè. S24 does not print a Vietnamese name for each flavour.
+- City list, shops on streets in Districts 1, 5, and 10. A method was not printed for these. Check on arrival — UNSOURCED. Lotus seed, green beans, red beans, peanuts, black sesame, longan, ginkgo, water chestnut, ginseng tonic, braised chicken egg (like flan), chicken egg soaked in black tea, steamed papaya.
+- Su Van Hanh: the shop is not named. A 16-cup tray: Ba Ba, regular sweet soup made from beans, banana, corn, white bean, taro, dumplings. With a jar of coconut jelly, a plate of sticky rice, and a plate of flan. S24 does not say the flan plate and the braised chicken egg are the same dessert. Green beans, red beans, the regular bean cup, and white bean are all printed. Do not merge them.
+- Thai sweet soup: a street specialising in it. The street is not named. Durian, and a sweet and fatty milk taste.
+- Coconut jelly is named as a jar with the tray, not as its own sweet soup. It is not a separate specialty.
+- The shared dish file `che` is Da Nang’s. Append the Ho Chi Minh City where-line. Do not rewrite the Da Nang sentences.
+- Licensed photo: Unpublished for these bowls. Do not use the Da Nang chè frame as a card.
+- Sources: S24
+
+### Plates already on the guide, new lines
+- Cơm tấm, S24: a little dry, small-grain rice, cucumber, pickles, grilled ribs, pork skin, pork patties. Fish sauce is candy-like, “the soul of this dish.” Breakfast, lunch, dinner, or supper. This is a third plate beside S8 and S10.
+- Hủ tiếu Nam Vang, S24: soft chewy rice noodles from rice flour, rich broth, prawn, minced pork, pork intestines, quail eggs, fried garlic, raw vegetables. A third topping list beside S8 and S10.
+- Bánh mì, S24: try shumai, pork skin, fish cake, roasted pork, grilled beef, shredded chicken. These are fillings of bánh mì, one dish, not six specialties. Bakeries more than half a century old: Bay Ho Bakery, Hoa Ma, Huynh Hoa, Tang, Cu Ly, Sau Le. No street for Bay Ho, Tang, Cu Ly, or Sau Le.
+- Ốc, S24: steamed, boiled, stir-fried, roasted, or grilled. Boiled snails dipped in ginger chilli sauce, salted egg, or tamarind sauce. Also oysters, crabs, sentinel crabs, prawn, and squid at that snack. Keep this list beside S8, S10, and S16. Do not split those seafood names into new dishes. S24 does not give them their own recipes.
+- Bánh bèo, S25: Ben Thanh steamed rice cakes, a special sauce, taste called savory. Price printed 25,000 to 50,000 VND depending on the type. Not the city price. Do not publish the number.
+- Bánh canh cua, S25: stall 1301 at Ben Thanh, fresh toppings, a hearty broth. The feast-streets recipe stays. Still not the snakehead photograph.
+- Bún riêu, S25: crab meat, pork blood curd, and tofu in a rich broth at Ben Thanh. The alley 76 line still has no recipe.
+
+### Doors and streets added 23 Oct 2026, not specialties
+- Ben Thanh night market, S25: starts 7:00 PM. Over 100 stalls on Phan Chu Trinh and Phan Bội Châu. Seafood and grilled dishes, unnamed. More than 1,000 visitors an evening. Closing hour: Check on arrival — UNSOURCED.
+- Su Van Hanh sweet-soup shop, unnamed, S24.
+- A Thai sweet-soup street, unnamed, S24.
+- Chè Bé, S25: stall 1154–1130, West Side, Gate 7, Ben Thanh, Phan Chu Trinh, District 1. Over 40 years. Southern-style chè. Cups not named.
+- Bay Ho Bakery, Tang bánh mì, Cu Ly bánh mì, Sau Le bánh mì, S24. Doors. No streets.
+
+Not used: search snippets for Visit HCMC’s largest-markets article and nine night-markets article. Those URLs redirected to the news index on 23 Oct 2026. No dish was taken from a snippet.

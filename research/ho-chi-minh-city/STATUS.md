@@ -2,7 +2,7 @@
 
 Slug: `ho-chi-minh-city`
 Status: stored
-Checked: 22 Oct 2026
+Checked: 22 Oct 2026. Food addendum checked 23 Oct 2026 (S24, S25). Status stays stored.
 Ready for copy: yes
 
 All six research lanes are stored. The search slug stays `ho-chi-minh-city`. Corridor is southeast. The city and the old Saigon center share this dossier. Vung Tau, Can Gio, Cu Chi, and Con Dao keep their own slugs. Chợ Lớn is an area of this city, not a new place file.
@@ -53,3 +53,5 @@ Dishes with no licensed frame confirmed. Unpublished: no licensed photo.
 ## Left out
 
 Left out, and not invented: a single city pin; the unread city-portal range; a 2026 metro fare; an operator clock for the cathedral, the post office, Bến Thành, the opera, Giác Lâm, Tân Định church, Bình Tây by day, and the fine-arts museum; the cathedral interior as open or closed; a rail station street and any train duration; a drive minute from Tân Sơn Nhất; stall prices as the price to print; visa rules; hotel brands as picks; Book Street, because no primary page was opened; the body of the 2026 “Trên bến dưới thuyền” flower-market headline; 2026 civil dates for the lunar rites; Ao Dai Festival, River Festival, and HOZO dates; a citywide quiet hour; My Tho, Ben Tre, Tay Ninh, Da Lat, and Mui Ne, which no opened page named as a trip; a Government correction of the resolution’s area after the field survey. The five sights missing from the body of S2 were not filled in.
+
+On 23 Oct 2026 the delicious-dishes page (S24) and the Visit HCMC Ben Thanh article (S25) were opened. New plates from those pages are in `food.md`. No licensed photo of bánh tráng trộn, bún bò Nam Bộ, the xôi plates, or the chè bowls was opened. The S24 page image is a Hà Nội bánh mì file and was not used. Two Visit HCMC market URLs from search, the largest-markets article and the nine night markets article, redirected to the news index and were not read. Snippets from those URLs were not used.

@@ -2,13 +2,13 @@
   "slug": "ho-chi-minh-city",
   "name": "Ho Chi Minh City food guide",
   "placeSlug": "ho-chi-minh-city",
-  "summary": "Ho Chi Minh City mixes plates from many regions. Vietnam Tourism says the bowl that is best here is hủ tiếu, and that phở is best in Hanoi. Cơm tấm, bánh mì, bánh xèo, gỏi cuốn, and cà phê sữa đá are the other plates with a photograph of the dish.",
+  "summary": "Ho Chi Minh City mixes plates from many regions. Vietnam Tourism says hủ tiếu is the bowl that is best here, and that phở is best in Hanoi. A later page still describes a sweeter southern phở, and names bánh tráng trộn, bún bò Nam Bộ, xôi, and chè beside cơm tấm, bánh mì, and bánh xèo. Cơm tấm, hủ tiếu, bánh mì, bánh xèo, gỏi cuốn, and cà phê sữa đá are the plates with a photograph.",
   "heroSlug": "com-tam",
   "body": [
     "Vietnam Tourism sets the two cities apart: Hanoi food is described as more delicate and lighter on seasoning, and this city as a place that mixes ingredients and recipes from many regions. What was born here is still best here. Phở is best in Hanoi, and Vietnam Tourism uses that to point you at hủ tiếu.",
-    "Visit HCMC and the national attractions page still name phở as a bowl people eat in this city. No southern recipe was printed on those pages. The Hanoi photograph of a bowl is not a picture of a Saigon street. Shops below are doors a page named. A stall price on those pages is not printed here."
+    "The delicious-dishes page, drawn from more than 104,000 votes for the city’s “100 interesting things” list, still names phở here and splits the bowl. Northern-style restaurants have a light, clear, less sweet broth. The southern bowl is sweeter, and darker from grilled purple onions and spices, with bean sprouts, raw vegetables, sliced onions, garlic, and soy sauce. Visit HCMC and the national attractions page also name phở. Named shops are doors a page used to locate a plate. A stall price on those pages is not the city price."
   ],
-  "specialtiesLead": "The highlights are cơm tấm, hủ tiếu, bánh mì, bánh xèo, gỏi cuốn, and cà phê sữa đá. Each has a photograph of the dish. The other plates are named for this city too.",
+  "specialtiesLead": "The plates with a photograph are cơm tấm, hủ tiếu, bánh mì, bánh xèo, gỏi cuốn, and cà phê sữa đá. Bánh tráng trộn, bún bò Nam Bộ, xôi, and chè are named on the delicious-dishes page. The other plates are named for this city too.",
   "dishSlugs": [
     "com-tam",
     "hu-tieu",
@@ -24,13 +24,13 @@
       "heading": "Regional dishes",
       "nav": "Regional",
       "paragraphs": [
-        "The plates below are also named for this city. They do not have a photograph of that dish, so each one is a line: the name, and the address when a page printed one. Phở is one of them. Vietnam Tourism says it is best in Hanoi. Visit HCMC still lists phở bò on Bùi Viện and lists phở among iconic dishes. No Saigon garnish list was printed."
+        "The plates below are also named for this city. Phở is one of them. Vietnam Tourism’s cuisine page says it is best in Hanoi and points you at hủ tiếu. The delicious-dishes page names bánh tráng trộn, bún bò Nam Bộ, the Hue bowl as it is eaten here, xôi, and a long list of chè, and it still describes a southern phở. Visit HCMC lists phở bò on Bùi Viện. Where the pages disagree, both stay."
       ],
       "spots": [
         {
           "name": "Oc",
           "nameVi": "Ốc",
-          "note": "Vietnam Tourism calls snails one of the city’s specialties. Restaurants lay the day’s catch in baskets, up to twenty kinds, and names sweet snails, cockles, and razor clams, stir-fried with butter and garlic, grilled with sea salt and chili, or stewed in coconut milk. A later page says they are boiled, steamed, grilled, or sautéed and eaten from the shell with a cold beer. The city itinerary’s District 4 spread adds crab, scallops, molluscs, and freshwater snails in butter, garlic, lemongrass, and chili. The lists do not match. All three stay. Vĩnh Khánh comes to life around 6 p.m."
+          "note": "Vietnam Tourism calls snails one of the city’s specialties. Restaurants lay the day’s catch in baskets, up to twenty kinds, and names sweet snails, cockles, and razor clams, stir-fried with butter and garlic, grilled with sea salt and chili, or stewed in coconut milk. A later page says they are boiled, steamed, grilled, or sautéed and eaten from the shell with a cold beer. The delicious-dishes page says they are steamed, boiled, stir-fried, roasted, or grilled, and that boiled snails are dipped in ginger chilli sauce, salted egg, or tamarind sauce. It also names oysters, crabs, sentinel crabs, prawn, and squid at that evening snack. The city itinerary’s District 4 spread adds crab, scallops, molluscs, and freshwater snails in butter, garlic, lemongrass, and chili. The lists do not match. All of them stay. Vĩnh Khánh comes to life around 6 p.m."
         },
         {
           "name": "Bun thit nuong",
@@ -40,7 +40,7 @@
         {
           "name": "Banh beo",
           "nameVi": "Bánh bèo",
-          "note": "Vietnam Tourism’s feast-streets page: translucent morsels filled with shrimp and pork, often eight to ten in an order, for sharing. No dipping sauce was named. This is not the Hue recipe."
+          "note": "Vietnam Tourism’s feast-streets page: translucent morsels filled with shrimp and pork, often eight to ten in an order, for sharing. No dipping sauce was named on Vietnam Tourism’s feast-streets page. Visit HCMC’s Ben Thanh page says the market’s steamed rice cakes come with a special sauce and calls the taste savory. A price on Visit HCMC’s Ben Thanh page is a market figure, not the city price. This is not the Hue recipe."
         },
         {
           "name": "Banh cuon",
@@ -60,7 +60,7 @@
         {
           "name": "Banh canh cua",
           "nameVi": "Bánh canh cua",
-          "note": "The feast-streets page: a seafood soup with crab, shrimp, and rice or tapioca noodles in a pork broth. The photograph on file of bánh canh is a snakehead bowl. It is not this crab soup, so it is not the card."
+          "note": "The feast-streets page: a seafood soup with crab, shrimp, and rice or tapioca noodles in a pork broth. Visit HCMC names stall 1301 at Ben Thanh for this bowl, with fresh toppings and a hearty broth."
         },
         {
           "name": "Banh da xuc hen",
@@ -86,7 +86,7 @@
           "name": "Bun rieu",
           "nameVi": "Bún riêu",
           "address": "Hẻm 76 Hai Bà Trưng",
-          "note": "Named in the same alley sentence as bún Thái, chicken and rice, grilled skewers, and bột chiên. No recipe was printed."
+          "note": "Named at alley 76 in the same sentence as bún Thái, chicken and rice, grilled skewers, and bột chiên. No recipe was printed for that alley bowl. Visit HCMC’s Ben Thanh page says the bowl is crab meat, pork blood curd, and tofu in a rich broth."
         },
         {
           "name": "Chicken and rice",
@@ -116,7 +116,160 @@
           "name": "Pho",
           "nameVi": "Phở",
           "address": "Bùi Viện",
-          "note": "Vietnam Tourism says phở is the national soup and is best in Hanoi, and points a reader in this city toward hủ tiếu. Visit HCMC still names phở bò on Bùi Viện, and the welcome page lists phở with bánh mì and cơm tấm as an iconic dish. No southern recipe was printed. There is no Saigon photograph of the bowl on this page."
+          "note": "Vietnam Tourism’s cuisine page says phở is the national soup and is best in Hanoi, and points a reader in this city toward hủ tiếu. The delicious-dishes page describes two bowls in this city: northern-style restaurants with a light, clear, less sweet broth, and a southern bowl that is sweeter, with a darker broth from grilled purple onions and spices, served with bean sprouts, raw vegetables, sliced onions, garlic, and soy sauce. Visit HCMC still names phở bò on Bùi Viện, and the welcome page lists phở with bánh mì and cơm tấm as an iconic dish. Both accounts stay."
+        },
+        {
+          "name": "Banh trang tron",
+          "nameVi": "Bánh tráng trộn",
+          "note": "A snack, not a main course, on Vietnam Tourism’s delicious-dishes page. Rice paper dried in dew and cut small, mixed with shredded green mango, finely chopped laksa leaves, Tay Ninh shrimp salt, and kumquat juice, then fried onion fat with peanuts, roasted shrimp, quail eggs, and beef jerky. The page names Turtle Lake, Nguyễn Thượng Hiền in District 3, September 23 Park in District 1, the Ben Thanh area, and the corner of Nguyễn Thái Học and Trần Hưng Đạo in District 1. A shop hour was not printed. Check on arrival."
+        },
+        {
+          "name": "Bun bo Nam Bo",
+          "nameVi": "Bún bò Nam Bộ",
+          "note": "Vietnam Tourism’s delicious-dishes page calls this a popular southern dish, unlike the Hue bowl. It is brothless, with small rice vermicelli, a spicy and sour chilli-garlic fish sauce, and thinly sliced stir-fried beef. Herbs named: bean sprouts, cucumbers, fried shallots, and roasted peanuts. A street was not printed. Check on arrival."
+        },
+        {
+          "name": "Bun bo Hue",
+          "nameVi": "Bún bò Huế",
+          "dishSlug": "bun-bo-hue",
+          "note": "The delicious-dishes page says Hue spicy beef rice vermicelli followed Hue people to this city. The bowl it describes looks fuller than in Hue: more meat and rolls, a rich spicy broth, beef with pork sausage, and fresh vegetables. The broth has a sweet taste of sugar, which the page says reduces the strong smell of shrimp paste. The page says Anthony Bourdain once recognized the Hue bowl as one of the most delicious dishes in the world. Bún bò Nam Bộ on the same page is the brothless southern plate. A street in this city was not printed. Check on arrival."
+        },
+        {
+          "name": "Sweet sticky rice",
+          "nameVi": "Xôi",
+          "note": "Vendors on the delicious-dishes page sell meat sticky rice and sweet sticky rice in the morning, at noon, in the afternoon, in the evening, and late at night. Sweet options named: beans, durian, corn, and sweet gourd. The typical plate is a layer of soft, hot sticky rice, a little grated coconut, then granulated sugar and roasted peanuts. Corn sticky rice is the next plate, with its own method. A shop street was not printed. Check on arrival."
+        },
+        {
+          "name": "Corn sticky rice",
+          "nameVi": "Xôi",
+          "note": "Vietnam Tourism calls this one of the typical sweet sticky rice dishes: sticky corn stewed with coconut water until the seeds are soft and bright white. The page says it is a bit mushy, and sweet but not greasy. When eating, add a little grated coconut, sugar, and peanuts or sesame salt."
+        },
+        {
+          "name": "Cade sticky rice",
+          "nameVi": "Xôi cadé",
+          "note": "The delicious-dishes page calls this a more southern style. Soft, chewy sticky rice is stuffed into fresh banana leaves and topped with a soft layer of cadé made from coconut milk, eggs, flour, and sugar."
+        },
+        {
+          "name": "Meat sticky rice",
+          "nameVi": "Xôi",
+          "note": "Vietnam Tourism’s delicious-dishes page serves meat sticky rice in this city with xa xiu (roasted pork), dried shrimp, sausage, meat floss, pork rolls, and quail eggs, plus fatty onions or fried shallots, and a rich sauce."
+        },
+        {
+          "name": "Chicken sticky rice",
+          "nameVi": "Xôi",
+          "note": "Vietnam Tourism’s delicious-dishes page serves chicken sticky rice as marinated chicken thighs, onion fat, pickled mustard greens, and a cooked sauce. Side dishes named: crispy fried chicken skin, eggs, shredded chicken, shumai, and boiled gizzard liver. This is sticky rice. The chicken and rice at alley 76, on the cuisine page, had no Vietnamese name."
+        },
+        {
+          "name": "Lotus-seed sweet soup",
+          "nameVi": "Chè",
+          "note": "Vietnam Tourism’s delicious-dishes page names lotus seed among the sweet soups in Ho Chi Minh City. Shops are along streets in Districts 1, 5, and 10. A method for this bowl was not printed. Check on arrival."
+        },
+        {
+          "name": "Green-bean sweet soup",
+          "nameVi": "Chè",
+          "note": "Vietnam Tourism’s delicious-dishes page names green beans among the city’s sweet soups. The Su Van Hanh tray also has a regular sweet soup made from beans, and a white-bean cup. The page does not say these are one bowl. A method for green beans was not printed. Check on arrival."
+        },
+        {
+          "name": "Red-bean sweet soup",
+          "nameVi": "Chè",
+          "note": "Vietnam Tourism’s delicious-dishes page names red beans among the city’s sweet soups, separate from the bean cup on the Su Van Hanh tray. A method was not printed. Shops are along streets in Districts 1, 5, and 10. Check on arrival."
+        },
+        {
+          "name": "Peanut sweet soup",
+          "nameVi": "Chè",
+          "note": "Vietnam Tourism’s delicious-dishes page names peanuts among the city’s sweet soups. A method was not printed. Shops are along streets in Districts 1, 5, and 10. Check on arrival."
+        },
+        {
+          "name": "Black-sesame sweet soup",
+          "nameVi": "Chè",
+          "note": "Vietnam Tourism’s delicious-dishes page names black sesame among the city’s sweet soups. A method was not printed. Shops are along streets in Districts 1, 5, and 10. Check on arrival."
+        },
+        {
+          "name": "Longan sweet soup",
+          "nameVi": "Chè",
+          "note": "Vietnam Tourism’s delicious-dishes page names longan among the city’s sweet soups. A method was not printed. Shops are along streets in Districts 1, 5, and 10. Check on arrival."
+        },
+        {
+          "name": "Ginkgo sweet soup",
+          "nameVi": "Chè",
+          "note": "Vietnam Tourism’s delicious-dishes page names ginkgo among the city’s sweet soups. A method was not printed. Shops are along streets in Districts 1, 5, and 10. Check on arrival."
+        },
+        {
+          "name": "Water-chestnut sweet soup",
+          "nameVi": "Chè",
+          "note": "Vietnam Tourism’s delicious-dishes page names water chestnut among the city’s sweet soups. A method was not printed. Shops are along streets in Districts 1, 5, and 10. Check on arrival."
+        },
+        {
+          "name": "Ginseng-tonic sweet soup",
+          "nameVi": "Chè",
+          "note": "The delicious-dishes page names ginseng tonic among the city’s sweet soups. A method was not printed. Shops are along streets in Districts 1, 5, and 10. Check on arrival."
+        },
+        {
+          "name": "Braised chicken egg",
+          "nameVi": "Chè",
+          "note": "The delicious-dishes page names braised chicken egg, like flan, among the city’s sweet soups. The Su Van Hanh tray also lists a plate of flan. The page does not say they are the same. A method was not printed. Check on arrival."
+        },
+        {
+          "name": "Chicken egg soaked in black tea",
+          "nameVi": "Chè",
+          "note": "Vietnam Tourism’s delicious-dishes page names chicken egg soaked in black tea among the city’s sweet soups. A method was not printed. Shops are along streets in Districts 1, 5, and 10. Check on arrival."
+        },
+        {
+          "name": "Steamed-papaya sweet soup",
+          "nameVi": "Chè",
+          "note": "The delicious-dishes page names steamed papaya among the city’s sweet soups. A method was not printed. Shops are along streets in Districts 1, 5, and 10. Check on arrival."
+        },
+        {
+          "name": "Ba Ba sweet soup",
+          "nameVi": "Chè",
+          "address": "Su Van Hanh",
+          "note": "One cup on the 16-cup tray at the sweet-soup shop on Su Van Hanh, which the delicious-dishes page points to for southern flavours. The shop was not named. A method for Ba Ba was not printed. Check on arrival."
+        },
+        {
+          "name": "Regular bean sweet soup",
+          "nameVi": "Chè",
+          "address": "Su Van Hanh",
+          "note": "On the Su Van Hanh tray, the page calls this the regular sweet soup and says it is made from beans. The city list also names green beans and red beans, and the tray names white bean. The page does not say these are one bowl. Check on arrival."
+        },
+        {
+          "name": "Banana sweet soup",
+          "nameVi": "Chè",
+          "address": "Su Van Hanh",
+          "note": "Named on the 16-cup tray at the unnamed sweet-soup shop on Su Van Hanh. A method was not printed. Check on arrival."
+        },
+        {
+          "name": "Corn sweet soup",
+          "nameVi": "Chè",
+          "address": "Su Van Hanh",
+          "note": "Named on the Su Van Hanh tray. This is a sweet soup, not the corn sticky rice above. A method was not printed. Check on arrival."
+        },
+        {
+          "name": "White-bean sweet soup",
+          "nameVi": "Chè",
+          "address": "Su Van Hanh",
+          "note": "Named on the Su Van Hanh tray, beside the regular bean sweet soup. The page does not say it is the green-bean or red-bean bowl. A method was not printed. Check on arrival."
+        },
+        {
+          "name": "Taro sweet soup",
+          "nameVi": "Chè",
+          "address": "Su Van Hanh",
+          "note": "Named on the Su Van Hanh tray. A method was not printed. The shop was not named. Check on arrival."
+        },
+        {
+          "name": "Dumplings sweet soup",
+          "nameVi": "Chè",
+          "address": "Su Van Hanh",
+          "note": "Named on the Su Van Hanh tray. A method was not printed. The shop was not named. Check on arrival."
+        },
+        {
+          "name": "Thai sweet soup",
+          "nameVi": "Chè",
+          "note": "Vietnam Tourism says the city has a street that sells Thai sweet soup. The street is not named. The page says the flavour is durian, with a sweet and fatty milk taste. Check on arrival."
+        },
+        {
+          "name": "Flan",
+          "address": "Su Van Hanh",
+          "note": "The Su Van Hanh tray comes with a plate of flan, a jar of coconut jelly, and a plate of sticky rice. Braised chicken egg is a separate name on the same page, described as like flan. The page does not say the plate and the egg are the same dessert. The shop was not named."
         }
       ]
     },
@@ -263,14 +416,14 @@
           "nameVi": "Bánh mì Huỳnh Hoa",
           "address": "26 Lê Thị Riêng, District 1",
           "dishSlug": "banh-mi",
-          "note": "Named for bánh mì. The same page prints a figure for that shop. That figure is not the city price, so it is not printed here."
+          "note": "Named for bánh mì. The same page prints a figure for that shop. That figure is not the city price, so it is not printed here. The delicious-dishes page names the shop among bakeries that have existed for more than half a century."
         },
         {
           "name": "Banh mi Hoa Ma",
           "nameVi": "Bánh mì Hoa Mã",
           "address": "Bùi Viện",
           "dishSlug": "banh-mi",
-          "note": "Visit HCMC names Bánh mì Hoa Mã on Bùi Viện. No street number was printed."
+          "note": "Visit HCMC names Bánh mì Hoa Mã on Bùi Viện. No street number was printed. The delicious-dishes page names it among bakeries that have existed for more than half a century."
         },
         {
           "name": "Goi cuon Minh",
@@ -288,6 +441,50 @@
           "name": "Quan Bui",
           "nameVi": "Quán Bụi",
           "note": "The city itinerary names Quán Bụi for a Vietnamese dinner. No street was printed. The page does not call it fine dining."
+        },
+        {
+          "name": "Ben Thanh night market",
+          "nameVi": "Chợ đêm Bến Thành",
+          "address": "Phan Chu Trinh and Phan Bội Châu, beside Ben Thanh",
+          "note": "Visit HCMC says the night market starts at 7:00 PM, with over 100 stalls along those streets. The food it names is seafood and grilled dishes. It does not name the seafood or the grill. A closing hour was not printed. Check on arrival."
+        },
+        {
+          "name": "Bay Ho Bakery",
+          "dishSlug": "banh-mi",
+          "note": "Vietnam Tourism’s delicious-dishes page names Bay Ho Bakery among bánh mì shops that have existed for more than half a century. No street was printed. Fillings it names for the city loaf: shumai, pork skin, fish cake, roasted pork, grilled beef, and shredded chicken."
+        },
+        {
+          "name": "Tang banh mi",
+          "nameVi": "Bánh mì",
+          "dishSlug": "banh-mi",
+          "note": "Vietnam Tourism’s delicious-dishes page names this bakery among bánh mì shops that have existed for more than half a century. No street was printed."
+        },
+        {
+          "name": "Cu Ly banh mi",
+          "nameVi": "Bánh mì",
+          "dishSlug": "banh-mi",
+          "note": "Vietnam Tourism’s delicious-dishes page names this bakery among bánh mì shops that have existed for more than half a century. No street was printed."
+        },
+        {
+          "name": "Sau Le banh mi",
+          "nameVi": "Bánh mì",
+          "dishSlug": "banh-mi",
+          "note": "Vietnam Tourism’s delicious-dishes page names this bakery among bánh mì shops that have existed for more than half a century. No street was printed."
+        },
+        {
+          "name": "Su Van Hanh sweet soup",
+          "address": "Su Van Hanh",
+          "note": "The delicious-dishes page sends you here for sweet soup with southern flavours. The shop is not named. The tray is 16 cups: Ba Ba, a bean sweet soup, banana, corn, white bean, taro, and dumplings, with a jar of coconut jelly, a plate of sticky rice, and a plate of flan."
+        },
+        {
+          "name": "A Thai sweet soup street",
+          "note": "Vietnam Tourism says the city has a street specialising in Thai sweet soup. It never names the street. The bowl smells of durian and tastes of sweet, fatty milk."
+        },
+        {
+          "name": "Che Be",
+          "nameVi": "Chè Bé",
+          "address": "Stall 1154–1130, West Side, Gate 7, Ben Thanh, Phan Chu Trinh, District 1",
+          "note": "Visit HCMC calls this the renowned chè stall in Ben Thanh, with over 40 years specialising in southern-style chè. The cups in the glass cases are not named. A price was not printed."
         }
       ]
     },
@@ -373,7 +570,7 @@
       "heading": "Breakfast",
       "nav": "Breakfast",
       "paragraphs": [
-        "Cơm tấm is the breakfast Vietnam Tourism names, and the same page says people also eat it at any meal. Bánh mì is the start of a morning on the city itinerary, and another page says it is sold at any hour. Cà phê sữa đá is the Saturday morning cup in the park outside the palace, before you go in."
+        "Cơm tấm is the breakfast Vietnam Tourism names, and the same page says people also eat it at any meal. The delicious-dishes page says the plate is breakfast, lunch, dinner, or supper, and that sticky rice is sold in the morning, at noon, in the afternoon, in the evening, and late at night. Bánh mì is the start of a morning on the city itinerary, and another page says it is sold at any hour. Cà phê sữa đá is the Saturday morning cup in the park outside the palace, before you go in."
       ],
       "spots": [
         {
@@ -391,7 +588,7 @@
       ]
     }
   ],
-  "verified": "22 Oct 2026",
-  "seoTitle": "Ho Chi Minh City food — cơm tấm, hủ tiếu, and the streets",
-  "seoDescription": "What the city pages name in Ho Chi Minh City: cơm tấm, hủ tiếu, bánh mì, the snail streets, and the three fine-dining rooms. Phở is best in Hanoi on the national page."
+  "verified": "23 Oct 2026",
+  "seoTitle": "Ho Chi Minh City food — cơm tấm, hủ tiếu, bánh tráng trộn",
+  "seoDescription": "What the city pages name in Ho Chi Minh City: cơm tấm, hủ tiếu, bánh mì, bánh tráng trộn, bún bò Nam Bộ, xôi, and chè. Phở is best in Hanoi on the cuisine page, and a later page still describes a southern bowl."
 }
