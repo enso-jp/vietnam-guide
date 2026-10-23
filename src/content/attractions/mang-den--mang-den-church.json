@@ -1,0 +1,73 @@
+{
+  "slug": "mang-den-church",
+  "placeSlug": "mang-den",
+  "name": "Mang Den church and the Virgin Mary statue",
+  "nameVi": "Đức Mẹ Măng Đen",
+  "kicker": "Pilgrimage center on Highway 24",
+  "summary": "Visit the Virgin Mary statue and the church at the Mang Den pilgrimage center. The gate, the parking, and the toilets are free. Stay for the 05:30 Mass at the shrine, or keep it a short stop between the fall and the lake.",
+  "dots": 2,
+  "district": "The town",
+  "timeNeeded": "Check on arrival",
+  "fee": "Free",
+  "getThere": "On Highway 24 in Mang Den.",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The Virgin Mary statue among the trees",
+  "notice": {
+    "title": "The buildings are under repair",
+    "body": "Work on the center is still underway. Come for the statue and for Mass."
+  },
+  "body": [
+    "The pilgrimage center stands on Highway 24. You come for the Virgin Mary statue among the trees, and for the church beside it. Father Giuse Phạm Minh Công set the statue here after Christmas 1971. It was damaged in 1974, found again in 1983 without its head and hands, and the center dates from the Mass of 9 December 2007.",
+    "Mass at the shrine is at 05:30. Mass at the church is at 10:00, and on Sunday at 06:00 and 10:00. On the first Saturday the bishop’s Mass at the church is at 10:00. Saturday adoration at the church is at 16:00. The schedule can change, so check that week. The gate, the parking, and the toilets are free.",
+    "Dress quietly. Keep the stop short when Pa Sy or Dak Ke has the morning, and stay longer when you want the Mass. The minutes from the town strip are Check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "mang-den-mang-den-church-2",
+      "caption": "Visitors at the Virgin Mary statue under the wooden pavilion",
+      "alt": "The Virgin Mary statue inside a wooden pavilion, with flowers and visitors at the base"
+    }
+  ],
+  "gettingThere": [
+    "The center is on Highway 24 in Mang Den commune. From the town strip, go by car or motorbike. The minutes are Check on arrival. From Kon Tum it is about 52 km, and also about 50–60 km, a drive of 1 hour 15 minutes to 1 hour 45 minutes. From Pleiku it is about 100 km, and also about 150–180 km by the road through Kon Tum, a drive of 3 to 4 hours on that longer road. Check the road that day."
+  ],
+  "legs": [
+    {
+      "heading": "From Mang Den town",
+      "body": "By car or motorbike on Highway 24. Time: Check on arrival."
+    },
+    {
+      "heading": "From Kon Tum city",
+      "body": "By car or motorbike on Highway 24. About 52 km, and also about 50–60 km. The drive is 1 hour 15 minutes to 1 hour 45 minutes. Check the road that day."
+    },
+    {
+      "heading": "From Pleiku",
+      "body": "About 100 km, and also about 150–180 km by the road through Kon Tum. That longer road is a drive of 3 to 4 hours. Check the road that day."
+    }
+  ],
+  "hours": "Shrine Mass at 05:30. Church Mass at 10:00, and on Sunday at 06:00 and 10:00. On the first Saturday the bishop’s Mass at the church is at 10:00. Saturday adoration at the church is at 16:00. The schedule can change. Gate hours: Check on arrival.",
+  "closed": "Check on arrival",
+  "admissionNote": "The gate, the parking, and the toilets are free.",
+  "links": [
+    {
+      "label": "Pilgrimage center",
+      "url": "https://ducmemangden.org/page.php?slug=gioi-thieu",
+      "note": "The center’s introduction"
+    },
+    {
+      "label": "Mass times",
+      "url": "https://ducmemangden.org/mass.php",
+      "note": "Shrine and church"
+    },
+    {
+      "label": "Directions",
+      "url": "https://ducmemangden.org/page.php?slug=huong-dan-duong-di",
+      "note": "Highway 24, and the two distance counts"
+    }
+  ],
+  "lat": 14.601294,
+  "lng": 108.297851,
+  "interests": [
+    "photography"
+  ]
+}
