@@ -66,17 +66,45 @@
     }
   ],
   "eat": [
-    "Cao lầu is tossed while it is hot. People here call it bánh. White rose dumplings are a small warm plate. Chicken rice is the lunch when you want a plate instead of noodles. Bánh mì is the morning stall in the old town.",
-    "The food hall is inside Chợ Hội An. The night market is on Nguyễn Hoàng, Công nữ Ngọc Hoa, Trần Quý Cáp, and Bạch Đằng. Hours for both are check on arrival."
+    "Cao lầu is tossed while it is hot. People here call it bánh. White rose dumplings are a small warm plate. Chicken rice is the lunch when you want a plate instead of noodles. Bánh mì is the morning stall in the old town. Bánh đập is the Cẩm Nam cracker, often with hến xào. Hoành thánh is the wonton. Nước mót is the herb drink.",
+    "The food hall is inside Chợ Hội An. The night market is on Nguyễn Hoàng, Công nữ Ngọc Hoa, Trần Quý Cáp, and Bạch Đằng. Hours for both are Check on arrival."
   ],
   "dishSlugs": [
     "cao-lau",
     "white-rose",
+    "com-ga",
     "banh-mi",
-    "com-ga"
+    "mi-quang",
+    "banh-xeo",
+    "banh-beo",
+    "pho",
+    "banh-dap",
+    "hen-xao",
+    "banh-uot-thit-nuong",
+    "bun-thit-nuong",
+    "hoanh-thanh",
+    "banh-trang-cuon",
+    "tam-huu",
+    "bun-mam-nem",
+    "banh-canh-hoi-an",
+    "chao-ngheu",
+    "chao-gao-luc",
+    "be-thui",
+    "chan-ga-cay",
+    "oc-xao-bo-toi",
+    "oc-hap-sa-gung",
+    "oc-xao-me",
+    "banh-xoai",
+    "nuoc-mot",
+    "che-bap",
+    "che-dau-xanh",
+    "che-hat-sen",
+    "xi-ma",
+    "banh-dau-xanh",
+    "mam-ca-com"
   ],
   "interestsBody": [
-    "Dining is cao lầu tossed while it is hot, white rose dumplings warm, and chicken rice when you want a plate. Mì Quảng is the neighbor’s bowl. The food guide is the first stop.",
+    "Dining is cao lầu tossed while it is hot, white rose dumplings warm, bánh đập in Cẩm Nam, and chicken rice when you want a plate. Mì Quảng is the neighbor’s bowl. The food guide is the first stop.",
     "The night is the timber streets inside the pedestrian hours, and the covered bridge at the west end. That is the reason to sleep here.",
     "Merchant houses such as Tấn Ký are the inside of the street: a shop at the front and the river at the back. The ground floor is the visit.",
     "The assembly halls are the Hoa merchant halls. Quảng Đông is the dragon court. Phúc Kiến is the long hall on Trần Phú. Chùa Ông is at 24 Trần Phú.",
@@ -90,7 +118,7 @@
   "interestCards": [
     {
       "title": "Dining and F&B",
-      "summary": "Cao lầu tossed while it is hot, white rose dumplings warm, chicken rice when you want a plate.",
+      "summary": "Cao lầu tossed while it is hot, white rose dumplings warm, bánh đập in Cẩm Nam.",
       "photo": "cao-lau",
       "icon": "food",
       "to": "food"
@@ -162,11 +190,11 @@
   "interestGroups": [
     {
       "title": "Dining and F&B",
-      "summary": "Cao lầu tossed while it is hot, white rose dumplings warm, chicken rice when you want a plate.",
+      "summary": "Cao lầu tossed while it is hot, white rose dumplings warm, bánh đập in Cẩm Nam.",
       "cards": [
         {
           "title": "Dining and F&B",
-          "summary": "Cao lầu tossed while it is hot, white rose dumplings warm, chicken rice when you want a plate.",
+          "summary": "Cao lầu tossed while it is hot, white rose dumplings warm, bánh đập in Cẩm Nam.",
           "photo": "cao-lau",
           "icon": "food",
           "to": "food"
