@@ -25,15 +25,15 @@
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:16:26.656Z",
+      "status": "enriched",
+      "note": "Place prose rewritten from the dossier. Hero stays Pa Sy. Lat and lng unset. Kon Pring photo replaced with the village. Food guide left skipped.",
+      "updated": "2026-10-23T06:21:53.857Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:16:26.656Z",
+      "status": "checked",
+      "note": "Read the place against the dossier. Hero is Pa Sy. Both Pa Sy fees are printed. Lat and lng unset. Dots unchanged. Kon Pring frame is the village, not Kon Kotu. Food guide stays skipped.",
+      "updated": "2026-10-23T06:22:15.307Z",
       "reworkCount": 0
     },
     "food": {
@@ -45,13 +45,13 @@
     "foodCopy": {
       "status": "skipped",
       "note": "No food guide.",
-      "updated": "2026-10-21T11:17:09.970Z",
+      "updated": "2026-10-23T06:08:55.579Z",
       "reworkCount": 0
     },
     "foodQuality": {
       "status": "skipped",
       "note": "No food guide.",
-      "updated": "2026-10-21T11:17:09.995Z",
+      "updated": "2026-10-23T06:08:55.579Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -68,8 +68,8 @@
     },
     "researchFood": {
       "status": "stored",
-      "note": "Left out: food street, stall prices, and public food guide until dish photos exist.",
-      "updated": "2026-10-21T11:16:26.365Z",
+      "note": "Left out: food street, stall prices, and a public food guide. Bundled ca-phe is the plateau coffee already in the dossier.",
+      "updated": "2026-10-23T06:08:55.579Z",
       "reworkCount": 0
     },
     "researchNightlife": {
@@ -102,10 +102,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed photograph of this sight. Dossier only.",
-      "updated": "2026-10-21T11:20:54.788Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No public sight file. The place hero is the Pa Sy waterfall frame.",
+      "updated": "2026-10-23T06:23:07.459Z",
       "reworkCount": 0
     },
     {
@@ -118,10 +118,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "From dossier.",
-      "updated": "2026-10-21T11:17:09.715Z",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Read the lake page and both frames. Subject is Dak Ke. Fee stays Check on arrival. Pa Sy prices are named as the other gate.",
+      "updated": "2026-10-23T06:24:28.465Z",
       "reworkCount": 0
     },
     {
@@ -134,10 +134,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed photograph of this sight. Dossier only.",
-      "updated": "2026-10-21T11:20:54.818Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of Dak Ke waterfall. Sight stays in the place text. Page already skipped.",
+      "updated": "2026-10-23T06:24:48.453Z",
       "reworkCount": 0
     },
     {
@@ -150,10 +150,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed photograph of this sight. Dossier only.",
-      "updated": "2026-10-21T11:20:54.847Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of Khanh Lam. The 200 steps stay in the place text. Page already skipped.",
+      "updated": "2026-10-23T06:24:48.582Z",
       "reworkCount": 0
     },
     {
@@ -166,10 +166,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "From dossier.",
-      "updated": "2026-10-21T11:17:09.803Z",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Read the village page and both frames. Subject is Kon Pring. Fee stays Check on arrival. Dots unchanged.",
+      "updated": "2026-10-23T06:26:08.805Z",
       "reworkCount": 0
     },
     {
@@ -182,10 +182,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed photograph of this sight. Dossier only.",
-      "updated": "2026-10-21T11:20:54.873Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of the pass. Named in the place text. Page already skipped.",
+      "updated": "2026-10-23T06:26:08.940Z",
       "reworkCount": 0
     },
     {
@@ -198,10 +198,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed photograph of this sight. Dossier only.",
-      "updated": "2026-10-21T11:20:54.898Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No sight file. The church and statue stay in the place text. Page already skipped.",
+      "updated": "2026-10-23T06:26:09.064Z",
       "reworkCount": 0
     },
     {
@@ -214,10 +214,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed photograph of this sight. Dossier only.",
-      "updated": "2026-10-21T11:20:54.924Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No licensed photo of Toong Dam. Named in the place text. Page already skipped.",
+      "updated": "2026-10-23T06:26:09.189Z",
       "reworkCount": 0
     },
     {
@@ -230,10 +230,26 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "Town hub stays on the place intro. Page already skipped.",
+      "updated": "2026-10-23T06:26:09.315Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "mang-den--dish--ca-phe",
+      "kind": "dish",
+      "track": "bundled",
+      "name": "Vietnamese coffee",
+      "slug": "ca-phe",
+      "file": "src/content/dishes/ca-phe.json",
+      "source": "published",
+      "research": "stored",
+      "page": "shell",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Town hub on place intro only.",
-      "updated": "2026-10-21T11:16:26.656Z",
+      "note": "Arabica coffee already in research/mang-den/food.md from Vietnam Tourism. No food street. Left out of a public food guide.",
+      "updated": "2026-10-23T06:08:55.545Z",
       "reworkCount": 0
     }
   ],
@@ -241,140 +257,164 @@
   "claim": null,
   "log": [
     {
-      "at": "2026-10-21T11:20:54.949Z",
+      "at": "2026-10-23T06:26:09.316Z",
       "place": "mang-den",
-      "stage": "destination",
-      "item": null,
-      "status": "paged",
-      "note": "Two attraction pages with licensed photos: Dak Ke lake and Kon Pring. Other sights dossier-only."
-    },
-    {
-      "at": "2026-10-21T11:17:09.995Z",
-      "place": "mang-den",
-      "stage": "foodQuality",
-      "item": null,
+      "stage": "quality",
+      "item": "mang-den--mang-den-town",
       "status": "skipped",
-      "note": "No food guide."
+      "note": "Town hub stays on the place intro. Page already skipped."
     },
     {
-      "at": "2026-10-21T11:17:09.970Z",
+      "at": "2026-10-23T06:26:09.253Z",
       "place": "mang-den",
-      "stage": "foodCopy",
-      "item": null,
+      "stage": "copy",
+      "item": "mang-den--mang-den-town",
       "status": "skipped",
-      "note": "No food guide."
+      "note": "Town hub stays on the place intro. Page already skipped."
     },
     {
-      "at": "2026-10-21T11:17:09.943Z",
+      "at": "2026-10-23T06:26:09.189Z",
       "place": "mang-den",
-      "stage": "food",
-      "item": null,
+      "stage": "quality",
+      "item": "mang-den--toong-dam-lake",
       "status": "skipped",
-      "note": "No food street and no dish photos for a guide."
+      "note": "No licensed photo of Toong Dam. Named in the place text. Page already skipped."
     },
     {
-      "at": "2026-10-21T11:17:09.918Z",
+      "at": "2026-10-23T06:26:09.126Z",
       "place": "mang-den",
-      "stage": "destination",
-      "item": null,
-      "status": "paged",
-      "note": "Eight attraction stubs, one day itinerary, no food guide. Dam Bri and farms named only on intro."
+      "stage": "copy",
+      "item": "mang-den--toong-dam-lake",
+      "status": "skipped",
+      "note": "No licensed photo of Toong Dam. Named in the place text. Page already skipped."
     },
     {
-      "at": "2026-10-21T11:16:26.656Z",
+      "at": "2026-10-23T06:26:09.064Z",
       "place": "mang-den",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: 2026 festival calendar, Pleiku page, and Kon Tum page."
+      "stage": "quality",
+      "item": "mang-den--mang-den-church",
+      "status": "skipped",
+      "note": "No sight file. The church and statue stay in the place text. Page already skipped."
     },
     {
-      "at": "2026-10-21T11:16:26.577Z",
+      "at": "2026-10-23T06:26:09.002Z",
       "place": "mang-den",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: named breakfast street and cafe row."
+      "stage": "copy",
+      "item": "mang-den--mang-den-church",
+      "status": "skipped",
+      "note": "No sight file. The church and statue stay in the place text. Page already skipped."
     },
     {
-      "at": "2026-10-21T11:16:26.527Z",
+      "at": "2026-10-23T06:26:08.940Z",
       "place": "mang-den",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Ordinary day entries filed."
+      "stage": "quality",
+      "item": "mang-den--mang-den-pass",
+      "status": "skipped",
+      "note": "No licensed photo of the pass. Named in the place text. Page already skipped."
     },
     {
-      "at": "2026-10-21T11:16:26.471Z",
+      "at": "2026-10-23T06:26:08.878Z",
       "place": "mang-den",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: bar names and a night photograph."
+      "stage": "copy",
+      "item": "mang-den--mang-den-pass",
+      "status": "skipped",
+      "note": "No licensed photo of the pass. Named in the place text. Page already skipped."
     },
     {
-      "at": "2026-10-21T11:16:26.419Z",
+      "at": "2026-10-23T06:26:08.805Z",
       "place": "mang-den",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "None recorded section filed."
+      "stage": "quality",
+      "item": "mang-den--kon-pring-village",
+      "status": "checked",
+      "note": "Read the village page and both frames. Subject is Kon Pring. Fee stays Check on arrival. Dots unchanged."
     },
     {
-      "at": "2026-10-21T11:16:26.365Z",
+      "at": "2026-10-23T06:26:08.738Z",
       "place": "mang-den",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: food street, stall prices, and public food guide until dish photos exist."
+      "stage": "copy",
+      "item": "mang-den--kon-pring-village",
+      "status": "enriched",
+      "note": "Finished the village page. Both distances printed. Hours 05:00–21:00. Fee Check on arrival. Hero is Kon Pring, not the Kon Kotu Bahnar house."
     },
     {
-      "at": "2026-10-21T11:16:26.312Z",
+      "at": "2026-10-23T06:24:48.582Z",
       "place": "mang-den",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Dishes listed; no food street."
+      "stage": "quality",
+      "item": "mang-den--khanh-lam-pagoda",
+      "status": "skipped",
+      "note": "No licensed photo of Khanh Lam. The 200 steps stay in the place text. Page already skipped."
     },
     {
-      "at": "2026-10-21T11:16:26.256Z",
+      "at": "2026-10-23T06:24:48.518Z",
       "place": "mang-den",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: Dam Bri, Eban Farm, and unnamed lakes without gate facts."
+      "stage": "copy",
+      "item": "mang-den--khanh-lam-pagoda",
+      "status": "skipped",
+      "note": "No licensed photo of Khanh Lam. The 200 steps stay in the place text. Page already skipped."
     },
     {
-      "at": "2026-10-21T11:16:19.952Z",
+      "at": "2026-10-23T06:24:48.453Z",
       "place": "mang-den",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Events and side trips filed."
+      "stage": "quality",
+      "item": "mang-den--dak-ke-waterfall",
+      "status": "skipped",
+      "note": "No licensed photo of Dak Ke waterfall. Sight stays in the place text. Page already skipped."
     },
     {
-      "at": "2026-10-21T11:16:19.843Z",
+      "at": "2026-10-23T06:24:48.385Z",
       "place": "mang-den",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Sights indexed on board; farm lakes left out."
+      "stage": "copy",
+      "item": "mang-den--dak-ke-waterfall",
+      "status": "skipped",
+      "note": "No licensed photo of Dak Ke waterfall. Sight stays in the place text. Page already skipped."
     },
     {
-      "at": "2026-10-21T11:16:02.186Z",
+      "at": "2026-10-23T06:24:28.465Z",
       "place": "mang-den",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: rail times, taxi fares, and exact pass GPS."
+      "stage": "quality",
+      "item": "mang-den--dak-ke-lake",
+      "status": "checked",
+      "note": "Read the lake page and both frames. Subject is Dak Ke. Fee stays Check on arrival. Pa Sy prices are named as the other gate."
     },
     {
-      "at": "2026-10-21T11:15:54.982Z",
+      "at": "2026-10-23T06:24:28.399Z",
       "place": "mang-den",
-      "stage": "researchBase",
+      "stage": "copy",
+      "item": "mang-den--dak-ke-lake",
+      "status": "enriched",
+      "note": "Finished sight page from the dossier. Fee and hours are Check on arrival. Second frame is blossom over the same lake."
+    },
+    {
+      "at": "2026-10-23T06:23:07.460Z",
+      "place": "mang-den",
+      "stage": "quality",
+      "item": "mang-den--pa-sy-waterfall",
+      "status": "skipped",
+      "note": "No public sight file. The place hero is the Pa Sy waterfall frame."
+    },
+    {
+      "at": "2026-10-23T06:23:07.392Z",
+      "place": "mang-den",
+      "stage": "copy",
+      "item": "mang-den--pa-sy-waterfall",
+      "status": "skipped",
+      "note": "Page already skipped. Pa Sy stays the place hero. No separate sight file."
+    },
+    {
+      "at": "2026-10-23T06:22:15.307Z",
+      "place": "mang-den",
+      "stage": "destinationQuality",
       "item": null,
-      "status": "needs_depth",
-      "note": "Scene and getting there drafted. Drive minutes stay unsourced."
+      "status": "checked",
+      "note": "Read the place against the dossier. Hero is Pa Sy. Both Pa Sy fees are printed. Lat and lng unset. Dots unchanged. Kon Pring frame is the village, not Kon Kotu. Food guide stays skipped."
+    },
+    {
+      "at": "2026-10-23T06:21:53.857Z",
+      "place": "mang-den",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Place prose rewritten from the dossier. Hero stays Pa Sy. Lat and lng unset. Kon Pring photo replaced with the village. Food guide left skipped."
     }
   ]
 }
