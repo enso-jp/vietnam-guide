@@ -5,10 +5,10 @@
   "summary": "Ha Long eats squid cake on the boats and at Tết, then a morning bowl of bún bề bề or bún cù kỳ. Sữa chua trân châu and bánh trôi tàu are the sweets. Rượu ngán is the drink with the seafood. Sá sùng is Quan Lạn. Bánh gật gù is Tiên Yên.",
   "heroSlug": "cha-muc-ha-long",
   "body": [
-    "Eat Hạ Long for chả mực. Chuyên trang du lịch Quảng Ninh puts the squid cake on the cruise boats, at provincial banquets, and on the Tết table, and names xôi chả mực and bún cù kỳ Hạ Long beside it. Báo Quảng Ninh, 13 Mar 2019, describes bún bề bề, the cù kỳ bowl, and the afternoon blood-and-balut. VnExpress, 16 Mar 2021, adds bánh cuốn chả mực, cháo trai, the seafood noodles, sam, ốc xào dừa, and the two sweets. Báo Quảng Ninh, 9 Jul 2015, is the home-style seafood meal: grilled and boiled shellfish, three sour soups, and rượu ngán.",
-    "The seafood market under Núi Bài Thơ runs from 4:30 and is done before 7:00, on Báo Quảng Ninh, 6 May 2020. Friday and Saturday, phố đi bộ Bài Thơ runs 18:00–24:00. Công luận also says holidays and Tết. A current stall price was not printed. Check on arrival. Chuyên trang du lịch Quảng Ninh places sá sùng at Quan Lạn and Vân Đồn, mực một nắng at Cô Tô, and ruốc at Quảng Yên. Báo Quảng Ninh, 6 May 2020, still lists mực một nắng and ruốc tôm among gifts at chợ Hạ Long 1 and 2. Both stay. VnExpress places bánh gật gù at Tiên Yên, and the English edition of Báo Quảng Ninh says the same. It is not a Hạ Long plate."
+    "Eat Hạ Long for chả mực. The squid cake is on the cruise boats, at provincial banquets, and on the Tết table, with xôi chả mực and bún cù kỳ beside it. Morning is bún bề bề, bánh cuốn chả mực, cháo trai, and the seafood noodles, then sam and ốc xào dừa. Sữa chua trân châu and bánh trôi tàu are the sweets. A home-style seafood meal is grilled and boiled shellfish, three sour soups, and rượu ngán.",
+    "The seafood market under Núi Bài Thơ runs from 4:30 and is done before 7:00. Friday and Saturday, phố đi bộ Bài Thơ runs 18:00–24:00, and Công luận also counts holidays and Tết. Sá sùng belongs to Quan Lạn and Vân Đồn. Mực một nắng is Cô Tô on the provincial list, and it is also a gift at chợ Hạ Long 1 and 2. Ruốc is Quảng Yên on that list, and ruốc tôm is sold at those same markets. Bánh gật gù is Tiên Yên."
   ],
-  "specialtiesLead": "Thirty-two plates are named for Hạ Long. The photograph is the fried squid cakes. A current stall price on every line is Check on arrival.",
+  "specialtiesLead": "Chả mực comes first, then the rice with the cake, the morning noodles, the home-style seafood, the sweets, and rượu ngán.",
   "dishSlugs": [
     "cha-muc-ha-long"
   ],
@@ -52,8 +52,8 @@
         "Ổi Hoành Bồ"
       ],
       "paragraphs": [
-        "Chả mực is the plate with a photograph. The other names follow: the rice with the cake, the morning noodles, the home-style seafood from Báo Quảng Ninh, 9 Jul 2015, then the sweets and rượu ngán.",
-        "Prices printed in 2019, 2020, and 2021 stay with the year and the publisher. A current stall price was not printed. Check on arrival. Where two prices were printed, both stay."
+        "The plates are the squid cake, the rice with it, the morning noodles, and the home-style seafood, then the sweets and rượu ngán.",
+        "Prices from 2019, 2020, and 2021 stay with the year and the publisher. Where two prices were printed, both stay."
       ],
       "dishSlugs": [
         "xoi-cha-muc",
@@ -95,38 +95,48 @@
       "role": "international",
       "nav": "International",
       "paragraphs": [
-        "The operator guide for Sun World Hạ Long, at Số 9 đường Hạ Long in phường Bãi Cháy, names a sushi counter and two grill lines on a buffet. No room photograph was used here. A price for the sushi, the cocktail, or those grill lines was not printed. Check on arrival."
+        "Sun World Hạ Long, at Số 9 đường Hạ Long in phường Bãi Cháy, has a sushi counter and two grill lines on a buffet."
       ],
       "spots": [
         {
           "name": "Sushi Bar",
           "nameVi": "Sushi Bar",
           "address": "Sun World Hạ Long, Số 9 đường Hạ Long, phường Bãi Cháy",
-          "note": "The operator says you can have sushi and a cocktail, with a band, and a view of the bay from above. A price was not printed. Check on arrival."
+          "note": "Sushi and a cocktail, with a band, and a view of the bay from above.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Sushi",
           "nameVi": "Sushi",
           "address": "Sushi Bar, Sun World Hạ Long",
-          "note": "Named at Sushi Bar. The operator calls it sushi. A price was not printed. Check on arrival."
+          "note": "Sushi at the Sushi Bar, with a view of the bay.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Cocktail",
           "nameVi": "Cocktail",
           "address": "Sushi Bar, Sun World Hạ Long",
-          "note": "Named with the sushi at Sushi Bar. A recipe and a price were not printed. Check on arrival."
+          "note": "A cocktail with the sushi at Sushi Bar.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Korean-style grilled chicken",
           "nameVi": "Gà nướng kiểu Hàn Quốc",
           "address": "The Dragon Food Temple, Dragon Park, Sun World Hạ Long",
-          "note": "Named on the hot line of the Dragon Park buffet. A price for the line was not printed. Check on arrival."
+          "note": "On the hot line of the Dragon Park buffet.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "BBQ beef",
           "nameVi": "Thịt bò nướng BBQ",
           "address": "The Dragon Food Temple, Dragon Park, Sun World Hạ Long",
-          "note": "Named on the same hot line as the Korean-style chicken. A price was not printed. Check on arrival."
+          "note": "On the same hot line as the Korean-style chicken.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         }
       ]
     },
@@ -136,93 +146,121 @@
       "role": "casual",
       "nav": "Casual",
       "paragraphs": [
-        "The casual doors are streets and counters, not a ranked shop list. Phố đi bộ Bài Thơ runs 18:00–24:00 on Friday and Saturday. Công luận also says holidays and Tết. Dân trí does not. Both stay. The 2023 reports say phường Bạch Đằng. The 2025 resolution puts Bạch Đằng in phường Hồng Gai. On the Bãi Cháy side, Chuyên trang du lịch Quảng Ninh groups phố đi bộ Bãi Cháy, chợ đêm Hạ Long, and Sun Carnival Plaza after dark, and prints no hour.",
-        "The fast-food counter is inside Sun World, not on those streets. A stall price was not printed. Check on arrival. Báo Quảng Ninh, 6 May 2020, adds the seafood market under Núi Bài Thơ, open from 4:30 and done before 7:00, and places chợ Hạ Long 2 on đường Lê Lợi. Cổng thông tin Quảng Ninh adds VuiFest in phường Bãi Cháy. An open hour for VuiFest was not printed. Check on arrival."
+        "Phố đi bộ Bài Thơ runs 18:00–24:00 on Friday and Saturday. Công luận also counts holidays and Tết. Dân trí prints Friday and Saturday. The 2023 reports say phường Bạch Đằng. From 2025 that ward is inside phường Hồng Gai. After dark on the Bãi Cháy side, phố đi bộ Bãi Cháy, chợ đêm Hạ Long, and Sun Carnival Plaza sit together.",
+        "The fast-food counter is inside Sun World. The seafood market under Núi Bài Thơ runs from 4:30 and is done before 7:00. Chợ Hạ Long 2 is on đường Lê Lợi. VuiFest is in phường Bãi Cháy."
       ],
       "spots": [
         {
           "name": "Bai Tho walking street",
           "nameVi": "Phố đi bộ Bài Thơ",
           "address": "Long Tiên and Lê Quý Đôn. 2023 reports say phường Bạch Đằng. From 2025 that ward is inside phường Hồng Gai.",
-          "note": "Seafood and street food. About 50 stalls at the opening, including OCOP, on the Dân trí report. Công luận adds OCOP. Nearly 400 m, 17 tổ, more than 500 households on Công luận. Dân trí does not print the length. 18:00–24:00 Friday and Saturday. Công luận also says holidays and Tết. A stall price was not printed. Check on arrival."
+          "note": "Seafood and street food. About 50 stalls at the opening, including OCOP, on the Dân trí report. Công luận adds OCOP, nearly 400 m, 17 tổ, and more than 500 households. 18:00–24:00 Friday and Saturday. Công luận also counts holidays and Tết.",
+          "hour": "18:00–24:00 Friday and Saturday. Công luận also counts holidays and Tết.",
+          "price": "Check on arrival"
         },
         {
           "name": "Ha Long 1 market",
           "nameVi": "Chợ Hạ Long 1",
           "address": "On phố đi bộ Bài Thơ",
-          "note": "The opening reports put this market on the walking street, for seafood and shopping. OCOP stalls are named on the same street, with no shop name. A stall list was not printed. A daytime hour was not printed. Check on arrival. Báo Quảng Ninh, 6 May 2020, places this market on đường Bạch Đằng."
+          "note": "On the walking street, for seafood and shopping, with OCOP stalls. Báo Quảng Ninh, 6 May 2020, places this market on đường Bạch Đằng.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Bai Chay walking street",
           "nameVi": "Phố đi bộ Bãi Cháy",
           "address": "Bãi Cháy",
-          "note": "Named with the night market as the Bãi Cháy evening eat-and-walk. A length and a street list were not printed. After dark. An hour was not printed. Check on arrival."
+          "note": "The Bãi Cháy evening eat-and-walk, with the night market, after dark.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Ha Long night market",
           "nameVi": "Chợ đêm Hạ Long",
           "address": "Bãi Cháy",
-          "note": "Grouped with phố đi bộ Bãi Cháy and Sun Carnival Plaza: eat, shop, and watch a show after dark. No street number. An open hour was not printed. Check on arrival."
+          "note": "Eat, shop, and watch a show after dark, with phố đi bộ Bãi Cháy and Sun Carnival Plaza.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Sun Carnival Plaza",
           "nameVi": "Quảng trường Sun Carnival Plaza",
           "address": "Bãi Cháy",
-          "note": "Named with the Bãi Cháy night streets. Liên hoan Ẩm thực Quảng Ninh 2025 ran here from 30 Oct to 2 Nov 2025, with nearly 200 stalls and about 30,000–50,000 visits. That fair is a dated event, not a standing door. The night hour of the square was not printed. Check on arrival."
+          "note": "With the Bãi Cháy night streets. Liên hoan Ẩm thực Quảng Ninh 2025 ran here from 30 Oct to 2 Nov 2025, with nearly 200 stalls and about 30,000–50,000 visits.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Quang Ninh food fair 2025",
           "nameVi": "Liên hoan Ẩm thực Quảng Ninh 2025",
           "address": "Quảng trường Sun Carnival Plaza, Bãi Cháy",
-          "note": "30 Oct–2 Nov 2025. Nearly 200 stalls of food, specialties, and OCOP. About 30,000–50,000 visits. A ticket price was not printed. The next date is Check on arrival."
+          "note": "30 Oct–2 Nov 2025. Nearly 200 stalls of food, specialties, and OCOP. About 30,000–50,000 visits.",
+          "hour": "30 Oct–2 Nov 2025",
+          "price": "Check on arrival"
         },
         {
           "name": "Fast-food counter",
           "nameVi": "Quầy đồ ăn nhanh",
           "address": "Sun World Hạ Long, Số 9 đường Hạ Long, phường Bãi Cháy",
-          "note": "The operator names bánh mì, bánh bao, xúc xích, kem, and drinks at this counter. A price was not printed. Check on arrival."
+          "note": "Bánh mì, bánh bao, xúc xích, kem, and drinks.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Banh mi",
           "nameVi": "Bánh mì",
           "address": "Quầy đồ ăn nhanh, Sun World Hạ Long",
-          "note": "Named at the fast-food counter. A price was not printed. Check on arrival."
+          "note": "At the fast-food counter.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Steamed bun",
           "nameVi": "Bánh bao",
           "address": "Quầy đồ ăn nhanh, Sun World Hạ Long",
-          "note": "Named at the fast-food counter. A price was not printed. Check on arrival."
+          "note": "At the fast-food counter.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Sausage",
           "nameVi": "Xúc xích",
           "address": "Quầy đồ ăn nhanh, Sun World Hạ Long",
-          "note": "Named at the fast-food counter, with kem. A price was not printed. Check on arrival."
+          "note": "At the fast-food counter, with kem.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Avocado ice cream",
           "nameVi": "Kem bơ",
           "address": "Quầy đồ ăn nhanh, Sun World Hạ Long",
-          "note": "The operator labels the counter photograph món kem bơ. A price was not printed. Check on arrival."
+          "note": "Kem bơ at the fast-food counter.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Seafood market under Núi Bài Thơ",
           "nameVi": "Chợ hải sản dưới chân núi Bài Thơ",
           "address": "Under Núi Bài Thơ",
-          "note": "Báo Quảng Ninh, 6 May 2020, calls this the city’s main live-seafood market. It runs from 4:30 and is done before 7:00. The article names tôm, mực, bề bề, sò huyết, and cá song, packed on ice to take home. A price was not printed. Check on arrival."
+          "note": "The city’s main live-seafood market. It runs from 4:30 and is done before 7:00. Tôm, mực, bề bề, sò huyết, and cá song, packed on ice to take home.",
+          "hour": "From 4:30, done before 7:00",
+          "price": "Check on arrival"
         },
         {
           "name": "Ha Long 2 market",
           "nameVi": "Chợ Hạ Long 2",
           "address": "Đường Lê Lợi",
-          "note": "Báo Quảng Ninh, 6 May 2020, places it about 1 km from chợ Hạ Long 1 on đường Bạch Đằng. Gifts named there are fresh chả mực pounded at the shops, ruốc tôm, mực một nắng, and mực rim me. Chuyên trang du lịch Quảng Ninh places mực một nắng at Cô Tô and ruốc at Quảng Yên. Both stay. A daytime hour was not printed. Check on arrival."
+          "note": "About 1 km from chợ Hạ Long 1 on đường Bạch Đằng. Gifts here are fresh chả mực pounded at the shops, ruốc tôm, mực một nắng, and mực rim me. The provincial list places mực một nắng at Cô Tô and ruốc at Quảng Yên.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "VuiFest Ha Long",
           "nameVi": "VuiFest Hạ Long",
           "address": "Phường Bãi Cháy",
-          "note": "Cổng thông tin Quảng Ninh says this night-market street opened in early July, without a year in the lines read here, with nearly 100 tents and 40 stalls. It names bánh cuốn chả mực, fresh seafood, and sữa chua trân châu. An open hour was not printed. Check on arrival."
+          "note": "A night-market street in phường Bãi Cháy that opened in early July, with nearly 100 tents and 40 stalls. Bánh cuốn chả mực, fresh seafood, and sữa chua trân châu.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         }
       ]
     },
@@ -232,14 +270,16 @@
       "role": "fine",
       "nav": "Fine",
       "paragraphs": [
-        "One room on the operator guide is described as sang trọng. That is the operator’s word for the service. A menu and a price were not printed. Check on arrival."
+        "Taiyo is the room called sang trọng, with a view of the bay and Cầu Bãi Cháy."
       ],
       "spots": [
         {
           "name": "Taiyo",
           "nameVi": "Taiyo",
           "address": "Sun World Hạ Long, Số 9 đường Hạ Long, phường Bãi Cháy",
-          "note": "The operator says the service is sang trọng and professional, with a view of the bay and Cầu Bãi Cháy. A price was not printed. Check on arrival."
+          "note": "Service called sang trọng and professional, with a view of the bay and Cầu Bãi Cháy.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         }
       ]
     },
@@ -249,63 +289,81 @@
       "role": "themed",
       "nav": "Themed",
       "paragraphs": [
-        "Themed eating on the opened pages is the Dragon Park buffet, the set meals tied to the cable car and the fireworks, the 2024 beer-and-squid-cake festival, and the squid cake on the cruise boats. No boat brand is a pick. A buffet price, apart from the cable-car combos below, was not printed.",
-        "The combos are tickets, not a stall price. Queen cable car plus the food set is 450,000 đồng for an adult and 350,000 for a child. Queen cable car plus the VUI-Fest set is 650,000 and 550,000. Queen cable car plus the Bavaria set is 750,000 and 650,000. The basic cable table defines a child as 1 m–1.4 m. These combo lines say trẻ em and do not repeat the height."
+        "The Dragon Park buffet, the set meals with the cable car and the fireworks, the 2024 beer-and-squid-cake festival, and the squid cake on the cruise boats.",
+        "The combos are tickets. Queen cable car plus the food set is 450,000 đồng for an adult and 350,000 for a child. Queen cable car plus the VUI-Fest set is 650,000 and 550,000. Queen cable car plus the Bavaria set is 750,000 and 650,000. The basic cable table defines a child as 1 m–1.4 m. These combo lines say trẻ em."
       ],
       "spots": [
         {
           "name": "The Dragon Food Temple",
           "nameVi": "The Dragon Food Temple",
           "address": "Dragon Park, Sun World Hạ Long",
-          "note": "In Dragon Park. Up to 400 seats. Service is gọi theo suất, gọi món, or a weekend lunch buffet. A price for the room was not printed. Check on arrival."
+          "note": "In Dragon Park. Up to 400 seats. Service is gọi theo suất, gọi món, or a weekend lunch buffet.",
+          "hour": "Weekend lunch for the buffet. Gọi theo suất and gọi món at other times.",
+          "price": "Check on arrival"
         },
         {
           "name": "Dragon buffet",
           "nameVi": "Buffet Rồng",
           "address": "The Dragon Food Temple, Dragon Park",
-          "note": "The operator says the buffet is near 80 dishes, from a starter through a main to a dessert, at weekend lunch. A price for the buffet itself was not printed. Check on arrival."
+          "note": "Near 80 dishes, from a starter through a main to a dessert, at weekend lunch.",
+          "hour": "Weekend lunch",
+          "price": "Check on arrival"
         },
         {
           "name": "Mock dog trotter",
           "nameVi": "Chân giò giả cầy",
           "address": "The Dragon Food Temple buffet line",
-          "note": "Named on the hot line with the grilled chicken, the BBQ beef, and the jackfruit-seed snail. A price was not printed. Check on arrival."
+          "note": "On the hot line with the grilled chicken, the BBQ beef, and the jackfruit-seed snail.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Jackfruit-seed snail with sesame",
           "nameVi": "Ốc mít nấu mè",
           "address": "The Dragon Food Temple buffet line",
-          "note": "Named on the same hot line. A price was not printed. Check on arrival."
+          "note": "On the same hot line as the grilled chicken and the BBQ beef.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Sun Bavaria Ha Long",
           "nameVi": "Sun Bavaria Ha Long",
           "address": "Sun World Hạ Long",
-          "note": "The operator ties this to a set meal and an evening fireworks show on the bay shore. Queen cable car plus the Bavaria set is 750,000 đồng for an adult and 650,000 for a child."
+          "note": "A set meal and an evening fireworks show on the bay shore. Queen cable car plus the Bavaria set is 750,000 đồng for an adult and 650,000 for a child.",
+          "hour": "Evening, with the fireworks",
+          "price": "750,000 đồng adult, 650,000 đồng child, with the Queen cable car"
         },
         {
           "name": "VUI-Fest set",
           "nameVi": "Set ăn VUI-Fest Ha Long",
           "address": "Sun World Hạ Long",
-          "note": "Queen cable car plus this set is 650,000 đồng for an adult and 550,000 for a child. The combo line does not repeat the 1 m–1.4 m child height from the basic ticket table."
+          "note": "Queen cable car plus this set is 650,000 đồng for an adult and 550,000 for a child. The combo line says trẻ em. The basic cable table defines a child as 1 m–1.4 m.",
+          "hour": "Check on arrival",
+          "price": "650,000 đồng adult, 550,000 đồng child, with the Queen cable car"
         },
         {
           "name": "Bavaria set",
           "nameVi": "Set ăn Bavaria",
           "address": "Sun Bavaria Ha Long",
-          "note": "Queen cable car plus this set is 750,000 đồng for an adult and 650,000 for a child."
+          "note": "Queen cable car plus this set is 750,000 đồng for an adult and 650,000 for a child.",
+          "hour": "Check on arrival",
+          "price": "750,000 đồng adult, 650,000 đồng child, with the Queen cable car"
         },
         {
           "name": "Queen cable car and a meal",
           "nameVi": "Combo Cáp treo Nữ Hoàng + Ẩm thực",
           "address": "Sun World Hạ Long",
-          "note": "450,000 đồng for an adult and 350,000 for a child. The operator describes the cable car, the view from đồi Ba Đèo, and a meal inside Sun World. This is not the basic cable fare."
+          "note": "450,000 đồng for an adult and 350,000 for a child. The cable car, the view from đồi Ba Đèo, and a meal inside Sun World. This is not the basic cable fare.",
+          "hour": "Check on arrival",
+          "price": "450,000 đồng adult, 350,000 đồng child"
         },
         {
           "name": "Beer and squid-cake festival 2024",
           "nameVi": "Lễ hội bia và chả mực",
           "address": "Công viên Đại Dương, phường Bãi Cháy",
-          "note": "The first time, over the 30 Apr–1 May 2024 holiday. Visitors were seated, looked at a record squid cake, and were served chả mực and beer free. Do not extend the free line to another year. The next date is Check on arrival. The cruise boats also serve chả mực. No boat brand is named."
+          "note": "The first time, over the 30 Apr–1 May 2024 holiday, at Công viên Đại Dương. Visitors sat, looked at a record squid cake, and were served chả mực and beer free. That free service was 2024. The cruise boats also serve chả mực.",
+          "hour": "30 Apr–1 May 2024",
+          "price": "Free, 30 Apr–1 May 2024"
         }
       ]
     },
@@ -315,7 +373,7 @@
       "role": "breakfast",
       "nav": "Breakfast",
       "paragraphs": [
-        "Bún bề bề, bún cù kỳ, bánh cuốn chả mực, cháo trai, and bún hải sản are morning plates. Phở is the other breakfast Báo Quảng Ninh, 13 Mar 2019, names in the city center and at Bãi Cháy. Cổng thông tin Quảng Ninh quotes a visitor who adds phở tôm to a morning list with bún, bề bề, and cù kỳ. A broth for that bowl was not printed."
+        "Bún bề bề, bún cù kỳ, bánh cuốn chả mực, cháo trai, and bún hải sản are morning plates. Phở is the other breakfast in the city center and at Bãi Cháy. Phở tôm is on a morning list with bún, bề bề, and cù kỳ."
       ],
       "spots": [
         {
@@ -323,19 +381,23 @@
           "nameVi": "Phở",
           "address": "The center of Hạ Long, and Bãi Cháy",
           "dishSlug": "pho",
-          "note": "Báo Quảng Ninh, 13 Mar 2019, calls it a common breakfast and names a shop on Trần Hưng Đạo. A garnish was not printed. That article printed about 50,000 đồng a bowl. A current price is Check on arrival."
+          "note": "A common breakfast in the center of Hạ Long and at Bãi Cháy, including a shop on Trần Hưng Đạo. In March 2019 a bowl was about 50,000 đồng.",
+          "hour": "Breakfast",
+          "price": "Check on arrival"
         },
         {
           "name": "Shrimp pho",
           "nameVi": "Phở tôm",
           "address": "Hạ Long, morning, no street printed",
           "dishSlug": "pho-tom-ha-long",
-          "note": "A visitor quoted by Cổng thông tin Quảng Ninh lists phở tôm with bún, bề bề, and cù kỳ. A broth and a price were not printed. Check on arrival."
+          "note": "A morning bowl listed with bún, bề bề, and cù kỳ.",
+          "hour": "Morning",
+          "price": "Check on arrival"
         }
       ]
     }
   ],
   "verified": "23 Oct 2026",
   "seoTitle": "Ha Long food — squid cake, morning noodles, and rượu ngán",
-  "seoDescription": "Eat chả mực hot with rice sheets or rice, then bún bề bề or bún cù kỳ. Sữa chua trân châu and bánh trôi tàu are the sweets. A current stall price is Check on arrival."
+  "seoDescription": "Eat chả mực hot with rice sheets or rice, then bún bề bề or bún cù kỳ. Sữa chua trân châu and bánh trôi tàu are the sweets. Rượu ngán goes with the seafood."
 }

@@ -26,14 +26,14 @@
     },
     "destinationCopy": {
       "status": "enriched",
-      "note": "Da Lat line now says a cooler hill station, matching the dossier. Hero kept. lat and lng unset.",
-      "updated": "2026-10-23T06:16:41.957Z",
+      "note": "Traveler-voice rewrite from the stored dossier. Source names kept only where Pleiku distances disagree. Unknown fees and hours sit in fields as Check on arrival. New church hero (Bùi Thụy Đào Nguyên, CC BY-SA 4.0); Dining card now uses kon-tum--pho-kho. lat and lng unset.",
+      "updated": "2026-10-23T13:35:44.868Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "checked",
-      "note": "Place prose, hero, season, fees, and interest groups match the dossier. Sight shells are the next units. Culture week stays off the event cards.",
-      "updated": "2026-10-23T06:16:50.457Z",
+      "status": "stale",
+      "note": "Copy reopened. Check again after the copy pass.",
+      "updated": "2026-10-23T13:30:51.485Z",
       "reworkCount": 1
     },
     "food": {
@@ -103,9 +103,9 @@
       "research": "stored",
       "page": "paged",
       "copy": "enriched",
-      "quality": "checked",
-      "note": "Facade and interior are both the wooden church. Fee, Mass times, and the missing gate clock are printed. Dot stays 5.",
-      "updated": "2026-10-23T06:21:50.942Z",
+      "quality": "not_started",
+      "note": "Traveler-voice summary, notice, body, and legs (central Kon Tum, Pleiku Airport). Fee Free. Visitor hours outside Mass and closed day are Check on arrival. Dot stays 5.",
+      "updated": "2026-10-23T13:35:55.079Z",
       "reworkCount": 0
     },
     {
@@ -151,9 +151,9 @@
       "research": "stored",
       "page": "paged",
       "copy": "enriched",
-      "quality": "checked",
-      "note": "Hero is the prison courtyard. Fee disagreement is printed. Hours are Check on arrival. No second frame, so no body.",
-      "updated": "2026-10-23T06:23:27.704Z",
+      "quality": "not_started",
+      "note": "Traveler-voice summary and legs. Fee 30,000 VND. Hours, closed, and child price are Check on arrival. Still no second licensed frame, so no body. Dot stays 3.",
+      "updated": "2026-10-23T13:35:55.113Z",
       "reworkCount": 0
     },
     {
@@ -385,6 +385,78 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-23T13:35:55.113Z",
+      "place": "kon-tum",
+      "stage": "copy",
+      "item": "kon-tum--kon-tum-prison",
+      "status": "enriched",
+      "note": "Traveler-voice summary and legs. Fee 30,000 VND. Hours, closed, and child price are Check on arrival. Still no second licensed frame, so no body. Dot stays 3."
+    },
+    {
+      "at": "2026-10-23T13:35:55.079Z",
+      "place": "kon-tum",
+      "stage": "copy",
+      "item": "kon-tum--wooden-church",
+      "status": "enriched",
+      "note": "Traveler-voice summary, notice, body, and legs (central Kon Tum, Pleiku Airport). Fee Free. Visitor hours outside Mass and closed day are Check on arrival. Dot stays 5."
+    },
+    {
+      "at": "2026-10-23T13:35:44.868Z",
+      "place": "kon-tum",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Traveler-voice rewrite from the stored dossier. Source names kept only where Pleiku distances disagree. Unknown fees and hours sit in fields as Check on arrival. New church hero (Bùi Thụy Đào Nguyên, CC BY-SA 4.0); Dining card now uses kon-tum--pho-kho. lat and lng unset."
+    },
+    {
+      "at": "2026-10-23T13:30:51.635Z",
+      "place": "kon-tum",
+      "stage": "quality",
+      "item": "kon-tum--kon-tum-prison",
+      "status": "not_started",
+      "note": "Copy reopened. Check again after the copy pass."
+    },
+    {
+      "at": "2026-10-23T13:30:51.599Z",
+      "place": "kon-tum",
+      "stage": "copy",
+      "item": "kon-tum--kon-tum-prison",
+      "status": "stale",
+      "note": "Owner asked for a traveler-voice pass: prose narrates sources, Check on arrival sits in sentences, and the hero and Dining card reuse the church card file."
+    },
+    {
+      "at": "2026-10-23T13:30:51.563Z",
+      "place": "kon-tum",
+      "stage": "quality",
+      "item": "kon-tum--wooden-church",
+      "status": "not_started",
+      "note": "Copy reopened. Check again after the copy pass."
+    },
+    {
+      "at": "2026-10-23T13:30:51.524Z",
+      "place": "kon-tum",
+      "stage": "copy",
+      "item": "kon-tum--wooden-church",
+      "status": "stale",
+      "note": "Owner asked for a traveler-voice pass: prose narrates sources, Check on arrival sits in sentences, and the hero and Dining card reuse the church card file."
+    },
+    {
+      "at": "2026-10-23T13:30:51.485Z",
+      "place": "kon-tum",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "stale",
+      "note": "Copy reopened. Check again after the copy pass."
+    },
+    {
+      "at": "2026-10-23T13:30:51.448Z",
+      "place": "kon-tum",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "stale",
+      "note": "Owner asked for a traveler-voice pass: prose narrates sources, Check on arrival sits in sentences, and the hero and Dining card reuse the church card file."
+    },
+    {
       "at": "2026-10-23T06:23:53.115Z",
       "place": "kon-tum",
       "stage": "quality",
@@ -471,78 +543,6 @@
       "item": "kon-tum--riverfront-evening",
       "status": "skipped",
       "note": "No licensed evening photo. Leave the page unpublished."
-    },
-    {
-      "at": "2026-10-23T06:23:52.414Z",
-      "place": "kon-tum",
-      "stage": "page",
-      "item": "kon-tum--riverfront-evening",
-      "status": "skipped",
-      "note": "No licensed evening photo. Leave the page unpublished."
-    },
-    {
-      "at": "2026-10-23T06:23:52.350Z",
-      "place": "kon-tum",
-      "stage": "quality",
-      "item": "kon-tum--goi-la-kon-tum",
-      "status": "skipped",
-      "note": "Food stages stay skipped. No food guide and no dish photo."
-    },
-    {
-      "at": "2026-10-23T06:23:52.285Z",
-      "place": "kon-tum",
-      "stage": "copy",
-      "item": "kon-tum--goi-la-kon-tum",
-      "status": "skipped",
-      "note": "Food stages stay skipped. No food guide and no dish photo."
-    },
-    {
-      "at": "2026-10-23T06:23:52.225Z",
-      "place": "kon-tum",
-      "stage": "page",
-      "item": "kon-tum--goi-la-kon-tum",
-      "status": "skipped",
-      "note": "Food stages stay skipped. No food guide and no dish photo."
-    },
-    {
-      "at": "2026-10-23T06:23:52.161Z",
-      "place": "kon-tum",
-      "stage": "quality",
-      "item": "kon-tum--pho-kho-kon-tum",
-      "status": "skipped",
-      "note": "Food stages stay skipped. No food guide and no dish photo."
-    },
-    {
-      "at": "2026-10-23T06:23:52.096Z",
-      "place": "kon-tum",
-      "stage": "copy",
-      "item": "kon-tum--pho-kho-kon-tum",
-      "status": "skipped",
-      "note": "Food stages stay skipped. No food guide and no dish photo."
-    },
-    {
-      "at": "2026-10-23T06:23:52.033Z",
-      "place": "kon-tum",
-      "stage": "page",
-      "item": "kon-tum--pho-kho-kon-tum",
-      "status": "skipped",
-      "note": "Food stages stay skipped. No food guide and no dish photo."
-    },
-    {
-      "at": "2026-10-23T06:23:51.965Z",
-      "place": "kon-tum",
-      "stage": "quality",
-      "item": "kon-tum--tran-cao-van",
-      "status": "skipped",
-      "note": "Food stages stay skipped. No food guide and no dish photo."
-    },
-    {
-      "at": "2026-10-23T06:23:51.899Z",
-      "place": "kon-tum",
-      "stage": "copy",
-      "item": "kon-tum--tran-cao-van",
-      "status": "skipped",
-      "note": "Food stages stay skipped. No food guide and no dish photo."
     }
   ]
 }

@@ -2,14 +2,16 @@
   "slug": "phong-nha--bot-nhuc",
   "name": "Bot nhuc",
   "nameVi": "Bột nhúc",
-  "summary": "Bột nhúc is a characteristic food beside cơm pồi in Phong Nha-Ke Bang National Park’s 31 December 2025 article on ethnic culture. The park’s culture note lists it among earlier staples, not among the three dishes it singles out.",
-  "origin": "Chứt communities in the Phong Nha-Ke Bang buffer, in the park’s 31 December 2025 ethnic-culture article.",
+  "summary": "Bột nhúc is an old Chứt staple and, with cơm pồi, one of the characteristic foods of the villages around the park.",
+  "origin": "Chứt villages in the Phong Nha-Ke Bang buffer.",
+  "culture": [
+    "It sits with bột báng, củ nâu, and củ mài among the older Chứt staples."
+  ],
   "howToEat": [
-    "The 31 December 2025 article names it and does not describe a method.",
-    "The culture note lists bột nhúc with bột báng, củ nâu, and củ mài as earlier food sources, then names cơm pồi, ốc lèn, and rượu đoác as the dishes. A method, an hour, and a price are Check on arrival."
+    "Ask in the Chứt villages of the buffer whether a family is making it."
   ],
   "where": [
-    "Chứt communities in the buffer. A shop address is Check on arrival."
+    "Chứt villages in the buffer."
   ],
   "priceBand": "Check on arrival",
   "placeSlugs": [
@@ -17,5 +19,5 @@
   ],
   "verified": "23 Oct 2026",
   "seoTitle": "Bot nhuc — a Chut staple at Phong Nha",
-  "seoDescription": "The park’s 31 December 2025 article names bột nhúc beside cơm pồi and does not describe a method. A price is Check on arrival."
+  "seoDescription": "Bột nhúc is an old Chứt staple and, with cơm pồi, a characteristic food of the villages around Phong Nha-Ke Bang."
 }
