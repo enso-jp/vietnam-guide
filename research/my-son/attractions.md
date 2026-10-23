@@ -92,6 +92,18 @@ The visit is one ticket and one valley. The lettered groups are parts of that wa
 
 Districts that deserve their own page: none. The valley is the place. The lettered groups are one walk.
 
+### Phase 1 attractions pass, 23 Oct 2026
+
+Public sights stay three: `towers`, `museum`, `performances`. Left out as their own pages, again: lettered groups A through N (one walk, one ticket), the sacred path (not an open trail), and the green bicycle, pottery, hat-weaving, audio guide, and virtual reality (no separate gate, no price on S17).
+
+No boat landing is its own visit. Cars stop at the museum. The electric cart is the way into the towers (S8, S11).
+
+The ticket homepage, opened 23 Oct 2026, markets tower K and a path and says there is no road in, so visitors do not go. That confirms the sacred-path exclusion. It also names a Cham pottery demonstration and Đêm Mỹ Sơn huyền thoại, still without a night to attend. The same homepage says the site is about 69 km from the Da Nang city center. The management homepage distance remains 68 km (S2). Both stay here. The public leg keeps 68 km.
+
+Gap: three real sights with licensed photos. A fourth and a fifth were not published.
+
+Ticket information page, re-read 23 Oct 2026 (https://mysonticketonline.vn/information): foreign adult 150,000 VND, Vietnamese adult 100,000 VND, service ticket 30,000 VND, prices include VAT, purchase page is the figure that can change. Ticket sales 06:00–17:30. Visiting 06:00–18:00. Hall, group G, Echoes on the 15th at B, C, and D, and folk singing at the group H slope match the clock already stored. Children 5 to 15 buy the shuttle service ticket. Children under 5 are free. The purchase-page checkout of 148,000 VND and 99,000 VND was not reloaded on 23 Oct 2026. It stays the 21 Oct 2026 reading (S26). The 2019 close of 17:00 (S3) still disagrees with 18:00. The page prints the newer close and keeps the older one in the notice.
+
 ## Nightlife and evening
 
 None recorded.
