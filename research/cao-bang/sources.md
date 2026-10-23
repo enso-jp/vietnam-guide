@@ -139,3 +139,48 @@ Accessed 21 Oct 2026 unless a line says otherwise. A fee or hour with no reloade
 - Publisher: Bao Lao Cai
 - Accessed: 21 Oct 2026
 - Supports: Northern route framed as “return to the source” in Hoa An and Ha Quang, with Pac Bo (1941–1944) and the Kim Dong historical site as the emphasis, plus ammonite fossils in Ha Quang. Indexed summary; this pass did not reload a full stop-by-stop northern page on caobanggeopark.com
+
+### S3 reload
+- Same URL as S3
+- Accessed: 23 Oct 2026
+- Supports: Eastern route still names xôi trám, vịt quay, and lạp sườn hun khói. This reload does not name mắc mật on the duck
+
+### S7 reload
+- Same URL as S7
+- Accessed: 23 Oct 2026
+- Supports: Cao Bang city still names Phở Chua (sour noodle soup) and Bánh Cuốn (steamed rice rolls)
+
+### S9 reload
+- Same URL as S9
+- Accessed: 23 Oct 2026
+- Supports: Full route dish list used for the food guide. Mèn mén, khẩu sli, and bánh ngô are names only. The article does not say steamed or popped
+
+### S24
+- URL: https://baocaobang.vn/pho-chua-cao-bang-dam-da-huong-vi-rieng-3188349.html
+- Publisher: Báo Cao Bằng (21 May 2026)
+- Accessed: 23 Oct 2026
+- Supports: Phở chua method and assembly order: vinegar and canna starch, duck broth, roast duck, crisp belly, lạp sườn, fried sweet potato, peanut, cucumber, herbs. No stall clock and no price
+
+### S25
+- URL: https://baocaobang.vn/Banh-cuon-Cao-Bang-38432.html
+- Publisher: Báo Cao Bằng (4 Jul 2012)
+- Accessed: 23 Oct 2026
+- Supports: Bánh cuốn method, bone broth, optional fish sauce, egg roll, stalls open from 4–5 in the morning. Shop names are notes, not picks. No closing time and no price
+
+### S26
+- URL: https://baocaobang.vn/am-thuc-mien-non-nuoc-khong-nen-bo-lo-dip-2-9-3191963.html
+- Publisher: Báo Cao Bằng (1 Sep 2026)
+- Accessed: 23 Oct 2026
+- Supports: Phở vịt, bánh cuốn without the familiar fish sauce, phở chua, xôi ngũ sắc colors named as purple green and yellow, gà bản, miến dong, chân giò hầm hạt dẻ, khau nhục, bánh áp chao with duck filling, bánh đúc nóng, lợn quay with mắc mật, autumn chestnut and xôi trám, Kim Đồng holiday stalls in Thục Phán. Áp chao shop names are notes, not picks. Hours can change by the day
+
+### S27
+- URL: https://baocaobang.vn/trai-nghiem-am-thuc-vung-non-nuoc-cao-bang-3187755.html
+- Publisher: Báo Cao Bằng (3 May 2026)
+- Accessed: 23 Oct 2026
+- Supports: Morning phở chua, phở vịt, xôi nếp hương, vịt quay lá mắc mật, lạp sườn hun khói; thạch đen from the local thạch plant; áp chao as battered meat without saying duck; bánh trứng kiến with lá vả. Phở Quyên is a note, not a pick
+
+### S28
+- URL: https://bvhttdl.gov.vn/cao-bang-am-thuc-dac-sac-gop-phan-dinh-vi-hinh-anh-du-lich-cua-tinh-20240822140028108.htm
+- Publisher: Ministry of Culture, Sports and Tourism, citing Báo Cao Bằng (22 Aug 2024)
+- Accessed: 23 Oct 2026
+- Supports: Dish list including phở vịt quay, bánh trứng kiến, lợn quay, and the top 100 lines for bánh cuốn, bánh áp chao, bánh chè lam, and miến dong đen Phja Đén. Contest names with no methods. No prices
