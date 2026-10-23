@@ -1,0 +1,57 @@
+{
+  "slug": "dau-tieng",
+  "placeSlug": "tay-ninh",
+  "name": "Dau Tieng Lake",
+  "nameVi": "Hồ Dầu Tiếng",
+  "kicker": "Reservoir for dawn and dusk",
+  "summary": "Reservoir at dusk: look across the water to the far shore, about 20 km from the city. Come in December to April, at dawn or dusk. A canoe, a paddleboard, fishing, or a night of camping puts you on the water. Go once the Holy See and Ba Den already have their hours.",
+  "dots": 3,
+  "timeNeeded": "A sunset",
+  "fee": "Check on arrival",
+  "getThere": "About 20 km from the city, toward old Dương Minh Châu.",
+  "district": "The lake",
+  "bestMonths": "December–April",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The reservoir, the intake tower, and the far bank",
+  "notice": {
+    "title": "The Bình Minh footer is the mountain office",
+    "body": "Khu phố Ninh Phú, phường Bình Minh, is the cable gate. The lake shore is about 20 km from the city, toward old Dương Minh Châu and Tân Châu."
+  },
+  "body": [
+    "Come for the water at dawn or dusk. The dry stretch is December to April. A canoe reaches the islands Xỉn, Trảng, and Đồng Bò. A paddleboard, a fishing hour, and a night of camping are the other ways onto the water. Camping can include a barbecue.",
+    "Work ran from 1981 to 1985. Impoundment began on 2 July 1984, and the east and west canals were in use on 10 January 1985. The reservoir holds up to 1.58 billion cubic metres. The shore you are sent to is about 20 km from the city, at old Phước Minh in Dương Minh Châu. The water also reaches old Tân Châu, and the far side was counted in old Dầu Tiếng of Bình Dương and old Hớn Quản of Bình Phước.",
+    "Give this the evening after the Holy See or after the cable."
+  ],
+  "figures": [
+    {
+      "id": "tay-ninh-dau-tieng-2",
+      "caption": "The walkway to the tower on the water",
+      "alt": "A pink tower at the end of a pier on Dau Tieng Lake"
+    }
+  ],
+  "gettingThere": [
+    "The shore is about 20 km from the city, at old xã Phước Minh in Dương Minh Châu. The same water reaches old Tân Châu in Tây Ninh, old Dầu Tiếng in Bình Dương, and old Hớn Quản in Bình Phước. Khu phố Ninh Phú, phường Bình Minh, is the mountain office, not this shore."
+  ],
+  "legs": [
+    {
+      "heading": "From Tân Ninh",
+      "body": "About 20 km toward old Phước Minh in Dương Minh Châu. A rural route also links Tân Châu, Dương Minh Châu, and the lake."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "admissionNote": "Check on arrival.",
+  "links": [
+    {
+      "label": "Dau Tieng on the Ba Den management board",
+      "url": "https://khudulichnuibaden.tayninh.gov.vn/ho-dau-tieng",
+      "note": "December to April, dawn and dusk, the islands, and camping."
+    },
+    {
+      "label": "Dau Tieng on the national tourism site",
+      "url": "https://vietnamtourism.vn/index.php/tourism/items/1340",
+      "note": "About 20 km from the city, at old xã Phước Minh."
+    }
+  ],
+  "interests": []
+}
