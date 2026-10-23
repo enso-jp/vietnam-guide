@@ -103,9 +103,9 @@
       "research": "stored",
       "page": "paged",
       "copy": "enriched",
-      "quality": "not_started",
-      "note": "23 Oct 2026. Finished page: kicker, notice, three body paragraphs, the second frame, getting there from My Khe and the river, hours, admission, and links. Second frame is Tran Bach Dang inside the quarter (Klientos, CC BY-SA 4.0; the Commons title says Ho Nghinh, but EXIF and a Lot 33 Tran Bach Dang board place it inside the quarter). Kalà Kalà's two clocks are both printed. Left out: a lane closing hour, river minutes, and a drink price.",
-      "updated": "2026-10-23T13:43:54.185Z",
+      "quality": "checked",
+      "note": "Quality read 23 Oct 2026 after #274 merged. Hero is the lit An Thuong 4 doorway (SAGADANANG, CC0); second frame is the lantern lane on Tran Bach Dang (Klientos, CC BY-SA 4.0), caption corrects the Commons title per the dossier EXIF note. Decision 489, 23 Apr 2018 stone, 0.15 km2, 141 businesses, Kala Kala free entry and both clocks, East West 08:00-01:00, night market 17:00-23:00 free all match A1-A4. Lane closing hour, river minutes, and drink price stay Check on arrival.",
+      "updated": "2026-10-23T15:46:50.101Z",
       "reworkCount": 0
     },
     {
@@ -520,8 +520,8 @@
       "page": "blocked",
       "copy": "not_started",
       "quality": "not_started",
-      "note": "Still no photograph of Huynh Thuc Khang. 23 Oct 2026 Commons search: name searches in English and Vietnamese, the Da Nang street, restaurant, and street-vendor categories, and a geosearch along the street in Nam Duong, Hai Chau (about 16.0595–16.0620, 108.2184). No file shows the breakfast street. Other files called Huynh Thuc Khang are in Hanoi, Da Lat, and Ho Chi Minh City. A page would fall back to the beach. The food guide already carries the street and both breakfast clocks.",
-      "updated": "2026-10-23T13:43:54.240Z",
+      "note": "Still no photograph of Huynh Thuc Khang. 23 Oct 2026 Commons search: name searches in English and Vietnamese, the Da Nang street, restaurant, and street-vendor categories, and a geosearch along the street in Nam Duong, Hai Chau (about 16.0595–16.0620, 108.2184). No file shows the breakfast street. Other files called Huynh Thuc Khang are in Hanoi, Da Lat, and Ho Chi Minh City. A page would fall back to the beach. The food guide already carries the street and both breakfast clocks. Kept blocked on 23 Oct 2026 after the An Thuong quality pass: no page until the owner supplies or approves a licensed photo of the street.",
+      "updated": "2026-10-23T15:47:01.699Z",
       "reworkCount": 0
     },
     {
@@ -1025,6 +1025,14 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-23T15:46:50.102Z",
+      "place": "da-nang",
+      "stage": "quality",
+      "item": "da-nang--an-thuong",
+      "status": "checked",
+      "note": "Quality read 23 Oct 2026 after #274 merged. Hero is the lit An Thuong 4 doorway (SAGADANANG, CC0); second frame is the lantern lane on Tran Bach Dang (Klientos, CC BY-SA 4.0), caption corrects the Commons title per the dossier EXIF note. Decision 489, 23 Apr 2018 stone, 0.15 km2, 141 businesses, Kala Kala free entry and both clocks, East West 08:00-01:00, night market 17:00-23:00 free all match A1-A4. Lane closing hour, river minutes, and drink price stay Check on arrival."
+    },
+    {
       "at": "2026-10-23T13:43:54.185Z",
       "place": "da-nang",
       "stage": "copy",
@@ -1175,14 +1183,6 @@
       "item": "da-nang--my-khe",
       "status": "enriched",
       "note": "Re-read against the stored dossier on 21 Oct 2026. The page already matched. No sentence changed. Left out any fee or hour that is still check on arrival."
-    },
-    {
-      "at": "2026-10-21T10:13:13.669Z",
-      "place": "da-nang",
-      "stage": "quality",
-      "item": "da-nang--marble-mountains",
-      "status": "checked",
-      "note": "Hero file was not replaced this pass. Fee and hours still match the dossier. No new number was added."
     }
   ]
 }
