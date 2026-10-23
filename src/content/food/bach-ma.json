@@ -1,0 +1,79 @@
+{
+  "slug": "bach-ma",
+  "name": "Bach Ma food guide",
+  "placeSlug": "bach-ma",
+  "summary": "The meal at the gate is the lagoon, bought at chợ Cầu Hai before the climb. Thanh Niên names brick crab, land shrimp, and four brackish fish. CafeBiz names bánh ép Cầu Hai, and Đại Việt Tourist does not agree on the filling. Inside the park, VnExpress names a short breakfast. A price and a market hour are Check on arrival.",
+  "body": [
+    "Eat at the market on National Highway 1A, then go up the mountain. Huế bowls stay in Huế. Lăng Cô’s beach dishes stay on that bay. Thanh Niên, 14 March 2016, puts a thick Huế-style coffee in thị trấn Cầu Hai, then the market facing the lagoon.",
+    "The crab has a thin shell and red roe. The land shrimp is what Huế cooks as tôm chua with boiled pork and pickled bean sprouts. The fish are cá kình, cá dìa, cá hanh, and cá đối. Thanh Niên does not print a recipe. People buy the seafood to cook, often for the weekend.",
+    "VnExpress, updated 4 February 2025, says the kitchens inside the park, allowed by the management, serve phở, bún, or mì bò at breakfast, and cơm đĩa or cơm phần. Grill or seafood can be ordered ahead. The article does not name the animal. Kitchen hours and a price are Check on arrival."
+  ],
+  "specialtiesLead": "Brick crab, land shrimp, four lagoon fish, a thick Huế-style coffee, and bánh ép Cầu Hai. Tôm chua is the Huế plate made from this shrimp. The park breakfast is a separate short list.",
+  "dishSlugs": [],
+  "sections": [
+    {
+      "id": "specialties",
+      "heading": "Cau Hai specialties",
+      "nav": "Specialties",
+      "paragraphs": [
+        "Buy these at chợ Cầu Hai, or eat the coffee in thị trấn Cầu Hai before you cross the road. Thanh Niên, 14 March 2016, names the crab, the land shrimp, and the four fish, and does not print a recipe. CafeBiz, Phùng Hà, 29 June 2022, names bánh ép Cầu Hai. A price is Check on arrival."
+      ],
+      "dishSlugs": [
+        "bach-ma--cua-gach",
+        "bach-ma--tom-dat",
+        "bach-ma--ca-kinh",
+        "bach-ma--ca-dia",
+        "bach-ma--ca-hanh",
+        "bach-ma--ca-doi",
+        "bach-ma--ca-phe",
+        "bach-ma--banh-ep"
+      ]
+    },
+    {
+      "id": "hue-plate",
+      "heading": "The Hue plate",
+      "nav": "Hue plate",
+      "role": "regional",
+      "paragraphs": [
+        "Tôm chua is a Huế dish. Thanh Niên says the land shrimp at chợ Cầu Hai is the ingredient, and that Huế restaurants advertise the plate with boiled pork and pickled bean sprouts. The plate is not a stall at the market."
+      ],
+      "dishSlugs": ["bach-ma--tom-chua"]
+    },
+    {
+      "id": "market",
+      "heading": "Cau Hai market",
+      "nav": "The market",
+      "role": "casual",
+      "paragraphs": [
+        "Chợ Cầu Hai is the buy, on National Highway 1A, about 40 km south of Huế, facing the lagoon. Thanh Niên, 14 March 2016, describes rows of fish, crab, and vegetables. A feature on the Bạch Mã national park site, update stamp 4 February 2021, calls the market the landmark for the left turn onto Trần Đình Túc. A market hour is Check on arrival. A stall price is Check on arrival.",
+        "Thanh Niên also names a basket people carry to a kitchen in Huế or Đà Nẵng for a sour soup or a hotpot: fig, pickled taro stem, green banana, sour star fruit, herbs, green chili, pennywort, and malabar spinach. No recipe is printed."
+      ],
+      "spots": [
+        {
+          "name": "Cau Hai market",
+          "nameVi": "Chợ Cầu Hai",
+          "address": "Quốc lộ 1A, facing the lagoon",
+          "note": "Buy the crab, the land shrimp, and the four fish here, then go to the gate. Thanh Niên does not name a stall. A market hour is Check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "heading": "Breakfast inside the park",
+      "nav": "Breakfast",
+      "role": "breakfast",
+      "paragraphs": [
+        "VnExpress, updated 4 February 2025, says a few kitchens inside the park are allowed by the management. Breakfast is phở, bún, or mì bò. Cơm đĩa and cơm phần are the set rice. Grill or seafood can be ordered ahead, and the article does not name the animal or the cut. Drinks and snacks are on request, with no name given. A kitchen hour and a price are Check on arrival."
+      ],
+      "dishSlugs": [
+        "bach-ma--pho",
+        "bach-ma--bun",
+        "bach-ma--mi-bo",
+        "bach-ma--com"
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Bach Ma food guide — crab and fish at Cau Hai",
+  "seoDescription": "Brick crab, land shrimp, and four fish at chợ Cầu Hai, then a short breakfast inside Bach Ma. Bánh ép fillings disagree. A price is Check on arrival."
+}

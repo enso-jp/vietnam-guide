@@ -109,3 +109,27 @@ Accessed 22 Oct 2026 unless a line says otherwise. Fees, hours, and distances th
 - Publisher: Vietnam Airlines travel guide
 - Accessed: 22 Oct 2026
 - Supports: A third desk, not the park. Huế 40 km north, Đà Nẵng 70 km south. Nearly 37,500 ha. Over 2,400 plants, more than 1,700 animals, 93 species on both red lists. Gate hours printed as 07:30–17:00. Ticket table dated 1 May 2024 at the same 65,000 / 25,000 as S2. Guide classes A/B/C at 500,000 / 400,000 / 300,000, which the park table does not split. Large campfire 500,000 VND, 19:30–22:00. Small campfire 300,000 VND. Girard in 1932, 139 villas by 1937, forest reserve 1937, a 1962 South Vietnam protected area, national park 1991. The Cambodia-border sentence on this page disagrees with the Laos-border sentence on S12. Do not adopt the airline clock, the 2024 effective date, or the campfire dong as the park tariff.
+
+### S19
+- URL: https://cafebiz.vn/bat-mi-suc-hut-cua-banh-ep-cau-hai-mon-an-thom-ngon-nuc-tieng-ca-vung-20220629100156006.chn
+- Publisher: CafeBiz, Phùng Hà, 29 Jun 2022
+- Accessed: 23 Oct 2026
+- Supports: Bánh ép Cầu Hai, also called bánh ép mắm nêm Cầu Hai, from đầm Cầu Hai in Phú Lộc, with Bạch Mã named in the same sentence. Tapioca starch, lean pork, shrimp, and spring onion on a round iron mold over charcoal. Eaten hot, rolled with lettuce, cucumber, split water spinach, banana blossom, herbs, and bean sprouts. Dip is mắm nêm with garlic and chili, not the salty-sweet fish sauce of other places. Compared with bánh ép Thuận An, which that article says uses fatty pork and egg. Phú Lộc about 45 km south of Huế. The shop profile of chị Trang is `do not publish as a pick`. No price and no hour.
+
+### S20
+- URL: https://tourhue.vn/dam-cau-hai-hue/ and https://daivietourist.vn/dam-cau-hai-hue/
+- Publisher: Đại Việt Tourist, Hằng Min. Tourhue.vn posted 15 Aug 2024. Daivietourist.vn posted 19 Apr 2025. Same hotline and the same writer.
+- Accessed: 23 Oct 2026
+- Supports: Used only where it disagrees with S19 on bánh ép. The 15 Aug 2024 account says pork, not shrimp, and mắm nêm, with cucumber, lettuce, and rau răm. The 19 Apr 2025 account says a thin crisp cake, pork, and nước mắm with garlic and chili. The same articles name ghẹ, cá ong bầu, lệch huyết, cá vược, bánh xèo cá kình, cá mú hấp, and street snacks. Those extra names were not published. Boat prices and ride minutes on these pages were not adopted.
+
+### S21
+- URL: https://huengaynay.vn/du-lich/am-thuc-hue/nhung-nho-ca-dia-48163.html and https://huengaynay.vn/thua-thien-hue-cuoi-tuan/dien-dan/mot-thoi-la-ca-tien-vua--2609.html
+- Publisher: Huế Ngày Nay. Cá dìa article by Hạ Nguyên, 20 Oct 2017. Tribute-fish essay by Đan Duy, 29 Feb 2012.
+- Accessed: 23 Oct 2026
+- Supports: Cá dìa of the Tam Giang–Cầu Hai lagoon, mostly dìa bông, and a steamed-scallion method. Tribute fish from Quảng Thái and An Truyền, not from chợ Cầu Hai. The tribute-fish essay lists a longer lagoon set: cá vược, cá dầy, cá bống, cá chình, cá nâu, cá hồng, beside cá kình, cá dìa, cá đối, and cá hanh. Those extra names are not placed at the gate market. Left off the public specialties.
+
+### S22
+- URL: https://huengaynay.vn/goc-anh-hue/cho-ca-vinh-hien-79920.html
+- Publisher: Huế Ngày Nay, 22 Nov 2019
+- Accessed: 23 Oct 2026
+- Supports: Chợ cá Vinh Hiền, under núi Tuý Vân, xã Vinh Hiền, huyện Phú Lộc. Boats return around 02:00. Species named: cua rào, cá dìa, cá trích, tôm. This is the inlet, not chợ Cầu Hai. Left off the Bach Ma list.

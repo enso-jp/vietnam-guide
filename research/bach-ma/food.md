@@ -1,6 +1,6 @@
 # Food — Bach Ma
 
-Checked: 22 Oct 2026
+Checked: 23 Oct 2026. The 22 Oct 2026 list stands. This pass added bánh ép and recorded what was read and left off the public specialties.
 
 The mountain does not have a city noodle of its own. The local list is the lagoon at the gate. Huế bowls stay Huế. Lăng Cô’s beach dishes stay `lang-co`. No stall price is repeated here.
 
@@ -56,6 +56,16 @@ The mountain does not have a city noodle of its own. The local list is the lagoo
 - Neighbor dish to link: `ca-phe` only as the drink, not as a Bach Ma brand
 - Sources: S16
 
+### Banh ep Cau Hai
+- Vietnamese name: Bánh ép Cầu Hai, also bánh ép mắm nêm Cầu Hai on the CafeBiz account
+- What it is: A pressed cake from the Cầu Hai lagoon in Phú Lộc. CafeBiz, Phùng Hà, 29 Jun 2022, says tapioca starch, lean pork, shrimp, and spring onion, pressed on a round iron mold over charcoal (S19). Đại Việt Tourist, Hằng Min, does not agree with that account or with itself. The 15 Aug 2024 page says the filling is pork, not the beef jerky, egg, or meat used elsewhere, and does not mention shrimp (S20). The 19 Apr 2025 page says a thin crisp cake with a pork filling (S20). Do not pick one filling
+- How to eat it: CafeBiz says eat it hot, roll it like bánh cuốn with lettuce, cucumber, split water spinach, banana blossom, herbs, and bean sprouts, and dip it in mắm nêm with garlic and chili (S19). The 15 Aug 2024 tour account says cucumber, lettuce, and rau răm, with mắm nêm (S20). The 19 Apr 2025 account says nước mắm with garlic and chili (S20). Both dips stay. Do not choose one
+- When to order it: Check on arrival — UNSOURCED. No hour was printed
+- Area, not a shop: The lagoon at Phú Lộc. CafeBiz says about 45 km south of Huế. The shop profiled in that article is `do not publish as a pick`
+- Meal: snack
+- Neighbor dish to link: Bánh ép Thuận An is the comparison in S19, not this cake
+- Sources: S19, S20
+
 ## Food streets and markets
 
 ### Cau Hai market
@@ -70,6 +80,22 @@ The mountain does not have a city noodle of its own. The local list is the lagoo
 - Sources: S12, S16
 
 The summit kitchens are not a street. They stay in the dish list above (S13).
+
+## Read and left off the public specialties
+
+These were opened on 23 Oct 2026. They are not Bach Ma specialties.
+
+- Sour-soup basket at the same market (S16): trái vả, dưa môn, chuối chát, khế chua, rau thơm, ớt xanh, rau má, rau mồng tơi. Thanh Niên says buy them and have a kitchen in Huế or Đà Nẵng cook canh chua or lẩu. No recipe. Not dishes served at the gate.
+- Rượu làng Chuồn (S16). A Huế drink named with that basket. Not a Cầu Hai product.
+- Grill or seafood ordered ahead, and drinks and snacks on request (S13). No animal, no cut, and no drink name.
+- VnExpress prints cơm đĩa and cơm phần from 80,000 to 220,000 VND (S13). One newspaper range. Not the park tariff. The public price stays Check on arrival.
+- Huế Ngày Nay, Hạ Nguyên, 20 Oct 2017, describes cá dìa of the whole Tam Giang–Cầu Hai lagoon, steamed with scallion, and says the tribute fish came from Quảng Thái and An Truyền (S21). That method is not a chợ Cầu Hai recipe. Left off the fish entry.
+- Huế Ngày Nay, “Một thời là cá tiến vua”, lists cá vược, cá dầy, cá bống, cá chình, cá nâu, and cá hồng for the whole lagoon, beside cá kình, cá dìa, cá đối, and cá hanh (S21). The article does not place those extra fish at chợ Cầu Hai. Not added.
+- Huế Ngày Nay, 22 Nov 2019, names cua rào, cá dìa, cá trích, and tôm at chợ cá Vinh Hiền, under núi Tuý Vân (S22). That is the inlet market, not the gate. Left off.
+- Đại Việt Tourist names ghẹ, cá ong bầu, lệch huyết, cá vược, bánh xèo cá kình, cá mú hấp, and street snacks at chợ Cầu Hai (S20). One commercial writer, and the two articles disagree with each other on bánh ép. Those extra names were not published.
+- Chợ Cầu Hai is a market, not a specialty. The summit kitchens are not a named room.
+
+Public specialties from this file: cua gạch, tôm đất, cá kình, cá dìa, cá hanh, cá đối, cà phê Huế, bánh ép Cầu Hai, tôm chua, and the park breakfast phở, bún, mì bò, and cơm đĩa / cơm phần. Thirteen. Short of 20.
 
 ## Notes, not pages
 
