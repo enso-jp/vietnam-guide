@@ -1490,9 +1490,39 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
 }
 .book-stay h2 em,
 .stay-box h2 em { font-style: normal; color: var(--lacquer); }
+.trip-search { --trip-scale: 1; width: 100%; max-width: 26rem; margin: 0.55rem auto 0; }
+.trip-search-fit {
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--card);
+}
+.trip-search-fit iframe { display: block; max-width: none; margin-inline: auto; }
+.trip-search.is-ready .trip-search-fit {
+  height: calc(var(--trip-form) * var(--trip-scale));
+  transition: height 0.18s ease;
+}
+.trip-search.is-ready .trip-search-fit iframe {
+  margin: 0;
+  transform-origin: 0 0;
+  transform: scale(var(--trip-scale)) translateY(calc(var(--trip-top) * -1));
+}
+.trip-search.is-open .trip-search-fit { height: calc(var(--trip-h) * var(--trip-scale)); }
+.trip-search.is-open .trip-search-fit iframe { transform: scale(var(--trip-scale)); }
+.trip-search-label {
+  margin: 0.45rem 0 0;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 400;
+  text-align: center;
+}
+@media (prefers-reduced-motion: reduce) {
+  .trip-search.is-ready .trip-search-fit { transition: none; }
+}
 .family-summer {
   display: block;
   width: 100%;
+  max-width: 26rem;
   margin: 0.65rem auto 0;
 }
 .family-summer img {

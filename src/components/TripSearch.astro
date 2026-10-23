@@ -11,5 +11,21 @@ const markup = {
   destination: `<iframe border="0" src="${tripDestinationStay}" style="width:276px;height:276px" frameborder="0" scrolling="no" style="border:none" id="S20497773"></iframe>`,
   other: `<iframe border="0" src="${tripOtherStay}" style="width:320px;height:480px" frameborder="0" scrolling="no" style="border:none" id="S20497871"></iframe>`,
 }[variant];
+
+// The widget's photo, logo, and colours are set per ad in the Trip.com partner console.
+// The search form is the bottom 212px of each layout; the crop starts 6px into it to clear its rounded top.
+const frame = {
+  home: { width: 320, height: 480, top: 274, form: 206 },
+  destination: { width: 276, height: 276, top: 70, form: 206 },
+  other: { width: 320, height: 480, top: 274, form: 206 },
+}[variant];
 ---
-<Fragment set:html={markup} />
+<div
+  class="trip-search"
+  data-trip-search
+  data-trip-width={frame.width}
+  style={`--trip-h:${frame.height}px;--trip-top:${frame.top}px;--trip-form:${frame.form}px`}
+>
+  <div class="trip-search-fit"><Fragment set:html={markup} /></div>
+  <p class="trip-search-label">Hotel search by Trip.com · partner</p>
+</div>
