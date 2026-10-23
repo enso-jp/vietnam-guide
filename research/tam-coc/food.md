@@ -5,7 +5,9 @@ Checked: 23 Oct 2026
 
 This is not a dining city. The opened official pages do not print a Tam Coc menu of 20 dishes. The count below is every specialty a source places at Tam Coc or on a cave visit the same source also ties to this area. A specialty is a dish. A street, a restaurant, and a hotel are not dishes.
 
-Sourced Tam Coc specialties: 13. The bar is 20. The gap is 7. Those 7 were not invented. No breakfast dish, no sweet, and no drink was named for this place. No stall price was printed. Check on arrival — UNSOURCED for a plate price.
+Sourced Tam Coc specialties: 14. The bar is 20. The gap is 6. Those 6 were not invented. No breakfast dish, no sweet, and no drink was named for this place. No stall price was printed. Check on arrival — UNSOURCED for a plate price.
+
+Checked again 23 Oct 2026. One plate was added. The tourism center’s family day, updated 3 August 2026, names cá rô Tổng Trường at midday in Tam Coc (S30). The city and Hoa Lư sentences stay beside it (S19, S35, S34).
 
 ## Comprehensive list of local food to try
 
@@ -139,16 +141,35 @@ Sourced Tam Coc specialties: 13. The bar is 20. The gap is 7. Those 7 were not i
 - Neighbor dish to link: nem Yên Mạc on `ninh-binh`
 - Sources: S24, S26, S19
 
+### Cá rô Tổng Trường
+- Vietnamese name: Cá rô Tổng Trường
+- What it is: The perch the tourism center’s family day, updated 3 August 2026, names with dê núi and cơm cháy at midday in Tam Coc, and calls a Ninh Bình specialty (S30). That day prints no restaurant and no method. Sở Du lịch Ninh Bình, 23 August 2021, says Tổng Trường is the old name of xã Trường Yên, huyện Hoa Lư, and names rang, rán, kho, and canh chua, with a canh chua method, and does not name Tam Coc (S35). The 20 October 2023 culture office places the fish in thành phố Ninh Bình or the old capital, with dê núi, cơm cháy, and miến lươn (S19). The tourism center’s Tet note, updated 12 February 2026, says kho tộ or rán giòn with hot rice on a Ninh Bình Tet table, and names Tam Coc only as scenery (S34). All four sentences stay. This is not a Văn Lâm recipe and not the Hang Bụt cá rô nướng.
+- How to eat it: S30 prints the name and no method. Check on arrival — UNSOURCED for a Tam Coc method. S35’s rang, rán, kho, and canh chua, and S34’s kho tộ or rán giòn, stay with those pages. Do not merge them into the Tam Coc lunch.
+- When to order it: Buổi trưa on the family day (S30). A clock hour was not printed. Check on arrival — UNSOURCED.
+- Area, not a shop: Midday on that Tam Coc day, no street (S30). Origin named as Tổng Trường / Hoa Lư (S35) and the city or the old capital (S19).
+- Meal: main
+- Neighbor dish to link: cá rô Tổng Trường on `ninh-binh`. Do not collapse the two records. The Ninh Bình dish file stays as it is.
+- Sources: S30, S35, S19, S34
+
 ## Gap to 20
 
-Thirteen specialties are sourced. Seven more would be an invention. Not recorded, because no source named them for Tam Coc: a breakfast dish, a sweet, a drink, a noodle, a rice-noodle soup, a second rice, and a sausage. A hotpot as its own Tam Coc plate, and a street-stall dish, were also not on a Tam Coc menu. The provincial goat page says local people make about more than 20 goat plates and does not mention Tam Coc (S27). That list was not used to close the seven. An English tourism-center page names goat soup, grilled goat with five spices, steamed goat with ginger, goat hotpot, and goat porridge as provincial plates, and says eateries around Tràng An, Tam Coc Caves, or the foot of Hoa Lư serve the province’s goat food (S28). It prints no Vietnamese name for those five. They are not added as separate Tam Coc dishes, and they are not treated as translations of S27.
+Fourteen specialties are sourced. Six more would be an invention. Not recorded, because no source named them for Tam Coc: a breakfast dish, a sweet, a drink, a noodle, a rice-noodle soup, a second rice, and a sausage. A hotpot as its own Tam Coc plate, and a street-stall dish, were also not on a Tam Coc menu. The provincial goat page says local people make about more than 20 goat plates and does not mention Tam Coc (S27). That list was not used to close the gap. An English tourism-center page, reopened 23 Oct 2026, names goat soup, grilled goat with five spices, steamed goat with ginger, goat hotpot, and goat porridge as provincial plates, and says eateries around Tràng An, Tam Coc Caves, or the foot of Hoa Lư serve the province’s goat food (S28). It prints no Vietnamese name for those five. They are not added as separate Tam Coc dishes, and they are not treated as translations of S27.
+
+Opened on 23 Oct 2026 and not used to add a plate:
+
+- Sở Du lịch Ninh Bình, 24 August 2021, names ốc xào tỏi, xào sa tế, luộc sả, and xào sả ớt, and places the snail in Tam Điệp, Yên Mô, and Nho Quan, with markets there and any Ninh Bình restaurant (S31). No Tam Coc sentence.
+- The tourism center, 13 December 2022, names ốc xào dừa, hấp gừng xả, and xào sa tế, and places the snail in Tam Điệp, Yên Mô, Nho Quan, and Hoa Lư (S32). Hoa Lư on that habitat sentence is not a Tam Coc restaurant. Hấp gừng is already the Tam Coc plate from S17. The extra names are not added.
+- The tourism center, 5 June 2026, names dê hấp, dê áp chảo, dê xào sả ớt, dê hầm thuốc bắc, nem dê, and dê nướng (S33). Tam Coc appears only beside Tràng An and Hoa Lư as scenery. Dê nướng is already counted from S17 and S25. The other names are not added.
+- The tourism center, 12 February 2026, names a Ninh Bình Tet table: dê hấp, dê tái chanh, dê nướng tảng, dê om riềng mẻ, gà đồi, cá kho làng Nhân Hậu, and the cá rô methods above (S34). Tam Coc is scenery in the opening. Those plates are not added, except the fish name already counted from S30.
+- Báo Quốc Tế, 3 June 2024, uses the Tam Coc–Tràng An festival as the news peg and then places xôi trứng kiến in Nho Quan, ốc núi in Tam Điệp, gỏi cá nhệch in Kim Sơn, and dê quay, cháo dê, lòng đắng, and cơm cháy sốt dê with Ninh Bình restaurants (S36). Those plates are not added.
+- Two Báo Ninh Bình URLs, the 1 June 2024 Sắc vàng note and the 8 September 2026 food-safety street note, returned a civil-defense page on 23 Oct 2026. Their search snippets were not used.
 
 ## Neighbor dishes, not this count
 
-The culture office, 20 Oct 2023, places these in thành phố Ninh Bình or the old capital, or names the Hoa Lư cooking, not a Tam Coc street (S19). Link `ninh-binh`. Do not add them to the 11.
+The culture office, 20 Oct 2023, places these in thành phố Ninh Bình or the old capital, or names the Hoa Lư cooking, not a Tam Coc street (S19). Link `ninh-binh`. Do not add them to the Tam Coc count, except the fish, which S30 also names at midday.
 
 - Miến lươn
-- Cá rô Tổng Trường
+- Cá rô Tổng Trường is counted above because S30 names it at midday in Tam Coc. The city sentence on this page stays, and is not dropped.
 - Ruốc cá trắm, named in a caption on that page
 - Nem dê
 - Tiết canh dê
@@ -166,7 +187,7 @@ The same page places other dishes somewhere else. They are not Tam Coc and not t
 
 None recorded.
 
-Looked on 23 Oct 2026. The 2026 ticket table has no market (S3). The tourism pages name Văn Lâm as the embroidery hamlet and the boat village, not an eating street (S7, S15). DulichToday says “restaurants at Tam Coc” and does not name a street (S17). The 23 May 2023 Tam Coc guide says a restaurant inside the tourist area or nearby, and does not name a street (S24). The 14 May 2025 Tam Coc day says a local restaurant and does not name a street (S25). A listed restaurant in the center of the site prints a ward and no street (S29). A 2017 Tràng An restaurant list was not opened; it is not used. No market name, no alley name, and no night-market name was printed on a page that was opened. Do not invent a dining street to lengthen the list.
+Looked on 23 Oct 2026. The 2026 ticket table has no market (S3). The tourism pages name Văn Lâm as the embroidery hamlet and the boat village, not an eating street (S7, S15). DulichToday says “restaurants at Tam Coc” and does not name a street (S17). The 23 May 2023 Tam Coc guide says a restaurant inside the tourist area or nearby, and does not name a street (S24). The 14 May 2025 Tam Coc day says a local restaurant and does not name a street (S25). The 3 August 2026 family day names no street (S30). A listed restaurant in the center of the site prints a ward and no street (S29). A 2017 Tràng An restaurant list was not opened; it is not used. No market name, no alley name, and no night-market name was printed on a page that was opened. Do not invent a dining street to lengthen the list.
 
 ## Notes, not pages
 
