@@ -24,8 +24,8 @@ Checked: 21 Oct 2026. Public fields that are still “Check on arrival” are li
 
 ## Left unpublished — no licensed photo of that sight
 
-- An Cu lagoon and the fishing village. No frame that names An Cư and shows boats, the lagoon, and the pass slope.
-- Tân Cảnh Dương. No frame of that beach. It stays an area inside Lang Co, not a new place.
+- An Cu lagoon and the fishing village. 23 Oct 2026: still off. VnExpress uses Đầm An Cư as another name for Đầm Lập An. The zone office still describes An Cư at the foot of Hải Vân as its own water. Both wordings are on the Lap An page. It is not a second sight.
+- Tân Cảnh Dương. 23 Oct 2026: published. Two Commons frames sit on that shore, not on the Lang Co spit. See `attractions/tan-canh-duong.md`. The line below is the 21 Oct state and is superseded.
 - Chân Mây port. No frame of port structures and the coast together. It stays an area, not a new place.
 - Ga Lăng Cô. The one licensed frame is the station front through a window, with no bay and no second photo.
 - Chợ Lăng Cô and đường Nguyễn Văn as their own cards. No frame of the market front or of stalls with the lagoon.
