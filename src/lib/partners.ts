@@ -26,3 +26,6 @@ export const tripFooterBanner =
 
 export const tripFamilySummer =
   'https://sg.trip.com/sale/w/xnz6pcn7s6xl9hsl/familysummer.html?locale=en-SG&transparentBar=1&wkp=1&Allianceid=11105102&SID=334225872&trip_sub1=Non+-+homepage&trip_sub3=P20499845';
+
+export const klookWidget =
+  'https://tpwgts.com/content?currency=USD&trs=588978&shmarker=793638&locale=en&city_id=33&category=4&amount=3&powered_by=true&campaign_id=137&promo_id=4497';

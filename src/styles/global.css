@@ -1046,6 +1046,18 @@ a.rank-row h3 { color: var(--link); }
 .day { padding: 0.9rem 0; border-top: 1px solid var(--line); }
 table { width: 100%; border-collapse: collapse; background: var(--card); font-variant-numeric: tabular-nums; }
 th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+.klook-block {
+  width: min(var(--page), calc(100% - 2rem));
+  max-width: calc(100% - 2rem);
+  margin: 1.25rem auto 0;
+  display: flex;
+  justify-content: center;
+}
+.klook-block > div {
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+}
 .trip-banner {
   width: min(468px, calc(100% - 2rem));
   max-width: calc(100% - 2rem);
