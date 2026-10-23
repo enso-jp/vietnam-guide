@@ -134,6 +134,51 @@ Accessed 21 Oct 2026 unless a line says otherwise. Publisher names are the pages
 - Accessed: 21 Oct 2026
 - Supports: Nothing quoted. A search snippet described stilt houses, Lồng Tồng, xôi nếp nương, cá nướng, and thịt trâu gác bếp. Those lines are not used, because the article did not reload. Smoked meat in the dossier comes from S18, which describes pork hung over the kitchen fire and mentions buffalo smoking as a highland method
 
+### S23
+- URL: https://thainguyen.gov.vn/am-thuc/kham-pha-van-hoa-am-thuc-vung-ho-ba-be-256198
+- Publisher: Cổng thông tin điện tử tỉnh Thái Nguyên. The article date on the page is 1 Apr 2026
+- Accessed: 23 Oct 2026
+- Supports: cá nướng and tôm nướng, cá mương clamped in bamboo and grilled until golden, white firm sweet flesh; tôm chua and tép chua jarred from lake shrimp, mildly sour; thịt lợn gác bếp and lạp sườn hun khói seasoned with salt, wine, and ginger, described as golden; khâu nhục of belly and taro, layered and steamed, for festivals, Tết, and weddings; cơm lam grilled in a bamboo tube with muối vừng; bánh trời (pẻng phạ), round, crisp shell, white dusting, moderately sweet, a gift; bánh dày lá ngải from nếp nương, pounded with mugwort, filled with sesame or beans; a caption pairs bánh dày lá ngải with bánh dày gấc and does not describe a gấc filling; măng rừng stir-fried, boiled, in soup, or dried; rau ngót rừng sweet and fragrant, and a caption names hoa ngót rừng. Related-link titles on the page (bánh gio, bánh trứng kiến) were not opened and are not dishes here
+
+### S24
+- URL: https://vnexpress.net/6-dac-san-noi-tieng-o-ho-ba-be-3112462.html
+- Publisher: VnExpress. Article date 2 Dec 2014
+- Accessed: 23 Oct 2026
+- Supports: grilled finger-sized lake fish, gall and guts removed, bamboo clamp, about 15 minutes on charcoal, edible meat, bones, and head, not fishy, fragrant, soft, fatty, chewy; caption price 10,000 VND for 3 skewers; tôm chua mildly sour and sweet, eaten with boiled trotter or belly, sour starfruit, green banana, đinh lăng, and a small cup of rượu ngô; caption price 50,000–70,000 VND a box; sold at Bó Lù and Pác Ngòi; small shrimp and small fish also salted in jars; chuối hột (the lead says chuối rừng) on the path to Ao Tiên and from the gate down to the lake, about 20,000–25,000 VND a hand, also called a remedy; pork put in a basket or gùi then hung, smoke yellow-black, keeps a year, for guests, Tết, and important days, from lợn tên lửa; rau dớn, wilts fast, stir-fried, boiled, or nộm; xôi nếp nương soaked for hours, steamed in a wooden pot, soft, not sticky to the hand, eaten with grilled fish, pork over the fire, or thịt rim. Thịt rim is named and not described. These 2014 prices are not a 2026 tariff
+
+### S25
+- URL: https://vnexpress.net/dac-san-tep-chua-cua-nguoi-tay-ben-ho-ba-be-3111237.html
+- Publisher: VnExpress. Article date 28 Nov 2014
+- Accessed: 23 Oct 2026
+- Supports: tép chua from fresh lake tép and nương rice, mostly gạo tẻ, with leaf yeast, garlic, chili, galangal, and blanched lean loin; sun-dried, salted, jarred about 3–4 days; eaten with boiled trotter or belly, đinh lăng, green banana, sour starfruit; 40,000 VND a jar at the boat landing; a Pac Ngoi stay also names gà đồi, rau dớn, lợn sữa, nếp nương, măng trúc. The 40,000 VND figure is 2014
+
+### S26
+- URL: https://dantoc.vietnamtourism.gov.vn/khong-gian-van-hoa-truyen-thong-cua-dan-toc-tay-tinh-bac-kan-trong-ngay-hoi/
+- Publisher: Cục Du lịch Quốc gia Việt Nam, ethnic-tourism desk. Published 3 Nov 2024
+- Accessed: 23 Oct 2026
+- Supports: at the 2024 Northeast cultural festival in Lang Son, the Bac Kan Tay space introduced dishes of Tay people of the Ba Be lake: xôi ngũ sắc, cá hồ nướng, lạp sườn hun khói, thịt trâu gác bếp xào măng chua, chân giò hầm, măng rừng luộc, nộm rau dớn. Lake measurements and legends on that page were not used. The dishes were shown in Lang Son, named as lake Tay food
+
+### S27
+- URL: https://nongthon.vietnamtourism.gov.vn/am-thuc-dan-da-net-rieng-xu-tra/
+- Publisher: Cục Du lịch Quốc gia Việt Nam, rural-tourism desk. Posted 29 Sep 2025
+- Accessed: 23 Oct 2026
+- Supports: cá rán giòn at Ba Be National Park, small stream fish, also grilled or simmered with măng chua, eaten with lá lốt and chili fish sauce or cơm lam; the same paragraph names rau rừng, măng nứa, and thịt lợn bản without separate recipes. Ốc núi and xôi trám in the article are at Thái Hải, not the lake. Tea-contest dishes in the article are not Ba Be plates
+
+### S28
+- URL: https://nongthon.vietnamtourism.gov.vn/ba-be-green-homestay-net-van-hoa-dac-trung-vung-ho-ba-be-bac-kan/
+- Publisher: Same rural desk. Posted 8 Oct 2023
+- Accessed: 23 Oct 2026
+- Supports: visitors pound bánh giầy, make bánh trôi, and make xôi ngũ sắc with villagers at Pac Ngoi. The homestay name is do not publish as a pick. The desk does not say bánh giầy is bánh dày lá ngải, or that bánh trôi is pẻng phạ
+
+### S29
+- URL: https://nongthon.vietnamtourism.gov.vn/bac-kan-san-pham-ocop-thit-hun-khoi-huong-vi-tet-cho-moi-nha/
+- Publisher: Same rural desk. Posted 16 Feb 2024
+- Accessed: 23 Oct 2026
+- Supports: a caption that a visitor from Thai Nguyen looked at thịt lợn treo gác bếp of households in huyện Ba Bể. The mác khén, dổi, and gừng đá seasoning in the body is a Bắc Kạn producer account (Tám Cương and HTX Dương Quang). It was not used as the lake recipe. The lake seasoning stays S23 (salt, wine, ginger) and S18 (gừng đá on the sausage)
+
+### Re-read 23 Oct 2026
+- S13, S14, S15, and S21 were opened again. The dish lists match the 21 Oct notes. S15 confirms xôi ngũ sắc, gà luộc, and rượu nếp on the offering trays, and a bánh dày contest. Gà luộc is named on the tray. A boiling time was not printed. It is published as its own dish, separate from gà đồi. S18 was opened again. The food paragraphs match the stored note. S22, https://vietnamtourism.gov.vn/post/66116, still returned a shell with no article body. It is still not a source
+
 ### Not used as the park
 - https://babenationalpark.com.vn/ is Mr Linh’s Adventures, a tour company (license lines on the lake page). It is not the management board. Its lake figures were not adopted.
 - https://rsis.ramsar.org/ris/1938 returned HTTP 418. Site number 1938 is taken from UNESCO (S12). The designation date is taken from the park (S1).
