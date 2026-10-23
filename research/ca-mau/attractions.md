@@ -42,7 +42,7 @@ Checked: 22 Oct 2026
 - Suggested slug: dat-mui
 - Suggested dot: 5 — the night exists for this tip
 - Photo must show: the ship panel or GPS0001 through the center, with mangrove or mudflat and the sea in the same frame. A head-on crop of the column against sky fails.
-- Unpublished: no licensed photo
+- Published 23 Oct 2026. Hero File:Muicamau.jpg. Second frame File:Tuongdaimuicamau.jpg. See attractions/dat-mui.md.
 - Sources: S1, S5, S6, S8, S31
 
 ### Mũi Cà Mau National Park
@@ -59,7 +59,7 @@ Checked: 22 Oct 2026
 - Suggested slug: mui-ca-mau-national-park
 - Suggested dot: 5 — the forest is the cape, not a side exhibit
 - Photo must show: a boat or boardwalk under mangrove, water in the lower half, canopy meeting over the center. Empty sky or a single trunk fails.
-- Unpublished: no licensed photo
+- Published 23 Oct 2026. Hero File:Rhizophora apiculata in Dat Mui, Vietnam.jpg. Second frame the broken-stump mangrove file. See attractions/mui-ca-mau-national-park.md.
 - Sources: S1, S2, S3, S4, S5, S31, S34
 
 ### Khai Long
@@ -110,7 +110,7 @@ Checked: 22 Oct 2026
 - Suggested slug: u-minh-ha
 - Suggested dot: 4 — the second landscape, a day of its own
 - Photo must show: a narrow canal, melaleuca trunks on both sides, brown water, the boat’s bow in the lower center. A tower against empty sky fails.
-- Unpublished: no licensed photo
+- Unpublished: no licensed photo. The only Commons file titled as this park is a banana grove. See attractions/u-minh-ha.md. Checked again 23 Oct 2026.
 - Sources: S1, S4, S13, S25, S32, S33, S37
 
 ### Năm Căn
@@ -144,7 +144,7 @@ Checked: 22 Oct 2026
 - Suggested slug: song-doc
 - Suggested dot: 4 in festival days, 3 on an ordinary day — the port is real, the procession is the reason to time the trip
 - Photo must show: fishing boats at the port mouth, or the procession boats if the day is the festival, the fleet through the center, shore in the frame. A single flag fails.
-- Unpublished: no licensed photo
+- Published 23 Oct 2026. Hero File:Sông Đốc.jpg. Second frame File:Sông Ông Đốc.jpg. See attractions/song-doc.md.
 - Sources: S26, S30, S39
 
 ### Rạch Gốc
