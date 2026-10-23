@@ -8,11 +8,11 @@
   "provinceNote": "Nghị quyết 202/2025/QH15 clause 7, as VOV printed it, keeps the name thành phố Hải Phòng. The old city joins Hải Dương: 3,194.72 km² and 4,664,124 people, beside the older 1,561.76 km² and 1,561.80 km². Neighbors are Bắc Ninh, Hưng Yên, Quảng Ninh, and the sea.",
   "dots": 4,
   "dotReason": "A port night, with the peninsula as its own ride",
-  "summary": "A northern port city with an opera house square, riverside streets and its own beach at Do Son. Walk the centre and the Tam Bac riverside at night, visit Du Hang pagoda, and eat banh da cua, the red crab noodle soup. A good stop on the way to Cat Ba or Ha Long.",
+  "summary": "A port city of bánh đa cua, flamboyant trees on the opera strip, and its own sand at Do Son, with the boat on toward Cat Ba. Walk the centre and Tam Bac at night, visit Du Hang pagoda, and eat the red crab noodle soup. Sleep here on the way to Cat Ba or Ha Long.",
   "timeNeeded": "One night in the center, or on Đồ Sơn",
   "fee": "Check on arrival",
   "getThere": "Train from Hanoi, or the 105.5 km expressway to Đình Vũ. Road minutes are Check on arrival.",
-  "bestMonths": "Check on arrival",
+  "bestMonths": "September rite week on Đồ Sơn",
   "verified": "22 Oct 2026",
   "interests": {
     "food": 5,
@@ -22,23 +22,29 @@
     "warHistory": 3
   },
   "cover": "city",
-  "nearby": ["cat-ba", "ha-long", "hanoi"],
+  "nearby": [
+    "cat-ba",
+    "ha-long",
+    "hanoi"
+  ],
   "foodSlug": "hai-phong",
   "routeSlugs": [],
-  "itinerarySlugs": ["hai-phong-day"],
-  "seoTitle": "Hai Phong travel guide — a port night, not the bay",
-  "seoDescription": "Sleep by the opera if the port is the trip. Cat Ba is the island and Ha Long is the bay. Đồ Sơn is a bit more than 20 km. Road minutes are Check on arrival.",
+  "itinerarySlugs": [
+    "hai-phong-day"
+  ],
+  "seoTitle": "Hai Phong travel guide — bánh đa cua, flamboyant trees, Do Son",
+  "seoDescription": "Bánh đa cua, the flamboyant trees on the opera strip, and Đồ Sơn sand, with Cat Ba onward by boat. The expressway to Đình Vũ is 105.5 km.",
   "intro": [
-    "You wake in the port center, not at the airport and not in a karst bay. The city portal’s center piece is the opera house, the Lê Chân statue, and the same strip when the flamboyant trees are out. The month of those trees is not named. The other evening is Tam Bạc: the old street on the right bank, 1,415 m from cầu Lạc Long, behind Chợ Sắt, to the Tam Kỳ junction at Quang Trung. From the end of December 2018 the ward page says people walk both banks under the lights.",
-    "Stay if that square and the river street are the night you want. Sleep on the Đồ Sơn peninsula if the night is the city’s own sand, a bit more than 20 km out on the Nghè page. Go to Cat Ba if the island is the trip. A personal itinerary on the city tourism portal prints the island as about 30 km from the mainland, by boat, and also names a cable car. That page is not a port timetable. Go to Ha Long if the bay is the trip. The expressway operator links Cát Bi with Vịnh Hạ Long and prints neither kilometres nor minutes from the square.",
-    "The center sights sit in a walk: the opera, Tam Bạc, and the museum at 66 Điện Biên Phủ. On the 17 August 2025 account the museum is free, Tuesday to Sunday, 08:00–11:00 and 14:00–17:00. Monday is not in that sentence. A show ticket and a gate hour for the opera were not printed. The theater organization’s page prints a cultural center at 56 Đinh Tiên Hoàng and does not print that number as the auditorium door. Bánh đa cua is the bowl Liên hiệp các tổ chức hữu nghị thành phố Hải Phòng and Cổng du lịch Hải Phòng both describe. The 8 August 2021 account calls it breakfast and the evening meal, and puts pavement tables on Trần Phú opposite the opera from about 18:00 until past midnight. The 24 July 2023 map says lunch and all day, and does not name Trần Phú. Whether that clock still holds is Check on arrival.",
-    "Đồ Sơn is the swim, not a second bay. The department list includes bãi tắm khu 2. A beach fee and a swim hour were not printed. In 2026 the buffalo rites run 11–26 September, with the final at 07:30 on 19 September. That is the crowded week. Hòn Dấu is a smaller island off this peninsula, a bit under 2 km offshore on one sentence of its page and nearly 2 km on another. The boat fare is Check on arrival. The buffalo rite uses the Đồ Sơn Nghè, not the Lê Chân temple in the center."
+    "You wake by the opera house and the Lê Chân statue, on the strip where the flamboyant trees come out. The other evening is Tam Bạc: the old street on the right bank, 1,415 m from cầu Lạc Long, behind Chợ Sắt, to the Tam Kỳ junction at Quang Trung. From the end of December 2018 people walk both banks under the lights.",
+    "Stay if that square and the river street are the night you want. Sleep on the Đồ Sơn peninsula if the night is the city’s own sand, a bit more than 20 km out. Go to Cat Ba if the island is the trip, about 30 km from the mainland by boat, with a cable car also named. Go to Ha Long if the bay is the trip.",
+    "The center sights sit in a walk: the opera, Tam Bạc, and the museum at 66 Điện Biên Phủ. On the 17 August 2025 account the museum is free, Tuesday to Sunday, 08:00–11:00 and 14:00–17:00. Monday is not in that sentence. Bánh đa cua is the bowl, red crackers from Dư Hàng Kênh and crab. One account calls it breakfast and the evening meal, with pavement tables on Trần Phú opposite the opera from about 18:00 until past midnight. The 24 July 2023 map says lunch and all day.",
+    "Đồ Sơn is the swim. The department list includes bãi tắm khu 2. In 2026 the buffalo rites run 11–26 September, with the final at 07:30 on 19 September. That is the crowded week. Hòn Dấu is a smaller island off this peninsula, a bit under 2 km offshore on one sentence and nearly 2 km on another. The buffalo rite uses the Đồ Sơn Nghè, not the Lê Chân temple in the center."
   ],
   "gettingAround": [
-    "Cát Bi is the airport, Cảng hàng không quốc tế Cát Bi. On 19 August 2025 the city broke ground for passenger terminal T2 in phường Hải An. ACV is the investor. T2 is about 23,200 m², designed for 5 million passengers a year, with a note that it could be expanded toward 10 million. T1’s original design is printed as 2 million a year, and the page says traffic has already passed that. A study to take T1 toward 3 million is named. The 2030 aim for the whole airport is printed as 13 million. The project term is 18 months. An opening day, the street of the terminal, a transfer, and an airport code were not on the city page. Check on arrival.",
-    "Ga Hải Phòng is the end of the Hà Nội–Hải Phòng table run by the Hải Phòng rail branch. The branch office on that site is 75 Lương Khánh Thiện, phường Gia Viên. The page does not say that door is the passenger concourse. On the one table opened, HP1 leaves Hà Nội at 06:00 and reaches Hải Phòng at 08:25. LP3 is 09:25 to 12:00, LP5 is 15:15 to 18:00, and LP7 is 18:10 to 20:55. LP7 and LP8 reach or leave Hà Nội only on Saturday, Sunday, and holidays. LP9 is 07:15 to 10:07 and is Saturday only. Back toward Hà Nội, LP2 leaves Hải Phòng at 06:05 and reaches Hà Nội at 08:49. LP6 is 09:10 to 11:52, LP8 is 15:00 to 17:40, HP2 is 18:40 to 21:15, and LP10 is 16:20 to 19:03 and is Sunday only. HP15 runs Hải Dương 06:20 to Hải Phòng 07:17, Monday to Friday, with the Hà Nội cell blank. HP16 runs Hải Phòng 17:30 to Hải Dương 18:35, Monday to Friday, with the Hà Nội cell blank. Fares were not on the table. Check on arrival. A second timetable was not opened.",
-    "The Hà Nội–Hải Phòng expressway is 105.5 km on the operator page, from the Ring Road 3 junction to Đình Vũ port, not to the opera square. Maximum speed on that page is 120 km/h. Six running lanes and two emergency lanes. It opened 5 December 2015. The toll is a closed system with 6 stations. A toll amount and the drive minutes are not printed. Check on arrival. The operator’s page still names Hưng Yên and Hải Dương. Those are the words on that page. The center is a walk: the opera, Tam Bạc, and 66 Điện Biên Phủ. Minutes between them are Check on arrival. Đồ Sơn’s Nghè is a bit more than 20 km from the city. The minutes are Check on arrival.",
-    "The 2020 planning task names huyện đảo Bạch Long Vỹ in the Gulf, separate from the mainland city. The 2019 census table prints 3.10 km² and 624 people. It is not on the 40-place visitor list. No boat table was opened. Check on arrival. Clause 7’s neighbors are Bắc Ninh, Hưng Yên, Quảng Ninh, and the sea. The 2020 planning task’s older border sentence is north Quảng Ninh, west Hải Dương, south Thái Bình, and east the Gulf of Tonkin. Both sentences stay. The administrative contact on the city portal is Tòa B, Trung tâm Chính trị - Hành chính, phường Thủy Nguyên. That campus is not the hotel street."
+    "Cát Bi is the airport, Cảng hàng không quốc tế Cát Bi. On 19 August 2025 the city broke ground for passenger terminal T2 in phường Hải An. ACV is the investor. T2 is about 23,200 m², designed for 5 million passengers a year, with a note that it could be expanded toward 10 million. T1’s original design is printed as 2 million a year, and the page says traffic has already passed that. A study to take T1 toward 3 million is named. The 2030 aim for the whole airport is printed as 13 million. The project term is 18 months. An opening day, the street of the terminal, a transfer, and an airport code were not on the city page.",
+    "Ga Hải Phòng is the end of the Hà Nội–Hải Phòng table run by the Hải Phòng rail branch. The branch office on that site is 75 Lương Khánh Thiện, phường Gia Viên. On the one table opened, HP1 leaves Hà Nội at 06:00 and reaches Hải Phòng at 08:25. LP3 is 09:25 to 12:00, LP5 is 15:15 to 18:00, and LP7 is 18:10 to 20:55. LP7 and LP8 reach or leave Hà Nội only on Saturday, Sunday, and holidays. LP9 is 07:15 to 10:07 and is Saturday only. Back toward Hà Nội, LP2 leaves Hải Phòng at 06:05 and reaches Hà Nội at 08:49. LP6 is 09:10 to 11:52, LP8 is 15:00 to 17:40, HP2 is 18:40 to 21:15, and LP10 is 16:20 to 19:03 and is Sunday only. HP15 runs Hải Dương 06:20 to Hải Phòng 07:17, Monday to Friday, with the Hà Nội cell blank. HP16 runs Hải Phòng 17:30 to Hải Dương 18:35, Monday to Friday, with the Hà Nội cell blank. Fares were not on the table.",
+    "The Hà Nội–Hải Phòng expressway is 105.5 km on the operator page, from the Ring Road 3 junction to Đình Vũ port, not to the opera square. Maximum speed on that page is 120 km/h. Six running lanes and two emergency lanes. It opened 5 December 2015. The toll is a closed system with 6 stations. A toll amount and the drive minutes are not printed. The operator’s page still names Hưng Yên and Hải Dương. Those are the words on that page. The center is a walk: the opera, Tam Bạc, and 66 Điện Biên Phủ. Đồ Sơn’s Nghè is a bit more than 20 km from the city.",
+    "The 2020 planning task names huyện đảo Bạch Long Vỹ in the Gulf, separate from the mainland city. The 2019 census table prints 3.10 km² and 624 people. It is not on the 40-place visitor list. No boat table was opened. Clause 7’s neighbors are Bắc Ninh, Hưng Yên, Quảng Ninh, and the sea. The 2020 planning task’s older border sentence is north Quảng Ninh, west Hải Dương, south Thái Bình, and east the Gulf of Tonkin. Both sentences stay. The administrative contact on the city portal is Tòa B, Trung tâm Chính trị - Hành chính, phường Thủy Nguyên. That campus is not the hotel street."
   ],
   "stayAreas": [
     {
@@ -49,14 +55,14 @@
     },
     {
       "name": "Đồ Sơn peninsula",
-      "summary": "Rooms on the peninsula if the night is the city’s own sand. The Nghè page puts the temple a bit more than 20 km from the city. A beach fee is Check on arrival.",
+      "summary": "Rooms on the peninsula if the night is the city’s own sand. The Nghè page puts the temple a bit more than 20 km from the city.",
       "band": "Peninsula rooms",
       "photo": "hai-phong-do-son"
     }
   ],
   "eat": [
-    "Bánh đa cua is the bowl: red crackers from Dư Hàng Kênh and crab. Cổng du lịch Hải Phòng, on 24 July 2023, puts a full bowl at lunch and says it is sold all day. Liên hiệp các tổ chức hữu nghị thành phố Hải Phòng, on 8 August 2021, calls it the common breakfast and the common evening meal. A price is Check on arrival.",
-    "Bún cá cay, bánh mì cay, and trà cúc are the morning round on that map. Giá bể, bì bò, bánh bèo, dừa dầm, and chè are the afternoon market snacks. Ốc is the evening plate. Nộm sứa, tu hài nướng mỡ hành, and bề bề rang muối are the Đồ Sơn plates named on 16 October 2025. Chả rươi is printed three ways, and all three stay. Market hours are Check on arrival."
+    "Bánh đa cua is the bowl: red crackers from Dư Hàng Kênh and crab. Cổng du lịch Hải Phòng, on 24 July 2023, puts a full bowl at lunch and says it is sold all day. Liên hiệp các tổ chức hữu nghị thành phố Hải Phòng, on 8 August 2021, calls it the common breakfast and the common evening meal.",
+    "Bún cá cay, bánh mì cay, and trà cúc are the morning round on that map. Giá bể, bì bò, bánh bèo, dừa dầm, and chè are the afternoon market snacks. Ốc is the evening plate. Nộm sứa, tu hài nướng mỡ hành, and bề bề rang muối are the Đồ Sơn plates named on 16 October 2025. Chả rươi is printed three ways, and all three stay."
   ],
   "dishSlugs": [
     "banh-da-cua",
@@ -98,8 +104,8 @@
       "title": "Dining and F&B",
       "summary": "Bánh đa cua is the bowl to order. Bún cá cay, bánh mì cay, and the Đồ Sơn plates are the other meals the city portals name.",
       "body": [
-        "Cổng du lịch Hải Phòng on 24 July 2023 and Liên hiệp các tổ chức hữu nghị thành phố Hải Phòng on 8 August 2021 both send you to bánh đa cua. One says lunch and all day. The other says breakfast and the evening. The crackers are from Dư Hàng Kênh, described as thin, soft, and chewy. A bánh đa price is Check on arrival.",
-        "The 2021 account puts pavement tables on Trần Phú opposite the opera from about 18:00 until past midnight. The 2023 map does not name Trần Phú. It names Lạch Tray and other streets. Whether the 2021 clock still holds is Check on arrival. Bánh mì cay carries two printed prices, 2,500 đồng in 2023 and 5,000–7,000 đồng in 2012. Trà cúc is 20,000–25,000 đồng a glass on the 2023 map."
+        "Cổng du lịch Hải Phòng on 24 July 2023 and Liên hiệp các tổ chức hữu nghị thành phố Hải Phòng on 8 August 2021 both send you to bánh đa cua. One says lunch and all day. The other says breakfast and the evening. The crackers are from Dư Hàng Kênh, described as thin, soft, and chewy.",
+        "The 2021 account puts pavement tables on Trần Phú opposite the opera from about 18:00 until past midnight. The 2023 map does not name Trần Phú. It names Lạch Tray and other streets. Whether the 2021 clock still holds. Bánh mì cay carries two printed prices, 2,500 đồng in 2023 and 5,000–7,000 đồng in 2012. Trà cúc is 20,000–25,000 đồng a glass on the 2023 map."
       ],
       "blocks": [
         {
@@ -114,7 +120,7 @@
       "cards": [
         {
           "title": "Dining and F&B",
-          "summary": "Bánh đa cua is red crackers and crab. Bún cá cay, bánh mì cay, and the Đồ Sơn plates are named too. A bánh đa price is Check on arrival.",
+          "summary": "Bánh đa cua is red crackers and crab. Bún cá cay, bánh mì cay, and the Đồ Sơn plates are named too.",
           "photo": "banh-da-cua",
           "icon": "food",
           "to": "food",
@@ -126,8 +132,8 @@
       "title": "Đồ Sơn sand",
       "summary": "The city’s own peninsula and beach, and the buffalo festival’s shore.",
       "body": [
-        "The Nghè page puts the sea-god temple a bit more than 20 km from the city, in phường Vạn Hương, quận Đồ Sơn. The 2026 festival plan says phường Đồ Sơn. Both names stay. The department list includes bãi tắm khu 2. A beach fee and a swim hour were not printed.",
-        "In 2026 the rites use the Đồ Sơn Nghè on 11, 17, 18, and 19 September, and the matches are at 07:30 on 19 September. Next year’s solar dates move with the lunar calendar. Check on arrival. The Lê Chân temple in the center is a different building."
+        "The Nghè page puts the sea-god temple a bit more than 20 km from the city, in phường Vạn Hương, quận Đồ Sơn. The 2026 festival plan says phường Đồ Sơn. The department list includes bãi tắm khu 2.",
+        "In 2026 the rites use the Đồ Sơn Nghè on 11, 17, 18, and 19 September, and the matches are at 07:30 on 19 September. Next year’s solar dates move with the lunar calendar. The Lê Chân temple in the center is a different building."
       ],
       "blocks": [
         {
@@ -135,14 +141,14 @@
           "heading": "The peninsula",
           "nav": "The sand",
           "paragraphs": [
-            "Use the sand and the hill if this is the swim. The Hòn Dấu page calls the shore a long-used resort of sand, hills, and sea. The minutes from the opera are Check on arrival."
+            "Use the sand and the hill if this is the swim. The Hòn Dấu page calls the shore a long-used resort of sand, hills, and sea."
           ]
         }
       ],
       "cards": [
         {
           "title": "Đồ Sơn",
-          "summary": "Sand, water, and the hill, a bit more than 20 km from the center. Not Hạ Long and not Cát Bà. A fee and the minutes are Check on arrival.",
+          "summary": "Sand, water, and the hill, a bit more than 20 km from the center. Not Hạ Long and not Cát Bà.",
           "attractionSlug": "do-son",
           "photo": "hai-phong-do-son",
           "icon": "beach",
@@ -154,7 +160,7 @@
       "title": "The carved halls",
       "summary": "Dư Hàng is the pagoda to walk. Hàng Kênh and the Lê Chân temple are the other carved halls on the city pages.",
       "body": [
-        "The Dư Hàng page gives a seven-bay Buddha hall, a three-storey bell tower, and a bell inscribed Phúc Lâm tự chung. It places the pagoda in phường Hồ Nam, quận Lê Chân. Ranked a historic relic in 1986. A fee and a gate hour were not printed.",
+        "The Dư Hàng page gives a seven-bay Buddha hall, a three-storey bell tower, and a bell inscribed Phúc Lâm tự chung. It places the pagoda in phường Hồ Nam, quận Lê Chân. Ranked a historic relic in 1986.",
         "Hàng Kênh is the seven-bay ironwood hall on Nguyễn Công Trứ, with a boat-shaped plank floor and nearly 400 dragons, ranked in 1962. The Lê Chân temple, Đền Nghè, sits where the Tam Bạc meets the Cấm. The page says the solid building is 1919 and the hội runs from the 8th to the 10th of lunar month 2."
       ],
       "blocks": [
@@ -170,23 +176,36 @@
       "cards": [
         {
           "title": "Du Hang pagoda",
-          "summary": "Phúc Lâm tự in Hồ Nam. The page gives a seven-bay hall and a three-storey bell tower. A fee and a gate hour are Check on arrival.",
+          "summary": "Phúc Lâm tự in Hồ Nam. The page gives a seven-bay hall and a three-storey bell tower.",
           "attractionSlug": "du-hang-pagoda",
           "photo": "hai-phong-du-hang-pagoda",
           "icon": "museum",
           "block": "pagoda"
         }
       ]
+    },
+    {
+      "title": "Shopping",
+      "summary": "Chợ Sắt behind Tam Bạc, Chợ Cát Bi, and the afternoon markets.",
+      "cards": [
+        {
+          "title": "Shopping",
+          "summary": "Chợ Sắt, Chợ Cát Bi, and chợ Cố Đạo, Chu Văn An, and An Dương.",
+          "icon": "view",
+          "placeSlug": "hai-phong",
+          "photo": "hai-phong"
+        }
+      ]
     }
   ],
   "season": {
     "label": "Peninsula rite week",
-    "note": "In 2026 the buffalo final is 07:30 on 19 September at the Đồ Sơn stadium, with rites from 11 to 26 September. Next year’s solar dates move with the lunar calendar. The flamboyant month on the opera strip is not named. A storm rule for the expressway or the Hòn Dấu boat is Check on arrival."
+    "note": "In 2026 the buffalo final is 07:30 on 19 September at the Đồ Sơn stadium, with rites from 11 to 26 September. Next year’s solar dates move with the lunar calendar."
   },
   "faqs": [
     {
       "q": "Should you stay in Hai Phong, Cat Ba, or Ha Long?",
-      "a": "Stay in Hai Phong if the night is the opera square and Tam Bạc, or the city’s own sand at Đồ Sơn. Stay on Cat Ba if the island and Lan Ha are the trip. Stay in Ha Long if the bay cruise is the trip. Boat minutes to Cat Ba and road minutes to Ha Long were not on a timetable. Check on arrival."
+      "a": "Stay in Hai Phong if the night is the opera square and Tam Bạc, or the city’s own sand at Đồ Sơn. Stay on Cat Ba if the island and Lan Ha are the trip. Stay in Ha Long if the bay cruise is the trip. Boat minutes to Cat Ba and road minutes to Ha Long were not on a timetable."
     },
     {
       "q": "How big is the city after 2025?",
@@ -194,7 +213,7 @@
     },
     {
       "q": "Is there a train from Hanoi?",
-      "a": "On the one table opened, HP1 leaves Hà Nội at 06:00 and reaches Hải Phòng at 08:25. HP2 leaves Hải Phòng at 18:40 and reaches Hà Nội at 21:15. LP7, LP8, LP9, and LP10 run only on the days that table names. Fares were not printed. Check on arrival. The station street was not printed as the branch office at 75 Lương Khánh Thiện."
+      "a": "On the one table opened, HP1 leaves Hà Nội at 06:00 and reaches Hải Phòng at 08:25. HP2 leaves Hải Phòng at 18:40 and reaches Hà Nội at 21:15. LP7, LP8, LP9, and LP10 run only on the days that table names. The station street was not printed as the branch office at 75 Lương Khánh Thiện."
     }
   ]
 }
