@@ -107,7 +107,147 @@ Dishes are from Dân Việt, 2 Oct 2022 (S12), and from what Thanh Niên shows p
 - Neighbor dish to link: none
 - Sources: S12, S14
 
-Breakfast, a sweet, and a local drink were not named on the pages opened. Check on arrival — UNSOURCED. Salt is the thing people carry home, and it is in interests, not a dish.
+Breakfast was not named on the pages opened on 22 Oct 2026. A later pass, on 23 Oct 2026, found a drink and fruit. A breakfast bowl and a dessert sweet are still unnamed. Check on arrival — UNSOURCED. Salt is the thing people carry home, and it is in interests, not a dish.
+
+## Added 23 Oct 2026
+
+Checked 23 Oct 2026. These plates are in addition to the list above. A shop name stays under Notes, not pages. Stall prices from 2016, 2019, and 2022 are recorded with the publisher and the date. No single current price was chosen. Public price fields stay Check on arrival.
+
+### Khô cá dứa
+- Vietnamese name: khô cá dứa; cá dứa một nắng
+- What it is: Dried sea catfish. Dân Việt, 28 Apr 2024 (S21), prints the one-sun method: split, wash, salt at about 10 kg fish to 1 kg salt for about an hour, wash, dry one sun. Fry or grill. The same story names gỏi khô, cơm cháy, cơm vắt, and a soup, without methods. Sài Gòn Giải Phóng, 17 Feb 2014 (S22), prints one company and 25 processors, and 36 tons a year at the company with a registered mark. Tuổi Trẻ, 14 Oct 2016 (S23), prints 60 producers and about 150 tons a year. Both counts stay. Tuổi Trẻ the same day prints three prices: shops at 200,000–250,000 VND a kilogram, a maker’s line that 150,000–200,000 is not the real fish, and a district figure of 370,000–470,000. A 2026 price was not printed.
+- How to eat it: Fried or grilled, or carried home.
+- When to order it: As a gift, or a plate when a kitchen fries it.
+- Area, not a shop: a producer the district supervises. No street was printed. Check on arrival — the address is UNSOURCED.
+- Meal: main, or a thing to carry home
+- Sources: S21, S22, S23
+
+### Gỏi cá thòi lòi trộn lá lìm kìm
+- Vietnamese name: gỏi cá thòi lòi trộn lá lìm kìm
+- What it is: Mudskipper salad. Dân Việt, 28 Apr 2024 (S21), calls the fish a white goby that climbs trees and runs on mud, with sweet, fragrant, soft flesh. The leaf method is printed. How the fish is cooked is not. Check on arrival — UNSOURCED for the fish cook.
+- How to eat it: With the leaf salad. The story pairs it with rượu mật ong rừng Sác.
+- When to order it: Check on arrival — UNSOURCED.
+- Area, not a shop: no street printed. Check on arrival — UNSOURCED.
+- Meal: main
+- Sources: S21
+
+### Gỏi lá lìm kìm
+- Vietnamese name: gỏi lá lìm kìm
+- What it is: A different leaf salad. VnExpress, 22 Sep 2021 (S24), serves it with cá bống sao fried crisp, or dried fish, and also names tôm thẻ as a mix-in. The sauce is sweet-sour nước mắm with garlic and chili at a 1:1 ratio. From April through October the leaf is thin and barely salty. In the dry months it is thicker and saltier. Pick at dawn.
+- How to eat it: Leaves left whole, with herbs, thin onion, and roasted peanuts.
+- When to order it: At an eco park. No gate was named.
+- Area, not a shop: eco parks in Cần Giờ. Check on arrival — UNSOURCED for the gate.
+- Meal: main
+- Sources: S24
+
+### Canh lá lìm kìm
+- Vietnamese name: canh lá lìm kìm
+- What it is: Everyday soup of the same leaf with tôm and tép. VnExpress says do not add salt (S24).
+- How to eat it: As a home soup.
+- When to order it: With an ordinary meal.
+- Area, not a shop: no street. Check on arrival — UNSOURCED.
+- Meal: main
+- Sources: S24
+
+### Canh chua cá khoai
+- Vietnamese name: canh chua cá khoai
+- What it is: Sour soup. Dân Việt says the fish lives mainly in central Vietnam and that this soup became a Cần Giờ plate. Pineapple, tamarind, tomato, bean sprouts, ngổ, spring onion (S21).
+- How to eat it: As a soup.
+- When to order it: Check on arrival — UNSOURCED.
+- Area, not a shop: no street. Check on arrival — UNSOURCED.
+- Meal: main
+- Sources: S21
+
+### Vịt nước mặn
+- Vietnamese name: vịt nước mặn Vàm Sát
+- What it is: Brackish duck. People told Dân Việt it feeds with the tide and eats seafood. The cook called best is nướng rơm, with a pepper and lemongrass dip (S21).
+- How to eat it: Grilled in straw.
+- When to order it: Check on arrival — UNSOURCED.
+- Area, not a shop: Vàm Sát. No gate. Check on arrival — UNSOURCED.
+- Meal: main
+- Sources: S21
+
+### Cá đối nổ muối hột
+- Vietnamese name: cá đối nổ muối hột; cá đối buôi
+- What it is: Mullet cooked in popping coarse salt, then rolled in rice paper with forest leaves (S21).
+- How to eat it: In rice paper.
+- When to order it: Check on arrival — UNSOURCED.
+- Area, not a shop: no street. Check on arrival — UNSOURCED.
+- Meal: main
+- Sources: S21
+
+### Sam trứng nướng
+- Vietnamese name: sam trứng nướng
+- What it is: Horseshoe crab with eggs, grilled on charcoal, then shredded with spring onion, garlic, chili, cilantro, and peanuts (S21).
+- How to eat it: After it is shredded.
+- When to order it: Check on arrival — UNSOURCED.
+- Area, not a shop: no street. Check on arrival — UNSOURCED.
+- Meal: main
+- Sources: S21
+
+### Lẩu ba khía lá buôi
+- Vietnamese name: lẩu ba khía lá buôi; rau bộ đội
+- What it is: Mangrove-crab hotpot. The leaf is nutty and is cooked through. Dân Việt ties the leaf to Rừng Sác meals and then to home cooking. Ba khía is also made into mắm (S21).
+- How to eat it: Shared, after a day on the creeks.
+- When to order it: Check on arrival — UNSOURCED.
+- Area, not a shop: no street. Check on arrival — UNSOURCED.
+- Meal: main
+- Sources: S21
+
+### Địa sâm
+- Vietnamese name: địa sâm
+- What it is: Fresh or dried. Fresh is grilled, stir-fried, fried, or porridge. Dried sweetens a cooking liquid. The species was not printed (S21).
+- How to eat it: One of those four cooks, or as a sweetener.
+- When to order it: Check on arrival — UNSOURCED.
+- Area, not a shop: no street. Check on arrival — UNSOURCED.
+- Meal: main
+- Sources: S21
+
+### Rượu mật ong rừng Sác
+- Vietnamese name: rượu mật ong rừng Sác
+- What it is: The drink Dân Việt puts with the mudskipper salad. No recipe (S21).
+- How to eat it: With that salad.
+- When to order it: With the salad.
+- Area, not a shop: no shop. Check on arrival — UNSOURCED.
+- Meal: drink
+- Sources: S21
+
+### Xoài cát and mãng cầu
+- Vietnamese name: xoài cát Cần Giờ; mãng cầu
+- What it is: Hòa Lộc mango, called cool-sweet. Sài Gòn Giải Phóng, 17 Feb 2014, prints 300 ha, 13.8 ha VietGAP, and 1,500 tons a year (S22). Mãng cầu is not very large, chewy, sweet, thick-fleshed. Those are 2014 figures.
+- How to eat it: As fruit.
+- When to order it: Check on arrival — UNSOURCED.
+- Area, not a shop: no stall. Check on arrival — UNSOURCED.
+- Meal: fruit
+- Sources: S22
+
+### Cua cúm, tôm, and the 2014 snails
+- Vietnamese name: cua cúm; tôm sú; tôm sắt; tôm đất; tôm gạch son; gỏi chua ốc đụn; ốc giác; ốc hương biển hấp sả; ốc mỡ xào me
+- What it is: Sài Gòn Giải Phóng, 17 Feb 2014 (S22). Cua cúm is a black mangrove crab with a rough shell. Tôm is mostly tôm sú, plus tôm sắt, tôm đất, and tôm gạch son around lunar months 3 and 4. A cook for the shrimp and for cua cúm was not printed. The snails are named as plates. Ốc giác is chewy and crisp. Ốc mỡ is sweet and soft. Thanh Niên, 11 Mar 2019, captions ốc mỡ rang me (S14). Both ốc mỡ cooks stay. A diner in S12 ordered ốc hương without a cook.
+- How to eat it: As named. Where a cook is missing, Check on arrival — UNSOURCED.
+- When to order it: Check on arrival — UNSOURCED, except lunar months 3 and 4 for tôm gạch son.
+- Area, not a shop: no street in S22. Hàng Dương for the 2019 ốc mỡ caption.
+- Meal: main
+- Sources: S22, S14, S12
+
+### Ghẹ nấu bầu and the market pan
+- Vietnamese name: ghẹ nấu bầu
+- What it is: Already partly in the market entry. Dân Việt names ghẹ nấu bầu without a method (S12). Cook fees: Thanh Niên, 11 Mar 2019, 10,000 VND a kilogram steamed and 30,000 for the other named cooks (S14). VnExpress, updated 28 Feb 2025, says a few tens of thousands of đồng and adds hấp xả lá chanh (S25). Both stay. One 2019 caption prints ghẹ at 450,000 VND a kilogram. A 2026 board was not opened.
+- How to eat it: Point at a live crab, or order ghẹ nấu bầu in town.
+- When to order it: From the 2019 seller’s day, about 7:00 to about 21:00. A bylaw was not opened. Check on arrival — UNSOURCED for the market clock.
+- Area, not a shop: Hàng Dương, or the town streets
+- Meal: main
+- Sources: S12, S14, S25
+
+### Lẩu cá ngát, cá bóp, cá mao
+- Vietnamese name: lẩu cá ngát; lẩu cá bóp; lẩu cá mao
+- What it is: Named with the other pots in S12. No separate method. Not published as their own plates.
+- How to eat it: As a shared pot, in the cá dứa account.
+- Sources: S12
+
+Nghêu beds are in S22. No nghêu plate was named. Not a dish.
+
+The Visit HCMC article at visithcmc.vn/tin-tuc/du-lich-huyen-can-gio redirected to the news index on 23 Oct 2026. A restaurant list seen only in a search index was not used.
 
 ## Food streets and markets
 
