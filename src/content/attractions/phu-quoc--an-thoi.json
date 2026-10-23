@@ -1,0 +1,53 @@
+{
+  "slug": "an-thoi",
+  "placeSlug": "phu-quoc",
+  "name": "An Thoi",
+  "nameVi": "An Thới",
+  "kicker": "Fishing harbour at the south end",
+  "summary": "South harbour: look over the fishing fleet, then take a short boat to the An Thới islets. The land run is about 30 km southeast of Dương Đông. The island account describes white sand, turquoise water, and a small seafood stop on that boat. The day account adds the deserted islands of the archipelago by boat or kayak, with a picnic. Keep the sunset on the west coast.",
+  "dots": 3,
+  "district": "The south",
+  "timeNeeded": "A south day",
+  "fee": "Check on arrival",
+  "getThere": "About 30 km southeast of Dương Đông",
+  "verified": "23 Oct 2026",
+  "heroCaption": "An Thới port from above, with piers, the fleet, and the green headland",
+  "body": [
+    "Look over the fishing fleet in An Thới, then take the boat. The district account names ports at An Thới and Hòn Thơm. Vietnam National Authority of Tourism’s island account sends a short boat to Fingernail Island in the An Thoi Archipelago for a swim and a snorkel, and it describes white sand, turquoise water, a jungle backdrop, and a small seafood stop. The day account says the afternoon can be the deserted islands of the archipelago by boat or kayak, with a picnic. “Short” is that page’s word for the boat.",
+    "The prison’s about 30 km southeast of Dương Đông is the land distance to An Thới. The cable-car station is about 31 km from Dương Đông, at Bãi Đất Đỏ, and the line crosses above this harbour. Give the harbour, the prison, and the cable car one south day. The west-coast sunset stays on Bãi Trường."
+  ],
+  "figures": [
+    {
+      "id": "phu-quoc-an-thoi-2",
+      "caption": "The An Thới fishing fleet, with the cable-car tower on the shore behind",
+      "alt": "Dozens of fishing boats in An Thoi harbour, Phu Quoc"
+    }
+  ],
+  "gettingThere": [
+    "Ride south to An Thới. The prison page puts thị trấn An Thới about 30 km southeast of Dương Đông. The cable car leaves from Bãi Đất Đỏ, about 31 km from Dương Đông, and crosses the water above the harbour. A taxi, a minibus, or a motorbike is the land ride."
+  ],
+  "legs": [
+    {
+      "heading": "From Dương Đông",
+      "body": "About 30 km southeast to An Thới on the prison account, or about 31 km to the cable-car station on the operator account. The boat to the islets leaves from this south end."
+    },
+    {
+      "heading": "From the cable car",
+      "body": "The line crosses above the An Thới fleet on the way to Hòn Thơm. The harbour is the stop on the ground, and the islets are the short boat the island account describes."
+    }
+  ],
+  "hours": "Check on arrival",
+  "links": [
+    {
+      "label": "Island hopping",
+      "url": "https://vietnam.travel/things-to-do/island-hopping-in-phu-quoc",
+      "note": "Vietnam National Authority of Tourism"
+    },
+    {
+      "label": "District account",
+      "url": "https://vietnamtourism.vn/index.php/tourism/items/2565",
+      "note": "Ports at An Thới and Hòn Thơm"
+    }
+  ],
+  "interests": ["islands"]
+}

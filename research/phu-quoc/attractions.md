@@ -461,3 +461,11 @@ Districts that deserve their own page: none. Dương Đông and An Thới were w
 - Suggested slug: north-morning
 - Photo must show: the northern sand, the water, and the forest on the shore, subject through the centre.
 - Sources: S3, S4
+
+## Photo pass, 23 Oct 2026
+
+Published, each with a Commons frame of that subject opened and kept, plus a second frame: long-beach, sao, dinh-cau, night-market, prison, hon-thom, suoi-tranh, ho-quoc, fish-sauce, safari, sung-hung, an-thoi, pepper, cau-hon, ham-ninh, nguyen-trung-truc. Per-sight notes are in `research/phu-quoc/attractions/<slug>.md`. Cable-car tariffs were re-opened (S40). Suối Tranh’s bureau page was opened (S36). Ho Quoc uses S37 and S38. The sunset account (S35) is the shrine and Ông Lang.
+
+unpublished: no licensed photo — Gành Dầu beach, Ông Lang beach (sourced on S35 and S39, no frame of that sand), Bãi Thơm, Starfish Beach, Bãi Khem, Cay Sao, Cửa Cạn, the national park (jungle frames on Commons are not identified as the park), the pearl workshop (the opened shop is a crowd, and a second frame is jade, not pearls), Dương Đông as a town pin (the opened shore is a grey wash).
+
+Safari ticket page S17 timed out on 23 Oct 2026. The figures stay from the 22 Oct 2026 open. vietnamtourism.vn news item 11767, the Ho Quoc item, timed out. dulich.phuquoc.gov.vn Ông Lang timed out. Blog ticket tables for Suối Tranh were not used.

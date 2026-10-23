@@ -1,0 +1,53 @@
+{
+  "slug": "nguyen-trung-truc",
+  "placeSlug": "phu-quoc",
+  "name": "Nguyen Trung Truc Shrine",
+  "nameVi": "Đền thờ Nguyễn Trung Trực",
+  "kicker": "Shrine by the Ông Lang sand",
+  "summary": "Shrine by Ông Lang: follow the short path off the beach and leave incense in the courtyard. Vietnam National Authority of Tourism places Ông Lang just north of Dương Đông, a crescent of sandy bays split by black volcanic rock, with the sunset over the open west. The shrine is the stop at the end of that path. The beach itself is the swim.",
+  "dots": 3,
+  "district": "The north",
+  "timeNeeded": "A short stop",
+  "fee": "Check on arrival",
+  "getThere": "A short path off Ông Lang, just north of Dương Đông",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The shrine hall at the end of the courtyard, under a tiled roof and a flag",
+  "body": [
+    "Follow the path off Ông Lang and leave incense in the courtyard. Vietnam National Authority of Tourism’s sunset account places Ong Lang Beach just north of Duong Dong, a line of sandy bays split by slabs of black volcanic rock, with orchards and gardens behind a thin white-sand shore and the sunset over the open west. It sends you along a tiny path to the Nguyen Trung Truc shrine, where locals leave incense. The family-beach account calls the bays sheltered and quiet, with a few boutique resorts.",
+    "The shrine is the hall, the garden, and the courtyard. Gành Dầu, farther north, is the cape where the mountain comes down to the sand. Ông Lang is the shore between that cape and the town. Swim the bays, walk the path, and keep Bãi Trường as the beach the west-coast night is built on."
+  ],
+  "figures": [
+    {
+      "id": "phu-quoc-nguyen-trung-truc-2",
+      "caption": "The same courtyard in the rain, with the hall and the garden beds",
+      "alt": "Nguyen Trung Truc shrine courtyard in the rain on Phu Quoc"
+    }
+  ],
+  "gettingThere": [
+    "Ông Lang is just north of Dương Đông on the sunset account. The shrine is a short path off that beach. Ride north from town along the west coast. The family-beach account calls the bays sheltered."
+  ],
+  "legs": [
+    {
+      "heading": "From Dương Đông",
+      "body": "North along the west coast to Ông Lang, then the short path to the shrine. The sunset account puts the beach just north of the town."
+    },
+    {
+      "heading": "From Gành Dầu",
+      "body": "Gành Dầu is the cape farther north, where the mountain meets the sand. Ông Lang is the shore between that cape and Dương Đông. The shrine is on the Ông Lang side."
+    }
+  ],
+  "hours": "Check on arrival",
+  "links": [
+    {
+      "label": "Sunset account",
+      "url": "https://vietnam.travel/things-to-do/sunset-in-phu-quoc",
+      "note": "Vietnam National Authority of Tourism"
+    },
+    {
+      "label": "Family beaches",
+      "url": "https://vietnam.travel/things-to-do/beaches-perfect-for-families",
+      "note": "Ông Lang Beach"
+    }
+  ],
+  "interests": ["islands"]
+}

@@ -13,6 +13,6 @@ Food pass, 23 Oct 2026: four more Vietnam National Authority of Tourism accounts
 
 ## Licensed photos opened
 
-Usable for that subject: the place hero and the Long Beach card, which are the same Commons file `Phu-Quoc-Long-Beach.jpg`, and Sao Beach, Commons `Star_Beach_(Bãi_Sao).jpg`.
+Usable for that subject, as of the 23 Oct 2026 photo pass: Long Beach (hero plus a rocky-shallows second), Sao Beach (hero plus a boat in the shallows), Dinh Cậu, the Dinh Cậu night market, the prison memorial and compound, the Hòn Thơm cable car, Suối Tranh, Chùa Hộ Quốc, the fish-sauce vats, Vinpearl Safari rhinos, Sùng Hưng, An Thới harbour, the pepper garden, Cầu Hôn, Hàm Ninh pier and market, and the Nguyễn Trung Trực shrine. Credits are appended in `public/photos/credits.json`.
 
-No licensed photo of the subject: Dinh Cậu, the national park, the prison, the cable car, the safari, Hàm Ninh, Gành Dầu, Bãi Thơm, Starfish Beach, the barrel houses, the pepper gardens, the pearl stalls, the night market, and the plates.
+unpublished: no licensed photo — Gành Dầu beach, Ông Lang beach, Bãi Thơm, Starfish Beach, Bãi Khem, Cay Sao, Cửa Cạn, the national park, the pearl workshop, and a Dương Đông town pin.

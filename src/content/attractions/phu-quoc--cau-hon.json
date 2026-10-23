@@ -1,0 +1,58 @@
+{
+  "slug": "cau-hon",
+  "placeSlug": "phu-quoc",
+  "name": "Kiss Bridge",
+  "nameVi": "Cầu Hôn",
+  "kicker": "West-facing bridge at Sunset Town",
+  "summary": "West-facing bridge at Sunset Town: walk out to the 30 cm gap for the south-island sunset. Sun World places Cầu Hôn on the beach at Thị trấn Hoàng Hôn, about 31 km from Dương Đông, with the middle left open by 30 cm. The cable ticket does not include the bridge or the Kiss of the Sea show. Give it the end of a south day.",
+  "dots": 4,
+  "district": "The south",
+  "timeNeeded": "Sunset",
+  "fee": "Check on arrival",
+  "getThere": "About 31 km from Dương Đông, at Sunset Town",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Kiss Bridge at sunset, the two spans stopping short over the water",
+  "notice": {
+    "title": "The cable ticket skips the bridge",
+    "body": "From 1 January 2026 the Hòn Thơm return ticket includes the cable car, the park, Làng Exotica, and Aquatopia. Cầu Hôn and the Kiss of the Sea show are paid extras."
+  },
+  "body": [
+    "Walk the bridge out over the west-facing beach and stop at the gap. Sun World’s about page calls Cầu Hôn a new landmark at Sunset Town, on the beach that faces due west at Thị trấn Hoàng Hôn. The middle is left open by 30 cm. The same page describes Kiss of the Sea as water, fire, laser, light, music, projection, fireworks, and a stage piece. The 2026 price notice lists both the bridge and the show as paid services outside the cable ticket.",
+    "Ga Ánh Dương, where the cable car starts, is the station at this town, about 31 km from thị trấn Dương Đông and about 21 km from the airport. The booked sunset for a room on the west coast is still Bãi Trường. This bridge is the south-island sunset, at the end of the cable-car day."
+  ],
+  "figures": [
+    {
+      "id": "phu-quoc-cau-hon-2",
+      "caption": "Kiss Bridge in daylight, from the sand and the palms at Sunset Town",
+      "alt": "Kiss Bridge stretching over the water beside a palm beach at Sunset Town"
+    }
+  ],
+  "gettingThere": [
+    "Cầu Hôn is at Thị trấn Hoàng Hôn, on the beach by ga Ánh Dương. Sun World puts that station about 31 km from thị trấn Dương Đông and about 21 km from the airport, at Bãi Đất Đỏ. Ride south with the cable-car day and stay for the light."
+  ],
+  "legs": [
+    {
+      "heading": "From Dương Đông",
+      "body": "About 31 km south to Sunset Town. The bridge is on the beach at the cable-car station."
+    },
+    {
+      "heading": "From the airport",
+      "body": "About 21 km to ga Ánh Dương. The bridge is the walk on the sand once you are at the station."
+    }
+  ],
+  "hours": "Check on arrival",
+  "admissionNote": "The 2026 cable-car notice lists Cầu Hôn and Kiss of the Sea as paid extras. The about page describes the 30 cm gap and the show.",
+  "links": [
+    {
+      "label": "Cable car and the bridge",
+      "url": "https://sunworld.vn/vi/hon-thom/an-choi/cap-treo-hon-thomhtml",
+      "note": "Sun World Hon Thom"
+    },
+    {
+      "label": "2026 ticket notice",
+      "url": "https://sunworld.vn/vi/hon-thom/di-chuyen/thong-bao-bang-gia-tai-sun-world-phu-quoc-tu-24-04-2023html",
+      "note": "Cầu Hôn sits outside the cable ticket"
+    }
+  ],
+  "interests": ["islands"]
+}

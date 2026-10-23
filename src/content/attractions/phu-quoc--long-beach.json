@@ -4,29 +4,40 @@
   "name": "Long Beach",
   "nameVi": "Bãi Trường",
   "kicker": "West-coast sand at Bãi Trường",
-  "summary": "Swim and stay for sunset on Bãi Trường, about 20 km of west-coast sand from Mũi Dinh Cậu to Khóe Tàu Rũ. Cục Du lịch Quốc gia Việt Nam calls the sand yellow. Vietnam National Authority of Tourism does not name a colour, and it puts the music and the food on this shore.",
+  "summary": "West-coast beach: swim and walk about 20 km of sand, then stay for sunset over the Gulf. Cục Du lịch Quốc gia Việt Nam calls the sand yellow and gently sloping, with water clear enough to see the seaweed, and names sunrise and sunset. Vietnam National Authority of Tourism puts the swimming, the food, the cocktails, and the live music on this shore. Give the beach the day.",
   "dots": 4,
   "district": "West coast",
   "timeNeeded": "A beach day",
   "fee": "Check on arrival",
-  "getThere": "Southwest shore, from Mũi Dinh Cậu to Khóe Tàu Rũ",
+  "getThere": "On the southwest shore if the room faces the sand",
   "bestMonths": "November–April, and lunar month 11 to lunar month 4",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "Storm light on Bãi Trường, with the palms and the shore building",
-  "hours": "Check on arrival",
+  "body": [
+    "Swim, walk, and eat on Bãi Trường, then stay for the sun going down over the Gulf. Cục Du lịch Quốc gia Việt Nam places the beach on the southwest shore, about 20 km from Mũi Dinh Cậu to Khóe Tàu Rũ, a gently sloping yellow sand and clear green water in which you can see the seaweed. Vietnam National Authority of Tourism puts sunbathing, water activities, music, food, cocktails, live music, DJs, and fire shows on this west coast, and calls it a place to watch the sun set over the ocean. The day account calls the beach the heart of the island’s social life. Both descriptions stay.",
+    "The published frame is storm light: grey surf, tan sand, palms, a thatched shade, and a low building. It is this shore. It is the daytime weather, and the sunset the tourism pages describe is a later hour on the same sand. Bãi Sao is the southeast swim, about 25 minutes from Dương Đông on the bureau account. Keep the sunset here."
+  ],
+  "figures": [
+    {
+      "id": "phu-quoc-long-beach-2",
+      "caption": "Rocky shallows on Bãi Trường, with clear water over the sand",
+      "alt": "Dark rocks in clear shallow water on Long Beach, Phu Quoc"
+    }
+  ],
   "gettingThere": [
-    "Bãi Trường runs about 20 km along the southwest shore, from Mũi Dinh Cậu to Khóe Tàu Rũ. Stay on it if the room faces the sand. The airport is in Duong To, and the road minutes from there are Check on arrival."
+    "Bãi Trường runs about 20 km along the southwest shore, from Mũi Dinh Cậu to Khóe Tàu Rũ. Stay on it when the room faces the sand. Phu Quoc International Airport is in Duong To, and Sun Group has operated it since 1 January 2026."
   ],
   "legs": [
     {
       "heading": "From Dương Đông",
-      "body": "The beach starts at Mũi Dinh Cậu, on the town shore. Minutes along the sand are Check on arrival. Dinh Cậu is the temple at that north end, for the late afternoon."
+      "body": "The beach starts at Mũi Dinh Cậu, on the town shore. Dinh Cậu is the temple at that north end, for the late afternoon."
     },
     {
       "heading": "From the airport",
-      "body": "Phu Quoc International Airport is in Duong To. Sun Group has operated it since 1 January 2026. The road minutes to the beach are Check on arrival."
+      "body": "Phu Quoc International Airport is in Duong To. Sun Group has operated it since 1 January 2026. A motorbike, a taxi, a minibus, or a coach is the ride Vietnam National Authority of Tourism names for the island."
     }
   ],
+  "hours": "Check on arrival",
   "links": [
     {
       "label": "Bãi Trường",

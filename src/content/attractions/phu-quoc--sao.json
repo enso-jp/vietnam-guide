@@ -4,29 +4,45 @@
   "name": "Sao Beach",
   "nameVi": "Bãi Sao",
   "kicker": "Southeast swim at Bãi Sao",
-  "summary": "Swim at Bãi Sao, about 25 minutes from Dương Đông, and come early on a weekday. Cục Du lịch Quốc gia Việt Nam calls the sand cát vàng óng. Vietnam National Authority of Tourism calls it powder-white, and also white. Sunset stays on Long Beach.",
+  "summary": "Southeast beach: swim the calm shallows for a half day, and come early on a weekday. The road from Dương Đông is about 25 minutes on the bureau account and about 25 km on the 3-day account, along a shore of over 7 km. The sand is cát vàng óng, powder-white, and white, depending on the account. Entrance and parking are free. The sunset beach is Long Beach.",
   "dots": 4,
   "district": "Southeast",
   "timeNeeded": "Half a day",
-  "fee": "Check on arrival",
+  "fee": "Free",
   "getThere": "About 25 minutes by road from Dương Đông",
   "bestMonths": "November–April, and lunar month 11 to lunar month 4",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "Pale sand, shallow water, and the forested hill at Bãi Sao",
-  "hours": "Check on arrival",
+  "notice": {
+    "title": "The sunset is on Long Beach",
+    "body": "Bãi Sao is the southeast swim and the sunrise on the island account. Schedule the Gulf sunset on Bãi Trường."
+  },
+  "body": [
+    "Swim and walk Bãi Sao, and come early on a weekday if you want the shore quiet. Cục Du lịch Quốc gia Việt Nam says the sand is cát vàng óng, fine like a carpet, the sea calm and clear, with green shade trees, Robinson huts, and hammocks. Vietnam National Authority of Tourism calls it powder-white on the island place page and white on the 3-day account, with coconut palms, green hills, and the island’s sunrise. All three colours stay. The 3-day account says the shore runs over 7 km and that entrance and parking are free.",
+    "The bureau puts the beach about 25 minutes by road from the centre of Dương Đông. The 3-day account says about 25 km from the centre, near An Thới. Both figures stay. A boat goes 15–30 km offshore for squid, and the bureau names cùi biên mai nướng and rượu sim rừng. Jet skis, a water park, and parasailing are on the island account. Give the beach a half day from the west coast, or the full day if you stay for the swim and the shade."
+  ],
+  "figures": [
+    {
+      "id": "phu-quoc-sao-2",
+      "caption": "A fishing boat in the shallows, with the hill behind Bãi Sao",
+      "alt": "A turquoise fishing boat in clear shallow water at Sao Beach, Phu Quoc"
+    }
+  ],
   "gettingThere": [
-    "Cục Du lịch Quốc gia Việt Nam puts Bãi Sao about 25 minutes by road from the centre of Dương Đông. Vietnam National Authority of Tourism places it at the southern tip and does not give minutes. Come early on a weekday. The sunrise is here. The sunset beach is Long Beach."
+    "Cục Du lịch Quốc gia Việt Nam puts Bãi Sao about 25 minutes by road from the centre of Dương Đông. Vietnam National Authority of Tourism’s 3-day account puts it about 25 km from the centre, near An Thới, and says entrance and parking are free. A taxi, a minibus, or a motorbike is the ride the island account names."
   ],
   "legs": [
     {
       "heading": "From Dương Đông",
-      "body": "About 25 minutes by road from the centre of town. Kilometres are Check on arrival. A taxi, a minibus, or a motorbike is the ride Vietnam National Authority of Tourism names for the island."
+      "body": "About 25 minutes by road from the centre of town on the bureau account, or about 25 km on the 3-day account. Come early on a weekday."
     },
     {
       "heading": "From Long Beach",
-      "body": "A half day from the west coast. Do not schedule Bãi Sao as the sunset. The boat for squid goes 15–30 km offshore. The fare is Check on arrival."
+      "body": "A half day from the west coast. The sunrise is here. The boat for squid goes 15–30 km offshore."
     }
   ],
+  "hours": "Check on arrival",
+  "admissionNote": "Vietnam National Authority of Tourism’s 3-day account says entrance and parking are free. Jet skis, a water park, and parasailing are named on the island-hopping account. Those activity prices were left off both pages.",
   "links": [
     {
       "label": "Bãi Sao",
@@ -35,8 +51,8 @@
     },
     {
       "label": "Sao Beach",
-      "url": "https://vietnam.travel/places-to-go/mekong-delta/phu-quoc",
-      "note": "Vietnam National Authority of Tourism"
+      "url": "https://vietnam.travel/things-to-do/explore-phu-quoc-island-3-days-2-nights",
+      "note": "Vietnam National Authority of Tourism, 3-day account"
     }
   ],
   "interests": ["beaches"]

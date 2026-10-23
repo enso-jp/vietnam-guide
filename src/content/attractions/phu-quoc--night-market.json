@@ -1,0 +1,58 @@
+{
+  "slug": "night-market",
+  "placeSlug": "phu-quoc",
+  "name": "Dinh Cau Night Market",
+  "nameVi": "Chợ đêm Dinh Cậu",
+  "kicker": "Night market beside the rock temple",
+  "summary": "Night market by Dinh Cậu: point at the catch and eat it from 5 pm until midnight. The night account closes the streets by the rock temple to traffic, with 100-odd stalls and more than half of them food. The 3-day account puts a night market on Bạch Đằng with 50-plus stalls. The day account says more than a hundred vendors. Treat the three names as separate pins.",
+  "dots": 4,
+  "district": "Duong Dong",
+  "timeNeeded": "An evening",
+  "fee": "Check on arrival",
+  "getThere": "The streets beside Dinh Cậu, in Dương Đông",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The evening aisle at Chợ đêm Dinh Cậu, with stalls on both sides",
+  "notice": {
+    "title": "Three names, one unproved gate",
+    "body": "The night account is the streets by Dinh Cậu, 5 pm until midnight. The 3-day account is Bạch Đằng, with no clock. The pearl account says chợ đêm Dinh Cậu. Treat them as separate pins until you are standing at the gate you want."
+  },
+  "body": [
+    "Choose the catch and have it grilled. Vietnam National Authority of Tourism’s night account says the streets near the Dinh Cậu rock temple close to traffic from 5 pm until midnight, with 100-odd stalls and more than half of them food. You can also buy fish sauce, black pepper, myrtle wine, cashew nuts, dried seaweed, or squid. The day account says more than a hundred vendors sell twice that many seafood dishes. The place page names grilled seafood, fruit, and snacks at the Phu Quoc Night Market near Dương Đông.",
+    "The 3-day account puts that market on Bạch Đằng in Dương Đông, pedestrian in the evening, with 50-plus stalls. The pearl account says chợ đêm Dinh Cậu. The nature account says dinner at Dương Đông seafood market. Treat those names as separate pins. The frame here is the Dinh Cậu gate. Start there after the sunset at the temple, and ask for Bạch Đằng if the street you are on is the wrong one."
+  ],
+  "figures": [
+    {
+      "id": "phu-quoc-night-market-2",
+      "caption": "A souvenir stall inside the Dinh Cậu night market",
+      "alt": "Beads, shells, and display cases at a stall in Dinh Cau Night Market"
+    }
+  ],
+  "gettingThere": [
+    "The night account places the market on the streets beside the Dinh Cậu rock temple in Dương Đông. The 3-day account places Phu Quoc Night Market on Bạch Đằng. Walk from the temple after sunset, or ride in from a room on Bãi Trường."
+  ],
+  "legs": [
+    {
+      "heading": "From Dinh Cậu",
+      "body": "The night account closes the streets near the rock temple to traffic from 5 pm until midnight. The market is that pedestrian stretch."
+    },
+    {
+      "heading": "From Bạch Đằng",
+      "body": "The 3-day account puts Phu Quoc Night Market on Bạch Đằng, pedestrian in the evening, with 50-plus stalls."
+    }
+  ],
+  "hours": "5 pm until midnight",
+  "admissionNote": "The 5 pm until midnight window is the night account, for the streets near Dinh Cậu. The 3-day account, for Bạch Đằng, gives no closing hour.",
+  "links": [
+    {
+      "label": "Phu Quoc by night",
+      "url": "https://vietnam.travel/things-to-do/explore-phu-quoc-by-night",
+      "note": "Vietnam National Authority of Tourism"
+    },
+    {
+      "label": "3-day account",
+      "url": "https://vietnam.travel/things-to-do/explore-phu-quoc-island-3-days-2-nights",
+      "note": "Bạch Đằng night market"
+    }
+  ],
+  "interests": ["islands"]
+}
