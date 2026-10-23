@@ -14,7 +14,7 @@
   "heroCaption": "The south side of Chợ Bến Tre, hall above and the stall row below",
   "gettingThere": [
     "The hall sits in khu phố 5, phường An Hội. The provincial list gives 30 Hùng Vương. The south gate faces Hùng Vương, the west gate faces đường 30 Tháng 4, and the east gate faces Đại lộ Đồng Khởi.",
-    "A bicycle toward Cù lao Long passes this hall and the Ben Tre River, then a short ferry. The ferry fare and the dock number are a question for the landing. The night market is the other address, 136 Đại lộ Đồng Khởi."
+    "A bicycle toward Cù lao Long passes this hall and the Ben Tre River, then a short ferry. The ferry fare and the dock number are Check on arrival. The night market is the other address, 136 Đại lộ Đồng Khởi."
   ],
   "legs": [
     {
@@ -23,12 +23,12 @@
     },
     {
       "heading": "From the cycle toward Cù lao Long",
-      "body": "The ride passes the market and the river, then the short ferry. Ask at the dock for the fare and the minute."
+      "body": "The ride passes the market and the river, then the short ferry. The ferry fare and the minute are Check on arrival."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly closing day is posted.",
-  "admissionNote": "No ticket is posted for walking the hall. You pay each stall for what you buy.",
+  "closed": "Check on arrival.",
+  "admissionNote": "Check on arrival. You pay each stall for what you buy.",
   "links": [
     {
       "label": "Market management",
