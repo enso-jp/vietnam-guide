@@ -126,6 +126,13 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "mui-ne",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-23T06:04:50.385Z",
+    "by": "mui-ne-research",
+    "branch": "cursor/mui-ne-research-base-3184"
+  },
   "log": []
 }
