@@ -9,4 +9,6 @@ Every lane is stored for the base layer. Left out: gate prices and hours for Dra
 
 No public page was edited in the research pass.
 
+Attraction pass, 23 Oct 2026: status stays stored. Public sights are Dray Sap and Truc Lam Dao Nguyen. Ta Dung Lake (park folded onto that slug), Lieng Nung, volcanic cave C9, and Nam Kar stay unpublished. The gap is a licensed photo, recorded under attractions/.
+
 Food guide pass, 23 Oct 2026: the board `next --place dak-nong` returned place-clear because the slug is on hold. The hold was left in place. Public food records were added from the sources already in this folder plus S17–S27. 33 named specialties. The Sunday market is a where, not one of the 33. Gaps are in questions.md.

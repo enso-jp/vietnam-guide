@@ -30,7 +30,7 @@ Checked: 23 Oct 2026
 
 ## Hours
 
-- Open: Foody lists 07:30–18:00 for the cluster (S16). The provincial handbook and the UNESCO page do not print a gate hour. Check on arrival.
+- Open: Foody lists 07:30–18:00 for the cluster (S16). That is one secondary source. The provincial handbook and the UNESCO page do not print a gate hour. The public hours field is Check on arrival.
 - Last entry, if it differs: Check on arrival — UNSOURCED.
 - Closed, weekly or seasonal: The handbook does not print a weekly closing day. Check the gate board on arrival.
 - If a board was an image and could not be read, say so: No gate board was read. S16 is a venue listing, not a ticket office.
