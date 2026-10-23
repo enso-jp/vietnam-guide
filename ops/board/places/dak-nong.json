@@ -135,9 +135,9 @@
       "research": "stored",
       "page": "paged",
       "copy": "enriched",
-      "quality": "not_started",
-      "note": "Prose names UNESCO and the provincial handbook. Second frame is Draysap01, a different viewpoint of the same sheet. Fee and official hours stay Check on arrival.",
-      "updated": "2026-10-23T06:23:39.762Z",
+      "quality": "checked",
+      "note": "Hero and second frame are both Dray Sap in daylight. Fee is Check on arrival. Foody’s 07:30–18:00 is printed. No coordinate was sourced.",
+      "updated": "2026-10-23T06:24:01.933Z",
       "reworkCount": 0
     },
     {
@@ -289,6 +289,14 @@
   "claim": null,
   "log": [
     {
+      "at": "2026-10-23T06:24:01.933Z",
+      "place": "dak-nong",
+      "stage": "quality",
+      "item": "dak-nong--dray-sap",
+      "status": "checked",
+      "note": "Hero and second frame are both Dray Sap in daylight. Fee is Check on arrival. Foody’s 07:30–18:00 is printed. No coordinate was sourced."
+    },
+    {
       "at": "2026-10-23T06:23:39.762Z",
       "place": "dak-nong",
       "stage": "copy",
@@ -439,14 +447,6 @@
       "item": null,
       "status": "needs_depth",
       "note": "Left out: Truc Lam, wind farms, Chu Bluk trek, and separate Gia Long pages."
-    },
-    {
-      "at": "2026-10-21T11:18:33.810Z",
-      "place": "dak-nong",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Left out: exact taxi fares and night-bus timetables from BMV."
     }
   ]
 }
