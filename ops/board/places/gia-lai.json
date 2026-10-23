@@ -61,15 +61,15 @@
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:20:54.845Z",
+      "status": "enriched",
+      "note": "Place prose and Biển Hồ hero. Dining chip removed. Tea hills, Dai Doan Ket, and the gong festival card omitted: the files on disk were the lake, a museum interior, and that same interior.",
+      "updated": "2026-10-23T06:21:53.646Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-21T11:20:54.845Z",
+      "status": "checked",
+      "note": "Hero is Hồ T’Nưng, pin unset, dining chip gone, sunflower windows both printed. Sight photos are the next units.",
+      "updated": "2026-10-23T06:22:43.983Z",
       "reworkCount": 0
     },
     "food": {
@@ -101,11 +101,11 @@
       "file": "src/content/attractions/gia-lai--bien-ho.json",
       "source": "dossier",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier stored 21 Oct 2026.",
-      "updated": "2026-10-21T11:20:54.953Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Subject is Hồ T’Nưng in both frames. Fee and hours are Check on arrival. Dot stays 4.",
+      "updated": "2026-10-23T06:25:03.050Z",
       "reworkCount": 0
     },
     {
@@ -117,11 +117,11 @@
       "file": "src/content/attractions/gia-lai--bien-ho-tea.json",
       "source": "dossier",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier stored 21 Oct 2026.",
-      "updated": "2026-10-21T11:20:54.978Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No tea card. Lake frame stays on Biển Hồ.",
+      "updated": "2026-10-23T06:25:24.693Z",
       "reworkCount": 0
     },
     {
@@ -134,10 +134,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed Chu Đăng Ya photograph. Left in dossier prose only.",
-      "updated": "2026-10-21T11:23:24.333Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No crater card to check.",
+      "updated": "2026-10-23T06:25:59.990Z",
       "reworkCount": 0
     },
     {
@@ -149,11 +149,11 @@
       "file": "src/content/attractions/gia-lai--minh-thanh.json",
       "source": "dossier",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier stored 21 Oct 2026.",
-      "updated": "2026-10-21T11:20:55.033Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Both frames are Minh Thanh. Fee and hours are Check on arrival. Dot stays 3.",
+      "updated": "2026-10-23T06:27:45.892Z",
       "reworkCount": 0
     },
     {
@@ -166,10 +166,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No museum photograph. Street frame rejected.",
-      "updated": "2026-10-21T11:23:24.361Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No museum card to check.",
+      "updated": "2026-10-23T06:27:46.049Z",
       "reworkCount": 0
     },
     {
@@ -182,10 +182,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Village hosting only; no separate attraction page.",
-      "updated": "2026-10-21T11:20:54.926Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No Ia Gri card to check.",
+      "updated": "2026-10-23T06:27:46.213Z",
       "reworkCount": 0
     },
     {
@@ -197,11 +197,11 @@
       "file": "src/content/attractions/gia-lai--dai-doan-ket.json",
       "source": "dossier",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Dossier stored 21 Oct 2026.",
-      "updated": "2026-10-21T11:20:55.084Z",
+      "page": "skipped",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No square card to check.",
+      "updated": "2026-10-23T06:27:46.474Z",
       "reworkCount": 0
     },
     {
@@ -214,10 +214,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "skipped",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "No licensed night-market photograph.",
-      "updated": "2026-10-21T11:23:24.385Z",
+      "copy": "skipped",
+      "quality": "skipped",
+      "note": "No food-street card to check.",
+      "updated": "2026-10-23T06:27:46.648Z",
       "reworkCount": 0
     },
     {
@@ -321,140 +321,164 @@
   "claim": null,
   "log": [
     {
-      "at": "2026-10-21T11:21:03.371Z",
+      "at": "2026-10-23T06:27:46.649Z",
       "place": "gia-lai",
-      "stage": "foodQuality",
-      "item": null,
+      "stage": "quality",
+      "item": "gia-lai--dien-hong",
       "status": "skipped",
-      "note": "No food guide."
+      "note": "No food-street card to check."
     },
     {
-      "at": "2026-10-21T11:21:03.343Z",
+      "at": "2026-10-23T06:27:46.558Z",
       "place": "gia-lai",
-      "stage": "foodCopy",
-      "item": null,
+      "stage": "copy",
+      "item": "gia-lai--dien-hong",
       "status": "skipped",
-      "note": "No food guide."
+      "note": "No night-market photograph. Street stays in the place eat line."
     },
     {
-      "at": "2026-10-21T11:21:03.314Z",
+      "at": "2026-10-23T06:27:46.474Z",
       "place": "gia-lai",
-      "stage": "food",
-      "item": null,
+      "stage": "quality",
+      "item": "gia-lai--dai-doan-ket",
       "status": "skipped",
-      "note": "No photo-led food guide. Place eat line only."
+      "note": "No square card to check."
     },
     {
-      "at": "2026-10-21T11:20:55.168Z",
+      "at": "2026-10-23T06:27:46.383Z",
       "place": "gia-lai",
-      "stage": "destination",
-      "item": null,
+      "stage": "copy",
+      "item": "gia-lai--dai-doan-ket",
+      "status": "skipped",
+      "note": "No square page to copy."
+    },
+    {
+      "at": "2026-10-23T06:27:46.300Z",
+      "place": "gia-lai",
+      "stage": "page",
+      "item": "gia-lai--dai-doan-ket",
+      "status": "skipped",
+      "note": "Indoor gong display is not the square. Card removed."
+    },
+    {
+      "at": "2026-10-23T06:27:46.213Z",
+      "place": "gia-lai",
+      "stage": "quality",
+      "item": "gia-lai--ia-gri",
+      "status": "skipped",
+      "note": "No Ia Gri card to check."
+    },
+    {
+      "at": "2026-10-23T06:27:46.133Z",
+      "place": "gia-lai",
+      "stage": "copy",
+      "item": "gia-lai--ia-gri",
+      "status": "skipped",
+      "note": "No village page. No licensed gong or weaving photograph."
+    },
+    {
+      "at": "2026-10-23T06:27:46.049Z",
+      "place": "gia-lai",
+      "stage": "quality",
+      "item": "gia-lai--pleiku-museum",
+      "status": "skipped",
+      "note": "No museum card to check."
+    },
+    {
+      "at": "2026-10-23T06:27:45.970Z",
+      "place": "gia-lai",
+      "stage": "copy",
+      "item": "gia-lai--pleiku-museum",
+      "status": "skipped",
+      "note": "No museum page. The indoor gong frame is not the building."
+    },
+    {
+      "at": "2026-10-23T06:27:45.893Z",
+      "place": "gia-lai",
+      "stage": "quality",
+      "item": "gia-lai--minh-thanh",
+      "status": "checked",
+      "note": "Both frames are Minh Thanh. Fee and hours are Check on arrival. Dot stays 3."
+    },
+    {
+      "at": "2026-10-23T06:27:45.805Z",
+      "place": "gia-lai",
+      "stage": "copy",
+      "item": "gia-lai--minh-thanh",
+      "status": "enriched",
+      "note": "Tower and hall kept. Buu Minh named as the other pagoda."
+    },
+    {
+      "at": "2026-10-23T06:27:45.719Z",
+      "place": "gia-lai",
+      "stage": "page",
+      "item": "gia-lai--minh-thanh",
       "status": "paged",
-      "note": "Seven attraction shells, one festival, one day itinerary. No food guide JSON."
+      "note": "Finished Minh Thanh: tower hero, hall second frame, hours Check on arrival."
     },
     {
-      "at": "2026-10-21T11:20:54.845Z",
+      "at": "2026-10-23T06:25:59.990Z",
       "place": "gia-lai",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: Nguyen Van Troi food-street page, stall prices, and a public food guide JSON."
+      "stage": "quality",
+      "item": "gia-lai--chu-dang-ya",
+      "status": "skipped",
+      "note": "No crater card to check."
     },
     {
-      "at": "2026-10-21T11:17:49.118Z",
+      "at": "2026-10-23T06:25:59.909Z",
       "place": "gia-lai",
-      "stage": "researchContext",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: Kon Tum and Quy Nhon place pages and 2027 festival dates."
+      "stage": "copy",
+      "item": "gia-lai--chu-dang-ya",
+      "status": "skipped",
+      "note": "No Chu Đăng Ya page. No licensed crater photograph."
     },
     {
-      "at": "2026-10-21T11:17:49.039Z",
+      "at": "2026-10-23T06:25:24.693Z",
       "place": "gia-lai",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: named breakfast street and plantation tour fees."
+      "stage": "quality",
+      "item": "gia-lai--bien-ho-tea",
+      "status": "skipped",
+      "note": "No tea card. Lake frame stays on Biển Hồ."
     },
     {
-      "at": "2026-10-21T11:17:48.960Z",
+      "at": "2026-10-23T06:25:24.611Z",
       "place": "gia-lai",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: bar names, Saturday start times, and a night photograph."
+      "stage": "copy",
+      "item": "gia-lai--bien-ho-tea",
+      "status": "skipped",
+      "note": "No tea page to copy."
     },
     {
-      "at": "2026-10-21T11:17:48.879Z",
+      "at": "2026-10-23T06:25:24.527Z",
       "place": "gia-lai",
-      "stage": "researchFood",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: Nguyen Van Troi food-street page, stall prices, and a public food guide JSON."
+      "stage": "page",
+      "item": "gia-lai--bien-ho-tea",
+      "status": "skipped",
+      "note": "No licensed tea-row photograph. The stored frame is the lake and is used on Biển Hồ."
     },
     {
-      "at": "2026-10-21T11:17:48.801Z",
+      "at": "2026-10-23T06:25:03.051Z",
       "place": "gia-lai",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: Kon Ka Kinh, Phu Cuong waterfall, and Buu Minh pagoda pages."
+      "stage": "quality",
+      "item": "gia-lai--bien-ho",
+      "status": "checked",
+      "note": "Subject is Hồ T’Nưng in both frames. Fee and hours are Check on arrival. Dot stays 4."
     },
     {
-      "at": "2026-10-21T11:17:48.721Z",
+      "at": "2026-10-23T06:25:02.966Z",
       "place": "gia-lai",
-      "stage": "researchBase",
-      "item": null,
-      "status": "stored",
-      "note": "Left out: PXU block times, bus hours from HCMC, and rail station name."
+      "stage": "copy",
+      "item": "gia-lai--bien-ho",
+      "status": "enriched",
+      "note": "Lake prose and both frames kept. Open water is the hero. Pines are the second view."
     },
     {
-      "at": "2026-10-21T11:17:19.475Z",
+      "at": "2026-10-23T06:25:02.885Z",
       "place": "gia-lai",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Left out: Kon Tum and Quy Nhon public pages and 2027 festival dates."
-    },
-    {
-      "at": "2026-10-21T11:17:19.291Z",
-      "place": "gia-lai",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Left out: named breakfast street and plantation tour fees."
-    },
-    {
-      "at": "2026-10-21T11:17:19.187Z",
-      "place": "gia-lai",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Left out: bar names and Saturday start times."
-    },
-    {
-      "at": "2026-10-21T11:17:13.392Z",
-      "place": "gia-lai",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Left out: Nguyen Van Troi as its own food-street page and stall prices."
-    },
-    {
-      "at": "2026-10-21T11:17:02.565Z",
-      "place": "gia-lai",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Left out: Kon Ka Kinh, Phu Cuong waterfall, and Buu Minh as separate pages."
-    },
-    {
-      "at": "2026-10-21T11:16:58.063Z",
-      "place": "gia-lai",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Getting there stored. PXU block times and bus hours still open."
+      "stage": "page",
+      "item": "gia-lai--bien-ho",
+      "status": "paged",
+      "note": "Finished Biển Hồ: kicker, body, pine second frame, hours Check on arrival."
     }
   ]
 }

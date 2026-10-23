@@ -9,37 +9,23 @@
   "budget": "Check on arrival",
   "pace": "Active",
   "photo": "gia-lai-bien-ho",
-  "summary": "Biển Hồ at first light, Minh Thanh in town, and gongs at Dai Doan Ket Square if the calendar matches.",
+  "summary": "Biển Hồ at first light, then Minh Thanh’s tower on the hill above Pleiku.",
   "stops": [
     {
       "name": "Biển Hồ",
       "minutes": 120,
       "placeSlug": "gia-lai",
       "attractionSlug": "bien-ho",
-      "note": "Morning mist on Hồ T’Nưng, about 7 km north of Pleiku."
-    },
-    {
-      "name": "Biển Hồ tea hills",
-      "minutes": 60,
-      "placeSlug": "gia-lai",
-      "attractionSlug": "bien-ho-tea",
-      "note": "Optional add-on on the dam road if the light is still good."
+      "note": "Morning mist on Hồ T’Nưng, about 7 km north of Pleiku. Turn from Phạm Văn Đồng onto Tôn Đức Thắng."
     },
     {
       "name": "Minh Thanh Pagoda",
       "minutes": 60,
       "placeSlug": "gia-lai",
       "attractionSlug": "minh-thanh",
-      "note": "The golden tower above Pleiku. Gate hours are check on arrival."
-    },
-    {
-      "name": "Dai Doan Ket Square",
-      "minutes": 90,
-      "placeSlug": "gia-lai",
-      "attractionSlug": "dai-doan-ket",
-      "note": "Festival week or a Saturday gong night. Confirm the clock before you go."
+      "note": "The gold-painted tower above Pleiku. Gate hours are Check on arrival."
     }
   ],
-  "seoTitle": "Gia Lai in a day — lake, pagoda, gongs",
-  "seoDescription": "A one-day Pleiku plan: Biển Hồ in the morning, Minh Thanh in town, and Dai Doan Ket Square when gongs are scheduled."
+  "seoTitle": "Gia Lai in a day — Biển Hồ and Minh Thanh",
+  "seoDescription": "A one-day Pleiku plan: Biển Hồ at first light, about 7 km north of town, then Minh Thanh Pagoda on the hill above the city."
 }
