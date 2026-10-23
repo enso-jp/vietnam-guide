@@ -3,7 +3,7 @@
 Place: `moc-chau`
 Slug: `dai-yem-waterfall`
 Status: stored
-Checked: 22 Oct 2026
+Checked: 23 Oct 2026
 
 Facts below are the stored city dossier (S1, S4, S6, S7). No new measurement was chosen.
 
@@ -65,7 +65,7 @@ Facts below are the stored city dossier (S1, S4, S6, S7). No new measurement was
 
 - Hero must show: The white fall, the rock, and the pool. File:Thacdaiyem.jpg, ePi.Longo, CC BY-SA 2.0. Corner signature cropped off.
 - Second frame must show (a different moment): The lip and the sheet. File:Thacdaiyem2.jpg, jihadv, CC BY 2.0. Signature cropped off.
-- Reject: File:Thacdaiyem1.jpg is a similar close cascade and was not needed. The Motbit love-bridge PNG has a check-in logo and does not clearly show the water.
+- Reject: File:Thacdaiyem1.jpg is a similar close cascade and was not needed. The Motbit love-bridge PNG has a check-in logo and does not clearly show the water. Rechecked 23 Oct 2026. It stays off this page and is not a separate sight.
 
 ## Links
 

@@ -3,7 +3,7 @@
 Place: `moc-chau`
 Slug: `bach-long-bridge`
 Status: stored
-Checked: 22 Oct 2026
+Checked: 23 Oct 2026
 
 Facts are the stored city dossier (S1, S9, S10). One licensed frame exists. A second moment was not found, so the public record has no body and no invented second photo.
 
@@ -26,7 +26,7 @@ Facts are the stored city dossier (S1, S9, S10). One licensed frame exists. A se
 
 - Hero: the bridge and the slopes. DangTungDuong, CC BY-SA 4.0, File:Bach Long glassbridge 2022.jpg. Confirmed Moc Chau, 28 May 2022.
 - Second frame: none licensed. The 2022 opening frame is logos and text. Rejected.
-- Do not crop this file into a fake second moment.
+- 23 Oct 2026 recheck: File:Bach Long 2022.jpg is the ribbon cutting, not the span. File:SKGGDOKGQL0800101.jpg is Cầu Kinh B, a town street. Do not crop the hero into a fake second moment. No body on the public card.
 
 ## Open questions
 

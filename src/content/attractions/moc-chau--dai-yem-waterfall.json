@@ -4,23 +4,23 @@
   "name": "Dai Yem Waterfall",
   "nameVi": "Thác Dải Yếm",
   "kicker": "Two limestone drops you hear before you see",
-  "summary": "Go for the two limestone drops at Ban Vat, the fall you hear before you see it. Vietnam Tourism puts the drop over 100 m. The heritage monograph puts the first fall at about 70 m. The two figures do not match. Check the gate. Skip it when the tea rows are the only morning you wanted.",
+  "summary": "Walk down to two limestone drops at Ban Vat, the fall you hear before you see. A pool sits under the lower water, and a red glass bridge crosses above the falls. The drop is over 100 m, and the first fall is also about 70 m. Skip it when the tea rows are the only morning you wanted.",
   "dots": 5,
   "district": "Ban Vat",
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
   "getThere": "From the farm town on National Highway 43. The two route descriptions disagree.",
   "bestMonths": "April to September",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "The wide falls, the limestone, and the pool under the lower water",
   "notice": {
     "title": "The published heights do not agree",
-    "body": "Vietnam Tourism says the drop is over 100 m. The 2011 monograph says the first fall drops about 70 m, in three tiers. Do not treat those as one number. The fee is check on arrival."
+    "body": "The drop is over 100 m. The first fall is also about 70 m, in three tiers. Do not treat those as one number. The fee is check on arrival."
   },
   "body": [
-    "Walk down to the limestone falls at Ban Vat. The water comes in two parts, with a pool under the lower drop. Vietnam Tourism says you hear it before you see it. A red Love Glass Bridge crosses above the falls on that page. The 2011 monograph describes stair paths and does not mention the bridge. The bridge is the later feature.",
-    "Do not leave with one height. Vietnam Tourism says the drop is over 100 m. The monograph says the first fall drops about 70 m and is in three tiers, with a first tier about 40 m deep, about 70 m wide, and about 50 m high, and puts the two falls about 200 m apart. The national page puts the two falls 150 m apart and describes a sheet about 70 m wide when the water is full.",
-    "The national page calls the water fullest from April to September. The monograph says May to September for the first fall’s lip and April to September for the second. An 18 Jan 2022 decision recognizes the site as a provincial eco site and prints no tariff. The fee, the hours, and how long you stay are check on arrival."
+    "Walk down to the limestone falls at Ban Vat. The water comes in two parts, with a pool under the lower drop. You hear it before you see it. A red glass bridge crosses above the falls. An older description of the stair paths does not mention that bridge. The bridge is the later feature.",
+    "Keep both heights. The drop is over 100 m. The first fall is also about 70 m and in three tiers, with a first tier about 40 m deep, about 70 m wide, and about 50 m high. The two falls are about 200 m apart, and also 150 m apart, with a sheet about 70 m wide when the water is full.",
+    "The fullest water is April to September. The first fall’s lip is also May to September, and the second fall April to September. The 18 Jan 2022 provincial recognition names the site. The fee, the hours, and how long you stay are check on arrival."
   ],
   "figures": [
     {
@@ -31,7 +31,7 @@
   ],
   "gettingThere": [
     "The falls are at Bản Vặt, xã Mường Sang, on National Highway 43. A 2022 provincial row still uses that address. Ward names after 2025 are check on arrival.",
-    "The monograph gives two drives. Toward Son La, about 3 km on National Highway 6 to the Long Sap junction, then left about 5 km on National Highway 43. Toward Hanoi, about 1 km to that junction, then right about 5 km. The national page says 3 km from the farm town, and also about 4 km from the Pa Hang junction. The two descriptions do not match. Minutes are check on arrival."
+    "One drive, toward Son La, is about 3 km on National Highway 6 to the Long Sap junction, then left about 5 km on National Highway 43. Toward Hanoi, the same description gives about 1 km to that junction, then right about 5 km. Another description says 3 km from the farm town, and also about 4 km from the Pa Hang junction. The two descriptions do not match. Minutes are check on arrival."
   ],
   "legs": [
     {
@@ -40,24 +40,24 @@
     },
     {
       "heading": "From the farm town, toward Hanoi",
-      "body": "About 1 km to the Long Sap junction, then right about 5 km on National Highway 43. The national page also says 3 km from the farm town. The minutes are check on arrival."
+      "body": "About 1 km to the Long Sap junction, then right about 5 km on National Highway 43. Another description says 3 km from the farm town. The minutes are check on arrival."
     },
     {
       "heading": "From the Pa Hang junction",
-      "body": "The national page says about 4 km. The minutes are check on arrival."
+      "body": "About 4 km. The minutes are check on arrival."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly closing day is published. Check on arrival.",
-  "admissionNote": "The 18 Jan 2022 provincial recognition prints no tariff. Child and senior prices were not published. The fee is check on arrival.",
+  "closed": "Check on arrival.",
+  "admissionNote": "Check on arrival.",
   "links": [
     {
-      "label": "Vietnam Tourism on Moc Chau",
+      "label": "Moc Chau nature guide",
       "url": "https://vietnam.travel/things-to-do/moc-chau-your-one-stop-nature-escape",
-      "note": "Names the drop over 100 m and the later glass bridge"
+      "note": "The drop over 100 m, and the later glass bridge"
     },
     {
-      "label": "National page on Dai Yem",
+      "label": "Dai Yem national page",
       "url": "https://vietnamtourism.vn/index.php/tourism/items/2754",
       "note": "April to September, and the 150 m gap between the falls"
     },
