@@ -142,6 +142,13 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "ha-giang",
+    "stage": "researchBase",
+    "item": null,
+    "at": "2026-10-23T06:05:42.262Z",
+    "by": "hourly",
+    "branch": "cursor/ha-giang-research-f0ef"
+  },
   "log": []
 }
