@@ -408,6 +408,16 @@ On-site minutes and the ride from the south bank are Check on arrival — UNSOUR
 - Photo must show: the nave and the parabolic arches. A second frame is the window wall, not the same view of the altar.
 - Sources: research/hue/attractions/phu-cam.md, https://khamphahue.com.vn/en-us/Discover-Hue/Detail/tid/Phu-Cam-Cathedral.html/pid/16002/cid/483 checked 21 Oct 2026
 
+### Photo and visit check, 23 Oct 2026
+
+Duc Duc and Hon Chen each have one licensed frame and a separate ticket. Each is a public card with no body. The museum and Kỳ Đài stay off the page. A south-bank morning, the river walk, an imperial-city night, and a pho street are not sights.
+
+- Duc Duc. Adult 50,000 VND, child 7–12 free (S11, PDF reread 23 Oct 2026). `File:An lang.jpg` is Điện Long Ân. The gate file is behind a fence. The postcards have burned captions. One frame. Card, no body. The centre record (DiaDiem id 38) puts the body in Thủy Bằng, the address field at “Duy Tân”, and the coordinate at 1234, 4321. Vietnamese Wikipedia puts the tomb in An Cựu. Public copy prints all three names. No map. Detail: `research/hue/attractions/duc-duc.md`.
+- Hon Chen. Same 50,000 VND line (S11). `File:Điện Hòn Chén1.jpg` is the hall. `TempleHonChen.jpeg` is that same file. The festival frames show the hall as a speck. One frame. Card, no body. DiaDiem id 12 says Ngọc Hồ, Hương Hồ in the description and Hải Cát, Hương Trà in the address. Public copy prints both. No map. Detail: `research/hue/attractions/hon-chen.md`.
+- Museum of Royal Antiquities. Adult 50,000 VND (S11). DiaDiem id 37 gives 03 Lê Trực, phường Đông Ba. The exterior frames are a cannon court. A case of irons and a cannon sign are not the building. Unpublished: no licensed photo of the building that passes. Detail: `research/hue/attractions/royal-antiquities.md`.
+- Kỳ Đài. No fee line on Resolution 55 (S11). It is the citadel’s south face, not a second visit. Commons has licensed frames. Unpublished so the citadel is not split. Detail: `research/hue/attractions/ky-dai.md`.
+- Night streets, the south-bank morning, and the river walk. Still not sights. No new page.
+
 ### Photo check, 21 Oct 2026, for sights still off the page
 
 Hon Chen, the Museum of Royal Antiquities, Duc Duc, and the night streets stay unpublished. A page needs a licensed photo of the sight and a sourced fact, and a finished page needs a second frame that is not the same file.
