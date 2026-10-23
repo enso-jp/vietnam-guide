@@ -1,0 +1,64 @@
+{
+  "slug": "tran-temple",
+  "placeSlug": "nam-dinh",
+  "name": "Tran temple",
+  "nameVi": "Đền Trần",
+  "kicker": "Three halls of the Trần kings",
+  "summary": "Walk the three Trần halls beside the Pho Minh tower. Thiên Trường sits in the middle. Cố Trạch, to the east, is Trần Hưng Đạo. One layout puts the 14 kings in Trùng Hoa. Another puts them in Thiên Trường, with the mandarins in Trùng Hoa. The seal rite is the 14th of lunar month 1, at 22:00 and from 21:00 to 23:10. Come for the yard only on that night.",
+  "dots": 5,
+  "district": "Tức Mặc",
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "About 3 km from the city center.",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Gate pillars, trees, and the hall behind",
+  "notice": {
+    "title": "The seal is one night",
+    "body": "The rite is the 14th of lunar month 1. An ordinary evening is the halls, not the yard."
+  },
+  "body": [
+    "Walk the three halls. Thiên Trường is the middle hall. Cố Trạch, to the east, is Trần Hưng Đạo. Trùng Hoa, to the west, holds the 14 Trần kings. A second layout puts the 14 kings in Thiên Trường and puts the kings together with the civil and military mandarins in Trùng Hoa. The outer gate has five doors, and the large door is 10.60 m high. A lake of about 1,000 m² sits between the outer court and the inner court.",
+    "The seal rite falls on the 14th of lunar month 1. One timing starts it at 22:00. On 2 March 2026 the yard cleared from 21:00 and the seal palanquin ran until 23:10. The next solar date is check on arrival. The eighth-month anniversary of Trần Hưng Đạo is the 15th to the 20th, and the month is also named with no day inside it. The ground is about 3 km from the city center."
+  ],
+  "figures": [
+    {
+      "id": "nam-dinh-tran-temple-2",
+      "caption": "Carved dragon doors on the hall",
+      "alt": "Dark wooden doors carved with dragons at the Tran temple in Nam Dinh"
+    }
+  ],
+  "gettingThere": [
+    "The halls share the Tức Mặc ground with the Pho Minh tower. The address is thôn Tức Mặc, phường Lộc Vượng, thành phố Nam Định, and also phường Nam Định, tỉnh Ninh Bình. The ground is about 3 km from the city center. Minutes from the cathedral are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the center",
+      "body": "About 3 km from the city center to Tức Mặc. The minute from the cathedral, Chợ Rồng, or the lake is check on arrival."
+    },
+    {
+      "heading": "From Hanoi",
+      "body": "The train reaches Ga Nam Định at kilometre 87 in 1 hour 40 minutes or 1 hour 41 minutes. The fare is check on arrival. The minute from the station to the halls is check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "admissionNote": "Check on arrival. No child price is recorded.",
+  "links": [
+    {
+      "label": "Tran temple and Pho Minh",
+      "url": "https://dsvh.gov.vn/di-tich-lich-su-va-kien-truc-nghe-thuat-den-tran-va-chua-pho-minh-2959",
+      "note": "Five-door gate and a lake of about 1,000 m²."
+    },
+    {
+      "label": "Seal rite",
+      "url": "https://vietnamtourism.vn/index.php/tourism/items/2837",
+      "note": "The 14th of lunar month 1, start at 22:00."
+    },
+    {
+      "label": "Eighth-month festival",
+      "url": "https://vietnamtourism.vn/index.php/tourism/items/803/",
+      "note": "15th–20th of lunar month 8."
+    }
+  ],
+  "interests": ["pagodas", "warHistory"]
+}

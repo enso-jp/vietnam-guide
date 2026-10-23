@@ -1,0 +1,50 @@
+{
+  "slug": "xuan-thuy",
+  "placeSlug": "nam-dinh",
+  "name": "Xuan Thuy National Park",
+  "nameVi": "Vườn quốc gia Xuân Thủy",
+  "kicker": "Mangrove park at the river mouth",
+  "summary": "Take a boat through the mangroves south of cửa Ba Lạt. The one-day route is for groups of 15 or more, from the visitor centre to the Cồn Ngạn ponds, the Cồn Lu forest, cửa Ba Lạt, and the clam beds. The bird route is two days and a night, from October to March, for groups of 5 to 15. The park is about 7,100 ha. Ramsar is dated 1989 and also 1988. A ticket is check on arrival.",
+  "dots": 4,
+  "district": "Giao Thủy",
+  "timeNeeded": "One day, or two days and a night",
+  "fee": "Check on arrival",
+  "getThere": "South of cửa Ba Lạt, in Giao Thủy. Minutes from the city are check on arrival.",
+  "bestMonths": "Oct–Mar",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Mangroves, fishing boats, and the river at the mouth",
+  "gettingThere": [
+    "The park sits south of cửa Ba Lạt, in huyện Giao Thủy, on the old Nam Định map, and the contact line is xã Giao Minh, tỉnh Ninh Bình. Minutes from the city are check on arrival. The one-day route is for groups of 15 or more. The bird route is for groups of 5 to 15."
+  ],
+  "legs": [
+    {
+      "heading": "From Nam Dinh",
+      "body": "Toward Giao Thủy, then the park boat. The minutes are check on arrival. The printed routes start at the visitor centre."
+    },
+    {
+      "heading": "From Hanoi",
+      "body": "The train reaches Ga Nam Định at kilometre 87 in 1 hour 40 minutes or 1 hour 41 minutes. The fare is check on arrival. The minute from the station to the park is check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "admissionNote": "Check on arrival. The service list has no dong tariff.",
+  "links": [
+    {
+      "label": "Xuan Thuy on the conservation portal",
+      "url": "https://nbca.gov.vn/vuon-quoc-gia-xuan-thuy-nam-dinh/",
+      "note": "About 7,100 ha south of cửa Ba Lạt. Ramsar year 1989."
+    },
+    {
+      "label": "One-day route",
+      "url": "https://www.vuonquocgiaxuanthuy.org.vn/tuyen-2-mot-ngay-kham-pha-ramsar-xuan-thuy",
+      "note": "Groups of 15 or more. Visitor centre, Cồn Ngạn, Cồn Lu, cửa Ba Lạt, clam beds."
+    },
+    {
+      "label": "Bird route",
+      "url": "https://www.vuonquocgiaxuanthuy.org.vn/tuyen-3-noi-dat-lanh-chim-ve",
+      "note": "Two days and a night. October to March. Groups of 5 to 15."
+    }
+  ],
+  "interests": ["photography"]
+}
