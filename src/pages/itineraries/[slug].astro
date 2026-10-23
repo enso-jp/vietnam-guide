@@ -65,9 +65,13 @@ const MODE: Record<ItineraryApproach['mode'], string> = {
 };
 
 function travelLabel(stop: ItineraryStop): string {
-  if (stop.approach?.minutes != null) {
+  if (stop.approach) {
     const mode = MODE[stop.approach.mode];
-    return stop.approach.note ? `${stop.approach.minutes} min ${mode}. ${stop.approach.note}` : `${stop.approach.minutes} min ${mode}`;
+    if (stop.approach.minutes != null) {
+      const head = `${stop.approach.minutes} min ${mode}`;
+      return stop.approach.note ? `${head}. ${stop.approach.note}` : head;
+    }
+    if (stop.approach.note) return stop.approach.note;
   }
   if (stop.walkMinutes != null && stop.walkMinutes > 0) return `${stop.walkMinutes} min on foot`;
   return '';
