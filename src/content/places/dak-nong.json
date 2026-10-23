@@ -29,7 +29,7 @@
   "itinerarySlugs": [
     "dak-nong-two-days"
   ],
-  "seoTitle": "Dak Nong travel guide — Dray Sap and the island lake",
+  "seoTitle": "Dak Nong travel guide — Dray Sap and Ta Dung lake",
   "seoDescription": "Dray Sap is about 100 metres wide on the Serepok, about 110 km from Gia Nghia. Ta Dung’s islands sit about 45 km the other way. Fly to Buon Ma Thuot.",
   "intro": [
     "Stand where the Serepok drops in one wide sheet through primary forest. Dray Sap is about 100 metres across and about 12 metres down, in Dak Sor, Krong No, about 110 km from Gia Nghia, with Gia Long and Trinh Nu falls in the same cluster. Give it a day of its own. It is not a stop you add after a Ta Dung morning.",
@@ -109,6 +109,19 @@
   ],
   "interestGroups": [
     {
+      "title": "Dining and F&B",
+      "summary": "Bamboo-tube rice and grilled meat, and the Sunday market at Dak R'Mang.",
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "Cơm lam with grilled meat. Dak R'Mang is the Sunday market.",
+          "icon": "food",
+          "to": "food",
+          "photo": "dak-nong--com-lam"
+        }
+      ]
+    },
+    {
       "title": "Serepok waterfalls",
       "summary": "The wide cascade on the Serepok, then the island lake, the lawful caves, and the short stops out of Gia Nghia.",
       "cards": [
@@ -157,6 +170,19 @@
       ],
       "body": [
         "One hired car or motorbike covers the loop. Dray Sap and Ta Dung are different days. Evenings in Gia Nghia are quiet: this is festival and gong country, not a bar street."
+      ]
+    },
+    {
+      "title": "Shopping",
+      "summary": "Dak R'Mang Sunday market, with Hmong traders.",
+      "cards": [
+        {
+          "title": "Shopping",
+          "summary": "Textiles, thang co, and corn wine on Sunday at Dak R'Mang.",
+          "icon": "view",
+          "placeSlug": "dak-nong",
+          "photo": "dak-nong"
+        }
       ]
     }
   ],
