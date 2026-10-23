@@ -102,10 +102,10 @@
       "source": "published",
       "research": "stored",
       "page": "paged",
-      "copy": "blocked",
+      "copy": "not_started",
       "quality": "not_started",
       "note": "Hero is one doorway on An Thuong 4. Still a stub: no second frame of the lanes, so the page is not finished. Kala Kala and East West have no licensed photo. The beach-and-tower file is no longer this hero.",
-      "updated": "2026-10-21T10:09:00.388Z",
+      "updated": "2026-10-23T13:41:19.679Z",
       "reworkCount": 0
     },
     {
@@ -1021,7 +1021,14 @@
       "open": true
     }
   ],
-  "claim": null,
+  "claim": {
+    "place": "da-nang",
+    "stage": "copy",
+    "item": "da-nang--an-thuong",
+    "at": "2026-10-23T13:41:19.717Z",
+    "by": "cloud-agent",
+    "branch": "content/da-nang-blocked-photos"
+  },
   "log": [
     {
       "at": "2026-10-21T10:14:23.191Z",
