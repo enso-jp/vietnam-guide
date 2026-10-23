@@ -990,7 +990,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "mui-ne",
+    "stage": "destination",
+    "item": null,
+    "at": "2026-10-23T06:35:06.746Z",
+    "by": "mui-ne-destination",
+    "branch": "cursor/mui-ne-destination-eb60"
+  },
   "log": [
     {
       "at": "2026-10-23T06:21:33.460Z",
