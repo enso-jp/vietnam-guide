@@ -132,4 +132,22 @@ Figures that disagree are kept in the body files. A fee, hour, or duration with 
 
 The department’s own footer, on S7, S8, and S9, prints 101 Nguyễn Trãi, phường Hạc Thành, and 0237.666.0000. That office is in Thanh Hoa city. It is not a scene landmark in the valley.
 
-Pages opened and not used as facts: the highland-food URL on csdl.thanhhoa.travel returned 404 on 21 Oct 2026. The ACV Tho Xuan facilities page did not render text. Shuttle and lodge pages that print other kilometers, other hours, and fares were not used as the distance or the fee.
+Pages opened and not used as facts: the highland-food URL on csdl.thanhhoa.travel returned 404 on 21 Oct 2026. On 23 Oct 2026 a search extract of that URL showed a highland roundup that also covers Thường Xuân, Quan Hóa, Ngọc Lặc, and Cẩm Thủy. Dishes in that extract were not added unless another source already placed them in this valley. The ACV Tho Xuan facilities page did not render text. Shuttle and lodge pages that print other kilometers, other hours, and fares were not used as the distance or the fee. Resort menus were not used as prices or as picks.
+
+### S22
+- URL: https://vnexpress.net/thuong-thuc-mam-com-cua-nguoi-thai-o-pu-luong-4624241.html
+- Publisher: VnExpress Du lịch, Xuân Mạnh, 3 Jul 2023
+- Accessed: 23 Oct 2026
+- Supports: Cổ Lũng duck, ốc núi with an ốc đá caption, cơm lam, thịt gác bếp, măng rừng, măng chua, grilled stream fish and the sour-bamboo fish soup, nộm hoa chuối rừng, nộm rau rừng, nộm hoa đu đủ đực, canh lá đắng
+
+### S23
+- URL: https://vnexpress.net/vit-co-lung-mon-ngon-o-pu-luong-4618829.html
+- Publisher: VnExpress Du lịch, Thuỳ Linh, 18 Jun 2023
+- Accessed: 23 Oct 2026
+- Supports: Bản Hiêu breed description, the two feather colors against S22, the 2023 live and cooked prices quoted from Lò Văn Huyên, chẩm chéo with fried garlic, lá móc mật
+
+### S24
+- URL: https://sohuutritue.net.vn/thac-hieu-nang-tho-giua-dai-ngan-d228959.html
+- Publisher: Tạp chí Sở hữu trí tuệ, 12 Jul 2024, 07:45
+- Accessed: 23 Oct 2026
+- Supports: Thai-Muong dishes of Thác Hiêu: vịt Cổ Lũng, xôi hấp gà Kho Mường, lá sắng, măng đắng, sâu măng. The same sentence is in the Báo Thanh Hóa account already filed as S11. The department reprint URL returned 504 on this date.
