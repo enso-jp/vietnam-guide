@@ -4,7 +4,7 @@
   "name": "Lac village",
   "nameVi": "Bản Lác",
   "kicker": "White Thai village on the rice floor",
-  "summary": "Walk the White Thai lanes at Bản Lác, between the stilt houses and the rice. Stay the night if that morning is why you came. A clock for the walk is not published. Skip a same-day rush from Hanoi if you want the evening on the floor.",
+  "summary": "Walk the White Thai lanes at Bản Lác, between the stilt houses and the rice. Stay the night if that morning is why you came. Check how long the walk takes on arrival. Skip a same-day rush from Hanoi if you want the evening on the floor.",
   "dots": 5,
   "district": "The valley",
   "timeNeeded": "Check on arrival",
@@ -43,8 +43,8 @@
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly closing day is published. Check on arrival.",
-  "admissionNote": "No walking ticket is published. Bicycle hire is check on arrival. Child and senior prices are not published. Electric-cart hire is check on arrival.",
+  "closed": "Check on arrival.",
+  "admissionNote": "Check on arrival. Bicycle hire and electric-cart hire are check on arrival.",
   "links": [
     {
       "label": "Mai Chau",
