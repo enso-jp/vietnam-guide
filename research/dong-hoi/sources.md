@@ -176,6 +176,18 @@ Accessed 21 Oct 2026 unless a line says the page has its own date.
 - Accessed: 23 Oct 2026
 - Supports: Bồi and ốc đực in Minh Hóa, including a lunar mid-third-month custom and a printed market price that was not copied. Left off the Đồng Hới list. Kept apart from ốc chiên.
 
+### S30
+- URL: https://www.chuaviettoancau.com/chua-mien-trung/chua-dai-giac-quang-binh-729.html
+- Publisher: Võ Văn Tường, Chùa Việt toàn cầu. The page does not print a publication date.
+- Accessed: 23 Oct 2026
+- Supports: Chùa Đại Giác at đường Lê Lợi, phường Đức Ninh Đông, thành phố Đồng Hới. Hòa thượng Thích Tánh Nhiếp. Decision 993/QĐ-UBND of 4 May 2011 granted 7,935 m². The front yard holds an Amitabha of one block of white marble, 9 m and 40 tonnes, and a Maitreya. The main hall holds a bronze Shakyamuni, 3.3 m and 3.5 tonnes. The Di Đà tower, left of the hall, was consecrated 22 Dec 2018, nine storeys, 32 m. No fee and no opening hour. This is a pagoda writer’s page, not the ward.
+
+### S31
+- URL: https://giacngo.vn/quang-tri-van-phong-ban-tri-su-ghpgvn-tinh-duoc-dat-tai-chua-dai-giac-va-to-dinh-sac-tu-tinh-quang-post76523.html
+- Publisher: Giác Ngộ Online. 12 Jul 2025, 16:01. Byline Nguyên Hiếu.
+- Accessed: 23 Oct 2026
+- Supports: The 12 Jul 2025 meeting of the provincial Buddhist council was at Chùa Đại Giác, số 113 Bạch Đằng, phường Đồng Hới. Hòa thượng Thích Tánh Nhiếp chaired it. Office 1 of the council is this pagoda. The street is not the Lê Lợi line in S30. Print both. No fee and no hour.
+
 ### Not used as sources
 - Commercial tour pages, hotel pages, and “top 20” lists were opened in search and not used for a fee, an hour, a temperature, or a kilometer count.
 - Vietjet’s Đồng Hới airport page and the ACV airport homepage did not render a route table or a city-ride time in this pass. Routes stay Check on arrival.

@@ -55,6 +55,7 @@ Checked: 21 Oct 2026
 - Suggested slug: `bau-tro`
 - Suggested dot: 3 — a short stop beside the beach, not a day by itself
 - Photo must show: the lake and the casuarina, with the sea suggested in the same frame if the gap is really that small, subject through the center
+- Photo pass 23 Oct 2026: unpublished. One Commons file, `File:Bautro.jpg`. No second frame. See `attractions/bau-tro.md`.
 - Sources: S1, S2, S5
 
 ### Quang Phu dunes
@@ -71,6 +72,7 @@ Checked: 21 Oct 2026
 - Suggested slug: `quang-phu-dunes`
 - Suggested dot: 3 — a short ride out of the center, not the reason for the night
 - Photo must show: a dune slope with a person or a casuarina for scale, sand filling the lower frame, not a featureless white sheet
+- Photo pass 23 Oct 2026: unpublished. No Commons file of these dunes. See `attractions/quang-phu-dunes.md`.
 - Sources: S1, S5
 
 ### Nhat Le 2 bridge
@@ -172,8 +174,8 @@ Checked: 21 Oct 2026
 ### Dai Giac Pagoda
 - Vietnamese name: Chùa Đại Giác
 - Kind: sight
-- Area: Old Đức Ninh Đông ward (S1). The current ward name was not re-checked against a 2025 commune map. Area: Check on arrival if the ward sign has changed.
-- What the visitor does: Visits a working pagoda. The ward page says the Amitabha is carved from one block of white marble, 9 m tall and 40 tonnes, and calls it one of the large marble Buddhas in the country (S1). One source for the size.
+- Area: Old Đức Ninh Đông ward, no street (S1). Võ Văn Tường prints đường Lê Lợi, phường Đức Ninh Đông (S30). Giác Ngộ prints số 113 Bạch Đằng, phường Đồng Hới, for the 12 Jul 2025 meeting chaired by the same abbot (S31). Print both streets. Do not pick one.
+- What the visitor does: Visits a working pagoda. The ward page says the Amitabha is made from one block of white marble, 9 m tall and 40 tonnes (S1). Võ Văn Tường prints the same size for the figure in the front yard, and a separate bronze Shakyamuni in the hall, 3.3 m and 3.5 tonnes (S30). Do not merge the two statues.
 - Time: Check on arrival — UNSOURCED
 - Fee: Check on arrival — UNSOURCED. No ticket page.
 - From the base: The ward page does not give a kilometer count (S1). Minutes: Check on arrival — UNSOURCED.
@@ -183,7 +185,8 @@ Checked: 21 Oct 2026
 - Suggested slug: `dai-giac`
 - Suggested dot: 2 — a real pagoda the ward page lists, not the reason for the night
 - Photo must show: the full seated figure and the hall, headroom above the statue
-- Sources: S1
+- Photo pass 23 Oct 2026: unpublished. No frame of the marble figure. Address conflict is now S30 and S31. See `attractions/dai-giac.md`.
+- Sources: S1, S30, S31
 
 ### Bao Ninh
 - Vietnamese name: Bán đảo Bảo Ninh
@@ -199,6 +202,7 @@ Checked: 21 Oct 2026
 - Suggested slug: `bao-ninh`
 - Suggested dot: 4 — the other place to sleep and swim, still inside Đồng Hới
 - Photo must show: the long beach, the sand, and either coconuts or the city bank across the water, subject through the center
+- Photo pass 23 Oct 2026: unpublished as a sight. One beach file, already the stay-area frame. No second frame. See `attractions/bao-ninh.md`.
 - Sources: S1, S2, S12
 
 ### Nhat Le riverbank
