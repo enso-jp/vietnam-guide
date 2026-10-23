@@ -4,7 +4,7 @@
   "name": "Suoi Tranh",
   "nameVi": "Suối Tranh",
   "kicker": "Forest stream on the Hàm Ninh range",
-  "summary": "Forest stream on the Hàm Ninh range: walk in and swim the pools, about 10 km from Dương Đông. Small falls drop over the rocks where the side streams join. The nature account calls the hike gentle and sends you in for a dip. The bureau also names camping, fishing, and a grill beside the water. Go in daylight.",
+  "summary": "Forest stream on the Hàm Ninh range: walk in and swim the pools, about 10 km from Dương Đông. Small falls drop over the rocks where the side streams join. The hike is gentle, and the point of it is a dip. You can also camp, fish, and grill beside the water. Go in daylight.",
   "dots": 4,
   "district": "The east",
   "timeNeeded": "A short hike",
@@ -13,8 +13,8 @@
   "verified": "23 Oct 2026",
   "heroCaption": "A fall at Suối Tranh, dropping over dark rocks into the forest pool",
   "body": [
-    "Walk the forest and swim where the stream pools. Cục Du lịch Quốc gia Việt Nam places Suối Tranh on the Hàm Ninh range, northeast of the island. From Dương Đông, the Dương Đông–Hàm Ninh road covers about 10 km to the stream. Side streams run through the trees and over rock shelves, then join a main stream that drops in short white falls. The page says you can swim, lie on the flat rocks, camp, fish, and grill the catch. Near the stream it names Hang Dơi, about 200 m up the hill and about 50 m deep, with stalactites.",
-    "Vietnam National Authority of Tourism’s nature account calls the walk to Suối Tranh a gentle hike and the point of it a dip. The same page sends a harder hike up the Hàm Ninh mountain trail for an ocean view. The park account also names suối Đá Bàn and suối Đá Ngọn, and says Đá Ngọn falls in seven tiers. Those are other streams. Suối Tranh is the gentle one."
+    "Walk the forest and swim where the stream pools. Suối Tranh is on the Hàm Ninh range, northeast of the island. From Dương Đông, the Dương Đông–Hàm Ninh road covers about 10 km to the stream. Side streams run through the trees and over rock shelves, then join a main stream that drops in short white falls. You can swim, lie on the flat rocks, camp, fish, and grill the catch. Near the stream, Hang Dơi sits about 200 m up the hill and is about 50 m deep, with stalactites.",
+    "The walk to Suối Tranh is a gentle hike, and the point of it is a dip. A harder hike follows the Hàm Ninh mountain trail for an ocean view. Suối Đá Bàn and suối Đá Ngọn are other streams. Đá Ngọn falls in seven tiers. Suối Tranh is the gentle one."
   ],
   "figures": [
     {
@@ -24,12 +24,12 @@
     }
   ],
   "gettingThere": [
-    "From thị trấn Dương Đông, follow the Dương Đông–Hàm Ninh road for about 10 km. The bureau places the stream on the northeast side of the island, on the Hàm Ninh range. Hàm Ninh village is 20 km northeast of Dương Đông, so the stream sits on the way toward the village."
+    "From thị trấn Dương Đông, follow the Dương Đông–Hàm Ninh road for about 10 km. The stream is on the northeast side of the island, on the Hàm Ninh range. Hàm Ninh village is 20 km northeast of Dương Đông, so the stream sits on the way toward the village."
   ],
   "legs": [
     {
       "heading": "From Dương Đông",
-      "body": "About 10 km along the Dương Đông–Hàm Ninh road. The nature account calls the walk in from there a gentle hike."
+      "body": "About 10 km along the Dương Đông–Hàm Ninh road. The walk in from there is a gentle hike."
     },
     {
       "heading": "From Hàm Ninh",
@@ -41,13 +41,15 @@
     {
       "label": "Suối Tranh",
       "url": "https://vietnamtourism.vn/index.php/tourism/items/1377/",
-      "note": "Cục Du lịch Quốc gia Việt Nam"
+      "note": "About 10 km; swim, camp, and Hang Dơi"
     },
     {
-      "label": "Nature account",
+      "label": "Forest walk",
       "url": "https://vietnam.travel/things-to-do/phu-quoc-nature",
-      "note": "Vietnam National Authority of Tourism"
+      "note": "Gentle hike and a dip"
     }
   ],
-  "interests": ["islands"]
+  "interests": [
+    "islands"
+  ]
 }

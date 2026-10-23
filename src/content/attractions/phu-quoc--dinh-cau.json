@@ -4,7 +4,7 @@
   "name": "Dinh Cau",
   "nameVi": "Dinh Cậu",
   "kicker": "Temple on the rocks at Dương Đông",
-  "summary": "Rock temple in Dương Đông: stand on the point at sunset, then watch the squid boats light the water. The bureau says the temple was built in 1937 for Cậu, a deity over the waters, to protect boats in heavy weather. Vietnam National Authority of Tourism also calls it a pagoda and a lighthouse shrine to the goddess of the sea. Both names and both deities stay. The visit is the late afternoon.",
+  "summary": "Rock temple in Dương Đông: stand on the point at sunset, then watch the squid boats light the water. Built in 1937 for Cậu, a deity over the waters, to protect boats in heavy weather. It is also a pagoda and a lighthouse shrine to the goddess of the sea. The visit is the late afternoon.",
   "dots": 4,
   "district": "Duong Dong",
   "timeNeeded": "Late afternoon",
@@ -13,8 +13,8 @@
   "verified": "23 Oct 2026",
   "heroCaption": "Dinh Cậu on the rocks, with the shrine stairs and the harbour water",
   "body": [
-    "Stand at Dinh Cậu for the sunset, then stay as the beach empties and the squid boats light the water. Cục Du lịch Quốc gia Việt Nam says the temple was built in 1937 for Cậu, a deity with authority over the waters, to protect boats in heavy weather, and that the lights on the water after dark look like a city. Vietnam National Authority of Tourism calls the building Dinh Cau Temple and Dinh Cau Pagoda. The nature account says sailors pray to the goddess of the sea. The day account says the lighthouse doubles as a shrine to the Goddess of the Sea, with the view over the harbour. All three names stay, and both deities stay.",
-    "Bãi Trường’s bureau page starts the long beach at Mũi Dinh Cậu, so the temple is the north end of that sand, in Dương Đông. The night account closes the streets near the rock temple to traffic from 5 pm until midnight for the market. Come for the light, then walk into the stalls if the catch is the dinner."
+    "Stand at Dinh Cậu for the sunset, then stay as the beach empties and the squid boats light the water. The temple was built in 1937 for Cậu, a deity with authority over the waters, to protect boats in heavy weather. After dark the lights on the water look like a city. The building is also called Dinh Cau Temple and Dinh Cau Pagoda. Sailors pray to the goddess of the sea, and the lighthouse doubles as a shrine to her, with the view over the harbour.",
+    "Bãi Trường starts at Mũi Dinh Cậu, so the temple is the north end of that sand, in Dương Đông. The streets near the rock temple close to traffic from 5 pm until midnight for the market. Come for the light, then walk into the stalls if the catch is the dinner."
   ],
   "figures": [
     {
@@ -24,7 +24,7 @@
     }
   ],
   "gettingThere": [
-    "Dinh Cậu stands on the Dương Đông shore, at Mũi Dinh Cậu, where Bãi Trường begins. The bureau places the town in the west-centre of the island. Walk to it from a room in town. From a room on the long beach, the temple is the north end of the sand."
+    "Dinh Cậu stands on the Dương Đông shore, at Mũi Dinh Cậu, where Bãi Trường begins. The town sits in the west-centre of the island. Walk to the temple from a room in town. From a room on the long beach, it is the north end of the sand."
   ],
   "legs": [
     {
@@ -41,13 +41,15 @@
     {
       "label": "Dinh Cậu",
       "url": "https://vietnamtourism.vn/index.php/tourism/items/1968",
-      "note": "Cục Du lịch Quốc gia Việt Nam"
+      "note": "Built in 1937 for Cậu"
     },
     {
       "label": "A day in Phu Quoc",
       "url": "https://www.vietnam.travel/things-to-do/a-day-in-phu-quoc",
-      "note": "Vietnam National Authority of Tourism"
+      "note": "Pagoda and lighthouse shrine to the goddess of the sea"
     }
   ],
-  "interests": ["islands"]
+  "interests": [
+    "islands"
+  ]
 }

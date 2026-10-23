@@ -4,7 +4,7 @@
   "name": "Hon Thom Cable Car",
   "nameVi": "Cáp treo Hòn Thơm",
   "kicker": "Over-sea cable car to Hòn Thơm",
-  "summary": "Over-sea cable car: ride about 15 minutes from Sunset Town to Hòn Thơm for the south-island view. From 1 January 2026 the return ticket is 850,000 đồng above 1.4 m. The same operator’s earlier account still gives 650,000 đồng for an adult. The system length is 7,899.9 m, and the crossing is also given as about 13 km. Both lengths stay. The bridge and the show sit outside the ticket.",
+  "summary": "Over-sea cable car: ride about 15 minutes from Sunset Town to Hòn Thơm for the south-island view. From 1 January 2026 the return ticket is 850,000 đồng above 1.4 m. An earlier fare is 650,000 đồng for an adult. The system is 7,899.9 m, and the crossing is also about 13 km. The bridge and the show sit outside the ticket.",
   "dots": 4,
   "district": "The south",
   "timeNeeded": "A south day",
@@ -13,12 +13,12 @@
   "verified": "23 Oct 2026",
   "heroCaption": "A cabin on the Hòn Thơm cable car, over the islets and the turquoise water",
   "notice": {
-    "title": "The ticket is not the show",
+    "title": "Bridge and show are extra",
     "body": "From 1 January 2026 the return ticket includes one same-day entry to Sun World Hon Thom, Làng Exotica, and Aquatopia. It does not include food, lodging, paid beach activities, Cầu Hôn, or the Kiss of the Sea show."
   },
   "body": [
-    "Ride from ga Ánh Dương at Thị trấn Hoàng Hôn to ga Hòn Thơm. Sun World’s about page says the system is 7,899.9 m and the ride is 15 minutes, and also that the crossing is about 13 km over the sea. Both lengths stay. Vietnam National Authority of Tourism calls the ride one of the world’s longest over-sea cable cars, over fishing villages and islets. The station is at Bãi Đất Đỏ, about 31 km from thị trấn Dương Đông and about 21 km from the airport.",
-    "Two tariffs are still on the operator’s site. From 1 January 2026 the return ticket is 850,000 đồng above 1.4 m, 700,000 đồng from 1 m to 1.4 m, and free under 1 m, with runs at 09:30–11:30, 13:30–14:00, and 15:30–17:30, both ways. The about page, applied from 9 December 2023, says 650,000 đồng for an adult and 500,000 đồng for a child, free under 1 m, and hours 9:00–11:30 and 13:30–17:00. Both tariffs and both clocks stay. Weather and maintenance can change the runs. The 2026 ticket includes one same-day entry to the park, Làng Exotica, and Aquatopia. Cầu Hôn and Kiss of the Sea are paid extras."
+    "Ride from ga Ánh Dương at Thị trấn Hoàng Hôn to ga Hòn Thơm. The system is 7,899.9 m and the ride is 15 minutes. The crossing is also about 13 km over the sea. It is one of the world’s longest over-sea cable cars, over fishing villages and islets. The station is at Bãi Đất Đỏ, about 31 km from thị trấn Dương Đông and about 21 km from the airport.",
+    "From 1 January 2026 the return ticket is 850,000 đồng above 1.4 m, 700,000 đồng from 1 m to 1.4 m, and free under 1 m, with runs at 09:30–11:30, 13:30–14:00, and 15:30–17:30, both ways. A fare in force from 9 December 2023 is 650,000 đồng for an adult and 500,000 đồng for a child, free under 1 m, with hours 9:00–11:30 and 13:30–17:00. Weather and maintenance can change the runs. The 2026 ticket includes one same-day entry to the park, Làng Exotica, and Aquatopia. Cầu Hôn and Kiss of the Sea are paid extras."
   ],
   "figures": [
     {
@@ -33,7 +33,7 @@
   "legs": [
     {
       "heading": "From Dương Đông",
-      "body": "About 31 km south to ga Ánh Dương at Sunset Town. The ride itself is 15 minutes on the about page."
+      "body": "About 31 km south to ga Ánh Dương at Sunset Town. The ride itself is 15 minutes."
     },
     {
       "heading": "From the airport",
@@ -41,19 +41,21 @@
     }
   ],
   "hours": "From 1 Jan 2026: 09:30–11:30, 13:30–14:00, and 15:30–17:30",
-  "closed": "Weather and maintenance can change the runs. The 9 Dec 2023 account gives 9:00–11:30 and 13:30–17:00.",
-  "admissionNote": "From 1 January 2026, return ticket 850,000 đồng above 1.4 m, 700,000 đồng from 1 m to 1.4 m, free under 1 m. The about page, dated from 9 December 2023, still gives 650,000 đồng for an adult, 500,000 đồng for a child, and free under 1 m. Both stay. The 2026 ticket includes the round trip and one same-day entry to Sun World Hon Thom, Làng Exotica, and Aquatopia. Food, lodging, diving, walking under the sea, Cầu Hôn, and Kiss of the Sea are extra.",
+  "closed": "Weather and maintenance can change the runs. Hours in force from 9 December 2023 were 9:00–11:30 and 13:30–17:00.",
+  "admissionNote": "From 1 January 2026, return ticket 850,000 đồng above 1.4 m, 700,000 đồng from 1 m to 1.4 m, free under 1 m. From 9 December 2023 the fare is 650,000 đồng for an adult, 500,000 đồng for a child, and free under 1 m. The 2026 ticket includes the round trip and one same-day entry to Sun World Hon Thom, Làng Exotica, and Aquatopia. Food, lodging, diving, walking under the sea, Cầu Hôn, and Kiss of the Sea are extra.",
   "links": [
     {
       "label": "2026 prices and hours",
       "url": "https://sunworld.vn/vi/hon-thom/di-chuyen/thong-bao-bang-gia-tai-sun-world-phu-quoc-tu-24-04-2023html",
-      "note": "Sun World Hon Thom, applied from 1 January 2026"
+      "note": "Fares and hours from 1 January 2026"
     },
     {
       "label": "Cable car",
       "url": "https://sunworld.vn/vi/hon-thom/an-choi/cap-treo-hon-thomhtml",
-      "note": "Sun World about page, hours from 9 December 2023"
+      "note": "7,899.9 m, and the fare from 9 December 2023"
     }
   ],
-  "interests": ["islands"]
+  "interests": [
+    "islands"
+  ]
 }
