@@ -315,7 +315,8 @@ export interface ItineraryApproach {
 
 export interface ItineraryStop {
   name: string;
-  minutes: number;
+  /** A sourced count of minutes, or “Check on arrival” when no duration was published. */
+  minutes?: number | 'Check on arrival';
   walkMinutes?: number;
   placeSlug?: string;
   attractionSlug?: string;
@@ -330,6 +331,16 @@ export interface ItineraryDay {
   placeSlug?: string;
   photo?: string;
   routeSlug?: string;
+  itinerarySlug?: string;
+}
+
+/** An optional stop named on a day plan. No fee, hour, or travel time. */
+export interface ItineraryAddition {
+  name: string;
+  note: string;
+  placeSlug?: string;
+  attractionSlug?: string;
+  dishSlug?: string;
   itinerarySlug?: string;
 }
 
@@ -353,6 +364,7 @@ export interface Itinerary {
   photo?: string;
   days?: ItineraryDay[];
   stops?: ItineraryStop[];
+  additions?: ItineraryAddition[];
   seoTitle: string;
   seoDescription: string;
 }

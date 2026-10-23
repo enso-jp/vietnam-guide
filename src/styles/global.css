@@ -1695,25 +1695,78 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
 .rail-arrow[hidden] { display: none; }
 .rail-prev { left: -0.3rem; }
 .rail-next { right: -0.3rem; }
-.day-list { border-top: 1px solid var(--line); }
+.itinerary-body { padding-top: 2.25rem; }
 .itinerary-grid > .rail { position: sticky; top: 6.4rem; align-self: start; z-index: 1; }
-.day-card {
+.fact-gap { display: block; height: 1.15rem; margin-bottom: 0.35rem; }
+.route-map { position: relative; width: min(100%, 17.5rem); margin: 0.35rem 0 0.15rem; }
+.route-map .map-svg { display: block; }
+.route-overlay { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
+.route-overlay polyline { fill: none; stroke: var(--lacquer); stroke-linejoin: round; stroke-linecap: round; }
+.route-overlay circle { fill: #fff; stroke: var(--lacquer); }
+.route-overlay .route-num { fill: var(--ink); font-weight: 700; }
+.route-overlay .route-name { fill: var(--ink); font-weight: 650; }
+.day-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 0.9rem; margin-top: 1.35rem; }
+.day-cards > section { display: flex; min-width: 0; }
+.day-plan-card { flex: 1; }
+.day-plan-card h2 { margin: 0; font-family: var(--sans); font-size: 1.08rem; font-weight: 700; line-height: 1.3; }
+.day-plan-card .jg-body p { margin: 0.35rem 0 0; color: var(--muted); }
+.stop-timeline { list-style: none; margin: 0.4rem 0 0; padding: 0; }
+.stop-timeline > li { position: relative; padding: 0 0 0.35rem 1.55rem; }
+.stop-timeline > li::before {
+  content: "";
+  position: absolute;
+  left: 0.28rem;
+  top: 0.35rem;
+  bottom: 0;
+  width: 2px;
+  background: var(--lacquer);
+}
+.stop-timeline > li:last-child::before { bottom: auto; height: 0.85rem; }
+.stop-timeline > li::after {
+  content: "";
+  position: absolute;
+  left: 0.05rem;
+  top: 1.15rem;
+  width: 0.5rem;
+  height: 0.5rem;
+  border: 2px solid var(--lacquer);
+  border-radius: 50%;
+  background: #fff;
+}
+.stop-node {
   display: grid;
-  grid-template-columns: 16rem minmax(0, 1fr);
-  gap: 1.15rem;
-  align-items: center;
-  margin: 0;
-  padding: 0.95rem 0;
-  border-bottom: 1px solid var(--line);
+  grid-template-columns: 7.4rem minmax(0, 1fr);
+  gap: 0.85rem;
+  align-items: start;
+  padding: 0.7rem 0 0.15rem;
   color: inherit;
   text-decoration: none;
 }
-.day-card:hover h2 { color: var(--lacquer); }
-.day-photo { display: block; overflow: hidden; border-radius: 8px; background: #ececec; }
-.day-photo img, .day-photo svg { width: 100%; height: 10.5rem; object-fit: cover; display: block; }
-.day-photo .cover { min-height: 0; height: 10.5rem; border: 0; }
-.day-card h2 { margin: 0 0 0.3rem; font-size: 1.28rem; }
-.day-card p { margin: 0; color: var(--muted); font-size: 0.95rem; line-height: 1.45; }
+.stop-node:hover h3 { color: var(--lacquer); }
+.stop-node .thumb { display: block; overflow: hidden; border-radius: 12px; background: #ececec; }
+.stop-node .thumb img, .stop-node .thumb svg { width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; display: block; }
+.stop-node h3 { margin: 0 0 0.2rem; font-size: 1.05rem; }
+.stop-node p { margin: 0; color: var(--muted); font-size: 0.95rem; line-height: 1.45; }
+.stop-node .meta { margin-top: 0.25rem; font-variant-numeric: tabular-nums; }
+.stop-node:not(:has(.thumb)),
+.addition-row:not(:has(.thumb)) { grid-template-columns: minmax(0, 1fr); }
+.stop-leg { margin: 0.15rem 0 0.55rem; color: var(--muted); font-size: 0.88rem; }
+.addition-list { list-style: none; margin: 0.4rem 0 0; padding: 0; }
+.addition-row {
+  display: grid;
+  grid-template-columns: 7.4rem minmax(0, 1fr);
+  gap: 0.85rem;
+  align-items: center;
+  padding: 0.75rem 0;
+  border-top: 1px solid var(--line);
+  color: inherit;
+  text-decoration: none;
+}
+.addition-row .thumb { display: block; overflow: hidden; border-radius: 12px; background: #ececec; }
+.addition-row .thumb img, .addition-row .thumb svg { width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; display: block; }
+.addition-row h3 { margin: 0 0 0.2rem; font-size: 1.05rem; }
+.addition-row p { margin: 0; color: var(--muted); font-size: 0.95rem; line-height: 1.45; }
+.addition-row:hover h3 { color: var(--lacquer); }
 .aff-list { list-style: none; margin: 0.6rem 0 0; padding: 0; display: flex; flex-direction: column; gap: 0.75rem; }
 .aff-row {
   display: grid;
@@ -2592,8 +2645,10 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   .food-guide > .rail { position: static; }
   .prose-figure img, .prose-figure svg, .prose-figure .cover { height: auto; aspect-ratio: 3 / 2; }
   .place-photo img, .place-photo .cover svg { height: auto; aspect-ratio: 16 / 9; }
-  .aff-row, .day-card { grid-template-columns: 6.2rem minmax(0, 1fr); }
-  .day-photo img, .day-photo svg, .day-photo .cover { height: 5.2rem; }
+  .aff-row { grid-template-columns: 6.2rem minmax(0, 1fr); }
+  .day-cards { grid-template-columns: 1fr; }
+  .fact-gap { display: none; }
+  .stop-node, .addition-row { grid-template-columns: 6.2rem minmax(0, 1fr); }
   .itinerary-grid > .rail { position: static; }
   .rank-row.stop-row { grid-template-columns: 7.2rem minmax(0, 1fr); }
   .rank-row .thumb img, .rank-row .thumb svg { height: 6.2rem; }

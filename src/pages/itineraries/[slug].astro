@@ -4,16 +4,28 @@ import Crumbs from '../../components/Crumbs.astro';
 import Icon from '../../components/Icon.astro';
 import Photo from '../../components/Photo.astro';
 import PlanTabs from '../../components/PlanTabs.astro';
+import RouteMap from '../../components/RouteMap.astro';
 import TripOtherStay from '../../components/TripOtherStay.astro';
 import { attractionPath, getAttractions, getItineraries, getPlace, pageDescription, placePath } from '../../lib/content';
+import { photoPath } from '../../lib/photos';
+import { routePins } from '../../lib/route-map';
 import { abs, breadcrumbList } from '../../lib/schema';
+import type { ItineraryAddition, ItineraryApproach, ItineraryStop } from '../../lib/types';
 
 export function getStaticPaths() {
   return getItineraries().map((trip) => ({ params: { slug: trip.slug }, props: { trip } }));
 }
 const { trip } = Astro.props;
 const days = (trip.days || []).map((day, index) => ({ ...day, id: `day-${index + 1}` }));
-const placeFrom = (slug?: string) => (slug ? getPlace(slug) : undefined);
+const stops = trip.stops || [];
+const additions = trip.additions || [];
+const showDays = days.length > 1 || trip.level === 'nationwide' || trip.level === 'region';
+const pins = showDays
+  ? routePins(days.flatMap((day) => {
+      const place = day.placeSlug ? getPlace(day.placeSlug) : undefined;
+      return place ? [place] : [];
+    }))
+  : [];
 const otherTrips = getItineraries().filter((item) => item.slug !== trip.slug);
 const path = `/itineraries/${trip.slug}`;
 const description = pageDescription(trip.seoDescription, trip.summary);
@@ -42,98 +54,171 @@ const jsonLd = {
       }
     : {}),
 };
+
+const MODE: Record<ItineraryApproach['mode'], string> = {
+  walk: 'on foot',
+  bicycle: 'by bicycle',
+  grab: 'by car',
+  taxi: 'by taxi',
+  boat: 'by boat',
+  bus: 'by bus',
+};
+
+function travelLabel(stop: ItineraryStop): string {
+  if (stop.approach?.minutes != null) {
+    const mode = MODE[stop.approach.mode];
+    return stop.approach.note ? `${stop.approach.minutes} min ${mode}. ${stop.approach.note}` : `${stop.approach.minutes} min ${mode}`;
+  }
+  if (stop.walkMinutes != null && stop.walkMinutes > 0) return `${stop.walkMinutes} min on foot`;
+  return '';
+}
+
+function linkedPhoto(item: { placeSlug?: string; attractionSlug?: string; dishSlug?: string }): string {
+  if (item.attractionSlug && item.placeSlug) {
+    const id = `${item.placeSlug}-${item.attractionSlug}`;
+    if (photoPath(id)) return id;
+  }
+  if (item.dishSlug && photoPath(item.dishSlug)) return item.dishSlug;
+  if (!item.attractionSlug && !item.dishSlug && item.placeSlug && photoPath(item.placeSlug)) return item.placeSlug;
+  return '';
+}
+
+function linkedHref(item: ItineraryAddition | ItineraryStop): string {
+  const attraction = item.attractionSlug && item.placeSlug
+    ? getAttractions().find((entry) => entry.slug === item.attractionSlug && entry.placeSlug === item.placeSlug)
+    : undefined;
+  if (attraction) return attractionPath(attraction);
+  if (item.dishSlug) return `/food/${item.dishSlug}`;
+  if ('itinerarySlug' in item && item.itinerarySlug) return `/itineraries/${item.itinerarySlug}`;
+  const place = item.placeSlug ? getPlace(item.placeSlug) : undefined;
+  return place ? placePath(place) : '';
+}
 ---
 <Base title={trip.seoTitle} description={description} path={path} jsonLd={[jsonLd, breadcrumbList(crumbSchema)]}>
   <article class="wrap section">
     <Crumbs items={[{ name: 'Plan a trip', href: '/plan' }, { name: 'Itinerary ideas', href: '/itineraries' }, { name: trip.title }]} />
     <h1>{trip.title}</h1>
     <PlanTabs current="itineraries" />
-    <p class="lede">{trip.summary}</p>
-    <div class="facts">
-      <div><span>Duration</span><strong>{trip.duration}</strong></div>
-      <div><span>Budget</span><strong>{trip.budget}</strong></div>
-      <div><span>Pace</span><strong>{trip.pace}</strong></div>
-    </div>
-    <div class="place-grid itinerary-grid">
-      <div class="day-list">
-        {days.map((day, index) => {
-          const place = day.placeSlug ? getPlace(day.placeSlug) : undefined;
-          const photo = day.photo || place?.slug || '';
-          const inner = (
-            <>
-              <span class="day-photo">
-                <Photo id={photo} alt="" cover={place?.cover || 'city'} priority={index === 0} />
-              </span>
-              <span>
-                <h2>{day.title}</h2>
-                <p>{day.body}</p>
-              </span>
-            </>
-          );
-          return (
-            <section id={day.id}>
-              {place ? <a class="day-card" href={placePath(place)}>{inner}</a> : <div class="day-card">{inner}</div>}
-            </section>
-          );
-        })}
-    {trip.stops && (
-      <section id="stops" class="place-section">
-        <h2>Stops</h2>
-        <ol class="rank-list">
-          {trip.stops.map((stop) => {
-            const attraction = stop.attractionSlug && stop.placeSlug
-              ? getAttractions().find((item) => item.slug === stop.attractionSlug && item.placeSlug === stop.placeSlug)
-              : undefined;
-            const place = stop.placeSlug ? getPlace(stop.placeSlug) : undefined;
-            const href = attraction
-              ? attractionPath(attraction)
-              : stop.dishSlug
-                ? `/food/${stop.dishSlug}`
-                : place
-                  ? placePath(place)
-                  : '';
-            const photo = attraction
-              ? `${attraction.placeSlug}-${attraction.slug}`
-              : stop.dishSlug || stop.placeSlug || '';
-            const body = (
-              <>
-                <span class="thumb">
-                  <Photo id={photo} fallbackId={stop.placeSlug} alt="" cover={place?.cover} />
-                </span>
-                <span class="rank-copy">
-                  <h3>{stop.name}</h3>
-                  <p>{stop.note}</p>
-                  <p class="meta">{stop.minutes} min{stop.walkMinutes ? ` · walk ${stop.walkMinutes} min` : ''}</p>
-                </span>
-              </>
-            );
-            return (
-              <li>
-                {href ? <a class="rank-row stop-row" href={href}>{body}</a> : <div class="rank-row stop-row">{body}</div>}
-              </li>
-            );
-          })}
-        </ol>
-      </section>
-    )}
+    <div class="itinerary-body">
+      <p class="lede">{trip.summary}</p>
+      <div class="facts" style="--fact-cols:3">
+        <div><Icon name="clock" /><span>Duration</span><strong>{trip.duration}</strong></div>
+        <div><span class="fact-gap"></span><span>Budget</span><strong>{trip.budget}</strong></div>
+        <div><span class="fact-gap"></span><span>Pace</span><strong>{trip.pace}</strong></div>
       </div>
-      <aside class="rail">
-        <div class="stay-box">
-          <h2>Book your <em>stay</em></h2>
-          <TripOtherStay />
+      <div class="place-grid itinerary-grid">
+        <div class="itinerary-main">
+          {pins.length > 1 && <RouteMap pins={pins} />}
+          {showDays && (
+            <div class="day-cards">
+              {days.map((day, index) => {
+                const place = day.placeSlug ? getPlace(day.placeSlug) : undefined;
+                const photo = (day.photo && photoPath(day.photo) && day.photo) || (place && photoPath(place.slug) ? place.slug : '');
+                const href = day.itinerarySlug
+                  ? `/itineraries/${day.itinerarySlug}`
+                  : place
+                    ? placePath(place)
+                    : '';
+                const inner = (
+                  <>
+                    {photo && (
+                      <span class="media">
+                        <Photo id={photo} alt="" cover={place?.cover || 'city'} priority={index === 0} />
+                        <span class="rank-badge">{index + 1}</span>
+                      </span>
+                    )}
+                    <span class="jg-body">
+                      <h2>{day.title}</h2>
+                      <p>{day.body}</p>
+                    </span>
+                  </>
+                );
+                return (
+                  <section id={day.id}>
+                    {href ? <a class="jg-card day-plan-card" href={href}>{inner}</a> : <div class="jg-card day-plan-card">{inner}</div>}
+                  </section>
+                );
+              })}
+            </div>
+          )}
+          {stops.length > 0 && (
+            <section id="stops" class="place-section">
+              <h2>Stops</h2>
+              <ol class="stop-timeline">
+                {stops.map((stop) => {
+                  const place = stop.placeSlug ? getPlace(stop.placeSlug) : undefined;
+                  const photo = linkedPhoto(stop);
+                  const href = linkedHref(stop);
+                  const leg = travelLabel(stop);
+                  const body = (
+                    <>
+                      {photo && (
+                        <span class="thumb">
+                          <Photo id={photo} alt="" cover={place?.cover} />
+                        </span>
+                      )}
+                      <span class="rank-copy">
+                        <h3>{stop.name}</h3>
+                        <p>{stop.note}</p>
+                        {stop.minutes != null && <p class="meta">{typeof stop.minutes === 'number' ? `${stop.minutes} min` : stop.minutes}</p>}
+                      </span>
+                    </>
+                  );
+                  return (
+                    <li>
+                      {href ? <a class="stop-node" href={href}>{body}</a> : <div class="stop-node">{body}</div>}
+                      {leg && <p class="stop-leg">{leg}</p>}
+                    </li>
+                  );
+                })}
+              </ol>
+            </section>
+          )}
+          {additions.length > 0 && (
+            <section id="additions" class="place-section">
+              <h2>Recommended additions</h2>
+              <ul class="addition-list">
+                {additions.map((extra) => {
+                  const place = extra.placeSlug ? getPlace(extra.placeSlug) : undefined;
+                  const photo = linkedPhoto(extra);
+                  const href = linkedHref(extra);
+                  const body = (
+                    <>
+                      {photo && (
+                        <span class="thumb">
+                          <Photo id={photo} alt="" cover={place?.cover} />
+                        </span>
+                      )}
+                      <span>
+                        <h3>{extra.name}</h3>
+                        <p>{extra.note}</p>
+                      </span>
+                    </>
+                  );
+                  return <li>{href ? <a class="addition-row" href={href}>{body}</a> : <div class="addition-row">{body}</div>}</li>;
+                })}
+              </ul>
+            </section>
+          )}
         </div>
-        {otherTrips.length > 0 && (
-          <div class="panel">
-            <p class="explore-kicker">Plan your trip</p>
-            <h2>Itinerary ideas</h2>
-            <ul class="explore-list">
-              {otherTrips.map((item) => (
-                <li><a href={`/itineraries/${item.slug}`}><Icon name="trip" />{item.title}</a></li>
-              ))}
-            </ul>
+        <aside class="rail">
+          <div class="stay-box">
+            <h2>Book your <em>stay</em></h2>
+            <TripOtherStay />
           </div>
-        )}
-      </aside>
+          {otherTrips.length > 0 && (
+            <div class="panel">
+              <p class="explore-kicker">Plan your trip</p>
+              <h2>Itinerary ideas</h2>
+              <ul class="explore-list">
+                {otherTrips.map((item) => (
+                  <li><a href={`/itineraries/${item.slug}`}><Icon name="trip" />{item.title}</a></li>
+                ))}
+              </ul>
+            </div>
+          )}
+        </aside>
+      </div>
     </div>
   </article>
 </Base>
