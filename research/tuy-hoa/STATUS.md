@@ -12,3 +12,5 @@ Nghị quyết 202/2025/QH15, clause 15, as printed on the reprint opened 22 Oct
 Facts that cite S1–S30 were opened on 22 Oct 2026 and are stamped verified. A line marked UNSOURCED is not. No licensed photo was filed. No public JSON was edited.
 
 Left out: flight minutes; the station street number; road minutes and a city-to-city kilometre for Nha Trang; road minutes for Buôn Ma Thuột; taxi fares; the Tuy Hòa bus-station name; a chosen population and a drawn ward line; gate hours; a second ticket for the cape beside the handbook’s about 10.000 đồng; the cut-off December 2020 sentence; stall prices; market hours; a named café street; the hour the city goes quiet; solar dates; the Sông Cầu and Phước Long dossiers; visa rules, which were not stated.
+
+23 Oct 2026 food pass: the public food guide and 23 dish records were drafted from this dossier plus S31–S42. Status stays stored. Left out of the public list: rượu tằm (title only), a tôm hùm bông headline, and nhân sâm Phú Yên (a medicine gift). No licensed plate photo was filed.
