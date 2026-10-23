@@ -25,15 +25,15 @@
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:08:55.579Z",
+      "status": "enriched",
+      "note": "Place prose rewritten from the dossier. Hero stays Pa Sy. Lat and lng unset. Kon Pring photo replaced with the village. Food guide left skipped.",
+      "updated": "2026-10-23T06:21:53.857Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:08:55.579Z",
+      "status": "checked",
+      "note": "Read the place against the dossier. Hero is Pa Sy. Both Pa Sy fees are printed. Lat and lng unset. Dots unchanged. Kon Pring frame is the village, not Kon Kotu. Food guide stays skipped.",
+      "updated": "2026-10-23T06:22:15.307Z",
       "reworkCount": 0
     },
     "food": {
@@ -256,13 +256,29 @@
   "questions": [],
   "claim": {
     "place": "mang-den",
-    "stage": "destinationCopy",
-    "item": null,
-    "at": "2026-10-23T06:08:55.613Z",
+    "stage": "copy",
+    "item": "mang-den--pa-sy-waterfall",
+    "at": "2026-10-23T06:22:15.372Z",
     "by": "mang-den-copy",
     "branch": "cursor/mang-den-destination-copy-cff6"
   },
   "log": [
+    {
+      "at": "2026-10-23T06:22:15.307Z",
+      "place": "mang-den",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Read the place against the dossier. Hero is Pa Sy. Both Pa Sy fees are printed. Lat and lng unset. Dots unchanged. Kon Pring frame is the village, not Kon Kotu. Food guide stays skipped."
+    },
+    {
+      "at": "2026-10-23T06:21:53.857Z",
+      "place": "mang-den",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Place prose rewritten from the dossier. Hero stays Pa Sy. Lat and lng unset. Kon Pring photo replaced with the village. Food guide left skipped."
+    },
     {
       "at": "2026-10-23T06:08:55.580Z",
       "place": "mang-den",
