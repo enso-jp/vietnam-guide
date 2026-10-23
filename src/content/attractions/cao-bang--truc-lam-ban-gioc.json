@@ -4,36 +4,37 @@
   "name": "Truc Lam Ban Gioc Pagoda",
   "nameVi": "Chùa Phật Tích Trúc Lâm Bản Giốc",
   "kicker": "Pagoda viewpoint above the valley",
-  "summary": "Climb the short, steep walk to Truc Lam Ban Gioc when you want the valley behind the roof, not only the hall. The pagoda is on Phia Nhan, in the same Dam Thuy valley as the falls. Skip it if you have already used the afternoon and the light is gone.",
+  "summary": "Climb to Truc Lam Ban Gioc on Phia Nhan and look out over the Quay Son valley. The walk is short and steep, and the roof sits above the falls and the fields. Do it on the falls day, while the light is still good. The fee and the minutes from the falls are check on arrival.",
   "dots": 4,
   "timeNeeded": "A short, steep walk",
   "fee": "Check on arrival",
   "getThere": "Same valley as Ban Gioc. Minutes from the falls are check on arrival.",
-  "verified": "21 Oct 2026",
+  "district": "Dam Thuy",
+  "verified": "23 Oct 2026",
   "heroCaption": "The pagoda roof at Truc Lam Ban Gioc, with the karst valley behind it",
   "notice": {
     "title": "The viewpoint is the visit",
-    "body": "A frame of the hall alone loses the valley. In the low-water months the falls themselves are still a 10:30 to 15:30 visit. Do not save the pagoda for after that window and expect the cascade at its best."
+    "body": "A frame of the hall alone loses the valley. In the low-water months the falls are still a 10:30 to 15:30 visit. Do not leave the pagoda until after that window and expect the cascade at its best."
   },
   "body": [
-    "The geopark calls this the first Truc Lam pagoda of its line built on this northern border. You climb Phia Nhan and look down on the Quay Son and the fields. Vietnam Tourism calls the walk short and steep. Under an hour once you are there is the shape of it. The exact count is check on arrival.",
-    "The photograph here is the roof and the karst valley. It does not put the cascade in the same frame. If the falls are what you came to see from this height, wait for a clear view and do not stop at the hall door.",
-    "Do it on the falls day, not as a trip of its own from Hanoi. A fee is check on arrival. No tariff was on the geopark article or on Vietnam Tourism."
+    "Truc Lam Ban Gioc stands on Phia Nhan, in Dam Thuy. It is the first pagoda of this line built on this northern border. You climb and look down on the falls, the Quay Son, and the fields. The walk is short and steep.",
+    "Keep the valley in the frame. Early morning and the late light are the useful hours for that view. The minutes from the falls to the first hall are check on arrival.",
+    "Do it on the falls day, not as a trip of its own from Hanoi. A fee is check on arrival."
   ],
   "figures": [
     {
       "id": "cao-bang-truc-lam-ban-gioc-2",
-      "caption": "The stair of halls on the climb at Truc Lam Ban Gioc",
-      "alt": "People climbing stone stairs between tiled halls at Truc Lam Ban Gioc pagoda"
+      "caption": "The stair down to the gate hall at Truc Lam Ban Gioc",
+      "alt": "People walking down stone stairs toward the tiled gate hall at Truc Lam Ban Gioc, with the valley behind"
     }
   ],
   "gettingThere": [
-    "The pagoda is on Phia Nhan, in Dam Thuy, in the same valley as Ban Gioc. The eastern road from the city is the falls road: more than 80 km, then the valley. Minutes from the gate of the falls up to the pagoda are check on arrival."
+    "The pagoda is on Phia Nhan, in the same Dam Thuy valley as Ban Gioc. From Cao Bang city the eastern road is more than 80 km, then the valley. Minutes from the falls up to the pagoda are check on arrival."
   ],
   "legs": [
     {
       "heading": "From Ban Gioc",
-      "body": "Same valley. Vietnam Tourism calls the walk short and steep. No published minute count from the falls to the first hall was on the pages read."
+      "body": "Same valley. The walk is short and steep. Minutes from the falls to the first hall are check on arrival."
     },
     {
       "heading": "From Cao Bang city",
@@ -41,13 +42,18 @@
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly closing day was on the pages read. Check the board on arrival.",
-  "admissionNote": "Check on arrival. No fee was printed on the geopark’s eastern-route article or on the Vietnam Tourism pages read for this sight.",
+  "closed": "Check on arrival.",
+  "admissionNote": "Check on arrival.",
   "links": [
     {
-      "label": "Cao Bang on Vietnam Tourism",
+      "label": "Cao Bang",
       "url": "https://vietnam.travel/things-to-do/discovering-cao-bang-7-must-do-experiences",
-      "note": "Calls the walk short and steep"
+      "note": "The walk and the valley"
+    },
+    {
+      "label": "Ban Gioc",
+      "url": "https://vietnam.travel/things-to-do/ban-gioc-waterfall-majestic-beauty-northern-border",
+      "note": "The short climb and the view"
     }
   ],
   "interests": ["pagodas", "photography"]

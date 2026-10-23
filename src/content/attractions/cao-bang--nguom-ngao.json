@@ -4,21 +4,22 @@
   "name": "Nguom Ngao Cave",
   "nameVi": "Động Ngườm Ngao",
   "kicker": "Lit cave near the falls",
-  "summary": "Walk the lit passage at Nguom Ngao on the same day as Ban Gioc. The cave is about 4 km from the falls, in Ban Gun. Vietnam Tourism says about an hour or more for the open kilometre. Skip the rough Ban Thuon branch unless you have asked whether that longer visit is the one on offer.",
+  "summary": "Walk the lit passage at Nguom Ngao, the cave about 4 km from Ban Gioc. Do it on the same day as the falls. The floor is wet. The system is more than 2,000 m, with three mouths, and it is also 2,144 m with 948 m open. The Ban Thuon branch is a longer, rougher visit. The fee and the time inside are check on arrival.",
   "dots": 4,
-  "timeNeeded": "About an hour or more for the lit walk",
+  "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
   "getThere": "About 4 km from Ban Gioc, on the same Dam Thuy day.",
-  "verified": "21 Oct 2026",
+  "district": "Dam Thuy",
+  "verified": "23 Oct 2026",
   "heroCaption": "A lit chamber in Nguom Ngao, with stalactite columns",
   "notice": {
     "title": "The long branch is not the lit walk",
-    "body": "Vietnam Tourism gives about an hour or more for the open kilometre. The Ban Thuon branch is nearly 3 km, with climbing and wading. Do not budget them as the same hour."
+    "body": "The ordinary visit is the lit passage. The Ban Thuon branch, opened in 2021, is nearly 3 km, with climbing and wading. Do not budget them as the same walk."
   },
   "body": [
-    "The ordinary visit is an electrically lit passage. Guides name shapes in the chambers, including a golden falls, an upside-down lotus, and terraces. The Tay name is tiger cave. The floor is wet. Wear shoes you can soak.",
-    "Lengths do not collapse into one figure. Vietnam Tourism says the system is 2,144 m, with 948 m open to ordinary visitors. The geopark says more than 2,000 m and three mouths: Nguom Ngao, Nguom Lom, and Ban Thuon. From 2021 a Ban Thuon branch of nearly 3 km was opened for a rougher visit. Ask which mouth you are buying before you pay.",
-    "Do this with the falls, in the morning or early afternoon, not as a separate journey from Hanoi. The fee is check on arrival. No tariff page was reloaded for this cave."
+    "The ordinary visit is an electrically lit passage at Ban Gun. The Tay name is tiger cave. Guides point out a golden falls, a silver falls, an upside-down lotus, and terraces. The floor is wet, so wear shoes you can soak.",
+    "Keep both lengths. The cave is more than 2,000 m, with three mouths: Nguom Ngao, Nguom Lom, and Ban Thuon. It is also 2,144 m, with 948 m open to ordinary visitors. From 2021 the Ban Thuon branch, nearly 3 km, is a rougher visit with climbing and wading.",
+    "Do this with the falls, in the morning or early afternoon. Time inside is check on arrival. The fee is check on arrival. Confirm you are buying the lit walk before you pay."
   ],
   "figures": [
     {
@@ -28,26 +29,26 @@
     }
   ],
   "gettingThere": [
-    "Nguom Ngao is at Ban Gun, in Dam Thuy, about 4 km from Ban Gioc on the 2025 eastern-route article. A 2023 geopark article still says Trung Khanh. Go with the falls day. Minutes from the city are the same unsourced drive as the falls, more than 80 km, plus the short hop in the valley."
+    "Nguom Ngao is at Ban Gun, in Dam Thuy, about 4 km from Ban Gioc. Go with the falls day. The city is more than 80 km from the valley, and the minutes on that road are check on arrival."
   ],
   "legs": [
     {
       "heading": "From Ban Gioc",
-      "body": "About 4 km, on the cave road through the valley. The exact minutes are check on arrival. Khuoi Ky, the stone stilt-house village, sits on this road. It has no licensed photograph here, so it is not a separate stop on this page."
+      "body": "About 4 km on the cave road. The minutes are check on arrival. Khuoi Ky, a stone stilt-house village, sits beside this road."
     },
     {
       "heading": "From Cao Bang city",
-      "body": "The eastern road, more than 80 km to the valley, then the short hop to the cave. Drive minutes are check on arrival. No local-bus time was published."
+      "body": "The eastern road, more than 80 km to the valley, then the short hop to the cave. Drive minutes are check on arrival."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly closing day was on the pages read. Check the board on arrival.",
-  "admissionNote": "Check on arrival. This pass did not reload a tariff. The lit walk and the Ban Thuon branch are different visits. Ask which one the ticket is for.",
+  "closed": "Check on arrival.",
+  "admissionNote": "Check on arrival. The lit walk and the Ban Thuon branch are different visits. Confirm which one the ticket is for.",
   "links": [
     {
-      "label": "Cao Bang on Vietnam Tourism",
+      "label": "Cao Bang",
       "url": "https://vietnam.travel/things-to-do/discovering-cao-bang-7-must-do-experiences",
-      "note": "Cave length, the open section, and the hour"
+      "note": "Cave length and the open section"
     }
   ],
   "interests": ["caves"]
