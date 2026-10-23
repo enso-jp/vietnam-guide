@@ -1,0 +1,50 @@
+{
+  "slug": "flag-tower",
+  "placeSlug": "nam-dinh",
+  "name": "Flag tower",
+  "nameVi": "Cột cờ Thành Nam",
+  "kicker": "Nguyễn flag tower in the center",
+  "summary": "Look at the Nguyễn flag tower on đường Tô Hiệu, a short stop in the center. It was finished in Quý Mão, 1843, and it is named with the towers in Huế from 1807, Hà Nội from 1812, and Bắc Ninh from 1838. A gate hour and a ticket are check on arrival. This is not the flag tower in Hanoi.",
+  "dots": 3,
+  "district": "The center",
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Đường Tô Hiệu, in the center. Minutes are check on arrival.",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The flag tower and its brick base under a blue sky",
+  "body": [
+    "The tower stands on đường Tô Hiệu, in phường Ngô Quyền. It is one of four Nguyễn flag towers. Huế was finished in 1807, Hà Nội in 1812, Bắc Ninh in 1838, and this tower in Quý Mão, 1843. You look at the shaft and the brick base from the street. It is not the flag tower in Hanoi.",
+    "A gate hour and a ticket are check on arrival. The minute from the cathedral is check on arrival. Daylight shows the shaft. The door in the base has no hour of its own."
+  ],
+  "figures": [
+    {
+      "id": "nam-dinh-flag-tower-2",
+      "caption": "The shaft, the brick base, and the door",
+      "alt": "The Nam Dinh flag tower from the front steps, with the door in the brick base"
+    }
+  ],
+  "gettingThere": [
+    "The tower is on đường Tô Hiệu, in phường Ngô Quyền, inside the center. Minutes from the cathedral are check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the center",
+      "body": "Đường Tô Hiệu is in the center. The minute from the cathedral, Chợ Rồng, or the lake is check on arrival."
+    },
+    {
+      "heading": "From Hanoi",
+      "body": "The train reaches Ga Nam Định at kilometre 87 in 1 hour 40 minutes or 1 hour 41 minutes. The fare is check on arrival. The minute from the station to the tower is check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "admissionNote": "Check on arrival. No child price is recorded.",
+  "links": [
+    {
+      "label": "City list, 2018",
+      "url": "https://thanhpho.namdinh.gov.vn/di-tich-danh-thang-44984/18-dia-diem-du-lich-noi-tieng-o-nam-dinh-khong-the-khong-di-110361",
+      "note": "Đường Tô Hiệu. Finished in Quý Mão, 1843."
+    }
+  ],
+  "interests": ["warHistory"]
+}
