@@ -3,7 +3,7 @@
 Place: `ba-be`
 Slug: `puong-cave`
 Status: stored
-Checked: 22 Oct 2026
+Checked: 23 Oct 2026
 
 ## What it is
 
@@ -15,7 +15,7 @@ Checked: 22 Oct 2026
 ## What the visitor does
 
 - The scene, in order: Sit in the boat while it goes through, under stalactites, on the Nang
-- How long on site: Part of the boat circuit. A separate “about two hours” on a newspaper interview was not a park clock — UNSOURCED
+- How long on site: Part of the boat circuit, the same boat as Dau Dang when the circuit is the long one. A separate “about two hours” on a newspaper interview was not a park clock — UNSOURCED. Time field: Check on arrival
 - How long including the ride from the base: About 1 km down the Nang from ben Buoc Lom
 - Mistake that wastes the visit: Standing up for a photograph under the bats, or flashing a light at them
 - Notice, if one fact would waste the day: Footsteps, torchlight, and talking wake the colony
@@ -58,9 +58,14 @@ Checked: 22 Oct 2026
 
 ## Photos
 
-- Hero must show: the mouth, the river, and the boat. File:Puong_Cave_(32141938878).jpg, Rod Waddington, CC BY-SA 2.0. The deck is in the foreground
-- Second frame must show: the mouth looking out, river and cliff, a different moment. File:Ba_Be_Lake_-_Puong_cave.JPG, Ba Be National Park, CC BY-SA 3.0
-- Reject: the Nguyen Thanh Long frame with an ePi.Longo watermark; a single stalactite with no boat and no river
+- Hero must show: the mouth, the river, and the boat. File:Puong_Cave_(32141938878).jpg, Rod Waddington, CC BY-SA 2.0. The deck is in the foreground. Opened again 23 Oct 2026. Kept.
+- Second frame must show: the mouth looking out, river and cliff, a different moment. File:Ba_Be_Lake_-_Puong_cave.JPG, Ba Be National Park, CC BY-SA 3.0. Opened again 23 Oct 2026. Kept. It is this cave, not Hua Ma.
+- Reject: the Nguyen Thanh Long frame with an ePi.Longo watermark; a single stalactite with no boat and no river (File:Puong_Cave,_Ba_Be.jpg is one formation). File:Hua-Ma-Cave.png is this same river mouth and is not used as Hua Ma.
+
+## Re-check 23 Oct 2026
+
+- S3 opened again. About 1 km from bến Buốc Lốm, 300 m long, ceiling 30–40 m, average width about 30 m, 23 bat species, hàng vạn. Tài Ngào story unchanged. Footsteps, torchlight, and talking wake the colony. No ticket. No hours.
+- S20 was not re-opened. Hàng chục vạn and 5 km from thị trấn Chợ Rã stay. Public copy prints both bat counts, in English as tens of thousands and hundreds of thousands, and does not name the desk.
 
 ## Links
 
