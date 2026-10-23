@@ -4,21 +4,22 @@
   "name": "Con Dao prison",
   "nameVi": "Nhà tù Côn Đảo",
   "kicker": "Prison camps walked as one site",
-  "summary": "Walk the camps as one site, then go on to Hàng Dương. The history museum counts nearly 2,000 fighters held. The ministry article counts about 20,000 dead. The gate hour and the relic ticket are Check on arrival. The park boat fee does not include this visit.",
+  "summary": "Prison camp system in town: walk the yards and the tiger cages across a morning or an afternoon. The camps began on 1 February 1862 and are one special national relic, with Hàng Dương as the next stop. The relic ticket is separate from the park fee.",
   "dots": 5,
   "timeNeeded": "A morning or an afternoon",
   "fee": "Check on arrival",
-  "getThere": "Walk in town. Confirm the door on arrival.",
-  "verified": "22 Oct 2026",
+  "getThere": "Walk in town to số 02 Nguyễn Huệ, khu 9.",
+  "district": "The town",
+  "verified": "23 Oct 2026",
   "heroCaption": "The camp yard, with cell doors along both sides and the ridge at the end",
   "notice": {
-    "title": "The park fee is not this ticket",
-    "body": "The scenic-route fee does not include the prison. A ticket desk cites 50,000 VND. The relic ticket is Check on arrival."
+    "title": "Buy the relic ticket for the camps",
+    "body": "The park scenic fee covers a park route. The camps take their own ticket."
   },
   "body": [
-    "You walk a camp system, not one building. The history museum says Governor Bonard signed the founding decision on 1 February 1862. It counts 127 cells, 42 isolation cells, and 504 solitary rooms called chuồng cọp. The same chapter says nearly 2,000 revolutionary fighters were held. The ministry’s 2019 article says tens of thousands were held and about 20,000 died. After 1975 the prison function ended. In 1979 the site was ranked a national relic with 17 components. Decision 548/QĐ-TTg of 10 May 2012 ranked it a special national relic.",
-    "Past the yard, the French tiger cages are stone walls, barred doors, and a long cell block. The museum chapter dates those cages to 1940, with 120 solitary rooms and 60 open rooms. Phú Hải, signed on its own gate, is the oldest large camp, built in 1862 and rebuilt in solid form in 1896. The other camps the chapter names belong to the same visit: Phú Thọ, Phú Sơn, Phú Tường, Phú Phong, Phú An, Phú Bình, Phú Hưng, and the unfinished ninth camp. Chuồng Bò began as a cowshed in 1876 and was later used as cells. The lord’s house has 18,600 square metres of grounds and was the workplace of 53 governors from 1862 to 1975.",
-    "An indexed registration extract of 27 December 2024 lists a route through the museum, Phú Tường and the French tiger cages, the lord’s house, Phú Hải, Phú Sơn, Phú Bình, and Phú An, at số 02 Nguyễn Huệ, khu 9. The printed slots are morning 07:30–11:30 and afternoon 14:00–17:00. Hours are Check on arrival. Skip this if you only wanted the swim. Do not budget the tiger cages as a separate island."
+    "You walk the camps as one site. Governor Bonard signed the founding decision on 1 February 1862. The count is 127 cells, 42 isolation cells, and 504 solitary rooms called chuồng cọp. Counts of people held run from nearly 2,000 revolutionary fighters to tens of thousands, with about 20,000 dead. After 1975 the prison function ended. In 1979 the site was ranked a national relic with 17 components. Decision 548/QĐ-TTg of 10 May 2012 ranked it a special national relic. The protected area is more than 110 hectares.",
+    "Past the yard, the French tiger cages are stone walls, barred doors, and a long cell block, dated 1940, with 120 solitary rooms and 60 open rooms. Phú Hải, signed on its own gate, is the oldest large camp, built in 1862 and rebuilt in solid form in 1896. The same visit includes Phú Thọ, Phú Sơn, Phú Tường, Phú Phong, Phú An, Phú Bình, Phú Hưng, and the unfinished ninth camp. Chuồng Bò began as a cowshed in 1876 and was later used as cells. The lord’s house has 18,600 square metres of grounds and was the workplace of 53 governors from 1862 to 1975.",
+    "The listed route runs through the museum, Phú Tường and the French tiger cages, the lord’s house, Phú Hải, Phú Sơn, Phú Bình, and Phú An, at số 02 Nguyễn Huệ, khu 9. The listed windows are morning 07:30–11:30, with slots at 07:30, 08:00, 08:30, and 09:00, and afternoon 14:00–17:00, with slots at 14:00, 14:30, and 15:00. Keep the tiger cages inside this walk."
   ],
   "figures": [
     {
@@ -28,37 +29,37 @@
     }
   ],
   "gettingThere": [
-    "Walk from the town. The indexed extract gives số 02 Nguyễn Huệ, khu 9. Confirm the door. Street minutes were not printed.",
-    "Côn Đảo airport, VVCS, is 10 km northeast of town. Road minutes are Check on arrival. Taxi and hire car are the town transport the AIP lists."
+    "Walk from the town to số 02 Nguyễn Huệ, khu 9.",
+    "Côn Đảo airport, VVCS, is 10 km northeast of town. Taxi and hire car are the town transport."
   ],
   "legs": [
     {
       "heading": "From Côn Sơn town",
-      "body": "Walk. The indexed address is số 02 Nguyễn Huệ, khu 9. Minutes were not printed. Check on arrival."
+      "body": "Walk to số 02 Nguyễn Huệ, khu 9."
     },
     {
       "heading": "From Côn Đảo airport",
-      "body": "VVCS is 10 km northeast of town. Taxi or hire car. The road minutes were not printed. Check on arrival."
+      "body": "VVCS is 10 km northeast of town. Taxi or hire car."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly closing day was printed. Check on arrival.",
-  "admissionNote": "A ticket desk cites Resolution 03/2020/NQ-HĐND of 4 August 2020 at 50,000 VND, and 25,000 VND for the half-price group. The relic ticket is Check on arrival. This is not the park scenic fee. The ministry says the protected area is more than 110 ha.",
+  "closed": "Check on arrival",
+  "admissionNote": "The relic ticket is separate from the park scenic fee. The protected area is more than 110 hectares. Listed windows are morning 07:30–11:30 and afternoon 14:00–17:00.",
   "links": [
     {
       "label": "History museum chapter",
       "url": "https://baotanglichsu.vn/vi/Articles/3096/62104/djoi-net-ve-he-thong-nha-tu-con-djao.html",
-      "note": "National Museum of History, 12 Jan 2018"
+      "note": "Camp dates and cell counts"
     },
     {
       "label": "Ministry article, 2019",
       "url": "https://bvhttdl.gov.vn/ba-ria-vung-tau-ky-niem-40-nam-thanh-lap-khu-di-tich-quoc-gia-dac-biet-con-dao-20190427102930177.htm",
-      "note": "About 20,000 dead, and the 1979 ranking"
+      "note": "The 1979 ranking and the protected area"
     },
     {
       "label": "Registration page",
       "url": "https://trungtambaotonditichquocgiacondao.vn/dang-ky-tham-quan/",
-      "note": "Indexed extract. Confirm the slots on arrival."
+      "note": "Address and the listed windows"
     }
   ],
   "interests": ["warHistory"]

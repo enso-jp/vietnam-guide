@@ -4,45 +4,46 @@
   "name": "Hang Duong cemetery",
   "nameVi": "Nghĩa trang Hàng Dương",
   "kicker": "The cemetery after the camps",
-  "summary": "Walk here after the camps. The cemetery is about 20 hectares, restoration started on 19 December 1992, and it is not the prison. Võ Thị Sáu’s grave is in zone B. The vigil on 23 January 2026 was at 09:00. Ordinary hours and a separate ticket are Check on arrival.",
+  "summary": "Cemetery of about 20 hectares in town: walk the four grave zones after the camps. Võ Thị Sáu’s grave is in zone B. Restoration began on 19 December 1992. The vigil on 23 January 2026 began at 09:00 at the grave, before the rite at Đền thờ Côn Đảo.",
   "dots": 5,
   "timeNeeded": "A stop after the camps",
   "fee": "Check on arrival",
-  "getThere": "In town. A street number for the gate was not printed.",
-  "verified": "22 Oct 2026",
-  "heroCaption": "The monument, the trees, and the ridge. The monument does not mark a grave zone.",
+  "getThere": "In town, a separate gate from the camps.",
+  "district": "The town",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The monument, the trees, and the ridge at Hàng Dương",
   "notice": {
-    "title": "This is not the Vũng Tàu memorial",
-    "body": "The vigil is at the grave in Hàng Dương, on the island. The memorial of Võ Thị Sáu in Vũng Tàu is a different place."
+    "title": "The vigil is at the grave here",
+    "body": "The 23 January 2026 vigil was at 09:00 in this cemetery. The memorial of Võ Thị Sáu in Vũng Tàu is in another town."
   },
   "body": [
-    "You walk the cemetery of the prison, not the camps themselves. The history-museum chapter gives about 20 hectares and restoration from 19 December 1992, in four zones. Zone A has 688 graves, 7 of them mass, and 91 named. Zone B has 695 graves, 17 mass, and 276 named, including Võ Thị Sáu. Zone C has 373 graves, 1 mass, and 332 named. Zone D has 157 graves and 14 named, gathered from Hòn Cau and Hàng Keo. The monument and the trees do not mark which zone you are in.",
-    "The ceremonial gate has pillars, a tiled roof, and the ridge. It does not mark a zone either. The 74th memorial was 22–23 January 2026. The vigil at the grave was 09:00 on 23 January 2026, then the rite at Đền thờ Côn Đảo. The special-zone office on Nguyễn Văn Linh, khu 6, is the office, not the temple door.",
-    "Ordinary hours were not printed. A separate cemetery ticket was not printed. Both are Check on arrival. Do not put this stop on the same plan as the Vũng Tàu memorial."
+    "You walk the cemetery after the camps. It covers about 20 hectares, with restoration from 19 December 1992, in four zones. Zone A has 688 graves, 7 of them mass, and 91 named, including Lê Hồng Phong and Nguyễn An Ninh, mostly before 1945. Zone B has 695 graves, 17 mass, and 276 named, including Võ Thị Sáu and Cao Văn Ngọc, mostly from 1945 to 1960. Zone C has 373 graves, 1 mass, and 332 named, including Lê Văn Việt, mostly from 1960 to 1975. Zone D has 157 graves and 14 named, gathered from Hòn Cau and Hàng Keo.",
+    "The monument and the trees stand inside the grounds, and the ceremonial gate has pillars, a tiled roof, and the ridge behind it. The 74th memorial ran on 22 and 23 January 2026. The vigil at the grave was 09:00 on 23 January 2026, and the rite followed at Đền thờ Côn Đảo. The special-zone office on Nguyễn Văn Linh, khu 6, is the office.",
+    "The 09:00 time belongs to that vigil. Pair the walk with the camps, and keep the Vũng Tàu memorial on its own trip."
   ],
   "figures": [
     {
       "id": "con-dao-hang-duong-2",
-      "caption": "The ceremonial gate, with the ridge behind. The gate does not mark a zone.",
+      "caption": "The ceremonial gate, with the ridge behind the tiled roof",
       "alt": "A tiled ceremonial gate and stone pillars at Hang Duong cemetery, with the ridge behind"
     }
   ],
   "gettingThere": [
-    "The cemetery is in town. A street number for the gate was not printed. Walk from the camps. Minutes were not printed. Check on arrival."
+    "The cemetery is in town, with its own gate from the camps."
   ],
   "legs": [
     {
       "heading": "From the prison",
-      "body": "Walk in town. The two stops are not the same gate. Minutes between them were not printed. Check on arrival."
+      "body": "Walk in town. The cemetery and the camps use different gates."
     },
     {
       "heading": "From Côn Đảo airport",
-      "body": "VVCS is 10 km northeast of town. Road minutes are Check on arrival."
+      "body": "VVCS is 10 km northeast of town. Taxi or hire car."
     }
   ],
   "hours": "Check on arrival",
-  "closed": "No weekly closing day was printed. Check on arrival.",
-  "admissionNote": "No separate cemetery ticket was printed. Check on arrival. The relic ticket for the prison and the scenic fee for the park are different charges. The 09:00 time is the 23 January 2026 vigil, not an ordinary opening hour.",
+  "closed": "Check on arrival",
+  "admissionNote": "The cemetery sits beside the prison relic and outside the park scenic fee. The 09:00 time is the 23 January 2026 vigil.",
   "links": [
     {
       "label": "History museum chapter",
@@ -52,7 +53,7 @@
     {
       "label": "74th memorial notice",
       "url": "https://condao.com.vn/vi/news/Tin-tuc/trang-nghiem-le-gio-anh-hung-luc-luong-vu-trang-nhan-dan-vo-thi-sau-lan-thu-74-tai-dac-khu-con-dao-2604.html",
-      "note": "Special zone, 29 Dec 2025"
+      "note": "The 09:00 vigil on 23 January 2026"
     }
   ],
   "interests": ["warHistory"]

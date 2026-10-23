@@ -142,7 +142,7 @@ This is one place. Hòn Bảy Cạnh, Hòn Cau, and the other islets are park st
 - Suggested slug: dam-trau
 - Suggested dot: 4 — the swim inside a park day
 - Photo must show: the yellow sand, the water, and the casuarina, subject through the center, the hill not cropped off
-- unpublished: no licensed photo
+- unpublished: no licensed photo. Commons search on 23 Oct 2026 found no file of Bãi Đầm Trầu. Nearby titled beaches (Đất Dốc, Lò Vôi) are other shores and were not used.
 - Sources: S7, S11, S12, S13
 
 ### Bãi Ông Đụng
@@ -159,7 +159,7 @@ This is one place. Hòn Bảy Cạnh, Hòn Cau, and the other islets are park st
 - Suggested slug: ong-dung
 - Suggested dot: 3 — a walk from town, not the reason to fly
 - Photo must show: the bay, the forest coming down to it, and the path. A statue portrait that cuts off the cave mouth fails.
-- unpublished: no licensed photo
+- unpublished: no licensed photo. Commons search on 23 Oct 2026 found no file of Bãi Ông Đụng.
 - Sources: S12, S13
 
 ### Hòn Bảy Cạnh
@@ -200,6 +200,45 @@ Districts that deserve their own page:
 
 None. Đặc khu Côn Đảo is the place. The camps stay inside the prison entry. The islets stay inside the park. Vũng Tàu, Cần Thơ, and Sóc Trăng stay side trips.
 
+### Vân Sơn tự
+- Vietnamese name: Vân Sơn tự; chùa Núi Một
+- Kind: sight
+- Area: Núi Một, about 1.6 km from Côn Sơn town (S26)
+- What the visitor does: Walks the only pagoda on the island. Newest account (S25, 18 Dec 2025): founded 1964 under Trần Văn Khỏe, grounds 19,434 m², Decision 4025/QĐ-UBND of 4 Dec 2009, restoration finished 3 Dec 2011, open 07:00–18:00. Conflicting founder and an April 2011 finish stay in `attractions/van-son.md` (S27). A prisoner-labor account stays there too (S28).
+- Time: A stop on the hill. Minutes on site: Check on arrival — UNSOURCED.
+- Fee: Check on arrival — UNSOURCED. No ticket line on the pages read.
+- From the base: About 1.6 km (S26). Minutes: Check on arrival — UNSOURCED.
+- When to go: 07:00–18:00 on S25. That clock is one page.
+- Mistake to avoid: Feeding the monkeys, or burning votive paper (S25).
+- Local interest: The pagoda
+- Suggested slug: van-son
+- Suggested dot: 4 — a hill stop after the camps, not the reason to fly
+- Photo must show: the hall or the bell pavilion, with the bay or the hill still in the frame
+- Published 23 Oct 2026. Hero is the bell pavilion. Second frame is the wooden hall.
+- Sources: S25, S26, S27, S28
+
+### An Sơn miếu
+- Vietnamese name: An Sơn miếu; Miếu bà Phi Yến
+- Kind: sight
+- Area: The town, khu dân cư số 3, đường Hoàng Phi Yến, about 2 km southwest (S29, S30)
+- What the visitor does: Offers incense at the hall for Phi Yến (Lê Thị Răm). The standing hall dates from 1958 on the older shrine ground (S29). A 2019 page also dates a first shrine to 1785 (S31). Decision 1442/QĐ-UBND of 18 Apr 2007 (S30). The anniversary span is 16–18/10 lunar on the newest page (S29). The ministry says 17 and 18 (S17). Both stay in `attractions/phi-yen.md`.
+- Time: A short stop. Minutes: Check on arrival — UNSOURCED. A tourism card’s 30-minute estimate did not load.
+- Fee: Check on arrival — UNSOURCED.
+- From the base: About 2 km southwest. Minutes: Check on arrival — UNSOURCED.
+- When to go: 07:00–19:00 on S29, one page. The lunar anniversary for the rite.
+- Mistake to avoid: Burning votive paper. Miếu Cậu at Cỏ Ống is a different stop (S29).
+- Local interest: The shrine
+- Suggested slug: phi-yen
+- Suggested dot: 4 — the town rite, still a stop rather than the day
+- Photo must show: the tiled hall and the courtyard together
+- Published 23 Oct 2026.
+- Sources: S17, S29, S30, S31
+
+### Bãi Đất Thắm
+- Kind: sight on the turtle list, not published
+- What the visitor does: Named with the night turtle sites (S10). The nesting visit on the public page stays Hòn Bảy Cạnh.
+- unpublished: a Commons file exists (`Bai Dat Tham ConDao March 2026.jpg`) but it is a rocky shore and a fallen trunk, and no page gave a boat time, a street, or a fee of its own. Left off.
+
 ## Nightlife and evening
 
 ### The town market after dark
@@ -218,7 +257,7 @@ None. Đặc khu Côn Đảo is the place. The camps stay inside the prison entr
 - Suggested slug: con-son-evening
 - Suggested dot: 4 — the reason the town is the night, not a second destination
 - Photo must show: the open market at night, tables, and the street, with enough light to see the food. A dark frame of empty road fails.
-- unpublished: no licensed photo
+- unpublished: no licensed photo. `Chợ Côn Đảo` files on Commons are the daytime market hall, with signs across the front. They are the wrong hour and the wrong subject for this yard.
 - Sources: S4, S15
 
 ## Lifestyle
