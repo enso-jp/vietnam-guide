@@ -1,0 +1,56 @@
+{
+  "slug": "bao-dai-palace",
+  "placeSlug": "buon-ma-thuot",
+  "name": "Bao Dai Palace",
+  "nameVi": "Biệt điện Bảo Đại",
+  "kicker": "1926 villa at 02 Y Ngong",
+  "summary": "Tour the 1926 villa at 02 Y Ngong, the French resident's house later used by Bao Dai. It shares the ground with Dak Lak Museum, and it is a monument, not a place to stay. Go when the morning is for Y Ngong, and skip it when one indoor stop is enough.",
+  "dots": 3,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "02 Y Ngong, taxi, Grab, or a walk from the center",
+  "district": "Y Ngong",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The villa front under the trees",
+  "notice": {
+    "title": "The villa is not the museum",
+    "body": "Dak Lak Museum is the other building at 02 Y Ngong. The villa is its own visit, and it is a monument, not a hotel."
+  },
+  "body": [
+    "Tour the yellow villa at 02 Y Ngong. It was built in 1926 as a house and office for the French resident officials. After 1945 it was the office of the provincial revolutionary council, and from 1947 to 1953 Bao Dai used it as a house and office.",
+    "Stand in the court and look at the front under the trees, then walk the side road along the long wing. Dak Lak Museum opened its own building on this ground in 2011. If the morning is one stop, choose the villa or the museum.",
+    "Adult prices are 30,000 VND and 10,000 VND. On the 30,000 VND schedule a child pays 20,000 VND, a child under 6 is free, and a Vietnamese citizen aged 60 or over pays half. Pay the price at the gate."
+  ],
+  "figures": [
+    {
+      "id": "buon-ma-thuot-bao-dai-palace-2",
+      "caption": "The long wing of the villa from the side road",
+      "alt": "Yellow villa with a tiled roof and palms, seen from the side road at Bao Dai Palace"
+    }
+  ],
+  "gettingThere": [
+    "The villa is at 02 Y Ngong, on the same ground as Dak Lak Museum. From the hotels around Nguyen Tat Thanh and Le Duan, walk or take a taxi or Grab. The ride time is Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the city center",
+      "body": "Walk, taxi, or Grab to 02 Y Ngong. The ride time is Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "admissionNote": "Check on arrival. Adult prices are 30,000 VND and 10,000 VND. On the 30,000 VND schedule a child pays 20,000 VND, a child under 6 is free, and a Vietnamese citizen aged 60 or over pays half. Pay the price at the gate.",
+  "links": [
+    {
+      "label": "Provincial fee schedule",
+      "url": "https://pbgdpl.daklak.gov.vn/phi-tham-quan-danh-lam-thang-canh-di-tich-lich-su-cong-trinh-van-hoa-bao-tang-tren-dia-ban-tinh-351.html",
+      "note": "Public historic sites, from 16 Dec 2024"
+    },
+    {
+      "label": "Dak Lak Museum",
+      "url": "https://daklakmuseum.vn/gioi-thieu/bai-viet/lich-su-hinh-thanh-",
+      "note": "The 2011 museum building on this ground"
+    }
+  ],
+  "interests": ["warHistory"]
+}
