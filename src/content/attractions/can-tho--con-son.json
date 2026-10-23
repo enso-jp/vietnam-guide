@@ -1,0 +1,50 @@
+{
+  "slug": "con-son",
+  "placeSlug": "can-tho",
+  "name": "Con Son islet",
+  "nameVi": "Cồn Sơn",
+  "kicker": "Orchard islet in the Hậu at Bình Thủy",
+  "summary": "Orchard islet in the Hậu, 5 to 10 minutes by boat: feed the fish, make folk cakes, and eat garden fruit. The islet covers about 70 ha of fruit trees and fish pens. Go in the daytime, from the Cổ Bắc ferry or by boat from Ninh Kiều. Skip it if Mỹ Khánh already has your orchard stop.",
+  "dots": 3,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Highway 91 to the Cổ Bắc ferry, then 5 to 10 minutes by boat",
+  "district": "Bình Thủy",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Netted fish pens under the trees on Cồn Sơn",
+  "body": [
+    "Cồn Sơn sits in the middle of the Hậu in Bình Thủy, about 70 ha of fruit gardens. Visit a fish raft, feed the fish rice, and watch the flying snakehead leap out of the water for food.",
+    "Make southern folk cakes with your hosts: bánh bò lụi, bánh ít, bánh bột lọc, bánh lá mít, bánh da lợn, bánh đúc, bánh xèo, and bánh khọt. Then eat fruit straight from the garden.",
+    "The green strip you see from Ninh Kiều is cồn Ấu, a different islet. Cồn Sơn is reached from the Cổ Bắc ferry in Bình Thủy."
+  ],
+  "figures": [
+    {
+      "id": "can-tho-con-son-2",
+      "caption": "Snakehead crowding the pen at feeding time",
+      "alt": "Snakehead fish crowding a pen at feeding time on Con Son islet"
+    }
+  ],
+  "gettingThere": [
+    "Take Highway 91 from the centre to the Cổ Bắc ferry landing in Bình Thủy, then a boat of 5 to 10 minutes to the islet. You can also hire a boat at Ninh Kiều wharf."
+  ],
+  "legs": [
+    {
+      "heading": "From the centre by road",
+      "body": "Highway 91 to the Cổ Bắc ferry, then a boat of 5 to 10 minutes."
+    },
+    {
+      "heading": "From Ninh Kiều by boat",
+      "body": "Hire a boat at the wharf."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "links": [
+    {
+      "label": "Can Tho, river and garden",
+      "url": "https://www.vietnam.travel/things-to-do/can-tho-glimpse-river-and-garden",
+      "note": "Vietnam National Authority of Tourism"
+    }
+  ],
+  "interests": ["food", "family"]
+}
