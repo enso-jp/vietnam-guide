@@ -1,0 +1,429 @@
+{
+  "slug": "vinh",
+  "name": "Vinh food guide",
+  "placeSlug": "vinh",
+  "summary": "Eat cháo lươn in Vinh, the thin eel porridge the city portal sets beside cháo vịt Vân Đình and cháo dê Ninh Bình. Breakfast is bánh mướt, xôi, or cháo canh. After dark, Đào Tấn is the citadel street, and the squid is mực nướng, including mực một nắng. A price that was not printed is Check on arrival.",
+  "body": [
+    "Two eel pots are in print, and both stay. The city portal stir-fries the eel and folds it into a thin porridge of whole grains and a little sticky rice. Vietnamnet, 27 November 2023, and Người Lao Động, 13 February 2024, crush the bones and cook that liquid into the pot. Súp lươn is the other bowl, with bánh mì or bánh mướt. VnExpress in 2025 stir-fries the meat with turmeric. VnExpress on 4 September 2016 leaves long strips in an annatto broth.",
+    "Morning is bánh mướt with giò lụa or chả, xôi, cháo canh, or a bánh mì chả nướng if you are walking. Lunch can be bún chả nướng with chẻo lạc. The city introduction sets canh hến and hến xúc bánh tráng on a summer table, chả rươi and mắm rươi in rươi season, nộm at the markets, nước chè xanh, and kẹo cu đơ. The city introduction traces the candy to a maker from Hương Sơn.",
+    "Đào Tấn is the citadel night street. Báo Nghệ An, 27 April 2023, runs it from cửa Hữu to cửa Tả, with a second line of about 150 m, and then said phường Cửa Nam. Mobile kiosks on that account run 18:00–06:00. Fixed kitchens were allowed 24 hours. A 2026 night list was not opened. Hồ Sỹ Dương is the other night stretch, for xôi, cháo gà, cháo lươn, and miến ngan. A closing hour there was not printed. Check on arrival.",
+    "Cửa Lò is the beach of this city. Ask for charcoal squid, and for mực một nắng when you want it dried one day. The national beach page also names mực câu. Tương Nam Đàn, nhút Thanh Chương, and bánh đa Đô Lương are the neighbor jars and the cracker. They are not stalls in the center."
+  ],
+  "specialtiesLead": "Cháo lươn comes first. The other specialties follow, with the street when a publisher printed one. A current price is Check on arrival.",
+  "dishSlugs": [
+    "vinh--chao-luon",
+    "vinh--sup-luon",
+    "vinh--banh-muot",
+    "vinh--chao-canh",
+    "vinh--xoi",
+    "vinh--banh-mi-cha-nuong",
+    "vinh--bun-cha-nuong",
+    "vinh--muc-nuong",
+    "vinh--cam-vinh",
+    "vinh--mia-hap-gung",
+    "vinh--ca-phe-bot",
+    "vinh--canh-hen",
+    "vinh--hen-xuc-banh-trang",
+    "vinh--cha-ruoi",
+    "vinh--mam-ruoi",
+    "vinh--nom-cho-vinh",
+    "vinh--nuoc-che-xanh",
+    "vinh--keo-cu-do",
+    "vinh--banh-ngao",
+    "vinh--banh-beo",
+    "vinh--oc",
+    "vinh--ngo-nuong",
+    "vinh--khoai-nuong",
+    "vinh--chao-bo-cau",
+    "vinh--bo-cau-hap-ngai-cuu",
+    "vinh--chao-ga",
+    "vinh--xao-ga",
+    "vinh--mien-ngan",
+    "vinh--nem-chua",
+    "vinh--banh-duc-hen",
+    "vinh--gio-me",
+    "vinh--mam-ruoc-cua-lo",
+    "vinh--nuoc-mam-nhi",
+    "vinh--nhut-thanh-chuong",
+    "vinh--tuong-nam-dan",
+    "vinh--banh-da-do-luong"
+  ],
+  "sections": [
+    {
+      "id": "eel",
+      "heading": "Eel",
+      "nav": "Eel",
+      "paragraphs": [
+        "Cháo lươn and súp lươn are the two bowls. Where the accounts disagree, both are printed. A price is Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Chao luon",
+          "nameVi": "Cháo lươn",
+          "address": "Center, the citadel area, and Hồ Sỹ Dương at night",
+          "note": "Thin porridge beside the duck and goat bowls the city portal names. That page stir-fries the eel and folds it in. Vietnamnet and Người Lao Động cook the crushed bones into the pot. A closing hour on Hồ Sỹ Dương is Check on arrival. A price is Check on arrival.",
+          "dishSlug": "vinh--chao-luon"
+        },
+        {
+          "name": "Sup luon",
+          "nameVi": "Súp lươn",
+          "address": "Center, Cửa Nam, and Đào Tấn",
+          "note": "The other eel bowl, with bánh mì or bánh mướt. The 3 May 2025 account stir-fries the meat. The 4 September 2016 account uses long strips and annatto. A price is Check on arrival.",
+          "dishSlug": "vinh--sup-luon"
+        }
+      ]
+    },
+    {
+      "id": "morning",
+      "heading": "Morning",
+      "nav": "Morning",
+      "paragraphs": [
+        "The 24 November 2022 city page walks the morning from bánh mướt to a coffee. Clocks for these bowls were not printed. Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Banh muot",
+          "nameVi": "Bánh mướt",
+          "address": "Center. Trần Phú on a 2016 page",
+          "note": "Finger-length rice rolls. Breakfast with giò lụa or chả. The Diễn Châu method is rice flour and fried shallot. VnExpress, 4 September 2016, printed 20,000–30,000 đồng. A current price is Check on arrival.",
+          "dishSlug": "vinh--banh-muot"
+        },
+        {
+          "name": "Xoi",
+          "nameVi": "Xôi",
+          "address": "Center in the morning, Hồ Sỹ Dương at night",
+          "note": "A portion, morning or late. A topping was not printed. A price is Check on arrival.",
+          "dishSlug": "vinh--xoi"
+        },
+        {
+          "name": "Chao canh",
+          "nameVi": "Cháo canh",
+          "address": "Cửa Nam, Đinh Công Tráng, and Đào Tấn",
+          "note": "Thick noodles in a bone broth cooked toward a porridge. VnExpress, 4 September 2016, printed 15,000–20,000 đồng. A current price is Check on arrival.",
+          "dishSlug": "vinh--chao-canh"
+        },
+        {
+          "name": "Banh mi cha nuong",
+          "nameVi": "Bánh mì chả nướng",
+          "address": "Check on arrival",
+          "note": "The fast breakfast, grilled chả and herbs in a baguette. A street was not printed. A price is Check on arrival.",
+          "dishSlug": "vinh--banh-mi-cha-nuong"
+        },
+        {
+          "name": "Bun cha nuong",
+          "nameVi": "Bún chả nướng",
+          "address": "Check on arrival",
+          "note": "The quick lunch. The city page says the Vinh bowl can use chẻo lạc instead of broth. A price is Check on arrival.",
+          "dishSlug": "vinh--bun-cha-nuong"
+        },
+        {
+          "name": "Ca phe bot",
+          "nameVi": "Cà phê bọt",
+          "address": "Chợ Vinh",
+          "note": "Foam coffee, black or with milk, for more than 30 years on the 3 May 2025 page. The 24 November 2022 coffee line does not say foam. Market hours are Check on arrival. A price is Check on arrival.",
+          "dishSlug": "vinh--ca-phe-bot"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "heading": "Market table",
+      "nav": "Market",
+      "paragraphs": [
+        "The city introduction prints the clam bowls, the rươi, the market salad, the green tea, and the peanut candy. Market hours were not printed. Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Canh hen",
+          "nameVi": "Canh hến",
+          "address": "Check on arrival",
+          "note": "Summer lunch. Clam meat stirred back into the liquor with a green. A month and a price are Check on arrival.",
+          "dishSlug": "vinh--canh-hen"
+        },
+        {
+          "name": "Hen xuc banh trang",
+          "nameVi": "Hến xúc bánh tráng",
+          "address": "Check on arrival",
+          "note": "Stir-fried clams with scallion fat, herbs, peanuts, and chili, scooped with bánh tráng. A price is Check on arrival.",
+          "dishSlug": "vinh--hen-xuc-banh-trang"
+        },
+        {
+          "name": "Cha ruoi",
+          "nameVi": "Chả rươi",
+          "address": "Check on arrival",
+          "note": "Rươi, egg, and lean pork, fried over a low flame. Canh rươi is named and not described. The season month is Check on arrival.",
+          "dishSlug": "vinh--cha-ruoi"
+        },
+        {
+          "name": "Mam ruoi",
+          "nameVi": "Mắm rươi",
+          "address": "Check on arrival",
+          "note": "Salted about 10 days, then sun and tangerine peel. A dip for herbs and boiled pork. A price is Check on arrival.",
+          "dishSlug": "vinh--mam-ruoi"
+        },
+        {
+          "name": "Nom cho Vinh",
+          "nameVi": "Nộm chợ Vinh",
+          "address": "Chợ Vinh",
+          "note": "The mixed salad is papaya, banana flower, bean sprouts, and green star fruit. Other salads are named without a method. A price is Check on arrival.",
+          "dishSlug": "vinh--nom-cho-vinh"
+        },
+        {
+          "name": "Nuoc che xanh",
+          "nameVi": "Nước chè xanh",
+          "address": "Check on arrival",
+          "note": "Green tea, sharp then sweet. The city introduction’s five cho are chát, xanh, thơm, nóng, and vui. A price is Check on arrival.",
+          "dishSlug": "vinh--nuoc-che-xanh"
+        },
+        {
+          "name": "Keo cu do",
+          "nameVi": "Kẹo cu đơ",
+          "address": "Check on arrival",
+          "note": "Peanut candy with the tea. The city introduction traces the maker to Hương Sơn and still calls the pairing the taste of thành Vinh. A price is Check on arrival.",
+          "dishSlug": "vinh--keo-cu-do"
+        },
+        {
+          "name": "Banh duc hen",
+          "nameVi": "Bánh đúc hến",
+          "address": "Check on arrival",
+          "note": "Soft bánh đúc and stir-fried clams, afternoon or evening, on the Trung tâm Thông tin du lịch page. A Vinh street was not printed. A price is Check on arrival.",
+          "dishSlug": "vinh--banh-duc-hen"
+        }
+      ]
+    },
+    {
+      "id": "sidewalk",
+      "heading": "Afternoon and the sidewalk",
+      "nav": "Sidewalk",
+      "paragraphs": [
+        "The 24 November 2022 city page moves from bánh ngào to the night corn and the pigeon bowl. The 24 November 2022 city portal article did not print a clock. Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Banh ngao",
+          "nameVi": "Bánh ngào",
+          "address": "Markets. A hall was not named",
+          "note": "Hot molasses rice cake for cool or drizzly weather. Vietnamnet says no filling. VnExpress, 4 September 2016, allows mung bean, pork, or none, and printed about 10,000 đồng. A current price is Check on arrival.",
+          "dishSlug": "vinh--banh-ngao"
+        },
+        {
+          "name": "Mia hap gung",
+          "nameVi": "Mía hấp gừng",
+          "address": "Check on arrival",
+          "note": "Sugarcane steamed with ginger when the weather is cool or wet. Ngô nướng stalls sell it on the 2016 page. A price is Check on arrival.",
+          "dishSlug": "vinh--mia-hap-gung"
+        },
+        {
+          "name": "Banh beo",
+          "nameVi": "Bánh bèo",
+          "address": "Đào Tấn",
+          "note": "Bột lọc with shrimp or pork and herbs. Fixed kitchens on Đào Tấn were allowed 24 hours in the 27 April 2023 account. A price is Check on arrival.",
+          "dishSlug": "vinh--banh-beo"
+        },
+        {
+          "name": "Oc",
+          "nameVi": "Ốc",
+          "address": "Check on arrival",
+          "note": "Whole snails, stir-fried or boiled, with lemongrass, ginger, chili, and lime leaf. A price is Check on arrival.",
+          "dishSlug": "vinh--oc"
+        },
+        {
+          "name": "Ngo nuong",
+          "nameVi": "Ngô nướng",
+          "address": "Citadel gate, Nguyễn Tất Thành park gate, rạp 12-9, and Đào Tấn",
+          "note": "Night nếp corn, sweet and spicy on the city page. The 2016 page brushes it with tương ớt and butter. A price is Check on arrival.",
+          "dishSlug": "vinh--ngo-nuong"
+        },
+        {
+          "name": "Khoai nuong",
+          "nameVi": "Khoai nướng",
+          "address": "Đào Tấn mobile kiosks",
+          "note": "Grilled sweet potato. A method was not printed. Mobile kiosks run 18:00–06:00 on the 27 April 2023 account. A price is Check on arrival.",
+          "dishSlug": "vinh--khoai-nuong"
+        },
+        {
+          "name": "Chao bo cau",
+          "nameVi": "Cháo bồ câu",
+          "address": "Phan Chu Trinh on a 2016 page",
+          "note": "Late porridge with lotus seeds or mung beans. The 2016 page simmers the bird whole and printed about 70,000 đồng. A current price is Check on arrival.",
+          "dishSlug": "vinh--chao-bo-cau"
+        },
+        {
+          "name": "Bo cau hap ngai cuu",
+          "nameVi": "Bồ câu hấp ngải cứu",
+          "address": "Check on arrival",
+          "note": "Steamed pigeon with mugwort, named instead of the porridge. A method was not printed. A price is Check on arrival.",
+          "dishSlug": "vinh--bo-cau-hap-ngai-cuu"
+        }
+      ]
+    },
+    {
+      "id": "night",
+      "heading": "Night and the beach",
+      "nav": "Night",
+      "paragraphs": [
+        "Đào Tấn and Hồ Sỹ Dương are the night streets in town. Cửa Lò is the squid. A 2026 confirmation of the Đào Tấn clock was not opened."
+      ],
+      "spots": [
+        {
+          "name": "Muc nuong",
+          "nameVi": "Mực nướng",
+          "address": "Cửa Lò and the night sidewalks, including Đào Tấn",
+          "note": "Ask for charcoal, and for mực một nắng when you want the dried-one-day squid. The beach page also names mực nhảy and mực câu. A price is Check on arrival.",
+          "dishSlug": "vinh--muc-nuong"
+        },
+        {
+          "name": "Chao ga",
+          "nameVi": "Cháo gà",
+          "address": "Đường Hồ Sỹ Dương",
+          "note": "Chicken porridge at night, named with xôi, cháo lươn, and miến ngan. A method and a closing hour are Check on arrival.",
+          "dishSlug": "vinh--chao-ga"
+        },
+        {
+          "name": "Xao ga",
+          "nameVi": "Xáo gà",
+          "address": "Đào Tấn",
+          "note": "Named on the fixed kitchens without a method. Người Lao Động describes xáo gà Thanh Chương and calls it canh gà. That method is the Thanh Chương one. A price is Check on arrival.",
+          "dishSlug": "vinh--xao-ga"
+        },
+        {
+          "name": "Mien ngan",
+          "nameVi": "Miến ngan",
+          "address": "Hồ Sỹ Dương and Đào Tấn",
+          "note": "Goose glass noodles. A method was not printed. A price is Check on arrival.",
+          "dishSlug": "vinh--mien-ngan"
+        },
+        {
+          "name": "Nem chua",
+          "nameVi": "Nem chua",
+          "address": "Đào Tấn mobile kiosks",
+          "note": "Named with the night snacks. A cure was not printed. The 27 April 2023 clock is 18:00–06:00. A price is Check on arrival.",
+          "dishSlug": "vinh--nem-chua"
+        }
+      ]
+    },
+    {
+      "id": "carry",
+      "heading": "Fruit, sauce, and the feast loaf",
+      "nav": "To carry",
+      "paragraphs": [
+        "These are the things the city introduction, Vietnamnet, and Trung tâm Thông tin du lịch tell you to eat or carry. A shop was not named."
+      ],
+      "spots": [
+        {
+          "name": "Cam Vinh",
+          "nameVi": "Cam Vinh",
+          "address": "The city. The orchard article says Nghi Diên, Nghi Lộc",
+          "note": "The orange beside the eel bowl. Also called cam Xã Đoài. A harvest month is Check on arrival. A price is Check on arrival.",
+          "dishSlug": "vinh--cam-vinh"
+        },
+        {
+          "name": "Gio me",
+          "nameVi": "Giò me",
+          "address": "Check on arrival",
+          "note": "Veal loaf, also giò bê. Vietnamnet describes three layers: egg, skin, then meat. A street was not printed. A price is Check on arrival.",
+          "dishSlug": "vinh--gio-me"
+        },
+        {
+          "name": "Nuoc mam nhi",
+          "nameVi": "Nước mắm nhĩ",
+          "address": "Check on arrival",
+          "note": "Anchovy fish sauce, the color of cánh gián. A town was not printed. A price is Check on arrival.",
+          "dishSlug": "vinh--nuoc-mam-nhi"
+        },
+        {
+          "name": "Mam ruoc Cua Lo",
+          "nameVi": "Mắm ruốc Cửa Lò",
+          "address": "Cửa Lò",
+          "note": "Fermented krill from the beach of this city, as a seasoning or a dip. A stall is Check on arrival. A price is Check on arrival.",
+          "dishSlug": "vinh--mam-ruoc-cua-lo"
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "role": "regional",
+      "heading": "Regional dishes",
+      "nav": "Regional",
+      "paragraphs": [
+        "Nam Đàn, Thanh Chương, and Đô Lương are other communes. The city portal names these three on the Nghệ table. They are not stalls in the center."
+      ],
+      "spots": [
+        {
+          "name": "Nhut Thanh Chuong",
+          "nameVi": "Nhút Thanh Chương",
+          "address": "Thanh Chương",
+          "note": "Fermented young jackfruit, sour and crisp. The city portal calls it kim chi xứ Nghệ. A village lane is Check on arrival. A price is Check on arrival.",
+          "dishSlug": "vinh--nhut-thanh-chuong"
+        },
+        {
+          "name": "Tuong Nam Dan",
+          "nameVi": "Tương Nam Đàn",
+          "address": "Nam Đàn",
+          "note": "Cracked-bean soybean sauce, yellow like honey, not a paste like tương Bần. Người Lao Động prints 7 kg of mold and 17–18 kg of salt for a 100-liter jar. A stall price is Check on arrival.",
+          "dishSlug": "vinh--tuong-nam-dan"
+        },
+        {
+          "name": "Banh da Do Luong",
+          "nameVi": "Bánh đa Đô Lương",
+          "address": "Đô Lương",
+          "note": "Sesame rice cracker about 20 cm across, grilled over than hoa or fried until thin. A lane is Check on arrival. A price is Check on arrival.",
+          "dishSlug": "vinh--banh-da-do-luong"
+        }
+      ]
+    },
+    {
+      "id": "casual",
+      "role": "casual",
+      "heading": "Casual dining",
+      "nav": "Streets",
+      "paragraphs": [
+        "These are streets and halls, not a stall list. A price posted on Đào Tấn was not given as a figure. Check on arrival."
+      ],
+      "spots": [
+        {
+          "name": "Dao Tan",
+          "nameVi": "Đường Đào Tấn",
+          "address": "From cửa Hữu to cửa Tả, plus a line of about 150 m",
+          "note": "Báo Nghệ An, 27 April 2023, places the citadel night street in phường Cửa Nam. Mobile kiosks run 18:00–06:00 every day, then the pavement is cleared. Fixed kitchens were allowed 24 hours. The 28 April article names súp lươn, xáo gà, miến ngan, cháo canh, and bánh bèo in the fixed kitchens, and ngô, khoai, mực nướng, and nem chua in the mobile kiosks. A 2026 night list was not opened."
+        },
+        {
+          "name": "Ho Sy Duong",
+          "nameVi": "Đường Hồ Sỹ Dương",
+          "address": "Center",
+          "note": "Báo Nghệ An names xôi, cháo gà, cháo lươn, and miến ngan at night. The city portal links a title that calls the road phố cháo lươn. A closing hour was not printed. Check on arrival."
+        },
+        {
+          "name": "Nguyen Van Cu",
+          "nameVi": "Nguyễn Văn Cừ",
+          "address": "Walking loop by the square",
+          "note": "The food and cafe sidewalk. VnExpress, 12 April 2022, and Tuổi Trẻ, 5 April 2022, print Friday and Saturday, 19:00–23:30, on Hồ Tùng Mậu, Nguyễn Văn Cừ, Nguyễn Trung Ngạn, and Nguyễn Tài. Tuổi Trẻ News of the same opening adds Sunday and names Nguyễn Trãi instead of the last two streets. A 2026 night list was not opened."
+        },
+        {
+          "name": "Cho Vinh",
+          "nameVi": "Chợ Vinh",
+          "address": "Center",
+          "note": "The morning hall for the foam coffee. The city portal also names Chợ Ga Vinh and Chợ Quán Lau. Hours are Check on arrival. Tuổi Trẻ, 5 April 2022, says the 2019 Cao Thắng night market in front of Chợ Vinh stopped after a few months. Báo Nghệ An, 27 April 2023, still names phố đêm Cao Thắng as a night-economy project. Both stay. Do not treat the 2019 market as open."
+        },
+        {
+          "name": "Cua Lo kitchens",
+          "nameVi": "Quán ven biển Cửa Lò",
+          "address": "Đường Bình Minh, Cửa Lò",
+          "note": "Evening squid, and the morning fishing port on the 3 May 2025 VnExpress page. The beach-market street was not printed. Check on arrival. A chair fee was not printed. Check on arrival."
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "role": "breakfast",
+      "heading": "Breakfast",
+      "nav": "Breakfast",
+      "paragraphs": [
+        "Bánh mướt with giò lụa or chả, xôi, cháo canh, and bánh mì chả nướng are the morning on the 24 November 2022 city page. Súp lươn starts the day on the 3 May 2025 VnExpress page. Cà phê bọt is the market cup after that. The clocks are Check on arrival."
+      ]
+    }
+  ],
+  "verified": "23 Oct 2026",
+  "seoTitle": "Vinh food guide — cháo lươn, bánh mướt, and Đào Tấn",
+  "seoDescription": "Cháo lươn is the thin eel porridge. Breakfast is bánh mướt or cháo canh. Đào Tấn is the citadel night street. A price not in print is Check on arrival."
+}
