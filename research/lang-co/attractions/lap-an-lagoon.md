@@ -51,3 +51,13 @@ Facts below are taken from the stored Lang Co dossier. No new web pass.
 - S9 https://www.vietnam.vn/dam-lap-an-tuyet-tinh-coc-cua-xu-hue-mong-mo
 - S17 https://tienphong.vn/xay-dung-pho-di-bo-ben-danh-thang-vinh-dep-the-gioi-lang-co-post1630039.tpo
 - S18 household raft, not a pick
+
+## Addendum 23 Oct 2026 — An Cư name
+
+Two wordings stay, and An Cư is not a second public sight.
+
+- S22, https://vnexpress.net/48-gio-o-lang-co-4768641.html, VnExpress, 12 Jul 2024, accessed 23 Oct 2026: “Đầm Lập An có tên gọi khác là đầm An Cư”, near Highway 1A, at the foot of đèo Phú Gia.
+- S3, https://chanmaylangco.hue.gov.vn/Du-khach/Du-lich-Chan-May-Lang-Co/Trang-chu, zone office, re-read 23 Oct 2026: Đầm An Cư at the foot of Hải Vân, called the Venice of Huế. It does not say the name is an alias for Lập An.
+- S8 already places the boat-race course from làng An Cư Đông across Đầm Lập An. The village is on this water.
+
+Public time on the bank stays Check on arrival. The “about an hour” line remains UNSOURCED. The 450 m walking length stays S17 only. March to June stays S9 only.

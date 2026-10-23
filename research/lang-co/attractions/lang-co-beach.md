@@ -52,3 +52,7 @@ Facts below are taken from the stored Lang Co dossier. No new web pass.
 
 - S1 https://vietnamtourism.vn/index.php/tourism/items/477
 - S2 https://visithue.vn/mot-so-bai-bien-dep-o-hue/?pid=MjM0OTl8Y3NkbGRs0
+
+## Addendum 23 Oct 2026
+
+S2 was re-read. Lăng Cô beach is still the first entry: tầm 60 km south of the Hue center, under Hải Vân, clear water, resort stays. Address still thị trấn Lăng Cô, huyện Phú Lộc, thành phố Huế. No ticket and no clock. Summer is the season the page names. The 10 km length and the 25 km tunnel figure remain S1 only. A lifeguard hour and a fixed visit length stay Check on arrival — UNSOURCED.

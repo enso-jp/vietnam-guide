@@ -51,3 +51,7 @@ Facts below are taken from the stored Lang Co dossier. No new web pass.
 - S10 https://vtv.vn/hai-van-quan-bat-dau-thu-ve-tham-quan-tu-ngay-2-6-100260531151800801.htm
 - S11 https://vnexpress.net/di-tich-hai-van-quan-chinh-thuc-thu-phi-tham-quan-5080669.html
 - S1 tunnel versus pass road
+
+## Addendum 23 Oct 2026
+
+Public copy now states both hour wordings and both concession wordings without naming the two reports. The fee, 70,000 VND from 2 June 2026 through 31 Dec 2028, is the figure both reports share. S10 and S11 were not re-opened on this date. Time on the summit stays Check on arrival — UNSOURCED. The 25 km tunnel figure stays S1 only. A pass-road kilometer in a 12 Jul 2024 VnExpress feature, about 20 km, is that feature only and is not copied onto the page.

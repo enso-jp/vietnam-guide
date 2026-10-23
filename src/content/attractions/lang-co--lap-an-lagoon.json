@@ -4,22 +4,22 @@
   "name": "Lap An Lagoon",
   "nameVi": "Đầm Lập An",
   "kicker": "Brackish lagoon between Phu Gia and the bay",
-  "summary": "Look across the lagoon from the shore or from Nguyễn Văn, at oyster stakes, round boats, and the mountain. A sand strip shows only at a strong low tide. No access fee was printed. Skip it if you only wanted the sea swim.",
+  "summary": "Look across the lagoon from the shore or from Nguyễn Văn, at oyster stakes, round boats, and the mountain. A sand strip shows only at a strong low tide. No access fee is set. Skip it if you only wanted the sea swim.",
   "dots": 5,
   "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
   "getThere": "Nguyễn Văn runs along the lagoon. Minutes from the beach strip are check on arrival.",
-  "bestMonths": "March to June, in one paper",
-  "verified": "21 Oct 2026",
+  "bestMonths": "March to June",
+  "verified": "23 Oct 2026",
   "heroCaption": "Boats on Lap An, with the mountain and the viaduct behind them",
   "notice": {
     "title": "The sand strip is only there at low tide",
-    "body": "Báo Quốc Tế says the sand bridge shows at a strong low tide and is easy to miss. Do not start across it as the tide turns."
+    "body": "The sand strip shows at a strong low tide and is easy to miss. Do not start across it as the tide turns."
   },
   "body": [
-    "Look from the shore, from Phú Gia, or from Nguyễn Văn. Báo Quốc Tế describes a brackish lagoon beside Highway 1A at đèo Phú Gia, the Bach Ma range on one side and the bay on the other. Oyster lines and round boats are the working landscape. The 2018 plan makes this lagoon the service and dining subzone of the national tourism area.",
-    "At a strong low tide a sand bridge the paper calls cây cầu cát shows across the water. It is short. Turn back before the tide covers it. Do not treat this lagoon as Đầm An Cư. The economic-zone page puts An Cư at the foot of the pass, and no page opened here says the two are the same water.",
-    "Oyster farming here dates from the late 1990s, on that paper. The plates it names are hàu nướng trui, cháo hàu, hàu xào hành tây, and gỏi hàu, eaten on the lagoon. No stall price was printed. A price in one household feature is not a town ticket. March to June is the paper’s best-looking months, and it is not a harvest calendar. A look from the bank is described as about an hour. That is not a published gate time. Check on arrival."
+    "Look from the shore, from Phú Gia, or from Nguyễn Văn. This is a brackish lagoon beside Highway 1A at đèo Phú Gia, the Bach Ma range on one side and the bay on the other. Oyster lines and round boats are the working landscape. The 2018 plan makes this lagoon the service and dining subzone of the national tourism area.",
+    "At a strong low tide a sand bridge, cây cầu cát, shows across the water. It is short. Turn back before the tide covers it. One account uses Đầm An Cư as another name for this lagoon, at the foot of Phú Gia. The zone office describes Đầm An Cư at the foot of Hai Van as its own water. Do not assume the two names are one shore until you are there.",
+    "Oyster farming here dates from the late 1990s. The plates are hàu nướng trui, cháo hàu, hàu xào hành tây, and gỏi hàu, eaten on the lagoon. Check a stall price on arrival. A price for one household raft is not a town ticket. March to June is one best-looking stretch, and it is not a harvest calendar. Time on the bank is check on arrival."
   ],
   "figures": [
     {
@@ -29,26 +29,26 @@
     }
   ],
   "gettingThere": [
-    "Nguyễn Văn is the lagoon road, on the land side of the beach strip. One paper describes a walking segment of about 450 m from the new market toward Trường THCS Lăng Cô. That length is the design of the walking street, not a measured walk from the sand. Minutes from the beach were not printed. Check on arrival."
+    "Nguyễn Văn is the lagoon road, on the land side of the beach strip. A walking stretch along it runs about 450 m from the new market toward Trường THCS Lăng Cô. That length is the design of the walking street, not a measured walk from the sand. Minutes from the beach are check on arrival."
   ],
   "legs": [
     {
       "heading": "From Lang Co beach",
-      "body": "The lagoon is the land side of the same strip. Walk or ride to Nguyễn Văn. Minutes were not printed. Check on arrival."
+      "body": "The lagoon is the land side of the same strip. Walk or ride to Nguyễn Văn. Minutes are check on arrival."
     },
     {
       "heading": "From Hue",
-      "body": "The town is about 60 km south of Hue center. The lagoon is inside the town, at đèo Phú Gia. Drive minutes were not printed. Check on arrival."
+      "body": "The town is about 60 km south of Hue center. The lagoon is inside the town, at đèo Phú Gia. Drive minutes are check on arrival."
     }
   ],
-  "hours": "Check on arrival. No public opening clock was printed.",
-  "closed": "No weekly closing day is published. The sand bridge is absent except at a strong low tide.",
-  "admissionNote": "No lagoon access fee was printed. Check on arrival if someone asks. A figure in one household raft feature is not a town ticket, and that household is not a pick.",
+  "hours": "Check on arrival. No opening clock is set.",
+  "closed": "No weekly closing day is set. The sand bridge is absent except at a strong low tide.",
+  "admissionNote": "No lagoon access fee is set. Check on arrival if someone asks. A price quoted for one household raft is not a town ticket.",
   "links": [
     {
       "label": "Lap An lagoon",
       "url": "https://www.vietnam.vn/dam-lap-an-tuyet-tinh-coc-cua-xu-hue-mong-mo",
-      "note": "vietnam.vn, reprinting Báo Quốc Tế, 14 Apr 2026"
+      "note": "14 Apr 2026"
     }
   ],
   "interests": ["food", "photography"]

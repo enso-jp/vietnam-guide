@@ -12,3 +12,5 @@ Left out: drive minutes; a second figure for the 40 km from Phú Bài and the 25
 Reconcile was not run. The board script refuses a candidate that has no published place file.
 
 Food guide pass 23 Oct 2026. Eighteen sourced plates are in `src/content/food/lang-co.json`. Two short of 20. Left out of the public list: the Wiki-travel reprint on Visit Hue (lobster, boiled mussels, boiled clams), the S20 ecosystem list with no plate, one resident’s feast foods, and restaurant names. No breakfast dish and no local drink. No licensed plate photo, so the rows use the monogram. The board’s next unit for this place was place-clear. The hold was left in place.
+
+Attraction pass 23 Oct 2026. Status stays stored. Tân Cảnh Dương is a separate beach and is paged. An Cư stays off the public list. The gap to five sights is in `attractions/unpublished.md`.
