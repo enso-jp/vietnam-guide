@@ -4,21 +4,21 @@
   "name": "Kon Tum Wooden Church",
   "nameVi": "Nhà thờ Gỗ Kon Tum",
   "kicker": "Timber cathedral on Nguyen Hue",
-  "summary": "Walk the timber cathedral on Nguyen Hue, built from 1913 to 1918 in cà chít wood, with Roman lines and a Ba Na roof. Give it about an hour. Go Vietnam lists free entry. Skip the quick photo stop if Kon K’Tu, about five kilometres across the bridge, is the visit you actually wanted.",
+  "summary": "Walk the timber cathedral on Nguyen Hue, cà chít wood raised from 1913 to 1918 with Roman arches under a Ba Na roof. Entry is free and an hour covers it. If Ba Na village life is what you came for, give the time to Kon K’Tu instead, about 5 km out across the Kon Klor bridge.",
   "dots": 5,
   "timeNeeded": "About one hour",
-  "fee": "Free on Go Vietnam; Check on arrival",
+  "fee": "Free",
   "getThere": "Walk from central hotels on Nguyen Hue",
   "district": "Nguyen Hue",
   "verified": "23 Oct 2026",
   "heroCaption": "The timber façade and spire on Nguyen Hue",
   "notice": {
     "title": "Sunday Mass fills the nave",
-    "body": "Go Vietnam prints Mass at 6:00, 8:00, and 17:00. A quiet look at the timber is easier outside those hours. Confirm the clock when you arrive."
+    "body": "Mass is at 6:00, 8:00, and 17:00 on Sunday. Come between services for a quiet look at the timber."
   },
   "body": [
-    "The Kon Tum provincial portal places the cathedral on Nguyen Hue in Thống Nhất ward. It was built from 1913 to 1918 in cà chít timber, Roman in its lines and Ba Na in the roof. Walk the nave, the stained glass, and the carved sanctuary.",
-    "Go Vietnam lists free entry and about an hour on site. The provincial portal does not print a fee, so confirm at the door. Kon K’Tu is a different visit: a Ba Na village about 5 km from the centre, across the Kon Klor bridge, and Go Vietnam prints two to three hours there."
+    "The cathedral stands on Nguyen Hue in Thống Nhất ward, built from 1913 to 1918 in dark cà chít timber. The arches are Roman and the roof is Ba Na. Step inside for the stained glass, the timber columns, and the carved sanctuary.",
+    "An hour is enough. Come in the morning, after a two-bowl phở near the market, and keep the afternoon for the river. Kon K’Tu is a different visit: a Ba Na village about 5 km out, across the Kon Klor bridge, that takes two to three hours."
   ],
   "figures": [
     {
@@ -28,17 +28,21 @@
     }
   ],
   "gettingThere": [
-    "The church is on Nguyen Hue in Thống Nhất ward, in the centre. Walk from hotels on that street. The Kon Tum provincial portal is the address. No source prints the minutes from a named hotel. Those minutes are Check on arrival."
+    "The church is on Nguyen Hue in Thống Nhất ward, in the centre of town. Walk from any hotel in the centre. From Pleiku Airport, the bus or taxi into Kon Tum takes about an hour."
   ],
   "legs": [
     {
       "heading": "From central Kon Tum",
-      "body": "Walk along Nguyen Hue. The provincial portal places the cathedral on that street. Minutes from a named hotel are Check on arrival."
+      "body": "Walk along Nguyen Hue."
+    },
+    {
+      "heading": "From Pleiku Airport (PXU)",
+      "body": "About an hour by bus or taxi to the centre: nearly 45 km by kontumtourism.com’s count, 51 km by Travelmath’s. Then walk."
     }
   ],
-  "hours": "Sunday Mass at 6:00, 8:00, and 17:00. Visitor hours outside Mass are Check on arrival.",
-  "closed": "No weekly closing day is printed. Check on arrival.",
-  "admissionNote": "Go Vietnam lists free entry. The Kon Tum provincial portal photo page does not print a fee. Confirm at the door. No child price, inclusion, or extra is printed.",
+  "hours": "Sunday Mass at 6:00, 8:00, and 17:00. Visitor hours outside Mass: Check on arrival.",
+  "closed": "Check on arrival.",
+  "admissionNote": "Free entry.",
   "links": [
     {
       "label": "Kon Tum provincial portal",

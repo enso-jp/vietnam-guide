@@ -2,13 +2,13 @@
   "slug": "dong-hoi",
   "name": "Dong Hoi food guide",
   "placeSlug": "dong-hoi",
-  "summary": "Cháo canh is the everyday bowl, noodles with snakehead and a fried ram. Bánh khoái is the crisp rice-batter cake with a pork, tomato, and pineapple sauce. Khoai deo is the sun-dried sweet potato you take home from the market. Twenty more plates are named below. A stall price is Check on arrival.",
+  "summary": "Cháo canh is the everyday bowl of noodles, snakehead, and a crisp fried ram, and bánh khoái is the large crisp cake with a pork, tomato, and pineapple sauce. Khoai deo is the sun-dried sweet potato you take home from the market.",
   "heroSlug": "khoai-deo",
   "body": [
-    "Start at Chợ Đồng Hới on Mẹ Suốt, beside the river. The provincial tourism portal names bánh xèo, cháo canh, bánh canh, and kẹo cu đơ in that hall. Most counters sell in the early morning and the afternoon. Hours are Check on arrival.",
-    "Bánh khoái here is a larger crisp cake with pork, shrimp, and bean sprouts. It is not the Hue crepe. Cháo canh is also called bánh canh on some Quảng Bình articles, and the broth is not the Da Nang snakehead bowl. The small cakes cluster on Lê Thành Đồng, Cô Tám, and Đồng Hải."
+    "Start at Chợ Đồng Hới on Mẹ Suốt, beside the river. The hall sells bánh xèo, cháo canh, bánh canh, and kẹo cu đơ, mostly in the early morning and the afternoon.",
+    "Bánh khoái here is a larger crisp cake with pork, shrimp, and bean sprouts, and a sauce of pork, tomato, and pineapple. It is not the Hue crepe. The small cakes sit on Lê Thành Đồng, Cô Tám, and Đồng Hải."
   ],
-  "specialtiesLead": "Khoai deo is the sun-dried sweet to take home. The rows below are the other plates Du khách, the Quảng Trị visitor desk, the provincial tourism portal, and the Đồng Hới ward office name for this coast. A price on every one is Check on arrival.",
+  "specialtiesLead": "Khoai deo is the sun-dried sweet to take home. The rows below are the other plates of this coast.",
   "dishSlugs": ["khoai-deo"],
   "sections": [
     {
@@ -16,122 +16,162 @@
       "heading": "Dong Hoi specialties",
       "nav": "Specialties",
       "paragraphs": [
-        "These are the city plates. Where two articles disagree, both descriptions stay. A door that was not printed is Check on arrival."
+        "These are the city plates."
       ],
       "spots": [
         {
           "name": "Chao canh",
           "nameVi": "Cháo canh",
           "address": "Chợ Đồng Hới, Lê Thành Đồng, Đồng Hải, Nguyễn Trãi, Lý Thường Kiệt",
-          "note": "Noodles, lean pork, snakehead, and a fried ram. Du khách on 15 Mar 2023 also calls it bánh canh and describes a marrow-bone broth. The provincial tourism portal describes pork rib, shrimp, and fish, with rice-flour noodles. Du khách on 31 Oct 2024, republishing Dân Việt, adds turmeric and finely cut mustard. All three stay. Morning or midday. The price is Check on arrival.",
-          "dishSlug": "chao-canh"
+          "note": "Cháo canh is the everyday Quảng Bình bowl: soft noodles, lean pork, snakehead, and a crisp fried ram in a light broth. Some shops simmer marrow bones, some use pork rib with shrimp and fish, and some tint the broth with turmeric and add mustard greens.",
+          "dishSlug": "chao-canh",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Banh khoai",
           "nameVi": "Bánh khoái",
           "address": "Cô Tám and Lê Thành Đồng",
-          "note": "A larger crisp rice-batter cake with pork, shrimp, and bean sprouts, and a sauce of pork, tomato, pineapple, and peanut. The provincial tourism portal also names cucumber, starfruit, fig, unripe banana, and shrimp ruốc, and says some sauces include a little bánh quy. It is not the Hue crepe. The portal’s prose says afternoon and evening. Hours are Check on arrival.",
-          "dishSlug": "banh-khoai-dong-hoi"
+          "note": "A large crisp rice-batter cake, filled with seasoned pork, shrimp, and bean sprouts, eaten hot with herbs. The sauce is pork, tomato, pineapple, and peanut, with cucumber, starfruit, fig, unripe banana, and shrimp ruốc on the side.",
+          "dishSlug": "banh-khoai-dong-hoi",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Banh bot loc",
           "nameVi": "Bánh bột lọc",
           "address": "Lê Thành Đồng and Đồng Hải",
-          "note": "Cassava flour, filled with shrimp and pork. Du khách on 15 Mar 2023 names mushroom and bamboo shoot, plain or in a banana leaf, eaten hot. The ward office and Du khách on 29 May 2024 add a fried form. Du khách on 31 Oct 2024, republishing Dân Việt, names wood-ear and mung bean. The fried cake is not in the March article. The price is Check on arrival.",
-          "dishSlug": "banh-bot-loc"
+          "photo": "banh-bot-loc",
+          "note": "A hot cassava-flour cake filled with shrimp and pork, eaten plain, steamed in a banana leaf, or fried, with mushroom and sour bamboo shoot in one account and wood-ear and mung bean in another.",
+          "dishSlug": "banh-bot-loc",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Banh mi with tapioca cakes",
           "nameVi": "Bánh mì kẹp bánh bột lọc",
           "address": "Chợ Đồng Hới",
-          "note": "A hot split loaf filled with cassava-flour cakes. Du khách on 31 Oct 2024, republishing Dân Việt, says the cakes are wrapped in banana leaf and filled with shrimp and pork, then a few go into the loaf with chili threads, herbs, and a thin sweetened fish sauce. Du khách on 20 Mar 2017, republishing VnExpress, also names a mung-bean filling at Chợ Đồng Hới. The price is Check on arrival.",
-          "dishSlug": "banh-mi"
+          "photo": "dong-hoi-banh-mi-bot-loc",
+          "note": "A hot split loaf stuffed with banana-leaf cassava cakes of shrimp and pork, plus chili threads, herbs, and a thin sweetened fish sauce. Chợ Đồng Hới also fills the same loaf with a mung-bean cake.",
+          "dishSlug": "banh-mi",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Banh beo",
           "nameVi": "Bánh bèo",
           "address": "Lê Thành Đồng, Cô Tám, and Đồng Hải",
-          "note": "Du khách on 28 Apr 2023, republishing Báo Quảng Bình, says the Đồng Hới cake is soft, smells of new rice, and carries browned shrimp with a salty-sweet fish sauce, and that it is not the small Hue or Da Nang cup. Du khách on 29 May 2024, crediting VCT News, says it is poured thin, topped with stir-fried sea shrimp, and eaten with tương ớt. Both stay. The price is Check on arrival.",
-          "dishSlug": "banh-beo"
+          "note": "Đồng Hới bánh bèo is a soft rice cake, not the small Hue or Da Nang cup: it smells of new rice and carries browned shrimp in a salty-sweet fish sauce. Another account pours it thin, with some chew, and tops it with stir-fried sea shrimp and tương ớt.",
+          "dishSlug": "banh-beo",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Banh nam",
           "nameVi": "Bánh nậm",
-          "note": "Du khách on 29 May 2024, crediting VCT News, says rice flour is steamed 15–20 minutes, wrapped in lá dong, with a shrimp filling. A Đồng Hới street was not printed. The price is Check on arrival.",
-          "dishSlug": "banh-nam"
+          "photo": "dong-hoi-banh-nam",
+          "note": "Bánh nậm is rice flour steamed 15–20 minutes and wrapped in lá dong, with a shrimp filling.",
+          "dishSlug": "banh-nam",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Banh cuon with shrimp ruoc",
           "nameVi": "Bánh cuốn ruốc tôm",
-          "note": "A morning rice sheet with no filling, eaten with shrimp ruốc, thin cucumber, herbs, and nước lèo. Du khách on 29 May 2024 says it is not the Hanoi roll. A street was not printed. The price is Check on arrival.",
-          "dishSlug": "banh-cuon-ruoc-tom"
+          "note": "A morning rice sheet with no filling, eaten with shrimp ruốc, thin cucumber, herbs, and nước lèo. It is not the filled Hanoi roll.",
+          "dishSlug": "banh-cuon-ruoc-tom",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Banh xeo",
           "nameVi": "Bánh xèo",
-          "note": "Du khách on 7 Dec 2015, republishing Đại đoàn kết, describes a red-rice crepe rolled with snakehead, salad, and bánh đa, just off the pan. Du khách on 29 May 2024, crediting VCT News, names bánh xèo Quảng Hòa from red rice, with cá chuối and bánh đá. The 26 Apr 2023 ward fair listed bánh xèo Ba Đồn as its own stall, without a recipe, so that crepe stays separate. A street is Check on arrival.",
-          "dishSlug": "banh-xeo"
+          "note": "A red-rice crepe, rolled just off the pan with snakehead, herbs, bean sprouts, lettuce, and sesame, then pinched in bánh đa. Quảng Hòa uses the same red rice with cá chuối and bánh đá, and bánh xèo Ba Đồn is a separate crepe.",
+          "dishSlug": "banh-xeo",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Keo cu do",
           "nameVi": "Kẹo cu đơ",
           "address": "Chợ Đồng Hới, Mẹ Suốt",
-          "note": "The provincial tourism portal names the sweet with the crepe and the noodles. It does not say what is in it. Buy it when the counters are open, early morning or afternoon. The price is Check on arrival.",
-          "dishSlug": "keo-cu-do"
+          "photo": "keo-cu-do",
+          "note": "Kẹo cu đơ is the sweet at Chợ Đồng Hới, sold with the crepe and the noodle bowls, in the early morning and the afternoon.",
+          "dishSlug": "keo-cu-do",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Den bien",
           "nameVi": "Đẻn biển",
-          "note": "A small-bodied sea snake, also called mãng xà biển by Du khách on 29 May 2024. Plates named there are stir-fry with lemongrass and chili, a bánh đa wrap, and porridge. A 13 Mar 2024 article, republishing Báo Đắc Nông, adds ram đẻn, minced and fried in rice paper. It is not the fish at Đá Nhảy. A street is Check on arrival.",
-          "dishSlug": "den-bien"
+          "note": "Đẻn biển is a small sea snake, also called mãng xà biển, stir-fried with lemongrass and chili, simmered as porridge, or minced and fried in rice paper as ram. One plate comes with bánh đa.",
+          "dishSlug": "den-bien",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Grilled stingray",
           "nameVi": "Cá đuối nướng",
           "address": "Cửa Nhật Lệ",
-          "note": "Du khách on 29 May 2024, crediting VCT News, calls grilled stingray a Đồng Hới specialty at the river mouth. The fish is seasoned and grilled on foil or a banana leaf, then eaten hot with herbs and rice paper. The price is Check on arrival.",
-          "dishSlug": "ca-duoi-nuong"
+          "note": "Stingray from the Nhật Lệ mouth, seasoned and grilled on foil or a banana leaf, then eaten hot with herbs and rice paper.",
+          "dishSlug": "ca-duoi-nuong",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Banh uot in Con",
           "nameVi": "Bánh ướt",
           "address": "Cộn, phường Đồng Sơn",
-          "note": "A thin rice sheet, soaked, ground, rested a day and a night, and steamed a few dozen seconds. Du khách on 4 Aug 2023, republishing Báo Quảng Bình, says more than 16 households in Đồng Sơn still make bún and bánh by hand. A door number was not printed. The price is Check on arrival.",
-          "dishSlug": "banh-uot-con"
+          "photo": "banh-uot-con",
+          "note": "Bánh ướt in Cộn is a thin rice sheet, smooth, chewy, and soft, steamed a few dozen seconds after the batter has rested a day and a night. More than 16 households in Đồng Sơn still make the sheets by hand.",
+          "dishSlug": "banh-uot-con",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Goi ca",
           "nameVi": "Gỏi cá",
           "address": "Center, and boats on the Nhật Lệ",
-          "note": "Du khách on 20 Mar 2017, republishing VnExpress, says the fish is usually grouper or cá mai, sliced thin. You cook it in lime juice and roll it in rice paper with herbs. It is not the Da Nang herring salad. The price is Check on arrival.",
-          "dishSlug": "goi-ca"
+          "note": "Thin slices of grouper or cá mai, cooked in lime juice at the table and rolled in rice paper with herbs.",
+          "dishSlug": "goi-ca",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Fried snails",
           "nameVi": "Ốc chiên",
-          "note": "Apple snail and spiral snail, fried with chili, fish sauce, and pepper, then coconut, pineapple, ginger, lemongrass, and lime leaf. Du khách on 31 Oct 2024, republishing Dân Việt. Eat it with green-mango salad or rice crackers. It is not ốc khe, and it is not Minh Hóa’s ốc đực. A street is Check on arrival.",
-          "dishSlug": "oc-chien"
+          "note": "Apple snail and spiral snail, fried with chili, fish sauce, and pepper, then coconut, pineapple, ginger, lemongrass, and lime leaf until golden. Eat them with green-mango salad, or with a cracker dipped in the sauce.",
+          "dishSlug": "oc-chien",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Bun cha ca",
           "nameVi": "Bún chả cá",
           "address": "Lê Trực",
-          "note": "Du khách on 20 Mar 2017, republishing VnExpress, says the cake is cá thác lác, the broth is fish bone or pork bone, and the bowl has pickled shallot, chili, lettuce, and banana flower. Morning only. It is not the Da Nang breakfast bowl. The price is Check on arrival.",
-          "dishSlug": "bun-cha-ca"
+          "photo": "bun-cha-ca",
+          "note": "A morning bowl on Lê Trực: thin noodles, a cake of cá thác lác, and a broth of fish bone or pork bone, with pickled shallot, chili, lettuce, and banana flower.",
+          "dishSlug": "bun-cha-ca",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Chao san ca loc",
           "nameVi": "Cháo sắn cá lóc",
           "address": "Tôn Đức Thắng, Nguyễn Thái Học, Hà Huy Tập and Hoàng Diệu",
-          "note": "The Đồng Hới ward office names the bowl on these streets and does not say how it is cooked. The price is Check on arrival. Hours are Check on arrival.",
-          "dishSlug": "chao-san-ca-loc"
+          "note": "Cháo sắn cá lóc is the bowl on Tôn Đức Thắng, Nguyễn Thái Học, and the Hà Huy Tập–Hoàng Diệu corner.",
+          "dishSlug": "chao-san-ca-loc",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Chao hau",
           "nameVi": "Cháo hàu",
           "address": "Quán Hàu, about 7 km south on National Highway 1A",
-          "note": "Nhật Lệ oysters. Du khách on 6 May 2016, republishing VOV, says the oyster is stir-fried with scallion, chili, pepper, salt, and fish sauce, then added to rice porridge, or dropped raw into the boiling pot. A Quán Hàu cook quoted that day gives spring, around Tết, as the season, and July through November as the thin season. The ward office names the bowl and does not describe it. The price is Check on arrival.",
-          "dishSlug": "chao-hau"
+          "note": "Nhật Lệ oysters, stir-fried with scallion, chili, pepper, and fish sauce, then stirred into rice porridge, or dropped raw into the boiling pot. Spring, around Tết, is the full season; from July through November the oysters are fewer.",
+          "dishSlug": "chao-hau",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         }
       ]
     },
@@ -141,28 +181,35 @@
       "heading": "Beyond the market",
       "nav": "Beyond town",
       "paragraphs": [
-        "These three are not Chợ Đồng Hới. Du khách places them on the river mouths and the pass a rider reaches from the city. A ride time that was not printed is Check on arrival."
+        "These three sit on the river mouths and under the Lý Hòa pass, a ride out from the market."
       ],
       "spots": [
         {
           "name": "Roon River cockles",
           "nameVi": "Sò huyết sông Roòn",
           "address": "Chợ Cảnh Dương, near the Roòn bridge, old Quảng Trạch",
-          "note": "Du khách on 15 Mar 2023 says the cockles are steamed, grilled, or eaten raw with lime after a soak so they spit the sand. Du khách on 29 May 2024, crediting VCT News, names cockle porridge, tamarind sauce, and a lime plate, and calls the lime plate the one to order. Both stay. Not the Ba Đồn cockles named at the 2023 fair. The price is Check on arrival.",
-          "dishSlug": "so-huyet"
+          "photo": "so-huyet",
+          "note": "Roòn River cockles, where salt and fresh water meet, steamed, grilled, or eaten raw with lime after a soak that makes them spit the sand. The other plates are cockle porridge, a tamarind sauce, and the lime plate, which is the one to order.",
+          "dishSlug": "so-huyet",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Chao ca ngheo",
           "nameVi": "Cháo cá nghéo",
           "address": "Đá Nhảy, under the Lý Hòa pass",
-          "note": "Du khách on 7 Dec 2015, republishing Đại đoàn kết, says cá nghéo is a cartilaginous fish with lean meat and rough skin, and that it bears live young. The porridge has oyster mushroom, straw mushroom, and button mushroom, over green mustard, with Đồng Hới fish sauce and chili. One feature story. The price is Check on arrival.",
-          "dishSlug": "chao-ca-ngheo"
+          "note": "Cá nghéo is a cartilaginous fish with lean meat and rough skin. The porridge at Đá Nhảy finishes it with oyster mushroom, straw mushroom, and button mushroom, over green mustard, with Đồng Hới fish sauce and hot chili.",
+          "dishSlug": "chao-ca-ngheo",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Crab and winter melon",
           "nameVi": "Cua hấp bí đao",
-          "note": "Sea crab steamed with winter melon, a summer plate. Du khách on 29 May 2024, crediting VCT News, calls the melon cool and the crab sweet. A street was not printed. The price is Check on arrival.",
-          "dishSlug": "cua-hap-bi-dao"
+          "note": "Sea crab steamed with winter melon, a summer plate. The melon is cool and the crab is sweet.",
+          "dishSlug": "cua-hap-bi-dao",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         }
       ]
     },
@@ -172,7 +219,7 @@
       "heading": "Markets and eating streets",
       "nav": "Streets",
       "paragraphs": [
-        "One hall and three eating streets. Hours that were not printed as an opening time are Check on arrival."
+        "One hall and three eating streets."
       ],
       "spots": [
         {
@@ -181,30 +228,38 @@
           "address": "Đường Mẹ Suốt",
           "photo": "dong-hoi-market",
           "caption": "The hall on Mẹ Suốt, beside the river.",
-          "note": "The provincial tourism portal calls the hall ordinary and worth the walk for bánh xèo, cháo canh, bánh canh, and kẹo cu đơ. Most counters sell in the early morning and the afternoon. Hours and any entrance fee are Check on arrival."
+          "note": "An ordinary hall on Mẹ Suốt, and the walk for bánh xèo, cháo canh, bánh canh, and kẹo cu đơ. Most counters sell in the early morning and the afternoon.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Le Thanh Dong",
           "nameVi": "Đường Lê Thành Đồng",
           "address": "Lê Thành Đồng",
-          "note": "The ward office and Du khách on 15 Mar 2023 put bánh bột lọc, bánh bèo, and bánh khoái on this street. The provincial tourism portal puts cháo canh here too. Hours are Check on arrival."
+          "note": "Bánh bột lọc, bánh bèo, bánh khoái, and cháo canh sit on this street.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Co Tam",
           "nameVi": "Đường Cô Tám",
           "address": "Cô Tám",
-          "note": "The ward office names bánh khoái and bánh bèo on Cô Tám. Hours are Check on arrival."
+          "note": "Bánh khoái and bánh bèo are the cakes on Cô Tám.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Dong Hai",
           "nameVi": "Đường Đồng Hải",
           "address": "Đồng Hải",
-          "note": "The ward office puts bánh bột lọc and bánh bèo here, and the tourism portal puts cháo canh here. By day it is an eating street. After 18:00 on Friday, Saturday, and Sunday the ward office also calls Đồng Hải part of the walking street. Daytime hours for the bowls are Check on arrival."
+          "note": "Bánh bột lọc, bánh bèo, and cháo canh by day. After 18:00 on Friday, Saturday, and Sunday, Đồng Hải is also part of the walking street.",
+          "hour": "Check on arrival",
+          "price": "Check on arrival"
         }
       ]
     }
   ],
   "verified": "23 Oct 2026",
   "seoTitle": "Dong Hoi food guide — chao canh, banh khoai, khoai deo",
-  "seoDescription": "Chao canh, banh khoai, and khoai deo in Dong Hoi, plus the small cakes and Nhat Le seafood. Stall prices and market hours are Check on arrival."
+  "seoDescription": "Chao canh, banh khoai, and khoai deo in Dong Hoi, plus the small cakes and Nhat Le seafood."
 }

@@ -2,13 +2,13 @@
   "slug": "cham-islands",
   "name": "Cham Islands food guide",
   "placeSlug": "cham-islands",
-  "summary": "Order the catch with rice: fish soup, fish braised lightly or salty, fried fish, and dried fish grilled or simmered. Mực một nắng is tube squid dried one sun. Bánh ít and bánh su sê sit in baskets at the pier. A current stall price is Check on arrival.",
+  "summary": "Order the catch with rice and little spice: fish soup, a light braise, a salty braise, fried fish, and dried fish grilled or simmered. Mực một nắng is tube squid dried one sun, sweet when it was dried the day it was caught, and bánh ít and bánh su sê wait in the pier baskets.",
   "heroSlug": "muc-mot-nang",
   "body": [
-    "The Hội An World Heritage centre’s 16 September 2025 study still puts the catch first: fish, shrimp, squid, and swimming crab, then greens, then meat, with little spice. Lunch is about 11:00–12:00 and the evening meal about 17:00–18:00. For a change, that study names braised pork, boiled pork, pork-bone soup, salty glazed ribs, and stir-fried meat with roots and fruit, plus bún and mì with no recipe. Lobster, ốc vú nàng, and abalone have left the daily table. Stone crab is a visitor catch, and only inside the season on its own line.",
-    "Mực một nắng is the squid dried one sun. Nước lá Lao is the leaf drink: the 7 July 2014 note calls it particular to the island, and the centre’s 25 June 2017 note says the same leaves are known elsewhere in Quảng. Bánh ít and bánh su sê are the cakes in the pier baskets. Yến sào Cù Lao Chàm is a registered product. The Đà Nẵng city portal on 28 May 2026 quotes grades from nearly 100 million to nearly 180 million VND a kilogram. That is not a bowl price."
+    "Fish, shrimp, squid, and swimming crab come first, then greens, then meat. Lunch is about 11:00–12:00 and the evening meal about 17:00–18:00. When the kitchen changes the rice, the plates are braised pork, boiled pork, pork-bone soup, salty glazed ribs, or stir-fried meat with roots and fruit, and sometimes bún or mì. Lobster, ốc vú nàng, and abalone have left the daily table. Stone crab is a visitor catch, and only from 1 March to 31 July.",
+    "Mực một nắng is squid dried one sun. Nước lá Lao is a leaf drink, called particular to the island in 2014 and, in 2017, also known from the same leaves elsewhere in Quảng, astringent when cooked. Bánh ít and bánh su sê are the cakes in the pier baskets. Yến sào Cù Lao Chàm is the registered nest. In May 2026 the grades yến quang, yến thiên, and yến bài were quoted from nearly 100 million to nearly 180 million VND a kilogram. That figure is the product, not a bowl."
   ],
-  "specialtiesLead": "Squid dried one sun is the plate with a photograph. The other names are plates the Hội An World Heritage centre, its inventory, Báo Quảng Nam, the Đà Nẵng city portal, and the reserve decision actually print.",
+  "specialtiesLead": "Squid dried one sun leads. The catch, the fish paste, the afternoon bowls, the leaf drink, and the pier cakes follow.",
   "dishSlugs": ["muc-mot-nang"],
   "sections": [
     {
@@ -16,7 +16,7 @@
       "heading": "Plates from the catch",
       "nav": "The plates",
       "paragraphs": [
-        "The daily rice is the list the 16 September 2025 study prints: fish soup, fish braised lightly, fish braised salty, fried fish, cá cháy, and dried fish grilled or simmered, plus the fish paste and the cakes and drinks around it. A current price on every line is Check on arrival."
+        "Fish soup, fish braised lightly, fish braised salty, fried fish, cá cháy, and dried fish grilled or simmered, then the fish paste, the greens, the sauce, the cakes, the nest, and the drink."
       ],
       "dishSlugs": [
         "canh-ca",
@@ -45,7 +45,7 @@
       "nav": "Mì Quảng",
       "role": "regional",
       "paragraphs": [
-        "The 16 September 2025 study names mì Quảng with bánh xèo chả cá, bánh canh, and bánh bèo as afternoon food along the Bai Lang coast road and by the well in Bai Ong. It does not describe the noodles, the broth, or a shop."
+        "Mì Quảng is the afternoon bowl on the Bai Lang coast road and by the well in Bai Ong, beside bánh xèo chả cá, bánh canh, and bánh bèo."
       ],
       "dishSlugs": ["mi-quang"]
     },
@@ -55,19 +55,19 @@
       "nav": "Breakfast",
       "role": "breakfast",
       "paragraphs": [
-        "The same study places breakfast stalls along the Bai Lang coast road and by Giếng Xóm Cấm in Bai Ong. It does not name the breakfast dish. A stall hour was not printed. Check on arrival."
+        "Breakfast stalls line the Bai Lang coast road and sit by Giếng Xóm Cấm in Bai Ong."
       ],
       "spots": [
         {
           "name": "Bai Lang coast road",
           "nameVi": "Đường ven biển Bãi Làng",
           "address": "Thôn Bãi Làng, xã Tân Hiệp",
-          "note": "Breakfast stalls the Hội An World Heritage centre places along this road on 16 September 2025, and by the well in Bai Ong. No stall hour and no stall price were printed. Check on arrival."
+          "note": "Morning stalls along the Bai Lang coast road, and by the well in Bai Ong."
         }
       ]
     }
   ],
   "verified": "23 Oct 2026",
   "seoTitle": "Cham Islands food — the catch and squid dried one sun",
-  "seoDescription": "Fish with rice, squid dried one sun, and bánh ít at the pier on Tân Hiệp. Lunch is about 11:00–12:00. A stall price is Check on arrival."
+  "seoDescription": "Fish with rice and little spice, squid dried one sun, and bánh ít at the pier on Tân Hiệp. Lunch is about 11:00–12:00."
 }

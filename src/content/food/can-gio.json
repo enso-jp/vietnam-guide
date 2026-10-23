@@ -2,11 +2,11 @@
   "slug": "can-gio",
   "name": "Can Gio food guide",
   "placeSlug": "can-gio",
-  "summary": "Order lẩu cá dứa on đường Duyên Hải and đường Tắc Xuất, then walk to chợ hải sản Hàng Dương for live seafood beside bãi 30 tháng 4. The mangrove plates are the mudskipper salad, lá lìm kìm, ba khía with lá buôi, and straw-grilled duck at Vàm Sát. A breakfast bowl was not named. A 2026 price is Check on arrival.",
+  "summary": "Order lẩu cá dứa on đường Duyên Hải and đường Tắc Xuất, then walk to chợ hải sản Hàng Dương for live seafood beside bãi 30 tháng 4. The mangrove plates are the mudskipper salad, lá lìm kìm, ba khía with lá buôi, and straw-grilled duck at Vàm Sát.",
   "body": [
     "The sit-down streets are đường Duyên Hải and đường Tắc Xuất, in the old Cần Thạnh town, now xã Cần Giờ. Dân Việt, on 2 Oct 2022, puts lẩu cá dứa nấu măng chua there, with the simmered fish, tôm tích, and the shellfish. The market is separate: chợ hải sản Hàng Dương on đường Thạnh Thới, about 50 m from the sand in a Thanh Niên story of 11 Mar 2019. You point at a live animal and the stall cooks it, or you take a pan already on the fire.",
-    "Ho Chi Minh City is the long meal. Here the plates are mangrove and coast. VnExpress, on 22 Sep 2021, describes gỏi lá lìm kìm with fried cá bống sao. Dân Việt, on 28 Apr 2024, describes gỏi cá thòi lòi, and does not say how that fish is cooked. Khô cá dứa is the thing people carry home. Salt from the pans is the other thing people carry home. No bowl of salt was named.",
-    "Sài Gòn Giải Phóng, on 17 Feb 2014, says much of the coast is nghêu beds and that the silt from the Đồng Nai and the Soài Rạp is why the seafood grows fast and tastes sweet. It does not name a nghêu plate. A breakfast bowl was not named. Where an hour or a current price was not printed, it is Check on arrival."
+    "Ho Chi Minh City is the long meal. Here the plates are mangrove and coast. VnExpress, on 22 Sep 2021, describes gỏi lá lìm kìm with fried cá bống sao. Dân Việt, on 28 Apr 2024, describes gỏi cá thòi lòi. Khô cá dứa is the thing people carry home. Salt from the pans is the other thing people carry home.",
+    "Sài Gòn Giải Phóng, on 17 Feb 2014, says much of the coast is nghêu beds and that the silt from the Đồng Nai and the Soài Rạp is why the seafood grows fast and tastes sweet."
   ],
   "specialtiesLead": "Lẩu cá dứa and khô cá dứa come first. The mangrove plates, the fruit, and rượu mật ong rừng Sác follow.",
   "dishSlugs": [
@@ -47,7 +47,7 @@
       "heading": "Seafood",
       "nav": "Seafood",
       "paragraphs": [
-        "These are the seafood plates the newspapers name. Dân Việt also lists lẩu cá ngát, cá bóp, and cá mao with the other pots and does not print a separate method. A current price is Check on arrival."
+        "These are the seafood plates the newspapers name. Dân Việt also lists lẩu cá ngát, cá bóp, and cá mao with the other pots."
       ],
       "spots": [
         {
@@ -55,126 +55,132 @@
           "nameVi": "Lẩu cá dứa",
           "address": "Đường Duyên Hải and đường Tắc Xuất",
           "dishSlug": "can-gio--lau-ca-dua",
-          "note": "Lẩu cá dứa nấu măng chua is the hotpot Dân Việt calls a Cần Giờ specialty. The fish has a smooth fatty skin. The broth is a southern sour-sweet pot with bamboo shoot already in it. You add bean sprouts, eggplant, pineapple, spring onion, and ngổ, then eat the fish with nước mắm, chili, and a little bún. The price is Check on arrival."
+          "note": "Lẩu cá dứa nấu măng chua is a southern sour-sweet hotpot of sea catfish and bamboo shoot. The flesh is sweet, the skin is smooth and fatty, and you finish the fish with nước mắm, chili, and a little bún."
         },
         {
           "name": "Ca dua kho",
           "nameVi": "Cá dứa kho",
           "address": "Đường Duyên Hải and đường Tắc Xuất",
           "dishSlug": "can-gio--ca-dua-kho",
-          "note": "Cá dứa kho is the same fish, simmered and eaten with rice. A diner in the Dân Việt town story calls the flesh firm and a little fatty. A recipe was not printed. The price is Check on arrival."
+          "note": "Cá dứa kho is the same sea catfish, simmered and eaten with rice. The flesh is firm and a little fatty."
         },
         {
           "name": "Kho ca dua",
           "nameVi": "Khô cá dứa",
           "address": "Check on arrival",
           "dishSlug": "can-gio--kho-ca-dua",
-          "note": "Khô cá dứa is the dried sea catfish people carry out of Cần Giờ. Dân Việt, 28 Apr 2024, describes the one-sun fish: split, washed, salted at about 10 kg of fish to 1 kg of salt for about an hour, washed again, and dried for one sun. Sài Gòn Giải Phóng and Tuổi Trẻ both call it a specialty. Their counts do not match, and the 2016 prices do not match. A 2026 price is Check on arrival."
+          "note": "Khô cá dứa is sea catfish split, salted, and dried for one sun. The flesh fries or grills to a deep yellow, firm, with only a little fat under the skin.",
+          "photo": "can-gio--kho-ca-dua"
         },
         {
           "name": "Tom tich",
           "nameVi": "Tôm tích",
           "address": "Town streets, or Hàng Dương",
           "dishSlug": "can-gio--tom-tich",
-          "note": "Tôm tích, also written tôm tít, is the mantis shrimp Dân Việt calls a Cần Giờ specialty. The plate the story walks through is cháy tỏi, burnt garlic, on large animals. Thanh Niên names tôm tích among the three things sellers said visitors ask for at Hàng Dương, with ghẹ and ốc. The price is Check on arrival."
+          "note": "Tôm tích, also called tôm tít, is a large mantis shrimp cooked with burnt garlic. The meat is sweet, and a small shell leaves little of it once you crack it.",
+          "photo": "can-gio--tom-tich"
         },
         {
           "name": "Tom",
           "nameVi": "Tôm sú, tôm sắt, tôm đất",
           "address": "Check on arrival",
           "dishSlug": "can-gio--tom",
-          "note": "Sài Gòn Giải Phóng calls tôm the seafood visitors liked most in 2014. Most of it is tôm sú, from the sea or from ponds. Tôm sắt has a hard shell. Tôm đất has a soft clear shell and chewy sweet meat. Tôm gạch son, the story says, is best around lunar months 3 and 4. A cook was not printed. The price is Check on arrival."
+          "note": "Most of the prawns here are tôm sú, from the sea or from ponds. Tôm đất has a soft clear shell and chewy sweet meat, and tôm sắt has a hard shell."
         },
         {
           "name": "Oc len",
           "nameVi": "Ốc len",
           "address": "Hàng Dương, or the town streets",
           "dishSlug": "can-gio--oc-len",
-          "note": "Ốc len is a mangrove snail. Dân Việt names it on the town menu. Thanh Niên names ốc len xào dừa as a box at Hàng Dương, 700 g, and names ốc among the three things visitors ask for, with ghẹ and tôm tích. A coconut ratio was not printed. The price is Check on arrival."
+          "note": "Ốc len is a mangrove snail, on the town menu and at Hàng Dương as ốc len xào dừa."
         },
         {
           "name": "Goi chua oc dun",
           "nameVi": "Gỏi chua ốc đụn",
           "address": "Check on arrival",
           "dishSlug": "can-gio--oc-dun",
-          "note": "Gỏi chua ốc đụn is a sour snail salad Sài Gòn Giải Phóng names among the snail dishes visitors could find in Cần Giờ in 2014. A method beyond the name, a street, and a price were not printed. The price is Check on arrival."
+          "note": "Gỏi chua ốc đụn is a sour salad of ốc đụn."
         },
         {
           "name": "Oc giac",
           "nameVi": "Ốc giác",
           "address": "Check on arrival",
           "dishSlug": "can-gio--oc-giac",
-          "note": "Ốc giác is a snail Sài Gòn Giải Phóng names beside the other snail dishes. The story calls it chewy and crisp. A cook, a street, and a price were not printed. The price is Check on arrival."
+          "note": "Ốc giác is a sea snail with a chewy, crisp bite."
         },
         {
           "name": "Oc huong",
           "nameVi": "Ốc hương",
           "address": "Town streets in 2022. No street in 2014.",
           "dishSlug": "can-gio--oc-huong",
-          "note": "Ốc hương biển hấp sả is sea snail steamed with lemongrass. Sài Gòn Giải Phóng says the snail has small spots and a clean sea sweetness. A diner in the Dân Việt town story ordered ốc hương and did not name a cook. Both stay. The price is Check on arrival."
+          "note": "Ốc hương biển hấp sả is a spotted sea snail steamed with lemongrass. The meat is cleanly sweet and tastes of the sea.",
+          "photo": "can-gio--oc-huong"
         },
         {
           "name": "Oc mo",
           "nameVi": "Ốc mỡ",
           "address": "Hàng Dương in 2019. No street in 2014.",
           "dishSlug": "can-gio--oc-mo",
-          "note": "Ốc mỡ is a snail two stories cook differently. Sài Gòn Giải Phóng names ốc mỡ xào me and calls it sweet and soft. A Thanh Niên caption at Hàng Dương says ốc mỡ rang me. Both cooks stay. A recipe was not printed. The price is Check on arrival."
+          "note": "Ốc mỡ is cooked as ốc mỡ xào me and as ốc mỡ rang me. The snail is sweet and soft."
         },
         {
           "name": "So huyet",
           "nameVi": "Sò huyết",
           "address": "Town streets, or Hàng Dương",
           "dishSlug": "can-gio--so-huyet",
-          "note": "Sò huyết is the blood cockle on the town menu and among the live shellfish at Hàng Dương. Dân Việt names one cook, sò huyết la cót, and does not print the method. Thanh Niên lists sò among the animals you point at and the stall cooks. The price is Check on arrival."
+          "note": "Sò huyết is a blood cockle, cooked from the live shell, including the town plate sò huyết la cót.",
+          "photo": "can-gio--so-huyet"
         },
         {
           "name": "Vop",
           "nameVi": "Vọp",
           "address": "Đường Duyên Hải and đường Tắc Xuất",
           "dishSlug": "can-gio--vop",
-          "note": "Vọp, which Dân Việt also writes dọp, is a shellfish a diner calls large and not too chewy, eaten with mỡ hành and peanuts. The story also shows vọp nướng. A species name was not printed. The price is Check on arrival."
+          "note": "Vọp, also written dọp, is a large shellfish eaten with mỡ hành and peanuts, or grilled. It is not too chewy."
         },
         {
           "name": "Hau nuong",
           "nameVi": "Hàu nướng",
           "address": "Chợ hải sản Hàng Dương, đường Thạnh Thới",
           "dishSlug": "can-gio--hau-nuong",
-          "note": "Hàu nướng is grilled oyster. A diner in the Dân Việt town story lists hàu among the plates. Thanh Niên shows grilled oysters with cheese and with mỡ hành at Hàng Dương. A recipe was not printed. The price is Check on arrival."
+          "note": "Hàu nướng is an oyster grilled in the shell, with cheese or with mỡ hành.",
+          "photo": "can-gio--hau-nuong"
         },
         {
           "name": "Ca duoi hap",
           "nameVi": "Cá đuối hấp hành",
           "address": "Đường Duyên Hải and đường Tắc Xuất",
           "dishSlug": "can-gio--ca-duoi-hap",
-          "note": "Cá đuối hấp hành is stingray steamed with onion. Dân Việt says diners also eat the fatty liver. The broth of a ray hotpot is a different plate. The price is Check on arrival."
+          "note": "Cá đuối hấp hành is stingray steamed with onion. Diners also eat the fatty liver."
         },
         {
           "name": "Lau ca duoi",
           "nameVi": "Lẩu cá đuối",
           "address": "Đường Duyên Hải and đường Tắc Xuất",
           "dishSlug": "can-gio--lau-ca-duoi",
-          "note": "Lẩu cá đuối is the stingray pot on the same town menu. Dân Việt lists it with the other fish pots, cooked with vegetables, sour bamboo, cần cà, or ngót. A diner ordered it. The story does not print a broth that belongs only to the ray. Steamed ray with onion is the other plate. The price is Check on arrival."
+          "note": "Lẩu cá đuối is a stingray hotpot with vegetables, sour bamboo, cần cà, or ngót."
         },
         {
           "name": "Cua um",
           "nameVi": "Cua um chua ngọt",
           "address": "Đường Duyên Hải and đường Tắc Xuất",
           "dishSlug": "can-gio--cua-um",
-          "note": "Cua um chua ngọt is a sour-sweet crab braise Dân Việt names on the town menu. The same page prices cua hai da by the kilogram. It does not say the braise is that crab, and it does not print the method. Cua cúm, the mangrove crab in a 2014 story, is a different animal. The price is Check on arrival."
+          "note": "Cua um chua ngọt is a sour-sweet crab braise."
         },
         {
           "name": "Cua cum",
           "nameVi": "Cua cúm",
           "address": "Check on arrival",
           "dishSlug": "can-gio--cua-cum",
-          "note": "Cua cúm is a mangrove crab Sài Gòn Giải Phóng describes as like a crab, living mainly in the mangrove, with a black body and a rough shell, and firm, fragrant meat. A cook and a street were not printed. The price is Check on arrival."
+          "note": "Cua cúm is a mangrove crab with a black body and a rough shell. The meat is firm and fragrant."
         },
         {
           "name": "Ghe",
           "nameVi": "Ghẹ",
           "address": "Hàng Dương, or the town streets",
           "dishSlug": "can-gio--ghe",
-          "note": "Ghẹ is the swimmer crab. Thanh Niên says sellers at Hàng Dương named it, with tôm tích and ốc, as what visitors ask for. Dân Việt names ghẹ nấu bầu on the town menu and does not print the method. Sài Gòn Giải Phóng, in 2014, says some crabs are red-pink and some are green, and that the meat is firmer in the last days of the lunar month. The price is Check on arrival."
+          "note": "Ghẹ is the swimmer crab visitors ask for at Hàng Dương, also served as ghẹ nấu bầu. Some shells are red-pink and some are green, and the meat is firmer in the last days of the lunar month.",
+          "photo": "can-gio--ghe"
         }
       ]
     },
@@ -183,7 +189,7 @@
       "heading": "Mangrove plates, fruit, and a drink",
       "nav": "Mangrove",
       "paragraphs": [
-        "Dân Việt, on 28 Apr 2024, and VnExpress, on 22 Sep 2021, name the leaf, the mudskipper, the duck, and the mangrove crab. Sài Gòn Giải Phóng, on 17 Feb 2014, names the mango and the custard apple. A dessert sweet was not named."
+        "Dân Việt, on 28 Apr 2024, and VnExpress, on 22 Sep 2021, name the leaf, the mudskipper, the duck, and the mangrove crab. Sài Gòn Giải Phóng, on 17 Feb 2014, names the mango and the custard apple."
       ],
       "spots": [
         {
@@ -191,84 +197,86 @@
           "nameVi": "Gỏi cá thòi lòi",
           "address": "Check on arrival",
           "dishSlug": "can-gio--goi-ca-thoi-loi",
-          "note": "Gỏi cá thòi lòi trộn lá lìm kìm is the mudskipper salad Dân Việt calls a Cần Giờ specialty. The fish is a white goby that lives in the mangrove, climbs trees, and runs on the mud. The flesh is sweet, fragrant, and soft. The story prints the leaf and the sauce, and does not print how the fish is cooked. VnExpress describes a different leaf salad, with fried cá bống sao. The price is Check on arrival."
+          "note": "Gỏi cá thòi lòi trộn lá lìm kìm is a salad of mangrove mudskipper and lá lìm kìm. The fish is sweet, fragrant, and soft, against a sour, slightly astringent leaf."
         },
         {
           "name": "Goi la lim kim",
           "nameVi": "Gỏi lá lìm kìm",
           "address": "Eco parks. No gate was named.",
           "dishSlug": "can-gio--goi-la-lim-kim",
-          "note": "Gỏi lá lìm kìm is the mangrove-leaf salad VnExpress describes, served with cá bống sao fried crisp, or with dried fish. The leaf is also mixed with tôm thẻ. This is not the mudskipper salad. The leaf is a small watery vine. The taste changes with the rain and with the hour. The price is Check on arrival."
+          "note": "Gỏi lá lìm kìm is a salad of a small watery mangrove vine, with cá bống sao fried crisp or with dried fish. It is salty and sour, with a sweet finish that changes with the rain and the hour."
         },
         {
           "name": "Canh la lim kim",
           "nameVi": "Canh lá lìm kìm",
           "address": "Check on arrival",
           "dishSlug": "can-gio--canh-lim-kim",
-          "note": "Canh lá lìm kìm is the everyday soup VnExpress makes with the same leaf, tôm, and tép. Do not add salt. The leaf is already salty, and the shrimp is sweet. A little seasoning and ground pepper finish it. The price is Check on arrival."
+          "note": "Canh lá lìm kìm is a soup of the same mangrove leaf with tôm and tép. The leaf is already salty and the shrimp is sweet, so the pot takes no added salt."
         },
         {
           "name": "Canh chua ca khoai",
           "nameVi": "Canh chua cá khoai",
           "address": "Check on arrival",
           "dishSlug": "can-gio--canh-chua-ca-khoai",
-          "note": "Canh chua cá khoai is a sour soup Dân Việt calls a Cần Giờ specialty, even while it says cá khoai lives mainly in central Vietnam. The fish is round and long, with soft translucent flesh and very fine bones. The soup uses pineapple, tamarind, tomato, bean sprouts, ngổ, and spring onion. The price is Check on arrival."
+          "note": "Canh chua cá khoai is a sour soup of a long, round fish with pineapple, tamarind, tomato, bean sprouts, ngổ, and spring onion. The flesh is soft and translucent, and the bowl smells of pineapple and tomato, sweet, then cleanly sour."
         },
         {
           "name": "Vit nuoc man",
           "nameVi": "Vịt nước mặn",
           "address": "Vàm Sát",
           "dishSlug": "can-gio--vit-nuoc-man",
-          "note": "Vịt nước mặn Vàm Sát is a brackish-water duck Dân Việt calls a Cần Giờ specialty. People there say it is raised along the beach, feeds with the tide, and eats seafood, so the meat is firm, sweet, and low in fat. The cook the story calls best is nướng rơm, grilled in straw, with a pepper and lemongrass dip. The price is Check on arrival."
+          "note": "Vịt nước mặn is a brackish-water duck from Vàm Sát, grilled in straw and eaten with a pepper and lemongrass dip. The meat is firm, fresh, and naturally sweet, and low in fat."
         },
         {
           "name": "Ca doi muoi hot",
           "nameVi": "Cá đối nổ muối hột",
           "address": "Check on arrival",
           "dishSlug": "can-gio--ca-doi-muoi-hot",
-          "note": "Cá đối nổ muối hột is mullet buried in coarse salt and cooked by the heat of the salt, which pops in the pan. People in Cần Giờ also call the fish cá đối buôi. Dân Việt says this is the famous cook, rather than grilling. The flesh stays moist and smells of coarse salt and lemongrass. Eat it in rice paper with forest leaves. The price is Check on arrival."
+          "note": "Cá đối nổ muối hột is mullet buried in coarse salt and cooked by the heat of the salt as it pops. The flesh stays moist and tastes of coarse salt and lemongrass, then goes into rice paper with forest leaves."
         },
         {
           "name": "Sam trung nuong",
           "nameVi": "Sam trứng nướng",
           "address": "Check on arrival",
           "dishSlug": "can-gio--sam-trung-nuong",
-          "note": "Sam trứng nướng is grilled horseshoe crab with eggs. Dân Việt says people take the male off the female, clean the animal, and grill it on charcoal until cooked. They then shred the meat and the eggs with spring onion, garlic, chili, cilantro, and crushed peanuts. The price is Check on arrival."
+          "note": "Sam trứng nướng is horseshoe crab grilled on charcoal, then shredded with its eggs, spring onion, garlic, chili, cilantro, and crushed peanuts. The eggs are fatty and the meat is sweet."
         },
         {
           "name": "Lau ba khia",
           "nameVi": "Lẩu ba khía",
           "address": "Check on arrival",
           "dishSlug": "can-gio--lau-ba-khia",
-          "note": "Lẩu ba khía lá buôi is a mangrove-crab hotpot. Dân Việt says ba khía is also made into mắm, and that the pot has a fatty, clean-sweet crab riêu. In Cần Giờ the leaf is lá buôi, also called rau bộ đội, nutty, and better the more thoroughly you cook it. The story ties the leaf to meals of the Rừng Sác special forces, then to ordinary home cooking. The price is Check on arrival."
+          "note": "Lẩu ba khía lá buôi is a mangrove-crab hotpot with a fatty, clean-sweet crab riêu. The leaf, also called rau bộ đội, is nutty and wants a thorough cook."
         },
         {
           "name": "Dia sam",
           "nameVi": "Địa sâm",
           "address": "Check on arrival",
           "dishSlug": "can-gio--dia-sam",
-          "note": "Địa sâm is a Cần Giờ specialty in Dân Việt, fresh or dried. Fresh, the story says, is grilled, stir-fried, fried, or cooked as porridge. Dried, it is used to sweeten a cooking liquid. It is naturally sweet, and the story calls the cooking simple. It does not say whether địa sâm is a root or an animal. The price is Check on arrival."
+          "note": "Địa sâm is eaten fresh, grilled, stir-fried, fried, or as porridge, and dried to sweeten a cooking liquid. It is naturally sweet."
         },
         {
           "name": "Ruou mat ong",
           "nameVi": "Rượu mật ong rừng Sác",
           "address": "Check on arrival",
           "dishSlug": "can-gio--ruou-mat-ong",
-          "note": "Rượu mật ong rừng Sác is the drink Dân Việt puts with the mudskipper salad. A recipe, a strength, a shop, and a price were not printed. The price is Check on arrival."
+          "note": "Rượu mật ong rừng Sác is a honey wine drunk with the mudskipper salad."
         },
         {
           "name": "Xoai cat",
           "nameVi": "Xoài cát Cần Giờ",
           "address": "Check on arrival",
           "dishSlug": "can-gio--xoai-cat",
-          "note": "Xoài cát Cần Giờ is the Hòa Lộc mango grown here. Sài Gòn Giải Phóng, 17 Feb 2014, calls it round, yellow, and cool-sweet, and different from the same variety elsewhere because of the soil and the care. That story prints 300 ha, of which 13.8 ha VietGAP, and 1,500 tons a year. Those are 2014 figures. The price is Check on arrival."
+          "note": "Xoài cát Cần Giờ is the Hòa Lộc mango grown on this coast, round and yellow. It is cool-sweet, and the soil and the care make it different from the same variety elsewhere.",
+          "photo": "can-gio--xoai-cat"
         },
         {
           "name": "Mang cau",
           "nameVi": "Mãng cầu",
           "address": "Check on arrival",
           "dishSlug": "can-gio--mang-cau",
-          "note": "Mãng cầu is the other fruit Sài Gòn Giải Phóng pairs with the mango. The fruit is not very large. It is chewy and sweet, with thick flesh, and a taste the story ties to sandy coastal soil. A hectare, a stall, and a price were not printed. The price is Check on arrival."
+          "note": "Mãng cầu here is not very large, with thick flesh that is chewy and sweet. The taste follows the sandy coastal soil.",
+          "photo": "can-gio--mang-cau"
         }
       ]
     },
@@ -285,18 +293,18 @@
           "name": "Hang Duong seafood market",
           "nameVi": "Chợ hải sản Hàng Dương",
           "address": "Đường Thạnh Thới, xã Cần Giờ",
-          "note": "Thanh Niên, 11 Mar 2019, puts the market on đường Thạnh Thới in the old xã Long Hòa, beside bãi 30 tháng 4, about 50 m from the sand. You choose sò, ốc, cua, ghẹ, tôm, or mực, and the stall cooks it, or you take a pan already on the fire. That story prints a cook fee of 10,000 VND a kilogram for steaming and 30,000 for rang muối, cháy tỏi, xào dừa, xào bơ, xào me, nướng mỡ hành, nướng phô mai, and nướng mọi. VnExpress, updated 28 Feb 2025, names the same cooks plus hấp xả lá chanh, and says the cook-to-order cost is a few tens of thousands of đồng. Both stay. A busy day in the 2019 story meant a wait of about 30–40 minutes. One seller said she sold from about 7:00 until about 21:00, and that the seafood had come in that morning at Cầu Cảng. A market bylaw was not opened. The hour is Check on arrival."
+          "note": "Thanh Niên, 11 Mar 2019, puts the market on đường Thạnh Thới in the old xã Long Hòa, beside bãi 30 tháng 4, about 50 m from the sand. You choose sò, ốc, cua, ghẹ, tôm, or mực, and the stall cooks it, or you take a pan already on the fire. That story prints a cook fee of 10,000 VND a kilogram for steaming and 30,000 for rang muối, cháy tỏi, xào dừa, xào bơ, xào me, nướng mỡ hành, nướng phô mai, and nướng mọi. VnExpress, updated 28 Feb 2025, names the same cooks plus hấp xả lá chanh, and says the cook-to-order cost is a few tens of thousands of đồng. Both stay. A busy day in the 2019 story meant a wait of about 30–40 minutes. One seller said she sold from about 7:00 until about 21:00, and that the seafood had come in that morning at Cầu Cảng."
         },
         {
           "name": "Duyen Hai and Tac Xuat",
           "nameVi": "Đường Duyên Hải và đường Tắc Xuất",
           "address": "Xã Cần Giờ, the old Cần Thạnh town",
-          "note": "Dân Việt, 2 Oct 2022, sends you along Duyên Hải and into Tắc Xuất toward the sea for lẩu cá dứa and tôm tích. A closing hour was not printed. Check on arrival."
+          "note": "Dân Việt, 2 Oct 2022, sends you along Duyên Hải and into Tắc Xuất toward the sea for lẩu cá dứa and tôm tích."
         }
       ]
     }
   ],
   "verified": "23 Oct 2026",
   "seoTitle": "Can Gio food guide — lau ca dua and Hang Duong",
-  "seoDescription": "Lẩu cá dứa on Duyên Hải and Tắc Xuất, and live seafood at Hàng Dương. Mangrove salads, ba khía, and one-sun khô cá dứa. A 2026 price is Check on arrival."
+  "seoDescription": "Lẩu cá dứa on Duyên Hải and Tắc Xuất, and live seafood at Hàng Dương. Mangrove salads, ba khía, and one-sun khô cá dứa."
 }

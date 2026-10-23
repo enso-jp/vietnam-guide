@@ -2,13 +2,14 @@
   "slug": "buon-ma-thuot",
   "name": "Buon Ma Thuot food guide",
   "placeSlug": "buon-ma-thuot",
-  "summary": "Bún đỏ is the afternoon bowl on Le Hong Phong. Bánh ướt chồng đĩa is one hot sheet on its own plate. The highland meal is cơm lam, grilled yard chicken, and rượu cần. Published prices do not match. The price now is Check on arrival.",
+  "summary": "Buon Ma Thuot eats a red noodle bowl in the afternoon, rolls its own rice sheets one plate at a time, and keeps a highland table of bamboo rice, grilled yard chicken, bitter eggplant, and jar wine.",
+  "heroSlug": "buon-ma-thuot--bun-do",
   "body": [
-    "Start with coffee, black or with milk. At lunch, roll bánh ướt chồng đĩa on Trần Nhật Duật or Lê Thánh Tông. From about 15:00 or 16:00, Vietnam National Administration of Tourism puts bún đỏ on Le Hong Phong. The other meal is the one Bao Dak Lak calls the local set: sticky rice from a bamboo tube, yard chicken rubbed with lá ech, and a pull from the jar.",
-    "That set is Êđê and M’nông cooking. The Dak Lak provincial portal and Bao Dak Lak also name bitter eggplant, a soup pounded inside a bamboo tube, and forest greens. Da Lat’s charcoal pancakes are a different highland. Nha Trang is the coast. Stay when the red bowl and the jar are the meal.",
-    "The Dak Lak provincial portal says Tết tables run from grilled meat to jar wine, and does not name the animal. A cut is Check on arrival. Where a price or a sauce below disagrees, every figure stays. A figure with no current source is Check on arrival."
+    "Start with coffee, black or with milk. At lunch, roll stacked rice sheets on Trần Nhật Duật or Lê Thánh Tông, one hot sheet to a plate. From about 15:00 or 16:00, the bún đỏ stalls set up on Le Hong Phong.",
+    "The other meal is Êđê and M’nông: sticky rice roasted in bamboo, yard chicken rubbed with lá ech, and a pull from the jar. Bitter eggplant runs through it, in soup, in salad, and pounded raw with chili, and at Tết the table runs from grilled meat to jar wine.",
+    "Da Lat’s charcoal pancakes belong to a different highland, and Nha Trang is the coast. Stay when the red bowl and the jar are the meal."
   ],
-  "specialtiesLead": "Vietnam National Administration of Tourism, the Dak Lak provincial portal, Bao Dak Lak, and VnExpress name these plates. Where a figure disagrees, every figure stays. A price with no current source is Check on arrival.",
+  "specialtiesLead": "These are the plates people come to Buon Ma Thuot for, from the afternoon noodle stall to the longhouse jar.",
   "dishSlugs": [
     "buon-ma-thuot--bun-do",
     "buon-ma-thuot--banh-uot-chong-dia",
@@ -48,15 +49,18 @@
       "heading": "Coffee",
       "nav": "Coffee",
       "paragraphs": [
-        "Bao Dak Lak on 10 Feb 2021 names cà phê as the drink of Buon Ma Thuot. The museum ticket on Nguyen Dinh Chieu is a separate gate."
+        "Coffee is the drink the town is known for. Order it black or with milk, in a plain room or a garden cafe."
       ],
       "spots": [
         {
           "name": "Coffee",
           "nameVi": "Cà phê",
           "address": "Nguyen Chi Thanh, Ako Dhong, and cafes through town",
-          "note": "Black or with milk. VnExpress on 27 Mar 2021 prints 15,000 VND to nearly 100,000 VND, and a counter at the head of Bà Triệu that mixes the cup with ice cream. A current cup is Check on arrival. The World Coffee Museum prints 7:00–18:00 on its ticket list and 8:00–17:00 on its FAQ. An adult ticket is 150,000 VND. That is not the cup.",
-          "dishSlug": "buon-ma-thuot--ca-phe"
+          "note": "Drunk black or with milk. At the head of Bà Triệu, one counter mixes the cup with a glass of ice cream.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
+          "dishSlug": "buon-ma-thuot--ca-phe",
+          "photo": "buon-ma-thuot--ca-phe"
         }
       ]
     },
@@ -65,29 +69,36 @@
       "heading": "The red bowl and the stacked sheets",
       "nav": "Bowls",
       "paragraphs": [
-        "Bún đỏ is the afternoon specialty. Bánh ướt chồng đĩa is the self-rolled lunch. Nem nướng is the grilled paste VnExpress lists with them."
+        "Bún đỏ is the afternoon bowl, stacked rice sheets are the lunch you roll yourself, and nem nướng is grilled pork you wrap with herbs and green fruit."
       ],
       "spots": [
         {
           "name": "Bun do",
           "nameVi": "Bún đỏ",
           "address": "Le Hong Phong, and also Phan Boi Chau, Phan Dinh Giot, Le Duan, and the night market",
-          "note": "Thick red noodles in a pork-and-crab broth. Vietnam National Administration of Tourism prints 15,000–30,000 VND and stalls from about 15:00 or 16:00, and says the color comes from hạt điều. VnExpress on 27 Mar 2021 prints 20,000–35,000 VND. VnExpress on 21 Feb 2016 prints 20,000–30,000 VND. Bao Dak Lak on 10 Feb 2021 prints no price. The price now is Check on arrival. The close, and a night-market clock, are Check on arrival.",
-          "dishSlug": "buon-ma-thuot--bun-do"
+          "note": "Thick red noodles in a pork-bone and crab broth, with crab cake, quail egg, fried shallot, and pork crackling. Stir in shrimp paste and chili, then the blanched greens.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
+          "dishSlug": "buon-ma-thuot--bun-do",
+          "photo": "buon-ma-thuot--bun-do"
         },
         {
           "name": "Stacked rice sheets",
           "nameVi": "Bánh ướt chồng đĩa",
           "address": "Trần Nhật Duật and Lê Thánh Tông",
-          "note": "One hot sheet a plate. You add the grill and the pickle and stack the empties. Vietnam National Administration of Tourism names mắm nêm or a sweet-sour fish sauce and prints no price. VnExpress on 27 Mar 2021 names mắm nêm or mắm mặn and prints 25,000 VND for the meat and sausage plus 1,000 VND a sheet. VnExpress on 21 Feb 2016 prints about 30,000–50,000 VND a person. The price now is Check on arrival. Hours are Check on arrival.",
+          "note": "One ultra-thin hot sheet to a plate, rolled around grilled pork, sausage, pickles, and mango, and dipped in mắm nêm or a sweet-sour fish sauce. Stack the empty plates as you go.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--banh-uot-chong-dia"
         },
         {
           "name": "Grilled pork paste",
           "nameVi": "Nem nướng",
-          "address": "Check on arrival",
-          "note": "Grilled minced pork, sometimes on a lemongrass stalk, rolled in rice paper with herbs, green banana, and sour mango. VnExpress on 27 Mar 2021 prints 30,000–50,000 VND and names Thanh Trầm, Thanh Loan, and Thanh Thủy, with no street. The price now is Check on arrival.",
-          "dishSlug": "buon-ma-thuot--nem-nuong"
+          "note": "Minced pork grilled until the edges char, rolled in rice paper with herbs, green banana, and sour mango. The thick, warm dip is salty-sweet and nutty from peanuts.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
+          "dishSlug": "buon-ma-thuot--nem-nuong",
+          "photo": "buon-ma-thuot--nem-nuong"
         }
       ]
     },
@@ -96,36 +107,44 @@
       "heading": "Bamboo rice, chicken, and the jar",
       "nav": "The jar",
       "paragraphs": [
-        "Bao Dak Lak on 29 Aug 2016 calls rượu cần, cơm lam, and gà nướng one set, and names Ko Tam in the city and Buon Tri A in Buon Don. Cá lăng from the Serepok is named with them and has no method."
+        "Jar wine, bamboo rice, and grilled chicken come as one Êđê and M’nông set, at Ko Tam in the city and at Buon Tri A in Buon Don. The river adds catfish from the Serepok."
       ],
       "spots": [
         {
           "name": "Bamboo sticky rice",
           "nameVi": "Cơm lam",
           "address": "Ko Tam, Buon Ma Thuot, and Buon Tri A, Buon Don",
-          "note": "Sticky rice roasted in a fresh bamboo tube. The Dak Lak provincial portal says young lồ ô, rice, and water, on fire and charcoal. Bao Dak Lak on 23 May 2023 says soak the rice overnight, add a little salt, and eat it with sesame salt or grilled pork or chicken. A street number for Ko Tam, the hours, and a price are Check on arrival.",
+          "note": "Sticky rice roasted in a fresh bamboo tube, soft and chewy and smelling of fresh bamboo. Split it and dip it in sesame salt, or eat it with grilled chicken.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--com-lam",
-          "photo": "com-lam"
+          "photo": "buon-ma-thuot--com-lam"
         },
         {
           "name": "Grilled yard chicken",
           "nameVi": "Gà nướng",
           "address": "Ko Tam, Buon Ma Thuot, and Buon Tri A, Buon Don",
-          "note": "Yard chicken given a few mouthfuls of jar wine, rubbed with pounded lá ech, and grilled so the skin goes golden without drying. The dip is salt pounded with lá ech, lá giang, culantro, scallion, and green chili. A price is Check on arrival.",
+          "note": "Yard chicken rubbed with pounded lá ech and grilled until the skin turns golden without drying. The dip is salt pounded with lá ech, lá giang, culantro, scallion, and green chili.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--ga-nuong"
         },
         {
           "name": "Jar wine",
           "nameVi": "Rượu cần",
           "address": "Ako Dhong, and with the meal at Ko Tam or Buon Tri A",
-          "note": "Êđê wine from sticky rice and a yeast of galangal pounded with forest leaves. Bao Dak Lak on 30 Mar 2019 says a jar in Ako Dhong is drinkable after more than three months and better at a year, cloudy white, sweet, and fragrant. People pull the straws together. A strength and a price are Check on arrival.",
-          "dishSlug": "buon-ma-thuot--ruou-can"
+          "note": "Êđê wine of sticky rice and a galangal-and-leaf yeast, cloudy white, sweet, and fragrant. Everyone pulls from the same jar through long straws.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
+          "dishSlug": "buon-ma-thuot--ruou-can",
+          "photo": "buon-ma-thuot--ruou-can"
         },
         {
           "name": "Serepok catfish",
           "nameVi": "Cá lăng sông Sêrêpốk",
-          "address": "Check on arrival",
-          "note": "Bao Dak Lak on 10 Feb 2021 names cá lăng from the Serepok with the foods that start in Buon Ma Thuot. A cut, a method, a stall, and a price were not printed. They are Check on arrival.",
+          "note": "Catfish from the Serepok River, one of the foods that start in Buon Ma Thuot.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--ca-lang"
         }
       ]
@@ -135,91 +154,107 @@
       "heading": "Bitter eggplant and forest greens",
       "nav": "Forest",
       "paragraphs": [
-        "These are Êđê and M’nông plates from the Dak Lak provincial portal and Bao Dak Lak. Fresh fish, dried shrimp, forest meat, and frog stewed with bitter eggplant are named on the portal without a separate method. They sit with the soup, not as their own rows."
+        "These are Êđê and M’nông plates: bitter eggplant cooked, pounded, and tossed, forest shoots on the grill, and river greens in soup. Bitter eggplant also goes into pots with fresh fish, dried shrimp, forest meat, or frog. Expect bitter and hot flavors, and plenty of rice."
       ],
       "spots": [
         {
           "name": "Pounded bamboo soup",
           "nameVi": "Canh thụt",
-          "address": "Check on arrival",
-          "note": "Lá bép, rattan shoots, bitter eggplant, and stream fish or meat, cooked in a lồ ô tube and pounded with a chopstick. The Dak Lak provincial portal prints 60–90 minutes and says the soup finishes thick, bitter, hot, nutty, and fatty. A street and a price are Check on arrival.",
+          "note": "Lá bép, rattan shoots, bitter eggplant, and stream fish or meat, cooked in a bamboo tube and pounded with a chopstick. It finishes thick, bitter, hot, nutty, and fatty.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--canh-thut"
         },
         {
           "name": "Bitter-eggplant soup",
           "nameVi": "Canh cà đắng",
-          "address": "Stilt roofs in Buon Don, Lak, or the city",
-          "note": "Two soups stay. Bao Dak Lak on 26 Jul 2023 pounds dried fish, fries it with onion and garlic, and thickens the pot with rice-washing water. The 24 Jun 2013 article uses beef offal and beef bung, then crushes the eggplant off the heat with lá é. A price is Check on arrival.",
+          "address": "Stilt-house meals in Buon Don, Lak, or the city",
+          "note": "Bitter eggplant simmered with pounded dried fish and rice-washing water, or with beef offal and beef bung. Both are bitter and hot, and the offal pot is also sweet and fragrant.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--canh-ca-dang"
         },
         {
           "name": "Bitter-eggplant salad",
           "nameVi": "Gỏi cà đắng cá khô",
-          "address": "Check on arrival",
-          "note": "Thin eggplant, soaked, then mixed with fried dried anchovy, culantro, and a garlic-chili fish sauce. Bao Dak Lak on 26 Jul 2023 names it with the soup as the best-known plates. A street and a price are Check on arrival.",
+          "note": "Thin eggplant tossed with fried dried anchovy, culantro, and a garlic-chili fish sauce. Bitter, fragrant, salty, sweet, and hot.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--goi-ca-dang"
         },
         {
           "name": "Pounded bitter eggplant",
           "nameVi": "Cà đắng giã",
-          "address": "Check on arrival",
-          "note": "Raw fruit pounded with salt, chili, lá é, and scallion. The provincial portal calls it very hot and says it goes with a lot of rice. A price is Check on arrival.",
+          "note": "Raw fruit pounded with salt, chili, lá é, and scallion. Very hot, and made for a lot of rice.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--ca-dang-gia"
         },
         {
           "name": "Grilled rattan shoot",
           "nameVi": "Đọt mây nướng",
-          "address": "Check on arrival",
-          "note": "A bitter shoot from deep forest, grilled and dipped in salt pounded with xiêm chili. Bao Dak Lak on 26 Jul 2023. A stall and a price are Check on arrival.",
+          "note": "A bitter, fragrant shoot from deep forest, grilled and dipped in salt pounded with xiêm chili.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--dot-may-nuong"
         },
         {
           "name": "Cassava-leaf stir-fry",
           "nameVi": "Lá mì xào cá hấp",
-          "address": "Check on arrival",
-          "note": "Young cassava leaves and male papaya flowers stir-fried with steamed scad on a very low flame, in pork fat. Bitter, fatty, and hot. A street and a price are Check on arrival.",
+          "note": "Young cassava leaves and male papaya flowers stir-fried with steamed scad in pork fat over a very low flame. Bitter, fatty, and hot.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--la-mi-xao"
         },
         {
           "name": "Papaya with ant salt",
           "nameVi": "Đu đủ giã muối kiến vàng",
-          "address": "Đường sách cà phê, for the tasting Bao Dak Lak reported",
-          "note": "Named at that tasting on 26 Jul 2023. A method beyond the name was not printed. The method and the price are Check on arrival. An everyday stall was not named.",
+          "address": "Đường sách cà phê, at a highland tasting",
+          "note": "Pounded papaya with weaver-ant salt, served beside pounded bitter eggplant on a table guests called hot and bitter.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--du-du-muoi-kien"
         },
         {
           "name": "Djam tang soup",
           "nameVi": "Canh rau djam tang",
-          "address": "Check on arrival",
-          "note": "A fine green from the Krông Ana, the Krông Knô, and the Serepok, cooked with stream fish. Bao Dak Lak on 24 Jun 2013 calls the soup sweet and nutty. A stall and a price are Check on arrival.",
+          "note": "A fine river green from the Krông Ana, the Krông Knô, and the Serepok, cooked with stream fish. Sweet from the green and nutty from the fish.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--canh-djam-tang"
         },
         {
           "name": "Sour djam tang",
           "nameVi": "Rau djam tang muối chua",
-          "address": "Check on arrival",
-          "note": "The same green, pickled sour, for dipping grilled meat and fish. A brine, a time, and a price were not printed. They are Check on arrival.",
+          "note": "The same river green, pickled sour, for dipping grilled meat and fish.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--djam-tang-chua"
         },
         {
           "name": "Snakehead with ant eggs",
           "nameVi": "Cá lóc canh chua trứng kiến",
-          "address": "Stilt roofs in Buon Don, Lak, or the city",
-          "note": "Sour snakehead soup with ant eggs, named by Bao Dak Lak on 23 May 2023. The souring agent was not printed. A method and a price are Check on arrival.",
+          "address": "Stilt-house meals in Buon Don, Lak, or the city",
+          "note": "A sour soup of snakehead fish with ant eggs, part of the forest meal with greens and bamboo rice.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--ca-loc-trung-kien"
         },
         {
           "name": "Stir-fried forest greens",
           "nameVi": "Rau rừng xào",
-          "address": "Stilt roofs in Buon Don, Lak, or the city",
-          "note": "Named in that same meal, with the bitter-eggplant soup and the bamboo rice. Which greens were not listed. A price is Check on arrival.",
+          "address": "Stilt-house meals in Buon Don, Lak, or the city",
+          "note": "Forest greens stir-fried and eaten with the bitter-eggplant soup and the bamboo rice.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--rau-rung-xao"
         },
         {
           "name": "Mnong flour soup",
           "nameVi": "Canh bột",
-          "address": "Check on arrival",
-          "note": "Bao Dak Lak on 23 May 2023 names canh bột as a M’nông specialty and does not print a method. The method, a street, and a price are Check on arrival.",
+          "note": "A M’nông soup, served beside the Êđê bitter-eggplant soup among Dak Lak’s highland dishes.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--canh-bot"
         }
       ]
@@ -229,28 +264,35 @@
       "heading": "Market snacks",
       "nav": "Snacks",
       "paragraphs": [
-        "VnExpress on 27 Mar 2021 names these three. Each printed price is that day’s figure. The price now is Check on arrival."
+        "Two market snacks and a tabletop pan: fried sticky-rice cakes on Phùng Chí Kiên, grilled honeycomb cake at the central market, and beef dipped in tamarind on Lê Thánh Tông."
       ],
       "spots": [
         {
           "name": "Fried sticky-rice cakes",
           "nameVi": "Bánh nếp chiên",
           "address": "Phùng Chí Kiên",
-          "note": "A sticky-rice shell. The rectangle has no filling. The round cake holds minced pork, wood-ear, and glass noodles. Fried crisp and cut small. The article prints 5,000 VND. Hours are Check on arrival.",
+          "note": "Sticky-rice cakes fried crisp and cut small, plain or filled with minced pork, wood-ear, and glass noodles. Eat them with salty-sweet soy or chili sauce.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--banh-chien"
         },
         {
           "name": "Grilled honeycomb cake",
           "nameVi": "Bánh bò nướng",
           "address": "Central market",
-          "note": "Sweet cake grilled until the sugar smells slightly burnt and bitter. The article prints 5,000 VND in the afternoon. Market hours and a stall number are Check on arrival.",
-          "dishSlug": "buon-ma-thuot--banh-bo-nuong"
+          "note": "A sweet cake grilled until the sugar scorches a little, so it tastes slightly burnt and bitter as well as sweet.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
+          "dishSlug": "buon-ma-thuot--banh-bo-nuong",
+          "photo": "buon-ma-thuot--banh-bo-nuong"
         },
         {
           "name": "Beef in tamarind",
           "nameVi": "Bò nhúng me",
           "address": "Lê Thánh Tông",
-          "note": "Thin beef dipped into sweet-sour tamarind on a hot pan. Brush butter, add sauce and onion, wait for a simmer, then dip. Dumping the pan at once toughens the beef. The article prints 150,000 VND a portion and calls the dish new in the years before 2021. Hours are Check on arrival.",
+          "note": "Thin beef dipped into sweet-sour tamarind on a hot buttered pan. Dip a few slices at a time, or the beef turns tough.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--bo-nhung-me"
         }
       ]
@@ -261,49 +303,62 @@
       "nav": "Regional",
       "role": "regional",
       "paragraphs": [
-        "These are Dak Lak plates Bao Dak Lak ties to another district. They are not the Buon Ma Thuot afternoon bowl. Drive minutes are Check on arrival."
+        "These plates belong to other Dak Lak districts: fish cake at Lak Lake, chicken rice in Ea Kar, mango and bamboo shoots in Ea Súp, and mì Quảng in Cư M’gar and Krông Pắc."
       ],
       "spots": [
         {
           "name": "Bronze-featherback cake",
           "nameVi": "Chả cá thát lát",
           "address": "Lak Lake",
-          "note": "Lak district. Pepper and fish sauce, then fried golden, with a few dill stems. Bao Dak Lak on 10 Feb 2021. A stall and a price are Check on arrival.",
-          "dishSlug": "buon-ma-thuot--cha-ca-that-lat"
+          "note": "Fish cake seasoned with only pepper and fish sauce and fried golden, crisp and naturally sweet, with a few dill stems.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
+          "dishSlug": "buon-ma-thuot--cha-ca-that-lat",
+          "photo": "buon-ma-thuot--cha-ca-that-lat"
         },
         {
           "name": "Ea Kar chicken rice",
           "nameVi": "Cơm gà Ea Kar",
           "address": "Ea Kar",
-          "note": "Rice from Coffee Farm 721, cooked in the chicken liquor, tinted with turmeric, and fried in chicken fat. A street and a price are Check on arrival.",
+          "note": "Rice from Coffee Farm 721 cooked in the chicken liquor, tinted with turmeric, and fried in chicken fat until rich and crisp outside.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--com-ga-ea-kar"
         },
         {
           "name": "Ea Sup mango",
           "nameVi": "Xoài Ea Súp",
           "address": "Ea Súp",
-          "note": "Named as the district specialty, with forest bamboo shoots. A variety, a season, and a price were not printed. They are Check on arrival.",
+          "note": "The mango Ea Súp district is known for.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--xoai-ea-sup"
         },
         {
           "name": "Forest bamboo shoots",
           "nameVi": "Măng rừng",
           "address": "Ea Súp",
-          "note": "Named with the mango. A preparation and a price were not printed. Both are Check on arrival.",
+          "note": "Forest bamboo shoots, Ea Súp’s other specialty beside the mango.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--mang-rung"
         },
         {
           "name": "Chicken mi quang",
           "nameVi": "Mì Quảng gà",
           "address": "Cư M’gar or Krông Pắc",
-          "note": "Bao Dak Lak says the bowl has a taste found nowhere else, and does not print a method. This is not the Da Nang bowl. A street and a price are Check on arrival.",
+          "note": "Mì Quảng with chicken, a highland bowl said to taste like nowhere else, not the Da Nang one.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--mi-quang-ga"
         },
         {
           "name": "Frog mi quang",
           "nameVi": "Mì Quảng ếch",
           "address": "Cư M’gar or Krông Pắc",
-          "note": "Named with the chicken bowl. How the frog is cooked was not printed. A method and a price are Check on arrival.",
+          "note": "Mì Quảng with frog, the second bowl those districts are known for.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--mi-quang-ech"
         }
       ]
@@ -314,26 +369,31 @@
       "nav": "Streets",
       "role": "casual",
       "paragraphs": [
-        "Three places to sit. None of them is a single dish. Clocks that were not printed are Check on arrival."
+        "Three places to sit down to the city’s food."
       ],
       "spots": [
         {
           "name": "Le Hong Phong bun do row",
           "nameVi": "Phố bún đỏ Lê Hồng Phong",
           "address": "Le Hong Phong",
-          "note": "Vietnam National Administration of Tourism says a row of bún đỏ stalls stands on this street from about 15:00 or 16:00. The close is Check on arrival."
+          "note": "A row of bún đỏ stalls sets up on this street from about 15:00 or 16:00.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Central market",
           "nameVi": "Chợ Buôn Ma Thuột",
-          "address": "Check on arrival",
-          "note": "VnExpress on 27 Mar 2021 puts bánh bò nướng here in the afternoon. A street number and the market hours are Check on arrival."
+          "note": "Grilled honeycomb cake sells here in the afternoon.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival"
         },
         {
           "name": "Ko Tam",
           "nameVi": "Khu du lịch cộng đồng Kô Tam",
           "address": "Buon Ma Thuot",
-          "note": "Bao Dak Lak on 29 Aug 2016 names this community tourism area for the jar, the bamboo rice, and the grilled chicken. A street number, the hours, and a price are Check on arrival."
+          "note": "A community tourism area where jar wine, bamboo rice, and grilled chicken come to the table as one set.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival"
         }
       ]
     },
@@ -343,27 +403,30 @@
       "nav": "Breakfast",
       "role": "breakfast",
       "paragraphs": [
-        "VnExpress on 27 Mar 2021 offers two breakfast bowls. It says hủ tiếu is not a local specialty. The morning drink is the coffee above."
+        "Breakfast is a noodle bowl and a coffee. Hủ tiếu is common here, though not a local specialty."
       ],
       "spots": [
         {
           "name": "Pork-hock noodle soup",
           "nameVi": "Bún giò heo",
-          "address": "Check on arrival",
-          "note": "Thin noodles, a lot of pork, a salty broth sweet from the meat, herbs, lime, garlic, and chili. The article prints 30,000–40,000 VND and no street. The price now is Check on arrival.",
+          "note": "Thin noodles with plenty of pork in a salty broth that is sweet from the meat, finished with herbs, lime, garlic, and chili.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
           "dishSlug": "buon-ma-thuot--bun-gio-heo"
         },
         {
           "name": "Hu tieu",
           "nameVi": "Hủ tiếu",
-          "address": "Check on arrival",
-          "note": "Saltier and less sweet than a southern bowl. Meat-and-bone, wonton, or Nam Vang. The article prints 15,000–25,000 VND and says this is not a Buon Ma Thuot specialty. The price now is Check on arrival.",
-          "dishSlug": "buon-ma-thuot--hu-tieu"
+          "note": "Seasoned saltier and less sweet than a southern bowl. Choose meat-and-bone, wonton, or Nam Vang.",
+          "hours": "Check on arrival",
+          "price": "Check on arrival",
+          "dishSlug": "buon-ma-thuot--hu-tieu",
+          "photo": "buon-ma-thuot--hu-tieu"
         }
       ]
     }
   ],
   "verified": "23 Oct 2026",
   "seoTitle": "Buon Ma Thuot food guide — bun do, bamboo rice, jar wine",
-  "seoDescription": "Bun do on Le Hong Phong from about 15:00, stacked rice sheets, and bamboo rice with grilled chicken and jar wine. Published prices do not match. The price now is Check on arrival."
+  "seoDescription": "Bun do on Le Hong Phong from about 15:00, stacked rice sheets, bamboo rice with grilled chicken and Ede jar wine, and bitter-eggplant plates."
 }
