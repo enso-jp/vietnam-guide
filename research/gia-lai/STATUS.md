@@ -10,3 +10,5 @@ Base layer stored. Why a night here, getting there, the Pleiku sights, Jarai and
 Left out: gate fees and hours for Biển Hồ, Chu Đăng Ya, and Minh Thanh; drive minutes on every leg; Kon Tum and Quy Nhơn as public place pages; a licensed photo for Dien Hong food street; stall prices; and a second Gia Lai–only dish page without a photograph.
 
 Food guide, 23 Oct 2026: 25 sourced specialties are in `src/content/food/gia-lai.json`. Streets (Nguyễn Văn Trỗi, Điện Hồng) are recorded and do not count toward that 25. Left out of the plate list: lobster, crab, squid, and shellfish, named without a preparation; macadamia, named as a product; shop and cafe names, kept as notes. Heo sọc dưa and cá um are published with the method Check on arrival. No licensed dish photo was filed, so the dining rows use the monogram.
+
+Attraction pages, 23 Oct 2026: Buu Minh, Dong Xanh, Tây Sơn Thượng đạo, and K50 are published beside Biển Hồ and Minh Thanh. Chu Đăng Ya, the Pleiku museum, the tea slopes as their own page, Hàm Rồng, the gong square, and the food street stay unpublished. Status remains stored.

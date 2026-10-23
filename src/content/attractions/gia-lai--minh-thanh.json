@@ -4,9 +4,9 @@
   "name": "Minh Thanh Pagoda",
   "nameVi": "Chùa Minh Thành",
   "kicker": "Hill pagoda with a 72 m tower",
-  "summary": "Stop at Minh Thanh on a morning in Pleiku. Vietnam Tourism notes the hill pagoda was built in 1964, with a 72 m gold-painted tower, a po mu wood ceiling, and carved wooden doors. Give it about an hour. It is not Buu Minh pagoda on the road toward Chu Đăng Ya. Gate hours and donations are Check on arrival.",
+  "summary": "Walk Minh Thanh Pagoda, the gold-painted tower on the hill above Pleiku. The tower is 72 m, the ceiling is po mu wood, and the doors are carved. The building dates to 1964. It is a daylight stop in town. It is not Buu Minh, the pagoda in the tea hills on the way toward Chu Đăng Ya. Gate hours and any donation are Check on arrival.",
   "dots": 3,
-  "timeNeeded": "45–60 minutes",
+  "timeNeeded": "Check on arrival",
   "fee": "Check on arrival",
   "getThere": "Short taxi from central Pleiku",
   "district": "Pleiku",
@@ -17,8 +17,8 @@
     "body": "Buu Minh sits on the road toward Chu Đăng Ya. Minh Thanh is the gold tower on the hill above Pleiku. They are different sites."
   },
   "body": [
-    "The tower is the landmark above town. Vietnam Tourism describes a 72 m gold-painted tower, a ceiling of po mu wood, and carved wooden doors on a pagoda built in 1964. Walk the grounds in daylight so the tower and the roofs stay in one view. About an hour covers the complex.",
-    "A short taxi from central Pleiku is the way up. Vietnam Tourism does not print the minutes or the fare. Both are Check on arrival. Save the volcano road for Chu Đăng Ya. The pagoda named along that road is Buu Minh, and it is not this hill."
+    "The tower is the landmark above town. It is 72 m and gold-painted, on a pagoda built in 1964, with a ceiling of po mu wood and carved wooden doors. Walk the grounds in daylight so the tower and the roofs stay in one view.",
+    "A short taxi from central Pleiku is the way up. Minutes and the fare are Check on arrival. Buu Minh is the pagoda in the tea hills on the way toward Chu Đăng Ya. It is not this hill."
   ],
   "figures": [
     {
@@ -28,22 +28,22 @@
     }
   ],
   "gettingThere": [
-    "Minh Thanh stands on the hill above Pleiku. Vietnam Tourism calls it a short taxi from the center. The feature does not print minutes or a fare. Both are Check on arrival."
+    "Minh Thanh stands on the hill above Pleiku. A short taxi from the center is the way up. Minutes and the fare are Check on arrival."
   ],
   "legs": [
     {
       "heading": "From Pleiku",
-      "body": "By taxi from the center. Vietnam Tourism calls the ride short and does not print minutes or a fare. Both are Check on arrival."
+      "body": "By taxi from the center. The ride is short. Minutes and the fare are Check on arrival."
     }
   ],
   "hours": "Check on arrival",
   "closed": "Check on arrival",
-  "admissionNote": "Gate hours and donations are Check on arrival. Vietnam Tourism describes the tower, the po mu ceiling, and the carved doors. It does not print a ticket price or a child rule.",
+  "admissionNote": "Gate hours and any donation are Check on arrival. No child rule is set out.",
   "links": [
     {
-      "label": "Vietnam Tourism on Gia Lai",
+      "label": "Gia Lai",
       "url": "https://vietnam.travel/things-to-do/gia-lai-hidden-highland-gem",
-      "note": "Vietnam National Authority of Tourism"
+      "note": "National tourism destination page"
     }
   ],
   "interests": ["pagodas", "photography"]

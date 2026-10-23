@@ -197,3 +197,18 @@ Districts that deserve their own page: none in this pass. Pleiku is the base; Ch
 ## Notes, not pages
 
 Restaurant names that helped locate streets go in `food.md`.
+
+## Publish decision, 23 Oct 2026
+
+Published: `bien-ho`, `minh-thanh`, `buu-minh`, `dong-xanh`, `tay-son-thuong-dao`, `k50`.
+
+Unpublished:
+
+- `chu-dang-ya`: no licensed photo of the crater or the sunflower slopes.
+- `bien-ho-tea`: the rows are the same northern morning as the lake, and no licensed photo of the tea slopes was found.
+- `pleiku-museum`: no licensed photo of the building.
+- `ham-rong`: the only Commons frame is a gray highway and a distant hill.
+- `dai-doan-ket` and the weekend gong night: not a sight page. No licensed photo of performers in the square.
+- `dien-hong` and a highland day: not sight pages.
+- Quang Trung Museum: about 45 km or about 50 km from Quy Nhơn, and Quy Nhơn is its own place.
+- Mang Den and Kon Tum stay their own places. K50 is the fall inside Kon Chư Răng, Kbang, reached from Pleiku on this page.

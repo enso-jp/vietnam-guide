@@ -1,0 +1,51 @@
+{
+  "slug": "tay-son-thuong-dao",
+  "placeSlug": "gia-lai",
+  "name": "Tây Sơn Thượng đạo",
+  "nameVi": "Tây Sơn Thượng đạo",
+  "kicker": "Relic cluster in the An Khê forest",
+  "summary": "Walk the Tây Sơn Thượng đạo relics, the 1771 base in the An Khê forest. A historic-relic certificate dates to 14 June 1991 and names six points, including An Khê Đình. The cluster is spread out, so give it a stop of its own. Hours, any fee, and the drive from Pleiku are Check on arrival.",
+  "dots": 3,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "In the forest area of An Khê. Minutes from Pleiku are Check on arrival.",
+  "district": "An Khê",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The display house of Tây Sơn Thượng đạo",
+  "notice": {
+    "title": "The six points are spread out",
+    "body": "An Khê Đình, Gò Chợ, the two stones, the jackfruit garden, and the treasure store are not one courtyard. One building is not the whole cluster."
+  },
+  "body": [
+    "The forest around An Khê was the first base of the 1771 uprising. Walk the display house, then An Khê Đình across the lotus pond. The certificate of 14 June 1991 names six points: An Khê Đình, Gò Chợ, the Ông Bình stone, the Ông Nhạc stone, the jackfruit garden and Cô Hầu field, and the treasure store on the site of Ông Nhạc’s house.",
+    "The points sit apart in the forest, so the visit is a cluster, not a single hall. Hours, any fee, and how long to allow are Check on arrival. The Quang Trung Museum in Phú Phong is a different site, closer to the coast.",
+    "An Khê is on the road between the coast and Pleiku. Minutes from Pleiku, and the fare, are Check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "gia-lai-tay-son-thuong-dao-2",
+      "caption": "An Khê Đình across the lotus pond",
+      "alt": "Tiled communal hall of An Khê Đình behind a brick wall and a pond of pink lotus"
+    }
+  ],
+  "gettingThere": [
+    "The cluster is in the forest area of An Khê, Gia Lai. From Pleiku, go by road to An Khê. Kilometres, minutes, and the fare are Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Pleiku",
+      "body": "By road to An Khê. Kilometres, minutes, and the fare are Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "admissionNote": "Any fee is Check on arrival. No child rule or inclusion list is set out.",
+  "links": [
+    {
+      "label": "Tây Sơn Thượng đạo",
+      "url": "https://vietnamtourism.vn/index.php/tourism/items/1487",
+      "note": "National tourism destination page"
+    }
+  ],
+  "interests": ["warHistory"]
+}
