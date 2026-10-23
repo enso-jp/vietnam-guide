@@ -4,21 +4,21 @@
   "name": "Jade Emperor Pagoda",
   "nameVi": "Chùa Ngọc Hoàng",
   "kicker": "Three halls at 73 Mai Thị Lựu",
-  "summary": "The Jade Emperor Pagoda is the temple hour that is not the cathedral. Visit HCMC says it was built about 1892–1900 by Lưu Minh, from Guangdong, and renamed Phước Hải Tự in 1984. The compound is 2,300 m², with about 300 wooden statues. Visit HCMC prints 7:00–17:30 every day, and 5:00–19:00 on the 1st and 15th of the lunar month. A fee was not printed.",
+  "summary": "Three temple halls at 73 Mai Thị Lựu: walk the wooden statues, open 7:00–17:30. About 300 statues fill a compound of 2,300 square metres. Lưu Minh, from Guangdong, built it around 1892–1900, and it was renamed Phước Hải Tự in 1984. On the 1st and 15th of the lunar month the hours run 5:00–19:00. Ask before you photograph inside.",
   "dots": 4,
   "timeNeeded": "Check on arrival.",
-  "fee": "Check on arrival. No fee was printed.",
+  "fee": "Check on arrival.",
   "getThere": "Buses 18, 93, and 150, then a walk. Mai Thị Lựu is narrow.",
   "district": "Tan Dinh Ward, District 1",
   "verified": "22 Oct 2026",
   "heroCaption": "The pink gate and the 玉皇殿 board",
   "notice": {
     "title": "Ask before you photograph inside",
-    "body": "Visit HCMC says to ask before photographing inside. The second photograph is an altar. It is not a substitute for that ask."
+    "body": "Ask before you photograph inside. The second photograph is an altar."
   },
   "body": [
-    "The address is 73 Mai Thị Lựu. Visit HCMC says Tan Dinh Ward, District 1, and notes the ward wording as updated. The 1994 ranking is a national architectural and artistic monument. Other names are Điện Ngọc Hoàng and Phước Hải Tự. Visit HCMC says Lưu Minh, dharma name Lưu Đạo Nguyên, built it, and that Thích Vĩnh Khương brought it into the Vietnam Buddhist Sangha in 1982.",
-    "Three halls. Front: door gods, the earth god, the tiger general. Center: the Jade Emperor, Nam Tào, Bắc Đẩu, the Medicine Buddha, Chuẩn Đề, Huyền Thiên Đại Đế. Rear: the ten kings of hell, the matchmakers, Kim Hoa Thánh Mẫu, Quan Âm. It is not Giác Lâm. That pagoda is a different ward and a different century. Weekday or early morning is the page’s advice. The photograph is the gate and the board, not a coil of incense."
+    "The address is 73 Mai Thị Lựu, Tan Dinh Ward, District 1. Other names are Điện Ngọc Hoàng and Phước Hải Tự. The 1994 ranking is a national architectural and artistic monument. Lưu Minh, dharma name Lưu Đạo Nguyên, built it. Thích Vĩnh Khương brought it into the Vietnam Buddhist Sangha in 1982.",
+    "Three halls. The front holds the door gods, the earth god, and the tiger general. The center holds the Jade Emperor, Nam Tào, Bắc Đẩu, the Medicine Buddha, Chuẩn Đề, and Huyền Thiên Đại Đế. The rear holds the ten kings of hell, the matchmakers, Kim Hoa Thánh Mẫu, and Quan Âm. Giác Lâm is a different ward and a different century. Weekday morning is the quieter hour. The photograph is the gate and the 玉皇殿 board."
   ],
   "figures": [
     {
@@ -28,27 +28,29 @@
     }
   ],
   "gettingThere": [
-    "Visit HCMC names buses 18, 93, and 150 to Điện Biên Phủ, Đinh Tiên Hoàng, or Nguyễn Đình Chiểu, then a walk. From here Visit HCMC prints about 3.1 km to the opera, 2.6 km to the post office, 2.5 km to the cathedral, and 2.7 km to the palace. Check on arrival."
+    "Buses 18, 93, and 150 go to Điện Biên Phủ, Đinh Tiên Hoàng, or Nguyễn Đình Chiểu, then you walk. From here it is about 3.1 km to the opera, 2.6 km to the post office, 2.5 km to the cathedral, and 2.7 km to the palace."
   ],
   "legs": [
     {
       "heading": "By bus",
-      "body": "Buses 18, 93, and 150, then a walk on narrow Mai Thị Lựu. No fare was printed. Check on arrival."
+      "body": "Buses 18, 93, and 150, then a walk on narrow Mai Thị Lựu."
     },
     {
       "heading": "From the cathedral",
-      "body": "About 2.5 km, on Visit HCMC. Check on arrival."
+      "body": "About 2.5 km."
     }
   ],
   "hours": "7:00–17:30 every day. On the 1st and 15th of the lunar month, 5:00–19:00.",
-  "closed": "No weekly closing day is printed.",
-  "admissionNote": "No fee was printed. Check on arrival.",
+  "closed": "Open every day.",
+  "admissionNote": "Check on arrival.",
   "links": [
     {
       "label": "Jade Emperor Pagoda",
       "url": "https://visithcmc.vn/explore-ngoc-hoang-temple-jade-emperor-pagoda-in-ho-chi-minh-city/",
-      "note": "Visit HCMC"
+      "note": "Ho Chi Minh City tourism"
     }
   ],
-  "interests": ["pagodas"]
+  "interests": [
+    "pagodas"
+  ]
 }

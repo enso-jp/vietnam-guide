@@ -3,6 +3,9 @@
 Place: `quy-nhon`
 Slug: `twin-towers`
 Status: stored
+Checked again: 23 Oct 2026 (S40). 20,000 đồng, 7:00–18:00, 120 minutes, both ward lines, late 12th century, Garuda, ranked 1980.
+
+Second frame kept: `quy-nhon-twin-towers-2`, File:0040323 Thap Doi Cham Hindu complex, Quy Nhon, Binh Dinh Vietnam 041.jpg, Ms Sarah Welch, CC0. The carved corner. Viewed 23 Oct 2026.
 Checked: 21 Oct 2026, from the stored dossier. The portal was not reopened on 22 Oct 2026.
 
 ## What it is

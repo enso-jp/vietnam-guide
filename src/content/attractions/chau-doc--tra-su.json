@@ -4,22 +4,23 @@
   "name": "Tra Su Cajuput Forest",
   "nameVi": "Rừng tràm Trà Sư",
   "kicker": "Flooded cajuput forest west of the Hậu",
-  "summary": "Give Trà Sư its own half day. The flooded cajuput forest is 23 km from Châu Đốc. You walk a bamboo bridge and take a motor sampan or a rowed boat through duckweed, lotus, and water hyacinth. The standing gate is 120,000 VND. The boat is a separate 60,000 VND ticket. Confirm that boat price at the gate. A June 2026 price notice was not opened.",
+  "summary": "Flooded cajuput forest 23 km out: walk the bamboo bridge and boat the water for a half day among the birds. The gate is 120,000 VND. The motorboat and the rowboat are 60,000 VND each. Buy the boat if the water is the visit. August to November is the high-water window.",
   "dots": 5,
   "timeNeeded": "Half a day from town",
   "fee": "120,000 VND at the gate",
-  "getThere": "By road, 23 km from Châu Đốc. Minutes are check on arrival.",
-  "bestMonths": "September to November for floodwater",
-  "verified": "21 Oct 2026",
+  "getThere": "By road, 23 km from Châu Đốc.",
+  "district": "Trà Sư",
+  "bestMonths": "August to November for high water",
+  "verified": "23 Oct 2026",
   "heroCaption": "Cajuput trunks standing in duckweed at Rừng tràm Trà Sư",
   "notice": {
-    "title": "The gate ticket does not include the boat",
-    "body": "The standing page lists the motorboat and the rowboat at 60,000 VND each, separate from the 120,000 VND gate. The spillway on the Vĩnh Tế canal is a different product. A 30 June 2026 title about a new price notice was not opened. Confirm the boat at the gate."
+    "title": "The gate ticket leaves out the boat",
+    "body": "The gate is 120,000 VND. The motorboat and the rowboat are 60,000 VND each. Buy the boat if you came for the water. The spillway on the Vĩnh Tế canal is a separate trip. Confirm the boat price at the gate."
   },
   "body": [
-    "Trà Sư is the wetland west of the Hậu, not a corner of the town market. The rural-tourism page calls it a conservation forest of more than 845 ha, planted from the 1980s on acid lowland. The charms chapter says 850 ha. Both figures stay. You walk the bamboo bridge and take a tắc ráng, a motor sampan, or a rowed three-plank boat through duckweed, lotus, and water hyacinth, watching birds. The Châu Đốc place page says more than 70 bird types.",
-    "The operator page calls the bamboo bridge 2.2 km and the longest in Vietnam. The rural-tourism page says the bridge “Vạn bước xuyên rừng” is longer than 3,800 m. Both lengths stay. The on-site guide ticket is capped at 3 hours, at 300,000 VND on the standing price page. A full posted visit length beyond that cap was not printed.",
-    "Go in flood season if the water is the point. The English card says September to November. The Vietnamese place page says high water from August to November, and names that window for Trà Sư and the floating villages. Dry-season green is also described. The photographs here are the trunks and the flooded edge. They do not show the boat. Ask for the boat ticket if that is the visit you wanted."
+    "Trà Sư is the wetland west of the Hậu, a conservation forest of about 845 to 850 ha, planted from the 1980s on acid lowland. You walk the bamboo bridge and take a tắc ráng, a motor sampan, or a rowed three-plank boat through duckweed, lotus, and water hyacinth, watching birds. More than 70 bird types use the forest.",
+    "The bamboo bridge runs from about 2.2 km to more than 3.8 km. The long span is called Vạn bước xuyên rừng. A guide is 300,000 VND for up to 3 hours.",
+    "Go in flood season if the water is the point. High water runs from August to November, the same window as the floating villages. The forest is also green in the dry season. Buy the boat ticket if the water is the visit you wanted."
   ],
   "figures": [
     {
@@ -29,37 +30,37 @@
     }
   ],
   "gettingThere": [
-    "The charms chapter places the forest 23 km from Châu Đốc. Drive minutes were not printed. Check on arrival. Do not confuse the forest with the spillway trip on the Vĩnh Tế canal, which the operator lists as a separate product."
+    "The forest is 23 km from Châu Đốc by road. The spillway trip on the Vĩnh Tế canal is a separate trip."
   ],
   "legs": [
     {
       "heading": "From Châu Đốc",
-      "body": "By road, 23 km on the Vietnam Tourism charms chapter. Minutes are check on arrival."
+      "body": "By road, 23 km."
     }
   ],
-  "hours": "06:30–18:30 every day, on an operator post for the April 2026 holiday. The price page prints a bicycle loop of 07:00–16:00. A Vietnam Tourism story prints bird decks at 06:00–09:00 and 14:00–19:00. 19:00 sits after the 18:30 close. Confirm the last boat at the gate.",
-  "closed": "No weekly closing day is printed on the operator post. Check the board on arrival.",
-  "admissionNote": "Standing prices from 1 November 2024, still the page online on 21 October 2026: gate 120,000 VND a guest. Motorboat 60,000 VND a guest return. Rowboat 60,000 VND a guest. Children under 1.3 m free. From 1.3 m, the adult price. A guide is 300,000 VND for up to 3 hours. The observation-tower fee was not on the standing page. Spillway trips are separate: 500,000 VND a guest for a group under 5, or 100,000 VND a guest return for a group of 5 or more. A 30 June 2026 homepage title about a new price notice was not opened. Confirm the boat add-on at the gate if that notice changed the 2024 table.",
+  "hours": "06:30–18:30 every day. The bicycle loop is 07:00–16:00. Bird decks run 06:00–09:00 and 14:00–19:00, so the last light falls between 18:30 and 19:00. Confirm the last boat at the gate.",
+  "closed": "Check the board on arrival.",
+  "admissionNote": "From 1 November 2024: gate 120,000 VND a guest. Motorboat 60,000 VND a guest return. Rowboat 60,000 VND a guest. Children under 1.3 m free. From 1.3 m, the adult price. A guide is 300,000 VND for up to 3 hours. The observation tower is separate. Spillway trips are separate: 500,000 VND a guest for a group under 5, or 100,000 VND a guest return for a group of 5 or more. Confirm the boat price at the gate.",
   "links": [
     {
       "label": "Ticket prices",
       "url": "https://www.trasu.vn/p/gia-ve-tham-quan-khu-du-lich.html",
-      "note": "Operator standing price page, from 1 November 2024"
+      "note": "Gate 120,000 VND and boats 60,000 VND, from 1 November 2024"
     },
     {
       "label": "April 2026 hours",
       "url": "https://www.trasu.vn/2026/04/rung-tram-tra-su-mo-cua-xuyen-le-iem-en.html",
-      "note": "Operator post, 06:30–18:30"
+      "note": "Open 06:30–18:30"
     },
     {
-      "label": "Tra Su story",
+      "label": "Tra Su forest",
       "url": "https://www.vietnam.travel/vi/things-to-do/lost-green-wonderland-tra-su-cajuput-forest",
-      "note": "Vietnam Tourism"
+      "note": "Birds and the flood"
     },
     {
-      "label": "Rural tourism page",
+      "label": "Tra Su conservation forest",
       "url": "https://nongthon.vietnamtourism.gov.vn/rung-tram-tra-su-mo-hinh-du-lich-sinh-thai-bao-ton-tieu-bieu-cua-an-giang/",
-      "note": "Vietnam Tourism rural site, the longer bridge figure"
+      "note": "About 845 ha and the bridge longer than 3,800 m"
     }
   ],
   "lat": 10.553889,

@@ -4,21 +4,21 @@
   "name": "Hòn Tre Cable Car",
   "nameVi": "Cáp treo Hòn Tre",
   "kicker": "The cable crossing to Hòn Tre",
-  "summary": "The cable is the way onto Hòn Tre. The tourism bureau prints 3,320 m, an inauguration in March 2007, and calls it the longest sea-crossing cable car in the world at that opening. Vietnam Tourism calls it the longest in Southeast Asia and prints no length. The island is over 3,000 ha from the tourism bureau and 3,323.15 ha from the provincial tourism department.",
+  "summary": "Sea cable to Hòn Tre: ride the 3,320 m crossing for a day on the bay’s largest island. It opened in March 2007 as the longest sea crossing then, and it is also the longest cable in Southeast Asia. Swim, snorkel, or jet-ski once you are across. Cabins run 8:30–23:00 both ways.",
   "dots": 3,
-  "timeNeeded": "Half a day",
+  "timeNeeded": "A day on the island",
   "fee": "Check on arrival",
-  "getThere": "The shore station. Check on arrival.",
+  "getThere": "The shore station on the city side of the bay.",
   "district": "The bay",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "A cabin on the cable, with Hòn Tre and the Vinpearl hillside across the water",
   "notice": {
-    "title": "The length and the ranking are not the same sentence",
-    "body": "Use 3,320 m from the tourism bureau. Vietnam Tourism does not print that length. It calls the cable the longest in Southeast Asia. The bureau’s claim is the longest sea crossing at the March 2007 opening."
+    "title": "Two rankings, one cable",
+    "body": "The cable is 3,320 m. At the March 2007 opening it was the longest sea crossing, and it is also the longest cable in Southeast Asia."
   },
   "body": [
-    "Hòn Tre is the large island in the bay. The tourism bureau says over 3,000 ha. The provincial tourism department, citing the heritage site, says 3,323.15 ha. The cable is 3,320 m from the tourism bureau, inaugurated in March 2007, and called then the longest sea-crossing cable car in the world. Vietnam Tourism calls the same crossing the longest in Southeast Asia and does not print the metres.",
-    "The provincial tourism department says Vinpearl Harbour opened on 26 January 2024 on Hòn Tre in Vĩnh Nguyên, with cable hours in both directions of 8:30–23:00 and ticket sales stopping at 22:30. After 23:00 until 02:00 it names a speedboat back to shore, the last shore boat at 02:15. Check on arrival. The bay listing hours of 09:00–22:00 are a listing clock, not a beach curfew."
+    "Hòn Tre is the large island in the bay, about 3,000 to 3,323 ha, and 5 km from Nha Trang. The cable is 3,320 m, inaugurated in March 2007. Swim, snorkel, or jet-ski once you are across. The amusement park on the island is the same visit as the crossing, reached by this cable.",
+    "Vinpearl Harbour opened on 26 January 2024 on Hòn Tre in Vĩnh Nguyên. Cable hours run both ways from 8:30 to 23:00, and ticket sales stop at 22:30. From 23:00 until 02:00 a speedboat runs back to shore, with the last shore boat at 02:15."
   ],
   "figures": [
     {
@@ -28,23 +28,23 @@
     }
   ],
   "gettingThere": [
-    "You reach Hòn Tre by the cable from the city shore, or by boat after the cable hours from the provincial tourism department. Minutes from Trần Phú to the shore station were not printed. The crossing itself is the 3,320 m from the tourism bureau."
+    "You reach Hòn Tre by the 3,320 m cable from the city shore, or by boat after the cable hours. A free bus runs from the airport to the Hòn Tre pier."
   ],
   "legs": [
     {
       "heading": "From Trần Phú",
-      "body": "To the shore station, then the cable. Minutes to the station were not printed."
+      "body": "Ride to the shore station, then take the cable. The crossing is 3,320 m."
     },
     {
       "heading": "From the airport",
-      "body": "The provincial tourism department names a free bus from the airport to the Hòn Tre pier. The minutes were not printed."
+      "body": "A free bus runs from the airport to the Hòn Tre pier."
     }
   ],
-  "hours": "Cable both ways 8:30–23:00 from the provincial tourism department. Ticket sales stop at 22:30. Last shore boat 02:15.",
-  "admissionNote": "Check on arrival.",
+  "hours": "Cable both ways 8:30–23:00. Ticket sales stop at 22:30. Last shore boat 02:15.",
+  "admissionNote": "The cable ticket is separate. The bay scenic fee for the Hòn Tre route is 8,000 VND a person each crossing, plus 3,000 VND at the pier. Children under 6 and Khánh Hòa residents are among those exempt. A child from 6 to under 16 pays half.",
   "links": [
     {
-      "label": "Bay and cable on the tourism bureau",
+      "label": "Bay and cable",
       "url": "https://vietnamtourism.vn/index.php/tourism/items/2910/",
       "note": "3,320 m, March 2007, and the island over 3,000 ha."
     },

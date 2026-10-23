@@ -4,21 +4,21 @@
   "name": "Fighting Cock Islet",
   "nameVi": "Hòn Trống Mái",
   "kicker": "The pair you see from the boat",
-  "summary": "You look at two separated rocks from the boat. The port calls Hòn Trống Mái, also Gà Chọi, the symbol of Hạ Long tourism. A landing was not described. Many Cát Bà crossing boats pass it and skip the other stops. The time is inside the route, not a walk ashore.",
+  "summary": "Paired rocks on the short boat: watch the gap from the deck in daylight, inside the 3–4 hour route. They are the symbol of Hạ Long tourism, also called Gà Chọi. Many Cát Bà crossing boats pass this pair and keep going. The view is from the water.",
   "dots": 4,
   "district": "The short boat",
   "timeNeeded": "From the deck, inside the route",
   "fee": "Inside the route",
   "getThere": "Route 1 boat, or a crossing boat toward Cat Ba",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "The separated rocks in the bay",
   "notice": {
     "title": "Look from the deck",
     "body": "The port does not describe a landing. Many crossing boats toward Cát Bà pass this pair and skip the other stops."
   },
   "body": [
-    "The rocks are the pair with a gap between them. You see them from the water, on route 1 or on a crossing boat. The port calls them the symbol of Hạ Long tourism. Come in daylight so the gap reads.",
-    "The 9 June 2024 Cát Bà article says many boats pass Hòn Trống Mái and skip the other stops. A minute beside the rocks was not printed. Check on arrival. The fee is the route, not a separate ticket."
+    "The rocks are the pair with a gap between them. You see them from the water, on route 1 or on a crossing boat. They are the symbol of Hạ Long tourism. Come in daylight so the gap reads.",
+    "Many boats toward Cát Bà pass Hòn Trống Mái and keep going. The fee is the route you are already on."
   ],
   "figures": [
     {
@@ -28,7 +28,7 @@
     }
   ],
   "gettingThere": [
-    "From the route-1 boat out of Cảng tàu khách quốc tế Hạ Long, or from a crossing boat. The Cát Bà shortcut article says the water crossing is about 7 km. A minute beside these rocks was not printed."
+    "From the route-1 boat out of Cảng tàu khách quốc tế Hạ Long, or from a crossing boat. The Cát Bà shortcut is about 7 km."
   ],
   "legs": [
     {
@@ -37,10 +37,10 @@
     },
     {
       "heading": "On a Cat Ba crossing",
-      "body": "Many crossing boats pass the pair and skip the other stops. The shortcut is about 7 km and about 200,000 đồng a guest for two ways on the 9 June 2024 article. A minute was not printed."
+      "body": "Many crossing boats pass the pair and keep going. The shortcut is about 7 km and about 200,000 đồng a guest for two ways, on the 9 June 2024 account."
     }
   ],
-  "hours": "Check on arrival. Daylight, so the gap between the rocks reads.",
+  "hours": "Check on arrival",
   "closed": "No weekly closing day was printed. Confirm the sailing the day you go.",
   "admissionNote": "Inside the route. Route 1 on the 15 March 2024 page is 440,000–460,000 đồng. A crossing toward Cát Bà is a different fare: about 200,000 đồng a guest for two ways on the shortcut, and the Tuần Châu–Gia Luận ferry with no fare printed. Both routes stay.",
   "links": [

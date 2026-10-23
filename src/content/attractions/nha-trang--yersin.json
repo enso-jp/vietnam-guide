@@ -1,0 +1,60 @@
+{
+  "slug": "yersin",
+  "placeSlug": "nha-trang",
+  "name": "Yersin Museum",
+  "nameVi": "Bảo tàng Alexandre Yersin",
+  "kicker": "The doctor’s rooms in the Pasteur Institute",
+  "summary": "Pasteur museum on Trần Phú: see Yersin’s rooms in 30 to 45 minutes for the doctor’s life in the city. It opens 07:30–11:30 and 14:00–17:00 from Monday through Saturday morning, at 26,000 VND. Saturday afternoon, Sunday, and public holidays are closed. The room is about 100 m², inside the institute at 8 to 10 Trần Phú.",
+  "dots": 3,
+  "dotReason": "A short museum on the beach road, worth the hour beside a swim, not the reason for the city.",
+  "timeNeeded": "30 to 45 minutes",
+  "fee": "26,000 VND",
+  "getThere": "Inside the Pasteur Institute at 8 to 10 Trần Phú.",
+  "district": "Trần Phú",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The museum doors, lettered Bảo tàng Yersin and Musée Yersin",
+  "notice": {
+    "title": "Closed Sunday and Saturday afternoon",
+    "body": "Open Monday through Saturday morning, 07:30–11:30 and 14:00–17:00. Closed Saturday afternoon, Sunday, and public holidays."
+  },
+  "body": [
+    "The museum is the small gallery inside the Pasteur Institute on Trần Phú, about 100 m². Allow 30 to 45 minutes. You are here for Alexandre Yersin’s working life in Nha Trang: letters, instruments, and the plain room set up as his reading and resting space, bed included.",
+    "The door is 10 Trần Phú, and the old library used as the exhibition house is number 8. The ticket is 26,000 VND a person. Hours are 07:30–11:30 and 14:00–17:00 from Monday through Saturday morning. Saturday afternoon, Sunday, and public holidays are closed. He set up the Nha Trang laboratory in 1895."
+  ],
+  "figures": [
+    {
+      "id": "nha-trang-yersin-2",
+      "caption": "The iron bed in the resting room",
+      "alt": "An iron bed and a chair in the Yersin Museum in Nha Trang"
+    }
+  ],
+  "gettingThere": [
+    "The museum is inside the Pasteur Institute on Trần Phú, at number 10, with the old library at number 8. From a hotel on the beach road, walk along Trần Phú to the institute gate, then to the doors lettered Bảo tàng Yersin."
+  ],
+  "legs": [
+    {
+      "heading": "From Trần Phú",
+      "body": "Walk the beach road to the Pasteur Institute. The museum doors are inside the grounds."
+    },
+    {
+      "heading": "From the station",
+      "body": "The station is in the centre. The institute is on Trần Phú, the beach road."
+    }
+  ],
+  "hours": "07:30–11:30 and 14:00–17:00, Monday through Saturday morning.",
+  "closed": "Saturday afternoon, Sunday, and public holidays.",
+  "admissionNote": "26,000 VND a person. A 2008 schedule also set 5,000 VND for students, pupils, and children. The price stated now is 26,000 VND.",
+  "links": [
+    {
+      "label": "Yersin Museum",
+      "url": "https://nhatrang.khanhhoa.gov.vn/tin-bai/diem-den/bao-tang-alexandre-yersin-nha-trang-1625",
+      "note": "Hours, 26,000 VND, and 30 to 45 minutes."
+    },
+    {
+      "label": "Yersin relic complex",
+      "url": "https://dulichso.khanhhoa.gov.vn/en/article/the-alexandre-yersin-memorial-relic-complex-7df",
+      "note": "The old library at number 8, used as the museum."
+    }
+  ],
+  "interests": ["family"]
+}

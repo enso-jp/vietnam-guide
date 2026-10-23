@@ -4,49 +4,54 @@
   "name": "Hau riverfront",
   "nameVi": "Bờ sông Hậu",
   "kicker": "Evening walk on the town bank",
-  "summary": "After the mountain, walk the Hậu bank in phường Châu Đốc. Vietnam Tourism’s evening chapter is this water, not a bar street: barges, the far islets, and a boat past the fish rafts once the colored lights are on. The walk is not a ticket. A boat fare and a last-boat time were not printed. Check on arrival. No page opened in the dossier names a bar street.",
+  "summary": "Evening walk on the town bank: stay from dusk for the barges, the far islets, and a boat past the lit rafts. The promenade in phường Châu Đốc is the night in town. Colored lights show on the fish rafts after dark. The walk has no ticket. Ask the boat fare at the bank.",
   "dots": 4,
   "timeNeeded": "Dusk into the evening",
   "fee": "Check on arrival",
-  "getThere": "Walk from a river room. Minutes from Núi Sam are check on arrival.",
-  "verified": "21 Oct 2026",
-  "heroCaption": "Dawn on the Châu Đốc river, with the far bank and a boat",
+  "getThere": "Walk from a river room.",
+  "district": "Phường Châu Đốc",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The town bank at Châu Phú B, a boat on the river, and the far shore",
+  "notice": {
+    "title": "The night is the bank",
+    "body": "The evening is barges, the far islets, and a boat past the fish rafts once the colored lights are on. Festival nights at Núi Sam are a separate calendar. Ask the boat fare at the bank."
+  },
   "body": [
-    "Use the bank when the heat drops. The river is the evening: olive water, boats, and the far green bank. VnExpress describes colored lights on the fish-raft project after dark. A night photograph of those lights was not the frame kept here. The photographs are the river at dawn and the raft houses in daylight.",
-    "Stay in phường Châu Đốc if you want this walk from the door. A bungalow on Núi Sam is the other base, and the minutes back to the bank were not printed. Festival nights at the mountain are a separate calendar. They are not this promenade.",
-    "The walk is not a ticket on any page opened. A boat from the bank, and the hour the last one leaves, are check on arrival. Do not come looking for a beach-club strip."
+    "Use the bank when the heat drops. The walk is the promenade in phường Châu Đốc: the wall along the water, the boats, and the far shore. After dark, colored lights show on the fish-raft project at the junction. Festival nights at Núi Sam follow a separate calendar.",
+    "Stay in phường Châu Đốc if you want this walk from the door. A bungalow on Núi Sam means a ride back to the bank. The promenade is the former Châu Phú B bank.",
+    "The walk has no ticket. A boat from the bank is a separate fare. Ask the price and the last departure at the landing."
   ],
   "figures": [
     {
       "id": "chau-doc-hau-riverfront-2",
-      "caption": "Raft houses along the Châu Đốc river in daylight",
-      "alt": "Fish-raft houses on the Chau Doc river with a small boat in the foreground"
+      "caption": "The palm walk along the Châu Đốc riverside",
+      "alt": "A palm-lined riverside walk in Chau Doc, with the river and houses beyond the railing"
     }
   ],
   "gettingThere": [
-    "The bank is the town riverfront in phường Châu Đốc. Walk if the room is on the river. The lit rafts are at the river junction, by boat. Minutes from phường Vĩnh Tế are check on arrival."
+    "The bank is the town riverfront in phường Châu Đốc. Walk if the room is on the river. The lit rafts are at the river junction, by boat. From phường Vĩnh Tế, come back by road."
   ],
   "legs": [
     {
       "heading": "From a river room",
-      "body": "On foot along the bank. A published minute count was not found."
+      "body": "On foot along the bank."
     },
     {
       "heading": "From Núi Sam",
-      "body": "By road back to the town bank. Minutes are check on arrival."
+      "body": "By road back to the town bank."
     }
   ],
   "hours": "Check on arrival. The useful time is dusk into the evening.",
-  "closed": "The walk is not a gated site. A last-boat time was not printed.",
-  "admissionNote": "The walk is not a ticket. A boat fare is check on arrival.",
+  "closed": "The walk is open. Check on arrival for the last boat.",
+  "admissionNote": "The walk has no ticket. Check on arrival for a boat fare.",
   "links": [
     {
       "label": "The colourful charms of Chau Doc",
       "url": "https://vietnam.travel/things-to-do/colourful-charms-chau-doc",
-      "note": "Vietnam Tourism, the riverfront"
+      "note": "The evening on the bank"
     }
   ],
-  "lat": 10.710719,
-  "lng": 105.121147,
+  "lat": 10.709564,
+  "lng": 105.122306,
   "interests": ["photography"]
 }

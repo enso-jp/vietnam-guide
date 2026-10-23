@@ -1,0 +1,31 @@
+{
+  "slug": "hoi-an-to-my-son",
+  "name": "Hoi An to My Son",
+  "from": "Hoi An",
+  "to": "My Son",
+  "summary": "Take a car. The sanctuary is 45 km from the ancient town, and the drive time is Check on arrival. The tourism bus is paused.",
+  "modes": [
+    {
+      "mode": "Private car or taxi",
+      "duration": "Check on arrival",
+      "note": "45 km from Hoi An Ancient Town. Cars stop at the gateway. An electric cart covers the last stretch, about 2 km, and that ride is inside the entrance ticket."
+    },
+    {
+      "mode": "Tourism bus",
+      "duration": "Paused",
+      "note": "The Hoi An – My Son – Cổng Trời Đông Giang bus is paused for six months from 15 September 2026. No replacement was named. Do not use an older fare or an older departure clock."
+    }
+  ],
+  "seoTitle": "Hoi An to My Son — 45 km by car, tourism bus paused",
+  "seoDescription": "My Son is 45 km from Hoi An Ancient Town. The drive time is Check on arrival. The tourism bus is paused for six months from 15 September 2026.",
+  "faqs": [
+    {
+      "q": "Is My Son back to Hoi An the same trip?",
+      "a": "Yes. This page covers both directions. The distance back is the same 45 km, and the minutes are still Check on arrival."
+    },
+    {
+      "q": "Can you go in the rainy months?",
+      "a": "Floods are usual from September to November, and storms run mainly from September to December. In a wet week, check the road that morning. Do not treat the valley as a stop squeezed in before a flight."
+    }
+  ]
+}

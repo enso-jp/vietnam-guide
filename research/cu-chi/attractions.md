@@ -56,7 +56,7 @@ No opened page prints a latitude and longitude for Củ Chi the place. Do not us
 - Suggested slug: ben-duoc
 - Suggested dot: 5 — the memorial, the night program, and the homestay are on this ground
 - Photo must show: the tunnel entrance or the tunnel ground at Bến Dược, earth through the center, the memorial roof only if the frame is the temple and not the crawl
-- unpublished: no licensed photo that names this site
+- unpublished: no licensed photo of the tunnel mouth that names this site. Checked Commons 23 Oct 2026. File:Củ Chi, Khu địa đạo Bến Dược,tphcmvn - panoramio.jpg is a path fork with signs. File:Khu du lich Địa Đạo Củ chi, Phú Hiệp,Phú Mỹ Hưng, tphcmvn - panoramio.jpg is a thatched shelter. Neither is the bore. Generic tunnel photos do not name the gate, so they stay on `tunnels`. The memorial is a separate card: `ben-duoc-temple`.
 - Recognition: national historic site by Quyết định 54/VHQĐ of 29 Apr 1979 (S1, S2). The whole Cu Chi relic, not this gate alone, is a special national relic by Quyết định 2367/QĐ-TTg of 23 Dec 2015 (S11).
 - Sources: S1, S2, S3, S4, S5, S11, S12, S13, S14, S19
 
@@ -74,9 +74,24 @@ No opened page prints a latitude and longitude for Củ Chi the place. Do not us
 - Suggested slug: ben-dinh
 - Suggested dot: 4 — the second conserved site, a gate of its own, not a duplicate of the memorial ground
 - Photo must show: the round tunnel mouth or the tunnel ground at Bến Đình, earth through the center. The M41 or the craft yard only if that is the subject of a second frame
-- unpublished: no licensed photo that names this site
+- unpublished: no licensed photo that names this site. Commons search on 23 Oct 2026 for “địa đạo Bến Đình”, “Ben Dinh tunnel”, and “Cu Chi Ben Dinh” returned no file of this gate. Files titled Ben Dinh near Tay Ninh are wartime civic-action photographs of soldiers in a different hamlet. They are the wrong subject.
 - Recognition: national historic site by Quyết định 101/2004/QĐ-BVHTT of 15 Dec 2004 (S1, S2).
 - Sources: S1, S2, S3, S6, S11, S12, S14
+
+### Đền Tưởng niệm Liệt sĩ Bến Dược
+- Vietnamese name: Đền Tưởng niệm Liệt sĩ Bến Dược
+- Kind: sight
+- Area: on the Bến Dược ground, ấp Phú Hiệp, xã An Nhơn Tây. The operator gives the temple its own page and sends the Bến Dược tunnel walk on to this hall (research/cu-chi/attractions/ben-duoc-temple.md, A1, A2).
+- What the visitor does: walks the three-gate entrance, the hall, and the nine-floor tower on the same ticketed visit as the Bến Dược tunnels.
+- Time: Check on arrival — UNSOURCED
+- Fee: the 2026 foreign lines for the relic, 35,000 đồng and 100,000 đồng. No memorial-only price on the temple page. Incense: Check on arrival — UNSOURCED
+- Area conflict: heritage inventory 40,299.3 m². Operator page 7 ha. Both stay. The public page uses 40,299.3 m².
+- When to go: the relic gate, 7:00–17:00 (S4). The temple page prints no clock.
+- Suggested slug: ben-duoc-temple
+- Suggested dot: 2 — the hall is part of the Bến Dược day. The tunnels stay the reason for the ride. Do not outrank `tunnels` (dot 3).
+- Photo must show: the hall, roof and courtyard, and a second frame of the gate or the tower
+- Published 23 Oct 2026. Hero: Commons File:Ben Duoc Temple Cu Chi tunnel (39514032832).jpg. Second: Commons File:W Củ Chi Đền Bến Dược tại Củ Chi.JPG.
+- Sources: A1, A2, A3 in `research/cu-chi/attractions/ben-duoc-temple.md`, plus S3, S4, S11, S12
 
 ### The published tunnel crawl
 - Vietnamese name: the public file is `src/content/attractions/cu-chi--tunnels.json`, name “Tunnel crawl”
@@ -125,7 +140,7 @@ No opened page prints a latitude and longitude for Củ Chi the place. Do not us
 - Suggested slug: wildlife-rescue
 - Suggested dot: 2 — one tourism-center paragraph, no second publisher
 - Photo must show: the animals and the station yard, not the tunnel
-- unpublished: no licensed photo
+- unpublished: no licensed photo. Commons search on 23 Oct 2026 did not find a file of this station.
 - Sources: S12
 
 ### Vườn trái cây Trung An
@@ -142,7 +157,7 @@ No opened page prints a latitude and longitude for Củ Chi the place. Do not us
 - Suggested slug: trung-an-orchard
 - Suggested dot: 2 — one page names it
 - Photo must show: the trees and the fruit on them
-- unpublished: no licensed photo
+- unpublished: no licensed photo. Commons search on 23 Oct 2026 did not find a file of this orchard.
 - Sources: S12, S14
 
 Districts that deserve their own page:

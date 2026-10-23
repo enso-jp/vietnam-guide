@@ -45,9 +45,9 @@ Checked: 21 Oct 2026
 - Local interest: The boat cave
 - Suggested slug: tien-son-cave
 - Suggested dot: 3 — a branch of the boat visit, not its own day
-- Photo must show: The dry cave or the stair, not the river mouth again. None accepted in this pass.
-- Sources: S1, S18
-- Page: do not give it its own page. Cover it on Phong Nha Cave.
+- Photo must show: The dry cave or the stair, not the river mouth again. Two ZooKeys frames of the dry interior were opened and kept on 23 Oct 2026. The stair itself still has no separate frame.
+- Sources: S1, S18. Re-read 23 Oct 2026 as A1 and A2 in `attractions/tien-son-cave.md`. The Vietnamese page also prints a 700,000 VND boat beside the 750,000 VND two-cave boat.
+- Page: published 23 Oct 2026 as `tien-son-cave`. Dot 3, the dossier’s suggested dot. The 2.5 hours is the shared boat morning, not a second half-day.
 
 ### Paradise Cave
 - Vietnamese name: Động Thiên Đường
@@ -169,7 +169,7 @@ Checked: 21 Oct 2026
 
 Districts that deserve their own page: none. The village is the place. Paradise Cave is one sight at Km 16, not a district.
 
-Opened on 21 Oct 2026 and still not given a public page, because no CC BY, CC BY-SA, or public-domain photograph showed the site: Dark Cave (S5), Mooc Spring (S7), the botanical garden (S22), OZO Park (S23), Hang En (S24, S25), Hang Va (S27, S28), Eight Ladies Cave (S29), Sinh Ton Valley (S30), and the 4,500-metre route (S21). The 4,500-metre price is on the Phong Nha Cave page. The night tour still has no price (S1). Fees that disagree are both kept in the dossier and not averaged. Tien Son stays on the Phong Nha Cave page.
+Opened on 21 Oct 2026 and still not given a public page, because no CC BY, CC BY-SA, or public-domain photograph showed the site: Dark Cave (S5), Mooc Spring (S7), the botanical garden (S22), OZO Park (S23), Hang Va (S27, S28), Eight Ladies Cave (S29), Sinh Ton Valley (S30), and the 4,500-metre route (S21). Commons was searched again on 23 Oct 2026 for Dark Cave, Mooc Spring, and Eight Ladies Cave. Still no frame of those subjects. Hang En has one captioned entrance (Jérémie B., CC BY-SA 4.0). The only other Commons file in that category is an Unsplash night camp whose photographer did not name the cave, so Hang En stays unpublished. The 4,500-metre price is on the Phong Nha Cave page. The night tour still has no price (S1). Fees that disagree are both kept in the dossier and not averaged. Tien Son now has its own page and stays on the Phong Nha Cave page as the same morning.
 
 ## Nightlife and evening
 

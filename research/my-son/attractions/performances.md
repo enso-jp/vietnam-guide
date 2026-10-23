@@ -3,7 +3,7 @@
 Place: `my-son`
 Slug: `performances`
 Status: stored
-Checked: 21 Oct 2026
+Checked: 23 Oct 2026
 
 The city dossier entry is the index. This file is the daytime clock and the unfixed evening show. Echoes of My Son stays a festival. The night show does not.
 
@@ -66,6 +66,7 @@ The city dossier entry is the index. This file is the daytime clock and the unfi
 - Second frame must show (a different moment): group G, the place of the 09:00 and 14:45 show.
 - Echoes uses a third, different dance file on the festival card. It is not the hero.
 - Reject: a night still without a license, a poster, and the place hero.
+- Rechecked 23 Oct 2026. Hero is Cham dancers. Second frame is group G, opened and kept. The metal platform in the foreground does not hide the towers. No licensed night still, so the evening show stays without its own photograph. Card line is the first sentence of the summary, under 110 characters. Show length remains Check on arrival — UNSOURCED.
 
 ## Links
 

@@ -1,0 +1,31 @@
+{
+  "slug": "nha-trang-to-da-lat",
+  "name": "Nha Trang to Da Lat",
+  "from": "Nha Trang",
+  "to": "Da Lat",
+  "summary": "Go by road. Da Lat is 205 km from Nha Trang, and buses run. The minutes are Check on arrival. There is no train into Da Lat.",
+  "modes": [
+    {
+      "mode": "Bus or car",
+      "duration": "Check on arrival",
+      "note": "About 205 km by road. Buses run from Nha Trang. No clock is published. Fares are Check on arrival."
+    },
+    {
+      "mode": "Train",
+      "duration": "No passenger service",
+      "note": "Da Lat’s line no longer joins the north–south railway. The station runs only a short tourist train to Trại Mát."
+    }
+  ],
+  "seoTitle": "Nha Trang to Da Lat — 205 km, minutes on arrival",
+  "seoDescription": "Da Lat is 205 km from Nha Trang by road, and buses run that way. The minutes and the fare are Check on arrival. There is no train into Da Lat.",
+  "faqs": [
+    {
+      "q": "Is Da Lat back to Nha Trang the same trip?",
+      "a": "Yes. This page covers both directions. The road back is the same 205 km, and the minutes are still Check on arrival."
+    },
+    {
+      "q": "Is there a nonstop flight?",
+      "a": "A nonstop from Cam Ranh was not on the Da Lat flight list. Check the ticket you are offered before you count on a plane."
+    }
+  ]
+}

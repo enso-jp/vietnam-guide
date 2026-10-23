@@ -4,51 +4,53 @@
   "name": "Nguyen Hue Walking Street",
   "nameVi": "Đường Nguyễn Huệ",
   "kicker": "The walking street at sundown",
-  "summary": "Nguyễn Huệ is the walking street Vietnam Tourism runs from City Hall to Bạch Đằng wharf, with towers, restaurants, and shops along it. Vietnam Tourism says it is liveliest at sundown. The city itinerary calls it one of the only pedestrian streets and sends you into Apartment 42, a former residential block of cafes and shops. A pedestrian-only clock was not printed. City Hall, at the north end, is not open to the public.",
+  "summary": "Walking street from City Hall to Bạch Đằng: stroll the paving at sundown, the liveliest hour on this block. Towers, restaurants, and shops line both sides. City Hall at 86 Lê Thánh Tôn stays closed to the public. Apartment 42 is a former residential block of cafes and shops along the walk.",
   "dots": 4,
   "timeNeeded": "A walk, longer if you go into Apartment 42. Check on arrival.",
-  "fee": "Check on arrival. No fee for the street was printed.",
+  "fee": "Check on arrival.",
   "getThere": "This is the center if your room is on the square.",
   "district": "Nguyễn Huệ",
   "verified": "22 Oct 2026",
-  "heroCaption": "Nguyễn Huệ in daylight: the paving and the buildings on both sides",
+  "heroCaption": "Nguyễn Huệ after dark: the paving, the crowd, and the buildings on both sides",
   "notice": {
-    "title": "Bùi Viện is the other walking street",
-    "body": "Vietnam Tourism says Bùi Viện was branded the city’s second official walking street in 2017. It is not this one."
+    "title": "Bùi Viện is the night street",
+    "body": "Bùi Viện was branded the city’s second official walking street in 2017. It crosses Phạm Ngũ Lão. This paving is the sundown walk from City Hall to the river."
   },
   "body": [
-    "City Hall, the administrative seat of the People’s Committee, stands at 86 Lê Thánh Tôn. Vietnam Tourism says it is not open to the public. The April 2025 proposal also places the political center at 86 Lê Thánh Tôn, Quận 1. You look at it from the street. There is no interior visit.",
-    "The daylight photograph is the paving and the buildings on both sides. The second photograph is after dark: statues in the foreground, the walking street and lit buildings behind them. Visit HCMC and the southern page also name 42 Nguyễn Huệ. A fee for the street was not printed."
+    "The walking street runs from City Hall to Bạch Đằng wharf. City Hall, the administrative seat of the People’s Committee, stands at 86 Lê Thánh Tôn, Quận 1, and is closed to the public. You look at the front from the paving.",
+    "The night photograph is the paving with people between the buildings. The daylight frame is the same street earlier, with the towers on both sides. Apartment 42 Nguyễn Huệ is a former residential block of cafes and shops. The street itself is the walk."
   ],
   "figures": [
     {
       "id": "ho-chi-minh-city-nguyen-hue-2",
-      "caption": "After dark, statues in front and the lit buildings of the walking street behind",
-      "alt": "Nguyen Hue walking street at night with statues in the foreground"
+      "caption": "The same paving in daylight, with the buildings on both sides",
+      "alt": "Nguyen Hue walking street in daylight, paving and towers"
     }
   ],
   "gettingThere": [
-    "If you are staying on Đồng Khởi, you are already here. Hours of any closure to cars were not on the attractions page. Check on arrival."
+    "If you are staying on Đồng Khởi, you are already here."
   ],
   "legs": [
     {
       "heading": "From the cathedral",
-      "body": "Walk. Nguyễn Huệ and Đồng Khởi meet in the center. Check on arrival."
+      "body": "Walk. Nguyễn Huệ and Đồng Khởi meet in the center."
     },
     {
       "heading": "From Bến Thành",
-      "body": "Walk. Check on arrival."
+      "body": "Walk."
     }
   ],
-  "hours": "Vietnam Tourism says the street is liveliest at sundown. A pedestrian-only clock was not printed. Check on arrival.",
-  "closed": "A closing hour for cars was not printed.",
-  "admissionNote": "No fee for the street was printed. Check on arrival. City Hall is not a ticketed interior.",
+  "hours": "Liveliest at sundown. Check on arrival for a pedestrian-only clock.",
+  "closed": "Check on arrival.",
+  "admissionNote": "Check on arrival. City Hall is closed to the public.",
   "links": [
     {
-      "label": "Seven attractions, including Nguyen Hue",
+      "label": "Ho Chi Minh City attractions",
       "url": "https://vietnam.travel/things-to-do/7-must-see-attractions-hcmc",
-      "note": "Vietnam Tourism"
+      "note": "Vietnam National Administration of Tourism"
     }
   ],
-  "interests": ["oldTowns"]
+  "interests": [
+    "oldTowns"
+  ]
 }

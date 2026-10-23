@@ -155,3 +155,17 @@ The 22 Dec 2009 fee decision, 101/2009/QĐ-UBND, was opened at the Công báo in
 - Publisher: Tuổi Trẻ, byline Huỳnh Anh and Ngọc Thương, 5 May 2024
 - Accessed: 23 Oct 2026
 - Supports: boiled cassava dipped in salt on the relic; khoai mì hấp, bánh lọt xào, bánh bao, hủ tiếu, bánh canh gà, and bánh khọt kiểu Campuchia at chợ Củ Chi and chợ Việt Kiều; bò tơ Củ Chi named again; nước mía Vườn Cau, open more than 30 years, with nước mía sầu riêng, khoai mì, bánh tằm, and bánh bò, and no street. Cafe names on that page stay off the food list
+
+### S26
+- URL: http://diadaocuchi.com.vn/den-tuong-niem-liet-si-ben-duoc-23.html
+- Publisher: Khu di tích lịch sử Địa đạo Củ Chi, the operator
+- Accessed: 23 Oct 2026
+- Supports: the temple’s own page. Start 19 May 1993, stage 1 opened 19 Dec 1995, a plot described as 7 ha, 45,666 names, nine display spaces, a three-gate entrance, a stele house, a hall, a tower of 9 floors and 39 m. No ticket and no clock on this page. The 7 ha conflicts with the inventory’s 40,299.3 m². Both stay.
+
+### S27
+- URL: http://diadaocuchi.com.vn/dia-dao-ben-duoc-22.html
+- Publisher: the operator
+- Accessed: 23 Oct 2026
+- Supports: the Bến Dược tunnel walk passes the ticket gate at the forest edge and continues to the memorial, where visitors offer incense.
+
+S3, S4, and S12 were reopened on 23 Oct 2026. The foreign ticket lines, the 7:00–17:00 gate, and the 120-meter crawl were unchanged. Visit HCMC still does not name the temple.

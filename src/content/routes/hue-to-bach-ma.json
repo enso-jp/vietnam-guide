@@ -1,0 +1,31 @@
+{
+  "slug": "hue-to-bach-ma",
+  "name": "Hue to Bach Ma",
+  "from": "Hue",
+  "to": "Bach Ma",
+  "summary": "Drive from Hue. The park is about 40 km, or 45 to 55 km depending on the road. The minutes are Check on arrival. Cars stop at the slip at km 12.",
+  "modes": [
+    {
+      "mode": "Car",
+      "duration": "Check on arrival",
+      "note": "About 40 km from Hue, or 45 to 55 km depending on the road. From chợ Cầu Hai, about 1 km, then left on Trần Đình Túc. The Trúc Lâm Bạch Mã sign is the wrong turn. Motor vehicles stop at the slip at km 12. The walk around it is about 500 m, or about 600 m on the path still in use in June 2026, then about 7 km on foot to Hải Vọng Đài. Be at the visitor center before 09:00 and back before 17:00 the same day. After heavy rain, check the road that morning."
+    },
+    {
+      "mode": "Train",
+      "duration": "No stop at the gate",
+      "note": "The heritage train stops at Lăng Cô, not at Cầu Hai. Whether any other train sets down at the gate is Check on arrival."
+    }
+  ],
+  "seoTitle": "Hue to Bach Ma — about 40 km, cars stop at km 12",
+  "seoDescription": "Bach Ma is about 40 km from Hue, or 45 to 55 km depending on the road. The drive is Check on arrival. Cars stop at the slip at km 12, then you walk.",
+  "faqs": [
+    {
+      "q": "Can you sleep at the summit?",
+      "a": "A summit night needs a registration at least one day ahead. Day visitors should be back before 17:00 the same day."
+    },
+    {
+      "q": "Is Bach Ma back to Hue the same trip?",
+      "a": "Yes. This page covers both directions. The kilometres are the same, and the minutes are still Check on arrival."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "hanoi-to-da-nang",
+  "name": "Hanoi to Da Nang",
+  "from": "Hanoi",
+  "to": "Da Nang",
+  "summary": "Fly if the day matters. The flight is about 1 hour 20 minutes, and the airport rides are extra. The five SE trains take 15 hours 23 minutes to 17 hours 3 minutes.",
+  "modes": [
+    {
+      "mode": "Flight",
+      "duration": "About 1 hour 20 minutes",
+      "note": "About 1 hour 20 minutes each way. Airport rides at both ends are extra. Fares are Check on arrival.",
+      "partner": "flight"
+    },
+    {
+      "mode": "Train",
+      "duration": "15 hours 23 minutes to 17 hours 3 minutes",
+      "note": "Southbound, SE3 is the short end and SE9 is the long end. Da Nang is km 791 from Hanoi. Book a berth. Fares are Check on arrival.",
+      "partner": "train"
+    },
+    {
+      "mode": "Sleeper bus",
+      "duration": "Check on arrival",
+      "note": "No sleeper-bus duration is published. Fares are Check on arrival."
+    }
+  ],
+  "seoTitle": "Hanoi to Da Nang — flight of 1 hour 20, or train",
+  "seoDescription": "The flight is about 1 hour 20 minutes each way, before the airport rides. The five SE trains from Hanoi to Da Nang take 15 hours 23 minutes to 17 hours 3 minutes.",
+  "faqs": [
+    {
+      "q": "Is Da Nang back to Hanoi the same trip?",
+      "a": "Yes. This page covers both directions. The return flight is also about 1 hour 20 minutes. The five northbound trains take 16 hours 8 minutes to 18 hours 41 minutes."
+    }
+  ]
+}

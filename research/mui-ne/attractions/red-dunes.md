@@ -63,9 +63,11 @@ Facts are copied from `research/mui-ne/attractions.md` and `getting-there.md`. N
 
 ## Photos
 
-- Hero must show: The red slope filling the frame, a person for scale. The published frame shows orange sand, casuarinas, a walker, and power lines, with no sea.
-- Second frame must show (a different moment): Not stored. Do not repeat the hero.
-- Reject: A tight crop on the walker. A sea photo. The town kite frame.
+- Hero must show: The red slope filling the frame, a person for scale.
+- Second frame must show (a different moment): The crest and the casuarinas, a different hour from the walkers on the slope.
+- Reject: A tight crop on the walker. A sea photo. The town kite frame. A watermark.
+- Kept 23 Oct 2026: hero File:Đồi cát vàng.jpg, Bùi Thụy Đào Nguyên, CC BY-SA 4.0. Second File:Vietnam, Mui Ne sand dunes, trees on the sand.jpg, Vyacheslav Argenberg, CC BY 4.0.
+- Replaced: the previous hero was a still from File:Phan Thiet , Vietnam Red & White Sand Dunes.webm with a YouTube watermark, gray sky, and power lines.
 
 ## Links
 

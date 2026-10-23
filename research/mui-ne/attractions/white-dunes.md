@@ -64,8 +64,9 @@ Facts are copied from `research/mui-ne/attractions.md`. No new source was opened
 ## Photos
 
 - Hero must show: The pale slope and the crest, people small on the sand.
-- Second frame must show (a different moment): Not stored. Do not repeat the hero.
-- Reject: A tight crop on the people. The red-dune frame. The town kite frame.
+- Second frame must show (a different moment): The pale ridges under a softer sky, tracks on the sand.
+- Reject: A tight crop on the people. The red-dune frame. The town kite frame. A black letterbox border.
+- Kept 23 Oct 2026: hero File:White Dune - Mui Ne.jpg, David Dubbert, CC BY-SA 3.0. Second File:Mui Ne - White sanddunes.JPG, Chris Blackhead, CC BY-SA 3.0.
 
 ## Links
 

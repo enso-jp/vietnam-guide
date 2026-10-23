@@ -4,21 +4,21 @@
   "name": "Can Tho Museum",
   "nameVi": "Bảo tàng Thành phố Cần Thơ",
   "kicker": "City museum on Hòa Bình since 1976",
-  "summary": "Use the museum on Hòa Bình when you want a roof and the standing collection, not a current exhibition list. Vietnam Tourism dates it to 1976, on 2,700 m², with about 5,000 objects and English captions. A fee, the hours, and the minutes from the quay were not printed. Check on arrival.",
+  "summary": "City museum on Hòa Bình with about 5,000 objects and English captions: an hour for a hot or rainy afternoon. Entry is free. The ground floor covers the delta's nature and the Kinh, Hoa, and Khmer peoples, and the upper floor the wars. Check the split hours before you walk over.",
   "dots": 3,
   "district": "Ninh Kiều",
-  "timeNeeded": "Check on arrival",
-  "fee": "Check on arrival",
-  "getThere": "Walk from the quay along Hòa Bình. Minutes: Check on arrival.",
-  "verified": "22 Oct 2026",
+  "timeNeeded": "About 60 minutes",
+  "fee": "Free",
+  "getThere": "Walk from the quay along Hòa Bình",
+  "verified": "23 Oct 2026",
   "heroCaption": "The museum facade on Hòa Bình",
   "notice": {
-    "title": "No current exhibition list",
-    "body": "Vietnam Tourism’s text is a standing description of the collection. It does not name a 2026 show. Do not plan the hour around a temporary display."
+    "title": "Closed at midday, Monday, and Friday",
+    "body": "The museum shuts from 11:00 until the afternoon or evening session, and Monday and Friday are not on the schedule."
   },
   "body": [
-    "Vietnam Tourism says the museum was established in 1976, on 2,700 m², with about 5,000 objects: history of people in Can Tho, plant and fish specimens, and rice work of Kinh, Hoa, and Khmer people, with English captions. That is the visit the national account describes.",
-    "Two address lines are printed. The museum site’s footer says Số 1 đại lộ Hòa Bình, phường Ninh Kiều. Vietnam Tourism says no. 1 Hoa Binh Avenue, Tan An, Ninh Kieu. Both stay. A tariff was not on the national page. Hours were not printed. Check on arrival. The walk from Bến Ninh Kiều follows Hòa Bình. Minutes were not printed. Check on arrival."
+    "The museum opened in 1976 and fills two floors on Hòa Bình Avenue. The ground floor covers the delta's land, rivers, plants, and fish, the Óc Eo culture, and the Kinh, Hoa, and Khmer peoples, with photos of Can Tho then and now. The upper floor covers the wars against France and the United States. Captions are in English.",
+    "On weekend evenings it opens again from 18:30 to 21:00, so you can pair it with dinner on the quay. Munirangsyaram, a Khmer pagoda, stands on the same avenue at number 36."
   ],
   "figures": [
     {
@@ -28,17 +28,17 @@
     }
   ],
   "gettingThere": [
-    "The museum is on đại lộ Hòa Bình, a walk from Bến Ninh Kiều. The footer address is Số 1, phường Ninh Kiều. Vietnam Tourism prints Tan An, Ninh Kieu, for the same number. Minutes were not printed. Check on arrival."
+    "The museum is at 1 Hòa Bình Avenue in central Ninh Kiều, a walk from the wharf."
   ],
   "legs": [
     {
-      "heading": "From Ninh Kiều",
-      "body": "On foot along Hòa Bình. A minute count was not printed. Check on arrival."
+      "heading": "From Ninh Kiều wharf",
+      "body": "On foot along Hòa Bình."
     }
   ],
-  "hours": "Check on arrival. Hours were not printed on Vietnam Tourism’s place page or in the museum footer.",
-  "closed": "A weekly closing day was not printed. Check on arrival.",
-  "admissionNote": "Check on arrival. No tariff was printed on Vietnam Tourism’s place page.",
+  "hours": "Tuesday to Thursday 08:00 to 11:00 and 14:00 to 17:00. Saturday, Sunday, and holidays 08:00 to 11:00 and 18:30 to 21:00.",
+  "closed": "Monday and Friday are not on the opening schedule.",
+  "admissionNote": "Free entry.",
   "links": [
     {
       "label": "Can Tho, river and garden",

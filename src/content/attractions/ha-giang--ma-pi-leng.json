@@ -4,7 +4,7 @@
   "name": "Ma Pi Leng Pass",
   "nameVi": "Đèo Mã Pí Lèng",
   "kicker": "The high road above the Nho Quế",
-  "summary": "Ride the rim between Đồng Văn and Mèo Vạc when the canyon is the point of the day. UNESCO says the pass rises to 1,200 metres. Mèo Vạc is 24 km from Đồng Văn and takes most of a morning if you stop. The pass is not the town. Stop only where the road allows.",
+  "summary": "High road from Đồng Văn to Mèo Vạc: ride the rim above the Nho Quế for most of a morning. The pass rises to 1,200 metres. Mèo Vạc is 24 km on, and the stops fill the time. This road is also called Happiness Road. Stop where the shoulder allows, and finish in daylight.",
   "dots": 5,
   "district": "The pass",
   "timeNeeded": "Most of a morning with the stops",
@@ -12,34 +12,52 @@
   "getThere": "The road from Đồng Văn toward Mèo Vạc",
   "verified": "23 Oct 2026",
   "heroCaption": "Tu Sản canyon and the Nho Quế from Mã Pì Lèng, the road on the rim",
+  "notice": {
+    "title": "Stop only where the shoulder allows",
+    "body": "The rim has little room beside the lane. Make the stops in daylight and leave the curves clear."
+  },
+  "body": [
+    "Ride the rim between Đồng Văn and Mèo Vạc. The pass rises to 1,200 metres. The road is the sight: karst on one side, the canyon on the other. Mèo Vạc is 24 km from Đồng Văn and takes most of a morning if you stop.",
+    "The same pass is called Happiness Road. Work on it started in the late 1950s and took more than seven years. Above the river, the sky path is a separate walk of 500 metres, about two hours, through Flower Hmong villages. At the bottom of the pass, side road 193A turns toward the Nho Quế. A boat or a kayak is a June outing, when the river is full."
+  ],
+  "figures": [
+    {
+      "id": "ha-giang-ma-pi-leng-2",
+      "caption": "The road through the karst between Đồng Văn and Mèo Vạc",
+      "alt": "A curving road through limestone peaks on Ma Pi Leng Pass"
+    }
+  ],
   "gettingThere": [
-    "The loop page puts Mã Pì Lèng in Mèo Vạc district, on the road out of Đồng Văn. UNESCO says the pass rises to 1,200 metres. That figure is the pass. GeoNames gives the former town seat about 107 metres on SRTM3 and 115 metres on ASTER. Do not use the pass as the town.",
-    "Mèo Vạc is 24 km from Đồng Văn and takes most of a morning if the stops are made. A separate pass-only duration is Check on arrival. Stop only where the road allows. Do not ride it after dark.",
-    "The canyon under the rim is Tu Sản and the Nho Quế. UNESCO says 700–800 metres and one of Southeast Asia’s deepest. The culture page says 800-metre cliffs and the deepest gorge in Southeast Asia. Both stay. Side road 193A is the closer look. A boat or a kayak is named for June, when the river is full. The boat fee and the time on the water are Check on arrival. The sky path is a separate walk: 500 metres and about two hours through Flower Hmong villages. The adventures page says Happiness Road took 1,300 volunteers seven years. The buckwheat feature says the road began in the late 1950s and took over seven years, without the volunteer count. Both stay. The sky-path fee is Check on arrival."
+    "The pass is in Mèo Vạc, on the road out of Đồng Văn. It rises to 1,200 metres. That figure is the pass. Hà Giang town sits far lower, and the pass is a different place from the town.",
+    "Mèo Vạc is 24 km from Đồng Văn. With stops, the ride takes most of a morning. Daylight only. Happiness Road is another name for this pass. The build started in the late 1950s and took more than seven years."
   ],
   "legs": [
     {
       "heading": "From Dong Van",
-      "body": "Toward Mèo Vạc. 24 km, most of a morning with the stops. Daylight only."
+      "body": "Toward Mèo Vạc. 24 km, most of a morning with the stops. Daylight only. Stop where the shoulder allows."
     },
     {
       "heading": "From Ha Giang town",
-      "body": "The pass is the road after Đồng Văn, not the start of the loop. QL4C reaches Đồng Văn first. The town elevations and the 1,200-metre pass are different places."
+      "body": "QL4C reaches Đồng Văn first. The pass is the road after the old quarter, on the way to Mèo Vạc."
     }
   ],
   "hours": "Check on arrival",
   "closed": "Check on arrival",
-  "admissionNote": "The fee is Check on arrival. The boat fee and the sky-path fee are Check on arrival.",
   "links": [
     {
       "label": "Dong Van Karst Plateau UNESCO Global Geopark",
       "url": "https://www.unesco.org/en/iggp/dong-van-karst-plateau-unesco-global-geopark",
-      "note": "UNESCO. The pass at 1,200 metres, and Tu Sản at 700–800 metres."
+      "note": "UNESCO. The pass at 1,200 metres."
     },
     {
       "label": "Ha Giang loop, four-day road",
       "url": "https://www.vietnam.travel/things-to-do/ha-giang-loop-four-day-road-trip",
       "note": "Vietnam Tourism. 24 km from Đồng Văn to Mèo Vạc."
+    },
+    {
+      "label": "The buckwheat bounty of Ha Giang",
+      "url": "https://vietnam.travel/things-to-do/buckwheat-bounty-ha-giang",
+      "note": "Vietnam Tourism. Happiness Road, begun in the late 1950s."
     }
   ],
   "interests": ["mountains", "motorbike", "photography"]

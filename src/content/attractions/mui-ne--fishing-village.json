@@ -1,0 +1,53 @@
+{
+  "slug": "fishing-village",
+  "placeSlug": "mui-ne",
+  "name": "Fishing village",
+  "nameVi": "Làng chài Mũi Né",
+  "kicker": "Dawn harbor at the end of the bay",
+  "summary": "Fishing harbor at the end of the bay: stand clear just after dawn while the boats unload. Crates, trolleys, and motorbikes move the catch onto the sand, then cards and coffee follow. Women prepare fish and bargain once the market is on land. The sea-wall grills are dinner on the same shore.",
+  "dots": 4,
+  "timeNeeded": "Just after dawn",
+  "fee": "Check on arrival",
+  "getThere": "The coast road into the fishing ward from the Ham Tien strip.",
+  "district": "The fishing ward",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Round boats on the sand and the blue fleet in the harbor",
+  "notice": {
+    "title": "Arrive just after dawn",
+    "body": "The market is in full swing just after dawn. A noon arrival meets the harbor after that unload."
+  },
+  "body": [
+    "Stand out of the way just after dawn. Boats sit together and the crews unload at speed, with crates, trolleys, and motorbikes. Once the catch is on the sand, cards and coffee start. Women prepare fish, aerate tubs, and bargain.",
+    "The harbor is the northeast end of the bay, in the fishing ward. Nguyễn Đình Chiểu (ĐT 706) and Võ Nguyên Giáp (ĐT 706B) run from Phan Thiet. Dinner later is the sea wall, the bo ke grills."
+  ],
+  "figures": [
+    {
+      "id": "mui-ne-fishing-village-2",
+      "caption": "The blue and yellow fleet moored in the harbor",
+      "alt": "Wooden fishing boats crowded in the Mui Ne harbor"
+    }
+  ],
+  "gettingThere": [
+    "The fishing ward sits at the northeast end of the bay. The coastal road runs into it from the Ham Tien strip. Nguyễn Đình Chiểu (ĐT 706) and Võ Nguyên Giáp (ĐT 706B) tie the ward to Phan Thiet."
+  ],
+  "legs": [
+    {
+      "heading": "From the Ham Tien strip",
+      "body": "Follow the coast road into the fishing ward. A motorbike covers the coast."
+    },
+    {
+      "heading": "From Phan Thiet",
+      "body": "Nguyễn Đình Chiểu (ĐT 706) and Võ Nguyên Giáp (ĐT 706B) run between Phan Thiet and Mui Ne."
+    }
+  ],
+  "hours": "Just after dawn",
+  "admissionNote": "Standing on the sand for the unload is the visit. Fish you buy at the market is separate.",
+  "links": [
+    {
+      "label": "Mui Ne must-do list",
+      "url": "https://vietnam.travel/things-to-do/wind-sand-and-sea-mui-nes-must-do-list",
+      "note": "Dawn market, then cards and coffee"
+    }
+  ],
+  "interests": ["markets", "beaches"]
+}

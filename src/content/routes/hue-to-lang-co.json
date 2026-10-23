@@ -1,0 +1,32 @@
+{
+  "slug": "hue-to-lang-co",
+  "name": "Hue to Lang Co",
+  "from": "Hue",
+  "to": "Lang Co",
+  "summary": "Take the heritage train for the station, or the coast road for the bay. The train is 1 hour 17 minutes to 2 hours 12 minutes. The road is about 60 km, and the drive is Check on arrival.",
+  "modes": [
+    {
+      "mode": "Heritage train",
+      "duration": "1 hour 17 minutes to 2 hours 12 minutes",
+      "note": "Morning: Hue 7:05 and Lăng Cô 8:38, or 07:45–09:02. Afternoon: 14:30–16:42, or 14:25–16:12. Use the ticket for that day. The through SE trains do not show a Lăng Cô stop. Fares are Check on arrival.",
+      "partner": "train"
+    },
+    {
+      "mode": "Car",
+      "duration": "Check on arrival",
+      "note": "About 60 km south of Hue on Highway 1A, under Hải Vân. No drive minutes are published."
+    }
+  ],
+  "seoTitle": "Hue to Lang Co — heritage train or the coast road",
+  "seoDescription": "The heritage train from Hue to Lang Co takes 1 hour 17 minutes to 2 hours 12 minutes. The road is about 60 km, and the drive time is Check on arrival.",
+  "faqs": [
+    {
+      "q": "How long is the train back to Hue?",
+      "a": "Lăng Cô to Hue is 1 hour 19 minutes to 1 hour 49 minutes on the same two clocks. Morning: 09:14–11:03 or 09:16–11:05. Afternoon: 16:50–18:15 or 16:26–17:45. Use the ticket. This page covers both directions."
+    },
+    {
+      "q": "Can you come from Da Nang instead?",
+      "a": "Yes. The tunnel road from Da Nang is about 25 km, and those minutes are Check on arrival. The pass road is longer. The heritage train also stops at Lăng Cô between Da Nang and Hue."
+    }
+  ]
+}

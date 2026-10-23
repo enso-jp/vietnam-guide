@@ -25,15 +25,15 @@
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "enriched",
+      "status": "stale",
       "note": "Prose from the stored dossier. Season chip is the three Vietnam Tourism windows. Distances 155, 165, and 120 km of expressway all stay.",
-      "updated": "2026-10-22T18:02:37.449Z",
+      "updated": "2026-10-23T17:14:48.093Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "checked",
-      "note": "Hero is the floating market. Pin unset. Dining leads. Five sights have two licensed frames. Check on arrival where a fee or hour was not printed.",
-      "updated": "2026-10-22T18:02:37.548Z",
+      "status": "stale",
+      "note": "Dossier changed. Check again after the copy pass.",
+      "updated": "2026-10-23T17:14:48.093Z",
       "reworkCount": 0
     },
     "food": {
@@ -43,15 +43,15 @@
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "enriched",
+      "status": "stale",
       "note": "Japan Guide order. No restaurant picks. Both canh chua wordings. Soc Trang origin kept for bun nuoc leo.",
-      "updated": "2026-10-22T18:02:37.744Z",
+      "updated": "2026-10-23T17:14:48.093Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "checked",
-      "note": "37 sourced entries. Extra rooms were not in the dossier. Not padded.",
-      "updated": "2026-10-22T18:02:37.837Z",
+      "status": "stale",
+      "note": "Dossier changed. Check again after the copy pass.",
+      "updated": "2026-10-23T17:14:48.093Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -62,8 +62,8 @@
     },
     "researchAttractions": {
       "status": "stored",
-      "note": "Left out: a single Cai Rang hour, a second Binh Thuy tariff, a chosen Bang Lang area, Phong Dien hours on a department page, licensed photos, and the tombs and Hoi Linh.",
-      "updated": "2026-10-22T17:11:35.249Z",
+      "note": "23 Oct 2026: Can Tho Bridge, Ong Pagoda hours, My Khanh fee, museum hours, Phong Dien window added (S36-S42). Left out: Bang Lang (no licensed photo), Phong Dien boat fare, Con Son fee and hours.",
+      "updated": "2026-10-23T17:14:48.093Z",
       "reworkCount": 0
     },
     "researchFood": {
@@ -102,10 +102,10 @@
       "source": "published",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
-      "quality": "checked",
+      "copy": "stale",
+      "quality": "not_started",
       "note": "Finished sight: kicker, notice, body, second frame, hours and fee or Check on arrival.",
-      "updated": "2026-10-22T18:02:38.119Z",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -134,10 +134,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
-      "quality": "checked",
+      "copy": "stale",
+      "quality": "not_started",
       "note": "Finished sight: kicker, notice, body, second frame, hours and fee or Check on arrival.",
-      "updated": "2026-10-22T18:02:38.402Z",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -146,14 +146,14 @@
       "track": "unit",
       "name": "Ong Pagoda",
       "slug": "ong-pagoda",
-      "file": null,
+      "file": "src/content/attractions/can-tho--ong-pagoda.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
+      "page": "paged",
+      "copy": "stale",
       "quality": "skipped",
-      "note": "No second clean frame of the hall. Facts stay in the quay prose.",
-      "updated": "2026-10-22T18:02:38.697Z",
+      "note": "Attractions pass 23 Oct 2026: finished sight with two licensed frames.",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -166,10 +166,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
-      "quality": "checked",
+      "copy": "stale",
+      "quality": "not_started",
       "note": "Finished sight: kicker, notice, body, second frame, hours and fee or Check on arrival.",
-      "updated": "2026-10-22T18:02:38.987Z",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -184,8 +184,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "No stork photograph. Distances and areas stay in the Phong Dien prose.",
-      "updated": "2026-10-22T18:02:39.266Z",
+      "note": "unpublished: no licensed photo (Commons searched 23 Oct 2026).",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -194,14 +194,14 @@
       "track": "unit",
       "name": "Con Son islet",
       "slug": "con-son",
-      "file": null,
+      "file": "src/content/attractions/can-tho--con-son.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
+      "page": "paged",
+      "copy": "stale",
       "quality": "skipped",
-      "note": "No frame of the islet bank, fruit trees, and a boat together.",
-      "updated": "2026-10-22T18:02:39.544Z",
+      "note": "Attractions pass 23 Oct 2026: finished sight with two licensed frames.",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -210,14 +210,14 @@
       "track": "unit",
       "name": "Phong Dien floating market",
       "slug": "phong-dien-market",
-      "file": null,
+      "file": "src/content/attractions/can-tho--phong-dien-market.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
+      "page": "paged",
+      "copy": "stale",
       "quality": "skipped",
-      "note": "One market frame and no second. Department hours were not printed.",
-      "updated": "2026-10-22T18:02:39.834Z",
+      "note": "Attractions pass 23 Oct 2026: finished sight with two licensed frames.",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -230,10 +230,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
-      "quality": "checked",
+      "copy": "stale",
+      "quality": "not_started",
       "note": "Finished sight: kicker, notice, body, second frame, hours and fee or Check on arrival.",
-      "updated": "2026-10-22T18:02:40.130Z",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -249,7 +249,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "No frame of the gate or towers. Hours and the free entry stay in the museum prose.",
-      "updated": "2026-10-22T18:02:40.409Z",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -262,10 +262,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
-      "quality": "checked",
+      "copy": "stale",
+      "quality": "not_started",
       "note": "Finished sight: kicker, notice, body, second frame, hours and fee or Check on arrival.",
-      "updated": "2026-10-22T18:02:40.697Z",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -280,8 +280,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Dossier: a walk on the quay evening. A bridge frame is not the place hero. No separate page.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "note": "Folded into the ninh-kieu attraction (wharf, footbridge, night market).",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -290,14 +290,14 @@
       "track": "unit",
       "name": "Ninh Kieu quay",
       "slug": "ninh-kieu",
-      "file": null,
+      "file": "src/content/attractions/can-tho--ninh-kieu.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
+      "page": "paged",
+      "copy": "stale",
       "quality": "skipped",
-      "note": "Dossier: the place page carries the quay. No separate page.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "note": "Attractions pass 23 Oct 2026: finished sight with two licensed frames.",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -306,14 +306,14 @@
       "track": "unit",
       "name": "My Khanh tourist village",
       "slug": "my-khanh",
-      "file": null,
+      "file": "src/content/attractions/can-tho--my-khanh.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
+      "page": "paged",
+      "copy": "stale",
       "quality": "skipped",
-      "note": "No frame of the orchard. Figures stay in the Phong Dien prose.",
-      "updated": "2026-10-22T18:02:40.989Z",
+      "note": "Attractions pass 23 Oct 2026: finished sight with two licensed frames.",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -329,7 +329,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "No workshop frame. The noodle stop stays in the food prose.",
-      "updated": "2026-10-22T18:02:41.270Z",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -713,7 +713,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the food guide carries De Tham. No separate page.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -729,7 +729,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the food guide carries the night market. No separate page.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -745,7 +745,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the food guide and the quay walk carry the old market. No separate page.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -761,7 +761,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the quay evening is part of the place, not a separate page. No bar street was found.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -777,7 +777,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the ordinary day is part of the place, not a separate page. The quiet hour was not printed.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -793,7 +793,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "No event photograph. Next date Check on arrival. Named in the place FAQ.",
-      "updated": "2026-10-22T18:02:41.557Z",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -809,7 +809,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "No event photograph. Lunar date Check on arrival. Named on the communal-house page.",
-      "updated": "2026-10-22T18:02:41.850Z",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -825,7 +825,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "No event photograph. Days Check on arrival. Named in the place FAQ.",
-      "updated": "2026-10-22T18:02:42.136Z",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -841,7 +841,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "No event photograph. Next date Check on arrival. Cakes stay in the food record.",
-      "updated": "2026-10-22T18:02:42.425Z",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -857,7 +857,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "No event photograph. Days Check on arrival. Named in the place FAQ.",
-      "updated": "2026-10-22T18:02:42.711Z",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     },
     {
@@ -873,13 +873,37 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "Dossier: the quay evening carries the music. No separate page.",
-      "updated": "2026-10-22T17:11:57.453Z",
+      "updated": "2026-10-23T17:14:48.094Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "can-tho--can-tho-bridge",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Can Tho Bridge",
+      "slug": "can-tho-bridge",
+      "file": "src/content/attractions/can-tho--can-tho-bridge.json",
+      "source": "dossier",
+      "research": "stored",
+      "page": "paged",
+      "copy": "stale",
+      "quality": "not_started",
+      "note": "Attractions pass 23 Oct 2026.",
+      "updated": "2026-10-23T17:14:48.094Z",
       "reworkCount": 0
     }
   ],
   "questions": [],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-23T17:14:48.094Z",
+      "place": "can-tho",
+      "stage": "researchAttractions",
+      "item": null,
+      "status": "stored",
+      "note": "23 Oct 2026: Can Tho Bridge, Ong Pagoda hours, My Khanh fee, museum hours, Phong Dien window added (S36-S42). Left out: Bang Lang (no licensed photo), Phong Dien boat fare, Con Son fee and hours."
+    },
     {
       "at": "2026-10-22T18:02:42.711Z",
       "place": "can-tho",
@@ -1028,14 +1052,6 @@
       "at": "2026-10-22T18:02:40.989Z",
       "place": "can-tho",
       "stage": "quality",
-      "item": "can-tho--my-khanh",
-      "status": "skipped",
-      "note": "No frame of the orchard. Figures stay in the Phong Dien prose."
-    },
-    {
-      "at": "2026-10-22T18:02:40.891Z",
-      "place": "can-tho",
-      "stage": "copy",
       "item": "can-tho--my-khanh",
       "status": "skipped",
       "note": "No frame of the orchard. Figures stay in the Phong Dien prose."

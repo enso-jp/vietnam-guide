@@ -3,7 +3,7 @@
 Place: `my-son`
 Slug: `museum`
 Status: stored
-Checked: 21 Oct 2026
+Checked: 23 Oct 2026
 
 The city dossier entry is the index. This file is the sight. The 2020 museum clock is not treated as the valley’s close.
 
@@ -65,6 +65,7 @@ The city dossier entry is the index. This file is the sight. The 2020 museum clo
 - Hero must show: a carved pedestal in the gallery, subject through the center.
 - Second frame must show (a different moment): the wooden sanctuary roof in the same room. The only licensed interior that is not a relief map is one Dalbéra exposure. A Guimet Museum Shiva titled “My Son” is not this gallery and was rejected. The second frame stays a different crop of the Dalbéra file. Credit the same file and say so. Reject the relief-map exposure.
 - Reject: entrance signs, a map, the outdoor linga, and the Cham Museum in Da Nang.
+- Rechecked 23 Oct 2026. Commons `File:Le centre dinterprétation de My Son (4399056993).jpg` is the relief map and stays rejected. `File:Hommage à Ho Chi Minh (centre d'interprétation de My Son).jpg` is a portrait in the same building and stays rejected. The second public frame remains a different crop of `File:Le centre dinterprétation de My Son (4399059447).jpg`. Hero and second frame were opened. Both show the gallery. Card line is the first sentence of the summary, under 110 characters.
 
 ## Links
 

@@ -4,17 +4,18 @@
   "name": "Hai Tang Pagoda",
   "nameVi": "Chùa Hải Tạng",
   "kicker": "Pagoda above the fields called Đồng Chùa",
-  "summary": "Walk up from Bai Lang to the island pagoda. It faces the terraced fields called Đồng Chùa, with the hill behind the gate and a statue in front. Built in 1758 and moved in 1848 after storm damage. The gate hours were not printed. Skip it only if the boat back will not wait.",
+  "summary": "Pagoda in Bai Lang: walk up from the landing for a short stop at the gate, the statue, and Đồng Chùa. It faces the terraced fields, with the hill behind the gate. The first building dates to 1758 and the move to 1848, after storm damage. Leave time for the boat back.",
   "dots": 4,
   "timeNeeded": "A short walk from the landing",
-  "fee": "70,000 VND visit fee. No pagoda ticket was printed.",
-  "getThere": "Walk through Bai Lang after the boat. Minutes are check on arrival.",
-  "verified": "21 Oct 2026",
+  "fee": "70,000 VND per person per visit",
+  "getThere": "Walk through Bai Lang after the boat.",
+  "district": "Bai Lang",
+  "verified": "23 Oct 2026",
   "heroCaption": "The gate, the Quan Âm, and the hill behind Hải Tạng",
   "body": [
-    "Hải Tạng stands in Xóm Cấm, Bai Lang, on Hòn Lao. It faces southwest onto the fields called Đồng Chùa, with the hill behind it. You walk there from the landing. The minutes were not printed.",
-    "The city page dates the first building to Cảnh Hưng 19 (1758), about 200 metres northeast of today’s site, and the move to Tự Đức 1 (1848) after storm damage. It also describes a 2002 repair of the main hall, a stone enclosure, a lotus pond, and a 3.5 metre plaster Quan Âm in front of the three-door gate. Read 1758 and 1848 as two dates, not one construction year. National relic, 2006.",
-    "The heritage pages describe the yin-yang tile roof, bell and drum towers, wooden statues, and a bronze bell, and say the house serves the islanders and the trading ships that stopped to pray. A separate pagoda ticket was not printed. The island visit fee, if it is collected for the day, is 70,000 VND per person from 10 June 2026. The gate clock is check on arrival."
+    "Hải Tạng stands in Xóm Cấm, Bai Lang, on Hòn Lao. It faces southwest onto the fields called Đồng Chùa, with the hill behind it. You walk there from the landing.",
+    "The city page dates the first building to Cảnh Hưng 19 (1758), about 200 metres northeast of today’s site, and the move to Tự Đức 1 (1848) after storm damage. It also describes a 2002 repair of the main hall, a stone enclosure, a lotus pond, and a 3.5 metre plaster Quan Âm in front of the three-door gate. Read 1758 and 1848 as two dates: the first building, then the move after storm damage. National relic, 2006.",
+    "The heritage pages describe the yin-yang tile roof, bell and drum towers, wooden statues, and a bronze bell, and say the house serves the islanders and the trading ships that stopped to pray. The fee is 70,000 VND per person per visit from 10 June 2026, plus 20,000 VND sanitation on the city table. The boat fare is Check on arrival."
   ],
   "figures": [
     {
@@ -24,22 +25,22 @@
     }
   ],
   "gettingThere": [
-    "Land at Bai Lang and walk through the hamlet to Xóm Cấm. The pagoda is the landmark above Đồng Chùa. No published minute count was on the city page or the heritage pages. The walk is check on arrival.",
-    "The city page says the pagoda is about 20 km from the Hoi An shore. That is the crossing, not the walk from the boat."
+    "Land at Bai Lang and walk through the hamlet to Xóm Cấm. The pagoda is the landmark above Đồng Chùa.",
+    "The city page says the pagoda is about 20 km from the Hoi An shore. That distance is the crossing. The biodiversity agency says 18 km from Hoi An."
   ],
   "legs": [
     {
       "heading": "From Bai Lang",
-      "body": "Walk from the landing through the hamlet. The minutes were not printed. Check on arrival."
+      "body": "Walk from the landing through the hamlet to Xóm Cấm, above the fields called Đồng Chùa."
     },
     {
       "heading": "From Hoi An",
-      "body": "Boat from bến thủy nội địa Cửa Đại – Cù Lao Chàm to Bai Lang, then walk. The crossing is about 20 km on the city temple page and 18 km on the biodiversity agency page. The minutes are check on arrival."
+      "body": "Boat from bến thủy nội địa Cửa Đại – Cù Lao Chàm to Bai Lang, then walk. The crossing is about 20 km on the city temple page and 18 km on the biodiversity agency page."
     }
   ],
-  "hours": "Check on arrival. No clock was on the city page or the heritage pages.",
+  "hours": "Check on arrival.",
   "closed": "No weekly closing day was printed. Check the gate on arrival.",
-  "admissionNote": "No separate pagoda ticket was printed. Check on arrival before you assume the hall is free. The island visit fee is 70,000 VND per person per visit from 10 June 2026 and does not include the boat. The boat fare is check on arrival.",
+  "admissionNote": "A separate pagoda price is Check on arrival. 70,000 VND per person per visit from 10 June 2026, plus 20,000 VND sanitation on the city table. The boat fare is Check on arrival.",
   "links": [
     {
       "label": "Hải Tạng, city page",

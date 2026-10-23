@@ -360,3 +360,11 @@ Districts that deserve their own page: none. Thị trấn Cát Bà is this place
 - Suggested slug: coast-road
 - Photo must show: the road, the sea, and the hillside flowers or the hill, in one frame. A hotel gate fails. `unpublished: no licensed photo`.
 - Sources: S17
+
+## Attraction pages, 23 Oct 2026
+
+Per-sight files are in `attractions/`. Published records: `lan-ha`, `national-park`, `trung-trang`, `cannon-fort`, `cai-beo`, `monkey-island` (the Cát Dứa entry above; slug uses the search name), `viet-hai`. Ngự Lâm stays inside `national-park`.
+
+- `hospital-cave`: unpublished: no second licensed photo. One Commons frame only.
+- `cat-co`: unpublished: no second licensed photo. One Commons frame only.
+- Not paged this pass (no licensed photo or no description): Ben Beo, Tung Thu, Van Boi and Cac Ba, Hang Luon (used as the Lan Ha second frame), Cua Van, Hoa Cuong, Phu Long and Thien Long, Ninh Tiep and Tien Duc.

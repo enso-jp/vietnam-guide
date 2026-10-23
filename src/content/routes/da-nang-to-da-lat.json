@@ -1,0 +1,32 @@
+{
+  "slug": "da-nang-to-da-lat",
+  "name": "Da Nang to Da Lat",
+  "from": "Da Nang",
+  "to": "Da Lat",
+  "summary": "Fly. The flight is about 1 hour 5 minutes to Lien Khuong, about 30 km south of town. There is no train into Da Lat. A road time is Check on arrival.",
+  "modes": [
+    {
+      "mode": "Flight",
+      "duration": "About 1 hour 5 minutes",
+      "note": "About 1 hour 5 minutes each way. Lien Khuong is about 30 km south of Da Lat, and the ride into town is extra. Fares are Check on arrival.",
+      "partner": "flight"
+    },
+    {
+      "mode": "Train",
+      "duration": "No passenger service",
+      "note": "Da Lat’s line no longer joins the north–south railway. The station runs only a short tourist train to Trại Mát."
+    }
+  ],
+  "seoTitle": "Da Nang to Da Lat — about 1 hour 5 minutes by air",
+  "seoDescription": "Da Nang to Lien Khuong is about 1 hour 5 minutes by air, each way. The airport is about 30 km south of Da Lat. No train. Road time is Check on arrival.",
+  "faqs": [
+    {
+      "q": "Is Da Lat back to Da Nang the same trip?",
+      "a": "Yes. This page covers both directions. The return flight is also about 1 hour 5 minutes. The ride from Lien Khuong into town is extra."
+    },
+    {
+      "q": "What about the road?",
+      "a": "No kilometre and no clock are published for the road from Da Nang to Da Lat. The minutes are Check on arrival. Use the flight if the day matters."
+    }
+  ]
+}

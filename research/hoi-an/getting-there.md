@@ -13,3 +13,11 @@ Checked: 21 Oct 2026
 - Road from Hue over Hải Vân | Approximate — UNSOURCED | Clear weather only. Storms and flood weeks are the limit below. | S12
 - Getting around on site: Walk inside the ancient town during the pedestrian hours on the January 2026 notice, 09:00–21:30 in summer and 09:00–21:00 in winter (S20). The streets are narrow (S1). A ride or a bicycle is the way from An Bang and out to Trà Quế, about 2.5 km north (S26). The 2024 coast article does not give An Bang minutes (S6). Those minutes: Check on arrival — UNSOURCED. Cẩm Thanh is about 3 km and about 5 minutes by car on one 2022 heritage article (S27). Confirm that ride.
 - Season limit on the journey: The Da Nang city portal, 4 May 2026, describes a tropical monsoon climate, a dry season from January to September, rain from October to December, rain concentrated in September–December, and floods usual in September–November with the northeast monsoon. Storms are mainly September–December (S12). The national tourism page gives Hoi An an average of 25ºC, 82 percent humidity, and 2,066 mm of rain a year, and does not split that into months (S7). Do not send someone over Hải Vân or along the Hoi An road in a flood week without checking that morning. The English city climate page was not re-checked on this pass.
+
+## Route pass, 23 Oct 2026
+
+For `hoi-an-to-my-son` and `hoi-an-to-cham-islands`.
+
+- My Son homepage still prints 45 km and no drive time. The 01DL pause notice of 14 Sep 2026 is still the text in force (six months from 15/9/2026). URLs in `research/my-son/getting-there.md`. Accessed 23 Oct 2026.
+- Cham Islands crossing time was not reopened. The public route keeps the dossier’s 18 km and 20 km and leaves the minutes Check on arrival. No new boat clock.
+- 12go paths for these pairs returned a bot challenge. No bus partner path.

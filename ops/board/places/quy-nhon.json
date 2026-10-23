@@ -26,8 +26,8 @@
     },
     "researchAttractions": {
       "status": "stored",
-      "note": "left out whether the science-complex rooms are open, what the Ky Co 30,000-60,000 and Cu Lao Xanh 200,000-350,000 fields buy, the Cu Lao Xanh boat pier and crossing time, and minutes from the city beach to Eo Gio.",
-      "updated": "2026-10-21T19:09:23.133Z",
+      "note": "23 Oct 2026 added Banh It and rechecked the live portal. Left out what the Ky Co 30,000-60,000 and Cu Lao Xanh 200,000-350,000 fields buy, the Cu Lao Xanh pier and crossing time, minutes to Eo Gio, and Bai Xep fee and hours. Bai Xep, Cu Lao Xanh, and Long Khanh stay unpublished: no licensed photo.",
+      "updated": "2026-10-23T18:10:06.163Z",
       "reworkCount": 0
     },
     "researchFood": {
@@ -104,8 +104,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Read against the dossier. Free, 6:00-23:00, 60-minute field, chair check on arrival. Photo is the hill view of this beach.",
-      "updated": "2026-10-22T02:48:43.421Z",
+      "note": "Card line and second photo added 23 Oct 2026. Chair hire Check on arrival.",
+      "updated": "2026-10-23T18:10:06.238Z",
       "reworkCount": 0
     },
     {
@@ -152,8 +152,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Read against S6 and S7. Metres only from the lagoon page. Photo is the daytime span.",
-      "updated": "2026-10-22T02:52:21.191Z",
+      "note": "Card line rewritten 23 Oct 2026. No second licensed span, so no body.",
+      "updated": "2026-10-23T18:10:06.420Z",
       "reworkCount": 0
     },
     {
@@ -184,8 +184,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Read against S8. Header ward and prose ward both stay. Photo shows both towers.",
-      "updated": "2026-10-22T02:53:25.595Z",
+      "note": "Card line and carved-corner second photo 23 Oct 2026. Child price Check on arrival.",
+      "updated": "2026-10-23T18:10:06.271Z",
       "reworkCount": 0
     },
     {
@@ -216,8 +216,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "No licensed photo of the 17 m Amitabha at Long Khanh. Page skipped.",
-      "updated": "2026-10-22T02:53:51.257Z",
+      "note": "unpublished: no licensed photo of the 17 m Amitabha.",
+      "updated": "2026-10-23T18:10:06.533Z",
       "reworkCount": 0
     },
     {
@@ -232,8 +232,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Read against S11 and S13. Photos are the egg stones and the monument, not another beach.",
-      "updated": "2026-10-22T02:54:49.062Z",
+      "note": "Card line rewritten 23 Oct 2026. Existing egg-stone and grave photos kept.",
+      "updated": "2026-10-23T18:10:06.314Z",
       "reworkCount": 0
     },
     {
@@ -280,8 +280,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "No licensed photo of Bai Xep. Page skipped.",
-      "updated": "2026-10-22T02:55:06.262Z",
+      "note": "unpublished: no licensed photo. Commons Bai Xep files are Phu Yen.",
+      "updated": "2026-10-23T18:10:06.453Z",
       "reworkCount": 0
     },
     {
@@ -312,8 +312,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Read against S16 and S30. Photo is the saddle and the sea. Kilometres from the beach stay check on arrival.",
-      "updated": "2026-10-22T02:55:45.945Z",
+      "note": "Card line rewritten 23 Oct 2026. No second licensed photo of the saddle, so no body.",
+      "updated": "2026-10-23T18:10:06.348Z",
       "reworkCount": 0
     },
     {
@@ -328,8 +328,8 @@
       "page": "paged",
       "copy": "enriched",
       "quality": "checked",
-      "note": "Read against S17. Photo is the rocky cove. The price range is not treated as a settled ticket.",
-      "updated": "2026-10-22T02:59:43.858Z",
+      "note": "Card line leads with the white-sand cove. Price range Check on arrival. No clean second photo, so no body.",
+      "updated": "2026-10-23T18:10:06.385Z",
       "reworkCount": 0
     },
     {
@@ -376,8 +376,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "Both Commons frames of Cu Lao Xanh are watermarked. No clean licensed photo. Page skipped.",
-      "updated": "2026-10-22T02:59:56.283Z",
+      "note": "unpublished: no licensed photo. Both Commons frames are watermarked.",
+      "updated": "2026-10-23T18:10:06.492Z",
       "reworkCount": 0
     },
     {
@@ -1018,6 +1018,22 @@
       "quality": "skipped",
       "note": "The swim is the city beach. Not a second page.",
       "updated": "2026-10-21T19:09:38.284Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "quy-nhon--banh-it",
+      "kind": "sight",
+      "track": "unit",
+      "name": "Banh It towers",
+      "slug": "banh-it",
+      "file": null,
+      "source": "dossier",
+      "research": "not_started",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Finished page. Dot 4. Child price Check on arrival. Both commune lines kept.",
+      "updated": "2026-10-23T18:10:06.203Z",
       "reworkCount": 0
     }
   ],

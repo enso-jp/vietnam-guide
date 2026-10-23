@@ -121,7 +121,7 @@
     {
       "title": "Ninh Kiều quay",
       "summary": "The Hậu, the boats, and the walk after the dawn market.",
-      "placeSlug": "can-tho",
+      "attractionSlug": "ninh-kieu",
       "photo": "can-tho-ninh-kieu",
       "icon": "view"
     },
@@ -161,6 +161,13 @@
           "attractionSlug": "cai-rang",
           "photo": "can-tho-cai-rang",
           "icon": "view"
+        },
+        {
+          "title": "Phong Dien floating market",
+          "summary": "Farm boats at dawn about 17 km out, quieter than Cái Răng.",
+          "attractionSlug": "phong-dien-market",
+          "photo": "can-tho-phong-dien-market",
+          "icon": "view"
         }
       ]
     },
@@ -176,9 +183,16 @@
         {
           "title": "Ninh Kiều quay",
           "summary": "The Hậu, the boats, and the walk you come back to after Cái Răng.",
-          "placeSlug": "can-tho",
+          "attractionSlug": "ninh-kieu",
           "photo": "can-tho-ninh-kieu",
           "icon": "view"
+        },
+        {
+          "title": "Ong Pagoda",
+          "summary": "The Cantonese hall of 1896 at 32 Hai Bà Trưng, free to enter.",
+          "attractionSlug": "ong-pagoda",
+          "photo": "can-tho-ong-pagoda",
+          "icon": "museum"
         }
       ]
     },
@@ -239,6 +253,20 @@
           "summary": "Tiled halls and a garden court on the Mỹ Khánh road.",
           "attractionSlug": "truc-lam-phuong-nam",
           "photo": "can-tho-truc-lam-phuong-nam",
+          "icon": "view"
+        },
+        {
+          "title": "My Khanh tourist village",
+          "summary": "Orchards, pig races, and a 115-year-old house on the Cần Thơ river.",
+          "attractionSlug": "my-khanh",
+          "photo": "can-tho-my-khanh",
+          "icon": "view"
+        },
+        {
+          "title": "Con Son islet",
+          "summary": "Fish rafts, folk cakes, and garden fruit on an islet in the Hậu.",
+          "attractionSlug": "con-son",
+          "photo": "can-tho-con-son",
           "icon": "view"
         }
       ]

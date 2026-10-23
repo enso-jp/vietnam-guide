@@ -4,21 +4,21 @@
   "name": "Dau Go Cave",
   "nameVi": "Hang Đầu Gỗ",
   "kicker": "The second room on the same landing",
-  "summary": "You walk the cave the port calls one of the earliest known on the bay, on the same đảo Đầu Gỗ landing as Thiên Cung. The port says Hồ Chí Minh visited. Route 1 is 3–4 hours for Thiên Cung, this cave, and Ba Hang together. A minute in this room alone was not printed.",
+  "summary": "Early cave beside Thiên Cung: walk this chamber on the same landing, inside a 3–4 hour route. It is one of the earliest known caves on the bay, and Hồ Chí Minh visited. Ba Hang comes later, by small boat on the water. Pair the two rooms, since the island is one stop.",
   "dots": 3,
   "district": "The short boat",
   "timeNeeded": "Inside a 3–4 hour route",
   "fee": "No separate cave ticket",
   "getThere": "Route 1 boat, same landing as Thien Cung",
-  "verified": "22 Oct 2026",
+  "verified": "23 Oct 2026",
   "heroCaption": "A shaft of light in the cave",
   "notice": {
     "title": "Same boat as Thien Cung",
-    "body": "The port pairs Đầu Gỗ with Thiên Cung on route 1, a 3–4 hour loop that also includes Ba Hang. A minute in this cave alone was not printed."
+    "body": "Đầu Gỗ shares the route 1 landing with Thiên Cung, on a 3–4 hour loop that also includes Ba Hang."
   },
   "body": [
-    "This is the second room on the đảo Đầu Gỗ landing. The port calls it one of the earliest known caves on the bay, and a place Hồ Chí Minh visited. You are still inside the 3–4 hour route.",
-    "Ba Hang comes after, on the water, not as another walking chamber. A gate hour for Đầu Gỗ alone was not printed. No separate cave price is printed. Check on arrival."
+    "This is the second room on the đảo Đầu Gỗ landing. It is one of the earliest known caves on the bay, and a place Hồ Chí Minh visited. You are still inside the 3–4 hour route.",
+    "Ba Hang comes after, by small boat on the water. A kayak or a rowboat there is 40,000 đồng a person."
   ],
   "figures": [
     {
@@ -33,12 +33,12 @@
   "legs": [
     {
       "heading": "From the Ha Long port",
-      "body": "The route-1 boat. A minute in this cave alone was not printed. Check on arrival."
+      "body": "The route-1 boat, with Thiên Cung. The clock is 3–4 hours for the three stops together."
     }
   ],
-  "hours": "Check on arrival. A gate hour for this cave alone was not printed.",
+  "hours": "Check on arrival",
   "closed": "No weekly closing day was printed. Confirm the sailing the day you go.",
-  "admissionNote": "No separate price. Route 1 on the 15 March 2024 page is 440,000–460,000 đồng, split on that page as 310,000 sightseeing and 150,000 boat. The child bands differ between that page (7 to 15) and the 17 July 2023 board notice (7 to under 16). Both stay. From 10 December 2025 a bay ticket needs an identity card or a passport.",
+  "admissionNote": "No separate cave price. Route 1 on 15 March 2024 is 440,000–460,000 đồng, split there as 310,000 sightseeing and 150,000 boat. That notice takes 20 percent off for children 7 to 15. The board exemption page, updated 2 November 2024, uses age 7 to under 16. From 10 December 2025 a bay ticket needs an identity card or a passport.",
   "links": [
     {
       "label": "Route 1",
