@@ -2,12 +2,44 @@
   "slug": "red-dunes",
   "placeSlug": "mui-ne",
   "name": "Red dunes",
-  "summary": "A sand slope above a fishing village. Go late in the day.",
+  "nameVi": "Đồi cát bay",
+  "kicker": "Orange slope at sunset",
+  "summary": "Walk the orange slope at sunset, about 22 km from Phan Thiet or just outside town. Sandboard if that is the plan. Skip it when you wanted the white field at dawn. A minute count and a ticket are Check on arrival.",
   "dots": 3,
-  "timeNeeded": "1 hour",
-  "fee": "Parking and optional jeep",
-  "getThere": "Taxi from the resort strip",
-  "interests": [
-    "beaches"
-  ]
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "A ride from the strip. The 22 km figure is from the city center.",
+  "district": "The fishing ward",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Orange sand, casuarinas, and a walker on the slope",
+  "gettingThere": [
+    "Đồi cát bay is the orange field in Mui Ne ward. Vietnam Tourism calls the red dunes just outside town and sends you at sunset to walk the slope and sandboard. The 2019 ministry workshop puts the field about 22 km from the Phan Thiet city center, about 36.8 ha, and says that since 2016 it was assigned to the provincial youth outdoor center, overlapping the Ham Tien–Mui Ne tourism board and the ward. Those origins are not the same sentence. Both stay.",
+    "The 22 km figure is from the city center, not from a resort gate. Minutes from the strip are Check on arrival. Vietnam Tourism names a motorbike for the dunes and the coast. Do not treat this slope as Bàu Trắng. The white field is in Hoa Thang, and that ride is the early one."
+  ],
+  "legs": [
+    {
+      "heading": "From the Ham Tien strip",
+      "body": "A ride along the coast. Minutes from a resort gate are Check on arrival. The 22 km on the 2019 ministry page is measured from the Phan Thiet city center."
+    },
+    {
+      "heading": "From Phan Thiet",
+      "body": "About 22 km from the city center on the 2019 ministry page. Vietnam Tourism says just outside town. Both stay. A fare is Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "admissionNote": "The 2019 ministry page names the manager and prints no tariff. A ticket is Check on arrival. Vietnam Tourism sends you at sunset. A gate hour was not given.",
+  "links": [
+    {
+      "label": "Vietnam Tourism, Mui Ne must-do list",
+      "url": "https://vietnam.travel/things-to-do/wind-sand-and-sea-mui-nes-must-do-list",
+      "note": "Sunset on the red dunes"
+    },
+    {
+      "label": "Ministry workshop, 26 Apr 2019",
+      "url": "https://bvhttdl.gov.vn/gin-giu-ton-tao-va-phat-huy-ve-dep-tu-nhien-doi-cat-bay-mui-ne-20190428093515474.htm",
+      "note": "About 22 km from the city center, about 36.8 ha. No tariff."
+    }
+  ],
+  "interests": ["photography", "beaches"]
 }

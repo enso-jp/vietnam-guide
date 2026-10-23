@@ -19,40 +19,40 @@
   },
   "stages": {
     "destination": {
-      "status": "shell",
-      "note": "A place file exists. It has not been set up from a stored dossier.",
-      "updated": null,
+      "status": "paged",
+      "note": "Place shell from the 23 Oct 2026 dossier. Corridor stays south-central-highlands. Lat and lng unset. Dots stay 3. Food slug is set for the guide in the next stage. Phan Thiet stays a neighbor in prose.",
+      "updated": "2026-10-23T06:40:04.582Z",
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:21:33.459Z",
+      "status": "enriched",
+      "note": "Place prose and season chip from the dossier. Hero stays the kitesurfer, Vyacheslav Argenberg, CC BY 4.0. Lat and lng stay unset. Dots stay 3.",
+      "updated": "2026-10-23T06:40:39.740Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:21:33.459Z",
+      "status": "checked",
+      "note": "Read against the 23 Oct 2026 dossier. Lat and lng unset. Dots stay 3. Season chip is Dry wind months. Dining leads. Resort Living stays. Phan Thiet is prose only. No event photo, so no festival card. Food guide is the next stage.",
+      "updated": "2026-10-23T06:40:51.048Z",
       "reworkCount": 0
     },
     "food": {
-      "status": "not_started",
-      "note": "",
-      "updated": null,
+      "status": "paged",
+      "note": "28 specialty dishes as text lines. Four food streets in casual dining. No plate photo, so no dish card. Owner bar of 20 is met. No invented dish.",
+      "updated": "2026-10-23T06:41:57.839Z",
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:21:33.459Z",
+      "status": "enriched",
+      "note": "Removed the recommendation line and the street-versus-dish line. The court on Nguyen Dinh Chieu stays, with the street number Check on arrival.",
+      "updated": "2026-10-23T06:45:18.972Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "not_started",
-      "note": "",
-      "updated": "2026-10-23T06:21:33.459Z",
-      "reworkCount": 0
+      "status": "checked",
+      "note": "28 specialty text lines, four streets, dawn coffee separate. No plate photo and no gap line. Disagreements stay.",
+      "updated": "2026-10-23T06:45:49.572Z",
+      "reworkCount": 1
     },
     "researchBase": {
       "status": "stored",
@@ -101,11 +101,11 @@
       "file": "src/content/attractions/mui-ne--red-dunes.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced 23 Oct 2026. Fee Check on arrival. Published shell stays.",
-      "updated": "2026-10-23T06:21:33.459Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Photo is the orange slope with casuarinas and a walker. Fee Check on arrival. Both distance lines stay. No pin.",
+      "updated": "2026-10-23T06:46:15.062Z",
       "reworkCount": 0
     },
     {
@@ -117,11 +117,11 @@
       "file": "src/content/attractions/mui-ne--white-dunes.json",
       "source": "published",
       "research": "stored",
-      "page": "shell",
-      "copy": "not_started",
-      "quality": "not_started",
-      "note": "Sourced 23 Oct 2026. Fee Check on arrival. 25 km and a short drive both stay. Published shell stays.",
-      "updated": "2026-10-23T06:21:33.459Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "checked",
+      "note": "Photo is the pale crests with people small on the sand. Both distances stay. No pin.",
+      "updated": "2026-10-23T06:46:15.297Z",
       "reworkCount": 0
     },
     {
@@ -990,15 +990,120 @@
     }
   ],
   "questions": [],
-  "claim": {
-    "place": "mui-ne",
-    "stage": "destination",
-    "item": null,
-    "at": "2026-10-23T06:35:06.746Z",
-    "by": "mui-ne-destination",
-    "branch": "cursor/mui-ne-destination-eb60"
-  },
+  "claim": null,
   "log": [
+    {
+      "at": "2026-10-23T06:46:15.297Z",
+      "place": "mui-ne",
+      "stage": "quality",
+      "item": "mui-ne--white-dunes",
+      "status": "checked",
+      "note": "Photo is the pale crests with people small on the sand. Both distances stay. No pin."
+    },
+    {
+      "at": "2026-10-23T06:46:15.221Z",
+      "place": "mui-ne",
+      "stage": "copy",
+      "item": "mui-ne--white-dunes",
+      "status": "enriched",
+      "note": "Lede names 5:00–7:00, the 25 km drive, and the short ride. Dots stay 3."
+    },
+    {
+      "at": "2026-10-23T06:46:15.140Z",
+      "place": "mui-ne",
+      "stage": "page",
+      "item": "mui-ne--white-dunes",
+      "status": "paged",
+      "note": "One licensed photo of the pale crests. 25 km and a short drive both stay. 5:00–7:00 is the visit window. Fee Check on arrival. No second frame was stored."
+    },
+    {
+      "at": "2026-10-23T06:46:15.062Z",
+      "place": "mui-ne",
+      "stage": "quality",
+      "item": "mui-ne--red-dunes",
+      "status": "checked",
+      "note": "Photo is the orange slope with casuarinas and a walker. Fee Check on arrival. Both distance lines stay. No pin."
+    },
+    {
+      "at": "2026-10-23T06:46:14.984Z",
+      "place": "mui-ne",
+      "stage": "copy",
+      "item": "mui-ne--red-dunes",
+      "status": "enriched",
+      "note": "Lede, getting there, and hours from the dossier. Dots stay 3. Sunset, not a gate hour."
+    },
+    {
+      "at": "2026-10-23T06:46:14.904Z",
+      "place": "mui-ne",
+      "stage": "page",
+      "item": "mui-ne--red-dunes",
+      "status": "paged",
+      "note": "One licensed photo of the slope. Fee and a gate hour are Check on arrival. 22 km from the city center and just outside town both stay. No second frame was stored, so the hero is not repeated."
+    },
+    {
+      "at": "2026-10-23T06:45:49.572Z",
+      "place": "mui-ne",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "checked",
+      "note": "28 specialty text lines, four streets, dawn coffee separate. No plate photo and no gap line. Disagreements stay."
+    },
+    {
+      "at": "2026-10-23T06:45:18.972Z",
+      "place": "mui-ne",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Removed the recommendation line and the street-versus-dish line. The court on Nguyen Dinh Chieu stays, with the street number Check on arrival."
+    },
+    {
+      "at": "2026-10-23T06:44:53.280Z",
+      "place": "mui-ne",
+      "stage": "foodQuality",
+      "item": null,
+      "status": "rework",
+      "note": "Cut the line that said no door is a recommendation, and the line that explained streets are not dishes. Traveler facts stay."
+    },
+    {
+      "at": "2026-10-23T06:42:44.543Z",
+      "place": "mui-ne",
+      "stage": "foodCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Food prose names 28 dishes as text lines. No licensed plate, so no card and no heroSlug. Streets stay in casual dining. Dawn coffee is breakfast, not a specialty."
+    },
+    {
+      "at": "2026-10-23T06:41:57.840Z",
+      "place": "mui-ne",
+      "stage": "food",
+      "item": null,
+      "status": "paged",
+      "note": "28 specialty dishes as text lines. Four food streets in casual dining. No plate photo, so no dish card. Owner bar of 20 is met. No invented dish."
+    },
+    {
+      "at": "2026-10-23T06:40:51.049Z",
+      "place": "mui-ne",
+      "stage": "destinationQuality",
+      "item": null,
+      "status": "checked",
+      "note": "Read against the 23 Oct 2026 dossier. Lat and lng unset. Dots stay 3. Season chip is Dry wind months. Dining leads. Resort Living stays. Phan Thiet is prose only. No event photo, so no festival card. Food guide is the next stage."
+    },
+    {
+      "at": "2026-10-23T06:40:39.741Z",
+      "place": "mui-ne",
+      "stage": "destinationCopy",
+      "item": null,
+      "status": "enriched",
+      "note": "Place prose and season chip from the dossier. Hero stays the kitesurfer, Vyacheslav Argenberg, CC BY 4.0. Lat and lng stay unset. Dots stay 3."
+    },
+    {
+      "at": "2026-10-23T06:40:04.582Z",
+      "place": "mui-ne",
+      "stage": "destination",
+      "item": null,
+      "status": "paged",
+      "note": "Place shell from the 23 Oct 2026 dossier. Corridor stays south-central-highlands. Lat and lng unset. Dots stay 3. Food slug is set for the guide in the next stage. Phan Thiet stays a neighbor in prose."
+    },
     {
       "at": "2026-10-23T06:21:33.460Z",
       "place": "mui-ne",
@@ -1046,54 +1151,6 @@
       "item": null,
       "status": "stored",
       "note": "Left out: a town pin, minutes from Phan Thiet station to the strip, a civil-airport opening date, weekday trains outside the 11 Sep–30 Dec 2026 weekend window, and taxi or bicycle fares. The two rail clocks both stay."
-    },
-    {
-      "at": "2026-10-23T06:21:04.928Z",
-      "place": "mui-ne",
-      "stage": "researchContext",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Kate, the kite lesson, and the side trips are in. Still open: the next Kate civil date, neighbor festival dates, and minutes to Ta Cu, Ke Ga, Co Thach, Cu Lao Cau, and Po Dam."
-    },
-    {
-      "at": "2026-10-23T06:21:03.743Z",
-      "place": "mui-ne",
-      "stage": "researchLifestyle",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Dawn, the kite window, and the wall are in. Still open: the hour the strip goes quiet, and a cafe street apart from Nguyen Dinh Chieu."
-    },
-    {
-      "at": "2026-10-23T06:21:03.552Z",
-      "place": "mui-ne",
-      "stage": "researchNightlife",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Sea wall and Nguyen Dinh Chieu are in. Still open: the hour the road goes quiet, and the Pit Stop street number."
-    },
-    {
-      "at": "2026-10-23T06:21:03.293Z",
-      "place": "mui-ne",
-      "stage": "researchFood",
-      "item": null,
-      "status": "needs_depth",
-      "note": "28 sourced dishes and four food streets. Still open: 12 dishes to reach 40, Vietnamese names for five sea-wall plates, a banh can street, and stall prices."
-    },
-    {
-      "at": "2026-10-23T06:21:00.872Z",
-      "place": "mui-ne",
-      "stage": "researchAttractions",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Sights and the strip are in. Still open: dune and stream tariffs, Hon Rom visit text, Fairy Stream address, and minutes between the strip and the white dunes."
-    },
-    {
-      "at": "2026-10-23T06:21:00.284Z",
-      "place": "mui-ne",
-      "stage": "researchBase",
-      "item": null,
-      "status": "needs_depth",
-      "note": "Scene and the road, rail, and air lines are in. Still open: no town pin, the two rail clocks, minutes from Phan Thiet station to the strip, and a civil-airport opening date."
     }
   ]
 }
