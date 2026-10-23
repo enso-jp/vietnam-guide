@@ -119,7 +119,7 @@ This is the mangrove biosphere. Ho Chi Minh City already has `ho-chi-minh-city`.
 - Suggested slug: dao-khi
 - Suggested dot: 3 — a stop on the forest circuit
 - Photo must show: several monkeys in the mangrove, the trees still in the frame. A face-only crop fails.
-- unpublished: no licensed photo
+- unpublished: no licensed photo. Checked 23 Oct 2026. The only Commons file of this subject is File:Khỉ Việt Nam ở đảo khỉ Cần Giờ, ngày 28 tháng 9 năm 2017.jpg (Phương Huy, CC BY-SA 4.0). It is a close portrait of macaques on rock, with no mangrove in the frame, and there is no second frame. Left off the public page.
 - Sources: S2, S4, S10
 
 ### Bãi biển 30 tháng 4
@@ -154,7 +154,7 @@ This is the mangrove biosphere. Ho Chi Minh City already has `ho-chi-minh-city`.
 - Suggested slug: lang-ong
 - Suggested dot: 4 — the temple is the pin for the festival, and a short visit on any other day
 - Photo must show: the temple front, the court, and the roof together. A tight crop of a statue fails.
-- unpublished: no licensed photo
+- unpublished: no licensed photo. Checked 23 Oct 2026. Commons whale temples that turned up are Phan Thiết (Vạn Thủy Tú), Cà Mau (Hòn Đá Bạc), Nam Ô in Đà Nẵng, and File:Lăng Ông - panoramio.jpg, which Commons files under unidentified locations in Vietnam. None is Lăng Ông Thủy Tướng in Cần Giờ. Left off the public page.
 - Sources: S6, S13, S16
 
 ### Ruộng muối
@@ -190,7 +190,7 @@ This is the mangrove biosphere. Ho Chi Minh City already has `ho-chi-minh-city`.
 - Suggested slug: thanh-an
 - Suggested dot: 2 — named, and the crossing was not opened
 - Photo must show: the island shore, pans or boats, and water in one frame
-- unpublished: no licensed photo
+- Published 23 Oct 2026 as `thanh-an`. Hero `can-gio-thanh-an` from File:Cần Giờ 2018 (xã đảo Thạnh An, bờ kè) (6).jpg, Phương Huy, CC BY-SA 4.0, cropped to the boats, the quay, and the mangrove bank. Second `can-gio-thanh-an-2` from File:Một khu nuôi hàu của dân Thạnh An, Cần Giờ.jpg, Southern Vietnam, CC BY-SA 4.0, oyster rafts with the mangrove shore. Boat fare, pier name, and minutes stay Check on arrival.
 - Sources: S5, S11
 
 ### Di chỉ Giồng Cá Vồ và các đình

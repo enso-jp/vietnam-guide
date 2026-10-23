@@ -168,8 +168,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "A stop on the forest circuit. Monkey counts disagree. No separate operator page.",
-      "updated": "2026-10-22T04:15:03.022Z",
+      "note": "unpublished: no licensed photo. The only Commons frame is a close macaque portrait on rock, with no mangrove and no second file. Left off the page.",
+      "updated": "2026-10-23T18:58:06.000Z",
       "reworkCount": 0
     },
     {
@@ -200,8 +200,8 @@
       "page": "skipped",
       "copy": "skipped",
       "quality": "skipped",
-      "note": "No public attraction file to read. Quality skipped with the missing photo.",
-      "updated": "2026-10-22T04:35:40.193Z",
+      "note": "unpublished: no licensed photo of Lăng Ông Thủy Tướng in Cần Giờ. Commons whale temples are other towns. Left off the page.",
+      "updated": "2026-10-23T18:58:06.037Z",
       "reworkCount": 0
     },
     {
@@ -226,14 +226,14 @@
       "track": "unit",
       "name": "Thanh An",
       "slug": "thanh-an",
-      "file": null,
+      "file": "src/content/attractions/can-gio--thanh-an.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "Inside this biosphere. No boat timetable. Not a new slug.",
-      "updated": "2026-10-22T04:15:03.022Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "not_started",
+      "note": "Published with two licensed photos of the island. Boat fare, pier, and minutes stay check on arrival.",
+      "updated": "2026-10-23T18:58:05.960Z",
       "reworkCount": 0
     },
     {

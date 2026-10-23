@@ -1,0 +1,50 @@
+{
+  "slug": "thanh-an",
+  "placeSlug": "can-gio",
+  "name": "Thạnh An",
+  "nameVi": "Xã Thạnh An",
+  "kicker": "Island commune inside the reserve",
+  "summary": "Island commune off the beach town: take the boat across for the shore and the salt pans. Thạnh An stayed its own commune in 2025, and đảo Thiềng Liềng sits inside it. Cross from December through May when the pans are the reason.",
+  "dots": 2,
+  "dotReason": "The island is named, and the boat clock is still open.",
+  "timeNeeded": "A crossing from the beach town",
+  "fee": "Check on arrival",
+  "getThere": "By boat from the beach town.",
+  "bestMonths": "December–May",
+  "district": "The island",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Fishing boats at the Thạnh An quay, with mangrove across the water",
+  "notice": {
+    "title": "Cross in the salt months for the pans",
+    "body": "The pans on đảo Thiềng Liềng run December through May. Outside those months the shore and the boats are the visit."
+  },
+  "body": [
+    "Xã Thạnh An is the island commune in the reserve. The 2025 rearrangement left it as its own commune. Đảo Thiềng Liềng, with salt pans, sits inside it. You come for the shore, the fishing boats, and a salt morning in season.",
+    "The landing is boats against a mangrove bank, and the water in front of the island carries oyster rafts. Walk the quay when you land. If the pans are the reason, go from December through May, after sunrise, the same season as the pans on the mainland.",
+    "Ask the fare, the pier, and the last boat back when you reach the beach town. Give the crossing a day of its own, and keep the return boat in the plan."
+  ],
+  "figures": [
+    {
+      "id": "can-gio-thanh-an-2",
+      "caption": "Oyster rafts on the water, with the mangrove shore behind them",
+      "alt": "Rows of oyster rafts on the water in front of mangrove at Thạnh An"
+    }
+  ],
+  "gettingThere": [
+    "From the beach town, xã Thạnh An is a boat crossing. Đảo Thiềng Liềng is inside the commune.",
+    "From Ho Chi Minh City, the road to the Bình Khánh ferry is about 50 km, about 1 hour 30 minutes to about 2 hours, then the beach town, then the boat."
+  ],
+  "legs": [
+    {
+      "heading": "From the beach town",
+      "body": "By boat. Ask the pier, the fare, and the last boat back in xã Cần Giờ before you commit the day."
+    },
+    {
+      "heading": "From Ho Chi Minh City",
+      "body": "Nguyễn Văn Linh and Huỳnh Tấn Phát to the Bình Khánh ferry, then the beach town, then the boat. About 50 km and about 1 hour 30 minutes to about 2 hours to the ferry. From 18 March 2026 a walk or bicycle on the ferry is 3,000 VND and a motorbike is 8,000 VND."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "interests": ["islands"]
+}

@@ -5,6 +5,8 @@ Slug: `vam-sat`
 Status: stored
 Checked: 22 Oct 2026
 
+Public copy on 23 Oct 2026 uses the operator tariff for boat prices and the management board’s figure of more than 1,000 long-tailed macaques. Visit HCMC’s canoe band, full-package band, bird count, and “over 2,000 monkeys” stay in this file and in attractions.md. They are not repeated on the page. The tower height of 28 m stays here. It was only on the tourism page.
+
 ## What it is
 
 - English name: Vam Sat

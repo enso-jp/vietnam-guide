@@ -5,6 +5,8 @@ Slug: `rung-sac-base`
 Status: stored
 Checked: 22 Oct 2026
 
+Public copy on 23 Oct 2026 keeps the adult fee of 35,000 VND and the 7:30–17:30 gate. The open question of whether Resolution 09/2020 was still in force in 2026 stays here. The 600,000 VND canoe, printed only as a tourism reference, stays here and is not on the page. The two battle counts stay here.
+
 ## What it is
 
 - English name: Rung Sac base
