@@ -382,7 +382,14 @@
     }
   ],
   "questions": [],
-  "claim": null,
+  "claim": {
+    "place": "kon-tum",
+    "stage": "destinationCopy",
+    "item": null,
+    "at": "2026-10-23T06:07:25.485Z",
+    "by": "kon-tum-copy",
+    "branch": "cursor/kon-tum-destination-copy-4bbc"
+  },
   "log": [
     {
       "at": "2026-10-21T11:18:20.894Z",
