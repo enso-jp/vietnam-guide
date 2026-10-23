@@ -5,6 +5,8 @@ Place: `tay-ninh`
 Status: stored
 Checked: 22 Oct 2026
 
+Public copy rewritten 23 Oct 2026. Facts below are unchanged. Source names and “Check on arrival” sentences were taken off the page. The fee and the grounds closing hour stay “Check on arrival” in those fields. The dot was not changed. `district` is Long Hoa.
+
 Facts are the city dossier. This pass did not open a new source. Where the dossier says `UNSOURCED`, the page says Check on arrival.
 
 ## What you see

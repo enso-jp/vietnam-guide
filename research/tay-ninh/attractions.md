@@ -66,7 +66,7 @@ From 1 Jul 2025 the old city wards are phường Tân Ninh, the Holy See’s old
 - Suggested slug: ba-den
 - Suggested dot: 5 — the peak over the plain is the other half of the night
 - Photo must show: the peak, the plain, and either a cable cabin or the pilgrim path, one frame, subject through the center. A statue portrait that loses the head does not pass.
-- unpublished: no licensed photo
+- published 23 Oct 2026 as one visit. Hero: cable cabin, forest, and the plain, Baoothersks, CC BY-SA 4.0, File:Aerial tram in Black Virgin Mountain.jpg. Second: summit statue above the plain, Vivu Vietnam, CC BY-SA 4.0, File:Ba Den Mountain summit temple illuminated night fog Tay Ninh Vietnam.jpg. The cable lines, the Black Lady temple cluster, and the summit statues stay on this page.
 - Area, all kept: about 24 km² on the national card (S12). Nearly 2,000 ha for the 1986 landscape reserve, Decision 194/CT of 9 Aug 1986 (S13). 24 km² is 2,400 ha. Do not average them.
 - Recognition: Decision 100-VH/QĐ, and on the biodiversity page 100/VH-QĐ, both dated 21 Jan 1989 (S8, S13). Letter 3948 of 4 Oct 2016 lists the five zone-I points (S8).
 - War units, both kept: Hậu cần 82 on the mountain board (S8). Hậu cần 32 on the biodiversity page (S13). Liên đội 7 for 15 years is on both.
@@ -103,7 +103,7 @@ From 1 Jul 2025 the old city wards are phường Tân Ninh, the Holy See’s old
 - Suggested slug: dau-tieng
 - Suggested dot: 3 — a sunset once the temple and the mountain are planned
 - Photo must show: the water in the foreground, an island or the far shore through the center, and the sky only as the top of the frame. A canoe can be small. Empty water with no shore does not pass.
-- unpublished: no licensed photo
+- published 23 Oct 2026. Hero: water, intake tower, and the far bank, Nguoitaihinh, CC BY-SA 3.0, File:Hodautieng.jpg. Second: the pier tower, Skydtt, CC BY-SA 4.0, File:Ho dau tieng.jpg. Watermarked shore frames and satellite frames were rejected.
 - Sources: S1, S14, S15, S16, S20
 
 ### Chùa Gò Kén
