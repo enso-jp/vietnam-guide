@@ -10,7 +10,10 @@ These stay “Check on arrival” on the public pages. Do not fill them from mem
 - Bach Dinh ticket price, and which of the two printed hour lines is in force. Addresses 4 Trần Phú and 6 Trần Phú both appear.
 - Christ the King gate hour. Entry is free on the Vietnam Tourism page.
 - A single agreed length for Back Beach. Only the 3 km line was used.
-- Stall prices, the central market address, and any shop name as a pick.
+- Stall prices Vietnam Tourism still does not print. Vietnam Airlines printed reference ranges on 23 Oct 2026 for the dishes on that article. Hours for those kitchens were not printed. Check on arrival.
+- The central market address, and any shop name as a pick.
+- The provincial food article at ittpa.baria-vungtau.gov.vn did not resolve on 23 Oct 2026, so gỏi sứa, gỏi sò huyết, and the other dishes in that snippet were not filed.
+- Licensed photos for every specialty except bánh khọt and bánh tiêu.
 - Bar brands, drink prices, and a closing hour on Front Beach.
 - The hour the peninsula goes quiet.
 - Worldwide Arms Museum address.

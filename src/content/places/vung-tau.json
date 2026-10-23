@@ -35,7 +35,7 @@
   "intro": [
     "You wake on Back Beach to a low surf, a hotel line along the sand, and Small Mountain at the end of the bay. The other picture is the white Christ figure on that headland, arms out. Stay here if the beach and that statue are the trip. Go back to Ho Chi Minh City if you wanted the city and only borrowed a beach afternoon.",
     "Swim on Back Beach. Vietnam Tourism describes the waves as fairly flat and suitable for children. Front Beach, the arc between the two mountains, is the evening walk and a drink after dark. The mistake is to photograph Mary, holding a child on Big Mountain, and caption her as the Christ statue. Both figures are printed at 32 metres.",
-    "Eat bánh khọt on Nguyễn Trường Tộ, one cake at a time with herbs and fish sauce. After the swim, the night seafood market is on the same sand: you choose the fish and the cooking. A stall price is check on arrival."
+    "Eat bánh khọt on Nguyễn Trường Tộ, one cake at a time with herbs and fish sauce. The stingray pot, crab bánh canh, and squid hủ tiếu are the other bowls Vietnam Tourism names. After the swim, the night seafood market is on the same sand: you choose the fish and the cooking. Where a price was not printed, it is Check on arrival."
   ],
   "gettingAround": [
     "Ho Chi Minh City is the usual previous stop. The provincial catalogue prints about 100 km by the Long Thanh–Ho Chi Minh City expressway, and about 95 km from Bien Hoa. Vietnam Tourism prints just 100 kilometres and just two hours. A minute table for traffic was not on those pages. Treat about two hours as the tourism-board figure.",
@@ -58,22 +58,44 @@
     }
   ],
   "eat": [
-    "Bánh khọt is the snack Vietnam Tourism says a Vung Tau trip is incomplete without. Eat it on Nguyễn Trường Tộ, one cake at a time, herbs around it, sauce on the side. The stingray pot and the Back Beach night market are the other meals. A stall price is check on arrival."
+    "Bánh khọt is the snack Vietnam Tourism says a Vung Tau trip is incomplete without. Eat it on Nguyễn Trường Tộ, one cake at a time, herbs around it, sauce on the side. The stingray pot, crab bánh canh, squid hủ tiếu, and the Back Beach night market are the other meals. Where a price was not printed, it is Check on arrival."
   ],
-  "dishSlugs": ["banh-khot", "banh-tieu"],
+  "dishSlugs": [
+    "banh-khot",
+    "banh-tieu",
+    "lau-ca-duoi",
+    "banh-canh-ghe",
+    "bun-rieu-tom",
+    "hu-tieu-muc",
+    "goi-ca-mai",
+    "chao-hau",
+    "oc-vung-tau",
+    "hau-nuong-pho-mai",
+    "banh-canh-cha-ca",
+    "bun-sua",
+    "goi-cuon-tom",
+    "bun-oc",
+    "lau-tom-5-ri",
+    "banh-bong-lan-trung-muoi",
+    "banh-mi-bo-nuong",
+    "tau-hu-nong",
+    "kem-bo-sau-rieng",
+    "khoai-tay-dai",
+    "banh-canh-long-huong"
+  ],
   "interestsBody": [
-    "Dining is bánh khọt and the seafood you choose at the Back Beach night market.",
+    "Dining starts with bánh khọt, then the stingray pot, crab bánh canh, and the seafood you choose at the Back Beach night market.",
     "Back Beach is the morning swim. Front Beach is the arc after dark.",
     "The white statue on Small Mountain is Christ the King. Mary on Big Mountain is a different figure."
   ],
   "interestGroups": [
     {
       "title": "Dining and F&B",
-      "summary": "Bánh khọt, herbs, and fish sauce, then the night catch on Back Beach.",
+      "summary": "Bánh khọt, the stingray pot, and the night catch on Back Beach.",
       "cards": [
         {
           "title": "Dining and F&B",
-          "summary": "The small molded cakes on Nguyễn Trường Tộ, and seafood you choose on the Back Beach sand after dark.",
+          "summary": "The small molded cakes on Nguyễn Trường Tộ, the stingray pot, and seafood you choose on the Back Beach sand after dark.",
           "photo": "banh-khot",
           "icon": "food",
           "to": "food"
