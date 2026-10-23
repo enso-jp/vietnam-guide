@@ -2,13 +2,13 @@
   "slug": "cu-chi",
   "name": "Cu Chi food",
   "placeSlug": "cu-chi",
-  "summary": "Eat on a tunnel day. Phú Hòa Đông rice paper, cassava in more than one preparation, Cu Chi veal, pork-knuckle noodle soup, and durian sugarcane juice on National Highway 22 are the plates with an official or a newspaper account. Ho Chi Minh City is the long meal. A stall price that was not printed is Check on arrival.",
+  "summary": "Eat on a tunnel day. Rice paper from Phú Hòa Đông, cassava, Cu Chi veal, pork-knuckle noodle soup, and durian sugarcane juice on National Highway 22 are the plates with a published account. A long meal is in Ho Chi Minh City.",
   "body": [
-    "The Ho Chi Minh City Tourism Promotion Center names boiled tapioca with sesame salt at the Hoàng Cầm kitchen, Cu Chi veal with no plate attached, pork-knuckle noodle soup, durian sugarcane juice along National Highway 22, and rambutan, mangosteen, durian, and jackfruit at Trung An. Tuổi Trẻ, on 5 May 2024, dips the tunnel cassava in salt and does not say sesame. Both stay.",
-    "Phú Hòa Đông rice paper is the recognized craft. Cục Du lịch Quốc gia Việt Nam and Tạp chí Công Thương disagree on the flour, the distance, and the kiln counts, and both accounts stay. Báo Quốc tế puts the craft at more than 50 years. Tạp chí Công Thương puts it at more than 80 years. Công báo Thành phố Hồ Chí Minh prints no start year.",
-    "Báo Quốc tế, Người Lao Động, and Tuổi Trẻ name more plates. Veal in rice paper is boiled on two accounts and grilled just done on the third. Steamed cassava is pandan or coconut cream on one account, and both together on another. A stall price was not printed. Check on arrival. Where an hour was not printed, it is Check on arrival."
+    "Boiled cassava at the Hoàng Cầm kitchen comes with sesame salt and hot tea. Tuổi Trẻ, on 5 May 2024, dips the same root in salt. Both stay. The Ho Chi Minh City Tourism Promotion Center also places Cu Chi veal, pork-knuckle noodle soup, durian sugarcane juice along National Highway 22, and rambutan, mangosteen, durian, and jackfruit at Trung An.",
+    "Phú Hòa Đông rice paper is dried in the sun. One mix is rice flour with coconut water, salt, sugar, and sesame depending on the batch. An older mix is rice flour, water, and salt. The craft is more than 50 years in Báo Quốc tế and more than 80 years in Tạp chí Công Thương. The gazette decision gives no start year.",
+    "Veal in rice paper is boiled on two accounts and grilled just done on the third. Steamed cassava is pandan or coconut cream on one account, and both together on another."
   ],
-  "specialtiesLead": "Rice paper, cassava, Cu Chi veal, and the plates the tourism center and the newspapers name. A price or an hour that was not printed is Check on arrival.",
+  "specialtiesLead": "Rice paper, cassava, Cu Chi veal, pork-knuckle noodle soup, and durian sugarcane juice, then the other plates with a published account.",
   "dishSlugs": [
     "cu-chi--banh-trang",
     "cu-chi--khoai-mi-luoc",
@@ -54,292 +54,194 @@
   ],
   "sections": [
     {
-      "id": "specialties",
-      "heading": "Cu Chi specialties",
-      "nav": "Specialties",
+      "id": "more",
+      "heading": "More plates",
+      "nav": "More",
       "paragraphs": [
-        "These are the foods a publisher names in Củ Chi. A name with no method stays a name. A shop name is not an address."
+        "These are the other plates recorded for Củ Chi."
       ],
       "spots": [
-        {
-          "name": "Phú Hòa Đông rice paper",
-          "nameVi": "bánh tráng Phú Hòa Đông",
-          "address": "xã Phú Hòa Đông",
-          "dishSlug": "cu-chi--banh-trang",
-          "note": "The craft is nghề sản xuất bánh tráng, recognized at the old xã Phú Hòa Đông by Quyết định 4568/QĐ-UBND, gazette date 14 Oct 2024. The decision does not describe a taste. Cục Du lịch Quốc gia Việt Nam quotes a maker: the main ingredient is rice flour, a little sticky-rice flour in the past, wheat flour at some kilns now, plus coconut water, salt, sugar, and sesame depending on the batch. Tạp chí Công Thương describes the older mix as rice flour, water, and salt, poured thin, lifted with a bamboo tube, and dried in the sun. Both mixes stay. A serving was not printed. Check on arrival. The magazine says a stack is counted to 100, and that the craft is more than 80 years old. Báo Quốc tế, on 11 Aug 2024, says residents cannot date the start and puts it at more than 50 years. The decision does not print a start year. All three stay. Production on that magazine visit starts at 2:00. Before Tết, a quoted household goes from about 18–20 kg of rice toward about 25 kg. Those are production figures, not a restaurant hour. Distance: more than about 40 km (Cục Du lịch Quốc gia Việt Nam) and about 40 km (Tạp chí Công Thương). Kilns: about 100 kilns, about 40 tons a day, about two-thirds export, about 6,000 workers (Cục Du lịch Quốc gia Việt Nam). HTV prints 62 establishments, of which 10 enterprises, 1 cooperative, and 41 business households, plus 20 households still working by hand, and one firm at 15–20 tons a day. Do not average the counts."
-        },
-        {
-          "name": "Boiled tapioca with sesame salt",
-          "nameVi": "khoai mì luộc muối mè",
-          "address": "Hoàng Cầm kitchen on the relic. Which gate was not printed.",
-          "dishSlug": "cu-chi--khoai-mi-luoc",
-          "note": "The Ho Chi Minh City Tourism Promotion Center calls it a wartime dish served with hot tea at the underground Hoàng Cầm kitchen, and says it is complimentary. Tuổi Trẻ, on 5 May 2024, calls boiled cassava dipped in salt a wartime snack on the relic, and does not say sesame, tea, or complimentary. Both stay. Khu di tích lịch sử Địa đạo Củ Chi, in the 2021 notice, names specialties at Chợ Quê and does not name tapioca. Do not turn complimentary into a menu. A clock for the kitchen was not printed. Check on arrival."
-        },
-        {
-          "name": "Steamed cassava",
-          "nameVi": "khoai mì hấp",
-          "address": "Along the roads toward Củ Chi, at the tunnels, and at chợ Củ Chi and chợ Việt Kiều",
-          "dishSlug": "cu-chi--khoai-mi-hap",
-          "note": "Người Lao Động says Củ Chi cassava is steamed with pandan or with coconut cream, and that the root is also ground for bánh tằm. It is sold along the roads toward Củ Chi and cooked for tunnel visitors. Báo Quốc tế describes steamed cassava with pandan and sesame salt, mixed with coconut cream, around the tunnels. Both accounts stay. Tuổi Trẻ names khoai mì hấp at chợ Củ Chi and chợ Việt Kiều. This is a different plate from the boiled cassava with sesame salt at the Hoàng Cầm kitchen. No price was printed. Check on arrival. The hour is Check on arrival."
-        },
         {
           "name": "Cassava rolled in rice paper",
           "nameVi": "khoai mì quết cuốn bánh tráng",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--khoai-mi-cuon",
-          "note": "Báo Quốc tế describes khoai mì boiled in fresh coconut water, mashed with sugar, salt, and scallion oil, spooned onto rice paper with herbs and sliced boiled pork or fried shrimp. The headline says a dip of mắm tỏi ớt. The body says mắm tỏi. Both stay. No street was printed. Check on arrival. No price was printed. Check on arrival."
+          "note": "Cassava boiled in coconut water, mashed with sugar, salt, and scallion oil, then rolled in rice paper with herbs and pork or shrimp. The dip is garlic fish sauce, with chili in one wording."
         },
         {
           "name": "Cassava bánh tằm",
           "nameVi": "bánh tằm",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--banh-tam",
-          "note": "Người Lao Động says Củ Chi cassava is ground to flour and made into bánh tằm, beside steaming with pandan or coconut cream. Tuổi Trẻ names bánh tằm as an order at a stall that has operated for more than 30 years, and prints no street. No price was printed. Check on arrival. The hour is Check on arrival."
-        },
-        {
-          "name": "Cu Chi veal",
-          "nameVi": "bò tơ Củ Chi",
-          "address": "Check on arrival",
-          "dishSlug": "cu-chi--bo-to",
-          "note": "The Ho Chi Minh City Tourism Promotion Center calls it local veal and says it is prepared into various dishes, without naming one. No cut and no stall were printed. Tuổi Trẻ, on 25 Jun 2018, says the meat is fine-grained and red, and that unnamed chefs use animals of about 5–6 months. Người Lao Động says the animals are just past calf age and that farms feed them a grass of this district. When to order it is Check on arrival. No price was printed. Check on arrival."
+          "note": "Bánh tằm made from Củ Chi cassava flour."
         },
         {
           "name": "Veal rolled in rice paper",
           "nameVi": "bò tơ cuốn bánh tráng",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--bo-to-cuon",
-          "note": "Người Lao Động boils or steams thin rounds, skin on, with spring-onion tops and ginger, and rolls bánh tráng phơi sương with forest greens, a little bún, and sour pickles. The dip is sweet-sour fish sauce, or mắm nêm with chopped pineapple. Tuổi Trẻ calls the boiled roll the usual plate, with lá cóc, lá ổi, celery, spring onion, and mango tips, and also describes belly or shank rolled with raw greens. Báo Quốc tế grills the veal just done, then rolls it with forest greens. All three stay. No street was printed. Check on arrival. No price was printed. Check on arrival."
+          "note": "Thin veal rolled in rice paper with forest greens, boiled until soft and fragrant, or soft and sweet with crisp skin. One account grills the meat just done and rolls it the same way."
         },
         {
           "name": "Crispy rice with kho veal",
           "nameVi": "cơm cháy bò tơ kho",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--com-chay-bo-kho",
-          "note": "Báo Quốc tế names cơm cháy bò tơ kho and prints no steps. Tuổi Trẻ names bò tơ kho sả eaten with crispy rice, and cơm cháy bò kho sả. Both wordings stay. Tuổi Trẻ calls the boiled rice-paper roll the older plate. No street was printed. Check on arrival. No price was printed. Check on arrival."
-        },
-        {
-          "name": "Grilled Cu Chi veal",
-          "nameVi": "bò tơ nướng",
-          "address": "Check on arrival",
-          "dishSlug": "cu-chi--bo-to-nuong",
-          "note": "Báo Quốc tế names bò tơ nướng mọi and nướng mè. Tuổi Trẻ names bò nướng vỉ, bò nướng mọi, and bò tơ nướng lụi, and says some people grill at the table. These names stay separate. No street was printed. Check on arrival. No price was printed. Check on arrival."
+          "note": "Kho veal eaten with crispy rice. One wording is cơm cháy bò tơ kho, and another is lemongrass kho veal with the same crisp rice."
         },
         {
           "name": "Durian sugarcane juice",
           "nameVi": "nước mía sầu riêng",
-          "address": "National Highway 22. No marker was printed.",
+          "address": "National Highway 22",
           "dishSlug": "cu-chi--nuoc-mia-sau-rieng",
-          "note": "The Ho Chi Minh City Tourism Promotion Center places durian sugarcane juice along National Highway 22 and prints no stall and no recipe. Báo Quốc tế places it on the same highway and says the juice is sugarcane with durian or with mung bean. Tuổi Trẻ says one stall has sold it for more than 30 years and prints no street. No price was printed. Check on arrival. The hour is Check on arrival."
+          "note": "Sugarcane juice along National Highway 22, cool, with the aroma of durian. One account uses mung bean in place of the fruit."
         },
         {
           "name": "Bamboo-shoot salad",
           "nameVi": "gỏi măng trộn tôm thịt",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--goi-mang",
-          "note": "Người Lao Động uses măng tre tàu, shaved and boiled until ivory, mixed with boiled belly pork and shrimp, rau răm, fried shallot, and peanuts, eaten plain or with fried shrimp crackers and sweet-sour fish sauce. Báo Quốc tế uses fresh bamboo, belly pork, peeled shrimp, garlic, and chili, and says some kitchens toss the sauce in and some leave it on the side. Both stay. No street was printed. Check on arrival. No price was printed. Check on arrival."
+          "note": "Bamboo shoot shaved and boiled, then mixed with belly pork, shrimp, rau răm, fried shallot, and peanuts. Sweet-sour fish sauce is tossed in, or left on the side."
         },
         {
           "name": "Young jackfruit salad",
           "nameVi": "gỏi mít non",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--goi-mit-non",
-          "note": "Người Lao Động boils young jackfruit, then mixes it with boiled pork, shrimp, or chicken, sweet-sour fish sauce, herbs, cilantro, and sesame. Báo Quốc tế mixes it with pork and shrimp and does not mention chicken. Both stay. Eat with rice, or as a plate with drinks. No street was printed. Check on arrival. No price was printed. Check on arrival."
+          "note": "Boiled young jackfruit mixed with pork and shrimp, sweet-sour fish sauce, herbs, and sesame. One account also adds chicken."
         },
         {
           "name": "Frog with lá lốt",
           "nameVi": "ếch xào lá lốt",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--ech-xao-la-lot",
-          "note": "Người Lao Động stir-fries frog with the skin on, in four pieces, and adds young lá lốt at the end. The frogs are field frogs or garden frogs. Người Lao Động says the leaves grow in local gardens without fertilizer. No street was printed. Check on arrival. No price was printed. Check on arrival."
+          "note": "Frog stir-fried with the skin on, finished with young lá lốt."
         },
         {
           "name": "Grilled arowana",
           "nameVi": "cá hải tượng nướng muối ớt",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--ca-hai-tuong",
-          "note": "Người Lao Động seasons arowana with salt and satay, grills it over charcoal, and serves green chili salt and herbs. Báo Quốc tế names cá hải tượng nướng muối ớt and prints no method. No street was printed. Check on arrival. No price was printed. Check on arrival."
+          "note": "Arowana grilled with salt and chili. One account seasons it with satay over charcoal and serves green-chili salt and herbs."
         },
         {
           "name": "Chicken grilled in a clay pot",
           "nameVi": "gà nướng lu than hồng",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--ga-nuong-lu",
-          "note": "Báo Quốc tế describes gà nướng lu than hồng: a marinade, smoke, golden crisp skin, meat that stays soft, with crispy rice and scallion fat and lemongrass salt. No street was printed. Check on arrival. No price was printed. Check on arrival."
+          "note": "Chicken grilled in a clay pot over embers, with crisp golden skin and meat that stays soft. It comes with crispy rice, scallion fat, and lemongrass salt."
         },
         {
           "name": "Beef hoof and tendon porridge",
           "nameVi": "cháo dựng bò",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--chao-dung-bo",
-          "note": "Báo Quốc tế cooks beef hoof and tendon with mung beans, peanuts, white beans, khoai, and cassava, then adds rau má, mồng tơi, and cải. No street was printed. Check on arrival. No price was printed. Check on arrival."
+          "note": "Porridge of beef hoof and tendon with mung beans, peanuts, white beans, and cassava, finished with rau má and leafy greens."
         },
         {
           "name": "Giant freshwater prawn",
           "nameVi": "tôm càng xanh",
-          "address": "Kênh Đông and the Sài Gòn river, on the Báo Quốc tế account. No kitchen was printed.",
+          "address": "Kênh Đông and the Sài Gòn river",
           "dishSlug": "cu-chi--tom-cang-xanh",
-          "note": "Báo Quốc tế says giant freshwater prawns are raised along kênh Đông and the Sài Gòn river, and that they are grilled, steamed, or cooked in a hotpot. All three stay. No kitchen street was printed. Check on arrival. No price was printed. Check on arrival."
-        },
-        {
-          "name": "Cu Chi beef noodle soup",
-          "nameVi": "bún bò Củ Chi",
-          "address": "Check on arrival",
-          "dishSlug": "cu-chi--bun-bo",
-          "note": "Báo Quốc tế describes bún bò Củ Chi as soft, fragrant beef in a rich broth, with soft noodles. No street was printed. Check on arrival. No price was printed. Check on arrival."
+          "note": "Giant freshwater prawn from kênh Đông and the Sài Gòn river, with meat that is fresh, sweet, and firm. It is grilled, steamed, or cooked in a hotpot."
         },
         {
           "name": "Pickled rau móp",
           "nameVi": "rau móp muối chua",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--rau-mop",
-          "note": "Báo Quốc tế says pickled rau móp is sour, crisp, and cool, and that the whole plant is used. Young leaves and tips go into the brine. The same account also names a garlic stir-fry, sour soup, chicken steamed with the greens, and salads of chicken, shrimp, or beef. Báo Quốc tế also pairs it with steamed beef. No street was printed. Check on arrival. No price was printed. Check on arrival."
+          "note": "Pickled rau móp, sour, crisp, and cool, made from the young leaves and tips."
         },
         {
           "name": "Eel and taro porridge",
           "nameVi": "cháo lươn môn",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--chao-luon-mon",
-          "note": "Báo Quốc tế describes cháo lươn môn with lemongrass and mắm ruốc, sweet eel, and soft taro, and says the bowl is different from eel porridge in Nghệ An and the north. No street was printed. Check on arrival. No price was printed. Check on arrival."
-        },
-        {
-          "name": "Beef grilled in lá lốt",
-          "nameVi": "bò nướng lá lốt",
-          "address": "Check on arrival",
-          "dishSlug": "cu-chi--bo-la-lot",
-          "note": "Báo Quốc tế grills beef in lá lốt, sometimes with mỡ chài, and serves lettuce, basil, fish mint, green banana, cucumber, star fruit, and mắm nêm. The same account uses the names bò nướng lá lốt, bò lá lốt, and thịt bò lá lốt. No street was printed. Check on arrival. No price was printed. Check on arrival."
-        },
-        {
-          "name": "Trung An fruit",
-          "nameVi": "trái cây Trung An",
-          "address": "Trung An. Which side of the 2025 commune line was not printed.",
-          "dishSlug": "cu-chi--trung-an-fruit",
-          "note": "The Ho Chi Minh City Tourism Promotion Center says you eat rambutan, mangosteen, durian, and jackfruit from the trees at Trung An. Clause 129 put the old xã Trung An into xã Bình Mỹ. The orchard’s side of that line was not printed. No price was printed. Check on arrival. The hour is Check on arrival."
+          "note": "Eel and taro porridge with lemongrass and mắm ruốc. The eel is sweet and the taro is soft."
         },
         {
           "name": "Crisp-fried cá trèn",
           "nameVi": "cá trèn chiên giòn",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--ca-tren-chien",
-          "note": "Cá trèn, fried crisp. Báo Quốc tế names it among countryside dishes in Củ Chi and does not describe the fish further. No street was printed. No price was printed. Check on arrival. The hour is Check on arrival."
+          "note": "Cá trèn fried until the skin is crisp."
         },
         {
           "name": "Loofah stir-fried with lá quế",
           "nameVi": "rau mướp xào lá quế",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--rau-muop-xao",
-          "note": "Loofah stir-fried with lá quế. Báo Quốc tế names the dish in Củ Chi and does not list the rest of the pan. No street was printed. No price was printed. Check on arrival. The hour is Check on arrival."
+          "note": "Loofah stir-fried with lá quế."
         },
         {
           "name": "Grilled sparrow",
           "nameVi": "chim sẻ nướng",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--chim-se-nuong",
-          "note": "Grilled sparrow. Báo Quốc tế names chim sẻ nướng among countryside dishes in Củ Chi and prints no method beyond the grill. No street was printed. No price was printed. Check on arrival. The hour is Check on arrival."
+          "note": "Sparrow grilled over a fire."
         },
         {
           "name": "Chim lá",
           "nameVi": "chim lá",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--chim-la",
-          "note": "Chim lá. Báo Quốc tế names it among countryside dishes in Củ Chi and does not say what is on the plate. No street was printed. No price was printed. Check on arrival. The hour is Check on arrival."
+          "note": "Chim lá, one of the countryside dishes."
         },
         {
           "name": "Stir-fried bánh lọt",
           "nameVi": "bánh lọt xào",
           "address": "chợ Củ Chi and chợ Việt Kiều",
           "dishSlug": "cu-chi--banh-lot-xao",
-          "note": "Stir-fried bánh lọt. Tuổi Trẻ, on 5 May 2024, names it among specialties at chợ Củ Chi and chợ Việt Kiều and does not describe the pan. No price was printed. Check on arrival. The hour is Check on arrival."
-        },
-        {
-          "name": "Chicken bánh canh",
-          "nameVi": "bánh canh gà",
-          "address": "chợ Củ Chi and chợ Việt Kiều",
-          "dishSlug": "cu-chi--banh-canh-ga",
-          "note": "Chicken bánh canh. Tuổi Trẻ, on 5 May 2024, names it among specialties at chợ Củ Chi and chợ Việt Kiều and does not describe the broth. No price was printed. Check on arrival. The hour is Check on arrival."
-        },
-        {
-          "name": "Cambodian-style bánh khọt",
-          "nameVi": "bánh khọt kiểu Campuchia",
-          "address": "chợ Củ Chi and chợ Việt Kiều",
-          "dishSlug": "cu-chi--banh-khot-campuchia",
-          "note": "Bánh khọt in a Cambodian style. Tuổi Trẻ, on 5 May 2024, names it at chợ Củ Chi and chợ Việt Kiều and does not describe the batter. No price was printed. Check on arrival. The hour is Check on arrival."
-        },
-        {
-          "name": "Hủ tiếu",
-          "nameVi": "hủ tiếu",
-          "address": "chợ Củ Chi and chợ Việt Kiều",
-          "dishSlug": "cu-chi--hu-tieu",
-          "note": "Hủ tiếu. Tuổi Trẻ, on 5 May 2024, names it among specialties at chợ Củ Chi and chợ Việt Kiều. The toppings were not printed. No price was printed. Check on arrival. The hour is Check on arrival."
-        },
-        {
-          "name": "Bánh bao",
-          "nameVi": "bánh bao",
-          "address": "chợ Củ Chi and chợ Việt Kiều",
-          "dishSlug": "cu-chi--banh-bao",
-          "note": "Bánh bao. Tuổi Trẻ, on 5 May 2024, prints it in the market list with hủ tiếu, at chợ Củ Chi and chợ Việt Kiều, and does not describe the filling. No price was printed. Check on arrival. The hour is Check on arrival."
-        },
-        {
-          "name": "Bánh bò",
-          "nameVi": "bánh bò",
-          "address": "Check on arrival",
-          "dishSlug": "cu-chi--banh-bo",
-          "note": "Bánh bò. Tuổi Trẻ, on 5 May 2024, names it among orders at a stall open more than 30 years, with the durian sugarcane juice, and prints no street and no method. No street was printed. No price was printed. Check on arrival. The hour is Check on arrival."
-        },
-        {
-          "name": "Veal and forest-green hotpot",
-          "nameVi": "lẩu bò tơ rau rừng",
-          "address": "Check on arrival",
-          "dishSlug": "cu-chi--lau-bo-rau-rung",
-          "note": "A hotpot of veal and forest greens. Báo Quốc tế names lẩu bò tơ rau rừng among Cu Chi veal plates and does not describe the broth. No street was printed. No price was printed. Check on arrival. The hour is Check on arrival."
+          "note": "Stir-fried bánh lọt from chợ Củ Chi and chợ Việt Kiều."
         },
         {
           "name": "Veal dipped in vinegar",
           "nameVi": "bò tơ nhúng dấm",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--bo-nhung-dam",
-          "note": "Veal dipped in vinegar. Báo Quốc tế names bò tơ nhúng dấm. Tuổi Trẻ names bò nhúng hèm, which is a separate name. No street was printed. No price was printed. Check on arrival. The hour is Check on arrival."
+          "note": "Veal cooked by dipping it in vinegar."
         },
         {
           "name": "Veal dipped in hèm",
           "nameVi": "bò nhúng hèm",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--bo-nhung-hem",
-          "note": "Veal dipped in hèm. Tuổi Trẻ, on 25 Jun 2018, names bò nhúng hèm among plates of Cu Chi veal and does not define hèm. It is not the vinegar dip. No street was printed. No price was printed. Check on arrival. The hour is Check on arrival."
+          "note": "Veal dipped in hèm."
         },
         {
           "name": "Beef porridge",
           "nameVi": "cháo bò",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--chao-bo",
-          "note": "Beef porridge. Tuổi Trẻ, on 25 Jun 2018, names cháo bò among plates of Cu Chi veal. Cháo dựng bò, with hoof and tendon, is a different name and stays separate. No street was printed. No price was printed. Check on arrival. The hour is Check on arrival."
+          "note": "Beef porridge, a separate bowl from the hoof-and-tendon porridge."
         },
         {
           "name": "Chả đùm veal",
           "nameVi": "chả đùm bò",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--cha-dum-bo",
-          "note": "Chả đùm bò. Tuổi Trẻ, on 25 Jun 2018, names it among plates of Cu Chi veal and does not describe the wrap. No street was printed. No price was printed. Check on arrival. The hour is Check on arrival."
+          "note": "Chả đùm made with veal."
         },
         {
           "name": "Oxtail hotpot",
           "nameVi": "lẩu đuôi bò",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--lau-duoi-bo",
-          "note": "Oxtail hotpot. Tuổi Trẻ, on 25 Jun 2018, names lẩu đuôi bò among plates of Cu Chi veal and does not describe the broth. No street was printed. No price was printed. Check on arrival. The hour is Check on arrival."
+          "note": "Oxtail hotpot."
         },
         {
           "name": "Beef offal steamed with ginger",
           "nameVi": "lòng bò hấp gừng",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--long-bo-hap-gung",
-          "note": "Beef offal steamed with ginger. Tuổi Trẻ, on 25 Jun 2018, names lòng bò hấp gừng among plates of Cu Chi veal and prints no further method. No street was printed. No price was printed. Check on arrival. The hour is Check on arrival."
+          "note": "Beef offal steamed with ginger."
         },
         {
           "name": "Turmeric stir-fried veal",
           "nameVi": "bò xào nghệ",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--bo-xao-nghe",
-          "note": "Veal stir-fried with turmeric. Tuổi Trẻ, on 25 Jun 2018, names bò xào nghệ as the sort of plate a veal shop adds of its own, and prints no shop and no method. No street was printed. No price was printed. Check on arrival. The hour is Check on arrival."
+          "note": "Veal stir-fried with turmeric."
         }
       ]
     },
@@ -349,32 +251,32 @@
       "nav": "Casual",
       "role": "casual",
       "paragraphs": [
-        "Two workshop lanes and two town markets. None of them is a map of stalls."
+        "Two workshop lanes and two town markets."
       ],
       "spots": [
         {
           "name": "Phú Hòa Đông rice-paper lanes",
           "nameVi": "làng nghề bánh tráng Phú Hòa Đông",
           "address": "xã Phú Hòa Đông, on the river",
-          "note": "A workshop lane, not a row of restaurants. Walk it on a tunnel outing, where sheets dry on racks. A visitor hour was not printed. Check on arrival. Clause 128 keeps the name xã Phú Hòa Đông and adds the old xã Tân Thạnh Tây and xã Tân Thạnh Đông."
+          "note": "Workshop lanes in xã Phú Hòa Đông, where rice-paper sheets dry on racks. Walk them on a tunnel outing."
         },
         {
           "name": "Chợ Quê",
           "nameVi": "Chợ Quê",
-          "address": "On the relic. The notice does not say Bến Dược or Bến Đình.",
-          "note": "Khu di tích lịch sử Địa đạo Củ Chi, in the 2021 reopening, says visitors eat specialties at Chợ Quê. No dish list and no stall map. The gate that day is 7:00–17:00. A market-only hour was not printed. Check on arrival."
+          "address": "On the relic",
+          "note": "The market inside the tunnel gate, where visitors eat on the 2021 reopening. The gate that day runs 7:00–17:00."
         },
         {
           "name": "Chợ Củ Chi",
           "nameVi": "chợ Củ Chi",
           "address": "Check on arrival",
-          "note": "Tuổi Trẻ, on 5 May 2024, names chợ Củ Chi with chợ Việt Kiều for khoai mì hấp, bánh lọt xào, bánh bao, hủ tiếu, bánh canh gà, and bánh khọt kiểu Campuchia. No street number was printed. Check on arrival. The hour is Check on arrival."
+          "note": "A town market for steamed cassava, stir-fried bánh lọt, bánh bao, hủ tiếu, chicken bánh canh, and Cambodian-style bánh khọt."
         },
         {
           "name": "Chợ Việt Kiều",
           "nameVi": "chợ Việt Kiều",
           "address": "Check on arrival",
-          "note": "Tuổi Trẻ, on 5 May 2024, pairs chợ Việt Kiều with chợ Củ Chi for the same market foods. No street number was printed. Check on arrival. The hour is Check on arrival."
+          "note": "The other market for those same plates, paired with chợ Củ Chi."
         }
       ]
     },
@@ -384,7 +286,7 @@
       "nav": "Breakfast",
       "role": "breakfast",
       "paragraphs": [
-        "Pork-knuckle noodle soup is the breakfast a publisher names. The street is not."
+        "Pork-knuckle noodle soup is the local breakfast."
       ],
       "spots": [
         {
@@ -392,12 +294,13 @@
           "nameVi": "bún giò heo",
           "address": "Check on arrival",
           "dishSlug": "cu-chi--bun-gio-heo",
-          "note": "The Ho Chi Minh City Tourism Promotion Center calls bún giò heo a long-standing local breakfast and prints no hour and no street. How to eat it was not printed. No price was printed. Check on arrival. The hour is Check on arrival."
+          "note": "Pork-knuckle noodle soup, the long-standing local breakfast."
         }
       ]
     }
   ],
   "verified": "23 Oct 2026",
   "seoTitle": "Cu Chi food — rice paper, cassava, and veal",
-  "seoDescription": "Phú Hòa Đông rice paper, cassava, Cu Chi veal, pork-knuckle noodle soup, and durian sugarcane juice. Newspapers name more plates. Stall prices are Check on arrival."
+  "seoDescription": "Rice paper from Phú Hòa Đông, cassava, Cu Chi veal, pork-knuckle noodle soup, and durian sugarcane juice on National Highway 22.",
+  "heroSlug": "cu-chi--banh-trang"
 }
