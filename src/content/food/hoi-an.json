@@ -2,14 +2,14 @@
   "slug": "hoi-an",
   "name": "Hoi An food guide",
   "placeSlug": "hoi-an",
-  "summary": "Hoi An’s bowl is cao lầu, tossed while it is hot. White rose dumplings are a small warm plate. Bánh đập is the Cẩm Nam cracker. Nước mót is the herb drink, and the herb list depends on who printed it.",
+  "summary": "Hoi An’s bowl is cao lầu: thick rice noodles barely wet with pork broth, under char siu, crisp ram, and Trà Quế herbs, tossed while it is hot. Then a warm white rose dumpling, a bánh đập cracker with stir-fried clams in Cẩm Nam, and a cup of nước mót on the walk.",
   "heroSlug": "cao-lau",
   "body": [
-    "Eat cao lầu in the old town. People here call these noodles bánh. The heritage centre’s 11 August 2025 article separates them from mì. The noodles are thick, the broth only wets them, and the herbs are from Trà Quế. The bowl looks related to mì Quảng. It is a different dish.",
-    "White rose dumplings are eaten warm, one at a bite. Vietnam Tourism says the wrapper is rice flour. The conservation centre’s 4 September 2024 article, republishing Dân Việt, says wheat flour. Chicken rice is shredded chicken and yellow rice. Vietnam Tourism pairs it with herbs, chicken soup, and a sour papaya salad. The conservation centre’s 4 December 2025 article prints rau răm and ginger fish sauce. Its 30 October 2024 note prints pickled vegetables and chili sauce.",
-    "Bánh mì is the morning stall in the old town. Bánh đập, in Cẩm Nam, is the cracker you break by hand and often eat with hến xào. Hoành thánh is the wonton, in broth or fried. Bánh xoài, near the Japanese bridge, is a chewy sweet named for its shape. Vietnam Tourism fills it with peanuts and brown sugar. The 4 December 2025 article fills it with peanut, sesame, and ginger. Nước mót is the herb drink. Vietnam Tourism lists ginger, lemongrass, cinnamon, licorice, lemon, green tea, chamomile, and monk fruit. The December article lists monk fruit, licorice, chrysanthemum, and lotus leaf."
+    "Eat cao lầu in the old town. People here call the noodles bánh, not mì: thick rice noodles with only a splash of pork broth, char siu, crisp ram, and herbs from Trà Quế. It looks like a cousin of mì Quảng, and it is a different dish.",
+    "White rose dumplings are one warm bite each: a thin wrapper, of rice flour or wheat flour depending on the cook, around shrimp and pork, topped with fried shallot and dipped in sweet-sour fish sauce. Cơm gà is the rice lunch, shredded chicken over yellow rice cooked in chicken broth and turmeric, with rau răm, a sour papaya salad or pickles, a bowl of soup, and ginger fish sauce or chili sauce.",
+    "Mornings start with bánh mì from a street stall. Cross to Cẩm Nam for bánh đập, the cracker you break by hand and eat with stir-fried clams. Hoành thánh comes fried or in broth, bánh xoài is the chewy sweet sold near the Japanese bridge, and nước mót is the herb drink you carry on the walk."
   ],
-  "specialtiesLead": "The dishes to know by name. A stall clock that was not printed is Check on arrival.",
+  "specialtiesLead": "The dishes to know by name, and what each one tastes like.",
   "dishSlugs": [
     "cao-lau",
     "white-rose",
@@ -26,7 +26,7 @@
       "heading": "More Hoi An dishes",
       "nav": "More dishes",
       "paragraphs": [
-        "These are the other specialties the conservation centre, Vietnam Tourism, and Danang Fantasticity name. Bánh ú tro and bánh ít are named as market gifts on the 7 June 2023 market article and are not described."
+        "Past the bowls above, Hoi An eats rolls you build at the stall, crackers, snails, porridge, and sweet soups. Bánh ú tro and bánh ít sit beside them on the market’s gift counters."
       ],
       "spots": [
         {
@@ -34,168 +34,168 @@
           "nameVi": "Bánh ướt thịt nướng",
           "address": "Along the Hoài",
           "dishSlug": "banh-uot-thit-nuong",
-          "note": "Roll grilled meat in wet rice paper. Vietnam Tourism says pork on lemongrass skewers, with salad, herbs, cucumber, star fruit, and a dip of soybean paste, peanuts, sesame, fish sauce, and chili. The 4 December 2025 article says grilled beef and a rich, mildly hot peanut-butter sauce. Danang Fantasticity does not name the animal. The hour is Check on arrival."
+          "photo": "banh-uot-thit-nuong",
+          "note": "Hot grilled meat rolled in soft wet rice paper with herbs, cucumber, star fruit, and green banana, then dipped. Some stalls grill pork on lemongrass skewers for a dip of soybean paste, peanuts, sesame, and chili; others roll grilled beef with a rich, mildly hot peanut sauce."
         },
         {
           "name": "Bun thit nuong",
           "nameVi": "Bún thịt nướng",
           "address": "Old town",
           "dishSlug": "bun-thit-nuong",
-          "note": "Barbecued pork, rice noodles, and salad greens in a thicker sauce than northern bún chả, on Vietnam Tourism’s Hoi An food article. The 4 December 2025 article adds pork skewers, herbs, crisp chả ram, and sweet-sour fish sauce. The hour is Check on arrival."
+          "photo": "hoi-an-bun-thit-nuong",
+          "note": "Barbecued pork over rice noodles and salad greens, tossed in a sauce thicker than the northern bún chả dip. Some bowls add herbs, crisp chả ram, and sweet-sour fish sauce."
         },
         {
           "name": "Banh dap",
           "nameVi": "Bánh đập",
           "address": "Cẩm Nam",
           "dishSlug": "banh-dap",
-          "note": "Press a crisp rice-paper sheet onto a soft steamed sheet. The 30 May 2023 article dips it in Cửa Đại anchovy mắm cái with sugar and fried-shallot oil. Danang Fantasticity’s Hội An section uses anchovy mắm nêm with sugar, pineapple or lime, and red chili. The hour is Check on arrival."
+          "note": "A crisp grilled rice-paper sheet clapped onto a soft steamed one, so it shatters when you press the middle. Dip it in anchovy sauce with a little sugar, fried-shallot oil or pineapple and lime, and chili."
         },
         {
           "name": "Hen xao",
           "nameVi": "Hến xào",
           "address": "Cẩm Nam",
           "dishSlug": "hen-xao",
-          "note": "Stir-fried clam with onion, scallion, and chili, finished with crushed peanuts, eaten with the cracker. The 30 October 2024 note puts the snack in Cẩm Nam. The hour is Check on arrival."
+          "photo": "hen-xao",
+          "note": "Clams stir-fried with onion, scallion, and chili, finished with crushed roasted peanuts and eaten with crisp rice paper or bánh đập. The clams are sweet and salty against the heat of the chili."
         },
         {
           "name": "Hoanh thanh",
           "nameVi": "Hoành thánh",
           "address": "Old town",
           "dishSlug": "hoanh-thanh",
-          "note": "Fried, in a clear pork-bone broth, or on thin wheat noodles. The 28 June 2011 article fills the dumpling with land shrimp. The 4 September 2024 article fills it with shrimp and pork. A street and the hour are Check on arrival."
+          "photo": "hoanh-thanh",
+          "note": "Hoi An’s wonton, filled with shrimp or with shrimp and pork, three ways: fried crisp under a tomato sauce, in a clear pork-bone broth, or on thin wheat noodles."
         },
         {
           "name": "Grilled pork rice-paper rolls",
           "nameVi": "Bánh tráng cuốn thịt nướng",
-          "address": "Check on arrival",
           "dishSlug": "banh-trang-cuon",
-          "note": "The 7 June 2023 list rolls grilled pork with herbs, star fruit or sour pineapple, green banana, a little bún, and fish sauce or mắm nêm. It is not the boiled Da Nang lunch. A street and the hour are Check on arrival."
+          "note": "Grilled pork still sputtering from the coals, rolled in thin rice paper with herbs, star fruit or sour pineapple, green banana, and a little bún. Dip it in fish sauce or mắm nêm."
         },
         {
           "name": "Tam huu",
           "nameVi": "Tam hữu",
           "address": "Trà Quế",
           "dishSlug": "tam-huu",
-          "note": "One cooked land shrimp, a slice of boiled pork, and mint, tied with a blanched scallion and dipped in sweet-sour fish sauce. Danang Fantasticity’s 16 April 2024 essay places it in the vegetable village. A house and the hour are Check on arrival."
+          "note": "A small vegetable-village roll: one land shrimp, a slice of boiled pork, and a sprig of mint, tied with a blanched scallion and dipped in sweet-sour fish sauce."
         },
         {
           "name": "Bun mam nem",
           "nameVi": "Bún mắm nêm",
-          "address": "Shoulder poles",
+          "address": "Shoulder poles and roadside shops",
           "dishSlug": "bun-mam-nem",
-          "note": "Soft rice noodles with a rich fermented sauce of garlic, chili, and shrimp, on the 4 September 2024 article. A street and the hour are Check on arrival."
+          "note": "Soft rice noodles that soak up a rich fermented fish sauce with garlic, chili, and shrimp."
         },
         {
           "name": "Banh canh",
           "nameVi": "Bánh canh",
-          "address": "Check on arrival",
           "dishSlug": "banh-canh-hoi-an",
-          "note": "Thick noodles in rice flour or bột lọc, with roasted pork, fish cake, herbs, or seafood, plus green chili and garlic-chili fish sauce. This is not the Da Nang snakehead bowl. The hour is Check on arrival."
+          "note": "Thick noodles of rice flour or bột lọc under roasted pork, fish cake, seafood, and herbs, with green chili and garlic-chili fish sauce on the side."
         },
         {
           "name": "Chao ngheu",
           "nameVi": "Cháo nghêu",
-          "address": "Check on arrival",
           "dishSlug": "chao-ngheu",
-          "note": "Morning clam porridge with ginger, scallion, and rau răm. The 4 September 2024 article does not name a street. The hour is Check on arrival."
+          "note": "Rice porridge with sea clams, ginger, scallion, and rau răm, eaten hot at the start of the day."
         },
         {
           "name": "Chao gao luc",
           "nameVi": "Cháo gạo lức",
           "address": "The lanes",
           "dishSlug": "chao-gao-luc",
-          "note": "Evening brown-rice porridge with braised fish, chili, and green winter melon. A street and the hour are Check on arrival."
+          "photo": "chao-gao-luc",
+          "note": "Brown rice cooked soft and eaten with braised fish, chili, and green dưa gang melon. A light bowl for the evening."
         },
         {
           "name": "Be thui",
           "nameVi": "Bê thui",
-          "address": "Check on arrival",
           "dishSlug": "be-thui",
-          "note": "Danang Fantasticity places bê thui Cầu Mống in Điện Bàn. The 7 June 2023 market article rolls grilled veal, herbs, and anchovy mắm in rice paper and does not say that plate is Cầu Mống. The hour is Check on arrival."
+          "photo": "hoi-an-be-thui",
+          "note": "Slices of grilled veal rolled in rice paper with herbs, anchovy mắm, and a green chili. Ride to Điện Bàn for bê thui Cầu Mống, charcoal-roasted young beef that eats slightly sweet, chewy, and nutty."
         },
         {
           "name": "Chan ga cay",
           "nameVi": "Chân gà cay",
-          "address": "Check on arrival",
           "dishSlug": "chan-ga-cay",
-          "note": "A chicken-foot snack in chili, garlic, and onion. The 4 September 2024 article does not name the rest of the sauce, or a street. The hour is Check on arrival."
+          "note": "Soft chicken feet soaked in a hot sauce of chili, garlic, and onion. A street snack, not a meal."
         },
         {
           "name": "Oc xao bo toi",
           "nameVi": "Ốc xào bơ tỏi",
-          "address": "Check on arrival",
           "dishSlug": "oc-xao-bo-toi",
-          "note": "Snails stir-fried with butter and garlic, eaten with bánh mì, on the 7 June 2023 list. Evening. A street and the hour are Check on arrival."
+          "note": "Snails stir-fried with butter and garlic, with bánh mì on the side. An evening plate."
         },
         {
           "name": "Oc hap sa gung",
           "nameVi": "Ốc hấp sả gừng",
-          "address": "Check on arrival",
           "dishSlug": "oc-hap-sa-gung",
-          "note": "Snails steamed with lemongrass and ginger, named as an evening plate on the 7 June 2023 list. A further recipe was not printed. The hour is Check on arrival."
+          "photo": "oc-hap-sa-gung",
+          "note": "Snails steamed with lemongrass and ginger. An evening plate."
         },
         {
           "name": "Oc xao me",
           "nameVi": "Ốc xào me",
-          "address": "Check on arrival",
           "dishSlug": "oc-xao-me",
-          "note": "Snails stir-fried with tamarind, named as an evening plate on the 7 June 2023 list. A further recipe was not printed. The hour is Check on arrival."
+          "note": "Snails stir-fried with tamarind. An evening plate."
         },
         {
           "name": "Banh xoai",
           "nameVi": "Bánh xoài",
           "address": "Near the Japanese bridge",
           "dishSlug": "banh-xoai",
-          "note": "A chewy sweet named for its shape. Vietnam Tourism uses peanuts and brown sugar. The 4 December 2025 article uses peanut, sesame, and ginger. The hour is Check on arrival."
+          "note": "A chewy glutinous-rice sweet, shaped like a mango seed and not made of mango. The filling is crushed peanuts and brown sugar, or peanut, sesame, and shredded ginger with a mild heat."
         },
         {
           "name": "Nuoc mot",
           "nameVi": "Nước mót",
           "address": "Old town",
           "dishSlug": "nuoc-mot",
-          "note": "A herb drink, cold or hot, usually taken away. Vietnam Tourism and the 4 December 2025 article print different herbs. The hour is Check on arrival."
+          "note": "A lightly sweet herb drink, cold after a hot walk or hot in the wet months, usually carried away in the hand. The herbs vary by maker: monk fruit and licorice with ginger, lemongrass, cinnamon, lemon, green tea, and chamomile, or with chrysanthemum and lotus leaf."
         },
         {
           "name": "Che bap",
           "nameVi": "Chè bắp",
           "address": "Cẩm Nam corn",
           "dishSlug": "che-bap",
-          "note": "Corn sweet soup with rock sugar and coconut milk. Danang Fantasticity says the dish did not start in Hội An and that the corn is from Cẩm Nam. The hour is Check on arrival."
+          "photo": "che-bap",
+          "note": "Soft, chewy Cẩm Nam corn in a sweet soup with rock sugar and rich coconut milk. The dish came from elsewhere; the corn is local."
         },
         {
           "name": "Che dau xanh",
           "nameVi": "Chè đậu xanh",
-          "address": "Check on arrival",
           "dishSlug": "che-dau-xanh",
-          "note": "Mung-bean sweet soup, fragrant with coconut milk, on the 4 December 2025 article. A stall and the hour are Check on arrival."
+          "photo": "che-dau-xanh",
+          "note": "Mung-bean sweet soup, fragrant with coconut milk."
         },
         {
           "name": "Che hat sen",
           "nameVi": "Chè hạt sen",
-          "address": "Check on arrival",
           "dishSlug": "che-hat-sen",
-          "note": "Lotus-seed sweet soup, fragrant with coconut milk, on the 4 December 2025 article. A stall and the hour are Check on arrival."
+          "photo": "che-hat-sen",
+          "note": "Lotus-seed sweet soup, fragrant with coconut milk."
         },
         {
           "name": "Xi ma",
           "nameVi": "Xí mà",
-          "address": "Check on arrival",
+          "address": "Cụ Thiều’s shoulder pole",
           "dishSlug": "xi-ma",
-          "note": "Black-sesame sweet soup, also called chè mè đen. Danang Fantasticity says it is sweet, rich, and cool, and names Cụ Thiều’s shoulder pole without a street. The hour is Check on arrival."
+          "photo": "xi-ma",
+          "note": "Black-sesame sweet soup, also called chè mè đen: sweet, rich, and cool."
         },
         {
           "name": "Banh dau xanh",
           "nameVi": "Bánh đậu xanh",
-          "address": "Check on arrival",
           "dishSlug": "banh-dau-xanh",
-          "note": "A gift cake with a pork and mung-bean filling, or a meatless cake, eaten with hot tea. Danang Fantasticity’s 16 April 2024 essay names no street. The hour is Check on arrival."
+          "note": "A gift cake of mung bean cooked with pork, sweet, salty, and rich, dried until crisp and eaten with hot tea. A meatless cake is made too."
         },
         {
           "name": "Mam ca com",
           "nameVi": "Mắm cá cơm",
           "address": "Chợ Hội An",
           "dishSlug": "mam-ca-com",
-          "note": "Anchovy sauce from Cửa Đại and Cù Lao Chàm. Spoon it on hot rice, or dip boiled greens. The 7 June 2023 market article also names other sauces and does not describe them. The hour is Check on arrival."
+          "note": "Anchovy sauce salted from fish off Cửa Đại and Cù Lao Chàm, hot, and not too salty or too sweet. Spoon it on hot rice, or dip boiled hyacinth beans and garden greens."
         }
       ]
     },
@@ -205,7 +205,7 @@
       "heading": "Regional dishes",
       "nav": "Regional",
       "paragraphs": [
-        "Mì Quảng is the Quảng Nam bowl, eaten in town when the ride to Da Nang is another day. Vietnam Tourism says the noodles are flat and turmeric-yellow, with a ladle of broth, herbs, peanuts, and a cracker. The 4 December 2025 article keeps the broth shallow and adds Trà Quế herbs. Toss it. It is not cao lầu."
+        "Mì Quảng is the Quảng Nam bowl, worth eating in town when the ride to Da Nang is another day: flat turmeric-yellow noodles in a shallow ladle of broth, with Trà Quế herbs, peanuts, and a rice cracker. Toss it rather than drink it. It is not cao lầu."
       ]
     },
     {
@@ -214,40 +214,40 @@
       "heading": "Casual dining",
       "nav": "Casual",
       "paragraphs": [
-        "The old town is the meal. Chợ Hội An has a food hall the heritage note names for cao lầu, and the 7 June 2023 market article sends you there for mắm cá cơm. The street number and the hours are Check on arrival. UNESCO’s list text includes an open market inside the property and does not name the street.",
-        "The night market sits on Nguyễn Hoàng, Công nữ Ngọc Hoa, Trần Quý Cáp, and Bạch Đằng, close to the old-town centre. The 2023 note does not print an open or a close. Check on arrival.",
-        "Tân Thành, in the fishing village now inside Hoi An Tây, holds a weekend market the ministry article says is usually on Saturday and Sunday. A later week can move. Check on arrival. Cẩm Nam is the bánh đập lane. Thái Phiên, early, is the street the 4 December 2025 article names for noodles and rolls. Stalls along the Hoài sell bánh ướt. None of those clocks is printed."
+        "The old town is the meal. Chợ Hội An, the open market inside the heritage area, has a food hall for cao lầu and counters selling mắm cá cơm.",
+        "The night market runs along Nguyễn Hoàng, Công nữ Ngọc Hoa, Trần Quý Cáp, and Bạch Đằng, close to the old-town centre. Come after dark for the local bowls.",
+        "Tân Thành, the fishing village now inside Hoi An Tây, holds a market usually on Saturday and Sunday. Cross to Cẩm Nam for bánh đập and hến xào, walk Thái Phiên early for noodles and rolls, and look for bánh ướt stalls along the Hoài."
       ],
       "spots": [
         {
           "name": "Hoi An market",
           "nameVi": "Chợ Hội An",
           "address": "Ancient town",
-          "note": "The food hall for cao lầu, and the counters for mắm cá cơm. A street number and the hours are Check on arrival."
+          "note": "The food hall for cao lầu, and the counters for mắm cá cơm. Go in the daytime."
         },
         {
           "name": "Hoi An night market",
           "nameVi": "Chợ đêm Hội An",
           "address": "Nguyễn Hoàng, Công nữ Ngọc Hoa, Trần Quý Cáp, and Bạch Đằng",
-          "note": "Evening stalls close to the old-town centre. The 7 June 2023 note does not print an open or a close. Check on arrival."
+          "note": "Evening stalls close to the old-town centre."
         },
         {
           "name": "Tan Thanh weekend market",
           "nameVi": "Chợ phiên Tân Thành",
           "address": "Tân Thành, Hoi An Tây",
-          "note": "A fishing-village market the June 2024 ministry article says is usually on Saturday and Sunday. A later week can move. Check on arrival."
+          "note": "A fishing-village market, usually held on Saturday and Sunday. The days can move from week to week."
         },
         {
           "name": "Cam Nam",
           "nameVi": "Cẩm Nam",
           "address": "Cẩm Nam",
-          "note": "The lane for bánh đập and hến xào. The 30 May 2023 article and the 30 October 2024 note place the cracker here. The hour is Check on arrival."
+          "note": "The lane for bánh đập and hến xào, across the river south of the old town."
         },
         {
           "name": "Thai Phien",
           "nameVi": "Thái Phiên",
           "address": "Thái Phiên",
-          "note": "Early morning noodles and rolls, on the 4 December 2025 article. A clock was not printed. Check on arrival."
+          "note": "Early-morning noodles and rolls."
         }
       ]
     },
@@ -257,11 +257,11 @@
       "heading": "Breakfast",
       "nav": "Breakfast",
       "paragraphs": [
-        "Bánh mì is the baguette from a street stall in the old town, the morning it is baked. Point at the fillings if there is a choice. Danang Fantasticity describes the Hội An loaf as dense, with a crisp crust, still hot, and a slightly sweet crumb. Cháo nghêu is the other morning bowl: clams, ginger, scallion, and rau răm. Thái Phiên is the early street for noodles and rolls. The clocks are Check on arrival."
+        "Bánh mì is the baguette from an old-town street stall, the morning it is baked: a dense loaf with a crisp crust, still hot, with a slightly sweet crumb. Point at the fillings if there is a choice. Cháo nghêu is the other morning bowl, clams with ginger, scallion, and rau răm, and Thái Phiên is the early street for noodles and rolls."
       ]
     }
   ],
   "verified": "23 Oct 2026",
   "seoTitle": "Hoi An food guide — cao lầu, dumplings, and bánh đập",
-  "seoDescription": "Toss cao lầu while it is hot. White rose is one warm bite. Bánh đập is the Cẩm Nam cracker, and nước mót is the herb drink. Stall hours are Check on arrival."
+  "seoDescription": "Toss cao lầu while it is hot. White rose is one warm bite. Bánh đập is the Cẩm Nam cracker over stir-fried clams, and nước mót is the herb drink for the walk."
 }
