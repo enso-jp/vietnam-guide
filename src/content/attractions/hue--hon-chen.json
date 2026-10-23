@@ -1,0 +1,45 @@
+{
+  "slug": "hon-chen",
+  "placeSlug": "hue",
+  "name": "Hon Chen Temple",
+  "nameVi": "Điện Hòn Chén",
+  "kicker": "Temple hall on Ngọc Trản",
+  "summary": "Walk the hall at Hon Chen, the temple on Ngọc Trản above the river. An adult pays 50,000 VND, and a child from 7 to 12 enters free. The four-site ticket covers the Imperial City, Minh Mang, Tu Duc, and Khai Dinh. Ngọc Hồ in Hương Hồ, and Hải Cát in Hương Trà, both appear for this temple. How long to stay, and the ride from the south bank, are Check on arrival.",
+  "dots": 3,
+  "district": "Pagodas",
+  "timeNeeded": "Check on arrival",
+  "fee": "50,000 VND",
+  "getThere": "Ngọc Hồ in Hương Hồ, and Hải Cát in Hương Trà. Ride: Check on arrival.",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The temple hall, with pots along the porch",
+  "gettingThere": [
+    "The temple stands on Ngọc Trản, above the river. Ngọc Hồ in Hương Hồ, and Hải Cát in Hương Trà, both appear for this temple. Start from the south bank. The ride is Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the south bank",
+      "body": "The ride is Check on arrival."
+    }
+  ],
+  "hours": "16 Mar–15 Oct: 06:30–18:00, tickets until 17:30. 16 Oct–15 Mar: 07:00–17:30, tickets until 17:00. Confirm the board on arrival.",
+  "closed": "No weekly closing day is set.",
+  "admissionNote": "Adult 50,000 VND. A child from 7 to 12 enters free. Under 7 is free. Hue residents and the other half-price groups pay half. The four-site ticket is the Imperial City, Minh Mang, Tu Duc, and Khai Dinh: 530,000 VND for an adult and 100,000 VND for a child from 7 to 12, for up to two days. The all-site ticket is 600,000 VND for an adult and 120,000 VND for a child from 7 to 12, for up to five days, and it includes this temple.",
+  "links": [
+    {
+      "label": "Hon Chen ticket page",
+      "url": "https://eticket.hueworldheritage.org.vn/diem-den/dien-hon-chen",
+      "note": "Hue Monuments Conservation Centre"
+    },
+    {
+      "label": "Fee resolution",
+      "url": "https://hue.gov.vn/Portals/0/Uploads/VBPL/Nam2026/Thang1/000.00.00.K57-55-2025-NQ-HDND-2025-PL1.pdf",
+      "note": "In force 4 Jan 2026"
+    },
+    {
+      "label": "Visiting hours",
+      "url": "https://hueworldheritage.org.vn/Thong-tin-tham-quan/Thoi-gian-tham-quan/pid/1775/cid/59?tid=Thoi-gian-dongmo-cua-tai-cac-diem-tham-quan.html",
+      "note": "12 Mar 2024"
+    }
+  ],
+  "interests": ["pagodas"]
+}
