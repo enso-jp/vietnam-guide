@@ -8,21 +8,59 @@
   "placeSlug": "cao-bang",
   "budget": "Check on arrival",
   "pace": "Moderate",
-  "photo": "cao-bang-ban-gioc",
   "summary": "Night one for the falls, night two for a different road. The second day is Phia Oac, a full day west, or Pac Bo, a half day north. Do not put the falls on both.",
+  "photo": "cao-bang-ban-gioc",
   "days": [
     {
       "title": "Ban Gioc, the cave, and the pagoda",
-      "body": "Sleep in Dam Thuy, or leave Cao Bang city early. Be at the falls inside 10:30 to 15:30 when the water is low. Nguom Ngao is about an hour for the lit walk, about 4 km away. Truc Lam Ban Gioc is the short steep viewpoint on the same valley. Fees are check on arrival.",
+      "body": "Sleep in Dam Thuy, or leave Cao Bang city early. Ban Gioc, Nguom Ngao, and Truc Lam Ban Gioc share the eastern valley. Nguom Ngao is about 4 km from the falls. How long you stay is Check on arrival.",
       "placeSlug": "cao-bang",
       "photo": "cao-bang-ban-gioc",
       "itinerarySlug": "cao-bang-falls-day"
     },
     {
       "title": "Phia Oac or Pac Bo",
-      "body": "Choose one. Phia Oac is a full day west, moss forest up to a 1,935 m summit. Pac Bo is a half day north, about 55 km on provincial road 203, for Coc Bo and the stream. Drive minutes and gate fees are check on arrival. Ha Giang is a further overnight, not this day.",
+      "body": "Choose one. Phia Oac is a full day west, up to a 1,935 m summit. Pac Bo is a half day north, about 55 km on provincial road 203. Drive minutes are Check on arrival.",
       "placeSlug": "cao-bang",
       "photo": "cao-bang-phia-oac"
+    }
+  ],
+  "stops": [
+    {
+      "name": "Ban Gioc Waterfall",
+      "minutes": "Check on arrival",
+      "placeSlug": "cao-bang",
+      "attractionSlug": "ban-gioc",
+      "note": "See the falls on the first day, with the cave and the pagoda."
+    },
+    {
+      "name": "Nguom Ngao Cave",
+      "minutes": "Check on arrival",
+      "placeSlug": "cao-bang",
+      "attractionSlug": "nguom-ngao",
+      "note": "Walk the lit cave, about 4 km from the falls."
+    },
+    {
+      "name": "Truc Lam Ban Gioc Pagoda",
+      "minutes": "Check on arrival",
+      "placeSlug": "cao-bang",
+      "attractionSlug": "truc-lam-ban-gioc",
+      "note": "Climb the short steep path to the viewpoint above the falls."
+    },
+    {
+      "name": "Phia Oac–Phia Den National Park",
+      "minutes": "Check on arrival",
+      "placeSlug": "cao-bang",
+      "attractionSlug": "phia-oac",
+      "note": "Give the second day to the west road and the moss forest."
+    }
+  ],
+  "additions": [
+    {
+      "name": "Pac Bo",
+      "note": "Use the second day for Pac Bo when you are not going west.",
+      "placeSlug": "cao-bang",
+      "attractionSlug": "pac-bo"
     }
   ],
   "seoTitle": "Cao Bang in two days",

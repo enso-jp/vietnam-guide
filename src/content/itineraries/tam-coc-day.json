@@ -8,13 +8,14 @@
   "placeSlug": "tam-coc",
   "budget": "Check on arrival",
   "pace": "One boat, then the hamlet",
+  "summary": "Board at Dinh Cac, ride the Ngo Dong through the three caves for about two hours, then Bich Dong and Thai Vi, each about 2 km from the pier.",
   "photo": "tam-coc-three-caves",
-  "summary": "Board at Đình Các, ride sông Ngô Đồng through the three caves, and eat in the hamlet. Bích Động and Thái Vi are 2 km from the pier. Minutes for the walk were not given.",
   "days": [
     {
       "title": "The sampan, then the hamlet",
-      "body": "Start at bến thuyền Tam Cốc. Vietnamese Wikipedia prints about 2 hours out and back. The 27 February 2026 adult fare is 250,000 đồng without the shuttle and 350,000 đồng with it. The 23 May 2023 line and the 2024 line both still print 120,000 đồng. Hours are Check on arrival. After the boat, Bích Động and Đền Thái Vi are each 2 km on. A bicycle hire fee is Check on arrival. Lunch named for the hamlet is cơm cháy, goat, and nem Yên Mạc. One sample puts a walk in the fields at 18:30. Tràng An, Hoa Lư, and Hang Múa are a different day on the Ninh Bình page. Phố cổ Hoa Lư is khoảng 15–20 minutes.",
-      "placeSlug": "tam-coc"
+      "body": "Start at the Tam Coc pier. The boat is about two hours out and back. After the boat, Bich Dong and Thai Vi are each about 2 km from the pier. A minute for either ride is Check on arrival. Lunch in the hamlet is crisp rice. Trang An, Hoa Lu, and Hang Mua are a different day.",
+      "placeSlug": "tam-coc",
+      "photo": "tam-coc-three-caves"
     }
   ],
   "stops": [
@@ -23,9 +24,54 @@
       "minutes": 120,
       "placeSlug": "tam-coc",
       "attractionSlug": "three-caves",
-      "note": "About 2 hours on Vietnamese Wikipedia only. The ticket table prints no duration. Adult 250,000 đồng without the shuttle on 27 February 2026."
+      "note": "Board at Dinh Cac for about two hours on the Ngo Dong.",
+      "approach": {
+        "mode": "bicycle",
+        "note": "Bich Dong is about 2 km from the pier by bicycle."
+      }
+    },
+    {
+      "name": "Bích Động Pagoda",
+      "minutes": "Check on arrival",
+      "placeSlug": "tam-coc",
+      "attractionSlug": "bich-dong",
+      "note": "Visit Bich Dong, about 2 km from the pier."
+    },
+    {
+      "name": "Thái Vi Temple",
+      "minutes": "Check on arrival",
+      "placeSlug": "tam-coc",
+      "attractionSlug": "thai-vi",
+      "note": "Visit Thai Vi, about 2 km by road from the pier."
+    },
+    {
+      "name": "Com chay",
+      "minutes": "Check on arrival",
+      "placeSlug": "tam-coc",
+      "dishSlug": "com-chay",
+      "note": "Eat crisp rice in the hamlet after the boat."
+    }
+  ],
+  "additions": [
+    {
+      "name": "Trang An",
+      "note": "Leave the Trang An sampan for a different day.",
+      "placeSlug": "ninh-binh",
+      "attractionSlug": "trang-an"
+    },
+    {
+      "name": "Hoa Lu",
+      "note": "Leave the Hoa Lu temples for a different day.",
+      "placeSlug": "ninh-binh",
+      "attractionSlug": "hoa-lu"
+    },
+    {
+      "name": "Mua Cave viewpoint",
+      "note": "Leave Hang Mua for a different day.",
+      "placeSlug": "ninh-binh",
+      "attractionSlug": "mua-cave"
     }
   ],
   "seoTitle": "Tam Coc in a day — sampan on the Ngo Dong",
-  "seoDescription": "One day from Đình Các: about 2 hours on sông Ngô Đồng, then Bích Động and Thái Vi, each 2 km from the pier. Hours are Check on arrival."
+  "seoDescription": "One day from Dinh Cac: about two hours on the Ngo Dong, then Bich Dong and Thai Vi, each about 2 km from the pier."
 }

@@ -8,25 +8,55 @@
   "placeSlug": "ba-be",
   "budget": "Check on arrival",
   "pace": "Morning boat, night in the stilt house",
-  "summary": "Wake in Pac Ngoi or Bo Lu, take the boat through the open water, Puong, and Dau Dang if the circuit is the long one, and come back to the house. A park clock for that day was not found.",
+  "summary": "Wake in a stilt house at Pac Ngoi, take the morning boat across the open water and through Puong, and come back to the house. Add Dau Dang only on the long circuit.",
   "photo": "ba-be-lake",
   "days": [
     {
       "title": "The lake morning",
-      "body": "Breakfast is the house meal. The middle of the day is the boat: open water, a landing at An Ma or Fairy Pond if the boatman includes it, the ride through Puong, and Dau Dang on the long circuit. VnExpress speaks of trips of 2–8 hours. A park duration was not found, so the length is check on arrival. The evening returns to the floor. Then singing is on if the house has called the troupe. Do not treat Hua Ma or the 5–6 hour Keo Siu walk as part of this same hour.",
+      "body": "Breakfast is the house meal. The middle of the day is the boat across the open water and through Puong. Dau Dang belongs on that boat only when the circuit is the long one. How long the boat runs is Check on arrival. The evening returns to the floor.",
       "placeSlug": "ba-be",
       "photo": "ba-be-lake"
     }
   ],
   "stops": [
     {
-      "name": "The morning boat",
-      "minutes": 120,
+      "name": "Pac Ngoi",
+      "minutes": "Check on arrival",
+      "placeSlug": "ba-be",
+      "attractionSlug": "pac-ngoi",
+      "note": "Wake in a stilt house and start the day from the village.",
+      "approach": {
+        "mode": "boat",
+        "note": "The morning circuit leaves the village by boat."
+      }
+    },
+    {
+      "name": "Ba Be Lake",
+      "minutes": "Check on arrival",
       "placeSlug": "ba-be",
       "attractionSlug": "ba-be-lake",
-      "note": "VnExpress speaks of trips of 2–8 hours. A park duration was not found. The 120 minutes on this row is the short end of that range, not a clock. Check on arrival."
+      "note": "Take the open water from the village.",
+      "approach": {
+        "mode": "boat",
+        "note": "The same boat continues through the cave."
+      }
+    },
+    {
+      "name": "Puong Cave",
+      "minutes": "Check on arrival",
+      "placeSlug": "ba-be",
+      "attractionSlug": "puong-cave",
+      "note": "Ride through the cave on the morning boat."
+    }
+  ],
+  "additions": [
+    {
+      "name": "Dau Dang Waterfall",
+      "note": "Add the waterfall when the boat is the long circuit.",
+      "placeSlug": "ba-be",
+      "attractionSlug": "dau-dang"
     }
   ],
   "seoTitle": "A day on Ba Be Lake",
-  "seoDescription": "One lake day from Pac Ngoi or Bo Lu. VnExpress puts the boat at 2–8 hours. The park clock and the fee are check on arrival."
+  "seoDescription": "One lake day from Pac Ngoi: the morning boat across the open water and through Puong. Dau Dang is the long circuit. The boat length is Check on arrival."
 }

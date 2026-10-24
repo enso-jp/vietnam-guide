@@ -8,17 +8,39 @@
   "placeSlug": "ha-long",
   "budget": "Check on arrival",
   "pace": "One boat",
+  "summary": "One boat from the Ha Long passenger port. Route 2 lands at Ti Top, Sung Sot, and Luon on one shared clock of 5–6 hours.",
   "photo": "ha-long-titop",
-  "summary": "One boat from the Ha Long passenger port. The port clocks 5–6 hours for Ti Tốp, Sửng Sốt, and Luồn together. The 300 minutes on the row is five hours, the short end of that one clock, not a time on Ti Tốp alone.",
   "stops": [
     {
-      "name": "Ti Top, Sung Sot, and Luon",
-      "minutes": 300,
+      "name": "Ti Top Island",
+      "minutes": "Check on arrival",
       "placeSlug": "ha-long",
       "attractionSlug": "titop",
-      "note": "The port clocks route 2 at 5–6 hours for Ti Tốp, Sửng Sốt, and Luồn together. 300 minutes is the short end of that shared clock. It is not a time ashore on Ti Tốp. Sửng Sốt and Luồn are the other two landings on the same boat. Route 2 on the 15 March 2024 page is 490,000–510,000 đồng."
+      "note": "Land at Ti Top on the port's route 2 boat.",
+      "approach": {
+        "mode": "boat",
+        "note": "The same route 2 boat goes on to the next landing."
+      }
+    },
+    {
+      "name": "Sung Sot Cave",
+      "minutes": "Check on arrival",
+      "placeSlug": "ha-long",
+      "attractionSlug": "sung-sot",
+      "note": "Continue to Sung Sot on the same boat.",
+      "approach": {
+        "mode": "boat",
+        "note": "The same route 2 boat goes on to the next landing."
+      }
+    },
+    {
+      "name": "Luon Cave",
+      "minutes": "Check on arrival",
+      "placeSlug": "ha-long",
+      "attractionSlug": "luon",
+      "note": "End at Luon, still on that route 2 boat."
     }
   ],
   "seoTitle": "Ha Long in a day — route 2, five to six hours",
-  "seoDescription": "A Ha Long day on route 2: Ti Tốp, Sửng Sốt, and Luồn in one 5–6 hour clock. The fare is 490,000–510,000 đồng on the 15 March 2024 page."
+  "seoDescription": "A Ha Long day on route 2: Ti Top, Sung Sot, and Luon together in 5–6 hours. Time ashore at each landing is Check on arrival."
 }

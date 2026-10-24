@@ -8,31 +8,31 @@
   "placeSlug": "cao-bang",
   "budget": "Check on arrival",
   "pace": "Moderate",
-  "photo": "cao-bang-ban-gioc",
   "summary": "One eastern day from Cao Bang city or from a night in Dam Thuy: Ban Gioc, the lit cave, and the pagoda viewpoint. Phia Oac and Pac Bo stay on other days.",
+  "photo": "cao-bang-ban-gioc",
   "stops": [
     {
-      "name": "Ban Gioc",
-      "minutes": 60,
+      "name": "Ban Gioc Waterfall",
+      "minutes": "Check on arrival",
       "placeSlug": "cao-bang",
       "attractionSlug": "ban-gioc",
-      "note": "The hour on this row is not a published gate time. Come between 10:30 and 15:30 when the water is low. How long you stay is check on arrival."
+      "note": "See the falls on the same eastern day as the cave and the pagoda."
     },
     {
-      "name": "Nguom Ngao",
-      "minutes": 60,
+      "name": "Nguom Ngao Cave",
+      "minutes": "Check on arrival",
       "placeSlug": "cao-bang",
       "attractionSlug": "nguom-ngao",
-      "note": "About an hour or more for the lit kilometre, about 4 km from the falls. The Ban Thuon branch is a different visit."
+      "note": "Walk the lit cave, about 4 km from the falls."
     },
     {
-      "name": "Truc Lam Ban Gioc",
-      "minutes": 60,
+      "name": "Truc Lam Ban Gioc Pagoda",
+      "minutes": "Check on arrival",
       "placeSlug": "cao-bang",
       "attractionSlug": "truc-lam-ban-gioc",
-      "note": "A short, steep walk. Under an hour once you are there. Exact minutes are check on arrival."
+      "note": "Climb the short steep path to the viewpoint above the falls."
     }
   ],
   "seoTitle": "Ban Gioc in a day",
-  "seoDescription": "A Cao Bang day for Ban Gioc, Nguom Ngao, and Truc Lam Ban Gioc. Gate times and fees are check on arrival. The low-water window is 10:30 to 15:30."
+  "seoDescription": "A Cao Bang day for Ban Gioc, Nguom Ngao, and Truc Lam Ban Gioc. How long you stay at each gate is Check on arrival."
 }

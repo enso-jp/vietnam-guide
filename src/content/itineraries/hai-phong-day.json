@@ -8,30 +8,31 @@
   "placeSlug": "hai-phong",
   "budget": "Check on arrival",
   "pace": "Unhurried",
+  "summary": "The opera house, Du Hang pagoda, and a bowl of banh da cua. Do Son is a separate ride and is not in this day.",
   "photo": "hai-phong",
-  "summary": "The opera square, Dư Hàng pagoda, and a bowl of bánh đa cua. Đồ Sơn is a separate ride, a bit more than 20 km, and is not in this day. Fees and hours are Check on arrival.",
   "stops": [
     {
-      "name": "Opera square",
-      "minutes": 30,
+      "name": "Hai Phong Opera House",
+      "minutes": "Check on arrival",
       "placeSlug": "hai-phong",
-      "note": "Look at the opera from the square. A show ticket and a gate hour are Check on arrival."
+      "attractionSlug": "opera-house",
+      "note": "Look at the opera house from the square."
     },
     {
       "name": "Du Hang pagoda",
-      "minutes": 40,
+      "minutes": "Check on arrival",
       "placeSlug": "hai-phong",
       "attractionSlug": "du-hang-pagoda",
-      "note": "Phúc Lâm tự in Hồ Nam. A fee and a gate hour are Check on arrival."
+      "note": "Visit Du Hang pagoda in Ho Nam."
     },
     {
       "name": "Banh da cua",
-      "minutes": 40,
+      "minutes": "Check on arrival",
       "placeSlug": "hai-phong",
       "dishSlug": "banh-da-cua",
-      "note": "The bowl, morning or evening on one article, all day on the 2023 map. A price is Check on arrival."
+      "note": "Eat banh da cua in town."
     }
   ],
   "seoTitle": "Hai Phong in a day — the square, Du Hang, the bowl",
-  "seoDescription": "One day in the port: the opera square, Du Hang pagoda, and banh da cua. Do Son is a separate ride, a bit more than 20 km. Fees are Check on arrival."
+  "seoDescription": "One day in the port: the opera house, Du Hang pagoda, and banh da cua. Do Son is a separate ride. Visit lengths are Check on arrival."
 }

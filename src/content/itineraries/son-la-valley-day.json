@@ -9,41 +9,31 @@
   "photo": "son-la-son-la-prison",
   "budget": "Check on arrival",
   "pace": "Market first, the hill before it is hot, the temple before dark",
-  "summary": "One day in the valley town: the central market in the morning, about an hour on the prison hill, about an hour in the museum, and the Lê temple before dark. Bản Mòng is the other half of the day, or the night, at about 5 km, nearly 6 km, or about 7 km. The dam is a separate morning. Gates are check on arrival.",
+  "summary": "One day in the valley town: the prison hill, then hearth-smoked buffalo. The dam is a separate morning.",
   "stops": [
     {
-      "name": "Central market",
-      "minutes": 60,
-      "placeSlug": "son-la",
-      "note": "The hour on this row is not a published visit length. Morning at Chợ Trung tâm on the old Chiềng Lề street, now inside phường Tô Hiệu. The 2024 trade list puts the hall at 8,940 m² and says it meets daily. The clock is check on arrival."
-    },
-    {
       "name": "Son La Prison",
-      "minutes": 60,
+      "minutes": "Check on arrival",
       "placeSlug": "son-la",
       "attractionSlug": "son-la-prison",
-      "note": "About one hour, on the GoVietnam split. The walls are on Khau Ca. GoVietnam prints about 7:30–17:30 with a midday break. Mytour prints 7:30–18:30. A museum page prints 7:30–11:30 and 13:30–17:30. The ticket ladders disagree. Check the gate on arrival."
-    },
-    {
-      "name": "Son La Museum",
-      "minutes": 60,
-      "placeSlug": "son-la",
-      "note": "About one hour on top of the prison hour. The handbook says more than 1,000 ancient Thái and Dao books. A travel page says more than 23,000 objects. Whether one ticket covers both buildings is check on arrival."
+      "note": "Walk the prison hill in town."
     },
     {
       "name": "Hearth-smoked buffalo",
-      "minutes": 60,
+      "minutes": "Check on arrival",
       "placeSlug": "son-la",
       "dishSlug": "thit-hun-khoi",
-      "note": "The Bản Mòng meal, or the town table. The handbook says the meat is black outside and still red inside. The plate shown is the same dish as served at Tả Phìn Hồ. A price and a drying time are check on arrival. The hamlet is about 5 km, nearly 6 km, or about 7 km."
-    },
+      "note": "Eat hearth-smoked buffalo in town or at Ban Mong."
+    }
+  ],
+  "additions": [
     {
-      "name": "Le Thai Tong temple",
-      "minutes": 60,
+      "name": "Son La Dam",
+      "note": "Leave the dam for a separate morning.",
       "placeSlug": "son-la",
-      "note": "Under an hour for the stele and the view over the Nam La. This row is not a published minute count. The festival windows are 15–17 and 22–24 of the first lunar month. No gate tariff was printed. The fee is check on arrival."
+      "attractionSlug": "son-la-dam"
     }
   ],
   "seoTitle": "A day in the Son La valley",
-  "seoDescription": "Market in the morning, about an hour on the prison hill, and the Le temple before dark. Ban Mong is the other half of the day. Gates are check on arrival."
+  "seoDescription": "The prison hill in town, then hearth-smoked buffalo. The dam is a separate morning. Visit lengths are Check on arrival."
 }

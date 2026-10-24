@@ -8,17 +8,39 @@
   "placeSlug": "sapa",
   "budget": "Check on arrival",
   "pace": "One walk, or the cable car",
+  "summary": "The stone church in the morning, then Cat Cat and the waterfall if the gate is open. The walk length is Check on arrival. Fansipan is the other way to spend the day.",
   "photo": "sapa-stone-church",
-  "summary": "The stone church in the morning, then Cat Cat and the waterfall if the gate is open. The walk length is Check on arrival. Fansipan is the cable car: the ride is printed as about 15 minutes, as 15–20 minutes, and as 30 minutes.",
   "stops": [
     {
       "name": "Stone church",
       "minutes": 60,
       "placeSlug": "sapa",
       "attractionSlug": "stone-church",
-      "note": "Lao Cai Tourism prints about 60 minutes, and a free visit. The printed clock is not usable. Check the door. Cat Cat and the waterfall are the walk after this. No length was printed for that walk. Check on arrival."
+      "note": "Spend about an hour at the stone church on the square."
+    },
+    {
+      "name": "Cat Cat",
+      "minutes": "Check on arrival",
+      "placeSlug": "sapa",
+      "attractionSlug": "cat-cat",
+      "note": "Continue to Cat Cat after the church."
+    },
+    {
+      "name": "Cat Cat waterfall",
+      "minutes": "Check on arrival",
+      "placeSlug": "sapa",
+      "attractionSlug": "cat-cat-waterfall",
+      "note": "The waterfall sits inside the same Cat Cat walk."
+    }
+  ],
+  "additions": [
+    {
+      "name": "Fansipan",
+      "note": "Ride the cable car when this day is the peak instead of the village walk.",
+      "placeSlug": "sapa",
+      "attractionSlug": "fansipan"
     }
   ],
   "seoTitle": "Sapa in a day — the church, then Cat Cat",
-  "seoDescription": "A Sa Pa day from the stone church to Cat Cat. The walk length is Check on arrival. The cable-car ride is printed three ways."
+  "seoDescription": "A Sa Pa day from the stone church to Cat Cat and the waterfall. The walk length is Check on arrival."
 }
