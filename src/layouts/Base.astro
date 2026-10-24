@@ -22,8 +22,10 @@ interface Props {
   placeId?: string;
   ogImage?: string;
   ogType?: 'website' | 'article';
+  /** False when the page fills this band with its own stay search. */
+  klook?: boolean;
 }
-const { title, description, path, jsonLd, noindex, placeId, ogImage, ogType = 'article' } = Astro.props;
+const { title, description, path, jsonLd, noindex, placeId, ogImage, ogType = 'article', klook = true } = Astro.props;
 const canonical = new URL(path, site.url).toString();
 const fullTitle = documentTitle(title);
 const image = new URL(ogImage || '/icon-512.png', site.url).toString();
@@ -90,7 +92,7 @@ const schemas = [organization(), website(), ...pageSchemas].filter((schema, inde
     <main id="content">
       <slot />
     </main>
-    {path !== '/' && (
+    {path !== '/' && klook && (
       <div class="klook-block">
         <script is:inline async src={klookWidget} charset="utf-8"></script>
       </div>

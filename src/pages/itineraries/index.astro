@@ -3,6 +3,7 @@ import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import ItineraryIndexCard from '../../components/ItineraryIndexCard.astro';
 import PlanTabs from '../../components/PlanTabs.astro';
+import TripOtherStay from '../../components/TripOtherStay.astro';
 import { corridorsNorthToSouth, getItineraries } from '../../lib/content';
 import { buildItineraryIndex, compareItineraryTitle, durationChoices } from '../../lib/itinerary-index';
 import { titles } from '../../lib/page-title';
@@ -41,7 +42,7 @@ const catalog = {
 const catalogJson = JSON.stringify(catalog).replace(/</g, '\\u003c');
 const description = 'Nationwide routes, corridor trips, and timed city walks for Vietnam. Each trip is a sequence of places already on this site.';
 ---
-<Base title={titles.itineraries} description={description} path="/itineraries" ogType="website" jsonLd={[itemList('Itineraries', trips.map((trip) => ({ name: trip.title, path: `/itineraries/${trip.slug}` }))), breadcrumbList([{ name: 'Plan a trip', path: '/plan' }, { name: 'Itinerary ideas', path: '/itineraries' }])]}>
+<Base title={titles.itineraries} description={description} path="/itineraries" ogType="website" klook={false} jsonLd={[itemList('Itineraries', trips.map((trip) => ({ name: trip.title, path: `/itineraries/${trip.slug}` }))), breadcrumbList([{ name: 'Plan a trip', path: '/plan' }, { name: 'Itinerary ideas', path: '/itineraries' }])]}>
   <div class="wrap section">
     <Crumbs items={[{ name: 'Plan a trip', href: '/plan' }, { name: 'Itinerary ideas' }]} />
     <h1>Itinerary ideas</h1>
@@ -104,6 +105,12 @@ const description = 'Nationwide routes, corridor trips, and timed city walks for
           </div>
         </section>
       )}
+    </div>
+    <div class="partner-band">
+      <div class="stay-box">
+        <h2>Book your <em>stay</em></h2>
+        <TripOtherStay />
+      </div>
     </div>
     <script type="application/json" id="itinerary-filter-data" set:html={catalogJson}></script>
     <script is:inline>
