@@ -32,3 +32,6 @@ export const tripFamilySummer =
 
 export const klookWidget =
   'https://tpwgts.com/content?currency=USD&trs=588978&shmarker=793638&locale=en&city_id=33&category=4&amount=3&powered_by=true&campaign_id=137&promo_id=4497';
+
+/** Destination “Search tours & attractions”. The same Klook affiliate on every place. */
+export const klookToursSearch = 'https://klook.tpx.li/h1V9Vq7B';
