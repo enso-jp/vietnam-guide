@@ -117,7 +117,6 @@ function figureCredit(figure: AttractionFigure) {
       fee={attraction.fee}
       getThere={attraction.getThere}
       bestMonths={attraction.bestMonths || place?.bestMonths || 'Check on arrival'}
-      verified={attraction.verified || place?.verified || ''}
     />
     {attraction.district && <p class="meta">{attraction.district}</p>}
     {tags.length > 0 && (

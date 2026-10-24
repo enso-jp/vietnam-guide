@@ -410,7 +410,6 @@ p { margin: 0.55rem 0; }
   object-position: center;
   display: block;
 }
-.photo-credit { margin: 0.25rem 0 0; }
 .tabs a {
   color: var(--ink);
   text-decoration: none;
@@ -1905,6 +1904,23 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
 .cover { min-height: 11rem; border: 1px solid var(--line); background: var(--land); position: relative; overflow: hidden; }
 .cover svg { width: 100%; height: 12rem; display: block; }
 .note { color: var(--muted); font-size: 0.92rem; }
+.photo-credit,
+.note.photo-credit,
+figcaption.photo-credit,
+.prose-figure figcaption.photo-credit,
+.food-hero figcaption.photo-credit,
+.food-card small.photo-credit,
+.prose-figure figcaption .about-by {
+  margin: 0.12rem 0 0;
+  padding: 0;
+  border: 0;
+  color: var(--muted);
+  font-size: 0.68rem;
+  font-weight: 400;
+  line-height: 1.3;
+  letter-spacing: 0.01em;
+}
+.prose-figure figcaption .about-by { display: block; }
 .faq dt { font-weight: 650; margin: 0; padding-top: 0.95rem; }
 .faq dd { margin: 0.25rem 0 0; padding-bottom: 0.95rem; border-bottom: 1px solid var(--line); max-width: 40rem; }
 .faq dt:first-of-type { padding-top: 0.2rem; }

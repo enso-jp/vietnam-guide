@@ -139,14 +139,13 @@ const secondPhoto = kind === 'dish' && dish && photoPath(`${dish.slug}-2`) ? `${
         {photoPath(dish.slug) && (
           <figure class="food-hero">
             <Photo id={dish.slug} alt={`${dish.name}, ${dish.nameVi}`} priority={true} />
-            {credits[dish.slug] && <figcaption>Photo: {credits[dish.slug].author} · {credits[dish.slug].license}</figcaption>}
+            {credits[dish.slug] && <figcaption class="photo-credit">Photo: {credits[dish.slug].author} · {credits[dish.slug].license}</figcaption>}
           </figure>
         )}
         <div class="facts" style="--fact-cols: 2">
           <div><span>From</span><strong>{dish.origin.split('.')[0]}</strong></div>
           <div><span>Price</span><strong>{dish.priceBand}</strong></div>
         </div>
-        {dish.verified && <p class="note">Facts verified {dish.verified}. Fees and hours change; confirm before you go.</p>}
         <SectionNav label={`${dish.name} sections`} items={dishSections.map((section) => ({ id: section.id, label: section.label }))} />
         <div class="reading place-body">
           {dishSections.map((section) => (
@@ -154,7 +153,7 @@ const secondPhoto = kind === 'dish' && dish && photoPath(`${dish.slug}-2`) ? `${
               {secondPhoto && section.id === 'how-to-eat' && (
                 <figure class="food-hero">
                   <Photo id={secondPhoto} alt={`${dish.name}, ${dish.nameVi}`} />
-                  {credits[secondPhoto] && <figcaption>Photo: {credits[secondPhoto].author} · {credits[secondPhoto].license}</figcaption>}
+                  {credits[secondPhoto] && <figcaption class="photo-credit">Photo: {credits[secondPhoto].author} · {credits[secondPhoto].license}</figcaption>}
                 </figure>
               )}
               <section id={section.id} class="place-section">
@@ -181,7 +180,7 @@ const secondPhoto = kind === 'dish' && dish && photoPath(`${dish.slug}-2`) ? `${
           {secondPhoto && !dishSections.some((section) => section.id === 'how-to-eat') && (
             <figure class="food-hero">
               <Photo id={secondPhoto} alt={`${dish.name}, ${dish.nameVi}`} />
-              {credits[secondPhoto] && <figcaption>Photo: {credits[secondPhoto].author} · {credits[secondPhoto].license}</figcaption>}
+              {credits[secondPhoto] && <figcaption class="photo-credit">Photo: {credits[secondPhoto].author} · {credits[secondPhoto].license}</figcaption>}
             </figure>
           )}
         </div>
@@ -201,7 +200,6 @@ const secondPhoto = kind === 'dish' && dish && photoPath(`${dish.slug}-2`) ? `${
             <div class="food-intro" id="intro">
               {introLead && <p class="lede">{introLead}</p>}
               {introBody.map((paragraph) => <p>{paragraph}</p>)}
-              {kind === 'guide' && guide?.verified && <p class="note">Facts verified {guide.verified}. Fees and hours change; confirm before you go.</p>}
             </div>
             {specialtyDishes.length > 0 && (
               <section id="specialties" class="place-section">

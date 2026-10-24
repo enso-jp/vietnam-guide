@@ -6,9 +6,8 @@ interface Props {
   fee?: string;
   getThere: string;
   bestMonths: string;
-  verified?: string;
 }
-const { time, fee, getThere, bestMonths, verified } = Astro.props;
+const { time, fee, getThere, bestMonths } = Astro.props;
 ---
 <div class="facts" style={`--fact-cols:${fee ? 4 : 3}`}>
   <div><Icon name="clock" /><span>Time</span><strong>{time}</strong></div>
@@ -16,4 +15,3 @@ const { time, fee, getThere, bestMonths, verified } = Astro.props;
   <div><Icon name="pin" /><span>Get there</span><strong>{getThere}</strong></div>
   <div><Icon name="event" /><span>Best months</span><strong>{bestMonths}</strong></div>
 </div>
-{verified && <p class="note">Facts verified {verified}. Fees and hours change; confirm before you go.</p>}

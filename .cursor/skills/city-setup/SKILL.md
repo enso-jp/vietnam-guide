@@ -91,7 +91,7 @@ Do not research the web in this pass. Do not copy a blog sentence into a page. G
 - `faqs` are real planning questions. Da Nang asks where to sleep, where breakfast is, where the night is, and when the dragon breathes fire.
 - `seoTitle` is the place name plus the decision, about 50–60 characters. `seoDescription` is one sentence, about 140–160 characters, with a dossier fact.
 - `interests` uses keys already in `interestLabels` in `src/config/site.ts`. Weights are 1 to 5. Do not add a key in a content run. An attraction’s `interests` may use only keys already on the place at weight 3 or more.
-- `provinceNote` only when a source supports the administrative line. Da Nang’s note says the city now includes the former Quang Nam province.
+- `provinceNote` may stay on the record when a source supports an administrative line. The public page prints `province`, the short name. It does not print the merger, resolution, or gazetteer paragraph.
 
 `nameVi` stays on the record. The place h1 does not print it.
 

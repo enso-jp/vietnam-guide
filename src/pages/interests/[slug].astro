@@ -69,10 +69,9 @@ const cardLayouts = sections.map((section) => {
     {heroId && (
       <figure class="prose-figure">
         <Photo id={heroId} alt={label} priority={true} />
-        {heroCredit?.author && <figcaption>Photo: {heroCredit.author} · {heroCredit.license}</figcaption>}
+        {heroCredit?.author && <figcaption class="photo-credit">Photo: {heroCredit.author} · {heroCredit.license}</figcaption>}
       </figure>
     )}
-    {copy?.verified && <p class="note">Facts verified {copy.verified}. Fees and hours change; confirm before you go.</p>}
     <SectionNav label={`${label} sections`} items={sections.map((section) => ({ id: section.id, label: section.heading }))} />
     <div class="reading place-body">
       {copy?.body.map((paragraph) => <p>{paragraph}</p>)}

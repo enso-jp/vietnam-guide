@@ -96,7 +96,7 @@ Use `src/components/FactBar.astro` when the cells are time, getting there, and b
 
 - A place bar is those three cells. Do not show a fee. A city has no single ticket.
 - An attraction bar adds the fee cell. If the fee has no source, the record already says “Check on arrival”. Do not drop the fee from a sight.
-- The verification note under the bar stays: “Facts verified {date}. Fees and hours change; confirm before you go.” Show it only when the record has `verified`.
+- Do not print a verification line under the bar. `verified` stays on the record. The page does not say “Facts verified” or “confirm before you go.”
 
 Other pages that already have a fact strip (itinerary, dish, festival) keep only cells that mean something: duration, budget, pace, origin, price band, or when. Set `--fact-cols` to the real count. The shared `.facts` rule defaults to 4 columns, so a shorter strip leaves an empty column until you set it. Add an icon only when the cell matches `clock`, `ticket`, `pin`, or `event`. Do not invent a cell to fill the row.
 
@@ -110,7 +110,7 @@ Space between sections is larger than the space between paragraphs. On the city 
 
 ## Photos and cards
 
-The hero has curved corners. The credit is a note under the photo: “Photo: {author} · {license}”.
+The hero has curved corners. The credit is a small muted note under the photo, “Photo: {author} · {license}”, small enough that it does not compete with the picture or the line under it. The same size is used on hero photos, cards, and inline photos.
 
 After the first intro paragraph, one photo breaks the text. It is the highest-dotted attraction on that place that has a licensed photo of that sight. When several sights share that dot, use the one whose interest matches the place’s strongest interest, so a beach city leads with the beach. The caption is the sight’s name, with a short lacquer rule under it. The photo and the caption both link to that sight. If that sight has no licensed photo, do not put another picture under its name. The place hero stays the place photo.
 
