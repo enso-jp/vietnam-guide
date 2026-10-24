@@ -1,0 +1,61 @@
+{
+  "slug": "japan-town",
+  "placeSlug": "ho-chi-minh-city",
+  "name": "Japan Town",
+  "nameVi": "Phố Nhật",
+  "kicker": "Japanese dining alleys off Lê Thánh Tôn",
+  "summary": "Japanese alleys off Lê Thánh Tôn: eat between the lanterns, for a quieter night than Bùi Viện. The walk runs along Lê Thánh Tôn into Thái Văn Lung, Thi Sách, and Ngô Văn Năm. Come at lunch, from 11:00 to 14:00, or from 17:00 when the kitchens fill. Most close at 22:00. Skip the mid-afternoon if you came to eat.",
+  "dots": 4,
+  "timeNeeded": "Lunch, or from 17:00 through dinner. Check on arrival.",
+  "fee": "Check on arrival.",
+  "getThere": "Walk from Nguyễn Huệ. The alleys are on Lê Thánh Tôn and Thái Văn Lung.",
+  "district": "Lê Thánh Tôn",
+  "verified": "24 Oct 2026",
+  "heroCaption": "The alley, red lanterns and a sign reading 日本",
+  "notice": {
+    "title": "The afternoon kitchens are shut",
+    "body": "Lunch kitchens often open 11:00–14:00. The alleys fill from 17:00. Most kitchens close at 22:00, and some bars run until 01:00. The hours between lunch and 17:00 are for looking, not for a meal."
+  },
+  "body": [
+    "The alleys sit where Lê Thánh Tôn meets Thái Văn Lung, with Thi Sách and Ngô Văn Năm on the same walk. VnExpress, on 2 March 2020, puts the Lê Thánh Tôn stretch at 300 metres. Tuổi Trẻ, on 13 January 2024, describes the alleys as less than 2 km and counts more than 300 Japanese households. You eat sushi, sashimi, ramen, and tempura, and you sit in the cafes behind wooden signs and noren.",
+    "Alley 15B Lê Thánh Tôn is the older lane, with a graffiti wall along it. Alley 8A Thái Văn Lung is the lane of lights. By day the streets are quiet enough to look. From 17:00 the kitchens greet you from the doorways. The sound stays inside. Bùi Viện is the loud night, out in the roadway. This walk is the meal."
+  ],
+  "figures": [
+    {
+      "id": "ho-chi-minh-city-japan-town-2",
+      "caption": "Thái Văn Lung in daylight, noren and wooden signs along the street",
+      "alt": "Daytime street on Thai Van Lung with Japanese noren curtains and wooden signs"
+    }
+  ],
+  "gettingThere": [
+    "The alleys are in the center, on Lê Thánh Tôn and Thái Văn Lung. Walk from Nguyễn Huệ or from the cathedral square. Check on arrival for the minutes."
+  ],
+  "legs": [
+    {
+      "heading": "From Nguyễn Huệ",
+      "body": "Walk. Lê Thánh Tôn meets the walking street at the center. Check on arrival for the minutes."
+    },
+    {
+      "heading": "From the cathedral square",
+      "body": "Walk. Thái Văn Lung and Lê Thánh Tôn are the streets. Check on arrival for the minutes."
+    }
+  ],
+  "hours": "Lunch kitchens often 11:00–14:00. The alleys fill from 17:00. Most kitchens close at 22:00. Some bars run until 01:00.",
+  "closed": "Check on arrival. Many kitchens are shut between lunch and 17:00.",
+  "admissionNote": "Check on arrival. There is no gate. You pay for what you order.",
+  "links": [
+    {
+      "label": "Little Japan in Saigon",
+      "url": "https://vnexpress.net/little-japan-o-sai-gon-4060206.html",
+      "note": "VnExpress, 2 March 2020"
+    },
+    {
+      "label": "Little Japan Town",
+      "url": "https://tuoitre.vn/dulichtphcm/little-japan-town-pho-nhat-dep-hut-hon-gioi-tre-10766900.htm",
+      "note": "Tuổi Trẻ, 13 January 2024"
+    }
+  ],
+  "interests": [
+    "food"
+  ]
+}

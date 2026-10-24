@@ -25,15 +25,15 @@
       "reworkCount": 0
     },
     "destinationCopy": {
-      "status": "enriched",
+      "status": "stale",
       "note": "Prose and the Nguyễn Huệ hero. Chapel interior is the cathedral’s second frame.",
-      "updated": "2026-10-22T10:54:51.563Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     "destinationQuality": {
-      "status": "checked",
-      "note": "Read against the dossier. Disagreeing area, population, palace, and museum figures are all printed.",
-      "updated": "2026-10-22T10:54:51.626Z",
+      "status": "stale",
+      "note": "Dossier changed. Check again after the copy pass.",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     "food": {
@@ -43,15 +43,15 @@
       "reworkCount": 0
     },
     "foodCopy": {
-      "status": "enriched",
+      "status": "stale",
       "note": "Dish pages only where a source gave the plate. Phở is not a Saigon card.",
-      "updated": "2026-10-22T10:54:51.762Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     "foodQuality": {
-      "status": "checked",
-      "note": "Hanoi phở file is not in the specialty cards. Bánh canh cua has no crab photograph. No stall price printed.",
-      "updated": "2026-10-22T10:54:51.830Z",
+      "status": "stale",
+      "note": "Dossier changed. Check again after the copy pass.",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     "researchBase": {
@@ -62,8 +62,8 @@
     },
     "researchAttractions": {
       "status": "stored",
-      "note": "left out: Tan Dinh church, Giac Lam, City Hall facade, Dong Khoi as a walking street, Fine Arts, FITO, Cho Lon as one frame, Landmark 81, Bitexco, Ba Son, Suoi Tien, Tao Dan, Turtle Lake. No licensed photo of that subject, or the crop cuts the tower.",
-      "updated": "2026-10-22T10:39:33.716Z",
+      "note": "left out: Thao Dien has no licensed photo of the streets, cafes, or bars; Pham Viet Chanh has one sentence and no licensed photo of the Binh Thanh street, and the Visit HCMC page redirected; District 2 riverside, Vinh Khanh, and Oishi Town; Giac Lam, City Hall facade, Dong Khoi as a walking street, FITO, Ba Son, Suoi Tien, Tao Dan, Turtle Lake.",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     "researchFood": {
@@ -102,10 +102,10 @@
       "source": "published",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
-      "quality": "checked",
+      "copy": "stale",
+      "quality": "not_started",
       "note": "Photo is that subject. Fees that disagree are both printed.",
-      "updated": "2026-10-22T10:54:52.026Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -118,10 +118,10 @@
       "source": "published",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
-      "quality": "checked",
+      "copy": "stale",
+      "quality": "not_started",
       "note": "Photo is that subject. Fees that disagree are both printed.",
-      "updated": "2026-10-22T10:54:52.224Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -134,10 +134,10 @@
       "source": "published",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
-      "quality": "checked",
+      "copy": "stale",
+      "quality": "not_started",
       "note": "Photo is that subject. Fees that disagree are both printed.",
-      "updated": "2026-10-22T10:54:52.414Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -150,10 +150,10 @@
       "source": "published",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
-      "quality": "checked",
+      "copy": "stale",
+      "quality": "not_started",
       "note": "Photo is that subject. Fees that disagree are both printed.",
-      "updated": "2026-10-22T10:54:52.607Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -262,10 +262,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
-      "quality": "checked",
+      "copy": "stale",
+      "quality": "not_started",
       "note": "Photo is that subject. Fees that disagree are both printed.",
-      "updated": "2026-10-22T10:54:52.806Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -278,10 +278,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
-      "quality": "checked",
+      "copy": "stale",
+      "quality": "not_started",
       "note": "Photo is that subject. Fees that disagree are both printed.",
-      "updated": "2026-10-22T10:54:52.996Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -294,10 +294,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
-      "quality": "checked",
+      "copy": "stale",
+      "quality": "not_started",
       "note": "Photo is that subject. Fees that disagree are both printed.",
-      "updated": "2026-10-22T10:54:53.185Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -310,10 +310,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
-      "quality": "checked",
+      "copy": "stale",
+      "quality": "not_started",
       "note": "Photo is that subject. Fees that disagree are both printed.",
-      "updated": "2026-10-22T10:54:53.376Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -326,10 +326,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
-      "quality": "checked",
+      "copy": "stale",
+      "quality": "not_started",
       "note": "Photo is that subject. Fees that disagree are both printed.",
-      "updated": "2026-10-22T10:54:53.567Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -342,10 +342,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
-      "quality": "checked",
+      "copy": "stale",
+      "quality": "not_started",
       "note": "Photo is that subject. Fees that disagree are both printed.",
-      "updated": "2026-10-22T10:54:53.762Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -358,10 +358,10 @@
       "source": "dossier",
       "research": "stored",
       "page": "paged",
-      "copy": "enriched",
-      "quality": "checked",
+      "copy": "stale",
+      "quality": "not_started",
       "note": "Photo is that subject. Fees that disagree are both printed.",
-      "updated": "2026-10-22T10:54:53.957Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -377,7 +377,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "left out: no licensed photo",
-      "updated": "2026-10-22T10:40:02.819Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -393,7 +393,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "left out: no licensed photo",
-      "updated": "2026-10-22T10:40:02.852Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -409,7 +409,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "left out: not open to the public, and no facade frame was confirmed",
-      "updated": "2026-10-22T10:40:02.884Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -425,7 +425,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "left out: no walking-street frame, the Vincom corner is a different card",
-      "updated": "2026-10-22T10:40:02.917Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -441,7 +441,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "left out: no street and no licensed photo",
-      "updated": "2026-10-22T10:40:02.949Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -457,7 +457,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "left out: no address and no licensed photo",
-      "updated": "2026-10-22T10:40:02.980Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -466,14 +466,14 @@
       "track": "unit",
       "name": "Cho Lon",
       "slug": "cho-lon",
-      "file": null,
+      "file": "src/content/attractions/ho-chi-minh-city--cho-lon.json",
       "source": "dossier",
       "research": "stored",
-      "page": "skipped",
-      "copy": "skipped",
-      "quality": "skipped",
-      "note": "left out: no single district frame; the halls are separate cards",
-      "updated": "2026-10-22T10:40:03.009Z",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "not_started",
+      "note": "Street frame filed 24 Oct 2026. Not the Binh Tay gate and not Thien Hau. Dot 4 unchanged from the dossier suggestion.",
+      "updated": "2026-10-24T03:59:38.190Z",
       "reworkCount": 0
     },
     {
@@ -489,7 +489,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "left out: a 16:9 or 3:4 crop cuts the antenna or the river",
-      "updated": "2026-10-22T10:40:03.042Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -505,7 +505,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "left out: no licensed photo confirmed",
-      "updated": "2026-10-22T10:40:03.073Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -521,7 +521,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "left out: no licensed photo",
-      "updated": "2026-10-22T10:40:03.104Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -537,7 +537,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "left out: no licensed photo of the park",
-      "updated": "2026-10-22T10:40:03.135Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -553,7 +553,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "left out: no licensed photo",
-      "updated": "2026-10-22T10:40:03.163Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -569,7 +569,7 @@
       "copy": "skipped",
       "quality": "skipped",
       "note": "left out: no licensed photo of the lake",
-      "updated": "2026-10-22T10:40:03.193Z",
+      "updated": "2026-10-24T03:59:31.433Z",
       "reworkCount": 0
     },
     {
@@ -1067,11 +1067,98 @@
       "note": "Recorded. No licensed event photo, so no festival card.",
       "updated": "2026-10-22T10:40:02.759Z",
       "reworkCount": 0
+    },
+    {
+      "id": "ho-chi-minh-city--japan-town",
+      "kind": "area",
+      "track": "unit",
+      "name": "Japan Town",
+      "slug": "japan-town",
+      "file": "src/content/attractions/ho-chi-minh-city--japan-town.json",
+      "source": "owner",
+      "research": "stored",
+      "page": "paged",
+      "copy": "enriched",
+      "quality": "not_started",
+      "note": "Paged 24 Oct 2026. Le Thanh Ton alleys. Length 300 m and under 2 km both printed. Dot 4 proposed.",
+      "updated": "2026-10-24T03:59:38.152Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ho-chi-minh-city--thao-dien",
+      "kind": "area",
+      "track": "unit",
+      "name": "Thao Dien",
+      "slug": "thao-dien",
+      "file": "research/ho-chi-minh-city/attractions/thao-dien.md",
+      "source": "owner",
+      "research": "stored",
+      "page": "blocked",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "No licensed photo of the Thao Dien streets, cafes, or bars. Station and opposite-bank river frames are the wrong subject.",
+      "updated": "2026-10-24T03:59:38.227Z",
+      "reworkCount": 0
+    },
+    {
+      "id": "ho-chi-minh-city--pham-viet-chanh",
+      "kind": "area",
+      "track": "unit",
+      "name": "Pham Viet Chanh",
+      "slug": "pham-viet-chanh",
+      "file": "research/ho-chi-minh-city/attractions/pham-viet-chanh.md",
+      "source": "owner",
+      "research": "stored",
+      "page": "blocked",
+      "copy": "not_started",
+      "quality": "not_started",
+      "note": "No licensed photo of Pham Viet Chanh in Binh Thanh. The District 1 panoramio is a different street. The Visit HCMC article redirected and was not read.",
+      "updated": "2026-10-24T03:59:38.265Z",
+      "reworkCount": 0
     }
   ],
-  "questions": [],
+  "questions": [
+    {
+      "at": "2026-10-24T03:59:38.227Z",
+      "stage": "page",
+      "item": "ho-chi-minh-city--thao-dien",
+      "text": "No licensed photo of the Thao Dien streets, cafes, or bars. Station and opposite-bank river frames are the wrong subject.",
+      "open": true
+    },
+    {
+      "at": "2026-10-24T03:59:38.265Z",
+      "stage": "page",
+      "item": "ho-chi-minh-city--pham-viet-chanh",
+      "text": "No licensed photo of Pham Viet Chanh in Binh Thanh. The District 1 panoramio is a different street. The Visit HCMC article redirected and was not read.",
+      "open": true
+    }
+  ],
   "claim": null,
   "log": [
+    {
+      "at": "2026-10-24T03:59:38.265Z",
+      "place": "ho-chi-minh-city",
+      "stage": "page",
+      "item": "ho-chi-minh-city--pham-viet-chanh",
+      "status": "blocked",
+      "note": "No licensed photo of Pham Viet Chanh in Binh Thanh. The District 1 panoramio is a different street. The Visit HCMC article redirected and was not read."
+    },
+    {
+      "at": "2026-10-24T03:59:38.227Z",
+      "place": "ho-chi-minh-city",
+      "stage": "page",
+      "item": "ho-chi-minh-city--thao-dien",
+      "status": "blocked",
+      "note": "No licensed photo of the Thao Dien streets, cafes, or bars. Station and opposite-bank river frames are the wrong subject."
+    },
+    {
+      "at": "2026-10-24T03:59:31.433Z",
+      "place": "ho-chi-minh-city",
+      "stage": "researchAttractions",
+      "item": null,
+      "status": "stored",
+      "note": "left out: Thao Dien has no licensed photo of the streets, cafes, or bars; Pham Viet Chanh has one sentence and no licensed photo of the Binh Thanh street, and the Visit HCMC page redirected; District 2 riverside, Vinh Khanh, and Oishi Town; Giac Lam, City Hall facade, Dong Khoi as a walking street, FITO, Ba Son, Suoi Tien, Tao Dan, Turtle Lake."
+    },
     {
       "at": "2026-10-22T10:54:53.957Z",
       "place": "ho-chi-minh-city",
@@ -1205,30 +1292,6 @@
       "place": "ho-chi-minh-city",
       "stage": "copy",
       "item": "ho-chi-minh-city--opera-house",
-      "status": "enriched",
-      "note": "Copy uses only opened pages."
-    },
-    {
-      "at": "2026-10-22T10:54:52.871Z",
-      "place": "ho-chi-minh-city",
-      "stage": "page",
-      "item": "ho-chi-minh-city--opera-house",
-      "status": "paged",
-      "note": "Sight file from the dossier."
-    },
-    {
-      "at": "2026-10-22T10:54:52.806Z",
-      "place": "ho-chi-minh-city",
-      "stage": "quality",
-      "item": "ho-chi-minh-city--central-post-office",
-      "status": "checked",
-      "note": "Photo is that subject. Fees that disagree are both printed."
-    },
-    {
-      "at": "2026-10-22T10:54:52.740Z",
-      "place": "ho-chi-minh-city",
-      "stage": "copy",
-      "item": "ho-chi-minh-city--central-post-office",
       "status": "enriched",
       "note": "Copy uses only opened pages."
     }

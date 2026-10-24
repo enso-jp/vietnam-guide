@@ -1,0 +1,57 @@
+{
+  "slug": "cho-lon",
+  "placeSlug": "ho-chi-minh-city",
+  "name": "Cho Lon",
+  "nameVi": "Chợ Lớn",
+  "kicker": "Chinatown in District 5",
+  "summary": "Chợ Lớn in District 5: walk the shophouse streets, for the Chinese quarter of the city. Bình Tây and Thiên Hậu sit on this walk, with the alleys between them, including Hào Sỹ Phường on Trần Hưng Đạo. Come hungry for Cantonese dim sum. The streets are the visit, and the halls are the stops. Check on arrival for a clock.",
+  "dots": 4,
+  "timeNeeded": "A walk. Check on arrival.",
+  "fee": "Check on arrival.",
+  "getThere": "A ride from the cathedral square. Check on arrival for the minutes.",
+  "district": "Chợ Lớn",
+  "verified": "24 Oct 2026",
+  "heroCaption": "A District 5 street of shophouses, with Chinese characters on the signs",
+  "notice": {
+    "title": "Ask before you photograph inside",
+    "body": "Dress properly in the pagodas, and ask before you take a photograph inside. Bình Tây is the wholesale hall on this walk. It is not Bến Thành."
+  },
+  "body": [
+    "Chợ Lớn is the Chinese neighborhood in District 5, and the visit is the walk. Shophouse streets carry Chinese signs and red lanterns. Hào Sỹ Phường, an alley on Trần Hưng Đạo, has kept its rows of townhouses for the last 100 years. Mã Xa Hạng and Tuệ Huê Lý are the lesser-known lanes, old apartment blocks and houses that still show Chinese details.",
+    "Bình Tây is the wholesale hall, with more than 2,000 shops of spices, mushrooms, and dried fish. An Đông is the clothing wholesale market. Đại Quang Minh is the beads, ribbons, and fabric. Thiên Hậu is the pagoda on the same walk. Nghĩa An communal house, a Guan Yu shrine in Teochew style, is a few steps from it. A late breakfast is Cantonese dim sum: prawn dumplings, rice rolls, and radish cake. The walk has no ticket. Check on arrival for a street clock."
+  ],
+  "figures": [
+    {
+      "id": "ho-chi-minh-city-cho-lon-2",
+      "caption": "A shophouse front, red lanterns and gold characters",
+      "alt": "Chinese shophouse in Cho Lon with red lanterns and gold signboard characters"
+    }
+  ],
+  "gettingThere": [
+    "Chợ Lớn is a ride from the cathedral square, inside this city. Check on arrival for the minutes."
+  ],
+  "legs": [
+    {
+      "heading": "From the cathedral square",
+      "body": "A ride into District 5. Check on arrival for the minutes."
+    }
+  ],
+  "hours": "Check on arrival.",
+  "closed": "Check on arrival.",
+  "admissionNote": "Check on arrival. The streets are not ticketed on the pages opened. Hall fees were not printed.",
+  "links": [
+    {
+      "label": "Ways to explore Cho Lon",
+      "url": "https://vietnam.travel/things-to-do/best-ways-explore-cho-lon",
+      "note": "Vietnam National Authority of Tourism"
+    },
+    {
+      "label": "Ho Chi Minh City",
+      "url": "https://vietnam.travel/places-to-go/southern-vietnam/ho-chi-minh-city",
+      "note": "Vietnam National Authority of Tourism"
+    }
+  ],
+  "interests": [
+    "oldTowns"
+  ]
+}
