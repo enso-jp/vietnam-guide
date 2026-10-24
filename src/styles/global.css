@@ -131,6 +131,7 @@ p { margin: 0.55rem 0; }
 .nav-see::after { content: "›"; margin-left: 0.35rem; }
 .nav-see:hover { text-decoration: underline; text-underline-offset: 0.15em; }
 .nav-cards { display: grid; gap: 0.85rem; }
+.cards-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .cards-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 .cards-4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
 .cards-5 { grid-template-columns: repeat(5, minmax(0, 1fr)); }
@@ -188,6 +189,7 @@ p { margin: 0.55rem 0; }
   gap: 0.9rem 1.25rem;
   margin-top: 1.25rem;
 }
+.nav-cols-4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
 .nav-cols-6 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 .nav-kicker + .nav-cols { margin-top: 0; }
 .nav-col-title {
@@ -816,15 +818,19 @@ p { margin: 0.55rem 0; }
   padding: 0.4rem 0.85rem;
   font: inherit;
 }
+.itinerary-index .itinerary-block,
+.itinerary-index .itinerary-corridor,
+.itinerary-index h2,
+.itinerary-index h3 { scroll-margin-top: 7.25rem; }
 .itinerary-index .itinerary-block + .itinerary-block { margin-top: 2.75rem; }
-.itinerary-index .itinerary-block > h2 {
+.itinerary-index .itinerary-band > h2 {
   display: flex;
   width: fit-content;
   align-items: center;
   gap: 0.7rem;
   margin: 0 0 0.9rem;
 }
-.itinerary-index .itinerary-block > h2::after {
+.itinerary-index .itinerary-band > h2::after {
   content: "";
   width: 2.5rem;
   height: 3px;
@@ -832,15 +838,34 @@ p { margin: 0.55rem 0; }
   background: var(--lacquer);
   flex: 0 0 auto;
 }
-.itinerary-index .itinerary-filter { margin-top: 0; }
-.itinerary-index .itinerary-place + .itinerary-place { margin-top: 1.35rem; }
-.itinerary-index .itinerary-place h3 { margin: 0.15rem 0 0; font-size: 1.12rem; }
-.itinerary-index .itinerary-place:first-of-type h3 { margin-top: 0; }
+.itinerary-index .itinerary-place > h2 { margin: 0 0 0.45rem; }
+.itinerary-index .itinerary-place > h2 a { text-decoration: none; }
+.itinerary-index .itinerary-place > h2 a:hover { text-decoration: underline; }
+.itinerary-index .itinerary-corridor + .itinerary-corridor { margin-top: 1.5rem; }
+.itinerary-index .itinerary-corridor h3 { margin: 0 0 0.15rem; font-size: 1.2rem; }
+.itinerary-index .itinerary-kind h3 { margin: 0.85rem 0 0; font-size: 1.05rem; font-weight: 650; }
+.itinerary-index .itinerary-kind:first-of-type h3 { margin-top: 0.15rem; }
+.itinerary-index .itinerary-filter { margin-top: 1.25rem; }
+.itinerary-index .itinerary-see-more {
+  display: block;
+  margin: 0.75rem 0 0 auto;
+  padding: 0.2rem 0;
+  border: 0;
+  background: none;
+  color: var(--link);
+  font: inherit;
+  font-weight: 650;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+.itinerary-index .itinerary-see-more:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
+.itinerary-index [data-see-grid]:not(.is-open) > .itinerary-card.is-extra { display: none; }
 .itinerary-index .itinerary-cards {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 0.85rem;
-  margin-top: 1.15rem;
+  margin-top: 0.75rem;
 }
 .itinerary-index .itinerary-place .itinerary-cards { margin-top: 0.6rem; }
 .itinerary-index .itinerary-matches .itinerary-cards { margin-top: 0; }
@@ -2115,6 +2140,15 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
   font-size: 1.05rem;
   font-weight: 650;
 }
+.plan-page .plan-card h2 a,
+.plan-page .plan-news h2 a {
+  color: var(--link);
+  text-decoration: none;
+}
+.plan-page .plan-card h2 a:hover,
+.plan-page .plan-news h2 a:hover { text-decoration: underline; }
+.plan-section .guide-row p { color: var(--muted); max-width: var(--measure); }
+.plan-section .itinerary-index + .guide-list { margin-top: 1.25rem; }
 .plan-page .plan-card ul { list-style: none; margin: 0; padding: 0; }
 .plan-page .plan-card li a {
   display: block;

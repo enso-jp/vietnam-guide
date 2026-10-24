@@ -1,0 +1,56 @@
+---
+import Base from '../../../layouts/Base.astro';
+import Crumbs from '../../../components/Crumbs.astro';
+import ItineraryCardGrid from '../../../components/ItineraryCardGrid.astro';
+import PlanTabs from '../../../components/PlanTabs.astro';
+import { getItineraries, pageDescription } from '../../../lib/content';
+import { itineraryCard } from '../../../lib/itinerary-index';
+import { planSection, planSections } from '../../../lib/plan-sections';
+import { breadcrumbList, itemList } from '../../../lib/schema';
+
+export function getStaticPaths() {
+  return planSections().map((section) => ({ params: { slug: section.slug } }));
+}
+
+const section = planSection(Astro.params.slug);
+if (!section) throw new Error(`Missing plan section ${Astro.params.slug}`);
+
+const tripCards = section.id === 'itineraries'
+  ? getItineraries()
+      .filter((trip) => section.links.some((link) => link.href === `/itineraries/${trip.slug}`))
+      .sort((a, b) => section.links.findIndex((link) => link.href === `/itineraries/${a.slug}`) - section.links.findIndex((link) => link.href === `/itineraries/${b.slug}`))
+      .map(itineraryCard)
+  : [];
+const textLinks = section.links.filter((link) => !tripCards.some((card) => card.href === link.href));
+const summary = section.links.find((link) => link.summary)?.summary || '';
+const description = section.id === 'itineraries'
+  ? 'Nationwide routes, corridor trips, and timed city walks for Vietnam. Each trip is a sequence of places already on this site.'
+  : pageDescription(summary, section.links.map((link) => link.label).join(', '));
+const path = section.href;
+---
+<Base title={section.title} description={description} path={path} ogType="website" jsonLd={[itemList(section.title, section.links.map((link) => ({ name: link.label, path: link.href }))), breadcrumbList([{ name: 'Plan a trip', path: '/plan' }, { name: section.title, path }])]}>
+  <article class="wrap section plan-section">
+    <Crumbs items={[{ name: 'Plan a trip', href: '/plan' }, { name: section.title }]} />
+    <h1>{section.title}</h1>
+    <PlanTabs current={section.id === 'itineraries' ? undefined : section.tab} />
+    <div class="place-body">
+      {tripCards.length > 0 && (
+        <div class="itinerary-index">
+          <ItineraryCardGrid cards={tripCards} limit={tripCards.length} />
+        </div>
+      )}
+      {textLinks.length > 0 && (
+        <ul class="guide-list">
+          {textLinks.map((link) => (
+            <li>
+              <a class="guide-row" href={link.href}>
+                <strong>{link.label}</strong>
+                {link.summary && <p>{link.summary}</p>}
+              </a>
+            </li>
+          ))}
+        </ul>
+      )}
+    </div>
+  </article>
+</Base>

@@ -1,0 +1,20 @@
+---
+import ItineraryIndexCard from './ItineraryIndexCard.astro';
+import { ITINERARY_CARD_LIMIT, type ItineraryCardModel } from '../lib/itinerary-index';
+
+interface Props {
+  cards: ItineraryCardModel[];
+  limit?: number;
+}
+
+const { cards, limit = ITINERARY_CARD_LIMIT } = Astro.props;
+const capped = cards.length > limit;
+---
+<div class="itinerary-cards" data-itinerary-catalog data-see-grid>
+  {cards.map((card, index) => (
+    <ItineraryIndexCard {...card} extra={capped && index >= limit} />
+  ))}
+</div>
+{capped && (
+  <button type="button" class="itinerary-see-more" data-see-more aria-expanded="false">See more</button>
+)}

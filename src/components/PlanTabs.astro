@@ -1,15 +1,15 @@
 ---
 interface Props {
-  current: 'before' | 'learn' | 'itineraries' | 'stay' | 'travel' | 'living';
+  current?: 'before' | 'learn' | 'itineraries' | 'stay' | 'travel' | 'living';
 }
 const { current } = Astro.props;
 const items = [
-  { id: 'before', href: '/plan#before', label: 'Before you go' },
-  { id: 'learn', href: '/plan#learn', label: 'Learn' },
+  { id: 'before', href: '/plan/sections/before-you-go', label: 'Before you go' },
+  { id: 'learn', href: '/plan/sections/before-you-go', label: 'Learn' },
   { id: 'itineraries', href: '/itineraries', label: 'Itinerary ideas' },
-  { id: 'stay', href: '/plan/where-to-stay', label: 'Accommodation' },
-  { id: 'travel', href: '/plan#travel', label: 'Transportation' },
-  { id: 'living', href: '/plan/living', label: 'Living' },
+  { id: 'stay', href: '/plan/sections/accommodation', label: 'Accommodation' },
+  { id: 'travel', href: '/plan/sections/transportation', label: 'Transportation' },
+  { id: 'living', href: '/plan/sections/living', label: 'Living' },
 ];
 ---
 <nav class="tabs" aria-label="Plan a trip">

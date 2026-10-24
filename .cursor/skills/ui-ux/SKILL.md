@@ -26,9 +26,9 @@ These frames are closed. A later pass uses them as they are written here.
 
 ### Header
 
-On a desktop, Destinations, Interests, and Plan a trip sit centered in the bar. The logo stays on the left. Hover shows a photo panel of options. Clicking the name still opens the full page.
+On a desktop, Destinations, Interests, Itineraries, and Plan a trip sit centered in the bar. The logo stays on the left. Hover shows a photo panel of options. Clicking the name still opens the full page.
 
-On a phone, the logo is centered and the menu is a button at the top right. The homepage opens on a cover photo. The phone menu is Home, Destinations, Interests, and Plan a trip. Saved is removed. The menu has no Forum, Sign in, or Videos.
+On a phone, the logo is centered and the menu is a button at the top right. The homepage opens on a cover photo. The phone menu is Home, Destinations, Interests, Itineraries, and Plan a trip. Saved is removed. The menu has no Forum, Sign in, or Videos.
 
 ### Homepage
 
@@ -50,7 +50,7 @@ Under the grid, a region list. Each region has a small highlighted map. Each pla
 
 ### Plan a trip
 
-`src/pages/plan/index.astro`. On a phone, the page is a two-column card grid of the sections already on the site. A section that is longer has See all. Vietnam travel news sits at the bottom and links to the existing blog posts, the same posts as the homepage highlights. Each card links into that blog. No invented stories, and no flight ad.
+`src/pages/plan/index.astro`. On a phone, the page is a two-column card grid of the sections already on the site. A section that is longer has See all. Each section header links to `/plan/sections/{slug}` and that page lists the same guides, routes, and itineraries. Vietnam travel news sits at the bottom and links to the existing blog posts, the same posts as the homepage highlights. Each card links into that blog. No invented stories, and no flight ad.
 
 ### Itinerary
 
@@ -72,7 +72,7 @@ Attractions are one packed grid. Six cards, then a full-width “Show all” con
 
 On a place page, interests are one slider. Dining and F&B is the first card when this place has a food guide, and that card opens `/food/{slug}`. Resort Living opens `/resort-living/{slug}` when that group is on the place. Every other group opens `/{place}/by-interest/{slug}`, which is the existing interest-group page: lede, section nav, block paragraphs, and photo cards. What else belongs on the row is `.cursor/skills/city-setup/SKILL.md`. Hide the scrollbar. Do not put Previous and Next text buttons above the row. Do not stack a second slider per group.
 
-The itinerary index is photo cards. A lacquer rule marks a section once. It does not sit under every heading.
+The itinerary index is photo cards, two per row on desktop and phone. Nationwide, then Regional grouped by corridor, then day plans by place with Full day and Half day. A lacquer rule marks Nationwide and Regional only. It does not sit under every heading. A card group with more than 10 cards shows 10 and See more. Gateway and duration pickers sit under those grids.
 
 ## Visual system
 
@@ -149,7 +149,7 @@ Work top to bottom. One family, then stop. Mark it here when the template matche
 
 - [x] **Attraction** — `src/components/AttractionView.astro`. The hero, the caption, the fact bar, the lacquer notice, the hour rows, and the Also in cards are in place. A record with no `body` still renders the short header. Words, the second photo, and the sections are `.cursor/skills/attraction-page/SKILL.md`. Do not add the city sidebar.
 - [x] **Food guide and dish** — `src/pages/food/[slug].astro`. Keep `nameVi` on a dish. The fact strip is two cells. A dish page leads with a licensed photo of that dish, then history, culture, texture, taste, and how to enjoy it when the record has them, plus a second photo when the file exists. A destination food guide follows the page order in `.cursor/skills/city-setup/SKILL.md`: hero, intro, city specialties with a highlights list and a photo essay per dish, regional dishes only if sourced, international dining, casual dining, fine dining, themed dining, and breakfast only if sourced. Optional `role` keeps a section in that order. A section with no `role` prints after the specialty essays under its own heading. Book your stay is the existing rail. Do not add a poll, an ad, or a hotel ranking. A card needs a licensed photo of that dish or that room. An entry with no photo is named in the guide and is not a card. A two-dish guide is not done. The template pass owns the food template. A content run does not edit it. A shop with no licensed photo stays off the shopping cards.
-- [x] **Itinerary** — `src/pages/itineraries/[slug].astro`. The fact bar is three columns. Duration uses the clock icon. Budget and pace do not. A multi-day page adds a route map and one photo card per day. A day plan is a stop timeline with travel minutes, then recommended additions when the record has them. The map uses a sourced pin, or the province center when the place slug is that province. A town with no pin is left off the line.
+- [x] **Itinerary** — `src/pages/itineraries/[slug].astro` and `src/pages/itineraries/index.astro`. The fact bar is three columns. Duration uses the clock icon. Budget and pace do not. A multi-day page adds a route map and one photo card per day. A day plan is a stop timeline with travel minutes, then recommended additions when the record has them. The map uses a sourced pin, or the province center when the place slug is that province. A town with no pin is left off the line. The index is two-column photo cards: Nationwide, Regional by corridor, then Full day and Half day by place. A lacquer rule marks Nationwide and Regional only. A group longer than 10 cards shows See more. Pickers sit under the grids.
 - [ ] **Festival** — `src/pages/festivals/[slug].astro`. Keep `nameVi`. The “When” cell is already in the rounded strip, but it sits in a four-column bar and has no icon. Set the column count, use the calendar icon, and turn the place list into rows. Add a photo only when a real festival photo exists. Do not use the city banner and call it the event.
 - [x] **Interest** — `src/pages/interests/[slug].astro`, `src/pages/interests/index.astro`, and `src/components/InterestGroupView.astro`. The index lede is one traveler sentence. A page leads with the subject photo, then city cards for places and sights that have a licensed photo of that subject. A nationwide place card links to the place guide. Food points at the food guides. A place or sight with no licensed photo of the subject stays in the text. Do not title a block “Related interests”. On a phone, the first card group is two cards on a line (the index tiles, and the first section on a nationwide interest page and on `/{place}/by-interest/{slug}`). The second card group is a compact row on phone and desktop: a small photo on the left, the title and description on the right.
 - [x] **Home and destinations** — `src/pages/index.astro`, `src/pages/destinations/index.astro`, `src/pages/destinations/[slug].astro`. Adopt the type, pills, cards, and lacquer. Do not copy the city sidebar or the city fact bar onto the homepage.

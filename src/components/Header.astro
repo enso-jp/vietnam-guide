@@ -5,19 +5,21 @@ import interestPhotos from '../content/interest-photos.json';
 import {
   attractionsForInterest,
   corridorsNorthToSouth,
-  getGuides,
   getItineraries,
   itineraryPhoto,
   placePath,
   placesForInterest,
   placesInCorridor,
 } from '../lib/content';
+import { compareItineraryTitle, groupItineraries } from '../lib/itinerary-index';
 import { photoPath } from '../lib/photos';
+import { planSections } from '../lib/plan-sections';
 import type { Itinerary } from '../lib/types';
 
 const path = Astro.url.pathname;
 const current = (href: string) => (path === href || path.startsWith(`${href}/`) ? 'page' : undefined);
-const planOn = current('/plan') || current('/get-there') || current('/itineraries') || current('/seasons');
+const planOn = current('/plan') || current('/get-there') || current('/seasons');
+const itineraryOn = current('/itineraries');
 const interestOn = current('/interests') || current('/food');
 
 const corridors = corridorsNorthToSouth().map((corridor) => {
@@ -58,27 +60,38 @@ const featuredInterests = interestColumns
   .map((group) => group.items[0])
   .filter((item) => Boolean(item));
 
-const guides = getGuides();
-const bySlug = new Map(guides.map((guide) => [guide.slug, guide]));
-const guideLink = (slug: string) => {
-  const guide = bySlug.get(slug);
-  return guide ? { href: `/plan/${guide.slug}`, label: guide.title } : null;
-};
-const before = ['when-to-go', 'e-visa', 'money', 'sim-and-wifi', 'luggage', 'street-manners', 'eating-manners']
-  .map(guideLink)
-  .filter((item): item is { href: string; label: string } => Boolean(item));
-const stay = ['where-to-stay'].map(guideLink).filter((item): item is { href: string; label: string } => Boolean(item));
-const travel = ['flights', 'trains', 'buses', 'grab-and-taxis', 'motorbikes']
-  .map(guideLink)
-  .filter((item): item is { href: string; label: string } => Boolean(item));
-const tripRank = ['best-14-days', 'north-7-days', 'central-5-days', 'south-5-days'];
-const trips = getItineraries()
-  .filter((trip) => trip.level === 'nationwide' || trip.level === 'region')
-  .sort((a, b) => {
-    const ai = tripRank.indexOf(a.slug);
-    const bi = tripRank.indexOf(b.slug);
-    return (ai < 0 ? 99 : ai) - (bi < 0 ? 99 : bi) || a.title.localeCompare(b.title);
-  });
+const planColumns = planSections();
+const groupedTrips = groupItineraries(getItineraries());
+const trips = [
+  ...groupedTrips.nationwide,
+  ...groupedTrips.corridors.flatMap((group) => group.trips),
+  ...groupedTrips.regionalLoose,
+].sort(compareItineraryTitle);
+const itineraryColumns = [
+  {
+    title: 'Nationwide',
+    links: groupedTrips.nationwide.map((trip) => ({ href: `/itineraries/${trip.slug}`, label: trip.title })),
+  },
+  {
+    title: 'Regional',
+    links: [
+      ...groupedTrips.corridors.map((group) => ({ href: `/itineraries#corridor-${group.slug}`, label: group.name })),
+      ...groupedTrips.regionalLoose.map((trip) => ({ href: `/itineraries/${trip.slug}`, label: trip.title })),
+    ],
+  },
+  {
+    title: 'Full day',
+    links: groupedTrips.places
+      .filter((place) => place.day.length > 0)
+      .map((place) => ({ href: `/itineraries#place-${place.slug}`, label: place.name })),
+  },
+  {
+    title: 'Half day',
+    links: groupedTrips.places
+      .filter((place) => place.half.length > 0)
+      .map((place) => ({ href: `/itineraries#place-${place.slug}`, label: place.name })),
+  },
+];
 const usedTripPhotos = new Set<string>();
 function tripPhoto(trip: Itinerary): string {
   const listed = [
@@ -94,23 +107,7 @@ const featuredTrips = trips.map((trip) => ({
   label: trip.title,
   photo: tripPhoto(trip),
 }));
-const living = ['living', 'taxes'].map(guideLink).filter((item): item is { href: string; label: string } => Boolean(item));
-const planColumns = [
-  {
-    title: 'Before you go',
-    links: [...before, { href: '/seasons', label: 'Seasons' }, { href: '/festivals', label: 'Festivals' }],
-  },
-  { title: 'Accommodation', links: stay },
-  { title: 'Transportation', links: [...travel, { href: '/get-there', label: 'Routes between places' }] },
-  {
-    title: 'Itineraries',
-    links: [
-      ...trips.map((trip) => ({ href: `/itineraries/${trip.slug}`, label: trip.title })),
-      { href: '/itineraries', label: 'All itineraries' },
-    ],
-  },
-  { title: 'Living', links: living },
-];
+const itineraryPhotos = featuredTrips.filter((trip) => photoPath(trip.photo)).slice(0, 4);
 ---
 <a class="skip" href="#content">Skip to content</a>
 <header class="topbar">
@@ -179,6 +176,38 @@ const planColumns = [
         </div>
       </div>
       <div class="nav-slot">
+        <a href="/itineraries" aria-current={itineraryOn || undefined}>Itineraries</a>
+        <div class="nav-panel" aria-label="Itineraries">
+          <div class="nav-panel-inner">
+            <div class="nav-panel-head">
+              <a class="nav-see" href="/itineraries">See all itineraries</a>
+            </div>
+            {itineraryPhotos.length > 0 && (
+              <div class:list={['nav-cards', `cards-${itineraryPhotos.length}`]}>
+                {itineraryPhotos.map((trip) => (
+                  <a class="nav-card" href={trip.href}>
+                    <Photo id={trip.photo} alt="" cover="town" />
+                    <span>{trip.label}</span>
+                  </a>
+                ))}
+              </div>
+            )}
+            <div class="nav-cols nav-cols-4">
+              {itineraryColumns.map((column) => (
+                <div>
+                  <p class="nav-col-title">{column.title}</p>
+                  <ul>
+                    {column.links.map((item) => (
+                      <li><a href={item.href}>{item.label}</a></li>
+                    ))}
+                  </ul>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="nav-slot">
         <a href="/plan" aria-current={planOn || undefined}>Plan a trip</a>
         <div class="nav-panel" aria-label="Plan a trip">
           <div class="nav-panel-inner">
@@ -196,7 +225,7 @@ const planColumns = [
             <div class="nav-cols">
               {planColumns.map((column) => (
                 <div>
-                  <p class="nav-col-title">{column.title}</p>
+                  <p class="nav-col-title"><a href={column.href}>{column.title}</a></p>
                   <ul>
                     {column.links.map((item) => (
                       <li><a href={item.href}>{item.label}</a></li>
@@ -230,6 +259,7 @@ const planColumns = [
     <nav aria-label="Menu">
       <a href="/destinations">Destinations <span aria-hidden="true">›</span></a>
       <a href="/interests">Interests <span aria-hidden="true">›</span></a>
+      <a href="/itineraries">Itineraries <span aria-hidden="true">›</span></a>
       <a href="/plan">Plan a trip <span aria-hidden="true">›</span></a>
     </nav>
   </div>
