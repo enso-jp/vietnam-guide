@@ -1,5 +1,8 @@
-export function stayLink(placeName: string): string {
-  return `https://www.agoda.com/search?q=${encodeURIComponent(`${placeName}, Vietnam`)}`;
+/** Destination Hotels “Search stays”. The same Trip.com affiliate on every place. */
+export const tripStaySearch = 'https://www.trip.com/t/o8DaMeOXsW2';
+
+export function stayLink(_placeName: string): string {
+  return tripStaySearch;
 }
 
 export function busLink(path: string): string {
