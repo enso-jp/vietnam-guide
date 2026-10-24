@@ -530,3 +530,13 @@ Published this pass, with a licensed frame opened the same day. Per-sight notes 
 - Nguyễn Huệ hero replaced. The daylight frame (half sky, construction barriers) moved to the second photo. The new hero is the night paving, File:Nguyen Hue Pedestrian Boulevard (37163950285).jpg, Terrazzo, CC BY 2.0. The living-statue frame was removed because the performers, not the street, filled the foreground.
 - Vincom Center Đồng Khởi already had a hero file. A second frame was added: File:Ho Chi Minh City, Vincom Center, 2020-01 CN-02.jpg, Steffen Schmitz, CC BY-SA 4.0.
 - Landmark 81 deck price: the Vincom store URL did not return a tariff, and landmark81skyview.com was a gambling page. Fee stays Check on arrival. No height was printed.
+
+## Addendum — 24 Oct 2026
+
+Neighborhood visits named by the owner. Per-sight notes are in `research/ho-chi-minh-city/attractions/`. Status of the dossier stays stored.
+
+- `japan-town`. Kind area. S38 and S39. Length disagrees: 300 m and less than 2 km. Both stay. Hours agree. Dot proposed 4. Licensed frames of the alley and of Thái Văn Lung. Paged.
+- `cho-lon`. The 22 Oct district entry stays. S40 is the street walk. A shophouse frame that is not the Bình Tây gate and not Thiên Hậu is now filed. Dot 4, the figure already suggested. Paged. It stays an area of this city.
+- `thao-dien`. S41, S42, and the station name on S7. Unpublished: no licensed photo of the streets, cafes, or bars.
+- `pham-viet-chanh`. One sentence on S38. Unpublished: no second page and no licensed photo of the Bình Thạnh street.
+- Nguyễn Huệ already has a page. Left off: a separate District 2 riverside card, Vĩnh Khánh, Oishi Town, and the still-unpublished sights listed on 23 Oct.

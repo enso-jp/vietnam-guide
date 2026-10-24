@@ -225,3 +225,35 @@ A fact with a source id was opened that day and is stamped verified. A line mark
 - Publisher: Thảo Cầm Viên Sài Gòn
 - Accessed: 23 Oct 2026
 - Supports: Heading: adult from 1.3 m 60,000 đồng, child from 1 m to under 1.3 m 40,000 đồng, under 1 m free with a parent. One product line repeats the 1.3 m band on the 40,000 đồng row. Both wordings stay. Buy at the gate or saigonzoo.vn. Online ticket valid 30 days, no refund.
+
+### S38
+- URL: https://vnexpress.net/little-japan-o-sai-gon-4060206.html
+- Publisher: VnExpress
+- Accessed: 24 Oct 2026
+- Supports: Little Japan. Alley 15B Lê Thánh Tôn. 300 m of Lê Thánh Tôn connecting Thái Văn Lung, Thi Sách, and Ngô Văn Năm. Alley 8A Thái Văn Lung. Food, bars, coffee. Daytime quiet. Lunch kitchens often 11:00–14:00. Busy from 17:00. Shops usually until 22:00. Some bars until 01:00. A smaller Japanese community on Phạm Viết Chánh, Bình Thạnh, closer to factories in Bình Dương and Đồng Nai than the center. Ramen about 100,000 đồng is a stall price and is not a fee. Hotel room prices on the page are not used.
+
+### S39
+- URL: https://tuoitre.vn/dulichtphcm/little-japan-town-pho-nhat-dep-hut-hon-gioi-tre-10766900.htm
+- Publisher: Tuổi Trẻ
+- Accessed: 24 Oct 2026
+- Supports: Dated 13 January 2024. Alleys of less than 2 km at Lê Thánh Tôn and Thái Văn Lung. More than 300 Japanese households. Sushi, sashimi, ramen, tempura, sukiyaki, cafes. Alley 15B graffiti. Daytime quiet. Lunch 11:00–14:00, busy from about 17:00, most kitchens close at 22:00, some bars until 01:00. Length disagrees with S38. Both stay. Hours agree. Does not describe Phạm Viết Chánh, Oishi Town, or Thảo Điền. Takoyaki 20,000 đồng for 3 and 30,000 for 6 are stall prices and are not a fee.
+
+### S40
+- URL: https://vietnam.travel/things-to-do/best-ways-explore-cho-lon
+- Publisher: Vietnam National Authority of Tourism
+- Accessed: 24 Oct 2026
+- Supports: District 5 Chinatown walk. Hào Sỹ Phường on Trần Hưng Đạo, townhouses for the last 100 years. Mã Xa Hạng, Tuệ Huê Lý. Thiên Hậu. Nghĩa An, Teochew, Guan Yu, a few steps away. Dress properly and ask before photos inside. Bình Tây, more than 2,000 shops. An Đông clothing. Đại Quang Minh beads, ribbons, and fabric. Cantonese dim sum: prawn dumplings, rice rolls, radish cake. Named dim-sum houses stay in the attraction research file and are not a public ranking. No clock, no fee, no minutes.
+
+### S41
+- URL: https://vietnam.travel/things-to-do/vibrant-metropolis-ho-chi-minh-city%E2%80%99s-modern-pulse-nightlife-culture
+- Publisher: Vietnam National Authority of Tourism
+- Accessed: 24 Oct 2026
+- Supports: District 1, District 3, and the Thảo Điền area. Riverside neighbourhoods are the relaxed, international side. No Thảo Điền street, clock, or fee.
+
+### S42
+- URL: https://e.vnexpress.net/news/travel/food-recipes/places-worth-a-visit-in-thao-dien-one-of-world-s-coolest-neighborhoods-4874391.html
+- Publisher: VnExpress International
+- Accessed: 24 Oct 2026
+- Supports: Dated 4 May 2025. A stroll on Xuân Thủy passes eateries and bars. Expat side of the city. Surrounding streets flood in the rainy season. A Time Out ranking, a resident count, and “largest” are not used. Named restaurants stay off a public list. A latte price is one cafe and is not a fee.
+
+A Visit HCMC Little Japan URL returned HTTP 301 to the news index on 24 Oct 2026 and was not read. Snippets that named “open 24/24,” Oishi Town, or a Phạm Viết Chánh count were not used.

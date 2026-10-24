@@ -32,3 +32,11 @@ Checked: 22 Oct 2026. These stay check on arrival. Nothing here was copied into 
 - Ben Thanh night market starts at 7:00 PM on S25. A closing hour was not printed. Check on arrival.
 - S24 does not say the plate of flan and the braised chicken egg are the same dessert.
 - The largest-markets article and the nine night-markets article on Visit HCMC redirected to the news index on 23 Oct 2026. They were not read.
+
+Checked again: 24 Oct 2026.
+
+- A street frame of Chợ Lớn is now filed (S40 and the shophouse photographs). The 22 Oct line “no single Chợ Lớn frame” is the earlier gap. Bình Tây and Thiên Hậu stay their own cards. A street clock and a hall fee were still not printed.
+- Japan Town on Lê Thánh Tôn is filed (S38, S39). The length is 300 m on S38 and less than 2 km on S39. Both stay. A minute from Nguyễn Huệ was not printed. Stall prices are not the fee.
+- Thảo Điền is left off the public page. S41 and S42 describe the riverside cafes and bars, and S7 names the metro station. No licensed photo shows the streets, cafes, or bars. Station frames, construction, and a view of the opposite bank are the wrong subject.
+- Phạm Viết Chánh / New Japan Town is left off. S38 has one sentence that a smaller Japanese community lives there in Bình Thạnh. A second page was not opened. The Visit HCMC article redirected. No licensed photo of that Bình Thạnh street. The District 1 panoramio is a different street.
+- Nguyễn Huệ is already a page. A separate District 2 riverside page was not opened. Vĩnh Khánh still has no licensed night-street photo. Oishi Town was only in the unread redirected article. Giác Lâm, the City Hall facade, Đồng Khởi as a walking street, FITO, Ba Son, Suối Tiên, Tao Đàn, and Turtle Lake stay unpublished.
