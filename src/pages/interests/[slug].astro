@@ -50,6 +50,15 @@ function stars(dots: number): string {
   const filled = Math.max(0, Math.min(5, dots));
   return Array.from({ length: 5 }, (_, index) => (index < filled ? '★' : '☆')).join('');
 }
+
+/** First card group stays a photo grid. The second is a compact row. */
+let cardGroups = 0;
+const cardLayouts = sections.map((section) => {
+  if (section.cards.length === 0) return 'rest';
+  const layout = cardGroups === 0 ? 'lead' : cardGroups === 1 ? 'lines' : 'rest';
+  cardGroups += 1;
+  return layout;
+});
 ---
 <Base title={`${label} in Vietnam`} description={description} path={path} ogType="website" jsonLd={jsonLd} ogImage={heroId ? photoPath(heroId) : undefined}>
   <article class="wrap section">
@@ -66,11 +75,14 @@ function stars(dots: number): string {
     <SectionNav label={`${label} sections`} items={sections.map((section) => ({ id: section.id, label: section.heading }))} />
     <div class="reading place-body">
       {copy?.body.map((paragraph) => <p>{paragraph}</p>)}
-      {sections.map((section) => (
+      {sections.map((section, sectionIndex) => (
         <section id={section.id} class="place-section">
           <h2>{section.heading}</h2>
           {section.cards.length > 0 && (
-            <div class={section.food ? 'food-grid' : 'jg-grid'}>
+            <div class:list={[
+              cardLayouts[sectionIndex] === 'lines' ? 'interest-lines' : (section.food ? 'food-grid' : 'jg-grid'),
+              { 'interest-lead': cardLayouts[sectionIndex] === 'lead' },
+            ]}>
               {section.cards.map((card, index) => section.food ? (
                 <a class="food-card" href={card.href}>
                   <span class="media"><Photo id={card.photo} alt={card.alt} /></span>
