@@ -1,0 +1,27 @@
+{
+  "slug": "pac-bo-half-day",
+  "title": "Pac Bo half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "cao-bang",
+  "budget": "Check on arrival",
+  "pace": "Out and back",
+  "photo": "cao-bang-pac-bo",
+  "summary": "Pac Bo from Cao Bang. The visit is half a day from the city, including the drive. The fee and the drive minutes are Check on arrival.",
+  "stops": [
+    {
+      "name": "Pac Bo",
+      "minutes": "Check on arrival",
+      "placeSlug": "cao-bang",
+      "attractionSlug": "pac-bo",
+      "note": "Half a day from the city, including the drive. The fee is Check on arrival.",
+      "approach": {
+        "mode": "taxi",
+        "note": "The drive from Cao Bang. Minutes are Check on arrival."
+      }
+    }
+  ],
+  "seoTitle": "Pac Bo half day",
+  "seoDescription": "A half day at Pac Bo from Cao Bang, including the drive. The fee is Check on arrival."
+}

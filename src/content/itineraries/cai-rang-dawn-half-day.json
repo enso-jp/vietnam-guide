@@ -1,0 +1,34 @@
+{
+  "slug": "cai-rang-dawn-half-day",
+  "title": "Cai Rang at dawn",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "can-tho",
+  "budget": "Check on arrival",
+  "pace": "Dawn on the river",
+  "photo": "can-tho-cai-rang",
+  "summary": "Be at Cai Rang at dawn. Allow 60 minutes at the market. A boat is 300,000–700,000 VND. Hủ tiếu is the bowl.",
+  "stops": [
+    {
+      "name": "Cai Rang",
+      "minutes": 60,
+      "placeSlug": "can-tho",
+      "attractionSlug": "cai-rang",
+      "note": "60 minutes at the market. A boat is 300,000–700,000 VND.",
+      "approach": {
+        "mode": "boat",
+        "note": "The boat to the floating market. Minutes on the water are Check on arrival."
+      }
+    },
+    {
+      "name": "Hu tieu",
+      "minutes": "Check on arrival",
+      "placeSlug": "can-tho",
+      "dishSlug": "hu-tieu-can-tho",
+      "note": "Eat hủ tiếu."
+    }
+  ],
+  "seoTitle": "Cai Rang at dawn",
+  "seoDescription": "A dawn half day at Cai Rang. Allow 60 minutes at the market. A boat is 300,000–700,000 VND."
+}
