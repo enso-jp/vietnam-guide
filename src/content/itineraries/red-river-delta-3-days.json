@@ -1,0 +1,38 @@
+{
+  "slug": "red-river-delta-3-days",
+  "title": "The Red River Delta in 3 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "3 days",
+  "daysCount": 3,
+  "corridor": "red-river-delta",
+  "budget": "Midrange",
+  "pace": "The lake, then one valley",
+  "summary": "Hoan Kiem and Hoa Lo, then a day at Trang An. This is the short stay, not Ha Long and not the mountains.",
+  "routeSlugs": ["hanoi-to-ninh-binh"],
+  "days": [
+    {
+      "title": "Day 1 — Hoan Kiem",
+      "body": "Walk the Old Quarter and the path around Hoan Kiem Lake. The lake path is free. Ngoc Son Temple, on the island, charges its own ticket.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "itinerarySlug": "hanoi-old-quarter-walk"
+    },
+    {
+      "title": "Day 2 — Hoa Lo",
+      "body": "Walk the cells at Hoa Lo, at 1 Hoa Lo, south of the lake. An adult ticket is 50,000 VND.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoa-lo"
+    },
+    {
+      "title": "Day 3 — Trang An",
+      "body": "Go to Ninh Binh for the Trang An sampan and come back. An adult over 1.3 m is 300,000 đồng. How long the boats take is Check on arrival.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-trang-an",
+      "routeSlug": "hanoi-to-ninh-binh",
+      "itinerarySlug": "ninh-binh-day"
+    }
+  ],
+  "seoTitle": "3 days in the Red River Delta",
+  "seoDescription": "A short Hanoi stay: Hoan Kiem, Hoa Lo, and a day at Trang An."
+}

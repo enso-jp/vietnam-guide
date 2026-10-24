@@ -184,7 +184,7 @@ const APPROACH_MODES = new Set(['walk', 'bicycle', 'grab', 'taxi', 'boat', 'bus'
 const NATIONWIDE_DAYS = new Set([10, 14, 18, 21]);
 const REGION_DAYS = {
   'northern-midlands': new Set([4, 5, 7, 9]),
-  'red-river-delta': new Set([5, 7, 9]),
+  'red-river-delta': new Set([3, 5, 7, 9]),
   'north-central': new Set([4, 5, 7]),
   'south-central-highlands': new Set([4, 5, 7]),
   southeast: new Set([4]),

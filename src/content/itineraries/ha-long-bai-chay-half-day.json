@@ -1,0 +1,41 @@
+{
+  "slug": "ha-long-bai-chay-half-day",
+  "title": "Bai Chay half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "ha-long",
+  "budget": "Check on arrival",
+  "pace": "The shore, not the bay",
+  "photo": "ha-long-sun-world",
+  "summary": "Sun World, Bai Chay Bridge, and the Quang Ninh Museum. This is the shore. The bay boat is a different day. Bai Tho stays off this walk.",
+  "stops": [
+    {
+      "name": "Sun World",
+      "minutes": "Check on arrival",
+      "placeSlug": "ha-long",
+      "attractionSlug": "sun-world",
+      "note": "The cable ride is about 5 minutes. Weekday cable hours are 14:00–20:00, and Saturday–Sunday 09:00–20:00. Dragon Park and the water park are listed at 09:00–18:00, and a reseller line says those parks had stopped. Cable prices do not match: 380,000 / 280,000 đồng for 1 June–31 July 2026, child 1 m–1.4 m; adult 340,000 and child 250,000 on the airline sheet from 29 July 2026, VAT not included; adult two-way 380,000 for 1 October–31 December 2026. Combos are priced apart from the cable fare.",
+      "approach": {
+        "mode": "taxi",
+        "note": "About 9 km from the center, or 500 m from the passenger port. A taxi from the center is 100,000–200,000 đồng one way. Minutes are Check on arrival."
+      }
+    },
+    {
+      "name": "Bai Chay Bridge",
+      "minutes": "Check on arrival",
+      "placeSlug": "ha-long",
+      "attractionSlug": "bai-chay-bridge",
+      "note": "The bridge between the shores. The walk minute, the length, the year, and the toll are Check on arrival."
+    },
+    {
+      "name": "Quang Ninh Museum",
+      "minutes": "Check on arrival",
+      "placeSlug": "ha-long",
+      "attractionSlug": "quang-ninh-museum",
+      "note": "An adult ticket is 40,000 đồng. How long to allow is Check on arrival."
+    }
+  ],
+  "seoTitle": "Bai Chay half day",
+  "seoDescription": "A shore half day at Bai Chay: Sun World, the bridge, and the Quang Ninh Museum. Cable prices do not match."
+}
