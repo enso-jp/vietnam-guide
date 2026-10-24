@@ -9,10 +9,12 @@ interface Props {
   linked?: boolean;
   /** When false, province names are not painted. Compact maps stay shapes only. */
   names?: boolean;
+  /** Override the compact mainland frame. The homepage map ignores this. */
+  viewBox?: string;
 }
-const { variant = 'compact', active, linked = true, names = true } = Astro.props;
+const { variant = 'compact', active, linked = true, names = true, viewBox } = Astro.props;
 const home = variant === 'home';
-const mainlandViewBox = '68 8 276 530';
+const mainlandViewBox = viewBox || '68 8 276 530';
 const pins = home && names ? mapPins(vietnamProvinces) : [];
 const southCentral = 'south-central-highlands';
 const islandsOn = active === southCentral;

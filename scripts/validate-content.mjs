@@ -269,10 +269,31 @@ for (const trip of itineraries) {
       }
     }
     if (stop.dishSlug && !dishes.has(stop.dishSlug)) errors.push(`${slug} stop ${stop.name} dish ${stop.dishSlug} missing`);
+    if (stop.minutes != null && stop.minutes !== 'Check on arrival' && (!Number.isFinite(stop.minutes) || stop.minutes < 0)) {
+      errors.push(`${slug} stop ${stop.name} minutes missing`);
+    }
     if (stop.approach) {
       if (!APPROACH_MODES.has(stop.approach.mode)) errors.push(`${slug} stop ${stop.name} approach missing`);
       if (!stop.approach.note) errors.push(`${slug} stop ${stop.name} approach note missing`);
       if (stop.approach.fee != null || stop.approach.price != null) errors.push(`${slug} stop ${stop.name} approach has a fee`);
+    }
+  }
+
+  for (const extra of trip.additions || []) {
+    if (!extra.name || !extra.note) errors.push(`${slug} addition missing a name or note`);
+    if (extra.fee != null || extra.hours != null || extra.price != null || extra.minutes != null) {
+      errors.push(`${slug} addition ${extra.name || ''} has a fee, hour, or time`);
+    }
+    if (extra.placeSlug && !placeSlugs.has(extra.placeSlug)) errors.push(`${slug} addition ${extra.name} place ${extra.placeSlug} missing`);
+    if (extra.attractionSlug) {
+      if (!extra.placeSlug) errors.push(`${slug} addition ${extra.name} attraction needs a place`);
+      else if (!attractionPairs.has(`${extra.placeSlug}/${extra.attractionSlug}`)) {
+        errors.push(`${slug} addition ${extra.name} attraction ${extra.placeSlug}/${extra.attractionSlug} missing`);
+      }
+    }
+    if (extra.dishSlug && !dishes.has(extra.dishSlug)) errors.push(`${slug} addition ${extra.name} dish ${extra.dishSlug} missing`);
+    if (extra.itinerarySlug && !itineraryBySlug.has(extra.itinerarySlug)) {
+      errors.push(`${slug} addition ${extra.name} itinerary ${extra.itinerarySlug} missing`);
     }
   }
 }

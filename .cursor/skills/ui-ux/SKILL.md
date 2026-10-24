@@ -52,6 +52,14 @@ Under the grid, a region list. Each region has a small highlighted map. Each pla
 
 `src/pages/plan/index.astro`. On a phone, the page is a two-column card grid of the sections already on the site. A section that is longer has See all. Vietnam travel news sits at the bottom and links to the existing blog posts, the same posts as the homepage highlights. Each card links into that blog. No invented stories, and no flight ad.
 
+### Itinerary
+
+`src/pages/itineraries/[slug].astro`. The fact bar is duration, budget, and pace. Duration uses the clock icon. Budget and pace do not.
+
+A multi-day page is that bar, a route map, and one photo card per day. The map draws a sourced place pin, or the province center when the place slug is that province. A town with no pin stays off the line. The map stays hidden until two pins exist. A day card links to the day plan when the record names one, and otherwise to the place.
+
+A day plan is the same bar, then a stop timeline. Travel minutes sit on the leg between stops and come from that stop. Recommended additions render only when the record lists them. Do not invent a minute, a fee, or an hour.
+
 ### Destination page
 
 `src/components/PlaceView.astro`, filled by `src/content/places/da-nang.json`. This frame is closed.
@@ -114,7 +122,7 @@ A sight, event, or side-trip card is `.jg-card`: photo on top, a round rank numb
 
 An interest row is one `.portrait` slider, as in Decided page frames. The card is a tall rounded photo, the name and a small line icon on the image, and a round white arrow at the right of the row. An itinerary row uses the same card. Hide the scrollbar. Do not put Previous and Next text buttons above the row.
 
-An itinerary day is a photo on the left and the day title plus one paragraph on the right. The row links to that place. A walk keeps stop rows with the stop photo.
+A multi-day itinerary is a route map and one photo card per day. The card is the day title and that day's paragraph. It links to the day plan when the record names one, and otherwise to the place. A day plan is a stop timeline. Travel minutes sit on the leg and come from that stop. Recommended additions render only when the record has them.
 
 Hotels and restaurants stay the affiliate row: photo on the left, area name, one line, and a button. That row is not a booking widget.
 
@@ -133,7 +141,7 @@ These shared rules already reach other templates, without a full pass:
 - `.facts` is a rounded strip. Only `FactBar` prints icons and sets the column count.
 - `.tabs` is the lacquer underline, including plan, food, and section tabs.
 - `.jg-card` is the soft card, including destination cards.
-- Itinerary days are already photo rows.
+- Itinerary pages use the route map, day cards, and the stop timeline.
 
 ## Still to do
 
@@ -141,7 +149,7 @@ Work top to bottom. One family, then stop. Mark it here when the template matche
 
 - [x] **Attraction** — `src/components/AttractionView.astro`. The hero, the caption, the fact bar, the lacquer notice, the hour rows, and the Also in cards are in place. A record with no `body` still renders the short header. Words, the second photo, and the sections are `.cursor/skills/attraction-page/SKILL.md`. Do not add the city sidebar.
 - [x] **Food guide and dish** — `src/pages/food/[slug].astro`. Keep `nameVi` on a dish. The fact strip is two cells. A dish page leads with a licensed photo of that dish, then history, culture, texture, taste, and how to enjoy it when the record has them, plus a second photo when the file exists. A destination food guide follows the page order in `.cursor/skills/city-setup/SKILL.md`: hero, intro, city specialties with a highlights list and a photo essay per dish, regional dishes only if sourced, international dining, casual dining, fine dining, themed dining, and breakfast only if sourced. Optional `role` keeps a section in that order. A section with no `role` prints after the specialty essays under its own heading. Book your stay is the existing rail. Do not add a poll, an ad, or a hotel ranking. A card needs a licensed photo of that dish or that room. An entry with no photo is named in the guide and is not a card. A two-dish guide is not done. The template pass owns the food template. A content run does not edit it. A shop with no licensed photo stays off the shopping cards.
-- [ ] **Itinerary** — `src/pages/itineraries/[slug].astro`. Days are done. The fact strip is three cells in a four-column bar and has no icons. Set the column count and use icons only where the cell matches one.
+- [x] **Itinerary** — `src/pages/itineraries/[slug].astro`. The fact bar is three columns. Duration uses the clock icon. Budget and pace do not. A multi-day page adds a route map and one photo card per day. A day plan is a stop timeline with travel minutes, then recommended additions when the record has them. The map uses a sourced pin, or the province center when the place slug is that province. A town with no pin is left off the line.
 - [ ] **Festival** — `src/pages/festivals/[slug].astro`. Keep `nameVi`. The “When” cell is already in the rounded strip, but it sits in a four-column bar and has no icon. Set the column count, use the calendar icon, and turn the place list into rows. Add a photo only when a real festival photo exists. Do not use the city banner and call it the event.
 - [x] **Interest** — `src/pages/interests/[slug].astro` and `src/pages/interests/index.astro`. The index lede is one traveler sentence. A page leads with the subject photo, then city cards for places and sights that have a licensed photo of that subject. A nationwide place card links to the place guide. Food points at the food guides. A place or sight with no licensed photo of the subject stays in the text. Do not title a block “Related interests”.
 - [x] **Home and destinations** — `src/pages/index.astro`, `src/pages/destinations/index.astro`, `src/pages/destinations/[slug].astro`. Adopt the type, pills, cards, and lacquer. Do not copy the city sidebar or the city fact bar onto the homepage.
