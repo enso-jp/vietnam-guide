@@ -1,0 +1,30 @@
+{
+  "slug": "datanla-truc-lam-half-day",
+  "title": "Datanla and Truc Lam",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "da-lat",
+  "budget": "Check on arrival",
+  "pace": "The falls, then the pagoda",
+  "photo": "da-lat-datanla",
+  "summary": "Datanla asks at least an hour. Truc Lam is 1–2 hours, and the grounds are free. The cable car is Check on arrival.",
+  "stops": [
+    {
+      "name": "Datanla",
+      "minutes": "Check on arrival",
+      "placeSlug": "da-lat",
+      "attractionSlug": "datanla",
+      "note": "1 hour minimum. Entrance is 30,000 VND."
+    },
+    {
+      "name": "Truc Lam",
+      "minutes": "Check on arrival",
+      "placeSlug": "da-lat",
+      "attractionSlug": "truc-lam",
+      "note": "1–2 hours. The grounds are free. The cable car is Check on arrival."
+    }
+  ],
+  "seoTitle": "Datanla and Truc Lam",
+  "seoDescription": "A Da Lat half day at Datanla and Truc Lam. Datanla is at least an hour. Truc Lam is 1–2 hours."
+}

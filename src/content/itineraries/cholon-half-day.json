@@ -1,0 +1,37 @@
+{
+  "slug": "cholon-half-day",
+  "title": "Cho Lon half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "ho-chi-minh-city",
+  "budget": "Check on arrival",
+  "pace": "The old market quarter",
+  "photo": "ho-chi-minh-city-binh-tay",
+  "summary": "Binh Tay, Thien Hau, and the Jade Emperor. How long each hall takes is Check on arrival. Vincom Dong Khoi stays off this walk.",
+  "stops": [
+    {
+      "name": "Binh Tay Market",
+      "minutes": "Check on arrival",
+      "placeSlug": "ho-chi-minh-city",
+      "attractionSlug": "binh-tay",
+      "note": "The clock gate and the trading floor."
+    },
+    {
+      "name": "Thien Hau Pagoda",
+      "minutes": "Check on arrival",
+      "placeSlug": "ho-chi-minh-city",
+      "attractionSlug": "thien-hau",
+      "note": "The pagoda paired with Binh Tay. The fee is Check on arrival."
+    },
+    {
+      "name": "Jade Emperor Pagoda",
+      "minutes": "Check on arrival",
+      "placeSlug": "ho-chi-minh-city",
+      "attractionSlug": "jade-emperor",
+      "note": "The pagoda. The fee is Check on arrival."
+    }
+  ],
+  "seoTitle": "Cho Lon half day",
+  "seoDescription": "A half day in Cho Lon: Binh Tay, Thien Hau, and the Jade Emperor."
+}
