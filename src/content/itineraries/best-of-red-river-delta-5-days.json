@@ -1,0 +1,57 @@
+{
+  "slug": "best-of-red-river-delta-5-days",
+  "title": "Best of the Red River Delta in 5 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "5 days",
+  "daysCount": 5,
+  "corridor": "red-river-delta",
+  "budget": "Midrange",
+  "pace": "One boat, then the karst",
+  "summary": "Hanoi, one Ha Long boat, then Trang An and Tam Coc. This is the delta, not the mountains.",
+  "routeSlugs": [
+    "hanoi-to-ha-long",
+    "hanoi-to-ninh-binh"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — Old Quarter",
+      "body": "Land in Hanoi and walk the Old Quarter north of Hoan Kiem Lake.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "itinerarySlug": "hanoi-old-quarter-walk"
+    },
+    {
+      "title": "Day 2 — Lake and citadel",
+      "body": "Walk Hoan Kiem Lake, see the Imperial Citadel of Thang Long, and eat bun cha.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-citadel",
+      "itinerarySlug": "hanoi-day"
+    },
+    {
+      "title": "Day 3 — Ha Long",
+      "body": "Take route 2 from the Ha Long passenger port: Ti Top, Sung Sot, and Luon on one boat, clocked at 5–6 hours.",
+      "placeSlug": "ha-long",
+      "photo": "ha-long-sung-sot",
+      "routeSlug": "hanoi-to-ha-long",
+      "itinerarySlug": "ha-long-day"
+    },
+    {
+      "title": "Day 4 — Trang An",
+      "body": "Sit the sampan at Trang An, and walk Hoa Lu if the morning is still open.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-trang-an",
+      "routeSlug": "hanoi-to-ninh-binh",
+      "itinerarySlug": "ninh-binh-day"
+    },
+    {
+      "title": "Day 5 — Tam Coc",
+      "body": "Take the sampan through the three caves, about 2 hours on the water. Hang Mua is the stair for the view over the valley, and its time is Check on arrival.",
+      "placeSlug": "tam-coc",
+      "photo": "tam-coc-three-caves",
+      "itinerarySlug": "tam-coc-day"
+    }
+  ],
+  "seoTitle": "5 days in the Red River Delta",
+  "seoDescription": "Hanoi, a Ha Long boat, Trang An, and the Tam Coc sampan in five days."
+}

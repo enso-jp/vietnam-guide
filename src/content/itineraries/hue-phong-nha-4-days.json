@@ -1,0 +1,47 @@
+{
+  "slug": "hue-phong-nha-4-days",
+  "title": "Hue and Phong Nha in 4 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "4 days",
+  "daysCount": 4,
+  "corridor": "north-central",
+  "budget": "Midrange",
+  "pace": "The citadel, then the caves",
+  "summary": "The Hue Citadel and Minh Mang, a night in Dong Hoi, then Phong Nha Cave and Paradise Cave. Son Doong is its own expedition.",
+  "routeSlugs": [
+    "hue-to-dong-hoi",
+    "dong-hoi-to-phong-nha"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — Hue Citadel",
+      "body": "Visit the Hue Citadel and eat bun bo Hue.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "itinerarySlug": "hue-day"
+    },
+    {
+      "title": "Day 2 — Minh Mang, then Dong Hoi",
+      "body": "Visit Minh Mang, go on to Dong Hoi, and be at Nhật Lệ for sunset. The rail posts are 166 km apart, and that figure is the railway.",
+      "placeSlug": "dong-hoi",
+      "photo": "dong-hoi-nhat-le-beach",
+      "routeSlug": "hue-to-dong-hoi"
+    },
+    {
+      "title": "Day 3 — Phong Nha Cave",
+      "body": "Boat into Phong Nha Cave. The visit is about 2.5 hours. It is about 50 km from Dong Hoi, called southeast, or about 50 km with the direction left unnamed.",
+      "placeSlug": "phong-nha",
+      "photo": "phong-nha-phong-nha-cave",
+      "routeSlug": "dong-hoi-to-phong-nha"
+    },
+    {
+      "title": "Day 4 — Paradise Cave",
+      "body": "Walk the boardwalk in Paradise Cave, then return toward Hue. Son Doong is its own expedition, not this day.",
+      "placeSlug": "phong-nha",
+      "photo": "phong-nha-paradise-cave"
+    }
+  ],
+  "seoTitle": "4 days in Hue and Phong Nha",
+  "seoDescription": "Hue, Dong Hoi, the Phong Nha boat cave, and Paradise Cave in four days."
+}

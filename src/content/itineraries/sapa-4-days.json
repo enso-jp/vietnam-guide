@@ -1,0 +1,46 @@
+{
+  "slug": "sapa-4-days",
+  "title": "Sapa in 4 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "4 days",
+  "daysCount": 4,
+  "corridor": "northern-midlands",
+  "budget": "Midrange",
+  "pace": "Night train, then one valley",
+  "summary": "The night train from Hanoi, the stone church and Cat Cat, and Fansipan if the ridge is clear.",
+  "routeSlugs": [
+    "hanoi-to-sapa"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — Night train",
+      "body": "Leave Hanoi for Sa Pa and sleep on the train.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi",
+      "routeSlug": "hanoi-to-sapa"
+    },
+    {
+      "title": "Day 2 — Church and Cat Cat",
+      "body": "Spend about 60 minutes at the stone church, then walk to Cat Cat. The walk length is Check on arrival.",
+      "placeSlug": "sapa",
+      "photo": "sapa-stone-church",
+      "itinerarySlug": "sapa-day"
+    },
+    {
+      "title": "Day 3 — Fansipan",
+      "body": "Ride the cable car to Fansipan when the ridge is clear. The ride is given as about 15 minutes, as 15–20 minutes, and as 30 minutes.",
+      "placeSlug": "sapa",
+      "photo": "sapa-fansipan"
+    },
+    {
+      "title": "Day 4 — Back to Hanoi",
+      "body": "Return to Hanoi and keep the evening free.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "routeSlug": "hanoi-to-sapa"
+    }
+  ],
+  "seoTitle": "4 days in Sapa",
+  "seoDescription": "A Sa Pa trip from Hanoi: the night train, the stone church, Cat Cat, and Fansipan."
+}
