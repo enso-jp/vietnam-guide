@@ -1,0 +1,40 @@
+{
+  "slug": "da-lat-flower-festival-3-days",
+  "title": "Da Lat flower festival in 3 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "3 days",
+  "daysCount": 3,
+  "corridor": "south-central-highlands",
+  "budget": "Midrange",
+  "pace": "Time-boxed 2026",
+  "summary": "Da Lat around the flower festival, 19–31 December 2026 only. Later years are Check on arrival.",
+  "days": [
+    {
+      "title": "Day 1 — Xuan Huong",
+      "body": "Xuan Huong is 45–90 minutes and free.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-xuan-huong",
+      "routeSlug": "ho-chi-minh-city-to-da-lat"
+    },
+    {
+      "title": "Day 2 — Lam Vien Square",
+      "body": "Lam Vien Square is 30 minutes and free.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-lam-vien-square"
+    },
+    {
+      "title": "Day 3 — The festival",
+      "body": "The 2026 dates are 19–31 December. Later years are Check on arrival.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-xuan-huong",
+      "itinerarySlug": "da-lat-day"
+    }
+  ],
+  "seoTitle": "Da Lat flower festival in 3 days",
+  "seoDescription": "Da Lat around the flower festival, 19–31 December 2026 only. Later years are Check on arrival.",
+  "variant": "flower-festival",
+  "routeSlugs": [
+    "ho-chi-minh-city-to-da-lat"
+  ]
+}

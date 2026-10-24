@@ -1,0 +1,56 @@
+{
+  "slug": "northern-caves-and-lakes-5-days",
+  "title": "Northern caves and lakes in 5 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "5 days",
+  "daysCount": 5,
+  "corridor": "northern-midlands",
+  "budget": "Midrange",
+  "pace": "Lake, then the falls",
+  "summary": "Hanoi, Ba Be, and Cao Bang.",
+  "days": [
+    {
+      "title": "Day 1 — To Ba Be",
+      "body": "Travel from Hanoi to Ba Be.",
+      "placeSlug": "ba-be",
+      "photo": "ba-be-lake",
+      "routeSlug": "hanoi-to-ba-be"
+    },
+    {
+      "title": "Day 2 — Ba Be Lake",
+      "body": "The morning boat. Times and fees are Check on arrival.",
+      "placeSlug": "ba-be",
+      "photo": "ba-be-lake",
+      "itinerarySlug": "ba-be-lake-day"
+    },
+    {
+      "title": "Day 3 — Puong",
+      "body": "Puong. The fee is Check on arrival.",
+      "placeSlug": "ba-be",
+      "photo": "ba-be-lake",
+      "itinerarySlug": "ba-be-boat-half-day"
+    },
+    {
+      "title": "Day 4 — Cao Bang",
+      "body": "Travel to Cao Bang.",
+      "placeSlug": "cao-bang",
+      "photo": "cao-bang-nguom-ngao",
+      "routeSlug": "ba-be-to-cao-bang"
+    },
+    {
+      "title": "Day 5 — Ban Gioc and Nguom Ngao",
+      "body": "Ban Gioc is the same day as the cave. Fees are Check on arrival.",
+      "placeSlug": "cao-bang",
+      "photo": "cao-bang-ban-gioc",
+      "itinerarySlug": "cao-bang-falls-day"
+    }
+  ],
+  "seoTitle": "Northern caves and lakes in 5 days",
+  "seoDescription": "Hanoi, Ba Be, and Cao Bang.",
+  "variant": "caves",
+  "routeSlugs": [
+    "hanoi-to-ba-be",
+    "ba-be-to-cao-bang"
+  ]
+}

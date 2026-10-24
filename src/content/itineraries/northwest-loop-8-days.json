@@ -1,0 +1,77 @@
+{
+  "slug": "northwest-loop-8-days",
+  "title": "Northwest loop in 8 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "8 days",
+  "daysCount": 8,
+  "corridor": "northern-midlands",
+  "budget": "Midrange",
+  "pace": "The northwest road",
+  "summary": "Hanoi, Mai Chau, Moc Chau, Son La, Dien Bien Phu, and Sapa. October to April dry road. March ban flower.",
+  "days": [
+    {
+      "title": "Day 1 — Mai Chau",
+      "body": "Travel from Hanoi to Mai Chau.",
+      "placeSlug": "mai-chau",
+      "photo": "mai-chau-lac",
+      "routeSlug": "hanoi-to-mai-chau",
+      "itinerarySlug": "mai-chau-valley-night"
+    },
+    {
+      "title": "Day 2 — Mai Chau",
+      "body": "Lac and Hang Kia Pa Co. Fees are Check on arrival.",
+      "placeSlug": "mai-chau",
+      "photo": "mai-chau-hang-kia-pa-co"
+    },
+    {
+      "title": "Day 3 — Moc Chau",
+      "body": "Travel to Moc Chau.",
+      "placeSlug": "moc-chau",
+      "photo": "moc-chau-heart-tea-hills",
+      "routeSlug": "mai-chau-to-moc-chau",
+      "itinerarySlug": "moc-chau-plateau-day"
+    },
+    {
+      "title": "Day 4 — Son La",
+      "body": "Travel to Son La.",
+      "placeSlug": "son-la",
+      "photo": "son-la",
+      "itinerarySlug": "son-la-valley-day"
+    },
+    {
+      "title": "Day 5 — Dien Bien Phu",
+      "body": "See Muong Thanh Bridge. The fee is Check on arrival.",
+      "placeSlug": "dien-bien-phu",
+      "photo": "dien-bien-phu-muong-thanh-bridge",
+      "itinerarySlug": "dien-bien-phu-basin-day"
+    },
+    {
+      "title": "Day 6 — Toward Sapa",
+      "body": "Travel toward Sapa. The road minutes are Check on arrival.",
+      "placeSlug": "sapa",
+      "photo": "sapa-stone-church"
+    },
+    {
+      "title": "Day 7 — Sapa",
+      "body": "See Fansipan if the ridge is clear.",
+      "placeSlug": "sapa",
+      "photo": "sapa-fansipan",
+      "itinerarySlug": "sapa-day"
+    },
+    {
+      "title": "Day 8 — Hanoi",
+      "body": "Return to Hanoi.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi",
+      "routeSlug": "hanoi-to-sapa"
+    }
+  ],
+  "seoTitle": "Northwest loop in 8 days",
+  "seoDescription": "Hanoi, Mai Chau, Moc Chau, Son La, Dien Bien Phu, and Sapa. October to April dry road. March ban flower.",
+  "routeSlugs": [
+    "hanoi-to-mai-chau",
+    "mai-chau-to-moc-chau",
+    "hanoi-to-sapa"
+  ]
+}

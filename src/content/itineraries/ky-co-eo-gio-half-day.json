@@ -1,0 +1,30 @@
+{
+  "slug": "ky-co-eo-gio-half-day",
+  "title": "Ky Co and Eo Gio half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "quy-nhon",
+  "budget": "Check on arrival",
+  "pace": "The peninsula",
+  "photo": "quy-nhon-ky-co",
+  "summary": "Ky Co is about an hour. The posted range is 30,000–60,000 đồng. Eo Gio is about 30 minutes and 25,000 đồng.",
+  "stops": [
+    {
+      "name": "Ky Co",
+      "minutes": "Check on arrival",
+      "note": "About an hour. The posted range is 30,000–60,000 đồng. Read the board before you pay.",
+      "placeSlug": "quy-nhon",
+      "attractionSlug": "ky-co"
+    },
+    {
+      "name": "Eo Gio",
+      "minutes": 30,
+      "note": "About 30 minutes. The ticket is 25,000 đồng. A child under 0.9 m is free.",
+      "placeSlug": "quy-nhon",
+      "attractionSlug": "eo-gio"
+    }
+  ],
+  "seoTitle": "Ky Co and Eo Gio half day",
+  "seoDescription": "Ky Co is about an hour. The posted range is 30,000–60,000 đồng. Eo Gio is about 30 minutes and 25,000 đồng."
+}

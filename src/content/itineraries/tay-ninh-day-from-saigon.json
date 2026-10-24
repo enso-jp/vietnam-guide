@@ -1,0 +1,24 @@
+{
+  "slug": "tay-ninh-day-from-saigon",
+  "title": "Tay Ninh day from Saigon",
+  "kind": "trip",
+  "level": "day",
+  "duration": "1 day",
+  "spanDays": 1,
+  "placeSlug": "ho-chi-minh-city",
+  "budget": "Check on arrival",
+  "pace": "Out and back",
+  "photo": "tay-ninh-cao-dai-holy-see",
+  "summary": "A day from Ho Chi Minh City to the Cao Dai Holy See. The visit is about 60 minutes. The fee is Check on arrival.",
+  "stops": [
+    {
+      "name": "Cao Dai Holy See",
+      "minutes": 60,
+      "note": "About 60 minutes. The fee is Check on arrival.",
+      "placeSlug": "tay-ninh",
+      "attractionSlug": "cao-dai-holy-see"
+    }
+  ],
+  "seoTitle": "Tay Ninh day from Saigon",
+  "seoDescription": "A day from Ho Chi Minh City to the Cao Dai Holy See. The visit is about 60 minutes. The fee is Check on arrival."
+}

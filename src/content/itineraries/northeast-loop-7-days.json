@@ -1,0 +1,70 @@
+{
+  "slug": "northeast-loop-7-days",
+  "title": "Northeast loop in 7 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "7 days",
+  "daysCount": 7,
+  "corridor": "northern-midlands",
+  "budget": "Midrange",
+  "pace": "Lakes, then the pass",
+  "summary": "Hanoi, Ba Be, Cao Bang, and Ha Giang. October to April roads, from the Cao Bang page.",
+  "days": [
+    {
+      "title": "Day 1 — To Ba Be",
+      "body": "Travel from Hanoi to Ba Be.",
+      "placeSlug": "ba-be",
+      "photo": "ba-be-lake",
+      "routeSlug": "hanoi-to-ba-be"
+    },
+    {
+      "title": "Day 2 — Ba Be Lake",
+      "body": "The morning boat and Puong. Times and fees are Check on arrival.",
+      "placeSlug": "ba-be",
+      "photo": "ba-be-lake",
+      "itinerarySlug": "ba-be-lake-day"
+    },
+    {
+      "title": "Day 3 — Cao Bang",
+      "body": "Travel to Cao Bang.",
+      "placeSlug": "cao-bang",
+      "photo": "cao-bang-ban-gioc",
+      "routeSlug": "ba-be-to-cao-bang"
+    },
+    {
+      "title": "Day 4 — Ban Gioc",
+      "body": "Ban Gioc is the same day as the cave and the pagoda. Fees are Check on arrival.",
+      "placeSlug": "cao-bang",
+      "photo": "cao-bang-ban-gioc",
+      "itinerarySlug": "cao-bang-falls-day"
+    },
+    {
+      "title": "Day 5 — To Ha Giang",
+      "body": "Travel to Ha Giang.",
+      "placeSlug": "ha-giang",
+      "photo": "ha-giang-ma-pi-leng",
+      "routeSlug": "cao-bang-to-ha-giang"
+    },
+    {
+      "title": "Day 6 — Ma Pi Leng",
+      "body": "Ma Pi Leng is most of a morning with the stops.",
+      "placeSlug": "ha-giang",
+      "photo": "ha-giang-ma-pi-leng"
+    },
+    {
+      "title": "Day 7 — Back to Hanoi",
+      "body": "Return to Hanoi.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi",
+      "routeSlug": "hanoi-to-ha-giang"
+    }
+  ],
+  "seoTitle": "Northeast loop in 7 days",
+  "seoDescription": "Hanoi, Ba Be, Cao Bang, and Ha Giang. October to April roads, from the Cao Bang page.",
+  "routeSlugs": [
+    "hanoi-to-ba-be",
+    "ba-be-to-cao-bang",
+    "cao-bang-to-ha-giang",
+    "hanoi-to-ha-giang"
+  ]
+}

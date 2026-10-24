@@ -1,0 +1,96 @@
+{
+  "slug": "da-nang-10-days",
+  "title": "Ten days out of Da Nang",
+  "kind": "trip",
+  "level": "nationwide",
+  "duration": "10 days",
+  "daysCount": 10,
+  "gateway": "da-nang",
+  "direction": "out-of-da-nang",
+  "budget": "Midrange",
+  "pace": "The coast, then the north",
+  "summary": "Da Nang, Hoi An, My Son, Hue, Hanoi, and Ha Long. Central dry season February to August.",
+  "routeSlugs": [
+    "da-nang-to-hoi-an",
+    "hoi-an-to-my-son",
+    "hue-to-hoi-an",
+    "hanoi-to-hue",
+    "hanoi-to-ha-long"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — Da Nang",
+      "body": "Land and walk the river or My Khe.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-my-khe",
+      "itinerarySlug": "da-nang-day"
+    },
+    {
+      "title": "Day 2 — Son Tra",
+      "body": "Son Tra is half a day with the ride. The fee is Check on arrival.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-son-tra",
+      "itinerarySlug": "son-tra-marble-half-day"
+    },
+    {
+      "title": "Day 3 — Hoi An",
+      "body": "Travel to Hoi An.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-japanese-bridge",
+      "routeSlug": "da-nang-to-hoi-an",
+      "itinerarySlug": "hoi-an-day"
+    },
+    {
+      "title": "Day 4 — My Son",
+      "body": "Visit the My Son towers. A non-resident adult is 150,000 VND.",
+      "placeSlug": "my-son",
+      "photo": "my-son-towers-2",
+      "routeSlug": "hoi-an-to-my-son"
+    },
+    {
+      "title": "Day 5 — Hue",
+      "body": "Travel to Hue.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "routeSlug": "hue-to-hoi-an",
+      "itinerarySlug": "hue-day"
+    },
+    {
+      "title": "Day 6 — Hue tombs",
+      "body": "Visit the tombs.",
+      "placeSlug": "hue",
+      "photo": "hue-khai-dinh",
+      "itinerarySlug": "hue-tombs-half-day"
+    },
+    {
+      "title": "Day 7 — Hanoi",
+      "body": "Travel to Hanoi.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "routeSlug": "hanoi-to-hue"
+    },
+    {
+      "title": "Day 8 — Hanoi",
+      "body": "Walk Hoan Kiem Lake and the citadel.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-citadel",
+      "itinerarySlug": "hanoi-day"
+    },
+    {
+      "title": "Day 9 — Ha Long",
+      "body": "Take a day boat.",
+      "placeSlug": "ha-long",
+      "photo": "ha-long-titop",
+      "routeSlug": "hanoi-to-ha-long",
+      "itinerarySlug": "ha-long-day"
+    },
+    {
+      "title": "Day 10 — Leave",
+      "body": "Return to Hanoi, or fly out of Da Nang if you doubled back.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi"
+    }
+  ],
+  "seoTitle": "Ten days out of Da Nang",
+  "seoDescription": "Da Nang, Hoi An, My Son, Hue, Hanoi, and Ha Long in ten days."
+}

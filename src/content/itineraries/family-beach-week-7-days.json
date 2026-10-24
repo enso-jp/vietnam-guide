@@ -1,0 +1,66 @@
+{
+  "slug": "family-beach-week-7-days",
+  "title": "Family beach week in 7 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "7 days",
+  "daysCount": 7,
+  "corridor": "south-central-highlands",
+  "budget": "Midrange",
+  "pace": "One beach base",
+  "summary": "Nha Trang, or Da Nang and Hoi An. Do not treat both bases as one week.",
+  "days": [
+    {
+      "title": "Day 1 — Arrive",
+      "body": "Arrive in Nha Trang, or in Da Nang.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang"
+    },
+    {
+      "title": "Day 2 — Hon Tre or My Khe",
+      "body": "Hon Tre is a day on the island, or My Khe is half a day and free to swim. Do not do both.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang-hon-tre",
+      "itinerarySlug": "nha-trang-islands-day"
+    },
+    {
+      "title": "Day 3 — The sand",
+      "body": "Stay on the beach.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang"
+    },
+    {
+      "title": "Day 4 — Hon Mun or Hoi An",
+      "body": "Hon Mun is a boat day, or walk Hoi An if you based in Da Nang.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang-hon-mun"
+    },
+    {
+      "title": "Day 5 — A rest day",
+      "body": "Keep the day on the sand.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-my-khe",
+      "itinerarySlug": "da-nang-day"
+    },
+    {
+      "title": "Day 6 — Hoi An if you came north",
+      "body": "An Bang is half a day if that is the base.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-an-bang",
+      "routeSlug": "da-nang-to-hoi-an"
+    },
+    {
+      "title": "Day 7 — Leave",
+      "body": "Fly out of Cam Ranh or Da Nang.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang"
+    }
+  ],
+  "seoTitle": "Family beach week in 7 days",
+  "seoDescription": "Nha Trang, or Da Nang and Hoi An. Do not treat both bases as one week.",
+  "variant": "family-beach",
+  "routeSlugs": [
+    "da-nang-to-hoi-an",
+    "nha-trang-to-da-lat"
+  ]
+}

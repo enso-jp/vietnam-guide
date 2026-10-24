@@ -1,0 +1,55 @@
+{
+  "slug": "nha-trang-da-lat-5-days",
+  "title": "Nha Trang and Da Lat in 5 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "5 days",
+  "daysCount": 5,
+  "corridor": "south-central-highlands",
+  "budget": "Midrange",
+  "pace": "Coast, then the plateau",
+  "summary": "Nha Trang and Da Lat. January to August on the coast. December to March in Da Lat.",
+  "days": [
+    {
+      "title": "Day 1 — Nha Trang",
+      "body": "Po Nagar is a morning.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang-po-nagar",
+      "itinerarySlug": "po-nagar-half-day"
+    },
+    {
+      "title": "Day 2 — Hon Mun",
+      "body": "Hon Mun is a boat day. The fee is Check on arrival.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang-hon-mun",
+      "itinerarySlug": "nha-trang-islands-day"
+    },
+    {
+      "title": "Day 3 — To Da Lat",
+      "body": "Travel to Da Lat.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-xuan-huong",
+      "routeSlug": "nha-trang-to-da-lat"
+    },
+    {
+      "title": "Day 4 — Datanla",
+      "body": "Datanla is 1 hour minimum. Entrance is 30,000 VND. The stop clock is Check on arrival.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-datanla",
+      "itinerarySlug": "datanla-truc-lam-half-day"
+    },
+    {
+      "title": "Day 5 — Truc Lam",
+      "body": "Truc Lam is 1–2 hours. The grounds are free. The cable is Check on arrival.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-truc-lam",
+      "itinerarySlug": "da-lat-day"
+    }
+  ],
+  "seoTitle": "Nha Trang and Da Lat in 5 days",
+  "seoDescription": "Nha Trang and Da Lat. January to August on the coast. December to March in Da Lat.",
+  "variant": "nha-trang-da-lat",
+  "routeSlugs": [
+    "nha-trang-to-da-lat"
+  ]
+}

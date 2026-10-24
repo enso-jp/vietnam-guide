@@ -1,0 +1,55 @@
+{
+  "slug": "northern-blossom-5-days",
+  "title": "Northern blossom in 5 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "5 days",
+  "daysCount": 5,
+  "corridor": "northern-midlands",
+  "budget": "Midrange",
+  "pace": "Blossom months",
+  "summary": "Hanoi, Moc Chau, Son La, and Dien Bien Phu. January to March. Ban flower in March.",
+  "days": [
+    {
+      "title": "Day 1 — Hanoi",
+      "body": "Land in Hanoi.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "itinerarySlug": "hanoi-day"
+    },
+    {
+      "title": "Day 2 — Moc Chau",
+      "body": "Travel to Moc Chau. The minutes are Check on arrival.",
+      "placeSlug": "moc-chau",
+      "photo": "moc-chau-heart-tea-hills",
+      "itinerarySlug": "moc-chau-plateau-day"
+    },
+    {
+      "title": "Day 3 — Son La",
+      "body": "Travel to Son La. Festival dates are Check on arrival.",
+      "placeSlug": "son-la",
+      "photo": "son-la",
+      "itinerarySlug": "son-la-valley-day"
+    },
+    {
+      "title": "Day 4 — Dien Bien Phu",
+      "body": "Muong Thanh Bridge. The fee is Check on arrival.",
+      "placeSlug": "dien-bien-phu",
+      "photo": "dien-bien-phu-muong-thanh-bridge",
+      "itinerarySlug": "dien-bien-phu-basin-day"
+    },
+    {
+      "title": "Day 5 — Leave",
+      "body": "Fly or drive out. The minutes are Check on arrival.",
+      "placeSlug": "dien-bien-phu",
+      "photo": "dien-bien-phu"
+    }
+  ],
+  "seoTitle": "Northern blossom in 5 days",
+  "seoDescription": "Hanoi, Moc Chau, Son La, and Dien Bien Phu. January to March. Ban flower in March.",
+  "variant": "blossom",
+  "routeSlugs": [
+    "hanoi-to-mai-chau",
+    "mai-chau-to-moc-chau"
+  ]
+}

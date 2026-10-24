@@ -1,0 +1,23 @@
+{
+  "slug": "tam-coc-boat-half-day",
+  "title": "Tam Coc boat half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "tam-coc",
+  "budget": "Check on arrival",
+  "pace": "The sampan",
+  "photo": "tam-coc-three-caves",
+  "summary": "The three caves are about 2 hours on the water. An adult is 250,000 VND.",
+  "stops": [
+    {
+      "name": "Three caves",
+      "minutes": "Check on arrival",
+      "note": "About 2 hours on the water. An adult is 250,000 VND.",
+      "placeSlug": "tam-coc",
+      "attractionSlug": "three-caves"
+    }
+  ],
+  "seoTitle": "Tam Coc boat half day",
+  "seoDescription": "The three caves are about 2 hours on the water. An adult is 250,000 VND."
+}

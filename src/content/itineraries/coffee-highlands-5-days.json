@@ -1,0 +1,53 @@
+{
+  "slug": "coffee-highlands-5-days",
+  "title": "Coffee highlands in 5 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "5 days",
+  "daysCount": 5,
+  "corridor": "south-central-highlands",
+  "budget": "Midrange",
+  "pace": "Falls, then the plateau",
+  "summary": "Buon Ma Thuot, Dak Nong, and Da Lat. November to April. The coffee festival is biennial. Road minutes between the three are Check on arrival.",
+  "days": [
+    {
+      "title": "Day 1 — Buon Ma Thuot",
+      "body": "Dray Nur is a half day. The fee is Check on arrival.",
+      "placeSlug": "buon-ma-thuot",
+      "photo": "buon-ma-thuot-dray-nur",
+      "itinerarySlug": "buon-ma-thuot-day"
+    },
+    {
+      "title": "Day 2 — Dak Nong",
+      "body": "Dray Sap. The fee is Check on arrival.",
+      "placeSlug": "dak-nong",
+      "photo": "dak-nong-dray-sap",
+      "itinerarySlug": "dak-nong-two-days"
+    },
+    {
+      "title": "Day 3 — Toward Da Lat",
+      "body": "Travel toward Da Lat. The minutes are Check on arrival.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-xuan-huong"
+    },
+    {
+      "title": "Day 4 — Truc Lam",
+      "body": "Truc Lam is 1–2 hours. The grounds are free.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-truc-lam"
+    },
+    {
+      "title": "Day 5 — Da Lat",
+      "body": "Keep the last morning on the plateau.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-datanla",
+      "itinerarySlug": "da-lat-day"
+    }
+  ],
+  "seoTitle": "Coffee highlands in 5 days",
+  "seoDescription": "Buon Ma Thuot, Dak Nong, and Da Lat. November to April. The coffee festival is biennial. Road minutes between the three are Check on arrival.",
+  "variant": "coffee",
+  "routeSlugs": [
+    "da-nang-to-da-lat"
+  ]
+}

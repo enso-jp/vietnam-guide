@@ -1,0 +1,38 @@
+{
+  "slug": "quy-nhon-day",
+  "title": "Quy Nhon in a day",
+  "kind": "trip",
+  "level": "day",
+  "duration": "1 day",
+  "spanDays": 1,
+  "placeSlug": "quy-nhon",
+  "budget": "Check on arrival",
+  "pace": "The town shore",
+  "photo": "quy-nhon-city-beach",
+  "summary": "The city beach, Ghenh Rang, and the twin towers. Ky Co and Eo Gio are a separate half day.",
+  "stops": [
+    {
+      "name": "City beach",
+      "minutes": "Check on arrival",
+      "note": "About an hour and free. A beach day is longer.",
+      "placeSlug": "quy-nhon",
+      "attractionSlug": "city-beach"
+    },
+    {
+      "name": "Ghenh Rang",
+      "minutes": "Check on arrival",
+      "note": "About an hour and free.",
+      "placeSlug": "quy-nhon",
+      "attractionSlug": "ghenh-rang"
+    },
+    {
+      "name": "Twin towers",
+      "minutes": "Check on arrival",
+      "note": "About 2 hours. The ticket is 20,000 đồng.",
+      "placeSlug": "quy-nhon",
+      "attractionSlug": "twin-towers"
+    }
+  ],
+  "seoTitle": "Quy Nhon in a day",
+  "seoDescription": "The city beach, Ghenh Rang, and the twin towers. Ky Co and Eo Gio are a separate half day."
+}

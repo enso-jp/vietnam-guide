@@ -1,0 +1,68 @@
+{
+  "slug": "summer-coast-7-days",
+  "title": "Summer coast in 7 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "7 days",
+  "daysCount": 7,
+  "corridor": "south-central-highlands",
+  "budget": "Midrange",
+  "pace": "Summer swim",
+  "summary": "Da Nang, Hoi An, Lang Co, and Quy Nhon. May to August. Some road minutes are Check on arrival.",
+  "days": [
+    {
+      "title": "Day 1 — Da Nang",
+      "body": "My Khe is half a day and free to swim.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-my-khe",
+      "itinerarySlug": "da-nang-day"
+    },
+    {
+      "title": "Day 2 — Hoi An",
+      "body": "Travel to Hoi An.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-an-bang",
+      "routeSlug": "da-nang-to-hoi-an",
+      "itinerarySlug": "an-bang-half-day"
+    },
+    {
+      "title": "Day 3 — An Bang",
+      "body": "An Bang is half a day. The fee is Check on arrival.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-an-bang"
+    },
+    {
+      "title": "Day 4 — Lang Co",
+      "body": "Lang Co Beach is a swim and a walk. Use the Hue to Lang Co page.",
+      "placeSlug": "lang-co",
+      "photo": "lang-co-lang-co-beach",
+      "routeSlug": "hue-to-lang-co",
+      "itinerarySlug": "lang-co-day"
+    },
+    {
+      "title": "Day 5 — Toward Quy Nhon",
+      "body": "Travel toward Quy Nhon. The minutes are Check on arrival.",
+      "placeSlug": "quy-nhon",
+      "photo": "quy-nhon-ky-co"
+    },
+    {
+      "title": "Day 6 — Ky Co",
+      "body": "Ky Co is about an hour. The posted range is 30,000–60,000 đồng.",
+      "placeSlug": "quy-nhon",
+      "photo": "quy-nhon-ky-co"
+    },
+    {
+      "title": "Day 7 — Leave",
+      "body": "Keep the morning on the city beach, which is free.",
+      "placeSlug": "quy-nhon",
+      "photo": "quy-nhon-city-beach"
+    }
+  ],
+  "seoTitle": "Summer coast in 7 days",
+  "seoDescription": "Da Nang, Hoi An, Lang Co, and Quy Nhon. May to August. Some road minutes are Check on arrival.",
+  "variant": "summer-coast",
+  "routeSlugs": [
+    "da-nang-to-hoi-an",
+    "hue-to-lang-co"
+  ]
+}

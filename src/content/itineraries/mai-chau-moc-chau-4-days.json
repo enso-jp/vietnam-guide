@@ -1,0 +1,49 @@
+{
+  "slug": "mai-chau-moc-chau-4-days",
+  "title": "Mai Chau and Moc Chau in 4 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "4 days",
+  "daysCount": 4,
+  "corridor": "northern-midlands",
+  "budget": "Midrange",
+  "pace": "Two valleys",
+  "summary": "Hanoi, Mai Chau, and Moc Chau. September to November and March to May.",
+  "days": [
+    {
+      "title": "Day 1 — Mai Chau",
+      "body": "Travel from Hanoi to Mai Chau.",
+      "placeSlug": "mai-chau",
+      "photo": "mai-chau-lac",
+      "routeSlug": "hanoi-to-mai-chau"
+    },
+    {
+      "title": "Day 2 — The valley",
+      "body": "Lac and Hang Kia Pa Co. Fees are Check on arrival.",
+      "placeSlug": "mai-chau",
+      "photo": "mai-chau-hang-kia-pa-co",
+      "itinerarySlug": "mai-chau-valley-night"
+    },
+    {
+      "title": "Day 3 — Moc Chau",
+      "body": "Travel to Moc Chau and see the heart tea hills.",
+      "placeSlug": "moc-chau",
+      "photo": "moc-chau-heart-tea-hills",
+      "routeSlug": "mai-chau-to-moc-chau",
+      "itinerarySlug": "moc-chau-plateau-day"
+    },
+    {
+      "title": "Day 4 — Back to Hanoi",
+      "body": "Return to Hanoi. The minutes are Check on arrival.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi"
+    }
+  ],
+  "seoTitle": "Mai Chau and Moc Chau in 4 days",
+  "seoDescription": "Hanoi, Mai Chau, and Moc Chau. September to November and March to May.",
+  "variant": "mai-chau",
+  "routeSlugs": [
+    "hanoi-to-mai-chau",
+    "mai-chau-to-moc-chau"
+  ]
+}

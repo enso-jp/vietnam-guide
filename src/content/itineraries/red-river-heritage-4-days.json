@@ -1,0 +1,47 @@
+{
+  "slug": "red-river-heritage-4-days",
+  "title": "Red River heritage in 4 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "4 days",
+  "daysCount": 4,
+  "corridor": "red-river-delta",
+  "budget": "Midrange",
+  "pace": "Temples, then Nam Dinh",
+  "summary": "Hanoi, Ninh Binh, and Nam Dinh. Bai Dinh and Phat Diem fees are Check on arrival. October to March for the birds on the Nam Dinh page.",
+  "days": [
+    {
+      "title": "Day 1 — Hanoi",
+      "body": "Land and walk Hoan Kiem Lake.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "itinerarySlug": "hanoi-day"
+    },
+    {
+      "title": "Day 2 — Ninh Binh",
+      "body": "Travel to Ninh Binh.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-bai-dinh",
+      "routeSlug": "hanoi-to-ninh-binh"
+    },
+    {
+      "title": "Day 3 — Bai Dinh and Phat Diem",
+      "body": "Bai Dinh and Phat Diem. Fees are Check on arrival.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-phat-diem"
+    },
+    {
+      "title": "Day 4 — Nam Dinh",
+      "body": "See Phu Day and Pho Minh. Fees are Check on arrival.",
+      "placeSlug": "nam-dinh",
+      "photo": "nam-dinh-phu-day",
+      "itinerarySlug": "nam-dinh-day"
+    }
+  ],
+  "seoTitle": "Red River heritage in 4 days",
+  "seoDescription": "Hanoi, Ninh Binh, and Nam Dinh. Bai Dinh and Phat Diem fees are Check on arrival. October to March for the birds on the Nam Dinh page.",
+  "variant": "heritage",
+  "routeSlugs": [
+    "hanoi-to-ninh-binh"
+  ]
+}

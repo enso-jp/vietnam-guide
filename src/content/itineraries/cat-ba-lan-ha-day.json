@@ -1,0 +1,24 @@
+{
+  "slug": "cat-ba-lan-ha-day",
+  "title": "Lan Ha day",
+  "kind": "trip",
+  "level": "day",
+  "duration": "1 day",
+  "spanDays": 1,
+  "placeSlug": "cat-ba",
+  "budget": "Check on arrival",
+  "pace": "The bay",
+  "photo": "cat-ba-lan-ha",
+  "summary": "Lan Ha is 3–4 hours, or an 8-hour day. An adult day visit is 120,000 đồng.",
+  "stops": [
+    {
+      "name": "Lan Ha",
+      "minutes": "Check on arrival",
+      "note": "3–4 hours, or an 8-hour day. An adult day visit is 120,000 đồng.",
+      "placeSlug": "cat-ba",
+      "attractionSlug": "lan-ha"
+    }
+  ],
+  "seoTitle": "Lan Ha day",
+  "seoDescription": "Lan Ha is 3–4 hours, or an 8-hour day. An adult day visit is 120,000 đồng."
+}

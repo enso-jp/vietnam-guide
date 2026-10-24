@@ -1,0 +1,81 @@
+{
+  "slug": "faith-and-pagodas-8-days",
+  "title": "Pagodas and faith houses in 8 days",
+  "kind": "trip",
+  "level": "nationwide",
+  "duration": "8 days",
+  "daysCount": 8,
+  "gateway": "open-jaw",
+  "direction": "north-to-south",
+  "budget": "Midrange",
+  "pace": "Temples",
+  "summary": "Ninh Binh, Hue, Kon Tum, Da Lat, Tay Ninh, and Chau Doc. Several road minutes are Check on arrival.",
+  "routeSlugs": [
+    "hanoi-to-ninh-binh",
+    "hanoi-to-hue",
+    "ho-chi-minh-city-to-da-lat",
+    "ho-chi-minh-city-to-tay-ninh",
+    "can-tho-to-chau-doc"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — Bai Dinh",
+      "body": "Bai Dinh. The fee is Check on arrival.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-bai-dinh",
+      "routeSlug": "hanoi-to-ninh-binh"
+    },
+    {
+      "title": "Day 2 — Phat Diem",
+      "body": "Phat Diem. The fee is Check on arrival.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-phat-diem"
+    },
+    {
+      "title": "Day 3 — Hue",
+      "body": "Thien Mu and Tu Hieu. Fees are Check on arrival.",
+      "placeSlug": "hue",
+      "photo": "hue-thien-mu",
+      "routeSlug": "hanoi-to-hue",
+      "itinerarySlug": "hue-day"
+    },
+    {
+      "title": "Day 4 — Kon Tum",
+      "body": "The wooden church. The fee is Check on arrival. The minutes are Check on arrival.",
+      "placeSlug": "kon-tum",
+      "photo": "kon-tum-wooden-church",
+      "itinerarySlug": "kon-tum-day"
+    },
+    {
+      "title": "Day 5 — Da Lat",
+      "body": "Linh Phuoc is 45 minutes and free.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-linh-phuoc",
+      "routeSlug": "ho-chi-minh-city-to-da-lat"
+    },
+    {
+      "title": "Day 6 — Tay Ninh",
+      "body": "The Cao Dai Holy See is about 60 minutes.",
+      "placeSlug": "tay-ninh",
+      "photo": "tay-ninh-cao-dai-holy-see",
+      "routeSlug": "ho-chi-minh-city-to-tay-ninh",
+      "itinerarySlug": "tay-ninh-day"
+    },
+    {
+      "title": "Day 7 — Chau Doc",
+      "body": "Travel toward Chau Doc.",
+      "placeSlug": "chau-doc",
+      "photo": "chau-doc-ba-chua-xu",
+      "routeSlug": "can-tho-to-chau-doc"
+    },
+    {
+      "title": "Day 8 — Ba Chua Xu",
+      "body": "The temple on Sam Mountain. The fee is Check on arrival.",
+      "placeSlug": "chau-doc",
+      "photo": "chau-doc-ba-chua-xu",
+      "itinerarySlug": "sam-mountain-half-day"
+    }
+  ],
+  "seoTitle": "Pagodas and faith houses in 8 days",
+  "seoDescription": "Bai Dinh, Phat Diem, Thien Mu, the Kon Tum wooden church, Linh Phuoc, the Cao Dai Holy See, and Ba Chua Xu."
+}

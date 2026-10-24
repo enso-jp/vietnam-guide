@@ -1,0 +1,73 @@
+{
+  "slug": "hanoi-two-days",
+  "title": "Two days in Hanoi",
+  "kind": "trip",
+  "level": "day",
+  "duration": "2 days",
+  "spanDays": 2,
+  "placeSlug": "hanoi",
+  "budget": "Check on arrival",
+  "pace": "Two city days",
+  "photo": "hanoi-citadel",
+  "summary": "Day one is Hoan Kiem Lake, the citadel, and the Temple of Literature. Day two is Ba Dinh and West Lake.",
+  "stops": [
+    {
+      "name": "Hoan Kiem Lake",
+      "minutes": "Check on arrival",
+      "note": "The lake path is free. The temple ticket is separate.",
+      "placeSlug": "hanoi",
+      "attractionSlug": "hoan-kiem"
+    },
+    {
+      "name": "Imperial Citadel of Thang Long",
+      "minutes": "Check on arrival",
+      "note": "An adult ticket is 100,000 VND.",
+      "placeSlug": "hanoi",
+      "attractionSlug": "citadel"
+    },
+    {
+      "name": "Temple of Literature",
+      "minutes": "Check on arrival",
+      "note": "The daytime adult ticket is 70,000 VND.",
+      "placeSlug": "hanoi",
+      "attractionSlug": "temple-of-literature"
+    },
+    {
+      "name": "Ho Chi Minh Mausoleum",
+      "minutes": "Check on arrival",
+      "note": "Free on the operator FAQ, and 40,000 VND on Vietnam Tourism.",
+      "placeSlug": "hanoi",
+      "attractionSlug": "mausoleum"
+    },
+    {
+      "name": "One Pillar Pagoda",
+      "minutes": "Check on arrival",
+      "note": "The ticket is 25,000 VND.",
+      "placeSlug": "hanoi",
+      "attractionSlug": "one-pillar"
+    },
+    {
+      "name": "West Lake",
+      "minutes": "Check on arrival",
+      "note": "The fee is Check on arrival.",
+      "placeSlug": "hanoi",
+      "attractionSlug": "west-lake"
+    }
+  ],
+  "seoTitle": "Two days in Hanoi",
+  "seoDescription": "Day one is Hoan Kiem Lake, the citadel, and the Temple of Literature. Day two is Ba Dinh and West Lake.",
+  "days": [
+    {
+      "title": "Day 1 — Lake, citadel, literature",
+      "body": "Walk Hoan Kiem Lake, the citadel, and the Temple of Literature.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-temple-of-literature"
+    },
+    {
+      "title": "Day 2 — Ba Dinh and West Lake",
+      "body": "The mausoleum, One Pillar, then West Lake.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-mausoleum"
+    }
+  ]
+}

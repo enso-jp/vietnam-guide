@@ -1,0 +1,50 @@
+{
+  "slug": "southeast-4-days",
+  "title": "Southeast in 4 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "4 days",
+  "daysCount": 4,
+  "corridor": "southeast",
+  "budget": "Midrange",
+  "pace": "City, tunnels, holy see",
+  "summary": "Ho Chi Minh City, Cu Chi, and Tay Ninh. December to April.",
+  "days": [
+    {
+      "title": "Day 1 — Palace and War Remnants",
+      "body": "Reunification Palace and the War Remnants Museum.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-war-remnants",
+      "itinerarySlug": "ho-chi-minh-city-day"
+    },
+    {
+      "title": "Day 2 — Binh Tay",
+      "body": "Walk Binh Tay.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-binh-tay",
+      "itinerarySlug": "cholon-half-day"
+    },
+    {
+      "title": "Day 3 — Cu Chi",
+      "body": "The site is 35,000 đồng and the guide is 100,000 đồng.",
+      "placeSlug": "cu-chi",
+      "photo": "cu-chi-tunnels",
+      "routeSlug": "ho-chi-minh-city-to-cu-chi",
+      "itinerarySlug": "cu-chi-day"
+    },
+    {
+      "title": "Day 4 — Tay Ninh",
+      "body": "The Cao Dai Holy See is about 60 minutes. The fee is Check on arrival.",
+      "placeSlug": "tay-ninh",
+      "photo": "tay-ninh-cao-dai-holy-see",
+      "routeSlug": "ho-chi-minh-city-to-tay-ninh",
+      "itinerarySlug": "tay-ninh-day"
+    }
+  ],
+  "seoTitle": "Southeast in 4 days",
+  "seoDescription": "Ho Chi Minh City, Cu Chi, and Tay Ninh. December to April.",
+  "routeSlugs": [
+    "ho-chi-minh-city-to-cu-chi",
+    "ho-chi-minh-city-to-tay-ninh"
+  ]
+}

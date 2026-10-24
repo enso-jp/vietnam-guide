@@ -1,0 +1,177 @@
+{
+  "slug": "great-traverse-21-days",
+  "title": "Great traverse of Vietnam in 21 days",
+  "kind": "trip",
+  "level": "nationwide",
+  "duration": "21 days",
+  "daysCount": 21,
+  "gateway": "open-jaw",
+  "direction": "north-to-south",
+  "budget": "Midrange, with domestic flights",
+  "pace": "North, caves, coast, then the south",
+  "summary": "Hanoi, Sapa, Ha Long, Ninh Binh, Phong Nha, Hue, Hoi An, Da Lat, Ho Chi Minh City, and Can Tho. Best February to April.",
+  "routeSlugs": [
+    "hanoi-to-sapa",
+    "hanoi-to-ha-long",
+    "hanoi-to-ninh-binh",
+    "ninh-binh-to-dong-hoi",
+    "dong-hoi-to-phong-nha",
+    "hue-to-dong-hoi",
+    "hue-to-hoi-an",
+    "da-nang-to-da-lat",
+    "ho-chi-minh-city-to-da-lat",
+    "ho-chi-minh-city-to-mekong"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — Hanoi",
+      "body": "Land in Hanoi and walk the Old Quarter.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "itinerarySlug": "hanoi-old-quarter-walk"
+    },
+    {
+      "title": "Day 2 — Night train",
+      "body": "Board the night train to Sa Pa.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi",
+      "routeSlug": "hanoi-to-sapa"
+    },
+    {
+      "title": "Day 3 — Sapa",
+      "body": "See the stone church and Cat Cat.",
+      "placeSlug": "sapa",
+      "photo": "sapa-stone-church",
+      "itinerarySlug": "sapa-day"
+    },
+    {
+      "title": "Day 4 — Fansipan",
+      "body": "Ride to Fansipan if the ridge is clear.",
+      "placeSlug": "sapa",
+      "photo": "sapa-fansipan"
+    },
+    {
+      "title": "Day 5 — Back to Hanoi",
+      "body": "Return to Hanoi.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "routeSlug": "hanoi-to-sapa"
+    },
+    {
+      "title": "Day 6 — Ha Long",
+      "body": "Take a day boat on Ha Long Bay.",
+      "placeSlug": "ha-long",
+      "photo": "ha-long-sung-sot",
+      "routeSlug": "hanoi-to-ha-long",
+      "itinerarySlug": "ha-long-day"
+    },
+    {
+      "title": "Day 7 — Ninh Binh",
+      "body": "Travel to Ninh Binh.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-trang-an",
+      "routeSlug": "hanoi-to-ninh-binh"
+    },
+    {
+      "title": "Day 8 — Trang An",
+      "body": "Take the Trang An boat. An adult over 1.3 m is 300,000 đồng.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-trang-an",
+      "itinerarySlug": "ninh-binh-day"
+    },
+    {
+      "title": "Day 9 — Dong Hoi",
+      "body": "Travel toward Dong Hoi.",
+      "placeSlug": "dong-hoi",
+      "photo": "dong-hoi-nhat-le-beach",
+      "routeSlug": "ninh-binh-to-dong-hoi"
+    },
+    {
+      "title": "Day 10 — Phong Nha Cave",
+      "body": "Visit Phong Nha Cave, about 2.5 hours, 150,000 VND plus the boat.",
+      "placeSlug": "phong-nha",
+      "photo": "phong-nha-phong-nha-cave",
+      "routeSlug": "dong-hoi-to-phong-nha",
+      "itinerarySlug": "phong-nha-cave-half-day"
+    },
+    {
+      "title": "Day 11 — Paradise Cave",
+      "body": "Visit Paradise Cave. The ticket is 270,000 VND, buggy included.",
+      "placeSlug": "phong-nha",
+      "photo": "phong-nha-paradise-cave",
+      "itinerarySlug": "phong-nha-day"
+    },
+    {
+      "title": "Day 12 — Hue",
+      "body": "Travel to Hue.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "routeSlug": "hue-to-dong-hoi"
+    },
+    {
+      "title": "Day 13 — Hue Citadel",
+      "body": "Visit the citadel.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "itinerarySlug": "hue-day"
+    },
+    {
+      "title": "Day 14 — Hoi An",
+      "body": "Travel to Hoi An.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-japanese-bridge",
+      "routeSlug": "hue-to-hoi-an",
+      "itinerarySlug": "hoi-an-day"
+    },
+    {
+      "title": "Day 15 — Hoi An",
+      "body": "Stay in the old town or take An Bang.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-an-bang"
+    },
+    {
+      "title": "Day 16 — Da Lat",
+      "body": "Travel to Da Lat.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-xuan-huong",
+      "routeSlug": "da-nang-to-da-lat"
+    },
+    {
+      "title": "Day 17 — Da Lat",
+      "body": "See Datanla and Truc Lam.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-datanla",
+      "itinerarySlug": "da-lat-day"
+    },
+    {
+      "title": "Day 18 — Ho Chi Minh City",
+      "body": "Travel to Ho Chi Minh City.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-ben-thanh",
+      "routeSlug": "ho-chi-minh-city-to-da-lat",
+      "itinerarySlug": "ho-chi-minh-city-day"
+    },
+    {
+      "title": "Day 19 — War Remnants",
+      "body": "Visit the War Remnants Museum.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-war-remnants"
+    },
+    {
+      "title": "Day 20 — Can Tho",
+      "body": "Travel to Can Tho.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-ninh-kieu",
+      "routeSlug": "ho-chi-minh-city-to-mekong"
+    },
+    {
+      "title": "Day 21 — Cai Rang",
+      "body": "Be at Cai Rang at dawn.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-cai-rang",
+      "itinerarySlug": "can-tho-day"
+    }
+  ],
+  "seoTitle": "Vietnam in 21 days, north to south",
+  "seoDescription": "Hanoi to Can Tho in 21 days, with Sapa, Ha Long, Ninh Binh, Phong Nha, Hue, Hoi An, and Da Lat."
+}

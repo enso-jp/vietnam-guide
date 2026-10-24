@@ -1,0 +1,40 @@
+{
+  "slug": "con-dao-3-days",
+  "title": "Con Dao in 3 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "3 days",
+  "daysCount": 3,
+  "corridor": "southeast",
+  "budget": "Midrange",
+  "pace": "The camps, then the park",
+  "summary": "Ho Chi Minh City to Con Dao. The prison camps, Hang Duong, and the national park. Turtle nights sit on the turtle-watch interest.",
+  "days": [
+    {
+      "title": "Day 1 — Fly in",
+      "body": "Fly from Ho Chi Minh City.",
+      "placeSlug": "con-dao",
+      "photo": "con-dao-con-dao-prison",
+      "routeSlug": "ho-chi-minh-city-to-con-dao"
+    },
+    {
+      "title": "Day 2 — The camps",
+      "body": "The prison is a morning or an afternoon. Hang Duong is a stop after the camps. Fees are Check on arrival.",
+      "placeSlug": "con-dao",
+      "photo": "con-dao-con-dao-prison",
+      "itinerarySlug": "con-dao-prison-half-day"
+    },
+    {
+      "title": "Day 3 — The park",
+      "body": "A day on the water or in the forest. The scenic fee is 60,000 or 50,000 VND by route.",
+      "placeSlug": "con-dao",
+      "photo": "con-dao-con-dao-national-park",
+      "itinerarySlug": "con-dao-two-days"
+    }
+  ],
+  "seoTitle": "Con Dao in 3 days",
+  "seoDescription": "Ho Chi Minh City to Con Dao. The prison camps, Hang Duong, and the national park. Turtle nights sit on the turtle-watch interest.",
+  "routeSlugs": [
+    "ho-chi-minh-city-to-con-dao"
+  ]
+}

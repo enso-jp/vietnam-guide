@@ -1,0 +1,44 @@
+{
+  "slug": "hanoi-ba-dinh-half-day",
+  "title": "Ba Dinh half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "hanoi",
+  "budget": "Check on arrival",
+  "pace": "Ba Dinh",
+  "photo": "hanoi-mausoleum",
+  "summary": "The citadel, the mausoleum, One Pillar, and the Temple of Literature. How long each gate takes is Check on arrival.",
+  "stops": [
+    {
+      "name": "Imperial Citadel of Thang Long",
+      "minutes": "Check on arrival",
+      "note": "An adult ticket is 100,000 VND.",
+      "placeSlug": "hanoi",
+      "attractionSlug": "citadel"
+    },
+    {
+      "name": "Ho Chi Minh Mausoleum",
+      "minutes": "Check on arrival",
+      "note": "Free on the operator FAQ, and 40,000 VND on Vietnam Tourism.",
+      "placeSlug": "hanoi",
+      "attractionSlug": "mausoleum"
+    },
+    {
+      "name": "One Pillar Pagoda",
+      "minutes": "Check on arrival",
+      "note": "The ticket is 25,000 VND.",
+      "placeSlug": "hanoi",
+      "attractionSlug": "one-pillar"
+    },
+    {
+      "name": "Temple of Literature",
+      "minutes": "Check on arrival",
+      "note": "The daytime adult ticket is 70,000 VND.",
+      "placeSlug": "hanoi",
+      "attractionSlug": "temple-of-literature"
+    }
+  ],
+  "seoTitle": "Ba Dinh half day",
+  "seoDescription": "The citadel, the mausoleum, One Pillar, and the Temple of Literature. How long each gate takes is Check on arrival."
+}

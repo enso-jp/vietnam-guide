@@ -1,0 +1,52 @@
+{
+  "slug": "da-nang-hoi-an-4-days",
+  "title": "Da Nang and Hoi An in 4 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "4 days",
+  "daysCount": 4,
+  "corridor": "south-central-highlands",
+  "budget": "Midrange",
+  "pace": "Beach, old town, towers, island",
+  "summary": "Da Nang, Hoi An, My Son, and the Cham Islands. January to August. Summer pier crowds.",
+  "days": [
+    {
+      "title": "Day 1 — Da Nang",
+      "body": "My Khe is half a day and free to swim, or Ba Na is a full day.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-my-khe",
+      "itinerarySlug": "da-nang-day"
+    },
+    {
+      "title": "Day 2 — Hoi An",
+      "body": "Walk from the Japanese Covered Bridge.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-japanese-bridge",
+      "routeSlug": "da-nang-to-hoi-an",
+      "itinerarySlug": "hoi-an-day"
+    },
+    {
+      "title": "Day 3 — My Son",
+      "body": "Visit the towers.",
+      "placeSlug": "my-son",
+      "photo": "my-son-towers-2",
+      "routeSlug": "hoi-an-to-my-son"
+    },
+    {
+      "title": "Day 4 — Cham Islands",
+      "body": "The reserve ticket is 70,000 VND per person per visit.",
+      "placeSlug": "cham-islands",
+      "photo": "cham-islands-cu-lao-cham-reserve",
+      "routeSlug": "hoi-an-to-cham-islands",
+      "itinerarySlug": "cham-islands-day"
+    }
+  ],
+  "seoTitle": "Da Nang and Hoi An in 4 days",
+  "seoDescription": "Da Nang, Hoi An, My Son, and the Cham Islands. January to August. Summer pier crowds.",
+  "variant": "da-nang-hoi-an",
+  "routeSlugs": [
+    "da-nang-to-hoi-an",
+    "hoi-an-to-my-son",
+    "hoi-an-to-cham-islands"
+  ]
+}

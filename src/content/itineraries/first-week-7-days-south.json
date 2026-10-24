@@ -1,0 +1,71 @@
+{
+  "slug": "first-week-7-days-south",
+  "title": "A first week from Ho Chi Minh City",
+  "kind": "trip",
+  "level": "nationwide",
+  "duration": "7 days",
+  "daysCount": 7,
+  "gateway": "ho-chi-minh-city",
+  "direction": "south-to-north",
+  "budget": "Midrange",
+  "pace": "City, tunnels, then the coast",
+  "summary": "Ho Chi Minh City, a Cu Chi day, Hoi An, and Da Nang.",
+  "routeSlugs": [
+    "ho-chi-minh-city-to-cu-chi",
+    "ho-chi-minh-city-to-da-nang",
+    "da-nang-to-hoi-an"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — The center",
+      "body": "Land in Ho Chi Minh City and walk the center.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-ben-thanh",
+      "itinerarySlug": "ho-chi-minh-city-walk"
+    },
+    {
+      "title": "Day 2 — War Remnants",
+      "body": "Visit the War Remnants Museum.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-war-remnants",
+      "itinerarySlug": "ho-chi-minh-city-day"
+    },
+    {
+      "title": "Day 3 — Cu Chi",
+      "body": "Visit the Cu Chi tunnels. The site is 35,000 đồng and the guide is 100,000 đồng.",
+      "placeSlug": "cu-chi",
+      "photo": "cu-chi-tunnels",
+      "routeSlug": "ho-chi-minh-city-to-cu-chi",
+      "itinerarySlug": "cu-chi-day"
+    },
+    {
+      "title": "Day 4 — Fly to Da Nang",
+      "body": "Fly to Da Nang. The flight is about 1 hour 20 minutes.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang",
+      "routeSlug": "ho-chi-minh-city-to-da-nang"
+    },
+    {
+      "title": "Day 5 — Hoi An",
+      "body": "Walk the old town from the Japanese Covered Bridge.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-japanese-bridge",
+      "itinerarySlug": "hoi-an-day"
+    },
+    {
+      "title": "Day 6 — Marble Mountains",
+      "body": "See Marble Mountains. The adult ticket is 40,000 VND.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-marble-mountains",
+      "itinerarySlug": "son-tra-marble-half-day"
+    },
+    {
+      "title": "Day 7 — Leave Da Nang",
+      "body": "Keep the morning on My Khe or in Hoi An and fly home.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-my-khe"
+    }
+  ],
+  "seoTitle": "Vietnam in 7 days from Ho Chi Minh City",
+  "seoDescription": "Ho Chi Minh City, Cu Chi, Hoi An, and Da Nang in seven days."
+}

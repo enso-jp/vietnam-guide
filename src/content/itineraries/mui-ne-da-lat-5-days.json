@@ -1,0 +1,55 @@
+{
+  "slug": "mui-ne-da-lat-5-days",
+  "title": "Mui Ne and Da Lat in 5 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "5 days",
+  "daysCount": 5,
+  "corridor": "south-central-highlands",
+  "budget": "Midrange",
+  "pace": "Dunes, then the plateau",
+  "summary": "Ho Chi Minh City, Mui Ne, and Da Lat. November to April. The Mui Ne to Da Lat minutes are Check on arrival.",
+  "days": [
+    {
+      "title": "Day 1 — To Mui Ne",
+      "body": "Travel from Ho Chi Minh City to Mui Ne.",
+      "placeSlug": "mui-ne",
+      "photo": "mui-ne-white-dunes",
+      "routeSlug": "ho-chi-minh-city-to-mui-ne"
+    },
+    {
+      "title": "Day 2 — White dunes",
+      "body": "The white dunes are 5:00–7:00. The fee is Check on arrival.",
+      "placeSlug": "mui-ne",
+      "photo": "mui-ne-white-dunes"
+    },
+    {
+      "title": "Day 3 — Red dunes",
+      "body": "The red dunes are sunset. The fee is Check on arrival.",
+      "placeSlug": "mui-ne",
+      "photo": "mui-ne-red-dunes",
+      "itinerarySlug": "mui-ne-day"
+    },
+    {
+      "title": "Day 4 — Da Lat",
+      "body": "Travel to Da Lat. The minutes are Check on arrival.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-datanla"
+    },
+    {
+      "title": "Day 5 — Datanla",
+      "body": "Datanla is 1 hour minimum. Entrance is 30,000 VND.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-datanla",
+      "routeSlug": "ho-chi-minh-city-to-da-lat",
+      "itinerarySlug": "da-lat-day"
+    }
+  ],
+  "seoTitle": "Mui Ne and Da Lat in 5 days",
+  "seoDescription": "Ho Chi Minh City, Mui Ne, and Da Lat. November to April. The Mui Ne to Da Lat minutes are Check on arrival.",
+  "variant": "mui-ne",
+  "routeSlugs": [
+    "ho-chi-minh-city-to-mui-ne",
+    "ho-chi-minh-city-to-da-lat"
+  ]
+}

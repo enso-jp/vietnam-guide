@@ -1,0 +1,77 @@
+{
+  "slug": "caves-and-karst-7-days",
+  "title": "Caves and karst in 7 days",
+  "kind": "trip",
+  "level": "nationwide",
+  "duration": "7 days",
+  "daysCount": 7,
+  "gateway": "open-jaw",
+  "direction": "north-to-south",
+  "budget": "Midrange",
+  "pace": "Boats and caves",
+  "summary": "Hanoi, Ninh Binh, Tam Coc, Ha Long, and Phong Nha. Son Doong is not a stop.",
+  "routeSlugs": [
+    "hanoi-to-ninh-binh",
+    "hanoi-to-ha-long",
+    "hanoi-to-hue",
+    "hue-to-dong-hoi",
+    "dong-hoi-to-phong-nha"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — Hanoi",
+      "body": "Land in Hanoi.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "itinerarySlug": "hanoi-day"
+    },
+    {
+      "title": "Day 2 — Trang An",
+      "body": "Take the Trang An boat.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-trang-an",
+      "routeSlug": "hanoi-to-ninh-binh",
+      "itinerarySlug": "ninh-binh-day"
+    },
+    {
+      "title": "Day 3 — Tam Coc",
+      "body": "The three caves are about 2 hours on the water. An adult is 250,000 VND.",
+      "placeSlug": "tam-coc",
+      "photo": "tam-coc-three-caves",
+      "itinerarySlug": "tam-coc-day"
+    },
+    {
+      "title": "Day 4 — Ha Long",
+      "body": "Sung Sot, Thien Cung, and Dau Go.",
+      "placeSlug": "ha-long",
+      "photo": "ha-long-sung-sot",
+      "routeSlug": "hanoi-to-ha-long",
+      "itinerarySlug": "ha-long-day"
+    },
+    {
+      "title": "Day 5 — Toward Hue",
+      "body": "Travel toward Hue.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "routeSlug": "hanoi-to-hue"
+    },
+    {
+      "title": "Day 6 — Phong Nha Cave",
+      "body": "About 2.5 hours. 150,000 VND plus the boat.",
+      "placeSlug": "phong-nha",
+      "photo": "phong-nha-phong-nha-cave",
+      "routeSlug": "hue-to-dong-hoi",
+      "itinerarySlug": "phong-nha-cave-half-day"
+    },
+    {
+      "title": "Day 7 — Paradise Cave",
+      "body": "270,000 VND, buggy included.",
+      "placeSlug": "phong-nha",
+      "photo": "phong-nha-paradise-cave",
+      "routeSlug": "dong-hoi-to-phong-nha",
+      "itinerarySlug": "phong-nha-day"
+    }
+  ],
+  "seoTitle": "Caves and karst in 7 days",
+  "seoDescription": "Ninh Binh, Tam Coc, Ha Long, and Phong Nha in seven days. Son Doong is not a stop."
+}

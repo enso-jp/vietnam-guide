@@ -1,0 +1,44 @@
+{
+  "slug": "mekong-3-days",
+  "title": "Mekong in 3 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "3 days",
+  "daysCount": 3,
+  "corridor": "mekong-delta",
+  "budget": "Midrange",
+  "pace": "River towns",
+  "summary": "Ho Chi Minh City, My Tho, Ben Tre, and Can Tho. December to April dry.",
+  "days": [
+    {
+      "title": "Day 1 — My Tho",
+      "body": "Vinh Trang is 120 minutes and free.",
+      "placeSlug": "my-tho",
+      "photo": "my-tho-vinh-trang",
+      "routeSlug": "ho-chi-minh-city-to-my-tho",
+      "itinerarySlug": "my-tho-day"
+    },
+    {
+      "title": "Day 2 — Ben Tre",
+      "body": "Con Phung is a river day. The fee is Check on arrival.",
+      "placeSlug": "ben-tre",
+      "photo": "ben-tre-con-phung",
+      "itinerarySlug": "ben-tre-day"
+    },
+    {
+      "title": "Day 3 — Can Tho",
+      "body": "Cai Rang at dawn. Binh Thuy House is 20,000–50,000 VND.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-cai-rang",
+      "routeSlug": "ben-tre-to-can-tho",
+      "itinerarySlug": "can-tho-day"
+    }
+  ],
+  "seoTitle": "Mekong in 3 days",
+  "seoDescription": "Ho Chi Minh City, My Tho, Ben Tre, and Can Tho. December to April dry.",
+  "routeSlugs": [
+    "ho-chi-minh-city-to-my-tho",
+    "ho-chi-minh-city-to-mekong",
+    "ben-tre-to-can-tho"
+  ]
+}

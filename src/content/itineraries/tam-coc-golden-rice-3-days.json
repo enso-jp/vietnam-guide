@@ -1,0 +1,42 @@
+{
+  "slug": "tam-coc-golden-rice-3-days",
+  "title": "Tam Coc golden rice in 3 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "3 days",
+  "daysCount": 3,
+  "corridor": "red-river-delta",
+  "budget": "Midrange",
+  "pace": "The rice window",
+  "summary": "Hanoi, Tam Coc, and Ninh Binh in late May to early June.",
+  "days": [
+    {
+      "title": "Day 1 — Hanoi",
+      "body": "Land and walk Hoan Kiem Lake.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "itinerarySlug": "hanoi-day"
+    },
+    {
+      "title": "Day 2 — Tam Coc",
+      "body": "The three caves are about 2 hours on the water. An adult is 250,000 VND.",
+      "placeSlug": "tam-coc",
+      "photo": "tam-coc-three-caves",
+      "routeSlug": "hanoi-to-ninh-binh",
+      "itinerarySlug": "tam-coc-day"
+    },
+    {
+      "title": "Day 3 — Trang An or Hang Mua",
+      "body": "Trang An is 300,000 đồng for an adult over 1.3 m. Hang Mua is 150,000 VND per person.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-trang-an",
+      "itinerarySlug": "ninh-binh-day"
+    }
+  ],
+  "seoTitle": "Tam Coc golden rice in 3 days",
+  "seoDescription": "Hanoi, Tam Coc, and Ninh Binh in late May to early June.",
+  "variant": "rice",
+  "routeSlugs": [
+    "hanoi-to-ninh-binh"
+  ]
+}

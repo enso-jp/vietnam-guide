@@ -1,0 +1,133 @@
+{
+  "slug": "reunification-rail-16-days",
+  "title": "Reunification rail in 16 days",
+  "kind": "trip",
+  "level": "nationwide",
+  "duration": "16 days",
+  "daysCount": 16,
+  "gateway": "open-jaw",
+  "direction": "north-to-south",
+  "budget": "Midrange",
+  "pace": "Station to station",
+  "summary": "Hanoi to Ho Chi Minh City along the published rail stops. Several coastal legs have no route page yet; those minutes are Check on arrival.",
+  "routeSlugs": [
+    "hanoi-to-ninh-binh",
+    "ninh-binh-to-dong-hoi",
+    "hue-to-dong-hoi",
+    "hanoi-to-hue",
+    "hue-to-hoi-an",
+    "ho-chi-minh-city-to-da-nang"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — Hanoi",
+      "body": "Land and walk Hoan Kiem Lake.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "itinerarySlug": "hanoi-day"
+    },
+    {
+      "title": "Day 2 — Ninh Binh",
+      "body": "Take the Trang An boat.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-trang-an",
+      "routeSlug": "hanoi-to-ninh-binh",
+      "itinerarySlug": "ninh-binh-day"
+    },
+    {
+      "title": "Day 3 — Dong Hoi",
+      "body": "Travel to Dong Hoi.",
+      "placeSlug": "dong-hoi",
+      "photo": "dong-hoi-nhat-le-beach",
+      "routeSlug": "ninh-binh-to-dong-hoi",
+      "itinerarySlug": "dong-hoi-day"
+    },
+    {
+      "title": "Day 4 — Hue",
+      "body": "Travel to Hue.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "routeSlug": "hue-to-dong-hoi"
+    },
+    {
+      "title": "Day 5 — Hue Citadel",
+      "body": "Visit the citadel.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "itinerarySlug": "hue-day"
+    },
+    {
+      "title": "Day 6 — Da Nang",
+      "body": "Travel toward Da Nang.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang",
+      "itinerarySlug": "da-nang-day"
+    },
+    {
+      "title": "Day 7 — Quang Ngai",
+      "body": "Son My is a morning.",
+      "placeSlug": "quang-ngai",
+      "photo": "quang-ngai-son-my",
+      "itinerarySlug": "quang-ngai-day"
+    },
+    {
+      "title": "Day 8 — Quy Nhon",
+      "body": "Ky Co is about an hour.",
+      "placeSlug": "quy-nhon",
+      "photo": "quy-nhon-ky-co"
+    },
+    {
+      "title": "Day 9 — Quy Nhon",
+      "body": "Stay on the city beach.",
+      "placeSlug": "quy-nhon",
+      "photo": "quy-nhon-city-beach"
+    },
+    {
+      "title": "Day 10 — Tuy Hoa",
+      "body": "Thap Nhan is a morning, or Saturday evening for the show.",
+      "placeSlug": "tuy-hoa",
+      "photo": "tuy-hoa-thap-nhan",
+      "itinerarySlug": "tuy-hoa-day"
+    },
+    {
+      "title": "Day 11 — Nha Trang",
+      "body": "Po Nagar is a morning. The adult ticket is 22,000 VND.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang-po-nagar",
+      "itinerarySlug": "nha-trang-day"
+    },
+    {
+      "title": "Day 12 — Nha Trang",
+      "body": "Stay on the sand.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang"
+    },
+    {
+      "title": "Day 13 — Toward Ho Chi Minh City",
+      "body": "Travel south. The minutes are Check on arrival.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city"
+    },
+    {
+      "title": "Day 14 — Ho Chi Minh City",
+      "body": "Walk the center.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-ben-thanh",
+      "itinerarySlug": "ho-chi-minh-city-day"
+    },
+    {
+      "title": "Day 15 — War Remnants",
+      "body": "Visit the War Remnants Museum.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-war-remnants"
+    },
+    {
+      "title": "Day 16 — Leave",
+      "body": "Fly home.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city"
+    }
+  ],
+  "seoTitle": "Reunification rail in 16 days",
+  "seoDescription": "Hanoi to Ho Chi Minh City in 16 days along the published rail stops."
+}

@@ -1,0 +1,120 @@
+{
+  "slug": "saigon-round-trip-14-days",
+  "title": "Fourteen days from Ho Chi Minh City and back",
+  "kind": "trip",
+  "level": "nationwide",
+  "duration": "14 days",
+  "daysCount": 14,
+  "gateway": "ho-chi-minh-city",
+  "direction": "south-to-north",
+  "budget": "Midrange, with domestic flights",
+  "pace": "Mekong, highlands, coast, then the flight home",
+  "summary": "Ho Chi Minh City, Can Tho, Da Lat, Nha Trang, Hoi An, and Hue, then fly back. Dry December to April in the south.",
+  "routeSlugs": [
+    "ho-chi-minh-city-to-mekong",
+    "ho-chi-minh-city-to-da-lat",
+    "nha-trang-to-da-lat",
+    "ho-chi-minh-city-to-da-nang",
+    "hue-to-hoi-an"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — Ho Chi Minh City",
+      "body": "Land and walk the center.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-ben-thanh",
+      "itinerarySlug": "ho-chi-minh-city-day"
+    },
+    {
+      "title": "Day 2 — Can Tho",
+      "body": "Travel to Can Tho.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-ninh-kieu",
+      "routeSlug": "ho-chi-minh-city-to-mekong"
+    },
+    {
+      "title": "Day 3 — Cai Rang",
+      "body": "Be at Cai Rang at dawn.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-cai-rang",
+      "itinerarySlug": "can-tho-day"
+    },
+    {
+      "title": "Day 4 — Da Lat",
+      "body": "Travel to Da Lat.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-xuan-huong",
+      "routeSlug": "ho-chi-minh-city-to-da-lat"
+    },
+    {
+      "title": "Day 5 — Da Lat",
+      "body": "See Datanla.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-datanla",
+      "itinerarySlug": "da-lat-day"
+    },
+    {
+      "title": "Day 6 — Nha Trang",
+      "body": "Travel to Nha Trang.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang-po-nagar",
+      "routeSlug": "nha-trang-to-da-lat"
+    },
+    {
+      "title": "Day 7 — Po Nagar",
+      "body": "Po Nagar is a morning. The adult ticket is 22,000 VND.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang-po-nagar",
+      "itinerarySlug": "po-nagar-half-day"
+    },
+    {
+      "title": "Day 8 — Toward Da Nang",
+      "body": "Travel toward Da Nang.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang",
+      "routeSlug": "ho-chi-minh-city-to-da-nang"
+    },
+    {
+      "title": "Day 9 — Hoi An",
+      "body": "Walk the old town.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-japanese-bridge",
+      "itinerarySlug": "hoi-an-day"
+    },
+    {
+      "title": "Day 10 — Hoi An",
+      "body": "Stay in the old town.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-tan-ky"
+    },
+    {
+      "title": "Day 11 — Hue",
+      "body": "Travel to Hue.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "routeSlug": "hue-to-hoi-an",
+      "itinerarySlug": "hue-day"
+    },
+    {
+      "title": "Day 12 — Hue Citadel",
+      "body": "Visit the citadel.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel"
+    },
+    {
+      "title": "Day 13 — Fly south",
+      "body": "Fly back to Ho Chi Minh City.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-ben-thanh",
+      "routeSlug": "ho-chi-minh-city-to-da-nang"
+    },
+    {
+      "title": "Day 14 — Leave",
+      "body": "Keep the last morning in the city and fly home.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city"
+    }
+  ],
+  "seoTitle": "Fourteen days from Ho Chi Minh City and back",
+  "seoDescription": "Can Tho, Da Lat, Nha Trang, Hoi An, and Hue, then the flight back to Ho Chi Minh City."
+}

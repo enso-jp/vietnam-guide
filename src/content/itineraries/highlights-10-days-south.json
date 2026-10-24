@@ -1,0 +1,95 @@
+{
+  "slug": "highlights-10-days-south",
+  "title": "Highlights of Vietnam in 10 days, south to north",
+  "kind": "trip",
+  "level": "nationwide",
+  "duration": "10 days",
+  "daysCount": 10,
+  "gateway": "open-jaw",
+  "direction": "south-to-north",
+  "budget": "Midrange",
+  "pace": "Steady",
+  "summary": "Ho Chi Minh City, My Tho or Can Tho, Hoi An, Hue, and Hanoi. Fly once.",
+  "routeSlugs": [
+    "ho-chi-minh-city-to-my-tho",
+    "ho-chi-minh-city-to-mekong",
+    "ho-chi-minh-city-to-da-nang",
+    "hue-to-hoi-an",
+    "hanoi-to-hue"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — The center",
+      "body": "Land in Ho Chi Minh City and walk the center.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-ben-thanh",
+      "itinerarySlug": "ho-chi-minh-city-walk"
+    },
+    {
+      "title": "Day 2 — Palace and War Remnants",
+      "body": "See Reunification Palace and the War Remnants Museum.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-war-remnants",
+      "itinerarySlug": "ho-chi-minh-city-day"
+    },
+    {
+      "title": "Day 3 — My Tho or Can Tho",
+      "body": "Take the river day at My Tho, or go on to Can Tho.",
+      "placeSlug": "my-tho",
+      "photo": "my-tho-vinh-trang",
+      "itinerarySlug": "my-tho-day"
+    },
+    {
+      "title": "Day 4 — Fly to Da Nang",
+      "body": "Fly to Da Nang. The flight is about 1 hour 20 minutes.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang",
+      "routeSlug": "ho-chi-minh-city-to-da-nang"
+    },
+    {
+      "title": "Day 5 — Hoi An",
+      "body": "Walk the old town from the Japanese Covered Bridge.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-japanese-bridge",
+      "itinerarySlug": "hoi-an-day"
+    },
+    {
+      "title": "Day 6 — Hoi An or An Bang",
+      "body": "Stay in the old town, or take the An Bang half day.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-an-bang",
+      "itinerarySlug": "an-bang-half-day"
+    },
+    {
+      "title": "Day 7 — Hue",
+      "body": "Travel to Hue and visit the citadel.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "routeSlug": "hue-to-hoi-an",
+      "itinerarySlug": "hue-day"
+    },
+    {
+      "title": "Day 8 — Hue tombs",
+      "body": "Visit one tomb day.",
+      "placeSlug": "hue",
+      "photo": "hue-khai-dinh",
+      "itinerarySlug": "hue-tombs-half-day"
+    },
+    {
+      "title": "Day 9 — Hanoi",
+      "body": "Travel to Hanoi and walk Hoan Kiem Lake.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "routeSlug": "hanoi-to-hue",
+      "itinerarySlug": "hanoi-day"
+    },
+    {
+      "title": "Day 10 — Leave Hanoi",
+      "body": "Keep the last morning in Hanoi and fly home.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi"
+    }
+  ],
+  "seoTitle": "Vietnam in 10 days, south to north",
+  "seoDescription": "Ho Chi Minh City to Hanoi in 10 days, with My Tho or Can Tho, Hoi An, and Hue."
+}

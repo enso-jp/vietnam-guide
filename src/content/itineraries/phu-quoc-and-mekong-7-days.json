@@ -1,0 +1,69 @@
+{
+  "slug": "phu-quoc-and-mekong-7-days",
+  "title": "Phu Quoc and the Mekong in 7 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "7 days",
+  "daysCount": 7,
+  "corridor": "mekong-delta",
+  "budget": "Midrange",
+  "pace": "Island, then the rivers",
+  "summary": "Phu Quoc, Chau Doc, Can Tho, and Ho Chi Minh City. November to April. The Phu Quoc to Chau Doc minutes are Check on arrival.",
+  "days": [
+    {
+      "title": "Day 1 — Phu Quoc",
+      "body": "Fly in and stay on Long Beach.",
+      "placeSlug": "phu-quoc",
+      "photo": "phu-quoc-long-beach",
+      "routeSlug": "ho-chi-minh-city-to-phu-quoc"
+    },
+    {
+      "title": "Day 2 — Sao",
+      "body": "Sao is half a day and free.",
+      "placeSlug": "phu-quoc",
+      "photo": "phu-quoc-sao",
+      "itinerarySlug": "phu-quoc-day"
+    },
+    {
+      "title": "Day 3 — Toward Chau Doc",
+      "body": "Leave the island. The minutes are Check on arrival.",
+      "placeSlug": "chau-doc",
+      "photo": "chau-doc-tra-su"
+    },
+    {
+      "title": "Day 4 — Tra Su",
+      "body": "Tra Su is half a day from town, 120,000 VND at the gate.",
+      "placeSlug": "chau-doc",
+      "photo": "chau-doc-tra-su",
+      "itinerarySlug": "chau-doc-tra-su"
+    },
+    {
+      "title": "Day 5 — Can Tho",
+      "body": "Travel to Can Tho.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-ninh-kieu",
+      "routeSlug": "can-tho-to-chau-doc"
+    },
+    {
+      "title": "Day 6 — Cai Rang",
+      "body": "Be at Cai Rang at dawn.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-cai-rang",
+      "itinerarySlug": "can-tho-day"
+    },
+    {
+      "title": "Day 7 — Ho Chi Minh City",
+      "body": "Return to Ho Chi Minh City.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-ben-thanh",
+      "routeSlug": "ho-chi-minh-city-to-mekong"
+    }
+  ],
+  "seoTitle": "Phu Quoc and the Mekong in 7 days",
+  "seoDescription": "Phu Quoc, Chau Doc, Can Tho, and Ho Chi Minh City. November to April. The Phu Quoc to Chau Doc minutes are Check on arrival.",
+  "routeSlugs": [
+    "ho-chi-minh-city-to-phu-quoc",
+    "can-tho-to-chau-doc",
+    "ho-chi-minh-city-to-mekong"
+  ]
+}

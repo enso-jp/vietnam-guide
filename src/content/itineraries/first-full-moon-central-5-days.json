@@ -1,0 +1,54 @@
+{
+  "slug": "first-full-moon-central-5-days",
+  "title": "First full moon on the central coast in 5 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "5 days",
+  "daysCount": 5,
+  "corridor": "south-central-highlands",
+  "budget": "Midrange",
+  "pace": "First lunar month",
+  "summary": "Hoi An, My Son, and Tuy Hoa in the first lunar month. Solar dates are Check on arrival.",
+  "days": [
+    {
+      "title": "Day 1 — Hoi An",
+      "body": "Lantern night dates are Check on arrival.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-japanese-bridge",
+      "itinerarySlug": "hoi-an-day"
+    },
+    {
+      "title": "Day 2 — Hoi An",
+      "body": "Stay in the old town.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-market"
+    },
+    {
+      "title": "Day 3 — My Son",
+      "body": "Visit the towers. A non-resident adult is 150,000 VND.",
+      "placeSlug": "my-son",
+      "photo": "my-son-towers-2",
+      "routeSlug": "hoi-an-to-my-son"
+    },
+    {
+      "title": "Day 4 — Tuy Hoa",
+      "body": "Travel to Tuy Hoa. The minutes are Check on arrival.",
+      "placeSlug": "tuy-hoa",
+      "photo": "tuy-hoa-thap-nhan"
+    },
+    {
+      "title": "Day 5 — O Loan or Nguyen Tieu",
+      "body": "Festival dates are Check on arrival.",
+      "placeSlug": "tuy-hoa",
+      "photo": "tuy-hoa-thap-nhan",
+      "itinerarySlug": "tuy-hoa-day"
+    }
+  ],
+  "seoTitle": "First full moon on the central coast in 5 days",
+  "seoDescription": "Hoi An, My Son, and Tuy Hoa in the first lunar month. Solar dates are Check on arrival.",
+  "variant": "lantern",
+  "routeSlugs": [
+    "hoi-an-to-my-son",
+    "da-nang-to-hoi-an"
+  ]
+}

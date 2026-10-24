@@ -13,6 +13,13 @@
   "bestMonths": "Lunar month 3 through the end of lunar month 9, when the sea is calm",
   "verified": "23 Oct 2026",
   "heroCaption": "The saddle at Eo Gió, with both rock walls and the sea",
+  "figures": [
+    {
+      "id": "quy-nhon-eo-gio",
+      "caption": "The saddle at Eo Gió, with both rock walls and the sea",
+      "alt": "The rock saddle at Eo Gio above the sea"
+    }
+  ],
   "notice": {
     "title": "Stay away in a rough sea",
     "body": "The calm window is lunar month 3 through the end of lunar month 9. When the sea is rough, leave the saddle."

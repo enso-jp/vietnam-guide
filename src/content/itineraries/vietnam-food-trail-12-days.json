@@ -1,0 +1,106 @@
+{
+  "slug": "vietnam-food-trail-12-days",
+  "title": "Vietnam food trail in 12 days",
+  "kind": "trip",
+  "level": "nationwide",
+  "duration": "12 days",
+  "daysCount": 12,
+  "gateway": "open-jaw",
+  "direction": "north-to-south",
+  "budget": "Midrange",
+  "pace": "Bowls, then the market",
+  "summary": "Hanoi, Hue, Hoi An, Da Nang, Ho Chi Minh City, and Can Tho, built around published dishes.",
+  "routeSlugs": [
+    "hanoi-to-hue",
+    "hue-to-hoi-an",
+    "da-nang-to-hoi-an",
+    "ho-chi-minh-city-to-da-nang",
+    "ho-chi-minh-city-to-mekong"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — Pho",
+      "body": "Land in Hanoi and eat pho.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "itinerarySlug": "hanoi-day"
+    },
+    {
+      "title": "Day 2 — Bun cha and cha ca",
+      "body": "Bun cha at lunch and cha ca at the table.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem"
+    },
+    {
+      "title": "Day 3 — Hue",
+      "body": "Travel to Hue and eat bun bo Hue.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "routeSlug": "hanoi-to-hue",
+      "itinerarySlug": "hue-day"
+    },
+    {
+      "title": "Day 4 — Com hen and banh khoai",
+      "body": "Stay in Hue for com hen and banh khoai.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel"
+    },
+    {
+      "title": "Day 5 — Hoi An",
+      "body": "Travel to Hoi An and eat cao lầu.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-japanese-bridge",
+      "routeSlug": "hue-to-hoi-an",
+      "itinerarySlug": "hoi-an-day"
+    },
+    {
+      "title": "Day 6 — Com ga and mi quang",
+      "body": "Eat com ga and mi quang in Hoi An or Da Nang.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang",
+      "itinerarySlug": "da-nang-day"
+    },
+    {
+      "title": "Day 7 — Fly south",
+      "body": "Fly to Ho Chi Minh City.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-ben-thanh",
+      "routeSlug": "ho-chi-minh-city-to-da-nang"
+    },
+    {
+      "title": "Day 8 — Banh mi and com tam",
+      "body": "Banh mi and com tam.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "com-tam",
+      "itinerarySlug": "saigon-food-evening"
+    },
+    {
+      "title": "Day 9 — Banh xeo",
+      "body": "Banh xeo.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-ben-thanh"
+    },
+    {
+      "title": "Day 10 — Can Tho",
+      "body": "Travel to Can Tho.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-ninh-kieu",
+      "routeSlug": "ho-chi-minh-city-to-mekong"
+    },
+    {
+      "title": "Day 11 — Hu tieu",
+      "body": "Hu tieu Can Tho.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-cai-rang"
+    },
+    {
+      "title": "Day 12 — Cai Rang",
+      "body": "Be at Cai Rang at dawn.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-cai-rang",
+      "itinerarySlug": "can-tho-day"
+    }
+  ],
+  "seoTitle": "Vietnam food trail in 12 days",
+  "seoDescription": "Hanoi to Can Tho in 12 days, built around pho, bun cha, bun bo Hue, cao lầu, com tam, and hu tieu."
+}

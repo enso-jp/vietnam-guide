@@ -1,0 +1,52 @@
+{
+  "slug": "phu-quoc-5-days",
+  "title": "Phu Quoc in 5 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "5 days",
+  "daysCount": 5,
+  "corridor": "mekong-delta",
+  "budget": "Midrange",
+  "pace": "Two beaches",
+  "summary": "Ho Chi Minh City to Phu Quoc. Long Beach is a beach day. Sao is half a day and free. November to April.",
+  "days": [
+    {
+      "title": "Day 1 — Fly in",
+      "body": "Fly from Ho Chi Minh City.",
+      "placeSlug": "phu-quoc",
+      "photo": "phu-quoc-long-beach",
+      "routeSlug": "ho-chi-minh-city-to-phu-quoc"
+    },
+    {
+      "title": "Day 2 — Long Beach",
+      "body": "A beach day. The fee is Check on arrival.",
+      "placeSlug": "phu-quoc",
+      "photo": "phu-quoc-long-beach",
+      "itinerarySlug": "phu-quoc-day"
+    },
+    {
+      "title": "Day 3 — Long Beach",
+      "body": "Stay on the sand.",
+      "placeSlug": "phu-quoc",
+      "photo": "phu-quoc-long-beach"
+    },
+    {
+      "title": "Day 4 — Sao",
+      "body": "Sao is half a day and free.",
+      "placeSlug": "phu-quoc",
+      "photo": "phu-quoc-sao"
+    },
+    {
+      "title": "Day 5 — Leave",
+      "body": "Fly home from Phu Quoc.",
+      "placeSlug": "phu-quoc",
+      "photo": "phu-quoc"
+    }
+  ],
+  "seoTitle": "Phu Quoc in 5 days",
+  "seoDescription": "Ho Chi Minh City to Phu Quoc. Long Beach is a beach day. Sao is half a day and free. November to April.",
+  "variant": "phu-quoc",
+  "routeSlugs": [
+    "ho-chi-minh-city-to-phu-quoc"
+  ]
+}
