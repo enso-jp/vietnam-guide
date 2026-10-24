@@ -13,13 +13,13 @@
   "days": [
     {
       "title": "Day 1 — Crescent and the bridge",
-      "body": "Swim the city beach, walk Nguyễn Tất Thành square after dark, and cross or photograph Thị Nại. The beach visit field is 60 minutes and a beach day is longer. The bridge visit field is 30 minutes. It is a road, not a ticketed walk.",
+      "body": "Swim the free yellow crescent, eat bún chả cá on Nguyễn Huệ, walk Nguyễn Tất Thành square after dark, and cross or photograph Thị Nại. The beach visit is about an hour and a beach day is longer. The bridge visit is about 30 minutes, and it is a road, not a ticketed walk.",
       "placeSlug": "quy-nhon",
       "photo": "quy-nhon-city-beach"
     },
     {
       "title": "Day 2 — The peninsula",
-      "body": "Eo Gió, then Kỳ Co. Eo Gió is 25,000 đồng. Kỳ Co’s header prints 30,000–60,000 đồng and does not say what that buys, so read the board. If you would rather stay south of the center, Ghềnh Ráng is about 3 km and free. Bãi Xếp is 13 km on, and its fee is check on arrival.",
+      "body": "Eo Gió, then Kỳ Co. Eo Gió is 25,000 đồng, and a child under 0.9 m is free. Kỳ Co is posted as 30,000–60,000 đồng, and that range does not say what it buys, so read the board. If you would rather stay south of the center, Ghềnh Ráng is about 3 km and free.",
       "placeSlug": "quy-nhon",
       "photo": "quy-nhon-ky-co"
     }
@@ -30,36 +30,49 @@
       "minutes": 60,
       "placeSlug": "quy-nhon",
       "attractionSlug": "city-beach",
-      "note": "Day one. The portal’s visit field is 60 minutes. A beach day is longer than that field. The beach is free."
+      "note": "Swim the free yellow crescent between 6:00 and 23:00, and allow about an hour even though a beach day runs longer.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk from the center onto the crescent."
+      }
     },
     {
-      "name": "Nguyen Tat Thanh square",
-      "minutes": 30,
+      "name": "Bun cha ca",
+      "minutes": "Check on arrival",
       "placeSlug": "quy-nhon",
-      "note": "Day one, after dark. The portal’s visit field is 30 minutes. The square is free."
+      "dishSlug": "quy-nhon--bun-cha-ca",
+      "note": "Eat bún chả cá on Nguyễn Huệ between the swim and the bridge."
     },
     {
       "name": "Thi Nai bridge",
       "minutes": 30,
       "placeSlug": "quy-nhon",
       "attractionSlug": "thi-nai-bridge",
-      "note": "Day one. The portal’s visit field is 30 minutes. It is a road. Minutes from the beach are check on arrival."
+      "note": "Allow about 30 minutes to cross or photograph the span."
     },
     {
       "name": "Eo Gio",
       "minutes": 30,
       "placeSlug": "quy-nhon",
       "attractionSlug": "eo-gio",
-      "note": "Day two. The portal’s visit field is 30 minutes. The fee is 25,000 đồng. Kilometres from the beach are check on arrival."
+      "note": "Allow about 30 minutes at the saddle, where the fee is 25,000 đồng."
     },
     {
       "name": "Ky Co",
       "minutes": 60,
       "placeSlug": "quy-nhon",
       "attractionSlug": "ky-co",
-      "note": "Day two. The portal’s visit field is 60 minutes. A swim is longer than that field. Read the 30,000–60,000 đồng board before you pay."
+      "note": "Allow about an hour, and read the 30,000–60,000 đồng board before you pay."
+    }
+  ],
+  "additions": [
+    {
+      "name": "Ghenh Rang",
+      "placeSlug": "quy-nhon",
+      "attractionSlug": "ghenh-rang",
+      "note": "Take the egg-stone cove about 3 km south, free, if you skip the peninsula."
     }
   ],
   "seoTitle": "Two days in Quy Nhon",
-  "seoDescription": "Two days in Quy Nhon: the yellow crescent and Xuan Dieu, then Eo Gio and Ky Co across Thi Nai. Road minutes and the Ky Co price board are check on arrival."
+  "seoDescription": "Two days in Quy Nhon: the yellow crescent and Xuân Diệu, then Eo Gió and Kỳ Co across Thị Nại. Ghềnh Ráng is the south-coast alternative."
 }

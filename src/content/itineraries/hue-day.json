@@ -16,21 +16,25 @@
       "minutes": "Check on arrival",
       "placeSlug": "hue",
       "attractionSlug": "citadel",
-      "note": "Go at opening: 06:30 from 16 March to 15 October, and 07:00 from 16 October to 15 March (conservation centre notice, March 2024). Confirm the posted hours at the gate. An adult ticket is 200,000 VND and does not cover the tombs."
+      "note": "Go when the gate opens, 06:30 from 16 March to 15 October and 07:00 from 16 October to 15 March, on the 200,000 VND adult ticket that does not cover the tombs.",
+      "approach": {
+        "mode": "walk",
+        "note": "From the south bank, cross to the north-bank gate."
+      }
     },
     {
       "name": "Bun bo Hue",
       "minutes": "Check on arrival",
       "placeSlug": "hue",
       "dishSlug": "bun-bo-hue",
-      "note": "Eat bún bò Huế inside Dong Ba, the city market, then stay for the small cakes: bánh khoái and bánh bèo."
+      "note": "Eat bún bò Huế at Dong Ba, then bánh khoái and bánh bèo."
     },
     {
       "name": "Perfume River walk",
       "minutes": "Check on arrival",
       "placeSlug": "hue",
       "attractionSlug": "perfume-river",
-      "note": "At dusk, walk the river path from Truong Tien Bridge to Nghinh Luong Dinh, the old royal landing."
+      "note": "At dusk, walk from Truong Tien Bridge to Nghinh Luong Dinh."
     }
   ],
   "seoTitle": "Hue in a day — citadel opening and the river at dusk",

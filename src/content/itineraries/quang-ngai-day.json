@@ -9,37 +9,30 @@
   "budget": "Check on arrival",
   "pace": "Moderate",
   "photo": "quang-ngai-son-my",
-  "summary": "A day on the Trà Khúc, then Sơn Mỹ and this city’s Mỹ Khê. The weekend night street runs 17:00–22:00. Time on each stop is check on arrival.",
-  "days": [
-    {
-      "title": "The river, the memorial, then the sand",
-      "body": "Start on the Trà Khúc. In May and June the newspaper’s peak for don is the river mouth at the end of Trường Sa. Give the late morning to Sơn Mỹ, 13 km northeast on the bureau page and about 12 km from cầu Trà Khúc 1 on the library page. The swim, if you still have the afternoon, is Mỹ Khê at Cổ Lũy, 12 km east, not the beach in Đà Nẵng. On Friday, Saturday, or Sunday the night street on Tôn Đức Thắng runs 17:00–22:00. Fees, hours, and the minutes between stops are check on arrival.",
-      "placeSlug": "quang-ngai",
-      "photo": "quang-ngai-son-my"
-    }
-  ],
+  "summary": "A day on the Trà Khúc, don where the river meets the sea, then Sơn Mỹ. Mỹ Khê at Cổ Lũy, 12 km east, is the afternoon sand, and it is not the beach in Đà Nẵng. On Friday, Saturday, Sunday, and holidays the night street on Tôn Đức Thắng runs 17:00–22:00.",
   "stops": [
     {
       "name": "Tra Khuc",
       "minutes": "Check on arrival",
       "placeSlug": "quang-ngai",
       "attractionSlug": "tra-khuc",
-      "note": "The river the city is built on. A timed walk was not printed."
+      "note": "Walk the Trà Khúc bank, and on Friday, Saturday, Sunday, and holidays Phố đêm Sông Trà runs 17:00–22:00 on Tôn Đức Thắng."
+    },
+    {
+      "name": "Don",
+      "minutes": "Check on arrival",
+      "placeSlug": "quang-ngai",
+      "dishSlug": "quang-ngai--don",
+      "note": "Eat don in the morning or the evening, and in May and June go to the river mouth at the end of Trường Sa."
     },
     {
       "name": "Son My",
       "minutes": "Check on arrival",
       "placeSlug": "quang-ngai",
       "attractionSlug": "son-my",
-      "note": "The memorial at Tịnh Khê. Not a five-minute photo stop. The office prints no fee."
-    },
-    {
-      "name": "My Khe of Quang Ngai",
-      "minutes": "Check on arrival",
-      "placeSlug": "quang-ngai",
-      "note": "The sand at Cổ Lũy, 12 km east. Not the beach in Đà Nẵng."
+      "note": "Give the late morning to the memorial at Tịnh Khê."
     }
   ],
   "seoTitle": "Quang Ngai in a day — river, Son My, My Khe",
-  "seoDescription": "One day in Quang Ngai: the Trà Khúc, Sơn Mỹ, and Mỹ Khê at Cổ Lũy. The weekend night street is 17:00–22:00. Minutes and fees are check on arrival."
+  "seoDescription": "One day in Quang Ngai: the Trà Khúc, don, and Sơn Mỹ. Mỹ Khê at Cổ Lũy is the afternoon sand. The weekend night street is 17:00–22:00."
 }

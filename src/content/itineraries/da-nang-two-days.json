@@ -9,17 +9,19 @@
   "budget": "Check on arrival",
   "pace": "Relaxed",
   "photo": "da-nang-son-tra",
-  "summary": "My Khe and An Thuong on the first day. Son Tra and the Marble Mountains on the second, with Hoi An still an easy ride if the hills are enough.",
+  "summary": "My Khe and An Thuong on the first day. Son Tra and the Marble Mountains on the second, with Hội An still an easy ride if the hills are enough.",
   "days": [
     {
       "title": "Day 1 — Beach and An Thuong",
-      "body": "My Khe in the morning, mi Quang for lunch, and An Thuong after dark. The Cham Museum if you want the hour on the river first.",
-      "placeSlug": "da-nang"
+      "body": "The Cham Museum on the river, My Khe in the morning, mì Quảng for lunch, and An Thuong after dark.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-my-khe"
     },
     {
       "title": "Day 2 — Peninsula and the hills",
-      "body": "Linh Ung Pagoda on Son Tra, then the Marble Mountains on the road toward Hoi An.",
-      "placeSlug": "da-nang"
+      "body": "Linh Ung on Son Tra, then Thủy Sơn at the Marble Mountains on the road toward Hội An.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-son-tra"
     }
   ],
   "stops": [
@@ -28,44 +30,60 @@
       "minutes": 60,
       "placeSlug": "da-nang",
       "attractionSlug": "cham-museum",
-      "note": "Morning, on the river."
-    },
-    {
-      "name": "Mi Quang",
-      "minutes": 45,
-      "placeSlug": "da-nang",
-      "dishSlug": "mi-quang",
-      "note": "Lunch between the museum and the beach."
+      "note": "Give an hour to the Cham stone on the Han before the beach.",
+      "approach": {
+        "mode": "walk",
+        "note": "The museum is on the Han, a walk from the river side."
+      }
     },
     {
       "name": "My Khe Beach",
-      "minutes": 120,
+      "minutes": "Check on arrival",
       "placeSlug": "da-nang",
       "attractionSlug": "my-khe",
-      "note": "The morning and the swim. An Thuong is the walk inland after dark."
+      "note": "Swim inside the buoy line while rescuers are on duty.",
+      "approach": {
+        "mode": "grab",
+        "note": "From the river side, cross the Han by car or Grab."
+      }
+    },
+    {
+      "name": "Mi Quang",
+      "minutes": "Check on arrival",
+      "placeSlug": "da-nang",
+      "dishSlug": "mi-quang",
+      "note": "Eat mì Quảng at lunch."
     },
     {
       "name": "An Thuong",
-      "minutes": 120,
+      "minutes": "Check on arrival",
       "placeSlug": "da-nang",
       "attractionSlug": "an-thuong",
-      "note": "Day one, after dark. Kalà Kalà is on the sand. East West faces the water."
+      "note": "After dark, walk inland from the beach road into the lanes.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk in from the beach road after the swim."
+      }
     },
     {
       "name": "Linh Ung Pagoda, Son Tra",
-      "minutes": 180,
+      "minutes": "Check on arrival",
       "placeSlug": "da-nang",
       "attractionSlug": "son-tra",
-      "note": "Day two. The ride is part of the visit."
+      "note": "Ride to Linh Ung on Son Tra and walk the terrace.",
+      "approach": {
+        "mode": "grab",
+        "note": "By car or Grab to Bai But, about 10 km northeast of the center."
+      }
     },
     {
       "name": "Marble Mountains",
-      "minutes": 90,
+      "minutes": "Check on arrival",
       "placeSlug": "da-nang",
       "attractionSlug": "marble-mountains",
-      "note": "On the way toward Hoi An. Skip it if Son Tra used the day."
+      "note": "Climb Thủy Sơn, about 15 minutes from the center."
     }
   ],
   "seoTitle": "Two days in Da Nang",
-  "seoDescription": "Two days in Da Nang: My Khe and An Thuong, then Son Tra and the Marble Mountains on the way toward Hoi An."
+  "seoDescription": "Two days in Da Nang: My Khe and An Thuong, then Son Tra and the Marble Mountains on the way toward Hội An."
 }

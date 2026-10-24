@@ -9,51 +9,78 @@
   "budget": "Check on arrival",
   "pace": "Unhurried",
   "photo": "dong-hoi-nhat-le-beach",
-  "summary": "The river, the gate, the short walls, Tam Toa, Mother Suốt, and the beach. No page prints a time on site. The minutes below are not a published duration. Fees and hours are check on arrival.",
+  "summary": "The river, cháo canh at the market, the gate, the short walls, Tam Toa, Mother Suốt, and the beach at sunset.",
   "stops": [
     {
       "name": "Nhat Le riverbank",
-      "minutes": 45,
+      "minutes": "Check on arrival",
       "placeSlug": "dong-hoi",
       "attractionSlug": "nhat-le-river",
-      "note": "The morning walk. No page prints a duration. Check on arrival."
+      "note": "Walk the Nhật Lệ in the morning and look across to Bảo Ninh."
+    },
+    {
+      "name": "Chao canh",
+      "minutes": "Check on arrival",
+      "placeSlug": "dong-hoi",
+      "dishSlug": "chao-canh",
+      "note": "Eat cháo canh at Chợ Đồng Hới on Mẹ Suốt, in the morning or at midday.",
+      "approach": {
+        "mode": "walk",
+        "note": "The market sits on Mẹ Suốt beside the river walk."
+      }
     },
     {
       "name": "Quang Binh Gate",
-      "minutes": 30,
+      "minutes": "Check on arrival",
       "placeSlug": "dong-hoi",
       "attractionSlug": "quang-binh-gate",
-      "note": "The south gate. No page prints a duration. Check on arrival."
+      "note": "Look at Quảng Bình Quan, the south gate, on the walk through the center.",
+      "approach": {
+        "mode": "walk",
+        "note": "The gate is on the morning walk through the center."
+      }
     },
     {
       "name": "Dong Hoi Citadel",
-      "minutes": 30,
+      "minutes": "Check on arrival",
       "placeSlug": "dong-hoi",
       "attractionSlug": "dong-hoi-citadel",
-      "note": "The short walls. No page prints a duration. Check on arrival."
+      "note": "Walk the short remaining walls.",
+      "approach": {
+        "mode": "walk",
+        "note": "The walls are on the same center walk as the gate."
+      }
     },
     {
       "name": "Tam Toa bell tower",
-      "minutes": 20,
+      "minutes": "Check on arrival",
       "placeSlug": "dong-hoi",
       "attractionSlug": "tam-toa",
-      "note": "The ruined tower in the park. No page prints a duration. Check on arrival."
+      "note": "See the ruined tower in the park on the river walk.",
+      "approach": {
+        "mode": "walk",
+        "note": "Tam Toa's park sits on the river walk with the market and the bridges."
+      }
     },
     {
       "name": "Mother Suot",
-      "minutes": 20,
+      "minutes": "Check on arrival",
       "placeSlug": "dong-hoi",
       "attractionSlug": "mother-suot",
-      "note": "The statue by the river. No page prints a duration. Check on arrival."
+      "note": "Stop at the statue beside the river and the market.",
+      "approach": {
+        "mode": "walk",
+        "note": "The statue is on the river walk beside the market."
+      }
     },
     {
       "name": "Nhat Le Beach",
-      "minutes": 60,
+      "minutes": "Check on arrival",
       "placeSlug": "dong-hoi",
       "attractionSlug": "nhat-le-beach",
-      "note": "Sunset is the named hour. No page prints a duration. Check on arrival."
+      "note": "Stay for sunset on the city sand."
     }
   ],
   "seoTitle": "Dong Hoi in a day — river, gate, walls, beach",
-  "seoDescription": "A one-day Dong Hoi walk: the river, Quang Binh Gate, the short walls, Tam Toa, Mother Suot, and Nhat Le. No page prints a time on site. Check on arrival."
+  "seoDescription": "A Dong Hoi day: the Nhật Lệ, cháo canh at the market, Quảng Bình Quan, the short walls, Tam Toa, Mother Suốt, and the beach."
 }
