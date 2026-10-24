@@ -1,9 +1,10 @@
 ---
 import Base from '../layouts/Base.astro';
 import { getPlaces, placePath } from '../lib/content';
+import { titles } from '../lib/page-title';
 const places = getPlaces();
 ---
-<Base title="Search" description="Search Vietnam Guide." path="/search" noindex={true}>
+<Base title={titles.search} description="Search destinations, food, routes, and stories on Vietnam Guide." path="/search" noindex={true}>
   <div class="wrap section">
     <h1>Search</h1>
     <p>Use the search field in the header. It loads the index when the field is focused. Without that script, the places are listed here.</p>

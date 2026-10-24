@@ -1,8 +1,9 @@
 export const site = {
   name: 'Vietnam Guide',
+  alternateNames: ['Vietnam Travel Guide', 'vietnam-travelguide.com'],
   url: 'https://vietnam-travelguide.com',
   description:
-    'An objective travel reference for Vietnam: places, routes, food, seasons, and the practical facts needed to plan a trip.',
+    'Plan a trip to Vietnam with destination pages, food guides, routes between cities, and season notes. Facts first, not a pitch.',
   correctionsEmail: '',
   /** Set a POST endpoint to record rank events. Empty keeps the first load free of network calls. */
   analyticsBeacon: '',

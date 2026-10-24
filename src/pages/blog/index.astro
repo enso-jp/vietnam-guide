@@ -3,6 +3,7 @@ import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import Photo from '../../components/Photo.astro';
 import { getHighlights, getOtherPosts, getPosts, pageDescription } from '../../lib/content';
+import { titles } from '../../lib/page-title';
 import { breadcrumbList, itemList } from '../../lib/schema';
 
 const posts = getPosts();
@@ -13,7 +14,7 @@ const description = pageDescription(
   'Highlights are the posts chosen for the homepage. The rest are the other current posts.',
 );
 ---
-<Base title="Stories" description={description} path="/blog" ogType="website" jsonLd={[itemList('Stories', posts.map((post) => ({ name: post.title, path: `/blog/${post.slug}` }))), breadcrumbList([{ name: 'Stories', path: '/blog' }])]}>
+<Base title={titles.stories} description={description} path="/blog" ogType="website" jsonLd={[itemList('Stories', posts.map((post) => ({ name: post.title, path: `/blog/${post.slug}` }))), breadcrumbList([{ name: 'Stories', path: '/blog' }])]}>
   <div class="wrap section">
     <Crumbs items={[{ name: 'Stories' }]} />
     <h1>Stories</h1>

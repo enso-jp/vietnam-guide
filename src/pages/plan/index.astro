@@ -6,6 +6,7 @@ import Crumbs from '../../components/Crumbs.astro';
 import Photo from '../../components/Photo.astro';
 import { getGuides, getHighlights, getItineraries } from '../../lib/content';
 import { photoPath } from '../../lib/photos';
+import { titles } from '../../lib/page-title';
 import { breadcrumbList } from '../../lib/schema';
 
 const guides = getGuides();
@@ -56,7 +57,7 @@ const news = getHighlights().filter((story) => {
   return Boolean(license && photoPath(story.photo));
 });
 ---
-<Base title="Plan a trip" description="When to go, visas, where to stay, how to get around, itineraries, and living in Vietnam." path="/plan" jsonLd={breadcrumbList([{ name: 'Plan a trip', path: '/plan' }])}>
+<Base title={titles.plan} description="When to go, visas, where to stay, how to get around, itineraries, and living in Vietnam." path="/plan" jsonLd={breadcrumbList([{ name: 'Plan a trip', path: '/plan' }])}>
   <div class="plan-page">
     <div class="wrap section">
       <nav class="tabs" aria-label="Plan a trip">

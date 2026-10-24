@@ -9,6 +9,7 @@ import Photo from '../../components/Photo.astro';
 import SectionNav from '../../components/SectionNav.astro';
 import { getDishes, getFoodGuides, getPlace, pageDescription, placePath, placesForCityFood } from '../../lib/content';
 import { photoPath } from '../../lib/photos';
+import { titledInPlace } from '../../lib/page-title';
 import { article, breadcrumbList } from '../../lib/schema';
 import type { Dish, FoodGuideRole, FoodSection, FoodSpot } from '../../lib/types';
 
@@ -25,7 +26,12 @@ export function getStaticPaths() {
 }
 const { kind, dish, guide, place } = Astro.props;
 const city = kind === 'guide' ? getPlace(guide.placeSlug) : place;
-const title = kind === 'dish' ? dish.seoTitle : kind === 'guide' ? guide.seoTitle : `${place.name} food`;
+const title =
+  kind === 'dish'
+    ? titledInPlace(dish.seoTitle, getPlace(dish.placeSlugs[0] || '')?.name)
+    : kind === 'guide'
+      ? guide.seoTitle
+      : `${place.name} food guide`;
 const description = kind === 'dish'
   ? pageDescription(dish.seoDescription, dish.summary, dish.origin)
   : kind === 'guide'

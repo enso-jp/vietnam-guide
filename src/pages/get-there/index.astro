@@ -3,13 +3,14 @@ import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import PlanTabs from '../../components/PlanTabs.astro';
 import { cardLine, getRoutes } from '../../lib/content';
+import { titles } from '../../lib/page-title';
 import { breadcrumbList, itemList } from '../../lib/schema';
 
 const routes = getRoutes();
 const description = 'Ways to go between the places already on this site. Each route lists the modes and the time.';
 const items = routes.map((route) => ({ name: route.name, path: `/get-there/${route.slug}` }));
 ---
-<Base title="Routes" description={description} path="/get-there" ogType="website" jsonLd={[itemList('Routes', items), breadcrumbList([{ name: 'Plan a trip', path: '/plan' }, { name: 'Routes', path: '/get-there' }])]}>
+<Base title={titles.routes} description={description} path="/get-there" ogType="website" jsonLd={[itemList('Routes', items), breadcrumbList([{ name: 'Plan a trip', path: '/plan' }, { name: 'Routes', path: '/get-there' }])]}>
   <div class="wrap section">
     <Crumbs items={[{ name: 'Plan a trip', href: '/plan' }, { name: 'Routes' }]} />
     <h1>Routes</h1>

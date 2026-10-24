@@ -2,11 +2,12 @@
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import { getRiceSites, getPlace, placePath } from '../../lib/content';
+import { titles } from '../../lib/page-title';
 import { article, breadcrumbList } from '../../lib/schema';
 const sites = getRiceSites();
 const description = 'Typical water, green, and gold windows for Vietnam’s rice terraces. Not a live report.';
 ---
-<Base title="Rice terrace calendar" description={description} path="/seasons/rice-terraces" jsonLd={[article('Rice terrace calendar', description, '/seasons/rice-terraces'), breadcrumbList([{ name: 'Seasons', path: '/seasons' }, { name: 'Rice terraces', path: '/seasons/rice-terraces' }])]}>
+<Base title={titles.rice} description={description} path="/seasons/rice-terraces" jsonLd={[article('Rice terrace calendar', description, '/seasons/rice-terraces'), breadcrumbList([{ name: 'Seasons', path: '/seasons' }, { name: 'Rice terraces', path: '/seasons/rice-terraces' }])]}>
   <article class="wrap section">
     <Crumbs items={[{ name: 'Seasons', href: '/seasons' }, { name: 'Rice terraces' }]} />
     <h1>Rice terraces</h1>

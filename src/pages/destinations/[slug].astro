@@ -24,7 +24,7 @@ const crumbSchema = [
   { name: corridor.name, path },
 ];
 ---
-<Base title={corridor.seoTitle} description={description} path={path} ogImage={image} ogType="website" jsonLd={[itemList(`${corridor.name} destinations`, places.map((place) => ({ name: place.name, path: placePath(place) }))), itemList(`${corridor.name} attractions`, sights.map((item) => ({ name: item.name, path: attractionPath(item) }))), breadcrumbList(crumbSchema)]}>
+<Base title={corridor.seoTitle.toLowerCase().includes('travel guide') ? corridor.seoTitle : `${corridor.name} travel guide`} description={description} path={path} ogImage={image} ogType="website" jsonLd={[itemList(`${corridor.name} destinations`, places.map((place) => ({ name: place.name, path: placePath(place) }))), itemList(`${corridor.name} attractions`, sights.map((item) => ({ name: item.name, path: attractionPath(item) }))), breadcrumbList(crumbSchema)]}>
   <article class="wrap section">
     <header class="hero">
       <div>

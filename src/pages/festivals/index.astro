@@ -2,11 +2,12 @@
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import { getFestivals } from '../../lib/content';
+import { titles } from '../../lib/page-title';
 import { breadcrumbList, itemList } from '../../lib/schema';
 const festivals = getFestivals();
 const description = 'Festival notes already recorded on Vietnam Guide. Dates move. Check on arrival.';
 ---
-<Base title="Festivals" description={description} path="/festivals" ogType="website" jsonLd={[itemList('Festivals', festivals.map((festival) => ({ name: festival.name, path: `/festivals/${festival.slug}` }))), breadcrumbList([{ name: 'Festivals', path: '/festivals' }])]}>
+<Base title={titles.festivals} description={description} path="/festivals" ogType="website" jsonLd={[itemList('Festivals', festivals.map((festival) => ({ name: festival.name, path: `/festivals/${festival.slug}` }))), breadcrumbList([{ name: 'Festivals', path: '/festivals' }])]}>
   <div class="wrap section">
     <Crumbs items={[{ name: 'Festivals' }]} />
     <h1>Festivals</h1>

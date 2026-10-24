@@ -1,8 +1,9 @@
 ---
 import Base from '../../layouts/Base.astro';
 import SectionNav from '../../components/SectionNav.astro';
+import { titles } from '../../lib/page-title';
 ---
-<Base title="Ratings" description="How editorial dots, interest tags, and visit rank are calculated on Vietnam Guide." path="/about/ratings">
+<Base title={titles.ratings} description="How editorial dots, interest tags, and visit rank are calculated on Vietnam Guide." path="/about/ratings">
   <article class="wrap section">
     <h1>Ratings</h1>
     <SectionNav

@@ -9,6 +9,8 @@ import '@fontsource/source-serif-4/vietnamese-600.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { site } from '../config/site';
+import { documentTitle } from '../lib/page-title';
+import { organization, website } from '../lib/schema';
 import { klookWidget, tripFooterBanner } from '../lib/partners';
 
 interface Props {
@@ -23,28 +25,53 @@ interface Props {
 }
 const { title, description, path, jsonLd, noindex, placeId, ogImage, ogType = 'article' } = Astro.props;
 const canonical = new URL(path, site.url).toString();
-const fullTitle = title.includes('Vietnam Guide') ? title : `${title} | Vietnam Guide`;
-const schemas = (jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : []).filter(Boolean);
-const image = ogImage ? new URL(ogImage, site.url).toString() : '';
+const fullTitle = documentTitle(title);
+const image = new URL(ogImage || '/icon-512.png', site.url).toString();
+const imageAlt = ogImage ? fullTitle : site.name;
+const robots = noindex ? 'noindex, nofollow' : 'index, follow, max-image-preview:large';
+const pageSchemas = (jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : []).filter(Boolean);
+const schemas = [organization(), website(), ...pageSchemas].filter((schema, index, list) => {
+  const id = typeof schema['@id'] === 'string' ? schema['@id'] : JSON.stringify(schema);
+  return list.findIndex((item) => (typeof item['@id'] === 'string' ? item['@id'] : JSON.stringify(item)) === id) === index;
+});
 ---
 <html lang="en" data-beacon={site.analyticsBeacon}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <meta name="color-scheme" content="light" />
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
-    <link rel="canonical" href={canonical} />
+    <meta name="author" content={site.name} />
+    <meta name="application-name" content={site.name} />
+    <meta name="apple-mobile-web-app-title" content={site.name} />
     <meta name="theme-color" content="#ffffff" />
-    {noindex && <meta name="robots" content="noindex" />}
+    <meta name="robots" content={robots} />
+    <link rel="canonical" href={canonical} />
+    <link rel="alternate" hreflang="en" href={canonical} />
+    <link rel="alternate" hreflang="x-default" href={canonical} />
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
     <meta property="og:type" content={ogType} />
     <meta property="og:site_name" content={site.name} />
-    {image && <meta property="og:image" content={image} />}
-    <meta name="twitter:card" content={image ? 'summary_large_image' : 'summary'} />
-    {image && <meta name="twitter:image" content={image} />}
-    <link rel="icon" href="/favicon.svg" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:image" content={image} />
+    <meta property="og:image:alt" content={imageAlt} />
+    {!ogImage && <meta property="og:image:width" content="512" />}
+    {!ogImage && <meta property="og:image:height" content="512" />}
+    <meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={image} />
+    <meta name="twitter:image:alt" content={imageAlt} />
+    <link rel="icon" href="/favicon.ico" sizes="48x48" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="/favicon-48x48.png" type="image/png" sizes="48x48" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
     {schemas.map((schema) => (
       <script type="application/ld+json" set:html={JSON.stringify(schema)} />
     ))}

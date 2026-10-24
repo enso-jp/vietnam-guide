@@ -3,10 +3,11 @@ import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import SectionNav from '../../components/SectionNav.astro';
 import VietnamMap from '../../components/VietnamMap.astro';
+import { titles } from '../../lib/page-title';
 import { article, breadcrumbList } from '../../lib/schema';
 const description = 'Typical seasonal windows for rice, flowers, and central-coast floods. Live field reports will override these dates.';
 ---
-<Base title="Season desk" description={description} path="/seasons" ogType="website" jsonLd={[article('Season desk', description, '/seasons'), breadcrumbList([{ name: 'Plan a trip', path: '/plan' }, { name: 'Seasons', path: '/seasons' }])]}>
+<Base title={titles.seasons} description={description} path="/seasons" ogType="website" jsonLd={[article('Season desk', description, '/seasons'), breadcrumbList([{ name: 'Plan a trip', path: '/plan' }, { name: 'Seasons', path: '/seasons' }])]}>
   <div class="wrap section">
     <Crumbs items={[{ name: 'Plan a trip', href: '/plan' }, { name: 'Seasons' }]} />
     <h1>Season desk</h1>

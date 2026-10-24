@@ -4,6 +4,7 @@ import Icon from '../components/Icon.astro';
 import Photo from '../components/Photo.astro';
 import VietnamMap from '../components/VietnamMap.astro';
 import { interestHref, interestLabels, site } from '../config/site';
+import { titles } from '../lib/page-title';
 import interestPhotos from '../content/interest-photos.json';
 import { attractionsForInterest, cardLine, corridorsNorthToSouth, getHighlights, getOtherPosts, getPlaces, placePath, placesForInterest, placesInCorridor } from '../lib/content';
 import TripSearch from '../components/TripSearch.astro';
@@ -61,20 +62,8 @@ const tools = [
   { href: '/plan/street-manners', title: 'Etiquette', text: 'How to avoid cultural mistakes', icon: 'flag' },
   { href: '/seasons', title: 'Seasons', text: 'Rice, floods, and Tet', icon: 'event' },
 ];
-const jsonLd = {
-  '@context': 'https://schema.org',
-  '@type': 'WebSite',
-  name: site.name,
-  url: site.url,
-  description: site.description,
-  potentialAction: {
-    '@type': 'SearchAction',
-    target: `${site.url}/search?q={query}`,
-    'query-input': 'required name=query',
-  },
-};
 ---
-<Base title="Vietnam Guide" description={site.description} path="/" jsonLd={jsonLd} ogType="website" ogImage={photoPath(lead?.photo || 'hanoi')}>
+<Base title={titles.home} description={site.description} path="/" ogType="website" ogImage={photoPath(lead?.photo || 'hanoi')}>
   <div class="home">
     <div class="home-top">
       {lead && (

@@ -5,6 +5,7 @@ import Photo from '../../components/Photo.astro';
 import { interestHref, interestLabels } from '../../config/site';
 import interestPhotos from '../../content/interest-photos.json';
 import { attractionsForInterest, placesForInterest } from '../../lib/content';
+import { titles } from '../../lib/page-title';
 import { breadcrumbList, itemList } from '../../lib/schema';
 
 const groups: { title: string; keys: string[] }[] = [
@@ -30,7 +31,7 @@ const shown = groups
   .filter((group) => group.items.length > 0);
 const description = 'Browse Vietnam by food, beaches, old towns, pagodas, caves, markets, and the other reasons to plan a stop.';
 ---
-<Base title="Interests" description={description} path="/interests" ogType="website" jsonLd={[itemList('Interests', shown.flatMap((group) => group.items.map((item) => ({ name: item.label, path: item.href })))), breadcrumbList([{ name: 'Interests', path: '/interests' }])]}>
+<Base title={titles.interests} description={description} path="/interests" ogType="website" jsonLd={[itemList('Interests', shown.flatMap((group) => group.items.map((item) => ({ name: item.label, path: item.href })))), breadcrumbList([{ name: 'Interests', path: '/interests' }])]}>
   <div class="wrap section">
     <Crumbs items={[{ name: 'Interests' }]} />
     <p class="eyebrow">Explore your interests</p>

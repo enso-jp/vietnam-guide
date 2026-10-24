@@ -6,6 +6,7 @@ import VietnamMap from '../../components/VietnamMap.astro';
 import { cardLine, corridorsNorthToSouth, getPlaces, pageDescription, placePath, placesInCorridor } from '../../lib/content';
 import { destinationLines } from '../../lib/destination-lines';
 import { photoPath } from '../../lib/photos';
+import { titles } from '../../lib/page-title';
 import { breadcrumbList, itemList } from '../../lib/schema';
 import { compareTraffic } from '../../lib/traffic-rank';
 import type { Place } from '../../lib/types';
@@ -37,7 +38,7 @@ const description = pageDescription(
   'Province borders changed in 2025. The place names did not.',
 );
 ---
-<Base title="Destinations" description={description} path="/destinations" ogType="website" jsonLd={[itemList('Destinations', places.map((place) => ({ name: place.name, path: placePath(place) }))), breadcrumbList([{ name: 'Destinations', path: '/destinations' }])]}>
+<Base title={titles.destinations} description={description} path="/destinations" ogType="website" jsonLd={[itemList('Destinations', places.map((place) => ({ name: place.name, path: placePath(place) }))), breadcrumbList([{ name: 'Destinations', path: '/destinations' }])]}>
   <div class="wrap section dest-page">
     <Crumbs items={[{ name: 'Destinations' }]} />
     <header class="dest-hero">
