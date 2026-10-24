@@ -1,0 +1,56 @@
+{
+  "slug": "mang-lang",
+  "placeSlug": "tuy-hoa",
+  "name": "Mang Lang church",
+  "nameVi": "Nhà thờ Mằng Lăng",
+  "kicker": "Church on the Kỳ Lộ",
+  "summary": "See the church on the Kỳ Lộ that keeps the first Vietnamese book in chữ Quốc ngữ. It stands in An Thạch, Tuy An, and it was built in 1892. Phép giảng tám ngày was made in Rome in 1651. Hours and a ticket are Check on arrival. The north road to the stone plates passes the church.",
+  "dots": 3,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "On the Kỳ Lộ, in An Thạch, on the north road.",
+  "district": "An Thạch",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The two towers and the church front",
+  "notice": {
+    "title": "Check the hour for the book",
+    "body": "Phép giảng tám ngày is kept here. The hour for the church and the hour for the book are Check on arrival."
+  },
+  "body": [
+    "Walk up to the church on the Kỳ Lộ, in An Thạch, Tuy An. Two towers face the yard. It was built in 1892 by Father Joseph de la Cassagne, called Cố Xuân, for Tu hội Thừa sai Paris. The lines are Gothic. It is one of the oldest churches in the country.",
+    "The grounds keep Phép giảng tám ngày, compiled by Alexandre de Rhodes and made in Rome in 1651. It is the first Vietnamese book in chữ Quốc ngữ. In 1641 he baptized more than 90 people here, including Anrê Phú Yên, and a memorial to Anrê stands in the grounds.",
+    "Hours and a ticket are Check on arrival. The church is a stop on the north road. The stone plates lie about 40 km north of town by Tuy An Bắc and this church. The kilometres from town to the church door are Check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "tuy-hoa-mang-lang-2",
+      "caption": "The side tower and the steps into the yard",
+      "alt": "Side view of Mang Lang church, a weathered tower above the steps"
+    }
+  ],
+  "gettingThere": [
+    "The church is on the Kỳ Lộ, in An Thạch, Tuy An. The road to the stone plates runs about 40 km north of Tuy Hoa by Tuy An Bắc and this church. That figure is the road to the plates. The kilometres to the church door, and the minutes, are Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From Tuy Hoa",
+      "body": "North toward the stone plates. The plates are about 40 km by Tuy An Bắc and this church. The kilometres to the church door are Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "admissionNote": "A ticket is Check on arrival. A child price is Check on arrival.",
+  "links": [
+    {
+      "label": "Nhà thờ Mằng Lăng",
+      "url": "https://vietnamtourism.vn/index.php/news/items/26618",
+      "note": "National tourism news"
+    },
+    {
+      "label": "Phu Yen handbook",
+      "url": "https://phuyentourism.gov.vn/tin-tuc/tin-tuc-du-lich/cam-nang-du-lich-phu-yen.html",
+      "note": "Provincial tourism handbook, 6 Oct 2024"
+    }
+  ],
+  "interests": ["photography"]
+}

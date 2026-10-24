@@ -1,0 +1,59 @@
+{
+  "slug": "tuyen-lam",
+  "placeSlug": "da-lat",
+  "name": "Tuyen Lam Lake",
+  "nameVi": "Hồ Tuyền Lâm",
+  "kicker": "Pine reservoir south of town",
+  "summary": "Boat or walk the pine shore of Tuyen Lam, the reservoir south of Da Lat. It sits south of the centre, under the monastery hill, and it is a different lake from the one in town. The shore stop is about an hour. A boat is a separate fare, so check it on arrival. Skip it when the view from Truc Lam is enough and you do not want the water.",
+  "dots": 4,
+  "timeNeeded": "About 60 minutes",
+  "fee": "Free to view; boats Check on arrival",
+  "getThere": "Highway 20 up Prenn Pass, then left",
+  "district": "South of town",
+  "verified": "23 Oct 2026",
+  "heroCaption": "Pines along the shore of Tuyen Lam Lake",
+  "notice": {
+    "title": "This lake is not Truc Lam",
+    "body": "Truc Lam is the monastery on the hill. Tuyen Lam is the water below it. A boat on the lake is a separate fare."
+  },
+  "body": [
+    "Tuyen Lam is the reservoir south of town, with pines along the water. Walk the shore, or take a boat out. It is not the lake in the centre, and it is not the monastery: Truc Lam sits on the hill above this water.",
+    "Follow Highway 20 for about 5 km up Prenn Pass, then turn left for about 1 km. The shore visit is about an hour. A boat is extra, so check the fare on arrival. Come on a clear morning, when the hills read across the water."
+  ],
+  "figures": [
+    {
+      "id": "da-lat-tuyen-lam-2",
+      "caption": "Boats at the dock, with the hills behind",
+      "alt": "Covered boats lined up on Tuyen Lam Lake, hills across the water"
+    }
+  ],
+  "gettingThere": [
+    "The lake is south of the centre. From Xuan Huong Lake, take a taxi or a motorbike if you hold the right licence. The road is Highway 20, about 5 km up Prenn Pass, then left about 1 km."
+  ],
+  "legs": [
+    {
+      "heading": "From Xuan Huong Lake",
+      "body": "Taxi or motorbike along Highway 20, about 5 km up Prenn Pass, then left about 1 km."
+    },
+    {
+      "heading": "From Truc Lam",
+      "body": "The monastery looks down on this lake. Come down to the shore after the halls. A boat is a separate fare."
+    }
+  ],
+  "hours": "07:00–17:00, or open through the day",
+  "closed": "Check on arrival",
+  "admissionNote": "The shore is free to walk. Boat and kayak hire is separate. Check the fare on arrival.",
+  "links": [
+    {
+      "label": "Hồ Tuyền Lâm",
+      "url": "https://visitlamdong.vn/vi/hotuyenlam",
+      "note": "Provincial tourism page, accessed 23 Oct 2026"
+    },
+    {
+      "label": "Things to do in Da Lat",
+      "url": "https://www.vietnam.travel/things-to-do/8-things-to-do-in-dalat",
+      "note": "Boating on Tuyen Lam"
+    }
+  ],
+  "interests": ["photography"]
+}

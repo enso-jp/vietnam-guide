@@ -1,0 +1,56 @@
+{
+  "slug": "quan-chuong",
+  "placeSlug": "old-quarter",
+  "name": "O Quan Chuong",
+  "nameVi": "Ô Quan Chưởng",
+  "kicker": "Brick city gate at the east edge of the lanes",
+  "summary": "Walk through O Quan Chuong, the brick gate and watchtower at the east edge of the lanes. It is the city gate still standing from the old wall, ranked a national relic in 1994 and dated to 1749. You pass under the arch where Hang Chieu, Thanh Ha, and Dao Duy Tu meet. A ticket and the hours are Check on arrival.",
+  "dots": 3,
+  "timeNeeded": "Check on arrival",
+  "fee": "Check on arrival",
+  "getThere": "Walk to the Hang Chieu junction",
+  "district": "Hang Chieu",
+  "verified": "23 Oct 2026",
+  "heroCaption": "O Quan Chuong from the street, the arch and the watchtower",
+  "body": [
+    "O Quan Chuong is the brick city gate still standing at the east edge of the lanes, where Hang Chieu, Thanh Ha, and Dao Duy Tu meet. You walk through the arch under the watchtower. It was ranked a national relic in 1994, and it dates to 1749.",
+    "Its literary name is Dong Ha Mon, and also Thanh Ha Mon. The street that runs through the arch is named O Quan Chuong. A ticket and a set of hours are Check on arrival. Keep walking the lanes after the arch."
+  ],
+  "figures": [
+    {
+      "id": "old-quarter-quan-chuong-2",
+      "caption": "The west face of O Quan Chuong, with the side arches",
+      "alt": "The west face of O Quan Chuong gate, brick walls and a watchtower over the arch"
+    }
+  ],
+  "gettingThere": [
+    "The gate stands where Hang Chieu, Thanh Ha, and Dao Duy Tu meet, on the short street named O Quan Chuong. Walk east from Hoan Kiem Lake through the lanes."
+  ],
+  "legs": [
+    {
+      "heading": "From Hoan Kiem Lake",
+      "body": "On foot, east through the lanes to the gate."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "admissionNote": "Check on arrival.",
+  "links": [
+    {
+      "label": "National relic, 1994",
+      "url": "https://toquoc.vn/my-tai-tro-745-nghin-usd-bao-ton-di-tich-kien-truc-o-quan-chuong-ha-noi-99210535.htm",
+      "note": "The gate still standing, and the name Thanh Ha Mon"
+    },
+    {
+      "label": "Built in 1749",
+      "url": "https://vnn.vietnamnet.vn/vanhoa/201011/o-Quan-Chuong-moi-qua-gia-qua-946007/",
+      "note": "The same 1994 ranking"
+    },
+    {
+      "label": "The junction and the other literary name",
+      "url": "https://36pho.com/o-quan-chuong-dong-ha-mon-1181.html",
+      "note": "Dong Ha Mon, and the streets that meet here"
+    }
+  ],
+  "interests": ["oldTowns"]
+}

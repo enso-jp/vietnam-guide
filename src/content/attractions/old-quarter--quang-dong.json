@@ -1,0 +1,45 @@
+{
+  "slug": "quang-dong",
+  "placeSlug": "old-quarter",
+  "name": "Quang Dong Assembly Hall",
+  "nameVi": "Hội quán Quảng Đông",
+  "kicker": "Assembly hall at 22 Hang Buom",
+  "summary": "Walk into the Quang Dong assembly hall at 22 Hang Buom, the tiled gatehouse on the street. The ticket is 20,000 VND a visit. Day hours are 08:00–12:00 and 13:30–17:30, and Friday to Sunday the hall opens again at 19:00, closing at 21:00 or 21:30. Children under 16 go free, and 23 November is free. Come for the hall, not for a shop on the pavement.",
+  "dots": 3,
+  "timeNeeded": "Check on arrival",
+  "fee": "20,000 VND",
+  "getThere": "Walk to 22 Hang Buom",
+  "district": "Hang Buom",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The tiled gatehouse of Quang Dong Assembly Hall on Hang Buom",
+  "gettingThere": [
+    "The hall is at 22 Hang Buom, in the lanes north of Hoan Kiem Lake. Walk north from the lake to Hang Buom."
+  ],
+  "legs": [
+    {
+      "heading": "From Hoan Kiem Lake",
+      "body": "On foot, north into the lanes to 22 Hang Buom."
+    }
+  ],
+  "hours": "08:00–12:00 and 13:30–17:30. Friday–Sunday evening from 19:00, closing at 21:00 or 21:30.",
+  "closed": "Check on arrival. Free on 23 November.",
+  "admissionNote": "20,000 VND a visit. The charge starts on 1 January 2025, on 2 January 2025, and on 19 January 2025. Children under 16 are free. Severe disability is free, and heavy disability is also free. A 50 percent reduction covers older visitors and students from 16, and also disabled visitors and visitors on a cultural concession. Free on 23 November.",
+  "links": [
+    {
+      "label": "Fee from 1 January 2025",
+      "url": "https://xaydungchinhsach.chinhphu.vn/muc-thu-phi-2-di-tich-pho-co-ha-noi-va-bao-tang-ha-noi-tu-1-1-2025-119241211120724374.htm",
+      "note": "20,000 VND at 22 Hang Buom"
+    },
+    {
+      "label": "Collection from 2 January 2025",
+      "url": "https://kinhtedothi.vn/bat-dau-thu-phi-tham-quan-2-di-tich-tai-quan-hoan-kiem.494257.html",
+      "note": "Same price at the assembly hall"
+    },
+    {
+      "label": "Free on 23 November",
+      "url": "https://thanglong.chinhphu.vn/di-tich-so-22-hang-buom-mo-cua-mien-phi-ngay-23-11-103251120112223238.htm",
+      "note": "That day’s evening close is 21:00"
+    }
+  ],
+  "interests": ["oldTowns"]
+}

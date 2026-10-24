@@ -35,7 +35,7 @@ Checked: 21 Oct 2026. These are the owner’s Da Nang groups. Dining and F&B is 
 - Icon: drink
 - Links to attraction, dish, or place slug: `an-thuong`
 - Food guide card: no
-- Photo must show: the lanes. The only frame is one doorway on An Thuong 4. The page stays unfinished until a second lane frame exists.
+- Photo must show: the lanes. The published page has the An Thuong 4 doorway and a second frame of Trần Bạch Đằng inside the quarter (23 Oct 2026).
 - Sources: S23, S38
 
 ### Culture

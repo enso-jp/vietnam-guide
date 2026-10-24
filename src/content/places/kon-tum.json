@@ -35,7 +35,7 @@
   "seoTitle": "Kon Tum travel guide — timber church and Ba Na villages",
   "seoDescription": "A 1913 timber cathedral on Nguyen Hue, Kon Klor’s 292-metre bridge over the Đăk Bla, and Ba Na villages, about an hour by road from Pleiku airport.",
   "intro": [
-    "Kon Tum starts at breakfast: phở khô in two bowls, dry noodles in one and hot broth in the other, at the shops around the market from about 6:00 to 10:00. Then walk to Nguyen Hue. The wooden cathedral stands in Thống Nhất ward, dark cà chít timber raised between 1913 and 1918, Roman arches under a Ba Na roofline, stained glass inside. Entry is free and an hour covers it. On Sunday, Mass is at 6:00, 8:00, and 17:00, so come between services for a quiet nave.",
+    "The wooden cathedral stands in Thống Nhất ward, dark cà chít timber raised between 1913 and 1918, Roman arches under a Ba Na roofline, stained glass inside. Entry is free and an hour covers it. On Sunday, Mass is at 6:00, 8:00, and 17:00, so come between services for a quiet nave. Breakfast is phở khô in two bowls, dry noodles in one and hot broth in the other, at the shops around the market from about 6:00 to 10:00, before you walk to Nguyen Hue.",
     "Give the afternoon to the river. Kon Klor’s cable bridge opened on 1 May 1994 and runs 292 metres over the wide Đăk Bla, and you can walk it for free. The steep-roofed nhà rông beside it is the large Ba Na communal hall, rebuilt after a fire in 2010, about 3 km from the centre. Across the bridge, about 5 km out, Kon K’Tu is a Ba Na village of stilt houses. Entry is free and the visit takes two to three hours. Come early or late for the light, stay off the deck in high wind or heavy rain, and step into a home only when you are invited.",
     "Keep a morning for history. The French-era prison sits in the centre, about an hour and a half of cells and displays, and its subject is colonial imprisonment rather than a heritage stroll. The provincial museum holds the gong collection tied to UNESCO’s listing of the Central Highlands gong space, the background to what you hear in the villages. Lunch is gỏi lá on Trần Cao Vân, a table of forest and garden leaves you roll around boiled pork and shrimp with a fermented rice and dried-shrimp sauce. In the villages it is cơm lam, sticky rice grilled in bamboo, with grilled chicken. Evenings are coffee in cafés that look over the Đăk Bla, not a bar quarter.",
     "Stay if the church, the bridge, and the villages are the trip. Go to Da Lat if you wanted a cooler hill station. Măng Đen is the side trip, about 54 km northeast on National Highway 24, a pine plateau of lakes and waterfalls. Chu Mom Ray is the wilder one, a rainforest national park on the border. Fly into Pleiku, about an hour away by road, and treat it as the gateway rather than the night."
@@ -104,6 +104,19 @@
   ],
   "interestGroups": [
     {
+      "title": "Dining and F&B",
+      "summary": "Two-bowl phở khô at the market, gỏi lá at lunch, cơm lam in the villages.",
+      "cards": [
+        {
+          "title": "Dining and F&B",
+          "summary": "Dry noodles and broth from about 6:00 to 10:00, then the leaf platter.",
+          "icon": "food",
+          "to": "food",
+          "photo": "kon-tum--pho-kho"
+        }
+      ]
+    },
+    {
       "title": "Timber cathedral",
       "summary": "The wooden church on Nguyen Hue in the morning, then across the Đăk Bla to Kon Klor and Kon K’Tu.",
       "blocks": [
@@ -171,6 +184,19 @@
           "photo": "kon-tum-kon-tum-prison",
           "icon": "museum",
           "block": "prison"
+        }
+      ]
+    },
+    {
+      "title": "Shopping",
+      "summary": "Chợ Kon Tum, the morning market.",
+      "cards": [
+        {
+          "title": "Shopping",
+          "summary": "The market for two-bowl phở khô, from about 6:00 to 10:00.",
+          "icon": "view",
+          "placeSlug": "kon-tum",
+          "photo": "kon-tum"
         }
       ]
     }

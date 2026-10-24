@@ -23,6 +23,7 @@ Checked: 21 Oct 2026. These are left out of the public pages on purpose.
 - No Hoi An coffee street. The shared coffee page stays unchanged.
 - No 2026 bar pin. Do not invent one.
 - A shoreline altar in the Commons file Temple at An Bang. No official page names it, so it is not a sight.
+- 23 Oct 2026 attraction check. No new public sight. Cửa Đại, the silk village at 28 Nguyễn Tất Thành, Chùa Bà, hội quán Quảng Triệu, Tụy Tiên đường Minh Hương, and đình Hội An stay off the public list. The reasons are in attractions/unpublished.md. Door hours and fees for those halls were not opened.
 - Tân Thành stays a food-street note. The 23 Oct food pass names the market and still has no clock.
 - 23 Oct 2026 food clocks. No publisher printed an open or a close for the new dishes. Public line: Check on arrival.
 - Single-source stall prices on the 7 Jun 2023 top-10 note and the 2,000 VND bánh bèo line on 4 Sep 2024. No second source. Not copied to a page.

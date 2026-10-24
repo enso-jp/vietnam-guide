@@ -247,3 +247,39 @@ Accessed 21 Oct 2026 unless noted.
 - Publisher: Vietnamese Wikipedia, Đà Lạt
 - Accessed: 23 Oct 2026
 - Supports: Rượu vang, trà atisô, and mứt trái cây named as long-known Da Lat products. Uncited market-tip prices on the Chợ Đà Lạt article are not used.
+
+### S42
+- URL: https://visitlamdong.vn/vi/hotuyenlam
+- Publisher: Visit Lâm Đồng, Tuyen Lam Lake
+- Accessed: 23 Oct 2026
+- Supports: Price field “Đang cập nhật”. On-site time 60 minutes. Open 07:00–17:00. Highway 20, about 5 km up Prenn Pass, then left about 1 km. A boat after Truc Lam is named, with no fare. Detail in research/da-lat/attractions/tuyen-lam.md.
+
+### S43
+- URL: https://travel.com.vn/tin-tuc-du-lich/ho-tuyen-lam-da-lat-v18574.aspx
+- Publisher: Vietravel
+- Accessed: 23 Oct 2026
+- Supports: No single lake gate. Shore viewing free. Boat and kayak priced apart. Service prices stay off the public page.
+
+### S44
+- URL: https://travelbui.com/ho-tuyen-lam/
+- Publisher: Travel Bui
+- Accessed: 23 Oct 2026
+- Supports: Shore free. Open through the day. About 7 km from the centre. The 16–20 minute claim is one secondary duration and is not used. Boat and kayak prices disagree with other desks and are Check on arrival.
+
+### S45
+- URL: https://visitlamdong.vn/vi/vuonhoathanhpho
+- Publisher: Visit Lâm Đồng, City Flower Garden
+- Accessed: 23 Oct 2026
+- Supports: 30,000 VND. Open 07:00–18:00. 90 minutes. Address Trần Quốc Toản, northeast of Xuan Huong Lake. 11 hectares. Hydrangea, roses, mimosa, orchids. Replaces the older S20 fee and hour for the public page. The 100,000 VND figure is kept beside it.
+
+### S46
+- URL: https://hoadalattravel.vn/dia-diem-du-lich/vuon-hoa-thanh-pho/
+- Publisher: Hoa Dalat Travel
+- Accessed: 23 Oct 2026
+- Supports: 2 Trần Nhân Tông. Adult 100,000 VND. Child 50,000 VND. Hours 06:30–18:00. 60–90 minutes. Calls Trần Quốc Toản an older address.
+
+### S47
+- URL: https://travel.com.vn/tin-tuc-du-lich/vuon-hoa-thanh-pho-da-lat-v18571.aspx
+- Publisher: Vietravel
+- Accessed: 23 Oct 2026
+- Supports: 2 Trần Nhân Tông. Adult about 100,000 VND. Child about 50,000 VND. Hours 06:30–18:00. About 1.5–2 hours. About 15 hectares, which disagrees with the 11 hectares on S45, so neither size is on the public page.

@@ -83,7 +83,7 @@ Province wording is in `getting-there.md`. The search slug stays `tuy-hoa`. Gàn
 - Suggested slug: nghinh-phong
 - Suggested dot: 3 — the evening pin on the sand road, not a sight by itself
 - Photo must show: The twin stone towers, the beach road, and the sea in one frame, subject through the center.
-- Unpublished: no licensed photo
+- Unpublished: no licensed photo of the twin towers (23 Oct 2026). The Commons frame is the street seen from the tower. See `attractions/nghinh-phong.md`.
 - Sources: S14
 
 ### Ganh Da Dia
@@ -100,7 +100,7 @@ Province wording is in `getting-there.md`. The search slug stays `tuy-hoa`. Gàn
 - Suggested slug: ganh-da-dia
 - Suggested dot: 5 — the picture people cross this coast for, a half day from town
 - Photo must show: The black columns and the sea in one frame, subject through the center. A crop of dry rock with no water fails.
-- Unpublished: no licensed photo
+- Photos filed 23 Oct 2026: two Commons frames of the columns and the sea. See `attractions/ganh-da-dia.md`.
 - Sources: S4, S5, S6
 
 ### Ganh Den
@@ -117,7 +117,7 @@ Province wording is in `getting-there.md`. The search slug stays `tuy-hoa`. Gàn
 - Suggested slug: ganh-den
 - Suggested dot: 3 — a stop on the stone-plate morning, not its own day
 - Photo must show: The red-and-white tower, the rock, and the bay in one frame, subject through the center.
-- Unpublished: no licensed photo
+- Unpublished: no licensed photo of this light (23 Oct 2026). See `attractions/ganh-den.md`.
 - Sources: S14
 
 ### Bai Mon and Dai Lanh
@@ -270,7 +270,7 @@ Province wording is in `getting-there.md`. The search slug stays `tuy-hoa`. Gàn
 - Suggested slug: mang-lang
 - Suggested dot: 3 — a stop between town and the plates
 - Photo must show: The church front and the river or the road in one frame, subject through the center. A doorway crop loses the building.
-- Unpublished: no licensed photo
+- Photos filed 23 Oct 2026: the church front, and the side tower. No frame shows the river. See `attractions/mang-lang.md`.
 - Sources: S6, S14
 
 ### Tu Quang pagoda
@@ -287,7 +287,7 @@ Province wording is in `getting-there.md`. The search slug stays `tuy-hoa`. Gàn
 - Suggested slug: tu-quang
 - Suggested dot: 3 — a pagoda stop north of town, not the night
 - Photo must show: The pagoda roof, the white rock, and the river plain in one frame, subject through the center.
-- Unpublished: no licensed photo
+- Unpublished: no licensed photo of this pagoda (23 Oct 2026). See `attractions/tu-quang.md`.
 - Sources: S29
 
 ### Vuc Hom falls
@@ -375,7 +375,7 @@ Province wording is in `getting-there.md`. The search slug stays `tuy-hoa`. Gàn
 - Unpublished: no licensed photo
 - Sources: S14, S24, S25
 
-Districts that deserve their own page: None in this pass. Sông Cầu stays a side-trip placeholder. Gành Đá Đĩa and Đại Lãnh stay sights of `tuy-hoa`.
+Districts that deserve their own page: None in this pass. Sông Cầu stays a side-trip placeholder. Gành Đá Đĩa and Đại Lãnh stay sights of `tuy-hoa`. On 23 Oct 2026 Đại Lãnh–Bãi Môn, Vũng Rô, Bãi Xép, and Đá Bia stayed off the public list: the dossier treats them as the south day, and none has a place page of its own. See `attractions/unpublished.md`.
 
 ## Nightlife and evening
 

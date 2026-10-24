@@ -201,3 +201,28 @@ No separate beach-bar street was found on a primary page. An Bang is the swim an
 - Suggested slug: no separate page
 - Photo must show: the street after the shops thin, still recognizable
 - Sources: S20
+
+## Page pass 23 Oct 2026
+
+Published before this pass, and still the public list: an-bang, cam-thanh, folk-culture, japanese-bridge, kim-bong, market, phuc-kien, phung-hung, quan-cong, quang-dong, quan-thang, sa-huynh, tan-ky, thanh-ha, trade-ceramics, tra-que, trieu-chau. That is 17. None was added. The place `summary` was not edited.
+
+The Attractions headings above name seven of those seventeen. The other ten already have a stored file under `research/hoi-an/attractions/` and a public page. This pass does not reopen them. Two frames whose Commons titles are not the slug were opened and kept. `Cam An Beach 4` is the An Bang shore: the camera is at 15°54′49.73″N, 108°20′26.71″E, looking toward the islands, and An Bang sits in Cẩm An (S6, S8). `Nypa fruticans 353792454` is nipa at 15°52′36.66″N, 108°22′18.98″E, in the Cẩm Thanh water. No photo file was replaced.
+
+Nothing else in this file is a separate visit:
+
+- Ancient town night is the place. Suggested slug: no separate page.
+- Ancient town evening is the same walk after dark. Suggested slug `ancient-town-evening` says do not add a page.
+- Traditional music at 66 Bạch Đằng and the Japanese culture house at 06 Nguyễn Thị Minh Khai orient the walk. They are not a ranked list (S10, S20).
+- Old-town morning, the An Bang hour, and the quiet hour are lifestyle. No separate page. The An Bang hour is the sight `an-bang`.
+- My Son and Cù Lao Chàm stay their own places. See `side-trips.md`.
+- Hoi An ward, Hoi An Đông, and Hoi An Tây are not second city pages. Cẩm Thanh and An Bang stay sights.
+
+Left unpublished, and why. Detail is in `attractions/unpublished.md`.
+
+- Cửa Đại is on the May 2018 local-site list with An Bang (S35). The June 2024 ministry article calls the erosion serious and says not to send the swim there (S6). No suggested slug.
+- The silk village at 28 Nguyễn Tất Thành is on that same 2018 list (S35) and has no block of its own here, so it is not a visit on this pass.
+- The Thanh Hà terracotta park is named with the pottery village (S35) and stays inside `thanh-ha`. It is not a second page.
+- Chùa Bà, hội quán Quảng Triệu, Tụy Tiên đường Minh Hương, and đình Hội An appear only as places that did not sell a sightseeing ticket during the 2026 Nguyên tiêu window (S34). This file does not index them as visits. A hall is not split into another page.
+- A shoreline altar in the Commons file Temple at An Bang has no official name. It is not a sight.
+- Folk singing at 106 Bạch Đằng, bài chòi at the An Hội roundabout, and the 2023 music stop at 49 Phan Chu Trinh are program notes (S5, S4), not sights.
+- Tân Thành stays a food-street note.

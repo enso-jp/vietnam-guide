@@ -14,7 +14,7 @@
   "timeNeeded": "One night, then the caves",
   "fee": "Check on arrival",
   "getThere": "Dong Hoi Airport (VVDH), 6 km north. Rail from Hue is about three hours on the 21 Oct 2026 board. Road minutes are check on arrival.",
-  "bestMonths": "Check on arrival",
+  "bestMonths": "Sunset on Nhật Lệ",
   "verified": "21 Oct 2026",
   "interests": {
     "beaches": 5,
@@ -29,7 +29,7 @@
   "routeSlugs": ["hue-to-dong-hoi", "dong-hoi-to-phong-nha"],
   "itinerarySlugs": ["dong-hoi-day"],
   "seoTitle": "Dong Hoi travel guide — a beach night, then the caves",
-  "seoDescription": "Sleep on Nhật Lệ, 6 km south of the airport. Phong Nha Cave is 50 km southeast. Beach fees, gate hours, and the Hue road are check on arrival.",
+  "seoDescription": "Sleep on Nhật Lệ, 6 km south of the airport. Phong Nha Cave is 50 km southeast. Walk the beach, the river, and the old citadel gate.",
   "intro": [
     "You come for the mouth of the Nhật Lệ. Sand, small surf, fishing boats, and the older bridge sit in one frame, with the city on the near bank and Bảo Ninh’s coconuts across the water. The ward page names sunset as the hour for the beach. The coast of the old city is given as 12 km. Nhật Lệ 2 is the night shape that page describes: one A-tower, two spans of 150 m, and a tower of 98 m, lit after dark. This page has no photograph of the whole tower, so the bridge is not a sight card.",
     "Stay if the beach night is the point. Head for Phong Nha village if the boat cave is the trip. The park puts Phong Nha Cave 50 km southeast of Đồng Hới and does not print the minutes. The ward page says about 50 km and does not name the compass point. Do not pair the beach with a same-day cave and a same-day flight. Head for Hue if the citadel is the trip. The rail posts are 166 km apart. That figure is the railway, not the highway.",
@@ -62,8 +62,8 @@
     }
   ],
   "eat": [
-    "Khoai deo is red sweet potato boiled, sliced, and sun-dried 9–12 days until the slice is chestnut brown and leathery. Buy it at Chợ Đồng Hới or chợ Nam Lý and take it home. A price is Check on arrival. Nam Lý is a buy-line, not a second market.",
-    "Cháo canh is the everyday bowl, and bánh khoái is the crisp rice-batter cake with a pork, tomato, and pineapple sauce. It is not the Hue crepe. Bánh bột lọc, bánh bèo, bánh xèo, and kẹo cu đơ sit with them. Stalls at Chợ Đồng Hới sell mostly in the early morning and the afternoon. Hours are Check on arrival."
+    "Khoai deo is red sweet potato boiled, sliced, and sun-dried 9–12 days until the slice is chestnut brown and leathery. Buy it at Chợ Đồng Hới or chợ Nam Lý and take it home. Nam Lý is a buy-line for the same sweet potato.",
+    "Cháo canh is the everyday bowl, and bánh khoái is the crisp rice-batter cake with a pork, tomato, and pineapple sauce. It is not the Hue crepe. Bánh bột lọc, bánh bèo, bánh xèo, and kẹo cu đơ sit with them. Stalls at Chợ Đồng Hới sell mostly in the early morning and the afternoon."
   ],
   "dishSlugs": ["khoai-deo"],
   "interestsBody": [
@@ -100,16 +100,23 @@
       "attractionSlug": "tam-toa",
       "photo": "dong-hoi-tam-toa",
       "icon": "museum"
+    },
+    {
+      "title": "Shopping",
+      "summary": "Chợ Đồng Hới on Mẹ Suốt for khoai deo, the sun-dried sweet potato, and the morning bowls.",
+      "photo": "dong-hoi-market",
+      "icon": "view",
+      "placeSlug": "dong-hoi"
     }
   ],
   "interestGroups": [
     {
       "title": "Dining and F&B",
-      "summary": "Khoai deo is the dish with a photograph. Chao canh and the small cakes are named and not pictured.",
+      "summary": "Khoai deo, the sun-dried sweet potato, with cháo canh and bánh khoái at Chợ Đồng Hới.",
       "cards": [
         {
           "title": "Dining and F&B",
-          "summary": "Khoai deo, the sun-dried sweet potato, is the dish with a photograph. The other named cakes are not pictured. Stall prices are check on arrival.",
+          "summary": "Khoai deo, the sun-dried sweet potato, with cháo canh and bánh khoái at Chợ Đồng Hới.",
           "photo": "khoai-deo",
           "icon": "food",
           "to": "food"
@@ -217,7 +224,7 @@
           "heading": "The ruined tower",
           "nav": "Tam Toa",
           "paragraphs": [
-            "See the tower in daylight so the broken masonry reads. No street number was on the ward page or the heritage list. The fee and the hours are check on arrival."
+            "See the tower in daylight so the broken masonry reads."
           ]
         },
         {
@@ -225,14 +232,14 @@
           "heading": "The memorial landing",
           "nav": "Mother Suốt",
           "paragraphs": [
-            "The ministry places the site at thôn Trung Bính, Bảo Ninh. A visitor note puts the statue about 1 km from the older Nhật Lệ bridge, on Quách Xuân Kỳ. The ward page puts it beside the river and the market on Mẹ Suốt. The fee is check on arrival."
+            "The ministry places the site at thôn Trung Bính, Bảo Ninh. A visitor note puts the statue about 1 km from the older Nhật Lệ bridge, on Quách Xuân Kỳ. The ward page puts it beside the river and the market on Mẹ Suốt."
           ]
         }
       ],
       "cards": [
         {
           "title": "Tam Toa bell tower",
-          "summary": "The ruined bell tower in the central park, built in 1886 and reduced to the shaft. Not a church service. Fee and hours are check on arrival.",
+          "summary": "The ruined bell tower in the central park, built in 1886 and reduced to the shaft.",
           "attractionSlug": "tam-toa",
           "photo": "dong-hoi-tam-toa",
           "icon": "museum",
@@ -240,27 +247,40 @@
         },
         {
           "title": "Mother Suot",
-          "summary": "The statue and the wartime ferry landing on the Nhật Lệ. Not a working boat. The fee is check on arrival.",
+          "summary": "The statue and the wartime ferry landing on the Nhật Lệ.",
           "attractionSlug": "mother-suot",
           "photo": "dong-hoi-mother-suot",
           "icon": "museum",
           "block": "ferry"
         }
       ]
+    },
+    {
+      "title": "Shopping",
+      "summary": "Chợ Đồng Hới on Mẹ Suốt for khoai deo, and chợ Nam Lý for the same sun-dried sweet potato.",
+      "cards": [
+        {
+          "title": "Shopping",
+          "summary": "Chợ Đồng Hới on Mẹ Suốt for khoai deo, cháo canh, and bánh khoái. Nam Lý is the other buy-line for the dried sweet potato.",
+          "photo": "dong-hoi-market",
+          "icon": "view",
+          "placeSlug": "dong-hoi"
+        }
+      ]
     }
   ],
   "season": {
     "label": "Sunset on Nhật Lệ",
-    "note": "No storm calendar was opened. The ward page names sunset, not a month, as the hour for Nhật Lệ. The culture-and-tourism week is described as yearly around 30 April and 1 May. The 2023 run stays in the dossier. A date for this year is check on arrival."
+    "note": "Sunset is the hour for Nhật Lệ. The culture-and-tourism week is yearly around 30 April and 1 May."
   },
   "faqs": [
     {
       "q": "Which airport serves Dong Hoi?",
-      "a": "Đồng Hới Airport, VVDH on the civil AIP, 6 km north of the center, elevation 18 m, run by Airports Corporation of Vietnam. IATA code VDH is the code in common use. Which cities have a nonstop, and the minutes from the terminal, are check on arrival."
+      "a": "Đồng Hới Airport, VVDH on the civil AIP, 6 km north of the center, elevation 18 m, run by Airports Corporation of Vietnam. IATA code VDH is the code in common use."
     },
     {
       "q": "Is Phong Nha in Dong Hoi?",
-      "a": "No. The park puts Phong Nha Cave 50 km southeast of Đồng Hới. The ward page says about 50 km and does not name the compass point. Minutes are check on arrival. Sleep in Phong Nha village if the boat is the trip."
+      "a": "Phong Nha Cave is a separate trip. The park places it 50 km southeast of Đồng Hới. The ward page says about 50 km. Sleep in Phong Nha village if the boat is the trip."
     },
     {
       "q": "Is Dong Hoi in Quang Binh or Quang Tri?",
@@ -268,7 +288,7 @@
     },
     {
       "q": "When does the walking street run?",
-      "a": "The ward page prints 18:00–24:00 on Friday, Saturday, Sunday, and holidays, about 1 km on Phan Bội Châu and Đồng Hải. One source. Check the current week. No bar street was named."
+      "a": "The ward page gives 18:00–24:00 on Friday, Saturday, Sunday, and holidays, about 1 km on Phan Bội Châu and Đồng Hải."
     }
   ]
 }

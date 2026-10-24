@@ -1,0 +1,50 @@
+{
+  "slug": "coffee-village",
+  "placeSlug": "buon-ma-thuot",
+  "name": "Trung Nguyen Coffee Village",
+  "nameVi": "Làng cà phê Trung Nguyên",
+  "kicker": "Coffee gardens and a longhouse",
+  "summary": "Walk the old buildings and coffee trees at Trung Nguyen Coffee Village. An Ede longhouse on the grounds shows gongs and farm tools, on a campus separate from the coffee museum. Skip it when the museum on Nguyen Dinh Chieu is the only coffee stop you want.",
+  "dots": 4,
+  "timeNeeded": "Check on arrival",
+  "fee": "No entry ticket",
+  "getThere": "Ly Thai To at the Nguyen Huu Tho junction, by taxi or motorbike",
+  "district": "Ly Thai To",
+  "verified": "23 Oct 2026",
+  "heroCaption": "The old-house court, with the tiled roof and red yard",
+  "notice": {
+    "title": "This is not the coffee museum",
+    "body": "The World Coffee Museum is on Nguyen Dinh Chieu and sells its own ticket. The village is a different campus."
+  },
+  "body": [
+    "Walk the old buildings, the coffee trees, and the Ede longhouse. Gongs, farm tools, and weapons are on display in the longhouse. The grounds are the visit: the old-house court, then the rock garden and the pond.",
+    "The World Coffee Museum is the other campus, on Nguyen Dinh Chieu, with its own ticket. Do not treat one as the other. There is no entry ticket here. Drinks and food are separate, and those prices are Check on arrival."
+  ],
+  "figures": [
+    {
+      "id": "buon-ma-thuot-coffee-village-2",
+      "caption": "The rock garden and the pond",
+      "alt": "A stacked rock garden above a pond at Trung Nguyen Coffee Village"
+    }
+  ],
+  "gettingThere": [
+    "The village is on Ly Thai To, at the junction with Nguyen Huu Tho. From the hotels around Nguyen Tat Thanh and Le Duan, take a taxi, Grab, or a motorbike. The ride time is Check on arrival."
+  ],
+  "legs": [
+    {
+      "heading": "From the city center",
+      "body": "Taxi, Grab, or motorbike to Ly Thai To at the Nguyen Huu Tho junction. The ride time is Check on arrival."
+    }
+  ],
+  "hours": "Check on arrival",
+  "closed": "Check on arrival",
+  "admissionNote": "No entry ticket. Drinks and food are separate. Those prices: Check on arrival.",
+  "links": [
+    {
+      "label": "Buon Ma Thuot ward portal",
+      "url": "https://buonmathuot.daklak.gov.vn/v-ban-sac-van-hoa-va-du-lich-buon-ma-thuot-1095.html",
+      "note": "City tourism list"
+    }
+  ],
+  "interests": ["coffee"]
+}
