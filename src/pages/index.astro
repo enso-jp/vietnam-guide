@@ -5,10 +5,11 @@ import Photo from '../components/Photo.astro';
 import VietnamMap from '../components/VietnamMap.astro';
 import { interestHref, interestLabels, site } from '../config/site';
 import interestPhotos from '../content/interest-photos.json';
-import { attractionsForInterest, cardLine, corridorsNorthToSouth, getHighlights, getOtherPosts, placePath, placesForInterest, placesInCorridor } from '../lib/content';
+import { attractionsForInterest, cardLine, corridorsNorthToSouth, getHighlights, getOtherPosts, getPlaces, placePath, placesForInterest, placesInCorridor } from '../lib/content';
 import TripSearch from '../components/TripSearch.astro';
 import { photoPath } from '../lib/photos';
 import type { Place } from '../lib/types';
+import topDestinations from '../content/top-destinations.json';
 
 const photos = interestPhotos as Record<string, string>;
 const highlights = getHighlights();
@@ -21,6 +22,11 @@ const usedInCollage = new Set(collage.map((story) => story.href));
 const stories = collagePool.filter((story) => !usedInCollage.has(story.href)).slice(0, 6);
 const corridors = corridorsNorthToSouth();
 const activeRegion = corridors[0]?.slug;
+const placeBySlug = new Map(getPlaces().filter((place) => !place.parent).map((place) => [place.slug, place]));
+const ranked = topDestinations.slugs
+  .map((slug) => placeBySlug.get(slug))
+  .filter((place): place is Place => Boolean(place));
+const marks = (dots: number) => '●'.repeat(Math.max(0, Math.min(5, dots)));
 const stackFor = (slug: string) => {
   const used = new Set<string>();
   const picks: Place[] = [];
@@ -199,6 +205,30 @@ const jsonLd = {
         </button>
       </div>
       <p class="region-more"><a class="pill" href="/destinations">See regions</a></p>
+    </section>
+
+    <section class="home-section dest-top" aria-label="Top destinations">
+      <h2>Top destinations in Vietnam</h2>
+      <div class="top-grid">
+        {ranked.map((place, index) => {
+          const filled = Math.max(0, Math.min(5, place.dots));
+          return (
+            <a class="top-card" href={placePath(place)}>
+              <span class="top-photo">
+                <Photo id={place.slug} alt="" cover={place.cover} />
+                <span class="rank-badge">{index + 1}</span>
+              </span>
+              <span class="top-copy">
+                <strong>
+                  {place.name}
+                  <span class="edots" aria-label={`${filled} of 5`}><span aria-hidden="true">{marks(filled)}</span></span>
+                </strong>
+                <em>{cardLine(place.summary)}</em>
+              </span>
+            </a>
+          );
+        })}
+      </div>
     </section>
 
     <section class="home-section">
