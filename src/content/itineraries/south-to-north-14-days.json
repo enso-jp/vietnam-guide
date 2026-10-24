@@ -1,0 +1,120 @@
+{
+  "slug": "south-to-north-14-days",
+  "title": "Best of Vietnam south to north in 14 days",
+  "kind": "trip",
+  "level": "nationwide",
+  "duration": "14 days",
+  "daysCount": 14,
+  "gateway": "open-jaw",
+  "direction": "south-to-north",
+  "budget": "Midrange, with one domestic flight",
+  "pace": "Steady",
+  "summary": "The 14-day spine in reverse: Ho Chi Minh City, the Mekong or Cu Chi, Hoi An, Hue, then Hanoi and one northern landscape.",
+  "routeSlugs": [
+    "ho-chi-minh-city-to-mekong",
+    "ho-chi-minh-city-to-da-nang",
+    "hue-to-hoi-an",
+    "hanoi-to-hue",
+    "hanoi-to-ninh-binh"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — Ben Thanh",
+      "body": "Land in Ho Chi Minh City and walk the center.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-ben-thanh",
+      "itinerarySlug": "ho-chi-minh-city-walk"
+    },
+    {
+      "title": "Day 2 — War Remnants",
+      "body": "Visit the War Remnants Museum.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-war-remnants",
+      "itinerarySlug": "saigon-war-history-half-day"
+    },
+    {
+      "title": "Day 3 — Can Tho or Cu Chi",
+      "body": "Go on to Can Tho, or to the Cu Chi tunnels if you are staying in the city.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-cai-rang"
+    },
+    {
+      "title": "Day 4 — Cai Rang",
+      "body": "Be at Cai Rang at dawn if you came south.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-cai-rang",
+      "itinerarySlug": "cai-rang-dawn-half-day"
+    },
+    {
+      "title": "Day 5 — Fly north",
+      "body": "Fly from Ho Chi Minh City to Da Nang. The flight is about 1 hour 20 minutes.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang",
+      "routeSlug": "ho-chi-minh-city-to-da-nang"
+    },
+    {
+      "title": "Day 6 — Hoi An",
+      "body": "Walk the old town from the Japanese Covered Bridge.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-japanese-bridge",
+      "itinerarySlug": "hoi-an-old-town-walk"
+    },
+    {
+      "title": "Day 7 — Hoi An Market",
+      "body": "Visit Hoi An Market and eat cao lầu.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-market",
+      "itinerarySlug": "hoi-an-day"
+    },
+    {
+      "title": "Day 8 — Hue",
+      "body": "Travel to Hue and visit the citadel.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "routeSlug": "hue-to-hoi-an",
+      "itinerarySlug": "hue-day"
+    },
+    {
+      "title": "Day 9 — Hue tombs",
+      "body": "Visit Minh Mang, Tu Duc, and Khai Dinh.",
+      "placeSlug": "hue",
+      "photo": "hue-minh-mang",
+      "itinerarySlug": "hue-two-days"
+    },
+    {
+      "title": "Day 10 — Hanoi",
+      "body": "Take the train or a flight to Hanoi and walk the Old Quarter.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "routeSlug": "hanoi-to-hue",
+      "itinerarySlug": "hanoi-old-quarter-walk"
+    },
+    {
+      "title": "Day 11 — Lake and citadel",
+      "body": "Walk Hoan Kiem Lake and the Imperial Citadel of Thang Long.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-citadel",
+      "itinerarySlug": "hanoi-day"
+    },
+    {
+      "title": "Day 12 — Temple of Literature",
+      "body": "Visit the Temple of Literature. The daytime adult ticket is 70,000 VND.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-temple-of-literature"
+    },
+    {
+      "title": "Day 13 — Ninh Binh or Ha Long",
+      "body": "Take Trang An or a Ha Long boat, and do not do both.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-trang-an"
+    },
+    {
+      "title": "Day 14 — Leave Hanoi",
+      "body": "Return to Hanoi and fly home.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi"
+    }
+  ],
+  "seoTitle": "Vietnam in 14 days, south to north",
+  "seoDescription": "Ho Chi Minh City to Hanoi in 14 days, with the Mekong or Cu Chi, Hoi An, Hue, and one northern landscape."
+}

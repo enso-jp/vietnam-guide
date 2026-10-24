@@ -1,0 +1,46 @@
+{
+  "slug": "deep-south-4-days",
+  "title": "Deep south in 4 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "4 days",
+  "daysCount": 4,
+  "corridor": "mekong-delta",
+  "budget": "Midrange",
+  "pace": "The market, then the cape",
+  "summary": "Can Tho and Ca Mau. Dry season.",
+  "days": [
+    {
+      "title": "Day 1 — Can Tho",
+      "body": "Arrive and walk Ninh Kieu.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-ninh-kieu"
+    },
+    {
+      "title": "Day 2 — Cai Rang",
+      "body": "Be at Cai Rang at dawn.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-cai-rang",
+      "itinerarySlug": "can-tho-day"
+    },
+    {
+      "title": "Day 3 — Ca Mau",
+      "body": "Travel to Ca Mau.",
+      "placeSlug": "ca-mau",
+      "photo": "ca-mau-nam-can",
+      "routeSlug": "can-tho-to-ca-mau"
+    },
+    {
+      "title": "Day 4 — Nam Can or Hon Da Bac",
+      "body": "Nam Can is a stop on the cape road. Hon Da Bac is a west-coast day. Fees are Check on arrival.",
+      "placeSlug": "ca-mau",
+      "photo": "ca-mau-hon-da-bac",
+      "itinerarySlug": "ca-mau-day"
+    }
+  ],
+  "seoTitle": "Deep south in 4 days",
+  "seoDescription": "Can Tho and Ca Mau. Dry season.",
+  "routeSlugs": [
+    "can-tho-to-ca-mau"
+  ]
+}

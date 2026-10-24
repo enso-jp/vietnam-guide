@@ -1,0 +1,23 @@
+{
+  "slug": "do-son-half-day",
+  "title": "Do Son half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "hai-phong",
+  "budget": "Check on arrival",
+  "pace": "The spit",
+  "photo": "hai-phong-do-son",
+  "summary": "Do Son is a half day or a night. The fee is Check on arrival.",
+  "stops": [
+    {
+      "name": "Do Son",
+      "minutes": "Check on arrival",
+      "note": "A half day or a night. The fee is Check on arrival.",
+      "placeSlug": "hai-phong",
+      "attractionSlug": "do-son"
+    }
+  ],
+  "seoTitle": "Do Son half day",
+  "seoDescription": "Do Son is a half day or a night. The fee is Check on arrival."
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "heritage-sites-12-days",
+  "title": "Old towns and sites in 12 days",
+  "kind": "trip",
+  "level": "nationwide",
+  "duration": "12 days",
+  "daysCount": 12,
+  "gateway": "hanoi",
+  "direction": "north-to-south",
+  "budget": "Midrange",
+  "pace": "Towns and towers",
+  "summary": "Hanoi, Ha Long, Ninh Binh, Phong Nha, Hue, Hoi An, and My Son. No heritage-status claim beyond the published pages.",
+  "routeSlugs": [
+    "hanoi-to-ha-long",
+    "hanoi-to-ninh-binh",
+    "ninh-binh-to-dong-hoi",
+    "dong-hoi-to-phong-nha",
+    "hue-to-dong-hoi",
+    "hue-to-hoi-an",
+    "hoi-an-to-my-son"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — Hanoi citadel",
+      "body": "The Imperial Citadel of Thang Long is 100,000 VND.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-citadel",
+      "itinerarySlug": "hanoi-day"
+    },
+    {
+      "title": "Day 2 — Hanoi",
+      "body": "Walk Hoan Kiem Lake.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem"
+    },
+    {
+      "title": "Day 3 — Ha Long",
+      "body": "Sung Sot on a day boat.",
+      "placeSlug": "ha-long",
+      "photo": "ha-long-sung-sot",
+      "routeSlug": "hanoi-to-ha-long",
+      "itinerarySlug": "ha-long-day"
+    },
+    {
+      "title": "Day 4 — Ninh Binh",
+      "body": "Take the Trang An boat.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-trang-an",
+      "routeSlug": "hanoi-to-ninh-binh",
+      "itinerarySlug": "ninh-binh-day"
+    },
+    {
+      "title": "Day 5 — Toward Dong Hoi",
+      "body": "Travel toward Dong Hoi.",
+      "placeSlug": "dong-hoi",
+      "photo": "dong-hoi-nhat-le-beach",
+      "routeSlug": "ninh-binh-to-dong-hoi"
+    },
+    {
+      "title": "Day 6 — Phong Nha Cave",
+      "body": "About 2.5 hours. 150,000 VND plus the boat.",
+      "placeSlug": "phong-nha",
+      "photo": "phong-nha-phong-nha-cave",
+      "routeSlug": "dong-hoi-to-phong-nha",
+      "itinerarySlug": "phong-nha-cave-half-day"
+    },
+    {
+      "title": "Day 7 — Hue",
+      "body": "Travel to Hue.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "routeSlug": "hue-to-dong-hoi"
+    },
+    {
+      "title": "Day 8 — Hue Citadel",
+      "body": "Visit the citadel.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "itinerarySlug": "hue-day"
+    },
+    {
+      "title": "Day 9 — Hoi An",
+      "body": "Travel to Hoi An.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-japanese-bridge",
+      "routeSlug": "hue-to-hoi-an",
+      "itinerarySlug": "hoi-an-day"
+    },
+    {
+      "title": "Day 10 — Hoi An",
+      "body": "Stay in the old town.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-market"
+    },
+    {
+      "title": "Day 11 — My Son",
+      "body": "Visit the towers. A non-resident adult is 150,000 VND.",
+      "placeSlug": "my-son",
+      "photo": "my-son-towers-2",
+      "routeSlug": "hoi-an-to-my-son"
+    },
+    {
+      "title": "Day 12 — Leave Da Nang",
+      "body": "Keep the morning in Hoi An.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang"
+    }
+  ],
+  "seoTitle": "Old towns and sites in 12 days",
+  "seoDescription": "Hanoi, Ha Long, Ninh Binh, Phong Nha, Hue, Hoi An, and My Son in twelve days."
+}

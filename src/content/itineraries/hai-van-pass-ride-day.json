@@ -1,0 +1,38 @@
+{
+  "slug": "hai-van-pass-ride-day",
+  "title": "Hai Van Pass day",
+  "kind": "trip",
+  "level": "day",
+  "duration": "1 day",
+  "spanDays": 1,
+  "placeSlug": "da-nang",
+  "budget": "Check on arrival",
+  "pace": "The pass",
+  "photo": "da-nang-hai-van",
+  "summary": "Da Nang, Hai Van, Lang Co, and Hue. Hai Van is half a day as a detour and has no road ticket. Hai Van Gate is 70,000 VND. No rental prices.",
+  "stops": [
+    {
+      "name": "Hai Van Pass",
+      "minutes": "Check on arrival",
+      "note": "Half a day as a detour. No road ticket.",
+      "placeSlug": "da-nang",
+      "attractionSlug": "hai-van"
+    },
+    {
+      "name": "Hai Van Gate",
+      "minutes": "Check on arrival",
+      "note": "The fee is 70,000 VND.",
+      "placeSlug": "lang-co",
+      "attractionSlug": "hai-van-gate"
+    },
+    {
+      "name": "Lang Co Beach",
+      "minutes": "Check on arrival",
+      "note": "A swim and a walk. The fee is Check on arrival.",
+      "placeSlug": "lang-co",
+      "attractionSlug": "lang-co-beach"
+    }
+  ],
+  "seoTitle": "Hai Van Pass day",
+  "seoDescription": "Da Nang, Hai Van, Lang Co, and Hue. Hai Van is half a day as a detour and has no road ticket. Hai Van Gate is 70,000 VND. No rental prices."
+}

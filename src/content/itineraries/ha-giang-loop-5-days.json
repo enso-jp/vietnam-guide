@@ -1,0 +1,53 @@
+{
+  "slug": "ha-giang-loop-5-days",
+  "title": "Ha Giang loop in 5 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "5 days",
+  "daysCount": 5,
+  "corridor": "northern-midlands",
+  "budget": "Midrange",
+  "pace": "The pass",
+  "summary": "Hanoi to Ha Giang, Dong Van, and Ma Pi Leng. September to November, buckwheat October to November. Fees are Check on arrival.",
+  "days": [
+    {
+      "title": "Day 1 — To Ha Giang",
+      "body": "Travel from Hanoi to Ha Giang.",
+      "placeSlug": "ha-giang",
+      "photo": "ha-giang",
+      "routeSlug": "hanoi-to-ha-giang"
+    },
+    {
+      "title": "Day 2 — Dong Van",
+      "body": "Dong Van is an overnight.",
+      "placeSlug": "ha-giang",
+      "photo": "ha-giang-dong-van"
+    },
+    {
+      "title": "Day 3 — Ma Pi Leng",
+      "body": "Ma Pi Leng is most of a morning with the stops.",
+      "placeSlug": "ha-giang",
+      "photo": "ha-giang-ma-pi-leng",
+      "itinerarySlug": "ha-giang-pass"
+    },
+    {
+      "title": "Day 4 — The plateau",
+      "body": "Stay on the plateau.",
+      "placeSlug": "ha-giang",
+      "photo": "ha-giang-dong-van"
+    },
+    {
+      "title": "Day 5 — Back to Hanoi",
+      "body": "Return to Hanoi.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi",
+      "routeSlug": "hanoi-to-ha-giang"
+    }
+  ],
+  "seoTitle": "Ha Giang loop in 5 days",
+  "seoDescription": "Hanoi to Ha Giang, Dong Van, and Ma Pi Leng. September to November, buckwheat October to November. Fees are Check on arrival.",
+  "variant": "loop",
+  "routeSlugs": [
+    "hanoi-to-ha-giang"
+  ]
+}

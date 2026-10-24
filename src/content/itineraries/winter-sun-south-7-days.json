@@ -1,0 +1,68 @@
+{
+  "slug": "winter-sun-south-7-days",
+  "title": "Winter sun in the south in 7 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "7 days",
+  "daysCount": 7,
+  "corridor": "mekong-delta",
+  "budget": "Midrange",
+  "pace": "One island, then a second shore",
+  "summary": "Ho Chi Minh City, Phu Quoc, and Con Dao or Mui Ne. November to April.",
+  "days": [
+    {
+      "title": "Day 1 — Ho Chi Minh City",
+      "body": "Land and walk the center.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-ben-thanh",
+      "itinerarySlug": "ho-chi-minh-city-day"
+    },
+    {
+      "title": "Day 2 — Phu Quoc",
+      "body": "Fly to Phu Quoc.",
+      "placeSlug": "phu-quoc",
+      "photo": "phu-quoc-long-beach",
+      "routeSlug": "ho-chi-minh-city-to-phu-quoc"
+    },
+    {
+      "title": "Day 3 — Long Beach",
+      "body": "A beach day.",
+      "placeSlug": "phu-quoc",
+      "photo": "phu-quoc-long-beach",
+      "itinerarySlug": "phu-quoc-day"
+    },
+    {
+      "title": "Day 4 — Sao",
+      "body": "Sao is half a day and free.",
+      "placeSlug": "phu-quoc",
+      "photo": "phu-quoc-sao"
+    },
+    {
+      "title": "Day 5 — Con Dao or Mui Ne",
+      "body": "Fly to Con Dao, or take the Mui Ne road. Do not do both.",
+      "placeSlug": "con-dao",
+      "photo": "con-dao-hon-bay-canh",
+      "routeSlug": "ho-chi-minh-city-to-con-dao"
+    },
+    {
+      "title": "Day 6 — The second shore",
+      "body": "Hon Bay Canh is the boat, then the visit, 60,000 VND scenic fee. The boat is Check on arrival. Or the white dunes are 5:00–7:00.",
+      "placeSlug": "con-dao",
+      "photo": "con-dao-hon-bay-canh"
+    },
+    {
+      "title": "Day 7 — Leave",
+      "body": "Fly home from the island or from Ho Chi Minh City.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city"
+    }
+  ],
+  "seoTitle": "Winter sun in the south in 7 days",
+  "seoDescription": "Ho Chi Minh City, Phu Quoc, and Con Dao or Mui Ne. November to April.",
+  "variant": "winter-sun",
+  "routeSlugs": [
+    "ho-chi-minh-city-to-phu-quoc",
+    "ho-chi-minh-city-to-con-dao",
+    "ho-chi-minh-city-to-mui-ne"
+  ]
+}

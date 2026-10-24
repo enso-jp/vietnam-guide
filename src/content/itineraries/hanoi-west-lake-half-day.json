@@ -1,0 +1,30 @@
+{
+  "slug": "hanoi-west-lake-half-day",
+  "title": "West Lake half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "hanoi",
+  "budget": "Check on arrival",
+  "pace": "The lake",
+  "photo": "hanoi-west-lake",
+  "summary": "West Lake and Tran Quoc. Fees are Check on arrival.",
+  "stops": [
+    {
+      "name": "West Lake",
+      "minutes": "Check on arrival",
+      "note": "The fee is Check on arrival.",
+      "placeSlug": "hanoi",
+      "attractionSlug": "west-lake"
+    },
+    {
+      "name": "Tran Quoc",
+      "minutes": "Check on arrival",
+      "note": "The fee is Check on arrival.",
+      "placeSlug": "hanoi",
+      "attractionSlug": "tran-quoc"
+    }
+  ],
+  "seoTitle": "West Lake half day",
+  "seoDescription": "West Lake and Tran Quoc. Fees are Check on arrival."
+}

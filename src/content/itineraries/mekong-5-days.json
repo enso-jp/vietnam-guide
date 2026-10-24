@@ -1,0 +1,58 @@
+{
+  "slug": "mekong-5-days",
+  "title": "Mekong in 5 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "5 days",
+  "daysCount": 5,
+  "corridor": "mekong-delta",
+  "budget": "Midrange",
+  "pace": "Rivers, then the mountain",
+  "summary": "The three-day Mekong plus Chau Doc. High water September to November.",
+  "days": [
+    {
+      "title": "Day 1 — My Tho",
+      "body": "Vinh Trang is 120 minutes and free.",
+      "placeSlug": "my-tho",
+      "photo": "my-tho-vinh-trang",
+      "routeSlug": "ho-chi-minh-city-to-my-tho",
+      "itinerarySlug": "my-tho-day"
+    },
+    {
+      "title": "Day 2 — Ben Tre",
+      "body": "Con Phung is a river day.",
+      "placeSlug": "ben-tre",
+      "photo": "ben-tre-con-phung",
+      "itinerarySlug": "ben-tre-day"
+    },
+    {
+      "title": "Day 3 — Can Tho",
+      "body": "Cai Rang at dawn.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-cai-rang",
+      "routeSlug": "ben-tre-to-can-tho",
+      "itinerarySlug": "can-tho-day"
+    },
+    {
+      "title": "Day 4 — Chau Doc",
+      "body": "Travel to Chau Doc.",
+      "placeSlug": "chau-doc",
+      "photo": "chau-doc-tra-su",
+      "routeSlug": "can-tho-to-chau-doc"
+    },
+    {
+      "title": "Day 5 — Tra Su and Sam Mountain",
+      "body": "Tra Su is half a day from town, 120,000 VND at the gate. Sam Mountain is a morning, longer if you climb.",
+      "placeSlug": "chau-doc",
+      "photo": "chau-doc-sam-mountain",
+      "itinerarySlug": "chau-doc-day"
+    }
+  ],
+  "seoTitle": "Mekong in 5 days",
+  "seoDescription": "The three-day Mekong plus Chau Doc. High water September to November.",
+  "routeSlugs": [
+    "ho-chi-minh-city-to-my-tho",
+    "ben-tre-to-can-tho",
+    "can-tho-to-chau-doc"
+  ]
+}

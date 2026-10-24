@@ -1,0 +1,174 @@
+{
+  "slug": "great-traverse-21-days-south",
+  "title": "Great traverse of Vietnam, south to north, in 21 days",
+  "kind": "trip",
+  "level": "nationwide",
+  "duration": "21 days",
+  "daysCount": 21,
+  "gateway": "open-jaw",
+  "direction": "south-to-north",
+  "budget": "Midrange, with domestic flights",
+  "pace": "South, highlands, coast, then the north",
+  "summary": "The 21-day traverse in reverse, from Ho Chi Minh City to Hanoi.",
+  "routeSlugs": [
+    "ho-chi-minh-city-to-mekong",
+    "ho-chi-minh-city-to-da-lat",
+    "da-nang-to-da-lat",
+    "hue-to-hoi-an",
+    "hue-to-dong-hoi",
+    "dong-hoi-to-phong-nha",
+    "ninh-binh-to-dong-hoi",
+    "hanoi-to-ninh-binh",
+    "hanoi-to-ha-long",
+    "hanoi-to-sapa"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — Ho Chi Minh City",
+      "body": "Land and walk the center.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-ben-thanh",
+      "itinerarySlug": "ho-chi-minh-city-walk"
+    },
+    {
+      "title": "Day 2 — Can Tho",
+      "body": "Travel to Can Tho.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-ninh-kieu",
+      "routeSlug": "ho-chi-minh-city-to-mekong"
+    },
+    {
+      "title": "Day 3 — Cai Rang",
+      "body": "Be at Cai Rang at dawn.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-cai-rang",
+      "itinerarySlug": "can-tho-day"
+    },
+    {
+      "title": "Day 4 — Back to the city",
+      "body": "Return to Ho Chi Minh City.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-war-remnants"
+    },
+    {
+      "title": "Day 5 — Da Lat",
+      "body": "Travel to Da Lat.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-xuan-huong",
+      "routeSlug": "ho-chi-minh-city-to-da-lat"
+    },
+    {
+      "title": "Day 6 — Da Lat",
+      "body": "See Datanla and Truc Lam.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-datanla",
+      "itinerarySlug": "da-lat-day"
+    },
+    {
+      "title": "Day 7 — Toward Da Nang",
+      "body": "Travel toward Da Nang.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang",
+      "routeSlug": "da-nang-to-da-lat"
+    },
+    {
+      "title": "Day 8 — Hoi An",
+      "body": "Walk the old town.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-japanese-bridge",
+      "itinerarySlug": "hoi-an-day"
+    },
+    {
+      "title": "Day 9 — Hoi An",
+      "body": "Stay in the old town.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-market"
+    },
+    {
+      "title": "Day 10 — Hue",
+      "body": "Travel to Hue.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "routeSlug": "hue-to-hoi-an",
+      "itinerarySlug": "hue-day"
+    },
+    {
+      "title": "Day 11 — Hue tombs",
+      "body": "Visit the tombs.",
+      "placeSlug": "hue",
+      "photo": "hue-minh-mang",
+      "itinerarySlug": "hue-tombs-half-day"
+    },
+    {
+      "title": "Day 12 — Phong Nha",
+      "body": "Travel toward Phong Nha.",
+      "placeSlug": "phong-nha",
+      "photo": "phong-nha-paradise-cave",
+      "routeSlug": "hue-to-dong-hoi"
+    },
+    {
+      "title": "Day 13 — The caves",
+      "body": "Visit Paradise Cave or Phong Nha Cave. Do not treat Son Doong as a stop.",
+      "placeSlug": "phong-nha",
+      "photo": "phong-nha-phong-nha-cave",
+      "itinerarySlug": "phong-nha-day"
+    },
+    {
+      "title": "Day 14 — Ninh Binh",
+      "body": "Travel to Ninh Binh.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-trang-an",
+      "routeSlug": "ninh-binh-to-dong-hoi"
+    },
+    {
+      "title": "Day 15 — Trang An",
+      "body": "Take the Trang An boat.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-trang-an",
+      "itinerarySlug": "ninh-binh-day"
+    },
+    {
+      "title": "Day 16 — Hanoi",
+      "body": "Travel to Hanoi.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "routeSlug": "hanoi-to-ninh-binh"
+    },
+    {
+      "title": "Day 17 — Ha Long",
+      "body": "Take a day boat.",
+      "placeSlug": "ha-long",
+      "photo": "ha-long-sung-sot",
+      "routeSlug": "hanoi-to-ha-long",
+      "itinerarySlug": "ha-long-day"
+    },
+    {
+      "title": "Day 18 — Hanoi",
+      "body": "Return to Hanoi.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-citadel"
+    },
+    {
+      "title": "Day 19 — Night train",
+      "body": "Board the night train to Sa Pa.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi",
+      "routeSlug": "hanoi-to-sapa"
+    },
+    {
+      "title": "Day 20 — Sapa",
+      "body": "See the stone church and Cat Cat.",
+      "placeSlug": "sapa",
+      "photo": "sapa-stone-church",
+      "itinerarySlug": "sapa-day"
+    },
+    {
+      "title": "Day 21 — Leave Hanoi",
+      "body": "Return to Hanoi and fly home.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi"
+    }
+  ],
+  "seoTitle": "Vietnam in 21 days, south to north",
+  "seoDescription": "Ho Chi Minh City to Hanoi in 21 days, with Can Tho, Da Lat, Hoi An, Hue, Phong Nha, Ninh Binh, Ha Long, and Sapa."
+}

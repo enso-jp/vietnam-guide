@@ -1,0 +1,43 @@
+{
+  "slug": "quy-nhon-tuy-hoa-4-days",
+  "title": "Quy Nhon and Tuy Hoa in 4 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "4 days",
+  "daysCount": 4,
+  "corridor": "south-central-highlands",
+  "budget": "Midrange",
+  "pace": "Coves, then the river",
+  "summary": "Quy Nhon and Tuy Hoa. January to August. The road minutes are Check on arrival.",
+  "days": [
+    {
+      "title": "Day 1 — City beach",
+      "body": "The city beach is about an hour and free. A beach day is longer.",
+      "placeSlug": "quy-nhon",
+      "photo": "quy-nhon-city-beach"
+    },
+    {
+      "title": "Day 2 — Ky Co and Eo Gio",
+      "body": "Ky Co is about an hour. Eo Gio is about 30 minutes and 25,000 đồng.",
+      "placeSlug": "quy-nhon",
+      "photo": "quy-nhon-ky-co"
+    },
+    {
+      "title": "Day 3 — Ghenh Rang",
+      "body": "Ghenh Rang is about an hour and free.",
+      "placeSlug": "quy-nhon",
+      "photo": "quy-nhon-ghenh-rang",
+      "itinerarySlug": "quy-nhon-two-days"
+    },
+    {
+      "title": "Day 4 — Tuy Hoa",
+      "body": "Da Rang from the bank or the bridge.",
+      "placeSlug": "tuy-hoa",
+      "photo": "tuy-hoa-da-rang",
+      "itinerarySlug": "tuy-hoa-day"
+    }
+  ],
+  "seoTitle": "Quy Nhon and Tuy Hoa in 4 days",
+  "seoDescription": "Quy Nhon and Tuy Hoa. January to August. The road minutes are Check on arrival.",
+  "variant": "quy-nhon"
+}

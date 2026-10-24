@@ -1,0 +1,47 @@
+{
+  "slug": "ha-giang-motorbike-loop-4-days",
+  "title": "Ha Giang motorbike loop in 4 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "4 days",
+  "daysCount": 4,
+  "corridor": "northern-midlands",
+  "budget": "Midrange",
+  "pace": "The loop",
+  "summary": "Hanoi, Ha Giang, Dong Van, and Ma Pi Leng. The two-day core is the Ha Giang pass card. No rental prices.",
+  "days": [
+    {
+      "title": "Day 1 — To Ha Giang",
+      "body": "Travel from Hanoi to Ha Giang.",
+      "placeSlug": "ha-giang",
+      "photo": "ha-giang",
+      "routeSlug": "hanoi-to-ha-giang"
+    },
+    {
+      "title": "Day 2 — Dong Van",
+      "body": "Dong Van is an overnight.",
+      "placeSlug": "ha-giang",
+      "photo": "ha-giang-dong-van"
+    },
+    {
+      "title": "Day 3 — Ma Pi Leng",
+      "body": "Ma Pi Leng is most of a morning with the stops.",
+      "placeSlug": "ha-giang",
+      "photo": "ha-giang-ma-pi-leng",
+      "itinerarySlug": "ha-giang-pass"
+    },
+    {
+      "title": "Day 4 — Hanoi",
+      "body": "Return to Hanoi.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi",
+      "routeSlug": "hanoi-to-ha-giang"
+    }
+  ],
+  "seoTitle": "Ha Giang motorbike loop in 4 days",
+  "seoDescription": "Hanoi, Ha Giang, Dong Van, and Ma Pi Leng. The two-day core is the Ha Giang pass card. No rental prices.",
+  "variant": "motorbike",
+  "routeSlugs": [
+    "hanoi-to-ha-giang"
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "slug": "north-to-south-18-days-caves",
+  "title": "Vietnam in 18 days with the caves",
+  "kind": "trip",
+  "level": "nationwide",
+  "duration": "18 days",
+  "daysCount": 18,
+  "gateway": "open-jaw",
+  "direction": "north-to-south",
+  "budget": "Midrange, with one domestic flight",
+  "pace": "The 14-day spine plus Phong Nha",
+  "summary": "The 14-day north-to-south spine with Dong Hoi and Phong Nha added. Check the flood months in season. Son Doong is not a stop.",
+  "routeSlugs": [
+    "hanoi-to-ninh-binh",
+    "hanoi-to-hue",
+    "hue-to-dong-hoi",
+    "dong-hoi-to-phong-nha",
+    "hue-to-hoi-an",
+    "ho-chi-minh-city-to-da-nang",
+    "ho-chi-minh-city-to-mekong"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — Hanoi",
+      "body": "Land and walk the Old Quarter.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "itinerarySlug": "hanoi-old-quarter-walk"
+    },
+    {
+      "title": "Day 2 — Hanoi",
+      "body": "Walk Hoan Kiem Lake and the citadel.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-citadel",
+      "itinerarySlug": "hanoi-day"
+    },
+    {
+      "title": "Day 3 — Ninh Binh",
+      "body": "Travel to Ninh Binh.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-trang-an",
+      "routeSlug": "hanoi-to-ninh-binh"
+    },
+    {
+      "title": "Day 4 — Trang An",
+      "body": "Take the Trang An boat.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-trang-an",
+      "itinerarySlug": "ninh-binh-day"
+    },
+    {
+      "title": "Day 5 — Hue",
+      "body": "Travel to Hue.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "routeSlug": "hanoi-to-hue"
+    },
+    {
+      "title": "Day 6 — Hue Citadel",
+      "body": "Visit the citadel.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "itinerarySlug": "hue-day"
+    },
+    {
+      "title": "Day 7 — Dong Hoi",
+      "body": "Travel to Dong Hoi.",
+      "placeSlug": "dong-hoi",
+      "photo": "dong-hoi-nhat-le-beach",
+      "routeSlug": "hue-to-dong-hoi"
+    },
+    {
+      "title": "Day 8 — Phong Nha Cave",
+      "body": "Visit Phong Nha Cave.",
+      "placeSlug": "phong-nha",
+      "photo": "phong-nha-phong-nha-cave",
+      "routeSlug": "dong-hoi-to-phong-nha",
+      "itinerarySlug": "phong-nha-cave-half-day"
+    },
+    {
+      "title": "Day 9 — Paradise Cave",
+      "body": "Visit Paradise Cave.",
+      "placeSlug": "phong-nha",
+      "photo": "phong-nha-paradise-cave",
+      "itinerarySlug": "phong-nha-day"
+    },
+    {
+      "title": "Day 10 — Back to Hue",
+      "body": "Return to Hue.",
+      "placeSlug": "hue",
+      "photo": "hue-minh-mang",
+      "routeSlug": "hue-to-dong-hoi"
+    },
+    {
+      "title": "Day 11 — Hoi An",
+      "body": "Travel to Hoi An.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-japanese-bridge",
+      "routeSlug": "hue-to-hoi-an",
+      "itinerarySlug": "hoi-an-day"
+    },
+    {
+      "title": "Day 12 — Hoi An",
+      "body": "Stay in the old town.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-market"
+    },
+    {
+      "title": "Day 13 — Fly south",
+      "body": "Fly from Da Nang to Ho Chi Minh City.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-ben-thanh",
+      "routeSlug": "ho-chi-minh-city-to-da-nang"
+    },
+    {
+      "title": "Day 14 — War Remnants",
+      "body": "Visit the War Remnants Museum.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-war-remnants",
+      "itinerarySlug": "ho-chi-minh-city-day"
+    },
+    {
+      "title": "Day 15 — Cho Lon or Cu Chi",
+      "body": "Walk Cho Lon, or take the Cu Chi day.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-binh-tay"
+    },
+    {
+      "title": "Day 16 — Can Tho",
+      "body": "Travel to Can Tho.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-ninh-kieu",
+      "routeSlug": "ho-chi-minh-city-to-mekong"
+    },
+    {
+      "title": "Day 17 — Cai Rang",
+      "body": "Be at Cai Rang at dawn.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-cai-rang",
+      "itinerarySlug": "can-tho-day"
+    },
+    {
+      "title": "Day 18 — Leave the south",
+      "body": "Return to Ho Chi Minh City and fly home.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city"
+    }
+  ],
+  "seoTitle": "Vietnam in 18 days with Phong Nha",
+  "seoDescription": "Hanoi to Ho Chi Minh City in 18 days, with Ninh Binh, Hue, Phong Nha, Hoi An, and Can Tho."
+}

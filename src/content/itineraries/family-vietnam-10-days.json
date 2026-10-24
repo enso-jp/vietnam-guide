@@ -1,0 +1,90 @@
+{
+  "slug": "family-vietnam-10-days",
+  "title": "Family Vietnam in 10 days",
+  "kind": "trip",
+  "level": "nationwide",
+  "duration": "10 days",
+  "daysCount": 10,
+  "gateway": "open-jaw",
+  "direction": "out-of-da-nang",
+  "budget": "Midrange",
+  "pace": "Cities a family can walk",
+  "summary": "Hanoi, Ha Long, Da Nang, and Hoi An.",
+  "routeSlugs": [
+    "hanoi-to-ha-long",
+    "hanoi-to-da-nang",
+    "da-nang-to-hoi-an"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — Hanoi",
+      "body": "Land and walk Hoan Kiem Lake.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "itinerarySlug": "hanoi-day"
+    },
+    {
+      "title": "Day 2 — Ethnology",
+      "body": "The ethnology museum. An adult ticket is 40,000 VND.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-ethnology",
+      "itinerarySlug": "hanoi-museums-half-day"
+    },
+    {
+      "title": "Day 3 — Water puppets",
+      "body": "The water puppets. The fee is Check on arrival.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-water-puppets"
+    },
+    {
+      "title": "Day 4 — Ha Long",
+      "body": "Sun World if you want the cable. Hours and prices sit on that page.",
+      "placeSlug": "ha-long",
+      "photo": "ha-long-sun-world",
+      "routeSlug": "hanoi-to-ha-long",
+      "itinerarySlug": "ha-long-bai-chay-half-day"
+    },
+    {
+      "title": "Day 5 — Fly to Da Nang",
+      "body": "Fly to Da Nang.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang",
+      "routeSlug": "hanoi-to-da-nang"
+    },
+    {
+      "title": "Day 6 — Ba Na",
+      "body": "Ba Na is a full day. A non-resident adult is 1,000,000 VND.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-ba-na",
+      "itinerarySlug": "ba-na-day"
+    },
+    {
+      "title": "Day 7 — My Khe",
+      "body": "My Khe is half a day and free to swim.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-my-khe"
+    },
+    {
+      "title": "Day 8 — Beach sports",
+      "body": "Beach sports are a couple of hours. The fee is Check on arrival.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-beach-sports"
+    },
+    {
+      "title": "Day 9 — Hoi An",
+      "body": "The folk-culture museum is a museum hour. From 10 August 2026 the city fee is 20,000 VND per person per building.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-folk-culture",
+      "routeSlug": "da-nang-to-hoi-an",
+      "itinerarySlug": "hoi-an-day"
+    },
+    {
+      "title": "Day 10 — Leave Da Nang",
+      "body": "Keep the morning in Hoi An.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-my-khe"
+    }
+  ],
+  "seoTitle": "Family Vietnam in 10 days",
+  "seoDescription": "Hanoi, Ha Long, Da Nang, and Hoi An in ten days, with the ethnology museum, Ba Na, and My Khe."
+}

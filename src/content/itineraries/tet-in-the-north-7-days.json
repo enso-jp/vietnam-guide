@@ -1,0 +1,67 @@
+{
+  "slug": "tet-in-the-north-7-days",
+  "title": "Tet in the north in 7 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "7 days",
+  "daysCount": 7,
+  "corridor": "northern-midlands",
+  "budget": "Midrange",
+  "pace": "Moving dates",
+  "summary": "Hanoi, Ba Be, Moc Chau, and Son La around Tet. The Tet date moves. Long Tong is the 10th of the first lunar month. Later dates are Check on arrival.",
+  "days": [
+    {
+      "title": "Day 1 — Hanoi",
+      "body": "Land in Hanoi. Festival dates are Check on arrival.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "itinerarySlug": "hanoi-day"
+    },
+    {
+      "title": "Day 2 — Ba Be",
+      "body": "Travel to Ba Be.",
+      "placeSlug": "ba-be",
+      "photo": "ba-be-lake",
+      "routeSlug": "hanoi-to-ba-be"
+    },
+    {
+      "title": "Day 3 — The lake",
+      "body": "The morning boat. Times and fees are Check on arrival.",
+      "placeSlug": "ba-be",
+      "photo": "ba-be-lake",
+      "itinerarySlug": "ba-be-lake-day"
+    },
+    {
+      "title": "Day 4 — Toward Moc Chau",
+      "body": "Travel toward Moc Chau. The minutes are Check on arrival.",
+      "placeSlug": "moc-chau",
+      "photo": "moc-chau-heart-tea-hills"
+    },
+    {
+      "title": "Day 5 — Moc Chau",
+      "body": "The flower program dates are Check on arrival.",
+      "placeSlug": "moc-chau",
+      "photo": "moc-chau-heart-tea-hills",
+      "itinerarySlug": "moc-chau-plateau-day"
+    },
+    {
+      "title": "Day 6 — Son La",
+      "body": "The peach dates are Check on arrival.",
+      "placeSlug": "son-la",
+      "photo": "son-la",
+      "itinerarySlug": "son-la-valley-day"
+    },
+    {
+      "title": "Day 7 — Hanoi",
+      "body": "Return to Hanoi.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi"
+    }
+  ],
+  "seoTitle": "Tet in the north in 7 days",
+  "seoDescription": "Hanoi, Ba Be, Moc Chau, and Son La around Tet. The Tet date moves. Long Tong is the 10th of the first lunar month. Later dates are Check on arrival.",
+  "variant": "tet",
+  "routeSlugs": [
+    "hanoi-to-ba-be"
+  ]
+}

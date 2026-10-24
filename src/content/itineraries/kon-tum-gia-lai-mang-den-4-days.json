@@ -1,0 +1,44 @@
+{
+  "slug": "kon-tum-gia-lai-mang-den-4-days",
+  "title": "Kon Tum, Gia Lai, and Mang Den in 4 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "4 days",
+  "daysCount": 4,
+  "corridor": "south-central-highlands",
+  "budget": "Midrange",
+  "pace": "Three highland towns",
+  "summary": "Gia Lai, Kon Tum, and Mang Den. November to April. Road minutes are Check on arrival.",
+  "days": [
+    {
+      "title": "Day 1 — Gia Lai",
+      "body": "Bien Ho. The fee is Check on arrival.",
+      "placeSlug": "gia-lai",
+      "photo": "gia-lai-bien-ho",
+      "itinerarySlug": "gia-lai-day"
+    },
+    {
+      "title": "Day 2 — Kon Tum",
+      "body": "The wooden church. The fee is Check on arrival.",
+      "placeSlug": "kon-tum",
+      "photo": "kon-tum-wooden-church",
+      "itinerarySlug": "kon-tum-day"
+    },
+    {
+      "title": "Day 3 — Mang Den",
+      "body": "Dak Ke Lake. The fee is Check on arrival.",
+      "placeSlug": "mang-den",
+      "photo": "mang-den-dak-ke-lake"
+    },
+    {
+      "title": "Day 4 — Kon Pring",
+      "body": "Kon Pring is at least 60 minutes. The fee is Check on arrival.",
+      "placeSlug": "mang-den",
+      "photo": "mang-den-kon-pring-village",
+      "itinerarySlug": "mang-den-plateau-day"
+    }
+  ],
+  "seoTitle": "Kon Tum, Gia Lai, and Mang Den in 4 days",
+  "seoDescription": "Gia Lai, Kon Tum, and Mang Den. November to April. Road minutes are Check on arrival.",
+  "variant": "highlands-towns"
+}

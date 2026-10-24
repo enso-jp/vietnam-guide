@@ -1,0 +1,123 @@
+{
+  "slug": "hanoi-round-trip-14-days",
+  "title": "Fourteen days from Hanoi and back",
+  "kind": "trip",
+  "level": "nationwide",
+  "duration": "14 days",
+  "daysCount": 14,
+  "gateway": "hanoi",
+  "direction": "north-to-south",
+  "budget": "Midrange, with one domestic flight",
+  "pace": "North, then the coast, then the flight home",
+  "summary": "Hanoi, Sapa, Ha Long, Ninh Binh, Hue, and Hoi An, then fly back from Da Nang.",
+  "routeSlugs": [
+    "hanoi-to-sapa",
+    "hanoi-to-ha-long",
+    "hanoi-to-ninh-binh",
+    "hanoi-to-hue",
+    "hue-to-hoi-an",
+    "hanoi-to-da-nang"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — Hanoi",
+      "body": "Land and walk the Old Quarter.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "itinerarySlug": "hanoi-old-quarter-walk"
+    },
+    {
+      "title": "Day 2 — Night train",
+      "body": "Board the night train to Sa Pa.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi",
+      "routeSlug": "hanoi-to-sapa"
+    },
+    {
+      "title": "Day 3 — Sapa",
+      "body": "See the stone church and Cat Cat.",
+      "placeSlug": "sapa",
+      "photo": "sapa-cat-cat",
+      "itinerarySlug": "sapa-day"
+    },
+    {
+      "title": "Day 4 — Back to Hanoi",
+      "body": "Return to Hanoi.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem"
+    },
+    {
+      "title": "Day 5 — Ha Long",
+      "body": "Take a day boat.",
+      "placeSlug": "ha-long",
+      "photo": "ha-long-sung-sot",
+      "routeSlug": "hanoi-to-ha-long",
+      "itinerarySlug": "ha-long-day"
+    },
+    {
+      "title": "Day 6 — Ninh Binh",
+      "body": "Travel to Ninh Binh.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-trang-an",
+      "routeSlug": "hanoi-to-ninh-binh"
+    },
+    {
+      "title": "Day 7 — Trang An",
+      "body": "Take the Trang An boat.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-trang-an",
+      "itinerarySlug": "ninh-binh-day"
+    },
+    {
+      "title": "Day 8 — Hue",
+      "body": "Travel to Hue.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "routeSlug": "hanoi-to-hue"
+    },
+    {
+      "title": "Day 9 — Hue Citadel",
+      "body": "Visit the citadel.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "itinerarySlug": "hue-day"
+    },
+    {
+      "title": "Day 10 — Hue tombs",
+      "body": "Visit the tombs.",
+      "placeSlug": "hue",
+      "photo": "hue-minh-mang",
+      "itinerarySlug": "hue-tombs-half-day"
+    },
+    {
+      "title": "Day 11 — Hoi An",
+      "body": "Travel to Hoi An.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-japanese-bridge",
+      "routeSlug": "hue-to-hoi-an",
+      "itinerarySlug": "hoi-an-day"
+    },
+    {
+      "title": "Day 12 — Hoi An",
+      "body": "Stay in the old town.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-market"
+    },
+    {
+      "title": "Day 13 — Da Nang",
+      "body": "Move to Da Nang.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-my-khe",
+      "itinerarySlug": "da-nang-day"
+    },
+    {
+      "title": "Day 14 — Fly back",
+      "body": "Fly from Da Nang to Hanoi.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi",
+      "routeSlug": "hanoi-to-da-nang"
+    }
+  ],
+  "seoTitle": "Fourteen days from Hanoi and back",
+  "seoDescription": "Hanoi, Sapa, Ha Long, Ninh Binh, Hue, and Hoi An, then the flight back from Da Nang."
+}

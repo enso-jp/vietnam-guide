@@ -1,0 +1,47 @@
+{
+  "slug": "da-lat-4-days",
+  "title": "Da Lat in 4 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "4 days",
+  "daysCount": 4,
+  "corridor": "south-central-highlands",
+  "budget": "Midrange",
+  "pace": "The plateau",
+  "summary": "Four days on the plateau. December to March. Arrive on the Ho Chi Minh City to Da Lat page.",
+  "days": [
+    {
+      "title": "Day 1 — Xuan Huong",
+      "body": "Xuan Huong is 45–90 minutes and free.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-xuan-huong"
+    },
+    {
+      "title": "Day 2 — Datanla and Truc Lam",
+      "body": "Datanla is 1 hour minimum. Truc Lam is 1–2 hours.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-datanla",
+      "itinerarySlug": "datanla-truc-lam-half-day"
+    },
+    {
+      "title": "Day 3 — The villas",
+      "body": "Bao Dai, Crazy House, Domaine de Marie, and Linh Phuoc.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-bao-dai-palace",
+      "itinerarySlug": "da-lat-villas-half-day"
+    },
+    {
+      "title": "Day 4 — The market",
+      "body": "The market is 1 hour and free to enter.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-market-flowers",
+      "itinerarySlug": "da-lat-day"
+    }
+  ],
+  "seoTitle": "Da Lat in 4 days",
+  "seoDescription": "Four days on the plateau. December to March. Arrive on the Ho Chi Minh City to Da Lat page.",
+  "variant": "da-lat",
+  "routeSlugs": [
+    "ho-chi-minh-city-to-da-lat"
+  ]
+}

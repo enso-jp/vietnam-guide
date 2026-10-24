@@ -1,0 +1,37 @@
+{
+  "slug": "my-son-morning",
+  "title": "My Son morning",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "hoi-an",
+  "budget": "Check on arrival",
+  "pace": "The valley",
+  "photo": "my-son-towers-2",
+  "summary": "A morning at the My Son towers from Hoi An. A non-resident adult is 150,000 VND, and that ticket covers the museum and the daytime performance.",
+  "stops": [
+    {
+      "name": "My Son towers",
+      "minutes": "Check on arrival",
+      "note": "A morning. A non-resident adult is 150,000 VND.",
+      "placeSlug": "my-son",
+      "attractionSlug": "towers"
+    },
+    {
+      "name": "My Son museum",
+      "minutes": "Check on arrival",
+      "note": "A short stop before the cart. Covered by the valley ticket.",
+      "placeSlug": "my-son",
+      "attractionSlug": "museum"
+    },
+    {
+      "name": "Performances",
+      "minutes": "Check on arrival",
+      "note": "One daytime slot. Covered by the valley ticket.",
+      "placeSlug": "my-son",
+      "attractionSlug": "performances"
+    }
+  ],
+  "seoTitle": "My Son morning",
+  "seoDescription": "A morning at the My Son towers from Hoi An. A non-resident adult is 150,000 VND, and that ticket covers the museum and the daytime performance."
+}

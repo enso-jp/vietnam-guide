@@ -1,0 +1,67 @@
+{
+  "slug": "south-central-coast-road-7-days",
+  "title": "South-central coast road in 7 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "7 days",
+  "daysCount": 7,
+  "corridor": "south-central-highlands",
+  "budget": "Midrange",
+  "pace": "The coast road",
+  "summary": "Da Nang, Quang Ngai, Quy Nhon, Tuy Hoa, and Nha Trang. January to August. Some road minutes are Check on arrival.",
+  "days": [
+    {
+      "title": "Day 1 — Da Nang",
+      "body": "Start in Da Nang.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-my-khe",
+      "itinerarySlug": "da-nang-day"
+    },
+    {
+      "title": "Day 2 — Quang Ngai",
+      "body": "Son My is a morning, not a five-minute photo stop. The fee is Check on arrival.",
+      "placeSlug": "quang-ngai",
+      "photo": "quang-ngai-son-my",
+      "itinerarySlug": "quang-ngai-day"
+    },
+    {
+      "title": "Day 3 — Quy Nhon",
+      "body": "Ky Co is about an hour. The posted range is 30,000–60,000 đồng.",
+      "placeSlug": "quy-nhon",
+      "photo": "quy-nhon-ky-co"
+    },
+    {
+      "title": "Day 4 — Eo Gio",
+      "body": "Eo Gio is about 30 minutes. The ticket is 25,000 đồng.",
+      "placeSlug": "quy-nhon",
+      "photo": "quy-nhon-eo-gio",
+      "itinerarySlug": "quy-nhon-two-days"
+    },
+    {
+      "title": "Day 5 — Tuy Hoa",
+      "body": "Da Rang from the bank or the bridge. A clock was not printed.",
+      "placeSlug": "tuy-hoa",
+      "photo": "tuy-hoa-da-rang",
+      "itinerarySlug": "tuy-hoa-day"
+    },
+    {
+      "title": "Day 6 — Nha Trang",
+      "body": "Travel to Nha Trang.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang-po-nagar"
+    },
+    {
+      "title": "Day 7 — Po Nagar",
+      "body": "Po Nagar is a morning. The adult ticket is 22,000 VND.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang-po-nagar",
+      "itinerarySlug": "nha-trang-day"
+    }
+  ],
+  "seoTitle": "South-central coast road in 7 days",
+  "seoDescription": "Da Nang, Quang Ngai, Quy Nhon, Tuy Hoa, and Nha Trang. January to August. Some road minutes are Check on arrival.",
+  "variant": "coast-road",
+  "routeSlugs": [
+    "da-nang-to-hoi-an"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "my-tho-ben-tre-day-from-saigon",
+  "title": "My Tho and Ben Tre day from Saigon",
+  "kind": "trip",
+  "level": "day",
+  "duration": "1 day",
+  "spanDays": 1,
+  "placeSlug": "ho-chi-minh-city",
+  "budget": "Check on arrival",
+  "pace": "The river day",
+  "photo": "my-tho-vinh-trang",
+  "summary": "A river day from Ho Chi Minh City: Vinh Trang, then Con Phung and Con Quy. Vinh Trang is 120 minutes and free.",
+  "stops": [
+    {
+      "name": "Vinh Trang",
+      "minutes": 120,
+      "note": "120 minutes and free.",
+      "placeSlug": "my-tho",
+      "attractionSlug": "vinh-trang"
+    },
+    {
+      "name": "Con Phung",
+      "minutes": "Check on arrival",
+      "note": "A river day. The fee is Check on arrival.",
+      "placeSlug": "ben-tre",
+      "attractionSlug": "con-phung"
+    },
+    {
+      "name": "Con Quy",
+      "minutes": "Check on arrival",
+      "note": "A stop on the river day. The fee is Check on arrival.",
+      "placeSlug": "ben-tre",
+      "attractionSlug": "con-quy"
+    }
+  ],
+  "seoTitle": "My Tho and Ben Tre day from Saigon",
+  "seoDescription": "A river day from Ho Chi Minh City: Vinh Trang, then Con Phung and Con Quy. Vinh Trang is 120 minutes and free."
+}

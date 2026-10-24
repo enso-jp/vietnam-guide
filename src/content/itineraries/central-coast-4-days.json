@@ -1,0 +1,50 @@
+{
+  "slug": "central-coast-4-days",
+  "title": "Central coast in 4 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "4 days",
+  "daysCount": 4,
+  "corridor": "south-central-highlands",
+  "budget": "Midrange",
+  "pace": "Citadel, old town, then the hills",
+  "summary": "Hue, Hoi An, and Da Nang. February to August. Tagged on the south-central corridor the same way as the five-day central card.",
+  "days": [
+    {
+      "title": "Day 1 — Hue Citadel",
+      "body": "Visit the citadel.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "itinerarySlug": "hue-day"
+    },
+    {
+      "title": "Day 2 — Thien Mu",
+      "body": "Thien Mu. The fee is Check on arrival.",
+      "placeSlug": "hue",
+      "photo": "hue-thien-mu"
+    },
+    {
+      "title": "Day 3 — Hoi An",
+      "body": "Travel to Hoi An and walk from the Japanese Covered Bridge.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-japanese-bridge",
+      "routeSlug": "hue-to-hoi-an",
+      "itinerarySlug": "hoi-an-day"
+    },
+    {
+      "title": "Day 4 — Da Nang",
+      "body": "Marble Mountains. The adult ticket is 40,000 VND.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-marble-mountains",
+      "routeSlug": "da-nang-to-hoi-an",
+      "itinerarySlug": "da-nang-day"
+    }
+  ],
+  "seoTitle": "Central coast in 4 days",
+  "seoDescription": "Hue, Hoi An, and Da Nang. February to August. Tagged on the south-central corridor the same way as the five-day central card.",
+  "variant": "central-coast",
+  "routeSlugs": [
+    "hue-to-hoi-an",
+    "da-nang-to-hoi-an"
+  ]
+}

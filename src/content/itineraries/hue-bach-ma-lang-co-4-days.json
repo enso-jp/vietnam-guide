@@ -1,0 +1,51 @@
+{
+  "slug": "hue-bach-ma-lang-co-4-days",
+  "title": "Hue, Bach Ma, and Lang Co in 4 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "4 days",
+  "daysCount": 4,
+  "corridor": "north-central",
+  "budget": "Midrange",
+  "pace": "Citadel, then the pass",
+  "summary": "Hue, Bach Ma, and Lang Co. Summer for the swim.",
+  "days": [
+    {
+      "title": "Day 1 — Hue Citadel",
+      "body": "Visit the citadel.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "itinerarySlug": "hue-day"
+    },
+    {
+      "title": "Day 2 — Khai Dinh",
+      "body": "Visit Khai Dinh. The adult tomb ticket is 150,000 VND.",
+      "placeSlug": "hue",
+      "photo": "hue-khai-dinh",
+      "itinerarySlug": "hue-tombs-half-day"
+    },
+    {
+      "title": "Day 3 — Bach Ma",
+      "body": "The summit villas are the night. The fee is Check on arrival.",
+      "placeSlug": "bach-ma",
+      "photo": "bach-ma-summit-villas",
+      "routeSlug": "hue-to-bach-ma",
+      "itinerarySlug": "bach-ma-summit-day"
+    },
+    {
+      "title": "Day 4 — Lang Co",
+      "body": "Lang Co Beach is a swim and a walk. Hai Van Gate is 70,000 VND.",
+      "placeSlug": "lang-co",
+      "photo": "lang-co-lang-co-beach",
+      "routeSlug": "hue-to-lang-co",
+      "itinerarySlug": "lang-co-day"
+    }
+  ],
+  "seoTitle": "Hue, Bach Ma, and Lang Co in 4 days",
+  "seoDescription": "Hue, Bach Ma, and Lang Co. Summer for the swim.",
+  "variant": "bach-ma-lang-co",
+  "routeSlugs": [
+    "hue-to-bach-ma",
+    "hue-to-lang-co"
+  ]
+}

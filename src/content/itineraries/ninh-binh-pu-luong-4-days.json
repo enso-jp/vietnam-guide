@@ -1,0 +1,50 @@
+{
+  "slug": "ninh-binh-pu-luong-4-days",
+  "title": "Ninh Binh and Pu Luong in 4 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "4 days",
+  "daysCount": 4,
+  "corridor": "red-river-delta",
+  "budget": "Midrange",
+  "pace": "Karst, then the terraces",
+  "summary": "Hanoi, Ninh Binh, and Pu Luong. Late May to June and September to October rice. Pu Luong is a morning on the terraces.",
+  "days": [
+    {
+      "title": "Day 1 — Hanoi",
+      "body": "Land and walk Hoan Kiem Lake.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "itinerarySlug": "hanoi-day"
+    },
+    {
+      "title": "Day 2 — Ninh Binh",
+      "body": "Take the Trang An boat.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-trang-an",
+      "routeSlug": "hanoi-to-ninh-binh",
+      "itinerarySlug": "ninh-binh-day"
+    },
+    {
+      "title": "Day 3 — Pu Luong",
+      "body": "The terraces are a morning. The fee is Check on arrival.",
+      "placeSlug": "pu-luong",
+      "photo": "pu-luong-valley-terraces",
+      "routeSlug": "ninh-binh-to-pu-luong",
+      "itinerarySlug": "pu-luong-valley-night"
+    },
+    {
+      "title": "Day 4 — Back",
+      "body": "Return toward Hanoi. The minutes are Check on arrival.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi"
+    }
+  ],
+  "seoTitle": "Ninh Binh and Pu Luong in 4 days",
+  "seoDescription": "Hanoi, Ninh Binh, and Pu Luong. Late May to June and September to October rice. Pu Luong is a morning on the terraces.",
+  "variant": "pu-luong",
+  "routeSlugs": [
+    "hanoi-to-ninh-binh",
+    "ninh-binh-to-pu-luong"
+  ]
+}

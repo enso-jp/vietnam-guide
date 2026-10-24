@@ -1,0 +1,47 @@
+{
+  "slug": "nha-trang-4-days",
+  "title": "Nha Trang in 4 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "4 days",
+  "daysCount": 4,
+  "corridor": "south-central-highlands",
+  "budget": "Midrange",
+  "pace": "One boat, then the towers",
+  "summary": "Four days in Nha Trang. January to August. Hon Mun is a boat day. Hon Tre is a day on the island. Do not do both on one boat.",
+  "days": [
+    {
+      "title": "Day 1 — The beach",
+      "body": "Arrive and stay on the sand.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang"
+    },
+    {
+      "title": "Day 2 — One boat",
+      "body": "Hon Mun is a boat day, or Hon Tre is a day on the island. Fees are Check on arrival.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang-hon-mun",
+      "itinerarySlug": "nha-trang-islands-day"
+    },
+    {
+      "title": "Day 3 — Po Nagar",
+      "body": "Po Nagar is a morning. The adult ticket is 22,000 VND.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang-po-nagar",
+      "itinerarySlug": "po-nagar-half-day"
+    },
+    {
+      "title": "Day 4 — Long Son",
+      "body": "Long Son is a daylight climb. The fee is Check on arrival.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang-long-son",
+      "itinerarySlug": "nha-trang-two-days"
+    }
+  ],
+  "seoTitle": "Nha Trang in 4 days",
+  "seoDescription": "Four days in Nha Trang. January to August. Hon Mun is a boat day. Hon Tre is a day on the island. Do not do both on one boat.",
+  "variant": "nha-trang",
+  "routeSlugs": [
+    "nha-trang-to-da-lat"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "central-coast-7-days",
+  "title": "Central coast in 7 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "7 days",
+  "daysCount": 7,
+  "corridor": "south-central-highlands",
+  "budget": "Midrange",
+  "pace": "Caves, then the old town",
+  "summary": "Hue, Phong Nha, Hoi An, My Son, and Da Nang. February to August.",
+  "days": [
+    {
+      "title": "Day 1 — Hue",
+      "body": "Visit the citadel.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "itinerarySlug": "hue-day"
+    },
+    {
+      "title": "Day 2 — Phong Nha",
+      "body": "Travel toward Phong Nha.",
+      "placeSlug": "phong-nha",
+      "photo": "phong-nha-paradise-cave",
+      "routeSlug": "hue-to-dong-hoi"
+    },
+    {
+      "title": "Day 3 — Paradise Cave",
+      "body": "Visit Paradise Cave.",
+      "placeSlug": "phong-nha",
+      "photo": "phong-nha-paradise-cave",
+      "routeSlug": "dong-hoi-to-phong-nha",
+      "itinerarySlug": "phong-nha-day"
+    },
+    {
+      "title": "Day 4 — Hue tombs",
+      "body": "Return to Hue and visit Khai Dinh.",
+      "placeSlug": "hue",
+      "photo": "hue-khai-dinh",
+      "routeSlug": "hue-to-dong-hoi"
+    },
+    {
+      "title": "Day 5 — Hoi An",
+      "body": "Travel to Hoi An.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-tan-ky",
+      "routeSlug": "hue-to-hoi-an",
+      "itinerarySlug": "hoi-an-day"
+    },
+    {
+      "title": "Day 6 — My Son",
+      "body": "Visit the towers. A non-resident adult is 150,000 VND.",
+      "placeSlug": "my-son",
+      "photo": "my-son-towers-2",
+      "routeSlug": "hoi-an-to-my-son"
+    },
+    {
+      "title": "Day 7 — Da Nang",
+      "body": "Son Tra is half a day with the ride.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-son-tra",
+      "routeSlug": "da-nang-to-hoi-an",
+      "itinerarySlug": "da-nang-day"
+    }
+  ],
+  "seoTitle": "Central coast in 7 days",
+  "seoDescription": "Hue, Phong Nha, Hoi An, My Son, and Da Nang. February to August.",
+  "variant": "central-coast",
+  "routeSlugs": [
+    "hue-to-dong-hoi",
+    "dong-hoi-to-phong-nha",
+    "hue-to-hoi-an",
+    "hoi-an-to-my-son",
+    "da-nang-to-hoi-an"
+  ]
+}

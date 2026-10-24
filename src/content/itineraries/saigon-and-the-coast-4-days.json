@@ -1,0 +1,50 @@
+{
+  "slug": "saigon-and-the-coast-4-days",
+  "title": "Saigon and the coast in 4 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "4 days",
+  "daysCount": 4,
+  "corridor": "southeast",
+  "budget": "Midrange",
+  "pace": "Mangrove, then the beach",
+  "summary": "Ho Chi Minh City, Can Gio, and Vung Tau. Dry mornings.",
+  "days": [
+    {
+      "title": "Day 1 — Ho Chi Minh City",
+      "body": "Walk the center.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-ben-thanh",
+      "itinerarySlug": "ho-chi-minh-city-day"
+    },
+    {
+      "title": "Day 2 — Can Gio",
+      "body": "Vam Sat is a half day at the gate, 60,000 VND road gate.",
+      "placeSlug": "can-gio",
+      "photo": "can-gio-vam-sat",
+      "routeSlug": "ho-chi-minh-city-to-can-gio",
+      "itinerarySlug": "can-gio-day"
+    },
+    {
+      "title": "Day 3 — Vung Tau",
+      "body": "Travel to Vung Tau.",
+      "placeSlug": "vung-tau",
+      "photo": "vung-tau-christ-statue",
+      "routeSlug": "ho-chi-minh-city-to-vung-tau"
+    },
+    {
+      "title": "Day 4 — Back Beach",
+      "body": "Back Beach is a morning to a full day and free.",
+      "placeSlug": "vung-tau",
+      "photo": "vung-tau-back-beach",
+      "itinerarySlug": "vung-tau-day"
+    }
+  ],
+  "seoTitle": "Saigon and the coast in 4 days",
+  "seoDescription": "Ho Chi Minh City, Can Gio, and Vung Tau. Dry mornings.",
+  "variant": "coast",
+  "routeSlugs": [
+    "ho-chi-minh-city-to-can-gio",
+    "ho-chi-minh-city-to-vung-tau"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "first-week-7-days",
+  "title": "A first week in Vietnam",
+  "kind": "trip",
+  "level": "nationwide",
+  "duration": "7 days",
+  "daysCount": 7,
+  "gateway": "hanoi",
+  "direction": "north-to-south",
+  "budget": "Midrange",
+  "pace": "One landscape, then the coast",
+  "summary": "Hanoi, a Ha Long day boat, Hue, and Hoi An. Out of Da Nang.",
+  "routeSlugs": [
+    "hanoi-to-ha-long",
+    "hanoi-to-hue",
+    "hue-to-hoi-an",
+    "da-nang-to-hoi-an"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — Old Quarter",
+      "body": "Land in Hanoi and walk the Old Quarter.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "itinerarySlug": "hanoi-old-quarter-walk"
+    },
+    {
+      "title": "Day 2 — Lake and citadel",
+      "body": "Walk Hoan Kiem Lake and the citadel.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-citadel",
+      "itinerarySlug": "hanoi-day"
+    },
+    {
+      "title": "Day 3 — Ha Long",
+      "body": "Take a day boat. Route 2 clocks Ti Top, Sung Sot, and Luon at 5–6 hours.",
+      "placeSlug": "ha-long",
+      "photo": "ha-long-titop",
+      "routeSlug": "hanoi-to-ha-long",
+      "itinerarySlug": "ha-long-day"
+    },
+    {
+      "title": "Day 4 — Hue",
+      "body": "Travel to Hue.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "routeSlug": "hanoi-to-hue"
+    },
+    {
+      "title": "Day 5 — Hue Citadel",
+      "body": "Visit the citadel on the 200,000 VND adult ticket.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "itinerarySlug": "hue-day"
+    },
+    {
+      "title": "Day 6 — Hoi An",
+      "body": "Travel to Hoi An and walk from the Japanese Covered Bridge.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-japanese-bridge",
+      "routeSlug": "hue-to-hoi-an",
+      "itinerarySlug": "hoi-an-day"
+    },
+    {
+      "title": "Day 7 — Leave Da Nang",
+      "body": "Keep the morning in Hoi An and leave from Da Nang.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-marble-mountains",
+      "itinerarySlug": "da-nang-day"
+    }
+  ],
+  "seoTitle": "Vietnam in 7 days from Hanoi",
+  "seoDescription": "Hanoi, a Ha Long day boat, Hue, and Hoi An in seven days, out of Da Nang."
+}

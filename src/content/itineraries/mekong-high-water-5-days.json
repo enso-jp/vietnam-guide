@@ -1,0 +1,56 @@
+{
+  "slug": "mekong-high-water-5-days",
+  "title": "Mekong high water in 5 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "5 days",
+  "daysCount": 5,
+  "corridor": "mekong-delta",
+  "budget": "Midrange",
+  "pace": "High water",
+  "summary": "Ho Chi Minh City, Can Tho, and Chau Doc in September to November.",
+  "days": [
+    {
+      "title": "Day 1 — Ho Chi Minh City",
+      "body": "Land and walk the center.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-ben-thanh",
+      "itinerarySlug": "ho-chi-minh-city-day"
+    },
+    {
+      "title": "Day 2 — Can Tho",
+      "body": "Travel to Can Tho.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-ninh-kieu",
+      "routeSlug": "ho-chi-minh-city-to-mekong"
+    },
+    {
+      "title": "Day 3 — Cai Rang",
+      "body": "Be at Cai Rang at dawn.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-cai-rang",
+      "itinerarySlug": "can-tho-day"
+    },
+    {
+      "title": "Day 4 — Chau Doc",
+      "body": "Travel to Chau Doc.",
+      "placeSlug": "chau-doc",
+      "photo": "chau-doc-tra-su",
+      "routeSlug": "can-tho-to-chau-doc"
+    },
+    {
+      "title": "Day 5 — Tra Su",
+      "body": "Tra Su is half a day from town, 120,000 VND at the gate.",
+      "placeSlug": "chau-doc",
+      "photo": "chau-doc-tra-su",
+      "itinerarySlug": "chau-doc-tra-su"
+    }
+  ],
+  "seoTitle": "Mekong high water in 5 days",
+  "seoDescription": "Ho Chi Minh City, Can Tho, and Chau Doc in September to November.",
+  "variant": "high-water",
+  "routeSlugs": [
+    "ho-chi-minh-city-to-mekong",
+    "can-tho-to-chau-doc"
+  ]
+}

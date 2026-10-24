@@ -1,0 +1,44 @@
+{
+  "slug": "hanoi-food-evening",
+  "title": "Hanoi food evening",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "hanoi",
+  "budget": "Check on arrival",
+  "pace": "The evening bowls",
+  "photo": "hanoi-water-puppets",
+  "summary": "Pho, bun cha, cha ca, and the water puppets. The puppet fee is Check on arrival.",
+  "stops": [
+    {
+      "name": "Pho",
+      "minutes": "Check on arrival",
+      "note": "The morning bowl in the Hoan Kiem lanes, including Hang Vai.",
+      "placeSlug": "hanoi",
+      "dishSlug": "pho"
+    },
+    {
+      "name": "Bun cha",
+      "minutes": "Check on arrival",
+      "note": "Lunch around Cua Dong.",
+      "placeSlug": "hanoi",
+      "dishSlug": "bun-cha"
+    },
+    {
+      "name": "Cha ca",
+      "minutes": "Check on arrival",
+      "note": "Finished at the table on Duong Thanh, with spring onion and dill.",
+      "placeSlug": "hanoi",
+      "dishSlug": "cha-ca"
+    },
+    {
+      "name": "Water puppets",
+      "minutes": "Check on arrival",
+      "note": "The fee is Check on arrival.",
+      "placeSlug": "hanoi",
+      "attractionSlug": "water-puppets"
+    }
+  ],
+  "seoTitle": "Hanoi food evening",
+  "seoDescription": "Pho, bun cha, cha ca, and the water puppets. The puppet fee is Check on arrival."
+}

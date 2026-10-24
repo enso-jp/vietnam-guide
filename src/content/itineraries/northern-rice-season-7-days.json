@@ -1,0 +1,69 @@
+{
+  "slug": "northern-rice-season-7-days",
+  "title": "Northern rice season in 7 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "7 days",
+  "daysCount": 7,
+  "corridor": "northern-midlands",
+  "budget": "Midrange",
+  "pace": "Gold rice",
+  "summary": "Hanoi, Mai Chau, Sapa, and Ha Giang in the gold rice window, late August to October. Buckwheat is October to November.",
+  "days": [
+    {
+      "title": "Day 1 — Mai Chau",
+      "body": "Travel from Hanoi to Mai Chau.",
+      "placeSlug": "mai-chau",
+      "photo": "mai-chau-lac",
+      "routeSlug": "hanoi-to-mai-chau",
+      "itinerarySlug": "mai-chau-valley-night"
+    },
+    {
+      "title": "Day 2 — The valley",
+      "body": "Lac and Hang Kia Pa Co.",
+      "placeSlug": "mai-chau",
+      "photo": "mai-chau-hang-kia-pa-co"
+    },
+    {
+      "title": "Day 3 — Sapa",
+      "body": "Travel toward Sapa. Use the Hanoi to Sapa page if you double back.",
+      "placeSlug": "sapa",
+      "photo": "sapa-cat-cat"
+    },
+    {
+      "title": "Day 4 — Cat Cat",
+      "body": "Walk Cat Cat. The walk length is Check on arrival.",
+      "placeSlug": "sapa",
+      "photo": "sapa-cat-cat",
+      "itinerarySlug": "cat-cat-half-day"
+    },
+    {
+      "title": "Day 5 — Ha Giang",
+      "body": "Travel toward Ha Giang. The Sapa to Ha Giang minutes are Check on arrival.",
+      "placeSlug": "ha-giang",
+      "photo": "ha-giang-ma-pi-leng"
+    },
+    {
+      "title": "Day 6 — Ma Pi Leng",
+      "body": "Ma Pi Leng is most of a morning with the stops.",
+      "placeSlug": "ha-giang",
+      "photo": "ha-giang-ma-pi-leng",
+      "itinerarySlug": "ha-giang-pass"
+    },
+    {
+      "title": "Day 7 — Hanoi",
+      "body": "Return to Hanoi.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi",
+      "routeSlug": "hanoi-to-ha-giang"
+    }
+  ],
+  "seoTitle": "Northern rice season in 7 days",
+  "seoDescription": "Hanoi, Mai Chau, Sapa, and Ha Giang in the gold rice window, late August to October. Buckwheat is October to November.",
+  "variant": "rice",
+  "routeSlugs": [
+    "hanoi-to-mai-chau",
+    "hanoi-to-sapa",
+    "hanoi-to-ha-giang"
+  ]
+}

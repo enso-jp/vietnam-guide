@@ -1,0 +1,73 @@
+{
+  "slug": "best-of-north-central-7-days",
+  "title": "Best of the North Central Coast in 7 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "7 days",
+  "daysCount": 7,
+  "corridor": "north-central",
+  "budget": "Midrange",
+  "pace": "Coast and caves",
+  "summary": "Vinh, Dong Hoi, Phong Nha, Hue, Bach Ma, and Lang Co. February to August.",
+  "days": [
+    {
+      "title": "Day 1 — Vinh",
+      "body": "Cua Lo is a beach day. The fee is Check on arrival.",
+      "placeSlug": "vinh",
+      "photo": "vinh-cua-lo-beach",
+      "itinerarySlug": "vinh-day"
+    },
+    {
+      "title": "Day 2 — Dong Hoi",
+      "body": "Travel to Dong Hoi. The minutes are Check on arrival.",
+      "placeSlug": "dong-hoi",
+      "photo": "dong-hoi-nhat-le-beach",
+      "itinerarySlug": "dong-hoi-day"
+    },
+    {
+      "title": "Day 3 — Phong Nha",
+      "body": "Visit Paradise Cave.",
+      "placeSlug": "phong-nha",
+      "photo": "phong-nha-paradise-cave",
+      "routeSlug": "dong-hoi-to-phong-nha",
+      "itinerarySlug": "phong-nha-day"
+    },
+    {
+      "title": "Day 4 — Hue",
+      "body": "Travel to Hue.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "routeSlug": "hue-to-dong-hoi"
+    },
+    {
+      "title": "Day 5 — Hue Citadel",
+      "body": "Visit the citadel.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "itinerarySlug": "hue-day"
+    },
+    {
+      "title": "Day 6 — Bach Ma",
+      "body": "The summit villas are the night.",
+      "placeSlug": "bach-ma",
+      "photo": "bach-ma-summit-villas",
+      "routeSlug": "hue-to-bach-ma"
+    },
+    {
+      "title": "Day 7 — Lang Co",
+      "body": "Lap An and the beach.",
+      "placeSlug": "lang-co",
+      "photo": "lang-co-lang-co-beach",
+      "routeSlug": "hue-to-lang-co",
+      "itinerarySlug": "lang-co-day"
+    }
+  ],
+  "seoTitle": "Best of the North Central Coast in 7 days",
+  "seoDescription": "Vinh, Dong Hoi, Phong Nha, Hue, Bach Ma, and Lang Co. February to August.",
+  "routeSlugs": [
+    "dong-hoi-to-phong-nha",
+    "hue-to-dong-hoi",
+    "hue-to-bach-ma",
+    "hue-to-lang-co"
+  ]
+}

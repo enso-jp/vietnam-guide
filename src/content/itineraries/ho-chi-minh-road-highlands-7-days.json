@@ -1,0 +1,69 @@
+{
+  "slug": "ho-chi-minh-road-highlands-7-days",
+  "title": "Ho Chi Minh Road highlands in 7 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "7 days",
+  "daysCount": 7,
+  "corridor": "south-central-highlands",
+  "budget": "Midrange",
+  "pace": "The highland road",
+  "summary": "Da Nang, Kon Tum, Gia Lai, Buon Ma Thuot, Dak Nong, and Da Lat. Road minutes are Check on arrival. No rental prices.",
+  "days": [
+    {
+      "title": "Day 1 — Da Nang",
+      "body": "Start in Da Nang.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang",
+      "itinerarySlug": "da-nang-day"
+    },
+    {
+      "title": "Day 2 — Kon Tum",
+      "body": "The wooden church. The fee is Check on arrival.",
+      "placeSlug": "kon-tum",
+      "photo": "kon-tum-wooden-church",
+      "itinerarySlug": "kon-tum-day"
+    },
+    {
+      "title": "Day 3 — Gia Lai",
+      "body": "Bien Ho. The fee is Check on arrival.",
+      "placeSlug": "gia-lai",
+      "photo": "gia-lai-bien-ho",
+      "itinerarySlug": "gia-lai-day"
+    },
+    {
+      "title": "Day 4 — Buon Ma Thuot",
+      "body": "Dray Nur is a half day.",
+      "placeSlug": "buon-ma-thuot",
+      "photo": "buon-ma-thuot-dray-nur",
+      "itinerarySlug": "buon-ma-thuot-day"
+    },
+    {
+      "title": "Day 5 — Dak Nong",
+      "body": "Dray Sap. The fee is Check on arrival.",
+      "placeSlug": "dak-nong",
+      "photo": "dak-nong-dray-sap",
+      "itinerarySlug": "dak-nong-two-days"
+    },
+    {
+      "title": "Day 6 — Da Lat",
+      "body": "Travel to Da Lat.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-xuan-huong",
+      "routeSlug": "da-nang-to-da-lat"
+    },
+    {
+      "title": "Day 7 — Da Lat",
+      "body": "Keep the last morning on the plateau.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-datanla",
+      "itinerarySlug": "da-lat-day"
+    }
+  ],
+  "seoTitle": "Ho Chi Minh Road highlands in 7 days",
+  "seoDescription": "Da Nang, Kon Tum, Gia Lai, Buon Ma Thuot, Dak Nong, and Da Lat. Road minutes are Check on arrival. No rental prices.",
+  "variant": "ho-chi-minh-road",
+  "routeSlugs": [
+    "da-nang-to-da-lat"
+  ]
+}

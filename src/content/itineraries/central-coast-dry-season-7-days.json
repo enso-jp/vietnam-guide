@@ -1,0 +1,76 @@
+{
+  "slug": "central-coast-dry-season-7-days",
+  "title": "Central coast dry season in 7 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "7 days",
+  "daysCount": 7,
+  "corridor": "south-central-highlands",
+  "budget": "Midrange",
+  "pace": "Dry-season coast",
+  "summary": "Hue, Phong Nha, Hoi An, the Cham Islands, and Da Nang. February to August. Da Nang fireworks nights are printed for 2026 only.",
+  "days": [
+    {
+      "title": "Day 1 — Hue",
+      "body": "Visit the citadel.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "itinerarySlug": "hue-day"
+    },
+    {
+      "title": "Day 2 — Phong Nha",
+      "body": "Visit Paradise Cave.",
+      "placeSlug": "phong-nha",
+      "photo": "phong-nha-paradise-cave",
+      "routeSlug": "hue-to-dong-hoi",
+      "itinerarySlug": "phong-nha-day"
+    },
+    {
+      "title": "Day 3 — Back to Hue",
+      "body": "Return to Hue.",
+      "placeSlug": "hue",
+      "photo": "hue-minh-mang",
+      "routeSlug": "dong-hoi-to-phong-nha"
+    },
+    {
+      "title": "Day 4 — Hoi An",
+      "body": "Travel to Hoi An.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-japanese-bridge",
+      "routeSlug": "hue-to-hoi-an",
+      "itinerarySlug": "hoi-an-day"
+    },
+    {
+      "title": "Day 5 — Cham Islands",
+      "body": "The reserve ticket is 70,000 VND per person per visit.",
+      "placeSlug": "cham-islands",
+      "photo": "cham-islands-cu-lao-cham-reserve",
+      "routeSlug": "hoi-an-to-cham-islands",
+      "itinerarySlug": "cham-islands-day"
+    },
+    {
+      "title": "Day 6 — Da Nang",
+      "body": "My Khe is half a day and free to swim.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-my-khe",
+      "routeSlug": "da-nang-to-hoi-an",
+      "itinerarySlug": "da-nang-day"
+    },
+    {
+      "title": "Day 7 — Leave Da Nang",
+      "body": "Keep the morning on the beach.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-my-khe"
+    }
+  ],
+  "seoTitle": "Central coast dry season in 7 days",
+  "seoDescription": "Hue, Phong Nha, Hoi An, the Cham Islands, and Da Nang. February to August. Da Nang fireworks nights are printed for 2026 only.",
+  "variant": "dry-season",
+  "routeSlugs": [
+    "hue-to-dong-hoi",
+    "dong-hoi-to-phong-nha",
+    "hue-to-hoi-an",
+    "hoi-an-to-cham-islands",
+    "da-nang-to-hoi-an"
+  ]
+}

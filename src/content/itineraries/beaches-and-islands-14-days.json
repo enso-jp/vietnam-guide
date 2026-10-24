@@ -1,0 +1,116 @@
+{
+  "slug": "beaches-and-islands-14-days",
+  "title": "Beaches and islands in 14 days",
+  "kind": "trip",
+  "level": "nationwide",
+  "duration": "14 days",
+  "daysCount": 14,
+  "gateway": "da-nang",
+  "direction": "out-of-da-nang",
+  "budget": "Midrange",
+  "pace": "The coast, then Phu Quoc",
+  "summary": "Da Nang, Hoi An, the Cham Islands, Quy Nhon, Nha Trang, and Phu Quoc. Some coastal minutes are Check on arrival.",
+  "routeSlugs": [
+    "da-nang-to-hoi-an",
+    "hoi-an-to-cham-islands",
+    "ho-chi-minh-city-to-da-nang",
+    "ho-chi-minh-city-to-phu-quoc"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — My Khe",
+      "body": "My Khe is half a day and free to swim.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-my-khe",
+      "itinerarySlug": "da-nang-day"
+    },
+    {
+      "title": "Day 2 — Hoi An",
+      "body": "Travel to Hoi An.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-an-bang",
+      "routeSlug": "da-nang-to-hoi-an"
+    },
+    {
+      "title": "Day 3 — An Bang",
+      "body": "An Bang is half a day.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-an-bang",
+      "itinerarySlug": "an-bang-half-day"
+    },
+    {
+      "title": "Day 4 — Cham Islands",
+      "body": "Hai Tang is a short walk from the landing, 70,000 VND per person per visit.",
+      "placeSlug": "cham-islands",
+      "photo": "cham-islands-hai-tang",
+      "routeSlug": "hoi-an-to-cham-islands",
+      "itinerarySlug": "cham-islands-day"
+    },
+    {
+      "title": "Day 5 — Toward Quy Nhon",
+      "body": "Travel toward Quy Nhon. The minutes are Check on arrival.",
+      "placeSlug": "quy-nhon",
+      "photo": "quy-nhon-ky-co"
+    },
+    {
+      "title": "Day 6 — Ky Co",
+      "body": "Ky Co is about an hour.",
+      "placeSlug": "quy-nhon",
+      "photo": "quy-nhon-ky-co"
+    },
+    {
+      "title": "Day 7 — Eo Gio",
+      "body": "Eo Gio is about 30 minutes, 25,000 đồng.",
+      "placeSlug": "quy-nhon",
+      "photo": "quy-nhon-eo-gio"
+    },
+    {
+      "title": "Day 8 — Toward Nha Trang",
+      "body": "Travel toward Nha Trang. The minutes are Check on arrival.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang-hon-mun"
+    },
+    {
+      "title": "Day 9 — Hon Mun",
+      "body": "Hon Mun is a boat day. The fee is Check on arrival.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang-hon-mun",
+      "itinerarySlug": "nha-trang-islands-day"
+    },
+    {
+      "title": "Day 10 — Nha Trang",
+      "body": "Stay on the sand.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang"
+    },
+    {
+      "title": "Day 11 — Fly via Ho Chi Minh City",
+      "body": "Fly toward Phu Quoc.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city",
+      "routeSlug": "ho-chi-minh-city-to-da-nang"
+    },
+    {
+      "title": "Day 12 — Phu Quoc",
+      "body": "Fly on to Phu Quoc.",
+      "placeSlug": "phu-quoc",
+      "photo": "phu-quoc-long-beach",
+      "routeSlug": "ho-chi-minh-city-to-phu-quoc"
+    },
+    {
+      "title": "Day 13 — Sao",
+      "body": "Sao is half a day and free.",
+      "placeSlug": "phu-quoc",
+      "photo": "phu-quoc-sao",
+      "itinerarySlug": "phu-quoc-day"
+    },
+    {
+      "title": "Day 14 — Leave Phu Quoc",
+      "body": "Fly home.",
+      "placeSlug": "phu-quoc",
+      "photo": "phu-quoc"
+    }
+  ],
+  "seoTitle": "Beaches and islands in 14 days",
+  "seoDescription": "Da Nang to Phu Quoc in 14 days, with Hoi An, the Cham Islands, Quy Nhon, and Nha Trang."
+}

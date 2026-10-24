@@ -1,0 +1,74 @@
+{
+  "slug": "mekong-markets-and-rivers-7-days",
+  "title": "Mekong markets and rivers in 7 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "7 days",
+  "daysCount": 7,
+  "corridor": "mekong-delta",
+  "budget": "Midrange",
+  "pace": "Markets and rivers",
+  "summary": "My Tho, Ben Tre, Can Tho, Chau Doc, and Ca Mau.",
+  "days": [
+    {
+      "title": "Day 1 — My Tho",
+      "body": "Vinh Trang is 120 minutes and free.",
+      "placeSlug": "my-tho",
+      "photo": "my-tho-vinh-trang",
+      "routeSlug": "ho-chi-minh-city-to-my-tho",
+      "itinerarySlug": "my-tho-day"
+    },
+    {
+      "title": "Day 2 — Ben Tre",
+      "body": "Con Phung is a river day.",
+      "placeSlug": "ben-tre",
+      "photo": "ben-tre-con-phung",
+      "itinerarySlug": "ben-tre-day"
+    },
+    {
+      "title": "Day 3 — Can Tho",
+      "body": "Cai Rang at dawn.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-cai-rang",
+      "routeSlug": "ben-tre-to-can-tho",
+      "itinerarySlug": "can-tho-day"
+    },
+    {
+      "title": "Day 4 — Chau Doc market",
+      "body": "Travel to Chau Doc.",
+      "placeSlug": "chau-doc",
+      "photo": "chau-doc",
+      "routeSlug": "can-tho-to-chau-doc"
+    },
+    {
+      "title": "Day 5 — Tra Su",
+      "body": "Tra Su is half a day from town, 120,000 VND at the gate.",
+      "placeSlug": "chau-doc",
+      "photo": "chau-doc-tra-su",
+      "itinerarySlug": "chau-doc-tra-su"
+    },
+    {
+      "title": "Day 6 — Ca Mau",
+      "body": "Travel to Ca Mau.",
+      "placeSlug": "ca-mau",
+      "photo": "ca-mau-nam-can",
+      "routeSlug": "can-tho-to-ca-mau"
+    },
+    {
+      "title": "Day 7 — Nam Can",
+      "body": "Nam Can is a stop on the cape road. The fee is Check on arrival.",
+      "placeSlug": "ca-mau",
+      "photo": "ca-mau-nam-can",
+      "itinerarySlug": "ca-mau-day"
+    }
+  ],
+  "seoTitle": "Mekong markets and rivers in 7 days",
+  "seoDescription": "My Tho, Ben Tre, Can Tho, Chau Doc, and Ca Mau.",
+  "variant": "markets",
+  "routeSlugs": [
+    "ho-chi-minh-city-to-my-tho",
+    "ben-tre-to-can-tho",
+    "can-tho-to-chau-doc",
+    "can-tho-to-ca-mau"
+  ]
+}

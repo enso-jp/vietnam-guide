@@ -1,0 +1,49 @@
+{
+  "slug": "ha-long-cat-ba-4-days",
+  "title": "Ha Long and Cat Ba in 4 days",
+  "kind": "trip",
+  "level": "region",
+  "duration": "4 days",
+  "daysCount": 4,
+  "corridor": "red-river-delta",
+  "budget": "Midrange",
+  "pace": "Bay then the island",
+  "summary": "Hanoi, Ha Long, Cat Ba, and Hai Phong. Calm water April to June.",
+  "days": [
+    {
+      "title": "Day 1 — Hanoi to Ha Long",
+      "body": "Travel to Ha Long.",
+      "placeSlug": "ha-long",
+      "photo": "ha-long-thien-cung",
+      "routeSlug": "hanoi-to-ha-long"
+    },
+    {
+      "title": "Day 2 — Ha Long",
+      "body": "Take the shorter Route 1 boat, Thien Cung and Dau Go, 3–4 hours.",
+      "placeSlug": "ha-long",
+      "photo": "ha-long-thien-cung",
+      "itinerarySlug": "ha-long-day"
+    },
+    {
+      "title": "Day 3 — Cat Ba",
+      "body": "Cross to Cat Ba. Lan Ha is 3–4 hours, or an 8-hour day. An adult day visit is 120,000 đồng.",
+      "placeSlug": "cat-ba",
+      "photo": "cat-ba-lan-ha",
+      "routeSlug": "ha-long-to-cat-ba"
+    },
+    {
+      "title": "Day 4 — Hai Phong",
+      "body": "Leave through Hai Phong. Du Hang Pagoda is Check on arrival.",
+      "placeSlug": "hai-phong",
+      "photo": "hai-phong-du-hang-pagoda",
+      "itinerarySlug": "hai-phong-day"
+    }
+  ],
+  "seoTitle": "Ha Long and Cat Ba in 4 days",
+  "seoDescription": "Four days from Hanoi through Ha Long and Cat Ba, out through Hai Phong.",
+  "variant": "cat-ba",
+  "routeSlugs": [
+    "hanoi-to-ha-long",
+    "ha-long-to-cat-ba"
+  ]
+}

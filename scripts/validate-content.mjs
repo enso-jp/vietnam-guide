@@ -181,14 +181,14 @@ const LEVELS = new Set(['nationwide', 'region', 'day', 'half-day']);
 const GATEWAYS = new Set(['hanoi', 'ho-chi-minh-city', 'da-nang', 'open-jaw']);
 const DIRECTIONS = new Set(['north-to-south', 'south-to-north', 'out-of-da-nang']);
 const APPROACH_MODES = new Set(['walk', 'bicycle', 'grab', 'taxi', 'boat', 'bus']);
-const NATIONWIDE_DAYS = new Set([10, 14, 18, 21]);
+const NATIONWIDE_DAYS = new Set([7, 8, 10, 12, 14, 16, 18, 21]);
 const REGION_DAYS = {
-  'northern-midlands': new Set([4, 5, 7, 9]),
-  'red-river-delta': new Set([3, 5, 7, 9]),
+  'northern-midlands': new Set([4, 5, 7, 8, 9]),
+  'red-river-delta': new Set([3, 4, 5, 7, 9]),
   'north-central': new Set([4, 5, 7]),
-  'south-central-highlands': new Set([4, 5, 7]),
-  southeast: new Set([4]),
-  'mekong-delta': new Set([4, 5]),
+  'south-central-highlands': new Set([3, 4, 5, 7]),
+  southeast: new Set([3, 4, 5]),
+  'mekong-delta': new Set([3, 4, 5, 7]),
 };
 // south-5-days spans three corridors until the split records exist.
 const REGION_CHOOSER = 'south-5-days';

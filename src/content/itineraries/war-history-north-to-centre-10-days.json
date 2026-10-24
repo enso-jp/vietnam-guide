@@ -1,0 +1,88 @@
+{
+  "slug": "war-history-north-to-centre-10-days",
+  "title": "War history north to centre in 10 days",
+  "kind": "trip",
+  "level": "nationwide",
+  "duration": "10 days",
+  "daysCount": 10,
+  "gateway": "hanoi",
+  "direction": "north-to-south",
+  "budget": "Midrange",
+  "pace": "Museums and memorials",
+  "summary": "Hanoi, Dien Bien Phu, Vinh, Dong Hoi, Hue, and Quang Ngai. Some road minutes are Check on arrival.",
+  "routeSlugs": [
+    "hue-to-dong-hoi",
+    "hanoi-to-hue"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — Hoa Lo",
+      "body": "Hoa Lo is 50,000 VND for an adult.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoa-lo",
+      "itinerarySlug": "hanoi-museums-half-day"
+    },
+    {
+      "title": "Day 2 — Toward Dien Bien Phu",
+      "body": "Travel toward Dien Bien Phu. The minutes are Check on arrival.",
+      "placeSlug": "dien-bien-phu",
+      "photo": "dien-bien-phu-muong-thanh-bridge"
+    },
+    {
+      "title": "Day 3 — Muong Thanh Bridge",
+      "body": "The fee is Check on arrival.",
+      "placeSlug": "dien-bien-phu",
+      "photo": "dien-bien-phu-muong-thanh-bridge",
+      "itinerarySlug": "dien-bien-phu-basin-day"
+    },
+    {
+      "title": "Day 4 — Vinh",
+      "body": "Travel toward Vinh. The minutes are Check on arrival.",
+      "placeSlug": "vinh",
+      "photo": "vinh-xo-viet-museum"
+    },
+    {
+      "title": "Day 5 — Xo Viet Museum",
+      "body": "The fee is Check on arrival.",
+      "placeSlug": "vinh",
+      "photo": "vinh-xo-viet-museum",
+      "itinerarySlug": "vinh-day"
+    },
+    {
+      "title": "Day 6 — Dong Hoi",
+      "body": "Travel toward Dong Hoi.",
+      "placeSlug": "dong-hoi",
+      "photo": "dong-hoi-nhat-le-beach",
+      "itinerarySlug": "dong-hoi-day"
+    },
+    {
+      "title": "Day 7 — Hue",
+      "body": "Travel to Hue.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "routeSlug": "hue-to-dong-hoi"
+    },
+    {
+      "title": "Day 8 — Hue Citadel",
+      "body": "Visit the citadel.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "itinerarySlug": "hue-day"
+    },
+    {
+      "title": "Day 9 — Quang Ngai",
+      "body": "Travel toward Quang Ngai. The minutes are Check on arrival.",
+      "placeSlug": "quang-ngai",
+      "photo": "quang-ngai-son-my"
+    },
+    {
+      "title": "Day 10 — Son My",
+      "body": "Son My is a morning, not a five-minute photo stop. The fee is Check on arrival.",
+      "placeSlug": "quang-ngai",
+      "photo": "quang-ngai-son-my",
+      "itinerarySlug": "quang-ngai-day"
+    }
+  ],
+  "seoTitle": "War history north to centre in 10 days",
+  "seoDescription": "Hanoi, Dien Bien Phu, Vinh, Dong Hoi, Hue, and Quang Ngai in ten days."
+}
