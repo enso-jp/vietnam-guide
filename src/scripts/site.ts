@@ -437,19 +437,14 @@ document.querySelectorAll<HTMLElement>('[data-book]').forEach((root) => {
   const fallback = root.querySelector<HTMLAnchorElement>('.book-fallback a');
   const stayHref = () => {
     const city = chosen(root.querySelector('[data-stay-city]'));
-    const nights = root.querySelector<HTMLSelectElement>('[data-stay-nights]')?.value || '1';
-    const adults = root.querySelector<HTMLSelectElement>('[data-stay-adults]')?.value || '2';
-    const url = new URL(stayLink(city.name || 'Vietnam'));
-    if (checkIn?.value) url.searchParams.set('checkIn', checkIn.value);
-    url.searchParams.set('los', nights);
-    url.searchParams.set('adults', adults);
-    return { city: city.name || 'Vietnam', href: url.toString() };
+    const name = city.name || 'Vietnam';
+    return { city: name, href: stayLink(name) };
   };
   const syncStayLink = () => {
     if (!fallback) return;
     const stay = stayHref();
     fallback.href = stay.href;
-    fallback.textContent = `Search stays for ${stay.city} on Agoda`;
+    fallback.textContent = `Search stays for ${stay.city} on Trip.com`;
   };
   if (checkIn && !checkIn.value) {
     const tomorrow = new Date();
