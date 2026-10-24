@@ -1,0 +1,30 @@
+{
+  "slug": "con-dao-prison-half-day",
+  "title": "Con Dao prison half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "con-dao",
+  "budget": "Check on arrival",
+  "pace": "The camps",
+  "photo": "con-dao-con-dao-prison",
+  "summary": "The prison camps, a morning or an afternoon, then Hang Duong. Fees are Check on arrival.",
+  "stops": [
+    {
+      "name": "Con Dao Prison",
+      "minutes": "Check on arrival",
+      "placeSlug": "con-dao",
+      "attractionSlug": "con-dao-prison",
+      "note": "A morning or an afternoon. The fee is Check on arrival."
+    },
+    {
+      "name": "Hang Duong",
+      "minutes": "Check on arrival",
+      "placeSlug": "con-dao",
+      "attractionSlug": "hang-duong",
+      "note": "A stop after the camps. The fee is Check on arrival."
+    }
+  ],
+  "seoTitle": "Con Dao prison half day",
+  "seoDescription": "A half day at the Con Dao prison camps, then Hang Duong. Fees are Check on arrival."
+}
