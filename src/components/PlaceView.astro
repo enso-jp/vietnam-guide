@@ -32,7 +32,7 @@ import { interestSliderItems, placeInterestSections } from '../lib/interest-sect
 import { photoPath } from '../lib/photos';
 import { breadcrumbList, faqPage } from '../lib/schema';
 import { partitionAttractions } from '../lib/place-lists';
-import { stayLink } from '../lib/partners';
+import { klookToursSearch, stayLink } from '../lib/partners';
 import TripFamilyAd from './TripFamilyAd.astro';
 import TripSearch from './TripSearch.astro';
 import type { Place } from '../lib/types';
@@ -328,7 +328,7 @@ const tourSight = ticketedSights.find((item) => isMuseumOrShow(item)) ?? tickete
             <h2>Tours & Attractions</h2>
             <ul class="aff-list">
               <li>
-                <a class="aff-row" href={attractionPath(tourSight)}>
+                <a class="aff-row" href={klookToursSearch} rel="sponsored noopener" target="_blank" data-partner="tours">
                   <span class="aff-photo">
                     <Photo id={`${tourSight.placeSlug}-${tourSight.slug}`} alt="" />
                   </span>
