@@ -9,44 +9,114 @@
   "budget": "Check on arrival",
   "pace": "Relaxed",
   "photo": "da-lat-xuan-huong",
-  "summary": "A walk from Xuan Huong Lake to the market, the cathedral, the DALAT station, and back to Lam Vien Square after dark.",
+  "summary": "A town day from Xuan Huong Lake through the market, the cathedral, the college gate on Yersin, and the station, then Crazy House and Lam Vien Square.",
   "stops": [
     {
       "name": "Xuan Huong Lake",
-      "minutes": 60,
+      "minutes": "Check on arrival",
       "placeSlug": "da-lat",
       "attractionSlug": "xuan-huong",
-      "note": "Start on the shore while the mist is still on the water."
+      "note": "A loop of the shore takes 45 to 90 minutes."
     },
     {
       "name": "Da Lat Market",
       "minutes": 60,
       "placeSlug": "da-lat",
       "attractionSlug": "market",
-      "note": "Strawberries and avocado ice cream on the slope above the lake."
+      "note": "Strawberries, flowers, and the counters in the sloping halls.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk uphill from the lake."
+      }
     },
     {
       "name": "Da Lat Cathedral",
       "minutes": 20,
       "placeSlug": "da-lat",
       "attractionSlug": "cathedral",
-      "note": "The tower on Tran Phu. It is not the pink church at Domaine de Marie."
+      "note": "The rooster tower on Tran Phu.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk from the lake to Tran Phu."
+      }
+    },
+    {
+      "name": "Da Lat Education College",
+      "minutes": 15,
+      "placeSlug": "da-lat",
+      "attractionSlug": "education-college",
+      "note": "The colonnade and the bell tower from the pavement on Yersin.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk along Yersin."
+      }
     },
     {
       "name": "Da Lat Railway Station",
-      "minutes": 45,
+      "minutes": "Check on arrival",
       "placeSlug": "da-lat",
       "attractionSlug": "railway-station",
-      "note": "The facade with DALAT on it. Add the Trai Mat train only if Linh Phuoc is the rest of the day."
+      "note": "The art-deco hall takes 30 to 60 minutes without the train.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk or take a taxi from the lake."
+      }
+    },
+    {
+      "name": "Crazy House",
+      "minutes": "Check on arrival",
+      "placeSlug": "da-lat",
+      "attractionSlug": "crazy-house",
+      "note": "The concrete rooms and bridges take 45 to 60 minutes.",
+      "approach": {
+        "mode": "taxi",
+        "note": "Taxi or Grab from the lake to 03 Huynh Thuc Khang."
+      }
     },
     {
       "name": "Lam Vien Square",
       "minutes": 30,
       "placeSlug": "da-lat",
       "attractionSlug": "lam-vien-square",
-      "note": "Back to the lake edge after dark. The night market is the slope above."
+      "note": "The paved square on the lake edge.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk from the lake to Tran Quoc Toan."
+      }
+    }
+  ],
+  "additions": [
+    {
+      "name": "Linh Phuoc Pagoda",
+      "note": "The mosaic pagoda at Trai Mat, by the tourist train from the station or by road.",
+      "placeSlug": "da-lat",
+      "attractionSlug": "linh-phuoc"
+    },
+    {
+      "name": "Bao Dai Palace III",
+      "note": "The hill villa at 1 Trieu Viet Vuong, about 2.5 km south of the centre.",
+      "placeSlug": "da-lat",
+      "attractionSlug": "bao-dai-palace"
+    },
+    {
+      "name": "Truc Lam Zen Monastery",
+      "note": "The gardens on Phoenix Hill, with the cable car from Robin Hill.",
+      "placeSlug": "da-lat",
+      "attractionSlug": "truc-lam"
+    },
+    {
+      "name": "Datanla Falls",
+      "note": "The waterfall on Prenn Pass, south of the centre.",
+      "placeSlug": "da-lat",
+      "attractionSlug": "datanla"
+    },
+    {
+      "name": "Langbiang Mountain",
+      "note": "The mountain north of town at 93A Bidoup, a half-day from the centre.",
+      "placeSlug": "da-lat",
+      "attractionSlug": "langbiang"
     }
   ],
   "seoTitle": "Da Lat in a day",
-  "seoDescription": "A one-day Da Lat walk: Xuan Huong Lake, the market, the cathedral, and the DALAT station."
+  "seoDescription": "One day in Da Lat: Xuan Huong Lake, the market, the cathedral, the college on Yersin, the station, Crazy House, and Lam Vien Square."
 }

@@ -9,23 +9,74 @@
   "budget": "Check on arrival",
   "pace": "Active",
   "photo": "gia-lai-bien-ho",
-  "summary": "Biển Hồ at first light, then Minh Thanh’s tower on the hill above Pleiku.",
+  "summary": "Two-bowl phở, then Biển Hồ and Buu Minh on the northern loop, Minh Thanh above town, and Dong Xanh on Quốc lộ 19.",
   "stops": [
     {
+      "name": "Two-bowl pho",
+      "minutes": "Check on arrival",
+      "placeSlug": "gia-lai",
+      "dishSlug": "gia-lai--pho-hai-to",
+      "note": "The two bowls on Nguyễn Văn Trỗi, from early morning."
+    },
+    {
       "name": "Biển Hồ",
-      "minutes": 120,
+      "minutes": "Check on arrival",
       "placeSlug": "gia-lai",
       "attractionSlug": "bien-ho",
-      "note": "Morning mist on Hồ T’Nưng, about 7 km north of Pleiku. Turn from Phạm Văn Đồng onto Tôn Đức Thắng."
+      "note": "The crater lake about 7 km north, in the first light.",
+      "approach": {
+        "mode": "taxi",
+        "note": "Taxi or ride-hail about 7 km north, off Phạm Văn Đồng onto Tôn Đức Thắng."
+      }
+    },
+    {
+      "name": "Buu Minh Pagoda",
+      "minutes": "Check on arrival",
+      "placeSlug": "gia-lai",
+      "attractionSlug": "buu-minh",
+      "note": "The hall in the tea hills of Nghĩa Hưng, about 15 km or more than 15 km north.",
+      "approach": {
+        "mode": "taxi",
+        "note": "Taxi or ride-hail north into the tea hills, about 15 km or more than 15 km."
+      }
     },
     {
       "name": "Minh Thanh Pagoda",
-      "minutes": 60,
+      "minutes": "Check on arrival",
       "placeSlug": "gia-lai",
       "attractionSlug": "minh-thanh",
-      "note": "The gold-painted tower above Pleiku. Gate hours are Check on arrival."
+      "note": "The gold-painted tower on the hill above Pleiku.",
+      "approach": {
+        "mode": "taxi",
+        "note": "A short taxi from central Pleiku."
+      }
+    },
+    {
+      "name": "Dong Xanh Park",
+      "minutes": "Check on arrival",
+      "placeSlug": "gia-lai",
+      "attractionSlug": "dong-xanh",
+      "note": "The culture park in An Phú, about 10 km along Quốc lộ 19.",
+      "approach": {
+        "mode": "taxi",
+        "note": "Taxi or ride-hail about 10 km along Quốc lộ 19 to An Phú."
+      }
     }
   ],
-  "seoTitle": "Gia Lai in a day — Biển Hồ and Minh Thanh",
-  "seoDescription": "A one-day Pleiku plan: Biển Hồ at first light, about 7 km north of town, then Minh Thanh Pagoda on the hill above the city."
+  "additions": [
+    {
+      "name": "Tay Son Thuong Dao",
+      "note": "The forest cluster at An Khê.",
+      "placeSlug": "gia-lai",
+      "attractionSlug": "tay-son-thuong-dao"
+    },
+    {
+      "name": "K50",
+      "note": "The cliff fall in Kon Chư Răng, from the reserve office more than 140 km from Pleiku.",
+      "placeSlug": "gia-lai",
+      "attractionSlug": "k50"
+    }
+  ],
+  "seoTitle": "Gia Lai in a day — Biển Hồ and the pagodas",
+  "seoDescription": "One day in Pleiku: two-bowl phở, Biển Hồ, Buu Minh, Minh Thanh, and Dong Xanh on Quốc lộ 19."
 }

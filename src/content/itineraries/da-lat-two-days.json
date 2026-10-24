@@ -9,51 +9,167 @@
   "budget": "Check on arrival",
   "pace": "Relaxed",
   "photo": "da-lat-xuan-huong",
-  "summary": "Lake, market, and the DALAT station on the first day. Truc Lam and Datanla on the second, then the night market.",
+  "summary": "The lake, the market, the cathedral, the station, and Bao Dai’s villa on the first day. Truc Lam and Datanla on the second, then the market slope after dark.",
+  "days": [
+    {
+      "title": "Day 1 — The lake and the town",
+      "body": "Xuan Huong Lake, the market, the cathedral on Tran Phu, the college gate on Yersin, and the station, then Bao Dai’s villa about 2.5 km south and Lam Vien Square on the lake edge.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-xuan-huong"
+    },
+    {
+      "title": "Day 2 — Truc Lam and Datanla",
+      "body": "The cable car from Robin Hill to Truc Lam on Phoenix Hill, then Datanla on Prenn Pass, and the market slope after dark.",
+      "placeSlug": "da-lat",
+      "photo": "da-lat-truc-lam"
+    }
+  ],
   "stops": [
     {
       "name": "Xuan Huong Lake",
-      "minutes": 60,
+      "minutes": "Check on arrival",
       "placeSlug": "da-lat",
       "attractionSlug": "xuan-huong",
-      "note": "Morning walk before the market crowds."
+      "note": "Day one begins with a loop of the shore, which takes 45 to 90 minutes."
     },
     {
       "name": "Da Lat Market",
       "minutes": 60,
       "placeSlug": "da-lat",
       "attractionSlug": "market",
-      "note": "Strawberries and avocado ice cream on the slope."
+      "note": "Day one in the sloping halls, for produce and flowers.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk uphill from the lake."
+      }
+    },
+    {
+      "name": "Da Lat Cathedral",
+      "minutes": 20,
+      "placeSlug": "da-lat",
+      "attractionSlug": "cathedral",
+      "note": "Day one at the rooster tower on Tran Phu.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk from the lake to Tran Phu."
+      }
+    },
+    {
+      "name": "Da Lat Education College",
+      "minutes": 15,
+      "placeSlug": "da-lat",
+      "attractionSlug": "education-college",
+      "note": "Day one at the colonnade and the bell tower on Yersin.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk along Yersin."
+      }
     },
     {
       "name": "Da Lat Railway Station",
-      "minutes": 45,
+      "minutes": "Check on arrival",
       "placeSlug": "da-lat",
       "attractionSlug": "railway-station",
-      "note": "Art-deco station; add the Trai Mat train if you want Linh Phuoc the same morning."
+      "note": "Day one in the art-deco hall, 30 to 60 minutes without the train.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk or take a taxi from the lake."
+      }
+    },
+    {
+      "name": "Bao Dai Palace III",
+      "minutes": 60,
+      "placeSlug": "da-lat",
+      "attractionSlug": "bao-dai-palace",
+      "note": "Day one in the rooms and the garden at 1 Trieu Viet Vuong.",
+      "approach": {
+        "mode": "taxi",
+        "note": "Taxi to 1 Trieu Viet Vuong, about 2.5 km south."
+      }
+    },
+    {
+      "name": "Lam Vien Square",
+      "minutes": 30,
+      "placeSlug": "da-lat",
+      "attractionSlug": "lam-vien-square",
+      "note": "Day one ends on the paved square at the lake edge.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk from the lake to Tran Quoc Toan."
+      }
     },
     {
       "name": "Truc Lam Zen Monastery",
-      "minutes": 120,
+      "minutes": "Check on arrival",
       "placeSlug": "da-lat",
       "attractionSlug": "truc-lam",
-      "note": "Cable car from Robin Hill when the sky is clear, then the monastery yards. Modest clothing."
+      "note": "Day two in the gardens on Phoenix Hill, 1 to 2 hours with the cable car.",
+      "approach": {
+        "mode": "taxi",
+        "note": "Taxi to the Robin Hill station, then the cable car."
+      }
     },
     {
       "name": "Datanla Falls",
-      "minutes": 90,
+      "minutes": 60,
       "placeSlug": "da-lat",
       "attractionSlug": "datanla",
-      "note": "Afternoon on Prenn Pass. Skip the coaster if you only wanted the falls."
+      "note": "Day two at the cascade on Prenn Pass.",
+      "approach": {
+        "mode": "taxi",
+        "note": "Taxi over Prenn Pass from the lake."
+      }
     },
     {
       "name": "Da Lat Night Market",
-      "minutes": 90,
+      "minutes": "Check on arrival",
       "placeSlug": "da-lat",
       "attractionSlug": "market",
-      "note": "Grilled rice paper after dark; the night stalls sit near the day market."
+      "note": "Day two on the same slope after dark, from about 18:00 to 23:00.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk up from the lake after dark."
+      }
+    }
+  ],
+  "additions": [
+    {
+      "name": "Linh Phuoc Pagoda",
+      "note": "The mosaic pagoda at Trai Mat, by the tourist train from the station or by road.",
+      "placeSlug": "da-lat",
+      "attractionSlug": "linh-phuoc"
+    },
+    {
+      "name": "Crazy House",
+      "note": "The concrete rooms and bridges at 03 Huynh Thuc Khang.",
+      "placeSlug": "da-lat",
+      "attractionSlug": "crazy-house"
+    },
+    {
+      "name": "Domaine de Marie",
+      "note": "The convent church at 1 Ngo Quyen on the west ridge.",
+      "placeSlug": "da-lat",
+      "attractionSlug": "domaine-de-marie"
+    },
+    {
+      "name": "Langbiang Mountain",
+      "note": "The mountain north of town at 93A Bidoup, a half-day from the centre.",
+      "placeSlug": "da-lat",
+      "attractionSlug": "langbiang"
+    },
+    {
+      "name": "Valley of Love",
+      "note": "The landscaped park north of the centre.",
+      "placeSlug": "da-lat",
+      "attractionSlug": "valley-of-love"
+    },
+    {
+      "name": "Elephant Falls",
+      "note": "The wide fall at Nam Ban, about 30 km from town, a half-day with the drive.",
+      "placeSlug": "da-lat",
+      "attractionSlug": "elephant-falls"
     }
   ],
   "seoTitle": "Da Lat in two days",
-  "seoDescription": "A two-day Da Lat plan: lake and market, then cable car, Truc Lam, and Datanla Falls."
+  "seoDescription": "Two days in Da Lat: the lake and the town, then Truc Lam by cable car from Robin Hill and Datanla on Prenn Pass."
 }
