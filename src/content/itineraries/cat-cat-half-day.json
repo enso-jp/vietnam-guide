@@ -1,0 +1,27 @@
+{
+  "slug": "cat-cat-half-day",
+  "title": "Cat Cat half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "sapa",
+  "budget": "Check on arrival",
+  "pace": "One village walk",
+  "photo": "sapa-cat-cat",
+  "summary": "Walk to Cat Cat from town in daylight. The scenic fee and the village gate are different charges. The walk length is Check on arrival.",
+  "stops": [
+    {
+      "name": "Cat Cat",
+      "minutes": "Check on arrival",
+      "placeSlug": "sapa",
+      "attractionSlug": "cat-cat",
+      "note": "The closest village walk from town. The scenic fee and the village gate are different charges. Both are Check on arrival.",
+      "approach": {
+        "mode": "walk",
+        "note": "On foot from town, in daylight."
+      }
+    }
+  ],
+  "seoTitle": "Cat Cat half day",
+  "seoDescription": "A half day walking to Cat Cat from Sa Pa. The walk length and the two charges are Check on arrival."
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "hue-tombs-half-day",
+  "title": "Hue tombs half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "hue",
+  "budget": "Check on arrival",
+  "pace": "The tombs upstream",
+  "photo": "hue-minh-mang",
+  "summary": "Minh Mang, Khai Dinh, Tu Duc at Khiem, and Tu Hieu. Each tomb on its own line is 150,000 VND for an adult. Time on site and the ride upstream are Check on arrival.",
+  "stops": [
+    {
+      "name": "Minh Mang",
+      "minutes": "Check on arrival",
+      "placeSlug": "hue",
+      "attractionSlug": "minh-mang",
+      "note": "An adult ticket is 150,000 VND on its own line. Time on site is Check on arrival."
+    },
+    {
+      "name": "Khai Dinh",
+      "minutes": "Check on arrival",
+      "placeSlug": "hue",
+      "attractionSlug": "khai-dinh",
+      "note": "An adult ticket is 150,000 VND on its own line. Time on site is Check on arrival."
+    },
+    {
+      "name": "Tu Duc",
+      "minutes": "Check on arrival",
+      "placeSlug": "hue",
+      "attractionSlug": "khiem",
+      "note": "Khiem, Tu Duc’s tomb. An adult ticket is 150,000 VND on its own line. Time on site is Check on arrival."
+    },
+    {
+      "name": "Tu Hieu",
+      "minutes": "Check on arrival",
+      "placeSlug": "hue",
+      "attractionSlug": "tu-hieu",
+      "note": "The pagoda. The fee is Check on arrival."
+    }
+  ],
+  "seoTitle": "Hue tombs half day",
+  "seoDescription": "A half day at Minh Mang, Khai Dinh, Tu Duc, and Tu Hieu. Each tomb is 150,000 VND for an adult on its own line."
+}

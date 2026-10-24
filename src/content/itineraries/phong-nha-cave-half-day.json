@@ -1,0 +1,31 @@
+{
+  "slug": "phong-nha-cave-half-day",
+  "title": "Phong Nha Cave half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "phong-nha",
+  "budget": "Check on arrival",
+  "pace": "One boat",
+  "photo": "phong-nha-phong-nha-cave",
+  "summary": "The boat into Phong Nha Cave and back. About 2.5 hours. Paradise Cave is a separate trip.",
+  "stops": [
+    {
+      "name": "Phong Nha Cave",
+      "minutes": 150,
+      "placeSlug": "phong-nha",
+      "attractionSlug": "phong-nha-cave",
+      "note": "About 2.5 hours. The ticket is 150,000 VND, plus the boat. The crew rows about 1,200 metres in."
+    }
+  ],
+  "additions": [
+    {
+      "name": "Paradise Cave",
+      "placeSlug": "phong-nha",
+      "attractionSlug": "paradise-cave",
+      "note": "A separate trip at Km 16, not this half day."
+    }
+  ],
+  "seoTitle": "Phong Nha Cave half day",
+  "seoDescription": "A half day in the Phong Nha boat cave, about 2.5 hours. The ticket is 150,000 VND, plus the boat."
+}
