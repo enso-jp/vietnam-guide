@@ -1,0 +1,61 @@
+{
+  "slug": "ho-chi-minh-city-two-days",
+  "title": "Two days in Ho Chi Minh City",
+  "kind": "trip",
+  "level": "day",
+  "duration": "2 days",
+  "spanDays": 2,
+  "placeSlug": "ho-chi-minh-city",
+  "budget": "Check on arrival",
+  "pace": "The center, then Cho Lon",
+  "photo": "ho-chi-minh-city-ben-thanh",
+  "summary": "The center on the first day: the cathedral square, the palace, Ben Thanh, the War Remnants Museum, and cơm tấm. Cho Lon on the second: Binh Tay, Thien Hau, and the Jade Emperor.",
+  "days": [
+    {
+      "title": "Day 1 — The center",
+      "body": "The cathedral square, Nguyen Hue, the Reunification Palace, Ben Thanh, cơm tấm, and the War Remnants Museum.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-war-remnants",
+      "itinerarySlug": "ho-chi-minh-city-day"
+    },
+    {
+      "title": "Day 2 — Cho Lon",
+      "body": "Walk the clock gate at Binh Tay, then Thien Hau and the Jade Emperor. How long each hall takes is Check on arrival.",
+      "placeSlug": "ho-chi-minh-city",
+      "photo": "ho-chi-minh-city-binh-tay",
+      "itinerarySlug": "cholon-half-day"
+    }
+  ],
+  "stops": [
+    {
+      "name": "Center",
+      "minutes": "Check on arrival",
+      "placeSlug": "ho-chi-minh-city",
+      "attractionSlug": "ben-thanh",
+      "note": "Day one is the center day, from the cathedral square to the War Remnants Museum."
+    },
+    {
+      "name": "Binh Tay Market",
+      "minutes": "Check on arrival",
+      "placeSlug": "ho-chi-minh-city",
+      "attractionSlug": "binh-tay",
+      "note": "Day two. The clock gate and the trading floor in Chợ Lớn."
+    },
+    {
+      "name": "Thien Hau Pagoda",
+      "minutes": "Check on arrival",
+      "placeSlug": "ho-chi-minh-city",
+      "attractionSlug": "thien-hau",
+      "note": "Day two, with Binh Tay. The fee is Check on arrival."
+    },
+    {
+      "name": "Jade Emperor Pagoda",
+      "minutes": "Check on arrival",
+      "placeSlug": "ho-chi-minh-city",
+      "attractionSlug": "jade-emperor",
+      "note": "Day two. The fee is Check on arrival."
+    }
+  ],
+  "seoTitle": "Two days in Ho Chi Minh City",
+  "seoDescription": "The center on day one and Cho Lon on day two: Binh Tay, Thien Hau, and the Jade Emperor."
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "nha-trang-two-days",
+  "title": "Two days in Nha Trang",
+  "kind": "trip",
+  "level": "day",
+  "duration": "2 days",
+  "spanDays": 2,
+  "placeSlug": "nha-trang",
+  "budget": "Check on arrival",
+  "pace": "One boat, then the shore",
+  "photo": "nha-trang-hon-mun",
+  "summary": "One island boat on the first day. Po Nagar, Long Son, and Dam Market on the second. Po Nagar is a morning and the adult ticket is 22,000 VND.",
+  "days": [
+    {
+      "title": "Day 1 — One island",
+      "body": "Take Hon Mun or Hon Tre. Each is a day on the water. Fees are Check on arrival.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang-hon-mun",
+      "itinerarySlug": "nha-trang-islands-day"
+    },
+    {
+      "title": "Day 2 — Po Nagar and the shore",
+      "body": "Po Nagar in the morning. An adult ticket is 22,000 VND. Then Long Son, a daylight climb, and Dam Market. Those fees are Check on arrival, and Dam Market is free.",
+      "placeSlug": "nha-trang",
+      "photo": "nha-trang-po-nagar"
+    }
+  ],
+  "stops": [
+    {
+      "name": "One island",
+      "minutes": "Check on arrival",
+      "placeSlug": "nha-trang",
+      "attractionSlug": "hon-mun",
+      "note": "Day one. Hon Mun or Hon Tre. Each is a day. Fees are Check on arrival."
+    },
+    {
+      "name": "Po Nagar",
+      "minutes": "Check on arrival",
+      "placeSlug": "nha-trang",
+      "attractionSlug": "po-nagar",
+      "note": "Day two, a morning. An adult ticket is 22,000 VND."
+    },
+    {
+      "name": "Long Son",
+      "minutes": "Check on arrival",
+      "placeSlug": "nha-trang",
+      "attractionSlug": "long-son",
+      "note": "Day two. A daylight climb. The fee is Check on arrival."
+    },
+    {
+      "name": "Dam Market",
+      "minutes": "Check on arrival",
+      "placeSlug": "nha-trang",
+      "attractionSlug": "dam-market",
+      "note": "Day two. A market stop. Free."
+    }
+  ],
+  "seoTitle": "Two days in Nha Trang",
+  "seoDescription": "One Nha Trang island boat, then Po Nagar, Long Son, and Dam Market."
+}

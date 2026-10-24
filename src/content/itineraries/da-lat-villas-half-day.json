@@ -1,0 +1,44 @@
+{
+  "slug": "da-lat-villas-half-day",
+  "title": "Da Lat villas half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "da-lat",
+  "budget": "Check on arrival",
+  "pace": "The villas and the pagoda",
+  "photo": "da-lat-bao-dai-palace",
+  "summary": "Bao Dai’s palace, the Crazy House, Domaine de Marie, and Linh Phuoc. Bao Dai is an hour. The palace fee is 25,000 VND on the provincial page and 60,000 VND at tour desks.",
+  "stops": [
+    {
+      "name": "Bao Dai Palace",
+      "minutes": 60,
+      "placeSlug": "da-lat",
+      "attractionSlug": "bao-dai-palace",
+      "note": "1 hour. The provincial page lists 25,000 VND. Tour desks list 60,000 VND."
+    },
+    {
+      "name": "Crazy House",
+      "minutes": "Check on arrival",
+      "placeSlug": "da-lat",
+      "attractionSlug": "crazy-house",
+      "note": "45–60 minutes. The fee is 80,000 VND from 1.4 m."
+    },
+    {
+      "name": "Domaine de Marie",
+      "minutes": "Check on arrival",
+      "placeSlug": "da-lat",
+      "attractionSlug": "domaine-de-marie",
+      "note": "20–30 minutes. Free."
+    },
+    {
+      "name": "Linh Phuoc",
+      "minutes": 45,
+      "placeSlug": "da-lat",
+      "attractionSlug": "linh-phuoc",
+      "note": "45 minutes. Free."
+    }
+  ],
+  "seoTitle": "Da Lat villas half day",
+  "seoDescription": "Bao Dai’s palace, the Crazy House, Domaine de Marie, and Linh Phuoc. The palace fee is listed two ways."
+}

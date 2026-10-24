@@ -1,0 +1,23 @@
+{
+  "slug": "po-nagar-half-day",
+  "title": "Po Nagar half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "nha-trang",
+  "budget": "Check on arrival",
+  "pace": "One temple",
+  "photo": "nha-trang-po-nagar",
+  "summary": "A morning at Po Nagar. An adult ticket is 22,000 VND. How long the towers take beyond the morning is Check on arrival.",
+  "stops": [
+    {
+      "name": "Po Nagar",
+      "minutes": "Check on arrival",
+      "placeSlug": "nha-trang",
+      "attractionSlug": "po-nagar",
+      "note": "A morning. An adult ticket is 22,000 VND."
+    }
+  ],
+  "seoTitle": "Po Nagar half day",
+  "seoDescription": "A morning at Po Nagar in Nha Trang. An adult ticket is 22,000 VND."
+}
