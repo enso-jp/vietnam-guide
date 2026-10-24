@@ -9,30 +9,30 @@
   "budget": "Check on arrival",
   "pace": "A road day",
   "photo": "ca-mau-nam-can",
-  "summary": "Sleep in the city, ride south through Năm Căn, and keep going to the Đất Mũi gate while it is open. The culture-office listing shuts at 18:00. A tour page shuts at 17:30. Eat crab before the ride back.",
-  "days": [
-    {
-      "title": "Năm Căn, then the cape road",
-      "body": "Start in the river wards. The Gành Hào boats are the morning picture if they are out. The hour was not printed. Ride south through Năm Căn. The 58.7 km Hồ Chí Minh section starts at cầu Ông Tình, not in the city. A Vietravel page says the cape is more than 100 km from the city. A tour page says 100–110 km and 2.5–3.5 hours. The culture-office listing at the gate is 07:00–18:00 and 15,000–30,000 VND. A tour page dated 30 September 2026 is 06:30–17:30, adult 30,000 VND. Eat crab or ba khía and come back to the city. Hòn Đá Bạc is a different day, west, about 42 km by road on the national extract and about 50 km on the airline guide.",
-      "placeSlug": "ca-mau"
-    }
-  ],
+  "summary": "Ride south through Năm Căn to the Đất Mũi gate while it is open, and eat mangrove crab on the same day.",
   "stops": [
     {
       "name": "Nam Can",
       "minutes": "Check on arrival",
       "placeSlug": "ca-mau",
       "attractionSlug": "nam-can",
-      "note": "The fishing town on the way. The 58.7 km cape project starts at cầu Ông Tình. Minutes in town were not printed."
+      "note": "Stop for the fishing boats where the 58.7 km cape section starts at cầu Ông Tình."
+    },
+    {
+      "name": "Dat Mui",
+      "minutes": "Check on arrival",
+      "placeSlug": "ca-mau",
+      "attractionSlug": "dat-mui",
+      "note": "Stand at the sail while the gate is open, 07:00–18:00 or 06:30–17:30. The cape is more than 100 km from the city, or 100–110 km and about 2.5–3.5 hours. Adult entry is 15,000–30,000 VND, or 30,000 VND."
     },
     {
       "name": "Cua Ca Mau",
       "minutes": "Check on arrival",
       "placeSlug": "ca-mau",
       "dishSlug": "cua-ca-mau",
-      "note": "Mangrove crab, steamed, rang me, or as lẩu cua. No stall price was printed."
+      "note": "Order the mangrove crab steamed, stir-fried with tamarind, or as a hotpot."
     }
   ],
-  "seoTitle": "Ca Mau in a day — Nam Can, then the cape road",
-  "seoDescription": "One day from the Ca Mau river wards through Năm Căn toward the Đất Mũi gate. The two gate hours disagree, and no city-to-cape minute was printed."
+  "seoTitle": "Ca Mau in a day — Nam Can, then the cape",
+  "seoDescription": "One day south through Năm Căn to the Đất Mũi gate, with mangrove crab on the same road day."
 }

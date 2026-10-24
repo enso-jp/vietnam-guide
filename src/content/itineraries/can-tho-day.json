@@ -9,37 +9,46 @@
   "budget": "Check on arrival",
   "pace": "Dawn market, then the old house",
   "photo": "can-tho-cai-rang",
-  "summary": "Sleep in Ninh Kiều, take the boat to Cái Răng at dawn, eat hủ tiếu on the water, and walk the Dương house once the listing hours begin. The quay is the evening. Minutes that were not printed stay Check on arrival.",
-  "days": [
-    {
-      "title": "Cái Răng, then Bình Thủy",
-      "body": "The Can Tho Portal of 4 January 2016 starts the day on the floating market at 5:00, puts fruit gardens at midday, and brings you back to the quay from about 16:00. Vietnam Tourism’s four-day piece is the same shape: rise at 5:00, about 30 minutes on the water, lunch after the market, the promenade later. Use the Dương house in Bình Thủy for the built stop. The department lists 60 minutes at the market. A visit length at the house was not printed. Boat hire is đang cập nhật on the listing, and 300,000–700,000 VND on the department advice page.",
-      "placeSlug": "can-tho"
-    }
-  ],
+  "summary": "Leave Ninh Kiều at dawn for Cái Răng, eat hủ tiếu on the water, walk the Dương house once the listing hours begin, and come back to the quay in the evening.",
   "stops": [
     {
       "name": "Cai Rang",
       "minutes": 60,
       "placeSlug": "can-tho",
       "attractionSlug": "cai-rang",
-      "note": "Sixty minutes at the market, on the department listing. The boat from Ninh Kiều is about 30 minutes. Publishers print more than one morning clock."
+      "approach": {
+        "mode": "boat",
+        "minutes": 30,
+        "note": "From Ninh Kiều."
+      },
+      "note": "Spend about 60 minutes among the wholesale boats, leaving the quay around 5:00."
     },
     {
       "name": "Hu tieu",
       "minutes": "Check on arrival",
       "placeSlug": "can-tho",
       "dishSlug": "hu-tieu-can-tho",
-      "note": "The breakfast bowl on the boats. A minute count for the bowl was not printed."
+      "note": "Order the breakfast bowl from a noodle boat at the market."
     },
     {
       "name": "Binh Thuy house",
       "minutes": "Check on arrival",
       "placeSlug": "can-tho",
       "attractionSlug": "binh-thuy-house",
-      "note": "144 Bùi Hữu Nghĩa. The department listing prints 08:00–16:00 and 20,000–50,000 VND. A visit length was not printed."
+      "approach": {
+        "mode": "taxi",
+        "note": "From Ninh Kiều."
+      },
+      "note": "Walk the 1870 house at 144 Bùi Hữu Nghĩa between 08:00 and 16:00."
+    },
+    {
+      "name": "Ninh Kieu wharf",
+      "minutes": 120,
+      "placeSlug": "can-tho",
+      "attractionSlug": "ninh-kieu",
+      "note": "Spend about two hours on the quay and the night market after dark."
     }
   ],
-  "seoTitle": "Can Tho in a day: Cai Rang, then the house",
-  "seoDescription": "One day from Ninh Kiều: the Cái Răng boats at dawn, hủ tiếu on the water, and the Dương house in Bình Thủy. The quay is the evening."
+  "seoTitle": "Can Tho in a day — Cai Rang, then the quay",
+  "seoDescription": "One day from Ninh Kiều: about 60 minutes at Cái Răng, hủ tiếu on the water, the Dương house, and about two hours on the quay in the evening."
 }

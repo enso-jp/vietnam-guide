@@ -9,61 +9,45 @@
   "budget": "Check on arrival",
   "pace": "Relaxed",
   "photo": "vung-tau-back-beach",
-  "summary": "Back Beach in the morning, bánh khọt on Nguyễn Trường Tộ, the Christ statue while the steps are still in shade, and Front Beach after dark. Skip the statue if the swim is the whole point.",
-  "days": [
-    {
-      "title": "One day on the peninsula",
-      "body": "Swim on Back Beach, eat bánh khọt on Nguyễn Trường Tộ, and climb Christ the King if the steps are the plan. Front Beach is the walk after dark.",
-      "placeSlug": "vung-tau",
-      "photo": "vung-tau-back-beach"
-    }
-  ],
+  "summary": "Swim on Back Beach in the morning, eat bánh khọt on Nguyễn Trường Tộ, climb Christ the King, and walk Front Beach after dark.",
   "stops": [
     {
       "name": "Back Beach",
-      "minutes": 120,
+      "minutes": "Check on arrival",
       "placeSlug": "vung-tau",
       "attractionSlug": "back-beach",
-      "note": "The morning. Swim where the waves are the flat ones. A clock for the walk is check on arrival.",
-      "approach": {
-        "mode": "walk",
-        "note": "On the sand if you slept on the beachfront."
-      }
+      "note": "Swim the flatter waves on the sunrise side of the peninsula."
     },
     {
       "name": "Banh khot",
-      "minutes": 45,
+      "minutes": "Check on arrival",
       "placeSlug": "vung-tau",
       "dishSlug": "banh-khot",
-      "note": "Nguyễn Trường Tộ. One cake at a time. The kitchen at number 14 is a location clue, not a pick.",
-      "approach": {
-        "mode": "taxi",
-        "note": "From the beach to Nguyễn Trường Tộ. Minutes are check on arrival."
-      }
+      "note": "Eat one cake at a time on Nguyễn Trường Tộ, wrapped in lettuce and herbs."
     },
     {
       "name": "Christ the King",
-      "minutes": 90,
+      "minutes": "Check on arrival",
       "placeSlug": "vung-tau",
       "attractionSlug": "christ-statue",
-      "note": "About 800 steps to the feet and about 100 more. Or a motorbike taxi. Free on the Vietnam Tourism page. Not the Mary statue.",
       "approach": {
         "mode": "walk",
-        "note": "The steps from the headland where Back Beach meets Pineapple Beach. Ride minutes, if you take the motorbike taxi, are check on arrival."
-      }
+        "note": "From the south end of Back Beach, then the steps."
+      },
+      "note": "Climb about 800 steps to the feet of Christ the King on Small Mountain."
     },
     {
       "name": "Front Beach",
-      "minutes": 60,
+      "minutes": "Check on arrival",
       "placeSlug": "vung-tau",
       "attractionSlug": "front-beach",
-      "note": "After dark. A drink along the arc. No bar is named. Swim was this morning, on Back Beach.",
       "approach": {
         "mode": "taxi",
-        "note": "From Small Mountain to the arc. Minutes are check on arrival."
-      }
+        "note": "From Back Beach."
+      },
+      "note": "Walk the arc between the two mountains after dark."
     }
   ],
   "seoTitle": "Vung Tau in a day — beach, bánh khọt, statue",
-  "seoDescription": "A one-day Vung Tau plan: Back Beach in the morning, bánh khọt, the Christ statue, and Front Beach after dark."
+  "seoDescription": "A one-day Vung Tau plan: Back Beach in the morning, bánh khọt, Christ the King, and Front Beach after dark."
 }

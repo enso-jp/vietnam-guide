@@ -9,44 +9,52 @@
   "budget": "Check on arrival",
   "pace": "Beach, then the hill",
   "photo": "nha-trang-beach",
-  "summary": "Start on the Trần Phú sand, eat the Ninh Hòa bowl if you can find it, and keep the afternoon for Po Nagar. The cable to Hòn Tre replaces the towers if the bay is the point of the day. Minutes between these stops were not printed.",
+  "summary": "Start on the Trần Phú sand, eat the Ninh Hòa bowl, and keep the afternoon for Po Nagar, Long Sơn, and the night market behind 46 Trần Phú.",
   "stops": [
     {
       "name": "Nha Trang Beach",
       "minutes": "Check on arrival",
       "placeSlug": "nha-trang",
       "attractionSlug": "beach",
-      "note": "The morning on the city sand. A beach ticket was not printed. Swim hours were not printed."
+      "note": "Swim and walk the sand along Trần Phú in the morning."
     },
     {
       "name": "Bún cá Ninh Hòa",
       "minutes": "Check on arrival",
       "placeSlug": "nha-trang",
       "dishSlug": "bun-ca-ninh-hoa",
-      "note": "The provincial digital guide says morning or evening. A Nha Trang street was not printed."
+      "note": "Eat the Ninh Hòa fish-noodle bowl in the morning or the evening."
     },
     {
       "name": "Po Nagar",
       "minutes": "Check on arrival",
       "placeSlug": "nha-trang",
       "attractionSlug": "po-nagar",
-      "note": "About 2 km north. The provincial digital guide prints 06:00–17:30 and no ticket. The provincial tourism department prints 08:00–18:00 and 22,000 VND."
+      "note": "Walk the brick shrines about 2 km north of the centre. Open 06:00–17:30 with no ticket, or 08:00–18:00 and 22,000 VND."
     },
     {
       "name": "Long Sơn Pagoda",
       "minutes": "Check on arrival",
       "placeSlug": "nha-trang",
       "attractionSlug": "long-son",
-      "note": "The seated white Buddha. The provincial digital guide prints 07:00–17:30. A ticket was not printed."
+      "note": "Climb to the seated white Buddha in daylight. Open 07:00–17:30."
     },
     {
       "name": "Trần Phú night market",
       "minutes": "Check on arrival",
       "placeSlug": "nha-trang",
       "attractionSlug": "night-market",
-      "note": "After dark, behind 46 Trần Phú. A clock was not printed. The provincial digital guide says entry is free."
+      "note": "Walk the food stalls behind 46 Trần Phú after dark."
+    }
+  ],
+  "additions": [
+    {
+      "name": "Hòn Tre Cable Car",
+      "note": "Ride the cable across the bay when the island is the point of the day.",
+      "placeSlug": "nha-trang",
+      "attractionSlug": "hon-tre"
     }
   ],
   "seoTitle": "Nha Trang in a day — sand, then Po Nagar",
-  "seoDescription": "One day in Nha Trang: Trần Phú in the morning, bún cá if you find it, Po Nagar in the afternoon, and the night market behind 46 Trần Phú."
+  "seoDescription": "One day in Nha Trang: Trần Phú in the morning, bún cá, Po Nagar, Long Sơn, and the night market behind 46 Trần Phú."
 }
