@@ -43,6 +43,25 @@ const crumbs = crumbSchema.map((item, index) => ({
 function cardAlt(item: InterestRailItem) {
   return item.alt || item.title;
 }
+
+const panels = [
+  ...(loose.length > 0
+    ? [{ id: blocks.length ? undefined : 'stops', heading: '', paragraphs: [] as string[], items: loose }]
+    : []),
+  ...blocks.map((block) => ({
+    id: block.id,
+    heading: block.heading,
+    paragraphs: block.paragraphs,
+    items: block.items,
+  })),
+];
+let cardGroups = 0;
+const cardLayouts = panels.map((panel) => {
+  if (panel.items.length === 0) return 'rest';
+  const layout = cardGroups === 0 ? 'lead' : cardGroups === 1 ? 'lines' : 'rest';
+  cardGroups += 1;
+  return layout;
+});
 ---
 <Base
   title={`${section.title} in ${place.name}`}
@@ -63,26 +82,16 @@ function cardAlt(item: InterestRailItem) {
     <SectionNav label={`${section.title} in ${place.name}`} items={nav} />
     <div class="reading place-body">
       {(section.body || []).map((paragraph) => <p>{paragraph}</p>)}
-      {loose.length > 0 && (
-        <section class="place-section" id={blocks.length ? undefined : 'stops'}>
-          <div class="food-grid">
-            {loose.map((item, index) => (
-              <a class="food-card" href={item.href}>
-                <span class="media"><Photo id={item.photo} fallbackId={item.fallback} alt={cardAlt(item)} cover={item.cover} priority={index === 0 && blocks.length === 0} /></span>
-                <strong>{item.title}</strong>
-                {item.summary && <em>{item.summary}</em>}
-              </a>
-            ))}
-          </div>
-        </section>
-      )}
-      {blocks.map((block) => (
-        <section id={block.id} class="place-section">
-          <h2>{block.heading}</h2>
-          {block.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
-          {block.items.length > 0 && (
-            <div class="food-grid">
-              {block.items.map((item) => (
+      {panels.map((panel, index) => (
+        <section id={panel.id} class="place-section">
+          {panel.heading && <h2>{panel.heading}</h2>}
+          {panel.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
+          {panel.items.length > 0 && (
+            <div class:list={[
+              cardLayouts[index] === 'lines' ? 'interest-lines' : 'food-grid',
+              { 'interest-lead': cardLayouts[index] === 'lead' },
+            ]}>
+              {panel.items.map((item) => (
                 <a class="food-card" href={item.href}>
                   <span class="media"><Photo id={item.photo} fallbackId={item.fallback} alt={cardAlt(item)} cover={item.cover} priority={item === section.items[0]} /></span>
                   <strong>{item.title}</strong>
