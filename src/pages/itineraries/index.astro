@@ -1,55 +1,44 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
-import ItineraryCardGrid from '../../components/ItineraryCardGrid.astro';
+import ItineraryIndexCard from '../../components/ItineraryIndexCard.astro';
 import PlanTabs from '../../components/PlanTabs.astro';
-import { getItineraries } from '../../lib/content';
-import {
-  daysFor,
-  durationLabel,
-  firstWithDays,
-  GATEWAYS,
-  isNationwideLength,
-  type FilterTrip,
-} from '../../lib/itinerary-filters';
-import { groupItineraries, itineraryCard } from '../../lib/itinerary-index';
+import { corridorsNorthToSouth, getItineraries } from '../../lib/content';
+import { buildItineraryIndex, compareItineraryTitle, durationChoices } from '../../lib/itinerary-index';
 import { titles } from '../../lib/page-title';
 import { breadcrumbList, itemList } from '../../lib/schema';
 import type { Itinerary } from '../../lib/types';
 
 const trips = getItineraries();
-const grouped = groupItineraries(trips);
-const cards = (items: Itinerary[]) => items.map(itineraryCard);
+const index = buildItineraryIndex(trips);
+const nationwideTrips = trips.filter((trip) => trip.level === 'nationwide' && trip.daysCount != null);
+const nationwideChoices = durationChoices(nationwideTrips);
+const regionTrips = trips.filter((trip): trip is Itinerary & { corridor: string; daysCount: number } => (
+  trip.level === 'region' && Boolean(trip.corridor) && trip.daysCount != null
+));
+const regionOptions = corridorsNorthToSouth().filter((corridor) => regionTrips.some((trip) => trip.corridor === corridor.slug));
+const defaultRegion = regionOptions[0]?.slug || '';
+const regionChoices = durationChoices(regionTrips.filter((trip) => trip.corridor === defaultRegion));
 
-const nationwideRecords: FilterTrip[] = trips.flatMap((trip) => {
-  if (trip.level !== 'nationwide' || trip.daysCount == null || !trip.gateway || !isNationwideLength(trip.daysCount)) return [];
-  return [{
-    slug: trip.slug,
-    title: trip.title,
-    summary: trip.summary,
-    duration: trip.duration,
-    pace: trip.pace,
-    daysCount: trip.daysCount,
-    gateway: trip.gateway,
-  }];
-});
-const regionRecords: FilterTrip[] = trips.flatMap((trip) => {
-  if (trip.level !== 'region' || trip.daysCount == null || !trip.corridor) return [];
-  return [{
-    slug: trip.slug,
-    title: trip.title,
-    summary: trip.summary,
-    duration: trip.duration,
-    pace: trip.pace,
-    daysCount: trip.daysCount,
-    corridor: trip.corridor,
-  }];
-});
-const gatewayValue = firstWithDays(GATEWAYS.map((gateway) => gateway.value), (value) => daysFor(nationwideRecords, 'gateway', value).length > 0) || GATEWAYS[0].value;
-const gatewayDays = daysFor(nationwideRecords, 'gateway', gatewayValue);
-const corridorValue = firstWithDays(grouped.corridors.map((corridor) => corridor.slug), (value) => daysFor(regionRecords, 'corridor', value).length > 0) || grouped.corridors[0]?.slug || '';
-const corridorDays = daysFor(regionRecords, 'corridor', corridorValue);
-const filterData = JSON.stringify({ nationwide: nationwideRecords, region: regionRecords }).replace(/</g, '\\u003c');
+function tripRow(trip: Itinerary) {
+  return { slug: trip.slug, title: trip.title, duration: trip.duration, daysCount: trip.daysCount };
+}
+
+const catalog = {
+  nationwide: {
+    choices: nationwideChoices,
+    trips: [...nationwideTrips].sort(compareItineraryTitle).map(tripRow),
+  },
+  regions: regionOptions.map((corridor) => {
+    const matching = regionTrips.filter((trip) => trip.corridor === corridor.slug);
+    return {
+      slug: corridor.slug,
+      choices: durationChoices(matching),
+      trips: [...matching].sort(compareItineraryTitle).map(tripRow),
+    };
+  }),
+};
+const catalogJson = JSON.stringify(catalog).replace(/</g, '\\u003c');
 const description = 'Nationwide routes, corridor trips, and timed city walks for Vietnam. Each trip is a sequence of places already on this site.';
 ---
 <Base title={titles.itineraries} description={description} path="/itineraries" ogType="website" jsonLd={[itemList('Itineraries', trips.map((trip) => ({ name: trip.title, path: `/itineraries/${trip.slug}` }))), breadcrumbList([{ name: 'Plan a trip', path: '/plan' }, { name: 'Itinerary ideas', path: '/itineraries' }])]}>
@@ -58,186 +47,153 @@ const description = 'Nationwide routes, corridor trips, and timed city walks for
     <h1>Itinerary ideas</h1>
     <PlanTabs current="itineraries" />
     <div class="itinerary-index place-body">
-      {grouped.nationwide.length > 0 && (
+      {index.nationwide.length > 0 && (
         <section class="itinerary-block itinerary-band" id="nationwide">
           <h2>Nationwide</h2>
-          <ItineraryCardGrid cards={cards(grouped.nationwide)} />
-          <form class="itinerary-filter" data-itinerary-filter="nationwide">
-            <label>Gateway
-              <select data-filter-primary>
-                {GATEWAYS.map((gateway) => (
-                  <option value={gateway.value} selected={gateway.value === gatewayValue}>{gateway.label}</option>
-                ))}
-              </select>
-            </label>
-            <label>Duration
-              <select data-filter-duration disabled={gatewayDays.length === 0}>
-                {gatewayDays.map((count) => (
-                  <option value={count}>{durationLabel(nationwideRecords.filter((trip) => trip.gateway === gatewayValue), count)}</option>
-                ))}
-              </select>
-            </label>
-            <button type="submit" disabled={gatewayDays.length === 0}>Show this itinerary</button>
-            <div class="itinerary-matches" data-filter-matches hidden></div>
+          <div class="itinerary-cards">
+            {index.nationwide.map((card) => <ItineraryIndexCard {...card} />)}
+          </div>
+          <form class="itinerary-picker" action="/itineraries#nationwide-results" method="get" data-itinerary-filter="nationwide">
+            <div class="itinerary-filter">
+              <label>Duration
+                <select name="nationwide-days" data-filter-duration>
+                  {nationwideChoices.map((choice) => (
+                    <option value={choice.daysCount}>{choice.label}</option>
+                  ))}
+                </select>
+              </label>
+              <button type="submit">See itineraries</button>
+            </div>
+            <div id="nationwide-results"></div>
           </form>
         </section>
       )}
-      {(grouped.corridors.length > 0 || grouped.regionalLoose.length > 0) && (
+      {index.regional.length > 0 && (
         <section class="itinerary-block itinerary-band" id="regional">
           <h2>Regional</h2>
-          {grouped.regionalLoose.length > 0 && (
-            <ItineraryCardGrid cards={cards(grouped.regionalLoose)} />
-          )}
-          {grouped.corridors.map((group) => (
-            <div class="itinerary-corridor" id={`corridor-${group.slug}`}>
-              <h3>{group.name}</h3>
-              <ItineraryCardGrid cards={cards(group.trips)} />
+          <div class="itinerary-cards">
+            {index.regional.map((card) => <ItineraryIndexCard {...card} />)}
+          </div>
+          <form class="itinerary-picker" action="/itineraries#regional-results" method="get" data-itinerary-filter="region">
+            <div class="itinerary-filter">
+              <label>Region
+                <select name="region" data-filter-region>
+                  {regionOptions.map((corridor) => (
+                    <option value={corridor.slug}>{corridor.name}</option>
+                  ))}
+                </select>
+              </label>
+              <label>Duration
+                <select name="region-days" data-filter-duration>
+                  {regionChoices.map((choice) => (
+                    <option value={choice.daysCount}>{choice.label}</option>
+                  ))}
+                </select>
+              </label>
+              <button type="submit">See itineraries</button>
             </div>
-          ))}
-          <form class="itinerary-filter" data-itinerary-filter="region">
-            <label>Region
-              <select data-filter-primary>
-                {grouped.corridors.map((corridor) => (
-                  <option value={corridor.slug} selected={corridor.slug === corridorValue}>{corridor.name}</option>
-                ))}
-              </select>
-            </label>
-            <label>Duration
-              <select data-filter-duration disabled={corridorDays.length === 0}>
-                {corridorDays.map((count) => (
-                  <option value={count}>{durationLabel(regionRecords.filter((trip) => trip.corridor === corridorValue), count)}</option>
-                ))}
-              </select>
-            </label>
-            <button type="submit" disabled={corridorDays.length === 0}>Show this itinerary</button>
-            <div class="itinerary-matches" data-filter-matches hidden></div>
+            <div id="regional-results"></div>
           </form>
         </section>
       )}
-      {grouped.places.map((group) => (
-        <section class="itinerary-block itinerary-place" id={`place-${group.slug}`}>
-          <h2>{group.href ? <a href={group.href}>{group.name}</a> : group.name}</h2>
-          {group.day.length > 0 && (
-            <div class="itinerary-kind">
-              <h3>Full day</h3>
-              <ItineraryCardGrid cards={cards(group.day)} />
-            </div>
-          )}
-          {group.half.length > 0 && (
-            <div class="itinerary-kind">
-              <h3>Half day</h3>
-              <ItineraryCardGrid cards={cards(group.half)} />
-            </div>
-          )}
+      {index.local.length > 0 && (
+        <section class="itinerary-block itinerary-band" id="local">
+          <h2>Local</h2>
+          <div class="itinerary-cards">
+            {index.local.map((card) => <ItineraryIndexCard {...card} />)}
+          </div>
         </section>
-      ))}
+      )}
     </div>
-    <script type="application/json" id="itinerary-filter-data" set:html={filterData}></script>
+    <script type="application/json" id="itinerary-filter-data" set:html={catalogJson}></script>
+    <script is:inline>
+      (function () {
+        var node = document.getElementById('itinerary-filter-data');
+        if (!node || !node.textContent) return;
+        var data = JSON.parse(node.textContent);
+        var params = new URLSearchParams(location.search);
+
+        function fillDuration(select, choices, preferred) {
+          var previous = preferred == null ? select.value : String(preferred);
+          select.replaceChildren();
+          choices.forEach(function (choice) {
+            var option = document.createElement('option');
+            option.value = String(choice.daysCount);
+            option.textContent = choice.label;
+            select.append(option);
+          });
+          if (choices.some(function (choice) { return String(choice.daysCount) === previous; })) {
+            select.value = previous;
+          }
+        }
+
+        function renderShortlist(host, trips) {
+          host.replaceChildren();
+          if (!trips.length) return;
+          var list = document.createElement('ul');
+          list.className = 'itinerary-shortlist';
+          trips.forEach(function (trip) {
+            var item = document.createElement('li');
+            var link = document.createElement('a');
+            link.href = '/itineraries/' + trip.slug;
+            var title = document.createElement('strong');
+            title.textContent = trip.title;
+            var duration = document.createElement('small');
+            duration.textContent = trip.duration;
+            link.append(title, duration);
+            item.append(link);
+            list.append(item);
+          });
+          host.append(list);
+        }
+
+        var nationwideForm = document.querySelector('form[data-itinerary-filter="nationwide"]');
+        var nationwideHost = document.getElementById('nationwide-results');
+        var nationwideDays = params.get('nationwide-days');
+        if (nationwideForm && nationwideHost && nationwideDays) {
+          var nationwideSelect = nationwideForm.querySelector('[data-filter-duration]');
+          var nationwideMatch = data.nationwide.choices.some(function (choice) {
+            return String(choice.daysCount) === nationwideDays;
+          });
+          if (nationwideSelect && nationwideMatch) {
+            nationwideSelect.value = nationwideDays;
+            renderShortlist(nationwideHost, data.nationwide.trips.filter(function (trip) {
+              return String(trip.daysCount) === nationwideDays;
+            }));
+          }
+        }
+
+        var regionForm = document.querySelector('form[data-itinerary-filter="region"]');
+        var regionHost = document.getElementById('regional-results');
+        if (regionForm && regionHost) {
+          var regionSelect = regionForm.querySelector('[data-filter-region]');
+          var regionDays = regionForm.querySelector('[data-filter-duration]');
+          var requestedRegion = params.get('region');
+          var requestedDays = params.get('region-days');
+          function regionBySlug(slug) {
+            return data.regions.find(function (region) { return region.slug === slug; });
+          }
+          if (regionSelect && regionDays) {
+            var active = regionBySlug(requestedRegion) || regionBySlug(regionSelect.value);
+            if (active) {
+              regionSelect.value = active.slug;
+              fillDuration(regionDays, active.choices, requestedRegion ? requestedDays : null);
+              if (requestedRegion && requestedDays && active.choices.some(function (choice) {
+                return String(choice.daysCount) === requestedDays;
+              })) {
+                renderShortlist(regionHost, active.trips.filter(function (trip) {
+                  return String(trip.daysCount) === requestedDays;
+                }));
+              }
+            }
+            regionSelect.addEventListener('change', function () {
+              var next = regionBySlug(regionSelect.value);
+              if (next) fillDuration(regionDays, next.choices);
+              regionHost.replaceChildren();
+            });
+          }
+        }
+      })();
+    </script>
   </div>
 </Base>
-<script>
-  import { daysFor, durationLabel, matchingTrips, type FilterTrip } from '../../lib/itinerary-filters';
-
-  type Payload = { nationwide: FilterTrip[]; region: FilterTrip[] };
-
-  document.querySelectorAll<HTMLButtonElement>('[data-see-more]').forEach((button) => {
-    button.addEventListener('click', () => {
-      const grid = button.previousElementSibling;
-      if (!(grid instanceof HTMLElement)) return;
-      const open = grid.classList.toggle('is-open');
-      button.setAttribute('aria-expanded', open ? 'true' : 'false');
-      button.textContent = open ? 'See less' : 'See more';
-    });
-  });
-
-  const node = document.getElementById('itinerary-filter-data');
-  if (node?.textContent) {
-    const data = JSON.parse(node.textContent) as Payload;
-    document.querySelectorAll<HTMLFormElement>('form[data-itinerary-filter]').forEach((form) => {
-      const kind = form.dataset.itineraryFilter === 'region' ? 'region' : 'nationwide';
-      const key = kind === 'region' ? 'corridor' : 'gateway';
-      const records = data[kind];
-      const primary = form.querySelector<HTMLSelectElement>('[data-filter-primary]');
-      const duration = form.querySelector<HTMLSelectElement>('[data-filter-duration]');
-      const button = form.querySelector<HTMLButtonElement>('button[type="submit"]');
-      const matches = form.querySelector<HTMLElement>('[data-filter-matches]');
-      if (!primary || !duration || !button || !matches) return;
-
-      const clearMatches = () => {
-        matches.hidden = true;
-        matches.replaceChildren();
-      };
-
-      const fillDuration = () => {
-        const selected = duration.value;
-        const counts = daysFor(records, key, primary.value);
-        const scoped = records.filter((trip) => trip[key] === primary.value);
-        duration.replaceChildren();
-        for (const count of counts) {
-          const option = document.createElement('option');
-          option.value = String(count);
-          option.textContent = durationLabel(scoped, count);
-          duration.append(option);
-        }
-        if (counts.map(String).includes(selected)) duration.value = selected;
-        const empty = counts.length === 0;
-        duration.disabled = empty;
-        button.disabled = empty;
-        clearMatches();
-      };
-
-      const plainCard = (trip: FilterTrip) => {
-        const link = document.createElement('a');
-        link.className = 'itinerary-card is-plain';
-        link.href = `/itineraries/${trip.slug}`;
-        link.dataset.slug = trip.slug;
-        const label = document.createElement('span');
-        label.className = 'itinerary-card-label';
-        const title = document.createElement('strong');
-        title.textContent = trip.title;
-        const meta = document.createElement('small');
-        meta.textContent = trip.duration;
-        label.append(title, meta);
-        link.append(label);
-        return link;
-      };
-
-      const catalogCard = (slug: string) => {
-        const catalogs = form.closest('.itinerary-block')?.querySelectorAll('[data-itinerary-catalog]');
-        if (!catalogs) return null;
-        for (const catalog of catalogs) {
-          const found = catalog.querySelector<HTMLAnchorElement>(`[data-slug="${CSS.escape(slug)}"]`);
-          if (found) return found;
-        }
-        return null;
-      };
-
-      primary.addEventListener('change', fillDuration);
-      duration.addEventListener('change', clearMatches);
-      form.addEventListener('submit', (event) => {
-        event.preventDefault();
-        if (button.disabled) return;
-        const found = matchingTrips(records, key, primary.value, Number(duration.value));
-        if (found.length === 1) {
-          window.location.assign(`/itineraries/${found[0].slug}`);
-          return;
-        }
-        matches.replaceChildren();
-        if (found.length < 2) {
-          matches.hidden = true;
-          return;
-        }
-        const grid = document.createElement('div');
-        grid.className = 'itinerary-cards';
-        for (const trip of found) {
-          const existing = catalogCard(trip.slug);
-          const copy = existing ? existing.cloneNode(true) : plainCard(trip);
-          if (copy instanceof HTMLElement) copy.classList.remove('is-extra');
-          grid.append(copy);
-        }
-        matches.append(grid);
-        matches.hidden = false;
-      });
-    });
-  }
-</script>
