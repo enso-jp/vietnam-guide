@@ -1,0 +1,51 @@
+{
+  "slug": "hanoi-museums-half-day",
+  "title": "Hanoi museums half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "hanoi",
+  "budget": "Check on arrival",
+  "pace": "The museum row",
+  "photo": "hanoi-ethnology",
+  "summary": "The ethnology museum, the women’s museum, the history museum, the fine-arts museum, and Hoa Lo. Three of the adult tickets are 40,000 VND. Hoa Lo is 50,000 VND. Fine arts is Check on arrival. How long each gallery takes is Check on arrival.",
+  "stops": [
+    {
+      "name": "Vietnam Museum of Ethnology",
+      "minutes": "Check on arrival",
+      "placeSlug": "hanoi",
+      "attractionSlug": "ethnology",
+      "note": "An adult ticket is 40,000 VND."
+    },
+    {
+      "name": "Women's Museum",
+      "minutes": "Check on arrival",
+      "placeSlug": "hanoi",
+      "attractionSlug": "womens-museum",
+      "note": "An adult ticket is 40,000 VND."
+    },
+    {
+      "name": "History Museum",
+      "minutes": "Check on arrival",
+      "placeSlug": "hanoi",
+      "attractionSlug": "history-museum",
+      "note": "An adult ticket is 40,000 VND."
+    },
+    {
+      "name": "Fine Arts Museum",
+      "minutes": "Check on arrival",
+      "placeSlug": "hanoi",
+      "attractionSlug": "fine-arts",
+      "note": "The fee is Check on arrival."
+    },
+    {
+      "name": "Hoa Lo",
+      "minutes": "Check on arrival",
+      "placeSlug": "hanoi",
+      "attractionSlug": "hoa-lo",
+      "note": "An adult ticket is 50,000 VND."
+    }
+  ],
+  "seoTitle": "Hanoi museums half day",
+  "seoDescription": "A half day in Hanoi’s museums, plus Hoa Lo. Three adult tickets are 40,000 VND. Hoa Lo is 50,000 VND."
+}

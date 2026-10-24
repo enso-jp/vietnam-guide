@@ -1,0 +1,44 @@
+{
+  "slug": "sam-mountain-half-day",
+  "title": "Sam Mountain half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "chau-doc",
+  "budget": "Check on arrival",
+  "pace": "The mountain",
+  "photo": "chau-doc-sam-mountain",
+  "summary": "Sam Mountain is a morning, longer if you climb. Ba Chua Xu, Tay An, and the Thoai Ngoc Hau tomb sit with it. Fees are Check on arrival. How many of them fit the half day is Check on arrival.",
+  "stops": [
+    {
+      "name": "Sam Mountain",
+      "minutes": "Check on arrival",
+      "placeSlug": "chau-doc",
+      "attractionSlug": "sam-mountain",
+      "note": "A morning, longer if you climb. The fee is Check on arrival."
+    },
+    {
+      "name": "Ba Chua Xu",
+      "minutes": "Check on arrival",
+      "placeSlug": "chau-doc",
+      "attractionSlug": "ba-chua-xu",
+      "note": "The temple on the mountain. The fee is Check on arrival."
+    },
+    {
+      "name": "Tay An Pagoda",
+      "minutes": "Check on arrival",
+      "placeSlug": "chau-doc",
+      "attractionSlug": "tay-an-pagoda",
+      "note": "The pagoda. The fee is Check on arrival."
+    },
+    {
+      "name": "Thoai Ngoc Hau tomb",
+      "minutes": "Check on arrival",
+      "placeSlug": "chau-doc",
+      "attractionSlug": "thoai-ngoc-hau-tomb",
+      "note": "The tomb. The fee is Check on arrival."
+    }
+  ],
+  "seoTitle": "Sam Mountain half day",
+  "seoDescription": "A half day at Sam Mountain, with Ba Chua Xu, Tay An, and the Thoai Ngoc Hau tomb. Fees are Check on arrival."
+}
