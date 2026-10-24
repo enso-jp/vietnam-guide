@@ -127,8 +127,20 @@ const topInterest = Object.entries(place.interests).sort((a, b) => b[1] - a[1])[
 const topDots = rankedAttractions[0]?.dots ?? 0;
 const tiedForLead = rankedAttractions.filter((item) => item.dots === topDots);
 const leadSight = tiedForLead.find((item) => topInterest && item.interests.includes(topInterest)) ?? tiedForLead[0];
-const tourCandidates = leadSight ? [leadSight, ...rankedAttractions] : rankedAttractions;
-const tourSight = tourCandidates.find((item) => photoPath(`${item.placeSlug}-${item.slug}`));
+/** A sourced ticket price, not a free entry or an unknown fee. */
+function chargesAdmission(fee: string): boolean {
+  const text = fee.trim();
+  if (!text || /^free\b/i.test(text) || /^no (ticket|gate fee|road ticket)\b/i.test(text)) return false;
+  if (/^check on arrival\.?$/i.test(text)) return false;
+  return /\d/.test(text);
+}
+function isMuseumOrShow(item: { name: string; kicker?: string }): boolean {
+  return /\b(museum|show|opera|theatre|theater|performance|gallery|circus)\b/i.test(`${item.name} ${item.kicker ?? ''}`);
+}
+const ticketedSights = rankedAttractions.filter(
+  (item) => photoPath(`${item.placeSlug}-${item.slug}`) && chargesAdmission(item.fee),
+);
+const tourSight = ticketedSights.find((item) => isMuseumOrShow(item)) ?? ticketedSights[0];
 ---
 <Base title={title} description={description} path={path} jsonLd={[jsonLd, breadcrumb, questions].filter((item) => item !== null)} ogImage={image} placeId={place.slug}>
   <article class="wrap">
@@ -324,7 +336,7 @@ const tourSight = tourCandidates.find((item) => photoPath(`${item.placeSlug}-${i
                     <strong>{tourSight.name}</strong>
                     {(tourSight.district || tourSight.kicker) && <em>{tourSight.district || tourSight.kicker}</em>}
                     <p>{cardLine(tourSight.summary)}</p>
-                    <span class="aff-btn aff-btn-quiet">See this sight</span>
+                    <span class="aff-btn">Search tours & attractions</span>
                   </span>
                 </a>
               </li>
