@@ -1,0 +1,53 @@
+{
+  "slug": "sapa-two-days",
+  "title": "Two days in Sapa",
+  "kind": "trip",
+  "level": "day",
+  "duration": "2 days",
+  "spanDays": 2,
+  "placeSlug": "sapa",
+  "budget": "Check on arrival",
+  "pace": "The church, then the cable car",
+  "photo": "sapa-stone-church",
+  "summary": "The stone church and Cat Cat on the first day. Fansipan on the second, if the ridge is clear. The waterfall stays off this plan.",
+  "days": [
+    {
+      "title": "Day 1 — Church and Cat Cat",
+      "body": "Spend about 60 minutes at the stone church. The visit is free. Then walk to Cat Cat. The walk length is Check on arrival.",
+      "placeSlug": "sapa",
+      "photo": "sapa-stone-church",
+      "itinerarySlug": "sapa-day"
+    },
+    {
+      "title": "Day 2 — Fansipan",
+      "body": "Ride the cable car to Fansipan when the ridge is clear. The ride is given as about 15 minutes, as 15–20 minutes, and as 30 minutes. The fare is 750,000 đồng, or 850,000 đồng round trip.",
+      "placeSlug": "sapa",
+      "photo": "sapa-fansipan"
+    }
+  ],
+  "stops": [
+    {
+      "name": "Stone church",
+      "minutes": 60,
+      "placeSlug": "sapa",
+      "attractionSlug": "stone-church",
+      "note": "Day one. About 60 minutes, and the visit is free."
+    },
+    {
+      "name": "Cat Cat",
+      "minutes": "Check on arrival",
+      "placeSlug": "sapa",
+      "attractionSlug": "cat-cat",
+      "note": "Day one, after the church. The scenic fee and the village gate are different charges. Both are Check on arrival."
+    },
+    {
+      "name": "Fansipan",
+      "minutes": "Check on arrival",
+      "placeSlug": "sapa",
+      "attractionSlug": "fansipan",
+      "note": "Day two, when the ridge is clear. The ride is given as about 15 minutes, as 15–20 minutes, and as 30 minutes. The fare is 750,000 đồng, or 850,000 đồng round trip. Weather can close the line."
+    }
+  ],
+  "seoTitle": "Two days in Sapa",
+  "seoDescription": "The stone church and Cat Cat, then the Fansipan cable car. The ride is printed three ways."
+}

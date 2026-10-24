@@ -1,0 +1,27 @@
+{
+  "slug": "mua-cave-half-day",
+  "title": "Hang Mua half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "ninh-binh",
+  "budget": "Check on arrival",
+  "pace": "One stair",
+  "photo": "ninh-binh-mua-cave",
+  "summary": "Climb the stone stair at Hang Mua for the rice, the towers, and one view over the Tam Coc valley. The ticket is 150,000 đồng per person. No child price is listed.",
+  "stops": [
+    {
+      "name": "Hang Mua",
+      "minutes": "Check on arrival",
+      "placeSlug": "ninh-binh",
+      "attractionSlug": "mua-cave",
+      "note": "The stone stair. The ticket is 150,000 đồng per person. No child price is listed. How long the climb takes is Check on arrival.",
+      "approach": {
+        "mode": "walk",
+        "note": "Climb the stone stair at Hang Mua."
+      }
+    }
+  ],
+  "seoTitle": "Hang Mua half day",
+  "seoDescription": "A half day at Hang Mua: the stair over Tam Coc. The ticket is 150,000 đồng per person."
+}

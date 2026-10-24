@@ -1,0 +1,75 @@
+{
+  "slug": "ninh-binh-two-days",
+  "title": "Two days in Ninh Binh",
+  "kind": "trip",
+  "level": "day",
+  "duration": "2 days",
+  "spanDays": 2,
+  "placeSlug": "ninh-binh",
+  "budget": "Check on arrival",
+  "pace": "One sampan, then the temples",
+  "photo": "ninh-binh-trang-an",
+  "summary": "Trang An and Hoa Lu on the first day. Bai Dinh, Van Long, and Phat Diem on the second. Hang Mua is a separate half day. Every clock on site is Check on arrival.",
+  "days": [
+    {
+      "title": "Day 1 — Trang An and Hoa Lu",
+      "body": "Sit the sampan at Trang An. An adult over 1.3 m is 300,000 đồng. Walk Hoa Lu if the morning is still open. An adult ticket there is 20,000 đồng.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-trang-an"
+    },
+    {
+      "title": "Day 2 — Bai Dinh, Van Long, Phat Diem",
+      "body": "Bai Dinh, then Van Long, then Phat Diem if the afternoon is open. An adult at Van Long is 100,000 đồng. Bai Dinh and Phat Diem fees are Check on arrival. How long each one takes is Check on arrival.",
+      "placeSlug": "ninh-binh",
+      "photo": "ninh-binh-bai-dinh"
+    }
+  ],
+  "stops": [
+    {
+      "name": "Trang An",
+      "minutes": "Check on arrival",
+      "placeSlug": "ninh-binh",
+      "attractionSlug": "trang-an",
+      "note": "Day one. The sampan on sông Sào Khê. An adult over 1.3 m is 300,000 đồng."
+    },
+    {
+      "name": "Hoa Lu",
+      "minutes": "Check on arrival",
+      "placeSlug": "ninh-binh",
+      "attractionSlug": "hoa-lu",
+      "note": "Day one, the old capital. An adult ticket is 20,000 đồng."
+    },
+    {
+      "name": "Bai Dinh",
+      "minutes": "Check on arrival",
+      "placeSlug": "ninh-binh",
+      "attractionSlug": "bai-dinh",
+      "note": "Day two. The fee is Check on arrival."
+    },
+    {
+      "name": "Van Long",
+      "minutes": "Check on arrival",
+      "placeSlug": "ninh-binh",
+      "attractionSlug": "van-long",
+      "note": "Day two. An adult ticket is 100,000 đồng."
+    },
+    {
+      "name": "Phat Diem",
+      "minutes": "Check on arrival",
+      "placeSlug": "ninh-binh",
+      "attractionSlug": "phat-diem",
+      "note": "Day two, if the afternoon is open. The fee is Check on arrival."
+    }
+  ],
+  "additions": [
+    {
+      "name": "Hang Mua",
+      "placeSlug": "ninh-binh",
+      "attractionSlug": "mua-cave",
+      "itinerarySlug": "mua-cave-half-day",
+      "note": "The stair over the Tam Coc valley. A separate half day, not this pair of days."
+    }
+  ],
+  "seoTitle": "Two days in Ninh Binh",
+  "seoDescription": "Trang An and Hoa Lu, then Bai Dinh, Van Long, and Phat Diem. Time on site is Check on arrival."
+}

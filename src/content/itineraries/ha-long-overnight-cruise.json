@@ -1,0 +1,73 @@
+{
+  "slug": "ha-long-overnight-cruise",
+  "title": "Ha Long overnight",
+  "kind": "trip",
+  "level": "day",
+  "duration": "2 days",
+  "spanDays": 2,
+  "placeSlug": "ha-long",
+  "budget": "Check on arrival",
+  "pace": "One night on the water",
+  "photo": "ha-long",
+  "summary": "Sleep on a boat in the bay and go ashore where that boat lands. A published overnight average is 600,000–800,000 đồng a person, and that line does not name a boat or what the ticket includes.",
+  "days": [
+    {
+      "title": "Day 1 — Leave the harbor",
+      "body": "Leave from the Ha Long passenger port or from Tuan Chau and sleep on the boat. Day boats return to the harbor. This one does not.",
+      "placeSlug": "ha-long",
+      "photo": "ha-long"
+    },
+    {
+      "title": "Day 2 — Ashore, then back",
+      "body": "Go ashore where the boat lands. Sung Sot is on the longer route. Ti Top, Luon, and Trong Mai are the other landings named with it. Then return to the harbor.",
+      "placeSlug": "ha-long",
+      "photo": "ha-long-sung-sot"
+    }
+  ],
+  "stops": [
+    {
+      "name": "Sung Sot",
+      "minutes": "Check on arrival",
+      "placeSlug": "ha-long",
+      "attractionSlug": "sung-sot",
+      "note": "The longer route goes ashore here. Day-boat route 2 clocks Ti Top, Sung Sot, and Luon together at 5–6 hours. That clock is the day boat, not this overnight."
+    },
+    {
+      "name": "Ti Top",
+      "minutes": "Check on arrival",
+      "placeSlug": "ha-long",
+      "attractionSlug": "titop",
+      "note": "A landing on the longer route, if this boat stops."
+    },
+    {
+      "name": "Luon",
+      "minutes": "Check on arrival",
+      "placeSlug": "ha-long",
+      "attractionSlug": "luon",
+      "note": "Kayak or a rowboat on the longer route, if this boat stops."
+    },
+    {
+      "name": "Trong Mai",
+      "minutes": "Check on arrival",
+      "placeSlug": "ha-long",
+      "attractionSlug": "trong-mai",
+      "note": "Seen from the deck, inside the route."
+    }
+  ],
+  "additions": [
+    {
+      "name": "Thien Cung",
+      "placeSlug": "ha-long",
+      "attractionSlug": "thien-cung",
+      "note": "Route 1, a different boat, clocked at 3–4 hours with Dau Go. Not this overnight."
+    },
+    {
+      "name": "Dau Go",
+      "placeSlug": "ha-long",
+      "attractionSlug": "dau-go",
+      "note": "The other cave on route 1, with Thien Cung."
+    }
+  ],
+  "seoTitle": "Ha Long overnight cruise",
+  "seoDescription": "Two days on Ha Long: sleep on the boat, and go ashore where that boat lands. The overnight average does not name a boat."
+}
