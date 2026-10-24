@@ -1,0 +1,42 @@
+{
+  "slug": "hue-festival-week-4-days",
+  "title": "Hue Festival week",
+  "kind": "trip",
+  "level": "region",
+  "duration": "4 days",
+  "daysCount": 4,
+  "corridor": "north-central",
+  "variant": "arts-week",
+  "budget": "Check on arrival",
+  "pace": "The citadel, then the week",
+  "summary": "Four days in Hue for the International Arts Festival week, 13–18 June 2026. The festival also runs the whole of 2026. Later years are Check on arrival. The ordinary citadel ticket is separate.",
+  "days": [
+    {
+      "title": "Day 1 — Citadel",
+      "body": "Visit the Hue Citadel. The ordinary ticket is separate from the festival.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "itinerarySlug": "hue-citadel-half-day"
+    },
+    {
+      "title": "Day 2 — Perfume River",
+      "body": "Walk the Perfume River. The festival’s arts week is 13–18 June 2026.",
+      "placeSlug": "hue",
+      "photo": "hue-perfume-river"
+    },
+    {
+      "title": "Day 3 — Arts week",
+      "body": "Stay for the arts week. A named performance beyond the published week is Check on arrival.",
+      "placeSlug": "hue",
+      "photo": "hue-festival"
+    },
+    {
+      "title": "Day 4 — Arts week",
+      "body": "A second day of the arts week, 13–18 June 2026. Later years are Check on arrival.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel"
+    }
+  ],
+  "seoTitle": "Hue Festival week",
+  "seoDescription": "Four days in Hue for the arts week of 13–18 June 2026. Later years are Check on arrival."
+}

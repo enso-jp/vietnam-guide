@@ -1,0 +1,41 @@
+{
+  "slug": "ba-be-boat-half-day",
+  "title": "Ba Be boat half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "ba-be",
+  "budget": "Check on arrival",
+  "pace": "One boat",
+  "photo": "ba-be-lake",
+  "summary": "The morning boat across Ba Be and through Puong. Dau Dang belongs on that boat only when the circuit is the long one. How long the boat runs is Check on arrival.",
+  "stops": [
+    {
+      "name": "Ba Be Lake",
+      "minutes": "Check on arrival",
+      "placeSlug": "ba-be",
+      "attractionSlug": "ba-be-lake",
+      "note": "The open water. The fee is Check on arrival.",
+      "approach": {
+        "mode": "boat",
+        "note": "The morning circuit leaves by boat. Minutes on the water are Check on arrival."
+      }
+    },
+    {
+      "name": "Puong Cave",
+      "minutes": "Check on arrival",
+      "placeSlug": "ba-be",
+      "attractionSlug": "puong-cave",
+      "note": "The cave on the morning boat. The fee is Check on arrival."
+    },
+    {
+      "name": "Dau Dang",
+      "minutes": "Check on arrival",
+      "placeSlug": "ba-be",
+      "attractionSlug": "dau-dang",
+      "note": "Only when the circuit is the long one. The fee is Check on arrival."
+    }
+  ],
+  "seoTitle": "Ba Be boat half day",
+  "seoDescription": "A half day by boat on Ba Be, through Puong. Dau Dang is the long circuit. The boat time is Check on arrival."
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "saigon-war-history-half-day",
+  "title": "Saigon war-history half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "ho-chi-minh-city",
+  "budget": "Check on arrival",
+  "pace": "Two museums",
+  "photo": "ho-chi-minh-city-war-remnants",
+  "summary": "The War Remnants Museum and the Reunification Palace. Ticket prices are listed more than one way. How long each visit takes is Check on arrival.",
+  "stops": [
+    {
+      "name": "War Remnants Museum",
+      "minutes": "Check on arrival",
+      "placeSlug": "ho-chi-minh-city",
+      "attractionSlug": "war-remnants",
+      "note": "Open 7:30–17:30, last admission 17:00. An adult ticket is 60,000 đồng from 1 October 2026, and 15,000 đồng is also listed.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk to the museum on Võ Văn Tần."
+      }
+    },
+    {
+      "name": "Reunification Palace",
+      "minutes": "Check on arrival",
+      "placeSlug": "ho-chi-minh-city",
+      "attractionSlug": "reunification-palace",
+      "note": "Open 07:00–18:00. The palace alone is 40,000 đồng. An adult ticket is also listed at 80,000 đồng."
+    }
+  ],
+  "seoTitle": "Saigon war-history half day",
+  "seoDescription": "The War Remnants Museum and the Reunification Palace. Adult tickets are listed more than one way."
+}

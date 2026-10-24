@@ -1,0 +1,37 @@
+{
+  "slug": "saigon-food-evening",
+  "title": "Saigon food evening",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "An evening",
+  "placeSlug": "ho-chi-minh-city",
+  "budget": "Check on arrival",
+  "pace": "Three plates",
+  "photo": "com-tam",
+  "summary": "Cơm tấm, bánh mì, and bánh xèo. How long to allow for each plate is Check on arrival.",
+  "stops": [
+    {
+      "name": "Com tam",
+      "minutes": "Check on arrival",
+      "placeSlug": "ho-chi-minh-city",
+      "dishSlug": "com-tam",
+      "note": "Eat cơm tấm."
+    },
+    {
+      "name": "Banh mi",
+      "minutes": "Check on arrival",
+      "placeSlug": "ho-chi-minh-city",
+      "dishSlug": "banh-mi",
+      "note": "Eat bánh mì."
+    },
+    {
+      "name": "Banh xeo",
+      "minutes": "Check on arrival",
+      "placeSlug": "ho-chi-minh-city",
+      "dishSlug": "banh-xeo",
+      "note": "Eat bánh xèo."
+    }
+  ],
+  "seoTitle": "Saigon food evening",
+  "seoDescription": "An evening of cơm tấm, bánh mì, and bánh xèo in Ho Chi Minh City."
+}
