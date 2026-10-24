@@ -1090,14 +1090,14 @@
       "track": "unit",
       "name": "Thao Dien",
       "slug": "thao-dien",
-      "file": "research/ho-chi-minh-city/attractions/thao-dien.md",
+      "file": "src/content/attractions/ho-chi-minh-city--thao-dien.json",
       "source": "owner",
       "research": "stored",
-      "page": "blocked",
-      "copy": "not_started",
+      "page": "paged",
+      "copy": "enriched",
       "quality": "not_started",
-      "note": "No licensed photo of the Thao Dien streets, cafes, or bars. Station and opposite-bank river frames are the wrong subject.",
-      "updated": "2026-10-24T03:59:38.227Z",
+      "note": "Paged 24 Oct 2026. Owner photo is one brunch room, not a street panorama. Hours and minutes Check on arrival. Dot 4 proposed.",
+      "updated": "2026-10-24T04:54:55.249Z",
       "reworkCount": 0
     },
     {
@@ -1106,14 +1106,14 @@
       "track": "unit",
       "name": "Pham Viet Chanh",
       "slug": "pham-viet-chanh",
-      "file": "research/ho-chi-minh-city/attractions/pham-viet-chanh.md",
+      "file": "src/content/attractions/ho-chi-minh-city--pham-viet-chanh.json",
       "source": "owner",
       "research": "stored",
-      "page": "blocked",
-      "copy": "not_started",
+      "page": "paged",
+      "copy": "enriched",
       "quality": "not_started",
-      "note": "No licensed photo of Pham Viet Chanh in Binh Thanh. The District 1 panoramio is a different street. The Visit HCMC article redirected and was not read.",
-      "updated": "2026-10-24T03:59:38.265Z",
+      "note": "Paged 24 Oct 2026. Owner night photo of the Binh Thanh street, rooms 34 and 36. Not Le Thanh Ton. Clock Check on arrival. Dot 3 proposed.",
+      "updated": "2026-10-24T04:54:55.301Z",
       "reworkCount": 0
     }
   ],
@@ -1123,14 +1123,14 @@
       "stage": "page",
       "item": "ho-chi-minh-city--thao-dien",
       "text": "No licensed photo of the Thao Dien streets, cafes, or bars. Station and opposite-bank river frames are the wrong subject.",
-      "open": true
+      "open": false
     },
     {
       "at": "2026-10-24T03:59:38.265Z",
       "stage": "page",
       "item": "ho-chi-minh-city--pham-viet-chanh",
       "text": "No licensed photo of Pham Viet Chanh in Binh Thanh. The District 1 panoramio is a different street. The Visit HCMC article redirected and was not read.",
-      "open": true
+      "open": false
     }
   ],
   "claim": null,

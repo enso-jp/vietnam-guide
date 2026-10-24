@@ -1,0 +1,52 @@
+{
+  "slug": "pham-viet-chanh",
+  "placeSlug": "ho-chi-minh-city",
+  "name": "Pham Viet Chanh",
+  "nameVi": "Phạm Viết Chánh",
+  "kicker": "Smaller Japanese street in Bình Thạnh",
+  "summary": "Phạm Viết Chánh in Bình Thạnh: eat at the Japanese rooms, on a smaller street than Lê Thánh Tôn. The night fronts include the rooms at 34 and 36. This is not the alley walk off Lê Thánh Tôn and Thái Văn Lung. Check on arrival for a clock.",
+  "dots": 3,
+  "timeNeeded": "A meal. Check on arrival.",
+  "fee": "Check on arrival.",
+  "getThere": "A ride from the center into Bình Thạnh. Check on arrival for the minutes.",
+  "district": "Phạm Viết Chánh",
+  "verified": "24 Oct 2026",
+  "heroCaption": "Japanese restaurant fronts at night on Phạm Viết Chánh, including 34 and 36",
+  "notice": {
+    "title": "Do not use the center's clock",
+    "body": "Lê Thánh Tôn prints a lunch hour and an evening hour. This street does not. Check on arrival."
+  },
+  "body": [
+    "A smaller Japanese community lives on Phạm Viết Chánh in Bình Thạnh, closer to the factories in Bình Dương and Đồng Nai than the center is. Japanese restaurant fronts line the street. You eat here. You are not in the alleys off Lê Thánh Tôn and Thái Văn Lung.",
+    "At night the rooms at 34 and 36 face the street, noren in the doorways and menus in the windows. The center Japan Town is the other walk. This one has no printed clock. Check on arrival, and check the minutes for the ride from the cathedral square."
+  ],
+  "figures": [
+    {
+      "id": "ho-chi-minh-city-pham-viet-chanh-2",
+      "caption": "The room at 36, noren in the doorway and a menu in the window",
+      "alt": "Night view of a Japanese restaurant front numbered 36 with a noren curtain"
+    }
+  ],
+  "gettingThere": [
+    "Phạm Viết Chánh is in Bình Thạnh, not the center. A ride from the cathedral square. Check on arrival for the minutes."
+  ],
+  "legs": [
+    {
+      "heading": "From the cathedral square",
+      "body": "A ride into Bình Thạnh. Check on arrival for the minutes."
+    }
+  ],
+  "hours": "Check on arrival.",
+  "closed": "Check on arrival.",
+  "admissionNote": "Check on arrival. You pay for what you order.",
+  "links": [
+    {
+      "label": "Little Japan in Saigon",
+      "url": "https://vnexpress.net/little-japan-o-sai-gon-4060206.html",
+      "note": "VnExpress, 2 March 2020"
+    }
+  ],
+  "interests": [
+    "food"
+  ]
+}

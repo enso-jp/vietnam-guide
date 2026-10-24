@@ -2,7 +2,7 @@
 
 Place: `ho-chi-minh-city`
 Slug: `thao-dien`
-Status: unpublished: no licensed photo
+Status: stored
 Checked: 24 Oct 2026
 
 ## What it is
@@ -57,6 +57,7 @@ Checked: 24 Oct 2026
 - Hero must show: Xuân Thủy or the villa streets, cafes or bars, the neighborhood itself.
 - Second frame must show (a different moment): Another street, or the same street at another hour. Not the metro platform. Not the far bank.
 - Reject: Thảo Điền station frames. File:Afternoon over the Saigon River - View from Thao Dien to the Airport (38194651944).jpg is the river and the opposite bank, taken from Thảo Điền. It is not the neighborhood. File:Thi cong duong xe Dien tren song Saigon, thao Dien q2, hcmvn - panoramio.jpg is construction. Xuân Thủy Road files on Commons are Hanoi.
+- Owner photo, 24 Oct 2026: Tan Hai Long Phung supplied one brunch room, L'Usine Thảo Điền, the Saigon mural under a high ceiling. It is not a street panorama. The public caption says so. Hero crop is the upper 3:2 of that square, mural and tables. Second crop is the tables under the mural. License is owner supplied. No Commons license was invented.
 
 ## Links
 
@@ -65,7 +66,7 @@ Checked: 24 Oct 2026
 
 ## Open questions
 
-- A licensed photo of Xuân Thủy, the cafes, or the bars.
+- A street photograph of Xuân Thủy. The published frame is one brunch room.
 - A street clock.
 - Minutes from Bến Thành to Thảo Điền station.
 
@@ -89,5 +90,6 @@ Checked: 24 Oct 2026
 
 ## Draft
 
-- Status: unpublished: no licensed photo
-- Left off the city card. The station and the river view of the opposite bank are the wrong subject.
+- Status: paged
+- Dot proposed: 4. A neighborhood visit, the same class as a dining walk, not a monument day.
+- The station and the opposite-bank river view stay rejected.
