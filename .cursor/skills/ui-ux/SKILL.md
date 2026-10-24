@@ -50,7 +50,7 @@ Under the grid, a region list. Each region has a small highlighted map. Each pla
 
 ### Plan a trip
 
-`src/pages/plan/index.astro`. On a phone, the page is a two-column card grid of the sections already on the site. A section that is longer has See all. Each section header links to `/plan/sections/{slug}` and that page lists the same guides, routes, and itineraries. Vietnam travel news sits at the bottom and links to the existing blog posts, the same posts as the homepage highlights. Each card links into that blog. No invented stories, and no flight ad.
+`src/pages/plan/index.astro`. On a phone, the page is a two-column card grid of the sections already on the site. A section that is longer has See all. Each section header links to `/plan/sections/{slug}` and that page lists the same guides, routes, and itineraries, except Itineraries: the heading and See all open `/itineraries`. The phone menu and the desktop Itineraries name open `/itineraries`. Vietnam travel news sits at the bottom and links to the existing blog posts, the same posts as the homepage highlights. Each card links into that blog. No invented stories, and no flight ad.
 
 ### Itinerary
 

@@ -13,7 +13,7 @@ import {
 } from '../lib/content';
 import { compareItineraryTitle, groupItineraries } from '../lib/itinerary-index';
 import { photoPath } from '../lib/photos';
-import { planSections } from '../lib/plan-sections';
+import { planSectionLink, planSections } from '../lib/plan-sections';
 import type { Itinerary } from '../lib/types';
 
 const path = Astro.url.pathname;
@@ -225,7 +225,7 @@ const itineraryPhotos = featuredTrips.filter((trip) => photoPath(trip.photo)).sl
             <div class="nav-cols">
               {planColumns.map((column) => (
                 <div>
-                  <p class="nav-col-title"><a href={column.href}>{column.title}</a></p>
+                  <p class="nav-col-title"><a href={planSectionLink(column)}>{column.title}</a></p>
                   <ul>
                     {column.links.map((item) => (
                       <li><a href={item.href}>{item.label}</a></li>

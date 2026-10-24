@@ -7,7 +7,7 @@ import Photo from '../../components/Photo.astro';
 import { getHighlights } from '../../lib/content';
 import { photoPath } from '../../lib/photos';
 import { titles } from '../../lib/page-title';
-import { planSections } from '../../lib/plan-sections';
+import { planSectionLink, planSections } from '../../lib/plan-sections';
 import { breadcrumbList } from '../../lib/schema';
 
 const columns = planSections();
@@ -28,7 +28,7 @@ const news = getHighlights().filter((story) => {
       <nav class="tabs" aria-label="Plan a trip">
         <a href="/plan" aria-current="page">Plan a trip</a>
         {columns.map((column) => (
-          <a href={column.href}>{column.title}</a>
+          <a href={planSectionLink(column)}>{column.title}</a>
         ))}
       </nav>
       <div class="plan-intro">
@@ -42,13 +42,15 @@ const news = getHighlights().filter((story) => {
           const extra = column.links.slice(shortSet);
           return (
             <section class="plan-card" id={column.id}>
-              <h2><a href={column.href}>{column.title}</a></h2>
+              <h2><a href={planSectionLink(column)}>{column.title}</a></h2>
               <ul>
                 {shown.map((item) => (
                   <li><a href={item.href}>{item.label}</a></li>
                 ))}
               </ul>
-              {extra.length > 0 && (
+              {column.id === 'itineraries' ? (
+                <a class="plan-see" href="/itineraries">See all <span aria-hidden="true">›</span></a>
+              ) : extra.length > 0 && (
                 <details class="plan-see">
                   <summary>See all <span aria-hidden="true">›</span></summary>
                   <ul>
