@@ -12,22 +12,49 @@
   "summary": "Hanoi plus either the mountains or the bay and Ninh Binh. Seven days is not Hanoi, Ha Long, Sapa, and Ha Giang.",
   "days": [
     {
-      "title": "Days 1–2 — Hanoi",
-      "body": "Arrive and walk. Do not transfer onward the hour you land.",
+      "title": "Day 1 — Hanoi",
+      "body": "Land in Hanoi and walk the Old Quarter, and do not leave the city the hour you arrive.",
       "placeSlug": "hanoi",
-      "photo": "hanoi-hoan-kiem"
+      "photo": "hanoi-hoan-kiem",
+      "itinerarySlug": "hanoi-old-quarter-walk"
     },
     {
-      "title": "Days 3–5 — One region",
-      "body": "Sapa, the Ha Giang Loop with a driver, or Ha Long plus Ninh Binh. Choose before you book the trains.",
+      "title": "Day 2 — Hanoi",
+      "body": "Walk Hoan Kiem Lake, see the Imperial Citadel of Thang Long, and eat bun cha.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-citadel",
+      "itinerarySlug": "hanoi-day"
+    },
+    {
+      "title": "Day 3 — One region",
+      "body": "Leave for Sa Pa, or for Ha Giang, or for Ha Long and Ninh Binh, and keep it to that one region.",
       "placeSlug": "sapa",
       "photo": "sapa"
     },
     {
-      "title": "Days 6–7 — Hanoi",
-      "body": "Return with a spare night so a delay does not become a missed flight.",
+      "title": "Day 4 — Sa Pa",
+      "body": "See the stone church, then walk to Cat Cat.",
+      "placeSlug": "sapa",
+      "photo": "sapa-stone-church",
+      "itinerarySlug": "sapa-day"
+    },
+    {
+      "title": "Day 5 — Fansipan",
+      "body": "Ride the cable car to Fansipan, or walk a valley village if Cat Cat was enough.",
+      "placeSlug": "sapa",
+      "photo": "sapa-fansipan"
+    },
+    {
+      "title": "Day 6 — Back to Hanoi",
+      "body": "Return to Hanoi and keep the evening free.",
       "placeSlug": "hanoi",
-      "photo": "hanoi-temple-of-literature"
+      "photo": "hanoi"
+    },
+    {
+      "title": "Day 7 — Hanoi",
+      "body": "Stay in Hanoi so a delay does not become a missed flight.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem-2"
     }
   ],
   "seoTitle": "7 days in northern Vietnam",

@@ -12,58 +12,96 @@
   "summary": "Hanoi, one northern landscape, Hue, Hoi An, and Ho Chi Minh City. Fly at least once. Add the Mekong only if you drop a northern night.",
   "days": [
     {
-      "title": "Days 1–3 — Hanoi",
-      "body": "Land and walk the Old Quarter, the lake, and one museum or the Temple of Literature. Eat bun cha.",
+      "title": "Day 1 — Old Quarter",
+      "body": "Land in Hanoi and walk the Old Quarter north of Hoan Kiem Lake.",
       "placeSlug": "hanoi",
-      "photo": "hanoi-hoan-kiem"
+      "photo": "hanoi-hoan-kiem",
+      "itinerarySlug": "hanoi-old-quarter-walk"
+    },
+    {
+      "title": "Day 2 — Lake and citadel",
+      "body": "Walk Hoan Kiem Lake, see the Imperial Citadel of Thang Long, and eat bun cha.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-citadel",
+      "itinerarySlug": "hanoi-day"
+    },
+    {
+      "title": "Day 3 — Temple of Literature",
+      "body": "Visit the Temple of Literature.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-temple-of-literature"
     },
     {
       "title": "Day 4 — Ninh Binh or Ha Long",
-      "body": "Pick one. Ninh Binh for rice and a boat cave. Ha Long for open water. Do not do both unless you add days.",
+      "body": "Take the sampan through the three caves at Tam Coc, or take a boat on Ha Long Bay, and do not do both.",
       "placeSlug": "ninh-binh",
-      "photo": "tam-coc"
+      "photo": "tam-coc-three-caves",
+      "itinerarySlug": "tam-coc-day"
     },
     {
-      "title": "Day 5 — Back to Hanoi, overnight south",
-      "body": "Return to Hanoi. Fly to Hue the next morning, or board the sleeper train.",
+      "title": "Day 5 — Leave Hanoi",
+      "body": "Return to Hanoi, then fly to Hue the next morning or board the sleeper train.",
       "placeSlug": "hanoi",
-      "photo": "hanoi-train-street"
+      "photo": "hanoi"
     },
     {
-      "title": "Days 6–7 — Hue",
-      "body": "Citadel, then one tomb. Eat bun bo Hue.",
+      "title": "Day 6 — Hue Citadel",
+      "body": "Visit the Hue Citadel and eat bun bo Hue.",
       "placeSlug": "hue",
-      "photo": "hue-citadel"
+      "photo": "hue-citadel",
+      "itinerarySlug": "hue-day"
     },
     {
-      "title": "Day 8 — Hue to Hoi An",
-      "body": "Travel in the morning. The Hai Van pass is optional and weather-dependent.",
+      "title": "Day 7 — Hue tombs",
+      "body": "Visit the tombs of Minh Mang, Tu Duc, and Khai Dinh.",
+      "placeSlug": "hue",
+      "photo": "hue-minh-mang",
+      "itinerarySlug": "hue-two-days"
+    },
+    {
+      "title": "Day 8 — Hoi An",
+      "body": "Travel to Hoi An, add Hai Van Pass only in clear weather, and walk the old town from the Japanese Covered Bridge.",
       "placeSlug": "hoi-an",
-      "photo": "da-nang-hai-van"
+      "photo": "hoi-an-japanese-bridge",
+      "itinerarySlug": "hoi-an-old-town-walk"
     },
     {
-      "title": "Days 9–10 — Hoi An",
-      "body": "Old town, a food morning, and either the beach or My Son.",
+      "title": "Day 9 — Hoi An Market",
+      "body": "Visit Hoi An Market.",
       "placeSlug": "hoi-an",
-      "photo": "hoi-an-japanese-bridge"
+      "photo": "hoi-an-market"
     },
     {
-      "title": "Day 11 — Fly to Ho Chi Minh City",
-      "body": "From Da Nang. Use the afternoon to walk District 1.",
+      "title": "Day 10 — An Bang or My Son",
+      "body": "Spend the day at An Bang Beach, or at the My Son towers.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-an-bang"
+    },
+    {
+      "title": "Day 11 — Ho Chi Minh City",
+      "body": "Fly from Da Nang to Ho Chi Minh City and walk the center.",
       "placeSlug": "ho-chi-minh-city",
-      "photo": "ho-chi-minh-city-ben-thanh"
+      "photo": "ho-chi-minh-city-ben-thanh",
+      "itinerarySlug": "ho-chi-minh-city-walk"
     },
     {
-      "title": "Days 12–13 — Ho Chi Minh City",
-      "body": "A museum morning and either Cu Chi or a decision to leave for Can Tho.",
+      "title": "Day 12 — War Remnants Museum",
+      "body": "Visit the War Remnants Museum.",
       "placeSlug": "ho-chi-minh-city",
-      "photo": "ho-chi-minh-city-reunification-palace"
+      "photo": "ho-chi-minh-city-war-remnants"
     },
     {
-      "title": "Day 14 — Leave, or a dawn market",
-      "body": "Fly home, or be on a boat in Can Tho if you moved south the day before.",
+      "title": "Day 13 — Can Tho or Cu Chi",
+      "body": "Go on to Can Tho, or to the Cu Chi tunnels if you are flying home from the city.",
       "placeSlug": "can-tho",
-      "photo": "can-tho-cai-rang"
+      "photo": "can-tho-ninh-kieu"
+    },
+    {
+      "title": "Day 14 — Cai Rang",
+      "body": "Be at Cai Rang at dawn if you came south, or fly home if you stayed in the city.",
+      "placeSlug": "can-tho",
+      "photo": "can-tho-cai-rang",
+      "itinerarySlug": "can-tho-day"
     }
   ],
   "seoTitle": "Vietnam in 14 days",
