@@ -1,0 +1,76 @@
+{
+  "slug": "hoi-an-two-days",
+  "title": "Two days in Hoi An",
+  "kind": "trip",
+  "level": "day",
+  "duration": "2 days",
+  "spanDays": 2,
+  "placeSlug": "hoi-an",
+  "budget": "Check on arrival",
+  "pace": "The old town, then the villages",
+  "photo": "hoi-an-japanese-bridge",
+  "summary": "The old town on the first day. Tra Que, Thanh Ha, Cam Thanh, and Kim Bong on the second. An Bang is a separate half day.",
+  "days": [
+    {
+      "title": "Day 1 — Old town",
+      "body": "The covered bridge, Tan Ky House, the halls, the market, and cao lầu.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-japanese-bridge",
+      "itinerarySlug": "hoi-an-day"
+    },
+    {
+      "title": "Day 2 — The villages",
+      "body": "Tra Que, Thanh Ha, and Kim Bong are each a morning. Cam Thanh is a boat hour. The fee there is 30,000 VND. How many of them fit is Check on arrival.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-tra-que"
+    }
+  ],
+  "stops": [
+    {
+      "name": "Old town",
+      "minutes": "Check on arrival",
+      "placeSlug": "hoi-an",
+      "attractionSlug": "japanese-bridge",
+      "note": "Day one. The bridge is about 20 minutes. The rest of the old-town day is on that plan."
+    },
+    {
+      "name": "Tra Que",
+      "minutes": "Check on arrival",
+      "placeSlug": "hoi-an",
+      "attractionSlug": "tra-que",
+      "note": "Day two. A morning. The fee is Check on arrival."
+    },
+    {
+      "name": "Thanh Ha",
+      "minutes": "Check on arrival",
+      "placeSlug": "hoi-an",
+      "attractionSlug": "thanh-ha",
+      "note": "Day two. A morning. The fee is Check on arrival."
+    },
+    {
+      "name": "Cam Thanh",
+      "minutes": "Check on arrival",
+      "placeSlug": "hoi-an",
+      "attractionSlug": "cam-thanh",
+      "note": "Day two. A boat hour. The fee is 30,000 VND."
+    },
+    {
+      "name": "Kim Bong",
+      "minutes": "Check on arrival",
+      "placeSlug": "hoi-an",
+      "attractionSlug": "kim-bong",
+      "note": "Day two. A morning. The fee is Check on arrival."
+    }
+  ],
+  "additions": [
+    {
+      "name": "An Bang",
+      "placeSlug": "hoi-an",
+      "attractionSlug": "an-bang",
+      "itinerarySlug": "an-bang-half-day",
+      "note": "Sand and a swim. A separate half day."
+    }
+  ],
+  "seoTitle": "Two days in Hoi An",
+  "seoDescription": "The Hoi An old town, then Tra Que, Thanh Ha, Cam Thanh, and Kim Bong. An Bang is a separate half day."
+}

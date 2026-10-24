@@ -1,0 +1,48 @@
+{
+  "slug": "da-nang-riverfront-evening",
+  "title": "Da Nang riverfront evening",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "An evening",
+  "placeSlug": "da-nang",
+  "budget": "Check on arrival",
+  "pace": "Along the river",
+  "photo": "da-nang-dragon-bridge",
+  "summary": "The Dragon Bridge and the Han swing bridge from the bank, then Bach Dang and Han Market. The bank is free.",
+  "stops": [
+    {
+      "name": "Dragon Bridge",
+      "minutes": "Check on arrival",
+      "placeSlug": "da-nang",
+      "attractionSlug": "dragon-bridge",
+      "note": "An evening look from the bank. Free from the bank.",
+      "approach": {
+        "mode": "walk",
+        "note": "Along the river bank."
+      }
+    },
+    {
+      "name": "Han Swing Bridge",
+      "minutes": "Check on arrival",
+      "placeSlug": "da-nang",
+      "attractionSlug": "han-swing-bridge",
+      "note": "An evening from the bank. Free from the bank."
+    },
+    {
+      "name": "Bach Dang",
+      "minutes": 60,
+      "placeSlug": "da-nang",
+      "attractionSlug": "bach-dang",
+      "note": "An hour on the walk. Free to walk."
+    },
+    {
+      "name": "Han Market",
+      "minutes": 60,
+      "placeSlug": "da-nang",
+      "attractionSlug": "han-market",
+      "note": "An hour. No gate fee."
+    }
+  ],
+  "seoTitle": "Da Nang riverfront evening",
+  "seoDescription": "An evening on the Da Nang river: the Dragon Bridge, the Han swing bridge, Bach Dang, and Han Market."
+}

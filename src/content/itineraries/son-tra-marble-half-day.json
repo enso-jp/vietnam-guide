@@ -1,0 +1,30 @@
+{
+  "slug": "son-tra-marble-half-day",
+  "title": "Son Tra and the Marble Mountains",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "da-nang",
+  "budget": "Check on arrival",
+  "pace": "The peninsula, then the hill",
+  "photo": "da-nang-son-tra",
+  "summary": "Son Tra is half a day with the ride. Thuy Son at the Marble Mountains is a morning. Pairing them is this half day, and the clock for the pair is Check on arrival.",
+  "stops": [
+    {
+      "name": "Son Tra",
+      "minutes": "Check on arrival",
+      "placeSlug": "da-nang",
+      "attractionSlug": "son-tra",
+      "note": "Half a day with the ride. The fee is Check on arrival."
+    },
+    {
+      "name": "Marble Mountains",
+      "minutes": "Check on arrival",
+      "placeSlug": "da-nang",
+      "attractionSlug": "marble-mountains",
+      "note": "A morning on Thuy Son. The hill ticket is 40,000 VND."
+    }
+  ],
+  "seoTitle": "Son Tra and the Marble Mountains",
+  "seoDescription": "Son Tra and Thuy Son at the Marble Mountains. Son Tra is half a day with the ride. The hill is a morning."
+}

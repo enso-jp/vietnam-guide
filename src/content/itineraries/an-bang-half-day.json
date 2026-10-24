@@ -1,0 +1,23 @@
+{
+  "slug": "an-bang-half-day",
+  "title": "An Bang half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "hoi-an",
+  "budget": "Check on arrival",
+  "pace": "The beach",
+  "photo": "hoi-an-an-bang",
+  "summary": "Sand and a swim at An Bang, in front of the villas and homestays. The fee is Check on arrival. The old town is a different day.",
+  "stops": [
+    {
+      "name": "An Bang",
+      "minutes": "Check on arrival",
+      "placeSlug": "hoi-an",
+      "attractionSlug": "an-bang",
+      "note": "Half a day on the sand. Basket boats sit on the shore. The fee is Check on arrival."
+    }
+  ],
+  "seoTitle": "An Bang half day",
+  "seoDescription": "A half day on the sand at An Bang. The fee is Check on arrival."
+}

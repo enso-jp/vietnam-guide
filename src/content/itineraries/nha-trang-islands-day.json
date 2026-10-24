@@ -1,0 +1,31 @@
+{
+  "slug": "nha-trang-islands-day",
+  "title": "Nha Trang islands in a day",
+  "kind": "trip",
+  "level": "day",
+  "duration": "1 day",
+  "spanDays": 1,
+  "placeSlug": "nha-trang",
+  "budget": "Check on arrival",
+  "pace": "One boat",
+  "photo": "nha-trang-hon-mun",
+  "summary": "Hon Mun is a boat day. Hon Tre is a day on the island. Take one. Fees are Check on arrival.",
+  "stops": [
+    {
+      "name": "Hon Mun",
+      "minutes": "Check on arrival",
+      "placeSlug": "nha-trang",
+      "attractionSlug": "hon-mun",
+      "note": "A boat day. The fee is Check on arrival."
+    },
+    {
+      "name": "Hon Tre",
+      "minutes": "Check on arrival",
+      "placeSlug": "nha-trang",
+      "attractionSlug": "hon-tre",
+      "note": "A day on the island, if this is the boat you took instead. The fee is Check on arrival."
+    }
+  ],
+  "seoTitle": "Nha Trang islands in a day",
+  "seoDescription": "One day on the water at Nha Trang: Hon Mun or Hon Tre. Each is a day. Fees are Check on arrival."
+}

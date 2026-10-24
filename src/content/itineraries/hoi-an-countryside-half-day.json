@@ -1,0 +1,44 @@
+{
+  "slug": "hoi-an-countryside-half-day",
+  "title": "Hoi An countryside half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "hoi-an",
+  "budget": "Check on arrival",
+  "pace": "The villages",
+  "photo": "hoi-an-tra-que",
+  "summary": "Tra Que, Thanh Ha, and Kim Bong are each a morning. Cam Thanh is a boat hour. This half day does not promise all four.",
+  "stops": [
+    {
+      "name": "Tra Que",
+      "minutes": "Check on arrival",
+      "placeSlug": "hoi-an",
+      "attractionSlug": "tra-que",
+      "note": "A morning. The fee is Check on arrival."
+    },
+    {
+      "name": "Thanh Ha",
+      "minutes": "Check on arrival",
+      "placeSlug": "hoi-an",
+      "attractionSlug": "thanh-ha",
+      "note": "A morning. The fee is Check on arrival."
+    },
+    {
+      "name": "Cam Thanh",
+      "minutes": "Check on arrival",
+      "placeSlug": "hoi-an",
+      "attractionSlug": "cam-thanh",
+      "note": "A boat hour. The fee is 30,000 VND."
+    },
+    {
+      "name": "Kim Bong",
+      "minutes": "Check on arrival",
+      "placeSlug": "hoi-an",
+      "attractionSlug": "kim-bong",
+      "note": "A morning. The fee is Check on arrival."
+    }
+  ],
+  "seoTitle": "Hoi An countryside half day",
+  "seoDescription": "Tra Que, Thanh Ha, Cam Thanh, and Kim Bong. Each village is a morning, or a boat hour at Cam Thanh."
+}
