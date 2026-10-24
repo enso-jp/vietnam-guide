@@ -1,0 +1,24 @@
+{
+  "slug": "ba-na-day",
+  "title": "Ba Na in a day",
+  "kind": "trip",
+  "level": "day",
+  "duration": "1 day",
+  "spanDays": 1,
+  "placeSlug": "da-nang",
+  "budget": "Check on arrival",
+  "pace": "One hill",
+  "photo": "da-nang-ba-na",
+  "summary": "Give Ba Na the day. The basic ticket includes the round-trip cable car, the Golden Bridge, the French Village, and Fantasy Park. The wine cellar, the light area, the toboggan, climbing, and the cinema are extra.",
+  "stops": [
+    {
+      "name": "Ba Na Hills",
+      "minutes": "Check on arrival",
+      "placeSlug": "da-nang",
+      "attractionSlug": "ba-na",
+      "note": "A full day. Non-resident adult 1,000,000 VND. A visitor over 70, and a child from 1 m to under 1.4 m, 800,000 VND. Under 1 m free. A child over 1.4 m pays the adult price. A Da Nang resident adult pays 650,000 VND, and a resident senior or a resident child in that height band pays 550,000 VND. The city tourism list and the operator’s 2026 price page give the same basic prices."
+    }
+  ],
+  "seoTitle": "Ba Na in a day",
+  "seoDescription": "One day at Ba Na Hills. The basic ticket includes the cable car, the Golden Bridge, the French Village, and Fantasy Park."
+}

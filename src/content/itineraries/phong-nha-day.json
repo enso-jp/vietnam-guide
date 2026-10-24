@@ -1,0 +1,31 @@
+{
+  "slug": "phong-nha-day",
+  "title": "Phong Nha in a day",
+  "kind": "trip",
+  "level": "day",
+  "duration": "1 day",
+  "spanDays": 1,
+  "placeSlug": "phong-nha",
+  "budget": "Check on arrival",
+  "pace": "The boat cave, then the boardwalk",
+  "photo": "phong-nha-phong-nha-cave",
+  "summary": "Boat into Phong Nha Cave, about 2.5 hours, then walk the boardwalk in Paradise Cave. Son Doong is its own expedition.",
+  "stops": [
+    {
+      "name": "Phong Nha Cave",
+      "minutes": 150,
+      "placeSlug": "phong-nha",
+      "attractionSlug": "phong-nha-cave",
+      "note": "About 2.5 hours by boat. The ticket is 150,000 VND, plus the boat. From the Tourism Center the boat runs down the Son River, then the crew rows about 1,200 metres in."
+    },
+    {
+      "name": "Paradise Cave",
+      "minutes": "Check on arrival",
+      "placeSlug": "phong-nha",
+      "attractionSlug": "paradise-cave",
+      "note": "The dry boardwalk at Km 16. The ticket is 270,000 VND, buggy included. How long to allow inside is Check on arrival."
+    }
+  ],
+  "seoTitle": "Phong Nha in a day",
+  "seoDescription": "One day at Phong Nha: the boat cave, about 2.5 hours, and the Paradise Cave boardwalk."
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "hue-citadel-half-day",
+  "title": "Hue Citadel half day",
+  "kind": "trip",
+  "level": "half-day",
+  "duration": "Half a day",
+  "placeSlug": "hue",
+  "budget": "Check on arrival",
+  "pace": "The north bank",
+  "photo": "hue-citadel",
+  "summary": "The Imperial City when the gate opens, Thien Mu, and bún bò Huế. The citadel adult ticket is 200,000 VND and does not cover the tombs. How long the courts take is Check on arrival.",
+  "stops": [
+    {
+      "name": "Hue Citadel",
+      "minutes": "Check on arrival",
+      "placeSlug": "hue",
+      "attractionSlug": "citadel",
+      "note": "Go when the gate opens, 06:30 from 16 March to 15 October and 07:00 from 16 October to 15 March. The adult ticket is 200,000 VND and does not cover the tombs.",
+      "approach": {
+        "mode": "walk",
+        "note": "From the south bank, cross to the north-bank gate."
+      }
+    },
+    {
+      "name": "Thien Mu",
+      "minutes": "Check on arrival",
+      "placeSlug": "hue",
+      "attractionSlug": "thien-mu",
+      "note": "The pagoda on the river. The fee is Check on arrival."
+    },
+    {
+      "name": "Bun bo Hue",
+      "minutes": "Check on arrival",
+      "placeSlug": "hue",
+      "dishSlug": "bun-bo-hue",
+      "note": "Eat bún bò Huế at Dong Ba."
+    }
+  ],
+  "seoTitle": "Hue Citadel half day",
+  "seoDescription": "A half day at the Hue Citadel and Thien Mu, with bún bò Huế. The citadel ticket does not cover the tombs."
+}
