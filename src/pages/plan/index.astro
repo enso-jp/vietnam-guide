@@ -4,48 +4,13 @@ import { join } from 'node:path';
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import Photo from '../../components/Photo.astro';
-import { getGuides, getHighlights, getItineraries } from '../../lib/content';
+import { getHighlights } from '../../lib/content';
 import { photoPath } from '../../lib/photos';
 import { titles } from '../../lib/page-title';
+import { planSections } from '../../lib/plan-sections';
 import { breadcrumbList } from '../../lib/schema';
 
-const guides = getGuides();
-const bySlug = new Map(guides.map((guide) => [guide.slug, guide]));
-const link = (slug: string) => {
-  const guide = bySlug.get(slug);
-  return guide ? { href: `/plan/${guide.slug}`, label: guide.title } : null;
-};
-type PlanLink = { href: string; label: string };
-const keep = (item: PlanLink | null): item is PlanLink => Boolean(item);
-const before = ['when-to-go', 'e-visa', 'money', 'sim-and-wifi', 'luggage', 'street-manners', 'eating-manners']
-  .map(link)
-  .filter(keep);
-const stay = ['where-to-stay'].map(link).filter(keep);
-const travel = ['flights', 'trains', 'buses', 'grab-and-taxis', 'motorbikes'].map(link).filter(keep);
-const trips = getItineraries().filter((trip) => trip.level === 'nationwide' || trip.level === 'region');
-const living = ['living', 'taxes'].map(link).filter(keep);
-const columns = [
-  {
-    id: 'before',
-    title: 'Before you go',
-    links: [...before, { href: '/seasons', label: 'Seasons' }, { href: '/festivals', label: 'Festivals' }],
-  },
-  { id: 'accommodation', title: 'Accommodation', links: stay },
-  {
-    id: 'transportation',
-    title: 'Transportation',
-    links: [...travel, { href: '/get-there', label: 'Routes between places' }],
-  },
-  {
-    id: 'itineraries',
-    title: 'Itineraries',
-    links: [
-      ...trips.map((trip) => ({ href: `/itineraries/${trip.slug}`, label: trip.title })),
-      { href: '/itineraries', label: 'All itineraries' },
-    ],
-  },
-  { id: 'living', title: 'Living', links: living },
-].filter((column) => column.links.length > 0);
+const columns = planSections();
 
 const shortSet = 6;
 const creditsPath = join(process.cwd(), 'public', 'photos', 'credits.json');
@@ -63,7 +28,7 @@ const news = getHighlights().filter((story) => {
       <nav class="tabs" aria-label="Plan a trip">
         <a href="/plan" aria-current="page">Plan a trip</a>
         {columns.map((column) => (
-          <a href={`/plan#${column.id}`}>{column.title}</a>
+          <a href={column.href}>{column.title}</a>
         ))}
       </nav>
       <div class="plan-intro">
@@ -77,7 +42,7 @@ const news = getHighlights().filter((story) => {
           const extra = column.links.slice(shortSet);
           return (
             <section class="plan-card" id={column.id}>
-              <h2>{column.title}</h2>
+              <h2><a href={column.href}>{column.title}</a></h2>
               <ul>
                 {shown.map((item) => (
                   <li><a href={item.href}>{item.label}</a></li>
@@ -99,7 +64,7 @@ const news = getHighlights().filter((story) => {
       </div>
       {news.length > 0 && (
         <section class="plan-news" aria-labelledby="plan-news-title">
-          <h2 id="plan-news-title">Vietnam travel news</h2>
+          <h2 id="plan-news-title"><a href="/blog">Vietnam travel news</a></h2>
           <div class="plan-news-grid">
             {news.map((story) => (
               <a class="plan-news-card" href={story.href}>
