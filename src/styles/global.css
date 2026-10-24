@@ -2192,7 +2192,8 @@ figcaption.photo-credit,
   line-height: 1.35;
 }
 .plan-page .plan-see { margin-top: 0.35rem; }
-.plan-page .plan-see summary {
+.plan-page .plan-see summary,
+.plan-page a.plan-see {
   display: inline-flex;
   align-items: center;
   gap: 0.25rem;
@@ -2632,7 +2633,8 @@ figcaption.photo-credit,
   }
   .plan-page .plan-card h2 { font-size: 1rem; }
   .plan-page .plan-card li a,
-  .plan-page .plan-see summary { font-size: 0.92rem; }
+  .plan-page .plan-see summary,
+  .plan-page a.plan-see { font-size: 0.92rem; }
   .plan-page .plan-news h2 { font-size: 1.45rem; }
   .plan-page .plan-news-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));

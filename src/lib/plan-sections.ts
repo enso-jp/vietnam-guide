@@ -87,3 +87,8 @@ export function planSections(): PlanSection[] {
 export function planSection(slug: string): PlanSection | undefined {
   return planSections().find((section) => section.slug === slug);
 }
+
+/** Where a Plan a trip heading opens. Itineraries opens the index; the section page stays at `href`. */
+export function planSectionLink(section: PlanSection): string {
+  return section.id === 'itineraries' ? '/itineraries' : section.href;
+}
