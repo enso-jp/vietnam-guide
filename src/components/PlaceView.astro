@@ -127,6 +127,8 @@ const topInterest = Object.entries(place.interests).sort((a, b) => b[1] - a[1])[
 const topDots = rankedAttractions[0]?.dots ?? 0;
 const tiedForLead = rankedAttractions.filter((item) => item.dots === topDots);
 const leadSight = tiedForLead.find((item) => topInterest && item.interests.includes(topInterest)) ?? tiedForLead[0];
+const tourCandidates = leadSight ? [leadSight, ...rankedAttractions] : rankedAttractions;
+const tourSight = tourCandidates.find((item) => photoPath(`${item.placeSlug}-${item.slug}`));
 ---
 <Base title={title} description={description} path={path} jsonLd={[jsonLd, breadcrumb, questions].filter((item) => item !== null)} ogImage={image} placeId={place.slug}>
   <article class="wrap">
@@ -309,6 +311,26 @@ const leadSight = tiedForLead.find((item) => topInterest && item.interests.inclu
             ))}
           </ul>
         </section>
+        {tourSight && (
+          <section id="tours" class="place-section">
+            <h2>Tours & Attractions</h2>
+            <ul class="aff-list">
+              <li>
+                <a class="aff-row" href={attractionPath(tourSight)}>
+                  <span class="aff-photo">
+                    <Photo id={`${tourSight.placeSlug}-${tourSight.slug}`} alt="" />
+                  </span>
+                  <span class="aff-copy">
+                    <strong>{tourSight.name}</strong>
+                    {(tourSight.district || tourSight.kicker) && <em>{tourSight.district || tourSight.kicker}</em>}
+                    <p>{cardLine(tourSight.summary)}</p>
+                    <span class="aff-btn aff-btn-quiet">See this sight</span>
+                  </span>
+                </a>
+              </li>
+            </ul>
+          </section>
+        )}
         <section id="eat" class="place-section">
           <h2>Restaurants</h2>
           <p class="note">What to order is on the food guide.</p>
@@ -351,6 +373,7 @@ const leadSight = tiedForLead.find((item) => topInterest && item.interests.inclu
             ))}
             {place.kind !== 'district' && <li class="explore-label">Plan your trip</li>}
             <li><a href="#stay"><Icon name="bed" />Hotels</a></li>
+            {tourSight && <li><a href="#tours"><Icon name="view" />Tours & Attractions</a></li>}
             <li><a href="#eat"><Icon name="food" />Restaurants</a></li>
             {place.kind !== 'district' && <li><a href="#itineraries"><Icon name="trip" />Itineraries</a></li>}
           </ul>
