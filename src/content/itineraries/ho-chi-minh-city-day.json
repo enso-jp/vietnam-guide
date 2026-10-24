@@ -1,0 +1,105 @@
+{
+  "slug": "ho-chi-minh-city-day",
+  "title": "Ho Chi Minh City in a day",
+  "kind": "trip",
+  "level": "day",
+  "duration": "1 day",
+  "spanDays": 1,
+  "placeSlug": "ho-chi-minh-city",
+  "budget": "Check on arrival",
+  "pace": "Steady",
+  "photo": "ho-chi-minh-city-war-remnants",
+  "summary": "The cathedral square, Nguyễn Huệ, the Reunification Palace, Bến Thành, the War Remnants Museum, cơm tấm, and Bình Tây in Chợ Lớn.",
+  "stops": [
+    {
+      "name": "Notre-Dame Cathedral",
+      "minutes": "Check on arrival",
+      "placeSlug": "ho-chi-minh-city",
+      "attractionSlug": "notre-dame",
+      "note": "Look at both towers from the square in the morning.",
+      "approach": {
+        "mode": "walk",
+        "note": "Start at the cathedral square."
+      }
+    },
+    {
+      "name": "Central Post Office",
+      "minutes": "Check on arrival",
+      "placeSlug": "ho-chi-minh-city",
+      "attractionSlug": "central-post-office",
+      "note": "Step into the hall opposite the cathedral.",
+      "approach": {
+        "mode": "walk",
+        "note": "Cross to the hall opposite the cathedral."
+      }
+    },
+    {
+      "name": "Nguyen Hue",
+      "minutes": "Check on arrival",
+      "placeSlug": "ho-chi-minh-city",
+      "attractionSlug": "nguyen-hue",
+      "note": "Stroll the paving from City Hall to the river. Sundown is the liveliest hour.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk the paving toward the river."
+      }
+    },
+    {
+      "name": "Reunification Palace",
+      "minutes": "Check on arrival",
+      "placeSlug": "ho-chi-minh-city",
+      "attractionSlug": "reunification-palace",
+      "note": "Walk the halls and the basement, open 07:00–18:00. The palace alone is 40,000 đồng. An adult ticket is also listed at 80,000 đồng.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk to 135 Nam Kỳ Khởi Nghĩa."
+      }
+    },
+    {
+      "name": "Ben Thanh Market",
+      "minutes": "Check on arrival",
+      "placeSlug": "ho-chi-minh-city",
+      "attractionSlug": "ben-thanh",
+      "note": "Walk the aisles to the food end of the hall.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk to the market on Quách Thị Trang."
+      }
+    },
+    {
+      "name": "Com tam",
+      "minutes": "Check on arrival",
+      "placeSlug": "ho-chi-minh-city",
+      "dishSlug": "com-tam",
+      "note": "Eat cơm tấm."
+    },
+    {
+      "name": "War Remnants Museum",
+      "minutes": "Check on arrival",
+      "placeSlug": "ho-chi-minh-city",
+      "attractionSlug": "war-remnants",
+      "note": "Walk the courtyard and the galleries, open 7:30–17:30, last admission 17:00. An adult ticket is 60,000 đồng from 1 October 2026, and 15,000 đồng is also listed.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk to the museum on Võ Văn Tần."
+      }
+    },
+    {
+      "name": "Binh Tay Market",
+      "minutes": "Check on arrival",
+      "placeSlug": "ho-chi-minh-city",
+      "attractionSlug": "binh-tay",
+      "note": "Walk the clock gate and the trading floor in Chợ Lớn."
+    }
+  ],
+  "additions": [
+    {
+      "name": "Thien Hau Pagoda",
+      "placeSlug": "ho-chi-minh-city",
+      "attractionSlug": "thien-hau",
+      "note": "The pagoda pairs with Bình Tây on the Chợ Lớn walk."
+    }
+  ],
+  "seoTitle": "Ho Chi Minh City in a day",
+  "seoDescription": "One day in the city: the center walk, the War Remnants Museum, cơm tấm, and Bình Tây."
+}

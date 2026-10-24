@@ -1,0 +1,87 @@
+{
+  "slug": "hoi-an-day",
+  "title": "Hoi An in a day",
+  "kind": "trip",
+  "level": "day",
+  "duration": "1 day",
+  "spanDays": 1,
+  "placeSlug": "hoi-an",
+  "budget": "Check on arrival",
+  "pace": "Relaxed",
+  "photo": "hoi-an-japanese-bridge",
+  "summary": "The covered bridge, Tan Ky House, the Fujian and Cantonese halls, the market, and cao lầu. An Bang is a separate half day.",
+  "stops": [
+    {
+      "name": "Japanese Covered Bridge",
+      "minutes": 20,
+      "placeSlug": "hoi-an",
+      "attractionSlug": "japanese-bridge",
+      "note": "Start at the west end and allow about 20 minutes. From 10 August 2026 the city fee is 20,000 VND per person per building. Combination tickets are still described at 80,000 VND and 120,000 VND.",
+      "approach": {
+        "mode": "walk",
+        "note": "On foot from the lanes just off the old town."
+      }
+    },
+    {
+      "name": "Tan Ky House",
+      "minutes": "Check on arrival",
+      "placeSlug": "hoi-an",
+      "attractionSlug": "tan-ky",
+      "note": "See one old house, at 101 Nguyễn Thái Học. The visit is well under an hour.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk the pedestrian streets to 101 Nguyễn Thái Học."
+      }
+    },
+    {
+      "name": "Fujian Assembly Hall",
+      "minutes": "Check on arrival",
+      "placeSlug": "hoi-an",
+      "attractionSlug": "phuc-kien",
+      "note": "Walk the three courts of the Fujian hall at 46 Trần Phú.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk to 46 Trần Phú."
+      }
+    },
+    {
+      "name": "Cantonese Assembly Hall",
+      "minutes": "Check on arrival",
+      "placeSlug": "hoi-an",
+      "attractionSlug": "quang-dong",
+      "note": "Walk the front court of the Cantonese hall, built in 1885.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk on through the old town."
+      }
+    },
+    {
+      "name": "Hoi An Market",
+      "minutes": "Check on arrival",
+      "placeSlug": "hoi-an",
+      "attractionSlug": "market",
+      "note": "Eat under the market roof in the daytime.",
+      "approach": {
+        "mode": "walk",
+        "note": "Walk to the yellow market hall."
+      }
+    },
+    {
+      "name": "Cao lau",
+      "minutes": "Check on arrival",
+      "placeSlug": "hoi-an",
+      "dishSlug": "cao-lau",
+      "note": "Eat cao lầu in the old town."
+    }
+  ],
+  "additions": [
+    {
+      "name": "An Bang",
+      "placeSlug": "hoi-an",
+      "attractionSlug": "an-bang",
+      "note": "Sand and a swim. The beach is a separate half day from this old-town walk."
+    }
+  ],
+  "seoTitle": "Hoi An in a day",
+  "seoDescription": "One day in Hoi An: the covered bridge, Tan Ky House, two assembly halls, the market, and cao lầu."
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "highlights-10-days",
+  "title": "Highlights of Vietnam in 10 days",
+  "kind": "trip",
+  "level": "nationwide",
+  "duration": "10 days",
+  "daysCount": 10,
+  "gateway": "open-jaw",
+  "direction": "north-to-south",
+  "budget": "Midrange",
+  "pace": "Steady",
+  "summary": "Hanoi, one northern landscape, Hue, Hoi An, and out of Da Nang. Take Ha Long or Ninh Binh, and do not do both.",
+  "routeSlugs": [
+    "hanoi-to-ha-long",
+    "hanoi-to-ninh-binh",
+    "hanoi-to-hue",
+    "hue-to-hoi-an",
+    "da-nang-to-hoi-an"
+  ],
+  "days": [
+    {
+      "title": "Day 1 — Old Quarter",
+      "body": "Land in Hanoi and walk the Old Quarter north of Hoan Kiem Lake.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoan-kiem",
+      "itinerarySlug": "hanoi-old-quarter-walk"
+    },
+    {
+      "title": "Day 2 — Lake and citadel",
+      "body": "Walk Hoan Kiem Lake, see the Imperial Citadel of Thang Long, and eat bun cha.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-citadel",
+      "itinerarySlug": "hanoi-day"
+    },
+    {
+      "title": "Day 3 — Hoa Lo",
+      "body": "Walk the cells at Hoa Lo, at 1 Hoa Lo, south of the lake.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi-hoa-lo"
+    },
+    {
+      "title": "Day 4 — Ha Long or Ninh Binh",
+      "body": "Take the Ha Long boat for Ti Top, Sung Sot, and Luon, clocked at 5–6 hours, or go to Ninh Binh for Trang An, and do not do both.",
+      "placeSlug": "ha-long",
+      "photo": "ha-long-sung-sot",
+      "routeSlug": "hanoi-to-ha-long",
+      "itinerarySlug": "ha-long-day"
+    },
+    {
+      "title": "Day 5 — Leave for Hue",
+      "body": "Stay with the landscape you chose, then leave for Hue by train or by air. If you chose Ninh Binh, the Tam Coc sampan is about 2 hours on the water.",
+      "placeSlug": "hanoi",
+      "photo": "hanoi",
+      "routeSlug": "hanoi-to-hue"
+    },
+    {
+      "title": "Day 6 — Hue Citadel",
+      "body": "Visit the Hue Citadel and eat bun bo Hue.",
+      "placeSlug": "hue",
+      "photo": "hue-citadel",
+      "itinerarySlug": "hue-day"
+    },
+    {
+      "title": "Day 7 — Hue tombs",
+      "body": "Visit the tombs of Minh Mang, Tu Duc, and Khai Dinh.",
+      "placeSlug": "hue",
+      "photo": "hue-minh-mang",
+      "itinerarySlug": "hue-two-days"
+    },
+    {
+      "title": "Day 8 — Hoi An",
+      "body": "Travel to Hoi An and walk the old town from the Japanese Covered Bridge. Tan Ky House is the old house.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-japanese-bridge",
+      "routeSlug": "hue-to-hoi-an",
+      "itinerarySlug": "hoi-an-old-town-walk"
+    },
+    {
+      "title": "Day 9 — Hoi An Market",
+      "body": "Visit Hoi An Market and eat cao lầu.",
+      "placeSlug": "hoi-an",
+      "photo": "hoi-an-market"
+    },
+    {
+      "title": "Day 10 — Marble Mountains",
+      "body": "Give Thuy Son at the Marble Mountains a morning, then fly from Da Nang.",
+      "placeSlug": "da-nang",
+      "photo": "da-nang-marble-mountains",
+      "routeSlug": "da-nang-to-hoi-an"
+    }
+  ],
+  "seoTitle": "Vietnam in 10 days",
+  "seoDescription": "Ten days from Hanoi to Da Nang: one of Ha Long or Ninh Binh, then Hue and Hoi An."
+}
