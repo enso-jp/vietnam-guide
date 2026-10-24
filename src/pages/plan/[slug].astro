@@ -48,7 +48,6 @@ const jsonLd = [
     <PlanTabs current={planCurrent} />
     {guide.slug === 'eating-manners' && <FoodTabs current="manners" />}
     <p class="lede">{guide.summary}</p>
-    {guide.verified && <p class="note">Verified {guide.verified}.{guide.sourceUrl && <> Source: <a href={guide.sourceUrl}>{guide.sourceLabel}</a>.</>}</p>}
     <SectionNav label={`${guide.title} sections`} items={navItems} />
     <div class="reading">
       {sections.map((section) => (

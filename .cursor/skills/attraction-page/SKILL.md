@@ -41,7 +41,7 @@ If no licensed photo of this sight exists, stop. Leave the page unpublished, and
 4. `summary`, the decision lede, under the kicker and before the dots.
 5. Editor dots. Do not change an existing dot.
 6. Hero photo, then `heroCaption`, then the credit. The caption names the frame.
-7. Fact bar: time, the main fee, the short get-there line, best months. Best months come from the sight when `bestMonths` is set, otherwise from the place. The verification line uses the sight’s `verified` when set.
+7. Fact bar: time, the main fee, the short get-there line, best months. Best months come from the sight when `bestMonths` is set, otherwise from the place. Do not print a “Facts verified” line. `verified` stays on the record.
 8. Tabs, only for sections that exist: Intro, Get there, Hours & fees, Also in, Stay.
 9. `notice`, when a fact would waste the day: a closure, a move, a ticket that does not include the thing people came for. Ba Na’s notice says the basic ticket is not every ride. My Khe’s notice says to read the duty board.
 10. `body`. At least two paragraphs. The first figure follows the first paragraph. Later figures follow the next paragraphs.

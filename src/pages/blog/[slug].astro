@@ -28,7 +28,7 @@ const places = (post.placeSlugs ?? []).map((slug) => getPlace(slug)).filter((pla
     <p class="note">{post.when}</p>
     <figure class="prose-figure">
       <Photo id={post.photo} alt={post.photoAlt || post.title} priority />
-      {credit?.author && <figcaption>Photo: {credit.author} · {credit.license}</figcaption>}
+      {credit?.author && <figcaption class="photo-credit">Photo: {credit.author} · {credit.license}</figcaption>}
     </figure>
     {post.body.map((paragraph) => <p>{paragraph}</p>)}
     {post.festivalSlug && <p><a href={`/festivals/${post.festivalSlug}`}>Festival page</a></p>}

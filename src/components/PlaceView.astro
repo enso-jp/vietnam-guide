@@ -132,7 +132,7 @@ const leadSight = tiedForLead.find((item) => topInterest && item.interests.inclu
   <article class="wrap">
     <header class="place-top" id="intro">
       <Crumbs items={crumbs} />
-      <p class="meta">{place.provinceNote || place.province}</p>
+      <p class="meta">{place.province}</p>
       <h1>{place.name}</h1>
       <p class="lede">{place.summary}</p>
       <p>
@@ -152,7 +152,7 @@ const leadSight = tiedForLead.find((item) => topInterest && item.interests.inclu
       </div>
       {heroCredit && <p class="note photo-credit">Photo: {heroCredit.author} · {heroCredit.license}</p>}
     </header>
-    <FactBar time={place.timeNeeded} getThere={place.getThere} bestMonths={place.bestMonths} verified={place.verified} />
+    <FactBar time={place.timeNeeded} getThere={place.getThere} bestMonths={place.bestMonths} />
     {parent && (
       <nav class="tabs" aria-label={`${parent.name} sections`}>
         <a href={placePath(parent)}>{parent.name}</a>
