@@ -4,11 +4,9 @@ import Crumbs from '../../components/Crumbs.astro';
 import Icon from '../../components/Icon.astro';
 import Photo from '../../components/Photo.astro';
 import PlanTabs from '../../components/PlanTabs.astro';
-import RouteMap from '../../components/RouteMap.astro';
 import TripOtherStay from '../../components/TripOtherStay.astro';
 import { attractionPath, getAttractions, getItineraries, getPlace, pageDescription, placePath } from '../../lib/content';
 import { photoPath } from '../../lib/photos';
-import { routePins } from '../../lib/route-map';
 import { abs, breadcrumbList } from '../../lib/schema';
 import type { ItineraryAddition, ItineraryApproach, ItineraryStop } from '../../lib/types';
 
@@ -20,12 +18,6 @@ const days = (trip.days || []).map((day, index) => ({ ...day, id: `day-${index +
 const stops = trip.stops || [];
 const additions = trip.additions || [];
 const showDays = days.length > 1 || trip.level === 'nationwide' || trip.level === 'region';
-const pins = showDays
-  ? routePins(days.flatMap((day) => {
-      const place = day.placeSlug ? getPlace(day.placeSlug) : undefined;
-      return place ? [place] : [];
-    }))
-  : [];
 const otherTrips = getItineraries().filter((item) => item.slug !== trip.slug);
 const path = `/itineraries/${trip.slug}`;
 const description = pageDescription(trip.seoDescription, trip.summary);
@@ -112,7 +104,6 @@ function linkedHref(item: ItineraryAddition | ItineraryStop): string {
       </div>
       <div class="place-grid itinerary-grid">
         <div class="itinerary-main">
-          {pins.length > 1 && <RouteMap pins={pins} />}
           {showDays && (
             <div class="day-cards">
               {days.map((day, index) => {

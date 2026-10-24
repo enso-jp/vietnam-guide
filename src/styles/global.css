@@ -1722,13 +1722,6 @@ th, td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var
 .itinerary-body { padding-top: 2.25rem; }
 .itinerary-grid > .rail { position: sticky; top: 6.4rem; align-self: start; z-index: 1; }
 .fact-gap { display: block; height: 1.15rem; margin-bottom: 0.35rem; }
-.route-map { position: relative; width: min(100%, 17.5rem); margin: 0.35rem 0 0.15rem; }
-.route-map .map-svg { display: block; }
-.route-overlay { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
-.route-overlay polyline { fill: none; stroke: var(--lacquer); stroke-linejoin: round; stroke-linecap: round; }
-.route-overlay circle { fill: #fff; stroke: var(--lacquer); }
-.route-overlay .route-num { fill: var(--ink); font-weight: 700; }
-.route-overlay .route-name { fill: var(--ink); font-weight: 650; }
 .day-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 0.9rem; margin-top: 1.35rem; }
 .day-cards > section { display: flex; min-width: 0; }
 .day-plan-card { flex: 1; }
