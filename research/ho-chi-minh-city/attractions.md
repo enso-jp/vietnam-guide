@@ -537,6 +537,6 @@ Neighborhood visits named by the owner. Per-sight notes are in `research/ho-chi-
 
 - `japan-town`. Kind area. S38 and S39. Length disagrees: 300 m and less than 2 km. Both stay. Hours agree. Dot proposed 4. Licensed frames of the alley and of Thái Văn Lung. Paged.
 - `cho-lon`. The 22 Oct district entry stays. S40 is the street walk. A shophouse frame that is not the Bình Tây gate and not Thiên Hậu is now filed. Dot 4, the figure already suggested. Paged. It stays an area of this city.
-- `thao-dien`. S41, S42, and the station name on S7. Unpublished: no licensed photo of the streets, cafes, or bars.
-- `pham-viet-chanh`. One sentence on S38. Unpublished: no second page and no licensed photo of the Bình Thạnh street.
+- `thao-dien`. S41, S42, and the station name on S7. Owner photo 24 Oct 2026 is one brunch room, not a street panorama. Paged. The caption says so.
+- `pham-viet-chanh`. One sentence on S38. Owner photo 24 Oct 2026 is the night street, rooms 34 and 36. Paged. It is not Lê Thánh Tôn.
 - Nguyễn Huệ already has a page. Left off: a separate District 2 riverside card, Vĩnh Khánh, Oishi Town, and the still-unpublished sights listed on 23 Oct.

@@ -2,7 +2,7 @@
 
 Place: `ho-chi-minh-city`
 Slug: `pham-viet-chanh`
-Status: unpublished: no licensed photo
+Status: stored
 Checked: 24 Oct 2026
 
 ## What it is
@@ -57,6 +57,7 @@ Checked: 24 Oct 2026
 - Hero must show: The Bình Thạnh street, Japanese signs or kitchens, the street readable in one glance.
 - Second frame must show (a different moment): Another hour of that same street.
 - Reject: File:Pham Viet Chanh, q1, tphcmvn - panoramio.jpg. The title says District 1. The frame is a commercial street and a fast-food sign, not a Japanese alley in Bình Thạnh. Other “Pham Viet Chanh” hits on Commons are the District 1 segment or a different road.
+- Owner photo, 24 Oct 2026: Tan Hai Long Phung supplied the street at night, izakaya fronts, numbers 34 and 36. The file is already 3:2. Hero is that frame, recompressed. Second crop is the room at 36, noren and menu. License is owner supplied. No Commons license was invented. A second hour was not supplied.
 
 ## Links
 
@@ -65,7 +66,7 @@ Checked: 24 Oct 2026
 ## Open questions
 
 - A second opened page that describes the street as a dining walk, with a clock or a count.
-- A licensed photo of the Bình Thạnh street.
+- A second hour of the same street. The night frame is filed.
 - The Visit HCMC article, if it is republished at a URL that loads.
 
 ## Sources
@@ -78,5 +79,6 @@ Checked: 24 Oct 2026
 
 ## Draft
 
-- Status: unpublished: no licensed photo
-- Left off the city card. One opened sentence is not a visit, and the photograph of the name is the wrong street.
+- Status: paged
+- Dot proposed: 3. A smaller street than Lê Thánh Tôn, with one opened sentence and a night frame. Not the center alley walk.
+- The District 1 panoramio stays rejected.

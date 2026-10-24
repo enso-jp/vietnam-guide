@@ -57,3 +57,5 @@ Left out, and not invented: a single city pin; the unread city-portal range; a 2
 On 23 Oct 2026 the delicious-dishes page (S24) and the Visit HCMC Ben Thanh article (S25) were opened. New plates from those pages are in `food.md`. No licensed photo of bánh tráng trộn, bún bò Nam Bộ, the xôi plates, or the chè bowls was opened. The S24 page image is a Hà Nội bánh mì file and was not used. Two Visit HCMC market URLs from search, the largest-markets article and the nine night markets article, redirected to the news index and were not read. Snippets from those URLs were not used.
 
 On 24 Oct 2026 Japan Town and the Chợ Lớn street walk were filed, with licensed frames of those streets. Thảo Điền and Phạm Viết Chánh stay unpublished: no licensed photo of the subject. Public JSON for the two streets was edited in that pass. `control.holdPlaces` was not edited.
+
+Later the same day the owner supplied two photographs. Thảo Điền’s frame is one brunch room. Phạm Viết Chánh’s frame is the night street. Both pages were filed. Status stays stored.

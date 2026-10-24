@@ -1,0 +1,57 @@
+{
+  "slug": "thao-dien",
+  "placeSlug": "ho-chi-minh-city",
+  "name": "Thao Dien",
+  "nameVi": "Thảo Điền",
+  "kicker": "Riverside neighborhood of cafes and bars",
+  "summary": "Thảo Điền, east of the center: eat and drink along Xuân Thủy, on the quiet riverside side. The stroll passes eateries and bars. One brunch room holds a Saigon mural under a high ceiling. That room is not the whole ward. Metro Line 1 stops at the station named Thảo Điền. Check on arrival for a clock.",
+  "dots": 4,
+  "timeNeeded": "A stroll and a meal. Check on arrival.",
+  "fee": "Check on arrival.",
+  "getThere": "Metro Line 1 to the station named Thảo Điền. Check on arrival for the minutes.",
+  "district": "Thảo Điền",
+  "verified": "24 Oct 2026",
+  "heroCaption": "One brunch room in Thảo Điền, the Saigon mural under a high ceiling",
+  "notice": {
+    "title": "The side streets flood",
+    "body": "Surrounding streets flood in the rainy season. Xuân Thủy is the stroll. Check on arrival after heavy rain."
+  },
+  "body": [
+    "Thảo Điền is the riverside neighborhood east of the center, the relaxed side of the city beside District 1 and District 3. A short stroll on Xuân Thủy passes eateries and bars. You are not in the Japanese alleys off Lê Thánh Tôn. You pay for what you order.",
+    "One brunch room, L'Usine, holds the Saigon mural, cyclists and the skyline under a high ceiling, with tables set beneath it. That room is not the whole ward. The walk is outside, along Xuân Thủy. Metro Line 1 from Bến Thành stops at the station named Thảo Điền. Check on arrival for a clock, and for the minutes."
+  ],
+  "figures": [
+    {
+      "id": "ho-chi-minh-city-thao-dien-2",
+      "caption": "Tables under the mural in the same brunch room",
+      "alt": "Cafe tables under a painted Saigon skyline mural in a high-ceiling brunch room"
+    }
+  ],
+  "gettingThere": [
+    "Thảo Điền is east of the center. Metro Line 1 from Bến Thành stops at the station named Thảo Điền. Check on arrival for the minutes."
+  ],
+  "legs": [
+    {
+      "heading": "From Bến Thành",
+      "body": "Metro Line 1 to the station named Thảo Điền. Check on arrival for the minutes."
+    }
+  ],
+  "hours": "Check on arrival.",
+  "closed": "Check on arrival.",
+  "admissionNote": "Check on arrival. You pay for what you order.",
+  "links": [
+    {
+      "label": "Ho Chi Minh City nightlife",
+      "url": "https://vietnam.travel/things-to-do/vibrant-metropolis-ho-chi-minh-city%E2%80%99s-modern-pulse-nightlife-culture",
+      "note": "Vietnam National Authority of Tourism"
+    },
+    {
+      "label": "Places in Thao Dien",
+      "url": "https://e.vnexpress.net/news/travel/food-recipes/places-worth-a-visit-in-thao-dien-one-of-world-s-coolest-neighborhoods-4874391.html",
+      "note": "VnExpress International, 4 May 2025"
+    }
+  ],
+  "interests": [
+    "food"
+  ]
+}
